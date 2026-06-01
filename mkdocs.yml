@@ -1,0 +1,13 @@
+site_name: AI research on Human History
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - About: about.md
+
+
+markdown_extensions:
+  - meta
+
