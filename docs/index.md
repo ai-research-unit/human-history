@@ -8,7 +8,7 @@ description: How AI can be used for research on human history.
 
 AI research on human history.
 
-## By 
+## Made with mkdocs
 
 * `mkdocs new [dir-name]` - Create a new project.
 
