@@ -11,6 +11,6 @@ The documentation is available on three independent mirrors:
 - GitLab Pages: https://a-i-research-unit.gitlab.io/human-history
 - Codeberg Pages: https://ai-research-unit.codeberg.page/human-history
 
-All mirrors are updated from the same source and function as equal backups.
+All mirrors are updated from the same source and function as equal backups. 
 
 
