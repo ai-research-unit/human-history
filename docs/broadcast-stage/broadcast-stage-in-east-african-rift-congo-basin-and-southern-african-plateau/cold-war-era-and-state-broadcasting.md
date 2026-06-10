@@ -1,0 +1,69 @@
+# __1965 CE – 1980 CE__ — Cold War Era and State Broadcasting
+__Summary:__ State broadcasting consolidates across sub-Saharan Africa as one-party regimes control radio and introduce television; apartheid South Africa deploys SABC and Bantu Radio as instruments of ethnic separation and propaganda; liberation movements operate exile stations (Radio Freedom, SWAPO radio); Cold War powers beam shortwave propaganda and provide technical assistance. The binding constraint is political control over limited transmitter networks; margin against regime challenge is thin where opposition is suppressed rather than accommodated. Direction of change runs toward tighter state monopoly and ideological polarization.
+## __P01. Physical Environment__
+__Geography & Spatial Friction:__ Rift Valley highlands, Congo Basin forest, and Kalahari-Highveld plateau continue to impose transmission barriers; medium-wave coverage favors open terrain; shortwave overcomes distance but requires costly infrastructure; spatial friction limits rural penetration.<br><br>
+__Climate Regime & Volatility:__ Sahelian drought intensifies in the 1970s; southern African rainfall remains variable; climate stress strains rural livelihoods but broadcast infrastructure is largely unaffected.<br><br>
+__Hazard Regime & Exposure:__ Seismic and volcanic hazards remain localized; flooding and drought are the primary shocks; infrastructure margin is adequate for broadcast continuity.<br><br>
+__Resource & Energy Endowment:__ Oil discoveries in Nigeria and Angola shift regional power; South African coal and Zambian copper fund state budgets; hydroelectric capacity expands (Cabora Bassa, Inga); electrification extends to secondary towns.<br><br>
+__Waste Absorption & Sink Capacity:__ Industrial waste increases with mining and manufacturing growth; broadcast-sector loads remain negligible; absorptive capacity is not strained.<br><br>
+## __P02. Biological Environment__
+__Pathogen Load & Mortality Baseline:__ Malaria and waterborne diseases persist; HIV emerges silently in the late 1970s (unrecognized until 1980s); overall mortality declines slowly with expanding health services.<br><br>
+__Nutrition & Physiological Vitality:__ Green Revolution inputs reach some areas; urban food supply improves; rural nutrition remains uneven; Sahelian drought causes acute hunger in affected zones.<br><br>
+__Reproductive Biology & Pairing Dynamics:__ High fertility continues; family planning programs begin in Kenya and Zimbabwe-Rhodesia; polygyny remains common; reproductive biology is stable.<br><br>
+__Demographic Renewal & Density:__ Population growth accelerates to three percent annually in many states; urban density rises sharply; migration to capitals intensifies; age structure skews young.<br><br>
+__Attrition & Dependency Overhang:__ Orphan and widow rates remain elevated; extended family absorbs dependents; migrant labor disrupts household stability; dependency load is high but contained.<br><br>
+## __P03. Economic Environment__
+__Subsistence & Provisioning Floor:__ Smallholder agriculture sustains rural majority; ujamaa villagization disrupts Tanzanian production; subsistence floor is maintained but precarious in drought years.<br><br>
+__Energy Capture & Conversion:__ Grid electrification extends; petroleum imports rise; broadcast transmitters draw from national grids; battery-powered receivers proliferate in rural areas; per-capita energy remains low but rising.<br><br>
+__Labor Organization & Coercion:__ Wage labor expands in mines, plantations, and state enterprises; apartheid influx control coerces South African labor; union activity is suppressed in one-party states.<br><br>
+__Production & Surplus Capacity:__ Import-substitution industrialization proceeds; state enterprises dominate; surplus is captured by marketing boards and parastatal monopolies; efficiency is low.<br><br>
+__Storage, Reserves & Buffering:__ Food reserves are thin; foreign-exchange reserves fluctuate with commodity prices; oil shocks (1973, 1979) strain import capacity; buffering is inadequate.<br><br>
+__Exchange, Trade & Logistics:__ Rail and port infrastructure ages; intra-African trade is limited by colonial-era orientation; smuggling circumvents state controls; logistics costs rise.<br><br>
+__Value Storage, Credit & Deferred Exchange:__ State-owned banks dominate; credit allocation is politicized; inflation erodes purchasing power in some states; informal credit persists.<br><br>
+__Surplus Extraction & Redistribution:__ Marketing boards extract agricultural surplus; mining royalties fund state budgets; redistribution favors urban constituencies and patronage networks; extraction loads are heavy.<br><br>
+__Wealth Distribution & Asset Defense:__ Post-colonial elites accumulate; land reform in Tanzania and Zambia; South African apartheid concentrates white-held assets; inequality is high and contested.<br><br>
+__Byproducts & Waste Routing:__ Mining and industrial effluent increases; electronic waste from receivers is minimal; waste is externalized with no binding constraint.<br><br>
+## __P04. Social Environment__
+__Social Trust & Mutual Aid:__ Ethnic solidarity remains primary; urban neighborhoods develop associational ties; state rhetoric promotes national unity but practice reinforces patronage; trust radius is stable or contracting.<br><br>
+__Stratification, Status & Group Identity:__ Political elites consolidate; ethnic identity is mobilized for patronage; apartheid enforces racial hierarchy; boundaries harden in some contexts, blur in others.<br><br>
+__Kinship, Family & Inheritance:__ Bridewealth and patrilineal inheritance persist; urban migration strains kinship obligations; women gain limited legal rights in some states.<br><br>
+__Civic Association & Self-Organization:__ Trade unions, churches, and ethnic associations operate under state oversight; independent organization is constrained; South African resistance networks operate clandestinely.<br><br>
+__Leisure, Play & Sociability:__ Football is dominant; radio-transmitted music (soukous, mbaqanga, benga) unifies audiences; television reaches urban elites; bars and shebeens are social centers.<br><br>
+__Grievance Channels & Social Discharge:__ One-party systems close formal channels; churches and ethnic associations absorb some grievance; unmetabolized resentment accumulates in South Africa, Rhodesia, and Zaire.<br><br>
+## __P05. Political Environment__
+__Power Structure & Authority:__ One-party states consolidate (Tanzania, Zambia, Kenya, Zaire); apartheid tightens in South Africa; Rhodesia under white minority rule until 1979; power is highly centralized.<br><br>
+__Succession & Power Transfer:__ Founding presidents dominate; succession crises are avoided through longevity or coup; Idi Amin seizes power in Uganda (1971); transfer mechanisms are weak.<br><br>
+__Legitimacy & Political Narrative:__ Nationalism, socialism, and developmentalism justify rule; apartheid invokes anti-communism and separate development; legitimacy erodes where economic promises fail.<br><br>
+__Administrative Capacity & Institutional Integrity:__ State capacity varies; Tanzania and Kenya maintain functional bureaucracies; Zaire and Uganda see corruption and decay; broadcasting is tightly controlled.<br><br>
+__Political Participation & Mobilization:__ Single-party elections channel participation; opposition is suppressed; South African resistance mobilizes underground; exile movements organize abroad.<br><br>
+__Geopolitical Position & External Relations:__ Cold War alignment shapes aid and arms flows; frontline states support liberation; South Africa destabilizes neighbors; superpower competition is intense.<br><br>
+__Coercive Apparatus & Means of Force:__ Armies expand; South African Defence Force dominates regionally; police and intelligence services monitor dissent; means of force are concentrated in state hands.<br><br>
+__Internal Order & Threat Environment:__ Rhodesian Bush War (1964–1979); South African township resistance; Ugandan instability; insurgency and state violence coexist; order is contested but regimes survive.<br><br>
+## __P06. Informational Environment__
+__Channels & Transmission Velocity:__ State radio monopolies dominate; SABC operates Bantu Radio services in ethnic languages; television introduced in South Africa (1976), Kenya, Zaire, and elsewhere for urban audiences; shortwave from BBC, VOA, Radio Moscow, and Radio Peking reaches across borders; exile stations (Radio Freedom, SWAPO radio) broadcast from Zambia, Tanzania, and beyond; transmission is instantaneous where coverage exists.<br><br>
+__Record, Storage & Persistence:__ State archives expand; broadcast recordings are selectively preserved; censored material is confiscated; oral memory carries suppressed narratives; persistence is politicized.<br><br>
+__Framing, Censorship & Discourse Norms:__ State broadcasters frame news to serve regime interests; apartheid SABC suppresses anti-apartheid voices; one-party states control editorial lines; censorship is pervasive; alternative framing circulates via shortwave and samizdat.<br><br>
+__Reception, Attention & Amplification:__ Receiver ownership rises; communal listening persists; television concentrates attention in urban centers; political speeches and music dominate airtime; amplification favors state narratives but shortwave provides alternatives.<br><br>
+__Signal Integrity & Noise Load:__ Propaganda and counter-propaganda compete; verification is weak; rumor fills gaps left by censorship; noise is managed through repetition of official messages; informational environment is polarized.<br><br>
+## __P07. Judicial Environment__
+__Moral Foundations & Sense of Justice:__ Colonial legal frameworks persist with nationalist amendments; customary justice retains rural legitimacy; apartheid law is widely seen as unjust by the majority; moral foundations are contested.<br><br>
+__Law, Codification & Regulatory Evolution:__ Broadcasting is regulated by government decree; sedition and emergency laws criminalize dissent; apartheid statutes formalize racial separation; regulatory evolution serves state control.<br><br>
+__Adjudication, Enforcement & Liability:__ Courts function under political pressure; security cases are handled by special tribunals; enforcement is selective; broadcasting violations are punished administratively.<br><br>
+__Rights, Protections & Compliance Burden:__ Constitutional rights are nominal in one-party states; detention without trial is common; apartheid denies rights to the majority; compliance burden on broadcasters is conformity to state line.<br><br>
+__Impunity & Unredressed Wrong:__ State security forces enjoy impunity; political detainees have no recourse; apartheid abuses accumulate; judicial deficit is large and growing.<br><br>
+## __P08. Intellectual Environment__
+__Inquiry, Theory & Paradigm:__ Dependency theory and African socialism inform elite discourse; apartheid intellectuals defend separate development; liberation theology emerges; local research capacity is limited but growing.<br><br>
+__Applied Knowledge & Technical Method:__ Broadcasting engineering is imported; training programs expand at African universities; local technicians maintain transmitters; manufacturing remains external.<br><br>
+__Education, Knowledge Stock & Skill Distribution:__ Primary enrollment expands; secondary and tertiary education grows; literacy rates rise to thirty to fifty percent; technical skills remain scarce; brain drain begins.<br><br>
+__Obsolescence & Knowledge Decay:__ Colonial curricula are revised; indigenous knowledge is marginalized in formal education; oral transmission continues; knowledge stock grows but unevenly.<br><br>
+## __P09. Cultural Environment__
+__Mythos, Memory & Foundational Identity:__ National narratives consolidate; liberation struggle becomes founding myth for emerging Zimbabwe; apartheid constructs Afrikaner laager mythology; ethnic memories persist alongside national identity.<br><br>
+__Artistic Expression & Material Culture:__ Soukous, rumba, and township music flourish; radio disseminates regional styles; brutalist state architecture marks capitals; visual arts reflect political engagement.<br><br>
+__Collective Mood & Behavioral Disposition:__ Optimism of independence fades; economic stagnation and political repression generate disillusionment; South African resistance hardens after Soweto (1976); mood is mixed but darkening.<br><br>
+__Form Exhaustion & Meaning Decay:__ Independence-era symbols lose potency where promises are unfulfilled; revolutionary rhetoric becomes routine; cultural forms are strained but not exhausted.<br><br>
+## __P10. Spiritual Environment__
+__Cosmology & Existential Outlook:__ Christianity and Islam continue to spread; African Independent Churches grow; secularism is an elite posture; fatalism and piety coexist; existential frameworks are plural.<br><br>
+__Ritual, Devotion & Sacred Practice:__ Church attendance rises; mosque observance consolidates; indigenous rituals persist privately; radio carries religious programming in most states.<br><br>
+__Religious Institutions & Doctrinal Authority:__ Churches achieve institutional independence; South African churches split over apartheid; Islamic authority rests with local scholars and brotherhoods; doctrinal orthodoxy is locally interpreted.<br><br>
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity penetrates rural areas; Pentecostalism begins growth; indigenous beliefs recede but inform syncretic practice; Islam consolidates in established zones.<br><br>
+__Disenchantment & Sacred Discharge:__ Elite secularism coexists with mass piety; political disillusionment does not translate to spiritual void; religious institutions provide meaning and community; disenchantment is limited.<br><br>

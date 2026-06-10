@@ -1,0 +1,24 @@
+[data-md-color-scheme="default"] {
+  /* Soft warm gray background instead of pure white */
+  --md-surface: #f3f4f6 !important;
+  --md-default-bg-color: #ffffffcf !important;
+
+  /* Slightly darker text for better contrast on softer background */
+  --md-default-fg-color: #1f2937 !important;
+
+  /* Code block background (light but not white) */
+  --md-code-bg-color: #e5e7eb !important;
+}
+
+[data-md-color-scheme="slate"] {
+  /* Deep navy background */
+  --md-surface: #0f172a !important;
+  --md-default-bg-color: #161719 !important;
+
+  /* Code block background — darker, but still readable */
+  --md-code-bg-color: #1e293b !important;
+
+  /* Text color tuned for this background */
+  --md-default-fg-color: #e2e8f0 !important;
+}
+

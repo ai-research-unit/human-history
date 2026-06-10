@@ -1,0 +1,69 @@
+# __1050 BCE – 900 BCE__ — The Submycenaean and Protogeometric Dark Age
+__Summary:__ The Aegean world at its demographic and material nadir; scattered village communities subsist in the ruins of the palatial order with no writing, minimal long-distance contact, and iron slowly replacing bronze. The binding constraint is population scarcity and the absence of any coordinating institution above the household; capacity for surplus, specialization, and collective action remains minimal. Absorptive margin against further shock is thin but stable, and the direction of change is flat to very slowly recovering as the Protogeometric period introduces modest material refinement.
+## __P01. Physical Environment__
+__Geography & Spatial Friction:__ Aegean geography unchanged; mountainous terrain and island fragmentation continue to impose high overland friction; maritime routes functional but lightly trafficked; effective isolation of communities increases.<br><br>
+__Climate Regime & Volatility:__ Mediterranean climate with dry summers and wet winters; no major climatic anomalies attested for this window; conditions broadly favorable for subsistence agriculture.<br><br>
+__Hazard Regime & Exposure:__ Seismic and volcanic hazard baseline unchanged; exposure reduced by population dispersal and minimal infrastructure; a single village lost to earthquake or fire is locally catastrophic but systemically inconsequential.<br><br>
+__Resource & Energy Endowment:__ Iron ore locally available and increasingly exploited; bronze requires imported tin now scarce; timber adequate for reduced construction needs; arable land underutilized given population decline.<br><br>
+__Waste Absorption & Sink Capacity:__ Anthropogenic load minimal; no pressure on absorptive capacity; landscape regenerating in areas abandoned since palatial period.<br><br>
+## __P02. Biological Environment__
+__Pathogen Load & Mortality Baseline:__ Endemic Mediterranean disease load; no epidemic spikes attested; mortality baseline probably stable at pre-palatial rural levels; dispersed settlement reduces epidemic transmission.<br><br>
+__Nutrition & Physiological Vitality:__ Subsistence agriculture provides adequate but undiverse diet; skeletal evidence sparse; no signs of severe malnutrition though dietary quality probably lower than palatial peak.<br><br>
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding within small communities; mate selection constrained by limited population; exogamy requires inter-village contact; household formation stable.<br><br>
+__Demographic Renewal & Density:__ Population at or near nadir; replacement ratios approximately at unity; very slow growth beginning in Protogeometric; density low across Aegean with Athens and Lefkandi among larger settlements.<br><br>
+__Attrition & Dependency Overhang:__ Dependency load normalized within household structures; orphans and widows absorbed by kin; no systemic overhang; population structure stabilized after collapse-era disruption.<br><br>
+## __P03. Economic Environment__
+__Subsistence & Provisioning Floor:__ Household-level mixed agriculture—grain, olives, vines, livestock—provides subsistence floor; no centralized redistribution; provisioning adequate in normal years.<br><br>
+__Energy Capture & Conversion:__ Human and animal muscle sole power sources; no large-scale labor mobilization possible; per-capita work ceiling modest but sufficient for household needs.<br><br>
+__Labor Organization & Coercion:__ Labor organized within household and kin group; no institutional coercion; cooperation through reciprocal obligation; specialist labor rare and part-time.<br><br>
+__Production & Surplus Capacity:__ Production near subsistence; minimal surplus generated; craft production (pottery, metalwork) at household or part-time specialist scale; no accumulation beyond immediate needs.<br><br>
+__Storage, Reserves & Buffering:__ Household-level storage in pithoi; no communal granaries; reserves sufficient for single bad year at most; vulnerability to consecutive harvest failures remains.<br><br>
+__Exchange, Trade & Logistics:__ Local exchange within walking distance; limited inter-regional contact; Lefkandi exceptional in maintaining some eastern Mediterranean connections; no formal market structures.<br><br>
+__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; value stored in livestock, metal objects, and durable goods; exchange through gift and reciprocity; deferred obligations within kin network.<br><br>
+__Surplus Extraction & Redistribution:__ No institutional extraction; no taxation; any redistribution purely voluntary within kin and community; surplus, where it exists, remains with producer.<br><br>
+__Wealth Distribution & Asset Defense:__ Wealth distribution relatively flat; elite differentiation modest but present (Lefkandi heroon indicates exceptional accumulation); asset defense through concealment and kin solidarity.<br><br>
+__Byproducts & Waste Routing:__ Minimal industrial byproducts; household waste locally dispersed; no routing infrastructure needed; effectively no waste load.<br><br>
+## __P04. Social Environment__
+__Social Trust & Mutual Aid:__ Trust radius confined to kin and immediate village; mutual aid through reciprocal obligation; guest-friendship (xenia) provides framework for inter-community relations.<br><br>
+__Stratification, Status & Group Identity:__ Status hierarchy shallow; differentiation based on lineage, land, and martial prowess; Lefkandi burial suggests emergent elite but not generalized; ethnic or tribal identities loosely defined.<br><br>
+__Kinship, Family & Inheritance:__ Patrilineal household the fundamental unit; inheritance through male line; bride exchange between households; kin obligations strong and binding.<br><br>
+__Civic Association & Self-Organization:__ Village-level assembly of household heads probable; no formal civic institutions; self-organization ad hoc for defense, ritual, or collective labor.<br><br>
+__Leisure, Play & Sociability:__ Sociability at household and village scale; seasonal festivals and funerary gatherings provide occasion for broader assembly; oral performance by traveling or local bards.<br><br>
+__Grievance Channels & Social Discharge:__ Grievances mediated by elders or resolved through compensation and feud; mobility possible as safety valve given underpopulated landscape; friction discharge largely effective at this scale.<br><br>
+## __P05. Political Environment__
+__Power Structure & Authority:__ Power diffuse and local; basileis (petty chiefs) command household followings; no overarching authority; Lefkandi suggests some leaders can mobilize exceptional resources but not institutional power.<br><br>
+__Succession & Power Transfer:__ Leadership likely passes within elite households by kinship and acclaim; no routinized succession; transfer contested where stakes warrant.<br><br>
+__Legitimacy & Political Narrative:__ Legitimacy rests on lineage, personal prowess, and generosity; oral genealogies assert heroic descent; no formal ideology beyond personal and familial reputation.<br><br>
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; no record-keeping; no institutional memory beyond oral tradition; capacity effectively null; governance purely personal.<br><br>
+__Political Participation & Mobilization:__ Participation in village assembly open to household heads; mobilization for defense or raid through personal summons; no mass politics.<br><br>
+__Geopolitical Position & External Relations:__ Aegean communities isolated from wider Mediterranean diplomatic systems; no treaty relations attested; Lefkandi's eastern contacts exceptional and likely commercial rather than political.<br><br>
+__Coercive Apparatus & Means of Force:__ No standing forces; military capacity ad hoc warrior bands; iron weapons increasingly common; bronze retained for prestige; fortification rare; force commanded by leading households.<br><br>
+__Internal Order & Threat Environment:__ Raiding and cattle-theft endemic but manageable; no systemic disorder; violence localized and personal; threat environment chronic but low-intensity.<br><br>
+## __P06. Informational Environment__
+__Channels & Transmission Velocity:__ Information travels by voice and physical travel; velocity limited to walking or sailing speed; reach confined to personal contact networks; travelers and bards serve as news carriers.<br><br>
+__Record, Storage & Persistence:__ No writing system in use; Linear B lost and Greek alphabet not yet adopted; all record persistence through memory and oral recitation; genealogies, myths, and technical knowledge survive only as spoken and remembered.<br><br>
+__Framing, Censorship & Discourse Norms:__ No central authority to frame discourse; oral performance shaped by performer skill and audience response; taboos around divine names and pollution likely operative.<br><br>
+__Reception, Attention & Amplification:__ Audience limited to those physically present; attention sustained through performance quality and narrative engagement; amplification through repetition and inter-community transmission.<br><br>
+__Signal Integrity & Noise Load:__ Oral transmission susceptible to gradual drift; formulaic techniques aid retention but perfect fidelity impossible; Bronze Age memories transforming through retelling; noise accumulates but slowly at this population density.<br><br>
+## __P07. Judicial Environment__
+__Moral Foundations & Sense of Justice:__ Honor-based morality; justice as reciprocal balance; wrongs demand compensation or vengeance; guest-friendship violations particularly grave.<br><br>
+__Law, Codification & Regulatory Evolution:__ No written law; customary rules transmitted orally; themis (divine custom) and dike (right dealing) provide conceptual framework; evolution through precedent and elder interpretation.<br><br>
+__Adjudication, Enforcement & Liability:__ Disputes settled by elders, arbitration, or self-help; no formal courts; liability assigned by negotiation or feud; enforcement through kin solidarity and reputation.<br><br>
+__Rights, Protections & Compliance Burden:__ No formal rights; protection depends on kin and patron; compliance burden light absent state apparatus; predictability high within small communities, low between them.<br><br>
+__Impunity & Unredressed Wrong:__ Impunity possible for the powerful or mobile; blood-feuds can persist across generations; most wrongs eventually settled but some accumulate as standing grievance.<br><br>
+## __P08. Intellectual Environment__
+__Inquiry, Theory & Paradigm:__ No formal inquiry; practical knowledge of agriculture, metallurgy, navigation, and animal husbandry constitutes the knowledge base; no theoretical paradigm.<br><br>
+__Applied Knowledge & Technical Method:__ Iron-working techniques spreading; Protogeometric pottery shows technical refinement (compass-drawn decoration); shipbuilding and seamanship maintained; methods transmitted through apprenticeship.<br><br>
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally within households and craft traditions; no formal education; literacy null; skill distribution adequate for subsistence economy; specialist knowledge (metalworking, bardic performance) held by few.<br><br>
+__Obsolescence & Knowledge Decay:__ Linear B fully obsolete and lost; Bronze Age palatial techniques extinct; knowledge stock contracting but stabilizing at level adequate for current needs; decay slowing as baseline establishes.<br><br>
+## __P09. Cultural Environment__
+__Mythos, Memory & Foundational Identity:__ Memory of the heroic Bronze Age preserved and transformed in oral tradition; Trojan War and heroic genealogies provide identity framework; Mycenaean palaces becoming legendary rather than historical.<br><br>
+__Artistic Expression & Material Culture:__ Protogeometric pottery marks aesthetic renewal—geometric precision, compass-drawn circles; material culture simplified but not crude; iron tools and weapons; modest grave goods; Lefkandi heroon exceptional in scale.<br><br>
+__Collective Mood & Behavioral Disposition:__ Stable if constrained mood; neither traumatic collapse nor confident expansion; cautious localism; communities focused on subsistence and survival; heroic oral tradition provides imaginative horizon beyond immediate constraints.<br><br>
+__Form Exhaustion & Meaning Decay:__ Bronze Age palatial forms fully exhausted and abandoned; new Protogeometric aesthetic emerging; oral tradition maintains and transforms inherited meanings; no significant meaning vacuum at this scale.<br><br>
+## __P10. Spiritual Environment__
+__Cosmology & Existential Outlook:__ Polytheistic cosmology continuous with Bronze Age; gods powerful, capricious, and demanding propitiation; human fate subject to divine will; moderate fatalism balanced by ritual efficacy.<br><br>
+__Ritual, Devotion & Sacred Practice:__ Household and local cult predominate; sanctuary activity at sites like Olympia and Kalapodi attested through votive deposits; cremation becoming standard burial rite; funerary ritual significant.<br><br>
+__Religious Institutions & Doctrinal Authority:__ No centralized religious authority; cult practice local and kin-based; orally transmitted myth provides theological framework; no priesthood with institutional power.<br><br>
+__Spiritual Diffusion, Syncretism & Displacement:__ No significant new cults entering; Bronze Age divine names persist; local variation in cult practice; some minor syncretism with eastern elements possible at contact points like Lefkandi.<br><br>
+__Disenchantment & Sacred Discharge:__ No disenchantment evident; the sacred fully integrated into daily and communal life; spiritual needs met through household and local cult; hero-cult beginning to emerge as mode of ancestral veneration.<br><br>

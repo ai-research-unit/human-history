@@ -1,0 +1,11 @@
+# __Print Stage in The Iberian Peninsula and Western Mediterranean — 1500 CE – 1930 CE__
+### - [1500 CE – 1598 CE — Habsburg Zenith and Counter-Reformation Print](habsburg-zenith-and-counter-reformation-print.md)
+### - [1598 CE – 1700 CE — Habsburg Decline and Baroque Culture](habsburg-decline-and-baroque-culture.md)
+### - [1700 CE – 1808 CE — Bourbon Reforms and Enlightened Press](bourbon-reforms-and-enlightened-press.md)
+### - [1808 CE – 1833 CE — Napoleonic Invasion and Liberal Constitution](napoleonic-invasion-and-liberal-constitution.md)
+### - [1833 CE – 1874 CE — Liberal Revolution and Carlist Conflicts](liberal-revolution-and-carlist-conflicts.md)
+### - [1874 CE – 1898 CE — Restoration System and Colonial Collapse](restoration-system-and-colonial-collapse.md)
+### - [1898 CE – 1923 CE — Crisis of Restoration and Mass Politics](crisis-of-restoration-and-mass-politics.md)
+### - [1923 CE – 1930 CE — Primo de Rivera Dictatorship and Censorship](primo-de-rivera-dictatorship-and-censorship.md)
+### - [1500 CE – 1930 CE — Inquisition, Index, and Spanish Censorship](inquisition-index-and-spanish-censorship.md)
+### - [1500 CE – 1930 CE — Portuguese Print and Atlantic Networks](portuguese-print-and-atlantic-networks.md)

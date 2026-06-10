@@ -1,0 +1,12 @@
+# __Oral Stage in The North European Plain — 40000 BCE – 1000 CE__
+### - [40000 BCE – 25000 BCE — Upper Paleolithic Colonization and Aurignacian-Gravettian Florescence](upper-paleolithic-colonization-and-aurignacian-gravettian-florescence.md)
+### - [25000 BCE – 12000 BCE — Last Glacial Maximum and Late Glacial Recolonization](last-glacial-maximum-and-late-glacial-recolonization.md)
+### - [12000 BCE – 6000 BCE — Mesolithic Forest Adaptation](mesolithic-forest-adaptation.md)
+### - [6000 BCE – 4000 BCE — Linear Pottery Culture and Neolithic Expansion](linear-pottery-culture-and-neolithic-expansion.md)
+### - [4000 BCE – 2500 BCE — Middle Neolithic Diversification and Megalithic Traditions](middle-neolithic-diversification-and-megalithic-traditions.md)
+### - [2500 BCE – 1500 BCE — Corded Ware and Bell Beaker Horizons](corded-ware-and-bell-beaker-horizons.md)
+### - [1500 BCE – 800 BCE — Bronze Age Consolidation and Urnfield Expansion](bronze-age-consolidation-and-urnfield-expansion.md)
+### - [800 BCE – 50 CE — Iron Age and Pre-Roman Germanic Societies](iron-age-and-pre-roman-germanic-societies.md)
+### - [50 CE – 400 CE — Roman Frontier and Germanic Interaction](roman-frontier-and-germanic-interaction.md)
+### - [400 CE – 700 CE — Migration Period and Post-Roman Transformation](migration-period-and-post-roman-transformation.md)
+### - [700 CE – 1000 CE — Viking Age and Christianization](viking-age-and-christianization.md)

@@ -1,0 +1,10 @@
+# __Digital Stage in The East European Plain — 2012 CE – 2026 CE__
+### - [2012 CE – 2017 CE — Post-Protest Control and RuNet Consolidation](post-protest-control-and-runet-consolidation.md)
+### - [2017 CE – 2022 CE — Information Warfare and Platform Battles](information-warfare-and-platform-battles.md)
+### - [2022 CE – 2026 CE — War, Sanctions, and Digital Isolation](war-sanctions-and-digital-isolation.md)
+### - [2012 CE – 2026 CE — VKontakte and Domestic Platform Ecosystem](vkontakte-and-domestic-platform-ecosystem.md)
+### - [2012 CE – 2026 CE — Telegram as Contested Space](telegram-as-contested-space.md)
+### - [2012 CE – 2026 CE — State Surveillance and Control Infrastructure](state-surveillance-and-control-infrastructure.md)
+### - [2012 CE – 2026 CE — Ukraine Digital Transformation](ukraine-digital-transformation.md)
+### - [2012 CE – 2026 CE — Russian Information Operations Abroad](russian-information-operations-abroad.md)
+### - [2012 CE – 2026 CE — Digital Resistance and Exile Media](digital-resistance-and-exile-media.md)

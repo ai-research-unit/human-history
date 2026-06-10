@@ -1,0 +1,13 @@
+# __Oral Stage in The West African Sahel and Niger Basin — 130000 BCE – 1955 CE__
+### - [130000 BCE – 40000 BCE — Middle Stone Age Occupation of the Sahel](middle-stone-age-occupation-of-the-sahel.md)
+### - [40000 BCE – 12000 BCE — Late Stone Age Adaptation and Regional Diversification](late-stone-age-adaptation-and-regional-diversification.md)
+### - [12000 BCE – 5000 BCE — Green Sahara and Aquatic Adaptation](green-sahara-and-aquatic-adaptation.md)
+### - [5000 BCE – 2000 BCE — Pastoral Neolithic and Early Saharan Desiccation](pastoral-neolithic-and-early-saharan-desiccation.md)
+### - [2000 BCE – 500 BCE — Iron Age Emergence and Agricultural Intensification](iron-age-emergence-and-agricultural-intensification.md)
+### - [500 BCE – 300 CE — Trans-Saharan Networks and Urban Emergence](trans-saharan-networks-and-urban-emergence.md)
+### - [300 CE – 1000 CE — Ghana Empire and Sahelian State Formation](ghana-empire-and-sahelian-state-formation.md)
+### - [1000 CE – 1350 CE — Mali Empire and Trans-Saharan Florescence](mali-empire-and-trans-saharan-florescence.md)
+### - [1350 CE – 1600 CE — Songhai Ascendancy and Imperial Competition](songhai-ascendancy-and-imperial-competition.md)
+### - [1600 CE – 1850 CE — Post-Imperial States and Jihad Movements](post-imperial-states-and-jihad-movements.md)
+### - [1850 CE – 1920 CE — Colonial Conquest and Administrative Imposition](colonial-conquest-and-administrative-imposition.md)
+### - [1920 CE – 1955 CE — Colonial Consolidation and Oral Twilight](colonial-consolidation-and-oral-twilight.md)

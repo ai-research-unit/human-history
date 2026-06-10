@@ -1,0 +1,13 @@
+# __Oral Stage in The Sunda Shelf — 60000 BCE – 500 CE__
+### - [60000 BCE – 45000 BCE — Initial Modern Human Settlement of Sundaland](initial-modern-human-settlement-of-sundaland.md)
+### - [45000 BCE – 30000 BCE — Pleistocene Expansion and Wallacea Crossings](pleistocene-expansion-and-wallacea-crossings.md)
+### - [30000 BCE – 18000 BCE — Late Pleistocene Adaptation and Cultural Elaboration](late-pleistocene-adaptation-and-cultural-elaboration.md)
+### - [18000 BCE – 10000 BCE — Last Glacial Maximum and Sundaland at Maximum Extent](last-glacial-maximum-and-sundaland-at-maximum-extent.md)
+### - [10000 BCE – 6000 BCE — Post-Glacial Transformation and Sundaland Fragmentation](post-glacial-transformation-and-sundaland-fragmentation.md)
+### - [6000 BCE – 4000 BCE — Early Holocene Maritime Adaptation](early-holocene-maritime-adaptation.md)
+### - [4000 BCE – 2500 BCE — Neolithic Transition and Austronesian Expansion Begins](neolithic-transition-and-austronesian-expansion-begins.md)
+### - [2500 BCE – 1500 BCE — Austronesian Spread through Island Southeast Asia](austronesian-spread-through-island-southeast-asia.md)
+### - [1500 BCE – 500 BCE — Bronze Age and Dong Son Influence](bronze-age-and-dong-son-influence.md)
+### - [500 BCE – 1 CE — Iron Age Consolidation and Regional Complexity](iron-age-consolidation-and-regional-complexity.md)
+### - [1 CE – 300 CE — Early Indianization and Emerging Long-Distance Trade](1-ce-300-ce-early-indianization-and-emerging-long-distance-trade.md)
+### - [300 CE – 500 CE — Threshold of Indic States and Oral Twilight](300-ce-500-ce-threshold-of-indic-states-and-oral-twilight.md)

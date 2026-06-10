@@ -1,0 +1,11 @@
+# __Print Stage in The Indian Peninsula and Indo-Gangetic Plain — 1850 CE – 1960 CE__
+### - [1850 CE – 1857 CE — Late Company Rule and Pre-Mutiny Press](late-company-rule-and-pre-mutiny-press.md)
+### - [1857 CE – 1877 CE — Mutiny, Crown Rule, and Press Expansion](mutiny-crown-rule-and-press-expansion.md)
+### - [1877 CE – 1905 CE — Moderate Nationalism and Early Congress](moderate-nationalism-and-early-congress.md)
+### - [1905 CE – 1919 CE — Swadeshi, Extremism, and Wartime Press](swadeshi-extremism-and-wartime-press.md)
+### - [1919 CE – 1930 CE — Gandhi, Non-Cooperation, and Mass Politics](gandhi-non-cooperation-and-mass-politics.md)
+### - [1930 CE – 1942 CE — Civil Disobedience and Constitutional Debates](civil-disobedience-and-constitutional-debates.md)
+### - [1942 CE – 1947 CE — Quit India, Partition, and Independence](quit-india-partition-and-independence.md)
+### - [1947 CE – 1960 CE — Independent India and National Press](independent-india-and-national-press.md)
+### - [1850 CE – 1960 CE — Vernacular Press and Regional Languages](vernacular-press-and-regional-languages.md)
+### - [1850 CE – 1960 CE — Colonial Censorship and Nationalist Print](colonial-censorship-and-nationalist-print.md)

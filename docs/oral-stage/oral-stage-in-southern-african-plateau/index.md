@@ -1,0 +1,12 @@
+# __Oral Stage in The Southern African Plateau — 150000 BCE – 1945 CE__
+### - [150000 BCE – 100000 BCE — Middle Stone Age Origins and Early Modern Human Behavior](middle-stone-age-origins-and-early-modern-human-behavior.md)
+### - [100000 BCE – 40000 BCE — Middle Stone Age Florescence and Symbolic Revolution](middle-stone-age-florescence-and-symbolic-revolution.md)
+### - [40000 BCE – 20000 BCE — Late Middle Stone Age and Transition to Later Stone Age](late-middle-stone-age-and-transition-to-later-stone-age.md)
+### - [20000 BCE – 2000 BCE — Later Stone Age Hunter-Gatherer Societies](later-stone-age-hunter-gatherer-societies.md)
+### - [2000 BCE – 500 CE — Pastoral Arrival and Early Bantu Settlement](pastoral-arrival-and-early-bantu-settlement.md)
+### - [500 CE – 1000 CE — Early Iron Age Expansion](early-iron-age-expansion.md)
+### - [1000 CE – 1450 CE — Zimbabwe Tradition and State Formation](zimbabwe-tradition-and-state-formation.md)
+### - [1450 CE – 1700 CE — Mutapa, Rozvi, and Late Iron Age Transformations](mutapa-rozvi-and-late-iron-age-transformations.md)
+### - [1700 CE – 1840 CE — Mfecane Disruption and Emerging Colonial Pressure](mfecane-disruption-and-emerging-colonial-pressure.md)
+### - [1840 CE – 1910 CE — Colonial Conquest and Mineral Revolution](colonial-conquest-and-mineral-revolution.md)
+### - [1910 CE – 1945 CE — Segregation Consolidation and Oral Twilight](segregation-consolidation-and-oral-twilight.md)

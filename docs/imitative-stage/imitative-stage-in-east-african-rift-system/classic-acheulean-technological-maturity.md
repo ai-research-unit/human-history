@@ -1,0 +1,69 @@
+# __1,200,000 BCE – 800,000 BCE__ — Classic Acheulean Technological Maturity
+__Summary:__ A static snapshot of the East African Rift during the Classic Acheulean plateau, when standardized biface production reached full refinement at Olduvai Bed IV, Olorgesailie lower members, Kariandusi, and Kilombe. The binding constraint is the imitative transmission ceiling: without linguistic encoding, complex reduction sequences transfer only through direct demonstration and bodily emulation, a bottleneck that both enabled the form's spread and locked it against substantive modification. The system holds wide demographic margin against environmental fluctuation, and direction of change across all domains registers as near-stasis — a stable, low-load configuration with negligible internal pressure toward transformation.
+## __P01. Physical Environment__
+__Geography & Spatial Friction:__ The Rift graben from Turkana south through Baringo, Nakuru, and Olduvai provides continuous north-south transit along faulted escarpments, with lake margins and seasonal stream channels concentrating hominin activity; friction is moderate, limited to escarpment climbs and seasonal wetland crossings.<br><br>
+__Climate Regime & Volatility:__ Orbital-driven wet–dry oscillations continue but amplitude is reduced relative to the Early Pleistocene; semi-arid woodland-savanna mosaic dominates, with interannual variability absorbed by landscape heterogeneity; secular drift negligible within the window.<br><br>
+__Hazard Regime & Exposure:__ Episodic volcanism along the Rift axis deposits tephras useful for dating but rarely catastrophic; seismic activity low-magnitude; drought risk moderate but buffered by mobility; overall hazard load well within absorptive capacity.<br><br>
+__Resource & Energy Endowment:__ Lava, phonolite, and obsidian outcrops supply abundant knappable stone within 15–50 km of occupation sites; faunal biomass — Elephas recki, bovids, equids — remains high; endowment drawdown negligible against standing stock.<br><br>
+__Waste Absorption & Sink Capacity:__ Knapping debris and bone accumulate at occupation sites but densities remain low relative to landscape dispersal; no detectable sink saturation; absorptive margin effectively unlimited for the load generated.<br><br>
+## __P02. Biological Environment__
+__Pathogen Load & Mortality Baseline:__ Endemic parasitic and enteric disease persists; wound infection and predator injury impose background attrition; overall pathogen load moderate and stable, with no detectable epidemic pulse in the fossil or taphonomic record.<br><br>
+__Nutrition & Physiological Vitality:__ Stable isotope and dental microwear evidence indicates continued omnivory with significant meat access; body size and robusticity remain at Homo erectus norms; nutritional stress markers rare, suggesting adequate provisioning.<br><br>
+__Reproductive Biology & Pairing Dynamics:__ Reduced sexual dimorphism and extended juvenile dependency continue from earlier ergaster populations; pair-bonding patterns inferred but not directly attested; no evidence of change in reproductive biology within the window.<br><br>
+__Demographic Renewal & Density:__ Population densities low but stable across multiple Rift basins; replacement ratios inferred at near-equilibrium from site continuity and fossil density; no expansion pulse or contraction detectable.<br><br>
+__Attrition & Dependency Overhang:__ Infant and juvenile mortality high by modern standards but absorbed within group structure; aged and injured individuals rare in fossil record; dependency load within productive capacity.<br><br>
+## __P03. Economic Environment__
+__Subsistence & Provisioning Floor:__ Mixed foraging — hunting, scavenging, plant collection — provides baseline subsistence; cutmarked megafauna bones at Olorgesailie and Olduvai confirm carcass access; carrying-capacity margin comfortable under prevailing climate.<br><br>
+__Energy Capture & Conversion:__ Human muscle is the sole prime mover; fire use probable but direct evidence sparse for this window; energy return constrained by biface processing efficiency and foraging radius; conversion ceiling stable.<br><br>
+__Labor Organization & Coercion:__ Task specialization absent beyond age and sex patterning; labor mobilized through observation and co-presence rather than instruction; no coercive extraction detectable; effort pooling informal and kin-based.<br><br>
+__Production & Surplus Capacity:__ Tool production is consumption-oriented, with bifaces manufactured as needed; surplus above immediate use limited to portable toolkit; no accumulation above replacement levels detectable.<br><br>
+__Storage, Reserves & Buffering:__ No storage technology; buffering achieved through landscape mobility and body fat reserves; shock absorption relies on spatial flexibility rather than stockpiling.<br><br>
+__Exchange, Trade & Logistics:__ Raw material transport documented up to 25–50 km for obsidian at some sites, implying planned procurement or group movement rather than exchange networks; no evidence of inter-group trade.<br><br>
+__Value Storage, Credit & Deferred Exchange:__ No durable value medium; deferred reciprocity limited to immediate kin and co-resident group members; no credit-debt structure recoverable.<br><br>
+__Surplus Extraction & Redistribution:__ No coordinating authority; communal carcass sharing inferred from large-mammal processing sites; redistribution immediate and informal, load negligible.<br><br>
+__Wealth Distribution & Asset Defense:__ Portable toolkit is the only asset; no differential accumulation detectable in the archaeological record; asset defense not a meaningful category.<br><br>
+__Byproducts & Waste Routing:__ Knapping debris and butchery waste left at processing loci; volume trivial relative to dispersal capacity; routing entirely externalized with no recycling pressure.<br><br>
+## __P04. Social Environment__
+__Social Trust & Mutual Aid:__ Inference limited; group cohesion implied by coordinated megafauna processing and co-residential occupation; trust radius presumed coterminous with foraging band; no evidence of widening or contraction.<br><br>
+__Stratification, Status & Group Identity:__ No material indicators of status differentiation; ornament absent; group identity presumably band-level without recoverable inter-group markers; boundaries permeable in the sense that no fortification or territory defense is evidenced.<br><br>
+__Kinship, Family & Inheritance:__ Kinship structures unrecoverable; extended juvenile dependency implies multi-adult care; inheritance limited to skill transmission through imitation; no property transfer beyond toolkit.<br><br>
+__Civic Association & Self-Organization:__ Coordination below threshold of formal association; task coordination achieved through co-presence and gestural cueing; associational fabric thin but stable.<br><br>
+__Leisure, Play & Sociability:__ Unrecoverable for this period; presumed minimal, with sociability embedded in subsistence activity rather than separated.<br><br>
+__Grievance Channels & Social Discharge:__ No formal channels; conflict resolution presumably immediate and interpersonal; social friction low given low density and high mobility; residue minimal.<br><br>
+## __P05. Political Environment__
+__Power Structure & Authority:__ No evidence of institutionalized authority; decision-making presumably situational and consensus-based within small groups; power diffuse and ephemeral.<br><br>
+__Succession & Power Transfer:__ Not applicable at recoverable scale; leadership if any is situational and non-heritable.<br><br>
+__Legitimacy & Political Narrative:__ No recoverable legitimation discourse; authority rests on demonstrated competence in shared tasks; narrative absent.<br><br>
+__Administrative Capacity & Institutional Integrity:__ No administration; coordination limited to immediate co-presence; no record-keeping, allocation, or enforcement apparatus.<br><br>
+__Political Participation & Mobilization:__ All group members presumably participate in collective decisions through presence and gestural assent; no mobilization beyond the foraging band.<br><br>
+__Geopolitical Position & External Relations:__ Inter-group relations unrecoverable; no territorial markers or defensive works; presumed occasional contact through range overlap; no alliance or rivalry structure detectable.<br><br>
+__Coercive Apparatus & Means of Force:__ Bifaces and unmodified cobbles available for interpersonal violence but no specialized weaponry; force capacity diffuse and non-monopolized.<br><br>
+__Internal Order & Threat Environment:__ Disorder minimal given low density; predator threat moderate; intra-group violence rate unrecoverable; order maintained through mobility and avoidance.<br><br>
+## __P06. Informational Environment__
+__Channels & Transmission Velocity:__ Information travels only at the speed of bodily movement and within visual-gestural range; no acoustic or material signaling beyond immediate presence; reach limited to the co-residential group.<br><br>
+__Record, Storage & Persistence:__ All knowledge held in living memory and motor habit; no external storage medium; persistence depends entirely on continuous bodily transmission from skilled to unskilled; loss at death is total unless already copied.<br><br>
+__Framing, Censorship & Discourse Norms:__ No discourse in the linguistic sense; demonstration can be withheld but no recoverable censorship structure; norms implicit in the act of showing or refusing to show.<br><br>
+__Reception, Attention & Amplification:__ Learning requires sustained visual attention to a demonstrator; amplification limited to the number of observers physically present; no secondary transmission without re-demonstration.<br><br>
+__Signal Integrity & Noise Load:__ High fidelity for motor sequences copied directly; degradation occurs only through imperfect imitation or failure to observe; noise load negligible given slow information flow; verification is performative — the flake either detaches or it does not.<br><br>
+## __P07. Judicial Environment__
+__Moral Foundations & Sense of Justice:__ Unrecoverable in the absence of linguistic testimony; presumed intuitive fairness and retaliation norms operating at the level of immediate dyadic interaction.<br><br>
+__Law, Codification & Regulatory Evolution:__ No formal law; behavioral regulation through informal taboo and direct response; no codification.<br><br>
+__Adjudication, Enforcement & Liability:__ No third-party adjudication; enforcement is immediate and interpersonal; liability not a meaningful category.<br><br>
+__Rights, Protections & Compliance Burden:__ No enumerated rights; protection derives from group membership and physical capacity; compliance burden nil in the absence of codified rules.<br><br>
+__Impunity & Unredressed Wrong:__ Wrong presumably redressed through direct retaliation or avoidance; impunity for dominant individuals possible but unrecoverable; residue minimal given low social complexity.<br><br>
+## __P08. Intellectual Environment__
+__Inquiry, Theory & Paradigm:__ No abstract inquiry; knowledge is practical and embedded in action; no explanatory paradigm in the discursive sense.<br><br>
+__Applied Knowledge & Technical Method:__ Biface reduction sequence represents sophisticated procedural knowledge: platform preparation, thinning flake removal, edge regularization — all transmitted through imitation and practiced until embodied; the method itself is the knowledge.<br><br>
+__Education, Knowledge Stock & Skill Distribution:__ Skill transferred through apprenticeship-by-observation; every adult presumably competent at basic reduction; exceptional skill possibly concentrated in older individuals; overall stock stable and widely distributed.<br><br>
+__Obsolescence & Knowledge Decay:__ Minimal turnover; the reduction sequence itself persists virtually unchanged for several hundred thousand years; obsolescence rate near zero; decay occurs only through demographic collapse of skilled carriers.<br><br>
+## __P09. Cultural Environment__
+__Mythos, Memory & Foundational Identity:__ No recoverable narrative identity; collective memory limited to individual lifespans and the motor habits transmitted across them; foundational mythos absent in the absence of language.<br><br>
+__Artistic Expression & Material Culture:__ Biface symmetry is the primary aesthetic artifact; some handaxes display refinement beyond functional necessity, implying attention to form; no other decorative or symbolic material present.<br><br>
+__Collective Mood & Behavioral Disposition:__ Unrecoverable; presumed low-anxiety baseline given stable subsistence and low hazard; behavioral disposition toward routine and conservatism inferred from technological stasis.<br><br>
+__Form Exhaustion & Meaning Decay:__ The biface form persists without evident exhaustion; meaning, if any attached, is not recoverable; no anomie detectable in a system without symbolic freight.<br><br>
+## __P10. Spiritual Environment__
+__Cosmology & Existential Outlook:__ No recoverable cosmology; metaphysical outlook absent or inaccessible without linguistic evidence.<br><br>
+__Ritual, Devotion & Sacred Practice:__ No unambiguous ritual behavior attested; site patterning may reflect habitual use but not demonstrably sacred; devotion as a category not applicable.<br><br>
+__Religious Institutions & Doctrinal Authority:__ None; no priesthood, no doctrine, no institutional structure.<br><br>
+__Spiritual Diffusion, Syncretism & Displacement:__ Not applicable in the absence of recoverable spiritual content.<br><br>
+__Disenchantment & Sacred Discharge:__ No disenchantment where enchantment is not evidenced; existential residue unrecoverable; the category yields an informative null.<br><br>

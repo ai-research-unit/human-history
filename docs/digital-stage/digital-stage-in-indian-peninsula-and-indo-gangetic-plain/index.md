@@ -1,0 +1,11 @@
+# __Digital Stage in The Indian Peninsula and Indo-Gangetic Plain — 2015 CE – 2026 CE__
+### - [2015 CE – 2019 CE — Jio Revolution and Mass Connectivity](jio-revolution-and-mass-connectivity.md)
+### - [2019 CE – 2022 CE — Platform Politics and Information Warfare](platform-politics-and-information-warfare.md)
+### - [2022 CE – 2026 CE — Digital Economy Maturation and AI Emergence](digital-economy-maturation-and-ai-emergence.md)
+### - [2015 CE – 2026 CE — WhatsApp India and Messaging Dominance](whatsapp-india-and-messaging-dominance.md)
+### - [2015 CE – 2026 CE — Aadhaar and Digital Identity Infrastructure](aadhaar-and-digital-identity-infrastructure.md)
+### - [2015 CE – 2026 CE — Internet Shutdowns and Digital Repression](internet-shutdowns-and-digital-repression.md)
+### - [2015 CE – 2026 CE — Digital Payments and Financial Transformation](digital-payments-and-financial-transformation.md)
+### - [2015 CE – 2026 CE — YouTube and Vernacular Content Explosion](youtube-and-vernacular-content-explosion.md)
+### - [2015 CE – 2026 CE — Pakistan and Bangladesh Digital Divergence](pakistan-and-bangladesh-digital-divergence.md)
+### - [2015 CE – 2026 CE — Digital India and Government Technology](digital-india-and-government-technology.md)

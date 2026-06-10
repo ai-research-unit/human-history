@@ -1,0 +1,10 @@
+# __Digital Stage in The British Isles — 2010 CE – 2026 CE__
+### - [2010 CE – 2016 CE — Smartphone Revolution and Social Media Maturation](smartphone-revolution-and-social-media-maturation.md)
+### - [2016 CE – 2020 CE — Brexit Information War and Platform Accountability](brexit-information-war-and-platform-accountability.md)
+### - [2020 CE – 2022 CE — COVID-19 and Digital Acceleration](covid-19-and-digital-acceleration.md)
+### - [2022 CE – 2026 CE — AI Emergence and Information Transformation](ai-emergence-and-information-transformation.md)
+### - [2010 CE – 2026 CE — Platform Dominance and News Ecosystem](platform-dominance-and-news-ecosystem.md)
+### - [2010 CE – 2026 CE — BBC Digital Transformation](bbc-digital-transformation.md)
+### - [2010 CE – 2026 CE — Regulatory Response and Online Safety](regulatory-response-and-online-safety.md)
+### - [2010 CE – 2026 CE — Scottish and Irish Digital Divergence](scottish-and-irish-digital-divergence.md)
+### - [2010 CE – 2026 CE — Digital Inequality and Access](digital-inequality-and-access.md)

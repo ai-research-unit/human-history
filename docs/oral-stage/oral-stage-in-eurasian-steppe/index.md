@@ -1,0 +1,13 @@
+# __Oral Stage in The Eurasian Steppe — 40000 BCE – 1850 CE__
+### - [40000 BCE – 15000 BCE — Upper Paleolithic Mammoth Steppe Adaptation](upper-paleolithic-mammoth-steppe-adaptation.md)
+### - [15000 BCE – 8000 BCE — Terminal Pleistocene Transition and Megafaunal Decline](terminal-pleistocene-transition-and-megafaunal-decline.md)
+### - [8000 BCE – 4500 BCE — Mesolithic and Neolithic Foundations](mesolithic-and-neolithic-foundations.md)
+### - [4500 BCE – 3000 BCE — Eneolithic Transformation and Horse Domestication](eneolithic-transformation-and-horse-domestication.md)
+### - [3000 BCE – 1800 BCE — Yamnaya Horizon and Bronze Age Expansion](yamnaya-horizon-and-bronze-age-expansion.md)
+### - [1800 BCE – 800 BCE — Andronovo Florescence and Chariot Warfare](andronovo-florescence-and-chariot-warfare.md)
+### - [800 BCE – 200 CE — Scythian and Sarmatian Mounted Nomadism](scythian-and-sarmatian-mounted-nomadism.md)
+### - [200 CE – 600 CE — Hunnic Disruption and Great Migration Period](hunnic-disruption-and-great-migration-period.md)
+### - [600 CE – 1000 CE — Turkic Khaganates and Steppe Empire Formation](turkic-khaganates-and-steppe-empire-formation.md)
+### - [1000 CE – 1300 CE — Mongol Unification and Empire](mongol-unification-and-empire.md)
+### - [1300 CE – 1600 CE — Post-Mongol Fragmentation and Successor States](post-mongol-fragmentation-and-successor-states.md)
+### - [1600 CE – 1850 CE — Qing and Russian Encroachment and Nomadic Decline](qing-and-russian-encroachment-and-nomadic-decline.md)

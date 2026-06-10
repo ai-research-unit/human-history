@@ -1,0 +1,10 @@
+# __Digital Stage in The Japanese Archipelago — 2008 CE – 2026 CE__
+### - [2008 CE – 2014 CE — Smartphone Revolution and Feature Phone Decline](smartphone-revolution-and-feature-phone-decline.md)
+### - [2014 CE – 2020 CE — Platform Maturation and Social Media Evolution](platform-maturation-and-social-media-evolution.md)
+### - [2020 CE – 2026 CE — Pandemic Digitization and AI Emergence](pandemic-digitization-and-ai-emergence.md)
+### - [2008 CE – 2026 CE — LINE and Domestic Platform Ecosystem](line-and-domestic-platform-ecosystem.md)
+### - [2008 CE – 2026 CE — Twitter Japan Exceptionalism](twitter-japan-exceptionalism.md)
+### - [2008 CE – 2026 CE — Gaming and Virtual Worlds](gaming-and-virtual-worlds.md)
+### - [2008 CE – 2026 CE — Digital Government and My Number](digital-government-and-my-number.md)
+### - [2008 CE – 2026 CE — Otaku Culture and Digital Content Industry](otaku-culture-and-digital-content-industry.md)
+### - [2008 CE – 2026 CE — Disaster Response and Digital Resilience](disaster-response-and-digital-resilience.md)

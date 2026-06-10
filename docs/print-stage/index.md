@@ -1,0 +1,16 @@
+# __Print Stage__
+__Description:__ Mechanically reproduced, identical copies become the substrate of the public sphere. A text is reproduced into many exact copies without a scribe, so the cost of the hundredth collapses toward the cost of the first; the public sphere, news, and opinion come to be carried by printed matter — books, then the periodical press distributing the same text on a schedule to a scattered readership. Dominant until broadcast addresses the mass audience at once. (The telegraph, the most advanced transmission of this stage, is not a period — see below.)<br><br>
+
+### - [Print Stage in The North European Plain — 1500 CE – 1930 CE](print-stage-in-north-european-plain/index.md)
+### - [Print Stage in The British Isles — 1500 CE – 1930 CE](print-stage-in-british-isles/index.md)
+### - [Print Stage in The North American Eastern Woodlands and Mississippi Basin — 1750 CE – 1930 CE](print-stage-in-north-american-eastern-woodlands-and-mississippi-basin/index.md)
+### - [Print Stage in The Italian Peninsula — 1500 CE – 1930 CE](print-stage-in-italian-peninsula/index.md)
+### - [Print Stage in The Japanese Archipelago — 1650 CE – 1935 CE](print-stage-in-japanese-archipelago/index.md)
+### - [Print Stage in The Iberian Peninsula and Western Mediterranean — 1500 CE – 1930 CE](print-stage-in-iberian-peninsula-and-western-mediterranean/index.md)
+### - [Print Stage in The East European Plain — 1700 CE – 1930 CE](print-stage-in-east-european-plain/index.md)
+### - [Print Stage in The Indian Peninsula and Indo-Gangetic Plain — 1850 CE – 1960 CE](print-stage-in-indian-peninsula-and-indo-gangetic-plain/index.md)
+### - [Print Stage in The Nile Corridor — 1850 CE – 1955 CE](print-stage-in-nile-corridor/index.md)
+### - [Print Stage in The Yellow and Yangtze River Basins — 1900 CE – 1950 CE](print-stage-in-yellow-and-yangtze-river-basins/index.md)
+### - [Print Stage in The Mexican Highlands and Yucatan Lowlands — 1810 CE – 1950 CE](print-stage-in-mexican-highlands-and-yucatan-lowlands/index.md)
+### - [Print Stage in The Andean Cordillera and Pacific Coast — 1810 CE – 1950 CE](print-stage-in-andean-cordillera-and-pacific-coast/index.md)
+### - [Print Stage in The Aegean Archipelago — 1830 CE – 1930 CE](print-stage-in-aegean-archipelago/index.md)

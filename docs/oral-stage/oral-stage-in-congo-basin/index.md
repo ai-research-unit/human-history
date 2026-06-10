@@ -1,0 +1,10 @@
+# __Oral Stage in The Congo Basin — 130000 BCE – 1945 CE__
+### - [130000 BCE – 70000 BCE — Early Middle Stone Age Occupation of the Congo Basin](early-middle-stone-age-occupation-of-the-congo-basin.md)
+### - [70000 BCE – 12000 BCE — Late Pleistocene Forest Contraction and Human Persistence](late-pleistocene-forest-contraction-and-human-persistence.md)
+### - [12000 BCE – 4000 BCE — Early Holocene Forest Expansion and Forager Adaptation](early-holocene-forest-expansion-and-forager-adaptation.md)
+### - [4000 BCE – 1000 BCE — Bantu Expansion and Agricultural Penetration of Forest Margins](bantu-expansion-and-agricultural-penetration-of-forest-margins.md)
+### - [1000 BCE – 500 CE — Iron Age Consolidation and Village Society Formation](iron-age-consolidation-and-village-society-formation.md)
+### - [500 CE – 1500 CE — Mature Forest Village Society Before Atlantic Contact](mature-forest-village-society-before-atlantic-contact.md)
+### - [1500 CE – 1880 CE — Atlantic Trade Era and Slaving Frontier Expansion](atlantic-trade-era-and-slaving-frontier-expansion.md)
+### - [1880 CE – 1908 CE — Congo Free State and the Rubber Terror](congo-free-state-and-the-rubber-terror.md)
+### - [1908 CE – 1945 CE — Belgian Colonial Administration and Persistent Orality](belgian-colonial-administration-and-persistent-orality.md)

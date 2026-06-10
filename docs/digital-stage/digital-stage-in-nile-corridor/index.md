@@ -1,0 +1,10 @@
+# __Digital Stage in The Nile Corridor — 2012 CE – 2026 CE__
+### - [2012 CE – 2017 CE — Post-Revolution Reversal and Digital Crackdown](post-revolution-reversal-and-digital-crackdown.md)
+### - [2017 CE – 2022 CE — Authoritarian Digitization and Control Infrastructure](authoritarian-digitization-and-control-infrastructure.md)
+### - [2022 CE – 2026 CE — Economic Crisis and Limited Digital Opening](economic-crisis-and-limited-digital-opening.md)
+### - [2012 CE – 2026 CE — Social Media Under Authoritarianism](social-media-under-authoritarianism.md)
+### - [2012 CE – 2026 CE — Internet Shutdowns and Network Control](internet-shutdowns-and-network-control.md)
+### - [2012 CE – 2026 CE — Sudanese Digital Revolution and Aftermath](sudanese-digital-revolution-and-aftermath.md)
+### - [2012 CE – 2026 CE — Digital Payments and Economic Digitization](digital-payments-and-economic-digitization.md)
+### - [2012 CE – 2026 CE — Youth Digital Culture and Expression](youth-digital-culture-and-expression.md)
+### - [2012 CE – 2026 CE — Press Freedom and Exile Journalism](press-freedom-and-exile-journalism.md)

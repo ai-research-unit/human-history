@@ -1,0 +1,12 @@
+# __Oral Stage in The Andean Cordillera and Pacific Coast — 14000 BCE – 600 CE__
+### - [14000 BCE – 11000 BCE — Initial Settlement of the Pacific-Andean Region](initial-settlement-of-the-pacific-andean-region.md)
+### - [11000 BCE – 8000 BCE — Terminal Pleistocene Adaptation and Megafaunal Collapse](terminal-pleistocene-adaptation-and-megafaunal-collapse.md)
+### - [8000 BCE – 5000 BCE — Maritime Intensification and Chinchorro Culture](maritime-intensification-and-chinchorro-culture.md)
+### - [6000 BCE – 3000 BCE — Highland Domestication and Agropastoral Emergence](highland-domestication-and-agropastoral-emergence.md)
+### - [3500 BCE – 1800 BCE — Preceramic Monumentality and the Norte Chico Florescence](preceramic-monumentality-and-the-norte-chico-florescence.md)
+### - [1800 BCE – 900 BCE — Initial Period and Early Ceramic Traditions](initial-period-and-early-ceramic-traditions.md)
+### - [900 BCE – 200 BCE — The Chavín Phenomenon](the-chavin-phenomenon.md)
+### - [700 BCE – 1 CE — Paracas Culture on the Southern Coast](paracas-culture-on-the-southern-coast.md)
+### - [100 BCE – 600 CE — Moche Florescence on the Northern Coast](moche-florescence-on-the-northern-coast.md)
+### - [1 CE – 600 CE — Nazca Lines and Desert Adaptation](nazca-lines-and-desert-adaptation.md)
+### - [100 CE – 600 CE — Early Tiwanaku on the Altiplano](early-tiwanaku-on-the-altiplano.md)

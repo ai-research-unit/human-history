@@ -1,5 +1,6 @@
 .git/
 .venv/
+CLAUDE.md
 temp/
 temp_/
 temp__/
@@ -7,4 +8,7 @@ arch/
 arch_/
 arch__/
 *.sh
+*.fw
 *.7z
+**/_planning.md
+**/_check-report.md

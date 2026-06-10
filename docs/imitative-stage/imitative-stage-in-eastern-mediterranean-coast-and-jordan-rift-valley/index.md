@@ -1,0 +1,12 @@
+# __Imitative Stage in The Eastern Mediterranean Coast and Jordan Rift Valley — 1,500,000 BCE – 50,000 BCE__
+### - [1,500,000 BCE – 1,200,000 BCE — The Ubeidiya Acheulean Assemblage](the-ubeidiya-acheulean-assemblage.md)
+### - [1,200,000 BCE – 800,000 BCE — Early Acheulean Persistence in the Jordan Rift](early-acheulean-persistence-in-the-jordan-rift.md)
+### - [800,000 BCE – 700,000 BCE — Gesher Benot Ya'aqov and the Control of Fire](gesher-benot-yaaqov-and-the-control-of-fire.md)
+### - [700,000 BCE – 400,000 BCE — Middle Acheulean Stability in the Southern Levant](middle-acheulean-stability-in-the-southern-levant.md)
+### - [420,000 BCE – 200,000 BCE — The Acheulo-Yabrudian Complex at Qesem Cave](the-acheulo-yabrudian-complex-at-qesem-cave.md)
+### - [350,000 BCE – 250,000 BCE — Tabun Cave and the Late Acheulean Sequence](tabun-cave-and-the-late-acheulean-sequence.md)
+### - [250,000 BCE – 160,000 BCE — Emergence of Levantine Mousterian Technology](emergence-of-levantine-mousterian-technology.md)
+### - [185,000 BCE – 130,000 BCE — Early Homo sapiens at Misliya Cave](early-homo-sapiens-at-misliya-cave.md)
+### - [130,000 BCE – 90,000 BCE — The Skhul-Qafzeh Population and Early Modern Human Burials](the-skhul-qafzeh-population-and-early-modern-human-burials.md)
+### - [90,000 BCE – 55,000 BCE — Neanderthal Reoccupation of the Levant](neanderthal-reoccupation-of-the-levant.md)
+### - [70,000 BCE – 50,000 BCE — Late Mousterian Contraction and Population Turnover](late-mousterian-contraction-and-population-turnover.md)

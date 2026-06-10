@@ -1,0 +1,12 @@
+# __Imitative Stage in The Southern African Plateau — 2,000,000 BCE – 150,000 BCE__
+### - [2,000,000 BCE – 1,700,000 BCE — The Sterkfontein Oldowan and Early Homo](the-sterkfontein-oldowan-and-early-homo.md)
+### - [1,700,000 BCE – 1,400,000 BCE — Emergence of Acheulean Technology on the Plateau](emergence-of-acheulean-technology-on-the-plateau.md)
+### - [1,400,000 BCE – 1,000,000 BCE — Early Acheulean Occupation at Wonderwerk Cave](early-acheulean-occupation-at-wonderwerk-cave.md)
+### - [1,000,000 BCE – 700,000 BCE — Acheulean Stability Across the Interior Plateau](acheulean-stability-across-the-interior-plateau.md)
+### - [700,000 BCE – 500,000 BCE — Swartkrans and the Paranthropus-Homo Interface](swartkrans-and-the-paranthropus-homo-interface.md)
+### - [500,000 BCE – 400,000 BCE — Late Acheulean Refinement and Landscape Use](late-acheulean-refinement-and-landscape-use.md)
+### - [400,000 BCE – 300,000 BCE — The Fauresmith Transitional Industry](the-fauresmith-transitional-industry.md)
+### - [300,000 BCE – 250,000 BCE — Transition to Middle Stone Age Technologies](transition-to-middle-stone-age-technologies.md)
+### - [250,000 BCE – 200,000 BCE — Florisbad and Archaic Homo sapiens](florisbad-and-archaic-homo-sapiens.md)
+### - [200,000 BCE – 170,000 BCE — Early Middle Stone Age Consolidation](early-middle-stone-age-consolidation.md)
+### - [170,000 BCE – 150,000 BCE — Middle Stone Age Expansion and Regional Diversification](middle-stone-age-expansion-and-regional-diversification.md)

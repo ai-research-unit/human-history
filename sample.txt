@@ -1,0 +1,4 @@
+Hello! This is a sample file created by Claude Code.
+
+Date: 2026-06-04
+Project: human-history

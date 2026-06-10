@@ -1,0 +1,11 @@
+# __Imitative Stage in The Sunda Shelf — 1,600,000 BCE – 60,000 BCE__
+### - [1,600,000 BCE – 1,400,000 BCE — First Hominin Presence on Java](first-hominin-presence-on-java.md)
+### - [1,400,000 BCE – 1,000,000 BCE — Sangiran and the Early Javanese Homo erectus Population](sangiran-and-the-early-javanese-homo-erectus-population.md)
+### - [1,000,000 BCE – 700,000 BCE — Homo erectus Expansion Across the Sunda Shelf](homo-erectus-expansion-across-the-sunda-shelf.md)
+### - [700,000 BCE – 500,000 BCE — Trinil and the Classic Java Man Assemblage](trinil-and-the-classic-java-man-assemblage.md)
+### - [500,000 BCE – 300,000 BCE — Middle Pleistocene Stability on the Sunda Shelf](middle-pleistocene-stability-on-the-sunda-shelf.md)
+### - [300,000 BCE – 200,000 BCE — Late Homo erectus Persistence and Morphological Change](late-homo-erectus-persistence-and-morphological-change.md)
+### - [200,000 BCE – 130,000 BCE — Ngandong and Terminal Homo erectus](ngandong-and-terminal-homo-erectus.md)
+### - [130,000 BCE – 100,000 BCE — Interglacial Conditions and Hominin Distribution](interglacial-conditions-and-hominin-distribution.md)
+### - [100,000 BCE – 75,000 BCE — Early Modern Human Arrival and Overlap](early-modern-human-arrival-and-overlap.md)
+### - [75,000 BCE – 60,000 BCE — Late Pleistocene Transition and Population Turnover](late-pleistocene-transition-and-population-turnover.md)

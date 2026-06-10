@@ -1,0 +1,12 @@
+# __Imitative Stage in The Yellow and Yangtze River Basins — 2,100,000 BCE – 50,000 BCE__
+### - [2,100,000 BCE – 1,700,000 BCE — The Nihewan Basin and Earliest Chinese Hominins](the-nihewan-basin-and-earliest-chinese-hominins.md)
+### - [1,700,000 BCE – 1,200,000 BCE — Early Pleistocene Hominin Dispersal Across Northern China](early-pleistocene-hominin-dispersal-across-northern-china.md)
+### - [1,200,000 BCE – 900,000 BCE — Lantian and Early Homo erectus in the Wei River Valley](lantian-and-early-homo-erectus-in-the-wei-river-valley.md)
+### - [900,000 BCE – 600,000 BCE — Early Acheulean-like Industries in the Bose Basin](early-acheulean-like-industries-in-the-bose-basin.md)
+### - [600,000 BCE – 400,000 BCE — Zhoukoudian Locality 1 and Homo erectus pekinensis](zhoukoudian-locality-1-and-homo-erectus-pekinensis.md)
+### - [400,000 BCE – 250,000 BCE — Middle Pleistocene Stability Across the River Basins](middle-pleistocene-stability-across-the-river-basins.md)
+### - [250,000 BCE – 180,000 BCE — Late Homo erectus and Transitional Morphology](late-homo-erectus-and-transitional-morphology.md)
+### - [180,000 BCE – 130,000 BCE — The Dali Cranium and Archaic Homo sapiens](the-dali-cranium-and-archaic-homo-sapiens.md)
+### - [130,000 BCE – 100,000 BCE — Interglacial Expansion and Maba Cave](interglacial-expansion-and-maba-cave.md)
+### - [100,000 BCE – 70,000 BCE — Population Fragmentation and Regional Isolation](population-fragmentation-and-regional-isolation.md)
+### - [70,000 BCE – 50,000 BCE — Late Pleistocene Hominin Diversity and Modern Human Arrival](late-pleistocene-hominin-diversity-and-modern-human-arrival.md)

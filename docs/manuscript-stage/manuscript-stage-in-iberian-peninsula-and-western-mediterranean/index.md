@@ -1,0 +1,12 @@
+# __Manuscript Stage in The Iberian Peninsula and Western Mediterranean — 200 BCE – 1500 CE__
+### - [200 BCE – 19 BCE — Roman Conquest and Iberian Incorporation](roman-conquest-and-iberian-incorporation.md)
+### - [19 BCE – 409 CE — Roman Hispania and Imperial Integration](roman-hispania-and-imperial-integration.md)
+### - [409 CE – 589 CE — Germanic Kingdoms and Visigothic Consolidation](germanic-kingdoms-and-visigothic-consolidation.md)
+### - [589 CE – 711 CE — Catholic Visigothic Kingdom](catholic-visigothic-kingdom.md)
+### - [711 CE – 929 CE — Islamic Conquest and Umayyad Emirate](islamic-conquest-and-umayyad-emirate.md)
+### - [929 CE – 1031 CE — Caliphate of Córdoba and Andalusi Florescence](caliphate-of-cordoba-and-andalusi-florescence.md)
+### - [1031 CE – 1147 CE — Taifa Kingdoms and Almoravid Intervention](taifa-kingdoms-and-almoravid-intervention.md)
+### - [1147 CE – 1250 CE — Almohad Empire and Reconquista Acceleration](almohad-empire-and-reconquista-acceleration.md)
+### - [1250 CE – 1350 CE — Christian Kingdoms Consolidation and Translation Culture](christian-kingdoms-consolidation-and-translation-culture.md)
+### - [1350 CE – 1450 CE — Crisis, Recovery, and Converso Society](crisis-recovery-and-converso-society.md)
+### - [1450 CE – 1500 CE — Catholic Monarchs and Manuscript Twilight](catholic-monarchs-and-manuscript-twilight.md)

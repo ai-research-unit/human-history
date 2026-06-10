@@ -1,0 +1,10 @@
+# __Manuscript Stage in The Andean Cordillera and Pacific Coast — 600 CE – 1810 CE__
+### - [600 CE – 1000 CE — Middle Horizon States and Khipu Origins](middle-horizon-states-and-khipu-origins.md)
+### - [1000 CE – 1400 CE — Late Intermediate Period and Regional Polities](late-intermediate-period-and-regional-polities.md)
+### - [1400 CE – 1532 CE — Inca Empire and Khipu Administration](inca-empire-and-khipu-administration.md)
+### - [1532 CE – 1572 CE — Spanish Conquest and Early Colonial Transition](spanish-conquest-and-early-colonial-transition.md)
+### - [1572 CE – 1650 CE — Toledan Reforms and Colonial Consolidation](toledan-reforms-and-colonial-consolidation.md)
+### - [1650 CE – 1700 CE — Mature Colonial Society and Baroque Culture](mature-colonial-society-and-baroque-culture.md)
+### - [1700 CE – 1780 CE — Bourbon Reforms and Administrative Rationalization](bourbon-reforms-and-administrative-rationalization.md)
+### - [1780 CE – 1783 CE — Túpac Amaru II Rebellion](tupac-amaru-ii-rebellion.md)
+### - [1783 CE – 1810 CE — Post-Rebellion Order and Independence Ferment](post-rebellion-order-and-independence-ferment.md)

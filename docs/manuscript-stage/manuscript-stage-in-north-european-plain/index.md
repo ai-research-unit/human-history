@@ -1,0 +1,13 @@
+# __Manuscript Stage in The North European Plain — 1000 CE – 1500 CE__
+### - [1000 CE – 1100 CE — Ottonian Twilight and Salian Consolidation](ottonian-twilight-and-salian-consolidation.md)
+### - [1100 CE – 1150 CE — Investiture Settlement and Cistercian Expansion](investiture-settlement-and-cistercian-expansion.md)
+### - [1150 CE – 1200 CE — Hohenstaufen Ascendancy and Urban Charters](hohenstaufen-ascendancy-and-urban-charters.md)
+### - [1200 CE – 1250 CE — German Eastward Expansion and Teutonic Order](german-eastward-expansion-and-teutonic-order.md)
+### - [1250 CE – 1300 CE — Interregnum Fragmentation and Hanseatic Origins](interregnum-fragmentation-and-hanseatic-origins.md)
+### - [1300 CE – 1350 CE — Early Fourteenth Century Crisis and Black Death](early-fourteenth-century-crisis-and-black-death.md)
+### - [1350 CE – 1400 CE — Post-Plague Recovery and Hanseatic Zenith](post-plague-recovery-and-hanseatic-zenith.md)
+### - [1400 CE – 1450 CE — Fifteenth Century Transformations and Conciliarism](fifteenth-century-transformations-and-conciliarism.md)
+### - [1450 CE – 1500 CE — Print Revolution and Manuscript Twilight](print-revolution-and-manuscript-twilight.md)
+### - [1000 CE – 1500 CE — Hanseatic Network and Commercial Documentation](hanseatic-network-and-commercial-documentation.md)
+### - [1000 CE – 1500 CE — Monastic Scriptoria and University Learning](monastic-scriptoria-and-university-learning.md)
+### - [1000 CE – 1500 CE — Towns, Charters, and Urban Literacy](towns-charters-and-urban-literacy.md)

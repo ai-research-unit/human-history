@@ -1,0 +1,11 @@
+# __Digital Stage in The Mexican Highlands, Andean Cordillera and Brazilian Highlands — 2014 CE – 2026 CE__
+### - [2014 CE – 2018 CE — Smartphone Mass Adoption and Platform Arrival](smartphone-mass-adoption-and-platform-arrival.md)
+### - [2018 CE – 2022 CE — Platform Politics and Electoral Disruption](platform-politics-and-electoral-disruption.md)
+### - [2022 CE – 2026 CE — Digital Economy Maturation and AI Emergence](digital-economy-maturation-and-ai-emergence.md)
+### - [2014 CE – 2026 CE — WhatsApp Latin America and Messaging Dominance](whatsapp-latin-america-and-messaging-dominance.md)
+### - [2014 CE – 2026 CE — Brazilian Digital Politics and Polarization](brazilian-digital-politics-and-polarization.md)
+### - [2014 CE – 2026 CE — Mexican Digital Transformation](mexican-digital-transformation.md)
+### - [2014 CE – 2026 CE — Fintech and Digital Payments Revolution](fintech-and-digital-payments-revolution.md)
+### - [2014 CE – 2026 CE — Venezuelan Crisis and Digital Diaspora](venezuelan-crisis-and-digital-diaspora.md)
+### - [2014 CE – 2026 CE — Digital Activism and Social Movements](digital-activism-and-social-movements.md)
+### - [2014 CE – 2026 CE — Streaming and Digital Content Industry](streaming-and-digital-content-industry.md)

@@ -1,0 +1,12 @@
+# __Broadcast Stage in The Mexican Highlands, Andean Cordillera and Brazilian Highlands — 1950 CE – 2014 CE__
+### - [1950 CE – 1964 CE — Television Dawn and Commercial Dominance](television-dawn-and-commercial-dominance.md)
+### - [1964 CE – 1975 CE — Military Era Broadcasting](military-era-broadcasting.md)
+### - [1975 CE – 1985 CE — Peak Military Control and Telenovela Golden Age](peak-military-control-and-telenovela-golden-age.md)
+### - [1985 CE – 1995 CE — Democratization and Media Transition](democratization-and-media-transition.md)
+### - [1995 CE – 2005 CE — Cable-Satellite Expansion and Pink Tide](cable-satellite-expansion-and-pink-tide.md)
+### - [2005 CE – 2014 CE — Digital Transition and Social Media Emergence](digital-transition-and-social-media-emergence.md)
+### - [1950 CE – 2014 CE — Televisa and Mexican Broadcasting Empire](televisa-and-mexican-broadcasting-empire.md)
+### - [1950 CE – 2014 CE — TV Globo and Brazilian Media Power](tv-globo-and-brazilian-media-power.md)
+### - [1950 CE – 2014 CE — Telenovela as Continental Genre](telenovela-as-continental-genre.md)
+### - [1950 CE – 2014 CE — Radio Persistence and Community Broadcasting](radio-persistence-and-community-broadcasting.md)
+### - [1950 CE – 2014 CE — Broadcasting and Political Power](broadcasting-and-political-power.md)

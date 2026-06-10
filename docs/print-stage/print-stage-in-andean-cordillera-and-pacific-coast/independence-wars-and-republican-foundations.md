@@ -1,0 +1,69 @@
+# __1810 CE – 1830 CE__ — Independence Wars and Republican Foundations
+__Summary:__ Liberation campaigns sweep the Andean cordillera from Bolivar's northern thrust through San Martin's southern advance, culminating in republican foundations across Gran Colombia, Peru, and Chile; the binding constraint is the logistical friction of moving armies across extreme terrain while maintaining creole elite cohesion against royalist forces; margin against shock is thin as new republics inherit exhausted treasuries and fractured economies; the direction is revolutionary rupture giving way to improvised state-building under military authority.
+## __P01. Physical Environment__
+__Geography & Spatial Friction:__ The Andean spine imposes extreme vertical friction on troop movement and supply, with passes above 4,000 meters separating coastal valleys from highland basins; chokepoints at Desaguadero, Quito plateau, and central Chilean valley channel campaigns.<br><br>
+__Climate Regime & Volatility:__ Tropical highlands experience pronounced wet and dry seasons affecting campaign timing; interannual variability from El Nino events disrupts coastal agriculture; no secular drift detected within the window.<br><br>
+__Hazard Regime & Exposure:__ Seismic exposure remains high along the Pacific subduction zone; volcanic activity in Ecuador and southern Peru poses localized risk; infrastructure margin against major shock is negligible given wartime disruption.<br><br>
+__Resource & Energy Endowment:__ Silver deposits at Potosi and Cerro de Pasco depleted but not exhausted; coastal guano deposits unrecognized; timber scarce above treeline; energy endowment adequate but extraction capacity collapsed.<br><br>
+__Waste Absorption & Sink Capacity:__ Military campaigns leave battlefield detritus and abandoned materiel; urban sanitation primitive but population density low enough that absorptive capacity is not stressed; sink saturation negligible.<br><br>
+## __P02. Biological Environment__
+__Pathogen Load & Mortality Baseline:__ Endemic typhus, dysentery, and altitude sickness impose heavy attrition on lowland troops crossing highland passes; smallpox persists among indigenous populations; mortality baseline elevated by wartime conditions.<br><br>
+__Nutrition & Physiological Vitality:__ Chronic food shortages affect armies on campaign; civilian populations in war zones face subsistence crisis; general physiological vitality depressed below peacetime levels.<br><br>
+__Reproductive Biology & Pairing Dynamics:__ Wartime mobilization removes males of reproductive age from households; disruption to pair-bonding and marriage timing evident but fertility patterns not fundamentally altered.<br><br>
+__Demographic Renewal & Density:__ Population losses from combat, disease, and disruption reduce renewal capacity; density remains low in highland zones; net emigration from war-affected areas to peripheral regions.<br><br>
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans accumulate as a dependency burden; informal kin networks absorb some load but institutional relief mechanisms absent.<br><br>
+## __P03. Economic Environment__
+__Subsistence & Provisioning Floor:__ Agricultural disruption raises the subsistence floor perilously close to carrying-capacity edge; hacienda production continues where fighting is distant; military requisitioning depletes local surpluses.<br><br>
+__Energy Capture & Conversion:__ Human and mule labor remain primary power sources; water mills operate where undamaged; no innovation in energy conversion; per-capita work ceiling unchanged.<br><br>
+__Labor Organization & Coercion:__ Military conscription coerces labor from peasant and indigenous populations; hacienda peonage persists; slavery continues in coastal zones; urban wage labor disrupted by conflict.<br><br>
+__Production & Surplus Capacity:__ Mining output collapses as labor is diverted and equipment deteriorates; agricultural surplus channeled to military provisioning; artisan production contracts.<br><br>
+__Storage, Reserves & Buffering:__ Colonial treasuries depleted by war finance; granary reserves requisitioned; merchant credit networks disrupted; buffering capacity approaching exhaustion.<br><br>
+__Exchange, Trade & Logistics:__ Trade routes severed by military operations; contraband and requisitioning replace normal commerce; Lima-centered colonial trade network fragmented; British merchants enter newly opened ports.<br><br>
+__Value Storage, Credit & Deferred Exchange:__ Spanish colonial currency circulates alongside improvised republican issues; chronic debasement and counterfeiting; credit mechanisms collapse; foreign loans contracted at disadvantageous terms.<br><br>
+__Surplus Extraction & Redistribution:__ Military governments extract through requisitioning and forced loans; taxation capacity minimal; redistribution follows military necessity rather than civil administration.<br><br>
+__Wealth Distribution & Asset Defense:__ Royalist property confiscated and redistributed to patriot officers; church wealth partially seized; landed elite defend holdings through political alignment; concentration shifts from peninsular to creole hands.<br><br>
+__Byproducts & Waste Routing:__ Mine tailings accumulate at inactive sites; urban waste management collapses in besieged cities; routing negligible relative to reduced production; no systemic pressure on sinks.<br><br>
+## __P04. Social Environment__
+__Social Trust & Mutual Aid:__ Trust radius contracts to kin and proven political allies; mutual aid networks strained by displacement; factional loyalties override broader solidarity.<br><br>
+__Stratification, Status & Group Identity:__ Creole-peninsular divide hardens into political identity; indigenous and African populations remain subordinate regardless of regime; military service offers limited mobility.<br><br>
+__Kinship, Family & Inheritance:__ Patrilineal inheritance continues; wartime deaths disrupt succession; widows assume household authority in unprecedented numbers; foundational kin structures persist.<br><br>
+__Civic Association & Self-Organization:__ Colonial guilds and confraternities weakened; cabildos emerge as political actors; voluntary association thin outside urban elite networks.<br><br>
+__Leisure, Play & Sociability:__ Festive life contracted by wartime conditions; military camps develop their own sociability; religious festivals continue where possible.<br><br>
+__Grievance Channels & Social Discharge:__ Formal grievance channels collapse with colonial administration; military justice replaces civil process; accumulated grievances discharged through factional violence and banditry.<br><br>
+## __P05. Political Environment__
+__Power Structure & Authority:__ Sovereign power fragments from Spanish Crown to competing republican juntas and military commanders; Bolivar and San Martin exercise personal authority; centralization attempted but precarious.<br><br>
+__Succession & Power Transfer:__ No routinized succession; power transfers through military victory, negotiation among generals, or constituent congresses of uncertain legitimacy; transfer a constant flashpoint.<br><br>
+__Legitimacy & Political Narrative:__ Republican liberty, American identity, and anti-Spanish sentiment justify revolutionary authority; Enlightenment rhetoric circulates among literate elite; popular legitimacy thin outside creole circles.<br><br>
+__Administrative Capacity & Institutional Integrity:__ Colonial bureaucracy fragments; new republican administrations lack trained personnel, records, and reach; corruption endemic; capacity minimal beyond military command.<br><br>
+__Political Participation & Mobilization:__ Creole elite participates through juntas and congresses; indigenous and African populations mobilized as soldiers but excluded from deliberation; participation narrowly constrained.<br><br>
+__Geopolitical Position & External Relations:__ Spain contests independence until Ayacucho; Britain and United States offer diplomatic recognition and commercial access; Holy Alliance threat recedes after Monroe Doctrine; borders undefined and contested.<br><br>
+__Coercive Apparatus & Means of Force:__ Patriot armies equipped with muskets, cavalry, and light artillery; supply dependent on British imports and captured Spanish materiel; command fragmented among competing generals.<br><br>
+__Internal Order & Threat Environment:__ Royalist guerrillas, bandits, and indigenous uprisings challenge republican authority; internal order precarious; enforcement capacity barely exceeds immediate military presence.<br><br>
+## __P06. Informational Environment__
+__Channels & Transmission Velocity:__ Information travels by mounted courier across mountain terrain; weeks or months separate distant commands; printing presses reach major cities enabling faster local dissemination.<br><br>
+__Record, Storage & Persistence:__ Colonial archives partially preserved, partially destroyed; republican governments establish minimal record-keeping; personal correspondence and proclamations survive unevenly.<br><br>
+__Framing, Censorship & Discourse Norms:__ Patriot press frames independence as liberation; royalist publications suppressed; discourse permits republican rhetoric but excludes indigenous languages and perspectives.<br><br>
+__Reception, Attention & Amplification:__ Literate urban elite consumes printed proclamations and newspapers; oral transmission carries news to broader population; amplification concentrated in capital cities.<br><br>
+__Signal Integrity & Noise Load:__ Rumor and misinformation spread rapidly in wartime conditions; verification capacity minimal; contradictory reports common; noise load high relative to reliable intelligence.<br><br>
+## __P07. Judicial Environment__
+__Moral Foundations & Sense of Justice:__ Natural rights and republican virtue provide elite moral framework; indigenous populations retain distinct justice concepts; shared sense of legitimate order fractured by revolution.<br><br>
+__Law, Codification & Regulatory Evolution:__ Colonial law nominally abrogated; republican constitutions drafted but unstable; actual regulation through military decree; codification incomplete and contested.<br><br>
+__Adjudication, Enforcement & Liability:__ Colonial courts collapse; military tribunals handle serious offenses; civil adjudication paralyzed; liability unclear as property rights contested between royalist and patriot claimants.<br><br>
+__Rights, Protections & Compliance Burden:__ Declared rights to liberty and property lack enforcement; compliance burden minimal as regulatory capacity absent; formal protections decorative rather than operative.<br><br>
+__Impunity & Unredressed Wrong:__ Wartime atrocities, confiscations, and executions proceed without accountability; impunity pervasive for those holding military power; accumulated wrongs unredressed.<br><br>
+## __P08. Intellectual Environment__
+__Inquiry, Theory & Paradigm:__ Enlightenment political theory and natural philosophy constitute the reigning paradigm among educated creoles; empirical investigation of Andean nature continues through European scientific travelers.<br><br>
+__Applied Knowledge & Technical Method:__ Military engineering and mining techniques continue at colonial levels; no significant technical innovation; applied knowledge adequate but not advancing.<br><br>
+__Education, Knowledge Stock & Skill Distribution:__ Colonial universities disrupted; literacy confined to urban elite; indigenous knowledge systems persist orally; overall knowledge stock contracts as institutions fail.<br><br>
+__Obsolescence & Knowledge Decay:__ Colonial administrative knowledge lost with departing peninsular officials; mining and craft techniques degrade through disuse; decay outpaces accumulation.<br><br>
+## __P09. Cultural Environment__
+__Mythos, Memory & Foundational Identity:__ American identity crystallizes against Spanish tyranny; Inca and pre-Columbian imagery appropriated by creole nationalism; foundational myths of liberation take shape.<br><br>
+__Artistic Expression & Material Culture:__ Neoclassical republican aesthetics imported from Europe; church baroque continues in provincial areas; material culture reflects disruption and improvisation.<br><br>
+__Collective Mood & Behavioral Disposition:__ Mood oscillates between revolutionary enthusiasm and war exhaustion; anxiety pervades civilian populations in contested zones; confidence among victorious patriot elites.<br><br>
+__Form Exhaustion & Meaning Decay:__ Colonial Spanish forms lose binding authority; new republican symbols not yet consolidated; meaning temporarily suspended between discredited monarchy and untested republic.<br><br>
+## __P10. Spiritual Environment__
+__Cosmology & Existential Outlook:__ Catholic Christianity remains dominant cosmology; creole elite incorporates deist and rationalist elements; indigenous cosmologies persist beneath Christian overlay.<br><br>
+__Ritual, Devotion & Sacred Practice:__ Mass, processions, and saints' days continue; clergy divided between royalist and patriot sympathies; devotional infrastructure intact despite institutional disruption.<br><br>
+__Religious Institutions & Doctrinal Authority:__ Church hierarchy fractured by political loyalties; bishops flee or accommodate new regimes; patronato disputes emerge between Rome and republics; institutional authority contested.<br><br>
+__Spiritual Diffusion, Syncretism & Displacement:__ No major spiritual diffusion within window; Andean folk Catholicism stable; Protestant presence negligible; syncretism neither advancing nor retreating.<br><br>
+__Disenchantment & Sacred Discharge:__ Elite rationalism produces limited disenchantment; popular piety undiminished; no significant secularizing drift; sacred meaning retained despite political upheaval.<br><br>

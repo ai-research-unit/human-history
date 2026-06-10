@@ -1,13 +1,40 @@
 site_name: AI research on Human History
+
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
-nav:
-  - Home: index.md
-  - Methodology: methodology.md
-  - About: about.md
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
+  features:
+    - navigation.instant
 
 markdown_extensions:
   - meta
+
+nav:
+  - Home: index.md
+  - Disclaimer: disclaimer.md
+  - Methodology: methodology.md
+  - 1. Imitative Stage: imitative-stage/index.md
+  - 2. Oral Stage: oral-stage/index.md
+  - 3. Manuscript Stage: manuscript-stage/index.md
+  - 4. Print Stage: print-stage/index.md
+  - 5. Broadcast Stage: broadcast-stage/index.md
+  - 6. Digital Stage: digital-stage/index.md
+  - Contact: contact.md
 

@@ -1,0 +1,69 @@
+# __12000 BCE – 5000 BCE__ — Green Sahara and Aquatic Adaptation
+__Summary:__ The African Humid Period transforms the Sahara and Sahel into a well-watered landscape of lakes, rivers, and grasslands supporting abundant aquatic and terrestrial fauna; lakeside fishing communities develop semi-sedentary settlements with early pottery and specialized bone-harpoon technology; the binding constraint is access to permanent water sources around which populations concentrate; resource abundance provides substantial buffer against seasonal variation; population grows and expands across previously uninhabitable terrain.
+## __P01. Physical Environment__
+__Geography & Spatial Friction:__ A dramatically transformed landscape — former desert basins fill with lakes (Mega-Chad, paleolakes across Niger and Mali), rivers expand and interconnect, the Niger inland delta floods seasonally; lakeshores and riverbanks create linear corridors of movement and settlement; the Sahara itself becomes traversable savanna reducing north-south friction.<br><br>
+__Climate Regime & Volatility:__ African Humid Period conditions prevail — monsoon belt shifts northward bringing 200–500 mm additional annual rainfall to the Sahara and Sahel; summer monsoons reliable though interannual variability persists; secular trend stable through mid-window then gradual drying begins after ~6000 BCE, accelerating toward window's end.<br><br>
+__Hazard Regime & Exposure:__ Flooding along lakeshores and in the inland delta poses seasonal risk to settlements; drought episodes occur but within a generally favorable regime; wildfire risk in expanding grasslands; overall hazard exposure moderate with substantial environmental margin.<br><br>
+__Resource & Energy Endowment:__ Abundant aquatic resources — fish, mollusks, hippopotamus, crocodile — plus terrestrial game on surrounding grasslands; lithic raw materials available regionally; firewood plentiful in gallery forests and savanna; effectively unlimited relative to population demand.<br><br>
+__Waste Absorption & Sink Capacity:__ Negligible anthropogenic load on vast, low-density landscape; organic waste disperses readily; no measurable sink saturation.<br><br>
+## __P02. Biological Environment__
+__Pathogen Load & Mortality Baseline:__ Lacustrine environments host waterborne parasites and malaria-bearing mosquitoes; endemic disease burden likely moderate; mortality baseline stable within the window, trending neither markedly up nor down.<br><br>
+__Nutrition & Physiological Vitality:__ Abundant protein from fish and game, supplemented by wild plant foods; skeletal evidence from Gobero indicates generally robust populations with adequate nutrition; vitality high relative to earlier and later periods.<br><br>
+__Reproductive Biology & Pairing Dynamics:__ Stable pair-bonding and kin-group structures; no evidence of unusual selective pressures; reproductive biology unremarkable for mobile forager-fisher populations.<br><br>
+__Demographic Renewal & Density:__ Population grows through the window, filling newly habitable terrain; density remains low overall but concentrates along lakeshores; replacement positive with net in-migration from southern refugia.<br><br>
+__Attrition & Dependency Overhang:__ Dependency load absorbed within kin networks; abundant resources reduce strain; no evidence of dependency crisis.<br><br>
+## __P03. Economic Environment__
+__Subsistence & Provisioning Floor:__ Aquatic foraging dominates — fish, shellfish, hippopotamus, crocodile taken with bone harpoons and hooks; wild grains and tubers supplement; provisioning floor comfortably above subsistence edge for lakeside populations.<br><br>
+__Energy Capture & Conversion:__ Human muscle remains sole power source; efficient watercraft (dugout canoes attested later but possibly present) extend reach; fire for cooking and warmth; per-capita work ceiling modest but adequate.<br><br>
+__Labor Organization & Coercion:__ Kin-based cooperative labor; fishing and hunting likely involve task-group coordination; no coerced labor; division by age and sex probable.<br><br>
+__Production & Surplus Capacity:__ Seasonal abundance — fish runs and dry-season lake concentration — creates periodic surplus; early pottery enables storage of processed fish and wild grains; surplus modest but present.<br><br>
+__Storage, Reserves & Buffering:__ Pottery (some of Africa's earliest, ~9500 BCE) permits drying and storing fish, grains, and other foods; semi-sedentary settlements accumulate reserves; buffering capacity improves through the window.<br><br>
+__Exchange, Trade & Logistics:__ Regional exchange of lithics, pottery, and probably perishables between lakeside groups; no long-distance trade networks evident; logistics limited to foot travel and possibly watercraft.<br><br>
+__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; reciprocal sharing within and between kin groups constitutes deferred exchange; durable goods (pottery, lithics, ornaments) hold transferable value.<br><br>
+__Surplus Extraction & Redistribution:__ Communal sharing of large kills (hippopotamus, large fish); no formalized extraction mechanism; redistribution through kinship and reciprocity.<br><br>
+__Wealth Distribution & Asset Defense:__ Minimal material stratification; portable wealth in tools and ornaments; burial goods at Gobero indicate some status differentiation but no pronounced inequality.<br><br>
+__Byproducts & Waste Routing:__ Organic refuse (fish bones, shells, animal remains) discarded in middens; negligible load dispersed across abundant landscape.<br><br>
+## __P04. Social Environment__
+__Social Trust & Mutual Aid:__ Small-scale communities with high interpersonal trust; reciprocal sharing of food and labor fundamental; trust radius extends to recognized kin and neighboring bands.<br><br>
+__Stratification, Status & Group Identity:__ Status based on skill, age, and experience rather than hereditary position; group identity tied to residence, kinship, and shared territory; boundaries fluid but real.<br><br>
+__Kinship, Family & Inheritance:__ Bilateral or patrilineal descent probable; extended family units share residence and resources; inheritance of portable goods and territorial knowledge within kin groups.<br><br>
+__Civic Association & Self-Organization:__ Band-level self-organization; task groups for fishing and hunting; communal decision-making among senior kin; no formalized associations above kin level.<br><br>
+__Leisure, Play & Sociability:__ Seasonal aggregations at abundant resource sites allow expanded sociability, mate exchange, ritual activity, and communal celebration; leisure integrated with subsistence rhythm.<br><br>
+__Grievance Channels & Social Discharge:__ Interpersonal disputes mediated by elders; mobility allows fission of incompatible groups; low population density limits friction; grievance largely absorbed.<br><br>
+## __P05. Political Environment__
+__Power Structure & Authority:__ Egalitarian band-level organization; leadership situational and task-specific; no institutionalized hierarchy; authority diffuse and contingent on demonstrated competence.<br><br>
+__Succession & Power Transfer:__ Leadership not formalized therefore no succession rules; influence accrues to capable individuals and wanes with age or failure; transfer informal.<br><br>
+__Legitimacy & Political Narrative:__ Authority legitimated by skill, generosity, and age; no political narratives in a formal sense; oral tradition carries shared norms and expectations.<br><br>
+__Administrative Capacity & Institutional Integrity:__ No administration beyond kin-group coordination; memory and oral communication suffice for band-scale organization; institutional capacity minimal and adequate.<br><br>
+__Political Participation & Mobilization:__ All adult members participate in group decisions; consensus sought; fission available as exit option; no formalized mobilization.<br><br>
+__Geopolitical Position & External Relations:__ Inter-band relations governed by kinship, intermarriage, and reciprocal exchange; territorial boundaries flexible; conflict low-intensity and episodic; no external state-level threats.<br><br>
+__Coercive Apparatus & Means of Force:__ No dedicated coercive apparatus; weapons (spears, harpoons, bows) serve hunting and limited defensive purposes; force capacity distributed among adult males.<br><br>
+__Internal Order & Threat Environment:__ Internal order maintained through social pressure and elder mediation; banditry and organized violence absent; threat environment minimal.<br><br>
+## __P06. Informational Environment__
+__Channels & Transmission Velocity:__ Face-to-face speech sole channel; information travels at walking pace between bands; seasonal aggregations accelerate inter-group transmission; reach limited to acoustic and travel range.<br><br>
+__Record, Storage & Persistence:__ Living memory alone — no writing, no external archives; knowledge persists through oral repetition and intergenerational teaching; loss occurs with each death of knowledgeable elders; persistence fragile but adequate for band-scale needs.<br><br>
+__Framing, Censorship & Discourse Norms:__ No institutional censorship; conversational norms govern what is spoken and when; taboos around sacred knowledge may restrict certain discourse.<br><br>
+__Reception, Attention & Amplification:__ Small audiences; stories and knowledge amplified through retelling; no mass reception; attention focused on immediate survival and social information.<br><br>
+__Signal Integrity & Noise Load:__ Oral transmission introduces gradual drift; small-scale society limits noise; verification through multiple witnesses and elders; integrity adequate for practical purposes.<br><br>
+## __P07. Judicial Environment__
+__Moral Foundations & Sense of Justice:__ Reciprocity and kinship obligation underpin moral expectations; harm to kin demands response; sharing and mutual aid fundamental values.<br><br>
+__Law, Codification & Regulatory Evolution:__ No codified law; customary norms transmitted orally and enforced through social pressure; rules stable over generations with gradual evolution.<br><br>
+__Adjudication, Enforcement & Liability:__ Disputes adjudicated by elders and kin heads; restitution preferred over punishment; liability collective within kin groups; formal third-party machinery absent.<br><br>
+__Rights, Protections & Compliance Burden:__ Individual autonomy high within kin obligations; no formalized rights system; compliance with customary norms low-burden and internalized.<br><br>
+__Impunity & Unredressed Wrong:__ Some wrongs go unredressed when perpetrators flee or die; kin feuding possible but mobility limits escalation; impunity gap small in close-knit communities.<br><br>
+## __P08. Intellectual Environment__
+__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; practical naturalistic knowledge of fish behavior, seasonal cycles, plants, and animals extensive; explanatory paradigms embedded in oral tradition and myth.<br><br>
+__Applied Knowledge & Technical Method:__ Sophisticated fishing technology — bone harpoons, hooks, nets probable; early pottery production indicating pyrotechnic knowledge; lithic reduction techniques refined; methods transmitted through apprenticeship.<br><br>
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally within kin groups; all members acquire core survival skills; specialized knowledge (fishing, pottery, healing) held by practitioners; skill distribution adequate for band-level economy.<br><br>
+__Obsolescence & Knowledge Decay:__ Knowledge lost when transmission chains break; techniques may fade when environments shift; decay gradual but real; no external archive to recover lost knowledge.<br><br>
+## __P09. Cultural Environment__
+__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestral spirits, and totemic associations provide collective identity; deep memory carried in oral tradition; landscape features acquire sacred significance.<br><br>
+__Artistic Expression & Material Culture:__ Rock art flourishes across the Saharan and Sahelian margins depicting aquatic life, cattle, wildlife, and humans (Tassili, Ennedi, Tibesti); pottery decorated with distinctive motifs; bone and stone tools reflect aesthetic as well as functional concerns.<br><br>
+__Collective Mood & Behavioral Disposition:__ Confident and expansive — abundant resources support positive outlook; risk-tolerance adequate for exploration of new territories; mood buoyant through mid-window, possibly sobering as drying begins.<br><br>
+__Form Exhaustion & Meaning Decay:__ Traditional forms retain vitality in small-scale communities; no evidence of symbolic exhaustion; meaning continuously renewed through practice.<br><br>
+## __P10. Spiritual Environment__
+__Cosmology & Existential Outlook:__ Animist worldview probable — spirits inhabit landscape, water, animals; human life embedded in larger spiritual ecology; fatalism and piety balanced with practical agency.<br><br>
+__Ritual, Devotion & Sacred Practice:__ Burial practices at Gobero indicate ritual attention to the dead; seasonal rites, hunting rituals, and life-stage ceremonies probable though poorly attested; sacred practice woven into daily life.<br><br>
+__Religious Institutions & Doctrinal Authority:__ No institutional religion; ritual specialists (shamans, healers) hold informal authority; doctrine transmitted orally and flexibly interpreted.<br><br>
+__Spiritual Diffusion, Syncretism & Displacement:__ Local traditions predominate; diffusion occurs through intermarriage and contact but remains gradual; no displacement events visible in the record.<br><br>
+__Disenchantment & Sacred Discharge:__ No disenchantment evident; sacred meaning pervades landscape and practice; spiritual need fully addressed within existing cosmology.<br><br>

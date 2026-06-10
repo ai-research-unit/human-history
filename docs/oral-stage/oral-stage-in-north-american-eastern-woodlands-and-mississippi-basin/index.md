@@ -1,0 +1,11 @@
+# __Oral Stage in The North American Eastern Woodlands and Mississippi Basin — 16000 BCE – 1750 CE__
+### - [16000 BCE – 10000 BCE — Paleoindian Settlement of Eastern North America](paleoindian-settlement-of-eastern-north-america.md)
+### - [10000 BCE – 6000 BCE — Early Archaic Adaptation and Post-Glacial Diversification](early-archaic-adaptation-and-post-glacial-diversification.md)
+### - [6000 BCE – 3000 BCE — Middle and Late Archaic Intensification](middle-and-late-archaic-intensification.md)
+### - [3000 BCE – 500 BCE — Early Woodland and Adena Emergence](early-woodland-and-adena-emergence.md)
+### - [500 BCE – 400 CE — Middle Woodland and Hopewell Interaction Sphere](middle-woodland-and-hopewell-interaction-sphere.md)
+### - [400 CE – 1000 CE — Late Woodland Transformation](late-woodland-transformation.md)
+### - [1000 CE – 1350 CE — Mississippian Florescence and Cahokia](mississippian-florescence-and-cahokia.md)
+### - [1350 CE – 1540 CE — Late Mississippian Reorganization](late-mississippian-reorganization.md)
+### - [1540 CE – 1650 CE — European Contact and Indigenous Response](european-contact-and-indigenous-response.md)
+### - [1650 CE – 1750 CE — Colonial Entanglement and Oral Twilight](colonial-entanglement-and-oral-twilight.md)

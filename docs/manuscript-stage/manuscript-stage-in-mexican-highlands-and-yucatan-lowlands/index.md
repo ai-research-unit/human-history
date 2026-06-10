@@ -1,0 +1,13 @@
+# __Manuscript Stage in The Mexican Highlands and Yucatan Lowlands — 400 BCE – 1810 CE__
+### - [400 BCE – 250 CE — Late Preclassic Maya and Script Development](late-preclassic-maya-and-script-development.md)
+### - [250 CE – 550 CE — Early Classic Maya and Teotihuacan Influence](early-classic-maya-and-teotihuacan-influence.md)
+### - [550 CE – 800 CE — Late Classic Maya Florescence](late-classic-maya-florescence.md)
+### - [800 CE – 1000 CE — Classic Maya Collapse and Terminal Classic](classic-maya-collapse-and-terminal-classic.md)
+### - [1000 CE – 1200 CE — Early Postclassic and Toltec Horizon](early-postclassic-and-toltec-horizon.md)
+### - [1200 CE – 1428 CE — Late Postclassic Transformations and Mexica Rise](late-postclassic-transformations-and-mexica-rise.md)
+### - [1428 CE – 1519 CE — Aztec Empire and Tribute Administration](aztec-empire-and-tribute-administration.md)
+### - [1519 CE – 1550 CE — Spanish Conquest and Early Colonial Transition](spanish-conquest-and-early-colonial-transition.md)
+### - [1550 CE – 1650 CE — Colonial Consolidation and Documentary Synthesis](colonial-consolidation-and-documentary-synthesis.md)
+### - [1650 CE – 1750 CE — Mature Colonial Society and Baroque Culture](mature-colonial-society-and-baroque-culture.md)
+### - [1750 CE – 1810 CE — Bourbon Reforms and Independence Ferment](bourbon-reforms-and-independence-ferment.md)
+### - [400 BCE – 1810 CE — Codex Traditions Across Mesoamerican History](codex-traditions-across-mesoamerican-history.md)
