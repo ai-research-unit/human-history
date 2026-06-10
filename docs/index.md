@@ -61,7 +61,4 @@ it -- so a manuscript period can be named even while most people were still illi
 7. AI Stage (projected) -- retrieval by meaning, in ordinary language; an emerging
    candidate, not yet dominant.
 
-## Comments / Contact
-
-You can send messages or comments by email on gmail: ai.research.center.unit
 

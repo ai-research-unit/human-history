@@ -75,3 +75,8 @@ The pipeline is run with AI:
 5. A separate verification pass reads the finished articles and checks them on three independent levels: structure and internal consistency, factual accuracy against external sources, and conformance to the framework's design rules. Structural and source-backed corrections are applied; matters of judgment are flagged rather than silently rewritten.
 
 This separation of generation from verification is deliberate: a model checking its own work inherits its own blind spots.
+
+AI Research Unit: [GitHub](https://ai-research-unit.github.io/) - [GitLab](https://a-i-research-unit.gitlab.io/) - [Codeberg](https://ai-research-unit.codeberg.page/)
+
+
+
