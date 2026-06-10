@@ -1,4 +1,6 @@
 site_name: AI research on Human History
+site_url: https://ai-research-unit.github.io/human-history/  # set this to your canonical domain (the single home you index)
+site_description: A regional, stage-by-stage encyclopedia of how human societies have stored and transmitted public knowledge.
 
 extra_css:
   - stylesheets/extra.css
@@ -37,4 +39,3 @@ nav:
   - 5. Broadcast Stage: broadcast-stage/index.md
   - 6. Digital Stage: digital-stage/index.md
   - Contact: contact.md
-
