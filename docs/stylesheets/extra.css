@@ -1,3 +1,11 @@
+.md-typeset {
+  font-size: 1rem !important;
+}
+
+.md-nav {
+  font-size: 0.9rem !important;
+}
+
 [data-md-color-scheme="default"] {
   /* Soft warm gray background instead of pure white */
   --md-surface: #f3f4f6 !important;
