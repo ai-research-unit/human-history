@@ -1,6 +1,12 @@
 site_name: AI research on Human History
-site_url: https://ai-research-unit.github.io/human-history/  # set this to your canonical domain (the single home you index)
 site_description: A regional, stage-by-stage encyclopedia of how human societies have stored and transmitted public knowledge.
+
+exclude_docs: |
+  _planning.md
+  _planning/
+  _check-report.md
+  _check-report/
+
 
 extra_css:
   - stylesheets/extra.css
