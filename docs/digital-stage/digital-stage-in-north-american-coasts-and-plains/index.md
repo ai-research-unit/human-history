@@ -1,4 +1,4 @@
-# __Digital Stage in The North American Eastern Woodlands and Mississippi Basin — 2005 CE – 2026 CE__
+# __Digital Stage in The North American Coasts and Plains — 2005 CE – 2026 CE__
 ### - [2005 CE – 2010 CE — Web 2.0 and Social Media Emergence](2005-ce-2010-ce-web-20-and-social-media-emergence.md)
 ### - [2010 CE – 2014 CE — Smartphone Revolution and Mobile-First Transition](2010-ce-2014-ce-smartphone-revolution-and-mobile-first-transition.md)
 ### - [2014 CE – 2018 CE — Platform Consolidation and Attention Economy](2014-ce-2018-ce-platform-consolidation-and-attention-economy.md)

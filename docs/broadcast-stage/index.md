@@ -1,7 +1,7 @@
 # __Broadcast Stage__
 __Description:__ One source reaches a multitude in the same instant: radio then television radiate to countless receivers who take it in together, wherever they are. A population can be addressed as one audience and held in step in real time, and public information life comes to run on the broadcast signal. Dominant until the digital substrate takes over.<br><br>
 
-### - [Broadcast Stage in The North American Eastern Woodlands and Mississippi Basin — 1930 CE – 2005 CE](broadcast-stage-in-north-american-eastern-woodlands-and-mississippi-basin/index.md)
+### - [Broadcast Stage in The North American Coasts and Plains — 1930 CE – 2005 CE](broadcast-stage-in-north-american-coasts-and-plains/index.md)
 ### - [Broadcast Stage in The North European Plain and Mediterranean Peninsulas — 1930 CE – 2010 CE](broadcast-stage-in-north-european-plain-and-mediterranean-peninsulas/index.md)
 ### - [Broadcast Stage in The British Isles — 1930 CE – 2010 CE](broadcast-stage-in-british-isles/index.md)
 ### - [Broadcast Stage in The Mexican Highlands, Andean Cordillera and Brazilian Highlands — 1950 CE – 2014 CE](broadcast-stage-in-mexican-highlands-andean-cordillera-and-brazilian-highlands/index.md)

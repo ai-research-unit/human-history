@@ -1,4 +1,4 @@
-# __Broadcast Stage in The North American Eastern Woodlands and Mississippi Basin — 1930 CE – 2005 CE__
+# __Broadcast Stage in The North American Coasts and Plains — 1930 CE – 2005 CE__
 ### - [1930 CE – 1941 CE — Radio Golden Age and Depression Broadcasting](radio-golden-age-and-depression-broadcasting.md)
 ### - [1941 CE – 1948 CE — World War II and Postwar Transition](world-war-ii-and-postwar-transition.md)
 ### - [1948 CE – 1960 CE — Television Age Dawn and Network Dominance](television-age-dawn-and-network-dominance.md)

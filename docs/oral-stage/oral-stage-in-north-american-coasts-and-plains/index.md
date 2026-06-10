@@ -1,4 +1,4 @@
-# __Oral Stage in The North American Eastern Woodlands and Mississippi Basin — 16000 BCE – 1750 CE__
+# __Oral Stage in The North American Coasts and Plains — 16000 BCE – 1750 CE__
 ### - [16000 BCE – 10000 BCE — Paleoindian Settlement of Eastern North America](paleoindian-settlement-of-eastern-north-america.md)
 ### - [10000 BCE – 6000 BCE — Early Archaic Adaptation and Post-Glacial Diversification](early-archaic-adaptation-and-post-glacial-diversification.md)
 ### - [6000 BCE – 3000 BCE — Middle and Late Archaic Intensification](middle-and-late-archaic-intensification.md)

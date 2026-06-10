@@ -1,4 +1,4 @@
-# __Print Stage in The North American Eastern Woodlands and Mississippi Basin — 1750 CE – 1930 CE__
+# __Print Stage in The North American Coasts and Plains — 1750 CE – 1930 CE__
 ### - [1750 CE – 1783 CE — Colonial Crisis, Revolution, and Founding Press](colonial-crisis-revolution-and-founding-press.md)
 ### - [1783 CE – 1800 CE — New Republic and Constitutional Print](new-republic-and-constitutional-print.md)
 ### - [1800 CE – 1828 CE — Jeffersonian Republic and Expanding Press](jeffersonian-republic-and-expanding-press.md)

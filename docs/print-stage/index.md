@@ -3,7 +3,7 @@ __Description:__ Mechanically reproduced, identical copies become the substrate 
 
 ### - [Print Stage in The North European Plain — 1500 CE – 1930 CE](print-stage-in-north-european-plain/index.md)
 ### - [Print Stage in The British Isles — 1500 CE – 1930 CE](print-stage-in-british-isles/index.md)
-### - [Print Stage in The North American Eastern Woodlands and Mississippi Basin — 1750 CE – 1930 CE](print-stage-in-north-american-eastern-woodlands-and-mississippi-basin/index.md)
+### - [Print Stage in The North American Coasts and Plains — 1750 CE – 1930 CE](print-stage-in-north-american-coasts-and-plains/index.md)
 ### - [Print Stage in The Italian Peninsula — 1500 CE – 1930 CE](print-stage-in-italian-peninsula/index.md)
 ### - [Print Stage in The Japanese Archipelago — 1650 CE – 1935 CE](print-stage-in-japanese-archipelago/index.md)
 ### - [Print Stage in The Iberian Peninsula and Western Mediterranean — 1500 CE – 1930 CE](print-stage-in-iberian-peninsula-and-western-mediterranean/index.md)

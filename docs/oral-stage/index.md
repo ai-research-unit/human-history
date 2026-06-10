@@ -16,4 +16,4 @@ __Description:__ Spoken language becomes the primary substrate. With a grammar a
 ### - [Oral Stage in The Southern African Plateau — 150000 BCE – 1945 CE](oral-stage-in-southern-african-plateau/index.md)
 ### - [Oral Stage in The North European Plain — 40000 BCE – 1000 CE](oral-stage-in-north-european-plain/index.md)
 ### - [Oral Stage in The Congo Basin — 130000 BCE – 1945 CE](oral-stage-in-congo-basin/index.md)
-### - [Oral Stage in The North American Eastern Woodlands and Mississippi Basin — 16000 BCE – 1750 CE](oral-stage-in-north-american-eastern-woodlands-and-mississippi-basin/index.md)
+### - [Oral Stage in The North American Coasts and Plains — 16000 BCE – 1750 CE](oral-stage-in-north-american-coasts-and-plains/index.md)
