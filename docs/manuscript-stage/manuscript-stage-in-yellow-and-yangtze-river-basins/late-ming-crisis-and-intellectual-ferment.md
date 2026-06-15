@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry spreads in the northwest as famine dis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite sentiment shifts from mid-Ming complacency to late-Ming anxiety as portents accumulate: factionalism, fiscal crisis, frontier pressure, natural disasters. Literati factionalism — the Donglin movement and its opponents — generates bitter partisan conflict. Popular sentiment in afflicted regions turns to desperation and rage; the starving northwest joins rebel armies. Trust in the dynasty erodes; millenarian and sectarian movements attract followers anticipating cosmic transformation.
-
 __Leadership & Personal Authority:__ The Wanli emperor (r. 1572–1620) withdraws from active governance for decades, leaving memorials unanswered and positions unfilled. Eunuch Wei Zhongxian dominates the Tianqi reign (1620–1627), purging Donglin critics. The Chongzhen emperor (r. 1627–1644) attempts reform but is erratic, suspicious, and unable to trust his generals. No figure commands sufficient authority to rally the fragmenting order.
 
 __Legitimacy as Lived Allegiance:__ The Mandate of Heaven concept frames legitimacy; natural disasters and military defeats signal Heaven's withdrawal. By the 1640s, elite allegiance fragments: some officials serve Li Zicheng's Shun dynasty, others resist, still others await the Manchus. The dynasty's claim to legitimate rule no longer compels obedience.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Factional paralysis prevents coherent p
 
 __External Relations & Posture:__ The Ming faces pressure on multiple fronts: the northern frontier against the Manchus (Jurchens reorganized under Nurhaci from 1616), residual Mongol threats, Japanese pirates and the Imjin War intervention in Korea (1592–1598), and European maritime expansion (Portuguese at Macao from 1557, Dutch and Spanish probing). The Imjin War drains resources; the Manchu threat proves fatal. The court's stance wavers between appeasement and confrontation, executing general Yuan Chonghuan (1630) on false charges and thereby destroying its best frontier defense.
 
+__Public Sentiment & Behavioral Temper:__ Elite sentiment shifts from mid-Ming complacency to late-Ming anxiety as portents accumulate: factionalism, fiscal crisis, frontier pressure, natural disasters. Literati factionalism — the Donglin movement and its opponents — generates bitter partisan conflict. Popular sentiment in afflicted regions turns to desperation and rage; the starving northwest joins rebel armies. Trust in the dynasty erodes; millenarian and sectarian movements attract followers anticipating cosmic transformation.
+
 __Disaffection, Apathy & Spent Will:__ Elite disillusionment drives withdrawal into private life: garden cultivation, art collecting, heterodox philosophy. Officials refuse appointments or resign in frustration. Peasant desperation fuels rebellion. The collective will to sustain the dynasty dissipates; by 1644, few are willing to die for the Ming.
+
 
 ## D06. Informational Domain
 

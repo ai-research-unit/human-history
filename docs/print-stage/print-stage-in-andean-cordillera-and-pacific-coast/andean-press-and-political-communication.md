@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Press feuds escalate into duels and street braw
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Newspapers shape patriotic fervor during wars (anti-Chilean sentiment in Peru post-1879, anti-Peruvian sentiment in Chile during the conflict). Editorial campaigns whip up or calm panic during financial crises and epidemics.
-
 __Leadership & Personal Authority:__ Editors acquire political weight: Gonzalez Prada's articles inspire Peruvian radicalism; Alberto Edwards shapes Chilean conservatism through El Mercurio. Presidential candidates cultivate friendly papers; some (Alessandri) master newspaper rhetoric.
 
 __Legitimacy as Lived Allegiance:__ Print legitimates republican constitutions by publishing and disseminating founding documents. Opposition papers erode legitimacy by exposing corruption, election fraud, and military abuses, creating a feedback loop between print and political crisis.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Labor and reform movements use pamphlet
 
 __External Relations & Posture:__ Newspapers amplify territorial disputes (Tacna-Arica question, Bolivia's sea access grievance), sustaining nationalist pressure on governments. Editorial campaigns target foreign capital (British nitrate interests, U.S. copper companies), channeling economic resentment.
 
+__Public Sentiment & Behavioral Temper:__ Newspapers shape patriotic fervor during wars (anti-Chilean sentiment in Peru post-1879, anti-Peruvian sentiment in Chile during the conflict). Editorial campaigns whip up or calm panic during financial crises and epidemics.
+
 __Disaffection, Apathy & Spent Will:__ Censorship and repeated closures demoralize opposition editors; some abandon journalism for exile or other professions. Reader fatigue with partisan invective limits circulation growth among non-aligned publics.
+
 
 ## D06. Informational Domain
 

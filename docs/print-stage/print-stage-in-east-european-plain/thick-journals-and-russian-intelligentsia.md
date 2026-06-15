@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Factional polemics ("the 1860s schism" between 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Reading a particular journal signals political and moral identity; subscription lists are communities of sentiment. Enthusiasm or despair flows through lead articles.
-
 __Leadership & Personal Authority:__ Editors (Nekrasov, Chernyshevsky, Mikhailovsky, Struve) become intellectual leaders whose opinions shape movements. Critics (Belinsky, Dobrolyubov, Pisarev) wield immense influence.
 
 __Legitimacy as Lived Allegiance:__ The thick journal earns legitimacy by speaking truths the state suppresses; readers feel allegiance to "their" journal as to a cause.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Journals articulate and mobilize will�
 
 __External Relations & Posture:__ Russian journals engage Western ideas—French, German, English—translating and adapting them. Émigré publications (Herzen's Kolokol) feed into domestic discourse.
 
+__Public Sentiment & Behavioral Temper:__ Reading a particular journal signals political and moral identity; subscription lists are communities of sentiment. Enthusiasm or despair flows through lead articles.
+
 __Disaffection, Apathy & Spent Will:__ Repeated suppression breeds cynicism; the "superfluous man" of 1840s fiction embodies educated paralysis. By 1930, the thick journal tradition is absorbed into party organs, and independent will is extinguished.
+
 
 ## D06. Informational Domain
 

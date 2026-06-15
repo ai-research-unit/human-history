@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tension is discharged through spatial fi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is practical — focused on daily subsistence with emotional responses tied to immediate circumstances. Trust is high within the band, cautious toward strangers. Fear of predators is constant; satisfaction follows successful hunts.
-
 __Leadership & Personal Authority:__ Leadership is informal and context-dependent. Experienced hunters lead during hunts; knowledgeable individuals guide foraging routes. Authority dissolves when the task ends.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and kin-based. There is no abstract order to legitimate; individuals follow those they know through direct relationship.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is coordinated but no
 
 __External Relations & Posture:__ Other bands are rarely encountered. When contact occurs, it is likely cautious — potential mates, potential competitors, potential threats. No sustained inter-group relations.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is practical — focused on daily subsistence with emotional responses tied to immediate circumstances. Trust is high within the band, cautious toward strangers. Fear of predators is constant; satisfaction follows successful hunts.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection does not accumulate; the option of departure prevents festering grievance. Apathy is incompatible with the demands of foraging life.
+
 
 ## D06. Informational Domain
 

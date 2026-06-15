@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through fission a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Band sentiment remains intimate; trust is high within kin networks; anxiety shifts from megafaunal hunting to resource scarcity during lean seasons; the loss of the great beasts may generate collective mourning or narrative elaboration.
-
 __Leadership & Personal Authority:__ Leadership remains personal and situational; as ecological knowledge diversifies, authority may be distributed among multiple specialists — the deer hunter, the fisher, the plant gatherer — rather than concentrated in big-game hunters.
 
 __Legitimacy as Lived Allegiance:__ Allegiance remains to kin and band; legitimacy is relational and constantly renegotiated; no office or polity to command loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for hunts,
 
 __External Relations & Posture:__ Relations with other bands remain cautiously cooperative; exchange of mates and goods continues; as territorial foraging intensifies, boundary disputes may increase, but outright warfare remains rare.
 
+__Public Sentiment & Behavioral Temper:__ Band sentiment remains intimate; trust is high within kin networks; anxiety shifts from megafaunal hunting to resource scarcity during lean seasons; the loss of the great beasts may generate collective mourning or narrative elaboration.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is discharged through exit; the adaptive challenge of subsistence transition likely maintains engagement; no standing reservoir of apathy or spent will.
+
 
 ## D06. Informational Domain
 

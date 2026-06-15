@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Libel, dueling, and street fights punctuate pre
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The press amplifies collective emotion — patriotic fervor during Cretan uprisings, despair after 1897 defeat, triumphalism in Balkan Wars, grief after Asia Minor; newspapers serve as emotional barometers and accelerants.
-
 __Leadership & Personal Authority:__ Editor-politicians (Trikoupis, Deligiannis, Venizelos) use papers as personal organs; charismatic journalists (Vlachos, Gavriilidis) command loyal readerships; leadership and print voice fuse.
 
 __Legitimacy as Lived Allegiance:__ Papers legitimate regimes and delegitimate rivals; the press is primary arena for allegiance contests; royalist vs. Venizelist papers map the National Schism; readership choice is political declaration.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Print mobilizes will — fundraising fo
 
 __External Relations & Posture:__ Papers frame foreign relations — Great Power rivalries, Ottoman enmity, Slavic competition — shaping public perception and constraining diplomacy; nationalist maximalism in print often exceeds government flexibility.
 
+__Public Sentiment & Behavioral Temper:__ The press amplifies collective emotion — patriotic fervor during Cretan uprisings, despair after 1897 defeat, triumphalism in Balkan Wars, grief after Asia Minor; newspapers serve as emotional barometers and accelerants.
+
 __Disaffection, Apathy & Spent Will:__ The 1897 defeat triggers press recrimination and public despair; post-1922 exhaustion is palpable in editorial tone; periodic disillusionment with press manipulation breeds cynicism, though turnout and subscription persist.
+
 
 ## D06. Informational Domain
 

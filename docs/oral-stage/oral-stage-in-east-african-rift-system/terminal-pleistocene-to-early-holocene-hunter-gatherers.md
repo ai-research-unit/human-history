@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The small scale of social life fosters high interpersonal trust within the band; anxiety centers on subsistence uncertainty during lean seasons; mood tracks ecological conditions closely.
-
 __Leadership & Personal Authority:__ Influence accrues to individuals through demonstrated skill, generosity, and oratorical ability; no coercive authority exists; leaders persuade rather than command.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and situational, given to respected individuals rather than offices; the concept of formal legitimacy does not apply.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized for hunt
 
 __External Relations & Posture:__ Relations with neighboring bands range from alliance (for mate exchange and aggregation) to avoidance or occasional conflict; no expansionist drive exists; posture is cautious and negotiated.
 
+__Public Sentiment & Behavioral Temper:__ The small scale of social life fosters high interpersonal trust within the band; anxiety centers on subsistence uncertainty during lean seasons; mood tracks ecological conditions closely.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is resolved through departure (joining another band); spent will is rare given the immediacy of daily life; the residue is minimal.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflicts between parliamentary privilege and p
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public appetite for parliamentary news grows with expanding electorate; the Reform Acts (1832, 1867, 1884) each stimulate demand for political information as more citizens acquire stakes in parliamentary outcomes.
-
 __Leadership & Personal Authority:__ Star parliamentarians—Pitt, Fox, Gladstone, Disraeli, Lloyd George—become public figures through reported speeches; print transforms oratory into mass communication, creating political celebrity.
 
 __Legitimacy as Lived Allegiance:__ Parliamentary reporting legitimizes representative government by making proceedings visible; the shift from secret deliberation to public accountability underpins democratic legitimacy claims.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Newspapers shape and reflect political 
 
 __External Relations & Posture:__ Parliamentary debates on foreign policy—war, empire, treaties—reach international audiences through reprinting and telegraphy; British parliamentary proceedings are monitored by foreign governments and reported abroad.
 
+__Public Sentiment & Behavioral Temper:__ Public appetite for parliamentary news grows with expanding electorate; the Reform Acts (1832, 1867, 1884) each stimulate demand for political information as more citizens acquire stakes in parliamentary outcomes.
+
 __Disaffection, Apathy & Spent Will:__ Cynicism about parliamentary politics surfaces in satirical coverage—Punch cartoons, sketch writing—but does not displace engagement; disaffection remains subordinate to participatory enthusiasm through most of the period.
+
 
 ## D06. Informational Domain
 

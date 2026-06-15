@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence, flight, and social disruption are end
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear and anxiety pervade raided zones. Trust contracts to kin and immediate neighbors; strangers are suspect. In protected areas controlled by powerful patrons, a tense security prevails. The overall temper darkens through the period as raiding intensifies.
-
 __Leadership & Personal Authority:__ Big men and war leaders accumulate power through success in trade and raiding. Personal charisma, wealth in followers and wives, and access to firearms define authority. Leadership is contested and volatile; successful leaders attract followings, failed ones are abandoned or killed.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on the ability to protect and provide. Chiefs who fail to defend their people lose allegiance. The moral basis of authority erodes where leaders themselves raid their own people or sell kin into slavery. Disaffection is widespread but suppressed by coercion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to resist is constrained by th
 
 __External Relations & Posture:__ Relations with Atlantic powers are mediated by coastal and intermediary elites. The interior forest populations are objects of extraction, not diplomatic partners. Rivalries among European powers (Portuguese, Dutch, French, British) shift the terms of trade but do not alter the extractive logic. Internal rivalries among African polities are exploited by traders.
 
+__Public Sentiment & Behavioral Temper:__ Fear and anxiety pervade raided zones. Trust contracts to kin and immediate neighbors; strangers are suspect. In protected areas controlled by powerful patrons, a tense security prevails. The overall temper darkens through the period as raiding intensifies.
+
 __Disaffection, Apathy & Spent Will:__ The accumulated trauma of raiding, loss, and displacement leaves deep disaffection. Survivors carry grief and distrust. The collective will to rebuild is repeatedly drained by renewed violence. Apathy settles over devastated zones where resistance has failed and flight is impossible.
+
 
 ## D06. Informational Domain
 

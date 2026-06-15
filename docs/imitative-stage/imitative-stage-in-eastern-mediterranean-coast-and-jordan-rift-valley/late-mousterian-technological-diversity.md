@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Inferred from behavioral proxies only; repeated return to favored cave sites suggests place-attachment and perhaps nostalgia; no direct evidence of collective mood survives.
-
 __Leadership & Personal Authority:__ Leadership is situational — the skilled hunter leads the hunt, the experienced knapper demonstrates technique — but no permanent authority figures are attested.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and kin-based; legitimacy in the political sense does not apply.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to coopera
 
 __External Relations & Posture:__ Relations between bands are unknown; sporadic contact may occur at water sources or game aggregations, but hostility or alliance structures cannot be demonstrated.
 
+__Public Sentiment & Behavioral Temper:__ Inferred from behavioral proxies only; repeated return to favored cave sites suggests place-attachment and perhaps nostalgia; no direct evidence of collective mood survives.
+
 __Disaffection, Apathy & Spent Will:__ No indicators of collective despair or apathy survive; the demographic thinness of the population may itself reflect accumulated stress, but direct evidence is absent.
+
 
 ## D06. Informational Domain
 

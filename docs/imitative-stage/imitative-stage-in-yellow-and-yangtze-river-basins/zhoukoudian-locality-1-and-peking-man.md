@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict within the band is managed by dominanc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective life centers on immediate kin and band-mates; trust extends to familiar faces; strangers are approached with caution; the shared fire creates a focal point for group cohesion; anxiety spikes with predator encounters or resource failure, settling as conditions stabilize.
-
 __Leadership & Personal Authority:__ Leadership is situational, tied to hunting skill, physical strength, or social acuity; no formal office exists; authority is personal and must be reasserted in each context; the imitative-stage constraint means leadership cannot be delegated or institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the band is lived through daily cooperation and shared sustenance; no abstract legitimating principle exists; loyalty erodes if provisioning fails or conflict escalates, leading to band fission.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic, mobilize
 
 __External Relations & Posture:__ Relations with other groups are infrequent given low population density; encounters may be neutral, competitive, or occasionally hostile; no evidence of sustained alliance or warfare exists; the band's posture is defensive, centered on maintaining access to the cave and its environs.
 
+__Public Sentiment & Behavioral Temper:__ Affective life centers on immediate kin and band-mates; trust extends to familiar faces; strangers are approached with caution; the shared fire creates a focal point for group cohesion; anxiety spikes with predator encounters or resource failure, settling as conditions stabilize.
+
 __Disaffection, Apathy & Spent Will:__ Individual disaffection may lead to departure or expulsion; collective apathy is unlikely given the immediacy of survival demands; spent will after failed hunts or harsh winters may trigger mobility to new ranges rather than settled despair.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Village fission and migration discharge social 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is expansive—population growing, land available, harvests reliable—fostering confidence and willingness to colonize new ground; trust extends through kin and exchange partners but not beyond; intergroup suspicion remains a check on cooperation.
-
 __Leadership & Personal Authority:__ Leaders are likely lineage heads or charismatic individuals skilled in ritual, oratory, or craft; authority is personal, not official, and must be renewed through persuasion, generosity, and demonstrated competence; no hereditary chieftainship is certain.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin, ancestors, and local spirits rather than to abstract institutions; loyalty is face-to-face, conditional, and reinforced by reciprocity; no concept of sovereignty or state commands obedience.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is achievable for vil
 
 __External Relations & Posture:__ Relations among regional cultures are mediated by exchange, intermarriage, and probably oral diplomacy; no evidence of conquest or tributary relations; competition exists but is channeled through prestige rather than warfare.
 
+__Public Sentiment & Behavioral Temper:__ The mood is expansive—population growing, land available, harvests reliable—fostering confidence and willingness to colonize new ground; trust extends through kin and exchange partners but not beyond; intergroup suspicion remains a check on cooperation.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the outlet of migration absorbs malcontents; anomie and exhaustion are not archaeologically visible; will remains localized and renewable.
+
 
 ## D06. Informational Domain
 

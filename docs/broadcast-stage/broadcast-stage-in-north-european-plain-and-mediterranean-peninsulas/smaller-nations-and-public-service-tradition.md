@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Greek broadcasting experienced disruption from 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public broadcasters cultivated and reflected national emotional cultures — Nordic restraint, Dutch directness, Austrian gemutlichkeit, Greek expressiveness; wartime broadcast memories remained potent in occupied nations; broadcasting contributed to postwar national recovery and confidence.
-
 __Leadership & Personal Authority:__ News anchors and program hosts became national figures — trusted voices in small societies where broadcast personalities achieved high recognition; political leaders appeared frequently in small-nation broadcasts with less distance than in larger nations.
 
 __Legitimacy as Lived Allegiance:__ Public broadcasters achieved exceptional trust in Nordic countries, with audience confidence consistently exceeding 70%; Dutch and Austrian broadcasters maintained strong legitimacy; Greek and Portuguese broadcasters faced more skepticism due to historical political entanglement; Belgian linguistic division created separate legitimacy spheres.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcasting supported national mobiliz
 
 __External Relations & Posture:__ Small-nation broadcasters maintained external services (Radio Netherlands Worldwide, Deutsche Welle Austrian service) disproportionate to population; Nordic cooperation through Nordvision enabled resource sharing; all participated in Eurovision, with the Song Contest providing disproportionate visibility.
 
+__Public Sentiment & Behavioral Temper:__ Public broadcasters cultivated and reflected national emotional cultures — Nordic restraint, Dutch directness, Austrian gemutlichkeit, Greek expressiveness; wartime broadcast memories remained potent in occupied nations; broadcasting contributed to postwar national recovery and confidence.
+
 __Disaffection, Apathy & Spent Will:__ Commercial competition and digital fragmentation eroded shared broadcast experiences by 2010; younger audiences particularly migrated from public broadcasters; immigrant populations remained underserved despite integration efforts.
+
 
 ## D06. Informational Domain
 

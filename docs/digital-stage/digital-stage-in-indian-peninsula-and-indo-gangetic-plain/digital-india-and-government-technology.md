@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Aadhaar exclusion creates new forms of denial: 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Digital India generates both pride and frustration: CoWIN's success during COVID builds confidence in government tech capacity; persistent portal downtimes and authentication failures erode it. Sentiment varies by experience: seamless UPI users contrast with pensioners whose fingerprints no longer register.
-
 __Leadership & Personal Authority:__ Prime Minister Modi personally champions Digital India, featuring in app launches and social media campaigns. Digital governance becomes identified with BJP brand; opposition states (pre-2019) resist central platforms, developing parallel systems.
 
 __Legitimacy as Lived Allegiance:__ Government legitimacy increasingly flows through digital service delivery: timely DBT builds support; denial erodes it. The shift from intermediary-mediated to direct digital delivery changes the locus of credit and blame from local officials to distant platforms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Central government maintains sustained 
 
 __External Relations & Posture:__ India Stack gains international attention as development model: UPI licensing discussions with multiple countries, Aadhaar-inspired systems studied in Africa and Asia. Digital public infrastructure becomes soft power asset, though surveillance concerns limit Western adoption.
 
+__Public Sentiment & Behavioral Temper:__ Digital India generates both pride and frustration: CoWIN's success during COVID builds confidence in government tech capacity; persistent portal downtimes and authentication failures erode it. Sentiment varies by experience: seamless UPI users contrast with pensioners whose fingerprints no longer register.
+
 __Disaffection, Apathy & Spent Will:__ Digital exclusion generates resentment among those unable to access benefits. Elderly citizens frustrated by authentication failures; rural populations dependent on unreliable connectivity. The Jharkhand starvation deaths (2017) linked to Aadhaar failures crystallize this critique, though systemic response remains incomplete.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Journeyman mobility created labor-market fluidi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Print elicited wonder and enthusiasm among the literate; humanists celebrated it as a gift of divine providence; traditionalists viewed it with caution but not yet alarm.
-
 __Leadership & Personal Authority:__ Gutenberg's personal story remained obscure to contemporaries; printers like Anton Koberger of Nuremberg commanded respect as successful entrepreneurs; no single figure dominated the trade.
 
 __Legitimacy as Lived Allegiance:__ The book inherited the authority of manuscript; printed indulgences, papal bulls, and imperial edicts commanded obedience; the medium's legitimacy was parasitic on the institutions it served.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Princes and bishops saw print as a tool
 
 __External Relations & Posture:__ The print trade was international from the start; German printers worked in Italy, France, and the Low Countries; no national industry yet existed.
 
+__Public Sentiment & Behavioral Temper:__ Print elicited wonder and enthusiasm among the literate; humanists celebrated it as a gift of divine providence; traditionalists viewed it with caution but not yet alarm.
+
 __Disaffection, Apathy & Spent Will:__ No significant disaffection attached to print itself; the anxieties of the age — Ottoman advance, Hussite heresy, schismatic councils — were independent of the new medium.
+
 
 ## D06. Informational Domain
 

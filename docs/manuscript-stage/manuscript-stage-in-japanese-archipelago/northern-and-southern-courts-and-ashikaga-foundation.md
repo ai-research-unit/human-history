@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil war is endemic; the Nanbokucho conflict c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Uncertainty and divided loyalty characterize the era. Warriors navigate competing claims to allegiance. Commoners endure warfare with resignation. Buddhist fatalism (mappo consciousness) colors the mood. Trust extends within patronage networks; broader social trust is thin.
-
 __Leadership & Personal Authority:__ Ashikaga Takauji (d. 1358) and his successors exercise personal authority through warrior networks. Emperor Go-Daigo (d. 1339) commands Southern Court loyalty through imperial charisma. Rival claimants divide allegiance across the archipelago.
 
 __Legitimacy as Lived Allegiance:__ Neither court commands universal recognition. The Northern Court in Kyoto holds the capital and shogunal backing; the Southern Court in Yoshino claims direct imperial descent from Go-Daigo. Warriors choose sides based on interest as much as principle. Legitimacy is contested and thin.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Ashikaga shogunate gradually consol
 
 __External Relations & Posture:__ Ming China refuses formal relations until imperial legitimacy is clarified. Zen monks maintain unofficial contact. Japanese pirates (wako) raid Korean and Chinese coasts, complicating diplomacy. The fragmented polity projects weakness abroad.
 
+__Public Sentiment & Behavioral Temper:__ Uncertainty and divided loyalty characterize the era. Warriors navigate competing claims to allegiance. Commoners endure warfare with resignation. Buddhist fatalism (mappo consciousness) colors the mood. Trust extends within patronage networks; broader social trust is thin.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness accumulates over decades of conflict. Defections between courts reflect cynicism about competing claims. By the 1380s, exhaustion contributes to willingness to negotiate reunification.
+
 
 ## D06. Informational Domain
 

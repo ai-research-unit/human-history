@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-janapada warfare is endemic; cattle raidi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Expansionist confidence characterizes the period; successful colonization of new lands reinforces optimism; trust operates within varna and jati networks; anxiety centers on ritual correctness and the maintenance of purity; temper is generally stable but competitive.
-
 __Leadership & Personal Authority:__ Kings (maharajas) accumulate greater power than early Vedic rajas; consecration rituals (rajasuya, ashvamedha) magnify royal authority; personal prowess remains important, but ritual sanction from brahmins becomes essential to legitimacy.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy rests on ritual performance, martial success, and maintenance of dharma (cosmic-social order); brahmins validate authority through elaborate ceremonies; allegiance is increasingly territorial, not merely personal or tribal; erosion of legitimacy can occur through ritual failure or military defeat.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will concentrates in the king
 
 __External Relations & Posture:__ Janapadas compete for territory, cattle, and prestige; alliances shift through marriage and treaty; no hegemonic power dominates the entire region; the posture is expansionist, with successful kingdoms absorbing neighbors; relations with forest peoples (often labeled mlechchha) range from warfare to incorporation.
 
+__Public Sentiment & Behavioral Temper:__ Expansionist confidence characterizes the period; successful colonization of new lands reinforces optimism; trust operates within varna and jati networks; anxiety centers on ritual correctness and the maintenance of purity; temper is generally stable but competitive.
+
 __Disaffection, Apathy & Spent Will:__ Subordinate varnas (especially shudras) bear structural disaffection but lack channels for expression; the emerging doctrine of karma and rebirth redirects grievance toward future lives; elite disaffection over succession can destabilize polities; overall, will remains robust in this growth phase.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The actors' syndicate experiences factional con
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Egyptian entertainment shapes regional emotional life: Umm Kulthum's concerts are national mourning and celebration; Ramadan serials set household rhythms; film melodramas articulate permitted emotional expression. Audiences across the Arab world feel Egyptian content as familiar, not foreign — a register of shared sentiment.
-
 __Leadership & Personal Authority:__ Stars — Umm Kulthum, Abdel Halim Hafez, Omar Sharif, Adel Imam, Amr Diab — command personal followings that rival politicians. Their public statements carry weight; their deaths occasion mass grief.
 
 __Legitimacy as Lived Allegiance:__ The entertainment industry is absorbed into state legitimacy projects: Nasserist films celebrate revolution and Arab unity; Sadat-era productions emphasize peace and infitah prosperity; Mubarak-era content avoids direct politics. Audiences accept entertainment as a regime-adjacent institution without granting it full autonomy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Successive regimes harness entertainmen
 
 __External Relations & Posture:__ Egyptian entertainment is the primary vehicle of regional soft power — more effective than diplomacy or military posture at sustaining Cairo's centrality in Arab consciousness. Gulf states, recognizing this, invest in competing production centers (Dubai, Doha) after 2000.
 
+__Public Sentiment & Behavioral Temper:__ Egyptian entertainment shapes regional emotional life: Umm Kulthum's concerts are national mourning and celebration; Ramadan serials set household rhythms; film melodramas articulate permitted emotional expression. Audiences across the Arab world feel Egyptian content as familiar, not foreign — a register of shared sentiment.
+
 __Disaffection, Apathy & Spent Will:__ By the 2000s, audiences complain of repetitive plots, declining production values, and heavy-handed moralism; Gulf and Lebanese competition siphons viewers. The January 25 Revolution (2011) reveals a generation alienated from regime-linked entertainment, turning instead to social media and satirical content.
+
 
 ## D06. Informational Domain
 

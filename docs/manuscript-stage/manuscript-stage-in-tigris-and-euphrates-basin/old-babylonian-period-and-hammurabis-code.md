@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-city warfare endemic before Hammurabi's u
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Religious piety assumed normative; fear of divine punishment for oath-breaking structures commercial relations; loyalty to city and king expressed in royal inscriptions; anxiety about debt documented in letters.
-
 __Leadership & Personal Authority:__ Hammurabi presents himself as shepherd chosen by gods; personal correspondence shows hands-on administration; legitimacy drawn from justice (misharu) and military success; royal charisma documented in hymns.
 
 __Legitimacy as Lived Allegiance:__ Law code's prologue claims divine mandate and beneficent rule; stela's public display invites appeal to royal justice; actual compliance depends on local enforcement; regional resistance after Hammurabi's death suggests limited penetration.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Hammurabi's unification campaign (1764â
 
 __External Relations & Posture:__ Diplomatic correspondence with Zimri-Lim of Mari, Shamshi-Adad of Assyria, and others; marriage alliances; tribute relationships; Babylon rises through shifting alliances before Hammurabi's conquests; Hittite raid (1595 BCE) finds weakened state.
 
+__Public Sentiment & Behavioral Temper:__ Religious piety assumed normative; fear of divine punishment for oath-breaking structures commercial relations; loyalty to city and king expressed in royal inscriptions; anxiety about debt documented in letters.
+
 __Disaffection, Apathy & Spent Will:__ Debt-burdened population requires periodic relief; runaway slaves and absconding debtors documented; military settler (rediqu) desertion punishable by death; post-Hammurabi contraction suggests exhaustion of expansionist capacity.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-island raiding and local feuds are probab
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence runs high during this florescence; successful voyaging, craft achievement, and expanding networks foster collective pride and optimism; interpersonal trust extends within kin-networks and between established exchange partners.
-
 __Leadership & Personal Authority:__ Big-men or chiefs emerge through demonstrated prowess — successful voyaging, generous redistribution, mastery of metallurgy or carving — their authority resting on personal reputation encoded in oral tradition rather than inherited office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to leaders who deliver prosperity and protection; legitimacy is performative, renewed through feasting, gift-giving, and successful expeditions; erosion is swift if leaders fail.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Communities can mobilize for boat-build
 
 __External Relations & Posture:__ Relations with other islands and mainlands are primarily exchange-oriented; rivalry for access to metal sources and prestige goods exists but is managed through alliance and intermarriage rather than sustained warfare.
 
+__Public Sentiment & Behavioral Temper:__ Confidence runs high during this florescence; successful voyaging, craft achievement, and expanding networks foster collective pride and optimism; interpersonal trust extends within kin-networks and between established exchange partners.
+
 __Disaffection, Apathy & Spent Will:__ Little evidence of collective malaise; the expanding frontier of exchange and colonization absorbs ambitious individuals who might otherwise destabilize settled communities.
+
 
 ## D06. Informational Domain
 

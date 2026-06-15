@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban riots occur (Orange vs. regent factions, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Commercial pragmatism and Calvinist sobriety set the tone; tolerance is less a principle than a modus vivendi for profit — minorities are suffered because persecuting them harms trade.
-
 __Leadership & Personal Authority:__ The stadtholder (Orange dynasty) commands military loyalty and popular sentiment; regent oligarchs govern cities; after 1815, the House of Orange provides monarchical continuity.
 
 __Legitimacy as Lived Allegiance:__ Allegiance runs to city and confession before nation; the revolt against Spain forges a weak federal identity; national consciousness strengthens in the nineteenth century.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Republic mobilizes collective will 
 
 __External Relations & Posture:__ The Republic balances between England and France; colonial ambitions extend to the East Indies, the Americas, and Africa; neutrality becomes policy after 1815 (broken by German occupation, 1940).
 
+__Public Sentiment & Behavioral Temper:__ Commercial pragmatism and Calvinist sobriety set the tone; tolerance is less a principle than a modus vivendi for profit — minorities are suffered because persecuting them harms trade.
+
 __Disaffection, Apathy & Spent Will:__ Regent oligarchy's closure to talent breeds discontent; Patriot agitation (1780s) demands democratization; French invasion sweeps the system away; restoration under Orange restores monarchy but narrows political participation until 1848.
+
 
 ## D06. Informational Domain
 

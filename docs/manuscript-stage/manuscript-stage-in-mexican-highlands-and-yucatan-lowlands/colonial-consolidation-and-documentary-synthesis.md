@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social displacement from demographic collapse a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The indigenous population carries profound collective trauma from epidemic mortality and social collapse; survivors adapt through strategic accommodation with colonial institutions; Spanish settlers exhibit frontier assertiveness and anxiety about maintaining status in the racial hierarchy; religious fervour provides emotional anchorage across groups.
-
 __Leadership & Personal Authority:__ Viceroys serve as the crown's personal representatives, with figures like Luis de Velasco (both father and son) and the Marquis of Villamanrique providing effective governance; bishops exercise substantial influence; indigenous caciques retain diminished but real authority within their communities; hacienda owners command local loyalty and labor.
 
 __Legitimacy as Lived Allegiance:__ The colonial order derives legitimacy from the dual pillars of crown and Church; indigenous acceptance remains pragmatic rather than enthusiastic, grounded in the Church's spiritual monopoly and the legal protections that the crown formally extends; creole loyalty to the crown remains strong through this period.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The colonial administration maintains s
 
 __External Relations & Posture:__ New Spain sits within the broader Spanish imperial system, sending silver to the metropole and receiving administrative appointments and trade goods; the Manila galleon links the colony to Asian commerce; English and Dutch corsairs threaten coastal shipping, spurring fortification of Veracruz and San Juan de Ulua.
 
+__Public Sentiment & Behavioral Temper:__ The indigenous population carries profound collective trauma from epidemic mortality and social collapse; survivors adapt through strategic accommodation with colonial institutions; Spanish settlers exhibit frontier assertiveness and anxiety about maintaining status in the racial hierarchy; religious fervour provides emotional anchorage across groups.
+
 __Disaffection, Apathy & Spent Will:__ The weight of demographic catastrophe, labor extraction, and cultural dislocation leaves indigenous communities in a state of depleted collective energy; millenarian undercurrents occasionally surface but do not produce sustained resistance; Spanish settler satisfaction with the colonial arrangement remains generally high.
+
 
 ## D06. Informational Domain
 

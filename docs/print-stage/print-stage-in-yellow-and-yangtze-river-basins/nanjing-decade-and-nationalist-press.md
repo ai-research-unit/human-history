@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry persists in peripheral regions; the Co
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Patriotic sentiment focuses on Japanese aggression — the loss of Manchuria (1931) generates national humiliation discourse. "Internal pacification before external resistance" (Chiang's slogan) provokes dissent. Urban public mood oscillates between modernizing optimism and patriotic frustration.
-
 __Leadership & Personal Authority:__ Chiang Kai-shek consolidates personal authority, cultivating a leader cult through controlled press. The New Life Movement (1934) projects Confucian-tinged authoritarianism. Wang Jingwei leads a rival GMD faction until defection (1938). Mao Zedong consolidates CCP leadership during the Long March.
 
 __Legitimacy as Lived Allegiance:__ The Nanjing government claims revolutionary succession from Sun Yat-sen; actual allegiance is thin outside core constituencies. Intellectuals waver between compliance and opposition. The CCP retains the loyalty of committed cadres despite losses.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The government demonstrates will throug
 
 __External Relations & Posture:__ Japan dominates the external environment — Manchurian occupation (1931), Shanghai Incident (1932), North China pressure (1935). The Nanjing government seeks League of Nations support unsuccessfully and purchases German military assistance. Soviet relations are suspended after the 1927 break but revive through CCP channels.
 
+__Public Sentiment & Behavioral Temper:__ Patriotic sentiment focuses on Japanese aggression — the loss of Manchuria (1931) generates national humiliation discourse. "Internal pacification before external resistance" (Chiang's slogan) provokes dissent. Urban public mood oscillates between modernizing optimism and patriotic frustration.
+
 __Disaffection, Apathy & Spent Will:__ Intellectuals who cannot accept GMD rule emigrate, retreat into private life, or join the underground. Student movements (1931, 1935) express dissent. Rural populations remain largely apathetic toward the Nanjing government; their allegiance is available to whoever offers land reform.
+
 
 ## D06. Informational Domain
 

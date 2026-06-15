@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is discharged through mobility — fis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extends within kin networks and familiar allied bands; suspicion attaches to strangers, though seasonal gatherings ritualize the integration of outsiders through gift exchange and marriage.
-
 __Leadership & Personal Authority:__ Leadership is situational and reputational; skilled hunters or eloquent speakers command followings for specific undertakings, but no permanent chiefs hold authority beyond their personal charisma.
 
 __Legitimacy as Lived Allegiance:__ Allegiance adheres to kin and band rather than to abstract office; legitimacy is earned through demonstrated competence and generosity, renewed in each generation through oral affirmation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action depends on consensus 
 
 __External Relations & Posture:__ Relations with neighboring bands oscillate between alliance and rivalry; raiding for women or revenge occurs but is constrained by the mutual vulnerability of small groups and the need for future cooperation.
 
+__Public Sentiment & Behavioral Temper:__ Trust extends within kin networks and familiar allied bands; suspicion attaches to strangers, though seasonal gatherings ritualize the integration of outsiders through gift exchange and marriage.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection finds outlet in fissioning — discontented individuals or factions depart to join other bands — preventing the accumulation of suppressed grievance within any single group.
+
 
 ## D06. Informational Domain
 

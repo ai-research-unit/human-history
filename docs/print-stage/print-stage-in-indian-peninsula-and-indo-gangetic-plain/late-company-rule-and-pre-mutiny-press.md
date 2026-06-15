@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry (dacoity) persists in some regions; Th
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The literate public is small but engaged; reform debates (widow remarriage, caste, idolatry) animate discussion; grievances against Company taxation and interference in religious matters circulate in the vernacular press; the mood among sepoys combines resentment over service conditions with alarm at perceived threats to caste and religion.
-
 __Leadership & Personal Authority:__ British authority rests on conquest and bureaucratic routine, not charisma; Indian leadership is fragmented — zamindars, religious figures, newspaper editors like Ishwar Chandra Vidyasagar, reformers like Ram Mohan Roy (deceased 1833 but influential) — none commanding a mass following.
 
 __Legitimacy as Lived Allegiance:__ The Company's legitimacy is instrumental — it maintains order and protects property — rather than affective; Indians comply without loving; annexations under the Doctrine of Lapse (Awadh, 1856) outrage princely sentiment; sepoys question whether service under the Company violates dharma.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will is not yet nationalist; 
 
 __External Relations & Posture:__ The Company is expansionist, having just annexed Awadh (1856) and fought wars with Burma and Persia; relations with princely states are coercive; the Crimean War (1853–1856) preoccupies Britain, drawing troops away from India; no Indian entity conducts external relations independently.
 
+__Public Sentiment & Behavioral Temper:__ The literate public is small but engaged; reform debates (widow remarriage, caste, idolatry) animate discussion; grievances against Company taxation and interference in religious matters circulate in the vernacular press; the mood among sepoys combines resentment over service conditions with alarm at perceived threats to caste and religion.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is localized but deep among dispossessed princes, discharged soldiers, unemployed artisans, and aggrieved sepoys; the educated reformers who write newspapers are too few to articulate a mass politics; resentment festers without a unifying outlet, awaiting a trigger.
+
 
 ## D06. Informational Domain
 

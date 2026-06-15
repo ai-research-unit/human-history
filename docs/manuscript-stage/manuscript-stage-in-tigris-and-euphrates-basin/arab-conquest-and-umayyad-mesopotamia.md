@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Tribal factional conflicts between Qays and Yam
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Arab conquerors maintain confidence in divine mandate. Dhimmi populations adapt to new order with resignation. Iraqi Arab resentment of Syrian Umayyad dominance builds throughout period. Religious enthusiasm channels into sectarian movements.
-
 __Leadership & Personal Authority:__ Caliph claims succession to Prophet's political authority. Umayyad legitimacy contested from conquest period; Alid claims generate Shii loyalty. Governors exercise local authority subject to caliphal appointment.
 
 __Legitimacy as Lived Allegiance:__ Umayyad legitimacy weakest in Iraq, where Alid sentiment runs strong. Massacres at Karbala (680 CE) and elsewhere generate Shii martyrology and delegitimize Umayyad rule for significant population. Mawali resentment of Arab privilege erodes caliphal support.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Iraqi factions show capacity for repeat
 
 __External Relations & Posture:__ Iraq functions as province within Damascus-centered caliphate. Conquest expansion continues eastward into Iran and Central Asia. Byzantine frontier stabilizes in Anatolia. Indian Ocean trade connects Basra to wider world.
 
+__Public Sentiment & Behavioral Temper:__ Arab conquerors maintain confidence in divine mandate. Dhimmi populations adapt to new order with resignation. Iraqi Arab resentment of Syrian Umayyad dominance builds throughout period. Religious enthusiasm channels into sectarian movements.
+
 __Disaffection, Apathy & Spent Will:__ Iraqi disaffection with Umayyad rule intensifies through period. Repeated failed rebellions generate cycles of hope and despair. Abbasid revolution channels accumulated grievance into successful overthrow.
+
 
 ## D06. Informational Domain
 

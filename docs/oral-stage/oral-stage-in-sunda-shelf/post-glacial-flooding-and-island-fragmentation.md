@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The flooding generates anxiety, grief, and uncertainty as familiar landscapes disappear and populations are forced to relocate; survivors carry the emotional weight of loss — drowned territories, severed kin connections, the erasure of familiar landmarks; over time, adaptation to new environments allows sentiment to stabilize, but the memory of loss persists in oral tradition; the emotional baseline is shaped by the trauma and resilience of the transition.
-
 __Leadership & Personal Authority:__ Leadership becomes more critical during the crisis of displacement; individuals who can identify new resources, navigate unfamiliar terrain, maintain group cohesion under stress, and broker relations with other displaced groups acquire heightened influence; authority remains personal and contingent, but the premium on effective leadership is higher than in stable conditions.
 
 __Legitimacy as Lived Allegiance:__ Allegiance runs to kin and to leaders who demonstrate competence during the crisis; legitimacy is earned through performance — guiding groups to safety, providing, sharing, maintaining morale; disaffection can lead to band fragmentation, but the lack of alternatives may force continued cooperation even with suboptimal leadership.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is tested by the sustai
 
 __External Relations & Posture:__ Relations with other groups are complicated by displacement — the flooding compresses populations and may bring previously distant groups into contact or competition; posture is defensive and opportunistic; some groups may cooperate in the face of shared crisis, while others compete for limited resources on shrinking or emerging land; the emergence of maritime capability creates new possibilities for contact across water.
 
+__Public Sentiment & Behavioral Temper:__ The flooding generates anxiety, grief, and uncertainty as familiar landscapes disappear and populations are forced to relocate; survivors carry the emotional weight of loss — drowned territories, severed kin connections, the erasure of familiar landmarks; over time, adaptation to new environments allows sentiment to stabilize, but the memory of loss persists in oral tradition; the emotional baseline is shaped by the trauma and resilience of the transition.
+
 __Disaffection, Apathy & Spent Will:__ Protracted crisis and repeated displacement can exhaust collective will; groups that lose hope or cohesion may disintegrate; the survivors are those who maintain enough will to adapt; the spent will of failed groups leaves no trace except, perhaps, in the oral memory of those who absorbed their remnants.
+
 
 ## D06. Informational Domain
 

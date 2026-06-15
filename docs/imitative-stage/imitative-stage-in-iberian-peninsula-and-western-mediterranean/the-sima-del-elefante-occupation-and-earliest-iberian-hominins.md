@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through fission 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Emotional life is inferred from primate baselines — fear, anger, affection, grief — expressed through vocalizations, gestures, and facial expressions. The temper of groups depended on immediate conditions: security when fed and sheltered, anxiety when threatened.
-
 __Leadership & Personal Authority:__ Leadership was situational — the individual who knew the route, who had spotted game, who faced down a predator. Authority dissolved when the situation passed.
 
 __Legitimacy as Lived Allegiance:__ There was no formal authority to legitimate. Allegiance was personal and immediate, owed to kin and familiar band members.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was coordinated by im
 
 __External Relations & Posture:__ Relations with other bands, if encountered, were probably cautious — avoidance, occasional violence, possible interbreeding. There was no organized diplomacy, only individual encounters.
 
+__Public Sentiment & Behavioral Temper:__ Emotional life is inferred from primate baselines — fear, anger, affection, grief — expressed through vocalizations, gestures, and facial expressions. The temper of groups depended on immediate conditions: security when fed and sheltered, anxiety when threatened.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion and loss would have produced apathy and grief. Without ritual or narrative to process loss, emotional recovery depended on time and the ongoing demands of survival.
+
 
 ## D06. Informational Domain
 

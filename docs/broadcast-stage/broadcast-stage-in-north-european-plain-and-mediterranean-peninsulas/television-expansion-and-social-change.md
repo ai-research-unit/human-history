@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ 1968 student movements and worker strikes repre
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affluent complacency characterizes early 1960s; 1968 movements inject contestation, generational conflict, and critique of authority; oil shock (1973) introduces economic anxiety; television both channels and reflects shifting mood.
-
 __Leadership & Personal Authority:__ Television creates new political style — de Gaulle masters the medium, dominating ORTF; Adenauer era ends (1963), Brandt's Ostpolitik communicated through television; broadcast journalists (David Frost types emerge) gain authority.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy broadly stable; 1968 challenges establishment but does not overthrow it; Portuguese revolution (1974), Greek junta collapse (1974), Franco's death (1975) end Iberian and Greek authoritarianism, inaugurating democratic transitions where television will play central role.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ European integration advances (1973 UK,
 
 __External Relations & Posture:__ Cold War continues; detente emerges (Ostpolitik, Helsinki process); European solidarity strengthens; television covers international affairs extensively — Vietnam War images influential even in Europe.
 
+__Public Sentiment & Behavioral Temper:__ Affluent complacency characterizes early 1960s; 1968 movements inject contestation, generational conflict, and critique of authority; oil shock (1973) introduces economic anxiety; television both channels and reflects shifting mood.
+
 __Disaffection, Apathy & Spent Will:__ 1968 generation's disaffection partially absorbed, partially channeled into terrorism or alternative lifestyles; broadcasting criticized as establishment tool by left; silent majority remains loyal audience.
+
 
 ## D06. Informational Domain
 

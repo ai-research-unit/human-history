@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Postwar displaced persons absorbed by 1950s; no
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Reconstruction optimism; gratitude for American aid mixed with residual nationalism; Cold War anxiety rises (Berlin Blockade 1948–1949, Korean War 1950–1953); broadcasting channels both reassurance and mobilization.
-
 __Leadership & Personal Authority:__ National political leaders dominate early television appearances; broadcast executives (Intendanten in Germany, directors-general elsewhere) exercise significant authority within their institutions; no pan-European broadcast leaders emerge.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy rebuilds in West Germany, Italy, Austria; Gaullist and Fourth Republic France contested; Franco and Salazar regimes lack democratic legitimacy but control broadcasting; public broadcasters acquire institutional legitimacy as servants of democratic reconstruction.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Strong will to reconstruct; Marshall Pl
 
 __External Relations & Posture:__ Western European states align with United States against Soviet bloc; EBU founded 1950 (Geneva) as Western European broadcasting cooperation framework, excluding Eastern bloc; broadcasting becomes soft-power instrument.
 
+__Public Sentiment & Behavioral Temper:__ Reconstruction optimism; gratitude for American aid mixed with residual nationalism; Cold War anxiety rises (Berlin Blockade 1948–1949, Korean War 1950–1953); broadcasting channels both reassurance and mobilization.
+
 __Disaffection, Apathy & Spent Will:__ Postwar exhaustion gives way to reconstruction energy by 1948–1950; residual pacifism coexists with Cold War mobilization; no significant broadcast-related disaffection.
+
 
 ## D06. Informational Domain
 

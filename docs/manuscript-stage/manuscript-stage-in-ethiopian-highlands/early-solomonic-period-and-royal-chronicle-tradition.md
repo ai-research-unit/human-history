@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises and regional rebellions recur
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Solomonic legitimacy generates genuine allegiance — the dynasty's claimed descent from Solomon and Sheba, enshrined in the Kebre Nagast, satisfies a widely felt need for rightful rule. Highland Christian identity remains strong, defined against surrounding Muslim lowlands. The mood combines confidence in chosen status with awareness of external threat.
-
 __Leadership & Personal Authority:__ Strong emperors — Amda Seyon (r. 1314–1344), Zara Yaqob (r. 1434–1468) — project personal authority through military success and religious patronage. Weaker reigns suffer noble and regional resistance. Leadership remains personal; institutional authority does not develop beyond the Church.
 
 __Legitimacy as Lived Allegiance:__ The Solomonic claim, backed by the Kebre Nagast and church endorsement, commands deep allegiance. The legitimacy deficit that undermined the Zagwe is absent. Challenges come from within the dynasty (succession disputes) rather than from alternative legitimacy claims.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will is sufficient for territorial expa
 
 __External Relations & Posture:__ Relations with lowland sultanates (Ifat, Adal) oscillate between warfare and tribute. The Christian kingdom is expansionist, pushing into Muslim-held territories. Contact with Egypt continues through the abun appointment. Diplomatic contact with European powers begins — Ethiopian envoys reach Europe, and rumors of "Prester John" circulate. The posture is offensive confidence until the period's end.
 
+__Public Sentiment & Behavioral Temper:__ Solomonic legitimacy generates genuine allegiance — the dynasty's claimed descent from Solomon and Sheba, enshrined in the Kebre Nagast, satisfies a widely felt need for rightful rule. Highland Christian identity remains strong, defined against surrounding Muslim lowlands. The mood combines confidence in chosen status with awareness of external threat.
+
 __Disaffection, Apathy & Spent Will:__ Succession crises generate periodic disaffection among passed-over claimants and their noble supporters. Regional nobles resist centralization. Zara Yaqob's religious severity alienates some clergy and nobility. By the period's end, accumulated internal tensions and over-extension weaken the will to resist the coming Adal onslaught.
+
 
 ## D06. Informational Domain
 

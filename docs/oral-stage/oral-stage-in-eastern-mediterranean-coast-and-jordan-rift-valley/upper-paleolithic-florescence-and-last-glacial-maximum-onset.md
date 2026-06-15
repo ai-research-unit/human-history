@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Grievance is managed through avoidance, fission
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust within bands is high; inter-band relations range from alliance to wariness; sentiment tracks resource conditions — optimism in plenty, anxiety in scarcity; the radius of trust extends to kin and familiar allies.
-
 __Leadership & Personal Authority:__ Leadership is informal and merit-based; skilled hunters, eloquent speakers, and wise elders command influence without formal office; authority dissolves if followers disperse.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and voluntary; legitimacy inheres in demonstrated competence and fairness; no abstract authority to obey; disaffection leads to departure, not rebellion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action — hunts, moves, def
 
 __External Relations & Posture:__ Relations with neighboring bands are managed through kinship ties, intermarriage, and gift exchange; rivalry over hunting grounds can flare but is usually defused by negotiation or spatial separation; no expansionist ambition.
 
+__Public Sentiment & Behavioral Temper:__ Trust within bands is high; inter-band relations range from alliance to wariness; sentiment tracks resource conditions — optimism in plenty, anxiety in scarcity; the radius of trust extends to kin and familiar allies.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as fission — discontented individuals or families leave to join other bands; apathy is rare in face-to-face groups; will is renewed by seasonal ritual and storytelling.
+
 
 ## D06. Informational Domain
 

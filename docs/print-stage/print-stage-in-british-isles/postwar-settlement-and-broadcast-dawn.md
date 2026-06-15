@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Unemployment generates chronic grievance concen
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ War-weariness pervades; "never again" sentiment shapes pacifism and internationalism (League of Nations support). Economic anxiety underlies apparent prosperity; "safety first" becomes Conservative slogan. Class resentment simmers but rarely boils over. Trust in institutions erodes modestly; cynicism toward politicians grows, reflected in press coverage.
-
 __Leadership & Personal Authority:__ Lloyd George's coalition fragments (1922); leadership becomes partisan. Baldwin (Conservative) projects reassurance; MacDonald (Labour) represents working-class aspiration. Press barons exercise extra-parliamentary influence — Northcliffe dead (1922) but Rothermere and Beaverbrook shape opinion. Churchill crosses parties; no single dominant figure.
 
 __Legitimacy as Lived Allegiance:__ Parliamentary democracy retains legitimacy despite criticism. Monarchy recovers from wartime anti-German sentiment; George V projects stability. Empire retains broad support though Irish loss registers. Labour's rise demonstrates system's capacity to absorb challenge. Communist delegitimization efforts fail; British Union of Fascists not yet founded.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Three general elections in 1920s reflec
 
 __External Relations & Posture:__ Britain seeks stability; Washington Naval Treaty (1922) accepts parity with United States. League of Nations supported but commitments qualified. Germany contained but not crushed; reparations disputes managed. Empire retained but decentralizing (Irish Free State, Indian reform discussions). Isolationism grows; continental commitment avoided.
 
+__Public Sentiment & Behavioral Temper:__ War-weariness pervades; "never again" sentiment shapes pacifism and internationalism (League of Nations support). Economic anxiety underlies apparent prosperity; "safety first" becomes Conservative slogan. Class resentment simmers but rarely boils over. Trust in institutions erodes modestly; cynicism toward politicians grows, reflected in press coverage.
+
 __Disaffection, Apathy & Spent Will:__ War veteran cynicism enters literary culture (Sassoon, Owen published posthumously, Graves). Political disengagement among young evident in declining party membership. "Bright Young Things" hedonism reflects elite escapism. Working-class disaffection concentrates in depressed regions; emigration provides exit. Apathy accumulates but does not destabilize.
+
 
 ## D06. Informational Domain
 

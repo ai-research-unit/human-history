@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Periodic dynastic conflicts disrupted provincia
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Indigenous populations accommodated Macedonian rule without evident mass resistance, accepting the new dynasty as legitimate successors to Achaemenid and earlier sovereignty; urban elites cultivated connections to royal favor.
-
 __Leadership & Personal Authority:__ Seleucid kings projected authority through royal cult, monumental building, and patronage of both Greek and indigenous institutions; Antiochus I's restoration of Babylonian temples earned him the traditional title of "King of Babylon."
 
 __Legitimacy as Lived Allegiance:__ The dynasty maintained legitimacy through dual strategies: Greek civic foundations and royal cult for Hellenic populations, temple patronage and traditional titulature for Babylonians; neither community withdrew allegiance until the dynasty visibly weakened.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Seleucid capacity for coordinated actio
 
 __External Relations & Posture:__ The dynasty contested the Mediterranean with Ptolemaic Egypt while managing eastern frontiers against Parthia and nomadic pressures; overextension across multiple fronts dissipated resources and will.
 
+__Public Sentiment & Behavioral Temper:__ Indigenous populations accommodated Macedonian rule without evident mass resistance, accepting the new dynasty as legitimate successors to Achaemenid and earlier sovereignty; urban elites cultivated connections to royal favor.
+
 __Disaffection, Apathy & Spent Will:__ By 141 BCE, Seleucid authority in Mesopotamia had collapsed through military defeat and dynastic exhaustion; local populations transferred allegiance to Parthian successors without visible resistance or regret.
+
 
 ## D06. Informational Domain
 

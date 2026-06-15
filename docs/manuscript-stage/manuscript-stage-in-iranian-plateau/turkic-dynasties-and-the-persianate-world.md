@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynastic succession disputes generate civil war
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban populations accept Turkic rule as legitimate Islamic governance; Persian cultural pride coexists with political subordination. Trust extends within guild, Sufi, and communal networks; suspicion of outsiders and rival factions remains high.
-
 __Leadership & Personal Authority:__ Sultans project authority through military prowess, generous patronage, and maintenance of Islamic order. Charismatic Sufi masters command devoted followings. Viziers exercise authority through bureaucratic competence and court intrigue.
 
 __Legitimacy as Lived Allegiance:__ Turkic sultans claim legitimacy through military victory, upholding Islamic law, and Abbasid caliphal investiture. Popular allegiance flows to rulers who maintain order, dispense justice, and protect against external threats. Dynastic changes are accepted when the new ruler demonstrates these qualities.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Succession struggles within dynasties c
 
 __External Relations & Posture:__ Seljuks expand into Anatolia at Byzantine expense; Ghaznavids raid India for plunder and glory; Khwarazmians contest territory with Ghurids and Qara Khitai. Diplomatic relations with the Abbasid caliphate provide legitimating cover for de facto independence.
 
+__Public Sentiment & Behavioral Temper:__ Urban populations accept Turkic rule as legitimate Islamic governance; Persian cultural pride coexists with political subordination. Trust extends within guild, Sufi, and communal networks; suspicion of outsiders and rival factions remains high.
+
 __Disaffection, Apathy & Spent Will:__ Excessive taxation and military requisitions generate resentment; succession crises exhaust elite cohesion. By the early thirteenth century, fragmentation and exhaustion leave the plateau vulnerable to Mongol invasion.
+
 
 ## D06. Informational Domain
 

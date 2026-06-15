@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The residue manifests as creator precarity—co
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Creator culture normalizes constant self-promotion, parasocial intimacy, and entrepreneurial optimism. Hustle culture and "grindset" mentality pervade, alongside growing anxiety about sustainability.
-
 __Leadership & Personal Authority:__ Successful creators become minor celebrities, with personal brands extending beyond content to merchandise, appearances, and traditional media crossover. Influence becomes career rather than byproduct.
 
 __Legitimacy as Lived Allegiance:__ Audience relationship depends on perceived authenticity, which becomes performance. Parasocial bonds generate viewer loyalty but also entitlement, harassment, and stalking.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Creator collective action remains weak.
 
 __External Relations & Posture:__ American creators dominate global platforms, exporting US creator culture worldwide. International creators compete for American audiences and brand budgets. Platform content policies export US speech norms globally.
 
+__Public Sentiment & Behavioral Temper:__ Creator culture normalizes constant self-promotion, parasocial intimacy, and entrepreneurial optimism. Hustle culture and "grindset" mentality pervade, alongside growing anxiety about sustainability.
+
 __Disaffection, Apathy & Spent Will:__ The residue settles as widespread creator burnout, documented across platforms—depression, anxiety, and exhaustion from constant production demands, audience management, and algorithm anxiety. The emotional labor of performed intimacy at scale depletes without institutional support.
+
 
 ## D06. Informational Domain
 

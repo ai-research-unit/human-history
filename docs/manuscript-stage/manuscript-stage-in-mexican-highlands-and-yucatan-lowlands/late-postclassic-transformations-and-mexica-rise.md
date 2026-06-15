@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Endemic warfare among Basin polities; the Tepan
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Militaristic ideology celebrates warrior virtue; ethnic pride intensifies as the Mexica transform from despised immigrants (the founding myth involves their wandering and rejection) to dominant power; cosmic anxiety about maintaining world-order through sacrifice colors collective psychology; ambition and restless expansion characterize the polity's temper.
-
 __Leadership & Personal Authority:__ Tlatoani (speakers/rulers) like Itzcoatl (r. 1427–1440), who leads the Triple Alliance's formation, combine military charisma, priestly authority, and lineage legitimacy; the cihuacoatl (second ruler) shares administrative burden; leadership succession contested, requiring political skill and often violence.
 
 __Legitimacy as Lived Allegiance:__ Mexica legitimacy initially fragile, derived from service as mercenaries and marriage alliances with Culhuacan's royal line; the founding of Tenochtitlan (1325 CE) at the site where the eagle perched on cactus provides divine sanction; victory over Azcapotzalco (1428 CE) transforms legitimacy from dependent to imperial.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Mexica demonstrate extraordinary co
 
 __External Relations & Posture:__ Pre-1428 CE relations defined by subordination to the Tepanec empire; marriage alliances and mercenary service build connections with established powers; rivalry with Azcapotzalco intensifies through the early fifteenth century; alliance-building with Texcoco and Tlacopan enables the overthrow; post-1428 CE posture becomes aggressively expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Militaristic ideology celebrates warrior virtue; ethnic pride intensifies as the Mexica transform from despised immigrants (the founding myth involves their wandering and rejection) to dominant power; cosmic anxiety about maintaining world-order through sacrifice colors collective psychology; ambition and restless expansion characterize the polity's temper.
+
 __Disaffection, Apathy & Spent Will:__ The Tepanec ruler Maxtla's harsh treatment of subject peoples, including the murder of Chimalpopoca (Mexica tlatoani), triggers defection and rebellion; Azcapotzalco's hegemony collapses when allegiance fails; the lesson of overreach and alienation informs subsequent Aztec imperial strategy.
+
 
 ## D06. Informational Domain
 

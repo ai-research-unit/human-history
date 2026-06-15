@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict resolution is immediate and personal. 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shared sentiment is immediate and unrecorded. Trust extends to kin and familiar band members; strangers evoke caution or hostility. Risk perception is shaped by recent experience: a successful hunt lifts mood; a predator encounter or injury darkens it.
-
 __Leadership & Personal Authority:__ Authority rests with demonstrated competence. The skilled hunter, the knowledgeable elder, the effective caregiver commands attention and imitation. No formal office or title exists.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and immediate, owed to kin and proven leaders. No abstract legitimacy or loyalty to institution is possible; the concept does not exist.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action depends on immediate 
 
 __External Relations & Posture:__ Relations with other bands are episodic and unrecorded. Avoidance is the default; encounter may bring trade, mating, or conflict. No alliances or rivalries persist beyond living memory.
 
+__Public Sentiment & Behavioral Temper:__ Shared sentiment is immediate and unrecorded. Trust extends to kin and familiar band members; strangers evoke caution or hostility. Risk perception is shaped by recent experience: a successful hunt lifts mood; a predator encounter or injury darkens it.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion and grief follow loss. The death of a skilled practitioner leaves a gap in the band's knowledge and capacity. Recovery depends on surviving members re-learning or the band's absorption into another.
+
 
 ## D06. Informational Domain
 

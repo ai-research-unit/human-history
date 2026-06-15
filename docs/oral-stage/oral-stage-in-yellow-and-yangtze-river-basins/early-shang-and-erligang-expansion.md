@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is managed through lineage mediation, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence and expansionary momentum characterize the elite mood; commoners experience the system as demanding but orderly, with loyalty reinforced by ritual participation and redistribution—trust extends within lineage and locality, narrowing toward outsiders and subordinate groups.
-
 __Leadership & Personal Authority:__ Royal authority is personal and charismatic, reinforced by monopoly over divination, bronze, and ancestral rites; the king and his kinsmen command through presence, reputation, and the spoken word—leadership succession is contested among royal lineages, and personal authority must be continuously demonstrated.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ancestral sanction, ritual efficacy, and the ability to provide protection and redistribution; allegiance is strongest among kin and clients who benefit directly, attenuating with distance—lived belief in the ruler's right to command is reinforced by the spectacle of bronze ritual and successful expansion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ruling elite displays strong collec
 
 __External Relations & Posture:__ The Shang project power outward through colonial outposts, punitive expeditions, and prestige exchange; neighboring polities are subordinated, absorbed, or held at arm's length as tribute payers—rivalry with unconquered groups (labeled "fang" enemies in later texts) structures external relations, and the posture is assertive and acquisitive.
 
+__Public Sentiment & Behavioral Temper:__ Confidence and expansionary momentum characterize the elite mood; commoners experience the system as demanding but orderly, with loyalty reinforced by ritual participation and redistribution—trust extends within lineage and locality, narrowing toward outsiders and subordinate groups.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is latent among subordinate populations and unfree laborers, but overt resistance is suppressed; elite confidence remains high—no exhaustion of will is visible, though the demands of expansion and production place cumulative strain on the system.
+
 
 ## D06. Informational Domain
 

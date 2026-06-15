@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Endemic warfare with neighboring polities gener
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The oracle bone corpus reveals royal anxiety about harvests, warfare, illness, and ancestral approval; the king's mood dominates public life, and the sentiment of commoners is inaccessible; a pervasive sense of ritual obligation and cosmic precariousness prevails.
-
 __Leadership & Personal Authority:__ The Shang king (wang) is the sole legitimate intermediary between the human and ancestral-divine realms; his personal authority rests on successful divination and military victory; weak or unlucky kings lose the confidence of subordinates.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from the king's ability to communicate with ancestors and secure their blessings; the royal house claims divine descent and ritual monopoly; subordinate allegiance is conditional on the king's continued efficacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The king's will is the collective will;
 
 __External Relations & Posture:__ The Shang court maintains a posture of civilized superiority toward surrounding "barbarian" peoples, extracting tribute and prisoners through warfare and occasionally through alliance; the Zhou, initially subordinate allies, accumulate strength on the western frontier.
 
+__Public Sentiment & Behavioral Temper:__ The oracle bone corpus reveals royal anxiety about harvests, warfare, illness, and ancestral approval; the king's mood dominates public life, and the sentiment of commoners is inaccessible; a pervasive sense of ritual obligation and cosmic precariousness prevails.
+
 __Disaffection, Apathy & Spent Will:__ The oracle bones record no overt disaffection, but the eventual Zhou conquest suggests that subordinate lords had grown alienated from the late Shang kings; the final king, Di Xin, is remembered in Zhou propaganda as tyrannical and dissolute, possibly reflecting genuine loss of elite support.
+
 
 ## D06. Informational Domain
 

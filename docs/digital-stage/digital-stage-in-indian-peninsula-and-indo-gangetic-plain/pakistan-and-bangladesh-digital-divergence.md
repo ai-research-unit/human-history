@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Internet shutdowns mark political crises in bot
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pakistani sentiment swings with political turbulence — euphoric during cricket victories, despairing during economic crises. Digital platforms amplify polarization between PTI supporters and establishment critics after Khan's 2022 ouster. Bangladesh's public mood is more subdued under Hasina's dominance, with dissent pushed to private channels.
-
 __Leadership & Personal Authority:__ Imran Khan's digital-native campaign style made him Pakistan's first social-media-era leader, his following persisting even after removal and imprisonment. Sheikh Hasina's longevity in Bangladesh reflects traditional authority more than digital charisma; her government controls digital space rather than competing in it.
 
 __Legitimacy as Lived Allegiance:__ Khan's base believes in his legitimacy regardless of official removal, expressing allegiance through digital channels despite censorship. Hasina's legitimacy rests on economic performance and stability, with digital platforms monitored to suppress challenges.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Pakistan's civil-military tensions prod
 
 __External Relations & Posture:__ Both countries manage digital relations carefully: Pakistan balances between Chinese infrastructure investment (CPEC-adjacent telecom) and Western platform dependence. Bangladesh courts both, accepting Huawei network equipment while maintaining US market access for garments and IT services.
 
+__Public Sentiment & Behavioral Temper:__ Pakistani sentiment swings with political turbulence — euphoric during cricket victories, despairing during economic crises. Digital platforms amplify polarization between PTI supporters and establishment critics after Khan's 2022 ouster. Bangladesh's public mood is more subdued under Hasina's dominance, with dissent pushed to private channels.
+
 __Disaffection, Apathy & Spent Will:__ Pakistan's educated youth express digital-native frustration through memes, VPN usage, and emigration when possible. Bangladesh's critics operate in fear after the Digital Security Act (2018) enables arbitrary prosecution; self-censorship becomes norm.
+
 
 ## D06. Informational Domain
 

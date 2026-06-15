@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession wars (1405, 1447, 1469, 1494) period
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Under strong rulers (Shah Rukh, Husayn Bayqara), public confidence and cultural pride run high; the courts project magnificence and order. Succession crises darken sentiment and narrow trust.
-
 __Leadership & Personal Authority:__ Timur's charisma casts a long shadow; successors legitimize rule through genealogical connection and cultural patronage. Ulugh Beg embodies scholarly rulership; Husayn Bayqara at Herat presides over literary brilliance.
 
 __Legitimacy as Lived Allegiance:__ Timurid legitimacy rests on military success, genealogical claims, and Islamic piety. Patronage of scholars, poets, and artists reinforces allegiance among literate elites; popular loyalty varies with taxation and security.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Resolve concentrates in the ruling prin
 
 __External Relations & Posture:__ Timurids maintain diplomatic contact with Ming China, Mamluks, Ottomans, and Indian sultanates. Embassies exchange gifts and manuscripts. Military posture is defensive after Timur's death; Uzbek pressure mounts from the north.
 
+__Public Sentiment & Behavioral Temper:__ Under strong rulers (Shah Rukh, Husayn Bayqara), public confidence and cultural pride run high; the courts project magnificence and order. Succession crises darken sentiment and narrow trust.
+
 __Disaffection, Apathy & Spent Will:__ By the late fifteenth century, dynastic fragmentation and military defeats erode elite cohesion. The will to resist Uzbek encroachment weakens; Herat falls in 1507.
+
 
 ## D06. Informational Domain
 

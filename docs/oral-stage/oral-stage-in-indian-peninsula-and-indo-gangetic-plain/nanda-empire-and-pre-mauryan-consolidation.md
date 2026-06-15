@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The rapidity of Nanda consolidation has left re
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The population accepts Nanda rule without evident enthusiasm; resentment of heavy taxation and low-caste kingship circulates among brahmins and displaced kshatriyas; the common people are politically passive, focused on agricultural labor and household concerns; trust extends within jati and village but not far beyond; the mood is stable but not loyal.
-
 __Leadership & Personal Authority:__ The Nanda kings rule through force and accumulated treasury more than personal charisma; their low-caste origin limits Brahmanical legitimation; effective administration substitutes for affective loyalty; the court concentrates power, with nobles and officials dependent on royal favor.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is thin — the Nandas hold power but not hearts; their right to rule is accepted as fact rather than embraced as just; Brahmanical tradition regards them as upstarts; this legitimacy deficit will prove fatal when Chandragupta Maurya offers an alternative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Nanda state demonstrates strong pol
 
 __External Relations & Posture:__ The Nanda empire has no serious rivals within the subcontinent; the northwest remains beyond full control, and Achaemenid Persia exerts influence at Taxila; Alexander's invasion (327–325 BCE) reaches the Indus but does not penetrate the Gangetic heartland; the Nandas remain the dominant power, their posture defensive at the periphery but secure in the core.
 
+__Public Sentiment & Behavioral Temper:__ The population accepts Nanda rule without evident enthusiasm; resentment of heavy taxation and low-caste kingship circulates among brahmins and displaced kshatriyas; the common people are politically passive, focused on agricultural labor and household concerns; trust extends within jati and village but not far beyond; the mood is stable but not loyal.
+
 __Disaffection, Apathy & Spent Will:__ Among the elite, disaffection with Nanda rule is real but suppressed; among the masses, apathy rather than disaffection prevails — the state is too strong to resist, too distant to love; this reserve of unexhausted loyalty will transfer quickly to a new dynasty that offers better legitimation.
+
 
 ## D06. Informational Domain
 

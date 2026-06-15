@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction absorbed through feasting, ritu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public mood at San Lorenzo's height combines pride in monumental achievement with localized kin loyalty; trust radiates from the center through elite networks; the population invests emotionally in the ritual and political order the paramount chief embodies.
-
 __Leadership & Personal Authority:__ The paramount chiefs of San Lorenzo command through personal charisma, demonstrated ritual efficacy, and inherited status; the colossal heads (at least ten at San Lorenzo) immortalize these rulers in stone, broadcasting personal authority across the landscape; leadership is intensely individual.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on the chief's role as cosmic intermediary: rains fall, harvests succeed, and enemies fail because the chief performs correct rituals; allegiance is real but contingent; failure of ritual efficacy could erode support; no abstract political theory justifies rule.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to maintain the monumental cen
 
 __External Relations & Posture:__ San Lorenzo projects influence through prestige exchange rather than military conquest; Olmec-style objects and iconography appear at sites across Mesoamerica (Tlatilco, Chalcatzingo, San Jose Mogote) indicating diplomatic and commercial ties; the posture is one of cultural hegemony through emulation.
 
+__Public Sentiment & Behavioral Temper:__ The public mood at San Lorenzo's height combines pride in monumental achievement with localized kin loyalty; trust radiates from the center through elite networks; the population invests emotionally in the ritual and political order the paramount chief embodies.
+
 __Disaffection, Apathy & Spent Will:__ Some monument mutilation toward the window's end may indicate emerging disaffection or ritual termination; tributary communities may resent extraction; but the system remains functional; no collapse of will within the window; stress accumulates for later resolution.
+
 
 ## D06. Informational Domain
 

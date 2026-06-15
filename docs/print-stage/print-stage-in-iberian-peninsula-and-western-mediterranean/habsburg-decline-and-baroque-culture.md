@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Catalonia revolts (1640–1659), submitting onl
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood darkens through the century; desengano (disillusionment) becomes the keynote. Providential confidence yields to fatalism. Satire (Quevedo) and lament (arbitristas) voice the sense of decline. Trust in institutions erodes; honor becomes defensive posture.
-
 __Leadership & Personal Authority:__ Philip III (1598–1621) delegates to Lerma; Philip IV (1621–1665) relies on Olivares, then lesser validos. Carlos II (1665–1700) is physically and mentally incapacitated, a symbol of dynastic exhaustion. Personal authority is diffused or absent; faction fills the vacuum.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to Crown persists but is tested by defeat and fiscal pressure. Peripheral revolts reflect eroded legitimacy outside Castile. The dynasty's physical decay in Carlos II undermines the symbolic order; legitimacy survives but is hollowed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Olivares' drive for reform (1621–1643
 
 __External Relations & Posture:__ Spain fights continuously: the Thirty Years' War, war with France, Dutch independence, Portuguese restoration war, the Fronde intervention. Each front drains resources. By the Peace of the Pyrenees (1659) and the Treaty of Lisbon (1668), hegemony is ceded; Spain becomes a defensive power seeking to preserve remnants.
 
+__Public Sentiment & Behavioral Temper:__ The mood darkens through the century; desengano (disillusionment) becomes the keynote. Providential confidence yields to fatalism. Satire (Quevedo) and lament (arbitristas) voice the sense of decline. Trust in institutions erodes; honor becomes defensive posture.
+
 __Disaffection, Apathy & Spent Will:__ By century's end, apathy pervades. The succession crisis (Carlos II without heir) paralyzes decision. Disaffection is not revolutionary but resigned; the will to act is spent. The emotional residue is exhaustion awaiting an external resolution—which comes with the Bourbon succession.
+
 
 ## D06. Informational Domain
 

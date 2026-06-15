@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Scribal corruption (bribery, falsification) end
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Scribal self-regard visible in Satire of the Trades and later genres; contempt for manual labor; pride in skill; anxiety about obsolescence when script changes; resentment from illiterate majority seldom recorded but inferable.
-
 __Leadership & Personal Authority:__ Great scribes (Imhotep, Manetho, Ibn Khaldun) achieve individual fame; viziers and chief judges wield authority through literacy; personal authority often inseparable from administrative function.
 
 __Legitimacy as Lived Allegiance:__ Written documents confer legitimacy — royal decrees, religious texts, legal judgments carry weight; forgery attempts demonstrate that documents command belief; oral testimony subordinate to written record in formal settings.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Scribal corps executes will of rulers; 
 
 __External Relations & Posture:__ Diplomatic correspondence (Amarna letters, Ottoman firman) conducted through scribal channels; foreign relations depend on translation capacity; multilingual scribes (Greek-Demotic, Arabic-Turkish) bridge empires.
 
+__Public Sentiment & Behavioral Temper:__ Scribal self-regard visible in Satire of the Trades and later genres; contempt for manual labor; pride in skill; anxiety about obsolescence when script changes; resentment from illiterate majority seldom recorded but inferable.
+
 __Disaffection, Apathy & Spent Will:__ End-of-dynasty apathy visible in sloppy copying, unfilled registers; script death (hieroglyphics, demotic) reflects spent will to transmit; final hieroglyphic inscription (394 CE, Philae) marks exhaustion.
+
 
 ## D06. Informational Domain
 

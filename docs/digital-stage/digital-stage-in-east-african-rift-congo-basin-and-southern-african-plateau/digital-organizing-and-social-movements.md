@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The social residue includes fragmented movement
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Digital platforms amplify emotional contagion — outrage over police violence spreads virally, hope during electoral breakthroughs radiates through networks, despair after crackdowns circulates alongside calls for resistance — creating an affective environment where public sentiment can shift rapidly and collectively.
-
 __Leadership & Personal Authority:__ Digital movements produce new leadership types — Uganda's Bobi Wine combines musical celebrity with social media savvy, South Africa's Julius Malema wields Twitter as a weapon, Kenya's activists build followings outside party structures — though this visibility also makes leaders targets for state repression.
 
 __Legitimacy as Lived Allegiance:__ Digital organizing contests regime legitimacy by publicizing corruption, electoral fraud, and human rights violations; the viral spread of evidence — videos of police violence, leaked documents, witness testimony — erodes the taken-for-granted authority of incumbent regimes while building allegiance to opposition movements.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Movements demonstrate collective will t
 
 __External Relations & Posture:__ Digital organizing connects domestic movements to international solidarity networks — diaspora activists in the United States and Europe amplify African movements, global human rights organizations publicize local struggles, international media pick up digitally documented abuses — creating external pressure that both supports and complicates local organizing.
 
+__Public Sentiment & Behavioral Temper:__ Digital platforms amplify emotional contagion — outrage over police violence spreads virally, hope during electoral breakthroughs radiates through networks, despair after crackdowns circulates alongside calls for resistance — creating an affective environment where public sentiment can shift rapidly and collectively.
+
 __Disaffection, Apathy & Spent Will:__ Repeated cycles of mobilization and defeat generate activist exhaustion — the failure of South Africa's #FeesMustFall to achieve full fee abolition, the crushing of Ethiopia's Oromo protests, the continued rule of targeted regimes — leaving a residue of disaffection that makes subsequent mobilization harder, with each generation of activists burning out and the next having to be recruited anew.
+
 
 ## D06. Informational Domain
 

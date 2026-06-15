@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through group fissio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The baseline affective state is one of vigilance tempered by familiarity within the known home range. Trust extends to kin and long-associated companions; strangers are approached warily. Mood tracks immediate circumstances: satiation and safety bring calm; hunger and exposure bring tension.
-
 __Leadership & Personal Authority:__ Leadership is informal and situational. Individuals with demonstrated competence in specific domains—tracking, knapping, navigating to water—may lead in those contexts. Authority derives from proven ability rather than assigned role and must be continuously validated through success.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and immediate, directed toward kin and trusted companions rather than abstract entities. Legitimacy in the modern sense does not exist; compliance flows from relationship rather than recognition of right to command.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges from converge
 
 __External Relations & Posture:__ Relations with other groups are occasional and wary. Encounters may involve avoidance, display, mating opportunities, or conflict depending on resource competition and familiarity. No sustained inter-group politics exists; each encounter is discrete.
 
+__Public Sentiment & Behavioral Temper:__ The baseline affective state is one of vigilance tempered by familiarity within the known home range. Trust extends to kin and long-associated companions; strangers are approached warily. Mood tracks immediate circumstances: satiation and safety bring calm; hunger and exposure bring tension.
+
 __Disaffection, Apathy & Spent Will:__ Affective exhaustion manifests as withdrawal, failure to participate in group activity, or departure from the group. Given small group size and continuous face-to-face interaction, severe disaffection likely leads to exit rather than internal accumulation of discontent.
+
 
 ## D06. Informational Domain
 

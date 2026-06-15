@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tensions (ethnic, caste, generational) l
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcasting shapes mood across the period: independence optimism, development-era patience, structural adjustment despair, democratic hope, security crisis anxiety; trust in state broadcasting lower than in RFI, which serves as alternative information source throughout; fatigue with official messaging accumulates.
-
 __Leadership & Personal Authority:__ Founding presidents use broadcasting for legitimation: Senghor in Senegal (poet-president cultural authority), Modibo Keita in Mali, Houphouet-Boigny in Ivory Coast; subsequent leaders vary in broadcast presence; musicians acquire authority through airplay — Youssou N'Dour in Senegal, Salif Keita in Mali become figures of moral weight.
 
 __Legitimacy as Lived Allegiance:__ Single-party regimes claim democratic legitimacy while practicing controlled broadcasting; transitions (Senegal 2000 alternance, Mali 1991 democratic transition) test broadcast systems' capacity to serve contested politics; legitimacy deficits visible in persistent RFI listenership for news.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcasting mobilizes for national pro
 
 __External Relations & Posture:__ Francophone broadcasting exists within French sphere of influence; RFI presence represents continued French reach; rivalry with Anglophone broadcasting systems shapes regional dynamics; African Union and ECOWAS provide continental frame; migration to France creates diaspora audience.
 
+__Public Sentiment & Behavioral Temper:__ Broadcasting shapes mood across the period: independence optimism, development-era patience, structural adjustment despair, democratic hope, security crisis anxiety; trust in state broadcasting lower than in RFI, which serves as alternative information source throughout; fatigue with official messaging accumulates.
+
 __Disaffection, Apathy & Spent Will:__ Trust in state broadcasting declines across the period; youth disaffection from official channels anticipates digital migration; the will to maintain francophone cultural policy exhausts against audience preference for vernacular content and eventually digital platforms.
+
 
 ## D06. Informational Domain
 

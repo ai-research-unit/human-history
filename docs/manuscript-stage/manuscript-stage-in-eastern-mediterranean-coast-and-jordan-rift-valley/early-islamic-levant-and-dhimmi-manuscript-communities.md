@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Confessional boundaries channel most friction; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confessional identity anchors public sentiment; Muslims exhibit confidence in the expanding dar al-Islam; Christians and Jews navigate between accommodation and resentment of subordinate status; trust operates primarily within confessional communities rather than across them; pilgrimage to Jerusalem sustains emotional investment in the region across the Islamic world and Christendom.
-
 __Leadership & Personal Authority:__ Caliphs and their governors command obedience through religious legitimacy and coercive capacity; within dhimmi communities, exilarchs, geonim, patriarchs, and bishops exercise authority recognized by both internal tradition and caliphal appointment; Sufi shaykhs attract personal followings; local strongmen emerge in periods of caliphal weakness.
 
 __Legitimacy as Lived Allegiance:__ Umayyad legitimacy contested by Abbasid revolution (750 CE); Abbasid claims rest on descent from the Prophet's family; Fatimid conquest introduces Ismaili Shia claims; dhimmi allegiance is transactional — protection in exchange for submission — rather than affective; Christian populations retain emotional ties to Byzantium and Rome.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Caliphal will drives construction proje
 
 __External Relations & Posture:__ The region sits within the caliphal sphere, facing Byzantine pressure from the north; Crusader invasion (1099 CE) represents the catastrophic external shock that ends this period; relations with Egypt fluctuate between subordination and contestation; pilgrimage diplomacy connects Jerusalem to Christian Europe.
 
+__Public Sentiment & Behavioral Temper:__ Confessional identity anchors public sentiment; Muslims exhibit confidence in the expanding dar al-Islam; Christians and Jews navigate between accommodation and resentment of subordinate status; trust operates primarily within confessional communities rather than across them; pilgrimage to Jerusalem sustains emotional investment in the region across the Islamic world and Christendom.
+
 __Disaffection, Apathy & Spent Will:__ Al-Hakim's persecutions generate dhimmi disaffection that partially persists; late eleventh century caliphal fragmentation produces administrative apathy; Bedouin depredations erode rural morale; the Seljuk disruption of pilgrimage routes (1070s-1090s) feeds European resentment that culminates in crusade.
+
 
 ## D06. Informational Domain
 

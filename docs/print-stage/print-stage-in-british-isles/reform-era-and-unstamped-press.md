@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Captain Swing riots (1830), Reform Bill riots (
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Postwar disillusionment, economic distress, and exclusion generate radical anger; reform sentiment spreads into middle classes. The Reform Act partially defuses crisis; Chartism sustains working-class agitation but fragments after 1848.
-
 __Leadership & Personal Authority:__ Radical publishers (William Cobbett, Richard Carlile, Henry Hetherington, Bronterre O'Brien) achieve heroic status through prosecution and imprisonment. O'Connell in Ireland, Feargus O'Connor among Chartists, command mass followings through print and oratory.
 
 __Legitimacy as Lived Allegiance:__ The unreformed system loses legitimacy among wide publics; Reform Act restores partial consent from middle classes while Chartist rejection persists among workers.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Mass petitions (Chartist petitions of 1
 
 __External Relations & Posture:__ Post-Napoleonic settlement positions Britain as European arbiter; continental revolutions (1830, 1848) observed with sympathy by radicals, alarm by authorities. Emigration to colonies accelerates; emigrants carry radical print traditions.
 
+__Public Sentiment & Behavioral Temper:__ Postwar disillusionment, economic distress, and exclusion generate radical anger; reform sentiment spreads into middle classes. The Reform Act partially defuses crisis; Chartism sustains working-class agitation but fragments after 1848.
+
 __Disaffection, Apathy & Spent Will:__ Chartism's failure to achieve its six points by 1850 produces demoralization; the movement fragments. Prosperity of the 1850s absorbs some grievance; disaffection persists but finds less organized expression.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction dissipates through fission, avo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional tenor of Neanderthal social life is difficult to assess. The care shown to injured individuals, the burial of the dead, and the persistence of cooperative hunting all suggest emotional bonds that motivate altruistic behavior. The behavioral temper must accommodate high-risk activities (close-range hunting of large game) and the stresses of resource scarcity during glacial conditions. Whether the Levantine Neanderthals experienced the same affective range as the preceding modern human population cannot be determined.
-
 __Leadership & Personal Authority:__ Leadership operates through demonstrated competence in hunting, toolmaking, and healing. The individual who successfully brings down large game commands attention and deference; the elder who knows the landscape guides group movement. Authority is earned, situational, and non-inheritable.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to competent practitioners; legitimacy exists as behavioral deference expressed through attention and imitation. Without language to articulate justifications, the basis for authority cannot be verbalized.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will sustains the population
 
 __External Relations & Posture:__ Intergroup relations are difficult to assess. The low population density during MIS 4 may reduce intergroup contact frequency. Relations with modern human populations, if any persist in the region, are archaeologically invisible during this window; the population dynamics suggest displacement or extinction of modern humans rather than sustained coexistence. Whether Neanderthal groups cooperated or competed with each other cannot be determined from the available evidence.
 
+__Public Sentiment & Behavioral Temper:__ The emotional tenor of Neanderthal social life is difficult to assess. The care shown to injured individuals, the burial of the dead, and the persistence of cooperative hunting all suggest emotional bonds that motivate altruistic behavior. The behavioral temper must accommodate high-risk activities (close-range hunting of large game) and the stresses of resource scarcity during glacial conditions. Whether the Levantine Neanderthals experienced the same affective range as the preceding modern human population cannot be determined.
+
 __Disaffection, Apathy & Spent Will:__ The stresses of glacial conditions and resource scarcity may produce fatigue and depleted will, but the persistence of occupation suggests that collective resolve is maintained. The emotional residue is the standing strain of survival in marginal conditions.
+
 
 ## D06. Informational Domain
 

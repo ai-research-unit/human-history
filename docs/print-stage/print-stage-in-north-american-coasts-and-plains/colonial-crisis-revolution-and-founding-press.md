@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Loyalist persecution, confiscation, and exile d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period begins with rising anger over imperial measures — Stamp Act, Townshend duties, Tea Act. Sentiment crystallizes into revolutionary commitment among a Patriot core, ambivalence among many, and Loyalist opposition among a significant minority (perhaps 15–20%). War produces élan and exhaustion in succession; perseverance despite setbacks. Victory at Yorktown (1781) yields celebration; the peace process is anticlimatic.
-
 __Leadership & Personal Authority:__ Washington emerges as indispensable leader — his personal authority holds the army together through repeated defeats and privations. Congressional leaders (Adams, Jefferson, Franklin) coordinate politics. Local leaders mobilize communities. Printers themselves gain public standing: Benjamin Franklin is the exemplar.
 
 __Legitimacy as Lived Allegiance:__ British legitimacy collapses progressively from 1765 onward; the Declaration of Independence (1776) articulates the rupture. Patriot legitimacy is asserted but contested; it must be enforced against Loyalists and earned through victory.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to continue the war wavers rep
 
 __External Relations & Posture:__ Diplomacy is critical: French alliance provides money, arms, troops, and naval power. Spain and the Netherlands assist. Britain fights a global war. Patriot envoys — Franklin in Paris — are essential.
 
+__Public Sentiment & Behavioral Temper:__ The period begins with rising anger over imperial measures — Stamp Act, Townshend duties, Tea Act. Sentiment crystallizes into revolutionary commitment among a Patriot core, ambivalence among many, and Loyalist opposition among a significant minority (perhaps 15–20%). War produces élan and exhaustion in succession; perseverance despite setbacks. Victory at Yorktown (1781) yields celebration; the peace process is anticlimatic.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness is endemic by 1780. Some regions tire of sacrifice; militia service becomes reluctant. Victory revives spirit, but exhaustion underlies the peace.
+
 
 ## D06. Informational Domain
 

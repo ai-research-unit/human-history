@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Red Turban rebellions (1351 onward), drawin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Chinese literati express alienation through withdrawal and cultural production rather than active resistance; popular sentiment hardens against Mongol rule particularly after the 1340s economic and natural disasters; millenarian expectations of dynastic change spread.
-
 __Leadership & Personal Authority:__ Mongol khans rule through personal prestige and the charisma of Chinggisid lineage; after Kublai (d. 1294), succession disputes weaken central authority; late-period emperors are short-lived and lack personal pull; rebel leaders like Zhu Yuanzhang mobilize personal charisma in building movements.
 
 __Legitimacy as Lived Allegiance:__ The Yuan claims Heaven's Mandate but faces persistent questions about foreign rule; Chinese elites offer limited collaboration while maintaining cultural distance; popular allegiance erodes sharply during the crises of the 1340s–1350s, enabling rapid rebel expansion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Mongol elite cohesion fragments after K
 
 __External Relations & Posture:__ The Yuan maintains the Mongol empire's continental orientation; relations with the il-Khanate and the Golden Horde continue; Japan resists invasion (1274, 1281); Southeast Asian states pay tribute; the posture is one of universal empire claiming suzerainty over all under heaven.
 
+__Public Sentiment & Behavioral Temper:__ Chinese literati express alienation through withdrawal and cultural production rather than active resistance; popular sentiment hardens against Mongol rule particularly after the 1340s economic and natural disasters; millenarian expectations of dynastic change spread.
+
 __Disaffection, Apathy & Spent Will:__ Literati withdrawal reflects spent will to engage with alien rule; popular disaffection crystallizes into rebellion; the Mongol elite's will to govern exhausts itself in factional struggle; by the 1360s, apathy among loyalists enables Zhu Yuanzhang's victory.
+
 
 ## D06. Informational Domain
 

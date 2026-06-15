@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Genghisid succession system — partible in
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pride, martial honor, and loyalty to the khagan define the Mongol temper. Fear is the sentiment the Mongols deliberately cultivate in enemies — terror as strategy. Trust within the decimal unit is enforced; betrayal is death.
-
 __Leadership & Personal Authority:__ Genghis Khan's personal authority is the organizing force of the empire. He is not merely a war leader but a lawgiver, organizer, and sacred figure. His successors (Ogedei, Mongke, Kublai) inherit portions of that authority, but none matches the original. Charisma is non-transferable.
 
 __Legitimacy as Lived Allegiance:__ The mandate of Tengri legitimizes Genghisid rule. The khagan rules by heaven's will; conquest success proves the mandate. Subject peoples accept Mongol rule as fate or resist and die. Allegiance among Mongols is to the golden lineage, not to institutions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coheres under Genghis K
 
 __External Relations & Posture:__ Mongol posture is universalist: all under heaven owe submission. Diplomacy is ultimatum — submit or be destroyed. The Mongols maintain embassies and alliances of convenience but regard all external relations as temporary pending conquest.
 
+__Public Sentiment & Behavioral Temper:__ Pride, martial honor, and loyalty to the khagan define the Mongol temper. Fear is the sentiment the Mongols deliberately cultivate in enemies — terror as strategy. Trust within the decimal unit is enforced; betrayal is death.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection appears in conquered territories constantly; it is suppressed by terror. Among Mongols, the fragmentation after 1260 CE reflects exhaustion of unifying will. The successor khanates are viable but lack the drive for further expansion.
+
 
 ## D06. Informational Domain
 

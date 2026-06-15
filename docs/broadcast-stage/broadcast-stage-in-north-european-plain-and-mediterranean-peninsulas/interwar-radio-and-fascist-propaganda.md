@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence peaks in Germany (1933 seizu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Radio shapes and channels mass emotion as never before — Nazi rallies broadcast nationwide create manufactured unanimity; fear, enthusiasm, and resentment are amplified through the medium; democratic publics experience radio-mediated anxiety over approaching war.
-
 __Leadership & Personal Authority:__ Hitler and Mussolini exploit radio's immediacy for charismatic leadership; their voices enter domestic space directly; democratic leaders (Daladier, Chamberlain) also use radio but without totalitarian orchestration.
 
 __Legitimacy as Lived Allegiance:__ Fascist regimes claim plebiscitary legitimacy reinforced through broadcast spectacles; democratic legitimacy rests on electoral procedures but faces crisis of confidence amid depression and international threat.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Fascist states demonstrate concentrated
 
 __External Relations & Posture:__ Radio serves as instrument of foreign policy — Nazi Germany broadcasts to Volksdeutsche abroad; Italian radio targets Mediterranean audiences; international radio (Radio Luxembourg, BBC World Service) competes for continental audiences; the information front of the approaching war opens.
 
+__Public Sentiment & Behavioral Temper:__ Radio shapes and channels mass emotion as never before — Nazi rallies broadcast nationwide create manufactured unanimity; fear, enthusiasm, and resentment are amplified through the medium; democratic publics experience radio-mediated anxiety over approaching war.
+
 __Disaffection, Apathy & Spent Will:__ Emigration and internal exile represent disaffection in fascist states; democratic publics exhibit war-weariness rooted in 1914–1918 trauma; collective will remains ambivalent toward confrontation until Munich (1938) and beyond.
+
 
 ## D06. Informational Domain
 

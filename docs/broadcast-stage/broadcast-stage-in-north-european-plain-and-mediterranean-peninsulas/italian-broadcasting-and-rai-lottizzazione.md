@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1976 Constitutional Court decision breaking
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Italian public opinion toward broadcasting mixes attachment to familiar formats with cynicism about political manipulation; RAI's partisan character generates distrust, while Mediaset's entertainment focus draws both popularity and criticism for lowering cultural standards.
-
 __Leadership & Personal Authority:__ Silvio Berlusconi dominates Italian broadcasting as owner, politician, and cultural phenomenon; his personal authority over Mediaset and, during government periods, influence over RAI appointments concentrates media power to an extent unprecedented in Western democracies; his charisma shapes both entertainment and political content.
 
 __Legitimacy as Lived Allegiance:__ RAI's legitimacy suffers from visible partisan control; lottizzazione makes political colonization explicit, and the public perceives channels as party organs rather than neutral public servants; Mediaset's commercial legitimacy faces challenges when Berlusconi holds political office, creating conflict of interest concerns.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Italian political actors demonstrate su
 
 __External Relations & Posture:__ Italian broadcasting serves modest foreign policy objectives: RAI International reaches emigrant communities; cultural programming projects Italian soft power; but Italy lacks the global media presence of France or the UK, reflecting lower international ambitions and fewer resources for external broadcasting.
 
+__Public Sentiment & Behavioral Temper:__ Italian public opinion toward broadcasting mixes attachment to familiar formats with cynicism about political manipulation; RAI's partisan character generates distrust, while Mediaset's entertainment focus draws both popularity and criticism for lowering cultural standards.
+
 __Disaffection, Apathy & Spent Will:__ By the 2000s, declining viewership for traditional channels signals exhausted loyalty; younger audiences migrate to internet platforms; Berlusconi's legal troubles and eventual decline do not restore confidence in RAI's independence; the broadcast duopoly faces legitimacy crisis from both political and commercial directions.
+
 
 ## D06. Informational Domain
 

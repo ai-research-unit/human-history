@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online harassment intensifies, particularly tar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety about technology's social effects begins emerging in mainstream discourse by 2017. The "attention economy" framing enters public vocabulary. Concerns about smartphone addiction, particularly among youth, gain traction. Yet adoption continues accelerating.
-
 __Leadership & Personal Authority:__ Tech founders retain heroic status through much of the period. Zuckerberg, Bezos, and others command reverence in business and popular culture. The image begins tarnishing only after 2016 revelations. Trump's Twitter mastery demonstrates a new form of direct political leadership.
 
 __Legitimacy as Lived Allegiance:__ Platform legitimacy remains high through most of the period. Users accept terms of service without reading them. The exchange of attention for free services feels reasonable. Doubt emerges only after Cambridge Analytica revelations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Obama administration maintains light-to
 
 __External Relations & Posture:__ Platforms operate as quasi-sovereigns in their own right, negotiating with states rather than simply complying. US government encourages global platform expansion as soft power projection. Russian interference revelations complicate this narrative.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety about technology's social effects begins emerging in mainstream discourse by 2017. The "attention economy" framing enters public vocabulary. Concerns about smartphone addiction, particularly among youth, gain traction. Yet adoption continues accelerating.
+
 __Disaffection, Apathy & Spent Will:__ 2016 produces sharp disaffection among those who expected different electoral outcomes. The emotional intensity of platform-mediated politics exhausts participants. Political engagement peaks alongside political despair.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Youth gaming "addiction" is framed as social di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Gaming evokes mixed sentiment: entertainment value versus addiction anxiety. Parental relief at restrictions contrasts with youth resentment. National pride attaches to esports victories (League of Legends World Championship wins).
-
 __Leadership & Personal Authority:__ Gaming executives maintain low profiles post-crackdown. Pony Ma's public statements emphasize social responsibility. Regulators hold authority; industry leaders comply visibly.
 
 __Legitimacy as Lived Allegiance:__ State intervention is framed as protection of youth. Many parents support restrictions; affected minors lack political voice. Industry acquiescence signals that commercial actors accept party primacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrates willingness to s
 
 __External Relations & Posture:__ Chinese games achieve global distribution; Genshin Impact demonstrates soft-power potential. TikTok gaming content reaches worldwide audiences. Export success provides leverage and revenue independent of domestic restrictions.
 
+__Public Sentiment & Behavioral Temper:__ Gaming evokes mixed sentiment: entertainment value versus addiction anxiety. Parental relief at restrictions contrasts with youth resentment. National pride attaches to esports victories (League of Legends World Championship wins).
+
 __Disaffection, Apathy & Spent Will:__ Affected minors circumvent restrictions using parental accounts, indicating alienation from regulatory intent. Industry morale declines post-crackdown; layoffs spread. Developer emigration to overseas studios increases.
+
 
 ## D06. Informational Domain
 

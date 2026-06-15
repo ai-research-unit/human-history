@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Subject polities periodically rebel (Chalco, Tl
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A martial ethos pervades public culture; warrior achievement honored; fatalism infused by cosmology of cyclical destruction; public sentiment in the core expresses pride in imperial ascendancy, while subject provinces harbor resentment masked by outward compliance.
-
 __Leadership & Personal Authority:__ The tlatoani ("speaker") holds supreme authority, combining military, judicial, and ritual roles; Motecuhzoma II (r. 1502–1520) concentrates power, restricting noble access to his person; charismatic authority reinforced by ritual seclusion and cosmic framing.
 
 __Legitimacy as Lived Allegiance:__ Core Mexica populations accept the tlatoani's divine-right authority; Texcoco and Tlacopan allies maintain cooperative allegiance; subject provinces comply under coercion rather than consent; legitimacy erodes at the periphery where tribute extractions outrun any reciprocal benefit.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The warrior elite displays high resolve
 
 __External Relations & Posture:__ Expansionist posture toward the unconquered; Tarascan state to the west resists incorporation; Tlaxcala and allies remain hostile enclaves within Aztec territory; long-distance trade connects to Maya and beyond; no peer competitor threatens the core, but the unconquered buffer zones reveal the limits of hegemonic reach.
 
+__Public Sentiment & Behavioral Temper:__ A martial ethos pervades public culture; warrior achievement honored; fatalism infused by cosmology of cyclical destruction; public sentiment in the core expresses pride in imperial ascendancy, while subject provinces harbor resentment masked by outward compliance.
+
 __Disaffection, Apathy & Spent Will:__ Peripheral disaffection accumulates; some evidence of war weariness among allied contingents; the Tlaxcalan-Aztec enmity hardens into irreconcilable hostility; no collapse of will in the core, but the periphery's resentment constitutes latent fragility.
+
 
 ## D06. Informational Domain
 

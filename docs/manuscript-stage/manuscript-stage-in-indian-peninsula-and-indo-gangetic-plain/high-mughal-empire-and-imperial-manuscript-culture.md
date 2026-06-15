@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rebellion became endemic — Maratha resistance
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite sentiment shifted from confidence under Shah Jahan to anxiety under Aurangzeb; Hindu sentiment soured as Aurangzeb's policies (jizya reimposition, temple destructions, Rajput alienation) reversed Akbar's accommodation; Muslim sentiment was divided between those supporting orthodox revival and those resenting its costs; popular sentiment in the Deccan hardened against imperial presence; the trust radius contracted and public temper darkened.
-
 __Leadership & Personal Authority:__ Jahangir's authority rested partly on his wife Nur Jahan's capabilities; Shah Jahan projected confident magnificence; Aurangzeb's personal authority derived from religious piety, military persistence, and ruthless elimination of rivals — he commanded obedience through fear and respect rather than affection; no successor approached his capacities, and the system's dependence on exceptional leadership became a fatal vulnerability.
 
 __Legitimacy as Lived Allegiance:__ Mughal legitimacy eroded during Aurangzeb's reign — the reversal of Akbar's tolerant policies alienated Hindu elites and masses; the prolonged, inconclusive Deccan wars projected weakness rather than strength; succession through fratricide undermined dynastic charisma; by 1707, legitimacy rested primarily on inertia and absence of alternatives rather than positive allegiance; the reservoir of consent was depleted.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Aurangzeb's personal will remained iron
 
 __External Relations & Posture:__ Safavid Persia remained a rival over Kandahar (seized by Shah Abbas II in 1649 despite multiple Mughal attempts at recovery); European maritime powers were tolerated as commercial partners but kept from territorial acquisition; the Deccan sultanates were conquered (Bijapur 1686, Golconda 1687) but the conquest generated the Maratha resistance that proved unconquerable; the expansionist posture succeeded territorially but failed to consolidate, overextending the system.
 
+__Public Sentiment & Behavioral Temper:__ Elite sentiment shifted from confidence under Shah Jahan to anxiety under Aurangzeb; Hindu sentiment soured as Aurangzeb's policies (jizya reimposition, temple destructions, Rajput alienation) reversed Akbar's accommodation; Muslim sentiment was divided between those supporting orthodox revival and those resenting its costs; popular sentiment in the Deccan hardened against imperial presence; the trust radius contracted and public temper darkened.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection was widespread by the late Aurangzeb period — mansabdars sought provincial autonomy, Rajputs withdrew cooperation, the ulema were divided; popular disaffection expressed itself through support for Maratha, Sikh, and Jat resistance; the collective will was spent, the affective reserves exhausted; the emotional residue accumulated as generalized distrust and weariness that would discharge immediately upon Aurangzeb's death.
+
 
 ## D06. Informational Domain
 

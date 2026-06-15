@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through the same mec
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional landscape of these populations remains speculative; the patience required for prepared-core knapping — the careful sequence of platform preparation, the controlled strikes — suggests affective capacities for delayed gratification and frustration tolerance; pride in skilled work and the social recognition it brings likely motivate technical investment.
-
 __Leadership & Personal Authority:__ Technical masters who demonstrate superior knapping skill attract followers and imitators, constituting informal leadership in the technical domain; this authority remains personal and domain-specific — hunting prowess, landscape knowledge, social skills may create other leaders in other domains; there is no unified authority structure.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to the immediate group and its skilled members; there is no broader legitimacy structure to accept or reject; individuals belong because they belong, and depart when the costs of belonging exceed the benefits.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action in technical innovati
 
 __External Relations & Posture:__ Contact between regional populations allows technological diffusion but remains cautious; the spread of prepared-core techniques across the region implies some inter-group contact sufficient for observation and imitation; whether this contact is friendly, wary, or hostile varies by circumstance and leaves no clear record.
 
+__Public Sentiment & Behavioral Temper:__ The emotional landscape of these populations remains speculative; the patience required for prepared-core knapping — the careful sequence of platform preparation, the controlled strikes — suggests affective capacities for delayed gratification and frustration tolerance; pride in skilled work and the social recognition it brings likely motivate technical investment.
+
 __Disaffection, Apathy & Spent Will:__ Individual discouragement at failed knapping attempts or social slights discharges through immediate expression or withdrawal; there is no mechanism for disaffection to accumulate as a collective condition; the emotional residue of this period is absence of record rather than recorded absence of meaning.
+
 
 ## D06. Informational Domain
 

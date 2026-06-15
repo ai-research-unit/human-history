@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rebellion simmers beneath coerced compliance; t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear and resentment pervade the conscript population; compliance is coerced rather than consented; among elites of the conquered states, humiliation and loss fuel latent opposition; the public temper is sullen.
-
 __Leadership & Personal Authority:__ The First Emperor (Qin Shihuang) concentrates personal authority to an unprecedented degree, touring the realm, erecting stone inscriptions proclaiming his achievements; his death triggers succession crisis precisely because no mechanism exists to transfer such concentrated charisma.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on military victory and claimed cosmic mandate, but allegiance is shallow outside the Qin heartland; the ideology of universal empire is proclaimed but not yet internalized by populations recently subjugated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ruling group — the emperor, Chanc
 
 __External Relations & Posture:__ The Xiongnu confederacy on the northern steppe is the primary external threat, prompting the wall-building campaign; southward expansion into the Baiyue regions proceeds through military colonies; the posture is offensive consolidation.
 
+__Public Sentiment & Behavioral Temper:__ Fear and resentment pervade the conscript population; compliance is coerced rather than consented; among elites of the conquered states, humiliation and loss fuel latent opposition; the public temper is sullen.
+
 __Disaffection, Apathy & Spent Will:__ The conscript population's will is spent by 210 BCE; the risings of Chen Sheng, Wu Guang, and the Chu and Han factions channel accumulated grievance; the emotional residue is a dynasty remembered as tyrannical, its achievements appropriated by successors.
+
 
 ## D06. Informational Domain
 

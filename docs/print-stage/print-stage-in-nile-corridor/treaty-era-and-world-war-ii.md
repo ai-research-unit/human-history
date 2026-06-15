@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Black Saturday (January 26, 1952) lies ahead bu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Popular sentiment ranges from resigned collaboration to active hostility toward British presence; summer 1942 brings ambivalent speculation about Axis victory; relief at El Alamein mixes with resentment at continued occupation.
-
 __Leadership & Personal Authority:__ King Farouk's prestige damaged by Abdin humiliation; Wafd leader Mustafa al-Nahhas compromised by British imposition; Hasan al-Banna builds Brotherhood following; underground officer cells await their moment.
 
 __Legitimacy as Lived Allegiance:__ Constitutional system loses legitimacy through British manipulation; neither palace nor Wafd commands unqualified loyalty; revolutionary alternatives gain adherents.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Egyptian elite lacks will or capacity t
 
 __External Relations & Posture:__ Egypt formally neutral until late 1944 declaration of war on Axis; positioned as British client state unable to pursue independent foreign policy; Pan-Arab sentiment grows.
 
+__Public Sentiment & Behavioral Temper:__ Popular sentiment ranges from resigned collaboration to active hostility toward British presence; summer 1942 brings ambivalent speculation about Axis victory; relief at El Alamein mixes with resentment at continued occupation.
+
 __Disaffection, Apathy & Spent Will:__ Wartime generation becomes disillusioned with parliamentary nationalism; cynicism about electoral politics and constitutional forms prepares ground for revolutionary alternative.
+
 
 ## D06. Informational Domain
 

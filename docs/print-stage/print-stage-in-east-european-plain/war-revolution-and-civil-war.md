@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period is maximal disorder — revolution, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The initial revolutionary moment produces euphoria and utopian expectation; by 1920, exhaustion, fear, and disillusionment predominate. Peasants resent requisitioning; workers strike against hunger; soldiers desert. Trust is confined to immediate circles.
-
 __Leadership & Personal Authority:__ Lenin commands Bolshevik allegiance through ideological authority and tactical acumen. Trotsky builds the Red Army and inspires through oratory. Local commanders and commissars exercise personal authority in the chaos. Kerensky fails to command allegiance; White generals lack unified leadership.
 
 __Legitimacy as Lived Allegiance:__ The tsarist regime loses legitimacy by February 1917; the Provisional Government never acquires it. The Bolsheviks claim legitimacy through soviets and class mission, but rely on coercion. Peasants accept Bolshevik land decrees but resist requisitioning.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Bolshevik party exhibits concentrat
 
 __External Relations & Posture:__ The regime signs the Treaty of Brest-Litovsk (March 1918), ceding vast territory to exit the war. Allied intervention supports the Whites but commits insufficiently. The Comintern (1919) promotes world revolution, but no revolution succeeds abroad. By 1921, the regime is isolated but surviving.
 
+__Public Sentiment & Behavioral Temper:__ The initial revolutionary moment produces euphoria and utopian expectation; by 1920, exhaustion, fear, and disillusionment predominate. Peasants resent requisitioning; workers strike against hunger; soldiers desert. Trust is confined to immediate circles.
+
 __Disaffection, Apathy & Spent Will:__ By 1921, all factions are exhausted. The Kronstadt rebellion expresses disillusionment even among revolutionary sailors. The shift to NEP acknowledges that coercion has reached its limit.
+
 
 ## D06. Informational Domain
 

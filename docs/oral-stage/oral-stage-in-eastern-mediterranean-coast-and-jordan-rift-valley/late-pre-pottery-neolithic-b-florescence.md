@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes settle through kin mediation and compe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Village solidarity and lineage loyalty anchor trust; the shared project of intensive farming and ritual sustains cooperative temper; anxiety centers on harvest, herd, and the ancestors' favor.
-
 __Leadership & Personal Authority:__ Lineage elders and ritual specialists hold persuasive authority; leadership is situational and based on skill, age, and ritual efficacy; no chief or king commands obedience; charisma matters but does not institutionalize.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin group and village; legitimacy rests on reciprocity, ancestral sanction, and ritual performance; consent is embedded in daily cooperation, not extracted by force.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for construct
 
 __External Relations & Posture:__ Inter-village relations combine exchange, alliance, and competition; marriage networks and trade partnerships link communities; hostility exists but does not dominate; no expansionist empire emerges.
 
+__Public Sentiment & Behavioral Temper:__ Village solidarity and lineage loyalty anchor trust; the shared project of intensive farming and ritual sustains cooperative temper; anxiety centers on harvest, herd, and the ancestors' favor.
+
 __Disaffection, Apathy & Spent Will:__ Affective exhaustion is not prominent in the record; the period is one of florescence, though late-phase abandonments may signal emerging stress; disaffection does not visibly accumulate until the close.
+
 
 ## D06. Informational Domain
 

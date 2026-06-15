@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry flourishes in the interstices between 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Patriotic fervor surges in 1937–1938 as the nation rallies against invasion; the slogan "War of Resistance to the End" (kangzhan daodi) captures the mood. By 1943–1944, war-weariness, inflation, and defeats erode morale in Free China. In Yan'an, revolutionary enthusiasm is cultivated through campaigns and ideological education.
-
 __Leadership & Personal Authority:__ Chiang Kai-shek embodies national resistance; his authority, though contested, holds the Nationalist coalition together. Mao Zedong consolidates control over the CCP through the Rectification Movement (1942–1944), emerging as unchallenged leader. Wang Jingwei, heading the Japanese puppet government, is reviled as a traitor; his authority depends entirely on Japanese bayonets.
 
 __Legitimacy as Lived Allegiance:__ The Nationalist government claims legitimacy as the legal government resisting invasion; international recognition (League of Nations, later United Nations) supports this claim. The Communists build legitimacy through effective local governance, land reform, and resistance warfare in base areas. The puppet regimes lack popular legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to resist is genuine but uneve
 
 __External Relations & Posture:__ China is an Allied power after Pearl Harbor (December 1941); US aid flows through Lend-Lease, but relations are strained by Chiang's reluctance to engage and by the Stilwell controversy. The Soviet Union aids the CCP indirectly, maintaining formal relations with the Nationalist government. Britain focuses on Burma; China is secondary.
 
+__Public Sentiment & Behavioral Temper:__ Patriotic fervor surges in 1937–1938 as the nation rallies against invasion; the slogan "War of Resistance to the End" (kangzhan daodi) captures the mood. By 1943–1944, war-weariness, inflation, and defeats erode morale in Free China. In Yan'an, revolutionary enthusiasm is cultivated through campaigns and ideological education.
+
 __Disaffection, Apathy & Spent Will:__ By 1944–1945, inflation and defeat in the Ichigo offensive demoralize Free China's population; apathy and cynicism spread. In Yan'an, the Rectification Movement disciplines disaffection through self-criticism and ideological conformity. The spent will of the war years leaves both regimes exhausted.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-shugo conflict simmers beneath surface st
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Surface stability enables cultural refinement while underlying anxiety persists. Elite circles cultivate aesthetic sensitivity; commoners endure taxation and occasional hardship with resignation. Trust extends within patronage networks; broader social trust remains thin. The Kanshō famine and subsequent unrest darken the mood in the 1460s.
-
 __Leadership & Personal Authority:__ Yoshimitsu (r. 1368–1394, d. 1408) establishes strong personal rule; his successors exercise diminishing authority. Yoshinori (r. 1429–1441) attempts reassertion but is assassinated. Leadership depends on managing shugo rivalries. Zen abbots command spiritual authority and cultural influence.
 
 __Legitimacy as Lived Allegiance:__ The reunified imperial house commands symbolic legitimacy; actual governance lies with the shogunate. Shogunal legitimacy derives from imperial appointment and demonstrated ability to maintain order. As shogunal authority weakens, allegiance fragments toward regional lords. Legitimacy thins but does not collapse before 1467.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Early shoguns demonstrate will to gover
 
 __External Relations & Posture:__ Yoshimitsu establishes formal tributary relations with Ming China (1401), accepting the title "King of Japan" — controversial among some Japanese. The tally trade brings economic benefit and cultural prestige. Relations with Korea remain distant. Japanese pirates (wako) continue raiding, complicating diplomacy.
 
+__Public Sentiment & Behavioral Temper:__ Surface stability enables cultural refinement while underlying anxiety persists. Elite circles cultivate aesthetic sensitivity; commoners endure taxation and occasional hardship with resignation. Trust extends within patronage networks; broader social trust remains thin. The Kanshō famine and subsequent unrest darken the mood in the 1460s.
+
 __Disaffection, Apathy & Spent Will:__ Commoner grievance finds expression in debt-cancellation uprisings. Elite factionalism intensifies as shogunal authority weakens. By the 1460s, succession disputes among shugo and within the shogunal house generate crisis. Disaffection accumulates toward the Onin War outbreak in 1467.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Mob violence linked to WhatsApp rumors peaks in
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ WhatsApp forwards shape public mood — outrage cycles, patriotic fervor during cross-border tensions, communal suspicion during riots — the platform's intimacy lending credibility to content that would be scrutinized on public social media.
-
 __Leadership & Personal Authority:__ Political leaders maintain direct channels through broadcast lists and managed groups; Narendra Modi's personal outreach includes WhatsApp; the platform enables parasocial relationships where followers feel direct connection to leaders who communicate through intermediaries.
 
 __Legitimacy as Lived Allegiance:__ Political messaging through WhatsApp reinforces partisan loyalty through in-group sharing; the BJP's sophisticated WhatsApp operation from 2014 onward sets the template other parties attempt to replicate, making the platform central to electoral mobilization.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Protest movements organize through What
 
 __External Relations & Posture:__ Cross-border WhatsApp communication connects Indian diaspora globally; during India-Pakistan tensions, jingoistic content circulates through groups, while the platform also enables back-channel communication that formal diplomacy cannot.
 
+__Public Sentiment & Behavioral Temper:__ WhatsApp forwards shape public mood — outrage cycles, patriotic fervor during cross-border tensions, communal suspicion during riots — the platform's intimacy lending credibility to content that would be scrutinized on public social media.
+
 __Disaffection, Apathy & Spent Will:__ Group fatigue sets in — notification overload, irrelevant forwards, family obligations to respond — leading to muted groups and selective engagement; the platform's ubiquity creates exhaustion alongside connection.
+
 
 ## D06. Informational Domain
 

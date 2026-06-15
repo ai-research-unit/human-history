@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Exposure degrades operations: identified accoun
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Operations target emotional vulnerabilities in foreign societies: fear, anger, racial resentment, political grievance. The content is designed to provoke rather than persuade, exploiting algorithmic amplification of engagement-maximizing (typically inflammatory) material. Success is measured in division sown rather than opinions changed.
-
 __Leadership & Personal Authority:__ Prigozhin provides operational leadership until his death; Putin provides strategic direction and political cover. The relationship is characteristic of Russian hybrid warfare: state direction through formally private actors maintaining deniability.
 
 __Legitimacy as Lived Allegiance:__ Operations possess no legitimate public mandate; they exist through concealment. When exposed, they are denied, then acknowledged as patriotic private initiative, never as state policy. This illegitimacy is structural, not accidental.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Operations reflect persistent Russian s
 
 __External Relations & Posture:__ Information operations constitute asymmetric response to perceived Western information dominance and democracy promotion. The operational posture is offensive—projecting into adversary societies—while the strategic posture is defensive—protecting the Russian political system from democratic contagion.
 
+__Public Sentiment & Behavioral Temper:__ Operations target emotional vulnerabilities in foreign societies: fear, anger, racial resentment, political grievance. The content is designed to provoke rather than persuade, exploiting algorithmic amplification of engagement-maximizing (typically inflammatory) material. Success is measured in division sown rather than opinions changed.
+
 __Disaffection, Apathy & Spent Will:__ Worker disaffection produces whistleblowers (Savchuk's 2015 lawsuit, anonymous informants to journalists). Operational fatigue accumulates as platforms improve detection and legal risks increase. The 2022 invasion and subsequent isolation may reduce labor supply as educated young Russians emigrate.
+
 
 ## D06. Informational Domain
 

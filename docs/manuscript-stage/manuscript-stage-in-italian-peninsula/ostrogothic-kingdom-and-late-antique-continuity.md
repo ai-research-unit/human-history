@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Tensions between Arian Goths and Catholic Roman
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Roman senatorial class initially accepts Gothic rule as preferable to chaos, and Theodoric's early reign enjoys broad legitimacy; religious difference creates underlying tension but is managed through separation; public mood remains guardedly stable until the crises of the 520s.
-
 __Leadership & Personal Authority:__ Theodoric embodies personal authority as both Gothic warrior-king and Roman patrician; his charisma and competence sustain the hybrid regime; after his death, weaker successors fail to maintain this balance; Boethius and Cassiodorus represent senatorial leadership within the Gothic system.
 
 __Legitimacy as Lived Allegiance:__ Theodoric rules as an agent of the Eastern emperor in theory, maintaining the fiction of imperial unity; Gothic warriors owe allegiance to their king; Roman subjects accept the practical legitimacy of effective governance; religious difference undermines deeper integration.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Theodoric's active will shapes the king
 
 __External Relations & Posture:__ Theodoric pursues active diplomacy, creating marriage alliances with Vandal, Visigothic, Burgundian, and Frankish royal houses; relations with Constantinople alternate between cooperation and tension; the Ostrogothic kingdom positions itself as the preeminent power in the post-Roman West.
 
+__Public Sentiment & Behavioral Temper:__ The Roman senatorial class initially accepts Gothic rule as preferable to chaos, and Theodoric's early reign enjoys broad legitimacy; religious difference creates underlying tension but is managed through separation; public mood remains guardedly stable until the crises of the 520s.
+
 __Disaffection, Apathy & Spent Will:__ The execution of Boethius and Symmachus signals a rupture in Romano-Gothic cooperation; Theodoric's final years are marked by suspicion and persecution; after his death, accumulated disaffection among Romans will facilitate Byzantine reconquest; the hybrid system's emotional foundations erode.
+
 
 ## D06. Informational Domain
 

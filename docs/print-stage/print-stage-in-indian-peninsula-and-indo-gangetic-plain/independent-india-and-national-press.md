@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Communal riots recur (Jabalpur 1961 is just out
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-independence optimism ("nation-building") characterizes the Nehruvian era. Trust in the state is high; Nehru's personal authority is immense. Partition trauma lingers but is suppressed.
-
 __Leadership & Personal Authority:__ Nehru dominates; his charisma, eloquence, and vision shape the era. Patel (died 1950) consolidated the union. Regional leaders (Rajagopalachari in Madras, B.C. Roy in Bengal) have significant stature.
 
 __Legitimacy as Lived Allegiance:__ Congress legitimacy is overwhelming; the party wins landslide victories (1952, 1957). Opposition parties (Socialists, Communists, Jan Sangh) are marginal nationally.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state has the will to plan, regulat
 
 __External Relations & Posture:__ Non-alignment is the foreign policy; Nehru co-founds the Non-Aligned Movement (Bandung 1955). Relations with Pakistan are hostile (Kashmir); with China, initially warm (Hindi-Chini bhai-bhai) but cooling (border tensions).
 
+__Public Sentiment & Behavioral Temper:__ Post-independence optimism ("nation-building") characterizes the Nehruvian era. Trust in the state is high; Nehru's personal authority is immense. Partition trauma lingers but is suppressed.
+
 __Disaffection, Apathy & Spent Will:__ By 1960, some idealism fades; the first stirrings of disillusionment with slow development are visible. The Communist victory in Kerala (1957) signals left discontent; its dismissal (1959) signals Congress hegemony.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period ended with Inca conquest of Chimu ar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Subject populations in Chimu's conquered valleys likely experienced rule as extraction rather than reciprocity, given the intensity of labor demands and the concentration of wealth at Chan Chan. Highland populations in independent polities retained stronger ayllu-based trust networks. The fragmented political landscape created multiple local loyalties rather than broad imperial allegiance.
-
 __Leadership & Personal Authority:__ Chimu rulers exercised highly concentrated authority, with each reign marked by construction of a new ciudadela. Royal iconography emphasized the ruler's role as intermediary with cosmic forces and guarantor of irrigation. Highland curacas held more limited authority within ethnic territories, mediating between communities and external powers.
 
 __Legitimacy as Lived Allegiance:__ Chimu legitimacy rested on maintaining irrigation infrastructure and providing for subjects through redistribution. The visible wealth of Chan Chan projected power; whether it inspired allegiance or resentment likely varied by proximity to benefits. Highland polities relied on traditional ayllu loyalties reinforced by shared ethnic identity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Chimu's sustained expansion demonstrate
 
 __External Relations & Posture:__ Chimu's posture was expansionist on the coast, though it may have avoided highland entanglements. Highland polities existed in competitive balance, raiding and negotiating without achieving regional hegemony. The Inca emergence from Cusco around 1400–1438 CE began to reshape the highland system, setting the stage for rapid imperial expansion.
 
+__Public Sentiment & Behavioral Temper:__ Subject populations in Chimu's conquered valleys likely experienced rule as extraction rather than reciprocity, given the intensity of labor demands and the concentration of wealth at Chan Chan. Highland populations in independent polities retained stronger ayllu-based trust networks. The fragmented political landscape created multiple local loyalties rather than broad imperial allegiance.
+
 __Disaffection, Apathy & Spent Will:__ The Chimu collapse under Inca pressure around 1470 CE suggests that accumulated disaffection facilitated conquest — subjects unwilling to fight for rulers who had extracted heavily without adequate reciprocity. Highland polities fragmented in the face of Inca pressure, with some (Lupaca, Chincha) aligning diplomatically rather than resisting.
+
 
 ## D06. Informational Domain
 

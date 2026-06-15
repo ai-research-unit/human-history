@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Post-Biafra ethnic tensions persist beneath Nig
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Oil boom optimism (1970s) gives way to disillusionment as promises fail. Austerity generates resentment; structural adjustment imposed from outside fuels nationalist grievance while domestically directed anger at corruption grows. Trust in political leadership declines across successive failed governments. Radio serves as outlet for regime-approved sentiment, while popular frustration finds expression in music and private discourse.
-
 __Leadership & Personal Authority:__ Military strongmen (Gowon, Murtala, Obasanjo, Buhari, Babangida in Nigeria) and civilian autocrats (Houphouët-Boigny, Eyadéma, Bongo, Traoré) dominate. Personal authority matters more than institutional legitimacy. Broadcasting amplifies leader imagery—presidential speeches, official events—constructing personality cults of varying intensity.
 
 __Legitimacy as Lived Allegiance:__ State legitimacy erodes steadily. Military regimes claim transitional necessity; one-party states claim development imperative. Neither generates deep allegiance beyond patronage beneficiaries. Ethnic and religious identities offer alternative allegiance structures. Broadcasting projects state legitimacy to audiences increasingly skeptical of its claims.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Regime survival preoccupies governing e
 
 __External Relations & Posture:__ Nigerian regional leadership (ECOWAS, 1975) asserts continental role. Francophone states maintain close French ties (CFA zone, military cooperation). Cold War alignments fade in significance. Broadcasting emphasizes national sovereignty and African solidarity while rarely questioning external dependency.
 
+__Public Sentiment & Behavioral Temper:__ Oil boom optimism (1970s) gives way to disillusionment as promises fail. Austerity generates resentment; structural adjustment imposed from outside fuels nationalist grievance while domestically directed anger at corruption grows. Trust in political leadership declines across successive failed governments. Radio serves as outlet for regime-approved sentiment, while popular frustration finds expression in music and private discourse.
+
 __Disaffection, Apathy & Spent Will:__ Popular disillusionment deepens through the 1980s. Brain drain accelerates as educated Africans emigrate. Political participation, where permitted, generates cynicism rather than engagement. Democracy movements emerge by period's end, channeling accumulated disaffection toward systemic change.
+
 
 ## D06. Informational Domain
 

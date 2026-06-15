@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ NEP reduces disorder; crime and banditry declin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ NEP produces relative normalcy and modest optimism. Revolutionary fervor cools into routine. Cynicism grows among cadres; careerism replaces idealism. Peasants are wary of the state. Workers are pragmatic. The mood is neither euphoric nor desperate.
-
 __Leadership & Personal Authority:__ Lenin's authority is supreme until his strokes (1922–1923) and death (1924). The succession struggle pits Trotsky, Zinoviev, Kamenev, Bukharin, and Stalin against each other. Stalin accumulates power through organizational control rather than oratory or charisma. By 1928, he dominates; by 1930, he is unchallenged.
 
 __Legitimacy as Lived Allegiance:__ The party claims legitimacy through the Revolution, the Civil War victory, and socialist construction. Allegiance is enforced through membership, ritual, and career incentives. Passive acceptance predominates; active belief is concentrated in the party core. Peasant allegiance is thin.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party exhibits collective will, tho
 
 __External Relations & Posture:__ The USSR is isolated but seeks normal relations for trade. Diplomatic recognition expands (Britain, France, Germany). The Comintern promotes world revolution but no revolution succeeds. The regime expects capitalist hostility and prepares accordingly. The war scare of 1927 heightens tension.
 
+__Public Sentiment & Behavioral Temper:__ NEP produces relative normalcy and modest optimism. Revolutionary fervor cools into routine. Cynicism grows among cadres; careerism replaces idealism. Peasants are wary of the state. Workers are pragmatic. The mood is neither euphoric nor desperate.
+
 __Disaffection, Apathy & Spent Will:__ NEP exhausts revolutionary élan; routine replaces mobilization. Oppositionists are defeated and demoralized. The party rank-and-file follows leadership. Disaffection exists but is atomized and suppressed.
+
 
 ## D06. Informational Domain
 

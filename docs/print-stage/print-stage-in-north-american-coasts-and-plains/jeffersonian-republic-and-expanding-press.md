@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Burr-Hamilton duel (1804) illustrates elite
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Republican ideology emphasizes civic virtue, agrarian independence, and suspicion of concentrated power. National pride grows after the War of 1812, despite the conflict's military ambiguities; the Battle of New Orleans enters national mythology. Sectional identities begin to crystallize.
-
 __Leadership & Personal Authority:__ Jefferson embodies the philosopher-statesman ideal; Madison and Monroe continue the Virginia dynasty. John Quincy Adams represents learned statesmanship. Andrew Jackson emerges as a charismatic man-of-the-people leader, previewing the democratic politics to come.
 
 __Legitimacy as Lived Allegiance:__ The "Revolution of 1800" establishes peaceful party succession, strengthening constitutional legitimacy. The Era of Good Feelings (1816–1824) masks sectional tensions. The disputed election of 1824, decided by the House, leaves Jackson supporters feeling cheated and eager for 1828.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National will manifests in westward exp
 
 __External Relations & Posture:__ Britain remains the primary rival; the War of 1812 settles Canadian border questions. Spain cedes Florida (1819). The Monroe Doctrine warns European powers against New World intervention. Latin American independence movements receive rhetorical support.
 
+__Public Sentiment & Behavioral Temper:__ Republican ideology emphasizes civic virtue, agrarian independence, and suspicion of concentrated power. National pride grows after the War of 1812, despite the conflict's military ambiguities; the Battle of New Orleans enters national mythology. Sectional identities begin to crystallize.
+
 __Disaffection, Apathy & Spent Will:__ Federalist opposition withers after the Hartford Convention's (1814) taint of secession. New England federalists feel marginalized. Political engagement remains high among the enfranchised, though the property-less, enslaved, and women have no formal voice.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dispersal into new territories may be partly dr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The expanding range requires a temperament capable of tolerating novelty and uncertainty — pioneers entering unfamiliar territory must manage fear while exploiting new opportunities; the sentiment profile likely varies, with more risk-tolerant individuals leading dispersal and more risk-averse individuals remaining in established ranges.
-
 __Leadership & Personal Authority:__ Dispersal may be led by individuals whose movements others follow — the successful forager who knows a route, the dominant individual whose decisions carry weight; leadership remains situational and demonstrated rather than formalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance tracks success; the leader who finds resources in new territory gains followers; the one who leads into scarcity loses them; there is no abstract legitimacy, only the observed outcomes of individual decisions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The collective resolve to move into new
 
 __External Relations & Posture:__ As range expands, encounters with other hominin groups become more frequent; posture varies from avoidance to wary tolerance to affiliation; the spread of Acheulean technology across populations may occur through contact — observation of another group's practice — though the mechanism cannot be directly observed.
 
+__Public Sentiment & Behavioral Temper:__ The expanding range requires a temperament capable of tolerating novelty and uncertainty — pioneers entering unfamiliar territory must manage fear while exploiting new opportunities; the sentiment profile likely varies, with more risk-tolerant individuals leading dispersal and more risk-averse individuals remaining in established ranges.
+
 __Disaffection, Apathy & Spent Will:__ Failed dispersal attempts leave exhausted, depleted groups; individuals who have invested in a move that failed may become followers rather than leaders, their will spent; the residue clears through death, absorption into other groups, or eventual recovery.
+
 
 ## D06. Informational Domain
 

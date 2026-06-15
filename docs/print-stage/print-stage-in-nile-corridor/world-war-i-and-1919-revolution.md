@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1919 revolution is the discharge: strikes, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Wartime resentment at requisitioning, conscription, and foreign rule accumulates silently under martial law; the armistice releases it as hope—Wilson's Fourteen Points suggest self-determination—then fury when the British arrest Zaghlul.
-
 __Leadership & Personal Authority:__ Saad Zaghlul emerges as national leader; his arrest (March 1919) ignites the revolution; his personal authority fuses the nationalist movement, and "Zaghlul" becomes synonymous with Egyptian independence.
 
 __Legitimacy as Lived Allegiance:__ The Khedive's legitimacy, already weakened by foreign control, collapses; Sultan Fuad (installed 1917) is a British creation; popular allegiance transfers to Zaghlul and the Wafd as embodiments of the nation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The revolution demonstrates unprecedent
 
 __External Relations & Posture:__ Egypt's struggle is framed as a claim on the postwar international order; the Wafd seeks a hearing at the Paris Peace Conference; rejection intensifies the sense of imperial betrayal and redirects demands to direct negotiation.
 
+__Public Sentiment & Behavioral Temper:__ Wartime resentment at requisitioning, conscription, and foreign rule accumulates silently under martial law; the armistice releases it as hope—Wilson's Fourteen Points suggest self-determination—then fury when the British arrest Zaghlul.
+
 __Disaffection, Apathy & Spent Will:__ The revolution cannot be sustained indefinitely; by 1921, exhaustion and British concessions lead to negotiation; independence (1922) comes with reservations that leave key issues unresolved, and the will fragments into partisan competition.
+
 
 ## D06. Informational Domain
 

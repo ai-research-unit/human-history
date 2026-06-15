@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Blood feud and vendetta persist as mechanisms o
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A warrior ethos valorizes courage, loyalty to kin and lord, and gift-generosity; shame and honor regulate conduct; trust extends to kindred and sworn companions, suspicion to outsiders.
-
 __Leadership & Personal Authority:__ Kings and chiefs rule by charisma, martial success, and generosity; authority is personal and revocable, renewed by victory and gift-giving, lost by defeat or meanness.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to persons, not offices; followers may abandon a failed leader for a successful rival; legitimacy is earned and continuously performed, not inherited as an office.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Tribal confederations coalesce for larg
 
 __External Relations & Posture:__ Relations with Rome oscillate between trade, mercenary service, raiding, and open war; Marcomannic Wars (166–180 CE) and third-century incursions demonstrate the capacity for coordinated assault, while frontier treaties create client relationships and subsidies that bind some leaders to Roman interests.
 
+__Public Sentiment & Behavioral Temper:__ A warrior ethos valorizes courage, loyalty to kin and lord, and gift-generosity; shame and honor regulate conduct; trust extends to kindred and sworn companions, suspicion to outsiders.
+
 __Disaffection, Apathy & Spent Will:__ Failure in war, broken gift-exchange, or kinship betrayal breeds disaffection; followers desert failed leaders, and tribal confederations dissolve into constituent kindreds without lasting institutional damage.
+
 
 ## D06. Informational Domain
 

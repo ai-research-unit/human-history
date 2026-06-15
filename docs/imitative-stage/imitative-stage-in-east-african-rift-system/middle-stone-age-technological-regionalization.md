@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tensions resolve through fission: dissat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The affective life remains inaccessible to direct observation. The evidence of sustained cooperative behavior, care for injured individuals shown by healed fractures, and long-distance raw material transport suggests trust extending beyond immediate kin. Public sentiment likely oscillates with resource conditions, with security and abundance generating generosity and scarcity producing caution.
-
 __Leadership & Personal Authority:__ Leadership emerges situationally from demonstrated skill: the best tracker leads the hunt, the most experienced woman guides gathering expeditions. Personal authority cannot be institutionalized or inherited; it must be continuously demonstrated and can be withdrawn if performance falters.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to persons and bands rather than abstract institutions. Legitimacy flows from consistent provision of benefits and fair treatment. Those who fail these tests lose followers to other groups.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action depends on voluntary 
 
 __External Relations & Posture:__ Relations between bands range from alliance and intermarriage to avoidance and hostility. External posture is defensive and cautious, with groups assessing unknown others as potential threats or potential mates and allies. The regional technological variants suggest limited regular interaction across distances, with each cluster maintaining its own traditions.
 
+__Public Sentiment & Behavioral Temper:__ The affective life remains inaccessible to direct observation. The evidence of sustained cooperative behavior, care for injured individuals shown by healed fractures, and long-distance raw material transport suggests trust extending beyond immediate kin. Public sentiment likely oscillates with resource conditions, with security and abundance generating generosity and scarcity producing caution.
+
 __Disaffection, Apathy & Spent Will:__ Individual disaffection resolves through departure; the disaffected can exit. Apathy in small face-to-face groups is socially costly and likely corrected through direct intervention by concerned kin. Collective failure of will manifests as band dissolution rather than institutional decay.
+
 
 ## D06. Informational Domain
 

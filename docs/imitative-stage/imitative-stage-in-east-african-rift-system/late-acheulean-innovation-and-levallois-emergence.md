@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over mates, food shares, or territory 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Group mood tracks immediate circumstances—satiation versus hunger, security versus threat. Trust extends to familiar band members and contracts toward strangers. The long temporal scale of the trend imposes no coherent public sentiment; affect remains local and immediate.
-
 __Leadership & Personal Authority:__ Leadership is situational and demonstrated: the expert knapper leads reduction sessions, the skilled tracker leads hunts. Authority does not accumulate or transfer beyond the leader's presence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to individuals who deliver—meat, tools, guidance—and withdraws from those who fail. Legitimacy is continuously re-earned.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires co-presence 
 
 __External Relations & Posture:__ Encounters with other bands are infrequent, ambivalent—potential mates and technique sources, but also competitors. Posture calibrates between avoidance, display, and occasional violence.
 
+__Public Sentiment & Behavioral Temper:__ Group mood tracks immediate circumstances—satiation versus hunger, security versus threat. Trust extends to familiar band members and contracts toward strangers. The long temporal scale of the trend imposes no coherent public sentiment; affect remains local and immediate.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged resource failure or loss of key members may erode cooperation, leading to band dissolution. No mechanism exists to recover collective will once spent.
+
 
 ## D06. Informational Domain
 

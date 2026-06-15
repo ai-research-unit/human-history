@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharged through mobility —
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment oscillated with subsistence success: elation after a mammoth kill, anxiety during lean seasons; trust extended to kin and known band members, suspicion toward strangers until vouched for; behavioral temper cautious — risk aversion high given thin margins — but capable of collective boldness when hunting demanded it.
-
 __Leadership & Personal Authority:__ Leadership situational: the best hunter led the hunt, the best speaker mediated disputes, the shaman led ritual; no permanent chief; authority earned by demonstration and confirmed by oral acclaim; followers obeyed because the leader was right, not because the leader commanded; personal pull ephemeral.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy resided in the oral tradition and the continuous re-enactment of custom; allegiance to the band was lived through daily sharing and seasonal reunion; no abstract ideology; disaffection resolved by departure rather than rebellion; allegiance strong but exit easy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilized for the hunt,
 
 __External Relations & Posture:__ Relations with other bands oscillated between alliance (exchange, intermarriage) and avoidance or conflict (competition for resources); no permanent enemies or allies; posture flexible, adapting to circumstance; expansion not a goal — territory was too vast and population too thin for conquest to make sense.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment oscillated with subsistence success: elation after a mammoth kill, anxiety during lean seasons; trust extended to kin and known band members, suspicion toward strangers until vouched for; behavioral temper cautious — risk aversion high given thin margins — but capable of collective boldness when hunting demanded it.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection cleared by mobility: the unhappy departed; apathy rare in small groups where every hand was needed; spent will expressed as withdrawal rather than revolt; residue low, discharged by the porosity of social structure.
+
 
 ## D06. Informational Domain
 

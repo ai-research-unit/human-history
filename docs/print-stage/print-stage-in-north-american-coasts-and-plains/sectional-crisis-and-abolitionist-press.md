@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence escalates throughout the period: Bleed
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sectional antagonism intensifies across the decade. The Fugitive Slave Act (1850) — requiring Northern citizens to assist in capturing escaped persons — outrages Northern moral sentiment and radicalizes previously moderate opinion. Southern opinion hardens around slavery defense; talk of secession, once marginal, becomes mainstream by 1860. Fear dominates both sections: Northerners fear a "Slave Power" conspiracy to nationalize slavery; Southerners fear abolition and race war.
-
 __Leadership & Personal Authority:__ The great compromisers die or retire: Clay (1852), Webster (1852), Calhoun (1850). A new generation proves less able to broker sectional deals: Stephen Douglas's popular sovereignty formula pleases no one; James Buchanan's weak presidency satisfies neither section. Abraham Lincoln emerges from the 1858 Senate debates as a compelling Northern voice; his "House Divided" speech articulates the sense that the Union cannot permanently endure half slave and half free.
 
 __Legitimacy as Lived Allegiance:__ Federal legitimacy erodes in both sections. Southerners view Republican electoral success as grounds for leaving the Union; the party's exclusion from Southern ballots in 1860 underscores the collapse of national political competition. Northern abolitionists proclaim the Constitution a "covenant with death" (Garrison); others insist it can be read as antislavery. States resist federal authority: Northern states pass personal liberty laws nullifying the Fugitive Slave Act; South Carolina contemplates nullification of federal tariffs.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Republican Party coalesces (1854–
 
 __External Relations & Posture:__ The United States remains focused on continental expansion. Britain and France watch American developments with interest; British textile mills depend on Southern cotton, but British public opinion increasingly opposes slavery. Southern leaders fantasize about Caribbean expansion to add slave states; filibustering expeditions target Cuba and Central America.
 
+__Public Sentiment & Behavioral Temper:__ Sectional antagonism intensifies across the decade. The Fugitive Slave Act (1850) — requiring Northern citizens to assist in capturing escaped persons — outrages Northern moral sentiment and radicalizes previously moderate opinion. Southern opinion hardens around slavery defense; talk of secession, once marginal, becomes mainstream by 1860. Fear dominates both sections: Northerners fear a "Slave Power" conspiracy to nationalize slavery; Southerners fear abolition and race war.
+
 __Disaffection, Apathy & Spent Will:__ Moderate voices exhaust themselves seeking compromise. The Constitutional Union Party (1860) offers only "the Constitution and the Union" as a platform, unable to propose substantive resolution. The center cannot hold; the political system's capacity for sectional bargaining is spent.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Interpersonal conflict resolution continued thr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline is inaccessible. The sustained occupation of the region across the technological transition suggests continued group cohesion and a trust radius extending at least across the band. Risk perception was calibrated to drought, predation, and resource scarcity.
-
 __Leadership & Personal Authority:__ Leadership remained situational and task-specific. The skilled knapper who could demonstrate Fauresmith techniques may have held temporary authority in that domain without broader leadership status.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to the band as survival unit. Legitimacy was enacted through participation and reciprocity, not articulated or theorized.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will manifested in coordinat
 
 __External Relations & Posture:__ Relations between bands are invisible in the record. Seasonal aggregation suggests at minimum tolerance and likely cooperation between neighboring groups. Posture toward distant strangers is unknown.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline is inaccessible. The sustained occupation of the region across the technological transition suggests continued group cohesion and a trust radius extending at least across the band. Risk perception was calibrated to drought, predation, and resource scarcity.
+
 __Disaffection, Apathy & Spent Will:__ The residue of spent will is undetectable. Site abandonment may reflect resource failure rather than social collapse.
+
 
 ## D06. Informational Domain
 

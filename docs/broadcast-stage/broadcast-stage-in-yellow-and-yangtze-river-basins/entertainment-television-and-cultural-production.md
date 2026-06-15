@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Entertainment provides escapism that functions 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Programming calibrates to audience mood, with escapist entertainment predominating during politically tense periods while confident programming reflects official optimism during stability, and producers developing sensitivity to shifting emotional climates.
-
 __Leadership & Personal Authority:__ Celebrity culture emerges as entertainment commercializes, with star performers acquiring fan followings and public influence that occasionally requires management when celebrities become politically inconvenient.
 
 __Legitimacy as Lived Allegiance:__ Historical dramas reinforce legitimating narratives by depicting revolutionary struggles, ancient dynastic glory, and party-led modernization, with entertainment serving propaganda functions through engaging storytelling rather than didactic messaging.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Major productions celebrating national 
 
 __External Relations & Posture:__ International co-productions and format licensing increase as the industry globalizes, with Korean and Japanese program imports creating competitive pressure that drives domestic production quality while raising concerns about cultural influence.
 
+__Public Sentiment & Behavioral Temper:__ Programming calibrates to audience mood, with escapist entertainment predominating during politically tense periods while confident programming reflects official optimism during stability, and producers developing sensitivity to shifting emotional climates.
+
 __Disaffection, Apathy & Spent Will:__ Audience fatigue with propaganda content drives producers toward entertainment that engages rather than instructs, with declining tolerance for didactic programming forcing adaptation that maintains party approval while securing audience attention.
+
 
 ## D06. Informational Domain
 

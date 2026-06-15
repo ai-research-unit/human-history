@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Trophy-head taking channeled inter-community vi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Community sentiment centered on shared ritual obligation and water anxiety. The geoglyphs express collective devotion and coordination; their creation and maintenance required sustained communal commitment. The mood was probably anxious — water scarcity demanded constant propitiation.
-
 __Leadership & Personal Authority:__ No evidence of charismatic divine kings as in Moche. Leadership appears more diffuse, operating through ritual specialists and community heads. The massive ceremonial center at Cahuachi suggests pilgrimage-based authority rather than political centralization.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derived from effective ritual performance — ceremonies that brought water and fertility. Leaders who maintained puquios and performed proper rites commanded allegiance. Failure to deliver — drought despite ritual effort — would erode legitimacy catastrophically.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The geoglyphs demonstrate remarkable co
 
 __External Relations & Posture:__ Nazca maintained exchange relations with highland cultures and coastal neighbors. Trophy-head warfare suggests periodic conflict. No evidence of systematic conquest or defensive alliance. The posture was localized and ritually focused rather than expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Community sentiment centered on shared ritual obligation and water anxiety. The geoglyphs express collective devotion and coordination; their creation and maintenance required sustained communal commitment. The mood was probably anxious — water scarcity demanded constant propitiation.
+
 __Disaffection, Apathy & Spent Will:__ Site abandonment and declining construction at Cahuachi and elsewhere after 550 CE indicate failing commitment. Extended drought — rituals that no longer worked — probably shattered confidence in the system. The collapse by 600 CE left the geoglyphs orphaned, their meaning inaccessible without the oral traditions that once animated them.
+
 
 ## D06. Informational Domain
 

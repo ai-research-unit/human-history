@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warfare, banditry, and disorder increase; texts
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pessimistic literature emerges (Admonitions of Ipuwer, Prophecy of Neferti—though possibly composed later, they reflect memory of this period); public mood darkens; trust contracts to the local community.
-
 __Leadership & Personal Authority:__ Nomarchs become the charismatic locus of authority; figures like Ankhtifi of Mo'alla and later Mentuhotep II at Thebes command personal allegiance in the absence of effective kingship.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy collapses; competing dynasties at Herakleopolis and Thebes each claim kingship but neither commands universal allegiance; legitimacy fragments to the nome level.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Theban Dynasty 11 gradually consolidate
 
 __External Relations & Posture:__ External relations contract; Nubia and the Levant recede from Egyptian concern; provinces focus inward; no significant foreign policy exists until Theban reunification.
 
+__Public Sentiment & Behavioral Temper:__ Pessimistic literature emerges (Admonitions of Ipuwer, Prophecy of Neferti—though possibly composed later, they reflect memory of this period); public mood darkens; trust contracts to the local community.
+
 __Disaffection, Apathy & Spent Will:__ The collapse of the Old Kingdom generates profound disaffection; the period represents spent will at the civilizational scale, only re-anchored by Theban military success.
+
 
 ## D06. Informational Domain
 

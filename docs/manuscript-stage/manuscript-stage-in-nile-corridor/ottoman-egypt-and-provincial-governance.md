@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Factional struggles among Mamluk beys produce e
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The population accepts Ottoman-Mamluk rule with resignation rather than enthusiasm. Popular sentiment is localized — loyalty to quarter, guild, order, or saint rather than to the provincial state. Distrust of tax collectors and military elites is pervasive. Periodic riots over bread prices express grievance. No revolutionary sentiment develops.
-
 __Leadership & Personal Authority:__ Power is personal and factional. Mamluk beys — Ridwan Bey, Ali Bey al-Kabir (1760s–1770s), Ibrahim and Murad Bey — accumulate followers through patronage and military prowess. Ottoman pashas lack local power bases and rotate rapidly. Ulama leaders command religious authority. No figure achieves unchallenged dominance until Muhammad Ali after 1805.
 
 __Legitimacy as Lived Allegiance:__ The Ottoman sultan's legitimacy rests on Islamic authority — caliph of Sunni Islam, protector of the holy cities. Allegiance is formal rather than fervent. Mamluk beys claim no ideological legitimacy; they hold power through force and patronage. The ulama legitimize order through religious sanction. Copts and Jews accept dhimmi status as protection.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is fragmented among com
 
 __External Relations & Posture:__ Egypt is a province, not a sovereign actor. Relations with Istanbul oscillate between submission and autonomy-seeking. Trade relations with European powers (France, Venice, Britain) proceed through consular frameworks. Egypt participates in Ottoman wars when called upon. The Red Sea and Hijaz fall within Egyptian administrative orbit. Ali Bey's Syrian adventure represents the maximum assertion of external ambition.
 
+__Public Sentiment & Behavioral Temper:__ The population accepts Ottoman-Mamluk rule with resignation rather than enthusiasm. Popular sentiment is localized — loyalty to quarter, guild, order, or saint rather than to the provincial state. Distrust of tax collectors and military elites is pervasive. Periodic riots over bread prices express grievance. No revolutionary sentiment develops.
+
 __Disaffection, Apathy & Spent Will:__ Elite will is consumed by factional struggle. Popular apathy prevails; the population neither supports nor resists rulers vigorously. The system drifts without transformative energy. By 1798, no reserve of collective will exists to resist French invasion effectively.
+
 
 ## D06. Informational Domain
 

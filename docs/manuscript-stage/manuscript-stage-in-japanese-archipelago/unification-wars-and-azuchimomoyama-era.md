@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The transition to peace created structural unem
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ War-weariness and longing for peace coexisted with admiration for successful warlords; the dramatic rise of Hideyoshi from peasant to ruler captured popular imagination; religious movements continued to offer consolation and community.
-
 __Leadership & Personal Authority:__ Nobunaga combined ruthless violence with cultural patronage; Hideyoshi added diplomatic skill and organizational genius; Ieyasu embodied patient calculation; all three commanded intense personal loyalty from their followers while inspiring fear in opponents.
 
 __Legitimacy as Lived Allegiance:__ Imperial appointment provided formal legitimation — Nobunaga never sought the shogunate, Hideyoshi became kampaku (regent), Ieyasu would become shogun — but real authority derived from military success and administrative effectiveness; oaths of loyalty documented in written pledges bound vassals to lords.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The unifiers demonstrated extraordinary
 
 __External Relations & Posture:__ Hideyoshi's Korean invasions (1592-1598) represented aggressive external posture unprecedented in Japanese history; the stated goal of conquering Ming China proved wildly unrealistic; relations with Europeans combined commercial interest with growing concern about Christian proselytizing.
 
+__Public Sentiment & Behavioral Temper:__ War-weariness and longing for peace coexisted with admiration for successful warlords; the dramatic rise of Hideyoshi from peasant to ruler captured popular imagination; religious movements continued to offer consolation and community.
+
 __Disaffection, Apathy & Spent Will:__ Resistance to unification was suppressed violently; the Ikko-ikki leagues were destroyed; Christian communities faced increasing suspicion; defeated samurai faced dispossession and social death; by 1600 the will to resist Tokugawa hegemony was largely exhausted.
+
 
 ## D06. Informational Domain
 

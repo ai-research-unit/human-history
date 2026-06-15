@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The residue accumulates as institutional rigidi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Provincial broadcasting both reflects and shapes regional sentiment, with local news and entertainment calibrated to provincial audiences whose identity and emotional investment differ from a generic national audience; Cantonese programming in Guangdong, Shanghainese in Shanghai, maintain linguistic-emotional connections the national system cannot provide.
-
 __Leadership & Personal Authority:__ Provincial broadcast executives exercise substantial authority over programming within party guidelines, with figures like Ouyang Changlin at Hunan TV becoming regionally influential through entertainment success that translates into political standing.
 
 __Legitimacy as Lived Allegiance:__ The provincial tier maintains local legitimacy by demonstrating attention to regional concerns—provincial news, local cultural content, dialect programming—that a purely central system would flatten into homogenized national messaging.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Provincial broadcasting mobilizes regio
 
 __External Relations & Posture:__ Coastal provincial broadcasters in Guangdong and Fujian navigate complex relations with Hong Kong, Taiwan, and overseas Chinese audiences, with their programming crossing borders in ways that require careful management of both commercial opportunity and political sensitivity.
 
+__Public Sentiment & Behavioral Temper:__ Provincial broadcasting both reflects and shapes regional sentiment, with local news and entertainment calibrated to provincial audiences whose identity and emotional investment differ from a generic national audience; Cantonese programming in Guangdong, Shanghainese in Shanghai, maintain linguistic-emotional connections the national system cannot provide.
+
 __Disaffection, Apathy & Spent Will:__ The residue manifests as creative exhaustion within commercial constraints: the pressure for ratings-driven entertainment combined with ideological boundaries produces cycles of format innovation and imitative decline, with provincial programmers struggling to maintain audience engagement without crossing content limits.
+
 
 ## D06. Informational Domain
 

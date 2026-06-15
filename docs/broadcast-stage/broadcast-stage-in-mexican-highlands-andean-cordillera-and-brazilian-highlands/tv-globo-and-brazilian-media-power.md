@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor grievances generate periodic disputes but
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Globo programming cultivates sentimental engagement — telenovela melodrama, Carnaval spectacle, soccer passion — while historically discouraging critical political engagement; audiences develop deep emotional attachments to characters, performers, and the network itself as national institution.
-
 __Leadership & Personal Authority:__ Roberto Marinho exercised personal authority over Globo for decades, maintaining relationships with successive military and civilian presidents; his 2003 death transfers control to three sons who share authority less decisively; editorial direction remains conservative.
 
 __Legitimacy as Lived Allegiance:__ During military period (1964-1985), Globo coverage presents authoritarian rule as necessary modernization; Globo's 1984 coverage of Diretas Já movement (initially suppressed, then embraced) exemplifies calculated legitimacy management; democratic transition sees Globo positioning as neutral arbiter.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Globo historically channels political e
 
 __External Relations & Posture:__ Globo projects Brazilian soft power throughout Portuguese-speaking world and beyond; telenovelas shape global perceptions of Brazil; rivalry with Televisa defines continental competition; Globo's production values exceed competitors, sustaining prestige position.
 
+__Public Sentiment & Behavioral Temper:__ Globo programming cultivates sentimental engagement — telenovela melodrama, Carnaval spectacle, soccer passion — while historically discouraging critical political engagement; audiences develop deep emotional attachments to characters, performers, and the network itself as national institution.
+
 __Disaffection, Apathy & Spent Will:__ Decades of managed coverage generate cynicism among educated audiences; "PIG" (Partido da Imprensa Golpista) epithet gains currency among PT supporters; youth disaffection accelerates after 2010 as social media provides alternative public sphere; traditional broadcast authority erodes.
+
 
 ## D06. Informational Domain
 

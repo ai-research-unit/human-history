@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Youth unemployment generates discontent that ro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pandemic fatigue, economic anxiety, and post-lockdown trauma define the period; nationalism remains a mobilizable resource but enthusiasm dims; youth cynicism spreads through coded online discourse evading censorship; the ambient mood darkens.
-
 __Leadership & Personal Authority:__ Xi Jinping consolidates unprecedented power at the 20th Party Congress (October 2022), securing a third term and stacking the Politburo Standing Committee with loyalists; personal authority reaches its apex; tech founders retreat into obscurity.
 
 __Legitimacy as Lived Allegiance:__ The abrupt end of zero-COVID in December 2022 strains the implicit bargain of competent authoritarianism; economic slowdown tests the performance-based legitimacy that underwrote the party's post-1989 rule; allegiance remains but is tested by visible policy failures.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party demonstrates formidable will 
 
 __External Relations & Posture:__ US-China competition intensifies; chip export controls feel like containment; wolf-warrior diplomacy persists but yields diminishing returns; relations with Europe cool; isolation from Western technology ecosystems becomes the new strategic environment.
 
+__Public Sentiment & Behavioral Temper:__ Pandemic fatigue, economic anxiety, and post-lockdown trauma define the period; nationalism remains a mobilizable resource but enthusiasm dims; youth cynicism spreads through coded online discourse evading censorship; the ambient mood darkens.
+
 __Disaffection, Apathy & Spent Will:__ The lying-flat phenomenon spreads beyond meme to lived reality; young graduates reject the striving demanded of previous cohorts; the will to work, marry, and reproduce flags; disaffection routes into private retreat rather than public challenge, but the spent will accumulates as demographic fact.
+
 
 ## D06. Informational Domain
 

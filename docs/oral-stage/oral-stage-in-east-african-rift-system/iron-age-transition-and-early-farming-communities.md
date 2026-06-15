@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuds and land disputes generate friction; comp
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of expansive confidence: new land is available, iron tools multiply productivity, and populations are growing. Trust extends within kinship and community; strangers are viewed with caution but can be incorporated. Fear centers on rain failure, disease, and raiding. The mood is generally positive; the frontier is open.
-
 __Leadership & Personal Authority:__ Leadership is personal and emerging. Lineage heads govern through seniority and wisdom; successful farmers and smiths gain prestige. Chiefs (where they exist) lead through generosity, oratory, and ritual authority. Leadership is not yet institutionalized; authority must be continually earned. Big men rise and fall with fortune.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin, lineage, and local community; loyalty to chiefs (where present) is conditional on their success and generosity. Legitimacy rests on demonstrated effectiveness and adherence to custom. There is no abstract state demanding loyalty; the political unit is intimate and personal.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for defens
 
 __External Relations & Posture:__ Relations with neighboring communities range from alliance and intermarriage to raiding and feud. Pastoralists in the rift and foragers in the forests are neighbors with whom farming communities interact through trade, competition, and assimilation. No external state threatens; the region is beyond the reach of major polities. Expansion is into available land, not conquest of organized rivals.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of expansive confidence: new land is available, iron tools multiply productivity, and populations are growing. Trust extends within kinship and community; strangers are viewed with caution but can be incorporated. Fear centers on rain failure, disease, and raiding. The mood is generally positive; the frontier is open.
+
 __Disaffection, Apathy & Spent Will:__ In good times, disaffection is low; the expanding system provides opportunity. Harvest failure, disease, or raiding losses can produce despair. Recovery depends on kinship networks and the availability of new land. The residue of spent will is absorbed through mobility and redistribution; structural disaffection is not yet present.
+
 
 ## D06. Informational Domain
 

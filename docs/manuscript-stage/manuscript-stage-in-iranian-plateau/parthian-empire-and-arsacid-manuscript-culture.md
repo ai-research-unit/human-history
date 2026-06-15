@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes and noble rivalries generat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Iranian cultural pride persists through the Hellenistic overlay; loyalty attaches to local lords and the broader Iranian identity rather than the distant Arsacid court; public sentiment is stable but not deeply invested in the dynasty itself.
-
 __Leadership & Personal Authority:__ The Arsacid king-of-kings holds nominal supreme authority, but real power depends on managing noble factions and demonstrating military success; individual rulers vary widely in effectiveness; the system tolerates weak kings but cannot produce sustained strong leadership.
 
 __Legitimacy as Lived Allegiance:__ Arsacid legitimacy rests on Iranian royal tradition and military prowess against Rome; the dynasty's claim weakens through succession disputes and noble resistance; by the late period, allegiance has eroded significantly among the nobility.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The decentralized structure fragments p
 
 __External Relations & Posture:__ The Parthian-Roman rivalry defines the era; repeated wars over Armenia and Mesopotamia produce stalemates; diplomatic exchanges and trade continue between conflicts; the eastern frontier with nomadic peoples requires ongoing attention; the posture is defensive with periodic offensive capability.
 
+__Public Sentiment & Behavioral Temper:__ Iranian cultural pride persists through the Hellenistic overlay; loyalty attaches to local lords and the broader Iranian identity rather than the distant Arsacid court; public sentiment is stable but not deeply invested in the dynasty itself.
+
 __Disaffection, Apathy & Spent Will:__ By the late Arsacid period, noble disaffection and dynastic exhaustion accumulate; the system has depleted its capacity for renewal; when Ardashir of Persis challenges Artabanus IV, the nobility largely abandons the Arsacids, marking the exhaustion of Parthian political will.
+
 
 ## D06. Informational Domain
 

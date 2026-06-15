@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder is total in war zones: murder, rape, p
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confessional hatred dominates pre-war and early-war sentiment. Protestants see Catholics as idolaters; Catholics see Protestants as heretics. As war drags on, exhaustion replaces fervor. By 1648, the will to fight is spent.
-
 __Leadership & Personal Authority:__ Confessional polarization produces no single dominant leader. Gustavus Adolphus commands Swedish intervention but dies at Lutzen (1632). Wallenstein commands the Imperial army but is assassinated (1634). The Emperor Ferdinand II is determined but cannot control events.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy erodes as the Emperor fails to protect his subjects or impose order. Territorial princes claim sovereignty. The Peace of Westphalia recognizes their near-sovereignty, fragmenting the Empire into hundreds of de facto independent states.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will for war exhausts itself. The Peace
 
 __External Relations & Posture:__ France and Sweden intervene decisively; the war becomes European rather than German. Habsburg Spain supports the Emperor; the Dutch Republic (fighting Spain) supports Protestants. The settlement at Westphalia is European, not merely German.
 
+__Public Sentiment & Behavioral Temper:__ Confessional hatred dominates pre-war and early-war sentiment. Protestants see Catholics as idolaters; Catholics see Protestants as heretics. As war drags on, exhaustion replaces fervor. By 1648, the will to fight is spent.
+
 __Disaffection, Apathy & Spent Will:__ By 1648, the German lands are spent. Confessional zeal has burned itself out. The settlement's tolerance of confessional coexistence (cuius regio persists but Reformed is added; 1624 normative year for ecclesiastical property) reflects exhaustion more than principle.
+
 
 ## D06. Informational Domain
 

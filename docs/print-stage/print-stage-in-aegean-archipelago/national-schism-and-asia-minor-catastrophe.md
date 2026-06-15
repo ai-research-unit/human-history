@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence marked the schism — assass
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National confidence peaked after the Balkan Wars — the Great Idea appeared achievable; the schism divided this enthusiasm into bitter factional hatred; the 1922 catastrophe produced collective trauma, rage, and the search for scapegoats.
-
 __Leadership & Personal Authority:__ Venizelos embodied modernizing nationalism, commanding fervent loyalty from supporters and intense hatred from opponents; King Constantine possessed legitimacy among traditionalists and the army; neither could govern with the other's faction, and neither would yield.
 
 __Legitimacy as Lived Allegiance:__ The schism eroded constitutional legitimacy; each side regarded the other's rule as illegitimate usurpation; the 1920 plebiscite restoring Constantine was rejected by Venizelists as manipulated, while royalists viewed Allied intervention as foreign tyranny.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Venizelist Greece entered World War I s
 
 __External Relations & Posture:__ Greece aligned with the Entente under Venizelos, gaining a seat at Paris Peace Conference; royalist restoration alienated Britain and France, who withdrew financial and military support; Kemalist Turkey exploited Greek isolation, while Italy and France armed Turkish nationalists.
 
+__Public Sentiment & Behavioral Temper:__ National confidence peaked after the Balkan Wars — the Great Idea appeared achievable; the schism divided this enthusiasm into bitter factional hatred; the 1922 catastrophe produced collective trauma, rage, and the search for scapegoats.
+
 __Disaffection, Apathy & Spent Will:__ The 1922 catastrophe exhausted national ambition; the generation that had believed in the Great Idea confronted its impossibility; revolutionary tribunals channeled rage but could not restore faith in the state's capacity.
+
 
 ## D06. Informational Domain
 

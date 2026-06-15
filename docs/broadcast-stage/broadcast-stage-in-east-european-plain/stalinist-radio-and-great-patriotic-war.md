@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Terror eliminates opposition but also competent
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear pervades under terror; war transforms fear into patriotic mobilization. Levitan's voice — the only source of official news — becomes the emotional anchor of the population's shared experience.
-
 __Leadership & Personal Authority:__ Stalin's cult of personality reaches its apex; his rare broadcasts carry overwhelming authority. Party leaders below him remain interchangeable, their authority derived entirely from Stalin's favor.
 
 __Legitimacy as Lived Allegiance:__ Terror compels outward compliance; war generates genuine patriotic mobilization. The Great Patriotic War — broadcast as existential defense of the Motherland — creates legitimacy that decades of peacetime propaganda could not.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime's will is Stalin's will, abs
 
 __External Relations & Posture:__ Alliance with Western powers from 1941 enables Lend-Lease aid; broadcasting presents the alliance while maintaining ideological hostility. Victory makes the USSR a superpower; the Cold War posture emerges immediately.
 
+__Public Sentiment & Behavioral Temper:__ Fear pervades under terror; war transforms fear into patriotic mobilization. Levitan's voice — the only source of official news — becomes the emotional anchor of the population's shared experience.
+
 __Disaffection, Apathy & Spent Will:__ Terror suppresses visible disaffection; informers report any deviation. Wartime exhaustion accumulates in bodies but broadcasting permits only displays of resolve. The true cost registers only in private grief.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Factional conflicts, personal disputes, and bur
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The exile community operates under sustained emotional strain — grief for the lost homeland, rage at ongoing atrocities, hope for change followed by repeated disappointments, and the peculiar guilt of safety while compatriots face repression; audience sentiment inside Russia shifts from receptive curiosity (2012-2021) toward defensive hostility or frightened disengagement (2022-2026) as war polarizes the population.
-
 __Leadership & Personal Authority:__ Key figures — Alexei Navalny until his death in 2024, Meduza editor Galina Timchenko, TV Rain's Natalya Sindeeva, investigative journalist Christo Grozev — command personal authority that transcends institutional roles; Navalny's death creates a leadership vacuum that no successor figure fills with equivalent charismatic pull.
 
 __Legitimacy as Lived Allegiance:__ Exile media claim legitimacy as truth-tellers against state lies, a claim that resonates with the educated urban minority that forms their core audience but lacks purchase with the majority that either supports the regime or has disengaged from political information entirely; legitimacy is constantly contested by Russian state media labeling exiles as foreign agents, traitors, and Western puppets.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve sustains through sha
 
 __External Relations & Posture:__ Exile media maintain complex relationships with Western governments, foundations, and platforms — dependent on their support, wary of being instrumentalized, and navigating the accusation that Western funding proves their status as foreign agents; relations with Ukrainian civil society shift from solidarity to occasional friction over coverage decisions.
 
+__Public Sentiment & Behavioral Temper:__ The exile community operates under sustained emotional strain — grief for the lost homeland, rage at ongoing atrocities, hope for change followed by repeated disappointments, and the peculiar guilt of safety while compatriots face repression; audience sentiment inside Russia shifts from receptive curiosity (2012-2021) toward defensive hostility or frightened disengagement (2022-2026) as war polarizes the population.
+
 __Disaffection, Apathy & Spent Will:__ Burnout and disaffection represent ongoing attrition vectors, with journalists leaving active work, audiences losing interest, and donors redirecting attention to other causes; the death of Navalny in February 2024 produces acute collective grief followed by existential questioning about whether resistance has achieved anything, a spiritual crisis incompletely resolved by the time of writing.
+
 
 ## D06. Informational Domain
 

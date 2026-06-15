@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The inability to document abuses during shutdow
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shutdowns generate anger and reinforce perceptions of state hostility to citizens; the experience of disconnection during crises breeds lasting distrust of both government and the telecommunications companies that comply.
-
 __Leadership & Personal Authority:__ Sisi and Sudan's military leaders use shutdowns to demonstrate control capacity, but the tactic signals fear of popular communication; it is defensive rather than projecting strength.
 
 __Legitimacy as Lived Allegiance:__ Each shutdown erodes the social contract, as citizens experience the state actively severing their connections to information, family, and economic life; legitimacy cannot survive repeated demonstrations that the state treats connectivity as a threat.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Protest movements in both countries hav
 
 __External Relations & Posture:__ International criticism of shutdowns creates diplomatic friction; Egypt faces European Parliament resolutions and NGO reports documenting blocking, though sanctions or substantive pressure remain absent.
 
+__Public Sentiment & Behavioral Temper:__ Shutdowns generate anger and reinforce perceptions of state hostility to citizens; the experience of disconnection during crises breeds lasting distrust of both government and the telecommunications companies that comply.
+
 __Disaffection, Apathy & Spent Will:__ The cumulative experience of shutdowns contributes to political exhaustion, as citizens internalize that the state will sever their digital lives whenever it feels threatened; for some this produces compliance, for others deepened alienation.
+
 
 ## D06. Informational Domain
 

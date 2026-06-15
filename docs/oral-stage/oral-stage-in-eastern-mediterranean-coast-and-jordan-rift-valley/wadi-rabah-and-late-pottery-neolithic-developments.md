@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes resolved by kin mediation and elder ar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Prevailing mood cautiously optimistic—subsistence secure, population growing—with interpersonal trust high within kin and village, more guarded toward strangers; risk aversion moderate, tempered by pastoral flexibility.
-
 __Leadership & Personal Authority:__ Leadership situational: elder men coordinate planting, herding, and dispute resolution through persuasion and reputation; no coercive office; authority contested through oratory and success.
 
 __Legitimacy as Lived Allegiance:__ Allegiance grounded in kinship obligation and proven competence; legitimacy refreshed through communal ritual and feasting; disaffection rare, directed at individual leaders rather than the social order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action mobilizes for communa
 
 __External Relations & Posture:__ Relations with neighboring villages range from alliance (through marriage) to wary coexistence; no expansionist drive; exchange networks create interdependence; external posture defensive and cooperative.
 
+__Public Sentiment & Behavioral Temper:__ Prevailing mood cautiously optimistic—subsistence secure, population growing—with interpersonal trust high within kin and village, more guarded toward strangers; risk aversion moderate, tempered by pastoral flexibility.
+
 __Disaffection, Apathy & Spent Will:__ Estrangement minimal; youths absorbed into kin roles; apathy prevented by subsistence demands; will renewed seasonally through ritual and feasting.
+
 
 ## D06. Informational Domain
 

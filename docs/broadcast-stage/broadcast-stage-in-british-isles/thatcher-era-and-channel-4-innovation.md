@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inner-city riots (Brixton, Handsworth, Tottenha
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period divides between triumphalism and despair—Falklands victory and economic boom for some, unemployment and community destruction for others; television reflects this fractured mood, with patriotic celebration coexisting with social criticism and documentary exposures of inequality.
-
 __Leadership & Personal Authority:__ Margaret Thatcher dominates the period, her television presence shaped by careful media management and combative interview style; she transforms political communication while treating the BBC with open hostility, viewing it as part of the establishment she seeks to disrupt.
 
 __Legitimacy as Lived Allegiance:__ The government enjoys strong electoral mandates while facing deep opposition in affected communities; television both amplifies Thatcher's authority through coverage of her foreign policy successes and provides platform for critics and opponents.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Thatcher project demonstrates susta
 
 __External Relations & Posture:__ The Falklands War (1982) reasserts British military capacity and boosts national confidence, with television coverage—despite government restrictions—shaping public perception; later Cold War tensions and the eventual fall of communism receive extensive coverage that reinforces Western triumphalism.
 
+__Public Sentiment & Behavioral Temper:__ The period divides between triumphalism and despair—Falklands victory and economic boom for some, unemployment and community destruction for others; television reflects this fractured mood, with patriotic celebration coexisting with social criticism and documentary exposures of inequality.
+
 __Disaffection, Apathy & Spent Will:__ Opposition to Thatcherism crystallizes in specific communities and causes—mining areas, inner cities, peace movements—while broader electoral support continues; television documents both the passionate resistance and its ultimate defeats, with the poll tax riots of 1990 finally signaling the limits of the Thatcher project.
+
 
 ## D06. Informational Domain
 

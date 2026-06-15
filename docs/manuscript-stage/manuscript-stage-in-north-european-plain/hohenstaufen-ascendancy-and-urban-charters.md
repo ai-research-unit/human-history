@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuds between ministeriales and nobles flare; u
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Crusading fervor persists; civic pride rises in newly chartered towns; confidence in expansion colors the mood.
-
 __Leadership & Personal Authority:__ Frederick Barbarossa dominates through personal charisma, military prowess, and itinerant presence; his authority is intensely personal, and succession after his death on crusade (1190) immediately strains the system.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy rests on coronation, descent, and Carolingian memory; towns accept imperial overlordship in exchange for charter privileges that bind both parties in written mutual obligation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Barbarossa's campaigns in Italy consume
 
 __External Relations & Posture:__ The Empire faces the papacy over Italian claims; Barbarossa's alliance with Henry the Lion collapses (1180), and the duke's fall redistributes power among lesser princes; relations with France and England are mediated through marriage diplomacy.
 
+__Public Sentiment & Behavioral Temper:__ Crusading fervor persists; civic pride rises in newly chartered towns; confidence in expansion colors the mood.
+
 __Disaffection, Apathy & Spent Will:__ Henry the Lion's humiliation embitters the Welf faction; Italian exhaustion spreads among the ministeriales; succession uncertainty after 1190 leaves latent disaffection unresolved.
+
 
 ## D06. Informational Domain
 

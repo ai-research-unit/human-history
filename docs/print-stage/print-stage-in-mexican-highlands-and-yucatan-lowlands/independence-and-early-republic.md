@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence is constant: the independenc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Uncertainty and volatility characterize public mood; hope for republican institutions is repeatedly disappointed; national humiliation after territorial losses to the United States (1848, losing half the national territory) produces despair and recrimination among elites; popular indifference or localism limits national sentiment; the radius of trust is narrow, extending little beyond kin and patron networks.
-
 __Leadership & Personal Authority:__ Caudillos dominate: Santa Anna holds power eleven times, his personal charisma and military reputation outweighing institutional legitimacy; regional caudillos (Juan Alvarez in the south) command local loyalties; no civilian leader sustains authority for a full term until Juárez (beyond this period).
 
 __Legitimacy as Lived Allegiance:__ Constitutional legitimacy is weak; governments claim legality but seize power by force; popular allegiance attaches to patrons and localities, not abstract republics; the church retains legitimacy among the devout, which Liberal attacks erode among their partisans; legitimacy is contested, never settled.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will fragments among factions—Liberal
 
 __External Relations & Posture:__ Weakness before foreign powers defines the period: Texas lost, California and the Southwest lost, French blockade submitted to, American occupation endured; Mexico is an object of European and American intervention, not an actor; diplomatic capacity is minimal; the leverage imbalance is total.
 
+__Public Sentiment & Behavioral Temper:__ Uncertainty and volatility characterize public mood; hope for republican institutions is repeatedly disappointed; national humiliation after territorial losses to the United States (1848, losing half the national territory) produces despair and recrimination among elites; popular indifference or localism limits national sentiment; the radius of trust is narrow, extending little beyond kin and patron networks.
+
 __Disaffection, Apathy & Spent Will:__ Repeated failures exhaust civic hope; by 1855, many among the elite see reform or collapse as the only alternatives; popular disengagement from national politics is pervasive; apathy and disillusion settle where patriotic sentiment might have developed; the reservoir of civic will is nearly dry.
+
 
 ## D06. Informational Domain
 

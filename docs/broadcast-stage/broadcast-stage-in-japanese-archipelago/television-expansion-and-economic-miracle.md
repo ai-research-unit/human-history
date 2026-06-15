@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1960 Anpo protests against the US security 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Postwar trauma gives way to economic optimism; the 1959 Crown Prince wedding draws fifteen million television viewers, the first mass broadcast event fostering collective national sentiment; confidence builds toward Olympic anticipation.
-
 __Leadership & Personal Authority:__ Ikeda Hayato's technocratic leadership emphasizes growth over ideology; his "low posture" style contrasts with Kishi's confrontational approach; Emperor Hirohito remains symbolically present but politically absent.
 
 __Legitimacy as Lived Allegiance:__ The postwar constitutional order gains acceptance; economic performance legitimates LDP rule; the security alliance remains contested but the 1960 crisis does not fundamentally challenge the system.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The political elite achieves consensus 
 
 __External Relations & Posture:__ Japan remains firmly within the US alliance; war reparations to Southeast Asian nations proceed; normalized relations with South Korea achieved in 1965; China remains unrecognized; the posture is economic expansion within American strategic umbrella.
 
+__Public Sentiment & Behavioral Temper:__ Postwar trauma gives way to economic optimism; the 1959 Crown Prince wedding draws fifteen million television viewers, the first mass broadcast event fostering collective national sentiment; confidence builds toward Olympic anticipation.
+
 __Disaffection, Apathy & Spent Will:__ Post-Anpo disillusionment among leftist intellectuals; some withdrawal from political engagement; economic prosperity absorbs potential discontent; radical student energy dissipates temporarily before resurging in the late 1960s.
+
 
 ## D06. Informational Domain
 

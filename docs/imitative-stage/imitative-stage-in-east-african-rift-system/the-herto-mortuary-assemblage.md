@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction dissipates through fission (dep
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emergence of mortuary practice implies an emotional orientation toward the dead that transcends practical concern for carcass disposal; the deliberate defleshing and curation of crania suggest that grief, attachment, or some analogous affect motivates sustained attention to human remains. The behavioral temper of the group accommodates activities that serve no immediate subsistence purpose, indicating affective capacity beyond immediate instrumental calculation.
-
 __Leadership & Personal Authority:__ Leadership operates through demonstrated competence and situational initiative rather than formal authority; individuals who successfully lead hunts, produce effective tools, or demonstrate healing skill command attention and imitation. Personal authority is earned and context-dependent, not inherited or institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to successful practitioners whose techniques sustain the group; the elder whose mortuary demonstration is imitated commands a form of deference rooted in dependency on transmitted knowledge. Without language to articulate justifications, legitimacy exists only as behavioral deference expressed through attention and imitation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges through conve
 
 __External Relations & Posture:__ Intergroup relations are limited by the friction of rift topography and the difficulty of communicating across band boundaries without language. Encounters with other groups may involve threat displays, avoidance, or tentative approach mediated by gesture and mutual observation. No evidence of intergroup exchange or coordinated action exists.
 
+__Public Sentiment & Behavioral Temper:__ The emergence of mortuary practice implies an emotional orientation toward the dead that transcends practical concern for carcass disposal; the deliberate defleshing and curation of crania suggest that grief, attachment, or some analogous affect motivates sustained attention to human remains. The behavioral temper of the group accommodates activities that serve no immediate subsistence purpose, indicating affective capacity beyond immediate instrumental calculation.
+
 __Disaffection, Apathy & Spent Will:__ At band scale, disaffection manifests as withdrawal or departure rather than organized opposition. The affective investment implied by mortuary practice suggests that apathy has not yet eroded collective will within the observed window; the emotional residue is minimal.
+
 
 ## D06. Informational Domain
 

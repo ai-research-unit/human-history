@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The residue is the violence and dispossession t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional tenor shifts across the period: from the defiance and hope of abolitionism, through the trauma of continued enslavement, to the exhilaration of emancipation, the disappointment of Redemption, the fury at Jim Crow, and the militant optimism of the "New Negro" movement; the Black press both reflects and shapes these collective moods.
-
 __Leadership & Personal Authority:__ Black newspaper editors become race leaders: Frederick Douglass (North Star), T. Thomas Fortune (New York Age), Ida B. Wells (Memphis Free Speech, New York Age), Robert Abbott (Chicago Defender), W.E.B. Du Bois (The Crisis); their editorial authority translates into political influence.
 
 __Legitimacy as Lived Allegiance:__ The Black press builds allegiance to Black institutions and leaders while documenting the illegitimacy of white supremacist claims; it constructs a counter-narrative in which American democracy is betrayed by racism rather than fulfilled by it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Black press sustains collective res
 
 __External Relations & Posture:__ The Black press covers African and Caribbean affairs, connecting African American struggles to global movements; during World War I, editors debate whether to support the war effort or criticize American hypocrisy; The Crisis's wartime editorials result in federal surveillance.
 
+__Public Sentiment & Behavioral Temper:__ The emotional tenor shifts across the period: from the defiance and hope of abolitionism, through the trauma of continued enslavement, to the exhilaration of emancipation, the disappointment of Redemption, the fury at Jim Crow, and the militant optimism of the "New Negro" movement; the Black press both reflects and shapes these collective moods.
+
 __Disaffection, Apathy & Spent Will:__ Periodic despair settles over Black communities after each betrayal—the Compromise of 1877, Plessy v. Ferguson (1896), the failure of anti-lynching legislation—but the press works to convert despair into renewed determination, preventing apathy from becoming permanent.
+
 
 ## D06. Informational Domain
 

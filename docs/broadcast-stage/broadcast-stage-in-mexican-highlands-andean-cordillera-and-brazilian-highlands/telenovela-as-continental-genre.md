@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The genre processes social tensions through mel
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The telenovela both reflects and shapes continental emotional culture: the celebration of romantic love, the valorization of maternal sacrifice, the dramatic expression of grief and joy that characterizes Latin American public affect; evening broadcasts synchronize millions into shared emotional states.
-
 __Leadership & Personal Authority:__ Star actors and charismatic villains command intense audience identification; behind the scenes, powerful producers (Emilio Azcárraga Milmo at Televisa, José Bonifácio de Oliveira "Boni" at Globo) exercise creative authority that shapes the genre's evolution.
 
 __Legitimacy as Lived Allegiance:__ The genre's legitimacy rests on audience loyalty demonstrated through ratings; productions that lose this allegiance are cancelled mid-run, while beloved programs generate protests when endings disappoint; the audience-producer relationship constitutes a form of popular sovereignty within commercial constraints.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The industry demonstrates collective wi
 
 __External Relations & Posture:__ Latin American telenovelas project soft power globally, presenting continental culture to international audiences; the genre's export success counters US cultural dominance and establishes a distinctive regional voice in global entertainment.
 
+__Public Sentiment & Behavioral Temper:__ The telenovela both reflects and shapes continental emotional culture: the celebration of romantic love, the valorization of maternal sacrifice, the dramatic expression of grief and joy that characterizes Latin American public affect; evening broadcasts synchronize millions into shared emotional states.
+
 __Disaffection, Apathy & Spent Will:__ By the 2010s, format fatigue sets in among younger and more educated audiences who dismiss telenovelas as repetitive and ideologically retrograde; this disaffection, combined with platform fragmentation, erodes the genre's unifying power without yet producing a clear successor form.
+
 
 ## D06. Informational Domain
 

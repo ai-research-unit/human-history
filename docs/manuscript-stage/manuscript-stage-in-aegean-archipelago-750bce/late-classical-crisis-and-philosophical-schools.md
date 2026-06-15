@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil strife at Athens after 404 BCE is resolve
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Greek cities oscillate between resistance and accommodation to Macedon; Athenian orators (Demosthenes) champion liberty, while others (Aeschines) counsel realism; after Chaeronea, resignation settles over the Greek poleis; Alexander's eastern campaigns generate distant admiration and concern; his death produces uncertainty and, among some, hope for liberation.
-
 __Leadership & Personal Authority:__ Philip II combines military genius with diplomatic cunning; Alexander projects charismatic authority on a scale unprecedented in Greek experience, styling himself as heroic figure and, eventually, divine king; among Greek philosophers, Plato and Aristotle embody intellectual authority; no Athenian leader after Pericles achieves comparable stature.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy persists at Athens but is hollowed by Macedonian supremacy; Philip's League of Corinth claims Panhellenic consent; Alexander's legitimacy rests on military success and, increasingly, divine claims that Greeks find troubling; the philosophical schools create an alternative locus of allegiance, where commitment to a teaching and teacher substitutes for political loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Greek will to resist Macedon collapses 
 
 __External Relations & Posture:__ Macedon dominates the Greek world; Persia is destroyed; Alexander's empire stretches to Central Asia and the Indus; the Greek poleis become subjects rather than players; rivalry shifts to the struggle among Alexander's successors (Diadochi) after 323 BCE; the emotional posture of the Greek world is reactive, not directing.
 
+__Public Sentiment & Behavioral Temper:__ Greek cities oscillate between resistance and accommodation to Macedon; Athenian orators (Demosthenes) champion liberty, while others (Aeschines) counsel realism; after Chaeronea, resignation settles over the Greek poleis; Alexander's eastern campaigns generate distant admiration and concern; his death produces uncertainty and, among some, hope for liberation.
+
 __Disaffection, Apathy & Spent Will:__ Loss of political autonomy produces disaffection from public life among educated Greeks; philosophical withdrawal (Cynicism, Cyrenaic hedonism, Platonic contemplation) offers alternatives to civic engagement; by 323 BCE the spent will of the free polis is evident, preparing the ground for Hellenistic monarchy and cosmopolitan individualism.
+
 
 ## D06. Informational Domain
 

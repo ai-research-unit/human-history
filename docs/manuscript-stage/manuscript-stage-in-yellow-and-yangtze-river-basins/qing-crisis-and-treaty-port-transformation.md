@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Taiping, Nian, and Muslim rebellions kill t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Dynastic loyalty weakens as the court proves unable to defend the realm; humiliation at foreign hands (the burning of the Summer Palace, 1860; the Treaty of Shimonoseki, 1895) produces a sentiment of national crisis that spreads through examination essays and reform memorials; popular anti-foreign sentiment erupts in incidents like the Tianjin Massacre (1870).
-
 __Leadership & Personal Authority:__ The Xianfeng emperor dies in exile (1861); the Tongzhi Restoration relies on Empress Dowager Cixi and provincial strongmen; Li Hongzhang dominates Self-Strengthening policy for three decades but lacks imperial backing to enforce reform; the young Guangxu emperor's 1898 reform attempt is crushed by Cixi's coup.
 
 __Legitimacy as Lived Allegiance:__ The Mandate of Heaven framework interprets military defeat and natural disaster as signs of dynastic decline; loyalty to the Qing persists among officials and gentry but is increasingly instrumental rather than heartfelt; reformers begin to imagine alternatives (constitutional monarchy, republic).
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The suppression of the Taiping demonstr
 
 __External Relations & Posture:__ The tributary system collapses as Western powers impose treaty relations; unequal treaties (extraterritoriality, tariff loss, indemnities) formalize subordination; the loss of suzerainty over Korea and Taiwan to Japan (1895) marks the nadir; by 1900 the Boxer crisis invites eight-nation intervention and further humiliation.
 
+__Public Sentiment & Behavioral Temper:__ Dynastic loyalty weakens as the court proves unable to defend the realm; humiliation at foreign hands (the burning of the Summer Palace, 1860; the Treaty of Shimonoseki, 1895) produces a sentiment of national crisis that spreads through examination essays and reform memorials; popular anti-foreign sentiment erupts in incidents like the Tianjin Massacre (1870).
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection crystallizes in reform and revolutionary movements; popular will is exhausted by repeated rebellions and famines; the court's 1900 endorsement of the Boxers represents a desperate gamble by a regime that has lost capacity for coherent action.
+
 
 ## D06. Informational Domain
 

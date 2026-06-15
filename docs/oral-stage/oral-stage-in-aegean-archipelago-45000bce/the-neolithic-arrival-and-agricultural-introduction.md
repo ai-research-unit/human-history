@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is managed through kinship norm
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The transformative success of agriculture likely generates confidence and forward momentum. Communities are small enough that interpersonal trust extends across the village. The mood is one of establishment and growth rather than crisis.
-
 __Leadership & Personal Authority:__ Leaders emerge through demonstrated competence — successful farmers, effective speakers, respected elders. Authority is personal, not institutional. Persuasion operates through spoken argument in face-to-face settings.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is given to kin, household, and village rather than to abstract office. Legitimacy is enacted daily in shared labor, commensality, and ritual. The order feels natural because it is the only order known.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires consensus ac
 
 __External Relations & Posture:__ Villages maintain contact with other villages through exchange and intermarriage. Relations with remaining forager populations are unclear; absorption or displacement may occur. No evidence of organized warfare appears, though competition for prime agricultural land is plausible.
 
+__Public Sentiment & Behavioral Temper:__ The transformative success of agriculture likely generates confidence and forward momentum. Communities are small enough that interpersonal trust extends across the village. The mood is one of establishment and growth rather than crisis.
+
 __Disaffection, Apathy & Spent Will:__ The horizon shows expansion and vitality, not exhaustion. Disaffection is not visible in the material record. The emotional residue is minimal; will is actively engaged in building a new way of life.
+
 
 ## D06. Informational Domain
 

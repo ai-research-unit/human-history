@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The apparatus remains functional through Dynast
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is confidence in cosmic and political order. Royal ideology successfully projects divine kingship; pyramid construction manifests collective commitment. Trust extends through kin and village networks and up through administrative hierarchy. No evidence of mass discontent survives.
-
 __Leadership & Personal Authority:__ The king embodies divine authority—living Horus, son of Re. Individual personalities emerge in limited detail (Khufu's ambition, Djedkare's administrative reforms), but the office conveys authority independent of personality. High officials derive power from royal appointment; their authority is delegated divine right.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on the king's maintenance of maat—cosmic order. Royal propaganda saturates monumental display; pyramid construction itself is a legitimating act, demonstrating royal power to command nature. Allegiance is reinforced through redistribution (festival gifts, corvée rations) and ritual participation. No evidence of legitimacy crisis appears within the period.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Royal will drives monumental constructi
 
 __External Relations & Posture:__ Egypt projects power into Nubia (trading expeditions, punitive raids), Sinai (mining and fortification), and the Levant (trade missions to Byblos). Libya receives periodic punitive expeditions. No peer competitors exist; external posture is confidently expansive but not aggressively territorial beyond Nubia.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is confidence in cosmic and political order. Royal ideology successfully projects divine kingship; pyramid construction manifests collective commitment. Trust extends through kin and village networks and up through administrative hierarchy. No evidence of mass discontent survives.
+
 __Disaffection, Apathy & Spent Will:__ No widespread disaffection is evident through Dynasty 5. Dynasty 6 shows subtle signs of strain: reduced royal pyramid investment, increased provincial display, longer reigns suggesting succession stability but possibly also stagnation. The exhaustion that produces First Intermediate fragmentation builds beneath the surface but does not manifest as open disaffection within the period.
+
 
 ## D06. Informational Domain
 

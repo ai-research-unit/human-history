@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Organizational sclerosis accumulated across dec
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ ERTU content shaped and reflected public emotional registers — the collective grief of Nasser's funeral, the pride of October War coverage, the Ramadan ritual of evening drama — creating affective infrastructure for Egyptian public life.
-
 __Leadership & Personal Authority:__ Presidential authority permeated ERTU operations; Nasser's direct involvement in Voice of the Arabs, Sadat's theatrical use of television, Mubarak's avoidance of unscripted appearance all channeled through institutional structures that enabled rather than constrained presidential communication.
 
 __Legitimacy as Lived Allegiance:__ ERTU served as legitimation apparatus, producing content that portrayed regime figures positively and avoided topics that might undermine allegiance; the gap between this portrayal and lived experience widened until revolutionary crisis exposed it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The institution's will was derivative �
 
 __External Relations & Posture:__ ERTU's international services (Nile TV International, Radio Cairo shortwave) projected Egyptian perspective abroad; the institution served diplomatic functions, particularly in Arab and African contexts where Egyptian cultural influence supported foreign-policy objectives.
 
+__Public Sentiment & Behavioral Temper:__ ERTU content shaped and reflected public emotional registers — the collective grief of Nasser's funeral, the pride of October War coverage, the Ramadan ritual of evening drama — creating affective infrastructure for Egyptian public life.
+
 __Disaffection, Apathy & Spent Will:__ Staff morale degraded across decades as satellite competition marginalized ERTU programming and internal advancement stagnated; by 2011, institutional will had hollowed to bureaucratic routine, incapable of either effective regime defense or adaptive response to crisis.
+
 
 ## D06. Informational Domain
 

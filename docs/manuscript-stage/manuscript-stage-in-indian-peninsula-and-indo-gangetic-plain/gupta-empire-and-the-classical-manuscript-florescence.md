@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Gupta peace reduces internal conflict. Dyna
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period's reputation as a "golden age" suggests an optimistic, confident public mood during the dynasty's apogee. Cultural florescence reflects and reinforces this confidence. Trust operates within caste and guild networks. The Gupta peace enables commerce and pilgrimage. The mood darkens with Huna invasions and dynastic decline in the sixth century.
-
 __Leadership & Personal Authority:__ Gupta emperors project authority through military success, ritual performance, and cultural patronage. Samudragupta celebrated as a warrior and poet. Chandragupta II (Vikramaditya) achieves legendary status. Royal authority combines martial prowess with dharmic legitimacy. Later emperors less effective; authority fragments among regional governors.
 
 __Legitimacy as Lived Allegiance:__ Gupta legitimacy rests on military success, dharmic performance, and prosperity. The dynasty's Brahmanical revival reinforces traditional legitimating frameworks. Inscriptions proclaim royal virtues. Coinage projects imperial imagery. Legitimacy strong during the apogee; erosion accompanies military reverses and administrative decay.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Gupta emperors pursue subcontinental do
 
 __External Relations & Posture:__ Guptas maintain relations with Sri Lanka (documented in Chinese sources), Southeast Asian kingdoms, and possibly Central Asian powers. The Huna threat dominates later external relations. Skandagupta defeats the Hunas initially; later rulers cannot sustain resistance. The external posture shifts from confident expansion to desperate defense.
 
+__Public Sentiment & Behavioral Temper:__ The period's reputation as a "golden age" suggests an optimistic, confident public mood during the dynasty's apogee. Cultural florescence reflects and reinforces this confidence. Trust operates within caste and guild networks. The Gupta peace enables commerce and pilgrimage. The mood darkens with Huna invasions and dynastic decline in the sixth century.
+
 __Disaffection, Apathy & Spent Will:__ The prosperous apogee shows no evidence of widespread disaffection. Dynastic decline produces regional fragmentation rather than mass disaffection. The will to maintain imperial unity exhausts as military defeats and succession disputes accumulate. By 550 CE, the Gupta project is spent, and regional powers pursue separate trajectories.
+
 
 ## D06. Informational Domain
 

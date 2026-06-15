@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor unrest increases from 1900s; anarchist an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Postwar Chilean confidence borders on triumphalism; national identity consolidated. Peruvian sentiment shifts from postwar demoralization to reconstruction optimism under Civilismo. Bolivian elite sentiment focuses on recovery of maritime access as national mission.
-
 __Leadership & Personal Authority:__ Chilean Parliamentary Republic diffuses power; no dominant executive personality until Alessandri (1920). Peruvian Civilista presidents (Pierola, Pardo, Leguia before 1919) exercise moderate authority. Bolivian presidents rotate frequently; tin barons exercise parallel power.
 
 __Legitimacy as Lived Allegiance:__ Oligarchic republics maintain formal constitutional legitimacy through controlled elections; actual allegiance limited to literate, propertied classes. Indigenous populations largely outside formal political community; allegiance to local patrons and communities rather than national state.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Elite consensus on export-oriented deve
 
 __External Relations & Posture:__ Chilean regional dominance; boundary disputes with Argentina (1902 Pactos de Mayo) and continuing Tacna-Arica dispute with Peru. Peruvian diplomacy focuses on limiting Chilean gains. Bolivia seeks revision of 1884 truce; no progress achieved. All three nations cultivate European (especially British) commercial ties while U.S. investment expands from 1900s.
 
+__Public Sentiment & Behavioral Temper:__ Postwar Chilean confidence borders on triumphalism; national identity consolidated. Peruvian sentiment shifts from postwar demoralization to reconstruction optimism under Civilismo. Bolivian elite sentiment focuses on recovery of maritime access as national mission.
+
 __Disaffection, Apathy & Spent Will:__ Indigenous political apathy reflects exclusion rather than consent. Urban working-class disaffection grows; anarchist press articulates grievances. Middle-class frustration with oligarchic closure prepares ground for post-1920 reformism.
+
 
 ## D06. Informational Domain
 

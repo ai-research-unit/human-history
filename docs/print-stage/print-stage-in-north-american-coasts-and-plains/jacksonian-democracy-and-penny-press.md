@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Anti-abolition mobs attack presses and persons;
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Jacksonian democracy generates intense enthusiasm among the enfranchised masses and alarm among elites. Manifest Destiny captures popular imagination: continental expansion becomes national mission. Anti-British, anti-Catholic, and white supremacist sentiments flourish. Reform enthusiasm reaches fever pitch.
-
 __Leadership & Personal Authority:__ Andrew Jackson epitomizes charismatic leadership: the Hero of New Orleans, the man of the people, Old Hickory. His personal authority shapes the presidency. Martin Van Buren represents the organizational politician; the Whigs counter with their own popular heroes (William Henry Harrison, 1840). James K. Polk pursues expansion with methodical will.
 
 __Legitimacy as Lived Allegiance:__ Mass politics generates intense partisan loyalty; Democrats and Whigs command passionate allegiance. Voter turnout reaches extraordinary levels, 80% or more in competitive elections. The spoils system ties party loyalty to material reward. Legitimacy rests on popular sovereignty, dramatically extended.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National will drives continental expans
 
 __External Relations & Posture:__ Relations with Britain stabilize; the Webster-Ashburton Treaty (1842) settles the Maine boundary. Oregon is divided (1846). Mexico falls victim to American expansionism, losing half its territory. The United States emerges as a continental power with Caribbean ambitions.
 
+__Public Sentiment & Behavioral Temper:__ Jacksonian democracy generates intense enthusiasm among the enfranchised masses and alarm among elites. Manifest Destiny captures popular imagination: continental expansion becomes national mission. Anti-British, anti-Catholic, and white supremacist sentiments flourish. Reform enthusiasm reaches fever pitch.
+
 __Disaffection, Apathy & Spent Will:__ Those excluded from the franchise—women, free blacks, the enslaved—experience democratic expansion as exclusion. Abolitionists despair at slavery's expansion. Native peoples face extermination or removal. Some Whigs never reconcile to Jacksonian democracy's roughness.
+
 
 ## D06. Informational Domain
 

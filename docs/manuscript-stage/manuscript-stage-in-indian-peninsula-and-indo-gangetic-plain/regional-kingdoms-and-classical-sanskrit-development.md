@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynastic succession disputes generate periodic 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period lacks the triumphalist mood of imperial epochs but also avoids the anxiety of decline. Regional identities coalesce around dynasties and sacred centers. Trust operates within caste and kin networks; inter-regional and inter-caste trust more limited. The mood is one of consolidation rather than expansion or crisis.
-
 __Leadership & Personal Authority:__ Dynastic rulers exercise authority through a combination of military prowess, ritual status, and patronage networks. Satavahana kings claim Brahmanical legitimacy while patronizing Buddhist institutions. Kushan emperors (Kanishka) project authority through monumental construction and religious patronage. Local chiefs and guild leaders exercise subordinate authority.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy rests on dharmic performance, military success, and ritual display. Inscriptions proclaim royal virtues and achievements. Buddhist and Jain communities recognize royal patrons without conceding ultimate authority. No evidence of widespread legitimacy crisis; regional loyalties appear stable within their limits.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Regional kingdoms pursue territorial co
 
 __External Relations & Posture:__ Satavahanas and Western Kshatrapas contest the Deccan. Kushans dominate the northwest and maintain Central Asian connections. Tamil kingdoms interact commercially with Rome and Southeast Asia. No single power seeks subcontinental hegemony; external relations are competitive but not existentially threatening.
 
+__Public Sentiment & Behavioral Temper:__ The period lacks the triumphalist mood of imperial epochs but also avoids the anxiety of decline. Regional identities coalesce around dynasties and sacred centers. Trust operates within caste and kin networks; inter-regional and inter-caste trust more limited. The mood is one of consolidation rather than expansion or crisis.
+
 __Disaffection, Apathy & Spent Will:__ The fragmented political landscape diffuses rather than concentrates grievance. No evidence of mass disaffection or political exhaustion. The multi-centered structure provides alternative foci of loyalty and patronage, preventing the build-up of systemic resentment.
+
 
 ## D06. Informational Domain
 

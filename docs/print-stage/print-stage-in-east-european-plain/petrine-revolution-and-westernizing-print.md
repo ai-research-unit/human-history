@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Popular resistance surfaces in revolts (Bulavin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The peasant mass is sullen and suspicious of Peter's alien impositions—Western dress, shaved beards, forced sociability. Nobility is divided: some embrace Westernization, others resent it. Trust extends within estate and locality; the distant state is feared.
-
 __Leadership & Personal Authority:__ Peter I dominates through force of personality, physical presence, and relentless activity. His successors (Catherine I, Peter II, Anna, Elizabeth) are weaker; palace coups (1725, 1730, 1740, 1741, 1762) show that legitimacy depends on Guards regiments. No successor matches Peter's command.
 
 __Legitimacy as Lived Allegiance:__ Autocracy is accepted as divine order by peasants and clergy. Peter claims legitimacy through transformation and victory; his successors rely on continuity and ritual. Old Believers deny legitimacy to the reformed church.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Peter's will is totalizing; he drives t
 
 __External Relations & Posture:__ Russia emerges as a European power after the Great Northern War. Expansion continues: Baltic provinces annexed, influence extends into Poland and Persia. Rivalry with Sweden, Ottoman Empire, and (by 1762) Prussia shapes foreign posture.
 
+__Public Sentiment & Behavioral Temper:__ The peasant mass is sullen and suspicious of Peter's alien impositions—Western dress, shaved beards, forced sociability. Nobility is divided: some embrace Westernization, others resent it. Trust extends within estate and locality; the distant state is feared.
+
 __Disaffection, Apathy & Spent Will:__ Popular disaffection is suppressed, not resolved. Noble exhaustion from continuous service obligation builds through the era, finding partial relief in the Charter to Nobility (not yet granted in this period). Will is concentrated in the autocrat; succession crises reveal structural fragility.
+
 
 ## D06. Informational Domain
 

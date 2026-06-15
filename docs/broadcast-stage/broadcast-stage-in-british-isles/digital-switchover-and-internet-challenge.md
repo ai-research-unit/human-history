@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Hutton Inquiry (2003–2004) exposes tensio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-9/11 anxiety and Iraq War controversy divide public opinion, with broadcasting reflecting and shaping debate; the 2008 financial crisis generates anger at institutions while the 2012 Olympics (announced 2005) offer future optimism.
-
 __Leadership & Personal Authority:__ Greg Dyke's popular leadership ends in the Hutton crisis (2004), while Mark Thompson navigates subsequent challenges; at BSkyB, James Murdoch rises while Rupert Murdoch's influence remains paramount; Tony Blair's media management sets political communication patterns.
 
 __Legitimacy as Lived Allegiance:__ The BBC's reputation suffers from Hutton then recovers through successful programming and iPlayer innovation, while public trust in media generally declines alongside declining trust in other institutions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Cross-party commitment to digital switc
 
 __External Relations & Posture:__ British broadcasting maintains global reach through BBC World Service and international commercial sales, while American digital platforms (Google, YouTube, Facebook) increasingly dominate the online environment British audiences use.
 
+__Public Sentiment & Behavioral Temper:__ Post-9/11 anxiety and Iraq War controversy divide public opinion, with broadcasting reflecting and shaping debate; the 2008 financial crisis generates anger at institutions while the 2012 Olympics (announced 2005) offer future optimism.
+
 __Disaffection, Apathy & Spent Will:__ Staff morale at traditional broadcasters fluctuates with redundancy rounds and organizational change, while audience loyalty fragments as choice expands; some sectors of the public disengage from news entirely.
+
 
 ## D06. Informational Domain
 

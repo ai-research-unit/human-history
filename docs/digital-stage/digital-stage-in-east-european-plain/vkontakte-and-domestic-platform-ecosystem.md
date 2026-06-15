@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Platform conflicts between user interests and s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ User sentiment toward domestic platforms shifts from enthusiasm to resignation; VK perceived as surveilled space by politically aware users; Yandex services valued for utility despite privacy concerns; emotional relationship to platforms becomes instrumental rather than affectionate.
-
 __Leadership & Personal Authority:__ Pavel Durov embodies early platform idealism; his 2014 departure and subsequent Telegram success creates alternative model; remaining platform leadership lacks comparable charisma; anonymous VK administrators maintain communities with local authority.
 
 __Legitimacy as Lived Allegiance:__ Platform legitimacy derives from utility rather than values; users accept surveillance cost for service access; loyalty to specific platforms weakens as functionality converges; domestic platforms' legitimacy damaged by association with state control.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Platform companies demonstrate minimal 
 
 __External Relations & Posture:__ Domestic platforms operate exclusively within Russian/CIS markets; Yandex expansion into neighboring countries limited; VK presence in Ukraine banned from 2017; international posture defensive and domestic-focused.
 
+__Public Sentiment & Behavioral Temper:__ User sentiment toward domestic platforms shifts from enthusiasm to resignation; VK perceived as surveilled space by politically aware users; Yandex services valued for utility despite privacy concerns; emotional relationship to platforms becomes instrumental rather than affectionate.
+
 __Disaffection, Apathy & Spent Will:__ User apathy toward platform politics widespread; active opposition moves to Telegram and foreign platforms; tech worker disaffection manifests in emigration rather than internal resistance; will to reform domestic platforms essentially absent among remaining participants.
+
 
 ## D06. Informational Domain
 

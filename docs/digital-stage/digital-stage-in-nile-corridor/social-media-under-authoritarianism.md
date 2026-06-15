@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online harassment, trolling, and coordinated in
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear dominates political posting. Self-censorship becomes habitual. Users develop careful assessment of what can be said safely. Private messaging replaces public posting for sensitive topics. Anxiety about surveillance constant among active users.
-
 __Leadership & Personal Authority:__ Some opposition figures maintain social media presence from exile, commanding followings despite blocked access inside Egypt. Regime figures use platforms for messaging. Platform presence becomes component of political authority.
 
 __Legitimacy as Lived Allegiance:__ Social media provides space for private disaffection even as public compliance dominates. Likes and shares of critical content carry risk. Passive consumption of alternative content possible; creation and sharing dangerous.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The 2011 model of social-media-coordina
 
 __External Relations & Posture:__ Social media enables diaspora opposition to reach Egyptian audiences via VPN. State frames this as foreign interference. Regional dynamics play out on platforms, with Al Jazeera and Qatari-aligned accounts accessible despite blocks.
 
+__Public Sentiment & Behavioral Temper:__ Fear dominates political posting. Self-censorship becomes habitual. Users develop careful assessment of what can be said safely. Private messaging replaces public posting for sensitive topics. Anxiety about surveillance constant among active users.
+
 __Disaffection, Apathy & Spent Will:__ Political exhaustion evident in declining engagement with political content. Users retreat to entertainment and private concerns. Revolutionary energy of 2011 dissipated. Atomized disaffection replaces collective will.
+
 
 ## D06. Informational Domain
 

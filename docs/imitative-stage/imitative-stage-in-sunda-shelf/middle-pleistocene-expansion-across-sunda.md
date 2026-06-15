@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged by fission: bands
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline combines vigilance (predator awareness), social attunement (tracking band-mates' states), and the satisfactions of successful foraging and sociality. Trust is high within the band, low or absent toward outsiders. The expanding frontier may generate a behavioral temper of exploration among dispersing bands, but caution remains adaptive in novel environments.
-
 __Leadership & Personal Authority:__ Leadership is situational. Individuals with relevant skills (navigating new territory, leading hunts, resolving disputes) may lead in those contexts. No permanent leaders; authority is personal and demonstrated, not inherited or appointed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band-mates, renewed daily through interaction and reciprocity. There is no abstract legitimacy, no ruler to obey or defy. Belonging is immediate and practical.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The capacity for collective action is l
 
 __External Relations & Posture:__ Relations with other bands are episodic, ranging from avoidance to occasional cooperation to conflict. The expansion is not coordinated; it is a diffusion of autonomous bands into empty space. No alliances, no treaties, no diplomacy.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline combines vigilance (predator awareness), social attunement (tracking band-mates' states), and the satisfactions of successful foraging and sociality. Trust is high within the band, low or absent toward outsiders. The expanding frontier may generate a behavioral temper of exploration among dispersing bands, but caution remains adaptive in novel environments.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection leads to departure, not internal decay. Individuals who cannot integrate leave or are expelled. Apathy is not adaptive; the demands of survival enforce engagement. The affective load is discharged through social interaction and the mobility the expansion allows.
+
 
 ## D06. Informational Domain
 

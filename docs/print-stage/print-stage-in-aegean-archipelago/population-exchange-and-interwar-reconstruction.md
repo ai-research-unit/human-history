@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political instability marked the decade — ele
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Collective trauma pervaded the refugee population — grief for lost homelands, rage at abandonment, anxiety about the future; established Greeks experienced resentment at resource competition alongside sympathy; the national mood combined exhaustion with determination to rebuild.
-
 __Leadership & Personal Authority:__ Venizelos remained the dominant personality, returning from exile in 1928 to lead reconstruction; his authority among his faction was unquestioned, though royalists remained irreconcilable opponents; Pangalos briefly exercised dictatorial power (1925–1926) before overthrow.
 
 __Legitimacy as Lived Allegiance:__ The republic (declared 1924) lacked deep legitimacy — royalists rejected it, Venizelists supported it instrumentally; constitutional instability reflected unresolved questions about the state's foundations; refugee populations, largely Venizelist, strengthened republican sentiment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The refugee crisis demanded state actio
 
 __External Relations & Posture:__ Greece reconciled with Turkey through the 1930 Ankara Convention and friendship treaty, accepting the territorial finality of Lausanne; relations with Yugoslavia improved while Bulgarian tensions persisted; League of Nations involvement through the RSC integrated Greece into the international order as a debtor and recipient of technical assistance.
 
+__Public Sentiment & Behavioral Temper:__ Collective trauma pervaded the refugee population — grief for lost homelands, rage at abandonment, anxiety about the future; established Greeks experienced resentment at resource competition alongside sympathy; the national mood combined exhaustion with determination to rebuild.
+
 __Disaffection, Apathy & Spent Will:__ The schism's hatreds persisted beneath the surface; royalist officers plotted; Venizelist partisans remained vigilant; the Great Idea was dead but not mourned openly; many refugees never reconciled to the loss of their homelands, maintaining irredentist sentiment privately.
+
 
 ## D06. Informational Domain
 

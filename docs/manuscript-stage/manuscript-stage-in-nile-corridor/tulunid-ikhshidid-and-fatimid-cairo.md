@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1060s collapse sees soldiers pillaging, fam
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Ismaili fervor animates the early Fatimid state; the broader Sunni and Coptic population accepts rule pragmatically; the 1060s crisis and al-Hakim's erratic reign (996–1021) create episodes of fear and disorder; recovery brings relief but not deep loyalty.
-
 __Leadership & Personal Authority:__ Ahmad ibn Tulun (868–884) and the Ikhshidid Kafur (966–968) command personal authority; Fatimid caliphs are imam-rulers with religious charisma among Ismailis; al-Hakim's unpredictability, al-Mustansir's passivity during crisis, and later child caliphs dilute personal authority.
 
 __Legitimacy as Lived Allegiance:__ Ismaili doctrine grants the Fatimid caliph-imam sacred authority for believers; for the Sunni majority, legitimacy is pragmatic—the ruler who maintains order and low taxes is accepted; Coptic and Jewish communities accept protection in exchange for poll tax and social subordination.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Fatimid state projects will through da'
 
 __External Relations & Posture:__ Fatimids contest Abbasid claims to caliphal legitimacy; Ismaili missions spread doctrine; rivalry with Sunni powers (Seljuks, Zengids); Crusader states established in Syria and Palestine (1099) threaten but also trade; Byzantine and Italian city-state commercial relations.
 
+__Public Sentiment & Behavioral Temper:__ Ismaili fervor animates the early Fatimid state; the broader Sunni and Coptic population accepts rule pragmatically; the 1060s crisis and al-Hakim's erratic reign (996–1021) create episodes of fear and disorder; recovery brings relief but not deep loyalty.
+
 __Disaffection, Apathy & Spent Will:__ Late Fatimid decades see caliphal impotence, vizierial dominance, and elite factionalism; popular disaffection surfaces when Saladin abolishes the caliphate in 1171 without significant resistance—the Ismaili state had lost its hold on Egyptian hearts.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through ritual, f
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is probably a mix of awe and resentment—awe at elite ritual power and monumental display, resentment at extraction; trust extends within kin groups but is mediated by hierarchy across them; the temper is deferential but not servile.
-
 __Leadership & Personal Authority:__ Paramount leaders at Liangzhu centers command through charisma, ritual authority, and control of jade and feasting; authority is personal, possibly hereditary, and enacted through oral performance and display; no impersonal office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to the paramount through kinship, ritual awe, and material dependence; legitimacy is enacted in ceremony, not inscribed in charter; it must be renewed through each generation's performance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The paramount can mobilize collective l
 
 __External Relations & Posture:__ Relations with other cultures (Dawenkou, Songze successors, early Longshan) are mediated through prestige exchange and probably intermarriage; no evidence of conquest or empire; competition is channeled through display and exchange, not warfare on a grand scale.
 
+__Public Sentiment & Behavioral Temper:__ The mood is probably a mix of awe and resentment—awe at elite ritual power and monumental display, resentment at extraction; trust extends within kin groups but is mediated by hierarchy across them; the temper is deferential but not servile.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection within this window; extraction is heavy but legitimated by ritual; the eventual collapse (~2,300 BCE) may involve spent will, but it lies beyond the snapshot.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Legacy broadcast infrastructure degrades as adv
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Streaming entertainment provides mood regulation, viewers selecting content to match or alter emotional states; algorithmic recommendation optimizes for engagement that may prioritize emotional intensity.
-
 __Leadership & Personal Authority:__ Showrunners and directors gain creative authority in prestige production model borrowed from US television; individual creators become brand names attached to projects.
 
 __Legitimacy as Lived Allegiance:__ Platform loyalty develops but remains shallow, subscribers willing to churn between services as content libraries shift; no streaming service achieves the institutional loyalty broadcast networks once commanded.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Content occasionally addresses politica
 
 __External Relations & Posture:__ Latin American content achieves global visibility, reversing historical flow where region imported Hollywood production; this soft power dimension noted by governments though not systematically cultivated.
 
+__Public Sentiment & Behavioral Temper:__ Streaming entertainment provides mood regulation, viewers selecting content to match or alter emotional states; algorithmic recommendation optimizes for engagement that may prioritize emotional intensity.
+
 __Disaffection, Apathy & Spent Will:__ Content overload produces paradox of choice fatigue, viewers spending significant time browsing rather than watching; subscription fatigue emerges as competing services multiply required spending for comprehensive access.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction channels through religious fest
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public mood is inaccessible, but the construction of monumental palaces and the elaboration of religious ritual suggest collective confidence and investment in the palatial order; the radius of trust extends at least to the palatial territory.
-
 __Leadership & Personal Authority:__ Palatial elites — possibly priest-kings, given the integration of religious and administrative functions — concentrate personal authority; the title or nature of rulership is unknown from Linear A.
 
 __Legitimacy as Lived Allegiance:__ Palatial legitimacy appears grounded in religious sanction, redistributive generosity, and control of surplus and craft production; the population's allegiance is inferred from the absence of evidence for widespread resistance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Palatial elites demonstrate collective 
 
 __External Relations & Posture:__ Crete engages with Egypt, the Levant, and the Cyclades through trade and possibly diplomatic contact; Minoan influence spreads to Cycladic islands (Akrotiri on Thera) and Anatolian coast (Miletus), suggesting expansive posture.
 
+__Public Sentiment & Behavioral Temper:__ Public mood is inaccessible, but the construction of monumental palaces and the elaboration of religious ritual suggest collective confidence and investment in the palatial order; the radius of trust extends at least to the palatial territory.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the destructions ending this period may reflect external shock rather than internal collapse of will.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction discharged through fission: disaffecte
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Baseline affect was likely vigilant and reactive, shaped by chronic predation risk and food uncertainty. Trust extended to familiar group members; strangers provoked wariness or aggression. Mood shifted with foraging success: satiation brought calm; hunger raised tension.
-
 __Leadership & Personal Authority:__ Leadership was situational and ephemeral. An experienced individual might lead a foraging bout or a retreat from danger; authority dissolved once the episode ended. No persistent leader role is inferable.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was personal and immediate, grounded in familiarity and reciprocal grooming, not in legitimating narrative. It could shift with dominance contests or resource stress.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was limited to immedi
 
 __External Relations & Posture:__ Relations with neighboring groups were likely a mix of avoidance, occasional interbreeding, and episodic conflict over carcasses or water. No alliance structures or persistent enmities are inferable.
 
+__Public Sentiment & Behavioral Temper:__ Baseline affect was likely vigilant and reactive, shaped by chronic predation risk and food uncertainty. Trust extended to familiar group members; strangers provoked wariness or aggression. Mood shifted with foraging success: satiation brought calm; hunger raised tension.
+
 __Disaffection, Apathy & Spent Will:__ Chronic stress, repeated foraging failure, or loss of kin likely produced affective exhaustion in individuals. Such states resolved through death, dispersal, or recovery when conditions improved. No collective apathy is identifiable at this scale.
+
 
 ## D06. Informational Domain
 

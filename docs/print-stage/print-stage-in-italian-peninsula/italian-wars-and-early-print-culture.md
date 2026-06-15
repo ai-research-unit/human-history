@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Italian Wars themselves represented catastr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Italian public sentiment oscillated between moments of patriotic resistance and demoralized acquiescence. Machiavelli articulated the anguished consciousness of a generation watching Italian independence dissolve. Urban populations experienced repeated cycles of hope during liberation and despair during reconquest.
-
 __Leadership & Personal Authority:__ The period produced memorable leaders—Julius II, the warrior pope; Cesare Borgia, the ruthless prince—but Italian leadership proved unable to unite resistance. Foreign monarchs, Charles V and Francis I, commanded the decisive authority, fighting their dynastic war on Italian soil.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy fragmented along multiple axes: papal claims, imperial claims, French claims, Spanish claims, and local dynastic claims all competed. For many Italians, allegiance became pragmatic: whoever held power received provisional compliance. Only Venice maintained relatively coherent civic allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Italian political will proved chronical
 
 __External Relations & Posture:__ Italian states maneuvered desperately among the great powers, seeking to play France against Spain, Empire against papacy. This balancing increasingly failed as Spanish power consolidated after 1525. By 1559, Italian external relations reduced to negotiating terms of subordination.
 
+__Public Sentiment & Behavioral Temper:__ Italian public sentiment oscillated between moments of patriotic resistance and demoralized acquiescence. Machiavelli articulated the anguished consciousness of a generation watching Italian independence dissolve. Urban populations experienced repeated cycles of hope during liberation and despair during reconquest.
+
 __Disaffection, Apathy & Spent Will:__ The Peace of Cateau-Cambrésis (1559) formalized Italian exhaustion. A generation of war had spent the will to resist. Apathy settled over political life as Spanish hegemony established stable subordination. The energy that might have gone to political self-determination redirected toward cultural production.
+
 
 ## D06. Informational Domain
 

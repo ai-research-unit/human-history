@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Uprisings produce repression, exile, and confis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National sentiment intensifies under partition; Romantic poetry cultivates messianic suffering; the phrase "Jeszcze Polska nie zginela" (Poland has not yet perished) expresses defiant hope; sentiment alternates between resignation and insurrectionary fervor.
-
 __Leadership & Personal Authority:__ Kosciuszko (1794), the November conspirators (1830), the January insurgents (1863), Pilsudski (1918–1935) embody national will; exile leaders (Czartoryski, later Paderewski) represent the nation abroad.
 
 __Legitimacy as Lived Allegiance:__ Partition regimes command obedience but not legitimacy; loyalty runs to the absent nation; the Catholic Church anchors collective identity; interwar democracy struggles to consolidate legitimacy before authoritarian turn.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will mobilizes for uprisings repeatedly
 
 __External Relations & Posture:__ Partitioned Poland has no foreign policy; exiles appeal to France and Britain; independence brings precarious position between Germany and Soviet Russia; alliances with France and Romania provide fragile security.
 
+__Public Sentiment & Behavioral Temper:__ National sentiment intensifies under partition; Romantic poetry cultivates messianic suffering; the phrase "Jeszcze Polska nie zginela" (Poland has not yet perished) expresses defiant hope; sentiment alternates between resignation and insurrectionary fervor.
+
 __Disaffection, Apathy & Spent Will:__ Repeated insurrectionary failure breeds "organic work" — quietist focus on education and economic self-improvement rather than armed revolt; interwar polarization and coup reflect exhausted democratic will.
+
 
 ## D06. Informational Domain
 

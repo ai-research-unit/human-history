@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict is managed through avoidance, mediatio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The founding population is characterized by high cohesion, mutual trust, and shared purpose — the crossing selected for cooperation and resilience. Sentiment is optimistic in a newly opened landscape; anxiety centers on the unknown (unfamiliar animals, terrain, spirits). The radius of trust extends to the band and allied kin; strangers (if encountered) are treated with caution. Temper is exploratory and adaptive.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal: the skilled navigator leads the crossing, the experienced forager leads the hunt, the elder leads ritual. Authority is earned, not inherited, and does not persist beyond the context that generates it. No permanent leaders exist.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is embedded in kinship and reciprocity: leaders are obeyed because they are kin and because they have demonstrated competence. Allegiance is personal and voluntary; there is no abstract political authority to legitimate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is focused on survival 
 
 __External Relations & Posture:__ No external relations exist once the crossing is complete; Sahul is empty of other humans. If earlier hominin populations existed (none are evidenced), they are not encountered. The posture is expansive — moving into unoccupied territory — with no rivals or enemies.
 
+__Public Sentiment & Behavioral Temper:__ The founding population is characterized by high cohesion, mutual trust, and shared purpose — the crossing selected for cooperation and resilience. Sentiment is optimistic in a newly opened landscape; anxiety centers on the unknown (unfamiliar animals, terrain, spirits). The radius of trust extends to the band and allied kin; strangers (if encountered) are treated with caution. Temper is exploratory and adaptive.
+
 __Disaffection, Apathy & Spent Will:__ No disaffection or apathy is evident; the founding population is self-selected for motivation and resilience. Will is not spent but renewed by success. No emotional residue accretes.
+
 
 ## D06. Informational Domain
 

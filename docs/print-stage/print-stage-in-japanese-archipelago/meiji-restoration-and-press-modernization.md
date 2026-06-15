@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Satsuma Rebellion is the last major armed r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood combines enthusiasm for "civilization and enlightenment" (bunmei kaika) with anxiety about national survival; the slogan fukoku kyohei (rich country, strong army) captures the sense of competitive urgency; newspapers both reflect and amplify public sentiment, creating feedback loops between editorial opinion and popular mood.
-
 __Leadership & Personal Authority:__ The Meiji oligarchs—Ito Hirobumi, Yamagata Aritomo, Okuma Shigenobu, Inoue Kaoru, and others—dominate through personal authority forged in the restoration struggle; they govern collectively as genro (elder statesmen), managing disputes internally while presenting unified authority externally.
 
 __Legitimacy as Lived Allegiance:__ The emperor becomes the focal point of loyalty in an elaborately constructed state ideology; the Imperial Rescript on Education (1890) mandates loyalty and filial piety as the foundations of social order; the emperor's personal authority, though constitutionally circumscribed, provides legitimating cover for oligarchic rule.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The oligarchy demonstrates extraordinar
 
 __External Relations & Posture:__ Revision of the unequal treaties becomes the paramount foreign policy goal; each negotiating failure (1872, 1879, 1882, 1886) generates domestic outrage and nationalist mobilization; newspapers play a central role in shaping and expressing this nationalist sentiment.
 
+__Public Sentiment & Behavioral Temper:__ The mood combines enthusiasm for "civilization and enlightenment" (bunmei kaika) with anxiety about national survival; the slogan fukoku kyohei (rich country, strong army) captures the sense of competitive urgency; newspapers both reflect and amplify public sentiment, creating feedback loops between editorial opinion and popular mood.
+
 __Disaffection, Apathy & Spent Will:__ The Popular Rights Movement channels disaffection into demands for representative government rather than revolutionary resistance; the promise of a constitution (1881) and its promulgation (1889) absorb this energy; by 1890, most opposition has been co-opted or suppressed, leaving residual disaffection without organizational expression.
+
 
 ## D06. Informational Domain
 

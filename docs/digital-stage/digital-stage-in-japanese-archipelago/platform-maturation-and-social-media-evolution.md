@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online harassment emerges as significant concer
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Platform-mediated anxiety increases as social media enables constant social comparison; youth mental health concerns rise though causation remains debated; Twitter's real-time nature intensifies emotional reactions to news events.
-
 __Leadership & Personal Authority:__ Platform personalities achieve quasi-celebrity status; YouTubers and VTubers command devoted followings; traditional celebrities must maintain social media presence to remain relevant.
 
 __Legitimacy as Lived Allegiance:__ Platform trust varies significantly—LINE enjoys high trust as domestic service, while Facebook faces suspicion; Twitter's anonymity is valued precisely because it does not require identity disclosure that might compromise users.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Abe's long tenure provides political st
 
 __External Relations & Posture:__ Korean-Japanese tensions occasionally flare on social media; platform-mediated nationalism exists but Japan's social media culture skews less political than comparable democracies.
 
+__Public Sentiment & Behavioral Temper:__ Platform-mediated anxiety increases as social media enables constant social comparison; youth mental health concerns rise though causation remains debated; Twitter's real-time nature intensifies emotional reactions to news events.
+
 __Disaffection, Apathy & Spent Will:__ Youth disengagement from politics continues despite digital connectivity; platform spaces are used more for entertainment and hobby communities than political mobilization; a certain digital escapism characterizes Japanese platform culture.
+
 
 ## D06. Informational Domain
 

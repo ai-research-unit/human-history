@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict resolution is immediate and personal. 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shared sentiment is immediate and unrecorded. Trust extends to kin and familiar band members. Risk perception is shaped by recent experience. The incursion into unfamiliar territory implies a willingness to move, whether driven by opportunity, pressure, or curiosity.
-
 __Leadership & Personal Authority:__ Authority rests with demonstrated competence. The skilled hunter or knowledgeable elder commands attention. No formal office exists.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and immediate, owed to kin and proven leaders. No abstract legitimacy or institutional loyalty is possible.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to migrate—to leave Africa a
 
 __External Relations & Posture:__ Relations with other populations—Neanderthals occupying the same landscape—are unknown. Contact may have occurred; no material evidence of interaction, conflict, or mating survives from this horizon. Avoidance, displacement, or absorption all remain possible.
 
+__Public Sentiment & Behavioral Temper:__ Shared sentiment is immediate and unrecorded. Trust extends to kin and familiar band members. Risk perception is shaped by recent experience. The incursion into unfamiliar territory implies a willingness to move, whether driven by opportunity, pressure, or curiosity.
+
 __Disaffection, Apathy & Spent Will:__ The failure to establish may reflect spent will: exhaustion, loss of key individuals, or demoralization after setback. Recovery did not occur within the window; the population vanished from the Levantine record for 50,000 years.
+
 
 ## D06. Informational Domain
 

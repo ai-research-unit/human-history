@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry in Catalonia, moriscos unrest in Grana
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of providential mission colors the era: Spain as defender of Catholicism, instrument of divine will. Pride in empire and faith coexists with anxiety over heresy and infiltration; the limpieza obsession reflects this temper.
-
 __Leadership & Personal Authority:__ Philip II (1556–1598) embodies the regime: pious, bureaucratic, tireless, distrustful. He centralizes decision-making in the Escorial, micromanaging empire. His personal authority is immense but his remoteness breeds delays and resentment.
 
 __Legitimacy as Lived Allegiance:__ The Crown's legitimacy rests on Catholic kingship, dynastic right, and defense of faith. Allegiance runs deep in Castile; Aragon, Catalonia, and Portugal retain corporate identities and are less absorbed. Legitimacy is high but not uniform across realms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to defend Catholicism and empi
 
 __External Relations & Posture:__ Spain projects hegemony: rivalry with France, war with the Dutch rebels, confrontation with England, crusade against the Ottomans. The posture is expansive but resources are finite; the 1598 Peace of Vervins with France acknowledges limits.
 
+__Public Sentiment & Behavioral Temper:__ A mood of providential mission colors the era: Spain as defender of Catholicism, instrument of divine will. Pride in empire and faith coexists with anxiety over heresy and infiltration; the limpieza obsession reflects this temper.
+
 __Disaffection, Apathy & Spent Will:__ Late in Philip II's reign, fiscal exhaustion and military setbacks breed war-weariness. The intellectuals (arbitristas) begin diagnosing decline. Disaffection is incipient, masked by providential rhetoric but accumulating beneath the surface.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry is suppressed in the core regions, the
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The High Tang exudes confidence and cosmopolitan openness, foreign religions and fashions are tolerated or adopted, poets celebrate the grandeur of empire and the pleasures of the capitals, and public festivals generate collective enthusiasm; the mood darkens only in retrospect after An Lushan.
-
 __Leadership & Personal Authority:__ Emperor Taizong establishes the model of the vigorous, personally engaged ruler, Empress Wu Zetian demonstrates that female rule is possible though controversial, Xuanzong presides over the cultural apogee before his fatal infatuation with Yang Guifei; personal authority remains high when emperors are competent.
 
 __Legitimacy as Lived Allegiance:__ The Li family's claim to descend from Laozi provides Daoist legitimation, Confucian ritual and Buddhist patronage add layers, and the examination system generates allegiance among the educated who owe their careers to the dynasty; legitimacy is robust until military defeat shatters the illusion of imperial competence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The center retains will to project powe
 
 __External Relations & Posture:__ Tang at its height dominates the Eastern Steppe after defeating the Eastern and Western Turks, exercises suzerainty over Central Asian oasis states, maintains tributary relations with Korea and Japan, and projects cultural influence that defines the Sinitic cultural sphere; the frontier system's sustainability is the unaddressed vulnerability.
 
+__Public Sentiment & Behavioral Temper:__ The High Tang exudes confidence and cosmopolitan openness, foreign religions and fashions are tolerated or adopted, poets celebrate the grandeur of empire and the pleasures of the capitals, and public festivals generate collective enthusiasm; the mood darkens only in retrospect after An Lushan.
+
 __Disaffection, Apathy & Spent Will:__ Elite factionalism generates some disaffection, unsuccessful examination candidates form a disgruntled stratum, and the military governors chafe under civilian supervision; the exhaustion of collective will arrives only with the catastrophe of 755.
+
 
 ## D06. Informational Domain
 

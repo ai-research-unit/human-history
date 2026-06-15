@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Channels for grievance discharge are minimal �
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is one of sullen compliance; trust toward the colonial state is nil; interpersonal trust within kin and village networks remains strong; risk perception is cautious — open resistance invites collective punishment; the temper is neither hopeful nor despairing but enduring, waiting, and remembering.
-
 __Leadership & Personal Authority:__ Traditional chiefs retain residual authority legitimated by lineage and ritual, but their power depends on colonial backing; mission catechists and évolués command respect in new domains (literacy, access to the colonial world); Belgian administrators hold coercive authority but not affective allegiance; no charismatic anti-colonial leader has yet emerged in this window.
 
 __Legitimacy as Lived Allegiance:__ The colonial order commands no genuine allegiance; obedience is extracted by force and necessity, not consent; traditional authority retains deeper legitimacy but is compromised by collaboration; the reservoir of consent for any post-colonial order is latent, not mobilized; disaffection is universal but silent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ African political will is suppressed; n
 
 __External Relations & Posture:__ The colony's external posture is Belgium's; no African agency shapes foreign relations; during World War II, the Congo supplies critical uranium (for the Manhattan Project) and rubber to the Allies; the colony's strategic value increases, but Africans gain nothing from it; leverage is entirely in Belgian hands.
 
+__Public Sentiment & Behavioral Temper:__ The mood is one of sullen compliance; trust toward the colonial state is nil; interpersonal trust within kin and village networks remains strong; risk perception is cautious — open resistance invites collective punishment; the temper is neither hopeful nor despairing but enduring, waiting, and remembering.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is pervasive but contained; apathy is adaptive (quietism as survival); the collective will is not spent but suppressed; the emotional residue of Free State atrocities feeds the disorder latent in social memory; it is stored, not cleared, awaiting future discharge.
+
 
 ## D06. Informational Domain
 

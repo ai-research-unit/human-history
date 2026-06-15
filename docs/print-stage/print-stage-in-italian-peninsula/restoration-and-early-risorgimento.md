@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Revolutionary conspiracies punctuate the period
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Napoleonic experience leaves a residue of national consciousness among the educated; resentment of Austrian domination and clerical reaction simmers; peasant masses remain attached to local identity and traditional religion.
-
 __Leadership & Personal Authority:__ Metternich's system personifies reaction; Giuseppe Mazzini emerges as the charismatic prophet of Italian nationhood; Charles Albert of Piedmont embodies cautious reform; Pope Pius IX (from 1846) briefly inspires liberal hopes.
 
 __Legitimacy as Lived Allegiance:__ Restored monarchs claim divine-right and historical legitimacy; the Habsburgs invoke order and civilization; nationalists challenge legitimacy through appeals to popular sovereignty and the nation; legitimacy frays as reform hopes rise and are disappointed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Secret societies maintain resolve among
 
 __External Relations & Posture:__ Austrian hegemony dominates; Metternich's system ensures intervention against revolution; France oscillates between Bourbon conservatism and Orleanist ambiguity; Britain sympathizes with Italian liberals but does not intervene; Piedmont begins cautious maneuvering.
 
+__Public Sentiment & Behavioral Temper:__ The Napoleonic experience leaves a residue of national consciousness among the educated; resentment of Austrian domination and clerical reaction simmers; peasant masses remain attached to local identity and traditional religion.
+
 __Disaffection, Apathy & Spent Will:__ Repeated failed insurrections breed despair among revolutionaries; exile scatters leadership; mass apathy prevails except when economic crisis and reform hopes converge, as in 1846–1848.
+
 
 ## D06. Informational Domain
 

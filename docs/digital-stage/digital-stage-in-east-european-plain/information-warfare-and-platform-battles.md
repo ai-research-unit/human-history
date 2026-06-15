@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Navalny protests (January 2021) demonstrate
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pandemic anxiety combines with political tension; trust in institutions erodes, and the information environment fragments into separate realities—state television viewers inhabiting a different world than Telegram channel subscribers.
-
 __Leadership & Personal Authority:__ Putin's constitutional amendments (2020) extend potential rule to 2036; the leadership cult continues but faces challenges from Navalny's anti-corruption investigations that puncture the image of competent authority.
 
 __Legitimacy as Lived Allegiance:__ COVID-19 mismanagement strains legitimacy; Navalny's poisoning (August 2020) and subsequent imprisonment (February 2021) crystallize opposition but also demonstrate the costs of dissent, creating a chilling effect on public expression.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrates sustained will t
 
 __External Relations & Posture:__ Information warfare against Western democracies intensifies; election interference operations, disinformation campaigns, and cyberattacks demonstrate offensive capability while justifying defensive "information sovereignty" measures.
 
+__Public Sentiment & Behavioral Temper:__ Pandemic anxiety combines with political tension; trust in institutions erodes, and the information environment fragments into separate realities—state television viewers inhabiting a different world than Telegram channel subscribers.
+
 __Disaffection, Apathy & Spent Will:__ The 2021 protest suppression completes the exhaustion of the 2011–2012 generation's oppositional energy; emigration accelerates among the politically engaged, and the residue of disaffection disperses into private cynicism or exile rather than collective action.
+
 
 ## D06. Informational Domain
 

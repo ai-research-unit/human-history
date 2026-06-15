@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political assassination by military extremists 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Manchurian Incident (1931) generates nationalist enthusiasm that newspapers amplify and compete to serve; war fever provides circulation boosts, creating commercial incentives for bellicose coverage; depression-era anxiety finds outlet in imperial pride and resentment of Western condemnation.
-
 __Leadership & Personal Authority:__ Emperor Hirohito's authority is formally supreme but practically constrained; military leaders cultivate popular followings through press coverage of their continental exploits; assassinated leaders become martyrs whose images circulate through print.
 
 __Legitimacy as Lived Allegiance:__ The imperial institution commands deepening reverence enforced through lese-majesty laws; party government's legitimacy erodes as corruption scandals and economic failure undermine civilian politicians; the military gains perceived legitimacy through decisive action in Manchuria.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Civilian government will collapses unde
 
 __External Relations & Posture:__ Japan's withdrawal from the League of Nations (1933) dominates international coverage, with press opinion rallying to national defense against Western criticism; isolation is reframed as principled independence; Chinese perspectives appear only as enemy viewpoints requiring refutation.
 
+__Public Sentiment & Behavioral Temper:__ The Manchurian Incident (1931) generates nationalist enthusiasm that newspapers amplify and compete to serve; war fever provides circulation boosts, creating commercial incentives for bellicose coverage; depression-era anxiety finds outlet in imperial pride and resentment of Western condemnation.
+
 __Disaffection, Apathy & Spent Will:__ Liberal and leftist intellectuals retreat into silence, interior exile, or formal recantation (tenko); the proletarian literature movement collapses under suppression; independent critical voices exhaust themselves against intensifying pressure, with visible examples discouraging successors.
+
 
 ## D06. Informational Domain
 

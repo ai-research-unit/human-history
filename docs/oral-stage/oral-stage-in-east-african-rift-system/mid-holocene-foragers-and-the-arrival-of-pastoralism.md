@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is discharged through fission, ritual,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The arrival of pastoralists introduces competition and uncertainty for foragers; within herding groups, solidarity is high; trust extends along kinship and alliance networks; anxiety centers on herd loss, drought, and raiding.
-
 __Leadership & Personal Authority:__ Influence accrues to successful herders, ritual specialists, and mediators; authority is personal and persuasive; oral tradition celebrates exemplary leaders.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is given to kinship groups and respected individuals; no formal state or office exists; legitimacy is relational and earned.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized for defe
 
 __External Relations & Posture:__ Pastoralist groups expand into forager territory, sometimes through absorption, sometimes through displacement; inter-group relations range from exchange to conflict; no expansionist state exists, but the pastoral frontier advances southward.
 
+__Public Sentiment & Behavioral Temper:__ The arrival of pastoralists introduces competition and uncertainty for foragers; within herding groups, solidarity is high; trust extends along kinship and alliance networks; anxiety centers on herd loss, drought, and raiding.
+
 __Disaffection, Apathy & Spent Will:__ Displaced foragers may experience disaffection as their way of life is marginalized; within pastoral groups, spent will is resolved through fission or absorption; the residue accumulates among the marginalized.
+
 
 ## D06. Informational Domain
 

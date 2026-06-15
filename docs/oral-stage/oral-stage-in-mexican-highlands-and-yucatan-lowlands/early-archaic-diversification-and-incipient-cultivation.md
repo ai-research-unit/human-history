@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is low and managed through kins
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment is intimate, shaped by face-to-face interaction within small bands. Trust extends to kin and familiar trading partners; strangers are approached cautiously. The behavioral temper is pragmatic — survival requires cooperation and flexibility. Anxiety centers on subsistence risk; confidence derives from ecological knowledge passed orally.
-
 __Leadership & Personal Authority:__ Leadership is informal and situational. A skilled hunter leads the hunt; a knowledgeable elder guides seasonal movement. Authority derives from demonstrated competence and generosity, not office or inheritance. Charisma and oratorical skill matter — leadership is exercised through speech.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is personal, not institutional. Allegiance attaches to kin and band, not to abstract authority. Leaders retain influence only while they produce results and maintain reciprocity. Disaffection leads to departure, not rebellion — exit is the check on authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to band-sc
 
 __External Relations & Posture:__ Relations with other bands are governed by kinship, trade, and territorial respect. Hostility exists but is constrained by the costs of violence at low population density. Posture is cautious and reciprocal: alliance through intermarriage, trade through gifting, conflict through avoidance or limited raiding.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment is intimate, shaped by face-to-face interaction within small bands. Trust extends to kin and familiar trading partners; strangers are approached cautiously. The behavioral temper is pragmatic — survival requires cooperation and flexibility. Anxiety centers on subsistence risk; confidence derives from ecological knowledge passed orally.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is managed through exit. Individuals or families dissatisfied with band leadership or conditions join other bands or form new ones. Apathy is rare; survival demands engagement. Exhaustion of will is unlikely at this scale, where stakes are immediate and personal.
+
 
 ## D06. Informational Domain
 

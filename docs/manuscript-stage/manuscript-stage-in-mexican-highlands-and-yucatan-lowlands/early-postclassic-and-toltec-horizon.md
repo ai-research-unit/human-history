@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warfare endemic between competing centers; Tula
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-collapse societies exhibit resilience and adaptation; militaristic ideology celebrates warrior valor; cosmological anxiety about world-endings and cosmic cycles shapes collective psychology; pride in ancestry and legitimating myth animates elite identity.
-
 __Leadership & Personal Authority:__ Rulers (possibly multiple at Chichen Itza) derive authority from lineage, military prowess, and priestly function; the legendary Quetzalcoatl-Topiltzin figure associated with Tula (whether historical or mythologized) becomes central to later legitimating traditions; charismatic authority blends with institutional roles.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rooted in mythological charter, military success, and ritual performance; subordinate communities accept tribute obligations when backed by overwhelming force and ideological sanction; allegiance conditional on protection and redistribution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Expansion phases show high collective m
 
 __External Relations & Posture:__ Aggressive expansion characterizes both Toltec and Chichen Itza hegemonies; long-distance trade requires diplomatic relationships with distant polities; the "Toltec-Maya" connection (whether conquest, alliance, trade, or shared ideology) remains archaeologically debated but indicates significant inter-regional interaction.
 
+__Public Sentiment & Behavioral Temper:__ Post-collapse societies exhibit resilience and adaptation; militaristic ideology celebrates warrior valor; cosmological anxiety about world-endings and cosmic cycles shapes collective psychology; pride in ancestry and legitimating myth animates elite identity.
+
 __Disaffection, Apathy & Spent Will:__ The destruction of Tula around 1150–1200 CE suggests internal collapse or external conquest; Chichen Itza's abandonment indicates similar exhaustion; the period closes with no successor hegemony established, fragmenting the political landscape.
+
 
 ## D06. Informational Domain
 

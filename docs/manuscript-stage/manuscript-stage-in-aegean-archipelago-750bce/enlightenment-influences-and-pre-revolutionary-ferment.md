@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry, vendetta, and localized violence pers
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Greek sentiment combines religious identity, historical memory of Byzantium and classical glory, resentment of Ottoman rule, and hope kindled by the French Revolution and Napoleonic upheavals; the mood shifts from resigned coexistence toward active nationalism over the period; the diaspora and intelligentsia cultivate patriotic fervor; trust networks deepen through commercial, educational, and conspiratorial ties.
-
 __Leadership & Personal Authority:__ Patriarchs, Phanariot princes, wealthy merchants, and village notables provide traditional leadership; new figures emerge from the intelligentsia: Adamantios Korais, the philologist promoting language reform from Paris; Rigas Feraios, the revolutionary martyr executed in 1798; military leaders like the klephts and future revolutionaries await their moment; charismatic authority increasingly attaches to the national cause rather than traditional office.
 
 __Legitimacy as Lived Allegiance:__ Ottoman legitimacy rests on power and the millet system's functional autonomy; Greeks feel no allegiance to the sultan beyond prudential submission; legitimacy inheres in the Orthodox Church and increasingly in the imagined Greek nation; the idea of a restored Greek state gains adherents among the educated; peasant allegiance remains local, familial, and religious rather than abstractly national.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will coalesces slowly thr
 
 __External Relations & Posture:__ Greeks look to Russia as Orthodox protector and potential liberator; the Russo-Turkish wars raise and dash hopes; Napoleonic France briefly inspires; Britain and other powers represent potential allies or obstacles; the diaspora maintains ties across European states; Greek strategy depends on great-power intervention, a calculation that will prove accurate by 1827.
 
+__Public Sentiment & Behavioral Temper:__ Greek sentiment combines religious identity, historical memory of Byzantium and classical glory, resentment of Ottoman rule, and hope kindled by the French Revolution and Napoleonic upheavals; the mood shifts from resigned coexistence toward active nationalism over the period; the diaspora and intelligentsia cultivate patriotic fervor; trust networks deepen through commercial, educational, and conspiratorial ties.
+
 __Disaffection, Apathy & Spent Will:__ Ottoman repression after the Orlov Revolt creates refugees and embitters survivors; fatalism and resignation persist among those who see no prospect for change; the generation of 1770 dies disappointed; but the diaspora and the young inherit their grievances without their exhaustion; by 1820 will has regenerated sufficiently for action.
+
 
 ## D06. Informational Domain
 

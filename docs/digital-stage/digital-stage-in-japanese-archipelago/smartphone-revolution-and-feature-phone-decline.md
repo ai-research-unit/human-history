@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction from the transition is modest g
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial smartphone skepticism ("Japanese feature phones are superior") gives way to enthusiastic adoption after 2011; the disaster creates emotional attachment to social media as lifeline, accelerating acceptance.
-
 __Leadership & Personal Authority:__ Steve Jobs and Apple acquire unusual cultural cachet in a market historically resistant to foreign technology brands; Masayoshi Son of SoftBank becomes associated with Japan's smartphone future through his exclusive iPhone deal.
 
 __Legitimacy as Lived Allegiance:__ Carrier loyalty, strong in the feature phone era, weakens as all major carriers eventually offer iPhones; brand attachment shifts toward platform (iOS vs Android) rather than network.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Government focus remains on post-disast
 
 __External Relations & Posture:__ Dependence on American platforms (Apple, Google) and Korean manufacturers (Samsung) represents a new form of technological subordination for a nation that had pioneered mobile internet; this shift is felt but not politically mobilized.
 
+__Public Sentiment & Behavioral Temper:__ Initial smartphone skepticism ("Japanese feature phones are superior") gives way to enthusiastic adoption after 2011; the disaster creates emotional attachment to social media as lifeline, accelerating acceptance.
+
 __Disaffection, Apathy & Spent Will:__ Electronics industry workers experience demoralization as Japanese firms lose smartphone market share; consumer enthusiasm for new devices coexists with industry-side malaise.
+
 
 ## D06. Informational Domain
 

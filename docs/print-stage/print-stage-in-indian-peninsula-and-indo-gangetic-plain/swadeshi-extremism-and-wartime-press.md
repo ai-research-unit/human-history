@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Communal riots increase (Calcutta, 1918); agrar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Swadeshi movement generates fervor; the partition of Bengal (1905) creates rage in Bengal and solidarity elsewhere; the Lucknow Pact (1916) produces hope; Jallianwala Bagh produces horror and rage that the press transmits to the reading public.
-
 __Leadership & Personal Authority:__ Tilak's imprisonment (1908–1914) makes him a martyr; his return energizes extremism; Annie Besant's Home Rule League mobilizes Madras; Gandhi emerges in South Africa and returns to India (1915), beginning his rise; leadership diversifies and the press profiles these figures extensively.
 
 __Legitimacy as Lived Allegiance:__ Crown loyalty erodes; the Raj's legitimacy depends on wartime promises (Montagu Declaration, 1917); when postwar reforms disappoint and Jallianwala Bagh shocks, legitimacy collapses among the reading public, setting the stage for non-cooperation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Home Rule movement demonstrates sus
 
 __External Relations & Posture:__ Indian troops fight in France, Mesopotamia, and East Africa; the press covers their service, building a claim for postwar reciprocity; the Ottoman collapse and Khilafat concern mobilize Muslim opinion, linking Indian politics to external events.
 
+__Public Sentiment & Behavioral Temper:__ The Swadeshi movement generates fervor; the partition of Bengal (1905) creates rage in Bengal and solidarity elsewhere; the Lucknow Pact (1916) produces hope; Jallianwala Bagh produces horror and rage that the press transmits to the reading public.
+
 __Disaffection, Apathy & Spent Will:__ Post-Jallianwala disaffection with British rule spreads beyond the educated elite; the press carries accounts of returned soldiers disillusioned by the gap between wartime sacrifice and postwar treatment; this disaffection fuels the transition to Gandhian mass politics.
+
 
 ## D06. Informational Domain
 

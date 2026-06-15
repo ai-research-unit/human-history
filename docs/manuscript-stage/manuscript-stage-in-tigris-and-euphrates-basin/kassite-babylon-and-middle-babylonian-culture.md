@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Long Kassite peace minimizes internal conflict;
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Long stability and conservative governance suggest public acceptance; Kassite adoption of Babylonian religion and culture eases assimilation; piety continues as normative public stance; sentiment toward foreign kings under Kassite legitimation difficult to assess.
-
 __Leadership & Personal Authority:__ Kassite kings adopt Babylonian royal titulature and ideology; some rulers (Kurigalzu I, Burna-Buriash II) actively correspond with peer monarchs; royal authority expressed through temple construction and land grants; personal charisma of individual rulers varies.
 
 __Legitimacy as Lived Allegiance:__ Kassite dynasty maintains legitimacy through religious patronage and administrative continuity; no evidence of major internal revolt; legitimacy rests on stewardship rather than conquest glory; acceptance reflects satisfactory governance rather than enthusiastic loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Long stable rule suggests adequate poli
 
 __External Relations & Posture:__ Full integration into Late Bronze Age diplomatic system; correspondence with Egypt (Amarna letters), Hatti, Assyria, and Elam; marriage alliances with peer monarchs; gift exchange maintains relationships; status as equal great power acknowledged; rivalry with Assyria intensifies over time.
 
+__Public Sentiment & Behavioral Temper:__ Long stability and conservative governance suggest public acceptance; Kassite adoption of Babylonian religion and culture eases assimilation; piety continues as normative public stance; sentiment toward foreign kings under Kassite legitimation difficult to assess.
+
 __Disaffection, Apathy & Spent Will:__ Little evidence of internal disaffection until final decades; long peace may mask accumulating apathy; sudden collapse under Elamite attack (1155 BCE) suggests shallow reserves of mobilizable will; dependence on external system left Babylon vulnerable when that system collapsed.
+
 
 ## D06. Informational Domain
 

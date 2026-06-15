@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social disorder was extreme — banditry, vende
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public mood oscillated between terror during the conquest, desperate hope during resistance, and triumphant restoration after Ahmad Gran's death; the Jesuit period introduced new anxieties as religious conversion divided communities and families, culminating in the relief of Orthodox restoration under Fasilides.
-
 __Leadership & Personal Authority:__ Emperor Lebna Dengel's authority collapsed as he fled from stronghold to stronghold; his grandson Gelawdewos rallied resistance with Portuguese help; the charismatic but divisive Susenyos imposed Catholic conversion by force, while Fasilides restored Orthodox legitimacy and founded Gondar as a symbol of stable authority.
 
 __Legitimacy as Lived Allegiance:__ The Solomonic dynasty's legitimacy was tested by military defeat but ultimately reinforced by leading the restoration; Susenyos's Catholic conversion undermined his legitimacy so thoroughly that even military victory could not sustain it, demonstrating that allegiance to the Orthodox Church was inseparable from allegiance to the crown.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The collective will to resist Ahmad Gra
 
 __External Relations & Posture:__ Portugal's intervention created the first sustained European presence in Ethiopia; Ottoman support for Adal internationalized the conflict; the expulsion of Jesuits under Fasilides marked a deliberate turn toward isolation from European religious influence, though trade contacts continued.
 
+__Public Sentiment & Behavioral Temper:__ The public mood oscillated between terror during the conquest, desperate hope during resistance, and triumphant restoration after Ahmad Gran's death; the Jesuit period introduced new anxieties as religious conversion divided communities and families, culminating in the relief of Orthodox restoration under Fasilides.
+
 __Disaffection, Apathy & Spent Will:__ The exhaustion of prolonged warfare left populations depleted of the energy for further conflict; Susenyos's abdication reflected recognition that continued Catholic imposition would destroy the realm he sought to rule; the settlement under Fasilides allowed accumulated disaffection to discharge into renewed Orthodox devotion.
+
 
 ## D06. Informational Domain
 

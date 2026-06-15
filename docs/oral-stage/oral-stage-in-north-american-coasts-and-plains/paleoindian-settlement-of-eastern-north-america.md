@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction resolved through mobility — d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public is the band — perhaps 25–50 individuals who know each other intimately. Sentiment is immediate and personal; mood spreads rapidly through the small group. The dominant temper probably combines confidence from successful hunts with anxiety during resource uncertainty. Trust radius high within the band, cautious with outsiders.
-
 __Leadership & Personal Authority:__ Leadership achieved through demonstrated competence — tracking skill, butchery efficiency, social tact, ritual knowledge. Authority temporary and task-specific; no paramount chief or permanent leader. Elders and skilled hunters command deference but not obedience.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and practical — one follows leaders who succeed and abandons those who fail. Legitimacy derives from demonstrated capability and generosity rather than office or descent. The small scale makes abstract legitimation unnecessary.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires consensus or
 
 __External Relations & Posture:__ Relations with other bands probably range from alliance through indifference to avoidance; at these densities, conflict over territory is inefficient. Posture cautious but not hostile; exogamous mating creates kinship links across bands. Other bands are potential mates, trading partners, and repositories of information about distant territories.
 
+__Public Sentiment & Behavioral Temper:__ The public is the band — perhaps 25–50 individuals who know each other intimately. Sentiment is immediate and personal; mood spreads rapidly through the small group. The dominant temper probably combines confidence from successful hunts with anxiety during resource uncertainty. Trust radius high within the band, cautious with outsiders.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection resolves through departure; the discontented individual joins another band or forms a new one. Apathy in the modern sense is unlikely — survival requires engagement. Will exhausts during prolonged hardship (Younger Dryas conditions) but regenerates when conditions improve.
+
 
 ## D06. Informational Domain
 

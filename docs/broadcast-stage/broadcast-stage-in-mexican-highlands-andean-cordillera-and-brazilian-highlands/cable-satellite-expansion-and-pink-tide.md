@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime and insecurity become dominant television
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anti-neoliberal sentiment builds through the decade, from the 1994 Zapatista uprising and Mexican peso crisis through the 2001 Argentine collapse; public mood shifts leftward, expressed in electoral outcomes and street mobilizations broadcast regionally; trust in traditional political parties erodes.
-
 __Leadership & Personal Authority:__ Charismatic leaders emerge as broadcast presence: Chavez's marathon television appearances, Lula's personal narrative broadcast during campaigns, Kirchner's post-crisis authority; media mastery becomes prerequisite for political ascent; opposition between populist leaders and media owners intensifies.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy consolidates but elite credibility collapses in economic crises; private media face legitimacy challenges as partisans rather than neutral observers; state legitimacy strengthens where commodity revenues enable redistribution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Left-wing governments demonstrate will 
 
 __External Relations & Posture:__ Anti-US sentiment crystallizes around Iraq War coverage and historical intervention memories; regional integration accelerates (Mercosur, UNASUR precursors); Telesur launches (2005) as explicit counter to US broadcast influence; Venezuela-Cuba axis generates alternative information flows.
 
+__Public Sentiment & Behavioral Temper:__ Anti-neoliberal sentiment builds through the decade, from the 1994 Zapatista uprising and Mexican peso crisis through the 2001 Argentine collapse; public mood shifts leftward, expressed in electoral outcomes and street mobilizations broadcast regionally; trust in traditional political parties erodes.
+
 __Disaffection, Apathy & Spent Will:__ Political disenchantment with neoliberalism fuels Pink Tide mobilization rather than producing apathy; the 2002 Venezuelan coup attempt and subsequent polarization create lasting estrangement between Chavista and opposition camps; the cycle of outrage and mobilization sustains itself through broadcast conflict.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Without visible warfare or significant inequali
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The collective temper, inferred from monumental investment and lack of defensive works, suggests confidence, communal pride, and expansive ambition; trust extends beyond kin to valley-wide and cross-valley cooperation; risk perception is moderate, focused on environmental rather than human threat.
-
 __Leadership & Personal Authority:__ Leaders likely emerge from ritual specialization—those who command ceremonial knowledge, direct construction, and mediate between communities; personal authority is expressed in spoken word, the ability to mobilize labor, and access to esoteric traditions; no royal iconography or individual glorification is evident.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ritual efficacy and the demonstration that leadership secures prosperity; the willingness to contribute labor to monuments suggests allegiance is robust; legitimacy is enacted in repeated participation, not inscribed in text.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The sheer scale of construction testifi
 
 __External Relations & Posture:__ Relations among Norte Chico centers appear cooperative or neutral rather than competitive; exchange networks link sites; no evidence of raiding, conquest, or defensive posture; external relations beyond the region (highland, far coast) are commercial and probably peaceful.
 
+__Public Sentiment & Behavioral Temper:__ The collective temper, inferred from monumental investment and lack of defensive works, suggests confidence, communal pride, and expansive ambition; trust extends beyond kin to valley-wide and cross-valley cooperation; risk perception is moderate, focused on environmental rather than human threat.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of disaffection or apathy during the florescence; will is not yet spent; the system is in expansion phase, with fresh ambition rather than exhaustion.
+
 
 ## D06. Informational Domain
 

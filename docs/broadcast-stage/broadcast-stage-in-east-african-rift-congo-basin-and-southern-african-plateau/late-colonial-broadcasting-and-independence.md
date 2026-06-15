@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Colonial broadcasting suppresses African politi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Radio carries the emotional register of decolonization: independence day broadcasts generate euphoria, while emergency bulletins during crises convey fear. The transition from colonial to African voices on air marks a profound psychological shift, validating African presence in the modern public sphere.
-
 __Leadership & Personal Authority:__ Independence leaders — Kenyatta, Nyerere, Kaunda, Lumumba, Nkrumah (in neighboring Ghana) — use radio to project personal authority across national territory. The leader's voice, broadcast into remote villages, creates parasocial presence, making the distant state intimate and personalized.
 
 __Legitimacy as Lived Allegiance:__ Broadcasting constructs new national identities, though competing ethnic loyalties persist. Colonial-era legitimacy dissolves; new states must build allegiance through broadcast nation-building narratives. Success varies: Tanzania's Swahili-language broadcasting builds genuine national sentiment; the Congo's fractured linguistic landscape resists consolidation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Radio mobilizes populations for indepen
 
 __External Relations & Posture:__ External service broadcasting (BBC, VOA) provides alternative information sources, signaling Cold War competition for African allegiance. Independent states establish external services (Voice of Kenya, Radio Tanzania) to project regional influence and support liberation movements in still-colonized territories.
 
+__Public Sentiment & Behavioral Temper:__ Radio carries the emotional register of decolonization: independence day broadcasts generate euphoria, while emergency bulletins during crises convey fear. The transition from colonial to African voices on air marks a profound psychological shift, validating African presence in the modern public sphere.
+
 __Disaffection, Apathy & Spent Will:__ Colonial-era alienation persists among populations excluded from broadcasting's nation-building project. Minorities in dominant-ethnic states, rural populations beyond signal reach, and illiterate communities for whom colonial-language programming remains inaccessible develop disaffection that broadcasting cannot heal.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ethnic violence erupts (Nagorno-Karabakh, Ferga
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Hope and anxiety alternate; glasnost initially generates enthusiasm, then disillusionment as problems prove deeper than reforms; nationalist sentiment surges in republics; Russian identity crisis as empire contracts.
-
 __Leadership & Personal Authority:__ Gorbachev initially commands attention and hope; his authority erodes as economic conditions worsen; Yeltsin emerges as charismatic alternative, elected RSFSR president (1991); republic leaders (Landsbergis, Gamsakhurdia) mobilize national sentiment.
 
 __Legitimacy as Lived Allegiance:__ Communist Party legitimacy collapses; Gorbachev's legitimacy depends on reform progress, which stalls; nationalist leaders claim legitimacy from nations; Soviet identity fragments into constituent parts.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reformist will real but unclear on dest
 
 __External Relations & Posture:__ Cold War ends; Eastern European satellites defect (1989); German reunification (1990); "new thinking" abandons ideological competition; external pressure reduced but domestic dissolution accelerates regardless.
 
+__Public Sentiment & Behavioral Temper:__ Hope and anxiety alternate; glasnost initially generates enthusiasm, then disillusionment as problems prove deeper than reforms; nationalist sentiment surges in republics; Russian identity crisis as empire contracts.
+
 __Disaffection, Apathy & Spent Will:__ Initial enthusiasm exhausts as reforms fail to deliver; by 1991, disillusionment with all-union solutions widespread; apathy about preserving union enables dissolution; emotional energy redirected to national projects or private survival.
+
 
 ## D06. Informational Domain
 

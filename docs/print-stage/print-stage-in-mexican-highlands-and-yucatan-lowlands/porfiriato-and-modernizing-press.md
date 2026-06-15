@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry, endemic in the early republic, declin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The urban middle and upper classes embrace modernization; European fashions, positivist science, and material progress define aspiration. The pax porfiriana provides security valued after decades of instability. Rural populations oscillate between resignation and smoldering resentment; dispossession breeds grievance that finds no outlet under repression.
-
 __Leadership & Personal Authority:__ Porfirio Diaz embodies personal authority—the indispensable leader whose presence guarantees order. His biography as Liberal military hero (defeating the French at Puebla) and his patronage distribution sustain loyalty. The cientificos serve as technocratic lieutenants without independent political bases.
 
 __Legitimacy as Lived Allegiance:__ The regime claims legitimacy through material progress and order after chaos. Electoral rituals continue but carry no competitive content; reelection is managed through controlled conventions. Legitimacy rests on performance—roads, railways, urban beautification—rather than consent. Among the dispossessed, allegiance is coerced rather than given.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime demonstrates will through su
 
 __External Relations & Posture:__ Mexico cultivates relations with European powers—France, Britain, Germany—as counterweights to United States influence. US investment dominates railways, mining, and petroleum; the asymmetry creates leverage Washington can deploy. The regime maintains formal sovereignty while accommodating foreign capital.
 
+__Public Sentiment & Behavioral Temper:__ The urban middle and upper classes embrace modernization; European fashions, positivist science, and material progress define aspiration. The pax porfiriana provides security valued after decades of instability. Rural populations oscillate between resignation and smoldering resentment; dispossession breeds grievance that finds no outlet under repression.
+
 __Disaffection, Apathy & Spent Will:__ Urban workers endure; rural populations survive. The absence of political space channels grievance into private resentment or millenarian religion rather than organized opposition. Liberal critics—journalists, intellectuals—face harassment; many emigrate or accommodate. The will to resist exists but lacks organization and opportunity.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Periodic crackdowns (1826, 1848–1855, 1866, 1
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public fear of surveillance dampens open dissent, but forbidden texts carry enhanced prestige; reading Herzen or Lenin confers membership in a moral elite.
-
 __Leadership & Personal Authority:__ Charismatic editors—Novikov, Herzen, Chernyshevsky, Lenin—become movement prophets; their words carry authority beyond their circulation.
 
 __Legitimacy as Lived Allegiance:__ Underground publications delegitimize the autocracy by documenting abuses and articulating alternatives; each confiscation reinforces the moral authority of the banned.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to publish despite risk sustai
 
 __External Relations & Posture:__ Émigré communities in London, Geneva, Paris, and Munich provide refuge and print infrastructure beyond the reach of Russian police—though not beyond surveillance.
 
+__Public Sentiment & Behavioral Temper:__ Public fear of surveillance dampens open dissent, but forbidden texts carry enhanced prestige; reading Herzen or Lenin confers membership in a moral elite.
+
 __Disaffection, Apathy & Spent Will:__ Repeated failures (Decembrists, Populists, 1905) produce despair in some, radicalization in others; by 1917 disaffection with the autocracy is widespread enough to topple it.
+
 
 ## D06. Informational Domain
 

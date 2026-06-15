@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Sinai insurgency continues though contained
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear stabilizes as the new normal. The initial shock of 2013-2017 settles into chronic wariness. Young people grow up knowing only this environment. Self-censorship becomes reflexive rather than conscious.
-
 __Leadership & Personal Authority:__ Sisi extends his rule through constitutional amendments (2019) allowing terms until 2030. His image saturates public space. Personality cult elements emerge though without totalitarian consistency.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on negative foundations: preventing Brotherhood return, maintaining order, avoiding Syrian chaos. Positive achievements (infrastructure, Zohr gas, reduced terrorism) supplement but do not replace fear-based compliance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Opposition will is exhausted. A brief f
 
 __External Relations & Posture:__ Egypt aligns with Saudi-Emirati positions, participating in Yemen coalition and Qatar blockade. Relations with Turkey remain hostile over Brotherhood exile support. Russian and Chinese ties deepen through arms purchases and infrastructure deals.
 
+__Public Sentiment & Behavioral Temper:__ Fear stabilizes as the new normal. The initial shock of 2013-2017 settles into chronic wariness. Young people grow up knowing only this environment. Self-censorship becomes reflexive rather than conscious.
+
 __Disaffection, Apathy & Spent Will:__ A generation comes of age in disillusionment. Neither political participation nor protest appears viable. Migration becomes the aspiration for those with means. Domestic resignation dominates.
+
 
 ## D06. Informational Domain
 

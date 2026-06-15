@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry and local disorder increase in periods
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Early Han relief from Qin harshness generates goodwill; by the late Western Han, fiscal pressure and elite corruption erode sentiment; the public temper darkens, and messianic expectations circulate among the distressed.
-
 __Leadership & Personal Authority:__ Founding emperor Liu Bang (Gaozu) establishes the charismatic template; Emperor Wu (r. 141–87 BCE) is the dominant personality, expanding the empire and centralizing power; later emperors are often weak, with power drifting to consort families and eunuchs.
 
 __Legitimacy as Lived Allegiance:__ The Han claims the Mandate of Heaven, succeeding the failed Qin; Confucian ideology, established as state orthodoxy under Emperor Wu, provides a justifying framework; legitimacy is deeper than under the Qin, but erosion in the late period is visible.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Emperor Wu's aggressive expansion again
 
 __External Relations & Posture:__ The Xiongnu confederacy is the primary rival, alternately fought and appeased through heqin (marriage alliance); the Western Regions are brought under loose suzerainty; the posture is expansionist under Emperor Wu, defensive later; the Silk Road opens diplomatic and commercial exchange with distant polities.
 
+__Public Sentiment & Behavioral Temper:__ Early Han relief from Qin harshness generates goodwill; by the late Western Han, fiscal pressure and elite corruption erode sentiment; the public temper darkens, and messianic expectations circulate among the distressed.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection surfaces in critiques of court corruption; popular messianic movements suggest spent confidence in the dynasty; Wang Mang's usurpation (9 CE) channels this disaffection into a doomed reform experiment; the emotional residue is a dynasty remembered as legitimate but decayed.
+
 
 ## D06. Informational Domain
 

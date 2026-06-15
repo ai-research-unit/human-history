@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Staff aging and recruitment freezes create skil
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ AIR cultivates national sentiment through patriotic programming; regional services foster linguistic identity; public trust erodes as government propaganda functions become transparent; nostalgia attaches to golden-age programming.
-
 __Leadership & Personal Authority:__ Director Generals shape institutional culture; notable voices—announcers, newsreaders—acquire personal followings; political leadership uses AIR access as patronage; ministers determine editorial direction.
 
 __Legitimacy as Lived Allegiance:__ AIR's neutrality claim collapses during the Emergency when the broadcaster becomes a naked propaganda instrument; post-Emergency recovery proves partial; credibility gaps widen as private media alternatives emerge.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Successive governments retain AIR as in
 
 __External Relations & Posture:__ External Services Division broadcasts in multiple languages to South Asia, West Asia, Africa, and beyond; programming counters hostile propaganda and projects Indian viewpoints; diaspora services maintain cultural connections.
 
+__Public Sentiment & Behavioral Temper:__ AIR cultivates national sentiment through patriotic programming; regional services foster linguistic identity; public trust erodes as government propaganda functions become transparent; nostalgia attaches to golden-age programming.
+
 __Disaffection, Apathy & Spent Will:__ Urban listeners defect to private FM and television; rural audiences retain AIR for agricultural information while seeking entertainment elsewhere; institutional morale declines as relevance wanes; the development broadcasting mission loses animating conviction.
+
 
 ## D06. Informational Domain
 

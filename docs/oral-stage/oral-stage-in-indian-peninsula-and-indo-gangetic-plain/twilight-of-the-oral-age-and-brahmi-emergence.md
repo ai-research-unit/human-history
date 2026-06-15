@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Nanda state falls to Chandragupta Maurya ar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public is largely unaware of the scribal innovation underway; literacy is an elite and administrative affair; the masses continue in oral culture; sentiment is shaped by taxation, local conditions, and religious affiliation, not by the emergence of writing.
-
 __Leadership & Personal Authority:__ Chanakya emerges as the strategic mastermind behind Chandragupta's rise — a brahmin intellectual whose authority derives from knowledge and cunning rather than lineage or force; his success demonstrates the power of systematic thought applied to politics; the Arthashastra tradition he embodies is the intellectual infrastructure of the transition.
 
 __Legitimacy as Lived Allegiance:__ The Nanda legitimacy deficit enables Chandragupta's coup; the Mauryas will seek stronger legitimation through Brahmanical ritual, Buddhist patronage, and the visible presence of inscribed edicts; writing becomes a tool of legitimation — the king's words literally carved in stone.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to build a more effective stat
 
 __External Relations & Posture:__ The northwest remains contested; Seleucid presence in the Indus region provides both threat and contact with Hellenistic administrative practices; the exchange of ambassadors (Megasthenes will come to Pataliputra under Chandragupta) brings literate Greeks into contact with the Mauryan court; external relations facilitate the diffusion of scribal ideas.
 
+__Public Sentiment & Behavioral Temper:__ The public is largely unaware of the scribal innovation underway; literacy is an elite and administrative affair; the masses continue in oral culture; sentiment is shaped by taxation, local conditions, and religious affiliation, not by the emergence of writing.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection with the Nandas enables regime change; the new Mauryan order channels this energy into empire-building; no spent will is evident — the political class is energized by opportunity rather than exhausted by struggle.
+
 
 ## D06. Informational Domain
 

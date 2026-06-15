@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry is endemic, the Huang Chao Rebellion (
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The confidence of High Tang gives way to anxiety, nostalgia, and cynicism; poets like Du Fu chronicle the suffering; the public mood oscillates between despair and grim adaptation; trust radius contracts to immediate kin and local communities.
-
 __Leadership & Personal Authority:__ Effective leadership shifts to military strongmen whose authority derives from armed force rather than moral legitimacy; the late Tang emperors are puppets of eunuch factions and military governors; Five Dynasties rulers rise and fall by violence.
 
 __Legitimacy as Lived Allegiance:__ Dynastic legitimacy erodes as emperors demonstrably lack power; the Mandate of Heaven is invoked by each successive claimant but commands little genuine allegiance; legitimacy becomes a function of who can maintain order locally.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The center loses capacity for unified a
 
 __External Relations & Posture:__ The Tang frontier system collapses; the Tibetan Empire seizes the northwest, the Uyghurs dominate the steppe, the Khitan Liao empire rises in the northeast; China ceases to dominate its neighbors and instead faces peer competitors or superiors.
 
+__Public Sentiment & Behavioral Temper:__ The confidence of High Tang gives way to anxiety, nostalgia, and cynicism; poets like Du Fu chronicle the suffering; the public mood oscillates between despair and grim adaptation; trust radius contracts to immediate kin and local communities.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion characterizes the period; the great rebellions burn themselves out; populations adapt to whoever rules locally; the political class is cynical about dynastic claims; spent will is the dominant affect.
+
 
 ## D06. Informational Domain
 

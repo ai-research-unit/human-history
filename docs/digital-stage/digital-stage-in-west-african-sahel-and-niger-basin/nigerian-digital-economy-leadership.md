@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Regulatory unpredictability forces some startup
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Youth enthusiasm for tech entrepreneurship as an alternative to oil-dependent formal employment drives ecosystem energy. The #EndSARS movement of October 2020 demonstrates tech-savvy youth capacity for collective action and their alienation from the governing order.
-
 __Leadership & Personal Authority:__ Tech founders—Tayo Oviosu of Paga, Olugbenga Agboola of Flutterwave, Shola Akinlade of Paystack—achieve visibility as a new entrepreneurial class. Their success narratives inspire emulation.
 
 __Legitimacy as Lived Allegiance:__ State legitimacy among educated urban youth remains low, with digital platforms providing alternative spaces for expression and organization outside state control. The Twitter ban deepens this alienation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Buhari administration's mixed signa
 
 __External Relations & Posture:__ Nigerian tech companies expand across Africa, with Flutterwave and Paystack operating in multiple countries. Diaspora connections to London, San Francisco, and Dubai create international networks. Competition with Kenya's tech ecosystem drives regional positioning.
 
+__Public Sentiment & Behavioral Temper:__ Youth enthusiasm for tech entrepreneurship as an alternative to oil-dependent formal employment drives ecosystem energy. The #EndSARS movement of October 2020 demonstrates tech-savvy youth capacity for collective action and their alienation from the governing order.
+
 __Disaffection, Apathy & Spent Will:__ #EndSARS mobilization in 2020 demonstrates digital-enabled collective action; the subsequent crackdown and Lekki toll gate shootings leave trauma and distrust. By 2023, the "Obidient" movement supporting Peter Obi channels similar energy through digital organizing, though electoral disappointment compounds disaffection.
+
 
 ## D06. Informational Domain
 

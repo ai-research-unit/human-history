@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry increases along contested frontiers; t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Provincial populations transfer loyalty pragmatically to effective local powers; the Mughal emperor retains symbolic reverence even as his actual authority disappears.
-
 __Leadership & Personal Authority:__ Charismatic successors—Shuja-ud-Daula in Awadh, Alivardi Khan in Bengal, Bajirao I among the Marathas, Ranjit Singh's predecessors among the Sikhs—consolidate personal followings that exceed their formal offices.
 
 __Legitimacy as Lived Allegiance:__ Successor states maintain nominal Mughal allegiance, requesting farmans and paying token tribute to preserve legitimating continuity; the emperor's seal validates documents whose actual authority derives from provincial power.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Successor elites demonstrate high polit
 
 __External Relations & Posture:__ Successor states pursue independent foreign policies—Hyderabad's alliance with the Marathas, then the British; Bengal's commercial accommodations with European companies; the Marathas' expansive chauth-collection across northern India.
 
+__Public Sentiment & Behavioral Temper:__ Provincial populations transfer loyalty pragmatically to effective local powers; the Mughal emperor retains symbolic reverence even as his actual authority disappears.
+
 __Disaffection, Apathy & Spent Will:__ Imperial loyalists in Delhi experience despair as successive invasions and puppet successions reduce the throne to ceremonial nullity; the court's manuscript culture records this decline in melancholic poetry and chronicle.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Peasant disturbances peak 1905–1907 then subs
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Revolutionary euphoria of 1905 gives way to disillusionment; worker militancy revives by 1912; educated society polarizes between liberals seeking gradual reform and radicals demanding revolution.
-
 __Leadership & Personal Authority:__ Nicholas II lacks the will to either genuinely constitutionalize or effectively repress; Stolypin provides vigorous leadership until assassination (1911); revolutionary leaders remain in exile or underground.
 
 __Legitimacy as Lived Allegiance:__ October Manifesto briefly renews hope; Duma dissolution (1906, 1907) and electoral manipulation erode faith; Bloody Sunday (January 1905) permanently damages tsarist mystique among workers.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Regime wills survival but vacillates be
 
 __External Relations & Posture:__ Defeat by Japan humiliates; alliance with France deepens; entente with Britain (1907) forms; rivalry with Austria-Hungary in Balkans intensifies; pan-Slavism drives policy toward war.
 
+__Public Sentiment & Behavioral Temper:__ Revolutionary euphoria of 1905 gives way to disillusionment; worker militancy revives by 1912; educated society polarizes between liberals seeking gradual reform and radicals demanding revolution.
+
 __Disaffection, Apathy & Spent Will:__ Post-1907 "period of reaction" sees intelligentsia retreat into cultural concerns; worker apathy gives way to renewed militancy; peasant quietude masks unresolved land hunger; emotional reserves depleted.
+
 
 ## D06. Informational Domain
 

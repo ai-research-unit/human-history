@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Enforcement delays allow anticompetitive harm t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ European publics grow skeptical of American platform power through the 2010s, with the 2013 Snowden revelations, 2018 Cambridge Analytica scandal, and ongoing privacy breaches darkening sentiment and creating political space for aggressive enforcement.
-
 __Leadership & Personal Authority:__ Competition Commissioner Margrethe Vestager (2014–2024) becomes the public face of European platform regulation, cultivating personal authority through high-profile press conferences announcing Google fines.
 
 __Legitimacy as Lived Allegiance:__ Competition enforcement draws legitimacy from consumer protection framing, positioning the Commission as defender of European interests against American corporate power.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Member states broadly support platform 
 
 __External Relations & Posture:__ Enforcement strains EU-US relations; American officials and tech executives denounce cases as protectionist, while European authorities frame enforcement as neutral application of longstanding rules.
 
+__Public Sentiment & Behavioral Temper:__ European publics grow skeptical of American platform power through the 2010s, with the 2013 Snowden revelations, 2018 Cambridge Analytica scandal, and ongoing privacy breaches darkening sentiment and creating political space for aggressive enforcement.
+
 __Disaffection, Apathy & Spent Will:__ By 2026, repeated large fines failing to restructure markets breeds some enforcement fatigue; the question whether competition law can discipline platform power at all remains unresolved.
+
 
 ## D06. Informational Domain
 

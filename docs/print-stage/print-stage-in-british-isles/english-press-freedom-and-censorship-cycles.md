@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Suppressed speech generates grievance; censorsh
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment oscillates between fear of sedition and resentment of suppression. Moments of crisis (civil war, revolution, invasion threat) tilt toward restriction; stability and prosperity tilt toward liberty. The "liberty of the press" becomes a sentiment-laden phrase, object of toasts and slogans, by the eighteenth century. Trust in printed information rises as censorship declines and editorial reliability improves.
-
 __Leadership & Personal Authority:__ Individual figures personify press freedom struggles: John Milton (Areopagitica, 1644), John Wilkes (1760s), William Cobbett (1800s–1830s), W.T. Stead (1880s–1890s). Editors and proprietors exercise leadership through their publications; politicians court or combat press influence. Personal authority of figures like Northcliffe shapes political outcomes.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy of censorship erodes progressively. Tudor-Stuart subjects accept licensing as royal prerogative; by the nineteenth century, press freedom is understood as constitutional liberty. Legitimate authority shifts from Crown to Parliament to "public opinion" expressed through press. Censorship becomes illegitimate except in wartime emergency.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will to censor varies with perceived th
 
 __External Relations & Posture:__ Foreign censorship regimes provide comparative reference — Continental absolutism as negative example, American First Amendment as positive model. British press freedom becomes source of national pride and soft power; exiled dissidents publish in London for continental distribution. Imperial expansion carries English press law to colonies, though modified by local censorship.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment oscillates between fear of sedition and resentment of suppression. Moments of crisis (civil war, revolution, invasion threat) tilt toward restriction; stability and prosperity tilt toward liberty. The "liberty of the press" becomes a sentiment-laden phrase, object of toasts and slogans, by the eighteenth century. Trust in printed information rises as censorship declines and editorial reliability improves.
+
 __Disaffection, Apathy & Spent Will:__ Prosecutions generate martyrs whose persecution intensifies support (Wilkes, Cobbett). Repeated failure of censorship produces official apathy — enforcement abandoned as futile. By late nineteenth century, will to censor domestic political speech largely spent; residual controls target obscenity, blasphemy, and official secrets rather than political opinion.
+
 
 ## D06. Informational Domain
 

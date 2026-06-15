@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was absorbed through feasting, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence and ambition characterized the period: population growth, ceremonial elaboration, and expanding exchange networks indicate collective energy. Inter-center rivalry coexisted with cooperation; trust extended through kinship and alliance; distrust marked relations with outsiders.
-
 __Leadership & Personal Authority:__ Chiefs derived authority from genealogical claims, ritual performance, oratorical skill, and success in exchange and warfare. Leadership was personal and charismatic; the colossal heads at La Venta and San Lorenzo memorialized individual rulers. Succession passed within elite lineages but required public validation.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to rulers was grounded in reciprocity: leaders who provided feasting, protection, and ritual access commanded loyalty. Disaffection arose when reciprocity failed; followers could migrate or support rivals. Legitimacy was personal and performative, not institutional.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will was mobilized for monum
 
 __External Relations & Posture:__ Relations among centers were primarily commercial and ceremonial, not military-imperial. No single center dominated the sphere; influence radiated through prestige, exchange, and cultural emulation rather than conquest. The Olmec heartland exerted cultural influence but not political control.
 
+__Public Sentiment & Behavioral Temper:__ Confidence and ambition characterized the period: population growth, ceremonial elaboration, and expanding exchange networks indicate collective energy. Inter-center rivalry coexisted with cooperation; trust extended through kinship and alliance; distrust marked relations with outsiders.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the expanding networks and ceremonial investment indicate collective energy remained high. La Venta's decline ~400 BCE may reflect local succession failure or resource shifts, not sphere-wide exhaustion.
+
 
 ## D06. Informational Domain
 

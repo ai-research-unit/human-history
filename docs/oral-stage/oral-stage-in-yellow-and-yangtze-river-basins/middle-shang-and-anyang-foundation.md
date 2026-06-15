@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is managed through lineage mediation, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite confidence is high during consolidation; commoners experience the system as demanding but stable, with trust extending within lineage and locality—public sentiment is pious toward ancestors and deferential toward authority, though anxiety about divine favor pervades the ritual atmosphere.
-
 __Leadership & Personal Authority:__ Royal authority is personal, concentrated in the king's role as chief diviner and ritual intermediary with ancestors; charisma and military success reinforce legitimacy—the king commands through spoken word and presence, and succession crises test the resilience of personal authority.
 
 __Legitimacy as Lived Allegiance:__ Allegiance rests on ancestral sanction, ritual efficacy, and redistributive generosity; subjects believe the king's divination connects them to supernatural favor—legitimacy is strongest among those who benefit from patronage and weakest among peripheral populations and captives.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ruling elite displays cohesive will
 
 __External Relations & Posture:__ The Shang maintain tributary relations with surrounding polities and conduct campaigns against unconquered "fang" peoples; external posture is assertive, with punitive expeditions securing borders and captives—rivalry with peripheral groups is continuous, and external enemies provide sacrificial victims for royal rites.
 
+__Public Sentiment & Behavioral Temper:__ Elite confidence is high during consolidation; commoners experience the system as demanding but stable, with trust extending within lineage and locality—public sentiment is pious toward ancestors and deferential toward authority, though anxiety about divine favor pervades the ritual atmosphere.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is latent among slaves, captives, and subordinate populations; overt resistance is suppressed through violence—elite will remains strong, and no exhaustion is visible, though the cumulative burden of tribute and corvée tests commoner endurance.
+
 
 ## D06. Informational Domain
 

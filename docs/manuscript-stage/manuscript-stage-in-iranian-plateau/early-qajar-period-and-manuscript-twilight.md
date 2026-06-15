@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Public order was restored relative to the inter
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Relief at restored order characterized early sentiment; the disasters of the Russian wars produced anxiety and humiliation; by mid-century, a mix of traditional deference and emerging discontent characterized public mood; trust remained localized to kin and community rather than extended to the state.
-
 __Leadership & Personal Authority:__ Agha Muhammad Khan (d. 1797) founded the dynasty through ruthless force; Fath Ali Shah (r. 1797–1834) embodied ceremonial monarchy — magnificent in display, weak in substance; Muhammad Shah (r. 1834–1848) and the young Nasir al-Din Shah (r. 1848–1896) continued the pattern; personal authority derived from the throne rather than individual charisma.
 
 __Legitimacy as Lived Allegiance:__ Qajar legitimacy rested on effective rule rather than sacred lineage — they lacked the Safavid claim to descent from the Imams; the ulama provided religious sanction; popular allegiance was passive acceptance rather than enthusiastic support; the Russian defeats damaged prestige without producing regime-threatening delegitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Qajar state had sufficient will to 
 
 __External Relations & Posture:__ Iran was caught between Russian expansion from the north and British concern for India from the south; the Treaty of Turkmenchay (1828) ceded territory and granted extraterritorial rights to Russia; British influence grew in the south and at court; the external posture was defensive and increasingly subordinate, seeking to balance the two powers rather than resist either.
 
+__Public Sentiment & Behavioral Temper:__ Relief at restored order characterized early sentiment; the disasters of the Russian wars produced anxiety and humiliation; by mid-century, a mix of traditional deference and emerging discontent characterized public mood; trust remained localized to kin and community rather than extended to the state.
+
 __Disaffection, Apathy & Spent Will:__ The trauma of military defeat bred a combination of fatalism and inchoate desire for reform; reformist sentiment existed among some officials and ulama but lacked institutional expression; popular disaffection remained latent; the will required for transformation was not yet mobilized.
+
 
 ## D06. Informational Domain
 

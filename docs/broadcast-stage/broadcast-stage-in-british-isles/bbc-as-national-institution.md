@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Periodic crises (Suez, Northern Ireland coverag
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The BBC commands substantial public affection, consistently polling as Britain's most trusted news source despite partisan criticism; audience surveys reveal attachment transcending political divisions, though intensity of affection varies across generations and classes.
-
 __Leadership & Personal Authority:__ Directors-General set institutional tone: Reith's austere paternalism; Hugh Greene's 1960s liberalization; Charles Curran's steady stewardship; Alasdair Milne's creative ambition; John Birt's managerial transformation; Greg Dyke's populism; Mark Thompson's digital strategy.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on dual foundation: democratic mandate through Parliament and popular mandate through audience loyalty; Reithian ethos of public service broadcasting provides ideological justification that survives commercialization pressures.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Institutional will to defend editorial 
 
 __External Relations & Posture:__ World Service projects British soft power globally; BBC relationship with government oscillates between collaborative and adversarial, depending on party in power and specific controversies; European broadcasting partnerships develop through EBU.
 
+__Public Sentiment & Behavioral Temper:__ The BBC commands substantial public affection, consistently polling as Britain's most trusted news source despite partisan criticism; audience surveys reveal attachment transcending political divisions, though intensity of affection varies across generations and classes.
+
 __Disaffection, Apathy & Spent Will:__ Staff cynicism grows through repeated reorganizations; commercial pressure and political attacks induce defensive posture; by 2000s, internal surveys reveal declining morale alongside persistent external loyalty.
+
 
 ## D06. Informational Domain
 

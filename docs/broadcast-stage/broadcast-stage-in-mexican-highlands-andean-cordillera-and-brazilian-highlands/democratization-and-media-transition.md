@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban crime becomes primary broadcast news cont
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Democratic euphoria transitions to "democratic disenchantment" as economic difficulties persist. Hope for transformation meets institutional inertia. Trust in institutions low; personalism in politics persists. Crime fear becomes dominant public emotion by decade's end.
-
 __Leadership & Personal Authority:__ Democratic leaders emerge: Alfonsín, Sarney, Aylwin represent transition; Menem, Collor, Salinas represent neoliberal turn. Media owners (Marinho, Azcárraga, Magnetto) exercise authority parallel to elected officials. Lula's emergence (1989 election defeat) signals future.
 
 __Legitimacy as Lived Allegiance:__ Electoral legitimacy replaces military; democratic procedures accepted. But economic performance conditions allegiance — hyperinflation destroys legitimacy (Alfonsín, Collor); stabilization restores it (Menem, Cardoso). Media legitimacy shifts from regime partnership to independent commercial authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Democratic will consolidates; military 
 
 __External Relations & Posture:__ Cold War ends; US-Latin America relations shift to trade and drug enforcement. Regional integration advances (Mercosur, NAFTA). Human rights as diplomatic currency; OAS democratic commitments. Venezuela's 1992 coup attempts signal coming instability.
 
+__Public Sentiment & Behavioral Temper:__ Democratic euphoria transitions to "democratic disenchantment" as economic difficulties persist. Hope for transformation meets institutional inertia. Trust in institutions low; personalism in politics persists. Crime fear becomes dominant public emotion by decade's end.
+
 __Disaffection, Apathy & Spent Will:__ Early democratic enthusiasm yields to routine politics and periodic disillusionment. Economic hardship generates protest but not regime rejection. Electoral turnout remains relatively high; democratic commitment survives despite disappointments.
+
 
 ## D06. Informational Domain
 

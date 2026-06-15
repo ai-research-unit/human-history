@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Far-right movements mobilize online. The 2015 m
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety about migration, terrorism, and economic precarity pervades. Trust in EU institutions stabilizes but does not recover to pre-crisis levels. Anti-establishment sentiment finds outlets in populist movements.
-
 __Leadership & Personal Authority:__ Merkel remains the dominant figure but her authority erodes after the migration decision. Macron rises with the 2017 French election. Populist leaders—Salvini, Orban, the Brexit campaigners—command significant followings.
 
 __Legitimacy as Lived Allegiance:__ Brexit crystallizes legitimacy crisis. The 2016 referendum reveals deep divisions. EU supporters and Euroskeptics harden into opposing camps. The project's legitimacy depends increasingly on instrumental delivery rather than idealistic commitment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ GDPR's passage demonstrates regulatory 
 
 __External Relations & Posture:__ Transatlantic relations strain under Trump (2017–). Sanctions on Russia continue. Chinese investment draws scrutiny. The EU positions itself as a regulatory alternative to both American laissez-faire and Chinese state control.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety about migration, terrorism, and economic precarity pervades. Trust in EU institutions stabilizes but does not recover to pre-crisis levels. Anti-establishment sentiment finds outlets in populist movements.
+
 __Disaffection, Apathy & Spent Will:__ Voter turnout in European Parliament elections remains low until 2019's uptick. Youth disaffection with traditional parties persists. Climate activism channels some energy; apathy absorbs the rest.
+
 
 ## D06. Informational Domain
 

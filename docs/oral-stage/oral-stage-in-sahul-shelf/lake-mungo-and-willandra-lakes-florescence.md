@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobilityâ
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The lakeside population inhabits a favorable environment with predictable resources; public sentiment is inferred to be stable and confident; trust extends through kin networks and trading partnerships; no evidence of widespread anxiety or conflict.
-
 __Leadership & Personal Authority:__ Leadership is personal and situationalâ€”elders, skilled hunters, or ritual specialists command respect but not coercive obedience; the careful treatment of certain burials suggests that personal authority is recognized and honored in death.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin, band, and the shared ritual order; legitimacy flows from demonstrated competence and adherence to custom; no centralized authority requires legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will manifests in communal h
 
 __External Relations & Posture:__ Relations with neighboring populations are likely a mix of exchange, intermarriage, and occasional conflict; the lake system's resources may attract visitors and create opportunities for both alliance and rivalry; overall posture is neither expansionist nor defensive.
 
+__Public Sentiment & Behavioral Temper:__ The lakeside population inhabits a favorable environment with predictable resources; public sentiment is inferred to be stable and confident; trust extends through kin networks and trading partnerships; no evidence of widespread anxiety or conflict.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection or exhaustion; the florescent phase of occupation suggests a society in confident equilibrium; the residue is minimal.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Internal peace under the Principate allows grie
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Pax Romana creates conditions of relative security and confidence after the civil war era; trust extends within social networks; anxiety focuses on individual fortune and imperial favor rather than existential threat; the mood is more settled than in the late Republic, though the Antonine Plague creates localized panic.
-
 __Leadership & Personal Authority:__ The emperor embodies supreme personal authority; successful emperors (Augustus, Vespasian, Trajan, Hadrian, Antoninus Pius, Marcus Aurelius) command genuine allegiance; provincial governors and military commanders exercise delegated charisma; the personal quality of the emperor matters enormously for systemic function.
 
 __Legitimacy as Lived Allegiance:__ The Augustan settlement establishes a fiction of restored Republic that gradually yields to open acceptance of monarchy; emperor worship provides a ritual form for allegiance; succession remains the system's weakness — adoption of competent heirs works when it works (the "Five Good Emperors"); hereditary succession produces Nero and Commodus; legitimacy is strong but depends on imperial performance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to act concentrates in the emp
 
 __External Relations & Posture:__ Rome reaches its maximum extent under Trajan; Hadrian consolidates rather than expands; the Parthian frontier remains contested; Germanic and Sarmatian pressure increases toward period's end; the posture is defensive-aggressive — maintaining dominance while absorbing frontier pressure; Marcus Aurelius spends most of his reign on military campaigns.
 
+__Public Sentiment & Behavioral Temper:__ The Pax Romana creates conditions of relative security and confidence after the civil war era; trust extends within social networks; anxiety focuses on individual fortune and imperial favor rather than existential threat; the mood is more settled than in the late Republic, though the Antonine Plague creates localized panic.
+
 __Disaffection, Apathy & Spent Will:__ Elite apathy may increase under emperors who exclude senatorial advice; popular disaffection appears in periodic grain riots; the exhaustion of the late Republic is replaced by depoliticized acceptance; this is stability but also a flattening of political energy; Marcus Aurelius's exhausted reign and the instability following his death suggest that imperial will itself may be depleted by the period's end.
+
 
 ## D06. Informational Domain
 

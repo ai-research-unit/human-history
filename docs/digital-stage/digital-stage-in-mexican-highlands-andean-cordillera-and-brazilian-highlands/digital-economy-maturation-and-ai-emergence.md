@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Cybercrime rises alongside digital adoption; ro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-pandemic fatigue combines with economic anxiety; Argentines oscillate between hope for Milei's reforms and fear of further disruption; Brazilians experience relief at democratic stabilization after January 2023.
-
 __Leadership & Personal Authority:__ AMLO's morning press conferences establish a direct-communication model that Sheinbaum inherits; Lula's return relies on coalition management communicated through traditional and digital channels.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy recovers in Brazil following the failed insurrection; Peru's rapid presidential turnover erodes institutional confidence; Chile's constitutional process leaves unresolved questions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Climate activism finds new energy throu
 
 __External Relations & Posture:__ Mexico deepens economic integration with the United States through nearshoring; Brazil balances between Western and BRICS alignments while navigating technology transfer negotiations.
 
+__Public Sentiment & Behavioral Temper:__ Post-pandemic fatigue combines with economic anxiety; Argentines oscillate between hope for Milei's reforms and fear of further disruption; Brazilians experience relief at democratic stabilization after January 2023.
+
 __Disaffection, Apathy & Spent Will:__ Youth disengagement from formal politics continues despite high social media political consumption; algorithmic filter bubbles reinforce existing convictions while depressing cross-cutting dialogue.
+
 
 ## D06. Informational Domain
 

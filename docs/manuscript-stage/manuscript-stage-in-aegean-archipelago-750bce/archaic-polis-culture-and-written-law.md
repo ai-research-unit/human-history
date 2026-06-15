@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Tyranny, stasis (civil conflict), and factional
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Competitive honor persists; civic pride (philotimia) supplements aristocratic glory; trust extends through citizenship and shared military service; the mood is confident and expansionary, with colonization and trade success reinforcing optimism.
-
 __Leadership & Personal Authority:__ Lawgivers (Solon), tyrants (Peisistratos, Polycrates), and reformers (Cleisthenes) exercise personal authority to reshape institutions; charisma and reputation concentrate allegiance, but institutional office increasingly regularizes leadership.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy shifts from pure aristocratic birth toward law and civic institution; Solonian reforms and Cleisthenic democracy claim legitimacy through written law and citizen participation; allegiance attaches to the polis and its laws as well as to persons.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve manifests in constit
 
 __External Relations & Posture:__ Greek poleis interact with Lydia, Persia, Egypt, and Phoenicia; Ionian Greeks fall under Persian rule (~546 BCE onward); the Ionian Revolt (~499–494 BCE) and Persian invasions create shared external threat; Greek identity crystallizes against the barbarian other.
 
+__Public Sentiment & Behavioral Temper:__ Competitive honor persists; civic pride (philotimia) supplements aristocratic glory; trust extends through citizenship and shared military service; the mood is confident and expansionary, with colonization and trade success reinforcing optimism.
+
 __Disaffection, Apathy & Spent Will:__ Stasis and tyranny reflect internal disaffection; reforms aim to channel discontent into institutional participation; spent will does not accumulate as a systemic residue, as external threat and civic reform rekindle collective energy.
+
 
 ## D06. Informational Domain
 

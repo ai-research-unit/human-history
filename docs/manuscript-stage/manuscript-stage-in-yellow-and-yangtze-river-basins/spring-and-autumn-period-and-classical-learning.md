@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The fengjian order decays as lords ignore Zhou 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Commoners' sentiments go largely unrecorded. Among the literate, a sense of civilizational crisis pervades—the rites are not observed, the music is corrupted, the hierarchy is inverted. Anxiety about disorder coexists with competitive ambition among states.
-
 __Leadership & Personal Authority:__ The hegemon (ba) system places effective leadership outside the Zhou kingship. Successive hegemons—Duke Huan of Qi, Duke Wen of Jin—command allegiance through military success and ritual prestige. Rulers increasingly seek counsel from traveling scholars.
 
 __Legitimacy as Lived Allegiance:__ Zhou kingship retains formal legitimacy; no state openly claims the royal title. But allegiance has hollowed: lords pay ritual obeisance while ignoring royal commands. The Mandate of Heaven concept provides a framework for judging rulers but does not stabilize actual allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ States demonstrate strong will to survi
 
 __External Relations & Posture:__ Interstate relations mix warfare, diplomacy, marriage alliance, and ritual covenants (meng). The system resembles a multipolar balance of power. Northern and western "barbarian" peoples (Rong, Di) are sometimes allied with, sometimes fought. Chu's legitimacy is contested by northern states.
 
+__Public Sentiment & Behavioral Temper:__ Commoners' sentiments go largely unrecorded. Among the literate, a sense of civilizational crisis pervades—the rites are not observed, the music is corrupted, the hierarchy is inverted. Anxiety about disorder coexists with competitive ambition among states.
+
 __Disaffection, Apathy & Spent Will:__ Elite writings express disaffection with the prevailing disorder. Confucius's wanderings reflect repeated rejection; his melancholy is paradigmatic. Commoners' disaffection manifests in flight to less-taxed territories. No mass movements are recorded, but the texts bespeak moral exhaustion.
+
 
 ## D06. Informational Domain
 

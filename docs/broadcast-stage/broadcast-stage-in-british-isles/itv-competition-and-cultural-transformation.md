@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Youth disorder concerns (Mods vs. Rockers 1964)
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 1950s deference dissolves into the 1960s questioning; confidence and optimism in early decade; "Swinging Sixties" captures mood of liberation; generational divide sharpens; by late decade, anxiety about disorder and decline emerges; the "permissive society" contested.
-
 __Leadership & Personal Authority:__ Macmillan ("never had it so good") projects Edwardian ease; Wilson offers technocratic modernization; cultural leaders (Beatles, designers, directors) command unprecedented influence; television personalities achieve national recognition; the old authority of class and institution weakens.
 
 __Legitimacy as Lived Allegiance:__ Monarchy retains loyalty though demystified; political parties maintain mass membership; broadcasting institutions trusted; the BBC faces challenge but adapts; ITV earns legitimacy through popular programming; church authority continues to erode.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Labour modernization agenda (1964-1970)
 
 __External Relations & Posture:__ Suez humiliation (1956) reshapes self-understanding; decolonization accelerates (Africa, Caribbean); "East of Suez" withdrawal (1968); EEC membership sought; American alliance paramount; nuclear deterrent marks great-power pretension; retreat from global role televised.
 
+__Public Sentiment & Behavioral Temper:__ The 1950s deference dissolves into the 1960s questioning; confidence and optimism in early decade; "Swinging Sixties" captures mood of liberation; generational divide sharpens; by late decade, anxiety about disorder and decline emerges; the "permissive society" contested.
+
 __Disaffection, Apathy & Spent Will:__ Youth alienation emerges as cultural phenomenon; working-class frustration grows with relative economic decline; immigrant communities face exclusion; Northern Ireland Catholics mobilize (civil rights from 1967); the exhaustion of postwar settlement visible by 1970.
+
 
 ## D06. Informational Domain
 

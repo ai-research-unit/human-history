@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil war between factions (1824–1825) repres
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Revolutionary fervor drives the initial uprising; Greek sentiment combines religious hatred of the Turk, national aspiration, and local grievances; massacres on both sides (Tripolitsa 1821, Chios 1822, Missolonghi 1826) intensify emotion; foreign philhellenic enthusiasm provides moral support; exhaustion and factional bitterness accompany later years; by 1830 relief and hope mix with awareness of devastation.
-
 __Leadership & Personal Authority:__ The revolution produces military heroes (Theodoros Kolokotronis, Georgios Karaiskakis), naval commanders (Andreas Miaoulis), political figures (Alexandros Mavrokordatos), and the martyred poet Lord Byron; competing charismas fuel factional conflict; Kapodistrias provides respected civilian leadership from 1827 until his assassination; no single leader dominates; collective leadership is contested and divided.
 
 __Legitimacy as Lived Allegiance:__ Revolutionary legitimacy rests on popular uprising and foreign recognition; the constitutions of Epidaurus and subsequent assemblies claim popular sovereignty; legitimacy is contested among factions; Kapodistrias draws legitimacy from foreign backing and personal reputation; the new monarchy (Otto of Bavaria, 1832) will rest on great-power guarantee rather than organic legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Greek will to fight persists through re
 
 __External Relations & Posture:__ Greek diplomacy seeks great-power support; Britain, France, and Russia intervene for varied reasons (geopolitical balance, philhellenism, Orthodox solidarity); Ottoman military response is supplemented by Egyptian forces under Ibrahim Pasha; the Greek position depends on external support, obtained through appeals to European public opinion and diplomatic maneuvering; the Treaty of London (1827) and Navarino (1827) mark great-power commitment to Greek independence.
 
+__Public Sentiment & Behavioral Temper:__ Revolutionary fervor drives the initial uprising; Greek sentiment combines religious hatred of the Turk, national aspiration, and local grievances; massacres on both sides (Tripolitsa 1821, Chios 1822, Missolonghi 1826) intensify emotion; foreign philhellenic enthusiasm provides moral support; exhaustion and factional bitterness accompany later years; by 1830 relief and hope mix with awareness of devastation.
+
 __Disaffection, Apathy & Spent Will:__ War exhaustion affects all parties by the late 1820s; factional defeat creates embittered losers; some regions and individuals withdraw from active participation; the assassination of Kapodistrias (1831) reflects unspent resentment; but overall the will achieves its object—independence—and exhaustion is partly relieved by success.
+
 
 ## D06. Informational Domain
 

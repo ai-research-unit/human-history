@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Slave resistance takes the form of flight (maro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Zanzibari elites enjoy confidence and prosperity at the system's peak; slaves experience fear, despair, and muted resistance; interior communities in raided zones live in terror; protected areas maintain normal social affect; anxiety rises as European pressure increases.
-
 __Leadership & Personal Authority:__ Sultan Seyyid Said (d. 1856) embodies effective commercial leadership; his successors Majid and Barghash maintain authority with British backing; Tippu Tip commands personal authority in the interior through wealth, force, and charisma; leadership is personal rather than institutional.
 
 __Legitimacy as Lived Allegiance:__ The Sultan's legitimacy rests on commercial success, Islamic governance, and Omani lineage; slaves offer no allegiance; interior populations engage with the Zanzibari system as trading partners or victims, not subjects; legitimacy is shallow beyond the coast.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Zanzibari will is directed toward comme
 
 __External Relations & Posture:__ Zanzibar maintains diplomatic and commercial relations with Britain, France, Germany, and the United States; the British alliance provides naval protection but constrains the slave trade; competition among European powers over East Africa intensifies; the 1885 Berlin Conference partition is imposed without Zanzibari consent.
 
+__Public Sentiment & Behavioral Temper:__ Zanzibari elites enjoy confidence and prosperity at the system's peak; slaves experience fear, despair, and muted resistance; interior communities in raided zones live in terror; protected areas maintain normal social affect; anxiety rises as European pressure increases.
+
 __Disaffection, Apathy & Spent Will:__ Enslaved populations harbor deep disaffection; raided interior communities experience demoralization and despair; Zanzibari elites begin to recognize the system's unsustainability as external pressure mounts; by 1885 the system's will is being broken from outside.
+
 
 ## D06. Informational Domain
 

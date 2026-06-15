@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction cannot be discharged through tradition
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The collective mood is one of constrained grief and watchful endurance; trust is limited to kin and camp; the behavioral temper is adaptive compliance masking persistent attachment to country, kin, and law that cannot be openly expressed.
-
 __Leadership & Personal Authority:__ Traditional leaders (elders, ritual bosses) retain authority within the camp, transmitting law and story in quiet moments; their authority is invisible to colonial administrators, who see only mission-appointed "headmen"; leadership is dual-track, overt and covert.
 
 __Legitimacy as Lived Allegiance:__ The colonial order commands compliance, not allegiance; legitimacy is a function of force, not consent; Aboriginal allegiance remains with country, kin, and Dreaming, the living law transmitted orally despite suppression.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Organized political will is nascent; th
 
 __External Relations & Posture:__ Aboriginal communities have no external relations as polities; they are subjects, not actors, in the colonial frame; posture is defensive, inward-facing, preserving what can be preserved.
 
+__Public Sentiment & Behavioral Temper:__ The collective mood is one of constrained grief and watchful endurance; trust is limited to kin and camp; the behavioral temper is adaptive compliance masking persistent attachment to country, kin, and law that cannot be openly expressed.
+
 __Disaffection, Apathy & Spent Will:__ Grief, trauma, and cumulative loss settle as background affect; apathy is a rational response to powerlessness; but will is not spent — it is redirected into the quiet work of keeping language, ceremony, and kinship alive in the cracks of colonial control.
+
 
 ## D06. Informational Domain
 

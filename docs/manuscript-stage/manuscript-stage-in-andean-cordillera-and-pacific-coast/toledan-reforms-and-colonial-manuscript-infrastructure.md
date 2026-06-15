@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Indigenous flight from mita obligations creates
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Indigenous communities oscillate between resignation, strategic compliance, and covert resistance; Spanish authorities maintain anxiety about potential uprising; trust between colonizer and colonized minimal; the mood darkens under epidemic and mita burdens.
-
 __Leadership & Personal Authority:__ Viceroy Toledo (1569–1581) dominates the era through personal authority and systematic reform; curacas exercise diminished but real leadership within communities; charismatic religious figures (saints, miracle-workers) command devotion documented in hagiographic manuscripts.
 
 __Legitimacy as Lived Allegiance:__ Spanish rule claims divine sanction and conquest right; indigenous communities comply under coercion while preserving alternative legitimacy claims in memory and hidden practice; legitimacy is enforced rather than deeply felt among the colonized.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Colonial state demonstrates sustained p
 
 __External Relations & Posture:__ The viceroyalty faces no external military threat; piracy affects coastal trade; internal focus dominates; relations with unconquered Amazonian peoples remain peripheral and documented in missionary reports.
 
+__Public Sentiment & Behavioral Temper:__ Indigenous communities oscillate between resignation, strategic compliance, and covert resistance; Spanish authorities maintain anxiety about potential uprising; trust between colonizer and colonized minimal; the mood darkens under epidemic and mita burdens.
+
 __Disaffection, Apathy & Spent Will:__ Demographic collapse and coercive extraction produce demoralization among indigenous populations; the will to resist openly largely spent after Vilcabamba's fall (1572); disaffection channeled into legal resistance and cultural persistence rather than rebellion.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ State terrorism generates massive unprocessed g
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear pervades public life under military terror; self-censorship extends beyond media into daily conversation. Beneath the surface, growing disaffection accumulates. Telenovela viewing provides emotional outlet and vicarious social mobility narratives. The 1985 Mexico earthquake transforms fear into solidarity, bypassing state channels.
-
 __Leadership & Personal Authority:__ Military strongmen dominate — Pinochet in Chile, Videla/Galtieri in Argentina, Figueiredo in Brazil — projecting modernizing authority through broadcast media. Azcárraga (Televisa) and Roberto Marinho (Globo) exercise media-empire authority parallel to state power.
 
 __Legitimacy as Lived Allegiance:__ Military legitimacy erodes across the decade: economic crisis after 1982 delegitimizes developmentalist claims; human rights revelations delegitimize security justifications; Malvinas defeat delegitimizes Argentine military. Brazilian abertura represents controlled legitimacy transfer. Broadcast media legitimacy shifts from regime identification toward entertainment credibility.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Military will to maintain control weake
 
 __External Relations & Posture:__ Cold War alignment with United States continues; Carter-era human rights pressure creates friction. Malvinas/Falklands War (1982) demonstrates isolation; US sides with Britain. Sandinista Nicaragua and Cuban presence maintain revolutionary threat narrative. Mexico maintains non-intervention doctrine.
 
+__Public Sentiment & Behavioral Temper:__ Fear pervades public life under military terror; self-censorship extends beyond media into daily conversation. Beneath the surface, growing disaffection accumulates. Telenovela viewing provides emotional outlet and vicarious social mobility narratives. The 1985 Mexico earthquake transforms fear into solidarity, bypassing state channels.
+
 __Disaffection, Apathy & Spent Will:__ Accumulated trauma and disaffection peak by decade's end; military will exhausted, populations oscillating between fear and awakening protest. The emotional reservoir for democratic transition builds beneath the controlled surface.
+
 
 ## D06. Informational Domain
 

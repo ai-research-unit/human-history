@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conquest-era warfare devastates Tenochtitlan (s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trauma pervades the surviving population: the death of kin, destruction of temples, prohibition of worship, and epidemic disease induce collective grief and despair; the conquered population expresses outward compliance under coercion while inner sentiment remains opaque to colonial sources; Spanish settlers display conquering confidence tempered by anxiety about indigenous numbers and potential rebellion.
-
 __Leadership & Personal Authority:__ Motecuhzoma II's death (1520) and Cuauhtemoc's execution (1525) eliminate Aztec leadership; indigenous caciques persist as intermediaries, their authority deriving now from colonial recognition rather than pre-conquest legitimacy; Cortes holds personal authority until displaced by viceregal administration; Viceroy Mendoza establishes stable colonial leadership.
 
 __Legitimacy as Lived Allegiance:__ Colonial legitimacy rests on conquest, royal grant, and papal donation (Inter caetera, 1493); indigenous allegiance extracted through coercion and conversion rather than consent; mendicant friars claim legitimacy through spiritual authority and protection of indigenous converts; legitimacy remains contested, enforced rather than internalized.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Spanish political will to consolidate c
 
 __External Relations & Posture:__ Spain faces no peer competitor in the region; Portuguese Brazil lies distant; English and French intrusion not yet significant; the conquest opens transatlantic extraction flowing to Seville; external posture is extractive-imperial, oriented toward European power competition rather than regional rivals.
 
+__Public Sentiment & Behavioral Temper:__ Trauma pervades the surviving population: the death of kin, destruction of temples, prohibition of worship, and epidemic disease induce collective grief and despair; the conquered population expresses outward compliance under coercion while inner sentiment remains opaque to colonial sources; Spanish settlers display conquering confidence tempered by anxiety about indigenous numbers and potential rebellion.
+
 __Disaffection, Apathy & Spent Will:__ Profound disaffection underlies indigenous compliance; the emotional residue of conquest — grief, humiliation, loss of cosmological orientation — constitutes spent will that would take generations to process or redirect; Spanish settlers display factionalism (Cortes vs. Audiencia, encomenderos vs. Crown) but not apathy.
+
 
 ## D06. Informational Domain
 

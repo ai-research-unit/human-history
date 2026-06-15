@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The National Schism (1915–1917) fractures the
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Irredentist fervor is the dominant public emotion — hope during expansion, rage at setbacks, euphoria during Balkan Wars, collective trauma after 1922; print amplifies and synchronizes sentiment across the dispersed public.
-
 __Leadership & Personal Authority:__ Key figures — Kolettis (1844 speech), Trikoupis, Deligiannis, Venizelos — personify irredentist will; Venizelos' charisma fuses leadership and ideology until defeat discredits both.
 
 __Legitimacy as Lived Allegiance:__ Governments derive legitimacy from irredentist progress; failure delegitimates — Otho's passivity contributes to his overthrow; Constantine's caution splits loyalties; post-1922 governments struggle to anchor legitimacy in anything beyond revenge or reconstruction.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Great Idea sustains collective will
 
 __External Relations & Posture:__ Irredentism determines foreign policy — alignment with whichever Great Power seems likeliest to deliver territorial gains; the discourse constrains diplomacy, making concession appear as betrayal; the 1922 defeat forces a pivot toward regional accommodation (Greek-Turkish rapprochement, 1930).
 
+__Public Sentiment & Behavioral Temper:__ Irredentist fervor is the dominant public emotion — hope during expansion, rage at setbacks, euphoria during Balkan Wars, collective trauma after 1922; print amplifies and synchronizes sentiment across the dispersed public.
+
 __Disaffection, Apathy & Spent Will:__ The catastrophe generates profound disillusionment — betrayal by the Allies, failure of leadership, futility of sacrifice — settling as cynicism and political fragmentation; the discourse survives in hollow form, invoked ritually but no longer believed as program.
+
 
 ## D06. Informational Domain
 

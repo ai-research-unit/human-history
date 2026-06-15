@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Town-gown riots, guild conflicts, and patrician
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban mood oscillated between mercantile confidence and plague-time dread; civic pride expressed itself in monumental building and procession; trust extended within guild and neighborhood, less reliably across status lines; behavioral temper was regulated by statute and custom, infractions recorded in court rolls.
-
 __Leadership & Personal Authority:__ Mayors and leading patricians wielded personal authority; guild wardens commanded craft loyalty; charismatic preachers (mendicants, later reformers) moved urban crowds; leadership was documented in council election records and correspondence.
 
 __Legitimacy as Lived Allegiance:__ Citizenship (Bürgerrecht) bound individuals to town; oaths of allegiance formalized membership; legitimacy rested on charter privileges confirmed by emperor or prince; erosion appeared in tax revolts and guild uprisings, documented in petition and judgment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Town councils mobilized collective will
 
 __External Relations & Posture:__ Towns negotiated with territorial lords, bishops, and fellow towns; Hanseatic membership formalized inter-urban alliance; rivalry and cooperation were documented in diplomatic correspondence and treaty texts; posture shifted between assertive defense of liberties and pragmatic accommodation.
 
+__Public Sentiment & Behavioral Temper:__ Urban mood oscillated between mercantile confidence and plague-time dread; civic pride expressed itself in monumental building and procession; trust extended within guild and neighborhood, less reliably across status lines; behavioral temper was regulated by statute and custom, infractions recorded in court rolls.
+
 __Disaffection, Apathy & Spent Will:__ Urban populations could become exhausted by war, taxation, and plague; apathy appeared in declining guild participation and election turnout; disaffection fed uprisings (Zunftaufstände) when grievances accumulated; the spent-will residue was documented in declining civic investment and council complaints.
+
 
 ## D06. Informational Domain
 

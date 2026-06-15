@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Regulatory capture — the tendency of regulate
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public attitudes toward regulation shift from New Deal confidence in government oversight through Vietnam-era skepticism to Reagan-era hostility; these shifts enable the deregulatory turn of the 1980s.
-
 __Leadership & Personal Authority:__ FCC chairmen shape policy direction — Newton Minow's "vast wasteland" speech (1961) articulates public interest obligations, while Mark Fowler's market-oriented approach (1981–1987) dismantles Fairness Doctrine enforcement and loosens ownership rules.
 
 __Legitimacy as Lived Allegiance:__ The FCC's legitimacy rests on its role as public trustee of the airwaves; this framing erodes as deregulation redefines broadcasters as businesses serving consumer preferences rather than citizens serving public needs.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Congressional oversight, White House ap
 
 __External Relations & Posture:__ The FCC coordinates with international bodies (ITU) on spectrum allocation and with neighboring countries on border interference; Cold War concerns about foreign propaganda broadcasts inform some policy decisions.
 
+__Public Sentiment & Behavioral Temper:__ Public attitudes toward regulation shift from New Deal confidence in government oversight through Vietnam-era skepticism to Reagan-era hostility; these shifts enable the deregulatory turn of the 1980s.
+
 __Disaffection, Apathy & Spent Will:__ By 2005, critics from both left (media consolidation) and right (content regulation) attack the FCC's approach; the agency's Janet Jackson "wardrobe malfunction" response (2004) draws ridicule, suggesting exhausted authority.
+
 
 ## D06. Informational Domain
 

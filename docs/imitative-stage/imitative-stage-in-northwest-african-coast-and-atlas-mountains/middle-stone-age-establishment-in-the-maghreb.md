@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through avoidance
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional life of Middle Stone Age Maghrebian populations is inaccessible, but the structure of small-group living implies high mutual familiarity and trust calibrated by repeated interaction. Anxiety focuses on immediate threats: predators, hunger, injury, conflict. The behavioral temper is cautious, alert to danger, attentive to social cues. Trust extends throughout the band and to known individuals in neighboring bands; beyond that, strangers are approached with wariness.
-
 __Leadership & Personal Authority:__ Leadership is situational and earned. The experienced tracker leads the hunt; the elder with landscape knowledge guides seasonal movement. Authority derives from demonstrated competence, not formal position. Charisma — the ability to attract attention and imitation — matters for influence. No permanent leaders exist; authority shifts with task and circumstance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, not to abstract authority or institution. Compliance follows from trust in demonstrated competence, not from belief in a right to rule. Disaffection manifests as reduced cooperation and eventual departure. Legitimacy is personal and continuously renegotiated through daily interaction. There is no regime to legitimize or delegitimize — only relationships.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires assembling i
 
 __External Relations & Posture:__ Relations between bands range from intermarriage and cooperation to avoidance and conflict, depending on kinship connections and resource competition. Expansion is simply occupation of unoccupied territory during favorable conditions. There is no formal diplomacy; relationships are personal. Conflict, where it occurs, is between individuals or small groups, not organized warfare.
 
+__Public Sentiment & Behavioral Temper:__ The emotional life of Middle Stone Age Maghrebian populations is inaccessible, but the structure of small-group living implies high mutual familiarity and trust calibrated by repeated interaction. Anxiety focuses on immediate threats: predators, hunger, injury, conflict. The behavioral temper is cautious, alert to danger, attentive to social cues. Trust extends throughout the band and to known individuals in neighboring bands; beyond that, strangers are approached with wariness.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion from hardship, grief from loss, and frustration from conflict can drain individual and collective will. Chronic failure may lead to apathy and social withdrawal. The discharge mechanism is mobility — the demoralized can leave or rest. The residue is whatever malaise and distrust persist in individuals or groups unable to act — absorbed through time or carried to death.
+
 
 ## D06. Informational Domain
 

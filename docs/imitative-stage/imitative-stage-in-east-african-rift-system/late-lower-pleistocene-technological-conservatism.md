@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction clears through band fission, mo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust remains narrow, extending to band members and familiar neighbors. Increased resource stress may contract trust radius further as competition intensifies.
-
 __Leadership & Personal Authority:__ Leaders emerge situationally based on demonstrated competence. No permanent leadership exists; personal authority is task-specific and not heritable.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band; no abstract political authority exists. The social order is legitimate because it is immediate, not because it invokes justifying narrative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve is tested by immedia
 
 __External Relations & Posture:__ Relations with other bands remain situational—sometimes aggregation at abundant resources, sometimes avoidance or conflict. No stable alliances or permanent hostilities exist.
 
+__Public Sentiment & Behavioral Temper:__ Trust remains narrow, extending to band members and familiar neighbors. Increased resource stress may contract trust radius further as competition intensifies.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged resource failure may produce apathy and band dissolution. Individuals disperse to kin in other groups; spent will clears through fission rather than accumulating as resentment.
+
 
 ## D06. Informational Domain
 

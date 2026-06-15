@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through dominance in
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Behavioral temper is cautious, shaped by predation pressure and environmental uncertainty. Trust is narrow, extending to close kin and familiar band members.
-
 __Leadership & Personal Authority:__ Leadership is situational, arising from demonstrated competence rather than fixed office. Authority is personal and task-specific.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and immediate, tied to kinship and familiarity. No abstract authority exists.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to coordin
 
 __External Relations & Posture:__ Relations with other bands are wary, ranging from avoidance to aggression. No stable alliances or organized enmities exist.
 
+__Public Sentiment & Behavioral Temper:__ Behavioral temper is cautious, shaped by predation pressure and environmental uncertainty. Trust is narrow, extending to close kin and familiar band members.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as emigration or marginalization. The band is too small for collective apathy to accumulate; spent will clears through dispersal.
+
 
 ## D06. Informational Domain
 

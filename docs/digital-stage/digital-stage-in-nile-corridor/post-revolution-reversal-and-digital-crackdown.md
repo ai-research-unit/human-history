@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Sinai insurgency intensifies after 2013, wi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear replaces the revolutionary hope of 2011. Self-censorship becomes reflexive. Trust contracts to immediate family and close friends. Public political expression becomes dangerous.
-
 __Leadership & Personal Authority:__ Sisi cultivates a strongman image, promising stability and order. His authority depends on Gulf backing and security force loyalty rather than democratic legitimacy.
 
 __Legitimacy as Lived Allegiance:__ Regime legitimacy rests on three claims: that the Brotherhood threatened the state, that only the military can ensure stability, and that economic improvement will follow. Each claim has believers and skeptics.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will dissipates under rep
 
 __External Relations & Posture:__ Egypt aligns firmly with Saudi Arabia and the UAE against Qatar and the Brotherhood. Relations with the US remain tense over coup language but functional. Russia and China are cultivated as alternatives.
 
+__Public Sentiment & Behavioral Temper:__ Fear replaces the revolutionary hope of 2011. Self-censorship becomes reflexive. Trust contracts to immediate family and close friends. Public political expression becomes dangerous.
+
 __Disaffection, Apathy & Spent Will:__ Widespread disillusionment settles among the post-2011 generation. Neither regime supporters nor opponents feel confident. Apathy and cynicism become dominant rather than active opposition.
+
 
 ## D06. Informational Domain
 

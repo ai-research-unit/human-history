@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes within the Zagwe dynasty ar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is one of Christian highland particularism — a sense of chosen peoplehood, besieged but faithful, centered on sacred geography. Lalibela's "New Jerusalem" project channels collective sentiment into monumental piety. Trust radiates along kin and village lines, with the Church providing a broader framework of moral community.
-
 __Leadership & Personal Authority:__ King Lalibela (r. circa 1181–1221) commands extraordinary authority, his rock-hewn churches projecting sacral kingship. Hagiographic tradition attributes miraculous powers to him. Later Zagwe kings lack comparable charisma; personal authority does not institutionalize into stable succession.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on Christian kingship and church patronage rather than descent-based claims. The Zagwe are accepted as defenders of the faith and builders of sacred space, but the absence of Solomonic lineage leaves a latent vulnerability. Allegiance is real but conditional.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Zagwe maintain sufficient will to o
 
 __External Relations & Posture:__ Relations with lowland sultanates are hostile but contained. The Zagwe make no attempt to recover Red Sea access. Contact with Coptic Egypt continues through the appointment of abun (metropolitan bishops), but diplomatic reach is limited. The posture is defensive and inward-focused.
 
+__Public Sentiment & Behavioral Temper:__ The mood is one of Christian highland particularism — a sense of chosen peoplehood, besieged but faithful, centered on sacred geography. Lalibela's "New Jerusalem" project channels collective sentiment into monumental piety. Trust radiates along kin and village lines, with the Church providing a broader framework of moral community.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection crystallizes around the legitimacy question. Solomonic claimants in Shewa and Amhara regions maintain alternative allegiance networks. The dynasty's eventual overthrow in 1270 CE draws on accumulated disaffection among those who see Solomonic descent as essential to rightful rule.
+
 
 ## D06. Informational Domain
 

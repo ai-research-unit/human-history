@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Institutional sclerosis accumulates: case timel
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public opinion shifts from tech optimism (2005–2015) to techlash (2018–2024). Pew surveys show rising concern over platform power, privacy, and misinformation. Bipartisan distrust of Big Tech emerges, though for divergent reasons (conservatives cite censorship, liberals cite monopoly and misinformation).
-
 __Leadership & Personal Authority:__ Key figures shape the arc: Lina Khan's 2017 Yale Law Journal article "Amazon's Antitrust Paradox" reframes debate; her appointment as FTC Chair (2021) signals policy shift. Jonathan Kanter at DOJ Antitrust (2021–2025) pursues parallel agenda. Platform CEOs (Zuckerberg, Pichai, Cook, Bezos, Musk) become public faces of concentrated power.
 
 __Legitimacy as Lived Allegiance:__ Platform legitimacy erodes among elites and activists but remains high among users who continue daily engagement; the gap between rhetorical distrust and behavioral dependence complicates political will for strong remedies.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bipartisan antitrust bills pass House J
 
 __External Relations & Posture:__ U.S. antitrust posture increasingly coordinates with EU (Digital Markets Act, 2022) and faces divergence with China, which pursues its own tech crackdown (2020–2021) for different purposes (party control rather than competition).
 
+__Public Sentiment & Behavioral Temper:__ Public opinion shifts from tech optimism (2005–2015) to techlash (2018–2024). Pew surveys show rising concern over platform power, privacy, and misinformation. Bipartisan distrust of Big Tech emerges, though for divergent reasons (conservatives cite censorship, liberals cite monopoly and misinformation).
+
 __Disaffection, Apathy & Spent Will:__ By 2026, enforcement fatigue sets in. High-profile lawsuits drag through courts; remedies remain hypothetical. Public attention shifts to AI governance, and antitrust momentum dissipates without landmark breakups or structural reform.
+
 
 ## D06. Informational Domain
 

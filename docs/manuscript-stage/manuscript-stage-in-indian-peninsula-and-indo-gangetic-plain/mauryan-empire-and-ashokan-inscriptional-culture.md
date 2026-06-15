@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ashoka's conversion after the Kalinga war and h
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Ashoka's inscriptions reveal concern for public morality and suggest anxiety about social discord. The repeated exhortations to dharmic behavior imply that compliance was not automatic. Public sentiment appears to have been quiescent under strong rule but ready to fragment when central authority weakened. The radius of trust extended within jati and guild but not far beyond.
-
 __Leadership & Personal Authority:__ The Mauryan kings, particularly Chandragupta and Ashoka, exercised enormous personal authority. Chandragupta built the empire through military conquest; Ashoka sustained it through a combination of force and moral persuasion. The inscriptions present Ashoka as a father figure (devanampiya, "beloved of the gods") concerned for his subjects' welfare. This personal authority did not survive his death; successors lacked comparable stature.
 
 __Legitimacy as Lived Allegiance:__ Mauryan legitimacy rested on effective protection, administrative competence, and, under Ashoka, moral leadership. The inscription program was itself an exercise in legitimacy-building, carrying the king's voice to populations who would never see him. Allegiance was stronger in the Gangetic heartland than in recently conquered peripheries. After Ashoka, legitimacy eroded rapidly.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Under Chandragupta and Ashoka, politica
 
 __External Relations & Posture:__ The empire maintained diplomatic relations with the Seleucid successors to Alexander, exchanging ambassadors (Megasthenes at Pataliputra) and concluding a territorial settlement. Ashoka's missionary expeditions extended influence to Sri Lanka and possibly Southeast Asia and the Hellenistic Mediterranean. The posture was confident and outward-reaching under the great kings, defensive and contracting thereafter.
 
+__Public Sentiment & Behavioral Temper:__ Ashoka's inscriptions reveal concern for public morality and suggest anxiety about social discord. The repeated exhortations to dharmic behavior imply that compliance was not automatic. Public sentiment appears to have been quiescent under strong rule but ready to fragment when central authority weakened. The radius of trust extended within jati and guild but not far beyond.
+
 __Disaffection, Apathy & Spent Will:__ The rapid post-Ashokan collapse suggests that the centralizing will was not institutionalized and could not survive the loss of its animating figure. Provincial elites and military commanders defected rather than defending the dynasty. The residue of spent will was not re-anchored; it settled as fragmentation.
+
 
 ## D06. Informational Domain
 

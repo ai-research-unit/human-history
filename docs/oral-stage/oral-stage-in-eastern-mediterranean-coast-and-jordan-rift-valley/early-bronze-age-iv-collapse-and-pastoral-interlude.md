@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The disorder of the collapse — destruction la
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The psychological register of EB IV is unrecoverable, but structural conditions — displacement, loss of settled security, reliance on kin — suggest heightened in-group solidarity and suspicion of outsiders; trust radius contracts to the lineage.
-
 __Leadership & Personal Authority:__ Leadership is personal and situational: war leaders for raids, elders for dispute resolution, no permanent office — authority legitimated by spoken reputation and demonstrated competence.
 
 __Legitimacy as Lived Allegiance:__ With no polity to claim allegiance, legitimacy attaches to kin heads and lineage tradition; the "right to rule" is the right to lead one's own people, justified by genealogy and custom spoken at gatherings.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic: bands mo
 
 __External Relations & Posture:__ Pastoral bands interact with Egypt (now entering the First Intermediate Period) only marginally; Transjordanian groups raid southward, and Mesopotamian records (Akkadian, Ur III) mention "Amorite" pastoralists to the west — the external gaze sees mobile peoples, not cities.
 
+__Public Sentiment & Behavioral Temper:__ The psychological register of EB IV is unrecoverable, but structural conditions — displacement, loss of settled security, reliance on kin — suggest heightened in-group solidarity and suspicion of outsiders; trust radius contracts to the lineage.
+
 __Disaffection, Apathy & Spent Will:__ The collapse itself may represent spent will — populations that could no longer sustain urban institutions simply walked away. What remains is not apathy but a different mode of life, scaled to what oral coordination can manage.
+
 
 ## D06. Informational Domain
 

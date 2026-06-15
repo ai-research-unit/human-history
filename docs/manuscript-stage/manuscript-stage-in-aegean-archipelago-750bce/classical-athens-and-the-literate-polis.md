@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The stasis (civil strife) that follows the Sici
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Periclean confidence in Athenian greatness animates the early period; the plague and prolonged war erode morale, feeding demagogic politics (Cleon, Alcibiades); defeat at Syracuse (413 BCE) produces despair and recrimination; by 404 BCE the mood is one of exhaustion, factional bitterness, and humiliation.
-
 __Leadership & Personal Authority:__ Pericles dominates the first decade through rhetorical skill and strategic vision, elected strategos repeatedly; his death (429 BCE) leaves a vacuum filled by competing demagogues; Alcibiades embodies charismatic ambition but proves unreliable; no single figure reunifies the citizen body after the Sicilian disaster.
 
 __Legitimacy as Lived Allegiance:__ Democratic ideology commands deep allegiance among the citizen mass; the empire is legitimated as both defense against Persia and source of prosperity; military defeat and oligarchic coups (411, 404 BCE) rupture this allegiance, though democracy is restored (403 BCE) with renewed but chastened commitment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The assembly displays remarkable capaci
 
 __External Relations & Posture:__ Athens leads the Delian League, transformed into an empire extracting tribute from allies; Sparta heads the rival Peloponnesian League; the Peloponnesian War (431–404 BCE) is the defining struggle, ending in Athenian defeat, loss of empire, and Spartan imposition of oligarchy; Persia intervenes financially to tip the balance.
 
+__Public Sentiment & Behavioral Temper:__ Periclean confidence in Athenian greatness animates the early period; the plague and prolonged war erode morale, feeding demagogic politics (Cleon, Alcibiades); defeat at Syracuse (413 BCE) produces despair and recrimination; by 404 BCE the mood is one of exhaustion, factional bitterness, and humiliation.
+
 __Disaffection, Apathy & Spent Will:__ By 404 BCE the citizen body is depleted, exhausted, and divided; the oligarchic interlude produces murderous faction; the restored democracy after 403 BCE carries the trauma of civil war and seeks reconciliation through amnesty, but the empire's loss leaves the collective will diminished and turned inward.
+
 
 ## D06. Informational Domain
 

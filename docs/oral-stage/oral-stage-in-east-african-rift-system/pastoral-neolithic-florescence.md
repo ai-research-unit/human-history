@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuds and raids generate cycles of grievance ma
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of cautious confidence: pastoralists occupy a favorable ecological niche but face constant uncertainty from drought, disease, and raiding. Trust extends within kinship and age-grade networks; outsiders are treated with wariness. Pride in herd wealth and lineage is cultivated through oral praise and genealogy.
-
 __Leadership & Personal Authority:__ Leadership is personal and situational: elders lead through wisdom and oratory, warriors through courage, ritual specialists through access to the sacred. Big men with large herds and many dependents command respect. Authority is earned and must be continually performed; it is not inherited as office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin, lineage, and age-grade; there is no abstract state to command loyalty. Elders derive legitimacy from genealogical seniority and demonstrated judgment. The legitimacy of any leader rests on success in protecting herds and managing disputes. Failure erodes authority quickly.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized for raid
 
 __External Relations & Posture:__ Relations with neighboring pastoral groups are ambivalent: potential allies, potential raiders. Forager populations are incorporated as clients, exchange partners, or absorbed through intermarriage. No external power threatens; the region is isolated from major state systems. Expansion is into unoccupied or forager-held land, not conquest of peer polities.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of cautious confidence: pastoralists occupy a favorable ecological niche but face constant uncertainty from drought, disease, and raiding. Trust extends within kinship and age-grade networks; outsiders are treated with wariness. Pride in herd wealth and lineage is cultivated through oral praise and genealogy.
+
 __Disaffection, Apathy & Spent Will:__ In good times, disaffection is low; the pastoral system provides meaning and security. Drought, disease, or catastrophic herd loss can produce despair and social fragmentation. Recovery depends on the resilience of kinship networks to rebuild herds through loans and redistribution. The residue of spent will is absorbed or leads to emigration.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Hong Kong protests (2019) are suppressed throug
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pandemic fear and nationalist pride coexist; "Wolf Warrior" assertiveness rises in popular culture; anxiety about platform labor conditions surfaces; "lying flat" (tangping) sentiment emerges among youth rejecting competitive pressure.
-
 __Leadership & Personal Authority:__ Xi Jinping's authority consolidates; term limits removal (2018) signals indefinite rule; tech founders lose public visibility; Jack Ma's October 2020 speech criticizing regulators precipitates his disappearance from public life.
 
 __Legitimacy as Lived Allegiance:__ Zero-COVID success reinforces party legitimacy in 2020-2021; comparison with Western pandemic failures strengthens nationalist sentiment; Hong Kong and Xinjiang policies generate external criticism but domestic support.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The 19th Party Congress (2017) enshrine
 
 __External Relations & Posture:__ US-China tensions escalate through trade war, Huawei restrictions, and tech decoupling; Hong Kong intervention draws international condemnation; assertiveness in South China Sea continues; the external posture hardens.
 
+__Public Sentiment & Behavioral Temper:__ Pandemic fear and nationalist pride coexist; "Wolf Warrior" assertiveness rises in popular culture; anxiety about platform labor conditions surfaces; "lying flat" (tangping) sentiment emerges among youth rejecting competitive pressure.
+
 __Disaffection, Apathy & Spent Will:__ Youth disaffection crystallizes in "lying flat" discourse; tech worker burnout intensifies; lockdown fatigue accumulates but does not yet mobilize; the spent will is managed through atomization and surveillance.
+
 
 ## D06. Informational Domain
 

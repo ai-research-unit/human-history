@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ CBS News's "Rathergate" scandal (2004) over dis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ September 11 generates fear, grief, and patriotic unity expressed through simultaneous broadcast viewing; this unity fragments as Iraq War debate (2003) polarizes public opinion; Fox News and MSNBC increasingly serve as partisan comfort zones rather than shared information sources; anxiety persists as baseline mood.
-
 __Leadership & Personal Authority:__ President Bush's post-9/11 addresses demonstrate broadcast's remaining capacity for national leadership moments; cable news personalities (O'Reilly, Hannity, Matthews) gain influence with committed partisan audiences; network anchors' authority diminishes as alternatives multiply.
 
 __Legitimacy as Lived Allegiance:__ Trust in media continues declining; partisan media environments reinforce preexisting beliefs rather than building shared understanding; the Iraq War WMD intelligence failure damages credibility of both government and news organizations that transmitted claims uncritically; CBS document scandal exemplifies institutional vulnerability.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Post-9/11 national unity sufficient to 
 
 __External Relations & Posture:__ American media exports continue but face growing criticism for cultural imperialism; Al Jazeera emerges as alternative perspective; international audiences increasingly available to American viewers through internet; Canadian media continues balancing proximity and distinctiveness.
 
+__Public Sentiment & Behavioral Temper:__ September 11 generates fear, grief, and patriotic unity expressed through simultaneous broadcast viewing; this unity fragments as Iraq War debate (2003) polarizes public opinion; Fox News and MSNBC increasingly serve as partisan comfort zones rather than shared information sources; anxiety persists as baseline mood.
+
 __Disaffection, Apathy & Spent Will:__ War coverage exhaustion sets in by 2004-2005; Abu Ghraib scandal (2004) further divides opinion rather than creating consensus; younger viewers' disengagement from broadcast news accelerates; political participation remains suppressed despite media saturation; distrust generalizes across institutions.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Hibiya Riots (1905) against the Portsmouth 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National confidence rises after victory over China (1895) and Russia (1905); the press both reflects and amplifies patriotic sentiment; war coverage generates collective emotions of pride, anxiety, and eventually anger at perceived diplomatic failures.
-
 __Leadership & Personal Authority:__ The Meiji Emperor serves as unifying symbol, his image and words printed with reverence; press coverage sacralizes imperial authority; editors of major papers (Fukuzawa Yukichi, Tokutomi Soho) command intellectual authority, their editorials setting terms of public discussion.
 
 __Legitimacy as Lived Allegiance:__ The constitutional settlement enjoys broad elite acceptance; newspapers operate within the system, accepting its basic legitimacy while pushing against specific policies; mass readership internalizes imperial loyalty through school and press together.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The oligarchic government maintains coh
 
 __External Relations & Posture:__ The press enthusiastically supports imperial expansion; coverage of wars emphasizes Japanese victories and minimizes costs; treaty-port newspapers report foreign views, but domestic papers foster nationalism; Japan's Asian empire-building receives press legitimation.
 
+__Public Sentiment & Behavioral Temper:__ National confidence rises after victory over China (1895) and Russia (1905); the press both reflects and amplifies patriotic sentiment; war coverage generates collective emotions of pride, anxiety, and eventually anger at perceived diplomatic failures.
+
 __Disaffection, Apathy & Spent Will:__ The Hibiya Riots expose latent popular disaffection; socialist and labor movements, suppressed after 1910 (High Treason Incident), represent dissent that censorship drives underground rather than extinguishes; disaffection persists beneath the patriotic surface.
+
 
 ## D06. Informational Domain
 

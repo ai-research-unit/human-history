@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Massacres continue across the expanding frontie
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Settler sentiment hardens into "doomed race" ideology — the belief that Aboriginal people will inevitably die out, that their demise is natural and not requiring intervention; humanitarian concern flickers (the Aborigines Protection Society has colonial branches) but is marginal; Aboriginal sentiment is one of grief, resistance, and adaptation to dispossession — survival becomes the primary emotional orientation.
-
 __Leadership & Personal Authority:__ Aboriginal leaders who survive the first contact generations — Jandamarra (Pigeon) in the Kimberley, various resistance figures in Queensland and the Top End — command local allegiance and organize resistance; but the loss of senior elders through massacre and disease means that leadership often falls to younger men without full ritual authority; colonial leadership is diffuse — squatters, police magistrates, protectors — power distributed across institutions.
 
 __Legitimacy as Lived Allegiance:__ Colonial authority is imposed, not accepted; Aboriginal allegiance remains with country and kin, but the capacity to act on that allegiance shrinks as country is occupied and kin are killed; legitimacy is a question the colonial order does not ask — power suffices.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Colonial political will is unified arou
 
 __External Relations & Posture:__ The colonies relate to Britain as self-governing dependencies, to each other as rivals moving toward federation; Aboriginal nations are not recognized as external powers with whom diplomacy is possible; the external posture is purely settler-colonial, Aboriginal people an internal matter for police rather than diplomats.
 
+__Public Sentiment & Behavioral Temper:__ Settler sentiment hardens into "doomed race" ideology — the belief that Aboriginal people will inevitably die out, that their demise is natural and not requiring intervention; humanitarian concern flickers (the Aborigines Protection Society has colonial branches) but is marginal; Aboriginal sentiment is one of grief, resistance, and adaptation to dispossession — survival becomes the primary emotional orientation.
+
 __Disaffection, Apathy & Spent Will:__ By century's end, resistance in most areas has given way to adaptation — working on stations, living on reserves, surviving as best as possible under colonial domination; the emotional residue is generational trauma, spent resistance, and the beginning of what will become transgenerational grief; the will is not gone but is redirected toward survival.
+
 
 ## D06. Informational Domain
 

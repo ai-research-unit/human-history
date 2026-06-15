@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder was endemic — brigandage, tribal rai
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Exhaustion, fear, and localized relief characterized public sentiment; populations traumatized by siege and massacre were wary of any authority; Karim Khan's reputation for mildness generated genuine gratitude in Fars, an exception to the prevailing distrust.
-
 __Leadership & Personal Authority:__ Nader Shah embodied charismatic military command — brilliant, brutal, and ultimately mad; his assassination reflected the exhaustion of his followers; Karim Khan offered a contrasting model: paternal, restrained, accessible, ruling from Shiraz without imperial pretension.
 
 __Legitimacy as Lived Allegiance:__ Safavid legitimacy lingered — Nader Shah initially claimed to restore it, and puppet Safavid princes were paraded by various factions; by Karim Khan's time, the dynasty was spent, and legitimacy rested on practical protection rather than sacred lineage.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will fragmented among competi
 
 __External Relations & Posture:__ Nader Shah's external posture was aggressively expansionist — campaigns against the Ottomans, Mughals, and Central Asian khanates — but his successors fought only each other; the Zands maintained peaceful relations with the Ottomans and traded with the British in the Gulf.
 
+__Public Sentiment & Behavioral Temper:__ Exhaustion, fear, and localized relief characterized public sentiment; populations traumatized by siege and massacre were wary of any authority; Karim Khan's reputation for mildness generated genuine gratitude in Fars, an exception to the prevailing distrust.
+
 __Disaffection, Apathy & Spent Will:__ The period's constant warfare produced deep weariness; populations endured rather than participated; collective will was spent, and the Qajar consolidation would draw on fresh tribal energy from the north rather than revival of exhausted central Iranian populations.
+
 
 ## D06. Informational Domain
 

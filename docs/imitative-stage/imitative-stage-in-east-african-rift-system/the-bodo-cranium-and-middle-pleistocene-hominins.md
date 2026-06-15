@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over mates, food shares, or status may
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Group mood tracks immediate circumstances: satiation and security foster calm; hunger and predator presence heighten vigilance and tension. Trust extends to familiar band members and contracts sharply toward strangers.
-
 __Leadership & Personal Authority:__ Leadership is situational: the skilled tracker leads the hunt, the experienced elder guides migration. Authority is personal, demonstrated in action, and does not transfer or accumulate beyond the leader's presence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to individuals who deliver—food, safety, guidance—and withdraws from those who fail. Legitimacy is continuously re-earned through performance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires immediate co
 
 __External Relations & Posture:__ Encounters with other bands are infrequent and ambivalent: potential mates and information sources, but also competitors for territory. Posture calibrates between avoidance, display, and, occasionally, violence.
 
+__Public Sentiment & Behavioral Temper:__ Group mood tracks immediate circumstances: satiation and security foster calm; hunger and predator presence heighten vigilance and tension. Trust extends to familiar band members and contracts sharply toward strangers.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged resource failure or repeated loss of key members may erode group cohesion, leading to apathy, reduced cooperation, and eventual band dissolution rather than recovery.
+
 
 ## D06. Informational Domain
 

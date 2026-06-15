@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Religious conflicts (Manichaean persecution, Ch
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Iranian cultural pride reaches high expression; loyalty attaches to the Sasanian house and Zoroastrian religious identity; public sentiment supports the empire through most of its history, but late-period chaos erodes confidence; the mood shifts from confidence to anxiety over the final decades.
-
 __Leadership & Personal Authority:__ The shahanshah (king of kings) embodies divine favor and Iranian kingship; strong rulers like Shapur I, Shapur II, and Khosrow I project effective leadership; weak rulers enable noble factionalism; personal authority matters enormously in this monarchical system, and the rapid succession of rulers after 628 CE destroys the personal legitimacy that held the system together.
 
 __Legitimacy as Lived Allegiance:__ Sasanian legitimacy rests on divine election (farr), military victory, just rule, and Zoroastrian orthodoxy; rock inscriptions and royal ideology project this legitimacy widely; allegiance remains strong through the sixth century but collapses remarkably quickly during the final succession crisis; the system depends on a stable, effective ruler and cannot survive without one.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The centralized state concentrates poli
 
 __External Relations & Posture:__ The Roman/Byzantine-Sasanian rivalry defines international relations; Armenia remains the perpetual battleground; Central Asian frontier requires constant attention; diplomatic relations with China and India exist; the posture alternates between aggressive expansion and defensive consolidation; the final war with Byzantium (602-628 CE) exhausts both empires, leaving them vulnerable to Arab conquest.
 
+__Public Sentiment & Behavioral Temper:__ Iranian cultural pride reaches high expression; loyalty attaches to the Sasanian house and Zoroastrian religious identity; public sentiment supports the empire through most of its history, but late-period chaos erodes confidence; the mood shifts from confidence to anxiety over the final decades.
+
 __Disaffection, Apathy & Spent Will:__ Religious persecution alienates Christians and Manichaeans; heavy taxation strains popular loyalty; the Mazdakite revolt expresses accumulated social grievance; by the 620s-630s, elite disaffection and popular exhaustion prevent effective response to Arab invasion; will is spent, and the rapid collapse suggests deep alienation from the regime.
+
 
 ## D06. Informational Domain
 

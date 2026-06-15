@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Factional violence, vendetta, and street fighti
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban populations display civic pride, competitive ambition, and anxiety about status; trust extends within faction and guild but not across factional lines; the mood is energetic, contentious, and forward-looking; confidence grows with prosperity, though factional suspicion remains.
-
 __Leadership & Personal Authority:__ Consuls, bishops, and charismatic nobles exercise leadership; Matilda of Tuscany (d. 1115) exemplifies personal authority in the Investiture Controversy; abbots and reform popes (Gregory VII, Urban II) command spiritual allegiance; leadership is personal, contested, and often short-lived.
 
 __Legitimacy as Lived Allegiance:__ Communal governments claim legitimacy through oaths, assemblies, and written statutes; the Investiture Controversy challenges imperial claims to ecclesiastical appointment; legitimacy is contested between pope and emperor, bishop and commune, magnate and popolo; allegiance is conditional and negotiated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Communes demonstrate collective resolve
 
 __External Relations & Posture:__ Italian cities compete with each other and maneuver among emperor, pope, and Norman kingdom; maritime cities (Pisa, Genoa, Venice) project power into the Mediterranean, participating in crusades and establishing trading colonies; the posture shifts from receptive to assertive as urban wealth and confidence grow.
 
+__Public Sentiment & Behavioral Temper:__ Urban populations display civic pride, competitive ambition, and anxiety about status; trust extends within faction and guild but not across factional lines; the mood is energetic, contentious, and forward-looking; confidence grows with prosperity, though factional suspicion remains.
+
 __Disaffection, Apathy & Spent Will:__ Factional losers experience disaffection; exile communities plot return; the laboring poor endure rather than participate actively; apathy is limited by the participatory demands of communal life; spent will accumulates in defeated factions but does not paralyze the system.
+
 
 ## D06. Informational Domain
 

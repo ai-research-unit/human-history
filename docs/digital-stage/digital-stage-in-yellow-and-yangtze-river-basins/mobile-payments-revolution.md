@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Fraud, scam QR codes, and phishing via payment 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Convenience drives enthusiastic adoption, with urban consumers expressing preference for cashless life and annoyance at the rare merchant requiring cash.
-
 __Leadership & Personal Authority:__ Jack Ma's public profile as Alibaba founder personifies fintech ambition until his 2020 criticism of regulators triggers crackdown; thereafter, platform leadership maintains lower visibility.
 
 __Legitimacy as Lived Allegiance:__ Users trust Alipay and WeChat Pay with daily transactions and savings, expressing higher confidence in platforms than traditional banks among younger cohorts.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ State will to regulate fintech intensif
 
 __External Relations & Posture:__ Chinese mobile payment abroad remains limited by foreign regulatory barriers, though tourists and diaspora use Alipay internationally and cross-border payment pilots proceed.
 
+__Public Sentiment & Behavioral Temper:__ Convenience drives enthusiastic adoption, with urban consumers expressing preference for cashless life and annoyance at the rare merchant requiring cash.
+
 __Disaffection, Apathy & Spent Will:__ Tech crackdown generates investor disaffection with fintech sector, while some users express unease at surveillance implications without altering behavior.
+
 
 ## D06. Informational Domain
 

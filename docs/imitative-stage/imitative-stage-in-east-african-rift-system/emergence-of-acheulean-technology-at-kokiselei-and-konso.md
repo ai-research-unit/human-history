@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction discharged through fission. Lethal int
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Baseline affect was vigilant and reactive, shaped by predation risk and food uncertainty. The successful introduction of a new technology—handaxe production—may have produced positive affect in innovators and early adopters, reinforcing the behavior. Trust extended to familiar group members; strangers provoked wariness.
-
 __Leadership & Personal Authority:__ Leadership remained situational. A skilled knapper might attract observers and imitators, creating an informal teaching context, but authority dissolved outside that context. No persistent leader role is inferable.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was personal and immediate, grounded in familiarity, kinship, and reciprocal grooming. It could shift with dominance contests or skill differentials.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was limited to immedi
 
 __External Relations & Posture:__ Relations with neighboring groups were a mix of avoidance, interbreeding, and episodic conflict. The spread of Acheulean technology from Kokiselei through the Turkana-Omo region implies inter-group contact sufficient for imitative transmission, whether through migration, fusion events, or observation at shared resource loci.
 
+__Public Sentiment & Behavioral Temper:__ Baseline affect was vigilant and reactive, shaped by predation risk and food uncertainty. The successful introduction of a new technology—handaxe production—may have produced positive affect in innovators and early adopters, reinforcing the behavior. Trust extended to familiar group members; strangers provoked wariness.
+
 __Disaffection, Apathy & Spent Will:__ Chronic stress or repeated failure likely produced affective exhaustion in individuals. Such states resolved through death, dispersal, or recovery. No collective apathy is identifiable.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence escalates from the Gracchi t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety and instability pervade the late Republic; civil war, proscriptions, and political murder create pervasive fear among the elite; the urban mob oscillates between enthusiasm for popular leaders and resentment of aristocratic privilege; trust contracts as violence escalates.
-
 __Leadership & Personal Authority:__ The period produces dominating personalities — Marius, Sulla, Pompey, Caesar, Cicero, Mark Antony, Octavian — whose charisma and military success command personal armies and popular followings; loyalty attaches to individuals rather than institutions.
 
 __Legitimacy as Lived Allegiance:__ Republican traditions retain rhetorical power but decreasing practical authority; Cicero defends constitutional norms against military strongmen; popular and military allegiance increasingly flows to successful generals who can provide land, booty, and security; the Senate's legitimacy erodes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to act concentrates in militar
 
 __External Relations & Posture:__ Rome continues aggressive expansion against Mithridates, Gallic tribes, and Parthia; foreign policy serves commanders' glory and enrichment; the appetite for conquest remains intense; external threats are subordinated to internal power struggles.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety and instability pervade the late Republic; civil war, proscriptions, and political murder create pervasive fear among the elite; the urban mob oscillates between enthusiasm for popular leaders and resentment of aristocratic privilege; trust contracts as violence escalates.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion with civil war spreads by the 30s BCE; the peace of Actium and Augustus's settlement reflects willingness to accept monarchy over continued bloodshed; the spent will of the Republic prepares acceptance of the Principate.
+
 
 ## D06. Informational Domain
 

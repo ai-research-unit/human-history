@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Chronic warfare among successor states produces
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety prevails in a landscape of chronic warfare and uncertain allegiances; trust extends through kin and patron-client networks but thins rapidly beyond them; Portuguese presence adds a new variable—potential ally, dangerous interloper, or exploitable trading partner—generating watchful calculation.
-
 __Leadership & Personal Authority:__ Mutapa, Torwa, and Rozvi rulers command through sacred descent, rain-calling power, and military success; the Rozvi mambo emerges as the dominant figure by the late seventeenth century, wielding both spiritual and military authority; Portuguese prazo holders develop personal followings among African dependents, creating parallel leadership structures.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is conditional on the ruler's ability to ensure rain, military protection, and trade access; failure erodes loyalty rapidly; Mutapa's fragmentation reflects lost legitimacy as tributary communities shift allegiance to Rozvi or declare independence; praise poetry continues to proclaim legitimacy, but performance must match proclamation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Ruling lineages compete internally for 
 
 __External Relations & Posture:__ Mutapa initially dominates Portuguese traders, extracting tribute and controlling access; Portuguese expansion and prazo formation erode Mutapa's leverage; Rozvi expulsion of Portuguese from the interior (1690s CE) reasserts African dominance; relations remain commercial and competitive, with no external power controlling the plateau's interior.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety prevails in a landscape of chronic warfare and uncertain allegiances; trust extends through kin and patron-client networks but thins rapidly beyond them; Portuguese presence adds a new variable—potential ally, dangerous interloper, or exploitable trading partner—generating watchful calculation.
+
 __Disaffection, Apathy & Spent Will:__ Mutapa's decline reflects spent political will—ruling lineages fragment, tributaries defect, and Portuguese intervention exacerbates collapse; Rozvi consolidation temporarily re-energizes political authority, but by the window's end, Rozvi power is also beginning to erode in the face of internal tensions and external pressures.
+
 
 ## D06. Informational Domain
 

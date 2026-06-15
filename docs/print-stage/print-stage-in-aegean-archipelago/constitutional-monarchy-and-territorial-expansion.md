@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage suppressed; Dilessi massacre (1870)�
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National confidence rises with constitutional government, territorial gains, and economic growth. Print intensifies nationalist fervor; Great Idea rhetoric pervasive. Public mood more optimistic than under Otho. Trust in institutions growing but personalism persists; loyalty to patrons rather than abstract state.
-
 __Leadership & Personal Authority:__ George I establishes stable monarchy; acceptance grows as he learns Greek, converts children to Orthodoxy, and reigns constitutionally. Politicians—Koumoundouros, Trikoupis, Deligiannis—command factional followings. Trikoupis emerges as modernizing reformer; personal authority tied to policy program rather than charisma alone.
 
 __Legitimacy as Lived Allegiance:__ Monarchical legitimacy consolidates; 1864 constitution popular. George I's neutrality among factions earns acceptance. Legitimacy conditional on Great Idea progress; territorial gains (Ionian Islands, Thessaly) reinforce. Cretan revolts (1866–1869, 1878) test whether state can protect unredeemed Greeks; failure to intervene strains legitimacy but not fatally.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will channeled into parliamentary polit
 
 __External Relations & Posture:__ Greece maneuvers among Great Powers; Britain transfers Ionian Islands (1864) as dowry for George I. Congress of Berlin (1878) awards Thessaly after Russo-Turkish War—Greek acquisition through Great Power decision, not military action. Relations with Ottoman Empire tense but managed. Dependence on Great Power favor defines external posture.
 
+__Public Sentiment & Behavioral Temper:__ National confidence rises with constitutional government, territorial gains, and economic growth. Print intensifies nationalist fervor; Great Idea rhetoric pervasive. Public mood more optimistic than under Otho. Trust in institutions growing but personalism persists; loyalty to patrons rather than abstract state.
+
 __Disaffection, Apathy & Spent Will:__ Educated youth less disaffected than under Otho; emigration to United States begins but remains modest. Political competition absorbs elite energy. Apathy in rural areas regarding national politics; local concerns dominate. Disaffection not acute.
+
 
 ## D06. Informational Domain
 

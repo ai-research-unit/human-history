@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Plebeian secessions (494, 449, 287 BCE) are rit
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A culture of austerity, piety, and military valor prevails — the mos maiorum (ancestral custom). Trust extends within the patronage network but is bounded by status; the plebeian-patrician divide generates suspicion that the Conflict of the Orders gradually dissipates.
-
 __Leadership & Personal Authority:__ Consuls and dictators embody personal authority in crisis; heroic exempla (Cincinnatus, Camillus) are cultivated as models. Leadership is collective and rotational, preventing permanent concentration.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ancestral tradition, divine sanction (auspicia), and the success of arms. The plebeian movement challenges aristocratic monopoly but accepts the framework of the Republic; allegiance remains high.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to expansion is sustained acro
 
 __External Relations & Posture:__ Rome expands by conquest, alliance, and absorption — Latin League dissolved (338 BCE), Samnite Wars (343–290 BCE), Pyrrhic War (280–275 BCE). By 264 BCE, Rome controls peninsular Italy south of the Po. The posture is offensive and integrative, binding conquered peoples through citizenship and alliance.
 
+__Public Sentiment & Behavioral Temper:__ A culture of austerity, piety, and military valor prevails — the mos maiorum (ancestral custom). Trust extends within the patronage network but is bounded by status; the plebeian-patrician divide generates suspicion that the Conflict of the Orders gradually dissipates.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is channeled through the tribunate and periodic secession; it does not harden into permanent alienation. The will to act remains robust, fed by military success and land distribution.
+
 
 ## D06. Informational Domain
 

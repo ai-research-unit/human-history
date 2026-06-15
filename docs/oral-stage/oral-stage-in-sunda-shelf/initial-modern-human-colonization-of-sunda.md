@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is managed through mobility—f
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust is high within the band, lower toward strangers; baseline mood varies with resource availability and interpersonal relations; the colonization event itself may carry optimism or desperation depending on push factors from the west, but evidence is silent.
-
 __Leadership & Personal Authority:__ Leadership is personal and situational; individuals with demonstrated competence—hunting skill, navigational knowledge, conflict mediation—attract followers for specific tasks; no permanent chieftaincy; authority evaporates when the task ends.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy inheres in demonstrated competence and adherence to group norms; no abstract authority to obey; allegiance is to kin and band, not to office or title.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action arises through consen
 
 __External Relations & Posture:__ Relations with other bands are mediated through kinship—intermarriage creates alliances, shared ancestry reduces conflict; unknown groups encountered during colonization may be met with caution, avoidance, or tentative contact; no warfare as organized activity, though skirmishes over territory or mates occur.
 
+__Public Sentiment & Behavioral Temper:__ Trust is high within the band, lower toward strangers; baseline mood varies with resource availability and interpersonal relations; the colonization event itself may carry optimism or desperation depending on push factors from the west, but evidence is silent.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is expressed through departure—leaving the band to join another or to found a new one; apathy is rare given the necessity of active participation for survival; spent will manifests as individual withdrawal rather than collective malaise.
+
 
 ## D06. Informational Domain
 

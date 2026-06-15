@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction dissipates through fission, wit
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood tracks immediate material conditions; coastal abundance supports a stable baseline temper, while scarcity during arid phases elevates vigilance and competition.
-
 __Leadership & Personal Authority:__ Leadership is situational, vested in individuals who demonstrate superior knapping skill, foraging success, or physical prowess; authority does not institutionalize but rests on ongoing performance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to effective providers and protectors; legitimacy is immediate and revocable, dissolving when a leader fails to deliver tangible benefit.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for immediate
 
 __External Relations & Posture:__ Relations with neighboring bands are likely opportunistic, blending avoidance, occasional interbreeding, and competition for prime foraging sites; no sustained hostility or alliance structures persist across generations.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood tracks immediate material conditions; coastal abundance supports a stable baseline temper, while scarcity during arid phases elevates vigilance and competition.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expresses itself through departure rather than internal ferment; the option of mobility prevents apathy from accumulating into structural grievance.
+
 
 ## D06. Informational Domain
 

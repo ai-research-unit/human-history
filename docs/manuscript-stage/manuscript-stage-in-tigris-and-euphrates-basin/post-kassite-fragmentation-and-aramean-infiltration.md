@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry, raiding, and factional violence are e
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety and insecurity pervade the period; confidence in royal protection and divine favor wavers. Interpersonal trust contracts to kin and neighborhood; the radius of reliable cooperation shrinks. A defensive, survivalist temper prevails.
-
 __Leadership & Personal Authority:__ Isin II kings (Nebuchadnezzar I, his successors) attempt to project royal charisma through military campaigns and temple restorations — Nebuchadnezzar I's recovery of the Marduk statue from Elam (c. 1125 BCE) is a high point — but authority is personal and episodic, not institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy rests on divine favor, military success, and canal maintenance; failure in any undermines allegiance. The Isin II dynasty commands loyalty in Babylon but not uniformly across the region. Aramean chiefs command allegiance through kinship and protection rather than Babylonian royal ideology.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve for large-scale proj
 
 __External Relations & Posture:__ Babylon oscillates between defensive posture against Assyria, Elam, and Aramean pressure and occasional offensive campaigns (Nebuchadnezzar I against Elam). Diplomacy continues but from weakness; tribute and alliance are means of survival rather than dominance.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety and insecurity pervade the period; confidence in royal protection and divine favor wavers. Interpersonal trust contracts to kin and neighborhood; the radius of reliable cooperation shrinks. A defensive, survivalist temper prevails.
+
 __Disaffection, Apathy & Spent Will:__ Repeated defeats, insecurity, and unfulfilled royal promises generate disaffection; the population endures rather than actively supports the regime. Apathy toward political participation — already limited — deepens; will is spent on survival rather than collective projects.
+
 
 ## D06. Informational Domain
 

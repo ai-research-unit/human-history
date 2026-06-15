@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Agent network quality varies, with some agents 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust in mobile money grows with use, though fraud incidents create wariness. The convenience of sending money home without bus journeys or Western Union queues generates genuine appreciation among users.
-
 __Leadership & Personal Authority:__ Telecom executives—MTN, Orange, Airtel leadership—drive adoption, while central bank governors shape regulatory environments. Individual agents build local reputations that determine adoption in their communities.
 
 __Legitimacy as Lived Allegiance:__ Mobile money operators earn legitimacy through reliable service delivery rather than formal authority. Trust in the mobile network operator often exceeds trust in banks or government among rural populations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Nigerian commercial banks successfully 
 
 __External Relations & Posture:__ Mobile money enables diaspora remittances that represent significant income flows—roughly $25 billion annually to Nigeria alone. This external financial integration depends on cross-border mobile money corridors that regulators can obstruct or enable.
 
+__Public Sentiment & Behavioral Temper:__ Trust in mobile money grows with use, though fraud incidents create wariness. The convenience of sending money home without bus journeys or Western Union queues generates genuine appreciation among users.
+
 __Disaffection, Apathy & Spent Will:__ Fraud victims and users stranded by agent network failures develop distrust. The exclusion of technologically uncomfortable populations—elderly, illiterate, disabled—from mobile-first services creates resentment among those left behind.
+
 
 ## D06. Informational Domain
 

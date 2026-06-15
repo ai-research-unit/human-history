@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction resolved through fission — di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective life centered on immediate concerns — safety, satiation, social standing within the band; trust extended to familiar faces; strangers encountered with caution or avoidance; baseline temper likely shaped by recent foraging success or failure.
-
 __Leadership & Personal Authority:__ Leadership situational and based on demonstrated skill — the best knapper, tracker, or dominant individual led in relevant contexts; authority did not persist beyond the immediate situation; no permanent headship.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flowed to competent, generous individuals who provided tangible benefits; no abstract loyalty to office or principle; legitimacy was personal and continuously renegotiated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerged from converge
 
 __External Relations & Posture:__ Intergroup encounters rare given low population density; posture likely cautious avoidance or ritualized display; mate exchange probable during peaceful contact; no sustained alliance or enmity.
 
+__Public Sentiment & Behavioral Temper:__ Affective life centered on immediate concerns — safety, satiation, social standing within the band; trust extended to familiar faces; strangers encountered with caution or avoidance; baseline temper likely shaped by recent foraging success or failure.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expressed through departure — individuals left groups where they could not secure status or resources; apathy unlikely given constant subsistence pressure; exhaustion followed intense effort but recovered with rest.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Group-chat conflicts, blocked contacts, and soc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ WeChat shapes emotional life through Moments' curated positivity and group chats' affective labor; the ambient mood oscillates between connection and anxiety; the platform both soothes loneliness and intensifies social comparison.
-
 __Leadership & Personal Authority:__ Pony Ma (Ma Huateng), Tencent's founder, maintains a lower profile than Alibaba's Jack Ma, avoiding the fate of regulatory targeting; Official Accounts allow influencers and thought leaders to build followings; personal authority accrues to those who master the platform's dynamics.
 
 __Legitimacy as Lived Allegiance:__ WeChat's indispensability generates a form of involuntary allegiance — users cannot exit without social and economic cost; trust in the platform coexists with awareness of surveillance; legitimacy rests on utility rather than affection.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The platform enables mobilization but u
 
 __External Relations & Posture:__ WeChat serves overseas Chinese communities, maintaining connection to the motherland; the platform's reach abroad creates diaspora communication networks but also extends surveillance capacity; foreign governments grow wary of its data practices.
 
+__Public Sentiment & Behavioral Temper:__ WeChat shapes emotional life through Moments' curated positivity and group chats' affective labor; the ambient mood oscillates between connection and anxiety; the platform both soothes loneliness and intensifies social comparison.
+
 __Disaffection, Apathy & Spent Will:__ Performative positivity on Moments masks underlying exhaustion; users complain of fatigue from group obligations and information overload; some younger users retreat to alternative platforms or reduce usage; the platform produces the apathy it also temporarily alleviates.
+
 
 ## D06. Informational Domain
 

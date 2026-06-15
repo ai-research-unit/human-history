@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry is suppressed; public order prevails t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The High Qing enjoys general prosperity and stability; public sentiment is quiescent. Elite sentiment divides between collaborators who serve the dynasty and loyalists who mourn the Ming (the latter fading with time). By the late eighteenth century, the sense of a golden age prevails. Trust in the dynasty is widespread if not deep.
-
 __Leadership & Personal Authority:__ The three great emperors — Kangxi (r. 1661–1722), Yongzheng (r. 1722–1735), and Qianlong (r. 1735–1796) — provide effective personal rule across 135 years. Kangxi consolidates control, defeats internal and external enemies, and patronizes learning. Yongzheng reforms taxation and tightens administration. Qianlong presides over territorial expansion and cultural florescence but grows complacent and favors the corrupt Heshen in his final decades. These reigns concentrate authority and generate loyalty.
 
 __Legitimacy as Lived Allegiance:__ The Qing legitimates itself through multiple strategies: continuity with Ming institutions, patronage of Confucian scholarship, the examination system, Buddhist and Tibetan Buddhist identity for Inner Asian subjects, and sheer duration. By the mid-eighteenth century, the dynasty commands widespread if not universal allegiance. Han Ming loyalism fades; only sectarian movements and frontier peoples resist.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The imperial center maintains political
 
 __External Relations & Posture:__ The Qing achieves hegemony over Inner Asia: Mongolia, Xinjiang, and Tibet are incorporated or made protectorates. Korea, Vietnam, Ryukyu, and Burma are tributaries. Relations with Russia are regulated by treaty (Nerchinsk 1689, Kiakhta 1727). European traders are confined to Canton; the Macartney mission (1793) is rebuffed. The Qing posture is one of confident superiority, treating foreign relations as tributary management.
 
+__Public Sentiment & Behavioral Temper:__ The High Qing enjoys general prosperity and stability; public sentiment is quiescent. Elite sentiment divides between collaborators who serve the dynasty and loyalists who mourn the Ming (the latter fading with time). By the late eighteenth century, the sense of a golden age prevails. Trust in the dynasty is widespread if not deep.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is suppressed or latent through most of the window. The literary inquisition targets textual dissent. Sectarian movements simmer underground. The White Lotus Rebellion reveals accumulated grievance as the window closes. Elite apathy and corruption (Heshen's domination in the 1780s–90s) signal decay at the center.
+
 
 ## D06. Informational Domain
 

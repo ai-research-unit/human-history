@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Monmouth Rebellion (1685) suppressed with bruta
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-war exhaustion shapes Restoration mood: desire for stability, aversion to "enthusiasm." Anti-Catholic hysteria flares periodically (Popish Plot). Fear of arbitrary government persists; memories of civil war and Interregnum shape political culture.
-
 __Leadership & Personal Authority:__ Cromwell's charismatic authority dies with him (1658). Charles II's affability and political skill restore monarchy. James II's inflexibility and Catholic zeal alienate even loyalists.
 
 __Legitimacy as Lived Allegiance:__ Restoration initially enjoys broad support; regicide discredited. Legitimacy erodes under James II's Catholicizing policies. By 1688, invitation to William of Orange reflects withdrawal of allegiance from sitting monarch.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Parliamentary will strengthens: exclusi
 
 __External Relations & Posture:__ Dutch Wars (1652–1654, 1665–1667, 1672–1674) contest commercial supremacy. French alliance under Charles II unpopular. William III's invasion (1688) inverts alignment, bringing England into anti-French coalition.
 
+__Public Sentiment & Behavioral Temper:__ Post-war exhaustion shapes Restoration mood: desire for stability, aversion to "enthusiasm." Anti-Catholic hysteria flares periodically (Popish Plot). Fear of arbitrary government persists; memories of civil war and Interregnum shape political culture.
+
 __Disaffection, Apathy & Spent Will:__ Widespread desire to avoid renewed civil war constrains opposition. Passive obedience doctrine preached but ultimately abandoned when James II flees. Apathy among those exhausted by decades of upheaval.
+
 
 ## D06. Informational Domain
 

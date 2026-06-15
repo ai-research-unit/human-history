@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1968 ORTF strike reveals accumulated frustr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ French public opinion toward broadcasting oscillates between pride in national production and criticism of political bias; the ORTF era's propaganda taint generates lasting suspicion of public media, while commercial alternatives draw criticism for lowest-common-denominator content.
-
 __Leadership & Personal Authority:__ Broadcasting leadership under state control serves at political pleasure: ORTF directors answer to the government, and post-1974 public channel heads remain vulnerable to political appointment and removal; the absence of BBC-style board insulation leaves leadership exposed to regime change.
 
 __Legitimacy as Lived Allegiance:__ Public broadcasting's legitimacy suffers from its association with Gaullist political control; the memory of ORTF subservience to government creates a credibility deficit that formal independence measures only partially address, and commercial competition from the 1980s further erodes public channel authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Successive governments demonstrate cons
 
 __External Relations & Posture:__ French broadcasting serves foreign policy objectives: Radio France Internationale maintains global francophone reach; TV5 (from 1984) projects French language and culture internationally; France 24 (2006) provides news service competing with BBC World and CNN; these external services reflect cultural diplomacy priorities.
 
+__Public Sentiment & Behavioral Temper:__ French public opinion toward broadcasting oscillates between pride in national production and criticism of political bias; the ORTF era's propaganda taint generates lasting suspicion of public media, while commercial alternatives draw criticism for lowest-common-denominator content.
+
 __Disaffection, Apathy & Spent Will:__ By the 2000s, declining viewership for public channels, particularly among the young, signals exhausted loyalty; the license fee faces legitimacy questions as households migrate to internet-based alternatives; reform efforts to reconsolidate public broadcasting (France Televisions unification, 2000) achieve limited results.
+
 
 ## D06. Informational Domain
 

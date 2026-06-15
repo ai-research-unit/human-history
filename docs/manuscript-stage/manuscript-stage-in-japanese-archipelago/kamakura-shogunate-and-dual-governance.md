@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry and piracy decline under bakufu polici
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Warriors cultivate loyalty, honor, and martial valor; the ideal of dying for one's lord gains articulation; commoners develop attachments to new Buddhist movements offering accessible salvation.
-
 __Leadership & Personal Authority:__ The first three Minamoto shoguns hold titular authority; real power passes to the Hōjō regents, who govern through administrative competence rather than personal charisma; emperors and retired emperors retain ritual authority and occasionally assert political will (Go-Toba's failed Jōkyū War, 1221; Go-Daigo's successful restoration, 1333).
 
 __Legitimacy as Lived Allegiance:__ The shogun derives legitimacy from imperial appointment; warriors' allegiance flows to whoever confirms their land rights and delivers justice; the Hōjō maintain legitimacy through administrative effectiveness until Mongol costs and succession crises undermine it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The bakufu demonstrates capacity for un
 
 __External Relations & Posture:__ The Mongol invasions force unprecedented external engagement; the bakufu refuses submission, mobilizes coastal defense, and benefits from typhoons (the "divine wind," kamikaze); trade with Yuan China continues despite political hostility.
 
+__Public Sentiment & Behavioral Temper:__ Warriors cultivate loyalty, honor, and martial valor; the ideal of dying for one's lord gains articulation; commoners develop attachments to new Buddhist movements offering accessible salvation.
+
 __Disaffection, Apathy & Spent Will:__ Unrewarded warriors accumulate grievances; the Hōjō regency's inability to satisfy claims drains allegiance; Go-Daigo's call to arms finds willing followers among the disaffected, including Ashikaga Takauji, whose defection dooms the Hōjō.
+
 
 ## D06. Informational Domain
 

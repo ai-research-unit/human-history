@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission or p
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is interpersonal and immediate. Trust is kin-based and band-limited. Mood responds to immediate circumstances — successful hunts, harsh weather, injury. No collective sentiment spans groups or persists across absences.
-
 __Leadership & Personal Authority:__ Leadership is situational. The individual who knows the game trails, who has survived longest, who knaps best, leads in that domain. Authority cannot be delegated, represented, or transmitted.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to persons present and proven. Legitimacy is demonstrated daily through competence and generosity. No abstract legitimacy attaches to positions or institutions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to what ca
 
 __External Relations & Posture:__ Relations with other bands are episodic. Mate exchange implies some positive contact. Resource competition may produce avoidance or conflict, but no evidence survives. No posture or policy persists across encounters.
 
+__Public Sentiment & Behavioral Temper:__ Affect is interpersonal and immediate. Trust is kin-based and band-limited. Mood responds to immediate circumstances — successful hunts, harsh weather, injury. No collective sentiment spans groups or persists across absences.
+
 __Disaffection, Apathy & Spent Will:__ Individual withdrawal or departure is the only expression of disaffection. No collective apathy accumulates because no collective enterprise endures long enough to exhaust.
+
 
 ## D06. Informational Domain
 

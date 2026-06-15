@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was minimal given low density a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Morale and collective temper are archaeologically invisible, but the expansion from refugia into new territories suggests confidence and initiative; small-group cohesion and interpersonal trust within bands likely remained high.
-
 __Leadership & Personal Authority:__ Leadership was personal and charismatic rather than institutional; skilled hunters, knowledgeable elders, or ritual specialists held situational authority that did not translate into hereditary power.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was kin-based; the band's coherence rested on mutual obligation rather than political legitimacy, and no external authority required or received loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was limited to subsis
 
 __External Relations & Posture:__ Inter-band relations ranged from cooperative (exchange, intermarriage) to competitive (resource access), but organized hostility was rare given low population density and ample territory.
 
+__Public Sentiment & Behavioral Temper:__ Morale and collective temper are archaeologically invisible, but the expansion from refugia into new territories suggests confidence and initiative; small-group cohesion and interpersonal trust within bands likely remained high.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection exists; bands that experienced internal conflict could fission, and exhaustion of collective will was not a structural feature of this decentralized society.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Sectarian tensions occasionally surface in reli
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Religious broadcasting shapes and reflects public piety; Ramadan programming generates collective devotional atmosphere; post-2001 programming addresses Muslim identity anxieties in global context.
-
 __Leadership & Personal Authority:__ Traditional Al-Azhar scholarly authority competes with televangelist charisma; Amr Khaled emerges (1998–) as new model of accessible, emotional preaching reaching millions through satellite and cassette distribution; his 2002 move abroad (under regime pressure) demonstrates broadcast's capacity to circumvent state control.
 
 __Legitimacy as Lived Allegiance:__ State coopts Al-Azhar for regime legitimation, with Grand Sheikh providing religious endorsement for government policies; independent satellite preachers command allegiances the state cannot direct, creating parallel religious authority structures.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Religious broadcasting mobilizes suppor
 
 __External Relations & Posture:__ Religious broadcasting addresses Palestinian cause, Iraq War, and broader Muslim world concerns; Egyptian programming competes with Saudi-funded alternatives for religious authority across Arab satellite sphere.
 
+__Public Sentiment & Behavioral Temper:__ Religious broadcasting shapes and reflects public piety; Ramadan programming generates collective devotional atmosphere; post-2001 programming addresses Muslim identity anxieties in global context.
+
 __Disaffection, Apathy & Spent Will:__ Youth disillusionment with traditional religious formats creates appetite for new preaching styles; some audiences shift from broadcast religious content to internet sources by late 2000s; post-2013 crackdown on Muslim Brotherhood religious broadcasting leaves gap in political Islam's media presence.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Grievance was resolved immediately through domi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Unknowable directly. The continuation of band life over this long window implies sufficient internal cohesion and trust to maintain cooperation. The demands of imitative learning and cooperative hunting required tolerance and patience.
-
 __Leadership & Personal Authority:__ Leadership was personal and situational — the skilled hunter led the hunt, the experienced knapper demonstrated technique. No permanent leadership; authority was earned and lost with demonstrated competence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to the band, held through face-to-face bonds. No abstract legitimacy; the group simply was, and membership was identity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action for hunting required 
 
 __External Relations & Posture:__ Other bands were distant and rarely encountered. Relations were probably cautious — neither hostile nor allied, simply other. Mating exchanges may have occurred during chance encounters, but no sustained inter-group relations are evident.
 
+__Public Sentiment & Behavioral Temper:__ Unknowable directly. The continuation of band life over this long window implies sufficient internal cohesion and trust to maintain cooperation. The demands of imitative learning and cooperative hunting required tolerance and patience.
+
 __Disaffection, Apathy & Spent Will:__ No evidence. The long continuity of the transition implies sustained engagement with the demands of survival. Exhaustion and despair were individual, not collective, and left no mark.
+
 
 ## D06. Informational Domain
 

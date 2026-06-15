@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises represented the system's grea
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Subject populations experienced Inca rule as an imposition backed by overwhelming force, softened by redistributive feasts and the security of the qollqa buffer; loyalty varied by how recently conquest had occurred and how harshly mit'a was extracted; the core Inca population around Cusco exhibited genuine attachment to the system that elevated them.
-
 __Leadership & Personal Authority:__ The Sapa Inca embodied divine authority as son of Inti (the sun), with elaborate ritual reinforcing his unique status; his person was sacred, his movements accompanied by thousands, his clothing worn only once; provincial curacas exercised local authority under Inca supervision, their legitimacy partly traditional, partly delegated.
 
 __Legitimacy as Lived Allegiance:__ Inca legitimacy rested on military success, the claim of divine mandate, and the material benefits of incorporation — roads, storage, security; for core populations this was genuine belief; for recently conquered groups, compliance was pragmatic; the speed of defection to Spanish revealed how shallow allegiance ran among many subject peoples.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The succession crisis paralyzed politic
 
 __External Relations & Posture:__ Tawantinsuyu expanded continuously until the 1520s, incorporating new territories through conquest or intimidation; the frontier zones — Amazonian lowlands, Chilean Araucanía, northern jungles — marked the limits where terrain made conquest unprofitable; no peer competitor existed in the hemisphere, leaving no tradition of diplomatic balance among equals.
 
+__Public Sentiment & Behavioral Temper:__ Subject populations experienced Inca rule as an imposition backed by overwhelming force, softened by redistributive feasts and the security of the qollqa buffer; loyalty varied by how recently conquest had occurred and how harshly mit'a was extracted; the core Inca population around Cusco exhibited genuine attachment to the system that elevated them.
+
 __Disaffection, Apathy & Spent Will:__ Resentment among subject peoples remained suppressed but real; the mit'akuna policy of forced relocation deliberately disrupted potential resistance networks; when Spanish arrived, Cañari, Huanca, and other groups saw opportunity for revenge against Inca overlords, converting stored disaffection into active collaboration with invaders.
+
 
 ## D06. Informational Domain
 

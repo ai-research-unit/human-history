@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction dissipates through band fission; the s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Group cohesion depends on face-to-face familiarity; sentiment fluctuates with provisioning success and climatic conditions; humid phases may foster expansion and optimism, arid phases caution and contraction.
-
 __Leadership & Personal Authority:__ Leadership remains situational; mastery of the cognitively demanding Levallois technique may concentrate authority among a smaller set of expert knappers whose competence is directly witnessed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to individuals whose competence and generosity are visibly demonstrated; no institutional legitimacy exists.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized through 
 
 __External Relations & Posture:__ Encounters with other bands remain cautious; mutual assessment precedes interaction; avoidance is the default response to strangers.
 
+__Public Sentiment & Behavioral Temper:__ Group cohesion depends on face-to-face familiarity; sentiment fluctuates with provisioning success and climatic conditions; humid phases may foster expansion and optimism, arid phases caution and contraction.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expresses itself through departure; the option of fission dissipates accumulated grievance before it crystallizes into chronic conflict.
+
 
 ## D06. Informational Domain
 

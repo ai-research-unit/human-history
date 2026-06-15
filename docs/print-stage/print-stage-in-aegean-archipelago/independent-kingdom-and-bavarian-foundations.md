@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage plagues the countryside into the 185
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial enthusiasm for independence curdles into resentment of Bavarian rule, foreign interference, and unmet irredentist hopes. Public mood oscillates between nationalist fervor during crises (Crimean War, Crete) and apathy or cynicism between. Trust remains local, mediated by kinship and patronage; national solidarity rhetorical.
-
 __Leadership & Personal Authority:__ Otho commands limited personal loyalty; Bavarian identity a handicap. Greek politicians (Kolettis, Mavrokordatos, Kolokotronis) retain followings as war heroes or patrons. Kolettis articulates Great Idea (1844 speech) but dies 1847. No charismatic national leader consolidates authority. Leadership fragmented among notables.
 
 __Legitimacy as Lived Allegiance:__ Monarchical legitimacy weak; Otho seen as foreign imposition protected by Great Powers. 1843 constitution bought conditional acceptance. Failure to produce an heir, religious conversion refusal (Otho remains Catholic), and repeated humiliations erode allegiance. By 1862, legitimacy exhausted; Otho departs without resistance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will fragmented among three foreign-ali
 
 __External Relations & Posture:__ Greece seeks territorial expansion (Great Idea) but depends on Great Power favor. Britain, France, and Russia guarantee independence but constrain irredentism. Relations with Ottoman Empire hostile but war avoided until 1897. Irredentist rhetoric exceeds capacity; posture aspirational rather than effective.
 
+__Public Sentiment & Behavioral Temper:__ Initial enthusiasm for independence curdles into resentment of Bavarian rule, foreign interference, and unmet irredentist hopes. Public mood oscillates between nationalist fervor during crises (Crimean War, Crete) and apathy or cynicism between. Trust remains local, mediated by kinship and patronage; national solidarity rhetorical.
+
 __Disaffection, Apathy & Spent Will:__ Educated youth and officers increasingly disaffected by mid-century; emigration and political agitation outlets. Failure of 1854 adventure deepens cynicism. Apathy coexists with intermittent nationalist agitation. Disaffection accumulates, discharging in 1862 coup.
+
 
 ## D06. Informational Domain
 

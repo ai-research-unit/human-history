@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder is limited to interpersonal conflict a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fire anchors the emotional life of the group — its warmth a comfort, its light a security against the night predators that prowl outside the cave mouth. The mood oscillates with subsistence success; hunger darkens temper, a kill lifts it.
-
 __Leadership & Personal Authority:__ Leadership is situational and demonstrated — the one who leads the hunt, the one who tends the fire, the one whose imitative skill others follow. Authority is personal and ephemeral, not institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, maintained by daily interdependence rather than abstract loyalty. Legitimacy is not a concept; cooperation is survival.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is immediate and reac
 
 __External Relations & Posture:__ Relations with other bands are sporadic and range from wary avoidance to violent conflict to possible mating exchange. No diplomatic stance exists; encounters are situational.
 
+__Public Sentiment & Behavioral Temper:__ Fire anchors the emotional life of the group — its warmth a comfort, its light a security against the night predators that prowl outside the cave mouth. The mood oscillates with subsistence success; hunger darkens temper, a kill lifts it.
+
 __Disaffection, Apathy & Spent Will:__ When subsistence fails or conflict intensifies, individuals may depart or bands may fission; apathy manifests as withdrawal, but the concept of spent will does not apply to groups too small to accumulate such residue.
+
 
 ## D06. Informational Domain
 

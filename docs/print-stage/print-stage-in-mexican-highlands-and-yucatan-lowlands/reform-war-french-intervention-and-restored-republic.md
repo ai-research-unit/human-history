@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period is defined by organized violence—c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Partisan intensity defines the era; Liberals and Conservatives mobilize genuine conviction, not mere interest; the French Intervention produces patriotic resistance that partially transcends faction; Cinco de Mayo (1862) becomes a nationalist touchstone; public sentiment hardens into Liberal triumphalism after 1867; the mood is combative, then exhausted.
-
 __Leadership & Personal Authority:__ Benito Juárez embodies Liberal legitimacy—indigenous origins, legal training, stoic persistence through exile and defeat; his personal authority is moral rather than charismatic; Maximilian possesses charm but lacks political base; Porfirio Díaz is the military hero, charisma rooted in battlefield success; caudillo politics persists but is subordinated to constitutional form.
 
 __Legitimacy as Lived Allegiance:__ The Constitution of 1857 becomes the touchstone of Liberal legitimacy, defended through a decade of war; Conservative legitimacy collapses with Maximilian's execution; church legitimacy among the devout persists but is politically defeated; by 1876, constitutional republicanism is the only viable legitimating framework, even as Díaz seizes power by rebellion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Liberal will to resist is remarkable—
 
 __External Relations & Posture:__ Mexico defeats European intervention, the only successful resistance to 19th-century imperialism in the Americas; the Monroe Doctrine receives Mexican rather than American enforcement in this instance; relations with the United States improve as Washington recognizes Juárez; Mexico emerges with enhanced international standing, though still weak relative to major powers.
 
+__Public Sentiment & Behavioral Temper:__ Partisan intensity defines the era; Liberals and Conservatives mobilize genuine conviction, not mere interest; the French Intervention produces patriotic resistance that partially transcends faction; Cinco de Mayo (1862) becomes a nationalist touchstone; public sentiment hardens into Liberal triumphalism after 1867; the mood is combative, then exhausted.
+
 __Disaffection, Apathy & Spent Will:__ By 1876, exhaustion accompanies triumph; Juárez's death removes the unifying figure; the Lerdo administration faces declining élan; Díaz's rebellion succeeds in part because will is spent; disaffection with continued instability prepares acceptance of Porfirian order.
+
 
 ## D06. Informational Domain
 

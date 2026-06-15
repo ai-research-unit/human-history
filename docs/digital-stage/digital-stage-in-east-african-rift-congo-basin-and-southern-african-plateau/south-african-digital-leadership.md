@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Service delivery protests, cable theft disrupti
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Load shedding generates pervasive frustration that social media amplifies into collective anger, with each Stage 6 announcement producing viral criticism that erodes trust in government capacity while resignation settles as the dominant mood regarding near-term improvement prospects.
-
 __Leadership & Personal Authority:__ President Ramaphosa's technocratic image initially promised competent governance, but failure to resolve the energy crisis erodes his authority while Eskom executives cycle through tenures too brief to implement sustained recovery plans.
 
 __Legitimacy as Lived Allegiance:__ ANC electoral support declines as infrastructure failure undermines the liberation movement's claim to deliver development, with the 2024 elections producing the first coalition government as legitimacy bleeds away from the ruling party without consolidating around alternatives.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Energy procurement reform and independe
 
 __External Relations & Posture:__ South Africa positions itself as the continental technology leader and gateway for multinational investment, but load shedding undermines this pitch as companies consider Kenya, Rwanda, or Morocco as alternative African hubs with more reliable power.
 
+__Public Sentiment & Behavioral Temper:__ Load shedding generates pervasive frustration that social media amplifies into collective anger, with each Stage 6 announcement producing viral criticism that erodes trust in government capacity while resignation settles as the dominant mood regarding near-term improvement prospects.
+
 __Disaffection, Apathy & Spent Will:__ Brain drain accelerates as skilled technology workers emigrate to Europe, North America, and Australia, citing infrastructure failure and crime as primary motivations, with the technology sector losing human capital that cannot be replaced at the rate of departure.
+
 
 ## D06. Informational Domain
 

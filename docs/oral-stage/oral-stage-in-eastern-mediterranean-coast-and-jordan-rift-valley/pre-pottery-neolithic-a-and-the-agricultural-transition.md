@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Population growth and sedentism generate fricti
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism and confidence mark the PPNA: climatic recovery, abundant harvests, and village growth foster a sense of plenty; trust widens from kin to village; the radius of cooperation expands; anxiety about food recedes (though it does not vanish)—the mood is expansionary.
-
 __Leadership & Personal Authority:__ Big-men or council elders lead by reputation; no office formalizes authority; the construction of communal structures (tower, wall) implies leaders who can mobilize labor through persuasion and prestige—charisma converts to collective action.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy attaches to demonstrated competence (successful harvests, wise judgment) and ancestral connection (skull curation); allegiance is personal and revocable; no ideological apparatus legitimates rule—authority is earned each generation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The collective will to build (tower, gr
 
 __External Relations & Posture:__ Inter-village relations are cooperative-competitive: exchange networks connect communities; no external power threatens the Levant; the posture is expansion and trade, not defense or conquest; rivalry is mediated by marriage and gift, not war.
 
+__Public Sentiment & Behavioral Temper:__ Optimism and confidence mark the PPNA: climatic recovery, abundant harvests, and village growth foster a sense of plenty; trust widens from kin to village; the radius of cooperation expands; anxiety about food recedes (though it does not vanish)—the mood is expansionary.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective exhaustion or disaffection; the will that builds Jericho's tower is not spent during the PPNA—spent will awaits the overshoot of the Late PPNB; the affective residue of this window is confidence, not despair.
+
 
 ## D06. Informational Domain
 

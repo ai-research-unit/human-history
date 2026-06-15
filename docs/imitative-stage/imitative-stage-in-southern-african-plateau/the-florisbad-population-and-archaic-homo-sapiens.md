@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through mobility
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The behavioral temper of the Florisbad population can only be inferred from context. The spring's reliability likely fostered a baseline confidence absent in more marginal environments. Seasonal aggregations would have heightened social excitement and interpersonal stress alike. Trust extended primarily within the residential band, with inter-band relations marked by cautious assessment during encounters.
-
 __Leadership & Personal Authority:__ Leadership was situational and demonstrated rather than formally held. The individual who knew the route, who initiated the hunt, who mediated a dispute exercised authority in the moment without permanent office. Authority was renewed through repeated demonstration and could shift as situations demanded.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was personal and affective rather than institutionally mediated. Individuals followed leaders who demonstrated competence and generosity; those who failed or hoarded forfeited followership. Legitimacy was continuously performed and evaluated through observed behavior.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerged from converge
 
 __External Relations & Posture:__ Relations with other bands were likely wary but not hostile, mediated through kinship ties from past mate exchanges. The spring's concentration of resources may have created competition during dry periods, but direct evidence of inter-group violence is absent. The posture was one of cautious coexistence.
 
+__Public Sentiment & Behavioral Temper:__ The behavioral temper of the Florisbad population can only be inferred from context. The spring's reliability likely fostered a baseline confidence absent in more marginal environments. Seasonal aggregations would have heightened social excitement and interpersonal stress alike. Trust extended primarily within the residential band, with inter-band relations marked by cautious assessment during encounters.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection found expression in departure — the disaffected individual or faction left the group. The spring's reliability may have anchored individuals who might otherwise have dispersed, potentially concentrating latent tensions. Apathy and exhaustion remain invisible in the archaeological record.
+
 
 ## D06. Informational Domain
 

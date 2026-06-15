@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feud violence is regulated by the law codes, wh
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The early Lombard period is marked by violence and displacement, but by the seventh century a more stable order emerges; conversion to Catholicism (completed by the late seventh century) aligns Lombards with their Roman subjects; public sentiment adapts to the fragmented political order; fear of external threats (Byzantine reconquest, later Frankish invasion) motivates political cohesion.
-
 __Leadership & Personal Authority:__ Lombard kings exercise personal authority over their warrior followers; strong kings like Liutprand (712-744) expand royal power; dukes of Spoleto and Benevento maintain semi-independent authority; popes exercise growing spiritual and temporal leadership; Gregory the Great (590-604) exemplifies papal leadership during crisis.
 
 __Legitimacy as Lived Allegiance:__ Lombard kingship rests on warrior loyalty and successful leadership; royal legitimacy is contested during succession crises; the church provides an alternative source of legitimacy through anointing and alliance; Byzantine claims to universal authority persist but carry little practical force in Lombard Italy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to expand Lombard territory dr
 
 __External Relations & Posture:__ The Lombard kingdom navigates between Byzantine hostility and Frankish power; marriage alliances connect Lombard royalty to Frankish and Bavarian houses; the papacy cultivates Frankish alliance against Lombard pressure; Byzantine Italy maintains connection to Constantinople; Italy is an arena for external powers rather than an autonomous actor.
 
+__Public Sentiment & Behavioral Temper:__ The early Lombard period is marked by violence and displacement, but by the seventh century a more stable order emerges; conversion to Catholicism (completed by the late seventh century) aligns Lombards with their Roman subjects; public sentiment adapts to the fragmented political order; fear of external threats (Byzantine reconquest, later Frankish invasion) motivates political cohesion.
+
 __Disaffection, Apathy & Spent Will:__ By the mid-eighth century, Lombard political will has fragmented between the king at Pavia and the semi-independent southern duchies; papal alliance with the Franks reflects disaffection with Lombard pressure; the Frankish conquest of 774 meets limited resistance, suggesting exhausted political will among the Lombard ruling class.
+
 
 ## D06. Informational Domain
 

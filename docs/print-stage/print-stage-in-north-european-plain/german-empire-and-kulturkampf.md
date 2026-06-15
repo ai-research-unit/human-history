@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Socialist organization, driven underground, har
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National pride following unification coexists with confessional and class resentments; the Kulturkampf polarizes Catholic regions; Anti-Socialist Laws alienate urban workers; optimism about industrial progress is real but unevenly distributed.
-
 __Leadership & Personal Authority:__ Bismarck dominates as Chancellor (1871–1890), his personal authority resting on diplomatic and military success; Kaiser Wilhelm I defers to him; the leadership is concentrated in one figure whose departure (1890) will transform the system.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on military victory, economic growth, and the Kaiser's dynastic claim; among Catholics and Social Democrats, allegiance to the Reich is conditional, their primary loyalty to Church or party; the regime is accepted but not universally beloved.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bismarck's will to consolidate the Reic
 
 __External Relations & Posture:__ Bismarck's alliance system (Dual Alliance with Austria 1879; Triple Alliance 1882; Reinsurance Treaty with Russia 1887) aims to isolate France and preserve the status quo; colonial ventures (1884–1885) are limited; the posture is defensive hegemony.
 
+__Public Sentiment & Behavioral Temper:__ National pride following unification coexists with confessional and class resentments; the Kulturkampf polarizes Catholic regions; Anti-Socialist Laws alienate urban workers; optimism about industrial progress is real but unevenly distributed.
+
 __Disaffection, Apathy & Spent Will:__ Catholic and socialist milieus nurture disaffection that does not translate into rebellion but hardens into permanent subcultures; worker apathy under repression coexists with organizing underground; will is not spent but is channeled into parallel structures.
+
 
 ## D06. Informational Domain
 

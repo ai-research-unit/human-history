@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social media amplifies polarization, particular
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism about digital connectivity coexists with growing political polarization. Brazil's mood darkens through corruption scandals, impeachment, and recession. Mexico processes the Ayotzinapa disappearances through social media outrage. Venezuela's population experiences growing desperation. Trust in institutions declines while interpersonal trust contracts to close networks maintained digitally.
-
 __Leadership & Personal Authority:__ Political leaders adapt to social media with varying success. Brazil's Bolsonaro builds following through digital channels during this period. Mexico's AMLO cultivates media presence for 2018 campaign. Charismatic figures leverage platforms for direct communication, bypassing traditional gatekeepers.
 
 __Legitimacy as Lived Allegiance:__ Institutional legitimacy erodes across the region. Brazil's impeachment of Dilma Rousseff divides the population. Venezuela's government loses legitimacy among opposition while maintaining base support. Social media enables both challenges to and defenses of incumbent authority. Elections remain legitimate mechanisms for power transfer outside Venezuela.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Digital organizing enables rapid mobili
 
 __External Relations & Posture:__ Digital platforms create new forms of external dependency on US corporations. Chinese device manufacturers gain market share. Regional integration efforts continue with modest digital dimensions. Venezuela's isolation intensifies while other countries maintain open digital borders.
 
+__Public Sentiment & Behavioral Temper:__ Optimism about digital connectivity coexists with growing political polarization. Brazil's mood darkens through corruption scandals, impeachment, and recession. Mexico processes the Ayotzinapa disappearances through social media outrage. Venezuela's population experiences growing desperation. Trust in institutions declines while interpersonal trust contracts to close networks maintained digitally.
+
 __Disaffection, Apathy & Spent Will:__ Political exhaustion spreads, particularly in Brazil after years of corruption scandals. Youth disaffection with traditional politics coexists with digital political engagement. Venezuela experiences mass disaffection leading to emigration. Cynicism about institutions deepens while platform engagement remains high.
+
 
 ## D06. Informational Domain
 

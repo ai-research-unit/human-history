@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ System complexity creates coordination failures
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Awareness of surveillance produces chilling effects, with self-censorship extending beyond actual monitoring capacity as citizens assume observation even where it may not exist; this generalized anxiety transforms public behavior, suppressing spontaneous expression and political discussion.
-
 __Leadership & Personal Authority:__ Vladimir Putin personally champions surveillance expansion, with public statements emphasizing state security and control; security service leadership—FSB directors, Roskomnadzor heads—derive authority from their control over information and their access to surveillance products.
 
 __Legitimacy as Lived Allegiance:__ Surveillance legitimates itself through security narratives, positioning monitoring as protection against terrorism, extremism, and foreign interference; citizens who accept this framing view surveillance as beneficial, while those who resist experience it as oppression, fracturing legitimacy along political lines.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrates sustained will t
 
 __External Relations & Posture:__ Surveillance infrastructure enables monitoring of foreign communications and the identification of foreign-linked individuals, supporting a posture of suspicion toward external influence; the "sovereign internet" capability provides potential for isolation that would sever foreign information flows entirely.
 
+__Public Sentiment & Behavioral Temper:__ Awareness of surveillance produces chilling effects, with self-censorship extending beyond actual monitoring capacity as citizens assume observation even where it may not exist; this generalized anxiety transforms public behavior, suppressing spontaneous expression and political discussion.
+
 __Disaffection, Apathy & Spent Will:__ Surveillance produces demoralization as citizens recognize the futility of resistance against a state that can observe their organizing, identify their networks, and preempt their actions; this learned helplessness converts potential opposition into passive acceptance, clearing active dissent but leaving latent disaffection that could resurface if control systems fail.
+
 
 ## D06. Informational Domain
 

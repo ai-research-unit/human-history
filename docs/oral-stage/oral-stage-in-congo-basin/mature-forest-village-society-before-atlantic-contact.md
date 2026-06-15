@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes over land, inheritance, and marriage a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood within villages is cautious cooperation; trust extends reliably to kin and village-mates, less so to outsiders; anxiety about sorcery and spiritual displeasure colors daily life; confidence rises with successful harvests and hunts, falls with misfortune.
-
 __Leadership & Personal Authority:__ Headmen and lineage elders lead through persuasion, generosity, ritual competence, and demonstrated success; charismatic figures—great hunters, renowned smiths, effective healers—command personal followings; authority is earned and can be lost.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to leaders who deliver: successful harvests, protection from enemies, effective mediation, proper ritual; legitimacy is performative and contingent; failure invites defection or replacement.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action mobilizes effectively
 
 __External Relations & Posture:__ Relations with neighboring villages range from alliance (often through intermarriage) to rivalry and raiding; trade partnerships extend over long distances through relay networks; forest-forager populations are integrated through exchange and ritual interdependence but occupy subordinate status.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood within villages is cautious cooperation; trust extends reliably to kin and village-mates, less so to outsiders; anxiety about sorcery and spiritual displeasure colors daily life; confidence rises with successful harvests and hunts, falls with misfortune.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection surfaces when leaders fail or when sorcery fears spread; the remedy is typically exit—departure to found a new settlement—rather than reform; apathy is rare in the intimate village setting; spent will manifests as fission rather than collapse.
+
 
 ## D06. Informational Domain
 

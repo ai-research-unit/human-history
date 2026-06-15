@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Songhai collapse is followed by endemic war
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Insecurity dominates: the possibility of slave capture, raiding, or famine shadows daily life in exposed regions. Trust contracts to kin and local community; strangers are potential threats. In stable refugia, sentiment is more confident, but the regional mood is anxious. Heroic warrior ethos valorizes those who can protect or profitably raid.
-
 __Leadership & Personal Authority:__ Leadership is personal and martial. Bambara faama (kings) like Biton Coulibaly (r. c. 1712–1755 CE) command through military prowess and generous distribution of booty. Griot praise reinforces authority; military failure undermines it. The charismatic warlord replaces the religiously legitimated mansa as the typical power-holder.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is fragile and contested. Bambara rulers never achieve the deep legitimacy of Mali's mansaa; their authority rests on coercion and reward, not sacred descent. Islamic reform movements (emerging late in the window) challenge both pagan warlords and compromised Muslim elites, offering an alternative legitimacy based on sharia and prophetic example.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will is fragmented among comp
 
 __External Relations & Posture:__ External relations are dominated by the Atlantic trade: European factors at coastal forts, African middlemen controlling interior access. The Saharan route declines but persists; Moroccan and North African connections weaken. No Sahelian power projects force externally; the posture is defensive, extractive, and commercially oriented toward the coast.
 
+__Public Sentiment & Behavioral Temper:__ Insecurity dominates: the possibility of slave capture, raiding, or famine shadows daily life in exposed regions. Trust contracts to kin and local community; strangers are potential threats. In stable refugia, sentiment is more confident, but the regional mood is anxious. Heroic warrior ethos valorizes those who can protect or profitably raid.
+
 __Disaffection, Apathy & Spent Will:__ The prolonged insecurity generates disaffection and exhaustion. Populations in raiding zones suffer without recourse; their grievances accumulate. Islamic reform preachers tap this disaffection, promising justice and order under sharia. The residue is a reservoir of resentment that fuels the jihad movements of the nineteenth century.
+
 
 ## D06. Informational Domain
 

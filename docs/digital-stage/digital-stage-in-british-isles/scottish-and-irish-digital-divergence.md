@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Irish DPC faces sustained criticism for slo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Scottish public sentiment divides sharply over constitutional questions that dominate digital discourse; the 2014 independence referendum and subsequent campaigns demonstrate sophisticated online mobilization and equally vigorous unionist counter-organization. Irish sentiment toward tech platforms mixes pride in Dublin's hub status with concern over corporate power and housing impacts.
-
 __Leadership & Personal Authority:__ Nicola Sturgeon's SNP government (2014–2023) cultivates social media presence to bypass perceived UK media hostility; Sturgeon's personal Twitter following (1.5 million) exceeds institutional accounts. Irish political leaders maintain lower-profile digital presence, with civil service rather than ministerial faces fronting tech policy.
 
 __Legitimacy as Lived Allegiance:__ Digital platforms become contested terrain for constitutional legitimacy debates; allegations of foreign interference in both Scottish and Irish referenda raise questions about information environment integrity that neither jurisdiction fully resolves.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Scottish Government demonstrates sustai
 
 __External Relations & Posture:__ Ireland's position as EU member and tech sector regulator creates tension with United States over platform oversight; Scottish Government cultivates EU relationships despite UK withdrawal, seeking to position an independent Scotland as digitally aligned with Brussels.
 
+__Public Sentiment & Behavioral Temper:__ Scottish public sentiment divides sharply over constitutional questions that dominate digital discourse; the 2014 independence referendum and subsequent campaigns demonstrate sophisticated online mobilization and equally vigorous unionist counter-organization. Irish sentiment toward tech platforms mixes pride in Dublin's hub status with concern over corporate power and housing impacts.
+
 __Disaffection, Apathy & Spent Will:__ Fatigue with constitutional debate colors Scottish digital discourse; persistent online conflict between independence supporters and opponents produces polarization and withdrawal from political engagement among some cohorts.
+
 
 ## D06. Informational Domain
 

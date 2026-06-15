@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-state warfare is endemic — Vijayanagara
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Regional identity strengthens as populations orient toward local courts and religious centers rather than a distant imperial capital; trust is localized to community and region; the mood varies by location and circumstances — prosperous trading cities differ from war-torn frontier zones; pride in regional achievement coexists with anxiety about external threats.
-
 __Leadership & Personal Authority:__ Effective rulers — Krishna Deva Raya of Vijayanagara (r. 1509–1529), Mahmud Gawan of the Bahmanis (chief minister, d. 1481), Sikandar Lodi of Delhi (r. 1489–1517) — command allegiance through military success, administrative competence, and patronage; personal authority is decisive but non-transferable; weak successors regularly lose what capable predecessors built.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on religious endorsement (Islamic for sultanates, Hindu for Vijayanagara), military success, and distributive patronage; allegiance is conditional and pragmatic; subjects and subordinates shift loyalty when advantage dictates; legitimacy is shallow and must be continuously renewed through performance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Regional courts display vigorous will t
 
 __External Relations & Posture:__ Regional states engage in shifting alliances and endemic warfare; Vijayanagara and the Deccan sultanates are locked in multi-generational conflict; northern sultanates contest the Gangetic plain; Gujarat protects its maritime interests against Portuguese encroachment; the external posture is competitive and defensive, with no single power able to impose order on the system.
 
+__Public Sentiment & Behavioral Temper:__ Regional identity strengthens as populations orient toward local courts and religious centers rather than a distant imperial capital; trust is localized to community and region; the mood varies by location and circumstances — prosperous trading cities differ from war-torn frontier zones; pride in regional achievement coexists with anxiety about external threats.
+
 __Disaffection, Apathy & Spent Will:__ Succession crises generate factional disaffection that fragments each state's elite; prolonged warfare and revenue extraction strain peasant loyalty; by 1526, the Lodi sultanate's will to resist Babur's invasion is undermined by Afghan factional conflict and Rajput neutrality; the spent will creates the opening for Mughal conquest.
+
 
 ## D06. Informational Domain
 

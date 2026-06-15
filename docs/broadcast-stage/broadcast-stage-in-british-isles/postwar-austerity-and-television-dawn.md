@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime rates low; industrial disputes contained 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ "Austerity Britain" mood: grim determination, resigned patience, pride in collective achievement; wartime spirit extended into peacetime sacrifice; expectations modest but a sense of building something better; the Coronation (1953) provides emotional release and national celebration.
-
 __Leadership & Personal Authority:__ Attlee leads Labour with quiet competence; Churchill returns (1951) as aging icon; the young Queen Elizabeth II provides fresh symbolic focus; Reith's legacy shapes BBC leadership even after his departure.
 
 __Legitimacy as Lived Allegiance:__ The welfare state settlement commands broad consent; both parties accept its fundamentals; monarchy retains deep loyalty; the BBC's wartime credibility carries into peace; legitimacy of institutions high.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Labour implements transformative progra
 
 __External Relations & Posture:__ Britain adjusts to reduced status; Indian independence (1947) begins decolonization; NATO membership (1949) aligns with America; Suez crisis (1956, just beyond period) will expose limits; the Commonwealth reframes imperial ties.
 
+__Public Sentiment & Behavioral Temper:__ "Austerity Britain" mood: grim determination, resigned patience, pride in collective achievement; wartime spirit extended into peacetime sacrifice; expectations modest but a sense of building something better; the Coronation (1953) provides emotional release and national celebration.
+
 __Disaffection, Apathy & Spent Will:__ Wartime exhaustion persists; "never again" sentiment regarding war and depression; rationing fatigue accumulates by early 1950s; the young chafe at continued restrictions; by 1955 the appetite for austerity is spent.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Upper Egyptian revolts (207–186 BCE, recurren
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Greeks in Alexandria display civic pride and cultural confidence; Egyptian sentiment toward Ptolemaic rule is ambivalent — acceptance when administration functions, resistance when extraction intensifies or cultural respect falters; trust follows ethnic-community lines.
-
 __Leadership & Personal Authority:__ Ptolemaic kings project dual legitimacy: pharaoh to Egyptians (with full titulary, temple reliefs, royal cult), Hellenistic basileus to Greeks; court factionalism around queens and ministers (Arsinoe II, Sosibius) shapes policy; later rulers lack personal authority as Rome overshadows.
 
 __Legitimacy as Lived Allegiance:__ Egyptian temples validate Ptolemaic kingship through traditional rites; Greek cities honor the dynasty through cult and festival; legitimacy fractures when native revolts install rival pharaohs and when Roman arbitration determines succession.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Aggressive expansion under Ptolemy I–
 
 __External Relations & Posture:__ Rivalry with Seleucids dominates 3rd century; alliance and conflict with Macedon and other Hellenistic powers; Roman entanglement grows from 2nd century as Ptolemies seek Roman backing against domestic and external threats; dependency deepens until annexation.
 
+__Public Sentiment & Behavioral Temper:__ Greeks in Alexandria display civic pride and cultural confidence; Egyptian sentiment toward Ptolemaic rule is ambivalent — acceptance when administration functions, resistance when extraction intensifies or cultural respect falters; trust follows ethnic-community lines.
+
 __Disaffection, Apathy & Spent Will:__ Egyptian revolts signal active disaffection rather than apathy; late Ptolemaic dynastic chaos reflects exhausted ruling-class will; Cleopatra VII's final resistance marks a brief revival before capitulation.
+
 
 ## D06. Informational Domain
 

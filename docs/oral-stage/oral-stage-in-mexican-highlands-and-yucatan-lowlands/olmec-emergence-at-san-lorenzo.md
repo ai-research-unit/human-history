@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction absorbed through feasting, ritu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public mood combines awe at monumental achievements with localized loyalty to kin and village; trust radiates outward from kinship cores; the novelty of concentrated power generates both allegiance and unease.
-
 __Leadership & Personal Authority:__ Paramount chiefs at San Lorenzo command through personal charisma, ritual authority as intermediaries with supernatural forces, and demonstrated capacity to mobilize labor; the colossal heads likely portray these leaders, monumentalizing personal authority in stone.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ritual efficacy—the chief's ability to ensure rains, harvests, and cosmic order through correct performance; allegiance real but contingent on results; no abstract ideology of rulership yet articulated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to build monuments and organiz
 
 __External Relations & Posture:__ San Lorenzo interacts with distant polities through exchange networks carrying prestige goods; no evidence of military expansion; the posture is one of commercial and ritual prestige rather than conquest; regional influence spreads through emulation.
 
+__Public Sentiment & Behavioral Temper:__ The public mood combines awe at monumental achievements with localized loyalty to kin and village; trust radiates outward from kinship cores; the novelty of concentrated power generates both allegiance and unease.
+
 __Disaffection, Apathy & Spent Will:__ Some subordinate communities may resent extraction, but the expanding system absorbs discontent; no evidence of exhaustion or apathy; the window closes with the polity still in its ascent.
+
 
 ## D06. Informational Domain
 

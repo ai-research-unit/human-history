@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Index system generated evasion (pseudonymou
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Counter-Reformation Catholicism cultivated fervent piety — Marian devotion, cult of saints, emotional baroque religiosity — expressed through printed images, devotional manuals, and spiritual exercises; anti-Protestant sentiment was mobilized through polemic print.
-
 __Leadership & Personal Authority:__ Popes varied from reforming (Pius V) to worldly (Alexander VII); the Jesuit order produced intellectual leaders (Bellarmine, Canisius) whose writings shaped Catholic apologetics; individual inquisitors commanded fear in their jurisdictions.
 
 __Legitimacy as Lived Allegiance:__ Papal authority rested on claims to apostolic succession and doctrinal infallibility (formally defined 1870); loyalty to the pope marked Catholic identity against Protestant and, later, secular-liberal challengers; the "Roman Question" (1870–1929) presented the pope as prisoner-martyr, reinforcing ultramontane devotion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Counter-Reformation mobilized insti
 
 __External Relations & Posture:__ The papacy maneuvered between Catholic powers (Spain, France, Austria), seeking protectors; relations with Protestant states ranged from hostility to pragmatic coexistence; after 1870, diplomatic isolation was followed by accommodation, culminating in the Lateran Pacts with Fascist Italy.
 
+__Public Sentiment & Behavioral Temper:__ Counter-Reformation Catholicism cultivated fervent piety — Marian devotion, cult of saints, emotional baroque religiosity — expressed through printed images, devotional manuals, and spiritual exercises; anti-Protestant sentiment was mobilized through polemic print.
+
 __Disaffection, Apathy & Spent Will:__ Enlightenment skepticism eroded elite allegiance; anticlerical liberalism captured the educated bourgeoisie; popular piety persisted among peasantry but educated Catholics increasingly compartmentalized faith and intellectual life; the Index became an embarrassment rather than a deterrent.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The gradual decline of regional publishing unde
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Regional identity provides emotional foundation for local publishing, with readers valuing works that reflect their own dialect, landscape, and traditions; pride in local distinctiveness motivates patronage of provincial publishers even when metropolitan alternatives are available.
-
 __Leadership & Personal Authority:__ Individual publishers, editors, and patrons shape regional publishing through personal commitment to local culture; domain lords under the Tokugawa and prominent citizens under the Meiji sometimes champion local publishing as expression of regional pride.
 
 __Legitimacy as Lived Allegiance:__ Domain loyalty under the Tokugawa and prefectural identity under the Meiji provide legitimacy frameworks within which regional publishing operates; works celebrating local history and achievements reinforce these allegiances.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The collective will to maintain regiona
 
 __External Relations & Posture:__ Regional publishing defines itself against metropolitan dominance, asserting the value of local knowledge and expression while acknowledging subordination to national standards; relations between provincial and metropolitan publishers are competitive but unequal.
 
+__Public Sentiment & Behavioral Temper:__ Regional identity provides emotional foundation for local publishing, with readers valuing works that reflect their own dialect, landscape, and traditions; pride in local distinctiveness motivates patronage of provincial publishers even when metropolitan alternatives are available.
+
 __Disaffection, Apathy & Spent Will:__ The gradual abandonment of dialect in favor of standard Japanese represents a form of cultural surrender, as speakers accept metropolitan norms transmitted through education and mass media; regional publishing that served living dialects becomes antiquarian documentation of dying speech.
+
 
 ## D06. Informational Domain
 

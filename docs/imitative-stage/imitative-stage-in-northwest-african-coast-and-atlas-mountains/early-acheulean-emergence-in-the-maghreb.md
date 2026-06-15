@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is low; the cooperative demands
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is shaped by daily subsistence rhythms; trust extends to band members, and the demands of cooperative learning may foster patience and tolerance as social norms.
-
 __Leadership & Personal Authority:__ Leadership is informal, exercised by skilled knappers and successful foragers; authority derives from demonstrated competence rather than formal office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to the band as a survival and learning unit; belonging is immediate and affective, not abstracted into political legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coalesces around immedi
 
 __External Relations & Posture:__ Inter-band relations are unknown; the sparse population suggests infrequent contact, and posture toward outsiders is likely cautious.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is shaped by daily subsistence rhythms; trust extends to band members, and the demands of cooperative learning may foster patience and tolerance as social norms.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is not legible at this scale; the affective life is immediate, and collective exhaustion does not accumulate as a standing condition.
+
 
 ## D06. Informational Domain
 

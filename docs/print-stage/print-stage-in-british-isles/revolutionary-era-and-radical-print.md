@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Food riots, machine-breaking (Luddism 1811–18
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The French Revolution polarizes opinion: initial enthusiasm gives way to loyalist reaction after the Terror. Anti-Jacobin sentiment, fear of invasion, and patriotic fervor coexist with radical hope. Print amplifies both loyalty and dissent.
-
 __Leadership & Personal Authority:__ Pitt the Younger dominates politics (1783–1801, 1804–1806); his authority rests on parliamentary skill and war leadership. Radical leaders (Thomas Hardy, John Thelwall, Thomas Paine in absentia) inspire followings through print and oratory.
 
 __Legitimacy as Lived Allegiance:__ The Hanoverian monarchy retains popular affection (George III's Jubilee 1809); parliamentary government commands propertied allegiance. Radicals challenge the legitimacy of an unrepresentative Parliament; loyalists defend the constitution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ War against revolutionary and Napoleoni
 
 __External Relations & Posture:__ Britain pursues coalition warfare against France, subsidizing continental allies. Naval supremacy secures commerce and empire. Print celebrates victories (Nile, Trafalgar, Waterloo) and shapes public understanding of the struggle.
 
+__Public Sentiment & Behavioral Temper:__ The French Revolution polarizes opinion: initial enthusiasm gives way to loyalist reaction after the Terror. Anti-Jacobin sentiment, fear of invasion, and patriotic fervor coexist with radical hope. Print amplifies both loyalty and dissent.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness accumulates; demobilization after 1815 floods the labor market. Radical agitation intensifies postwar; repression follows. Print channels both exhaustion and renewed demand for reform.
+
 
 ## D06. Informational Domain
 

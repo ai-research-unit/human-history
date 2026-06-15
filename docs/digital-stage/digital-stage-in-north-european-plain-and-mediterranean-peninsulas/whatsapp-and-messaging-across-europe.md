@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Group message overload, notification fatigue, a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ WhatsApp becomes trusted infrastructure, its messaging perceived as more private than social media despite Meta ownership. Sentiment darkens following the 2021 privacy policy controversy, though adoption persists.
-
 __Leadership & Personal Authority:__ Jan Koum's departure from Meta (2018) over data privacy disagreements signals founder-owner tension; Meta leadership under Zuckerberg prioritizes integration over independence.
 
 __Legitimacy as Lived Allegiance:__ Users accept WhatsApp's terms despite privacy concerns, network effects overwhelming privacy preferences. The gap between stated concern and actual behavior persists across the window.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ European regulators investigate WhatsAp
 
 __External Relations & Posture:__ Tensions between European privacy expectations and American platform practices surface repeatedly; WhatsApp occupies the boundary between trusted communication infrastructure and Meta's data extraction apparatus.
 
+__Public Sentiment & Behavioral Temper:__ WhatsApp becomes trusted infrastructure, its messaging perceived as more private than social media despite Meta ownership. Sentiment darkens following the 2021 privacy policy controversy, though adoption persists.
+
 __Disaffection, Apathy & Spent Will:__ Privacy-conscious users migrate to Signal or Telegram, but mass adoption persists; the effort required to coordinate network migration exceeds most users' willingness to act on privacy concerns.
+
 
 ## D06. Informational Domain
 

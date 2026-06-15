@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The social residue of the tradition was the mar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The oral tradition both reflected and shaped collective sentiment. The epics' emotional register — grief for the dead, rage in battle, longing for home — resonated because audiences recognized these affects in their own experience. Performance was cathartic, providing a sanctioned space for communal mourning and celebration.
-
 __Leadership & Personal Authority:__ The bard exercised a form of charismatic authority during performance — commanding attention, shaping mood, directing the audience's emotional trajectory. Great singers were revered; their arrival at a feast elevated the occasion. The Muse was invoked not rhetorically but as the source of the singer's authority to speak of things beyond personal knowledge.
 
 __Legitimacy as Lived Allegiance:__ The oral tradition conferred legitimacy on emerging elites by linking them to heroic ancestors. A basileus who could claim descent from the heroes of the Trojan War drew on the tradition's authority to validate his own status. The bard's song was a technology of legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The martial themes of the epic traditio
 
 __External Relations & Posture:__ Shared epic tradition created a sense of common Hellenic identity across scattered communities. The Catalogue of Ships named distant places as participants in a common enterprise; the tradition fostered a proto-ethnic consciousness that transcended local loyalties, preparing the ground for the Panhellenic institutions of the eighth century.
 
+__Public Sentiment & Behavioral Temper:__ The oral tradition both reflected and shaped collective sentiment. The epics' emotional register — grief for the dead, rage in battle, longing for home — resonated because audiences recognized these affects in their own experience. Performance was cathartic, providing a sanctioned space for communal mourning and celebration.
+
 __Disaffection, Apathy & Spent Will:__ The tradition countered anomie by embedding individuals in a meaningful narrative connecting present to heroic past. Where other sources of meaning — palatial religion, administrative hierarchy — had collapsed, the oral tradition provided continuity. The residue of disenchantment found little purchase while the epic remained vital.
+
 
 ## D06. Informational Domain
 

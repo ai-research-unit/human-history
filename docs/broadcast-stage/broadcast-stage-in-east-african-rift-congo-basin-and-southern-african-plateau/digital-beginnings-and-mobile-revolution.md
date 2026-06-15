@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Mobile money enables faster remittance flows th
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mobile connectivity generates optimism about African technological progress, with M-PESA celebrated internationally as an innovation success; tech entrepreneurship culture emerges in Nairobi ("Silicon Savannah"), shifting narratives about African economic potential from aid-dependency to innovation leadership.
-
 __Leadership & Personal Authority:__ Tech entrepreneurs and mobile network executives gain public prominence; Safaricom CEO Michael Joseph becomes associated with M-PESA's success; politicians increasingly reach constituents through mobile communication, personalizing political messaging.
 
 __Legitimacy as Lived Allegiance:__ Government legitimacy partially ties to network quality and mobile money access, with populations expecting connectivity as a modern service; regulatory decisions on spectrum allocation and mobile money licensing carry visible stakes for daily life.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Civil society organizations adopt mobil
 
 __External Relations & Posture:__ Kenya's M-PESA success attracts international attention, with development agencies studying replicability; Chinese mobile infrastructure investment accelerates, with Huawei and ZTE supplying network equipment across the region, shifting technology dependence from Western to Chinese suppliers.
 
+__Public Sentiment & Behavioral Temper:__ Mobile connectivity generates optimism about African technological progress, with M-PESA celebrated internationally as an innovation success; tech entrepreneurship culture emerges in Nairobi ("Silicon Savannah"), shifting narratives about African economic potential from aid-dependency to innovation leadership.
+
 __Disaffection, Apathy & Spent Will:__ Digital exclusion affects those without phones or literacy, creating new marginalization; network failures during crises generate intense frustration; government attempts to tax or surveil mobile communication provoke resistance.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The system generates resentment among the educa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear pervades the literary world — fear of denunciation, fear of the familiar network, fear of one's own potentially heretical thoughts; this ambient dread produces a culture of caution.
-
 __Leadership & Personal Authority:__ Grand Inquisitors vary in zeal — Torquemada's severity, Valdés's systematic Index-building, eighteenth-century moderates — their personal disposition shaping enforcement intensity.
 
 __Legitimacy as Lived Allegiance:__ The Inquisition's legitimacy rests on its claim to protect souls from heresy; this is deeply felt by devout populations, less so by the educated who encounter forbidden ideas abroad.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Crown's will to maintain censorship
 
 __External Relations & Posture:__ Spain defines itself against Protestant Europe; censorship is a defensive posture, sealing the realm against Reformation ideas; this isolates Spanish intellectual life from European currents.
 
+__Public Sentiment & Behavioral Temper:__ Fear pervades the literary world — fear of denunciation, fear of the familiar network, fear of one's own potentially heretical thoughts; this ambient dread produces a culture of caution.
+
 __Disaffection, Apathy & Spent Will:__ By the nineteenth century, the censorship apparatus inspires more cynicism than fear; intellectuals evade rather than confront it; the institution's authority erodes before its formal abolition.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession struggles are endemic; virtually eve
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of decline pervades the period; chroniclers lament moral decay, plague, and dearth. Popular piety intensifies; saint veneration, shrine visitation, and Sufi participation increase. Fatalism coexists with hope for divine intervention. Distrust of Mamluk rulers is widespread among commoners.
-
 __Leadership & Personal Authority:__ Sultans rule through personal authority and faction management. Barquq (1382–1399) establishes Circassian dominance. Barsbay (1422–1438) centralizes trade revenue. Qa'itbay (1468–1496) enjoys unusual longevity and stability. Qansuh al-Ghawri (1501–1516) presides over terminal decline. Leadership depends on balancing factions; no sultan commands unquestioned allegiance.
 
 __Legitimacy as Lived Allegiance:__ The sultanate claims protection of Islam, guardianship of Mecca and Medina, and defense against Crusaders and Mongols. The latter threats have passed; legitimacy rests increasingly on religious patronage and pilgrimage security. The Abbasid caliph in Cairo provides symbolic endorsement but no real authority. Allegiance is transactional — elites follow power.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic; factiona
 
 __External Relations & Posture:__ The sultanate controls Bilad al-Sham (Syria), Hijaz, and nominally Nubia. Relations with Timurids, Ottomans, and European states are diplomatic when not hostile. The Portuguese threat in the Indian Ocean provokes alliance overtures to Gujarat and Venice. The Ottomans under Selim I present the terminal threat.
 
+__Public Sentiment & Behavioral Temper:__ A mood of decline pervades the period; chroniclers lament moral decay, plague, and dearth. Popular piety intensifies; saint veneration, shrine visitation, and Sufi participation increase. Fatalism coexists with hope for divine intervention. Distrust of Mamluk rulers is widespread among commoners.
+
 __Disaffection, Apathy & Spent Will:__ Popular disaffection simmers; riots over bread and coin accompany crises. Mamluk factions are perpetually disaffected toward whichever sultan holds power. Elite will is consumed by faction struggle. By 1517, little collective resolve remains to resist Ottoman invasion.
+
 
 ## D06. Informational Domain
 

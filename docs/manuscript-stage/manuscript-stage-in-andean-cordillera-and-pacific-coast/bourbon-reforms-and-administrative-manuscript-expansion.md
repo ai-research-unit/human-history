@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Low-level disorder persists in banditry, smuggl
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Creole resentment grows as Bourbon reforms systematically favor peninsular Spaniards for high office; indigenous communities maintain outward compliance while inward grievance deepens over tribute increases and labor demands; public sentiment is cautious, watchful, increasingly strained; trust contracts along ethnic and status lines.
-
 __Leadership & Personal Authority:__ Viceroys appointed from Spain exercise formal authority; local caciques (indigenous chiefs) mediate between communities and colonial state; creole elites lack access to highest offices; no charismatic leader emerges to channel discontent until Tupac Amaru II in 1780; leadership is bureaucratic rather than personal.
 
 __Legitimacy as Lived Allegiance:__ The Spanish Crown retains formal legitimacy through tradition, religion, and established authority; indigenous communities accept colonial rule as established fact while maintaining separate identity; creole allegiance is instrumental, eroding as discrimination intensifies; legitimacy weakens gradually but has not yet cracked.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bourbon reformers in Madrid drive polic
 
 __External Relations & Posture:__ The viceroyalty functions as colony, its external posture determined by Madrid; British and Portuguese pressure on Spanish American periphery is felt as distant threat; no independent diplomatic capacity exists; the stance is defensive, inward-looking, focused on internal administration.
 
+__Public Sentiment & Behavioral Temper:__ Creole resentment grows as Bourbon reforms systematically favor peninsular Spaniards for high office; indigenous communities maintain outward compliance while inward grievance deepens over tribute increases and labor demands; public sentiment is cautious, watchful, increasingly strained; trust contracts along ethnic and status lines.
+
 __Disaffection, Apathy & Spent Will:__ Creole disaffection deepens as career paths narrow; indigenous communities harbor deep but unexpressed grievance; the combination creates potential energy for revolt; will is not spent but suppressed, accumulating pressure that will discharge in the Tupac Amaru rebellion.
+
 
 ## D06. Informational Domain
 

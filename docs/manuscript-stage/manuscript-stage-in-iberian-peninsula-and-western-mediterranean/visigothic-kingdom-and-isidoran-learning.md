@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises generate periodic violence an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment is difficult to recover but probably combines piety, fatalism, and localized loyalty. Trust extends to kin, patrons, and local clergy. The behavioral temper is conservative: people accommodate the regime rather than challenge it. Neither enthusiasm nor active disaffection characterizes the majority.
-
 __Leadership & Personal Authority:__ Royal authority depends on personal capacity and magnate support. Effective kings — Reccared (586–601 CE), who converted to Catholicism — consolidate power; weak kings lose it to factional strife. Episcopal leaders command moral authority; figures like Isidore of Seville achieve lasting influence through learning and counsel.
 
 __Legitimacy as Lived Allegiance:__ Catholic conversion resolves the fundamental legitimacy problem of the previous period. Kings now share religion with their subjects. Legitimacy is enacted through anointing, council participation, and law-giving. Allegiance remains conditional on justice delivery and patronage distribution; it is not unconditional loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime displays sufficient will to 
 
 __External Relations & Posture:__ The kingdom maintains defensive posture against the Franks across the Pyrenees and completes the conquest of Byzantine coastal enclaves by c. 625 CE. Relations with North Africa are commercial and diplomatic rather than military. No expansionist ambition animates policy; the posture is consolidation and maintenance.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment is difficult to recover but probably combines piety, fatalism, and localized loyalty. Trust extends to kin, patrons, and local clergy. The behavioral temper is conservative: people accommodate the regime rather than challenge it. Neither enthusiasm nor active disaffection characterizes the majority.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection intensifies through succession crises. Magnate factions pursue particular interests over collective welfare. By 711 CE, disaffection among dispossessed factions reportedly invites external intervention. This spent will at the elite level leaves the regime unable to respond coherently to invasion.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuding and vengeance cycles constitute the pri
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of expansion and opportunity: land is available, the sea is navigable, and networks are forming; interpersonal trust extends broadly within kin and alliance networks; the mood is confident rather than anxious, though inter-village rivalry and raiding introduce intermittent fear.
-
 __Leadership & Personal Authority:__ Big men and ritual specialists command through personal charisma, generosity, oratory, and demonstrated competence in warfare or voyaging; authority is achieved, not inherited, and must be constantly validated; the leader who fails to deliver loses followers.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and contractual: followers attach to leaders who provide feasts, protection, and successful expeditions; legitimacy is shallow and constantly negotiated; no abstract ideology of rule has emerged.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Villages can mobilize rapidly for colle
 
 __External Relations & Posture:__ Relations between villages and between ethnic groups oscillate between alliance and raiding; expansion is opportunistic rather than strategic; no external power threatens the region, and the horizon of concern is local.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of expansion and opportunity: land is available, the sea is navigable, and networks are forming; interpersonal trust extends broadly within kin and alliance networks; the mood is confident rather than anxious, though inter-village rivalry and raiding introduce intermittent fear.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective exhaustion or disaffection; the system is young and expanding; individual grievances are processed through feud and mediation; the affective reservoir is full.
+
 
 ## D06. Informational Domain
 

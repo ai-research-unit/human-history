@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Farm protests (2020–2021) and CAA protests (2
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pandemic anxiety, grief from mass death (especially the second wave), and political polarization shaped public mood. Trust in government health messaging eroded during second-wave failures; anger at oxygen shortages and cremation-ground images circulated online.
-
 __Leadership & Personal Authority:__ Modi's personal authority faced its most significant challenge during the second wave, though recovery followed. Opposition leaders (Rahul Gandhi, Mamata Banerjee, Arvind Kejriwal) used platforms to criticize pandemic response. Twitter confrontations between government and platform executives (Jack Dorsey) became public spectacles.
 
 __Legitimacy as Lived Allegiance:__ BJP's legitimacy wavered during second-wave failures but recovered for 2022 state elections; farm-law repeal (November 2021) represented a rare government retreat. Platform legitimacy (Twitter, Facebook) eroded as selective enforcement and political bias allegations circulated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrated will to confront
 
 __External Relations & Posture:__ The Galwan clash (June 2020) with China triggered the Chinese app ban (TikTok, 59+ apps), framing digital sovereignty as national security. Relations with US tech firms remained transactional; India sought investment while demanding compliance.
 
+__Public Sentiment & Behavioral Temper:__ Pandemic anxiety, grief from mass death (especially the second wave), and political polarization shaped public mood. Trust in government health messaging eroded during second-wave failures; anger at oxygen shortages and cremation-ground images circulated online.
+
 __Disaffection, Apathy & Spent Will:__ Post-second-wave exhaustion produced political apathy in some quarters; protest fatigue after farm-law victory. Disaffection with platform noise and misinformation grew but did not translate into exit. Emotional residue accumulated as grief, anger, and fatigue settled into the public mood.
+
 
 ## D06. Informational Domain
 

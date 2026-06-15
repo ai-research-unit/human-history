@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes over mates, territory, or prestige wer
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Small-group intimacy sustained high interpersonal trust within bands; sentiment toward the land was conveyed through place-names and stories anchoring identity to territory; anxiety centered on scarcity, predation, and loss of elders who held crucial knowledge.
-
 __Leadership & Personal Authority:__ Leaders emerged through demonstrated skill — successful hunting, persuasive speech, ritual knowledge — and held authority only so long as spoken reputation sustained it; charisma was performed and remembered, not inherited.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attached to kin and band, maintained by daily face-to-face interaction and the oral recitation of shared ancestry and mutual obligation; legitimacy required no abstract argument — presence and performance sufficed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action — game drives, defe
 
 __External Relations & Posture:__ Relations with neighboring bands ranged from alliance and intermarriage to avoidance and sporadic raiding; posture was communicated through oral messages, gift exchange, and the presence or absence of kinship ties.
 
+__Public Sentiment & Behavioral Temper:__ Small-group intimacy sustained high interpersonal trust within bands; sentiment toward the land was conveyed through place-names and stories anchoring identity to territory; anxiety centered on scarcity, predation, and loss of elders who held crucial knowledge.
+
 __Disaffection, Apathy & Spent Will:__ Failure of leadership or resource stress produced group fission rather than internal collapse; disaffection was discharged by exit — departing members joined allied bands, carrying their oral knowledge with them.
+
 
 ## D06. Informational Domain
 

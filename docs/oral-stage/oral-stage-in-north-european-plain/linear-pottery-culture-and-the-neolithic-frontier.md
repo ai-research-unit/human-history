@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through fission 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment operated at the household and village level; trust extended through kinship networks and village ties; the radius of trust was wider than in mobile foraging bands due to larger co-resident populations and exchange networks, but strangers—including neighboring villages with which conflict had occurred—were treated with caution or hostility; the massacre evidence suggests that behavioral temper could turn to lethal violence under pressure from competition or revenge.
-
 __Leadership & Personal Authority:__ Leadership resided in household heads and influential individuals recognized for wealth, skill, or age; no formal offices of authority existed; personal charisma and demonstrated success in managing household and community affairs earned deference; leadership was achieved, not inherited, though wealthy households had advantages in producing future leaders.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attached to kinship, household, and village; the order was legitimate because it was traditional and provided security and subsistence; no separate ruling stratum required justification; challenges to consensus led to fission or conflict rather than political revolution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will formed through househol
 
 __External Relations & Posture:__ Relations with other LBK villages ranged from alliance through kinship and exchange to competition and open warfare; relations with Mesolithic foragers on the frontier were complex—some contact, exchange, and eventually integration occurred, but conflict is also attested; expansion was driven by demographic pressure and land availability, not organized conquest; no diplomatic apparatus existed; posture was defensive and opportunistically expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment operated at the household and village level; trust extended through kinship networks and village ties; the radius of trust was wider than in mobile foraging bands due to larger co-resident populations and exchange networks, but strangers—including neighboring villages with which conflict had occurred—were treated with caution or hostility; the massacre evidence suggests that behavioral temper could turn to lethal violence under pressure from competition or revenge.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection was discharged through emigration to the frontier and, within communities, through negotiation and fission; the expanding frontier absorbed potential discontent by providing opportunity; apathy was not structurally produced; will was renewed through agricultural cycles and community cohesion; exhaustion of collective will may have contributed to late LBK settlement abandonment in some regions.
+
 
 ## D06. Informational Domain
 

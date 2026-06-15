@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Epidemic-induced collapse produces widespread s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Catastrophic mortality induces collective trauma — grief for the dead, fear of invisible death, loss of confidence in familiar protections; survivors oscillate between despair and defiance, some seeking accommodation with the apparent power of Europeans, others resisting to the death; the emotional register of contact is dominated by mourning.
-
 __Leadership & Personal Authority:__ Traditional leaders lose authority when they cannot protect their people from epidemic disease; chiefs who had commanded thousands find themselves leading hundreds; new leaders emerge through demonstrated crisis competence — war leaders, diplomats skilled at navigating European relations, prophets offering spiritual explanations and remedies.
 
 __Legitimacy as Lived Allegiance:__ Chiefly legitimacy rested on cosmic authority, ritual efficacy, and practical protection; mass death challenges all three; survivors may question whether ancestral powers have failed or abandoned them; allegiance increasingly attaches to those who can deliver practical benefits — military success, diplomatic gains, trade access — rather than ritual prestige alone.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Despite catastrophe, collective will pe
 
 __External Relations & Posture:__ Indigenous polities must now navigate relations with entirely novel actors — Spanish, English, French — whose motives, capacities, and intentions are initially opaque; some seek alliance and accommodation, others maintain hostility; the Powhatan initially attempt incorporation of English within their tributary system before recognizing irreconcilable conflict; diplomacy becomes existential.
 
+__Public Sentiment & Behavioral Temper:__ Catastrophic mortality induces collective trauma — grief for the dead, fear of invisible death, loss of confidence in familiar protections; survivors oscillate between despair and defiance, some seeking accommodation with the apparent power of Europeans, others resisting to the death; the emotional register of contact is dominated by mourning.
+
 __Disaffection, Apathy & Spent Will:__ By 1650, a century of catastrophe has exhausted many communities; some survivors accept mission life or colonial subordination, their will to resist broken; others maintain defiance but with diminished capacity; the emotional residue is a traumatized people diminished in number and power but not extinguished in spirit or culture.
+
 
 ## D06. Informational Domain
 

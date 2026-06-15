@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through fission �
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional life of the Jebel Irhoud population is unrecoverable, but the framework of small-group living suggests high interpersonal familiarity, frequent face-to-face interaction, and trust calibrated by repeated encounters. Anxiety focuses on immediate threats — predators, hunger, injury. Confidence rises with successful hunts and favorable weather. The behavioral temper is cautious, alert, and socially attentive.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal. An experienced hunter leads the hunt; a knowledgeable elder guides camp placement. Authority derives from demonstrated competence, not formal office. Charisma — the ability to draw others' attention and imitation — matters for influence. No permanent leaders exist; authority shifts with task and circumstance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, not to abstract authority. The "right to command" does not exist as a concept; compliance follows from trust in demonstrated competence. Disaffection manifests as departure, not rebellion. Legitimacy is personal and constantly renegotiated through interaction.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires assembling i
 
 __External Relations & Posture:__ Relations with other bands are unknown but likely range from wary avoidance to peaceful exchange of mates, depending on kinship ties and resource competition. Expansion is simply moving into unoccupied territory during favorable conditions. Deterrence is the demonstrated capacity for violence. No formal diplomacy or sustained antagonism exists.
 
+__Public Sentiment & Behavioral Temper:__ The emotional life of the Jebel Irhoud population is unrecoverable, but the framework of small-group living suggests high interpersonal familiarity, frequent face-to-face interaction, and trust calibrated by repeated encounters. Anxiety focuses on immediate threats — predators, hunger, injury. Confidence rises with successful hunts and favorable weather. The behavioral temper is cautious, alert, and socially attentive.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion from failed hunts, injury, or interpersonal conflict can drain will. Chronic failure may lead to apathy, social withdrawal, or departure. The discharge mechanism is fission — the disaffected leave rather than accumulate as a resentful core. The residue is whatever grief, distrust, or exhaustion persists in individuals unable to act — absorbed through time or carried to the grave.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynastic fragmentation after 1335 CE ends centr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trauma pervades collective memory; survivors and their descendants carry psychological burden of mass death. Fear of renewed violence persists. Trust is contracted to immediate kin and community; suspicion of outsiders deepens.
-
 __Leadership & Personal Authority:__ Mongol khans command through military prowess and hereditary charisma; Persian viziers exercise administrative authority. Ghazan Khan's Islamic conversion (1295 CE) marks a pivot toward legitimacy in Persian-Islamic terms.
 
 __Legitimacy as Lived Allegiance:__ Initial Mongol rule rests on naked conquest; legitimacy develops through Islamic conversion, patronage of religious and scholarly institutions, and provision of order. Popular allegiance remains contingent on protection from violence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Ilkhanate political will focuses on ter
 
 __External Relations & Posture:__ Ilkhanate engages in persistent warfare with Mamluks of Egypt and Golden Horde to the north; diplomatic relations extend to European powers (abortive Crusade alliance), Byzantium, and Yuan China. Trade diplomacy accompanies military competition.
 
+__Public Sentiment & Behavioral Temper:__ Trauma pervades collective memory; survivors and their descendants carry psychological burden of mass death. Fear of renewed violence persists. Trust is contracted to immediate kin and community; suspicion of outsiders deepens.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion pervades post-conquest society; political fragmentation after 1335 CE reflects spent will at the center. Local populations withdraw into survival strategies.
+
 
 ## D06. Informational Domain
 

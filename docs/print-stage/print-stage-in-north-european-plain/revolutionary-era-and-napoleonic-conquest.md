@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Occupation breeds resentment; anti-French senti
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial enthusiasm for revolutionary ideals (1789–1792) gives way to war-weariness and anti-French nationalism. German national consciousness crystallizes against occupation. "Deutschtum" rhetoric intensifies.
-
 __Leadership & Personal Authority:__ Napoleon dominates as charismatic conqueror and reformer. Frederick William III of Prussia inspires limited loyalty; Queen Louise becomes patriotic symbol. Austrian Francis I personifies conservative resistance. German intellectual leaders (Fichte, Arndt, Jahn) articulate national feeling.
 
 __Legitimacy as Lived Allegiance:__ Traditional dynastic legitimacy shaken by military defeat and territorial reshuffling. Napoleon's legitimacy rests on victory; defeat destroys it. Restoration invokes divine-right legitimacy but rests on foreign bayonets.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Prussian reformers mobilize will for na
 
 __External Relations & Posture:__ France dominates until 1812–1813. Coalition warfare requires coordination among Austria, Prussia, Russia, Britain. Congress of Vienna establishes concert system for managing post-war order.
 
+__Public Sentiment & Behavioral Temper:__ Initial enthusiasm for revolutionary ideals (1789–1792) gives way to war-weariness and anti-French nationalism. German national consciousness crystallizes against occupation. "Deutschtum" rhetoric intensifies.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness spreads by 1813–1814. Liberation enthusiasm quickly exhausted. Demobilized populations seek stability. National aspirations frustrated by Restoration settlement produce latent disaffection.
+
 
 ## D06. Informational Domain
 

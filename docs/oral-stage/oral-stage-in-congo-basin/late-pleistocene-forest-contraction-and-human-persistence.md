@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is still discharged through mob
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is likely one of heightened caution and stress as conditions tighten. Trust within the band remains high, essential for survival; trust beyond the band may narrow as contact becomes rarer. The behavioral temper is shaped by scarcity: vigilance, conservation, wariness of strangers from unknown refugia.
-
 __Leadership & Personal Authority:__ Leadership remains situational and personal, but the premium on memory and knowledge may give elders greater authority — those who remember the old forests, the routes, the techniques, carry irreplaceable information. Personal authority is knowledge-based; the wise are followed.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy remains direct and face-to-face; allegiance is given to those who provide and protect. The trend is toward intensified dependence on competent leaders as conditions stress the group.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is tested by the contra
 
 __External Relations & Posture:__ Relations with other groups become rarer but potentially more fraught. Competition for refugia may generate hostility; alternatively, the rarity of contact may increase the value of exchange — mates, information, alliance. The posture is ambivalent: cautious, potentially hostile, but also potentially open to cooperation where benefit is clear.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is likely one of heightened caution and stress as conditions tighten. Trust within the band remains high, essential for survival; trust beyond the band may narrow as contact becomes rarer. The behavioral temper is shaped by scarcity: vigilance, conservation, wariness of strangers from unknown refugia.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection may rise where conditions are desperate and leadership fails; apathy is a luxury that scarcity does not permit. The residue of exhausted will may accumulate in groups that are failing — the last generations of populations that do not survive the glacial maximum. But for those who persist, will is renewed by necessity. The trend is toward the survival of those with sufficient collective resolve.
+
 
 ## D06. Informational Domain
 

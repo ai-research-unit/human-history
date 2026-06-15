@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-chiefly warfare, piracy, and raiding are 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public mood is expansive—trade brings wealth, agriculture supports growth, and opportunity is visible in the emerging port towns. Trust extends to kin and village, thinning beyond. Risk tolerance is high among traders and warriors; fatalism accompanies the endemic disease load and maritime hazards.
-
 __Leadership & Personal Authority:__ Chiefs command loyalty through demonstrated prowess in war, generosity in feasting, and claimed descent from powerful ancestors. Personal charisma and ritual potency (semangat, spiritual power) validate leadership. Authority is precarious, dependent on continued success and redistribution.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to successful chiefs who deliver protection and prosperity. Failure—in war, trade, or harvest—erodes loyalty rapidly. Legitimacy is performative and provisional, renewed through each feast and victory, not inherited automatically.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Chiefs demonstrate will through raiding
 
 __External Relations & Posture:__ Proto-states engage Indian and Chinese traders as partners and patrons, seeking prestige goods and ritual knowledge. Rivalry among coastal chiefs intensifies over control of trade nodes. Relations with mainland polities like Funan are diplomatic—Chinese records mention embassies from Sunda-region chiefs. The posture is opportunistic, seeking advantage without capacity to project force beyond local waters.
 
+__Public Sentiment & Behavioral Temper:__ The public mood is expansive—trade brings wealth, agriculture supports growth, and opportunity is visible in the emerging port towns. Trust extends to kin and village, thinning beyond. Risk tolerance is high among traders and warriors; fatalism accompanies the endemic disease load and maritime hazards.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection surfaces when chiefs fail to redistribute or protect. Followers defect to rival chiefs or withdraw into the interior. No widespread apathy is recorded; the competitive chiefly system channels ambition and discontent into factional mobility rather than resignation.
+
 
 ## D06. Informational Domain
 

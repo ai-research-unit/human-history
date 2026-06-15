@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The platform's minimal moderation allows crimin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Telegram channels function as sentiment amplifiers, concentrating and broadcasting public emotion—outrage, fear, hope, defiance—with the platform's real-time character making it the primary venue where collective mood is expressed and shaped during crisis moments.
-
 __Leadership & Personal Authority:__ Channel operators exercise personal authority through their follower counts and perceived credibility, with figures like war correspondent Semyon Pegov (WarGonzo) or opposition leader Alexei Navalny (until his imprisonment and death) commanding allegiance that translated into mobilization capacity.
 
 __Legitimacy as Lived Allegiance:__ The platform's contested status—neither captured by the Russian state nor systematically opposing it—reflects the fractured legitimacy of the regional order, with different channels commanding allegiance from mutually hostile audiences who share only the platform itself.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Telegram channels have demonstrated cap
 
 __External Relations & Posture:__ The platform itself maintains a posture of studied neutrality, refusing to systematically favor any state actor, a stance that allows it to operate across hostile borders but exposes it to pressure from all sides; founder Pavel Durov's 2024 arrest in France on content moderation charges demonstrates the risks of this positioning.
 
+__Public Sentiment & Behavioral Temper:__ Telegram channels function as sentiment amplifiers, concentrating and broadcasting public emotion—outrage, fear, hope, defiance—with the platform's real-time character making it the primary venue where collective mood is expressed and shaped during crisis moments.
+
 __Disaffection, Apathy & Spent Will:__ The platform accumulates exhaustion as users subjected to constant crisis information experience burnout, while the coexistence of incompatible narratives on the same platform—Russian state propaganda alongside Ukrainian resistance messaging—produces disorientation and cynical withdrawal among users unable to reconcile contradictory information streams.
+
 
 ## D06. Informational Domain
 

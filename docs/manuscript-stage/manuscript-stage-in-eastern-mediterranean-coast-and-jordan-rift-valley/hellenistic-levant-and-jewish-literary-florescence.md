@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tension between Hellenizers and traditio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period oscillates between accommodation and resistance. Hellenization attracts ambitious elites seeking integration; traditionalist sentiment mobilizes around Torah observance and Temple purity. The Maccabean victory generates intense religious fervor and ethnic pride, institutionalized in the Hanukkah festival.
-
 __Leadership & Personal Authority:__ Charismatic leadership drives events — Judas Maccabeus as warrior-liberator, his brothers as state-builders. High priests command religious authority; Hasmonean combination of priesthood and kingship concentrates but also strains legitimacy. Seleucid kings exercise authority through military power and patronage.
 
 __Legitimacy as Lived Allegiance:__ Seleucid legitimacy collapses in Judea after Antiochus IV's desecration of the Temple (167 BCE). Hasmonean legitimacy rests on military success, Temple purification, and dynastic continuity, but is contested by traditionalists who reject non-Davidic kingship. Sectarian movements (Essenes, Pharisees) represent alternative legitimacy claims.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Maccabean revolt demonstrates extra
 
 __External Relations & Posture:__ The Ptolemaic-Seleucid rivalry defines regional politics until both weaken. The Maccabees skillfully exploit great-power divisions, allying with Rome against the Seleucids. Hasmonean expansion makes Judea a regional power briefly, conquering neighboring territories and forcing conversions.
 
+__Public Sentiment & Behavioral Temper:__ The period oscillates between accommodation and resistance. Hellenization attracts ambitious elites seeking integration; traditionalist sentiment mobilizes around Torah observance and Temple purity. The Maccabean victory generates intense religious fervor and ethnic pride, institutionalized in the Hanukkah festival.
+
 __Disaffection, Apathy & Spent Will:__ Late Hasmonean factional strife exhausts political will; civil war between Hyrcanus II and Aristobulus II opens the door to Roman intervention (63 BCE). Sectarian withdrawal (Qumran community) represents disaffection from the mainstream.
+
 
 ## D06. Informational Domain
 

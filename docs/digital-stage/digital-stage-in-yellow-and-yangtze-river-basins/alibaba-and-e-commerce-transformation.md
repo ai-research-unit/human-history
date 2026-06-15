@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Counterfeit goods undermine brand trust, seller
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Consumer enthusiasm for e-commerce bargains coexists with distrust of product quality and seller authenticity, platform shopping becoming a normalized daily behavior rather than an exceptional activity.
-
 __Leadership & Personal Authority:__ Jack Ma's charismatic leadership defines Alibaba's identity through 2019, his retirement and subsequent silencing (post-October 2020) signaling the subordination of entrepreneurial authority to party discipline.
 
 __Legitimacy as Lived Allegiance:__ Platform trust depends on transaction security, dispute resolution, and delivery reliability, erosion when these fail, state intervention in 2020–2021 reframing platform power as requiring political discipline rather than commercial autonomy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Alibaba's expansion reflects entreprene
 
 __External Relations & Posture:__ Alibaba's international expansion (AliExpress, Lazada) projects Chinese e-commerce models abroad, competition with Amazon for Southeast Asian and emerging markets, US-China tensions affecting cross-border commerce.
 
+__Public Sentiment & Behavioral Temper:__ Consumer enthusiasm for e-commerce bargains coexists with distrust of product quality and seller authenticity, platform shopping becoming a normalized daily behavior rather than an exceptional activity.
+
 __Disaffection, Apathy & Spent Will:__ Seller fatigue from platform fee increases and algorithmic unpredictability, consumer exhaustion with gamified shopping experiences, employee burnout under 996 culture, Jack Ma's post-2020 retreat embodying entrepreneurial disillusionment.
+
 
 ## D06. Informational Domain
 

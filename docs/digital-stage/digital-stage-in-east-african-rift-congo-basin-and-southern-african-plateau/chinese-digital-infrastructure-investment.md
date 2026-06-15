@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Anti-Chinese sentiment emerges periodically aro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ African public opinion toward China remains ambivalent, with appreciation for infrastructure investment competing against concerns about debt, labor practices, and cultural friction, while Western criticism of Chinese involvement is often perceived as patronizing interference in African development choices.
-
 __Leadership & Personal Authority:__ Chinese infrastructure projects provide ribbon-cutting opportunities that African leaders leverage for electoral benefit, associating incumbents with visible development achievements that connectivity improvements represent.
 
 __Legitimacy as Lived Allegiance:__ Governments that deliver connectivity through Chinese partnerships can claim development legitimacy, though opposition movements criticize debt burdens and sovereignty implications that erode the achievement's political value.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ African leaders demonstrate willingness
 
 __External Relations & Posture:__ Sino-African relations operate through bilateral channels and multilateral formats including FOCAC (Forum on China-Africa Cooperation), with infrastructure investment cementing relationships that provide diplomatic support in international forums where China values African bloc voting.
 
+__Public Sentiment & Behavioral Temper:__ African public opinion toward China remains ambivalent, with appreciation for infrastructure investment competing against concerns about debt, labor practices, and cultural friction, while Western criticism of Chinese involvement is often perceived as patronizing interference in African development choices.
+
 __Disaffection, Apathy & Spent Will:__ Cynicism about all external partners including China grows as infrastructure fails to deliver promised transformational development, with disillusionment settling equally on Western aid conditionality and Chinese loan obligations.
+
 
 ## D06. Informational Domain
 

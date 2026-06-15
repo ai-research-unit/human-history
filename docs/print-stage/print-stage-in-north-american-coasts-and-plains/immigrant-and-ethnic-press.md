@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Generational language shift—children of immig
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The ethnic press channels immigrant sentiment—nostalgia for the old country, anxiety in the new, aspiration for advancement, resentment at discrimination. It names the emotional landscape of immigrant experience: displacement, hope, community solidarity, and the ambivalence of becoming American while remaining ethnic.
-
 __Leadership & Personal Authority:__ Ethnic press editors function as community leaders, wielding influence through editorial voice. Abraham Cahan (Forward) shapes Jewish immigrant consciousness for four decades. Editors serve as intermediaries between immigrant communities and American institutions, translating American politics for immigrant readers and representing immigrant concerns to the larger society.
 
 __Legitimacy as Lived Allegiance:__ Ethnic newspapers earn reader allegiance through responsiveness to community needs, accurate representation of community concerns, and the linguistic accessibility that English-language press cannot provide. Reader loyalty sustains subscription revenue and organizational influence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ethnic press mobilizes community po
 
 __External Relations & Posture:__ The ethnic press mediates immigrant community relations with the larger American society—defending against nativist attacks, advocating for immigrant rights, negotiating the terms of ethnic inclusion. It simultaneously maintains transnational connections, reporting old-country news and facilitating continued identification with homelands.
 
+__Public Sentiment & Behavioral Temper:__ The ethnic press channels immigrant sentiment—nostalgia for the old country, anxiety in the new, aspiration for advancement, resentment at discrimination. It names the emotional landscape of immigrant experience: displacement, hope, community solidarity, and the ambivalence of becoming American while remaining ethnic.
+
 __Disaffection, Apathy & Spent Will:__ Generational drift—American-born children losing interest in ethnic press—produces institutional decline. Wartime suppression (German press 1917–18), restriction-era demoralization, and Americanization pressures exhaust ethnic will to maintain separate institutions. The spent will manifests as declining circulations, newspaper closures, and consolidation of once-vibrant ethnic press traditions into nostalgia vehicles.
+
 
 ## D06. Informational Domain
 

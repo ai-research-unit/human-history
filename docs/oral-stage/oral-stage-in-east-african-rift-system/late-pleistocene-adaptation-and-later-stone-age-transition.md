@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust is high within bands; intergroup relations range from alliance (cemented by marriage and exchange) to suspicion and hostility; behavioral temper tracks resource availability — security in abundance, anxiety and conflict in scarcity.
-
 __Leadership & Personal Authority:__ Influential individuals — skilled hunters, ritual specialists, gifted orators — hold sway without formal office; authority is earned and contingent; personal magnetism mobilizes collective action.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin, band, and the oral tradition that defines proper conduct; no state requires legitimation; dissent is expressed by exit.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires verbal conse
 
 __External Relations & Posture:__ Neighboring bands are potential allies, trading partners, or competitors; posture depends on history and current conditions; no geopolitical strategy — only kin diplomacy and territorial spacing.
 
+__Public Sentiment & Behavioral Temper:__ Trust is high within bands; intergroup relations range from alliance (cemented by marriage and exchange) to suspicion and hostility; behavioral temper tracks resource availability — security in abundance, anxiety and conflict in scarcity.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged scarcity erodes band cohesion; individuals may drift away to join other bands; the residue of spent will is demographic decline and band dissolution; re-anchoring depends on improved conditions and charismatic leadership.
+
 
 ## D06. Informational Domain
 

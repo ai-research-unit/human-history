@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Band-scale society sustains high trust within the group and wariness toward outsiders; sentiment tracks immediate conditions — abundance brings confidence, scarcity brings anxiety; the emotional baseline is vigilant but cooperative.
-
 __Leadership & Personal Authority:__ Leadership is situational; skilled hunters, persuasive speakers, and elders with deep knowledge command influence; those who lead sea crossings to Melos or other dangerous forays gain prestige; authority is contingent and revocable.
 
 __Legitimacy as Lived Allegiance:__ Allegiance runs to kin and to individuals who demonstrate competence and generosity; legitimacy is earned through performance; disaffection leads to departure rather than rebellion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized through pe
 
 __External Relations & Posture:__ Relations with neighboring bands range from exchange and intermarriage to competition and raiding; posture is defensive and opportunistic; the maritime reach implied by Melian obsidian suggests contact networks extending to island groups.
 
+__Public Sentiment & Behavioral Temper:__ Band-scale society sustains high trust within the group and wariness toward outsiders; sentiment tracks immediate conditions — abundance brings confidence, scarcity brings anxiety; the emotional baseline is vigilant but cooperative.
+
 __Disaffection, Apathy & Spent Will:__ When leadership fails or resources collapse, disaffection may lead to band fission or abandonment of territory; protracted hardship can erode collective will; recovery depends on new leadership or improved conditions.
+
 
 ## D06. Informational Domain
 

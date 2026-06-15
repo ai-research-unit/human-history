@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Periodic Roman invasions devastated frontier re
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Diverse communities coexisted with minimal recorded intercommunal conflict; populations accepted Arsacid sovereignty as legitimate succession to earlier empires.
-
 __Leadership & Personal Authority:__ Arsacid kings projected authority through royal titulature, coinage, and court ceremony; they claimed succession to Achaemenid heritage while tolerating Hellenic and Babylonian traditions.
 
 __Legitimacy as Lived Allegiance:__ The dynasty maintained legitimacy through military success against Rome, tolerance of local communities, and minimal interference in internal affairs; legitimacy eroded only when military failures and succession conflicts accumulated in the third century CE.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Arsacid capacity for unified action var
 
 __External Relations & Posture:__ The empire maintained a defensive posture against Rome, punctuated by periodic wars over Armenia and Mesopotamian frontiers; diplomatic relations with Rome oscillated between conflict and accommodation.
 
+__Public Sentiment & Behavioral Temper:__ Diverse communities coexisted with minimal recorded intercommunal conflict; populations accepted Arsacid sovereignty as legitimate succession to earlier empires.
+
 __Disaffection, Apathy & Spent Will:__ Late Arsacid fragmentation produced growing disaffection among nobility and provincial elites; the Sasanian uprising of 224 CE encountered limited resistance, suggesting exhausted loyalty to the ruling house.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The social residue accumulates as persistent tr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public mood oscillates between alarm at Russian aggression and fatigue with sustained crisis; the radius of trust contracts as citizens lose confidence in distinguishing reliable from manipulated information, with survey data showing declining trust in media across most European countries.
-
 __Leadership & Personal Authority:__ European leaders face credibility challenges when disinformation campaigns successfully seed doubt about official narratives; Macron's diplomatic initiatives and Scholz's military assistance decisions are subjected to competing frames that complicate domestic political positioning.
 
 __Legitimacy as Lived Allegiance:__ EU institutional legitimacy strengthens through unified response to the 2022 invasion but is simultaneously eroded by amplification of Eurosceptic narratives; the net effect varies by country and audience segment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ European resolve hardens after the inva
 
 __External Relations & Posture:__ The posture toward Russia shifts from engagement to containment; information defense becomes a component of broader security policy, with NATO and EU coordination increasing on strategic communications.
 
+__Public Sentiment & Behavioral Temper:__ Public mood oscillates between alarm at Russian aggression and fatigue with sustained crisis; the radius of trust contracts as citizens lose confidence in distinguishing reliable from manipulated information, with survey data showing declining trust in media across most European countries.
+
 __Disaffection, Apathy & Spent Will:__ The emotional residue accumulates as Ukraine fatigue, sanctions fatigue, and a generalized exhaustion with permanent crisis that disinformation campaigns actively cultivate; maintaining public support for sustained assistance becomes an ongoing mobilization challenge.
+
 
 ## D06. Informational Domain
 

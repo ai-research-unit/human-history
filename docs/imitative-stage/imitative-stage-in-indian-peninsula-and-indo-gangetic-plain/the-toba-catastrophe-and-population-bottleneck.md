@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The crisis itself constitutes maximum social di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror, grief, and desperation characterize the acute phase; survivors likely display extreme caution, heightened threat awareness, and contracted trust radius. Recovery brings gradual re-expansion of confidence as conditions stabilize, but the generational memory of collapse may imprint lasting wariness.
-
 __Leadership & Personal Authority:__ Leadership falls to whoever possesses relevant knowledge — where the water still flows, which plants remain edible, how to reach the next refugium. Authority is situational and competence-based, not hereditary or institutional.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to the band as survival unit; no broader political entity exists to command loyalty. Legitimacy of band leadership rests entirely on delivering survival; failure ends authority through death or dissolution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will directs entirely at sur
 
 __External Relations & Posture:__ Intergroup relations collapse to avoidance or hostile exclusion from refugia. No alliance formation occurs during the acute phase; post-recovery relations rebuild as population density rises and contact resumes.
 
+__Public Sentiment & Behavioral Temper:__ Terror, grief, and desperation characterize the acute phase; survivors likely display extreme caution, heightened threat awareness, and contracted trust radius. Recovery brings gradual re-expansion of confidence as conditions stabilize, but the generational memory of collapse may imprint lasting wariness.
+
 __Disaffection, Apathy & Spent Will:__ Despair claims those who cannot maintain will to act; survivors display the opposite — exceptional drive under exceptional stress. The bottleneck culls the disaffected and apathetic along with the physically incapable.
+
 
 ## D06. Informational Domain
 

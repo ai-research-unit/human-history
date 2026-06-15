@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction — disputes over resources, mates, or
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is shaped by subsistence success: confidence in good seasons, anxiety in lean ones. Trust extends within the band and to allied bands; strangers are approached cautiously. Behavioral temper is cooperative within groups, wary without. Optimism attends territorial expansion into unoccupied lands.
-
 __Leadership & Personal Authority:__ Leaders emerge through demonstrated competence and charisma. The skilled hunter, the compelling storyteller, the effective mediator commands respect. Authority is personal, not institutional; it dissolves with the individual. Elders transmit oral tradition and thereby hold influence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is kin-based and personal. There is no abstract polity to legitimate; leadership is accepted insofar as it serves group welfare. Dissent takes the form of fission: disaffected members depart rather than rebel.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will forms around immediate 
 
 __External Relations & Posture:__ Relations with neighboring bands range from alliance (intermarriage, resource sharing) to avoidance or hostility. Expansion into new territory is cooperative, not conquest-driven. No concept of external powers beyond neighboring bands; the political horizon is local.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is shaped by subsistence success: confidence in good seasons, anxiety in lean ones. Trust extends within the band and to allied bands; strangers are approached cautiously. Behavioral temper is cooperative within groups, wary without. Optimism attends territorial expansion into unoccupied lands.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is resolved through departure; fission prevents accumulation. Apathy is rare in small, intimate groups where participation is visible. Spent will manifests as abandonment of difficult territory, not institutional collapse.
+
 
 ## D06. Informational Domain
 

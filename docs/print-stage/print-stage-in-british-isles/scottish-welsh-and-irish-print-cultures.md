@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Irish agrarian violence (Whiteboys, Ribbonmen) 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Scottish Enlightenment confidence gave way to Victorian respectability in the lowlands; Highland nostalgia suffused romantic literature. Welsh hwyl (emotional fervor) animated Nonconformist preaching and eisteddfod performance. Irish public sentiment oscillated between constitutional hope and revolutionary despair.
-
 __Leadership & Personal Authority:__ Daniel O'Connell dominated Irish politics through mass mobilization and newspaper support (1820s–1840s). Scottish publishers like Archibald Constable and Irish editors like Charles Gavan Duffy exercised cultural leadership through their journals.
 
 __Legitimacy as Lived Allegiance:__ Acceptance of the Union varied: Scottish elites largely accommodated integration, while Irish Catholics and nationalists contested British rule throughout the period. Welsh-speakers felt cultural marginalization but less political alienation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Irish nationalism mobilized print repea
 
 __External Relations & Posture:__ All three nations existed within the British imperial framework, their print cultures both shaped by and contributing to imperial discourse. Irish diaspora communities in America and Australia maintained newspaper links to homeland politics.
 
+__Public Sentiment & Behavioral Temper:__ Scottish Enlightenment confidence gave way to Victorian respectability in the lowlands; Highland nostalgia suffused romantic literature. Welsh hwyl (emotional fervor) animated Nonconformist preaching and eisteddfod performance. Irish public sentiment oscillated between constitutional hope and revolutionary despair.
+
 __Disaffection, Apathy & Spent Will:__ Post-famine emigration drained Ireland of young activists, but each generation renewed nationalist commitment. Scottish and Welsh publics showed less alienation, channeling energy into religious and labor movements within the Union.
+
 
 ## D06. Informational Domain
 

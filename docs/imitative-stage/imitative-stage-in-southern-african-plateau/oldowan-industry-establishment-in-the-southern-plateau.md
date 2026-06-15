@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through avoidance, d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline is vigilance and wariness, punctuated by the satisfaction of successful foraging and the distress of failure or danger. Trust extends to the familiar; strangers are met with suspicion. The mood of the group shifts with circumstance — satiation brings calm, scarcity brings tension — but there is no public sentiment in the collective sense.
-
 __Leadership & Personal Authority:__ Leadership is situational: the individual who moves first, who finds the carcass, who faces the threat. Authority does not persist beyond the action; there is no office, no role, no title. Over the centuries of this trend, no leader's name or deed can be transmitted — all is lost with the generation that saw it.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy does not exist as a concept. Allegiance is to companions, to the familiar, to those who remain present. The group coheres because its members stay; it fragments when they leave.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is emergent and unpla
 
 __External Relations & Posture:__ Other bands are encountered rarely, met with wariness, and either avoided or briefly tolerated. There is no diplomacy, no alliance, no territorial negotiation. Boundaries are set by presence and avoidance, not by communication.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline is vigilance and wariness, punctuated by the satisfaction of successful foraging and the distress of failure or danger. Trust extends to the familiar; strangers are met with suspicion. The mood of the group shifts with circumstance — satiation brings calm, scarcity brings tension — but there is no public sentiment in the collective sense.
+
 __Disaffection, Apathy & Spent Will:__ Frustration and exhaustion are felt but cannot be narrated or shared beyond the immediate expression. Spent will appears as lethargy, disengagement, and death. There is no despair that can be transmitted across generations.
+
 
 ## D06. Informational Domain
 

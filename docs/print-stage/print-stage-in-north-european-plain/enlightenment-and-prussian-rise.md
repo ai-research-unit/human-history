@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry and rural disorder decline under impro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Enlightened optimism spreads among the educated; trust in reason and improvement characterizes the reading public; popular sentiment remains deferential but responsive to war and harvest failure.
-
 __Leadership & Personal Authority:__ Frederick the Great embodies Enlightened Absolutism, cultivating a philosopher-king image; Maria Theresa and Joseph II represent reforming authority in Austria; lesser princes imitate Frederician style.
 
 __Legitimacy as Lived Allegiance:__ Dynastic loyalty remains the foundation; Enlightened reform enhances legitimacy by delivering order, prosperity, and cultural prestige; criticism remains theoretical.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ State-building will is strong among ref
 
 __External Relations & Posture:__ Prussia achieves great-power status; the balance of power in the German lands shifts from Austria to Austro-Prussian dualism; Polish partitions demonstrate the consequences of political dysfunction.
 
+__Public Sentiment & Behavioral Temper:__ Enlightened optimism spreads among the educated; trust in reason and improvement characterizes the reading public; popular sentiment remains deferential but responsive to war and harvest failure.
+
 __Disaffection, Apathy & Spent Will:__ Post-war weariness follows the Seven Years' War; disaffection remains latent among subjects excluded from reform; the political passivity of the reading public reflects censorship constraints.
+
 
 ## D06. Informational Domain
 

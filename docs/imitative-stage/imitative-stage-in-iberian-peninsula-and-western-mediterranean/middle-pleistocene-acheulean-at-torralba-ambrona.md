@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction resolved through avoidance, fission, o
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect expressed immediately within the band; trust confined to familiar faces; strangers approached with caution; mood rises with successful kills, falls with scarcity.
-
 __Leadership & Personal Authority:__ Leadership situational—skilled knappers, successful hunters, and assertive individuals attract followership for specific tasks; authority dissolves when the task ends.
 
 __Legitimacy as Lived Allegiance:__ Allegiance personal; legitimacy rests on demonstrated competence and presence, not office.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coalesces for hunts, bu
 
 __External Relations & Posture:__ Other bands encountered as potential mates or rivals; posture cautious; no sustained alliance or enmity.
 
+__Public Sentiment & Behavioral Temper:__ Affect expressed immediately within the band; trust confined to familiar faces; strangers approached with caution; mood rises with successful kills, falls with scarcity.
+
 __Disaffection, Apathy & Spent Will:__ Discontent resolved through departure; apathy does not accumulate where exit remains open.
+
 
 ## D06. Informational Domain
 

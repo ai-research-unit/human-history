@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The "collapse" of Hopewell ceremonial complexit
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The post-Hopewell withdrawal from elaborate ceremonial display may reflect emotional exhaustion with the prestige-competition system, a turn toward more localized and kin-centered affective bonds; trust horizons contract from the continent-spanning networks of Hopewell to more circumscribed community and regional levels; by the period's end, renewed ceremonial elaboration in the Emergent Mississippian suggests re-energized collective sentiment oriented toward emerging centers.
-
 __Leadership & Personal Authority:__ Leadership remains achieved rather than ascribed through most of the period, with authority derived from demonstrated ability in hunting, warfare, ritual knowledge, or agricultural success; the decline of the prestige-good economy removes one avenue for leadership display, potentially reducing the incentives for aggrandizing behavior; by the Emergent Mississippian phase, platform mound construction signals the emergence of leaders capable of directing communal labor on a scale not seen since Hopewell, suggesting renewed concentration of personal authority.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy continues to rest on reciprocal relationships between leaders and followers — the giving of feasts, the successful coordination of subsistence activities, the maintenance of relations with supernatural powers; the agricultural economy creates new bases for legitimacy, as leaders who can ensure successful harvests and adequate storage command allegiance; the hereditary transmission of legitimacy develops only with Mississippian chiefdoms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action manifests in the cons
 
 __External Relations & Posture:__ The contraction of long-distance networks reduces the intensity of external relations; communities become more inward-oriented, with relationships beyond the immediate region attenuated; regional interaction spheres (such as the Weeden Island complex of the Gulf Coast or Swift Creek of Georgia) maintain some horizontal integration, but the continent-spanning connections of Hopewell are not replicated; by the period's end, the Emergent Mississippian centers in the American Bottom may be establishing the broader networks that will characterize Cahokia's influence.
 
+__Public Sentiment & Behavioral Temper:__ The post-Hopewell withdrawal from elaborate ceremonial display may reflect emotional exhaustion with the prestige-competition system, a turn toward more localized and kin-centered affective bonds; trust horizons contract from the continent-spanning networks of Hopewell to more circumscribed community and regional levels; by the period's end, renewed ceremonial elaboration in the Emergent Mississippian suggests re-energized collective sentiment oriented toward emerging centers.
+
 __Disaffection, Apathy & Spent Will:__ The collapse of Hopewell ceremonialism may reflect spent will — the exhaustion of the emotional energy required to sustain continent-spanning exchange and elaborate mortuary ritual; the apparent simplification of Late Woodland material culture may mask a reorientation of collective energy toward agricultural production rather than ceremonial elaboration; by the period's end, renewed investment in monumental construction suggests that collective will has regenerated, now oriented toward the Mississippian project rather than the Hopewell pattern.
+
 
 ## D06. Informational Domain
 

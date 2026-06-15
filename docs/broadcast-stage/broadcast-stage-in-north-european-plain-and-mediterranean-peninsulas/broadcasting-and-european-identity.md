@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The failure to generate European public conscio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National broadcasting cultivates national sentiment — French pride in French culture, German Vergangenheitsbewaeltigung (coming to terms with the past), Italian campanilismo — with European identity remaining an abstraction invoked in institutional contexts rather than a felt attachment.
-
 __Leadership & Personal Authority:__ No European broadcast figure achieves continental recognition comparable to national anchors (Walter Cronkite's US equivalent), and European Commission presidents receive minimal media presence in national coverage.
 
 __Legitimacy as Lived Allegiance:__ European institutions command thin allegiance, with Eurobarometer surveys consistently showing that citizens identify primarily with nation and region rather than Europe; broadcasting both reflects and reinforces this hierarchy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Moments of apparent European unity — 
 
 __External Relations & Posture:__ Broadcasting constructs "Europe" primarily in contrast to external others — the United States, the Soviet bloc, later Islam — rather than as a positive identity, with negative definition substituting for shared content.
 
+__Public Sentiment & Behavioral Temper:__ National broadcasting cultivates national sentiment — French pride in French culture, German Vergangenheitsbewaeltigung (coming to terms with the past), Italian campanilismo — with European identity remaining an abstraction invoked in institutional contexts rather than a felt attachment.
+
 __Disaffection, Apathy & Spent Will:__ Low turnout in European Parliament elections (consistently below 50% from 1999) reflects the absence of European political community that broadcasting might have but did not construct; by 2010, Euroscepticism rises across member states without effective pro-European broadcast counter-narrative.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime, banditry, and popular disturbance occur 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Colonial society settles into stable hierarchy; elite confidence rests on established position; creole resentment of peninsular privilege simmers; indigenous and African populations endure under coercion; the general temper is stable though not content; trust operates within casta boundaries.
-
 __Leadership & Personal Authority:__ Viceroys rotate from Spain, exercising delegated authority; archbishops command spiritual respect; creole families produce local notables; no charismatic figure dominates the era; authority is institutional rather than personal; leadership documented through official correspondence.
 
 __Legitimacy as Lived Allegiance:__ Spanish rule accepted as established order; creole identity develops within imperial framework rather than against it; indigenous compliance reflects accommodation rather than allegiance; the system's legitimacy rests on routine and benefit distribution rather than fervent loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Colonial state maintains extraction and
 
 __External Relations & Posture:__ The viceroyalty faces no serious external threat; English and Dutch piracy affects trade; border regions with Portuguese Brazil remain peripheral; foreign rivalries documented in correspondence but produce no military crisis during this period.
 
+__Public Sentiment & Behavioral Temper:__ Colonial society settles into stable hierarchy; elite confidence rests on established position; creole resentment of peninsular privilege simmers; indigenous and African populations endure under coercion; the general temper is stable though not content; trust operates within casta boundaries.
+
 __Disaffection, Apathy & Spent Will:__ Indigenous resistance largely channeled into legal frameworks; no major rebellions occur; creole discontent remains cultural rather than political; the system absorbs potential disaffection through routine; apathy among subordinated populations serves stability.
+
 
 ## D06. Informational Domain
 

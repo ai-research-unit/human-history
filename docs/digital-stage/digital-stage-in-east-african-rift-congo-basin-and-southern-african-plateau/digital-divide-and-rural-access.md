@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The social residue includes rural depopulation,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Rural digital exclusion generates resentment — the sense of being left behind as urban populations access opportunities that remain foreclosed — while urban populations develop condescension toward disconnected "backward" areas, creating emotional distance that compounds geographic separation.
-
 __Leadership & Personal Authority:__ Digital platforms amplify urban voices while rural leadership remains local and invisible; politicians who master social media reach national audiences while community leaders in disconnected areas influence only those they can physically address, shifting political power toward digitally connected constituencies.
 
 __Legitimacy as Lived Allegiance:__ Government legitimacy fractures along connectivity lines — urban populations evaluate government through digital information access while rural populations depend on state media, local officials, and rumor; the same government appears differently across the digital divide, generating divergent political allegiances.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Universal connectivity appears in devel
 
 __External Relations & Posture:__ International development assistance targets digital inclusion, but projects concentrate where infrastructure already exists rather than extending connectivity to excluded areas; donor-funded programs that could bridge divides instead reinforce them by adding digital services to already-connected populations.
 
+__Public Sentiment & Behavioral Temper:__ Rural digital exclusion generates resentment — the sense of being left behind as urban populations access opportunities that remain foreclosed — while urban populations develop condescension toward disconnected "backward" areas, creating emotional distance that compounds geographic separation.
+
 __Disaffection, Apathy & Spent Will:__ Rural populations excluded from digital development develop political disengagement — the sense that neither government nor market will extend connectivity — while urban digital activists rarely prioritize rural access, leaving the divide unaddressed by either state action or civil society pressure.
+
 
 ## D06. Informational Domain
 

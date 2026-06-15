@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tensions discharge through mobility — 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The favorable Holocene climate likely supports collective confidence; maritime mastery provides identity and pride; the radius of trust encompasses kin, allied bands, and exchange partners known personally.
-
 __Leadership & Personal Authority:__ Leaders are first among equals — skilled navigators, successful hunters, persuasive speakers who attract followers through demonstrated competence; authority is situational and must be continually renewed.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is earned and maintained through performance; oral reputation circulates through networks; betrayal or incompetence erodes authority; allegiance is personal and withdrawable.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is local and consensu
 
 __External Relations & Posture:__ Relations with other bands are primarily cooperative, maintained through exchange and intermarriage; competition for resources may create tension, but the low population density minimizes conflict; hostility, where it exists, is personal rather than collective.
 
+__Public Sentiment & Behavioral Temper:__ The favorable Holocene climate likely supports collective confidence; maritime mastery provides identity and pride; the radius of trust encompasses kin, allied bands, and exchange partners known personally.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection discharges through exit — the discontented leave for other bands or found new ones; apathy is incompatible with the active cooperation survival demands; spent will is an individual condition, not a collective one.
+
 
 ## D06. Informational Domain
 

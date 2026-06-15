@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feasting, gift-exchange, and ritual dissipate s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is confident and expansive, reflecting growing wealth and successful trade; trust extends within kin networks and trading partnerships but remains cautious toward outsiders; risk appetite is moderate — long-distance trade requires trust across cultural boundaries, and elite display suggests competitive ambition.
-
 __Leadership & Personal Authority:__ Chiefs lead through personal prowess, wealth distribution, and ritual authority; the charismatic warrior-chief who hosts feasts, leads raids, and mediates with the divine is the central figure; authority is earned and maintained through continuous performance, not institutionalized office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal, owed to the chief who provides protection, distributes gifts, and embodies the community's connection to ancestors and gods; legitimacy is performative and must be continuously renewed through feasting, warfare, and ritual success; erosion is rapid if a chief fails.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic — mobil
 
 __External Relations & Posture:__ Relations with neighboring groups are competitive but not systematically hostile; trade partnerships create interdependence; raiding provides an outlet for young warriors and a means of wealth acquisition; the posture is one of armed reciprocity — exchange when profitable, violence when advantageous.
 
+__Public Sentiment & Behavioral Temper:__ The mood is confident and expansive, reflecting growing wealth and successful trade; trust extends within kin networks and trading partnerships but remains cautious toward outsiders; risk appetite is moderate — long-distance trade requires trust across cultural boundaries, and elite display suggests competitive ambition.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the system is small-scale enough that the discontented can migrate or attach to a different chief; spent will is rare in a period of expansion; the residue is minimal.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The collapse of Ur III under Ibbi-Sin witnessed
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Royal hymns composed for Shulgi present an idealized image of the king as athlete, warrior, scholar, and lover — a comprehensive charismatic persona cultivated through court literature; whether this propaganda shaped genuine popular sentiment or merely court attitudes remains opaque.
-
 __Leadership & Personal Authority:__ Shulgi's 48-year reign established personal authority approaching deification; he received cult offerings as a living god, and his successors inherited diminished versions of this personal sacral-political charisma.
 
 __Legitimacy as Lived Allegiance:__ The Ur III kings legitimated their rule through temple building, law-giving (Ur-Nammu's code, the oldest surviving), and military protection; the collapse-era lamentations suggest that legitimacy eroded rapidly once protection failed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state's capacity for coordinated ac
 
 __External Relations & Posture:__ Diplomatic marriages linked Ur to peripheral powers; tribute relationships extended to Elam, the Iranian highlands, and Syria; yet the defensive wall against the Amorites signals a posture shifting from expansion to consolidation.
 
+__Public Sentiment & Behavioral Temper:__ Royal hymns composed for Shulgi present an idealized image of the king as athlete, warrior, scholar, and lover — a comprehensive charismatic persona cultivated through court literature; whether this propaganda shaped genuine popular sentiment or merely court attitudes remains opaque.
+
 __Disaffection, Apathy & Spent Will:__ The Lament for Ur, composed after the city's destruction, voices the despair of a population whose ordered world collapsed: "Ur is destroyed, bitter is its lament. Its people, not potsherds, filled its sides; its walls were breached." This literary residue crystallizes the emotional aftermath of administrative failure.
+
 
 ## D06. Informational Domain
 

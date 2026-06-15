@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Irish Home Rule agitation persists; the 1916 Ea
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Jingoism and imperial pride characterize public mood, particularly during the Boer War. Music-hall patriotism and penny press sensationalism cultivate a mass national sentiment. Anxiety about national decline coexists with imperial confidence.
-
 __Leadership & Personal Authority:__ Press barons emerge as figures of personal authority: Alfred Harmsworth (Lord Northcliffe), Harold Harmsworth (Lord Rothermere), and Max Aitken (Lord Beaverbrook). Political leaders must court press support; Lloyd George and Churchill cultivate journalist relationships.
 
 __Legitimacy as Lived Allegiance:__ The Crown retains ceremonial legitimacy; Victoria's death (1901) and Edward VII's coronation mark national moments. Parliamentary institutions command allegiance across most of the political spectrum except among Irish nationalists and revolutionary socialists.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Liberal governments pursue reformist ag
 
 __External Relations & Posture:__ Splendid isolation gives way to entente diplomacy: the Entente Cordiale with France (1904), the Anglo-Russian Convention (1907). Naval rivalry with Germany intensifies. Empire reaches maximum territorial extent but faces competition.
 
+__Public Sentiment & Behavioral Temper:__ Jingoism and imperial pride characterize public mood, particularly during the Boer War. Music-hall patriotism and penny press sensationalism cultivate a mass national sentiment. Anxiety about national decline coexists with imperial confidence.
+
 __Disaffection, Apathy & Spent Will:__ Militant suffragettes express frustration at democratic exclusion. Irish nationalist alienation deepens as Home Rule is delayed. Socialist and syndicalist movements articulate working-class disaffection with liberal capitalism.
+
 
 ## D06. Informational Domain
 

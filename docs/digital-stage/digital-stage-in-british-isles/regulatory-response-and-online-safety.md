@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Regulatory fragmentation — multiple bodies wi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public opinion oscillates between alarm at platform harms (terrorist content, child exploitation, election interference) and libertarian resistance to state oversight of online speech; moral panics following specific incidents — the Christchurch livestreaming (2019), suicide-related content linked to youth deaths — generate political momentum for intervention.
-
 __Leadership & Personal Authority:__ Successive Culture Secretaries — from Jeremy Wright through Nadine Dorries to Michelle Donelan — champion the Online Safety Bill through parliamentary passage; Ofcom CEO Melanie Dawes becomes the public face of implementation.
 
 __Legitimacy as Lived Allegiance:__ Platform distrust runs high after Cambridge Analytica revelations (2018) and subsequent scandals; public willingness to accept regulation reflects eroded confidence in platform self-governance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Cross-party consensus on child safety p
 
 __External Relations & Posture:__ The UK positions itself as a leader in platform regulation, hosting the Christchurch Call summit and establishing the AI Safety Institute; Ireland's role as EU regulator for US platforms creates transatlantic tensions as Brussels demands enforcement against American tech giants.
 
+__Public Sentiment & Behavioral Temper:__ Public opinion oscillates between alarm at platform harms (terrorist content, child exploitation, election interference) and libertarian resistance to state oversight of online speech; moral panics following specific incidents — the Christchurch livestreaming (2019), suicide-related content linked to youth deaths — generate political momentum for intervention.
+
 __Disaffection, Apathy & Spent Will:__ Free speech advocates, civil liberties groups, and some tech sector voices express sustained opposition to the Online Safety Act's scope; skepticism that regulation can match platform evolution produces fatalism about enforcement efficacy.
+
 
 ## D06. Informational Domain
 

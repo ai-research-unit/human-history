@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social fabric strains under displacement, loss,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The invasion produces unprecedented national unity; pre-war political divisions subordinate to survival. Digital communication amplifies collective resolve: Zelensky's video addresses, shared suffering documented on social media, and international solidarity messaging reinforce morale. By 2025, exhaustion sets in but cohesion holds.
-
 __Leadership & Personal Authority:__ Volodymyr Zelensky's wartime leadership is inseparable from his digital communication mastery. Daily video addresses filmed in Kyiv, direct smartphone messages to global audiences, and social media presence establish a new model of wartime political communication. His refusal to evacuate ("I need ammunition, not a ride") becomes the defining viral moment of the early invasion.
 
 __Legitimacy as Lived Allegiance:__ Wartime legitimacy reaches historical highs; approval ratings exceed 90% in the invasion's first year. The government's digital competence (Diia functionality, Starlink coordination, international communication) reinforces this legitimacy. The pre-war anti-corruption frustration is subordinated to existential priorities.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Mobilization proceeds with initial volu
 
 __External Relations & Posture:__ Ukraine's digital communication strategy successfully mobilizes international support: social media campaigns, direct government engagement with foreign publics, and Zelensky's video addresses to parliaments worldwide secure unprecedented military and economic aid. EU candidate status (2022) represents the strategic orientation's institutional recognition.
 
+__Public Sentiment & Behavioral Temper:__ The invasion produces unprecedented national unity; pre-war political divisions subordinate to survival. Digital communication amplifies collective resolve: Zelensky's video addresses, shared suffering documented on social media, and international solidarity messaging reinforce morale. By 2025, exhaustion sets in but cohesion holds.
+
 __Disaffection, Apathy & Spent Will:__ War exhaustion accumulates by 2025–2026; the initial volunteer surge cannot be sustained indefinitely. Diaspora populations face integration challenges abroad; those remaining endure continuous stress. Digital platforms that once unified increasingly reflect factional disputes over mobilization policy and negotiation possibilities.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission—di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The band's mood is shaped by immediate circumstance: satiation or hunger, safety or threat, success or failure of the hunt. Trust within the band is high, calibrated by daily interaction; wariness toward strangers is the default. The volatility of the environment likely produces chronic low-level anxiety punctuated by episodes of acute stress during drought or predator encounter.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal—an experienced hunter leads the hunt, an elder guides movement to remembered water sources. Authority inheres in demonstrated competence, not inherited office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to individuals who deliver results; legitimacy is proved daily through success in provisioning and protection. Failure erodes authority immediately; there is no institutional buffer.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve crystallizes around 
 
 __External Relations & Posture:__ Relations with other bands range from cautious avoidance to opportunistic intermarriage and information exchange. Hostility is possible but constrained by low population density and the difficulty of sustaining conflict without surplus.
 
+__Public Sentiment & Behavioral Temper:__ The band's mood is shaped by immediate circumstance: satiation or hunger, safety or threat, success or failure of the hunt. Trust within the band is high, calibrated by daily interaction; wariness toward strangers is the default. The volatility of the environment likely produces chronic low-level anxiety punctuated by episodes of acute stress during drought or predator encounter.
+
 __Disaffection, Apathy & Spent Will:__ Spent will manifests as resignation or departure; the disaffected leave rather than agitate. The transition window may see bands clinging to Acheulean tradition despite declining returns, their conservatism a form of collective apathy cleared only by demographic replacement.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Alcoholism endemic; petty crime rises; youth al
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Double consciousness prevails: public conformity coexists with private cynicism; jokes (anekdoty) circulate as social safety valve; the "kitchen" becomes site of honest conversation; trust confined to intimate circles.
-
 __Leadership & Personal Authority:__ Brezhnev's authority derives from institutional position, not personal charisma; his decline visible on television, his slurred speech and medals a subject of private mockery; no successor clearly designated.
 
 __Legitimacy as Lived Allegiance:__ Ideological belief erodes among educated urban population; Great Patriotic War memory sustains some loyalty; material improvements of 1960s-1970s provide pragmatic acceptance; younger generations less invested in Soviet mythology.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ System maintains inertia without forwar
 
 __External Relations & Posture:__ Détente with West; arms control negotiations; Helsinki Accords (1975) include human rights provisions that will be used against the regime; Afghanistan intervention (1979) ends détente, drains resources, produces veterans with traumatic experience.
 
+__Public Sentiment & Behavioral Temper:__ Double consciousness prevails: public conformity coexists with private cynicism; jokes (anekdoty) circulate as social safety valve; the "kitchen" becomes site of honest conversation; trust confined to intimate circles.
+
 __Disaffection, Apathy & Spent Will:__ Cynicism widespread but not organized; dissident movement small and harshly repressed; most citizens retreat into private life, accepting public rituals while investing meaning in family, friends, and personal pursuits; collective will exhausted.
+
 
 ## D06. Informational Domain
 

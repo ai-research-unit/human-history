@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Denominational schisms produce competing public
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Religious and reform publications work to shape emotional orientation—revivalist fervor, moral indignation, benevolent sympathy; the temperament they cultivate is earnest, reform-minded, conscientious.
-
 __Leadership & Personal Authority:__ Charismatic editors shape their publications' identities—William Lloyd Garrison at The Liberator, Lyman Beecher in temperance advocacy, Frances Willard at the Woman's Christian Temperance Union; their personal authority transcends formal office.
 
 __Legitimacy as Lived Allegiance:__ Religious publications maintain allegiance to denominational authority and tradition; reform publications build allegiance to causes that may challenge existing authorities, creating tension between institutional and prophetic claims.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reform publications exist precisely to 
 
 __External Relations & Posture:__ Religious publications connect American denominations to international missionary networks and transatlantic reform movements; abolitionism draws on British precedents, while American reform publications influence overseas movements.
 
+__Public Sentiment & Behavioral Temper:__ Religious and reform publications work to shape emotional orientation—revivalist fervor, moral indignation, benevolent sympathy; the temperament they cultivate is earnest, reform-minded, conscientious.
+
 __Disaffection, Apathy & Spent Will:__ Reform movements face burnout—the anti-slavery movement achieves its goal with the 13th Amendment, leaving organizations without purpose; temperance endures through Prohibition but faces backlash; the residue is exhausted activists and publications searching for new causes.
+
 
 ## D06. Informational Domain
 

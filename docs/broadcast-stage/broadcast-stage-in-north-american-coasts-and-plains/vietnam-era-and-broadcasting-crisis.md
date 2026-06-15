@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban unrest continues after 1968 assassination
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National confidence collapses from 1960s optimism; Vietnam, Watergate, stagflation, and energy crisis produce pervasive malaise; Carter's "crisis of confidence" speech (1979) names but cannot resolve the mood; trust in institutions falls across all measures.
-
 __Leadership & Personal Authority:__ Johnson withdraws (1968); Nixon achieves landslide (1972) then resigns in disgrace (1974); Ford's pardon controversial; Carter elected as outsider but perceived as ineffective; no figure commands broad allegiance.
 
 __Legitimacy as Lived Allegiance:__ Vietnam protests, Watergate revelations, and Pentagon Papers disclosure erode belief in government honesty; television anchors (Cronkite's Tet assessment) carry temporary authority that exceeds official sources; legitimacy diffuses from institutions to broadcast intermediaries then begins fragmenting.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Vietnam withdrawal marks failure of sus
 
 __External Relations & Posture:__ Vietnam withdrawal (1975) marks retreat; detente with Soviet Union pursued; China opening (1972); Camp David Accords (1978); Iran hostage crisis (1979–1981) humiliates; American global position perceived as declining.
 
+__Public Sentiment & Behavioral Temper:__ National confidence collapses from 1960s optimism; Vietnam, Watergate, stagflation, and energy crisis produce pervasive malaise; Carter's "crisis of confidence" speech (1979) names but cannot resolve the mood; trust in institutions falls across all measures.
+
 __Disaffection, Apathy & Spent Will:__ Voter participation declines; political alienation spreads; sixties idealism curdles into cynicism; counterculture retreats into personal fulfillment; collective exhaustion palpable by decade's end, fueling conservative revival appeal.
+
 
 ## D06. Informational Domain
 

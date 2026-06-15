@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Peasant unrest remains localized—dozens of sm
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood of the educated public darkens through the period; initial hopes for reform after 1825 yield to cynicism; the intelligentsia oscillates between despair and messianic conviction; trust extends only within small circles.
-
 __Leadership & Personal Authority:__ Nicholas I rules through personal will, projecting himself as the empire's stern father; his authority is absolute within the court; no countervailing leadership exists legally, but figures like Herzen acquire moral authority from exile.
 
 __Legitimacy as Lived Allegiance:__ Official Nationality (Orthodoxy, Autocracy, Nationality) provides the ideological formula; peasants retain diffuse loyalty to the tsar while resenting local officials and nobles; the intelligentsia's alienation deepens, though outright republicanism remains underground.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime possesses unified will to su
 
 __External Relations & Posture:__ Nicholas I acts as "gendarme of Europe," suppressing the Hungarian revolution (1849) and defending legitimist order; the Crimean coalition isolates Russia; defeat reveals the cost of backwardness and forces the succession to contemplate change.
 
+__Public Sentiment & Behavioral Temper:__ The mood of the educated public darkens through the period; initial hopes for reform after 1825 yield to cynicism; the intelligentsia oscillates between despair and messianic conviction; trust extends only within small circles.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection concentrates in the intelligentsia, whose alienation from the regime becomes constitutive of identity; peasant apathy persists, punctuated by sporadic violence; by 1855, even loyal officials recognize that something must change.
+
 
 ## D06. Informational Domain
 

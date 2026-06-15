@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Endemic warfare among successor states characte
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trauma from repeated catastrophes — the 1258 sack, plague, Tamerlane's devastations — pervades collective memory; fatalism and Sufi spirituality offer psychological resources; the population that survives has witnessed horrors that shape generational outlook; hope attaches to dreams of restoration rather than present flourishing.
-
 __Leadership & Personal Authority:__ Strong military leaders — Mongol khans, Turkmen tribal chiefs, Tamerlane — exercise personal authority based on martial success; Ghazan Khan represents an attempt at enlightened rule combining military power with administrative reform and Islamic piety; most successors lack either capability or longevity for constructive rule.
 
 __Legitimacy as Lived Allegiance:__ The caliphate is gone (a shadow Abbasid caliphate continues in Mamluk Cairo but lacks connection to Iraq); Mongol legitimacy rests on conquest right and later on Islamic conversion; Turkmen chiefs claim tribal prerogative; Tamerlane claims descent from Chinggis Khan (through a fictive marriage) and championship of Islam; legitimacy remains contested and unstable.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will fragments among competi
 
 __External Relations & Posture:__ Iraq becomes a contested zone rather than a power center; the Ilkhanids engage with Mamluk Egypt, Mongol khanates in Central Asia, and European powers seeking Mongol alliance against the Mamluks; successor states navigate among larger powers; by the fifteenth century, Ottoman and Safavid expansion will make Iraq a frontier zone between empires.
 
+__Public Sentiment & Behavioral Temper:__ Trauma from repeated catastrophes — the 1258 sack, plague, Tamerlane's devastations — pervades collective memory; fatalism and Sufi spirituality offer psychological resources; the population that survives has witnessed horrors that shape generational outlook; hope attaches to dreams of restoration rather than present flourishing.
+
 __Disaffection, Apathy & Spent Will:__ The cumulative effect of catastrophe exhausts political imagination; population survives rather than thrives; resignation to foreign rule becomes the norm; only with Ottoman and then Safavid conquest will external powers impose stable (if despotic) order; spent will persists as the default condition.
+
 
 ## D06. Informational Domain
 

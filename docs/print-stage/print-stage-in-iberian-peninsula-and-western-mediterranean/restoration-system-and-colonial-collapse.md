@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Anarchist terrorism erupts: the Liceu Theatre b
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Surface calm masks underlying tensions; the turno pacifico provides predictability without enthusiasm. Regional sentiment crystallizes: Catalanism becomes a political movement (Bases de Manresa, 1892); Basque nationalism coalesces (PNV founded 1895). The working class develops class consciousness through socialist and anarchist movements. The 1898 defeat produces national trauma and a wave of regenerationist introspection.
-
 __Leadership & Personal Authority:__ Canovas del Castillo (Conservative) and Sagasta (Liberal) alternate as the system's architects; their personal authority sustains the turno. The assassination of Canovas (1897) weakens Conservative cohesion. The young Alfonso XIII (born 1886, king from 1902) remains in his minority throughout. Carlist and Republican pretenders lack traction.
 
 __Legitimacy as Lived Allegiance:__ The Restoration achieves passive acceptance rather than active legitimacy; the dynasty is restored but not beloved. The working class and regionalist movements develop alternative loyalties. The 1898 disaster shatters what legitimacy remains, producing the "crisis of consciousness."
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will fragments: the oligarchy wills sta
 
 __External Relations & Posture:__ Spain adopts a defensive posture; lacking allies, it attempts neutrality in European rivalries. The colonial relationship with Cuba, Puerto Rico, and Philippines becomes the central foreign policy preoccupation. American intervention (1898) finds Spain diplomatically isolated. The "Disaster" leaves only African scraps (Morocco, Equatorial Guinea) of former empire.
 
+__Public Sentiment & Behavioral Temper:__ Surface calm masks underlying tensions; the turno pacifico provides predictability without enthusiasm. Regional sentiment crystallizes: Catalanism becomes a political movement (Bases de Manresa, 1892); Basque nationalism coalesces (PNV founded 1895). The working class develops class consciousness through socialist and anarchist movements. The 1898 defeat produces national trauma and a wave of regenerationist introspection.
+
 __Disaffection, Apathy & Spent Will:__ The 1898 defeat produces a profound exhaustion of imperial will and national self-confidence. The Generation of 98 intellectuals articulate this spent condition: Unamuno, Baroja, Azorin. Regenerationism attempts to redirect will toward internal reform but lacks political vehicle.
+
 
 ## D06. Informational Domain
 

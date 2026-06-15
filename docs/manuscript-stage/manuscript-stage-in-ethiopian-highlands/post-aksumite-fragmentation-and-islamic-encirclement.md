@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict between regional lords produces endemi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment is obscure in the documentary silence. Surviving hagiography projects piety, endurance, and fidelity to the faith under pressure. The mood is presumably defensive and inward-turning: the kingdom has contracted, enemies surround the highlands, survival depends on holding what remains. Trust contracts to local communities; the radius narrows.
-
 __Leadership & Personal Authority:__ No commanding figures emerge from the sparse record. Regional lords exercise local authority. Monastic founders and saints provide spiritual leadership; hagiography from later periods attributes miracles and sanctity to figures of this era. Leadership is fragmented and localized.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy attaches to local lords through kin ties and military success, and to the church through continuity with the Aksumite Christian tradition. No single figure commands highland-wide allegiance. The faith itself remains the anchor of legitimacy, even as political authority fragments. Allegiance is localized but not dissolved.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is absorbed in local de
 
 __External Relations & Posture:__ The posture is defensive. Islamic sultanates (Shewa, Ifat) emerge in the lowlands by the 10th–11th centuries, pressing on highland margins. The Red Sea coast is lost; maritime projection is impossible. Relations with Alexandria persist through the church (appointment of the abun), but contact is intermittent. Byzantium is remote and preoccupied. The highlands are encircled and isolated.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment is obscure in the documentary silence. Surviving hagiography projects piety, endurance, and fidelity to the faith under pressure. The mood is presumably defensive and inward-turning: the kingdom has contracted, enemies surround the highlands, survival depends on holding what remains. Trust contracts to local communities; the radius narrows.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection with fragmented authority must exist but is not documented. Apathy and exhaustion are possible after centuries of contraction. The affective residue is unclear; the church provides meaning and continuity that may limit disaffection. By the period's end, the Zagwe consolidation suggests collective will has not fully collapsed.
+
 
 ## D06. Informational Domain
 

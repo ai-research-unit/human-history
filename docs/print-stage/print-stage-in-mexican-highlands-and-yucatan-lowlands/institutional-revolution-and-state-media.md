@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime rates relatively low by later standards; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National confidence rises with economic growth, wartime solidarity, and regime stability; pride in oil nationalization lingers as defining nationalist moment; urban middle class optimism about modernization; rural populations acquiesce to state authority; trust operates through personalist patronage networks rather than institutional channels.
-
 __Leadership & Personal Authority:__ The presidency concentrates ultimate authority; Manuel Avila Camacho (1940-1946) provides conciliatory transition; Miguel Aleman (1946-1952) embodies modernizing technocracy; Fidel Velazquez controls labor; regional caciques maintain local authority within party discipline; leadership derives from Revolutionary legitimacy and patronage capacity.
 
 __Legitimacy as Lived Allegiance:__ The Revolutionary origin narrative justifies single-party rule; regular elections (uncompetitive but formally observed) provide procedural legitimacy; material delivery (land, services, employment) generates practical allegiance; most Mexicans accept the system as natural if imperfect; active enthusiasm less common than pragmatic accommodation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime demonstrates capacity for de
 
 __External Relations & Posture:__ WWII alliance with United States brings economic benefits and defines international orientation; Bracero Program exports surplus labor northward; Good Neighbor Policy provides respectful treatment; Mexico claims moral authority from oil nationalization and Revolutionary credentials; Cold War alignment with West assumed but expressed with nationalist reserve.
 
+__Public Sentiment & Behavioral Temper:__ National confidence rises with economic growth, wartime solidarity, and regime stability; pride in oil nationalization lingers as defining nationalist moment; urban middle class optimism about modernization; rural populations acquiesce to state authority; trust operates through personalist patronage networks rather than institutional channels.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary generation aging; younger cohorts know only institutional order; active opposition minimal (sinarquistas on right, communists on left both marginal); disaffection expresses as cynical accommodation rather than resistance; political participation ritualized; the spent enthusiasm of authentic revolution settles into managed routine.
+
 
 ## D06. Informational Domain
 

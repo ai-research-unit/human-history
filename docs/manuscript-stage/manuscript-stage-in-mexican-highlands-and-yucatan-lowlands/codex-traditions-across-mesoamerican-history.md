@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The conquest constitutes catastrophic instituti
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The codex tradition commands reverence: books are sacred objects containing ancestral wisdom; the colonial destruction of codices registers as sacrilege and loss; indigenous communities continue to value surviving manuscripts as objects of identity.
-
 __Leadership & Personal Authority:__ Rulers commission and interpret codices; the ability to read historical and divinatory books marks royal competence; colonial caciques continue to use pictographic documents to legitimate their authority.
 
 __Legitimacy as Lived Allegiance:__ Genealogical codices anchor lineage legitimacy; rulers trace descent through painted records; the manuscript makes the claim visible and persistent; legitimacy is documented, not merely claimed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The determination to preserve the tradi
 
 __External Relations & Posture:__ Codices record diplomatic relations, tribute obligations, and warfare between polities; the painted record documents the posture of polities toward each other across time.
 
+__Public Sentiment & Behavioral Temper:__ The codex tradition commands reverence: books are sacred objects containing ancestral wisdom; the colonial destruction of codices registers as sacrilege and loss; indigenous communities continue to value surviving manuscripts as objects of identity.
+
 __Disaffection, Apathy & Spent Will:__ By the seventeenth century the intensive transcription effort wanes; the specialists who could interpret pre-Columbian conventions die; disaffection is not the cause — exhaustion and demographic loss are.
+
 
 ## D06. Informational Domain
 

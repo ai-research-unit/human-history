@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ APRA uprising (Trujillo, 1932) and brutal suppr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Depression shock generates despair then radicalization; nationalist and populist sentiment rises; anti-oligarchic anger fuels mass politics; war years (Chaco; World War II) generate both anxiety and opportunity-seeking.
-
 __Leadership & Personal Authority:__ Populist leaders emerge: Haya de la Torre (APRA, never reaches presidency but dominates Peruvian opposition); Arturo Alessandri returns (1932–1938) with diminished reformism; Pedro Aguirre Cerda (Chilean Popular Front, 1938–1941) embodies center-left hope; Victor Paz Estenssoro builds MNR.
 
 __Legitimacy as Lived Allegiance:__ Oligarchic legitimacy shattered by Depression; military regimes claim emergency authority; Popular Front governments invoke democratic mandate; APRA and MNR build party loyalty rivaling state allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Mass mobilization capacity increases; g
 
 __External Relations & Posture:__ World War II alignment with Allies (all three declare war on Axis, 1942–1945); U.S. influence increases through wartime cooperation and postwar investment; Soviet influence through Communist parties remains marginal; Cold War alignment begins crystallizing by 1950.
 
+__Public Sentiment & Behavioral Temper:__ Depression shock generates despair then radicalization; nationalist and populist sentiment rises; anti-oligarchic anger fuels mass politics; war years (Chaco; World War II) generate both anxiety and opportunity-seeking.
+
 __Disaffection, Apathy & Spent Will:__ Repeated coup cycles (Bolivia), APRA suppression (Peru), and electoral manipulation generate cynicism; hope invested in populist movements dissipates when they fail to achieve power or deliver promises; exhaustion settles by decade's end.
+
 
 ## D06. Informational Domain
 

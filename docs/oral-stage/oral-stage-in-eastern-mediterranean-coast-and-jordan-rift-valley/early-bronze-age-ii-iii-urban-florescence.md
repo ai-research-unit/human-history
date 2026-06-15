@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-polity raiding and competition for trade 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence peaks with urban prosperity and trade success; trust extends to trade partners and allied polities; optimism colors public life, though anxiety about drought, raid, and succession persists beneath the surface.
-
 __Leadership & Personal Authority:__ Petty kings or chieftains lead through personal charisma, martial prowess, and oratorical skill; authority is spoken into being at assemblies and sustained by success in war, trade, and redistribution; hereditary succession is emerging but not yet secure.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to leaders who deliver protection, surplus, and prestige; legitimacy is performed through feasting, temple construction, and successful campaigns; oral praise and commemorative recitation reinforce authority; disaffection surfaces when leaders fail.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for defense, 
 
 __External Relations & Posture:__ Egyptian contact is asymmetric—Levantine polities supply raw materials and receive prestige goods; no military subordination but cultural influence is strong; northern contacts with Syria and Mesopotamia intensify; inter-Levantine rivalry for trade routes and hinterland control drives occasional conflict; posture is competitive but not expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Confidence peaks with urban prosperity and trade success; trust extends to trade partners and allied polities; optimism colors public life, though anxiety about drought, raid, and succession persists beneath the surface.
+
 __Disaffection, Apathy & Spent Will:__ Minimal at the peak; localized grievance over tribute or raid is mediated orally; no systemic disaffection; collective will remains engaged and directed toward growth and defense.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Three civil wars (1833–1840, 1846–1849, 187
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public divides sharply: liberals (Moderates and Progressives) versus Carlists versus emerging republicans and socialists. Regional sentiment intensifies: Basque and Catalan particularism feeds both Carlism and proto-nationalism. Urban crowds mobilize in Madrid and Barcelona; rural populations remain more deferential or Carlist-aligned.
-
 __Leadership & Personal Authority:__ Generals dominate politics: Espartero, Narvaez, O'Donnell, Prim, Serrano. Isabella II's personal unpopularity contributes to her overthrow (1868). Carlist pretenders command traditional loyalty in their strongholds.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy fragments: Carlists deny the constitutional order's right to exist; liberals dispute among themselves over the proper constitutional form. Isabella II's perceived immorality and clerical dependence erode her standing. The Amadeo I experiment (1870–1873) and First Republic both fail to consolidate legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will concentrates in military factions 
 
 __External Relations & Posture:__ Spain remains a secondary European power; British and French diplomacy influences the Carlist Wars. Colonial holdings in Cuba, Puerto Rico, and Philippines remain but face increasing challenge. The failed attempt to annex Santo Domingo (1861–1865) and the Pacific War with Peru and Chile (1865–1866) reveal limited projection capacity.
 
+__Public Sentiment & Behavioral Temper:__ The public divides sharply: liberals (Moderates and Progressives) versus Carlists versus emerging republicans and socialists. Regional sentiment intensifies: Basque and Catalan particularism feeds both Carlism and proto-nationalism. Urban crowds mobilize in Madrid and Barcelona; rural populations remain more deferential or Carlist-aligned.
+
 __Disaffection, Apathy & Spent Will:__ By 1874, exhaustion is palpable: the Republic has fragmented, Carlism revives but cannot win, and a military restoration of the Bourbons appears as the only path to stability. Will is not re-anchored but simply spent.
+
 
 ## D06. Informational Domain
 

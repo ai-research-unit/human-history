@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage surged in the south as response to c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial enthusiasm for revolutionary ideals yielded to war-weariness and resentment of French extraction. Patriotic sentiment emerged among educated minorities; popular sentiment remained localist, often hostile to French-imposed change.
-
 __Leadership & Personal Authority:__ Napoleon dominated as charismatic authority; Italian satellite rulers derived legitimacy from his patronage. Revolutionary leaders (Jacobins of 1796–1799) lacked independent military force. Restored monarchs returned as Austrian or French clients.
 
 __Legitimacy as Lived Allegiance:__ Revolutionary republics claimed popular sovereignty but governed through French bayonets. Imperial legitimacy rested on military success and administrative efficiency. Popular allegiance remained fragmented; legitimacy deficit persistent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will concentrated in French c
 
 __External Relations & Posture:__ Italian states functioned as French satellites; foreign policy dictated from Paris. Austrian recovery (1799, 1813–1814) demonstrated Italian dependence on external power balances. No autonomous Italian diplomacy existed.
 
+__Public Sentiment & Behavioral Temper:__ Initial enthusiasm for revolutionary ideals yielded to war-weariness and resentment of French extraction. Patriotic sentiment emerged among educated minorities; popular sentiment remained localist, often hostile to French-imposed change.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary enthusiasm exhausted rapidly under extraction burdens. Conscription produced mass evasion and desertion. By 1814, populations welcomed Restoration not from royalism but from exhaustion with French demands.
+
 
 ## D06. Informational Domain
 

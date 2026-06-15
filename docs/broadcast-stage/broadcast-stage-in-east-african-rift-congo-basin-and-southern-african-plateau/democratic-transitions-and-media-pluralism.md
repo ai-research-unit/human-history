@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime rates high in South Africa; low-level con
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Hope characterizes South Africa's "rainbow nation" period; Rwanda's reconstruction generates cautious optimism; Zimbabwe's decline breeds despair; regional mood improves with peace and growth.
-
 __Leadership & Personal Authority:__ Mandela's moral authority transcendent; Mbeki succeeds but AIDS denialism damages legitimacy; Museveni shifts from liberator to long-term incumbent; Kagame consolidates power in Rwanda; new generation of leaders emerges.
 
 __Legitimacy as Lived Allegiance:__ Multi-party systems gain acceptance; electoral legitimacy becomes standard expectation; disputed elections (Zimbabwe 2000, 2002, 2005) generate crises; broadcast coverage of elections increases legitimacy pressures.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Regional will for peace and development
 
 __External Relations & Posture:__ South Africa integrates into international community; African Renaissance ideology; NEPAD launched (2001); China's engagement expands; Western aid continues with governance conditionality.
 
+__Public Sentiment & Behavioral Temper:__ Hope characterizes South Africa's "rainbow nation" period; Rwanda's reconstruction generates cautious optimism; Zimbabwe's decline breeds despair; regional mood improves with peace and growth.
+
 __Disaffection, Apathy & Spent Will:__ Post-liberation disappointment emerges in South Africa as inequality persists; cynicism about politicians spreads; voter fatigue in serial elections; emigration reflects disaffection (Zimbabwe diaspora).
+
 
 ## D06. Informational Domain
 

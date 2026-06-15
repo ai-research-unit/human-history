@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over cattle, grazing, and water resolv
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The expanding resource base during the humid peak supported confident, outward-looking sentiment; willingness to explore new territory and experiment with cattle-keeping reflected adaptive optimism; trust extended along kinship lines and through repeated face-to-face interaction.
-
 __Leadership & Personal Authority:__ Leaders emerged from demonstrated competence in herding, hunting, and ritual; personal authority was earned, not inherited in any formal sense, though sons of successful men had advantages; authority was exercised through persuasion and example, backed by oral reputation.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flowed to kinship heads and successful cattle owners who fulfilled redistributive obligations; legitimacy was performative and could be withdrawn if leaders failed; no abstract ideology of rulership, only oral tradition of what good leadership looked like.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was episodic: mobiliz
 
 __External Relations & Posture:__ Relations with neighboring groups ranged from alliance and intermarriage to raiding and avoidance; no fixed external enemies or permanent alliances; posture was flexible, shaped by immediate resource conditions and personal relationships.
 
+__Public Sentiment & Behavioral Temper:__ The expanding resource base during the humid peak supported confident, outward-looking sentiment; willingness to explore new territory and experiment with cattle-keeping reflected adaptive optimism; trust extended along kinship lines and through repeated face-to-face interaction.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection could be expressed by fission: disgruntled individuals or families could leave to join other groups or strike out independently; this safety valve prevented accumulation of resentment within groups; spent will was rare in a context of expanding opportunity.
+
 
 ## D06. Informational Domain
 

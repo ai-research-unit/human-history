@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Cristero War represents major social conflict; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-revolutionary exhaustion gives way to cautious optimism during 1920s stability, nationalist fervor with Cárdenas-era reforms. The oil nationalization (1938) produces genuine mass enthusiasm; citizens donate to compensate foreign companies.
-
 __Leadership & Personal Authority:__ Succession of strongmen: Obregón (assassinated 1928), Calles (dominates Maximato 1928–1934), Cárdenas (breaks Calles's power 1936). Personal authority concentrated but increasingly channeled through party institutions.
 
 __Legitimacy as Lived Allegiance:__ Revolutionary legitimacy provides foundation; the party claims to embody revolutionary heritage. Cristero population rejects revolutionary anticlericalism but is eventually accommodated. Most accept single-party rule as price of stability.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Cardenismo mobilizes popular will for l
 
 __External Relations & Posture:__ Relations with United States normalized (Bucareli Agreements 1923); oil nationalization crisis (1938) resolved through negotiation and WWII alliance. Mexico accepts Spanish Republican refugees. Pan-American solidarity cultivated.
 
+__Public Sentiment & Behavioral Temper:__ Post-revolutionary exhaustion gives way to cautious optimism during 1920s stability, nationalist fervor with Cárdenas-era reforms. The oil nationalization (1938) produces genuine mass enthusiasm; citizens donate to compensate foreign companies.
+
 __Disaffection, Apathy & Spent Will:__ Cristero population remains alienated until modus vivendi; some revolutionary veterans feel betrayed by consolidation. Political opposition marginalized but not eliminated. By 1940, accommodationist stability prevails over transformative fervor.
+
 
 ## D06. Informational Domain
 

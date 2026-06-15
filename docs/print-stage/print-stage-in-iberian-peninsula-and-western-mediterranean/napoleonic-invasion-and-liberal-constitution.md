@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Guerrilla warfare normalizes armed violence; ba
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Dos de Mayo uprising (1808) crystallizes popular anti-French sentiment; patriotic fervor sustains guerrilla resistance. Regional identities strengthen through junta governance. Post-war, sentiment polarizes between liberal and absolutist camps. Trust contracts to family and faction; the public fragments into hostile camps.
-
 __Leadership & Personal Authority:__ Ferdinand VII retains symbolic authority as "El Deseado" (the Desired One) during captivity; his restoration (1814) reveals authoritarian character. Liberal leaders (Arguelles, Riego) command factions but lack consensus authority. Charismatic leadership operates through faction, not nation.
 
 __Legitimacy as Lived Allegiance:__ Competing legitimacies collide: Bourbon dynasty, liberal constitution, Napoleonic imposition. Ferdinand's restoration rests on dynastic claim and Church support. Liberal legitimacy derives from the 1812 Constitution's popular sovereignty principle. Neither achieves stable allegiance; legitimacy remains contested throughout.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Resistance to France demonstrates colle
 
 __External Relations & Posture:__ Britain supports the war effort; the alliance shapes post-war commerce. France oscillates from invader (1808) to restorer of absolutism (1823). American colonies achieve independence; Spain loses continental empire. International standing collapses; Spain becomes a secondary power subject to great-power intervention.
 
+__Public Sentiment & Behavioral Temper:__ The Dos de Mayo uprising (1808) crystallizes popular anti-French sentiment; patriotic fervor sustains guerrilla resistance. Regional identities strengthen through junta governance. Post-war, sentiment polarizes between liberal and absolutist camps. Trust contracts to family and faction; the public fragments into hostile camps.
+
 __Disaffection, Apathy & Spent Will:__ War exhaustion permeates the population; each regime change produces new exiles and prisoners. Liberal defeat (1814, 1823) generates emigration; absolutist repression breeds conspiracy. By 1833, accumulated disaffection and regime instability leave the political class spent, setting the stage for renewed civil war.
+
 
 ## D06. Informational Domain
 

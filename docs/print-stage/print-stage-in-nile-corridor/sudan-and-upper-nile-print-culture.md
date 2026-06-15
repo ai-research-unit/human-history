@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The grievance of the educated class, blocked fr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Deference to British authority coexists with latent resentment among the educated; the Mahdist memory provides a reservoir of anti-imperial sentiment that print cautiously invokes.
-
 __Leadership & Personal Authority:__ Ismail al-Azhari emerges as the leading voice of the Ashiqqa (pro-Egyptian union) faction; Sayyid Abd al-Rahman al-Mahdi and Sayyid Ali al-Mirghani, heads of the Ansar and Khatmiyya respectively, command religious-political loyalty that print amplifies but does not create.
 
 __Legitimacy as Lived Allegiance:__ The Condominium's legitimacy rests on order and infrastructure, not consent; among the effendiyya, allegiance shifts toward nationalist projects articulated in print, while rural populations remain loyal to tribal and religious leaders.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Nationalist will consolidates through t
 
 __External Relations & Posture:__ Sudan's status as a Condominium makes its external posture subordinate to Anglo-Egyptian relations; Sudanese nationalists must navigate between Cairo's claim and British administration, and print becomes the medium for articulating alternatives.
 
+__Public Sentiment & Behavioral Temper:__ Deference to British authority coexists with latent resentment among the educated; the Mahdist memory provides a reservoir of anti-imperial sentiment that print cautiously invokes.
+
 __Disaffection, Apathy & Spent Will:__ Frustration among Gordon College graduates unable to advance beyond junior posts fuels the energy behind nationalist print; by 1955, the approaching end of Condominium rule transforms disaffection into anticipation.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was managed through mobility an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective states are unobservable; inference suggests a behavioral temper shaped by immediate environmental feedback—vigilance near predators, relaxation at safe resting sites; trust likely extended to familiar band members and diminished sharply toward strangers.
-
 __Leadership & Personal Authority:__ Leadership was situational, based on demonstrated competence in foraging, route-finding, or conflict resolution; personal authority was earned and ephemeral, not institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy was not a concept requiring articulation; allegiance was expressed through continued association and cooperation within the band; disaffection manifested as departure rather than contestation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve was limited to immed
 
 __External Relations & Posture:__ Relations with other hominin groups, if encountered, are unknown; avoidance was likely the default posture given low population density; competition for resources would have occurred at encounter sites rather than through sustained rivalry.
 
+__Public Sentiment & Behavioral Temper:__ Affective states are unobservable; inference suggests a behavioral temper shaped by immediate environmental feedback—vigilance near predators, relaxation at safe resting sites; trust likely extended to familiar band members and diminished sharply toward strangers.
+
 __Disaffection, Apathy & Spent Will:__ Given the absence of complex social demands, apathy and disaffection in any modern sense were unlikely; exhaustion from failed foraging or injury could reduce an individual's engagement, but this was physiological rather than social.
+
 
 ## D06. Informational Domain
 

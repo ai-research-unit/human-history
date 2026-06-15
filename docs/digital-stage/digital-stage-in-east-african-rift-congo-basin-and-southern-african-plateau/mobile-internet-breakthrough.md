@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Cybercrime emerges as a new disorder — mobile
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism about Africa's digital future spreads among urban youth and the tech community; "Africa Rising" narratives gain traction; frustration with slow progress and persistent inequality coexists with genuine excitement about new possibilities.
-
 __Leadership & Personal Authority:__ Tech entrepreneurs emerge as new elite figures — Safaricom's leadership, startup founders, and venture capitalists gain prominence; President Kagame cultivates an image as Africa's digital visionary; traditional political leaders instrumentalize digital progress for legitimacy.
 
 __Legitimacy as Lived Allegiance:__ Digital services provided by private operators often function better than government services, creating a legitimacy transfer — citizens trust M-Pesa more than state banks; this erodes state legitimacy in some domains while not threatening political authority directly.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Governments generally support digital e
 
 __External Relations & Posture:__ Competition for digital infrastructure investment intensifies, with China, the US, and Europe vying for influence; Kenya balances Western tech companies with Chinese infrastructure; South Africa hosts international tech conferences, positioning itself as the continental gateway.
 
+__Public Sentiment & Behavioral Temper:__ Optimism about Africa's digital future spreads among urban youth and the tech community; "Africa Rising" narratives gain traction; frustration with slow progress and persistent inequality coexists with genuine excitement about new possibilities.
+
 __Disaffection, Apathy & Spent Will:__ Youth unemployment persists despite digital economy promises, generating frustration; the gap between tech sector success stories and majority experience breeds disaffection; rural populations excluded from the breakthrough feel increasingly left behind.
+
 
 ## D06. Informational Domain
 

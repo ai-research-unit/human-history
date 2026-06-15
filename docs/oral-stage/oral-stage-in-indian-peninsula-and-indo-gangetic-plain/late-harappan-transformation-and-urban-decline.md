@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban abandonment itself represents structural 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood of a collapsing urban system is unrecoverable but may be inferred from behavior — gradual, orderly abandonment suggests resignation rather than panic; families and communities relocated deliberately, carrying craft traditions and social structures to new locations; the temper was adaptive, not desperate.
-
 __Leadership & Personal Authority:__ If the mature Harappan system was led by councils, priests, or merchant elites rather than kings, these leadership structures dissolved with their institutional bases; local headmen and kinship leaders replaced whatever urban authority once existed; charismatic or traditional authority at village scale sufficed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the Harappan urban order, whatever form it took, eroded with the system's capacity to provide; the legitimacy of local leadership depended on immediate, personal relationships maintained through speech and daily interaction; abstract loyalty to distant centers became meaningless.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The collective will that built and main
 
 __External Relations & Posture:__ External contacts — with Mesopotamia, with the Persian Gulf trading world — lapsed; the Late Harappan communities turned inward, concerned with local survival rather than distant commerce; no foreign power pressed on the declining system from outside.
 
+__Public Sentiment & Behavioral Temper:__ The mood of a collapsing urban system is unrecoverable but may be inferred from behavior — gradual, orderly abandonment suggests resignation rather than panic; families and communities relocated deliberately, carrying craft traditions and social structures to new locations; the temper was adaptive, not desperate.
+
 __Disaffection, Apathy & Spent Will:__ The exhaustion of collective purpose is the defining emotional signature of the period; the drive that built cities yielded to the acceptance of smaller horizons; disaffection settled not as revolt but as departure.
+
 
 ## D06. Informational Domain
 

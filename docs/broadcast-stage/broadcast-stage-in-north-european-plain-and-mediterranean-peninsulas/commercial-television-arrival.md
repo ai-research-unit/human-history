@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Public broadcaster morale suffers; staff cuts a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-1968 exhaustion persists; economic anxieties from stagflation moderate by early 1980s; television increasingly channels entertainment rather than civic discourse; Cold War tensions resurge with Soviet invasion of Afghanistan and missile deployment controversies.
-
 __Leadership & Personal Authority:__ Silvio Berlusconi emerges as dominant media entrepreneur; Helmut Kohl takes power in Germany (1982); Francois Mitterrand in France (1981) initially maintains state broadcasting before embracing commercial expansion; Margaret Thatcher pursues deregulation agenda.
 
 __Legitimacy as Lived Allegiance:__ Public broadcasting legitimacy questioned as paternalist and unresponsive; commercial alternatives promise choice and populism; political left ambivalent about market liberalization; democratic transitions in Iberia complete (Spain joins EC 1986).
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Deregulation will prevails across cente
 
 __External Relations & Posture:__ Cold War second phase intensifies then moderates with Gorbachev; European Community coheres; American cultural products dominate commercial schedules, raising cultural sovereignty concerns.
 
+__Public Sentiment & Behavioral Temper:__ Post-1968 exhaustion persists; economic anxieties from stagflation moderate by early 1980s; television increasingly channels entertainment rather than civic discourse; Cold War tensions resurge with Soviet invasion of Afghanistan and missile deployment controversies.
+
 __Disaffection, Apathy & Spent Will:__ Political participation declines; television blamed for civic disengagement; public broadcaster defenders increasingly defensive; younger audiences drift toward commercial offerings.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Open disorder ceases as the regime monopolizes 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial relief at the end of chaos gives way to acquiescence or conformism. Active enthusiasm is cultivated through spectacle and propaganda; passive dissent is widespread but muted. Fear of the OVRA disciplines behavior.
-
 __Leadership & Personal Authority:__ Mussolini dominates as Duce, concentrating personal authority. The cult of the Duce saturates public discourse. Secondary leaders (Farinacci, Balbo, Federzoni) compete for influence but are subordinated.
 
 __Legitimacy as Lived Allegiance:__ The regime claims revolutionary legitimacy; the Matteotti crisis (1924) threatens but ultimately strengthens consolidation as the king refuses to dismiss Mussolini. Acquiescence substitutes for active consent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime demonstrates relentless will
 
 __External Relations & Posture:__ Italy pursues revisionism within the League of Nations framework initially; the Corfu incident (1923) and Albanian protectorate (1926) signal imperial ambition. Relations with Britain and France are cooperative but wary.
 
+__Public Sentiment & Behavioral Temper:__ Initial relief at the end of chaos gives way to acquiescence or conformism. Active enthusiasm is cultivated through spectacle and propaganda; passive dissent is widespread but muted. Fear of the OVRA disciplines behavior.
+
 __Disaffection, Apathy & Spent Will:__ Former opponents retreat into private life or exile. Apathy pervades those who neither embrace nor actively resist the regime. The spent will of the postwar left leaves no organized resistance.
+
 
 ## D06. Informational Domain
 

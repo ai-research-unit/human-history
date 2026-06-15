@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social disorder reaches crisis levels; the pogr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror and despair dominate public mood; the inexplicable and seemingly divine punishment of plague generates apocalyptic anxiety; trust collapses as neighbors become potential plague vectors; scapegoating of Jews and other marginal groups channels fear into violence.
-
 __Leadership & Personal Authority:__ Royal authority weakens under mortality and political crisis; Pedro I of Castile's brutal rule and eventual assassination (1369) by his half-brother Henry of Trastamara reflects legitimacy collapse; the Aragonese dynasty faces extinction crises; personal authority of surviving leaders rests on force more than consent.
 
 __Legitimacy as Lived Allegiance:__ Dynastic legitimacy fractures in Castile's civil war; Henry of Trastamara's usurpation creates a Castilian monarchy dependent on noble support and compromised by illegitimate origins; the Aragonese succession dispute (resolved at Caspe in 1412) reflects similar legitimacy fragmentation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will fragments among competin
 
 __External Relations & Posture:__ External ambitions contract; the Castilian civil war draws in English and French intervention as part of the Hundred Years' War; Granada gains respite as Christian kingdoms turn inward; the Aragonese Mediterranean empire faces challenges from Genoa and others with reduced capacity to respond.
 
+__Public Sentiment & Behavioral Temper:__ Terror and despair dominate public mood; the inexplicable and seemingly divine punishment of plague generates apocalyptic anxiety; trust collapses as neighbors become potential plague vectors; scapegoating of Jews and other marginal groups channels fear into violence.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion pervades post-plague society; the trauma of mass death, civil war, and pogrom leaves populations depleted of energy and will; resignation and fatalism replace the confident expansion of the high medieval period; the collective will settles into survival mode.
+
 
 ## D06. Informational Domain
 

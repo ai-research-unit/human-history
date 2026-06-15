@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ramayan and Mahabharat serials' identification 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Collective viewership of mythological serials generates devotional mass emotion; audiences bathe before viewing, garland television sets with flowers, and prostrate before the screen during darshan sequences; national sentiment and religious fervor merge.
-
 __Leadership & Personal Authority:__ Rajiv Gandhi's television image projects youthful modernization; his 1984 landslide victory (401 seats) reflects television's amplification of sympathy following his mother's assassination; his technocratic persona suits the medium.
 
 __Legitimacy as Lived Allegiance:__ The Congress party's hold weakens through the period despite initial television dominance; the 1989 election defeat reflects corruption scandals (Bofors) that television news, constrained though it is, cannot entirely suppress.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Ram Janmabhoomi movement harnesses 
 
 __External Relations & Posture:__ The IPKF deployment to Sri Lanka (1987-1990) receives sanitized television coverage; the Cold War's end reduces Soviet alignment value, while the Gulf crisis (1990-1991) demonstrates India's strategic vulnerability as oil prices spike.
 
+__Public Sentiment & Behavioral Temper:__ Collective viewership of mythological serials generates devotional mass emotion; audiences bathe before viewing, garland television sets with flowers, and prostrate before the screen during darshan sequences; national sentiment and religious fervor merge.
+
 __Disaffection, Apathy & Spent Will:__ Mandal Commission implementation (1990) triggers upper-caste backlash, with anti-reservation protests spreading through Hindi belt cities; the television generation's aspirational hopes confront quota barriers, generating generational disillusionment.
+
 
 ## D06. Informational Domain
 

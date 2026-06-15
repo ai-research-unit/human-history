@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Street violence remains limited compared to int
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nostalgia for imagined national pasts combines with status threat anxiety and resentment toward perceived elite condescension, with pandemic restrictions and inflation accelerating distrust.
-
 __Leadership & Personal Authority:__ Charismatic leaders — Marine Le Pen, Giorgia Meloni, Santiago Abascal — professionalize party images while maintaining outsider positioning; some soften rhetoric approaching power while others (AfD) radicalize further.
 
 __Legitimacy as Lived Allegiance:__ Declining trust in mainstream parties, media, and EU institutions creates legitimacy vacuum that far-right parties fill by positioning as authentic voice of "the people."
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ High engagement and activist commitment
 
 __External Relations & Posture:__ Anti-EU sentiment varies by national context, with euroskepticism strongest in UK (pre-Brexit), France, and Italy; Russia's Ukraine invasion (2022) complicates previous pro-Putin alignments, forcing tactical repositioning.
 
+__Public Sentiment & Behavioral Temper:__ Nostalgia for imagined national pasts combines with status threat anxiety and resentment toward perceived elite condescension, with pandemic restrictions and inflation accelerating distrust.
+
 __Disaffection, Apathy & Spent Will:__ Mainstream voter disengagement feeds far-right gains, though movement sustainability depends on maintaining grievance intensity — some activists burn out, others radicalize toward violence.
+
 
 ## D06. Informational Domain
 

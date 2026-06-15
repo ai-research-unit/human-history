@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict resolves through submission, avoidance
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective states are immediate and interpersonal. Trust extends to familiar band members; strangers provoke wariness. Mood tracks environmental conditions and social standing without cultural mediation.
-
 __Leadership & Personal Authority:__ Leadership is informal, situational, and based on demonstrated competence in hunting, defense, or social negotiation. No office or title exists; authority must be continually earned through action.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to the band and its dominant members, maintained through daily interaction. There is no abstract order to legitimate and no ideology to justify hierarchy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is coordinated throug
 
 __External Relations & Posture:__ Relations between bands are unknown; population density is low enough that encounters may be rare. Where bands meet, outcomes likely range from avoidance to interbreeding to conflict, resolved without lasting institutions.
 
+__Public Sentiment & Behavioral Temper:__ Affective states are immediate and interpersonal. Trust extends to familiar band members; strangers provoke wariness. Mood tracks environmental conditions and social standing without cultural mediation.
+
 __Disaffection, Apathy & Spent Will:__ Individual withdrawal, depression, or exhaustion occurs but does not accumulate as a social fact. The band's affective tone resets with personnel turnover and environmental change.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder is total. The system does not merely s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Morale collapses with the system. Trust erodes when reciprocity fails. Fear and desperation replace the confidence of the florescence. The surviving inscriptions at Seibal and other late sites suggest attempts to restore legitimacy through foreign (Chontal Maya or central Mexican) ideological elements — a sign that indigenous confidence has broken.
-
 __Leadership & Personal Authority:__ Rulers lose authority when they cannot deliver rain, victory, or redistribution. The last monuments often show rulers in diminished circumstances or adopt new, non-traditional iconography. Personal authority drains away with the system that sustained it.
 
 __Legitimacy as Lived Allegiance:__ Cosmological legitimacy requires performance — rituals that bring rain, sacrifices that sustain the cosmos. When rains do not come despite ritual observance, legitimacy fails. The divine kingship that grounded the florescence loses its credibility. This is not gradual erosion but sudden collapse: the system either works or it does not.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will cannot mobilize without
 
 __External Relations & Posture:__ Inter-polity relations dissolve with the polities themselves. Northern Yucatan (Uxmal, Chichen Itza) continues and absorbs some refugees and influences. But the southern lowlands cease to be actors in any external system. The posture is not retreat but disappearance.
 
+__Public Sentiment & Behavioral Temper:__ Morale collapses with the system. Trust erodes when reciprocity fails. Fear and desperation replace the confidence of the florescence. The surviving inscriptions at Seibal and other late sites suggest attempts to restore legitimacy through foreign (Chontal Maya or central Mexican) ideological elements — a sign that indigenous confidence has broken.
+
 __Disaffection, Apathy & Spent Will:__ The emotional residue is total exhaustion. The will that built Tikal and Copan is spent. Survivors carry forward whatever they can; most carry nothing. The affective collapse is as complete as the demographic one.
+
 
 ## D06. Informational Domain
 

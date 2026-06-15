@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Family conflicts escalate through group chats; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ WhatsApp's intimacy creates high trust in forwarded content from family and friends, making users more credulous toward misinformation from known contacts than toward the same claims from impersonal sources.
-
 __Leadership & Personal Authority:__ Politicians cultivate direct relationships through WhatsApp supporter groups; church leaders maintain pastoral contact through messaging; influencers build parasocial connections through broadcast lists.
 
 __Legitimacy as Lived Allegiance:__ Campaign coordination through WhatsApp enables grassroots organizing that can bypass traditional party structures; Bolsonaro's 2018 campaign demonstrates the platform's power for building movement allegiance outside institutional channels.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Protest coordination occurs through Wha
 
 __External Relations & Posture:__ Diaspora communities maintain political engagement with home countries through WhatsApp; Venezuelan opposition coordination spans Miami, Bogota, and Caracas through encrypted channels that evade Maduro government surveillance.
 
+__Public Sentiment & Behavioral Temper:__ WhatsApp's intimacy creates high trust in forwarded content from family and friends, making users more credulous toward misinformation from known contacts than toward the same claims from impersonal sources.
+
 __Disaffection, Apathy & Spent Will:__ Information overload from constant group notifications produces fatigue; users mute and eventually leave groups as engagement enthusiasm wanes; political message saturation generates cynicism about all content.
+
 
 ## D06. Informational Domain
 

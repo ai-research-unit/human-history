@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Street fighting in Berlin (March 1848) and Vien
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Euphoria and revolutionary optimism characterize spring 1848; sentiment darkens through the summer as divisions emerge between liberal constitutionalists, radical democrats, and social revolutionaries; by 1849 resignation and disillusionment prevail among former revolutionaries.
-
 __Leadership & Personal Authority:__ No single charismatic leader dominates; the Frankfurt Parliament divides among liberals, democrats, and conservatives; Frederick William IV of Prussia ultimately refuses the imperial crown offered by the assembly, fatally undermining liberal hopes.
 
 __Legitimacy as Lived Allegiance:__ Monarchical legitimacy wavers in March 1848 but never fully collapses; rulers make tactical concessions while retaining ultimate authority; by 1850 legitimacy is restored on conservative terms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will fragments between co
 
 __External Relations & Posture:__ Prussia intervenes to suppress revolution in Baden and the Palatinate; Austria crushes the Hungarian revolt with Russian assistance; the revolutionary moment exposes German liberals' dependence on the very conservative powers they challenge.
 
+__Public Sentiment & Behavioral Temper:__ Euphoria and revolutionary optimism characterize spring 1848; sentiment darkens through the summer as divisions emerge between liberal constitutionalists, radical democrats, and social revolutionaries; by 1849 resignation and disillusionment prevail among former revolutionaries.
+
 __Disaffection, Apathy & Spent Will:__ By 1850 revolutionary enthusiasm is exhausted; disappointed liberals emigrate (the "Forty-Eighters") or accommodate to reaction; political apathy spreads among those who briefly hoped for transformation.
+
 
 ## D06. Informational Domain
 

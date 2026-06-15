@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence erupts: xenophobic terrorism
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood shifts from complacency to crisis; the appearance of Perry's "black ships" produces shock (kaigai shōgeki—"overseas shock"), while subsequent humiliations—unequal treaties, forced port openings, cholera epidemics—generate rage, fear, and millenarian expectations; printed broadsides and satirical images circulate these emotions.
-
 __Leadership & Personal Authority:__ Charismatic figures emerge: Yoshida Shoin, executed in 1859, becomes a martyred inspiration for Choshu radicals; Saigo Takamori's personal authority binds the Satsuma coalition; Sakamoto Ryoma brokers the Satsuma-Choshu alliance before his assassination; these leaders command loyalty through personal example rather than institutional position.
 
 __Legitimacy as Lived Allegiance:__ Shogunal legitimacy collapses when the bakufu cannot fulfill its foundational mandate to "expel the barbarians"; the imperial institution, dormant for centuries, is revived as an alternative source of legitimacy; sonno joi ("revere the emperor, expel the barbarians") provides the ideological formula that enables regime change.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Samurai factions in southwestern domain
 
 __External Relations & Posture:__ The inability to expel the foreigners defines the crisis; every Western demand granted—extraterritoriality, tariff limitations, port openings—erodes shogunal authority; the restoration coalition initially plans to abrogate the treaties but quickly recognizes that modernization must precede confrontation.
 
+__Public Sentiment & Behavioral Temper:__ The mood shifts from complacency to crisis; the appearance of Perry's "black ships" produces shock (kaigai shōgeki—"overseas shock"), while subsequent humiliations—unequal treaties, forced port openings, cholera epidemics—generate rage, fear, and millenarian expectations; printed broadsides and satirical images circulate these emotions.
+
 __Disaffection, Apathy & Spent Will:__ By the final years, the shogunate commands little loyalty beyond its core retainers; the last shogun, Tokugawa Yoshinobu, surrenders authority without decisive resistance, recognizing that his cause lacks the committed support necessary for civil war.
+
 
 ## D06. Informational Domain
 

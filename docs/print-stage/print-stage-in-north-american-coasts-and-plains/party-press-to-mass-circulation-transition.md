@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The transition displaces party editors lacking 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The party press addresses readers as political citizens to be instructed; mass-circulation addresses them as consumers to be entertained, excited, and gratified. Sensationalism—crime, scandal, disaster—exploits emotional response to drive circulation. The mass press both reflects and shapes public mood, creating shared emotional experiences through simultaneous reading of the same dramatic content.
-
 __Leadership & Personal Authority:__ Party press editors exercise authority as political figures—Horace Greeley as Whig/Republican spokesman, Francis Preston Blair as Jacksonian voice. Mass-circulation publishers exercise different authority: business power backed by audience reach. Pulitzer and Hearst command attention through circulation rather than political standing, though both seek political influence through their publishing empires.
 
 __Legitimacy as Lived Allegiance:__ Party press legitimacy derives from political faction allegiance; readers subscribe because the paper represents their political identity. Mass-circulation legitimacy derives from delivering value—news, entertainment, services—that readers pay for. The shift marks a transition from political to commercial allegiance as the basis of reader attachment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party press explicitly mobilizes po
 
 __External Relations & Posture:__ The party press exists within domestic political competition; mass-circulation newspapers develop international interests—foreign correspondents, overseas news services, positions on foreign policy—reflecting the expanded horizons of their commercial operations and reader interests.
 
+__Public Sentiment & Behavioral Temper:__ The party press addresses readers as political citizens to be instructed; mass-circulation addresses them as consumers to be entertained, excited, and gratified. Sensationalism—crime, scandal, disaster—exploits emotional response to drive circulation. The mass press both reflects and shapes public mood, creating shared emotional experiences through simultaneous reading of the same dramatic content.
+
 __Disaffection, Apathy & Spent Will:__ Reader cynicism about press accuracy and sensationalism accumulates; by the Progressive era, press credibility suffers from yellow journalism excesses. The gap between newspaper claims of public service and commercial pursuit of sensation generates public skepticism that persists. The disaffection manifests in calls for press reform, professional journalism standards, and criticism of press irresponsibility.
+
 
 ## D06. Informational Domain
 

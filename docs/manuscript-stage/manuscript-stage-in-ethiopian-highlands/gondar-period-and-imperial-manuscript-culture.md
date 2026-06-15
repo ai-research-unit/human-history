@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes generated periodic violence
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The early Gondar period enjoyed optimism following the Jesuit expulsion and restoration of Orthodox stability; theological controversies generated passionate engagement among clergy and laity; the later period saw growing anxiety as imperial authority weakened and factional conflict intensified.
-
 __Leadership & Personal Authority:__ Emperor Fasilides (r. 1632-1667) established Gondar with personal authority grounded in Orthodox restoration; subsequent rulers including Iyasu I (r. 1682-1706) exercised effective personal rule; later emperors increasingly served as pawns of powerful regents and factions, their personal authority hollowed by dependence on kingmakers.
 
 __Legitimacy as Lived Allegiance:__ The Solomonic dynasty retained theoretical legitimacy throughout, but lived allegiance fragmented as regional lords pursued autonomous power; theological disputes over Christology became proxies for factional competition, with each side claiming Orthodox legitimacy against rivals.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The early period showed collective will
 
 __External Relations & Posture:__ Ethiopia maintained diplomatic contacts with European powers, Egypt, and neighboring states while avoiding the entangling alliances that had brought Jesuit intervention; the posture was defensive and isolationist, preserving independence at the cost of technological and military stagnation relative to external powers.
 
+__Public Sentiment & Behavioral Temper:__ The early Gondar period enjoyed optimism following the Jesuit expulsion and restoration of Orthodox stability; theological controversies generated passionate engagement among clergy and laity; the later period saw growing anxiety as imperial authority weakened and factional conflict intensified.
+
 __Disaffection, Apathy & Spent Will:__ Theological exhaustion followed the intense Christological debates; popular disaffection grew as succession disputes produced violence and instability; the spent will of the late Gondar period made the transition to Zamana Masafent almost inevitable as no faction could muster the energy to impose lasting order.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through dominance di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline is presumed stable, oriented toward survival, social bonding, and reproduction; trust extends within the band to known individuals; stranger anxiety and predator vigilance maintain alertness.
-
 __Leadership & Personal Authority:__ Leadership is informal, accruing to individuals who demonstrate hunting success, physical dominance, or social centrality; authority is not heritable and must be continually reaffirmed through performance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and immediate, based on demonstrated reciprocity and kinship; no abstract authority claims legitimacy; compliance arises from social pressure and mutual benefit rather than ideology.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges in hunting, d
 
 __External Relations & Posture:__ Relations with other bands are likely cautious, ranging from avoidance to occasional interbreeding; hostility toward strangers is probable given competition for territory; no evidence of inter-group alliance or warfare exists.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline is presumed stable, oriented toward survival, social bonding, and reproduction; trust extends within the band to known individuals; stranger anxiety and predator vigilance maintain alertness.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as departure from the group rather than internal dissent; spent will is not a collective phenomenon at this scale; individual exhaustion or despair would result in abandonment or death.
+
 
 ## D06. Informational Domain
 

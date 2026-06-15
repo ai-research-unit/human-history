@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Jacobite risings (1715, 1745) are suppressed; u
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The post-1688 settlement generates confidence among the propertied; anti-Catholic sentiment and anti-French patriotism bind the nation. The gin craze (1720s–1750s) signals despair among the urban poor, provoking moral panic and print campaigns.
-
 __Leadership & Personal Authority:__ Walpole dominates politics (1721–1742) through patronage and press management; opposition writers (Bolingbroke, The Craftsman) attack him in print. Monarchs (Anne, the Georges) recede from direct rule; ministerial leadership commands allegiance.
 
 __Legitimacy as Lived Allegiance:__ The Hanoverian succession is contested by Jacobites but holds; legitimacy rests on parliamentary consent and Protestant establishment. Print circulates loyalty and dissent, but the propertied consensus sustains the regime.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ War mobilization against France demonst
 
 __External Relations & Posture:__ Britain emerges as a naval and commercial power; the Seven Years' War (1756–1763) secures imperial expansion. Print celebrates victories and mourns defeats, shaping public opinion on foreign policy.
 
+__Public Sentiment & Behavioral Temper:__ The post-1688 settlement generates confidence among the propertied; anti-Catholic sentiment and anti-French patriotism bind the nation. The gin craze (1720s–1750s) signals despair among the urban poor, provoking moral panic and print campaigns.
+
 __Disaffection, Apathy & Spent Will:__ Jacobite sentiment fades after Culloden (1746); urban poor express discontent through riot rather than organized politics. Print channels elite debate but leaves plebeian grievance inarticulate.
+
 
 ## D06. Informational Domain
 

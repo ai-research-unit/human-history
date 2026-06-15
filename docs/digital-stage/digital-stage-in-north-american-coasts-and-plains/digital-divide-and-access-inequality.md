@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The unconnected population experiences cumulati
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Frustration and resentment build among populations left behind by digitization — the sense of being forgotten, left out of modernity, unable to participate in the dominant mode of social and economic life; this sentiment feeds populist politics that reject coastal elite technology culture.
-
 __Leadership & Personal Authority:__ Political leaders occasionally champion rural broadband — the issue cuts across party lines — but sustained attention and funding remain insufficient; local champions who organize community broadband projects emerge but face incumbent opposition.
 
 __Legitimacy as Lived Allegiance:__ The perception that government has abandoned rural and poor communities to market forces that will never serve them erodes legitimacy; the gap between rhetoric about universal access and the reality of persistent exclusion breeds cynicism.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bipartisan infrastructure bills in 2021
 
 __External Relations & Posture:__ International comparisons — South Korea, Estonia, Scandinavian countries with near-universal high-speed access — highlight American underperformance; the perception that the nation that invented the internet cannot connect all its citizens damages national pride.
 
+__Public Sentiment & Behavioral Temper:__ Frustration and resentment build among populations left behind by digitization — the sense of being forgotten, left out of modernity, unable to participate in the dominant mode of social and economic life; this sentiment feeds populist politics that reject coastal elite technology culture.
+
 __Disaffection, Apathy & Spent Will:__ Repeated promises of rural broadband followed by inadequate delivery create apathy and disaffection; populations that have waited decades for connectivity lose faith that it will arrive; learned helplessness settles over communities that have given up on digital inclusion.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Internal factional disputes occasionally paraly
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Publishers ride waves of nationalist sentiment (1919, 1925, 1931–1945), producing responsive content; public enthusiasm for modern knowledge creates receptive markets.
-
 __Leadership & Personal Authority:__ Founders (Bao Tianxiao, Xia Ruifang, Zhang Yuanji) exercise personal authority; later professional managers and chief editors (Wang Yunwu) shape institutional direction; their reputations attract authors and readers.
 
 __Legitimacy as Lived Allegiance:__ Commercial Press acquires legitimacy as a national institution, its textbooks shaping generations; the 1932 bombing generates national mourning and rebuilding support.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Publishers navigate between GMD demands
 
 __External Relations & Posture:__ Shanghai publishers maintain international connections for translation rights, imported technology, and overseas Chinese markets; relations with Japanese publishers sour after 1931.
 
+__Public Sentiment & Behavioral Temper:__ Publishers ride waves of nationalist sentiment (1919, 1925, 1931–1945), producing responsive content; public enthusiasm for modern knowledge creates receptive markets.
+
 __Disaffection, Apathy & Spent Will:__ War exhausts publishers; GMD corruption and censorship alienate many editors; by 1949, private publishers lack will or capacity to resist nationalization.
+
 
 ## D06. Informational Domain
 

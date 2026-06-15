@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry and rural unrest are contained; the so
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Jewish communities carry collective trauma from the revolts and Bar Kokhba's catastrophic defeat; a mood of mourning and resilience pervades rabbinic literature; Christians oscillate between hope and fear of persecution; overall trust extends within religious communities but not across them.
-
 __Leadership & Personal Authority:__ The Nasi (patriarch) leads the Jewish community, culminating in Judah ha-Nasi who compiles the Mishnah (circa 200 CE); bishops like Origen in Caesarea command Christian intellectual allegiance; these figures concentrate authority through learning and personal sanctity.
 
 __Legitimacy as Lived Allegiance:__ Roman rule is accepted pragmatically; loyalty to the patriarch or bishop is fervent within each community; cross-communal allegiance to Rome is compliance rather than devotion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Neither Jewish nor Christian communitie
 
 __External Relations & Posture:__ The province is a loyal part of the empire; Jewish diaspora links (Babylonia, Rome) and Christian networks (Alexandria, Antioch) extend communal reach beyond provincial borders; no aggressive external posture.
 
+__Public Sentiment & Behavioral Temper:__ Jewish communities carry collective trauma from the revolts and Bar Kokhba's catastrophic defeat; a mood of mourning and resilience pervades rabbinic literature; Christians oscillate between hope and fear of persecution; overall trust extends within religious communities but not across them.
+
 __Disaffection, Apathy & Spent Will:__ Jewish will for political independence is exhausted after 135 CE; energy redirects into Torah study and legal codification; Christian communities, awaiting the eschaton, accept political quietism until Constantine.
+
 
 ## D06. Informational Domain
 

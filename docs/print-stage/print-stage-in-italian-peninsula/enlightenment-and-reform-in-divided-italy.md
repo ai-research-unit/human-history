@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage endemic in the south; urban crime ad
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism characterized reforming circles; the philosophes' faith in progress permeated correspondence and journals. Popular sentiment remained localized; attachment to dynasty, city, and parish rather than any Italian nation.
-
 __Leadership & Personal Authority:__ Enlightened despots commanded reformist allegiance: Leopold of Tuscany as the model prince, Charles III of Naples before his Spanish succession. Italian philosophes (Beccaria, Verri, Filangieri) achieved European reputation.
 
 __Legitimacy as Lived Allegiance:__ Dynastic legitimacy remained intact; reformers sought to improve rather than overthrow. Popular allegiance flowed to local rulers, Church, and traditional institutions. No revolutionary sentiment emerged before 1789.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reform proceeded from above; no mass mo
 
 __External Relations & Posture:__ Italian states functioned as objects rather than subjects of great-power diplomacy. Austrian and Spanish Bourbons competed for influence. Venice attempted neutrality but could not defend its Adriatic position.
 
+__Public Sentiment & Behavioral Temper:__ Optimism characterized reforming circles; the philosophes' faith in progress permeated correspondence and journals. Popular sentiment remained localized; attachment to dynasty, city, and parish rather than any Italian nation.
+
 __Disaffection, Apathy & Spent Will:__ Elite frustration with censorship and ecclesiastical obstruction found expression in correspondence and coded print. Popular discontent remained episodic and non-ideological; spent will accumulated where reform promised but failed to deliver.
+
 
 ## D06. Informational Domain
 

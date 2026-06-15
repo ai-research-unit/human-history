@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ As jamming proved ineffective and listening nor
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Foreign radio provided emotional relief: confirmation that private doubts about official versions were shared, that alternatives existed, that the Soviet system was not the only possibility. This validation sustained morale through decades of constraint.
-
 __Leadership & Personal Authority:__ Foreign broadcast personalities—Seva Novgorodtsev on BBC, hosts on Voice of America—became trusted voices, their credibility built through consistent truth-telling. Their authority was personal, independent of institutional power.
 
 __Legitimacy as Lived Allegiance:__ Each instance of Soviet media falsification confirmed by foreign correction eroded state credibility. The accumulation of proven lies transferred allegiance from official to foreign sources among regular listeners, though open acknowledgment remained dangerous.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Information from abroad sustained dissi
 
 __External Relations & Posture:__ Foreign broadcasting was explicit Cold War instrument, with funding justified as ideological combat. But content focused on information rather than exhortation, building credibility through restraint rather than propaganda mirroring.
 
+__Public Sentiment & Behavioral Temper:__ Foreign radio provided emotional relief: confirmation that private doubts about official versions were shared, that alternatives existed, that the Soviet system was not the only possibility. This validation sustained morale through decades of constraint.
+
 __Disaffection, Apathy & Spent Will:__ Foreign radio could inform but not organize; listeners remained atomized, their discontent unexpressed. The gap between knowing and acting produced its own frustration, potentially deepening rather than resolving disaffection.
+
 
 ## D06. Informational Domain
 

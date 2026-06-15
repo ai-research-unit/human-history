@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Shimabara Rebellion and its suppression eli
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Relief at prolonged peace pervades; the generation that knew warfare yields to those raised in stability; cautious acceptance of Tokugawa authority deepens into habituated deference; urban prosperity generates confidence in commercial centers.
-
 __Leadership & Personal Authority:__ The third shogun Iemitsu (r. 1623–1651) consolidates institutional authority inherited from Ieyasu; personal charisma matters less as bureaucratic routine prevails; domain lords exercise local authority under bakufu oversight.
 
 __Legitimacy as Lived Allegiance:__ Tokugawa legitimacy solidifies through demonstrated capacity to maintain peace; the imperial court's ceremonial endorsement continues; Buddhist and Shinto institutions support the order; active resistance is eliminated, leaving habituated compliance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The bakufu demonstrates sustained will 
 
 __External Relations & Posture:__ Sakoku policies (1633–1639 edicts) restrict foreign contact to Nagasaki (Dutch and Chinese) and Tsushima (Korea); Japanese travel abroad is prohibited; the red seal ship system ends; foreign books face import restrictions (relaxed later for non-Christian works); Japan withdraws from regional power competition.
 
+__Public Sentiment & Behavioral Temper:__ Relief at prolonged peace pervades; the generation that knew warfare yields to those raised in stability; cautious acceptance of Tokugawa authority deepens into habituated deference; urban prosperity generates confidence in commercial centers.
+
 __Disaffection, Apathy & Spent Will:__ The suppression of Christianity eliminates its adherents as active dissenters; surviving kakure kirishitan practice in secret; ronin resentment persists but lacks organizational capacity; the broader population experiences the peace as security rather than oppression.
+
 
 ## D06. Informational Domain
 

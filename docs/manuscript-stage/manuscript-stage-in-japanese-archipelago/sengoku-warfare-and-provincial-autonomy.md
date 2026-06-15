@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period was defined by endemic warfare, but 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Uncertainty pervaded all social levels; peasants faced unpredictable demands from competing lords; warriors lived by a code that glorified loyalty unto death while practicing calculated treachery; religious movements offering salvation attracted mass followings.
-
 __Leadership & Personal Authority:__ Charismatic warlords commanded intense personal loyalty; figures like Takeda Shingen, Uesugi Kenshin, and later Oda Nobunaga embodied martial virtues and strategic genius; leadership was proven in battle and administration alike.
 
 __Legitimacy as Lived Allegiance:__ The emperor retained symbolic sanctity but no practical power; the Ashikaga shogunate survived in attenuated form until 1573; real legitimacy derived from military success and effective governance; "the strong eat the weak" (gekokujo) was the operative principle.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Daimyo houses maintained collective ide
 
 __External Relations & Posture:__ Relations with Ming China remained officially suspended after the cessation of tally trade, but private commerce continued through intermediaries; Korean relations were limited; European contact from 1543 introduced new actors whose ultimate significance was not yet apparent.
 
+__Public Sentiment & Behavioral Temper:__ Uncertainty pervaded all social levels; peasants faced unpredictable demands from competing lords; warriors lived by a code that glorified loyalty unto death while practicing calculated treachery; religious movements offering salvation attracted mass followings.
+
 __Disaffection, Apathy & Spent Will:__ War weariness accumulated over generations; peasant uprisings (ikki) expressed both material grievance and spiritual desperation; the longing for peace and order would ultimately enable the reunification process.
+
 
 ## D06. Informational Domain
 

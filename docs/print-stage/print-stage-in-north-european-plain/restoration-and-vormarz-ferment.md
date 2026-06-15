@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Student unrest (Wartburg Festival 1817, assassi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Frustration accumulates among educated classes; liberalism and nationalism spread despite censorship. Working-class resentment grows but remains unfocused. General mood combines Biedermeier domesticity with underground ferment.
-
 __Leadership & Personal Authority:__ Metternich dominates German affairs as architect of repression. Prussian king Frederick William III cautiously conservative; Frederick William IV (from 1840) raises then disappoints liberal hopes. Intellectual leaders (Heine, Borne, Young Germany writers) articulate dissent from exile.
 
 __Legitimacy as Lived Allegiance:__ Restoration legitimacy rests on divine right and international concert. Popular legitimacy thin; consent manufactured through censorship and police control. National-liberal alternative legitimacy develops: sovereignty of the people, constitutional government.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Liberal and nationalist movements lack 
 
 __External Relations & Posture:__ Concert of Europe maintains peace. Austria and Prussia cooperate on repression, compete for German leadership. France (July Monarchy after 1830) represents liberal alternative. Britain distant.
 
+__Public Sentiment & Behavioral Temper:__ Frustration accumulates among educated classes; liberalism and nationalism spread despite censorship. Working-class resentment grows but remains unfocused. General mood combines Biedermeier domesticity with underground ferment.
+
 __Disaffection, Apathy & Spent Will:__ Biedermeier culture represents withdrawal from politics into private life. Underground politicization intensifies among students, artisans, and intellectuals. Accumulated disaffection erupts in 1830 (limited German repercussions) and builds toward 1848.
+
 
 ## D06. Informational Domain
 

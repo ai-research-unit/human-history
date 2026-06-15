@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political repression generates grievance that f
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Censorship breeds cynicism about authority and solidarity among the persecuted; the Carlsbad era creates a culture of whispered dissent and coded communication that survives even formal liberalization.
-
 __Leadership & Personal Authority:__ Persecuted authors like Heinrich Heine gain moral authority from exile; editors like Karl Marx at the Rheinische Zeitung become symbols of resistance whose personal fates mobilize supporters.
 
 __Legitimacy as Lived Allegiance:__ Censorship erodes monarchical legitimacy among the educated, who perceive it as arbitrary and obscurantist; the gap between constitutional promises of press freedom after 1848 and continued prosecution fuels cynicism about liberal rhetoric.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The 1848 revolutions demonstrate that a
 
 __External Relations & Posture:__ German censorship drives publication abroad, making Paris, Zurich, and London centers of German-language exile press; foreign publication returns across borders, embarrassing governments unable to seal their frontiers.
 
+__Public Sentiment & Behavioral Temper:__ Censorship breeds cynicism about authority and solidarity among the persecuted; the Carlsbad era creates a culture of whispered dissent and coded communication that survives even formal liberalization.
+
 __Disaffection, Apathy & Spent Will:__ Extended repression exhausts oppositional energy, producing the Biedermeier withdrawal into private life after 1819 and again after 1849; the legal press of the Wilhelmine era channels dissent into safer forms, but accumulated resentment feeds wartime collapse.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction emerges between the state's push for a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Popular reception ranges from indifference to suspicion. Users satisfied with Alipay and WeChat Pay see no compelling reason to switch; concerns about surveillance, though often muted, circulate on social media before censorship intervenes.
-
 __Leadership & Personal Authority:__ Xi Jinping's consolidation of power provides top-level backing for the project as part of his broader assertion of state authority over private capital, but no single leader becomes the public face of the digital yuan initiative.
 
 __Legitimacy as Lived Allegiance:__ The project draws legitimacy from nationalist framing — a sovereign alternative to dollar hegemony and a counter to US financial sanctions — though this resonates more with policy elites than with ordinary users focused on daily convenience.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrates sustained will t
 
 __External Relations & Posture:__ The digital yuan's international dimension positions it as a tool of de-dollarization, appealing to Belt and Road partners wary of US sanctions exposure; however, actual cross-border volumes remain negligible, and the currency's international ambitions exceed its current reach.
 
+__Public Sentiment & Behavioral Temper:__ Popular reception ranges from indifference to suspicion. Users satisfied with Alipay and WeChat Pay see no compelling reason to switch; concerns about surveillance, though often muted, circulate on social media before censorship intervenes.
+
 __Disaffection, Apathy & Spent Will:__ Apathy defines the public response: neither enthusiastic adoption nor active resistance, but a collective shrug from users who see no benefit over existing options. This indifference accumulates as a standing obstacle the state cannot easily overcome without compulsion it is reluctant to apply.
+
 
 ## D06. Informational Domain
 

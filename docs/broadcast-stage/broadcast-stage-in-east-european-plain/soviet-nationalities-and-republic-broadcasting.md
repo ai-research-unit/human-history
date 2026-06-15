@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ethnic tensions suppressed by Soviet controls e
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Republic populations harbored attachments to national identity that broadcast services simultaneously cultivated (in controlled form) and contained. Soviet patriotism overlay but did not extinguish national sentiment; the balance shifted decisively during glasnost.
-
 __Leadership & Personal Authority:__ Republic broadcasting created national celebrities whose authority derived partly from Moscow approval and partly from audience affection. Figures like Ukraine's Alla Pugacheva or Georgia's Vakhtang Kikabidze achieved cross-republic fame while embodying national styles.
 
 __Legitimacy as Lived Allegiance:__ Soviet legitimacy rested on the claim that the multinational state served all peoples; republic broadcasting was meant to demonstrate that claim. When performance failed (economic shortages, cultural suppression), the legitimacy deficit accumulated in national grievance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Nationalist movements of the late 1980s
 
 __External Relations & Posture:__ Republic broadcasting projected no independent foreign posture under Soviet rule. Post-Soviet, successor states developed international services (Ukraine's UATV, Lithuania's LRT World) to reach diasporas and counter Russian narratives.
 
+__Public Sentiment & Behavioral Temper:__ Republic populations harbored attachments to national identity that broadcast services simultaneously cultivated (in controlled form) and contained. Soviet patriotism overlay but did not extinguish national sentiment; the balance shifted decisively during glasnost.
+
 __Disaffection, Apathy & Spent Will:__ Late Soviet broadcasting generated profound cynicism as official optimism diverged from lived experience. Post-Soviet populations initially embraced new national channels, but oligarch capture and political manipulation produced fresh disaffection, visible in declining trust metrics by 2012.
+
 
 ## D06. Informational Domain
 

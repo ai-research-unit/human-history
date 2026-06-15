@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry increases in the countryside as desert
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The optimism and security of the Antonine period give way to anxiety, fatalism, and a shortened time horizon; trust in imperial institutions erodes with each usurpation and each broken promise; the public mood darkens, and the radius of trust contracts toward immediate family and local community.
-
 __Leadership & Personal Authority:__ Emperors rise and fall with bewildering speed—twenty-six claimants between 235 and 284 CE who achieved some recognition—and personal authority rarely outlasts a single campaign season; the charisma that once attached to the imperial office disperses as the office itself becomes a prize of faction rather than a source of stability.
 
 __Legitimacy as Lived Allegiance:__ The lived belief in Rome's right to rule persists but becomes abstract; subjects obey whoever holds local power, not from allegiance to the purple but from inability to resist; the reservoir of consent that had sustained the Principate drains, and compliance becomes a matter of coercion rather than consent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The imperial system lacks unified will;
 
 __External Relations & Posture:__ The empire shifts from expansion to defense; Germanic peoples press across the Rhine and Danube, Persians take Antioch and capture Emperor Valerian (260 CE), and the empire loses confidence in its ability to project power; the posture is reactive, attempting to hold what remains rather than extend reach.
 
+__Public Sentiment & Behavioral Temper:__ The optimism and security of the Antonine period give way to anxiety, fatalism, and a shortened time horizon; trust in imperial institutions erodes with each usurpation and each broken promise; the public mood darkens, and the radius of trust contracts toward immediate family and local community.
+
 __Disaffection, Apathy & Spent Will:__ The collapse of public confidence produces withdrawal from civic engagement; wealthy provincials evade public office to escape its financial burdens; the municipal spirit that had built Roman cities in the high empire is spent, and apathy replaces the civic ambition that once drove local elites to compete in building and benefaction.
+
 
 ## D06. Informational Domain
 

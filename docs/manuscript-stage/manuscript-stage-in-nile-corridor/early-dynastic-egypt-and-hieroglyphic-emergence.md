@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period is one of consolidation; disorder di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is one of order emerging from prior fragmentation. Trust in divine kingship provides psychological security; the king guarantees cosmic order (maat) against chaos. Interpersonal trust extends through kin and village networks.
-
 __Leadership & Personal Authority:__ The king (per-aa, "great house," later pharaoh) concentrates personal authority as living god. Royal charisma is institutional rather than individual; the office conveys divine power regardless of incumbent personality. High officials derive authority from royal appointment.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on the king's maintenance of maat—cosmic, social, and political order. Royal ideology presents the king as Horus incarnate, son of Re, responsible for flood, harvest, and protection. Allegiance is reinforced through ritual participation and material redistribution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Royal will drives state-building; the r
 
 __External Relations & Posture:__ Egypt projects power into Sinai (mining expeditions, punitive raids), Nubia (trading posts, occasional warfare), and the Levant (trade contacts). No peer competitors exist in the immediate region; external posture is expansive but not aggressively imperialist.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is one of order emerging from prior fragmentation. Trust in divine kingship provides psychological security; the king guarantees cosmic order (maat) against chaos. Interpersonal trust extends through kin and village networks.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection. The period ends with robust royal authority and elite confidence; exhaustion and disaffection characterize the subsequent era, not this one.
+
 
 ## D06. Informational Domain
 

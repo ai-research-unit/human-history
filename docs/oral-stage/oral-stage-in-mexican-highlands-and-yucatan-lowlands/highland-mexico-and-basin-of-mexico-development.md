@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was absorbed through feasting, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Village and emergent-center populations displayed confidence born of agricultural success and population growth. Trust extended through kin networks and alliance; distrust marked relations with distant or rival groups.
-
 __Leadership & Personal Authority:__ Chiefs derived authority from oratory, ritual knowledge, genealogical claims, and success in exchange and warfare. Leadership was personal and charismatic; succession passed within elite lineages but required validation by public acclaim.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to chiefs was grounded in reciprocity: leaders who provided feasting, mediation, and ritual protection commanded loyalty. Disaffection arose when reciprocity failed; followers could migrate or support rivals.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will was mobilized for platf
 
 __External Relations & Posture:__ Highland centers maintained exchange relations with Gulf Coast Olmec, Oaxacan polities, and Pacific coast populations. Relations were largely peaceful and commercial, though raiding occurred at margins. No evidence of military expansion or imperial ambition.
 
+__Public Sentiment & Behavioral Temper:__ Village and emergent-center populations displayed confidence born of agricultural success and population growth. Trust extended through kin networks and alliance; distrust marked relations with distant or rival groups.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection or apathy; the expanding population and rising ceremonialism suggest collective energy remained high. Spent will from failed projects or succession crises would have been absorbed by migration or factional realignment.
+
 
 ## D06. Informational Domain
 

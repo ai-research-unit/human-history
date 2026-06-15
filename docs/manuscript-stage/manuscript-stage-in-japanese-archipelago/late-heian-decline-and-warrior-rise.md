@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry on roads and piracy along coasts refle
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Aristocratic sensibility cultivates mono no aware—the pathos of impermanence—while warriors valorize loyalty, courage, and honor unto death; commoners endure with fatalistic piety.
-
 __Leadership & Personal Authority:__ Fujiwara regents and retired emperors command through ceremonial precedence and patronage; warrior chieftains (Taira Kiyomori, Minamoto Yoritomo) project personal charisma and military prowess.
 
 __Legitimacy as Lived Allegiance:__ The emperor remains the sacred source of legitimacy, but actual allegiance flows to whoever controls access to court rank and estate income; Taira Kiyomori's rise shows that military power can capture the legitimating apparatus.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The court's will to govern atrophies; w
 
 __External Relations & Posture:__ Japan remains largely insular; Song China is a cultural and commercial partner, not a military threat; the court ignores foreign affairs while warriors focus inward.
 
+__Public Sentiment & Behavioral Temper:__ Aristocratic sensibility cultivates mono no aware—the pathos of impermanence—while warriors valorize loyalty, courage, and honor unto death; commoners endure with fatalistic piety.
+
 __Disaffection, Apathy & Spent Will:__ Aristocratic ennui pervades court literature; the failure of the old order to defend itself leaves a residue of elegant despair, captured in the war tales that memorialize the fallen.
+
 
 ## D06. Informational Domain
 

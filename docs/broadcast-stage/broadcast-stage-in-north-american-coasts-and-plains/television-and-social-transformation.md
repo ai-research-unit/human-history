@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban riots (Watts 1965, Newark and Detroit 196
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National mood shifts from early-decade optimism through trauma and polarization; the assassinations of JFK (1963), Malcolm X (1965), MLK and RFK (1968) create collective grief experienced simultaneously through television, while coverage of racial violence and Vietnam combat produces anxiety and division.
-
 __Leadership & Personal Authority:__ Television transforms political leadership; Kennedy's telegenic presence establishes new standards, Johnson masters legislative television but struggles with Vietnam credibility, and civil rights leaders including King use the medium to build moral authority.
 
 __Legitimacy as Lived Allegiance:__ Institutional legitimacy erodes as television reveals gaps between official claims and visible reality; the credibility gap over Vietnam casualty reports and war progress, and the visibility of segregationist violence despite official commitment to equality, undermine trust in government statements.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Cold War consensus fractures; televisio
 
 __External Relations & Posture:__ Television shapes and reflects Cold War posture; coverage of the Berlin Wall (1961), Cuban Missile Crisis (1962), and Vietnam creates public understanding of geopolitical stakes, while images of combat complicate support for intervention.
 
+__Public Sentiment & Behavioral Temper:__ National mood shifts from early-decade optimism through trauma and polarization; the assassinations of JFK (1963), Malcolm X (1965), MLK and RFK (1968) create collective grief experienced simultaneously through television, while coverage of racial violence and Vietnam combat produces anxiety and division.
+
 __Disaffection, Apathy & Spent Will:__ By 1968, substantial portions of the public have lost faith in official optimism about Vietnam and domestic progress; television has contributed to this disillusionment by providing visual evidence contradicting official narratives, and the medium itself becomes a target of criticism from both left and right.
+
 
 ## D06. Informational Domain
 

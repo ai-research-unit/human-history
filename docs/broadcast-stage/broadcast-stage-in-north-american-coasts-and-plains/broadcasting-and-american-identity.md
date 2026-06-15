@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Broadcast's homogenizing effect suppresses regi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcast creates shared emotional experience: national mourning (JFK assassination), collective triumph (moon landing), shared anxiety (9/11); commercial model favors optimistic, consumption-friendly mood; news broadcasting introduces fear and anxiety as programming strategy (1980s–2000s).
-
 __Leadership & Personal Authority:__ Broadcast creates national figures: FDR's voice becomes familiar through fireside chats; Kennedy's image dominates television; Reagan masters television communication; newscasters (Cronkite, Brokaw, Jennings, Rather) achieve trusted status transcending networks.
 
 __Legitimacy as Lived Allegiance:__ Television confers legitimacy through visibility; political candidates require television presence; incumbents benefit from coverage; third parties marginalized by exclusion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcast mobilizes public will: World 
 
 __External Relations & Posture:__ Broadcast projects American power abroad through entertainment exports; Voice of America and Radio Free Europe extend reach; domestic programming depicts America favorably in global context; foreign coverage limited and often stereotypical.
 
+__Public Sentiment & Behavioral Temper:__ Broadcast creates shared emotional experience: national mourning (JFK assassination), collective triumph (moon landing), shared anxiety (9/11); commercial model favors optimistic, consumption-friendly mood; news broadcasting introduces fear and anxiety as programming strategy (1980s–2000s).
+
 __Disaffection, Apathy & Spent Will:__ Declining voter turnout correlates with television era; civic engagement decreases as television viewing increases (Putnam thesis); by 2005, polarization between red and blue Americas reflects fragmented media consumption.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Developer burnout, visa restrictions blocking U
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National pride attaches to AI achievements; the public views technological competition with the US through a patriotic lens. Anxiety rises among tech workers facing job insecurity after 2021 crackdowns.
-
 __Leadership & Personal Authority:__ Xi Jinping personally champions AI as a strategic priority. Tech founders like Robin Li (Baidu) and Ren Zhengfei (Huawei) serve as national figures, though subordinate to party authority.
 
 __Legitimacy as Lived Allegiance:__ AI success reinforces regime legitimacy by demonstrating China's capacity to rival Western powers. Setbacks (chip shortages, export controls) threaten this narrative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state commits substantial political
 
 __External Relations & Posture:__ US-China AI competition defines external posture. Both sides frame AI as decisive for future hegemony. China courts Global South countries with surveillance exports (Huawei Safe City projects) while facing technology denial from the US and allies.
 
+__Public Sentiment & Behavioral Temper:__ National pride attaches to AI achievements; the public views technological competition with the US through a patriotic lens. Anxiety rises among tech workers facing job insecurity after 2021 crackdowns.
+
 __Disaffection, Apathy & Spent Will:__ Tech worker disillusionment grows after layoffs and crackdowns. The "lying flat" (tangping) counter-narrative reflects broader exhaustion, though it remains politically marginal among AI professionals.
+
 
 ## D06. Informational Domain
 

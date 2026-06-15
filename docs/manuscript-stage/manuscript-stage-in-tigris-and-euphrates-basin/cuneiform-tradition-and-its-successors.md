@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ When institutions collapse—Ur III, Nineveh, A
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Literacy confers status and shapes sentiment—scribal pride is evident in colophons; the illiterate majority experiences the written as authoritative and somewhat magical.
-
 __Leadership & Personal Authority:__ Rulers depend on scribes to project authority in writing—royal inscriptions, law codes, letters—while scribes depend on rulers for patronage; mutual dependence shapes both.
 
 __Legitimacy as Lived Allegiance:__ Written law codes (Ur-Nammu, Hammurabi, later caliphal decrees) claim to manifest justice and legitimize rule; the document becomes a legitimation device.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to maintain archives reflects 
 
 __External Relations & Posture:__ Diplomatic correspondence—Amarna letters, later chancery archives—enables relations beyond war; writing is the medium of international system.
 
+__Public Sentiment & Behavioral Temper:__ Literacy confers status and shapes sentiment—scribal pride is evident in colophons; the illiterate majority experiences the written as authoritative and somewhat magical.
+
 __Disaffection, Apathy & Spent Will:__ When patronage fails, scribes seek employment elsewhere or abandon the craft; the tradition's continuity is fragile, dependent on sustained will to fund it.
+
 
 ## D06. Informational Domain
 

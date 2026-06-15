@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Press freedom violations—journalist killings,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcasting shapes public mood through news framing and entertainment content. Economic crises (1980s debt crisis, 2001 Argentine collapse) create anxiety channeled through broadcast coverage. National triumphs (World Cups, Olympic hosting) generate collective euphoria mediated through television. Telenovela narratives provide emotional processing of social change.
-
 __Leadership & Personal Authority:__ Broadcasting amplifies or diminishes political charisma. Perón masters radio; later leaders must command television presence. Chávez's Aló Presidente creates new model of direct communication; Lula's media skill proves decisive in Brazilian politics. Berlusconi-style media-owning politicians emerge (TV Azteca's Salinas Pliego's political ambitions).
 
 __Legitimacy as Lived Allegiance:__ Broadcast coverage legitimates regimes—Globo's support for Brazilian military government, Televisa's symbiosis with PRI. Democratic transitions require negotiated broadcaster realignment. Pink Tide governments contest private media legitimacy while private media questions government legitimacy, creating polarized information environments.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcasting shapes collective will—D
 
 __External Relations & Posture:__ Broadcast content exports project soft power—telenovela diplomacy creates cultural influence across Latin America and globally. Telesur (2005) represents Pink Tide effort to create alternative regional information architecture. US broadcasters (CNN en Español, Univision) compete with regional networks for continental audience.
 
+__Public Sentiment & Behavioral Temper:__ Broadcasting shapes public mood through news framing and entertainment content. Economic crises (1980s debt crisis, 2001 Argentine collapse) create anxiety channeled through broadcast coverage. National triumphs (World Cups, Olympic hosting) generate collective euphoria mediated through television. Telenovela narratives provide emotional processing of social change.
+
 __Disaffection, Apathy & Spent Will:__ Political advertising saturation generates cynicism. Trust in media declines as polarization increases—private media distrusted by left, state media distrusted by right. Youth disengagement from broadcast news accelerates as digital alternatives emerge. Credibility collapse of both state and private media in Venezuela represents extreme case.
+
 
 ## D06. Informational Domain
 

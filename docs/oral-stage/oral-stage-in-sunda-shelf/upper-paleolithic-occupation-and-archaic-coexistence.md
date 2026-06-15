@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is managed through mobility and
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust is high within the band, wary toward strangers and unknown groups; baseline mood varies with resource availability and interpersonal relations; the presence of archaic hominins in the region may introduce fear or curiosity, but evidence is absent.
-
 __Leadership & Personal Authority:__ Leadership remains personal and situational; individuals with demonstrated competence attract followers for specific tasks; no permanent chieftaincy; authority dissipates when the task ends.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy inheres in demonstrated competence and adherence to group norms; allegiance is to kin and band, not to office or title; no abstract authority to obey.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action arises through consen
 
 __External Relations & Posture:__ Relations with other Homo sapiens bands are mediated through kinship; relations with archaic hominins remain unknown—the Denisovan admixture signal indicates contact, but whether this was peaceful, coerced, or violent cannot be determined; no organized warfare; territorial conflicts likely involve avoidance rather than combat.
 
+__Public Sentiment & Behavioral Temper:__ Trust is high within the band, wary toward strangers and unknown groups; baseline mood varies with resource availability and interpersonal relations; the presence of archaic hominins in the region may introduce fear or curiosity, but evidence is absent.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is expressed through departure from the band; apathy is rare given the necessity of active participation for survival; spent will manifests as individual withdrawal.
+
 
 ## D06. Informational Domain
 

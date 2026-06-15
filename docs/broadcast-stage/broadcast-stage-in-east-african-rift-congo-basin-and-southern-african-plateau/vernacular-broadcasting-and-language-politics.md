@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The residue of language politics is linguistic 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Vernacular broadcasting carries emotional resonance that colonial languages cannot match; mother-tongue communication reaches deeper into affect, making vernacular radio both more persuasive and more dangerous in its emotional mobilization capacity.
-
 __Leadership & Personal Authority:__ Political leaders deploy vernacular strategically; Kenyatta's Kikuyu addresses, Nyerere's elevation of Swahili, Mandela's use of African languages alongside English and Afrikaans—all represent leadership decisions about linguistic identity and reach.
 
 __Legitimacy as Lived Allegiance:__ State legitimacy partly depends on linguistic recognition; populations whose languages are absent from broadcasting experience the state as alien, while vernacular services signal inclusion and respect.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Vernacular broadcasting mobilizes ethni
 
 __External Relations & Posture:__ Cross-border vernacular broadcasting (Swahili across East Africa, Shona/Ndebele across Zimbabwe-South Africa border) creates transnational linguistic publics that complicate national frameworks; external services (VOA, BBC, RFI) provide vernacular content that escapes national control.
 
+__Public Sentiment & Behavioral Temper:__ Vernacular broadcasting carries emotional resonance that colonial languages cannot match; mother-tongue communication reaches deeper into affect, making vernacular radio both more persuasive and more dangerous in its emotional mobilization capacity.
+
 __Disaffection, Apathy & Spent Will:__ Linguistic marginalization produces disaffection; communities whose languages are unserved or underserved feel excluded from national life, while the emotional labor of consuming content in non-native languages exhausts participation capacity.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuding persists but is increasingly channeled 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Piety intensifies — the Cistercian movement expresses a hunger for austere, authentic spirituality; crusading zeal spreads; trust remains localized within kin, lordship, and monastic networks.
-
 __Leadership & Personal Authority:__ Bernard of Clairvaux (d. 1153) dominates spiritual and political life through personal charisma and voluminous correspondence; Lothair III and Conrad III exercise more limited secular authority; episcopal leaders regain influence after the Investiture settlement.
 
 __Legitimacy as Lived Allegiance:__ The Concordat restores a measure of imperial legitimacy by ending the worst papal-imperial conflict; Cistercian expansion carries its own legitimacy through perceived holiness and economic success; allegiance stabilizes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Second Crusade (1147) demonstrates 
 
 __External Relations & Posture:__ The empire maintains claims over Poland, Bohemia, and Hungary; relations with France are competitive; the papacy is now a co-equal rather than subordinate partner; crusading directs energy outward.
 
+__Public Sentiment & Behavioral Temper:__ Piety intensifies — the Cistercian movement expresses a hunger for austere, authentic spirituality; crusading zeal spreads; trust remains localized within kin, lordship, and monastic networks.
+
 __Disaffection, Apathy & Spent Will:__ Crusade failures generate some disillusionment; the Investiture settlement leaves unresolved grievances; clergy dissatisfied with secular entanglement join reform movements; spent will is channeled into monastic withdrawal and renewed reform.
+
 
 ## D06. Informational Domain
 

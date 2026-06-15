@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises recur; qizilbash factionalism
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shi'i piety generates fervent devotion, especially during Muharram commemorations; public sentiment is confident under Shah Abbas I, anxious under late Safavid decline; the radius of trust extends within confessional and patronage networks.
-
 __Leadership & Personal Authority:__ Shah Abbas I (r. 1588–1629) exemplifies charismatic authority, personally directing military campaigns and urban development; later shahs are weaker, confined to the harem, and lack personal authority; leadership decays across the period.
 
 __Legitimacy as Lived Allegiance:__ Safavid legitimacy rests on descent from the Seventh Imam, championship of Twelver Shi'ism, and martial success; allegiance is strong in the 16th-early 17th centuries, eroding as military defeats and fiscal exactions accumulate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to govern is strong under Abba
 
 __External Relations & Posture:__ Ottoman rivalry defines western policy, with repeated wars over Mesopotamia and the Caucasus; Uzbek pressure persists in the east; Mughal relations are mostly peaceful; European powers are courted for trade and military technology; the posture shifts from expansion to defense over the period.
 
+__Public Sentiment & Behavioral Temper:__ Shi'i piety generates fervent devotion, especially during Muharram commemorations; public sentiment is confident under Shah Abbas I, anxious under late Safavid decline; the radius of trust extends within confessional and patronage networks.
+
 __Disaffection, Apathy & Spent Will:__ By the late period, elite factionalism, harem politics, and fiscal strain exhaust collective will; the population is apathetic rather than mobilized; the dynasty ends in collapse rather than defiance.
+
 
 ## D06. Informational Domain
 

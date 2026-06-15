@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Communal riots (Malabar, Kohat, Calcutta) punct
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-Jallianwala Bagh outrage fuses with Khilafat grievance to produce unprecedented mobilization; public mood shifts from petition to confrontation. Gandhi's call for self-suffering (satyagraha) channels anger into disciplined nonviolence—though violence recurs and prompts his suspensions.
-
 __Leadership & Personal Authority:__ Gandhi's personal authority rests on asceticism, journalism, and symbolic acts (fasts, marches). He commands Congress from outside formal office; his editorials in Young India and Navajivan set the movement's tone. Tilak's death (1920) removes an alternative pole; Nehru, Patel, Rajagopalachari, and others emerge as lieutenants.
 
 __Legitimacy as Lived Allegiance:__ Colonial legitimacy erodes among the urban middle class and literate peasants; Jallianwala Bagh is the hinge. Congress emerges as parallel claimant to loyalty; the spinning wheel (charkha) becomes emblem of allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Non-Cooperation (1920–1922) demonstra
 
 __External Relations & Posture:__ India remains subordinate in empire; Gandhi's rhetoric frames struggle in universal moral terms. Khilafat links Indian Muslims to global Islamic politics, but the movement collapses when Turkey abolishes the caliphate (1924).
 
+__Public Sentiment & Behavioral Temper:__ Post-Jallianwala Bagh outrage fuses with Khilafat grievance to produce unprecedented mobilization; public mood shifts from petition to confrontation. Gandhi's call for self-suffering (satyagraha) channels anger into disciplined nonviolence—though violence recurs and prompts his suspensions.
+
 __Disaffection, Apathy & Spent Will:__ Post-1922 suspension produces disillusionment among radicals; revolutionary terrorism (Bhagat Singh, Hindustan Socialist Republican Association) emerges as an alternative. Hindu-Muslim estrangement after Khilafat leaves communal bitterness unresolved.
+
 
 ## D06. Informational Domain
 

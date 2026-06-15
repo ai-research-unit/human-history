@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Great Migration is itself a cascade of diso
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror dominates Roman and Persian responses to the Huns. Hunnic confidence is high under Attila; morale collapses after his death. Subject peoples oscillate between fear, opportunism, and revolt.
-
 __Leadership & Personal Authority:__ Attila concentrates authority through personal charisma, ruthlessness, and success in war. Roman sources describe him as austere, cunning, and terrifying. His authority is entirely personal; no institutional framework survives him.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to Attila is personal, sustained by redistribution, fear, and the aura of invincibility. The moment he dies, allegiance fractures; his sons lack his prestige and cannot hold the confederation together.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Hunnic will is unified under Attila; he
 
 __External Relations & Posture:__ Aggressive expansion dominates: raids into Gaul (451 CE) and Italy (452 CE), pressure on Persia's Caucasian flank. Diplomacy is coercive—tribute or devastation. The Battle of the Catalaunian Plains (451 CE) marks the limit of Hunnic expansion; a coalition under Aetius checks Attila but does not destroy him.
 
+__Public Sentiment & Behavioral Temper:__ Terror dominates Roman and Persian responses to the Huns. Hunnic confidence is high under Attila; morale collapses after his death. Subject peoples oscillate between fear, opportunism, and revolt.
+
 __Disaffection, Apathy & Spent Will:__ After Attila's death, subject peoples revolt (Battle of Nedao, 454 CE; Gepids and Ostrogoths defeat the Huns). Hunnic will is spent; survivors scatter eastward or are absorbed into successor populations. The empire evaporates within a generation.
+
 
 ## D06. Informational Domain
 

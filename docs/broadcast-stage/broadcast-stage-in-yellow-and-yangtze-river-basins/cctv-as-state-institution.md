@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Internal factional competition produces periodi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ CCTV programming both reflects and shapes public mood, with disaster coverage generating collective grief and Olympic coverage producing collective pride; the network functions as emotional regulator, dampening panic and amplifying approved sentiments.
-
 __Leadership & Personal Authority:__ Network leadership maintains low public profiles; on-air personalities achieve recognition without comparable authority; the institution speaks with the party's voice rather than individual authority.
 
 __Legitimacy as Lived Allegiance:__ CCTV's legitimacy derives from its identification with the party-state rather than independent credibility; audiences distinguish between entertainment and news functions, extending greater trust to the former; the mandatory 7 PM news slot ensures exposure without ensuring belief.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ CCTV mobilizes for major political camp
 
 __External Relations & Posture:__ CCTV International and subsequent CGTN expansions project China's message abroad; English, Spanish, French, Arabic, and Russian services target global audiences; the network's international posture shifts from defensive to assertive across the period.
 
+__Public Sentiment & Behavioral Temper:__ CCTV programming both reflects and shapes public mood, with disaster coverage generating collective grief and Olympic coverage producing collective pride; the network functions as emotional regulator, dampening panic and amplifying approved sentiments.
+
 __Disaffection, Apathy & Spent Will:__ Audience cynicism toward news programming coexists with entertainment consumption; younger staff express private frustration with institutional constraints; the gap between official discourse and private belief widens without producing open dissent.
+
 
 ## D06. Informational Domain
 

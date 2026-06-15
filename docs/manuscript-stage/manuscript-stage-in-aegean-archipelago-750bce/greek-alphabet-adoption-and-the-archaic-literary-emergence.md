@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Vendetta, piracy, and local raiding are endemic
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Competitive honor (time), shame, and the pursuit of glory (kleos) structure public sentiment; interpersonal trust extends through kin and guest-friendship (xenia) but not beyond; the mood is expansionary, with colonization and trade opening horizons.
-
 __Leadership & Personal Authority:__ Aristocratic leaders (basileis) command through lineage, wealth, martial prowess, and rhetorical skill; personal charisma and reputation concentrate allegiance; no institutional office yet regularizes succession.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ancestral custom, divine sanction, and demonstrated success; allegiance is personal and conditional; challenges to authority are frequent, and factional rivalry is endemic.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic, mobilize
 
 __External Relations & Posture:__ Greek settlements interact with Phoenician, Lydian, and Egyptian powers; trade, guest-friendship, and occasional conflict mark external relations; colonization extends Greek presence across the Mediterranean but without coordinated imperial ambition.
 
+__Public Sentiment & Behavioral Temper:__ Competitive honor (time), shame, and the pursuit of glory (kleos) structure public sentiment; interpersonal trust extends through kin and guest-friendship (xenia) but not beyond; the mood is expansionary, with colonization and trade opening horizons.
+
 __Disaffection, Apathy & Spent Will:__ The period is expansionary, and disaffection is localized to those excluded from aristocratic competition; apathy is not a systemic condition; spent will does not yet accumulate as a residue.
+
 
 ## D06. Informational Domain
 

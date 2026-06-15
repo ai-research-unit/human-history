@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Abandonment of base camps represents the discha
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety and uncertainty pervade the surviving groups; oral memory of Early Natufian abundance ("the time when cereals filled the stores") sharpens the sense of loss; trust remains high within kin groups but darkens regarding external conditions.
-
 __Leadership & Personal Authority:__ Big-men or senior elders lead by reputation and wisdom; no office formalizes authority; the leaders who guide dispersal or counsel persistence earn allegiance through competence, not inheritance—charisma fluctuates with results.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy attaches to kin seniority and demonstrated skill; no ideological apparatus legitimates rule; allegiance is personal and revocable; disaffection expresses itself through fission rather than rebellion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve is tested by the nee
 
 __External Relations & Posture:__ Inter-band relations remain cooperative-competitive; no external power threatens the Levant; the posture is defensive only against environmental stress, not rival polities; expansion appetite is nil—survival dominates.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety and uncertainty pervade the surviving groups; oral memory of Early Natufian abundance ("the time when cereals filled the stores") sharpens the sense of loss; trust remains high within kin groups but darkens regarding external conditions.
+
 __Disaffection, Apathy & Spent Will:__ The abandonment of cemeteries and monuments signals not apathy but pragmatic retreat; spent will manifests as resignation to mobility rather than active despair; the affective residue is melancholy for lost sedentism, partially re-anchored by stories of return.
+
 
 ## D06. Informational Domain
 

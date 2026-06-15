@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Algorithmic errors and biases produce documente
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ European publics exhibit higher AI skepticism than American counterparts; surveys show concern about job displacement, privacy erosion, and autonomous systems, creating political support for regulatory intervention.
-
 __Leadership & Personal Authority:__ Key figures shape European AI policy: Margrethe Vestager (competition), Thierry Breton (internal market), and academic voices (Luciano Floridi, Joanna Bryson) influence the regulatory philosophy emphasizing human-centric AI.
 
 __Legitimacy as Lived Allegiance:__ The EU positions itself as protector of citizens against unaccountable AI systems, drawing legitimacy from regulatory assertion; this framing resonates with publics suspicious of American tech power.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Member states coordinate through EU ins
 
 __External Relations & Posture:__ Europe positions itself between American innovation-first and Chinese state-directed approaches, asserting regulatory leadership as its comparative advantage; the AI Act explicitly aims for global standard-setting influence.
 
+__Public Sentiment & Behavioral Temper:__ European publics exhibit higher AI skepticism than American counterparts; surveys show concern about job displacement, privacy erosion, and autonomous systems, creating political support for regulatory intervention.
+
 __Disaffection, Apathy & Spent Will:__ Frustration grows among European AI researchers and entrepreneurs at regulatory burden and funding gaps; some talent and startups relocate to American or Asian hubs, though the scale remains modest.
+
 
 ## D06. Informational Domain
 

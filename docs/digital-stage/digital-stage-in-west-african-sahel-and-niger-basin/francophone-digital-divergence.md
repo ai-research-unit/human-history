@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Security vacuums in rural areas allow jihadist 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anti-French sentiment intensifies across the francophone Sahel, fueled by social media mobilization and Russian information operations. Youth populations express frustration with economic stagnation and political dysfunction. Coup announcements receive street celebrations in capitals.
-
 __Leadership & Personal Authority:__ Military leaders — Goïta (Mali), Traoré (Burkina Faso), Tiani (Niger) — cultivate populist legitimacy through anti-colonial rhetoric and social media presence. Wagner and Russian state media amplify their messaging.
 
 __Legitimacy as Lived Allegiance:__ Juntas draw legitimacy from anti-French sentiment and promises of security, but this reservoir depletes as security conditions fail to improve and economic hardship deepens under sanctions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Military governments demonstrate will t
 
 __External Relations & Posture:__ Mali, Burkina Faso, and Niger form the Alliance of Sahel States (2023) and announce ECOWAS withdrawal (2024), reorienting toward Russia and away from the Franco-West African order that structured post-colonial relations.
 
+__Public Sentiment & Behavioral Temper:__ Anti-French sentiment intensifies across the francophone Sahel, fueled by social media mobilization and Russian information operations. Youth populations express frustration with economic stagnation and political dysfunction. Coup announcements receive street celebrations in capitals.
+
 __Disaffection, Apathy & Spent Will:__ Where initial coup enthusiasm fades, disaffection accumulates among populations experiencing continued insecurity and economic decline. Apathy coexists with episodic protest.
+
 
 ## D06. Informational Domain
 

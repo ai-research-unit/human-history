@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Pazzi conspiracy (1478) and Lorenzo's survi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood shifted from Laurentian confidence to apocalyptic anxiety after 1494; Savonarola's preaching channeled spiritual fervor and social discontent; the French invasion shattered the illusion of Italian invulnerability; trust contracted within faction and family.
-
 __Leadership & Personal Authority:__ Lorenzo de' Medici (d. 1492) embodied princely magnificence and cultural patronage; Savonarola commanded prophetic authority until his fall; no single figure dominated after 1498; leadership fragmented amid invasion and crisis.
 
 __Legitimacy as Lived Allegiance:__ Medici legitimacy rested on patronage and manipulation until 1494; Savonarola claimed divine sanction; the restored republic (1494–1512) sought legitimacy in communal tradition; papal authority, consolidated under Alexander VI (1492–1503), was morally compromised but institutionally potent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to resist foreign invasion pro
 
 __External Relations & Posture:__ The Italian Wars drew in France, Spain, the Empire, and the papacy in shifting alliances; Italian states became pawns in transalpine rivalries; the peninsula shifted from an autonomous political arena to a theater of great-power competition.
 
+__Public Sentiment & Behavioral Temper:__ The mood shifted from Laurentian confidence to apocalyptic anxiety after 1494; Savonarola's preaching channeled spiritual fervor and social discontent; the French invasion shattered the illusion of Italian invulnerability; trust contracted within faction and family.
+
 __Disaffection, Apathy & Spent Will:__ Savonarola's movement channeled popular disaffection; his execution (1498) discharged but did not resolve underlying tensions; the trauma of invasion and occupation generated despair in some quarters, pragmatic accommodation in others.
+
 
 ## D06. Informational Domain
 

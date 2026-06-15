@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Frontier violence diminishes as conquest stabil
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Triumphalism follows reconquest victories; court culture reaches high refinement under Alfonso X; religious devotion intensifies through confraternities and pilgrimage; anti-Jewish sentiment increases, especially during economic stress; mudejar communities experience growing insecurity; plague arrival produces panic, scapegoating, and social breakdown.
-
 __Leadership & Personal Authority:__ Alfonso X of Castile ("el Sabio") exemplifies learned kingship, sponsoring translation, law codes, and vernacular literature despite political failures; Jaume I of Aragon leads Mediterranean expansion; strong monarchs alternate with weak ones and disputed successions; episcopal and abbatial leadership guides ecclesiastical communities.
 
 __Legitimacy as Lived Allegiance:__ Monarchical legitimacy rests on lineage, divine sanction, and law; Alfonso X's claim to Holy Roman Empire demonstrates expansive legitimacy aspirations; noble challenges to royal authority recur; ecclesiastical authority derives from papal sanction and sacramental power; Granada's Nasrid dynasty maintains legitimacy through cultural patronage and jihad rhetoric.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Sustained will for reconquest completio
 
 __External Relations & Posture:__ Castile claims Mediterranean and European roles; Aragon builds Mediterranean empire through conquest and diplomacy; Portugal develops Atlantic orientation; all kingdoms maintain papal relationships; Granada cultivates North African and Egyptian ties; commercial relations with Italian city-states, Flanders, and France intensify.
 
+__Public Sentiment & Behavioral Temper:__ Triumphalism follows reconquest victories; court culture reaches high refinement under Alfonso X; religious devotion intensifies through confraternities and pilgrimage; anti-Jewish sentiment increases, especially during economic stress; mudejar communities experience growing insecurity; plague arrival produces panic, scapegoating, and social breakdown.
+
 __Disaffection, Apathy & Spent Will:__ Noble factionalism indicates elite disaffection with royal authority; minority communities experience increasing marginalization; frontier populations settle into post-conquest routines; plague arrival induces despair and social breakdown; the period ends in crisis of collective will.
+
 
 ## D06. Informational Domain
 

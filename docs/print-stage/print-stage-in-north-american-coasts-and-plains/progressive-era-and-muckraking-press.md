@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban crime, vice districts, and political mach
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of reformist optimism pervades middle-class America, the belief that exposure through print can catalyze correction; anxiety about immigration, urban disorder, and corporate power coexists with confidence in progress and American exceptionalism.
-
 __Leadership & Personal Authority:__ Theodore Roosevelt dominates the political landscape, his personality amplified by sympathetic press coverage even as he coins "muckraker" (1906) to limit investigative excess; Woodrow Wilson represents professorial reform; charismatic reformers (Jane Addams, Robert La Follette) command devoted followings.
 
 __Legitimacy as Lived Allegiance:__ Faith in democratic institutions remains robust among native-born citizens, strained by corporate influence over legislatures that muckrakers expose; immigrant populations remain partially outside this consensus, oriented toward ethnic communities and homeland politics.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Progressive coalition mobilizes for
 
 __External Relations & Posture:__ Expansionist confidence following the Spanish-American War; Roosevelt's "big stick" diplomacy; entry into World War I (April 1917) closes the period with nationalist mobilization, press becoming instrument of war sentiment.
 
+__Public Sentiment & Behavioral Temper:__ A mood of reformist optimism pervades middle-class America, the belief that exposure through print can catalyze correction; anxiety about immigration, urban disorder, and corporate power coexists with confidence in progress and American exceptionalism.
+
 __Disaffection, Apathy & Spent Will:__ Socialist and anarchist movements channel working-class disaffection; IWW radicalism alarms middle-class reformers; racial violence and Jim Crow exclude African Americans from the Progressive consensus; by 1917, wartime nationalism suppresses dissent.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Industry scandals (quiz show rigging, accountin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Commercial television cultivates optimistic consumer sentiment through advertising and aspirational programming during high-growth era; post-bubble mood shifts toward nostalgia and anxiety, reflected in programming choices and reduced advertising expenditure.
-
 __Leadership & Personal Authority:__ Network founders and executives (Matsutaro Shoriki at NTV, Shigeo Mizuno at Fuji TV) shape early institutional cultures; post-founder generations manage routinized operations without comparable personal authority; on-screen tarento accumulate parasocial influence exceeding formal institutional power.
 
 __Legitimacy as Lived Allegiance:__ Commercial broadcasting legitimacy rests on entertainment value and information utility rather than institutional prestige; audience loyalty attaches to specific programs and personalities rather than network brands, creating fluid competitive dynamics.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Industry coordination through Minpo-ren
 
 __External Relations & Posture:__ Limited international ambition; program export remains marginal until anime globalizes in the 1990s-2000s; American program imports decline after initial postwar period as domestic production capacity matures.
 
+__Public Sentiment & Behavioral Temper:__ Commercial television cultivates optimistic consumer sentiment through advertising and aspirational programming during high-growth era; post-bubble mood shifts toward nostalgia and anxiety, reflected in programming choices and reduced advertising expenditure.
+
 __Disaffection, Apathy & Spent Will:__ Audience fragmentation beginning in cable/satellite era erodes mass viewership; younger cohorts develop media habits outside broadcast television, creating generational disaffection with the commercial broadcast model itself.
+
 
 ## D06. Informational Domain
 

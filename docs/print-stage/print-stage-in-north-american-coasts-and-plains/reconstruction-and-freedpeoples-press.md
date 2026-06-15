@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence is endemic: the Memphis mass
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Black public experiences Reconstruction as a moment of millennial hope — the "Jubilee" — followed by growing apprehension as violence mounts and federal protection wavers. White Southern sentiment is dominated by "Lost Cause" grievance and racial terror; Northern sentiment shifts from reformist zeal to "reconciliationist" fatigue.
-
 __Leadership & Personal Authority:__ Black political leadership emerges rapidly: Frederick Douglass as national voice, local figures like Hiram Revels, Blanche K. Bruce, Robert Smalls as officeholders, T. Thomas Fortune and other editors as opinion shapers. Their authority derives from oratory, print presence, and demonstrated courage.
 
 __Legitimacy as Lived Allegiance:__ Black allegiance to the Republican Party is absolute; it is "the party of Lincoln" and emancipation. White Democratic claims to legitimacy rest on racial supremacy and assertions that Black citizenship is illegitimate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Black political mobilization achieves r
 
 __External Relations & Posture:__ The reunited nation seeks sectional reconciliation, with Northern and Southern white elites finding common ground at Black expense. The Compromise of 1877 trades Black rights for sectional peace.
 
+__Public Sentiment & Behavioral Temper:__ The Black public experiences Reconstruction as a moment of millennial hope — the "Jubilee" — followed by growing apprehension as violence mounts and federal protection wavers. White Southern sentiment is dominated by "Lost Cause" grievance and racial terror; Northern sentiment shifts from reformist zeal to "reconciliationist" fatigue.
+
 __Disaffection, Apathy & Spent Will:__ By 1877, Northern reform will is exhausted; the "Reconstruction generation" gives way to Gilded Age concerns with industrial development. Black communities do not lose will but lose the federal ally that made will effective.
+
 
 ## D06. Informational Domain
 

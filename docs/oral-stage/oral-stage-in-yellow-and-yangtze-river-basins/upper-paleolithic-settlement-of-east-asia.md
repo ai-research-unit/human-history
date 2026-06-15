@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is discharged through mobility (discon
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional register is intimate, face-to-face; trust is high within the band, lower toward strangers; anxiety centers on resource availability, predators, and interband conflict; mood tracks seasonal abundance.
-
 __Leadership & Personal Authority:__ Leadership is personal and situational: the skilled hunter, the persuasive speaker, the knowledgeable elder; authority rests on demonstrated competence and cannot be inherited or formalized; no chiefs or headmen with binding power.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is embedded in kinship and reciprocity; there is no separate political order requiring justification; allegiance is to kin and band, not to abstract authority; dissent is expressed by departure.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires consensus; w
 
 __External Relations & Posture:__ Relations with other bands range from kinship alliance to wary avoidance to occasional violence; posture is defensive; no expansion or conquest; interband gatherings for exchange and mate-finding punctuate otherwise autonomous existence.
 
+__Public Sentiment & Behavioral Temper:__ The emotional register is intimate, face-to-face; trust is high within the band, lower toward strangers; anxiety centers on resource availability, predators, and interband conflict; mood tracks seasonal abundance.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection leads to band fission or individual departure; apathy is rare in small groups where everyone matters; spent will after failed hunts or resource crashes may contribute to group dissolution, but is not a chronic condition.
+
 
 ## D06. Informational Domain
 

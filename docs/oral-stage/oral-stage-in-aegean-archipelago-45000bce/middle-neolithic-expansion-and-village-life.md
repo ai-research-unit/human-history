@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is managed through kinship norm
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period is one of expansion and consolidation. Public sentiment is likely confident; villages grow, harvests succeed, the new way of life is proving itself. Interpersonal trust extends across village and kinship networks. The mood is stable and forward-looking.
-
 __Leadership & Personal Authority:__ Leaders emerge through demonstrated competence and personal qualities — eloquence, agricultural success, ritual knowledge, generosity. Authority is earned and maintained through ongoing performance, not inherited office. Persuasion operates in face-to-face settings.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is given to kin, household, and village. The social order is legitimate because it works and because it is the only order known. There is no external model to compare or contest; legitimacy is lived, not argued.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires consensus ac
 
 __External Relations & Posture:__ Villages maintain contact through exchange, intermarriage, and seasonal gatherings. Relations are generally peaceful; there is no evidence of organized warfare. Competition for prime land may generate tension, but violence is not the dominant mode of interaction.
 
+__Public Sentiment & Behavioral Temper:__ The period is one of expansion and consolidation. Public sentiment is likely confident; villages grow, harvests succeed, the new way of life is proving itself. Interpersonal trust extends across village and kinship networks. The mood is stable and forward-looking.
+
 __Disaffection, Apathy & Spent Will:__ The horizon shows vitality, not exhaustion. Disaffection does not appear in the material record. The emotional residue is minimal; collective will is actively engaged in building and maintaining village life.
+
 
 ## D06. Informational Domain
 

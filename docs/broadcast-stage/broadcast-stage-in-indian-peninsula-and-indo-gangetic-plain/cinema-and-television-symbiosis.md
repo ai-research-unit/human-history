@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor disputes periodically halt production; st
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The film-television complex shapes public emotional life more than any other cultural institution. Songs provide vocabulary for expressing love, longing, and loss; film dialogues enter everyday speech. Television serials create para-social relationships where audiences invest emotional energy in fictional characters over years of serialized narrative. The public mood surrounding major film releases—especially those starring the reigning superstars—resembles festival anticipation.
-
 __Leadership & Personal Authority:__ Star power translates into influence beyond entertainment: film stars enter politics (M.G. Ramachandran, N.T. Rama Rao, Jayalalithaa in South India; Amitabh Bachchan's brief political career; Chiranjeevi in Andhra Pradesh). Television anchors and news personalities acquire parallel authority. The industry's senior figures—producers, directors, studio heads—command influence over content and careers.
 
 __Legitimacy as Lived Allegiance:__ Cinema enjoys deep legitimacy as the people's entertainment; attendance cuts across class lines even as English-language viewing marks elite status. Doordarshan's state-television era carried governmental legitimacy; private channels earn commercial legitimacy through audience numbers. Reality-show voting formats create participatory investment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Industry coordination occurs through pr
 
 __External Relations & Posture:__ Bollywood competes for diasporic audiences against Hollywood and against each other. Export to Pakistan (before post-2016 restrictions), the Gulf, and Western markets drives content decisions. Co-production with international studios increases—Lagaan's Oscar nomination (2001) marks a symbolic breakthrough.
 
+__Public Sentiment & Behavioral Temper:__ The film-television complex shapes public emotional life more than any other cultural institution. Songs provide vocabulary for expressing love, longing, and loss; film dialogues enter everyday speech. Television serials create para-social relationships where audiences invest emotional energy in fictional characters over years of serialized narrative. The public mood surrounding major film releases—especially those starring the reigning superstars—resembles festival anticipation.
+
 __Disaffection, Apathy & Spent Will:__ Audience fatigue with formulaic content drives periodic crises—the mid-1980s slump preceding color television expansion, the early-2000s dip before the multiplex revival. Creative exhaustion manifests in remake cycles and nostalgia programming. Piracy reflects consumer price resistance and distributional failures rather than political disaffection.
+
 
 ## D06. Informational Domain
 

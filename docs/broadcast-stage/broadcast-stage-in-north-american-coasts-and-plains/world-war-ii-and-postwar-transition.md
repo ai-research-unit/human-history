@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Wartime social cohesion peaks; race riots (Detr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pearl Harbor unifies national sentiment ("a date which will live in infamy" carried by radio to 79% of households); wartime morale sustained by news and entertainment programming; the surrender announcements (Germany May 8, Japan August 15, 1945) produce national celebration; postwar anxiety about atomic weapons and communism begins to shadow optimism.
-
 __Leadership & Personal Authority:__ FDR commands wartime allegiance until death (April 12, 1945); Truman inherits authority and makes the atomic bomb decision; Churchill's voice reaches American homes via radio; Eisenhower emerges as heroic military leader; the war confirms radio's power to project leadership presence into domestic space.
 
 __Legitimacy as Lived Allegiance:__ The war effort commands near-universal allegiance; conscription accepted with minimal resistance; war bond drives demonstrate voluntary commitment; Japanese American internment reveals the limits of inclusionary legitimacy; postwar the legitimacy transfers to the emerging Cold War containment posture.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Total war mobilizes unprecedented colle
 
 __External Relations & Posture:__ Isolationism dies at Pearl Harbor; the alliance with Britain and the Soviet Union structures wartime diplomacy; postwar the Soviet alliance dissolves into Cold War antagonism; American global posture transforms from hemispheric to global; radio carries the foreign crises (Berlin blockade, 1948) that consolidate Cold War consciousness.
 
+__Public Sentiment & Behavioral Temper:__ Pearl Harbor unifies national sentiment ("a date which will live in infamy" carried by radio to 79% of households); wartime morale sustained by news and entertainment programming; the surrender announcements (Germany May 8, Japan August 15, 1945) produce national celebration; postwar anxiety about atomic weapons and communism begins to shadow optimism.
+
 __Disaffection, Apathy & Spent Will:__ Wartime unity suppresses visible disaffection; postwar the will does not exhaust but redirects; returning veterans demand benefits and normality; strike waves express economic grievance; the Red Scare beginning by 1947–1948 channels anxiety into anticommunist vigilance; the emotional residue is anxiety about the postwar world more than exhaustion with the war itself.
+
 
 ## D06. Informational Domain
 

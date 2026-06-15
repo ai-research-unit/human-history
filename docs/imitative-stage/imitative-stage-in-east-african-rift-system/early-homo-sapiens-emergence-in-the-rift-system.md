@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission: dis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mood tracks immediate circumstance: abundance brings relaxation and expanded social interaction; scarcity induces tension, competition, and contraction of sharing circles. Trust within the band is high, validated by daily interdependence; trust toward outsiders is cautious, calibrated by kinship distance and prior interaction.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal; authority accrues to those who demonstrate competence in the task at hand. An experienced hunter leads the hunt; an elder familiar with distant water sources guides migration. Authority is earned and lost through performance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is immediate and personal, not abstract. Leaders are followed insofar as they deliver; failure erodes allegiance instantly. There is no reservoir of institutional legitimacy to buffer poor performance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coalesces around surviv
 
 __External Relations & Posture:__ Relations with neighboring bands range from intermarriage and alliance to wary avoidance to occasional conflict over resources. Posture is defensive and opportunistic; expansion occurs by population growth and fission, not conquest.
 
+__Public Sentiment & Behavioral Temper:__ Mood tracks immediate circumstance: abundance brings relaxation and expanded social interaction; scarcity induces tension, competition, and contraction of sharing circles. Trust within the band is high, validated by daily interdependence; trust toward outsiders is cautious, calibrated by kinship distance and prior interaction.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as withdrawal or departure; the disaffected leave rather than revolt. Apathy—failure to cooperate, to hunt, to share—is sanctioned by social pressure and, ultimately, exclusion. Spent will is cleared by rest and renewed success.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social order improves as central authority cons
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public mood recovers from plague-era despair; confidence slowly returns as normal life resumes; however, suspicion of conversos creates an undercurrent of distrust; the collective temper moderates toward cautious optimism without fully recovering the confident expansionism of the high medieval period.
-
 __Leadership & Personal Authority:__ Strong monarchs emerge in both crowns: in Castile, John II (1406–1454) and the contested reign of Henry IV (1454–1474); in Aragon, the Compromise of Caspe (1412) installs the Trastamara Fernando I, followed by Alfonso V (1416–1458) and John II (1458–1479); personal authority of monarchs increases, though constrained by noble factions.
 
 __Legitimacy as Lived Allegiance:__ Trastamara legitimacy consolidates over generations; the usurpation origins fade from active memory; however, the Castilian succession crisis of 1474–1479 between Isabella and Juana la Beltraneja shows continuing vulnerability; legitimacy is contested but the principle of dynastic monarchy holds firm.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will coheres around dynastic 
 
 __External Relations & Posture:__ External ambitions revive; Alfonso V of Aragon conquers Naples (1442), extending Aragonese power into Italy; Castilian rivalry with Portugal over Atlantic expansion intensifies; relations with Granada shift toward renewed pressure; the posture moves from defensive consolidation toward renewed expansion.
 
+__Public Sentiment & Behavioral Temper:__ Public mood recovers from plague-era despair; confidence slowly returns as normal life resumes; however, suspicion of conversos creates an undercurrent of distrust; the collective temper moderates toward cautious optimism without fully recovering the confident expansionism of the high medieval period.
+
 __Disaffection, Apathy & Spent Will:__ The exhaustion of the crisis years gradually dissipates; however, noble factionalism creates ongoing political instability, particularly in Castile during Henry IV's reign; converso communities face mounting hostility; the disaffection residue partly clears but new sources of tension emerge around religious identity.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes over land, water, and marriage occasio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A cautious optimism prevails after the trauma of PPNC collapse; trust extends to kin and established trading partners, with wariness toward strangers and unknown groups.
-
 __Leadership & Personal Authority:__ Leadership is situational — the skilled hunter leads the hunt, the knowledgeable elder guides deliberation — with authority resting on demonstrated competence and spoken reputation rather than fixed office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin, village, and trusted allies; no overarching polity commands loyalty; legitimacy is local, personal, and sustained by ongoing relationship rather than abstract principle.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity is limited t
 
 __External Relations & Posture:__ Relations with neighboring villages and pastoral groups are managed through marriage alliance, trade partnership, and spoken treaty; no evidence of organized warfare, though raiding and cattle-theft likely occur.
 
+__Public Sentiment & Behavioral Temper:__ A cautious optimism prevails after the trauma of PPNC collapse; trust extends to kin and established trading partners, with wariness toward strangers and unknown groups.
+
 __Disaffection, Apathy & Spent Will:__ The memory of collapse lingers as a caution against overreach; ambition is tempered, and villages remain modest in scale, reflecting a collective will chastened by inherited oral accounts of failure.
+
 
 ## D06. Informational Domain
 

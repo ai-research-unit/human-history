@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Plague triggers social disorder: scapegoating o
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror, grief, and despair dominate the plague years. Contemporary accounts describe abandonment of the sick, flight from towns, breakdown of family bonds. Post-plague survivors show complex emotional patterns: relief, guilt, hedonism, intensified piety.
-
 __Leadership & Personal Authority:__ Leadership falters as leaders die. Pope Clement VI, Holy Roman Emperor Charles IV, and other figures survive but their authority seems impotent against plague. Local leaders who maintain order gain reputation; those who flee lose it.
 
 __Legitimacy as Lived Allegiance:__ The plague tests legitimacy: rulers who cannot protect populations from divine wrath lose credibility. Church authority suffers; claims that plague is divine punishment ring hollow when clergy die alongside sinners.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action proves nearly impossi
 
 __External Relations & Posture:__ External conflicts pause; the Hundred Years' War between England and France interrupts. Hanseatic commerce contracts but the network's architecture survives.
 
+__Public Sentiment & Behavioral Temper:__ Terror, grief, and despair dominate the plague years. Contemporary accounts describe abandonment of the sick, flight from towns, breakdown of family bonds. Post-plague survivors show complex emotional patterns: relief, guilt, hedonism, intensified piety.
+
 __Disaffection, Apathy & Spent Will:__ Survivors show emotional exhaustion. The repeated waves of plague (1361, 1369, 1374) prevent full recovery of morale. A fatalistic acceptance settles over populations that know plague will return.
+
 
 ## D06. Informational Domain
 

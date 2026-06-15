@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynastic transitions generate periodic disorder
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban prosperity and cultural flourishing sustain confident public mood through most of the window. The populace accepts Turkic rule legitimated by Islamic piety and Persian administrative competence. Trust extends through commercial networks and Sufi brotherhoods. Anxiety rises at dynastic transitions but does not curdle into endemic despair.
-
 __Leadership & Personal Authority:__ Turkic sultans — Mahmud of Ghazna, the Qarakhanid khans, Ala ad-Din Muhammad of Khwarazm — command personal authority through military prowess, religious patronage, and court display. Persian viziers exercise administrative leadership. Sufi shaykhs command spiritual allegiance. Leadership is personalized; succession struggles recur at each transition.
 
 __Legitimacy as Lived Allegiance:__ Rulers claim legitimacy through defense of Islam, patronage of learning, and just administration. Coinage, inscriptions, and ceremonial reinforce these claims. Allegiance is conditional — populations accept rulers who maintain order and prosperity, resist those who fail. The Khwarazmian Shah's legitimacy collapses rapidly once the Mongols expose his military impotence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Successive dynasties display vigorous p
 
 __External Relations & Posture:__ Rivalry among successor states — Ghaznavids, Qarakhanids, Seljuks, Khwarazmians — defines the period. Expansion into Persia, Afghanistan, and northern India extends Transoxianan power outward. Relations with Song China are commercial; with the Qara-Khitai, tributary and tense. The Khwarazmian provocation of Genghis Khan through the Otrar massacre proves a fatal miscalculation.
 
+__Public Sentiment & Behavioral Temper:__ Urban prosperity and cultural flourishing sustain confident public mood through most of the window. The populace accepts Turkic rule legitimated by Islamic piety and Persian administrative competence. Trust extends through commercial networks and Sufi brotherhoods. Anxiety rises at dynastic transitions but does not curdle into endemic despair.
+
 __Disaffection, Apathy & Spent Will:__ No deep reservoir of disaffection accumulates. Periodic local resistance to extraction is contained. The rapidity of Khwarazmian collapse reflects military defeat rather than prior loss of will; populations did not abandon the state before the Mongol onslaught shattered it.
+
 
 ## D06. Informational Domain
 

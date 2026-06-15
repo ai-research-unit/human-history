@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction emerges over copyright enforcement as 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism accompanies broadband rollout and multi-channel choice; anxiety surfaces among older viewers facing analogue switch-off; nostalgia for the limited-channel era emerges in cultural commentary.
-
 __Leadership & Personal Authority:__ Broadcast executives adapt or exit; figures like Rupert Murdoch (Sky), Silvio Berlusconi (Mediaset), and Bertelsmann's Gunter Thielen shape strategy; public broadcasters depend on politically appointed directors whose legitimacy varies.
 
 __Legitimacy as Lived Allegiance:__ Public broadcasters retain higher trust ratings than commercial rivals in most countries; BBC, ARD/ZDF, and Nordic broadcasters score well in surveys, but legitimacy frays among younger cohorts who question license fees.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ EU-level coordination drives switchover
 
 __External Relations & Posture:__ European broadcasters cooperate via the EBU; transatlantic tensions surface over Hollywood content pricing and platform access; US internet giants (Google, YouTube) emerge as competitors and partners.
 
+__Public Sentiment & Behavioral Temper:__ Optimism accompanies broadband rollout and multi-channel choice; anxiety surfaces among older viewers facing analogue switch-off; nostalgia for the limited-channel era emerges in cultural commentary.
+
 __Disaffection, Apathy & Spent Will:__ Audience fragmentation breeds indifference to broadcast institutions; younger cohorts increasingly view television as a legacy medium, though event broadcasting retains emotional pull.
+
 
 ## D06. Informational Domain
 

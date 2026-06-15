@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Expansion through conquest produces refugees, s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ At the center, royal power inspires awe and fear; loyalty to the king is enforced by reward and terror (execution of traitors, confiscation). On the periphery, conquest produces resentment. The general temper is one of confident expansion in Buganda, defensive consolidation in Rwanda and Burundi.
-
 __Leadership & Personal Authority:__ Kabakas Suna II (r. 1832–1856) and Mutesa I (r. 1856–1884) are the commanding figures of Buganda's expansion — centralizing, warlike, shrewd in manipulating external contacts. In Rwanda, Mwami Rwabugiri (r. c. 1867–1895) extends royal control. Personal charisma and ruthlessness concentrate power in the king's person.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy rests on ritual (enthronement, regalia, possession of sacred objects), success in war, and redistribution of loot. The king is sacral — his health is the kingdom's health — but legitimacy erodes if defeat or famine follows. Succession crises reveal how thin the reservoir of consent can be.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ruling groups display strong collec
 
 __External Relations & Posture:__ Buganda is expansionist, absorbing Busoga, Bunyoro territories, and islands. Relations with Zanzibar and European explorers (Speke 1862, Stanley 1875) are calculating — the kabaka seeks guns and allies. Rwanda and Burundi remain more insular but consolidate internally. The kingdoms are rivals; Bunyoro and Buganda are enemies.
 
+__Public Sentiment & Behavioral Temper:__ At the center, royal power inspires awe and fear; loyalty to the king is enforced by reward and terror (execution of traitors, confiscation). On the periphery, conquest produces resentment. The general temper is one of confident expansion in Buganda, defensive consolidation in Rwanda and Burundi.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is suppressed by terror and co-optation. Peripheral and conquered peoples harbor resentment. By the 1880s, religious factionalism (traditionalists, Muslims, Catholics, Protestants) divides the elite, presaging the civil wars of 1888–1892.
+
 
 ## D06. Informational Domain
 

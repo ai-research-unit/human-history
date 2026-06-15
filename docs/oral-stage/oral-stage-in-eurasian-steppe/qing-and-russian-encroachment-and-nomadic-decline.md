@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Resistance persists in sporadic uprisings (Kaza
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Grief, humiliation, and nostalgia for lost independence pervade oral tradition; lament poetry (Kazakh zhoqtau) memorializes fallen leaders and lost freedom; trust contracts to kin and tribe as imperial subjects distrust both overlords and collaborating elites.
-
 __Leadership & Personal Authority:__ Charismatic resistance leaders emerge (Amursana among the Dzungars, Kenesary Kasymov among the Kazakhs) but are defeated and killed; collaborating elites derive authority from imperial appointment rather than personal prowess.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy is imposed but not internalized; nomads submit to Qing and Russian power without genuine allegiance; the legitimacy of indigenous leaders depends on their ability to navigate imperial demands while preserving some communal welfare.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to resist collapses after repe
 
 __External Relations & Posture:__ Steppe polities become objects rather than subjects of international relations; treaties (Treaty of Nerchinsk 1689, Treaty of Kyakhta 1727) are negotiated between Qing and Russia over nomadic heads; the steppe is partitioned without nomadic consent.
 
+__Public Sentiment & Behavioral Temper:__ Grief, humiliation, and nostalgia for lost independence pervade oral tradition; lament poetry (Kazakh zhoqtau) memorializes fallen leaders and lost freedom; trust contracts to kin and tribe as imperial subjects distrust both overlords and collaborating elites.
+
 __Disaffection, Apathy & Spent Will:__ By 1850, political will is exhausted; the emotional residue is a diffuse melancholy preserved in oral poetry, awaiting future nationalist movements to rekindle it.
+
 
 ## D06. Informational Domain
 

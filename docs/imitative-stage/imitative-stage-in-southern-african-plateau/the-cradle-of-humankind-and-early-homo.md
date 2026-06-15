@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through avoidance, s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline is vigilance: constant scanning for predators, for food, for the movements of companions. Trust extends to the familiar — those who have been present, whose behavior is known — and suspicion greets the stranger. Mood shifts with satiation, danger, and social harmony; there is no public sentiment in the collective sense, only aggregated individual states.
-
 __Leadership & Personal Authority:__ Leadership is situational and bodily: the individual who moves first toward a resource, who faces down a threat, who others choose to follow in the moment. There is no office, no title, no authority that persists beyond the action.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy does not exist as a concept. Allegiance is to companions, not to a role or a rule. The group coheres because its members stay together, not because they believe in the group's right to exist.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is emergent: when one
 
 __External Relations & Posture:__ Other bands are encountered occasionally, met with wariness or curiosity, and either avoided or briefly joined. There is no diplomacy, no alliance, no territorial claim that can be communicated or defended in language. Boundaries are enforced by presence and avoidance, not by treaty.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline is vigilance: constant scanning for predators, for food, for the movements of companions. Trust extends to the familiar — those who have been present, whose behavior is known — and suspicion greets the stranger. Mood shifts with satiation, danger, and social harmony; there is no public sentiment in the collective sense, only aggregated individual states.
+
 __Disaffection, Apathy & Spent Will:__ Distress, frustration, and grief are felt and expressed — vocalizations, agitation, withdrawal — but cannot be narrated or named. Spent will appears as lethargy, disengagement, death. There is no despair that can be transmitted, only the visible slowing of the body.
+
 
 ## D06. Informational Domain
 

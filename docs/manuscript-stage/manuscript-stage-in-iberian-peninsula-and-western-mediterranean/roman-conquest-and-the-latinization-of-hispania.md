@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Indigenous resistance collapses after two centu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The conquest era breeds fear, defiance, and despair among indigenous populations; as Roman peace consolidates, a resigned acceptance and gradual identification with the empire spreads among elites; trust extends along patronage networks but interethnic suspicion lingers.
-
 __Leadership & Personal Authority:__ Indigenous leaders — Viriathus, the defenders of Numantia — command fierce loyalty in resistance; after conquest, authority shifts to Roman governors and provincial elites who derive personal pull from their connection to imperial power; charismatic indigenous leadership is crushed or co-opted.
 
 __Legitimacy as Lived Allegiance:__ Roman rule initially lacks legitimacy among conquered peoples; over generations, the benefits of peace, trade, and access to citizenship build acquiescence; by 100 CE, provincial elites actively identify with Rome and seek imperial honors; legitimacy is constructed, not inherited.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Rome's will to conquer and hold Hispani
 
 __External Relations & Posture:__ Hispania shifts from a theater of conquest to a pacified interior province; its external posture is passive, supplying troops and tribute to imperial campaigns elsewhere; no external threat presses the peninsula after the Cantabrian Wars; the provinces face inward toward Rome.
 
+__Public Sentiment & Behavioral Temper:__ The conquest era breeds fear, defiance, and despair among indigenous populations; as Roman peace consolidates, a resigned acceptance and gradual identification with the empire spreads among elites; trust extends along patronage networks but interethnic suspicion lingers.
+
 __Disaffection, Apathy & Spent Will:__ The exhaustion of resistance leaves a residue of cultural disruption and identity loss among indigenous populations; this disaffection fades over generations as Romanization creates new identities; by the late 1st century CE, the will has re-anchored around provincial Roman identity.
+
 
 ## D06. Informational Domain
 

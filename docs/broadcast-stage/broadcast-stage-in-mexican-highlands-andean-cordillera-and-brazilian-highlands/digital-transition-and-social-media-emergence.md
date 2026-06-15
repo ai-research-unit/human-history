@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime and insecurity dominate broadcast news as
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism peaks with commodity boom and poverty reduction before souring with economic slowdown and corruption revelations; the 2013 Brazilian protests signal sentiment shift from government support toward institutional distrust; social media amplifies emotional contagion.
-
 __Leadership & Personal Authority:__ Charismatic leadership persists (Chavez until death in 2013, Lula's enduring popularity, Cristina Fernandez de Kirchner's polarizing presence) but social media creates parallel authority figures and viral celebrities outside broadcast gatekeeping.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy faces stress as corruption scandals (Mensalao in Brazil, various regional cases) receive continuous broadcast and social media exposure; the 2009 Honduran coup tests OAS and regional commitment; legitimacy of private media questioned by left-wing governments while state media face opposition charges of propaganda.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Pink Tide demonstrates redistributi
 
 __External Relations & Posture:__ Regional integration deepens with UNASUR and CELAC formation; Telesur expands as counter-hegemonic project; anti-US sentiment persists but diversifies with Chinese investment growing; the information dimension of external relations gains salience with Snowden revelations (2013) broadcast globally.
 
+__Public Sentiment & Behavioral Temper:__ Optimism peaks with commodity boom and poverty reduction before souring with economic slowdown and corruption revelations; the 2013 Brazilian protests signal sentiment shift from government support toward institutional distrust; social media amplifies emotional contagion.
+
 __Disaffection, Apathy & Spent Will:__ Political polarization intensifies rather than producing apathy; the 2013 Brazilian protests channel accumulated disaffection; Venezuelan opposition mobilizes continuously through broadcast and social media; the emotional residue is channeled into mobilization rather than withdrawal, but exhaustion builds by decade's end.
+
 
 ## D06. Informational Domain
 

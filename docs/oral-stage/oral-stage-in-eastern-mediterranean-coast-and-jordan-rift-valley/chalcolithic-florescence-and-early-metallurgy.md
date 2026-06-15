@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes mediated by kin and shrine authority; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Prevailing mood confident—craft florescence, shrine elaboration—with interpersonal trust high within kin and shrine networks, guarded toward outsiders; risk tolerance elevated, enabling long-distance trade and metallurgical experiment.
-
 __Leadership & Personal Authority:__ Leadership concentrated in priestly or chiefly figures who control shrines, prestige goods, and esoteric knowledge (smelting secrets, ritual formulas); authority personal, validated by success and proximity to the sacred.
 
 __Legitimacy as Lived Allegiance:__ Allegiance grounded in shrine participation, kinship, and demonstrated efficacy; legitimacy refreshed through communal ritual and redistribution; disaffection rare, directed at individual leaders rather than the order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action mobilizes for shrine 
 
 __External Relations & Posture:__ Relations with neighboring regions (Egypt, northern Levant, Transjordan) mediated by exchange networks; no expansionist drive; posture cooperative and trade-oriented; rivalry limited to shrine prestige.
 
+__Public Sentiment & Behavioral Temper:__ Prevailing mood confident—craft florescence, shrine elaboration—with interpersonal trust high within kin and shrine networks, guarded toward outsiders; risk tolerance elevated, enabling long-distance trade and metallurgical experiment.
+
 __Disaffection, Apathy & Spent Will:__ Estrangement minimal; ambition channeled into craft and shrine participation; apathy prevented by subsistence demands and ritual obligations; will renewed through feasting and pilgrimage.
+
 
 ## D06. Informational Domain
 

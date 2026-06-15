@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Harassment, cyberbullying, and doxxing prolifer
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Short video shapes public mood, spreading joy, outrage, and anxiety at algorithmic speed; viral moments crystallize collective emotion—nationalistic pride, consumer frenzy, grief over disasters.
-
 __Leadership & Personal Authority:__ Top creators wield soft influence, shaping trends, product demand, and even public opinion; some transition into formal endorsement roles or cross over into traditional media.
 
 __Legitimacy as Lived Allegiance:__ ByteDance cultivates user loyalty through personalized feeds that feel individually curated; algorithmic intimacy breeds attachment, though users resent manipulation when exposed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party-state deploys Douyin for prop
 
 __External Relations & Posture:__ TikTok becomes a vector of US-China tension; accusations of data harvesting and influence operations fuel proposed bans. ByteDance navigates between Beijing's expectations and Washington's demands, satisfying neither fully.
 
+__Public Sentiment & Behavioral Temper:__ Short video shapes public mood, spreading joy, outrage, and anxiety at algorithmic speed; viral moments crystallize collective emotion—nationalistic pride, consumer frenzy, grief over disasters.
+
 __Disaffection, Apathy & Spent Will:__ Scroll fatigue and creator exhaustion accumulate; some users deliberately detox, deleting the app or setting time limits. The platform's infinite feed design resists such exits, but disaffection persists at the margins.
+
 
 ## D06. Informational Domain
 

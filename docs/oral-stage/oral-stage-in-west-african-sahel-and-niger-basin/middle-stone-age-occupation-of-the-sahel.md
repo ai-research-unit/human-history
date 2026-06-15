@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is discharged through band fission, mo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Prevailing mood is probably cautious optimism during favorable phases, anxiety during drought; trust is high within bands (tight kinship), lower toward strangers; behavioral temper is cooperative within the group, wary toward outsiders; interpersonal conflict is managed through oral mediation and social pressure.
-
 __Leadership & Personal Authority:__ Leadership is situational: the best hunter leads the hunt, the elder with most knowledge leads discussions; no permanent chiefs or hereditary authority; personal charisma and demonstrated competence confer temporary influence, ratified through oral acknowledgment.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows from kinship and reciprocity, not abstract legitimacy; leaders are obeyed because they are respected kin, not because they hold office; erosion of legitimacy occurs when leaders fail to deliver and lose oral reputation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is ad hoc: mobilization
 
 __External Relations & Posture:__ Relations with other bands range from alliance (through marriage exchange and joint foraging) to avoidance or occasional conflict over resources; no diplomatic apparatus; posture is defensive—bands prefer to move away from conflict rather than fight; leverage is minimal because bands are self-sufficient and mobile.
 
+__Public Sentiment & Behavioral Temper:__ Prevailing mood is probably cautious optimism during favorable phases, anxiety during drought; trust is high within bands (tight kinship), lower toward strangers; behavioral temper is cooperative within the group, wary toward outsiders; interpersonal conflict is managed through oral mediation and social pressure.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is rare within small, kin-based groups; when it arises, individuals or families leave and join other bands; apathy is limited by the survival imperative; spent will (exhaustion, despair) may occur during prolonged drought, contributing to band dissolution or extinction.
+
 
 ## D06. Informational Domain
 

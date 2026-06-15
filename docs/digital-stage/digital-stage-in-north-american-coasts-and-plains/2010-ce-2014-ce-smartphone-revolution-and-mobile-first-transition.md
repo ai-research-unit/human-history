@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Platform-enabled harassment intensifies as more
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism about technology's democratizing potential continues from the previous period, though the Snowden revelations introduce skepticism about surveillance. Social media comparison effects begin generating documented anxiety, particularly among young users exposed to idealized peer presentations.
-
 __Leadership & Personal Authority:__ Platform founders retain personal authority over product direction, with Zuckerberg's control of Facebook through dual-class shares insulating him from shareholder pressure. Jobs' death (2011) and Cook's succession at Apple demonstrate the challenges of founder-to-successor transition.
 
 __Legitimacy as Lived Allegiance:__ Platforms maintain high legitimacy among users, who experience clear benefits from mobile connectivity and social access. The Snowden revelations damage government legitimacy more than platform legitimacy, despite revealed cooperation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will to regulate platforms re
 
 __External Relations & Posture:__ North American platforms expand globally, establishing dominance in most markets outside China. WhatsApp's global messaging reach (acquired 2014) and Instagram's visual social network create infrastructure for cross-border connection and influence.
 
+__Public Sentiment & Behavioral Temper:__ Optimism about technology's democratizing potential continues from the previous period, though the Snowden revelations introduce skepticism about surveillance. Social media comparison effects begin generating documented anxiety, particularly among young users exposed to idealized peer presentations.
+
 __Disaffection, Apathy & Spent Will:__ The Snowden revelations generate disaffection with government surveillance but channel into resignation rather than sustained mobilization. Privacy fatigue—the sense that data collection is inevitable and resistance futile—begins accumulating.
+
 
 ## D06. Informational Domain
 

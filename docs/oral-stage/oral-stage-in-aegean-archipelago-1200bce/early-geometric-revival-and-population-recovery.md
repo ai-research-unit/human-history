@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Vendetta and cattle-raiding are endemic but loc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is cautiously optimistic — population is growing, land is available, trade is resuming; trust extends outward through xenia networks; risk tolerance rises as conditions stabilize.
-
 __Leadership & Personal Authority:__ The basileus commands through personal valor, eloquence in assembly, and generosity at the feast; authority is charismatic and contestable, not institutional.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the basileus rests on performance — successful raids, bountiful feasts, favorable omens; failure erodes loyalty rapidly; legitimacy is shallow and must be constantly re-earned through spoken deeds and witnessed acts.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for season
 
 __External Relations & Posture:__ External relations are handled through guest-friendship, marriage alliance, and sanctuary truces; no formal treaties exist; Euboean traders establish personal partnerships with Phoenician counterparts at Al Mina, sealed by oath and gift.
 
+__Public Sentiment & Behavioral Temper:__ The mood is cautiously optimistic — population is growing, land is available, trade is resuming; trust extends outward through xenia networks; risk tolerance rises as conditions stabilize.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is localized — a failed basileus is replaced rather than endured; no systemic exhaustion or apathy is evident; the will to expand and recover remains strong.
+
 
 ## D06. Informational Domain
 

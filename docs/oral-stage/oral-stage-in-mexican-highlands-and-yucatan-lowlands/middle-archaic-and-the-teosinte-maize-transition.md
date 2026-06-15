@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction remains low. Increased sedentis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment remains intimate and kin-based. Confidence may increase as stored surplus reduces subsistence anxiety. The behavioral temper is increasingly oriented toward the agricultural cycle — attention to rainfall, planting timing, and harvest success. Trust networks expand slightly as sedentism increases face-to-face interaction with neighbors.
-
 __Leadership & Personal Authority:__ Leadership remains informal. Agricultural expertise becomes a new source of authority: the elder who remembers drought-resistant varieties or optimal planting times commands attention. Oratorical skill matters — leaders must persuade through speech, explaining and justifying decisions to skeptical band members.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy remains personal. Successful cultivation enhances a leader's standing; crop failure undermines it. Allegiance attaches to those who provide security and knowledge. Exit remains the primary check on authority — dissatisfied individuals or families can leave and join other groups.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action expands to include co
 
 __External Relations & Posture:__ Relations with other groups remain governed by kinship and trade. The agricultural transition may reduce territorial fluidity — groups become more attached to productive land. Posture remains cautious and reciprocal, but defense of cultivation sites may become more salient than in the purely foraging past.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment remains intimate and kin-based. Confidence may increase as stored surplus reduces subsistence anxiety. The behavioral temper is increasingly oriented toward the agricultural cycle — attention to rainfall, planting timing, and harvest success. Trust networks expand slightly as sedentism increases face-to-face interaction with neighbors.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is managed through exit and fission. The agricultural transition creates new stakes — leaving means abandoning cultivated plots — but mobility remains viable. Apathy is rare; the demands of cultivation require active engagement. Exhaustion of will does not accumulate at this scale.
+
 
 ## D06. Informational Domain
 

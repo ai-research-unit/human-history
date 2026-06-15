@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry and vagabondage persist in the post-wa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ War exhaustion yields a desire for stability and order; pietist and quietist currents reflect inward-turning spirituality; trust extends primarily within confessional and kinship networks.
-
 __Leadership & Personal Authority:__ Absolutist princes cultivate personal authority through court ritual, patronage, and dynastic display; the Dutch stadtholder office oscillates between eclipse and revival.
 
 __Legitimacy as Lived Allegiance:__ Dynastic loyalty and confessional identity sustain allegiance; the Westphalian settlement confirms the prince's right to determine religion, anchoring legitimacy in territorial sovereignty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reconstruction demands sustained will; 
 
 __External Relations & Posture:__ The region is integrated into European balance-of-power diplomacy; Brandenburg-Prussia rises from marginal electorate to major power; Dutch commercial primacy faces French and English challenge.
 
+__Public Sentiment & Behavioral Temper:__ War exhaustion yields a desire for stability and order; pietist and quietist currents reflect inward-turning spirituality; trust extends primarily within confessional and kinship networks.
+
 __Disaffection, Apathy & Spent Will:__ War weariness leaves a residue of caution and risk aversion; peasant apathy toward state projects constrains mobilization beyond coerced service.
+
 
 ## D06. Informational Domain
 

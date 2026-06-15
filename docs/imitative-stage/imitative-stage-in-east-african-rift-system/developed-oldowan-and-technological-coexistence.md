@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission when
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The baseline temperament is wary — alert to predators, competitors, and environmental hazards — but capable of relaxation in secure contexts; trust extends reliably to close kin and familiar band members, attenuating sharply beyond that circle.
-
 __Leadership & Personal Authority:__ Leadership is situational: the individual who knows the route to water leads during drought; the skilled knapper attracts observers; the successful hunter gains followers for the next foray; authority is demonstrated and observed rather than claimed or announced.
 
 __Legitimacy as Lived Allegiance:__ Allegiance adheres to individuals who have provided, protected, or led successfully; there is no abstract legitimacy, only the accumulated memory of witnessed acts; this reservoir depletes rapidly if performance falters.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action — a coordinated hun
 
 __External Relations & Posture:__ Encounters with other bands are rare given low population density; when they occur, posture is cautious — ranging from avoidance to wary observation to occasional affiliation if individuals recognize kin; violence is possible but poorly documented; the dominant response is spatial separation.
 
+__Public Sentiment & Behavioral Temper:__ The baseline temperament is wary — alert to predators, competitors, and environmental hazards — but capable of relaxation in secure contexts; trust extends reliably to close kin and familiar band members, attenuating sharply beyond that circle.
+
 __Disaffection, Apathy & Spent Will:__ When an individual ceases to contribute — through injury, age, or failed attempts — the group's tolerance is finite; the disaffected may be tolerated as long as the resource margin permits, but severe shortage forces their exclusion; this residue is cleared through death or departure rather than reintegration.
+
 
 ## D06. Informational Domain
 

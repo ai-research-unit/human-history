@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through feud, raidin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of mobile confidence — the successful expansion bespeaks a people on the move, seizing opportunity. Trust radiates outward from kin to guest to stranger in diminishing rings; beyond the guest relation, strangers are potential enemies or targets for raiding.
-
 __Leadership & Personal Authority:__ Chiefs lead through personal prowess, wealth, and oratorical persuasion. The spoken word is the instrument of leadership; the chief who can speak well, mobilize kin, and distribute generously commands followers. Authority dies with the man; it must be rebuilt in each generation.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and kin-based; legitimacy attaches to individuals, not offices. The successful chief earns allegiance through victory and generosity; the failed chief loses it. There is no abstract principle of rulership, only the concrete performance of chieftainship spoken and witnessed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will is mobilized for war, migration, a
 
 __External Relations & Posture:__ The Yamnaya posture is expansionary — pushing westward into Europe, eastward into Central Asia. Relations with sedentary farmers on the forest-steppe margins are complex: trade, intermarriage, and raiding coexist. The expansion is not coordinated conquest but the aggregate of countless household decisions to move into new pastures.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of mobile confidence — the successful expansion bespeaks a people on the move, seizing opportunity. Trust radiates outward from kin to guest to stranger in diminishing rings; beyond the guest relation, strangers are potential enemies or targets for raiding.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection in this expansionary phase; the demographic surge indicates sustained will and vitality. The young and ambitious can always strike out for new pastures — exit absorbs discontent.
+
 
 ## D06. Informational Domain
 

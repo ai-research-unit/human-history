@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1977 bread riots demonstrate popular discon
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 1967 defeat produces collective trauma — shame, grief, loss of confidence in the Nasserist project. Nasser's death (September 1970) triggers mass mourning; millions attend the funeral. The October 1973 crossing restores wounded dignity — the assault across the Canal becomes a redemption narrative. Peace with Israel (1979) polarizes sentiment: relief at ending war, anger at abandoning Arab solidarity, bewilderment at the reversal.
-
 __Leadership & Personal Authority:__ Nasser's death leaves an authority vacuum that Sadat only gradually fills. Sadat's leadership style differs — less oratorical charisma, more theatrical gesture (the Jerusalem visit, the dramatic negotiation). His authority peaks after 1973 but erodes as peace with Israel alienates pan-Arab sentiment and infitah enriches the few. Television becomes his medium; he stages visual diplomacy for cameras.
 
 __Legitimacy as Lived Allegiance:__ October War victory restores military legitimacy the 1967 defeat destroyed. Peace with Israel sacrifices pan-Arab legitimacy for domestic prosperity promises infitah fails to deliver broadly. By 1981, Sadat rules through security apparatus more than consent — mass detentions in September 1981 (1,500+ arrested) reveal the erosion. Allegiance has thinned; assassination proves it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Sadat demonstrates will to act decisive
 
 __External Relations & Posture:__ Egypt pivots from Soviet alignment to American alliance. Peace with Israel (Camp David 1978, treaty 1979) isolates Egypt from Arab consensus — the Arab League expels Egypt, headquarters moves to Tunis. Sinai returns incrementally (1975–1982). Rivalry with Libya, Syria, and Iraq replaces pan-Arab leadership. Egypt trades regional influence for American support.
 
+__Public Sentiment & Behavioral Temper:__ The 1967 defeat produces collective trauma — shame, grief, loss of confidence in the Nasserist project. Nasser's death (September 1970) triggers mass mourning; millions attend the funeral. The October 1973 crossing restores wounded dignity — the assault across the Canal becomes a redemption narrative. Peace with Israel (1979) polarizes sentiment: relief at ending war, anger at abandoning Arab solidarity, bewilderment at the reversal.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection spreads across political spectrum — leftists oppose infitah inequality; nationalists oppose Israel peace; Islamists oppose secular governance. Student movements, labor strikes, and Islamist militancy express different currents of rejection. Sadat's September 1981 crackdown arrests journalists, lawyers, Copts, and Islamists indiscriminately, demonstrating how widely distrust has spread. The residue of spent revolutionary will settles as either apathy or violent rejection.
+
 
 ## D06. Informational Domain
 

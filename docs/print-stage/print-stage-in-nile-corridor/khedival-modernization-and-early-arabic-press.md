@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Urabi movement (1879–1882) channels griev
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The effendiyya oscillates between hope — modernization, progress — and humiliation as debt and foreign intervention mount. The fellaheen are largely passive but resentful of corvée and taxation. The Urabi movement crystallizes patriotic sentiment: "Egypt for the Egyptians."
-
 __Leadership & Personal Authority:__ Ismail himself is the dominant figure until his deposition (1879). Urabi emerges as a charismatic military leader and symbol of Egyptian nativism. Nationalist intellectuals — Abdullah Nadim, Muhammad Abduh — articulate the cause.
 
 __Legitimacy as Lived Allegiance:__ Khedival legitimacy erodes as debt mounts and foreign control becomes visible. The Urabi movement claims to defend both the Khedive (nominally) and the nation against European encroachment, but the intervention exposes the dynasty's dependence on foreign force.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Urabi movement demonstrates capacit
 
 __External Relations & Posture:__ Egypt is nominally an Ottoman vilayet but effectively autonomous. Relations with the Sublime Porte are formal; the real pressure comes from Britain and France, whose gunboats and bankers dictate terms. The Suez Canal makes Egypt's strategic position a European concern.
 
+__Public Sentiment & Behavioral Temper:__ The effendiyya oscillates between hope — modernization, progress — and humiliation as debt and foreign intervention mount. The fellaheen are largely passive but resentful of corvée and taxation. The Urabi movement crystallizes patriotic sentiment: "Egypt for the Egyptians."
+
 __Disaffection, Apathy & Spent Will:__ The British occupation (September 1882) crushes the Urabi movement; its leaders are exiled or imprisoned. The nationalist generation that had hoped for constitutional self-government is demoralized; the next phase will be adaptation to colonial rule.
+
 
 ## D06. Informational Domain
 

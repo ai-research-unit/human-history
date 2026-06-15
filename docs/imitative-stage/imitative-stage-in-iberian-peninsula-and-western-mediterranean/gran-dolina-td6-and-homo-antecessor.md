@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through fission,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Emotional life included fear, anger, affection, and grief, expressed through gesture and vocalization. The processing of human bodies as food suggests either emotional compartmentalization — treating dead or enemy humans as prey — or practices so normalized that they required no special emotional framing.
-
 __Leadership & Personal Authority:__ Leadership was situational. Authority dissolved when the situation passed. There was no office, no stable role of leader.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was personal, owed to kin and familiar band members. There was no formal authority to legitimate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was coordinated by im
 
 __External Relations & Posture:__ Relations with other bands, if encountered, were probably cautious — avoidance, occasional violence, possible interbreeding. The cannibalism may have included intergroup violence, with the eaten being enemies rather than kin.
 
+__Public Sentiment & Behavioral Temper:__ Emotional life included fear, anger, affection, and grief, expressed through gesture and vocalization. The processing of human bodies as food suggests either emotional compartmentalization — treating dead or enemy humans as prey — or practices so normalized that they required no special emotional framing.
+
 __Disaffection, Apathy & Spent Will:__ Loss and exhaustion would have produced grief and apathy. Without ritual or narrative to process loss, emotional recovery depended on time and the demands of survival.
+
 
 ## D06. Informational Domain
 

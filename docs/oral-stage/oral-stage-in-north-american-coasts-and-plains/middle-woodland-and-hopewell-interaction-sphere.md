@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The prestige-good system discharges competition
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shared ceremonial practice generates collective effervescence at seasonal aggregations, binding dispersed communities through common emotional experience; the elaboration of mortuary ritual suggests strong orientation toward ancestral veneration and concern for proper treatment of the dead; trust extends across the interaction sphere, with distant exchange partners treated as reliable despite the absence of formal enforcement mechanisms.
-
 __Leadership & Personal Authority:__ Big-men achieve leadership through demonstrated ability — successful hunting, craft production, alliance-building, and ritual knowledge; their authority is personal and precarious, depending on continued performance rather than inherited office; the archaeological invisibility of elite residences (in contrast to elaborate burials) suggests that living leaders did not occupy qualitatively different spaces from their followers.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy inheres in the reciprocal relationships that bind leaders to followers — the giving of prestige goods, the hosting of feasts, the maintenance of exchange connections that provide security; followers give allegiance in exchange for access to the exchange network's benefits; this legitimacy is continuously performed rather than institutionally secured.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will manifests in the sustai
 
 __External Relations & Posture:__ Relations with communities outside the interaction sphere are poorly documented, but the sphere's expansion during the Middle Woodland period suggests generally peaceful incorporation of new partners; the network functions through inclusion rather than exclusion, with exchange relationships extending to any community that can contribute to or benefit from the circulation of prestige goods.
 
+__Public Sentiment & Behavioral Temper:__ Shared ceremonial practice generates collective effervescence at seasonal aggregations, binding dispersed communities through common emotional experience; the elaboration of mortuary ritual suggests strong orientation toward ancestral veneration and concern for proper treatment of the dead; trust extends across the interaction sphere, with distant exchange partners treated as reliable despite the absence of formal enforcement mechanisms.
+
 __Disaffection, Apathy & Spent Will:__ The collapse of the Hopewell Interaction Sphere around 400 CE suggests eventual exhaustion of the prestige-good system — whether through resource depletion (over-hunting for hides, exhaustion of copper sources), climate shifts that disrupted exchange routes, or simply the saturation of a system that required ever-greater elaboration to maintain its motivating force; the residue is the withdrawal from long-distance exchange and the decline of monumental construction that characterizes the subsequent Late Woodland period.
+
 
 ## D06. Informational Domain
 

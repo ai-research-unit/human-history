@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuding and raiding produced episodic violence 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment is unrecoverable, but monument construction implies collective confidence and willingness to invest labor in multigenerational projects; interpersonal trust extended through kin and ritual networks; the public temper was locally anchored.
-
 __Leadership & Personal Authority:__ Leaders were likely situational—skilled herders, successful hunters, persuasive speakers at assemblies—rather than institutionalized chiefs; personal authority rested on reputation transmitted orally; no sacral kingship or permanent office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attached to kin, community, and ancestral tradition rather than to rulers; megaliths anchored collective identity to place and lineage; legitimacy was not a political problem at this scale.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilized for monument 
 
 __External Relations & Posture:__ Relations with neighboring TRB communities were managed through intermarriage and exchange; relations with residual Mesolithic groups along the northern frontier blended interaction and displacement; no organized external policy or diplomacy.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment is unrecoverable, but monument construction implies collective confidence and willingness to invest labor in multigenerational projects; interpersonal trust extended through kin and ritual networks; the public temper was locally anchored.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection; small-scale societies likely expelled or absorbed discontented individuals; the emotional residue of spent will did not accumulate at this scale.
+
 
 ## D06. Informational Domain
 

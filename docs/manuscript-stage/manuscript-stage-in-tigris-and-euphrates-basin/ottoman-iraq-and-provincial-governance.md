@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Bedouin raiding is endemic, disrupting agricult
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fatalism prevails given recurrent catastrophe; sectarian loyalties run deep, especially Shia identification with the shrine cities; distrust of distant Ottoman authority is widespread.
-
 __Leadership & Personal Authority:__ Effective authority rests with governors who can command loyalty and force—the Mamluk governors of the 18th century exemplify personal rule; tribal shaykhdoms depend on reputation for generosity and military prowess.
 
 __Legitimacy as Lived Allegiance:__ The Ottoman sultan retains nominal legitimacy as caliph, but practical allegiance goes to whoever provides security; Shia populations look to their own clerical hierarchies.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is tribal or sectaria
 
 __External Relations & Posture:__ The provinces serve as a buffer against Safavid and then Qajar Persia; recurring wars (1623–1639, 1730s, 1743–1746, 1821–1823) devastate the region; relations with the Gulf and with Arabian tribal powers are fraught.
 
+__Public Sentiment & Behavioral Temper:__ Fatalism prevails given recurrent catastrophe; sectarian loyalties run deep, especially Shia identification with the shrine cities; distrust of distant Ottoman authority is widespread.
+
 __Disaffection, Apathy & Spent Will:__ Population exhaustion from repeated catastrophe produces passivity; those who can migrate do—merchants to India, scholars to Najaf's safety; those who remain endure rather than resist.
+
 
 ## D06. Informational Domain
 

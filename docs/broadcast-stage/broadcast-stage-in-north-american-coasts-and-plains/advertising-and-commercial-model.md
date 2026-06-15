@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Viewer resistance manifests as channel-changing
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Advertising cultivates consumer desire and anxiety simultaneously — promising fulfillment through purchase while generating inadequacy that only further consumption can address; this emotional economy sustains the commercial model's effectiveness.
-
 __Leadership & Personal Authority:__ Advertising executives — David Ogilvy, Leo Burnett, Bill Bernbach — shape the creative vocabulary of the industry; their personal authority derives from successful campaigns that demonstrate advertising's persuasive power.
 
 __Legitimacy as Lived Allegiance:__ The commercial model's legitimacy rests on the implicit bargain: free programming in exchange for attention to advertising; viewer acceptance of this bargain, while never enthusiastic, provides the consent that sustains the system.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Advertisers demonstrate collective will
 
 __External Relations & Posture:__ American advertising models and agencies spread globally, with Madison Avenue techniques adopted worldwide; the advertising industry's international expansion parallels broader American commercial and cultural influence.
 
+__Public Sentiment & Behavioral Temper:__ Advertising cultivates consumer desire and anxiety simultaneously — promising fulfillment through purchase while generating inadequacy that only further consumption can address; this emotional economy sustains the commercial model's effectiveness.
+
 __Disaffection, Apathy & Spent Will:__ Consumer cynicism toward advertising grows across the period — survey data shows declining trust in advertising claims — but this cynicism coexists with continued effectiveness, as emotional appeals bypass rational skepticism.
+
 
 ## D06. Informational Domain
 

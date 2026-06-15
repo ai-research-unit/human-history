@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Post-disaster social friction includes disputes
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 2011 triple disaster creates lasting trauma and anxiety, particularly regarding nuclear risk. Public trust in government technical competence drops sharply and recovers only partially. Preparedness culture intensifies, with smartphone warning apps becoming normalized anxiety-management tools.
-
 __Leadership & Personal Authority:__ Government crisis communication failures in 2011 damage political legitimacy. Subsequent leaders emphasize visible disaster preparedness. Emperor Akihito's video address during 2011 crisis demonstrates symbolic authority's continued salience alongside digital channels.
 
 __Legitimacy as Lived Allegiance:__ Trust in warning systems depends on perceived accuracy and government credibility. False alarms and delayed warnings erode compliance; the challenge is maintaining public responsiveness to warnings that are necessarily uncertain.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reconstruction commitment remains polit
 
 __External Relations & Posture:__ International assistance during 2011 strengthens some bilateral relationships. Japan's disaster preparedness expertise becomes a soft-power asset, with technical cooperation programs exporting warning system designs.
 
+__Public Sentiment & Behavioral Temper:__ The 2011 triple disaster creates lasting trauma and anxiety, particularly regarding nuclear risk. Public trust in government technical competence drops sharply and recovers only partially. Preparedness culture intensifies, with smartphone warning apps becoming normalized anxiety-management tools.
+
 __Disaffection, Apathy & Spent Will:__ Disaster fatigue affects both affected populations and the broader public as reconstruction stretches across years. Warning fatigue from frequent earthquake alerts risks desensitizing populations to genuine threats. Fukushima evacuees face social stigma and lasting displacement trauma.
+
 
 ## D06. Informational Domain
 

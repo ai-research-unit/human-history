@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The jihad itself is a massive discharge of accu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The jihad unleashes fervor among Fulani Muslims and reformist sympathizers; Hausa commoners divided between resistance and submission; captives and slaves experience terror and resignation; by mid-century, revolutionary zeal settles into routinized piety; trust remains circumscribed by ethnicity and religion.
-
 __Leadership & Personal Authority:__ Usman dan Fodio, the Shehu, commands charismatic authority as religious reformer; his son Muhammad Bello and brother Abdullahi consolidate administrative control; subsequent caliphs inherit legitimacy through lineage and learning; emirs govern with personal authority backed by clerical sanction.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy flows from Islamic credentials; the caliphate claims to restore pure Islam; allegiance strongest among Fulani clans and urban Muslims; Hausa peasants and pagans submit but do not internalize allegiance; legitimacy erodes in outlying areas.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The jihad demonstrates extraordinary co
 
 __External Relations & Posture:__ The Sokoto Caliphate dominates the central Sahel; relations with Bornu (rival Muslim state) oscillate between war and truce; Atlantic powers (Britain) begin encroaching on the coast; trans-Saharan ties to North Africa continue; the caliphate postures as defender of Islam.
 
+__Public Sentiment & Behavioral Temper:__ The jihad unleashes fervor among Fulani Muslims and reformist sympathizers; Hausa commoners divided between resistance and submission; captives and slaves experience terror and resignation; by mid-century, revolutionary zeal settles into routinized piety; trust remains circumscribed by ethnicity and religion.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary fervor dissipates by mid-century; corruption and venality among emirs generate discontent; slave populations harbor latent resistance; the caliphate does not collapse but loses its mobilizing edge.
+
 
 ## D06. Informational Domain
 

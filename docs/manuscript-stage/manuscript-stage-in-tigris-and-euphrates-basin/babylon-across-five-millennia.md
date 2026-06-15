@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conquest brings massacre and deportation (Senna
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Babylonian pride in the city is evident in literature; the sentiment survives conquest by maintaining civic rituals; despair follows destruction, hope follows rebuilding.
-
 __Leadership & Personal Authority:__ The king as shepherd of Marduk's city holds symbolic centrality; foreign rulers (Cyrus, Alexander) seek legitimacy by honoring Babylon's gods; loss of royal residence (under Seleucids) erodes the city's emotional claim.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from proper performance of the Akitu festival and maintenance of Marduk's cult; rulers who neglect these forfeit Babylonian allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Babylon rebels repeatedly against Assyr
 
 __External Relations & Posture:__ Babylon is more often subject than sovereign in the window's later millennia; its posture is defensive, seeking to preserve autonomy within empire.
 
+__Public Sentiment & Behavioral Temper:__ Babylonian pride in the city is evident in literature; the sentiment survives conquest by maintaining civic rituals; despair follows destruction, hope follows rebuilding.
+
 __Disaffection, Apathy & Spent Will:__ The final abandonment reflects spent will—no population remains to resist or rebuild; the last cuneiform astronomical observations (75 CE) mark the end of active Babylonian intellectual life.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Occupation of Lima (1881-1883) produces looting
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial war enthusiasm in all three countries gives way to exhaustion in Peru and Bolivia. Chilean public celebrates naval victories; Peru mourns Grau's death and the loss of the Huascar. Occupation of Lima produces humiliation that print media process into nationalist narratives of regeneration.
-
 __Leadership & Personal Authority:__ Chile's President Anibal Pinto provides civilian leadership; military commanders (Baquedano, Lynch) execute operations. Peru cycles through presidents during the war; Pierola's defense of Lima fails; Caceres leads guerrilla resistance. Bolivian President Daza's early retreat discredits Bolivian participation.
 
 __Legitimacy as Lived Allegiance:__ Chilean victory consolidates state legitimacy and national cohesion. Peruvian defeat fragments political allegiance; rival governments compete for recognition. Bolivian loss of coast becomes permanent grievance undermining subsequent regimes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Chile sustains mobilization through the
 
 __External Relations & Posture:__ Chile emerges as Pacific power; seeks to prevent Peru-Bolivia revanchism. Peru's postwar diplomacy focuses on preventing further territorial loss (Tacna-Arica question). Bolivia's landlocked status defines its foreign policy permanently. British investors favor Chilean stability for nitrate access.
 
+__Public Sentiment & Behavioral Temper:__ Initial war enthusiasm in all three countries gives way to exhaustion in Peru and Bolivia. Chilean public celebrates naval victories; Peru mourns Grau's death and the loss of the Huascar. Occupation of Lima produces humiliation that print media process into nationalist narratives of regeneration.
+
 __Disaffection, Apathy & Spent Will:__ Peruvian defeat produces demoralization lasting a generation; the "Era of Reconstruction" channels grief into modernization efforts. Indigenous populations, conscripted and exploited by both sides, return to subsistence existence with limited changed allegiance to distant states.
+
 
 ## D06. Informational Domain
 

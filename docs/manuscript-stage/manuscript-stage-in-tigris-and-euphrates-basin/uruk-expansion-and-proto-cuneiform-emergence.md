@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction from stratification is absorbed
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is expansionary, confident in the temple's capacity to provision and protect; interpersonal trust extends through kin and temple networks; the behavioral temper is acquisitive and innovative, driving trade expeditions and colonial ventures.
-
 __Leadership & Personal Authority:__ Temple priests (en) exercise leadership through religious office; personal authority derives from intermediation with the gods and control of surplus; political kingship (lugal) has not yet separated from temple authority; leadership is institutional rather than charismatic.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to the temple as the source of subsistence, protection, and access to the gods; legitimacy is high; dissent is not documented and is structurally limited by dependence on temple rations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity is demonstra
 
 __External Relations & Posture:__ Uruk's posture is expansionary, establishing colonies and trade networks across the region; relations with other centers are competitive but not yet militarized; the appetite for resources and prestige drives outward reach.
 
+__Public Sentiment & Behavioral Temper:__ The mood is expansionary, confident in the temple's capacity to provision and protect; interpersonal trust extends through kin and temple networks; the behavioral temper is acquisitive and innovative, driving trade expeditions and colonial ventures.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; will is active and engaged; exhaustion does not characterize this early phase.
+
 
 ## D06. Informational Domain
 

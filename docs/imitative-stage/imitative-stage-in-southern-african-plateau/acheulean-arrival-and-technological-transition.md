@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict discharges through dispersal — indiv
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is immediate and situational — elation at a successful scavenge, fear of predators, irritation within close quarters. Trust extends across the band but erodes beyond its boundaries.
-
 __Leadership & Personal Authority:__ Leadership is situational: the knapper with the steadiest hand leads reduction demonstrations, the individual with the best spatial memory leads ranging. Authority does not persist beyond the task.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy inheres in competence demonstrated on the spot; no appeal to tradition or inherited right is possible in the absence of narrative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve is episodic — a gr
 
 __External Relations & Posture:__ Relations with neighboring bands oscillate between avoidance, wary tolerance, and occasional violent encounter. No alliance or sustained antagonism is maintainable without language to negotiate terms.
 
+__Public Sentiment & Behavioral Temper:__ Affect is immediate and situational — elation at a successful scavenge, fear of predators, irritation within close quarters. Trust extends across the band but erodes beyond its boundaries.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection discharges through fission; individuals who cannot integrate leave or are expelled. Apathy does not accumulate as a collective residue.
+
 
 ## D06. Informational Domain
 

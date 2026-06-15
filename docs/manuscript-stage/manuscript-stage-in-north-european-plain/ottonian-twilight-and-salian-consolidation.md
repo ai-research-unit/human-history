@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuding among nobles is endemic; the Investitur
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Piety intensifies under reform influence; loyalty to lords remains personal and conditional; trust extends within kin and lordship networks but not far beyond.
-
 __Leadership & Personal Authority:__ The emperor's authority rests on sacral charisma and military success; Henry III (1039–1056) epitomizes confident Salian rule; Henry IV (1056–1106) loses charisma through excommunication and penance at Canossa (1077).
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy is contested after Gregory VII challenges lay investiture; nobles and bishops waver between emperor and pope; allegiance fragments regionally.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Salians attempt centralization but 
 
 __External Relations & Posture:__ The empire claims supremacy in Christendom; relations with the papacy oscillate between alliance and confrontation; Poland and Hungary acknowledge nominal imperial overlordship; Denmark remains outside effective control.
 
+__Public Sentiment & Behavioral Temper:__ Piety intensifies under reform influence; loyalty to lords remains personal and conditional; trust extends within kin and lordship networks but not far beyond.
+
 __Disaffection, Apathy & Spent Will:__ The prolonged Investiture struggle exhausts both parties; Henry IV dies in rebellion against his own son; cynicism about imperial and papal claims spreads among those caught between competing demands.
+
 
 ## D06. Informational Domain
 

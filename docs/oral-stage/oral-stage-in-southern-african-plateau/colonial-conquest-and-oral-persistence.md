@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime, faction fighting, and domestic violence 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Resentment, resignation, and endurance characterize African public sentiment; trust is confined to kin and community; fear of colonial authority is pervasive; the behavioral temper is adaptive—outward compliance, inward resistance; morale is maintained through oral tradition, religion, and community solidarity; the mood is neither hopeful nor despairing but enduring.
-
 __Leadership & Personal Authority:__ Chiefs retain personal authority within reserves, mediated by colonial recognition; educated elites (teachers, clergy, clerks) emerge as alternative leaders; figures like John Dube, Pixley Seme, and Sol Plaatje found the African National Congress (1912) and articulate grievance in written and oral form; leadership is increasingly literate but oral authority persists, especially in rural areas.
 
 __Legitimacy as Lived Allegiance:__ Colonial rule is imposed, not consented to; legitimacy among Africans rests with chiefs and community institutions, not with colonial government; the legitimacy reservoir for colonial authority is empty; allegiance to African leaders and institutions is sustained through oral tradition—genealogy, praise poetry, and customary law.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ African political will is expressed thr
 
 __External Relations & Posture:__ African polities have lost external agency; colonial powers (Britain, South Africa, Portugal) determine external relations; African leaders appeal to imperial authority (e.g., Sotho appeals to the Crown) but have no independent foreign policy; the posture is defensive and petitionary, not assertive.
 
+__Public Sentiment & Behavioral Temper:__ Resentment, resignation, and endurance characterize African public sentiment; trust is confined to kin and community; fear of colonial authority is pervasive; the behavioral temper is adaptive—outward compliance, inward resistance; morale is maintained through oral tradition, religion, and community solidarity; the mood is neither hopeful nor despairing but enduring.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is pervasive but managed through endurance and community; apathy is less common than controlled resentment; will is not spent but constrained; the standing distrust of colonial authority does not translate into effective resistance within the period but is preserved in oral memory for future mobilization.
+
 
 ## D06. Informational Domain
 

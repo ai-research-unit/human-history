@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence pervasive—estimates range from 500,0
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror and revolutionary fervor intertwined; genuine enthusiasm among young Red Guards mixed with opportunism and fear; older population survives through feigned enthusiasm or hiding; paranoia universal given informer networks; public expression uniformly revolutionary while private sentiment ranges from belief to despair.
-
 __Leadership & Personal Authority:__ Mao Zedong at cult's apex—his image, his Little Red Book, his directives broadcast continuously; Lin Biao as designated successor until flight and death (1971); Zhou Enlai as moderating figure maintaining minimal function; Gang of Four (Jiang Qing, Zhang Chunqiao, Yao Wenyuan, Wang Hongwen) control cultural apparatus and broadcast content.
 
 __Legitimacy as Lived Allegiance:__ Mao's personal legitimacy sustains the system even as party institutions collapse; young Red Guards genuinely believe; older population's allegiance increasingly performative; Lin Biao affair (1971) shocks true believers; post-Mao revelations will shatter remaining faith.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Capacity for mass mobilization demonstr
 
 __External Relations & Posture:__ Isolation nearly complete; border clashes with USSR (1969) raise war fears; Nixon visit (1972) begins rapprochement with US, broadcast as strategic victory; diplomatic missions attacked by Red Guards (British embassy burned); foreign radio jammed.
 
+__Public Sentiment & Behavioral Temper:__ Terror and revolutionary fervor intertwined; genuine enthusiasm among young Red Guards mixed with opportunism and fear; older population survives through feigned enthusiasm or hiding; paranoia universal given informer networks; public expression uniformly revolutionary while private sentiment ranges from belief to despair.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary enthusiasm exhausts itself by early 1970s; sent-down youth generation becomes cynical; April Fifth Movement (1976) mourning Zhou Enlai demonstrates popular disaffection; Mao's death releases suppressed exhaustion; post-1976 revelations will channel accumulated grievance.
+
 
 ## D06. Informational Domain
 

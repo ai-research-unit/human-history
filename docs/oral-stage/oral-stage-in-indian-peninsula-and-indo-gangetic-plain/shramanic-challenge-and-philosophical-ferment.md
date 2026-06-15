@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Doctrinal disputes and schisms are the primary 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Spiritual seeking is widespread; many feel dissatisfaction with Brahmanical ritualism and caste hierarchy. Renouncers attract admiration and support. Lay populations express devotion (shraddha/saddha) to teachers. The emotional temper is one of questioning, aspiration, and willingness to try new paths. Trust in charismatic teachers is high.
-
 __Leadership & Personal Authority:__ Charismatic founders — Siddhartha Gautama (Buddha), Mahavira, Upanishadic sages like Yajnavalkya — command intense personal loyalty. Their authority rests on perceived spiritual attainment, teaching skill, and exemplary conduct. Disciples memorize and transmit their words. Authority is personal, not institutional.
 
 __Legitimacy as Lived Allegiance:__ Followers believe in their teachers' enlightenment or liberation. This belief is freely given, not coerced. Royal patronage (Bimbisara, Ajatashatru support the Buddha) legitimates movements without controlling them. Legitimacy is earned through teaching and conduct, tested in public debate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Monastic communities develop strong col
 
 __External Relations & Posture:__ Shramanic movements spread through missionary activity: monks and nuns travel, teach, and establish communities. Relations with Brahmanical orthodoxy are competitive but rarely violent. Debate is the preferred mode of contest. By window's end, Buddhism and Jainism are established across northern India.
 
+__Public Sentiment & Behavioral Temper:__ Spiritual seeking is widespread; many feel dissatisfaction with Brahmanical ritualism and caste hierarchy. Renouncers attract admiration and support. Lay populations express devotion (shraddha/saddha) to teachers. The emotional temper is one of questioning, aspiration, and willingness to try new paths. Trust in charismatic teachers is high.
+
 __Disaffection, Apathy & Spent Will:__ Some renouncers fail to achieve enlightenment and return to lay life. Doubts and defections occur. Internal controversies drain energy. But the movements are young and vital; spent will is not yet a significant problem. Enthusiasm exceeds exhaustion.
+
 
 ## D06. Informational Domain
 

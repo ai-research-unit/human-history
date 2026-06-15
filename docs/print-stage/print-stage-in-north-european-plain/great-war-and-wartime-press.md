@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Discontent accumulates beneath the surface. Str
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ August 1914 produces the "Spirit of 1914" — genuine if not universal enthusiasm, civic solidarity, suspension of partisan conflict. This mood erodes as the war lengthens. By 1916, war-weariness dominates; by 1917, cynicism and bitterness spread. Trust in official statements declines as the gap between propaganda and reality widens.
-
 __Leadership & Personal Authority:__ The Kaiser fades into symbolic irrelevance. Hindenburg becomes a cult figure — the savior-general. Ludendorff wields real power but lacks popular charisma. Civilian politicians lose authority to the military. No leader commands sufficient trust to navigate defeat.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy erodes progressively. The Burgfrieden holds through 1916 but frays thereafter. By 1918, many Germans no longer believe the regime deserves their sacrifice. The gap between official claims and lived experience — hunger, death, endless war — dissolves the bond.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will holds longer than might
 
 __External Relations & Posture:__ Germany fights a two-front war against superior combined resources. The spring 1918 offensive represents the last gamble; its failure seals the outcome. Relations with allies — Austria-Hungary, Ottoman Empire, Bulgaria — grow strained as all weaken together.
 
+__Public Sentiment & Behavioral Temper:__ August 1914 produces the "Spirit of 1914" — genuine if not universal enthusiasm, civic solidarity, suspension of partisan conflict. This mood erodes as the war lengthens. By 1916, war-weariness dominates; by 1917, cynicism and bitterness spread. Trust in official statements declines as the gap between propaganda and reality widens.
+
 __Disaffection, Apathy & Spent Will:__ By late 1918, disaffection is pervasive. The revolution of November 1918 expresses exhaustion more than ideology. The will to fight is spent; the will to resist revolution is absent. Apathy and trauma settle over a defeated society.
+
 
 ## D06. Informational Domain
 

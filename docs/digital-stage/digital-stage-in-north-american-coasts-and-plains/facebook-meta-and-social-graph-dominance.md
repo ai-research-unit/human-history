@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Platform-enabled harassment, coordinated inauth
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment toward Facebook shifts dramatically across the window. Early enthusiasm (connecting people, enabling activism) gives way to suspicion (data harvesting, manipulation) and hostility (political polarization, teen mental health). The "Delete Facebook" movement following Cambridge Analytica achieves symbolic importance but limited actual effect. Trust in the company falls to among the lowest of major corporations.
-
 __Leadership & Personal Authority:__ Mark Zuckerberg maintains personal control throughout, though his public image transforms from idealistic founder to embattled executive. Sheryl Sandberg provides operational leadership and serves as public face for business and policy until her departure in 2022. Zuckerberg's 2018 congressional testimony ("Senator, we run ads") becomes an emblem of tech-government disconnect.
 
 __Legitimacy as Lived Allegiance:__ The company's legitimacy erodes through accumulated crises. Users continue using the platform (network effects create lock-in) but with diminished trust and affection. The Meta rebrand attempts to escape Facebook's reputational baggage but convinces few observers.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Zuckerberg's personal will drives major
 
 __External Relations & Posture:__ Relations with government shift from cooperative (Obama era) to adversarial (Trump era and after). The company faces regulatory pressure from the FTC, state attorneys general, and Congress. Relations with advertisers remain commercially stable despite controversy. Relations with news publishers deteriorate as the platform extracts their audience and revenue.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment toward Facebook shifts dramatically across the window. Early enthusiasm (connecting people, enabling activism) gives way to suspicion (data harvesting, manipulation) and hostility (political polarization, teen mental health). The "Delete Facebook" movement following Cambridge Analytica achieves symbolic importance but limited actual effect. Trust in the company falls to among the lowest of major corporations.
+
 __Disaffection, Apathy & Spent Will:__ User fatigue manifests in declining engagement on core Facebook, partially offset by Instagram growth. Employee morale suffers through controversies and the metaverse pivot's uncertain reception. The optimism of the company's early years gives way to defensive positioning and internal cynicism.
+
 
 ## D06. Informational Domain
 

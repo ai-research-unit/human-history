@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Job displacement anxiety creates diffuse social
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public opinion on AI splits between enthusiasm and anxiety. Younger and more educated populations tend toward cautious optimism. Workers in potentially automatable roles express concern. The pace of change creates a sense of vertigo even among technologists.
-
 __Leadership & Personal Authority:__ Sam Altman of OpenAI becomes the public face of AI development, until his brief ouster and return in November 2023 reveals governance fragility. Sundar Pichai, Satya Nadella, and Mark Zuckerberg lead incumbent responses. Dario and Daniela Amodei of Anthropic represent the safety-focused alternative. Elon Musk oscillates between AI investment and AI criticism.
 
 __Legitimacy as Lived Allegiance:__ Trust in AI companies runs lower than trust in AI technology itself. The "move fast and break things" ethos of earlier tech eras faces retrospective criticism. AI companies attempt to establish legitimacy through safety rhetoric, with mixed credibility.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bipartisan concern about AI exists but 
 
 __External Relations & Posture:__ AI competition with China shapes policy. Export controls on advanced chips (October 2022, tightened 2023) attempt to slow Chinese AI development. Allies coordinate loosely on AI governance. The UK hosts an AI Safety Summit (November 2023). International coordination remains aspirational.
 
+__Public Sentiment & Behavioral Temper:__ Public opinion on AI splits between enthusiasm and anxiety. Younger and more educated populations tend toward cautious optimism. Workers in potentially automatable roles express concern. The pace of change creates a sense of vertigo even among technologists.
+
 __Disaffection, Apathy & Spent Will:__ Tech worker morale declines through layoffs and uncertainty. Public fatigue with tech industry promises sets in. The gap between AI hype and delivered value creates cynicism among early adopters. Whether this congeals into lasting disaffection or dissipates as technology matures remains open.
+
 
 ## D06. Informational Domain
 

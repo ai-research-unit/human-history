@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Residual Sogdian resistance and anti-Arab revol
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial resentment of Arab conquest gives way to accommodation as conversion spreads and local elites gain office; public mood stabilizes toward cautious trust in the emerging Samanid-brokered order; interpersonal trust extends through guild, Sufi, and neighborhood networks.
-
 __Leadership & Personal Authority:__ Abbasid caliphs in Baghdad hold nominal authority; local governors — increasingly the Samanid family after 819 CE — exercise practical leadership; Samanid emirs cultivate legitimacy through patronage, justice, and Islamic piety, building personal authority that outstrips their nominal subordination.
 
 __Legitimacy as Lived Allegiance:__ Allegiance shifts from tribal and Sogdian loyalties toward Islamic communal identity and dynastic attachment to the Samanids; the transition is incomplete by 900 CE but advancing; disaffection among non-converts and marginalized groups persists but does not threaten the order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Samanid emirs demonstrate growing w
 
 __External Relations & Posture:__ Transoxiana acknowledges Abbasid suzerainty but operates with increasing autonomy; relations with Turkic steppe powers oscillate between raiding and alliance; the Samanids position themselves as defenders of the Islamic frontier (thughur), gaining prestige and justifying military expenditure.
 
+__Public Sentiment & Behavioral Temper:__ Initial resentment of Arab conquest gives way to accommodation as conversion spreads and local elites gain office; public mood stabilizes toward cautious trust in the emerging Samanid-brokered order; interpersonal trust extends through guild, Sufi, and neighborhood networks.
+
 __Disaffection, Apathy & Spent Will:__ Residual disaffection among non-Muslim communities and those who resent Arab-Islamic dominance persists but lacks organizational expression after the suppression of al-Muqanna; the affective residue remains minor, not accumulating into destabilizing force.
+
 
 ## D06. Informational Domain
 

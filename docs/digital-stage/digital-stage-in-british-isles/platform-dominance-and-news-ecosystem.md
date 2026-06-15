@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Trust in media declines: Reuters Institute surv
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Media polarization intensifies. Brexit referendum (2016) crystallizes division between Leave and Remain media ecosystems. Outrage engagement drives platform algorithm optimization. Trust in "mainstream media" declines particularly among Leave and right-leaning demographics.
-
 __Leadership & Personal Authority:__ Individual journalists build personal followings on platforms, decoupled from institutional affiliation. Twitter becomes primary venue for journalistic presence and self-promotion. Piers Morgan, Julia Hartley-Brewer, Gary Lineker, Owen Jones become platform personalities with independent audience bases.
 
 __Legitimacy as Lived Allegiance:__ Legacy media brands retain authority for older demographics but lose legitimacy among younger cohorts who never developed institutional trust. "The media" becomes target of populist critique from both left and right.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Journalism's self-conception as fourth 
 
 __External Relations & Posture:__ British media retains global reach through BBC World Service and Guardian's international digital expansion. Financial Times and Economist maintain elite global readership. Brexit reduces EU coordination on platform regulation.
 
+__Public Sentiment & Behavioral Temper:__ Media polarization intensifies. Brexit referendum (2016) crystallizes division between Leave and Remain media ecosystems. Outrage engagement drives platform algorithm optimization. Trust in "mainstream media" declines particularly among Leave and right-leaning demographics.
+
 __Disaffection, Apathy & Spent Will:__ News avoidance rises, particularly among younger demographics. Reuters Institute reports growing proportion actively avoiding news by mid-2020s. Journalism as profession loses attractiveness; career entrants decline.
+
 
 ## D06. Informational Domain
 

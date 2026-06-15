@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political polarization intensifies, with social
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear and anxiety dominate during pandemic peaks. Grief from COVID losses affects millions of families. Political anger intensifies across ideological divides. Brazil's polarization reaches unprecedented levels. Trust in institutions and fellow citizens declines. Conspiracy thinking spreads through closed messaging groups.
-
 __Leadership & Personal Authority:__ Bolsonaro cultivates cult of personality through direct digital communication, attacking institutions and promoting COVID denialism. AMLO uses daily mañaneras to bypass traditional media. Populist leaders across the region leverage platforms for direct audience connection. Traditional political authority patterns destabilize.
 
 __Legitimacy as Lived Allegiance:__ Institutional legitimacy erodes further. Brazil's 2018 election disputed by losing side; 2022 election generates pre-emptive delegitimization attempts by Bolsonaro. Venezuela's competing claims to legitimacy persist. Colombia and Chile see legitimacy crises driving protest waves. Peru experiences rapid presidential turnover reflecting legitimacy failures.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Digital organizing enables rapid mobili
 
 __External Relations & Posture:__ US-China tech competition creates pressure for alignment choices. Huawei 5G debates play out across the region. Brazilian dependence on Chinese agricultural markets constrains tech policy. Venezuelan isolation continues. Regional integration efforts stagnate while bilateral digital dependencies on US platforms deepen.
 
+__Public Sentiment & Behavioral Temper:__ Fear and anxiety dominate during pandemic peaks. Grief from COVID losses affects millions of families. Political anger intensifies across ideological divides. Brazil's polarization reaches unprecedented levels. Trust in institutions and fellow citizens declines. Conspiracy thinking spreads through closed messaging groups.
+
 __Disaffection, Apathy & Spent Will:__ Political exhaustion spreads after years of polarization and pandemic. Youth disaffection with democratic processes coexists with digital political engagement. Venezuela sees continued emigration-as-exit rather than voice. Brazil's 2022 election mobilizes record turnout, suggesting reserves of engagement despite exhaustion.
+
 
 ## D06. Informational Domain
 

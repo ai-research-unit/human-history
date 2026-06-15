@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor unrest, content moderation controversies,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Early optimism about democratized information access gives way to techlash sentiment. Trust in Google declines as awareness of data collection, market power, and algorithmic manipulation spreads.
-
 __Leadership & Personal Authority:__ Larry Page and Sergey Brin retreat from public roles after 2015, ceding operational control to Sundar Pichai. The founders' vision of organizing the world's information persists as corporate mythology.
 
 __Legitimacy as Lived Allegiance:__ Google's legitimacy rests on the perception of useful, unbiased results. Revelations about advertising influence, political bias claims from both left and right, and quality degradation erode this foundation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The company navigates between progressi
 
 __External Relations & Posture:__ Google maintains lobbying operations in Washington and Brussels to manage regulatory threats. Relations with the European Union remain adversarial, with billions in fines levied for antitrust violations.
 
+__Public Sentiment & Behavioral Temper:__ Early optimism about democratized information access gives way to techlash sentiment. Trust in Google declines as awareness of data collection, market power, and algorithmic manipulation spreads.
+
 __Disaffection, Apathy & Spent Will:__ Engineer idealism fades as commercial imperatives dominate product decisions. The departure of prominent employees and the contraction of moonshot ambitions signal exhaustion of the founding vision.
+
 
 ## D06. Informational Domain
 

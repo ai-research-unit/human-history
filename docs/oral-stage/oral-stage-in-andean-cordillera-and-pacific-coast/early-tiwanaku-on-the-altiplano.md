@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is low; reciprocal obligation a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mood across the basin is stable and pious; trust within the ayllu is high, extending to neighboring groups through intermarriage and shared ritual; anxiety centers on frost and drought, mediated by priestly intercession.
-
 __Leadership & Personal Authority:__ Priestly figures at the ceremonial center command authority through ritual knowledge and cosmological access; ayllu headmen lead through demonstrated generosity and reciprocal obligation, not coercion.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows from belief in the sacred efficacy of the center; pilgrims arrive from across the basin, and the absence of fortification or rebellion suggests deep-seated consent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve coalesces around mon
 
 __External Relations & Posture:__ Tiwanaku projects soft power through religious prestige and trade, drawing pilgrims and goods rather than conquering territory; posture is expansive but non-coercive, building influence through ideological attraction.
 
+__Public Sentiment & Behavioral Temper:__ Mood across the basin is stable and pious; trust within the ayllu is high, extending to neighboring groups through intermarriage and shared ritual; anxiety centers on frost and drought, mediated by priestly intercession.
+
 __Disaffection, Apathy & Spent Will:__ No sign of widespread disaffection or exhaustion; the trend is one of growth and consolidation, with affective reserves accumulating rather than depleting.
+
 
 ## D06. Informational Domain
 

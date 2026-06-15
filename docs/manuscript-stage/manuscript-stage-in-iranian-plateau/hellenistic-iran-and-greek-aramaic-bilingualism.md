@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises generate civil wars; eastern 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Greek settlers exhibit cultural confidence and ethnic pride; indigenous populations range from accommodation to resentment depending on the weight of Greek extraction and cultural pressure; the mood is one of layered coexistence rather than fusion; trust operates within ethnic and community boundaries rather than across them; the Parthian rise reflects indigenous sentiment recovering political expression.
-
 __Leadership & Personal Authority:__ Seleucid kings claim divine or semi-divine status in Greek fashion; personal charisma varies — Seleucus I and Antiochus III command respect, weaker successors do not; indigenous elites retain local authority; the Arsacid founders of Parthia build personal followings among Iranian populations; leadership is fragmented across multiple centers and traditions.
 
 __Legitimacy as Lived Allegiance:__ Greek settlers accept Seleucid rule as their own; indigenous populations accept it as superior force; legitimacy among Iranians is thin — the Seleucids are foreign rulers, tolerable when light, resented when heavy; the Parthian rise represents indigenous legitimacy reasserting itself; by period's end, Seleucid legitimacy on the plateau has collapsed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Seleucid will is directed toward Medite
 
 __External Relations & Posture:__ The Seleucids face multiple fronts — Ptolemaic Egypt, Antigonid Macedon, rising Rome, eastern breakaways; the posture is defensive and reactive; alliance with indigenous elites provides the only sustainable policy, but cultural condescension undermines it; Parthian relations begin as vassal or client, transition to independence, and end in Seleucid expulsion.
 
+__Public Sentiment & Behavioral Temper:__ Greek settlers exhibit cultural confidence and ethnic pride; indigenous populations range from accommodation to resentment depending on the weight of Greek extraction and cultural pressure; the mood is one of layered coexistence rather than fusion; trust operates within ethnic and community boundaries rather than across them; the Parthian rise reflects indigenous sentiment recovering political expression.
+
 __Disaffection, Apathy & Spent Will:__ Greek settler populations maintain morale through the period; indigenous disaffection grows as Seleucid weakness becomes apparent; elite defections to Parthia accelerate after mid-period; by 140 BCE the Seleucid will to hold the plateau has collapsed; the residue of disaffection has translated into political realignment.
+
 
 ## D06. Informational Domain
 

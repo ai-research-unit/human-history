@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Dinshaway Incident (1906) — British offic
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Humiliation is the dominant tone: Egypt is ruled by foreigners who deny Egyptians posts, respect, and rights. Resentment simmers beneath a surface of enforced calm. Dinshaway inflames public feeling; the death of Mustafa Kamil (1908) produces mass mourning.
-
 __Leadership & Personal Authority:__ Lord Cromer (consul-general 1883–1907) is the autocrat behind the veil — respected for efficiency, loathed for arrogance. Mustafa Kamil (National Party) and Ahmad Lutfi al-Sayyid (Umma Party) articulate nationalist sentiment in print and speech. Muhammad Abduh bridges religious reform and modernization.
 
 __Legitimacy as Lived Allegiance:__ The Khedive (Abbas II, 1892–1914) is nominally sovereign but visibly subordinate to the British. His early defiance (1890s) gives way to accommodation. Legitimacy drains from the dynasty; the nation, not the ruler, becomes the object of loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The nationalist movement demonstrates c
 
 __External Relations & Posture:__ Egypt is nominally Ottoman, actually British. The Sudan is reconquered (1898) and placed under Anglo-Egyptian Condominium, thinly veiling British control. Egypt's posture is reactive; the initiative lies with London.
 
+__Public Sentiment & Behavioral Temper:__ Humiliation is the dominant tone: Egypt is ruled by foreigners who deny Egyptians posts, respect, and rights. Resentment simmers beneath a surface of enforced calm. Dinshaway inflames public feeling; the death of Mustafa Kamil (1908) produces mass mourning.
+
 __Disaffection, Apathy & Spent Will:__ By 1914, the older nationalist leaders are dead (Mustafa Kamil, Muhammad Farid in exile) or marginalized. The younger effendiyya is educated, frustrated, and waiting. Disaffection is banked, not discharged.
+
 
 ## D06. Informational Domain
 

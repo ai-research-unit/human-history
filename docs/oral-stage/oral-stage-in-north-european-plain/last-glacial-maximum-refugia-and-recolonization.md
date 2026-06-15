@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction discharged by fission — bands split 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Refugial stress may have heightened anxiety and caution; as expansion proceeds, optimism and confidence rise with improving conditions; trust networks extend as populations grow and aggregation gatherings multiply.
-
 __Leadership & Personal Authority:__ Leadership remains situational; skilled hunters, navigators of the new terrain, and those with knowledge of the retreating ice margin gain authority; shamans interpret the changing landscape spiritually.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to kin and band; no abstract polity; legitimacy is personal, earned, and reciprocal.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will expressed in migration 
 
 __External Relations & Posture:__ Relations between bands generally cooperative; the expanding frontier offers land for all; exogamous marriage links dispersing populations; no evidence of organized warfare.
 
+__Public Sentiment & Behavioral Temper:__ Refugial stress may have heightened anxiety and caution; as expansion proceeds, optimism and confidence rise with improving conditions; trust networks extend as populations grow and aggregation gatherings multiply.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection rare — the frontier absorbs discontent; refugial stress may have produced despair in some, but the expansion phase renews collective energy.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ethnic and regional tensions surface at indepen
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Independence generates widespread euphoria and nationalist sentiment. Expectations for rapid development run high. Colonial grievances provide shared reference points; anti-colonial messaging anchors early broadcast content. Trust in new national institutions remains strong initially.
-
 __Leadership & Personal Authority:__ Charismatic independence leaders—Nkrumah (Ghana), Senghor (Senegal), Azikiwe and Awolowo (Nigeria), Keita (Mali), Houphouët-Boigny (Ivory Coast)—command intense personal loyalty. Broadcasting amplifies their voices, making presidential addresses and independence day speeches foundational media events.
 
 __Legitimacy as Lived Allegiance:__ New states claim legitimacy through anti-colonial nationalism and development promises. Broadcasting serves as primary instrument for projecting state legitimacy to mass audiences. Allegiance to national identity competes with ethnic and regional attachments.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Independence movements sustain collecti
 
 __External Relations & Posture:__ Cold War alignments begin shaping regional postures. Guinea's rejection of the French Community (1958) demonstrates independent will; most Francophone states maintain close French ties. Nigeria cultivates non-aligned credentials. Broadcasting carries messaging about external relations, particularly during the Biafran conflict when international opinion becomes contested.
 
+__Public Sentiment & Behavioral Temper:__ Independence generates widespread euphoria and nationalist sentiment. Expectations for rapid development run high. Colonial grievances provide shared reference points; anti-colonial messaging anchors early broadcast content. Trust in new national institutions remains strong initially.
+
 __Disaffection, Apathy & Spent Will:__ Initial euphoria moderates as development promises prove difficult to fulfill. Regional grievances (Nigeria) generate disaffection with national project. Post-coup disillusionment begins eroding confidence in political leadership; by 1970 several states have experienced military intervention.
+
 
 ## D06. Informational Domain
 

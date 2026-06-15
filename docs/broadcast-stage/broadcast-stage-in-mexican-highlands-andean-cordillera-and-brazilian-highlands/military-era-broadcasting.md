@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ State terrorism eliminates or exiles opposition
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear pervades public life under military rule — the knock at midnight, the unmarked car — while official optimism and consumer-entertainment culture provide psychological escape; Brazilian "economic miracle" generates genuine enthusiasm among beneficiaries; Chilean polarization leaves half the population traumatized by coup, half relieved.
-
 __Leadership & Personal Authority:__ Military leaders command through force rather than charisma, though some cultivate personal cults (Pinochet, to a degree the Brazilian generals); broadcast magnates exercise parallel authority — Roberto Marinho becomes kingmaker in Brazilian politics, Emilio Azcárraga Milmo consolidates Mexican media empire aligned with PRI.
 
 __Legitimacy as Lived Allegiance:__ Military regimes claim legitimacy through anti-communist necessity, development achievement, and order restoration; actual allegiance varies — Brazilian miracle generates support, Chilean coup splits society, Argentine military inherits rather than creates Peronist legitimacy crisis; broadcast complicity confers regime legitimacy while withholding critical coverage.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Military governments exercise concentra
 
 __External Relations & Posture:__ US Cold War alliance frames regional security; Nixon-Kissinger support for coups (Chile 1973 most documented) aligns with military regimes; Cuba remains isolated while supporting guerrilla movements; South-South solidarity among military regimes (Operation Condor coordinates cross-border repression from 1975); Brazil claims regional leadership.
 
+__Public Sentiment & Behavioral Temper:__ Fear pervades public life under military rule — the knock at midnight, the unmarked car — while official optimism and consumer-entertainment culture provide psychological escape; Brazilian "economic miracle" generates genuine enthusiasm among beneficiaries; Chilean polarization leaves half the population traumatized by coup, half relieved.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary hopes defeated, democratic participation foreclosed, survivors of repression traumatized — the emotional residue is a generation's spent will to contest, though exile communities maintain alternative visions; domestic populations retreat into private life, family, and television-mediated consumption as available satisfactions under authoritarian constraint.
+
 
 ## D06. Informational Domain
 

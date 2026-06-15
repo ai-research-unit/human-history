@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ El Mirador's abandonment circa 150 CE marks the
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Monumental construction implies collective mobilization around shared purpose — whether through enthusiasm, obligation, or coercion is unclear. The scale of labor suggests elite capacity to command broad participation.
-
 __Leadership & Personal Authority:__ Ajaw (ruler) figures emerge with divine-royal attributes, commanding personal authority grounded in lineage, ritual performance, and military success. Portraiture on monuments begins to individualize rulers.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ruler's capacity to mediate between human and divine realms, ensure agricultural fertility, and organize successful warfare. Monumental construction visibly demonstrates power and divine favor.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to undertake multi-generationa
 
 __External Relations & Posture:__ Inter-polity warfare attested; long-distance trade implies diplomatic as well as commercial relations. Kaminaljuyu maintains highland-lowland connections. No evidence of imperial expansion in modern sense — competition among peer polities predominates.
 
+__Public Sentiment & Behavioral Temper:__ Monumental construction implies collective mobilization around shared purpose — whether through enthusiasm, obligation, or coercion is unclear. The scale of labor suggests elite capacity to command broad participation.
+
 __Disaffection, Apathy & Spent Will:__ El Mirador's abandonment suggests exhaustion of the political will sustaining the center — whether through elite factional collapse, commoner defection, or external conquest remains debated.
+
 
 ## D06. Informational Domain
 

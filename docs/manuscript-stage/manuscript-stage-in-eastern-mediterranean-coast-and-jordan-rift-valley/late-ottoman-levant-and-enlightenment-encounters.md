@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage along trade routes, Bedouin raids on
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fatalism (tawakkul) and communal solidarity characterize public mood; trust extends within confessional and kinship circles but not far beyond; European commercial presence excites both opportunity and suspicion; plague and famine years generate collective anxiety and religious supplication.
-
 __Leadership & Personal Authority:__ Local strongmen—Dahir al-Umar, Jazzar Pasha—command through personal authority, patronage, and controlled violence; religious leaders (muftis, patriarchs, chief rabbis) hold moral authority within their communities; Ottoman governors exercise delegated authority but depend on local alliances.
 
 __Legitimacy as Lived Allegiance:__ The Ottoman sultan retains nominal allegiance as caliph and sovereign, but effective loyalty attaches to local patrons who provide protection and access; confessional community commands primary allegiance; legitimacy is personalized and transactional rather than abstract.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political initiative rests with local s
 
 __External Relations & Posture:__ The Levant is an Ottoman frontier exposed to European commercial penetration and, at century's end, French military adventure (Napoleon's 1799 campaign); local governors balance between Ottoman suzerainty and European trade; no indigenous actor projects power beyond the region.
 
+__Public Sentiment & Behavioral Temper:__ Fatalism (tawakkul) and communal solidarity characterize public mood; trust extends within confessional and kinship circles but not far beyond; European commercial presence excites both opportunity and suspicion; plague and famine years generate collective anxiety and religious supplication.
+
 __Disaffection, Apathy & Spent Will:__ Peasant fatalism and resignation reflect limited horizons; urban artisan resentment of foreign competition simmers but does not organize; no revolutionary sentiment emerges; disaffection remains latent, absorbed by religious resignation and communal solidarity.
+
 
 ## D06. Informational Domain
 

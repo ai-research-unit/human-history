@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social stress manifests in rising youth withdra
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence collapses with the bubble; a pervasive mood of uncertainty and diminished expectations replaces 1980s optimism; the phrase "lost decade" (ushinawareta junen) enters common usage, broadcast repeatedly until it becomes self-reinforcing narrative.
-
 __Leadership & Personal Authority:__ Prime ministers rotate rapidly through factional bargaining (Kaifu, Miyazawa, Hosokawa, Hata, Murayama, Hashimoto, Obuchi, Mori), with none achieving sustained public connection; bureaucratic authority declines; leadership vacuum becomes a broadcast-media commonplace.
 
 __Legitimacy as Lived Allegiance:__ System legitimacy erodes without collapsing; voter turnout reaches postwar lows (2000 general election: 62%); cynicism about politicians and bureaucrats spreads, but no alternative vision commands broad allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reform efforts (administrative, financi
 
 __External Relations & Posture:__ Japan maintains the US alliance but plays a passive role in post-Cold War restructuring; the first Gulf War (1991) exposes constitutional limits on military contribution, prompting self-examination; China's rise begins to register as a long-term concern in strategic commentary.
 
+__Public Sentiment & Behavioral Temper:__ Confidence collapses with the bubble; a pervasive mood of uncertainty and diminished expectations replaces 1980s optimism; the phrase "lost decade" (ushinawareta junen) enters common usage, broadcast repeatedly until it becomes self-reinforcing narrative.
+
 __Disaffection, Apathy & Spent Will:__ Public withdrawal from collective life intensifies; consumer resignation to deflation, voter apathy, and youth disengagement signal exhausted collective will, a malaise broadcast extensively but not thereby overcome.
+
 
 ## D06. Informational Domain
 

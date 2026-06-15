@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The decentralized system generates endemic fric
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Bronze inscriptions reveal aristocratic pride in royal favor, lineage honor, and martial achievement; the Classic of Poetry (Shijing), compiled in this period, expresses a wider emotional range, including peasant complaint and longing; a sense of cosmic order and hierarchical propriety pervades elite sentiment.
-
 __Leadership & Personal Authority:__ The Zhou king claims the Mandate of Heaven (tianming), a new ideological justification for rule; effective kings (Wen, Wu, early rulers) command respect through military success and ritual propriety; weak kings lose authority to powerful lords and face rebellion.
 
 __Legitimacy as Lived Allegiance:__ The Mandate of Heaven doctrine holds that Heaven withdraws its favor from unworthy rulers, legitimating the Zhou overthrow of Shang and implicitly warning Zhou kings themselves; allegiance depends on the king's perceived virtue and efficacy; bronze inscriptions record oaths of loyalty, but the frequency of revolt suggests allegiance is conditional.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The king's will is nominally supreme, b
 
 __External Relations & Posture:__ The Zhou maintain a posture of civilized superiority over surrounding peoples (Rong, Di, Yi, Man), but the frontier is porous and relations oscillate between warfare and accommodation; intermarriage with frontier elites blurs boundaries; the western Rong ultimately penetrate to the capital itself.
 
+__Public Sentiment & Behavioral Temper:__ Bronze inscriptions reveal aristocratic pride in royal favor, lineage honor, and martial achievement; the Classic of Poetry (Shijing), compiled in this period, expresses a wider emotional range, including peasant complaint and longing; a sense of cosmic order and hierarchical propriety pervades elite sentiment.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection accumulates among lords who resent royal demands or favor shown to rivals; the late Western Zhou kings face open rebellion; the relocation of the capital to Luoyang after 771 BCE marks the spent will of the royal house, which thereafter rules in name only.
+
 
 ## D06. Informational Domain
 

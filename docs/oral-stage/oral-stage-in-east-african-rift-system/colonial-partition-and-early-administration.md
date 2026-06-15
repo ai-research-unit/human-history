@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Resistance is suppressed; banditry and cattle r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood among Africans ranges from traumatized acquiescence (post-Maji Maji) to sullen resentment to active collaboration. Trust in Europeans is low; trust in African intermediaries varies. The temper is subdued; open defiance is suicidal. Among Europeans, confidence and racial arrogance prevail.
-
 __Leadership & Personal Authority:__ Colonial governors (e.g., Frederick Lugard in Uganda, Albrecht von Rechenberg in German East Africa) set policy. African chiefs retain authority as intermediaries but are subordinated; some collaborate, some resist, most maneuver. No African leader commands trans-regional allegiance.
 
 __Legitimacy as Lived Allegiance:__ Colonial rule lacks legitimacy among Africans; it rests on force, not consent. African chiefs retain residual legitimacy where they protect their people; they lose it where they are seen as colonial tools. European settlers claim legitimacy through "civilizing mission" and racial superiority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The colonial state has strong will and 
 
 __External Relations & Posture:__ East Africa is a pawn in European great-power competition. The 1890 Heligoland-Zanzibar Treaty trades German claims in Zanzibar for British claims in Heligoland. Boundaries are drawn in Berlin, not Africa. World War I (beginning 1914) will turn the region into a theater of European conflict.
 
+__Public Sentiment & Behavioral Temper:__ The mood among Africans ranges from traumatized acquiescence (post-Maji Maji) to sullen resentment to active collaboration. Trust in Europeans is low; trust in African intermediaries varies. The temper is subdued; open defiance is suicidal. Among Europeans, confidence and racial arrogance prevail.
+
 __Disaffection, Apathy & Spent Will:__ African political will is not spent but suppressed. Disaffection is widespread but cannot be expressed. Apathy is a survival strategy. The emotional residue of conquest — grief, humiliation, resentment — is stored, not cleared.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder peaks during the disruption — raidin
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence collapses; fear, grief, and desperation dominate; trust contracts to immediate kin; the expansive optimism of the florescence inverts into survival-focused anxiety; collective trauma marks the generation that lives through the disruption.
-
 __Leadership & Personal Authority:__ Established leaders lose credibility when they fail to prevent catastrophe; new leaders emerge among survivors — those who organize flight, defense, or resettlement — but their authority is provisional, tested by crisis.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the old order evaporates; legitimacy must be rebuilt from demonstrated competence in the crisis; the genealogies and foundation stories that legitimated former elites lose their grip as the communities they anchored disappear.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will fragments; communities lack the co
 
 __External Relations & Posture:__ External relations collapse along with exchange networks; the posture toward outsiders shifts from exchange-oriented to defensive; refugees seek entry to surviving communities, straining hospitality norms; Crete, less affected, begins to absorb displaced populations and redirect exchange.
 
+__Public Sentiment & Behavioral Temper:__ Confidence collapses; fear, grief, and desperation dominate; trust contracts to immediate kin; the expansive optimism of the florescence inverts into survival-focused anxiety; collective trauma marks the generation that lives through the disruption.
+
 __Disaffection, Apathy & Spent Will:__ Spent will and apathy settle over survivors; the energy to rebuild is slow to return; disaffection with the old ways opens space for new forms of social organization — pre-palatial Crete offers a glimpse of what will emerge.
+
 
 ## D06. Informational Domain
 

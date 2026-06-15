@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission — 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional register is inaccessible directly; inference suggests that fire provides security (warmth, light, predator deterrence), which may reduce baseline anxiety. The hearth as gathering point likely intensifies social bonding.
-
 __Leadership & Personal Authority:__ Leadership is situational and informal — the skilled knapper, the successful hunter, the fire-tender — with no institutionalized authority. Prestige flows from competence demonstrated in view of the group.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy in the formal sense does not apply. Allegiance is to kin and co-residents, maintained through daily interaction and mutual aid. No abstract authority exists to legitimate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges from shared i
 
 __External Relations & Posture:__ Relations with other hominin groups are unknown. Encounters may be rare given low population density. Posture is presumably cautious — neither aggressive expansion nor organized alliance.
 
+__Public Sentiment & Behavioral Temper:__ The emotional register is inaccessible directly; inference suggests that fire provides security (warmth, light, predator deterrence), which may reduce baseline anxiety. The hearth as gathering point likely intensifies social bonding.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expresses through departure; the group cannot compel membership. Apathy is invisible archaeologically. Spent will — exhaustion after crisis — leaves no trace.
+
 
 ## D06. Informational Domain
 

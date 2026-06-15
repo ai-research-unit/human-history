@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Hyde Park riots (1866) preceding Reform Act; Fe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mid-Victorian confidence, imperial pride, and faith in progress characterize public mood. The "Victorian values" of self-improvement, respectability, and earnestness pervade middle-class and aspirational working-class culture.
-
 __Leadership & Personal Authority:__ Palmerston (d. 1865) embodies confident nationalism; Gladstone and Disraeli dominate subsequent decades as rival tribunes with contrasting styles — moral earnestness versus theatrical imperialism. Newspaper proprietors (Delane at The Times, Levy at Telegraph) wield significant influence.
 
 __Legitimacy as Lived Allegiance:__ Constitutional monarchy under Victoria commands broad loyalty; Reform Acts extend legitimacy by incorporating wider electorate. Irish and some working-class disaffection persists but does not threaten stability.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reform movements achieve legislative su
 
 __External Relations & Posture:__ Imperial expansion continues — India firmly controlled after 1857 Mutiny, Africa penetrated. Non-intervention in European conflicts after Crimea; "splendid isolation" emerging. Press celebrates imperial victories, mourns setbacks.
 
+__Public Sentiment & Behavioral Temper:__ Mid-Victorian confidence, imperial pride, and faith in progress characterize public mood. The "Victorian values" of self-improvement, respectability, and earnestness pervade middle-class and aspirational working-class culture.
+
 __Disaffection, Apathy & Spent Will:__ Irish nationalism sustains disaffection; Fenian movement attempts armed action. English working-class radicalism attenuated by prosperity and reform; trade-union economism replaces political agitation. Apathy among those still excluded from franchise.
+
 
 ## D06. Informational Domain
 

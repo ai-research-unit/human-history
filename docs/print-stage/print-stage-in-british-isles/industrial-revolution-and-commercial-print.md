@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Technological displacement generates chronic fr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Print expansion stimulates and reflects public appetite for information and entertainment; the reading public grows from an elite to a mass phenomenon, and popular sentiment increasingly shapes what is printed.
-
 __Leadership & Personal Authority:__ Press barons exercise quasi-political leadership; Northcliffe's influence on public opinion during the Great War demonstrates how print concentration enables individual will to shape collective sentiment.
 
 __Legitimacy as Lived Allegiance:__ Newspapers cultivate reader loyalty through consistent editorial voice; the Times man, the Daily Mail reader, the Manchester Guardian subscriber each identifies with their paper's worldview, creating affective bonds that publishers exploit.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Newspapers actively shape political wil
 
 __External Relations & Posture:__ Imperial print networks project British commercial and cultural power abroad; Reuters and the imperial press conference system link metropolitan and colonial publishing, and newspaper campaigns support or oppose foreign entanglements.
 
+__Public Sentiment & Behavioral Temper:__ Print expansion stimulates and reflects public appetite for information and entertainment; the reading public grows from an elite to a mass phenomenon, and popular sentiment increasingly shapes what is printed.
+
 __Disaffection, Apathy & Spent Will:__ Worker alienation grows with industrialization; the skilled compositor's craft pride erodes as mechanization deskills the trade, and the affective engagement that sustained artisanal printing gives way to wage-labor instrumentalism.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Fraud via UPI exploits social engineering vulne
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial demonetization enthusiasm among UPI adopters gives way to routine acceptance. By 2023, digital payments feel natural to urban populations under 40, while older cohorts retain cash preferences rooted in familiarity and distrust of digital systems.
-
 __Leadership & Personal Authority:__ Prime Minister Modi personally promotes Digital India and demonetization as modernization achievements. NPCI leadership maintains low public profile while building infrastructure. Fintech founders become minor celebrities in business media.
 
 __Legitimacy as Lived Allegiance:__ Government framing of digital payments as patriotic modernization and anti-corruption measure generates genuine buy-in from middle-class populations. Skepticism persists among those who experienced demonetization hardship or exclusion from digital systems.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ State commitment to digital payment inf
 
 __External Relations & Posture:__ India promotes UPI as exportable infrastructure to other developing nations. Agreements with Singapore, UAE, and other countries for UPI interoperability position India as digital payment innovator. The rejection of foreign payment networks like Mastercard and Visa for domestic transactions asserts economic sovereignty.
 
+__Public Sentiment & Behavioral Temper:__ Initial demonetization enthusiasm among UPI adopters gives way to routine acceptance. By 2023, digital payments feel natural to urban populations under 40, while older cohorts retain cash preferences rooted in familiarity and distrust of digital systems.
+
 __Disaffection, Apathy & Spent Will:__ Those excluded from digital payment systems through lack of smartphones, digital literacy, or reliable connectivity experience alienation from modernizing economy. Rural elderly populations express frustration at being unable to transact without family assistance.
+
 
 ## D06. Informational Domain
 

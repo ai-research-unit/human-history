@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The war represents total social breakdown in af
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trauma defines the emotional landscape — grief for the dead, fear of ongoing violence, despair at destroyed futures, anger at international indifference; hope persists mainly among the diaspora and those who escaped.
-
 __Leadership & Personal Authority:__ Revolutionary leaders — the professionals' association, resistance committee coordinators — are killed, arrested, dispersed, or marginalized; military commanders replace civilian voices.
 
 __Legitimacy as Lived Allegiance:__ Neither RSF nor the army commands genuine allegiance; the transitional civilian government that briefly held hope is destroyed; legitimacy resides, if anywhere, in the memory of the revolution and the continued organizing of resistance committees.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The revolutionary will that toppled Bas
 
 __External Relations & Posture:__ Sudan becomes a site of proxy competition, with UAE supporting RSF and Egypt backing the army; regional powers shape the conflict while Sudanese voices struggle to be heard internationally.
 
+__Public Sentiment & Behavioral Temper:__ Trauma defines the emotional landscape — grief for the dead, fear of ongoing violence, despair at destroyed futures, anger at international indifference; hope persists mainly among the diaspora and those who escaped.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary exhaustion meets war trauma; young Sudanese who believed they had changed their country watch it destroyed; the will to rebuild exists but the conditions do not.
+
 
 ## D06. Informational Domain
 

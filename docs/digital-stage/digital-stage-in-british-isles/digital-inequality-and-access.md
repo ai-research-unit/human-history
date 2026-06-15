@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The digitally excluded are more likely to miss 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety about being "left behind" pervades older and less-educated populations; the digitally excluded report feelings of exclusion, embarrassment, and frustration, while the connected develop impatience with offline-only systems, widening an empathy gap.
-
 __Leadership & Personal Authority:__ Digital exclusion policy lacks charismatic champions; it is a technocratic concern, advanced by think tanks (Good Things Foundation, Lloyds Bank Consumer Digital Index) and charities rather than political leaders, leaving it low on the public agenda.
 
 __Legitimacy as Lived Allegiance:__ Trust in digital systems is uneven: the digitally fluent trust platforms more than the state, while the excluded distrust both; legitimacy fractures along the access divide, with those forced into digital-by-default systems they cannot navigate feeling abandoned.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will to address digital exclu
 
 __External Relations & Posture:__ Ireland's position as EU tech hub creates divergent regulatory posture; UK-Ireland digital relations are cooperative on practical matters but diverge on data protection and platform regulation post-Brexit.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety about being "left behind" pervades older and less-educated populations; the digitally excluded report feelings of exclusion, embarrassment, and frustration, while the connected develop impatience with offline-only systems, widening an empathy gap.
+
 __Disaffection, Apathy & Spent Will:__ The chronically digitally excluded develop learned helplessness; repeated failures to navigate digital systems produce withdrawal and reliance on informal intermediaries, settling into a resigned acceptance of second-class service access.
+
 
 ## D06. Informational Domain
 

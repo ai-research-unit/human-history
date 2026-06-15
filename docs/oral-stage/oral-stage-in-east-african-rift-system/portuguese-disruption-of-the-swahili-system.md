@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder is the defining condition: sieges, sac
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear and rage characterize Swahili populations under Portuguese assault. Resistance is fueled by outrage at sacrilege (mosques burned), massacre, and dispossession. The Portuguese are hated; collaboration carries stigma. Among the Portuguese themselves, morale oscillates between greedy confidence and desperate fear, depending on reinforcement and local circumstance.
-
 __Leadership & Personal Authority:__ Sultans who resist become heroes of oral tradition (Yusuf of Mombasa, who converted to Christianity under Portuguese pressure, then apostasized and led a massacre of the garrison in 1631). Portuguese captains are remembered as villains. Leadership on both sides is personal, charismatic, and volatile—there are no stable institutions to transcend individual tenure.
 
 __Legitimacy as Lived Allegiance:__ Portuguese legitimacy is nil among the Swahili; rule rests on force alone. Collaborators lose legitimacy; resisters gain it. Among the Portuguese, legitimacy derives from crown commission and Catholic faith, but distance from Lisbon attenuates both. Local mestico communities develop their own sense of belonging, neither fully Portuguese nor fully Swahili.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Swahili towns resist fiercely but canno
 
 __External Relations & Posture:__ The Portuguese posture is aggressive extraction: tribute, monopoly, forced conversion. Swahili towns seek external allies: the Ottomans (who send fleets in 1585–89 but withdraw), Omani Arabs (who ultimately succeed). Relations with interior polities remain marginal; the Portuguese barely penetrate beyond the coast. The region becomes a theater of wider Indian Ocean geopolitics, with outcomes determined far from the coast itself.
 
+__Public Sentiment & Behavioral Temper:__ Fear and rage characterize Swahili populations under Portuguese assault. Resistance is fueled by outrage at sacrilege (mosques burned), massacre, and dispossession. The Portuguese are hated; collaboration carries stigma. Among the Portuguese themselves, morale oscillates between greedy confidence and desperate fear, depending on reinforcement and local circumstance.
+
 __Disaffection, Apathy & Spent Will:__ By the late 17th century, Portuguese will is spent: garrisons are undermanned, reinforcement is irregular, and the Estado da India is overextended. Swahili disaffection is channeled into Omani alliance. The exhaustion of both parties prepares the ground for Portuguese expulsion and Omani succession.
+
 
 ## D06. Informational Domain
 

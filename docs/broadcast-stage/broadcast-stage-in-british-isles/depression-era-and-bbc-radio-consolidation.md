@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social unrest is muted despite mass unemploymen
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety about unemployment coexists with growing consumer optimism in prosperous regions; radio provides escape and reassurance; fear of war grows through the decade, especially after 1938.
-
 __Leadership & Personal Authority:__ John Reith dominates the BBC with moral and administrative authority; his public service vision shapes institutional culture; political leadership (MacDonald, Baldwin, Chamberlain) is cautious and managerial.
 
 __Legitimacy as Lived Allegiance:__ The BBC earns public trust through reliability, quality, and restraint; the institution's legitimacy rests on its distance from commercial motive and political partisanship; the Crown remains a focus of allegiance, bolstered by royal broadcasts (George V's Christmas message from 1932).
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National will is fragmented — unemplo
 
 __External Relations & Posture:__ Britain seeks to preserve the European status quo while managing imperial obligations; the BBC Empire Service projects soft power; appeasement of Germany reflects fear of conflict and overextension.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety about unemployment coexists with growing consumer optimism in prosperous regions; radio provides escape and reassurance; fear of war grows through the decade, especially after 1938.
+
 __Disaffection, Apathy & Spent Will:__ Mass unemployment breeds resignation rather than revolt; the BBC's avoidance of controversy contributes to political quiescence; disaffection accumulates but finds no broadcast outlet, remaining latent until war mobilizes national purpose.
+
 
 ## D06. Informational Domain
 

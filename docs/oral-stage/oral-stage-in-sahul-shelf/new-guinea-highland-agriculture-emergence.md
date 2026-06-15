@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-group violence, sorcery accusations, and 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is assertive, competitive, and watchful; prestige anxiety drives big-men to accumulate and redistribute; mistrust of outsiders and rival clans coexists with intense solidarity within kin groups; fear of sorcery is pervasive, shaping behavior and social suspicion.
-
 __Leadership & Personal Authority:__ Big-men lead through oratory, generosity, and demonstrated success in gardening, pig-raising, and exchange; their authority is personal, not inherited or formally sanctioned; charisma and rhetorical skill are essential; rivals compete openly for followings.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to successful big-men who deliver feasts, mediate disputes, and protect clan interests; legitimacy is continuously earned, not institutionally guaranteed; failure to deliver erodes followings rapidly.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action depends on big-man mo
 
 __External Relations & Posture:__ Relations with neighboring valleys oscillate between alliance (cemented by marriage and exchange) and enmity (expressed in raiding and warfare); no overarching political structure unites highland communities; each valley maintains its own posture through oral diplomacy and threat.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is assertive, competitive, and watchful; prestige anxiety drives big-men to accumulate and redistribute; mistrust of outsiders and rival clans coexists with intense solidarity within kin groups; fear of sorcery is pervasive, shaping behavior and social suspicion.
+
 __Disaffection, Apathy & Spent Will:__ Failure in exchange, loss in warfare, or sorcery accusation can shatter a big-man's prestige and scatter his following; generational turnover dissipates accumulated influence; disaffection manifests as defection to rival leaders rather than systemic withdrawal.
+
 
 ## D06. Informational Domain
 

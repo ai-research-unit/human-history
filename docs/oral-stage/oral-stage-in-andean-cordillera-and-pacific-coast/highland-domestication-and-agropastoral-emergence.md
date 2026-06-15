@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is absorbed through kin mediation, ban
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extends through kin and exchange partners across vertical zones; the radius of confidence widens as long-distance caravan networks embed relationships; sentiment is cautious but cooperative.
-
 __Leadership & Personal Authority:__ Authority is achieved through skill, generosity, and oratorical ability; leaders of communal hunts, caravan expeditions, and ritual events command respect without coercive power; leadership rotates by context.
 
 __Legitimacy as Lived Allegiance:__ Allegiance runs to kin, herd, field, and ancestral place; legitimacy is grounded in oral genealogy and remembered precedent; the founding ancestors of pasture and field rights are invoked in disputes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic — commu
 
 __External Relations & Posture:__ Relations with coastal and valley communities are generally peaceable, structured by exchange; competition over pasture and herds creates tension among highland groups, but outright warfare is rare and localized.
 
+__Public Sentiment & Behavioral Temper:__ Trust extends through kin and exchange partners across vertical zones; the radius of confidence widens as long-distance caravan networks embed relationships; sentiment is cautious but cooperative.
+
 __Disaffection, Apathy & Spent Will:__ The small scale and kin intimacy of the band limit disaffection; individuals who fall out may relocate or fission off; no evidence of collective apathy or exhaustion.
+
 
 ## D06. Informational Domain
 

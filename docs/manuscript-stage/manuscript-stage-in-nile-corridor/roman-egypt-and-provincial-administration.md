@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Alexandrian riots (38 CE, 66 CE, 115–117 CE, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Egyptian peasant sentiment toward Roman rule appears resigned rather than loyal — extraction is accepted as immutable while evasion strategies persist; Alexandrian Greek sentiment divides between accommodation and occasional violent resistance; Jewish communities oscillate between cooperation and revolt; Christian communities develop distinct affective bonds.
-
 __Leadership & Personal Authority:__ The emperor is distant but omnipresent in documentary invocation; prefects rotate too frequently to develop local authority; local notables (gymnasiarchs, bouleutai) bear leadership burdens without corresponding power; charismatic leadership emerges in revolt contexts and later in Christian episcopal authority.
 
 __Legitimacy as Lived Allegiance:__ Imperial cult receives formal observance; temple cults validate emperor as pharaoh; practical legitimacy rests on effective administration and grain-supply maintenance; legitimacy fractures in 3rd-century crisis as imperial claimants multiply and provincial defense fails.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Rome's will to hold Egypt remains absol
 
 __External Relations & Posture:__ Egypt is internal to the empire — relations are administrative rather than diplomatic; southern frontier with Meroe/Kush is generally peaceful after Augustus's campaigns; Red Sea trade creates informal commercial relations with Indian Ocean polities; Palmyrene intervention (270 CE) briefly disrupts imperial control.
 
+__Public Sentiment & Behavioral Temper:__ Egyptian peasant sentiment toward Roman rule appears resigned rather than loyal — extraction is accepted as immutable while evasion strategies persist; Alexandrian Greek sentiment divides between accommodation and occasional violent resistance; Jewish communities oscillate between cooperation and revolt; Christian communities develop distinct affective bonds.
+
 __Disaffection, Apathy & Spent Will:__ Revolt episodes demonstrate active disaffection among specific groups; broader Egyptian population appears apathetic rather than resistant; late 3rd-century tax flight and liturgy evasion signal spent will to participate in administrative system.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Raiding, banditry, and feuding persist; vendett
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear of raiders and apocalyptic anxiety pervade the early period; the approach of the millennium (1000 CE) generates both dread and fervent piety; trust extends within kin and monastic community but contracts toward outsiders; the mood lifts as raiding diminishes and harvests improve.
-
 __Leadership & Personal Authority:__ Abbots and bishops command personal authority within their communities; Carolingian emperors and Ottonian successors project sacred kingship; the pope claims spiritual supremacy but exercises limited temporal power; charismatic abbots (Odo of Cluny's Italian missions) inspire reform movements.
 
 __Legitimacy as Lived Allegiance:__ Carolingian legitimacy rests on Frankish conquest, papal anointing, and the ideology of renovatio imperii; as the empire fragments, legitimacy devolves to local lords and bishops whose claims rest on tradition, force, and ecclesiastical sanction; allegiance is personal and localized.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will is diffuse, fragmented a
 
 __External Relations & Posture:__ Italy is subject to external powers — Carolingian emperors, Ottonian kings, Byzantine governors — rather than projecting power outward; the papacy mediates among powers; Saracen and Magyar raiders exploit Italian weakness; the posture is defensive and receptive to outside influence.
 
+__Public Sentiment & Behavioral Temper:__ Fear of raiders and apocalyptic anxiety pervade the early period; the approach of the millennium (1000 CE) generates both dread and fervent piety; trust extends within kin and monastic community but contracts toward outsiders; the mood lifts as raiding diminishes and harvests improve.
+
 __Disaffection, Apathy & Spent Will:__ Peasant exhaustion under extraction and raiding generates passive endurance rather than active resistance; monastic communities sustain morale through liturgy and communal discipline; disaffection is diffuse and does not crystallize into rebellion during this period.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The late 1960s student movement peaks with 1968
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence peaks before the oil shock; post-shock anxiety about energy security and economic future spreads; the "oil shock" becomes a cultural reference point; adaptation and resilience prove stronger than panic.
-
 __Leadership & Personal Authority:__ Prime ministers rotate within the LDP faction system; Tanaka Kakuei's populist style and money politics dominate the early 1970s until his 1974 resignation over corruption; technocratic competence rather than charisma characterizes leadership.
 
 __Legitimacy as Lived Allegiance:__ Economic performance continues legitimating the system; the oil shock tests but does not break allegiance; opposition parties gain support temporarily but cannot challenge LDP dominance; the emperor system remains symbolic and accepted.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The oil shock mobilizes conservation an
 
 __External Relations & Posture:__ The Nixon shocks (China, currency) strain the US alliance; Japan pursues resource diplomacy in the Middle East; normalized relations with China achieved in 1972; Southeast Asian economic relations expand; the posture shifts toward more autonomous diplomacy within the alliance framework.
 
+__Public Sentiment & Behavioral Temper:__ Confidence peaks before the oil shock; post-shock anxiety about energy security and economic future spreads; the "oil shock" becomes a cultural reference point; adaptation and resilience prove stronger than panic.
+
 __Disaffection, Apathy & Spent Will:__ Radical student energy exhausts itself through the early 1970s; the counterculture fades; post-oil-shock conservatism and practicality replace idealism; political apathy increases among youth; the 1960s movements leave some lasting social criticism but limited institutional change.
+
 
 ## D06. Informational Domain
 

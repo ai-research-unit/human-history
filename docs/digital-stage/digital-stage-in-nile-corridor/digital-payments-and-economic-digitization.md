@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Sudan's banking system collapses as conflict de
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Economic anxiety dominates as currency devaluations erode savings; trust in digital systems competes with suspicion of state surveillance capabilities.
-
 __Leadership & Personal Authority:__ Central Bank governor and finance minister become significant figures as economic crisis management dominates public attention; Sisi's personal authority tied to economic performance.
 
 __Legitimacy as Lived Allegiance:__ The state's legitimacy rests partly on economic delivery; currency crisis and inflation undermine this pillar, though no organized political alternative emerges under authoritarian conditions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime commits to economic digitiza
 
 __External Relations & Posture:__ Gulf investment in Egyptian fintech; UAE-backed companies expand; Saudi Arabia and UAE provide crucial financial support during currency crisis, linking digital economy to regional patron relationships.
 
+__Public Sentiment & Behavioral Temper:__ Economic anxiety dominates as currency devaluations erode savings; trust in digital systems competes with suspicion of state surveillance capabilities.
+
 __Disaffection, Apathy & Spent Will:__ Economic stress produces resignation more than mobilization under authoritarian conditions; citizens adapt to hardship without visible collective action.
+
 
 ## D06. Informational Domain
 

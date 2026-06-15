@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Two civil wars (1955–1972, 1983–2005) and D
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Northern sentiment oscillates between Arab-Islamic pride and war weariness; southern populations experience broadcast as an instrument of alien domination, deepening alienation rather than building national identification.
-
 __Leadership & Personal Authority:__ Successive leaders (Abboud 1958–1964, Nimeiri 1969–1985, Bashir 1989–2019) use broadcast to project personal authority; Bashir's Islamic revolutionary rhetoric saturates programming after 1989.
 
 __Legitimacy as Lived Allegiance:__ Regime legitimacy rests on Arab-Islamic identity claims broadcast ceaselessly to northern audiences; among southern populations, state broadcast commands no allegiance, serving instead as evidence of northern domination.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ State broadcast mobilizes support for m
 
 __External Relations & Posture:__ Broadcast projects defiance toward Western critics and solidarity with Arab and Islamic causes; international isolation (especially post-1997 sanctions) is framed as external aggression against Islamic Sudan.
 
+__Public Sentiment & Behavioral Temper:__ Northern sentiment oscillates between Arab-Islamic pride and war weariness; southern populations experience broadcast as an instrument of alien domination, deepening alienation rather than building national identification.
+
 __Disaffection, Apathy & Spent Will:__ Northern war weariness eventually supports 2005 Comprehensive Peace Agreement; southern populations' complete alienation from Khartoum's broadcast messaging contributes to overwhelming independence referendum support (98.8% in 2011).
+
 
 ## D06. Informational Domain
 

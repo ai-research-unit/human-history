@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is absorbed through fission-fus
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mood is unrecoverable; the repeated use of the cave and elaboration of technique suggest confidence and attachment to place. Trust extends to the group; the radius is narrow.
-
 __Leadership & Personal Authority:__ Leadership is situational — the skilled hunter, the elder, the effective demonstrator. Authority is personal, not positional.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band; legitimacy is enacted through competence and reciprocity, not claim.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve suffices for communa
 
 __External Relations & Posture:__ Relations with other groups are unrecoverable; the population density suggests infrequent encounter. Posture is likely cautious and neutral.
 
+__Public Sentiment & Behavioral Temper:__ Mood is unrecoverable; the repeated use of the cave and elaboration of technique suggest confidence and attachment to place. Trust extends to the group; the radius is narrow.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective exhaustion; the site's long use suggests sustained engagement. Disaffection is absorbed through mobility.
+
 
 ## D06. Informational Domain
 

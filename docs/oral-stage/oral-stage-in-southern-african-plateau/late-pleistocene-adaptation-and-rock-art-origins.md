@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict discharged through mobility—dissente
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Collective mood tied to resource availability; aggregation periods bring heightened sociability and ritual fervor; drought and scarcity darken temper; trust radius extends across allied bands.
-
 __Leadership & Personal Authority:__ Authority personal and ephemeral—earned by skill, generosity, and ritual power; no coercive leadership; influence persuades rather than commands.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin and band; legitimacy unquestioned within the egalitarian frame; no rulers to challenge or support.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will emerges for communal hu
 
 __External Relations & Posture:__ Inter-band relations structured by kinship and exchange; hostility rare; territorial boundaries porous; external posture cooperative and defensive rather than expansive.
 
+__Public Sentiment & Behavioral Temper:__ Collective mood tied to resource availability; aggregation periods bring heightened sociability and ritual fervor; drought and scarcity darken temper; trust radius extends across allied bands.
+
 __Disaffection, Apathy & Spent Will:__ Fission allows exit before disaffection hardens; apathy minimal in small-group context; will regenerates through ritual and reciprocity.
+
 
 ## D06. Informational Domain
 

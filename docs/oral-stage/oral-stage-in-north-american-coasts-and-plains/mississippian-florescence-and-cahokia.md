@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Population dispersal after ~1200 CE indicates b
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ At peak, aggregation at Cahokia suggests confidence, opportunity, or compulsion sufficient to draw migrants; participation in monumental construction implies collective investment; by 1200 CE, out-migration signals declining confidence or rising grievance; public temper shifts from expansion to contraction.
-
 __Leadership & Personal Authority:__ Paramount chiefs wield authority legitimated by cosmological sanction, kinship rank, and redistribution capacity; elite burials (Mound 72) demonstrate power over life and death; personal authority is concentrated but subject to succession fragility; no individual names survive in the oral record.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on cosmological role (chief as axis connecting upper, middle, and underworlds), successful redistribution, and military protection; allegiance likely strongest at peak when surplus flows outward; erosion evident as population leaves; legitimacy is not renewed when material conditions decline.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Coordinated labor for Monks Mound (mult
 
 __External Relations & Posture:__ Cahokia's influence extends through SECC iconographic diffusion, exchange, and possibly emulation rather than conquest; secondary centers (Moundville, Etowah) are not politically subordinate but participate in shared symbolic vocabulary; posture is expansive at peak, contracting as Cahokia declines and regional chiefdoms rise independently.
 
+__Public Sentiment & Behavioral Temper:__ At peak, aggregation at Cahokia suggests confidence, opportunity, or compulsion sufficient to draw migrants; participation in monumental construction implies collective investment; by 1200 CE, out-migration signals declining confidence or rising grievance; public temper shifts from expansion to contraction.
+
 __Disaffection, Apathy & Spent Will:__ Out-migration, site abandonment, and reduced monumental investment after 1200 CE indicate spent will; the population votes with its feet; disaffection is not recorded but inferred from the demographic and archaeological record; the affective reservoir is exhausted by the period's end.
+
 
 ## D06. Informational Domain
 

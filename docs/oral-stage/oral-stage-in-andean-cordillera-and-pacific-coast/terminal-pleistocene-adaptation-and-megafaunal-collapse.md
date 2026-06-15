@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction remains low. Fission continues 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment shaped by the extinction crisis: familiar prey vanishing, subsistence techniques failing, new methods required. Anxiety high during transition; confidence rebuilds as broad-spectrum foraging succeeds. Trust remains high within the band; inter-band trust expands through exchange relationships.
-
 __Leadership & Personal Authority:__ Leadership remains situational and expertise-based. The individual who knows the new techniques—how to fish, where the shellfish beds lie—commands authority. Oral transmission of innovation is leadership: the inventor who can teach is followed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance remains kin-based and personal. Legitimacy earned through demonstrated competence in the new subsistence regime. Those who adapt and teach retain followers; those who fail are abandoned.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will tested by extinction cr
 
 __External Relations & Posture:__ Relations with other bands increasingly structured by exchange. Inter-zonal partnerships (coast-highland) emerging. Competition for resources possible as populations grow, but violence remains rare; spatial adjustment preferred.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment shaped by the extinction crisis: familiar prey vanishing, subsistence techniques failing, new methods required. Anxiety high during transition; confidence rebuilds as broad-spectrum foraging succeeds. Trust remains high within the band; inter-band trust expands through exchange relationships.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection possible in failed groups facing extinction-driven starvation. Apathy a death sentence in this context. Successful adaptation generates momentum; failure generates dispersal rather than accumulated despair.
+
 
 ## D06. Informational Domain
 

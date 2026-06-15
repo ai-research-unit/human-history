@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The O.J. Simpson trial (1995) demonstrates cabl
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-Cold War optimism characterizes early 1990s; economic prosperity and the dot-com boom generate confidence; anxieties about globalization and cultural change simmer but find expression through talk radio and cable opinion programming rather than through network consensus.
-
 __Leadership & Personal Authority:__ Cable news personalities gain influence — Rush Limbaugh on radio, CNN's Larry King, emerging Fox News voices; network anchors (Brokaw, Jennings, Rather) retain prestige but diminishing audience share; Oprah Winfrey demonstrates singular cross-platform influence.
 
 __Legitimacy as Lived Allegiance:__ Trust in network news declines; the 2000 election night debacle — networks calling Florida for Gore, then Bush, then retracting — damages broadcast news credibility; partisan media alternatives (Fox News, 1996) offer ideologically congruent alternatives to perceived mainstream bias.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Gulf War (1991) demonstrates CNN's 
 
 __External Relations & Posture:__ American media dominance extends globally; CNN International projects American perspectives worldwide; Canadian content regulations (CanCon) struggle to maintain cultural space against US programming; US media exports face growing but limited local competition in major markets.
 
+__Public Sentiment & Behavioral Temper:__ Post-Cold War optimism characterizes early 1990s; economic prosperity and the dot-com boom generate confidence; anxieties about globalization and cultural change simmer but find expression through talk radio and cable opinion programming rather than through network consensus.
+
 __Disaffection, Apathy & Spent Will:__ Voter turnout continues its long decline despite media saturation; younger viewers increasingly disengage from broadcast news; the fragmentation of national discourse into ideological niches accelerates distrust across political lines.
+
 
 ## D06. Informational Domain
 

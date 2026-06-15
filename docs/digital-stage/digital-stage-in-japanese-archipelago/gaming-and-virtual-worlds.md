@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Toxic communities, harassment campaigns against
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Gaming communities generate intense loyalty and equally intense conflict; console wars, franchise rivalries, and VTuber fan divisions create passionate factional identities.
-
 __Leadership & Personal Authority:__ Top streamers, prominent developers, and VTuber personalities command devoted followings; their pronouncements influence purchasing decisions and community norms.
 
 __Legitimacy as Lived Allegiance:__ Brand loyalty to Nintendo, Sony, and specific franchises runs deep, cultivated over decades through childhood associations and sustained quality.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Gaming communities occasionally mobiliz
 
 __External Relations & Posture:__ Japanese gaming maintains global cultural influence; the worldwide popularity of Nintendo franchises and anime-adjacent games projects soft power, while VTuber agencies expand into English and other language markets.
 
+__Public Sentiment & Behavioral Temper:__ Gaming communities generate intense loyalty and equally intense conflict; console wars, franchise rivalries, and VTuber fan divisions create passionate factional identities.
+
 __Disaffection, Apathy & Spent Will:__ Burnout affects professional players, content creators, and development staff; the entertainment industry's demand for constant content production exhausts those within it.
+
 
 ## D06. Informational Domain
 

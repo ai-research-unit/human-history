@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict resolves through submission, avoidance
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective states are immediate and interpersonal. Trust extends to familiar group members. The small population means all members likely know one another directly.
-
 __Leadership & Personal Authority:__ Leadership is informal and situational, based on demonstrated competence. No office or title exists.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to the band, maintained through daily interaction. There is no abstract order requiring legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is coordinated throug
 
 __External Relations & Posture:__ There are no external relations. The population is completely isolated; no other hominin groups exist on Flores during this window.
 
+__Public Sentiment & Behavioral Temper:__ Affective states are immediate and interpersonal. Trust extends to familiar group members. The small population means all members likely know one another directly.
+
 __Disaffection, Apathy & Spent Will:__ Individual withdrawal or exhaustion occurs but does not accumulate as a social fact. The band's affective tone resets with personnel change.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry increases as provincial administration
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Aware (pathos, sensitivity to transience) emerges as the dominant aesthetic sentiment; court culture cultivates refined emotional responsiveness as a marker of cultivation.
-
 __Leadership & Personal Authority:__ Fujiwara regents (sessho, kampaku) exercise effective authority while emperors perform ritual functions; Michinaga (966–1028) represents the apogee of Fujiwara power and personal dominance.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy remains unquestioned at the symbolic level while actual governance passes to regents and estate holders; the throne persists as the ritual center around which power circulates.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The court lacks military capacity for s
 
 __External Relations & Posture:__ Formal embassies to China end; limited private trade continues; Korean relations remain minimal; the court defines itself increasingly against a Chinese other while absorbing Chinese learning.
 
+__Public Sentiment & Behavioral Temper:__ Aware (pathos, sensitivity to transience) emerges as the dominant aesthetic sentiment; court culture cultivates refined emotional responsiveness as a marker of cultivation.
+
 __Disaffection, Apathy & Spent Will:__ Provincial populations drift from state registration without open revolt; the court accommodates estate formation rather than reasserting direct control; political competition remains within aristocratic channels.
+
 
 ## D06. Informational Domain
 

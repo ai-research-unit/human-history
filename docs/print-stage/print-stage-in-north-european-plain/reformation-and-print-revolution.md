@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Peasants' War leaves 100,000 dead and bitte
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Religious fervor dominates. Anticlerical resentment among laity fuels receptivity to Luther's message. Millenarian expectations and apocalyptic anxiety color popular piety. Trust radiates along confessional lines: Lutherans trust Lutherans.
-
 __Leadership & Personal Authority:__ Martin Luther is the charismatic center; his personal authority holds the movement together even as he alienates radicals. Philip Melanchthon systematizes Lutheran theology. Frederick the Wise of Saxony protects Luther; Protestant princes follow. Charles V commands imperial authority but cannot enforce it against territorial resistance.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy weakens as princes defy Charles V. Papal authority collapses in Protestant territories. Lutheran princes claim legitimacy through Scripture and territorial sovereignty. The Peace of Augsburg institutionalizes divided allegiance: cuius regio, eius religio.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Protestant princes demonstrate resolve 
 
 __External Relations & Posture:__ Ottoman pressure on the eastern frontier (siege of Vienna, 1529) diverts Habsburg attention. France aligns with Protestant princes against Habsburg encirclement. The Empire is an arena for external intervention.
 
+__Public Sentiment & Behavioral Temper:__ Religious fervor dominates. Anticlerical resentment among laity fuels receptivity to Luther's message. Millenarian expectations and apocalyptic anxiety color popular piety. Trust radiates along confessional lines: Lutherans trust Lutherans.
+
 __Disaffection, Apathy & Spent Will:__ By 1555, both sides are exhausted. The compromise at Augsburg reflects spent will rather than settled conviction. Religious minorities (Calvinists, Anabaptists) remain excluded and disaffected, storing grievance for the next century.
+
 
 ## D06. Informational Domain
 

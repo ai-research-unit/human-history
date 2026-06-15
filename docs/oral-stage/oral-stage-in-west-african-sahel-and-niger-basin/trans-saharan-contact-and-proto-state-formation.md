@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Slave raiding produces ongoing violence in hint
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment centers on lineage loyalty and local community solidarity; trust extends readily within kinship networks but cautiously to outsiders; the expansion of long-distance trade creates new relationships built on reputation and repeated exchange; optimism accompanies trade prosperity, anxiety attends drought and warfare.
-
 __Leadership & Personal Authority:__ Leadership rests on personal qualities — martial prowess, generosity, eloquence, spiritual power — rather than bureaucratic office; successful leaders attract followers through patronage; charisma amplified by griots who sing praises and genealogies; authority personal and transferable only through demonstrated capability or descent.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from successful protection, generous redistribution, and claimed descent from founding ancestors; ruling lineages cultivate legitimating genealogies transmitted by griots; allegiance remains conditional on continued performance — failed rulers lose followers who transfer loyalty to more capable patrons.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will concentrates in the hand
 
 __External Relations & Posture:__ External relations intensify as trans-Saharan contact brings the Sahel into the orbit of North African and Mediterranean powers; Berber traders and later Arab merchants represent external influence; proto-states position themselves to control and tax external trade while maintaining autonomy; no external power projects force this far south.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment centers on lineage loyalty and local community solidarity; trust extends readily within kinship networks but cautiously to outsiders; the expansion of long-distance trade creates new relationships built on reputation and repeated exchange; optimism accompanies trade prosperity, anxiety attends drought and warfare.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection emerges among subordinate groups subjected to tribute extraction and slave raiding; the enslaved represent a population whose will is systematically suppressed; succession crises sap political will when lineages fragment; yet the rising prosperity of trade generally sustains collective morale within dominant groups.
+
 
 ## D06. Informational Domain
 

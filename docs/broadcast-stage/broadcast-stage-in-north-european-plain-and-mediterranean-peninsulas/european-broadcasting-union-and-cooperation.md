@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The EBU navigates political tensions — Cold W
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Eurovision Song Contest generates intense national sentiment — voting patterns reflect and reinforce geopolitical affinities and antagonisms, with bloc voting among Nordic, Baltic, and Balkan states becoming a persistent feature criticized but never eliminated.
-
 __Leadership & Personal Authority:__ The EBU operates through professional management rather than charismatic leadership, with Directors-General such as Jean Juneau (1960–1982) providing administrative continuity rather than public visibility.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on practical utility — broadcasters participate because the network provides indispensable technical services and cost-sharing benefits that no national organization could replicate alone.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The postwar generation of European publ
 
 __External Relations & Posture:__ The EBU maintains observer status with the Council of Europe and UNESCO, positioning itself as a cultural rather than political organization while quietly advancing European integration through shared programming and technical standards.
 
+__Public Sentiment & Behavioral Temper:__ The Eurovision Song Contest generates intense national sentiment — voting patterns reflect and reinforce geopolitical affinities and antagonisms, with bloc voting among Nordic, Baltic, and Balkan states becoming a persistent feature criticized but never eliminated.
+
 __Disaffection, Apathy & Spent Will:__ By the 2000s, declining public broadcaster audiences and the challenge of digital fragmentation generate institutional uncertainty; younger audiences drift to internet platforms, and the Eurovision model of pan-European live broadcasting loses its monopoly on shared cultural experience.
+
 
 ## D06. Informational Domain
 

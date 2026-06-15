@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 3rd-century crisis brings raids, usurpation
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 2nd century is confident and prosperous; the 3rd-century crisis breeds anxiety, distrust, and apocalyptic expectation; Constantine's stabilization and Christian triumph restore a measure of confidence; the 4th century combines Christian hope with awareness of decline; the radius of trust contracts toward local and religious communities.
-
 __Leadership & Personal Authority:__ The Antonine emperors command respect from afar; the 3rd-century soldier-emperors hold power by force; Constantine and his successors claim divine sanction; provincial governors and bishops exercise local authority; personal leadership becomes more important as institutional authority weakens; charisma substitutes for procedure.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy is strong in the 2nd century; the 3rd-century crisis erodes it through rapid imperial turnover and military usurpation; Constantine's dynasty and Christian endorsement rebuild legitimacy on new foundations; by the 4th century, the Christian emperor claims divine mandate; allegiance is genuine among Christians, pragmatic among others.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to maintain the empire persist
 
 __External Relations & Posture:__ Hispania remains an interior province, insulated from frontier threats until the 5th century; its external posture is passive, supplying resources and recruits to imperial campaigns elsewhere; Germanic raids in the 3rd century are episodic rather than existential; the peninsula faces inward toward Rome and outward toward Africa and Gaul.
 
+__Public Sentiment & Behavioral Temper:__ The 2nd century is confident and prosperous; the 3rd-century crisis breeds anxiety, distrust, and apocalyptic expectation; Constantine's stabilization and Christian triumph restore a measure of confidence; the 4th century combines Christian hope with awareness of decline; the radius of trust contracts toward local and religious communities.
+
 __Disaffection, Apathy & Spent Will:__ The 3rd-century crisis generates disaffection visible in tax evasion, flight to the countryside, and Bagaudae; the 4th-century recovery is partial; apathy affects decayed municipalities where elites flee curial responsibilities; spent will is re-anchored for some through Christian hope but settles as resignation for others.
+
 
 ## D06. Informational Domain
 

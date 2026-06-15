@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Internal disputes between towns, between mercha
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Hanseatic identity combined civic pride, commercial prudence, and Lutheran piety (in the later period); trust between partners was the emotional foundation of the network; suspicion of outsiders — non-Germans, non-members — was pronounced.
-
 __Leadership & Personal Authority:__ No single leader commanded the league; Lübeck's burgomasters exercised influence through persuasion; individual merchants like Hildebrand Veckinchusen (active c. 1390–1426 CE) exemplified the entrepreneurial personality; leadership was diffuse and collegial.
 
 __Legitimacy as Lived Allegiance:__ Member towns' allegiance to the league rested on perceived benefit; when the league failed to protect interests, loyalty frayed; the confederation's legitimacy was instrumental rather than sacred.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The league could mobilize collective ac
 
 __External Relations & Posture:__ The Hansa dealt as a bloc with kings and princes, extracting privileges and defending monopolies; relations with Denmark, England, Flanders, and Novgorod combined diplomacy, commerce, and intermittent war; the league's posture was defensive of established privilege.
 
+__Public Sentiment & Behavioral Temper:__ Hanseatic identity combined civic pride, commercial prudence, and Lutheran piety (in the later period); trust between partners was the emotional foundation of the network; suspicion of outsiders — non-Germans, non-members — was pronounced.
+
 __Disaffection, Apathy & Spent Will:__ By the late fifteenth century, smaller towns resented Lübeck's dominance; merchants evaded league rules for private advantage; collective will was spent by internal division and external pressure; the league entered decline.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The conquest itself was the disorder — Sasani
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Iranian populations experienced conquest as trauma — loss of sovereignty, religious pressure, status subordination; survivors adapted through conversion, collaboration, or withdrawal into Zoroastrian enclaves; public sentiment was one of accommodation layered over resentment.
-
 __Leadership & Personal Authority:__ Sasanian royal authority collapsed with Yazdegerd III's death (651 CE); Arab caliphs and governors held supreme authority; Iranian leadership survived through dihqan families who converted and local religious figures (Zoroastrian mobeds in shrinking communities, emerging Muslim scholars).
 
 __Legitimacy as Lived Allegiance:__ Arab-Muslim legitimacy rested on conquest and divine mandate; Iranian acceptance was coerced initially, then gradually internalized through conversion and intermarriage; Zoroastrian communities maintained alternative allegiance to their own tradition under dhimmi status.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Iranian collective will was shattered b
 
 __External Relations & Posture:__ The Iranian Plateau became an interior province of the caliphate, its external relations subsumed into Umayyad diplomacy; the northeastern frontier faced Turkic steppe peoples; the plateau served as a staging ground for further Islamic expansion into Central Asia.
 
+__Public Sentiment & Behavioral Temper:__ Iranian populations experienced conquest as trauma — loss of sovereignty, religious pressure, status subordination; survivors adapted through conversion, collaboration, or withdrawal into Zoroastrian enclaves; public sentiment was one of accommodation layered over resentment.
+
 __Disaffection, Apathy & Spent Will:__ Mawali resentment at Arab supremacism accumulated through the Umayyad period; this disaffection fueled support for the Abbasid revolution (750 CE) that ended the window; the emotional residue of conquest was not discharged but redirected into revolutionary energy.
+
 
 ## D06. Informational Domain
 

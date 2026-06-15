@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction minimal in small groups with strong ki
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment shaped by the uncertainty and wonder of colonizing unknown landscapes. Trust necessarily high within the band—survival depends on cooperation. Anxiety modulated by oral transmission of navigational and ecological knowledge; confidence builds as local lore accumulates.
-
 __Leadership & Personal Authority:__ Leadership situational and personal: the skilled hunter leads the hunt, the elder with memory leads the route. Authority is expertise-based, not hereditary or permanent.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, not to abstract authority. Legitimacy is immediate: the competent leader retains followers; the incompetent is abandoned.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is band consensus. Majo
 
 __External Relations & Posture:__ Relations with other bands range from alliance (for mate exchange, resource sharing) to avoidance. No warfare at this population density; competition for resources is spatial rather than violent.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment shaped by the uncertainty and wonder of colonizing unknown landscapes. Trust necessarily high within the band—survival depends on cooperation. Anxiety modulated by oral transmission of navigational and ecological knowledge; confidence builds as local lore accumulates.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection rare in high-stakes survival contexts. Apathy and despair possible in failed groups facing starvation; such groups either relocate, merge, or perish. No standing reservoir of spent will.
+
 
 ## D06. Informational Domain
 

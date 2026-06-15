@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disorder from warfare (Ottoman-Venetian conflic
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Greek sentiment combines resignation to Ottoman rule with continued Orthodox identity and nostalgia for Byzantium. Prophecies of eventual liberation circulate in folk culture. Trust extends within Greek communities and Orthodox networks but not to Muslim authorities except instrumentally. The temper is survivalist: preserve what can be preserved, wait for better times.
-
 __Leadership & Personal Authority:__ The Ecumenical Patriarch holds spiritual authority; personal sanctity and diplomatic skill vary among incumbents. Wealthy Phanariots emerge as community leaders with access to Ottoman power. Monastic abbots command local authority. No Greek political leadership exists — the Ottomans have decapitated the Byzantine elite. Leadership is ecclesiastical and economic, not military or political.
 
 __Legitimacy as Lived Allegiance:__ The Sultan's authority is accepted as a fact of power, not embraced as legitimate. The Patriarch derives legitimacy from Orthodox tradition and Ottoman confirmation. Greek allegiance to the Patriarch is genuine but conditional on his defense of Orthodox interests. Legitimacy flows through Church and community, not the Ottoman state.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Greek political will is latent, not act
 
 __External Relations & Posture:__ Greeks maintain connections with diaspora communities in Venice, Vienna, and elsewhere. The Patriarchate negotiates with Ottoman authorities. Greek merchants trade with European powers. Some Greeks hope for Western intervention (a crusade that never comes). The overall posture is accommodation with quiet maintenance of distinct identity.
 
+__Public Sentiment & Behavioral Temper:__ Greek sentiment combines resignation to Ottoman rule with continued Orthodox identity and nostalgia for Byzantium. Prophecies of eventual liberation circulate in folk culture. Trust extends within Greek communities and Orthodox networks but not to Muslim authorities except instrumentally. The temper is survivalist: preserve what can be preserved, wait for better times.
+
 __Disaffection, Apathy & Spent Will:__ Two centuries of Ottoman rule produce a resigned acceptance. Active disaffection is dangerous and rare. The will to resist is not so much spent as suppressed, waiting for circumstances that do not yet exist. Cultural energy channels into religion, commerce, and education rather than politics.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through mobility
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Band-scale societies fostered intimate, face-to-face relations with high interpersonal trust within the group and wariness toward strangers; the radius of trust extended to known individuals across the wider band network but not to unknown outsiders.
-
 __Leadership & Personal Authority:__ Leadership was personal and task-specific—a skilled hunter might lead a hunt, an elder might lead a ceremony—but no individual commanded authority across all domains or beyond the moment of action; personal charisma and demonstrated competence established temporary influence.
 
 __Legitimacy as Lived Allegiance:__ No formal authority structure existed to command allegiance; the band cohered through kinship, affection, and practical interdependence rather than through submission to a legitimated ruler or institution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerged through conse
 
 __External Relations & Posture:__ Relations between bands ranged from friendly kin-based interaction to avoidance of unknown groups; no expansionist posture or organized intergroup aggression is documented, though occasional violence between groups likely occurred.
 
+__Public Sentiment & Behavioral Temper:__ Band-scale societies fostered intimate, face-to-face relations with high interpersonal trust within the group and wariness toward strangers; the radius of trust extended to known individuals across the wider band network but not to unknown outsiders.
+
 __Disaffection, Apathy & Spent Will:__ The small scale and fluidity of band organization prevented accumulation of disaffection; exit was always possible, and the intimacy of band life required maintenance of working relationships among members.
+
 
 ## D06. Informational Domain
 

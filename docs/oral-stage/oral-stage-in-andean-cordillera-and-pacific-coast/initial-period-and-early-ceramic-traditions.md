@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rising stratification and the emergence of warf
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public temper is expansive—new temples rising, populations growing, exchange networks widening; confidence in the ritual order is high; trust extends through temple-mediated networks; risk perception is elevated by emerging warfare but not yet dominant.
-
 __Leadership & Personal Authority:__ Temple priests emerge as leaders with authority derived from ritual knowledge and the ability to mediate between human and sacred; personal charisma and oratorical power matter; leadership is expressed in spoken command, ritual performance, and the visible success of the communities they lead.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on the perceived efficacy of ritual—if the rains come, if the fish run, if the enemy is repelled, the priests are validated; allegiance is renewed in each successful ceremony; disaffection would follow ritual failure, but the record does not indicate widespread legitimacy crisis.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is directed toward temp
 
 __External Relations & Posture:__ Relations among temple polities are mixed—exchange and pilgrimage coexist with emerging warfare; posture varies by context; highland-coastal relations are primarily commercial; some valleys may be competing for dominance or access to trade routes.
 
+__Public Sentiment & Behavioral Temper:__ The public temper is expansive—new temples rising, populations growing, exchange networks widening; confidence in the ritual order is high; trust extends through temple-mediated networks; risk perception is elevated by emerging warfare but not yet dominant.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; will is not spent; the trend is one of growth and vitality, not exhaustion; local conflicts may generate grievance, but systemic apathy has not set in.
+
 
 ## D06. Informational Domain
 

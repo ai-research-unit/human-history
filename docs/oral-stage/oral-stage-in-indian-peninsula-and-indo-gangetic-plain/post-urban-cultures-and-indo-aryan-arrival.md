@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-tribal warfare and cattle raiding produce
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood combines pastoral confidence with martial aggression; the Rigvedic hymns celebrate victory, cattle wealth, and divine favor; trust extends primarily within kinship and tribal bounds; suspicion toward outsiders and rival tribes shapes the interpersonal landscape; the temper is assertive, competitive, and rooted in warrior values.
-
 __Leadership & Personal Authority:__ The chief (rajan) leads through personal qualities — martial skill, generosity, ritual correctness — rather than hereditary right; priestly authority (brahmin) derives from mastery of sacred speech and ritual; both forms of authority depend on demonstrated competence and maintained reputation; charisma and prowess outweigh institutional position.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to persons — the successful chief, the wise priest — rather than abstract offices; legitimacy requires continuous demonstration through victory, prosperity, and correct ritual; the covenant between leader and followers remains personal and revocable.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for specific 
 
 __External Relations & Posture:__ Relations with other tribes range from alliance (through marriage and gift-exchange) to enmity (through raiding and warfare); the posture toward non-Aryan populations varies from incorporation to subjugation to conflict; no systematic external policy exists; each encounter is handled through personal negotiation and situational calculation.
 
+__Public Sentiment & Behavioral Temper:__ The mood combines pastoral confidence with martial aggression; the Rigvedic hymns celebrate victory, cattle wealth, and divine favor; trust extends primarily within kinship and tribal bounds; suspicion toward outsiders and rival tribes shapes the interpersonal landscape; the temper is assertive, competitive, and rooted in warrior values.
+
 __Disaffection, Apathy & Spent Will:__ Defeat in cattle-raids or warfare, failed harvests, or chiefly misrule can produce disaffection; followers may abandon an unsuccessful chief; the spent will of unsuccessful leaders contrasts with the energy of rising ones; the emotional economy rewards success and punishes failure directly.
+
 
 ## D06. Informational Domain
 

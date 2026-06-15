@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction discharged through mobility — disaff
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust is high within the band, cautious toward strangers; collective mood swings with hunting success — abundance brings celebration, failure brings anxiety; interpersonal bonds are intense within the small group.
-
 __Leadership & Personal Authority:__ Leadership situational — the skilled hunter leads the hunt, the elder leads ritual, the negotiator leads inter-band dealings; authority rests on demonstrated competence and persuasion, not inherited office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the band is primary and felt as kinship; no abstract polity to command loyalty; legitimacy is personal and reciprocal.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will expressed through conse
 
 __External Relations & Posture:__ Relations between bands are generally amicable or neutral; exogamous marriage links bands into wider networks; no evidence of organized warfare; rivalry for hunting grounds possible but muted by low population density.
 
+__Public Sentiment & Behavioral Temper:__ Trust is high within the band, cautious toward strangers; collective mood swings with hunting success — abundance brings celebration, failure brings anxiety; interpersonal bonds are intense within the small group.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection discharged through mobility — exit is always possible; the small scale of the group prevents anonymity and alienation; spent will is rare.
+
 
 ## D06. Informational Domain
 

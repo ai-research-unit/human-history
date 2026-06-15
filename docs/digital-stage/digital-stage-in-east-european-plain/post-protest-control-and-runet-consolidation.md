@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Opposition coordination migrates from public pl
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-Crimea nationalist euphoria (2014–2015) provides legitimacy surge that the state exploits to accelerate internet control; public mood swings from protest anger to patriotic consolidation, and surveillance expansion meets diminished resistance amid the nationalist wave.
-
 __Leadership & Personal Authority:__ Putin's return to the presidency (2012) concentrates authority; his personal approval ratings surge post-Crimea, and the leadership cult extends into digital space through state-aligned media and coordinated online campaigns.
 
 __Legitimacy as Lived Allegiance:__ The Crimean annexation temporarily resolves the legitimacy crisis the protests exposed; "rally around the flag" effects provide political cover for repressive measures framed as defense against Western information warfare.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrates sustained will t
 
 __External Relations & Posture:__ Confrontation with the West post-Crimea reframes internet control as sovereignty protection; Russian information operations abroad (2016 US election interference) demonstrate offensive capability while justifying defensive measures at home.
 
+__Public Sentiment & Behavioral Temper:__ Post-Crimea nationalist euphoria (2014–2015) provides legitimacy surge that the state exploits to accelerate internet control; public mood swings from protest anger to patriotic consolidation, and surveillance expansion meets diminished resistance amid the nationalist wave.
+
 __Disaffection, Apathy & Spent Will:__ The protest generation retreats into private life or emigration; activist burnout spreads as legal risks mount, and the oppositional will that animated 2011–2012 disperses into cynical accommodation or exile, leaving residual disaffection that finds no organizational outlet.
+
 
 ## D06. Informational Domain
 

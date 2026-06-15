@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Piracy of popular titles persisted despite guil
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood of the urban populace was one of confident consumption during Genroku, marked by an appetite for novelty, gossip, and aesthetic refinement; trust extended within merchant networks and neighborhoods, enabling the credit relations on which publishing depended.
-
 __Leadership & Personal Authority:__ Authority concentrated in the shogun and daimyo, but cultural leadership lay with authors (Saikaku, Basho, Chikamatsu), publishers (Tsutaya), and actors whose celebrity print propagated; charisma accrued to talent as well as birth.
 
 __Legitimacy as Lived Allegiance:__ Shogunal legitimacy rested on the settlement that ended civil war and on the emperor's ritual sanction; townspeople accepted this order as the price of peace, and print reinforced legitimacy through morality tales and official notices even as it circulated subversive satire.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The shogunate's will expressed itself i
 
 __External Relations & Posture:__ Sakoku policy confined foreign contact to Nagasaki; print circulated Dutch-translated knowledge (rangaku) to a small elite, while the general public consumed domestic material, unbothered by external affairs during this period of inward orientation.
 
+__Public Sentiment & Behavioral Temper:__ The mood of the urban populace was one of confident consumption during Genroku, marked by an appetite for novelty, gossip, and aesthetic refinement; trust extended within merchant networks and neighborhoods, enabling the credit relations on which publishing depended.
+
 __Disaffection, Apathy & Spent Will:__ Anomie simmered beneath the surface — the theme of shinju (double suicide) in Chikamatsu's plays registered the despair of those trapped by rigid constraints — but open disaffection remained marginal, channeled into aesthetic melancholy rather than political mobilization.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Provincial revolts recurred throughout the dyna
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Akkadian kings cultivated an ideology of universal kingship, with Sargon's rise from cup-bearer to conqueror furnishing a charismatic origin myth; public sentiment toward the dynasty fluctuated with military fortune and the burden of extraction.
-
 __Leadership & Personal Authority:__ Sargon and Naram-Sin projected intensely personal authority, with Naram-Sin's self-deification as "god of Akkad" marking a radical departure from earlier Sumerian conventions; this charismatic concentration of power proved vulnerable to succession crisis.
 
 __Legitimacy as Lived Allegiance:__ Traditional temple legitimation coexisted uneasily with royal self-deification; the later Curse of Akkad tradition attributed the empire's fall to Naram-Sin's alleged desecration of Enlil's temple at Nippur, suggesting that his claims exceeded what religious legitimacy could bear.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The dynasty's capacity for unified acti
 
 __External Relations & Posture:__ Akkadian foreign policy was aggressively expansionist, with Sargon claiming conquests to the "Upper Sea" (Mediterranean) and "Lower Sea" (Persian Gulf); trade-route security and resource acquisition drove campaigns to Elam, Magan, and the Taurus.
 
+__Public Sentiment & Behavioral Temper:__ The Akkadian kings cultivated an ideology of universal kingship, with Sargon's rise from cup-bearer to conqueror furnishing a charismatic origin myth; public sentiment toward the dynasty fluctuated with military fortune and the burden of extraction.
+
 __Disaffection, Apathy & Spent Will:__ The final decades of the dynasty witnessed cascading defections, with governors asserting independence and tribute flows drying up; the empire's collapse was as much an exhaustion of political will as a military defeat.
+
 
 ## D06. Informational Domain
 

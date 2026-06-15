@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises are the primary source of dis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pride in lineage, martial honor, and loyalty to sworn lords define the emotional register. Trust extends within the tribe; outsiders are potential enemies or trading partners. Risk tolerance is high; raiding and war are normal activities.
-
 __Leadership & Personal Authority:__ The khagan's authority rests on charisma, military success, and sacred lineage. Personal prowess in war and generosity in peace sustain allegiance. Subordinate begs command through similar personal authority.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from Tengri (Heaven), which grants the khagan his mandate. The Orkhon inscriptions articulate this ideology: the khagan rules by heavenly favor, which can be withdrawn if he fails. Allegiance is conditional on success and generosity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coheres for campaigns a
 
 __External Relations & Posture:__ The khaganates extract tribute from Tang China and Byzantium, raid when tribute is refused, and control Silk Road transit. Relations alternate between alliance and war depending on relative strength. The Gokturks split into eastern and western branches partly over orientation toward China.
 
+__Public Sentiment & Behavioral Temper:__ Pride in lineage, martial honor, and loyalty to sworn lords define the emotional register. Trust extends within the tribe; outsiders are potential enemies or trading partners. Risk tolerance is high; raiding and war are normal activities.
+
 __Disaffection, Apathy & Spent Will:__ Defeat, succession crisis, or prolonged drought drains allegiance; tribes defect to rival khagans or migrate away. The collapse of the Uyghur Khaganate (840 CE) follows Kyrgyz invasion and internal famine, with tribes scattering rather than resisting.
+
 
 ## D06. Informational Domain
 

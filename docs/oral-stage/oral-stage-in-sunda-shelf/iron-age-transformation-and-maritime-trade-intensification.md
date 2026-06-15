@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through ritual, f
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The expansion of trade and the availability of new goods generate an acquisitive and entrepreneurial temper at coastal nodes; inland communities retain more conservative orientations; trust networks extend through kinship and repeated trade partnership, with strangers treated cautiously until incorporated through exchange or marriage.
-
 __Leadership & Personal Authority:__ Leadership is personal and achieved: big-men accumulate followers through generosity, prowess, ritual authority, or trade success; charismatic individuals can build multi-village networks, but authority does not survive the leader's death in institutionalized form.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is owed to persons rather than offices; followers attach to leaders who provide access to prestige goods, protection, and ceremonial validation; legitimacy erodes when a leader fails to deliver expected returns, and followers can depart for rival patrons.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity is limited t
 
 __External Relations & Posture:__ Coastal communities orient outward toward maritime exchange; relations with Indian Ocean traders are commercial rather than tributary; no evidence of submission to external powers, though Dong Son cultural influence indicates prestige emulation of mainland bronze-working centers.
 
+__Public Sentiment & Behavioral Temper:__ The expansion of trade and the availability of new goods generate an acquisitive and entrepreneurial temper at coastal nodes; inland communities retain more conservative orientations; trust networks extend through kinship and repeated trade partnership, with strangers treated cautiously until incorporated through exchange or marriage.
+
 __Disaffection, Apathy & Spent Will:__ The open frontier and mobile maritime lifestyle provide exit options that prevent the accumulation of frustrated ambition; disappointed followers can relocate, found new settlements, or shift allegiance to rival leaders; no evidence of endemic despair or collective exhaustion.
+
 
 ## D06. Informational Domain
 

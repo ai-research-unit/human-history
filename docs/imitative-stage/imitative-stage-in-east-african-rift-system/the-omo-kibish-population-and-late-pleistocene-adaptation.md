@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tensions resolve through fission. The ab
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The affective life of these populations cannot be directly observed. The evidence of cooperative behavior, care for dependents, and maintenance of social groups over time indicates baseline levels of trust and prosocial sentiment. Mood probably tracks environmental conditions: abundance generating confidence, scarcity producing anxiety.
-
 __Leadership & Personal Authority:__ Leadership emerges from demonstrated competence in relevant domains. The best hunter, the most knowledgeable gatherer, the most experienced elder exercises influence in their area of expertise. Authority cannot be inherited or institutionalized; it must be continuously demonstrated.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to persons and bands. Those who provide benefits and treat others fairly retain followers; those who fail lose them to other groups. Legitimacy is personal and contingent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action depends on voluntary 
 
 __External Relations & Posture:__ Relations with other bands range from alliance and intermarriage to avoidance and hostility. Assessment of unknown others involves calculation of threat versus opportunity. The anatomical modernity of this population does not produce a qualitatively different external posture from contemporary populations elsewhere.
 
+__Public Sentiment & Behavioral Temper:__ The affective life of these populations cannot be directly observed. The evidence of cooperative behavior, care for dependents, and maintenance of social groups over time indicates baseline levels of trust and prosocial sentiment. Mood probably tracks environmental conditions: abundance generating confidence, scarcity producing anxiety.
+
 __Disaffection, Apathy & Spent Will:__ Individual disaffection resolves through exit. The disaffected leave for other groups. Collective failure of will manifests as band dissolution rather than institutional decay.
+
 
 ## D06. Informational Domain
 

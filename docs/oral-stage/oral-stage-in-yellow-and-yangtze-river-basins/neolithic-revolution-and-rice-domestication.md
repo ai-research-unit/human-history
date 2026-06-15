@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was absorbed through kinship ne
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The transition to agriculture was gradual and voluntary, suggesting confidence in the new subsistence strategy; village cohesion depended on interpersonal trust built through daily cooperation and kinship ties.
-
 __Leadership & Personal Authority:__ Leaders emerged situationally—skilled cultivators, ritual specialists, effective mediators—but their authority was personal and non-hereditary, dependent on continued demonstration of competence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to kin and village rather than to formal authority; the coherence of early farming communities rested on shared interest and mutual obligation rather than political legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was organized for sub
 
 __External Relations & Posture:__ Inter-village relations were predominantly cooperative—exchange, intermarriage, information sharing—though competition for favorable land and water access presumably generated friction; organized conflict was not yet a structural feature.
 
+__Public Sentiment & Behavioral Temper:__ The transition to agriculture was gradual and voluntary, suggesting confidence in the new subsistence strategy; village cohesion depended on interpersonal trust built through daily cooperation and kinship ties.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection exists; the gradual adoption of agriculture suggests populations found the transition beneficial, and villages that experienced internal conflict could fission without structural crisis.
+
 
 ## D06. Informational Domain
 

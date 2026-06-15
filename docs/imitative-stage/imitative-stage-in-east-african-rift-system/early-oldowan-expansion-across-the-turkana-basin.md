@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict discharges through avoidance, submissi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is immediate and visible — fear at predator approach, excitement at carcass discovery, tension in disputes. Trust extends to band members, especially kin; strangers are met with wariness. The baseline temper is vigilant, responsive to environmental cues, and socially attuned within the group.
-
 __Leadership & Personal Authority:__ Authority is personal and situational. A skilled tracker leads the approach to a carcass; a strong individual defends against a competitor. Charisma is proto-emotional — the ability to rally others through confidence and competence — but does not crystallize into lasting office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, not to any abstract order. Legitimacy is earned through demonstrated competence and generosity; it is withdrawn when performance fails. There is no ideology to justify rule, only the practical dependence that binds individuals to the group.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for immedi
 
 __External Relations & Posture:__ Relations with other bands are rare and cautious. Posture is defensive; expansion into new territory is opportunistic, following favorable habitat, not conquest. No sustained rivalry or alliance structures exist; encounters are episodic and resolved by avoidance or brief agonism.
 
+__Public Sentiment & Behavioral Temper:__ Affect is immediate and visible — fear at predator approach, excitement at carcass discovery, tension in disputes. Trust extends to band members, especially kin; strangers are met with wariness. The baseline temper is vigilant, responsive to environmental cues, and socially attuned within the group.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as withdrawal or departure from the band. Spent will is individual — exhaustion, injury, despair — and results in reduced participation or death. No collective disaffection accumulates; the group is too small and fluid for estrangement to harden into a standing condition.
+
 
 ## D06. Informational Domain
 

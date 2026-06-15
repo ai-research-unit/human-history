@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ No evidence of significant internal disorder or
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The uniformity of material culture suggests shared identity and high social trust within the civilization; the absence of militarism and the civic character of public spaces imply a confident, stable public temper; whether this reflects genuine harmony or simply the limits of archaeological inference is unknown.
-
 __Leadership & Personal Authority:__ No rulers are identifiable in the archaeological record; no royal tombs, statues, or inscriptions; leadership must have existed but apparently operated without monumental self-representation; authority may have been distributed among elders, priests, or merchant councils, exercised through oral persuasion and established precedent.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derived from oral tradition, demonstrated competence, and the benefits of urban life; the stability of the system suggests that authority was accepted; the absence of resistance evidence implies either consent or effective but invisible control.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The construction of cities, standardiza
 
 __External Relations & Posture:__ Relations with Mesopotamia were commercial rather than political; no evidence of warfare with external powers; the civilization's posture appears inward-focused, maintaining trade but not projecting military power; distant trade partners were commercial contacts, not allies or enemies in a political sense.
 
+__Public Sentiment & Behavioral Temper:__ The uniformity of material culture suggests shared identity and high social trust within the civilization; the absence of militarism and the civic character of public spaces imply a confident, stable public temper; whether this reflects genuine harmony or simply the limits of archaeological inference is unknown.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of disaffection during the mature phase; the system functioned smoothly; the decline after 2000 BCE may reflect environmental stress more than internal collapse of will, but this falls outside the current window.
+
 
 ## D06. Informational Domain
 

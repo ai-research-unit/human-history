@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Grievance among dependent populations is not do
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The tablets do not record sentiment, but iconography and burial goods suggest elite confidence and martial pride; interpersonal trust extends within kin and occupational networks; the mood at the close of the period is unknown, though the construction of new fortifications may indicate rising anxiety.
-
 __Leadership & Personal Authority:__ The wanax commands allegiance at the apex; personal authority is concentrated; charismatic leadership in war (echoed in later epic tradition) may have supplemented bureaucratic control; succession mechanisms are undocumented.
 
 __Legitimacy as Lived Allegiance:__ Elite legitimacy rests on religious sanction (wanax presides over offerings to gods), military success, and redistributive capacity; allegiance appears stable through most of the period; erosion, if any, is invisible in the record.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Palatial centers pursue expansion, trad
 
 __External Relations & Posture:__ Mycenaean Crete and the mainland palaces maintain contact with Egypt (Ahhiyawa in Hittite texts is likely Mycenaean Greece), the Hittite Empire, and the Levantine states; posture is assertive, with evidence for military activity on the Anatolian coast; rivalry among Aegean centers may exist but is undocumented.
 
+__Public Sentiment & Behavioral Temper:__ The tablets do not record sentiment, but iconography and burial goods suggest elite confidence and martial pride; interpersonal trust extends within kin and occupational networks; the mood at the close of the period is unknown, though the construction of new fortifications may indicate rising anxiety.
+
 __Disaffection, Apathy & Spent Will:__ No direct evidence; the system's collapse after 1,200 BCE may indicate latent disaffection among dependent populations that surfaced when palaces weakened, but this remains speculative.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Food riots, enclosure riots, and religious dist
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Rising anxiety over religion, arbitrary government, and economic uncertainty. Anti-Catholic sentiment intense; fear of popish plots recurrent. Trust in Crown erodes through 1630s; the "Personal Rule" (1629–1640) generates resentment.
-
 __Leadership & Personal Authority:__ James I's intellectual pretensions contrast with financial incompetence. Charles I's aloof manner and reliance on favorites (Buckingham, Strafford, Laud) alienate elites. Parliamentary leaders (Pym, Hampden) mobilize opposition through print and petition.
 
 __Legitimacy as Lived Allegiance:__ Divine right monarchy still commands allegiance among royalists; but parliamentary constitutionalism gains ground. By 1642, allegiance fractures into warring camps.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Crown will to rule without Parliament p
 
 __External Relations & Posture:__ Stuart foreign policy weak and inconsistent: James I's Spanish match fails; Charles I's French war (1627) ends in humiliation. Protestant cause in Thirty Years' War unsupported, damaging prestige.
 
+__Public Sentiment & Behavioral Temper:__ Rising anxiety over religion, arbitrary government, and economic uncertainty. Anti-Catholic sentiment intense; fear of popish plots recurrent. Trust in Crown erodes through 1630s; the "Personal Rule" (1629–1640) generates resentment.
+
 __Disaffection, Apathy & Spent Will:__ By 1649, war-weariness widespread. Regicide shocks even many parliamentarians. Army radicalism exceeds civilian appetite for revolution.
+
 
 ## D06. Informational Domain
 

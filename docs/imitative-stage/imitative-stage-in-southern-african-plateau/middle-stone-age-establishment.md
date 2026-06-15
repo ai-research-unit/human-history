@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharged through mobility and
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The gradual drying of the interior likely created a baseline of ecological anxiety, especially during multi-year droughts. Conversely, the improved efficiency of MSA technology may have fostered confidence in the hunt. Trust extended primarily within the residential band, with inter-band relations mediated by kinship ties and cautious assessment during encounters.
-
 __Leadership & Personal Authority:__ Leadership was situational and demonstrated. The individual who initiated the hunt, who prepared the best cores, who knew the route exercised authority in specific contexts without permanent office. Authority was continuously performed and evaluated; failure or hoarding eroded standing.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was personal and demonstrated through participation. Individuals followed those who showed competence and generosity; they ceased following those who failed or withheld. Legitimacy required continuous renewal through visible action.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerged from convergi
 
 __External Relations & Posture:__ Relations with other bands were cautiously cooperative, mediated by kinship ties from past mate exchanges. Competition for water and game during dry phases created potential for conflict, but the low density and open landscape enabled avoidance. The posture was one of wary coexistence, with inter-group contact serving as opportunity for technique observation and transmission.
 
+__Public Sentiment & Behavioral Temper:__ The gradual drying of the interior likely created a baseline of ecological anxiety, especially during multi-year droughts. Conversely, the improved efficiency of MSA technology may have fostered confidence in the hunt. Trust extended primarily within the residential band, with inter-band relations mediated by kinship ties and cautious assessment during encounters.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection found outlet in departure. The band structure's flexibility absorbed interpersonal tensions through reshuffling composition. Prolonged stress during dry phases may have exhausted collective will, though this remains archaeologically invisible.
+
 
 ## D06. Informational Domain
 

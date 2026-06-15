@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction dissipates through fission, wit
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood tracks resource availability; lake abundance supports a stable baseline temper, while drought elevates anxiety and intragroup tension.
-
 __Leadership & Personal Authority:__ Leadership is situational, vested in individuals who demonstrate superior hunting success, knapping skill, or protective vigilance; authority rests on ongoing performance and dissolves when performance falters.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to effective providers; legitimacy is immediate, revocable, and contingent on tangible benefit delivered to the group.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for immediate
 
 __External Relations & Posture:__ Relations with neighboring bands are opportunistic, blending avoidance, occasional interbreeding, and competition for prime lake-margin territory; no sustained alliances or hostilities persist.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood tracks resource availability; lake abundance supports a stable baseline temper, while drought elevates anxiety and intragroup tension.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expresses itself through departure; mobility prevents apathy from consolidating into structural grievance.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction finds release through legal pro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The colonial population exhibits resigned accommodation to established hierarchy; religious piety provides emotional anchorage; creole pride develops alongside resentment of peninsular precedence; indigenous communities maintain collective identity through documented claims and ritual practice; the mood is stable, neither enthusiastic nor rebellious.
-
 __Leadership & Personal Authority:__ Viceroys exercise personal authority as the king's representatives, with notable figures including the Duke of Alburquerque (1653–1660) and the Duke of Linares (1711–1716); archbishops wield parallel religious authority; individual charisma matters less than institutional position in this routinized period.
 
 __Legitimacy as Lived Allegiance:__ The colonial order commands formal allegiance through the combined authority of crown and Church; indigenous acceptance remains pragmatic, rooted in legal protections and religious incorporation; creole loyalty is genuine if tinged with grievance; legitimacy rests on continuity and the absence of alternative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The viceregal administration maintains 
 
 __External Relations & Posture:__ New Spain remains integrated within the Spanish imperial system, sending silver to the metropole and receiving administrative direction; the Manila galleon maintains Pacific trade; war between Spain and other European powers occasionally disrupts shipping but New Spain itself faces no serious external threat during this period.
 
+__Public Sentiment & Behavioral Temper:__ The colonial population exhibits resigned accommodation to established hierarchy; religious piety provides emotional anchorage; creole pride develops alongside resentment of peninsular precedence; indigenous communities maintain collective identity through documented claims and ritual practice; the mood is stable, neither enthusiastic nor rebellious.
+
 __Disaffection, Apathy & Spent Will:__ Creole resentment of peninsular precedence simmers without boiling over; indigenous disaffection finds outlets through legal process and communal ritual; the overall temper is one of stable accommodation rather than either enthusiasm or despair.
+
 
 ## D06. Informational Domain
 

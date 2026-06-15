@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over shrinking resources increased; ra
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The desiccation crisis generated anxiety, grief, and uncertainty; the confident mood of the humid peak gave way to defensive caution; trust contracted to immediate kin as strangers competed for the same resources; behavioral temper was adaptive, prioritizing survival over expansion.
-
 __Leadership & Personal Authority:__ Leaders who could guide migration successfully gained followers; personal authority rested on demonstrated competence in crisis; oral reputation was forged in the crucible of displacement; charisma mattered more than inheritance when cattle wealth collapsed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was contingent on delivery: leaders who provided safety and sustenance retained followers; those who failed lost them; legitimacy was earned in action and remembered in oral tradition.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will was mobilized for migra
 
 __External Relations & Posture:__ Relations with neighboring groups ranged from hostile competition to pragmatic alliance; posture was defensive rather than expansive; external orientation focused on finding and securing refugia.
 
+__Public Sentiment & Behavioral Temper:__ The desiccation crisis generated anxiety, grief, and uncertainty; the confident mood of the humid peak gave way to defensive caution; trust contracted to immediate kin as strangers competed for the same resources; behavioral temper was adaptive, prioritizing survival over expansion.
+
 __Disaffection, Apathy & Spent Will:__ Despair and spent will were real during the worst phases of the crisis; some groups fragmented beyond recovery; survivors carried trauma in oral memory; re-anchoring came with stabilization in new territories, but the scar remained.
+
 
 ## D06. Informational Domain
 

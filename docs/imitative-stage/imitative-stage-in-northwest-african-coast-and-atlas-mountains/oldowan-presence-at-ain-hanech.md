@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is low given small group size; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is immediate and situational; trust extends to known band members, and the behavioral temper is shaped by the daily cycle of foraging, rest, and social interaction.
-
 __Leadership & Personal Authority:__ Leadership is informal, exercised by individuals who demonstrate competence in foraging or knapping; authority is personal and context-dependent, not institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to the band as a survival unit; there is no abstract order to legitimate, and belonging is felt rather than argued.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is episodic, coalescing
 
 __External Relations & Posture:__ Relations with other bands, if any are encountered, are unknown; the population is so sparse that inter-group contact may be rare, and posture is likely cautious and avoidant.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is immediate and situational; trust extends to known band members, and the behavioral temper is shaped by the daily cycle of foraging, rest, and social interaction.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is not legible at this scale; the affective life is immediate, and exhaustion or estrangement would manifest as individual departure rather than collective malaise.
+
 
 ## D06. Informational Domain
 

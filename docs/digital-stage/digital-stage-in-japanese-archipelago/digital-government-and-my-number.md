@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Technical failures in COCOA contact-tracing app
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Deep privacy concerns rooted in wartime registration abuses and postwar surveillance anxieties constrain public acceptance of unified national identification; skepticism toward data centralization persists despite official assurances.
-
 __Leadership & Personal Authority:__ Prime Minister Suga Yoshihide (2020–2021) stakes political capital on digital transformation, establishing the Digital Agency as a signature policy; Kishida continues the initiative with reduced personal emphasis. Digital Minister appointments draw from both political and private sector backgrounds, with variable effectiveness.
 
 __Legitimacy as Lived Allegiance:__ Government digital services suffer credibility deficit following repeated technical failures, contractor scandals, and data leaks; the gap between announced capabilities and actual functionality breeds cynicism.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Post-pandemic political consensus favor
 
 __External Relations & Posture:__ International comparison (particularly to Estonia, South Korea, Taiwan) generates periodic reform pressure as Japan ranks poorly on e-government indices; security concerns about foreign technology influence vendor selection.
 
+__Public Sentiment & Behavioral Temper:__ Deep privacy concerns rooted in wartime registration abuses and postwar surveillance anxieties constrain public acceptance of unified national identification; skepticism toward data centralization persists despite official assurances.
+
 __Disaffection, Apathy & Spent Will:__ Public engagement with digital government initiatives remains passive; uptake follows mandate and incentive rather than enthusiasm, with My Number Card adoption driven by insurance integration requirements rather than perceived utility.
+
 
 ## D06. Informational Domain
 

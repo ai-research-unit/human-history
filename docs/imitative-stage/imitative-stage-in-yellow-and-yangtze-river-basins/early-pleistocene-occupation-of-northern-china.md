@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was managed through mobility an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective states are unobservable; behavioral temper was likely shaped by immediate environmental conditions—vigilance when exposed, relaxation at secure resting sites; trust extended to familiar band members and diminished sharply with strangers; the radius of interpersonal trust was narrow, bounded by face-to-face acquaintance.
-
 __Leadership & Personal Authority:__ Leadership was situational and earned through demonstrated competence—successful foraging, effective route-finding, conflict resolution; personal authority was ephemeral, lasting only as long as performance justified following; no institutionalized leadership positions existed.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy was implicit in continued association; those who stayed affirmed the group; those who left withdrew allegiance; there was no articulated ideology of rule or justification for authority beyond practical success.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will was limited to immediat
 
 __External Relations & Posture:__ Relations with other hominin groups, when encounter occurred, are unknown; low population density meant encounters were rare; avoidance was likely the default response to strangers; competition for resources was probably localized at encounter sites rather than sustained.
 
+__Public Sentiment & Behavioral Temper:__ Affective states are unobservable; behavioral temper was likely shaped by immediate environmental conditions—vigilance when exposed, relaxation at secure resting sites; trust extended to familiar band members and diminished sharply with strangers; the radius of interpersonal trust was narrow, bounded by face-to-face acquaintance.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection in a social-structural sense was absent; exhaustion from failed foraging or illness could reduce engagement, but this was physiological; no complex social demands existed to generate apathy or burnout.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes over land, inheritance, and marriage a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is cautious and cooperative within the village, wary toward outsiders; trust extends reliably to kin and village-mates, less so to strangers; forest spirits and ancestor displeasure are constant background anxieties shaping behavior.
-
 __Leadership & Personal Authority:__ Headmen lead through persuasion, generosity, and ritual competence rather than coercion; charismatic hunters, smiths, and healers command respect; authority is earned and can be lost if reciprocity obligations are neglected.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to elders and ancestors who guarantee fertility, health, and prosperity; legitimacy is performative—demonstrated through successful harvests, hunts, and the absence of misfortune—and erodes when calamity strikes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action mobilizes for communa
 
 __External Relations & Posture:__ Relations with neighboring villages range from alliance through intermarriage to wary neutrality to occasional raiding; forest-forager populations (ancestral "Pygmy" groups) are integrated through exchange relationships and ritual interdependence, though with asymmetric status.
 
+__Public Sentiment & Behavioral Temper:__ The mood is cautious and cooperative within the village, wary toward outsiders; trust extends reliably to kin and village-mates, less so to strangers; forest spirits and ancestor displeasure are constant background anxieties shaping behavior.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection surfaces when headmen fail to redistribute or when misfortune is attributed to sorcery; the remedy is fission—departure to found a new settlement—rather than internal reform; apathy is rare given the intimacy of village life.
+
 
 ## D06. Informational Domain
 

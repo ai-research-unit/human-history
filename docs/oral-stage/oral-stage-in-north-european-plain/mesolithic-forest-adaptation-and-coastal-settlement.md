@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through mobility
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment operated at the band scale, with trust highest within kin networks and diminishing with social distance; seasonal aggregations extended the radius of trust to allied bands; the baseline temper was cautious toward strangers but hospitable within the known network; interband conflict created localized hostility.
-
 __Leadership & Personal Authority:__ Leadership was situational—skilled hunters led hunts, knowledgeable elders led movement decisions, experienced ritualists led ceremonies—but no permanent authority existed; personal charisma and demonstrated competence earned deference, not command; leadership without followers dissolved immediately.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attached to kin and band, not to offices or rulers that did not exist; the order was legitimate because it was traditional and consensual; challenges to consensus led to fission rather than conquest of authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will formed through discussi
 
 __External Relations & Posture:__ Relations between bands ranged from alliance through kinship to avoidance to occasional hostility; territorial defense and resource competition shaped posture toward strangers; no organized external relations existed beyond the band network; expansion into unoccupied territory proceeded without resistance.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment operated at the band scale, with trust highest within kin networks and diminishing with social distance; seasonal aggregations extended the radius of trust to allied bands; the baseline temper was cautious toward strangers but hospitable within the known network; interband conflict created localized hostility.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection was discharged through exit—unhappy individuals left for other bands; the small scale and kinship base limited alienation; apathy was not structurally produced in the absence of coercive hierarchy; will was renewed through seasonal cycles and aggregation.
+
 
 ## D06. Informational Domain
 

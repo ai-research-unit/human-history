@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Amarna period represents religious-politica
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Imperial confidence characterizes the period through Ramesses II; later texts express anxiety about foreign threats and internal disorder; the Deir el-Medina strike reveals willingness to voice grievance when provisioning fails; trust contracts around kinship and local community as central authority weakens.
-
 __Leadership & Personal Authority:__ Pharaohs project personal authority through monumental self-representation; Thutmose III, Amenhotep III, Akhenaten, Ramesses II, and Ramesses III dominate their eras; military commanders (Horemheb) and priests (High Priests of Amun) accumulate personal followings; charismatic authority structures the apex.
 
 __Legitimacy as Lived Allegiance:__ Pharaonic legitimacy grounded in divine sonship (son of Amun, later Ra) and maintenance of Ma'at; Akhenaten's religious revolution tests but does not break legitimating framework; late-period tomb robberies suggest eroding lived allegiance; by Dynasty 20's end, High Priests of Amun at Thebes rival royal authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Early period shows remarkable will for 
 
 __External Relations & Posture:__ The Great Powers system (Egypt, Hatti, Mitanni, Babylon, Assyria) structures international relations; diplomatic correspondence (Amarna letters) shows equality among great kings, hierarchy toward vassals; Kadesh campaign and subsequent Egyptian-Hittite treaty establish balance; Sea Peoples migrations disrupt the system; by 1069 BCE, Egypt withdraws from Levant entirely.
 
+__Public Sentiment & Behavioral Temper:__ Imperial confidence characterizes the period through Ramesses II; later texts express anxiety about foreign threats and internal disorder; the Deir el-Medina strike reveals willingness to voice grievance when provisioning fails; trust contracts around kinship and local community as central authority weakens.
+
 __Disaffection, Apathy & Spent Will:__ Late Dynasty 20 documents show rising complaint and reduced compliance; grain deliveries to Deir el-Medina become irregular, sparking strikes; elite competition for resources intensifies; will to maintain empire exhausts before political fragmentation formalizes the loss.
+
 
 ## D06. Informational Domain
 

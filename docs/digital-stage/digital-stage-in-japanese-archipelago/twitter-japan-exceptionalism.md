@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online harassment, pile-on attacks, and reputat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Twitter functions as a barometer of public mood, with trending topics revealing collective anxieties, enthusiasms, and reactions to events in real time.
-
 __Leadership & Personal Authority:__ Politicians, entertainers, and corporate executives cultivate personal followings; Prime Ministers from Abe onward maintain accounts, though engagement styles vary.
 
 __Legitimacy as Lived Allegiance:__ Platform loyalty remains strong despite the 2023 X rebrand; Japanese users exhibit less migration to alternatives than Western counterparts, reflecting entrenched usage patterns and network effects.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Hashtag campaigns occasionally mobilize
 
 __External Relations & Posture:__ Japanese Twitter serves as a window for foreign observers into domestic discourse; international K-pop and anime fans engage with Japanese content, creating cross-border cultural flows.
 
+__Public Sentiment & Behavioral Temper:__ Twitter functions as a barometer of public mood, with trending topics revealing collective anxieties, enthusiasms, and reactions to events in real time.
+
 __Disaffection, Apathy & Spent Will:__ Chronic users report burnout and compulsive checking; the platform's infinite scroll and notification design drive engagement while degrading wellbeing for heavy users.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is mediated through royal justi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment, as refracted through royal inscriptions and later hagiography, projects confidence, piety, and pride in the Christian kingdom. Trust extends through kin and community networks. The conversion consolidates a shared identity under the new faith; the mood is one of expansion and divine favor.
-
 __Leadership & Personal Authority:__ King Ezana is the pivotal figure: conqueror, convert, builder. His authority combines military prowess, royal lineage, and divine sanction. Successors maintain the model. The Nine Saints and early monastic founders exercise spiritual charisma alongside royal power.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on lineage, military success, and increasingly on Christian sanction. The king is "servant of Christ"; the church anoints and supports royal authority. Allegiance is strongly held during the kingdom's height; the fusion of crown and cross anchors loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Aksumite elite displays sustained w
 
 __External Relations & Posture:__ Aksum projects power across the Red Sea, intervening in South Arabian politics and briefly occupying Yemen (520s–570s CE). Relations with the Byzantine Empire are cooperative (shared Christianity, diplomatic exchange). The rise of Islam after 622 CE introduces a new rival; by 640 CE, Muslim control of Arabia and Egypt begins to squeeze Aksumite access to the sea.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment, as refracted through royal inscriptions and later hagiography, projects confidence, piety, and pride in the Christian kingdom. Trust extends through kin and community networks. The conversion consolidates a shared identity under the new faith; the mood is one of expansion and divine favor.
+
 __Disaffection, Apathy & Spent Will:__ Within this window, disaffection is limited. The loss of Red Sea trade after 640 CE will sap the economic base and erode collective will, but the full collapse lies beyond the period. The residue is minimal during the florescent phase.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict was mediated through kinship, compensa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extended primarily within kin and clan networks; suspicion of strangers was balanced by hospitality norms; the public mood tracked rainfall and herd health — confidence in good years, anxiety in drought.
-
 __Leadership & Personal Authority:__ Chiefs and senior kinsmen led through personal charisma, oratorical skill, and reputation for generosity and wisdom; authority was personal, not institutional; praise poetry and oral narrative celebrated leaders.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was owed to kin and chief, validated by genealogy and oral tradition; legitimacy rested on success in herding, defense, and dispute resolution; erosion was expressed through migration away from failed leaders.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was summoned for defe
 
 __External Relations & Posture:__ Relations with neighboring groups — other Khoekhoe clans, San bands, and later Bantu-speaking farmers — ranged from alliance and intermarriage to raiding and competition for pasture; no permanent enmities or alliances existed; posture was opportunistic and situational.
 
+__Public Sentiment & Behavioral Temper:__ Trust extended primarily within kin and clan networks; suspicion of strangers was balanced by hospitality norms; the public mood tracked rainfall and herd health — confidence in good years, anxiety in drought.
+
 __Disaffection, Apathy & Spent Will:__ Failure of leadership or prolonged drought could produce disaffection, expressed through fission and migration rather than rebellion; spent will was discharged through movement, not institutional decay — no standing residue accrued.
+
 
 ## D06. Informational Domain
 

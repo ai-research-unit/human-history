@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes occasionally violent; rival
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Civic pride in stone architecture, mosques, and commercial success; cosmopolitan confidence from participation in Indian Ocean networks; trust extended within ethnic and religious communities, more guarded across boundaries; mood buoyant during trade prosperity, anxious during disruption or succession crisis.
-
 __Leadership & Personal Authority:__ Sultans and sheikhs derive authority from lineage, piety, and commercial success; personal charisma and reputation for generosity matter; leadership contested within ruling families; authority personal rather than institutional, dependent on continuous performance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to ruling lineages reinforced by genealogical claims, Islamic piety, and redistribution; legitimacy erodes when rulers fail to protect trade or offend religious norms; oral recitation of genealogy and praise poetry sustains legitimating narrative; consent conditional and renegotiated with each succession.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will to defend autonomy and commercial 
 
 __External Relations & Posture:__ Relations with Arabia, Persia, India, and interior African polities shaped by trade and diplomacy; no imperial ambitions; Kilwa's influence extends through commercial networks, not conquest; posture defensive and commercial; leverage derives from control of trade routes and harbors.
 
+__Public Sentiment & Behavioral Temper:__ Civic pride in stone architecture, mosques, and commercial success; cosmopolitan confidence from participation in Indian Ocean networks; trust extended within ethnic and religious communities, more guarded across boundaries; mood buoyant during trade prosperity, anxious during disruption or succession crisis.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection emerges during succession crises or commercial decline; enslaved populations harbor grievance but lack means of collective action; elite rivalry dissipates political energy; apathy not yet a dominant condition; the system remains confident and expanding in this window.
+
 
 ## D06. Informational Domain
 

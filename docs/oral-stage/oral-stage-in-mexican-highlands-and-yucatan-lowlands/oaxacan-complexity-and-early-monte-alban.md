@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through warfare (
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment is assertive; Monte Alban's founding represents collective will to create a new center. Trust extends within the valley polity; distrust marks relations with rival centers.
-
 __Leadership & Personal Authority:__ Leadership is personal and charismatic; rulers combine military, religious, and political roles. The danzante slabs may name specific rulers or their victims, memorializing personal authority.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is enacted through participation in Monte Alban's construction, rituals, and warfare. Legitimacy rests on military success and ritual efficacy; the public display of slain enemies reinforces it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is directed toward hill
 
 __External Relations & Posture:__ Monte Alban projects aggressive posture; the danzante slabs document military victories over named enemies. Relations with the Olmec heartland are competitive; Oaxaca absorbs Olmec iconography but asserts independent authority.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment is assertive; Monte Alban's founding represents collective will to create a new center. Trust extends within the valley polity; distrust marks relations with rival centers.
+
 __Disaffection, Apathy & Spent Will:__ No disaffection appears within the window; the polity is in expansion phase. Spent will does not yet accumulate.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conquistador factionalism produced civil wars c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Indigenous populations experienced trauma — catastrophic mortality, loss of cosmic order, subjugation by alien invaders; survivor psychology combined grief, adaptation, and resistance; Spanish settlers exhibited conquistador psychology — ambition, violence, religious zeal, greed; the public mood among indigenous peoples was one of catastrophe survived, not conquered; among Spanish, triumphalism mixed with anxiety about indigenous revolt.
-
 __Leadership & Personal Authority:__ Pizarro and subsequent governors exercised personal command; indigenous leadership fragmented between those collaborating with Spanish (many curacas), those resisting at Vilcabamba (the neo-Inca rulers Manco Inca, Titu Cusi, Tupac Amaru), and those attempting to navigate between; charismatic authority mattered enormously in this fluid period before institutional routinization.
 
 __Legitimacy as Lived Allegiance:__ Spanish legitimacy rested on conquest, papal donation, and force; indigenous peoples complied from necessity rather than allegiance; the neo-Inca state at Vilcabamba claimed continuing legitimate succession; curacas who collaborated transferred legitimacy claims to the colonial order; the transition was experienced as subjugation, not legitimate succession.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Spanish will was driven by ambition for
 
 __External Relations & Posture:__ The conquest was an external relation made internal — Spain incorporating Andean territories into its global empire; relations with Portuguese Brazil were minimal; the Pacific opened as a Spanish lake, with Manila galleon trade beginning 1565; the Andean region became a node in global Spanish imperial networks.
 
+__Public Sentiment & Behavioral Temper:__ Indigenous populations experienced trauma — catastrophic mortality, loss of cosmic order, subjugation by alien invaders; survivor psychology combined grief, adaptation, and resistance; Spanish settlers exhibited conquistador psychology — ambition, violence, religious zeal, greed; the public mood among indigenous peoples was one of catastrophe survived, not conquered; among Spanish, triumphalism mixed with anxiety about indigenous revolt.
+
 __Disaffection, Apathy & Spent Will:__ Indigenous disaffection was profound but suppressed; open resistance centered on Vilcabamba; the demographic collapse itself constituted a kind of collective exhaustion; Spanish settler disaffection emerged in the civil wars when disappointed conquistadors fought over spoils; by 1570 the conquest generation was aging and a second generation born in Peru was emerging with different attachments.
+
 
 ## D06. Informational Domain
 

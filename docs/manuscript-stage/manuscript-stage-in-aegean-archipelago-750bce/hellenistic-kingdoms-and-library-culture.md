@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynastic warfare, succession crises, and native
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Cosmopolitan urban populations exhibit a mix of confidence in Greek cultural superiority and anxiety about political instability; philosophical schools — Stoicism, Epicureanism, Skepticism — offer personal consolation amid political uncertainty; trust extends within ethnic and associational networks, less so across communal lines.
-
 __Leadership & Personal Authority:__ Hellenistic kings cultivate personal charisma and divine or semi-divine status; royal cults elevate rulers above ordinary mortals; generals and courtiers exercise authority through royal favor; the figure of the monarch concentrates will and legitimacy.
 
 __Legitimacy as Lived Allegiance:__ Greek settlers accept royal authority as the price of privilege; native populations — Egyptian, Syrian, Jewish — accommodate or resist depending on royal policy; legitimacy is personal and dynastic, not constitutional; it erodes with military defeat or fiscal oppression.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Kingdoms maintain cohesion through patr
 
 __External Relations & Posture:__ Successor kingdoms compete for territory, prestige, and Greek manpower; alliances shift; Rome's growing power looms from the west, intervening increasingly in Macedonian and eastern affairs after 200 BCE; diplomatic maneuvering is constant.
 
+__Public Sentiment & Behavioral Temper:__ Cosmopolitan urban populations exhibit a mix of confidence in Greek cultural superiority and anxiety about political instability; philosophical schools — Stoicism, Epicureanism, Skepticism — offer personal consolation amid political uncertainty; trust extends within ethnic and associational networks, less so across communal lines.
+
 __Disaffection, Apathy & Spent Will:__ Native populations in Egypt and Asia periodically revolt; Greek settlers may grow complacent; philosophical withdrawal (Epicurean retreat, Skeptical suspension) reflects individual disengagement from political turmoil; exhaustion accumulates after prolonged dynastic warfare.
+
 
 ## D06. Informational Domain
 

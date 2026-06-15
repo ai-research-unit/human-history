@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Blood feud persists despite Christian and royal
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Warrior ethos persists among the aristocracy, now framed within Christian virtue; loyalty to lords and kinship honor remain paramount; trust extends along personal and kin networks; fear of Viking raids colors coastal and riverine sentiment.
-
 __Leadership & Personal Authority:__ Merovingian and Carolingian kings wield sacred kingship, anointed by bishops; personal charisma remains important, but office increasingly carries its own weight; great nobles (dukes, counts) exercise regional authority that can rival the throne.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy rests on dynastic descent, ecclesiastical anointing, and military success; allegiance is personal (oaths to lords) but increasingly mediated by office; succession disputes (e.g., Carolingian civil wars of the 830s–840s) reveal the fragility of legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Charlemagne's conquests (772–804 CE) 
 
 __External Relations & Posture:__ Frankish expansion incorporates Saxony, Bavaria, and Lombard Italy; diplomacy engages Byzantium, the Caliphate (Charlemagne-Harun al-Rashid), and the papacy; Viking, Magyar, and Saracen incursions from 800 CE onward place the Carolingian successor states on the defensive.
 
+__Public Sentiment & Behavioral Temper:__ Warrior ethos persists among the aristocracy, now framed within Christian virtue; loyalty to lords and kinship honor remain paramount; trust extends along personal and kin networks; fear of Viking raids colors coastal and riverine sentiment.
+
 __Disaffection, Apathy & Spent Will:__ Carolingian civil wars and Viking devastation breed localized disaffection; peasant populations endure rather than resist; aristocratic factionalism fragments royal authority; by 900 CE, collective will has fragmented into local defense and lordship.
+
 
 ## D06. Informational Domain
 

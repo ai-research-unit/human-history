@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil wars (Phocas rebellion, Skleros rebellion
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence prevails under Macedonian expansion; the reign of Basil II ("Bulgar-Slayer") marks an apogee of imperial pride; subsequent military defeats (Manzikert) shock the population; anxiety increases as frontiers contract; trust in imperial leadership erodes through civil conflict; by 1200 CE, exhaustion and apprehension mark the mood.
-
 __Leadership & Personal Authority:__ The Macedonian dynasty (867–1056 CE) produces capable rulers; Basil II's military success and ascetic authority command obedience; subsequent emperors (Constantine IX, Michael VII, Alexios I Comnenos) vary in effectiveness; Alexios I (1081–1118 CE) stabilizes the Comnenian dynasty through military competence and dynastic marriage; charismatic authority derives from military victory and religious piety.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy rests on Orthodox faith, military defense, and dynastic continuity; the Macedonian and Comnenian dynasties maintain allegiance through success; defeats and civil wars strain legitimacy; usurpations occur but within the imperial framework; the institution survives challenges; by 1200 CE, Comnenian legitimacy is contested by rival claimants.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to maintain the empire holds; 
 
 __External Relations & Posture:__ Diplomacy complements military action; marriage alliances extend to Western courts and Caucasian kingdoms; the Crusaders present both opportunity (alliance against Seljuks) and threat (Norman ambitions, Latin arrogance); relations with the Papacy oscillate (schism of 1054 CE); Seljuk pressure requires accommodation; Venice receives trading privileges creating dependence; the empire balances multiple rivals.
 
+__Public Sentiment & Behavioral Temper:__ Confidence prevails under Macedonian expansion; the reign of Basil II ("Bulgar-Slayer") marks an apogee of imperial pride; subsequent military defeats (Manzikert) shock the population; anxiety increases as frontiers contract; trust in imperial leadership erodes through civil conflict; by 1200 CE, exhaustion and apprehension mark the mood.
+
 __Disaffection, Apathy & Spent Will:__ Civil wars generate disaffection among losing factions; provincial populations resent taxation for distant wars; the military aristocracy's factionalism exhausts political will; by the late 12th century, Comnenian centralizing energy wanes; apathy accumulates as the empire cannot match its earlier dynamism.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political opponents — Muslim Brothers, commun
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pan-Arab nationalist fervor reaches its apex. Nasser's radio speeches generate mass emotional mobilization — the 1956 Suez triumph cements the bond. Pride in standing against imperialism spreads across social strata. Trust in the regime runs high through 1966. Anti-colonial sentiment provides unifying affect.
-
 __Leadership & Personal Authority:__ Gamal Abdel Nasser embodies charismatic authority. His voice over radio becomes the era's defining political instrument — oratory at once intimate and commanding. Ahmed Said, Voice of the Arabs announcer, amplifies Nasserist messaging with fiery rhetoric. Personal authority concentrates in Nasser; no other figure commands comparable allegiance.
 
 __Legitimacy as Lived Allegiance:__ Revolutionary legitimacy — the Free Officers' overthrow of the monarchy, the Suez triumph, development achievements — sustains consent. Arab unity rhetoric binds Egyptian identity to leadership of the Arab cause. Allegiance runs deep and genuine through most of the period; the 1967 defeat will shatter it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime projects confident will — 
 
 __External Relations & Posture:__ Egypt positions itself as leader of Arab nationalism, non-alignment, and African liberation. Rivalry with conservative monarchies (Saudi Arabia, Jordan) structures regional politics. Cold War non-alignment tilts toward the Soviet bloc for military supply. The confrontation with Israel escalates through the period, culminating in the 1967 crisis.
 
+__Public Sentiment & Behavioral Temper:__ Pan-Arab nationalist fervor reaches its apex. Nasser's radio speeches generate mass emotional mobilization — the 1956 Suez triumph cements the bond. Pride in standing against imperialism spreads across social strata. Trust in the regime runs high through 1966. Anti-colonial sentiment provides unifying affect.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection remains contained among suppressed Islamists and displaced elites. Mass sentiment stays mobilized. The catastrophic defeat of June 1967 will convert élan to despair — but until that rupture, the emotional regime holds. The residue settles only after the period's terminal event.
+
 
 ## D06. Informational Domain
 

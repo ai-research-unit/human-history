@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Monastic discipline relaxed in prosperous times
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Learned communities cultivated piety, humility, and intellectual ambition; the mood shifted from Ottonian confidence through Investiture-era anxiety to 13th-century scholastic optimism, then post-plague melancholy and late-medieval reform urgency; trust within orders and universities was high, extending less reliably to outsiders.
-
 __Leadership & Personal Authority:__ Great abbots (e.g., Wibald of Stavelot), bishop-scholars (e.g., Albertus Magnus), and university masters (e.g., Jan Hus) commanded personal followings; authority derived from learning, sanctity, and institutional office in combination.
 
 __Legitimacy as Lived Allegiance:__ Monks owed obedience to their rule and abbot; students swore oaths to their university; legitimacy was grounded in sacred vows and corporate membership; erosion of allegiance (lax observance, student defections) signaled institutional decline.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Monastic chapters could mobilize collec
 
 __External Relations & Posture:__ Monasteries cultivated patrons (emperors, princes, bishops); universities sought papal charters and imperial recognition; Hanseatic towns competed for university foundations as prestige investments; external relations were supplicatory toward superiors, competitive with peer institutions.
 
+__Public Sentiment & Behavioral Temper:__ Learned communities cultivated piety, humility, and intellectual ambition; the mood shifted from Ottonian confidence through Investiture-era anxiety to 13th-century scholastic optimism, then post-plague melancholy and late-medieval reform urgency; trust within orders and universities was high, extending less reliably to outsiders.
+
 __Disaffection, Apathy & Spent Will:__ Monastic vocation declined in the 15th century—recruitment fell, discipline slackened; universities expanded in number but some stagnated intellectually; a widespread sense of ecclesia semper reformanda (the church always in need of reform) reflected spent will awaiting the print-enabled transformations of the next century.
+
 
 ## D06. Informational Domain
 

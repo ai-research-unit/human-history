@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period was defined by violence: the Sea Peo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trauma and displacement colored the era. The destruction of familiar orders — palaces, temples, trade networks — produced disorientation. Survivors rebuilt at small scale, with trust limited to kin and immediate neighbors.
-
 __Leadership & Personal Authority:__ Leadership was personal and charismatic rather than institutional. The biblical "judges" represent a memory of such figures — military leaders who rallied temporary coalitions, without hereditary or bureaucratic authority.
 
 __Legitimacy as Lived Allegiance:__ No overarching legitimate order existed. Allegiance ran to family, clan, tribe, or city. Egyptian hegemony, the legitimating frame of the Late Bronze Age, collapsed and was not replaced.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was episodic: coaliti
 
 __External Relations & Posture:__ Egypt, weakened by internal crisis, withdrew from its Levantine holdings. Hittite Anatolia had collapsed. Assyria and Babylon were in abeyance. The Levant existed in a power vacuum, with local powers — Philistines, Phoenicians, proto-Israelites, Aramaeans — competing without external hegemonic constraint.
 
+__Public Sentiment & Behavioral Temper:__ Trauma and displacement colored the era. The destruction of familiar orders — palaces, temples, trade networks — produced disorientation. Survivors rebuilt at small scale, with trust limited to kin and immediate neighbors.
+
 __Disaffection, Apathy & Spent Will:__ The collapse generation experienced exhaustion. Recovery was slow; the will to build new structures crystallized only toward the end of the period, as proto-states began to coalesce.
+
 
 ## D06. Informational Domain
 

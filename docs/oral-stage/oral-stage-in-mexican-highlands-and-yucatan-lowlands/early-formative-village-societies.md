@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over land, theft, adultery, and insult
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood balances confidence in agricultural productivity against awareness of environmental and social risks. Trust extends reliably to kin and village-mates, more cautiously to affines and trading partners, barely at all to strangers. Collective anxiety rises with failed rains; relief and celebration follow successful harvests.
-
 __Leadership & Personal Authority:__ Leadership is personal and informal; headmen gain influence through demonstrated skill, generosity, and ritual efficacy. Authority is persuasive rather than coercive; leaders cannot command but must convince. Prestige accrues to those who sponsor feasts and redistribute surplus.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin, village, and recognized leaders who fulfill obligations; no abstract institutions claim loyalty. Legitimacy is continuously negotiated through performance; leaders who fail to deliver lose following. Disaffection manifests as withdrawal of cooperation or departure.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes through oral 
 
 __External Relations & Posture:__ Relations between villages range from alliance (intermarriage, trade, ritual participation) to competition (raiding, territorial disputes). No permanent enmities or hegemonies; the landscape is politically fragmented. Posture is defensive and opportunistic; expansion occurs through fission and migration.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood balances confidence in agricultural productivity against awareness of environmental and social risks. Trust extends reliably to kin and village-mates, more cautiously to affines and trading partners, barely at all to strangers. Collective anxiety rises with failed rains; relief and celebration follow successful harvests.
+
 __Disaffection, Apathy & Spent Will:__ Failed leaders or repeated misfortune produce disaffection expressed through withdrawal, fission, or migration to other villages. The small scale of communities allows exit. Apathy is rare given labor demands; spent will is restored through seasonal rituals and successful harvests.
+
 
 ## D06. Informational Domain
 

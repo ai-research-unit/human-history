@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage in the south represents armed peasan
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The liberal elite celebrates unification with patriotic fervor, but popular sentiment in the south is alienated by conscription, taxation, and the loss of communal lands. The northern industrial bourgeoisie embraces progress; the southern peasantry views the state as an alien imposition.
-
 __Leadership & Personal Authority:__ Cavour's death in 1861 leaves a leadership vacuum. The governing class cycles through transformist coalitions; no single figure commands broad allegiance. The king, Victor Emmanuel II (d. 1878) and Umberto I, provides symbolic continuity without active leadership.
 
 __Legitimacy as Lived Allegiance:__ The dynasty enjoys legitimacy among the liberal elite but limited emotional attachment among the peasantry. The Church's refusal to recognize the state (the Roman Question) denies Catholicism's imprimatur and estranges devout populations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Trasformismo, the practice of building 
 
 __External Relations & Posture:__ Italy joins the Triple Alliance with Germany and Austria-Hungary (1882), seeking Great Power status. Colonial ventures in Eritrea and Somalia reflect prestige ambitions but strain resources. Irredentist sentiment targets Trentino and Trieste.
 
+__Public Sentiment & Behavioral Temper:__ The liberal elite celebrates unification with patriotic fervor, but popular sentiment in the south is alienated by conscription, taxation, and the loss of communal lands. The northern industrial bourgeoisie embraces progress; the southern peasantry views the state as an alien imposition.
+
 __Disaffection, Apathy & Spent Will:__ Southern disaffection fuels brigandage and emigration. The restricted political system excludes the masses. Anarchist and early socialist movements channel alienation. Apathy among the excluded majority limits political mobilization.
+
 
 ## D06. Informational Domain
 

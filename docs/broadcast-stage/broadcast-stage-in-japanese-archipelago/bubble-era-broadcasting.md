@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is absorbed through the growth 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence and optimism characterize the public mood, particularly during the late-1980s bubble peak; Japan is celebrated internationally for its economic management, and domestic audiences absorb this external validation through broadcast coverage of Japan's rising global standing.
-
 __Leadership & Personal Authority:__ Prime ministers rotate through LDP factional bargaining (Miki, Fukuda, Ohira, Suzuki, Nakasone, Takeshita), with Nakasone (1982–1987) achieving the highest public profile through deliberate media engagement, including frequent television appearances and a Westernized personal style that plays well on screen.
 
 __Legitimacy as Lived Allegiance:__ The postwar constitutional order commands broad acceptance; the emperor remains a ceremonial figure of quiet reverence, with extended broadcast coverage of imperial events (such as Crown Prince Naruhito's coming-of-age in 1980) reinforcing continuity and stability.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The system maintains sufficient cohesio
 
 __External Relations & Posture:__ Japan consolidates its position as the second-largest free-world economy; the US alliance remains foundational despite trade tensions; broadcasts oscillate between celebrating Japanese success abroad and anxiously covering foreign criticism of trade surpluses and closed markets.
 
+__Public Sentiment & Behavioral Temper:__ Confidence and optimism characterize the public mood, particularly during the late-1980s bubble peak; Japan is celebrated internationally for its economic management, and domestic audiences absorb this external validation through broadcast coverage of Japan's rising global standing.
+
 __Disaffection, Apathy & Spent Will:__ Political apathy grows as prosperity makes politics feel distant; voter turnout declines modestly, and younger generations show less interest in ideological contestation than their 1960s predecessors, their attention absorbed by consumer culture and entertainment television rather than political mobilization.
+
 
 ## D06. Informational Domain
 

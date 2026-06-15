@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-vassal rivalry generates friction (the Am
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of relative security prevails under the international order; trust operates through personal and kin bonds reinforced by treaty and oath; the late period sees rising anxiety as the system shows stress.
-
 __Leadership & Personal Authority:__ Vassal kings combine sacral and military roles; personal correspondence in the Amarna Letters reveals individual personalities — pleading, boasting, accusing — behind the formal titles.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on Egyptian recognition, divine favor, and visible protection; vassals who lose Egyptian support face internal and external challengers.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Vassals compete for Egyptian favor rath
 
 __External Relations & Posture:__ Deference to Egypt defines the primary posture; secondary alignment with or against Hittite encroachment shapes northern vassal behavior; rivalry among vassals fills the space between great-power imperatives.
 
+__Public Sentiment & Behavioral Temper:__ A mood of relative security prevails under the international order; trust operates through personal and kin bonds reinforced by treaty and oath; the late period sees rising anxiety as the system shows stress.
+
 __Disaffection, Apathy & Spent Will:__ The Amarna Letters document localized disaffection — accusations of disloyalty, appeals for aid — but systemic collapse of will awaits the 12th-century breakdown.
+
 
 ## D06. Informational Domain
 

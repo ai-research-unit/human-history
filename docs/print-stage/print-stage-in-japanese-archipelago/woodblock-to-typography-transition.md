@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Displaced woodblock craftsmen represent transit
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Progressive sentiment celebrates typographic modernity as symbol of civilization and enlightenment (bunmei kaika); nostalgia for woodblock aesthetics develops among cultural conservatives valuing traditional craftsmanship against industrial uniformity.
-
 __Leadership & Personal Authority:__ Pioneering typographic publishers (Fukuzawa Yukichi, Motoki Shozo) command respect as modernizers; traditional master carvers fade from public visibility except in art-printing contexts; newspaper proprietors emerge as new leadership figures.
 
 __Legitimacy as Lived Allegiance:__ Typographic newspapers legitimate themselves through claims to accuracy, speed, and public service; woodblock publishing retains cultural prestige in specialized domains (art, literature) while losing commercial legitimacy for mass communication.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Meiji state actively promotes typog
 
 __External Relations & Posture:__ Foreign typography represents Western technological superiority that must be matched; Japanese adaptation of typography to complex script demonstrates national capacity; by 1935, Japanese printing technology competes internationally rather than merely imitating.
 
+__Public Sentiment & Behavioral Temper:__ Progressive sentiment celebrates typographic modernity as symbol of civilization and enlightenment (bunmei kaika); nostalgia for woodblock aesthetics develops among cultural conservatives valuing traditional craftsmanship against industrial uniformity.
+
 __Disaffection, Apathy & Spent Will:__ Woodblock craftsmen experience collective demoralization as demand collapses; art-printing revivals provide psychic compensation for a few, but most witness their life skills becoming obsolete without alternative pathways.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Low crime rates persist. Online harms emerge bu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ High trust in government enables digital service adoption that populations elsewhere would resist. Generalized social trust remains highest in world, facilitating cooperation and reducing transaction costs. Anxiety about Russian threats unites populations and justifies security measures.
-
 __Leadership & Personal Authority:__ Consensus-oriented political culture distributes leadership across coalition governments. Individual tech entrepreneurs achieve celebrity status: Daniel Ek (Spotify) and Sebastian Siemiatkowski (Klarna) represent Nordic startup success. Political leaders adopt digital communication styles while maintaining measured tones.
 
 __Legitimacy as Lived Allegiance:__ Government legitimacy remains strong across the region. Democratic institutions maintain citizen confidence. EU membership accepted except in Norway, which maintains close association. Estonia's digital government explicitly built to maintain state continuity even under occupation, making digital infrastructure a legitimacy-preservation tool.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ COVID-19 responses demonstrate collecti
 
 __External Relations & Posture:__ Nordic cooperation deepens. Baltic cooperation intensifies. EU digital policy increasingly influenced by Nordic models. Relations with Russia deteriorate sharply after 2022, with digital infrastructure viewed through security lens. US platform dependence creates soft vulnerability despite alliance alignment.
 
+__Public Sentiment & Behavioral Temper:__ High trust in government enables digital service adoption that populations elsewhere would resist. Generalized social trust remains highest in world, facilitating cooperation and reducing transaction costs. Anxiety about Russian threats unites populations and justifies security measures.
+
 __Disaffection, Apathy & Spent Will:__ Isolated cases of radicalization emerge but remain marginal. Youth engagement through digital channels partially compensates for declining traditional party membership. Some exhaustion with consensus politics drives populist minority support, but disaffection remains lower than European averages.
+
 
 ## D06. Informational Domain
 

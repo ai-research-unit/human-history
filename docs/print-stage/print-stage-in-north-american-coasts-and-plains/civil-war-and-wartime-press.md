@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence pervades the period: not only battle d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Northern opinion swings between war fervor and war weariness. Early confidence ("On to Richmond!") yields to the slog of 1862–1863. Lincoln's reelection (November 1864) requires Sherman's capture of Atlanta to sustain morale. Southern sentiment hardens into determination — at least among committed Confederates — but cracks appear as casualties mount, deprivation spreads, and defeat approaches. The emotional register ranges from patriotic exaltation to profound grief; virtually every family is touched by death.
-
 __Leadership & Personal Authority:__ Lincoln emerges as the war's dominant figure: his speeches (the Gettysburg Address, Second Inaugural) articulate Union purpose; his political skill holds together a fractious coalition; his military judgment, maturing through painful experience, ultimately selects the commanders (Grant, Sherman) who win the war. Jefferson Davis proves less flexible: his micromanagement, feuds with generals, and unwillingness to consider negotiated settlement contribute to Confederate failure. Military leaders — Lee, Grant, Sherman, Jackson — achieve celebrity; their exploits fill the papers.
 
 __Legitimacy as Lived Allegiance:__ Union legitimacy, though challenged by Copperhead opposition and draft resistance, holds; Lincoln's reelection demonstrates sustained popular support. Confederate legitimacy depends on military success; as defeat approaches, allegiance erodes. Emancipation redefines Union war aims: the war becomes not merely to restore the Union but to end slavery, a transformation that strengthens abolitionist commitment while provoking Democratic opposition.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Northern political will, though tested,
 
 __External Relations & Posture:__ Both governments seek European support; neither obtains it. Britain and France remain officially neutral, though Britain's ruling classes lean Confederate and British mills need Southern cotton. The Emancipation Proclamation makes Union support the antislavery position, closing off British recognition of the Confederacy. The Trent affair (1861) briefly threatens Anglo-American war; diplomacy resolves it.
 
+__Public Sentiment & Behavioral Temper:__ Northern opinion swings between war fervor and war weariness. Early confidence ("On to Richmond!") yields to the slog of 1862–1863. Lincoln's reelection (November 1864) requires Sherman's capture of Atlanta to sustain morale. Southern sentiment hardens into determination — at least among committed Confederates — but cracks appear as casualties mount, deprivation spreads, and defeat approaches. The emotional register ranges from patriotic exaltation to profound grief; virtually every family is touched by death.
+
 __Disaffection, Apathy & Spent Will:__ War weariness spreads by 1864. Northern Copperheads call for negotiated peace; Lincoln fears electoral defeat until Atlanta's fall. Confederate disaffection manifests in desertion (over 100,000 Confederate soldiers desert), civilian resistance to impressment, and, by 1865, desperate proposals to arm enslaved persons in exchange for freedom — the contradiction at slavery's heart. The will to continue, on both sides, is pushed to exhaustion.
+
 
 ## D06. Informational Domain
 

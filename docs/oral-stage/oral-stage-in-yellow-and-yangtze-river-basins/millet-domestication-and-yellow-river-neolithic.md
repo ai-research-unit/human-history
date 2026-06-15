@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict resolution occurs through kinship medi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Village communities are bound by face-to-face familiarity and kinship trust; the radius of interpersonal trust extends to the village and perhaps allied settlements; strangers are met with caution; the mood is likely cautious optimism as agricultural adaptation proves successful.
-
 __Leadership & Personal Authority:__ Leadership is informal and situational, resting on age, experience, and personal qualities rather than formal office; respected elders guide collective decisions through persuasion rather than command; charismatic individuals may lead ritual or hunting activities.
 
 __Legitimacy as Lived Allegiance:__ Authority derives from kinship seniority and demonstrated competence; allegiance is personal and relational rather than institutional; no concept of political legitimacy separate from kinship and elder respect exists.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action occurs for seasonal l
 
 __External Relations & Posture:__ Relations with neighboring villages are shaped by kinship alliance and marriage exchange; occasional conflict over resources or insult occurs but does not escalate to sustained warfare; no external polities or powers impose on these communities.
 
+__Public Sentiment & Behavioral Temper:__ Village communities are bound by face-to-face familiarity and kinship trust; the radius of interpersonal trust extends to the village and perhaps allied settlements; strangers are met with caution; the mood is likely cautious optimism as agricultural adaptation proves successful.
+
 __Disaffection, Apathy & Spent Will:__ The transition from foraging to farming requires sustained collective commitment; those unwilling or unable to adapt may leave for continued foraging or other settlements; no evidence of widespread disaffection or social breakdown appears in this expansive phase.
+
 
 ## D06. Informational Domain
 

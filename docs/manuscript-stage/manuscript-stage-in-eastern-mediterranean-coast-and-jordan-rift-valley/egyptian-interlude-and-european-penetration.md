@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1834 Palestine revolt against Egyptian cons
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Egyptian occupation generates resentment and resistance (1834 revolt), followed by relief at withdrawal; Ottoman Tanzimat reforms inspire hope among some reformers, skepticism among conservatives; European presence evokes ambivalence—opportunity and threat; sectarian anxieties rise as external powers patronize different communities; trust remains bounded by community.
-
 __Leadership & Personal Authority:__ Ibrahim Pasha exercises personal command during Egyptian occupation; after withdrawal, local notables reassert influence within Ottoman framework; religious leaders (muftis, patriarchs) retain moral authority; new figures emerge—European-educated Christians, reformist Ottoman officials—prefiguring later political change.
 
 __Legitimacy as Lived Allegiance:__ Ottoman legitimacy is tested by Egyptian invasion but survives; the sultan's reform edicts (Gulhane, 1839) appeal to equality and justice, generating mixed response; communal allegiance remains primary; European powers gain leverage as protectors, complicating local legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The 1834 revolt demonstrates capacity f
 
 __External Relations & Posture:__ The region becomes an arena of great-power competition: France, Britain, Russia, Austria contest influence; the "Eastern Question" frames regional affairs; local actors seek external patrons; Ottoman sovereignty erodes as capitulations and consular protection expand European reach; no local actor projects power beyond defensive posture.
 
+__Public Sentiment & Behavioral Temper:__ Egyptian occupation generates resentment and resistance (1834 revolt), followed by relief at withdrawal; Ottoman Tanzimat reforms inspire hope among some reformers, skepticism among conservatives; European presence evokes ambivalence—opportunity and threat; sectarian anxieties rise as external powers patronize different communities; trust remains bounded by community.
+
 __Disaffection, Apathy & Spent Will:__ Defeat of the 1834 revolt generates resignation; repeated external interventions breed fatalism; sectarian mobilization absorbs some disaffection but also generates new grievances; apathy settles over the peasantry, while urban elites navigate between Ottoman reform and European opportunity.
+
 
 ## D06. Informational Domain
 

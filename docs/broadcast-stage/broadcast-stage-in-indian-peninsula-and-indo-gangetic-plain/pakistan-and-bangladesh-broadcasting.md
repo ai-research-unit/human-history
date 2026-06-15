@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political instability disrupts institutional de
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcasting cultivates national sentiment—Pakistani Islamic nationalism, Bangladeshi Bengali identity; anti-India messaging pervades Pakistani broadcasting; independence narratives dominate Bangladeshi discourse; public trust in state media remains low while private channels gain credibility then lose it through sensationalism.
-
 __Leadership & Personal Authority:__ Military rulers—Ayub Khan, Zia ul-Haq, Pervez Musharraf in Pakistan; Ziaur Rahman, Hussain Ershad in Bangladesh—dominate screens during their tenures; news anchors acquire celebrity and influence; channel owners exercise editorial authority.
 
 __Legitimacy as Lived Allegiance:__ State broadcasters lose credibility through obvious propaganda functions; private media gains initial legitimacy through pluralism then squanders it through partisanship; credibility crises accompany major political transitions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcasting mobilizes political will d
 
 __External Relations & Posture:__ Both states use broadcasting for external communication; Pakistan's propaganda addresses Kashmir and India; External Service broadcasts reach diaspora; cross-border cultural flows persist despite political tensions.
 
+__Public Sentiment & Behavioral Temper:__ Broadcasting cultivates national sentiment—Pakistani Islamic nationalism, Bangladeshi Bengali identity; anti-India messaging pervades Pakistani broadcasting; independence narratives dominate Bangladeshi discourse; public trust in state media remains low while private channels gain credibility then lose it through sensationalism.
+
 __Disaffection, Apathy & Spent Will:__ Cynicism about state media pervades populations; private media sensationalism generates its own disillusionment; viewer fatigue with political coverage grows; the animating conviction of independence-era broadcasting dissipates into commercial competition.
+
 
 ## D06. Informational Domain
 

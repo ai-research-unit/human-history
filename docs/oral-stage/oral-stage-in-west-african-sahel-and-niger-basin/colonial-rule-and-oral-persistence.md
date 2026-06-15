@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Anticolonial resistance (Samori Ture, Satiru re
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Early colonial period marked by demoralization and submission; interwar years see adaptation and accommodation; World War II (African soldiers, Atlantic Charter rhetoric) raises expectations; postwar period brings rising nationalist sentiment and impatience; trust in colonial authority erodes; hope for independence swells by 1955.
-
 __Leadership & Personal Authority:__ Colonial governors and commandants hold official authority; African chiefs exercise delegated power; religious leaders (marabouts, mallams, bishops) command spiritual allegiance; educated elites (teachers, clerks, lawyers) emerge as nationalist leaders; figures like Leopold Sedar Senghor, Modibo Keita, Nnamdi Azikiwe, and Ahmadu Bello gain prominence by 1955.
 
 __Legitimacy as Lived Allegiance:__ Colonial rule never commands deep allegiance; legitimacy is coercive and instrumental; chiefs retain customary legitimacy where indirect rule applies; religious leaders (Sufi shaykhs, Christian clergy) command spiritual allegiance independent of the state; nationalist leaders begin to claim popular allegiance by 1955.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will constrained by colonial
 
 __External Relations & Posture:__ Colonial territories are subordinate to Paris and London; World Wars I and II involve African troops in European conflicts; pan-African and anti-colonial movements (Fifth Pan-African Congress, 1945) link West Africa to global currents; decolonization in Asia (India, Indonesia) sets precedents; by 1955, the international posture is turning toward independence.
 
+__Public Sentiment & Behavioral Temper:__ Early colonial period marked by demoralization and submission; interwar years see adaptation and accommodation; World War II (African soldiers, Atlantic Charter rhetoric) raises expectations; postwar period brings rising nationalist sentiment and impatience; trust in colonial authority erodes; hope for independence swells by 1955.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection with colonial rule is widespread but suppressed; apathy among those who see no alternative; by 1955, disaffection is channeled into nationalist politics rather than despair; the emotional residue is mobilized rather than settled.
+
 
 ## D06. Informational Domain
 

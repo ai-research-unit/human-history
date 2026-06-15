@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Partition violence is the catastrophic discharg
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Quit India (1942) channels anti-British anger; "Do or Die" is the slogan. By 1946–1947, Hindu-Muslim distrust reaches fever pitch; fear and revenge cycles drive violence. Independence brings elation mixed with grief.
-
 __Leadership & Personal Authority:__ Gandhi retains moral authority but cannot stop partition violence; his fasts calm Calcutta and Delhi. Nehru and Patel lead the Congress; Jinnah commands Muslim League loyalty. Mountbatten accelerates the timetable.
 
 __Legitimacy as Lived Allegiance:__ British legitimacy collapses; the war demonstrates Britain cannot defend India (fall of Singapore, Burma retreat). Congress and League compete for succession; allegiance splits on communal lines.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Quit India is suppressed (100,000 arres
 
 __External Relations & Posture:__ Britain, exhausted by WWII, cannot afford empire. The United States and Soviet Union both pressure decolonization. India and Pakistan emerge as rival states; Kashmir becomes the first flashpoint (1947–1948 war).
 
+__Public Sentiment & Behavioral Temper:__ Quit India (1942) channels anti-British anger; "Do or Die" is the slogan. By 1946–1947, Hindu-Muslim distrust reaches fever pitch; fear and revenge cycles drive violence. Independence brings elation mixed with grief.
+
 __Disaffection, Apathy & Spent Will:__ Partition violence exhausts all parties; by late 1947, the killings taper as populations complete their exchange. Gandhi's assassination (January 1948) by a Hindu extremist signals the depth of disaffection with his inclusive vision.
+
 
 ## D06. Informational Domain
 

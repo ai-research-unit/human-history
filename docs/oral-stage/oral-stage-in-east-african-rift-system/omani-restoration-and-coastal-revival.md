@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Piracy and raiding persist in contested zones; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Coastal society expresses confidence in commercial recovery; interior communities experience fear and insecurity in raided zones, stability in protected areas; trust extends along trade and kin networks but not beyond.
-
 __Leadership & Personal Authority:__ Omani sultans and governors command through personal prestige, wealth, and patronage; Swahili merchants derive authority from commercial success and Islamic learning; interior chiefs combine ritual authority with military prowess.
 
 __Legitimacy as Lived Allegiance:__ Omani rule is accepted on the coast as restoring order after Portuguese disruption; legitimacy rests on protection of trade and Islamic governance; interior chiefdoms derive legitimacy from lineage, ritual, and success in defense.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Omani will focuses on commercial extrac
 
 __External Relations & Posture:__ The Omani empire connects the coast to Muscat and the Persian Gulf; relations with European powers (British, French) are commercial and diplomatic; interior polities engage with the coast as trading partners and targets of raiding.
 
+__Public Sentiment & Behavioral Temper:__ Coastal society expresses confidence in commercial recovery; interior communities experience fear and insecurity in raided zones, stability in protected areas; trust extends along trade and kin networks but not beyond.
+
 __Disaffection, Apathy & Spent Will:__ Enslaved populations harbor disaffection but lack means of collective resistance; raided communities suffer demoralization; coastal elites maintain confidence; political exhaustion is not evident in this expansive period.
+
 
 ## D06. Informational Domain
 

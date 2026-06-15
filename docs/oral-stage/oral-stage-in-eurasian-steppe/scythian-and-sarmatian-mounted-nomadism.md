@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-clan feuds and succession disputes are th
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Martial honor and lineage pride dominate the emotional register. Trust extends within the clan; outsiders are potential enemies or trade partners, rarely neutral. Confidence is high when herds thrive; anxiety spikes after dzud or military defeat.
-
 __Leadership & Personal Authority:__ Kings and chiefs rule through personal charisma, martial prowess, and generous redistribution. Allegiance is personal, not institutional; a weak successor loses followers. Herodotus notes Scythian kings claiming divine descent, reinforcing personal authority with sacred sanction.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on success in war and the ability to redistribute spoils. Oral genealogies anchor royal claims; ritual oaths bind warriors to chiefs. Allegiance erodes quickly when a leader fails in battle or distribution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Confederations mobilize rapidly for def
 
 __External Relations & Posture:__ Aggressive raiding against sedentary neighbors (Persia, Greek colonies, later Rome) alternates with trade and treaty. Darius I's failed Scythian campaign (c. 513 BCE) demonstrates defensive capacity; the steppe retreats before invaders, refusing decisive battle.
 
+__Public Sentiment & Behavioral Temper:__ Martial honor and lineage pride dominate the emotional register. Trust extends within the clan; outsiders are potential enemies or trade partners, rarely neutral. Confidence is high when herds thrive; anxiety spikes after dzud or military defeat.
+
 __Disaffection, Apathy & Spent Will:__ Defeat or prolonged drought can fragment confederations as subordinate clans defect to rivals. The Sarmatian displacement of Scythian dominance (c. 200 BCE onward) reflects such erosion; spent will and demographic decline open space for successor peoples.
+
 
 ## D06. Informational Domain
 

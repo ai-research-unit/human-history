@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor strikes, tenant disputes, and urban prote
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ "Taisho Democracy" names the prevailing temper: optimistic, reformist, relatively open; confidence in progress and liberalization spreads among urban educated classes; anxiety about social change coexists with hope for political reform.
-
 __Leadership & Personal Authority:__ Emperor Taisho's poor health reduces imperial charisma; political leaders (Hara Takashi, Kato Takaaki) gain prominence through party politics; intellectual leaders (Yoshino Sakuzo, Minobe Tatsukichi) shape public discourse through newspapers and magazines; authority pluralizes.
 
 __Legitimacy as Lived Allegiance:__ Constitutional government gains legitimacy through party cabinets; universal male suffrage (1925) extends political inclusion; the imperial system retains symbolic authority; legitimacy becomes more procedural, less purely charismatic.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political parties achieve cabinet contr
 
 __External Relations & Posture:__ Japan's gains at Versailles (former German Pacific islands) satisfy some expansionists; Washington Naval Treaty (1922) constrains military growth; relations with China deteriorate over the Twenty-One Demands legacy; newspapers reflect divided opinion on Asian policy.
 
+__Public Sentiment & Behavioral Temper:__ "Taisho Democracy" names the prevailing temper: optimistic, reformist, relatively open; confidence in progress and liberalization spreads among urban educated classes; anxiety about social change coexists with hope for political reform.
+
 __Disaffection, Apathy & Spent Will:__ Socialist and communist movements gain adherents, especially among intellectuals and workers; anarchism attracts some; the Peace Preservation Law (1925) criminalizes these movements, driving disaffection underground; the liberal center holds but faces challenges from left and right; disaffection accumulates beneath the democratic surface.
+
 
 ## D06. Informational Domain
 

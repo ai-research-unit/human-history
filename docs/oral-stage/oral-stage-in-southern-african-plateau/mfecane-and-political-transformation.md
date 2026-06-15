@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warfare produces massive disorder—burned vill
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear and uncertainty dominate during active warfare; survivors report terror of Zulu raids; incorporation into new polities brings relief and new loyalties; public sentiment coalesces around successful war leaders; trust is confined to the immediate group; the behavioral temper shifts from terror during displacement to discipline under regimental order.
-
 __Leadership & Personal Authority:__ Shaka kaSenzangakhona embodies personal authority—charismatic, brutal, and innovative; his assassination (1828) does not end the system but transfers it to successors; Dingane and Mpande continue Zulu kingship; Mzilikazi leads the Ndebele north; Moshoeshoe builds Sotho authority through diplomacy and defensive strategy; leadership is intensely personal and oral—praise poetry (izibongo) constructs and transmits the leader's image.
 
 __Legitimacy as Lived Allegiance:__ Allegiance follows success; Shaka's victories generate loyalty; his cruelty also generates fear and flight; Moshoeshoe's protective strategy wins refugees' allegiance; legitimacy is oral—genealogy, praise poetry, and public acclamation; there is no written charter or constitution; the legitimacy reservoir is renewed through victory and redistribution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Zulu state commands total mobilizat
 
 __External Relations & Posture:__ The Zulu state pursues aggressive expansion; Ndebele and Ngoni flee north, creating secondary state-formation; Sotho adopt defensive posture, seeking British alliance against both Zulu and Boers; by the 1850s–1870s, external relations increasingly involve European powers; the posture of African polities shifts from mutual rivalry to collective challenge by colonial forces.
 
+__Public Sentiment & Behavioral Temper:__ Fear and uncertainty dominate during active warfare; survivors report terror of Zulu raids; incorporation into new polities brings relief and new loyalties; public sentiment coalesces around successful war leaders; trust is confined to the immediate group; the behavioral temper shifts from terror during displacement to discipline under regimental order.
+
 __Disaffection, Apathy & Spent Will:__ Survivors of defeat and displacement carry trauma; oral tradition preserves memories of loss alongside victory; apathy is not the dominant affect—the period is one of intense mobilization—but exhaustion follows prolonged warfare; the standing distrust between groups who fought each other persists into later generations.
+
 
 ## D06. Informational Domain
 

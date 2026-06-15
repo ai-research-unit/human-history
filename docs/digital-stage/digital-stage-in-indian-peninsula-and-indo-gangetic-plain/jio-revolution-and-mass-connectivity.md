@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ WhatsApp-fueled mob lynchings (2018, linked to 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mass connectivity produced both enthusiasm (access to entertainment, family contact) and anxiety (misinformation, scams). Trust in digital information remained uneven; excitement over cheap data coexisted with confusion among new users.
-
 __Leadership & Personal Authority:__ Mukesh Ambani emerged as the face of the connectivity revolution, embodying corporate ambition; Prime Minister Modi championed Digital India as a modernization project, linking his personal brand to technological progress.
 
 __Legitimacy as Lived Allegiance:__ The BJP government's legitimacy drew partly from perceived delivery of digital infrastructure; opposition parties scrambled to match the narrative. Jio's success reinforced Reliance's standing as a national champion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state demonstrated will to push dig
 
 __External Relations & Posture:__ Foreign tech firms (Facebook, Google, Amazon) competed for the Indian market, accepting some data-localization pressures; Chinese handset makers (Xiaomi, Oppo, Vivo) dominated device sales. Jio positioned itself as a domestic counterweight to foreign platforms.
 
+__Public Sentiment & Behavioral Temper:__ Mass connectivity produced both enthusiasm (access to entertainment, family contact) and anxiety (misinformation, scams). Trust in digital information remained uneven; excitement over cheap data coexisted with confusion among new users.
+
 __Disaffection, Apathy & Spent Will:__ Early adopter enthusiasm masked emerging fatigue among users overwhelmed by spam, scams, and misinformation. Disaffection with platform behavior simmered but remained diffuse. Emotional residue accumulated as the novelty wore off and negative externalities became visible.
+
 
 ## D06. Informational Domain
 

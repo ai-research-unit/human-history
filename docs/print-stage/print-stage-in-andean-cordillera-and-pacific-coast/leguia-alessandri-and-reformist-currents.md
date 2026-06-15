@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor strikes (Lima general strike 1919, Chilea
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Middle-class reformist aspirations fuel initial support for both Leguia and Alessandri; workers demand eight-hour day and social legislation; indigenous highland populations remain largely outside national political sentiment, focused on community defense.
-
 __Leadership & Personal Authority:__ Leguia cultivates personal rule, presenting himself as modernizer and patron; Alessandri deploys populist oratory ("Lion of Tarapaca") to mobilize cross-class support; both personalist styles concentrate authority beyond institutional bounds.
 
 __Legitimacy as Lived Allegiance:__ Leguia's legitimacy erodes through the decade as debt accumulates and repression intensifies; Alessandri's reforms stall, leading to military intervention; both regimes rest on fragile personal rather than institutional foundations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reform movements (APRA, Chilean labor, 
 
 __External Relations & Posture:__ Tacna-Arica dispute between Peru and Chile dominates diplomacy; 1929 treaty (U.S.-mediated) awards Tacna to Peru, Arica to Chile, partially resolving but not extinguishing irredentist sentiment; Bolivia remains excluded and landlocked.
 
+__Public Sentiment & Behavioral Temper:__ Middle-class reformist aspirations fuel initial support for both Leguia and Alessandri; workers demand eight-hour day and social legislation; indigenous highland populations remain largely outside national political sentiment, focused on community defense.
+
 __Disaffection, Apathy & Spent Will:__ By decade's end, initial reformist enthusiasm exhausts against oligarchic obstruction and executive authoritarianism; Depression shock (1929–1930) delegitimizes both regimes; Leguia falls to coup (1930); Chilean instability follows.
+
 
 ## D06. Informational Domain
 

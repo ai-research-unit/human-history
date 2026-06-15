@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rural-urban migration continues despite radio-m
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Radio connects isolated villages to national discourse, reducing the psychological isolation of rural life; the shared listening experience creates a sense of participation in national life previously unavailable to non-literate populations.
-
 __Leadership & Personal Authority:__ Extension agents and radio presenters become trusted voices; the "radio farmer" archetype—the progressive adopter featured in success stories—models aspirational behavior while reinforcing state development ideology.
 
 __Legitimacy as Lived Allegiance:__ State radio reinforces government legitimacy through development messaging; the implicit bargain—the state provides information and services, the farmer produces—frames rural citizenship in developmental terms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Community radio enables collective acti
 
 __External Relations & Posture:__ International development agencies—FAO, USAID, UNESCO—fund rural radio programming, shaping content priorities toward donor concerns (population, environment, HIV/AIDS) while providing technical capacity and equipment.
 
+__Public Sentiment & Behavioral Temper:__ Radio connects isolated villages to national discourse, reducing the psychological isolation of rural life; the shared listening experience creates a sense of participation in national life previously unavailable to non-literate populations.
+
 __Disaffection, Apathy & Spent Will:__ Decades of development messaging without corresponding material improvement breed skepticism; by the 2000s, rural audiences are more discerning consumers of radio content, and community radio's participatory model responds to state broadcasting's credibility deficit.
+
 
 ## D06. Informational Domain
 

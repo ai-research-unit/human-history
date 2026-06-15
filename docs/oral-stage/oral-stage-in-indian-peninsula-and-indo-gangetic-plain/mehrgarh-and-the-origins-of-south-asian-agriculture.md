@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes over land, livestock, or marriage were
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Village intimacy sustained high interpersonal trust within kin clusters; sentiment attached to the land, the ancestors buried beneath house floors, and the seasonal rhythms that oral tradition narrated; anxiety centered on harvest failure, disease, and loss of elders who held critical knowledge.
-
 __Leadership & Personal Authority:__ Leaders — whether headmen, senior patriarchs, or ritual specialists — held authority through oral persuasion, demonstrated competence, and accumulated reputation; authority was performed in council and feast, not inherited as office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attached to household, lineage, and village — concentric circles of oral obligation; legitimacy required no abstract theory — presence, generosity, and speech sufficed to bind followers to leaders.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action — digging irrigatio
 
 __External Relations & Posture:__ Relations with neighboring villages and mobile pastoralists ranged from trade and intermarriage to competition and raiding; posture was communicated through messengers, gift exchange, and the presence of kin ties — oral diplomacy conducted face to face.
 
+__Public Sentiment & Behavioral Temper:__ Village intimacy sustained high interpersonal trust within kin clusters; sentiment attached to the land, the ancestors buried beneath house floors, and the seasonal rhythms that oral tradition narrated; anxiety centered on harvest failure, disease, and loss of elders who held critical knowledge.
+
 __Disaffection, Apathy & Spent Will:__ Failure of leadership or harvest crisis could fracture consensus; disaffection was discharged through household departure or leadership challenge; apathy was rare in a small community where participation was survival.
+
 
 ## D06. Informational Domain
 

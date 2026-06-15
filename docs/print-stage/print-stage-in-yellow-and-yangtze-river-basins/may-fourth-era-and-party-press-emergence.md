@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warlord warfare produces civilian casualties, b
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ May Fourth ignites patriotic humiliation and anti-imperialist anger following the Versailles decision to award Shandong to Japan. Youth sentiment is volatile — oscillating between hope for national renewal and despair at warlord chaos. Trust in central government collapses; trust within ideological communities deepens.
-
 __Leadership & Personal Authority:__ Chen Duxiu commands New Youth's intellectual authority; Hu Shih leads the vernacular movement. Sun Yat-sen retains symbolic leadership for revolutionaries; after his death (1925), Chiang Kai-shek and Wang Jingwei contest succession. Mao Zedong, Zhou Enlai, and Li Dazhao lead CCP factions.
 
 __Legitimacy as Lived Allegiance:__ The Beiyang government commands no affective loyalty; its legitimacy is exhausted. The GMD inherits Sun's revolutionary mantle; the CCP claims to represent workers and peasants. Party affiliation replaces state allegiance as the locus of commitment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will concentrates in the 
 
 __External Relations & Posture:__ Anti-imperialism targets Japan and Western powers; the May Thirtieth Incident (1925) focuses hostility on Britain. The Soviet Union provides organizational models and funds, shaping both GMD and CCP.
 
+__Public Sentiment & Behavioral Temper:__ May Fourth ignites patriotic humiliation and anti-imperialist anger following the Versailles decision to award Shandong to Japan. Youth sentiment is volatile — oscillating between hope for national renewal and despair at warlord chaos. Trust in central government collapses; trust within ideological communities deepens.
+
 __Disaffection, Apathy & Spent Will:__ By 1927, revolutionary optimism collides with the Shanghai Massacre; CCP cadres face death or disillusionment. Some intellectuals retreat from politics; others harden into committed partisans.
+
 
 ## D06. Informational Domain
 

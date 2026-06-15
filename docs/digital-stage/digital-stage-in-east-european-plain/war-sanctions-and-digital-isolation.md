@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Russian society experiences suppressed dissent 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Russian public sentiment difficult to measure under repression; apparent majority support for war or resigned acceptance; Ukrainian national unity and morale remain high despite casualties; international sympathy flows to Ukraine.
-
 __Leadership & Personal Authority:__ Putin's authority maintained through repression and rally-around-flag dynamics; Zelensky transforms from comedian-president to wartime leader with international recognition; both leaders' fates tied to war outcome.
 
 __Legitimacy as Lived Allegiance:__ Russian state legitimacy among opposition destroyed; conformist majority accepts or supports state narrative; Ukrainian state legitimacy strengthened through defense; international legitimacy flows to Kyiv.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Russian will to sustain prolonged war t
 
 __External Relations & Posture:__ Russia isolated from Western powers, pivots toward China, Iran, North Korea; Ukraine deepens Western integration with EU candidate status; neutral states face pressure to choose sides.
 
+__Public Sentiment & Behavioral Temper:__ Russian public sentiment difficult to measure under repression; apparent majority support for war or resigned acceptance; Ukrainian national unity and morale remain high despite casualties; international sympathy flows to Ukraine.
+
 __Disaffection, Apathy & Spent Will:__ Russian opposition either emigrated, imprisoned, or silenced; Navalny's death in February 2024 removes remaining symbolic opposition figure; Ukrainian war fatigue emerges by 2025 but does not overcome defense imperative.
+
 
 ## D06. Informational Domain
 

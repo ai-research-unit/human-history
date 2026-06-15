@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Slave raiding, banditry, and inter-khanate warf
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Conservatism and fatalism characterize public sentiment. Trust operates within kin and community networks but not beyond. Suspicion toward outsiders and other groups is pronounced. The mood is neither confident nor despairing but settled in traditional expectations.
-
 __Leadership & Personal Authority:__ Khans rule through personal authority, military strength, and religious legitimation. Effective leadership depends on the individual khan's capacity to manage factions and command loyalty. Weak khans face challenges from rivals and notables. Charismatic religious figures, particularly Sufi shaykhs, command alternative sources of allegiance.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on Islamic sanction, dynastic continuity, and demonstrated capacity to protect and provide. The khans claim descent from Genghis Khan (through Chagatai) or from prophetic lineage. Allegiance is conditional on performance; failure invites challenge. The reservoir of consent is shallow, requiring constant maintenance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will is fragmented among comp
 
 __External Relations & Posture:__ The khanates maintain cautious relations with Russia, Persia, Afghanistan, and China, balancing among external powers. Expansion is limited by military weakness. Defensive posture predominates. Diplomatic relations involve embassies, treaties, and tribute relations. The growing disparity with Russian power is increasingly evident but not yet decisive.
 
+__Public Sentiment & Behavioral Temper:__ Conservatism and fatalism characterize public sentiment. Trust operates within kin and community networks but not beyond. Suspicion toward outsiders and other groups is pronounced. The mood is neither confident nor despairing but settled in traditional expectations.
+
 __Disaffection, Apathy & Spent Will:__ Apathy and resignation pervade populations accustomed to chronic insecurity and limited prospects. Disaffection exists among slaves, subject minorities, and those excluded from power. Exhaustion from repeated warfare and disruption saps collective energy. The drive for transformation is absent.
+
 
 ## D06. Informational Domain
 

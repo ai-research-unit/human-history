@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Satrapal revolts (Egypt, Ionia) punctuate the p
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Subject populations appear resigned to imperial rule where it is light, resistant where it is heavy; Persian core populations exhibit pride in imperial achievement; the mood is one of stable hierarchy rather than fervent loyalty or active resistance; trust extends through kin and patron-client networks rather than abstract citizenship.
-
 __Leadership & Personal Authority:__ The King of Kings holds charismatic and institutional authority, legitimated by divine favor (the farr) and victory; Cyrus the Great's founder-charisma persists as legitimating precedent; individual monarchs vary in personal effectiveness, with Darius I representing administrative competence and later kings declining in reputation.
 
 __Legitimacy as Lived Allegiance:__ Loyalty flows through personal ties to the crown and self-interest in imperial order; the ideology of benevolent kingship (Cyrus Cylinder rhetoric) provides legitimating narrative; subject peoples accept rule where it is tolerant, resist where it is extractive; legitimacy is conditional and instrumental rather than deeply internalized.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Persian elite maintains coherent wi
 
 __External Relations & Posture:__ The empire's stance is one of universal dominion; the western frontier with Greece remains contested; Egypt repeatedly revolts; Central Asian nomads require constant attention; the posture is defensive of existing holdings rather than expansionist after Xerxes' Greek failure.
 
+__Public Sentiment & Behavioral Temper:__ Subject populations appear resigned to imperial rule where it is light, resistant where it is heavy; Persian core populations exhibit pride in imperial achievement; the mood is one of stable hierarchy rather than fervent loyalty or active resistance; trust extends through kin and patron-client networks rather than abstract citizenship.
+
 __Disaffection, Apathy & Spent Will:__ By the late Achaemenid period, elite disaffection manifests in satrapal revolts and succession intrigues; the King's Peace with Greece suggests reduced will for western expansion; the rapid collapse before Alexander indicates exhausted collective resolve at the center.
+
 
 ## D06. Informational Domain
 

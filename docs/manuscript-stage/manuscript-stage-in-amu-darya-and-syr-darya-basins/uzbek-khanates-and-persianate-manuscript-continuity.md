@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes, tribal rivalries, and Safa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment fluctuates with security and prosperity. Under stable rule, public confidence is adequate; succession crises and external threats darken mood. Trust networks remain localized within tribal, religious, or neighborhood bounds.
-
 __Leadership & Personal Authority:__ Khans derive authority from tribal leadership, military prowess, and Islamic legitimacy. Strong rulers (Abdullah Khan II, r. 1583–1598) concentrate power; weak successors fragment it. Personal charisma matters but cannot substitute for tribal and military backing.
 
 __Legitimacy as Lived Allegiance:__ Uzbek khans claim Chinggisid descent through female lines and Islamic credentials. Patronage of madrasas and scholars reinforces legitimacy among the learned; tribal loyalty binds warriors. Popular allegiance varies with taxation and security.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will concentrates in the khan and his t
 
 __External Relations & Posture:__ Uzbek khanates contest the Safavids for Khurasan; neither achieves lasting dominance. Relations with Mughals are diplomatic and commercial. Russia remains distant until the eighteenth century. Posture is defensive and regional; no expansive ambition succeeds.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment fluctuates with security and prosperity. Under stable rule, public confidence is adequate; succession crises and external threats darken mood. Trust networks remain localized within tribal, religious, or neighborhood bounds.
+
 __Disaffection, Apathy & Spent Will:__ Chronic fragmentation and inconclusive wars erode elite cohesion. By 1700, the khanates are politically diminished, though culturally persistent. Apathy accumulates as external relevance fades.
+
 
 ## D06. Informational Domain
 

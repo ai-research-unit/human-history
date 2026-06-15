@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through death rather
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment in the final phase is unknowable but presumably grim; chronic stress, grief, and desperation likely characterize the last survivors; trust within the remnant band may intensify as external threats become irrelevant.
-
 __Leadership & Personal Authority:__ Leadership becomes meaningless when there is nothing to lead toward; authority cannot command success against systemic failure; the most capable individuals die alongside the least.
 
 __Legitimacy as Lived Allegiance:__ Allegiance persists to the band and its members, but the band itself is dying; legitimacy is not questioned because no alternative exists; the order does not fall from rebellion but from entropy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will cannot overcome materia
 
 __External Relations & Posture:__ External relations cease when there are no external groups to relate to; the isolation that protected the population from competition now dooms it by preventing rescue; no outside force intervenes because no outside force knows or cares.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment in the final phase is unknowable but presumably grim; chronic stress, grief, and desperation likely characterize the last survivors; trust within the remnant band may intensify as external threats become irrelevant.
+
 __Disaffection, Apathy & Spent Will:__ Will is spent through failure rather than disaffection; apathy may settle on the final survivors as hope extinguishes; the end comes not with anger but with exhaustion.
+
 
 ## D06. Informational Domain
 

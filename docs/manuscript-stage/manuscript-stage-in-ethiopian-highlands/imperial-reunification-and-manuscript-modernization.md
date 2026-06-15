@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The reunification suppressed the endemic warfar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The reunification and the victory at Adwa generated a surge of national pride and confidence; the catastrophe of the 1888–1892 famine was overcome; popular sentiment supported strong emperors who could maintain order and defend against external threats; the mood was one of renewal and expansion.
-
 __Leadership & Personal Authority:__ Three exceptional emperors — Tewodros II (r. 1855–1868), Yohannes IV (r. 1872–1889), and Menelik II (r. 1889–1913) — provided the personal leadership that drove reunification; each commanded intense personal loyalty; Tewodros's suicide at Magdala, Yohannes's death in battle at Metemma, and Menelik's debilitating illness after 1906 marked the costs of imperial leadership.
 
 __Legitimacy as Lived Allegiance:__ The Solomonic claim was restored to effective sovereignty; the Church endorsed the reunifying emperors; the victory at Adwa validated Ethiopian independence and the legitimacy of the restored imperial order; allegiance to the emperor became the organizing principle of the expanded polity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The emperors demonstrated the will to o
 
 __External Relations & Posture:__ Ethiopia engaged European powers as diplomatic equals, securing recognition and treaties; the defeat of Italy at Adwa (1896) established Ethiopia as the only African state to successfully resist European colonialism; Menelik balanced the competing interests of Britain, France, and Italy to preserve Ethiopian independence and expand its territory.
 
+__Public Sentiment & Behavioral Temper:__ The reunification and the victory at Adwa generated a surge of national pride and confidence; the catastrophe of the 1888–1892 famine was overcome; popular sentiment supported strong emperors who could maintain order and defend against external threats; the mood was one of renewal and expansion.
+
 __Disaffection, Apathy & Spent Will:__ The centralization of authority generated resentment among subordinated regional lords; incorporated southern populations harbored grievances; Menelik's incapacity after 1906 created a succession crisis that generated factional competition; the residue of these tensions would shape subsequent Ethiopian history.
+
 
 ## D06. Informational Domain
 

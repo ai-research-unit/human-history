@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through feud, com
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is defensive, inward-looking, and cautious. Trust extends to kin and sworn guest-friends; strangers are suspect until ritually incorporated. Risk aversion dominates; ambition is modest. The heroic ethos of oral tradition contrasts with the prudent conservatism of daily life.
-
 __Leadership & Personal Authority:__ The basileus leads by personal example — first in battle, generous at feast, just in judgment. His authority is not inherited automatically; a son must prove himself. Charisma and reputation, built through visible deeds and commemorated in song, are the currency of leadership.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is personal and reciprocal: the basileus protects and provides; followers offer loyalty and service. No abstract principle justifies rule; performance does. Allegiance can shift if the chief fails. The reservoir of legitimacy is shallow but renewable.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action extends to the warban
 
 __External Relations & Posture:__ Relations with other communities are governed by guest-friendship (xenia) between elites and by raiding between strangers. Lefkandi's eastern contacts suggest diplomatic gift-exchange with Cypriot and Levantine counterparts, reviving the palatial pattern at reduced scale. No hegemon claims Aegean dominance; all communities are roughly equal in weakness.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is defensive, inward-looking, and cautious. Trust extends to kin and sworn guest-friends; strangers are suspect until ritually incorporated. Risk aversion dominates; ambition is modest. The heroic ethos of oral tradition contrasts with the prudent conservatism of daily life.
+
 __Disaffection, Apathy & Spent Will:__ The exhaustion of the collapse has settled into equilibrium. Disaffection is low because expectations are low; there is no regime to resent, no ideology to fail. Apathy is functional — it prevents overreach. The emotional residue is not despair but stoic endurance, mythologized in epic as the heroic acceptance of fate.
+
 
 ## D06. Informational Domain
 

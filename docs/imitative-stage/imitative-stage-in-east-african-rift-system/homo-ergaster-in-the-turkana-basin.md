@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict discharges through avoidance, submissi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is immediate: fear, excitement, aggression, affection displayed in posture and vocalization. Trust extends to band members, especially kin; strangers are met with caution. The baseline temper is vigilant and socially attuned. The expanded neocortex may support more nuanced social cognition — tracking relationships, anticipating others' responses — but expression remains pre-linguistic.
-
 __Leadership & Personal Authority:__ Authority is personal and situational. A skilled hunter leads the approach; a strong individual defends against threat. Charisma is proto-emotional — the capacity to rally and coordinate — but does not crystallize into lasting office. Leadership is earned through competence and generosity.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, not to any abstract order. Legitimacy is practical, based on demonstrated performance. Withdrawal of allegiance is expressed through reduced cooperation or departure. There is no ideology to justify rule.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for immedi
 
 __External Relations & Posture:__ Relations with other bands are rare and cautious. Posture is defensive; expansion is opportunistic, following favorable habitat. The dispersal capacity evidenced by Dmanisi suggests capacity for long-distance movement, but this is colonization of empty or under-occupied terrain, not conquest.
 
+__Public Sentiment & Behavioral Temper:__ Affect is immediate: fear, excitement, aggression, affection displayed in posture and vocalization. Trust extends to band members, especially kin; strangers are met with caution. The baseline temper is vigilant and socially attuned. The expanded neocortex may support more nuanced social cognition — tracking relationships, anticipating others' responses — but expression remains pre-linguistic.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as withdrawal or departure. Spent will is individual — exhaustion, injury, despair — and results in reduced participation or death. No collective disaffection accumulates; the group is too small and fluid for estrangement to harden.
+
 
 ## D06. Informational Domain
 

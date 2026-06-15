@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence is attested by weapons and possible sa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is one of confident expansion; the scale of palatial construction and bronze production suggests elite élan; the radius of trust extends within the elite lineage and its retinue but not far beyond; commoners are subjects rather than citizens, their sentiment unrecorded.
-
 __Leadership & Personal Authority:__ Leadership is concentrated in the palace, exercised through command of ritual, bronze, and force; the ruler's personal authority is enacted orally through pronouncement and demonstrated materially through palatial display; charisma and lineage credential together underwrite command.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ancestral sanction, demonstrated by divination and ritual efficacy; the ruler's right to rule is performed through feasts, sacrifices, and the display of bronze vessels that only he can commission; allegiance is held through a mix of awe, obligation, and coercion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to build palaces, cast bronze,
 
 __External Relations & Posture:__ Erlitou dominates its immediate region but coexists with other centers; exchange networks imply cooperation alongside competition; no single rival is strong enough to challenge Erlitou during its peak; the posture is expansive but not yet imperial.
 
+__Public Sentiment & Behavioral Temper:__ The mood is one of confident expansion; the scale of palatial construction and bronze production suggests elite élan; the radius of trust extends within the elite lineage and its retinue but not far beyond; commoners are subjects rather than citizens, their sentiment unrecorded.
+
 __Disaffection, Apathy & Spent Will:__ The site's eventual abandonment and the rise of Erligang at Zhengzhou suggest a transfer of power, possibly through conquest or elite displacement; disaffection may have accumulated among subordinate populations or rival lineages, contributing to the transition; spent will is re-anchored at the successor center.
+
 
 ## D06. Informational Domain
 

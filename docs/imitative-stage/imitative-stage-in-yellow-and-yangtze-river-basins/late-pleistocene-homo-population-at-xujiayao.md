@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through band fission
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment fluctuates with subsistence success, interpersonal relations, and external threat. Trust is high within kin groups, attenuating toward strangers. Behavioral temper is alert and pragmatic; vigilance is continuous. The emotional baseline is cautious cooperation within familiar groups.
-
 __Leadership & Personal Authority:__ Leadership is personal and situational: a skilled hunter leads during the hunt, a knowledgeable elder guides migration. Authority derives from demonstrated competence and cannot be institutionalized or inherited. Influence is exercised through example rather than command.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is direct and personal — loyalty to band-mates and kin. No abstract legitimacy exists; belonging is enacted through presence, sharing, and mutual support. Defection or failure to reciprocate dissolves allegiance immediately.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coalesces around immedi
 
 __External Relations & Posture:__ Relations with other bands range from avoidance to cautious exchange to episodic conflict. Territorial boundaries are flexible; intrusion triggers confrontation if detected, but exclusive defense is impractical for mobile groups. No alliance structures persist beyond temporary cooperation.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment fluctuates with subsistence success, interpersonal relations, and external threat. Trust is high within kin groups, attenuating toward strangers. Behavioral temper is alert and pragmatic; vigilance is continuous. The emotional baseline is cautious cooperation within familiar groups.
+
 __Disaffection, Apathy & Spent Will:__ Spent will manifests as withdrawal, reduced participation, or departure. Disaffection feeds group fission rather than internal decay. The residue clears through mobility; nothing accumulates institutionally.
+
 
 ## D06. Informational Domain
 

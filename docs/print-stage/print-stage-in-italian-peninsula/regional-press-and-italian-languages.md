@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Regional resentment of "foreign" Italian imposi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Regional identity remained emotionally primary for most Italians; campanilismo (local patriotism) competed with national sentiment; dialect carried affective warmth, Italian formal distance; the emotional register of home was dialect, of state was Italian.
-
 __Leadership & Personal Authority:__ Regional leaders (Garibaldi from Nice, Mazzini from Genoa, Cavour from Turin) embodied provincial origins within national projects; local notables derived authority from regional standing; dialect oratory retained power in local contexts.
 
 __Legitimacy as Lived Allegiance:__ The Italian state demanded allegiance through national symbols, anthem, and language; actual allegiance remained split — regional first, national second for most; the Risorgimento myth (national liberation) competed with regional memories and loyalties.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National will was articulated in Italia
 
 __External Relations & Posture:__ Italy presented unified linguistic face internationally; internally, regional fragmentation was administrative headache and nationalist embarrassment; "making Italians" (Massimo d'Azeglio's famous dictum) was explicit state project.
 
+__Public Sentiment & Behavioral Temper:__ Regional identity remained emotionally primary for most Italians; campanilismo (local patriotism) competed with national sentiment; dialect carried affective warmth, Italian formal distance; the emotional register of home was dialect, of state was Italian.
+
 __Disaffection, Apathy & Spent Will:__ Southern alienation from northern-dominated state expressed itself in dialect solidarity and resistance to Italianization; emigration represented exit option for those unwilling or unable to assimilate; linguistic disaffection fed into broader political disaffection.
+
 
 ## D06. Informational Domain
 

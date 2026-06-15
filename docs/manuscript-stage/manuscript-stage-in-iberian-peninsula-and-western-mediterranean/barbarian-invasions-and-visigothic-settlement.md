@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Endemic low-level violence — brigandage, loca
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Uncertainty and insecurity color public sentiment. Trust contracts to kin and local patrons. The Hispano-Roman majority accommodates Visigothic rule pragmatically but without enthusiasm. Religious division generates latent tension. The overall temper is defensive and localized.
-
 __Leadership & Personal Authority:__ Visigothic kingship is elective and contested; royal authority depends on military success and magnate support. Individual kings rise and fall by assassination and coup. Episcopal leaders — figures like Leander of Seville — command moral authority that sometimes exceeds royal reach.
 
 __Legitimacy as Lived Allegiance:__ Visigothic kings claim Roman imperial legitimacy but hold it thinly. Arian religion separates them from the Catholic majority's allegiance. Legitimacy is negotiated rather than assumed; consent is conditional on protection and justice delivery. Erosion is chronic until conversion resolves the religious divide.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Visigothic elite displays collectiv
 
 __External Relations & Posture:__ The Visigothic kingdom faces Byzantine enclaves on the southern coast (Spania), Frankish pressure across the Pyrenees, and residual Suevi resistance in the northwest. Posture is defensive: holding territory rather than expanding. Diplomacy alternates with warfare; no hegemonic ambition animates external policy.
 
+__Public Sentiment & Behavioral Temper:__ Uncertainty and insecurity color public sentiment. Trust contracts to kin and local patrons. The Hispano-Roman majority accommodates Visigothic rule pragmatically but without enthusiasm. Religious division generates latent tension. The overall temper is defensive and localized.
+
 __Disaffection, Apathy & Spent Will:__ Chronic succession crises and religious division generate elite disaffection. The Hispano-Roman majority endures rather than supports the regime. Apathy settles where participation is neither invited nor rewarded. This disaffection feeds periodic rebellion and limits state capacity.
+
 
 ## D06. Informational Domain
 

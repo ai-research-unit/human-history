@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict was mediated through kinship, compensa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extended within kinship and village networks; suspicion of strangers coexisted with hospitality norms; public mood tracked harvests and herd health — confidence in abundance, anxiety in drought; competition for cattle and status generated chronic low-level tension.
-
 __Leadership & Personal Authority:__ Chiefs led through personal authority, oratorical skill, generosity, and success in war and rainmaking; praise poetry (izibongo) celebrated and amplified leadership; authority was personal, legitimated by genealogy and performance, not by office alone.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was owed to chief and lineage, validated by oral genealogy and ancestral sanction; legitimacy rested on success — good harvests, healthy herds, victory in conflict; failed chiefs lost followers to migration or usurpation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was summoned for defe
 
 __External Relations & Posture:__ Relations with neighboring chiefdoms ranged from alliance and intermarriage to raiding and warfare; relations with Khoe-San ranged from absorption and clientage to displacement and conflict; no permanent interstate system existed; posture was opportunistic and local.
 
+__Public Sentiment & Behavioral Temper:__ Trust extended within kinship and village networks; suspicion of strangers coexisted with hospitality norms; public mood tracked harvests and herd health — confidence in abundance, anxiety in drought; competition for cattle and status generated chronic low-level tension.
+
 __Disaffection, Apathy & Spent Will:__ Failure of leadership, drought, or defeat could produce disaffection, expressed through migration, fission, or support for rival claimants; spent will was discharged through movement rather than institutional collapse — no standing residue accrued.
+
 
 ## D06. Informational Domain
 

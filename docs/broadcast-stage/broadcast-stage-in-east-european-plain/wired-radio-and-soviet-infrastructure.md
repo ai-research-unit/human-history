@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ System neglect accelerated after 1991; wired ra
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Wired radio was both comforting and intrusive. The familiar voices, the regular schedule, the background presence created a sonic environment that shaped Soviet emotional life. Nostalgia for this soundscape persists among those who grew up within it.
-
 __Leadership & Personal Authority:__ Stalin's voice reached every speaker during his rare broadcasts; the intimacy of voice in domestic space created a parasocial relationship between leader and citizen. Announcers like Yuri Levitan achieved authority through vocal presence alone.
 
 __Legitimacy as Lived Allegiance:__ The wired speaker embodied state presence in the home. Acceptance of this presence signaled consent, or at least acquiescence. Efforts to muffle or disconnect speakers represented micro-resistance that accumulated into legitimacy erosion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Wartime broadcasts through wired radio 
 
 __External Relations & Posture:__ Wired radio was explicitly closed to foreign signals; the absence of tuning dial prevented reception of BBC or Voice of America. This isolation was the system's purpose - not a bug but a feature designed to maintain information sovereignty.
 
+__Public Sentiment & Behavioral Temper:__ Wired radio was both comforting and intrusive. The familiar voices, the regular schedule, the background presence created a sonic environment that shaped Soviet emotional life. Nostalgia for this soundscape persists among those who grew up within it.
+
 __Disaffection, Apathy & Spent Will:__ By the 1980s, wired radio had become background noise most citizens ignored. The system continued broadcasting to an audience that had learned not to listen, achieving reach without influence. This exhaustion of attention prefigured glasnost: when something worth hearing finally broadcast, audiences remembered how to listen.
+
 
 ## D06. Informational Domain
 

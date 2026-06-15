@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Movements generate disorder states struggle to 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Youth frustration with police brutality, corruption, and economic stagnation finds expression through hashtags; sentiment oscillates between hope during mobilization peaks and despair after crackdowns.
-
 __Leadership & Personal Authority:__ #EndSARS explicitly rejects formal leadership, distributing coordination across anonymous accounts and group chats; Senegal's opposition coalesces around Ousmane Sonko, whose social media presence converts online following into street mobilization.
 
 __Legitimacy as Lived Allegiance:__ Mobilization erodes state legitimacy among participating youth; the Twitter ban and crackdowns deepen alienation rather than restoring consent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Movements demonstrate capacity for rapi
 
 __External Relations & Posture:__ Diaspora amplification — Nigerian and Senegalese communities in the UK, US, France — internationalizes movements, generating diplomatic pressure and global media attention that constrains state responses.
 
+__Public Sentiment & Behavioral Temper:__ Youth frustration with police brutality, corruption, and economic stagnation finds expression through hashtags; sentiment oscillates between hope during mobilization peaks and despair after crackdowns.
+
 __Disaffection, Apathy & Spent Will:__ Post-crackdown exhaustion and disillusionment settle across mobilized cohorts; the 2023 Nigerian election's contested outcome and Tinubu's inauguration leave Obidient supporters demoralized, their digital energy unmatched by electoral results.
+
 
 ## D06. Informational Domain
 

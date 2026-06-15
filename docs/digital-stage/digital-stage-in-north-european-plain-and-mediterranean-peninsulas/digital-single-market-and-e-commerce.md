@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The social residue accumulates as high street d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Consumer expectations shift toward instant gratification; same-day and next-day delivery become baseline assumptions in major markets, with frustration at delays or friction that would have been unremarkable a decade earlier.
-
 __Leadership & Personal Authority:__ Platform founders and executives exercise market-shaping authority; Jeff Bezos's vision shapes European commerce despite Amazon's American origin, while European entrepreneurs in fashion (Zalando), food delivery (Delivery Hero, Just Eat Takeaway), and fintech (Klarna) exercise regional influence.
 
 __Legitimacy as Lived Allegiance:__ Trust in platforms varies by category; payment systems require high trust that incumbents maintain, while marketplace seller authenticity concerns undermine trust in third-party e-commerce, with counterfeit goods and fraudulent sellers eroding confidence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Commission demonstrates sustained w
 
 __External Relations & Posture:__ European e-commerce policy positions the region as a consumer protection and competition enforcement leader; the "Brussels Effect" extends European standards to global platforms, though dependence on American platforms and Chinese manufacturing creates structural vulnerabilities.
 
+__Public Sentiment & Behavioral Temper:__ Consumer expectations shift toward instant gratification; same-day and next-day delivery become baseline assumptions in major markets, with frustration at delays or friction that would have been unremarkable a decade earlier.
+
 __Disaffection, Apathy & Spent Will:__ The emotional residue accumulates as platform fatigue and algorithmic manipulation resentment; consumer awareness of data harvesting and manipulative design creates defensive behaviors and regulatory demand, while seller frustration with platform power imbalances feeds support for competition intervention.
+
 
 ## D06. Informational Domain
 

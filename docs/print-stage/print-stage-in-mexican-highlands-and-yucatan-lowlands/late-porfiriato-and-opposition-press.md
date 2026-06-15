@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor unrest signals accumulated grievance brea
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 1910 Centennial generates surface celebration—parades, monuments, international recognition—while underlying tensions mount. Middle-class frustration with blocked advancement intensifies after the Creelman interview raises then disappoints expectations. Rural resentment of dispossession simmers. Urban workers remember Rio Blanco's dead. The public temper beneath official celebration grows volatile.
-
 __Leadership & Personal Authority:__ Porfirio Diaz at eighty retains the trappings of authority but visibly weakens. The succession question—deliberately unanswered—creates anxiety. No cientifico possesses comparable legitimacy. Francisco Madero emerges from 1908 as opposition leader—his book "La Sucesion Presidencial en 1910" articulates anti-reelectionist sentiment. The Flores Magon brothers, exiled in the United States, represent more radical alternatives.
 
 __Legitimacy as Lived Allegiance:__ The regime's performance legitimacy—order, railways, modernization—holds among beneficiaries but means nothing to the dispossessed. The fixed elections of 1910 demonstrate contempt for consent; Madero's imprisonment during the election completes the delegitimation for those seeking change through constitutional means.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime demonstrates will through co
 
 __External Relations & Posture:__ The regime maintains careful relations with the United States and European powers. US investment dominance creates asymmetric dependence. The Centennial displays Mexico as a modern nation deserving international respect. The border with the United States provides refuge for exiled opposition and smuggling routes for revolutionary print and eventually arms.
 
+__Public Sentiment & Behavioral Temper:__ The 1910 Centennial generates surface celebration—parades, monuments, international recognition—while underlying tensions mount. Middle-class frustration with blocked advancement intensifies after the Creelman interview raises then disappoints expectations. Rural resentment of dispossession simmers. Urban workers remember Rio Blanco's dead. The public temper beneath official celebration grows volatile.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection deepens across classes excluded from Porfirian benefits. The middle class sees blocked advancement; workers remember repression; peasants face landlessness. The opposition will that emerges transforms this disaffection into action. By late 1910, the emotional foundation of the regime has hollowed while revolutionary will consolidates.
+
 
 ## D06. Informational Domain
 

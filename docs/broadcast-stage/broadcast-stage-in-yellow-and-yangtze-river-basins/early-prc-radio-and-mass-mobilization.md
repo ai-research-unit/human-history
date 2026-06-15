@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Land reform violence (2–3 million killed); An
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Revolutionary enthusiasm manufactured through campaigns; fear pervasive given arbitrary classification and campaign targeting; post-famine mood sours toward party but expression suppressed; wired broadcasting permits no feedback.
-
 __Leadership & Personal Authority:__ Mao Zedong's cult develops through the period; his voice on radio carries absolute authority; Liu Shaoqi and Zhou Enlai as subordinate figures; collective leadership fiction maintained while Mao's word determines policy.
 
 __Legitimacy as Lived Allegiance:__ Land reform initially generates peasant support; Great Leap Forward famine erodes rural allegiance though this cannot be expressed; urban workers retain some genuine commitment; legitimacy sustained through information monopoly.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Continuous mobilization as governance m
 
 __External Relations & Posture:__ Korean War establishes military credibility; Sino-Soviet alliance (1950–1960) provides development model; split with USSR (1960) isolates China; radio carries anti-imperialist messaging and, after split, anti-revisionist content.
 
+__Public Sentiment & Behavioral Temper:__ Revolutionary enthusiasm manufactured through campaigns; fear pervasive given arbitrary classification and campaign targeting; post-famine mood sours toward party but expression suppressed; wired broadcasting permits no feedback.
+
 __Disaffection, Apathy & Spent Will:__ Post-famine demoralization suppressed but real; rural cadres lose faith after watching villagers starve; urban youth retain enthusiasm as future Red Guards; disaffection cannot be voiced and accumulates silently.
+
 
 ## D06. Informational Domain
 

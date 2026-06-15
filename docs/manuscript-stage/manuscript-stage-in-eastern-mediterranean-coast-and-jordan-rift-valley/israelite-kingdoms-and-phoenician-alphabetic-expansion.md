@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynastic instability plagued the northern kingd
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Prosperity in the early 8th century BCE bred confidence among elites; prophetic texts depict complacency and indifference to looming threats. Popular religion sought assurance through cult and sacrifice. Assyrian aggression introduced fear; the fall of Samaria (722 BCE) traumatized survivors.
-
 __Leadership & Personal Authority:__ Kings embodied divine election and commanded allegiance. Charismatic prophets (Elijah, Elisha, Amos, Isaiah) wielded moral authority that could challenge royal power. Military commanders and court officials exercised derivative authority. Personal rule predominated over bureaucratic routinization.
 
 __Legitimacy as Lived Allegiance:__ Davidic legitimacy claimed divine promise (Nathan's oracle, 2 Samuel 7). Northern dynasties lacked such theological grounding, contributing to their instability. Temple cult and royal ideology reinforced legitimacy; prophetic critique undermined it by exposing the gap between divine requirements and royal conduct.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ United action proved difficult. Israel 
 
 __External Relations & Posture:__ Phoenicia maintained commercial relations while avoiding military entanglement. Israel and Judah oscillated between alliance with Aram-Damascus, Egypt, and Assyria. Assyrian expansion, beginning with Ashurnasirpal II (883–859 BCE) and intensifying under Tiglath-Pileser III (745–727 BCE), transformed regional relations from autonomous maneuvering to tributary subordination. Israel's destruction (722 BCE) ended its independence; Judah survived as an Assyrian vassal.
 
+__Public Sentiment & Behavioral Temper:__ Prosperity in the early 8th century BCE bred confidence among elites; prophetic texts depict complacency and indifference to looming threats. Popular religion sought assurance through cult and sacrifice. Assyrian aggression introduced fear; the fall of Samaria (722 BCE) traumatized survivors.
+
 __Disaffection, Apathy & Spent Will:__ Prophetic texts register disaffection: Amos's condemnation of exploitative elites, Hosea's depiction of spiritual adultery, Isaiah's critique of empty ritual. Popular will fragmented between competing religious loyalties (Yahweh, Baal, Asherah) and political factions (pro-Egyptian, pro-Assyrian). The northern kingdom collapsed amid internal divisions as much as external pressure.
+
 
 ## D06. Informational Domain
 

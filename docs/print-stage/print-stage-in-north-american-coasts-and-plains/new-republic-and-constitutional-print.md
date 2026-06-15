@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence is limited but real — part
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period begins in postwar optimism (1783) and moves through constitutional debate to partisan fury by the late 1790s. French Revolution enthusiasm (1789–1793) gives way to division as the Revolution radicalizes. Federalists fear Jacobin contagion; Republicans fear monarchical restoration. Public temper is febrile, intensified by print warfare.
-
 __Leadership & Personal Authority:__ Washington's personal authority is unmatched; his retirement (1796) removes the unifying figure. Hamilton dominates Federalist policy; Jefferson and Madison lead Republican opposition. Adams (president 1797–1801) lacks Washington's prestige and struggles to control his own party.
 
 __Legitimacy as Lived Allegiance:__ Constitutional legitimacy is established through ratification and the peaceful transfer of power. But partisan conflict threatens consensus — Republicans see Federalists as crypto-monarchists; Federalists see Republicans as Jacobin subversives.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to establish a functioning rep
 
 __External Relations & Posture:__ Neutrality in European wars is official policy but contested. Jay's Treaty (1795) aligns with Britain; Republicans prefer France. The Quasi-War with France creates crisis. The republic is weak, dependent on European forbearance.
 
+__Public Sentiment & Behavioral Temper:__ The period begins in postwar optimism (1783) and moves through constitutional debate to partisan fury by the late 1790s. French Revolution enthusiasm (1789–1793) gives way to division as the Revolution radicalizes. Federalists fear Jacobin contagion; Republicans fear monarchical restoration. Public temper is febrile, intensified by print warfare.
+
 __Disaffection, Apathy & Spent Will:__ Partisan exhaustion builds. The 1800 election is bitter; the outcome disputed. Yet the system survives — Jefferson's inauguration marks peaceful transfer.
+
 
 ## D06. Informational Domain
 

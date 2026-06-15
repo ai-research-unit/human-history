@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The quiz show scandals of 1958-1959 expose mani
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Postwar optimism and Cold War anxiety coexist; television provides both reassurance through domestic sitcoms and anxiety through news coverage of Soviet advances, creating a complex affective landscape of abundance and fear.
-
 __Leadership & Personal Authority:__ Television creates a new form of mediated personal authority; figures like Edward R. Murrow, Walter Cronkite, and Dwight D. Eisenhower project leadership through the screen, and the 1952 campaigns demonstrate television's electoral power.
 
 __Legitimacy as Lived Allegiance:__ Television reinforces Cold War consensus and American institutional legitimacy; programming celebrates democratic capitalism and consumer abundance while marginalizing dissent; the Murrow-McCarthy confrontation (1954) demonstrates television's capacity to delegitimize figures who violate consensual norms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The national security state commands br
 
 __External Relations & Posture:__ Television becomes an instrument of cultural diplomacy and domestic consensus-building around Cold War posture; coverage of Korean War, Sputnik (1957), and the arms race shapes public perception of Soviet threat.
 
+__Public Sentiment & Behavioral Temper:__ Postwar optimism and Cold War anxiety coexist; television provides both reassurance through domestic sitcoms and anxiety through news coverage of Soviet advances, creating a complex affective landscape of abundance and fear.
+
 __Disaffection, Apathy & Spent Will:__ Critics begin identifying television-induced passivity and the replacement of active citizenship with spectatorship; Newton Minow's "vast wasteland" critique (1961) crystallizes elite concerns about cultural degradation, though mass audiences remain enthusiastic.
+
 
 ## D06. Informational Domain
 

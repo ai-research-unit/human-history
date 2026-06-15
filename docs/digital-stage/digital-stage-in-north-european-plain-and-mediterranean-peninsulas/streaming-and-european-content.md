@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Traditional broadcast institutions decline in r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Streaming delivers on-demand convenience that audiences rapidly internalize as expectation, with tolerance for advertising, scheduling, and appointment viewing declining; paradox of choice generates anxiety alongside satisfaction.
-
 __Leadership & Personal Authority:__ Platform executives (Reed Hastings at Netflix, Jeff Bezos at Amazon) exercise outsized influence over European cultural consumption through commissioning and algorithm decisions made in California.
 
 __Legitimacy as Lived Allegiance:__ Public broadcaster legitimacy erodes as license-fee-funded institutions compete for attention against subscription services with larger content budgets; debates over BBC funding (UK), ARD/ZDF fees (Germany) intensify.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ European cultural sovereignty rhetoric 
 
 __External Relations & Posture:__ Transatlantic cultural trade imbalance widens, with US content dominating European screens while European exports remain niche except for specific hits; UK post-Brexit pursues independent content policy with limited differentiation.
 
+__Public Sentiment & Behavioral Temper:__ Streaming delivers on-demand convenience that audiences rapidly internalize as expectation, with tolerance for advertising, scheduling, and appointment viewing declining; paradox of choice generates anxiety alongside satisfaction.
+
 __Disaffection, Apathy & Spent Will:__ Audience fragmentation reduces shared cultural experience, with generational divides between linear and streaming consumption creating separate media worlds; nostalgia for broadcast-era communality persists alongside appreciation for choice.
+
 
 ## D06. Informational Domain
 

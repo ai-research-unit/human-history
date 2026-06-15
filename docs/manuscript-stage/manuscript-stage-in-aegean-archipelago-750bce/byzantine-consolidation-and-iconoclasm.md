@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Iconoclasm generates internal faction (726–84
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Defensive anxiety dominates after territorial losses; religious controversy (Iconoclasm) polarizes the population; icons inspire intense devotion among monastics and common people; the restoration of icons (843 CE) brings relief and celebration; trust in imperial protection shaken but not broken.
-
 __Leadership & Personal Authority:__ Emperors claim divine sanction; Leo III (717–741 CE) earns legitimacy through military success against Arabs; Constantine V (741–775 CE) polarizes through aggressive Iconoclasm; Empress Irene (797–802 CE) restores icons and rules alone, unprecedented for a woman; charismatic authority derives from military victory and religious policy.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy rests on military defense of the Christian oikoumene; Iconoclasm strains allegiance among monastic and popular constituencies but the throne survives; the restoration of icons under Empress Theodora (843 CE) consolidates Orthodoxy as the imperial faith; legitimacy restored by century's end.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to resist Arab conquest holds 
 
 __External Relations & Posture:__ Defensive posture toward the Caliphate; the Arab sieges of Constantinople fail; relations with the papacy strain over Iconoclasm; Bulgaria oscillates between war and diplomacy; the empire cultivates alliances through marriage, diplomacy, and missionary activity (conversion of Slavs); leverage limited by military contraction.
 
+__Public Sentiment & Behavioral Temper:__ Defensive anxiety dominates after territorial losses; religious controversy (Iconoclasm) polarizes the population; icons inspire intense devotion among monastics and common people; the restoration of icons (843 CE) brings relief and celebration; trust in imperial protection shaken but not broken.
+
 __Disaffection, Apathy & Spent Will:__ Monastic opposition to Iconoclasm sustains dissent for over a century; martyrdoms and exiles create grievance; popular attachment to icons resists imperial policy; the controversy exhausts religious energies but the restoration (843 CE) resolves the issue; residual distrust of imperial religious interference.
+
 
 ## D06. Informational Domain
 

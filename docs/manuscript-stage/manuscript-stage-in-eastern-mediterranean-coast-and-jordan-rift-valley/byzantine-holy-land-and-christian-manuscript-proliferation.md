@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social order is generally maintained in the fif
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Christian piety and pilgrimage enthusiasm pervade the population; eschatological anxiety rises during the sixth-century crises; the Persian capture of Jerusalem and the True Cross traumatizes the faithful; Heraclius's recovery (628 CE) briefly restores confidence before the Arab conquest.
-
 __Leadership & Personal Authority:__ Emperors (Constantine, Justinian, Heraclius) shape the Holy Land through building and policy; the Patriarch of Jerusalem commands spiritual authority; abbots like Sabas (439–532 CE) wield personal sanctity; bishops and imperial officials govern through a combination of charisma and office.
 
 __Legitimacy as Lived Allegiance:__ Byzantine rule is accepted as the legitimate Christian order; the emperor is God's vicegerent; the patriarch and bishops mediate divine and imperial authority; allegiance is deep among Orthodox Christians, contested among Monophysites and other dissenters.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Imperial will drives construction, defe
 
 __External Relations & Posture:__ The province is a frontier zone facing Sassanid Persia and later Arab armies; Byzantine diplomacy seeks to manage this threat; pilgrimage links the region to the entire Christian world; the posture is defensive, protective of the holy sites.
 
+__Public Sentiment & Behavioral Temper:__ Christian piety and pilgrimage enthusiasm pervade the population; eschatological anxiety rises during the sixth-century crises; the Persian capture of Jerusalem and the True Cross traumatizes the faithful; Heraclius's recovery (628 CE) briefly restores confidence before the Arab conquest.
+
 __Disaffection, Apathy & Spent Will:__ Religious dissent (Monophysitism, Samaritan resistance) represents disaffection from Orthodox Byzantine order; the trauma of 614 CE leaves spiritual exhaustion; by 640 CE, the population's will to resist Arab conquest is limited, especially among non-Orthodox communities.
+
 
 ## D06. Informational Domain
 

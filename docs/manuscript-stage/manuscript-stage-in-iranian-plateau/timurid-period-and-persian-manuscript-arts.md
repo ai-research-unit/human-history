@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession wars punctuate each reign; provincia
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Court culture celebrates refinement, literary accomplishment, and martial valor; public sentiment follows dynastic fortunes—confidence during strong reigns, anxiety during succession crises; the radius of trust extends within patronage networks but not beyond.
-
 __Leadership & Personal Authority:__ Charismatic princes—Shahrukh, Baysunghur, Husayn Bayqara—command personal allegiance through patronage and cultural accomplishment; leadership authority is personal rather than institutional.
 
 __Legitimacy as Lived Allegiance:__ Timurid legitimacy rests on Timur's conquests, Chinggisid lineage through marriage, and Islamic piety; allegiance is transactional, contingent on continued patronage and success; it erodes visibly by 1500 CE.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Court factions maneuver for influence; 
 
 __External Relations & Posture:__ Timurid diplomacy exchanges embassies with Ming China, the Ottomans, and Mamluk Egypt; rivalry with the Uzbeks intensifies after 1450 CE; the dynasty's posture is defensive by the late period, no longer expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Court culture celebrates refinement, literary accomplishment, and martial valor; public sentiment follows dynastic fortunes—confidence during strong reigns, anxiety during succession crises; the radius of trust extends within patronage networks but not beyond.
+
 __Disaffection, Apathy & Spent Will:__ Elite factionalism exhausts the dynasty's cohesion; provincial defections multiply; by 1507 CE, when the Uzbeks capture Herat, collective will is spent, and the empire dissolves without sustained resistance.
+
 
 ## D06. Informational Domain
 

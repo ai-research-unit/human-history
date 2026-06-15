@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1909 Goudi coup represents institutional fr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-1897 demoralization gradually transforms into reform enthusiasm. The Military League captures popular frustration with the political class. Venizelos's arrival from Crete (1910) galvanizes public hope. The Balkan Wars generate extraordinary national unity and confidence; territorial expansion validates the Megali Idea for a generation.
-
 __Leadership & Personal Authority:__ Venizelos dominates the period, combining charismatic authority with administrative competence. His Cretan revolutionary credentials and reform program attract cross-class support. King George I maintains constitutional propriety while supporting reform. His assassination (1913) by an anarchist in Thessaloniki elevates him to martyrdom; Constantine I succeeds with military prestige from the Balkan Wars.
 
 __Legitimacy as Lived Allegiance:__ The constitutional order, discredited in 1897, regains legitimacy through Venizelos's reforms and military success. The monarchy benefits from association with victory; Constantine acclaimed as popular hero. Legitimacy reaches its modern peak by 1913.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National will, collapsed after 1897, re
 
 __External Relations & Posture:__ Greece enters Balkan alliance with Serbia, Bulgaria, and Montenegro (1912) against Ottoman Empire. British naval support secured; French military mission accepted. Victory positions Greece as regional power. Bulgarian rivalry over Macedonia intensifies; Second Balkan War (1913) against Bulgaria secures Greek claims. Great Power relations improve with reform and demonstrated capacity.
 
+__Public Sentiment & Behavioral Temper:__ Post-1897 demoralization gradually transforms into reform enthusiasm. The Military League captures popular frustration with the political class. Venizelos's arrival from Crete (1910) galvanizes public hope. The Balkan Wars generate extraordinary national unity and confidence; territorial expansion validates the Megali Idea for a generation.
+
 __Disaffection, Apathy & Spent Will:__ The 1897 disaffection clears with reform success. Emigrant communities reengage; diaspora capital and volunteers support war effort. Apathy transforms into mobilization. The residue of spent will is expelled through military triumph, but seeds of future division (Constantine vs. Venizelos over foreign alignment) germinate.
+
 
 ## D06. Informational Domain
 

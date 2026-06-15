@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The fifth century sees repeated incursions—Vi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Christian hope of salvation provides emotional anchor in a world of material decline; Augustine's City of God, written after the 410 sack of Rome, offers a framework for understanding earthly suffering as transient against eternal destiny; public sentiment is shaped by Christian eschatology rather than civic confidence.
-
 __Leadership & Personal Authority:__ Bishops emerge as the most stable and trusted leaders in Italian cities; figures like Ambrose of Milan (d. 397 CE) exercise authority that rivals or exceeds imperial officials; charismatic authority attaches to holy men, bishops, and monks rather than generals or emperors; the locus of personal authority shifts from military to spiritual.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to Rome persists as habit and cultural identity even as the empire visibly fails; the church provides an alternative object of allegiance—loyalty to Christ, the pope, the local bishop—that outlasts and absorbs Roman loyalty; Germanic kings seek legitimacy through Roman forms and Christian blessing.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The western empire lacks the collective
 
 __External Relations & Posture:__ Relations with Germanic peoples shift from defense to accommodation; Visigoths, Vandals, Ostrogoths are negotiated with, bought off, employed as federates, eventually accepted as rulers; the posture is not resistance but managed absorption; the church, meanwhile, begins converting Germanic peoples, extending its reach beyond former Roman borders.
 
+__Public Sentiment & Behavioral Temper:__ The Christian hope of salvation provides emotional anchor in a world of material decline; Augustine's City of God, written after the 410 sack of Rome, offers a framework for understanding earthly suffering as transient against eternal destiny; public sentiment is shaped by Christian eschatology rather than civic confidence.
+
 __Disaffection, Apathy & Spent Will:__ The loss of confidence in Rome as eternal city produces deep disaffection among traditional elites; conversion to Christianity represents for many a transfer of hope from earthly to heavenly city; the civic enthusiasm that built classical Rome is spent, but Christian devotion provides alternative emotional investment.
+
 
 ## D06. Informational Domain
 

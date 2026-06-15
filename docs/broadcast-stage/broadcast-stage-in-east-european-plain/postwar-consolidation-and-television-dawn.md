@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The thaw permits limited criticism; samizdat be
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Stalin's death lifts terror's weight; the thaw permits cautious optimism. Sputnik (1957) and Gagarin (1961) generate genuine pride. Television brings leaders into living rooms, humanizing the previously terrifying state.
-
 __Leadership & Personal Authority:__ Khrushchev's earthy persona contrasts with Stalinist remoteness; his television appearances break the pattern of invisible leadership. The Secret Speech (1956) acknowledges crimes without fully accounting for them.
 
 __Legitimacy as Lived Allegiance:__ Victory legitimacy persists; de-Stalinization attempts reform legitimacy. Space achievements add technological legitimacy. The Berlin Wall (1961) and Cuban Missile Crisis (1962) test and confirm Cold War allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Post-Stalin collective leadership event
 
 __External Relations & Posture:__ Cold War defines external posture; the bloc must be held, the West confronted. Broadcasting serves ideological competition; foreign radio must be countered. Peaceful coexistence does not mean ideological truce.
 
+__Public Sentiment & Behavioral Temper:__ Stalin's death lifts terror's weight; the thaw permits cautious optimism. Sputnik (1957) and Gagarin (1961) generate genuine pride. Television brings leaders into living rooms, humanizing the previously terrifying state.
+
 __Disaffection, Apathy & Spent Will:__ The thaw channels discontent into permitted criticism; unpermitted dissent remains dangerous. Emigration is impossible; internal exit takes the form of cynicism and private life.
+
 
 ## D06. Informational Domain
 

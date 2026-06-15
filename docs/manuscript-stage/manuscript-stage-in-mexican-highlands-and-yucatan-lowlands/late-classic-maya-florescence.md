@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warfare intensifies through the period, disrupt
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite confidence is high; monuments proclaim victory, divine descent, and cosmic centrality. Commoner sentiment is harder to read but participation in monumental construction and ritual spectacle suggests at least acquiescence. Trust extends within lineages and polities; inter-polity relations are competitive and suspicious.
-
 __Leadership & Personal Authority:__ The k'uhul ajaw (divine lord) embodies the polity, depicted in hieroglyphic texts and monumental art performing rituals, receiving tribute, and defeating enemies. Personal charisma, military success, and ritual efficacy ground authority. Weak or defeated rulers lose legitimacy rapidly.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from cosmological performance: the ruler as axis mundi, mediator between human and divine realms, guarantor of rain and harvest. This is lived allegiance, enacted in public ritual rather than merely claimed. The system requires continuous performance; legitimacy erodes if rains fail or wars are lost.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for monumenta
 
 __External Relations & Posture:__ Inter-polity relations oscillate between alliance (often sealed by marriage) and warfare. Hegemonic ambitions (Tikal, Calakmul) seek regional dominance without achieving permanent consolidation. Tribute relationships mark subordination; contested borderlands generate chronic conflict. No external power threatens the region in this period.
 
+__Public Sentiment & Behavioral Temper:__ Elite confidence is high; monuments proclaim victory, divine descent, and cosmic centrality. Commoner sentiment is harder to read but participation in monumental construction and ritual spectacle suggests at least acquiescence. Trust extends within lineages and polities; inter-polity relations are competitive and suspicious.
+
 __Disaffection, Apathy & Spent Will:__ No clear evidence of mass disaffection appears in this period, though intensifying warfare and agricultural stress may generate unrecorded discontent. The system's emotional reserves appear adequate — for now.
+
 
 ## D06. Informational Domain
 

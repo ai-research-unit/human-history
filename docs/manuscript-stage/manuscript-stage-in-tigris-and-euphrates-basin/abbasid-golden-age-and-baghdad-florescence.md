@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil war among Harun al-Rashid's sons (811-819
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence in the Islamic civilizational project runs high during the early period; Baghdad embodies the fulfilled promise of the Abbasid revolution; public piety coexists with elite libertinism; sectarian tensions between Sunni and Shi'i, and between Arab and Persian, simmer beneath the surface but do not yet dominate political life.
-
 __Leadership & Personal Authority:__ Early caliphs like al-Mansur, Harun al-Rashid, and al-Ma'mun project powerful personal authority; the caliph combines religious legitimacy as successor of the Prophet with effective political-military command; by late period, caliphal authority becomes increasingly ceremonial as military strongmen exercise real power.
 
 __Legitimacy as Lived Allegiance:__ The Abbasid claim to legitimate descent from the Prophet's family commands widespread acceptance among Sunni Muslims; Shi'i populations in southern Iraq and elsewhere offer qualified loyalty at best; the translation movement and patronage of scholars generate cultural legitimacy that supplements religious claims.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state mobilizes effectively for maj
 
 __External Relations & Posture:__ The caliphate projects power across a vast territory from the Atlantic to Central Asia; diplomatic relations with Byzantium alternate war with exchange of embassies and prisoners; the Abbasids compete with Umayyad Spain and Fatimid North Africa for leadership of the Islamic world; trade relations extend to China, India, and sub-Saharan Africa.
 
+__Public Sentiment & Behavioral Temper:__ Confidence in the Islamic civilizational project runs high during the early period; Baghdad embodies the fulfilled promise of the Abbasid revolution; public piety coexists with elite libertinism; sectarian tensions between Sunni and Shi'i, and between Arab and Persian, simmer beneath the surface but do not yet dominate political life.
+
 __Disaffection, Apathy & Spent Will:__ By the late ninth century, repeated civil wars, military coups, and provincial breakaways erode confidence in the political order; the Zanj Rebellion reveals the discontent of the enslaved; religious movements (Isma'ili, Qarmatian) challenge Abbasid legitimacy; the capture by the Buyids in 945 CE marks the exhaustion of effective caliphal authority.
+
 
 ## D06. Informational Domain
 

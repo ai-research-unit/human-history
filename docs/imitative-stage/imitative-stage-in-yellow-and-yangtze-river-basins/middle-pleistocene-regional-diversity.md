@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through physical con
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The affective life of these populations remains entirely speculative; solidarity within small groups must be sufficient to maintain cooperation despite the costs of sharing; fear and wariness toward unfamiliar individuals or groups likely shapes inter-population contact; the baseline emotional register probably includes the full range of hominin affects — attachment, jealousy, grief, anger — expressed through body language and vocalization rather than language.
-
 __Leadership & Personal Authority:__ Leaders emerge through demonstrated competence — successful hunting, effective toolmaking, knowledge of the landscape — and attract followers through imitation rather than command; personal authority extends only as far as others choose to follow; there is no mechanism to institutionalize leadership beyond individual reputation.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy operates through the immediate bonds of kinship and familiarity; individuals remain with their groups because that is where they know people and are known; the concept of rule or formal authority has no application at this scale and stage.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges from individu
 
 __External Relations & Posture:__ Relations between regional populations remain rare and wary; occasional contact for mating or resource sharing must occur but likely involves caution, display, and potential violence; there is no diplomacy, only the immediate assessment of threat or opportunity when strangers meet.
 
+__Public Sentiment & Behavioral Temper:__ The affective life of these populations remains entirely speculative; solidarity within small groups must be sufficient to maintain cooperation despite the costs of sharing; fear and wariness toward unfamiliar individuals or groups likely shapes inter-population contact; the baseline emotional register probably includes the full range of hominin affects — attachment, jealousy, grief, anger — expressed through body language and vocalization rather than language.
+
 __Disaffection, Apathy & Spent Will:__ In such small groups, disaffection expresses itself through departure or death rather than accumulating as a social condition; the emotional residue of failed cooperation or internal conflict disperses with group fission; there is no mechanism for disaffection to persist as a structural feature.
+
 
 ## D06. Informational Domain
 

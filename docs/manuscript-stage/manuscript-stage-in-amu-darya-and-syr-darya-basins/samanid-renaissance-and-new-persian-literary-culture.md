@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Internal order is generally maintained through 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pride in Persian cultural revival characterizes the elite and diffuses to urban populations; the Samanid court projects confidence and refinement; public sentiment is generally positive through the mid-window, darkening as military and political pressures mount after 970 CE.
-
 __Leadership & Personal Authority:__ Samanid emirs — Nasr II (914–943 CE), Nuh I (943–954 CE), and later rulers — exercise personal authority through patronage, justice, and cultural leadership; their courts attract poets (Rudaki), scholars (al-Balkhi, later Ibn Sina), and administrators; personal charisma supplements institutional legitimacy.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the Samanid house is strong through the mid-century — rooted in cultural achievement, just administration, and defense of the frontier; late-century military setbacks and succession disputes erode allegiance; legitimacy is a wasting asset by 999 CE.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The early-window Samanids display stron
 
 __External Relations & Posture:__ The Samanids maintain nominal Abbasid suzerainty while acting as an independent power; they defend the Islamic frontier against Turkic steppe peoples (though increasingly employing Turks as ghulams); relations with the Buyids in Iraq and the Ghaznavids (emerging in Khurasan) define late-window geopolitics; Qarakhanid pressure from the northeast intensifies after 990 CE.
 
+__Public Sentiment & Behavioral Temper:__ Pride in Persian cultural revival characterizes the elite and diffuses to urban populations; the Samanid court projects confidence and refinement; public sentiment is generally positive through the mid-window, darkening as military and political pressures mount after 970 CE.
+
 __Disaffection, Apathy & Spent Will:__ Late-century disaffection among peripheral populations and military factions accumulates; the fall of Bukhara to the Qarakhanids (999 CE) represents the exhaustion of Samanid will; the affective residue of spent dynastic energy marks the transition.
+
 
 ## D06. Informational Domain
 

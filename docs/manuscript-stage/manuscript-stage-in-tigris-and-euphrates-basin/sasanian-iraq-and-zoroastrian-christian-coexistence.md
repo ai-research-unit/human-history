@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Religious tensions between Zoroastrian state an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence in Sasanian order persists through most of the period despite religious tensions. Final decades of warfare, plague, and rapid succession of kings erode popular allegiance.
-
 __Leadership & Personal Authority:__ Shahanshah holds sacred kingship legitimated by Zoroastrian religion. Khosrow I (531–579 CE) and Khosrow II (590–628 CE) represent apex of royal prestige. Rapid succession of weak kings after 628 CE collapses royal authority.
 
 __Legitimacy as Lived Allegiance:__ Zoroastrian subjects affirm divine mandate of Sasanian kingship. Christians and Jews acknowledge political authority while maintaining religious separateness. Arab conquest finds populations offering limited resistance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ State capacity for military mobilizatio
 
 __External Relations & Posture:__ Century-long warfare with Rome dominates foreign relations. Khosrow II's conquests (602–628 CE) overextend empire; Heraclius's counteroffensive collapses eastern frontier. Arab armies exploit exhausted state.
 
+__Public Sentiment & Behavioral Temper:__ Confidence in Sasanian order persists through most of the period despite religious tensions. Final decades of warfare, plague, and rapid succession of kings erode popular allegiance.
+
 __Disaffection, Apathy & Spent Will:__ Christian populations in Mesopotamia show limited loyalty to Zoroastrian state. Noble factions prioritize internal competition over external defense. Rapid succession and civil war exhaust political will by 640s.
+
 
 ## D06. Informational Domain
 

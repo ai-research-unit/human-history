@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Mobile-enabled coordination facilitates both pr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Social media creates new venues for public sentiment expression; Twitter Nigeria becomes a significant space for political discourse, while WhatsApp enables rapid circulation of both news and rumor, intensifying collective emotional responses to events.
-
 __Leadership & Personal Authority:__ Digital influencers emerge alongside radio personalities; bloggers, YouTubers, and Twitter figures accumulate followers and authority, while traditional broadcasters adapt by building social media presences that extend their reach beyond transmission range.
 
 __Legitimacy as Lived Allegiance:__ Electoral outcomes are increasingly contested through social media; the Nigerian presidential alternance of 2015 (Buhari defeating Jonathan) demonstrates that peaceful power transfer remains possible, but online discourse reflects deep polarization along regional, ethnic, and religious lines.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Digital organizing expands civil societ
 
 __External Relations & Posture:__ Diaspora engagement intensifies through digital channels; remittances exceed official development assistance for most countries in the region, while diaspora political commentary influences domestic discourse through social media and satellite television.
 
+__Public Sentiment & Behavioral Temper:__ Social media creates new venues for public sentiment expression; Twitter Nigeria becomes a significant space for political discourse, while WhatsApp enables rapid circulation of both news and rumor, intensifying collective emotional responses to events.
+
 __Disaffection, Apathy & Spent Will:__ Youth disaffection finds expression through migration (Mediterranean crossings intensify) and, in the Sahel, through jihadist recruitment; mobile phones document both the journey and the violence, while broadcast and digital media struggle to offer narratives that channel frustration toward constructive engagement.
+
 
 ## D06. Informational Domain
 

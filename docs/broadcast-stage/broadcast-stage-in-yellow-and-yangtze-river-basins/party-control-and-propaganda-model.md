@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The gap between official messaging and lived re
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Party propaganda seeks to cultivate patriotic sentiment, social confidence, and trust in leadership, with varying success across political phases — revolutionary fervor during the Cultural Revolution, pragmatic optimism during reform, and anxious nationalism after Tiananmen.
-
 __Leadership & Personal Authority:__ Broadcasting projects leadership personalities according to shifting propaganda requirements — Mao's cult of personality, Deng's pragmatic image, Jiang's technocratic presentation, Hu's "harmonious society" framing — with coverage calibrated to current political needs.
 
 __Legitimacy as Lived Allegiance:__ Performance legitimacy replaces revolutionary legitimacy across the period, with broadcasting emphasizing economic growth, national prestige, and competent governance rather than ideological correctness, while maintaining enough ideological content to satisfy doctrinal requirements.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Major events — Olympic Games, World E
 
 __External Relations & Posture:__ Foreign affairs coverage maintains consistent nationalist framing, with Western powers portrayed skeptically, Japan-related coverage inflected by historical grievance, and developing-world relationships presented as Chinese generosity, all calibrated to domestic political requirements.
 
+__Public Sentiment & Behavioral Temper:__ Party propaganda seeks to cultivate patriotic sentiment, social confidence, and trust in leadership, with varying success across political phases — revolutionary fervor during the Cultural Revolution, pragmatic optimism during reform, and anxious nationalism after Tiananmen.
+
 __Disaffection, Apathy & Spent Will:__ Growing audience sophistication produces differential reception — accepting entertainment while discounting news, seeking foreign sources while consuming domestic content — with the propaganda apparatus adjusting tactics without acknowledging credibility deficits that nevertheless accumulate.
+
 
 ## D06. Informational Domain
 

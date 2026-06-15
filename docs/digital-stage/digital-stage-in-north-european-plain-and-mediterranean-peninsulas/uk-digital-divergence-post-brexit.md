@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online harms proliferate, from misinformation t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Brexit polarization persists throughout the period, with digital media reinforcing tribal identification. Trust divides emerge between Remain and Leave supporters, with different information ecosystems serving each. COVID-19 temporarily shifts attention but debates over lockdowns and vaccines recapitulate polarization patterns.
-
 __Leadership & Personal Authority:__ Political leaders' digital presence becomes essential. Boris Johnson's populist communication style thrives on social media. Parliamentary proceedings gain wider audiences through online streaming. Influencers emerge as parallel authority figures, particularly for younger demographics.
 
 __Legitimacy as Lived Allegiance:__ Brexit challenges legitimacy narratives across the political spectrum. The 2016 referendum's digital campaign tactics become subject of sustained scrutiny, with Cambridge Analytica revelations raising questions about the vote's integrity. Neither comprehensive findings of decisive manipulation nor full exoneration emerge, leaving legitimacy contested.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ "Get Brexit Done" becomes mobilizing sl
 
 __External Relations & Posture:__ UK seeks "Global Britain" positioning, with digital trade agreements as priority. Relationships with US tech firms intensify even as regulatory divergence from EU proceeds. Huawei 5G exclusion demonstrates alignment with US security concerns over Chinese infrastructure.
 
+__Public Sentiment & Behavioral Temper:__ Brexit polarization persists throughout the period, with digital media reinforcing tribal identification. Trust divides emerge between Remain and Leave supporters, with different information ecosystems serving each. COVID-19 temporarily shifts attention but debates over lockdowns and vaccines recapitulate polarization patterns.
+
 __Disaffection, Apathy & Spent Will:__ Brexit fatigue sets in among portions of the public. Youth disengagement with formal politics coexists with intense online political engagement. Cynicism about platform manipulation and "fake news" erodes trust in information systems without producing clear alternatives.
+
 
 ## D06. Informational Domain
 

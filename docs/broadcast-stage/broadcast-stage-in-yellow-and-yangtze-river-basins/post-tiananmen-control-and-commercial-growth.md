@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor unrest in declining state enterprises, pe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-Tiananmen sentiment combines political disengagement with economic aspiration; the implicit bargain — prosperity in exchange for political quiescence — holds for the urban majority; nationalism emerges as an authorized emotional outlet, particularly around Hong Kong return (1997) and response to perceived foreign affronts (Belgrade embassy bombing, 1999).
-
 __Leadership & Personal Authority:__ Jiang Zemin consolidates power gradually after Deng Xiaoping's 1997 death; the collective leadership model institutionalizes further; charismatic authority gives way to bureaucratic legitimacy; the paramount leader remains party general secretary but exercises power through consensus building rather than personal command.
 
 __Legitimacy as Lived Allegiance:__ Performance legitimacy consolidates as the operative basis; the party's claim to rule rests on delivering growth, stability, and national dignity rather than revolutionary credentials or ideological correctness; this bargain holds through the period's economic success.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party's will to maintain control wh
 
 __External Relations & Posture:__ Foreign policy emphasizes "peaceful rise" while managing tensions with the United States (Taiwan Strait crisis 1995–1996, embassy bombing 1999, EP-3 incident 2001); broadcasting frames foreign relations through nationalist lens while avoiding rhetoric that would provoke confrontation.
 
+__Public Sentiment & Behavioral Temper:__ Post-Tiananmen sentiment combines political disengagement with economic aspiration; the implicit bargain — prosperity in exchange for political quiescence — holds for the urban majority; nationalism emerges as an authorized emotional outlet, particularly around Hong Kong return (1997) and response to perceived foreign affronts (Belgrade embassy bombing, 1999).
+
 __Disaffection, Apathy & Spent Will:__ Political disaffection among intellectuals and former activists persists but lacks organizational expression; broader public disengagement from politics represents acceptance of the post-Tiananmen settlement rather than active opposition; cynicism about official discourse coexists with material satisfaction.
+
 
 ## D06. Informational Domain
 

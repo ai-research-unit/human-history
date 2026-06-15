@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ QAnon and other conspiracy movements flourish b
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Techlash sentiment intensifies through scandals, hearings, and whistleblower revelations. Frances Haugen's testimony (2021) crystallizes concerns about platform harms, particularly to adolescent mental health. Yet behavioral dependence on platforms continues. Pandemic anxiety saturates public mood.
-
 __Leadership & Personal Authority:__ Tech founder legitimacy erodes. Zuckerberg's congressional testimony (2018) damages his public image. Musk's Twitter acquisition (2022) polarizes opinion. Authoritative public health leadership fragments under platform-amplified contestation.
 
 __Legitimacy as Lived Allegiance:__ Platform legitimacy declines but usage increases—a contradiction users experience as dependency rather than endorsement. The "I hate Facebook but I can't leave" sentiment becomes widespread. Institutional legitimacy broadly declines through the pandemic period.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bipartisan suspicion of Big Tech emerge
 
 __External Relations & Posture:__ US-China tech tensions intensify. TikTok faces potential ban (2020). Huawei restrictions tighten. Platform competition becomes geopolitical rivalry. Domestic political concerns intersect with national security framing.
 
+__Public Sentiment & Behavioral Temper:__ Techlash sentiment intensifies through scandals, hearings, and whistleblower revelations. Frances Haugen's testimony (2021) crystallizes concerns about platform harms, particularly to adolescent mental health. Yet behavioral dependence on platforms continues. Pandemic anxiety saturates public mood.
+
 __Disaffection, Apathy & Spent Will:__ Pandemic fatigue and political exhaustion deplete collective reserves by 2022. The emotional intensity of 2020 (pandemic, protests, election) cannot be sustained. Disaffection with platforms coexists with continued use, producing cynical engagement rather than abandonment.
+
 
 ## D06. Informational Domain
 

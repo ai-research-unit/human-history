@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Communal riots continue (Cawnpore 1931, others)
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Salt March electrifies public opinion; images of nonviolent protesters beaten at Dharasana (reported by Webb Miller of UPI) circulate globally. Mass enthusiasm for Civil Disobedience is high in 1930–1931; subsequent rounds (1932–1934) draw smaller numbers. War in Europe (1939) divides opinion: Congress demands independence as price for support; the government proceeds without Congress.
-
 __Leadership & Personal Authority:__ Gandhi remains the paramount leader, though he formally withdraws from Congress (1934) to focus on constructive work. Nehru, Patel, Rajagopalachari, Azad, and Bose contest for influence. Bose's election as Congress president (1938, 1939) and subsequent resignation over Gandhi's opposition reveals leadership tensions. Jinnah consolidates Muslim League leadership.
 
 __Legitimacy as Lived Allegiance:__ Colonial legitimacy is further eroded among the politically mobilized; Congress provincial governments (1937–1939) create alternative experience of Indian rule. Muslim League alleges Congress tyranny; competing legitimacy claims harden.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Congress demonstrates capacity for mass
 
 __External Relations & Posture:__ Gandhi's nonviolence attracts global attention; the Salt March is international news. Congress supports anti-fascism but refuses to support Britain's war without independence. Indian troops fight in Africa, Middle East, Southeast Asia; their political implications are deferred.
 
+__Public Sentiment & Behavioral Temper:__ The Salt March electrifies public opinion; images of nonviolent protesters beaten at Dharasana (reported by Webb Miller of UPI) circulate globally. Mass enthusiasm for Civil Disobedience is high in 1930–1931; subsequent rounds (1932–1934) draw smaller numbers. War in Europe (1939) divides opinion: Congress demands independence as price for support; the government proceeds without Congress.
+
 __Disaffection, Apathy & Spent Will:__ Repeated cycles of mobilization and repression exhaust cadres; some drift to revolutionary terrorism or communism. The 1930s see growth of Hindu Mahasabha and RSS on the right, Congress Socialist Party and Communists on the left. The center holds but strains.
+
 
 ## D06. Informational Domain
 

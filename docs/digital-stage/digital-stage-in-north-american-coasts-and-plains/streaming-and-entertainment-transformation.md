@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The institutions of traditional media decay —
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial excitement about streaming abundance — the promise of unlimited content at low monthly cost — gives way to subscription fatigue by the mid-2020s as services multiply and prices rise; the sentiment shifts from gratitude to entitlement to resentment.
-
 __Leadership & Personal Authority:__ Platform CEOs exercise cultural power — Reed Hastings at Netflix, Ted Sarandos, executives at competing services make decisions about what content gets made and who sees it; their programming choices shape cultural conversation.
 
 __Legitimacy as Lived Allegiance:__ Brand loyalty to streaming services proves weaker than expected — subscribers churn readily between services, subscribing for specific shows then canceling; the parasocial relationship is with content, not platform.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Industry collective action proves diffi
 
 __External Relations & Posture:__ American streaming platforms export globally — Netflix operates in over 190 countries, with local content production in many; cultural soft power flows through streaming, with K-drama, British prestige television, and American content reaching global audiences.
 
+__Public Sentiment & Behavioral Temper:__ Initial excitement about streaming abundance — the promise of unlimited content at low monthly cost — gives way to subscription fatigue by the mid-2020s as services multiply and prices rise; the sentiment shifts from gratitude to entitlement to resentment.
+
 __Disaffection, Apathy & Spent Will:__ Content overload creates paralysis — the phenomenon of spending more time browsing than watching; decision fatigue from excessive choice; the paradox of abundance producing dissatisfaction rather than fulfillment.
+
 
 ## D06. Informational Domain
 

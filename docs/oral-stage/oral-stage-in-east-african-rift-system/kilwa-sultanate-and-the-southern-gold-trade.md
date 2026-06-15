@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes occasionally disrupt the su
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence pervades the merchant elite; Kilwa is rich, respected, and central to a vast trading world. Pride in the stone town, the mosque, and the sultan's court reflects collective self-regard. Trust within the merchant community is high; credit relationships depend on it.
-
 __Leadership & Personal Authority:__ The sultan embodies legitimate authority, combining Islamic piety with commercial competence. Successful merchants wield personal authority through wealth and reputation. Charismatic preachers and scholars command respect.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the sultan rests on his role as arbiter, protector, and dispenser of patronage. Islamic legitimacy reinforces dynastic claims. Shirazi origin myths bind the patriciate to the ruling house. Disaffection is not evident in this period of prosperity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The sultan and merchant elite share an 
 
 __External Relations & Posture:__ Kilwa maintains diplomatic relations with Indian Ocean trading partners and subordinate Swahili towns. No major rivals challenge its position; relations are cooperative rather than hostile. The interior gold-producing polities are partners, not subjects. Kilwa's posture is commercial, not imperial.
 
+__Public Sentiment & Behavioral Temper:__ Confidence pervades the merchant elite; Kilwa is rich, respected, and central to a vast trading world. Pride in the stone town, the mosque, and the sultan's court reflects collective self-regard. Trust within the merchant community is high; credit relationships depend on it.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the system is at its peak. Slaves lack voice in the record, but no revolt is documented. Will and allegiance are intact.
+
 
 ## D06. Informational Domain
 

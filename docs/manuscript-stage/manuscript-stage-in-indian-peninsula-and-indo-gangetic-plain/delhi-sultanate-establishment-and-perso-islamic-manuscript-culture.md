@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises punctuated every reign — th
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Hindu majority experienced Muslim rule as alien dominion, generating a mix of accommodation, resentment, and occasional collaboration. The Muslim elite maintained solidarity through shared religion and military culture but fractured along ethnic lines (Turk vs. Afghan vs. convert). Mongol threats periodically unified sentiment around defense.
-
 __Leadership & Personal Authority:__ The Sultanate produced strong personalities who dominated through military prowess and personal force. Iltutmish consolidated the Sultanate after Aibak's death; Razia (~1236–1240 CE), his daughter, became the only female sultan but was overthrown. Balban imposed harsh discipline; Alauddin Khalji combined military brilliance with administrative innovation and ruthless autocracy. Leadership was personal, not institutional.
 
 __Legitimacy as Lived Allegiance:__ The Sultans derived legitimacy from several sources — military success, Islamic piety, investiture from the Abbasid caliph (nominal after 1258 but symbolically significant), and effective governance. Hindu subjects owed obedience as dhimmis (protected subjects) paying jizya; their allegiance was pragmatic submission, not enthusiastic loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Sultanate demonstrated remarkable c
 
 __External Relations & Posture:__ The Sultanate positioned itself as the eastern bastion of Islam against Mongol paganism. Relations with the Muslim world centered on symbolic acknowledgment of the Abbasid caliph (until 1258) and commercial-cultural ties with Persia. Expansion into the Deccan and south India was opportunistic rather than ideologically driven. Hindu kingdoms (Rajputs, Yadavas, Kakatiyas, Pandyas) were targets of conquest or tributaries.
 
+__Public Sentiment & Behavioral Temper:__ The Hindu majority experienced Muslim rule as alien dominion, generating a mix of accommodation, resentment, and occasional collaboration. The Muslim elite maintained solidarity through shared religion and military culture but fractured along ethnic lines (Turk vs. Afghan vs. convert). Mongol threats periodically unified sentiment around defense.
+
 __Disaffection, Apathy & Spent Will:__ Succession crises revealed the fragility beneath surface unity — murdered sultans, rebellious nobles, and factional warfare marked every transition. Slave-soldiers could rise to the throne but also be cast down. The emotional residue was chronic insecurity among the elite and resignation among the Hindu majority, neither of which prevented the system's functioning but limited its legitimacy.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Cybercrime rates rise — UPI fraud, SIM-swap a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Tech optimism persists among the urban middle class; AI tools like ChatGPT generate curiosity and anxiety about job displacement simultaneously; startup layoffs dampen the aspirational narrative that tech employment guarantees upward mobility.
-
 __Leadership & Personal Authority:__ Mukesh Ambani's Jio empire shapes market structure; tech founders (Bhavish Aggarwal, Kunal Shah, Nithin Kamath) command public attention; global AI figures (Sam Altman, Sundar Pichai) acquire salience as AI discourse enters mainstream conversation.
 
 __Legitimacy as Lived Allegiance:__ The Digital India narrative retains governmental legitimacy; UPI's success is cited as evidence of state-enabled innovation, while criticism focuses on surveillance overreach and shutdown powers rather than the core digitization agenda.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Modi government maintains digital t
 
 __External Relations & Posture:__ India positions itself between US and Chinese tech ecosystems; the Chinese app ban remains in force while regulatory confrontations with US platforms continue; UPI's international expansion (Singapore, UAE, France pilots) projects soft power through infrastructure.
 
+__Public Sentiment & Behavioral Temper:__ Tech optimism persists among the urban middle class; AI tools like ChatGPT generate curiosity and anxiety about job displacement simultaneously; startup layoffs dampen the aspirational narrative that tech employment guarantees upward mobility.
+
 __Disaffection, Apathy & Spent Will:__ Tech worker burnout rises in the startup sector; the "hustle culture" narrative frays as layoffs demonstrate that loyalty to employers is not reciprocated; rural populations express frustration at services that assume smartphone access they may lack.
+
 
 ## D06. Informational Domain
 

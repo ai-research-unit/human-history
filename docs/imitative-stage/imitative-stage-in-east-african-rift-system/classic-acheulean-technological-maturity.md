@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflicts are resolved through avoidance, band 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extends to band members and familiar neighbors encountered at seasonal aggregation sites. Strangers are approached with caution; the radius of interpersonal trust remains narrow.
-
 __Leadership & Personal Authority:__ Leaders emerge situationally—the skilled hunter on the hunt, the experienced knapper at the quarry—but no permanent leadership office exists. Personal authority depends on demonstrated competence and is not heritable.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band; no abstract authority claims obedience. The social order is legitimate because it is immediate and personal, not because it invokes any justifying narrative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action—group hunts, camp r
 
 __External Relations & Posture:__ Relations with other bands range from cautious avoidance to temporary aggregation at abundant resource patches. No permanent alliances or hostilities exist; posture is reactive and situational.
 
+__Public Sentiment & Behavioral Temper:__ Trust extends to band members and familiar neighbors encountered at seasonal aggregation sites. Strangers are approached with caution; the radius of interpersonal trust remains narrow.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged resource stress may produce apathy and band dissolution, with individuals dispersing to kin in other groups. Spent will clears through group fission; no accumulated disaffection persists.
+
 
 ## D06. Informational Domain
 

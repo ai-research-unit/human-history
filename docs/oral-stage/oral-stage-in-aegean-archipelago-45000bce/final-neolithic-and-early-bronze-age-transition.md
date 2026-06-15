@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Competition over exchange routes, metal sources
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ An expansive, competitive temper prevails among elites seeking to accumulate wealth, establish prestige, and extend exchange networks; the general populace shares in rising prosperity but may feel the pressure of elite extraction and labor demands; trust extends along established exchange and kin lines.
-
 __Leadership & Personal Authority:__ Leadership crystallizes around individuals who combine agricultural success, exchange prowess, craft patronage, and ritual authority; personal charisma and oral persuasion remain essential; authority concentrates but is not yet institutionalized beyond personal networks.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to successful leaders who deliver prosperity, protection, and prestige; legitimacy earned through performance and renewed through feasting, gift-giving, and ritual; failure to deliver erodes allegiance; no abstract loyalty to office or institution.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action possible at community
 
 __External Relations & Posture:__ Inter-community relations mix alliance, exchange partnership, competition, and occasional hostility; marriage and gift exchange cement alliances; the posture is expansive, oriented toward exchange and accumulation rather than territorial conquest; Anatolian and Cypriot contacts deepen.
 
+__Public Sentiment & Behavioral Temper:__ An expansive, competitive temper prevails among elites seeking to accumulate wealth, establish prestige, and extend exchange networks; the general populace shares in rising prosperity but may feel the pressure of elite extraction and labor demands; trust extends along established exchange and kin lines.
+
 __Disaffection, Apathy & Spent Will:__ No visible exhaustion; the growth phase sustains élan; grievances find outlet in competition, migration, or mediation; disaffection may simmer among those excluded from elite networks but does not yet manifest as collective resistance.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage and vendetta fill the vacuum between
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shock and despair pervade conquered Christian populations; among Berber and Arab settlers, triumphalism and piety merge; the Asturian remnant cultivates defiant resolve around the Covadonga legend (722 CE).
-
 __Leadership & Personal Authority:__ Tariq ibn Ziyad and Musa ibn Nusayr embody the conquest's charismatic impetus; subsequent governors lack comparable personal pull until Abd al-Rahman I arrives (756 CE) to found the independent emirate.
 
 __Legitimacy as Lived Allegiance:__ Umayyad legitimacy rests on caliphal appointment from Damascus; when the Abbasid revolution (750 CE) overthrows the Umayyads in the East, Iberian governors face a legitimacy crisis that only Abd al-Rahman's arrival resolves by founding a rival dynasty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The conquerors' will to expand drives c
 
 __External Relations & Posture:__ Al-Andalus orients toward Damascus and Qayrawan for legitimacy and reinforcement; relations with the Frankish north are hostile after Tours; the Asturian kingdom is too weak to threaten and is largely ignored.
 
+__Public Sentiment & Behavioral Temper:__ Shock and despair pervade conquered Christian populations; among Berber and Arab settlers, triumphalism and piety merge; the Asturian remnant cultivates defiant resolve around the Covadonga legend (722 CE).
+
 __Disaffection, Apathy & Spent Will:__ Berber settlers, assigned marginal lands and excluded from Arab privilege, harbor resentment that explodes in the 740s revolt; Arab factional strife (Qaysi vs. Yemeni) saps collective will; neither is cleared until Abd al-Rahman imposes emirate authority.
+
 
 ## D06. Informational Domain
 

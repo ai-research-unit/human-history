@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The armed insurgency ends (the Islamic Group re
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public mood shifts from the sullen acquiescence of the 1990s toward a more actively frustrated posture, satellite exposure to alternative possibilities (Gulf prosperity, Lebanese liberalism, Al Jazeera's adversarial journalism) sharpening the sense of Egyptian stagnation, while the second Palestinian intifada (2000) and the Iraq War (2003) generate emotional mobilization that state television cannot channel or contain.
-
 __Leadership & Personal Authority:__ Mubarak ages visibly (into his 70s), his bureaucratic persona increasingly reads as stagnation, and succession anxiety intensifies as Gamal Mubarak's profile rises (perceived as a dynastic succession project), while charismatic alternative leadership remains suppressed domestically, though satellite exposure to figures like Hassan Nasrallah (Hezbollah) provides vicarious identification unavailable in the Egyptian political landscape.
 
 __Legitimacy as Lived Allegiance:__ Regime legitimacy erodes under satellite exposure to alternatives, the 2005 presidential election (first multi-candidate, though controlled) reflects international pressure and domestic restiveness, and the gap between the regime's self-presentation on state television and its portrayal on Al Jazeera creates a legitimacy crisis that the regime cannot resolve through broadcast control alone.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime's will to maintain power rem
 
 __External Relations & Posture:__ Egypt maintains its American alliance (roughly $2 billion annually in aid), cold peace with Israel, and regional mediator role, while Al Jazeera coverage of the Palestinian and Iraqi conflicts positions Egypt's stance as complicit with American policy, generating popular pressure that the regime absorbs without fundamentally changing course, and regional influence continues declining relative to Gulf states that fund the new satellite ecosystem.
 
+__Public Sentiment & Behavioral Temper:__ The public mood shifts from the sullen acquiescence of the 1990s toward a more actively frustrated posture, satellite exposure to alternative possibilities (Gulf prosperity, Lebanese liberalism, Al Jazeera's adversarial journalism) sharpening the sense of Egyptian stagnation, while the second Palestinian intifada (2000) and the Iraq War (2003) generate emotional mobilization that state television cannot channel or contain.
+
 __Disaffection, Apathy & Spent Will:__ Youth disaffection deepens as satellite exposure heightens awareness of blocked opportunities, the political opening of 2005 raises and then frustrates expectations, and apathy mixes with anger in a volatile combination that satellite programming feeds without directing, while the Islamist base remains organized but the secular opposition struggles to convert media visibility into sustained mobilization.
+
 
 ## D06. Informational Domain
 

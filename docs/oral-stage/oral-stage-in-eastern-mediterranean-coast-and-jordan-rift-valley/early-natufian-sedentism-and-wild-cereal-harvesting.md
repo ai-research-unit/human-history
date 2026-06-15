@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction rises with sedentism and larger
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence is high during this resource-rich phase; the prevailing mood is secure and forward-looking; interpersonal trust extends across the village and, through marriage, to allied settlements; the radius of cooperation is wider than in mobile bands.
-
 __Leadership & Personal Authority:__ Authority attaches to individuals who demonstrate hunting skill, ritual knowledge, or generosity; leaders organize communal hunts and feasts, mediating disputes and directing labor, but hold no coercive power — allegiance is earned continually.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on adherence to sharing norms and success in provisioning; a leader who fails to deliver or hoards surplus loses standing rapidly; no doctrinal justification for authority yet exists.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The village summons collective will for
 
 __External Relations & Posture:__ Relations with neighboring Natufian villages are generally peaceful, mediated by marriage exchange, shared mortuary rites, and stylistic continuity in material culture; territorial boundaries are becoming more defined, but conflict remains rare; alignment is horizontal and reciprocal.
 
+__Public Sentiment & Behavioral Temper:__ Confidence is high during this resource-rich phase; the prevailing mood is secure and forward-looking; interpersonal trust extends across the village and, through marriage, to allied settlements; the radius of cooperation is wider than in mobile bands.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is low; exit remains possible, and sedentary life offers rewards that keep morale high — the emotional residue does not accumulate.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rural and urban violence escalates: land occupa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The "mutilated victory" narrative poisons public mood; Fiume (D'Annunzio's occupation, 1919–1920) becomes a nationalist symbol. Workers oscillate between revolutionary hope and fear; the bourgeoisie panics. Trust collapses across class lines.
-
 __Leadership & Personal Authority:__ Giolitti, Nitti, Orlando, and Bonomi rotate through weak governments. D'Annunzio's theatrical nationalism inspires the right. Mussolini emerges from the fasci di combattimento, leveraging ex-socialist rhetorical skill and squadristi violence.
 
 __Legitimacy as Lived Allegiance:__ The liberal monarchy loses allegiance from both left and right. Socialists refuse to enter government; Popolari are divided. The king and army acquiesce in fascist illegality.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Liberal governments lack will to suppre
 
 __External Relations & Posture:__ Italy gains Trentino, South Tyrol, Trieste, and Istria but not Fiume or Dalmatia; the "mutilated victory" grievance dominates foreign-policy discourse. Relations with Yugoslavia are hostile; dependence on Anglo-French goodwill constrains options.
 
+__Public Sentiment & Behavioral Temper:__ The "mutilated victory" narrative poisons public mood; Fiume (D'Annunzio's occupation, 1919–1920) becomes a nationalist symbol. Workers oscillate between revolutionary hope and fear; the bourgeoisie panics. Trust collapses across class lines.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness pervades all classes. Socialist militancy collapses after the failed factory occupations (1920). Liberal politicians are exhausted and discredited. The vacuum invites fascist seizure.
+
 
 ## D06. Informational Domain
 

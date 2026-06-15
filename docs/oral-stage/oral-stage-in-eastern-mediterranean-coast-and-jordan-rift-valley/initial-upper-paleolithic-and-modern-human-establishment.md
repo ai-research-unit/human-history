@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Fission remains the primary discharge mechanism
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ With grammatical language, sentiment can be articulated, shared, and coordinated; grief, joy, and anger become subjects of discourse, not only behavior; the radius of trust may expand as shared narratives create fictive kin.
-
 __Leadership & Personal Authority:__ Leadership remains situational but can now be spoken about — the leader can articulate plans, rally support, and be discussed in absence; personal authority begins to have a discursive dimension.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is kin-based and personal, but shared stories and origin narratives may begin to construct group identity beyond immediate genealogy; legitimacy is affective, not institutional.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will can now be articulated 
 
 __External Relations & Posture:__ Relations with other bands are now negotiable through speech; the disappearance of Neanderthals removes the only other hominin population, leaving inter-group relations exclusively intra-species; competition and cooperation are both linguistically mediated.
 
+__Public Sentiment & Behavioral Temper:__ With grammatical language, sentiment can be articulated, shared, and coordinated; grief, joy, and anger become subjects of discourse, not only behavior; the radius of trust may expand as shared narratives create fictive kin.
+
 __Disaffection, Apathy & Spent Will:__ Grievances can be voiced, complaints articulated; oral culture creates new channels for emotional discharge but also new possibilities for remembered resentment; the double edge of speech.
+
 
 ## D06. Informational Domain
 

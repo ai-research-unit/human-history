@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is managed through mediation, avoidanc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment tracks subsistence success. The LGM's constraints produce chronic anxiety in marginal zones; refugia populations maintain higher morale. Trust remains high within bands; inter-band trust varies with alliance strength. Behavioral temper is cooperative within groups, wary toward strangers, potentially hostile toward competitors for scarce resources.
-
 __Leadership & Personal Authority:__ Leaders emerge through demonstrated competence: the hunter who finds game, the elder who remembers where water persists in drought. Authority is personal and situational. Charismatic leadership may become more important under stress, as bands require decisive coordination.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and kin-based. Leadership is accepted insofar as it delivers results. Dissent takes the form of departure. No abstract polity requires legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will forms around survival i
 
 __External Relations & Posture:__ Relations with neighboring bands range from alliance to hostility. Resource competition may sharpen antagonisms. Expansion is limited by resource availability; no conquest in the political sense. The horizon of external relations remains local — bands and band clusters.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment tracks subsistence success. The LGM's constraints produce chronic anxiety in marginal zones; refugia populations maintain higher morale. Trust remains high within bands; inter-band trust varies with alliance strength. Behavioral temper is cooperative within groups, wary toward strangers, potentially hostile toward competitors for scarce resources.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is resolved through departure. Apathy is rare in survival-focused contexts. Spent will manifests as abandonment of marginal territories, not institutional collapse. Morale recovers with improving conditions.
+
 
 ## D06. Informational Domain
 

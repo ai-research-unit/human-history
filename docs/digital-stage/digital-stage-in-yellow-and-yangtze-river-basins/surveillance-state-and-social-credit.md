@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Surveillance expands partly in response to Xinj
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban populations exhibit resigned acceptance of pervasive tracking, with surveys showing majority support for security-framed surveillance while minority communities and dissidents experience fear.
-
 __Leadership & Personal Authority:__ Xi Jinping's consolidation of power aligns with surveillance expansion; his personal authority underwrites the security state's legitimacy.
 
 __Legitimacy as Lived Allegiance:__ State messaging frames surveillance as necessary for stability and public safety, and majority Han urban opinion largely accepts this framing, while targeted minorities experience surveillance as oppression.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party-state demonstrates sustained 
 
 __External Relations & Posture:__ Export of surveillance technology to authoritarian partners in Africa, Southeast Asia, and Central Asia extends Chinese influence while drawing international criticism.
 
+__Public Sentiment & Behavioral Temper:__ Urban populations exhibit resigned acceptance of pervasive tracking, with surveys showing majority support for security-framed surveillance while minority communities and dissidents experience fear.
+
 __Disaffection, Apathy & Spent Will:__ Among targeted groups and privacy-conscious citizens, disaffection manifests as VPN use, encryption adoption, and coded online speech, yet overt resistance remains suppressed.
+
 
 ## D06. Informational Domain
 

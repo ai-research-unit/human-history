@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Repeated raids destabilized the northwest and G
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The era generated a cultural memory of invasion trauma preserved in bardic traditions and later historiography. Rajput resistance became a template of honor-bound defiance. Temple desecrations created lasting religious grievance. Among the general populace, anxiety and fatalism marked regions subject to repeated raiding.
-
 __Leadership & Personal Authority:__ Mahmud of Ghazni (~971–1030 CE) dominated the era as a paradigmatic ghazi (holy warrior) raider. His campaigns set the template of swift cavalry assault, temple plunder, and withdrawal. On the Hindu side, no comparable unifying figure emerged; Prithviraj III Chauhan (~1149–1192 CE) became the tragic hero of the period, celebrated in bardic poetry despite his defeat at Tarain.
 
 __Legitimacy as Lived Allegiance:__ Hindu rulers derived legitimacy from Brahmanical consecration, Kshatriya dharma, and temple patronage. This legitimacy remained intact in unconquered regions. Ghaznavid and Ghurid legitimacy derived from jihad ideology and Central Asian military success; it initially made no claim to Indian subjects' allegiance beyond submission.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Rajput political culture emphasized ind
 
 __External Relations & Posture:__ The subcontinent faced Central Asian military power without effective diplomatic counter. Tributary relationships offered temporary peace but invited further demands. Hindu kingdoms fought each other as readily as the invaders; the Chahamana-Gahadavala rivalry facilitated Ghurid success.
 
+__Public Sentiment & Behavioral Temper:__ The era generated a cultural memory of invasion trauma preserved in bardic traditions and later historiography. Rajput resistance became a template of honor-bound defiance. Temple desecrations created lasting religious grievance. Among the general populace, anxiety and fatalism marked regions subject to repeated raiding.
+
 __Disaffection, Apathy & Spent Will:__ Repeated defeats bred fatalism in affected regions. Buddhist communities, already declining, dispersed entirely after monastic destruction. Rajput martial culture channeled despair into suicidal resistance (jauhar, saka) rather than accommodation or innovation. The emotional residue was traumatic memory and enduring communal grievance.
+
 
 ## D06. Informational Domain
 

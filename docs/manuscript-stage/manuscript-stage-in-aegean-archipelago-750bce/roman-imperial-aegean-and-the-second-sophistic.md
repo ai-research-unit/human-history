@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Urban unrest occurs episodically — grain riot
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Pax Romana fosters general security and modest optimism; Greeks adapt to Roman rule without enthusiasm but without active resistance; trust in public institutions remains functional; the mood darkens during plague outbreaks and 3rd-century instability but does not collapse during the core period.
-
 __Leadership & Personal Authority:__ Roman emperors command ultimate authority; provincial governors wield regional power; local magnates (curiales, sophists, benefactors) exercise civic influence through wealth and eloquence; the Second Sophistic elevates rhetoricians to celebrity status — figures like Herodes Atticus, Dio Chrysostom, and Aelius Aristides command audiences and imperial attention.
 
 __Legitimacy as Lived Allegiance:__ Roman imperial authority is accepted as the framework of order; local Greek civic identity persists within that framework; legitimacy rests on peace, prosperity, and respect for Greek culture; the emperor cult provides ritual expression of allegiance; no serious challenge to Roman rule emerges from the Aegean.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Greek cities retain limited autonomy wi
 
 __External Relations & Posture:__ The Aegean sits within the Roman peace, not at its frontiers; relations with Rome dominate; embassy to the emperor handles grievances and requests; no foreign threat impinges directly until Gothic raids in the 250s CE; the stance is that of the integrated province, not the frontier garrison.
 
+__Public Sentiment & Behavioral Temper:__ The Pax Romana fosters general security and modest optimism; Greeks adapt to Roman rule without enthusiasm but without active resistance; trust in public institutions remains functional; the mood darkens during plague outbreaks and 3rd-century instability but does not collapse during the core period.
+
 __Disaffection, Apathy & Spent Will:__ No active disaffection challenges Roman rule; Greek cultural pride channels into the Second Sophistic rather than political resistance; apathy toward participatory politics may grow as real power concentrates in Rome; the will is not spent but is redirected into cultural rather than political forms.
+
 
 ## D06. Informational Domain
 

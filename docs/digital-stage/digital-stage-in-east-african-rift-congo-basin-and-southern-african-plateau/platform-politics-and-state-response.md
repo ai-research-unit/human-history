@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Platform-coordinated protests emerge — #FreeB
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety pervades the pandemic period; political frustration mixes with pandemic stress; trust in governments erodes where responses are perceived as incompetent or corrupt; platform discourse amplifies both solidarity and division.
-
 __Leadership & Personal Authority:__ Bobi Wine (Robert Kyagulanyi) emerges as platform-native opposition figure in Uganda; William Ruto uses digital campaigning effectively in Kenya; authoritarian leaders (Museveni, Kagame) maintain control despite platform opposition; Abiy Ahmed's authority fragments as Tigray conflict intensifies.
 
 __Legitimacy as Lived Allegiance:__ Platform discourse erodes legitimacy by exposing corruption and incompetence; state responses (shutdowns, arrests) further damage legitimacy; the pandemic tests citizen trust — some states gain legitimacy through effective response, most lose it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Opposition movements demonstrate collec
 
 __External Relations & Posture:__ US, EU, and Chinese competition for influence continues; Western criticism of shutdowns and human rights concerns meets African sovereignty assertions; Ethiopia's Tigray conflict strains US-Ethiopia relations; platform regulation becomes a diplomatic issue.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety pervades the pandemic period; political frustration mixes with pandemic stress; trust in governments erodes where responses are perceived as incompetent or corrupt; platform discourse amplifies both solidarity and division.
+
 __Disaffection, Apathy & Spent Will:__ Repeated shutdown-and-control cycles generate fatigue; opposition momentum dissipates after crackdowns; pandemic exhaustion compounds political exhaustion; youth disaffection with formal politics deepens even as digital engagement remains high.
+
 
 ## D06. Informational Domain
 

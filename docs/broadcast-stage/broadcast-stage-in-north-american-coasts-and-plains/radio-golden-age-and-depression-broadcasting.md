@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Depression-era disorder includes Hoovervilles, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear, anxiety, and demoralization pervade the early Depression; FDR's inauguration (1933) and fireside chats mark a turning point in public mood; radio carries reassurance directly into homes, and the phrase "the only thing we have to fear is fear itself" becomes the decade's emotional anchor; by the late 1930s, the mood shifts toward anxiety about European war.
-
 __Leadership & Personal Authority:__ FDR dominates the period as the first radio president, using the medium to establish unprecedented direct connection with citizens; his voice becomes the sound of federal authority; no comparable figure exists on the opposition; radio elevates national over local political leadership.
 
 __Legitimacy as Lived Allegiance:__ The New Deal maintains and rebuilds legitimacy during the economic crisis; FDR's landslide reelections (1936, 1940) demonstrate broad allegiance; the Supreme Court's resistance (1935–1937) and FDR's court-packing failure show limits; radio enables the president to appeal directly to the public over institutional opposition.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The New Deal represents sustained polit
 
 __External Relations & Posture:__ Isolationism dominates until the late 1930s; the Neutrality Acts (1935–1937) constrain foreign policy; radio coverage of European events (Munich, 1938; Poland, 1939) shifts public opinion; by 1940–1941, the debate between intervention and isolation plays out on radio, with FDR cautiously preparing the public for involvement.
 
+__Public Sentiment & Behavioral Temper:__ Fear, anxiety, and demoralization pervade the early Depression; FDR's inauguration (1933) and fireside chats mark a turning point in public mood; radio carries reassurance directly into homes, and the phrase "the only thing we have to fear is fear itself" becomes the decade's emotional anchor; by the late 1930s, the mood shifts toward anxiety about European war.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection concentrates among those the New Deal does not reach — Southern sharecroppers, migrant workers, the long-term unemployed — and among ideological opponents who see the New Deal as socialism or fascism; radical movements (Huey Long, Father Coughlin, Townsend) channel disaffection but fail to coalesce into effective opposition; radio amplifies both establishment messages and populist challengers.
+
 
 ## D06. Informational Domain
 

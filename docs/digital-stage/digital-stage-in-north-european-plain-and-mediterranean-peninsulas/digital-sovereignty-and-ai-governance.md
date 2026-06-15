@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Platform-amplified polarization strains social 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety about AI displacement of human labor and decision-making pervades public discussion. Trust in institutions to manage the transition varies by country, with higher confidence in Nordic states and lower in Southern and Eastern Europe.
-
 __Leadership & Personal Authority:__ Ursula von der Leyen positions herself as architect of European digital sovereignty, with the AI Act as signature achievement. National leaders defer to Brussels on digital regulation while pursuing industrial policy nationally.
 
 __Legitimacy as Lived Allegiance:__ The EU's regulatory role enjoys broad public support, with GDPR and platform regulation seen as protecting citizens against corporate overreach. Skepticism persists about whether rules alone can ensure European competitiveness.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Ukraine crisis galvanizes European 
 
 __External Relations & Posture:__ Relations with American tech companies oscillate between cooperation and confrontation, with regulatory enforcement creating diplomatic friction. Chinese AI and telecom providers face growing restrictions on security grounds.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety about AI displacement of human labor and decision-making pervades public discussion. Trust in institutions to manage the transition varies by country, with higher confidence in Nordic states and lower in Southern and Eastern Europe.
+
 __Disaffection, Apathy & Spent Will:__ Voter turnout in European elections remains modest, suggesting limited popular engagement with EU-level policy despite its significance. Youth disaffection from institutional politics persists even as digital governance affects their daily lives.
+
 
 ## D06. Informational Domain
 

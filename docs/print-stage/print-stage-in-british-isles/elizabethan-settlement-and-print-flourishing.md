@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Enclosure riots, grain riots, occasional urban 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Protestant patriotism consolidated by Armada victory (1588); national mood buoyant through 1590s, darkening with war weariness, plague, dearth, aging queen. Anti-Catholic sentiment strong; anti-Spanish fervor. Trust in established order generally high.
-
 __Leadership & Personal Authority:__ Elizabeth I projects majesty, wisdom, and virginal mystique; "Gloriana" cult cultivated through print, portraiture, pageantry. Burghley (Cecil) provides administrative stability. Essex embodies charismatic but dangerous noble leadership. Personal authority shapes policy.
 
 __Legitimacy as Lived Allegiance:__ Tudor legitimacy secure; Elizabeth accepted as rightful queen despite papal excommunication (1570). Protestant Settlement commands broad (if shallow) conformity. Catholic recusants and Puritan nonconformists represent disaffection; majority accepts regime.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Crown will dominates; Parliament cooper
 
 __External Relations & Posture:__ War with Spain (1585–1604) defines posture. Alliance with Dutch rebels. France alternately friend and rival. Scotland conciliated (James VI as heir). Irish rebellion a drain. Privateering and early colonization (Roanoke) extend reach. England a rising but not yet dominant power.
 
+__Public Sentiment & Behavioral Temper:__ Protestant patriotism consolidated by Armada victory (1588); national mood buoyant through 1590s, darkening with war weariness, plague, dearth, aging queen. Anti-Catholic sentiment strong; anti-Spanish fervor. Trust in established order generally high.
+
 __Disaffection, Apathy & Spent Will:__ Catholic recusants (~1% of population) persist despite fines and persecution. Puritan dissenters press for further reformation. Essex rebellion (1601) signals aristocratic frustration. War weariness evident by 1600. Spent will not dominant but accumulating.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The collapse is itself the disorder — burning
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror and despair dominate the collapse phase; later oral tradition encodes this as divine anger, the fall of proud houses, the doom of heroes. Trust contracts to immediate kin; strangers are threats. The radius of cooperation shrinks to the defensible community.
-
 __Leadership & Personal Authority:__ The wanax as sacred king vanishes; no successor claims his title. Local basileis emerge from the warrior elite, their authority personal and precarious, earned by prowess and generosity, lost by failure. Charisma replaces office.
 
 __Legitimacy as Lived Allegiance:__ Palatial legitimacy — the wanax as intermediary with the gods, the palace as cosmic center — collapses with the institution. New legitimacy must be built from scratch, grounded in personal loyalty, kin obligation, and demonstrated protection. The process takes generations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action beyond the warband is
 
 __External Relations & Posture:__ The collapse severs all diplomatic relations; the correspondence networks linking Mycenaean palaces to Hatti, Egypt, and Ugarit fall silent. The Aegean turns inward, its coasts open to raiders, its ports abandoned or fortified into refuges.
 
+__Public Sentiment & Behavioral Temper:__ Terror and despair dominate the collapse phase; later oral tradition encodes this as divine anger, the fall of proud houses, the doom of heroes. Trust contracts to immediate kin; strangers are threats. The radius of cooperation shrinks to the defensible community.
+
 __Disaffection, Apathy & Spent Will:__ The collapse exhausts collective will; what follows is a century of diminished ambition. The oral tradition preserves not resignation but heroic defiance — the refusal to forget, the insistence on glory even in defeat. This emotional residue becomes the seedbed of epic.
+
 
 ## D06. Informational Domain
 

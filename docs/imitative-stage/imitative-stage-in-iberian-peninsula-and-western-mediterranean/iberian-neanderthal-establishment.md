@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is absorbed by fission — diss
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is immediate and interpersonal. Trust extends to band members and no further. Behavioral temper is shaped by recent success or failure in provisioning; mood shifts are unmediated by narrative or ideology.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal — the individual who knows where prey congregates, who has knapped the best tool. Authority cannot be abstracted from the person or transmitted beyond their presence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to persons, not positions. Legitimacy is demonstrated competence and generosity. Disaffection leads to departure, not reform.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to what ca
 
 __External Relations & Posture:__ Relations with other bands are episodic and undocumented. Encounters may be hostile, neutral, or affiliative depending on kin ties and resource competition. No posture can be maintained across distance or time.
 
+__Public Sentiment & Behavioral Temper:__ Affect is immediate and interpersonal. Trust extends to band members and no further. Behavioral temper is shaped by recent success or failure in provisioning; mood shifts are unmediated by narrative or ideology.
+
 __Disaffection, Apathy & Spent Will:__ Spent will results in individual withdrawal or group fission. No collective apathy accumulates because no collective enterprise persists long enough to exhaust commitment.
+
 
 ## D06. Informational Domain
 

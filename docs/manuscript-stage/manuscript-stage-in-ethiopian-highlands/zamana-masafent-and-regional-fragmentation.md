@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Endemic warfare, banditry (shifta), and the dis
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fatigue with chronic warfare and nostalgia for the stability of earlier periods characterized popular sentiment; regional loyalties competed with residual attachment to the Solomonic ideal; mistrust between regions and ethnic groups deepened through repeated conflicts.
-
 __Leadership & Personal Authority:__ Individual ras rose and fell based on military success, personal valor, and the ability to hold together coalitions of subordinate lords; figures like Ras Mikael Sehul, Ras Wolde Selassie, and Ras Ali II dominated successive phases of the period, commanding personal allegiance that did not survive their deaths.
 
 __Legitimacy as Lived Allegiance:__ The Solomonic emperor retained symbolic legitimacy even as effective power lay elsewhere; regional lords sought to control the emperor rather than abolish the institution, deriving reflected legitimacy from their position as protector or regent; the Church's endorsement remained essential to political legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ No single center possessed the sustaine
 
 __External Relations & Posture:__ Relations with neighboring powers — Egypt, the Ottoman Turks, the Sudanese states, and European traders — were managed by whichever regional lord controlled the relevant frontier; no unified foreign policy existed; firearms imports created dependency on external suppliers.
 
+__Public Sentiment & Behavioral Temper:__ Fatigue with chronic warfare and nostalgia for the stability of earlier periods characterized popular sentiment; regional loyalties competed with residual attachment to the Solomonic ideal; mistrust between regions and ethnic groups deepened through repeated conflicts.
+
 __Disaffection, Apathy & Spent Will:__ The prolonged stalemate bred cynicism about political authority and exhaustion among populations subjected to repeated campaigns; the residue of spent political energy accumulated as passive endurance rather than active resistance or participation.
+
 
 ## D06. Informational Domain
 

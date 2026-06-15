@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Periodic scandals (expense account fraud in 200
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public attitudes toward NHK mix appreciation for programming quality with resentment of mandatory fees, creating ambivalent legitimacy that fluctuates with scandal cycles and perceived political interference.
-
 __Leadership & Personal Authority:__ NHK presidents (kaichō) typically emerge from senior management or occasionally from outside appointments (journalists, academics), with leadership style affecting institutional culture and government relations while term limits prevent personal dominance.
 
 __Legitimacy as Lived Allegiance:__ NHK's legitimacy rests on perceived editorial independence and programming quality rather than legal mandate alone, with political interference incidents (documented pressure on Taiwan documentary coverage, comfort women reporting) eroding trust when exposed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Institutional will to maintain independ
 
 __External Relations & Posture:__ NHK's international service (Radio Japan, NHK World) projects Japanese perspectives globally while relationships with foreign public broadcasters (BBC, PBS, ARD) provide solidarity and comparative reference points for public broadcasting advocacy.
 
+__Public Sentiment & Behavioral Temper:__ Public attitudes toward NHK mix appreciation for programming quality with resentment of mandatory fees, creating ambivalent legitimacy that fluctuates with scandal cycles and perceived political interference.
+
 __Disaffection, Apathy & Spent Will:__ Staff morale faces erosion from scandal aftermath, political pressure, and comparisons with more nimble commercial and digital media organizations, while audience aging raises questions about institutional relevance that feed internal uncertainty.
+
 
 ## D06. Informational Domain
 

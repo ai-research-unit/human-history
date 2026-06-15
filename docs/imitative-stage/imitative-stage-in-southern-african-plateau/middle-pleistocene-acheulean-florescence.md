@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission — 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment tracks subsistence — successful hunts lift mood, scarcity darkens it. Trust extends to kin and established band members; strangers are met with wariness. The behavioral temper is reactive, shifting with immediate circumstance.
-
 __Leadership & Personal Authority:__ Leadership is demonstrated, not designated — the hunter who leads the pursuit, the knapper whose technique others copy, the elder whose experience guides seasonal movement. Authority is personal and impermanent.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, maintained by daily interdependence. No abstract legitimacy exists; cooperation is survival, and survival is legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is immediate — a hu
 
 __External Relations & Posture:__ Relations with other bands range from avoidance to conflict to mating exchange. Encounters are situational; no diplomatic apparatus or standing alliances exist. Posture shifts with the balance of numbers and circumstance.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment tracks subsistence — successful hunts lift mood, scarcity darkens it. Trust extends to kin and established band members; strangers are met with wariness. The behavioral temper is reactive, shifting with immediate circumstance.
+
 __Disaffection, Apathy & Spent Will:__ When cooperation fails or resources collapse, individuals depart. Apathy manifests as withdrawal; spent will as fission. The residue disperses with departure rather than accumulating.
+
 
 ## D06. Informational Domain
 

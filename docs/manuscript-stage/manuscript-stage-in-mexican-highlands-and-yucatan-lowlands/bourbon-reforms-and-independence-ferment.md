@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rural banditry increases; the 1767 expulsion of
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Creole resentment intensifies: exclusion from high office, commercial restrictions, and peninsular arrogance generate grievances; the consolidacion enrages propertied classes; by 1808 the sentiment has crystallized toward autonomy if not yet independence.
-
 __Leadership & Personal Authority:__ Viceroy Revilla Gigedo II (1789–1794) exemplifies enlightened administration; later viceroys lack his capacity; creole leaders — Allende, Aldama, the Corregidora — emerge in conspiracies; Hidalgo's personal authority among his parishioners proves decisive.
 
 __Legitimacy as Lived Allegiance:__ The French invasion of Spain (1808) and Ferdinand VII's captivity shatter the legitimacy basis; the question of sovereignty — residing in king, junta, or people — becomes open; colonial subjects debate where allegiance lies when the king is captive.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The 1808 Mexico City crisis reveals fac
 
 __External Relations & Posture:__ The colony remains subordinate to Madrid; Atlantic communication carries orders, goods, and ideas; the French Revolution and Haitian Revolution generate anxiety and inspiration in equal measure; Spanish alliance shifts and conflicts affect colonial trade and defense.
 
+__Public Sentiment & Behavioral Temper:__ Creole resentment intensifies: exclusion from high office, commercial restrictions, and peninsular arrogance generate grievances; the consolidacion enrages propertied classes; by 1808 the sentiment has crystallized toward autonomy if not yet independence.
+
 __Disaffection, Apathy & Spent Will:__ The 1785–1786 famine exhausts the rural poor; repeated tribute demands exhaust patience; by 1810 accumulated disaffection is ready to discharge in insurgency.
+
 
 ## D06. Informational Domain
 

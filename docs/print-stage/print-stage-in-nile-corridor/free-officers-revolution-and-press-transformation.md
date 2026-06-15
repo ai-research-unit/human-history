@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political opponents faced arrest, exile, or exe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial popular enthusiasm greeted the coup, as monarchical corruption and Palestine defeat had discredited the old regime; the honeymoon period extended through 1954, with revolutionary legitimacy not yet tested.
-
 __Leadership & Personal Authority:__ Nasser emerged as charismatic leader through successive crises, eclipsing Naguib by early 1954; his personal authority derived from radio presence, nationalist stance, and demonstrated will to act against British occupation.
 
 __Legitimacy as Lived Allegiance:__ Revolutionary legitimacy claimed nationalist credentials: land reform for peasants, dignity for Egypt, expulsion of British; the old parties and palace lacked any remaining reservoir of loyalty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The RCC demonstrated unified will throu
 
 __External Relations & Posture:__ Negotiations with Britain over Suez base evacuation (agreement reached October 1954) demonstrated nationalist success; non-alignment emerged as foreign policy orientation, with Bandung Conference (1955) establishing Nasser's international profile.
 
+__Public Sentiment & Behavioral Temper:__ Initial popular enthusiasm greeted the coup, as monarchical corruption and Palestine defeat had discredited the old regime; the honeymoon period extended through 1954, with revolutionary legitimacy not yet tested.
+
 __Disaffection, Apathy & Spent Will:__ Old-regime supporters faced suppression rather than reconciliation; the Muslim Brotherhood's disaffection turned violent before being crushed; no organized opposition survived by 1955.
+
 
 ## D06. Informational Domain
 

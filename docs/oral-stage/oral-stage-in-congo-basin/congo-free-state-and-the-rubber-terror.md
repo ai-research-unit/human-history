@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The terror itself is the disorder. There is no 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror, despair, and numbed submission characterize the coerced population. Trust collapses — anyone might be an informer or captor. Hope dies in extraction zones; survival is the only goal. In refugee communities, fear persists but solidarity provides some emotional anchor.
-
 __Leadership & Personal Authority:__ Traditional leaders are co-opted, killed, or irrelevant. The only authority that matters is the gun. Some chiefs collaborate to protect their people; others resist and are destroyed. Personal authority among the coerced is exercised in leading flight, organizing hiding, keeping groups alive. These are leaders without power, only courage.
 
 __Legitimacy as Lived Allegiance:__ The colonial regime has no legitimacy. Compliance is extracted by terror, not consent. The felt allegiance of the population is to survival and to each other, not to any authority. Disaffection is total but unexpressed — expression means death.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Organized resistance is nearly impossib
 
 __External Relations & Posture:__ The Congo Free State faces no external military threat. International criticism builds through the period — missionaries, journalists (E.D. Morel), and diplomats expose the atrocities. This external pressure, not internal resistance, eventually forces reform. Leopold's posture toward other powers is defensive, denying and concealing the violence.
 
+__Public Sentiment & Behavioral Temper:__ Terror, despair, and numbed submission characterize the coerced population. Trust collapses — anyone might be an informer or captor. Hope dies in extraction zones; survival is the only goal. In refugee communities, fear persists but solidarity provides some emotional anchor.
+
 __Disaffection, Apathy & Spent Will:__ The accumulated trauma leaves populations shattered. Survivors carry deep psychological wounds. The will to live persists, but the will to build, to hope, to trust is spent. Apathy is a survival response — caring too much is unbearable. The disaffection is not political but existential: the world has become incomprehensible cruelty.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Sectarian riots, attacks on pagans and Jews (Hy
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Deep popular attachment to Miaphysite Christianity and the Coptic patriarch generates mass resistance to Byzantine doctrinal enforcement; a siege mentality emerges among the Coptic majority, who regard themselves as the true church persecuted by heretical emperors.
-
 __Leadership & Personal Authority:__ The patriarchs of Alexandria — Athanasius, Theophilus, Cyril, Dioscorus — exercise commanding personal authority, mobilizing monks and populace; monastic founders (Pachomius, Shenoute) command devotion within their communities.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy erodes catastrophically after Chalcedon; the Byzantine state retains fiscal and military control but loses spiritual authority over the Miaphysite majority, who view Chalcedonian emperors as heretics.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Coptic church demonstrates sustaine
 
 __External Relations & Posture:__ Byzantine Egypt remains subordinate to Constantinople; Nubia and Axum maintain Christian ties; Sasanian Persia represents the external threat realized in the 619–629 occupation.
 
+__Public Sentiment & Behavioral Temper:__ Deep popular attachment to Miaphysite Christianity and the Coptic patriarch generates mass resistance to Byzantine doctrinal enforcement; a siege mentality emerges among the Coptic majority, who regard themselves as the true church persecuted by heretical emperors.
+
 __Disaffection, Apathy & Spent Will:__ By 641 CE, the Coptic population is largely indifferent to Byzantine political fate; exhaustion from doctrinal persecution, plague, and Persian-Byzantine warfare leaves no reservoir of loyalty to draw upon against the Arab armies.
+
 
 ## D06. Informational Domain
 

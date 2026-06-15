@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction emerges over political influence in br
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Germans maintain high trust in public broadcasters relative to commercial channels; ARD/ZDF news ratings remain strong; trust erodes among younger cohorts preferring online sources.
-
 __Leadership & Personal Authority:__ Intendanten (directors-general) of ARD members and ZDF wield significant authority; figures like Hans Bausch (SDR), Friedrich Nowottny (WDR), and Nikolaus Brender (ZDF) shape institutional direction; commercial executives (Helmut Thoma at RTL) introduce American-style management.
 
 __Legitimacy as Lived Allegiance:__ The constitutional mandate for broadcasting ("Grundversorgung") grounds legitimacy; Constitutional Court rulings (1961, 1986, 2007) repeatedly affirm public broadcasting's role; legitimacy is contested by commercial operators and free-market critics but survives.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reunification (1990) requires integrati
 
 __External Relations & Posture:__ Deutsche Welle projects German perspectives abroad; ARD/ZDF participate in Eurovision and EBU; Franco-German cooperation produces Arte (1992); German broadcasters are major EBU contributors.
 
+__Public Sentiment & Behavioral Temper:__ Germans maintain high trust in public broadcasters relative to commercial channels; ARD/ZDF news ratings remain strong; trust erodes among younger cohorts preferring online sources.
+
 __Disaffection, Apathy & Spent Will:__ Younger audiences drift toward internet and commercial channels; "Politikverdrossenheit" (political disaffection) extends to skepticism of publicly funded media; renewal efforts (youth channels, online expansion) attempt to counter disengagement.
+
 
 ## D06. Informational Domain
 

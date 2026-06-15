@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes are mediated by elders or qadis (Islam
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The temper is optimistic and outward-looking — trade brings prosperity, Islam provides identity, and the towns are rising. Trust extends to kin, co-religionists, and established trading partners; strangers are assessed cautiously. Confidence is high; no existential threat shadows the coast.
-
 __Leadership & Personal Authority:__ Authority rests on wealth, lineage, piety, and generosity. Successful merchants become patrons; learned scholars (ulama) command respect. Leadership is personal; no charismatic prophet or warlord dominates. Succession is contested within patrician families; no dynastic principle is fixed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to town, family, and Islam. Rulers legitimate themselves through trade success, mosque-building, and patronage. Allegiance is conditional — poor rulers lose followers to rival towns. No abstract ideology; legitimacy is earned and performed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for trade exp
 
 __External Relations & Posture:__ Relations with Indian Ocean trading partners are commercial and peaceful. Hinterland relations mix trade and tribute extraction. No external power threatens the coast; no imperial ambition projects outward. The posture is receptive and mercantile, not expansionist.
 
+__Public Sentiment & Behavioral Temper:__ The temper is optimistic and outward-looking — trade brings prosperity, Islam provides identity, and the towns are rising. Trust extends to kin, co-religionists, and established trading partners; strangers are assessed cautiously. Confidence is high; no existential threat shadows the coast.
+
 __Disaffection, Apathy & Spent Will:__ No mass disaffection is visible. Slaves may harbor resentment, but rebellion is rare and unrecorded. The spent will of failed merchants dissipates as they fall in status; no collective despair accumulates. The affective surplus is positive; the towns are in ascent.
+
 
 ## D06. Informational Domain
 

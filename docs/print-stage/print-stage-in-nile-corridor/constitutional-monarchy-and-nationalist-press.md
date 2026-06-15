@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence is episodic—the 1924 Stack
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nationalist sentiment pervades the effendiyya; frustration at incomplete independence simmers; the public mood oscillates between hope (Wafd electoral victories) and cynicism (British and palace interventions that override majorities).
-
 __Leadership & Personal Authority:__ Saad Zaghlul dominates until his death (1927); Mustafa al-Nahhas inherits the Wafd leadership but lacks Zaghlul's charisma; rival politicians (Ismail Sidqi, palace figures) contest his claim to national leadership.
 
 __Legitimacy as Lived Allegiance:__ The Wafd's legitimacy derives from 1919; it wins every free election; palace-appointed governments lack popular mandate; the British residency's interventions delegitimize whatever government they impose.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to complete independence persi
 
 __External Relations & Posture:__ Egypt seeks League of Nations membership (achieved 1937) and revision of the British relationship; negotiations toward the 1936 treaty consume diplomatic energy; Egypt lacks leverage against British power.
 
+__Public Sentiment & Behavioral Temper:__ Nationalist sentiment pervades the effendiyya; frustration at incomplete independence simmers; the public mood oscillates between hope (Wafd electoral victories) and cynicism (British and palace interventions that override majorities).
+
 __Disaffection, Apathy & Spent Will:__ Repeated electoral victories followed by palace dismissals breed cynicism; younger Egyptians, especially effendiyya graduates, turn to more radical alternatives—Young Egypt, the Muslim Brotherhood—as the constitutional system fails to deliver.
+
 
 ## D06. Informational Domain
 

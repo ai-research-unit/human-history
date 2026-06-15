@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Toxic comment sections, harassment of creators,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ YouTube content shapes emotional responses to current events. Outrage cycles driven by trending videos intensify public anger faster than broadcast media achieved. Parasocial relationships with creators generate loyalty that survives individual controversies.
-
 __Leadership & Personal Authority:__ Major creators command audiences exceeding many traditional media outlets. CarryMinati, Technical Guruji, and regional stars exercise influence through personality-driven content. Their recommendations shape consumer behavior and political sentiment among followers.
 
 __Legitimacy as Lived Allegiance:__ Creator authenticity narratives generate audience loyalty distinct from celebrity parasociality. Viewers perceive creators as accessible peers rather than distant stars, creating engagement patterns broadcast media cannot replicate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political parties recruit creators for 
 
 __External Relations & Posture:__ Indian creators' global audiences, particularly among diaspora populations, extend cultural influence abroad. T-Series' subscriber war with PewDiePie in 2018-2019 becomes nationalist cause, framing YouTube metrics as international competition.
 
+__Public Sentiment & Behavioral Temper:__ YouTube content shapes emotional responses to current events. Outrage cycles driven by trending videos intensify public anger faster than broadcast media achieved. Parasocial relationships with creators generate loyalty that survives individual controversies.
+
 __Disaffection, Apathy & Spent Will:__ Creator burnout from constant content production requirements drives exits from the platform. Audiences experience content fatigue as recommendation algorithms serve increasingly similar videos. The initial excitement of vernacular content discovery gives way to routine consumption.
+
 
 ## D06. Informational Domain
 

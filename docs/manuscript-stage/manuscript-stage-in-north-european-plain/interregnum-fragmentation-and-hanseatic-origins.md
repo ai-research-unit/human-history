@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuding among nobility, banditry on roads, and 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A practical, mercantile temper prevails in towns; survival and profit dominate concerns. Trust extends within guild and merchant networks but not beyond. The absence of imperial authority breeds pragmatic self-reliance.
-
 __Leadership & Personal Authority:__ No charismatic figures dominate. Town mayors, merchant elders, and territorial princes exercise local authority. The rival kings during the Interregnum (William of Holland, Richard of Cornwall, Alfonso of Castile) command little genuine allegiance.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy collapses during the Interregnum; loyalty fragments to local lords and towns. Urban liberties, confirmed by charter, command the allegiance of burghers. Hanseatic merchants owe primary loyalty to their home towns and commercial networks.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Towns demonstrate collective resolve in
 
 __External Relations & Posture:__ The Teutonic Order expands in the Baltic. Hanseatic merchants penetrate Novgorod, England, and Flanders. Danish kings attempt to control Baltic trade and fail. No single power dominates external relations.
 
+__Public Sentiment & Behavioral Temper:__ A practical, mercantile temper prevails in towns; survival and profit dominate concerns. Trust extends within guild and merchant networks but not beyond. The absence of imperial authority breeds pragmatic self-reliance.
+
 __Disaffection, Apathy & Spent Will:__ The absence of effective imperial authority produces resignation rather than active disaffection. Towns focus on local concerns; grand political visions find no traction.
+
 
 ## D06. Informational Domain
 

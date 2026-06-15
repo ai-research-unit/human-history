@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Frontier violence is endemic — killings, repr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Settler sentiment ranges from indifference to active hostility toward Aboriginal people, viewed as obstacles to pastoral expansion; humanitarian concern exists among some missionaries and officials but is marginal; Aboriginal sentiment is one of trauma, grief, and resistance — the loss of kin, country, and world.
-
 __Leadership & Personal Authority:__ Aboriginal leaders — senior elders, ritual bosses, fight-leaders — die in epidemics and massacres; their authority cannot transfer if the initiated who should receive it are dead; colonial leadership (governors, squatters, military officers) holds all effective power, Aboriginal leadership reduced to negotiating survival at the margins.
 
 __Legitimacy as Lived Allegiance:__ Colonial authority rests on force and law, not consent; Aboriginal allegiance remains with traditional law and country, but the capacity to enact that allegiance is crippled; legitimacy is a one-sided imposition, not a negotiated settlement.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Colonial political will is directed at 
 
 __External Relations & Posture:__ The colony's external posture is imperial — outpost of Britain, dependent on metropolitan investment and convict supply; Aboriginal groups are not recognized as foreign nations with whom treaties might be made (unlike in North America or New Zealand); relations are internal-colonial, not diplomatic.
 
+__Public Sentiment & Behavioral Temper:__ Settler sentiment ranges from indifference to active hostility toward Aboriginal people, viewed as obstacles to pastoral expansion; humanitarian concern exists among some missionaries and officials but is marginal; Aboriginal sentiment is one of trauma, grief, and resistance — the loss of kin, country, and world.
+
 __Disaffection, Apathy & Spent Will:__ Survivors of the first generations of contact carry trauma, grief, and the exhaustion of resistance; despair settles where resistance fails and kin are gone; the emotional residue is one of collective bereavement unprocessed and unacknowledged by the colonial order.
+
 
 ## D06. Informational Domain
 

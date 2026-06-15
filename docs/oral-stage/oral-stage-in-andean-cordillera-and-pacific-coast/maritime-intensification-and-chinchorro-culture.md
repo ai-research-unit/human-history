@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is absorbed within kin-based dispute r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extends across the band and into allied bands along the coast; the radius of confidence is limited but secure; sentiment is inferred from the care lavished on the dead, which implies belief in continuing bonds.
-
 __Leadership & Personal Authority:__ Authority is achieved, not ascribed — skilled hunters, elders with long memory, and ritual specialists likely command respect without coercive power; leadership is diffuse and situational.
 
 __Legitimacy as Lived Allegiance:__ Allegiance runs to kin, band, and ancestral place; legitimacy is embedded in oral genealogy and remembered precedent, not formal office; the living and the mummified dead together constitute the community.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is ad hoc — a sea m
 
 __External Relations & Posture:__ Relations with highland bands are generally peaceable, structured by exchange; no evidence of conquest, expansion, or territorial defense beyond the local camp.
 
+__Public Sentiment & Behavioral Temper:__ Trust extends across the band and into allied bands along the coast; the radius of confidence is limited but secure; sentiment is inferred from the care lavished on the dead, which implies belief in continuing bonds.
+
 __Disaffection, Apathy & Spent Will:__ The small scale and kin intimacy of the band limit the accumulation of disaffection; individuals who fall out may relocate; no evidence of collective apathy or exhaustion.
+
 
 ## D06. Informational Domain
 

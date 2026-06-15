@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry and local militias proliferate in the 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National humiliation — the Boxer Protocol, the indemnity, the foreign troops in Beijing — generates a patriotic rage that the reform press articulates. Anti-Manchu sentiment rises among Han Chinese; the Qing are blamed for weakness.
-
 __Leadership & Personal Authority:__ Empress Dowager Cixi dominates until her death (1908); the subsequent regency for the child emperor Puyi lacks authority. Reformers (Kang Youwei, Liang Qichao) and revolutionaries (Sun Yat-sen, Huang Xing) compete for the allegiance of overseas students and new intellectuals.
 
 __Legitimacy as Lived Allegiance:__ The dynasty's mandate is visibly draining. The constitutional movement raises hopes, then disappoints when the court postpones a parliament. By 1911, few are willing to die for the Qing.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will concentrates in the 
 
 __External Relations & Posture:__ The Qing must placate the powers that imposed the indemnity while fending off Japanese and Russian pressure in Manchuria. No leverage remains; posture is defensive.
 
+__Public Sentiment & Behavioral Temper:__ National humiliation — the Boxer Protocol, the indemnity, the foreign troops in Beijing — generates a patriotic rage that the reform press articulates. Anti-Manchu sentiment rises among Han Chinese; the Qing are blamed for weakness.
+
 __Disaffection, Apathy & Spent Will:__ Loyalism evaporates. Even officials and generals negotiate with revolutionaries rather than fight. The dynasty abdicates (February 1912) without a battle for Beijing.
+
 
 ## D06. Informational Domain
 

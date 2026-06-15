@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes are mediated by elders and diviners; c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is cautious optimism — agricultural expansion provides security, but drought and disease remain threats. Trust extends to kin and neighbors; strangers are treated warily. Collective memory emphasizes resilience and ancestral blessing.
-
 __Leadership & Personal Authority:__ Chiefs and big-men derive authority from lineage, oratory, generosity, and success in war or trade. Personal charisma matters; legitimacy is earned, not inherited, though chiefly lines begin to crystallize. Diviners and smiths hold specialized authority in their domains.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to lineage, chief, and ancestors. Legitimacy rests on reciprocity — chiefs who redistribute surplus and protect followers retain loyalty; those who fail lose followers to rivals. No abstract ideology supports rule; legitimacy is personal and performative.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action depends on consensus 
 
 __External Relations & Posture:__ Relations with neighboring communities are competitive but not existential; raiding alternates with alliance. Coastal communities engage peacefully with Indian Ocean traders, exchanging goods without military confrontation. No external power threatens the region in this window.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is cautious optimism — agricultural expansion provides security, but drought and disease remain threats. Trust extends to kin and neighbors; strangers are treated warily. Collective memory emphasizes resilience and ancestral blessing.
+
 __Disaffection, Apathy & Spent Will:__ Discontent finds outlet in migration — dissatisfied followers leave for new settlements. Apathy is rare in small-scale societies where participation is obligatory. The spent will of failed chiefs dissipates as followers realign; no mass disaffection accumulates.
+
 
 ## D06. Informational Domain
 

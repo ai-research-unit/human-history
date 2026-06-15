@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Tripartite conflict (Pratiharas, Rashtrakutas, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Bhakti devotional movements generate intense popular religious fervor — Tamil Shaiva Nayanars and Vaishnava Alvars achieve saint-poet status; devotional poetry widely sung and memorized; temple festivals channel collective emotional expression; regional dynastic loyalties maintained through patronage networks.
-
 __Leadership & Personal Authority:__ Chola rulers like Rajaraja I (985-1014 CE) cultivate elaborate divine associations — "one who took the head of the Chera, Pandya, and Sinhala kings"; Rashtrakuta kings claim universal sovereignty (samrat); inscriptions narrate royal prowess in war and piety in donation.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy grounded in military success, temple patronage, and Brahminical sanction; Brihadisvara temple inscription proclaims Rajaraja's donations in elaborate detail; bhakti saint-poets command devotional allegiance parallel to and sometimes exceeding royal claims; temple institutions accumulate legitimacy transcending dynastic cycles.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Chola state demonstrates sustained capa
 
 __External Relations & Posture:__ Chola embassies to China documented (1015 CE onward); maritime commercial and military relations with Southeast Asian kingdoms; Pratihara frontier position exposes north to Central Asian pressures; diplomatic marriages among regional dynasties.
 
+__Public Sentiment & Behavioral Temper:__ Bhakti devotional movements generate intense popular religious fervor — Tamil Shaiva Nayanars and Vaishnava Alvars achieve saint-poet status; devotional poetry widely sung and memorized; temple festivals channel collective emotional expression; regional dynastic loyalties maintained through patronage networks.
+
 __Disaffection, Apathy & Spent Will:__ Pratihara decline after 950 CE indicates exhaustion of northern state capacity; Rashtrakuta succession instability weakens central authority; however, regional structures remain resilient — local assemblies and temple institutions continue functioning through dynastic transitions.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Abbasid caliphate fragmented politically fr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Abbasid revolution of 750 CE channeled Iranian mawali resentment into regime change; the new order offered greater inclusion, shifting public sentiment from resentment to participation; the Samanid period saw confident patronage of Persian culture; the public temper was one of cultural confidence rather than subordination.
-
 __Leadership & Personal Authority:__ Abbasid caliphs initially commanded religious and political authority; as caliphal power waned, viziers and regional amirs assumed effective leadership; Samanid amirs patronized poets and scholars, exercising cultured leadership that defined the Persian renaissance; personal authority rested on military success, administrative competence, and cultural patronage.
 
 __Legitimacy as Lived Allegiance:__ Abbasid legitimacy claimed descent from the Prophet's family and divine mandate; Samanid legitimacy rested on Abbasid investiture and successful governance; allegiance was conditional on maintaining order, justice, and prosperity; the ulama served as legitimating authorities through their recognition of rulers.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The period demonstrated substantial pol
 
 __External Relations & Posture:__ The Abbasid caliphate engaged Byzantium, Central Asian Turks, and Tang China; the Samanids faced Turkic steppe pressure from the north and east; diplomatic and commercial relations extended across Eurasia; the posture was one of confident engagement, with the plateau as a commercial and cultural crossroads.
 
+__Public Sentiment & Behavioral Temper:__ The Abbasid revolution of 750 CE channeled Iranian mawali resentment into regime change; the new order offered greater inclusion, shifting public sentiment from resentment to participation; the Samanid period saw confident patronage of Persian culture; the public temper was one of cultural confidence rather than subordination.
+
 __Disaffection, Apathy & Spent Will:__ Abbasid central authority's decline generated factional competition rather than popular disaffection; the Samanid period channeled elite energy into cultural production; disaffection concentrated among Shi'i communities excluded from Sunni state structures; the emotional residue was the unresolved Sunni-Shi'i tension that would shape later Iranian history.
+
 
 ## D06. Informational Domain
 

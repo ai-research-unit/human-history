@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rising unemployment and industrial conflict—t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of malaise settles over the period, with economic decline, industrial strife, and the Troubles contrasting with the optimism of the 1960s; television both reflects and amplifies this darkening temper through news coverage, gritty drama, and satirical commentary.
-
 __Leadership & Personal Authority:__ Television transforms political leadership, with prime ministers from Heath to Callaghan adapting to the medium's demands; Wilson's mastery of television contrasts with Heath's awkwardness, while Thatcher's election in 1979 brings a leader who will reshape political communication through broadcast dominance.
 
 __Legitimacy as Lived Allegiance:__ Trust in institutions erodes through the period, with television coverage of political scandals, economic failures, and official deception contributing to growing skepticism; the BBC's reputation for impartiality comes under pressure from both left and right.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The three-day week, the Winter of Disco
 
 __External Relations & Posture:__ Britain's entry into the European Economic Community in 1973 receives extensive coverage, while the Falklands crisis of 1982 (though falling at the period's end) demonstrates television's power to shape national feeling about external conflicts and Britain's diminished global role.
 
+__Public Sentiment & Behavioral Temper:__ A mood of malaise settles over the period, with economic decline, industrial strife, and the Troubles contrasting with the optimism of the 1960s; television both reflects and amplifies this darkening temper through news coverage, gritty drama, and satirical commentary.
+
 __Disaffection, Apathy & Spent Will:__ By 1979, a widespread sense of national exhaustion and decline pervades public discourse, with television documentaries examining "the British disease" and dramas exploring social fragmentation; this spent collective will provides the emotional backdrop for Thatcherite transformation.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict between returnees and non-exiles, betw
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood oscillated between hope at restoration and disappointment at the modest scale of the rebuilt temple and community; Haggai and Zechariah urged confidence in divine blessing, while the reality of provincial insignificance tempered messianic expectation.
-
 __Leadership & Personal Authority:__ Zerubbabel, a Davidic descendant, and Joshua the high priest led the initial return; subsequent governors (Nehemiah) combined Persian authority with personal charisma, and the high priesthood emerged as the enduring leadership office as Davidic political hopes faded.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rested on Persian authorization, Davidic memory, and Torah covenant; the community's allegiance was to the Torah as the charter of communal life, and Ezra's public reading of the law (~450 BCE) dramatized the transfer of ultimate authority from king to scripture.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to rebuild the temple, wall, a
 
 __External Relations & Posture:__ Yehud maintained correct relations with the Persian court, securing authorizations for temple and wall construction; relations with neighboring provinces (Samaria, Ammon, Arabia) were tense, marked by opposition to rebuilding efforts, but the province lacked the capacity for independent diplomacy or military posture.
 
+__Public Sentiment & Behavioral Temper:__ The mood oscillated between hope at restoration and disappointment at the modest scale of the rebuilt temple and community; Haggai and Zechariah urged confidence in divine blessing, while the reality of provincial insignificance tempered messianic expectation.
+
 __Disaffection, Apathy & Spent Will:__ The disappointment of unfulfilled messianic hopes and the burden of maintaining strict observance in a small, poor community generated latent disaffection; the prophets of the period addressed this weariness, and the literary achievement of Torah compilation channeled spent will into textual devotion.
+
 
 ## D06. Informational Domain
 

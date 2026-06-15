@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Livedoor scandal (2006) exposes tensions be
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-bubble malaise and economic anxiety persist, with broadcast coverage of economic stagnation, corporate scandals, and social problems (hikikomori, declining birthrates) reflecting and reinforcing public unease while internet forums amplify grievances outside broadcast mediation.
-
 __Leadership & Personal Authority:__ Prime Minister Koizumi (2001-2006) masters television presentation with theatrical populist style, demonstrating broadcast's continued political salience while his successors (Abe, Fukuda, Aso) struggle with television appearances and suffer rapid turnover.
 
 __Legitimacy as Lived Allegiance:__ Trust in established media remains relatively high compared to internet sources, but generational divergence emerges as younger cohorts increasingly rely on peer networks and internet platforms for information, reducing broadcast authority among youth.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Digital transition proceeds as national
 
 __External Relations & Posture:__ Japanese content (anime, drama, J-pop) circulates regionally through satellite and internet distribution, representing soft power projection, while concerns about South Korean content (Korean Wave) competing for domestic attention generate mixed nationalist and commercial responses.
 
+__Public Sentiment & Behavioral Temper:__ Post-bubble malaise and economic anxiety persist, with broadcast coverage of economic stagnation, corporate scandals, and social problems (hikikomori, declining birthrates) reflecting and reinforcing public unease while internet forums amplify grievances outside broadcast mediation.
+
 __Disaffection, Apathy & Spent Will:__ Political apathy among youth cohorts correlates with declining television news viewership and reduced electoral participation, while online nihilism (particularly in anonymous forums) expresses disaffection that broadcast media cannot address or contain.
+
 
 ## D06. Informational Domain
 

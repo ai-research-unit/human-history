@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission — 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Climatic instability may induce collective anxiety during Younger Dryas cooling; warming periods likely correlate with optimism and spatial expansion; the radius of trust extends to kin and allied bands.
-
 __Leadership & Personal Authority:__ Leadership is situational and earned — the skilled hunter, the persuasive speaker, the knowledgeable elder — not inherited or formalized.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy inheres in demonstrated competence and fair dealing; oral reputation is the currency of authority; betrayal of trust leads to exclusion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is local and immediat
 
 __External Relations & Posture:__ Relations with other bands are personal and remembered; hostility is possible but not institutionalized; alliance and exchange networks maintain peace.
 
+__Public Sentiment & Behavioral Temper:__ Climatic instability may induce collective anxiety during Younger Dryas cooling; warming periods likely correlate with optimism and spatial expansion; the radius of trust extends to kin and allied bands.
+
 __Disaffection, Apathy & Spent Will:__ Small-scale society absorbs disaffection through mobility; the discontented leave; apathy is not a collective condition where survival demands active participation.
+
 
 ## D06. Informational Domain
 

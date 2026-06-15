@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Exclusion errors cause documented welfare denia
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Early enthusiasm for corruption reduction coexists with growing anxiety about surveillance. Urban middle classes broadly accept the convenience; rural poor experience the system as alternately helpful and arbitrarily denying.
-
 __Leadership & Personal Authority:__ Nandan Nilekani, the technology entrepreneur who designed Aadhaar, carries personal authority as its architect and defender, framing the system as developmental infrastructure rather than surveillance tool.
 
 __Legitimacy as Lived Allegiance:__ The system draws legitimacy from successful welfare delivery and convenience, but loses it with each publicized denial of food or pension due to authentication failure.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The BJP government expands Aadhaar link
 
 __External Relations & Posture:__ India promotes Aadhaar internationally as a model for developing-country identity systems, with the World Bank praising it as enabling financial inclusion at scale.
 
+__Public Sentiment & Behavioral Temper:__ Early enthusiasm for corruption reduction coexists with growing anxiety about surveillance. Urban middle classes broadly accept the convenience; rural poor experience the system as alternately helpful and arbitrarily denying.
+
 __Disaffection, Apathy & Spent Will:__ Those repeatedly denied services due to biometric failures develop helpless resignation. Privacy activists maintain opposition but face limited public mobilization, with most citizens accepting Aadhaar as unavoidable infrastructure.
+
 
 ## D06. Informational Domain
 

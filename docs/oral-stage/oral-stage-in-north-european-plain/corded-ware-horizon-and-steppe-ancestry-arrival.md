@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence between Corded Ware groups and against
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment is unrecoverable, but the martial emphasis in burial, the mobility, and the rapid expansion suggest confidence and aggressive collective temper among incoming groups; indigenous populations may have experienced fear, displacement, and subordination.
-
 __Leadership & Personal Authority:__ Leaders were likely war-chiefs whose authority rested on personal prowess, success in raiding, and persuasive speech at assembly; no sacral kingship is attested; authority was situational and competitive rather than institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attached to kin, lineage, and successful leaders rather than to offices or territories; legitimacy was won through reputation transmitted orally; the rapid expansion suggests followers willing to migrate under effective leaders.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilized for migration
 
 __External Relations & Posture:__ Relations with indigenous Funnel Beaker and Globular Amphora populations ranged from intermarriage (particularly with indigenous women) to violent displacement; relations among Corded Ware groups involved alliance, feud, and competitive expansion; no organized diplomacy.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment is unrecoverable, but the martial emphasis in burial, the mobility, and the rapid expansion suggest confidence and aggressive collective temper among incoming groups; indigenous populations may have experienced fear, displacement, and subordination.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of internal disaffection within the expanding horizon; the emotional residue among displaced indigenous populations is unrecoverable but can be inferred as despair and subordination where survival occurred.
+
 
 ## D06. Informational Domain
 

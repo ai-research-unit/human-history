@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Regional resentments (Western alienation, Quebe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Canadian broadcasting cultivates moderate, consensus-seeking national temperament distinct from more polarized American style; hockey broadcasts provide periodic moments of intense shared emotion.
-
 __Leadership & Personal Authority:__ CBC personalities (Peter Gzowski, Barbara Frum, Knowlton Nash, Peter Mansbridge) become figures of national trust; francophone Radio-Canada develops parallel roster.
 
 __Legitimacy as Lived Allegiance:__ CBC's legitimacy rests on claim to serve all Canadians and reflect Canadian experience back to itself; this claim is contested by those who see the corporation as Toronto-centric, elitist, or insufficiently popular.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcasting serves nation-building pur
 
 __External Relations & Posture:__ Canadian broadcasting defines itself against American cultural dominance; the relationship is defensive, seeking to maintain distinct Canadian voice and space against overwhelming neighbor.
 
+__Public Sentiment & Behavioral Temper:__ Canadian broadcasting cultivates moderate, consensus-seeking national temperament distinct from more polarized American style; hockey broadcasts provide periodic moments of intense shared emotion.
+
 __Disaffection, Apathy & Spent Will:__ By 2005, younger Canadians show declining attachment to Canadian broadcast content, preferring American programming available through cable and satellite; CBC struggles to maintain relevance and audience share against fragmented competition.
+
 
 ## D06. Informational Domain
 

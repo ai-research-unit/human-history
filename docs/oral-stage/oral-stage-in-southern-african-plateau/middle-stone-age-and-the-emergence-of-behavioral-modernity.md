@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is inferred to be cautious optimism modulated by climatic variability; trust extends within the band and to allied bands, while strangers are approached with wariness — the radius of trust is small but deep.
-
 __Leadership & Personal Authority:__ Leadership is achieved, not ascribed; skilled hunters, knowledgeable elders, and charismatic individuals command influence without coercive power — authority rests on demonstrated competence and generosity.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the band is lived rather than formalized; individuals belong because belonging confers survival advantage and emotional security — disaffection is expressed by departure rather than rebellion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action — hunts, moves, def
 
 __External Relations & Posture:__ Relations with other bands range from alliance and intermarriage to avoidance and occasional violence; no posture of expansion or conquest — the affective stance toward outsiders is cautious neutrality punctuated by episodic contact.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is inferred to be cautious optimism modulated by climatic variability; trust extends within the band and to allied bands, while strangers are approached with wariness — the radius of trust is small but deep.
+
 __Disaffection, Apathy & Spent Will:__ Individual disaffection leads to departure; collective apathy is unknown in a social order where participation is survival — the residue of spent will does not accumulate because the structure is too fluid to trap it.
+
 
 ## D06. Informational Domain
 

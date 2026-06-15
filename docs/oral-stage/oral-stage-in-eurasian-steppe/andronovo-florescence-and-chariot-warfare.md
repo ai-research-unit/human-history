@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through raiding, feu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The temper is martial and confident; the chariot elite project an ethos of warrior honor that will echo through Indo-Iranian tradition. Trust extends through kinship and hospitality; the stranger is a potential enemy or a potential guest. The expansionary phase continues; the mood is one of opportunity and competition for prestige.
-
 __Leadership & Personal Authority:__ The chariot-owning chief leads through martial prowess, generosity, and the spoken word. The chariot itself is a symbol of authority — the vehicle of the hero. Leadership is personal and charismatic; the chief who wins battles and distributes bronze commands followers. Authority must be rebuilt in each generation.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal, tied to the successful war-leader and generous patron. The chariot burial establishes the dead chief's claim to ancestral honor; the living heir must prove himself anew. Legitimacy is spoken and witnessed at the assembly; it is not codified or inheritable as office.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized for war,
 
 __External Relations & Posture:__ The posture is expansionary; Andronovo influence spreads east to the Altai and Xinjiang, south toward the oases of Central Asia. Chariots and bronze metallurgy diffuse outward, reaching China and the Near East. Relations with sedentary agriculturalists in the oases are complex — trade, raiding, and possibly conquest coexist. The chariot elite project power over vast distances.
 
+__Public Sentiment & Behavioral Temper:__ The temper is martial and confident; the chariot elite project an ethos of warrior honor that will echo through Indo-Iranian tradition. Trust extends through kinship and hospitality; the stranger is a potential enemy or a potential guest. The expansionary phase continues; the mood is one of opportunity and competition for prestige.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection in the florescent phase; the cultural complex is expanding and vital. Spent will may appear at the individual level — the failed chief, the abandoned settlement — but the aggregate trajectory is one of growth and diffusion.
+
 
 ## D06. Informational Domain
 

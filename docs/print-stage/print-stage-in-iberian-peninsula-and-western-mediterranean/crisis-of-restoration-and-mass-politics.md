@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Tragic Week of 1909 burns eighty religious 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 1898 Disaster generates desencanto—national disillusion—captured by Generation of 98 writers; regenerationist mood demands modernization but fragments into incompatible programs; Catalan sentiment hardens after Tragic Week repression.
-
 __Leadership & Personal Authority:__ Canovas's assassination (1897) leaves no equivalent statesman; Antonio Maura attempts reform but falls to the Tragic Week backlash; Dato oscillates; Alfonso XIII intervenes erratically, undermining constitutional distance.
 
 __Legitimacy as Lived Allegiance:__ Republican sentiment grows in urban centers; Catalan nationalism gains mass adherence after the Solidaritat Catalana coalition of 1906; Basque nationalism consolidates around the PNV; working-class loyalty shifts to unions and parties, not the crown.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The turno paralyzes reform; the 1917 cr
 
 __External Relations & Posture:__ Neutrality in World War I reflects weakness, not choice; Morocco absorbs military attention without strategic return; the League of Nations seat (1920) provides rhetorical prestige but no leverage.
 
+__Public Sentiment & Behavioral Temper:__ The 1898 Disaster generates desencanto—national disillusion—captured by Generation of 98 writers; regenerationist mood demands modernization but fragments into incompatible programs; Catalan sentiment hardens after Tragic Week repression.
+
 __Disaffection, Apathy & Spent Will:__ Electoral abstention rises in urban districts where caciquismo cannot reach; anarchist abstencionismo rejects parliamentary participation; the Annual disaster exhausts public patience with both the military and the monarchy.
+
 
 ## D06. Informational Domain
 

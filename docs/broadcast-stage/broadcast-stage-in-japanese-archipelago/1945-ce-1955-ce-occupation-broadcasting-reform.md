@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Postwar disorder (crime, black markets, vagranc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Defeat trauma, humiliation, and disorientation 1945–1947; gradual recovery of confidence with economic stabilization; Korean War boom shifts mood toward pragmatic reconstruction; trust in institutions rebuilds slowly; the radius of interpersonal trust widened by shared hardship and recovery.
-
 __Leadership & Personal Authority:__ Emperor Hirohito retained but desacralized (renounces divinity, January 1, 1946); General Douglas MacArthur exercises supreme authority 1945–1951; Prime Minister Yoshida Shigeru (1948–1954) shapes postwar political consensus; personal authority shifts from military to civilian and external to domestic.
 
 __Legitimacy as Lived Allegiance:__ Occupation legitimacy rests on force and aid; new Constitution provides democratic legitimacy after 1947; imperial institution retained as symbol, allegiance depoliticized; LDP hegemony (from 1955) consolidates a new legitimacy based on growth and stability.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Initial passivity under occupation; rev
 
 __External Relations & Posture:__ Occupied status 1945–1952; San Francisco Treaty restores sovereignty but security treaty binds Japan to American alliance; Cold War alignment shapes external posture; relations with Asian neighbors (China, Korea) remain fraught; posture is subordinate alliance within American hegemony.
 
+__Public Sentiment & Behavioral Temper:__ Defeat trauma, humiliation, and disorientation 1945–1947; gradual recovery of confidence with economic stabilization; Korean War boom shifts mood toward pragmatic reconstruction; trust in institutions rebuilds slowly; the radius of interpersonal trust widened by shared hardship and recovery.
+
 __Disaffection, Apathy & Spent Will:__ Defeat exhaustion persists through 1947; political apathy among war-weary populace; radical left (Communist Party) and nationalist right represent disaffection but remain marginal; the spent will of 1945 refills through economic recovery — disaffection residue is cleared, not accreted.
+
 
 ## D06. Informational Domain
 

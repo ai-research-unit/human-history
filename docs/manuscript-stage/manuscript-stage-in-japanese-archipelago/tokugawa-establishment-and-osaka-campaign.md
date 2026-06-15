@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The destruction of Toyotomi Osaka eliminates th
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ War-weariness pervades after decades of conflict; the prospect of stable rule generates cautious optimism among commoners and daimyō alike; uncertainty persists until Osaka's destruction confirms Tokugawa supremacy.
-
 __Leadership & Personal Authority:__ Tokugawa Ieyasu (d. 1616) commands personal loyalty earned through decades of military and political success; his transfer of the shogunal title to Hidetada (1605) while retaining actual power demonstrates the construction of institutional legitimacy alongside personal charisma.
 
 __Legitimacy as Lived Allegiance:__ Imperial appointment as shogun (1603) provides formal legitimacy; Buddhist and Shinto institutions support the new order; daimyō accept Tokugawa hegemony as preferable to renewed warfare; defeated loyalists retain covert resentment that expires with the Osaka survivors.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Tokugawa demonstrate sustained will
 
 __External Relations & Posture:__ The bakufu inherits Hideyoshi's failed Korean campaigns and abandons continental ambitions; diplomatic contact with Korea resumes (1607 embassy); European powers are managed through restricted trade at Nagasaki; the Red Seal ship system regulates Japanese merchant ventures abroad.
 
+__Public Sentiment & Behavioral Temper:__ War-weariness pervades after decades of conflict; the prospect of stable rule generates cautious optimism among commoners and daimyō alike; uncertainty persists until Osaka's destruction confirms Tokugawa supremacy.
+
 __Disaffection, Apathy & Spent Will:__ Toyotomi loyalists concentrate at Osaka until 1615; their destruction eliminates active resistance but not all resentment; ronin carry suppressed grievance that occasionally erupts in individual violence; the broader population accepts pacification with relief rather than enthusiasm.
+
 
 ## D06. Informational Domain
 

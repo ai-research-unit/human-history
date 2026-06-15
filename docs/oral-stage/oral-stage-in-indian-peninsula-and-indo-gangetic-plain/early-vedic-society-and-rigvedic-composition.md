@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Raiding and inter-tribal warfare are endemic bu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A warrior ethos valorizes courage, generosity, and cattle-wealth; trust operates within kin and clan, contracting sharply beyond; mood is confident and expansionist among successful tribes, anxious among those under pressure.
-
 __Leadership & Personal Authority:__ The rajan commands through martial prowess, generosity in distribution, and ritual sanction provided by brahmin priests; personal charisma and success in war are the sources of authority; succession is contested among eligible kinsmen.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and tribal, not territorial; the rajan's legitimacy rests on his ability to provide victory and prosperity; failure erodes allegiance quickly; priests validate authority through ritual but do not monopolize it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Tribal councils deliberate on war and m
 
 __External Relations & Posture:__ Tribes compete for territory and cattle; alliances shift; the Bharata tribe's victory at the Battle of the Ten Kings (dasharajna) establishes temporary dominance; relations with dasa populations range from warfare to incorporation.
 
+__Public Sentiment & Behavioral Temper:__ A warrior ethos valorizes courage, generosity, and cattle-wealth; trust operates within kin and clan, contracting sharply beyond; mood is confident and expansionist among successful tribes, anxious among those under pressure.
+
 __Disaffection, Apathy & Spent Will:__ Defeated tribes disperse or submit; individual disaffection is absorbed through migration or exile; no standing apathy or exhaustion is evident in this expansionist phase.
+
 
 ## D06. Informational Domain
 

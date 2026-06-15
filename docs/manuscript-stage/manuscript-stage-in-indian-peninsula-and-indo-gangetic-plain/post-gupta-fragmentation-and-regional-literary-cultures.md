@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Recurrent interstate warfare between Chalukyas 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Regional dynastic loyalties crystallizing; devotional (bhakti) movements generating fervent popular religious sentiment that bypasses caste hierarchy in spiritual terms while reinforcing temple-centered social organization.
-
 __Leadership & Personal Authority:__ Kings cultivate divine associations — Pallava rulers claim Shiva's favor, Chalukyas Vishnu's — legitimating personal authority through inscribed claims of cosmic sanction and military prowess.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy grounded in military success, temple patronage, and Brahminical sanction; inscriptions broadcasting victories and donations reinforce claims; bhakti poetry directing devotion to deities rather than kings creates parallel legitimacy structures for religious institutions.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Interstate competition between Chalukya
 
 __External Relations & Posture:__ Diplomatic missions recorded — Harsha's exchanges with Tang China, maritime contacts with Southeast Asian kingdoms; competitive temple-building between Chalukyas and Pallavas functions as symbolic interstate rivalry.
 
+__Public Sentiment & Behavioral Temper:__ Regional dynastic loyalties crystallizing; devotional (bhakti) movements generating fervent popular religious sentiment that bypasses caste hierarchy in spiritual terms while reinforcing temple-centered social organization.
+
 __Disaffection, Apathy & Spent Will:__ Harsha's empire collapses rapidly after his death (647 CE), suggesting shallow institutional roots for centralized rule; regional kingdoms prove more durable, suggesting popular allegiance operates at regional rather than subcontinental scale.
+
 
 ## D06. Informational Domain
 

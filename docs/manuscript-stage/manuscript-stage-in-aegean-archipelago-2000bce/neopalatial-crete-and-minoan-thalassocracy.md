@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction channels through religious fest
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Neopalatial period projects confidence — monumental architecture, naturalistic art, maritime expansion — suggesting positive public sentiment and collective investment in the palatial order; the radius of trust extends across the thalassocratic sphere.
-
 __Leadership & Personal Authority:__ Palatial rulers concentrate authority, possibly combining political and religious roles; the title "Minos" preserved in Greek tradition may reflect a royal title or legendary king; personal leadership style emphasizes religious legitimation and redistributive generosity rather than overt military display.
 
 __Legitimacy as Lived Allegiance:__ Palatial legitimacy appears secure, grounded in religious sanction, economic prosperity, and the absence of visible domestic challenge; the population's allegiance is inferred from the system's stability and elaboration.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Palatial elites demonstrate collective 
 
 __External Relations & Posture:__ Crete projects influence across the Aegean through trade, settlement, and cultural prestige; relations with Egypt appear peaceful and commercial (Keftiu depicted in Egyptian tomb paintings bringing gifts/trade goods); relations with the Greek mainland involve trade and cultural influence, with Minoans shaping early Mycenaean elite culture; the posture is expansive but apparently commercial rather than militarily aggressive.
 
+__Public Sentiment & Behavioral Temper:__ The Neopalatial period projects confidence — monumental architecture, naturalistic art, maritime expansion — suggesting positive public sentiment and collective investment in the palatial order; the radius of trust extends across the thalassocratic sphere.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of disaffection within Crete; the Thera eruption may have strained the system but did not break it; the destructions around 1,450 BCE reflect external shock (Mycenaean conquest) rather than internal collapse of will.
+
 
 ## D06. Informational Domain
 

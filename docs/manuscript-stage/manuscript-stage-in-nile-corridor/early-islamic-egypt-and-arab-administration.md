@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Tax revolts among Copts (notably 725–726 CE, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Coptic population accepts Arab rule with resignation — Byzantine persecution had alienated them, and initial Arab terms are tolerable; gradual fiscal pressure and episodic discrimination generate resentment without sustained resistance until the 9th-century revolts.
-
 __Leadership & Personal Authority:__ Arab governors (amirs) hold political-military authority; the Coptic patriarch commands spiritual allegiance of the Christian majority; prominent Muslim jurists and scholars begin to establish religious authority.
 
 __Legitimacy as Lived Allegiance:__ The caliphate holds legitimate authority over Muslim Arabs; Copts accept subordinate status within the dhimmi framework; Byzantine legitimacy among Copts is extinct.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Arab elite maintains coherent will 
 
 __External Relations & Posture:__ Egypt serves as a base for caliphal expansion into North Africa (conquest of Ifriqiya, ultimately al-Andalus) and for naval operations against Byzantium; campaigns into Nubia end in stalemate (the Baqt treaty establishes tribute-exchange relationship).
 
+__Public Sentiment & Behavioral Temper:__ The Coptic population accepts Arab rule with resignation — Byzantine persecution had alienated them, and initial Arab terms are tolerable; gradual fiscal pressure and episodic discrimination generate resentment without sustained resistance until the 9th-century revolts.
+
 __Disaffection, Apathy & Spent Will:__ Coptic disaffection accumulates as fiscal pressure increases and conversion thins the Christian majority; the failure of the Bashmurite revolts (finally crushed 832 CE) marks the exhaustion of overt Coptic resistance.
+
 
 ## D06. Informational Domain
 

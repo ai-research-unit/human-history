@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The prohibition on colonial printing generates 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A culture of caution pervades Portuguese letters — awareness of Inquisition surveillance, suspicion of heterodoxy, preference for the safe topic over the bold argument.
-
 __Leadership & Personal Authority:__ The Marquis of Pombal (1750–1777) exemplifies how a powerful minister can reshape print culture, expelling the Jesuits, reforming the university, and promoting Enlightened publications while maintaining censorship.
 
 __Legitimacy as Lived Allegiance:__ The Crown's legitimacy is enhanced by print — royal edicts, chronicles of imperial glory, devotional texts affirming divine favor; print serves the monarchy's self-presentation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to maintain the colonial print
 
 __External Relations & Posture:__ Portugal's alliance with Britain after 1703 permits some British intellectual influence; the Amsterdam Portuguese-Jewish community publishes works that circulate clandestinely; Portugal is open to the Atlantic but guarded against heterodoxy.
 
+__Public Sentiment & Behavioral Temper:__ A culture of caution pervades Portuguese letters — awareness of Inquisition surveillance, suspicion of heterodoxy, preference for the safe topic over the bold argument.
+
 __Disaffection, Apathy & Spent Will:__ Colonial elites grow disaffected with metropolitan control of print; Brazilian independence channels this resentment into a new national publishing culture; Portuguese print culture thereafter is diminished, provincial.
+
 
 ## D06. Informational Domain
 

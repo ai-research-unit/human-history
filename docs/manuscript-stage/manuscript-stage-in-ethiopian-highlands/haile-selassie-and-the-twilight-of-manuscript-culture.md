@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Italian occupation generated massive disorder â
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pre-invasion confidence, grounded in the Adwa legacy, gave way to shock at defeat; occupation bred a mixture of sullen compliance and covert resistance; liberation restored national pride, amplified by Haile Selassie's exile and return as symbols of continuity.
-
 __Leadership & Personal Authority:__ Haile Selassie concentrated personal authority as no emperor since Menelik, projecting modernizing competence and divine-right legitimacy; his exile (1936â€“1941) paradoxically elevated his symbolic stature; the League of Nations speech (1936) made him an international symbol of resistance to fascism.
 
 __Legitimacy as Lived Allegiance:__ The Solomonic claim, the church's blessing, and victory at Adwa underwrote Haile Selassie's legitimacy; defeat and exile tested but did not break allegiance; liberation renewed the covenant between emperor and people.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Haile Selassie's will to modernize drov
 
 __External Relations & Posture:__ Ethiopia joined the League of Nations (1923), seeking collective security; the League's failure to halt Italian aggression discredited collective security and left Ethiopia diplomatically isolated; liberation came through British strategic interest in East Africa, not multilateral action; post-war Ethiopia aligned with the Allies.
 
+__Public Sentiment & Behavioral Temper:__ Pre-invasion confidence, grounded in the Adwa legacy, gave way to shock at defeat; occupation bred a mixture of sullen compliance and covert resistance; liberation restored national pride, amplified by Haile Selassie's exile and return as symbols of continuity.
+
 __Disaffection, Apathy & Spent Will:__ Defeat bred demoralization; occupation bred sullen withdrawal from public life; liberation re-anchored collective will, though the trauma of abandonment by the League left residual distrust of international institutions.
+
 
 ## D06. Informational Domain
 

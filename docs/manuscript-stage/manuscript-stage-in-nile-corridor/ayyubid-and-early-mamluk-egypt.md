@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession crises produce assassinations and co
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Crusader and Mongol threats galvanize solidarity; Mamluk victories (Ain Jalut, Acre) generate pride; post-plague, grief and disorientation give way to resignation and intensified piety; trust in rulers is conditional on their military success.
-
 __Leadership & Personal Authority:__ Saladin (1171–1193 CE) enjoys charisma as liberator of Jerusalem; Baybars and Qalawun command fear and respect; al-Nasir Muhammad's long reign (1310–1341) represents stability; post-1341, rapid sultan turnover erodes personal authority.
 
 __Legitimacy as Lived Allegiance:__ Sultans claim to defend Islam against infidels and heretics; patronage of ulama, Sufi shaykhs, and public works builds legitimacy; Abbasid caliph (refugee from Baghdad, 1261) resides in Cairo as puppet, conferring nominal investiture.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will to resist Crusaders and Mongols is
 
 __External Relations & Posture:__ Ayyubids and Mamluks define themselves against Crusaders (expelled 1291), Mongols (defeated 1260, repelled repeatedly), and Nubian and Anatolian rivals; diplomatic relations with Byzantium, Italian city-states, and Golden Horde; trade treaties with Venice and Genoa.
 
+__Public Sentiment & Behavioral Temper:__ Crusader and Mongol threats galvanize solidarity; Mamluk victories (Ain Jalut, Acre) generate pride; post-plague, grief and disorientation give way to resignation and intensified piety; trust in rulers is conditional on their military success.
+
 __Disaffection, Apathy & Spent Will:__ Late Bahri period sees amirial factionalism and public weariness; the Black Death is received with fatalist resignation; by 1382, the system's internal contradictions—dependence on slave importation, factional instability, plague-diminished revenues—leave it brittle.
+
 
 ## D06. Informational Domain
 

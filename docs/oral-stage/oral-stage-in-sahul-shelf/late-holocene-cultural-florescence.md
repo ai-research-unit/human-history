@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict is endemic but localized — disputes 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of embeddedness in country and kin; trust extends through kinship networks; suspicion attaches to strangers and those outside kinship obligation; risk is managed through divination and adherence to ancestral precedent; mood varies with seasonal conditions.
-
 __Leadership & Personal Authority:__ Leadership is situational and based on demonstrated competence — a skilled hunter leads the hunt, a senior ceremonial man directs ritual, an eloquent orator sways debate; no permanent offices of leadership exist; authority must be constantly performed.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from ancestral precedent and spiritual sanction; leaders who violate kinship norms or ceremonial protocol lose authority; allegiance is to country and kin rather than to individuals; the Dreaming ancestors provide the ultimate source of legitimate order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for ceremo
 
 __External Relations & Posture:__ Relations with neighboring groups are structured by kinship, language affiliation, and ceremonial networks; trading partnerships and marriage alliances connect groups across vast distances; warfare exists but is constrained by kinship obligations; New Guinea highland groups maintain more hostile external relations, with endemic inter-group warfare.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of embeddedness in country and kin; trust extends through kinship networks; suspicion attaches to strangers and those outside kinship obligation; risk is managed through divination and adherence to ancestral precedent; mood varies with seasonal conditions.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is localized to interpersonal grievance; systemic apathy or exhaustion is absent; the will to maintain ancestral order remains strong; spiritual vitality sustains commitment to the social fabric.
+
 
 ## D06. Informational Domain
 

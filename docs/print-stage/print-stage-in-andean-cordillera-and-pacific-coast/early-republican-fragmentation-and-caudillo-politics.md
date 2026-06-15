@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry flourishes in countryside; civil wars 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Cynicism about political promises is widespread; regional pride and loyalty to local strongmen supplant national sentiment; trust contracts to kin and patron-client networks; the radius of cooperation remains narrow.
-
 __Leadership & Personal Authority:__ Caudillos — Gamarra, Santa Cruz, Castilla in Peru; Portales, Bulnes in Chile; Ballivián in Bolivia — embody personal authority; charisma, military prowess, and patronage capacity determine followings; institutional office is secondary to personal power.
 
 __Legitimacy as Lived Allegiance:__ Constitutional legitimacy is nominal; effective allegiance flows to whoever controls resources and force; legitimacy is personal and transactional, not institutional or ideological.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Elite will is fragmented among competin
 
 __External Relations & Posture:__ Chile defeats the Peru-Bolivia Confederation (1836–1839), asserting regional primacy; Peru and Bolivia quarrel over boundaries and hegemony; foreign powers — Britain, France, the United States — intervene to protect commercial interests and debts.
 
+__Public Sentiment & Behavioral Temper:__ Cynicism about political promises is widespread; regional pride and loyalty to local strongmen supplant national sentiment; trust contracts to kin and patron-client networks; the radius of cooperation remains narrow.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion from recurrent civil war produces political apathy among urban populations; disaffection from republican promises spreads as constitutions change without material improvement; spent will is general except where guano wealth revives hope in Peru.
+
 
 ## D06. Informational Domain
 

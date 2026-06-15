@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The American Bottom remains largely abandoned; 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Palisade construction and warfare evidence suggest anxiety and defensive posture; population does not aggregate as at Cahokia but clusters in fortified towns; trust radius likely narrow — within kin and polity, not across the region; temper is wary and competitive.
-
 __Leadership & Personal Authority:__ Paramount chiefs command within their polities; de Soto chroniclers describe powerful chiefs (Cofitachequi's "Lady," Tascalusa, Coosa's chief) with elaborate retinues and protocol; personal authority is concentrated but contested; succession is a flashpoint for instability.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on cosmological sanction, redistribution, and military success; failure in any dimension erodes allegiance; cycling suggests legitimacy is fragile — chiefs who lose wars or harvests lose followers; allegiance is conditional and retractable.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will sufficient to maintain palisades, 
 
 __External Relations & Posture:__ Chiefdoms compete through warfare, alliance, and prestige display; no hegemonic power; posture is simultaneously hostile (raiding, trophy-taking) and interactive (exchange, emulation of SECC forms); external relations are multipolar and unstable.
 
+__Public Sentiment & Behavioral Temper:__ Palisade construction and warfare evidence suggest anxiety and defensive posture; population does not aggregate as at Cahokia but clusters in fortified towns; trust radius likely narrow — within kin and polity, not across the region; temper is wary and competitive.
+
 __Disaffection, Apathy & Spent Will:__ Moundville's contraction to ceremonial site suggests spent will — population disperses, investment in monumentality ceases; Cahokia region remains emptied; disaffection implicit in out-migration and reduced elite investment; the affective residue is fragmentation and defensive withdrawal.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Khaled Said case (June 2010) — a young ma
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear of the security state eroded as collective action through digital coordination demonstrated safety in numbers; the "barrier of fear" Egyptians described breaking during the eighteen days marked an emotional phase transition that broadcast-era control had prevented.
-
 __Leadership & Personal Authority:__ Mubarak's authority hollowed over three decades; the February 1, 2011 speech promising not to seek reelection — broadcast on state television — failed to satisfy demands that had moved beyond what broadcast appeals could contain.
 
 __Legitimacy as Lived Allegiance:__ The gap between state television's portrayal of Mubarak as father-figure and lived experience of corruption and brutality widened until Al Jazeera's coverage of Tahrir provided the external validation that collapsed domestic broadcast credibility entirely.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Digital organization crystallized diffu
 
 __External Relations & Posture:__ The Obama administration's evolving posture — from support for stability to calls for transition — played out through international broadcasts that Egyptian audiences accessed via satellite, undermining state television's framing of foreign interference.
 
+__Public Sentiment & Behavioral Temper:__ Fear of the security state eroded as collective action through digital coordination demonstrated safety in numbers; the "barrier of fear" Egyptians described breaking during the eighteen days marked an emotional phase transition that broadcast-era control had prevented.
+
 __Disaffection, Apathy & Spent Will:__ The revolutionary moment channeled accumulated disaffection into collective action, but the post-Mubarak period (SCAF rule, Morsi election) revealed how quickly revolutionary will could exhaust itself without institutional transformation — a dynamic the broadcast-era framework could neither prevent nor resolve.
+
 
 ## D06. Informational Domain
 

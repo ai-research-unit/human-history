@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict management expands to the inter-band s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment varies by region and circumstance. Coastal and riverine populations enjoying resource abundance are confident and expansive. Interior populations facing harsher conditions are more cautious. The overall temper is exploratory and adaptive — this is still a colonizing population. Trust extends reliably within the band and kinship network; inter-group relations are more variable, ranging from alliance to avoidance to occasional violence. The radius of trust is widening as ceremonial networks integrate regions.
-
 __Leadership & Personal Authority:__ Leadership remains situational and personal. Elders lead ritual and dispute resolution. Skilled individuals lead in their domain of expertise. No permanent leadership crystallizes. Authority is earned and revocable; it does not survive failure.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is grounded in kinship, competence, and conformity to ancestral law. Leaders who violate norms lose legitimacy immediately. There is no abstract political authority; allegiance is to persons and to the Dreaming, not to offices.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is focused on territori
 
 __External Relations & Posture:__ External relations are now inter-group rather than non-existent. Groups maintain alliance (through marriage and ceremony), neutrality, or enmity with neighbors. Posture varies: some groups expand into unoccupied territory; others consolidate established country. Competition for territory intensifies as population fills the continent. Leverage is through kinship connections, ritual prestige, and, occasionally, capacity for violence.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment varies by region and circumstance. Coastal and riverine populations enjoying resource abundance are confident and expansive. Interior populations facing harsher conditions are more cautious. The overall temper is exploratory and adaptive — this is still a colonizing population. Trust extends reliably within the band and kinship network; inter-group relations are more variable, ranging from alliance to avoidance to occasional violence. The radius of trust is widening as ceremonial networks integrate regions.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection may occur when groups fracture or when individuals are exiled, but it is localized and personal. No systemic disaffection or apathy is evident in a population still in expansion phase. Will is renewed by success in colonization and by the vitality of ceremonial life. Residue is minimal and cleared by mobility.
+
 
 ## D06. Informational Domain
 

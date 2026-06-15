@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Slave raiding generates ongoing violence in sou
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment at the empire's height reflects confidence in Soninke dominance and prosperity from trade; trust extends through kinship networks and patron-client ties; the Muslim merchant community maintains distinct solidarity; subordinate peoples harbor resentment beneath compliance; anxiety rises with Almoravid pressure and later fragmentation.
-
 __Leadership & Personal Authority:__ The king (ghana, a title rather than name) embodies personal authority: al-Bakri describes elaborate court ritual designed to project majesty; royal charisma enhanced by religious associations (the king as sacred figure, mediating with ancestors and spirits); griots amplify royal prestige through performed genealogy and praise; succession passes to capable sister's sons, selecting for demonstrated ability.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from successful protection, prosperous trade, and sacred-royal status; the king's refusal to convert to Islam (maintaining traditional religion while tolerating Muslim traders) preserves legitimacy among the Soninke majority; tributary peoples comply from calculation rather than deep allegiance; legitimacy erodes when protection fails (Almoravid invasion) and trade routes shift.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will concentrates in the roya
 
 __External Relations & Posture:__ External relations center on North African trade partners and the Almoravid threat; the empire maintains commercial relations with Muslim states while resisting religious conversion of the ruling dynasty; diplomatic gifts and trade agreements govern relations; the Almoravid attack (1076 CE) represents external military pressure, met with resistance and eventual accommodation; no territorial expansion beyond established limits.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment at the empire's height reflects confidence in Soninke dominance and prosperity from trade; trust extends through kinship networks and patron-client ties; the Muslim merchant community maintains distinct solidarity; subordinate peoples harbor resentment beneath compliance; anxiety rises with Almoravid pressure and later fragmentation.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection concentrates among subordinate tribute-paying peoples and the enslaved; Berber groups like the Sanhaja resent Soninke dominance; the Almoravid movement channels religious-political disaffection; by the late window, exhaustion of the political order manifests in fragmentation — tributary polities break away, the center loses capacity to enforce compliance, and successor states (Sosso, early Mali) emerge from the wreckage.
+
 
 ## D06. Informational Domain
 

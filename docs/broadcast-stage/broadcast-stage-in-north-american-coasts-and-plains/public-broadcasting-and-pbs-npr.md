@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Funding crises recur cyclically as political op
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public broadcasting cultivates measured, thoughtful discourse that contrasts with commercial media's emotional appeals; this temperament attracts audiences seeking refuge from sensationalism but limits mass appeal.
-
 __Leadership & Personal Authority:__ Individual program hosts achieve personal authority within public broadcasting — Fred Rogers, Bill Moyers, Jim Lehrer, Nina Totenberg — their credibility deriving from longevity, expertise, and perceived independence from commercial pressure.
 
 __Legitimacy as Lived Allegiance:__ Public broadcasting's legitimacy rests on viewer loyalty demonstrated through donations; the voluntary nature of this support — roughly one-third of funding by 2005 — provides democratic validation but creates dependence on affluent donors.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Congressional support for public broadc
 
 __External Relations & Posture:__ American public broadcasting maintains extensive international relationships, co-producing documentaries with the BBC and importing programming from Britain; this cosmopolitan orientation distinguishes public from commercial media's domestic focus.
 
+__Public Sentiment & Behavioral Temper:__ Public broadcasting cultivates measured, thoughtful discourse that contrasts with commercial media's emotional appeals; this temperament attracts audiences seeking refuge from sensationalism but limits mass appeal.
+
 __Disaffection, Apathy & Spent Will:__ By 2005, public broadcasting advocates display signs of exhaustion from decades of funding fights; the perpetual crisis mode limits ambition and strategic development, as institutional energy flows to survival rather than innovation.
+
 
 ## D06. Informational Domain
 

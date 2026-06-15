@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Babri Masjid demolition (1992) and subseque
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Consumer optimism accompanies liberalization; the "Feel Good" sentiment of the late 1990s economic growth reflects television's advertising-saturated messaging; the Kargil conflict (1999) generates patriotic mobilization amplified through live television coverage.
-
 __Leadership & Personal Authority:__ P.V. Narasimha Rao's technocratic liberalization proceeds with minimal televisual charisma; Atal Bihari Vajpayee's oratorical presence suits the medium; private channel proprietors—Subhash Chandra (Zee), Rupert Murdoch (Star)—become power brokers.
 
 __Legitimacy as Lived Allegiance:__ Coalition governments (1996-1999 instability) reflect fragmented electorate that mirrors fragmented viewership; regional parties' televised presence reinforces linguistic-regional identities; national legitimacy disperses.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The 1998 nuclear tests (Pokhran-II) gen
 
 __External Relations & Posture:__ Television brings global events—Gulf War, Soviet collapse, Clinton impeachment—to Indian living rooms; U.S. economic sanctions following nuclear tests are televised; Pakistani channels become accessible via satellite, enabling cross-border viewership.
 
+__Public Sentiment & Behavioral Temper:__ Consumer optimism accompanies liberalization; the "Feel Good" sentiment of the late 1990s economic growth reflects television's advertising-saturated messaging; the Kargil conflict (1999) generates patriotic mobilization amplified through live television coverage.
+
 __Disaffection, Apathy & Spent Will:__ Consumer aspiration coexists with communal polarization; the 1992-1993 riots' televised horrors produce Muslim disaffection; upper-caste anxiety over economic liberalization's disruption generates anti-reservation sentiment; the information abundance overwhelms deliberative capacity.
+
 
 ## D06. Informational Domain
 

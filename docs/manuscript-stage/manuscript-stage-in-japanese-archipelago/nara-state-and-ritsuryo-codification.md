@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Provincial registers deteriorate; peasants flee
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Epidemic and natural disaster generate anxiety addressed through Buddhist ritual and state-sponsored prayers; the court projects confidence through monumental construction.
-
 __Leadership & Personal Authority:__ Emperors reign with symbolic authority while Fujiwara and other great families compete for regency and ministerial control; Shomu (r. 724–749) exercises unusual personal authority in sponsoring the Great Buddha.
 
 __Legitimacy as Lived Allegiance:__ The compilation of Kojiki (712 CE) and Nihon Shoki (720 CE) constructs an imperial genealogy tracing descent from the sun goddess Amaterasu, anchoring legitimacy in mythic ancestry.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The court mobilizes resources for massi
 
 __External Relations & Posture:__ Embassies to Tang China (kentoshi) import learning, texts, and prestige goods; relations with Silla Korea alternate between hostility and exchange; frontier campaigns against emishi peoples extend nominal control northward.
 
+__Public Sentiment & Behavioral Temper:__ Epidemic and natural disaster generate anxiety addressed through Buddhist ritual and state-sponsored prayers; the court projects confidence through monumental construction.
+
 __Disaffection, Apathy & Spent Will:__ Repeated epidemics and construction burdens strain provincial loyalty; by century's end, the court relocates to escape both accumulated waste and political entanglements with Nara's powerful temples.
+
 
 ## D06. Informational Domain
 

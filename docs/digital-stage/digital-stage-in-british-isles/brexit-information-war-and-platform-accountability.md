@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence returns with the murder of M
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The referendum and its aftermath produce sustained affective polarization; "Remainers" and "Leavers" become identity categories; anger, betrayal, and contempt dominate political discourse; anxiety becomes ambient.
-
 __Leadership & Personal Authority:__ Theresa May's authority collapses through repeated defeats; Boris Johnson's charismatic dominance of the Leave campaign translates into eventual premiership (July 2019); Nigel Farage remains influential without holding office; platform company executives face parliamentary scrutiny with diminished aura.
 
 __Legitimacy as Lived Allegiance:__ The referendum result itself becomes contested; "Will of the People" claims clash with concerns about manipulation; trust in electoral processes erodes; Parliament's legitimacy is challenged by both sides; the Supreme Court intervention (prorogation, 2019) strains judicial legitimacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will fragments as party disci
 
 __External Relations & Posture:__ Relationship with EU becomes adversarial; US relationship complicated by Trump presidency; Ireland assumes unexpected significance as the backstop question dominates; alliance with European partners weakens.
 
+__Public Sentiment & Behavioral Temper:__ The referendum and its aftermath produce sustained affective polarization; "Remainers" and "Leavers" become identity categories; anger, betrayal, and contempt dominate political discourse; anxiety becomes ambient.
+
 __Disaffection, Apathy & Spent Will:__ Voter fatigue sets in through repeated electoral events (2017 election, European elections 2019, general election 2019); political exhaustion coexists with high engagement among activated partisans; the middle ground hollows out — disaffection accumulates uncleared.
+
 
 ## D06. Informational Domain
 

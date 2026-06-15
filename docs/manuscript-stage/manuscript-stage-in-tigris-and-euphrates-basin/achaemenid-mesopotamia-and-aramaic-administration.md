@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Several rebellions occurred — Babylon revolte
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial acceptance of Cyrus gave way to resentment under Darius after the rebellions were crushed; sentiment varied by stratum — Persian administrators, Babylonian elites who prospered, and commoners who lost local autonomy experienced the regime differently; accommodation rather than enthusiasm characterized the prevailing temper.
-
 __Leadership & Personal Authority:__ Persian kings rarely resided in Babylon; authority was mediated through satraps and local officials; Babylonian leaders — temple administrators, wealthy merchants — retained local influence but lacked political autonomy; leadership was delegated and distant rather than present and personal.
 
 __Legitimacy as Lived Allegiance:__ The Persian kings claimed legitimacy as Marduk's chosen (Cyrus Cylinder) and later as Ahuramazda's servants; the dual legitimation worked imperfectly — Babylonians might accept Persian rule pragmatically without felt allegiance; legitimacy was sufficient for governance but not deep-rooted.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Babylonian political will fragmented af
 
 __External Relations & Posture:__ Mesopotamia's external relations were now subsumed within Persian imperial policy; the region contributed troops and resources to Persian campaigns in Egypt, Greece, and Central Asia; local posture was subordinate, with no autonomous foreign policy; the empire's enemies — Egypt, Greek cities, eventually Macedon — became Mesopotamia's enemies by incorporation.
 
+__Public Sentiment & Behavioral Temper:__ Initial acceptance of Cyrus gave way to resentment under Darius after the rebellions were crushed; sentiment varied by stratum — Persian administrators, Babylonian elites who prospered, and commoners who lost local autonomy experienced the regime differently; accommodation rather than enthusiasm characterized the prevailing temper.
+
 __Disaffection, Apathy & Spent Will:__ The crushing of rebellions under Darius produced lasting disaffection among some strata; others prospered and accommodated; by the late Achaemenid period, administrative decay and succession conflicts produced generalized apathy toward the imperial center; when Alexander arrived, resistance was minimal, suggesting exhausted loyalty to the Persian regime.
+
 
 ## D06. Informational Domain
 

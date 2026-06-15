@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflicts resolve through submission, avoidance
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect centers on immediate social bonds — attachment to familiar individuals, wariness of strangers, fear of predators. Mood follows resource availability: satiation brings calm, scarcity brings tension and irritability. Trust extends to known group members only.
-
 __Leadership & Personal Authority:__ Individuals with greater experience, strength, or skill may lead by example — choosing travel routes, initiating hunts, demonstrating techniques. Authority is personal and situational, not formal or hereditary.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to familiar individuals and the group as a whole. No abstract legitimacy operates; loyalty is personal and reinforced by daily interdependence. Defection is possible but dangerous given the costs of isolation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges from individu
 
 __External Relations & Posture:__ Relations with other bands range from avoidance to occasional hostile encounters or peaceful absorption. No fixed posture exists; responses emerge from immediate circumstances and the individuals involved.
 
+__Public Sentiment & Behavioral Temper:__ Affect centers on immediate social bonds — attachment to familiar individuals, wariness of strangers, fear of predators. Mood follows resource availability: satiation brings calm, scarcity brings tension and irritability. Trust extends to known group members only.
+
 __Disaffection, Apathy & Spent Will:__ Individuals may withdraw from group activities due to injury, illness, or social marginalization. The group tolerates some disengagement but cannot support those who contribute nothing. Apathy in survival contexts is self-eliminating.
+
 
 ## D06. Informational Domain
 

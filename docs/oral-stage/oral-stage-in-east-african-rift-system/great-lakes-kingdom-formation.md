@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession wars between princes recurrent; boun
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pride in kingdom, king, and cattle; loyalty to clan and patron; deference to hierarchy; trust within kin and client networks, wariness beyond; mood shaped by harvest, herd health, and royal fortune; collective temper can shift rapidly with military victory or defeat, succession crisis or royal blessing.
-
 __Leadership & Personal Authority:__ Kings are sacred figures, their bodies ritually protected, their words performative; personal charisma, military success, and ritual potency establish authority; chiefs derive power from royal appointment and personal prowess; leadership intensely personal, constantly performed, never secure.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the king reinforced by myth (divine origin or heroic founder), ritual (royal ceremonies, cattle parades), and patronage; legitimacy conditional on the king's ritual efficacy and military success; oral recitation of royal genealogy and deeds by official historians (abiru, abasezi) sustains the narrative of rightful rule; allegiance must be continuously renewed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Strong will to expand, consolidate, and
 
 __External Relations & Posture:__ Kingdoms compete with each other through raiding, diplomacy, and marriage alliance; expansion at neighbors' expense the norm; no power dominates the entire region; posture competitive and expansionist; external relations shaped by cattle, territory, and prestige; leverage derives from military strength and alliance networks.
 
+__Public Sentiment & Behavioral Temper:__ Pride in kingdom, king, and cattle; loyalty to clan and patron; deference to hierarchy; trust within kin and client networks, wariness beyond; mood shaped by harvest, herd health, and royal fortune; collective temper can shift rapidly with military victory or defeat, succession crisis or royal blessing.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection among defeated clans, dispossessed chiefs, and overtaxed cultivators; rebellion possible but rarely successful; apathy not evident in this formative period; will remains strong as kingdoms expand and consolidate; spent will a risk after succession wars but the system is still in its ascending phase.
+
 
 ## D06. Informational Domain
 

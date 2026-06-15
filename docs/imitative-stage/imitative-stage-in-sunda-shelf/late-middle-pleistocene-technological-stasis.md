@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through submission, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Band mood continues to track provisioning success; trust extends within the group and contracts sharply at group boundaries; the temper remains vigilant, oriented to predator threat and resource opportunity — no change is evident across this interval.
-
 __Leadership & Personal Authority:__ Leadership remains personal and demonstrated; authority derives from successful action observed by group members; the stasis in material culture does not imply stasis in leadership — individuals rise and fall with competence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is behavioral — following those who lead successfully, avoiding those who fail; the concept of legitimacy does not exist but the practice continues unchanged.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will emerges in moments of c
 
 __External Relations & Posture:__ Other groups are encountered, avoided, joined, or fought; no sustained inter-group relations exist; the posture toward outsiders is wary by default with occasional cooperation or conflict.
 
+__Public Sentiment & Behavioral Temper:__ Band mood continues to track provisioning success; trust extends within the group and contracts sharply at group boundaries; the temper remains vigilant, oriented to predator threat and resource opportunity — no change is evident across this interval.
+
 __Disaffection, Apathy & Spent Will:__ Exhausted, injured, or repeatedly failing individuals become marginal; the spent are tolerated, abandoned, or die — affective residue clears through mortality as before.
+
 
 ## D06. Informational Domain
 

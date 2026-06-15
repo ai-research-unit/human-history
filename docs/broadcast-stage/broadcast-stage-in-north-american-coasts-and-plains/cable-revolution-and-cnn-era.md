@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime rates high but begin decline late in peri
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Reagan restoration of confidence ("Morning in America") reverses 1970s malaise; patriotism revived; consumer optimism restored; Cold War anxieties persist but managed; AIDS anxiety high among affected communities.
-
 __Leadership & Personal Authority:__ Reagan commands strong personal allegiance as "Great Communicator"; television mastery central to his appeal; Bush less charismatic but benefits from Reagan legacy; no equivalent figure in media or opposition.
 
 __Legitimacy as Lived Allegiance:__ Conservative movement achieves ideological dominance; government skepticism becomes orthodoxy ("government is the problem"); market legitimacy ascendant; Cold War victory narrative reinforces American exceptionalism by period's end.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Defense buildup demonstrates sustained 
 
 __External Relations & Posture:__ Cold War competition intensifies early then resolves; Reagan Doctrine supports anti-communist insurgencies; Gorbachev partnership emerges (1985+); Berlin Wall falls (1989); Soviet collapse (1991); Gulf War demonstrates "new world order" unipolar moment; American confidence in global role restored.
 
+__Public Sentiment & Behavioral Temper:__ Reagan restoration of confidence ("Morning in America") reverses 1970s malaise; patriotism revived; consumer optimism restored; Cold War anxieties persist but managed; AIDS anxiety high among affected communities.
+
 __Disaffection, Apathy & Spent Will:__ Voter participation continues decline; 1970s malaise replaced by acquiescence rather than engagement; opposition demoralized through decade; left fragmented; political alienation coexists with conservative ascendancy.
+
 
 ## D06. Informational Domain
 

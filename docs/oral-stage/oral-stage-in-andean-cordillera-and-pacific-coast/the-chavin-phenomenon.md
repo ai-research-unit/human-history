@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ When religious prestige wanes — after 200 BCE
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Awe and dread characterize the pilgrimage experience; the architecture — narrow galleries, sudden light changes, acoustic effects that make stone "roar" — induces disorientation and receptivity; hallucinogenic ritual intensifies emotional states, binding initiates to the cult through transformative experience.
-
 __Leadership & Personal Authority:__ Priests at Chavín de Huántar command authority through esoteric knowledge, ritual performance, and control of access to the Lanzón and inner sanctuaries; their authority is charismatic and initiatory rather than hereditary or bureaucratic; local leaders affiliate through pilgrimage and display of Chavín symbols.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows voluntarily from communities who accept the Chavín cosmology; no coercive enforcement exists; when belief wanes, communities simply cease pilgrimage; legitimacy is constantly renewed through successful ritual — agricultural fertility, healing, favorable weather attributed to the cult's efficacy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The center does not exercise political 
 
 __External Relations & Posture:__ Chavín relates to distant communities as a religious center to affiliated populations, not as a state to tributaries; there is no expansion by conquest, only by ideological attraction; relations with non-participating groups are not hostile — the center simply does not reach them.
 
+__Public Sentiment & Behavioral Temper:__ Awe and dread characterize the pilgrimage experience; the architecture — narrow galleries, sudden light changes, acoustic effects that make stone "roar" — induces disorientation and receptivity; hallucinogenic ritual intensifies emotional states, binding initiates to the cult through transformative experience.
+
 __Disaffection, Apathy & Spent Will:__ The decline after 200 BCE reflects spent enthusiasm; the iconographic code loses freshness, competing local traditions reassert vitality, and the pilgrimage network thins; no violent disaffection, only gradual disengagement as the religious charge dissipates.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through band fission
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment within the band oscillates with subsistence success and interpersonal harmony. Trust is high within kin-close groups, falling sharply toward strangers. Baseline risk perception is elevated: vigilance against predators, rival groups, and environmental hazard is constant. The mood is pragmatic and keyed to immediate conditions.
-
 __Leadership & Personal Authority:__ Leadership is situational, concentrated in individuals with proven skill in specific domains — a successful hunter leads the hunt, an elder with plant knowledge guides foraging. No permanent authority exists; personal pull derives from demonstrated competence and cannot be inherited or formalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is direct and personal — loyalty to kin and band-mates rather than to any abstract order. Legitimacy is continuously enacted through sharing, cooperation, and presence; defection dissolves it instantly. No reservoir of abstract legitimacy exists to draw upon in crisis.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will forms around immediate 
 
 __External Relations & Posture:__ Relations with other bands are cautious, ranging from avoidance through negotiated exchange to episodic violence. Territorial defense is flexible; intrusion provokes confrontation if detected, but boundaries are permeable. No alliance structures exist beyond temporary cooperation during large-game drives.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment within the band oscillates with subsistence success and interpersonal harmony. Trust is high within kin-close groups, falling sharply toward strangers. Baseline risk perception is elevated: vigilance against predators, rival groups, and environmental hazard is constant. The mood is pragmatic and keyed to immediate conditions.
+
 __Disaffection, Apathy & Spent Will:__ Spent will manifests as reduced participation, withdrawal, or departure from the band. Apathy does not accumulate institutionally but resolves through individual exit. Disaffection feeds group fission rather than internal disorder. The residue is cleared through mobility.
+
 
 ## D06. Informational Domain
 

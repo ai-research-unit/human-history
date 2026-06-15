@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The press both channels and inflames communal t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Vernacular newspapers become registers of regional sentiment — pride in linguistic heritage, resentment of colonial condescension, anxiety about communal others; the emotional temperature of the reading public is shaped by and reflected in editorial tone.
-
 __Leadership & Personal Authority:__ Charismatic editor-proprietors — Tilak in Marathi, Gandhi in Gujarati and Hindi, Subramania Iyer in Tamil, Maulana Azad in Urdu — command personal followings that exceed institutional newspaper reach; the editor's voice carries moral authority within the language community.
 
 __Legitimacy as Lived Allegiance:__ The vernacular press cultivates loyalty to the linguistic region as a political unit; by 1920, readers identify with their language community as a legitimate entity deserving self-rule, a sentiment that will structure linguistic state reorganization after independence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The press channels and concentrates pol
 
 __External Relations & Posture:__ Vernacular newspapers frame the colonial relationship as one of exploitation and humiliation, cultivating anti-British sentiment; simultaneously, they navigate inter-regional relations, with Hindi papers often adopting a Hindi-first nationalism that alarms non-Hindi regions.
 
+__Public Sentiment & Behavioral Temper:__ Vernacular newspapers become registers of regional sentiment — pride in linguistic heritage, resentment of colonial condescension, anxiety about communal others; the emotional temperature of the reading public is shaped by and reflected in editorial tone.
+
 __Disaffection, Apathy & Spent Will:__ Cycles of mobilization and repression produce exhaustion; the failure of the 1922 Non-Cooperation movement, the suppression of Quit India, and the trauma of Partition leave residues of disillusionment that vernacular editorials struggle to address.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence punctuates the era: the Spar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public mood swings wildly. Revolutionary fervor gives way to exhausted acquiescence, then hyperinflationary panic, then the guarded optimism of stabilization, then renewed anxiety as the depression approaches. Trust in institutions is fragile; cynicism is widespread. The "golden twenties" are golden mainly in retrospect and mainly in Berlin.
-
 __Leadership & Personal Authority:__ Weimar produces competent statesmen — Ebert, Stresemann, Bruning — but no figure commands broad allegiance. Hindenburg, elected president in 1925, is a revered war hero but no democrat. Leadership is contested, fragmented, insufficient.
 
 __Legitimacy as Lived Allegiance:__ The republic commands allegiance from Social Democrats, the Catholic Center, and liberal democrats — perhaps 40–50% of the electorate. The rest tolerates it at best. Monarchists, nationalists, and increasingly National Socialists reject it openly. Communists denounce it as bourgeois fraud. Legitimacy is thin and conditional.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The republic's defenders lack the passi
 
 __External Relations & Posture:__ Germany accepts the Versailles settlement under protest. Stresemann's diplomacy (1923–1929) achieves partial rehabilitation: Locarno (1925), League membership (1926), the Dawes and Young Plans. But the right denounces every concession as betrayal. Revisionism remains the national consensus; the method is disputed.
 
+__Public Sentiment & Behavioral Temper:__ The public mood swings wildly. Revolutionary fervor gives way to exhausted acquiescence, then hyperinflationary panic, then the guarded optimism of stabilization, then renewed anxiety as the depression approaches. Trust in institutions is fragile; cynicism is widespread. The "golden twenties" are golden mainly in retrospect and mainly in Berlin.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection with the republic is widespread and growing. The stabilization era masks but does not resolve it. Apathy characterizes much of the middle class; radicalization pulls the extremes. The emotional resources to defend democratic institutions are shallow.
+
 
 ## D06. Informational Domain
 

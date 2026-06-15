@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-city rivalry and pastoral raiding generat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A baseline of cautious deference to local rulers and distant Egyptian overlords prevails; loyalty operates through personal and kin bonds rather than abstract allegiance.
-
 __Leadership & Personal Authority:__ City-state kings combine sacral and military authority; personal charisma and patronage networks sustain their position.
 
 __Legitimacy as Lived Allegiance:__ Rulers legitimate themselves through shrine-building, feasting, and visible protection; Egyptian recognition confers additional prestige.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action remains localized; ci
 
 __External Relations & Posture:__ Deference to Egypt dominates; commercial relations with Mesopotamia and Anatolia proceed through tribute and gift exchange; rivalry among city-states shapes local alignments.
 
+__Public Sentiment & Behavioral Temper:__ A baseline of cautious deference to local rulers and distant Egyptian overlords prevails; loyalty operates through personal and kin bonds rather than abstract allegiance.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the relatively stable order leaves emotional reserves intact.
+
 
 ## D06. Informational Domain
 

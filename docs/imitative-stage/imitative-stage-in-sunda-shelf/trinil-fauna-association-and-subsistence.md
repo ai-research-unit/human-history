@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through submission, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The band's mood tracks provisioning success — satiation brings ease, hunger brings tension; trust extends to recognized group members and contracts sharply at group boundaries; the temper is vigilant, attuned to predator threat and megafauna opportunity.
-
 __Leadership & Personal Authority:__ Leadership is personal and demonstrated rather than claimed; authority derives from successful action observed by others — the individual who leads the approach to a carcass, who faces down a predator, who finds water in drought gains followers through visible competence.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is not a concept but a practice; individuals follow those who have led successfully and withdraw from those who have failed; allegiance is embodied in proximity and cooperation, not professed in words.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will emerges in moments of s
 
 __External Relations & Posture:__ Other hominin groups are encountered occasionally; relations range from avoidance to violent confrontation to temporary association; no sustained alliances exist — each encounter is evaluated anew.
 
+__Public Sentiment & Behavioral Temper:__ The band's mood tracks provisioning success — satiation brings ease, hunger brings tension; trust extends to recognized group members and contracts sharply at group boundaries; the temper is vigilant, attuned to predator threat and megafauna opportunity.
+
 __Disaffection, Apathy & Spent Will:__ Individuals exhausted by injury, age, or repeated failure may become marginal, tolerated but not invested in; disaffection appears as withdrawal rather than protest; the spent are absorbed where possible or left behind — affective residue clears through mortality.
+
 
 ## D06. Informational Domain
 

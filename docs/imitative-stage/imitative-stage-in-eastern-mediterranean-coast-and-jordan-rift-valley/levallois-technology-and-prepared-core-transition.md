@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is absorbed through fission-fus
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mood is unrecoverable; the adoption of a demanding new technique suggests confidence and willingness to invest in learning. Trust extends to the group.
-
 __Leadership & Personal Authority:__ Leadership is situational; the skilled knapper commands attention during demonstration. Authority is personal.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band; legitimacy is enacted through competence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve suffices for communa
 
 __External Relations & Posture:__ Relations with other groups are unrecoverable; population density suggests infrequent encounter. The Levallois method spreads, implying some inter-group contact or population movement, but the mechanism — migration, diffusion, or independent invention — is debated.
 
+__Public Sentiment & Behavioral Temper:__ Mood is unrecoverable; the adoption of a demanding new technique suggests confidence and willingness to invest in learning. Trust extends to the group.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective exhaustion; the long trend suggests sustained engagement.
+
 
 ## D06. Informational Domain
 

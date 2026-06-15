@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Underground publishing, foreign-printed materia
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public attitudes toward censorship shift from resigned acceptance under the Tokugawa to resentment among liberals in the Meiji and Taisho periods to intimidation under early Showa; authors and publishers develop a culture of self-censorship that anticipates state action, reading official signals to determine how far they can push.
-
 __Leadership & Personal Authority:__ Individual censors and their superiors shape enforcement through interpretation; a sympathetic official may overlook borderline content while a zealous one finds offense in ambiguous passages, creating uncertainty that encourages caution.
 
 __Legitimacy as Lived Allegiance:__ Censorship aims to protect the legitimacy of ruling authority, shielding the shogunate, the emperor, and the kokutai (national polity) from published challenge; when legitimacy weakens, as in the Bakumatsu crisis, censorship falters and political publishing surges.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state's will to censor fluctuates: 
 
 __External Relations & Posture:__ Censorship targets foreign-influenced ideas, from Christianity under the Tokugawa to socialism and liberalism under the modern state, treating external ideologies as threats to domestic order; during imperial expansion, censorship extends to colonial publications and imported materials.
 
+__Public Sentiment & Behavioral Temper:__ Public attitudes toward censorship shift from resigned acceptance under the Tokugawa to resentment among liberals in the Meiji and Taisho periods to intimidation under early Showa; authors and publishers develop a culture of self-censorship that anticipates state action, reading official signals to determine how far they can push.
+
 __Disaffection, Apathy & Spent Will:__ Writers and publishers who suffer repeated suppression may withdraw from political content entirely, channeling energy into safer cultural production; this retreat represents a victory for censorship even without explicit prohibition of individual works.
+
 
 ## D06. Informational Domain
 

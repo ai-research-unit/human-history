@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Faction and vendetta persisted; the Albizzi-Med
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of cultural confidence pervaded Florentine humanism — the sense of classical renewal, of surpassing the "dark ages"; civic pride attached to communal liberty and artistic achievement; the radius of trust extended within patronage networks but not beyond.
-
 __Leadership & Personal Authority:__ Coluccio Salutati and Leonardo Bruni as chancellors embodied humanist civic leadership; Cosimo de' Medici, after 1434, exercised informal authority through wealth, patronage, and careful manipulation rather than overt command.
 
 __Legitimacy as Lived Allegiance:__ Republican ideology legitimized Florentine government; Medici power rested on patronage rather than formal title; papal authority, weakened by the Great Schism (resolved at Constance, 1417), slowly reconsolidated under Martin V and Eugenius IV.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to defend communal independenc
 
 __External Relations & Posture:__ Florence, Venice, Milan, the Papacy, and Naples maneuvered in shifting alliances; the Council of Florence (1438–1445) brought Greek scholars and briefly united Eastern and Western churches; Italian states looked outward to trade routes and inward to the peninsular balance.
 
+__Public Sentiment & Behavioral Temper:__ A mood of cultural confidence pervaded Florentine humanism — the sense of classical renewal, of surpassing the "dark ages"; civic pride attached to communal liberty and artistic achievement; the radius of trust extended within patronage networks but not beyond.
+
 __Disaffection, Apathy & Spent Will:__ Popular disaffection occasionally flared — the Ciompi revolt of 1378 remained a living memory — but was contained by patronage, spectacle, and exclusion; elite competition channeled ambition; apathy did not yet threaten the order.
+
 
 ## D06. Informational Domain
 

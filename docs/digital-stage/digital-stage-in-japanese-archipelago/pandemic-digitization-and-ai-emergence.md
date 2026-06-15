@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction remains muted—no major unrest
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial pandemic anxiety gives way to fatigue; trust in government dips with slow vaccine rollout and administrative fumbles, partially recovers with successful mass vaccination; generative AI arrival in 2023 sparks curiosity mixed with anxiety about job displacement and societal change.
-
 __Leadership & Personal Authority:__ Abe Shinzo resigns August 2020 citing health; Suga Yoshihide takes office, struggles with pandemic communication, declines to seek reelection; Kishida Fumio succeeds October 2021, projects steadier if less charismatic presence; Abe's assassination July 2022 shocks the nation and dominates discourse.
 
 __Legitimacy as Lived Allegiance:__ LDP retains electoral dominance despite handling criticisms; opposition remains fragmented; voter turnout low; allegiance is passive rather than fervent, with no serious challenge to the ruling order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Pandemic response demonstrates capacity
 
 __External Relations & Posture:__ Security posture tightens amid rising China tensions and Taiwan contingency planning; US alliance reaffirmed; defense spending increases toward 2 percent GDP target; economic security legislation targets supply chain vulnerabilities.
 
+__Public Sentiment & Behavioral Temper:__ Initial pandemic anxiety gives way to fatigue; trust in government dips with slow vaccine rollout and administrative fumbles, partially recovers with successful mass vaccination; generative AI arrival in 2023 sparks curiosity mixed with anxiety about job displacement and societal change.
+
 __Disaffection, Apathy & Spent Will:__ Youth disengagement from politics persists; pandemic fatigue blends into broader low-affect civic detachment; no mass mobilization or visible unrest, but neither is there energetic renewal—a settled, tired equilibrium.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Naxalite insurgency emerges in Bengal (1967–1
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-independence optimism persists but tempers with economic frustration; Sino-Indian War (1962) produces nationalist consolidation; victory in 1971 Bangladesh war creates "Indira wave" of confidence; by 1974–1975 inflation and corruption erode trust; JP Movement signals middle-class disaffection.
-
 __Leadership & Personal Authority:__ Nehru's charismatic authority defines early period; Shastri's brief tenure (1964–1966) maintains continuity; Indira Gandhi consolidates personal dominance through 1969 Congress split, bank nationalization, and 1971 war victory; personality cult builds around "Indira is India."
 
 __Legitimacy as Lived Allegiance:__ Electoral democracy provides legitimacy through regular polls; Congress dominance at center creates one-party-dominant system; opposition fragments by language and region; legitimacy begins eroding with corruption scandals and Allahabad High Court verdict (1975).
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Centralized decision-making under Indir
 
 __External Relations & Posture:__ Non-alignment remains official doctrine but tilts toward Soviet Union after 1962; Indo-Soviet Treaty (1971) enables Bangladesh intervention; rivalry with Pakistan defines security posture; relations with US cool over tilt toward Pakistan in 1971.
 
+__Public Sentiment & Behavioral Temper:__ Post-independence optimism persists but tempers with economic frustration; Sino-Indian War (1962) produces nationalist consolidation; victory in 1971 Bangladesh war creates "Indira wave" of confidence; by 1974–1975 inflation and corruption erode trust; JP Movement signals middle-class disaffection.
+
 __Disaffection, Apathy & Spent Will:__ Rural disaffection channeled through Naxalism; urban middle-class frustration fuels JP Movement; student unrest spreads; labor militancy increases; by 1975 accumulated grievance threatens regime stability, prompting Emergency response.
+
 
 ## D06. Informational Domain
 

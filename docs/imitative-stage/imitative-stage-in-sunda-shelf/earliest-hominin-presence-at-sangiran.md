@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through fission �
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment is immediate and situational — fear at predator presence, satisfaction at successful foraging, tension during resource scarcity. Trust extends to familiar band members; strangers are approached with caution.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal. Experienced individuals lead by example during hunts or relocations; authority does not persist beyond the task.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is kin-based and face-to-face. There is no abstract legitimacy to question; individuals follow those they know and trust.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is implicit — the ban
 
 __External Relations & Posture:__ Other bands, if encountered, are treated with suspicion. Interaction is likely rare; the population is sparse and dispersed. No alliance or warfare in any organized sense.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment is immediate and situational — fear at predator presence, satisfaction at successful foraging, tension during resource scarcity. Trust extends to familiar band members; strangers are approached with caution.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection does not accumulate; dissatisfied individuals simply leave. Apathy is incompatible with survival.
+
 
 ## D06. Informational Domain
 

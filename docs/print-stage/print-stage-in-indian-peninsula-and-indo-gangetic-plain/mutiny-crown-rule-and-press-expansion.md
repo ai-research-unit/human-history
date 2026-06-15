@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The rebellion of 1857 discharges accumulated gr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The rebellion traumatizes both sides; British opinion hardens into distrust and racial arrogance; Indian sentiment divides — loyalists, embittered rebels, and a growing educated class that channels grievance into petitions and press; the post-Mutiny mood is cautious, watchful.
-
 __Leadership & Personal Authority:__ The rebellion produces heroic figures (Rani of Jhansi, Tantia Tope, Nana Sahib) who enter popular memory; on the British side, viceroys (Canning, Lawrence, Mayo, Northbrook, Lytton) exercise authority; Indian leaders emerge in the public sphere — editors, reformers — but command no mass following yet.
 
 __Legitimacy as Lived Allegiance:__ Crown rule claims legitimacy through order, law, and progress; the Queen's Proclamation of 1858 promises non-interference in religion and equal opportunity; Indians accept British rule instrumentally; affective loyalty is thin; the rebellion demonstrated how quickly compliance can collapse.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Nationalist will is nascent; the educat
 
 __External Relations & Posture:__ British India is an instrument of imperial strategy; Afghan frontier concerns drive policy; no Indian entity conducts independent external relations; the press debates empire and foreign policy but Indians have no agency.
 
+__Public Sentiment & Behavioral Temper:__ The rebellion traumatizes both sides; British opinion hardens into distrust and racial arrogance; Indian sentiment divides — loyalists, embittered rebels, and a growing educated class that channels grievance into petitions and press; the post-Mutiny mood is cautious, watchful.
+
 __Disaffection, Apathy & Spent Will:__ The rebellion exhausted the old grievances — dispossessed princes, discharged sepoys — through violence and suppression; a new generation's disaffection is building around revenue, famine, race, and exclusion, articulated in the vernacular press; the educated are not apathetic but lack organizational vehicles.
+
 
 ## D06. Informational Domain
 

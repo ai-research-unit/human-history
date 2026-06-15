@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction dissipates through fission, avo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emergence of deliberate burial with grave goods, ochre application, and shell ornament production implies an emotional orientation toward the dead and toward personal presentation that transcends immediate practical concern. The Qafzeh 11 burial of a child with deer antlers suggests that affective bonds extend beyond adult members and occasion elaborate response to juvenile death. The behavioral temper accommodates activities serving no subsistence purpose, indicating emotional capacity for grief, attachment, and aesthetic appreciation.
-
 __Leadership & Personal Authority:__ Leadership operates through demonstrated competence and situational initiative rather than formal authority. Individuals who successfully lead hunts, produce effective tools, or demonstrate knowledge of mortuary practice command attention and imitation. Personal authority is earned and context-dependent, not inherited or institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to successful practitioners whose techniques sustain the group. The elder whose mortuary demonstration is imitated, whose ornament-making is copied, commands a form of deference rooted in dependency on transmitted knowledge. Without language to articulate justifications, legitimacy exists only as behavioral deference expressed through attention and imitation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges through conve
 
 __External Relations & Posture:__ Intergroup relations are difficult to assess archaeologically. The presence of marine shells at inland sites suggests some form of contact or mobility connecting coastal and interior populations. The eventual replacement of the Skhul-Qafzeh population by Neanderthals after 90,000 BCE implies that external pressures (climate-driven range contraction, competition, demographic decline) ultimately exceed the population's capacity to maintain its position. During the window itself, the modern human population appears secure in its territorial range.
 
+__Public Sentiment & Behavioral Temper:__ The emergence of deliberate burial with grave goods, ochre application, and shell ornament production implies an emotional orientation toward the dead and toward personal presentation that transcends immediate practical concern. The Qafzeh 11 burial of a child with deer antlers suggests that affective bonds extend beyond adult members and occasion elaborate response to juvenile death. The behavioral temper accommodates activities serving no subsistence purpose, indicating emotional capacity for grief, attachment, and aesthetic appreciation.
+
 __Disaffection, Apathy & Spent Will:__ At band scale, disaffection manifests as withdrawal or departure rather than organized opposition. The affective investment implied by elaborate mortuary practice suggests that apathy has not eroded collective will within the observed window. The emotional residue is minimal; the population sustains its distinctive practices throughout.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Persian conquests (525 BCE, 343 BCE) produce mi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pride in pharaonic heritage persists despite political subordination; xenophobic sentiment against Persian rule documented in religious texts; Greek settlers form distinct but generally respected community; fatalism alternates with nationalist revival depending on political circumstances.
-
 __Leadership & Personal Authority:__ Saite pharaohs project traditional royal authority through monumental building; Persian kings presented in Egyptian contexts as legitimate pharaohs; native dynasty founders (Amyrtaeus, Nectanebo) claim divine mandate; personal charisma crucial for rallying resistance to Persian rule.
 
 __Legitimacy as Lived Allegiance:__ Competing legitimacy frameworks coexist: pharaonic ideology, Persian imperial authority, Greek city-state traditions; Egyptian priesthood mediates between regimes by providing religious legitimation to whoever holds power; popular loyalty follows material security rather than abstract principle.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Native revival movements demonstrate ca
 
 __External Relations & Posture:__ Alliance-seeking characterizes Egyptian foreign policy: Saites ally with Babylon against Assyria, then with Greeks against Persia; Greek city-states become crucial partners for military manpower; Egypt oscillates between independence-seeking and accommodation to Near Eastern empires.
 
+__Public Sentiment & Behavioral Temper:__ Pride in pharaonic heritage persists despite political subordination; xenophobic sentiment against Persian rule documented in religious texts; Greek settlers form distinct but generally respected community; fatalism alternates with nationalist revival depending on political circumstances.
+
 __Disaffection, Apathy & Spent Will:__ Persian second conquest (343 BCE) meets less resistance than first (525 BCE), suggesting exhaustion of nationalist energy; temple accommodations with Persian rule prioritize institutional survival over political resistance; elite pragmatism accepts foreign rule when independence proves unsustainable.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction discharged through band fission, mobil
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Prevailing mood fluctuates with climate and resources: anxiety and caution during arid contractions, confidence and expansion during wetter phases; trust remains high within bands, lower toward strangers; behavioral temper is adaptive—cooperation intensifies when survival is threatened, relaxes during abundance.
-
 __Leadership & Personal Authority:__ Leadership remains situational: best hunters, most knowledgeable elders, and those with spiritual power lead in relevant domains; no permanent chiefs; personal authority is earned and ratified through oral acknowledgment; charisma and competence remain the basis of influence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows from kinship and demonstrated competence; no abstract legitimacy; leaders obeyed because they are respected kin who deliver results; erosion occurs when leaders fail and lose oral reputation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilized for hunts, ca
 
 __External Relations & Posture:__ Relations with other bands oscillate between alliance and avoidance; during resource contraction, competition over refugia may sharpen, increasing wariness; no diplomatic apparatus; posture remains defensive—bands prefer mobility over conflict; leverage minimal.
 
+__Public Sentiment & Behavioral Temper:__ Prevailing mood fluctuates with climate and resources: anxiety and caution during arid contractions, confidence and expansion during wetter phases; trust remains high within bands, lower toward strangers; behavioral temper is adaptive—cooperation intensifies when survival is threatened, relaxes during abundance.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection rare within kin groups; when it arises, fission resolves it; apathy limited by survival imperative; spent will (exhaustion, despair) may occur during prolonged drought, contributing to band dissolution; post-glacial recovery restores collective energy; residue light.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Assemblies and feasting dissipate social fricti
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is expansive and martial — population growth, improved material conditions, and successful raiding fuel confidence; trust extends within kin and tribe but is cautious toward other tribes and outsiders; risk appetite is high, evidenced by long-distance migrations (Cimbri, Teutones) and raiding deep into foreign territory; the temper is warlike and competitive.
-
 __Leadership & Personal Authority:__ Chiefs and kings lead through martial prowess, wealth distribution, and success in war; personal authority is earned and must be continuously demonstrated; the comitatus relationship binds warriors to leaders through gift-exchange and shared danger; charismatic leadership is essential — institutions do not sustain authority beyond the leader's person.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal, owed to the chief who leads, provides, and protects; tribal identity provides a secondary layer of allegiance; legitimacy is performative and precarious — failure in battle or generosity erodes it rapidly; succession is contested, often violently.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized through as
 
 __External Relations & Posture:__ Relations with neighboring tribes are competitive — alliance, trade, and warfare alternate; the southward push brings Germanic peoples into contact with the Celtic world and eventually Rome; the Cimbrian War (113–101 BCE) ends in catastrophic defeat but reveals Germanic military capacity to the Mediterranean world; the posture is aggressive, expansionist, and opportunistic.
 
+__Public Sentiment & Behavioral Temper:__ The mood is expansive and martial — population growth, improved material conditions, and successful raiding fuel confidence; trust extends within kin and tribe but is cautious toward other tribes and outsiders; risk appetite is high, evidenced by long-distance migrations (Cimbri, Teutones) and raiding deep into foreign territory; the temper is warlike and competitive.
+
 __Disaffection, Apathy & Spent Will:__ Defeat can shatter will temporarily — the Cimbrian destruction is total — but the system regenerates; disaffection is managed through migration (the discontented leave) or violence (challengers are killed); spent will is episodic, not systemic; the residue is cleared by demographic renewal and new leadership.
+
 
 ## D06. Informational Domain
 

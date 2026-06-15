@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime rates explode — organized crime control
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Humiliation defines the collective mood — the loss of superpower status, the visible poverty beside new wealth, the sense that a lifetime of work has been erased, the daily evidence of a fallen state; alcohol consumption surges as a form of self-medication.
-
 __Leadership & Personal Authority:__ Yeltsin embodies both the promise and the failure: initially heroic for standing against the coup, progressively discredited by economic collapse, corruption, and his own visible alcoholism; his authority erodes but no alternative leader emerges until he anoints Putin.
 
 __Legitimacy as Lived Allegiance:__ The new order lacks legitimacy; privatization is widely seen as theft; democracy is associated with chaos; nostalgia for Soviet stability grows among those who suffered most from transition.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will fragments into competing interests
 
 __External Relations & Posture:__ Russia's weakness is exposed in its acceptance of NATO expansion, its dependence on Western loans and IMF conditions, and its inability to project power except destructively in Chechnya; the posture is resentful and humiliated rather than assertive.
 
+__Public Sentiment & Behavioral Temper:__ Humiliation defines the collective mood — the loss of superpower status, the visible poverty beside new wealth, the sense that a lifetime of work has been erased, the daily evidence of a fallen state; alcohol consumption surges as a form of self-medication.
+
 __Disaffection, Apathy & Spent Will:__ By decade's end, political participation has collapsed; turnout falls; trust in institutions approaches zero; the population is exhausted, cynical, and willing to accept authority in exchange for stability — the precondition for Putin's consolidation.
+
 
 ## D06. Informational Domain
 

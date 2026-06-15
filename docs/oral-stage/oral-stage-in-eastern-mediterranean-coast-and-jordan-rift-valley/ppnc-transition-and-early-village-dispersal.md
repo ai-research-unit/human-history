@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Unresolved tensions from the collapse — dispu
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety and uncertainty pervade as the settled order dissolves; trust contracts to the immediate kin group, and suspicion of outsiders intensifies as competition for diminished resources sharpens.
-
 __Leadership & Personal Authority:__ Leadership crystallizes around individuals who can articulate a path forward — the persuasive elder, the successful herdsman — whose authority rests entirely on spoken word and demonstrated competence, not inherited office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the village as a collective dissolves with its physical abandonment; loyalty transfers to kin leaders and pastoral bands, sustained by oral narrative of shared descent and remembered obligation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity fragments �
 
 __External Relations & Posture:__ Relations with neighboring groups shift from village-to-village exchange to pastoral negotiation over grazing rights and water access, mediated by spoken treaty and seasonal movement patterns.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety and uncertainty pervade as the settled order dissolves; trust contracts to the immediate kin group, and suspicion of outsiders intensifies as competition for diminished resources sharpens.
+
 __Disaffection, Apathy & Spent Will:__ The failure of the village system leaves a residue of disillusionment — the investments in plaster floors and skull caches come to nothing; survivors carry forward an oral memory of collapse that tempers ambition for nucleated settlement.
+
 
 ## D06. Informational Domain
 

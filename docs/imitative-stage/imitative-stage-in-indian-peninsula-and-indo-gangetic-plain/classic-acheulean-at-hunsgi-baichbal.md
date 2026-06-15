@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social tensions discharge through direct confro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Baseline affect combines vigilance toward external threats with familiarity and trust within the group. Mood tracks immediate circumstance: satiation and safety permit relaxation; hunger and danger heighten tension. Interpersonal trust extends to known companions; strangers evoke wariness.
-
 __Leadership & Personal Authority:__ Leadership is earned through demonstrated competence in specific domains—knapping skill, hunting success, knowledge of water sources. Authority is situational; the same individual may lead in one context and follow in another. Personal authority requires continuous validation; it cannot be stored or inherited.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal, directed toward specific individuals rather than abstract positions or institutions. Compliance flows from relationship and respect rather than recognition of formal authority. The concept of legitimacy as distinct from personal trust does not yet exist.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action emerges from converge
 
 __External Relations & Posture:__ Encounters with other bands are infrequent and cautious. Outcomes range from avoidance to display to mating opportunities to violent confrontation depending on resource pressure, kinship recognition, and immediate circumstance. No sustained inter-group politics or alliance structures exist.
 
+__Public Sentiment & Behavioral Temper:__ Baseline affect combines vigilance toward external threats with familiarity and trust within the group. Mood tracks immediate circumstance: satiation and safety permit relaxation; hunger and danger heighten tension. Interpersonal trust extends to known companions; strangers evoke wariness.
+
 __Disaffection, Apathy & Spent Will:__ Affective exhaustion manifests as withdrawal from group activity or departure from the band. Given continuous face-to-face interaction, severe disaffection cannot accumulate invisibly; it resolves through reconciliation or exit. The small scale prevents building reservoirs of discontent.
+
 
 ## D06. Informational Domain
 

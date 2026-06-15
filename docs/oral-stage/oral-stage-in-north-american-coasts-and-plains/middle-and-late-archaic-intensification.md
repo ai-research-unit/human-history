@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The general temper appears confident and expansive, consistent with a period of population growth and successful adaptation; the construction of monumental earthworks suggests collective enthusiasm and shared purpose; trust extends along kinship lines and through established exchange relationships to distant partners.
-
 __Leadership & Personal Authority:__ Leaders gain authority through demonstrated competence in hunting, oratory, ritual knowledge, or diplomatic skill; authority is personal rather than institutional; leadership at centers like Poverty Point is probably enhanced, involving individuals who coordinate large-scale activities, but still depends on persuasion and prestige rather than coercion.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin groups, successful leaders, and the ancestors whose memory is preserved; the order is legitimated through oral tradition linking present arrangements to the foundational acts of ancestors and powerful beings; disaffection can express itself through departure but the system generates loyalty through reciprocity and shared identity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve is demonstrated in m
 
 __External Relations & Posture:__ Relations between groups are structured through exchange partnerships, intermarriage, and shared ceremonial participation; the posture is generally open, as evidenced by the vast distances materials travel; conflict exists but does not dominate external relations; expansion into new territories continues where resources allow.
 
+__Public Sentiment & Behavioral Temper:__ The general temper appears confident and expansive, consistent with a period of population growth and successful adaptation; the construction of monumental earthworks suggests collective enthusiasm and shared purpose; trust extends along kinship lines and through established exchange relationships to distant partners.
+
 __Disaffection, Apathy & Spent Will:__ The period shows no evidence of spent will or widespread disaffection; the residue is minimal — occasional interpersonal conflicts, perhaps some failed aggregations — but the overall trajectory is one of growing collective capacity and shared purpose.
+
 
 ## D06. Informational Domain
 

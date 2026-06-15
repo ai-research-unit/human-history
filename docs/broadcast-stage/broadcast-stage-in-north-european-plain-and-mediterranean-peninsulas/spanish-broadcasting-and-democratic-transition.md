@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ ETA terrorism and Basque conflict required broa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Radio was the affective medium of the Civil War (both sides); Franco-era broadcasting cultivated passive acceptance; democratic transition used television to project normalcy and stability; by 2010, audience fragmentation and political polarization eroded shared broadcast-mediated sentiment.
-
 __Leadership & Personal Authority:__ Franco monopolized broadcast access for forty years; the transition made King Juan Carlos a television figure (especially the 1981 coup address); democratic leaders competed for favorable coverage but no figure dominated broadcast presence as Franco had.
 
 __Legitimacy as Lived Allegiance:__ TVE was an instrument of regime legitimation under Franco; the transition required the same institution to legitimize democracy — a transformation managed through personnel changes and programming shifts; autonomous community broadcasters supported regional identity legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcast coverage of the 1981 coup att
 
 __External Relations & Posture:__ Spanish broadcasting projected post-Franco normalization and European integration; telenovela exports and co-productions with Latin America maintained cultural influence; Catalan and Basque international services addressed diaspora populations.
 
+__Public Sentiment & Behavioral Temper:__ Radio was the affective medium of the Civil War (both sides); Franco-era broadcasting cultivated passive acceptance; democratic transition used television to project normalcy and stability; by 2010, audience fragmentation and political polarization eroded shared broadcast-mediated sentiment.
+
 __Disaffection, Apathy & Spent Will:__ By 2010, audience fragmentation and partisan polarization left broadcast-mediated public sphere fractured; public trust in TVE as neutral information source had declined significantly; younger audiences migrated to internet platforms.
+
 
 ## D06. Informational Domain
 

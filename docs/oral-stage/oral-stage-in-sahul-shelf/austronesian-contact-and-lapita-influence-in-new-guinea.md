@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-group warfare provides outlet for tension
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The temper varies by context — festive exuberance at ceremonies, wariness toward enemies and strangers, calculated self-interest in exchange; trust extends through kinship and exchange partnerships; the emotional landscape is charged by the ever-present possibility of warfare, sorcery, and competitive display.
-
 __Leadership & Personal Authority:__ Big-man leadership is the dominant pattern — authority achieved through demonstrated prowess in exchange, warfare, and oratory; leaders must constantly perform their status; followers can shift allegiance; some Austronesian communities show hereditary chiefly tendencies but these remain limited.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derives from success — a big-man who delivers in exchange and warfare commands allegiance; failure erodes authority rapidly; no institutional legitimacy exists; ancestral precedent provides normative framework.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for exchan
 
 __External Relations & Posture:__ Relations with other groups are structured by exchange partnership or enmity; trade friends are protected, enemies are raided; Austronesian-Papuan relations in contact zones blend both patterns; Torres Strait islanders mediate between worlds; posture toward outsiders is wary but permeable to exchange.
 
+__Public Sentiment & Behavioral Temper:__ The temper varies by context — festive exuberance at ceremonies, wariness toward enemies and strangers, calculated self-interest in exchange; trust extends through kinship and exchange partnerships; the emotional landscape is charged by the ever-present possibility of warfare, sorcery, and competitive display.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection attaches to failed big-men who lose followers; systemic apathy is absent; the drive for status and the obligations of kinship sustain engagement; warfare maintains emotional intensity even when destructive.
+
 
 ## D06. Informational Domain
 

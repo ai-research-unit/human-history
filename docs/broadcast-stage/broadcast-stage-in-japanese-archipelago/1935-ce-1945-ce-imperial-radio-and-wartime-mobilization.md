@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dissent suppressed; overt resistance minimal; d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Wartime morale sustained by propaganda, censorship, and genuine patriotic sentiment; doubt and war-weariness spread after 1944 defeats but remain private; the radius of trust extends to the nation as imagined community, contracted under suspicion of defeatism.
-
 __Leadership & Personal Authority:__ Emperor Hirohito as sacred sovereign — his voice unheard by the public until the surrender broadcast; Prime Minister Tojo Hideki (1941–1944) exercises executive authority; military leadership dominates cabinet; personal authority concentrated but factional.
 
 __Legitimacy as Lived Allegiance:__ The imperial institution commands deep allegiance; the war effort draws legitimacy from defense of the kokutai (national polity); allegiance holds until the emperor's own voice commands surrender.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state mobilizes total commitment: "
 
 __External Relations & Posture:__ Aggressive expansion 1937–1942; defensive contraction 1943–1945; the Axis alliance with Germany and Italy formal but operationally disconnected; relations with the United States shift from rivalry to existential war.
 
+__Public Sentiment & Behavioral Temper:__ Wartime morale sustained by propaganda, censorship, and genuine patriotic sentiment; doubt and war-weariness spread after 1944 defeats but remain private; the radius of trust extends to the nation as imagined community, contracted under suspicion of defeatism.
+
 __Disaffection, Apathy & Spent Will:__ Private war-weariness grows but cannot be voiced; the surrender broadcast releases suppressed doubt; exhaustion and disorientation at defeat leave will spent — the emotional residue the occupation inherits.
+
 
 ## D06. Informational Domain
 

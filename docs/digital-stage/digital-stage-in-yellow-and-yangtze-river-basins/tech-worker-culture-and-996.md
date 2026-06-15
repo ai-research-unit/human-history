@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Layoff waves—2022 and after—discharge thous
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Ambivalence characterizes tech-worker mood—pride in building China's digital economy coexists with resentment at exploitation. The 2021 "lying flat" discourse crystallizes refusal, rejecting the striving ethic without offering an alternative.
-
 __Leadership & Personal Authority:__ Founders like Jack Ma and Zhang Yiming embody the success myth; their lifestyles and pronouncements shape aspirations. Ma's 2019 defense of 996 as "blessing" alienates workers and attracts regulatory scrutiny.
 
 __Legitimacy as Lived Allegiance:__ Belief in meritocracy sustains effort—the idea that hard work leads to wealth and status. As layoffs hit high performers alongside laggards, that belief erodes; cynicism spreads.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is suppressed; strike
 
 __External Relations & Posture:__ Tech workers compare their conditions to Silicon Valley counterparts; US salaries and work-life balance become reference points. Emigration appeals to top talent, though visa restrictions and patriotic sentiment limit exits.
 
+__Public Sentiment & Behavioral Temper:__ Ambivalence characterizes tech-worker mood—pride in building China's digital economy coexists with resentment at exploitation. The 2021 "lying flat" discourse crystallizes refusal, rejecting the striving ethic without offering an alternative.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion accumulates; "involution" (neijuan) describes the sense of running ever harder to stay in place. Some workers disengage mentally while remaining physically present, producing minimum viable output.
+
 
 ## D06. Informational Domain
 

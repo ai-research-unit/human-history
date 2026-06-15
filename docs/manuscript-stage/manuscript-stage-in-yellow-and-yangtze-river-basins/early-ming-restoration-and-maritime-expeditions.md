@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Hongwu reign ends factional threats through
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Relief at the restoration of Chinese rule after Mongol dominion marks the early Ming mood; Hongwu's terror creates an atmosphere of fear among officials; popular sentiment remains generally supportive through the period of recovery and stability; the abandonment of the maritime expeditions occasions no recorded popular protest.
-
 __Leadership & Personal Authority:__ Hongwu and Yongle are emperors of exceptional personal force, dominating their governments through will and terror; subsequent emperors exercise varying degrees of personal rule; the concentration of authority in the throne creates dependence on imperial capacity; eunuch influence grows as emperors withdraw.
 
 __Legitimacy as Lived Allegiance:__ The Ming claims the Mandate of Heaven as restorer of Chinese civilization after Mongol barbarism; the restoration narrative commands genuine allegiance; the examination system and Confucian ideology reinforce loyalty among the educated; popular allegiance holds through this period of prosperity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Hongwu emperor's will shapes the dy
 
 __External Relations & Posture:__ The tributary system structures relations with neighboring states; Korea, Vietnam (briefly conquered 1407–1427), Ryukyu, and various Southeast Asian polities participate; Mongol remnants pose the primary external threat; Zheng He's voyages project power across the Indian Ocean but end without permanent presence; the posture shifts from aggressive projection under Yongle to defensive consolidation.
 
+__Public Sentiment & Behavioral Temper:__ Relief at the restoration of Chinese rule after Mongol dominion marks the early Ming mood; Hongwu's terror creates an atmosphere of fear among officials; popular sentiment remains generally supportive through the period of recovery and stability; the abandonment of the maritime expeditions occasions no recorded popular protest.
+
 __Disaffection, Apathy & Spent Will:__ Among officials, Hongwu's purges create traumatized compliance rather than enthusiastic service; the maritime faction loses after Zheng He; bureaucratic caution and risk-aversion become dominant modes; by 1500, the will to external engagement has spent itself in favor of internal consolidation.
+
 
 ## D06. Informational Domain
 

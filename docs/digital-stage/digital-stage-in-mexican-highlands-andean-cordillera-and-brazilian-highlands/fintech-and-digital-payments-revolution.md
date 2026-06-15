@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Financial fraud migrates to digital channels, w
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Distrust of traditional banks, rooted in memories of hyperinflation (Brazil 1980s-90s, Argentina's corralito, Venezuela's collapse), creates receptivity to fintech alternatives that promise transparency and lower fees.
-
 __Leadership & Personal Authority:__ Fintech founders like Nubank's David Velez become public figures, their personal brands embodying the promise of disrupting entrenched banking interests on behalf of ordinary consumers.
 
 __Legitimacy as Lived Allegiance:__ Traditional banks face legitimacy erosion as fintech adoption signals rejection of their high-fee, branch-based model, forcing defensive digital transformations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Central bank willingness to license non
 
 __External Relations & Posture:__ US and European fintech investors pour capital into Latin American markets, viewing the region's underbanked population as growth opportunity, while Chinese platforms Ant Financial and Tencent explore entry.
 
+__Public Sentiment & Behavioral Temper:__ Distrust of traditional banks, rooted in memories of hyperinflation (Brazil 1980s-90s, Argentina's corralito, Venezuela's collapse), creates receptivity to fintech alternatives that promise transparency and lower fees.
+
 __Disaffection, Apathy & Spent Will:__ Those excluded from digital finance—the elderly, rural, and digitally illiterate—experience a new form of marginalization as cash-based commerce contracts and digital-only services multiply.
+
 
 ## D06. Informational Domain
 

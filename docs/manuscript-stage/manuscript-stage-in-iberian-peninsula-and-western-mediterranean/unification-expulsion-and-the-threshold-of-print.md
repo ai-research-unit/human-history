@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The expulsion of Jews and repression of convers
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Triumphalism marks the conquest of Granada and the Atlantic discovery; religious fervor and purity anxiety grip the populace; trust contracts around lineage and Old Christian status; conversos live in fear of denunciation; the mood is confident but edged with suspicion.
-
 __Leadership & Personal Authority:__ Ferdinand and Isabella command joint authority, their partnership projecting unity; Cardinal Cisneros wields spiritual and administrative power; Columbus embodies the adventurer-visionary; the monarchs' personal presence legitimizes policy.
 
 __Legitimacy as Lived Allegiance:__ The conquest of Granada and the Atlantic enterprise boost royal legitimacy; the Inquisition enforces religious conformity, deepening allegiance among Old Christians while alienating conversos; the dual monarchy commands broad assent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The monarchs display relentless will in
 
 __External Relations & Posture:__ Dynastic marriages project Iberian power into Habsburg, Tudor, and Portuguese orbits; rivalry with France over Italy intensifies; Portugal accepts the Treaty of Tordesillas (1494), dividing Atlantic claims; the posture is expansive, oriented toward Europe and the Atlantic.
 
+__Public Sentiment & Behavioral Temper:__ Triumphalism marks the conquest of Granada and the Atlantic discovery; religious fervor and purity anxiety grip the populace; trust contracts around lineage and Old Christian status; conversos live in fear of denunciation; the mood is confident but edged with suspicion.
+
 __Disaffection, Apathy & Spent Will:__ Converso disaffection smolders under inquisitorial pressure; exiled Jews carry grievance into diaspora; morisco communities submit outwardly but harbor resentment; among Old Christians, no significant disaffection surfaces; the residue is suppressed rather than resolved.
+
 
 ## D06. Informational Domain
 

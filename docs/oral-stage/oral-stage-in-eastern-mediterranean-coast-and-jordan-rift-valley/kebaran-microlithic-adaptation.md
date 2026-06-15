@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Grievance is managed through avoidance, fission
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust within bands is high; inter-band sentiment depends on kinship and exchange history; resource stress during LGM peak heightens anxiety but is managed through mobility and mutual aid; optimism returns as warming begins.
-
 __Leadership & Personal Authority:__ Leadership is informal — skilled hunters, eloquent speakers, wise elders command situational authority; influence rests on demonstrated competence; no formal office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and voluntary; legitimacy inheres in competence and fairness; disaffection leads to departure, not rebellion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires verbal conse
 
 __External Relations & Posture:__ Relations with neighboring bands are managed through kinship, intermarriage, and gift exchange; rivalry over resource patches is defused by negotiation or spatial separation; no expansionist ambition.
 
+__Public Sentiment & Behavioral Temper:__ Trust within bands is high; inter-band sentiment depends on kinship and exchange history; resource stress during LGM peak heightens anxiety but is managed through mobility and mutual aid; optimism returns as warming begins.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as fission — discontented individuals join other bands; apathy is rare in face-to-face groups; will is re-anchored through seasonal ritual.
+
 
 ## D06. Informational Domain
 

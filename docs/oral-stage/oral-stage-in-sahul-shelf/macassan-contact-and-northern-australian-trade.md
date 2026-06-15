@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes over Macassan goods, women, or perceiv
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Coastal groups develop familiarity with Macassans over generations—songs, ceremonies, and oral histories incorporate Macassan figures, ships, and trade goods; the annual arrival becomes anticipated rather than feared; trust is bounded and transactional rather than deep; inland groups remain more cautious of external contact.
-
 __Leadership & Personal Authority:__ Individuals who successfully mediate the Macassan trade gain influence; however, their authority remains personal and cannot compel beyond what tradition allows; ceremonial leadership and trade mediation may coincide but are not identical.
 
 __Legitimacy as Lived Allegiance:__ The Dreaming remains the source of legitimacy; Macassan contact is incorporated into Dreaming narratives (the Birrinydji figure in Yolngu tradition) rather than challenging them; allegiance to traditional authority is undiminished.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action to exploit or defend 
 
 __External Relations & Posture:__ Relations with Macassans are managed through protocols: designated landing sites, recognized trade partners, understood obligations; the posture is cautiously welcoming, calibrated to extract benefit while limiting disruption; no expansionist drive emerges on either side.
 
+__Public Sentiment & Behavioral Temper:__ Coastal groups develop familiarity with Macassans over generations—songs, ceremonies, and oral histories incorporate Macassan figures, ships, and trade goods; the annual arrival becomes anticipated rather than feared; trust is bounded and transactional rather than deep; inland groups remain more cautious of external contact.
+
 __Disaffection, Apathy & Spent Will:__ The trade provides new goods and novelty that invigorate rather than exhaust social energy; no disaffection or apathy emerges from the contact; the residue is minimal.
+
 
 ## D06. Informational Domain
 

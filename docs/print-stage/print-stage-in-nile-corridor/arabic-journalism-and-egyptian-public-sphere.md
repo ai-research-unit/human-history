@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Newspapers folded regularly, with hundreds of t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nationalist sentiment intensified over the period, with print both reflecting and shaping public feeling; the Dinshaway incident (1906), the 1919 Revolution, and Palestine defeat (1948) were emotional peaks that demonstrated print's capacity to focus and amplify collective affect.
-
 __Leadership & Personal Authority:__ Editor-politicians achieved celebrity status: Mustafa Kamil's Al-Liwa, Lutfi al-Sayyid's Al-Jarida, and later Ihsan Abdel Quddus's Rose al-Yusuf created public figures whose authority derived from print presence.
 
 __Legitimacy as Lived Allegiance:__ The press constituted the arena where legitimacy was contested; governments rose and fell partly on press campaigns; the Wafd's strength rested significantly on its press network.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Print mobilized will across the century
 
 __External Relations & Posture:__ Egyptian papers articulated positions on British occupation, Ottoman caliphate, Arab nationalism, and Zionism, helping constitute Egypt's sense of its regional role; the pan-Arab imagination was partly a creation of Cairo's Arabic press.
 
+__Public Sentiment & Behavioral Temper:__ Nationalist sentiment intensified over the period, with print both reflecting and shaping public feeling; the Dinshaway incident (1906), the 1919 Revolution, and Palestine defeat (1948) were emotional peaks that demonstrated print's capacity to focus and amplify collective affect.
+
 __Disaffection, Apathy & Spent Will:__ Press pluralism generated cacophony as well as coordination; political exhaustion following repeated frustrations (1919, 1936, 1942, 1948) appeared in editorial tone; revolutionary takeover met limited resistance partly because exhaustion had drained attachment to the old system.
+
 
 ## D06. Informational Domain
 

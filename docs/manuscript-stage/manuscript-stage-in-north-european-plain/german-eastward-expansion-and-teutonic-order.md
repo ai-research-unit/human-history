@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warfare against Prussians and Lithuanians is en
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Crusading fervor legitimizes conquest; settler optimism drives migration; indigenous populations experience dispossession and fear.
-
 __Leadership & Personal Authority:__ Hermann von Salza, Grand Master of the Teutonic Order (1209–1239), dominates diplomacy, securing papal and imperial privileges; Silesian dukes (Henry I, Henry II) lead colonization and die defending against Mongols; personal authority shapes outcomes.
 
 __Legitimacy as Lived Allegiance:__ Papal bulls and imperial charters confer legitimacy on the Order's crusade; settlers accept princely and Order authority in exchange for favorable tenure; indigenous populations resist but lack unified counter-authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Order's monastic discipline sustain
 
 __External Relations & Posture:__ The Order negotiates simultaneously with pope, emperor, and Polish dukes to secure its Prussian base; relations with pagan Lithuanians and Prussians are purely hostile; the Mongol irruption (1241) briefly unites Christendom in fear before withdrawal.
 
+__Public Sentiment & Behavioral Temper:__ Crusading fervor legitimizes conquest; settler optimism drives migration; indigenous populations experience dispossession and fear.
+
 __Disaffection, Apathy & Spent Will:__ Indigenous Prussian uprisings (Great Prussian Uprising, 1260–1274, lies just beyond the window but roots form here) reflect accumulated disaffection; settler attrition in frontier hardship breeds some disillusionment.
+
 
 ## D06. Informational Domain
 

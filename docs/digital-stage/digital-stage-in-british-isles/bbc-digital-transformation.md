@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Jimmy Savile abuse revelations (2012) represent
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ BBC evokes strong but divided sentiment. Older audiences express affection and loyalty; younger demographics display indifference or active hostility to license fee. Political right attacks BBC as biased liberal; political left attacks BBC as establishment mouthpiece. Trust levels decline but remain higher than for most media.
-
 __Leadership & Personal Authority:__ Director-General Tim Davie (from 2020) emphasizes impartiality and political neutrality, positioning BBC against culture war accusations. High-profile presenters—David Attenborough (nature documentaries), Gary Lineker (sports), Fiona Bruce (Question Time)—become institutional faces.
 
 __Legitimacy as Lived Allegiance:__ License fee model's legitimacy erodes as viewing habits change. Those who never watch broadcast television or use BBC services question compulsory payment. Political attacks on BBC from Conservative governments through this period intensify pressure.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ BBC leadership navigates between commer
 
 __External Relations & Posture:__ BBC World Service maintains global reach, though faces funding pressures. World Service funding shifted to license fee in 2014 (from Foreign Office grant), then partially restored in 2016. BBC Studios competes internationally as content exporter.
 
+__Public Sentiment & Behavioral Temper:__ BBC evokes strong but divided sentiment. Older audiences express affection and loyalty; younger demographics display indifference or active hostility to license fee. Political right attacks BBC as biased liberal; political left attacks BBC as establishment mouthpiece. Trust levels decline but remain higher than for most media.
+
 __Disaffection, Apathy & Spent Will:__ Staff morale challenged by repeated restructuring, redundancies, and external attack. Some prominent departures to commercial rivals. Institutional confidence weakened by serial crises.
+
 
 ## D06. Informational Domain
 

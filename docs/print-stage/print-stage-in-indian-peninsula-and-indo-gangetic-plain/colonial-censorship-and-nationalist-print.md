@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Censorship generates resentment that feeds nati
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sympathy flows to suppressed publications; readers develop emotional attachment to censored papers whose very suppression validates their nationalist credentials; the ban becomes advertisement.
-
 __Leadership & Personal Authority:__ Editor-martyrs acquire charismatic authority; Tilak's sedition trials (1897, 1908) transform him from regional editor to national figure; Gandhi's willingness to accept imprisonment for his journalism (1922) exemplifies sacrificial leadership.
 
 __Legitimacy as Lived Allegiance:__ Colonial censorship undermines its own legitimacy by demonstrating that British rule cannot tolerate free expression; each prosecution invites comparison with metropolitan press freedom, exposing colonial hypocrisy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Censorship tests nationalist resolve; t
 
 __External Relations & Posture:__ Censorship in India receives attention from metropolitan liberals, Labour politicians, and international observers; the Indian press frames censorship as evidence of colonial illegitimacy for external audiences, seeking allies abroad.
 
+__Public Sentiment & Behavioral Temper:__ Public sympathy flows to suppressed publications; readers develop emotional attachment to censored papers whose very suppression validates their nationalist credentials; the ban becomes advertisement.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged suppression can exhaust editors and readers; the severe censorship of 1942–1945 produces a quieter press, though whether this reflects changed sentiment or enforced silence is ambiguous; post-independence relaxation reveals suppressed energies intact.
+
 
 ## D06. Informational Domain
 

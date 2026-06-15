@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence saturates occupied Europe — executio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear pervades occupied populations — fear of deportation, denunciation, reprisal; hope attaches to Allied advance and BBC broadcasts; resignation, desperation, and rage coexist; the emotional terrain is extreme.
-
 __Leadership & Personal Authority:__ Churchill's radio presence (BBC) sustains British and occupied-Europe morale; de Gaulle broadcasts from London to Free France; Hitler's radio addresses become less frequent as war turns; resistance leaders operate anonymously or from exile.
 
 __Legitimacy as Lived Allegiance:__ Occupation regimes command compliance without allegiance; collaborationist governments (Vichy, Quisling Norway) claim legitimacy few accept; resistance claims future legitimacy; actual allegiance fragmentally divides populations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Allied will to victory consolidates aft
 
 __External Relations & Posture:__ Broadcasting becomes a weapon of war — BBC European Service broadcasts in occupied languages; Nazi propaganda targets neutral and enemy populations; the information war parallels military operations.
 
+__Public Sentiment & Behavioral Temper:__ Fear pervades occupied populations — fear of deportation, denunciation, reprisal; hope attaches to Allied advance and BBC broadcasts; resignation, desperation, and rage coexist; the emotional terrain is extreme.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness accumulates as conflict lengthens; defeatism spreads in Germany from 1943; occupied populations endure through exhaustion rather than conviction; the emotional residue is trauma that will shape postwar generations.
+
 
 ## D06. Informational Domain
 

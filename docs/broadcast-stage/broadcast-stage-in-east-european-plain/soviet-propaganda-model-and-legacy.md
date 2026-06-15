@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The apparatus ossified under Brezhnev; elderly 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The propaganda system aimed to manufacture enthusiasm, mobilize effort, and channel grievance toward approved targets (capitalists, fascists, imperialists). Success was partial; cynicism coexisted with genuine patriotism, especially around Great Patriotic War memory.
-
 __Leadership & Personal Authority:__ Stalin's cult of personality was broadcast's first great project; his image and voice saturated the airwaves. Subsequent leaders received similar treatment, diminishing returns setting in as Brezhnev's senescence became television spectacle. Putin-era media restored effective personal projection.
 
 __Legitimacy as Lived Allegiance:__ Broadcast could not manufacture genuine belief but could suppress public expression of disbelief. The gap between private cynicism and public conformity was the system's operating condition.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Wartime radio demonstrated broadcast's 
 
 __External Relations & Posture:__ Foreign policy was broadcast's safest subject; anti-Western messaging required no falsification of domestic reality. Cold War framing provided permanent enemy, permanent justification, permanent distraction.
 
+__Public Sentiment & Behavioral Temper:__ The propaganda system aimed to manufacture enthusiasm, mobilize effort, and channel grievance toward approved targets (capitalists, fascists, imperialists). Success was partial; cynicism coexisted with genuine patriotism, especially around Great Patriotic War memory.
+
 __Disaffection, Apathy & Spent Will:__ By 1985, the gap between broadcast enthusiasm and population exhaustion was unbridgeable. Glasnost released suppressed energy briefly; post-Soviet disillusionment produced new apathy that Putin-era stability exploited.
+
 
 ## D06. Informational Domain
 

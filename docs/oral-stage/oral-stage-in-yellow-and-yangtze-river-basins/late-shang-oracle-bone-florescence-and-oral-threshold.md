@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Human sacrifice discharges captives and perhaps
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite sentiment is dominated by ancestral piety and ritual anxiety — the need to please ancestors and secure their blessing. Fear of divine displeasure and enemy attack colors royal divination. Trust radiates outward from lineage; inter-lineage relations are cautious. The behavioral temper is ritualized, hierarchical, and violence-ready. Commoner sentiment is invisible but presumably shaped by the same ancestral piety and local loyalties.
-
 __Leadership & Personal Authority:__ The king (wang) is the supreme leader, mediating between the living and the ancestors through divination. His personal authority rests on ritual efficacy, military success, and lineage prestige. Oracle bones record kings by name (Wu Ding, the most prolific, reigns in the early part of this window); their personalities shape policy. Charisma is enacted through sacrifice, warfare, and successful divination.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on the king's unique access to ancestors and his role as ritual leader. Allegiance is enacted through participation in sacrifice and tribute. Disaffection exists — oracle bones mention rebellious subordinates — but the ritual-military nexus sustains the royal claim. Legitimacy is eroding slowly as peripheral enemies press and subordinate lineages negotiate autonomy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Royal will is focused on maintaining an
 
 __External Relations & Posture:__ The Shang face hostile neighbors on multiple fronts: Qiang pastoralists to the northwest, various fang (enemy polities) to the north and west, and less-visible southern competitors. Posture is defensive-aggressive: campaigns to punish raiders and extract captives, punctuated by periods of peace. Oracle bones record warfare as a recurring concern. Diplomatic relations with subordinate allies involve tribute, marriage, and ritual obligation.
 
+__Public Sentiment & Behavioral Temper:__ Elite sentiment is dominated by ancestral piety and ritual anxiety — the need to please ancestors and secure their blessing. Fear of divine displeasure and enemy attack colors royal divination. Trust radiates outward from lineage; inter-lineage relations are cautious. The behavioral temper is ritualized, hierarchical, and violence-ready. Commoner sentiment is invisible but presumably shaped by the same ancestral piety and local loyalties.
+
 __Disaffection, Apathy & Spent Will:__ The oracle bone archive itself registers royal anxiety — constant questioning of ancestors about outcomes, enemies, and harvests. Disaffection among subordinates appears as rebellion and defection. Apathy is not visible, but the sheer volume of divination suggests a ruling elite seeking reassurance. Will is not yet spent but is under strain from external pressure and internal competition.
+
 
 ## D06. Informational Domain
 

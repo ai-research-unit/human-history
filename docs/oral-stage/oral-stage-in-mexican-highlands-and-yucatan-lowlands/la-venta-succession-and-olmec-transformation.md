@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through feasting,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment during La Venta's apogee is confident; monumental construction proceeds for centuries. Trust extends within kin networks and to the elite center. As decline sets in, sentiment likely darkens; the defacement of monuments suggests contested legitimacy.
-
 __Leadership & Personal Authority:__ Leadership is personal and charismatic; rulers are likely priest-kings whose authority fuses religious and political power. Colossal heads may depict specific rulers, memorializing personal authority in stone.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is enacted through ritual participation, labor tribute, and acceptance of elite cosmology. Legitimacy depends on successful mediation with the supernatural; failure—crop failure, flood, defeat—erodes it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is directed toward monu
 
 __External Relations & Posture:__ La Venta projects influence through prestige and ideology, not conquest. Relations with distant regions (Oaxaca, highlands) are diplomatic and commercial; no subordination is imposed. Rivalry with emerging centers (San Jose Mogote, Chalcatzingo) may increase toward the window's end.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment during La Venta's apogee is confident; monumental construction proceeds for centuries. Trust extends within kin networks and to the elite center. As decline sets in, sentiment likely darkens; the defacement of monuments suggests contested legitimacy.
+
 __Disaffection, Apathy & Spent Will:__ The terminal defacement of La Venta's monuments—heads buried, altars mutilated—indicates spent legitimacy or active repudiation. Whether internal disaffection or external attack, the affective bond to the center breaks by 400 BCE.
+
 
 ## D06. Informational Domain
 

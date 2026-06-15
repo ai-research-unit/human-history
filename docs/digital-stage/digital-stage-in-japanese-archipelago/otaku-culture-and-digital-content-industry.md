@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Studio collapses and bankruptcies recur (Manglo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Otaku identity evolves from stigmatized label toward mainstream acceptance, with anime consumption becoming normal rather than deviant; pandemic isolation increases reliance on media for emotional connection and comfort.
-
 __Leadership & Personal Authority:__ Prominent creators (Makoto Shinkai, Demon Slayer's Koyoharu Gotouge) achieve celebrity status, with their works treated as cultural events; VTuber talents develop intense parasocial followings, with top performers commanding devoted fandoms.
 
 __Legitimacy as Lived Allegiance:__ Fan loyalty to franchises, studios, and creators generates predictable consumption patterns that support long-term planning; betrayal of fan expectations (poor adaptations, creator misconduct revelations) triggers intense backlash.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Industry-wide reform efforts remain wea
 
 __External Relations & Posture:__ International fan communities increasingly influence domestic production decisions, with social media providing direct feedback; Chinese market access considerations shape content choices, with politically sensitive content avoided.
 
+__Public Sentiment & Behavioral Temper:__ Otaku identity evolves from stigmatized label toward mainstream acceptance, with anime consumption becoming normal rather than deviant; pandemic isolation increases reliance on media for emotional connection and comfort.
+
 __Disaffection, Apathy & Spent Will:__ Fan burnout manifests in reduced engagement, with oversaturation of content options fragmenting attention; creator burnout produces hiatuses, health crises, and early retirements, depleting industry talent.
+
 
 ## D06. Informational Domain
 

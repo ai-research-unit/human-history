@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Warfare is constant; disorder is the norm. Stat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Commoner sentiment is hard to access; sources are elite. Among the literate, urgency and competition dominate. Rulers seek advantage desperately; advisors promise victory. A ruthless pragmatism, captured in Legalist texts, coexists with Confucian moral anxiety. The temper is calculating and embattled.
-
 __Leadership & Personal Authority:__ Rulers vary from capable to dissolute. Effective ministers like Shang Yang (Qin), Wu Qi (Wei, Chu), and Li Kui (Wei) transform states through personal vision and will. The wandering persuaders (youshui) compete for influence, their authority based on eloquence and doctrine. Leadership is consequential; states rise and fall with capable or incapable rulers.
 
 __Legitimacy as Lived Allegiance:__ The Zhou king's legitimacy has become purely nominal. States claim legitimacy through success, not ancient right. Qin's eventual victory will be legitimated retrospectively by Mandate of Heaven rhetoric, but during the period, power legitimates itself. Allegiance follows effectiveness.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ States demonstrate formidable will to s
 
 __External Relations & Posture:__ Interstate relations are defined by strategic maneuvering. The "horizontal" (lianheng) strategy of Qin ally Zhang Yi and the "vertical" (hezong) alliance against Qin show sophisticated diplomatic thinking. Marriage alliances, hostage exchanges, and covenants structure relations alongside warfare. The posture is universally expansionist; only the balance of power restrains.
 
+__Public Sentiment & Behavioral Temper:__ Commoner sentiment is hard to access; sources are elite. Among the literate, urgency and competition dominate. Rulers seek advantage desperately; advisors promise victory. A ruthless pragmatism, captured in Legalist texts, coexists with Confucian moral anxiety. The temper is calculating and embattled.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection appears in philosophical withdrawal: the Zhuangzi's rejection of political engagement, the hermits who refuse office. Peasant exhaustion manifests in flight. Some late writings express weariness with endless war. But the states themselves do not lack will; they fight to the end.
+
 
 ## D06. Informational Domain
 

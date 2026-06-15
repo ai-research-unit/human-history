@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is low at this scale; disputes 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence rises with improving resource conditions; the prevailing mood is pragmatic and alert, shaped by the need to read weather, animal behavior, and the intentions of neighbors; interpersonal trust is high within the band, lower toward strangers.
-
 __Leadership & Personal Authority:__ Authority attaches to individuals who demonstrate skill and generosity; personal charisma secures followership, but no permanent office or title exists — leaders must continually earn allegiance through performance.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on demonstrated competence and adherence to sharing norms; a leader who hoards or fails loses standing immediately; no doctrine of inherited right exists.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The band musters collective will for co
 
 __External Relations & Posture:__ Relations with neighboring bands are generally peaceful, mediated by marriage exchange and shared ritual gatherings; territorial boundaries are fluid and defended only when resources are scarce; no standing enmity or alliance hierarchy exists.
 
+__Public Sentiment & Behavioral Temper:__ Confidence rises with improving resource conditions; the prevailing mood is pragmatic and alert, shaped by the need to read weather, animal behavior, and the intentions of neighbors; interpersonal trust is high within the band, lower toward strangers.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion and disaffection are rare; small-scale society permits exit over voice, and dissatisfied individuals simply relocate — the emotional residue does not accumulate.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Both polities collapsed around 1000 CE, with ab
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Subject populations apparently accepted Wari and Tiwanaku hegemony during their florescence, participating in state labor projects and adopting elements of imperial material culture. Whether this reflected genuine allegiance, pragmatic accommodation, or coerced compliance cannot be directly assessed.
-
 __Leadership & Personal Authority:__ Wari rulers remain anonymous in the archaeological record, though elite burials suggest concentrated authority. Tiwanaku iconography centers on the Gateway God (Viracocha) and suggests theocratic leadership, with authority legitimated through ritual performance and cosmological association.
 
 __Legitimacy as Lived Allegiance:__ State architecture and iconography projected power and cosmological order. Participation in state-sponsored feasting created reciprocal obligations and reinforced legitimacy through generosity. When redistribution faltered, allegiance eroded.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The construction of massive administrat
 
 __External Relations & Posture:__ Wari and Tiwanaku appear to have coexisted with a buffer zone rather than direct conflict, though Wari's expansion into the Moquegua Valley brought it adjacent to Tiwanaku territory. Relations with unconquered highland and lowland groups involved trade, alliance, and periodic raiding.
 
+__Public Sentiment & Behavioral Temper:__ Subject populations apparently accepted Wari and Tiwanaku hegemony during their florescence, participating in state labor projects and adopting elements of imperial material culture. Whether this reflected genuine allegiance, pragmatic accommodation, or coerced compliance cannot be directly assessed.
+
 __Disaffection, Apathy & Spent Will:__ The collapse around 1000 CE suggests accumulated disaffection or exhaustion. Administrative centers were abandoned, sometimes deliberately destroyed or ritually terminated. Successor polities were smaller, suggesting fragmented loyalties and spent imperial will.
+
 
 ## D06. Informational Domain
 

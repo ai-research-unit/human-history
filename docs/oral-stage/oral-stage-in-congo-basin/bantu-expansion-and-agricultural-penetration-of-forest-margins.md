@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through lineage 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Village life bred intimacy and tension in equal measure. Trust was high within lineage, lower toward affines and neighbors, lowest toward strangers and forest peoples. The temper was cautious, gossipy, and attentive to reputation. Collective mood tracked harvest success.
-
 __Leadership & Personal Authority:__ Authority attached to lineage elders, successful farmers, and ritual specialists. Personal charisma and oratorical skill mattered; the best speakers shaped consensus. Authority was earned and revocable—no hereditary office yet commanded obedience.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to lineage and village, not to larger polities. The order was justified by ancestry, custom, and the land cleared by founding ancestors. Legitimacy was oral and genealogical: those who could recite the lineage held authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action required consensus am
 
 __External Relations & Posture:__ Relations with forager populations ranged from symbiotic exchange to subordination and occasional violence. Relations with other farming villages were managed through marriage alliance and trade. Expansion was driven by land hunger, not conquest; posture was opportunistic rather than aggressive.
 
+__Public Sentiment & Behavioral Temper:__ Village life bred intimacy and tension in equal measure. Trust was high within lineage, lower toward affines and neighbors, lowest toward strangers and forest peoples. The temper was cautious, gossipy, and attentive to reputation. Collective mood tracked harvest success.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expressed itself through departure: dissatisfied lineage segments migrated to found new villages. Apathy was rare in the dynamic expansion phase; collective energy was absorbed by clearing, planting, and population growth. Spent will was a personal, not systemic, condition.
+
 
 ## D06. Informational Domain
 

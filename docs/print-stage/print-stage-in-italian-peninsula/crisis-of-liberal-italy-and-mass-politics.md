@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Milan massacre of 1898 (Fatti di Maggio) se
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nationalist sentiment intensifies, fueled by the irredentist movement and colonial ambition. Working-class solidarity grows around socialist ideals. Resentment of the political establishment pervades both left and right.
-
 __Leadership & Personal Authority:__ Giovanni Giolitti dominates politics (prime minister five times), mastering parliamentary management and co-optation. His pragmatic liberalism accommodates moderate socialists but alienates nationalists and Catholics. No charismatic mass leader emerges.
 
 __Legitimacy as Lived Allegiance:__ The expanded suffrage (1912 universal male suffrage) begins integrating the masses, but the political system retains its elite character. The Roman Question continues to estrange devout Catholics. Socialist ideology offers an alternative legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The reform impulse of the Giolittian er
 
 __External Relations & Posture:__ Italy remains in the Triple Alliance while pursuing opportunistic expansion. The Libyan War acquires a colony but at high cost. Irredentism demands Trentino and Trieste from Austria-Hungary. Ambivalence about alliance commitments will crystallize in 1914–1915.
 
+__Public Sentiment & Behavioral Temper:__ Nationalist sentiment intensifies, fueled by the irredentist movement and colonial ambition. Working-class solidarity grows around socialist ideals. Resentment of the political establishment pervades both left and right.
+
 __Disaffection, Apathy & Spent Will:__ Revolutionary syndicalism channels working-class disaffection outside parliamentary channels. Anarchist violence expresses nihilistic despair. Nationalist frustration with liberal caution breeds contempt for the parliamentary system.
+
 
 ## D06. Informational Domain
 

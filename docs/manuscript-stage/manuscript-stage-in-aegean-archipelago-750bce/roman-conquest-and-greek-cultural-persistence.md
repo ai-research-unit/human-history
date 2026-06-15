@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Roman civil wars bring disorder to the Greek wo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Greek populations experience conquest with mixed emotions — resentment at Roman dominance, pragmatic accommodation, and for some, admiration for Roman power; trust within Greek communities persists, though confidence in collective agency diminishes; Roman elites display philhellenic enthusiasm even as they rule.
-
 __Leadership & Personal Authority:__ Roman commanders — Mummius, Sulla, Pompey, Caesar, Antony — exercise authority through military power and personal charisma; Greek elites seek Roman patronage; Cleopatra, the last Ptolemaic ruler, embodies the persistence of Hellenistic royal authority until 30 BCE.
 
 __Legitimacy as Lived Allegiance:__ Roman rule is accepted as fait accompli rather than embraced; Greek elites collaborate to preserve status; popular allegiance is local and familial rather than imperial; legitimacy rests on Roman power and the benefits of peace and order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Greek collective political action is cu
 
 __External Relations & Posture:__ The Aegean is now part of Rome's sphere; external relations are managed by Rome; Greek cities and remaining Hellenistic states (Ptolemaic Egypt until 30 BCE) position themselves vis-a-vis Roman factions during civil wars; the end of the period sees Roman unification of the Mediterranean.
 
+__Public Sentiment & Behavioral Temper:__ Greek populations experience conquest with mixed emotions — resentment at Roman dominance, pragmatic accommodation, and for some, admiration for Roman power; trust within Greek communities persists, though confidence in collective agency diminishes; Roman elites display philhellenic enthusiasm even as they rule.
+
 __Disaffection, Apathy & Spent Will:__ Defeat and subordination breed disaffection among some Greeks; philosophical withdrawal (Epicurean retreat) offers consolation; emigration to Rome or elsewhere drains talent; exhaustion and accommodation characterize the post-conquest mood, though Greek cultural confidence persists.
+
 
 ## D06. Informational Domain
 

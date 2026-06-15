@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Periodic Bedouin raids on agricultural areas an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Resignation to Mamluk rule tempered by satisfaction with the protection of Islamic civilization after the Crusader expulsion and Mongol defeat; trust extends through kin, neighborhood, and Sufi brotherhood; anxiety during plague years, stability between them; the public temper cautious, pious, and locally oriented.
-
 __Leadership & Personal Authority:__ Mamluk governors and amirs command through military prestige and Cairo's backing; ulama scholars command through learning and piety; Sufi shaykhs command through spiritual authority; charismatic leadership emerges periodically among scholars and mystics, checked by institutional structures.
 
 __Legitimacy as Lived Allegiance:__ Mamluk rule accepted as the defender of Sunni Islam against Crusader and Mongol threats, its legitimacy reinforced by patronage of religious institutions; the Abbasid caliph in Cairo provides nominal sanction; allegiance genuine among beneficiaries of the system, thinner among overtaxed peasants and excluded populations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political initiative rests with Cairo; 
 
 __External Relations & Posture:__ The Levant as Mamluk province faces residual Crusader presence in Cyprus and emerging Ottoman power to the north; relations with European merchants regulated through treaties; the posture defensive, focused on maintaining the post-Crusader settlement and containing Bedouin and external threats.
 
+__Public Sentiment & Behavioral Temper:__ Resignation to Mamluk rule tempered by satisfaction with the protection of Islamic civilization after the Crusader expulsion and Mongol defeat; trust extends through kin, neighborhood, and Sufi brotherhood; anxiety during plague years, stability between them; the public temper cautious, pious, and locally oriented.
+
 __Disaffection, Apathy & Spent Will:__ Periodic disaffection among overtaxed populations and marginalized groups, contained by the coercive apparatus and channeled through Sufi devotion; no mass movements or revolutionary sentiment; the will adequate for routine governance, insufficient for reform or expansion.
+
 
 ## D06. Informational Domain
 

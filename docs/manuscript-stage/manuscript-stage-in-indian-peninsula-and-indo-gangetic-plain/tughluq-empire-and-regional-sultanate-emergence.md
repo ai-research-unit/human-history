@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period is marked by endemic rebellion — t
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Peasant populations endure taxation, famine, and war with resignation punctuated by flight or revolt when pushed past endurance; urban populations are animated by trade, craft, and religious life; the mood darkens through the famines and instability of mid-century; trust is localized to kin, guild, and community; the radius of interpersonal trust does not extend reliably to the sultanate apparatus, which is experienced as extractive and unpredictable.
-
 __Leadership & Personal Authority:__ Ghiyath al-Din Tughluq (r. 1320–1325) and Firuz Shah Tughluq (r. 1351–1388) are remembered as relatively competent and popular; Muhammad bin Tughluq (r. 1325–1351) — brilliant, innovative, and erratic — commands awe and terror but forfeits allegiance through failed policies, arbitrary punishments, and the Daulatabad debacle; personal authority is potent but unstable, tied to military success and the distribution of rewards; charisma does not institutionalize.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on Islamic sovereignty, the caliph's nominal endorsement (the Abbasid caliphs in Cairo grant recognition), military victory, and the dispensation of justice and patronage; allegiance is conditional — the amirs and provincial governors will shift loyalty if the center weakens or rewards cease; the sultanate is obeyed but not loved; disaffection rises as the century progresses.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The early Tughluqs display strong will 
 
 __External Relations & Posture:__ The sultanate projects power southward into the Deccan and Bengal, extracting tribute and occasionally annexing territory; relations with the Mongol-Timurid sphere to the northwest remain tense — earlier sultanates repelled Mongol invasions, and the memory persists; Timur's invasion (1398–1399) is presented as jihad and plunder, devastating Delhi and foreclosing any Tughluq recovery; trade relations with West Asia, Southeast Asia, and China continue despite political instability.
 
+__Public Sentiment & Behavioral Temper:__ Peasant populations endure taxation, famine, and war with resignation punctuated by flight or revolt when pushed past endurance; urban populations are animated by trade, craft, and religious life; the mood darkens through the famines and instability of mid-century; trust is localized to kin, guild, and community; the radius of interpersonal trust does not extend reliably to the sultanate apparatus, which is experienced as extractive and unpredictable.
+
 __Disaffection, Apathy & Spent Will:__ By the 1390s, the accumulated disaffection of overtaxed peasants, rebellious governors, and marginalized factions has hollowed the sultanate's will to act; the ruling family is divided; the amirs pursue their own interests; Timur's invasion finds a state too exhausted and fragmented to mount effective resistance; the spent will is not re-anchored but discharged into the successor state fragmentation.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Factional violence — Guelf versus Ghibelline,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Civic pride runs high: citizens identify intensely with their communes, celebrate victories, mourn defeats; confidence in commercial prosperity and communal institutions supports an expansive, competitive temper; trust extends within guild and confraternal networks but fractures along factional lines.
-
 __Leadership & Personal Authority:__ Leadership is collective and rotating in the communal system, but powerful individuals — Florentine bankers, Milanese lords, Venetian doges — exercise personal authority through wealth, patronage, and political skill; the condottiero as military leader gains prominence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches primarily to the commune and secondarily to guild, neighborhood, and faction; imperial and papal claims command nominal respect but cannot override local loyalty; the communal order enjoys substantial legitimacy among citizen classes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The communes display vigorous political
 
 __External Relations & Posture:__ Italian city-states pursue aggressive commercial and territorial expansion: Venice extends into the eastern Mediterranean, Genoa into the western, Florence absorbs Tuscan rivals; rivalries are fierce — Venice versus Genoa, Guelf versus Ghibelline alignments — but no single power dominates; the posture is competitive, expansionist, and fragmented.
 
+__Public Sentiment & Behavioral Temper:__ Civic pride runs high: citizens identify intensely with their communes, celebrate victories, mourn defeats; confidence in commercial prosperity and communal institutions supports an expansive, competitive temper; trust extends within guild and confraternal networks but fractures along factional lines.
+
 __Disaffection, Apathy & Spent Will:__ Factional exile breeds disaffection among the defeated; the laboring poor (popolo minuto) are excluded from political participation and accumulate grievances; but the system's dynamism and the era's prosperity contain these pressures, which have not yet hardened into systemic crisis.
+
 
 ## D06. Informational Domain
 

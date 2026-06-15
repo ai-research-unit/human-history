@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is channeled through electoral 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence runs high; Rome has defeated Carthage, Macedon, and the Seleucids. The mos maiorum remains the rhetorical standard, though luxury and Greek culture provoke conservative complaint (Cato the Elder). Trust extends within the patronage network; suspicion of foreign influence coexists with admiration.
-
 __Leadership & Personal Authority:__ Great commanders — Scipio Africanus, Aemilius Paullus, Scipio Aemilianus — concentrate personal authority through military glory. The cult of the triumphator elevates the victorious general, straining the collective ethos of the Republic.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the Republic is high; the constitution is revered. The Gracchan crisis reveals fissures — agrarian reform versus senatorial prerogative — but does not yet shatter consensus.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to expand and dominate is sust
 
 __External Relations & Posture:__ Rome's posture is hegemonic: alliances are asymmetric, and resistance is crushed (destruction of Carthage and Corinth, 146 BCE). Expansion is opportunistic rather than systematic; the Mediterranean becomes a Roman lake.
 
+__Public Sentiment & Behavioral Temper:__ Confidence runs high; Rome has defeated Carthage, Macedon, and the Seleucids. The mos maiorum remains the rhetorical standard, though luxury and Greek culture provoke conservative complaint (Cato the Elder). Trust extends within the patronage network; suspicion of foreign influence coexists with admiration.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is latent — among dispossessed smallholders, overworked slaves, and restive provincials — but not yet mobilized. The will to act remains robust; exhaustion lies ahead.
+
 
 ## D06. Informational Domain
 

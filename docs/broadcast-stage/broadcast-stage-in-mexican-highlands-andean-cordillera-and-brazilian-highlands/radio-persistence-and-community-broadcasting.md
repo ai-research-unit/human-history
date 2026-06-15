@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Community radio channels social friction that m
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Radio's auditory intimacy creates emotional connection that television's visual distance cannot match; voices become familiar companions, especially for isolated listeners; community stations generate fierce local loyalty while commercial stations cultivate parasocial relationships between audiences and celebrity hosts.
-
 __Leadership & Personal Authority:__ Radio personalities exercise significant influence: peasant leaders speaking to their communities, indigenous activists broadcasting in vernacular languages, and commercial hosts whose opinions shape local discourse; this personal authority concentrates where institutional authority is weak.
 
 __Legitimacy as Lived Allegiance:__ Community radio's legitimacy derives from service to its community — speaking their language, addressing their concerns, amplifying their voices — in contrast to commercial and state radio whose legitimacy depends on entertainment value and official sanction respectively.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Radio mobilizes collective action: stri
 
 __External Relations & Posture:__ Community radio networks (ALER, AMARC-ALC) create transnational solidarity, sharing programming, training, and advocacy across national boundaries; this external posture positions community broadcasting as a social movement with continental reach rather than isolated local initiatives.
 
+__Public Sentiment & Behavioral Temper:__ Radio's auditory intimacy creates emotional connection that television's visual distance cannot match; voices become familiar companions, especially for isolated listeners; community stations generate fierce local loyalty while commercial stations cultivate parasocial relationships between audiences and celebrity hosts.
+
 __Disaffection, Apathy & Spent Will:__ Volunteer fatigue threatens community radio's sustainability: the activists who establish stations burn out, younger generations prefer digital media, and the medium's marginality within the broader mediascape generates demoralization; this spent will constitutes the sector's principal vulnerability.
+
 
 ## D06. Informational Domain
 

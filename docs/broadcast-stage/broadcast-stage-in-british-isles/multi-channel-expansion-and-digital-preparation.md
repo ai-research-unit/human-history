@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The ITV network fragments commercially as regio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-Cold War optimism mixes with economic anxiety following the 1992 recession, while "Cool Britannia" cultural confidence emerges mid-decade; Diana's 1997 death triggers collective mourning that television both reflects and amplifies.
-
 __Leadership & Personal Authority:__ Rupert Murdoch exercises decisive influence over British broadcasting through BSkyB and newspaper holdings, while BBC Director-Generals John Birt and later Greg Dyke reshape the corporation; Tony Blair cultivates media relationships assiduously.
 
 __Legitimacy as Lived Allegiance:__ The BBC maintains broad public support despite Conservative hostility, though younger audiences show declining attachment to traditional public service values; BSkyB earns customer loyalty through sports content despite political criticism.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Cross-party consensus supports digital 
 
 __External Relations & Posture:__ British broadcasting maintains global prestige through BBC World Service and program exports, while European content quotas create regulatory friction and American programming dominates multi-channel schedules.
 
+__Public Sentiment & Behavioral Temper:__ Post-Cold War optimism mixes with economic anxiety following the 1992 recession, while "Cool Britannia" cultural confidence emerges mid-decade; Diana's 1997 death triggers collective mourning that television both reflects and amplifies.
+
 __Disaffection, Apathy & Spent Will:__ Terrestrial broadcasters face morale challenges as budgets tighten and multi-channel competition fragments audiences, while the BBC's internal market generates staff cynicism about managerial priorities.
+
 
 ## D06. Informational Domain
 

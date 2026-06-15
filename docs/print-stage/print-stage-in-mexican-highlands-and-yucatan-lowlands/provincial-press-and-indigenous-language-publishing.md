@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Revolutionary violence (1910-1920) destroys pro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Provincial sentiment cycles between regional pride and resentment of capital dominance; indigenous sentiment remains largely inaccessible through Spanish-language sources; enthusiasm for independence and revolution mobilizes across regions but is represented primarily through capital publications; provincial mood depends on regional economic conditions, political treatment, and cultural connection to broader national narratives.
-
 __Leadership & Personal Authority:__ Provincial newspaper editors often serve as regional political figures; governors control official papers; hacienda owners sponsor sympathetic publications; indigenous communities lack leaders operating in print sphere until limited engagement with indigenismo programs; personal authority operates through oral networks rather than print amplification for most provincial and nearly all indigenous populations.
 
 __Legitimacy as Lived Allegiance:__ National governments struggle to establish legitimacy in provinces throughout nineteenth century; Porfirian order achieves stability through coercion and co-optation; revolutionary legitimacy varies by faction and region; post-revolutionary PRI consolidates allegiance through material delivery and corporatist incorporation; provincial print reflects rather than generates legitimacy patterns; indigenous allegiance operates through community and linguistic affiliation rather than national print sphere.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Provincial political will manifests thr
 
 __External Relations & Posture:__ Border regions (north, Yucatan) maintain connections with external actors (United States, Central America, Caribbean) that occasionally support print operations; foreign investment (especially US in mining and petroleum) brings English-language publications for foreign communities; international revolutionary movements provide occasional support for opposition press; but external relations primarily reinforce capital dominance rather than provincial autonomy.
 
+__Public Sentiment & Behavioral Temper:__ Provincial sentiment cycles between regional pride and resentment of capital dominance; indigenous sentiment remains largely inaccessible through Spanish-language sources; enthusiasm for independence and revolution mobilizes across regions but is represented primarily through capital publications; provincial mood depends on regional economic conditions, political treatment, and cultural connection to broader national narratives.
+
 __Disaffection, Apathy & Spent Will:__ Provincial populations experience cycles of mobilization and exhaustion; indigenous communities particularly affected by repeated dispossession generating resignation and withdrawal; post-revolutionary incorporation produces acquiescence rather than enthusiasm; disaffection expressed through migration (to capital, to United States) rather than provincial organizing; the spent will of repeatedly frustrated regional movements settles as provincial deference to capital authority.
+
 
 ## D06. Informational Domain
 

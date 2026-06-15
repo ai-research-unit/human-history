@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Interstate warfare was endemic, producing casua
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Multiple polities and religious options gave populations more choices than under Mauryan centralization. Trade prosperity generated confidence in commercial regions. Religious diversity (Buddhism, Jainism, Brahmanical traditions, and new forms like Mahayana) offered varied emotional outlets. The public temper was neither uniformly anxious nor confident; it varied by region, class, and religious affiliation.
-
 __Leadership & Personal Authority:__ Charismatic leaders emerged in several contexts: the Kushan kings Kanishka I and his successors, Satavahana rulers, and religious figures like the Mahayana teachers. Personal authority was necessary for political survival in the competitive multistate environment. No single figure achieved Ashokan stature or subcontinental reach.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy was constructed through multiple means: kshatriya genealogical claims, Buddhist chakravartin ideology, patronage of religion and learning, military success. The foreign origin of Indo-Greek, Shaka, and Kushan rulers required legitimation efforts visible in their coinage, inscriptions, and religious patronage. Allegiance was more conditional and negotiated than under Mauryan rule.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will was fragmented among com
 
 __External Relations & Posture:__ Interstate relations were competitive and often hostile. Diplomatic marriage and alliance existed alongside warfare. External relations extended to Rome (primarily commercial) and China (Kushan diplomatic contacts). The general posture was expansionist where opportunity allowed, defensive otherwise.
 
+__Public Sentiment & Behavioral Temper:__ Multiple polities and religious options gave populations more choices than under Mauryan centralization. Trade prosperity generated confidence in commercial regions. Religious diversity (Buddhism, Jainism, Brahmanical traditions, and new forms like Mahayana) offered varied emotional outlets. The public temper was neither uniformly anxious nor confident; it varied by region, class, and religious affiliation.
+
 __Disaffection, Apathy & Spent Will:__ Endemic warfare may have produced war-weariness in affected populations. Religious renunciation (Buddhist and Jain monasticism) offered exit from political engagement. Elite factionalism led to frequent coups and succession crises. The residue of spent will accumulated but was not catastrophic; the system reproduced itself through new dynasties and realignments.
+
 
 ## D06. Informational Domain
 

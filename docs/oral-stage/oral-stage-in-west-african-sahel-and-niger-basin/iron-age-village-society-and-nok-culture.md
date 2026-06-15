@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Disputes settled by elder mediation, divination
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is pragmatic and attuned to agricultural and ritual cycles; trust extends within kin and village; intergroup relations are negotiated cautiously; anxiety rises during drought or conflict.
-
 __Leadership & Personal Authority:__ Elders and lineage heads hold authority through seniority, oratorical skill, and ritual knowledge; smiths and diviners command respect through craft mastery and spiritual mediation; no paramount chiefs or kings; leadership is situational, personal, and earned.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to kin, village, and ancestral cult; legitimacy rests on oral tradition, genealogical precedent, and ritual performance; no abstract political loyalty; authority must be continuously performed and validated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action mobilizes for defense
 
 __External Relations & Posture:__ Relations with neighboring villages and pastoral groups negotiated orally through trade, intermarriage, and alliance; hostility is episodic; no standing alliances or enmities; no external imperial threat in this period.
 
+__Public Sentiment & Behavioral Temper:__ The mood is pragmatic and attuned to agricultural and ritual cycles; trust extends within kin and village; intergroup relations are negotiated cautiously; anxiety rises during drought or conflict.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the system is small-scale and kin-embedded; frustration absorbed through kinship and ritual; exhaustion is seasonal, tied to agricultural labor.
+
 
 ## D06. Informational Domain
 

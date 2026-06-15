@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Refugee influx from the north, repeated militar
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety and oscillation between trust in Yahweh's protection and despair at national catastrophe characterized the public mood; the miraculous deliverance of Jerusalem in 701 BCE fostered belief in Zion's inviolability, while the destruction of 586 BCE shattered that confidence.
-
 __Leadership & Personal Authority:__ Kings Hezekiah (715–686 BCE) and Josiah (640–609 BCE) commanded reforming zeal and personal authority sufficient to centralize worship and consolidate the Yahwist cult; weaker successors, caught between Egypt and Babylon, lacked the charisma to rally popular support or resist imperial pressure.
 
 __Legitimacy as Lived Allegiance:__ Davidic dynastic legitimacy remained largely intact throughout the period, reinforced by prophetic sanction and temple cult; the destruction of the temple and exile of the king in 586 BCE posed an existential crisis of legitimacy that only manuscript preservation of covenantal tradition could begin to address.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to resist fluctuated with lead
 
 __External Relations & Posture:__ Judah navigated between Assyrian, Egyptian, and Babylonian powers through tribute, alliance, and rebellion; the stance shifted from vassal compliance to revolt and back, each shift driven by calculation of which overlord posed the greater threat and whether Egyptian intervention might tip the balance.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety and oscillation between trust in Yahweh's protection and despair at national catastrophe characterized the public mood; the miraculous deliverance of Jerusalem in 701 BCE fostered belief in Zion's inviolability, while the destruction of 586 BCE shattered that confidence.
+
 __Disaffection, Apathy & Spent Will:__ The trauma of repeated invasion, siege, and deportation left a residue of exhaustion and despair; the prophets addressed this disaffection with calls to repentance and promises of restoration, channeling spent will into religious renewal that manuscript culture could carry beyond the catastrophe.
+
 
 ## D06. Informational Domain
 

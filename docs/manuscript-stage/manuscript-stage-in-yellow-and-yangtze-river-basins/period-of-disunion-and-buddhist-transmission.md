@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ War, rebellion, banditry, and displacement were
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Pervasive insecurity colored emotional life. Elite sentiment ranged from worldly engagement to withdrawal and escapism; the qingtan (pure conversation) movement celebrated philosophical detachment. Popular sentiment oscillated between desperation during crises and cautious normalcy in peaceful intervals. Buddhism's promise of salvation and explanation of suffering resonated with the prevailing mood.
-
 __Leadership & Personal Authority:__ Rulers rose and fell by military success and personal capacity. Dynastic legitimacy was weak; usurpation was frequent. Charismatic religious figures — Buddhist monks, Daoist masters — commanded followings that transcended political boundaries. Warlord loyalty depended on personal ties and material rewards.
 
 __Legitimacy as Lived Allegiance:__ No polity commanded the universal allegiance that Han legitimacy had once provided. Regional states claimed various forms of legitimacy — dynastic succession, mandate of heaven, ethnic solidarity — with limited persuasive power beyond their immediate reach. Buddhism offered a legitimating framework that ambitious rulers increasingly deployed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Factional conflict within ruling groups
 
 __External Relations & Posture:__ The distinction between "internal" and "external" blurred as non-Chinese peoples established states within the Chinese ecumene and Chinese states bordered other Chinese states. Tributary rhetoric persisted but reflected actual power balances imperfectly. Northern states interacted with steppe confederations; southern states engaged in maritime diplomacy with Southeast Asian polities.
 
+__Public Sentiment & Behavioral Temper:__ Pervasive insecurity colored emotional life. Elite sentiment ranged from worldly engagement to withdrawal and escapism; the qingtan (pure conversation) movement celebrated philosophical detachment. Popular sentiment oscillated between desperation during crises and cautious normalcy in peaceful intervals. Buddhism's promise of salvation and explanation of suffering resonated with the prevailing mood.
+
 __Disaffection, Apathy & Spent Will:__ Elite withdrawal from public life — into philosophy, religion, or aestheticized seclusion — marked pervasive disillusion. Popular exhaustion with war was periodically mobilized by millennial movements promising an end to suffering. Repeated disappointments bred cynicism about political authority of any kind.
+
 
 ## D06. Informational Domain
 

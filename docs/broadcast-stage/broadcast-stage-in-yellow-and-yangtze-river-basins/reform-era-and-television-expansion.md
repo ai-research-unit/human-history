@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Student protests in 1986–1987 signal emerging
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The reform era generates optimism and entrepreneurial energy; public sentiment shifts from the exhaustion of continuous revolution to hope for material improvement; trust in the reform direction remains high through the mid-1980s before inflation and corruption concerns erode confidence.
-
 __Leadership & Personal Authority:__ Deng Xiaoping dominates without holding top party or state positions, exercising paramount authority through personal networks and revolutionary credentials; his pragmatic reform message displaces Maoist ideology; Hu Yaobang and Zhao Ziyang serve as reform-oriented general secretaries until their respective falls.
 
 __Legitimacy as Lived Allegiance:__ Performance legitimacy replaces revolutionary legitimacy as the tacit social contract shifts to delivering growth in exchange for political quiescence; this bargain holds through the 1980s for most of the population but fractures among urban intellectuals and students demanding political reform.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The party's will to reform economically
 
 __External Relations & Posture:__ Normalization with the United States (1979) and opening to Western investment reshape China's international posture; broadcasting of foreign affairs emphasizes modernization partnerships while maintaining vigilance against "spiritual pollution" from Western culture.
 
+__Public Sentiment & Behavioral Temper:__ The reform era generates optimism and entrepreneurial energy; public sentiment shifts from the exhaustion of continuous revolution to hope for material improvement; trust in the reform direction remains high through the mid-1980s before inflation and corruption concerns erode confidence.
+
 __Disaffection, Apathy & Spent Will:__ The Tiananmen movement's suppression produces disaffection among urban intellectuals and students but is met with acquiescence by the broader population; the party's demonstration of coercive resolve and subsequent economic acceleration prevents disaffection from becoming politically consequential.
+
 
 ## D06. Informational Domain
 

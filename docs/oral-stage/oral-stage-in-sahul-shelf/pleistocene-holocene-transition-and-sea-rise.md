@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction intensifies where displaced pop
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Generational experience of landscape transformation likely produces persistent anxiety and mourning; living memory encompasses the drowning of ancestral territories, the loss of contact with kin across widening waters, and repeated displacement from established camps.
-
 __Leadership & Personal Authority:__ Leadership depends on demonstrated knowledge and judgment; those who successfully guide groups through territorial transition gain authority while those whose knowledge applies only to drowned landscapes lose practical influence.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy remains grounded in kinship and competence; no overarching political authority exists to be either affirmed or challenged by environmental disruption.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will focuses on adaptation �
 
 __External Relations & Posture:__ Relations between populations that will become permanently separated likely shift from kin-based amity to neutral distance as contact becomes first difficult, then impossible; the last generations to cross what becomes open water may maintain nominal relationships that dissolve within their children's lifetimes.
 
+__Public Sentiment & Behavioral Temper:__ Generational experience of landscape transformation likely produces persistent anxiety and mourning; living memory encompasses the drowning of ancestral territories, the loss of contact with kin across widening waters, and repeated displacement from established camps.
+
 __Disaffection, Apathy & Spent Will:__ The psychological burden of permanent loss — territories, kin networks, ancestral knowledge rendered inapplicable — represents a significant affective challenge; oral tradition must process unprecedented discontinuity.
+
 
 ## D06. Informational Domain
 

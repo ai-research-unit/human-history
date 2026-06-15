@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Deepfake pornography emerged as a harassment ve
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ AI generated both excitement and anxiety — techno-optimists saw productivity revolution; skeptics feared job losses and information chaos; surveys showed mixed attitudes, with concerns about AI safety and job displacement balanced against interest in AI benefits; a general unease about AI's trajectory pervaded public sentiment.
-
 __Leadership & Personal Authority:__ Sunak positioned himself as AI-engaged, hosting the Bletchley Summit; Starmer's Labour inherited the AI governance agenda; tech leaders (Demis Hassabis of DeepMind, UK-based) gained public profile; no single AI-era leader commanded the landscape.
 
 __Legitimacy as Lived Allegiance:__ Government legitimacy, damaged by Partygate and post-pandemic exhaustion, partially recovered under Starmer's 2024 victory; AI governance was not yet a major legitimacy issue but the potential for AI-related scandals (bias, harm, misuse) loomed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The UK demonstrated will to engage AI g
 
 __External Relations & Posture:__ UK positioned itself between US (light-touch, innovation-focused) and EU (precautionary, rights-focused) AI regulatory approaches; sought to attract AI investment while maintaining safety credibility; US-UK AI cooperation deepened; China AI competition framed as geopolitical context.
 
+__Public Sentiment & Behavioral Temper:__ AI generated both excitement and anxiety — techno-optimists saw productivity revolution; skeptics feared job losses and information chaos; surveys showed mixed attitudes, with concerns about AI safety and job displacement balanced against interest in AI benefits; a general unease about AI's trajectory pervaded public sentiment.
+
 __Disaffection, Apathy & Spent Will:__ Post-pandemic political exhaustion persisted; AI added new anxieties without resolving existing ones; creative industry frustration with AI-enabled content replacement generated specific disaffection; the general sense of institutions failing to keep pace with technological change deepened.
+
 
 ## D06. Informational Domain
 

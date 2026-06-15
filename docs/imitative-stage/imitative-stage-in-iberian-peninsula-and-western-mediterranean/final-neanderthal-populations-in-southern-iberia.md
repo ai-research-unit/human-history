@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The social residue was extinction itself: no ch
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional register of final Neanderthal populations is irrecoverable, but the archaeological evidence — continued hearth maintenance, careful tool production, symbolic marking — suggests persistence of collective will and mutual attachment rather than despair; yet the contraction of the social world must have registered as loss.
-
 __Leadership & Personal Authority:__ Leadership was personal and situational: the best hunter led the hunt, the most experienced healer tended the sick; authority derived from demonstrated competence and could not be transferred except by demonstration.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy questions did not arise in bands where cooperation was the condition of survival; allegiance was to kin and band, not to an abstract order.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve persisted — the co
 
 __External Relations & Posture:__ Relations with anatomically modern humans, if any occurred, are archaeologically invisible in the Gibraltar region during this window; whether displacement, avoidance, competition, or occasional interbreeding occurred remains contested; the posture of final Neanderthal populations may have been one of contraction and avoidance rather than confrontation.
 
+__Public Sentiment & Behavioral Temper:__ The emotional register of final Neanderthal populations is irrecoverable, but the archaeological evidence — continued hearth maintenance, careful tool production, symbolic marking — suggests persistence of collective will and mutual attachment rather than despair; yet the contraction of the social world must have registered as loss.
+
 __Disaffection, Apathy & Spent Will:__ The emotional residue was not disaffection but bereavement compounded — the accumulating loss of kin, of knowledge-holders, of the social world itself; whether this settled as despair or simply as diminished capacity is unknowable.
+
 
 ## D06. Informational Domain
 

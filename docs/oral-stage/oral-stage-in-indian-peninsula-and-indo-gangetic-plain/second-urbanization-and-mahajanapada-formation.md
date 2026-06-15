@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Interstate warfare is chronic; the sixteen Maha
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urbanization brings confidence and ambition; merchants and artisans enjoy rising prosperity. Warfare creates insecurity along frontiers. Trust within guilds and kin groups is high; trust across caste and political lines is lower. The mood is dynamic, competitive, expansive.
-
 __Leadership & Personal Authority:__ Kings (raja) command personal loyalty through prowess, generosity, and ritual status. Charismatic leaders — Bimbisara and Ajatashatru of Magadha, for instance — expand their realms through alliance and conquest. Brahmin priests claim authority through Vedic knowledge.
 
 __Legitimacy as Lived Allegiance:__ Kingship is legitimated by Vedic ritual (rajasuya, ashvamedha), descent, and success in war. Subjects owe loyalty so long as the king protects and does not overtax. Legitimacy is oral: the spoken word of priests and bards confirms the ruler's right.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Competition among Mahajanapadas drives 
 
 __External Relations & Posture:__ Mahajanapadas form alliances, make war, and absorb neighbors. Magadha pursues aggressive expansion. Taxila's oligarchic republic maintains relations with Achaemenid Persia. No external hegemon dominates; the system is multipolar and competitive.
 
+__Public Sentiment & Behavioral Temper:__ Urbanization brings confidence and ambition; merchants and artisans enjoy rising prosperity. Warfare creates insecurity along frontiers. Trust within guilds and kin groups is high; trust across caste and political lines is lower. The mood is dynamic, competitive, expansive.
+
 __Disaffection, Apathy & Spent Will:__ Repeated warfare exhausts some populations; taxes burden peasants. Disaffection finds expression in migration, banditry, or (by window's end) renunciation movements. Will is not yet spent; the age is marked by expansion rather than exhaustion.
+
 
 ## D06. Informational Domain
 

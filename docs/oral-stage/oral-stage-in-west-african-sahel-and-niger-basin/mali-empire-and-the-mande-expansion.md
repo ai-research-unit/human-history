@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes recur, as the Keita lineage
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The empire enjoys prestige and legitimacy at its height; the mansa's authority is accepted as divinely sanctioned and ancestrally grounded. Trust extends along kinship and trade networks; strangers are treated according to their lineage connections and merchant credentials. Temper is confident during the thirteenth and early fourteenth centuries, anxious as decline sets in.
-
 __Leadership & Personal Authority:__ The mansa is the apex of political authority, commanding loyalty through lineage prestige, military success, and generous redistribution. Mansa Musa (r. c. 1312–1337 CE) epitomizes effective leadership: his pilgrimage to Mecca (1324–1325 CE) displays wealth on a scale that disrupts Egyptian gold markets and brings Mali to Mediterranean attention. Subsequent mansaa struggle to match his stature; personal authority declines with imperial fortunes.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on three pillars: Keita descent from Sundiata, whose oral epic is performed at coronations; Islamic piety, demonstrated through pilgrimage, mosque construction, and patronage of scholars; and the material benefits of peace and trade. Allegiance holds while all three are credible; succession disputes and military failures erode belief in the mansa's divine favor.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The empire's will to expand peaks under
 
 __External Relations & Posture:__ Mali projects power northward, securing the trans-Saharan routes through tributary arrangements with Tuareg groups and control of Timbuktu. Relations with North African states are commercial and diplomatic; Mansa Musa's pilgrimage is both religious obligation and diplomatic display. Relations with Songhai to the east shift from suzerainty to rivalry. The posture is extractive and hegemonic, not expansionist for territory but for trade control.
 
+__Public Sentiment & Behavioral Temper:__ The empire enjoys prestige and legitimacy at its height; the mansa's authority is accepted as divinely sanctioned and ancestrally grounded. Trust extends along kinship and trade networks; strangers are treated according to their lineage connections and merchant credentials. Temper is confident during the thirteenth and early fourteenth centuries, anxious as decline sets in.
+
 __Disaffection, Apathy & Spent Will:__ Decline in the fifteenth century generates disaffection: provincial governors defect, tribute payments cease, and peripheral peoples reject Keita authority. The will to reconquer flags; the mansa's reach contracts. The residue is resignation in the Mande heartland and opportunism on the margins.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1848 revolutions fail violently (French sie
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Revolutionary enthusiasm in 1848 gives way to despair; Piedmontese leadership revives hope after 1852; Garibaldi's expedition generates popular frenzy; southern populations are ambivalent or hostile to northern takeover.
-
 __Leadership & Personal Authority:__ Cavour epitomizes calculating statecraft, manipulating press and diplomacy; Garibaldi embodies romantic heroism, commanding volunteer devotion; Victor Emmanuel II personifies monarchical legitimacy; Mazzini remains the prophet in exile, marginalized by Cavourian realism.
 
 __Legitimacy as Lived Allegiance:__ Piedmontese legitimacy extends through plebiscites (1859–1860) that ratify annexations; the new Kingdom claims national legitimacy against papal and Bourbon claims; southern legitimism persists among peasants loyal to the Bourbons.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Cavour's will drives Piedmontese policy
 
 __External Relations & Posture:__ France under Napoleon III is the essential ally; Austrian defeat (1859) is the pivot; Britain provides diplomatic sympathy and naval tolerance; Prussia is not yet a factor; the papacy relies on French garrison.
 
+__Public Sentiment & Behavioral Temper:__ Revolutionary enthusiasm in 1848 gives way to despair; Piedmontese leadership revives hope after 1852; Garibaldi's expedition generates popular frenzy; southern populations are ambivalent or hostile to northern takeover.
+
 __Disaffection, Apathy & Spent Will:__ The post-1848 decade sees exile and despair among revolutionaries; Piedmont's success rekindles hope; after 1860, southern disaffection manifests as brigandage; the national project generates as much resentment as enthusiasm in annexed territories.
+
 
 ## D06. Informational Domain
 

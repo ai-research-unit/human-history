@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is cautious resilience; glacial hardship breeds wariness, but the persistence of symbolic behavior and social networks indicates maintained morale — trust extends within the band and to allied bands, while strangers are approached with caution.
-
 __Leadership & Personal Authority:__ Leadership remains achieved; skilled knappers, successful hunters, and knowledgeable elders command influence without coercive power — the Howiesons Poort innovations may be associated with particular individuals or lineages whose techniques spread through imitation and teaching.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the band is lived and renewed by daily cooperation and ritual; disaffection is expressed by departure rather than rebellion — legitimacy rests on the shared struggle against a harsh environment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized through 
 
 __External Relations & Posture:__ Relations with other bands range from alliance and intermarriage to avoidance and occasional violence; no posture of expansion or conquest — the affective stance toward outsiders is cautious neutrality, with resource competition intensifying as populations concentrate in refugia.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is cautious resilience; glacial hardship breeds wariness, but the persistence of symbolic behavior and social networks indicates maintained morale — trust extends within the band and to allied bands, while strangers are approached with caution.
+
 __Disaffection, Apathy & Spent Will:__ The glacial maximum may have tested collective will, but the persistence of occupation and innovation indicates that apathy did not prevail — the residue of spent will does not accumulate to the point of collapse.
+
 
 ## D06. Informational Domain
 

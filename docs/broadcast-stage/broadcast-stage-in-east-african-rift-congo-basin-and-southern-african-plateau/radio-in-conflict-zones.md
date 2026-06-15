@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict is disorder's apex; radio cannot conta
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear, hatred, and trauma dominate conflict-zone psychology; radio amplifies these affects, broadcasting panic (Rwanda roadblock locations), triumphalism (rebel victories), and mourning (death announcements and memorial programming).
-
 __Leadership & Personal Authority:__ Charismatic leaders use radio to project authority; Mobutu's addresses, Kagame's post-genocide broadcasts, various rebel commanders' direct appeals to followers constitute personal authority exercised through the medium.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is contested through competing broadcasts; whoever holds the airwaves claims the state, and populations judge legitimacy partly by broadcast professionalism and partly by who controls the signal.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Radio mobilizes collective action—mas
 
 __External Relations & Posture:__ International community interventions (MONUSCO in DRC, UNAMIR in Rwanda) use radio to project presence; external powers jam hostile stations (US jamming of RTLM considered but not implemented), and diaspora stations broadcast from exile.
 
+__Public Sentiment & Behavioral Temper:__ Fear, hatred, and trauma dominate conflict-zone psychology; radio amplifies these affects, broadcasting panic (Rwanda roadblock locations), triumphalism (rebel victories), and mourning (death announcements and memorial programming).
+
 __Disaffection, Apathy & Spent Will:__ Prolonged conflict produces numbness; populations tune out or tune in selectively, and post-conflict societies exhibit radio fatigue alongside residual distrust; the will to engage with broadcast information is spent alongside other forms of civic energy.
+
 
 ## D06. Informational Domain
 

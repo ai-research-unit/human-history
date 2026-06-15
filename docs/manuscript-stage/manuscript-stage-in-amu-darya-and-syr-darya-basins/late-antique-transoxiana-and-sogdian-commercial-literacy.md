@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political fragmentation among city-states produ
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Merchant pragmatism and cosmopolitan openness characterised the Sogdian outlook. Trust networks extended across religious and ethnic boundaries; commercial reputation was paramount.
-
 __Leadership & Personal Authority:__ Local ikhshids and prominent merchant patriarchs commanded allegiance through wealth, lineage, and patron-client ties. Charismatic authority was localised rather than centralised.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derived from commercial success, religious piety, and accommodation with overlords. No mass disaffection is recorded; the merchant-led order delivered prosperity.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity was high for
 
 __External Relations & Posture:__ Relations with Hephthalites, Turks, Sasanians, and Tang China were managed through tribute, trade, and diplomacy. Sogdians served as intermediaries and interpreters between powers, valued for their commercial and linguistic skills.
 
+__Public Sentiment & Behavioral Temper:__ Merchant pragmatism and cosmopolitan openness characterised the Sogdian outlook. Trust networks extended across religious and ethnic boundaries; commercial reputation was paramount.
+
 __Disaffection, Apathy & Spent Will:__ No significant disaffection is documented; the system delivered prosperity and security adequate to maintain allegiance through the window.
+
 
 ## D06. Informational Domain
 

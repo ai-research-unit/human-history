@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Evidence of destruction layers at some sites su
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Community cohesion was high, sustained by shared ritual and oral tradition; trust extended through kin networks and known neighbors; the mood appears stable, with gradual improvement in material conditions reinforcing confidence.
-
 __Leadership & Personal Authority:__ Leadership was personal and informal, vested in household heads, elders, and emerging craft specialists; at proto-urban centers, leaders with authority over larger populations appear, but their power rested on personal qualities and oral consensus, not formal office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was owed to kin leaders and community elders; legitimacy derived from oral tradition, ancestral precedent, and demonstrated competence; no evidence of contested succession or political upheaval at the community level.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action was mobilized through
 
 __External Relations & Posture:__ Inter-community relations mixed trade and occasional conflict; long-distance exchange networks created dependencies but also spread risk; no evidence of imperial ambition or systematic expansion, only gradual colonization of new territories by farming populations.
 
+__Public Sentiment & Behavioral Temper:__ Community cohesion was high, sustained by shared ritual and oral tradition; trust extended through kin networks and known neighbors; the mood appears stable, with gradual improvement in material conditions reinforcing confidence.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; communities remained small enough that discontent could be resolved through migration or mediation; the destruction levels at some sites may reflect local conflicts, but no systemic breakdown is attested.
+
 
 ## D06. Informational Domain
 

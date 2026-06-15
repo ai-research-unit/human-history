@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ #EndSARS protests (October 2020) demonstrate di
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Youth frustration with governance failures fuels digital activism; #EndSARS channels accumulated grievance against police brutality; anti-French sentiment rises in francophone Sahel, amplified by social media; pandemic anxiety drives information-seeking behavior.
-
 __Leadership & Personal Authority:__ Influencers and activists gain followings that rival traditional authority; Peter Obi emerges as digitally-native political figure; Sahel coup leaders use social media to project authority and gain legitimacy.
 
 __Legitimacy as Lived Allegiance:__ Democratic legitimacy erodes in Sahel (Mali coups 2020, 2021; Guinea 2021; Burkina Faso 2022); Nigerian government's Twitter ban damages credibility with youth; social media enables alternative narratives that bypass state media.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ #EndSARS demonstrates capacity for rapi
 
 __External Relations & Posture:__ French military presence in Sahel faces growing opposition mobilized through social media; Russian information operations exploit anti-French sentiment; ECOWAS struggles to maintain regional cohesion as coups multiply.
 
+__Public Sentiment & Behavioral Temper:__ Youth frustration with governance failures fuels digital activism; #EndSARS channels accumulated grievance against police brutality; anti-French sentiment rises in francophone Sahel, amplified by social media; pandemic anxiety drives information-seeking behavior.
+
 __Disaffection, Apathy & Spent Will:__ Post-#EndSARS crackdown generates disillusionment among activist youth; some emigrate, contributing to brain drain; others channel energy into 2023 electoral organizing; Sahel populations exhausted by insecurity oscillate between coup support and resignation.
+
 
 ## D06. Informational Domain
 

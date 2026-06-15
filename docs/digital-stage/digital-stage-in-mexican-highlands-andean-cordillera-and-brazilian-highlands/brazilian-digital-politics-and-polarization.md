@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ January 8, 2023 insurrection — thousands stor
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Polarization intensifies to point where family relationships fracture. "Coxinhas" versus "petralhas" mutual contempt hardens into tribal identity. Trust in opposing political camp collapses to near zero. Anger becomes dominant political emotion on platforms.
-
 __Leadership & Personal Authority:__ Bolsonaro builds direct relationship with supporters through social media, bypassing traditional media. His confrontational personal style — attacks on journalists, opponents, institutions — amplified through digital channels. Lula returns from prison to campaign through more traditional rallies but adapts to platform requirements.
 
 __Legitimacy as Lived Allegiance:__ Election denialism takes root in substantial minority. Bolsonaro's claims of electronic voting fraud, despite no evidence, circulate endlessly on WhatsApp. Millions believe 2022 election was stolen. Legitimacy of democratic institutions questioned by significant portion of electorate.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Both sides demonstrate intense mobiliza
 
 __External Relations & Posture:__ Bolsonaro cultivates Trump connection, sharing content and style. After both lose elections, insurrection attempts in both countries within days of each other — January 6 (2021 US) and January 8 (2023 Brazil) — digital cross-pollination of tactics evident.
 
+__Public Sentiment & Behavioral Temper:__ Polarization intensifies to point where family relationships fracture. "Coxinhas" versus "petralhas" mutual contempt hardens into tribal identity. Trust in opposing political camp collapses to near zero. Anger becomes dominant political emotion on platforms.
+
 __Disaffection, Apathy & Spent Will:__ Post-insurrection exhaustion sets in among Bolsonaro supporters. Criminal prosecutions of participants, Bolsonaro's flight to Florida and subsequent ban from running for office, create demobilization. However, underlying anger persists, awaiting new political vehicle.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession disputes within ruling lineages gene
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence prevails at the peak, when rains fall and trade flows; drought and succession crises produce anxiety and murmuring against rulers whose rain-calling power is questioned; interpersonal trust extends through kin and client networks but thins rapidly beyond them; the mood is watchful, attuned to signs of elite favor or disfavor.
-
 __Leadership & Personal Authority:__ Rulers at Mapungubwe and Great Zimbabwe command through sacred authority, descent from founding ancestors, and control over rain rituals and trade wealth; personal charisma and successful rain-calling reinforce legitimacy; the ruler's word, spoken in audience and carried by messengers, is the binding force of the polity.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is conditional on the ruler's ability to ensure rain, fertility, and protection; failure erodes loyalty rapidly; praise poetry publicly affirms legitimacy while genealogy anchors it in ancestral right; the reservoir of consent is real but shallow, requiring continuous performance to maintain.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ruling elite coheres around the rul
 
 __External Relations & Posture:__ Great Zimbabwe dominates its hinterland through prestige and trade control rather than conquest; relations with Swahili coast traders are commercial rather than political; no peer competitors within the region challenge the center directly during the peak, though subordinate polities maintain autonomy at the margins.
 
+__Public Sentiment & Behavioral Temper:__ Confidence prevails at the peak, when rains fall and trade flows; drought and succession crises produce anxiety and murmuring against rulers whose rain-calling power is questioned; interpersonal trust extends through kin and client networks but thins rapidly beyond them; the mood is watchful, attuned to signs of elite favor or disfavor.
+
 __Disaffection, Apathy & Spent Will:__ By the window's end, Great Zimbabwe's abandonment signals spent political will—population disperses, construction ceases, and the center empties as successor states draw away people and trade; disaffection crystallizes into migration rather than rebellion, leaving ruins rather than revolution.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction was discharged through mobility
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Camp life was intimate; mood was shared. Trust within the band was high; suspicion attached to strangers and neighboring bands with whom conflict had occurred. The temper was cautious and cooperative, shaped by mutual dependence in the forest.
-
 __Leadership & Personal Authority:__ Authority rested on demonstrated skill and persuasion. The best hunter's voice carried weight in planning the hunt; the elder's in settling disputes. Authority was situational and revocable—no permanent leader commanded obedience.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to kin and band, not to an abstract order. The band held together because its members chose to stay; legitimacy was relational and continuously renegotiated through sharing, speech, and presence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action—a major hunt, a cam
 
 __External Relations & Posture:__ Relations with other bands were wary but not hostile. Seasonal gatherings permitted alliance-building and mate exchange. External posture was defensive: avoid conflict, retreat if threatened, fight only when cornered.
 
+__Public Sentiment & Behavioral Temper:__ Camp life was intimate; mood was shared. Trust within the band was high; suspicion attached to strangers and neighboring bands with whom conflict had occurred. The temper was cautious and cooperative, shaped by mutual dependence in the forest.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expressed itself through departure. An individual or family unhappy with the band simply left to join relatives elsewhere. Apathy was rare; survival required active participation. Spent will was a personal, not collective, condition.
+
 
 ## D06. Informational Domain
 

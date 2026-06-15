@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry reached endemic proportions in the Pap
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment oscillated between resignation and periodic eruption. The burden of foreign domination, heavy taxation, and economic decline fostered cynicism and withdrawal into private life. Spectacular public religion—processions, festivals, jubilees—provided emotional outlet and reinforced collective identity. The mood was conservative, focused on preservation rather than transformation.
-
 __Leadership & Personal Authority:__ Personal charisma attached to Counter-Reformation saints—Charles Borromeo, Philip Neri—who provided models of sanctity and reform. Political leadership was largely absent: Spanish viceroys administered rather than inspired; popes varied from reformers to nepotists. No figure emerged to articulate Italian national aspiration or resistance.
 
 __Legitimacy as Lived Allegiance:__ Spanish rule rested on acquiescence rather than enthusiasm, enforced by military presence and elite cooptation. Papal legitimacy drew on spiritual authority, though temporal rule of the Papal States generated resentment. Local dynasties in independent states cultivated legitimacy through patronage and identification with local tradition. Allegiance was conditional and layered.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will for change was absent. T
 
 __External Relations & Posture:__ Italian states maneuvered within the Spanish system, seeking to minimize burdens and maximize autonomy. Venice maintained the most active external posture, defending against Ottoman encroachment and resisting papal interference. Savoy positioned itself between France and Spain, playing both sides. The default posture was defensive and accommodating.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment oscillated between resignation and periodic eruption. The burden of foreign domination, heavy taxation, and economic decline fostered cynicism and withdrawal into private life. Spectacular public religion—processions, festivals, jubilees—provided emotional outlet and reinforced collective identity. The mood was conservative, focused on preservation rather than transformation.
+
 __Disaffection, Apathy & Spent Will:__ The long duration of Spanish hegemony deposited deep apathy. Political passivity became habitual. Intellectual energy redirected into approved channels—antiquarianism, local history, baroque aesthetics—avoiding dangerous territory. The spent will of the Italian Wars never recovered; acquiescence hardened into norm.
+
 
 ## D06. Informational Domain
 

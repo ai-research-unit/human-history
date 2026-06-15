@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public temper appears oriented toward continuity and commemoration; the investment in mortuary ceremonialism suggests a community focused on honoring the past and transmitting identity to the future; confidence is maintained by successful adaptation and continued population growth; trust extends through kinship networks and ceremonial partnerships.
-
 __Leadership & Personal Authority:__ Leaders continue to gain authority through demonstrated competence; mortuary differentiation suggests that some individuals achieve enhanced status, possibly combining success in hunting, exchange, ritual knowledge, and oratory; authority remains personal but may be increasingly associated with lineage membership as ancestral connections gain importance.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to kin groups, lineage heads, and the ancestral order materialized in burial mounds; the living owe obligations to the dead, expressed through proper mortuary treatment; the order is legitimated by oral tradition linking present arrangements to the ancestors interred in the mounds that mark the landscape; disaffection can be expressed through departure but the system generates loyalty through kinship and shared ceremonial participation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is demonstrated in moun
 
 __External Relations & Posture:__ Relations between communities are structured through exchange, intermarriage, and shared ceremonial participation; the Adena complex represents a shared ideological and ceremonial tradition across multiple communities rather than a unified polity; the posture is generally open and integrative, with conflicts managed through existing social mechanisms.
 
+__Public Sentiment & Behavioral Temper:__ The public temper appears oriented toward continuity and commemoration; the investment in mortuary ceremonialism suggests a community focused on honoring the past and transmitting identity to the future; confidence is maintained by successful adaptation and continued population growth; trust extends through kinship networks and ceremonial partnerships.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection or spent will characterizes the period; the elaboration of ceremonialism suggests renewed commitment and vitality rather than exhaustion; the residue is minimal — perhaps some failed ceremonial centers, some communities that fission — but the trajectory is one of growing collective identity and shared purpose.
+
 
 ## D06. Informational Domain
 

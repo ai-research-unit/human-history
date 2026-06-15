@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The political division itself represents disord
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Theban propaganda (Kamose stela, Ahmose inscriptions) depicts Hyksos as foreigners to be expelled; sentiment mobilizes around ethnic and religious distinctiveness; the radius of trust contracts along political-ethnic lines.
-
 __Leadership & Personal Authority:__ Strong personalities drive the period's turning points: Kamose's aggressive campaigns, Ahmose's final victory; Hyksos kings (Khyan, Apepi) maintain authority through military success and commercial prosperity; leadership is personal and military rather than sacral-bureaucratic.
 
 __Legitimacy as Lived Allegiance:__ Hyksos kings adopt Egyptian titulary and religious practice (Seth worship syncretized with Ba'al); Theban kings maintain traditional pharaonic legitimacy through Amun cult; both claim divine sanction, competing for the same legitimating framework.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Theban will to expel the Hyksos builds 
 
 __External Relations & Posture:__ Hyksos maintain active diplomacy with Levantine states, Crete, and Kush; Theban-Kushite relations fluctuate between alliance and hostility; the struggle is regional rather than purely internal.
 
+__Public Sentiment & Behavioral Temper:__ Theban propaganda (Kamose stela, Ahmose inscriptions) depicts Hyksos as foreigners to be expelled; sentiment mobilizes around ethnic and religious distinctiveness; the radius of trust contracts along political-ethnic lines.
+
 __Disaffection, Apathy & Spent Will:__ Late Hyksos rule shows no evidence of internal disaffection; defeat comes from external military pressure rather than collapse of will; Theban population appears mobilized rather than apathetic.
+
 
 ## D06. Informational Domain
 

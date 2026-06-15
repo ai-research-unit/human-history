@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political repression suppresses overt disorder;
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The "realist" mood of the 1850s rejects revolutionary enthusiasm; Realpolitik replaces idealist aspirations; nationalist sentiment revives in the 1860s and reaches fever pitch with the Franco-Prussian War.
-
 __Leadership & Personal Authority:__ Otto von Bismarck dominates the period from his appointment as Prussian minister-president in 1862; his personal authority derives from success rather than charisma, as military victories legitimate his defiance of parliament.
 
 __Legitimacy as Lived Allegiance:__ Prussian monarchical legitimacy strengthens through military success; William I gains popular reverence; liberal opposition largely accommodates after 1866, accepting unity on conservative terms.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Bismarck's will drives policy; he manip
 
 __External Relations & Posture:__ Prussia defeats Denmark (isolating the duchies question), Austria (excluding Austria from Germany), and France (seizing Alsace-Lorraine); Bismarck constructs the new European balance, making Germany the dominant continental power.
 
+__Public Sentiment & Behavioral Temper:__ The "realist" mood of the 1850s rejects revolutionary enthusiasm; Realpolitik replaces idealist aspirations; nationalist sentiment revives in the 1860s and reaches fever pitch with the Franco-Prussian War.
+
 __Disaffection, Apathy & Spent Will:__ Liberal disillusionment persists in attenuated form; democratic opposition survives in southern Germany; working-class discontent lacks effective expression until the Social Democratic Party organizes after unification.
+
 
 ## D06. Informational Domain
 

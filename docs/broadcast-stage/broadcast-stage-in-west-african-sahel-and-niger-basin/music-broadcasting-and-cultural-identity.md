@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The music industry's failure to provide for agi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Music articulates public mood—celebratory highlife of the independence era, protest Afrobeat of the 1970s–1980s, the Ivoirien Zouglou of democratic transition; broadcast amplifies these sentiments across populations, creating shared emotional experience.
-
 __Leadership & Personal Authority:__ Star musicians command devotion exceeding most politicians; Youssou N'Dour's endorsement shapes Senegalese elections, Fela Kuti's Kalakuta Republic constitutes alternative authority, King Sunny Ade fills stadiums; the musician as charismatic leader operates parallel to formal political structures.
 
 __Legitimacy as Lived Allegiance:__ Music builds affective attachment to nation, ethnic group, or religious community; national anthems and independence songs broadcast on state radio, ethnic praise songs validating lineage, religious music reinforcing faith—broadcast music constructs legitimacy through repetition and emotional association.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Protest music—Fela's critiques of mil
 
 __External Relations & Posture:__ Pan-African musical collaboration—the Rail Band's continental ambitions, Senegalese-Malian guitar circuits, Nigerian music's continental reach—constructs African identity against the former colonial powers while positioning West African music for global audiences through world music circuits.
 
+__Public Sentiment & Behavioral Temper:__ Music articulates public mood—celebratory highlife of the independence era, protest Afrobeat of the 1970s–1980s, the Ivoirien Zouglou of democratic transition; broadcast amplifies these sentiments across populations, creating shared emotional experience.
+
 __Disaffection, Apathy & Spent Will:__ The repetition of protest without change breeds cynicism; Afrobeat's anti-corruption message persists across decades without visible impact on governance; the emotional discharge music provides may substitute for rather than catalyze political action.
+
 
 ## D06. Informational Domain
 

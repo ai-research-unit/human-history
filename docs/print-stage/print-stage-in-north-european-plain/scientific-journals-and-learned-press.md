@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Priority disputes generate bitter controversy, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The culture of learned publication values dispassion and objectivity, but behind the formal tone lie intense personal investments in priority, reputation, and the validation that publication provides; rejection breeds resentment that shapes careers.
-
 __Leadership & Personal Authority:__ Dominant figures like Leibniz, Euler, Humboldt, and later Helmholtz and Virchow command authority that shapes what journals publish and what research programs flourish; their editorial positions and academy leadership concentrate influence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to disciplinary and national communities structures scholarly identity; publication in the right journals signals belonging, while exclusion challenges self-understanding and professional standing.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The scientific community mobilizes coll
 
 __External Relations & Posture:__ German learned journals project cultural power abroad, with the prestige of German science attracting foreign students and making German the international language of scholarship by 1900; the war disrupts international scientific community and triggers boycotts.
 
+__Public Sentiment & Behavioral Temper:__ The culture of learned publication values dispassion and objectivity, but behind the formal tone lie intense personal investments in priority, reputation, and the validation that publication provides; rejection breeds resentment that shapes careers.
+
 __Disaffection, Apathy & Spent Will:__ The routinization of publication drains enthusiasm, and the pressure to publish produces cynicism about the value of much that appears; wartime nationalism and postwar disillusion fracture the cosmopolitan ideals of the Republic of Letters.
+
 
 ## D06. Informational Domain
 

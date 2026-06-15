@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online harassment emerges as a persistent disor
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism about digital connectivity coexists with growing anxiety about its effects; smartphone addiction enters public discourse; the ambient mood oscillates between techno-utopianism and moral panic about screen time.
-
 __Leadership & Personal Authority:__ Platform founders (Zuckerberg, Dorsey) acquire quasi-political visibility; Cameron's government courts the tech sector; celebrity and politician alike become accessible through Twitter, flattening perceived distance.
 
 __Legitimacy as Lived Allegiance:__ Trust in mainstream media erodes as social media offers alternative framings; trust in political institutions declines; the Scottish independence referendum (2014) demonstrates digital mobilization's capacity to energize and polarize allegiance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Grassroots movements find new organizin
 
 __External Relations & Posture:__ UK government views platform companies as American entities requiring accommodation; Dublin's role as European headquarters for US tech firms creates cross-border regulatory complexity; no significant foreign-policy digital conflict emerges until the window's close.
 
+__Public Sentiment & Behavioral Temper:__ Optimism about digital connectivity coexists with growing anxiety about its effects; smartphone addiction enters public discourse; the ambient mood oscillates between techno-utopianism and moral panic about screen time.
+
 __Disaffection, Apathy & Spent Will:__ Voter turnout remains depressed; youth disengagement from formal politics coexists with high engagement in online activism; slacktivism critiques suggest digital participation substitutes for rather than supplements material action — a persistent affective discharge.
+
 
 ## D06. Informational Domain
 

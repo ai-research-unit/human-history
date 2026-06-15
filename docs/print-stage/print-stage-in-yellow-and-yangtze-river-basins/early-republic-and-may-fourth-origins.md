@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil war is endemic. Banditry merges with demo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National humiliation intensifies: the Twenty-One Demands (1915) by Japan, the secret wartime agreements transferring German concessions in Shandong to Japan, and the Paris Peace Conference (1919) confirming the transfer ignite patriotic fury. Students and urban populations are radicalized.
-
 __Leadership & Personal Authority:__ Yuan Shikai's death (1916) leaves no central leader. Warlords command regional followings; none achieves national stature. Sun Yat-sen remains a symbol in Guangzhou but lacks military power. Cai Yuanpei at Peking University and Chen Duxiu at New Youth command intellectual authority.
 
 __Legitimacy as Lived Allegiance:__ The Republic lacks legitimacy; constitutional government is a fiction. Warlords rule by force, not consent. Loyalty attaches to persons, factions, or ideals — not to the state.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will disperses after 1912
 
 __External Relations & Posture:__ China joins World War I (1917) hoping to recover Shandong; the Versailles betrayal (1919) is a turning point. Japan dominates; Western powers are distracted by the European war.
 
+__Public Sentiment & Behavioral Temper:__ National humiliation intensifies: the Twenty-One Demands (1915) by Japan, the secret wartime agreements transferring German concessions in Shandong to Japan, and the Paris Peace Conference (1919) confirming the transfer ignite patriotic fury. Students and urban populations are radicalized.
+
 __Disaffection, Apathy & Spent Will:__ The initial republican optimism is spent by 1916. Cynicism about politics coexists with idealistic ferment among students. The May Fourth explosion channels disaffection into activism.
+
 
 ## D06. Informational Domain
 

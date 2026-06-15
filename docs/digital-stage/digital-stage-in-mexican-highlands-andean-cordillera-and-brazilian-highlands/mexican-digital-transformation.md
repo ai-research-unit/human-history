@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Cartel violence persists at extreme levels. Jou
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ AMLO maintains high approval ratings through direct communication, using morning press conferences ("mananeras") to shape daily news agenda. Opposition frustration with inability to break through. Fear of violence coexists with fatalistic acceptance.
-
 __Leadership & Personal Authority:__ AMLO dominates Mexican politics through personal charisma and daily three-hour morning press conferences streamed live on YouTube and covered by all media. This direct-to-public communication bypasses intermediaries and allows him to respond immediately to any criticism.
 
 __Legitimacy as Lived Allegiance:__ Strong popular support for AMLO despite elite criticism. His framing — "the people" versus "the mafia of power" — resonates with base. Electoral legitimacy reinforced by 2018 landslide and 2024 continuation through Sheinbaum.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Morena party consolidates power at fede
 
 __External Relations & Posture:__ AMLO maintains non-intervention stance, refusing to pressure Cuba or Venezuela. Pragmatic relationship with US despite Trump and then Biden tensions over migration and drugs. Digital diplomacy minimal — AMLO focuses domestic attention on domestic issues.
 
+__Public Sentiment & Behavioral Temper:__ AMLO maintains high approval ratings through direct communication, using morning press conferences ("mananeras") to shape daily news agenda. Opposition frustration with inability to break through. Fear of violence coexists with fatalistic acceptance.
+
 __Disaffection, Apathy & Spent Will:__ Opposition voters experience political despair as Morena dominance continues. Middle-class frustration expressed on Twitter/X but fails to translate into electoral success. Digital echo chambers reinforce existing alignments rather than changing minds.
+
 
 ## D06. Informational Domain
 

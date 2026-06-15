@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ SABC's institutional decay accelerates through 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcasting shapes and reflects the emotional arc from apartheid tension through negotiation hope to post-apartheid disillusionment; the 1994 election broadcast generates unprecedented national emotional experience; "rainbow nation" optimism gradually yields to transformation frustrations.
-
 __Leadership & Personal Authority:__ Prominent broadcasters gain public authority — apartheid-era faces fade, replaced by new African presenters and journalists; figures like Debora Patta (e.tv) build independent journalistic reputations; SABC leadership posts become politically contested.
 
 __Legitimacy as Lived Allegiance:__ The ANC's relationship with SABC becomes central to post-apartheid legitimacy, with the broadcaster expected to support nation-building while maintaining editorial independence — an inherent tension that intensifies as ANC dominance faces challenge.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Anti-apartheid movement uses alternativ
 
 __External Relations & Posture:__ South African broadcasting projects regional power through MultiChoice/DStv expansion across Africa; international sanctions during apartheid isolate South African broadcasting; post-apartheid, the country hosts major events (2010 World Cup) broadcast globally, repositioning national image.
 
+__Public Sentiment & Behavioral Temper:__ Broadcasting shapes and reflects the emotional arc from apartheid tension through negotiation hope to post-apartheid disillusionment; the 1994 election broadcast generates unprecedented national emotional experience; "rainbow nation" optimism gradually yields to transformation frustrations.
+
 __Disaffection, Apathy & Spent Will:__ License fee non-payment reflects citizen disengagement from SABC's public mission; viewer migration to DStv and later digital alternatives drains committed audience; staff morale collapses through repeated restructurings and governance crises.
+
 
 ## D06. Informational Domain
 

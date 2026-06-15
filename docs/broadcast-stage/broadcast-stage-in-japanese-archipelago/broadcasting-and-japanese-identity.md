@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social problems (crime, delinquency, homelessne
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcast constructs and reflects shifting national mood: postwar reconstruction determination, economic miracle confidence, bubble-era exuberance, post-bubble anxiety and nostalgia; programming both reads and shapes collective emotional temperature.
-
 __Leadership & Personal Authority:__ Political leaders receive broadcast coverage that generally reinforces system stability rather than personality cult; Emperor transitions (1989) generate intensive coverage constructing continuity across regime change; celebrity culture (tarento) provides alternative leadership figures with parasocial authority.
 
 __Legitimacy as Lived Allegiance:__ Broadcast reinforces allegiance to democratic postwar order while maintaining selective continuity with prewar symbols; imperial institution receives reverential coverage constructing legitimacy through tradition rather than divine authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National projects (Olympics 1964, Expo 
 
 __External Relations & Posture:__ International coverage constructs Japan's position as peaceful economic power; wartime responsibility issues receive contested broadcast treatment, with coverage varying by outlet and generating recurring controversies that themselves become identity-relevant events.
 
+__Public Sentiment & Behavioral Temper:__ Broadcast constructs and reflects shifting national mood: postwar reconstruction determination, economic miracle confidence, bubble-era exuberance, post-bubble anxiety and nostalgia; programming both reads and shapes collective emotional temperature.
+
 __Disaffection, Apathy & Spent Will:__ Youth disengagement and declining civic participation enter broadcast discourse as identity crisis symptoms from 1990s onward; programming oscillates between concern about lost vitality and celebration of diverse lifestyles.
+
 
 ## D06. Informational Domain
 

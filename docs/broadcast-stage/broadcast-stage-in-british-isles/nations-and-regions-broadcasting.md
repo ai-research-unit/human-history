@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ ITV franchise consolidation progressively elimi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Regional audiences maintain stronger attachment to local broadcasting than metropolitan viewers; identification with regional presenters, programs, and news creates emotional bonds; resentment of London dominance provides undercurrent of regional sentiment.
-
 __Leadership & Personal Authority:__ Regional broadcasting figures achieve prominence within their territories: regional news anchors become local celebrities; program-makers like Granada's Denis Forman or BBC Scotland's Alasdair Milne exercise significant creative authority before ascending to national roles.
 
 __Legitimacy as Lived Allegiance:__ Regional broadcasting legitimacy rests on authenticity claims—representing local concerns, accents, perspectives—that network output cannot match; this legitimacy transfers partially to devolved institutions post-1999.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Devolution generates political will to 
 
 __External Relations & Posture:__ Cross-border relationships develop with Republic of Ireland (BBC Northern Ireland, Ulster Television, RTE); Scottish Gaelic broadcasting connects with Irish-language broadcasting; Welsh-language broadcasting develops European minority-language networks.
 
+__Public Sentiment & Behavioral Temper:__ Regional audiences maintain stronger attachment to local broadcasting than metropolitan viewers; identification with regional presenters, programs, and news creates emotional bonds; resentment of London dominance provides undercurrent of regional sentiment.
+
 __Disaffection, Apathy & Spent Will:__ Audience drift to network and satellite channels weakens regional viewing; younger audiences particularly detach from regional news and programming; sense of inevitable metropolitan dominance induces institutional resignation in some quarters.
+
 
 ## D06. Informational Domain
 

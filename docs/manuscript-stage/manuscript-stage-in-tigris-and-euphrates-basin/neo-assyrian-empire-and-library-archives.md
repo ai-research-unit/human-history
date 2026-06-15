@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rebellion is endemic on the frontiers; Babylon 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The Assyrian core population identifies with imperial success; military victories generate pride and confidence. Subject populations range from resigned acquiescence to smoldering resentment. Fear is a deliberate policy tool — the "terribleness" (puluhtu) of the king is cultivated. Trust extends within ethnic and professional networks but not broadly across the empire.
-
 __Leadership & Personal Authority:__ The king is the charismatic center; his personal presence on campaign, in ritual, and in court reinforces authority. Strong kings (Tiglath-Pileser III, Sargon II, Sennacherib, Esarhaddon, Ashurbanipal) project commanding presence; weak kings or succession disputes expose the personal foundation of power. Royal ideology asserts the king as chosen of Ashur, shepherd of peoples, builder of empire.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on military success, divine favor (confirmed by oracles and omens), and the provision of order and prosperity. Loyalty oaths (adê) bind officials and subjects to the king; violation is punished severely. Allegiance is real in the core, instrumental on the periphery, and enforced everywhere.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The imperial elite displays sustained w
 
 __External Relations & Posture:__ The empire maintains aggressive expansionist posture through most of the period; treaties and tribute relationships with vassals, hostility with peer rivals (Egypt, Elam, Urartu, later Babylon and Media). Diplomacy is conducted through royal correspondence and envoys; intelligence gathering is systematic. The posture is dominating rather than accommodating.
 
+__Public Sentiment & Behavioral Temper:__ The Assyrian core population identifies with imperial success; military victories generate pride and confidence. Subject populations range from resigned acquiescence to smoldering resentment. Fear is a deliberate policy tool — the "terribleness" (puluhtu) of the king is cultivated. Trust extends within ethnic and professional networks but not broadly across the empire.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection among subject peoples is chronic but suppressed; deportation and terror prevent organization. Late in the period, military overextension, succession struggles, and accumulated resentment converge. The final decade sees spent will — exhausted armies, rebellious provinces, and a coalition (Babylon, Media) that the empire cannot resist. The collapse is swift when will fails.
+
 
 ## D06. Informational Domain
 

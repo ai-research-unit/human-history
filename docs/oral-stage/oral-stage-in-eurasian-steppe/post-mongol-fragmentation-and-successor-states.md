@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Succession wars are endemic; the multiplicity o
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Warrior honor, loyalty to lineage, and revenge obligations dominate the emotional register; confidence rides with military success and collapses with defeat; no settled public sentiment exists apart from immediate allegiance to a leader.
-
 __Leadership & Personal Authority:__ Charismatic leadership is paramount; Timur exemplifies the model — personal prowess, strategic brilliance, and terror — but his empire does not survive his personality because it rests on oral allegiance rather than institutional structure.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy flows from Chinggisid blood and from victory; a khan who loses battles loses followers; Timur, lacking Chinggisid descent, never takes the title khan and rules through puppets, revealing the constraint.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to conquer surges under Timur 
 
 __External Relations & Posture:__ Successor khanates raid and extract tribute from sedentary neighbors (Russia, Persia, China's Ming dynasty) but lack the unified force to conquer them as the Mongol Empire did; relations oscillate between raiding, tribute-taking, and trade.
 
+__Public Sentiment & Behavioral Temper:__ Warrior honor, loyalty to lineage, and revenge obligations dominate the emotional register; confidence rides with military success and collapses with defeat; no settled public sentiment exists apart from immediate allegiance to a leader.
+
 __Disaffection, Apathy & Spent Will:__ After Timur's death (1405 CE), exhaustion from decades of warfare produces a contraction of ambition; successor Timurids turn inward to patronage and culture (Herat, Samarkand) rather than conquest; the steppe's political energy dissipates into localism.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ High turnover, injury rates, and labor disputes
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Consumer affection for Amazon's convenience coexists with growing awareness of labor practices and market power. Boycott movements and critical documentaries dent but do not fundamentally alter purchasing behavior.
-
 __Leadership & Personal Authority:__ Jeff Bezos cultivates a visionary persona—long-term thinking, customer obsession, willingness to be misunderstood. His transition to executive chairman and space tourism ventures shift attention from operational matters.
 
 __Legitimacy as Lived Allegiance:__ Amazon's legitimacy rests on delivering value to customers. As long as packages arrive quickly and prices remain competitive, consumers accept the company's practices. Sellers depend on the marketplace despite grievances about fees and treatment.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The company deploys substantial resourc
 
 __External Relations & Posture:__ Amazon's relationship with government is complex. The company wins massive federal contracts (including contested JEDI cloud procurement) while facing antitrust scrutiny. AWS provides infrastructure for government services even as regulators investigate the parent company.
 
+__Public Sentiment & Behavioral Temper:__ Consumer affection for Amazon's convenience coexists with growing awareness of labor practices and market power. Boycott movements and critical documentaries dent but do not fundamentally alter purchasing behavior.
+
 __Disaffection, Apathy & Spent Will:__ Warehouse worker disaffection manifests as turnover rather than collective action in most facilities. The ALU victory shows organized resistance is possible but has not yet spread systemically.
+
 
 ## D06. Informational Domain
 

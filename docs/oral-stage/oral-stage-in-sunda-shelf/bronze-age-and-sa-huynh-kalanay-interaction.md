@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Feuding and raiding continue as the primary mod
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is one of competitive expansion: opportunities for status advancement through exchange, warfare, and alliance-building; interpersonal trust extends through kin and alliance networks but is bounded by the memory of past wrongs; the temper is assertive, status-conscious, and oriented toward prestige accumulation.
-
 __Leadership & Personal Authority:__ Chiefs combine genealogical claim with personal qualities — generosity, oratory, martial prowess, and ritual knowledge — to command followers; authority is increasingly heritable but still requires validation through demonstrated competence; the charismatic big man is evolving into the hereditary chief.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is grounded in kinship, reciprocity, and demonstrated efficacy; the legitimating myth of chiefly descent from founding ancestors supports hereditary authority; followers expect provision, protection, and access to prestige goods in return for loyalty; legitimacy is shallow by later standards but deepening.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Chiefdoms can mobilize larger labor for
 
 __External Relations & Posture:__ Inter-polity relations oscillate between alliance, exchange, and warfare; the Sa Huynh-Kalanay network creates a shared interaction sphere with norms of exchange, but competition for prestige and resources generates endemic conflict; no external threat unifies the region; relations with the mainland (Vietnam, Thailand) are primarily commercial.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is one of competitive expansion: opportunities for status advancement through exchange, warfare, and alliance-building; interpersonal trust extends through kin and alliance networks but is bounded by the memory of past wrongs; the temper is assertive, status-conscious, and oriented toward prestige accumulation.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of collective exhaustion; the system is expansive and generative; individual grievances are processed through feud, mediation, and mobility; the affective reservoir is full.
+
 
 ## D06. Informational Domain
 

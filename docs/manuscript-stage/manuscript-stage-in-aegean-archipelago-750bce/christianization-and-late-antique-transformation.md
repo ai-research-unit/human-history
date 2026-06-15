@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Nika riots (532 CE) demonstrate urban volat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety pervades the period — plague, war, and economic decline darken the public mood; apocalyptic expectations intensify; trust contracts to family, village, and church; the radius of interpersonal trust narrows; the mood oscillates between despair and religious hope; Justinian's building program (Hagia Sophia, 537 CE) projects confidence that contrasts with underlying stress.
-
 __Leadership & Personal Authority:__ Emperors (Constantine, Theodosius, Justinian) command personal authority backed by divine sanction; bishops and patriarchs wield spiritual authority; holy men (monks, hermits, stylites) attract popular devotion; the Second Sophistic model of civic eloquence fades; authority now speaks through Christian sanctity and imperial majesty.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy rests on divine election and orthodox faith — the emperor as God's vice-regent; ecclesiastical legitimacy rests on apostolic succession and doctrinal orthodoxy; lived allegiance follows religion more than civic identity; heresy and religious dissent become forms of political disloyalty; legitimacy is contested through theological controversy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Justinian's reconquest of the western M
 
 __External Relations & Posture:__ The Persian empire is the great rival — wars of 502–506, 526–532, 540–562, 572–591 CE alternate with treaties; barbarian kingdoms in the west are targets of reconquest; Slavic and Avar pressure on the Balkans intensifies from the late 6th century; the stance is defensive expansion — recover lost territories while holding the core; diplomatic relations use Christianity as a tool of influence.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety pervades the period — plague, war, and economic decline darken the public mood; apocalyptic expectations intensify; trust contracts to family, village, and church; the radius of interpersonal trust narrows; the mood oscillates between despair and religious hope; Justinian's building program (Hagia Sophia, 537 CE) projects confidence that contrasts with underlying stress.
+
 __Disaffection, Apathy & Spent Will:__ Religious disaffection (Monophysites in Egypt and Syria, Nestorians in the east) creates alienated populations; overtaxation breeds resentment; the population of lost provinces may welcome Arab conquerors; within the Aegean heartland, exhaustion and depopulation drain rather than redirect will; the residue accumulates in religious heterodoxy and passive resistance to taxation.
+
 
 ## D06. Informational Domain
 

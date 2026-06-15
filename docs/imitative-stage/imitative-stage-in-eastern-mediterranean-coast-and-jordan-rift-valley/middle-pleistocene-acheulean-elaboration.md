@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through fission or r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment is inaccessible directly. Inference suggests that successful elaboration of technology over millennia requires a baseline of social stability, trust, and willingness to invest in skill acquisition — conditions incompatible with chronic fear or despair.
-
 __Leadership & Personal Authority:__ Leadership is informal and situational: the skilled knapper who others imitate, the experienced hunter who leads the party, the elder who mediates disputes. Authority is personal, not office-based.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and co-residents. No abstract authority exists to require legitimation. The leader who fails loses followers; no formal deposition is needed.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective resolve emerges around share
 
 __External Relations & Posture:__ Relations with other hominin groups are rare at this population density. Posture is presumably wary neutrality; neither organized aggression nor alliance is detectable.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment is inaccessible directly. Inference suggests that successful elaboration of technology over millennia requires a baseline of social stability, trust, and willingness to invest in skill acquisition — conditions incompatible with chronic fear or despair.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expresses through departure. The archaeological record cannot detect apathy or exhaustion.
+
 
 ## D06. Informational Domain
 

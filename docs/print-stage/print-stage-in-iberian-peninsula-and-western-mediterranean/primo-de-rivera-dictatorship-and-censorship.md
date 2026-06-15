@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Street violence subsides; CNT militants flee to
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial relief at order gives way to passive acquiescence; the 1929 expositions generate momentary pride; economic downturn after 1929 erodes confidence; fatigue with dictatorship spreads among elites.
-
 __Leadership & Personal Authority:__ Primo de Rivera governs through personal authority and communiques rather than institutions; his informal style initially charms but his erratic decisions (peseta stabilization failures, university confrontations) alienate supporters.
 
 __Legitimacy as Lived Allegiance:__ The regime claims regenerationist legitimacy but cannot institutionalize; Alfonso XIII's association with the dictatorship compromises the monarchy; republican sentiment grows silently.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime imposes will through decree 
 
 __External Relations & Posture:__ Morocco pacification restores international standing; the regime pursues League of Nations visibility; relations with France improve through Rif cooperation; the dictatorship's international reputation declines as European democracies consolidate.
 
+__Public Sentiment & Behavioral Temper:__ Initial relief at order gives way to passive acquiescence; the 1929 expositions generate momentary pride; economic downturn after 1929 erodes confidence; fatigue with dictatorship spreads among elites.
+
 __Disaffection, Apathy & Spent Will:__ By 1930 the regime has exhausted its purpose; Primo's health declines; elite defection accelerates; the army withdraws support; the dictator resigns in January 1930 and dies in Paris two months later.
+
 
 ## D06. Informational Domain
 

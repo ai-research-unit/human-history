@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is resolved by fission — dissenters 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective life is inferred from burial practice (Kebara, Amud) and the survival of injured individuals — suggesting grief, attachment, and care; baseline temper is cooperative within kin, wary toward outsiders.
-
 __Leadership & Personal Authority:__ Leadership is situational — the skilled hunter, the experienced elder — not formalized; authority is demonstrated, not inherited or conferred by office.
 
 __Legitimacy as Lived Allegiance:__ No political legitimacy in the formal sense; allegiance is kin-loyalty and face-to-face trust; the band coheres through affective bonds, not ideology.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to hunting
 
 __External Relations & Posture:__ Relations with other bands are episodic; no territorial defense beyond avoidance; modern humans are present in the region sporadically but no evidence of contact or conflict in this window.
 
+__Public Sentiment & Behavioral Temper:__ Affective life is inferred from burial practice (Kebara, Amud) and the survival of injured individuals — suggesting grief, attachment, and care; baseline temper is cooperative within kin, wary toward outsiders.
+
 __Disaffection, Apathy & Spent Will:__ No accumulated disaffection; the small scale and mobility of band life prevent the buildup of unresolved grievance; emotional discharge is immediate and interpersonal.
+
 
 ## D06. Informational Domain
 

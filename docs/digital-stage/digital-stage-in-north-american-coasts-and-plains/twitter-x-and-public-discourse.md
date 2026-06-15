@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Harassment, brigading, and coordinated abuse pe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Twitter's real-time, public-by-default design amplifies outrage, controversy, and conflict, rewarding emotional provocation over measured discourse and training users toward combative engagement.
-
 __Leadership & Personal Authority:__ Individual users accumulate outsized influence through follower counts and engagement, with journalists, politicians, and commentators wielding quasi-institutional authority; after 2022, Elon Musk's personal account becomes the platform's dominant voice, blurring ownership and editorial control.
 
 __Legitimacy as Lived Allegiance:__ User loyalty frays as moderation becomes inconsistent, harassment goes unaddressed, and the platform's neutrality claims collapse under owner intervention; by 2024, many users remain out of habit or professional necessity rather than conviction.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The platform enables rapid mobilization
 
 __External Relations & Posture:__ Twitter's relationship with governments shifts from cooperation to confrontation, with the platform alternately praised as a tool of democratic mobilization and condemned as a vector for misinformation and foreign interference.
 
+__Public Sentiment & Behavioral Temper:__ Twitter's real-time, public-by-default design amplifies outrage, controversy, and conflict, rewarding emotional provocation over measured discourse and training users toward combative engagement.
+
 __Disaffection, Apathy & Spent Will:__ Burnout among power users, journalists, and activists mounts as the emotional cost of constant conflict exposure accumulates, driving migration to alternative platforms and a generalized exhaustion with the medium.
+
 
 ## D06. Informational Domain
 

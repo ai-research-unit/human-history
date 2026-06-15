@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The oligopoly's rigidity generates periodic cri
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Networks both reflect and shape national mood; Cold War anxiety, civil rights awakening, Vietnam-era disillusionment, and Reagan-era optimism all flow through broadcast content and news coverage.
-
 __Leadership & Personal Authority:__ Network executives — William Paley (CBS), David Sarnoff (NBC), Leonard Goldenson (ABC) — wield enormous cultural influence; anchor figures like Walter Cronkite become trusted voices whose pronouncements carry political weight.
 
 __Legitimacy as Lived Allegiance:__ The three networks enjoy presumptive legitimacy as the nation's information source through the 1970s; "And that's the way it is" closing Cronkite's newscast embodies this authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Network coverage shapes political will 
 
 __External Relations & Posture:__ Networks project American cultural influence globally through program exports; by the 1980s, Dallas and Dynasty reach audiences worldwide, functioning as soft power instruments whether intended as such or not.
 
+__Public Sentiment & Behavioral Temper:__ Networks both reflect and shape national mood; Cold War anxiety, civil rights awakening, Vietnam-era disillusionment, and Reagan-era optimism all flow through broadcast content and news coverage.
+
 __Disaffection, Apathy & Spent Will:__ Viewer fatigue with network formulae drives cable adoption; by 2000, network prime-time share falls below 50 percent, and younger demographics increasingly distrust broadcast news, signaling exhausted allegiance.
+
 
 ## D06. Informational Domain
 

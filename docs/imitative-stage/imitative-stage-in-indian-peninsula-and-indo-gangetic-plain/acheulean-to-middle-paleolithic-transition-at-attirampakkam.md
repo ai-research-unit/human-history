@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is managed through avoidance, f
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is immediate and interpersonal; fear, anger, affection, and grief arise in response to events and are expressed within the group. Trust extends to familiar band members; strangers provoke wariness. The emotional baseline is likely vigilant but not chronically anxious where resources are adequate.
-
 __Leadership & Personal Authority:__ Leadership is informal and situational; skilled hunters, experienced elders, and socially adept individuals command deference in their domains. Personal authority is earned, not inherited or formalized.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to the group and to respected individuals within it; there is no abstract authority to legitimate. Cooperation rests on direct reciprocity and kin obligation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires consensus or
 
 __External Relations & Posture:__ Relations with neighboring bands range from avoidance to occasional intermarriage and exchange visits. Hostility is possible but not the default; population density is too low for sustained territorial competition.
 
+__Public Sentiment & Behavioral Temper:__ Affect is immediate and interpersonal; fear, anger, affection, and grief arise in response to events and are expressed within the group. Trust extends to familiar band members; strangers provoke wariness. The emotional baseline is likely vigilant but not chronically anxious where resources are adequate.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection leads to group fission; dissatisfied individuals or families leave to join other bands or form new ones. Apathy is not a collective condition at this scale.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Vendetta and raiding persist but are mediated b
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is confident and expansive — population is growing, trade is flourishing, sanctuaries are multiplying; trust extends through xenia networks and shared cult; communities are coalescing with a sense of shared purpose.
-
 __Leadership & Personal Authority:__ The basileus leads through personal valor, eloquence, and generosity; multiple basileis may compete within a single proto-polis, with authority contested in assembly; aristocratic families cultivate heroic genealogies to legitimate their prominence.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to those who perform — successful in war, generous in feast, favored by the gods; legitimacy is shallow, personal, and must be continuously re-earned; hero cults begin to transfer some legitimacy from living leaders to ancestral figures.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is mobilized for sanctu
 
 __External Relations & Posture:__ External relations are handled through guest-friendship, marriage alliance, and sanctuary diplomacy; Euboean and Corinthian trading partnerships with Phoenicians and Levantines rest on personal oaths; no formal treaties or written agreements exist; the Phoenician alphabet is adapted to Greek (~775–750 BCE) but is not yet used for diplomacy or record-keeping.
 
+__Public Sentiment & Behavioral Temper:__ The mood is confident and expansive — population is growing, trade is flourishing, sanctuaries are multiplying; trust extends through xenia networks and shared cult; communities are coalescing with a sense of shared purpose.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is localized and personal — rivalry between basileis, feuds between families — but no systemic exhaustion or apathy is evident; the collective will to build and expand remains strong.
+
 
 ## D06. Informational Domain
 

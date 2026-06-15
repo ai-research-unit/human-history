@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Circumvention technologies continuously evolve,
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Normalization of censored internet among users who have never known alternatives, resignation among older users who remember pre-firewall access, nationalist sentiment reinforced by information environment, distrust of foreign information sources cultivated.
-
 __Leadership & Personal Authority:__ Xi Jinping's consolidation of power (2012–2026) paralleled by intensified information control, personal authority over information policy exercised through CAC and party channels.
 
 __Legitimacy as Lived Allegiance:__ Information control presented as protecting sovereignty and social stability, accepted by many users as reasonable governance, contested by those seeking foreign information access.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Sustained political commitment to infor
 
 __External Relations & Posture:__ "Cyber sovereignty" doctrine asserted against Western open-internet norms, the firewall as expression of state autonomy over information space, international tech companies required to comply with Chinese regulations or exit.
 
+__Public Sentiment & Behavioral Temper:__ Normalization of censored internet among users who have never known alternatives, resignation among older users who remember pre-firewall access, nationalist sentiment reinforced by information environment, distrust of foreign information sources cultivated.
+
 __Disaffection, Apathy & Spent Will:__ Circumvention fatigue as VPN blocks intensify, resignation to filtered information environment, apathy toward news consumption when official narratives dominate, private grumbling rarely translating to organized resistance.
+
 
 ## D06. Informational Domain
 

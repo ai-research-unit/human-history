@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The regulatory vacuum produces a chaotic media 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The national conference movement (Benin 1990, Mali 1991, Niger 1991, Togo 1991) generates euphoric expectations of democratic renewal; radio becomes the primary medium through which this sentiment circulates, with live broadcasts of conference proceedings reaching mass audiences and creating shared civic experiences.
-
 __Leadership & Personal Authority:__ Charismatic figures emerge through radio prominence — talk show hosts, investigative journalists, call-in moderators — who accumulate personal authority independent of state patronage, creating a new category of public intellectual distinct from the party cadres of the one-party era.
 
 __Legitimacy as Lived Allegiance:__ Democratic transitions transfer legitimacy from single parties to electoral processes; radio serves as the primary medium through which election results are announced and contested, with the perceived neutrality or bias of broadcasters directly affecting public acceptance of outcomes.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Opposition movements use radio to coord
 
 __External Relations & Posture:__ International broadcasters (BBC, RFI, VOA) remain credible alternatives to domestic media where local stations are captured or constrained; donor conditionality ties media liberalization to democratization packages, giving external actors leverage over domestic broadcast policy.
 
+__Public Sentiment & Behavioral Temper:__ The national conference movement (Benin 1990, Mali 1991, Niger 1991, Togo 1991) generates euphoric expectations of democratic renewal; radio becomes the primary medium through which this sentiment circulates, with live broadcasts of conference proceedings reaching mass audiences and creating shared civic experiences.
+
 __Disaffection, Apathy & Spent Will:__ Initial democratic euphoria fades as elected governments fail to deliver economic improvement; by 2005, disillusionment with democratization spreads, and radio programming increasingly reflects cynicism about political processes, with call-in shows becoming venues for grievance articulation rather than civic deliberation.
+
 
 ## D06. Informational Domain
 

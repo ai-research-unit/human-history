@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper is cautious, attuned to the forest's dangers and rewards. Trust within the band is high — survival depends on it; trust beyond the band is limited to known individuals from neighboring groups. Risk perception is acute; the forest punishes carelessness.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal — the experienced hunter leads the hunt, the knowledgeable elder is consulted on camp placement or plant use. No permanent authority; no office to inherit. Influence follows demonstrated competence.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is direct and face-to-face: one follows those whose judgment has proved sound. No abstract right of rule; allegiance is earned daily. Disaffection means departure, not revolt.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is limited to the band'
 
 __External Relations & Posture:__ Relations with other bands are occasional and probably cautious — exchanging individuals, sharing information, perhaps trading ornaments or raw materials. No rivalry, no expansion, no posture of power. The stance is coexistence at a distance.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is cautious, attuned to the forest's dangers and rewards. Trust within the band is high — survival depends on it; trust beyond the band is limited to known individuals from neighboring groups. Risk perception is acute; the forest punishes carelessness.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is discharged through mobility; those who are unhappy leave. Apathy cannot persist where daily effort is required for survival. The residue does not accumulate.
+
 
 ## D06. Informational Domain
 

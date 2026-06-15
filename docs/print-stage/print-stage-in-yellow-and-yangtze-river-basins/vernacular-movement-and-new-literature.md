@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Literary factional conflicts generate bitter fe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ May Fourth enthusiasm gives way to 1920s disillusionment, then to 1930s anti-Japanese nationalism; writers both reflect and shape these shifts in public mood through fiction and essay.
-
 __Leadership & Personal Authority:__ Lu Xun exercises extraordinary moral authority over the literary field until his death (1936), his essays setting the tone for engaged vernacular writing; Chen Duxiu and Hu Shih provide early leadership, later diverging politically.
 
 __Legitimacy as Lived Allegiance:__ Vernacular literature acquires legitimacy through demonstrated capacity to address modern concerns; by the 1930s, writing in wenyan marks a writer as reactionary or antiquarian.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Writers divide between those who priori
 
 __External Relations & Posture:__ Chinese writers engage intensively with foreign literature, translating Western and Japanese works into vernacular and positioning Chinese new literature within world literature.
 
+__Public Sentiment & Behavioral Temper:__ May Fourth enthusiasm gives way to 1920s disillusionment, then to 1930s anti-Japanese nationalism; writers both reflect and shape these shifts in public mood through fiction and essay.
+
 __Disaffection, Apathy & Spent Will:__ Some May Fourth veterans grow disillusioned by the 1930s, retreating into scholarship or private life; wartime exhaustion depletes creative energy; political persecution produces despair.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Industrial violence recurs throughout the perio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood oscillates between Gilded Age optimism about progress and anxious nativism about immigrants, anarchists, and racial minorities. The depression of the 1890s darkens public temper; Bryan's 1896 campaign channels agrarian anger.
-
 __Leadership & Personal Authority:__ The great editors — Pulitzer, Hearst, Dana, Godkin — command personal followings. Politicians cultivate press relationships. McKinley's manager Mark Hanna masters modern media management. Theodore Roosevelt's personality will shortly define the presidency as media event.
 
 __Legitimacy as Lived Allegiance:__ The two-party system commands loyalty; party identification passes through families. Third-party movements (Greenback, Populist) challenge but do not break the duopoly. Labor and socialist movements question capitalism's legitimacy but remain marginal.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Corporate will proves stronger than ref
 
 __External Relations & Posture:__ The United States begins overseas expansion: Hawaii annexed (1898), Philippines and Puerto Rico acquired, the "Open Door" in China. Yellow journalism promotes imperial adventure. The press becomes a tool of jingoism.
 
+__Public Sentiment & Behavioral Temper:__ The mood oscillates between Gilded Age optimism about progress and anxious nativism about immigrants, anarchists, and racial minorities. The depression of the 1890s darkens public temper; Bryan's 1896 campaign channels agrarian anger.
+
 __Disaffection, Apathy & Spent Will:__ Labor defeats accumulate disaffection without producing revolutionary consciousness. Farmer discontent channels into Populism, then Bryan Democracy. African Americans face narrowing options as federal protection vanishes.
+
 
 ## D06. Informational Domain
 

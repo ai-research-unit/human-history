@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through mobility 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust within the band and across kin networks is high; suspicion of strangers and potential sorcerers counterbalances this; the mood tracks ecological conditions—anxiety during drought, confidence and festivity during seasons of plenty; behavioral norms are enforced through shame and social pressure.
-
 __Leadership & Personal Authority:__ Leadership is informal and based on demonstrated competence—hunting skill, ceremonial knowledge, oratorical ability, and generosity; senior men hold authority in ritual contexts but cannot compel obedience in daily life; influence is personal, not positional.
 
 __Legitimacy as Lived Allegiance:__ Authority is legitimate when it accords with the Dreaming—the ancestral law encoded in landscape and oral tradition; allegiance flows to individuals who embody this tradition; illegitimate claims (violations of kinship rules, ritual transgressions) are met with loss of standing.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized for larg
 
 __External Relations & Posture:__ Relations between groups range from alliance (cemented by marriage and ceremonial exchange) to avoidance to periodic conflict; the posture is cautious, with elaborate protocols for entering another group's territory; expansion is not a drive—territorial boundaries are fixed by ancestral decree.
 
+__Public Sentiment & Behavioral Temper:__ Trust within the band and across kin networks is high; suspicion of strangers and potential sorcerers counterbalances this; the mood tracks ecological conditions—anxiety during drought, confidence and festivity during seasons of plenty; behavioral norms are enforced through shame and social pressure.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is resolved through departure or the formation of new social alignments; the immediacy of subsistence concerns and the density of social obligation leave little room for apathy; spent will is rare and the residue minimal.
+
 
 ## D06. Informational Domain
 

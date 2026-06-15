@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Hussite Wars (1419–1436) devastated Bohem
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A cautious recovery mood prevailed; plague memory receded but fear of recurrence persisted; religious anxiety intensified around reform and heresy; trust extended within guild and town, less across confessional lines.
-
 __Leadership & Personal Authority:__ Emperor Sigismund (r. 1411–1437) sought to end schism and crush Hussites, achieving the former at Constance but failing at the latter; territorial princes consolidated power; Hussite leaders (Jan Zizka, Prokop the Great) commanded fervent loyalty.
 
 __Legitimacy as Lived Allegiance:__ Imperial authority was formal and weak; papal legitimacy fractured by schism, partially restored at Constance but challenged by conciliarism; territorial princes and town councils commanded practical allegiance; Hussite defiance showed the limits of imposed orthodoxy.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Conciliarist clergy demonstrated collec
 
 __External Relations & Posture:__ Poland-Lithuania emerged as a major power after Tannenberg; the Teutonic Order retreated to defensive posture; Denmark controlled the Sound; Burgundy rose in the west; the Ottoman advance in the Balkans drew distant concern.
 
+__Public Sentiment & Behavioral Temper:__ A cautious recovery mood prevailed; plague memory receded but fear of recurrence persisted; religious anxiety intensified around reform and heresy; trust extended within guild and town, less across confessional lines.
+
 __Disaffection, Apathy & Spent Will:__ Hussite Wars exhausted all parties by the 1430s; crusade enthusiasm waned; reform fatigue set in after Basel's failure; disaffection with clerical corruption simmered.
+
 
 ## D06. Informational Domain
 

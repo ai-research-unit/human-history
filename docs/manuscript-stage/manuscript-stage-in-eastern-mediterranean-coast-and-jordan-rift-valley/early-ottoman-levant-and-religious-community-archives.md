@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Bedouin raiding continues at the margins; urban
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Acceptance of Ottoman rule as legitimate Islamic sovereignty; trust extending through communal and neighborhood networks; anxiety during plague years and periods of political instability; the public temper generally stable, with confessional identities providing strong frameworks for belonging; the trend toward greater security and prosperity through the sixteenth century, some deterioration in the seventeenth.
-
 __Leadership & Personal Authority:__ Ottoman governors command through imperial appointment and military force; ulama command through learning; Sufi shaykhs through spiritual authority; millet leaders (patriarchs, chief rabbis) through communal recognition; local notables emerging as power brokers; charismatic leadership contained within institutional frameworks.
 
 __Legitimacy as Lived Allegiance:__ Ottoman rule legitimated by Islamic sovereignty, military success, and patronage of religious institutions; the sultan as caliph (after the conquest of Egypt) provides religious sanction; allegiance genuine among beneficiaries, instrumental among others; dhimmi communities accept the millet bargain as protective, if circumscribed; legitimacy stable through most of the period.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political initiative lies with Istanbul
 
 __External Relations & Posture:__ The Levant as Ottoman province participates in imperial relations with European powers (capitulations for trade), Safavid Iran (periodic warfare), and Mediterranean maritime rivalries; the posture defensive, focused on maintaining the status quo; no provincial irredentism or separatist ambition.
 
+__Public Sentiment & Behavioral Temper:__ Acceptance of Ottoman rule as legitimate Islamic sovereignty; trust extending through communal and neighborhood networks; anxiety during plague years and periods of political instability; the public temper generally stable, with confessional identities providing strong frameworks for belonging; the trend toward greater security and prosperity through the sixteenth century, some deterioration in the seventeenth.
+
 __Disaffection, Apathy & Spent Will:__ Periodic disaffection among overtaxed populations, channeled through communal and Sufi structures; no mass revolutionary movements; the will adequate for routine life, insufficient for systemic change; apathy increasing in the seventeenth century as the Ottoman system strains.
+
 
 ## D06. Informational Domain
 

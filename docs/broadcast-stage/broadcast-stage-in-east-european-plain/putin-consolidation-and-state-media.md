@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Street crime falls; organized crime is either s
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Relief and gratitude characterize mass sentiment — relief that the chaos has ended, gratitude toward the leader who ended it; Putin's approval ratings remain extraordinarily high throughout the period, often exceeding 70%.
-
 __Leadership & Personal Authority:__ Putin establishes unprecedented personal authority through media management, staged performances of competence and vigor, and systematic marginalization of alternatives; his personal brand becomes synonymous with the state.
 
 __Legitimacy as Lived Allegiance:__ The regime achieves genuine popular legitimacy based on performance — it has delivered stability and prosperity after catastrophe; this is consent, not merely fear, though the consent is actively manufactured through broadcast.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The political will concentrates in the 
 
 __External Relations & Posture:__ Russia reasserts itself internationally — resisting NATO expansion, the 2008 Georgia war, energy leverage over Europe; the posture shifts from the humiliated supplicant of the 1990s toward renewed great-power assertion.
 
+__Public Sentiment & Behavioral Temper:__ Relief and gratitude characterize mass sentiment — relief that the chaos has ended, gratitude toward the leader who ended it; Putin's approval ratings remain extraordinarily high throughout the period, often exceeding 70%.
+
 __Disaffection, Apathy & Spent Will:__ Protest remains marginal until 2011-2012, when disputed elections trigger the largest demonstrations since 1991; but even then, the majority remains passive or supportive; apathy serves the regime better than active support would.
+
 
 ## D06. Informational Domain
 

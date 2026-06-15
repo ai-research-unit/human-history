@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Interpersonal conflict was resolved through avo
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline is inaccessible, but the sustained reoccupation of the cave across millennia implies a felt attachment to place and a trust radius extending at least across the band. Risk perception was calibrated to immediate threats: predators, injury, starvation.
-
 __Leadership & Personal Authority:__ Leadership was situational: the individual with relevant expertise led the relevant task. No permanent authority figure is implied by the material record. Charisma, if present, left no trace.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to the band as survival unit, not to an office or rule. Legitimacy was untheorized; compliance followed demonstration and imitation rather than articulated justification.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will manifested in coordinat
 
 __External Relations & Posture:__ Relations with other bands are invisible in the record. Encounters with neighboring groups may have been rare given low population density; posture toward outsiders is unknown.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline is inaccessible, but the sustained reoccupation of the cave across millennia implies a felt attachment to place and a trust radius extending at least across the band. Risk perception was calibrated to immediate threats: predators, injury, starvation.
+
 __Disaffection, Apathy & Spent Will:__ The residue of spent will is undetectable. Abandonment phases in the stratigraphic record may reflect resource failure rather than social collapse.
+
 
 ## D06. Informational Domain
 

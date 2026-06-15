@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict within bands is managed by dominance, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affective life centers on immediate band-mates; trust extends to familiar faces; the shared effort of bifacial manufacture and cooperative hunting reinforces group cohesion; anxiety spikes with resource failure or predator encounters, settling as conditions stabilize; the slow spread of Acheulean elements may reflect cautious acceptance of novel techniques from outsiders.
-
 __Leadership & Personal Authority:__ Leadership is situational, tied to hunting skill, knapping expertise, or social acuity; skilled makers of large cutting tools may command respect and attention; authority is personal and must be reasserted in each context; no formal office exists.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to the band is lived through daily cooperation; no abstract legitimating principle exists; loyalty erodes if provisioning fails, leading to departure or fission.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is episodic, mobilize
 
 __External Relations & Posture:__ Relations with other groups are infrequent; encounters may be neutral, competitive, or hostile; the patchy distribution of Acheulean techniques implies some inter-group contact, whether through migration, intermarriage, or observation at shared resource locales; the posture is generally defensive, centered on maintaining band cohesion and resource access.
 
+__Public Sentiment & Behavioral Temper:__ Affective life centers on immediate band-mates; trust extends to familiar faces; the shared effort of bifacial manufacture and cooperative hunting reinforces group cohesion; anxiety spikes with resource failure or predator encounters, settling as conditions stabilize; the slow spread of Acheulean elements may reflect cautious acceptance of novel techniques from outsiders.
+
 __Disaffection, Apathy & Spent Will:__ Individual disaffection may lead to departure; collective apathy is unlikely given survival demands; spent will after failed efforts triggers mobility rather than despair; the imitative-stage constraint means group morale cannot be sustained by narrative or ideology, only by immediate success.
+
 
 ## D06. Informational Domain
 

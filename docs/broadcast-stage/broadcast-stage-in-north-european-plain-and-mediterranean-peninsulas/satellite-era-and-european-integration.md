@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Public broadcaster audience share erodes; organ
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-Cold War euphoria gives way to Yugoslav war anxiety; German reunification initially euphoric then soured by costs; Maastricht ratification struggles reveal integration ambivalence; satellite television provides escape from political complexity.
-
 __Leadership & Personal Authority:__ Helmut Kohl dominates reunification narrative; Francois Mitterrand pursues European integration; Felipe Gonzalez modernizes Spain; Silvio Berlusconi enters politics directly (1994), collapsing distance between media and political power.
 
 __Legitimacy as Lived Allegiance:__ European integration legitimacy contested in referenda; public broadcasting legitimacy challenged by commercial success; market populism frames consumer choice as democratic expression.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Maastricht Treaty demonstrates integrat
 
 __External Relations & Posture:__ Post-Cold War repositioning; American cultural dominance resented but absorbed; European audiovisual policy attempts balancing integration and protection; satellite footprints ignore national boundaries, forcing cooperation.
 
+__Public Sentiment & Behavioral Temper:__ Post-Cold War euphoria gives way to Yugoslav war anxiety; German reunification initially euphoric then soured by costs; Maastricht ratification struggles reveal integration ambivalence; satellite television provides escape from political complexity.
+
 __Disaffection, Apathy & Spent Will:__ Political participation continues declining; voter turnout falls; television blamed for both distraction and cynicism-inducing coverage; younger cohorts disengage from traditional political channels.
+
 
 ## D06. Informational Domain
 

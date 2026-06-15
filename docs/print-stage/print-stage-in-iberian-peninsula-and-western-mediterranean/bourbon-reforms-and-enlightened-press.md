@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1766 Esquilache riots demonstrate urban vol
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Enlightenment optimism permeates the ilustrado elite; belief in progress through reform lifts the educated minority. Popular sentiment remains localized, religious, suspicious of foreign influence. The 1766 riots reveal the fragility of reform legitimacy among urban commoners.
-
 __Leadership & Personal Authority:__ Charles III (r. 1759-1788) embodies enlightened absolutism; his personal authority enables reform. Ministers Aranda, Floridablanca, and Campomanes drive policy. Under Charles IV (r. 1788-1808), Godoy's favoritism erodes royal prestige. Leadership becomes contested as France revolutionizes.
 
 __Legitimacy as Lived Allegiance:__ Bourbon legitimacy rests on dynastic right consolidated through the War of Spanish Succession (1700-1714). The Crown commands allegiance through patronage, reform success, and Catholic identity. Legitimacy weakens late century as Godoy's regime discredits the court.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The reformist program demonstrates sust
 
 __External Relations & Posture:__ Alliance with France (Family Compacts) structures foreign policy. Rivalry with Britain shapes colonial defense. Spain fights Britain repeatedly (1739-1748, 1762-1763, 1779-1783, 1796-1808), with mixed results. The French Revolution strains the alliance; war with France (1793-1795) precedes renewed French alignment.
 
+__Public Sentiment & Behavioral Temper:__ Enlightenment optimism permeates the ilustrado elite; belief in progress through reform lifts the educated minority. Popular sentiment remains localized, religious, suspicious of foreign influence. The 1766 riots reveal the fragility of reform legitimacy among urban commoners.
+
 __Disaffection, Apathy & Spent Will:__ Provincial resentment from abolished fueros persists. Ilustrado reforms alienate traditionalist clergy and commoners without creating a broad reform constituency. By 1808, court scandals, military defeats, and food scarcity exhaust popular patience with the regime.
+
 
 ## D06. Informational Domain
 

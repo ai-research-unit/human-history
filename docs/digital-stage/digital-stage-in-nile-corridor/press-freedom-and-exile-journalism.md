@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The press freedom deficit produces informationa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear and self-censorship define the domestic media environment. Journalists internalize the red lines; editors kill stories preemptively. The public sentiment toward journalists is bifurcated: distrust of state media, respect mixed with pity for those imprisoned.
-
 __Leadership & Personal Authority:__ Individual journalists acquire leadership status through imprisonment. Alaa Abd El-Fattah, though an activist rather than journalist, becomes the symbol of imprisoned speech. Exiled media figures like Mada Masr's Lina Attalah command respect that no domestic editor can claim.
 
 __Legitimacy as Lived Allegiance:__ The legitimacy of independent journalism survives its suppression. Audiences who access blocked content do so with the understanding that blocking itself validates the content's independence. State media's legitimacy is near zero among educated urban populations.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime's will to suppress is sustai
 
 __External Relations & Posture:__ Press freedom is a point of friction in Egypt's relations with Western governments and the European Union, but economic and security interests override human rights concerns. Sudan's press freedom collapse during civil war draws less attention than the humanitarian crisis.
 
+__Public Sentiment & Behavioral Temper:__ Fear and self-censorship define the domestic media environment. Journalists internalize the red lines; editors kill stories preemptively. The public sentiment toward journalists is bifurcated: distrust of state media, respect mixed with pity for those imprisoned.
+
 __Disaffection, Apathy & Spent Will:__ Domestic journalists exhibit burnout and apathy after years of suppression. The enthusiasm of the 2011 revolutionary press is exhausted. Many leave journalism entirely for public relations, corporate communications, or emigration to non-media careers.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The residue accumulates as institutional collap
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Wired broadcasting shapes rural emotional life during the collective era, with campaigns, denunciations, and mobilizations reaching every production team through the loudspeaker; the intimate penetration of the wired system into village space creates emotional saturation that later, more distant media cannot replicate.
-
 __Leadership & Personal Authority:__ Mao's voice and those of central leaders reach the countryside through the wired network, creating parasocial relationships with leadership figures whose speeches and directives become familiar presences in village life; the personal authority of leadership depends partly on this vocal intimacy.
 
 __Legitimacy as Lived Allegiance:__ The wired system generates legitimacy through demonstrated reach—the party's voice in every village testifies to state capacity and commitment—while also risking legitimacy when broadcast content contradicts visible reality, as during the Great Leap famine when loudspeakers announced production successes while villagers starved.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Mass campaigns rely on wired broadcasti
 
 __External Relations & Posture:__ The wired network carries international content in domesticated form—solidarity messages, anti-imperialist campaigns, news of revolutionary movements—positioning the peasant listener within a global frame while maintaining interpretive control over external information.
 
+__Public Sentiment & Behavioral Temper:__ Wired broadcasting shapes rural emotional life during the collective era, with campaigns, denunciations, and mobilizations reaching every production team through the loudspeaker; the intimate penetration of the wired system into village space creates emotional saturation that later, more distant media cannot replicate.
+
 __Disaffection, Apathy & Spent Will:__ The residue manifests as broadcast fatigue: decades of ideological saturation through the loudspeaker produce tuning-out responses, with peasants learning to ignore content that drones continuously from public spaces; the wired system's very success in achieving penetration generates its own defeat through listener habituation and psychological withdrawal.
+
 
 ## D06. Informational Domain
 

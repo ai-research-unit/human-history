@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Chronic social tension explodes in three major 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The period oscillates between accommodation and explosive violence. Messianic expectation intensifies as Roman rule tightens. Apocalyptic urgency colors popular sentiment — the kingdom of God is at hand. Religious fervor motivates martyrdom (Maccabean precedent) and rebellion (Zealots). After 70 CE, grief and trauma pervade Jewish communities; Christian communities interpret events as vindication.
-
 __Leadership & Personal Authority:__ Charismatic figures multiply — prophets (John the Baptist), messiahs (Jesus, Bar Kokhba), revolutionary leaders (Judas the Galilean, Simon bar Giora). Herod the Great dominates through personal force and Roman backing. High priests exercise diminished authority under Roman oversight. Paul's apostolic authority shapes early Christianity. Rabban Yohanan ben Zakkai leads post-Temple reconstruction.
 
 __Legitimacy as Lived Allegiance:__ Roman legitimacy is never fully accepted; Jewish populations comply under coercion but reject Roman rule as illegitimate. Herodian legitimacy is contested — not Davidic, dependent on Rome. Priestly authority erodes as Temple politics become corrupt. Jesus's authority claims bypass institutional channels ("not as the scribes"). Early Christian communities develop alternative legitimacy structures. Rabbinic authority emerges slowly through learning and consensus.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary will drives the revolts �
 
 __External Relations & Posture:__ Judea exists within Roman imperial system as client kingdom, then province. Parthia represents potential counterweight but never effectively supports Jewish revolts. Diaspora communities (Alexandria, Rome, Mesopotamia) maintain ties but have limited capacity to assist. Christianity develops as trans-ethnic movement within Roman space, eventually appealing to Roman citizens including soldiers and officials.
 
+__Public Sentiment & Behavioral Temper:__ The period oscillates between accommodation and explosive violence. Messianic expectation intensifies as Roman rule tightens. Apocalyptic urgency colors popular sentiment — the kingdom of God is at hand. Religious fervor motivates martyrdom (Maccabean precedent) and rebellion (Zealots). After 70 CE, grief and trauma pervade Jewish communities; Christian communities interpret events as vindication.
+
 __Disaffection, Apathy & Spent Will:__ Post-revolt trauma leaves Jewish will spent; the Bar Kokhba defeat ends active messianic politics for generations. Rabbinic response channels energy into study and observance rather than political action. Christian communities redirect eschatological fervor from imminent return to long-term institution building. Apathy is not the dominant mode; transformation and sublimation describe the emotional trajectory better.
+
 
 ## D06. Informational Domain
 

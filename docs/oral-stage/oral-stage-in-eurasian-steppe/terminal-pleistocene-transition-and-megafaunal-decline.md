@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Mobility continued to discharge friction; ritua
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Sentiment fluctuated with the transition: anxiety and loss as familiar megafauna vanished and ancestral hunting knowledge became obsolete, giving way to cautious optimism as new adaptations proved viable; trust networks persisted within bands; behavioral temper adapted to new rhythms — patience for fishing and gathering replacing the charged tension of mammoth hunts.
-
 __Leadership & Personal Authority:__ Leadership remained situational; authority shifted to those skilled in new subsistence practices (fishing, plant knowledge) as mammoth-hunting expertise became irrelevant; personal pull continued to depend on demonstrated competence; oral tradition celebrated new heroes alongside ancestral ones.
 
 __Legitimacy as Lived Allegiance:__ Allegiance to band and tradition persisted; legitimacy resided in adapted oral custom; disaffection discharged by mobility; no structural change in legitimacy dynamics.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will mobilized for adapted seasonal rou
 
 __External Relations & Posture:__ Relations with other bands continued to oscillate between alliance and avoidance; territorial adjustments occurred as populations redistributed; posture remained flexible; no conquest, no expansion as a goal.
 
+__Public Sentiment & Behavioral Temper:__ Sentiment fluctuated with the transition: anxiety and loss as familiar megafauna vanished and ancestral hunting knowledge became obsolete, giving way to cautious optimism as new adaptations proved viable; trust networks persisted within bands; behavioral temper adapted to new rhythms — patience for fishing and gathering replacing the charged tension of mammoth hunts.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection cleared by mobility; the transition may have produced existential malaise as old ways failed, but adaptation restored will; residue low.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Regulatory fragmentation across member states c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ European publics generally support platform regulation, with trust in government to protect against corporate overreach higher than in the United States. Privacy concerns consistently rank high in surveys.
-
 __Leadership & Personal Authority:__ Competition Commissioner Margrethe Vestager becomes the public face of European tech regulation during the 2010s, with her successor and Commission President von der Leyen continuing the activist approach.
 
 __Legitimacy as Lived Allegiance:__ The EU's regulatory role enjoys broader legitimacy than many of its other functions, with digital and consumer protection seen as areas where European action adds value beyond what member states could achieve alone.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to regulate proves consistent 
 
 __External Relations & Posture:__ The "Brussels Effect" — the extraterritorial reach of European regulation through market access requirements — becomes an explicit element of European digital strategy, positioning rule-setting as a form of power that compensates for the absence of platform champions.
 
+__Public Sentiment & Behavioral Temper:__ European publics generally support platform regulation, with trust in government to protect against corporate overreach higher than in the United States. Privacy concerns consistently rank high in surveys.
+
 __Disaffection, Apathy & Spent Will:__ Critics argue that regulatory focus reflects resignation about European technological competitiveness — a consolation prize rather than a strategic success. Whether regulation protects European interests or merely manages decline remains contested.
+
 
 ## D06. Informational Domain
 

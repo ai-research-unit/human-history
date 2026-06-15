@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict is discharged through formal dueling, 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing temper varies by circumstance—confidence and generosity in times of plenty, anxiety and caution in drought; trust within kin networks is high; suspicion of outsiders and fear of sorcery shape inter-group relations; attachment to country is profound and emotionally charged.
-
 __Leadership & Personal Authority:__ Leaders emerge through demonstrated competence—hunting prowess, ritual knowledge, oratorical skill—rather than inheritance; authority is situational and consensual; elders command respect but cannot command obedience; charismatic individuals may exert wide influence, but leadership is not institutionalized.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy attaches to those who embody the law handed down through dreaming narratives; authority is legitimate when it conforms to ancestral precedent transmitted orally; innovation must be framed as revelation or rediscovery, not departure.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action for ceremonies, excha
 
 __External Relations & Posture:__ Relations between language groups oscillate between alliance (cemented by marriage and ceremony) and enmity (expressed in raiding); each group maintains its territory and sacred sites; no overarching political structure exists; external relations are managed through oral diplomacy and kinship.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing temper varies by circumstance—confidence and generosity in times of plenty, anxiety and caution in drought; trust within kin networks is high; suspicion of outsiders and fear of sorcery shape inter-group relations; attachment to country is profound and emotionally charged.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged drought, loss in conflict, or ceremonial failure can erode morale; individuals may drift between bands; collective disaffection manifests as failure to mobilize for ceremony or defense; recovery depends on restored conditions and renewed leadership.
+
 
 ## D06. Informational Domain
 

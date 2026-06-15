@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction between Austronesian newcomers 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The expansion carried a mood of confident outward movement for Austronesian voyagers—maritime exploration, new settlement, and growing communities; for established forager populations, the arrival of newcomers brought disruption and the necessity of adaptation or retreat.
-
 __Leadership & Personal Authority:__ Village leaders emerged through demonstrated competence in navigation, warfare, agriculture, or ritual; big-men accumulated prestige through generosity and achievement, commanding followers through personal authority rather than hereditary office.
 
 __Legitimacy as Lived Allegiance:__ Authority rested on demonstrated capacity and maintained reciprocity; leaders who failed to deliver or who hoarded rather than shared lost followings—legitimacy was continuous performance, not established title.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Communities could mobilize for collecti
 
 __External Relations & Posture:__ Relations between Austronesian villages ranged from kinship-based alliance to competitive raiding; relations with non-Austronesian forager populations varied from intermarriage and trade to avoidance and conflict—the full spectrum of encounter between expanding agriculturalists and established foragers.
 
+__Public Sentiment & Behavioral Temper:__ The expansion carried a mood of confident outward movement for Austronesian voyagers—maritime exploration, new settlement, and growing communities; for established forager populations, the arrival of newcomers brought disruption and the necessity of adaptation or retreat.
+
 __Disaffection, Apathy & Spent Will:__ Within village communities, social pressure and the need for cooperation maintained engagement; the option of migration or fission remained available for dissatisfied factions, preventing accumulation of disaffection into explosive grievance.
+
 
 ## D06. Informational Domain
 

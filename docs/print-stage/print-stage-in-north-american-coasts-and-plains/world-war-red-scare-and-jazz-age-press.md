@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Major race riots (Chicago, 1919; Tulsa, 1921) r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Wartime nationalism yields to postwar disillusionment among intellectuals but popular patriotism persists; the 1920s mood combines consumer optimism with nativist anxiety; the "return to normalcy" represents exhaustion with reform.
-
 __Leadership & Personal Authority:__ Wilson's collapse discredits idealism; Harding, Coolidge, and Hoover embody business-oriented normalcy; charismatic figures emerge in other domains (Lindbergh, Ruth, popular entertainers) whose celebrity newspapers amplify.
 
 __Legitimacy as Lived Allegiance:__ Business legitimacy peaks; government legitimacy stable but not actively embraced; immigrant communities maintain divided loyalties; African Americans increasingly contest the legitimacy of segregation through the press (Crisis, Defender).
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Reform will exhausted; business confide
 
 __External Relations & Posture:__ Wartime alliance yields to isolationist withdrawal; Senate rejects League of Nations; Washington Naval Conference (1921-1922) represents limited engagement; tariff walls rise.
 
+__Public Sentiment & Behavioral Temper:__ Wartime nationalism yields to postwar disillusionment among intellectuals but popular patriotism persists; the 1920s mood combines consumer optimism with nativist anxiety; the "return to normalcy" represents exhaustion with reform.
+
 __Disaffection, Apathy & Spent Will:__ Intellectuals express disillusionment (Lost Generation); working-class radicalism suppressed but not extinguished; African American militancy grows (New Negro movement, Garvey); voter turnout declines through the 1920s, reaching lows in 1924.
+
 
 ## D06. Informational Domain
 

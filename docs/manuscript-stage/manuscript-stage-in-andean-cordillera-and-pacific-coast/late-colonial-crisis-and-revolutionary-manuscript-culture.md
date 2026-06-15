@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The rebellion represents maximum discharge of a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear predominates after the rebellion's suppression; indigenous communities adopt protective silence; creole elites are shaken by the specter of racial warfare; peninsular administrators are anxious and vigilant; trust collapses across ethnic lines; the public mood is dark, watchful, traumatized; risk aversion intensifies among all groups.
-
 __Leadership & Personal Authority:__ Jose Gabriel Condorcanqui (Tupac Amaru II) briefly galvanizes indigenous and some mestizo support through personal charisma and Inca symbolism before his capture and execution (1781); no comparable leader emerges thereafter; colonial administration relies on bureaucratic authority rather than personal leadership; the vacuum of indigenous leadership is deliberately maintained through elimination of the cacique class.
 
 __Legitimacy as Lived Allegiance:__ Spanish royal legitimacy survives the rebellion but is damaged; indigenous allegiance becomes instrumental compliance under coercion rather than willing acceptance; creole allegiance is complicated by fear of indigenous uprising, which paradoxically ties them to Spanish protection even as they resent peninsular privilege; legitimacy is hollowed, functional, no longer deep.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The rebellion demonstrates indigenous c
 
 __External Relations & Posture:__ The viceroyalty remains subordinate to Spain; the rebellion is entirely internal; British naval pressure during European wars creates peripheral concern but no direct engagement; external posture is determined by Madrid; no independent diplomatic capacity exists.
 
+__Public Sentiment & Behavioral Temper:__ Fear predominates after the rebellion's suppression; indigenous communities adopt protective silence; creole elites are shaken by the specter of racial warfare; peninsular administrators are anxious and vigilant; trust collapses across ethnic lines; the public mood is dark, watchful, traumatized; risk aversion intensifies among all groups.
+
 __Disaffection, Apathy & Spent Will:__ Indigenous disaffection is suppressed but not extinguished; the rebellion's defeat produces exhaustion and apparent resignation that masks continuing resentment; creole disaffection grows through the period, fed by continued discrimination; apathy is protective strategy, not genuine acceptance; will is not spent but constrained, awaiting opportunity.
+
 
 ## D06. Informational Domain
 

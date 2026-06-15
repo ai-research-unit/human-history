@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ritual sacrifice channels violence and disposes
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite ideology projects cosmic order maintained through proper ritual and sacrifice. Commoner sentiment is inaccessible but presumably incorporates genuine belief in elite sacral power alongside pragmatic accommodation. The mood is confident through the florescence, darkening with late-period disruptions.
-
 __Leadership & Personal Authority:__ Paramount lords exercise sacral authority; their persons embody divine power and genealogical legitimacy. Portrait vessels may depict actual rulers whose individual charisma shaped politics. Leadership is personal and hereditary; bureaucratic routinization is absent.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on genealogical descent from divine ancestors, successful performance of ritual, and redistributive generosity. The spectacular tombs and huacas demonstrate capacity to command labor and resources. Allegiance appears stable through the florescence; late-period instability suggests erosion.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Elite will drives monumental constructi
 
 __External Relations & Posture:__ Moche polities compete with one another and raid highland groups for captives. Relations with contemporary cultures (Recuay, Cajamarca, early Lima) involve trade and intermittent conflict. No evidence of unified Moche foreign policy; each valley polity conducts its own external relations.
 
+__Public Sentiment & Behavioral Temper:__ Elite ideology projects cosmic order maintained through proper ritual and sacrifice. Commoner sentiment is inaccessible but presumably incorporates genuine belief in elite sacral power alongside pragmatic accommodation. The mood is confident through the florescence, darkening with late-period disruptions.
+
 __Disaffection, Apathy & Spent Will:__ Late-period evidence — site abandonments, reduced construction, possible violence at huacas — suggests failing elite authority. ENSO disruptions may have undermined the legitimacy of rulers unable to maintain irrigation or prevent famine. The collapse by 600 CE indicates spent will and shattered confidence.
+
 
 ## D06. Informational Domain
 

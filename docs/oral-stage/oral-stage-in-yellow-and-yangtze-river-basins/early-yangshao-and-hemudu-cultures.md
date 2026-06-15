@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through kinship m
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Communities in both cultures are bound by face-to-face familiarity and dense kinship ties; interpersonal trust extends to the village and marriage-linked settlements; strangers are approached cautiously; the prevailing temper is confident adaptation to established agricultural lifeways.
-
 __Leadership & Personal Authority:__ Leadership is informal and achieved rather than ascribed, resting on age, wisdom, hunting prowess, ritual knowledge, or personal charisma; respected elders guide decisions through persuasion; no hereditary chiefs or formal officeholders exist in either culture.
 
 __Legitimacy as Lived Allegiance:__ Authority derives from kinship seniority, personal reputation, and ancestral connection; allegiance is relational rather than institutional; legitimacy is embedded in fulfilled obligations and demonstrated competence.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for seasonal 
 
 __External Relations & Posture:__ Relations with neighboring communities are shaped by kinship alliance, marriage exchange, and occasional reciprocal visiting; conflict over resources or personal grievance occurs but does not define intergroup relations; no external polities or powers impose on these communities; posture is defensive and localized.
 
+__Public Sentiment & Behavioral Temper:__ Communities in both cultures are bound by face-to-face familiarity and dense kinship ties; interpersonal trust extends to the village and marriage-linked settlements; strangers are approached cautiously; the prevailing temper is confident adaptation to established agricultural lifeways.
+
 __Disaffection, Apathy & Spent Will:__ The mid-Neolithic is a period of expansion and confidence in both cultures; disaffection is minimal; those who cannot integrate may depart to found new settlements; no widespread apathy or exhaustion is evident.
+
 
 ## D06. Informational Domain
 

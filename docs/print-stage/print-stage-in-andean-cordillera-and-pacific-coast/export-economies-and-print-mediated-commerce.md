@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor unrest recurs: Santa Maria de Iquique mas
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Export booms generate optimism; collapses trigger panic and nationalist resentment against foreign capital. Press editorials amplify both moods, urging expansion or retrenchment.
-
 __Leadership & Personal Authority:__ Mining barons (Patino, Edwards) and political patrons shape export policy through press influence and personal networks. Reform leaders (Billinghurst, Alessandri) mobilize anti-oligarchic sentiment through newspaper campaigns.
 
 __Legitimacy as Lived Allegiance:__ Export-funded prosperity legitimates oligarchic regimes; fiscal collapse delegitimizes them. Labor press challenges the moral basis of export wealth, invoking exploitation and foreign domination.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Strikes demonstrate collective will amo
 
 __External Relations & Posture:__ Commodity dependence creates vulnerability to foreign buyers (Britain, United States) and foreign investors. Nationalist press campaigns demand renegotiation of contracts and control over subsoil resources.
 
+__Public Sentiment & Behavioral Temper:__ Export booms generate optimism; collapses trigger panic and nationalist resentment against foreign capital. Press editorials amplify both moods, urging expansion or retrenchment.
+
 __Disaffection, Apathy & Spent Will:__ Repeated strike defeats and massacres demoralize labor movements; some militants emigrate or abandon organizing. Depression-era despair is visible in press accounts of unemployment and migration.
+
 
 ## D06. Informational Domain
 

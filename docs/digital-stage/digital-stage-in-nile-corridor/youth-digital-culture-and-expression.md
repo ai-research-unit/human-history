@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Alienation from formal politics combines with l
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Frustration and resignation characterize youth mood; the hope of 2011 has faded into pragmatic adaptation to constrained circumstances.
-
 __Leadership & Personal Authority:__ Influencers and content creators exercise soft leadership in lifestyle and cultural matters; political leadership figures largely absent from youth discourse under surveillance conditions.
 
 __Legitimacy as Lived Allegiance:__ Youth allegiance to the state remains thin; loyalty runs more to family, friends, and online communities than to regime or nation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will suppressed after 2013 cr
 
 __External Relations & Posture:__ Youth connect to global internet culture, consuming and adapting international trends; sense of connection to wider digital world contrasts with limited physical mobility.
 
+__Public Sentiment & Behavioral Temper:__ Frustration and resignation characterize youth mood; the hope of 2011 has faded into pragmatic adaptation to constrained circumstances.
+
 __Disaffection, Apathy & Spent Will:__ Political apathy dominates, a protective withdrawal from engagement that could bring trouble; entertainment and distraction replace civic participation.
+
 
 ## D06. Informational Domain
 

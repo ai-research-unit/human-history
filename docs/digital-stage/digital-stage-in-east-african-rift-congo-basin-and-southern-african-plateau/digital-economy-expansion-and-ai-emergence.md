@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Youth unemployment despite digital skills creat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-pandemic weariness combines with economic anxiety as inflation erodes purchasing power; digital platforms provide both distraction and amplification for popular frustrations; the mood oscillates between tech-optimism among connected youth and exclusion-anger among the disconnected.
-
 __Leadership & Personal Authority:__ A new generation of tech entrepreneurs and influencers commands followings that rival traditional political figures; William Ruto in Kenya cultivates a digital-savvy image while established autocrats in Uganda and Rwanda adapt social media to their messaging needs.
 
 __Legitimacy as Lived Allegiance:__ Governments that deliver digital services and economic opportunity retain legitimacy; those that impose shutdowns and taxes on digital access erode their standing with youth; the gap between promised digital transformation and lived experience generates cynicism.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Tech-sector lobbying achieves policy in
 
 __External Relations & Posture:__ Competition between Chinese and Western technology providers offers leverage but also creates dependency risks; African states navigate between Huawei's infrastructure and American platform dominance without developing autonomous alternatives; the digital Non-Aligned posture remains more aspiration than strategy.
 
+__Public Sentiment & Behavioral Temper:__ Post-pandemic weariness combines with economic anxiety as inflation erodes purchasing power; digital platforms provide both distraction and amplification for popular frustrations; the mood oscillates between tech-optimism among connected youth and exclusion-anger among the disconnected.
+
 __Disaffection, Apathy & Spent Will:__ Youth who expected digital economy participation but find only gig precarity or unemployment disengage from formal politics; platform cynicism grows as the limitations of digital solutions become apparent; the initial enthusiasm for leapfrogging fades into recognition of persistent structural constraints.
+
 
 ## D06. Informational Domain
 

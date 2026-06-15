@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The residue settles as inconsistent enforcement
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Content moderation becomes a culture war flashpoint, with "censorship" claims generating intense emotional responses across political divides. Trust in platforms to moderate fairly declines across all political groups by 2024.
-
 __Leadership & Personal Authority:__ Platform executives—Zuckerberg, Dorsey, Pichai, Musk—become focal points for moderation debates, their personal decisions (or indecision) shaping public discourse. Musk's acquisition of Twitter (2022) explicitly frames itself as a free speech intervention.
 
 __Legitimacy as Lived Allegiance:__ Neither free speech absolutism nor aggressive content removal commands consensus legitimacy, leaving platforms unable to claim democratic mandate for their editorial choices.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Congressional hearings, executive order
 
 __External Relations & Posture:__ US platform moderation decisions affect global speech, with American content policies exported worldwide while platforms face different regulatory demands in Europe, India, and elsewhere.
 
+__Public Sentiment & Behavioral Temper:__ Content moderation becomes a culture war flashpoint, with "censorship" claims generating intense emotional responses across political divides. Trust in platforms to moderate fairly declines across all political groups by 2024.
+
 __Disaffection, Apathy & Spent Will:__ The residue accumulates as user cynicism about platform fairness, creator anxiety about arbitrary enforcement, and widespread sense that neither robust speech nor effective protection is achievable under current arrangements.
+
 
 ## D06. Informational Domain
 

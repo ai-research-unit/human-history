@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Pilgrimage of Grace (1536) protests religious c
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Religious uncertainty dominates mood; three regime changes in religion (Henry's break, Edward's Protestantism, Mary's Catholicism) within 25 years produce anxiety, conformity, and dissimulation. Trust is cautious; denunciation risks are real. Print both inflames and reflects popular uncertainty.
-
 __Leadership & Personal Authority:__ Henry VIII projects overwhelming personal authority; "bluff King Hal" dominates court and country. Thomas Cromwell's administrative genius drives Reformation policy until his fall (1540). Edward VI's minority sees factional rule. Mary I's personal conviction drives Catholic restoration. Leadership is intensely personal and dynastic.
 
 __Legitimacy as Lived Allegiance:__ Tudor legitimacy rests on dynastic claim, royal presence, and divine sanction now contested. Henry's break with Rome divides allegiance between Crown and Pope. Protestantism claims scriptural authority; Catholicism claims apostolic continuity. Lived allegiance is fractured and tested.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Crown will dominates; Parliament increa
 
 __External Relations & Posture:__ England balances between Habsburg and Valois powers. Break with Rome isolates England diplomatically. Marriage alliances (Catherine of Aragon, Anne of Cleves, Mary's Philip II) serve diplomacy. Ireland is a contested periphery. Scotland remains hostile until dynastic union prospect emerges.
 
+__Public Sentiment & Behavioral Temper:__ Religious uncertainty dominates mood; three regime changes in religion (Henry's break, Edward's Protestantism, Mary's Catholicism) within 25 years produce anxiety, conformity, and dissimulation. Trust is cautious; denunciation risks are real. Print both inflames and reflects popular uncertainty.
+
 __Disaffection, Apathy & Spent Will:__ Religious persecution under Henry, Edward, and Mary produces martyrs and exiles. Marian exiles (Frankfurt, Geneva, Strasbourg) sustain Protestant print networks abroad. Disaffection among dispossessed Catholics and persecuted Protestants alike; exhaustion begins but not yet dominant.
+
 
 ## D06. Informational Domain
 

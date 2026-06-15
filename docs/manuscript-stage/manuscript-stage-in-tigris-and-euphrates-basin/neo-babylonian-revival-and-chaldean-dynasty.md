@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The brevity of the dynasty limited institutiona
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The destruction of Assyria and restoration of Babylonian primacy generated genuine pride; Nebuchadnezzar's building program and military victories reinforced confidence; public sentiment was favorable through the reign's peak years.
-
 __Leadership & Personal Authority:__ Nabopolassar claimed legitimacy as liberator from Assyrian oppression; Nebuchadnezzar II embodied military success and pious temple restoration, becoming the archetypal Babylonian king; Nabonidus's personal devotion to the moon-god Sin rather than Marduk alienated the Esagila priesthood and undermined his authority.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy derived from restoration of Marduk's cult, rebuilding of Babylon, and continuation of ancient Babylonian traditions; Nabonidus's heterodox religious policy eroded this foundation, leaving him vulnerable to internal disloyalty when Cyrus arrived.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The dynasty displayed strong political 
 
 __External Relations & Posture:__ Relations with Media (allied against Assyria, then neutral), Egypt (hostile, contested control of the Levant), and eventually Persia (initially distant, then fatally threatening) shaped foreign policy; the dynasty maintained an expansionist posture until resources and will contracted under later kings.
 
+__Public Sentiment & Behavioral Temper:__ The destruction of Assyria and restoration of Babylonian primacy generated genuine pride; Nebuchadnezzar's building program and military victories reinforced confidence; public sentiment was favorable through the reign's peak years.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection crystallized around Nabonidus's religious policies and governance failures; the ease of Cyrus's conquest in 539 BCE — Babylon reportedly fell without a major battle — suggests exhausted will and internal betrayal rather than military defeat.
+
 
 ## D06. Informational Domain
 

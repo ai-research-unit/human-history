@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through trade wea
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The expansion of trade generates optimistic and acquisitive orientations at coastal communities; trust networks extend along trade routes through repeated interaction and kinship linkage; foreign traders are incorporated through hospitality conventions and trading partnerships that create mutual obligation.
-
 __Leadership & Personal Authority:__ Leadership at port communities rests on personal authority: the successful trader-chief who provides security, mediates disputes, and commands access to foreign goods and contacts; authority remains achieved rather than ascribed, though genealogical seniority provides initial advantage.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is owed to successful leaders who deliver material benefits; legitimacy is performative and transactional; followers attach to chiefs who provide access to trade wealth and protection; legitimacy erodes when a leader fails to deliver, and followers may shift to more successful patrons.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity is limited t
 
 __External Relations & Posture:__ Coastal communities are outward-oriented, welcoming foreign traders as sources of wealth; relations with mainland polities (Funan on the Mekong) may involve gift exchange and nascent diplomatic contact; no tributary relationships are established; posture is commercial rather than political.
 
+__Public Sentiment & Behavioral Temper:__ The expansion of trade generates optimistic and acquisitive orientations at coastal communities; trust networks extend along trade routes through repeated interaction and kinship linkage; foreign traders are incorporated through hospitality conventions and trading partnerships that create mutual obligation.
+
 __Disaffection, Apathy & Spent Will:__ Trade expansion provides material improvement that forestalls disaffection; exit options remain open for the dissatisfied; no evidence of exhaustion or despair; the period is characterized by expansion and opportunity rather than contraction.
+
 
 ## D06. Informational Domain
 

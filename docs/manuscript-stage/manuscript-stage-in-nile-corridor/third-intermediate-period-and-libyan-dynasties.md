@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil conflicts between competing dynasties pro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nostalgia for New Kingdom greatness pervades elite discourse; religious piety intensifies as theodicy for decline; local loyalties supersede valley-wide identity; fatalism documented in wisdom literature.
-
 __Leadership & Personal Authority:__ Libyan chiefs derive authority from military prowess and kinship networks; high priests of Amun claim divine mandate through oracle consultation; Nubian kings present themselves as restorers of traditional pharaonic order; personal charisma matters more than institutional position.
 
 __Legitimacy as Lived Allegiance:__ Competing legitimacy claims fragment loyalty; Delta kings claim full pharaonic titulary; Theban priests claim divine sanction; local populations transfer allegiance to whoever provides security and patronage; Kushite rulers invoke religious restoration to claim pan-Egyptian authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Factional conflicts absorb elite energi
 
 __External Relations & Posture:__ Libyan connections provide mercenary recruitment networks; Phoenician commercial relations continue; Nubian kingdom rises as rival and eventually conquering power; Assyrian empire looms as existential threat by late period; Egyptian states generally reactive rather than expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Nostalgia for New Kingdom greatness pervades elite discourse; religious piety intensifies as theodicy for decline; local loyalties supersede valley-wide identity; fatalism documented in wisdom literature.
+
 __Disaffection, Apathy & Spent Will:__ Elite investment in mortuary rather than political futures signals withdrawal from public engagement; New Kingdom imperial ambitions abandoned; local security concerns dominate over collective projects; four centuries without sustained reunification reflect collective exhaustion.
+
 
 ## D06. Informational Domain
 

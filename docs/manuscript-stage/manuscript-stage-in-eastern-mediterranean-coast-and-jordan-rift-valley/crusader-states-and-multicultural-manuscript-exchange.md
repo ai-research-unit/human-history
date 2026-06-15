@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Baronial faction fights (particularly after 118
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Crusading zeal among newly arrived Europeans; settlers (poulains) develop more accommodating attitudes toward indigenous populations; fear and siege mentality in periods of Muslim advance; indigenous Christians ambivalent — benefiting from Latin protection but resenting Latin ecclesiastical claims; Muslim and Jewish populations resentful of subordination; trust operates within confessional and ethnic communities rather than across them.
-
 __Leadership & Personal Authority:__ Crusader kings (Baldwin I-IV, Guy, various thirteenth-century rulers) exercise varying degrees of personal authority; Saladin's charisma galvanizes Muslim reconquest; Richard I Lionheart provides temporary salvation (1191); military order masters (Raymond du Puy, Hermann von Salza) command institutional loyalty; baronial leaders often undermine royal authority; the final decades see leadership fragmented among competing claimants and factions.
 
 __Legitimacy as Lived Allegiance:__ Royal legitimacy contested through succession disputes (notably 1186, leading to Hattin); military success or failure determines actual allegiance; Frankish settlers loyal to local interests; indigenous Christians conditionally loyal to protective Frankish rule; Muslims and Jews comply under coercion without allegiance; by the thirteenth century, legitimacy diffused among multiple claimants and powers.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The First Crusade exhibits extraordinar
 
 __External Relations & Posture:__ The Crusader states exist in permanent military confrontation with surrounding Muslim powers; diplomacy (treaties, truces, alliances of convenience) alternates with warfare; Byzantine relations oscillate between alliance and hostility; Italian city-states pursue commercial interests that sometimes conflict with Crusader military needs; Mongol arrival (mid-thirteenth century) offers brief hope of alliance; external posture increasingly defensive as Muslim unity under Ayyubids and then Mamluks overwhelms Frankish resistance.
 
+__Public Sentiment & Behavioral Temper:__ Crusading zeal among newly arrived Europeans; settlers (poulains) develop more accommodating attitudes toward indigenous populations; fear and siege mentality in periods of Muslim advance; indigenous Christians ambivalent — benefiting from Latin protection but resenting Latin ecclesiastical claims; Muslim and Jewish populations resentful of subordination; trust operates within confessional and ethnic communities rather than across them.
+
 __Disaffection, Apathy & Spent Will:__ Crusading enthusiasm in Europe declines through the thirteenth century; settler society exhibits fatigue; internal conflicts sap collective will; the fall of Jerusalem (1187) and progressive territorial loss generate despair; by 1291, the will to defend the last remnant has effectively collapsed.
+
 
 ## D06. Informational Domain
 

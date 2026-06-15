@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence escalates—assassinations (
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Popular mood swings between rage and despair; Palestine defeat traumatizes national pride; anti-British feeling intensifies into Canal Zone guerrilla campaign; January 1952 represents emotional explosion of accumulated grievance.
-
 __Leadership & Personal Authority:__ King Farouk's authority collapses through corruption scandals and political interference; Wafd leaders aging and compromised; Brotherhood's Hasan al-Banna assassinated 1949; no civilian leader commands broad legitimacy; junior officers wait.
 
 __Legitimacy as Lived Allegiance:__ Constitutional system loses all credibility; neither palace, parliament, nor parties retain popular allegiance; legitimacy vacuum awaits whoever can project strength and purpose.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Established institutions lack will to r
 
 __External Relations & Posture:__ Treaty revision fails; Sudan question unresolved; Arab League participation increases regional engagement; Palestine War (1948) turns Egypt from cautious neutral to defeated belligerent; hostility to Israel becomes permanent feature.
 
+__Public Sentiment & Behavioral Temper:__ Popular mood swings between rage and despair; Palestine defeat traumatizes national pride; anti-British feeling intensifies into Canal Zone guerrilla campaign; January 1952 represents emotional explosion of accumulated grievance.
+
 __Disaffection, Apathy & Spent Will:__ Disillusionment with parliamentary politics reaches totality; violence becomes legitimized as politics fails; the old order has exhausted its credit.
+
 
 ## D06. Informational Domain
 

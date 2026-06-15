@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through fission a
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Survival pressure generates a watchful, conservative temper; trust remains high within kin networks but may narrow as bands contract; anxiety about water, food, and territorial competition colors public sentiment; confidence is lower than in wetter periods.
-
 __Leadership & Personal Authority:__ Leadership depends on demonstrated survival competence—knowledge of water sources, navigation, and hunting; personal authority accrues to those who have brought their band through hardship; charisma matters less than practical skill.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin, band, and the shared oral tradition that maps the landscape and prescribes conduct; legitimacy flows from adherence to ancestral custom and successful leadership; no centralized authority requires formal legitimation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is oriented toward surv
 
 __External Relations & Posture:__ Relations with other bands are ambivalent—potential mates, trading partners, and refuge sources, but also potential competitors for scarce resources; posture is cautious and defensive rather than expansionist.
 
+__Public Sentiment & Behavioral Temper:__ Survival pressure generates a watchful, conservative temper; trust remains high within kin networks but may narrow as bands contract; anxiety about water, food, and territorial competition colors public sentiment; confidence is lower than in wetter periods.
+
 __Disaffection, Apathy & Spent Will:__ Chronic stress may generate fatigue and apathy in marginal bands; sustained hardship tests social cohesion; bands that lose will may fragment or perish; the residue of spent will is invisible archaeologically but likely present.
+
 
 ## D06. Informational Domain
 

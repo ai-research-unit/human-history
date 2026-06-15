@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The entrada of 378 CE represents imposed regime
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Monumental inscriptions and architecture project confidence and stability. The disruption of 378 CE is retrospectively framed as legitimate succession rather than conquest, suggesting concern for public acceptance.
-
 __Leadership & Personal Authority:__ Siyaj K'ahk' ("Fire Is Born") emerges as the key figure of the 378 entrada — a military-political leader projecting Teotihuacan authority into the lowlands. At Tikal, Yax Nuun Ahiin I (installed 379 CE) combines Teotihuacan affiliation with Maya kingship. Leadership authority rests on military success, lineage claims, and ritual performance.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy at Tikal after 378 requires careful negotiation — the new regime claims both Teotihuacan and local ancestry, erecting monuments (Stela 31) that explain the succession in acceptable terms. Allegiance is secured through ritual spectacle, successful warfare, and continuity of elite privilege.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The capacity to project influence from 
 
 __External Relations & Posture:__ Teotihuacan-Maya relations define the period. Whether the entrada represents military conquest, elite alliance, or trade-network control remains debated, but Teotihuacan influence is undeniable — green obsidian, talud-tablero architecture, and iconographic elements appear across the lowlands. Maya polities navigate between attraction to prestige goods and resistance to foreign domination.
 
+__Public Sentiment & Behavioral Temper:__ Monumental inscriptions and architecture project confidence and stability. The disruption of 378 CE is retrospectively framed as legitimate succession rather than conquest, suggesting concern for public acceptance.
+
 __Disaffection, Apathy & Spent Will:__ No evidence of mass disaffection; elite factional conflict around the entrada may generate localized resistance but is absorbed by the hybrid regime's success in subsequent decades.
+
 
 ## D06. Informational Domain
 

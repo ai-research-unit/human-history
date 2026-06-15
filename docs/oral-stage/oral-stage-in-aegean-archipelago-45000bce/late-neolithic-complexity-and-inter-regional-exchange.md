@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over land, cattle, or exchange grievan
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The expanding exchange networks and rising surplus create a cautiously optimistic temper; trust extends along kinship and established exchange lines but remains wary toward strangers; the mood is industrious, oriented toward accumulation and lineage advancement.
-
 __Leadership & Personal Authority:__ Leadership rests on personal achievement — successful farming, exchange, and ritual knowledge — rather than inherited office; elders and big men command deference through demonstrated competence and oral persuasion; charisma matters where institutional authority is absent.
 
 __Legitimacy as Lived Allegiance:__ Allegiance attaches to kin, village, and recognized leaders rather than abstract authority; legitimacy earned and renewed through performance — successful harvests, fair dealing, effective mediation — and withdrawn when leaders fail.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action limited to village sc
 
 __External Relations & Posture:__ Inter-community relations mix exchange partnership with competition and occasional raiding; alliances cemented through marriage and gift; hostility contained by distance and kinship ties; no evidence of organized warfare or conquest.
 
+__Public Sentiment & Behavioral Temper:__ The expanding exchange networks and rising surplus create a cautiously optimistic temper; trust extends along kinship and established exchange lines but remains wary toward strangers; the mood is industrious, oriented toward accumulation and lineage advancement.
+
 __Disaffection, Apathy & Spent Will:__ The small scale and kinship embedding leave little room for anomie; grievances find outlet in feud, migration, or communal mediation; no visible exhaustion of collective will at this growth phase.
+
 
 ## D06. Informational Domain
 

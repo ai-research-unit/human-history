@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Anti-austerity protests sweep southern Europe. 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anxiety pervades crisis countries; resentment toward northern creditors and EU institutions rises. Trust in national governments and the EU project declines through 2013, stabilizing only as growth returns.
-
 __Leadership & Personal Authority:__ Merkel consolidates authority as crisis manager. Technocratic governments in Greece and Italy lack popular mandates. Macron remains a minister; the populist leaders of the next decade are not yet ascendant.
 
 __Legitimacy as Lived Allegiance:__ EU legitimacy erodes under austerity. Euroskepticism grows in both creditor and debtor states. UKIP's rise in Britain signals the sentiment that will produce Brexit.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Crisis management consumes political wi
 
 __External Relations & Posture:__ Transatlantic relations cool after Snowden. Merkel's phone surveillance strains US-German ties. Russian annexation of Crimea in 2014 refocuses security concerns eastward at window's end.
 
+__Public Sentiment & Behavioral Temper:__ Anxiety pervades crisis countries; resentment toward northern creditors and EU institutions rises. Trust in national governments and the EU project declines through 2013, stabilizing only as growth returns.
+
 __Disaffection, Apathy & Spent Will:__ Youth disaffection runs high. Emigration from crisis countries drains talent. Voter turnout declines; abstention rises as established parties lose credibility.
+
 
 ## D06. Informational Domain
 

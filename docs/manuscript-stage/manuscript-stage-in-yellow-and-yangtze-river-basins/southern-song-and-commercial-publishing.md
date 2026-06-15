@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The 1127 catastrophe (Jingkang Incident) trauma
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The trauma of 1127 shapes Southern Song consciousness: shame, loss, and irredentist longing for the lost northern homeland. The military hero Yue Fei, executed in 1142 at Qin Hui's direction after advocating northern recovery, becomes a martyr figure symbolizing betrayed patriotism. Yet daily life in the prosperous south generates its own mood: commercial vitality, cultural refinement, and a sophisticated urban consciousness that accepts the dynasty's truncated condition.
-
 __Leadership & Personal Authority:__ Emperor Gaozong (r. 1127–1162) establishes the Southern Song but makes peace with Jin rather than fighting for recovery, a choice that haunts his legitimacy. Later emperors vary in capacity; none command heroic authority. Chancellors dominate politics. The examination system produces competent administrators but not charismatic leaders. Military commanders who win victories (Yue Fei, Han Shizhong) threaten civilian control and face suppression.
 
 __Legitimacy as Lived Allegiance:__ The dynasty claims continued Mandate despite losing half its territory. Neo-Confucian ideology provides philosophical legitimation. Popular allegiance in the south appears solid—the commercial prosperity and functioning governance maintain consent. The irredentist sentiment creates pressure for northern recovery that the court cannot satisfy. The final resistance at Yamen (1279) demonstrates that substantial loyalty persists to the end.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The fundamental divide runs between war
 
 __External Relations & Posture:__ The Jin dynasty to the north defines the primary relationship: a posture of formal subordination (Song as the junior party, paying tribute) that Song literati experience as humiliation. After Jin falls to the Mongols (1234), the Song briefly attempts to recover northern territory in alliance with the Mongols, then becomes the Mongol target. Maritime relations with Japan, Korea, Southeast Asia, and beyond flourish commercially without strategic consequence. The Song cannot play powers against each other effectively.
 
+__Public Sentiment & Behavioral Temper:__ The trauma of 1127 shapes Southern Song consciousness: shame, loss, and irredentist longing for the lost northern homeland. The military hero Yue Fei, executed in 1142 at Qin Hui's direction after advocating northern recovery, becomes a martyr figure symbolizing betrayed patriotism. Yet daily life in the prosperous south generates its own mood: commercial vitality, cultural refinement, and a sophisticated urban consciousness that accepts the dynasty's truncated condition.
+
 __Disaffection, Apathy & Spent Will:__ The chronic humiliation and inability to recover the north generates literati disaffection. Some withdraw into aesthetic cultivation; others engage in ritual criticism of court policy. Popular disaffection remains limited—the prosperity cushions grievance. By the final decades, as Mongol pressure intensifies, a certain fatalism sets in. The final resistance represents will's last expenditure; its failure leaves spent resignation rather than continuing struggle.
+
 
 ## D06. Informational Domain
 

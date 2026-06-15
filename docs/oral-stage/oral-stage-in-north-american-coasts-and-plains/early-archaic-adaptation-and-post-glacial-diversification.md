@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction still resolves primarily throug
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The public remains the band, now perhaps somewhat larger. Sentiment tracks subsistence success; the stabilization of food supply probably yields generally positive affect compared to the anxious uncertainty of the Younger Dryas and immediate post-extinction period. Trust radius extends through demonstrated kinship and reciprocal obligation; caution with strangers persists.
-
 __Leadership & Personal Authority:__ Leadership achieved through hunting success, ritual knowledge, and social skill. Authority remains temporary and task-specific but may begin concentrating somewhat as subsistence management requires coordination of diverse activities (hunting, gathering, processing, storage). Elders gain status as knowledge repositories; their memories hold the territorial map and resource calendar.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to competent leaders and generous kin; legitimacy requires continuous demonstration. The cemetery introduces a new legitimating anchor — connection to ancestors buried at this place, claiming this territory through the accumulated dead. Legitimacy begins extending backward in time as well as residing in present performance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action capacity may increase
 
 __External Relations & Posture:__ Relations with neighboring bands probably stabilize into regular patterns of exchange, intermarriage, and seasonal aggregation. Territorial boundaries begin emerging, though permeable and negotiable. Posture toward neighbors ranges from allied (shared kin) through neutral (exchange partners) to avoidant (no relations); outright hostility remains rare. External relations managed through oral diplomacy and gift exchange.
 
+__Public Sentiment & Behavioral Temper:__ The public remains the band, now perhaps somewhat larger. Sentiment tracks subsistence success; the stabilization of food supply probably yields generally positive affect compared to the anxious uncertainty of the Younger Dryas and immediate post-extinction period. Trust radius extends through demonstrated kinship and reciprocal obligation; caution with strangers persists.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection resolves through departure, but the cost of departure rises with territorial attachment. A disaffected individual abandoning the cemetery site loses ancestral connection. Apathy and exhaustion remain episodic responses to hardship rather than structural conditions. Will regenerates with the seasonal cycle; no chronic political exhaustion evident.
+
 
 ## D06. Informational Domain
 

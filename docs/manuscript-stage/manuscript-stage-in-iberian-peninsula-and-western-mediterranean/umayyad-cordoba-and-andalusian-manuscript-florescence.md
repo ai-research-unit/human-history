@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Ethnic and factional tension — Arab vs. Berbe
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Caliphal Cordoba exudes confidence and cultural pride; poets celebrate the city's splendor; trust extends across the diverse population so long as prosperity holds; the fitna shatters this temper, replacing confidence with anxiety and faction.
-
 __Leadership & Personal Authority:__ Abd al-Rahman III (r. 912–961 CE) consolidates caliphal authority through personal charisma and military success; al-Hakam II (r. 961–976 CE) earns renown as a scholar-patron; the chamberlain al-Mansur (r. 978–1002 CE) wields de facto power through military victories; after al-Mansur, no figure commands comparable allegiance, and leadership fragments among rival claimants.
 
 __Legitimacy as Lived Allegiance:__ The Umayyad caliphal claim — descent from the Damascus caliphs, rival to the Abbasids and Fatimids — commands broad allegiance at its peak; al-Hakam II's scholarly patronage and al-Mansur's military triumphs sustain this; the fitna's succession crises shatter legitimacy, and no claimant restores it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Under strong caliphs and chamberlains, 
 
 __External Relations & Posture:__ The caliphate projects power across the Western Mediterranean, exchanging embassies with Byzantium and the Ottonian Empire, raiding Christian Iberia, and competing with the Fatimids for Maghrebi allegiance; after the fitna, successor taifas adopt defensive postures, paying tribute (parias) to Christian kings.
 
+__Public Sentiment & Behavioral Temper:__ Caliphal Cordoba exudes confidence and cultural pride; poets celebrate the city's splendor; trust extends across the diverse population so long as prosperity holds; the fitna shatters this temper, replacing confidence with anxiety and faction.
+
 __Disaffection, Apathy & Spent Will:__ Berber resentment and saqaliba ambition accumulate as grievances; the fitna releases these as civil war; by 1031 CE, exhaustion pervades all factions, and the caliphate is abolished by consent of its own notables, a mark of spent collective will.
+
 
 ## D06. Informational Domain
 

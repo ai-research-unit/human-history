@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Resistance is sporadic but persistent: the Maji
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ African public sentiment is shaped by the burden of forced labor, taxation, and land alienation; a sullen compliance overlays deeper resentment; the trust radius remains within kin and ethnic community, not extended to colonial authority.
-
 __Leadership & Personal Authority:__ Traditional chiefs retain local authority but are compromised by their role as colonial intermediaries; a new class of mission-educated leaders (Harry Thuku, early Kikuyu Central Association figures) begins to articulate African grievances.
 
 __Legitimacy as Lived Allegiance:__ Colonial rule rests on coercion, not consent; legitimacy is not felt but imposed; among Africans, allegiance flows to kin, ethnic community, and, increasingly, to nascent proto-nationalist networks rather than to the colonial state.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ African political will is fragmented by
 
 __External Relations & Posture:__ The region is a theater of European great-power rivalry: Germany loses Tanganyika after World War I; Italy's invasion of Ethiopia (1935–1936) resonates across East Africa as a symbol of European aggression against an African state; African soldiers serve in European wars on distant fronts, gaining exposure to wider currents.
 
+__Public Sentiment & Behavioral Temper:__ African public sentiment is shaped by the burden of forced labor, taxation, and land alienation; a sullen compliance overlays deeper resentment; the trust radius remains within kin and ethnic community, not extended to colonial authority.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection is endemic but contained; apathy among populations ground down by extraction is widespread; the will to collective action is latent, awaiting the postwar conjuncture to find expression.
+
 
 ## D06. Informational Domain
 

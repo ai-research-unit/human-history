@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-village raiding and livestock theft recur
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Confidence rises with expanding settlement and trade; trust extends beyond kin to trade partners and neighboring villages; optimism colors the expansionary mood, though anxiety about drought and raid persists.
-
 __Leadership & Personal Authority:__ Proto-urban headmen lead through personal charisma, demonstrated generosity, and oratorical skill; authority is spoken into being at assemblies and sustained by reputation; no hereditary office yet, but elite lineages cluster leadership.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to leaders who deliver surplus and protection; legitimacy is performed through feasting and successful defense; oral praise songs and commemorative recitations reinforce authority; disaffection surfaces when leaders fail to redistribute.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will mobilizes for defense a
 
 __External Relations & Posture:__ Egyptian contact brings prestige and trade goods; Levantine communities remain politically subordinate but economically integrated; no military threat from Egypt in this phase; northern contacts with Syria-Mesopotamia intensify; posture is receptive rather than defensive.
 
+__Public Sentiment & Behavioral Temper:__ Confidence rises with expanding settlement and trade; trust extends beyond kin to trade partners and neighboring villages; optimism colors the expansionary mood, though anxiety about drought and raid persists.
+
 __Disaffection, Apathy & Spent Will:__ Minimal in this expansionary phase; localized grievance over tribute or raid is mediated orally; no systemic disaffection; will remains engaged and directed outward toward growth.
+
 
 ## D06. Informational Domain
 

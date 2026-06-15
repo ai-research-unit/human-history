@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Islamist insurgency kills over 1,200 people (19
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of sullen acquiescence prevails, with cynicism about official pronouncements, private grumbling about corruption and stagnation, and episodic anger at price rises or sectarian incidents, while the insurgency period (1992–1997) generates genuine fear in Upper Egypt and tourist areas, and the public trusts neither state nor Islamist narrative fully.
-
 __Leadership & Personal Authority:__ Mubarak projects stolid, bureaucratic steadiness rather than charismatic authority, lacking Nasser's popular magnetism or Sadat's dramatic flair, his persona deliberately boring as a stability signal after Sadat's assassination, while his wife Suzanne cultivates a modernizing image and the question of succession (son Gamal's emergence visible by period's end) begins generating elite and popular anxiety.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on negative foundations — avoiding Nasserist economic failure, Sadatist adventurism, and Islamist theocracy — rather than positive vision, while the regime claims credit for stability, gradual prosperity, and Camp David peace, a thin legitimacy eroding as the promise of development fails to materialize for the youth bulge entering the labor market.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime's will to survive drives eff
 
 __External Relations & Posture:__ Egypt occupies a stabilizing role in the American regional architecture, receiving roughly $2 billion annually in military and economic aid, maintaining cold peace with Israel, mediating Palestinian issues, and participating in the Gulf War coalition (1991), while regional leadership claims — Cairo as Arab capital — persist but lack the Nasserist substance, and Sudanese relations deteriorate (Mubarak assassination attempt in Addis Ababa, 1995).
 
+__Public Sentiment & Behavioral Temper:__ A mood of sullen acquiescence prevails, with cynicism about official pronouncements, private grumbling about corruption and stagnation, and episodic anger at price rises or sectarian incidents, while the insurgency period (1992–1997) generates genuine fear in Upper Egypt and tourist areas, and the public trusts neither state nor Islamist narrative fully.
+
 __Disaffection, Apathy & Spent Will:__ Youth disaffection deepens as education fails to produce employment, political channels remain blocked, and cultural alternatives are constricted, while the post-1997 defeat of the armed insurgency does not resolve the underlying grievances that Islamism mobilized, and a generation grows up in cynical disengagement that state television cannot reach with its tired programming and transparent propaganda.
+
 
 ## D06. Informational Domain
 

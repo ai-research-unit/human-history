@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-city warfare constitutes the primary soci
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Public sentiment varies by city fortunes; successful warfare and abundant harvests generate confidence; defeat and scarcity produce anxiety; interpersonal trust extends through kin and institutional networks; the behavioral temper is competitive, with city identity strongly felt.
-
 __Leadership & Personal Authority:__ Rulers (lugal, ensi) exercise personal authority through military success, temple sponsorship, and judicial functions; kingship separates from priesthood during this period; charisma flows from military victory; dynastic succession attempts to stabilize personal authority across generations.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy flows from divine mandate expressed through temple sanction, military success, and just rule; allegiance to the city and its gods is strong; usurpation and defeat erode legitimacy rapidly; succession crises recur.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is high within city-sta
 
 __External Relations & Posture:__ City-states exist in a competitive system with shifting alliances; hegemony claims appear in royal inscriptions (lugal of Kish implies broad dominance); boundary treaties document temporary settlements; the posture is acquisitive, seeking water rights, agricultural land, and tributary relationships.
 
+__Public Sentiment & Behavioral Temper:__ Public sentiment varies by city fortunes; successful warfare and abundant harvests generate confidence; defeat and scarcity produce anxiety; interpersonal trust extends through kin and institutional networks; the behavioral temper is competitive, with city identity strongly felt.
+
 __Disaffection, Apathy & Spent Will:__ Defeat and destruction generate temporary disaffection; no evidence of systemic apathy; will remains engaged given the stakes of survival in a competitive environment.
+
 
 ## D06. Informational Domain
 

@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ 2023 Nigerian election contentious but violence
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Anti-French sentiment peaks with military takeovers; Russian flags appear at pro-coup rallies; Nigerian public sentiment mixes frustration with economic hardship and hope for reform; youth disillusionment deepens across the region.
-
 __Leadership & Personal Authority:__ Junta leaders (Goita, Traore, Tiani) cultivate social media personas as anti-colonial champions; Tinubu struggles to establish authority amid legitimacy questions; Senegal's Faye represents generational change with 2024 victory; Obi maintains digital following despite electoral loss.
 
 __Legitimacy as Lived Allegiance:__ Coup governments claim popular support while suppressing dissent; Nigerian democracy retains legitimacy despite electoral controversies; regional institutions (ECOWAS, AU) lose credibility; external actors (France, Russia) compete for narrative dominance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Sahel Alliance consolidates as bloc aga
 
 __External Relations & Posture:__ France expelled from Sahel; Russian influence expands through Wagner and information operations; US maintains presence but reduced footprint; ECOWAS sanctions create regional tensions; Sahel Alliance announces ECOWAS exit (2024).
 
+__Public Sentiment & Behavioral Temper:__ Anti-French sentiment peaks with military takeovers; Russian flags appear at pro-coup rallies; Nigerian public sentiment mixes frustration with economic hardship and hope for reform; youth disillusionment deepens across the region.
+
 __Disaffection, Apathy & Spent Will:__ Post-reform exhaustion in Nigeria; resignation to military rule in Sahel absent viable alternatives; emigration as exit rather than voice; activist burnout following failed movements; hope concentrated in diaspora success.
+
 
 ## D06. Informational Domain
 

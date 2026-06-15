@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Peasant resistance to conscription (flight, sel
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Peasant resignation mixed with resentment; urban population benefits from order but fears conscription; ulama ambivalent — loss of autonomy offset by stability; foreign observers note disciplined obedience masking underlying strain.
-
 __Leadership & Personal Authority:__ Muhammad Ali commands through personal force, calculated violence (1811 massacre), and demonstrated competence; sons (Ibrahim, Said) trained as successors; no charismatic rival emerges; leadership unchallenged until European intervention.
 
 __Legitimacy as Lived Allegiance:__ Ottoman suzerainty formally acknowledged; Muhammad Ali's legitimacy rests on success — military victories, order, prosperity for those who benefit; peasantry complies from coercion rather than allegiance; ulama grant religious sanction.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ State will concentrated in Muhammad Ali
 
 __External Relations & Posture:__ Ambitious expansion: Sudan conquered (1820–1824), Greece intervened (Navarino defeat 1827), Syria seized (1831–1840); near-conquest of Ottoman Empire halted by European (British, Austrian, Russian) intervention; Egypt forced back within Nile corridor; posture shifts from expansion to consolidation.
 
+__Public Sentiment & Behavioral Temper:__ Peasant resignation mixed with resentment; urban population benefits from order but fears conscription; ulama ambivalent — loss of autonomy offset by stability; foreign observers note disciplined obedience masking underlying strain.
+
 __Disaffection, Apathy & Spent Will:__ Post-1840 deflation visible; Muhammad Ali's final years (d. 1849) marked by decline; Ibrahim's brief reign (1848) ends in death; Said succeeds amid reduced ambitions; the transformative will exhausted.
+
 
 ## D06. Informational Domain
 

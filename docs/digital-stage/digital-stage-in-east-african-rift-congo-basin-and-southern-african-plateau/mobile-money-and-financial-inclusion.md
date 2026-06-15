@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Mobile money fraud proliferates through SIM swa
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Mobile money generates genuine enthusiasm as a tool of empowerment among users who previously had no financial services access; the convenience and security relative to cash creates positive sentiment; transaction fee resentment coexists with appreciation for the service.
-
 __Leadership & Personal Authority:__ Safaricom executives and M-Pesa pioneers become business celebrities; Bob Collymore's death in 2019 occasions national mourning; the mobile money industry generates its own leadership figures with public authority.
 
 __Legitimacy as Lived Allegiance:__ Mobile money systems enjoy high user trust relative to banks, which are seen as elite institutions; the agent networks provide human touchpoints that maintain legitimacy; system outages generate intense user frustration precisely because of deep reliance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Central banks negotiate regulatory fram
 
 __External Relations & Posture:__ M-Pesa becomes a Kenyan export and point of national pride; the technology spreads to other African markets and to Afghanistan and India; mobile money expertise positions Kenya in global fintech discussions; the external posture shifts from aid recipient to innovation exporter.
 
+__Public Sentiment & Behavioral Temper:__ Mobile money generates genuine enthusiasm as a tool of empowerment among users who previously had no financial services access; the convenience and security relative to cash creates positive sentiment; transaction fee resentment coexists with appreciation for the service.
+
 __Disaffection, Apathy & Spent Will:__ Over-indebtedness from algorithmic credit products generates borrower distress; users who face predatory lending practices or fraud become cynical about digital finance promises; the initial enthusiasm matures into realistic assessment of both benefits and harms.
+
 
 ## D06. Informational Domain
 

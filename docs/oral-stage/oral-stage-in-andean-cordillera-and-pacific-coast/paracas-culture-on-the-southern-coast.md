@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is absorbed through kinship med
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The dominant emotional register centers on reverence for ancestors and anxiety about proper mortuary treatment; the dead must be correctly honored or consequences follow; the elaborate care taken with burials reflects both grief and obligation, fear and devotion.
-
 __Leadership & Personal Authority:__ Leaders command authority through kinship seniority, ritual knowledge, and demonstrated generosity in mortuary and feasting contexts; charisma and wealth reinforce each other; no evidence of paramount chiefs — authority is distributed among lineage heads.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows through kinship and is renewed through participation in mortuary and agricultural rituals; leaders who fail to organize successful ceremonies or maintain irrigation systems lose standing; legitimacy is performative and must be constantly demonstrated.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will manifests in the sustai
 
 __External Relations & Posture:__ Relations with neighboring valley communities involve trade, intermarriage, and occasional conflict; trophy heads suggest raiding or warfare with adversaries; no expansionist posture — the culture is focused on its coastal valleys and highland trade connections.
 
+__Public Sentiment & Behavioral Temper:__ The dominant emotional register centers on reverence for ancestors and anxiety about proper mortuary treatment; the dead must be correctly honored or consequences follow; the elaborate care taken with burials reflects both grief and obligation, fear and devotion.
+
 __Disaffection, Apathy & Spent Will:__ The transition to Nazca culture shows no evidence of disaffection or collapse; rather, the tradition evolves continuously, with textile and ceramic styles developing without rupture; the Paracas achievement is not exhausted but transformed.
+
 
 ## D06. Informational Domain
 

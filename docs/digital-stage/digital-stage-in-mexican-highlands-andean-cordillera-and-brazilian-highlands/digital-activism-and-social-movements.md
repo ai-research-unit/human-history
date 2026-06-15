@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Movements that achieve initial mobilization suc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Accumulated grievance reaches mobilization threshold when triggered by specific events; social media creates feedback loops where seeing others protest reduces individual risk perception and raises participation.
-
 __Leadership & Personal Authority:__ Movements explicitly reject traditional leadership, though individual figures gain visibility through social media; feminist leaders, indigenous spokespersons, and student activists achieve prominence without formal authority structures.
 
 __Legitimacy as Lived Allegiance:__ Mass protest reflects withdrawal of legitimacy from incumbent governments, though movements struggle to construct positive legitimacy claims for alternatives.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Initial mobilization demonstrates colle
 
 __External Relations & Posture:__ Regional solidarity networks form across borders, Chilean and Colombian movements drawing tactical lessons from each other, feminist green wave spreading from Argentina throughout the region via shared symbolism and digital coordination.
 
+__Public Sentiment & Behavioral Temper:__ Accumulated grievance reaches mobilization threshold when triggered by specific events; social media creates feedback loops where seeing others protest reduces individual risk perception and raises participation.
+
 __Disaffection, Apathy & Spent Will:__ Post-mobilization depression affects activist cohorts when protests fail to achieve structural change; cycle of eruption and disappointment produces cynicism about protest efficacy, though new grievances restart the cycle.
+
 
 ## D06. Informational Domain
 

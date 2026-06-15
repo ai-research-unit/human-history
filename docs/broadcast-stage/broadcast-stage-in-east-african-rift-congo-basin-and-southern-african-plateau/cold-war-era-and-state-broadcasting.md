@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ State monopoly broadcasting cannot discharge po
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The post-independence euphoria fades as development promises go unfulfilled. Broadcasting maintains mobilization rhetoric ("ujamaa," "harambee," "humanism") even as public cynicism grows. Fear pervades societies under repressive regimes (Amin's Uganda, apartheid South Africa); radio reinforces rather than alleviates this through official messaging.
-
 __Leadership & Personal Authority:__ Presidential broadcasts dominate, with leaders using radio to project authority into every village. Nyerere's educational broadcasts, Kaunda's "humanism" lectures, Mobutu's personality cult — radio personalizes state power. Leadership transitions (coups, deaths) create broadcast uncertainty until new voices establish authority.
 
 __Legitimacy as Lived Allegiance:__ Broadcasting serves legitimation projects, but external services provide alternative framings that erode state narratives. In apartheid South Africa, state broadcasting delegitimizes itself with minority Black populations who recognize propaganda. Elsewhere, gap between broadcast rhetoric and lived experience widens.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ States mobilize populations for develop
 
 __External Relations & Posture:__ Cold War competition plays out through broadcasting: Radio Moscow, VOA, BBC World Service, and Deutsche Welle project superpower influence. African states align variously with East or West, receiving broadcasting support accordingly. Liberation movements (ANC, ZANU, FRELIMO) access sympathetic external broadcasting platforms.
 
+__Public Sentiment & Behavioral Temper:__ The post-independence euphoria fades as development promises go unfulfilled. Broadcasting maintains mobilization rhetoric ("ujamaa," "harambee," "humanism") even as public cynicism grows. Fear pervades societies under repressive regimes (Amin's Uganda, apartheid South Africa); radio reinforces rather than alleviates this through official messaging.
+
 __Disaffection, Apathy & Spent Will:__ By 1980, development broadcasting fatigue sets in. Populations tire of mobilization rhetoric that yields little material improvement. Political disaffection cannot be expressed through state-controlled channels, building pressure for change. In conflict zones, war weariness grows.
+
 
 ## D06. Informational Domain
 

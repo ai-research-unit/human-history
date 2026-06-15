@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Factional fighting among military elites is end
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fatalism deepens as conditions worsen; Sufi spirituality offers consolation amid material decline; sectarian tensions between Sunni and Shi'i communities persist, occasionally erupting in urban violence; anxiety about the future becomes pervasive as the Mongol threat materializes.
-
 __Leadership & Personal Authority:__ Military strongmen provide the effective leadership the caliphs cannot — Buyid amirs, Seljuk sultans, and later atabegs command allegiance through force; some figures like Nizam al-Mulk combine military power with administrative vision; the caliph's personal authority is purely religious and ceremonial.
 
 __Legitimacy as Lived Allegiance:__ The Abbasid caliph retains religious legitimacy — even independent sultans seek caliphal investiture — but commands no political allegiance; military rulers derive legitimacy from power and from nominal caliphal recognition; Sunni scholars provide ideological justification for the sultan-caliph division of authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will fragments among competi
 
 __External Relations & Posture:__ The Buyids and Seljuks engage in complex diplomacy with Fatimid Egypt, Byzantine Anatolia, and Central Asian powers; the Crusades draw Seljuk attention westward; relations with the expanding Mongol empire oscillate between submission and resistance; ultimately, no external alliance provides salvation.
 
+__Public Sentiment & Behavioral Temper:__ Fatalism deepens as conditions worsen; Sufi spirituality offers consolation amid material decline; sectarian tensions between Sunni and Shi'i communities persist, occasionally erupting in urban violence; anxiety about the future becomes pervasive as the Mongol threat materializes.
+
 __Disaffection, Apathy & Spent Will:__ By the thirteenth century, exhaustion and resignation pervade — centuries of military coups, economic decline, and plague have depleted the society's resilience; the response to the Mongol siege reveals a civilization that has lost the capacity for effective collective action.
+
 
 ## D06. Informational Domain
 

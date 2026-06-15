@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Political violence, harassment of officials, an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Platform algorithms optimize for engagement, which in practice means optimizing for outrage, fear, and tribal affirmation; public sentiment becomes more volatile, more polarized, and more detached from material conditions.
-
 __Leadership & Personal Authority:__ Donald Trump's Twitter account exemplifies the concentration of political authority in personal platform presence, bypassing traditional media gatekeepers and commanding attention through provocation; his 2021 deplatforming demonstrates the countervailing power platforms wield.
 
 __Legitimacy as Lived Allegiance:__ Belief in electoral legitimacy fragments along partisan lines, with platform-mediated misinformation convincing millions that the 2020 election was stolen; this delegitimization persists and shapes subsequent elections.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Platforms enable rapid mobilization—t
 
 __External Relations & Posture:__ Foreign actors exploit platform openness, with Russian interference in 2016 and ongoing influence operations from multiple state actors using social media to inflame domestic divisions and shape electoral outcomes.
 
+__Public Sentiment & Behavioral Temper:__ Platform algorithms optimize for engagement, which in practice means optimizing for outrage, fear, and tribal affirmation; public sentiment becomes more volatile, more polarized, and more detached from material conditions.
+
 __Disaffection, Apathy & Spent Will:__ Political exhaustion accumulates among the most engaged users, with documented declines in well-being and civic participation among heavy social media users; disengagement and cynicism spread as the costs of engagement become apparent.
+
 
 ## D06. Informational Domain
 

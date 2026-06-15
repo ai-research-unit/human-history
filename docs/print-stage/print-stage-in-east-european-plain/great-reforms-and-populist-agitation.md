@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Peasant disturbances increase—over 1,500 reco
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The reform era opens with hope ("the thaw"); disappointment sets in as emancipation's limits become clear; the educated public oscillates between reformist patience and revolutionary impatience; peasants remain sullen, expecting more land; by 1880, a millenarian expectation of transformation pervades radical circles.
-
 __Leadership & Personal Authority:__ Alexander II enjoys initial legitimacy as the "Tsar Liberator" but exhausts it through inconsistency; radical leaders (Herzen, then Chernyshevsky, Bakunin, Lavrov, Tkachev) command moral authority among the intelligentsia; no figure unifies the opposition.
 
 __Legitimacy as Lived Allegiance:__ The autocracy's legitimacy erodes among the educated but holds among peasants, who blame ministers rather than the tsar; each act of repression deepens intelligentsia alienation; assassination delegitimizes the regime among some while horrifying others.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The state possesses will to reform but 
 
 __External Relations & Posture:__ The Russo-Turkish War (1877–1878) restores national prestige after Crimean humiliation but ends in diplomatic defeat at Berlin; pan-Slavic sentiment rises; the regime cultivates nationalist fervor to deflect internal discontent; relations with the Central Powers remain tense.
 
+__Public Sentiment & Behavioral Temper:__ The reform era opens with hope ("the thaw"); disappointment sets in as emancipation's limits become clear; the educated public oscillates between reformist patience and revolutionary impatience; peasants remain sullen, expecting more land; by 1880, a millenarian expectation of transformation pervades radical circles.
+
 __Disaffection, Apathy & Spent Will:__ By 1880, reformist energy is exhausted; Alexander II contemplates modest constitutional gestures (Loris-Melikov's "dictatorship of the heart") too late; radicals reject compromise; peasants remain passive; the assassination closes the era on a note of spent hope and bitter reaction.
+
 
 ## D06. Informational Domain
 

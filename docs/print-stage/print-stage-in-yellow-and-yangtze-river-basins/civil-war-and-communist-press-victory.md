@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Land reform campaigns produce violence: landlor
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ War-weariness pervades; populations in contested areas fear whoever arrives next. In Nationalist cities, despair accompanies economic collapse; the will to resist evaporates. In Communist-controlled areas, revolutionary enthusiasm is cultivated; land reform creates peasant commitment. Liberation brings relief in many cities, mixed with uncertainty about the new order.
-
 __Leadership & Personal Authority:__ Chiang Kai-shek retains formal authority but presides over collapse; his flight to Taiwan (December 1949) marks defeat. Mao Zedong's authority is unchallenged within the CCP; the proclamation of the People's Republic (October 1, 1949) is his personal triumph. Cult-of-personality foundations are laid.
 
 __Legitimacy as Lived Allegiance:__ Nationalist legitimacy collapses with the currency; officials defect, armies surrender, populations acquiesce to Communist takeover. Communist legitimacy rests on military victory, land reform, and the promise of a new order. International recognition splits: the PRC gains Soviet bloc recognition; the ROC on Taiwan retains the UN seat and American support.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Nationalist will to fight dissolves
 
 __External Relations & Posture:__ The United States backs the Nationalists but limits involvement; the Marshall Mission (1946–1947) fails to mediate. The Soviet Union recognizes the PRC immediately; the Sino-Soviet Treaty of Friendship (February 1950) aligns China with the socialist bloc. The Korean War (June 1950) draws China into confrontation with the US, hardening Cold War divisions.
 
+__Public Sentiment & Behavioral Temper:__ War-weariness pervades; populations in contested areas fear whoever arrives next. In Nationalist cities, despair accompanies economic collapse; the will to resist evaporates. In Communist-controlled areas, revolutionary enthusiasm is cultivated; land reform creates peasant commitment. Liberation brings relief in many cities, mixed with uncertainty about the new order.
+
 __Disaffection, Apathy & Spent Will:__ The defeated populations accept the new order with varying degrees of enthusiasm and resignation. Former Nationalist officials, landlords, and capitalists face campaigns that demand confession and reform; disaffection must be hidden. The spent will of the civil war is redirected into mass campaigns.
+
 
 ## D06. Informational Domain
 

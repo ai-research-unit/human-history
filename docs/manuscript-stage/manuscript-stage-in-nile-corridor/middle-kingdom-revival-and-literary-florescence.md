@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Dynasty 13 fragmentation after 1750 BCE reintro
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Middle Kingdom literature reflects a chastened confidence—awareness of prior collapse alongside pride in restoration; the Instructions literature emphasizes caution, moderation, and loyalty; trust extends through bureaucratic channels.
-
 __Leadership & Personal Authority:__ Dynasty 12 pharaohs (Senusret I, III; Amenemhat I, III) achieve durable legitimacy; Senusret III's military campaigns and administrative reforms generate lasting prestige; personal authority stabilizes after Amenemhat I's assassination.
 
 __Legitimacy as Lived Allegiance:__ Royal ideology emphasizes shepherd-king protecting the people; the Prophecy of Neferti and Instructions of Amenemhat articulate the burdens of kingship; allegiance reconstitutes around Theban-descended dynasty.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Nubian campaigns and fortress construct
 
 __External Relations & Posture:__ Expansionist posture toward Nubia; defensive-commercial posture toward the Levant; Egyptian influence extends to Byblos and Kerma; the Execration Texts document ritual hostility toward potential enemies; Egypt projects power but does not seek universal empire.
 
+__Public Sentiment & Behavioral Temper:__ Middle Kingdom literature reflects a chastened confidence—awareness of prior collapse alongside pride in restoration; the Instructions literature emphasizes caution, moderation, and loyalty; trust extends through bureaucratic channels.
+
 __Disaffection, Apathy & Spent Will:__ Dynasty 13 succession instability (numerous short reigns) suggests elite disaffection and spent will; the period ends with ruling-class fragmentation that enables Hyksos infiltration; disaffection accumulates unrequited.
+
 
 ## D06. Informational Domain
 

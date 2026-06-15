@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The military's inability to defeat Khitan Liao 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A confident cultural self-regard marks the Song elite: this is civilization, surrounded by barbarians who may threaten militarily but remain culturally inferior. Urbanization and commercial prosperity generate optimism among the merchant and artisan classes. Yet beneath the surface runs anxiety about the frontier and the compromises required to maintain peace. The mood darkens notably after military setbacks.
-
 __Leadership & Personal Authority:__ Emperors vary in capability: Taizu (founding) and Taizong provide vigorous leadership; later emperors (Renzong, Huizong) range from competent to catastrophically negligent. Huizong's artistic pursuits and extravagance symbolize court decadence before the fall. Chancellors and leading officials—Fan Zhongyan, Wang Anshi, Sima Guang, Su Shi—exercise substantial authority in their moments, but factional rotation prevents stable leadership.
 
 __Legitimacy as Lived Allegiance:__ The dynasty claims Heaven's Mandate through its restoration of order after Five Dynasties chaos. Neo-Confucian ideology reconstructs legitimating frameworks. Popular allegiance appears solid in the core territories; the frontier populations face more ambiguous loyalties. The 1127 catastrophe shatters the dynasty's legitimacy claim in its northern heartland.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Song state demonstrates impressive 
 
 __External Relations & Posture:__ The Song adopt a defensive posture from the outset, accepting strategic subordination to Khitan Liao through tribute arrangements (Treaty of Shanyuan: 200,000 bolts of silk and 100,000 ounces of silver annually). The Tangut Xi Xia on the northwest frontier extract similar concessions. The dynasty lacks the cavalry and frontier experience to challenge steppe power directly. Maritime relations with Southeast Asia, Japan, and further destinations flourish commercially but carry no strategic weight.
 
+__Public Sentiment & Behavioral Temper:__ A confident cultural self-regard marks the Song elite: this is civilization, surrounded by barbarians who may threaten militarily but remain culturally inferior. Urbanization and commercial prosperity generate optimism among the merchant and artisan classes. Yet beneath the surface runs anxiety about the frontier and the compromises required to maintain peace. The mood darkens notably after military setbacks.
+
 __Disaffection, Apathy & Spent Will:__ By the Huizong reign (1100–1126), court politics has degenerated into factionalism, corruption, and the emperor's aesthetic obsessions. The examination system produces more degree-holders than posts, generating frustrated literati. Popular protest remains localized. The shock of 1127—the capture of the court, the loss of the north—produces trauma that will shape Southern Song consciousness, but the Northern Song itself expires before disaffection translates into internal rebellion.
+
 
 ## D06. Informational Domain
 

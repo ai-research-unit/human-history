@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Inter-chiefly warfare, piracy, and raiding cont
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is expansive and competitive. Trade wealth generates optimism; chiefly competition channels ambition. Trust extends to kin and village, thinning beyond. Risk tolerance is high among the maritime trading population. Endemic disease and warfare are accepted hazards; fatalism and pragmatism coexist.
-
 __Leadership & Personal Authority:__ Chiefs command loyalty through demonstrated prowess—success in trade, war, and ritual. Personal charisma (spiritual potency, semangat) validates authority. Indic models of kingship (the raja as cosmic pivot) begin to overlay indigenous ideals, elevating the chief toward divine or semi-divine status in elite discourse. Authority remains personal and contingent.
 
 __Legitimacy as Lived Allegiance:__ Allegiance flows to successful chiefs. Legitimacy is performative: demonstrated through feasting, protection, and prosperity. Failure erodes loyalty rapidly. The emerging Indic legitimating ideology offers a new resource—divine sanction, eternal dharma—but has not yet stabilized succession or transferred loyalty to the office rather than the person.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Chiefs demonstrate will through trade m
 
 __External Relations & Posture:__ Proto-states engage Indian and Chinese traders as partners, seeking prestige goods and legitimating knowledge. Embassies to China (recorded in Chinese annals) assert claims to regional standing. Relations with mainland polities (post-Funan successor states) are diplomatic and commercial. Rivalry among coastal chiefs over trade control intensifies. The posture is opportunistic: seeking advantage, avoiding direct conflict with distant great powers, competing locally.
 
+__Public Sentiment & Behavioral Temper:__ The mood is expansive and competitive. Trade wealth generates optimism; chiefly competition channels ambition. Trust extends to kin and village, thinning beyond. Risk tolerance is high among the maritime trading population. Endemic disease and warfare are accepted hazards; fatalism and pragmatism coexist.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection surfaces when chiefs fail to deliver prosperity or protection; followers defect to rivals. No widespread apathy is recorded. The competitive system channels grievance into mobility and faction rather than resignation. Spent will is not a systemic problem; energy and ambition remain high.
+
 
 ## D06. Informational Domain
 

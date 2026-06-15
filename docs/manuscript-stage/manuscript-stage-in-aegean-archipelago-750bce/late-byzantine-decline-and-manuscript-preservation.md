@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Civil war between Palaeologan factions (1341–
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A pervasive sense of decline, nostalgia, and apocalyptic expectation marks late Byzantine sentiment. Intellectuals debate whether the empire can be saved, whether union with Rome might bring Western crusade, whether the Turks are divine punishment. Fatalism coexists with bursts of cultural energy among scholars who copy and compile as if posterity depends on it — because it does.
-
 __Leadership & Personal Authority:__ The Palaeologan emperors (Michael VIII, Andronikos II, John VI Kantakouzenos, Constantine XI) vary in competence but share diminishing resources. Personal authority rests on dynastic legitimacy and Orthodox piety, but the gap between imperial title and actual power widens. Scholars like George Gemistos Plethon and Bessarion command intellectual authority that sometimes exceeds political influence.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy attaches to the Orthodox emperor as defender of the faith and heir to Rome. Union with the Latin Church (Council of Ferrara-Florence, 1438–1439 CE) tests this legitimacy: the populace largely rejects union, preferring Turkish rule to papal domination. The emperor's legitimacy is conditional on Orthodoxy, which he cannot abandon without losing his people.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Political will fragments into dynastic 
 
 __External Relations & Posture:__ Byzantium oscillates between seeking Western alliance (at the price of Church union) and accommodating Ottoman suzerainty (at the price of tribute and autonomy). Neither strategy succeeds. Manuel II Palaeologos tours Western courts in 1399–1403 CE; the West offers sympathy but no crusade. The empire becomes a client, then a vassal, then a conquest.
 
+__Public Sentiment & Behavioral Temper:__ A pervasive sense of decline, nostalgia, and apocalyptic expectation marks late Byzantine sentiment. Intellectuals debate whether the empire can be saved, whether union with Rome might bring Western crusade, whether the Turks are divine punishment. Fatalism coexists with bursts of cultural energy among scholars who copy and compile as if posterity depends on it — because it does.
+
 __Disaffection, Apathy & Spent Will:__ By the 15th century, much of the Byzantine population has lost faith in imperial revival. Emigration of scholars to Italy, conversion of some to Ottoman service, and simple resignation mark a spent collective will. Only among the scholar class does purposeful energy persist — directed not at saving the state but at preserving the manuscripts.
+
 
 ## D06. Informational Domain
 

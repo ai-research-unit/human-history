@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ LINE bullying among students emerges as social 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ LINE's sticker culture shapes emotional expression—cute characters convey sentiments that text alone cannot; generational adoption of platform-native communication styles produces new affective norms; "read" status creates anxiety around response obligations.
-
 __Leadership & Personal Authority:__ Morikawa Akira leads NHN Japan during LINE's creation; Idezawa Takeshi becomes LINE Corporation CEO, navigating growth and merger; leadership emphasizes Japanese market focus while managing Korean parent company relations.
 
 __Legitimacy as Lived Allegiance:__ LINE achieves near-universal adoption—over 90 million monthly active users in Japan—creating network-effect lock-in; users accept the platform as communication default, allegiance driven by necessity rather than affection.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ LINE Corporation pursues super-app stra
 
 __External Relations & Posture:__ LINE's Korean ownership (Naver) creates periodic nationalist friction; China data access controversy (2021) triggers government scrutiny and data localization requirements; LINE positions as domestic platform while managing cross-border corporate reality.
 
+__Public Sentiment & Behavioral Temper:__ LINE's sticker culture shapes emotional expression—cute characters convey sentiments that text alone cannot; generational adoption of platform-native communication styles produces new affective norms; "read" status creates anxiety around response obligations.
+
 __Disaffection, Apathy & Spent Will:__ Platform fatigue sets in among heavy users; notification overload drives muting and selective engagement; younger users drift toward Instagram and TikTok for social expression while retaining LINE for utilitarian messaging; enthusiasm cools without departures.
+
 
 ## D06. Informational Domain
 

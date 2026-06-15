@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The proliferation of channels outpaces journali
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The 24-hour news cycle cultivates perpetual urgency — every development a "breaking" story, every political exchange a "clash" — habituating audiences to heightened emotional states and impairing capacity for measured judgment.
-
 __Leadership & Personal Authority:__ Star anchors (Barkha Dutt, Rajdeep Sardesai, Arnab Goswami) accumulate personal authority that rivals their channels' institutional brands; their editorial decisions and on-air persona shape political discourse and attract both loyalty and controversy.
 
 __Legitimacy as Lived Allegiance:__ Television news positions itself as the fourth estate holding power accountable, gaining legitimacy through investigative exposures (Tehelka's defense scandal coverage on television) while eroding it through perceived political biases and sensationalism.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ News channels become active political p
 
 __External Relations & Posture:__ India-Pakistan relations, Kashmir coverage, and the post-9/11 "war on terror" frame foreign-affairs journalism; nationalist sentiment finds voice in muscular anchors whose confrontational style toward Pakistani counterparts attracts audience approval.
 
+__Public Sentiment & Behavioral Temper:__ The 24-hour news cycle cultivates perpetual urgency — every development a "breaking" story, every political exchange a "clash" — habituating audiences to heightened emotional states and impairing capacity for measured judgment.
+
 __Disaffection, Apathy & Spent Will:__ News fatigue emerges as a recognized phenomenon — the relentless cycle produces both hypervigilant news junkies and tuned-out citizens who distrust all coverage; cynicism about media motives accumulates alongside cynicism about the politics being covered.
+
 
 ## D06. Informational Domain
 

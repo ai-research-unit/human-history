@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The collapse itself is the discharge: endemic r
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear, desperation, and flight dominate the collapse; trust networks contract to immediate kin; the behavioral temper shifts from palatial confidence to survival anxiety; later Greek memory (transmitted in epic) recalls this era as one of heroic struggle and catastrophe.
-
 __Leadership & Personal Authority:__ Palace-based leadership (wanax) ends with the palaces; local strongmen and warband leaders may emerge, but their authority is personal and contingent, not institutional; charismatic leadership in crisis conditions is plausible but undocumented.
 
 __Legitimacy as Lived Allegiance:__ Palatial legitimacy dissolves when palaces burn; whatever allegiance populations felt toward the wanax is severed; new legitimacies must be constructed from scratch in the Dark Age communities that follow.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will fragments; no coordinat
 
 __External Relations & Posture:__ Mycenaean relations with Egypt, the Hittites, and the Levant collapse along with those polities' own crises; the Sea Peoples phenomenon — groups of raiders and migrants active across the eastern Mediterranean — may include displaced Mycenaeans (Ekwesh, Denyen) as well as attackers; posture shifts from trade and diplomacy to flight and raiding.
 
+__Public Sentiment & Behavioral Temper:__ Fear, desperation, and flight dominate the collapse; trust networks contract to immediate kin; the behavioral temper shifts from palatial confidence to survival anxiety; later Greek memory (transmitted in epic) recalls this era as one of heroic struggle and catastrophe.
+
 __Disaffection, Apathy & Spent Will:__ Latent disaffection among dependent populations may surface as palaces weaken, contributing to internal collapse; apathy toward palatial authority may have grown if extraction became unbearable; spent will is the aftermath — survivors too exhausted and dispersed to rebuild.
+
 
 ## D06. Informational Domain
 

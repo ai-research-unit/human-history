@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Shutdowns intended to prevent disorder may gene
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affected populations experience anxiety, helplessness, and isolation. Kashmir develops collective trauma from repeated communication blackouts. Trust in the central government erodes in shutdown-prone regions.
-
 __Leadership & Personal Authority:__ Local leaders lose capacity to communicate with constituents during shutdowns. Political figures detained during the 2019 Kashmir lockdown could not address their supporters.
 
 __Legitimacy as Lived Allegiance:__ Each shutdown damages central government legitimacy in affected regions. The claim that shutdowns maintain order conflicts with lived experience of arbitrary disconnection from the outside world.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The ruling BJP demonstrates sustained w
 
 __External Relations & Posture:__ International criticism of Kashmir shutdowns damages India's democratic reputation. The UN and foreign governments express concern. India rejects external commentary as interference in internal affairs.
 
+__Public Sentiment & Behavioral Temper:__ Affected populations experience anxiety, helplessness, and isolation. Kashmir develops collective trauma from repeated communication blackouts. Trust in the central government erodes in shutdown-prone regions.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged and repeated shutdowns produce resignation and disaffection in affected populations, particularly in Kashmir. Civic engagement becomes difficult when digital organizing is periodically impossible. Youth emigration accelerates as professional life becomes unviable.
+
 
 ## D06. Informational Domain
 

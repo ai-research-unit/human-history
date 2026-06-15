@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through dominance
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Behavioral temper is cautious and risk-averse, shaped by predation pressure; trust extends only to close kin and familiar group members.
-
 __Leadership & Personal Authority:__ Leadership is situational and informal, arising from individual dominance, experience, or initiative in a given context rather than from fixed office.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal and immediate, tied to kinship and familiarity rather than to any abstract authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to coordin
 
 __External Relations & Posture:__ Relations with conspecific groups are wary, ranging from avoidance to aggressive display; inter-group violence is possible but not organized.
 
+__Public Sentiment & Behavioral Temper:__ Behavioral temper is cautious and risk-averse, shaped by predation pressure; trust extends only to close kin and familiar group members.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection manifests as emigration or social marginalization; the group is too small for collective apathy to accumulate.
+
 
 ## D06. Informational Domain
 

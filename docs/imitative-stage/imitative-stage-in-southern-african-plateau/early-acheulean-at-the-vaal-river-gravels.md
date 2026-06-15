@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction discharges through avoidance an
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Affect is immediate: satisfaction at a successful scavenge, anxiety near water where crocodiles lurk, irritation in crowded camp conditions. Trust is high within the band, low or absent toward strangers.
-
 __Leadership & Personal Authority:__ Leadership is situational and task-specific; the individual who knows where cobbles fracture cleanly leads reduction, the one who remembers water sources leads dry-season ranging. Authority does not outlast the context that generates it.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is demonstrated competence, observable on the spot; no narrative of rightful authority exists or could exist without language to construct it.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will coalesces around immedi
 
 __External Relations & Posture:__ Relations with other bands are episodic: avoidance where possible, wary encounter at shared water sources, occasional violent displacement. No alliance or sustained enmity can be maintained without communicative capacity to negotiate or remember terms.
 
+__Public Sentiment & Behavioral Temper:__ Affect is immediate: satisfaction at a successful scavenge, anxiety near water where crocodiles lurk, irritation in crowded camp conditions. Trust is high within the band, low or absent toward strangers.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection discharges through departure; individuals who cannot integrate leave the band. Collective apathy does not accumulate as a standing condition.
+
 
 ## D06. Informational Domain
 

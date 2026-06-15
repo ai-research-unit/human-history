@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor disputes in platform companies are mediat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Optimism dominates; smartphone access feels like empowerment; consumer confidence rises with purchasing power; national pride grows with platform success stories.
-
 __Leadership & Personal Authority:__ Xi Jinping consolidates power, projecting stability and direction; tech founders Jack Ma, Pony Ma, and Robin Li become public figures embodying entrepreneurial success; their visibility carries implicit party tolerance.
 
 __Legitimacy as Lived Allegiance:__ The party-state draws legitimacy from delivering growth and technological catch-up; smartphone ubiquity reinforces the narrative of progress; criticism circulates but remains contained.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The "Chinese Dream" narrative mobilizes
 
 __External Relations & Posture:__ Confidence rises with economic weight; South China Sea assertiveness grows; tech companies seek global expansion while US platforms remain blocked, creating asymmetric access.
 
+__Public Sentiment & Behavioral Temper:__ Optimism dominates; smartphone access feels like empowerment; consumer confidence rises with purchasing power; national pride grows with platform success stories.
+
 __Disaffection, Apathy & Spent Will:__ Factory worker suicides at Foxconn and delivery rider exhaustion surface as warning signs; burnout accumulates in tech firms but is suppressed by opportunity narratives; the spent will does not yet manifest as collective resistance.
+
 
 ## D06. Informational Domain
 

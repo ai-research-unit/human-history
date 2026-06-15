@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Violence between centers is endemic, as evidenc
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The mood is one of competitive expansion; elites display confidence through elaborate burials and monumental construction; the radius of trust extends within the lineage and the walled center but not much beyond; intergroup relations are marked by wariness and rivalry.
-
 __Leadership & Personal Authority:__ Leadership is personal and charismatic, exercised through command of ritual, surplus, and force; the chiefs of Taosi and Shimao are figures of concentrated authority, their legitimacy enacted through oral pronouncement and ritual performance rather than written law.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on ancestral blessing, demonstrated by divination (scapulimancy without inscriptions), and on the leader's capacity to provide and protect; allegiance is held so long as the chief delivers; disaffection is expressed through migration or rebellion rather than legal challenge.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to build walls, wage war, and 
 
 __External Relations & Posture:__ Relations among Longshan centers are competitive; jade exchange networks imply some cooperation, but the walled settlements and evidence of warfare indicate a baseline of rivalry; no single center dominates the horizon; alignment is fluid and situational.
 
+__Public Sentiment & Behavioral Temper:__ The mood is one of competitive expansion; elites display confidence through elaborate burials and monumental construction; the radius of trust extends within the lineage and the walled center but not much beyond; intergroup relations are marked by wariness and rivalry.
+
 __Disaffection, Apathy & Spent Will:__ Some centers are abandoned or destroyed during the period, suggesting episodes of disaffection or defeat; the collapse of Liangzhu around 2,300 BCE, possibly due to flooding and social breakdown, illustrates the fragility of proto-urban authority when will and legitimacy fail; spent will is re-anchored in successor centers rather than accumulating as systemic despair.
+
 
 ## D06. Informational Domain
 

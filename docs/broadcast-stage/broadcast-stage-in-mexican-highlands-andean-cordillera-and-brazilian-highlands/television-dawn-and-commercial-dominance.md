@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rural-urban migration strains urban infrastruct
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Modernization optimism marks the era — Kubitschek's "fifty years in five" in Brazil, Mexican industrial pride, Argentine aspirations despite political instability — with television symbolizing national entry into modernity; the Cuban Revolution generates both revolutionary enthusiasm among leftists and anti-communist anxiety among elites and middle classes.
-
 __Leadership & Personal Authority:__ Populist leaders (Vargas until 1954, Kubitschek, Quadros in Brazil; post-revolutionary PRI presidents in Mexico; Perón's shadow over Argentina) command personal followings; broadcast magnates (Emilio Azcárraga Vidaurreta, Assis Chateaubriand) exercise parallel authority as gatekeepers of national attention.
 
 __Legitimacy as Lived Allegiance:__ Revolutionary nationalism (Mexican, Brazilian developmentalism) provides legitimating frameworks; the PRI system in Mexico commands acquiescence if not enthusiasm; Argentine politics remains fractured between Peronists and anti-Peronists; Venezuelan democracy (post-1958) and Colombian oligarchic alternation (National Front from 1958) establish shaky elite pacts.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Import-substitution industrialization r
 
 __External Relations & Posture:__ US hegemony over the hemisphere tightens after the Cuban Revolution; Alliance for Progress aid flows with anti-communist conditionality; broadcast systems import US programming, formats, and equipment while Cold War information warfare intensifies; Cuban exile broadcasters establish in Miami.
 
+__Public Sentiment & Behavioral Temper:__ Modernization optimism marks the era — Kubitschek's "fifty years in five" in Brazil, Mexican industrial pride, Argentine aspirations despite political instability — with television symbolizing national entry into modernity; the Cuban Revolution generates both revolutionary enthusiasm among leftists and anti-communist anxiety among elites and middle classes.
+
 __Disaffection, Apathy & Spent Will:__ Urban working-class disaffection grows as inflation erodes wages; rural marginalization continues; indigenous and Afro-descendant populations remain largely invisible in national narratives and broadcast content; the residue of exclusion accumulates beneath the modernizing surface.
+
 
 ## D06. Informational Domain
 

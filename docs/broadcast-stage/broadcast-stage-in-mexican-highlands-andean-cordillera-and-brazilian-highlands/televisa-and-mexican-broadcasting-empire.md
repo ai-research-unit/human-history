@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor exploitation generates grievance expresse
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Televisa programming cultivates sentimental engagement — telenovela melodrama, patriotic spectacle — while discouraging critical analysis; audiences develop emotional attachments to characters and performers that substitute for civic engagement.
-
 __Leadership & Personal Authority:__ Emilio Azcárraga Milmo ("El Tigre") embodies authoritarian paternalism, famously declaring himself a "soldier of the PRI"; his personal authority commands loyalty within the organization; after his 1997 death, son Azcárraga Jean lacks comparable charisma.
 
 __Legitimacy as Lived Allegiance:__ The PRI-Televisa compact presents one-party rule as natural and inevitable; opposition appears only as disruption; generations grow up assuming PRI governance as given; when PAN wins the presidency in 2000, Televisa awkwardly adjusts.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Televisa suppresses genuine political w
 
 __External Relations & Posture:__ Televisa projects Mexican soft power throughout Spanish America, with programming shaping regional perceptions of Mexico; the relationship with Univision extends reach into US Hispanic market; rivalry with Brazilian Globo defines continental competition.
 
+__Public Sentiment & Behavioral Temper:__ Televisa programming cultivates sentimental engagement — telenovela melodrama, patriotic spectacle — while discouraging critical analysis; audiences develop emotional attachments to characters and performers that substitute for civic engagement.
+
 __Disaffection, Apathy & Spent Will:__ Decades of manipulated coverage generate cynicism — audiences assume all news is propaganda, reducing trust in all media; youth disaffection accelerates after 2000 as internet provides alternatives; apathy rather than engagement becomes default political stance.
+
 
 ## D06. Informational Domain
 

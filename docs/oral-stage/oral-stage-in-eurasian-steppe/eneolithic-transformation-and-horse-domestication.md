@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Friction is discharged through fissioning, migr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Trust extends within kin and marriage-allied lineages; suspicion attaches to unrelated strangers, though exchange networks and intermarriage gradually widen the radius of cooperation across the steppe.
-
 __Leadership & Personal Authority:__ Leadership is achieved, not ascribed: successful herders, warriors, and ritual specialists command followings through demonstrated competence and generosity, with authority renewed in each generation through oral affirmation and funerary commemoration.
 
 __Legitimacy as Lived Allegiance:__ Allegiance adheres to kin and lineage head rather than to abstract office; legitimacy is earned through wealth, generosity, and ritual propriety, and is renewed through mortuary rites that publicly affirm the dead leader's standing and his heir's succession.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action coalesces for specifi
 
 __External Relations & Posture:__ Relations with neighboring groups oscillate between exchange-alliance and raiding-hostility; mounted mobility expands the range of both, enabling rapid strikes and equally rapid withdrawal, intensifying the competitive dynamic across the steppe.
 
+__Public Sentiment & Behavioral Temper:__ Trust extends within kin and marriage-allied lineages; suspicion attaches to unrelated strangers, though exchange networks and intermarriage gradually widen the radius of cooperation across the steppe.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection finds outlet in fissioning — discontented individuals or factions depart with their herds to join other lineages or establish new camps — preventing the accumulation of suppressed grievance within any single group.
+
 
 ## D06. Informational Domain
 

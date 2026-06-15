@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime reportedly rises with economic desperatio
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Economic exhaustion dominates public mood. Anxiety over prices, currency, and futures pervasive. Trust in government economic management eroded. Fatigue rather than active resistance characterizes sentiment. Survival focus displaces political engagement.
-
 __Leadership & Personal Authority:__ Sisi's personal authority rests on security rather than economic performance. The implicit bargain of stability-for-submission strains as stability no longer delivers material improvement. Leadership draws on inertia and absence of alternatives.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy thin but unchallenged. Opposition crushed; no organized alternative. Consent is passive compliance rather than active allegiance. The trauma of 2013 and fear of chaos suppress overt dissent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Regime will to maintain power remains s
 
 __External Relations & Posture:__ Dependency on Gulf states intensifies. UAE and Saudi Arabia provide crucial bailout funds, conferring leverage. Relations with IMF constrain domestic policy. Alignment with regional powers maintained through necessity.
 
+__Public Sentiment & Behavioral Temper:__ Economic exhaustion dominates public mood. Anxiety over prices, currency, and futures pervasive. Trust in government economic management eroded. Fatigue rather than active resistance characterizes sentiment. Survival focus displaces political engagement.
+
 __Disaffection, Apathy & Spent Will:__ Apathy widespread. Political will exhausted among the population. Youth disengagement from formal politics near-total. Disaffection present but atomized, channeled into private complaint and emigration rather than collective action.
+
 
 ## D06. Informational Domain
 

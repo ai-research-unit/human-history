@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Online expression creates new channels for grie
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nationalist sentiment surges around the 2008 Olympics and in response to perceived foreign criticism; online patriotism sometimes exceeds official messaging; anxiety about social change, corruption, and inequality finds expression in online forums before censorship.
-
 __Leadership & Personal Authority:__ Hu Jintao's leadership style emphasizes collective decision-making and stability; no broadcast personality achieves comparable public presence; online opinion leaders emerge but remain vulnerable to suppression.
 
 __Legitimacy as Lived Allegiance:__ Economic growth sustains regime legitimacy for the expanding middle class; the Olympics success reinforces national pride and party prestige; online criticism of local officials coexists with broader regime acceptance.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The leadership maintains unified commit
 
 __External Relations & Posture:__ Rising China narrative shapes both broadcast content and online discourse; state media projects confidence abroad through CCTV International and Xinhua expansion; online nationalism sometimes complicates diplomatic management.
 
+__Public Sentiment & Behavioral Temper:__ Nationalist sentiment surges around the 2008 Olympics and in response to perceived foreign criticism; online patriotism sometimes exceeds official messaging; anxiety about social change, corruption, and inequality finds expression in online forums before censorship.
+
 __Disaffection, Apathy & Spent Will:__ Urban youth cynicism coexists with pragmatic accommodation; online expression provides a safety valve that may dissipate rather than concentrate opposition; the politically engaged remain a minority among the online population.
+
 
 ## D06. Informational Domain
 

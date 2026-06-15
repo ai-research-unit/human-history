@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Crime rates surge as economic desperation sprea
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Despair, exhaustion, and resignation pervade the remaining population after years of crisis, while diaspora communities maintain hope of return alongside adaptation to permanent displacement.
-
 __Leadership & Personal Authority:__ Opposition leader Juan Guaido's 2019 declaration as interim president briefly galvanizes international recognition but fails to dislodge Maduro, leaving the opposition fragmented and demoralized by 2021.
 
 __Legitimacy as Lived Allegiance:__ The Maduro government retains power through coercion and patronage rather than popular legitimacy, while opposition claims to legitimacy lose force as years pass without achieving power transfer.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Mass protests of 2014, 2017, and 2019 f
 
 __External Relations & Posture:__ US sanctions, regional diplomatic isolation, and Guaido's parallel government claim create international pressure that the Maduro regime survives through Russian, Chinese, and Cuban support, along with oil sales to non-sanctioning buyers.
 
+__Public Sentiment & Behavioral Temper:__ Despair, exhaustion, and resignation pervade the remaining population after years of crisis, while diaspora communities maintain hope of return alongside adaptation to permanent displacement.
+
 __Disaffection, Apathy & Spent Will:__ Emigration itself represents disaffection made material, with each departure draining potential opposition energy; those remaining increasingly accommodate regime requirements for survival rather than resist.
+
 
 ## D06. Informational Domain
 

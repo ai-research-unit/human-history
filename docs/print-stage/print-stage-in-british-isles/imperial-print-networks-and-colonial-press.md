@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Colonial unrest — Indian Mutiny (1857), Jamai
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Settler colonies exhibited frontier optimism and imperial loyalty; indigenous populations ranged from acquiescence to simmering resistance. Indian educated classes developed nationalist sentiment that print articulated and amplified.
-
 __Leadership & Personal Authority:__ Colonial editors wielded significant influence — William Charles Wentworth in New South Wales, Ram Mohan Roy and later Bal Gangadhar Tilak in India, John Tengo Jabavu in the Cape Colony. Metropolitan press barons (Northcliffe, Beaverbrook) shaped imperial opinion from London.
 
 __Legitimacy as Lived Allegiance:__ Imperial legitimacy rested on claims of civilizing mission, commercial benefit, and strategic necessity; colonial print both propagated these claims and provided platforms for their contestation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Nationalist movements harnessed print t
 
 __External Relations & Posture:__ Colonial press reported on inter-imperial rivalries — Anglo-French, Anglo-Russian, Anglo-German — shaping settler attitudes toward defense and federation.
 
+__Public Sentiment & Behavioral Temper:__ Settler colonies exhibited frontier optimism and imperial loyalty; indigenous populations ranged from acquiescence to simmering resistance. Indian educated classes developed nationalist sentiment that print articulated and amplified.
+
 __Disaffection, Apathy & Spent Will:__ Imperial fatigue emerged after World War I; settler dominions asserted greater autonomy; Indian nationalism intensified; the print sphere both reflected and accelerated these shifts.
+
 
 ## D06. Informational Domain
 

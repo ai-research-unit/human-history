@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Shutdowns generate resentment that outlasts the
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shutdowns generate anger, frustration, and humiliation; users experience loss of agency and connection; sentiment darkens toward governments that impose disconnection.
-
 __Leadership & Personal Authority:__ Shutdown decisions concentrate in executive hands — Buhari authorizing the Twitter ban, Sahel juntas ordering blackouts — demonstrating personal authority through information control.
 
 __Legitimacy as Lived Allegiance:__ Each shutdown erodes legitimacy among digitally dependent populations; young Nigerians already skeptical of government become more alienated; the gap between regime and population widens.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Shutdowns demonstrate state will to imp
 
 __External Relations & Posture:__ International criticism follows major shutdowns — ECOWAS, African Union, Western governments issue statements — but lacks enforcement; Nigeria weathers the Twitter ban without serious diplomatic consequence; Sahel states under sanctions already are unmoved.
 
+__Public Sentiment & Behavioral Temper:__ Shutdowns generate anger, frustration, and humiliation; users experience loss of agency and connection; sentiment darkens toward governments that impose disconnection.
+
 __Disaffection, Apathy & Spent Will:__ Prolonged or repeated shutdowns generate learned helplessness; populations adapt around restrictions rather than resist them; political energy dissipates into circumvention rather than confrontation.
+
 
 ## D06. Informational Domain
 

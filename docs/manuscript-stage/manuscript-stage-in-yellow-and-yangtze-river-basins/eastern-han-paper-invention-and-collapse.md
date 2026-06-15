@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Yellow Turban Rebellion (184 CE) mobilized 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The early Eastern Han enjoyed legitimacy as restorers of order after Wang Mang's chaos. By the mid-second century, repeated crises — plagues, famines, factional violence at court — eroded confidence. Millenarian movements promising a new heaven and earth found mass followings, indicating desperation and alienation from existing authority.
-
 __Leadership & Personal Authority:__ Emperors were frequently minors, their authority exercised by regents — consort clan relatives or eunuchs. Charismatic military leaders like Cao Cao commanded personal loyalty that transcended formal positions. Daoist teachers like Zhang Jue (Yellow Turbans) mobilized mass devotion through claims of spiritual power.
 
 __Legitimacy as Lived Allegiance:__ Han legitimacy, rooted in the dynasty's two-century restoration and Confucian ideology, eroded as the court proved unable to provide order or relief. Provincial populations increasingly owed effective allegiance to local magnates who protected them when the state could not.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Factional conflict paralyzed court deci
 
 __External Relations & Posture:__ Relations with steppe peoples (Xiongnu fragments, Xianbei, Qiang) alternated between tributary submission and raiding. The Han increasingly relied on non-Chinese auxiliaries, integrating steppe cavalry into internal conflicts. Central Asian trade continued but with reduced state oversight.
 
+__Public Sentiment & Behavioral Temper:__ The early Eastern Han enjoyed legitimacy as restorers of order after Wang Mang's chaos. By the mid-second century, repeated crises — plagues, famines, factional violence at court — eroded confidence. Millenarian movements promising a new heaven and earth found mass followings, indicating desperation and alienation from existing authority.
+
 __Disaffection, Apathy & Spent Will:__ Elite withdrawal from public service — whether through partisan prohibitions or disgust with factionalism — left government to the corrupt and incompetent. Popular desperation channeled into rebellion and banditry. The dynasty's last decades witnessed generalized disillusion with existing authority.
+
 
 ## D06. Informational Domain
 

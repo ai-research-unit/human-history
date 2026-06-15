@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social disorder is minimal; crime rates remain 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear, determination, and solidarity characterize the home front mood; the Blitz spirit becomes national mythology; morale fluctuates but never breaks; BBC broadcasts calibrate tone between honest reporting and sustaining confidence.
-
 __Leadership & Personal Authority:__ Churchill's radio broadcasts crystallize national will; his voice becomes the sound of British resistance; BBC newsreaders (Alvar Lidell, John Snagge) acquire trusted authority; Vera Lynn's songs provide emotional anchor.
 
 __Legitimacy as Lived Allegiance:__ National legitimacy is confirmed by the test of war; the Crown, Parliament, and BBC all gain prestige through wartime service; criticism of government is constrained but not silenced; the coalition government sustains broad consent.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ National will is unified as never befor
 
 __External Relations & Posture:__ Britain stands alone (1940–1941), then leads the Western alliance with America and the Soviet Union; imperial forces contribute; the external posture is total commitment to defeating Nazi Germany.
 
+__Public Sentiment & Behavioral Temper:__ Fear, determination, and solidarity characterize the home front mood; the Blitz spirit becomes national mythology; morale fluctuates but never breaks; BBC broadcasts calibrate tone between honest reporting and sustaining confidence.
+
 __Disaffection, Apathy & Spent Will:__ Exhaustion accumulates, especially in bombed cities; war-weariness emerges by 1944–1945; the emotional residue is fatigue and impatience for peace, channeled into the 1945 election's demand for change.
+
 
 ## D06. Informational Domain
 

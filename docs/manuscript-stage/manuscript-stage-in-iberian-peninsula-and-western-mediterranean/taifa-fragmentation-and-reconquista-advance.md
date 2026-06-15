@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Frontier violence, raiding, and captive-taking 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Crusading fervor mobilizes Christian populations for reconquest; taifa courts maintain refined cultural patronage despite political insecurity; frontier communities develop pragmatic tolerance alongside religious hostility; popular anti-Muslim sentiment intensifies with Almohad invasions.
-
 __Leadership & Personal Authority:__ Charismatic kings like Alfonso VI of Castile-Leon and Alfonso I of Aragon lead major conquests; the Cid (Rodrigo Diaz de Vivar) exemplifies frontier warrior leadership; Almoravid and Almohad commanders bring disciplined religious zeal; bishops and abbots exercise moral authority alongside secular lords.
 
 __Legitimacy as Lived Allegiance:__ Christian kings claim legitimacy through lineage, divine sanction, and crusading achievement; taifa rulers face legitimacy deficits from fragmentation and dependence on Christian tribute arrangements; Almoravid and Almohad rulers claim reformist religious authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Sustained reconquest momentum demonstra
 
 __External Relations & Posture:__ Christian kingdoms cultivate ties to papacy and French nobility; Almoravid and Almohad dynasties connect Iberia to North African empires; commercial relations with Italian city-states intensify; pilgrimage to Santiago de Compostela links Iberia to European Christendom.
 
+__Public Sentiment & Behavioral Temper:__ Crusading fervor mobilizes Christian populations for reconquest; taifa courts maintain refined cultural patronage despite political insecurity; frontier communities develop pragmatic tolerance alongside religious hostility; popular anti-Muslim sentiment intensifies with Almohad invasions.
+
 __Disaffection, Apathy & Spent Will:__ Taifa populations exhibit resignation to Christian advance; internal conflicts within Christian kingdoms periodically divert crusading energy; mudejar communities adapt to Christian rule with varying degrees of accommodation and resistance.
+
 
 ## D06. Informational Domain
 

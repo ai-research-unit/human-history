@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The chaotic digitization rollout creates consum
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-26/11 anger at Pakistan and at government failures shapes news discourse; the anti-corruption movement (Anna Hazare 2011) demonstrates television's capacity to amplify street protest into national sentiment; the 2012 Delhi gang-rape case channels public outrage through 24-hour coverage.
-
 __Leadership & Personal Authority:__ Arnab Goswami (Times Now) exemplifies the aggressive, nationalist anchor persona that comes to dominate prime-time; his confrontational style attracts audience loyalty and political controversy in equal measure, establishing a template imitators follow.
 
 __Legitimacy as Lived Allegiance:__ Trust in television news erodes somewhat as awareness of ownership interests and political alignments spreads; yet the medium retains legitimacy as the authoritative source for breaking developments and national events.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Television shapes political will — th
 
 __External Relations & Posture:__ India-Pakistan tensions, China border issues, and Indian Ocean strategic concerns receive nationalist framing; the 2014 election's "strong leader" discourse reflects and reinforces muscular postures in foreign-affairs coverage.
 
+__Public Sentiment & Behavioral Temper:__ Post-26/11 anger at Pakistan and at government failures shapes news discourse; the anti-corruption movement (Anna Hazare 2011) demonstrates television's capacity to amplify street protest into national sentiment; the 2012 Delhi gang-rape case channels public outrage through 24-hour coverage.
+
 __Disaffection, Apathy & Spent Will:__ News fatigue deepens as the 24-hour cycle grinds on; cynicism about "paid news" (political payments for favorable coverage), advertiser influence, and ownership bias accumulates; yet no alternative authority emerges to displace television's dominance.
+
 
 ## D06. Informational Domain
 

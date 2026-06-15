@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The conquest is the ultimate discharge failure 
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Terror, grief, and despair characterize the conquest period. Survivors are traumatized; communal memory of massacre shapes regional consciousness for generations. Recovery brings gradual normalization — the temper stabilizes, trust rebuilds, commerce and daily life resume. By mid-window, urban populations have largely recovered functional public mood, though the memory of catastrophe persists as caution.
-
 __Leadership & Personal Authority:__ Genghis Khan's authority is absolute during the conquest — a force of nature that admits no resistance. The Chagatai khans who follow are lesser figures, their authority diluted by distance, succession struggles, and fragmentation. Islamization of the khans enhances their legitimacy among Muslim subjects. The 14th-century fragmentation disperses authority among competing strongmen; Timur's rise represents the reconcentration of personal authority through military charisma and success.
 
 __Legitimacy as Lived Allegiance:__ Mongol rule initially commands obedience through terror, not legitimacy. Gradual Islamization and normalization build actual allegiance over decades. By the 14th century, the Chagatai khans have achieved workable legitimacy among their subjects — they rule as Muslim sovereigns in the Persianate tradition. Fragmentation erodes this; the period before Timur is one of legitimacy crisis, with multiple claimants and no settled authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Mongol state displays overwhelming 
 
 __External Relations & Posture:__ The Chagatai khanate is one node in the Mongol imperial system — subordinate in theory to the Great Khan, in practice increasingly autonomous. Relations with the other khanates (Golden Horde, Ilkhanate, Yuan) shape policy. The Pax Mongolica facilitates trans-Eurasian exchange while Mongol imperial structure holds. Fragmentation turns attention inward; external relations become secondary to internal power struggles until Timur's expansionary campaigns redirect energy outward.
 
+__Public Sentiment & Behavioral Temper:__ Terror, grief, and despair characterize the conquest period. Survivors are traumatized; communal memory of massacre shapes regional consciousness for generations. Recovery brings gradual normalization — the temper stabilizes, trust rebuilds, commerce and daily life resume. By mid-window, urban populations have largely recovered functional public mood, though the memory of catastrophe persists as caution.
+
 __Disaffection, Apathy & Spent Will:__ The conquest breeds helpless submission rather than disaffection — resistance is futile and suicidal. Recovery brings renewed engagement; populations actively rebuild rather than subsiding into apathy. The fragmentation period breeds uncertainty and localized loyalties rather than system-wide disaffection. The will to survive and recover proves resilient.
+
 
 ## D06. Informational Domain
 

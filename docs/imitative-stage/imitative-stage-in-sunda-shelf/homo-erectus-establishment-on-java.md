@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction is discharged through intra-ban
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The emotional baseline is set by daily survival in a predator-rich environment. Vigilance, caution, and social attentiveness are adaptive. Trust within the band is high; trust of outsiders is low or absent. Anxiety about predators, food scarcity, and group membership shapes the emotional landscape.
-
 __Leadership & Personal Authority:__ Leadership is situational and personal. An individual who demonstrates skill in a given domain (hunting, defense, foraging knowledge) may lead in that context. No permanent chiefs or formal leaders. Authority derives from demonstrated competence and social relationships.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and band-mates, maintained by ongoing interaction and reciprocity. There is no abstract legitimacy to erode; belonging is immediate and practical.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is limited to tasks t
 
 __External Relations & Posture:__ Relations with other bands are probably rare and wary. Posture is defensive; expansion into new territory occurs through fission and dispersal, not conquest. No alliances or coordinated inter-group action is documented.
 
+__Public Sentiment & Behavioral Temper:__ The emotional baseline is set by daily survival in a predator-rich environment. Vigilance, caution, and social attentiveness are adaptive. Trust within the band is high; trust of outsiders is low or absent. Anxiety about predators, food scarcity, and group membership shapes the emotional landscape.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection leads to departure from the band rather than internal decay. Apathy is not adaptive; individuals who cease contributing are not supported. The affective load is discharged through social interaction and occasional conflict.
+
 
 ## D06. Informational Domain
 

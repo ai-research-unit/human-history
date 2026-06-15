@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The deposition of bodies into the pit may itsel
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Unknowable directly. The care shown to injured individuals suggests affective bonds within the group. The act of carrying bodies to the pit — if intentional — implies emotional response to death beyond indifference.
-
 __Leadership & Personal Authority:__ No evidence of differentiated leadership. Coordination for hunting and body disposal would have required situational direction, but nothing suggests formalized authority.
 
 __Legitimacy as Lived Allegiance:__ Allegiance was to the immediate group, held through face-to-face bonds and shared experience. No abstract legitimacy beyond personal relationship.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is evident in hunting
 
 __External Relations & Posture:__ Other groups were likely rare and distant. Encounters would have been infrequent; no evidence of alliance or conflict with outsiders.
 
+__Public Sentiment & Behavioral Temper:__ Unknowable directly. The care shown to injured individuals suggests affective bonds within the group. The act of carrying bodies to the pit — if intentional — implies emotional response to death beyond indifference.
+
 __Disaffection, Apathy & Spent Will:__ No evidence. The group's internal coherence appears intact; the deposition practice continued over an extended period, suggesting sustained collective behavior.
+
 
 ## D06. Informational Domain
 

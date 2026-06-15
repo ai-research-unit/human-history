@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Thuggee suppression, dacoity campaigns, and exp
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Indian responses to Company rule range from collaboration to resistance; early accommodation gives way to increasing resentment as the extractive nature of Company rule becomes clear; the reform movements express both critique and aspiration.
-
 __Leadership & Personal Authority:__ Indian leadership fragments—defeated rulers (Tipu Sultan, the Marathas), compliant princes, English-educated reformers (Ram Mohan Roy), religious revivalists—compete for authority and allegiance.
 
 __Legitimacy as Lived Allegiance:__ Company legitimacy rests on power rather than consent; nominal Mughal sovereignty continues until 1857; princely states retain legitimacy within their territories; reform movements seek to reconstruct Indian self-respect.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Organized resistance—Mysore, the Mara
 
 __External Relations & Posture:__ Britain's position as global hegemon after 1815 secures the Company's Indian possessions from European competition; the "Great Game" rivalry with Russia shapes northwestern frontier policy.
 
+__Public Sentiment & Behavioral Temper:__ Indian responses to Company rule range from collaboration to resistance; early accommodation gives way to increasing resentment as the extractive nature of Company rule becomes clear; the reform movements express both critique and aspiration.
+
 __Disaffection, Apathy & Spent Will:__ Defeated elites experience despair—the Mughal court's poetry, Ghalib's melancholy, the sense of civilizational decline pervading late Mughal literary culture; the seeds of 1857's fury accumulate beneath the surface.
+
 
 ## D06. Informational Domain
 

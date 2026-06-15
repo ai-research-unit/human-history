@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Cyberbullying emerges as a recognized social pr
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Post-financial crisis anxiety mixes with optimism about digital connectivity's democratic potential. The Obama campaign's successful use of social media in 2008 generates enthusiasm about technology's capacity to mobilize political participation.
-
 __Leadership & Personal Authority:__ Platform founders—Zuckerberg, Dorsey, the Google founders—emerge as celebrity entrepreneurs, embodying narratives of meritocratic innovation. Their personal authority over platform design decisions operates largely without external check.
 
 __Legitimacy as Lived Allegiance:__ Platforms enjoy high legitimacy among users, who see them as tools of empowerment and connection rather than extraction. The privacy concerns that will later generate backlash remain marginal.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The period sees limited political will 
 
 __External Relations & Posture:__ North American platforms expand globally, establishing English-language dominance in social media. The "Twitter revolution" narrative around 2009 Iranian protests positions platforms as tools of democratic liberation, though the reality proves more complex.
 
+__Public Sentiment & Behavioral Temper:__ Post-financial crisis anxiety mixes with optimism about digital connectivity's democratic potential. The Obama campaign's successful use of social media in 2008 generates enthusiasm about technology's capacity to mobilize political participation.
+
 __Disaffection, Apathy & Spent Will:__ The 2008 crisis generates widespread disaffection with financial institutions and established elites, creating an appetite for alternative platforms and voices that social media partially channels.
+
 
 ## D06. Informational Domain
 

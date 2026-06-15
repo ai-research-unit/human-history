@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Labor unrest (major strikes 1905, 1912) is cont
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ National pride coexists with class resentment; the press amplifies both integrative nationalism (colonial enthusiasm, naval pride) and oppositional sentiment (socialist critique, Catholic defensiveness); anxiety about encirclement mixes with confidence in German power; the mood is volatile.
-
 __Leadership & Personal Authority:__ Wilhelm II cultivates personal rule but lacks Bismarck's skill; Chancellors (Caprivi, Hohenlohe, Bulow, Bethmann Hollweg) are weaker figures; the Kaiser's erratic interventions undermine consistent policy; leadership is visible but not steady.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy rests on economic prosperity, welfare state, and national prestige; the Social Democrats, now the largest party (1912 election: 34.8% of vote), accept the system tacitly while rhetorically opposing it; Catholics are reconciled; legitimacy is adequate but not deep.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to maintain Great Power status
 
 __External Relations & Posture:__ Weltpolitik replaces Bismarckian restraint; naval rivalry with Britain intensifies; the alliance system (Triple Alliance) faces the Franco-Russian entente; Morocco crises (1905, 1911) and Balkan wars (1912–1913) raise tensions; the posture is assertive, risking isolation.
 
+__Public Sentiment & Behavioral Temper:__ National pride coexists with class resentment; the press amplifies both integrative nationalism (colonial enthusiasm, naval pride) and oppositional sentiment (socialist critique, Catholic defensiveness); anxiety about encirclement mixes with confidence in German power; the mood is volatile.
+
 __Disaffection, Apathy & Spent Will:__ Working-class disaffection is organized rather than apathetic; socialist and trade-union movements channel grievance into institutional forms; middle-class anxiety about social democracy coexists with confidence in the system; will is not spent but is fragmented across milieus.
+
 
 ## D06. Informational Domain
 

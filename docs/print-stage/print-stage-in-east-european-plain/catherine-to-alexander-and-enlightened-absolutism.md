@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Pugachev's rebellion (1773–1775) is the large
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Peasant sentiment remains sullen, fatalistic, intermittently explosive (Pugachev). Educated society develops a culture of sentiment—Karamzin's sentimental tales, Francophile sensibility. Trust extends within estate; suspicion of the state persists. The 1812 victory generates patriotic fervor.
-
 __Leadership & Personal Authority:__ Catherine II dominates through intelligence, political skill, and careful management of court factions. Paul I (1796–1801) is erratic and assassinated. Alexander I begins as reformer (Speransky), turns mystical and conservative after 1815. Personal authority varies greatly by ruler.
 
 __Legitimacy as Lived Allegiance:__ Autocracy remains legitimate in popular consciousness as divinely ordained. Educated society begins to question—Radishchev's Journey from St. Petersburg to Moscow (1790) challenges serfdom. Decembrists represent the first open challenge from within the elite.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Catherine's will is effective; she mana
 
 __External Relations & Posture:__ Russia is the dominant continental power after 1812. The Holy Alliance (1815) positions Russia as guarantor of conservative order. Rivalry with Ottoman Empire continues; influence in Poland and German states expands. The posture is conservative and interventionist.
 
+__Public Sentiment & Behavioral Temper:__ Peasant sentiment remains sullen, fatalistic, intermittently explosive (Pugachev). Educated society develops a culture of sentiment—Karamzin's sentimental tales, Francophile sensibility. Trust extends within estate; suspicion of the state persists. The 1812 victory generates patriotic fervor.
+
 __Disaffection, Apathy & Spent Will:__ Peasant disaffection is suppressed, not addressed; Pugachev's defeat does not resolve grievances. Elite disaffection emerges among officers and intellectuals. Alexander I's late-reign mysticism reflects personal exhaustion. The Decembrist failure leaves a legacy of defeated idealism.
+
 
 ## D06. Informational Domain
 

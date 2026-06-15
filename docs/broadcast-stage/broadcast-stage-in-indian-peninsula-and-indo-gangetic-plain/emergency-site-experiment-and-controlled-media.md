@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Naxalite insurgency suppressed but re-emerges i
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Emergency produces fear and compliance, followed by electoral rejection (1977); Janata government's collapse restores Indira Gandhi (1980); World Cup cricket victory (1983) produces national euphoria; Punjab crisis darkens mood; assassination and riots traumatize nation, live television coverage spreading images of violence and grief.
-
 __Leadership & Personal Authority:__ Indira Gandhi dominates period—Emergency's imposition, electoral defeat, return, Emergency-style centralization, assassination; Morarji Desai and Charan Singh lack comparable authority during Janata interlude; Rajiv Gandhi inherits mantle through sympathy wave; Doordarshan becomes vehicle for leader-centric messaging.
 
 __Legitimacy as Lived Allegiance:__ Emergency ruptures democratic legitimacy; 1977 election demonstrates accountability mechanisms function; Indira's 1980 return shows forgiveness possible; Punjab crisis damages secular-nationalist legitimacy; assassination produces martyrdom narrative; 1984 riots expose hollow secularism.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Emergency demonstrates concentrated wil
 
 __External Relations & Posture:__ Soviet relationship deepens (Afghanistan intervention 1979 strains non-alignment); US relations improve under Reagan; China relations normalize; Pakistan tension persists; SAARC founded (1985); satellite technology acquired through both US (NASA) and domestic space program cooperation.
 
+__Public Sentiment & Behavioral Temper:__ Emergency produces fear and compliance, followed by electoral rejection (1977); Janata government's collapse restores Indira Gandhi (1980); World Cup cricket victory (1983) produces national euphoria; Punjab crisis darkens mood; assassination and riots traumatize nation, live television coverage spreading images of violence and grief.
+
 __Disaffection, Apathy & Spent Will:__ Emergency produces lasting distrust of Congress among northern middle classes; Punjab Sikhs alienated by Blue Star; northeast alienated by counter-insurgency; 1984 riots alienate Sikh community nationally; cumulative grievances feed regional and communal politics that television will both inflame and be blamed for.
+
 
 ## D06. Informational Domain
 

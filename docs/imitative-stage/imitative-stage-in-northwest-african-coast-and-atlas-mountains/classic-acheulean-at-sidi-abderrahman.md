@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Unmetabolized friction leads to band fission ra
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Group cohesion depends on face-to-face familiarity and accumulated trust; sentiment oscillates with provisioning success, darkening in times of scarcity.
-
 __Leadership & Personal Authority:__ Leadership is situational, accruing to skilled hunters, experienced foragers, or capable knappers whose competence is directly witnessed; authority is demonstrated rather than claimed.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is personal, not institutional; it attaches to individuals whose competence and generosity are visibly tested.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action requires visible cons
 
 __External Relations & Posture:__ Encounters with other bands are cautious; mutual assessment precedes any interaction, and avoidance is the default response to uncertainty.
 
+__Public Sentiment & Behavioral Temper:__ Group cohesion depends on face-to-face familiarity and accumulated trust; sentiment oscillates with provisioning success, darkening in times of scarcity.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection expresses itself as departure from the band rather than internal conflict; the option of fission dissipates accumulated grievance.
+
 
 ## D06. Informational Domain
 

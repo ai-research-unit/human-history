@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The Easter Rising (1916) in Dublin is suppresse
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial war enthusiasm ("Over by Christmas") gives way to grim determination. Casualties accumulate; the Somme (1916) kills 20,000 British soldiers on its first day. Grief becomes universal. Anti-German sentiment peaks in riots targeting naturalized Germans.
-
 __Leadership & Personal Authority:__ Lloyd George emerges as the dominant war leader, displacing Asquith in 1916. Kitchener's face on recruiting posters personifies military authority until his death (1916). Haig commands on the Western Front, his reputation later contested.
 
 __Legitimacy as Lived Allegiance:__ The war validates national solidarity; volunteering rates in 1914-1915 demonstrate allegiance. Conscription (1916) tests that allegiance coercively. Conscientious objectors face tribunals and imprisonment; dissent is stigmatized but present.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Coalition government maintains politica
 
 __External Relations & Posture:__ Alliance with France and Russia (until 1917), then France and the United States, structures external relations. Imperial forces deploy from India, Australia, Canada, New Zealand, and South Africa. The war is presented as a defense of civilization against Prussian militarism.
 
+__Public Sentiment & Behavioral Temper:__ Initial war enthusiasm ("Over by Christmas") gives way to grim determination. Casualties accumulate; the Somme (1916) kills 20,000 British soldiers on its first day. Grief becomes universal. Anti-German sentiment peaks in riots targeting naturalized Germans.
+
 __Disaffection, Apathy & Spent Will:__ War-weariness accumulates by 1917-1918 but does not break into open revolt as in Russia or mutiny as in France. The press's suppression of negative information delays reckoning. Irish nationalist alienation intensifies; the Union's legitimacy erodes.
+
 
 ## D06. Informational Domain
 

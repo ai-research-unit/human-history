@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ The period's defining feature — massacres, et
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Fear pervades conflict zones; ethnic hatred cultivated systematically in Rwanda; hope emerges in South Africa with Mandela's release (1990); exhaustion and cynicism elsewhere as one-party promises prove hollow.
-
 __Leadership & Personal Authority:__ Mobutu's authority erodes but persists through patronage; Mandela emerges as transcendent figure; Habyarimana's assassination triggers Rwandan genocide; aging Cold War-era leaders lose legitimacy.
 
 __Legitimacy as Lived Allegiance:__ One-party legitimacy exhausted across region; apartheid illegitimate to majority; ethnic loyalty substitutes for state allegiance in fragmenting polities; multi-party demands spread.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Anti-apartheid movement sustains will t
 
 __External Relations & Posture:__ Cold War overlay fades; South African destabilization of neighbors continues then reverses; regional states support anti-apartheid struggle; genocide produces intervention demands met inadequately by international community.
 
+__Public Sentiment & Behavioral Temper:__ Fear pervades conflict zones; ethnic hatred cultivated systematically in Rwanda; hope emerges in South Africa with Mandela's release (1990); exhaustion and cynicism elsewhere as one-party promises prove hollow.
+
 __Disaffection, Apathy & Spent Will:__ Mass disaffection from failing states; voter apathy in one-party elections; ethnic mobilization channels frustration toward violence; collective will exhausted by sustained crisis.
+
 
 ## D06. Informational Domain
 

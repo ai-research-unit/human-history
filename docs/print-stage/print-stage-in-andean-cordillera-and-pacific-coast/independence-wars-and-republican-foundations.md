@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry proliferates as disbanded soldiers and
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban populations oscillate between patriot enthusiasm and war weariness; indigenous highland communities remain largely indifferent to creole factional struggle, their loyalty purchased locally by whichever force occupies; fear, hope, and opportunism coexist.
-
 __Leadership & Personal Authority:__ San Martín and Bolívar embody charismatic leadership, their personal authority holding together fragile coalitions; O'Higgins in Chile, Sucre in Upper Peru similarly concentrate loyalties; rivalries among these figures shape post-war political fragmentation.
 
 __Legitimacy as Lived Allegiance:__ Spanish legitimacy collapses in creole opinion after Ferdinand VII's restoration reveals absolutism untempered; patriot legitimacy rests on constitutional promise and personal charisma, but neither consolidates before the wars end.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Patriot elites sustain will through ide
 
 __External Relations & Posture:__ Britain maintains formal neutrality while its merchants and creditors support patriot trade; the United States offers rhetorical support and Monroe Doctrine backing; Spanish reconquest threats persist until Ayacucho settles the military question.
 
+__Public Sentiment & Behavioral Temper:__ Urban populations oscillate between patriot enthusiasm and war weariness; indigenous highland communities remain largely indifferent to creole factional struggle, their loyalty purchased locally by whichever force occupies; fear, hope, and opportunism coexist.
+
 __Disaffection, Apathy & Spent Will:__ War exhaustion is general by 1824; the idealism of 1810 gives way to cynicism and factional self-interest; disaffection among unpaid soldiers and disappointed civilian supporters sets the stage for caudillo politics.
+
 
 ## D06. Informational Domain
 

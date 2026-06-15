@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Banditry, local warlordism, and uncontrolled vi
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Revolutionary fervor coexists with exhaustion and fear; regional loyalties often trump ideological commitment. Anti-Díaz sentiment provides initial unity but subsequent factional conflicts fragment popular will.
-
 __Leadership & Personal Authority:__ Charismatic leaders dominate—Madero as martyr, Villa as popular champion, Zapata as agrarian symbol, Carranza as constitutionalist, Obregón as military genius. Personal loyalty to caudillos structures allegiance more than ideology.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy is contested and fragmented; each faction claims revolutionary credentials while denouncing rivals as traitors or bandits. U.S. recognition of Carranza in 1915 confers external legitimacy that proves militarily decisive.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Revolutionary mobilization demonstrates
 
 __External Relations & Posture:__ The United States intervenes repeatedly—arms embargoes, troop movements to the border, occupation of Veracruz (1914), Pershing's Punitive Expedition (1916–1917). Germany attempts to exploit Mexican grievances (Zimmermann Telegram). Britain protects oil investments.
 
+__Public Sentiment & Behavioral Temper:__ Revolutionary fervor coexists with exhaustion and fear; regional loyalties often trump ideological commitment. Anti-Díaz sentiment provides initial unity but subsequent factional conflicts fragment popular will.
+
 __Disaffection, Apathy & Spent Will:__ By 1920, war-weariness is general; the Agua Prieta rebellion against Carranza succeeds partly because exhausted populations want peace. Revolutionary idealism gives way to pragmatic accommodation.
+
 
 ## D06. Informational Domain
 

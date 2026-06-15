@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social disorder spikes during and after plague:
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The plague generates terror, grief, and fatalism; Boccaccio describes flight, callousness, and hedonistic abandon; survivors oscillate between religious fervor and worldly indulgence; trust contracts as neighbors become sources of contagion; the public temper darkens permanently.
-
 __Leadership & Personal Authority:__ Traditional leaders die alongside their subjects; the Church's authority is shaken by its helplessness; individual condottieri and strongmen rise through the chaos; personal authority becomes more important as institutional authority weakens.
 
 __Legitimacy as Lived Allegiance:__ Communal legitimacy survives but is strained: governments that cannot protect their citizens lose moral authority; the Church's failure to explain or halt the plague opens space for doubt; allegiance frays though it does not collapse.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will fragments: cities turn 
 
 __External Relations & Posture:__ Italian states remain locked in local rivalries — Milan versus Florence, Venice versus Genoa — but the scale of conflict diminishes with resources and population; external posture becomes defensive rather than expansionist.
 
+__Public Sentiment & Behavioral Temper:__ The plague generates terror, grief, and fatalism; Boccaccio describes flight, callousness, and hedonistic abandon; survivors oscillate between religious fervor and worldly indulgence; trust contracts as neighbors become sources of contagion; the public temper darkens permanently.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection spreads: the Ciompi revolt (1378) expresses laboring-class alienation; peasant unrest simmers in the countryside; the excluded and grievance-laden multiply; apathy and despair settle where confidence once reigned.
+
 
 ## D06. Informational Domain
 

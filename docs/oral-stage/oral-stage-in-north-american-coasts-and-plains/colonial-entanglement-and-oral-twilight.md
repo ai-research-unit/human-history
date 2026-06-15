@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Alcohol introduced through trade generates dome
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Survivors of catastrophe maintain collective identity and will despite trauma; defiant pride characterizes warrior cultures; pragmatic accommodation coexists with underlying resentment; public sentiment varies by community and faction — some embrace trade and alliance with Europeans, others maintain hostile wariness; the behavioral temper is watchful, adaptive, calculating rather than either despairing or recklessly defiant.
-
 __Leadership & Personal Authority:__ War chiefs, peace chiefs, and beloved elders lead through persuasion rather than command; figures like Emperor Brim of the Coweta Creek navigate complex diplomacy; Iroquois sachems wield moral authority within the Great Law framework; personal authority derives from demonstrated wisdom, oratorical skill, and successful outcomes; charismatic leaders emerge for specific crises, then recede; authority is diffused through councils rather than concentrated in individuals.
 
 __Legitimacy as Lived Allegiance:__ Leadership legitimacy requires ongoing demonstration through successful diplomacy, successful war, and generous redistribution; followers retain freedom to withdraw allegiance and relocate; European powers must continuously renew relationships through gifts and fair dealing; legitimacy is performative and renewable, not inherited or permanent; allegiance to confederacies remains voluntary, constraining central authority.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will manifests in sustained 
 
 __External Relations & Posture:__ Indigenous polities position themselves as powers navigating among European rivals; the Iroquois Covenant Chain alliance system; Creek "play-off" diplomacy balancing English, Spanish, and French; Cherokee strategic positioning; external relations require constant diplomatic attention, conducted through oral negotiation, gift exchange, and alliance maintenance; posture shifts opportunistically as European power balances change.
 
+__Public Sentiment & Behavioral Temper:__ Survivors of catastrophe maintain collective identity and will despite trauma; defiant pride characterizes warrior cultures; pragmatic accommodation coexists with underlying resentment; public sentiment varies by community and faction — some embrace trade and alliance with Europeans, others maintain hostile wariness; the behavioral temper is watchful, adaptive, calculating rather than either despairing or recklessly defiant.
+
 __Disaffection, Apathy & Spent Will:__ Some communities and individuals succumb to demoralization — alcohol abuse, abandonment of traditional practices, acceptance of subordinate status; but collective will generally persists; disaffection concentrates among those most disrupted by trade dependency and land loss; by 1750, accumulated grievances and diminishing options generate the emotional preconditions for the resistance movements of subsequent decades; will is not spent but under mounting pressure.
+
 
 ## D06. Informational Domain
 

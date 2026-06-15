@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Rural unrest (ikki, peasant protests) increased
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Urban sentiment mixed confident consumption with anxiety about moral decay — a mood reform campaigns exploited; trust networks remained robust within merchant circles, but the Tenmei famine and subsequent unrest introduced undercurrents of fear and resentment.
-
 __Leadership & Personal Authority:__ Reforming shoguns (Matsudaira Sadanobu during Kansei) commanded respect through personal austerity and competence; intellectual leaders (Motoori Norinaga in kokugaku, Sugita Genpaku in rangaku) built followings through published works and academy networks that rivaled official authority.
 
 __Legitimacy as Lived Allegiance:__ Shogunal legitimacy eroded subtly as economic distress and intellectual ferment raised questions about the regime's mandate; kokugaku scholarship, by elevating the emperor and Shinto tradition, implicitly challenged the shogunate's delegated authority, though open defiance remained rare.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Kansei and Tenpo reforms demonstrat
 
 __External Relations & Posture:__ Sakoku policy remained in force, but foreign pressures mounted — Russian probes in the north, British ships demanding entry — generating printed discussions (some banned) about coastal defense and the world beyond; the inward orientation began to crack.
 
+__Public Sentiment & Behavioral Temper:__ Urban sentiment mixed confident consumption with anxiety about moral decay — a mood reform campaigns exploited; trust networks remained robust within merchant circles, but the Tenmei famine and subsequent unrest introduced undercurrents of fear and resentment.
+
 __Disaffection, Apathy & Spent Will:__ Disaffection simmered among impoverished samurai, overtaxed peasants, and urban intellectuals frustrated by censorship; this discontent fed into later bakumatsu radicalism, but during this window it remained dispersed, expressed in literary protest and private grumbling rather than organized resistance.
+
 
 ## D06. Informational Domain
 

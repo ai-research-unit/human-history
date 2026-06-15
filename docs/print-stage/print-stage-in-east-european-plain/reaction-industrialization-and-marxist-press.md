@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Peasant disorders increase; factory strikes mul
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Peasant resentment of redemption payments and land hunger simmers; worker discontent rises with factory conditions; educated society oscillates between reform hope and revolutionary despair.
-
 __Leadership & Personal Authority:__ Alexander III projects stern paternal authority; Nicholas II, succeeding in 1894, lacks charisma and decisiveness; revolutionary leaders operate underground with intense personal followings.
 
 __Legitimacy as Lived Allegiance:__ Autocratic legitimacy rests on Orthodox faith, paternal myth, and inertia; the 1891 famine erodes paternal claims; educated society increasingly doubts the regime's capacity to modernize.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The regime wills industrial modernizati
 
 __External Relations & Posture:__ Alliance with France (1894) provides capital and security; rivalry with Austria and Germany in Balkans; expansion into Manchuria leads toward confrontation with Japan.
 
+__Public Sentiment & Behavioral Temper:__ Peasant resentment of redemption payments and land hunger simmers; worker discontent rises with factory conditions; educated society oscillates between reform hope and revolutionary despair.
+
 __Disaffection, Apathy & Spent Will:__ Intelligentsia alienation deepens; worker cynicism grows; peasant fatalism persists but anger rises; the regime's emotional reserves deplete as legitimacy erodes.
+
 
 ## D06. Informational Domain
 

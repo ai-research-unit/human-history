@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Failed candidates generate resentment; examinat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Reverence for learning (zhongwen) permeates elite culture; examination anxiety shapes family emotional life; success brings intense joy, failure deep shame; the emotional investment in scholarship creates stakes that bind families to the system across generations.
-
 __Leadership & Personal Authority:__ Eminent scholars command respect beyond their official positions; calligraphers and poets become cultural celebrities; the great masters — Confucius, Wang Xizhi, Du Fu, Zhu Xi — acquire quasi-sacred authority as models for emulation.
 
 __Legitimacy as Lived Allegiance:__ The examination system legitimates the imperial order by offering commoners (in principle) access to elite status; belief in meritocracy sustains allegiance even when practice falls short; the Confucian canon provides the ideological content that officials are trained to internalize.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Scholarly opinion constrains imperial a
 
 __External Relations & Posture:__ The script and examination system spread to Korea, Vietnam, and Japan, creating a Sinographic cultural sphere; Chinese scholars regard neighbors who adopt the script as partially civilized; the system's prestige derives partly from this regional dominance.
 
+__Public Sentiment & Behavioral Temper:__ Reverence for learning (zhongwen) permeates elite culture; examination anxiety shapes family emotional life; success brings intense joy, failure deep shame; the emotional investment in scholarship creates stakes that bind families to the system across generations.
+
 __Disaffection, Apathy & Spent Will:__ Repeated examination failure produces despair and sometimes madness (the famous case of Kong Yiji); late-dynastic periods see cynicism about examination meritocracy; by 1900 reformers advocate abolishing the system as an obstacle to modernization, representing a collapse of faith in the institution that had structured elite will for a millennium.
+
 
 ## D06. Informational Domain
 

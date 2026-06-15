@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage persists in mountainous regions. Pol
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Nationalist fervor high, stoked by irredentist press and Cretan agitation. The public expects territorial expansion as natural destiny; the 1897 defeat inflicts profound humiliation and disillusionment. Anti-dynastic sentiment grows, though republicanism remains marginal.
-
 __Leadership & Personal Authority:__ Trikoupis and Deligiannis dominate politics through alternating governments; both command personal followings. Trikoupis represents modernization, fiscal discipline, infrastructure; Deligiannis embodies popular nationalism and patronage. Neither can resist irredentist pressure. King George I maintains constitutional distance but exercises influence through appointments.
 
 __Legitimacy as Lived Allegiance:__ The monarchy accepted but not revered; George I seen as foreign-imposed. Constitutional order respected when it delivers, contested when it fails. The 1897 catastrophe damages regime legitimacy; international financial control humiliates national pride.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Will to expand territory strong but dis
 
 __External Relations & Posture:__ Greece dependent on Great Powers for territorial gains; Britain, France, Russia compete for influence. Ottoman Empire remains the adversary; Bulgaria emerges as Macedonian rival. The 1897 war launched without allied support ends in disaster; Great Powers impose armistice and indemnity but prevent harsher Ottoman terms.
 
+__Public Sentiment & Behavioral Temper:__ Nationalist fervor high, stoked by irredentist press and Cretan agitation. The public expects territorial expansion as natural destiny; the 1897 defeat inflicts profound humiliation and disillusionment. Anti-dynastic sentiment grows, though republicanism remains marginal.
+
 __Disaffection, Apathy & Spent Will:__ Post-1897 demoralization profound. Nationalist journalists who demanded war face public anger. Political class discredited. Emigration accelerates as alternative to futile politics. Will reconstitutes slowly around reform movements of the 1900s.
+
 
 ## D06. Informational Domain
 

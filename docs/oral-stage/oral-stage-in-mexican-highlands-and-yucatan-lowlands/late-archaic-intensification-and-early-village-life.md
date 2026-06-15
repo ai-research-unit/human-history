@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Conflict over land, theft, and personal grievan
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The prevailing mood is cautious optimism tempered by awareness of environmental fragility; trust extends reliably within kin networks and provisionally to affines and neighbors. Anxiety spikes during drought years; collective relief accompanies successful harvests. The radius of trust is narrow — the hamlet and its immediate kin connections.
-
 __Leadership & Personal Authority:__ Leadership is personal and informal — elders whose memory is trusted, hunters whose skill is proven, healers whose rituals succeed. Authority depends on demonstrated competence and generosity; no inherited or appointed offices.
 
 __Legitimacy as Lived Allegiance:__ Allegiance is to kin and hamlet, not to institutions or titles; legitimacy accrues to individuals who fulfill obligations and maintain relationships. Disaffection manifests as withdrawal from cooperation or departure from the group.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action is mobilized through 
 
 __External Relations & Posture:__ Relations with neighboring groups range from cooperative (intermarriage, trade) to competitive (raiding, territorial disputes); no permanent alliances or enmities. Posture is defensive and opportunistic; expansion occurs by fission and migration rather than conquest.
 
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is cautious optimism tempered by awareness of environmental fragility; trust extends reliably within kin networks and provisionally to affines and neighbors. Anxiety spikes during drought years; collective relief accompanies successful harvests. The radius of trust is narrow — the hamlet and its immediate kin connections.
+
 __Disaffection, Apathy & Spent Will:__ Failed harvests or leadership disputes produce disaffection expressed through withdrawal, fission, or migration; the small scale of communities allows exit as a pressure valve. Apathy is rare given the labor demands of subsistence; spent will is restored through seasonal renewal rituals.
+
 
 ## D06. Informational Domain
 

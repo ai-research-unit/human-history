@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Brigandage increased as lordless men roamed; th
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A mood of fragility persisted: plague could return, and survivors oscillated between pious dread and hedonistic release; trust contracted to kin and guild, extending cautiously to trading partners.
-
 __Leadership & Personal Authority:__ Emperor Charles IV (r. 1346–1378) stabilized the empire through the Golden Bull (1356), fixing electoral procedure and entrenching princely power; Hanseatic burgomasters wielded authority within their cities; charismatic preachers drew crowds seeking meaning.
 
 __Legitimacy as Lived Allegiance:__ Imperial authority commanded formal deference but little practical obedience; loyalty attached to city, guild, and lord rather than distant emperor; the papacy, now at Avignon and soon in schism, saw its moral authority erode.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Hanseatic League demonstrated colle
 
 __External Relations & Posture:__ The Hansa dominated Baltic diplomacy, treating with kings as an equal; the Teutonic Order pressed against Lithuania until the 1386 Polish-Lithuanian union shifted the balance; Bohemia under Charles IV flourished but looked east and south.
 
+__Public Sentiment & Behavioral Temper:__ A mood of fragility persisted: plague could return, and survivors oscillated between pious dread and hedonistic release; trust contracted to kin and guild, extending cautiously to trading partners.
+
 __Disaffection, Apathy & Spent Will:__ Apocalyptic movements—flagellants, heretical sects—channeled despair; after initial fervor, exhaustion set in; survivors focused on rebuilding rather than crusading.
+
 
 ## D06. Informational Domain
 

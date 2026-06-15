@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Recurrent rebellions — Afghan resistance, Uzb
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Elite sentiment reflected confidence in the expanding Mughal order under Akbar; Hindu accommodation through Rajput marriages and abolition of jizya (1564) reduced interconfessional tension; Sufi and bhakti devotional movements cultivated popular piety across communal lines; peasant sentiment remained localized and resigned to extraction; urban artisan and merchant sentiment responded to market conditions and state demands.
-
 __Leadership & Personal Authority:__ Babur's charisma as Timurid prince and conqueror founded the dynasty; Humayun's weakness nearly ended it; Akbar's personal magnetism, military prowess, and syncretic religious experiments (Din-i-Ilahi) generated intense loyalty and fascination; the emperor's person concentrated allegiance in a way that no institution could replicate — a structural vulnerability masked by Akbar's exceptional capacities.
 
 __Legitimacy as Lived Allegiance:__ Mughal legitimacy drew on Timurid lineage, military victory, and increasingly on claims to universal sovereignty transcending religious division; Akbar's sulh-i-kul (universal peace) ideology positioned the emperor as arbiter above all communities; Muslim ulema acceptance was partial and contested, but mass allegiance required only acquiescence to effective rule; Hindu acceptance was purchased through incorporation and religious toleration.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Akbar demonstrated exceptional politica
 
 __External Relations & Posture:__ Relations with Safavid Persia alternated between rivalry (over Kandahar) and cultural exchange; Uzbek pressure on the northwest required defensive attention; the Portuguese at Goa were tolerated as commercial partners; Ottoman relations were distant but diplomatically active; the Deccan sultanates were targets of expansion; the posture was confidently expansionist with no existential external threat.
 
+__Public Sentiment & Behavioral Temper:__ Elite sentiment reflected confidence in the expanding Mughal order under Akbar; Hindu accommodation through Rajput marriages and abolition of jizya (1564) reduced interconfessional tension; Sufi and bhakti devotional movements cultivated popular piety across communal lines; peasant sentiment remained localized and resigned to extraction; urban artisan and merchant sentiment responded to market conditions and state demands.
+
 __Disaffection, Apathy & Spent Will:__ Elite disaffection surfaced periodically in rebellion but was reabsorbed through Akbar's combination of force and incorporation; peasant disaffection expressed itself in flight and non-compliance rather than organized resistance; the system's affective reserves remained positive through 1605; the succession crisis and Prince Salim's preemptive rebellion suggested limits to the consensual order that would be tested under his successors.
+
 
 ## D06. Informational Domain
 

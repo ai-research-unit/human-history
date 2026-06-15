@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social trust in government fragmented; Partygat
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Initial solidarity ("clap for carers," 8pm Thursday) gave way to fatigue, polarization, and eventually cynicism; fear dominated early 2020; by 2021, a fragmented emotional landscape — the cautious versus the restriction-weary — emerged; Partygate transformed fatigue into anger.
-
 __Leadership & Personal Authority:__ Johnson's initial authority during early pandemic — high approval ratings in spring 2020 — eroded steadily; his messaging ("stay alert") confused rather than commanded; Sturgeon in Scotland maintained higher approval with clearer communication; public health figures (Chris Whitty, Jonathan Van-Tam) became trusted voices.
 
 __Legitimacy as Lived Allegiance:__ Government legitimacy survived on vaccine success but was badly damaged by Partygate, PPE scandals, and A-level algorithm fiasco (2020); the reservoir of consent depleted substantially, contributing to Johnson's eventual resignation in July 2022.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The will to lock down, furlough, and va
 
 __External Relations & Posture:__ UK-EU relations remained tense over Brexit implementation; vaccine nationalism briefly surged with AstraZeneca export disputes; the UK positioned itself as a vaccination success story.
 
+__Public Sentiment & Behavioral Temper:__ Initial solidarity ("clap for carers," 8pm Thursday) gave way to fatigue, polarization, and eventually cynicism; fear dominated early 2020; by 2021, a fragmented emotional landscape — the cautious versus the restriction-weary — emerged; Partygate transformed fatigue into anger.
+
 __Disaffection, Apathy & Spent Will:__ By 2022, pandemic fatigue was pervasive; distrust of government extended beyond COVID to general political disaffection; Johnson's resignation reflected spent political capital; voter engagement remained but cynicism deepened.
+
 
 ## D06. Informational Domain
 

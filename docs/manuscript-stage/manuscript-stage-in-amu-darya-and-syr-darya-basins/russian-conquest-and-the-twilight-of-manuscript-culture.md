@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Russian conquest suppresses endemic inter-khana
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Shock and resignation characterize the initial response to conquest. The indigenous population accepts Russian rule without mass resistance but without enthusiasm. Resentment simmers beneath surface compliance. The mood is sullen rather than rebellious. Trust toward the new rulers does not develop.
-
 __Leadership & Personal Authority:__ The khans of Bukhara and Khiva retain nominal authority within their protectorates, their charisma diminished by dependence on Russian power. Indigenous leadership fragments; some collaborate, others resist passively, a few advocate reform. Russian governors-general command through institutional authority rather than personal charisma.
 
 __Legitimacy as Lived Allegiance:__ Russian rule lacks Islamic legitimacy. Compliance rests on coercion and pragmatic acceptance, not allegiance. The khans retain residual legitimacy but are compromised by their subordination. The Jadid reformers seek new bases of legitimacy through education and modernization. The reservoir of consent is shallow for all parties.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective will is fractured. The indig
 
 __External Relations & Posture:__ Central Asia becomes a piece in the Great Game between Russian and British empires. The Afghan border is demarcated (1887-1895). The khanates lose all independent foreign policy. External relations are now Russian external relations. The region's geopolitical position becomes its colonial assignment.
 
+__Public Sentiment & Behavioral Temper:__ Shock and resignation characterize the initial response to conquest. The indigenous population accepts Russian rule without mass resistance but without enthusiasm. Resentment simmers beneath surface compliance. The mood is sullen rather than rebellious. Trust toward the new rulers does not develop.
+
 __Disaffection, Apathy & Spent Will:__ Colonial subjects settle into a posture of minimal compliance and private resentment. Apathy substitutes for active resistance. The will for transformation is channeled through the small Jadid movement rather than mass politics. Spent will from centuries of decline leaves no energy for resistance. The emotional residue is substantial but contained.
+
 
 ## D06. Informational Domain
 

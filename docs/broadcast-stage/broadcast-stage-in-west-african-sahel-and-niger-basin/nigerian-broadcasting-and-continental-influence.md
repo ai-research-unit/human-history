@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Broadcasting inflames as well as manages ethnic
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ Broadcasting shapes and reflects national mood through successive traumas: civil war grief, oil boom optimism, structural adjustment despair, democratic hope; audience trust in state broadcasting low (associated with government propaganda), higher for BBC Hausa and later private stations.
-
 __Leadership & Personal Authority:__ Military rulers use broadcasting for direct address: Gowon, Buhari, Babangida, Abacha, each with distinctive broadcast style; civilian politicians (Shagari, Obasanjo, Jonathan, Buhari) less dominant on screen; broadcast journalists acquire authority — figures like Adesuwa Onyenokwe, Frank Olize.
 
 __Legitimacy as Lived Allegiance:__ State broadcasting serves legitimation across regime types: First Republic's parliamentary democracy, military rule's national unity rhetoric, Second/Third Republic's party competition, Fourth Republic's democratic consolidation; effectiveness varies — military broadcasts generate cynicism while Fourth Republic plurality enables contestation.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Broadcasting mobilizes for national pro
 
 __External Relations & Posture:__ Nigerian broadcasting projects continental ambition: Voice of Nigeria shortwave, NTA signal extending to neighbors, Nollywood cultural influence across Africa; ECOWAS peacekeeping covered as Nigerian leadership; rivalry with South African broadcasting for continental dominance.
 
+__Public Sentiment & Behavioral Temper:__ Broadcasting shapes and reflects national mood through successive traumas: civil war grief, oil boom optimism, structural adjustment despair, democratic hope; audience trust in state broadcasting low (associated with government propaganda), higher for BBC Hausa and later private stations.
+
 __Disaffection, Apathy & Spent Will:__ Public trust in state broadcasting erodes across the period; northern audiences turn to BBC Hausa for news; southern audiences to pirate video; diaspora to satellite; youth disaffection from official media channels anticipates digital migration; the will to use broadcasting for national integration exhausts against ethnic-religious polarization.
+
 
 ## D06. Informational Domain
 

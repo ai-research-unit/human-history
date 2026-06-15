@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Social friction remains low given sparse popula
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ The stabilization of environment after millennia of transformation likely produces reduced anxiety and increased confidence in territorial knowledge; trust radiuses extend through kinship networks verified by oral genealogy and ceremonial participation.
-
 __Leadership & Personal Authority:__ Leadership remains situational and achieved rather than inherited; hunting leaders, ceremonial leaders, and dispute mediators exercise authority in their domains without general political power; personal charisma and demonstrated competence determine influence.
 
 __Legitimacy as Lived Allegiance:__ Legitimacy attaches to kinship and ceremonial systems rather than to political authorities; allegiance flows to the Dreaming (ancestral law) and its living custodians rather than to rulers or offices.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ Collective action mobilizes for ceremon
 
 __External Relations & Posture:__ Relations between language groups range from active exchange and intermarriage to avoidance and occasional hostility; no group exercises regional dominance; the stance toward neighboring groups depends on kinship connections, exchange relationships, and recent history of interaction.
 
+__Public Sentiment & Behavioral Temper:__ The stabilization of environment after millennia of transformation likely produces reduced anxiety and increased confidence in territorial knowledge; trust radiuses extend through kinship networks verified by oral genealogy and ceremonial participation.
+
 __Disaffection, Apathy & Spent Will:__ Stable conditions and functioning kinship systems minimize accumulated disaffection; the intimate scale of social life and the availability of exit (movement to kin elsewhere) prevent the buildup of unresolvable social tensions.
+
 
 ## D06. Informational Domain
 

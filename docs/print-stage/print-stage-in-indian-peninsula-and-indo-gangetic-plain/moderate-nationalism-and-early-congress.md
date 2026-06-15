@@ -68,8 +68,6 @@ __Discharge, Disorder & Decay:__ Hindu-Muslim riots remain localized; agrarian d
 
 ## D05. Emotional Domain
 
-__Public Sentiment & Behavioral Temper:__ A restrained optimism pervades the moderate phase; the educated elite believes that reasoned argument presented through print and petition will persuade British opinion to grant reforms; disappointment accumulates as reforms remain limited.
-
 __Leadership & Personal Authority:__ Dadabhai Naoroji (the Grand Old Man), Surendranath Banerjea (the Indian Burke), Gopal Krishna Gokhale (the moderate conscience), and Pherozeshah Mehta (Bombay's uncrowned king) dominate Congress; their authority rests on English oratory, legal credentials, and respectable journalism rather than mass charisma.
 
 __Legitimacy as Lived Allegiance:__ The Crown commands formal loyalty; the Congress professes loyalty while demanding reform; the reading public's allegiance divides between cultural nationalism (expressed in vernacular literature) and political loyalty (expressed in English petitions); the gap widens as reforms disappoint.
@@ -78,7 +76,10 @@ __Political Will & Collective Resolve:__ The Congress lacks executive power; its
 
 __External Relations & Posture:__ India's external posture is set by London; nationalists oppose Indian revenue funding Afghan wars and African expeditions; the Boer War (1899–1902) stirs sympathy for the Boers among extremists, though moderates maintain pro-British alignment.
 
+__Public Sentiment & Behavioral Temper:__ A restrained optimism pervades the moderate phase; the educated elite believes that reasoned argument presented through print and petition will persuade British opinion to grant reforms; disappointment accumulates as reforms remain limited.
+
 __Disaffection, Apathy & Spent Will:__ By 1905, younger nationalists (Tilak, Aurobindo, Lajpat Rai) criticize moderate methods as ineffective; the Bengal Partition announcement that year catalyzes accumulated frustration into the Swadeshi explosion, marking the emotional exhaustion of the moderate strategy.
+
 
 ## D06. Informational Domain
 
