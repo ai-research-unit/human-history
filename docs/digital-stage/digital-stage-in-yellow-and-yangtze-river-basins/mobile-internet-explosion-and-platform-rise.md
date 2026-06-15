@@ -1,69 +1,139 @@
-# __2012 CE – 2017 CE__ — Mobile Internet Explosion and Platform Rise
-__Summary:__ China's mobile internet user base explodes from under 400 million to over 700 million as smartphone costs drop and 4G rolls out; platform giants Tencent and Alibaba consolidate a duopoly over messaging, payments, and commerce, building walled ecosystems that route daily life through their apps; the binding constraint is network-effect lock-in rather than infrastructure, and the system carries ample margin against shocks while accelerating toward deeper platform dependence.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Dense eastern population centers along the Yellow and Yangtze basins connected by expanding fiber and cell networks; mountainous west and rural interior remain friction zones for last-mile connectivity, but declining as tower density rises.<br><br>
-__Climate Regime & Volatility:__ Monsoon-driven seasonal variation continues; northern smog episodes intensify with coal-fired data center and manufacturing expansion; no major climate-driven disruption to digital infrastructure during the window.<br><br>
-__Hazard Regime & Exposure:__ Earthquakes in Sichuan and flooding along the Yangtze pose localized infrastructure risk; redundant data centers and network routing provide significant margin against regional outages.<br><br>
-__Resource & Energy Endowment:__ Coal remains the dominant power source; rare earth deposits support domestic device manufacturing; silicon wafer imports create external dependency but supply lines remain secure.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste volumes surge with rapid device turnover; informal recycling absorbs much of the flow; air and water sinks in manufacturing zones approach saturation, prompting early environmental enforcement.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Urban sanitation and healthcare continue incremental improvement; endemic respiratory illness from pollution persists; no major epidemic disrupts the window.<br><br>
-__Nutrition & Physiological Vitality:__ Rising incomes support improved nutrition; obesity and metabolic disease begin trending upward in urban youth tied to sedentary screen-based lifestyles.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Dating apps emerge as significant pairing venues; marriage ages rise in cities; fertility remains below replacement but demographic pressure is deferred.<br><br>
-__Demographic Renewal & Density:__ Urban migration continues; megacities exceed 20 million; working-age cohort remains large but aging curve steepens; dependency ratio still favorable.<br><br>
-__Attrition & Dependency Overhang:__ Elderly population grows but remains manageable; left-behind children in rural areas create social strain absorbed by extended kin networks and remittances.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Absolute poverty declines rapidly; e-commerce extends consumer access to remote areas; baseline provisioning secure across nearly all strata.<br><br>
-__Energy Capture & Conversion:__ Per-capita energy consumption rises; coal-to-electricity conversion remains dominant; efficiency gains in data centers offset some growth in compute demand.<br><br>
-__Labor Organization & Coercion:__ Tech sector draws rural migrants into factory lines and urban gig economy; 996 work culture normalizes in startups; labor law enforcement remains lax.<br><br>
-__Production & Surplus Capacity:__ Smartphone manufacturing scales to global dominance; platform services generate massive surplus; gross margins in tech exceed 30 percent.<br><br>
-__Storage, Reserves & Buffering:__ Platform companies accumulate cash reserves exceeding state GDP of small nations; corporate war chests provide substantial shock absorption.<br><br>
-__Exchange, Trade & Logistics:__ Mobile payments displace cash; QR codes become universal; logistics networks shorten delivery to same-day in tier-one cities.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Alipay and WeChat Pay become de facto value-storage systems; Yu'e Bao money-market fund attracts hundreds of millions of depositors; consumer credit expands rapidly.<br><br>
-__Surplus Extraction & Redistribution:__ State taxation of platforms remains light during growth phase; platform fees extract 2–5 percent of transaction value; redistribution minimal.<br><br>
-__Wealth Distribution & Asset Defense:__ Tech founders and early investors capture outsized gains; urban property and equity holdings concentrate; middle class expands but ceiling rises faster.<br><br>
-__Byproducts & Waste Routing:__ Data exhaust captured and monetized; e-waste routed to informal recyclers; carbon emissions from data centers externalized to atmosphere.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Platform reputation systems create new trust proxies; strangers transact via ratings; traditional community trust erodes in cities but digital networks partially substitute.<br><br>
-__Stratification, Status & Group Identity:__ Tech workers emerge as aspirational class; urban-rural divide persists; regional identities subsumed under platform-mediated national consumer culture.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family remains normative; WeChat reconnects dispersed kin; digital red envelopes revive remittance rituals in new form.<br><br>
-__Civic Association & Self-Organization:__ WeChat groups enable rapid ad-hoc organizing; neighborhood, alumni, and interest groups proliferate; state monitors but does not yet systematically suppress.<br><br>
-__Leisure, Play & Sociability:__ Gaming on mobile devices becomes dominant leisure; short video emerges; social media displaces television as primary entertainment for youth.<br><br>
-__Grievance Channels & Social Discharge:__ Weibo enables viral complaint amplification before censorship catches up; consumer disputes resolved through platform arbitration; unresolved grievances accumulate in deleted posts.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Xi Jinping consolidates power from 2012; anti-corruption campaign centralizes control; tech sector operates with implicit state license but retains operational autonomy.<br><br>
-__Succession & Power Transfer:__ Party succession procedures remain opaque; Xi's consolidation signals departure from term-limit norms; no immediate instability.<br><br>
-__Legitimacy & Political Narrative:__ Economic growth and rising living standards underwrite legitimacy; Chinese Dream narrative promotes national rejuvenation; tech success cited as evidence of system superiority.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity in digital regulation remains underdeveloped; multiple agencies claim jurisdiction; enforcement uneven but corruption declining under campaign pressure.<br><br>
-__Political Participation & Mobilization:__ Online opinion tightly managed; nationalist mobilization permitted and encouraged; dissent channeled into approved targets; civil society constrained.<br><br>
-__Geopolitical Position & External Relations:__ South China Sea tensions rise; Belt and Road Initiative launched; tech companies expand globally without major friction; US-China relations stable but cooling.<br><br>
-__Coercive Apparatus & Means of Force:__ PLA modernization continues; domestic security budgets rise; surveillance infrastructure expands but not yet fully integrated.<br><br>
-__Internal Order & Threat Environment:__ Urban crime rates low; Xinjiang tensions simmer; ethnic unrest contained through security presence; no major domestic disorder.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ 4G networks enable real-time mobile video; WeChat achieves near-universal penetration; information velocity approaches instantaneous within the walled garden.<br><br>
-__Record, Storage & Persistence:__ Platform servers store all transactions, messages, and location data; state access implicit; personal data accumulates with no deletion mechanism.<br><br>
-__Framing, Censorship & Discourse Norms:__ Great Firewall blocks foreign platforms; keyword filtering automated; self-censorship pervasive; permitted discourse band narrowing but still allows commercial and lifestyle content.<br><br>
-__Reception, Attention & Amplification:__ Algorithm-driven feeds optimize engagement; viral content spreads within hours; attention spans compress; platform-curated reality becomes dominant.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation spreads rapidly before correction; rumor-suppression mechanisms lag; noise rises but not yet overwhelming; verification capacity lags volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Consumer protection expectations rise with e-commerce; fraud intolerance increases; platform dispute resolution partially satisfies demand.<br><br>
-__Law, Codification & Regulatory Evolution:__ Cybersecurity law drafted but not yet enacted; e-commerce operates in regulatory gray zone; intellectual property enforcement improving but inconsistent.<br><br>
-__Adjudication, Enforcement & Liability:__ Internet courts pilot in Hangzhou; platform terms of service function as de facto law; liability for fraud increasingly assigned to platforms.<br><br>
-__Rights, Protections & Compliance Burden:__ Data protection minimal; user rights subordinate to platform and state interests; compliance burden low for users, high for foreign firms.<br><br>
-__Impunity & Unredressed Wrong:__ Platform fraud victims often lack recourse; state officials protected from online criticism; unredressed wrongs accumulate but not yet destabilizing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Machine learning research accelerates; Chinese universities climb global rankings; paradigm is Silicon Valley tech transplanted and adapted.<br><br>
-__Applied Knowledge & Technical Method:__ Mobile-first product development; rapid iteration; A/B testing at scale; engineering talent concentrated in BAT companies.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ STEM enrollment surges; coding bootcamps proliferate; technical skills concentrate in coastal cities; rural-urban education gap persists.<br><br>
-__Obsolescence & Knowledge Decay:__ Desktop-era skills rapidly obsolete; continuous learning required; institutional knowledge retained within platform companies.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Tech success absorbed into national rejuvenation narrative; entrepreneurs celebrated as patriots; Silicon Valley envy transmutes to rivalry.<br><br>
-__Artistic Expression & Material Culture:__ Smartphone as status object; minimalist app design aesthetic; selfie culture and filter-mediated self-presentation become normative.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism and ambition predominate; FOMO drives adoption; anxiety about falling behind mixes with excitement at new possibilities.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional media forms hollowing out; newspaper and television audiences aging; new digital forms not yet exhausted; meaning production vibrant.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular materialism dominant among urban youth; success measured in platform metrics and consumption; transcendence deferred to achievement.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Digital red envelopes incorporate traditional ritual into platform interaction; temple visits persist alongside app-mediated daily life; hybrid practice stable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhism and folk religion continue alongside state atheism; Christian house churches monitored; no major doctrinal conflict during window.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Mindfulness apps introduce secular meditation; spirituality commodified; traditional cosmologies neither displaced nor revived, holding steady.<br><br>
-__Disenchantment & Sacred Discharge:__ Consumer culture absorbs existential energy; platform engagement substitutes for communal ritual; disenchantment accumulates quietly beneath surface optimism.<br><br>
+# __2012 CE – 2017 CE — Mobile Internet Explosion and Platform Rise__
+
+__Summary:__ China's internet population doubles to over 700 million as smartphones and 4G networks enable a mobile-first digital transformation, with Tencent's WeChat and Alibaba's ecosystem becoming essential infrastructure for daily life. The binding constraint is the simultaneous demand for platform-driven growth and party-state control, producing an enclosed but commercially dynamic system sealed behind the Great Firewall.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The coastal tech centers — Beijing, Shenzhen, Hangzhou, Shanghai — concentrate platform headquarters, talent, and capital, while 4G tower deployment extends mobile coverage into interior provinces, reducing the friction that once isolated rural populations from digital commerce and communication.
+
+__Climate Regime & Volatility:__ Climate remains a background factor; severe air pollution in northern cities during winter inversions draws attention to environmental costs of rapid industrialization but does not directly constrain digital expansion.
+
+__Hazard Regime & Exposure:__ Data center clusters face power-grid stress during summer demand peaks, but infrastructure investment keeps pace with growth; no major natural disasters significantly disrupt the digital buildout.
+
+__Resource & Energy Endowment:__ Massive coal-fired electricity generation powers the data center expansion; rare earth elements for smartphone components remain domestically available; silicon wafer production grows but advanced chip fabrication depends on foreign supply chains.
+
+__Waste Absorption & Sink Capacity:__ E-waste accumulates as smartphone replacement cycles shorten to eighteen months; recycling infrastructure lags behind discard rates; air and water pollution from manufacturing concentrate in Guangdong export zones, the physical residue of hardware production.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Public health improves with economic growth; mortality continues declining; no major epidemic disrupts the period, though air pollution contributes to elevated respiratory disease in northern urban centers.
+
+__Nutrition & Physiological Vitality:__ Rising incomes improve nutrition broadly; obesity rates climb in urban areas as sedentary screen time increases and food delivery platforms make calorie-dense meals frictionless to obtain.
+
+__Care, Healing & Recovery Capacity:__ Hospital systems strain under demand but expand capacity; smartphone apps begin intermediating appointment booking and health records, extending healthcare access to underserved areas.
+
+__Reproductive Biology & Pairing Dynamics:__ The one-child policy ends (2015), but fertility rates remain suppressed by urban costs and changing preferences; dating apps proliferate, mediating partner search for a generation socialized through screens.
+
+__Demographic Renewal & Density:__ Population reaches 1.38 billion by 2017; the working-age cohort peaks; rural-to-urban migration continues, concentrating populations in cities where smartphone adoption is universal.
+
+__Attrition & Dependency Overhang:__ The aging population is not yet acute but the demographic structure is hardening; the dependency ratio begins its upward trend, a slow-moving constraint that digital labor platforms cannot reverse.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Absolute poverty continues declining; smartphone access to price comparison, logistics, and rural e-commerce raises the floor, enabling farmers to bypass middlemen and access urban markets.
+
+__Energy Capture & Conversion:__ Per-capita energy consumption rises with industrial output and data center demand; grid expansion keeps pace with platform growth; coal remains dominant despite renewable buildout.
+
+__Labor Organization & Coercion:__ Platform labor emerges as a new category — delivery riders, drivers, microtask workers — employed through apps with flexible hours but minimal protections; the 996 work culture intensifies in tech firms as competition accelerates.
+
+__Production & Surplus Capacity:__ Platform companies generate immense surplus; Alibaba's gross merchandise volume exceeds $500 billion by 2017; advertising and commission revenues fund further expansion and investment arms.
+
+__Storage, Reserves & Buffering:__ Venture capital floods into startups; Alibaba's 2014 NYSE IPO raises $25 billion, the world's largest; platform treasuries accumulate war chests for subsidy battles in ride-hailing and food delivery.
+
+__Exchange, Trade & Logistics:__ E-commerce reshapes retail; Cainiao logistics network reaches every county; express delivery volume grows twentyfold; smartphone-mediated commerce becomes the default for urban consumers.
+
+__Value Storage, Credit & Deferred Exchange:__ Alipay and WeChat Pay displace cash; QR-based mobile payments become ubiquitous at street vendors, transit, and peer-to-peer transfers; Yu'e Bao money-market fund attracts 300 million users, transforming household savings.
+
+__Surplus Extraction & Redistribution:__ Platform commissions extract rents from merchants and service providers; state taxation of digital commerce lags behind transaction volumes; tech wealth concentrates in founder-shareholders.
+
+__Wealth Distribution & Asset Defense:__ Platform founders become billionaires; Jack Ma and Pony Ma rank among the world's wealthiest; urban middle class gains from equity appreciation; rural populations benefit from market access but not from capital gains.
+
+__Byproducts & Waste Routing:__ Packaging waste from e-commerce deliveries accumulates in cities; plastic and cardboard discard volumes surge; recycling systems strain; financial mispricing in subsidy-burning unicorns builds toward future correction.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ WeChat groups reorganize family communication across distance; grandparents learn apps to video-call grandchildren in cities; remittance flows through mobile payments strengthen rural-urban kin ties.
+
+__Association & Mutual Aid:__ Online communities form around interests, health conditions, and grievances; platform-mediated charity expands; neighborhood WeChat groups coordinate daily logistics but also spread rumors.
+
+__Leisure, Play & Sociability:__ Smartphone gaming becomes mass entertainment; Honour of Kings reaches 200 million monthly players; short-video precursors and livestreaming create new leisure habits and parasocial relationships.
+
+__Stratification, Status & Group Structure:__ Digital fluency becomes a status marker; rural-urban divide persists but narrows on consumption access; tech workers form a new privileged stratum; delivery riders and factory workers remain precarious.
+
+__Administrative Capacity & Institutional Integrity:__ Government adopts digital tools for administration and surveillance; real-name registration requirements extend state legibility into platform populations; e-government services proliferate.
+
+__Coercive Apparatus & Means of Force:__ Public security integrates facial recognition and platform data; the surveillance infrastructure expands but remains unevenly deployed; control capacity grows faster than it is exercised in most regions.
+
+__Discharge, Disorder & Decay:__ Labor disputes in platform companies are mediated through app feedback rather than collective action; grievances accumulate among gig workers without formal channels; the disorder is suppressed but not resolved.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Optimism dominates; smartphone access feels like empowerment; consumer confidence rises with purchasing power; national pride grows with platform success stories.
+
+__Leadership & Personal Authority:__ Xi Jinping consolidates power, projecting stability and direction; tech founders Jack Ma, Pony Ma, and Robin Li become public figures embodying entrepreneurial success; their visibility carries implicit party tolerance.
+
+__Legitimacy as Lived Allegiance:__ The party-state draws legitimacy from delivering growth and technological catch-up; smartphone ubiquity reinforces the narrative of progress; criticism circulates but remains contained.
+
+__Political Will & Collective Resolve:__ The "Chinese Dream" narrative mobilizes aspiration; anti-corruption campaigns demonstrate state capacity and will; Belt and Road Initiative signals outward ambition.
+
+__External Relations & Posture:__ Confidence rises with economic weight; South China Sea assertiveness grows; tech companies seek global expansion while US platforms remain blocked, creating asymmetric access.
+
+__Disaffection, Apathy & Spent Will:__ Factory worker suicides at Foxconn and delivery rider exhaustion surface as warning signs; burnout accumulates in tech firms but is suppressed by opportunity narratives; the spent will does not yet manifest as collective resistance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ WeChat reaches 900 million monthly users by 2017; near-universal smartphone ownership makes the platform the default communication layer; voice messages overcome literacy barriers.
+
+__Channels & Transmission Velocity:__ 4G networks reach 95% population coverage; information travels instantly through chat groups; viral spread operates on hour timescales; platform algorithms increasingly mediate attention.
+
+__Record, Storage & Persistence:__ Platform servers store all communications; real-name registration links accounts to state identity databases; personal data accumulates beyond user visibility or control.
+
+__Framing, Censorship & Discourse Norms:__ The Great Firewall blocks Google, Facebook, Twitter, and foreign news; domestic platforms self-censor according to party guidelines; sensitive keywords trigger automated deletion; VPN use persists among professionals but is increasingly restricted.
+
+__Reception, Attention & Amplification:__ Algorithmic feeds emerge; Toutiao's news aggregation demonstrates engagement-maximizing recommendation; attention fragments across platforms while concentrating within them.
+
+__Signal Integrity & Noise Load:__ Misinformation spreads through chat groups; health rumors, financial scams, and nationalist narratives circulate; verification lags behind volume; the noise load rises with communication density.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Consumer protection concerns grow with e-commerce scale; counterfeit goods and unsafe products prompt regulatory attention; the sense that platforms should be accountable develops.
+
+__Law, Codification & Regulatory Evolution:__ Cybersecurity Law (2016) establishes state authority over data and networks; anti-monopoly law exists but enforcement against platforms is minimal; regulation lags behind platform growth.
+
+__Adjudication, Liability & Sanction:__ Consumer disputes route through platform arbitration rather than courts; seller accountability depends on platform incentives; liability remains unclear in emerging categories.
+
+__Rights, Protections & Compliance Burden:__ User agreements grant platforms expansive data rights; privacy protections are nominal; workers lack formal standing to challenge platform labor arrangements.
+
+__Impunity & Unredressed Wrong:__ Platform manipulation of search results, seller mistreatment, and labor violations accumulate without systematic redress; the gap between consumer expectation and platform accountability widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ AI research accelerates; deep learning adoption spreads through Baidu, Alibaba, and Tencent labs; computer science departments expand; papers and patents proliferate.
+
+__Applied Knowledge & Technical Method:__ Mobile payment, recommendation algorithms, and logistics optimization represent applied innovation; platform engineering at scale becomes a distinctive Chinese capability.
+
+__Education, Knowledge Stock & Skill Distribution:__ STEM enrollment surges; coding bootcamps proliferate; English and programming become gatekeeping skills; rural education still lags.
+
+__Obsolescence & Knowledge Decay:__ Desktop-era skills depreciate rapidly; legacy systems in state enterprises fall behind platform innovation; the gap between tech-sector methods and traditional industry widens.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The "Chinese Dream" links personal aspiration to national revival; tech success stories reinforce narratives of catch-up and surpassing the West; smartphone access becomes part of modern Chinese identity.
+
+__Legitimating Narrative & Ideology:__ Platform capitalism operates within party-state bounds; entrepreneurs publicly align with state goals; the permitted ideology is growth, stability, and technological leadership.
+
+__Artistic Expression & Material Culture:__ Smartphone aesthetics dominate — thin devices, app icons, QR codes everywhere; livestreaming and short video create new performance formats; traditional forms persist but lose youth attention.
+
+__Form Exhaustion & Meaning Decay:__ State propaganda retains its forms but engagement shifts to platform entertainment; official messaging competes poorly for attention against gaming and social feeds; the gap between official culture and lived digital experience widens.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Practical materialism dominates; spiritual seeking continues in private but public discourse is secular; smartphone engagement fills time once available for contemplation.
+
+__Ritual, Devotion & Sacred Practice:__ WeChat red envelopes digitize Lunar New Year traditions, blending commerce with ritual; temple attendance persists but apps mediate even religious scheduling.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhism and folk religion retain mass participation; Christianity grows in urban areas; state registration requirements constrain institutional development; doctrinal authority remains fragmented.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Consumer culture and platform entertainment displace traditional spiritual frameworks in daily attention; the sacred is not replaced but pushed to the margins of screen-filled lives.
+
+__Disenchantment & Sacred Discharge:__ Meaning-seeking persists but finds fewer traditional channels; the void is filled with commerce and entertainment rather than confronted; the spiritual residue is a diffuse emptiness masked by constant stimulation.

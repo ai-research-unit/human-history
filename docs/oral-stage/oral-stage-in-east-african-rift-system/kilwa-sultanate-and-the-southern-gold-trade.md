@@ -1,69 +1,140 @@
-# __1400 CE – 1500 CE__ — Kilwa Sultanate and the Southern Gold Trade
-__Summary:__ A static snapshot of the Kilwa Sultanate at the peak of its commercial and architectural florescence, when monopoly control over the Sofala gold trade from the Zimbabwe interior transformed a coral-rag island settlement into the wealthiest polity on the East African coast. The binding constraint is access to the gold feeder port at Sofala, which Kilwa secures through political suzerainty and maritime reach; without that chokepoint the city's entire wealth hierarchy collapses. Margins are narrow: the monsoon calendar admits only seasonal shipping windows, and a rival seizing Sofala would sever the lifeline overnight. The direction of change is stable accumulation — the palace complex of Husuni Kubwa just completed, the Great Mosque repeatedly enlarged — but the system carries no defense in depth against naval disruption, a vulnerability that will prove fatal within a generation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Kilwa Kisiwani sits on a small island off the Tanzanian coast, approachable only through narrow channels; the Swahili corridor runs north to Mombasa and south to Sofala, with the Zambezi-Zimbabwe interior as the gold hinterland reached via dhow and porterage.<br><br>
-__Climate Regime & Volatility:__ Tropical maritime climate with bimodal monsoon rains; seasonal reversal of winds (northeast kaskazi, southwest kusi) dictates the annual shipping calendar with minimal interannual variability.<br><br>
-__Hazard Regime & Exposure:__ Cyclone tracks occasionally approach; coral foundations resist moderate storms, but no deep-water harbor provides shelter from extreme events; seismic exposure negligible.<br><br>
-__Resource & Energy Endowment:__ The island lacks mineral or timber wealth; coral-ite and mangrove poles supply construction material; fresh water drawn from wells penetrating the coral lens.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density and tidal flushing disperse organic wastes; accumulated midden indicates steady but non-critical loading on the nearshore sink.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria endemic along the coast but somewhat buffered by island breezes; dysentery and waterborne diseases present; elite life expectancy appears moderate by regional standards.<br><br>
-__Nutrition & Physiological Vitality:__ Fish, rice, sorghum, and imported luxuries provision the population; elite skeletal remains indicate adequate nutrition without signs of chronic deficiency.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny permitted under Islamic law; elite lineages intermarry with Arab and Persian merchant families, broadening alliance networks.<br><br>
-__Demographic Renewal & Density:__ Town population perhaps 10,000–15,000 at peak; renewal stable under current prosperity; immigration of merchants and craftsmen supplements natural growth.<br><br>
-__Attrition & Dependency Overhang:__ Slave labor absorbs much heavy work; aged and widowed elite women retain property rights under Islamic inheritance; dependency load diffused rather than concentrated.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Staple fish and mainland grain imports ensure food security; the island cannot feed itself, but trade surplus purchases reliable supply with comfortable margin.<br><br>
-__Energy Capture & Conversion:__ Human muscle and monsoon sail power all production and transport; no animal traction on the island; charcoal and firewood imported for cooking and metalwork.<br><br>
-__Labor Organization & Coercion:__ Slave and client labor supports elite households and construction; free artisans — masons, weavers, smiths — work for wages or shares; coercion moderate but present.<br><br>
-__Production & Surplus Capacity:__ The sultanate produces little beyond textiles and craft goods; surplus derives overwhelmingly from trade arbitrage between interior gold and overseas manufactures.<br><br>
-__Storage, Reserves & Buffering:__ Husuni Kubwa's warehouse courts hold trade goods; elite treasuries accumulate gold, ivory, and imported ceramics; the buffer is deep so long as trade flows.<br><br>
-__Exchange, Trade & Logistics:__ Kilwa sits at the nexus of Zimbabwe gold, Sofala ivory, and Indian Ocean cloth, ceramics, and beads; dhow fleets ply seasonal routes; clearing velocity tied to monsoon windows.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Kilwa mints copper coinage (the only Swahili mint); gold circulates by weight; credit extended by Indian and Arab merchant networks; deferred obligations underpin caravan advances.<br><br>
-__Surplus Extraction & Redistribution:__ Sultan levies customs duties (likely 10–20 percent) and tribute from subordinate ports; revenue finances palace, mosque, and military retinue.<br><br>
-__Wealth Distribution & Asset Defense:__ Extreme concentration: the sultan and a handful of merchant-noble families control the gold pipeline; coral-stone houses mark elite status; property protected by Islamic law and lineage solidarity.<br><br>
-__Byproducts & Waste Routing:__ Craft residues (iron slag, shell debris, textile scraps) accumulate in midden zones; volume modest relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Merchant networks rely on reputation and kin guarantees; trust radius extends along trade diasporas to the Persian Gulf and Gujarat; aid obligations flow through mosque charity and lineage.<br><br>
-__Stratification, Status & Group Identity:__ Sharp hierarchy: Arab-Swahili patricians at top, free commoners, then slaves; status marked by stone housing, dress, and burial rite; boundaries firm but permeable through intermarriage and conversion.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent with Islamic inheritance rules (daughters receive half-shares); matrilateral kin retain social importance; marriage alliance critical for commercial partnership.<br><br>
-__Civic Association & Self-Organization:__ Guilds or craft quarters organize artisans; neighborhood mosques serve as nodes of mutual obligation; no formal councils below the sultan's court.<br><br>
-__Leisure, Play & Sociability:__ Festivals at Eid and Maulid; public poetry and music at court; chess and board games attested; sociability centered on the mosque courtyard and marketplace.<br><br>
-__Grievance Channels & Social Discharge:__ Mosque mediation and sultan's audience absorb disputes; slavery channels captive populations into the system rather than generating organized grievance; residual tensions among slave populations unrecorded but present.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sultan holds supreme authority, advised by a council of notables; succession contested among rival lineages but confined within the dynasty; power centralized at Kilwa with tributary control over Sofala and lesser ports.<br><br>
-__Succession & Power Transfer:__ Hereditary within the Mahdali-Shirazi dynasty but not strictly primogeniture; succession disputes frequent, occasionally violent, but the system absorbs them without collapse.<br><br>
-__Legitimacy & Political Narrative:__ Shirazi origin myth claims Persian ancestry and rightful rule; Islamic piety reinforces legitimacy; the Great Mosque embodies the sultan's devotion and patronage.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Qadi and scribes maintain Islamic legal administration; customs collection relies on port officials; corruption moderated by kin oversight; reach limited beyond the coast.<br><br>
-__Political Participation & Mobilization:__ Elite notables advise; commoners petition through mosque channels; no mass mobilization; succession crises the main moment of broader involvement.<br><br>
-__Geopolitical Position & External Relations:__ Kilwa dominates the southern Swahili coast; Mogadishu and Mombasa are rivals to the north; relations with Zimbabwe interior mediated through Sofala intermediaries; no external naval threat perceived.<br><br>
-__Coercive Apparatus & Means of Force:__ Small standing guard and armed dhows; no fortifications; reliance on commercial leverage and alliance rather than military force; vulnerability to any power with superior naval capacity.<br><br>
-__Internal Order & Threat Environment:__ Low crime; slave resistance sporadic and suppressed; piracy minimal in this period; internal order secure.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ News travels by dhow and caravan; information reaches Kilwa from Gujarat within a monsoon season; local transmission is face-to-face and rapid within the island.<br><br>
-__Record, Storage & Persistence:__ The Kilwa Chronicle (Arabic script) records dynastic history; commercial accounts kept by literate merchants; however, the majority of the population — commoners, slaves, hinterland peoples — relies entirely on oral memory for legal, genealogical, and cultural knowledge.<br><br>
-__Framing, Censorship & Discourse Norms:__ Court controls the official chronicle; religious discourse shaped by ulama; no formal censorship, but dissent from Islamic orthodoxy risks social exclusion.<br><br>
-__Reception, Attention & Amplification:__ Mosque sermons and marketplace gossip amplify news; poetry and song spread information among non-literate audiences.<br><br>
-__Signal Integrity & Noise Load:__ Small-scale society with dense face-to-face networks maintains high signal integrity; rumor present but quickly checked against known sources.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Islamic ethics provide the moral baseline; fairness in trade, charity to the poor, and fulfillment of contracts are core values.<br><br>
-__Law, Codification & Regulatory Evolution:__ Sharia as interpreted by Shafi'i school governs personal, commercial, and criminal matters; customary Swahili practice fills gaps; codification limited to Quran and hadith compilations.<br><br>
-__Adjudication, Enforcement & Liability:__ Qadi adjudicates disputes; sultan enforces criminal penalties; liability assigned per Islamic jurisprudence; enforcement effective within the town.<br><br>
-__Rights, Protections & Compliance Burden:__ Free Muslims enjoy property and legal protections; slaves have limited rights (manumission possible); compliance burden low for those within the system.<br><br>
-__Impunity & Unredressed Wrong:__ Elite may escape full penalty through influence; slave grievances rarely reach adjudication; impunity gap small but real.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Islamic learning — Quranic exegesis, jurisprudence, Arabic grammar — constitutes the formal paradigm; natural philosophy limited to practical navigation and medicine.<br><br>
-__Applied Knowledge & Technical Method:__ Coral-stone masonry, dhow construction, monsoon navigation, and gold assaying represent the applied arts; techniques transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Quranic schools educate elite males; literacy in Arabic confined to a small percentage; artisan skills widespread among craft populations; oral knowledge dominates among commoners.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge stock stable; no major paradigm shift; risk of decay low given continuous transmission within living tradition.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Shirazi origin myth anchors elite identity in Persian heritage; Islamic civilization provides the broader frame; Swahili synthesis blends Bantu, Arab, and Persian elements.<br><br>
-__Artistic Expression & Material Culture:__ Coral-stone architecture (Husuni Kubwa, Great Mosque), Chinese porcelain display, carved wooden doors, cotton textiles, and silver jewelry define the material aesthetic.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence and prosperity characterize the elite mood; the sultanate is at its zenith, and no external threat clouds the horizon.<br><br>
-__Form Exhaustion & Meaning Decay:__ Artistic and religious forms remain vital; no evident exhaustion; the Swahili synthesis is still in its creative phase.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Sunni Islam provides the metaphysical frame; God's will governs fortune; piety earns afterlife reward; ancestors and spirits acknowledged but subordinated to Islamic theology.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Friday congregation, Ramadan fasting, and Hajj pilgrimage (for the wealthy) structure devotional life; Sufi orders may be present but not dominant.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The qadi and ulama enforce Shafi'i orthodoxy; the Great Mosque is the institutional center; no rival sects challenge authority.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam has displaced earlier Bantu spiritual practice among the elite and urban population; syncretic elements (spirit possession, ancestor veneration) persist among commoners and slaves.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the sacred order is intact and provides meaning across social strata, though slave populations may retain alternative spiritual resources not visible in the record.<br><br>
+# __1,400 CE – 1,500 CE__ — Kilwa Sultanate and the Southern Gold Trade
+
+__Summary:__ Kilwa Kisiwani at its commercial apex, commanding the southern terminus of the Indian Ocean gold trade through its dependency at Sofala. The binding constraint of the Oral Stage holds: Swahili is written in Arabic script by a small literate elite of merchants and scholars, but governance, trade negotiation, credit, and the transmission of maritime knowledge all ride on spoken word and remembered obligation; the sultanate's reach depends on personal relationships maintained through speech, seasonal voyages, and the trust that face-to-face dealing builds across the monsoon cycle.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Kilwa Kisiwani is a coral island off the southern Tanzanian coast, accessible only by dhow or canoe, its insularity providing defense and controlling harbor access. The Sofala trade corridor runs southward along the Mozambique coast, where the Zambezi and Save rivers penetrate the interior to the Zimbabwe Plateau gold fields. Monsoon winds dictate sailing seasons: northeast monsoon (November–March) brings dhows from Arabia, India, and the Persian Gulf; southwest monsoon (April–October) returns them. The 1,500-kilometer coastal stretch between Kilwa and Sofala requires coasting voyages, while the interior gold routes traverse tsetse-infested lowlands before climbing to the plateau.
+
+__Climate Regime & Volatility:__ Tropical monsoon climate with distinct wet and dry seasons governs agricultural potential on the coast and islands. Interannual rainfall variability affects hinterland food production but not the maritime trade itself, which depends on wind patterns rather than precipitation. The Indian Ocean Dipole influences monsoon strength; abnormal seasons can delay fleets and disrupt trading cycles.
+
+__Hazard Regime & Exposure:__ Cyclone risk is lower than in the northern Indian Ocean but not absent; storm surges can damage harbor infrastructure. Coral islands are vulnerable to sea-level fluctuation. Drought in the African interior affects gold production and the food supply feeding mining communities but not Kilwa directly.
+
+__Resource & Energy Endowment:__ Kilwa itself has no gold, ivory, or significant agricultural hinterland; its wealth derives entirely from controlling the entrepot function. Coral limestone provides building material for the stone town. Firewood and charcoal come from the mainland. Fish and coconuts supplement imported grain. The gold originates on the Zimbabwe Plateau, mined from alluvial deposits and shallow shafts by Shona-speaking communities.
+
+__Waste Absorption & Sink Capacity:__ The island's small size concentrates human waste near the harbor; coral rock limits groundwater. Refuse middens accumulate. No industrial pollution exists; the trade economy generates little physical waste beyond organic matter and broken pottery. Absorptive capacity is adequate for the population scale.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria is endemic on the coast and lethal in the lowlands separating coast from plateau. Visitors from Arabia and India face higher mortality than acclimated coastal populations. Gastrointestinal diseases from contaminated water affect the town. Plague and epidemic disease occasionally arrive via shipping but are not documented in this window.
+
+__Nutrition & Physiological Vitality:__ The merchant elite eats well: imported rice, dates, and spices supplement local fish, coconut, and mainland grains. Hinterland populations providing food to the coast may be more nutritionally marginal. No evidence of widespread malnutrition among Kilwa's urban population.
+
+__Care, Healing & Recovery Capacity:__ Islamic medical traditions circulate among literate scholars; Galenic humoral medicine coexists with local herbalism. No hospitals exist; care is familial and domestic. Healing capacity is limited but adequate for a population of several thousand.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal kinship and Islamic marriage law govern elite households; polygyny is practiced. Intermarriage between Arab, Persian, and African lineages produces the Swahili patriciate. Slave concubinage supplements formal marriage. Fertility appears stable; no demographic crisis is recorded.
+
+__Demographic Renewal & Density:__ Kilwa's population in this period is estimated at 10,000–15,000, making it one of the largest towns in sub-Saharan Africa. Immigration from the Arabian world and the African mainland supplements natural increase. Population density is high within the stone town, lower in surrounding settlements.
+
+__Attrition & Dependency Overhang:__ Slaves perform domestic labor and reduce dependency burden on free households. Aged and infirm are supported within extended families. No evidence of demographic crisis or overwhelming dependency load.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Kilwa imports grain from the mainland and Madagascar; local fishing and coconut cultivation supplement but cannot sustain the population alone. The provisioning floor depends entirely on trade-generated wealth to purchase food imports. A collapse of commerce would collapse the town.
+
+__Energy Capture & Conversion:__ Human and wind power dominate. Dhows harness monsoon winds; porters and donkeys move goods overland; slaves provide domestic labor. No watermills or animal-powered machinery; energy ceiling is low but adequate for a commercial entrepot.
+
+__Labor Organization & Coercion:__ Slavery is pervasive: domestic slaves, agricultural slaves on mainland plantations, and slaves in transit as trade goods. Free labor includes sailors, artisans, and petty traders. Coercion is high for the enslaved; compensation and profit-sharing characterize free merchant partnerships.
+
+__Production & Surplus Capacity:__ Kilwa produces little; it profits from exchange. Surplus derives from the markup on gold, ivory, and slaves transshipped between the African interior and Indian Ocean markets. Artisans produce cotton cloth, beads, and pottery, but primary production occurs elsewhere.
+
+__Storage, Reserves & Buffering:__ Merchant warehouses hold goods awaiting monsoon sailing; granaries buffer against delayed food shipments. Credit instruments and debt relationships buffer against seasonal cash flow. Reserves are adequate in normal years but vulnerable to prolonged trade disruption.
+
+__Exchange, Trade & Logistics:__ This is Kilwa's core function. Gold from the Zimbabwe Plateau reaches Sofala, where Kilwa merchants collect and transship it. Ivory, slaves, ambergris, and mangrove poles flow outward; cotton cloth (especially from Gujarat), glass beads, porcelain, and metalware flow inward. Dhow captains, agents, and factors in ports from Mogadishu to Sofala to Cambay form a network maintained by personal trust, intermarriage, and oral contract. The dependency on the Sofala route concentrates vulnerability: whoever controls Sofala controls access to gold.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold dust and copper ingots serve as value stores. Cowrie shells circulate in local markets. Credit is extended on reputation and oral agreement; written contracts exist but are secondary to personal trust. Debt relationships span monsoon cycles, binding trading partners across years.
+
+__Surplus Extraction & Redistribution:__ The sultan extracts customs duties on imports and exports, taxing the commercial throughput. These revenues fund the court, the mosque, and the stone architecture that advertises Kilwa's wealth. Redistribution through patronage, charity, and mosque-based almsgiving maintains social cohesion.
+
+__Wealth Distribution & Asset Defense:__ The stone-town patriciate concentrates wealth; merchants, shipowners, and scholars form an urban elite. Slaves and hinterland farmers occupy the bottom. Inequality is stark but stable within the commercial system. Wealth is defended by insularity, alliances, and the sultan's authority.
+
+__Byproducts & Waste Routing:__ Organic waste from food processing and harbor activity accumulates. Broken pottery and discarded imports create middens that archaeologists later excavate. No industrial effluent; waste is dispersed rather than concentrated.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrician families trace descent through named lineages; inheritance follows Islamic law with modifications for local custom. Intermarriage between merchant houses consolidates wealth and alliance. Slaves are property inherited with estates.
+
+__Association & Mutual Aid:__ Mosque communities, trading partnerships, and guild-like associations of sailors and artisans provide mutual aid. Ethnic quarters (Arab, African, mixed) structure residential patterns. Patronage networks tie clients to wealthy households.
+
+__Leisure, Play & Sociability:__ Festivals, weddings, and religious holidays bring public celebration. Poetry recitation, storytelling, and music mark social gatherings. The mosque is the center of male sociability; domestic compounds are the domain of women.
+
+__Stratification, Status & Group Structure:__ Waungwana (freeborn patricians) stand above slaves and recent immigrants. Within the free population, wealth, learning, and piety confer status. Shirazi origin myths distinguish coastal Swahili from interior Africans and claim Persian ancestry, reinforcing elite identity.
+
+__Administrative Capacity & Institutional Integrity:__ The sultan governs through appointed officials, qadis (Islamic judges), and the authority of his household. Administration is personal rather than bureaucratic; record-keeping is minimal. The sultanate controls Sofala through a governor but otherwise rules loosely over subordinate towns. Corruption exists but does not paralyze governance.
+
+__Coercive Apparatus & Means of Force:__ The sultan commands armed retainers and can call on allied merchants for defense. Kilwa's navy is modest; its defense relies on insularity and diplomacy rather than military force. Fortifications are minimal; the stone town's walls are more symbolic than defensive. Against a determined naval assault, Kilwa would be vulnerable.
+
+__Discharge, Disorder & Decay:__ Succession disputes occasionally disrupt the sultanate; rival claimants contest the throne. Piracy and competition from other Swahili towns create friction. But in this window, Kilwa's commercial dominance is unchallenged, and disorder is contained. The apparatus is adequate for current demands.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence pervades the merchant elite; Kilwa is rich, respected, and central to a vast trading world. Pride in the stone town, the mosque, and the sultan's court reflects collective self-regard. Trust within the merchant community is high; credit relationships depend on it.
+
+__Leadership & Personal Authority:__ The sultan embodies legitimate authority, combining Islamic piety with commercial competence. Successful merchants wield personal authority through wealth and reputation. Charismatic preachers and scholars command respect.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to the sultan rests on his role as arbiter, protector, and dispenser of patronage. Islamic legitimacy reinforces dynastic claims. Shirazi origin myths bind the patriciate to the ruling house. Disaffection is not evident in this period of prosperity.
+
+__Political Will & Collective Resolve:__ The sultan and merchant elite share an interest in maintaining the gold trade; collective will is aligned toward commerce. Succession disputes reveal competing ambitions but do not fracture the system. Resolve to defend the commercial order is high.
+
+__External Relations & Posture:__ Kilwa maintains diplomatic relations with Indian Ocean trading partners and subordinate Swahili towns. No major rivals challenge its position; relations are cooperative rather than hostile. The interior gold-producing polities are partners, not subjects. Kilwa's posture is commercial, not imperial.
+
+__Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; the system is at its peak. Slaves lack voice in the record, but no revolt is documented. Will and allegiance are intact.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Swahili is the lingua franca, spoken by all strata. Arabic is the language of religion and high culture, known to scholars and some merchants. Literacy in Arabic script is confined to a small elite; most communication is oral. Mutual intelligibility across the Swahili coast is high.
+
+__Channels & Transmission Velocity:__ Information travels by dhow along the coast and by caravan into the interior. News from Arabia or India arrives with the monsoon fleet; interior information reaches the coast with returning traders. Transmission velocity is seasonal, gated by wind and walking speed. Urgent messages cannot outpace these limits.
+
+__Record, Storage & Persistence:__ Written records exist: Quranic texts, legal documents, letters between merchants. But the archive is small; most knowledge is stored in living memory. Oral tradition preserves genealogies, origin myths, and commercial knowledge. Loss of key individuals means loss of information.
+
+__Framing, Censorship & Discourse Norms:__ Islamic norms shape public discourse; piety and orthodoxy are expected. Criticism of the sultan or powerful merchants is dangerous. Poetry and proverb encode indirect commentary. Censorship is informal but effective within the small elite.
+
+__Reception, Attention & Amplification:__ The mosque serves as a node for news dissemination; Friday sermons reach the entire community. Market gossip amplifies commercial information. The oral public sphere is dense within the small town.
+
+__Signal Integrity & Noise Load:__ Trust in informants is the primary verification mechanism; reputation filters noise. False reports can circulate but are corrected through repeated contact. Signal integrity is high within the trusted merchant network, lower with strangers.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Islamic law provides the moral framework: contracts are sacred, theft is punished, charity is obligatory. The legitimacy of slavery is unquestioned; slaves are property, not persons before the law. Justice for the free is real; justice for slaves is what masters grant.
+
+__Law, Codification & Regulatory Evolution:__ Sharia governs personal status, inheritance, and commercial law. The qadi adjudicates disputes according to Islamic jurisprudence. Customary law coexists for matters not covered by sharia. Codification is oral transmission of legal tradition, not written codes.
+
+__Adjudication, Liability & Sanction:__ The qadi hears cases; the sultan enforces judgments. Sanctions include fines, corporal punishment, and banishment. Debt disputes are common; reputation damage is itself a sanction in a trust-based economy.
+
+__Rights, Protections & Compliance Burden:__ Free Muslims enjoy protected rights under sharia; slaves and non-Muslims have fewer protections. Compliance burden is low for legitimate commerce; customs duties are predictable. The legal system facilitates rather than obstructs trade.
+
+__Impunity & Unredressed Wrong:__ The powerful can evade justice; slaves have no recourse against masters. Impunity exists but does not destabilize the system. Unredressed wrongs accumulate among the voiceless.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Islamic theology and jurisprudence constitute the dominant intellectual framework. No natural philosophy or systematic inquiry into the material world is documented. The paradigm is received tradition, not active discovery.
+
+__Applied Knowledge & Technical Method:__ Navigation relies on accumulated oral knowledge of winds, currents, stars, and coastal landmarks. Shipbuilding follows inherited designs. Goldsmithing, weaving, and construction embody practical technique transmitted through apprenticeship. Innovation is incremental.
+
+__Education, Knowledge Stock & Skill Distribution:__ Quranic schools teach literacy in Arabic to a minority; advanced learning is available only in major centers. Most knowledge transmission is oral and practical. Skill distribution is narrow; specialized knowledge resides in few hands.
+
+__Obsolescence & Knowledge Decay:__ The death of a master navigator or goldsmith can mean loss of technique. Oral transmission is vulnerable; each generation must re-learn. Obsolescence is less a problem than preservation; the system conserves rather than innovates.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Shirazi origin myths claim descent from Persian settlers, distinguishing coastal Swahili from interior Africans and legitimating the patriciate. Islam provides the deeper identity layer: to be Swahili is to be Muslim and urban. The stone town itself embodies identity: coral houses, mosques, and tombs mark civilized life against the "bush" interior.
+
+__Legitimating Narrative & Ideology:__ The sultan's authority rests on dynastic continuity, Islamic piety, and commercial success. The narrative of Kilwa's greatness justifies the existing order. Wealth demonstrates divine favor.
+
+__Artistic Expression & Material Culture:__ Stone architecture with coral-block construction, carved wooden doors, and imported porcelain display wealth and taste. Jewelry, fine textiles, and elaborately carved tombs mark status. Swahili poetry, composed and recited orally, is the premier art form; written poetry exists but circulates through performance.
+
+__Form Exhaustion & Meaning Decay:__ Forms are vital; the stone town is still being built and elaborated. No exhaustion is evident. Symbols and styles carry meaning and prestige.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Sunni Islam provides the cosmological frame: one God, prophetic revelation, the Day of Judgment. The world is ordered by divine law; human duty is submission and righteousness. Fatalism coexists with commercial striving; success and failure alike are God's will.
+
+__Ritual, Devotion & Sacred Practice:__ The five daily prayers, Friday congregational worship, Ramadan fasting, and the hajj (for those who can afford it) structure religious life. Sufi orders may be present but are not well documented. Popular religion includes veneration of saints and spirits alongside orthodox practice.
+
+__Religious Institutions & Doctrinal Authority:__ The mosque is the institutional center; the imam leads prayer, the qadi administers justice. No formal hierarchy above the local level; authority rests on learning and reputation. Orthodoxy is maintained through education and social pressure.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam is consolidated on the coast; syncretism with African spirit beliefs persists but is subordinated to Islamic practice. The interior remains largely non-Muslim. Conversion follows trade routes but has not penetrated far from the coast.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident; Islam provides a living cosmology. The sacred is present in daily life, enacted through prayer and the moral order of the community.
+

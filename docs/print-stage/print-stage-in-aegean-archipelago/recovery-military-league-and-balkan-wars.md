@@ -1,69 +1,139 @@
-# __1897 CE – 1913 CE__ — Recovery, Military League, and Balkan Wars
-__Summary:__ Greece recovered from the 1897 defeat through fiscal stabilization under international supervision, military reorganization, and political renewal culminating in Venizelos's reformist government; the binding constraint shifted from fiscal incapacity to military readiness, resolved by the 1909 Military League intervention and subsequent modernization, enabling Greece to double its territory in the Balkan Wars of 1912-1913 and acquire Thessaloniki, Epirus, Macedonia, and Crete.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Greek state expanded from approximately 65,000 to 120,000 square kilometers; mountainous terrain in Epirus and Macedonia complicated integration; the Aegean coastline extended; Thessaloniki provided a major port on the northern frontier; Crete's annexation closed the southern maritime gap.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate persisted; northern acquisitions brought colder winters and more variable precipitation; agricultural calendars adjusted to new zones; no secular climate shift within the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk continued; 1905 earthquake damaged parts of the Peloponnese; war zones in Macedonia and Epirus exposed populations to destruction beyond natural hazards; settlement patterns in newly acquired areas inherited Ottoman infrastructure vulnerabilities.<br><br>
-__Resource & Energy Endowment:__ Territorial expansion added Macedonian agricultural land, forests, and mineral deposits including chromite and lignite; Thessaloniki's commercial infrastructure enhanced trade capacity; overall resource base significantly expanded.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban growth in Athens accelerated; Thessaloniki's integration added another concentration point; wartime destruction generated debris; sanitation systems remained rudimentary but loads stayed within dispersal capacity at prevailing population and industrial levels.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria endemic in lowlands; wartime conditions elevated typhus and cholera risk; military casualties and disease deaths significant during campaigns; post-war public health efforts beginning; infant mortality declining but still high.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant nutrition stable; military provisioning strained during campaigns; post-war Macedonian grain lands improved aggregate food security; physiological vitality modestly improving with better harvests and reduced rural isolation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility norms continued; war deaths created widow populations; marriage patterns stable; biological reproductive capacity unimpaired; post-war population growth anticipated.<br><br>
-__Demographic Renewal & Density:__ Population grew from approximately 2.4 million to 4.8 million with territorial annexations; natural increase positive; emigration continued but offset by incorporation of Greek populations in new territories; density varied sharply between old and new provinces.<br><br>
-__Attrition & Dependency Overhang:__ War widows and orphans increased the dependency load; wounded veterans required support; extended family networks absorbed most dependents; state pension systems rudimentary; load elevated but still within absorptive capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant agriculture remained the base; Macedonian annexation added productive grain land; currant sector recovered from 1890s collapse; subsistence secure for most households outside war-affected zones.<br><br>
-__Energy Capture & Conversion:__ Steam power expanded in shipping and manufacturing; railway network extended; electrification beginning in Athens; per-capita energy capture rising but still below Western European levels; animal and human muscle remained dominant in agriculture.<br><br>
-__Labor Organization & Coercion:__ Free wage labor predominated; industrial workforce growing in Piraeus and Thessaloniki; emigrant remittances supported rural households; labor organization nascent; coercion limited to informal debt arrangements.<br><br>
-__Production & Surplus Capacity:__ Agricultural output expanded with new territories; manufacturing grew in textiles, food processing, and shipbuilding; tobacco became a major export; surplus capacity significantly enhanced by territorial gains; war mobilization temporarily diverted production.<br><br>
-__Storage, Reserves & Buffering:__ International Financial Commission oversight stabilized state finances; treasury rebuilt through imposed fiscal discipline; merchant inventories and household stores provided private buffers; reserves improved but not yet robust.<br><br>
-__Exchange, Trade & Logistics:__ Thessaloniki's acquisition transformed commercial geography; railway connections to central Europe via Balkans; Piraeus expanded; coastal shipping integrated islands; war disrupted trade temporarily but post-war prospects brightened.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Drachma stabilized under international supervision; National Bank expanded credit; foreign investment increased post-1909; debt service continued but manageable; capital formation accelerating with political stability.<br><br>
-__Surplus Extraction & Redistribution:__ Tax system reformed under international pressure; customs revenue increased with trade expansion; military spending absorbed largest share of budget; infrastructure investment resumed; extraction efficiency improved.<br><br>
-__Wealth Distribution & Asset Defense:__ Land redistribution limited; commercial wealth concentrated in Athens, Piraeus, and now Thessaloniki; new territories brought established Greek merchant families into the state; wealth defended through banking, property registration, and political connections.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste increased with manufacturing growth; urban refuse management minimal; wartime debris left in conflict zones; dispersal capacity adequate at current scale; no acute saturation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kin and village networks remained strong; national mobilization for war temporarily elevated cross-regional solidarity; incorporation of new populations introduced unfamiliar communities; trust radius expanding with shared victory.<br><br>
-__Stratification, Status & Group Identity:__ Merchant and professional elites consolidated influence; military officers gained prestige post-1909; peasantry remained the majority; new territories added established Greek elites plus Muslim and Jewish populations whose status became uncertain; ethnic Greek identity reinforced by territorial success.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal household norms continued; war disrupted some families; dowry and partible inheritance persisted; extended family co-residence common; kinship structures unchanged.<br><br>
-__Civic Association & Self-Organization:__ Patriotic leagues, veterans' associations, and irredentist clubs flourished; professional associations strengthened; trade unions emerging in Piraeus; diaspora organizations celebrated territorial gains; associational fabric thickening.<br><br>
-__Leisure, Play & Sociability:__ Coffeehouse culture expanded; theatre and cinema appeared in Athens; sports clubs formed; religious festivals continued; military victories celebrated publicly; sociability enriched by urban growth and national confidence.<br><br>
-__Grievance Channels & Social Discharge:__ Emigration continued as safety valve; 1909 Military League channeled officer frustrations into reform rather than coup; electoral politics absorbed civilian grievances; Venizelos reforms addressed middle-class demands; friction metabolized through political channels and national success.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy continued under George I until his assassination in Thessaloniki (March 1913); Constantine I succeeded; parliament strengthened after 1909; Venizelos dominated as prime minister from 1910; executive power concentrated but constitutionally bounded.<br><br>
-__Succession & Power Transfer:__ George I assassinated; Constantine's succession smooth; electoral transfer to Venizelos demonstrated parliamentary routine; Military League intervention of 1909 extraconstitutional but resulted in constitutional reform rather than military rule; transfer mechanisms strengthening.<br><br>
-__Legitimacy & Political Narrative:__ Balkan Wars victories restored national confidence damaged in 1897; Venizelos embodied modernizing nationalism; Megali Idea validated by territorial gains; legitimacy rebuilt through military success and reform program.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Venizelos reforms improved bureaucratic efficiency; new territories required administrative integration; census, land registration, and tax collection extended; corruption reduced but not eliminated; capacity expanding but strained by territorial doubling.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage continued; electoral participation high; Venizelos's Liberal Party mobilized middle-class and reformist constituencies; press campaigns shaped opinion; participation broadened beyond patron-client networks.<br><br>
-__Geopolitical Position & External Relations:__ Balkan League (Greece, Serbia, Bulgaria, Montenegro) defeated Ottoman Empire 1912; Second Balkan War against Bulgaria 1913; great powers recognized gains at London and Bucharest; Greece emerged as significant regional actor; alliance with Serbia established.<br><br>
-__Coercive Apparatus & Means of Force:__ Army reorganized with French mission assistance; conscription systematized; navy modernized with new cruisers and destroyers; Balkan Wars demonstrated improved operational capacity; military prestige high; command unified under crown.<br><br>
-__Internal Order & Threat Environment:__ Internal order stable; brigandage suppressed; new territories presented integration challenges with mixed populations; Greek administration imposed order, though Muslim and Bulgarian populations faced pressure; disorder contained.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph network expanded to new territories; telephone introduced in Athens; newspapers distributed more rapidly; war correspondents reported from fronts; information velocity increased; foreign press coverage brought international attention.<br><br>
-__Record, Storage & Persistence:__ State archives expanded; military records from campaigns preserved; newspapers documented events extensively; print ensured persistence; new territories required cadastral and population surveys.<br><br>
-__Framing, Censorship & Discourse Norms:__ Wartime censorship applied to military information; patriotic framing dominant; press relatively free otherwise; demotic Greek gained ground in journalism; katharevousa remained official; discourse norms loosening toward vernacular.<br><br>
-__Reception, Attention & Amplification:__ War news commanded intense attention; victory celebrations amplified through print and public gatherings; literacy spreading; coffeehouse reading extended newspaper reach; national consciousness heightened.<br><br>
-__Signal Integrity & Noise Load:__ Wartime rumor and propaganda elevated noise; multiple newspaper perspectives available; foreign correspondents provided external verification; post-war, signal quality stabilized; noise manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor, property, and national rights remained moral anchors; military victory reinforced sense of righteous cause; justice understood as territorial redemption fulfilled; treatment of minorities in new territories raised questions some chose not to examine.<br><br>
-__Law, Codification & Regulatory Evolution:__ Greek law extended to new territories; Ottoman land law replaced; commercial regulations standardized; constitutional revision of 1911 strengthened civil rights; regulatory framework modernizing.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts established in new territories; enforcement improving with administrative capacity; military courts handled wartime offenses; civilian judiciary backlogged but functional; liability assignment more systematic.<br><br>
-__Rights, Protections & Compliance Burden:__ 1911 constitution enhanced rights protections; press freedom, property rights, and personal liberty guaranteed; minorities in new territories faced uncertain protection; compliance burden moderate for citizens, heavier for newly incorporated populations.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity reduced under reform government; wartime atrocities in new territories largely unexamined; wrongs against departing Muslim populations went unredressed; judicial deficit present but not destabilizing given national triumph.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ University expanded; nationalist historiography celebrated expansion; archaeology continued under Greek and foreign direction; positivist social science emerging; inquiry increasingly oriented toward state-building and national development.<br><br>
-__Applied Knowledge & Technical Method:__ Military modernization imported foreign techniques; railway and port engineering advanced; agricultural extension beginning; medical training improved; applied knowledge transfer accelerating.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary education mandatory; literacy reaching approximately 50 percent; gymnasium network expanded; teacher training colleges established; skill distribution improving, especially in urban areas; new territories required educational integration.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional crafts declining against imported manufactures; classical education criticized for impracticality; technical education expanding to address this; knowledge stock growing faster than decay.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Balkan Wars victories added to foundational memory alongside 1821; Thessaloniki recovered from centuries of Ottoman rule; Crete's union fulfilled long-standing aspiration; 1897 humiliation redeemed; Megali Idea seemingly vindicated.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical style continued in public architecture; academic painting depicted war victories and national themes; folk culture persisted in villages; urban culture increasingly European; Thessaloniki's cosmopolitan texture introduced new influences.<br><br>
-__Collective Mood & Behavioral Disposition:__ National confidence restored and elevated; triumphalism following victories; modernizing optimism under Venizelos; risk appetite increased; collective mood buoyant and expansive.<br><br>
-__Form Exhaustion & Meaning Decay:__ Megali Idea reinvigorated rather than exhausted; demotic movement gaining cultural traction; katharevousa increasingly seen as artificial but not yet displaced; forms renewed by victory rather than hollowed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodox Christianity remained the metaphysical framework; divine providence invoked in military victories; churches in recovered territories reconsecrated; providential nationalism reinforced; secularism limited to intellectual circles.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Liturgical life continued; victory thanksgivings incorporated into church calendar; military chaplains served campaigns; fasting and feast observance unchanged; devotional practice stable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church of Greece expanded with new territories; monasteries and churches in Macedonia and Epirus incorporated; Ecumenical Patriarchate in Constantinople maintained spiritual authority for diaspora; institutional reach expanded; doctrinal orthodoxy stable.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Orthodoxy extended with Greek administration; Muslim populations departed or faced marginalization; Jewish community of Thessaloniki incorporated, maintaining distinct practice; syncretism minimal; Orthodox dominance consolidated.<br><br>
-__Disenchantment & Sacred Discharge:__ Military success reinforced rather than undermined religious confidence; intellectuals maintained secularizing tendencies but majority piety strengthened; disenchantment not advancing; spiritual need met through Orthodox triumph narrative.<br><br>
+# __1897 CE – 1913 CE — Recovery, Military League, and Balkan Wars__
+
+The binding constraint is the contradiction between discredited political institutions and revived national ambition: the 1897 humiliation delegitimizes the parliamentary oligarchy, enabling a military-reformist coalition to seize initiative, restructure state capacity through Venizelos's leadership and foreign military missions, and channel recovered national will into the Balkan Wars that double Greek territory and population — demonstrating that institutional renewal could convert print-mobilized nationalism into operational power.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Greece begins the period confined to its 1881 boundaries: mainland south of Olympus, Thessaly, Peloponnese, Attica, and the Cyclades. The Balkan Wars transform geography: Macedonia and western Thrace extend the frontier to the Rhodope and Pindus watersheds; Epirus adds the northwestern littoral; Crete formally unites (1913); and the northeastern Aegean islands (Lesbos, Chios, Samos) enter Greek sovereignty. Territory nearly doubles to approximately 120,000 km². Thessaloniki, Ottoman Europe's second city, becomes Greece's northern metropolis, connected by rail to central Europe through the Orient Express network. Geographic coherence improves with the acquisition of the Macedonian plain, though transit across the expanded state remains difficult: roads rudimentary, rail incomplete, mountainous terrain fragmenting administration.
+
+__Climate Regime & Volatility:__ Mediterranean conditions prevail in the south; continental influences strengthen in Macedonia. The expanded territory encompasses diverse microclimates: Thessalian basin, Macedonian river valleys, Aegean island aridity. No major climatic shocks mark the period.
+
+__Hazard Regime & Exposure:__ Seismic risk continues; the 1905 Zakynthos earthquake causes significant damage. War itself becomes the dominant hazard: Balkan Wars devastate Macedonian towns and villages, creating refugee flows and infrastructure destruction.
+
+__Resource & Energy Endowment:__ Macedonian acquisition adds tobacco-growing regions, timber, and mixed agriculture to the resource base. Mineral deposits (chromite, manganese) identified but undeveloped. Lignite extraction expands. Thessaloniki provides a second major port, ending Piraeus monopoly. The expanded territory remains energy-poor; coal imported for rail and industry.
+
+__Waste Absorption & Sink Capacity:__ Urban sanitation slowly improves in Athens with sewerage projects. Wartime destruction and refugee concentration create localized waste and sanitary challenges. The residue remains modest but urbanization is accelerating.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria endemic across lowland Macedonia; drainage projects planned but not executed. Typhoid, cholera, and dysentery circulate in urban slums and military camps. The Balkan Wars bring epidemic diseases: cholera kills thousands of soldiers and civilians in 1912–1913. Battlefield medicine rudimentary; wound infection mortality high.
+
+__Nutrition & Physiological Vitality:__ Rural poverty persists, but currant crisis emigration relieves population pressure and remittances improve household consumption. Urban workers face precarious nutrition. Military conscription continues to reveal widespread stunting and deficiency diseases among recruits.
+
+__Care, Healing & Recovery Capacity:__ Hospitals expand in Athens; provincial care improves incrementally. Red Cross and volunteer organizations support wartime medical services. Military medicine inadequate for wartime casualties; amputation common, rehabilitation absent.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns stable; family size remains high. War casualties create widow and orphan populations. Emigration removes young men from marriage market temporarily; returning emigrants bring savings enabling household formation.
+
+__Demographic Renewal & Density:__ Population grows from 2.4 million (1896) to approximately 4.8 million (1913 post-war) through natural increase and territorial acquisition. Macedonia and Epirus add diverse populations including Greeks, Slavs, Muslims, and Jews. Thessaloniki alone adds 150,000 inhabitants. Athens continues rapid growth toward 200,000.
+
+__Attrition & Dependency Overhang:__ War casualties (approximately 5,000 killed, 25,000 wounded in Balkan Wars) create pension obligations and disabled veteran population. Refugee flows from territory exchanged add dependency burden. Extended family networks absorb most strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agricultural expansion through territorial acquisition improves food security. Macedonian grain and tobacco production diversify the export base. Currant sector stabilized at lower production levels. Peloponnesian emigration reduces pressure on fragmented smallholdings. The subsistence floor rises slightly.
+
+__Energy Capture & Conversion:__ Steam power extends through rail expansion and industrial growth. Piraeus factories multiply. Electrical power expands in Athens and reaches Thessaloniki after annexation. The per-capita energy ceiling rises but remains below western European levels.
+
+__Labor Organization & Coercion:__ Wage labor predominates; sharecropping persists on large estates. Urban working class expands with industrialization. Socialist and labor movements emerge but remain marginal. The first labor legislation (1909) limits female and child work hours.
+
+__Production & Surplus Capacity:__ Industrial output grows: textiles, food processing, cement, shipbuilding. Thessaloniki adds manufacturing capacity. Agricultural surplus expands with Macedonian acquisition. Wartime mobilization strains productive capacity but demonstrates organizational potential.
+
+__Storage, Reserves & Buffering:__ International Financial Commission continues to control revenues through 1909; partial autonomy restored as debts retire. State reserves remain thin but fiscal position improves. Military expenditure absorbs surplus in preparation for Balkan Wars.
+
+__Exchange, Trade & Logistics:__ Thessaloniki's annexation provides access to central European markets via rail. Piraeus expands as Mediterranean hub. Greek merchant marine grows substantially; diaspora shipping families (Onassis family begins in this period) accumulate capital. Road construction accelerates; automobile arrives but road network remains primitive.
+
+__Value Storage, Credit & Deferred Exchange:__ Drachma stabilizes after 1910 currency reforms. National Bank of Greece expands credit. Foreign investment resumes cautiously. Emigrant remittances peak at approximately 20 million drachmas annually by 1910, funding household consumption and land purchase.
+
+__Surplus Extraction & Redistribution:__ Tax reform under Venizelos broadens base and improves collection. Military spending consumes the fiscal dividend. Post-war, new territories require administrative investment. Land reform debates begin regarding Thessalian and Macedonian estates.
+
+__Wealth Distribution & Asset Defense:__ Merchant and shipping wealth concentrates; diaspora capitalists invest in homeland. Land distribution remains unequal, especially in new territories. Macedonian chifliks (estates) await redistribution. Urban real estate appreciates with population growth.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates in Piraeus without treatment. Agricultural waste recycled locally. Financial residue of the bankruptcy period gradually clears as debts retire and International Financial Commission supervision loosens.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Traditional patterns persist but emigration and urbanization attenuate village solidarity. Remittance economy creates transnational family networks. Dowry inflation burdens families with daughters. Inheritance continues to fragment landholdings.
+
+__Association & Mutual Aid:__ Voluntary associations proliferate: professional societies, athletic clubs, diaspora philanthropies. Labor unions emerge in Piraeus industries. Village mutual aid weakens with emigration; urban charity and church welfare partially substitute.
+
+__Leisure, Play & Sociability:__ Coffeehouse culture flourishes as newspaper readership expands. Sports organize formally: Panathenaic Games (1906) renew Olympic tradition. Theater and cinema arrive in Athens. Pan-Hellenic military pride during Balkan Wars generates collective celebration.
+
+__Stratification, Status & Group Structure:__ Traditional elite challenged by new professional class and military officers. The Military League (1909) represents junior officers frustrated by patronage and incompetence. Venizelos emerges as tribune of reform constituency. New territories bring population diversity: Macedonian Slavs, Muslims, Thessaloniki Jews complicate the ethnic hierarchy.
+
+__Administrative Capacity & Institutional Integrity:__ Post-1909 reforms professionalize civil service and military. Venizelos governments (1910–1915) rationalize administration, expand education, and modernize legal codes. French military mission (1911) restructures army. Tax collection improves. New territories require rapid administrative integration; Thessaloniki and Macedonia governed with some autonomy initially.
+
+__Coercive Apparatus & Means of Force:__ Army reforms transform military effectiveness. Conscription universalized and training improved. Modern equipment acquired: artillery, machine guns, aircraft for reconnaissance. Navy receives battleships and cruisers. The Balkan Wars demonstrate transformed capacity: Greek forces defeat Ottoman and Bulgarian armies, seize Thessaloniki, clear Aegean islands. Gendarmerie maintains internal order; political violence declines.
+
+__Discharge, Disorder & Decay:__ The 1909 Goudi coup represents institutional frustration discharged through military action; it succeeds without bloodshed and channels reform rather than disorder. Brigandage declines with administrative penetration. War creates localized destruction in Macedonia; civilian displacement and property loss. The discharge of social tension through successful military action temporarily resolves accumulated frustration.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-1897 demoralization gradually transforms into reform enthusiasm. The Military League captures popular frustration with the political class. Venizelos's arrival from Crete (1910) galvanizes public hope. The Balkan Wars generate extraordinary national unity and confidence; territorial expansion validates the Megali Idea for a generation.
+
+__Leadership & Personal Authority:__ Venizelos dominates the period, combining charismatic authority with administrative competence. His Cretan revolutionary credentials and reform program attract cross-class support. King George I maintains constitutional propriety while supporting reform. His assassination (1913) by an anarchist in Thessaloniki elevates him to martyrdom; Constantine I succeeds with military prestige from the Balkan Wars.
+
+__Legitimacy as Lived Allegiance:__ The constitutional order, discredited in 1897, regains legitimacy through Venizelos's reforms and military success. The monarchy benefits from association with victory; Constantine acclaimed as popular hero. Legitimacy reaches its modern peak by 1913.
+
+__Political Will & Collective Resolve:__ National will, collapsed after 1897, reconstitutes around reform and irredentism. The Military League demonstrates that will can force change. Venizelos channels that will into institutional reform rather than premature war. When war comes (1912), mobilization is rapid and enthusiastic; reservists return from emigration to fight.
+
+__External Relations & Posture:__ Greece enters Balkan alliance with Serbia, Bulgaria, and Montenegro (1912) against Ottoman Empire. British naval support secured; French military mission accepted. Victory positions Greece as regional power. Bulgarian rivalry over Macedonia intensifies; Second Balkan War (1913) against Bulgaria secures Greek claims. Great Power relations improve with reform and demonstrated capacity.
+
+__Disaffection, Apathy & Spent Will:__ The 1897 disaffection clears with reform success. Emigrant communities reengage; diaspora capital and volunteers support war effort. Apathy transforms into mobilization. The residue of spent will is expelled through military triumph, but seeds of future division (Constantine vs. Venizelos over foreign alignment) germinate.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy rises toward 50% by 1910, driven by expanding primary education and military service. Demotic Greek gains ground in popular press while katharevousa remains official. Newspapers reach broader audiences; coffeehouse reading extends effective literacy.
+
+__Channels & Transmission Velocity:__ Telegraph and telephone networks expand. Thessaloniki's annexation connects Greece to European communication networks. News from Balkan War fronts reaches Athens within hours. Newspapers establish war correspondents; photography documents campaigns.
+
+__Record, Storage & Persistence:__ State archives expand with administrative reform. Military records systematized. Newspapers archived; periodical literature proliferates. University libraries grow. New territories' Ottoman administrative records captured and partially preserved.
+
+__Framing, Censorship & Discourse Norms:__ Press freedom substantive under Venizelos, though wartime censorship applies. Nationalist framing intensifies during Balkan Wars: enemies dehumanized, victories celebrated, casualties minimized. The demotic language movement gains newspaper allies, challenging purist establishment.
+
+__Reception, Attention & Amplification:__ War news dominates public attention 1912–1913. Circulation spikes; Athenian dailies achieve unprecedented readership. Diaspora press relays war enthusiasm to emigrant communities. Propaganda postcards and photographs circulate.
+
+__Signal Integrity & Noise Load:__ War propaganda produces noise, but military success confirms claims. Post-war, signal integrity higher than pre-1897 period because discourse and reality briefly align. The residue is nationalist narrative validated by victory, hardening into axiom.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ National justice conceived as recovery of unredeemed territories and liberation of co-ethnics. The Balkan Wars framed as sacred duty. Reciprocal atrocities against Muslim and Bulgarian populations morally justified or ignored in nationalist discourse.
+
+__Law, Codification & Regulatory Evolution:__ Venizelos modernizes legal codes, professionalizes judiciary, and rationalizes administration. Labor law begins to protect workers. New territories incorporated into Greek legal framework, though transitional regimes apply.
+
+__Adjudication, Liability & Sanction:__ Courts function with improved efficiency. War crimes uninvestigated; Bulgarian and Ottoman atrocities propagandized while Greek actions ignored. Military discipline generally maintained but irregular forces commit excesses.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights extended to new territories in principle. In practice, Muslim and Slavic populations face discrimination and pressure to emigrate. Jewish community of Thessaloniki guaranteed protection; relations initially stable.
+
+__Impunity & Unredressed Wrong:__ War crimes produce no accountability on any side. Population displacement creates unredressed losses. The victors impose their order; vanquished populations absorb injustice. The residue is normalized violence against non-Greek populations in newly acquired territories.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ University of Athens expands; technical education improves. German academic models continue to dominate. Historical scholarship intensifies around Macedonian claims; archaeology serves national narrative. Natural sciences and engineering receive increased attention post-reform.
+
+__Applied Knowledge & Technical Method:__ Military technique transforms through French mission training. Engineering capacity improves for infrastructure projects. Agricultural extension begins in new territories. Industrial techniques imported from Europe.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary education expands significantly under Venizelos; enrollment rises toward 80% of school-age children. Secondary education grows. Teacher training professionalized. Literacy among military-age males approaches universal. New territories require educational integration of diverse populations.
+
+__Obsolescence & Knowledge Decay:__ Classical education dominance moderates with technical and scientific growth. Military doctrine updated from 1897 obsolescence. The residue of outdated knowledge clears through institutional reform.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Balkan Wars add new heroes and victories to national mythology. Thessaloniki's recovery resonates as reclamation of Byzantine heritage. Constantine I acclaimed as heir to Byzantine emperors. The Megali Idea seems achievable; Constantinople itself enters realistic discourse.
+
+__Legitimating Narrative & Ideology:__ National destiny validated by expansion. The constitutional-reform order legitimated by success. Irredentism confirmed as operational ideology, not merely aspiration. The narrative holds that Greece rises when united and reformed.
+
+__Artistic Expression & Material Culture:__ Victory generates commemorative art, photography, and popular print. Neoclassical style continues for public buildings; Thessaloniki adds Byzantine heritage to Greek patrimony. Demotic literature flourishes; poetry of Palamas and Kavafis represents artistic maturity. Newspaper prose develops vernacular sophistication.
+
+__Form Exhaustion & Meaning Decay:__ Far from exhaustion, cultural forms reinvigorated by military success. Nationalist symbolism renewed rather than stale. The residue of 1897 cultural crisis clears. New forms and subjects emerge from Macedonian experience.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Providence seemingly vindicated: the nation rises from 1897 defeat to 1913 triumph. Orthodox Christian identity strengthened by liberating co-religionists from Muslim rule. Fatalism moderates; agency and reform rewarded.
+
+__Ritual, Devotion & Sacred Practice:__ Victory Te Deums celebrate military success. Church sanctifies war dead. Religious calendar structures post-war commemoration. Pilgrimage to newly liberated sites intensifies.
+
+__Religious Institutions & Doctrinal Authority:__ Autocephalous Church of Greece extends to new territories partially, though northern dioceses initially remain under Ecumenical Patriarchate. Church supports national war effort; clergy accompany army.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Orthodox hegemony extends territorially. Muslim populations expelled or marginalized; mosques converted or demolished. Thessaloniki's Jewish community (40% of city population) presents unique challenge to Orthodox national identity, accommodated pragmatically.
+
+__Disenchantment & Sacred Discharge:__ Success reverses pre-war drift toward disenchantment. Sacred and national purposes align. The residue of doubt cleared temporarily by victory. But the seeds of future disenchantment lie in the very success: expectations raised beyond sustainable limits, the Megali Idea validated for further expansion that will culminate in 1922 catastrophe.

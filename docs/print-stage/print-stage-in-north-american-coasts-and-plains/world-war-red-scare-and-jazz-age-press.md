@@ -1,69 +1,139 @@
-# __1917 CE – 1930 CE__ — World War, Red Scare, and Jazz Age Press
-__Summary:__ A trend spanning wartime mobilization, postwar repression, and consumer prosperity across the eastern United States and Mississippi basin; the binding constraint is the tension between expanded state capacity for propaganda and censorship and the decentralized commercial press; the system holds substantial economic margin after wartime expansion but faces ideological contestation and nascent broadcast competition; the principal direction of change is toward mass consumer culture, advertising-driven media consolidation, and the emergence of radio as print's successor.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental infrastructure mature; transcontinental rail, automobile roads, and air mail routes compress spatial friction further; Great Lakes industrial corridor and Gulf ports handle war materiel; Mississippi system fully integrated into national logistics.<br><br>
-__Climate Regime & Volatility:__ Temperate continental regime stable; drought conditions emerging in southern plains late 1920s presaging Dust Bowl; no major secular drift; agricultural margin adequate through the window.<br><br>
-__Hazard Regime & Exposure:__ Great Molasses Flood Boston 1919; Mississippi flood 1927 displaces hundreds of thousands; Florida hurricanes 1926 and 1928; localized exposure high but national-scale margin sufficient.<br><br>
-__Resource & Energy Endowment:__ Petroleum production expanding in Texas and Oklahoma; coal still dominant but oil rising; natural gas beginning exploitation; iron ore abundant; timber managed more systematically; endowment vast.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution intensifying with war production; automobile exhaust emerging; urban sinks degraded; rivers and air quality compromised in industrial zones; absorptive capacity strained locally but dispersed continentally.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Influenza pandemic 1918-1919 kills over 600,000 in United States; mortality spikes then returns to declining trend; public health infrastructure strengthened in response; endemic disease burden lightening.<br><br>
-__Nutrition & Physiological Vitality:__ Wartime rationing minimal; postwar prosperity improves diet for most; processed food expanding; stature continuing to increase; pellagra persists among southern sharecroppers.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility continuing decline among native-born; birth control movement growing despite legal obstacles; Margaret Sanger clinics opening; companionate marriage ideals ascendant; courtship patterns liberalizing.<br><br>
-__Demographic Renewal & Density:__ Immigration restriction 1921 and 1924 sharply reduces inflow; Great Migration accelerating; urban density increasing especially in northern cities; population growth slowing but positive.<br><br>
-__Attrition & Dependency Overhang:__ War casualties create veteran disability cohort; influenza leaves orphans and widows; no systematic welfare; charitable organizations and mutual aid absorb partial load; dependency manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Postwar prosperity lifts living standards; consumer goods accessible to broader population; agricultural sector depressed from mid-1920s; subsistence secure for urban employed; sharecroppers and tenant farmers marginal.<br><br>
-__Energy Capture & Conversion:__ Electrification accelerating; oil powering automobiles and industry; per-capita energy consumption rising sharply; coal-fired electricity dominant; conversion efficiency improving.<br><br>
-__Labor Organization & Coercion:__ Union membership peaks 1920 then declines under employer offensive; steel strike 1919 defeated; open shop campaign succeeds; coercion through injunctions and welfare capitalism; wage labor dominant.<br><br>
-__Production & Surplus Capacity:__ Industrial output booming; automobile, electrical, and chemical industries lead; assembly line production mature; surplus substantial; overcapacity emerging by late 1920s.<br><br>
-__Storage, Reserves & Buffering:__ Federal Reserve system operational; banking more stable though speculation building; corporate reserves growing; margin adequate but speculative lending undermining systemic stability.<br><br>
-__Exchange, Trade & Logistics:__ Automobile and truck transport expanding; retail chains spreading; mail order mature; advertising-driven consumer markets; logistics efficient.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Dollar dominant; gold standard maintained; consumer credit expanding dramatically; installment buying normalizing; stock market speculation rising; capital formation strong but increasingly speculative.<br><br>
-__Surplus Extraction & Redistribution:__ Income tax now primary federal revenue; wartime rates reduced in 1920s; Treasury running surpluses; extraction load moderate.<br><br>
-__Wealth Distribution & Asset Defense:__ Concentration increasing through 1920s; capital gains untaxed until realization; corporate consolidation continuing; inequality widening; asset protection through trusts and holding companies.<br><br>
-__Byproducts & Waste Routing:__ Automobile waste new category; industrial effluent continues; municipal sanitation improving; landfills expanding; routing still largely externalized.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust contracted by war hysteria and Red Scare; ethnic suspicion elevated; nativism rising; mutual aid persists within communities but cross-group trust diminished; Klan revival in mid-1920s.<br><br>
-__Stratification, Status & Group Identity:__ Jim Crow entrenched; Great Migration reconfigures northern race relations; ethnic hierarchies among whites; class consciousness suppressed; boundaries hardening along racial lines, shifting among European ethnics.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family normative; divorce rates rising; women gaining legal rights; inheritance partible; generational tensions over cultural liberalization.<br><br>
-__Civic Association & Self-Organization:__ Service clubs proliferating; Rotary, Kiwanis, Lions; women's clubs active; Klan as civic organization in some regions; veterans' organizations powerful; fabric mixed.<br><br>
-__Leisure, Play & Sociability:__ Mass entertainment boom; cinema, radio, spectator sports, dance halls; automobile enabling new sociability; commercialized leisure dominant; prohibition reshaping drinking culture.<br><br>
-__Grievance Channels & Social Discharge:__ Labor militancy suppressed; racial violence continues including 1919 riots; Klan provides discharge for white anxieties; reform channels constricted in conservative climate; substantial friction unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal power expanded by war then partially retrenched; executive strong under Wilson, passive under Harding-Coolidge; Congress reasserts; regulatory state maintained; power distributed but concentrated in corporate-government nexus.<br><br>
-__Succession & Power Transfer:__ Electoral transfer smooth; Harding 1920, Coolidge 1923 succession after death, Hoover 1928; party system stable; succession routinized.<br><br>
-__Legitimacy & Political Narrative:__ Business civilization narrative dominant in 1920s; war-era nationalism fading; normalcy ideology prevails; legitimacy resting on prosperity; reform narrative marginalized.<br><br>
-__Administrative Capacity & Institutional Integrity:__ War administration built capacity; postwar scandals including Teapot Dome; Hoover at Commerce professionalizes; capacity maintained though corruption episodes punctuate.<br><br>
-__Political Participation & Mobilization:__ Women's suffrage achieved 1920; voter turnout declining; African Americans disenfranchised in South; third parties marginalized; participation narrowing despite formal expansion.<br><br>
-__Geopolitical Position & External Relations:__ Global creditor; League rejected; Washington Naval Conference 1921-22; interventions in Caribbean and Central America; isolationist sentiment dominant; great power without entanglements.<br><br>
-__Coercive Apparatus & Means of Force:__ Army demobilized postwar; Navy maintained at treaty limits; National Guard and state police active against labor; FBI emerging under Hoover; force capacity contracted but professionalized.<br><br>
-__Internal Order & Threat Environment:__ Red Scare repression; race riots 1919; labor violence suppressed; organized crime rising under prohibition; order strained but maintained through repressive measures.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mass-circulation dailies and magazines peak; wire services dominant; radio broadcasting emerges 1920 and spreads rapidly; newsreels in cinemas; velocity accelerating with broadcast; reach expanding to include illiterate populations.<br><br>
-__Record, Storage & Persistence:__ Government records systematized; corporate archives growing; film and phonograph create new storage media; newspaper morgues extensive; persistence improving through institutional and technological investment.<br><br>
-__Framing, Censorship & Discourse Norms:__ Wartime censorship and propaganda through Committee on Public Information; Espionage and Sedition Acts suppress dissent; postwar relaxation but radical press targeted; Comstock enforcement continues; discourse window narrowing during war, partially reopening.<br><br>
-__Reception, Attention & Amplification:__ Radio creates simultaneous mass audience; tabloid journalism competes for attention; celebrity culture emerging; advertising sophisticated; amplification dynamics shifting toward broadcast.<br><br>
-__Signal Integrity & Noise Load:__ Propaganda and advertising increase noise; professional journalism standards developing; Associated Press and wire services maintain factual baseline; tabloid sensationalism competes; verification challenged by volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Prohibition reflects moralistic strain; anti-radicalism frames justice claims; racial justice suppressed; labor rights contested; moral consensus narrowing around conformity.<br><br>
-__Law, Codification & Regulatory Evolution:__ Eighteenth Amendment and Volstead Act; immigration restriction statutes; regulatory framework maintained; labor law tilts toward employers; law evolving toward restriction and conformity.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts active against labor and radicals; Palmer raids 1919-1920; deportations; Sacco and Vanzetti case; prohibition unevenly enforced; throughput adequate but biased against dissent.<br><br>
-__Rights, Protections & Compliance Burden:__ First Amendment tested and partially vindicated in Holmes dissents; African American rights unprotected; labor rights minimal; compliance burden elevated by prohibition.<br><br>
-__Impunity & Unredressed Wrong:__ Lynching continues unpunished; Tulsa massacre 1921; corporate violations often unredressed; radical repression without recourse; gap between justice owed and delivered wide for African Americans and radicals.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Behaviorism rising in psychology; scientific management mature; physics revolution reaching popular awareness; social sciences increasingly empirical; inquiry active though critical theory marginalized.<br><br>
-__Applied Knowledge & Technical Method:__ Mass production perfected; radio engineering advancing; electrical and chemical industries productive; aviation emerging; technique highly developed and diffusing.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ High school attendance rising dramatically; public education expanding; universities growing; literacy near-universal among native whites; skill distribution broadening; African American education severely underfunded in South.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional knowledge yielding to scientific management and professional expertise; craft skills declining with mass production; decay rate low relative to rapid accumulation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ American exceptionalism affirmed; war memory selective; Lost Generation critique marginal; immigrant Americanization enforced; African American identity crystallizing in Harlem Renaissance; foundational narratives contested beneath surface consensus.<br><br>
-__Artistic Expression & Material Culture:__ Jazz and blues ascendant; Art Deco emerging; skyscraper as urban form; modernism in visual arts; Harlem Renaissance in literature; material culture increasingly standardized through mass production.<br><br>
-__Collective Mood & Behavioral Disposition:__ Postwar disillusionment among intellectuals; mass consumer optimism dominant; anxieties about modernity expressed through nativism and fundamentalism; mood bifurcated between confident consumerism and defensive traditionalism.<br><br>
-__Form Exhaustion & Meaning Decay:__ Victorian forms exhausted; prohibition as hollow enforcement of depleted moral consensus; modernist forms emerging; renewal and decay proceeding simultaneously across cultural domains.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Protestant mainline liberalizing; fundamentalism organizing defensively; Scopes trial 1925 crystallizes divide; Catholic and Jewish communities institutionally strong; secularizing drift among urban educated; outlook pluralizing.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance stable; revival tradition continues; immigrant devotional practices maintained; fundamentalist piety intensifying; practice differentiated by community.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Fundamentalist-modernist controversy fracturing Protestant unity; Catholic hierarchy consolidated; Jewish denominations differentiating; authority contested within Protestantism, maintained elsewhere.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pentecostalism spreading; African American churches growing in northern cities; secularism advancing among intellectuals; spiritual landscape diversifying.<br><br>
-__Disenchantment & Sacred Discharge:__ Intellectuals disenchanted; Lost Generation expatriates; consumerism as secular substitute; fundamentalism as defensive re-enchantment; spiritual void widening among some, intensely filled for others; polarization rather than uniform drift.<br><br>
+# __1917 CE – 1930 CE — World War, Red Scare, and Jazz Age Press__
+
+__Summary:__ The United States from wartime mobilization through the Roaring Twenties, when mass-circulation print reaches its commercial zenith even as the war-spawned apparatus of censorship and propaganda establishes precedents for government-press entanglement, the binding constraint being the contradiction between print's unprecedented commercial reach and the political restrictions that war, red scare, and immigration closure impose on its discursive scope.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The continental infrastructure matures: 265,000 miles of railway, expanded highway networks for automobiles, and airmail service (1918) compress spatial friction; national magazines and syndicated features create uniform content from coast to coast.
+
+__Climate Regime & Volatility:__ Climate stability prevails; the period's agricultural crises (postwar deflation, early Dust Bowl precursors in the 1920s) derive from economic rather than climatic factors.
+
+__Hazard Regime & Exposure:__ The influenza pandemic (1918-1919) kills over 675,000 Americans, though press coverage is muted under wartime censorship; urban hazards continue as industrial accidents and tenement fires fill local news columns.
+
+__Resource & Energy Endowment:__ Petroleum surpasses coal in strategic importance as the automobile transforms American life; coal still powers industry and urban heating; electrification reaches 35 percent of homes by 1920, enabling evening newspaper reading.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution intensifies; urban air quality degrades further with automobile exhaust joining coal smoke; these conditions receive less press attention than in the muckraking era as reform enthusiasm wanes.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The influenza pandemic proves catastrophic, killing more Americans than the war; mortality otherwise continues declining with sanitation improvements and medical advances; infant mortality falls below 80 per 1,000 by 1925.
+
+__Nutrition & Physiological Vitality:__ Nutritional standards improve with refrigeration, canning, and national food distribution; vitamin science emerges; Prohibition drives alcohol consumption underground without eliminating it.
+
+__Care, Healing & Recovery Capacity:__ Hospitals proliferate; nursing professionalizes; veterans' healthcare becomes federal responsibility; medical costs rise as professionalization advances.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth rates continue declining; birth control advocacy expands (Margaret Sanger) though legal restrictions persist; the "flapper" represents changing sexual mores that newspapers both celebrate and deplore.
+
+__Demographic Renewal & Density:__ Population grows from 103 million (1917) to 123 million (1930); immigration restriction (1921 Emergency Quota Act, 1924 National Origins Act) sharply reduces European inflow; the Great Migration accelerates, bringing over one million African Americans north by 1930; urbanization crosses the 50 percent threshold (1920 census).
+
+__Attrition & Dependency Overhang:__ Wounded veterans (over 200,000) create new dependency burdens; child labor finally declines under state laws and changing economic conditions; the productive population carries relatively light dependent loads as restricted immigration reduces elderly returns and birth rates fall.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Postwar deflation (1920-1921) devastates farmers; urban workers experience the prosperity of the 1920s unevenly; consumer credit expands access to durable goods.
+
+__Energy Capture & Conversion:__ Electrification transforms industry and household life; petroleum powers the automobile boom; press production benefits from electric motors and improved paper-making.
+
+__Labor Organization & Coercion:__ The Red Scare crushes radical unionism; the 1919 steel strike fails; AFL membership declines from 5 million (1920) to 3.4 million (1929); "welfare capitalism" substitutes corporate paternalism for collective bargaining; labor press shrinks.
+
+__Production & Surplus Capacity:__ Industrial production soars, doubling between 1921 and 1929; automobile production reaches 5.4 million annually by 1929; advertising expenditure quadruples, reaching $3 billion annually, much of it in newspapers and magazines.
+
+__Storage, Reserves & Buffering:__ Federal Reserve management produces relative monetary stability; corporate profits accumulate; agricultural sector carries chronic overproduction and debt burden.
+
+__Exchange, Trade & Logistics:__ Mass retail (chain stores, mail order) reaches national scale; Sears and Montgomery Ward catalogs bring urban goods to rural homes; newspapers serve as advertising vehicles for this consumer economy.
+
+__Value Storage, Credit & Deferred Exchange:__ Consumer credit (installment plans) enables automobile and appliance purchases; stock market speculation escalates through the 1920s; real estate speculation produces Florida land boom and bust (1926).
+
+__Surplus Extraction & Redistribution:__ Federal income taxes cut under Coolidge; tariffs remain high; wealth concentration increases; the top one percent captures over 20 percent of income by 1929.
+
+__Wealth Distribution & Asset Defense:__ Inequality reaches new peaks; stock ownership spreads to middle class but remains concentrated; agricultural distress contrasts with urban prosperity; racial income gaps persist.
+
+__Byproducts & Waste Routing:__ Industrial waste continues accumulating; consumer society generates new waste streams; financial speculation creates malinvestment that will collapse in 1929.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The nuclear family ideal intensifies; divorce rates rise; women's domestic role shifts as appliances reduce household labor; youth culture emerges as distinct social category.
+
+__Association & Mutual Aid:__ Voluntary associations flourish (Rotary, Kiwanis, American Legion); ethnic mutual aid societies serve immigrant communities; African American fraternal organizations expand; the Ku Klux Klan revives, claiming 4-5 million members by 1924.
+
+__Leisure, Play & Sociability:__ Spectator sports (baseball, boxing, football) dominate sports pages; movies and radio compete with print for leisure time; nightclubs, dance halls, and speakeasies create new social spaces; the automobile enables personal mobility.
+
+__Stratification, Status & Group Structure:__ Class lines remain sharp despite rhetoric of mass prosperity; ethnic hierarchies hardening into law through immigration restriction; racial segregation tightens in South and expands in North with Great Migration.
+
+__Administrative Capacity & Institutional Integrity:__ Federal government expands (Prohibition enforcement, immigration control, veterans' affairs) but reforms stall; corruption persists (Teapot Dome scandal, 1923-1924, broken by press investigation); municipal reform movements achieve mixed results.
+
+__Coercive Apparatus & Means of Force:__ National Guard deploys against strikes; Palmer Raids (1919-1920) demonstrate federal coercive capacity against radicals; Prohibition creates new enforcement apparatus (Bureau of Prohibition) and organized crime; lynching continues with near-total impunity.
+
+__Discharge, Disorder & Decay:__ Major race riots (Chicago, 1919; Tulsa, 1921) reflect postwar tensions; Prohibition generates organized crime; labor unrest is suppressed rather than accommodated; Klan violence targets African Americans, Catholics, Jews, and immigrants.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Wartime nationalism yields to postwar disillusionment among intellectuals but popular patriotism persists; the 1920s mood combines consumer optimism with nativist anxiety; the "return to normalcy" represents exhaustion with reform.
+
+__Leadership & Personal Authority:__ Wilson's collapse discredits idealism; Harding, Coolidge, and Hoover embody business-oriented normalcy; charismatic figures emerge in other domains (Lindbergh, Ruth, popular entertainers) whose celebrity newspapers amplify.
+
+__Legitimacy as Lived Allegiance:__ Business legitimacy peaks; government legitimacy stable but not actively embraced; immigrant communities maintain divided loyalties; African Americans increasingly contest the legitimacy of segregation through the press (Crisis, Defender).
+
+__Political Will & Collective Resolve:__ Reform will exhausted; business confidence dominant; labor militancy crushed; nationalist mobilization for war proves the period's high-water mark of collective resolve.
+
+__External Relations & Posture:__ Wartime alliance yields to isolationist withdrawal; Senate rejects League of Nations; Washington Naval Conference (1921-1922) represents limited engagement; tariff walls rise.
+
+__Disaffection, Apathy & Spent Will:__ Intellectuals express disillusionment (Lost Generation); working-class radicalism suppressed but not extinguished; African American militancy grows (New Negro movement, Garvey); voter turnout declines through the 1920s, reaching lows in 1924.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy exceeds 94 percent; English language dominance increases as immigration restriction and wartime suppression reduce foreign-language press; African American literacy continues rising.
+
+__Channels & Transmission Velocity:__ Wire services achieve instantaneous national reach; telephone penetration reaches 35 percent of households; radio emerges (KDKA, 1920) and spreads rapidly to 40 percent of households by 1930, beginning print's displacement for breaking news.
+
+__Record, Storage & Persistence:__ Newspaper archives expand; news reels create visual record; government records proliferate with wartime bureaucracy; FBI begins systematic surveillance files.
+
+__Framing, Censorship & Discourse Norms:__ Wartime censorship under Espionage Act (1917) and Sedition Act (1918) suppresses dissent, with over 2,000 prosecutions; radical and foreign-language press targeted; postwar, censorship recedes but leaves chilling effect; objectivity norms consolidate in mainstream press.
+
+__Reception, Attention & Amplification:__ Tabloids (New York Daily News, 1919) pioneer visual journalism for urban masses; syndicated columnists (Walter Lippmann, H.L. Mencken) achieve national readership; celebrity culture intensifies press attention on personalities.
+
+__Signal Integrity & Noise Load:__ Tabloid sensationalism and publicity-driven coverage increase noise; advertising-editorial boundaries blur; public relations emerges as profession (Ivy Lee, Edward Bernays), systematically manipulating press coverage; wartime propaganda demonstrates information's weaponization.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Protestant moral consensus fragments; Prohibition represents its last major legislative triumph; cultural conflict between "wets" and "drys," modernists and fundamentalists, divides the nation.
+
+__Law, Codification & Regulatory Evolution:__ Prohibition (18th Amendment, 1920) criminalizes alcohol; immigration restriction codifies ethnic hierarchy; labor law retreats from Progressive gains; women gain suffrage (19th Amendment, 1920).
+
+__Adjudication, Liability & Sanction:__ Courts uphold wartime speech restrictions (Schenck, 1919; Debs imprisoned); later cases begin protecting speech (Holmes's dissents); Prohibition enforcement overwhelms courts; Sacco-Vanzetti case (1921-1927) exposes judicial bias.
+
+__Rights, Protections & Compliance Burden:__ Free speech doctrine begins developing; women's suffrage achieved; civil liberties organizations emerge (ACLU, 1920) in response to wartime suppression; African American rights remain systematically violated.
+
+__Impunity & Unredressed Wrong:__ Lynching continues without federal intervention (anti-lynching legislation fails); race riots produce no accountability; Prohibition corruption pervades enforcement; Teapot Dome produces convictions but system remains unchanged.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Social science matures; behaviorism (Watson) influences advertising and propaganda; public opinion research begins (Lippmann's Public Opinion, 1922); fundamentalist-modernist controversy frames intellectual conflict.
+
+__Applied Knowledge & Technical Method:__ Mass production (Fordism) reaches maturity; advertising develops psychological techniques; journalism education expands; public relations systematizes opinion management.
+
+__Education, Knowledge Stock & Skill Distribution:__ High school enrollment doubles; college attendance grows but remains elite; journalism schools proliferate; technical education serves industrial needs.
+
+__Obsolescence & Knowledge Decay:__ Wartime propaganda discredits idealistic rhetoric; Progressive reform methods appear naive; craft knowledge continues eroding under industrial standardization; the Scopes trial (1925) dramatizes knowledge conflicts.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The war is remembered ambiguously: sacrifice honored but purpose questioned; "100 percent Americanism" demands conformity; the "melting pot" ideal coexists with nativist exclusion; African Americans assert "New Negro" identity.
+
+__Legitimating Narrative & Ideology:__ Business civilization celebrates corporate capitalism as American achievement; "American Dream" narratives proliferate; immigration restriction justified through scientific racism; white supremacy maintains its grip on Southern and increasingly Northern discourse.
+
+__Artistic Expression & Material Culture:__ Jazz Age culture explodes through print and record; Harlem Renaissance achieves national visibility through magazines and books; modernist literature (Fitzgerald, Hemingway) reaches wide audience; Art Deco defines visual style; automobile, radio, and movie reshape material culture.
+
+__Form Exhaustion & Meaning Decay:__ Victorian gentility exhausted; war poetry and fiction mark disillusionment; traditional newspaper formats challenged by tabloid innovation; muckraking reform mode hollows out though investigative journalism continues (Teapot Dome).
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant hegemony challenged by Catholic and Jewish immigration, secularism, and internal division; fundamentalism crystallizes in opposition to modernism; existential doubt pervades intellectual culture.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance remains high; immigrant religious practices persist; African American churches flourish in northern cities; civic religion intensifies around war remembrance (Armistice Day, Tomb of Unknown Soldier).
+
+__Religious Institutions & Doctrinal Authority:__ Fundamentalist-modernist controversy splits Protestant denominations; Catholic hierarchy consolidates institutional power; Jewish communal institutions mature.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Religious diversity increases despite immigration restriction; Pentecostalism spreads; African American churches blend Southern traditions with urban forms; secularism advances among educated elite.
+
+__Disenchantment & Sacred Discharge:__ Intellectuals embrace secularism; Prohibition represents religious moralism's political climax and eventual discrediting; Scopes trial dramatizes science-religion conflict; the sacred retreats from public life among educated classes while remaining vital in popular religion.

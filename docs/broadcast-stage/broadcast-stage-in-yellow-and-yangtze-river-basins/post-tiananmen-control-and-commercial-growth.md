@@ -1,69 +1,139 @@
-# __1989 CE – 2000 CE__ — Post-Tiananmen Control and Commercial Growth
-__Summary:__ Chinese broadcasting navigates tension between tightened political control after June 1989 and accelerating commercialization under continued reform; the binding constraint is maintaining party messaging dominance while capturing advertising revenue and audience attention; CCTV consolidates as authoritative national voice while provincial stations compete for entertainment audiences; cable systems multiply channels; system holds substantial margin as economic growth sustains legitimacy; direction is toward commercial expansion within hardened political boundaries.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Yellow and Yangtze basins now largely covered by broadcast signals; cable networks reduce spatial friction in urban areas; satellite uplinking enables provincial stations to reach national audiences; rural areas lag but improving.<br><br>
-__Climate Regime & Volatility:__ 1998 Yangtze floods devastating but broadcast infrastructure largely survives; climate remains within historical variability; no major drift affecting broadcast operations.<br><br>
-__Hazard Regime & Exposure:__ Flood hazard demonstrates infrastructure vulnerability; earthquake risk persists but no major events this period; broadcast systems show adequate resilience to normal hazard exposure.<br><br>
-__Resource & Energy Endowment:__ Electricity supply adequate for expanding television ownership; coal remains primary source; Three Gorges construction begins; rare earths for electronics abundant domestically.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste accumulates as television replacement cycles shorten; coastal manufacturing zones show air and water degradation; sink capacity diminishing in industrial areas but vast interior absorbs loads.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Health indicators continue improving; infectious disease burden declining; mortality rates fall; healthcare system uneven but functioning; baseline health trending positively.<br><br>
-__Nutrition & Physiological Vitality:__ Caloric sufficiency achieved nationally; protein consumption rises; height and weight increase generationally; obesity emerging as urban concern; vitality at historical highs.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ One-child policy enforcement continues with regional variation; biological fertility unchanged; effective fertility remains low; sex-ratio imbalance from selective abortion worsens.<br><br>
-__Demographic Renewal & Density:__ Population passes 1.2 billion; growth rate slowing; urbanization accelerates; working-age bulge peaks; demographic dividend supporting economic expansion; density pressures in megacities.<br><br>
-__Attrition & Dependency Overhang:__ Elderly population growing but dependency ratio still favorable; one-child generation reaches adulthood; future dependency pressures visible but not yet binding; system carries current load easily.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Absolute poverty declining rapidly; rural incomes rise; food security achieved; household consumption expands beyond subsistence; provisioning floor distant from binding for most.<br><br>
-__Energy Capture & Conversion:__ Electricity generation doubles; rural electrification nearly complete; television ownership approaches saturation in urban areas; per-capita energy use rising steadily; conversion efficiency improving.<br><br>
-__Labor Organization & Coercion:__ State enterprise reform displaces millions; migrant labor system expands; wage labor dominates urban economy; coercion minimal in labor markets; hukou system constraints persist.<br><br>
-__Production & Surplus Capacity:__ Television manufacturing world-leading; consumer electronics exports surge; advertising industry emerges; media production capacity expands; surplus substantial and growing; double-digit GDP growth much of period.<br><br>
-__Storage, Reserves & Buffering:__ Foreign exchange reserves rise dramatically; household savings rates high; grain reserves adequate; buffer capacity substantial; 1997 Asian financial crisis weathered without broadcast disruption.<br><br>
-__Exchange, Trade & Logistics:__ WTO accession negotiations advance; trade liberalizes; distribution networks modernize; logistics infrastructure improves dramatically; television and advertising markets integrate nationally.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Banking reforms proceed slowly; inflation controlled after early 1990s; household savings primary value storage; credit expanding; real estate emerges as asset class.<br><br>
-__Surplus Extraction & Redistribution:__ Tax-sharing reform 1994 recentralizes revenue; extraction efficient in formal economy; redistribution favors infrastructure and coastal development; broadcasting receives state investment plus advertising revenue.<br><br>
-__Wealth Distribution & Asset Defense:__ Inequality rises sharply; coastal-interior gap widens; state-owned enterprise restructuring creates winners and losers; private wealth accumulation accelerates; asset defense through connections and corruption.<br><br>
-__Byproducts & Waste Routing:__ Electronic waste volumes surge; informal recycling absorbs some; hazardous materials poorly managed; manufacturing pollution severe in production zones; routing predominantly to environment rather than treatment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ 1989 creates lasting fracture between state and urban educated; trust in institutions damaged but economic growth provides compensating stability; mutual aid networks persist informally; radius contracts for political topics.<br><br>
-__Stratification, Status & Group Identity:__ New rich class emerges; migrant workers form distinct underclass; urban-rural divide deepens; middle class consciousness developing; status increasingly tied to consumption and wealth display.<br><br>
-__Kinship, Family & Inheritance:__ One-child families predominate urban areas; "little emperor" phenomenon noted; inheritance increasingly significant as private property accumulates; nuclear family standard form.<br><br>
-__Civic Association & Self-Organization:__ Independent organization suppressed after 1989; GONGOs (government-organized NGOs) multiply; professional associations grow within limits; self-organization capacity constrained to non-political spheres.<br><br>
-__Leisure, Play & Sociability:__ Television dominates leisure; karaoke emerges; consumer culture provides social venues; collective leisure shifts to family and small-group television viewing; Spring Festival Gala remains peak shared experience.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning continues but controlled; labor disputes rise with restructuring; environmental protests emerge locally; television provides entertainment escape; political grievances from 1989 suppressed; discharge incomplete.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Deng paramount until death 1997; Jiang Zemin consolidates; collective leadership institutionalized somewhat; party authority absolute; power concentrated but orderly succession emerging.<br><br>
-__Succession & Power Transfer:__ Deng-to-Jiang transition managed; generational turnover proceeds; norms developing around term limits; transfer stabilizing compared to previous decades; Hong Kong handover 1997 demonstrates capacity.<br><br>
-__Legitimacy & Political Narrative:__ Performance legitimacy fully operative; economic growth substitutes for democratic participation; nationalism promoted via broadcasting; "stability maintenance" paramount; 1989 erased from official narrative.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic capacity improves; corruption endemic but functional; broadcasting administration professional; regulatory capacity developing; integrity compromised by rent-seeking but system operates.<br><br>
-__Political Participation & Mobilization:__ Participation channels frozen after 1989; village elections continue but circumscribed; mobilization capacity feared and suppressed; no legitimate political expression outside party; channels closed.<br><br>
-__Geopolitical Position & External Relations:__ Post-1989 isolation ends by mid-1990s; WTO accession priority; Taiwan tensions 1996; US relations complicated but functional; Hong Kong integration smooth; broadcasting serves soft power ambitions.<br><br>
-__Coercive Apparatus & Means of Force:__ PLA professionalization continues; People's Armed Police expanded; internal security apparatus well-funded; force capacity more than adequate; demonstration effect of 1989 deters challenge.<br><br>
-__Internal Order & Threat Environment:__ Order maintained firmly; Falun Gong suppression 1999 demonstrates willingness; crime contained; ethnic tensions managed through force in Tibet and Xinjiang; disorder well within capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ CCTV dominant in news; provincial satellite channels multiply; cable systems expand urban channel availability to dozens; transmission effectively real-time nationally; reach near-universal in urban areas.<br><br>
-__Record, Storage & Persistence:__ Video archives comprehensive; programming preserved; digital storage beginning; historical record maintained though 1989 footage suppressed; persistence adequate.<br><br>
-__Framing, Censorship & Discourse Norms:__ Political censorship tightens post-1989; entertainment relatively free; advertising permitted and expanding; foreign content restricted; discourse bandwidth wide for commercial content, narrow for politics; boundaries patrolled strictly.<br><br>
-__Reception, Attention & Amplification:__ Television viewing peaks; CCTV News Hour ritual; provincial entertainment captures young audiences; Spring Festival Gala 800+ million viewers; attention increasingly fragmented across channels; amplification party-controlled for news, market-driven for entertainment.<br><br>
-__Signal Integrity & Noise Load:__ Official signal dominant and clear; foreign broadcasts restricted; rumor persists but television provides authoritative reference; internet emerging at period's end introduces new noise sources; signal integrity high but eroding.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Market transition strains traditional fairness concepts; corruption perceived as unjust; popular morality pragmatic; sense of justice operates primarily in economic disputes; political justice abandoned as expectation.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal system expands; broadcasting regulations develop; contract law improves; advertising law established; codification advancing steadily; rule by law institutionalizing.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts handle commercial disputes; enforcement improving for economic cases; political cases outside normal adjudication; liability clearer in commercial sphere; throughput adequate for business needs.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights strengthened; consumer protection emerging; political rights non-operative; compliance burden moderate for broadcasters within content limits; predictable for commercial operations.<br><br>
-__Impunity & Unredressed Wrong:__ 1989 perpetrators and commanders protected; no accountability for massacre; corruption prosecutions selective and political; impunity for powerful institutionalized; redress deficit for political wrongs stable and unaddressed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Research capacity grows; science funding increases; technology absorption prioritized; theoretical work constrained in social sciences; engineering and natural science flourishing; humanities cautious.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast technology modernizes; digital production adopted; satellite and cable engineering advances; technical methods world-standard; application of knowledge rapid.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Higher education expands; literacy near-universal in younger generations; technical skills spread; media training programs grow; knowledge stock increasing; distribution improving with education access.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog systems beginning obsolescence; ideological training attenuates; practical skills valued over theory; knowledge decay limited; error-clearing through market feedback in commercial sphere; political dogma persists unchallenged.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ National humiliation narrative promoted; civilizational pride cultivated; 1989 memory suppressed; identity tied to economic rise and coming great power status; revolutionary heritage maintained nominally.<br><br>
-__Artistic Expression & Material Culture:__ Television drama and variety flourishing; popular music through karaoke; consumer aesthetics dominate material culture; production values rise; expression commercially vibrant within political limits.<br><br>
-__Collective Mood & Behavioral Disposition:__ Pragmatic materialism dominant; political cynicism common; economic optimism high; risk-taking in business encouraged; mood cautiously confident; 1989 trauma suppressed not processed.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary forms ceremonial only; socialist content hollow; new forms emerge from commercial culture; meaning increasingly derived from consumption and family; nationalist renewal provides partial alternative.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Practical atheism predominates; existential questions deferred to economic pursuits; traditional cosmologies revive among older generations; youth largely secular and materialist; outlook pragmatic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice expands; Buddhism and folk religion grow; Christianity spreads especially in rural areas; practice increasing across traditions; state supervision persists.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Patriotic associations channel official religion; unauthorized churches multiply; Falun Gong suppression 1999 demonstrates limits; institutional landscape mixed official and underground.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity advances in countryside; qigong movements popular until suppression; Buddhism spreads among middle class; syncretic mixing continues; spiritual marketplace diversifying.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary faith dead; meaning derived from material success and nationalism; spiritual seeking increases as alternatives emerge; disenchantment with ideology complete but new anchors multiple and competing; vacuum partially filled.<br><br>
+# __1989 CE – 2000 CE — Post-Tiananmen Control and Commercial Growth__
+
+__Summary:__ The June 4 crackdown establishes a durable settlement in which the party tightens informational control while accelerating commercial broadcasting development; television achieves near-universal penetration and advertising-funded entertainment programming flourishes within unbreached propaganda boundaries, creating a hybrid system that delivers prosperity and distraction in exchange for political quiescence as China integrates into the global economy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Television infrastructure completes its extension across the continental territory; satellite distribution and cable networks reduce the friction of distance that previously limited broadcast reach; by 2000, even remote western regions receive CCTV signals, though local infrastructure quality varies.
+
+__Climate Regime & Volatility:__ The catastrophic Yangtze floods of 1998, affecting over 200 million people and killing over 3,000, demonstrate both improved broadcast capacity for disaster coordination and the continuing vulnerability of the river basins to extreme events; television coverage of the disaster mobilizes national solidarity and military response.
+
+__Hazard Regime & Exposure:__ Flood control infrastructure receives priority investment after 1998; broadcasting serves as the primary warning and coordination channel during emergencies; the integration of meteorological forecasting into television programming becomes routine.
+
+__Resource & Energy Endowment:__ Coal remains the dominant energy source, powering electrical expansion that enables universal television reception; domestic manufacturing of television sets achieves quality parity with imports, with brands like Konka, TCL, Changhong, and Haier capturing the mass market.
+
+__Waste Absorption & Sink Capacity:__ Industrial expansion without environmental regulation produces severe air and water pollution in manufacturing zones; the environmental dimension remains largely absent from broadcast coverage, with development triumphalism dominating; sink degradation accelerates as an unacknowledged cost of the growth model.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Health indicators continue improving; infant mortality declines and life expectancy approaches 72 years by 2000; infectious disease control advances though the HIV/AIDS epidemic emerges as a concern, particularly in Henan's plasma-selling villages — a story suppressed in broadcast media.
+
+__Nutrition & Physiological Vitality:__ Caloric sufficiency becomes general; protein consumption increases; obesity begins emerging as an urban phenomenon, inverting the traditional association of weight with prosperity; malnutrition persists in pockets of rural poverty.
+
+__Care, Healing & Recovery Capacity:__ Healthcare system fragments further as market reforms reach medical services; urban-rural disparities in healthcare access widen; television health programming expands but cannot substitute for institutional care provision.
+
+__Reproductive Biology & Pairing Dynamics:__ The one-child policy continues with varying enforcement intensity; sex-selective abortion produces measurable sex ratio imbalance (approximately 117 boys per 100 girls by 2000); the "missing women" phenomenon becomes statistically visible though broadcast discussion remains limited.
+
+__Demographic Renewal & Density:__ Population reaches approximately 1.27 billion by 2000; urbanization accelerates as rural-to-urban migration intensifies despite hukou restrictions; the demographic dividend of a large working-age cohort and low dependency ratio fuels continued growth.
+
+__Attrition & Dependency Overhang:__ The aging population trajectory becomes visible in demographic projections; the one-child generation reaches adulthood bearing sole responsibility for aging parents; the "4-2-1" family structure (four grandparents, two parents, one child) emerges as the characteristic form.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Poverty reduction continues dramatically; the absolute poor population declines though remains substantial in interior and western regions; the coastal-interior divide widens as SEZ-model development concentrates in eastern provinces.
+
+__Energy Capture & Conversion:__ Electrical generation capacity expands rapidly; the Three Gorges Dam project (construction 1994–2006) represents the era's signature infrastructure investment, with television coverage emphasizing engineering achievement over displacement costs; per-capita electricity consumption rises with industrialization and household appliance adoption.
+
+__Labor Organization & Coercion:__ The danwei system erodes further; migrant labor (mingong) emerges as the characteristic labor form, with hundreds of millions moving from rural areas to coastal manufacturing zones; labor discipline in export factories relies on economic necessity rather than administrative control.
+
+__Production & Surplus Capacity:__ GDP growth averages approximately 10 percent annually; "Made in China" becomes ubiquitous in global consumer goods; manufacturing capacity expands to serve both domestic consumption and export markets; the economy survives the 1997 Asian financial crisis without devaluation.
+
+__Storage, Reserves & Buffering:__ Foreign exchange reserves accumulate as the trade surplus grows; the treasury builds capacity for infrastructure investment; household savings rates remain high as social safety net provision declines with market reforms.
+
+__Exchange, Trade & Logistics:__ WTO accession negotiations dominate the period, culminating in December 2001 entry; export-oriented manufacturing expands; logistics infrastructure (ports, highways, rail) receives massive investment; the internet emerges as a commercial platform by period's end.
+
+__Value Storage, Credit & Deferred Exchange:__ Banking system reform addresses bad debt accumulation; the renminbi maintains stability; consumer credit remains limited; the stock markets (Shanghai 1990, Shenzhen 1991) create new instruments for capital allocation and household investment.
+
+__Surplus Extraction & Redistribution:__ Tax reform (1994) recentralizes revenue, strengthening the central government's capacity while leaving local governments dependent on land sales; infrastructure investment including broadcast network modernization draws on centralized fiscal capacity.
+
+__Wealth Distribution & Asset Defense:__ Inequality increases substantially; the Gini coefficient rises from approximately 0.35 to over 0.45; private wealth accumulates among entrepreneurs and officials with access to state resources; asset protection remains precarious in the absence of reliable property rights enforcement.
+
+__Byproducts & Waste Routing:__ Industrial waste, electronic waste from rapid appliance turnover, and urban refuse accumulate without adequate treatment infrastructure; environmental costs mount but remain external to the economic accounting celebrated in broadcast coverage.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family structure continues transforming under one-child policy pressure; the nuclear family displaces extended household forms in urban areas; intergenerational obligations intensify as single children bear sole responsibility for aging parents; marriage markets tighten as sex ratio imbalance reaches marriage cohorts.
+
+__Association & Mutual Aid:__ Work-unit welfare provision collapses; new forms of association (homeowner associations, internet communities by period's end) emerge tentatively; migrant workers exist outside traditional community structures, creating atomized labor pools in factory zones.
+
+__Leisure, Play & Sociability:__ Television viewing dominates household leisure; karaoke, mahjong, and consumer shopping emerge as urban leisure activities; the seven-day holiday weeks (Spring Festival, National Day) concentrate national leisure time and television viewing.
+
+__Stratification, Status & Group Structure:__ New class structure crystallizes: party-state elite, private entrepreneurs, professionals, workers, peasants, with migrants occupying an ambiguous position; status increasingly attaches to wealth and consumption rather than political classification; the urban-rural divide persists as fundamental.
+
+__Administrative Capacity & Institutional Integrity:__ State capacity strengthens through bureaucratic rationalization; the "grabbing the big, releasing the small" industrial policy concentrates state ownership in strategic sectors while privatizing small enterprises; corruption remains endemic despite periodic campaigns.
+
+__Coercive Apparatus & Means of Force:__ The People's Armed Police expands as the primary internal security force; the military professionalizes and modernizes; surveillance capacity increases though remains primarily human-network-based rather than technological; the coercive apparatus demonstrated on June 4 persists as implicit threat.
+
+__Discharge, Disorder & Decay:__ Labor unrest in declining state enterprises, peasant protests against taxation and land seizures, and ethnic tensions in Tibet and Xinjiang generate localized disorder; the party manages these through a combination of localized suppression, targeted concessions, and media blackout; systemic challenge does not emerge.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-Tiananmen sentiment combines political disengagement with economic aspiration; the implicit bargain — prosperity in exchange for political quiescence — holds for the urban majority; nationalism emerges as an authorized emotional outlet, particularly around Hong Kong return (1997) and response to perceived foreign affronts (Belgrade embassy bombing, 1999).
+
+__Leadership & Personal Authority:__ Jiang Zemin consolidates power gradually after Deng Xiaoping's 1997 death; the collective leadership model institutionalizes further; charismatic authority gives way to bureaucratic legitimacy; the paramount leader remains party general secretary but exercises power through consensus building rather than personal command.
+
+__Legitimacy as Lived Allegiance:__ Performance legitimacy consolidates as the operative basis; the party's claim to rule rests on delivering growth, stability, and national dignity rather than revolutionary credentials or ideological correctness; this bargain holds through the period's economic success.
+
+__Political Will & Collective Resolve:__ The party's will to maintain control while accelerating market development remains unified; succession from Deng to Jiang proceeds without open conflict; the anti-corruption campaigns demonstrate will to discipline lower-level officials while protecting senior figures.
+
+__External Relations & Posture:__ Foreign policy emphasizes "peaceful rise" while managing tensions with the United States (Taiwan Strait crisis 1995–1996, embassy bombing 1999, EP-3 incident 2001); broadcasting frames foreign relations through nationalist lens while avoiding rhetoric that would provoke confrontation.
+
+__Disaffection, Apathy & Spent Will:__ Political disaffection among intellectuals and former activists persists but lacks organizational expression; broader public disengagement from politics represents acceptance of the post-Tiananmen settlement rather than active opposition; cynicism about official discourse coexists with material satisfaction.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Standard Mandarin consolidates further through television exposure; literacy approaches universality; internet access emerges by period's end (approximately 22 million users by 2000), initially concentrated among urban educated populations.
+
+__Channels & Transmission Velocity:__ CCTV expands to over ten channels including specialized services (news, entertainment, sports, education, international); provincial and municipal television proliferates with over 3,000 stations by 2000; cable television penetration grows rapidly in urban areas; satellite dish ownership spreads despite technical prohibition.
+
+__Record, Storage & Persistence:__ Television archives remain under state control; VCD and DVD technology enables home video distribution, creating an informal economy of copied programming; the internet begins creating distributed storage and retrieval beyond state control by period's end.
+
+__Framing, Censorship & Discourse Norms:__ Post-Tiananmen tightening gradually relaxes for economic and entertainment content while political boundaries remain firm; the "three T's" (Tiananmen, Tibet, Taiwan) plus Falun Gong (after 1999) define the hard limits; self-censorship becomes the primary enforcement mechanism as broadcasters internalize boundaries.
+
+__Reception, Attention & Amplification:__ Television penetration reaches approximately 95 percent of households; average daily viewing time approaches four hours; Xinwen Lianbo maintains its 7 PM anchor position; entertainment programming (drama serials, variety shows, sports) captures expanding attention share while news remains controlled.
+
+__Signal Integrity & Noise Load:__ Foreign shortwave broadcasts (VOA, RFA) continue reaching determined listeners; Hong Kong television signals penetrate Guangdong; internet access by period's end begins creating alternative information channels, though the "Great Firewall" infrastructure emerges to manage this challenge.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The post-Tiananmen period witnesses erosion of public morality discourse; "to get rich is glorious" legitimizes pursuit of personal wealth while collective ethical frameworks weaken; corruption is widely perceived as systemic while official discourse maintains anti-corruption rhetoric.
+
+__Law, Codification & Regulatory Evolution:__ Legal system development continues; commercial law, property law, and administrative law expand; broadcasting regulation formalizes through State Administration of Radio, Film, and Television (SARFT) decrees rather than legislative process; the rule of law advances instrumentally for economic purposes while remaining subordinate to party authority in political matters.
+
+__Adjudication, Liability & Sanction:__ Courts handle increasing commercial litigation; criminal justice remains harsh, with extensive use of death penalty; the legal system provides dispute resolution for economic actors while political cases remain subject to extralegal determination.
+
+__Rights, Protections & Compliance Burden:__ Constitutional amendments (1999) incorporate rule of law language and protect private property; press licensing remains state monopoly with no path to independent broadcasting; internet content regulation emerges as a new frontier of compliance requirements.
+
+__Impunity & Unredressed Wrong:__ June 4 victims remain officially unacknowledged; the "Tiananmen Mothers" movement seeking accounting faces continuous harassment; Cultural Revolution wrongs remain unaddressed; official impunity for corruption among senior figures persists despite lower-level prosecutions; the pattern of selective enforcement creates instrumental rather than principled rule of law.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Science and technology development receives priority; the "rejuvenating the nation through science and education" policy (1995) increases research funding; theoretical frameworks remain pragmatic, with "Three Represents" (Jiang Zemin's formula incorporating private entrepreneurs into party theory) providing ideological flexibility.
+
+__Applied Knowledge & Technical Method:__ Manufacturing technique advances rapidly through technology transfer and reverse engineering; broadcast technology modernizes with digital production equipment; domestic capacity for electronics manufacturing achieves global competitiveness.
+
+__Education, Knowledge Stock & Skill Distribution:__ Higher education expands; university enrollment increases from approximately 3 million to 12 million; technical and vocational training proliferates; the overseas-educated (haigui) begin returning, bringing foreign-acquired expertise.
+
+__Obsolescence & Knowledge Decay:__ Maoist political theory retains ceremonial status while losing operative significance; practical knowledge turnover accelerates as technology changes; traditional craft knowledge continues eroding as industrialization displaces artisanal production.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Chinese identity consolidates around modernization, national rejuvenation, and civilizational continuity; the "century of humiliation" narrative persists as motivation for development; the Cultural Revolution recedes into officially managed historical memory; June 4 enters enforced collective amnesia.
+
+__Legitimating Narrative & Ideology:__ "Socialism with Chinese characteristics" expands to accommodate private enterprise, stock markets, and WTO membership; pragmatic development replaces ideological purity; nationalism provides emotional content that economic pragmatism lacks.
+
+__Artistic Expression & Material Culture:__ Television drama serials flourish (historical epics, family sagas, urban contemporary stories); variety programming develops entertainment formats; advertising aesthetics shape visual culture; consumer goods mark status and modernity; architecture transforms as urban renewal demolishes traditional neighborhoods for high-rises.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary cultural forms complete their transformation into heritage tourism and nostalgic kitsch; socialist realist aesthetic exhausts; commercial entertainment fills cultural space without providing meaning frameworks; the search for authentic expression continues within commercial and political constraints.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Pragmatic materialism dominates; wealth accumulation and family advancement provide operative meaning; official atheism persists nominally while religious practice revives; existential questions receive no authorized public address as entertainment and consumption substitute for meaning.
+
+__Ritual, Devotion & Sacred Practice:__ Religious revival accelerates across all traditions; Buddhist and Taoist temples attract visitors combining devotion with tourism; Christian congregations grow in both official and unofficial channels; Falun Gong emerges (1992) and spreads rapidly before suppression campaign begins (1999).
+
+__Religious Institutions & Doctrinal Authority:__ Patriotic religious associations maintain state-supervised religious expression; the Falun Gong suppression demonstrates party intolerance of organized spiritual movements outside state control; the house church movement grows despite periodic pressure.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity continues spreading, particularly Protestantism in rural areas; traditional folk religion revives; qigong and related practices attract millions before the post-Falun Gong crackdown constrains the space; syncretic combinations of Buddhist, Taoist, and folk elements characterize popular religiosity.
+
+__Disenchantment & Sacred Discharge:__ The spiritual vacuum left by ideological exhaustion remains partially unfilled; material prosperity fails to provide existential meaning; the search for spiritual grounding continues, channeled into state-approved religions, unofficial spiritual movements (before suppression), or persistent disenchantment; television provides distraction rather than transcendence.

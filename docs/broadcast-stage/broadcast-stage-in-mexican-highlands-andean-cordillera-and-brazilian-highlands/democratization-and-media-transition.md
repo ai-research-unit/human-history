@@ -1,69 +1,139 @@
-# __1985 CE – 1995 CE__ — Democratization and Media Transition
-__Summary:__ Military regimes yield to civilian democracy across Latin America while broadcast oligopolies retain dominance through accommodation with new democratic governments; the binding constraint is the tension between democratic demands for media pluralism and oligarchic determination to preserve monopoly positions; the system holds margin through media owners' successful navigation of political transition, trading electoral support for regulatory protection; the principal direction is political liberalization without corresponding media democratization, consolidating private broadcast power within formally democratic frameworks.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental geography unchanged; satellite coverage now comprehensive enabling live election coverage across terrain; urban concentration intensifies as megacities expand; Andean and Amazonian regions remain peripherally served; spatial friction declining through technical improvement.<br><br>
-__Climate Regime & Volatility:__ El Nino events (1991-1992) affect agricultural regions; drought patterns continue in northeastern Brazil; climate variability within historical bounds; no secular drift detected; infrastructure adequate against normal climate loads with margin to spare.<br><br>
-__Hazard Regime & Exposure:__ Mexico City earthquake 1985 kills thousands and exposes infrastructure vulnerability; volcanic eruptions (Nevado del Ruiz 1985) demonstrate broadcast's role in disaster communication; seismic exposure remains constant; hazard regime absorbed with existing capacity.<br><br>
-__Resource & Energy Endowment:__ Oil prices volatile affecting Mexico and Venezuela; hydroelectric capacity stable; mineral resources continue exploitation; energy endowment adequate for continued broadcast infrastructure expansion; extraction sustainable within window.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste increasing with equipment turnover but still minor relative to industrial pollution; urban air quality degrading in megacities from vehicle emissions; broadcast-specific sink load negligible; sinks stressed by urbanization generally rather than media sector specifically.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ AIDS epidemic emerges as new threat; cholera returns to Peru 1991; infant mortality continues declining; vaccination coverage expanding; endemic disease burden reducing in aggregate; mortality trending downward despite new pathogen introduction.<br><br>
-__Nutrition & Physiological Vitality:__ Economic crisis (lost decade aftermath) stresses nutrition among poor; structural adjustment programs cut food subsidies; obesity beginning to emerge among urban middle class; vitality gains slow or reverse among vulnerable populations; distribution increasingly unequal.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility transition advancing with total fertility rates falling toward replacement in southern cone and urban Brazil; contraception access expanding despite Church opposition; pair-bonding patterns continuing shift toward smaller families; biological fertility unconstrained but socially moderated.<br><br>
-__Demographic Renewal & Density:__ Population growth slowing but still positive; urban density intensifying in favelas and informal settlements; age structure shifting as youth bulge matures into workforce; migration flows from countryside continue; density approaching stress points in metropolitan cores.<br><br>
-__Attrition & Dependency Overhang:__ Post-dictatorship accounting reveals thousands of disappeared creating orphan and widow burdens; elderly population growing; dependency ratio improving as birth rates decline; productive cohort absorbing load with strain concentrated in affected families.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Lost decade (1980s) depresses living standards; hyperinflation devastates purchasing power; structural adjustment imposes austerity; provisioning floor lowered for urban poor; informal economy expands as buffer; margin against subsistence crisis thin in crisis years, improving late-window.<br><br>
-__Energy Capture & Conversion:__ Hydroelectric and petroleum continue dominant; natural gas emerging as alternative; broadcast infrastructure energy demand stable; per-capita consumption stagnant during crisis years then resuming growth; conversion efficiency adequate; no energy constraint on broadcasting.<br><br>
-__Labor Organization & Coercion:__ Unions recover legal status with democratization; strikes resume as legitimate action; broadcast workers organize; coercion reduced but economic necessity disciplines labor; wage labor dominates with reduced state-directed coercion and increased market discipline.<br><br>
-__Production & Surplus Capacity:__ Telenovela production industrial at scale; Globo, Televisa export globally; advertising revenues recover post-crisis; production capacity exceeds domestic demand enabling export surplus; manufacturing recovering from lost decade; surplus extraction resuming growth trajectory.<br><br>
-__Storage, Reserves & Buffering:__ Foreign exchange reserves depleted by debt servicing then slowly rebuilding; stabilization plans (Brazil Real Plan 1994) restore buffering capacity; broadcast equipment inventories maintained; reserve capacity improving from crisis nadir toward window end.<br><br>
-__Exchange, Trade & Logistics:__ NAFTA (1994) integrates Mexico with North American market; Mercosur (1991) creates southern cone trade bloc; telenovela exports expand to global markets including Eastern Europe and Asia; logistics infrastructure improving; exchange velocity accelerating.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Hyperinflation peaks (Argentina, Brazil, Peru) then stabilization programs restore monetary function; Real Plan and Convertibility create stable currencies; credit recovering; value storage possible again after years of currency destruction; stability improving dramatically.<br><br>
-__Surplus Extraction & Redistribution:__ Democratic states maintain extraction but shift redistribution toward social spending; privatization transfers state assets to private holders; broadcast licensing continues as patronage instrument; extraction load moderating as economies stabilize; redistribution patterns contested politically.<br><br>
-__Wealth Distribution & Asset Defense:__ Concentration persists with media oligopolies intact; privatization enriches connected elites; asset defense through regulatory capture and political alliance; Gini coefficients remain among world's highest; concentration stable despite democratic transition.<br><br>
-__Byproducts & Waste Routing:__ Broadcast production waste minimal; consumer electronics waste growing with equipment replacement cycles; routing follows general municipal patterns; no broadcast-specific accumulation; industrial waste addressed through emerging environmental regulation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust recovering as repression lifts but damaged by economic crisis; mutual aid networks stressed by hyperinflation; neighborhood associations reviving; civil society rebuilding; trust radius expanding from authoritarian nadir but constrained by economic insecurity.<br><br>
-__Stratification, Status & Group Identity:__ Class polarization intensifying during crisis; racial consciousness emerging with black movement in Brazil; indigenous mobilization accelerating in Andean countries; stratification boundaries somewhat loosened by democratic opening but economic inequality counters social mobility.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family norm strengthening in urban areas; extended kin networks remain functional for economic survival during crisis; media dynasties continue family succession (Azcarraga Jr., Roberto Marinho heirs); inheritance patterns stable; kinship forms adapting to urban modernity.<br><br>
-__Civic Association & Self-Organization:__ Explosive growth of civil society organizations post-democratization; NGOs multiply; professional associations recover autonomy; neighborhood movements active; associational fabric thickening rapidly after authoritarian suppression; self-organization flourishing.<br><br>
-__Leisure, Play & Sociability:__ Telenovela viewing remains central household practice; soccer broadcasting expands with cable; leisure patterns stable with television dominant; public festivity returns without surveillance fear; sociability recovering authentic public dimension alongside continued domestic media consumption.<br><br>
-__Grievance Channels & Social Discharge:__ Electoral participation restored as grievance channel; protests legal and frequent; media coverage of social movements expands; truth commissions begin processing dictatorship crimes; discharge capacity dramatically improved; accumulated grievance beginning to metabolize.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Democratic transitions complete (Brazil 1985, Argentina 1983, Chile 1990); civilian presidents govern; power fragmenting through electoral competition; legislative and judicial branches recovering autonomy; decentralizing trend as authoritarian concentration dissolves; federalism strengthening.<br><br>
-__Succession & Power Transfer:__ Electoral succession normalized; peaceful transfers occurring (Alfonsin to Menem, Sarney to Collor to Itamar to Cardoso); Mexico's PRI challenged but maintains control; Chilean transition manages Pinochet departure; transfer increasingly routinized and accepted; flashpoints diminishing.<br><br>
-__Legitimacy & Political Narrative:__ Democratic legitimacy ascendant; human rights discourse frames political debate; neoliberal reform ideology contests with social democratic alternatives; legitimacy strengthened by electoral participation though contested by economic crisis effects; belief in democratic system growing.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity weakened by crisis and structural adjustment; tax collection improving; broadcast regulation remains captured by oligopolies; corruption endemic but prosecutable; capacity rebuilding unevenly across functions; integrity improving from authoritarian baseline.<br><br>
-__Political Participation & Mobilization:__ Electoral participation high and enthusiastic post-transition; parties proliferating; social movements active; media campaigns become central to politics; TV Globo editors Collor victory then his impeachment; participation channels open and heavily used.<br><br>
-__Geopolitical Position & External Relations:__ Cold War ending removes anti-communist frame; US relations shift to trade and drug policy; regional integration advancing (Mercosur, NAFTA); Argentina-Chile rivalry resolved; external relations normalized within democratic framework; geopolitical pressure reduced.<br><br>
-__Coercive Apparatus & Means of Force:__ Military returning to barracks; police remain problematic with continued violence; security forces downsized; civilian control establishing; amnesty laws protect former perpetrators; coercive apparatus shrinking and increasingly subordinate to civilian authority; monopoly maintained with reduced intensity.<br><br>
-__Internal Order & Threat Environment:__ Political violence declining as insurgencies end or transform (Colombia exception); criminal violence rising especially in urban Brazil; drug trafficking emerging as security challenge; disorder shifting from political to criminal; enforcement capacity strained by new crime patterns.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Television nearly universal in urban areas; cable beginning to expand; satellite technology enabling regional coverage; VCR penetration growing; transmission velocity instantaneous within extensive reach; channel diversity beginning to increase from monopoly baseline.<br><br>
-__Record, Storage & Persistence:__ Broadcasting archives maintained; VHS enables home recording and alternative distribution; video journalism emerging; human rights documentation preserved; official censorship ended; persistence improved as information control relaxes; record more plural than authoritarian period.<br><br>
-__Framing, Censorship & Discourse Norms:__ Formal censorship ended; self-censorship persists from habit and commercial interest; permitted discourse band widening significantly; political debate broadcast; investigative journalism emerging; norms liberalizing though oligopoly ownership constrains perspective diversity.<br><br>
-__Reception, Attention & Amplification:__ Mass audiences persist for prime programming; electoral broadcasts reach tens of millions; amplification power concentrated in oligopoly hands; attention patterns stable with telenovela dominance; reception increasingly differentiated by emerging cable options.<br><br>
-__Signal Integrity & Noise Load:__ Information environment more plural but commercial incentives shape content; rumor and speculation circulate more freely; verification capacity limited; noise increasing with information volume; signal integrity variable depending on source; filtering by audience developing.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice sense activated by dictatorship accountability demands; truth commissions (Argentina's CONADEP) document violations; popular demand for accountability strong; moral foundations reasserting against impunity; sense of justice mobilized but frustrated by amnesty laws.<br><br>
-__Law, Codification & Regulatory Evolution:__ New constitutions enacted (Brazil 1988, Colombia 1991); broadcast regulation contested with oligopolies defending monopolies; human rights norms incorporated; regulatory evolution contested between democratic reform and captured continuity; evolution direction liberalizing but incomplete.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts recovering independence; constitutional courts active; Collor impeachment demonstrates judicial function; enforcement improving for commercial matters; political liability contested through amnesty challenges; throughput increasing but backlog substantial.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights restored and expanded; press freedom established; broadcast licensing somewhat depoliticized; compliance burden reduced for ordinary conduct; protection available through functioning courts; rights framework dramatically improved from authoritarian period.<br><br>
-__Impunity & Unredressed Wrong:__ Amnesty laws protect most perpetrators; justice gap from dictatorship era largely unaddressed; new democratic violations occur with police brutality; redress capacity improved for current wrongs but historical deficit persists; impunity for past crimes structural problem.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Academic freedom restored; universities rebuild; democratic transition theory develops; neoliberal economics dominates policy; alternative paradigms persist in social sciences; discovery frontier active in understanding transition processes; paradigm contest between market and social democratic frameworks.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast production methods continue advancing; polling and survey research applied to elections; media effects research develops; technical method sophisticated in commercial applications; knowledge successfully transferred to electoral and marketing contexts.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education expanding at all levels; university enrollment growing; literacy near universal in urban areas; technical skills spreading with economic recovery; knowledge distribution improving; skill base adequate for broadcast sector needs and expanding.<br><br>
-__Obsolescence & Knowledge Decay:__ Authoritarian-era distortions being corrected; brain drain partly reversed as exiles return; critical knowledge rebuilding; technical knowledge maintained and advancing; decay from previous period being repaired; error-correction resuming with academic freedom.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Dictatorship memory becomes contested terrain; nunca mas (never again) enters collective vocabulary; national identity narratives revised to incorporate democratic values; foundational stories expanding to include resistance and suffering; memory politics active.<br><br>
-__Artistic Expression & Material Culture:__ Telenovela addresses contemporary themes including AIDS, drugs, corruption; cinema renaissance in Argentina and Mexico; consumer culture expands; aesthetic conventions diversifying; expression liberated from censorship though commercial constraints persist; material culture modernizing.<br><br>
-__Collective Mood & Behavioral Disposition:__ Democratic euphoria gives way to economic crisis anxiety then stabilization relief; mood cycling with economic conditions; risk perception elevated by crime and economic uncertainty; behavioral disposition more assertive with rights consciousness; mood improving late-window.<br><br>
-__Form Exhaustion & Meaning Decay:__ Authoritarian symbols thoroughly discredited; democratic forms fresh and vital; telenovela renews through social relevance; exhaustion concentrated in discarded authoritarian imagery; meaning generation active through cultural processing of transition experience.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic worldview challenged by moral failures during dictatorship; secularization continuing in urban middle class; evangelical Protestantism offering alternative certainty; existential outlook varied between secular democratic hope and religious renewal; balance shifting toward pluralism.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Evangelical worship expanding rapidly; Catholic devotion persisting especially popular saints; syncretic practice continuing; pilgrimage traditions maintained; devotional infrastructure diversifying; practice pluralizing with Protestant growth; sacred calendar still organized Catholic festivals.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic Church authority weakened by dictatorship compromises and liberation theology suppression; evangelical denominations growing institutional presence; Protestant-Catholic competition intensifying; doctrinal authority fragmenting across multiplying churches; institutional landscape pluralizing.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pentecostal explosion underway with double-digit growth rates; Afro-Brazilian religions maintain presence; Catholic nominalism increasing; syncretic practice widespread; diffusion strongly toward Protestant alternatives; displacement of Catholic monopoly accelerating.<br><br>
-__Disenchantment & Sacred Discharge:__ Catholic institutional credibility damaged; spiritual need met partly by evangelical fervor, partly by consumer aspiration broadcast through television; transcendence sought in prosperity gospel and telenovela happy endings; disenchantment with traditional Church redirected rather than settling as void.<br><br>
+# __1985 CE – 1995 CE — Democratization and Media Transition__
+
+__Summary:__ Democratic transitions across Latin America transform broadcast regimes from military partnership to commercial autonomy, as newly elected governments navigate media relationships while private broadcasters consolidate power freed from state censorship but not from state dependency; the binding constraint is the incomplete transfer — military regimes end but media monopolies (Globo, Televisa, Clarín) persist and expand, translating their infrastructure and audience lock-in into political leverage over fragile democracies, while cable and satellite technology begins fragmenting the broadcast monopoly that underpinned their power.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Broadcast infrastructure expands into previously underserved territories as democratic governments extend services to rural populations and urban peripheries politically mobilized during transitions. Satellite distribution enables true national coverage; microwave relay networks mature. The mega-city broadcast centers — Mexico City, São Paulo, Rio, Buenos Aires, Bogotá, Caracas — consolidate production dominance while provincial affiliates multiply.
+
+__Climate Regime & Volatility:__ El Nino events (1991–92) disrupt agricultural economies, generating newsworthy coverage under newly free press conditions. Climate remains secondary to political and economic transformation as news priority.
+
+__Hazard Regime & Exposure:__ The 1985 Mexico earthquake's aftermath catalyzes civil society organizing that shapes democratic transition; broadcast coverage of disaster response becomes template for civic journalism. Volcanic events (Nevado del Ruiz 1985, killing 23,000 in Colombia) receive unprecedented broadcast attention. Earthquake resilience planning enters public discourse.
+
+__Resource & Energy Endowment:__ Oil price decline through the 1980s constrains petroleum exporters (Mexico, Venezuela); import substitution exhaustion forces economic opening. Privatization of state enterprises proceeds unevenly. Electrification nears completion in major countries — Brazil exceeds 90% household access by 1995.
+
+__Waste Absorption & Sink Capacity:__ Environmental reporting emerges under press freedom; Amazon deforestation (Chico Mendes assassination 1988) enters broadcast news cycle. Rio Earth Summit (1992) brings global environmental attention to Brazil. Air pollution in Mexico City reaches crisis levels, generating sustained coverage. The environmental sink accumulates visible damage now reportable.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ HIV/AIDS emerges as health crisis; Brazil begins pioneering generic antiretroviral response. Cholera returns to Peru (1991 epidemic, 300,000+ cases) and spreads regionally, demonstrating infrastructure deficits. Infant mortality continues declining but disparities between social strata persist.
+
+__Nutrition & Physiological Vitality:__ Structural adjustment programs cut food subsidies, affecting poor populations. Nutritional polarization widens as economic liberalization produces winners and losers. Middle-class consumption patterns increasingly visible through broadcast advertising.
+
+__Care, Healing & Recovery Capacity:__ Healthcare systems under fiscal pressure from debt crisis and structural adjustment. Brazilian SUS (Unified Health System, 1988 constitution) establishes universal healthcare mandate with uneven implementation. Private healthcare expands for those able to pay. Traditional medicine persists in indigenous communities.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility continues declining — Brazil reaches approximately 2.5 children per woman by 1995. Telenovela influence on smaller families documented by demographic research. Contraception access expands; abortion remains legally restricted but widely practiced.
+
+__Demographic Renewal & Density:__ Regional population reaches approximately 480 million by 1995. Urbanization continues; favela populations expand in Brazilian cities. Migration patterns shift as economic opportunities change under liberalization. Youth bulge creates large cohorts entering adulthood during democratic opening.
+
+__Attrition & Dependency Overhang:__ The biological legacy of military violence emerges: survivors of torture with lasting trauma, orphaned children of the disappeared, aging mothers of Plaza de Mayo. Truth commission documentation quantifies the human toll. Dependency burdens from violence layer onto normal demographic attrition.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ "Lost decade" effects persist into early 1990s; poverty rates elevated. Structural adjustment cuts subsidies and public employment. Informal sector absorbs displaced workers. Food security varies dramatically by class and region.
+
+__Energy Capture & Conversion:__ Electricity reaches most households; television penetration follows. Petroleum sector restructuring — Mexican PEMEX retains state control, Argentine YPF privatizes (1993). Hydroelectric capacity expands; environmental costs visible (Amazon dam controversies).
+
+__Labor Organization & Coercion:__ Labor unions regain legal standing under democracy; Brazilian CUT, Mexican independent unions, Argentine CGT operate openly. Strike activity increases. New constitutions (Brazil 1988) expand labor rights. Informalization continues despite legal protections.
+
+__Production & Surplus Capacity:__ Economic opening disrupts import substitution industries; competitive pressures force restructuring. Privatization transfers state enterprises to private (often foreign) ownership. Advertising market expands with commercial television's political freedom.
+
+__Storage, Reserves & Buffering:__ Debt overhang dominates fiscal space; Brady Plan restructurings (Mexico 1989, Argentina 1992, Brazil 1994) provide relief through debt reduction and rescheduling. Hyperinflation (Brazil pre-Real Plan, Argentina pre-Convertibility) destroys savings. Stabilization plans (Collor, Cavallo, Real Plan 1994) attempt to restore monetary function.
+
+__Exchange, Trade & Logistics:__ Trade liberalization accelerates; NAFTA (1994) integrates Mexico with US and Canada. Mercosur (1991) creates Southern Cone common market. Import competition transforms domestic production; consumer goods availability expands. Telenovela exports become significant foreign exchange earner.
+
+__Value Storage, Credit & Deferred Exchange:__ Monetary stabilization succeeds unevenly — Argentine Convertibility (1991), Brazilian Real Plan (1994) achieve stability after hyperinflationary episodes; Mexico's peso crisis (December 1994) demonstrates fragility. Credit expansion follows stabilization; consumer finance begins.
+
+__Surplus Extraction & Redistribution:__ Tax reform attempts generate revenue for new democracies; resistance from elites limits progressivity. Social spending pressures from electoral competition. IMF conditionality constrains fiscal autonomy. Inflation reduction benefits poor through stable prices.
+
+__Wealth Distribution & Asset Defense:__ Privatization transfers state assets to concentrated private ownership. Capital markets develop; elite wealth defended through financial instruments and offshore placement. Land concentration persists; MST (landless movement) in Brazil challenges agrarian structure.
+
+__Byproducts & Waste Routing:__ Industrial restructuring reduces some pollution as inefficient plants close; remaining production faces limited environmental enforcement. Debt restructuring clears some accumulated financial imbalance; new imbalances accumulate under capital account liberalization.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Divorce legalized in Argentina (1987), Brazil (expanded 1988 constitution). Family law modernizes under democratic constitutions. Telenovela representation of diverse family forms gains acceptance. Inheritance patterns unchanged structurally.
+
+__Association & Mutual Aid:__ Civil society flourishes under democracy: NGOs multiply, social movements gain legal space, neighborhood associations organize. Human rights organizations institutionalize (Madres, Abuelas, Servicio Paz y Justicia). Church-based communities continue but diversify into secular forms. Labor unions regain autonomy.
+
+__Leisure, Play & Sociability:__ Television remains dominant leisure activity but cable and VHS expand choices. Shopping mall culture spreads as consumer economy develops. Football maintains unifying role; World Cups (1986, 1990, 1994) broadcast nationally.
+
+__Stratification, Status & Group Structure:__ Middle class squeezed by adjustment and stabilization; new consumption possibilities offset by employment insecurity. Racial hierarchy persists; Afro-Brazilian and indigenous movements gain visibility. Women's movements advance rights agenda. New democratic constitutions formalize equality provisions.
+
+__Administrative Capacity & Institutional Integrity:__ New democratic constitutions (Brazil 1988, Colombia 1991, Paraguay 1992) restructure institutions. Electoral systems tested; early post-transition elections generally successful. Corruption persists and becomes politically salient — Collor impeachment (Brazil 1992), Mexican PRI scandals. Decentralization expands subnational government.
+
+__Coercive Apparatus & Means of Force:__ Military returns to barracks, subordinated to civilian control unevenly across countries. Police forces retain violence patterns from authoritarian period; favela incursions, torture in custody. Intelligence services restructured but institutional memory persists. Sendero Luminoso insurgency in Peru peaks and declines under Fujimori's authoritarianism (1992 Abimael Guzmán capture). Drug trafficking violence emerges in Colombia and Mexico.
+
+__Discharge, Disorder & Decay:__ Urban crime becomes primary broadcast news content under press freedom; security concerns dominate public discourse. Truth commissions (Argentina CONADEP, Chile Rettig) process military-era violations; amnesty laws constrain justice. Social friction from inequality and adjustment accumulates; protest movements multiply.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Democratic euphoria transitions to "democratic disenchantment" as economic difficulties persist. Hope for transformation meets institutional inertia. Trust in institutions low; personalism in politics persists. Crime fear becomes dominant public emotion by decade's end.
+
+__Leadership & Personal Authority:__ Democratic leaders emerge: Alfonsín, Sarney, Aylwin represent transition; Menem, Collor, Salinas represent neoliberal turn. Media owners (Marinho, Azcárraga, Magnetto) exercise authority parallel to elected officials. Lula's emergence (1989 election defeat) signals future.
+
+__Legitimacy as Lived Allegiance:__ Electoral legitimacy replaces military; democratic procedures accepted. But economic performance conditions allegiance — hyperinflation destroys legitimacy (Alfonsín, Collor); stabilization restores it (Menem, Cardoso). Media legitimacy shifts from regime partnership to independent commercial authority.
+
+__Political Will & Collective Resolve:__ Democratic will consolidates; military coup attempts defeated (Argentina 1987-90, Venezuela 1992). Reform will varies — Chile's "democracy of agreements" limits change; Brazil's 1988 constitution represents popular mobilization. Electoral participation high; civil society engaged.
+
+__External Relations & Posture:__ Cold War ends; US-Latin America relations shift to trade and drug enforcement. Regional integration advances (Mercosur, NAFTA). Human rights as diplomatic currency; OAS democratic commitments. Venezuela's 1992 coup attempts signal coming instability.
+
+__Disaffection, Apathy & Spent Will:__ Early democratic enthusiasm yields to routine politics and periodic disillusionment. Economic hardship generates protest but not regime rejection. Electoral turnout remains relatively high; democratic commitment survives despite disappointments.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ National broadcasting achieves linguistic unification; Brazilian Portuguese and Mexican Spanish set standards. Indigenous language broadcasting minimal but expanding in Bolivia, Peru. Literacy nears 90% in major countries.
+
+__Channels & Transmission Velocity:__ Television penetration exceeds 85% of households in major markets. Cable television emerges in upper and middle-class urban areas — Brazilian cable grows from near zero to approximately 3 million subscribers. Satellite direct-to-home begins. VHS enables time-shifting and independent content. FM radio expansion diversifies local audio.
+
+__Record, Storage & Persistence:__ Truth commission documentation creates historical record of military period. Videotape archives preserve broadcast content. Press freedom enables investigative journalism that documents institutional corruption. Personal VHS recording creates private archives.
+
+__Framing, Censorship & Discourse Norms:__ Formal censorship ends; self-censorship persists regarding military and advertiser interests. News coverage expands dramatically — crime, politics, economics enter broadcast agenda. Investigative journalism emerges (Veja magazine, television newsmagazines). Commercial incentives shape coverage as much as residual political pressure.
+
+__Reception, Attention & Amplification:__ Telenovela ratings remain high but declining from military-era peaks as alternatives multiply. News audiences grow; Jornal Nacional maintains dominant position. Audience fragmentation begins; cable and VHS compete for attention.
+
+__Signal Integrity & Noise Load:__ Information volume expands under press freedom; verification capacity lags. Tabloid television emerges (sensationalism, crime coverage). Political advertising (unrestricted in most countries) adds campaign noise. The transition from information scarcity (censorship) to abundance (commercial competition) challenges public comprehension.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Transitional justice debates dominate moral discourse: punishment versus reconciliation, truth versus amnesty. "Nunca Más" establishes moral baseline. Human rights frameworks institutionalize. Economic justice claims (land reform, labor rights) persist.
+
+__Law, Codification & Regulatory Evolution:__ New constitutions embed rights frameworks. Broadcast regulation evolves slowly — licenses remain political currency, spectrum allocation favors incumbents. Media concentration limits proposed but rarely enacted. Environmental and labor codes strengthen.
+
+__Adjudication, Liability & Sanction:__ Courts gain independence but capacity limits persist. Human rights trials blocked by amnesty laws (Argentina 1986-87 Punto Final and Obediencia Debida; Chile amnesty persists). Collor impeachment demonstrates congressional accountability. International human rights adjudication emerges.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights expand — Brazil 1988 constitution extensive. Indigenous rights, women's rights, children's rights codified. Implementation lags formalization. Press freedom constitutionalized but economic pressure on independent media.
+
+__Impunity & Unredressed Wrong:__ Military impunity persists through amnesty; the disappeared remain unaccounted. Elite corruption prosecuted selectively (Collor) while systemic patterns continue. Police violence largely unpunished. The moral debt from military era only partially addressed; "justice as far as possible" compromise.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Democratic transition theory dominates political science. Neoliberal economics displaces structuralism as policy paradigm. Sociology of media emerges. Postmodern and cultural studies influence enter academy. Exiled intellectuals return.
+
+__Applied Knowledge & Technical Method:__ Satellite technology enables national broadcast integration. Cable infrastructure develops. Digital editing begins in broadcast production. Polling and audience research methods sophisticate. Economic stabilization as technical achievement (Real Plan).
+
+__Education, Knowledge Stock & Skill Distribution:__ University expansion continues; private higher education grows alongside public systems. Secondary education enrollment rises. Professional journalism training develops. Technical education for broadcast industry expands. Skill polarization accompanies economic liberalization.
+
+__Obsolescence & Knowledge Decay:__ Dependency theory marginalized but not refuted. Military-era suppressions create knowledge gaps being reconstructed. Some practical knowledge lost as state enterprises privatize and institutional memory disperses. Documentary record of military period recovered through truth commissions.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Democratic founding narratives emerge — Argentina's "Nunca Más," Brazil's "Diretas Já," Chile's plebiscite victory. Military-era silence yields to memory projects. National identity reframed around democratic participation rather than developmental state.
+
+__Legitimating Narrative & Ideology:__ Democracy and market reform as complementary legitimations. "Modernization" through privatization and trade opening. Human rights as moral foundation. Telenovela continues providing social mobility and romantic fulfillment narratives.
+
+__Artistic Expression & Material Culture:__ Telenovela production diversifies — historical dramas, social realism, regional settings. Independent film benefits from end of censorship. Rock nacional and other popular music flourish. Consumer goods availability transforms material culture as trade opens. Shopping mall aesthetic spreads.
+
+__Form Exhaustion & Meaning Decay:__ Military-era symbols discredited. Revolutionary left imagery fades as Cold War ends. Traditional telenovela melodrama faces exhaustion; social-realist innovation extends form. National development narratives give way to globalized consumer aspirations.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic majorities persist but evangelical Protestant growth accelerates — Brazil evangelical population rises from approximately 6% to 10% across the decade. Pentecostalism spreads in urban peripheries. Post-authoritarian existential opening: possibility replaces fear.
+
+__Ritual, Devotion & Sacred Practice:__ Catholic practice patterns stable among traditional faithful; Base Ecclesial Communities persist but lose political urgency. Evangelical worship practices gain visibility; Television church programs emerge (Igreja Universal do Reino de Deus, founded 1977, grows rapidly). Syncretic practices continue.
+
+__Religious Institutions & Doctrinal Authority:__ Catholic Church transitions from opposition role; John Paul II conservatism limits liberation theology. Evangelical churches institutionalize rapidly; televangelism develops. Church-state relations stabilized under democratic constitutions; religious education and property rights clarified.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical expansion represents significant religious displacement from Catholic baseline. Prosperity gospel appeals to economic anxieties. Afro-Brazilian religions maintain presence; Umbanda visible in Brazilian broadcasting. Indigenous spirituality gains some recognition in multicultural constitutional frameworks.
+
+__Disenchantment & Sacred Discharge:__ Church collaboration with some military regimes (Chilean hierarchy) generates lasting disenchantment among some faithful. Secularization advances among urban educated elites. The sacred authority of the church is partially displaced by evangelical alternatives rather than abandoned entirely. Standing disenchantment from military-era violations remains unresolved where justice was denied.

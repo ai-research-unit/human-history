@@ -1,69 +1,139 @@
-# __1783 CE – 1800 CE__ — New Republic and Constitutional Print
-__Summary:__ The formative period of the American constitutional order, from independence through ratification of the Constitution and the contested elections of the 1790s, in which print serves as the primary medium for constitutional debate, partisan warfare, and the construction of republican public opinion. The binding constraint is the fragility of untested republican institutions; the system holds narrow margin against both internal faction and external threat; direction is toward constitutional consolidation with emergent party competition and contested press freedom.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Atlantic seaboard from Maine to Georgia; Appalachian barrier limits western expansion though settlement pushes into Kentucky and Tennessee; river systems facilitate internal movement; coastal shipping connects port cities; spatial extent challenges communication and governance.<br><br>
-__Climate Regime & Volatility:__ Temperate continental regime continues; normal seasonal variation; no significant secular drift; agricultural productivity stable within established patterns.<br><br>
-__Hazard Regime & Exposure:__ Routine coastal storms, river flooding, and localized drought within historical range; yellow fever epidemics in port cities (Philadelphia 1793) the primary acute hazard; settlement holds adequate margin against environmental shocks.<br><br>
-__Resource & Energy Endowment:__ Abundant timber, waterpower, and arable land; coastal fisheries productive; iron and modest mineral extraction; resource endowment far exceeds population pressure; no significant drawdown against stocks.<br><br>
-__Waste Absorption & Sink Capacity:__ Agrarian and early manufacturing waste absorbed by landscape; urban sanitation primitive but populations small; no sink saturation; absorptive capacity effectively unlimited at current scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic smallpox, typhus, and dysentery; yellow fever outbreaks in coastal cities episodically devastating; overall mortality rate moderate; post-war conditions stabilizing; Indigenous populations continue decline from disease and displacement.<br><br>
-__Nutrition & Physiological Vitality:__ Adequate food supply supports robust population; nutritional status favorable by contemporary standards; stature and vitality maintained; no widespread malnutrition among free population.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility, early marriage, monogamous household formation; reproductive capacity unconstrained; family size large; physiological fertility matches demographic demand.<br><br>
-__Demographic Renewal & Density:__ Population approximately 4 million by 1790 census; rapid natural increase; immigration modest but resuming; density concentrated along coast; replacement ratios strongly positive; expansion into western territories accelerating.<br><br>
-__Attrition & Dependency Overhang:__ War widows and orphans absorbed by kin and community; aging veterans require support; dependency load manageable within household and local charitable structures; no systemic overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed agriculture secures subsistence for most households; market participation increasing; urban provisioning adequate; no famine threat; floor stable and rising.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle primary; waterpower expanding for mills; firewood and charcoal plentiful; per-capita energy adequate for agrarian-commercial economy; no significant conversion bottleneck.<br><br>
-__Labor Organization & Coercion:__ Free labor in North combines family farming, artisanal workshops, and emerging wage work; enslaved labor expands in South as cotton cultivation begins; indentured servitude fading; coercion concentrated in slavery; free labor markets developing.<br><br>
-__Production & Surplus Capacity:__ Agricultural exports resume; manufacturing nascent but growing; surplus generation adequate; Hamilton's financial program aims to stimulate productive capacity; output ceiling rising gradually.<br><br>
-__Storage, Reserves & Buffering:__ Household and merchant stocks; federal government establishes treasury and begins accumulating fiscal capacity; no strategic reserves; buffer capacity adequate for peacetime conditions.<br><br>
-__Exchange, Trade & Logistics:__ Atlantic trade resumes though British restrictions persist; coastal and river commerce develops; post roads improve; market integration advancing; logistics remain slow but functional.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Hamilton's financial system funds national debt, establishes Bank of United States (1791), and stabilizes currency; specie and bank notes circulate; credit expanding; land remains primary store of value.<br><br>
-__Surplus Extraction & Redistribution:__ Federal tariffs and excise taxes (whiskey tax) establish revenue base; state taxation continues; fiscal capacity building; extraction load modest; Whiskey Rebellion (1794) tests enforcement.<br><br>
-__Wealth Distribution & Asset Defense:__ Land distribution relatively broad among white males in North; plantation elite consolidates in South; speculation in western lands and government securities concentrates wealth among connected investors; asset defense through law and contract.<br><br>
-__Byproducts & Waste Routing:__ Agricultural and artisanal waste dispersed and recycled; urban waste accumulates in cities but populations small; no industrial effluent at scale; routing adequate; sink not approached.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Post-war trust rebuilding; partisan divisions (Federalist vs. Republican) create new cleavage; neighborhood and congregational mutual aid continues; trust radius moderate and contested along political lines.<br><br>
-__Stratification, Status & Group Identity:__ White male property holders form political nation; enslaved population excluded and expanding; women subordinate; class distinctions sharpening between commercial-professional elite and yeoman farmers; ethnic identity less salient than political faction.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance predominates; nuclear households with extended networks; partible inheritance spreading; family structure stable; household formation facilitated by land availability.<br><br>
-__Civic Association & Self-Organization:__ Democratic-Republican societies emerge mid-1790s; voluntary associations multiply; Masonic lodges; benevolent societies; associational fabric thickening despite Federalist suspicion of "self-created societies."<br><br>
-__Leisure, Play & Sociability:__ Taverns, coffeehouses, and public celebrations; Fourth of July observances institutionalized; partisan sociability in clubs and reading rooms; leisure time limited but social gathering maintains community bonds.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to legislatures, elections, newspaper debates, and public meetings channel grievances; Whiskey Rebellion suppressed; partisan press absorbs and amplifies factional anger; discharge channels functional but strained by partisan intensity.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitution ratified 1788 creates federal structure with separation of powers; Washington's administration establishes executive precedents; power shared among branches and between federal and state governments; authority consolidating at federal level under Federalist administrations.<br><br>
-__Succession & Power Transfer:__ Electoral college selects president; Washington sets two-term precedent; 1796 election contested between Adams and Jefferson; 1800 election crisis resolved peacefully; transfer mechanisms tested and holding despite strain.<br><br>
-__Legitimacy & Political Narrative:__ Constitutional republicanism legitimizes government; Federalist Papers articulate theoretical foundations; competing narratives emerge between Hamiltonian commercial-nationalist and Jeffersonian agrarian-republican visions; legitimacy contested but constitutional framework accepted.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Treasury, State, and War departments established; federal judiciary organized; customs collection functional; administrative capacity thin but growing; corruption limited; integrity maintained.<br><br>
-__Political Participation & Mobilization:__ Property qualifications restrict suffrage to white male property holders; turnout increasing; partisan organization developing; newspapers mobilize opinion; participation expanding slowly within restricted franchise.<br><br>
-__Geopolitical Position & External Relations:__ New nation navigates between Britain and revolutionary France; Jay Treaty (1794) avoids war with Britain but inflames Republican opposition; Quasi-War with France (1798-1800); diplomatic position precarious but independent course maintained.<br><br>
-__Coercive Apparatus & Means of Force:__ Small regular army; state militias primary force; navy established 1794; federal forces suppress Whiskey Rebellion; capacity adequate for internal order but limited for external conflict; Washington's farewell warns against standing armies.<br><br>
-__Internal Order & Threat Environment:__ Whiskey Rebellion (1794) tests federal authority; frontier conflict with Indigenous nations continues; slave resistance ongoing; urban disorder minimal; internal threats manageable within existing capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Newspapers primary medium; post office expands postal network; pamphlets and broadsides circulate; communication velocity weeks to months depending on distance; print reaches taverns and reading publics; oral networks extend reach beyond literate population.<br><br>
-__Record, Storage & Persistence:__ Constitutional debates published; Federalist Papers preserved; government records systematically maintained; newspaper files kept; record increasingly durable and retrievable; persistence improving through institutional archiving.<br><br>
-__Framing, Censorship & Discourse Norms:__ Federalist and Republican papers frame events in partisan terms; Alien and Sedition Acts (1798) criminalize criticism of government, chilling press freedom; editors prosecuted; discourse norms contested; band narrowing under Federalist enforcement, widening again after 1800.<br><br>
-__Reception, Attention & Amplification:__ Newspaper subscriptions among elite; tavern reading extends audience; Federalist Papers and partisan essays amplified through reprinting and oral discussion; attention concentrated on political debates; amplification through reprinting across papers.<br><br>
-__Signal Integrity & Noise Load:__ Partisan distortion endemic; rumor and accusation circulate; no verification mechanisms beyond reputation; noise elevated by factional warfare; signal of constitutional and policy debate nevertheless transmitted through partisan filter.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Natural rights and republican virtue frame justice; property rights sacred; contractual obligations enforced; equality among white male citizens assumed; justice claims exclude enslaved, women, and Indigenous peoples.<br><br>
-__Law, Codification & Regulatory Evolution:__ Constitution and Bill of Rights (1791) establish fundamental law; federal judiciary act organizes courts; state codes continue; commercial law developing; regulatory framework minimal but expanding; Alien and Sedition Acts represent contested federal criminal law.<br><br>
-__Adjudication, Enforcement & Liability:__ Federal circuit courts and Supreme Court established; state courts handle most cases; enforcement through marshals and sheriffs; liability assigned through common law process; throughput adequate for caseload; Marbury v. Madison (1803) will establish judicial review but principle emerging.<br><br>
-__Rights, Protections & Compliance Burden:__ Bill of Rights constrains federal government; state constitutions provide additional protections; press freedom formally protected but tested by Sedition Act prosecutions; compliance burden moderate; rule of law generally prevailing.<br><br>
-__Impunity & Unredressed Wrong:__ Enslaved peoples have no legal standing; Indigenous nations' treaty rights violated; Sedition Act prosecutions politically motivated; partisan justice evident; impunity gap significant for excluded populations, narrower among white male citizens.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Enlightenment political science applied to constitutional design; natural philosophy continues; American Philosophical Society active; medical and agricultural inquiry advancing; paradigm is rational improvement of republican institutions and natural knowledge.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural improvement promoted; manufacturing techniques imported; Whitney's cotton gin (1793) transforms cotton economy; surveying and cartography advance for western expansion; applied technique adequate for economic needs.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Colleges train professional and political elite; academies expanding; literacy high among white males; knowledge stock preserved and growing; skill distribution concentrated but broadening; plans for national university discussed but not realized.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical education continues; medical theory (humoral) persists despite inefficacy; no major knowledge loss; error accretes in some domains but gradually cleared; decay rate low; constitutional knowledge actively generated and preserved.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary founding becomes sacred national narrative; Washington elevated to mythic status; constitutional order acquires foundational sanctity; American exceptionalism crystallizes; identity forming around republican self-governance and liberty.<br><br>
-__Artistic Expression & Material Culture:__ Federal architecture emerges; Capitol and White House designed; Peale's portraiture documents founders; civic monuments planned; material culture reflects republican aspiration to classical dignity; aesthetic transitioning from Georgian to Federal style.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism about republican experiment mixed with anxiety about faction and foreign threats; confidence in constitutional system building; mood oscillates with partisan temperature; general disposition hopeful but vigilant.<br><br>
-__Form Exhaustion & Meaning Decay:__ Republican forms newly minted and vital; no significant exhaustion; symbols and rituals of national identity being created; Fourth of July and Washington's birthday acquire meaning; decay not yet evident; forms in creative generation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Protestant Christianity remains dominant; deism influential among elite founders; providential interpretation of American founding widespread; rational religion and evangelical revivalism coexist; outlook confident in divine favor for republican experiment.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sabbath observance, family worship, and congregational life continue; national thanksgiving days proclaimed; civic and religious ritual intertwine; devotional infrastructure maintained and expanding with settlement.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Disestablishment proceeding at state level; no national church; denominational pluralism; Methodist expansion accelerates; Baptist growth in South; doctrinal authority dispersed among competing denominations; institutional pluralism consolidating.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Second Great Awakening beginning by 1800; Methodist circuit riders spread evangelical Christianity; African American Christianity develops distinctive forms under slavery; Indigenous spiritual traditions persist under pressure; diffusion and syncretism ongoing.<br><br>
-__Disenchantment & Sacred Discharge:__ Enlightenment rationalism creates secular space among educated elite; deist founders separate church and state; no mass disenchantment; sacred meaning transferred to republican institutions; civil religion emerging alongside traditional Christianity; discharge minimal.<br><br>
+# __1783 CE – 1800 CE — New Republic and Constitutional Print__
+
+__Summary:__ The new United States consolidates republican government through constitutional ratification and partisan conflict, with print serving as the arena of political debate, party formation, and ideological struggle; the binding constraint is the tension between the ideal of a unified republican public sphere and the reality of partisan newspapers serving as weapons in the Federalist-Republican conflict, culminating in the crisis of the Sedition Act (1798).
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The republic stretches from the Atlantic coast to the Mississippi, though effective settlement remains concentrated east of the Appalachians. The 1783 peace cedes the trans-Appalachian West, but Indigenous nations and British forts contest control. Philadelphia serves as capital (1790–1800); the new federal district on the Potomac is under construction. Post roads link major cities; journey times remain slow — Philadelphia to Boston takes a week.
+
+__Climate Regime & Volatility:__ Temperate continental climate prevails. No major climatic disruptions mark the period. Agricultural rhythms continue unchanged.
+
+__Hazard Regime & Exposure:__ Yellow fever epidemics strike Philadelphia (1793, 1797, 1798), killing thousands and driving government and press temporarily from the capital. The 1793 outbreak kills perhaps 5,000 of 50,000 residents.
+
+__Resource & Energy Endowment:__ Paper production expands domestically; rag collection supports new mills. Type foundries develop in Philadelphia and elsewhere. Imported materials remain important but less critical than during the war.
+
+__Waste Absorption & Sink Capacity:__ Urban growth in Philadelphia, New York, and Boston strains sanitation. Epidemic disease signals environmental limits. The landscape absorbs settlement expansion without apparent exhaustion.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Yellow fever is the period's dominant epidemic threat. Endemic diseases — tuberculosis, typhoid, childhood illnesses — maintain steady mortality. No smallpox outbreaks approach wartime levels.
+
+__Nutrition & Physiological Vitality:__ The American diet is abundant by European standards. Vitality is robust; the population is young and growing.
+
+__Care, Healing & Recovery Capacity:__ Medicine remains rudimentary — heroic therapies (bleeding, purging) may harm more than help. Dr. Benjamin Rush's treatments during the 1793 epidemic are controversial. Household nursing is primary care.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility continues. Marriage patterns are stable. The postwar period sees family reconstitution and westward migration.
+
+__Demographic Renewal & Density:__ Population grows from approximately 3 million (1783) to 5.3 million (1800). Immigration is modest; natural increase drives growth. Density remains low; the frontier advances.
+
+__Attrition & Dependency Overhang:__ Revolutionary War veterans age; some claim pensions. The dependent load is absorbed by families and localities; federal relief is minimal.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agriculture sustains the population. Western lands offer opportunity; yeoman farming expands. Urban workers depend on wages and local markets.
+
+__Energy Capture & Conversion:__ Muscle, water, and wood remain the energy base. Early factory experiments (Samuel Slater's mill, 1790) introduce water-powered textile production, but scale is tiny.
+
+__Labor Organization & Coercion:__ Free labor in the North; slavery in the South. The Constitution protects slavery while permitting state-level abolition. Gradual emancipation proceeds in Northern states. Apprenticeship organizes artisan labor.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports export trade (tobacco, grain). Artisan production expands. Hamilton's industrial vision remains largely unrealized, but manufacturing seeds are planted.
+
+__Storage, Reserves & Buffering:__ The Hamiltonian financial system establishes federal credit. Assumption of state debts, funding of the national debt, and the Bank of the United States (1791) create fiscal stability. Federal revenue depends on tariffs and excise taxes (the whiskey tax provokes resistance, 1794).
+
+__Exchange, Trade & Logistics:__ Atlantic trade resumes. Britain remains the dominant trading partner despite Revolutionary animosity. Jay's Treaty (1795) stabilizes commerce but provokes Republican outrage. Coastal shipping links the states.
+
+__Value Storage, Credit & Deferred Exchange:__ The dollar is established as the currency unit. Hamilton's system makes federal bonds reliable stores of value. Private banking expands.
+
+__Surplus Extraction & Redistribution:__ Tariffs and excises fund the federal government. Hamilton's system favors creditors and commercial interests. Republican opposition frames this as corruption.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among merchants, planters, and land speculators. Land speculation in western territories is endemic. Property qualifications for suffrage limit political participation.
+
+__Byproducts & Waste Routing:__ Economic growth produces no novel waste crisis. Financial instability from speculation creates periodic local disruptions.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patriarchal household structure continues. Inheritance law shifts toward partible inheritance, weakening primogeniture. Women's legal status remains subordinate (coverture).
+
+__Association & Mutual Aid:__ Voluntary associations proliferate — the Cincinnati (Revolutionary officers), Masonic lodges, benevolent societies, early abolition societies (Pennsylvania Abolition Society, 1775/1787). Churches remain central to community life.
+
+__Leisure, Play & Sociability:__ Taverns, coffeehouses, and public celebrations structure sociability. Political partisanship invades social life. Fourth of July celebrations become contested — Federalists and Republicans hold separate events.
+
+__Stratification, Status & Group Structure:__ Social hierarchy remains: gentry, merchants, and professionals atop; artisans, farmers, and laborers below; enslaved persons outside free society altogether. Republican ideology asserts equality among white men while preserving actual stratification.
+
+__Administrative Capacity & Institutional Integrity:__ The Constitution (ratified 1788) creates the federal structure. Washington establishes executive precedents. Federal courts begin operation. State governments function with varying competence. The federal apparatus is tiny — a few hundred officials in the executive branch.
+
+__Coercive Apparatus & Means of Force:__ The small standing army is controversial; Republicans fear military power. Militia remain the default force. The Whiskey Rebellion (1794) tests federal authority; Washington leads troops to suppress it. The Quasi-War with France (1798–1800) expands naval capacity.
+
+__Discharge, Disorder & Decay:__ Political violence is limited but real — partisan mobs, dueling, newspaper-office attacks. The 1790s are contentious but order holds. The transition of power in 1801 (Jefferson's election) will test the system.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The period begins in postwar optimism (1783) and moves through constitutional debate to partisan fury by the late 1790s. French Revolution enthusiasm (1789–1793) gives way to division as the Revolution radicalizes. Federalists fear Jacobin contagion; Republicans fear monarchical restoration. Public temper is febrile, intensified by print warfare.
+
+__Leadership & Personal Authority:__ Washington's personal authority is unmatched; his retirement (1796) removes the unifying figure. Hamilton dominates Federalist policy; Jefferson and Madison lead Republican opposition. Adams (president 1797–1801) lacks Washington's prestige and struggles to control his own party.
+
+__Legitimacy as Lived Allegiance:__ Constitutional legitimacy is established through ratification and the peaceful transfer of power. But partisan conflict threatens consensus — Republicans see Federalists as crypto-monarchists; Federalists see Republicans as Jacobin subversives.
+
+__Political Will & Collective Resolve:__ The will to establish a functioning republic is strong. Constitutional Convention succeeds despite deep divisions. But partisan rancor consumes political energy by the late 1790s.
+
+__External Relations & Posture:__ Neutrality in European wars is official policy but contested. Jay's Treaty (1795) aligns with Britain; Republicans prefer France. The Quasi-War with France creates crisis. The republic is weak, dependent on European forbearance.
+
+__Disaffection, Apathy & Spent Will:__ Partisan exhaustion builds. The 1800 election is bitter; the outcome disputed. Yet the system survives — Jefferson's inauguration marks peaceful transfer.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English remains dominant. Literacy is high among white men in New England, lower elsewhere. The Post Office expands dramatically — Hamilton's Report on the Post Office (1790) envisions postal service as civic infrastructure. Newspapers proliferate.
+
+__Channels & Transmission Velocity:__ The postal system is the backbone of national communication. Newspaper exchange — printers mailing copies to each other — circulates content across the country. Stage roads and coastal shipping carry mail. Speed remains slow but improving.
+
+__Record, Storage & Persistence:__ Newspapers constitute the public record. The Federalist Papers, published in newspapers (1787–1788), exemplify print's role in constitutional debate. Government printing establishes official record. Library companies and private collections preserve publications.
+
+__Framing, Censorship & Discourse Norms:__ Partisan framing dominates. Federalist papers (Gazette of the United States, Porcupine's Gazette) trade invective with Republican papers (National Gazette, Aurora). Personal attacks, accusations of treason, and scurrilous libels are standard. The Sedition Act (1798) criminalizes criticism of the government; Republican editors are prosecuted — Benjamin Franklin Bache (Aurora) is charged; Matthew Lyon (Vermont) is imprisoned. The Act expires in 1801, but the crisis demonstrates print's political stakes.
+
+__Reception, Attention & Amplification:__ Newspapers are read aloud, circulated, discussed. Key essays — the Federalist, Republican responses — shape opinion among the politically engaged. Partisan readership clusters; few read both sides.
+
+__Signal Integrity & Noise Load:__ Partisan distortion is endemic. Accusations are exaggerated, motives impugned. Yet the system functions — debate proceeds, elections occur, power transfers.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Natural rights ideology persists from the Revolution. Republican virtue — disinterested public service — is the ideal; partisan conflict violates it in practice. Slavery presents the fundamental moral contradiction; the Constitution compromises.
+
+__Law, Codification & Regulatory Evolution:__ The Constitution is the supreme law. Federal courts begin interpreting it. State laws vary; legal reform proceeds unevenly. Common law tradition continues.
+
+__Adjudication, Liability & Sanction:__ Federal courts are established (Judiciary Act, 1789). Circuit riding burdens judges. Sedition Act trials test judicial independence — Federalist judges convict Republican editors. Partisan use of law discredits the judiciary among Republicans.
+
+__Rights, Protections & Compliance Burden:__ The Bill of Rights (1791) protects speech, press, religion, and due process against federal action. State protections vary. The Sedition Act tests First Amendment limits — its expiration rather than judicial invalidation resolves the crisis.
+
+__Impunity & Unredressed Wrong:__ Sedition Act convictions stand; pardons come only after Jefferson's election. Slavery's wrongs are systematically unredressed. Loyalist grievances from the Revolution remain uncompensated.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Enlightenment thought informs political theory. The Constitution embodies applied political science — checks and balances, federalism, representation. Natural history (Jefferson's Notes on Virginia) and practical science flourish.
+
+__Applied Knowledge & Technical Method:__ Agriculture improves incrementally. Early industrialization (Slater's mill) imports British technique. Printing technology remains stable — iron hand presses begin to replace wooden ones.
+
+__Education, Knowledge Stock & Skill Distribution:__ Colleges train the elite. Common schools serve New England; elsewhere education is haphazard. Literacy spreads slowly. Apprenticeship transmits craft skills.
+
+__Obsolescence & Knowledge Decay:__ No significant knowledge loss. The period is generative, building institutional and intellectual foundations.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Revolutionary memory consolidates. Washington's Farewell Address (1796) becomes canonical. The Fourth of July, Constitution, and founding generation acquire sacred status. National identity is contested — Federalists and Republicans offer competing visions.
+
+__Legitimating Narrative & Ideology:__ Republican ideology legitimates the new order. But what republicanism means is contested — Federalists emphasize order, stability, deference; Republicans emphasize liberty, equality, popular participation.
+
+__Artistic Expression & Material Culture:__ Portraiture (Gilbert Stuart's Washington) creates national iconography. Neoclassical architecture (Capitol, state houses) projects republican virtue. Federal-style furniture and dress reflect post-Revolutionary taste.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary symbols remain potent. No exhaustion; the nation is too new.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant Christianity dominates; denominational diversity continues. Providential nationalism interprets the republic as divinely favored. Deism persists among elites; Republican irreligion is a Federalist accusation.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance structures community. Political ritual — Fourth of July, Washington's Birthday — acquires quasi-sacred character.
+
+__Religious Institutions & Doctrinal Authority:__ Disestablishment proceeds; the First Amendment forbids federal establishment. State establishments (Massachusetts, Connecticut) persist until the 1830s. Denominational competition intensifies.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Second Great Awakening begins in the 1790s (Cane Ridge, Kentucky, 1801, marks its climax). Evangelical ferment spreads, especially on the frontier.
+
+__Disenchantment & Sacred Discharge:__ No significant disenchantment. Religion and republicanism remain fused; the new nation is sacred cause.

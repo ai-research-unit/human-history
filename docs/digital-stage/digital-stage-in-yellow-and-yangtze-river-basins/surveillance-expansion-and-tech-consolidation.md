@@ -1,69 +1,139 @@
-# __2017 CE – 2021 CE__ — Surveillance Expansion and Tech Consolidation
-__Summary:__ The Chinese state deploys integrated surveillance infrastructure at unprecedented scale while platform giants reach peak valuation before regulatory tightening begins; facial recognition, social credit pilots, and health-code systems fuse into a unified tracking apparatus tested in Xinjiang and generalized during COVID-19; the binding constraint shifts from infrastructure build-out to political control over data and capital, with diminishing margin for platform autonomy as state capacity catches up to tech scale.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ 5G deployment begins in tier-one cities; fiber backbone reaches near-universal coverage in populated areas; Xinjiang's vast territory addressed through camera saturation and checkpoint networks; spatial friction for information approaches zero in surveilled zones.<br><br>
-__Climate Regime & Volatility:__ Yangtze flooding in 2020 severe but managed; northern drought and southern flooding stress infrastructure; climate volatility rising but data centers distributed enough to absorb regional disruption.<br><br>
-__Hazard Regime & Exposure:__ COVID-19 pandemic dominates 2020-2021; transmission constitutes novel hazard requiring entire infrastructure pivot; zero-COVID strategy imposes extraordinary control measures; margin against future pandemic shocks reduced by exhaustion.<br><br>
-__Resource & Energy Endowment:__ Data center energy demand surges; coal dependence continues despite renewable expansion; semiconductor supply increasingly vulnerable as US restrictions begin.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste volumes plateau as device upgrade cycles lengthen; air quality improves in eastern cities through industrial relocation and controls; carbon sink capacity exceeded, contributing to global warming commitment.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 emergence in late 2019 transforms baseline; initial outbreak controlled through lockdowns; zero-COVID maintains low case counts through 2021 at cost of economic and psychological strain.<br><br>
-__Nutrition & Physiological Vitality:__ Lockdowns disrupt food access intermittently; urban obesity continues rising; mental health strain from isolation and uncertainty accumulates.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage and birth rates continue declining; lockdowns delay weddings; three-child policy announced 2021 but without demographic effect; fertility crisis deepening.<br><br>
-__Demographic Renewal & Density:__ Population growth approaches zero; 2020 census reveals slower growth than projected; aging accelerates; dependency ratio begins unfavorable turn.<br><br>
-__Attrition & Dependency Overhang:__ Elderly care burden rising; COVID-19 mortality concentrated in elderly but suppressed by zero-COVID; long-term care infrastructure inadequate for coming cohort.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Absolute poverty officially eliminated 2020; e-commerce and delivery maintain provisioning during lockdowns; gig workers bear delivery burden as essential service.<br><br>
-__Energy Capture & Conversion:__ Per-capita energy consumption peaks in coastal regions; efficiency gains in AI training offset by model scale increases; compute-per-watt improving but total consumption rising.<br><br>
-__Labor Organization & Coercion:__ 996 culture faces public backlash after tech worker deaths; enforcement remains weak but narrative shifts; gig economy expands under algorithmic control; labor precarity intensifies.<br><br>
-__Production & Surplus Capacity:__ Tech sector surplus peaks before crackdown; Ant Financial valuation reaches $300 billion before IPO cancellation; production capacity exceeds what political system permits.<br><br>
-__Storage, Reserves & Buffering:__ Corporate reserves drawn down by regulatory fines and restructuring; state reserves remain substantial; household savings high but confidence declining.<br><br>
-__Exchange, Trade & Logistics:__ Mobile payments saturate urban markets; interoperability mandated between Alipay and WeChat Pay; logistics networks strained by COVID but resilient; cross-border e-commerce constrained by lockdowns.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Ant Financial's consumer lending restricted; Yu'e Bao assets capped; credit card debt rises; informal lending persists; value storage increasingly channeled through state-supervised instruments.<br><br>
-__Surplus Extraction & Redistribution:__ State taxation and fines on tech escalate; Alibaba fined $2.8 billion; common prosperity campaign signals redistribution intent; extraction rising.<br><br>
-__Wealth Distribution & Asset Defense:__ Tech billionaire wealth peaks then declines under pressure; property market stress begins; capital flight to foreign assets increasingly blocked; asset defense strategies criminalized.<br><br>
-__Byproducts & Waste Routing:__ Surveillance data exhaust captured by state; behavioral data routed to social credit systems; carbon emissions continue externalization despite pledges.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ COVID-19 strain tests neighborhood solidarity; volunteer networks activated during lockdowns; platform-mediated trust persists but state surveillance erodes privacy expectations.<br><br>
-__Stratification, Status & Group Identity:__ Tech worker status declines as sector contracts; Xinjiang ethnic stratification intensifies under surveillance; Hong Kong identity suppressed after 2020 national security law.<br><br>
-__Kinship, Family & Inheritance:__ Lockdowns separate families; digital communication substitutes for presence; inheritance disputes increase as first-generation wealth holders age.<br><br>
-__Civic Association & Self-Organization:__ WeChat groups monitored and deleted if politically sensitive; neighborhood committees mobilized for COVID control; autonomous organizing constrained; associational space narrowing.<br><br>
-__Leisure, Play & Sociability:__ Lockdowns confine leisure to home; gaming and streaming surge; in-person sociability atrophies; post-lockdown anxiety about public spaces persists.<br><br>
-__Grievance Channels & Social Discharge:__ COVID-related complaints channeled into official apps; Li Wenliang death triggers brief online mourning before suppression; grievances accumulate in silenced channels.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Xi Jinping consolidation complete; constitutional term limits removed 2018; power centralized to single leader degree unseen since Mao; tech sector autonomy subordinated.<br><br>
-__Succession & Power Transfer:__ Succession question deferred indefinitely; no clear successor designated; system stability tied to single individual; transfer mechanisms untested.<br><br>
-__Legitimacy & Political Narrative:__ Zero-COVID success claimed as system superiority; Western pandemic failures contrasted; nationalism intensifies; Hong Kong and Xinjiang framed as security necessities.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Cybersecurity and data security laws enacted; regulatory agencies staffed and empowered; administrative capacity now matches tech sector scale; coordination across agencies improving.<br><br>
-__Political Participation & Mobilization:__ Participation channels narrowing to approved nationalism; Hong Kong protest movement crushed; feminist and labor activists detained; mobilization monopolized by state.<br><br>
-__Geopolitical Position & External Relations:__ US-China tensions escalate; trade war tariffs; tech decoupling begins; Wolf Warrior diplomacy; COVID-19 origin disputes; external environment deteriorating.<br><br>
-__Coercive Apparatus & Means of Force:__ Surveillance infrastructure reaches maturity; facial recognition deployed nationally; Xinjiang model of predictive policing available for generalization; coercive capacity unprecedented.<br><br>
-__Internal Order & Threat Environment:__ Hong Kong protests suppressed; Xinjiang internment continues; domestic order maintained through surveillance and deterrence; no significant uncontrolled disorder.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ 5G accelerates already-fast transmission; health codes create mandatory data collection checkpoint; every movement logged; velocity of state information access now real-time.<br><br>
-__Record, Storage & Persistence:__ Social credit systems compile behavioral records across domains; health code data retained indefinitely; biometric databases comprehensive; nothing is forgotten by state systems.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship intensifies around COVID-19, Hong Kong, Xinjiang; VPN crackdowns escalate; permitted speech band narrowing toward pure patriotism and consumption; dissent invisible.<br><br>
-__Reception, Attention & Amplification:__ Douyin and short video dominate attention; algorithm-curated feeds optimize for engagement within permitted content; attention fragmented but channeled.<br><br>
-__Signal Integrity & Noise Load:__ COVID-19 misinformation managed through aggressive censorship; official information monopoly restored; noise suppressed but at cost of credibility; signal integrity maintained by fiat not verification.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ COVID-19 enforcement generates sense of collective sacrifice; Hong Kong crackdown divides opinion on justice; Xinjiang policies defended as counterterrorism, condemned as atrocity abroad.<br><br>
-__Law, Codification & Regulatory Evolution:__ Data Security Law 2021; Personal Information Protection Law 2021; platform antitrust regulations enacted; regulatory framework now comprehensive and restrictive.<br><br>
-__Adjudication, Enforcement & Liability:__ Internet courts expand; platform liability for content increases; algorithm regulation mandates; enforcement accelerating; political cases handled through administrative rather than judicial process.<br><br>
-__Rights, Protections & Compliance Burden:__ User data rights formally codified but enforcement selective; compliance burden on platforms heavy; individual rights subordinate to state and collective.<br><br>
-__Impunity & Unredressed Wrong:__ Xinjiang detentions without recourse; Hong Kong activists imprisoned; COVID-19 whistleblowers silenced; impunity for state actions complete; unredressed wrong accumulates internationally as sanctions but domestically as resignation.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ AI research continues advancing; transformer architectures adopted; Chinese papers proliferate; paradigm follows global frontier but faces compute constraints from chip restrictions.<br><br>
-__Applied Knowledge & Technical Method:__ Surveillance technology refined through Xinjiang deployment; facial recognition accuracy improves; health code systems demonstrate rapid deployment capability; technical method advancing in control applications.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ STEM education continues expansion; private tutoring industry destroyed 2021; education access constrained; overseas study disrupted by COVID-19 and political tensions.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge of organizing and protest suppressed; historical memory of Tiananmen and other events actively erased; technical knowledge current but civic knowledge decaying.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ National rejuvenation narrative peaks; Century of Humiliation memory mobilized against foreign criticism; Hong Kong and Xinjiang absorbed into security narrative; identity hardening.<br><br>
-__Artistic Expression & Material Culture:__ Livestream commerce aesthetic dominates; consumption as patriotism; foreign brands face boycott pressure; material culture channels through approved nationalism.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety and fatigue accumulate under COVID-19 restrictions; nationalism provides emotional outlet; lying flat movement signals generational exhaustion; mood darkening beneath patriotic surface.<br><br>
-__Form Exhaustion & Meaning Decay:__ Patriotic content saturates media; repetition hollows impact; consumption as meaning reaches limits; form exhaustion visible in youth disengagement.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular nationalism functions as quasi-religion; COVID-19 survival as collective mission; fatalism and resignation mix with defensive pride; transcendence unavailable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Lockdowns disrupt temple attendance; online ritual substitutes emerge; collective pandemic rituals — mass testing, health code scanning — become daily devotion-equivalents.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Christian house churches suppressed; mosque attendance monitored in Xinjiang; Buddhist institutions cooperate with state; institutional religion subordinated.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Traditional spirituality holding steady in rural areas; urban secularism continues; no significant religious revival; spirituality privatized and surveilled.<br><br>
-__Disenchantment & Sacred Discharge:__ Lying flat represents spiritual withdrawal; achievement culture loses grip on youth; disenchantment visible in refusal to reproduce or consume; sacred energy undischarged, settling as quiet despair.<br><br>
+# __2017 CE – 2021 CE — Surveillance Expansion and Tech Consolidation__
+
+__Summary:__ The party-state extends its surveillance infrastructure through facial recognition, social credit pilots, and COVID-19 health codes while platform companies reach their peak power before the crackdown begins. The binding constraint is the contradiction between platform autonomy and party control, resolved decisively in favor of the latter by 2021 as Jack Ma's criticism triggers the Ant Group IPO cancellation and a broader reassertion of state authority over technology capital.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ 5G network deployment begins in 2019, prioritizing coastal cities and urban centers; Xinjiang becomes a laboratory for surveillance technology, with cameras and checkpoints transforming the region's physical landscape into a monitored grid.
+
+__Climate Regime & Volatility:__ Extreme floods in 2020 across the Yangtze basin cause significant damage; climate volatility increases but remains secondary to pandemic and political developments in shaping the period.
+
+__Hazard Regime & Exposure:__ COVID-19 emerges in Wuhan in late 2019, becoming the defining hazard; lockdowns, quarantine facilities, and hospital construction transform urban landscapes; infrastructure proves vulnerable to pandemic stress.
+
+__Resource & Energy Endowment:__ Data center electricity consumption surges with surveillance video processing and cloud computing growth; semiconductor supply chains become a strategic vulnerability as US restrictions threaten chip access.
+
+__Waste Absorption & Sink Capacity:__ Pandemic medical waste strains disposal capacity; mask and PPE production creates new plastic waste streams; e-waste continues accumulating; the sink burden of surveillance hardware — cameras, servers, sensors — adds to the physical residue.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 kills thousands domestically before zero-COVID suppresses transmission; reported deaths remain below 5,000 through 2021 under strict controls; the official mortality baseline holds but masks the costs of containment.
+
+__Nutrition & Physiological Vitality:__ Lockdowns disrupt food supply chains temporarily; delivery platforms become essential infrastructure; obesity continues rising; screen time and sedentary behavior intensify during quarantine.
+
+__Care, Healing & Recovery Capacity:__ Hospital systems strain under COVID-19 surge in Wuhan; makeshift hospitals demonstrate rapid deployment capacity; healthcare digitization accelerates through necessity; telemedicine adoption expands.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility continues declining despite policy relaxation; pandemic isolation strains relationships; dating apps usage increases while in-person courtship becomes difficult.
+
+__Demographic Renewal & Density:__ Population growth slows to near-zero; the 2020 census reveals structural aging; urban density intensifies as rural migration continues; the demographic transition tightens.
+
+__Attrition & Dependency Overhang:__ The elderly population grows as a share of the total; pension system stress accumulates; COVID-19 mortality concentrates among the aged but absolute numbers remain low under zero-COVID; the dependency overhang is deferred rather than resolved.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Pandemic lockdowns threaten food security temporarily; community group-buying and platform delivery maintain supply; rural e-commerce penetration continues; the floor holds through digital logistics.
+
+__Energy Capture & Conversion:__ Surveillance systems and AI computing increase energy demand; 5G networks require denser power infrastructure; coal remains dominant despite carbon-neutral pledges for 2060.
+
+__Labor Organization & Coercion:__ Gig workers become essential during lockdowns but remain unprotected; delivery riders face algorithmic pressure and accident risk; tech workers continue under 996 conditions; labor organizing remains suppressed.
+
+__Production & Surplus Capacity:__ Platform surplus peaks; Alibaba and Tencent market capitalizations exceed $500 billion each; Singles' Day 2020 generates $74 billion in gross merchandise volume; the surplus capacity appears unlimited until the crackdown.
+
+__Storage, Reserves & Buffering:__ Platform treasuries hold enormous reserves; Ant Group plans the world's largest IPO ($37 billion) before cancellation; state reserves deploy for pandemic response; corporate buffers prove adequate until regulatory demands arrive.
+
+__Exchange, Trade & Logistics:__ Pandemic accelerates e-commerce; delivery volume surges; live-streaming commerce grows tenfold; cross-border trade faces tariffs and restrictions as US-China tensions escalate.
+
+__Value Storage, Credit & Deferred Exchange:__ Mobile payments near-universal; Ant Group's consumer lending and wealth management serve hundreds of millions; credit expansion raises regulatory concern; digital yuan pilots begin in 2020.
+
+__Surplus Extraction & Redistribution:__ "Common prosperity" campaign signals redistribution intent; tech billionaires make large charitable pledges preemptively; platform commissions remain high but face scrutiny; the extraction model comes under pressure.
+
+__Wealth Distribution & Asset Defense:__ Tech founder wealth peaks in 2020; regulatory crackdown erases hundreds of billions in market value by 2021; capital flight attempts meet tighter controls; wealth concentration begins reversing under political pressure.
+
+__Byproducts & Waste Routing:__ Pandemic waste streams strain systems; platform packaging waste continues growing; financial mispricing in speculative tech stocks becomes visible as valuations correct; the waste of the growth phase accumulates toward clearing.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Pandemic separates families through lockdowns and travel restrictions; video calls substitute for presence; WeChat becomes the lifeline for dispersed kin; three-child policy (2021) signals state concern over family formation.
+
+__Association & Mutual Aid:__ Community mutual aid emerges during lockdowns; neighborhood WeChat groups coordinate supply; volunteer networks form spontaneously; civil society demonstrates capacity despite formal constraints.
+
+__Leisure, Play & Sociability:__ Gaming and streaming surge during lockdowns; Honour of Kings and other mobile games reach record engagement; esports becomes mainstream entertainment; shared physical spaces close for extended periods.
+
+__Stratification, Status & Group Structure:__ Tech workers remain privileged but face crackdown uncertainty; delivery riders gain visibility as essential workers without gaining protections; Xinjiang Uyghurs face systematic surveillance and detention; stratification hardens along ethnic and class lines.
+
+__Administrative Capacity & Institutional Integrity:__ Health code systems demonstrate administrative reach; real-time tracking of 1.4 billion people becomes operational; grid management at neighborhood level integrates digital and human monitoring; state capacity expands dramatically.
+
+__Coercive Apparatus & Means of Force:__ Surveillance infrastructure deploys at scale — 600 million cameras by 2020; facial recognition achieves high accuracy; predictive policing systems operate in Xinjiang; the means of force become increasingly digital and preemptive.
+
+__Discharge, Disorder & Decay:__ Hong Kong protests (2019) are suppressed through National Security Law (2020); Xinjiang resistance is eliminated through mass detention; mainland grievances remain atomized and contained; disorder is managed through surveillance rather than concession.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Pandemic fear and nationalist pride coexist; "Wolf Warrior" assertiveness rises in popular culture; anxiety about platform labor conditions surfaces; "lying flat" (tangping) sentiment emerges among youth rejecting competitive pressure.
+
+__Leadership & Personal Authority:__ Xi Jinping's authority consolidates; term limits removal (2018) signals indefinite rule; tech founders lose public visibility; Jack Ma's October 2020 speech criticizing regulators precipitates his disappearance from public life.
+
+__Legitimacy as Lived Allegiance:__ Zero-COVID success reinforces party legitimacy in 2020-2021; comparison with Western pandemic failures strengthens nationalist sentiment; Hong Kong and Xinjiang policies generate external criticism but domestic support.
+
+__Political Will & Collective Resolve:__ The 19th Party Congress (2017) enshrines Xi Jinping Thought; political will to discipline tech sector manifests in rapid action; "common prosperity" signals redistributive resolve; the state demonstrates capacity and willingness to act against capital.
+
+__External Relations & Posture:__ US-China tensions escalate through trade war, Huawei restrictions, and tech decoupling; Hong Kong intervention draws international condemnation; assertiveness in South China Sea continues; the external posture hardens.
+
+__Disaffection, Apathy & Spent Will:__ Youth disaffection crystallizes in "lying flat" discourse; tech worker burnout intensifies; lockdown fatigue accumulates but does not yet mobilize; the spent will is managed through atomization and surveillance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Internet penetration reaches 70% (1 billion users); smartphone near-universal in urban areas; WeChat dominates communication; rural elderly remain partially excluded despite platform expansion.
+
+__Channels & Transmission Velocity:__ 5G deployment accelerates; short video (Douyin) reaches 600 million daily users; information velocity peaks; algorithmic feeds control attention allocation; virality operates on minute timescales.
+
+__Record, Storage & Persistence:__ Surveillance systems store biometric data at scale; health code history creates movement records; platform data accumulates under state access; the record becomes comprehensive and permanent.
+
+__Framing, Censorship & Discourse Norms:__ COVID-19 origin narratives are tightly controlled; Dr. Li Wenliang's death triggers grief and censorship; Hong Kong and Xinjiang coverage is heavily managed; permitted discourse narrows while enforcement intensifies.
+
+__Reception, Attention & Amplification:__ Douyin and Kuaishou capture hours of daily attention; live-streaming commerce merges entertainment and shopping; state media adopts platform formats; attention is captured but fragmented.
+
+__Signal Integrity & Noise Load:__ Pandemic misinformation circulates despite censorship; health rumors require constant correction; nationalist content amplifies while dissent is suppressed; verification struggles against volume; surveillance generates data faster than analysis can process it.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Platform labor exploitation generates moral concern; tech billionaire wealth amid pandemic hardship draws criticism; "common prosperity" frames redistribution as justice; Xinjiang detention camps raise rights questions that are suppressed domestically.
+
+__Law, Codification & Regulatory Evolution:__ Data Security Law and Personal Information Protection Law (2021) establish regulatory framework; anti-monopoly enforcement activates; regulatory evolution accelerates after years of forbearance.
+
+__Adjudication, Liability & Sanction:__ Alibaba receives $2.8 billion antitrust fine (2021); platform accountability suddenly enforced; tech executives face consequences for the first time; adjudication shifts from accommodation to discipline.
+
+__Rights, Protections & Compliance Burden:__ Data protection rights nominally expand; platform compliance costs surge; user protections improve on paper; worker rights remain weak; Xinjiang demonstrates the limits of rights discourse under state priority.
+
+__Impunity & Unredressed Wrong:__ Tech sector impunity ends abruptly; labor violations remain largely unaddressed; Xinjiang abuses continue without domestic accountability; the impunity residue is selectively cleared — capital disciplined, security apparatus untouched.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ AI research advances; facial recognition and natural language processing reach commercial deployment; semiconductor design progresses but fabrication remains dependent on Taiwan and foreign equipment.
+
+__Applied Knowledge & Technical Method:__ Surveillance technology achieves world-leading capability; health code systems demonstrate rapid deployment of integrated digital infrastructure; pandemic response showcases applied engineering capacity.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education tech (edtech) booms then is effectively banned (2021); tutoring prohibition disrupts skill distribution systems; STEM expansion continues; the crackdown reshapes knowledge transmission.
+
+__Obsolescence & Knowledge Decay:__ Pre-digital administrative methods become obsolete; paper-based systems disappear; skills for evading surveillance develop informally; the knowledge landscape shifts toward platform fluency as baseline requirement.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Pandemic nationalism reinforces civilizational identity; "century of humiliation" narrative intensifies against Western criticism; tech achievement becomes part of national pride; Hong Kong's distinct identity is suppressed.
+
+__Legitimating Narrative & Ideology:__ "Common prosperity" reframes the social contract; growth alone no longer sufficient; redistribution and discipline of capital become official ideology; "disorderly expansion of capital" enters the lexicon.
+
+__Artistic Expression & Material Culture:__ Short video becomes the dominant expressive form; livestreaming creates new performer categories; pandemic isolation shapes introspective content; surveillance cameras become part of the built environment's visual texture.
+
+__Form Exhaustion & Meaning Decay:__ Nationalist content proliferates but increasingly performative; "wolf warrior" discourse shows signs of fatigue; pandemic-era slogans lose resonance through repetition; official forms hollow out while platform entertainment captures authentic attention.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Pandemic confrontation with mortality sparks reflection; secular materialism remains dominant but cracks appear; "lying flat" represents an existential withdrawal from achievement ideology.
+
+__Ritual, Devotion & Sacred Practice:__ Temple closures during lockdowns disrupt practice; digital worship substitutes partially; ancestral rituals adapt to travel restrictions; the sacred persists in modified forms.
+
+__Religious Institutions & Doctrinal Authority:__ State controls on religion tighten; Xinjiang campaign targets Islamic practice; house churches face increased pressure; institutional religion remains constrained under security priorities.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Consumerism and platform entertainment continue displacing traditional frameworks; wellness and self-care blend spiritual and commercial elements; mindfulness apps proliferate during pandemic stress.
+
+__Disenchantment & Sacred Discharge:__ The "lying flat" phenomenon signals existential exhaustion; achievement ideology's spiritual costs become visible; the void is acknowledged more openly than before; the residue of spent striving accumulates without clear channel for reenchantment.

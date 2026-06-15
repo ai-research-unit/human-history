@@ -1,69 +1,139 @@
-# __1848 CE – 1850 CE__ — 1848 Revolutions and Press Explosion
-__Summary:__ A snapshot of the Central European revolutionary moment when liberal and nationalist insurgencies momentarily overwhelmed the Metternich system, censorship collapsed, and an explosive proliferation of newspapers and political pamphlets briefly transformed the public sphere. The binding constraint is the absence of unified military force behind the liberal assemblies while conservative armies remain intact; once Habsburg and Prussian monarchs recover nerve, the constitutional projects fail and press freedom is rolled back, but the memory of uncensored debate persists as a grievance and a model.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain provides easy lateral communication from the Low Countries to Poland, with the Rhine and Elbe corridors linking urban centers where revolutionary events cluster — Berlin, Vienna, Frankfurt, Prague — while Habsburg mountain peripheries remain harder to mobilize.<br><br>
-__Climate Regime & Volatility:__ Cool temperate conditions with stable rainfall; the 1845–1847 sequence of wet summers and potato blight has just passed, leaving residual food-price grievance but no acute famine in 1848 itself.<br><br>
-__Hazard Regime & Exposure:__ No significant seismic, volcanic, or flood events during the window; exposure to acute environmental shock is minimal and does not constrain events.<br><br>
-__Resource & Energy Endowment:__ Ruhr and Silesian coal deposits increasingly exploited; wood fuel still dominant rurally; iron ore accessible; the endowment supports early industrialization now underway.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban industrial and domestic waste concentrated in capital cities but volumes still modest relative to absorptive capacity of rivers and open ground; sink pressure not yet a binding factor.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera endemic since 1830s outbreaks; typhus and typhoid present in crowded urban quarters; mortality elevated but not epidemic during the window; sanitary improvement barely begun.<br><br>
-__Nutrition & Physiological Vitality:__ Recovering from 1846–1847 food crisis; average stature modest by later standards; artisan and industrial workers show nutritional stress but not mass starvation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage constrained by guild regulations and property requirements now loosening under liberal pressure; fertility high where restrictions relax.<br><br>
-__Demographic Renewal & Density:__ Population growth rapid since 1815; urban density rising in Berlin, Vienna, Prague; emigration to Americas absorbs some surplus; age structure young.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and aged absorbed by extended kin networks and parish charity; industrial dislocation creates new urban poor; dependency load manageable but straining traditional mechanisms.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain prices falling from 1847 peak; potato supply recovering; urban provisioning adequate but artisan unemployment acute as factory competition intensifies.<br><br>
-__Energy Capture & Conversion:__ Steam engines spreading in mining and textile production; muscle power still dominant in agriculture and most workshops; per-capita energy rising but unevenly distributed.<br><br>
-__Labor Organization & Coercion:__ Guild system crumbling; wage labor expanding; journeyman associations politicized; factory workers still a small fraction; no systematic labor legislation yet.<br><br>
-__Production & Surplus Capacity:__ Industrial output growing in textiles, iron, and machinery; artisan workshops contracting under factory competition; surplus generated but distributed unequally.<br><br>
-__Storage, Reserves & Buffering:__ State granaries depleted by 1847 crisis; private credit networks strained; no systematic insurance; reserves thin as revolution begins.<br><br>
-__Exchange, Trade & Logistics:__ Zollverein integrates German markets; rail network expanding rapidly; Rhine shipping efficient; logistics improving but disrupted by revolutionary disorder.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver standard prevails; private banks proliferate; credit contracted during 1847 panic and slow to recover; capital formation interrupted.<br><br>
-__Surplus Extraction & Redistribution:__ State revenues from customs and excise; land tax still significant; revolutionary governments attempt fiscal reform but lack time to implement.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentrated among aristocracy and upper bourgeoisie; industrial capital accumulating in new hands; liberal program includes property defense against both crown and mob.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent dumped in rivers; urban refuse accumulates; no systematic collection; volume modest, routing primitive, sink not yet saturated.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Revolutionary solidarity briefly expands trust across class and confession; barricade fellowship; mutual-aid societies active; trust contracts sharply after conservative restoration.<br><br>
-__Stratification, Status & Group Identity:__ Bourgeoisie and educated professionals lead liberal movement; artisans and students provide mass base; peasants mobilize locally; aristocratic counterrevolution reasserts hierarchy.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal household norm; primogeniture among nobility; partible inheritance spreading among peasants; revolutionary legislation on serfdom and feudal dues targets kin-based obligations.<br><br>
-__Civic Association & Self-Organization:__ Political clubs and associations explode into legality; gymnastic societies, choral unions, reading circles politicize; Frankfurt Parliament embodies associational ideal; suppression follows.<br><br>
-__Leisure, Play & Sociability:__ Public festivals and political banquets proliferate during revolutionary spring; carnival atmosphere in March days; sociability politicized then repressed.<br><br>
-__Grievance Channels & Social Discharge:__ Street demonstration, petition, and press debate suddenly available; parliaments and assemblies provide formal voice; conservative restoration closes channels, leaving grievance to accumulate underground.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Monarchies temporarily weakened; liberal ministries installed in Prussia and Austria; Frankfurt Parliament attempts national unification without executive power; authority fragments then reconsolidates under conservative crowns.<br><br>
-__Succession & Power Transfer:__ Habsburg Ferdinand abdicates for Franz Joseph December 1848; Prussian Frederick William IV survives; no revolutionary regime achieves stable succession mechanism.<br><br>
-__Legitimacy & Political Narrative:__ Liberal nationalism competes with dynastic legitimacy; popular sovereignty invoked but not secured; conservative narrative of order and religion regains ground after violence.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracies continue functioning under new ministries; tax collection and policing disrupted but not collapsed; institutional infrastructure survives turnover.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage briefly practiced for Frankfurt elections; mass meetings, petitions, demonstrations; mobilization demobilizes under military pressure.<br><br>
-__Geopolitical Position & External Relations:__ Revolution spreads across German states and Habsburg lands; Russian intervention in Hungary 1849; no Great Power backs liberal cause; external pressure favors restoration.<br><br>
-__Coercive Apparatus & Means of Force:__ Armies remain intact despite barricade defeats; Prussian and Austrian forces suppress revolution in stages; liberal governments lack military instrument.<br><br>
-__Internal Order & Threat Environment:__ Barricade fighting, rural unrest, ethnic conflict in Habsburg lands; disorder exceeds liberal capacity to control; conservative restoration restores order by force.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Censorship collapses March 1848; newspapers multiply from dozens to hundreds overnight; telegraph spreading along rail lines; information velocity dramatically increased.<br><br>
-__Record, Storage & Persistence:__ Parliamentary debates transcribed and published; newspapers archived; pamphlet literature preserved; record survives for later nationalist historiography.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship abolished then reimposed; brief window of unrestricted debate; permitted band widens radically then contracts under martial law.<br><br>
-__Reception, Attention & Amplification:__ Literate urban public intensely engaged; newspapers read aloud in taverns; political pamphlets circulate rapidly; attention saturated with political content.<br><br>
-__Signal Integrity & Noise Load:__ Rumor and false reports proliferate; contradictory news from multiple fronts; verification capacity overwhelmed; noise high but cleared by subsequent consolidation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Liberal conception of equal citizenship and constitutional rights competes with traditional hierarchy; revolutionary tribunals rare; rule of law invoked by both sides.<br><br>
-__Law, Codification & Regulatory Evolution:__ Frankfurt Parliament debates basic rights catalog; Austrian constitution drafted then withdrawn; Prussian constitution imposed 1850; codification incomplete and contested.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts continue operating; political prosecutions follow restoration; press trials multiply after censorship reimposed; enforcement capacity intact.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom, assembly rights, and equality before law briefly established then revoked; compliance burden shifts with regime change.<br><br>
-__Impunity & Unredressed Wrong:__ Revolutionary violence largely unpunished; conservative repression selectively prosecutes radical leaders; grievance from unredressed wrong accumulates on both sides.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ German universities centers of scholarship; Hegelian philosophy fragmenting into left and right; historical and philological sciences flourishing; natural science advancing.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and technical education expanding; Prussian technical schools; railway and telegraph engineering spreading German method.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy rising, perhaps 80% among Prussian males; Gymnasium and university educated elite leads liberal movement; popular education a liberal goal.<br><br>
-__Obsolescence & Knowledge Decay:__ Censorship had suppressed circulation of advanced political thought; revolutionary opening releases accumulated ideas; restoration attempts to re-suppress without full success.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ German national identity crystallizes around language, history, and liberal-constitutional aspiration; Habsburg multinational identity contested; 1848 becomes formative memory of unfulfilled promise.<br><br>
-__Artistic Expression & Material Culture:__ Romantic nationalism in music, literature, and painting; Germania iconography; tricolor flags and cockades; political caricature flourishes during press freedom.<br><br>
-__Collective Mood & Behavioral Disposition:__ Euphoria of March days gives way to anxiety as reaction advances; hope, then despair, then bitter resignation among liberals; conservative triumphalism.<br><br>
-__Form Exhaustion & Meaning Decay:__ Restoration-era forms of deference and censored discourse discredited but forcibly reimposed; gap between lived conviction and required performance widens.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Protestant and Catholic Christianity dominant; Enlightenment secularism among educated; liberal theology accommodates progress; fatalism and piety among peasantry.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance remains high; revolutionary funerals and patriotic festivals acquire quasi-sacred character; devotional life continues through upheaval.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic hierarchy supports restoration; Protestant state churches divided; religious freedom briefly expanded then constrained; clerical authority contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Nationalism acquires spiritual overtones; liberal humanism spreads among educated; traditional piety persists among rural population; no major displacement.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary idealism provides secular transcendence for participants; failure leaves residue of disillusionment that settled neither in return to traditional faith nor in secular substitute.
+# __1848 CE – 1850 CE — 1848 Revolutions and Press Explosion__
+
+__Summary:__ The sudden collapse of censorship across the German states during the March 1848 revolutions unleashes an explosion of newspapers, pamphlets, and political associations that briefly transforms the public sphere, but the restoration of conservative authority by 1850 reinstates prior controls and demonstrates that constitutional guarantees without force behind them remain paper promises; the binding constraint is the disjunction between liberal aspirations articulated in print and the coercive apparatus that remains in conservative hands.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The North European Plain's open terrain and navigable rivers facilitate rapid communication during the revolutionary months; railroad links, though still incomplete, carry news and delegates between Berlin, Frankfurt, Vienna, and regional capitals faster than any prior upheaval, compressing reaction time.
+
+__Climate Regime & Volatility:__ The harvest failure of 1846 and poor yields of 1847 set the material preconditions for unrest, creating food shortages and price spikes that prime urban populations for mobilization when political opportunity opens in March 1848.
+
+__Hazard Regime & Exposure:__ No acute environmental disaster directly triggers events, though the preceding subsistence crisis functions as a slow-onset shock; infrastructure damage from barricade fighting in Berlin and Vienna is localized and repaired within months.
+
+__Resource & Energy Endowment:__ Coal and iron extraction in the Ruhr and Silesia continues expanding through the period, underpinning the industrial base whose workers and bourgeoisie form key revolutionary constituencies; the resource base itself remains stable.
+
+__Waste Absorption & Sink Capacity:__ Urban industrial pollution accumulates in manufacturing centers, but environmental degradation is not a salient political concern; the period leaves no new permanent environmental deficit.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Urban overcrowding in Berlin, Vienna, and manufacturing towns maintains endemic typhus and cholera risk; the 1848–1849 cholera wave returns to some German cities, compounding social distress but not decisively shaping revolutionary outcomes.
+
+__Nutrition & Physiological Vitality:__ The preceding famine years deplete working-class vitality; food prices drop by late 1848 as harvests recover, easing immediate nutritional stress but leaving physiological damage in the poorest strata.
+
+__Care, Healing & Recovery Capacity:__ Medical infrastructure remains primitive; battlefield casualties from street fighting receive only rudimentary care, and wounded revolutionaries depend on improvised aid.
+
+__Reproductive Biology & Pairing Dynamics:__ Economic distress in the 1840s delays marriages and depresses fertility among urban workers; no fundamental change in reproductive patterns occurs during the revolutionary interlude.
+
+__Demographic Renewal & Density:__ Population continues growing across German lands despite the crisis years; urban density increases as rural migrants seek industrial employment, concentrating potential revolutionary participants in cities.
+
+__Attrition & Dependency Overhang:__ The famine years leave elevated mortality among the very young and very old; revolutionary casualties add modest numbers to the dependency load, but the demographic structure remains stable.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The subsistence crisis of 1846–1847 lifts by late 1848 as grain prices fall; the provisioning floor stabilizes but the memory of scarcity fuels demands for social reform.
+
+__Energy Capture & Conversion:__ Steam power expands in factories and on railways; the energy transition continues regardless of political upheaval, though investment hesitates during the uncertainty of 1848.
+
+__Labor Organization & Coercion:__ Guilds still constrain artisan labor in many states; journeymen associations and nascent worker organizations mobilize during the revolution, demanding freedom of association and labor protections, though gains prove temporary.
+
+__Production & Surplus Capacity:__ Industrial production dips in 1848 as financial panic, credit contraction, and political instability disrupt trade; recovery begins in 1849 under restored order.
+
+__Storage, Reserves & Buffering:__ State treasuries are strained by revenue shortfalls during the crisis; private credit contracts sharply in March 1848, exposing fragile reserve positions.
+
+__Exchange, Trade & Logistics:__ The Zollverein customs union continues operating, maintaining cross-state trade; Frankfurt Parliament debates economic unification but fails to implement structural change before dissolution.
+
+__Value Storage, Credit & Deferred Exchange:__ Bank failures and credit panic accompany the March upheavals; confidence slowly returns in 1849 as conservative governments guarantee order.
+
+__Surplus Extraction & Redistribution:__ Feudal dues and aristocratic privileges come under attack; Prussia abolishes remaining seigneurial dues in 1850, completing reform begun earlier, but fiscal structures remain largely intact.
+
+__Wealth Distribution & Asset Defense:__ The bourgeoisie seeks constitutional protections for property; conservatives ultimately provide better guarantees of order and asset security than the fractious revolutionary assemblies.
+
+__Byproducts & Waste Routing:__ Industrial waste routing continues unchanged; the period leaves no distinctive imprint on material or financial waste accumulation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family structures remain stable; the revolution does not alter inheritance law or family formation patterns, though some states liberalize civil status regulations.
+
+__Association & Mutual Aid:__ The revolution unleashes an explosion of voluntary associations: political clubs, workers' societies, democratic committees, and journeymen organizations proliferate in the spring of 1848, creating a dense civil society that survives in attenuated form after restoration.
+
+__Leisure, Play & Sociability:__ Public gatherings, festivals, and political rallies characterize the revolutionary months; the public sphere temporarily expands into streets and squares before restoration confines politics again to authorized spaces.
+
+__Stratification, Status & Group Structure:__ The Bildungsbürgertum (educated middle class) leads the constitutional movement; artisans and workers mobilize for distinct social demands; aristocratic-bureaucratic elites resist fundamental status change and ultimately prevail.
+
+__Administrative Capacity & Institutional Integrity:__ Existing state bureaucracies largely remain intact through the upheaval; the Frankfurt Parliament attempts to create national institutions but lacks administrative capacity or enforcement power; Prussian and Austrian bureaucracies reassert control by 1849.
+
+__Coercive Apparatus & Means of Force:__ Armies withdraw from Berlin and Vienna in March 1848 but retain cohesion; by autumn Prussian and Austrian forces restore order, demonstrating that the revolution never seized control of the means of force; the coercive apparatus remains in conservative hands throughout.
+
+__Discharge, Disorder & Decay:__ Street fighting in Berlin (March 1848) and Vienna (March and October 1848) produces localized violence; broader civil order breaks down briefly but never reaches systemic collapse; conservative restoration ends the disorder.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Euphoria and revolutionary optimism characterize spring 1848; sentiment darkens through the summer as divisions emerge between liberal constitutionalists, radical democrats, and social revolutionaries; by 1849 resignation and disillusionment prevail among former revolutionaries.
+
+__Leadership & Personal Authority:__ No single charismatic leader dominates; the Frankfurt Parliament divides among liberals, democrats, and conservatives; Frederick William IV of Prussia ultimately refuses the imperial crown offered by the assembly, fatally undermining liberal hopes.
+
+__Legitimacy as Lived Allegiance:__ Monarchical legitimacy wavers in March 1848 but never fully collapses; rulers make tactical concessions while retaining ultimate authority; by 1850 legitimacy is restored on conservative terms.
+
+__Political Will & Collective Resolve:__ Revolutionary will fragments between competing programs: constitutional monarchy versus republic, Greater Germany versus Lesser Germany, bourgeois property protection versus artisan and worker demands; this fragmentation enables conservative reassertion.
+
+__External Relations & Posture:__ Prussia intervenes to suppress revolution in Baden and the Palatinate; Austria crushes the Hungarian revolt with Russian assistance; the revolutionary moment exposes German liberals' dependence on the very conservative powers they challenge.
+
+__Disaffection, Apathy & Spent Will:__ By 1850 revolutionary enthusiasm is exhausted; disappointed liberals emigrate (the "Forty-Eighters") or accommodate to reaction; political apathy spreads among those who briefly hoped for transformation.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy rates approaching fifty percent in German lands create mass readership; the revolution expands access by abolishing prepublication censorship and licensing requirements, briefly opening channels to all who can write and publish.
+
+__Channels & Transmission Velocity:__ Newspapers proliferate explosively: German-speaking Europe sees hundreds of new titles in spring 1848, many daily, carrying news from Berlin, Vienna, Frankfurt, and Paris within days; telegraph lines, still limited, begin accelerating transmission.
+
+__Record, Storage & Persistence:__ The revolution produces vast documentation: newspapers, pamphlets, assembly proceedings, police records; much survives in state archives, providing unusually dense records of the period.
+
+__Framing, Censorship & Discourse Norms:__ Prepublication censorship collapses in March 1848; for eighteen months, press freedom prevails across most German states, permitting open debate on constitutions, nationalism, social reform, and republicanism; restoration gradually reimposes controls.
+
+__Reception, Attention & Amplification:__ Public reading rooms, coffeehouses, and political clubs amplify printed matter; pamphlets and newspapers circulate beyond individual purchasers to collective audiences.
+
+__Signal Integrity & Noise Load:__ The information explosion overwhelms verification capacity; rumor, exaggeration, and partisan distortion proliferate alongside factual reporting; no institutions yet exist to filter the suddenly expanded flow.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Revolutionary demands appeal to natural rights, popular sovereignty, and constitutional government; the moral claims of 1789 French revolutionary heritage inform liberal programs.
+
+__Law, Codification & Regulatory Evolution:__ The Frankfurt Parliament drafts fundamental rights (Grundrechte) as a constitutional bill of rights; Prussia and other states issue constitutions in 1848–1850, though conservative revision follows.
+
+__Adjudication, Liability & Sanction:__ Revolutionary tribunals do not emerge; existing courts continue operating; after restoration, courts prosecute revolutionary leaders under reestablished press and assembly restrictions.
+
+__Rights, Protections & Compliance Burden:__ Constitutional drafts guarantee press freedom, assembly, and equality before the law; these protections remain contingent on political power and are curtailed as conservative authority reconsolidates.
+
+__Impunity & Unredressed Wrong:__ Revolutionary victims receive no systematic redress; counterrevolutionary violence in Vienna and Hungary proceeds with impunity; the restoration pardons some revolutionaries while exiling or imprisoning others.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ German idealist philosophy (Hegel's legacy) informs liberal and radical thought; nascent socialism (Marx and Engels publish the Communist Manifesto in January 1848) offers competing analysis of social transformation.
+
+__Applied Knowledge & Technical Method:__ The revolution is fought with barricades, paving stones, and small arms; no distinctive military or technical innovation emerges; railways and telegraph represent the cutting edge of applied infrastructure.
+
+__Education, Knowledge Stock & Skill Distribution:__ University students and professors figure prominently in revolutionary mobilization; the educated bourgeoisie provides leadership, though their numbers remain small relative to peasant and artisan populations.
+
+__Obsolescence & Knowledge Decay:__ The revolution challenges absolutist and corporate political theories without immediately displacing them; conservative thought reorganizes after 1850 to accommodate limited constitutionalism while rejecting popular sovereignty.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ German national identity, grounded in shared language and cultural heritage, motivates the unification project; the revolution inscribes 1848 as a foundational moment of democratic aspiration, a memory that persists despite defeat.
+
+__Legitimating Narrative & Ideology:__ Liberal nationalism frames the revolution as the awakening of the German nation to self-government; conservative counter-narrative emphasizes order, tradition, and the dangers of mob rule.
+
+__Artistic Expression & Material Culture:__ Revolutionary iconography includes the black-red-gold tricolor, the Germania figure, and democratic political songs; the period generates lithographs, caricatures, and political poetry documenting revolutionary hopes.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary symbolism remains potent through the period but is suppressed after restoration; black-red-gold becomes an underground marker of democratic sentiment, its public display prohibited.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant and Catholic populations both participate in the revolution, though religious division crosscuts political alignments; the period sees no fundamental challenge to Christian cosmology, though secular liberal thought advances among educated elites.
+
+__Ritual, Devotion & Sacred Practice:__ Religious observance continues; some clergy support revolutionary causes while church hierarchies generally align with established order; no distinctive spiritual innovation marks the period.
+
+__Religious Institutions & Doctrinal Authority:__ Catholic and Protestant churches maintain institutional continuity; the Frankfurt Parliament debates church-state separation without implementing fundamental change.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No significant religious movement or displacement occurs; confessional geography remains stable.
+
+__Disenchantment & Sacred Discharge:__ Secular political ideologies—liberalism, nationalism, socialism—offer competing frameworks of meaning alongside traditional religion; the revolution accelerates the long-term process of political thought displacing religious authority as the ground of public order, though this shift remains partial and contested.

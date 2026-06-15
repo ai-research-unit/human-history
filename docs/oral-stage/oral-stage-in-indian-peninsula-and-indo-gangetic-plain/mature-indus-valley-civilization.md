@@ -1,69 +1,140 @@
-# __2600 BCE – 2000 BCE__ — Mature Indus Valley Civilization
-__Summary:__ A static snapshot of South Asia's first urban civilization at its zenith, encompassing approximately one million square kilometers from the Himalayan foothills to the Gujarat coast and from Baluchistan to the upper Ganges-Yamuna doab; the system exhibits remarkable standardization of weights, brick sizes, and symbolic repertoire (including the undeciphered Indus script) alongside planned cities with elaborate drainage, specialized craft production, and long-distance trade reaching Mesopotamia; the binding constraint is the organizational and surplus-extraction capacity required to sustain urban populations without visible coercive apparatus, while the system holds substantial margin against seasonal hazards through granary storage and diversified subsistence, with the direction of change being consolidation and peak integration before late-window stresses begin.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Indus and Ghaggar-Hakra river systems provide the primary settlement corridors; cities at Mohenjo-daro and Harappa anchor the core while Dholavira, Lothal, and Kalibangan extend the network; the Baluchistan highlands, Thar Desert, and Arabian Sea coast define resource and trade perimeters; transit friction moderate across the alluvial plains, higher through mountain passes to Afghanistan and Iran.<br><br>
-__Climate Regime & Volatility:__ The late third millennium BCE experiences continued monsoon reliability with possibly slight weakening toward 2000 BCE; seasonal flooding predictable and integrated into agricultural planning; interannual variability moderate; climate trending toward drier conditions but not yet critically constraining.<br><br>
-__Hazard Regime & Exposure:__ Indus flooding is the primary recurrent hazard, managed through settlement elevation and drainage infrastructure; earthquake risk present along the Himalayan front; drought exposure buffered by stored grain and diversified crops; the system holds adequate margin against typical shocks.<br><br>
-__Resource & Energy Endowment:__ Copper from Rajasthan (Khetri) and Oman trade; tin sources distant (possibly Afghanistan, Central Asia); gold from Karnataka or imported; lapis lazuli from Badakhshan; carnelian from Gujarat; timber from upper Indus and Himalayan foothills increasingly distant; alluvial clay abundant; the resource base is rich but some inputs require long-distance procurement.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban concentrations produce substantial organic waste, but elaborate drainage systems and brick-lined sewers manage effluent; kiln emissions and metallurgical slag localized; absorptive capacity ample for current loads; no evidence of environmental degradation at civilizational scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Urban crowding increases exposure to gastrointestinal and waterborne pathogens; sanitation infrastructure (drains, baths) mitigates but does not eliminate risk; endemic parasitic infections likely; epidemic events possible but not archaeologically attested; mortality baseline elevated relative to rural populations but stable.<br><br>
-__Nutrition & Physiological Vitality:__ Wheat, barley, rice (in some areas), millets, pulses, cattle products, fish, and hunted game provide diverse nutrition; skeletal evidence shows moderate stature and generally adequate physiological status; urban populations adequately nourished though perhaps not as robust as rural counterparts; vitality stable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Physiological fertility unimpaired; household structures suggest nuclear or small extended families in urban contexts; mating patterns unattested; selective pressures unremarkable for the window.<br><br>
-__Demographic Renewal & Density:__ Urban populations substantial (Mohenjo-daro perhaps 40,000–50,000); total civilizational population estimated at several million; density high in cities, moderate in hinterlands; renewal rates positive, maintaining population at or near carrying capacity for urban infrastructure.<br><br>
-__Attrition & Dependency Overhang:__ Infant mortality moderate by premodern standards; aged and infirm absorbed within household structures; urban anonymity may reduce kin support for some dependents; dependency load manageable but urban conditions may strain informal networks.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Irrigated and rain-fed agriculture produces wheat, barley, rice, millets, and pulses; cattle, sheep, goats, and fish supplement; urban populations provisioned through hinterland extraction; floor well above bare survival for most, with reserves against seasonal shortfall.<br><br>
-__Energy Capture & Conversion:__ Human and animal (cattle, donkey) muscle power dominant; fire for cooking, pottery, brick-firing, and metallurgy; water transport on rivers and coastal routes; per-capita energy ceiling stable at high premodern levels; no mechanical water or wind power attested.<br><br>
-__Labor Organization & Coercion:__ Specialized craft production (bead-making at Chanhu-daro, shell-working at Nageshwar) implies organized labor; no evidence of slave barracks or coerced labor forces; wage or ration compensation unattested but some form of organized provisioning for specialists likely; labor structure appears cooperative or corporate rather than overtly coerced.<br><br>
-__Production & Surplus Capacity:__ Surplus generation substantial, supporting urban non-producers (craftspeople, traders, possible administrators); standardized production of pottery, beads, and metal goods indicates high output capacity; agricultural surplus stored in large granary structures.<br><br>
-__Storage, Reserves & Buffering:__ Massive granary structures at Harappa and Mohenjo-daro; standardized storage jars; reserves sufficient for multi-season buffering; risk pooling across the urban network through trade and redistribution; buffer capacity substantial.<br><br>
-__Exchange, Trade & Logistics:__ Extensive internal trade in pottery, beads, metals, and agricultural goods; external trade with Mesopotamia (Meluhha trade), Gulf (Dilmun, Magan), and Central Asia; Lothal possibly a port; bullock carts, riverine transport, and coastal shipping; logistics sophisticated for the era.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Standardized weights (binary and decimal systems) facilitate exchange; seals and sealings may mark property or authenticate transactions; no coinage; value stored in craft goods, raw materials, and possibly grain; deferred exchange managed through seal-authenticated obligations or kinship reciprocity.<br><br>
-__Surplus Extraction & Redistribution:__ Extraction mechanisms unclear — no palaces or temples for centralized collection; granaries suggest communal or corporate storage; redistribution possibly managed by kin groups, craft guilds, or councils; load on productive base moderate, absorbed without visible strain.<br><br>
-__Wealth Distribution & Asset Defense:__ Relatively modest variation in house sizes suggests less extreme stratification than contemporaneous Mesopotamia or Egypt; wealth held in craft goods, cattle, and stored grain; defense of assets through corporate solidarity and possibly seal-marked ownership; concentration present but not extreme.<br><br>
-__Byproducts & Waste Routing:__ Elaborate drainage systems channel urban wastewater; kiln and metallurgical waste disposed in designated areas; broken pottery and organic refuse managed through regular clearance; routing effective, preventing accumulation within urban spaces.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks extend beyond kin to encompass craft associations, neighborhood groups, and trade partners; standardization across vast distances implies high inter-community trust; mutual aid functional at multiple scales; trust radius wide relative to contemporaries.<br><br>
-__Stratification, Status & Group Identity:__ Status differentiation visible in house sizes and burial goods but less extreme than in Mesopotamia; craft, neighborhood, and possibly kin-group identities prominent; stratification present but boundaries appear relatively permeable; no rigid caste-like divisions attested.<br><br>
-__Kinship, Family & Inheritance:__ Urban houses suggest nuclear or small extended families; inheritance patterns unattested; kin networks likely remain important for economic cooperation and social insurance despite urban context.<br><br>
-__Civic Association & Self-Organization:__ Craft guilds or workshops organized at neighborhood level; collective maintenance of drainage and streets implies civic coordination; associational fabric thick, enabling urban functions without visible state apparatus.<br><br>
-__Leisure, Play & Sociability:__ Terracotta toys (carts, animals, dice) suggest play; Great Bath at Mohenjo-daro may serve communal bathing and sociability; festive gatherings unattested but probable; sociability embedded in urban rhythms.<br><br>
-__Grievance Channels & Social Discharge:__ Mediation through craft associations, kin groups, or neighborhood councils presumed; mobility within the urban network possible; no evidence of accumulated unredressed grievance; social friction absorbed within existing channels.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ No palaces, royal tombs, or monumental glorification of rulers identified; authority possibly vested in councils, corporate groups, or rotating leadership; power structure appears heterarchical or collectively organized rather than centralized monarchical; distribution stable within the window.<br><br>
-__Succession & Power Transfer:__ Succession mechanisms completely unattested; absence of dynastic markers suggests non-hereditary or collective leadership; transfer presumably routinized within whatever corporate structure governs; no evidence of contested succession.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy grounds unrecoverable; possibly based on ritual purity, commercial success, or collective consensus; no recoverable political ideology; narrative absent from archaeological record.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Standardized weights, brick sizes, and urban planning imply substantial administrative coordination; seals may function in accounting or authorization; capacity adequate for urban management across vast distances; integrity unassessable but standardization suggests effectiveness.<br><br>
-__Political Participation & Mobilization:__ Participation mechanisms unattested; collective organization of public works implies some form of mobilization; factions not visible; channels neither notably open nor closed.<br><br>
-__Geopolitical Position & External Relations:__ Multiple major cities without clear hierarchy; external relations commercial rather than diplomatic (Mesopotamian texts mention Meluhha as trade partner, not political entity); no territorial conflicts attested; position stable.<br><br>
-__Coercive Apparatus & Means of Force:__ Notably sparse weapons in archaeological record; no fortifications oriented against military assault; no conquest iconography; force capacity minimal or dispersed; the system appears to rely on other means for order maintenance.<br><br>
-__Internal Order & Threat Environment:__ Low visible violence in skeletal record; crime and disorder presumably managed through social mechanisms; banditry unattested; internal order maintained without visible coercive apparatus; threat environment benign.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral transmission remains primary for most information; traders and travelers carry news along trade routes; velocity constrained by animal and boat transport; reach extends to Mesopotamia over months; urban centers function as information nodes.<br><br>
-__Record, Storage & Persistence:__ The Indus script (400+ signs) appears on seals, tablets, and pottery but remains undeciphered and may not encode full language; its function is likely administrative, identifying, or religious rather than literary; oral tradition remains the primary vehicle for cultural transmission and institutional memory; persistence dependent on living memory and continuous oral practice; no narrative texts recoverable.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms embedded in oral tradition and corporate culture; no formal censorship apparatus recoverable; standardization of symbols suggests shared conventions; discourse norms stable.<br><br>
-__Reception, Attention & Amplification:__ Urban settings enable larger audiences for oral performance; seals and symbols provide visual amplification of identity or authority; attention focused on immediate commercial and ritual concerns; amplification mechanisms modest.<br><br>
-__Signal Integrity & Noise Load:__ Seal impressions provide some authentication and verification; oral drift inevitable over generations; information volume manageable; signal integrity adequate for commercial and administrative functions; noise load low.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Shared notions of fair dealing, commercial honesty, and corporate obligation underwrite exchange networks; justice conceived in terms of reciprocity and proper conduct; foundations stable and widely shared across the urban network.<br><br>
-__Law, Codification & Regulatory Evolution:__ No law codes recovered; binding norms transmitted orally as custom and trade convention; standardization of weights and measures implies agreed rules; codification absent but functional equivalents operative.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes presumably adjudicated by craft associations, kin groups, or community elders; enforcement through social pressure and commercial reputation; liability assigned through negotiated settlement; throughput adequate for commercial society; third-party arbitration unattested but probable.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy constrained within corporate and kin obligations; protections derive from group membership and commercial reputation; compliance with trade conventions and urban regulations presumably light; burden not visibly onerous.<br><br>
-__Impunity & Unredressed Wrong:__ Wealthy or well-connected individuals may escape censure; unredressed wrongs absorbed through migration or kin mediation; impunity present but not systemically destabilizing; judicial residue manageable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Practical knowledge of hydraulic engineering, metallurgy, ceramics, and urban planning highly developed; no formal theoretical framework recoverable; explanatory paradigms embedded in oral tradition; empirical observation guides technique.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated techniques in bead-drilling, bronze-casting, brick-making, and drainage engineering; standardization implies codified methods transmitted through apprenticeship; technical repertoire at high point for the Bronze Age.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted within craft lineages and workshops; no formal schooling; functional use of Indus script does not imply widespread literacy; skill highly concentrated among specialists; knowledge stock substantial and actively maintained.<br><br>
-__Obsolescence & Knowledge Decay:__ Superseded techniques gradually abandoned; continuous transmission maintains knowledge stock; no major knowledge loss attested during the window; decay rate low; intellectual environment stable.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and collective memory presumably transmitted orally but unrecoverable; identity rooted in urban citizenship, craft affiliation, and regional tradition; bull and water imagery suggest foundational symbols; mythos shaping self-understanding but content unknown.<br><br>
-__Artistic Expression & Material Culture:__ Distinctive aesthetic in seal carvings (animals, human figures, script), pottery, terracotta figurines, bronze statuettes (Dancing Girl), and personal ornaments; material culture highly standardized yet regionally varied; artistic expression confident and refined.<br><br>
-__Collective Mood & Behavioral Disposition:__ Material prosperity and urban order suggest confident collective mood; risk tolerance evident in long-distance trade and urban investment; disposition stable, neither notably anxious nor complacent; pride in craft and civic achievement plausible.<br><br>
-__Form Exhaustion & Meaning Decay:__ No evidence of exhausted forms; symbolic and material repertoire actively maintained; standardization might risk ossification but within the window forms remain vital; meaning decay not yet an issue.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmological beliefs unattested but likely involve water, fertility, and animal symbolism given iconographic evidence; Great Bath suggests ritual purification; existential outlook embedded in agricultural and urban cycles; metaphysical framework presumed but not recoverable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Great Bath implies communal ritual bathing; fire altars at Kalibangan and Lothal suggest fire ritual; terracotta figurines may serve votive or devotional functions; sacred practice integrated with urban and domestic life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No temples or priestly palaces identified; ritual specialists likely exist but institutional hierarchy unattested; doctrinal authority decentralized or embedded in corporate structures; formal religious institutions minimal or invisible.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shared iconographic motifs (unicorn, bull, pipal tree) across the civilization suggest diffusion and standardization; no evidence of sectarian conflict or displacement; spiritual tradition coherent and stable within the window.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of spiritual crisis or disenchantment; sacred frameworks appear vital and functional, integrated with urban order; existential residue minimal; the sacred adequately anchors collective meaning during this peak phase.<br><br>
+# __2,600 BCE – 2,000 BCE__ — Mature Indus Valley Civilization
+
+__Summary:__ At its height, the Indus civilization supported over a million people in planned cities stretching from Afghanistan to Gujarat, with standardized weights, sophisticated drainage, and long-distance trade reaching Mesopotamia, yet the binding constraint remained oral: the undeciphered Indus script appears limited to brief seal inscriptions, and all institutional coordination, technical knowledge, and communal memory rode on speech and the recall of living specialists.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Indus River and its tributaries formed the circulatory system of the civilization, with major cities at Mohenjo-daro and Harappa along the main channel, Dholavira on the arid Kutch coast, and Lothal near the Gulf of Cambay; the Ghaggar-Hakra system, still carrying seasonal flow, supported the dense settlement cluster around Rakhigarhi; river transport reduced friction dramatically, enabling bulk movement of grain, craft goods, and construction materials across hundreds of kilometers.
+
+__Climate Regime & Volatility:__ The monsoon had weakened from its early-Holocene peak but still delivered sufficient rainfall for agriculture; interannual variability stressed the system periodically, and the gradual aridification trend that would culminate in the 4.2 kiloyear event was already underway; cities were sited to exploit riverine resources while managing flood risk.
+
+__Hazard Regime & Exposure:__ Flooding posed the primary hazard, requiring massive mud-brick platforms to raise living surfaces above high-water marks; Mohenjo-daro shows repeated rebuilding after flood damage; seismic activity in the northwestern mountains occasionally disrupted infrastructure; drought years, increasingly frequent, tested the buffer capacity of urban granaries.
+
+__Resource & Energy Endowment:__ The civilization drew on copper and bronze from Rajasthan and Oman, tin possibly from Afghanistan, gold from Karnataka, and semi-precious stones (carnelian, lapis lazuli, agate) from across the greater region; alluvial soils supported intensive wheat, barley, and cotton cultivation; timber from the Himalayan foothills supplied construction needs.
+
+__Waste Absorption & Sink Capacity:__ Urban densities generated unprecedented waste loads, but the sophisticated drainage systems channeled wastewater away from living areas; solid waste accumulated in peripheral dumps; no evidence of severe environmental degradation within cities, though downstream effects are unknown; the physical residue was managed rather than allowed to accumulate unchecked.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Urban concentration increased pathogen transmission; skeletal evidence shows tuberculosis, leprosy, and other infectious diseases; infant mortality remained high; however, the general health of the population, as indicated by stature and bone development, suggests adequate nutrition offset some disease burden.
+
+__Nutrition & Physiological Vitality:__ The agricultural base provided ample calories from wheat, barley, millets, and pulses, supplemented by cattle, sheep, goat, fish, and game; skeletal evidence shows generally robust populations without widespread nutritional deficiency; urban elites may have enjoyed superior diets, but provisioning appears adequate across classes.
+
+__Care, Healing & Recovery Capacity:__ Healing remained folk-based, relying on herbal remedies and ritual practices transmitted orally; no institutional medicine is attested; skeletal evidence of healed fractures and trepanation suggests some surgical knowledge; care for the ill and injured occurred within household and kin networks.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage and pair-bonding followed social rules transmitted through oral tradition; burial patterns suggest nuclear or small extended family units; no evidence of systematic polygamy or complex marriage rules, though these may simply not be archaeologically visible.
+
+__Demographic Renewal & Density:__ Urban populations at major sites reached tens of thousands, with total civilization population estimated at one to five million; density was high in cities but dispersed across the broader settlement pattern; population growth appears to have slowed from earlier phases, suggesting approach to carrying capacity.
+
+__Attrition & Dependency Overhang:__ Urban populations included dependents of all ages; cemetery evidence shows normal age distributions; no evidence of unusual dependency burdens; the productive population supported standard loads of children, elderly, and disabled within household structures.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Wheat, barley, and millets formed the staple base; cotton was cultivated for textile production; cattle, sheep, goat, and water buffalo provided dairy, meat, and traction; urban populations depended on agricultural hinterlands, requiring reliable surplus flows; granaries at major cities stored reserves against shortage.
+
+__Energy Capture & Conversion:__ Human and animal labor provided the primary power sources; fire was used for metallurgy, ceramic production, and brick-making; no evidence of water or wind power beyond basic irrigation; the energy ceiling was high enough to support monumental construction but limited further intensification.
+
+__Labor Organization & Coercion:__ Labor was organized through craft workshops, often clustered by specialty; evidence of distinct residential and working areas suggests occupational differentiation; no direct evidence of slavery, but the scale of construction implies mobilized labor, whether through coercion, corvee, or reciprocal obligation remains unknown; labor relations were coordinated orally.
+
+__Production & Surplus Capacity:__ Craft production reached sophisticated levels: standardized bricks, stone and bronze tools, beads of exceptional quality, pottery, textiles, and carved seals; surplus was sufficient to support extensive non-food-producing specialists, traders, and possibly administrative personnel; production was for local use and long-distance export.
+
+__Storage, Reserves & Buffering:__ Large granaries at Mohenjo-daro and Harappa suggest centralized or communal storage; these reserves buffered against harvest failures and enabled sustained urban populations; the capacity for multi-year storage is uncertain but probable given granary size.
+
+__Exchange, Trade & Logistics:__ Trade networks extended to Mesopotamia (via Dilmun and Magan), Afghanistan, Iran, and across South Asia; exports included carnelian beads, textiles, and possibly timber and ivory; imports included metals, lapis lazuli, and luxury goods; bullock carts, river boats, and coastal vessels moved goods; trade was coordinated through merchant networks operating without written contracts visible to us.
+
+__Value Storage, Credit & Deferred Exchange:__ Standardized weights across the civilization enabled precise measurement and presumably fair exchange; no coinage existed, but standard weight sets suggest that commodities were valued by weight; credit and deferred exchange likely operated through oral agreement within trusted merchant networks; seals may have authenticated agreements or marked ownership.
+
+__Surplus Extraction & Redistribution:__ The mechanisms of surplus extraction remain debated; large structures identified as granaries or great baths suggest communal or elite appropriation of surplus; no temples or palaces clearly identifiable; redistribution, if any, operated through channels that left no written record; oral coordination of collection and distribution would have required trusted intermediaries.
+
+__Wealth Distribution & Asset Defense:__ Wealth differences existed, visible in house sizes and access to prestige goods; however, extreme concentration is not evident; the absence of ostentatious royal tombs or palace complexes suggests more distributed wealth than in contemporary Mesopotamia or Egypt; asset defense relied on community membership and urban order.
+
+__Byproducts & Waste Routing:__ Craft production generated slag, broken goods, and debris; urban areas show waste accumulation in designated dumps; drainage systems handled liquid waste efficiently; the metabolic load of cities was significant but apparently managed without crisis.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family structures visible in housing suggest nuclear or small extended families as residential units; inheritance rules are unknown but presumably oral; kinship likely organized social obligations and marriage patterns; clan or lineage identities may have structured larger affiliations.
+
+__Association & Mutual Aid:__ Craft specialists clustered in distinct neighborhoods, suggesting proto-guild organization; mutual aid within these clusters is likely; no formal associations are attested, but occupational solidarity probably existed; neighborhood organization provided a layer of social structure between household and city.
+
+__Leisure, Play & Sociability:__ Gaming pieces, musical instruments, and children's toys appear in the archaeological record; public spaces including the Great Bath at Mohenjo-daro may have served ritual or social functions; festivals and communal gatherings are presumed but not directly attested.
+
+__Stratification, Status & Group Structure:__ Status differentiation was present but not extreme; elites controlled larger houses and more prestige goods; occupational specialization created functional distinctions; no clear evidence of rigid caste-like barriers; the Great Bath and uniformity of urban planning suggest some shared civic identity across strata.
+
+__Administrative Capacity & Institutional Integrity:__ The standardization of weights, bricks, and urban planning across the civilization implies coordinated administration of remarkable reach; yet no palaces, royal inscriptions, or bureaucratic archives are known; administration operated through oral tradition, face-to-face coordination, and presumably trusted intermediaries; the Indus seals may have served administrative functions, but their brief inscriptions cannot have recorded complex transactions; institutional integrity depended on personal reputation and oral accountability.
+
+__Coercive Apparatus & Means of Force:__ No barracks, armories, or fortifications suggesting organized military are known from most sites; walls at some sites may be for flood control as much as defense; weapons are few and utilitarian; organized violence is not prominent in the archaeological record; internal order presumably rested on social consensus and informal sanction rather than standing coercive apparatus.
+
+__Discharge, Disorder & Decay:__ No evidence of significant internal disorder or state breakdown during the mature phase; the civilization appears remarkably stable; conflict resolution operated through oral mediation and social pressure; the absence of visible coercive apparatus suggests that social order was maintained through consent rather than force.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The uniformity of material culture suggests shared identity and high social trust within the civilization; the absence of militarism and the civic character of public spaces imply a confident, stable public temper; whether this reflects genuine harmony or simply the limits of archaeological inference is unknown.
+
+__Leadership & Personal Authority:__ No rulers are identifiable in the archaeological record; no royal tombs, statues, or inscriptions; leadership must have existed but apparently operated without monumental self-representation; authority may have been distributed among elders, priests, or merchant councils, exercised through oral persuasion and established precedent.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy derived from oral tradition, demonstrated competence, and the benefits of urban life; the stability of the system suggests that authority was accepted; the absence of resistance evidence implies either consent or effective but invisible control.
+
+__Political Will & Collective Resolve:__ The construction of cities, standardization of measures, and maintenance of trade networks required sustained collective will; this will was mobilized through oral coordination; the civilization's longevity (six centuries) indicates robust collective resolve.
+
+__External Relations & Posture:__ Relations with Mesopotamia were commercial rather than political; no evidence of warfare with external powers; the civilization's posture appears inward-focused, maintaining trade but not projecting military power; distant trade partners were commercial contacts, not allies or enemies in a political sense.
+
+__Disaffection, Apathy & Spent Will:__ No evidence of disaffection during the mature phase; the system functioned smoothly; the decline after 2000 BCE may reflect environmental stress more than internal collapse of will, but this falls outside the current window.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language was the primary medium; the Indus script, appearing on seals and other objects, remains undeciphered; its brevity (average five characters) suggests it may have been a limited notation system rather than full writing; if so, literacy in any meaningful sense did not exist; communication across the civilization required bilingualism or lingua franca, given likely linguistic diversity.
+
+__Channels & Transmission Velocity:__ Information traveled along trade routes at the speed of cart and boat; major cities served as information hubs; news from Mesopotamia reached the Indus within weeks or months; internal communication depended on personal networks and traveling merchants; no postal system or official messengers are attested.
+
+__Record, Storage & Persistence:__ All significant record-keeping was oral; the Indus script may have marked ownership or authentication but could not record complex transactions, contracts, or laws; institutional memory resided in the minds of specialists; knowledge was vulnerable to the death of its keepers; this set the ceiling on administrative complexity and historical memory.
+
+__Framing, Censorship & Discourse Norms:__ No evidence of censorship or formal discourse control; oral tradition set the norms for what could be said and how; taboos and conventions presumably existed but left no direct trace.
+
+__Reception, Attention & Amplification:__ Information spread through personal networks and public gatherings; important news was amplified by repetition; market squares and ritual spaces may have served as venues for public communication; no mass media or broadcast mechanisms existed.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduced drift over generations; the standardization of material culture suggests mechanisms for maintaining fidelity, perhaps through ritual or craft guild transmission; the brief Indus inscriptions, whatever their function, could not serve as archival records; the noise load increased with distance and time, limiting the effective reach of precise coordination.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The shared norms that enabled civilization-wide standardization must have rested on a common moral framework; fairness in trade is implied by standardized weights; notions of right and wrong were embedded in oral tradition and enforced through social sanction; the absence of visible punishment or coercion suggests internalized norms rather than externally imposed rules.
+
+__Law, Codification & Regulatory Evolution:__ No codified law; all rules were oral; the uniformity of urban planning suggests regulatory standards, but these were transmitted and enforced without written codes; evolution of rules depended on oral revision and communal acceptance.
+
+__Adjudication, Liability & Sanction:__ Dispute resolution operated through oral mediation, perhaps by elders or craft leaders; no courts or judges are attested; sanction was social rather than institutional; the mechanisms that kept a large, complex society orderly without visible coercion remain one of the civilization's mysteries.
+
+__Rights, Protections & Compliance Burden:__ Individual rights were embedded in social status and community membership; protection derived from belonging; compliance with norms was enforced through reputation and the threat of social exclusion; the compliance burden of oral rules was cognitive, requiring memory and attention to precedent.
+
+__Impunity & Unredressed Wrong:__ Without written records, the scale of impunity is unknowable; elites presumably enjoyed advantages in dispute resolution; the absence of visible inequality in coercive capacity may have limited impunity compared to states with armed elites; wrongs were redressed through oral negotiation or remained unrecorded grievances.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry or theoretical knowledge is attested; understanding of the world was practical and embedded in craft tradition; knowledge of materials, agriculture, hydrology, and medicine was cumulative but not systematized into explicit theory.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge was highly developed: precise weight standards, sophisticated drainage engineering, standardized brick ratios, advanced metallurgy, and bead-making techniques that remain difficult to replicate; all transmitted orally through apprenticeship; the civilization achieved remarkable technical sophistication without writing.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education occurred within households and craft lineages; specialists held concentrated knowledge; the knowledge stock was large but distributed unevenly and held in memory; literacy in the full sense did not exist; children learned by observation and oral instruction.
+
+__Obsolescence & Knowledge Decay:__ Knowledge was vulnerable to demographic discontinuity; the skills of the mature civilization would be largely lost in the post-urban transition, demonstrating the fragility of oral transmission when communities dispersed; within the mature phase, guild-like structures presumably maintained redundancy.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Oral tradition carried origin stories, ancestral memories, and collective identity; the uniformity of iconography (especially seals depicting animals and possible deities) suggests shared mythological content; no texts survive to reveal the stories told; the civilization's identity was oral and is now largely irrecoverable.
+
+__Legitimating Narrative & Ideology:__ Whatever narratives legitimated authority and order were oral; the absence of royal propaganda suggests either distributed authority or ideological modesty; the stories that justified the social order have been lost with the voices that told them.
+
+__Artistic Expression & Material Culture:__ Material culture achieved a distinctive and uniform style: geometric pottery, terracotta and bronze figurines, carved seals depicting animals and possible ritual scenes, jewelry of exceptional quality, and planned architecture with indoor plumbing and public baths; the aesthetic emphasized precision, functionality, and understated elegance rather than monumental display.
+
+__Form Exhaustion & Meaning Decay:__ No evidence of cultural exhaustion during the mature phase; forms remained vital and consistent; the decline after 2000 BCE involved cultural simplification, but this falls outside the current window.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Cosmological beliefs are inferred from iconography: the horned figure in yogic posture on seals may represent a proto-Shiva; animal imagery suggests animistic or totemic elements; the Great Bath implies ritual bathing with possible cosmological significance; the existential outlook embedded the human in natural and supernatural cycles.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual spaces include the Great Bath and possible fire altars; terracotta figurines may represent deities or were used in domestic ritual; burial practices varied but generally included grave goods; all ritual knowledge was oral, held by specialists whose practices have left only material traces.
+
+__Religious Institutions & Doctrinal Authority:__ No temples clearly identified; religious authority presumably rested with specialists whose role and organization are unknown; no priesthood is archaeologically visible; doctrine was oral, flexible, and locally varied; authority derived from tradition and personal sanctity rather than institutional position.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The uniformity of iconography across the civilization suggests shared or syncretized beliefs; interaction with Mesopotamia may have introduced external elements, but no clear borrowing is attested; indigenous traditions predominated; spiritual diffusion occurred through trade and movement, not missionary activity.
+
+__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the sacred remained embedded in daily life; the Great Bath and seal iconography suggest active engagement with spiritual concerns; the residue was anchored rather than discharged; the civilization's spiritual life appears stable within the window.
+

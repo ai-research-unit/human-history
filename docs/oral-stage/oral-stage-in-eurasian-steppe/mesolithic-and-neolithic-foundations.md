@@ -1,69 +1,140 @@
-# __8000 BCE – 4500 BCE__ — Mesolithic and Neolithic Foundations
-__Summary:__ A 3,500-year transition across the Eurasian steppe zone during which Holocene climatic amelioration transforms the late-glacial open grassland into a forest-steppe mosaic, foraging populations adopt pottery among the earliest in Europe, and Near Eastern domesticates — cattle, sheep, goats — diffuse northward through the Caucasus and Balkans to establish the mixed herding-foraging economies that will underwrite later pastoral expansion; the binding constraint is the slow, uneven arrival of productive domesticates into a landscape still dominated by wild resources, leaving subsistence in flux and demographic growth modest; considerable margin against shock persists given low population density and diverse resource options; the direction of change is toward sedentism at resource-rich nodes, incipient herding, and widening inter-regional contact.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The steppe corridor runs from the middle Danube across the Pontic-Caspian lowlands to the Aral basin and beyond; river valleys (Dnieper, Don, Volga, Amu Darya) provide water, fish, and transit axes, while interfluves present drier, more open terrain requiring longer-range mobility.<br><br>
-__Climate Regime & Volatility:__ The Holocene Climatic Optimum brings warmer, wetter conditions than the terminal Pleistocene; summers lengthen, winters moderate; interannual variability is present but the secular trend is toward greater humidity and biological productivity through most of the window.<br><br>
-__Hazard Regime & Exposure:__ Flood pulses along major rivers pose localized risk; drought remains possible on drier interfluves; no volcanic or seismic exposure of note; overall hazard load is modest relative to carrying capacity.<br><br>
-__Resource & Energy Endowment:__ Abundant wild ungulates (horse, aurochs, deer), riverine fish (sturgeon, carp), waterfowl, and seasonal plant foods; lithic raw materials regionally available; copper ore in Carpathians and Urals not yet exploited at scale; the resource base is ample for low-density foraging populations.<br><br>
-__Waste Absorption & Sink Capacity:__ Human populations are sparse and mobile; organic refuse disperses naturally; no measurable saturation of air, water, or soil sinks; absorptive capacity effectively unlimited for the waste loads generated.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasitic and enteric infections are present; epidemic disease vectors remain limited given low population density and lack of large domestic animal reservoirs; background mortality is moderate, probably dominated by injury, childbirth complications, and seasonal nutritional stress.<br><br>
-__Nutrition & Physiological Vitality:__ Skeletal evidence from related contexts indicates generally robust stature and low caries rates; dietary breadth — wild meat, fish, gathered plants — provides adequate macronutrients and micronutrients; physiological vitality is stable to improving through the window.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding patterns are archaeologically invisible but likely kin-regulated; reproductive biology is unconstrained by severe nutritional deficits; fertility is adequate for replacement and modest growth.<br><br>
-__Demographic Renewal & Density:__ Population density remains low — scattered camps and seasonal aggregations; birth-to-death ratios permit slow positive growth, accelerating where early herding supplements wild resources; net trend is gradual in-filling of favorable niches.<br><br>
-__Attrition & Dependency Overhang:__ Short life expectancy limits accumulation of aged dependents; orphaned children are likely absorbed into extended kin networks; dependency load is manageable and does not drag the productive cohort below replacement.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Foraging — hunting, fishing, gathering — provides the baseline; early cattle, sheep, and goat herding supplements wild take in the later phases; the population sits well above the starvation edge given resource diversity and low density.<br><br>
-__Energy Capture & Conversion:__ Human muscle is the sole prime mover; fire is used for cooking, warmth, and landscape management; animal muscle is not yet systematically harnessed; per-capita work ceiling is low but adequate for the subsistence regime.<br><br>
-__Labor Organization & Coercion:__ Labor is organized by household and kin group; tasks divide by age and sex along lines common to foraging societies; coercion is minimal and embedded in kinship obligation rather than institutionalized extraction.<br><br>
-__Production & Surplus Capacity:__ Production is oriented toward immediate consumption; pottery (Elshanka and related traditions) enables storage and transport of liquids and processed foods; surplus capacity is low but growing as herding expands.<br><br>
-__Storage, Reserves & Buffering:__ Ceramic vessels, pits, and drying techniques allow modest stockpiling of fish, meat, and grain where available; reserves buffer single-season shortfalls but not multi-year crises; pooling is kin-based.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange is attested by exotic lithics (obsidian, quality flint) and shell ornaments; networks are diffuse and low-volume; no specialized traders or market infrastructure.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Value is embedded in durable goods (tools, ornaments) and livestock as herding spreads; deferred reciprocity within kin networks substitutes for formal credit; no standardized medium of exchange.<br><br>
-__Surplus Extraction & Redistribution:__ No coordinating authority extracts surplus at scale; communal redistribution of large kills and harvests occurs at the band or lineage level; extraction load is negligible.<br><br>
-__Wealth Distribution & Asset Defense:__ Material inequality is modest; ornaments and quality tools mark individual distinction but do not translate into entrenched wealth tiers; asset defense is personal and kin-backed.<br><br>
-__Byproducts & Waste Routing:__ Organic waste decomposes on-site; lithic debitage accumulates at knapping locations but poses no constraint; waste load is trivial relative to landscape absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radiates outward from kin and co-residential bands; reciprocity norms are strong within this radius; inter-group trust is contingent and built through exchange, intermarriage, and seasonal gatherings.<br><br>
-__Stratification, Status & Group Identity:__ Status differentiation is incipient; age, skill, and generosity confer prestige; burials show modest variation in grave goods; no rigid caste or class boundaries; ethnic or dialect-based group identities are forming but boundaries remain permeable.<br><br>
-__Kinship, Family & Inheritance:__ Kinship is the organizing scaffold; extended families or bands pool labor and risk; inheritance likely follows patrilineal or bilateral lines; marriage alliances link bands.<br><br>
-__Civic Association & Self-Organization:__ Bands and seasonal aggregations constitute the associational fabric; elder councils or skilled individuals coordinate collective hunts and ceremonies; no formalized civic institutions.<br><br>
-__Leisure, Play & Sociability:__ Seasonal aggregations provide venues for feasting, courtship, storytelling, and ritual; leisure time is integrated with subsistence rhythms; sociability sustains group cohesion.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes are mediated by kin elders or resolved through avoidance (fissioning); ritual feasting discharges tension; standing grievance load is low given the exit option of mobility.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is diffuse and situational; respected elders and skilled hunters exert influence but not command; no permanent offices or coercive hierarchy.<br><br>
-__Succession & Power Transfer:__ Leadership is achieved through demonstrated competence and generosity; no formalized succession rules; transfer is fluid and non-violent.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on kinship, personal reputation, and ritual knowledge; narratives of ancestral origin and spirit favor underwrite authority claims.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative apparatus is absent; coordination occurs through face-to-face consensus; record-keeping is non-existent; corruption as a concept does not apply.<br><br>
-__Political Participation & Mobilization:__ Adult men and possibly senior women participate in collective deliberation; dissent is expressed through voice or exit; mobilization for collective action (hunts, defense) is ad hoc.<br><br>
-__Geopolitical Position & External Relations:__ Inter-group relations range from alliance and exchange to low-level raiding; no territorial states or fixed borders; external pressure is minimal.<br><br>
-__Coercive Apparatus & Means of Force:__ Weapons are hunting tools (spears, bows, clubs) repurposed for conflict; no standing warriors or fortifications; force is personal and collective rather than institutionalized.<br><br>
-__Internal Order & Threat Environment:__ Internal conflict is limited and kin-mediated; predation from other bands is possible but not endemic; overall threat environment is low.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at the speed of human movement and voice; seasonal aggregations accelerate diffusion; messengers or travelers carry news across band territories over weeks or months.<br><br>
-__Record, Storage & Persistence:__ No writing exists; all cultural knowledge persists through living memory, oral recitation, and material mnemonic objects; information survives only as long as it is actively transmitted between generations.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elders and ritual specialists control the framing of sacred and historical knowledge; taboos regulate speech about the dead or dangerous spirits; the permitted band is defined by tradition rather than formal censorship.<br><br>
-__Reception, Attention & Amplification:__ Audiences are small — band or aggregation scale; repetition, song, and narrative structure aid memorization; amplification depends on prestige of the speaker and relevance of the content.<br><br>
-__Signal Integrity & Noise Load:__ Information volume is low; oral transmission introduces drift but also correction through communal recitation; noise load is manageable within the narrow bandwidth of oral culture.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice is conceived in terms of reciprocity, kinship obligation, and balance; offenses against kin or community require restitution or vengeance to restore equilibrium.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law exists; binding norms are customary and transmitted orally; evolution is slow and conservative, shaped by precedent and elder interpretation.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are adjudicated by kin councils or respected mediators; enforcement relies on social pressure, compensation, or feud; liability attaches to kin groups as well as individuals.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kinship status; protections depend on kin backing; compliance burden is low given the informal, relational nature of norms.<br><br>
-__Impunity & Unredressed Wrong:__ Some wrongs go unredressed where kin support is lacking or parties relocate; impunity is limited by the small scale and transparency of band life; residue is modest.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Explanation is mythological and animistic; natural phenomena are attributed to spirits and ancestral forces; no formal inquiry distinct from ritual knowledge.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated practical knowledge of animal behavior, plant properties, lithic reduction, and ceramic production; techniques are transmitted by demonstration and oral instruction; method is empirical but unsystematized.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge is transmitted within households and through apprenticeship; all adults possess core subsistence skills; specialized knowledge (ritual, healing, craft) is held by fewer individuals.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge loss occurs when transmission chains break through premature death or group fragmentation; no archival medium preserves superseded techniques; decay is gradual but real.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestor spirits, and landscape myths anchor group identity; memory of past migrations and founding events shapes collective self-understanding.<br><br>
-__Artistic Expression & Material Culture:__ Pottery is decorated with incised and impressed patterns (Elshanka, Bug-Dniester, Kelteminar traditions); personal ornaments (shell, bone, tooth) mark identity and status; rock art is attested in some regions.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood is oriented toward subsistence security and kin solidarity; risk tolerance is moderate — diversified strategies hedge against failure; confidence is grounded in ecological competence.<br><br>
-__Form Exhaustion & Meaning Decay:__ Cultural forms are vital and actively transmitted; no evidence of form exhaustion or anomie; innovation (pottery, herding) is absorbed into existing symbolic frameworks.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ The cosmos is animated by spirits inhabiting animals, plants, waters, and celestial bodies; human life is embedded in a web of reciprocal relations with non-human powers; fatalism is tempered by the possibility of ritual efficacy.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Seasonal ceremonies mark transitions (solstice, first hunts, deaths); offerings and sacrifices maintain relations with spirits; shamanic or elder-led rituals address illness, misfortune, and community crises.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal religious institutions exist; ritual knowledge is held by elders or specialists whose authority is personal and achieved; doctrine is fluid and locally variable.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Interaction with farming communities to the south introduces new symbolic elements; syncretic blending occurs at contact zones; no wholesale displacement of indigenous cosmologies.<br><br>
-__Disenchantment & Sacred Discharge:__ The sacred remains pervasive and unquestioned; no disenchantment or existential void is evident; spiritual need is fully absorbed by the living cosmology.<br><br>
+# __8,000 BCE – 4,500 BCE__ — Mesolithic and Neolithic Foundations
+
+__Summary:__ The Eurasian Steppe during the Mesolithic and early Neolithic transitions from post-glacial foraging toward incipient herding, as populations adapt to stabilized Holocene grasslands while absorbing influences from the Neolithic centers to the southwest — a long trend governed by the constraint that all accumulated knowledge, technical repertoire, and social memory rides on breath and living recall: spoken or it does not exist, remembered or it is lost.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Pontic-Caspian steppe and Kazakh grasslands stretch as an open corridor from the Carpathian foothills to the Altai, broken only by the Ural ridge and the Caspian depression; major rivers — Dnieper, Don, Volga, Ural — cut north-south troughs that channel seasonal movement and concentrate water, fish, and game at their floodplains and deltas.
+
+__Climate Regime & Volatility:__ The Holocene Climatic Optimum brings warmer, wetter conditions than the preceding millennia; the forest-steppe boundary shifts northward and the grassland belt stabilizes near its modern extent, though interannual drought and severe winters remain routine hazards for any population dependent on animal mobility.
+
+__Hazard Regime & Exposure:__ The steppe interior faces few seismic or volcanic threats, but drought, harsh winters, and spring floods along the great rivers impose recurrent stress; populations buffer through mobility rather than stored reserves, accepting displacement as the primary shock-absorber.
+
+__Resource & Energy Endowment:__ Grassland biomass supports large ungulate herds — wild horse, aurochs, saiga — and riverine zones yield fish, waterfowl, and riparian timber; copper outcrops in the Urals and Caucasus foothills become accessible as metallurgical knowledge diffuses from the south, though exploitation remains minimal in this window.
+
+__Waste Absorption & Sink Capacity:__ Dispersed mobile camps leave scant waste; organic refuse decays rapidly in the continental climate, and population density remains too low to saturate any local sink — the landscape absorbs all discard without feedback.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic zoonoses circulate among rodent populations (plague reservoirs persist), but low human density limits epidemic transmission; mortality is dominated by trauma, exposure, and periodic famine rather than infectious disease.
+
+__Nutrition & Physiological Vitality:__ A mixed diet of hunted game, fish, gathered plants, and — toward the window's end — domesticated cattle and sheep yields adequate protein and caloric intake; skeletal evidence suggests robust stature with moderate dental wear from gritty wild foods.
+
+__Care, Healing & Recovery Capacity:__ Healing relies on kin-based wound-tending and plant remedies transmitted orally through lineage specialists; no institutionalized medicine exists, and serious injury or illness often proves fatal in the absence of prolonged convalescent support.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding patterns remain poorly attested but likely follow small-group exogamy to maintain alliance networks across scattered bands; fertility is constrained by prolonged lactation and seasonal food stress.
+
+__Demographic Renewal & Density:__ Population grows slowly from the post-glacial low; density remains below one person per ten square kilometers across the steppe interior, concentrated along river corridors where resources cluster.
+
+__Attrition & Dependency Overhang:__ High infant mortality and short adult lifespan (~35–40 years) limit the dependent elderly cohort; the productive core of each band absorbs orphans and widows through kin pooling rather than formal support structures.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Foraging bands rely on seasonal hunting of horse, aurochs, and saiga, supplemented by fishing and plant gathering; by the window's end, small cattle and sheep herds appear at forest-steppe margins, lifting the provisioning floor above pure hunting returns.
+
+__Energy Capture & Conversion:__ Human muscle remains the sole prime mover; fire enables cooking, warmth, and landscape burning to drive game, but no animal traction or waterpower is yet harnessed.
+
+__Labor Organization & Coercion:__ Labor is organized by kinship and gender within small bands; no coerced labor exists, and task allocation follows oral negotiation and custom rather than command.
+
+__Production & Surplus Capacity:__ Surplus generation is minimal; a successful hunt yields temporary abundance shared immediately through reciprocal distribution, with no significant accumulation across seasons.
+
+__Storage, Reserves & Buffering:__ Storage is limited to dried meat, smoked fish, and cached plant foods; no granaries or treasuries exist, and buffering against shortage depends on mobility and reciprocal access to neighboring bands' territories.
+
+__Exchange, Trade & Logistics:__ Exchange occurs through gift and reciprocity among allied bands; shell ornaments from the Black Sea and obsidian from the Caucasus circulate over hundreds of kilometers, carried by foot along river corridors.
+
+__Value Storage, Credit & Deferred Exchange:__ Value is stored in durable ornaments, prestige goods, and remembered obligations; no monetary medium exists, and deferred exchange is tracked through oral memory of debt and gift.
+
+__Surplus Extraction & Redistribution:__ No formal extraction exists; communal sharing of large kills distributes surplus in the moment rather than concentrating it for later reallocation.
+
+__Wealth Distribution & Asset Defense:__ Wealth differentiation remains slight; prestige attaches to skilled hunters and lineage heads, but material accumulation is limited by mobility constraints and the absence of defensible storage.
+
+__Byproducts & Waste Routing:__ Organic waste decays at camp sites and imposes no burden; bone, antler, and hide are processed into tools and clothing, routing potential discard back into the productive cycle.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship traced bilaterally or patrilineally forms the primary social scaffold; inheritance is oral — rights to hunting territory, ritual knowledge, and alliance obligations pass through recitation and witnessed declaration.
+
+__Association & Mutual Aid:__ Bands of 20–50 individuals cooperate in hunting and defense; mutual aid extends through kin and marriage alliance, with neighboring bands sharing access to territory during seasonal stress.
+
+__Leisure, Play & Sociability:__ Seasonal aggregations at resource-rich sites enable storytelling, courtship, and ritual; leisure is woven into daily life rather than segregated, with song, dance, and oral contest marking festive gatherings.
+
+__Stratification, Status & Group Structure:__ Stratification is minimal; status accrues to skilled hunters, healers, and elders who hold oral knowledge, but no hereditary elite or formal rank structure exists.
+
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus exists; coordination runs through face-to-face oral consensus among band leaders, with no bureaucracy, record-keeping, or standing offices.
+
+__Coercive Apparatus & Means of Force:__ Coercive capacity is distributed among adult males; hunting weapons (spear, bow, flint knife) double as arms, and collective violence operates through ad hoc coalition rather than standing military organization.
+
+__Discharge, Disorder & Decay:__ Friction is discharged through mobility — fissioning bands when conflict arises — and through mediation by respected elders; violence remains episodic, and no accumulated disorder outlasts the immediate dispute.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Trust extends within kin networks and familiar allied bands; suspicion attaches to strangers, though seasonal gatherings ritualize the integration of outsiders through gift exchange and marriage.
+
+__Leadership & Personal Authority:__ Leadership is situational and reputational; skilled hunters or eloquent speakers command followings for specific undertakings, but no permanent chiefs hold authority beyond their personal charisma.
+
+__Legitimacy as Lived Allegiance:__ Allegiance adheres to kin and band rather than to abstract office; legitimacy is earned through demonstrated competence and generosity, renewed in each generation through oral affirmation.
+
+__Political Will & Collective Resolve:__ Collective action depends on consensus reached in council; the will to act coalesces around immediate threats or opportunities and dissipates once the occasion passes.
+
+__External Relations & Posture:__ Relations with neighboring bands oscillate between alliance and rivalry; raiding for women or revenge occurs but is constrained by the mutual vulnerability of small groups and the need for future cooperation.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection finds outlet in fissioning — discontented individuals or factions depart to join other bands — preventing the accumulation of suppressed grievance within any single group.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is the sole medium of communication; mutually intelligible dialects span regional band clusters, while more distant groups require intermediaries or prolonged contact to achieve understanding.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of human movement on foot; news spreads through visiting kin, seasonal aggregations, and chance encounter, reaching distant bands over weeks or months.
+
+__Record, Storage & Persistence:__ No durable external record exists; all knowledge — genealogy, territory, technique, myth — persists only in living memory and is transmitted orally from elder to youth in each generation.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms are enforced through social sanction; taboo subjects (certain kin names, sacred narratives outside ritual context) are policed by elder authority and collective disapproval.
+
+__Reception, Attention & Amplification:__ Attention clusters around skilled storytellers and singers; repetition in ritual and seasonal recitation amplifies key narratives, while less-repeated material fades with its last speaker.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift and loss over generations; without external record, verification is impossible, and the knowledge stock contracts to what active memory can hold.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice centers on reciprocity and kin obligation; sharing of food and aid is a binding duty, and hoarding or betrayal invites collective sanction and exclusion.
+
+__Law, Codification & Regulatory Evolution:__ No codified law exists; customary norms are transmitted orally and enforced through consensus, with no distinction between moral expectation and legal rule.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by elder councils or resolved through mediation; sanctions range from ridicule and ostracism to blood feud, with no formal judicial apparatus.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy is high within the bounds of kin obligation; compliance burden is light, as norms are internalized through upbringing rather than enforced by external authority.
+
+__Impunity & Unredressed Wrong:__ Wrongs committed by powerful individuals may go unredressed if kin networks lack the leverage to enforce sanction; the gap between justice owed and delivered depends on the balance of alliances.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Explanation runs through animist frameworks: natural phenomena are understood as the actions of spirits, and inquiry focuses on reading signs and omens rather than causal mechanism.
+
+__Applied Knowledge & Technical Method:__ Technical repertoire includes flint knapping, hide processing, cordage, trapping, and — toward the window's end — the rudiments of animal husbandry absorbed from southern contacts; all technique is transmitted orally through demonstration and practice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education occurs within kin groups through apprenticeship; the knowledge stock is distributed unevenly, with specialists holding healing, tracking, or ritual knowledge that is not universally shared.
+
+__Obsolescence & Knowledge Decay:__ Knowledge lost when its holder dies without transmission is irrecoverable; the absence of external record means that each generation's stock depends entirely on successful oral handoff, and gaps accumulate silently.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity is anchored in kinship, totemic affiliation, and the remembered landscape — sacred sites, ancestor burial places, and the narratives that explain them bind the band to its territory.
+
+__Legitimating Narrative & Ideology:__ No formal ideology legitimates hierarchy, because hierarchy is minimal; the legitimating narrative is one of shared descent and mutual obligation among kin.
+
+__Artistic Expression & Material Culture:__ Material culture includes decorated bone and antler tools, personal ornaments of shell and tooth, and ochre pigments used in body painting and perhaps perishable art; geometric motifs and animal representations carry symbolic weight transmitted orally.
+
+__Form Exhaustion & Meaning Decay:__ Symbolic forms are renewed through ritual repetition and the creativity of individual artisans; exhaustion occurs when a lineage dies out and its distinctive motifs are forgotten, leaving gaps in the expressive repertoire.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ An animist cosmology pervades: the world is populated by spirits inhabiting animals, plants, rivers, and sky; human fate is intertwined with these powers, propitiated through offering and observance.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual marks seasonal transitions, successful hunts, birth, death, and initiation; shamanic specialists mediate between human and spirit worlds through trance, song, and oral invocation.
+
+__Religious Institutions & Doctrinal Authority:__ No formal religious institutions exist; shamans and elders hold authority over sacred knowledge, but that authority is personal and dies with its holder unless transmitted to a successor.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual ideas diffuse through contact at seasonal gatherings and marriage exchange; no sharp displacement occurs in this window, but southern Neolithic influences begin to blend with indigenous animism along the forest-steppe fringe.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident; the animist frame retains its grip, and the sacred remains embedded in daily practice rather than separated into a distinct sphere vulnerable to erosion.
+

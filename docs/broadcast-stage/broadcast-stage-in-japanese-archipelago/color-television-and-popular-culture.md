@@ -1,69 +1,139 @@
-# __1964 CE – 1975 CE__ — Color Television and Popular Culture
-__Summary:__ Color television transitions from prestige technology to household standard as Japan completes its high-growth industrial expansion; the binding constraint is the household adoption curve racing to saturation, with commercial networks competing intensively for audience share through entertainment programming; margin against economic shock narrows abruptly with the 1973 oil crisis; direction is toward entertainment saturation and the crystallization of a television-centered popular culture industry, with anime emerging as a distinctive form.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ National broadcast coverage now complete through relay transmitter networks spanning the mountainous archipelago; spatial friction for broadcast signals effectively eliminated; urbanization concentrating population in Pacific coastal corridor reduces distribution costs for consumer goods.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon climate stable within normal variability; seasonal patterns incorporated into programming schedules; no secular drift affecting broadcast infrastructure or viewing patterns.<br><br>
-__Hazard Regime & Exposure:__ Seismic and typhoon hazards constant; infrastructure resilience adequate; no catastrophic broadcast disruption during window; margin against disaster maintained through engineering standards.<br><br>
-__Resource & Energy Endowment:__ Oil import dependence deepening as economy grows; domestic coal declining; vulnerability exposed by 1973 oil shock; endowment increasingly external and supply-chain dependent.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution reaching crisis levels; Minamata and other contamination scandals forcing regulatory response; air and water quality degraded in industrial zones; absorptive capacity consumed faster than cleaned; environmental movement emerging.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden continuing to decline; life expectancy rising to world-leading levels; mortality baseline approaching developed-nation minimum; infectious disease increasingly controlled through public health infrastructure.<br><br>
-__Nutrition & Physiological Vitality:__ Dietary diversification continuing with meat, dairy, and processed food consumption rising; average stature increasing; obesity not yet significant; physiological vitality improving across cohorts.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility continuing decline toward replacement level; contraception widely available; age at marriage stable; nuclear family norm consolidated in urban areas.<br><br>
-__Demographic Renewal & Density:__ Population growth slowing but still positive; baby boom cohorts now in prime productive years; urban density high in major metropolitan areas; rural depopulation accelerating.<br><br>
-__Attrition & Dependency Overhang:__ Child dependency declining with fertility; aged dependency beginning to rise but still manageable; dependency ratio favorable; productive cohort large relative to dependent population.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic subsistence secure for essentially all; consumer durables including color television becoming standard; the floor now well above survival into consumer affluence.<br><br>
-__Energy Capture & Conversion:__ Oil-dependent industrial economy operating at high efficiency until 1973 shock; nuclear power program beginning; per-capita energy consumption high and rising until crisis forces conservation.<br><br>
-__Labor Organization & Coercion:__ Enterprise unionism and lifetime employment consolidated in large firms; labor market tight through early 1970s; wage growth strong; coercion absent as workers benefit from growth.<br><br>
-__Production & Surplus Capacity:__ Manufacturing output continuing expansion; electronics and automobiles achieving export dominance; television production mature with domestic market approaching saturation; surplus capacity substantial until oil shock contracts demand.<br><br>
-__Storage, Reserves & Buffering:__ Corporate and household savings high; foreign exchange reserves substantial; strategic petroleum reserves minimal, exposed by 1973 crisis; buffer against oil shock insufficient, forcing rapid adjustment.<br><br>
-__Exchange, Trade & Logistics:__ Export-oriented economy generating trade surpluses; yen undervalued until Nixon shock 1971; distribution networks mature; advertising market supporting commercial television at peak intensity.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Yen floating after 1971; bank credit still dominant; consumer credit expanding; inflation spiking with oil shock then controlled; value storage disrupted temporarily by price instability.<br><br>
-__Surplus Extraction & Redistribution:__ Tax revenues strong through growth phase; public investment in infrastructure continuing; redistribution through expanding social insurance; NHK license fee collection comprehensive.<br><br>
-__Wealth Distribution & Asset Defense:__ Middle-class expansion continuing; land values rising creating homeowner wealth; corporate equity concentrated in cross-shareholding networks; asset defense through property and savings.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste regulation strengthening after pollution crises; consumer waste volumes rising; electronic waste beginning to accumulate; routing shifting toward treatment and controlled disposal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust high within established networks; company and neighborhood as mutual aid frameworks; radius of trust stable; trust-based transactions predominating over contract.<br><br>
-__Stratification, Status & Group Identity:__ Middle-class identity near-universal in self-perception; education credentials determining life chances; regional identities weakening; shared mass culture creating common reference points across strata.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family dominant in urban areas; three-generation households declining; inheritance dispersing among children; kin networks maintained through obligation but attenuated by distance.<br><br>
-__Civic Association & Self-Organization:__ Associational fabric stable; PTAs, neighborhood associations, and company groups active; citizen movements emerging around environmental and consumer issues; self-organization capacity demonstrated.<br><br>
-__Leisure, Play & Sociability:__ Television viewing central to household leisure; prime-time programming structuring evening routines; variety shows and drama creating shared cultural reference; karaoke and pachinko as complementary leisure forms.<br><br>
-__Grievance Channels & Social Discharge:__ Environmental protests and consumer movements providing new grievance channels; labor disputes declining as wages rise; student radicalism peaking and subsiding; friction largely absorbed by prosperity and channeled institutionally.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ LDP dominance continuing through factional rotation; bureaucracy retaining substantial policy authority; local government subordinate to center; power concentrated but internally contested.<br><br>
-__Succession & Power Transfer:__ Prime ministerial succession through LDP faction negotiation; electoral legitimacy maintained; transfer opaque but routinized; no constitutional crisis.<br><br>
-__Legitimacy & Political Narrative:__ Growth delivery sustaining legitimacy; environmental crises testing but not breaking credibility; Okinawa reversion 1972 resolving territorial grievance; Cold War alignment stable.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Broadcasting regulation competent; industrial policy coordinating economic adjustment; institutional integrity maintained; corruption bounded within acceptable limits by standards of the era.<br><br>
-__Political Participation & Mobilization:__ Electoral participation routine; opposition parties present but unable to achieve power; citizen movements demonstrating mobilization capacity; channels open within constrained outcomes.<br><br>
-__Geopolitical Position & External Relations:__ US alliance continuing as security foundation; China normalized 1972; Korea relations improving; oil crisis exposing vulnerability to Middle East instability; resource diplomacy emerging.<br><br>
-__Coercive Apparatus & Means of Force:__ Self-Defense Forces expanding within constitutional constraints; police adequate; American bases reduced after Okinawa reversion but alliance maintained; force held under civilian control.<br><br>
-__Internal Order & Threat Environment:__ Crime rates low; radical left violence isolated; Red Army terrorism addressed through police action; internal order maintained with substantial margin.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Color television achieving near-universal household penetration; national networks providing simultaneous reach; transmission velocity essentially instantaneous for broadcast content; telephone penetration high.<br><br>
-__Record, Storage & Persistence:__ Videotape archiving standard at networks; program libraries accumulating; newspaper archives comprehensive; institutional memory robust; cultural production preserved systematically.<br><br>
-__Framing, Censorship & Discourse Norms:__ Self-censorship on sensitive topics continuing; commercial pressures favoring entertainment; news coverage of Vietnam and domestic issues expanding discourse range; balance requirements maintained.<br><br>
-__Reception, Attention & Amplification:__ Television viewing hours high; prime-time programs reaching mass audiences; ratings competition intense; attention concentrated on broadcast schedule; hit programs achieving cultural saturation.<br><br>
-__Signal Integrity & Noise Load:__ Professional journalism maintaining standards; information quality stable within constrained scope; advertising claims unregulated but not yet problematic; signal-to-noise ratio favorable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Democratic values consolidated; environmental justice emerging as new moral concern; procedural fairness expected; sense of justice expanding to include consumer and environmental protection.<br><br>
-__Law, Codification & Regulatory Evolution:__ Environmental protection laws enacted 1967-1970; broadcasting regulation stable; consumer protection advancing; regulatory evolution responding to new issue areas.<br><br>
-__Adjudication, Enforcement & Liability:__ Environmental litigation achieving landmark pollution judgments; broadcasting disputes administratively managed; liability framework expanding to address industrial externalities; court throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional protections stable; environmental and consumer rights gaining recognition; compliance burden on broadcasters moderate; content regulation light-touch.<br><br>
-__Impunity & Unredressed Wrong:__ Pollution victims achieving judicial redress after prolonged struggle; corporate accountability expanding; war responsibility still largely unaddressed; impunity narrowing in environmental sphere.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Electronics research advancing color television and integrated circuits; environmental science developing; social science examining mass media effects; paradigms combining imported theory with domestic application.<br><br>
-__Applied Knowledge & Technical Method:__ Color television manufacturing mastered; production engineering achieving global competitiveness; animation production techniques refined; applied methods diffusing through industry networks.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ University enrollment expanding; technical education producing engineers for electronics industry; literacy universal; knowledge stock growing; skill distribution broadening through credentialed workforce.<br><br>
-__Obsolescence & Knowledge Decay:__ Black-and-white technology obsolescent; vacuum tube expertise retiring; knowledge turnover managed through corporate training; decay rate absorbed by expanding knowledge frontier.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Economic success providing national pride; war memory contested but subordinated to forward orientation; traditional identity persisting beneath modernity; collective identity increasingly defined through consumer culture and technological achievement.<br><br>
-__Artistic Expression & Material Culture:__ Television genres maturing; variety shows, drama series, and anime achieving distinctive forms; Astro Boy and successors establishing animation as cultural export; popular music integrated into television entertainment system.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence high through early 1970s; oil shock inducing anxiety and adjustment; work ethic sustained; consumer optimism moderating; mood shifting from expansion to consolidation.<br><br>
-__Form Exhaustion & Meaning Decay:__ Early postwar cultural forms maturing into conventions; some variety formats routinized; anime generating new expressive possibilities; meaning production still generative; exhaustion not yet significant.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular pragmatism dominant; material progress as implicit meaning framework; traditional cosmologies maintained as cultural heritage; existential questions deferred in favor of practical achievement; outlook this-worldly.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Life-cycle rituals continuing through temple and shrine; annual festivals observed; workplace rituals and company culture providing quasi-sacred community; devotion routinized and non-fervent.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Established religious institutions stable on private support; new religious movements continuing to attract members; doctrinal authority diffuse; no institutional crisis or consolidation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Traditional Buddhist-Shinto syncretism undisturbed; new religions spreading selectively; Western spiritualities marginally present; no significant displacement or conversion wave.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization continuing in practice; transcendence not actively sought; spiritual need channeled into work, family, consumption, and national achievement; oil shock briefly exposing vulnerability of material meaning framework; disenchantment latent but not acute.<br><br>
+# __1964 CE – 1975 CE — Color Television and Popular Culture__
+
+__Summary:__ Japanese broadcasting matures from monochrome to color transmission while programming develops distinctively national forms that define popular culture for a generation; the binding constraint is the economic-informational feedback whereby consumer electronics manufacturers promote color adoption to drive sales, creating audiences for programming genres that in turn reinforce television's centrality to domestic life, a cycle interrupted but not reversed by the 1973 oil shock that ends high-growth and forces adaptation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The relay station network achieves comprehensive coverage; even remote islands and mountain villages receive signals; the archipelago functions as a unified broadcast territory with regional stations feeding into national networks and vice versa.
+
+__Climate Regime & Volatility:__ Climate remains within historical parameters; seasonal programming rhythms develop around summer festivals, New Year, and cherry blossom viewing; no major climate disruptions affect broadcast infrastructure.
+
+__Hazard Regime & Exposure:__ Typhoons and earthquakes remain constant hazards; broadcast media demonstrate value for disaster warning and coverage; no single disaster dominates the period though the 1968 Tokachi-oki earthquake killing over fifty tests regional response capacity.
+
+__Resource & Energy Endowment:__ Petroleum imports supply the energy base; the 1973 oil shock quadruples prices and forces conservation; nuclear power expansion accelerates post-shock; the energy constraint suddenly binds after a decade of abundance.
+
+__Waste Absorption & Sink Capacity:__ Pollution peaks and public protest mounts; Minamata and other pollution cases receive belated television coverage; the 1970 Diet passes pollution control legislation; industrial waste routing improves but accumulated damage persists; air quality in major cities remains poor.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Infectious disease mortality continues declining; chronic diseases and accidents become leading causes of death; life expectancy reaches seventy-five years by period's end, among the world's highest.
+
+__Nutrition & Physiological Vitality:__ Dietary westernization proceeds with increased meat and dairy consumption; average height continues increasing; obesity emerges as a concern; the nutritional transition is essentially complete.
+
+__Care, Healing & Recovery Capacity:__ Universal health insurance coverage consolidates; hospital and clinic capacity expands; pharmaceutical production grows; the healthcare system achieves developed-world standards though long-term care for the aging remains underdeveloped.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility declines to replacement level and below; the total fertility rate drops from over two to approximately 1.9; marriage remains near-universal but delays slightly; family planning is widespread.
+
+__Demographic Renewal & Density:__ Population grows to one hundred twelve million by 1975; the baby boom cohort enters peak productive years; urbanization continues with Tokyo exceeding eleven million; rural depopulation accelerates.
+
+__Attrition & Dependency Overhang:__ The elderly dependency ratio begins rising as the population that survived the war ages; long-term care needs emerge as a policy concern; the demographic dividend of favorable age structure begins diminishing.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Food security is absolute; the concern shifts to food quality, convenience, and variety; rice consumption declines as diet diversifies; subsistence is no longer a meaningful category for the vast majority.
+
+__Energy Capture & Conversion:__ Energy consumption continues growing until the 1973 shock; post-shock conservation reduces energy intensity of production; nuclear power plants come online; the energy mix shifts toward reduced oil dependence.
+
+__Labor Organization & Coercion:__ Enterprise unionism consolidates; the spring wage offensive (shunto) becomes ritualized; part-time female labor increases; the dual economy between large and small firms persists; labor relations remain stable despite economic disruption.
+
+__Production & Surplus Capacity:__ High growth continues until 1973 averaging nine percent annually; post-shock growth falls to three to four percent; industrial restructuring begins; consumer electronics and automobiles lead exports; excess capacity emerges in heavy industry.
+
+__Storage, Reserves & Buffering:__ Household savings rates remain high at over twenty percent; corporate retained earnings fund investment; government debt begins accumulating for stimulus after the oil shock; foreign exchange reserves grow with trade surpluses.
+
+__Exchange, Trade & Logistics:__ Exports boom; trade surplus with the United States creates friction; the yen revalues under Nixon shock pressure in 1971; containerization transforms logistics; Japan becomes the world's second-largest economy by GNP.
+
+__Value Storage, Credit & Deferred Exchange:__ The yen floats from 1973; inflation spikes during the oil shock; consumer credit expands for durables; the banking system remains stable despite economic disruption.
+
+__Surplus Extraction & Redistribution:__ Tax revenues grow though more slowly post-shock; fiscal stimulus responds to recession; social security expansion begins; defense spending remains limited.
+
+__Wealth Distribution & Asset Defense:__ Income distribution remains relatively equal; land prices begin rising in urban areas creating wealth disparities; the "middle-class" self-identification remains dominant.
+
+__Byproducts & Waste Routing:__ Pollution regulation tightens; industrial waste treatment improves; automobile exhaust standards lead the world; the pollution crisis forces internalization of previously externalized costs; financial mispricing from the high-growth era works through the system.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The nuclear family consolidates as standard; the television set occupies the domestic center; generational separation of households continues; inheritance patterns favor family businesses and land.
+
+__Association & Mutual Aid:__ Company identification intensifies; the enterprise community provides welfare, identity, and social life; neighborhood associations weaken further; alumni networks from elite universities structure elite recruitment.
+
+__Leisure, Play & Sociability:__ Television structures leisure time; professional baseball, sumo, and golf dominate sports viewing; domestic travel increases; pachinko and mah-jong remain popular; the work-centered lifestyle limits leisure for salaryman males.
+
+__Stratification, Status & Group Structure:__ Educational credentialism intensifies; entrance examination competition creates "examination hell"; corporate rank determines social standing; the Korean minority and burakumin face continued discrimination despite formal equality.
+
+__Administrative Capacity & Institutional Integrity:__ The bureaucracy maintains competence; MITI guides industrial policy through the oil shock; corruption persists within manageable bounds; the LDP-bureaucracy-business triangle remains stable.
+
+__Coercive Apparatus & Means of Force:__ The Self-Defense Forces expand quietly; the US alliance remains foundational; police handle domestic order adequately; the 1970 Mishima incident and 1972 Asama-Sanso siege are isolated dramatic events rather than systemic threats.
+
+__Discharge, Disorder & Decay:__ The late 1960s student movement peaks with 1968-69 campus occupations; the 1970 Anpo renewal passes without the 1960 crisis; radical factions turn to terrorism culminating in the 1972 Asama-Sanso siege broadcast live to record audiences; Red Army factions fade through the 1970s; social disorder is contained and absorbed.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence peaks before the oil shock; post-shock anxiety about energy security and economic future spreads; the "oil shock" becomes a cultural reference point; adaptation and resilience prove stronger than panic.
+
+__Leadership & Personal Authority:__ Prime ministers rotate within the LDP faction system; Tanaka Kakuei's populist style and money politics dominate the early 1970s until his 1974 resignation over corruption; technocratic competence rather than charisma characterizes leadership.
+
+__Legitimacy as Lived Allegiance:__ Economic performance continues legitimating the system; the oil shock tests but does not break allegiance; opposition parties gain support temporarily but cannot challenge LDP dominance; the emperor system remains symbolic and accepted.
+
+__Political Will & Collective Resolve:__ The oil shock mobilizes conservation and industrial restructuring; the government demonstrates capacity for coordinated response; public willingness to accept inconvenience and price increases proves higher than anticipated.
+
+__External Relations & Posture:__ The Nixon shocks (China, currency) strain the US alliance; Japan pursues resource diplomacy in the Middle East; normalized relations with China achieved in 1972; Southeast Asian economic relations expand; the posture shifts toward more autonomous diplomacy within the alliance framework.
+
+__Disaffection, Apathy & Spent Will:__ Radical student energy exhausts itself through the early 1970s; the counterculture fades; post-oil-shock conservatism and practicality replace idealism; political apathy increases among youth; the 1960s movements leave some lasting social criticism but limited institutional change.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Standard Japanese is universal through broadcast; English loan words proliferate; NHK language standards remain authoritative; regional accents persist in private speech but diminish in public discourse.
+
+__Channels & Transmission Velocity:__ Color television adoption accelerates from under one percent in 1964 to over ninety percent of households by 1975; NHK and five commercial networks achieve comprehensive national coverage; the 1972 Asama-Sanso siege achieves ninety percent viewership demonstrating broadcast capacity to command national attention.
+
+__Record, Storage & Persistence:__ Videotape enables time-shifting for broadcasters and eventually consumers; home video recorders appear late in the period; print media retain archival function; the kisha club system continues structuring information access.
+
+__Framing, Censorship & Discourse Norms:__ Self-censorship operates regarding the imperial family and certain corporate interests; the Broadcast Law's fairness requirement shapes political coverage; pollution and corruption receive increased coverage as taboos weaken; entertainment dominates commercial programming.
+
+__Reception, Attention & Amplification:__ Color television becomes the household center; viewing habits structure daily routines; the 7 PM and 9 PM NHK news become appointment viewing; variety shows and dramas command mass audiences; attention remains concentrated in a limited-channel environment.
+
+__Signal Integrity & Noise Load:__ Production values are high; live broadcast of major events demonstrates technical capacity; the information environment remains high-signal compared to later fragmented media; rumor and misinformation exist but lack amplification mechanisms.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Postwar democratic values consolidate; pollution scandals challenge corporate impunity; consumer protection gains moral force; pacifist sentiment remains strong regarding military involvement abroad.
+
+__Law, Codification & Regulatory Evolution:__ Pollution control legislation (1970) marks regulatory expansion; consumer protection laws develop; the Broadcast Law remains stable; NHK's status as public broadcaster operating under Diet budget oversight continues.
+
+__Adjudication, Liability & Sanction:__ Pollution lawsuits succeed in holding corporations liable; the Minamata case establishes precedents; broadcast content disputes remain rare; regulatory oversight occurs through licensing and informal guidance.
+
+__Rights, Protections & Compliance Burden:__ Press freedom operates within self-censorship norms; NHK license fee compliance remains high though some resistance emerges; individual privacy concerns begin surfacing; corporate regulation increases through the period.
+
+__Impunity & Unredressed Wrong:__ Pollution victims gain recognition and compensation after prolonged struggle; wartime responsibility remains largely unaddressed; Tanaka's corruption leads to resignation but not immediate prosecution; the gap between formal accountability and actual impunity narrows slightly.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Japanese science achieves international standing; Nobel prizes remain rare but research capacity develops; industrial research and development expenditure increases; the paradigm emphasizes applied improvement over basic discovery.
+
+__Applied Knowledge & Technical Method:__ Color television technology is mastered and improved; integrated circuit production advances; quality control methods spread; the kaizen continuous improvement philosophy develops; Japanese consumer electronics achieve global competitive advantage.
+
+__Education, Knowledge Stock & Skill Distribution:__ University enrollment expands toward mass higher education; the examination system intensifies; juku (cram school) attendance spreads; technical skills diffuse through enterprise training; female education approaches male levels though career tracks diverge.
+
+__Obsolescence & Knowledge Decay:__ Black-and-white technology becomes obsolete; vacuum tube production declines; traditional crafts continue eroding; scientific knowledge accumulates without major paradigm shifts.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ War memory recedes as postwar generations mature; the 1964 Olympics and 1970 Osaka Expo mark international acceptance; "Japan as Number One" sentiment emerges; national identity shifts toward economic achievement and cultural distinctiveness.
+
+__Legitimating Narrative & Ideology:__ Economic growth and technological progress provide legitimation; the narrative emphasizes Japanese uniqueness (Nihonjinron) and adaptation capacity; harmony and group orientation are celebrated as distinctive virtues; the narrative accommodates the oil shock as demonstrating resilience.
+
+__Artistic Expression & Material Culture:__ Television programming develops distinctively Japanese forms: the historical taiga drama, the morning serial (asadora), music programs culminating in the annual Kohaku Uta Gassen, variety shows built around tarento personalities, and professional wrestling; anime emerges as a television form with Astro Boy and successors; fashion modernizes with Western influence; material culture emphasizes new consumer durables including color televisions, cars, and "3C" goods (car, color TV, cooler/air conditioning).
+
+__Form Exhaustion & Meaning Decay:__ The high-growth optimism fades with the oil shock; student movement idealism exhausts itself; mass consumer culture fills meaning space but creates questions about materialism; traditional forms survive as television content (historical drama, festival coverage) rather than living practice.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secularization continues; this-worldly materialism dominates; existential questions are deferred rather than answered; the oil shock prompts some questioning of growth-centered values but no fundamental cosmological shift.
+
+__Ritual, Devotion & Sacred Practice:__ Life-cycle rituals persist (Shinto birth blessing, Christian-style weddings, Buddhist funerals); New Year shrine visits remain near-universal; active religious devotion continues declining; television coverage of festivals transforms them into spectacles rather than participatory rituals.
+
+__Religious Institutions & Doctrinal Authority:__ Soka Gakkai expands its political wing Komeito; new religions continue recruiting; traditional Buddhist sects maintain institutional presence but declining active membership; doctrinal authority remains weak; no religious institution commands broad public loyalty.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The eclectic Japanese pattern continues: Shinto for life celebrations, Buddhism for death, Christmas as commercial holiday; religious boundaries remain fluid; consumer culture and corporate identity partially substitute for religious community.
+
+__Disenchantment & Sacred Discharge:__ The sacred is domesticated and commercialized; television transforms religious festivals into entertainment; meaning is sought in family, work, and consumption rather than transcendence; the disenchantment is managed rather than experienced as crisis, but questions about meaning-beyond-material-success begin surfacing as high-growth ends and the limits of affluence become visible.

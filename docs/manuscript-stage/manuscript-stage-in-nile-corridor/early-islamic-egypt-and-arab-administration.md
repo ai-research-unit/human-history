@@ -1,69 +1,139 @@
-# __641 CE – 868 CE__ — Early Islamic Egypt and Arab Administration
-__Summary:__ The Arab conquest replaces Byzantine rule with Umayyad and then Abbasid caliphal administration, establishing Fustat as the new capital and Arabic as the administrative language while Coptic Christianity persists as the majority religion through most of the period; the binding constraint is the extraction of tribute and taxation from a predominantly non-Muslim population to fund caliphal ambitions, creating fiscal pressure that drives gradual conversion and Arabization; the system holds moderate resilience through continuity of irrigation, Coptic administrative expertise, and stable grain production, until provincial autonomy weakens under late Abbasid fragmentation; the direction is toward Arabic linguistic dominance, slow demographic Islamization, and the displacement of Greek and Coptic from official records.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor remains the settlement axis from Aswan to the Mediterranean; Fustat (future Cairo) replaces Alexandria as the administrative center, positioned at the delta apex for control of Upper and Lower Egypt; Red Sea routes continue linking to Arabia and Indian Ocean trade.<br><br>
-__Climate Regime & Volatility:__ The summer flood regime persists unchanged; occasional low floods cause localized stress but no secular climate shift registers; irrigation infrastructure inherited from Byzantine period remains functional.<br><br>
-__Hazard Regime & Exposure:__ Periodic low Niles, localized earthquakes, and residual plague recurrence constitute the hazard regime; no catastrophic event on the scale of the Justinianic Plague occurs within this window.<br><br>
-__Resource & Energy Endowment:__ Silt-renewed agricultural land, papyrus marshes, stone quarries, and limited gold from Nubian trade remain available; timber scarce and imported; no depletion crisis; resource base supports extraction demands.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and urban waste absorbed by traditional methods; Fustat develops as a substantial urban center with associated waste loads; no evidence of sink saturation at pre-industrial scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria, waterborne disease, and childhood mortality persist; plague recurrences decline from sixth-century peaks; population stabilizes and begins slow recovery after Byzantine-era losses.<br><br>
-__Nutrition & Physiological Vitality:__ Grain-based diet with fish, vegetables, and legumes sustains the population; no evidence of widespread famine within the window; nutritional adequacy supports demographic recovery.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Islamic marriage norms permit polygyny (up to four wives) for Muslim converts; Coptic Christian monogamy persists; both communities maintain high fertility; intermarriage between communities limited but not absent.<br><br>
-__Demographic Renewal & Density:__ Population recovers from sixth-century plague losses; Arab settlers constitute a small ruling minority concentrated in garrison cities (Fustat, Alexandria); Copts remain demographic majority through most of the window; gradual conversion shifts proportions by 868 CE.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and the infirm absorbed by extended family structures and religious charity (Islamic zakat, Christian alms); dependency loads remain within institutional capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant households cultivate wheat, barley, flax, and vegetables using Nile irrigation; baseline food security maintained; taxation pressure (jizya on non-Muslims, kharaj on land) keeps many peasants near subsistence margins but not below.<br><br>
-__Energy Capture & Conversion:__ Human and animal labor power agriculture and transport; water-lifting technology (shaduf, saqiya) unchanged from Byzantine period; no significant change in conversion efficiency.<br><br>
-__Labor Organization & Coercion:__ Peasant labor continues under similar conditions to late Byzantine colonate; corvee for canal maintenance persists; slave labor present but not dominant; Arab elite does not engage in agricultural labor directly.<br><br>
-__Production & Surplus Capacity:__ Egypt remains a major grain producer; linen (especially fine Egyptian linen), papyrus, and glass continue as exports; surplus sufficient to meet caliphal tribute demands while sustaining local population.<br><br>
-__Storage, Reserves & Buffering:__ State granaries store tax grain for shipment and emergency; mosque and church institutions hold reserves; buffer adequate in normal years.<br><br>
-__Exchange, Trade & Logistics:__ Nile transport dominates internal movement; Fustat becomes the commercial hub; Mediterranean trade continues through Alexandria; Red Sea routes link to Arabia, Persia, and beyond; coinage (dinar, dirham) circulates alongside in-kind payments.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold dinar and silver dirham provide stable currency; commercial credit documented in papyri; Islamic prohibition on riba (interest) shapes credit practices among Muslims; Coptic and Jewish communities continue traditional lending.<br><br>
-__Surplus Extraction & Redistribution:__ Jizya (poll tax on non-Muslims) and kharaj (land tax) extract substantial surplus for caliphal treasury; zakat redistributes among Muslims; tribute shipments to Damascus then Baghdad fund imperial expansion; local retention supports administration and military.<br><br>
-__Wealth Distribution & Asset Defense:__ Arab conquerors acquire estates and tax rights; Coptic landowners largely retain property initially but face conversion pressure; church lands partially confiscated over time; wealth concentrates among Arab governors and tax farmers.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residues recycled; urban waste from growing Fustat managed through traditional methods; no evidence of acute sink pressure.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Coptic village communities maintain mutual-aid networks; Muslim community (umma) develops parallel structures in garrison towns; dhimmi status creates formal inequality but also contractual predictability; inter-communal trust limited but functional.<br><br>
-__Stratification, Status & Group Identity:__ Arab Muslim elite at apex, followed by non-Arab Muslim converts (mawali), then dhimmi Christians and Jews; Copts dominate peasantry and retain scribal roles; ethnic-religious hierarchy defines social structure; boundaries hardening through the period.<br><br>
-__Kinship, Family & Inheritance:__ Islamic inheritance rules (fixed shares to heirs) apply to Muslims; Coptic Christian rules persist within that community; extended family remains primary social unit; tribal affiliations significant among Arab settlers.<br><br>
-__Civic Association & Self-Organization:__ Coptic church parishes and monasteries retain communal functions; Muslim mosques and emerging guild structures organize urban communities; village councils persist for local governance under overall Arab authority.<br><br>
-__Leisure, Play & Sociability:__ Islamic festivals (Eid al-Fitr, Eid al-Adha) establish new communal rhythms; Coptic festivals continue; public baths, markets, and mosque gatherings structure urban sociability; horse racing and archery popular among Arab elite.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to governors and qadis absorb complaints; Coptic revolts (725 CE, 739 CE, 750 CE, 829–832 CE) indicate accumulated grievance exceeding peaceful channels; suppression restores order but does not resolve underlying fiscal pressure.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Egypt is a province governed by an appointed amir (governor) answerable to the Umayyad (661–750 CE) then Abbasid (750–868 CE) caliph; local Arab military elite shares power; Coptic patriarch retains ecclesiastical authority under dhimmi constraints.<br><br>
-__Succession & Power Transfer:__ Governors appointed and removed by caliphs; succession often contested in Damascus/Baghdad with ripple effects in Egypt; Abbasid revolution (750 CE) replaces Umayyad appointees; no local dynastic continuity until Tulunid takeover (868 CE).<br><br>
-__Legitimacy & Political Narrative:__ Islamic legitimacy based on caliphal succession from the Prophet and just rule according to sharia; Copts accept dhimmi status as contractual protection; Arab elite claims conquest right; legitimacy erodes among Copts under heavy taxation and periodic persecution.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Arab administration initially depends on Coptic scribes and Greek/Coptic records; Arabization of administration proceeds gradually (Arabic becomes sole administrative language under Umayyads by ~700 CE); papyrus documentation continues; tax registers maintained; corruption endemic but system functional.<br><br>
-__Political Participation & Mobilization:__ Arab tribal councils and military assemblies provide elite participation; Copts excluded from formal political roles but mobilize through church and occasional revolt; no formal channels for popular Muslim participation beyond mosque and petition.<br><br>
-__Geopolitical Position & External Relations:__ Egypt funds caliphal expansion; naval base for Mediterranean raids; grain supplies caliphal capitals; Byzantine naval attacks on Alexandria (645 CE, 654 CE) repelled; frontier stable after initial conquest.<br><br>
-__Coercive Apparatus & Means of Force:__ Arab jund (military district) garrisons Fustat and key points; Arab cavalry and infantry maintain order; Coptic revolts suppressed by military force; fortifications minimal; fleet based at Alexandria.<br><br>
-__Internal Order & Threat Environment:__ Coptic revolts (multiple in eighth and ninth centuries) constitute primary internal disorder; brigandage present in rural areas; Arab factional conflicts occasionally spill into Egypt; overall order maintained but with periodic military intervention required.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Caliphal edicts travel by courier along post roads (barid) within weeks; Friday sermons (khutba) disseminate official positions; merchant and pilgrim networks carry informal information; Coptic church networks remain active.<br><br>
-__Record, Storage & Persistence:__ Arabic papyrus documents (and increasingly paper after mid-eighth century) dominate administrative records; Coptic manuscripts continue for religious texts; Greek displaced from official use by early eighth century; bilingual (Arabic-Coptic, Arabic-Greek) documents mark transition period.<br><br>
-__Framing, Censorship & Discourse Norms:__ Islamic orthodoxy defines permitted discourse for Muslims; Coptic and Jewish communities maintain internal discourse under dhimmi constraints; public disputation between religions discouraged but occurs; blasphemy against Islam prohibited.<br><br>
-__Reception, Attention & Amplification:__ Friday sermons, Quranic recitation, and hadith transmission shape Muslim reception; Coptic homilies and hagiographies continue for Christian audiences; Arabic linguistic dominance expands as conversion and Arabization proceed.<br><br>
-__Signal Integrity & Noise Load:__ Sunni orthodoxy consolidates under Abbasids; intra-Islamic theological disputes (Mu'tazili, traditionalist) generate some noise; Coptic-Muslim informational spheres largely separate, limiting cross-community confusion.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Islamic ethics (sharia principles) define justice for Muslims; Coptic Christian ethics persist within that community; dhimmi contract provides a framework of mutual obligation; sense of justice divided along confessional lines.<br><br>
-__Law, Codification & Regulatory Evolution:__ Sharia law develops through hadith compilation and juristic interpretation (emerging Hanafi, Maliki schools); applies to Muslims and Muslim-dhimmi interactions; Coptic canon law and custom govern internal Christian matters; no comprehensive codification yet.<br><br>
-__Adjudication, Enforcement & Liability:__ Qadi (Islamic judge) adjudicates Muslim disputes and dhimmi-Muslim cases; Coptic bishops and community leaders handle internal Christian disputes; enforcement through state officials; liability assigned according to applicable law.<br><br>
-__Rights, Protections & Compliance Burden:__ Muslims hold full legal rights; dhimmis protected in person and property but face restrictions (distinctive dress, no new church construction, testimony limitations); jizya payment constitutes significant compliance burden; conversion removes disabilities.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful Arab officials sometimes evade accountability; dhimmi complaints against Muslims difficult to prosecute; periodic persecutions go unredressed; Coptic revolts indicate accumulated grievance not cleared through judicial channels.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Islamic religious sciences (Quranic exegesis, hadith, fiqh) constitute the primary inquiry for Muslim scholars; translation movement (Greek to Arabic) begins but peaks later in Baghdad; Coptic theological scholarship continues in diminished form.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural, medical, and craft techniques persist from Byzantine period; Arab conquerors adopt rather than innovate; irrigation maintenance continues using established methods; no major technical change within the window.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Mosque-based instruction teaches Quran, Arabic, and religious sciences; Coptic scribal training continues through church and monastery; literacy in Arabic expands among Muslims and converts; Greek literacy declines; Coptic literacy persists for religious purposes.<br><br>
-__Obsolescence & Knowledge Decay:__ Greek administrative knowledge lost as Coptic scribes Arabize; ancient Egyptian knowledge already extinct from previous period; some Coptic religious learning atrophies under pressure; practical skills (agriculture, crafts) persist through apprenticeship.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Islamic foundational narrative (Quran, Prophet's life, early conquests) establishes identity for Muslims; Coptic identity deepens around martyrdom under pagan Rome and now dhimmi perseverance; conquest becomes foundational memory for Arabs; pre-Islamic Egyptian memory fades further.<br><br>
-__Artistic Expression & Material Culture:__ Early Islamic architecture emerges (Mosque of Amr ibn al-As, 642 CE); Coptic artistic traditions continue in textiles, manuscripts, and church decoration; Arabic calligraphy develops; no monumental building program in Egypt comparable to Damascus or later Baghdad.<br><br>
-__Collective Mood & Behavioral Disposition:__ Arab conquerors confident in expanding caliphate; Coptic population accommodates under dhimmi status with episodic resistance; mood among Copts darkens during persecution waves, lightens during tolerant administrations; overall pragmatic adaptation prevails.<br><br>
-__Form Exhaustion & Meaning Decay:__ Late antique Christian forms (hagiography, homiletics) continue without major renewal in Coptic context; early Islamic forms retain vitality; neither tradition shows significant form exhaustion within this window; Coptic monasticism maintains meaning for participants.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islamic cosmology (tawhid, prophethood, judgment day) dominates among Muslims; Coptic Christian cosmology persists unchanged within that community; both affirm providential worldview; secularism absent; afterlife central to both frameworks.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Ramadan fasting, pilgrimage (hajj), and zakat structure Muslim devotion; Coptic liturgy, fasting, and saint veneration continue; mosques multiply as Muslim population grows; churches maintained but not expanded.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Caliphal authority appoints qadis and oversees mosques; Coptic Patriarchate of Alexandria retains authority over Egyptian church under state constraints; monasteries continue as centers of Coptic religious life; no major doctrinal disputes within either community during this window.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam spreads through conversion (tax incentives, social mobility, intermarriage); Copts remain majority through most of the window but proportion declining; minimal syncretism between Islam and Christianity; Arabic displaces Coptic as spoken language in some regions.<br><br>
-__Disenchantment & Sacred Discharge:__ No significant disenchantment; both Muslim and Christian communities maintain vibrant sacred frameworks; the spiritual transition is from one robust tradition (Christianity) to another (Islam) rather than toward secularity; tension between communities religiously grounded rather than spiritually void.<br><br>
+# __641 CE – 868 CE — Early Islamic Egypt and Arab Administration__
+
+__Summary:__ The Arab conquest of 641 CE transfers Egypt from Byzantine to caliphal rule with minimal destruction, installing a thin Arab-Muslim military elite at Fustat that extracts tribute through existing Coptic bureaucratic structures while Arabic gradually displaces Greek as the language of administration — the hinge being the shift from Greek to Arabic chancery records in 706 CE, which marks the transition from continuity through borrowed apparatus to an Arabized administrative order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile corridor remains the geographic spine; Fustat is founded at the apex of the Delta near the ruined fortress of Babylon, positioned to control Upper and Lower Egypt and the routes to Alexandria, the Red Sea, and the Western Desert — a military camp that becomes a permanent capital.
+
+__Climate Regime & Volatility:__ The annual flood cycle continues to pace agriculture and taxation; no evidence of secular climate shift disturbs the period, though annual flood variations affect harvest yields and fiscal receipts as always.
+
+__Hazard Regime & Exposure:__ Plague recurrences continue from the Justinianic pandemic; major outbreaks are recorded in 689–690 CE and again in the 740s, sustaining demographic pressure without reaching 541 CE severity.
+
+__Resource & Energy Endowment:__ Papyrus remains abundant in the Delta, serving manuscript production until paper introduced from Central Asia via the Islamic world begins to appear in the 8th century; Egyptian grain, gold, and textiles continue as primary export resources.
+
+__Waste Absorption & Sink Capacity:__ Fustat grows as an urban center without recorded environmental constraint; traditional waste management suffices; no new sink pressures emerge.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria, dysentery, and trachoma persist; plague recurrences impose mortality spikes; the post-Justinianic demographic trough is not fully recovered.
+
+__Nutrition & Physiological Vitality:__ Grain supply remains adequate; no systemic famine is recorded; nutritional status of the population is stable within pre-conquest parameters.
+
+__Care, Healing & Recovery Capacity:__ Monastic infirmaries and Christian hospitals continue; early Islamic bimaristans do not appear in Egypt until later periods; household and folk medicine remain primary recourse.
+
+__Reproductive Biology & Pairing Dynamics:__ Christian Copts retain monogamous marriage norms; Muslim settlers practice polygyny where resources permit; no sharp demographic effect from pairing pattern differences is documented.
+
+__Demographic Renewal & Density:__ Population remains below pre-plague levels, perhaps 3–4 million; gradual recovery occurs through the period; Arab settlement adds a thin demographic layer concentrated in Fustat and garrison towns.
+
+__Attrition & Dependency Overhang:__ Plague orphans and widows burden ecclesiastical and communal support; the tax-paying population slowly expands but remains below late-antique peaks.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basin irrigation and wheat-based agriculture continue unchanged; the Copts remain the cultivating population; provisioning floor is stable.
+
+__Energy Capture & Conversion:__ Human and animal muscle, waterwheels (saqiya), and wind-powered Nile shipping remain the energy base; no technological change.
+
+__Labor Organization & Coercion:__ Coptic peasants remain bound to the land under similar constraints to late-Roman colonate; corvée labor for irrigation maintenance continues; no new coercive labor system is introduced.
+
+__Production & Surplus Capacity:__ Egypt continues as granary and textile producer; surplus extraction is heavy — tribute to the caliphate replaces annona to Constantinople; production capacity is not expanded.
+
+__Storage, Reserves & Buffering:__ State granaries and fiscal reserves persist; caliphal governors maintain treasuries; no fiscal insolvency is recorded.
+
+__Exchange, Trade & Logistics:__ Mediterranean trade continues at reduced levels; Red Sea routes to Arabia and India integrate Egypt into the expanding Islamic commercial sphere; internal Nile transport persists unchanged.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold dinar replaces Byzantine solidus as standard currency; Umayyad currency reform (696 CE) introduces Islamic coinage; credit and banking practices continue in adapted form.
+
+__Surplus Extraction & Redistribution:__ The jizya (poll tax on non-Muslims) and kharaj (land tax) replace Byzantine fiscal categories; extraction is heavy — Egypt is a revenue province for the caliphate; tribute flows to Damascus and later Baghdad.
+
+__Wealth Distribution & Asset Defense:__ Arab conquerors initially take no agricultural land (Egypt not divided as fay' like Sasanian Iraq); Coptic landowners and church estates retain holdings; conversion gradually shifts wealth composition as Muslim population grows.
+
+__Byproducts & Waste Routing:__ No change from late-antique patterns; economic activity does not generate new waste streams.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Arab settlers bring tribal kinship organization and Islamic inheritance law; Copts retain Christian marriage and inheritance norms under dhimmi status; two parallel systems coexist.
+
+__Association & Mutual Aid:__ Coptic church and monastic networks continue as mutual aid structures; Muslim jama'a and tribal solidarities organize Arab settlers; guild and confraternity structures persist.
+
+__Leisure, Play & Sociability:__ Christian calendar governs Coptic festivals; Islamic calendar structures Muslim observance; horse-racing, hunting, and military exercises occupy Arab elite leisure.
+
+__Stratification, Status & Group Structure:__ A tripartite hierarchy emerges — Arab-Muslim elite (largely military), Coptic Christian majority (agricultural and artisan), and dhimmi minorities (Jews, remaining Greeks); conversion creates an intermediate category of mawali (non-Arab converts).
+
+__Administrative Capacity & Institutional Integrity:__ Coptic bureaucrats continue to staff the fiscal administration under Arab governors (amirs); Greek records persist until 706 CE when Caliph al-Walid mandates Arabic; the transition to Arabic administration occurs gradually through the 8th century.
+
+__Coercive Apparatus & Means of Force:__ Arab jund (military settlers) garrison Fustat and provincial towns; expeditionary forces launch campaigns into Nubia, North Africa, and Byzantine Anatolia; Coptic population is unarmed.
+
+__Discharge, Disorder & Decay:__ Tax revolts among Copts (notably 725–726 CE, 739 CE, 750 CE, and the major Bashmurite revolts culminating in 831–832 CE) punctuate the period; Arab tribal factionalism (Qays vs. Yemen) generates internal conflict; Abbasid revolution (750 CE) brings regime change with minimal Egyptian disruption.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The Coptic population accepts Arab rule with resignation — Byzantine persecution had alienated them, and initial Arab terms are tolerable; gradual fiscal pressure and episodic discrimination generate resentment without sustained resistance until the 9th-century revolts.
+
+__Leadership & Personal Authority:__ Arab governors (amirs) hold political-military authority; the Coptic patriarch commands spiritual allegiance of the Christian majority; prominent Muslim jurists and scholars begin to establish religious authority.
+
+__Legitimacy as Lived Allegiance:__ The caliphate holds legitimate authority over Muslim Arabs; Copts accept subordinate status within the dhimmi framework; Byzantine legitimacy among Copts is extinct.
+
+__Political Will & Collective Resolve:__ The Arab elite maintains coherent will to govern and extract tribute; factional divisions (tribal, later Abbasid vs. remnant Umayyad loyalties) periodically disturb but do not break governing capacity; Coptic collective will is passive until fiscal pressure provokes revolt.
+
+__External Relations & Posture:__ Egypt serves as a base for caliphal expansion into North Africa (conquest of Ifriqiya, ultimately al-Andalus) and for naval operations against Byzantium; campaigns into Nubia end in stalemate (the Baqt treaty establishes tribute-exchange relationship).
+
+__Disaffection, Apathy & Spent Will:__ Coptic disaffection accumulates as fiscal pressure increases and conversion thins the Christian majority; the failure of the Bashmurite revolts (finally crushed 832 CE) marks the exhaustion of overt Coptic resistance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Arabic becomes the language of ruling elite and administration; Coptic remains vernacular of the majority but is increasingly confined to liturgical and ecclesiastical contexts; Greek persists in administration until 706 CE and in learned Christian circles somewhat longer.
+
+__Channels & Transmission Velocity:__ Caliphal courier system (barid) integrates Egypt into empire-wide communication network; Nile transport and Mediterranean shipping continue as physical channels.
+
+__Record, Storage & Persistence:__ Arabic papyri replace Greek in administration after 706 CE; Coptic manuscripts continue for religious texts; paper begins to appear in the 8th century, eventually displacing papyrus; archives at Fustat accumulate administrative records.
+
+__Framing, Censorship & Discourse Norms:__ Islamic discourse norms govern public religious expression; Christian preaching and writing continue under dhimmi constraints; no systematic censorship apparatus exists, but public display of non-Muslim religion is circumscribed.
+
+__Reception, Attention & Amplification:__ Friday sermons (khutba) in mosques reach Muslim population; Coptic homilies continue in churches; oral transmission remains dominant for most of the population.
+
+__Signal Integrity & Noise Load:__ Multiple scripts (Arabic, Coptic, residual Greek) and languages create translation requirements; bilingual and trilingual documents appear in transitional period; no systematic verification beyond official authentication.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Islamic law (sharia) governs Muslim community; dhimmi status codifies Christian and Jewish subordination — tolerated, taxed, restricted, but protected; Coptic canon law governs internal Christian affairs.
+
+__Law, Codification & Regulatory Evolution:__ Umayyad and Abbasid jurisprudence develops through the period; Maliki and later Shafi'i madhhabs emerge; fiscal regulations (tax rates, exemptions) evolve pragmatically.
+
+__Adjudication, Liability & Sanction:__ Qadi courts adjudicate among Muslims and in mixed cases; Coptic bishops retain jurisdiction over Christian personal status; corporal punishment, fines, and execution constitute the sanction repertoire.
+
+__Rights, Protections & Compliance Burden:__ Dhimmis pay jizya for protection; restrictions on building new churches, wearing distinctive dress, and public religious display burden compliance; conversion to Islam removes dhimmi restrictions.
+
+__Impunity & Unredressed Wrong:__ Violence against dhimmis during disturbances often goes unpunished; fiscal extortion by individual officials generates unredressed wrongs; the gap between dhimmi protection in theory and practice is real but not systematic.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Islamic jurisprudence (fiqh) and hadith scholarship begin to develop; Coptic theology continues in reduced scope; classical Greek philosophy is not actively pursued in Egypt during this period.
+
+__Applied Knowledge & Technical Method:__ Agricultural, artisanal, and construction techniques persist unchanged; Arab conquerors adopt local methods; no technological innovation is introduced.
+
+__Education, Knowledge Stock & Skill Distribution:__ Coptic monastic schools continue; Arabic education develops around mosque-based Quran instruction; Greek-medium education disappears; literacy remains restricted to clerical and scribal classes.
+
+__Obsolescence & Knowledge Decay:__ Knowledge of Greek declines among Copts; demotic is already extinct; hieroglyphic reading capacity is completely lost; manuscript preservation depends on ecclesiastical institutions.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Coptic identity consolidates around the church, the Coptic language, and the Era of Martyrs calendar; Arab-Muslim settlers carry tribal and early Islamic foundational memories; the two communities develop in parallel with limited cultural interchange.
+
+__Legitimating Narrative & Ideology:__ Islamic legitimation — the conquest as divine mandate, the umma as chosen community — justifies Arab rule; Coptic narrative of persecution and endurance sustains communal identity.
+
+__Artistic Expression & Material Culture:__ Early Islamic architecture emerges (Mosque of Amr ibn al-As at Fustat, 642 CE, repeatedly enlarged); Coptic textile production continues, influencing early Islamic design; manuscript illumination continues in both traditions.
+
+__Form Exhaustion & Meaning Decay:__ Late-antique Christian artistic forms continue without exhaustion; Islamic artistic vocabulary is still formative; no meaning-decay is evident in this early period.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Islamic cosmology — divine unity, prophetic revelation, final judgment — now frames the ruling elite's worldview; Coptic Christian cosmology persists among the majority; the two exist in parallel without synthesis.
+
+__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Friday congregational worship, Ramadan fasting, and pilgrimage structure Muslim devotion; Coptic liturgy, fasting, and saints' commemorations continue unchanged within the church.
+
+__Religious Institutions & Doctrinal Authority:__ The Coptic patriarchate retains authority over Christian community; mosque-based religious leadership develops; no caliphal religious institution comparable to the patriarchate exists in this early period.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam spreads through conversion — initially slow, accelerating through the 8th century as fiscal and social incentives favor conversion; Coptic Christianity contracts proportionally; Nubia remains Christian through the Baqt arrangement.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment process operates within the period; both Islam and Coptic Christianity remain vital; the gradual numerical decline of Christianity through conversion is not experienced as disenchantment but as communal diminution under external pressure.

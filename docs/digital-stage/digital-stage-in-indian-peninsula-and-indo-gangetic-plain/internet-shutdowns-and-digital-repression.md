@@ -1,69 +1,139 @@
-# __2015 CE – 2026 CE__ — Internet Shutdowns and Digital Repression
-__Summary:__ India leads the world in internet shutdowns through the window, deploying network blackouts as routine administrative tool for protest suppression, communal violence prevention, and examination integrity, with Kashmir experiencing the longest continuous civilian shutdown in democratic history from August 2019 through early 2021. The binding constraint is the tension between state security imperatives and the economic and communicative costs of disconnection, resolved overwhelmingly in favor of shutdown authority with minimal judicial check. Margin against misuse is narrow, as existing legal frameworks permit broad executive discretion with retrospective review only. The direction of change through the window is normalization, with shutdowns expanding from exceptional emergency measure to standard crowd-control technique across states and occasions.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Shutdown implementation follows telecom infrastructure geography; mountainous Kashmir and northeastern states with limited redundancy face complete blackouts while metropolitan areas retain some connectivity through diverse carriers and fixed-line alternatives.<br><br>
-__Climate Regime & Volatility:__ Seasonal patterns interact with shutdown timing; monsoon floods requiring emergency communication coincide with periods of elevated social tension, creating coordination dilemmas when shutdowns block disaster response.<br><br>
-__Hazard Regime & Exposure:__ Network blackouts during natural disasters prevent real-time coordination; documented cases of flood victims unable to call for rescue during concurrent shutdowns reveal compound hazard exposure.<br><br>
-__Resource & Energy Endowment:__ Telecom infrastructure depends on grid electricity and diesel backup; shutdown orders target logical connectivity rather than physical infrastructure, leaving energy endowment unaffected.<br><br>
-__Waste Absorption & Sink Capacity:__ No direct physical waste stream from network interruption; the infrastructure persists through shutdown periods with negligible environmental footprint from disconnection itself.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Healthcare access degrades during shutdowns; telemedicine unavailable, ambulance coordination impaired, and medical supply chains disrupted, with documented mortality from delayed treatment in prolonged blackouts.<br><br>
-__Nutrition & Physiological Vitality:__ Food supply chains relying on digital logistics face friction during extended shutdowns; Kashmir's eighteen-month blackout disrupted commercial provisioning though not to starvation levels.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ No direct biological impact; communication disruption affects family coordination without altering reproductive patterns.<br><br>
-__Demographic Renewal & Density:__ Population dynamics unchanged by connectivity interruption; demographic measurement itself impaired when survey and registration systems lose network access.<br><br>
-__Attrition & Dependency Overhang:__ Elderly and chronically ill populations face elevated risk during shutdowns due to healthcare access barriers; dependency burden increases where caregivers cannot coordinate remotely.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Digital payment systems fail during shutdowns, forcing reversion to cash economy; populations dependent on mobile money for subsistence transactions face immediate liquidity constraints.<br><br>
-__Energy Capture & Conversion:__ Energy infrastructure operates independently of public internet; industrial energy capture continues through private networks while household prepaid meters may lose recharge capability.<br><br>
-__Labor Organization & Coercion:__ Gig economy workers lose income immediately upon disconnection; delivery drivers, ride-share operators, and remote freelancers face complete work stoppage with no compensation mechanism.<br><br>
-__Production & Surplus Capacity:__ E-commerce and IT-enabled services halt during blackouts; estimated economic losses exceed fifty million dollars daily during nationwide shutdowns, with Kashmir losses alone exceeding two billion dollars through the extended 2019-2021 period.<br><br>
-__Storage, Reserves & Buffering:__ Businesses without cash reserves face immediate operational stress; the shift toward digital-first commerce increases shutdown vulnerability while reducing buffer capacity against disconnection.<br><br>
-__Exchange, Trade & Logistics:__ Supply chain coordination collapses for digitally-dependent logistics; traditional trader networks with phone-based ordering partially substitute but cannot match digital efficiency.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ UPI and mobile wallet balances become inaccessible; credit markets freeze as verification systems fail, with cascading defaults where payment cycles break.<br><br>
-__Surplus Extraction & Redistribution:__ Tax collection dependent on digital filing faces interruption; government services requiring online authentication become unavailable, though welfare disbursement to bank accounts continues.<br><br>
-__Wealth Distribution & Asset Defense:__ Economic losses concentrate among digital-dependent businesses and workers; traditional cash-economy participants face lower direct impact, creating regressive distribution of shutdown costs.<br><br>
-__Byproducts & Waste Routing:__ Accumulated economic grievance and business failure constitute shutdown residue; no institutional mechanism compensates affected parties, leaving losses as unmetabolized private harm.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Forced disconnection revives face-to-face and voice communication; communities report renewed local solidarity during blackouts alongside isolation from distant kin and professional networks.<br><br>
-__Stratification, Status & Group Identity:__ Shutdowns target specific geographic and demographic populations; Kashmir's Muslim-majority population and protest-associated communities bear disproportionate disconnection, reinforcing group identity through shared deprivation.<br><br>
-__Kinship, Family & Inheritance:__ Family communication across distances breaks during shutdowns; documented distress among students, migrants, and families with members in shutdown zones, with death notifications delayed and emergencies uncoordinated.<br><br>
-__Civic Association & Self-Organization:__ Civil society organizations document and advocate against shutdowns; digital rights groups emerge as new associational form while traditional organizations coordinate through offline methods during blackouts.<br><br>
-__Leisure, Play & Sociability:__ Digital entertainment and social media vanish during shutdowns; youth report acute distress from disconnection while communities observe increased local social interaction as substitute.<br><br>
-__Grievance Channels & Social Discharge:__ Shutdowns explicitly block grievance expression; the suppression of protest communication is frequently the stated purpose, forcing grievance into physical assembly or subterranean circulation, with accumulated frustration unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Shutdown authority rests with district magistrates and home ministries; executive discretion faces minimal legislative or judicial constraint, concentrating disconnection power in administrative hands.<br><br>
-__Succession & Power Transfer:__ Shutdown practices continue across administrations; both Congress and BJP governments deploy blackouts, with the technique institutionalized beyond partisan control.<br><br>
-__Legitimacy & Political Narrative:__ Official framing cites public order and rumor prevention; critics frame democratic suppression and collective punishment, with international human rights bodies consistently critical while domestic opinion divides.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Shutdown implementation demonstrates state technical capacity; the ability to disconnect populations at will represents administrative power whether exercised for order maintenance or political suppression.<br><br>
-__Political Participation & Mobilization:__ Shutdowns directly suppress political mobilization by blocking organizing communication; protests are explicitly targeted, with disconnection serving as crowd-control tool alongside physical force.<br><br>
-__Geopolitical Position & External Relations:__ India's shutdown record draws international criticism from UN special rapporteurs and press freedom organizations; diplomatic friction minor but persistent, with democratic credibility costs accumulating.<br><br>
-__Coercive Apparatus & Means of Force:__ Network shutdowns complement physical security measures; disconnection serves as force multiplier by isolating populations from documentation, coordination, and external attention during operations.<br><br>
-__Internal Order & Threat Environment:__ Shutdowns are deployed against communal violence, terrorism, and protest; effectiveness contested, with some evidence of rumor suppression alongside documentation of increased physical violence when digital channels close.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Shutdowns eliminate digital transmission entirely within affected zones; information velocity collapses to physical messenger and word-of-mouth speeds, with complete blackout in worst cases.<br><br>
-__Record, Storage & Persistence:__ Real-time documentation of events during shutdowns becomes impossible; historical record gaps emerge where journalists and citizens cannot transmit during crises, with atrocities potentially undocumented.<br><br>
-__Framing, Censorship & Discourse Norms:__ Shutdowns represent the most absolute form of censorship, blocking all digital expression rather than targeting specific content; discourse norms shift toward self-censorship when reconnection allows review of stored communications.<br><br>
-__Reception, Attention & Amplification:__ National and international attention to shutdown zones depends on pre-positioned journalists and delayed reporting; affected populations cannot amplify their own situation during disconnection, creating attention asymmetry.<br><br>
-__Signal Integrity & Noise Load:__ Shutdowns eliminate both signal and noise; the blunt instrument cannot distinguish valuable communication from harmful rumor, with total information loss rather than selective filtering.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Collective punishment of populations for potential disorder offends liberal justice principles; communitarian security arguments compete with individual rights frameworks without resolution.<br><br>
-__Law, Codification & Regulatory Evolution:__ Telecom Suspension Rules 2017 codify shutdown authority; Section 144 of Criminal Procedure Code provides additional basis, with legal framework permissive rather than restrictive, evolving toward greater explicit authorization.<br><br>
-__Adjudication, Enforcement & Liability:__ Supreme Court's 2020 Anuradha Bhasin ruling requires proportionality review but permits continued shutdowns; judicial oversight remains retrospective and deferential, with no shutdown reversed in real time through court order.<br><br>
-__Rights, Protections & Compliance Burden:__ Internet access not recognized as fundamental right; affected populations bear complete compliance burden with no procedural rights to hearing or advance notice before disconnection.<br><br>
-__Impunity & Unredressed Wrong:__ No official held accountable for shutdown harms including documented deaths from healthcare denial; compensation claims routinely fail, with accumulated harm unremedied and impunity complete for ordering authorities.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Digital rights scholarship and authoritarian technology studies engage shutdown phenomena; Indian researchers contribute to global understanding while operating under domestic political constraints.<br><br>
-__Applied Knowledge & Technical Method:__ Shutdown implementation requires technical coordination with telecom operators; circumvention methods including VPNs and mesh networks develop in response, creating technical measure-countermeasure dynamics.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Students lose online educational access during shutdowns; examination administration requiring internet verification forces postponement, with documented educational disruption in affected regions.<br><br>
-__Obsolescence & Knowledge Decay:__ No direct knowledge decay from shutdowns; however, real-time learning and information access interruptions create temporary knowledge access gaps during blackout periods.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Kashmir shutdowns enter regional trauma memory; the experience of extended disconnection becomes identity-forming for affected generation, with blackout stories joining partition narratives in collective memory.<br><br>
-__Artistic Expression & Material Culture:__ Shutdown experiences generate documentary film, journalism, and literary response; visual culture of dark screens and loading symbols becomes recognizable imagery of digital repression.<br><br>
-__Collective Mood & Behavioral Disposition:__ Affected populations report anxiety, helplessness, and isolation; the mood darkens in shutdown zones while national populations not directly affected remain largely indifferent or supportive of security measures.<br><br>
-__Form Exhaustion & Meaning Decay:__ Democratic discourse on rights and freedoms hollows when disconnection proceeds without consequence; the gap between stated values and shutdown practice accumulates as meaning erosion in official legitimation claims.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Disconnection prompts no direct cosmological questioning; existential isolation during blackouts is experienced as political rather than metaphysical condition.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious observance continues through physical gathering during shutdowns; digital religious content becomes unavailable but traditional practice persists unimpeded.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious institutions have not systematically addressed shutdown practice; the issue remains secular-political rather than religious-doctrinal in institutional framing.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shutdown geography overlaps with Muslim-majority Kashmir, creating perception of religious targeting; whether this constitutes spiritual dimension remains contested between security and discrimination framings.<br><br>
-__Disenchantment & Sacred Discharge:__ The experience of state-imposed isolation generates no visible spiritual response; disenchantment with democratic promise rather than transcendent meaning characterizes the residue, remaining political rather than spiritual in register.<br><br>
+# __2015 CE – 2026 CE — Internet Shutdowns and Digital Repression__
+
+__Summary:__ India leads the world in internet shutdowns, with authorities ordering over 100 annually, most frequently in Kashmir, where the longest shutdown in any democracy lasts from August 2019 to March 2020. The binding constraint is the asymmetry between state capacity to sever digital connectivity and citizen capacity to resist or circumvent it: the same infrastructure that enables mass connectivity concentrates control in chokepoints that authorities can close at will.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Shutdowns concentrate in border regions, particularly Kashmir, the northeast states, and areas experiencing communal tension. The mountainous terrain of Kashmir magnifies the shutdown's effect, as alternative communication routes that might bypass digital networks do not exist.
+
+__Climate Regime & Volatility:__ Harsh winters in Kashmir compound shutdown effects, with residents unable to coordinate during weather emergencies or access weather information when networks are severed.
+
+__Hazard Regime & Exposure:__ Shutdowns during natural disasters prevent coordination of emergency response. The 2020 Kashmir shutdown coincided with heavy snowfall that required rescue operations conducted without digital communication.
+
+__Resource & Energy Endowment:__ Telecommunications infrastructure depends on power supply, but shutdowns operate at the network layer, not the physical, with authorities ordering service providers to disconnect rather than cutting power.
+
+__Waste Absorption & Sink Capacity:__ No direct physical residue from shutdowns, though the economic disruption they cause affects supply chains and waste collection services.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Shutdowns during medical emergencies prevent patients from reaching hospitals, booking appointments, or accessing telemedicine. Documented cases include delayed emergency response and inability to coordinate blood donations.
+
+__Nutrition & Physiological Vitality:__ Economic disruption from shutdowns affects food supply chains and purchasing power, with businesses unable to process digital payments or coordinate deliveries.
+
+__Care, Healing & Recovery Capacity:__ Healthcare facilities lose access to digital medical records, telemedicine consultations, and coordination systems. Ambulance services cannot receive calls through internet-based systems.
+
+__Reproductive Biology & Pairing Dynamics:__ No direct effect on reproductive biology, though families separated by shutdowns cannot communicate about pregnancies or births.
+
+__Demographic Renewal & Density:__ No direct demographic effect, though the economic and psychological damage of prolonged shutdowns in Kashmir drives out-migration, particularly of young professionals.
+
+__Attrition & Dependency Overhang:__ Elderly and disabled populations dependent on digital services for medicine ordering and caretaker coordination face heightened vulnerability during shutdowns.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Shutdowns disrupt digital payment systems, leaving small businesses unable to transact and customers unable to purchase goods in the increasingly cashless urban economy.
+
+__Energy Capture & Conversion:__ No direct effect on energy systems, though coordination of power distribution and grid management relies on digital networks.
+
+__Labor Organization & Coercion:__ Gig workers, delivery drivers, and platform-dependent laborers lose income immediately when shutdowns prevent app-based work. IT sector employees cannot work remotely.
+
+__Production & Surplus Capacity:__ Estimated economic losses exceed $5 billion cumulatively through 2023. Kashmir's tourism, agriculture, and handicraft sectors face recurring damage. Tech startups relocate from shutdown-prone regions.
+
+__Storage, Reserves & Buffering:__ Businesses in shutdown-prone regions maintain higher cash reserves and offline backup systems, diverting capital from productive investment to contingency preparation.
+
+__Exchange, Trade & Logistics:__ E-commerce halts during shutdowns. Supply chains relying on digital coordination break. Export businesses miss deadlines. Banking services requiring online verification freeze.
+
+__Value Storage, Credit & Deferred Exchange:__ UPI payments become unavailable, forcing reversion to cash in a system increasingly designed for digital transactions. ATMs run out of cash as demand surges.
+
+__Surplus Extraction & Redistribution:__ Tax collection continues, but businesses cannot file returns or make digital payments, creating compliance complications and penalties.
+
+__Wealth Distribution & Asset Defense:__ Economic damage falls disproportionately on small businesses and informal workers who lack reserves to survive prolonged shutdowns, widening inequality within affected regions.
+
+__Byproducts & Waste Routing:__ Interrupted supply chains leave perishable goods to spoil. Economic losses cannot be recovered, creating deadweight damage that accumulates with each shutdown.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Families separated by shutdowns cannot communicate. During the 2019 Kashmir shutdown, families could not confirm the safety of relatives for weeks. Students studying outside Kashmir lost contact with parents.
+
+__Association & Mutual Aid:__ Civil society organizations lose coordination capacity. Mutual aid networks that operate through WhatsApp groups cannot function. Journalists cannot file reports or coordinate coverage.
+
+__Leisure, Play & Sociability:__ Social media, gaming, and entertainment streaming cease. The social isolation compounds psychological stress, particularly during extended shutdowns like Kashmir's 18-month partial blackout.
+
+__Stratification, Status & Group Structure:__ Shutdowns target Muslim-majority regions disproportionately, with Kashmir experiencing the most severe and prolonged restrictions, reinforcing perceptions of discriminatory application.
+
+__Administrative Capacity & Institutional Integrity:__ Section 144 of the Code of Criminal Procedure and the Telecom Suspension Rules 2017 provide legal authority, but oversight is minimal. Magistrates order shutdowns with little accountability, and judicial review is slow and largely ineffective.
+
+__Coercive Apparatus & Means of Force:__ Shutdowns accompany deployments of security forces, enabling operations without real-time documentation or coordination by affected populations. The information blackout serves as force multiplier.
+
+__Discharge, Disorder & Decay:__ Shutdowns intended to prevent disorder may generate it by preventing peaceful communication and coordination. Resentment accumulates. Journalists and human rights organizations document abuses they cannot immediately report. The Supreme Court in 2020 rules that indefinite shutdowns violate fundamental rights, but implementation of limits remains weak.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Affected populations experience anxiety, helplessness, and isolation. Kashmir develops collective trauma from repeated communication blackouts. Trust in the central government erodes in shutdown-prone regions.
+
+__Leadership & Personal Authority:__ Local leaders lose capacity to communicate with constituents during shutdowns. Political figures detained during the 2019 Kashmir lockdown could not address their supporters.
+
+__Legitimacy as Lived Allegiance:__ Each shutdown damages central government legitimacy in affected regions. The claim that shutdowns maintain order conflicts with lived experience of arbitrary disconnection from the outside world.
+
+__Political Will & Collective Resolve:__ The ruling BJP demonstrates sustained will to use shutdowns as a governance tool, expanding their frequency and duration despite criticism. Opposition parties lack power to prevent them.
+
+__External Relations & Posture:__ International criticism of Kashmir shutdowns damages India's democratic reputation. The UN and foreign governments express concern. India rejects external commentary as interference in internal affairs.
+
+__Disaffection, Apathy & Spent Will:__ Prolonged and repeated shutdowns produce resignation and disaffection in affected populations, particularly in Kashmir. Civic engagement becomes difficult when digital organizing is periodically impossible. Youth emigration accelerates as professional life becomes unviable.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Shutdowns create absolute barriers to digital communication. The shared code of digital connectivity that Indians increasingly rely on is severed by administrative order, reverting affected areas to pre-digital communication constraints.
+
+__Channels & Transmission Velocity:__ Authorities control the chokepoint between cellular towers and backbone networks. Service providers comply with shutdown orders or face license consequences. VPNs provide partial circumvention but are intermittently blocked.
+
+__Record, Storage & Persistence:__ Events during shutdowns go undocumented in real time. Citizen journalism, which relies on immediate transmission, cannot function. Abuses during blackouts are documented only afterward, if at all.
+
+__Framing, Censorship & Discourse Norms:__ Government frames shutdowns as necessary for public order and national security. Critics frame them as collective punishment and information control. Courts increasingly accept necessity claims despite mounting evidence of harm.
+
+__Reception, Attention & Amplification:__ Shutdowns prevent affected populations from reaching outside audiences. National and international attention to events in shutdown zones is delayed by days or weeks, reducing pressure on authorities.
+
+__Signal Integrity & Noise Load:__ Shutdowns create information voids that rumor fills. Unable to verify facts through digital channels, affected populations rely on word of mouth, increasing misinformation rather than reducing it.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Shutdowns violate widely held notions of proportionality and fairness, collectively punishing entire populations for the potential actions of a few. The sense of injustice is acute in Kashmir, where civilians bear the burden of counterinsurgency policy.
+
+__Law, Codification & Regulatory Evolution:__ The Telecom Suspension Rules 2017 provide legal framework but require only administrative, not judicial, authorization. The Anuradha Bhasin judgment (2020) mandates publication of shutdown orders and limits indefinite suspension, but compliance is inconsistent.
+
+__Adjudication, Liability & Sanction:__ Courts rarely hold officials accountable for excessive shutdowns. Judicial review is slow, with connectivity often restored before courts rule. No official has been sanctioned for ordering a disproportionate shutdown.
+
+__Rights, Protections & Compliance Burden:__ The Supreme Court recognizes internet access as enabling fundamental rights but permits restrictions under vague public order grounds. Citizens bear the burden of challenging each shutdown individually.
+
+__Impunity & Unredressed Wrong:__ Economic losses from shutdowns are not compensated. Abuses committed during information blackouts go largely unpunished. The gap between formal rights and practical protection remains wide.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic research on shutdown effects grows, with NGOs like Access Now and SFLC.in documenting patterns. The framing shifts from isolated incidents to systematic governance tool requiring structural response.
+
+__Applied Knowledge & Technical Method:__ Technical circumvention methods including VPNs, mesh networks, and satellite connections are explored but remain inaccessible to most affected populations. The state's technical capacity to block exceeds citizen capacity to circumvent.
+
+__Education, Knowledge Stock & Skill Distribution:__ Students in shutdown zones miss online classes, examinations, and application deadlines. Educational loss accumulates across cohorts, with Kashmiri students particularly affected.
+
+__Obsolescence & Knowledge Decay:__ Knowledge of pre-digital communication methods atrophies as society digitalizes, then must be relearned during shutdowns. Businesses lose institutional memory of offline operations.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ For Kashmiris, shutdowns become part of collective memory of conflict and control, reinforcing an identity defined against the central state. Shutdown anniversaries become dates of remembrance.
+
+__Legitimating Narrative & Ideology:__ Government narrative presents shutdowns as protecting national unity and preventing violence. Critics present them as colonial-style collective punishment targeting minority populations.
+
+__Artistic Expression & Material Culture:__ Kashmiri artists and writers document shutdown experience through poetry, film, and visual art that circulates once connectivity returns. The communication blackout itself becomes artistic subject.
+
+__Form Exhaustion & Meaning Decay:__ The government's national security justification loses credibility through overuse, applied to examination malpractice and local protests as well as genuine security threats.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Prolonged disconnection raises existential questions about dependence on digital connection for meaning and relationship. Some find spiritual value in forced disconnection; most experience it as deprivation.
+
+__Ritual, Devotion & Sacred Practice:__ Religious communities cannot coordinate gatherings or festivals through digital means during shutdowns. Virtual religious practice, which grew during COVID-19, becomes impossible.
+
+__Religious Institutions & Doctrinal Authority:__ Mosques in Kashmir serve as physical gathering points when digital coordination is impossible, partially filling the communication void that shutdowns create.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No significant effect on spiritual diffusion, though the pattern of shutdowns targeting Muslim-majority areas feeds narratives of religious discrimination.
+
+__Disenchantment & Sacred Discharge:__ The promise of digital connectivity as enabling universal participation yields to recognition that the state can sever that connection at will. The technological faith that characterized India's digital optimism encounters its limit in the shutdown regime.

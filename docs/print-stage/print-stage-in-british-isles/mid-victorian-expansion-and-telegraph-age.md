@@ -1,69 +1,139 @@
-# __1850 CE – 1880 CE__ — Mid-Victorian Expansion and Telegraph Age
-__Summary:__ Britain at imperial zenith experiences industrial prosperity, gradual political reform, and technological transformation of communications. The binding constraint is managing the tension between liberal economic expansion and emerging demands for democracy from an increasingly literate, organized working class. Margin against shock is comfortable — no major war, famine (outside Ireland), or revolution tests the system. The direction of change is consolidation and extension: franchise expands (1867), telegraph creates near-instantaneous communication, railways complete the national network, and cheap press reaches mass audiences, yet Irish nationalism and labor unrest signal limits to mid-Victorian stability.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Railway network now dense across England, Scotland, and Wales, reducing internal friction to negligible for most commercial purposes; Ireland connected but less densely; London remains dominant hub; submarine cables extend reach globally; spatial friction within the isles at historic low.<br><br>
-__Climate Regime & Volatility:__ Cool temperate maritime climate continues stable; no major climatic anomaly during window; agricultural output reliable; no secular drift significant to the period.<br><br>
-__Hazard Regime & Exposure:__ Minimal seismic or volcanic hazard; flood risk localized and managed through drainage; primary exposure is to industrial accident rather than natural hazard; margin against environmental shock ample.<br><br>
-__Resource & Energy Endowment:__ Coal production peaks relative to population and leads world; iron and steel production massive; copper, tin declining; timber imported; coal reserves still vast, no depletion anxiety visible.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban sanitation improving after cholera epidemics — sewer systems (Bazalgette's London sewers completed 1875), but rivers still polluted; coal smoke endemic in industrial cities; absorptive capacity strained but infrastructure investment beginning to address worst conditions.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera recedes after 1866; typhoid and tuberculosis remain endemic but declining; sanitary reform reduces waterborne disease; urban mortality falling faster than any previous period; baseline death rate improving.<br><br>
-__Nutrition & Physiological Vitality:__ Working-class diet improving with cheaper food imports (repeal of Corn Laws bearing fruit); adulteration still common; stature data show modest improvement; Irish famine survivors and emigrants still marked by physiological deficit.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Victorian marriage patterns — later marriage for middle class, earlier for workers; fertility beginning to decline among bourgeoisie (demographic transition starting); infant mortality still high but declining.<br><br>
-__Demographic Renewal & Density:__ Population growth continues — England and Wales reach 26 million by 1881; urban concentration accelerates; emigration provides safety valve; Ireland's population falling from famine losses and continued emigration; density high in industrial centers but no longer overwhelming growth rate.<br><br>
-__Attrition & Dependency Overhang:__ Workhouses still house destitute; industrial accidents create dependents; old age remains a poverty trap; charitable institutions and friendly societies absorb much of load; dependency overhang manageable within existing systems.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Free trade brings cheap grain, meat (refrigerated ships by 1880), and other foodstuffs; real wages rising for skilled workers; subsistence floor rising above bare survival for most; Irish rural poor remain vulnerable.<br><br>
-__Energy Capture & Conversion:__ Coal and steam dominate; gas lighting spreads; per-capita energy use continues rising; Britain consumes more coal than rest of world combined at mid-century; conversion efficiency improving with better engines.<br><br>
-__Labor Organization & Coercion:__ "New Model" unions (Amalgamated Society of Engineers, 1851) organize skilled workers; legal recognition advances (1871 Trade Union Act); factory regulation tightens; child labor declining; wage labor dominant, coercion through economic necessity rather than direct force.<br><br>
-__Production & Surplus Capacity:__ Heavy industry (iron, steel, shipbuilding, machinery) at world-leading scale; textile exports massive; surplus finances global investment; productive capacity generates sustained growth averaging 2-3% annually.<br><br>
-__Storage, Reserves & Buffering:__ Commercial credit sophisticated; Bank of England provides lender-of-last-resort function; commercial reserves adequate; working-class savings increasing through friendly societies and savings banks; buffering improved over earlier period.<br><br>
-__Exchange, Trade & Logistics:__ Free trade orthodoxy; Britain hub of global commerce; shipping dominance; railways and telegraph enable rapid commercial coordination; distribution networks mature and efficient.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold standard stable; pound sterling world reserve currency; joint-stock banking expands; limited liability (1855-56) enables capital formation; credit instruments sophisticated; working-class access to credit through pawnshops and informal lending.<br><br>
-__Surplus Extraction & Redistribution:__ Income tax permanent after 1842; tariffs minimal under free trade; government expenditure relatively low (under 10% GDP); Poor Law continues minimal redistribution; extraction load light by later standards.<br><br>
-__Wealth Distribution & Asset Defense:__ Land still concentrated but industrial and financial wealth creating new fortunes; middle class expands; working class gaining slightly; inequality high but not widening as rapidly as early industrial period; property rights robustly enforced.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste volume growing with output; sanitary infrastructure begins processing urban sewage; smoke nuisance recognized but unregulated; routing shifting from pure externalization toward partial treatment; waste load still growing faster than processing capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Friendly societies peak membership; cooperative movement (Rochdale Pioneers model) spreads; working-class mutuality institutionalized; trust radius extends within occupational and denominational networks; mid-Victorian "age of associations."<br><br>
-__Stratification, Status & Group Identity:__ Victorian class hierarchy stable — upper, middle, and working classes clearly demarcated by dress, speech, residence, and occupation; respectable working class distinguished from "residuum"; Irish remain ethnically marked; boundaries somewhat permeable through education and commerce.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family idealized; separate spheres ideology places women in domestic role; primogeniture persists for land; middle-class family a site of intensive emotional investment; domestic service employs millions of women.<br><br>
-__Civic Association & Self-Organization:__ Voluntary associations proliferate — churches, clubs, societies, unions, reform organizations; civic culture robust; municipal pride expressed through public buildings, parks, libraries; associational fabric dense and growing.<br><br>
-__Leisure, Play & Sociability:__ Codified sports emerge (Football Association 1863, rugby rules); music halls flourish; excursion trains enable seaside holidays; pub culture continues; Saturday half-holiday spreading; leisure increasingly commercialized.<br><br>
-__Grievance Channels & Social Discharge:__ Trade unions provide organized voice; franchise extension (1867) gives urban working-class men vote; emigration absorbs discontent; Irish grievance channeled through parliamentary agitation (Fenians suppressed); most social friction metabolized through institutional channels.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary sovereignty unchallenged; Crown largely ceremonial under Victoria; Cabinet government mature; Gladstone-Disraeli rivalry structures party politics; power diffusing slowly through franchise extension but still concentrated in propertied classes.<br><br>
-__Succession & Power Transfer:__ Victoria reigns throughout; ministerial succession orderly through parliamentary confidence; party alternation (Liberals/Conservatives) routinized; no succession crisis.<br><br>
-__Legitimacy & Political Narrative:__ Liberal narrative of progress through reform; imperial civilizing mission; constitutional continuity with gradual improvement; Disraeli's "One Nation" Toryism; legitimacy broadly accepted, challenged only by Irish nationalists and socialist fringe.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Civil service reform (Northcote-Trevelyan 1854) professionalizes administration; factory inspectors, poor law guardians, education inspectors extend state capacity; local government reformed; corruption declining; institutional integrity high.<br><br>
-__Political Participation & Mobilization:__ 1867 Reform Act doubles electorate, enfranchising urban working-class men; 1872 Ballot Act enables secret voting; political parties develop mass organization; participation widening significantly; women and agricultural laborers still excluded.<br><br>
-__Geopolitical Position & External Relations:__ Pax Britannica continues; no major European war; Crimean War (1853–56) before window, brief; imperial expansion in Africa and Asia; Indian Mutiny (1857) suppressed and administration reorganized; gunboat diplomacy maintains commercial access; geopolitical position dominant.<br><br>
-__Coercive Apparatus & Means of Force:__ Royal Navy supreme; small professional army adequate for colonial warfare; police forces established throughout; no major military threat to home islands; coercive capacity sufficient for imperial control and domestic order.<br><br>
-__Internal Order & Threat Environment:__ Fenian bombing campaign (1860s–70s) limited; industrial disputes contained; no major rebellion in Britain; Irish land agitation rises (Land League 1879); threat environment low by historical standards.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph transforms news transmission — Reuters (1851) and domestic network provide near-instantaneous communication; transatlantic cable (1866) connects to Americas; railways distribute printed matter within hours; velocity of news at historic high, approaching real-time for major events.<br><br>
-__Record, Storage & Persistence:__ Government archives, newspapers, commercial records, parliamentary proceedings provide comprehensive documentation; print runs increase; photographic record begins; storage and retrieval institutionalized; persistence robust.<br><br>
-__Framing, Censorship & Discourse Norms:__ Stamp duty abolished (1855), paper duty (1861) — cheap press enabled; no prior censorship; libel law constrains but does not suppress; discourse norms permit vigorous partisan debate; Obscene Publications Act (1857) regulates morality; discourse space widening.<br><br>
-__Reception, Attention & Amplification:__ Literacy near-universal among youth (Education Act 1870); penny press reaches mass audience; Daily Telegraph (1855) achieves mass circulation; working class now regular newspaper consumers; amplification through shared reading declining as individual copies affordable.<br><br>
-__Signal Integrity & Noise Load:__ Reuters and quality press provide verified news; sensationalism present but balanced by serious journalism; telegraph enables cross-checking; signal-to-noise ratio improving with professionalization of journalism; rumor less dominant than earlier period.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Victorian morality emphasizes duty, self-help, and respectability; fairness understood as rule-following and merit-based advancement; evangelical conscience influences penal reform; sense that law should protect all classes, though property rights foundational.<br><br>
-__Law, Codification & Regulatory Evolution:__ Common law continues; statute law expands — Factory Acts, Public Health Acts, Education Acts create regulatory framework; criminal law humanized (fewer capital offenses, prison reform); company law and contract law refined for commercial society.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts system reformed (Judicature Acts 1873–75 merge common law and equity); magistrates handle petty crime; enforcement capacity adequate; factory inspection meaningful; employers' liability developing but still limited; adjudication more accessible than earlier.<br><br>
-__Rights, Protections & Compliance Burden:__ Habeas corpus secure; jury trial; property rights robust; trade union rights clarified (1871, 1875); working hours regulated for women and children; compliance burden on business moderate; predictability high.<br><br>
-__Impunity & Unredressed Wrong:__ Industrial accidents still often uncompensated; domestic violence largely unpunished; Irish grievances accumulate despite legal reforms; impunity declining for business malpractice but persistent in private sphere; backlog reduced through court reform.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Darwin's Origin of Species (1859) transforms biology and reverberates through social thought; evolutionary paradigm spreading; physics advancing (thermodynamics, electromagnetism); social science emerging; positivist and empiricist methods dominant; discovery frontier active.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering professionalized; Bessemer steel process (1856), industrial chemistry, telegraph and cable technology represent frontier applications; technical education expanding through mechanics' institutes and technical colleges; method increasingly systematic.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Elementary education mandatory (1870) and free (1880); literacy near-universal for younger cohorts; secondary and university education expanding but still elite; technical skill more broadly distributed; knowledge stock growing rapidly through print, education, and institutional research.<br><br>
-__Obsolescence & Knowledge Decay:__ Pre-Darwinian natural theology losing ground; handcraft skills continue erosion; classical curriculum persists despite calls for scientific education; error-clearing accelerating through professional science; obsolete theory displaced within decades rather than generations.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Imperial destiny narrative; "Greater Britain" across the globe; Protestant constitution; Waterloo and Nelson as patriotic touchstones; Celtic nations maintain distinct identities within British framework; Indian Mutiny generates imperial anxiety and racial narratives.<br><br>
-__Artistic Expression & Material Culture:__ Realist novel (Dickens, Eliot, Trollope) dominant literary form; Pre-Raphaelites, later Aestheticism; Gothic and classical public architecture; photography enters visual culture; mass-produced consumer goods reshape material life; illustrated press.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mid-Victorian confidence — optimism about progress, improvement, and imperial mission; anxiety about urban disorder and moral decline contained by reform; mood stable and relatively buoyant; "equipoise" characterizes political and cultural temper.<br><br>
-__Form Exhaustion & Meaning Decay:__ Evangelical fervor routinizing into respectability; Romantic forms absorbed into mainstream; early signs of aesthetic reaction against industrial ugliness (Ruskin, Morris); meaning decay not pronounced — Victorian synthesis holds through the window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian theism still dominant but under pressure from Darwinism and biblical criticism; "honest doubt" emerges as respectable intellectual position; providentialist worldview persisting among majority; secularism growing among educated; existential outlook increasingly diverse.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Anglican church attendance declining in cities but still substantial; nonconformist chapel remains center of working-class and middle-class piety; Salvation Army (1865) and missions target urban poor; Sunday observance continues; devotional practice routine for majority.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Established Church wealthy but losing monopoly; Oxford Movement produces Anglo-Catholicism; nonconformist denominations powerful in Liberal politics; Catholic hierarchy re-established (1850) and serving Irish immigrants; doctrinal authority contested by science but institutional structures intact.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity remains hegemonic; Irish Catholicism consolidated in industrial cities; spiritualism and alternative movements attract fringe interest; no major syncretism; missionary Christianity exported through empire; secularism spreading among intellectuals but not mass phenomenon.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularizing drift among educated elites; working-class church attendance patchy; Darwin and science create intellectual disenchantment; Arnoldian "melancholy, long, withdrawing roar" of faith; disenchantment accumulating but majority still within Christian framework; sacred need redirected into imperial mission and progress narrative for some.<br><br>
+# __1850 CE – 1880 CE — Mid-Victorian Expansion and Telegraph Age__
+
+The binding constraint is the intersection of newly liberated print — stamp duty abolished (1855), paper duty repealed (1861) — with telegraph technology and railway distribution, which together create a mass penny press reaching unprecedented readerships while simultaneously accelerating news transmission to the pace of electrical signal. The most causal factor is the removal of the "taxes on knowledge" coinciding with near-universal male literacy and expanding female literacy, producing a commercially viable popular journalism that transforms the public sphere from elite periodical culture to mass daily consumption.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Railway network reaches essential completion by 1870, enabling same-day London newspaper delivery throughout England and Wales, next-day to Scotland and Ireland. Fleet Street consolidates as the metropolitan print center; provincial papers in Manchester, Birmingham, Leeds, Liverpool, and Glasgow serve regional markets while reprinting London news.
+
+__Climate Regime & Volatility:__ Stable mid-century climate supports agricultural productivity; no major harvest failures disrupt the period. Imperial operations expose print networks to tropical and arid climates — Indian Mutiny (1857), Zulu War (1879) — reported by telegraph and illustrated press.
+
+__Hazard Regime & Exposure:__ Crimean War (1853–1856) and subsequent imperial conflicts constitute the primary hazards engaging print attention; domestic hazards limited to industrial accidents and epidemic outbreaks (cholera 1853–1854, 1866) that public health reform begins to address.
+
+__Resource & Energy Endowment:__ Coal production peaks as the world's largest; iron and steel industries expand. Steam powers both railways and printing presses. Esparto grass and wood pulp supplement rags for paper manufacture, reducing costs.
+
+__Waste Absorption & Sink Capacity:__ Urban sanitary reform following cholera epidemics produces sewerage systems (Bazalgette's London works completed 1875); print publicizes public health campaigns. Industrial pollution of rivers and urban air continues largely unabated.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Public health improvements reduce cholera and typhoid mortality after the 1866 epidemic; infant mortality remains high but begins gradual decline. Life expectancy rises modestly.
+
+__Nutrition & Physiological Vitality:__ Repeal of Corn Laws (1846) and expanding global trade improve food supply; real wages rise from the 1850s. Adulteration of food becomes a press scandal; legislation follows (Food and Drugs Act 1860, 1875).
+
+__Care, Healing & Recovery Capacity:__ Voluntary hospitals expand; Poor Law infirmaries improve. Nightingale nursing reforms (from 1860) professionalize care. Medical press (British Medical Journal, Lancet) campaigns for sanitary reform and professional standards.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage rates stable; family limitation begins among middle classes. Obscenity prosecutions (Bradlaugh-Besant trial, 1877) publicize birth control while criminalizing advocacy.
+
+__Demographic Renewal & Density:__ Population continues rapid growth (England and Wales: ~18 million 1851 → ~26 million 1881). Urban concentration intensifies; London approaches 4 million. This expanding population constitutes the mass readership the penny press addresses.
+
+__Attrition & Dependency Overhang:__ Poor Law remains primary relief mechanism; elderly and disabled populations grow but dependency ratios remain manageable amid economic expansion.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Living standards rise for most workers; "cotton famine" (1861–1865) during American Civil War causes Lancashire distress but is weathered. Cheap bread, tea, and imported foods improve working-class diet.
+
+__Energy Capture & Conversion:__ Steam power universal in industry and transport; gas lighting extends working hours and enables evening newspaper reading. Electricity emerges experimentally but does not yet transform production.
+
+__Labor Organization & Coercion:__ Trade unions legalized (1871, 1875); skilled craft unions (Amalgamated Society of Engineers, etc.) consolidate. TUC founded (1868). Labor press serves union readership; Reynolds's News, Bee-Hive.
+
+__Production & Surplus Capacity:__ Industrial output continues expansion; Britain remains the "workshop of the world" through the 1870s, though German and American competition emerges. Newspaper circulation grows from hundreds of thousands to millions.
+
+__Storage, Reserves & Buffering:__ Bank of England manages gold standard effectively; financial crises (Overend Gurney 1866) contained. Government debt reduced through surplus budgets; fiscal space ample.
+
+__Exchange, Trade & Logistics:__ Free trade orthodoxy prevails; global commerce expands. Suez Canal (1869) accelerates Eastern trade. Reuters and telegraph services link global commodity markets; market prices reported daily in press.
+
+__Value Storage, Credit & Deferred Exchange:__ Sterling as global reserve currency; London the world's financial center. Joint-stock banking expands; limited liability (1855, 1862) enables corporate capitalism including in press enterprises.
+
+__Surplus Extraction & Redistribution:__ Abolition of newspaper stamp (1855), advertisement duty (1853), and paper duty (1861) constitutes the decisive fiscal change, reducing newspaper production costs by half or more and enabling penny dailies.
+
+__Wealth Distribution & Asset Defense:__ Mid-Victorian prosperity distributes gains broadly if unequally; skilled workers accumulate savings, join friendly societies, purchase newspapers. Property remains concentrated but social mobility visible.
+
+__Byproducts & Waste Routing:__ Industrial waste continues to accumulate; rivers polluted, urban air smoky. Sanitary reform addresses human waste; industrial effluent largely unregulated.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patriarchal family structure prevails; married women's property reforms (1870, 1882) begin altering legal subordination. Inheritance patterns stable; primogeniture persists among landed classes.
+
+__Association & Mutual Aid:__ Friendly societies peak in membership (4+ million by 1872); cooperative societies expand (Cooperative Wholesale Society 1863). Working men's clubs, mechanics' institutes, and temperance societies proliferate, all consuming print.
+
+__Leisure, Play & Sociability:__ Saturday half-holiday spreads; Bank Holidays (1871) created. Football codified (FA 1863); cricket popularized. Sporting press emerges; Bell's Life, Sporting Life.
+
+__Stratification, Status & Group Structure:__ "Respectable" working class distinguished from "rough"; middle-class expansion. Aristocratic political dominance erodes but social prestige persists. Second (1867) and Third (1884) Reform Acts expand electorate.
+
+__Administrative Capacity & Institutional Integrity:__ Civil service reforms (Northcote-Trevelyan 1854) create meritocratic bureaucracy. Municipal government expands functions (gas, water, sanitation). Empire administered through India Office, Colonial Office; print transmits administrative intelligence.
+
+__Coercive Apparatus & Means of Force:__ Army reformed following Crimean exposure of incompetence; Cardwell reforms (1868–1874) modernize. Navy maintains global supremacy. Domestic policing routinized; political repression minimal amid prosperity.
+
+__Discharge, Disorder & Decay:__ Hyde Park riots (1866) preceding Reform Act; Fenian bombing campaign (1867–1885) represents Irish nationalist violence. Industrial disputes increase but rarely violent. Overall, domestic order maintained; imperial conflicts generate most disorder but occur at distance.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Mid-Victorian confidence, imperial pride, and faith in progress characterize public mood. The "Victorian values" of self-improvement, respectability, and earnestness pervade middle-class and aspirational working-class culture.
+
+__Leadership & Personal Authority:__ Palmerston (d. 1865) embodies confident nationalism; Gladstone and Disraeli dominate subsequent decades as rival tribunes with contrasting styles — moral earnestness versus theatrical imperialism. Newspaper proprietors (Delane at The Times, Levy at Telegraph) wield significant influence.
+
+__Legitimacy as Lived Allegiance:__ Constitutional monarchy under Victoria commands broad loyalty; Reform Acts extend legitimacy by incorporating wider electorate. Irish and some working-class disaffection persists but does not threaten stability.
+
+__Political Will & Collective Resolve:__ Reform movements achieve legislative success (education, public health, labor law); political will channeled through parliamentary process. No revolutionary challenge; Chartism's failure accepted.
+
+__External Relations & Posture:__ Imperial expansion continues — India firmly controlled after 1857 Mutiny, Africa penetrated. Non-intervention in European conflicts after Crimea; "splendid isolation" emerging. Press celebrates imperial victories, mourns setbacks.
+
+__Disaffection, Apathy & Spent Will:__ Irish nationalism sustains disaffection; Fenian movement attempts armed action. English working-class radicalism attenuated by prosperity and reform; trade-union economism replaces political agitation. Apathy among those still excluded from franchise.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy approaches universality among younger cohorts; Forster Education Act (1870) establishes state elementary education. Penny newspapers assume literate readership across classes.
+
+__Channels & Transmission Velocity:__ Telegraph transforms news speed — Crimean War reported within hours, not weeks. Atlantic cable (1866) links British and American news. Reuters (from 1851) provides international news to subscribing newspapers. Railways distribute papers nationwide overnight.
+
+__Record, Storage & Persistence:__ British Museum Library, Public Record Office, and university libraries preserve print archive. Newspaper indexes and clipping services emerge. Company registration creates public record of corporate press ownership.
+
+__Framing, Censorship & Discourse Norms:__ Pre-publication censorship absent; blasphemy, sedition, and obscenity prosecutions continue but decline. Parliamentary reporting fully established; W.T. Stead and "New Journalism" (emerging late in period) push sensationalism's boundaries.
+
+__Reception, Attention & Amplification:__ Mass readership transforms newspaper economics — advertising revenue exceeds cover price revenue, enabling cheaper papers with larger circulations. Daily Telegraph reaches 200,000+ circulation by 1870; Lloyd's Weekly News exceeds 500,000.
+
+__Signal Integrity & Noise Load:__ Telegraph creates new verification challenges — rumors transmit as fast as facts. Press Association (1868) provides shared domestic news service, standardizing reporting. Multiple competing newspapers enable cross-checking.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Victorian moral consensus emphasizes duty, self-help (Smiles, 1859), and improvement. Evangelical conscience persists in campaigns against slavery (ongoing in other nations), vice, and cruelty.
+
+__Law, Codification & Regulatory Evolution:__ Consolidation of statute law continues; criminal law codification attempted. Trade union law reformed (1871, 1875), legalizing collective action. Education, public health, and factory legislation expand regulatory state.
+
+__Adjudication, Liability & Sanction:__ County courts (from 1846) provide accessible civil justice; summary jurisdiction expanded. Capital punishment restricted to murder; prison reform under way. Press reports trials, creating accountability.
+
+__Rights, Protections & Compliance Burden:__ Franchise expanded (1867: urban householders; 1884: rural); secret ballot (1872) protects voter independence. Women's suffrage agitation begins (Mill's amendment, 1867). Press reports and debates rights expansions.
+
+__Impunity & Unredressed Wrong:__ Irish grievances (land, religion, Home Rule) represent the major unredressed wrong. Imperial subjects lack metropolitan rights. Domestic impunity for industrial accidents, unsafe housing largely persists despite reform legislation.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Darwin's Origin of Species (1859) transforms biological thought; controversy plays out in reviews, periodicals, and pamphlets. Mill's political economy, Spencer's sociology, and emerging social science circulate through print.
+
+__Applied Knowledge & Technical Method:__ Engineering triumphs — telegraph cables, railways, steamships, Bessemer steel — embody applied science. Technical journals multiply; practical knowledge widely distributed.
+
+__Education, Knowledge Stock & Skill Distribution:__ Elementary education extended by 1870 Act; secondary and university education remain class-stratified. Mechanics' institutes decline as formal education expands. Technical education lags continental rivals.
+
+__Obsolescence & Knowledge Decay:__ Hand-setting and hand-press skills begin declining as steam printing spreads; compositors' craft persists but under pressure. Biblical literalism challenged by geology and evolution; theological adjustments follow.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Victorian identity combines imperial mission, constitutional liberty, industrial prowess, and Christian civilization. Crimean War, Indian Mutiny, and subsequent imperial conflicts provide heroic narratives. Great Exhibition (1851) celebrates national achievement.
+
+__Legitimating Narrative & Ideology:__ Progress ideology — material, moral, and political improvement — dominates. Whig interpretation of history presents constitutional development as teleological progress. Free trade justified as benefit to all nations.
+
+__Artistic Expression & Material Culture:__ Gothic Revival in architecture; Pre-Raphaelite painting; sensation novel (Collins, Braddon) in fiction. Illustrated London News and other illustrated papers bring visual culture to mass audience. Crystal Palace embodies confidence in industrial modernity.
+
+__Form Exhaustion & Meaning Decay:__ High Victorian cultural confidence intact through this period; exhaustion and doubt emerge more clearly in 1880s–1890s. Religious doubt visible but not yet dominant cultural note.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christian theism remains dominant but Darwinian challenge provokes anxiety. Essays and Reviews (1860) controversy exposes theological division. Broad Church accommodations, evangelical persistence, and agnostic questioning coexist.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance remains high, especially among middle classes. Nonconformity strong in Wales, industrial towns. Ritualist controversy in Church of England; Oxford Movement's Catholic tendency alarming to evangelicals.
+
+__Religious Institutions & Doctrinal Authority:__ Church of England disestablished in Ireland (1869); elsewhere establishment intact but pluralism accepted. Nonconformist political influence peaks; Liberation Society campaigns against established church.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Mission expansion accompanies empire; missionary societies publish extensively. Spiritualism attracts following; theosophical currents emerging. Secularism organized (National Secular Society 1866) but marginal.
+
+__Disenchantment & Sacred Discharge:__ Doubt and loss of faith visible in intellectual circles (Arnold, Eliot, Leslie Stephen); not yet mass phenomenon. "Sea of Faith" (Arnold's Dover Beach, 1867) captures elegiac sense of religious recession among some educated Victorians, but churches remain full and religious publishing thrives.

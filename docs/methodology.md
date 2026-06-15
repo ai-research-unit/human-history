@@ -48,17 +48,9 @@ As mass, simultaneous media build large integrated public spheres, the meaningfu
 
 ## 5. The article structure
 
-Each region holds a set of articles, each a Historical Context: a large-scale operational state of a human system. Every article is mapped across the same ten orthogonal domains, in order:
+Each region holds a set of articles, each a Historical Context: a large-scale operational state of a human system. Every article is mapped across the same ten domains, in order:  D01. Physical, D02. Biological, D03. Economic, D04. Social, D05. Emotional, D06. Informational, D07. Moral, D08. Intellectual, D09. Cultural, D10. Spiritual.
 
-physical, biological, economic, social, political, informational, judicial, intellectual, cultural, spiritual.
-
-Each domain is read dynamically — not as a static inventory but as stocks, flows, pressures, and the ratio of capacity to load — and each closes on a residue line: the discharge it throws off (waste, grievance, noise, disorder, decay) and whether that residue is cleared or left to accumulate. Articles come in three modes, chosen to fit the subject:
-
-- **Snapshot** — a society's state at a fixed point or narrow frame.
-- **Event** — a rapid turning point, bracketed from rupture to settling.
-- **Trend** — a multi-generational shift with no single flashpoint.
-
-(A fourth, speculative mode is admitted only for the projected AI stage, which is part forecast.)
+Each domain is read dynamically — not as a static inventory but as stocks, flows, pressures, and the ratio of capacity to load — and each closes on a residue line: the discharge it throws off (waste, grievance, noise, disorder, decay) and whether that residue is cleared or left to accumulate. 
 
 The Informational domain records what the society's information actually ran on, consistent with the stage. A late Oral-Stage article may therefore note that external written records *existed* while still identifying speech as the medium public life ran on, because the stage tracks the dominant substrate, not everything merely present.
 
@@ -77,6 +69,5 @@ The pipeline is run with AI:
 This separation of generation from verification is deliberate: a model checking its own work inherits its own blind spots.
 
 AI Research Unit: [GitHub](https://ai-research-unit.github.io/) - [GitLab](https://a-i-research-unit.gitlab.io/) - [Codeberg](https://ai-research-unit.codeberg.page/)
-
 
 

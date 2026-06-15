@@ -1,69 +1,139 @@
-# __1700 CE – 1796 CE__ — Enlightenment and Reform in Divided Italy
-__Summary:__ Long-term trend covering the Italian peninsula under Austrian, Spanish, and Savoyard fragmentation as Enlightenment ideas circulate through reform journals, Masonic lodges, and administrative experiments; the binding constraint is political fragmentation preventing coordinated reform while exposing each state to external dictation; margin against shock is moderate given relative peace but economic stagnation limits fiscal buffers; principal direction is gradual intellectual and administrative modernization without structural political change.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The peninsula's north-south spine and Alpine-Mediterranean gradient impose persistent regional differentiation; Po Valley accessible, Apennine traversal slow, maritime connections easier than interior roads; no unified transport system under fragmented sovereignties.<br><br>
-__Climate Regime & Volatility:__ Mediterranean regime prevails with hot dry summers and mild wet winters; northern areas cooler and wetter; interannual variability moderate; no major secular drift during the window though periodic droughts stress southern agriculture.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk persists especially in southern Apennines; 1783 Calabria earthquakes cause catastrophic damage and tens of thousands of deaths; volcanic exposure at Vesuvius ongoing; flood risk in Po basin requires continuous levee maintenance; margin against acute shocks limited in affected zones.<br><br>
-__Resource & Energy Endowment:__ Limited timber in accessible stands, modest mineral deposits, no significant coal; marble and building stone adequate; energy base remains agrarian with some waterpower in northern streams; endowment constrains industrial ambitions relative to Atlantic competitors.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban sanitation primitive in Naples and Rome; effluent into rivers and harbors; pre-industrial waste volumes manageable; absorptive capacity not yet stressed; degradation localized to dense urban and tanning districts.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria in southern marshes and Pontine region; periodic typhus and smallpox outbreaks; baseline mortality high especially in Naples; no major plague pandemic after 1656–1657 epidemic; trend slowly improving through the century but southern burden persists.<br><br>
-__Nutrition & Physiological Vitality:__ Maize and grain staples adequate in north; southern diet often deficient especially during drought years; pellagra emerging among maize-dependent peasants; stature and robustness moderate; vitality improving slightly with relative peace but no transformation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility constrained by late marriage in many regions; ecclesiastical marriage norms enforced; wet-nursing among elites; foundling hospitals absorb illegitimate births; no major change in reproductive patterns during the window.<br><br>
-__Demographic Renewal & Density:__ Population recovering from seventeenth-century losses; growth modest at roughly 0.3–0.5% annually; density highest in Naples (largest European city), moderate in northern cities, sparse in rural south; migration limited mostly seasonal and internal.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and aged absorbed by extended family and religious charity; foundling hospitals overburdened especially in Naples and Milan; dependency load manageable within traditional structures but not declining.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain, wine, olive oil form subsistence base; northern sharecropping mezzadria provides stability; southern latifundia less secure for laborers; famine rare but dearth years recur; household pooling through extended family and village networks buffers shortfalls.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle predominate; watermills on northern streams power grain and textile processing; firewood and charcoal for heat and smithing; no coal-based mechanization; per-capita work ceiling static and low by Atlantic standards.<br><br>
-__Labor Organization & Coercion:__ Sharecropping in center-north, wage labor and near-serfdom in southern latifundia; guild restrictions persist in urban trades; corvee obligations declining; coercion moderate, compensation low; gradual juridical reforms in Lombardy and Tuscany lighten feudal burdens.<br><br>
-__Production & Surplus Capacity:__ Silk in Piedmont and Lombardy; wool textiles declining; luxury goods in Florence; agricultural surplus limited by fragmented markets and primitive transport; no industrial takeoff; surplus flows to landlords, church, and foreign overlords.<br><br>
-__Storage, Reserves & Buffering:__ Communal granaries in some cities; aristocratic and ecclesiastical stockpiles; no coordinated state reserves; insurance and credit instruments underdeveloped; buffer against supply shocks thin, dependent on good harvests and foreign grain imports in emergencies.<br><br>
-__Exchange, Trade & Logistics:__ Internal customs barriers impede trade; Genoa and Leghorn handle transit commerce; Venice declining; roads poor except in Austrian Lombardy where reform administration improves infrastructure; market integration limited by political fragmentation.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver and copper coinage circulates; multiple currencies complicate exchange; banking weak except in Genoa; credit networks centered on Jewish moneylenders and merchant houses; no stock exchanges; capital formation slow; debased and varied coinages erode purchasing power.<br><br>
-__Surplus Extraction & Redistribution:__ Church tithes, seigneurial dues, state taxes layer extraction; reform states like Lombardy attempt rationalization and cadastral surveys; Papal States and Naples retain archaic fiscal systems; extraction burden heavy on peasantry relative to productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentrated in noble and ecclesiastical hands; primogeniture preserves estates; bourgeois wealth modest; fideicommesso entails lock holdings; inequality high and stable; no leveling trend; asset defense through legal privilege and church sanctuary.<br><br>
-__Byproducts & Waste Routing:__ Tanning, dyeing, and urban refuse deposited locally; no industrial-scale emissions; waste volumes pre-industrial; routing dispersed into waterways and fields; no systemic toxicity crisis.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends through kin, village, parish, and guild; confraternities provide mutual aid and burial insurance; campanilismo (local loyalty) strong; trust across regional and class lines limited; radius stable, not expanding.<br><br>
-__Stratification, Status & Group Identity:__ Three orders persist: nobility, clergy, commoners; urban patriciate closed in most cities; regional identities strong; factional alignments muted under foreign rule; boundaries rigid though Enlightenment reformers critique hereditary privilege theoretically.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal extended families predominate; marriage arranged for alliance and property; primogeniture in nobility, partible inheritance among peasants varies regionally; family as economic and social unit; no structural change during window.<br><br>
-__Civic Association & Self-Organization:__ Guilds persist but declining in power; Masonic lodges emerge as elite sociability venues; academies and learned societies multiply; confraternities remain vital; associational fabric thickening among educated elites, stable among populace.<br><br>
-__Leisure, Play & Sociability:__ Opera houses flourish as elite gathering spaces; carnival persists with church tolerance; coffee houses spread Enlightenment conversation in Milan and Naples; popular festivals tied to religious calendar; leisure class-stratified but expanding cultural production.<br><br>
-__Grievance Channels & Social Discharge:__ Petition to overlords, church mediation, carnival inversion provide outlets; bread riots occur during dearth but repressed; no institutional reform channel for popular grievance; emigration not yet a mass safety valve; unmetabolized friction low in relative stability but accumulating in south.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Fragmentation defines the peninsula: Austrian Lombardy under Habsburg reform administration; Spanish then Austrian Naples; Papal States under theocratic rule; Piedmont-Sardinia under Savoyard absolutism; Venice and Genoa declining republics; Tuscany under Austrian-aligned reformers; power concentrated in each unit but no peninsula-wide authority; trend toward administrative rationalization in reform states.<br><br>
-__Succession & Power Transfer:__ Dynastic succession in monarchies routinized; War of Spanish Succession and War of Polish Succession redistribute Italian territories via external treaties; internal succession stable; papal conclaves transfer Papal States authority; no domestic succession crises during window.<br><br>
-__Legitimacy & Political Narrative:__ Divine right and traditional order justify rule; reform princes adopt Enlightenment rhetoric of rational administration and public welfare; Beccaria and Verri articulate reform legitimacy; belief eroding among educated elites but mass loyalty to church and dynasty persists.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Austrian Lombardy achieves cadastral survey and rationalized taxation; Tuscany under Leopold reforms legal codes; Naples attempts reform under Tanucci; Papal States remain administratively archaic; capacity uneven; corruption endemic in unreformed states; decision-access monopolized by small elites.<br><br>
-__Political Participation & Mobilization:__ No popular participation; reform debate confined to journals, academies, and court circles; no parties or elections; dissent channeled through petition and manuscript circulation; no mass mobilization; channels essentially closed to all but elite reformers.<br><br>
-__Geopolitical Position & External Relations:__ Italy as object not subject of great-power diplomacy; Austrian and Spanish Bourbons dictate territorial arrangements; French and Austrian competition shapes peninsula; Piedmont maneuvers for advantage; no Italian state commands independent weight; external pressure constant but not militarily acute after Utrecht settlement.<br><br>
-__Coercive Apparatus & Means of Force:__ Small standing armies in each state; Austrian garrisons in Lombardy; fortifications obsolescent; police limited; command concentrated in dynastic rulers; no military innovation; force adequate for internal order, insufficient against great-power intervention.<br><br>
-__Internal Order & Threat Environment:__ Brigandage endemic in southern mountains and Papal States; urban crime manageable; no major rebellion during window; secret societies not yet organized; order maintained through traditional coercion and accommodation; margin adequate in period of relative stability.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print remains primary channel; postal services connect major cities; couriers and diplomatic pouches carry sensitive information; velocity days to weeks across peninsula; reach extends to literate elites, not mass population; gradual improvement in postal regularity under reform administrations.<br><br>
-__Record, Storage & Persistence:__ State archives expand under reform administration; Austrian cadastral surveys create new documentary base; church registers persist; libraries and academies accumulate printed works; record persistence improving; retrieval dependent on archival access granted by authorities.<br><br>
-__Framing, Censorship & Discourse Norms:__ Ecclesiastical censorship continues through Index and Inquisition but enforcement relaxing in reform states; Lombardy and Tuscany permit reform journals like Il Caffe; Papal States maintain stricter control; discourse norms widening among elites but taboos on attacking church and throne persist; permitted band expanding unevenly.<br><br>
-__Reception, Attention & Amplification:__ Literate elite audience small; coffeehouses and academies amplify texts through conversation; Il Caffe and similar journals create proto-public sphere; attention concentrated on practical reform topics; amplification through personal networks and correspondence; no mass readership.<br><br>
-__Signal Integrity & Noise Load:__ Information volume low; verification through scholarly apparatus and reputation; classical and legal citation provides authority; noise from rumor and superstition persists in popular culture; signal-to-noise adequate within elite sphere; no capacity crisis.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Traditional Catholic morality shapes conscience; justice understood through divine law and natural law frameworks; Enlightenment introduces utilitarian and humanitarian critiques; Beccaria's On Crimes and Punishments 1764 articulates new justice conception; foundations shifting among educated elites, traditional among masses.<br><br>
-__Law, Codification & Regulatory Evolution:__ Roman law tradition persists; fragmented jurisdictions with overlapping ecclesiastical, feudal, and state courts; reform states attempt codification; Leopold's Tuscany abolishes torture and death penalty 1786; legal evolution accelerating in reform territories, stagnant in Papal States and Naples.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts slow, expensive, corrupt in unreformed states; ecclesiastical courts retain jurisdiction over clergy and marriage; liability assignment uncertain across jurisdictions; reform states streamline procedures; throughput inadequate everywhere but improving in Lombardy and Tuscany.<br><br>
-__Rights, Protections & Compliance Burden:__ No formal rights declarations; subjects dependent on sovereign grace; arbitrary imprisonment persists though reform states reduce it; compliance burden heavy under overlapping jurisdictions and archaic regulations; predictability low outside reform territories.<br><br>
-__Impunity & Unredressed Wrong:__ Noble and clerical privilege ensures impunity; ecclesiastical immunity protects wrongdoers; backlog chronic; wrongful imprisonment common; reform states reduce impunity marginally; standing gap between justice owed and delivered large and not closing in unreformed territories.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Newtonian physics accepted; natural history flourishing; Enlightenment empiricism and rationalism dominate elite inquiry; Beccaria applies utilitarian analysis to criminal law; Galvani experiments with electricity; discovery frontier at European level accessed through correspondence and travel; no autonomous Italian paradigm but active participation in Enlightenment discourse.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural improvement theories circulate; cadastral surveying advances; medical inoculation discussed; technical methods improving slowly; silk production techniques refined; no industrial breakthrough; technique adequate for agrarian economy, lagging Atlantic competitors.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities at Bologna, Padua, Pisa persist; Jesuit colleges educate elites until 1773 suppression; literacy low (perhaps 20-25% in north, lower in south); knowledge concentrated in clergy and nobility; skill distribution narrow; stock preserved in libraries and academies; no mass education system.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic philosophy declining in universities; superstition persisting among populace; Enlightenment critique clearing some dead theory; Jesuit suppression disrupts educational continuity; decay and renewal in tension; no catastrophic loss but no acceleration of clearing either.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Roman heritage and Renaissance glory form mythic background; local and regional identities primary; no unified Italian national identity; campanilismo and city-state memories dominate; historic trauma of foreign domination acknowledged but not mobilized politically; bedrock regional not national.<br><br>
-__Artistic Expression & Material Culture:__ Late Baroque transitioning to Neoclassicism; opera flourishing with Metastasio, Pergolesi, and later Mozart in Italian style; Tiepolo, Canaletto in painting; Grand Tour brings foreign patrons; material culture refined for aristocratic consumption; aesthetic conventions European-integrated.<br><br>
-__Collective Mood & Behavioral Disposition:__ Relative stability breeds quiescence; reform optimism among elites; fatalism among peasantry; no revolutionary ferment; mood stable, neither darkening nor lifting dramatically; risk-averse disposition under foreign domination and church authority.<br><br>
-__Form Exhaustion & Meaning Decay:__ Baroque forms hollowing into convention; commedia dell'arte formulaic; religious ritual routine but still meaningful for masses; some anomie among skeptical elites; Enlightenment provides new forms for elite meaning-making; exhaustion and renewal in tension; no crisis of meaning at mass level.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology dominant; afterlife central to peasant worldview; educated elites increasingly deist or skeptical; materialist philosophy circulating in manuscript; balance shifting toward secular outlook among intellectuals; fatalism tempered by Enlightenment agency among reformers; mass piety persisting.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sacramental calendar structures life; pilgrimage, procession, and feast days maintain communal rhythm; confession and communion expected; relics and saints venerated; devotional infrastructure dense; practice stable at popular level, declining among skeptical elites.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Papacy temporally weakened but doctrinally authoritative; bishops enforce discipline; religious orders numerous; Jesuit suppression 1773 removes major institutional actor; monasteries and convents face criticism; institutional power declining relative to reform states but still immense; doctrinal orthodoxy enforced against Jansenists and skeptics.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism unchallenged territorially; no Protestant presence; popular religion blends official doctrine with local practices; Enlightenment deism and skepticism diffusing through elite networks; Masonic lodges spread heterodox spirituality; syncretism at elite level, orthodoxy persisting at mass level.<br><br>
-__Disenchantment & Sacred Discharge:__ Elite disenchantment advancing; salon skepticism fashionable; church authority questioned in reform circles; existential void among deists managed through Enlightenment humanism and reform projects; mass population retains sacred worldview; disenchantment sectoral not general; sacred need redirected to civic improvement among reformers.<br><br>
+# __1700 CE – 1796 CE — Enlightenment and Reform in Divided Italy__
+
+The Italian peninsula remained politically fragmented under foreign hegemony while a small cosmopolitan elite produced and consumed reform literature that circulated through journals and treatises, yet the binding constraint was the limited reach of print culture beyond educated urban circles combined with ecclesiastical censorship that constrained both production and reception. The most causal factor was the Habsburg and Bourbon reforming impulse that opened selective space for Enlightenment discourse while maintaining dynastic control over how far reform could actually proceed.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The peninsula's division into multiple states imposed customs barriers, separate postal systems, and competing jurisdictions that fragmented the potential reading public even as roads improved and postal routes multiplied under reforming administrations in Lombardy and Tuscany.
+
+__Climate Regime & Volatility:__ Mediterranean climate with adequate rainfall in the north supported prosperous agriculture while southern regions experienced periodic drought; no major climatic shifts during the period, though volcanic activity at Vesuvius (1737, 1760, 1794 eruptions) punctuated Neapolitan life.
+
+__Hazard Regime & Exposure:__ Seismic vulnerability remained acute, with the 1783 Calabrian earthquake sequence killing over 30,000 and devastating Messina, prompting Bourbon reconstruction efforts and early scientific seismological study.
+
+__Resource & Energy Endowment:__ Water power drove silk mills in Lombardy; coal remained negligible. Timber from Alpine foothills supplied Venice's shipyards and urban construction. Agricultural productivity varied sharply between irrigated northern plains and southern latifundia worked extensively.
+
+__Waste Absorption & Sink Capacity:__ Urban sanitation remained pre-modern; Naples notoriously overcrowded and insalubrious. Marshlands drained in Tuscany under Leopold improved conditions but created localized ecological stress.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague receded after the 1720 Marseille outbreak failed to penetrate Italy. Smallpox remained endemic; inoculation spread slowly among elites. Malaria persisted in coastal lowlands and the Pontine marshes.
+
+__Nutrition & Physiological Vitality:__ Maize cultivation spread through the north, providing calories but contributing to pellagra among those dependent on polenta. Southern peasants subsisted on bread, vegetables, and legumes; meat remained rare.
+
+__Care, Healing & Recovery Capacity:__ Hospital reform accompanied Enlightenment administration; Leopold restructured Tuscan hospitals on rational lines. Medical faculties trained physicians while popular healing remained in the hands of empirics, midwives, and barber-surgeons.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns followed regional custom; late marriage in northern sharecropping areas, earlier in the south. Ecclesiastical regulation of marriage persisted despite reformist criticism of monastic celibacy.
+
+__Demographic Renewal & Density:__ Population grew from approximately 13 million to 18 million across the peninsula, with Naples the largest city. Growth concentrated in Lombardy and Piedmont; the south grew more slowly.
+
+__Attrition & Dependency Overhang:__ High infant mortality persisted; dependency concentrated among urban poor and rural elderly where extended family structures strained under demographic pressure.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Grain remained the staple; government granaries and price controls (annona) aimed to prevent famine. Bread riots punctuated bad harvests but general provisioning improved through the century.
+
+__Energy Capture & Conversion:__ Human and animal muscle powered most production. Water mills processed grain and drove silk throwing machines. Wind powered drainage in reclamation projects.
+
+__Labor Organization & Coercion:__ Serfdom had disappeared but sharecropping (mezzadria) in Tuscany and day labor in the south kept peasants subordinate. Urban guilds weakened under reformist attack; wage labor expanded in manufacturing.
+
+__Production & Surplus Capacity:__ Lombardy led in silk production for export; Piedmont developed wool textiles. Southern agriculture remained extensive, exporting grain and olive oil but generating limited surplus for reinvestment.
+
+__Storage, Reserves & Buffering:__ State granaries and charitable monte di pietà provided some buffer. Dynastic treasuries remained modest; Austrian Lombardy and Bourbon Naples both struggled with chronic deficits.
+
+__Exchange, Trade & Logistics:__ Internal trade hampered by state fragmentation. Livorno functioned as a free port; Venice's Mediterranean trade declined relative to Atlantic powers. Road improvement programs proceeded unevenly.
+
+__Value Storage, Credit & Deferred Exchange:__ Genoa remained a banking center; monti di pietà provided small-scale credit. No central banks existed; coinage varied by state, complicating commerce.
+
+__Surplus Extraction & Redistribution:__ Tax reform constituted a central Enlightenment project. Cadastral surveys in Lombardy and Tuscany aimed to rationalize assessment. Church property exemptions drew reformist criticism.
+
+__Wealth Distribution & Asset Defense:__ Land remained the primary asset, concentrated among nobility and Church. Primogeniture and entail protected aristocratic estates; reformers attacked mortmain as economically stagnant.
+
+__Byproducts & Waste Routing:__ Urban waste disposal remained primitive; night soil removal contracted to farmers for fertilizer. Industrial effluent from silk and tanning operations polluted waterways locally.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Aristocratic families maintained entailed estates; bourgeois households practiced partible inheritance. The reformist attack on ecclesiastical jurisdiction over marriage began shifting family law toward state control.
+
+__Association & Mutual Aid:__ Confraternities provided charity and burial services. New sociability forms emerged: Masonic lodges, academies, and reading societies (gabinetti di lettura) created spaces for elite exchange outside traditional corporate bodies.
+
+__Leisure, Play & Sociability:__ Opera flourished as the characteristic Italian entertainment, with new theaters built across major cities. Carnival persisted; caffè culture spread, modeling Parisian salon sociability.
+
+__Stratification, Status & Group Structure:__ Nobility retained legal privilege but reformers challenged aristocratic tax exemption. An educated bourgeoisie of lawyers, physicians, and merchants grew in northern cities. Peasantry remained the overwhelming majority, largely illiterate.
+
+__Administrative Capacity & Institutional Integrity:__ Reforming administrations in Lombardy (under Maria Theresa and Joseph II) and Tuscany (under Leopold) built more effective bureaucracies. Naples attempted reform under Charles III and his ministers. Papal administration remained inefficient; Venetian oligarchy ossified.
+
+__Coercive Apparatus & Means of Force:__ Standing armies remained modest. Austrian forces garrisoned Lombardy. Internal policing weak; brigandage persisted in the south. Beccaria's critique of torture and capital punishment influenced penal reform in Tuscany.
+
+__Discharge, Disorder & Decay:__ Brigandage endemic in the south; urban crime addressed through improved policing in reforming states. Riots over bread prices or new taxes occurred sporadically. Venice's republican institutions decayed without reform.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Optimism characterized reforming circles; the philosophes' faith in progress permeated correspondence and journals. Popular sentiment remained localized; attachment to dynasty, city, and parish rather than any Italian nation.
+
+__Leadership & Personal Authority:__ Enlightened despots commanded reformist allegiance: Leopold of Tuscany as the model prince, Charles III of Naples before his Spanish succession. Italian philosophes (Beccaria, Verri, Filangieri) achieved European reputation.
+
+__Legitimacy as Lived Allegiance:__ Dynastic legitimacy remained intact; reformers sought to improve rather than overthrow. Popular allegiance flowed to local rulers, Church, and traditional institutions. No revolutionary sentiment emerged before 1789.
+
+__Political Will & Collective Resolve:__ Reform proceeded from above; no mass mobilization occurred. Reforming ministers required sovereign backing to overcome vested interests. Joseph II's overreach produced backlash.
+
+__External Relations & Posture:__ Italian states functioned as objects rather than subjects of great-power diplomacy. Austrian and Spanish Bourbons competed for influence. Venice attempted neutrality but could not defend its Adriatic position.
+
+__Disaffection, Apathy & Spent Will:__ Elite frustration with censorship and ecclesiastical obstruction found expression in correspondence and coded print. Popular discontent remained episodic and non-ideological; spent will accumulated where reform promised but failed to deliver.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Italian served as the literary language; dialects prevailed in speech. Literacy concentrated among clergy, nobility, and urban professionals; peasant illiteracy near universal. French functioned as the language of cosmopolitan exchange.
+
+__Channels & Transmission Velocity:__ Postal services improved under reform administrations. Gazettes multiplied; journals like Il Caffè (Milan, 1764–1766) circulated reform ideas. Manuscript circulation persisted for heterodox works avoiding censorship.
+
+__Record, Storage & Persistence:__ Archives expanded under reforming administrations building cadastres and administrative records. Libraries remained ecclesiastical or aristocratic; no public library system existed.
+
+__Framing, Censorship & Discourse Norms:__ Ecclesiastical censorship through the Index and Inquisition constrained publication. Venice maintained relative press freedom; Tuscany liberalized under Leopold. Self-censorship pervasive; controversial works published abroad (Holland, Switzerland) and smuggled.
+
+__Reception, Attention & Amplification:__ Reading publics remained small; perhaps 2–3% of the population. Gabinetti di lettura allowed shared access. Works like Beccaria's Dei delitti e delle pene achieved European circulation and influenced policy abroad before transforming Italian practice.
+
+__Signal Integrity & Noise Load:__ Censorship created information asymmetry; elites accessed forbidden works while popular understanding remained filtered through Church teaching. No systematic surveillance of correspondence existed, but caution prevailed.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Enlightenment discourse emphasized utility, humanitarianism, and natural rights. Beccaria's argument against torture and proportionality in punishment crystallized reformist jurisprudence. Popular morality remained rooted in Catholic teaching and local custom.
+
+__Law, Codification & Regulatory Evolution:__ Legal reform proceeded unevenly. Leopold's Tuscan code (1786) abolished torture and death penalty. Lombard reforms codified administrative law. Roman law tradition persisted alongside local statute; no unified civil code.
+
+__Adjudication, Liability & Sanction:__ Courts remained fragmented among royal, ecclesiastical, baronial, and communal jurisdictions. Reformers attacked jurisdictional confusion and procedural cruelty. Trial by torture persisted where not abolished.
+
+__Rights, Protections & Compliance Burden:__ Subjects possessed privileges rather than rights. Reformers articulated theories of individual liberty and property security. Compliance burden heavy where guild restrictions, ecclesiastical regulation, and feudal survivals overlapped.
+
+__Impunity & Unredressed Wrong:__ Aristocratic and ecclesiastical privilege shielded wrongdoers from ordinary justice. Feudal jurisdiction in the south left peasants subject to baronial courts. Reform rhetoric exceeded enforcement capacity; impunity accumulated.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Italian Enlightenment combined French influences with indigenous traditions. Vico's historical philosophy, Beccaria's criminology, Filangieri's political science, Galvani's electricity research contributed to European discourse. Natural philosophy advanced; academies multiplied.
+
+__Applied Knowledge & Technical Method:__ Agricultural improvement engaged reformers; new crops and techniques promoted. Engineering advanced in drainage and road construction. Scientific instrument making developed in Florence and Milan.
+
+__Education, Knowledge Stock & Skill Distribution:__ University reform proceeded slowly; Church retained control over much education. Jesuit expulsion (1773) disrupted secondary education. Literacy remained the minority condition; skill concentrated in artisan guilds and professional apprenticeship.
+
+__Obsolescence & Knowledge Decay:__ Scholastic philosophy yielded ground to empiricism and rationalism in educated circles but persisted in seminary education. Artisanal skill transmitted through practice; little systematic technical education existed.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ No unified Italian national identity existed; regional and municipal patriotism prevailed. Educated Italians shared classical heritage and linguistic tradition. Roman memory served papal legitimation; communal memory sustained city identities.
+
+__Legitimating Narrative & Ideology:__ Dynastic legitimacy drew on divine right and established possession. Reformers articulated utility and rational administration as governing principles. The "Italian" idea existed as cultural-linguistic rather than political identity.
+
+__Artistic Expression & Material Culture:__ Baroque yielded to Neoclassicism; archaeological discoveries at Herculaneum (1738) and Pompeii (1748) stimulated antiquarian interest. Opera dominated musical life; commedia dell'arte declined. Architecture turned toward classical models.
+
+__Form Exhaustion & Meaning Decay:__ Late Baroque excess invited Neoclassical reaction. Religious art lost creative energy as patronage shifted toward secular subjects. Traditional festivals persisted but reformers criticized their expense and disorder.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology remained dominant but educated elites absorbed deist and skeptical currents. Providence still explained public events; fatalism coexisted with Enlightenment optimism about improvement.
+
+__Ritual, Devotion & Sacred Practice:__ Popular Catholicism flourished in processions, saints' cults, and pilgrimages. Reformers attacked "superstition" and excess devotion. Monastic life criticized as economically unproductive; some orders suppressed.
+
+__Religious Institutions & Doctrinal Authority:__ Papacy defended institutional prerogatives against reforming states. Jurisdictional conflict (over appointments, taxation, censorship) characterized Church-state relations. Jansenist currents influenced some reformers.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism remained unchallenged; no Protestant presence. Masonic lodges provided alternative sociability but did not constitute religious displacement. Jewish communities remained confined to ghettos.
+
+__Disenchantment & Sacred Discharge:__ Elite skepticism spread through reading and correspondence but rarely reached public expression. Anticlericalism distinguished from irreligion; reformers attacked clerical abuses while professing Catholic faith. Popular piety remained robust; disenchantment concentrated among educated minorities whose spiritual need remained unanchored as the century closed.

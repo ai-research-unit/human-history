@@ -1,69 +1,139 @@
-# __1555 CE – 1648 CE__ — Confessional Age and Religious Warfare
-__Summary:__ The territorial religious settlement of Augsburg frays as Calvinism spreads, Catholic counter-reformation intensifies, and confessional boundaries harden into armed camps; the Thirty Years War (1618–1648) devastates the North European Plain, killing perhaps a third of the German population through combat, famine, and plague; the binding constraint is political-confessional — the failure to contain religious-political competition within existing structures — while printed propaganda, newssheets, and illustrated broadsides sustain mobilization and hatred across three decades of intermittent warfare until exhaustion forces the Westphalian settlement.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor remains open to army movement; rivers serve as supply lines and defensive barriers; Bohemian uplands, site of war's outbreak, channel invasion routes; spatial friction insufficient to protect civilian populations from marauding armies.<br><br>
-__Climate Regime & Volatility:__ Little Ice Age conditions prevail — cooler summers, harsher winters; harvest failures more frequent; climate stress compounds war damage; volatility elevated and trending toward colder extremes through mid-century.<br><br>
-__Hazard Regime & Exposure:__ War itself becomes the dominant hazard — armies bring fire, requisition, and disease; natural hazards secondary to anthropogenic destruction; population margin against shock collapses as reserves are consumed.<br><br>
-__Resource & Energy Endowment:__ Forests exploited for fortification and fuel; Saxon mines continue production but disrupted by conflict; agricultural land devastated in war zones; endowment physically intact but access interrupted and drawdown chaotic.<br><br>
-__Waste Absorption & Sink Capacity:__ Mass graves, burned villages, and abandoned corpses exceed normal burial and sanitation capacity in war zones; landscape absorbs carnage but disease vectors multiply; sink capacity locally overwhelmed.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ War-amplified epidemics — typhus, dysentery, plague — devastate populations; armies spread disease faster than combat kills; mortality spikes catastrophically in war zones, 1618–1648; death rate far exceeds peacetime baseline.<br><br>
-__Nutrition & Physiological Vitality:__ Requisition, crop destruction, and displacement cause widespread famine; nutritional status collapses in affected regions; stature and robustness decline sharply where war persists; physiological vitality severely degraded.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage rates collapse amid displacement and male mortality; fertility plummets in devastated areas; rape and sexual violence widespread; pairing dynamics disrupted by war's social destruction; reproductive capacity impaired.<br><br>
-__Demographic Renewal & Density:__ Population loss perhaps 30–40 percent in worst-affected German territories; some regions nearly depopulated; replacement negative during active warfare; density collapses in Pomerania, Mecklenburg, Palatinate, and Bohemia.<br><br>
-__Attrition & Dependency Overhang:__ Orphan and widow populations explode; displaced refugees overwhelm charitable capacity; productive cohort decimated; dependency load exceeds any institutional capacity to absorb; social fabric shredded in war zones.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural production collapses in war zones — fields abandoned, livestock seized, seed grain consumed; provisioning fails catastrophically; populations reduced to foraging, flight, or starvation; subsistence floor breached repeatedly.<br><br>
-__Energy Capture & Conversion:__ Labor force decimated; draft animals requisitioned or slaughtered; mills destroyed; energy capture collapses where war passes; conversion efficiency irrelevant when productive capacity is physically destroyed.<br><br>
-__Labor Organization & Coercion:__ Serfdom intensifies in eastern territories as lords bind remaining peasants more tightly; mercenary armies operate on extraction and plunder; coercion maximized as economic coordination breaks down; labor organization militarized or feudalized.<br><br>
-__Production & Surplus Capacity:__ Manufacturing disrupted; trade networks broken; agricultural surplus nonexistent in devastated regions; production capacity destroyed faster than it can regenerate; surplus capacity negative in active war zones.<br><br>
-__Storage, Reserves & Buffering:__ Granaries looted; treasuries exhausted; merchant inventories seized; reserves consumed within first years of conflict; no buffering capacity remains in prolonged war zones; system operates without margin.<br><br>
-__Exchange, Trade & Logistics:__ Trade routes interdicted by armies; Hanseatic commerce disrupted; fairs cancelled or militarized; logistics collapse except for army supply; exchange contracts to local survival barter in devastated areas.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Currency debased repeatedly — Kipper und Wipper inflation 1619–1623; credit networks collapse; deferred exchange breaks down as counterparties die or flee; value storage fails; purchasing power chaotic.<br><br>
-__Surplus Extraction & Redistribution:__ Armies extract through requisition and plunder; contributions demanded at sword-point; taxation systems collapse under competing military authorities; extraction exceeds any sustainable level; redistribution serves only military needs.<br><br>
-__Wealth Distribution & Asset Defense:__ Accumulated wealth destroyed or seized; land titles meaningless where populations are gone; only mobile wealth (coin, jewels) defensible through flight; distribution chaotically leveled through destruction rather than transfer.<br><br>
-__Byproducts & Waste Routing:__ War waste — corpses, carrion, burned structures — overwhelms normal disposal; disease vectors proliferate; routing breaks down; waste accumulates as uncleared devastation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust collapses across confessional lines and extends only to immediate kin and co-religionists; mutual aid contracts to survival units; stranger means enemy; radius of trust minimal and contracting throughout the war.<br><br>
-__Stratification, Status & Group Identity:__ Confessional identity dominates all other markers; noble status offers little protection from marauding armies; status hierarchy scrambled by violence; group identity polarized into armed confessional camps.<br><br>
-__Kinship, Family & Inheritance:__ Families scattered by displacement; inheritance moot where heirs are dead; marriage patterns disrupted; kinship networks shattered in devastated regions; family structure requires post-war reconstruction.<br><br>
-__Civic Association & Self-Organization:__ Guilds and town councils struggle to maintain order; some cities — Hamburg, Amsterdam — prosper as neutral refuges; associational fabric destroyed where armies pass; self-organization survives only in protected enclaves.<br><br>
-__Leisure, Play & Sociability:__ Festive culture suppressed by war, poverty, and confessional austerity; sociability contracts to survival; communal gatherings dangerous; leisure nonexistent in active war zones.<br><br>
-__Grievance Channels & Social Discharge:__ Formal channels collapse; violence becomes the only discharge mechanism; grievance accumulates as trauma; no metabolization of suffering during active conflict; standing instability total.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial authority shattered; Sweden, France, and Spain intervene; territorial princes fight each other and outside powers; authority fragmented among military commanders; power dispersed to whoever holds local force.<br><br>
-__Succession & Power Transfer:__ Dynasties extinguished; successions contested militarily; Palatinate electorate transferred; Bohemian crown seized; transfer through violence rather than rule; every succession a potential flashpoint realized.<br><br>
-__Legitimacy & Political Narrative:__ Each side claims divine mandate; propaganda pamphlets and broadsides demonize opponents; legitimacy narratives irreconcilable; belief in any overarching political order eroding; war exhaustion eventually delegitimizes war itself.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative systems collapse in war zones; records destroyed; tax collection impossible; corruption and military rule replace civil administration; institutional integrity exists only in protected areas.<br><br>
-__Political Participation & Mobilization:__ Populations mobilized through coercion — conscription, forced labor, contribution payments; no voluntary participation; political voice expressed only through flight or rare uprising; channels closed entirely.<br><br>
-__Geopolitical Position & External Relations:__ German lands become European battlefield; France, Sweden, Spain, Denmark intervene; Habsburg position weakened; Dutch independence effectively secured; external powers determine internal settlement.<br><br>
-__Coercive Apparatus & Means of Force:__ Mercenary armies reach unprecedented scale — hundreds of thousands under arms; pike-and-shot tactics; fortification evolved; artillery decisive in sieges; command fragmented among warlords and generals; force wielded without political control.<br><br>
-__Internal Order & Threat Environment:__ Order nonexistent in active zones; bandits and deserters indistinguishable from armies; rebellion impossible when survival is the only concern; disorder total; internal threat environment maximized.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Newssheets — Avisa, Relation — proliferate, reporting battles and sieges; printed propaganda distributed by both sides; transmission velocity high for war news; channels militarized but functional.<br><br>
-__Record, Storage & Persistence:__ Archives destroyed in sacked cities; parish records lost; administrative continuity broken; printed pamphlets survive where originals perish; persistence depends on distributed print copies; much local record permanently lost.<br><br>
-__Framing, Censorship & Discourse Norms:__ Propaganda uncensored by wartime chaos; atrocity stories, demonization, and apocalyptic framing dominate; no neutral discourse possible; permitted band collapsed into confessional warfare; framing maximally polarized.<br><br>
-__Reception, Attention & Amplification:__ Illustrated broadsides reach illiterate populations; atrocity images — Callot's Miseries of War — widely circulated; attention fixed on survival and war news; amplification serves hatred and fear.<br><br>
-__Signal Integrity & Noise Load:__ Rumors, false reports, and propaganda indistinguishable from verified news; no verification mechanism; signal integrity minimal; noise load overwhelming; information environment saturated with unreliable content.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Shared moral foundations collapse across confessional lines; atrocities justified as God's will; sense of justice parochial and vengeful; moral outrage abundant but channeled into violence rather than adjudication.<br><br>
-__Law, Codification & Regulatory Evolution:__ Ius belli — laws of war — theoretically applicable but routinely violated; territorial law codes meaningless where territory changes hands; regulatory evolution halted; codification irrelevant to actual conduct.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts nonfunctional in war zones; liability unenforced; soldiers unpunishable; civilians unprotected; adjudication exists only in neutral cities; enforcement capacity zero where armies operate.<br><br>
-__Rights, Protections & Compliance Burden:__ No rights protection in active zones; survival the only compliance; privileges meaningless; burden is simply staying alive; predictability nonexistent.<br><br>
-__Impunity & Unredressed Wrong:__ Total impunity for military violence; massacre, rape, pillage unpunished; wrongs accumulate without any prospect of redress; impunity gap absolute; justice deficit permanent for war generation.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities disrupted but not destroyed; Galileo condemned 1633 (Rome); Descartes publishes in Dutch safety; Kepler works through war; inquiry continues in protected enclaves; paradigm shift to mechanical philosophy advancing despite conflict.<br><br>
-__Applied Knowledge & Technical Method:__ Military engineering advances — fortification, artillery, logistics; printing technology stable; medical practice inadequate to war wounds and epidemic; applied knowledge channeled into warfare.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Schools closed in war zones; literacy stagnates or declines; knowledge stock preserved in neutral Netherlands and unaffected territories; skill distribution narrowed by population loss and displacement.<br><br>
-__Obsolescence & Knowledge Decay:__ Local knowledge lost with practitioners; manuscript and archive losses permanent; some medieval knowledge survives only in print; decay accelerated by destruction; no compensating clearance of obsolete theory.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ War becomes foundational trauma; regional devastation seared into collective memory; confessional identity hardened through suffering; no unified German memory emerges — only fragmented territorial and confessional traumas.<br><br>
-__Artistic Expression & Material Culture:__ Baroque art flourishes in protected courts; war depicted in Callot's etchings and Grimmelshausen's Simplicissimus; material culture destroyed in war zones, elaborated in refuges; sharp contrast between devastation and courtly splendor.<br><br>
-__Collective Mood & Behavioral Disposition:__ Apocalyptic despair in war zones; fatalism and religious intensity; survivors traumatized; mood dark, fearful, resigned to suffering; behavioral disposition toward endurance rather than action; war weariness deepening toward settlement.<br><br>
-__Form Exhaustion & Meaning Decay:__ Confessional forms intensified rather than exhausted; meaning concentrated in religious survival; secular forms of meaning unavailable; no decay of confessional commitment until exhaustion forces pragmatic settlement.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Providential cosmology universally held — war is God's punishment, victory God's favor; existential outlook grimly apocalyptic; doubt impossible when survival requires divine protection; piety intensified by terror.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Churches destroyed; clergy killed; but devotional practice intensifies among survivors — desperate prayer, battlefield chaplaincy, confessional loyalty unto death; sacred practice refuge from chaos.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Institutional churches weaponized for confessional war; Jesuits and Protestant ministers serve military-political function; doctrinal authority absolute within each camp; no ecumenical softening until exhaustion.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Confessional boundaries frozen by war; cuius regio principle defended militarily; no syncretism; displacement only through conquest and forced conversion; spiritual geography crystallized by violence.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment during war — sacred stakes too high; existential need fully anchored in confessional religion; only post-war exhaustion begins to discharge intensity; by 1648, war-weariness creates openings for toleration that confessional commitment alone could not produce.<br><br>
+# __1555 CE – 1648 CE — Confessional Age and Religious Warfare__
+
+__Summary:__ The German lands of the Holy Roman Empire, from the Peace of Augsburg to the Peace of Westphalia, shaped by the hardening of confessional boundaries and their eruption into the Thirty Years' War. The binding constraint is the impossibility of coexistence between mutually exclusive truth claims backed by territorial sovereignty: the Augsburg settlement deferred rather than resolved the religious question, and print entrenched confessional identity so deeply that compromise became heresy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The North European Plain's open terrain facilitates the movement of armies that devastate the German lands during the Thirty Years' War. River corridors (Rhine, Elbe, Danube) channel invasion routes. Political fragmentation into hundreds of territories multiplies the fronts and prolongs the conflict.
+
+__Climate Regime & Volatility:__ The period falls within the Little Ice Age; colder winters and shorter growing seasons stress harvests, particularly after 1618. Climate stress compounds war's devastation, making recovery slower and famine more frequent.
+
+__Hazard Regime & Exposure:__ War itself is the hazard. Armies on the march destroy crops, requisition livestock, and spread disease. Sacks of cities (Magdeburg, 1631) create localized catastrophes. Fire, famine, and flight accompany military operations.
+
+__Resource & Energy Endowment:__ Forest, mine, and field continue to supply raw materials, but war disrupts extraction and trade. Silver mining in Saxony declines. Deforestation accelerates as armies consume fuel and timber for fortification.
+
+__Waste Absorption & Sink Capacity:__ War leaves corpses, ruined buildings, and abandoned fields. The landscape absorbs these residues over decades; by 1648, recovery has barely begun in the worst-affected regions.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague, typhus, and dysentery follow the armies. Major plague outbreaks occur throughout the period; the Thirty Years' War spreads epidemic disease into every corner of the German lands. Mortality spikes catastrophically in war zones.
+
+__Nutrition & Physiological Vitality:__ Famine accompanies war. Crop destruction, livestock requisition, and labor shortage produce widespread malnutrition. Stature declines; survivors are weakened.
+
+__Care, Healing & Recovery Capacity:__ Hospitals are overwhelmed; monastic care has been disrupted by the Reformation. Military surgeons treat battlefield wounds but epidemic disease is beyond their capacity. Healing infrastructure is thin and concentrated in cities.
+
+__Reproductive Biology & Pairing Dynamics:__ War disrupts marriage markets; mortality among men of military age leaves widows and unmarried women. Delayed marriage and reduced fertility follow the worst phases of conflict.
+
+__Demographic Renewal & Density:__ The German lands lose between one-quarter and one-third of their population to war, famine, and disease. Some regions (Saxony, Brandenburg) lose half or more. Population in 1648 is perhaps 10-12 million, down from 16-18 million in 1618.
+
+__Attrition & Dependency Overhang:__ War orphans, widows, disabled veterans, and refugees burden surviving communities. Dependency ratios spike; productive capacity is depleted. Recovery will take generations.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Subsistence collapses in war zones. Fields lie fallow for lack of labor and seed; villages are abandoned. Trade routes are cut. Those outside the war's immediate path fare better, but no region is untouched.
+
+__Energy Capture & Conversion:__ Energy systems remain pre-industrial. Water and wind power mills; human and animal muscle work the fields. War destroys infrastructure (mills, bridges) and kills draft animals, reducing energy capture.
+
+__Labor Organization & Coercion:__ Serfdom intensifies in eastern territories as lords bind peasants more tightly to prevent flight. Labor is scarce; lords compete for surviving peasants. In the west, labor is simply absent; fields go unworked.
+
+__Production & Surplus Capacity:__ Agricultural and artisanal production collapses. Surplus disappears; survival is the ceiling. Recovery is slow because the productive population is dead, scattered, or broken.
+
+__Storage, Reserves & Buffering:__ Granaries are emptied by requisition. Treasuries are exhausted by military expenditure. Credit networks collapse as merchants flee and debtors die.
+
+__Exchange, Trade & Logistics:__ The Frankfurt and Leipzig book fairs decline; trade routes are unsafe. Armies requisition goods rather than buy them. Commercial activity contracts to local subsistence exchange in the worst years.
+
+__Value Storage, Credit & Deferred Exchange:__ Coinage is debased as princes mint emergency issues (Kipper- und Wipperzeit, 1619-1623). Inflation destroys stored value. Credit contracts; trust collapses.
+
+__Surplus Extraction & Redistribution:__ Military contribution (Kontribution) replaces regular taxation in occupied territories; armies extract directly from the population. Princes mortgage future revenues to pay mercenaries. Extraction exceeds any sustainable rate.
+
+__Wealth Distribution & Asset Defense:__ War levels fortunes. Noble estates are sacked; merchant capitals are lost. Some war profiteers (military contractors, provisioners) accumulate wealth, but overall concentration falls as everyone is impoverished. Portable wealth (gold, jewels) is hidden or buried; land cannot be defended.
+
+__Byproducts & Waste Routing:__ Economic waste is moot when production has collapsed. Financial imbalance takes the form of unrepayable debt and worthless currency.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War disrupts family formation. Mortality creates broken families; inheritance passes chaotically as heirs die or cannot be found. Post-war reconstruction requires new household formation under desperate circumstances.
+
+__Association & Mutual Aid:__ Guilds, confraternities, and village communities are shattered by death and displacement. Mutual aid networks collapse; survival is individual or familial.
+
+__Leisure, Play & Sociability:__ Festivity ceases in war zones. Taverns close; churches are destroyed or fortified. Sociability contracts to the household and the military camp.
+
+__Stratification, Status & Group Structure:__ War flattens social hierarchy. Nobles die in battle or lose their estates; peasants flee or perish. The surviving population is smaller, poorer, and more equal in misery. Status distinctions persist but wealth backing them evaporates.
+
+__Administrative Capacity & Institutional Integrity:__ Territorial administration continues but is strained by war demands. Tax collection is impossible when taxpayers are dead or fled. Post-Westphalia, princely states begin to rebuild bureaucratic capacity, laying foundations for absolutism.
+
+__Coercive Apparatus & Means of Force:__ Mercenary armies dominate. The Swedish army under Gustavus Adolphus represents the most advanced military organization; others follow. Armies grow in size but live off the land, making war self-perpetuating. The Peace of Westphalia demobilizes hundreds of thousands of soldiers.
+
+__Discharge, Disorder & Decay:__ Disorder is total in war zones: murder, rape, pillage, and arson are endemic. Demobilized soldiers turn to banditry. Reconstruction after 1648 must rebuild physical infrastructure and social order simultaneously. The scars persist for generations.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confessional hatred dominates pre-war and early-war sentiment. Protestants see Catholics as idolaters; Catholics see Protestants as heretics. As war drags on, exhaustion replaces fervor. By 1648, the will to fight is spent.
+
+__Leadership & Personal Authority:__ Confessional polarization produces no single dominant leader. Gustavus Adolphus commands Swedish intervention but dies at Lutzen (1632). Wallenstein commands the Imperial army but is assassinated (1634). The Emperor Ferdinand II is determined but cannot control events.
+
+__Legitimacy as Lived Allegiance:__ Imperial legitimacy erodes as the Emperor fails to protect his subjects or impose order. Territorial princes claim sovereignty. The Peace of Westphalia recognizes their near-sovereignty, fragmenting the Empire into hundreds of de facto independent states.
+
+__Political Will & Collective Resolve:__ Will for war exhausts itself. The Peace of Westphalia reflects not victory but mutual exhaustion. All parties accept a settlement that none finds ideal because none can continue fighting.
+
+__External Relations & Posture:__ France and Sweden intervene decisively; the war becomes European rather than German. Habsburg Spain supports the Emperor; the Dutch Republic (fighting Spain) supports Protestants. The settlement at Westphalia is European, not merely German.
+
+__Disaffection, Apathy & Spent Will:__ By 1648, the German lands are spent. Confessional zeal has burned itself out. The settlement's tolerance of confessional coexistence (cuius regio persists but Reformed is added; 1624 normative year for ecclesiastical property) reflects exhaustion more than principle.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Vernacular German consolidates as the literary language; Luther's Bible remains the standard text. Latin persists in diplomacy and scholarship. Literacy remains confined to urban populations and clergy, perhaps 10-15%.
+
+__Channels & Transmission Velocity:__ Newspapers emerge: the Relation (Strasbourg, 1605) and Aviso (Wolfenbuttel, 1609) are the first. Printed news circulates weekly. Pamphlets continue to carry confessional polemic. The war itself is reported and debated in print.
+
+__Record, Storage & Persistence:__ Print archives accumulate; the controversy is documented. Church records (baptism, marriage, death) are maintained where parishes survive. War destroys some archives but the print record is distributed and survives.
+
+__Framing, Censorship & Discourse Norms:__ Confessional censorship continues: each territory suppresses heterodox print. War propaganda is intense; atrocity stories circulate. The Magdeburg sack (1631) becomes a Protestant martyrology; Catholic accounts blame the city's defenders.
+
+__Reception, Attention & Amplification:__ War news commands attention. The newspaper audience grows. Pamphlets amplify confessional narratives. The educated public follows events through print.
+
+__Signal Integrity & Noise Load:__ Propaganda and counterpropaganda produce noise; truth is contested. Each side believes the other's atrocities and doubts its own. The information environment is polemical, not verifiable.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confessional conviction frames justice: true religion must be defended. Just war doctrine is invoked by all parties. As war continues, a sense of injustice (the innocent suffer while the guilty prosper) erodes moral certainty.
+
+__Law, Codification & Regulatory Evolution:__ Imperial law is suspended by war. Military law governs armies. The Peace of Westphalia codifies a new legal order: territorial sovereignty, religious coexistence (Lutheran, Reformed, Catholic), 1624 as the normative year for ecclesiastical property. This becomes the constitutional law of the Empire.
+
+__Adjudication, Liability & Sanction:__ Courts collapse in war zones. Post-war, territorial courts rebuild. The Westphalian settlement assigns property disputes to the normative year, avoiding endless litigation. No war crimes trials; atrocities go unpunished.
+
+__Rights, Protections & Compliance Burden:__ The Peace of Westphalia extends the ius emigrandi; dissenters may emigrate with their goods. Some private worship is tolerated. Compliance burden eases slightly from the Augsburg settlement, but religious minorities remain subordinate.
+
+__Impunity & Unredressed Wrong:__ The war's wrongs are unredressed. Atrocities are amnestied by the peace. Restoration of property follows the normative year, not justice. The peace sacrifices justice for stability.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Confessional controversy dominates intellectual life. Protestant and Catholic theologies harden into scholasticisms. Natural philosophy continues outside the war zone (Kepler, Galileo); the Scientific Revolution proceeds despite the conflict.
+
+__Applied Knowledge & Technical Method:__ Military engineering advances: fortification (trace italienne) and siege techniques improve. Printing technology is stable. Medical knowledge advances little; the war reveals the limits of contemporary healing.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities continue but are disrupted. Confessional universities train confessional clergy. Literacy expands slowly in Protestant territories. War kills educated men and destroys libraries.
+
+__Obsolescence & Knowledge Decay:__ War destroys knowledge: libraries burn, scholars die, transmission is broken. Post-war reconstruction must recover lost skills and rebuild educational infrastructure.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The war becomes foundational trauma in German memory. Catholic and Protestant martyrologies compete. National identity is weak; confessional and territorial identities dominate.
+
+__Legitimating Narrative & Ideology:__ Confessional ideologies legitimate each side. The Peace of Westphalia requires an ideology of coexistence: reason of state (Staatsrason) emerges, subordinating religious to political considerations. This is the seed of secular statecraft.
+
+__Artistic Expression & Material Culture:__ Baroque style dominates Catholic territories: elaborate church decoration, dramatic sacred art. Protestant territories are plainer but develop their own musical tradition (Schutz). War halts building; post-war recovery enables new construction.
+
+__Form Exhaustion & Meaning Decay:__ Confessional polemic exhausts itself; by 1648, the arguments are stale. The forms of religious warfare lose their power to mobilize. A war-weary generation turns from confessional zeal to reconstruction.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The war is read through apocalyptic lenses: divine punishment, end times, the struggle of good against evil. Suffering challenges faith but also deepens it. Stoic resignation and providential acceptance coexist.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual continues where churches survive. Catholic baroque piety intensifies: pilgrimage, procession, Marian devotion. Lutheran piety turns inward; Pietism's seeds are planted. The war itself becomes ritual: fasting, prayer, thanksgiving for deliverance.
+
+__Religious Institutions & Doctrinal Authority:__ The Peace of Westphalia freezes confessional boundaries. Territorial churches consolidate. The Pope protests the settlement but cannot overturn it. Doctrinal authority is territorial: each prince determines religion within his domain.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Confessional boundaries harden rather than blur. Forced conversions and emigration enforce uniformity within territories. Inter-confessional contact is limited to war and diplomacy. No syncretism; only coexistence under exhaustion.
+
+__Disenchantment & Sacred Discharge:__ The war disenchants. Confessional certainty, having produced such suffering, loses some of its grip. The Peace of Westphalia's implicit message is that no confession can triumph absolutely; coexistence is necessary. This is a step toward secular politics, though the sacred remains central to daily life. The void left by spent confessional zeal is filled by territorial loyalty, dynastic service, and the beginnings of reason of state. The sacred survives but is bounded; the state becomes its container rather than its servant.

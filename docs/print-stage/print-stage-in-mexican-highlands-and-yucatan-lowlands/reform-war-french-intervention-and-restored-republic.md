@@ -1,69 +1,139 @@
-# __1855 CE – 1876 CE__ — Reform War, French Intervention, and Restored Republic
-__Summary:__ A twenty-one-year trend encompassing the liberal Reform, the ensuing civil war, French imperial intervention, and the restored liberal republic under Juarez and Lerdo; the binding constraint is the struggle to dismantle corporate privilege and church wealth while simultaneously defending sovereignty against foreign occupation, leaving state finances dependent on confiscated property and the army on popular mobilization; margin against shock is consumed by continuous warfare through 1867, then slowly rebuilt; the direction of change is toward liberal constitutional consolidation, secular state-building, and emerging conditions for the Porfirian settlement.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The central plateau and its mountain barriers continue to impose high transit friction; the French occupation demonstrates the difficulty of controlling the interior from coastal beachheads; the Yucatan remains semi-detached, still fighting the Caste War; the north is integrated into resistance networks.<br><br>
-__Climate Regime & Volatility:__ Seasonal rainfall patterns persist; no major climatic anomaly dominates the window; localized droughts stress provisioning episodically but do not reach catastrophic levels; the regime is stable.<br><br>
-__Hazard Regime & Exposure:__ Seismic and volcanic hazard continues; earthquakes damage buildings periodically; flood risk in the Valley of Mexico persists; wartime destruction adds to infrastructure degradation; margin remains thin.<br><br>
-__Resource & Energy Endowment:__ Silver mining revives modestly; timber and water remain regionally available; no new resource frontiers open; the endowment is adequate but underexploited given wartime disruption and capital scarcity.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban sanitation remains poor; Mexico City's drainage problems persist; industrial load is still negligible; absorptive capacity is adequate; localized saturation contributes to endemic disease but no systemic crisis.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic typhus, cholera, and smallpox persist; wartime disruption, displacement, and crowding elevate mortality; no major pandemic spikes but background rates remain high; the trend is flat, with wartime worsening followed by partial recovery.<br><br>
-__Nutrition & Physiological Vitality:__ Subsistence diet continues; nutritional stress intensifies during active warfare and blockade; recovery after 1867 is gradual; no structural improvement in physiological status; stature remains modest.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility and high infant mortality continue; wartime disruption delays marriages and separates families; consensual unions remain common; no major shift in reproductive patterns.<br><br>
-__Demographic Renewal & Density:__ Population growth slows during the war years; estimated population reaches nine million by 1876; internal migration is driven by warfare and displacement; density remains concentrated in the central plateau.<br><br>
-__Attrition & Dependency Overhang:__ War generates massive numbers of widows, orphans, and disabled; church charity is disrupted by Reform confiscations; state capacity for relief is minimal; dependency load is high and strains communal resources.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Maize and beans remain staples; provisioning is disrupted by warfare, requisitioning, and banditry; localized famine conditions occur in contested zones; margin above survival is thin and violated repeatedly.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle continue to dominate; no significant mechanization; water mills persist; the per-capita work ceiling is unchanged; no energy transition begins.<br><br>
-__Labor Organization & Coercion:__ Hacienda peonage persists; Reform laws theoretically free indigenous communal labor but also dissolve protective corporate structures; wage labor expands modestly in mining and urban sectors; coercion remains high in rural areas.<br><br>
-__Production & Surplus Capacity:__ Mining output fluctuates with warfare and investment; textile production continues in reduced form; agricultural surplus is consumed by armies or hoarded; productive capacity is depressed through 1867, then slowly recovers.<br><br>
-__Storage, Reserves & Buffering:__ Church wealth is confiscated and sold, providing one-time revenue but eliminating a traditional buffer; state reserves are nonexistent; merchant and hacendado hoarding substitutes; buffering capacity is minimal.<br><br>
-__Exchange, Trade & Logistics:__ Internal trade is severely disrupted by warfare and banditry; customs revenues remain the fiscal backbone but ports are contested; external trade with Britain and the United States continues; mule trains remain primary freight; infrastructure investment is nil.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver peso remains the unit of account; specie is scarce; church mortgage credit is eliminated by Reform; foreign loans are suspended after 1861 default triggers intervention; credit scarcity is acute; purchasing power is volatile.<br><br>
-__Surplus Extraction & Redistribution:__ The liberal state extracts through customs, forced loans, and property confiscation; military expenditure absorbs nearly all revenue; redistribution is confined to army payrolls and minimal administration; fiscal pressure is high and coercive.<br><br>
-__Wealth Distribution & Asset Defense:__ Church disentailment transfers land to hacendados and speculators, not smallholders; indigenous communal lands are also sold; wealth concentration intensifies; elite families adapt by purchasing nationalized property.<br><br>
-__Byproducts & Waste Routing:__ Mining tailings continue to accumulate; urban waste disposal remains primitive; wartime destruction leaves debris and abandoned material; industrial effluent is negligible; routing is dispersal by neglect.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Civil war fractures communities along liberal-conservative and clerical-anticlerical lines; trust radius contracts to immediate kin and faction; mutual aid persists within villages but intercommunal cooperation is damaged; the radius is narrowing.<br><br>
-__Stratification, Status & Group Identity:__ Racial hierarchy continues to soften legally while economic stratification intensifies; creole-mestizo elite dominates both factions; indigenous communities lose corporate protections under Reform; group boundaries are in flux, with liberal citizenship ideology contested by lived hierarchy.<br><br>
-__Kinship, Family & Inheritance:__ Civil marriage is introduced, weakening church control; inheritance patterns are unchanged; extended family and compadrazgo networks remain primary; no structural transformation.<br><br>
-__Civic Association & Self-Organization:__ Liberal clubs and masonic lodges organize elite politics; village councils are disrupted by war and Reform; cofradías decline with church suppression; associational fabric is thinning.<br><br>
-__Leisure, Play & Sociability:__ Fiestas continue where security permits; bullfights and cockfights persist; urban cafés host political debate; wartime disruption curtails communal celebration; forms are maintained but participation is reduced.<br><br>
-__Grievance Channels & Social Discharge:__ Armed rebellion becomes the primary discharge channel; banditry absorbs displaced men; petitions continue but are less effective; charity is disrupted; a large residue of grievance accumulates, especially among clerical supporters and dispossessed indigenous communities.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The liberal faction consolidates control after 1867; Juarez governs under emergency powers during intervention, then under constitutional authority; power centralizes in the presidency but remains contested; Lerdo succeeds constitutionally in 1872; Diaz revolts in 1876.<br><br>
-__Succession & Power Transfer:__ Juarez is elected and re-elected, normalizing constitutional transfer; his death in 1872 leads to orderly succession to Lerdo; Diaz's Tuxtepec revolt in 1876 breaks the pattern; transfer is stabilizing but not yet secure.<br><br>
-__Legitimacy & Political Narrative:__ Liberal republicanism and anti-imperial nationalism triumph; Juarez becomes the symbol of national resistance; the Reform and intervention victory legitimate the liberal state; conservative-clerical narrative is defeated but not extinguished.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity rebuilds slowly after 1867; tax collection improves; the judiciary is reorganized; corruption remains endemic; administrative reach beyond the capital is still limited; capacity is rising but from a low base.<br><br>
-__Political Participation & Mobilization:__ Liberal clubs mobilize urban elites; popular mobilization during the intervention creates a broader base; elections are held but participation is narrow; channels are widening slowly for liberal supporters, closing for conservatives.<br><br>
-__Geopolitical Position & External Relations:__ French intervention ends in 1867 with Maximilian's execution; the United States supports Juarez diplomatically; European powers are chastened; Mexico's external position strengthens dramatically; sovereignty is restored.<br><br>
-__Coercive Apparatus & Means of Force:__ The liberal army is battle-hardened and victorious; guerrilla tactics prove effective against regular forces; infantry armed with rifled muskets and some breechloaders; no significant navy; command is concentrated in liberal generals, notably Diaz; the army is the power base for post-war politics.<br><br>
-__Internal Order & Threat Environment:__ Banditry remains endemic; the Caste War continues in Yucatan; localized conservative and clerical uprisings persist; Diaz's revolt succeeds in 1876; disorder exceeds enforcement capacity but is declining from wartime peaks.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print remains dominant; liberal and conservative papers proliferate; pamphlets and broadsides circulate widely; the telegraph expands during and after the intervention, accelerating official communication; velocity is increasing for the state, unchanged for the populace.<br><br>
-__Record, Storage & Persistence:__ Government archives are maintained and expanded; newspaper runs are preserved; church records continue despite institutional disruption; institutional memory is stabilizing; some wartime records are lost.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press freedom is constitutionally guaranteed under the 1857 constitution; liberal papers dominate after victory; conservative and clerical press is marginalized but not fully suppressed; the permitted band is wider for liberals, narrower for opponents.<br><br>
-__Reception, Attention & Amplification:__ Elite readership expands modestly; public readings in cafés and plazas continue; nationalist narratives of resistance amplify across strata; attention is increasingly national rather than purely local.<br><br>
-__Signal Integrity & Noise Load:__ Partisan polemic continues but is subordinated to nationalist consensus during intervention; verification remains informal; the signal-to-noise ratio improves modestly as one narrative dominates; post-war factional noise resumes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Liberal rights discourse competes with Catholic natural law; the Reform entrenches secular justice as the state norm; communal justice persists in indigenous villages; elite and popular notions of fairness remain divergent.<br><br>
-__Law, Codification & Regulatory Evolution:__ The 1857 constitution and Reform Laws establish liberal legal order; church courts are abolished; civil marriage and registration are mandated; codification proceeds; the legal framework is transforming rapidly.<br><br>
-__Adjudication, Enforcement & Liability:__ Civil courts expand jurisdiction; enforcement remains weak in rural areas; church property disputes flood the system; liability assignment is slow; throughput is inadequate to the caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights are constitutionally guaranteed; corporate and communal protections are abolished, harming indigenous communities; compliance burden is low given weak enforcement; predictability is improving for elites, worsening for communities.<br><br>
-__Impunity & Unredressed Wrong:__ Military impunity persists; victors' justice is applied to imperialists and collaborators; indigenous land loss goes unredressed; the impunity gap narrows for liberals, widens for the dispossessed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Liberal constitutionalism is the dominant intellectual framework; positivism begins to arrive via French and British channels; no active natural-science frontier; inquiry is political and juridical.<br><br>
-__Applied Knowledge & Technical Method:__ European machinery and techniques are imported for mining and textile production; medical practice remains pre-germ-theory; no significant domestic innovation; method is imitative.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy remains around ten to fifteen percent; the university and professional schools train lawyers, doctors, and engineers; primary education expands slowly under liberal auspices; the knowledge stock is growing incrementally; skill distribution remains narrow.<br><br>
-__Obsolescence & Knowledge Decay:__ Colonial-era techniques continue to decay; church-controlled education is disrupted, causing temporary knowledge loss; liberal secular education begins to replace but does not yet match the old system; decay and renewal are in tension.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The Reform and intervention create a new layer of national mythos; Juarez becomes the secular saint; Cinco de Mayo enters the calendar; the liberal-national narrative strengthens; regional identities persist but are subordinated.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical and early romantic styles persist; lithography and political caricature flourish; photography arrives; material culture absorbs European influences slowly; no distinctive new aesthetic emerges.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite mood shifts from desperation during intervention to patriotic triumph after 1867; popular mood is exhausted but relieved; risk perception declines; confidence in the liberal state rises, though wariness of renewed conflict persists.<br><br>
-__Form Exhaustion & Meaning Decay:__ Colonial religious forms are attacked by Reform but retain popular vitality; liberal secular forms are not yet fully elaborated; anomie is localized among displaced clerical supporters; forms are contested rather than exhausted.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology remains dominant among the populace; liberal elites embrace secular and deist positions; indigenous syncretic beliefs persist; the balance shifts slightly toward secularism among the educated; fatalism coexists with liberal progress narratives.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, confession, and saints' days continue; public religious processions are restricted under Reform; domestic devotion intensifies as compensation; cofradías are weakened; practice adapts but remains intense.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The church loses its lands, courts, and corporate privileges; clerical numbers decline; institutional power collapses; doctrinal authority persists among the faithful but the institutional vehicle is crippled; the hierarchy is weakened but not destroyed.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism remains unchallenged as popular faith; Protestant missionaries arrive but make minimal inroads; indigenous syncretism continues; no significant displacement occurs; diffusion is negligible.<br><br>
-__Disenchantment & Sacred Discharge:__ Liberal anticlericalism is policy, not popular sentiment; secular education begins to spread rationalist worldviews among elites; popular piety remains intense; disenchantment is limited to urban educated circles; the sacred still answers for the majority, though its institutional vehicle is damaged.
+# __1855 CE – 1876 CE — Reform War, French Intervention, and Restored Republic__
+
+__Summary:__ Two decades of civil and international war test whether Liberal constitutional governance can survive clerical and Conservative resistance backed by European intervention, with the binding constraint being the ideological irreconcilability between Liberal secularism and Conservative-clerical defense of church prerogatives, a contest decided ultimately by Liberal military victory and the execution of Maximilian in 1867.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Mexico City remains the prize, but warfare ranges across the highlands from Veracruz to Querétaro, Oaxaca to San Luis Potosí; Juárez's itinerant government retreats north to Chihuahua and Paso del Norte, demonstrating that political authority can survive without the capital when terrain provides refuge; the French campaign reveals the limits of European logistics against highland guerrilla resistance; Yucatan remains semi-autonomous, absorbed in the Caste War; spatial friction favors defenders who know the terrain.
+
+__Climate Regime & Volatility:__ The temperate highland climate permits year-round military operations; tropical lowlands at Veracruz impose yellow fever losses on French forces (the vómito negro kills more than combat); no secular climate shift affects the period; seasonality influences campaign timing but does not determine outcomes.
+
+__Hazard Regime & Exposure:__ No major natural disasters disrupt the political-military contest; earthquake risk remains latent; hazard exposure is dwarfed by war's destruction.
+
+__Resource & Energy Endowment:__ Mining continues slow recovery; Reform confiscation of church lands (Ley Lerdo) transfers vast real estate to private hands, though much is acquired by speculators rather than productive farmers; timber and agricultural resources sustain armies on the move; no new energy source enters; the endowment is distributed through war's logistics.
+
+__Waste Absorption & Sink Capacity:__ War damage accumulates—burned villages, devastated fields, displaced populations—but the physical landscape absorbs these insults without systemic degradation; no saturation of sinks occurs; recovery begins once fighting ceases.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Warfare, displacement, and disrupted provisioning increase mortality; yellow fever at Veracruz devastates French forces (perhaps 5,000 deaths to disease versus 1,500 in combat); cholera and typhus outbreaks accompany troop movements; the mortality baseline rises sharply during active warfare, then falls during the Restored Republic.
+
+__Nutrition & Physiological Vitality:__ Provisioning disruptions cause localized hunger; soldiers forage and requisition, leaving civilians short; nutritional stress is episodic rather than chronic; the Restored Republic sees gradual recovery.
+
+__Care, Healing & Recovery Capacity:__ Military medical care is rudimentary; wounded soldiers die of infection in large numbers; civilian medical infrastructure is no better; recovery capacity is overwhelmed during major campaigns; the dependent load of war widows and orphans persists.
+
+__Reproductive Biology & Pairing Dynamics:__ War disrupts family formation through male mortality and displacement; post-war recovery restores normal patterns; no permanent shift in reproductive dynamics occurs.
+
+__Demographic Renewal & Density:__ Population losses from the War of the Reform (1858–1861) and French Intervention (1862–1867) are significant but not catastrophic—perhaps 100,000–200,000 deaths total; population recovers during the Restored Republic, reaching approximately nine million by 1876; density remains low.
+
+__Attrition & Dependency Overhang:__ War orphans, widows, and disabled veterans create a dependency load that communities absorb through extended family networks; no institutional response addresses the overhang; attrition of working-age males is modest relative to total population.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ War disrupts agricultural production through displacement, requisitioning, and destruction; subsistence is strained in combat zones but unaffected in peaceful regions; the Restored Republic permits recovery; no general famine occurs.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the sole productive energy sources; no technological change occurs; the energy ceiling remains as before.
+
+__Labor Organization & Coercion:__ Military conscription and guerrilla recruitment mobilize rural labor for war; hacienda peonage continues where fighting permits; Reform confiscation of church lands does not liberate peasants, as lands pass to speculators and haciendas; labor coercion persists.
+
+__Production & Surplus Capacity:__ Productive capacity declines during war, recovers afterward; the Restored Republic sees modest agricultural and mining revival; surplus is modest and largely extracted by regional caudillos and the central government for military purposes.
+
+__Storage, Reserves & Buffering:__ The Liberal government operates on empty treasury throughout, sustained by customs revenue from Veracruz when held; Maximilian's empire depends on French subsidy; national debt accumulates; no buffer exists; the Restored Republic inherits a crushing debt burden (suspended in 1861, triggering French intervention).
+
+__Exchange, Trade & Logistics:__ Trade is disrupted by war; Veracruz is contested; internal commerce suffers from banditry and troop movements; the Restored Republic restores trade routes; telegraph lines expand (2,000 km by 1876); limited railway construction begins; logistics improve slowly.
+
+__Value Storage, Credit & Deferred Exchange:__ Coinage remains silver-based; war finance produces some paper emissions of dubious value; foreign debt (to Britain, France, Spain) cannot be serviced, triggering the intervention; Maximilian's empire issues its own currencies; the Restored Republic attempts fiscal stabilization; credit remains scarce and expensive.
+
+__Surplus Extraction & Redistribution:__ Liberals extract from church confiscations and customs; Conservatives and Imperialists extract from occupied territories and French subsidy; extraction is contested and war-driven; redistribution is minimal beyond military payrolls.
+
+__Wealth Distribution & Asset Defense:__ Church lands pass to private hands, concentrating rather than dispersing wealth; hacendados who survive politically retain and expand holdings; wealth defense is political—alignment with the winning side protects property; extreme inequality persists.
+
+__Byproducts & Waste Routing:__ War debt accumulates; physical destruction is not systematically cleared; financial waste (bad debt) is suspended rather than resolved; the residue passes to the Porfiriato.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended family networks provide the primary safety net during war; Civil Registry (1859) secularizes marriage and birth records, removing church control; inheritance continues under evolving civil law; kinship structures absorb war's disruptions.
+
+__Association & Mutual Aid:__ Religious confraternities lose resources with church confiscation; mutual aid remains kin-based and local; no new associational forms emerge; the fabric thins under war pressure.
+
+__Leisure, Play & Sociability:__ Public sociability contracts during active warfare; fiestas and markets resume during peace; the Restored Republic sees cautious resumption of normal public life; print expands the literate public sphere.
+
+__Stratification, Status & Group Structure:__ The Reform aims to dissolve corporate privileges (church, military fueros) in favor of individual citizenship; indigenous communal lands are also targeted under Liberal ideology, accelerating dispossession; the Liberal professional and merchant class rises against Conservative hacendado-clerical alliance; mestizo identity becomes ideologically dominant; indigenous populations remain marginalized.
+
+__Administrative Capacity & Institutional Integrity:__ The Juárez government builds administrative capacity under fire, maintaining records, issuing decrees, and conducting diplomacy while itinerant; the Constitution of 1857 provides the framework; Maximilian's empire creates competing institutions that collapse with his defeat; the Restored Republic consolidates Liberal institutions—Congress, courts, state administrations—though capacity remains limited; corruption persists but is less corrosive than under the early republic.
+
+__Coercive Apparatus & Means of Force:__ Liberal armies evolve from guerrilla bands to regular forces under Zaragoza, González Ortega, Díaz, and others; the French field the most professional force, but cannot hold territory; Conservative forces fragment after imperial defeat; by 1867, the Liberal military has demonstrated capacity to defeat European intervention; Porfirio Díaz emerges as the leading general; the means of force consolidate under Liberal control.
+
+__Discharge, Disorder & Decay:__ The period is defined by organized violence—civil war, foreign invasion, guerrilla resistance—but this violence is politically purposive, not mere disorder; banditry flourishes in the interstices; the execution of Maximilian (1867) closes the imperial option; Juárez's death (1872) and the disputed succession produce the Tuxtepec rebellion (1876) that brings Díaz to power; disorder is channeled into political resolution, not cleared.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Partisan intensity defines the era; Liberals and Conservatives mobilize genuine conviction, not mere interest; the French Intervention produces patriotic resistance that partially transcends faction; Cinco de Mayo (1862) becomes a nationalist touchstone; public sentiment hardens into Liberal triumphalism after 1867; the mood is combative, then exhausted.
+
+__Leadership & Personal Authority:__ Benito Juárez embodies Liberal legitimacy—indigenous origins, legal training, stoic persistence through exile and defeat; his personal authority is moral rather than charismatic; Maximilian possesses charm but lacks political base; Porfirio Díaz is the military hero, charisma rooted in battlefield success; caudillo politics persists but is subordinated to constitutional form.
+
+__Legitimacy as Lived Allegiance:__ The Constitution of 1857 becomes the touchstone of Liberal legitimacy, defended through a decade of war; Conservative legitimacy collapses with Maximilian's execution; church legitimacy among the devout persists but is politically defeated; by 1876, constitutional republicanism is the only viable legitimating framework, even as Díaz seizes power by rebellion.
+
+__Political Will & Collective Resolve:__ Liberal will to resist is remarkable—Juárez governs from a carriage across northern deserts rather than surrender; popular guerrilla resistance sustains pressure on French occupation; collective resolve is tested and vindicated; the Restored Republic inherits a hardened political class.
+
+__External Relations & Posture:__ Mexico defeats European intervention, the only successful resistance to 19th-century imperialism in the Americas; the Monroe Doctrine receives Mexican rather than American enforcement in this instance; relations with the United States improve as Washington recognizes Juárez; Mexico emerges with enhanced international standing, though still weak relative to major powers.
+
+__Disaffection, Apathy & Spent Will:__ By 1876, exhaustion accompanies triumph; Juárez's death removes the unifying figure; the Lerdo administration faces declining élan; Díaz's rebellion succeeds in part because will is spent; disaffection with continued instability prepares acceptance of Porfirian order.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish literacy remains the threshold; literacy may reach 15% by 1876; telegraph lines expand, accelerating elite communication; indigenous populations remain largely outside the Spanish print sphere; the shared code widens slightly.
+
+__Channels & Transmission Velocity:__ The telegraph transforms political communication—news of Maximilian's execution reaches Europe within days; newspapers multiply during the conflicts—Liberal papers (El Monitor Republicano, El Siglo XIX) versus Conservative and Imperial press (El Pájaro Verde under Empire); circulation remains small (thousands), but influence is disproportionate among the political class; postal service improves during the Restored Republic.
+
+__Record, Storage & Persistence:__ The Civil Registry secularizes vital records, creating a state archive of births, marriages, deaths previously held by the church; newspaper archives accumulate; the record thickens and becomes more durable.
+
+__Framing, Censorship & Discourse Norms:__ Press freedom is nominal under Liberal governments, constrained under Empire; partisan framing is intense—Liberals portray Conservatives as traitors allying with foreign invaders, Conservatives portray Liberals as godless radicals; the discourse norm is polemical; Maximilian's execution is framed by Liberals as the death of tyranny, by European opinion as judicial murder.
+
+__Reception, Attention & Amplification:__ The literate public expands modestly; reading aloud and café discussion amplify print reach; corridos (popular ballads) carry political messages to illiterate populations; visual prints (Posada's precursors) circulate; attention concentrates on the political contest.
+
+__Signal Integrity & Noise Load:__ Partisan distortion remains high; however, the outcome of military campaigns provides ground truth that cuts through propaganda; by 1867, Liberal victory is a fact that no framing can deny; noise load recedes as the contest is decided.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The conflict pits two moral frameworks—Liberal secularism (individual rights, rule of law, church-state separation) against Conservative-Catholic tradition (corporate privileges, clerical authority, divine sanction); neither side regards the other as legitimate; the sense of justice is faction-bound.
+
+__Law, Codification & Regulatory Evolution:__ The Reform Laws (1855–1860) secularize Mexican society: Ley Juárez abolishes military and clerical fueros; Ley Lerdo mandates sale of corporate (including church) property; Ley Iglesias limits clerical fees; the Constitution of 1857 enshrines individual rights and federalism; Maximilian's Imperial Statutes create an alternative framework that dies with him; Liberal law prevails by 1867 and is consolidated during the Restored Republic.
+
+__Adjudication, Liability & Sanction:__ Courts-martial and summary justice prevail during wartime; the execution of Maximilian, Miramón, and Mejía (1867) is justified as enforcement of the January 1862 decree against collaborators with intervention; regular courts resume under the Restored Republic; adjudication capacity rebuilds slowly.
+
+__Rights, Protections & Compliance Burden:__ The Constitution of 1857 proclaims extensive individual rights (speech, press, assembly, property) but enforcement is partial; amparo (judicial protection) is established as a remedy; indigenous communal property loses protection under Liberal individualism, accelerating dispossession; rights are liberal but not universal.
+
+__Impunity & Unredressed Wrong:__ War crimes go unpunished on all sides; the execution of imperial leadership is selective justice—French forces withdraw unpunished; post-war amnesties partially close the account; impunity for wartime acts is the price of peace; unredressed wrong accumulates but is subordinated to political settlement.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Liberal ideology (Enlightenment liberalism, anticlericalism, constitutionalism) dominates intellectual life; positivism begins its Mexican ascent, culminating in the Porfiriato's científicos; Conservative thought loses institutional base; no original inquiry emerges; Mexican intellectuals remain derivative of European models.
+
+__Applied Knowledge & Technical Method:__ Military technology remains mid-century European standard—rifled muskets, artillery; the French bring Chassepot rifles; Mexican forces adapt; printing technology remains unchanged—hand presses, limited capacity; the telegraph is the major technical innovation; method advances incrementally.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is disrupted by war; the Restored Republic revives Liberal educational projects; literacy rises modestly; the knowledge stock expands through newspaper proliferation and telegraph-mediated news; skill distribution remains narrow and urban.
+
+__Obsolescence & Knowledge Decay:__ Scholastic and colonial knowledge becomes definitively obsolete as secular liberal education displaces church-controlled schooling; the transition is generational; some knowledge is lost as institutions are disrupted, but the trend is toward secular modernization.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Reform and Intervention generate durable myths—Juárez as the stoic defender of republic, Cinco de Mayo as national triumph, Maximilian as tragic foreign imposition; the myth of national unity against foreign intervention partially transcends Liberal-Conservative divide; mestizo national identity is consolidated against both indigenous communalism and European imperialism; the foundational narrative is now definitively Liberal.
+
+__Legitimating Narrative & Ideology:__ Liberalism triumphs as the legitimating ideology—progress, secularism, constitutionalism, individual rights; the church is removed from political legitimation; even Díaz, seizing power by rebellion, claims the Liberal inheritance; the narrative is settled, though practice will diverge.
+
+__Artistic Expression & Material Culture:__ Romantic nationalism marks the period—Ignacio Manuel Altamirano champions nationalist literature; lithography produces political caricature and visual journalism; the material culture remains provincial, caught between colonial inheritance and French imperial taste (visible in Maximilian's renovations of Chapultepec); no distinctive style emerges; the surface is transitional.
+
+__Form Exhaustion & Meaning Decay:__ Colonial religious forms lose cultural authority as Reform secularizes public life; new Liberal-nationalist forms are not yet consolidated; the period is interstitial, one symbolic order collapsing, another not yet erected; exhaustion and renewal are simultaneous.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology persists among the majority, but Liberal anticlericalism removes it from public authority; elite secularism advances; the existential outlook bifurcates—popular devotion unchanged, elite worldview increasingly rationalist; fatalism and faith coexist with reformist optimism.
+
+__Ritual, Devotion & Sacred Practice:__ Popular piety continues despite Reform—pilgrimages to Guadalupe persist; clerical absence from public life (religious orders expelled, church property confiscated) does not extinguish lay devotion; the sacred is privatized but not abandoned.
+
+__Religious Institutions & Doctrinal Authority:__ The church loses institutional power—property confiscated, religious orders disbanded, civil marriage and registry imposed; the hierarchy goes into internal exile or opposition; doctrinal authority persists among believers but loses state backing; the church becomes an opposition rather than establishment institution.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism remains universal; Reform creates legal space for Protestant mission (minimal during this period); Guadalupan devotion integrates indigenous and Spanish elements; no significant displacement occurs; the spiritual landscape is Catholic, legally disestablished but culturally dominant.
+
+__Disenchantment & Sacred Discharge:__ Elite disenchantment accelerates as Liberal ideology triumphs; for the reforming class, secular progress replaces providential history; popular devotion remains enchanted; the gap widens between elite secularism and popular piety; disenchantment settles as the ruling class ideology, not as widespread spiritual crisis.

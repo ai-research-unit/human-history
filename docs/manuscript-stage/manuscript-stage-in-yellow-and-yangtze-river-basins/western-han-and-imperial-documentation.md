@@ -1,69 +1,139 @@
-# __206 BCE – 9 CE__ — Western Han and Imperial Documentation
-__Summary:__ Long-term trend covering two centuries of Han dynasty consolidation, from Liu Bang's victory over Qin and Chu to Wang Mang's usurpation; the binding constraint is the challenge of governing a vast agrarian empire through documentary bureaucracy while balancing Confucian ideology against practical administration; margin against shock improves as institutions mature but erodes under late Western Han fiscal strain and factional conflict; principal direction is toward bureaucratic elaboration, Confucian canonization, and expansionist overreach culminating in imperial exhaustion and usurpation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Chang'an capital in Wei River valley commands the northwest; empire extends from Liaodong to Lingnan, from Central Asian oases to East China coast; Grand Canal precursors and improved roads reduce friction but vast distances remain challenging.<br><br>
-__Climate Regime & Volatility:__ Climate optimum continues from late Zhou; adequate monsoon rainfall in most years; occasional severe droughts and floods attested but no sustained adverse regime shift during window.<br><br>
-__Hazard Regime & Exposure:__ Yellow River flooding requires constant maintenance of dikes; major flood in 132 BCE shifts river course south; earthquake exposure in northwest; state capacity for disaster response improved over Qin but still limited.<br><br>
-__Resource & Energy Endowment:__ Iron and salt deposits exploited through state monopolies from 119 BCE; copper for coinage; timber from surrounding mountains; resource base adequate with drawdown accelerating under population growth.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban concentration at Chang'an generates waste; mining and smelting effluent; agricultural expansion clears forests; absorptive capacity ample across vast territory; degradation localized around extraction sites.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases of settled agriculture continue; no catastrophic epidemic attested; military campaigns against Xiongnu and southern expeditions carry disease exposure; background mortality stable.<br><br>
-__Nutrition & Physiological Vitality:__ Millet, wheat, and rice provide adequate nutrition in normal years; famines during droughts stress affected regions; archaeological evidence suggests stable or improving nutritional status for most of window.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal household formation; polygyny among elites; military conscription periodically disrupts household formation but less severely than under Qin; reproductive capacity adequate.<br><br>
-__Demographic Renewal & Density:__ Population recovery from Qin-Han transition warfare; census of 2 CE records approximately 59 million; sustained growth through most of window; density increasing especially in core regions.<br><br>
-__Attrition & Dependency Overhang:__ War casualties from expansion campaigns; normal aging population; dependency burden manageable under prosperity but strains emerge in late Western Han fiscal crisis.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agrarian base expands through land reclamation and improved tools; iron plows and ox-drawn cultivation spread; most households above bare subsistence except during localized crop failures.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominant; ox-power spreads for plowing; water mills for grain processing emerge; charcoal for metallurgy; conversion efficiency improves modestly through tool diffusion.<br><br>
-__Labor Organization & Coercion:__ Corvee labor continues but moderated from Qin extremes; slave labor present but limited; tenant farming emerges; free peasant proprietorship dominant early, eroding toward late window as land concentration increases.<br><br>
-__Production & Surplus Capacity:__ Agricultural output grows with iron tools, new crop varieties, and expanded acreage; silk production for trade; surplus capacity significant and supports expansion, declining late as land concentration reduces peasant incentives.<br><br>
-__Storage, Reserves & Buffering:__ Ever-normal granary system established under Emperor Wu; state reserves buffer against famine; private storage by wealthy households; buffer depth adequate through mid-window, stressed by fiscal demands late.<br><br>
-__Exchange, Trade & Logistics:__ Silk Road opens under Emperor Wu; maritime trade developing; internal markets regulated; wuzhu coinage standardized 118 BCE; commercial economy grows though subordinated to agrarian ideology.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Bronze wuzhu coins provide stable currency; gold for large transactions; grain and silk as alternative stores; private credit develops; state occasionally debases currency under fiscal stress.<br><br>
-__Surplus Extraction & Redistribution:__ Land tax relatively light at one-thirtieth; poll tax and corvee obligations supplementary; salt and iron monopolies (119 BCE) capture commercial surplus; extraction moderate early, intensifying under expansion costs.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration trend emerges from mid-window; great families accumulate estates; merchants legally subordinated but economically powerful; peasant holdings vulnerable to debt and dispossession.<br><br>
-__Byproducts & Waste Routing:__ Agricultural processing, urban waste, mining tailings; disposal unregulated; Chang'an generates substantial urban waste; externalization to local sinks without systematic management.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Confucian ethics promote social harmony; mutual-aid networks recover from Qin atomization; lineage organizations strengthen; trust radius expanding through most of window.<br><br>
-__Stratification, Status & Group Identity:__ Formal aristocracy limited but de facto hierarchy emerges; officials, landowners, peasants, merchants, slaves; regional identities persist but Han identity consolidates; stratification hardening late.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent reinforced by Confucian ideology; partible inheritance among sons; extended family networks important; lineage organizations formalize in some regions.<br><br>
-__Civic Association & Self-Organization:__ Local notable leadership in communities; religious associations emerge; merchant networks develop; associational fabric thickening under reduced state pressure compared to Qin.<br><br>
-__Leisure, Play & Sociability:__ Festival calendar regularized; public entertainments at markets and fairs; elite literary gatherings; sociability flourishes under peace and prosperity.<br><br>
-__Grievance Channels & Social Discharge:__ Remonstrance institutionalized for officials; petition systems exist; local mediation available; channels functional early but constricting under late-window factional conflict and consort family dominance.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Emperor holds supreme authority; Three Ducal Ministers (Chancellor, Imperial Secretary, Grand Commandant) head administration; power centralizing but contested between inner court and outer court factions.<br><br>
-__Succession & Power Transfer:__ Hereditary succession nominally established but frequently disrupted; consort family influence grows; several minorities on throne with regent rule; succession crisis endemic late window, enabling Wang Mang usurpation.<br><br>
-__Legitimacy & Political Narrative:__ Mandate of Heaven through Fire phase (replacing Qin's Water); Confucian ideology adopted as state orthodoxy from Emperor Wu onward; legitimacy narrative strong early, eroding under late-window disorder.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Commandery-county system retained from Qin; kingdoms gradually reduced; documentary bureaucracy elaborates; archives maintained; capacity high early, declining as corruption and factional infighting intensify late.<br><br>
-__Political Participation & Mobilization:__ Recommendation system (chaju) channels elite participation; examination experiments begin; popular participation channeled through petition; factions mobilize around reform and orthodox positions.<br><br>
-__Geopolitical Position & External Relations:__ Expansion against Xiongnu under Emperor Wu; Western Regions protectorate; Korean commanderies established; tributary diplomacy with southern and western polities; overextension strains resources.<br><br>
-__Coercive Apparatus & Means of Force:__ Conscript army supplemented by professional soldiers; frontier cavalry against Xiongnu; crossbow and iron weapons standard; apparatus powerful but expensive to maintain at expansion scale.<br><br>
-__Internal Order & Threat Environment:__ Banditry suppressed; periodic local rebellions contained; millenarian movements emerge late; internal order generally maintained but margin for disorder increasing late window.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Imperial courier system with relay stations; bamboo and silk documents circulate through bureaucracy; velocity adequate for governance but weeks to months for frontier communication.<br><br>
-__Record, Storage & Persistence:__ Bamboo and wooden strips for routine documents; silk for important texts; imperial archives at Chang'an; population registers, tax records, legal documents systematically maintained; persistence high for official records.<br><br>
-__Framing, Censorship & Discourse Norms:__ Imperial authority frames official discourse; censorship relaxed from Qin extremes; Confucian classics recovered and canonized; heterodox texts tolerated unless politically threatening; discourse norms opening.<br><br>
-__Reception, Attention & Amplification:__ Literacy expanding among officials and elite; imperial academy (124 BCE) trains thousands; popular reception through proclamations and local officials; text circulation increasing among educated stratum.<br><br>
-__Signal Integrity & Noise Load:__ Standardized documentation improves signal integrity; archival verification possible; but information volume growing and some distortion in upward reporting; noise manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Confucian ethics tempering Legalist harshness; benevolence (ren) rhetoric influences judicial practice; popular sense of justice better aligned with practice than under Qin.<br><br>
-__Law, Codification & Regulatory Evolution:__ Han Code inherited from Qin, gradually moderated; case law and precedent supplement statutes; regulations evolve through imperial edicts; codification continues with Confucian influence.<br><br>
-__Adjudication, Enforcement & Liability:__ County magistrates adjudicate; review available through superior offices; mutilation penalties reduced; collective liability moderated; enforcement less brutal than Qin but still harsh by modern standards.<br><br>
-__Rights, Protections & Compliance Burden:__ No formal rights concept but Confucian protection rhetoric; compliance burden reduced from Qin extremes; predictability improved; ordinary conduct less constrained.<br><br>
-__Impunity & Unredressed Wrong:__ Elite families sometimes escape justice; imperial favorites protected; but judicial review functions and egregious wrongs sometimes redressed; impunity gap smaller than under Qin.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Confucian synthesis dominates under Emperor Wu; Dong Zhongshu's cosmological Confucianism; correlative cosmology linking heaven, earth, and human order; other schools subordinated but not eliminated.<br><br>
-__Applied Knowledge & Technical Method:__ Iron metallurgy advances; agricultural techniques documented; medical theory develops; astronomical observation and calendrical calculation; applied knowledge accumulating and being recorded.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Imperial Academy (Taixue) established 124 BCE; Confucian classics become curriculum; provincial schools emerge; literacy spreading among officials and elite; knowledge stock expanding and being transmitted.<br><br>
-__Obsolescence & Knowledge Decay:__ Recovery of pre-Qin texts accelerates; Classics reconstructed from memory and hidden copies; Old Text/New Text controversy reflects textual recovery; knowledge stock growing, decay reversed from Qin destruction.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Han identity consolidates; founding myths around Liu Bang; Confucian historical narrative shapes collective memory; Chinese identity as civilized center versus barbarian periphery crystallizes.<br><br>
-__Artistic Expression & Material Culture:__ Lacquerware, silk weaving, bronze work flourish; tomb art documents daily life; fu poetry develops; material culture elaborates under prosperity; regional styles persist within imperial framework.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence and expansion characterize early and middle window; mood darkens late with fiscal crisis, natural disasters, and political dysfunction; behavioral disposition shifts from active to anxious.<br><br>
-__Form Exhaustion & Meaning Decay:__ New forms emerging rather than exhausting; Confucian rituals gaining rather than losing meaning; late-window stress creates some hollowing of imperial ritual but major form exhaustion not yet evident.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Correlative cosmology integrating Heaven, Earth, and humanity; Five Elements cycling; divination and omens taken seriously; existential outlook balanced between cosmic order and individual moral cultivation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ State sacrifices at ancestral temples and sacred mountains; household ancestor worship; popular devotion to local deities; devotional practice intensifying as wealth permits elaboration.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No independent religious institution; fangshi practitioners serve court; Confucian orthodoxy shapes public ritual; doctrinal authority diffuse across Confucian, Daoist, and popular traditions.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Early Buddhism arrives via Silk Road late in window; Daoist traditions consolidating; popular religion syncretic; no major displacement yet; diffusion bringing new elements into mix.<br><br>
-__Disenchantment & Sacred Discharge:__ Confucian rationalism coexists with popular devotion; no major disenchantment trend; spiritual needs met through multiple channels; late-window crisis generates millenarian movements (proto-Daoist) channeling unmet spiritual need.<br><br>
+# __206 BCE – 9 CE — Western Han and Imperial Documentation__
+
+The binding constraint is the documentary apparatus that the centralized state requires to govern a population of fifty million across terrain stretching from the steppe frontier to the tropical south: bamboo-strip registers, edicts, and correspondence proliferate beyond any individual's memory, creating an empire whose continuity depends on the persistence of written records — the first Chinese polity where manuscript is not merely prestigious but infrastructural.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The empire spans the Yellow and Yangtze basins, the Sichuan basin, the Ordos loop, and extending tendrils into the Western Regions (Tarim Basin) and the Lingnan tropics; the capital at Chang'an sits in the Guanzhong basin, protected by passes, with the primary agricultural surplus drawn from the Yellow River plain and increasingly from the Yangtze delta; road and canal networks inherited from Qin reduce but do not eliminate friction across this vast terrain.
+
+__Climate Regime & Volatility:__ The Han Warm Period provides generally favorable conditions: reliable monsoon in the south, adequate rainfall for wheat and millet in the north; interannual variation causes localized famines but no systemic collapse; the climate regime is benign compared to later cooling phases.
+
+__Hazard Regime & Exposure:__ Yellow River flooding remains the chronic hazard, requiring continuous dike maintenance; the 11 BCE breach that shifts the river's lower course to a more southerly path causes massive disruption; earthquakes affect the Guanzhong heartland intermittently.
+
+__Resource & Energy Endowment:__ Iron and salt monopolies (state-run from 119 BCE) tap extensive deposits; bronze coinage (wuzhu) requires copper and tin; timber continues to be stripped from mountain forests for construction; loess soils remain fertile under careful terracing.
+
+__Waste Absorption & Sink Capacity:__ The capital region around Chang'an shows accumulated environmental stress: deforestation, erosion, and pollution from smelting; the Yellow River's sediment load increases with agricultural intensification; the physical residue is a landscape visibly altered by two centuries of intensive extraction.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases — malaria in the south, gastrointestinal infections everywhere — maintain elevated mortality baselines; epidemic outbreaks occur but do not reach catastrophic levels during the Western Han; the expansion into the southern tropics exposes settlers to new disease environments.
+
+__Nutrition & Physiological Vitality:__ Excavated skeletal remains suggest adequate nutrition for the general population during periods of stability; the Mawangdui tomb contents reveal elite diets rich in meat, grains, and fermented beverages; the provisioning system, when functioning, delivers subsistence security.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge advances significantly: the Mawangdui medical manuscripts (2nd century BCE) reveal sophisticated understanding of acupuncture, moxibustion, and pharmacology; court physicians attend the elite, while popular healing relies on local practitioners and folk remedies; recovery capacity is unevenly distributed by class.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal marriage norms structure reproduction; imperial succession depends on legitimate male heirs, with consort families gaining dangerous influence; reproductive politics destabilize the late Western Han as consort clans compete.
+
+__Demographic Renewal & Density:__ The 2 CE census, the first reliable count, records 57.7 million registered persons in approximately 12 million households; this represents recovery and growth from the wars ending the Qin; density is highest in the Yellow River plain and the Guanzhong basin.
+
+__Attrition & Dependency Overhang:__ State granaries and local charity provide minimal relief for the elderly and destitute; widows and orphans depend on kin networks; the dependency load is absorbed at household level without systematic state provision.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The granary system (changpingcang, "ever-normal granaries") stabilizes grain prices and provides famine relief; agricultural productivity supports a population exceeding fifty million; the provisioning floor is higher than any previous Chinese polity, though localized scarcity persists.
+
+__Energy Capture & Conversion:__ Human and animal muscle remains the primary energy source; water mills appear for grain processing; iron tools are ubiquitous for agriculture and craft; firewood and charcoal fuel smelting and heating; the energy ceiling is preindustrial but high by contemporary standards.
+
+__Labor Organization & Coercion:__ Corvée obligations (one month per year for adult males) supply state construction projects; convict labor works mines and manufactures; slavery exists but is not the dominant labor form; most production is free household labor under landlord or state taxation.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports a large non-producing population: officials, soldiers, artisans, merchants; state workshops produce weapons, lacquerware, silk, and bronze; private manufacture expands, particularly in iron and textiles; surplus capacity is substantial.
+
+__Storage, Reserves & Buffering:__ The granary system and treasury accumulate reserves during good years; Emperor Wu's campaigns against the Xiongnu drain the treasury repeatedly, requiring new revenue measures (monopolies, sale of ranks, debasement); by the late Western Han, reserves are precarious.
+
+__Exchange, Trade & Logistics:__ The Silk Road opens formal exchange with Central Asian polities; internal markets handle grain, cloth, salt, iron, and luxury goods; merchant wealth grows despite Confucian disdain; the logistics network — roads, rivers, canals — is the most developed in the contemporary world.
+
+__Value Storage, Credit & Deferred Exchange:__ The wuzhu coin (from 118 BCE) provides a stable currency for over two centuries; credit arrangements exist between merchants; land becomes a primary store of value for wealthy families; monetary stability underpins commercial expansion.
+
+__Surplus Extraction & Redistribution:__ Land taxes (one-thirtieth of harvest, varying), poll taxes, and corvée extract surplus; Emperor Wu's monopolies and new taxes increase extraction; redistribution flows to the military, bureaucracy, and court; fiscal room is strained by the Xiongnu wars.
+
+__Wealth Distribution & Asset Defense:__ Wealthy merchant and landlord families accumulate vast estates; Emperor Wu's confiscation campaigns target the richest; land concentration by powerful families proceeds despite periodic redistribution efforts; asset defense relies on connections and concealment.
+
+__Byproducts & Waste Routing:__ Mining and smelting waste accumulates near production sites; urban refuse in Chang'an is managed by sanitation workers but not eliminated; the economic residue includes polluted waterways and slag heaps.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The patrilineal household remains the basic social unit; filial piety (xiao) is the organizing virtue; inheritance divides property among sons, fragmenting estates over generations; powerful families maintain lineage identity through ancestral rites.
+
+__Association & Mutual Aid:__ Village-level mutual aid, rotating labor exchanges, and local festivals provide associational life; guilds and merchant associations emerge in commercial centers; the Confucian ideal of local harmony guides expectation if not always practice.
+
+__Leisure, Play & Sociability:__ Elite sociability centers on banquets, music, and literary gatherings; popular entertainments include acrobatics, music, and seasonal festivals; the court sponsors elaborate spectacles; leisure time is structured by the agricultural calendar for most.
+
+__Stratification, Status & Group Structure:__ The social hierarchy runs from emperor through officials, scholars, farmers, artisans, and merchants; actual wealth often inverts this ranking, with merchants richer than scholars; the examination system is nascent (recommendation, not examination, dominates); status boundaries are porous but present.
+
+__Administrative Capacity & Institutional Integrity:__ The commandery-county system governs the empire through approximately 1,500 counties; officials are recruited by recommendation (chaoju) and tested in classics; the bureaucracy is literate, trained, and (by ancient standards) meritocratic; corruption exists but is constrained by inspection circuits and the Censorate.
+
+__Coercive Apparatus & Means of Force:__ The army includes conscript infantry, cavalry, and professional guards; crossbows, iron weapons, and cavalry tactics are refined through Xiongnu wars; the Great Wall garrisons absorb substantial manpower; internal order is maintained through local constabulary and severe punishments.
+
+__Discharge, Disorder & Decay:__ Banditry and local disorder increase in periods of fiscal stress; peasant unrest surfaces intermittently but does not coalesce into rebellion until the late Western Han; the social residue is a latent instability that the Wang Mang interregnum (9–23 CE) triggers into open conflict.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Early Han relief from Qin harshness generates goodwill; by the late Western Han, fiscal pressure and elite corruption erode sentiment; the public temper darkens, and messianic expectations circulate among the distressed.
+
+__Leadership & Personal Authority:__ Founding emperor Liu Bang (Gaozu) establishes the charismatic template; Emperor Wu (r. 141–87 BCE) is the dominant personality, expanding the empire and centralizing power; later emperors are often weak, with power drifting to consort families and eunuchs.
+
+__Legitimacy as Lived Allegiance:__ The Han claims the Mandate of Heaven, succeeding the failed Qin; Confucian ideology, established as state orthodoxy under Emperor Wu, provides a justifying framework; legitimacy is deeper than under the Qin, but erosion in the late period is visible.
+
+__Political Will & Collective Resolve:__ Emperor Wu's aggressive expansion against the Xiongnu demonstrates concentrated will; after his death, will fragments among factions; by the late Western Han, the court is paralyzed by consort clan rivalries (Wang, Huo, Zhao, Wei families).
+
+__External Relations & Posture:__ The Xiongnu confederacy is the primary rival, alternately fought and appeased through heqin (marriage alliance); the Western Regions are brought under loose suzerainty; the posture is expansionist under Emperor Wu, defensive later; the Silk Road opens diplomatic and commercial exchange with distant polities.
+
+__Disaffection, Apathy & Spent Will:__ Elite disaffection surfaces in critiques of court corruption; popular messianic movements suggest spent confidence in the dynasty; Wang Mang's usurpation (9 CE) channels this disaffection into a doomed reform experiment; the emotional residue is a dynasty remembered as legitimate but decayed.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy is restricted to the official and scholarly class, perhaps 1–2% of the population; the standardized script established under Qin is refined into Clerical Script (lishu), more efficient for brush writing; mutual legibility among the literate is high; the mass remains oral.
+
+__Channels & Transmission Velocity:__ The post-road system, with relay stations every thirty li (approximately 15 km), transmits official documents at speeds of 150–200 km per day under urgent conditions; private correspondence follows the same routes more slowly; the velocity is exceptional by preindustrial standards.
+
+__Record, Storage & Persistence:__ Bamboo and wooden strips remain the primary medium; silk is used for important documents and maps (Mawangdui examples); the imperial library (Shiqu Pavilion, Tianluge) accumulates texts; Liu Xiang and Liu Xin catalogue the holdings in the Qilue (Seven Summaries), creating the first Chinese bibliography; documents outlast their makers and can be consulted by successors.
+
+__Framing, Censorship & Discourse Norms:__ Confucianism becomes state orthodoxy, framing discourse; heterodox texts are not burned as under Qin but are marginalized; officials learn to write in approved forms (memorials, edicts, histories); censorship is ideological rather than coercive.
+
+__Reception, Attention & Amplification:__ Imperial edicts are read aloud at the county level; classical texts are transmitted through master-disciple chains; the commentary tradition amplifies canonical texts; attention is concentrated on the classics and their approved interpretations.
+
+__Signal Integrity & Noise Load:__ The standardized script and bureaucratic protocols minimize transmission error; copying introduces variation, but the canon is controlled through official academies; the informational residue is a documentary state whose records accumulate beyond living memory.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confucian morality — benevolence (ren), righteousness (yi), ritual propriety (li) — provides the ethical foundation; the harsh Legalist code is softened but not abolished; the sense of justice is hierarchical, demanding different conduct from different ranks.
+
+__Law, Codification & Regulatory Evolution:__ The Han code, building on Qin precedents, is extensive but tempered; the "three capital offenses" remain severe, but penalties for lesser crimes are reduced; legal texts on bamboo strips survive from judicial archives; codification is comprehensive.
+
+__Adjudication, Liability & Sanction:__ Local officials adjudicate most cases; higher courts handle appeals and capital offenses; collective liability is reduced but not eliminated; corporal punishment, exile, and execution remain standard sanctions; judicial torture extracts confessions.
+
+__Rights, Protections & Compliance Burden:__ No concept of individual rights exists; protections derive from status and connections; the compliance burden lightens relative to Qin, but registration, taxation, and corvée obligations remain substantial.
+
+__Impunity & Unredressed Wrong:__ Powerful families and court favorites enjoy de facto impunity; petitions (song) reach the emperor but redress is uncertain; the moral residue is a system experienced as harsh by the poor and lenient for the connected.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Confucianism, systematized by Dong Zhongshu, becomes the imperial ideology; yin-yang and Five Phases cosmology integrate with Confucian ethics; the "Old Text" vs. "New Text" schools debate textual authenticity; Daoist and other traditions persist at the margins.
+
+__Applied Knowledge & Technical Method:__ Agricultural manuals (Fan Shengzhi's Book of Fan Shengzhi) codify farming technique; iron and steel production advances; lacquerware, silk weaving, and bronze casting reach high sophistication; Sima Qian's Shiji establishes historiographical method.
+
+__Education, Knowledge Stock & Skill Distribution:__ The Imperial Academy (Taixue), founded 124 BCE, trains officials in the Five Classics; the number of students expands from 50 to over 30,000 by the late Western Han; literacy remains elite, but the knowledge stock grows substantially; the commentary tradition accumulates around canonical texts.
+
+__Obsolescence & Knowledge Decay:__ Texts destroyed under the Qin are laboriously reconstructed; transmission errors introduce variants; the Liu Xiang–Liu Xin recension attempts to stabilize the canon; the intellectual residue is a tradition aware of its gaps and reconstructions.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The founding narrative — Liu Bang, commoner rebel who overthrew tyranny — legitimizes the dynasty; the Yellow Emperor and sage kings provide mythic ancestry; Chinese identity consolidates around Han/Hua self-designation; the dynasty's name becomes synonymous with the ethnic majority.
+
+__Legitimating Narrative & Ideology:__ The Mandate of Heaven, withdrawn from the Qin, passes to the Han; Confucian virtue justifies rule; the emperor as Son of Heaven mediates between cosmic and human orders; this ideology is elaborated in court rituals, edicts, and histories.
+
+__Artistic Expression & Material Culture:__ Tomb art, bronze mirrors, lacquerware, and silk textiles achieve high refinement; the Mawangdui tombs reveal the material culture of the elite: painted banners, manuscripts, musical instruments, food offerings; architecture in perishable materials leaves fewer traces; the aesthetic is elegant, detailed, and symbolic.
+
+__Form Exhaustion & Meaning Decay:__ The cultural forms are still developing, not exhausting; the fu (rhapsody) genre flourishes (Sima Xiangru, Yang Xiong); new forms emerge rather than old ones hollowing; the cultural residue is a tradition still in its formative phase.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Heaven (tian) as moral-cosmic order frames existence; yin-yang and Five Phases provide explanatory models; the afterlife is conceived as a shadowy continuation, supplied by tomb goods; human existence is embedded in cosmic and ancestral continuity.
+
+__Ritual, Devotion & Sacred Practice:__ Imperial sacrifices to Heaven (at the southern suburban altar), Earth, and the Five Emperors structure the ritual calendar; ancestral rites at the imperial temple and in households maintain lineage connection; local cults to mountains, rivers, and spirits persist.
+
+__Religious Institutions & Doctrinal Authority:__ No clerical hierarchy comparable to later Buddhism exists; fangshi (recipe masters) and diviners serve the court; Confucianism is not a religion but provides the ethical-ritual framework; doctrinal authority rests with classically trained scholars.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Huang-Lao Daoism influences early Han governance; local cults continue alongside official rites; Buddhism arrives via the Silk Road by the 1st century CE but remains marginal; syncretism is the norm, not orthodoxy.
+
+__Disenchantment & Sacred Discharge:__ The failure of immortality quests continues from the Qin; Emperor Wu's massive sacrifices and alchemical pursuits yield no elixir; skeptical voices (Wang Chong, later) critique superstition; the spiritual residue is a pragmatic religiosity, observant but not fanatical, the sacred diffused rather than concentrated.

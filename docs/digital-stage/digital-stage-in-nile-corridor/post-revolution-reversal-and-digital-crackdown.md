@@ -1,69 +1,139 @@
-# __2012 CE – 2017 CE__ — Post-Revolution Reversal and Digital Crackdown
-__Summary:__ Egypt's post-revolutionary trajectory reverses sharply as military coup (2013) supplants brief Muslim Brotherhood rule; the binding constraint is the security state's determination to eliminate digital organizing capacity that enabled 2011 mobilization; margin for dissent collapses toward zero as social media arrests, NGO closures, and anti-protest laws criminalize online expression; Sudan remains under Bashir with limited digital penetration; the direction is toward comprehensive digital surveillance and political prisoner accumulation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor concentrates population along a narrow fertile strip surrounded by desert, funneling both settlement and digital infrastructure along predictable axes; Alexandria-Cairo-Upper Egypt backbone carries fiber and mobile towers.<br><br>
-__Climate Regime & Volatility:__ Hot arid regime with negligible rainfall outside the delta; climate stable within the window but long-term Nile flow uncertainty from upstream developments adds background pressure.<br><br>
-__Hazard Regime & Exposure:__ Low seismic and storm exposure; primary hazard is heat stress in urban areas during summer peaks; infrastructure margin adequate for normal conditions.<br><br>
-__Resource & Energy Endowment:__ Depleting domestic gas fields; electricity generation strained by rising demand; Aswan High Dam provides base hydropower but upstream Ethiopian dam construction introduces future uncertainty.<br><br>
-__Waste Absorption & Sink Capacity:__ Cairo air quality severely degraded; Nile water pollution from agricultural runoff and urban discharge; electronic waste accumulating in informal recycling sectors without regulation; sink capacity under stress in urban cores.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Hepatitis C endemic at high rates; improving but persistent waterborne disease load; mortality baseline elevated by chronic conditions and healthcare access gaps.<br><br>
-__Nutrition & Physiological Vitality:__ Rising obesity and metabolic disease among urban populations; childhood stunting persists in Upper Egypt; nutritional transition underway with processed food penetration.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Delayed marriage due to economic constraints; high youth unemployment affecting household formation; fertility declining but still above replacement.<br><br>
-__Demographic Renewal & Density:__ Population growth continues at moderate pace; youth bulge peaks within window; Cairo metropolitan density among world's highest; internal migration to cities ongoing.<br><br>
-__Attrition & Dependency Overhang:__ Growing elderly cohort with inadequate pension coverage; political prisoners add to dependency burden on families; healthcare costs straining household budgets.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Bread subsidies remain essential for urban poor; fuel and food subsidies buffer subsistence floor but fiscal pressure mounting; household poverty elevated post-revolution.<br><br>
-__Energy Capture & Conversion:__ Natural gas and imported petroleum dominate; electricity shortages common 2012-2014; grid modernization underway but demand outpacing supply.<br><br>
-__Labor Organization & Coercion:__ Informal employment dominant; labor activism suppressed post-coup; wage stagnation; public sector hiring frozen; union independence curtailed.<br><br>
-__Production & Surplus Capacity:__ Tourism collapsed post-revolution; manufacturing stagnant; Suez Canal revenues steady but insufficient; GDP growth weak through mid-period.<br><br>
-__Storage, Reserves & Buffering:__ Foreign reserves depleted 2011-2013; Gulf loans and deposits provide emergency buffer; grain reserves maintained at government priority level.<br><br>
-__Exchange, Trade & Logistics:__ Currency under pressure; parallel market emerges; import-dependent economy facing supply constraints; port infrastructure adequate but customs bureaucracy slow.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Pound devaluation erodes savings; banking sector concentrated; credit access limited for SMEs; informal credit networks persist in popular quarters.<br><br>
-__Surplus Extraction & Redistribution:__ Military economic empire expands; subsidy costs burden budget; taxation capacity weak; wealth redistribution minimal despite populist rhetoric.<br><br>
-__Wealth Distribution & Asset Defense:__ Elite wealth protected through military connections and capital flight; middle class squeezed by inflation and stagnant wages; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste minimally regulated; agricultural runoff into Nile uncontrolled; plastic waste accumulation visible; routing decisions favor cheap disposal over treatment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Post-coup polarization shatters revolutionary solidarity; sectarian tensions elevated after Morsi; family and neighborhood networks remain primary safety net; trust radius contracting.<br><br>
-__Stratification, Status & Group Identity:__ Military-security elite ascendant; Muslim Brotherhood supporters criminalized as out-group; Coptic Christians targeted in attacks; class boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Extended family networks absorb economic shocks; marriage costs prohibitive for youth; inheritance patterns unchanged; household formation delayed.<br><br>
-__Civic Association & Self-Organization:__ NGO law restrictions strangle civil society; labor unions brought under state control; professional syndicates monitored; associational space collapsing.<br><br>
-__Leisure, Play & Sociability:__ Cafe culture persists but conversations guarded; football fandom remains outlet; public gatherings viewed with suspicion; private sociability retreats indoors.<br><br>
-__Grievance Channels & Social Discharge:__ Protest criminalized; mosque sermons monitored; emigration becomes primary exit option; grievances accumulate unmetabolized; online venting increasingly dangerous.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Military coup July 2013 centralizes power under Sisi; 2014 constitution enshrines military autonomy; presidency dominates all institutions; power fully concentrated.<br><br>
-__Succession & Power Transfer:__ Morsi removed by force; Sisi engineered as successor through managed referendum; succession mechanisms now opaque and potentially unstable; transfer achieved through controlled processes.<br><br>
-__Legitimacy & Political Narrative:__ Stability and anti-terrorism frame justifies repression; Muslim Brotherhood designated terrorist organization; revolutionary legitimacy claimed but inverted against dissent; belief enforced rather than earned.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Security services capable and pervasive; civilian bureaucracy bloated but functional; corruption endemic; digital surveillance capacity rapidly expanding.<br><br>
-__Political Participation & Mobilization:__ Elections managed; opposition parties hollowed out; street mobilization criminalized; political prisoners number in tens of thousands; participation channels closing.<br><br>
-__Geopolitical Position & External Relations:__ Saudi and UAE backing essential; US military aid continues despite coup; relations with Qatar and Turkey hostile; Russia engagement begins; regional position stabilizing through Gulf alignment.<br><br>
-__Coercive Apparatus & Means of Force:__ Security forces expanded and equipped; police and intelligence services primary domestic instruments; Rabaa massacre demonstrates willingness to use lethal force; apparatus overwhelming.<br><br>
-__Internal Order & Threat Environment:__ Sinai insurgency active; sporadic urban bombings; terrorism threat invoked to justify broad crackdowns; actual security threat limited but exploited for political control.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mobile penetration high; Facebook dominant platform reaching most internet users; Twitter active among elites and activists; WhatsApp spreading; transmission velocity high but monitored.<br><br>
-__Record, Storage & Persistence:__ Digital records accumulate in government databases; social media posts archived as evidence for prosecutions; citizen documentation of Rabaa preserved abroad; domestic archives under state control.<br><br>
-__Framing, Censorship & Discourse Norms:__ Media landscape consolidated under state-aligned ownership; terrorism frame dominates coverage; criticism of military taboo; discourse band narrowing sharply; self-censorship becoming norm.<br><br>
-__Reception, Attention & Amplification:__ Entertainment content maintains attention; political content consumption shifts to private channels; government messaging saturates official media; alternative narratives suppressed but circulate underground.<br><br>
-__Signal Integrity & Noise Load:__ State propaganda volume increases; independent verification capacity diminished; rumors fill information gaps; noise load rising as reliable sources close or flee.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Popular sense of injustice at mass arrests and show trials; Rabaa massacre unaccounted; moral legitimacy of courts eroded among opposition; justice instrumentalized for regime purposes.<br><br>
-__Law, Codification & Regulatory Evolution:__ Anti-protest law 2013 criminalizes assembly; NGO law restricts foreign funding; terrorism definitions expanded; regulatory framework weaponized against dissent.<br><br>
-__Adjudication, Enforcement & Liability:__ Mass trials process hundreds simultaneously; death sentences issued in bulk; military courts try civilians; judicial independence nominal; enforcement selective and political.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights suspended in practice; due process absent for political cases; detention without charge normalized; compliance burden on civil society prohibitive.<br><br>
-__Impunity & Unredressed Wrong:__ Security forces enjoy complete impunity for Rabaa and subsequent killings; torture documented but unaddressed; judicial backlog massive; impunity total for state actors.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Academic freedom constrained; research on sensitive topics dangerous; social science inquiry into politics suspended; paradigm stagnation under censorship conditions.<br><br>
-__Applied Knowledge & Technical Method:__ Surveillance technology imported and deployed; social media monitoring tools adopted; technical capacity for digital control advancing faster than other sectors.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ University enrollment high but quality declining; STEM graduates emigrating; digital literacy spreading but unevenly; knowledge drain through exile accelerating.<br><br>
-__Obsolescence & Knowledge Decay:__ Independent expertise on governance and human rights driven out; institutional memory of reform movements suppressed; critical knowledge actively degraded through persecution.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ January 25 revolution memory contested; regime narrative recasts it as foreign conspiracy; martyrdom commemorations criminalized; foundational story actively rewritten.<br><br>
-__Artistic Expression & Material Culture:__ Protest art driven underground; revolutionary murals painted over; entertainment content flourishes within apolitical bounds; architecture unchanged.<br><br>
-__Collective Mood & Behavioral Disposition:__ Fear and exhaustion replace revolutionary hope; risk aversion dominant; cynicism spreading among youth; mood darkening through window.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary slogans emptied of power; democratic vocabulary appropriated by regime; resistance symbols dangerous to display; meaning structures hollowed out under repression.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Fatalism rising post-defeat; religious observance continues but political Islam violently suppressed; existential uncertainty prevalent among youth; outlook contracting to survival focus.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mosque attendance monitored; Friday sermons government-approved; Coptic services continue under security presence; devotional practice continues within controlled bounds.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Al-Azhar aligned with regime; Muslim Brotherhood institutions dismantled; Coptic Church maintains cautious relations with state; institutional autonomy diminished.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Political Islam suppressed domestically but ideas circulate online; Salafi parties accommodated while Brotherhood excluded; spiritual landscape reorganized by political force.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary transcendence extinguished; spiritual meaning of 2011 uprising denied; disenchantment settling among those who believed change possible; sacred energy discharged into private piety or emigration aspiration.<br><br>
+# __2012 CE – 2017 CE — Post-Revolution Reversal and Digital Crackdown__
+
+__Summary:__ Egypt's brief democratic experiment ends with the 2013 military coup, and the social media platforms that enabled revolutionary mobilization become targets of state surveillance and control. The binding constraint is the regime's determination to eliminate the information space that made the 2011 uprising possible, transforming digital infrastructure from a tool of liberation into an instrument of repression while Sisi consolidates authoritarian rule over a population of ninety million.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile corridor concentrates Egypt's population along a narrow fertile strip, with Cairo (population eighteen million) as the overwhelming hub of political, media, and digital activity. Alexandria serves as a secondary center. The geographic compression that enabled revolutionary crowds to mass in Tahrir Square equally enables security forces to concentrate control.
+
+__Climate Regime & Volatility:__ The semi-arid climate remains stable, though water stress from upstream developments and population growth creates background tension that intersects with economic grievances.
+
+__Hazard Regime & Exposure:__ No major natural disasters disrupt the period. The primary hazards are political rather than environmental.
+
+__Resource & Energy Endowment:__ Egypt's declining oil production and growing energy imports strain budgets. The discovery of the Zohr gas field (2015) promises future relief but does not yet alter the economic calculus.
+
+__Waste Absorption & Sink Capacity:__ Cairo's pollution worsens as population growth outpaces infrastructure investment. Environmental concerns remain subordinate to political crisis.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Health infrastructure functions but faces budget pressure. Hepatitis C prevalence remains high. No major epidemics occur during the window.
+
+__Nutrition & Physiological Vitality:__ Bread subsidies, though fiscally costly, maintain basic nutrition. Urban poor and rural populations show stunting rates indicating chronic malnutrition among the most vulnerable.
+
+__Care, Healing & Recovery Capacity:__ Public hospitals are overcrowded and underfunded. Private healthcare serves upper and middle classes. The dual system produces uneven outcomes by class.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage remains universal but delayed by housing costs and youth unemployment. Birth rates gradually decline but remain above replacement.
+
+__Demographic Renewal & Density:__ Population grows from ninety million toward one hundred million. The youth bulge (sixty percent under thirty) creates a digitally native majority whose expectations the economy cannot meet.
+
+__Attrition & Dependency Overhang:__ The growing elderly population adds fiscal burden, but the dominant demographic challenge is youth unemployment rather than dependency ratios.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Bread and fuel subsidies consume roughly a quarter of government spending, maintaining a precarious floor that prevents mass hunger but crowds out investment.
+
+__Energy Capture & Conversion:__ Rolling blackouts in 2012-2014 indicate power generation failing to meet demand. Gas shortages force expensive fuel oil imports. The energy crisis eases somewhat by 2016.
+
+__Labor Organization & Coercion:__ Labor organizing, briefly energized post-2011, faces renewed restriction. Independent unions are marginalized. Informal employment dominates, with roughly a third of the workforce outside formal structures.
+
+__Production & Surplus Capacity:__ Tourism collapses after 2013, removing a major foreign exchange source. Manufacturing stagnates. The economy grows modestly but not enough to absorb new labor force entrants.
+
+__Storage, Reserves & Buffering:__ Foreign exchange reserves, depleted after 2011, are replenished by Gulf aid (Saudi Arabia, UAE, Kuwait provide over twenty billion dollars 2013-2017). This external cushion enables regime survival without economic reform.
+
+__Exchange, Trade & Logistics:__ Import dependence remains high. The Egyptian pound maintains an artificial peg until the 2016 devaluation, which halves its value and triggers inflation.
+
+__Value Storage, Credit & Deferred Exchange:__ The 2016 devaluation destroys savings for those holding pounds. Informal dollar markets flourish before the float. IMF loan negotiations begin.
+
+__Surplus Extraction & Redistribution:__ The military's expanding economic role channels resources into officer-class networks. Subsidy targeting begins but proceeds slowly.
+
+__Wealth Distribution & Asset Defense:__ Inequality widens. Military-connected enterprises gain market share. Asset flight to Gulf real estate accelerates among the wealthy.
+
+__Byproducts & Waste Routing:__ Industrial and municipal waste management remains inadequate. Economic pressures prevent environmental investment.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family networks remain the primary social safety net as state services prove inadequate and civic associations are suppressed.
+
+__Association & Mutual Aid:__ The 2013 NGO law and subsequent restrictions decimate civil society. Foreign-funded organizations are closed or criminalized. Informal mutual aid persists where formal association is banned.
+
+__Leisure, Play & Sociability:__ Football ultras, active in the revolution, are banned after the 2012 Port Said massacre. Public gathering becomes suspect. Cafes and private spaces serve as refuges.
+
+__Stratification, Status & Group Structure:__ The Muslim Brotherhood, briefly ascendant, is designated a terrorist organization (December 2013). Members face mass arrest, asset seizure, and professional exclusion. The suppression reshapes political geography as Islamist participation is criminalized.
+
+__Administrative Capacity & Institutional Integrity:__ Military and security services dominate the state. Civilian ministries function but with reduced autonomy. Corruption remains endemic but is selectively prosecuted against political opponents.
+
+__Coercive Apparatus & Means of Force:__ The security apparatus expands rapidly. The Rabaa massacre (August 2013, at least 800 killed) demonstrates willingness to use mass lethal force. Police brutality intensifies. Military courts try civilians.
+
+__Discharge, Disorder & Decay:__ The Sinai insurgency intensifies after 2013, with Ansar Beit al-Maqdis (later pledging allegiance to ISIS) conducting attacks. Mainland terrorism peaks in 2014-2015. Tens of thousands are imprisoned without trial.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear replaces the revolutionary hope of 2011. Self-censorship becomes reflexive. Trust contracts to immediate family and close friends. Public political expression becomes dangerous.
+
+__Leadership & Personal Authority:__ Sisi cultivates a strongman image, promising stability and order. His authority depends on Gulf backing and security force loyalty rather than democratic legitimacy.
+
+__Legitimacy as Lived Allegiance:__ Regime legitimacy rests on three claims: that the Brotherhood threatened the state, that only the military can ensure stability, and that economic improvement will follow. Each claim has believers and skeptics.
+
+__Political Will & Collective Resolve:__ Revolutionary will dissipates under repression. The activist community fragments, with some imprisoned, others exiled, and many withdrawing from politics. Collective action becomes nearly impossible.
+
+__External Relations & Posture:__ Egypt aligns firmly with Saudi Arabia and the UAE against Qatar and the Brotherhood. Relations with the US remain tense over coup language but functional. Russia and China are cultivated as alternatives.
+
+__Disaffection, Apathy & Spent Will:__ Widespread disillusionment settles among the post-2011 generation. Neither regime supporters nor opponents feel confident. Apathy and cynicism become dominant rather than active opposition.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Internet penetration grows from forty percent (2012) toward fifty percent (2017). Smartphones proliferate, expanding access beyond computer-owning households. Arabic-language content dominates.
+
+__Channels & Transmission Velocity:__ Facebook reaches roughly thirty-five million Egyptian users by 2017. WhatsApp messaging grows rapidly. Twitter remains smaller but politically significant. 4G mobile data expands access.
+
+__Record, Storage & Persistence:__ Social media creates permanent records of political expression. Security services develop capacity to retrieve and use these records in prosecutions. Digital trails become evidence in trials.
+
+__Framing, Censorship & Discourse Norms:__ Website blocking begins systematically after 2013. Over five hundred websites are blocked by 2017, including news sites, VPNs, and human rights organizations. Arrests for social media posts establish new red lines.
+
+__Reception, Attention & Amplification:__ State media amplifies regime narratives. Independent outlets face pressure or closure. Al Jazeera staff are imprisoned, signaling that regional media are not exempt.
+
+__Signal Integrity & Noise Load:__ Surveillance capabilities expand, reportedly using European-supplied deep packet inspection technology. Social media monitoring units identify critics. The watched population grows, though precise scope is unknown.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice claims divide sharply. Regime supporters see Brotherhood trials as accountability; opponents see them as political persecution. The Rabaa massacre is either necessary or criminal depending on political alignment.
+
+__Law, Codification & Regulatory Evolution:__ The 2013 protest law requires police permission for gatherings, effectively criminalizing demonstrations. The 2014 constitution expands military court jurisdiction over civilians. Each legal change tightens state control.
+
+__Adjudication, Liability & Sanction:__ Mass trials become routine, with hundreds sentenced in single proceedings that cannot provide individual consideration. Death sentences multiply, though execution rates remain lower. Due process erodes.
+
+__Rights, Protections & Compliance Burden:__ Press freedom collapses. Freedom of assembly is eliminated. Freedom of expression survives only within narrowing bounds. International human rights criticism is dismissed as foreign interference.
+
+__Impunity & Unredressed Wrong:__ No security personnel face consequences for Rabaa or subsequent violence. Impunity for state actors is complete. The backlog of detained awaiting trial grows into tens of thousands.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic freedom contracts. Foreign universities in Cairo maintain some independence, but Egyptian institutions face pressure against politically sensitive research.
+
+__Applied Knowledge & Technical Method:__ Digital surveillance expertise develops within security services, reportedly with foreign assistance. The state builds technical capacity to monitor online activity.
+
+__Education, Knowledge Stock & Skill Distribution:__ Educational quality continues declining despite high enrollment. Graduate unemployment suggests skills mismatch. Brain drain accelerates as professionals emigrate.
+
+__Obsolescence & Knowledge Decay:__ The generation of activists and NGO workers who developed organizing expertise in 2011 is dispersed, imprisoned, or exiled. Institutional knowledge of civil society disappears.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The meaning of January 25 becomes contested. State narratives reframe it as chaos requiring rescue. Revolutionary memory survives privately but cannot be publicly commemorated.
+
+__Legitimating Narrative & Ideology:__ The regime's legitimating narrative emphasizes stability, order, and defense against terrorism and foreign plots. The Brotherhood is cast as existential threat, requiring permanent vigilance.
+
+__Artistic Expression & Material Culture:__ Satire and political art, briefly flourishing after 2011, retreat. Bassem Youssef's satirical show is cancelled. Street art is painted over. Creative expression turns apolitical or leaves the country.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary slogans and symbols lose potency through repression and passage of time. The aesthetic vocabulary of 2011 cannot be safely deployed.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Religious identity remains central but politically dangerous. Being visibly Islamist invites suspicion. Secular Egyptians must demonstrate they are not Brotherhood sympathizers.
+
+__Ritual, Devotion & Sacred Practice:__ Mosque sermons are brought under state control through the Ministry of Religious Endowments. Unauthorized preachers are banned. Religious practice continues but under tightened state management.
+
+__Religious Institutions & Doctrinal Authority:__ Al-Azhar maintains institutional position, occasionally offering mild criticism, but largely aligns with state priorities. The Coptic Church supports the regime after Brotherhood removal.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Brotherhood's political Islam is suppressed but not theologically displaced. Members maintain beliefs while hiding affiliation.
+
+__Disenchantment & Sacred Discharge:__ Neither religious nor revolutionary faith provides solace. The post-revolutionary generation faces a spiritual void where neither the sacred nor the political offers hope.

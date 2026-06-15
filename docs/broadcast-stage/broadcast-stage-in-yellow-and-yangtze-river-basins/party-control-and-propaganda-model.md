@@ -1,69 +1,139 @@
-# __1950 CE – 2012 CE__ — Party Control and Propaganda Model
-__Summary:__ Pan-temporal snapshot of the Chinese Communist Party's broadcasting control apparatus across six decades, from total revolutionary monopoly through reform-era adaptation to digital-age recalibration; the binding constraint is the party's requirement that all broadcast content serve political messaging while accommodating commercial pressures and technological change; the system retains wide margin against internal dissent through layered censorship, personnel control, and pre-broadcast review, though internet emergence by window's end strains the model; direction of change moves from rigid ideological saturation toward flexible authoritarian management of a commercialized media landscape.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Vast territory from Yellow River plains to Yangtze basin requires hierarchical relay infrastructure — central stations in Beijing feed provincial capitals, which feed prefectural and county transmitters; mountainous terrain in west and southwest creates coverage gaps that wired broadcasting and later satellite partially close.<br><br>
-__Climate Regime & Volatility:__ Monsoon variability and periodic flooding affect infrastructure maintenance but do not fundamentally constrain the propaganda apparatus; seasonal agricultural cycles shape programming schedules for rural audiences.<br><br>
-__Hazard Regime & Exposure:__ Earthquakes in Sichuan and elsewhere occasionally disrupt local broadcasting but the redundant national system absorbs shocks; 2008 Wenchuan earthquake tests information control under crisis conditions.<br><br>
-__Resource & Energy Endowment:__ Coal-fired electrification expands grid coverage progressively; by window's end grid reaches over 99% of population, removing power access as constraint on broadcast reception.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from obsolete receivers accumulates through successive technology transitions — vacuum tube to transistor to digital — but remains marginal relative to industrial discharge and does not constrain operations.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Mortality falls dramatically across window as public health improves; broadcasting serves health campaigns — anti-schistosomiasis, family planning, vaccination — integrating propaganda with epidemiological messaging.<br><br>
-__Nutrition & Physiological Vitality:__ Famine during Great Leap Forward (1959–1961) occurs under propaganda cover denying crisis; reform era brings improved nutrition and taller, healthier cohorts who consume media more actively.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ One-child policy from 1980 broadcast relentlessly through all channels; propaganda shapes reproductive norms directly, demonstrating system's reach into intimate behavior.<br><br>
-__Demographic Renewal & Density:__ Population grows from 550 million to 1.35 billion; urbanization accelerates post-1990, shifting audience from rural wired networks to urban television households.<br><br>
-__Attrition & Dependency Overhang:__ Aging population emerges by window's end; elderly cohorts acculturated to broadcast obedience represent reliable audience while youth drift toward internet alternatives.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Collectivization-era scarcity gives way to reform abundance; broadcasting transitions from mobilizing production to promoting consumption, reflecting economic transformation.<br><br>
-__Energy Capture & Conversion:__ Electrification essential for broadcast reception expands from 40% household coverage in 1950s to near-universal by 2000; power infrastructure enables rather than constrains propaganda reach.<br><br>
-__Labor Organization & Coercion:__ Work units (danwei) control information access through workplace loudspeakers and collective viewing; market reforms fragment this captive audience structure, requiring adaptation.<br><br>
-__Production & Surplus Capacity:__ Television manufacturing becomes major industry; domestic production of sets enables mass penetration — 400 million TV households by window's end — while creating export surplus.<br><br>
-__Storage, Reserves & Buffering:__ State broadcasting budget guaranteed regardless of commercial performance; advertising revenue supplements but does not determine propaganda priorities.<br><br>
-__Exchange, Trade & Logistics:__ Commercial advertising introduced 1979 creates revenue stream and consumption messaging that must be balanced against political content; advertising-to-propaganda ratio remains firmly controlled.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Broadcasting promotes savings campaigns, consumption patterns, and financial literacy as economy marketizes; currency stability messaging integrated into economic programming.<br><br>
-__Surplus Extraction & Redistribution:__ Broadcasting funded through state budget allocation and mandatory cable fees; commercial revenue flows to provincial stations create center-periphery tensions over content control.<br><br>
-__Wealth Distribution & Asset Defense:__ Programming avoids discussion of wealth inequality; official narrative emphasizes shared prosperity even as Gini coefficient rises through reform era.<br><br>
-__Byproducts & Waste Routing:__ Propaganda generates ideological residue — cynicism, disbelief, performative compliance — that accumulates as gap between official messaging and lived experience widens; routed into private complaint and coded humor rather than public challenge.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Wired broadcasting's inescapability generates shared information environment that both builds national community and breeds collective skepticism; trust in official sources declines through window while interpersonal information-sharing persists.<br><br>
-__Stratification, Status & Group Identity:__ Broadcasting suppresses ethnic and regional identities in favor of unified Chinese nation; Mandarin-language dominance marginalizes dialect speakers; cadre access to internal reference materials creates information stratification.<br><br>
-__Kinship, Family & Inheritance:__ Family viewing around television becomes domestic ritual; Spring Festival Gala reinforces familial gathering as national practice; messaging shapes marriage and childbearing norms directly.<br><br>
-__Civic Association & Self-Organization:__ Independent associations prohibited; broadcasting substitutes state-organized participation through call-in programs and viewer letters that simulate engagement while maintaining control.<br><br>
-__Leisure, Play & Sociability:__ Television transforms leisure patterns, replacing communal entertainment with household viewing; public squares retain collective television screens for major events and campaigns.<br><br>
-__Grievance Channels & Social Discharge:__ Broadcast letters programs and controlled complaint mechanisms absorb some friction; deeper grievances deflected to individual petition system or suppressed; unmetabolized discontent accumulates beneath surface compliance.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ CCP maintains monopoly control over all broadcasting through Propaganda Department, State Administration of Radio, Film and Television (SARFT), and direct personnel appointments; structure centralizes steadily despite commercial diversification.<br><br>
-__Succession & Power Transfer:__ Leadership transitions choreographed through broadcast coverage; new leaders introduced via extensive positive programming; broadcasting legitimates succession by manufacturing continuity narrative.<br><br>
-__Legitimacy & Political Narrative:__ Broadcasting constructs and maintains party legitimacy narrative — revolutionary history, development achievements, national rejuvenation — adapting emphasis from class struggle to economic growth to harmonious society as conditions change.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Multi-layered censorship apparatus — pre-production approval, real-time monitoring, post-broadcast review — demonstrates high administrative capacity; corruption in enforcement remains limited by political stakes.<br><br>
-__Political Participation & Mobilization:__ Broadcasting mobilizes campaigns — anti-rightist, Cultural Revolution, reform support — while excluding genuine political participation; viewer engagement strictly channeled and monitored.<br><br>
-__Geopolitical Position & External Relations:__ External broadcasting through Radio Beijing/China Radio International projects party narrative abroad; foreign broadcasts jammed; international image management becomes priority from 1990s.<br><br>
-__Coercive Apparatus & Means of Force:__ Broadcasting supports security apparatus through wanted announcements, anti-crime campaigns, and stability messaging; military parades and security coverage reinforce state power imagery.<br><br>
-__Internal Order & Threat Environment:__ Tiananmen 1989 demonstrates broadcast system's role in crisis management — information blackout followed by official narrative dominance; similar patterns apply to ethnic unrest and natural disasters.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Three-tier transmission — central to provincial to local — ensures message discipline with controlled speed; important announcements synchronized across all channels; reform era adds commercial channels within controlled framework.<br><br>
-__Record, Storage & Persistence:__ Broadcasting archives maintained by state; embarrassing historical content (Cultural Revolution excesses, Tiananmen) systematically excluded from accessible record; institutional memory selective and politically managed.<br><br>
-__Framing, Censorship & Discourse Norms:__ Comprehensive pre-broadcast censorship through content review; banned topics include Taiwan independence, Tibet, Tiananmen, leadership criticism; permitted discourse band narrows during crises, loosens during stable periods.<br><br>
-__Reception, Attention & Amplification:__ Captive audiences through Cultural Revolution give way to voluntary viewing; attention competition from entertainment requires propaganda to become more sophisticated; viral amplification absent until internet emerges.<br><br>
-__Signal Integrity & Noise Load:__ Official signal dominates; foreign broadcasts jammed; internal noise limited to whisper networks and unofficial channels; internet emergence by window's end introduces unprecedented noise the system struggles to manage.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Broadcasting promotes party-defined morality — collective over individual, stability over rights, development over environment — shaping popular justice concepts while diverging from traditional and liberal alternatives.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting regulations codified through State Council decrees and SARFT rules; licensing requirements, content guidelines, and ownership restrictions progressively elaborated; legal framework serves control rather than rights.<br><br>
-__Adjudication, Enforcement & Liability:__ Violations handled administratively through license revocation, personnel removal, and channel suspension rather than judicial process; high-profile cases (Southern Weekend 2013, just after window) demonstrate enforcement mechanisms.<br><br>
-__Rights, Protections & Compliance Burden:__ No enforceable right to broadcast; compliance burden falls entirely on content producers who self-censor to avoid punishment; foreign content requires additional approval layers.<br><br>
-__Impunity & Unredressed Wrong:__ Party officials enjoy impunity in using broadcasting for factional purposes; historical wrongs (false accusations during campaigns) unredressed through broadcast medium; victims lack access to counter-narrative.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Broadcasting research conducted within Marxist-Leninist framework adapted to Chinese conditions; communication studies develop post-1980 but remain subordinate to party theory; propaganda science institutionalized in party schools.<br><br>
-__Applied Knowledge & Technical Method:__ Technical broadcasting knowledge imported from Soviet Union then Japan and West; production techniques professionalize through window; audience research methods adopted from commercial systems but serve political optimization.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Broadcasting personnel trained in party schools and specialized academies; journalism education subordinates professional norms to political reliability; technical skills widely distributed, editorial judgment concentrated.<br><br>
-__Obsolescence & Knowledge Decay:__ Maoist media theory partially superseded by pragmatic approaches but never explicitly repudiated; contradictions between revolutionary doctrine and commercial practice generate theoretical incoherence that goes unresolved.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Broadcasting constructs and reinforces official historical memory — revolutionary martyrs, anti-Japanese resistance, socialist construction — while suppressing counter-narratives; collective memory shaped more by broadcast than by lived experience for post-revolutionary generations.<br><br>
-__Artistic Expression & Material Culture:__ Revolutionary aesthetics give way to commercial entertainment within ideological boundaries; visual language evolves from socialist realism through reform-era eclecticism to contemporary production values; Spring Festival Gala establishes national aesthetic reference point.<br><br>
-__Collective Mood & Behavioral Disposition:__ Broadcasting both reflects and shapes collective mood — revolutionary fervor, reform optimism, nationalist pride — with capacity to mobilize sentiment rapidly; mood management becomes explicit propaganda objective.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary symbols and slogans lose mobilizing power through repetition; "speaking the official language" becomes performative rather than sincere; cynical compliance coexists with genuine patriotic sentiment; forms hollowed but not replaced.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Official atheism promoted throughout; Marxist materialist worldview broadcast but incompletely internalized; traditional cosmologies persist beneath surface, resurging during reform era's religious revival.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Secular political rituals — National Day, Party Congress, Spring Festival Gala — substitute for religious observance in broadcast schedule; traditional festivals rehabilitated post-Mao but within secular framework.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Registered religious organizations given limited broadcast access; unregistered groups (house churches, Falun Gong) subject to hostile propaganda campaigns; party maintains interpretive authority over permitted religious expression.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism, Daoism, folk religion spread through unofficial channels while official broadcasts promote atheism; Christian growth occurs largely outside broadcast system; spiritual marketplace diversifies despite propaganda.<br><br>
-__Disenchantment & Sacred Discharge:__ Marxist cosmology loses grip without replacement; moral vacuum acknowledged in official discourse about "spiritual civilization"; materialist consumerism fills void for many while others seek traditional or new religious answers outside broadcast framework.<br><br>
+# __1950 CE – 2012 CE — Party Control and Propaganda Model__
+
+__Summary:__ The Chinese Communist Party maintains unbroken control over broadcasting throughout six decades of radical political change, economic transformation, and technological evolution, adapting its propaganda apparatus from wired loudspeakers to satellite television while preserving the core principle that media serves as the "throat and tongue of the party" — the binding constraint being the party's absolute refusal to permit any structurally independent broadcast voice, even as commercial incentives and audience expectations reshape programming within that immovable frame.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The vast territorial span from the Yellow River basin through the Yangtze watershed poses formidable challenges for centralized broadcast control, with mountain ranges, river systems, and distances creating natural barriers to signal penetration that the wired broadcasting network specifically addresses by routing party content through physical cable rather than contested airwaves.
+
+__Climate Regime & Volatility:__ Seasonal monsoons and continental temperature extremes affect broadcast infrastructure maintenance, while climate disasters — floods, droughts, earthquakes — become occasions for demonstrating party responsiveness through emergency broadcasting, with the 2008 Sichuan earthquake coverage exemplifying this integration of crisis and propaganda.
+
+__Hazard Regime & Exposure:__ Seismic activity along fault zones, seasonal flooding in river basins, and periodic drought conditions create recurring emergency scenarios that the propaganda apparatus frames as tests of party competence, with broadcast coverage tightly controlled to emphasize rescue efforts and official response while suppressing criticism.
+
+__Resource & Energy Endowment:__ China's transition from coal-dependent electrification to diversified energy supplies enables the expansion from urban broadcasting centers to near-universal television coverage, with the material infrastructure of transmission towers, cable networks, and satellite uplinks requiring sustained resource investment that only state coordination can mobilize at scale.
+
+__Waste Absorption & Sink Capacity:__ The industrial expansion powering broadcast infrastructure development contributes to accumulating air and water pollution that broadcast coverage systematically underreports, creating a gap between official environmental messaging and lived experience that contributes to credibility erosion by the window's end.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Mortality drops dramatically across the window as disease control improves, but broadcasting's role in public health campaigns — from patriotic health movements through SARS crisis management — demonstrates propaganda's integration with biosecurity, even as the SARS coverup reveals tension between party secrecy reflexes and epidemic response requirements.
+
+__Nutrition & Physiological Vitality:__ The population's physical transformation from widespread malnutrition through the famine years to obesity concerns by 2012 parallels shifts in broadcast content, with early propaganda emphasizing production campaigns giving way to consumer advertising and health programming addressing new dietary challenges.
+
+__Care, Healing & Recovery Capacity:__ Broadcasting promotes traditional Chinese medicine alongside modern healthcare throughout the period, with the propaganda apparatus framing medical modernization as party achievement while controlling information about health system failures, drug scandals, and uneven access.
+
+__Reproductive Biology & Pairing Dynamics:__ The one-child policy from 1979 receives sustained broadcast support through propaganda campaigns, public service announcements, and entertainment programming that normalizes small families, demonstrating broadcasting's deployment for demographic engineering unprecedented in scale.
+
+__Demographic Renewal & Density:__ Population growth from 550 million to 1.35 billion occurs alongside urbanization that concentrates audiences in cities where television penetration reaches near-universality, while rural populations remain longer dependent on wired broadcasting and radio for party messaging.
+
+__Attrition & Dependency Overhang:__ The aging population produced by demographic transition receives growing broadcast attention through programming addressing elder care, pension concerns, and intergenerational relations, though critical coverage of inadequate social safety nets remains constrained.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Broadcasting's economic messaging shifts fundamentally from Maoist production campaigns through reform-era development promotion to consumer-oriented programming, with advertising revenue transforming station economics while maintaining party control over content boundaries.
+
+__Energy Capture & Conversion:__ Electrification expansion enables broadcast infrastructure buildout, with the transition from coal-fired generation to diversified supplies paralleling the shift from limited urban broadcasting to nationwide coverage requiring massive power infrastructure investment.
+
+__Labor Organization & Coercion:__ Broadcasting work units (danwei) operate under standard state-sector employment conditions, with journalists and producers subject to party discipline through personnel appointments, performance evaluations tied to political correctness, and periodic campaigns against ideological deviation.
+
+__Production & Surplus Capacity:__ Television advertising revenue grows from zero in 1979 to billions of yuan annually by 2012, creating commercial incentives that drive programming innovation within party-defined boundaries, with CCTV's advertising auction becoming a barometer of China's consumer economy.
+
+__Storage, Reserves & Buffering:__ Broadcast archives preserve party history selectively, with Cultural Revolution footage restricted, Tiananmen imagery suppressed, and historical programming curated to reinforce current ideological priorities, making the archive itself a propaganda instrument.
+
+__Exchange, Trade & Logistics:__ Program distribution networks evolve from centralized tape distribution to satellite delivery and digital file transfer, with CCTV content flowing to provincial stations through mandated carriage requirements that ensure Xinwen Lianbo reaches every television household.
+
+__Value Storage, Credit & Deferred Exchange:__ Advertising time becomes a tradeable commodity within the controlled broadcast market, with CCTV auction prices serving as prestige markers for bidding enterprises and provincial stations competing for advertising share within regulatory frameworks that prevent foreign ownership.
+
+__Surplus Extraction & Redistribution:__ Revenue sharing between central and provincial broadcasters creates fiscal relationships reinforcing administrative hierarchy, with CCTV's advertising dominance ensuring central-level resource concentration while provincial stations retain local commercial proceeds.
+
+__Wealth Distribution & Asset Defense:__ Media assets remain state property throughout, with the commercial turn creating opportunities for corruption and asset-stripping that periodic anti-corruption campaigns address without altering fundamental ownership structures.
+
+__Byproducts & Waste Routing:__ Obsolescent broadcast equipment — vacuum tubes, analog transmitters, cathode-ray receivers — creates electronic waste streams managed through informal recycling networks, while the financial system clears advertising debts through standard commercial mechanisms.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Broadcasting reinforces family cohesion through shared viewing experiences, with the Spring Festival Gala becoming a national family ritual, while programming promotes filial values even as economic migration fragments traditional household structures.
+
+__Association & Mutual Aid:__ Party-affiliated mass organizations receive systematic broadcast promotion, while independent civil society organizations remain invisible on screen, with the propaganda apparatus maintaining silence on any associational activity outside party sponsorship.
+
+__Leisure, Play & Sociability:__ Television transforms leisure patterns as households organize evening routines around programming schedules, with the post-dinner news hour and evening drama blocks structuring domestic time across urban China.
+
+__Stratification, Status & Group Structure:__ Broadcasting simultaneously promotes official egalitarianism and enables new status displays through consumer advertising, with programming shifting from worker-peasant-soldier heroes toward entrepreneurial success stories and celebrity culture while maintaining ideological frame.
+
+__Administrative Capacity & Institutional Integrity:__ The Central Propaganda Department maintains oversight through a bureaucratic apparatus reaching from Politburo-level direction through SARFT (State Administration of Radio, Film and Television) regulation to station-level party committees, with personnel appointments requiring party approval at all senior levels.
+
+__Coercive Apparatus & Means of Force:__ Signal jamming of foreign broadcasts, surveillance of shortwave listening, and punishment of unauthorized transmission demonstrate the coercive backing of broadcast control, while armed police and military receive favorable coverage that reinforces their legitimacy.
+
+__Discharge, Disorder & Decay:__ The gap between official messaging and lived reality generates cynicism that accumulates through the period, with audience skepticism toward news programming coexisting with entertainment consumption, and online platforms by 2012 providing alternative information channels that broadcast monopoly cannot suppress.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Party propaganda seeks to cultivate patriotic sentiment, social confidence, and trust in leadership, with varying success across political phases — revolutionary fervor during the Cultural Revolution, pragmatic optimism during reform, and anxious nationalism after Tiananmen.
+
+__Leadership & Personal Authority:__ Broadcasting projects leadership personalities according to shifting propaganda requirements — Mao's cult of personality, Deng's pragmatic image, Jiang's technocratic presentation, Hu's "harmonious society" framing — with coverage calibrated to current political needs.
+
+__Legitimacy as Lived Allegiance:__ Performance legitimacy replaces revolutionary legitimacy across the period, with broadcasting emphasizing economic growth, national prestige, and competent governance rather than ideological correctness, while maintaining enough ideological content to satisfy doctrinal requirements.
+
+__Political Will & Collective Resolve:__ Major events — Olympic Games, World Expo, space launches — receive saturation coverage designed to generate collective pride and demonstrate party capacity, with broadcasting mobilizing emotional investment in national achievements.
+
+__External Relations & Posture:__ Foreign affairs coverage maintains consistent nationalist framing, with Western powers portrayed skeptically, Japan-related coverage inflected by historical grievance, and developing-world relationships presented as Chinese generosity, all calibrated to domestic political requirements.
+
+__Disaffection, Apathy & Spent Will:__ Growing audience sophistication produces differential reception — accepting entertainment while discounting news, seeking foreign sources while consuming domestic content — with the propaganda apparatus adjusting tactics without acknowledging credibility deficits that nevertheless accumulate.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Mandarin standardization receives massive reinforcement through broadcasting, with putonghua becoming the universal broadcast language, while dialect and minority-language services remain marginal, and the population's passive comprehension of standard Mandarin rises to near-universality.
+
+__Channels & Transmission Velocity:__ The channel infrastructure evolves from limited radio frequencies through television expansion to satellite and cable proliferation, with channel multiplication enabling specialization while the 7 PM news slot retains its position as the daily synchronization point for party messaging.
+
+__Record, Storage & Persistence:__ Broadcasting produces official historical record that preserves party-approved narratives while suppressing alternative documentation, with archives maintaining selective accessibility that serves ongoing propaganda requirements rather than historical inquiry.
+
+__Framing, Censorship & Discourse Norms:__ The "forbidden zones" — Taiwan, Tibet, Tiananmen, and other sensitive topics — structure broadcast content through absence and euphemism, with journalists internalizing boundaries through career incentives rather than primarily through explicit prohibition.
+
+__Reception, Attention & Amplification:__ Audience attention patterns shift from captive reception of limited content toward selective consumption of abundant programming, with entertainment competition for eyeballs operating within propaganda constraints that reserve news and current affairs for party messaging.
+
+__Signal Integrity & Noise Load:__ The growing gap between broadcast claims and alternative information sources — initially foreign radio, later internet — increases cognitive dissonance, with official credibility eroding even as technical signal quality improves through infrastructure modernization.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Broadcasting promotes officially sanctioned moral frameworks — socialist values, patriotic virtue, social harmony — while the disconnect between official rectitude and observable corruption generates moral cynicism that propaganda cannot address without acknowledging the problem.
+
+__Law, Codification & Regulatory Evolution:__ Broadcast regulation evolves from party directives through administrative regulations to formal law, with the Propaganda Department's informal guidance coexisting with SARFT's regulatory authority in a dual structure that maintains party supremacy.
+
+__Adjudication, Liability & Sanction:__ Journalists and stations face administrative sanctions for ideological violations, with dismissal, license revocation, and in severe cases prosecution available as enforcement mechanisms, while self-censorship reduces the need for overt punishment.
+
+__Rights, Protections & Compliance Burden:__ No legal right to broadcast exists independent of party authorization, with licensing controlled entirely by state authorities, and no judicial remedy available for content suppression or mandatory coverage requirements.
+
+__Impunity & Unredressed Wrong:__ Victims of propaganda — those falsely denounced during campaigns, those whose grievances remain unbroadcast — have no mechanism for correction or redress, with the propaganda apparatus acknowledging past excesses only when politically convenient.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Communication studies and journalism education develop within ideological constraints, with "Marxist journalism" remaining the official framework even as practitioners privately recognize its disconnect from professional practice.
+
+__Applied Knowledge & Technical Method:__ Broadcast production techniques modernize continuously — from live radio through videotape to digital production — with technical sophistication advancing while editorial constraints remain, creating a professionally capable workforce operating within political limits.
+
+__Education, Knowledge Stock & Skill Distribution:__ Journalism training expands through university programs and professional development, with the skill base growing even as ideological education maintains its curricular position, producing technically competent personnel who understand unwritten rules.
+
+__Obsolescence & Knowledge Decay:__ Revolutionary-era propaganda techniques become increasingly ineffective with sophisticated audiences, but the apparatus struggles to retire them, with Xinwen Lianbo's format persisting through inertia even as audiences tune out, and innovative approaches constrained by risk aversion.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Broadcasting reinforces party-approved historical narratives — the "century of humiliation," revolutionary struggle, economic miracle — while suppressing alternative memories, with anniversary programming and historical dramas curating collective memory.
+
+__Legitimating Narrative & Ideology:__ The justifying story shifts from class struggle through "socialism with Chinese characteristics" to "harmonious society" and "Chinese dream," with broadcasting tracking ideological evolution while maintaining the fundamental legitimation of party rule.
+
+__Artistic Expression & Material Culture:__ Programming aesthetics evolve from revolutionary realism through post-Mao diversification to commercial entertainment, with production values rising continuously while content boundaries persist, and the Spring Festival Gala crystallizing official culture's visual vocabulary.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary symbols lose resonance through repetition and disconnection from lived experience, with younger audiences receiving party imagery as background noise rather than mobilizing message, and official culture increasingly competing with commercial entertainment for attention.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Official atheism receives broadcast reinforcement through absence — religious programming virtually nonexistent outside minority-service contexts — while implicit materialist assumptions structure content across genres.
+
+__Ritual, Devotion & Sacred Practice:__ Broadcasting creates secular rituals that partially substitute for religious observance, with the Spring Festival Gala, National Day coverage, and major event ceremonies providing collective participation opportunities structured by party choreography.
+
+__Religious Institutions & Doctrinal Authority:__ Registered religious bodies receive minimal, controlled broadcast access, while unregistered religions, Falun Gong, and other spiritual movements face complete broadcast suppression combined with active propaganda denunciation.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The gradual relaxation after Mao permits some religious revival, but broadcasting maintains official secularism, with programming reflecting material values and nationalist spirituality rather than transcendent religious content.
+
+__Disenchantment & Sacred Discharge:__ The meaning vacuum left by ideological exhaustion remains inadequately filled by consumer materialism or nationalist sentiment, with spiritual seeking directed toward unbroadcast channels — temple visits, underground churches, personal practice — that the propaganda apparatus cannot reach.

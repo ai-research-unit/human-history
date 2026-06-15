@@ -1,69 +1,139 @@
-# __2020 CE – 2026 CE__ — Pandemic Digitization and AI Emergence
-__Summary:__ Japan's digital infrastructure faces stress-test as COVID-19 exposes systemic gaps — fax-dependent bureaucracy, paper-based processes, and low remote-work adoption — while pandemic pressure and AI arrival force accelerated digitization; binding constraint is institutional resistance to workflow transformation; margin against further disruption remains thin where legacy systems persist; direction is toward grudging modernization with uneven uptake across sectors and demographics.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island archipelago with high urban density in Pacific coastal corridors; Tokyo-Osaka axis concentrates population and digital infrastructure; mountainous interior limits broadband reach in rural periphery.<br><br>
-__Climate Regime & Volatility:__ Humid subtropical to temperate regime with typhoon exposure; seasonal extremes manageable within existing infrastructure; climate volatility does not bind digital transition but natural disasters continue to test systems.<br><br>
-__Hazard Regime & Exposure:__ Seismic and typhoon exposure remains constant; 2024 Noto earthquake tests digital emergency systems; infrastructure redundancy improved since 2011 but aging physical plant constrains margin.<br><br>
-__Resource & Energy Endowment:__ Energy-import dependent; electricity grid stable but post-Fukushima nuclear reduction constrains baseload; data center expansion competes for power capacity.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste volumes rising with device turnover; recycling infrastructure adequate for current load; no binding constraint from digital-specific waste streams in this window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic dominates early window; Japan's excess mortality lower than peer nations but aging population highly vulnerable; endemic transition by 2023.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional status stable; pandemic-era isolation affects mental health metrics; no famine or acute deprivation; aging bodies strain care capacity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Birth rate continues secular decline; pandemic suppresses marriage and conception rates further; no biological shift but behavioral withdrawal from pairing deepens.<br><br>
-__Demographic Renewal & Density:__ Population shrinking approximately 500,000 annually; median age above 48; super-aged society with replacement ratio far below unity; urban density stable as rural depopulation accelerates.<br><br>
-__Attrition & Dependency Overhang:__ Dependency ratio among world's highest; elderly cohort expands while working-age shrinks; care burden strains both public systems and household capacity; digital tools sought as partial offset.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning secure; supply chains stressed early pandemic then stabilize; no subsistence crisis but cost-of-living pressure rises with yen depreciation 2022-2024.<br><br>
-__Energy Capture & Conversion:__ Grid-delivered electricity powers digital infrastructure; energy prices spike 2022 with Ukraine war; efficiency gains from cloud consolidation partially offset rising demand.<br><br>
-__Labor Organization & Coercion:__ Wage labor dominant; remote work adoption rises from negligible baseline to perhaps 20-30% of office workers at peak then partially retreats; lifetime employment norms eroding but coercion minimal.<br><br>
-__Production & Surplus Capacity:__ Manufacturing output stable; semiconductor shortages constrain auto and electronics 2021-2022; services dominate GDP; digital sector grows but overall surplus growth sluggish.<br><br>
-__Storage, Reserves & Buffering:__ Fiscal reserves depleted by pandemic stimulus; corporate cash holdings high; household savings substantial but unevenly distributed; buffer adequate for gradual digitization costs.<br><br>
-__Exchange, Trade & Logistics:__ Supply chains recover post-pandemic; domestic logistics efficient; e-commerce penetration rises; platform intermediaries capture increasing share of retail flow.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Yen weakens significantly against dollar; near-zero interest rates persist; cashless payment adoption accelerates via PayPay and LINE Pay; credit access stable.<br><br>
-__Surplus Extraction & Redistribution:__ Government spending elevated for pandemic response and digitization initiatives; Digital Agency budget modest relative to stated ambitions; extraction via consumption tax stable.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentration stable; asset inflation benefits property and equity holders; generational divide widens as younger cohorts face precarious employment; no major redistribution.<br><br>
-__Byproducts & Waste Routing:__ Paper document volumes declining slowly; e-waste managed through established recycling channels; no acute routing crisis; legacy paper systems generate redundant processing costs rather than physical waste burden.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High baseline interpersonal trust; pandemic strains social contact but mutual aid networks hold; digital tools partially substitute for in-person community; trust radius stable.<br><br>
-__Stratification, Status & Group Identity:__ Class boundaries stable; digital divide tracks age and urban-rural axes; elderly and rural populations lag adoption; no new status cleavages emerge from digitization itself.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear household remains dominant; pandemic accelerates family fragmentation through isolation; LINE maintains kin connectivity across distance; inheritance patterns unchanged.<br><br>
-__Civic Association & Self-Organization:__ Neighborhood associations aging; digital platforms enable some new civic coordination; pandemic suppresses in-person association; partial digital substitution but net associational thinning.<br><br>
-__Leisure, Play & Sociability:__ Pandemic shifts leisure online; streaming, gaming, and virtual events surge; partial return to in-person by 2023 but hybrid patterns persist; sociability channels bifurcate by age.<br><br>
-__Grievance Channels & Social Discharge:__ Social friction from isolation and economic stress partially discharged through online expression; Twitter serves as venting space; institutional channels for grievance unchanged; accumulated frustration with bureaucratic digitization failures not fully metabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary democracy stable; LDP dominance continues; prime ministerial turnover but no regime change; Digital Agency creation signals executive priority for digitization.<br><br>
-__Succession & Power Transfer:__ Regular electoral succession; Abe assassination 2022 shocks but does not destabilize transfer mechanics; bureaucratic continuity dampens policy volatility.<br><br>
-__Legitimacy & Political Narrative:__ Government legitimacy tested by pandemic response failures; fax-machine symbolism damages modernization narrative; Digital Agency framed as corrective but skepticism persists.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic competence high in traditional domains but digital capacity severely lagging; Ministry silos resist integration; Digital Agency mandate exceeds actual authority; integrity intact but capacity mismatched to digital demands.<br><br>
-__Political Participation & Mobilization:__ Voter turnout stable at modest levels; no mass mobilization around digitization; online political discourse active but fragmented; participation channels neither opening nor closing.<br><br>
-__Geopolitical Position & External Relations:__ Alliance with United States stable; China tensions over Taiwan and technology; semiconductor supply chain concerns drive industrial policy; digital sovereignty debates intensify.<br><br>
-__Coercive Apparatus & Means of Force:__ Self-Defense Forces maintain capability; police digitization gradual; no significant change in domestic coercive capacity; cyber defense investment rising but from low base.<br><br>
-__Internal Order & Threat Environment:__ Crime rates low and declining; cyber threats increasing but major breaches limited; internal order stable; no significant disorder from digital transition itself.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Smartphone-based messaging and social media dominant; LINE and Twitter primary channels; 5G rollout expands bandwidth; information reaches population near-instantly through platform infrastructure.<br><br>
-__Record, Storage & Persistence:__ Cloud storage expanding; government records still fragmented across paper and digital systems; My Number integration proceeding slowly; institutional memory increasingly platform-dependent.<br><br>
-__Framing, Censorship & Discourse Norms:__ Minimal state censorship; platform moderation policies shape discourse; COVID misinformation circulates but mainstream media retains credibility; discourse norms permit wide expression.<br><br>
-__Reception, Attention & Amplification:__ Attention fragmented across platforms; Twitter trending topics drive news cycles; algorithm-mediated amplification shapes what propagates; attention spans compressed; AI-generated content begins entering information stream.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation load elevated during pandemic; AI-generated content raises verification concerns; fact-checking capacity limited; noise rising faster than filtering capacity but not yet overwhelming signal.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Privacy concerns strong; data protection valued; fairness norms intact; public skepticism of government data handling reflects underlying justice intuitions.<br><br>
-__Law, Codification & Regulatory Evolution:__ Digital-related legislation advancing; 2022 economic security law; AI governance frameworks emerging; regulatory evolution proceeding but lagging technology deployment.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts functioning normally; digital evidence handling improving; platform liability largely follows US-style intermediary protections; enforcement capacity adequate for current caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Personal information protection law updated; My Number privacy safeguards debated; compliance burden rising for businesses; individual digital rights incrementally expanding.<br><br>
-__Impunity & Unredressed Wrong:__ Online harassment enforcement weak; platform-mediated harms difficult to redress; cyber-fraud prosecution rates low; gap between digital wrongs and available remedies widening.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ AI research active in universities and corporate labs; large language models imported from US; application-focused rather than frontier theoretical work; paradigm shifts arriving via foreign development.<br><br>
-__Applied Knowledge & Technical Method:__ ChatGPT and generative AI rapidly adopted for translation, coding assistance, content creation; existing engineering competence applies foreign tools; methodological absorption rather than origination.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital literacy uneven; GIGA School program distributes devices to students; workforce reskilling lagging; knowledge stock expanding through AI tool access but deep technical skill concentrated in narrow specialist cohort.<br><br>
-__Obsolescence & Knowledge Decay:__ Legacy system maintenance knowledge aging out; COBOL skills scarce; institutional knowledge of paper-based processes valuable during transition but becoming obsolete; decay rate accelerating as digitization proceeds.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Japanese identity as technology leader challenged by digitization failures; pandemic exposes gap between self-image and administrative reality; collective memory of 2011 earthquake shapes disaster-preparedness values.<br><br>
-__Artistic Expression & Material Culture:__ Anime and gaming continue global export success; VTuber phenomenon expands; AI-assisted content creation emerging; material culture increasingly mediated through screens.<br><br>
-__Collective Mood & Behavioral Disposition:__ Public mood cautious; pandemic-era anxiety persists; economic uncertainty weighs; qualified optimism about AI tools mixed with concern about displacement; disposition pragmatic rather than enthusiastic about digital transformation.<br><br>
-__Form Exhaustion & Meaning Decay:__ Physical document culture losing functional meaning but ritual persistence of hanko stamps; digital transformation slogans risk becoming empty if delivery continues to lag; forms not yet fully exhausted but meaning draining from legacy practices.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular pragmatism dominant; pandemic mortality heightens existential awareness temporarily; AI arrival prompts some philosophical reflection but popular response largely instrumental; no cosmological crisis.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Shrine visits decline pandemic years then recover; digital omamori and online temple services emerge; ritual practice adapts to hybrid format; devotional frequency stable among practitioners.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist temple closures accelerate with rural depopulation; institutional authority diffuse; no doctrinal contests over AI or digitization; religious institutions adapt pragmatically.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No significant new spiritual movements; wellness and mindfulness practices circulate via apps; traditional syncretism stable; diffusion patterns follow demographic contraction rather than conversion.<br><br>
-__Disenchantment & Sacred Discharge:__ Baseline secularism absorbs existential questions without acute spiritual crisis; pandemic-era mortality processed through existing cultural frameworks; disenchantment neither deepening nor reversing; residue minimal.<br><br>
+# __2020 CE – 2026 CE — Pandemic Digitization and AI Emergence__
+
+__Summary:__ COVID-19 forces belated digital transformation upon Japanese institutions long resistant to online workflows, while generative AI arrives as a second disruption before the first is absorbed. The binding constraint is the collision between sudden necessity and entrenched analog habits, producing uneven adoption and institutional strain.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's dense urban cores—Tokyo, Osaka, Nagoya—become transmission hotspots, while rural areas and smaller islands face different pressures: lower infection risk but weaker digital infrastructure and aging populations less able to adapt to remote systems.
+
+__Climate Regime & Volatility:__ Seasonal typhoons and summer heat persist as background hazards; climate concern intensifies in public discourse but remains secondary to pandemic response during the acute phase, returning to prominence by 2024–2025 as pandemic pressures recede.
+
+__Hazard Regime & Exposure:__ Seismic risk continues unabated; the 2024 Noto Peninsula earthquake tests digital emergency systems and exposes coordination gaps even after pandemic-driven improvements, demonstrating that digitization alone does not resolve deep infrastructure vulnerabilities.
+
+__Resource & Energy Endowment:__ Energy import dependence remains structural; data center expansion and AI compute demand add to electricity load, prompting renewed debate over nuclear restarts and renewable acceleration as decarbonization targets tighten.
+
+__Waste Absorption & Sink Capacity:__ E-waste from accelerated device turnover during the pandemic accumulates; medical waste from testing and vaccination strains disposal systems before settling back to baseline levels.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 arrives in early 2020, spreading through cruise ships and then community transmission; waves of infection follow through 2022, with Omicron variants driving the largest case counts; excess mortality remains lower than in many peer nations owing to masking compliance, baseline health, and cautious social behavior, but the elderly bear disproportionate mortality burden.
+
+__Nutrition & Physiological Vitality:__ Pandemic isolation degrades mental health across age groups; youth report rising anxiety and social withdrawal; physical activity declines during state-of-emergency periods before partially recovering as restrictions lift.
+
+__Care, Healing & Recovery Capacity:__ Hospital capacity strains during peak waves; ICU beds and ventilators remain scarce relative to worst-case projections; vaccination rollout begins slowly in early 2021 but accelerates through municipal and workplace campaigns, reaching high coverage by late 2021.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage and birth rates, already in long-term decline, drop further during pandemic uncertainty; dating and social mixing disrupted; partial recovery follows relaxation of restrictions but baseline trends remain negative.
+
+__Demographic Renewal & Density:__ Population decline continues—124 million by 2026—with natural decrease accelerating as births fall faster than deaths; immigration remains limited despite labor shortages, though slight loosening of work visa categories allows modest inflows.
+
+__Attrition & Dependency Overhang:__ The elderly share exceeds 29 percent by 2025; dependency ratios worsen; long-term care systems strain under combined pandemic and demographic pressure, with caregiver shortages persisting despite wage increases.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Supply chains strain early in the pandemic—mask shortages, toilet paper hoarding—before stabilizing; food security remains robust but logistics disruptions expose just-in-time vulnerabilities.
+
+__Energy Capture & Conversion:__ Electricity demand dips during initial lockdowns, rebounds with telework and data center growth; renewable capacity expands but remains below government targets; AI workloads add incremental load by 2024–2025.
+
+__Labor Organization & Coercion:__ Remote work expands rapidly from a low base—under 10 percent pre-pandemic to over 30 percent at peak—then partially reverses as restrictions lift; cultural and managerial resistance to telework persists, especially in traditional industries; gig economy and non-regular employment remain prevalent.
+
+__Production & Surplus Capacity:__ GDP contracts sharply in 2020, rebounds unevenly; manufacturing recovers faster than services; semiconductor shortages disrupt automotive production through 2022; AI adoption promises productivity gains but realized impact remains modest through 2026.
+
+__Storage, Reserves & Buffering:__ Fiscal response is massive—direct payments, business support, subsidies—pushing debt-to-GDP above 260 percent; monetary policy remains ultra-loose; reserves adequate but fiscal room increasingly constrained by demographic liabilities.
+
+__Exchange, Trade & Logistics:__ Supply chain disruptions prompt reshoring and diversification debates; semiconductor strategy emerges with TSMC investment in Kumamoto; tourism collapses then surges post-reopening, straining infrastructure.
+
+__Value Storage, Credit & Deferred Exchange:__ Yen weakens significantly from 2022, boosting export competitiveness but raising import costs and inflation; household savings remain high; digital payment adoption accelerates—PayPay, LINE Pay, contactless—but cash persists more than in peer nations.
+
+__Surplus Extraction & Redistribution:__ Consumption tax remains at 10 percent; direct pandemic transfers distribute support broadly; wage growth lags inflation through 2023–2024 despite nominal increases, compressing real purchasing power.
+
+__Wealth Distribution & Asset Defense:__ Asset prices—stocks, real estate—rise with monetary policy; intergenerational wealth gap widens; younger cohorts face housing affordability pressure in urban centers.
+
+__Byproducts & Waste Routing:__ Packaging waste surges with delivery volumes; e-commerce expansion strains last-mile logistics and recycling systems before operational adjustments catch up.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear households predominate; multigenerational cohabitation continues declining; pandemic isolation intensifies loneliness for elderly living alone and single-person households.
+
+__Association & Mutual Aid:__ Community bonds tested by physical distancing; neighborhood associations and local volunteering decline; mutual aid shifts partially online but face-to-face fabric frays.
+
+__Leisure, Play & Sociability:__ In-person events cancel or restrict attendance—concerts, festivals, sports; virtual alternatives proliferate but cannot fully substitute; post-pandemic return is enthusiastic but patterns have shifted, with hybrid formats persisting.
+
+__Stratification, Status & Group Structure:__ Non-regular workers and women bear disproportionate employment losses; service sector more exposed than manufacturing or tech; regional disparities persist between Tokyo metropolitan area and declining rural prefectures.
+
+__Administrative Capacity & Institutional Integrity:__ Government digital capacity proves inadequate at pandemic onset—paper forms, fax machines, fragmented systems; Digital Agency established September 2021 to modernize; My Number adoption accelerates under pandemic pressure but integration remains incomplete; COCOA contact tracing app launches with technical failures that erode public trust.
+
+__Coercive Apparatus & Means of Force:__ State-of-emergency declarations rely on voluntary compliance rather than legal enforcement; police role minimal compared to harder lockdown regimes abroad; self-restraint culture substitutes for coercive measures.
+
+__Discharge, Disorder & Decay:__ Social friction remains muted—no major unrest—but atomization and mental health strain accumulate as unprocessed residue; administrative failures in pandemic response dent institutional credibility without provoking active backlash.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Initial pandemic anxiety gives way to fatigue; trust in government dips with slow vaccine rollout and administrative fumbles, partially recovers with successful mass vaccination; generative AI arrival in 2023 sparks curiosity mixed with anxiety about job displacement and societal change.
+
+__Leadership & Personal Authority:__ Abe Shinzo resigns August 2020 citing health; Suga Yoshihide takes office, struggles with pandemic communication, declines to seek reelection; Kishida Fumio succeeds October 2021, projects steadier if less charismatic presence; Abe's assassination July 2022 shocks the nation and dominates discourse.
+
+__Legitimacy as Lived Allegiance:__ LDP retains electoral dominance despite handling criticisms; opposition remains fragmented; voter turnout low; allegiance is passive rather than fervent, with no serious challenge to the ruling order.
+
+__Political Will & Collective Resolve:__ Pandemic response demonstrates capacity for collective compliance—masking, distancing, vaccination—but also reveals hesitancy to impose mandates; digital transformation requires sustained political will that wavers once acute crisis passes.
+
+__External Relations & Posture:__ Security posture tightens amid rising China tensions and Taiwan contingency planning; US alliance reaffirmed; defense spending increases toward 2 percent GDP target; economic security legislation targets supply chain vulnerabilities.
+
+__Disaffection, Apathy & Spent Will:__ Youth disengagement from politics persists; pandemic fatigue blends into broader low-affect civic detachment; no mass mobilization or visible unrest, but neither is there energetic renewal—a settled, tired equilibrium.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Internet penetration exceeds 93 percent; smartphone ownership near-universal among working-age population; elderly digital divide narrows but does not close, with many requiring family or municipal assistance for online services.
+
+__Channels & Transmission Velocity:__ 5G expands coverage but adoption lags projections; fiber backbone remains world-class; pandemic drives video conferencing into mainstream use—Zoom, Teams, Webex—where it was previously marginal.
+
+__Record, Storage & Persistence:__ Cloud adoption accelerates; government digitization proceeds unevenly; legacy paper systems persist in medical records, municipal administration, and corporate processes despite Digital Agency mandate.
+
+__Framing, Censorship & Discourse Norms:__ Press freedom remains formally protected; self-censorship and access journalism shape mainstream coverage; online discourse increasingly platform-mediated; misinformation around vaccines and pandemic spreads but is largely contained by high media literacy.
+
+__Reception, Attention & Amplification:__ Twitter/X remains dominant for real-time news and commentary; YouTube primary video platform; TikTok grows among youth; generative AI content begins circulating by 2023–2024, raising questions about authenticity and attribution.
+
+__Signal Integrity & Noise Load:__ Deepfakes and AI-generated content add to noise; verification capacity lags content volume; platform moderation inconsistent; election misinformation present but not at scale seen in some peer democracies.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Collective responsibility and social harmony remain operative values; individual rights discourse strengthens slowly; pandemic compliance framed as mutual obligation rather than government command.
+
+__Law, Codification & Regulatory Evolution:__ Emergency measures rely on existing legal frameworks stretched to purpose; no sweeping new pandemic legislation; AI regulation debated but lags EU and even US approaches; copyright and IP questions around generative AI unresolved.
+
+__Adjudication, Liability & Sanction:__ Court systems function with delays; pandemic-related disputes—business closures, contract breaches—handled through negotiation more than litigation; AI liability frameworks undeveloped.
+
+__Rights, Protections & Compliance Burden:__ Privacy concerns rise with My Number expansion and vaccine passport proposals; surveillance less intrusive than in peer nations but expanding; compliance burden high for small businesses navigating shifting restrictions.
+
+__Impunity & Unredressed Wrong:__ COCOA app failures go unaccounted; vaccine side effects handled through compensation scheme but process slow; administrative missteps generate criticism but little accountability; gap between expectation and redress remains.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Research output continues in life sciences, materials, robotics; AI research lags US and China in scale but niche strengths persist; pandemic accelerates biomedical research collaboration internationally.
+
+__Applied Knowledge & Technical Method:__ AI tools—ChatGPT, image generators, coding assistants—enter corporate and consumer use from 2023; adoption enthusiastic in some sectors, cautious in others; government issues guidelines for AI use in administration and education.
+
+__Education, Knowledge Stock & Skill Distribution:__ Schools shift online during closures with mixed success—infrastructure uneven, pedagogy unprepared; universities adopt hybrid models; digital literacy campaigns expand but skill gaps between generations persist.
+
+__Obsolescence & Knowledge Decay:__ Legacy IT systems—COBOL, mainframes—exposed as modernization bottleneck; knowledge of outdated systems resides with retiring cohort; AI tools may accelerate obsolescence of routine cognitive tasks, displacement effects not yet fully realized.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Pandemic experience enters collective memory as shared endurance narrative; Abe assassination reshapes political memory, linking postwar stability to personal loss; generational divides sharpen as digital-native youth and analog-formed elders inhabit different media environments.
+
+__Legitimating Narrative & Ideology:__ Government frames digitization as national renewal—Digital Agency, "Society 5.0"—but rhetoric outpaces implementation; AI positioned as opportunity for productivity and competitiveness, countering demographic decline narrative.
+
+__Artistic Expression & Material Culture:__ Anime and manga production continues unabated, global export accelerating via streaming; VTuber culture flourishes; live entertainment sector devastated by pandemic, recovers incompletely; AI art tools spark debate among creators over authorship and livelihood.
+
+__Form Exhaustion & Meaning Decay:__ Isekai genre oversaturation signals creative exhaustion in light novel and anime sectors; nostalgia properties dominate; AI-generated content risks homogenization; cultural forms cycle faster but innovation thins.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Pandemic mortality confronts society with death at scale rarely experienced since wartime; existential reflection modest—practical response dominates over philosophical reckoning; AI arrival prompts scattered discourse on consciousness and human uniqueness but does not reshape mass worldview.
+
+__Ritual, Devotion & Sacred Practice:__ Temple and shrine visits decline during pandemic, recover afterward; funerals simplified by restrictions; New Year rituals adapt but persist; hatsumode crowds return post-pandemic.
+
+__Religious Institutions & Doctrinal Authority:__ Institutional religion continues slow decline; Unification Church controversy post-Abe assassination prompts legislative response and public scrutiny of religious organization political ties; no doctrinal renewal or revival evident.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Secular trend continues; "spiritual but not religious" orientation persists among younger cohorts; imported wellness and mindfulness practices circulate without displacing inherited forms.
+
+__Disenchantment & Sacred Discharge:__ The sacred recedes further from public life; pandemic does not produce religious revival; AI discourse occasionally touches on transcendence but remains secular and practical; existential questions left unanswered, the void unfilled but unremarked.

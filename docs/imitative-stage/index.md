@@ -1,5 +1,5 @@
 # __Imitative Stage__
-__Description:__ The substrate of public life before language: everything a group knows held in living heads and passed only by showing and copying, hand guiding hand. Knowledge cannot be set down, sent ahead, or looked up; it cannot outlast the people who carry it, and each transmission drifts. Dominant by default — there is nothing else — until speech becomes the primary medium. This is the floor the sequence builds from.<br><br>
+__Description:__ The substrate of public life before language: everything a group knows held in living heads and passed only by showing and copying, hand guiding hand. Knowledge cannot be set down, sent ahead, or looked up; it cannot outlast the people who carry it, and each transmission drifts. Dominant by default — there is nothing else — until speech becomes the primary medium. This is the floor the sequence builds from.
 
 ### - [Imitative Stage in The East African Rift System — 3300000 BCE – 150000 BCE](imitative-stage-in-east-african-rift-system/index.md)
 ### - [Imitative Stage in The Southern African Plateau — 2000000 BCE – 150000 BCE](imitative-stage-in-southern-african-plateau/index.md)

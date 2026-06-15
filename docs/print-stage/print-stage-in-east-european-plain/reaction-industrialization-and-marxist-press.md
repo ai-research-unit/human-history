@@ -1,69 +1,139 @@
-# __1881 CE – 1905 CE__ — Reaction, Industrialization, and Marxist Press
-__Summary:__ The Russian Empire enters a quarter-century of deliberate political reaction under Alexander III and early Nicholas II while simultaneously undergoing rapid state-directed industrialization under Finance Minister Witte; censorship tightens and counter-reforms roll back zemstvo autonomy, yet commercial newspapers expand, literacy rises, and Marxist circles coalesce into organized parties with clandestine presses culminating in Iskra; the binding constraint is the autocracy's refusal to permit legal political organization, forcing opposition into underground networks; the system holds no margin against simultaneous military defeat and industrial unrest, and the direction of change is toward accumulating pressure that will rupture in 1905.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The vast East European Plain from Poland to the Urals continues to impose high transit friction, but railway construction — Trans-Siberian begun 1891, gauge-standardized trunk lines radiating from Moscow — dramatically compresses distances for state and commercial purposes while leaving rural roads poor.<br><br>
-__Climate Regime & Volatility:__ Continental climate with harsh winters and short growing seasons persists; interannual rainfall variability produces periodic harvest failures, notably the catastrophic famine of 1891–1892 that kills several hundred thousand and exposes administrative incapacity.<br><br>
-__Hazard Regime & Exposure:__ Drought and famine constitute the primary hazard; the 1891–1892 crisis overwhelms state and zemstvo relief capacity and triggers public mobilization outside official channels, revealing how thin the margin against agricultural shock remains.<br><br>
-__Resource & Energy Endowment:__ Coal from Donbas, iron from Krivoi Rog and the Urals, Baku petroleum, and timber are mobilized at accelerating rates; the endowment is vast but extraction infrastructure is only now catching up, and foreign capital finances much of the development.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution concentrates around new factory districts — Lodz, Ivanovo, southern Ukraine — where air and water quality degrade rapidly; urban sanitation lags population growth, but continental scale still provides absorptive margin outside industrial nodes.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera outbreaks persist; tuberculosis endemic in factory barracks; infant mortality remains high though slowly declining; public health infrastructure expands unevenly through zemstvo medicine but cannot keep pace with urbanization.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant nutrition marginally improves in non-famine years as grain exports rise and some cash reaches villages, but the 1891–1892 famine reveals how close to the edge the rural population lives; factory workers subsist on minimal calories.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility continues in the peasant commune; urban migrants delay marriage; population pressure on communal land intensifies, pushing out-migration to cities and Siberia.<br><br>
-__Demographic Renewal & Density:__ Population grows rapidly — from roughly 100 million in 1880 to over 125 million by 1900 — straining land allotments and urban housing; the empire's demographic weight increases but so does the dependency burden.<br><br>
-__Attrition & Dependency Overhang:__ Famine orphans, industrial accidents, and persistent high infant mortality leave a significant dependency load; the commune and extended family absorb most, but urban migrants fall outside these networks.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ The peasant commune remains the subsistence base; redemption payments drain surplus until partially cancelled 1881; grain exports prioritized over domestic consumption, leaving thin margins against harvest failure.<br><br>
-__Energy Capture & Conversion:__ Steam power expands rapidly in factories and railways; Donbas coal production rises tenfold; Baku oil fields developed; per-capita energy capture rising but still concentrated in industrial and transport sectors while villages rely on muscle and firewood.<br><br>
-__Labor Organization & Coercion:__ Factory labor nominally free but constrained by passport system and employer fines; working day twelve to fourteen hours; strikes illegal but increasingly frequent; peasants bound to commune until 1903 passport reform.<br><br>
-__Production & Surplus Capacity:__ Heavy industry — rails, steel, machinery — grows at eight percent annually under Witte system; textile output expands; grain production rises but much is exported to service foreign debt rather than feeding domestic growth.<br><br>
-__Storage, Reserves & Buffering:__ State grain reserves inadequate as demonstrated in 1891–1892; gold standard adopted 1897 requires treasury reserves; industrial inventory thin due to foreign-financed just-in-time expansion.<br><br>
-__Exchange, Trade & Logistics:__ Railways transform internal trade; Black Sea and Baltic ports handle grain exports; tariffs protect infant industry; retail trade modernizes in cities but village fairs persist.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold standard stabilizes ruble; State Bank expands credit; foreign loans from France dominate capital formation; peasant credit remains usurious or absent; industrial capital formation dependent on state contracts and foreign investment.<br><br>
-__Surplus Extraction & Redistribution:__ Heavy indirect taxation — vodka monopoly 1894, tariffs, redemption payments — extracts from peasantry to fund industrialization and military; the fiscal load on the productive base is severe and regressive.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration increases as gentry sell to merchants and kulaks; industrial wealth concentrates in foreign hands and a thin native bourgeoisie; peasant commune resists individual accumulation; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Factory effluent dumped into rivers; mining tailings accumulate; urban waste overwhelms primitive sewerage; the routing decision is dispersal into nearest sink with no recycling or sequestration.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ The peasant commune (mir) still organizes mutual aid and redistributes land, but strains under population pressure and differentiation; urban workers form mutual-aid societies and artel networks; trust radius narrow, cross-class suspicion high.<br><br>
-__Stratification, Status & Group Identity:__ Rigid estate (soslovie) hierarchy persists legally but economic differentiation crosscuts it; new categories — factory workers, industrial bourgeoisie, professional intelligentsia — lack clear status; Russification policies harden ethnic boundaries in Poland, Baltic, and Jewish Pale.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal extended family remains peasant norm; communal land tenure limits individual inheritance; urban nuclear family emerges among middle strata; Jewish shtetl family networks persist under legal disabilities.<br><br>
-__Civic Association & Self-Organization:__ Zemstvos provide limited local self-government; professional associations — doctors, lawyers, engineers — grow; workers' organizations technically illegal but tolerated as mutual-aid societies; the associational fabric thickens despite state suspicion.<br><br>
-__Leisure, Play & Sociability:__ Tavern culture persists; urban theaters and newspapers expand public sociability; workers' reading circles serve dual leisure and political functions; holiday observances mix Orthodox calendar with emerging secular patterns.<br><br>
-__Grievance Channels & Social Discharge:__ Legal channels constricted — no national assembly, censored press, banned strikes — forcing grievance into petitions, occasional riots, and underground politics; the share of unmetabolized grievance accumulates as standing instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Absolute autocracy under Alexander III (to 1894) and Nicholas II; no constitution, no parliament, no legal parties; power concentrated in sovereign and small ministerial elite; centralizing tendency intensifies under counter-reforms.<br><br>
-__Succession & Power Transfer:__ Hereditary succession accepted; Alexander III dies 1894 of natural causes; Nicholas II accedes smoothly but is perceived as weak; assassination remains a fear after 1881 but no actual attempts succeed in this window.<br><br>
-__Legitimacy & Political Narrative:__ Official Nationality — Orthodoxy, Autocracy, Nationality — reasserted; Russification intensifies; regime claims divine sanction and paternal care; legitimacy erodes among intelligentsia, industrial workers, and national minorities but peasant loyalty persists.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy expands with industrialization; zemstvos provide local capacity but are distrusted and circumscribed; corruption endemic; the state can mobilize resources for railways and military but fails at famine relief and factory inspection.<br><br>
-__Political Participation & Mobilization:__ Legal participation near zero — no elections, banned parties, censored press; illegal mobilization accelerates: populist remnants, new Marxist circles, zemstvo constitutionalists, national movements; channels for voicing dissent are closing formally while underground opens.<br><br>
-__Geopolitical Position & External Relations:__ Franco-Russian Alliance 1894 anchors European position; rivalry with Britain in Central Asia; competition with Austria in Balkans; Russo-Japanese tension builds over Manchuria and Korea, leading to war 1904.<br><br>
-__Coercive Apparatus & Means of Force:__ Large conscript army, Cossack cavalry for internal order, Okhrana secret police; weaponry modernizing but logistics weak; command of force tightly held but capacity strained by simultaneous external war and internal unrest.<br><br>
-__Internal Order & Threat Environment:__ Pogroms tolerated or incited 1881–1884, 1903–1905; strikes suppressed by troops; revolutionary terrorism revives after 1901 with Socialist Revolutionary Combat Organization assassinations; disorder exceeds enforcement capacity by window's end.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph network dense along railways; postal system reliable; commercial newspapers — Novoe Vremia, Russkoe Slovo — reach tens of thousands daily; revolutionary pamphlets smuggled across borders; information velocity high for elites, slower for villages.<br><br>
-__Record, Storage & Persistence:__ Imperial archives, university libraries, and censorship office records preserve documentation; thick journals and newspapers provide durable record; revolutionary underground maintains coded correspondence and hidden archives.<br><br>
-__Framing, Censorship & Discourse Norms:__ Prior censorship of books, post-publication review of periodicals; thick journals develop Aesopian language; Marxist texts banned but smuggled; the permitted band is narrow and narrowing, but Aesopian codes expand the sayable.<br><br>
-__Reception, Attention & Amplification:__ Literacy rises — perhaps thirty percent by 1900 — expanding newspaper audience; workers' circles read aloud and discuss; thick journal subscription lists circulate among intelligentsia; amplification occurs through reading networks more than individual consumption.<br><br>
-__Signal Integrity & Noise Load:__ Censorship forces indirection, increasing interpretive burden; rumor fills gaps official press cannot report; revolutionary press prioritizes polemic over verification; signal integrity low, noise load rising.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Peasant customary justice coexists with formal law; intelligentsia appeals to natural rights and European standards; workers develop sense of collective entitlement; the regime's justice is widely perceived as arbitrary and class-biased.<br><br>
-__Law, Codification & Regulatory Evolution:__ 1864 judicial reforms partially survive but are undermined by administrative exile, military courts, and emergency statutes; factory laws enacted 1882–1897 but weakly enforced; legal evolution stalls under reaction.<br><br>
-__Adjudication, Enforcement & Liability:__ Jury trials for criminal cases; commercial courts function; but political cases go to administrative process or military tribunals; factory inspectorate understaffed; enforcement capacity does not keep pace with industrial caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ No constitutional rights; Pale of Settlement confines Jews; passport system restricts movement; compliance burden falls heavily on peasants and workers; elites and foreigners enjoy practical exemptions.<br><br>
-__Impunity & Unredressed Wrong:__ Officials enjoy broad immunity; pogrom perpetrators rarely prosecuted; factory owners evade regulations; revolutionary assassins executed but underlying grievances unaddressed; the justice deficit accumulates.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Russian natural sciences flourish — Mendeleev, Pavlov, Mechnikov; Marxism displaces populism as dominant radical theory; positivism and materialism prevail among intelligentsia; the discovery frontier advances in chemistry, physiology, and social theory.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering education expands; polytechnic institutes train industrial cadres; German and French technical methods imported; railway construction and factory management professionalize.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary schooling expands through zemstvos and church schools; literacy rises but remains below Western Europe; universities graduate professionals but access is restricted by class and ethnicity; the knowledge stock grows but distribution is narrow.<br><br>
-__Obsolescence & Knowledge Decay:__ Populist agrarian socialism fades as Marxist analysis demonstrates industrial proletariat's centrality; traditional craft skills erode in factory system; the clearing of obsolete theory proceeds faster than skill attrition.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Orthodoxy and Slavic peoplehood anchor official identity; intelligentsia cultivates alternative memory of Decembrists and revolutionary martyrs; national minorities develop competing identity narratives in Polish, Ukrainian, Jewish, and Baltic contexts.<br><br>
-__Artistic Expression & Material Culture:__ Realist novel yields to Chekhov's irony and early symbolism; Wanderers painting tradition continues; art nouveau enters architecture; material culture bifurcates between Europeanized urban elite and traditional peasant forms.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite mood darkens — fin-de-siecle anxiety, sense of impending catastrophe; revolutionary circles oscillate between despair and millenarian hope; peasant fatalism persists but urban workers acquire collective confidence; the mood is fractured by class and locale.<br><br>
-__Form Exhaustion & Meaning Decay:__ Official Nationality rhetoric hollows into ritual; thick journal format exhausts its political possibilities under censorship; revolutionary populism loses explanatory power; new Marxist and symbolist forms emerge to fill the meaning vacuum.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodoxy remains official cosmology but educated strata secularize; materialist and positivist worldviews spread; peasant piety persists though sectarian movements grow; existential outlook bifurcates between Orthodox fatalism and revolutionary faith in progress.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Orthodox liturgical cycle structures peasant life; urban intelligentsia abandons observance; revolutionary circles develop quasi-religious devotional practices around martyrdom and the cause; practice diverges sharply by social stratum.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Holy Synod subordinates Church to state; Pobedonostsev as Ober-Procurator enforces orthodoxy and Russification; doctrinal authority consolidated but spiritually hollow; Church loses educated classes while retaining peasant adherence.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Tolstoyan ethical Christianity spreads among intelligentsia; Marxism functions as surrogate salvation narrative; Jewish Haskalah and Zionism compete in the Pale; Old Believer communities persist; the spiritual field fragments.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization accelerates among educated and urban populations; revolutionary commitment absorbs spiritual energies previously directed to religion; the sacred need is redirected into political faith rather than left as vacuum, but traditional disenchantment accumulates among those caught between worlds.<br><br>
+# __1881 CE – 1905 CE — Reaction, Industrialization, and Marxist Press__
+
+The binding constraint is the contradiction between rapid industrial transformation generating a literate urban proletariat and an autocratic regime committed to freezing political development; Marxist print exploits this gap, translating imported theory into a revolutionary idiom that will detonate a quarter-century later.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The empire spans eleven time zones from Warsaw to Vladivostok; vast distances that once insulated the autocracy now accelerate revolutionary circulation as railways compress space and exile communities in Geneva, London, and Munich transmit illegal print back along the same lines.
+
+__Climate Regime & Volatility:__ Continental extremes persist; the 1891–1892 famine across the Volga basin kills several hundred thousand and exposes the regime's administrative incapacity, galvanizing intelligentsia relief committees and discrediting official claims to paternal governance.
+
+__Hazard Regime & Exposure:__ Crop failure remains the primary shock vector; urban hazards mount as factory districts lack sanitation, and periodic cholera outbreaks in port cities remind authorities of the epidemiological costs of industrialization without infrastructure.
+
+__Resource & Energy Endowment:__ The Donbas coalfield and Baku oilfields come into full production; iron ore from Krivoi Rog feeds a metallurgical complex; timber and grain remain export staples financing railway imports and foreign debt service.
+
+__Waste Absorption & Sink Capacity:__ Rivers near factory clusters darken with effluent; urban slum conditions in St. Petersburg's Vyborg district and Moscow's Presnya accumulate disease loads that will prime revolutionary neighborhoods.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Infant mortality exceeds 250 per thousand live births; tuberculosis is endemic in factory dormitories; cholera returns cyclically; life expectancy hovers around thirty-five years, lower for industrial workers.
+
+__Nutrition & Physiological Vitality:__ Peasant diet marginal; famine years demonstrate zero buffer; urban workers better fed but subject to adulteration and irregular supply; conscript physicals reveal stunting across rural cohorts.
+
+__Care, Healing & Recovery Capacity:__ Zemstvo medicine extends basic care into the countryside; factory inspection nominally begins but enforcement is minimal; charitable hospitals in capitals serve a fraction of need.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility persists; peasant households aim for surviving sons to work allotments; urban workers marry later and have fewer children as housing constraints bite.
+
+__Demographic Renewal & Density:__ Population surges past 125 million by 1897 census; peasant land hunger intensifies as redemption payments drain surplus and plots subdivide below viability; urban density spikes in factory districts.
+
+__Attrition & Dependency Overhang:__ High child mortality means heavy reproductive investment; widows and orphans accumulate in famine years; the elderly remain village dependents as young men migrate to factories.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The peasant commune redistributes strips but cannot increase total acreage; redemption payments absorb surplus until cancelled in 1905; the provisioning margin remains dangerously thin.
+
+__Energy Capture & Conversion:__ Coal output increases fivefold; oil extraction at Baku makes Russia a petroleum exporter; steam power drives textile mills and metallurgy; electrification begins in capitals.
+
+__Labor Organization & Coercion:__ Factory labor is legally free but economically coerced; internal passports tie peasants to communes; strikes are illegal but increasingly common; labor contractors exploit seasonal migrants.
+
+__Production & Surplus Capacity:__ Industrial output grows 5–8 percent annually under Witte's system; railway construction absorbs capital; textile, metallurgical, and extractive industries expand; the economy remains grain-exporting and capital-importing.
+
+__Storage, Reserves & Buffering:__ Grain reserves minimal; the 1891 famine demonstrates state incapacity; gold standard adopted 1897 stabilizes currency but constrains fiscal flexibility; foreign debt accumulates.
+
+__Exchange, Trade & Logistics:__ Trans-Siberian Railway under construction; internal rail network densifies; grain exports flow through Odessa and Baltic ports; foreign capital, especially French, finances industrialization.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold standard maintains ruble stability; state banks finance heavy industry; peasant credit cooperatives begin but remain undercapitalized; usury persists in villages.
+
+__Surplus Extraction & Redistribution:__ Indirect taxes on vodka, sugar, and matches fall on the poor; direct taxation light on nobility; tariffs protect domestic industry; Witte's system extracts rural surplus to fund industrialization.
+
+__Wealth Distribution & Asset Defense:__ Land remains concentrated; industrial wealth accrues to foreign investors and a thin native bourgeoisie; gentry estates decline; peasant differentiation creates kulak stratum.
+
+__Byproducts & Waste Routing:__ Industrial effluent dumped untreated; urban sanitation primitive; slag heaps accumulate around metallurgical works; the costs are externalized onto worker health and downstream communities.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Peasant households remain patriarchal; commune controls marriage and migration through passport; urban workers maintain village ties, sending remittances and returning for harvest.
+
+__Association & Mutual Aid:__ Mutual aid societies emerge among workers despite legal obstacles; student circles proliferate; zemstvo professionals form networks; illegal parties organize underground.
+
+__Leisure, Play & Sociability:__ Taverns remain peasant gathering points; factory workers frequent tea houses and reading rooms where legal and illegal literature circulates; urban theater and cheap entertainment grow.
+
+__Stratification, Status & Group Structure:__ Estate (soslovie) system persists legally but erodes functionally; new intelligentsia and bourgeoisie fit awkwardly; workers form a distinct stratum; Jews confined to Pale face pogroms.
+
+__Administrative Capacity & Institutional Integrity:__ Bureaucracy expands but remains understaffed and corrupt; zemstvos provide local services but lack political power; factory inspection inadequate; police prioritize political surveillance over crime.
+
+__Coercive Apparatus & Means of Force:__ Okhrana (security police) monitors revolutionaries; Cossack units suppress rural disorders; army modernizes slowly after Crimean defeat; conscription universal but exemptions for educated.
+
+__Discharge, Disorder & Decay:__ Peasant disorders increase; factory strikes multiply from 17 in 1894 to 68 in 1903; student protests recurrent; political assassinations continue; Minister of Interior Sipyagin and others killed; the apparatus strains but holds.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Peasant resentment of redemption payments and land hunger simmers; worker discontent rises with factory conditions; educated society oscillates between reform hope and revolutionary despair.
+
+__Leadership & Personal Authority:__ Alexander III projects stern paternal authority; Nicholas II, succeeding in 1894, lacks charisma and decisiveness; revolutionary leaders operate underground with intense personal followings.
+
+__Legitimacy as Lived Allegiance:__ Autocratic legitimacy rests on Orthodox faith, paternal myth, and inertia; the 1891 famine erodes paternal claims; educated society increasingly doubts the regime's capacity to modernize.
+
+__Political Will & Collective Resolve:__ The regime wills industrial modernization but refuses political reform; revolutionaries will the destruction of autocracy; the mass remains passive but slowly politicized by print and factory experience.
+
+__External Relations & Posture:__ Alliance with France (1894) provides capital and security; rivalry with Austria and Germany in Balkans; expansion into Manchuria leads toward confrontation with Japan.
+
+__Disaffection, Apathy & Spent Will:__ Intelligentsia alienation deepens; worker cynicism grows; peasant fatalism persists but anger rises; the regime's emotional reserves deplete as legitimacy erodes.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy rises slowly to perhaps 25–30 percent by 1900; Russian standardizes as literary language; vernacular publications in Ukrainian, Polish, and other languages suppressed under Russification.
+
+__Channels & Transmission Velocity:__ Telegraph links cities; post improves; railways accelerate print distribution; illegal literature smuggled via suitcases and sympathetic border officials.
+
+__Record, Storage & Persistence:__ State archives expand; police files on revolutionaries grow; thick journals preserve intellectual debate; exile presses create parallel record.
+
+__Framing, Censorship & Discourse Norms:__ Punitive censorship replaces preliminary; legal publications speak in Aesopian language; illegal press speaks directly; Marxist and populist organs articulate competing revolutionary visions.
+
+__Reception, Attention & Amplification:__ Thick journals reach perhaps 10,000 subscribers but circulate to reading circles of ten times that; illegal pamphlets passed hand to hand multiply impact; factory reading groups amplify.
+
+__Signal Integrity & Noise Load:__ Police surveillance generates noise in revolutionary networks; informers compromise organizations; exile factional disputes create doctrinal confusion; but core Marxist message sharpens.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Peasant sense of justice centers on land; workers develop class consciousness through factory experience and print; intelligentsia carries populist or Marxist moral frameworks.
+
+__Law, Codification & Regulatory Evolution:__ Alexander III's counter-reforms curtail zemstvo independence and university autonomy; emergency powers expand; factory laws minimal and unenforced.
+
+__Adjudication, Liability & Sanction:__ Political trials conducted by special courts or administrative exile; regular courts improve under 1864 reforms but political cases bypass them; revolutionary terrorism invites summary justice.
+
+__Rights, Protections & Compliance Burden:__ Individual rights minimal; censorship pervasive; assembly and association prohibited; police surveillance constant; Jews face additional legal disabilities.
+
+__Impunity & Unredressed Wrong:__ Pogroms in Kishinev (1903) and elsewhere go unpunished or lightly sanctioned; factory abuses unredressed; revolutionary violence answered with counter-violence; justice deficit widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Russian science advances in chemistry (Mendeleev) and physiology (Pavlov); social thought dominated by imported Marxism competing with native populism; positivism and materialism prevail among intelligentsia.
+
+__Applied Knowledge & Technical Method:__ Engineering improves with railway construction and industrialization; foreign expertise imported; technical education expands through institutes.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities produce radical students; zemstvo schools expand peasant literacy slowly; Sunday schools for workers; Church schools compete; total literacy perhaps 30 percent by 1905.
+
+__Obsolescence & Knowledge Decay:__ Populist "going to the people" strategy exhausted; terrorism discredited by failure; Marxism rises as fresh paradigm; old Slavophile thought persists but loses explanatory power.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Holy Russia, autocracy, and Orthodoxy remain official mythology; revolutionary counter-myth of people's suffering and coming liberation spreads through print.
+
+__Legitimating Narrative & Ideology:__ Official Nationality (Orthodoxy, Autocracy, Nationality) continues; Marxism provides alternative total explanation; populism offers native revolutionary tradition.
+
+__Artistic Expression & Material Culture:__ Realist novel dominates (Tolstoy, Chekhov); Symbolist poetry emerges; Wanderers (Peredvizhniki) paint social themes; art nouveau (moderne) arrives in architecture; icons persist in villages.
+
+__Form Exhaustion & Meaning Decay:__ Official forms hollow; Church ritual increasingly formalistic for educated classes; realism exhausts itself as Symbolism offers escape; revolutionary print injects fresh energy.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Orthodox cosmology persists among peasants and conservatives; intelligentsia largely secular, seeking salvation through revolution; Tolstoyan spirituality offers non-violent alternative; Marxist materialism gains.
+
+__Ritual, Devotion & Sacred Practice:__ Church rituals mark peasant life-cycle; urban workers drift from observance; revolutionaries develop counter-rituals of conspiracy, martyrdom, and solidarity.
+
+__Religious Institutions & Doctrinal Authority:__ Holy Synod remains subordinate to state; Church lacks independent voice; monasteries wealthy but static; clerical education improves but clergy lose educated classes.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sectarian movements (Baptists, Tolstoyans) spread; Marxism functions as secular religion among intelligentsia; Judaism persists in Pale despite persecution.
+
+__Disenchantment & Sacred Discharge:__ Educated society largely disenchanted; revolutionary faith fills void; peasant piety persists but erodes among migrants to cities; spiritual vacuum among workers opens space for revolutionary substitute faith.

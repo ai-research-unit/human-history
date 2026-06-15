@@ -1,69 +1,139 @@
-# __1615 CE – 1650 CE__ — Early Edo Order and Commercial Publishing
-__Summary:__ A long-term trend spanning the thirty-five years from the destruction of Toyotomi remnants at Osaka (1615) through the consolidation of Tokugawa institutional control under the third shogun Iemitsu (~1650), during which the bakuhan system stabilizes, the sakoku edicts close foreign contact to a controlled trickle, and commercial woodblock publishing emerges as a mass medium supplementing manuscript. The binding constraint is the maintenance of daimyo subordination through sankin-kotai attendance, hostage-holding, and documentary surveillance without triggering rebellion. The system holds substantial margin against disorder; the principal direction of change is bureaucratic routinization and the widening of literate participation as commercial print carries texts beyond the manuscript-copying elite.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The archipelago's mountainous terrain and coastal corridors persist; Tokaido and other highways improved under bakufu investment; Edo, Kyoto, and Osaka form the core urban triangle connected by land and sea routes.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon regime stable; rice harvests generally adequate; interannual variation present but no multi-year crisis recorded during the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic, volcanic, and typhoon hazards endemic; no catastrophic event dominates the window; castle and urban construction standards internalize earthquake risk.<br><br>
-__Resource & Energy Endowment:__ Timber, iron, copper, and precious metals continue extraction; Sado gold and Iwami silver under direct bakufu control; forest draw-down beginning in accessible zones.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban density rising in Edo, Osaka, Kyoto; night-soil recycling to peri-urban agriculture keeps absorptive capacity adequate; no sanitation collapse.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic smallpox, measles, and dysentery persist; no major epidemic outbreak recorded as decisive; urban crowding raises background pathogen exposure modestly.<br><br>
-__Nutrition & Physiological Vitality:__ Rice surplus supports stable nutrition; fish, vegetables, and soy supplement diet; physiological vitality adequate across strata.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Warrior and commoner marriage regulated by status; daimyo marriages require bakufu approval; fertility and pairing stable.<br><br>
-__Demographic Renewal & Density:__ Population growing; Edo expands toward one million by mid-century; density concentrated in castle towns and commercial centers; renewal positive.<br><br>
-__Attrition & Dependency Overhang:__ Ronin population from Sengoku and Sekigahara era aging out; widows and orphans absorbed into household systems; dependency load manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Rice-tax system (kokudaka) ensures provisioning floor; famine absent during the window; household reserves buffer seasonal variation.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle, water mills, and charcoal dominate; energy throughput sufficient for construction, transport, and craft production.<br><br>
-__Labor Organization & Coercion:__ Peasant labor tied to village obligations and corvee; urban artisans organized in guild-like associations; wage labor expanding in commercial sectors; coercion moderate.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus stable; craft production in castle towns and urban centers expands; printing and publishing emerge as commercial industries.<br><br>
-__Storage, Reserves & Buffering:__ Domain granaries and merchant warehouses hold multi-year stocks; bakufu treasury robust; buffering capacity high.<br><br>
-__Exchange, Trade & Logistics:__ Domestic trade expands along improved highways and coastal shipping; Osaka rice market matures; Nagasaki handles limited Dutch and Chinese imports under sakoku.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold, silver, and copper coinage standardized; Osaka money changers provide credit instruments (tegata); rice warrants function as quasi-currency.<br><br>
-__Surplus Extraction & Redistribution:__ Assessed kokudaka tax extracted in rice; domain revenues redistributed as samurai stipends; bakufu controls ~25% of national yield directly and indirectly.<br><br>
-__Wealth Distribution & Asset Defense:__ Merchant wealth accumulating in Osaka, Kyoto, Edo; samurai stipends fixed, eroding relative to merchant gains; asset defense via bakufu favor and domain registry.<br><br>
-__Byproducts & Waste Routing:__ Urban refuse, night soil, and craft waste recycled into agriculture and secondary production; routing efficient; no systemic waste crisis.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village and urban-ward mutual aid (goningumi, neighborhood associations) institutionalized; trust radius stable within status strata; cross-stratum trust mediated by hierarchy.<br><br>
-__Stratification, Status & Group Identity:__ Shi-no-ko-sho hierarchy codified and enforced; sumptuary regulations define dress and conduct by status; boundaries rigid but enforcement uneven at margins.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal ie household system dominant; primogeniture normative for samurai; adoption common; property transfer regulated by domain and bakufu.<br><br>
-__Civic Association & Self-Organization:__ Urban wards (chonaikai precursors), village councils, and merchant associations coordinate local affairs under domain supervision; self-organization channeled, not suppressed.<br><br>
-__Leisure, Play & Sociability:__ Kabuki theater, pleasure quarters, tea houses, and festival culture flourish in urban centers; sociability expands with commercial entertainment.<br><br>
-__Grievance Channels & Social Discharge:__ Petition (osso) system allows peasant grievance to reach domain or bakufu authorities; urban riots rare; discharge adequate but tightly channeled.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Bakuhan system consolidated; shogunal authority under Hidetada and Iemitsu unchallenged; daimyo autonomy circumscribed by sankin-kotai, hostage-holding, and regulatory edicts.<br><br>
-__Succession & Power Transfer:__ Shogunal succession from Hidetada (r. 1605–1623) to Iemitsu (r. 1623–1651) smooth; domain successions require bakufu confirmation; transfer institutionalized.<br><br>
-__Legitimacy & Political Narrative:__ Tokugawa legitimacy rests on imperial appointment, Confucian order rhetoric, and demonstrated peace; narrative of benevolent rule circulating in print and manuscript.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bakufu bureaucracy expands (metsuke, bugyosho); domain administration professionalized; documentary orders carry binding force; corruption present but contained.<br><br>
-__Political Participation & Mobilization:__ Daimyo participate through formal audiences and councils; commoner participation nil; dissent expressed through petition, not mobilization.<br><br>
-__Geopolitical Position & External Relations:__ Sakoku edicts (1633–1641) restrict foreign contact to Nagasaki (Dutch, Chinese) and limited Korean and Ryukyuan relations; no external military threat; Japan isolated by design.<br><br>
-__Coercive Apparatus & Means of Force:__ Bakufu and domain armies maintained but demobilizing; firearms production declining; fortification static; coercive apparatus sufficient for internal order.<br><br>
-__Internal Order & Threat Environment:__ Shimabara Rebellion (1637–1638) the sole major disorder, suppressed with overwhelming force; Christian adherents exterminated or driven underground; internal order margin high thereafter.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Courier networks (hikyaku) connect Edo, Kyoto, Osaka in days; domain reporting to bakufu systematized; velocity adequate for administrative control.<br><br>
-__Record, Storage & Persistence:__ Bakufu and domain archives preserve edicts, registers, and judicial records; temple registration (terauke) creates population documentation; persistence high.<br><br>
-__Framing, Censorship & Discourse Norms:__ Bakufu censorship targets Christian texts and political dissent; commercial publishing operates within tacit limits; discourse norms tightening but not suffocating vernacular print.<br><br>
-__Reception, Attention & Amplification:__ Commercial publishing (Kyoto, Osaka, Edo) amplifies access to classics, popular literature, and practical texts; literacy spreading beyond elite; attention widening.<br><br>
-__Signal Integrity & Noise Load:__ Sealed documents (shuin) authenticate official orders; commercial print introduces verification challenges (piracy, variant editions) but noise load manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Confucian loyalty and filial piety norms underwrite social order; Buddhist karmic justice supplements; popular sense of fairness oriented toward hierarchical reciprocity.<br><br>
-__Law, Codification & Regulatory Evolution:__ Buke shohatto updated; domain laws (hanpo) codified; regulatory framework stable, expanding into commercial and sumptuary domains.<br><br>
-__Adjudication, Enforcement & Liability:__ Bakufu courts (hyojosho) adjudicate inter-domain and major criminal matters; domain courts handle local disputes; enforcement effective through confiscation, exile, and execution.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights tied to status obligations; tenure conditional on tax and service compliance; compliance burden predictable, moderate for those within the system.<br><br>
-__Impunity & Unredressed Wrong:__ Samurai kirisute gomen privilege allows summary killing of commoners under narrow conditions; elite impunity present but constrained; unredressed wrong absorbed as status cost.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Neo-Confucian scholarship (Shushigaku, Hayashi school) becomes bakufu orthodoxy; Buddhist and Shinto learning continue; empirical inquiry nascent in medicine and calendrical astronomy.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural manuals, medical texts, and artisanal handbooks disseminated via print; cadastral and accounting methods refined; technique diffusion accelerating.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Domain schools (hanko) for samurai; temple schools (terakoya) expand for commoners; literacy rising; knowledge stock accumulating in print and manuscript libraries.<br><br>
-__Obsolescence & Knowledge Decay:__ Sengoku military heterodoxy fading; Buddhist scholastic debates routinized; knowledge decay low as print preserves and spreads accumulated texts.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Tokugawa peace narrative becoming foundational; samurai honor code transitioning from battlefield practice to ritual identity; commoner identity forming around urban and regional belonging.<br><br>
-__Artistic Expression & Material Culture:__ Kano school painting, Rinpa decorative arts, and Sagabon luxury editions define elite taste; kabuki and ukiyo culture emerging in urban quarters; material culture diversifying.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood stabilizing into peacetime routine; confidence in order rising; risk perception low; behavioral disposition shifting from martial vigilance to status-performance.<br><br>
-__Form Exhaustion & Meaning Decay:__ Martial forms (sword, armor) transitioning to status symbols and ritual objects; exhaustion incipient but meaning still attached; no acute anomie.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Buddhist karma and Confucian moral order coexist; fatalism yielding to worldly pragmatism; existential outlook stable under intact cosmological canopy.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple registration mandates formal Buddhist affiliation; pilgrimage, festival, and household altar devotion continue; Shinto shrine attendance normative.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist sects hierarchically organized under bakufu supervision; Honganji split enforced; Shinto shrines subordinate to Buddhist structures; doctrinal authority consolidated.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shinto-Buddhist syncretism normative; Christianity extirpated after Shimabara; no new spiritual movement gaining ground; diffusion static.<br><br>
-__Disenchantment & Sacred Discharge:__ Disenchantment negligible; sacred canopy intact and administratively reinforced; existential questions absorbed within Buddhist-Confucian-Shinto synthesis.<br><br>
+# __1615 CE – 1650 CE — Early Edo Order and Commercial Publishing__
+
+__Summary:__ The Japanese Archipelago in the early Tokugawa peace experiences the transformation of information circulation from aristocratic and clerical manuscript culture to commercial woodblock publishing — a threshold transition where the material substrate of writing shifts from the scribe's brush to the carver's block, enabling mass reproduction while manuscript persists for official documentation, personal correspondence, and elite literary composition.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Tokugawa road system (gokaido) regularizes transit corridors connecting Edo to Kyoto, Osaka, and regional domains; post-station networks reduce spatial friction for official communications and merchant travel; the alternating attendance (sankin-kōtai) system, formalized in 1635, generates constant traffic between domains and Edo.
+
+__Climate Regime & Volatility:__ The temperate monsoon regime continues without major anomaly; stable conditions support agricultural expansion and population growth; no catastrophic droughts or floods disrupt the early Edo consolidation.
+
+__Hazard Regime & Exposure:__ Seismic and fire risks affect wooden urban construction; Kyoto suffers periodic fires that damage libraries and workshops; no single disaster dominates this window, though vulnerability accumulates as cities densify.
+
+__Resource & Energy Endowment:__ Forest resources supply paper (washi) production, woodblock carving, and construction; silver and copper mines fund foreign trade until sakoku restrictions limit outflows; domestic resource exploitation intensifies under stable administration.
+
+__Waste Absorption & Sink Capacity:__ Urban concentration in Edo, Osaka, and Kyoto generates accumulating waste; night-soil collection for agricultural fertilizer establishes proto-recycling systems; sink pressure rises but remains within manageable limits for premodern technology.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Smallpox and measles continue cyclical outbreaks affecting unexposed cohorts; endemic dysentery and waterborne disease concentrate in urban centers; epidemic catastrophe remains absent in this window, permitting steady population growth.
+
+__Nutrition & Physiological Vitality:__ Rice surplus from stable agriculture improves nutritional baselines; regional variation persists, with coastal populations supplementing grain with marine protein; urban poor face periodic scarcity but not systemic famine.
+
+__Care, Healing & Recovery Capacity:__ Chinese-influenced medicine (kampō) provides elite treatment; Buddhist and folk practitioners serve broader populations; pharmacopoeia circulate in manuscript and begin appearing in commercial print; surgical intervention remains limited.
+
+__Reproductive Biology & Pairing Dynamics:__ Household formation patterns stabilize under Tokugawa regulation; the warrior class faces constraints on marriage requiring bakufu approval; commoner marriage remains locally regulated through village and guild structures.
+
+__Demographic Renewal & Density:__ Population grows from approximately 15 million toward 20 million by 1650; Edo expands rapidly to become one of the world's largest cities; urbanization concentrates population in castle towns and commercial centers.
+
+__Attrition & Dependency Overhang:__ The absence of major warfare reduces premature mortality among the warrior class; ronin from earlier conflicts gradually integrate into commerce, scholarship, or obscurity; the dependent load remains within the system's absorptive capacity.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agricultural productivity rises through land reclamation, improved irrigation, and crop selection; the rice-based tax system (kokudaka) extracts surplus while leaving subsistence margins; regional famines occur but remain localized.
+
+__Energy Capture & Conversion:__ Human and animal power dominate; water mills process rice and power forges; charcoal fuels urban heating and metalwork; no energy regime transition occurs, but efficiency gains in established technologies support modest per-capita increases.
+
+__Labor Organization & Coercion:__ Status distinctions crystallize into formal categories; peasants are bound to land through registration systems; urban artisans organize in guild-like structures under domain regulation; wage labor expands in commercial centers; slavery declines toward formal prohibition.
+
+__Production & Surplus Capacity:__ Peace releases resources from military to civil production; domain economies specialize in regional products (sake, ceramics, textiles); castle-town construction yields to commercial development; surplus accumulation enables merchant capital formation.
+
+__Storage, Reserves & Buffering:__ Domain granaries maintain rice reserves; merchant houses accumulate specie and commodity inventories; the rice exchange at Osaka develops sophisticated futures trading; reserve depth increases with prolonged stability.
+
+__Exchange, Trade & Logistics:__ Osaka functions as the commercial hub linking western domains to national markets; coastal shipping (kaisen) networks connect ports along the Inland Sea and Pacific coast; Nagasaki handles restricted foreign trade under bakufu monopoly; sakoku policies (culminating 1639) sever most European contact while maintaining Chinese and Dutch channels.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold, silver, and copper coinage circulates alongside rice as value media; Osaka money changers (ryōgaeshō) provide exchange and credit services; domain debt to urban merchants accumulates; paper instruments begin supplementing specie.
+
+__Surplus Extraction & Redistribution:__ The bakufu maintains fiscal supremacy through direct control of major cities, mines, and trade ports; domain taxes sustain warrior stipends and administrative costs; temple and shrine lands retain tax privileges; extraction rates stabilize at approximately 40–50% of rice yield.
+
+__Wealth Distribution & Asset Defense:__ Land redistribution ceases with the end of military competition; merchant wealth accumulates in commercial centers despite low status ranking; domain debt transfers wealth from warriors to creditors; peasant differentiation creates village hierarchies.
+
+__Byproducts & Waste Routing:__ Urban waste systems develop through night-soil collection and recycling; paper production generates mill waste absorbed into waterways; printing generates wood shavings and ink residue; no systemic waste crisis emerges.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The ie (household) system operates across status categories with primogeniture as the norm; adoption maintains household continuity; marriage alliances serve political and commercial purposes; extended kin networks provide mutual aid.
+
+__Association & Mutual Aid:__ Village communities (mura) exercise collective responsibility for tax and order; urban neighborhoods (chō) manage local governance and fire prevention; mutual aid associations (kō) organize pilgrimage, credit, and ritual; temple parishes (danka) register households.
+
+__Leisure, Play & Sociability:__ The pleasure quarters of Kyoto, Osaka, and Edo formalize as licensed districts; kabuki theater develops as popular entertainment; gambling persists despite prohibition; festivals and shrine gatherings punctuate the annual cycle.
+
+__Stratification, Status & Group Structure:__ The shi-nō-kō-shō hierarchy hardens into legal categories with sumptuary regulation; outcaste groups (eta, hinin) face spatial segregation and occupational restriction; status boundaries are policed through dress codes, residential requirements, and marriage restrictions.
+
+__Administrative Capacity & Institutional Integrity:__ The bakufu-domain (bakuhan) system distributes authority between central and local governance; household registration and land surveys document the population; the sankin-kōtai system (from 1635) brings daimyō families to Edo as hostages while domain lords alternate between capital and territories.
+
+__Coercive Apparatus & Means of Force:__ The bakufu monopolizes legitimate violence; domain forces maintain internal order under bakufu supervision; the Shimabara Rebellion (1637–1638) demonstrates both residual disorder capacity and bakufu military supremacy; afterward, no significant military challenge emerges.
+
+__Discharge, Disorder & Decay:__ The Shimabara Rebellion and its suppression eliminate the last major armed resistance; ronin are gradually absorbed or marginalized; urban crime exists but remains within manageable levels; the apparatus achieves unusual stability through comprehensive registration and surveillance.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Relief at prolonged peace pervades; the generation that knew warfare yields to those raised in stability; cautious acceptance of Tokugawa authority deepens into habituated deference; urban prosperity generates confidence in commercial centers.
+
+__Leadership & Personal Authority:__ The third shogun Iemitsu (r. 1623–1651) consolidates institutional authority inherited from Ieyasu; personal charisma matters less as bureaucratic routine prevails; domain lords exercise local authority under bakufu oversight.
+
+__Legitimacy as Lived Allegiance:__ Tokugawa legitimacy solidifies through demonstrated capacity to maintain peace; the imperial court's ceremonial endorsement continues; Buddhist and Shinto institutions support the order; active resistance is eliminated, leaving habituated compliance.
+
+__Political Will & Collective Resolve:__ The bakufu demonstrates sustained will in implementing sakoku policies, suppressing Christianity, and enforcing sankin-kōtai; daimyō accept subordination as the cost of domain autonomy; the imperial court accepts ceremonial relegation.
+
+__External Relations & Posture:__ Sakoku policies (1633–1639 edicts) restrict foreign contact to Nagasaki (Dutch and Chinese) and Tsushima (Korea); Japanese travel abroad is prohibited; the red seal ship system ends; foreign books face import restrictions (relaxed later for non-Christian works); Japan withdraws from regional power competition.
+
+__Disaffection, Apathy & Spent Will:__ The suppression of Christianity eliminates its adherents as active dissenters; surviving kakure kirishitan practice in secret; ronin resentment persists but lacks organizational capacity; the broader population experiences the peace as security rather than oppression.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy expands beyond warrior and clerical elites to include urban merchants and village headmen; kanji-kana mixed script serves vernacular writing; classical Chinese remains the prestige medium for scholarship and official documents; commercial publishing targets newly literate urban audiences.
+
+__Channels & Transmission Velocity:__ The gokaido post-station system regularizes official communication; merchant networks carry commercial information; rumor and news circulate through travelers, pilgrims, and entertainers; print accelerates information distribution within urban centers.
+
+__Record, Storage & Persistence:__ Manuscript continues for official documentation, domain archives, and personal correspondence; commercial woodblock printing produces books, maps, and single-sheet prints for sale; temple archives maintain religious texts and parish records; the shift from manuscript to print for book distribution is underway but incomplete.
+
+__Framing, Censorship & Discourse Norms:__ The bakufu prohibits Christian texts absolutely; political criticism is dangerous but literary expression continues relatively free; publication requires no formal license initially, though sensitive topics invite suppression; guild self-regulation develops among publishers.
+
+__Reception, Attention & Amplification:__ Urban readers form the primary market for commercial print; lending libraries (kashihon'ya) extend access beyond purchasers; theatrical performance (kabuki, puppet theater) reaches illiterate audiences; oral recitation carries texts beyond the reading public.
+
+__Signal Integrity & Noise Load:__ Official documentation maintains high reliability through bureaucratic verification; commercial print introduces new error types through carving and printing but also enables standardization through mass production; manuscript copying continues with traditional scribal variation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confucian ethics emphasizing loyalty, filial piety, and hierarchical harmony gain bakufu promotion; Buddhist karmic frameworks persist alongside; the practical morality of commercial exchange develops its own norms of reliability and reputation.
+
+__Law, Codification & Regulatory Evolution:__ The Buke Shohatto (revised periodically) governs warrior conduct; domain laws regulate local populations; the bakufu issues regulations (ofuregaki) on specific matters; written law accumulates without systematic codification; precedent and administrative discretion guide adjudication.
+
+__Adjudication, Liability & Sanction:__ Domain lords exercise local judicial authority; bakufu courts handle inter-domain and capital matters; punishments range from fines and exile to execution and household abolition; the regulatory burden on merchants increases as commerce expands.
+
+__Rights, Protections & Compliance Burden:__ Status determines obligations and protections; registration systems track residence, occupation, and religious affiliation; the compliance burden is substantial but predictable; merchants bear increasing regulation while gaining economic influence.
+
+__Impunity & Unredressed Wrong:__ The bakufu and domain lords exercise wide discretion; peasant appeal (jikiso) exists but is risky; merchant disputes find resolution through guild arbitration and official courts; structural injustice against outcastes and women remains unaddressed within the system.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Neo-Confucian thought (Shushigaku) receives bakufu favor and shapes official ideology; Hayashi Razan (1583–1657) establishes the Confucian academy that becomes the Shōheikō; Buddhist scholasticism continues; empirical inquiry develops in medicine, botany, and practical arts.
+
+__Applied Knowledge & Technical Method:__ Woodblock printing technology, refined from Buddhist and movable-type precedents, enables commercial publishing; agricultural manuals disseminate improved techniques; surveying and cartography develop for administrative purposes; practical mathematics (wasan) emerges for commercial calculation.
+
+__Education, Knowledge Stock & Skill Distribution:__ Domain schools for warriors expand; temple schools (terakoya) provide basic literacy to commoners; Confucian academies train scholars and administrators; commercial publishing disseminates knowledge beyond classroom settings; the knowledge stock accessible to literate populations grows substantially.
+
+__Obsolescence & Knowledge Decay:__ Military techniques lose relevance as warfare recedes into memory; some movable-type printing methods yield to more efficient woodblock for vernacular texts; European learning is restricted but not entirely lost through Dutch contacts; manuscript transmission continues with gradual copying loss for less-copied texts.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Imperial mythology retains ceremonial authority; the warrior ideal (bushidō, though the term gains currency later) shapes samurai self-understanding; merchant and artisan identities develop distinctive pride in craft and reliability; urban popular culture generates new identity forms.
+
+__Legitimating Narrative & Ideology:__ Tokugawa legitimacy rests on the narrative of peace restored after chaos; Confucian framing emphasizes benevolent rule and hierarchical harmony; the bakufu patronizes historical compilation that validates its position; domain histories develop parallel legitimating narratives.
+
+__Artistic Expression & Material Culture:__ Early Edo aesthetics inherit Momoyama grandeur while developing new forms; the Kanō and Tosa schools continue elite painting; ukiyo-e (floating world pictures) emerge depicting pleasure quarter life; ceramics, textiles, and lacquerware reach high refinement; kabuki and puppet theater develop as popular entertainment; the material culture of the period is confident, abundant, and increasingly commercial.
+
+__Form Exhaustion & Meaning Decay:__ No significant form exhaustion characterizes this window; rather, new forms emerge as stability enables cultural investment; commercial publishing generates popular literature (kana-zōshi, ukiyo-zōshi precursors); the cultural moment is generative rather than exhausted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Buddhist, Shinto, and Confucian frameworks coexist in practical complementarity; Pure Land Buddhism promises salvation through faith; Zen informs elite aesthetics; Confucian ethics structure worldly conduct; the impermanence theme (mujō) persists but stability generates more optimistic sensibilities.
+
+__Ritual, Devotion & Sacred Practice:__ Temple registration (terauke) makes Buddhist affiliation universal and mandatory; household altars (butsudan) and ancestral rites structure domestic piety; shrine festivals punctuate the calendar; pilgrimage to Ise and other sacred sites flourishes; the ritual year is dense and participatory.
+
+__Religious Institutions & Doctrinal Authority:__ The bakufu incorporates Buddhist temples into state administration through mandatory registration; sectarian hierarchies gain bakufu recognition and protection; temple landholding and local influence stabilize; doctrinal conformity is enforced within sects.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity is definitively suppressed; hidden Christians (kakure kirishitan) maintain clandestine practice; Buddhist-Shinto synthesis (shinbutsu-shūgō) continues as the operative framework; Confucianism penetrates warrior ethics without displacing Buddhist soteriology; no significant new religious movements emerge.
+
+__Disenchantment & Sacred Discharge:__ The routinization of religious practice through mandatory registration could generate formalism, but this window shows vitality rather than decay; pilgrimage, festivals, and devotional practice remain genuinely participatory; the sacred order supports rather than constrains the emerging commercial culture; disenchantment is minimal as the cosmological frame accommodates worldly prosperity.

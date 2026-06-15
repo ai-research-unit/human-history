@@ -1,69 +1,139 @@
-# __1966 CE – 1976 CE__ — Cultural Revolution Broadcasting
-__Summary:__ Broadcasting becomes the primary instrument of revolutionary extremism as the Cultural Revolution subordinates all media to factional warfare, personality cult, and ideological terror; the binding constraint is Mao's determination to destroy party bureaucracy while retaining supreme power, requiring total informational control; the system operates at maximum coercive saturation with no margin for deviation; the direction is toward ideological purity enforced through broadcast-mobilized mass violence, then gradual stabilization after 1969.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The river basins remain the demographic core; wired broadcasting networks now saturate urban and most rural areas, reducing information friction to near-zero for party signals; physical remoteness still limits television but radio and loudspeaker coverage is comprehensive.<br><br>
-__Climate Regime & Volatility:__ Normal monsoon variability continues; no catastrophic climate events match the Great Leap famine; agricultural output recovers sufficiently that climate is not the binding constraint; the regime absorbs seasonal variation without systemic failure.<br><br>
-__Hazard Regime & Exposure:__ The 1976 Tangshan earthquake kills approximately 240,000, exposing infrastructure vulnerability; broadcasting mobilizes relief but the regime initially conceals the death toll; seismic hazard is demonstrated but not systematically addressed.<br><br>
-__Resource & Energy Endowment:__ Coal and hydropower continue to expand; oil production at Daqing becomes a propaganda model; resource extraction supports industrial broadcasting infrastructure; the endowment is adequate for the system's modest technical requirements.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution increases in cities but remains below critical thresholds; broadcasting infrastructure generates minimal physical waste; sink capacity is not stressed; environmental degradation is not yet a binding constraint.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Barefoot doctor campaigns expand basic health care to rural areas; epidemic control continues; mortality rates decline from post-famine levels; the pathogen load is managed though medical expertise is disrupted by persecution of trained physicians.<br><br>
-__Nutrition & Physiological Vitality:__ Food supply stabilizes after Great Leap recovery; rationing continues but starvation is avoided; nutritional status is adequate if monotonous; vitality is maintained at subsistence level with modest improvement in later years.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage requires political approval; pairing is constrained by class background labels; fertility remains high; late marriage is encouraged but enforcement is uneven; reproductive biology continues normal function under political constraint.<br><br>
-__Demographic Renewal & Density:__ Population grows from approximately 700 million to 930 million; the baby boom generation enters reproductive age; density increases; the age structure remains young; replacement ratios are strongly positive.<br><br>
-__Attrition & Dependency Overhang:__ Political violence creates new orphan and widow cohorts; rusticated youth (sent-down generation) delay family formation; dependency ratios remain manageable; the demographic cost of political violence is absorbed within population growth.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Communes continue as production units; the provisioning floor is maintained above famine level; rationing distributes scarcity relatively evenly; subsistence is precarious but not collapsing; the floor holds.<br><br>
-__Energy Capture & Conversion:__ Coal production continues; small-scale hydropower expands; rural electrification enables loudspeaker networks; industrial energy supply grows at approximately 10% annually; the conversion ceiling rises steadily if inefficiently.<br><br>
-__Labor Organization & Coercion:__ Labor remains organized through work units and communes; political mobilization disrupts production (especially 1966–1968); sent-down youth provide coerced rural labor; coercion is high but productivity is sacrificed to politics.<br><br>
-__Production & Surplus Capacity:__ Industrial production dips during factional fighting (1966–1968) then recovers; agricultural output is stable but stagnant; defense industries receive priority; overall surplus capacity grows slowly with significant inefficiency.<br><br>
-__Storage, Reserves & Buffering:__ State grain reserves are maintained; strategic reserves accumulate for war preparation; hoarding is discouraged and punished; buffering capacity is adequate against normal shocks but would fail under systemic stress.<br><br>
-__Exchange, Trade & Logistics:__ Markets remain suppressed; state distribution continues; foreign trade is minimal except with selected partners; logistics are disrupted by factional fighting then restored; the command economy functions poorly but persists.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ The renminbi functions as unit of account; inflation is controlled; banking remains state-monopolized; rural credit is minimal; value storage is collective; private accumulation is politically dangerous.<br><br>
-__Surplus Extraction & Redistribution:__ Agricultural procurement continues to extract rural surplus; redistribution favors defense and industry; urban-rural gap widens; extraction is exploitative but not catastrophic as during Great Leap.<br><br>
-__Wealth Distribution & Asset Defense:__ Private property remains eliminated; status goods (watches, bicycles, sewing machines) mark relative position; real differentiation follows cadre rank and political standing; wealth concentration is bureaucratic rather than capital-based.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste increases; environmental regulation is absent; waste is externalized to air and water with no systematic treatment; the routing is dispersal by default; accumulation begins but does not yet bind.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust collapses to the nuclear family and often fails there as family members denounce each other; mutual aid networks are destroyed by political terror; the radius of trust is at historical minimum; denunciation corrodes all social bonds.<br><br>
-__Stratification, Status & Group Identity:__ Class labels intensify in importance — the five black categories (landlords, rich peasants, counter-revolutionaries, bad elements, rightists) face systematic persecution; Red Guard identity emerges; factional affiliation determines survival.<br><br>
-__Kinship, Family & Inheritance:__ Families are divided by political loyalty; children denounce parents; marriage across class lines is dangerous; the kinship system is weaponized; inheritance of political status traps descendants of the persecuted.<br><br>
-__Civic Association & Self-Organization:__ Independent association is impossible; Red Guard organizations proliferate but are instrumentalized by factional leaders; all organization is political; self-organization means factional alignment within the party struggle.<br><br>
-__Leisure, Play & Sociability:__ Leisure is eliminated; all time is politically accountable; recreation means revolutionary activity; the eight model operas are the only permitted entertainment; sociability is dangerous; collective life is total mobilization.<br><br>
-__Grievance Channels & Social Discharge:__ Grievance expression is channeled into denunciation of class enemies; petition systems collapse; struggle sessions provide violent discharge; social friction is converted into political violence rather than absorbed; grievance becomes weapon.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Mao exercises supreme authority through the Central Cultural Revolution Group, bypassing party and state structures; Lin Biao and the PLA provide coercive backing; power is concentrated then reconfigured after Lin's fall (1971); the system is in constant factional flux.<br><br>
-__Succession & Power Transfer:__ Lin Biao is designated successor (1969) then eliminated (1971); succession remains contested; the Gang of Four versus moderates defines late-period factionalism; transfer mechanisms are violent and unstable; Mao's death (1976) triggers final struggle.<br><br>
-__Legitimacy & Political Narrative:__ Revolutionary purity is the legitimating principle; broadcast continuously proclaims the Thought of Mao Zedong; the narrative is that class struggle continues under socialism and enemies must be destroyed; belief is coerced; cynicism grows beneath compliance.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Party and state administration are devastated; revolutionary committees replace normal governance; cadres are purged, rusticated, or killed; administrative capacity collapses (1966–1968) then partially rebuilds; the PLA substitutes for civilian administration.<br><br>
-__Political Participation & Mobilization:__ Mobilization is total and compulsory; Red Guards, workers' propaganda teams, and revolutionary committees structure participation; dissent is counter-revolutionary; participation means active persecution of designated enemies; the channels are open only for approved violence.<br><br>
-__Geopolitical Position & External Relations:__ Isolation peaks; relations with both superpowers are hostile; border clashes with Soviet Union (1969) threaten war; rapprochement with United States begins (1971–1972); diplomatic position improves in late period; the trajectory shifts from isolation toward selective opening.<br><br>
-__Coercive Apparatus & Means of Force:__ The PLA is the ultimate arbiter; Red Guard violence is initially encouraged then suppressed (1968); public security apparatus is disrupted then restored; coercive capacity is high but fragmented among factions; unified command is reestablished by early 1970s.<br><br>
-__Internal Order & Threat Environment:__ Factional violence kills hundreds of thousands to millions; armed conflict between Red Guard factions occurs in multiple cities; order collapses (1966–1968) then is reimposed by military intervention; the threat is internal political violence, not crime or rebellion.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Broadcasting achieves total saturation; wired loudspeakers blanket all populated areas; radio is supplemented by wall posters, but broadcast is primary; television reaches urban elites; velocity is instantaneous and reach is universal within the system's territory.<br><br>
-__Record, Storage & Persistence:__ Official archives continue; Red Guard publications proliferate then are collected and destroyed; personal records are dangerous to keep; persistence is high for approved materials, actively destroyed for unofficial; historical memory is being rewritten in real time.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship is absolute; all content must affirm the Cultural Revolution line; quotations from Chairman Mao structure all discourse; deviation is crime; the permitted band is the narrowest in PRC history; framing is constant ideological warfare.<br><br>
-__Reception, Attention & Amplification:__ Reception is mandatory; political study sessions enforce attention; amplification follows factional control of broadcasting; the audience is captive; attention is compelled through political terror; non-reception is not possible.<br><br>
-__Signal Integrity & Noise Load:__ Contradictory factional signals create confusion (especially 1966–1968); the official line shifts unpredictably; yesterday's correct position becomes today's crime; noise is political instability of the signal itself; verification is impossible because truth is factional.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Revolutionary justice means destruction of class enemies; traditional morality is bourgeois; the sense of justice is that persecution of the designated is righteous; moral foundations are inverted — cruelty is virtue, mercy is crime.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal system collapses; laws are replaced by Mao's directives and factional decrees; the procuracy and courts cease functioning (1966–1968); revolutionary committees exercise arbitrary authority; law does not exist in operational sense.<br><br>
-__Adjudication, Enforcement & Liability:__ Struggle sessions replace trials; denunciation determines guilt; enforcement is mob violence authorized by factional leaders; liability attaches to class background and political error, not specific acts; adjudication is political theater.<br><br>
-__Rights, Protections & Compliance Burden:__ No rights exist in practice; constitutional protections are explicitly suspended; compliance is impossible because requirements shift unpredictably; any position can retroactively become criminal; the burden is infinite and unlearnable.<br><br>
-__Impunity & Unredressed Wrong:__ Persecutors operate with total impunity; millions are wrongly persecuted with no redress during the period; rehabilitation is occasionally offered then withdrawn; the deficit of justice accumulates as standing historical trauma.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Mao Zedong Thought is the only permitted theory; all inquiry must cite Mao; science is subordinated to ideology; the discovery frontier is closed by political constraint; theoretical work means textual exegesis of approved sources.<br><br>
-__Applied Knowledge & Technical Method:__ Technical work continues in defense industries (nuclear weapons, satellites); civilian technology stagnates; applied knowledge survives where it has strategic priority; the method is pragmatic where politics permits, paralyzed elsewhere.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Schools close (1966–1968) then reopen with reduced curricula; universities suspend enrollment until 1970 then admit by political criteria; the knowledge stock degrades; skill distribution is disrupted; a generation loses formal education.<br><br>
-__Obsolescence & Knowledge Decay:__ Expertise is persecuted as bourgeois; intellectuals are killed, imprisoned, or rusticated; libraries are vandalized; traditional knowledge is actively destroyed; decay is state policy; untested dogma replaces empirical knowledge.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary purity becomes the sole mythos; all previous culture is Four Olds (old customs, culture, habits, ideas) to be destroyed; identity is reconstructed around the cult of Mao and permanent revolution; historical memory is being erased and rewritten.<br><br>
-__Artistic Expression & Material Culture:__ Eight model operas (revolutionary operas and ballets) are the only permitted art; traditional and foreign art is banned and destroyed; architecture stagnates; material culture is uniform, austere, and politically saturated; broadcast disseminates model works continuously.<br><br>
-__Collective Mood & Behavioral Disposition:__ Terror alternates with frenzied enthusiasm; collective mood oscillates between mobilized aggression and exhausted fear; behavioral disposition is performative compliance with underlying cynicism and trauma; the mood darkens as the decade proceeds.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary slogans hollow through endless repetition; the model operas become stale through compulsory re-experience; forms are exhausted even as they are mandated; meaning decays under the weight of coerced performance; anomie spreads beneath the surface.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ The Mao cult approaches religious intensity — the Little Red Book is scripture, Mao is savior; dialectical materialism remains official but operates as faith; the existential outlook is millenarian class warfare; doubt is unthinkable or unspeakable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily rituals include morning instructions, evening reporting, collective study of Mao's works, loyalty dances; devotion to Mao is the required practice; the sacred is wholly politicized; revolutionary ritual saturates daily life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temples, churches, and mosques are closed, desecrated, or destroyed; clergy are persecuted; religious institutions cease public function; doctrinal authority is Mao alone; all competing spiritual authorities are eliminated.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Traditional beliefs are driven entirely underground; the Mao cult achieves maximum diffusion through broadcast saturation; displacement is near-complete for public spiritual life; private belief persists but is invisible.<br><br>
-__Disenchantment & Sacred Discharge:__ The Mao cult provides pseudo-sacred meaning under coercion; believers exist but coerced performance predominates; disenchantment accumulates as the decade wears on; the sacred cannot be honestly questioned but is increasingly hollow; the discharge of meaning accelerates beneath mandatory enthusiasm.<br><br>
+# __1966 CE – 1976 CE — Cultural Revolution Broadcasting__
+
+__Summary:__ Broadcasting during the Cultural Revolution becomes an instrument of factional warfare and mass terror, as loudspeakers and radio transmit Mao's directives to Red Guard factions, broadcast denunciation sessions and revolutionary operas, and carry the ever-shifting party line that determines who is today's enemy; the binding constraint is the weaponization of the broadcast monopoly itself—with no competing information source and no feedback mechanism, radio becomes pure command, directing millions to destroy enemies designated by central broadcast while simultaneously concealing the chaos, violence, and famine the campaigns produce.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The wired broadcasting network and radio coverage established in the previous period now serves as infrastructure for Cultural Revolution mobilization; Red Guard factions travel by rail (free for revolutionary purposes) across the country while broadcast directives coordinate national campaigns; urban centers (Beijing, Shanghai, Wuhan) become battlegrounds while rural areas experience less intense disruption.
+
+__Climate Regime & Volatility:__ Agricultural disruption from political campaigns reduces yields; Tangshan earthquake (1976) kills estimated 240,000–700,000 in the decade's final months, with radio initially denying any need for foreign assistance while broadcasting that revolutionary spirit would triumph over natural disaster.
+
+__Hazard Regime & Exposure:__ The Tangshan earthquake reveals infrastructure vulnerability; broadcast response emphasizes ideological resilience over material aid; foreign assistance refused on broadcast principle while casualties mount.
+
+__Resource & Energy Endowment:__ Industrial production disrupted by factional fighting and political campaigns; energy sector partially insulated from worst disruption due to strategic importance; rural fuel remains biomass and muscle; broadcast infrastructure maintained as priority.
+
+__Waste Absorption & Sink Capacity:__ Environmental concerns absent from Cultural Revolution discourse; industrial pollution unregulated; broadcast content focuses exclusively on class struggle and production targets, never environmental impact.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Barefoot doctor system expands through the period, representing one positive development amid chaos; basic health interventions reach rural areas; however, urban hospitals disrupted as medical professionals targeted; mortality from violence exceeds disease mortality in many contexts.
+
+__Nutrition & Physiological Vitality:__ Agricultural disruption creates localized food shortages but no famine matching Great Leap Forward scale; urban rationing continues; sent-down youth experience rural hardship; nutritional status declines in affected areas.
+
+__Care, Healing & Recovery Capacity:__ Medical professionals attacked as bourgeois; hospitals become factional battlegrounds; traditional Chinese medicine promoted over Western medicine; barefoot doctors provide basic care but advanced medicine disrupted.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage across class lines (good and bad class background) prohibited; sent-down youth separated from normal marriage patterns; fertility rates begin declining; broadcast campaigns promote late marriage.
+
+__Demographic Renewal & Density:__ Population grows from approximately 740 million (1966) to 930 million (1976); sent-down youth program relocates 16–17 million urban youth to countryside; population policies tighten.
+
+__Attrition & Dependency Overhang:__ Cultural Revolution violence creates orphans and widows; persecution targets produce disabled survivors; sent-down youth generation's education disrupted; dependency burden shifts to countryside absorbing urban youth.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rural communes continue functioning despite political disruption; urban rationing maintains basic provision; localized shortages occur where factional fighting or campaign targeting disrupts production; no nationwide famine.
+
+__Energy Capture & Conversion:__ Industrial energy sector partially protected; Daqing oil field as model; hydroelectric projects continue; Third Front industrialization relocates factories to interior; broadcast carries Daqing spirit campaigns.
+
+__Labor Organization & Coercion:__ Work units organize labor but political campaigns disrupt production; manual labor mandatory for intellectuals and cadres (May Seventh Cadre Schools); sent-down youth provide agricultural labor; revolutionary committees replace professional management.
+
+__Production & Surplus Capacity:__ Industrial output declines during worst chaos (1967–1969); recovery under military control; agricultural production stagnates; Third Front construction absorbs resources in interior mountain areas; broadcast reports continuous progress while output falls.
+
+__Storage, Reserves & Buffering:__ Grain reserves maintained by continuing procurement; no Great Leap Forward-scale depletion; state capacity to provision cities preserved; factory inventories disrupted by transport interruptions.
+
+__Exchange, Trade & Logistics:__ Command economy continues; rail transport disrupted by Red Guard movements and factional fighting; foreign trade minimal due to isolation; Hong Kong channel for limited imports; no commercial advertising on broadcast.
+
+__Value Storage, Credit & Deferred Exchange:__ Renminbi circulation continues; no financial crisis; work-point systems in communes; no private capital accumulation permitted; money's significance reduced in allocative function.
+
+__Surplus Extraction & Redistribution:__ State procurement continues at rates that maintain urban provisioning without causing rural famine; extraction moderated from Great Leap Forward levels; surplus directed to Third Front and defense industry.
+
+__Wealth Distribution & Asset Defense:__ Remaining private property (housing, heirlooms) subject to Red Guard confiscation; class labels determine life chances absolutely; material equality enforced through shared poverty; cultural property destroyed.
+
+__Byproducts & Waste Routing:__ Industrial pollution unaddressed; cultural "waste"—books, artifacts, temples—actively destroyed; broadcast celebrates destruction of "four olds" (old customs, culture, habits, ideas).
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Families torn apart by class-struggle demands—children denounce parents, spouses betray each other; sent-down youth separated from families; traditional family structures attacked as feudal; inheritance meaningless given property destruction.
+
+__Association & Mutual Aid:__ All association channeled through party-controlled organizations; Red Guard factions emerge as semi-autonomous associations but remain dependent on elite patrons; traditional associations completely suppressed; mutual aid survives informally in sent-down communities.
+
+__Leisure, Play & Sociability:__ Revolutionary activities consume all time; eight model operas provide sole approved entertainment, broadcast continuously; reading restricted to Mao's works and approved materials; sociability dangerous given informer risk.
+
+__Stratification, Status & Group Structure:__ Red versus black class categories determine survival; Red Guard factionalism creates violent competition; revolutionary committees replace formal hierarchies; party membership suspended or meaningless during factional chaos; military emerges as stabilizing force.
+
+__Administrative Capacity & Institutional Integrity:__ Party apparatus attacked and destroyed during Cultural Revolution's early phase (1966–1969); revolutionary committees (triple combination of military, cadres, and masses) provide minimal governance; Liu Shaoqi and much of party leadership purged; administration recovers partially under military supervision.
+
+__Coercive Apparatus & Means of Force:__ People's Liberation Army maintains coherence and becomes governing force after 1969; militia and Red Guard violence widespread; public security apparatus targeted then reconstituted; armed factional fighting in some cities (Wuhan incident, 1967); border clashes with USSR (1969) demonstrate external military capacity.
+
+__Discharge, Disorder & Decay:__ Violence pervasive—estimates range from 500,000 to 2 million dead; Red Guard violence targets class enemies, then factions fight each other; historical sites, temples, and cultural artifacts systematically destroyed; social fabric torn; disorder total in 1966–1969, gradually suppressed thereafter; scars permanent.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Terror and revolutionary fervor intertwined; genuine enthusiasm among young Red Guards mixed with opportunism and fear; older population survives through feigned enthusiasm or hiding; paranoia universal given informer networks; public expression uniformly revolutionary while private sentiment ranges from belief to despair.
+
+__Leadership & Personal Authority:__ Mao Zedong at cult's apex—his image, his Little Red Book, his directives broadcast continuously; Lin Biao as designated successor until flight and death (1971); Zhou Enlai as moderating figure maintaining minimal function; Gang of Four (Jiang Qing, Zhang Chunqiao, Yao Wenyuan, Wang Hongwen) control cultural apparatus and broadcast content.
+
+__Legitimacy as Lived Allegiance:__ Mao's personal legitimacy sustains the system even as party institutions collapse; young Red Guards genuinely believe; older population's allegiance increasingly performative; Lin Biao affair (1971) shocks true believers; post-Mao revelations will shatter remaining faith.
+
+__Political Will & Collective Resolve:__ Capacity for mass mobilization demonstrated at catastrophic scale; factional will fragmentary and violent; collective resolve directed at mutual destruction; military will provides coherence after 1969.
+
+__External Relations & Posture:__ Isolation nearly complete; border clashes with USSR (1969) raise war fears; Nixon visit (1972) begins rapprochement with US, broadcast as strategic victory; diplomatic missions attacked by Red Guards (British embassy burned); foreign radio jammed.
+
+__Disaffection, Apathy & Spent Will:__ Revolutionary enthusiasm exhausts itself by early 1970s; sent-down youth generation becomes cynical; April Fifth Movement (1976) mourning Zhou Enlai demonstrates popular disaffection; Mao's death releases suppressed exhaustion; post-1976 revelations will channel accumulated grievance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Mandarin continues as broadcast standard; literacy campaigns suspended during school closures; regional languages persist privately; communication reduced to revolutionary slogans (quotations from Chairman Mao) and approved formulas; genuine information exchange dangerous.
+
+__Channels & Transmission Velocity:__ Wired broadcasting and radio transmit directives instantly to entire population; big-character posters (dazibao) supplement broadcast as factional communication; printed materials restricted to Little Red Book and approved publications; transistor radios spread but content identical across channels.
+
+__Record, Storage & Persistence:__ Historical records destroyed; libraries purged; personal papers burned preemptively by owners; official media provides only record—systematically false; foreign observers (diplomats, journalists) provide alternative documentation; memories and private accounts preserved covertly.
+
+__Framing, Censorship & Discourse Norms:__ Gang of Four controls cultural apparatus; revolutionary formulas mandatory; any deviation potentially fatal; eight model operas define approved art; news broadcasts report only triumph and struggle; reality of violence, chaos, and suffering completely suppressed.
+
+__Reception, Attention & Amplification:__ Mandatory listening continues; workplace political study sessions; model opera broadcasts saturate airwaves—the same eight works for a decade; attention coerced but genuine engagement impossible given repetition; foreign radio (VOA, BBC) jammed but some listening occurs despite risk.
+
+__Signal Integrity & Noise Load:__ Information environment maximally corrupted—broadcast content bears no relationship to reality; Lin Biao one day designated successor, next day revealed as traitor; population learns to decode shifting signals for survival but genuine information nil; the broadcast monopoly produces total noise.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Class struggle as sole moral framework; betrayal of family and friends for revolution morally required; traditional ethics ("feudal") and humanist ethics ("bourgeois") attacked; moral universe reduced to political correctness; children rewarded for denouncing parents.
+
+__Law, Codification & Regulatory Evolution:__ Legal system suspended; revolutionary committees exercise arbitrary authority; no trials, only mass criticism sessions; law as concept attacked as bourgeois; Mao's word as sole authority; Constitution (1975) ratifies revolutionary norms.
+
+__Adjudication, Liability & Sanction:__ Mass struggle sessions determine guilt; torture extracts confessions; death by beating in struggle sessions; suicide as escape (numerous prominent victims); no appeal, no defense, no due process; sanction arbitrary and limitless.
+
+__Rights, Protections & Compliance Burden:__ No rights exist; compliance provides no protection given shifting line and factional competition; today's loyal revolutionary is tomorrow's class enemy; constant performance of revolutionary fervor required; wrong word, wrong expression, wrong ancestor brings destruction.
+
+__Impunity & Unredressed Wrong:__ Red Guard perpetrators enjoy complete impunity during Cultural Revolution; post-1976 limited accountability for Gang of Four only; vast majority of wrongs never redressed; victims rehabilitated posthumously or not at all; perpetrators remain in communities with victims' families.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Mao Zedong Thought as sole legitimate framework; sciences attacked except where militarily essential (nuclear weapons program continues); social sciences and humanities completely suppressed; universities closed (1966–1970) then reopened with worker-peasant-soldier students selected politically.
+
+__Applied Knowledge & Technical Method:__ Industrial technique maintained where strategically necessary; agricultural "science" remains politically driven; Third Front construction requires engineering; medical technique degraded; traditional craft knowledge destroyed along with practitioners.
+
+__Education, Knowledge Stock & Skill Distribution:__ Schools and universities closed or converted to revolutionary workshops; educated youth sent to countryside, their education terminated; "worker-peasant-soldier" students admitted to reopened universities without academic preparation; knowledge stock devastated; the sent-down generation (zhiqing) loses a decade of education.
+
+__Obsolescence & Knowledge Decay:__ Not obsolescence but active destruction—libraries burned, teachers persecuted, foreign-language capability attacked as revisionist or imperialist; technical knowledge preserved only where essential for defense; traditional knowledge (medicine, craft, scholarship) targeted for elimination; knowledge decay catastrophic.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Revolutionary mythology absolutized; Long March and Yan'an as sacred narrative broadcast continuously; pre-revolutionary Chinese culture attacked as feudal; Mao as father of nation; class identity (red versus black) overwrites all other identities.
+
+__Legitimating Narrative & Ideology:__ "Continuing the revolution under the dictatorship of the proletariat"—bourgeoisie seen as perpetually regenerating within party itself, requiring permanent revolution; Lin Biao and Confucius campaign links ancient philosophy to contemporary revisionism; ideological content shifts with factional struggles but revolutionary form constant.
+
+__Artistic Expression & Material Culture:__ Eight model operas (five Beijing operas, two ballets, one symphony) constitute entire approved artistic output, broadcast continuously for a decade; visual culture limited to approved revolutionary images; traditional crafts and regional cultures suppressed; material culture austere—Mao suit uniform, Red Guard armband as accessory, Little Red Book as talisman.
+
+__Form Exhaustion & Meaning Decay:__ Eight model operas, however well-crafted, exhaust audience after thousands of repetitions; revolutionary slogans become empty through overuse; genuine meaning impossible when all expression must be revolutionary; by 1976, cultural exhaustion total.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Mao cult reaches quasi-religious intensity—morning rituals before Mao portrait, confession of thought to Mao, his works as sacred text, his image as talisman; revolutionary teleology promises future communist paradise justifying present sacrifice; death in revolutionary cause as martyrdom.
+
+__Ritual, Devotion & Sacred Practice:__ Daily ritual: morning exercises before Mao portrait, reading of quotations, criticism and self-criticism sessions, revolutionary songs; secular but functionally religious; intensity of devotion enforced and, for many young people, genuine.
+
+__Religious Institutions & Doctrinal Authority:__ Traditional religious institutions completely destroyed—temples demolished, clergy forced to labor or killed, religious practice forbidden; Mao cult substitutes for religion; Gang of Four as ideological authority interpreting Mao Thought.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Traditional religious belief survives covertly, especially in rural areas; Mao cult absorbs religious energy; no syncretism possible given totality of Mao cult claims; displacement nearly complete at surface level.
+
+__Disenchantment & Sacred Discharge:__ The Mao cult cannot survive Mao's death and the revelations that follow; Lin Biao affair (1971) already shatters faith for many; Mao's death (1976) and Gang of Four arrest release decade of suppressed doubt; the sacred constructed through broadcast collapses once broadcast ceases enforcing it; spiritual void opens that reform era's materialism and subsequent revival of traditional religion will partially fill.

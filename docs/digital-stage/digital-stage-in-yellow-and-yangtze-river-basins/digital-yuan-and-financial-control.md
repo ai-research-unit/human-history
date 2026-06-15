@@ -1,69 +1,139 @@
-# __2012 CE – 2026 CE__ — Digital Yuan and Financial Control
-__Summary:__ A pan-temporal snapshot of China's central bank digital currency (CBDC) program, from early research through pilot deployments in Shenzhen, Suzhou, and the 2022 Beijing Olympics, to limited domestic adoption by 2026. The binding constraint is user uptake against entrenched private payment platforms; the system holds substantial state capacity to mandate adoption but limited organic demand; the trajectory is toward gradual rollout with programmable and surveillance capabilities intact but international dollar-challenge ambitions largely unrealized.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The digital yuan operates across China's major urban corridors and pilot cities — Shenzhen, Suzhou, Chengdu, Xiong'an, Beijing — with infrastructure concentrated in developed eastern zones where smartphone penetration and commercial density are highest.<br><br>
-__Climate Regime & Volatility:__ Climate is not a binding variable for digital currency infrastructure; data centers draw on regional power grids with varying seasonal load but no climate-driven operational constraint during the window.<br><br>
-__Hazard Regime & Exposure:__ Digital infrastructure faces low physical hazard exposure; redundant server architecture and distributed ledger design provide resilience against localized disruptions; no major infrastructure loss recorded during pilots.<br><br>
-__Resource & Energy Endowment:__ Electricity demand for CBDC transaction processing is trivial compared to proof-of-work cryptocurrencies; the system draws on China's coal-heavy grid with no resource constraint on scaling.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from devices and servers remains marginal relative to national electronics throughput; no saturation pressure specific to CBDC infrastructure.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic (2020–2022) accelerated contactless payment adoption and provided a public health rationale for digital currency pilots; disease load otherwise not a direct driver.<br><br>
-__Nutrition & Physiological Vitality:__ Not a binding variable; no direct link between CBDC deployment and population nutritional status.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Not a binding variable for digital currency operations.<br><br>
-__Demographic Renewal & Density:__ Urban population density in pilot cities facilitates merchant adoption and QR-code payment infrastructure; aging population creates accessibility challenges for elderly users unfamiliar with digital wallets.<br><br>
-__Attrition & Dependency Overhang:__ Elderly dependency cohort shows lower adoption rates; digital divide creates policy tension between financial inclusion goals and surveillance capabilities.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Digital yuan pilots target retail transactions — groceries, transit, utilities — integrating with daily provisioning flows in pilot cities without displacing existing payment rails.<br><br>
-__Energy Capture & Conversion:__ Transaction processing energy is negligible; no conversion bottleneck compared to private payment platforms.<br><br>
-__Labor Organization & Coercion:__ Government employees in pilot zones receive partial salaries in digital yuan; distribution to civil servants provides captive early adoption base but creates mandatory-use dynamics.<br><br>
-__Production & Surplus Capacity:__ CBDC does not alter production capacity; serves as alternative payment rail for existing commercial flows.<br><br>
-__Storage, Reserves & Buffering:__ Digital yuan wallets offer tiered storage limits based on identity verification; programmable expiration features tested in pilot subsidies force time-limited spending, reducing hoarding.<br><br>
-__Exchange, Trade & Logistics:__ QR-code merchant terminals proliferate in pilot zones; interoperability with existing Alipay and WeChat Pay infrastructure remains limited, creating parallel payment ecosystems.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Digital yuan is direct liability of People's Bank of China, eliminating counterparty risk present in private platform balances; programmable features enable conditional payments, smart contracts, and targeted subsidies; interest-bearing options deliberately excluded to avoid bank disintermediation.<br><br>
-__Surplus Extraction & Redistribution:__ Programmable money enables targeted fiscal transfers — pandemic relief, consumption vouchers, social welfare — with real-time tracking of fund flows and usage compliance; state visibility into transaction data vastly exceeds cash or private platforms.<br><br>
-__Wealth Distribution & Asset Defense:__ Full transaction visibility undermines wealth-hiding strategies; capital flight, tax evasion, and informal economy transactions become traceable; wealthy households and businesses show adoption resistance.<br><br>
-__Byproducts & Waste Routing:__ Displacement of physical cash reduces currency printing and distribution costs; e-waste from wallet devices remains marginal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust in state-issued digital currency varies by demographic — higher among older cohorts accustomed to state banking, lower among urban professionals comfortable with private platforms; surveillance concerns dampen enthusiasm among privacy-conscious users.<br><br>
-__Stratification, Status & Group Identity:__ Digital yuan adoption correlates with state employment and pilot-zone residence; early adopters are government workers, public-sector vendors, and policy-responsive merchants rather than organic market choice.<br><br>
-__Kinship, Family & Inheritance:__ Digital wallet inheritance and family sharing features remain underdeveloped; generational transfer mechanisms unclear compared to traditional bank accounts.<br><br>
-__Civic Association & Self-Organization:__ No significant civil society mobilization around CBDC; privacy advocacy constrained by broader speech restrictions; business associations respond to regulatory signals rather than autonomous organization.<br><br>
-__Leisure, Play & Sociability:__ Digital yuan red envelopes and lottery distributions tested during festivals replicate WeChat social payment customs but without organic social integration.<br><br>
-__Grievance Channels & Social Discharge:__ Privacy concerns expressed through adoption resistance rather than organized dissent; grievances over surveillance potential remain largely unvoiced in public discourse.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Digital yuan development centralized under People's Bank of China with State Council oversight; Xi Jinping's administration treats monetary sovereignty and financial control as core security priorities.<br><br>
-__Succession & Power Transfer:__ CBDC program continuity assured by institutional embedding in central bank and party-state apparatus; not dependent on individual leadership transition.<br><br>
-__Legitimacy & Political Narrative:__ Official framing emphasizes financial inclusion, payment efficiency, and technological leadership; surveillance capabilities downplayed in domestic messaging; international narrative positions digital yuan as alternative to dollar hegemony.<br><br>
-__Administrative Capacity & Institutional Integrity:__ PBOC demonstrates high technical capacity in pilot execution; interagency coordination with commerce, taxation, and security ministries enables regulatory alignment; corruption risks in distribution monitored through system transparency.<br><br>
-__Political Participation & Mobilization:__ No public consultation on CBDC design; citizens are recipients of policy, not participants; business compliance is regulatory mandate rather than democratic input.<br><br>
-__Geopolitical Position & External Relations:__ Digital yuan positioned as dollar alternative for cross-border settlement; mBridge project with Hong Kong, Thailand, UAE tests international corridors; US and European observers monitor with concern but adoption outside China remains minimal; sanctions evasion potential drives Western skepticism.<br><br>
-__Coercive Apparatus & Means of Force:__ Financial surveillance capabilities directly serve security state; transaction tracking integrates with social credit and law enforcement systems; programmable freezing enables targeted asset control without judicial process.<br><br>
-__Internal Order & Threat Environment:__ CBDC enhances capital control enforcement and anti-money laundering capacity; reduces cash-based informal economy and corruption channels; internal order benefit is surveillance expansion rather than disorder suppression.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Digital yuan transactions generate real-time data streams to central bank; velocity of financial information transmission to state approaches instantaneous compared to batch-processed bank reporting.<br><br>
-__Record, Storage & Persistence:__ Full transaction ledger maintained by PBOC with indefinite retention; contrasts with cash anonymity and private platform data fragmentation; creates permanent financial record for every wallet holder.<br><br>
-__Framing, Censorship & Discourse Norms:__ Privacy implications underreported in domestic media; international criticism filtered through Great Firewall; official discourse emphasizes convenience and anti-crime benefits.<br><br>
-__Reception, Attention & Amplification:__ Public awareness of digital yuan high but adoption low; media coverage peaks around Olympic pilots and subsidy distributions; sustained attention fades between promotional campaigns.<br><br>
-__Signal Integrity & Noise Load:__ Transaction data integrity high by design; no noise problem in financial records; challenge is integration with fragmented legacy systems rather than signal degradation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public ambivalence toward state financial surveillance; traditional acceptance of state authority in monetary affairs balanced against emerging privacy consciousness among younger cohorts.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal framework for CBDC evolves through PBOC regulations and pilot rules; no comprehensive digital currency law enacted by 2026; existing banking and payment regulations adapted incrementally.<br><br>
-__Adjudication, Enforcement & Liability:__ Wallet disputes handled through PBOC and commercial bank channels; judicial mechanisms for CBDC-specific claims underdeveloped; liability for technical failures unclear.<br><br>
-__Rights, Protections & Compliance Burden:__ No explicit privacy rights in CBDC design; identity verification requirements create compliance burden; tiered wallets link transaction limits to personal data disclosure.<br><br>
-__Impunity & Unredressed Wrong:__ State access to transaction data operates without judicial oversight; citizens have no mechanism to challenge surveillance or contest asset freezing; accountability gap embedded in system architecture.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Chinese central bank research leads global CBDC development; theoretical work on programmable money, monetary policy transmission, and financial stability implications extensive; paradigm treats state digital currency as natural evolution of fiat money.<br><br>
-__Applied Knowledge & Technical Method:__ Hybrid architecture combining centralized ledger with distributed elements; offline payment capability via NFC; smart contract integration; technical methods advanced but deployment conservative.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Fintech workforce concentrated in eastern tech hubs; public financial literacy campaigns accompany pilots; knowledge gap between developers and ordinary users substantial.<br><br>
-__Obsolescence & Knowledge Decay:__ Rapid iteration in pilot phases; earlier technical approaches superseded; no significant knowledge loss given institutional continuity and documentation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Digital yuan taps nationalist narrative of technological sovereignty and resistance to dollar hegemony; monetary innovation framed as continuation of China's historical currency leadership (paper money origins).<br><br>
-__Artistic Expression & Material Culture:__ Digital wallet interfaces follow standard fintech aesthetics; no distinctive cultural expression in CBDC design; Olympic panda-themed hardware wallets represent limited material culture innovation.<br><br>
-__Collective Mood & Behavioral Disposition:__ Public mood toward digital yuan is pragmatic indifference; neither enthusiasm nor resistance dominant; adoption follows convenience and mandate rather than cultural embrace.<br><br>
-__Form Exhaustion & Meaning Decay:__ CBDC promotional campaigns risk cliche; red envelope and lottery gimmicks replicate tired marketing forms; no fresh cultural meaning generated; symbolic potential as national achievement underrealized.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Digital yuan operates in secular-materialist frame; no spiritual dimension to monetary technology; state techno-optimism is implicit worldview.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Festival red envelope distributions represent secularized ritual; no sacred practice dimension to CBDC adoption.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No religious institution involvement in digital currency discourse; donations and religious commerce potentially trackable through CBDC, creating latent control vector.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Not applicable; CBDC is purely instrumental technology without spiritual content or displacement effects.<br><br>
-__Disenchantment & Sacred Discharge:__ State digital currency embodies thoroughgoing disenchantment — money as pure administrative technology, stripped of any residual mystique; no spiritual void created since no spiritual content was present to displace.<br><br>
+# __2012 CE – 2026 CE — Digital Yuan and Financial Control__
+
+__Summary:__ China's development of the digital yuan (e-CNY) from 2014 pilot research to 2026 deployment represents a state attempt to reclaim monetary control from the Alipay-WeChat Pay duopoly and to position a central bank digital currency for potential international use, with the binding constraint being low voluntary adoption by a population already embedded in the convenience of existing private payment rails.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Pilot programs concentrate in major urban centers — Shenzhen, Suzhou, Chengdu, Xiong'an, and Beijing — where dense infrastructure permits rapid iteration, while rural areas remain peripheral to deployment. The 2022 Beijing Winter Olympics serves as a showcase venue, channeling foreign visitors through e-CNY wallets in a controlled geography.
+
+__Climate Regime & Volatility:__ Climate plays no direct role in the digital currency's operation, though extreme weather events disrupting power grids would expose the offline-capability claims built into the system's design.
+
+__Hazard Regime & Exposure:__ The system's architecture includes offline transaction modes intended to function during natural disasters or network outages, a design lesson drawn from earthquake and flood experiences where digital payments failed.
+
+__Resource & Energy Endowment:__ Server farms and data centers supporting the digital yuan's ledger draw on China's coal-dominated electricity grid, adding marginal load to an already strained energy system; the currency's centralized design, unlike proof-of-work cryptocurrencies, keeps this footprint modest.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from terminals, smartphones, and hardware wallets accumulates as infrastructure expands, but the scale remains insignificant against the broader e-waste problem of the consumer electronics sector.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19's 2020-2022 outbreak accelerates contactless payment adoption and provides the state an argument for digital yuan's hygienic advantages over cash, though this framing competes with already-dominant QR payments.
+
+__Nutrition & Physiological Vitality:__ No direct bearing on physical health; the currency serves as a neutral medium for food and medicine purchases.
+
+__Care, Healing & Recovery Capacity:__ Digital yuan pilots include programmable disbursements for healthcare subsidies, allowing targeted distribution to elderly or low-income recipients with automatic expiration dates that force spending.
+
+__Reproductive Biology & Pairing Dynamics:__ No direct impact on reproductive behavior or family formation.
+
+__Demographic Renewal & Density:__ The aging population and declining birth rate create a larger cohort of elderly users unfamiliar with digital payments; the e-CNY's offline hardware wallet option partially addresses this accessibility gap.
+
+__Attrition & Dependency Overhang:__ Pension and welfare disbursement through e-CNY channels emerges as a use case, though recipients often convert immediately to WeChat Pay or Alipay for actual spending, limiting the currency's stickiness among dependents.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The digital yuan does not alter subsistence conditions directly but serves as a potential channel for targeted welfare transfers with programmable spending restrictions — funds that can only purchase food, not alcohol or gambling.
+
+__Energy Capture & Conversion:__ The payment infrastructure draws power from the national grid, but energy consumption remains marginal compared to Bitcoin or Ethereum mining operations, which China banned in 2021.
+
+__Labor Organization & Coercion:__ State and state-owned enterprise employees in pilot cities receive portions of their wages in e-CNY, a soft compulsion that seeds adoption without explicit mandates.
+
+__Production & Surplus Capacity:__ The digital yuan itself generates no productive output; its value lies in the transaction data and monetary control it provides the central bank, not in manufacturing or service delivery.
+
+__Storage, Reserves & Buffering:__ The People's Bank of China positions e-CNY as enhancing monetary policy transmission by making money supply adjustments more precise and traceable; reserves held in digital form offer real-time visibility unavailable with physical cash.
+
+__Exchange, Trade & Logistics:__ Cross-border settlement pilots with Hong Kong and several Belt and Road partner countries test the currency's potential to bypass SWIFT and dollar-denominated trade, though actual volumes remain tiny through 2026.
+
+__Value Storage, Credit & Deferred Exchange:__ The digital yuan is designed as M0 — a cash replacement — with no interest-bearing function, deliberately limiting its use as a savings vehicle and preserving commercial bank deposit bases; programmable expiration dates in some pilot distributions further discourage hoarding.
+
+__Surplus Extraction & Redistribution:__ The state gains granular visibility into transaction flows, enabling more precise taxation and anti-corruption enforcement; redistribution pilots include stimulus handouts through lottery-style giveaways in pilot cities.
+
+__Wealth Distribution & Asset Defense:__ Large-value transactions require higher identity verification tiers, constraining wealthy individuals' ability to move funds anonymously; the "controlled anonymity" design preserves small-transaction privacy while exposing larger flows to state scrutiny.
+
+__Byproducts & Waste Routing:__ The primary byproduct is transaction data — a resource the state captures and commercial platforms lose access to. No significant physical waste stream emerges from the payment system itself.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Gift-giving traditions, including red envelope (hongbao) transfers, already migrated to WeChat Pay; the digital yuan competes poorly for this social function without the network effects of established platforms.
+
+__Association & Mutual Aid:__ Mutual aid and informal lending circles continue through established apps; the e-CNY offers no compelling advantage for peer-to-peer transfers that would shift these practices.
+
+__Leisure, Play & Sociability:__ The 2022 Olympics demonstrates e-CNY in tourism and entertainment spending, but limited foreign adoption and domestic ambivalence constrain its penetration into leisure economies.
+
+__Stratification, Status & Group Structure:__ The tiered identity verification system creates a de facto stratification: anonymous small-value users at the bottom, fully verified users with higher limits at the top, and sanctioned individuals potentially excluded entirely.
+
+__Administrative Capacity & Institutional Integrity:__ The People's Bank of China leads development with coordination across commercial banks designated as distribution intermediaries. Technical capacity proves strong, but the bureaucratic push encounters resistance from Ant Group and Tencent, whose payment dominance the project explicitly targets.
+
+__Coercive Apparatus & Means of Force:__ The digital yuan's programmability permits asset freezes without judicial process — a capability the state possesses but deploys cautiously to avoid spooking adoption. Surveillance integration with public security systems remains technically feasible but officially downplayed.
+
+__Discharge, Disorder & Decay:__ Friction emerges between the state's push for adoption and users' inertia in established payment habits. No disorder results, but the project's slow uptake reflects institutional exhaustion against the private platforms' entrenched networks.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Popular reception ranges from indifference to suspicion. Users satisfied with Alipay and WeChat Pay see no compelling reason to switch; concerns about surveillance, though often muted, circulate on social media before censorship intervenes.
+
+__Leadership & Personal Authority:__ Xi Jinping's consolidation of power provides top-level backing for the project as part of his broader assertion of state authority over private capital, but no single leader becomes the public face of the digital yuan initiative.
+
+__Legitimacy as Lived Allegiance:__ The project draws legitimacy from nationalist framing — a sovereign alternative to dollar hegemony and a counter to US financial sanctions — though this resonates more with policy elites than with ordinary users focused on daily convenience.
+
+__Political Will & Collective Resolve:__ The state demonstrates sustained will through multi-year pilots, expanding city coverage, and Olympics integration, but avoids the coercive mandate that would force rapid adoption and risk backlash.
+
+__External Relations & Posture:__ The digital yuan's international dimension positions it as a tool of de-dollarization, appealing to Belt and Road partners wary of US sanctions exposure; however, actual cross-border volumes remain negligible, and the currency's international ambitions exceed its current reach.
+
+__Disaffection, Apathy & Spent Will:__ Apathy defines the public response: neither enthusiastic adoption nor active resistance, but a collective shrug from users who see no benefit over existing options. This indifference accumulates as a standing obstacle the state cannot easily overcome without compulsion it is reluctant to apply.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The digital yuan operates through smartphone apps and hardware wallets, accessible to most urban Chinese with smartphones but creating barriers for the elderly and rural populations with limited digital literacy.
+
+__Channels & Transmission Velocity:__ Transaction settlement occurs in near-real-time through the central bank's infrastructure, faster than card networks and comparable to Alipay and WeChat Pay, offering no speed advantage that would motivate switching.
+
+__Record, Storage & Persistence:__ The central bank maintains a complete ledger of all transactions, creating an unprecedented record of monetary flows unavailable under cash or the fragmented data of private payment platforms. This record persists indefinitely under state control.
+
+__Framing, Censorship & Discourse Norms:__ State media promotes the digital yuan as a technological achievement and sovereignty protection; criticism framing it as a surveillance tool circulates briefly before deletion. The permitted narrative emphasizes innovation and convenience while avoiding the control dimension.
+
+__Reception, Attention & Amplification:__ Public attention spikes during Olympics and lottery giveaways, then fades; the currency lacks the viral mechanics that drove WeChat Pay's red-envelope breakthrough in 2014.
+
+__Signal Integrity & Noise Load:__ The centralized ledger eliminates the double-spending and fraud problems of decentralized cryptocurrencies, maintaining high signal integrity. Surveillance capacity expands commensurately — every transaction visible to the state represents a potential intelligence signal.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The project invokes national sovereignty and financial independence as moral goods, positioning the digital yuan as a defense against foreign financial coercion. This framing resonates with nationalist sentiment but does not generate grassroots enthusiasm.
+
+__Law, Codification & Regulatory Evolution:__ The legal framework evolves incrementally: the 2020 draft law on the People's Bank of China explicitly authorizes digital currency issuance, while data protection laws formally constrain but practically enable state access to transaction records.
+
+__Adjudication, Liability & Sanction:__ Disputes over digital yuan transactions fall under existing consumer protection and contract law, with no novel adjudication framework emerging. The programmable freezing capability operates outside judicial process, a pre-emptive rather than adjudicative sanction.
+
+__Rights, Protections & Compliance Burden:__ The tiered verification system burdens users with identity documentation for higher transaction limits; privacy protections exist formally but the "controlled anonymity" design preserves state access at will. Compliance costs fall disproportionately on small merchants required to accept the currency.
+
+__Impunity & Unredressed Wrong:__ The state's ability to freeze assets without judicial oversight creates a zone of potential impunity. No mechanism exists for citizens to challenge surveillance or contest automated restrictions on their digital yuan holdings.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ China's central bank digital currency research draws on cryptographic and distributed ledger theory while rejecting the decentralization philosophy of Bitcoin. The design paradigm is explicitly statist: a centralized ledger with tiered privacy rather than anonymous peer-to-peer exchange.
+
+__Applied Knowledge & Technical Method:__ The technical implementation combines existing mobile payment infrastructure with central bank settlement systems. NFC chips enable offline transactions, and hardware wallets extend access beyond smartphones — competent engineering without paradigm-shifting innovation.
+
+__Education, Knowledge Stock & Skill Distribution:__ Financial technology expertise concentrates in Beijing, Shenzhen, and Hangzhou, with commercial banks and tech firms contributing talent to the state project. Public financial literacy campaigns accompany pilot rollouts but generate limited engagement.
+
+__Obsolescence & Knowledge Decay:__ The digital yuan renders certain knowledge obsolete — cash handling, some forms of currency fraud — while creating new skill requirements for managing digital wallets and understanding programmable money features that few users bother to learn.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The project invokes China's historical innovations in paper money and positions the digital yuan as a return to monetary leadership after centuries of Western financial dominance. This narrative appeals to elite nationalism but does not penetrate popular consciousness.
+
+__Legitimating Narrative & Ideology:__ Official framing casts the digital yuan as technological progress, financial sovereignty, and socialist market economy modernization — a continuation of reform and opening rather than a departure. The narrative avoids the surveillance dimension that critics emphasize.
+
+__Artistic Expression & Material Culture:__ The digital yuan's visual identity — a stylized yuan symbol in red and gold — appears on apps and promotional materials. Hardware wallets take varied physical forms: cards, wristbands, gloves for Olympics athletes. These designs aim for modern Chinese aesthetics without achieving cultural resonance.
+
+__Form Exhaustion & Meaning Decay:__ The nationalist framing of financial sovereignty competes with the hollowed-out rhetoric of "Chinese characteristics" applied to every state project. Users perceive the digital yuan as another government initiative rather than a meaningful innovation, a form exhaustion that saps enthusiasm.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The digital yuan carries no explicit spiritual dimension, operating in the secular realm of state finance. However, the project participates in a broader techno-nationalist faith — the belief that Chinese technology can secure the nation's destiny against hostile foreign powers.
+
+__Ritual, Devotion & Sacred Practice:__ Lottery giveaways of digital yuan in pilot cities create minor rituals of participation — downloading apps, verifying identity, checking for winnings — but these lack the affective charge of genuine devotional practice.
+
+__Religious Institutions & Doctrinal Authority:__ Religious institutions play no role in the digital yuan's development or adoption. The currency operates entirely within secular state authority.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The techno-nationalist faith underlying the project diffuses through state media and educational campaigns, but it syncretizes poorly with both traditional Chinese spirituality and the consumer hedonism that actually drives payment behavior.
+
+__Disenchantment & Sacred Discharge:__ The digital yuan emerges in an already disenchanted financial landscape — money is instrumentalized, transactions are routine, payment apps are utilities rather than objects of devotion. The project generates no new enchantment, and the techno-nationalist framing rings hollow against the reality of an inconvenient app most users avoid. This residue of disenchantment joins the broader spiritual flatness of consumer society, unaddressed by a currency that promises sovereignty but delivers surveillance.

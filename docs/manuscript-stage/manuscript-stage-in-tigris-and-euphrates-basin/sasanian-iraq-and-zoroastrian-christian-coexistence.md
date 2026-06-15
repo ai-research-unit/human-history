@@ -1,69 +1,139 @@
-# __224 CE – 651 CE__ — Sasanian Iraq and Zoroastrian-Christian Coexistence
-__Summary:__ The Sasanian period transforms Mesopotamia into the imperial heartland of a centralized Iranian state where Zoroastrianism holds official status while Nestorian Christianity and rabbinic Judaism flourish under regulated toleration; the binding constraint is the empire's need to extract agricultural surplus and military manpower from its richest province while managing religious diversity without provoking rebellion; the Babylonian Talmud is compiled in this window, marking the culmination of Jewish scholarship in the region; the system holds moderate margin against shock through administrative competence and economic prosperity but is exhausted by prolonged Byzantine warfare; the principal direction is centralization, religious institutionalization, and eventual collapse before the Arab conquest.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Tigris-Euphrates alluvium remains the economic core; Ctesiphon on the Tigris serves as the imperial capital and largest city in the world for portions of this period; the Nahrawan canal system extends irrigation east of the Tigris; western frontier with Byzantium along the Euphrates remains contested; transit friction high on military corridors.<br><br>
-__Climate Regime & Volatility:__ Semi-arid climate continues; irrigation essential; possible late Roman climatic anomalies (536 CE volcanic winter) may affect harvests briefly; seasonal variability manageable with maintained canal infrastructure.<br><br>
-__Hazard Regime & Exposure:__ Flood risk managed through canal engineering; seismic activity minimal; primary hazard is warfare damage to irrigation infrastructure, which occurred during Khosrow II's overextension and Byzantine counterattacks.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils at peak productivity under Nahrawan system; date palms, grain, and vegetables abundant; bitumen from Hit; metals and timber imported; fuel from agricultural residues; endowment fully exploited.<br><br>
-__Waste Absorption & Sink Capacity:__ Ctesiphon's large population generates substantial waste absorbed by river systems; agricultural salinization a concern in oldest irrigated areas but Nahrawan expansion opens new lands; absorptive capacity adequate but approaching limits in some zones.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague of Justinian (541 CE) reaches Mesopotamia; urban mortality spikes significantly; endemic gastrointestinal diseases persist; mortality baseline elevated during plague decades, otherwise stable for agrarian empire.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural prosperity provides abundant food supply; grain, dates, vegetables, fish, and meat available; nutritional status favorable during peace; disruption during plague and late Byzantine wars.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage within religious communities—Zoroastrian, Christian, Jewish—with some intermarriage; fertility adequate; plague temporarily disrupts demographic patterns.<br><br>
-__Demographic Renewal & Density:__ Population at regional peak before plague; Ctesiphon among largest cities globally; Jewish communities numerous in central Iraq; Christian communities growing; density high by pre-modern standards; plague reduces population mid-6th century, partial recovery follows.<br><br>
-__Attrition & Dependency Overhang:__ Prolonged Byzantine warfare produces casualties; plague creates orphans and widows; monastic and rabbinic communities support some dependents; religious charity absorbs portion of dependency load; strain evident in late period.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Nahrawan canal system supports intensive agriculture; surplus substantial; household provisioning secure during prosperity; subsistence floor high for pre-modern economy, stressed only during late wars and plague.<br><br>
-__Energy Capture & Conversion:__ Human and animal labor dominant; oxen, donkeys, camels; water-powered mills emerging; per-capita energy ceiling modestly higher than predecessor periods due to improved irrigation efficiency.<br><br>
-__Labor Organization & Coercion:__ Tenant farming on royal, noble, and temple estates; free smallholders present; slavery exists for domestic and some agricultural work; corvee for canal maintenance and military logistics; wage labor in urban crafts and commerce.<br><br>
-__Production & Surplus Capacity:__ Agricultural output at historical peak for the region; silk weaving from imported Chinese silk; metalwork, textiles, glassware; craft production sophisticated; surplus substantial, supporting large armies and monumental construction.<br><br>
-__Storage, Reserves & Buffering:__ Royal granaries and treasuries hold substantial reserves; religious institutions (fire temples, churches, synagogues) maintain community reserves; buffer adequate for localized crises, strained by prolonged warfare.<br><br>
-__Exchange, Trade & Logistics:__ Silk Road commerce continues; Persian Gulf trade through Charax and Apologos; internal markets well-developed; royal monopolies on silk; coinage (silver drachms) circulates widely; logistics sophisticated for the era.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver standard stable; credit instruments function within merchant and religious networks; church and synagogue treasuries hold community wealth; purchasing power relatively stable until late warfare debasement.<br><br>
-__Surplus Extraction & Redistribution:__ Centralized taxation on land (kharaj) and poll tax (jizya on non-Zoroastrians); royal estates substantial; religious institutions exempt or reduced; extraction heavy but system productive enough to bear it until late overextension.<br><br>
-__Wealth Distribution & Asset Defense:__ Sasanian royal family and Iranian military aristocracy at apex; Zoroastrian priesthood (magi) hold substantial lands; Christian bishops and Jewish exilarchs lead wealthy communities; concentration significant; wealth defended through royal favor and religious institutional protection.<br><br>
-__Byproducts & Waste Routing:__ Urban waste from Ctesiphon substantial; agricultural drainage to rivers; some salinization in intensively irrigated areas; routing adequate but approaching long-term limits in oldest zones.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates strongly within religious communities—Zoroastrian, Nestorian Christian, Jewish—with regulated inter-community relations; mutual aid through religious institutions (fire temples, churches, synagogues) robust; inter-community trust functional for commerce, limited otherwise.<br><br>
-__Stratification, Status & Group Identity:__ Sasanian social order ideologically divided into four estates—priests, warriors, scribes, commoners; religious identity crosscuts: Zoroastrians privileged, Christians and Jews tolerated with disabilities; ethnic Persian elite, Aramaic-speaking majority; stratification rigid in ideology, somewhat fluid in practice; boundaries stable.<br><br>
-__Kinship, Family & Inheritance:__ Zoroastrian next-of-kin marriage (xwedodah) practiced by some; Christian and Jewish communities follow their own marriage laws; patrilineal inheritance dominant; property passes within religious community.<br><br>
-__Civic Association & Self-Organization:__ Religious communities highly organized—Nestorian church hierarchy, Jewish academies (Sura, Pumbedita), Zoroastrian fire temple networks; guilds in urban crafts; village councils; associational fabric robust.<br><br>
-__Leisure, Play & Sociability:__ Religious festivals structure time—Zoroastrian Nowruz and Mehregan, Christian Easter and feasts, Jewish Sabbath and holidays; royal court culture includes hunting, polo, feasting; sociability organized through religious and occupational communities.<br><br>
-__Grievance Channels & Social Discharge:__ Religious authorities mediate within communities; royal courts adjudicate inter-community disputes; charitable institutions (Christian hospitals, Jewish community funds) absorb some distress; social friction generally metabolized; late-period strain from warfare and plague increases unresolved grievance.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Shahanshah (King of Kings) holds centralized authority from Ctesiphon; bureaucratic administration with multiple ministries; noble houses retain regional power; religious hierarchies recognized; power more centralized than Arsacid predecessor but not absolute.<br><br>
-__Succession & Power Transfer:__ Dynastic succession within Sasanian family; noble influence on selection; frequent contested successions, coups, and civil wars (e.g., Kavad I, Khosrow II); succession remains a flashpoint despite institutional efforts.<br><br>
-__Legitimacy & Political Narrative:__ Sasanians claim restoration of Achaemenid glory and Zoroastrian divine mandate (khwarrah); royal inscriptions and rock reliefs project power; legitimacy tied to military success, religious patronage, and justice administration; belief stable during success, eroding with late defeats.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Sophisticated bureaucracy; written records in Middle Persian and Aramaic; tax collection efficient; royal inspectors; corruption present but controlled; capacity high for pre-modern state, strained by late overextension.<br><br>
-__Political Participation & Mobilization:__ Noble council advises king; religious leaders represent communities; general population participates through religious institutions; no mass political mobilization; dissent expressed through factional politics, religious movements, or occasional urban riots.<br><br>
-__Geopolitical Position & External Relations:__ Western frontier with Byzantine Empire sees centuries of warfare—Shapur I captures Valerian, Khosrow I campaigns, Khosrow II's near-total conquest reversed by Heraclius; eastern frontiers with Hephthalites and Turks; treaties and warfare alternate; external pressure chronic and ultimately exhausting.<br><br>
-__Coercive Apparatus & Means of Force:__ Heavy cavalry (savaran) as elite force; infantry, archers, elephants; royal guards; noble retinues; fortress networks; command centralized through spahbed (military governors); military capacity formidable but exhausted by final Byzantine wars.<br><br>
-__Internal Order & Threat Environment:__ Mazdakite movement (late 5th–early 6th century) poses serious internal challenge; urban riots possible; banditry on routes; disorder generally within enforcement capacity until final collapse period.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Royal post system (chapar) efficient; road networks maintained; religious hierarchies transmit information through institutional channels; oral transmission dominant for non-literate majority; reach extensive for official matters.<br><br>
-__Record, Storage & Persistence:__ Middle Persian administrative records; Syriac manuscripts proliferate in Christian communities; Aramaic texts in Jewish academies; Avestan religious texts compiled and preserved; parchment and papyrus primary media; durability moderate; institutional preservation through religious communities.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal propaganda in inscriptions, art, and coinage; Zoroastrian orthodoxy promoted; heterodox views (Mazdakism, Christian heresies) suppressed when politically threatening; discourse norms shaped by religious community; permitted speech constrained but functional.<br><br>
-__Reception, Attention & Amplification:__ Literate audiences in religious and administrative classes; Syriac and Aramaic literacy more widespread than Persian; oral transmission amplifies for general population; attention organized by religious affiliation.<br><br>
-__Signal Integrity & Noise Load:__ Religious institutions maintain textual integrity through copying and memorization; Babylonian Talmud represents high-fidelity oral-to-written transmission; administrative records functional; noise manageable within active traditions.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Zoroastrian concepts of asha (truth/righteousness) inform official ideology; Christian and Jewish communities follow their own moral frameworks; shared baseline of contractual obligation, property rights, and community standards.<br><br>
-__Law, Codification & Regulatory Evolution:__ Sasanian law code (Madigane Hazar Dadestan) for Zoroastrians; Christian canon law develops; Jewish halakha codified in Babylonian Talmud; religious legal systems operate with state recognition; evolution toward codification across communities.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal courts for inter-community matters and major cases; Zoroastrian priests judge their community; Christian bishops, Jewish academies adjudicate internally; enforcement through community sanctions and royal power; throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Zoroastrians enjoy full rights; Christians and Jews have protected (dhimmi-like) status with disabilities (poll tax, restricted public roles); compliance burden heavier for non-Zoroastrians; predictability reasonable within each community's sphere.<br><br>
-__Impunity & Unredressed Wrong:__ Royal family and high nobility enjoy practical impunity; inter-community wrongs harder to redress; periodic persecution of Christians during Byzantine wars; impunity gap significant but absorbed by community autonomy expectations.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Sasanian academy at Gundeshapur combines Greek, Indian, and Persian medical and philosophical knowledge; Christian theological schools (Nisibis, Edessa refugees); Jewish Talmudic reasoning reaches maturity; discovery frontier in religious law, medicine, and philosophical synthesis.<br><br>
-__Applied Knowledge & Technical Method:__ Irrigation engineering sophisticated (Nahrawan system); medical practice advanced for era; metallurgy, textile production refined; astronomical knowledge maintained; methods adequate and innovative in some fields.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Zoroastrian priestly education; Christian theological schools train clergy; Jewish academies produce rabbinic scholars; literacy concentrated in religious and administrative classes; knowledge stock substantial and growing through translation and compilation.<br><br>
-__Obsolescence & Knowledge Decay:__ Ancient Babylonian cuneiform knowledge entirely lost; Greek texts preserved through Syriac translation; continuous compilation and teaching prevents decay within active traditions; some heterodox knowledge suppressed.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Sasanian identity rooted in Zoroastrian cosmology and claimed Achaemenid restoration; Christian identity through church and salvation narrative; Jewish identity through Torah, Talmud, and exile/return narrative; foundational identities distinct and institutionally reinforced.<br><br>
-__Artistic Expression & Material Culture:__ Sasanian art distinctive—silver plates, rock reliefs, palace architecture at Ctesiphon (Taq Kasra arch); textile patterns influential; Christian churches and Jewish synagogues with local artistic traditions; material culture sophisticated and regionally influential.<br><br>
-__Collective Mood & Behavioral Disposition:__ Imperial confidence during Khosrow I; anxiety and exhaustion during final Byzantine wars; Christian communities cautiously hopeful as church grows; Jewish communities stable within academic and commercial life; mood shifts with political fortunes.<br><br>
-__Form Exhaustion & Meaning Decay:__ Sasanian imperial forms vital through much of period; late period sees strain but no acute meaning crisis until collapse; Christian and Jewish forms expanding; meaning decay minimal until final catastrophe.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Zoroastrian dualism (Ahura Mazda vs. Angra Mainyu) official; Christian eschatology present; Jewish covenantal framework; existential outlook tied to religious community; plurality stable through regulated coexistence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Zoroastrian fire temples maintained throughout empire; Nestorian Christian liturgy, monasteries, pilgrimage; Jewish synagogue worship, Sabbath, festivals, academy study; ritual infrastructure robust across communities.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Zoroastrian magi organized under mobadan mobad; Nestorian Catholicos heads church from Ctesiphon; Jewish exilarch and academy heads share authority; institutional hierarchy consolidated; doctrinal authority clear within each community, tensions between communities managed politically.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity expanding within empire, especially among Aramaic speakers; Manicheanism suppressed but influential; Judaism stable; Zoroastrianism dominant but not converting others; limited syncretism; diffusion toward Christian growth within toleration framework.<br><br>
-__Disenchantment & Sacred Discharge:__ Mazdakite movement represents social-spiritual upheaval, suppressed; late-period military disasters shake confidence; final collapse creates void subsequently filled by Islam; residue accumulating in final decades as traditional order fails.<br><br>
+# __224 CE – 651 CE — Sasanian Iraq and Zoroastrian-Christian Coexistence__
+
+__Summary:__ Sasanian Mesopotamia functions as the empire's fiscal and agricultural heartland, with Ctesiphon as imperial capital, while Zoroastrian state religion coexists uneasily with Syriac Christianity and Babylonian Judaism — the manuscript cultures of all three traditions flourishing in parallel, producing the Babylonian Talmud and Nestorian theological literature even as cuneiform finally expires, leaving Aramaic-derived scripts as the sole carriers of literate life.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The alluvial plain between the Tigris and Euphrates remains the empire's most productive agricultural zone, with Ctesiphon situated at the rivers' closest approach, controlling transit between Iranian highlands and Syrian desert. Canal networks inherited from Parthian and earlier periods require continuous maintenance; the Nahrawan canal system east of the Tigris represents the largest hydraulic investment of the era.
+
+__Climate Regime & Volatility:__ Semi-arid conditions prevail, with annual rainfall insufficient for agriculture south of the Assyrian uplands. Summer temperatures exceed forty degrees Celsius; cultivation depends entirely on irrigation from spring snowmelt floods originating in Anatolia and the Zagros. Multi-decadal droughts periodically stress the canal system.
+
+__Hazard Regime & Exposure:__ Spring flooding remains unpredictable in timing and volume. Salinization from irrigation accumulates in lower-lying fields. Plague reaches the region repeatedly — the Plague of Sheroe (627–628 CE) devastates population during the final Roman-Sasanian war.
+
+__Resource & Energy Endowment:__ Alluvial soils sustain intensive grain and date cultivation when irrigated. Bitumen seeps near Hit provide waterproofing material. Reed marshes in the south yield building and fuel material. Timber must be imported from the Zagros or floated down the Euphrates.
+
+__Waste Absorption & Sink Capacity:__ Salt accumulation in irrigated soils represents the primary environmental degradation vector; abandoned fields mark salinization boundaries. Urban waste disposal in Ctesiphon and other cities follows Mesopotamian patterns of gradual mound accumulation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria in marshy areas, periodic plague outbreaks, and waterborne diseases from canal networks establish high baseline mortality. The 541 CE Justinianic Plague and 627 CE Plague of Sheroe cause mass mortality spikes, the latter coinciding with military defeat and political collapse.
+
+__Nutrition & Physiological Vitality:__ Irrigation agriculture produces caloric surplus in normal years; barley, wheat, dates, and vegetables sustain dense populations. Protein from fish, sheep, and cattle supplements grain. Elite and urban populations show better nutritional outcomes than canal-maintaining peasantry.
+
+__Care, Healing & Recovery Capacity:__ Zoroastrian, Christian, and Jewish medical traditions operate in parallel. The Academy of Gondishapur synthesizes Greek, Indian, and Persian medical knowledge; its physicians serve at court. Monastic and synagogue-based care serves respective communities.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns follow religious community norms — Zoroastrian next-of-kin marriage among elites contrasts with Christian and Jewish prohibitions. Each community maintains distinct pairing structures.
+
+__Demographic Renewal & Density:__ Population density in the irrigated zone reaches among the highest in the ancient world, perhaps two to three million in lower Mesopotamia. Late-period warfare and plague reduce population substantially by 651 CE.
+
+__Attrition & Dependency Overhang:__ Warfare, plague, and agricultural labor demands produce significant orphan and widow populations; each religious community maintains charitable institutions for dependents.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Canal-irrigated agriculture produces reliable grain surplus in normal years. Date palms provide caloric backup. The state maintains strategic grain reserves at Ctesiphon.
+
+__Energy Capture & Conversion:__ Human and animal muscle power predominates. Water-lifting devices (shaduf, saqiya) raise irrigation water. Animal traction powers plows and mills. Wood and reed provide fuel; bitumen supplements.
+
+__Labor Organization & Coercion:__ Peasant cultivators work under landlord supervision with rent obligations in kind. Slaves from warfare and purchase work estates and urban households. Corvee labor maintains canals. Artisan guilds organize urban production.
+
+__Production & Surplus Capacity:__ Mesopotamian agriculture generates the empire's largest tax revenues. Silk weaving, metalwork, and glassmaking concentrate in cities. Ctesiphon's workshops produce luxury goods for court and export.
+
+__Storage, Reserves & Buffering:__ Temple, landlord, and state granaries buffer annual variation. Royal treasuries at Ctesiphon accumulate precious metals. Late-period warfare depletes reserves catastrophically.
+
+__Exchange, Trade & Logistics:__ Ctesiphon sits astride trade routes connecting Mediterranean, Arabia, India, and Central Asia. Silk road commerce passes through. Persian Gulf shipping via Basra region reaches India and Ceylon. Internal trade moves on rivers and canals.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver drachms serve as standard currency; gold dinars for large transactions. Temple and merchant credit networks finance trade. Jewish communities develop commercial instruments.
+
+__Surplus Extraction & Redistribution:__ Land tax (kharaj) and poll tax provide primary state revenue. Landlord rents extract agricultural surplus. Temple and church institutions collect tithes. Final decades of warfare exhaust fiscal capacity.
+
+__Wealth Distribution & Asset Defense:__ Great noble families (wuzurgan) hold vast estates. Crown lands provide royal income. Religious institutions accumulate property across communities. Warfare redistributes wealth toward military apparatus.
+
+__Byproducts & Waste Routing:__ Agricultural waste feeds animals and fuel needs. Urban waste accumulates in tell formation. Salinized fields are abandoned to the waste margin.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Four-class system (priests, warriors, scribes, commoners) structures Zoroastrian society with limited mobility. Christian and Jewish communities maintain parallel family structures under their own laws. Inheritance follows community-specific rules.
+
+__Association & Mutual Aid:__ Religious communities provide primary associational structure. Christian monasteries, Jewish academies, and Zoroastrian fire temples organize welfare, education, and mutual aid within their populations.
+
+__Leisure, Play & Sociability:__ Court culture centers on hunting, polo, and feasting. Religious festivals mark annual cycles for each community. Urban marketplaces serve as social gathering spaces.
+
+__Stratification, Status & Group Structure:__ Zoroastrian caste hierarchy places magi and warriors above scribes and commoners. Christians and Jews occupy tolerated but subordinate status, subject to periodic persecution. Conversion to Zoroastrianism from Christianity is encouraged; reverse conversion carries death penalty.
+
+__Administrative Capacity & Institutional Integrity:__ Complex bureaucracy administers provinces through marzbans and local dihqans. Tax collection, canal maintenance, and military mobilization require extensive record-keeping. Regional autonomy increases in late period as central authority weakens.
+
+__Coercive Apparatus & Means of Force:__ Heavy cavalry (cataphracts) form military elite; infantry drawn from peasantry. Fortress networks guard frontiers. Late-period warfare with Rome exhausts military capacity, leaving the empire vulnerable to Arab conquest.
+
+__Discharge, Disorder & Decay:__ Religious tensions between Zoroastrian state and Christian/Jewish communities generate periodic persecution. Succession disputes and noble faction conflicts weaken late Sasanian polity. Military defeat and plague compound disorder in final decades.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence in Sasanian order persists through most of the period despite religious tensions. Final decades of warfare, plague, and rapid succession of kings erode popular allegiance.
+
+__Leadership & Personal Authority:__ Shahanshah holds sacred kingship legitimated by Zoroastrian religion. Khosrow I (531–579 CE) and Khosrow II (590–628 CE) represent apex of royal prestige. Rapid succession of weak kings after 628 CE collapses royal authority.
+
+__Legitimacy as Lived Allegiance:__ Zoroastrian subjects affirm divine mandate of Sasanian kingship. Christians and Jews acknowledge political authority while maintaining religious separateness. Arab conquest finds populations offering limited resistance.
+
+__Political Will & Collective Resolve:__ State capacity for military mobilization and infrastructure investment remains high through Khosrow II's reign. Defeat at Nineveh (627 CE) and subsequent civil war extinguish collective will for resistance.
+
+__External Relations & Posture:__ Century-long warfare with Rome dominates foreign relations. Khosrow II's conquests (602–628 CE) overextend empire; Heraclius's counteroffensive collapses eastern frontier. Arab armies exploit exhausted state.
+
+__Disaffection, Apathy & Spent Will:__ Christian populations in Mesopotamia show limited loyalty to Zoroastrian state. Noble factions prioritize internal competition over external defense. Rapid succession and civil war exhaust political will by 640s.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Multiple scripts serve distinct communities — Pahlavi for Zoroastrian administration and religion, Syriac for Christians, Hebrew/Aramaic for Jews. Greek persists in western borderlands. Arabic begins entering the region. Multilingualism common among literate elites.
+
+__Channels & Transmission Velocity:__ Royal post system maintains administrative communication across empire. Monastery and academy networks circulate religious texts within communities. Commercial routes carry correspondence.
+
+__Record, Storage & Persistence:__ Manuscript culture replaces cuneiform (last dated cuneiform tablet: 75 CE). Parchment and papyrus serve as primary media. Archives maintained by religious and administrative institutions. Nestorian monasteries and Jewish academies preserve and copy texts systematically.
+
+__Framing, Censorship & Discourse Norms:__ State promotes Zoroastrian orthodoxy; Mazdakite heresy suppressed violently. Christian theological disputes tolerated within community. Jewish legal discourse flourishes in academies without state interference.
+
+__Reception, Attention & Amplification:__ Religious instruction reaches community members through worship and schooling. Court culture circulates through noble networks. Oral recitation amplifies written texts to illiterate majorities.
+
+__Signal Integrity & Noise Load:__ Each scriptural tradition maintains copying discipline through institutional structures — magi, monks, and rabbis. Textual variants accumulate but core traditions remain stable.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Zoroastrian dualism frames moral order — truth (asha) versus lie (druj). Christian communities follow Gospel ethics and church law. Jewish halakha governs community conduct. Each system claims universal truth while operating in parallel jurisdiction.
+
+__Law, Codification & Regulatory Evolution:__ Sasanian law codified under Khosrow I. Each religious community maintains internal legal autonomy — church councils, rabbinic responsa, Zoroastrian priestly rulings. Babylonian Talmud compiled (c. 500 CE) as comprehensive legal compendium.
+
+__Adjudication, Liability & Sanction:__ Zoroastrian courts handle inter-community disputes and criminal matters. Internal community disputes resolved by respective religious authorities. Capital punishment for apostasy from Zoroastrianism.
+
+__Rights, Protections & Compliance Burden:__ Non-Zoroastrians pay poll tax (jizya) for protection; rights limited but generally respected. Periodic persecutions interrupt normal coexistence.
+
+__Impunity & Unredressed Wrong:__ Christian martyrologies record persecution episodes. Power disparities leave minority grievances without state remedy. Noble faction violence during late period goes unpunished.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academy of Gondishapur synthesizes Greek, Indian, and Persian learning — medicine, astronomy, philosophy. Translation from Greek and Sanskrit into Pahlavi and Syriac. Each religious tradition maintains theological-philosophical inquiry.
+
+__Applied Knowledge & Technical Method:__ Irrigation engineering maintains canal systems. Medical practice at Gondishapur achieves high standards. Astronomical observation continues Babylonian traditions in adapted form. Silk weaving and metalworking techniques refined.
+
+__Education, Knowledge Stock & Skill Distribution:__ Priestly education in fire temples, monastic schools for Christians, academies (yeshivot) for Jews. Literacy concentrated in religious and administrative classes. Vernacular populations remain largely illiterate.
+
+__Obsolescence & Knowledge Decay:__ Cuneiform knowledge extinct by this period; Babylonian astronomical tradition survives only in translation and adaptation. Greek philosophical texts preserved through Syriac translation buffer.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Sasanian ideology claims restoration of Achaemenid glory. Zoroastrian cosmology provides state mythology. Christians maintain martyr memories and separate sacred history. Jews preserve Babylonian exile narrative and Talmudic-era identity.
+
+__Legitimating Narrative & Ideology:__ Divine mandate of Sasanian kingship legitimates political order. Each religious community narrates its own relationship to temporal power — subordinate toleration for Christians and Jews, sacred partnership for Zoroastrians.
+
+__Artistic Expression & Material Culture:__ Court art emphasizes royal hunting, investiture, and victory scenes — rock reliefs at Taq-e Bostan, silver plates. Architectural forms include iwans, fire temples, and palaces. Christian church building adapts local forms. Silk textiles carry distinctive motifs throughout Mediterranean and Asian trade networks.
+
+__Form Exhaustion & Meaning Decay:__ Traditional Zoroastrian forms remain vital through the period. Christian artistic vocabulary continues developing. Jewish material culture remains modest but functional.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Zoroastrian dualism posits cosmic struggle between Ahura Mazda and Angra Mainyu, with human participation in ultimate victory. Christian eschatology awaits Second Coming. Jewish messianism sustains hope for restoration.
+
+__Ritual, Devotion & Sacred Practice:__ Fire temple worship maintains sacred flame. Christian liturgy follows Eastern Syriac forms. Synagogue prayer and Torah study structure Jewish piety. Each community maintains distinct sacred calendar and dietary practice.
+
+__Religious Institutions & Doctrinal Authority:__ Zoroastrian magi organized under chief mobad with state support. Church of the East (Nestorian) organized under Catholicos at Seleucia-Ctesiphon, achieving independence from Byzantine Christianity. Jewish exilarch holds civil authority; geonim head academies at Sura and Pumbedita.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity spreads among Aramaic-speaking populations despite state opposition. Judaism maintains boundaries through strict practice. Manichaean and Mazdakite movements suppressed. Arab conquest will shortly displace entire religious configuration.
+
+__Disenchantment & Sacred Discharge:__ Each tradition maintains coherent cosmology through the period. Political collapse after 628 CE generates spiritual uncertainty that Arab conquest and eventual Islamization will resolve through displacement rather than internal exhaustion.

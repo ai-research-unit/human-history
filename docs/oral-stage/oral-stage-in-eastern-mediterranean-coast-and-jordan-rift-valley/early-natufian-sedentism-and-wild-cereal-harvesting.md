@@ -1,69 +1,140 @@
-# __12500 BCE – 11000 BCE__ — Early Natufian Sedentism and Wild Cereal Harvesting
-__Summary:__ A 1,500-year trend marking the emergence of the first year-round sedentary villages in the Levantine corridor, centered on the Mediterranean woodland zone. The binding constraint is no longer seasonal resource scarcity but labor organization for intensive cereal harvesting, processing, and storage; populations aggregate at sites like Eynan (Ain Mallaha) and Hayonim, constructing permanent stone-founded structures and formal cemeteries. Margin against environmental reversal is moderate, dependent on continued Bølling-Allerød conditions; the direction of change is toward delayed-return economy, social differentiation, and territoriality.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Settlement concentrates in the core Mediterranean zone—Mount Carmel slopes, Galilee highlands, upper Jordan Valley, and the Huleh Basin—where topographic diversity compresses ecotones; transit friction moderate on valley floors, higher in upland terrain; coastal plain and rift corridor remain accessible.<br><br>
-__Climate Regime & Volatility:__ Bølling-Allerød warmth persists through most of the window; winter rainfall supports dense stands of wild emmer, barley, and oak-pistachio woodland; interannual variability low to moderate; secular trend stable, with Younger Dryas cooling beginning only at window's close.<br><br>
-__Hazard Regime & Exposure:__ Dead Sea Transform seismicity present; flash flooding in wadis a seasonal risk; no catastrophic events documented in the archaeological record; sedentary structures increase exposure relative to mobile camps, but margin remains adequate.<br><br>
-__Resource & Energy Endowment:__ Wild cereals (emmer wheat, barley) at peak density; gazelle herds abundant; freshwater from springs and perennial streams; flint outcrops accessible; fuel wood plentiful; drawdown against regenerating stocks minimal.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density rising (~0.1–0.5 persons per km² in optimal zones) but still low; organic refuse, ash, and lithic waste accumulate at village margins; absorptive capacity ample; no detectable landscape degradation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Sedentism increases exposure to accumulated waste and rodent commensals; gastrointestinal and parasitic infections may rise; epidemic disease unlikely at this population scale; background mortality still dominated by trauma and infection; trend stable to slightly worsening with aggregation.<br><br>
-__Nutrition & Physiological Vitality:__ Broad-spectrum diet with heavy cereal and nut component; skeletal samples show moderate stature and robustness; dental wear from grit in ground foods; nutritional margin adequate; vitality stable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Sedentism may reduce birth spacing as mobility constraints on infant-carrying ease; pair bonding embedded in village kinship structures; physiological fertility stable; reproductive output trending upward.<br><br>
-__Demographic Renewal & Density:__ Population density rising; villages like Eynan may house 200–300 individuals; positive replacement ratios; migration into core Natufian zone continues; crowding well below carrying ceiling.<br><br>
-__Attrition & Dependency Overhang:__ Infant mortality high; elderly few; orphans and widows absorbed within extended kin groups; dependency load manageable; no structural overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Intensive wild cereal harvesting (sickle blades with silica gloss), processing (grinding slabs, mortars), and probable storage anchor subsistence; gazelle hunting remains primary meat source; household pooling within village; margin above subsistence widening.<br><br>
-__Energy Capture & Conversion:__ Human muscle and fire remain sole power sources; cooking, parching, and possible landscape burning; per-capita energy ceiling unchanged but effective caloric return from cereals high due to processing investment.<br><br>
-__Labor Organization & Coercion:__ Task differentiation by age and sex; harvesting and grinding labor-intensive, likely gendered toward women; cooperative hunting parties; no coerced labor; labor mobilization through kinship obligation.<br><br>
-__Production & Surplus Capacity:__ Seasonal cereal surplus storable for months; production ceiling rising with intensification; surplus enables year-round occupation and supports larger populations.<br><br>
-__Storage, Reserves & Buffering:__ Storage pits and plastered bins attested; parched grain, nuts, and dried meat reserve against lean season; depth sufficient for single-season shortfall; multi-year reserves unlikely.<br><br>
-__Exchange, Trade & Logistics:__ Marine shell (Dentalium, Nassarius) from Mediterranean and Red Sea coasts; basalt, obsidian, and greenstone circulate across hundreds of kilometers; exchange embedded in social and ritual relations; no specialized traders; portage by human carrier.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Shell ornaments and elaborate grave goods may encode social value; deferred reciprocity within and between communities; no unit of account; obligations settled through return gifts and services.<br><br>
-__Surplus Extraction & Redistribution:__ Village-level sharing norms distribute large game kills and harvests; emerging evidence of differential burial goods suggests incipient inequality in redistribution; no extractive authority.<br><br>
-__Wealth Distribution & Asset Defense:__ Personal ornaments, decorated bone tools, and burial elaboration vary across individuals; wealth differences emerging but still modest; no defensive hoarding.<br><br>
-__Byproducts & Waste Routing:__ Bone refuse, ash, knapping debris accumulate in middens at site margins; volume rising with sedentism; absorptive capacity still ample; no routing problem.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends across village and allied communities; reciprocity obligations formalized through exchange and intermarriage; mutual aid networks expanding; radius widening with aggregation.<br><br>
-__Stratification, Status & Group Identity:__ Egalitarian baseline with emerging status differentiation; elaborate burials (e.g., with gazelle horns, dog interments at Eynan) suggest prestige roles; group identity tied to village territory and cemetery; boundaries hardening relative to Geometric Kebaran.<br><br>
-__Kinship, Family & Inheritance:__ Bilateral or unilineal descent possible; village residence implies stronger kin-based territoriality; inheritance of prestige goods and possibly residential sites emerging; marriage alliances link villages.<br><br>
-__Civic Association & Self-Organization:__ Village as primary social unit; multi-household coordination for harvesting, construction, and defense; no formal associations; consensus-based governance.<br><br>
-__Leisure, Play & Sociability:__ Feasting, dance, and storytelling at village and inter-village gatherings; mortuary rituals provide communal events; leisure integrated with ritual calendar.<br><br>
-__Grievance Channels & Social Discharge:__ Mediation through elders and kin networks; conflict managed through restitution or avoidance; fission less viable in sedentary context; residual grievance may accumulate but remains low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Village-level leadership emerging; headmen or councils probable but not archaeologically visible; authority still largely achieved, situational, and consensual; power dispersed.<br><br>
-__Succession & Power Transfer:__ Leadership likely achieved through skill, age, and kin backing; no hereditary succession attested; transfer informal.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimated by success in provisioning, ritual knowledge, and conflict resolution; burial elaboration may signal nascent claims to inherited status; no explicit ideology.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination through kinship and face-to-face negotiation; information held in memory and oral tradition.<br><br>
-__Political Participation & Mobilization:__ Adult villagers participate in collective decisions; mobilization for construction, harvest, or defense organized through kin obligation; no formal assemblies.<br><br>
-__Geopolitical Position & External Relations:__ Inter-village relations managed through kinship, marriage, and exchange; territorial boundaries clearer than in mobile phases; raiding rare or absent at this scale; no external polities.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing coercive force; hunting weapons (lunates, bone points, ground stone) available; violence interpersonal and episodic; no fortifications.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained by social sanction and kin mediation; predation (human or animal) minor concern; disorder negligible.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral speech and gesture; transmission velocity limited to walking pace and voice range; information spreads within village daily, across villages at seasonal gatherings and exchange visits.<br><br>
-__Record, Storage & Persistence:__ Memory and oral tradition are the sole storage media; cemetery and site layout may encode genealogical and territorial information; no external written record; knowledge persists through repeated telling and dies with elders.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms embedded in kinship respect and ritual propriety; no formal censorship; taboo topics vary by community; norms stable.<br><br>
-__Reception, Attention & Amplification:__ Attention captured by ritual performers, skilled speakers, and decorated individuals; amplification limited to face-to-face settings; no mass audience.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission subject to drift; cross-checking through multiple tellers and village memory; noise low at prevailing population scale.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, sharing, kin loyalty, and respect for ancestors form moral baseline; violation provokes collective disapproval and ritual sanction; justice restorative.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding norms transmitted orally as custom and taboo; mortuary taboos and burial rights formalized; evolution incremental.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes settled by elder mediation and kin negotiation; no formal tribunal; liability often collective within kin group; enforcement through social pressure and ritual sanction.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy moderated by village norms; personal property in tools and ornaments recognized; territorial use-rights emerging; compliance burden light.<br><br>
-__Impunity & Unredressed Wrong:__ Serious wrongs may prompt blood feud, exile, or ritual restitution; fission less available; standing impunity minimal but sedentism raises stakes of unresolved conflict.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of cereal phenology, animal behavior, stone and bone working, and landscape deeply embedded in practice; explanatory paradigms animistic and narrative; no formal inquiry tradition.<br><br>
-__Applied Knowledge & Technical Method:__ Sickle blade production and hafting standardized; grinding slab and mortar technology elaborated; bone tool repertoire (fishhooks, awls, decorated handles) expands; construction technique for stone-founded structures emergent.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship and observation; full repertoire held by experienced adults; specialist skills (tool making, ritual performance) may concentrate in individuals; overall distribution relatively even.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques refined incrementally; obsolete methods fade; knowledge loss possible with demographic collapse but trend is accumulation; no decay attested in this window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestor veneration emerging; cemetery as territorial and genealogical anchor; origin narratives and landscape memory transmitted orally; identity rooted in village, kin, and shared myth.<br><br>
-__Artistic Expression & Material Culture:__ Decorated bone and stone objects (carved handles, incised plaques); abundant shell and bone ornaments; animal sculpture (gazelle, dog); standardized lunate microliths; architecture with stone foundations marks material culture elaboration.<br><br>
-__Collective Mood & Behavioral Disposition:__ Sedentism and resource abundance foster confidence and investment in place; communal mortuary ritual reinforces solidarity; mood inferred as stable to optimistic through most of window.<br><br>
-__Form Exhaustion & Meaning Decay:__ Symbolic forms (ornament types, burial rites, decorative motifs) elaborating and diversifying; no evidence of exhaustion or anomie; cultural vitality high.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic worldview with emerging ancestor focus; cemetery placement and burial treatment suggest belief in afterlife or ancestor agency; existential outlook integrated with village and landscape; no direct textual evidence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Elaborate mortuary ritual (primary and secondary burial, grave goods, animal interments, stone features); possible seasonal ceremonies at aggregation sites; ritual specialists may emerge but remain informal.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; ritual knowledge held by elders or shamanic figures; authority personal, not doctrinal; no fixed creed.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Natufian mortuary complex spreads across core Mediterranean zone; regional variants persist at periphery; no displacement events attested; diffusion through kinship and exchange networks.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; sacred framework robust and adaptive; spiritual need fully anchored in ancestor and animistic practice.<br><br>
+# __12,500 BCE – 11,000 BCE__ — Early Natufian Sedentism and Wild Cereal Harvesting
+
+__Summary:__ Across the Mediterranean woodland belt from Carmel to the upper Jordan, foraging bands settle into permanent base camps with stone architecture, cemeteries, and intensive wild cereal harvesting during the warm, moist peak of the Bolling-Allerod interstadial; spoken language now coordinates year-round communal life, transmits the technical knowledge of sickle manufacture and grain processing, and carries the genealogies and territorial claims that define emerging village identity, while the binding constraint remains the absence of any external record — all law, history, and accumulated lore exist only in living memory.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Base camps cluster in the Mediterranean woodland zone — the Carmel ridge (Eynan, El-Wad), the Galilee hills, the upper Jordan Valley, and the Transjordanian highlands — where springs, perennial streams, and mixed oak-pistachio woodland provide water, fuel, and diverse food sources within daily foraging range; the Jordan Rift remains a movement corridor linking these nodes.
+
+__Climate Regime & Volatility:__ The Bolling-Allerod interstadial reaches its optimum, with warm winters, reliable rainfall (400–600 mm annually in the core zone), and extended growing seasons; wild cereal stands flourish on hillslopes, and lake levels remain high — conditions that reward sedentism and punish unnecessary movement.
+
+__Hazard Regime & Exposure:__ Flash floods remain a risk in wadi-adjacent camps; Rift faulting produces occasional tremors, but stone architecture is low and flexible enough to absorb damage; the main hazard is localized drought, which can force abandonment of marginal sites.
+
+__Resource & Energy Endowment:__ Wild emmer, barley, and oats grow densely enough to support systematic harvesting; gazelle herds provide the primary meat source, supplemented by deer, wild boar, and small game; chert and basalt are locally abundant; fuel wood is plentiful.
+
+__Waste Absorption & Sink Capacity:__ Concentrated refuse accumulates around permanent camps — ash, bone, and organic waste — but population density is still low enough that soils and water sources absorb the load without measurable degradation; the physical residue is localized and stable.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Sedentism increases exposure to accumulated waste and vermin, slightly elevating enteric and parasitic disease load; however, stable water sources and improved nutrition offset this, and mortality remains driven primarily by trauma, childbirth, and age.
+
+__Nutrition & Physiological Vitality:__ Intensive cereal harvesting and grinding provide a reliable carbohydrate base; dental pathology (caries, heavy wear) increases, but stature and skeletal robustness remain high — bodies are well-nourished by Paleolithic standards.
+
+__Care, Healing & Recovery Capacity:__ Healed fractures and evidence of survival after debilitating injury appear in Natufian burials, indicating sustained care of the sick and injured; oral transmission of healing lore is inferred; no specialized healer role is archaeologically distinguishable.
+
+__Reproductive Biology & Pairing Dynamics:__ Sedentism shortens birth intervals as mobility constraints relax; pair-bonds form within the residential community, with exogamous marriage linking neighboring villages; reproductive output begins to rise.
+
+__Demographic Renewal & Density:__ Population grows noticeably; base camps reach fifty to one hundred fifty residents, an order of magnitude larger than Geometric Kebaran camps; regional population density approaches sustainable maxima for wild-resource foraging.
+
+__Attrition & Dependency Overhang:__ More individuals survive to middle age; the dependency load increases modestly, but communal storage and sedentary care arrangements absorb it without visible strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Wild cereals, harvested with flint sickles and processed with basalt mortars and grinding slabs, form the subsistence foundation; gazelle hunting remains critical for protein; fish, shellfish, and gathered nuts diversify the diet — the provisioning floor is higher and more stable than in any prior period.
+
+__Energy Capture & Conversion:__ Human muscle remains the sole motive force; fire is used for cooking, heating, and craft processes (hardening hafts, drying grain); no animal traction exists.
+
+__Labor Organization & Coercion:__ Labor is organized by sex and age: men hunt and knap, women gather and process grain, though overlap exists; cooperation is kin-based and voluntary; no coerced labor is evident.
+
+__Production & Surplus Capacity:__ Systematic harvesting and communal storage pits enable surplus accumulation beyond immediate needs; surplus buffers several months of consumption, permitting year-round sedentism and freeing labor for non-subsistence activities.
+
+__Storage, Reserves & Buffering:__ Stone-lined storage pits appear at major sites, holding dried grain, nuts, and processed foods; reserves provide insurance against seasonal shortfall and constitute the first durable wealth that outlasts a single consumption cycle.
+
+__Exchange, Trade & Logistics:__ Dentalium and other marine shells reach inland sites from the Mediterranean; obsidian from Anatolian sources appears sporadically, indicating long-distance exchange networks; logistics remain foot-based, but routes are now anchored by permanent villages.
+
+__Value Storage, Credit & Deferred Exchange:__ No currency exists; value is stored in durable goods (ground stone tools, shell ornaments) and deferred through reciprocal obligations maintained orally; prestige goods begin to mark differential standing.
+
+__Surplus Extraction & Redistribution:__ No centralized extraction occurs; communal hunts and harvests are shared according to customary rules, enforced by reputation and oral sanction; feasting events redistribute surplus and reinforce social bonds.
+
+__Wealth Distribution & Asset Defense:__ Ground stone tools and ornaments represent portable wealth; some individuals are buried with more elaborate goods, suggesting incipient differentiation; defense consists of communal vigilance and the difficulty of removing heavy objects.
+
+__Byproducts & Waste Routing:__ Ash, bone, and processing debris accumulate in middens; no toxic byproducts are produced; waste is spatially segregated but poses no economic or environmental feedback at current densities.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The village is organized around extended kin groups; inheritance of valued goods (ground stone tools, ornaments, perhaps storage facilities) passes within lineages; marriage rules enforce exogamy to maintain inter-village alliances.
+
+__Association & Mutual Aid:__ Communal structures (possible meeting or ritual buildings) appear at some sites, indicating association beyond the household; mutual aid extends to cooperative hunting, harvesting, and construction; inter-village gatherings persist, now as exchanges between sedentary neighbors.
+
+__Leisure, Play & Sociability:__ Sedentism expands leisure time during seasons of plenty; communal feasting, music (bone flutes), and storytelling structure sociability; play among children occurs within the village perimeter.
+
+__Stratification, Status & Group Structure:__ Status differentiation increases: some burials contain elaborate ornaments (shell headdresses, bone pendants), while others are plain; achieved status through hunting prowess, ritual knowledge, or generosity coexists with emerging hereditary markers — boundaries remain permeable.
+
+__Administrative Capacity & Institutional Integrity:__ No formal bureaucracy exists; leadership remains informal, vested in elders and skilled individuals whose authority rests on persuasion and reputation; the village as a whole makes decisions by consensus around remembered precedent.
+
+__Coercive Apparatus & Means of Force:__ Weapons remain dual-use hunting tools; no fortifications or specialized warriors appear; inter-group violence is episodic and resolved through negotiation, compensation, or avoidance; the coercive apparatus is the armed community itself.
+
+__Discharge, Disorder & Decay:__ Social friction rises with sedentism and larger group size, but fission (departure of disaffected households to found new sites) and oral mediation absorb disputes before they harden; disorder remains low.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence is high during this resource-rich phase; the prevailing mood is secure and forward-looking; interpersonal trust extends across the village and, through marriage, to allied settlements; the radius of cooperation is wider than in mobile bands.
+
+__Leadership & Personal Authority:__ Authority attaches to individuals who demonstrate hunting skill, ritual knowledge, or generosity; leaders organize communal hunts and feasts, mediating disputes and directing labor, but hold no coercive power — allegiance is earned continually.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on adherence to sharing norms and success in provisioning; a leader who fails to deliver or hoards surplus loses standing rapidly; no doctrinal justification for authority yet exists.
+
+__Political Will & Collective Resolve:__ The village summons collective will for seasonal harvests, communal hunts, construction projects, and defense; resolve is mobilized through speech, feasting, and the invocation of ancestral obligation.
+
+__External Relations & Posture:__ Relations with neighboring Natufian villages are generally peaceful, mediated by marriage exchange, shared mortuary rites, and stylistic continuity in material culture; territorial boundaries are becoming more defined, but conflict remains rare; alignment is horizontal and reciprocal.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection is low; exit remains possible, and sedentary life offers rewards that keep morale high — the emotional residue does not accumulate.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is fully developed and universal within the community; neighboring villages share closely related dialects, enabling communication across the Natufian cultural sphere; all coordination, negotiation, and tradition-making occur through speech.
+
+__Channels & Transmission Velocity:__ Information travels at walking speed between villages; within the village, news circulates within hours through face-to-face contact; seasonal gatherings and marriage exchanges accelerate inter-village transmission; no written or graphic channel exists.
+
+__Record, Storage & Persistence:__ Memory is the sole archive; genealogies reaching several generations, territorial boundaries, calendrical knowledge of harvest timing, and ritual procedures persist only as long as they are orally rehearsed — a single generation's failure to transmit erases the record.
+
+__Framing, Censorship & Discourse Norms:__ No formal censorship exists; discourse norms enforce truthfulness in matters of subsistence (reporting game sightings, grain yields) and respect for elders; boasting beyond one's deeds incurs ridicule; ritual knowledge may be restricted to initiated individuals.
+
+__Reception, Attention & Amplification:__ Attention clusters around storytellers, elders, and ritual specialists; important information is amplified through repetition at communal gatherings; noise is low because the information load is socially curated and tied to immediate concerns.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces gradual drift; redundancy (multiple transmitters, repeated performance) limits catastrophic loss but cannot prevent slow mutation of tradition; the noise residue is the divergence of variants across villages over time.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice centers on reciprocity, generosity, and kin loyalty; theft, hoarding, and breach of marriage rules are cardinal wrongs; the sense of fairness is immediate, concrete, and enforced by reputation.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; binding rules are encoded in oral custom and transmitted as precedent — the remembered outcome of past disputes serves as case law; new situations are adjudicated by analogy.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by elder consensus; liability attaches to individuals and their kin; compensation (meat, tools, labor, ornaments) restores balance; sanctions range from ridicule and shaming to exclusion from communal resources.
+
+__Rights, Protections & Compliance Burden:__ Customary rights to a share of communal harvests and hunts are protected; compliance burden is low because rules are internalized from childhood and enforced by social pressure rather than formal machinery.
+
+__Impunity & Unredressed Wrong:__ Impunity is difficult in the face-to-face village; wrongdoers are known, and redress is swift; occasional feuds may persist across generations, but the gap between justice owed and delivered remains narrow.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of the natural world is embedded in oral tradition — seasonal cycles, animal behavior, plant phenology, astronomical markers — without formalized theory; explanation is narrative and mythological, with causation attributed to spirits and ancestors.
+
+__Applied Knowledge & Technical Method:__ Sickle manufacture (flint blades set in bone or wooden hafts, exhibiting characteristic gloss from silica accumulation), grinding technology (basalt mortars and pestles), pit-storage construction, and stone architecture represent accumulated applied knowledge transmitted by demonstration and verbal instruction.
+
+__Education, Knowledge Stock & Skill Distribution:__ Learning occurs through apprenticeship within the household and village; all adults share a common knowledge stock; specialization is incipient — certain individuals may excel at flintknapping, ritual, or healing — but knowledge remains communal property.
+
+__Obsolescence & Knowledge Decay:__ Superseded techniques fall out of use without formal purging; the main risk is generational loss if transmission fails — the residue is forgetting, and some variant traditions are already diverging across the Natufian range.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin stories, ancestral spirits, and place-based narratives anchor village identity; the cemetery, now a permanent feature of the settlement, ties the living to the dead and the community to its location — identity becomes territorial as well as kinship-based.
+
+__Legitimating Narrative & Ideology:__ No formal ideology justifies hierarchy; legitimacy derives from adherence to sharing norms, respect for ancestors, and the wisdom of elders; the village's right to its territory is grounded in ancestral presence rather than conquest.
+
+__Artistic Expression & Material Culture:__ Natufian art includes carved limestone figurines (gazelle, human forms), decorated bone tools, and elaborate personal ornaments (dentalium shell headdresses, bone pendants, tooth necklaces); geometric microliths persist but are joined by lunates in distinctive Natufian style; architecture includes semi-subterranean circular stone structures — a material culture visibly distinct from predecessors.
+
+__Form Exhaustion & Meaning Decay:__ Cultural forms are vital and innovative; the explosion of artistic expression and mortuary elaboration signals meaning-making at full potency — no anomie or symbolic exhaustion is visible.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is animated by spirits of animals, ancestors, and places; human fate depends on maintaining right relations with these forces through ritual; death is a transition, not an ending, as evidenced by elaborate burial practices and grave goods.
+
+__Ritual, Devotion & Sacred Practice:__ Burial in formal cemeteries beneath or adjacent to dwellings becomes standard; grave goods (shells, ochre, stone tools) accompany the dead; feasting deposits suggest communal rituals marking life transitions; daily devotion is embedded in hunting magic, harvest rites, and food taboos.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood or temple exists; ritual knowledge is held by elders or individuals with reputation for spiritual power; doctrine is fluid, maintained orally, and varies across villages; authority in sacred matters is personal and achieved.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Natufian cultural sphere shares broad cosmological themes (ancestor veneration, animal spirits), diffused through inter-village contact and marriage exchange; syncretism is the norm — no exclusive orthodoxy competes for dominance.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains vital and unquestioned; ritual elaboration is increasing rather than declining; disenchantment does not register as a phenomenon — the spiritual residue is nil.
+

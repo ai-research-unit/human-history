@@ -1,69 +1,139 @@
-# __1930 CE – 2010 CE__ — BBC as National Institution
-__Summary:__ The British Broadcasting Corporation across eight decades as the dominant public service broadcaster in the British Isles, operating under Royal Charter with licence-fee funding, universal reach, and an impartiality mandate; the binding constraint is the perennial tension between editorial independence and government pressure at each charter renewal; margin against shock rests on public legitimacy and institutional inertia; the direction of change moves from monopoly through competition to multi-platform adaptation while the core public-service model persists under mounting commercial and political challenge.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The British Isles — compact island geography with established road, rail, and postal networks — present manageable spatial friction for broadcast infrastructure; transmitter siting on high ground provides wide coverage, though upland terrain in Wales, Scotland, and Northern Ireland requires supplementary relay stations.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime climate with moderate seasonal variation; weather affects reception quality marginally but does not constrain broadcast operations; no secular climate drift materially alters infrastructure planning across the window.<br><br>
-__Hazard Regime & Exposure:__ Low acute hazard exposure — no significant seismic, volcanic, or extreme storm risk; flooding occasionally disrupts local transmitters; wartime bombing 1940–1945 damages facilities but does not halt broadcasting; infrastructure margin against natural hazard remains ample.<br><br>
-__Resource & Energy Endowment:__ Domestic coal and later North Sea oil and gas underpin the national grid supplying broadcast facilities; electricity supply is reliable throughout, with capacity exceeding broadcast demand; no resource constraint binds the system.<br><br>
-__Waste Absorption & Sink Capacity:__ Broadcast infrastructure generates negligible physical waste relative to industrial output; electronic equipment disposal becomes a minor concern late in the window as analog transmitters are decommissioned; sink capacity is not approached.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden declines steadily with NHS provision from 1948; epidemic shocks (influenza, later HIV) do not disrupt broadcast operations; mortality baseline falls, extending audience lifespan and viewing years.<br><br>
-__Nutrition & Physiological Vitality:__ Post-rationing nutritional improvement through the 1950s; population health rises, supporting sustained audience attention and staff productivity; no physiological constraint on broadcast activity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Family formation patterns shift from high postwar fertility through declining birth rates and changing household structures; these shape audience composition — children's programming peaks in baby-boom years, later declines — but do not constrain institutional operation.<br><br>
-__Demographic Renewal & Density:__ Population grows from approximately 47 million (1930) to 62 million (2010) across the UK; aging profile shifts audience demographics toward older cohorts; density supports universal reach with existing infrastructure.<br><br>
-__Attrition & Dependency Overhang:__ Rising life expectancy increases the retired audience segment; pension and healthcare systems absorb dependency without institutional cost to the BBC; no overhang constrains operations.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Household subsistence secure for the vast majority; licence-fee affordability varies — exemptions for elderly and low-income mitigate exclusion; basic provisioning does not constrain audience access.<br><br>
-__Energy Capture & Conversion:__ National grid electrification complete by 1930s in urban areas, extending rurally postwar; broadcast transmission relies on stable electrical supply; conversion efficiency improves with transistors, then digital systems.<br><br>
-__Labor Organization & Coercion:__ BBC employs salaried staff under collective bargaining; unionization strong through 1980s, weakening thereafter; periodic strikes (1970s–1980s) disrupt programming but not institutional continuity; labor relations are contractual, not coerced.<br><br>
-__Production & Surplus Capacity:__ In-house production dominates until the 1990 Broadcasting Act mandates independent commissions (25% quota); surplus capacity exists for expanded output; production infrastructure — studios, equipment, personnel — scales with demand.<br><br>
-__Storage, Reserves & Buffering:__ Licence-fee revenue provides predictable annual income; reserves accumulate for capital projects; borrowing capacity exists for major investments (Television Centre, digital conversion); financial buffering adequate against cyclical shocks.<br><br>
-__Exchange, Trade & Logistics:__ Programme sales through BBC Worldwide generate export revenue; format licensing and co-productions expand internationally; logistics of tape, then digital, distribution improve throughout; no supply-chain bottleneck constrains distribution.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Licence-fee income denominated in sterling; inflation erodes real value in 1970s but fee adjustments maintain purchasing power; capital borrowing secured against future revenue; value-storage function stable.<br><br>
-__Surplus Extraction & Redistribution:__ Government sets licence-fee level; extraction is flat-rate per household regardless of income, regressive in incidence; redistribution funds programming across genres and regions, cross-subsidizing minority-interest content.<br><br>
-__Wealth Distribution & Asset Defense:__ BBC assets — property, archives, brand — are publicly owned and protected by charter; commercial arm (BBC Worldwide, later BBC Studios) generates and retains commercial surplus; concentration of broadcast wealth remains institutionally held, not privately distributed.<br><br>
-__Byproducts & Waste Routing:__ Production waste (sets, costumes, equipment) disposed through resale, recycling, or landfill; tape-wiping practices 1960s–1970s destroy archival material, an informational rather than physical loss; waste volume negligible against national industrial output.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ BBC serves as a trust anchor — the "national broadcaster" metaphor implies shared institutional confidence; audience trust fluctuates with editorial controversies but remains comparatively high; wartime broadcasting cements communal identification.<br><br>
-__Stratification, Status & Group Identity:__ BBC programming both reflects and shapes class identity — Received Pronunciation as prestige norm, regional accents gradually normalized; ethnic minority representation minimal early, increasing under diversity policies post-1990s; generational and subcultural identities addressed through specialized programming.<br><br>
-__Kinship, Family & Inheritance:__ Household viewing structures family time — "appointment television" organizes domestic schedules; intergenerational transmission of programme preferences shapes cultural continuity; inheritance irrelevant to institutional operation.<br><br>
-__Civic Association & Self-Organization:__ BBC programming supports civic life — news, educational content, local radio — but does not itself constitute associational fabric; community groups form around programme fandoms; no formal associational role for the institution.<br><br>
-__Leisure, Play & Sociability:__ Broadcasting structures leisure — evening schedules, weekend sports, holiday specials define collective rhythms; shared viewing creates conversational common ground ("water-cooler television"); sociability mediated through content consumption.<br><br>
-__Grievance Channels & Social Discharge:__ Audience complaints handled through in-house procedures, later the Broadcasting Standards Council and Ofcom; editorial missteps generate public controversy but are metabolized through apology, inquiry, or personnel change; standing grievance does not accumulate systemically.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ BBC operates under Royal Charter granted by the Crown on government advice; governance vests in the Board of Governors (later BBC Trust, then Ofcom-regulated board); editorial independence formally guaranteed but subject to government pressure at charter renewal points.<br><br>
-__Succession & Power Transfer:__ Director-General appointed by the Board; transitions generally orderly (Reith, Haley, Greene, Milne, Birt, Dyke, Thompson, Hall); political controversy occasionally forces resignation (Milne 1987, Dyke 2004); succession is institutionalized, not a flashpoint.<br><br>
-__Legitimacy & Political Narrative:__ Public-service ethos — "inform, educate, entertain" — provides legitimizing narrative; impartiality doctrine positions BBC as above partisan politics; legitimacy contested by both left (establishment bias) and right (liberal bias) but broadly sustained.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Substantial administrative capacity — personnel, finance, legal, compliance functions — staffed professionally; corruption rare and scandalous when exposed; institutional integrity high relative to commercial competitors.<br><br>
-__Political Participation & Mobilization:__ BBC does not mobilize politically but shapes public discourse through news and current affairs; election coverage bound by strict impartiality rules; programming influences but does not direct political participation.<br><br>
-__Geopolitical Position & External Relations:__ World Service projects British soft power globally; Cold War broadcasting to Eastern Europe; post-colonial relationships through Commonwealth services; international reputation enhances diplomatic standing.<br><br>
-__Coercive Apparatus & Means of Force:__ No coercive capacity; licence-fee enforcement relies on detector vans and prosecution through civil courts; compliance is civic-normative rather than coerced; state apparatus enforces payment on BBC's behalf.<br><br>
-__Internal Order & Threat Environment:__ Internal discipline maintained through employment contracts and editorial guidelines; occasional leaks, whistleblowing, or factional disputes do not threaten institutional order; no violence or rebellion within the organization.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Radio achieves near-instantaneous nationwide reach by 1930s; television expands to universal coverage by 1960s; satellite (1989) and digital (2002 onward) accelerate reach further; by 2010 online streaming provides on-demand access — transmission velocity approaches instantaneous universality.<br><br>
-__Record, Storage & Persistence:__ Written Archives Centre preserves institutional records; programme archives incomplete due to tape-wiping (pre-1980s) but increasingly comprehensive thereafter; digital archiving improves persistence; iPlayer (2007) makes recent content retrievable; archival loss is a historical deficit, not ongoing.<br><br>
-__Framing, Censorship & Discourse Norms:__ Editorial guidelines enforce impartiality and taste standards; government pressure (D-notices, broadcasting bans on Sinn Fein 1988–1994) imposes external censorship; self-censorship operates through institutional caution; discourse norms stable but contested at margins.<br><br>
-__Reception, Attention & Amplification:__ Mass audiences — 20+ million for major events (coronation, World Cup finals, royal weddings, Diana funeral) — demonstrate amplification power; attention fragments with multi-channel competition post-1990s; appointment viewing declines, catch-up rises.<br><br>
-__Signal Integrity & Noise Load:__ Editorial standards, fact-checking, and legal review maintain signal integrity; complaints and corrections systems clear errors; noise from external misinformation increases late in window but BBC remains high-trust source; verification capacity keeps pace.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public expectation of impartiality and accountability underpins BBC legitimacy; perceived bias or misconduct provokes moral outrage; sense of justice demands editorial fairness and institutional transparency.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting regulated by statute (Wireless Telegraphy Act 1904, Broadcasting Acts 1980/1990/1996, Communications Act 2003); charter and agreement define BBC obligations; Ofcom becomes converged regulator 2003; regulatory framework evolves toward convergence.<br><br>
-__Adjudication, Enforcement & Liability:__ Broadcasting Standards Council (1988), then Ofcom, adjudicates complaints; courts handle defamation and contempt; licence-fee evasion prosecuted criminally; enforcement throughput adequate; liability regime conventional.<br><br>
-__Rights, Protections & Compliance Burden:__ Editorial independence protected by convention not statute; employee rights under employment law; compliance burden rises with proliferating regulations (taste, accuracy, competition, data protection); burden manageable but increasing.<br><br>
-__Impunity & Unredressed Wrong:__ High-profile failures (Savile revelations 2012, though slightly outside window) expose retrospective impunity; within window, complaints systems generally clear grievances; major unredressed wrongs rare but accumulate as reputational damage when exposed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ BBC does not conduct primary research but disseminates scientific and scholarly knowledge through programming; documentary and educational content reflects prevailing paradigms; no proprietary intellectual production.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcasting technology advances — valve to transistor, analog to digital, terrestrial to satellite to internet — adopted and sometimes pioneered (teletext, digital audio broadcasting); technical method continuously upgraded.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Educational programming (schools broadcasts, Open University partnership 1971) extends knowledge distribution; technical training for broadcast skills; workforce skill level high and maintained through continuous professional development.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog broadcast skills become obsolete with digital transition; institutional knowledge of early production lost with tape-wiping; error-clearing through editorial review maintains current accuracy; decay manageable through retraining and archival recovery.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ BBC embeds in national identity — wartime broadcasts, coronation coverage, shared cultural moments constitute collective memory; "the BBC" functions as metonym for British public culture; foundational identity stable despite periodic controversy.<br><br>
-__Artistic Expression & Material Culture:__ Programme aesthetics — studio design, title sequences, signature tunes — create recognizable material culture; Television Centre (1960–2013) as architectural symbol; costume drama, natural history documentary, and satire define BBC house styles.<br><br>
-__Collective Mood & Behavioral Disposition:__ BBC both reflects and shapes national mood — wartime resolve, postwar optimism, 1970s anxiety, Thatcherite conflict, Cool Britannia, post-2008 austerity; programming calibrates to and modulates collective disposition.<br><br>
-__Form Exhaustion & Meaning Decay:__ Reithian paternalism exhausts as cultural form by 1960s, replaced by populist address; genre formats (sitcom, quiz show, costume drama) refresh through innovation; meaning-decay managed through continuous format evolution; anomie does not accumulate.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ BBC maintains religious programming (Thought for the Day, Songs of Praise) reflecting Christian heritage; secular drift in audience reduces religious engagement; existential outlook increasingly pluralist and secular by 2010.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Broadcast schedules include religious observance (Christmas services, Easter programming); viewing itself acquires ritual quality (annual Christmas specials, New Year broadcasts); devotional content declines but ritual scheduling persists.<br><br>
-__Religious Institutions & Doctrinal Authority:__ BBC religious broadcasting liaises with churches but holds no doctrinal authority; representation of non-Christian faiths increases with demographic change; institutional religion's broadcast presence stable but proportionally declining.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Programming reflects religious pluralism — Islam, Hinduism, Sikhism represented alongside Christianity; syncretism not promoted but diversity acknowledged; displacement of Christian default gradual.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization reduces transcendent content; existential programming (science documentaries, philosophical discussions) partially fills void; standing disenchantment not prominent — entertainment and information substitute for sacred function without leaving obvious deficit.<br><br>
+# __1930 CE – 2010 CE — BBC as National Institution__
+
+__Summary:__ The BBC evolves across eight decades from a paternalistic radio monopoly into a multi-platform public broadcaster, surviving competition, political attack, and technological disruption through the binding constraint of the license fee, which grants editorial independence while tethering the corporation to a renewable political settlement that requires continuous legitimation before Parliament and public alike.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Broadcasting House in Portland Place (1932) becomes the symbolic and operational center, with purpose-built regional headquarters in Manchester, Birmingham, Glasgow, Cardiff, and Belfast extending the institution's physical presence across the four nations and establishing the spatial infrastructure for national address from distributed sites.
+
+__Climate Regime & Volatility:__ The temperate British climate poses no direct constraint on broadcast infrastructure, though fog, ice, and storm occasionally disrupt transmitter maintenance and outside broadcast operations, particularly at exposed hilltop relay stations.
+
+__Hazard Regime & Exposure:__ The Blitz destroys Broadcasting House's entrance hall (1940), kills seven staff, and forces dispersal of services to Wood Norton and elsewhere, demonstrating vulnerability to concentrated urban attack; postwar decentralization and redundancy reduce single-point-of-failure risk.
+
+__Resource & Energy Endowment:__ National grid electricity enables reliable transmission, though wartime rationing constrains power for non-essential broadcasting; postwar coal shortages occasionally threaten service continuity; North Sea oil and gas (1970s) ease energy constraints.
+
+__Waste Absorption & Sink Capacity:__ Early transmitters generate radio-frequency interference requiring coordination; discarded valves, cathode-ray tubes, and later electronic waste accumulate, though volumes remain manageable within municipal and industrial waste systems.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Staff health follows general British trends: improving through NHS provision (1948), though broadcasting's irregular hours and high-pressure production environments contribute to elevated stress; studio conditions improve with ventilation and safety standards.
+
+__Nutrition & Physiological Vitality:__ Wartime canteens sustain staff through rationing; postwar subsidized catering at BBC premises maintains workforce welfare; the shift to desk-based work reduces physical demand but introduces sedentary health concerns.
+
+__Care, Healing & Recovery Capacity:__ BBC occupational health services develop from basic first aid to comprehensive welfare provision; the corporation's size and public-sector ethos support staff welfare beyond commercial norms.
+
+__Reproductive Biology & Pairing Dynamics:__ The BBC's large, educated workforce produces notable in-house partnerships; the institution's London concentration and creative atmosphere foster professional relationships that shape both careers and families.
+
+__Demographic Renewal & Density:__ Workforce grows from approximately 5,000 (1930) to over 23,000 (2010), with density concentrated in London though regional centers expand; recruitment shifts from establishment networks toward broader graduate intake.
+
+__Attrition & Dependency Overhang:__ Final-salary pension schemes create substantial legacy obligations; by 2010, pension deficits emerge as significant institutional liabilities requiring ongoing negotiation with workforce and government.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ License fee income provides stable core funding insulated from commercial volatility, covering approximately 75% of BBC expenditure throughout the period, with supplementary income from BBC Enterprises (later BBC Studios) and World Service grant-in-aid.
+
+__Energy Capture & Conversion:__ Investment in transmission infrastructure—from AM and long-wave radio through VHF/FM and 405-line television to 625-line PAL, satellite uplinks, and digital terrestrial—requires continuous capital expenditure absorbing roughly 15% of revenue.
+
+__Labor Organization & Coercion:__ Strong unionization (ACTT, NUJ, BECTU) secures favorable terms but creates production rigidities; demarcation disputes constrain flexibility until 1990s reforms erode union power; "Producer Choice" internal market (1990s) imposes commercial disciplines.
+
+__Production & Surplus Capacity:__ The corporation produces more hours of original content than any other broadcaster, with in-house capacity declining after Producer Choice as independent production share grows to 25% by 2010; surplus reinvested rather than distributed.
+
+__Storage, Reserves & Buffering:__ Annual settlement with government removes capacity to build financial reserves; borrowing limited by Treasury controls; contingency depends on license-fee predictability and government willingness to permit real-terms increases.
+
+__Exchange, Trade & Logistics:__ BBC Enterprises (1979) and successor commercial arms generate supplementary income through format sales, co-productions, and merchandise; global reach makes BBC programs internationally tradable assets, from Doctor Who to natural history.
+
+__Value Storage, Credit & Deferred Exchange:__ As a public corporation, the BBC holds no equity and generates no distributable surplus; value stored in accumulated program archive (among world's largest), intellectual property rights, and brand reputation rather than financial instruments.
+
+__Surplus Extraction & Redistribution:__ License fee operates as hypothecated broadcasting tax collected by evasion-prone self-declaration system (later outsourced to Capita); cross-subsidy from popular services funds minority programming.
+
+__Wealth Distribution & Asset Defense:__ Property portfolio (Television Centre, White City, regional centers) represents substantial physical wealth; Salford move (2006–2011) redistributes institutional presence northward while defending London real estate values.
+
+__Byproducts & Waste Routing:__ Program archive accumulates as institutionally valuable byproduct; failed programs, production overruns, and terminated projects represent sunk costs absorbed within annual budgets rather than crystallized losses.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The BBC exhibits notable professional dynasties (Attenborough, Dimbleby families) alongside broader meritocratic recruitment; institutional identity transmits through mentorship and in-house training rather than hereditary succession.
+
+__Association & Mutual Aid:__ Strong professional associations and unions create collective bonds; the BBC Club and social facilities foster institutional community; alumni networks maintain connections beyond employment.
+
+__Leisure, Play & Sociability:__ The annual Christmas party, departmental socials, and creative collaboration foster institutional culture; production teams develop intense bonding through project-based work.
+
+__Stratification, Status & Group Structure:__ Clear hierarchies persist from Director-General through divisional controllers to production staff, with status gradations between "talent" (on-screen presenters), producers, and technical grades; Oxbridge recruitment dominance declines but persists.
+
+__Administrative Capacity & Institutional Integrity:__ The Board of Governors (1927–2007), replaced by the BBC Trust (2007), provides nominal oversight while executive power concentrates with Director-General; Charter renewal cycles (roughly decennial) force periodic institutional justification; editorial guidelines and Producer Guidelines codify standards.
+
+__Coercive Apparatus & Means of Force:__ No coercive capacity; enforcement of license fee collection outsourced; institutional authority rests entirely on statutory monopoly powers and accumulated legitimacy.
+
+__Discharge, Disorder & Decay:__ Periodic crises (Suez, Northern Ireland coverage, Hutton Inquiry) expose tensions with government; Jimmy Savile scandal (revealed 2012, rooted in earlier decades) demonstrates internal accountability failures; bureaucratic sclerosis prompts recurring reform initiatives from Birtism through the 2000s restructurings.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The BBC commands substantial public affection, consistently polling as Britain's most trusted news source despite partisan criticism; audience surveys reveal attachment transcending political divisions, though intensity of affection varies across generations and classes.
+
+__Leadership & Personal Authority:__ Directors-General set institutional tone: Reith's austere paternalism; Hugh Greene's 1960s liberalization; Charles Curran's steady stewardship; Alasdair Milne's creative ambition; John Birt's managerial transformation; Greg Dyke's populism; Mark Thompson's digital strategy.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on dual foundation: democratic mandate through Parliament and popular mandate through audience loyalty; Reithian ethos of public service broadcasting provides ideological justification that survives commercialization pressures.
+
+__Political Will & Collective Resolve:__ Institutional will to defend editorial independence manifests in resistance to government pressure, from General Strike (1926) through Suez, Northern Ireland, Falklands, and Iraq; willingness to confront power varies by leadership and political context.
+
+__External Relations & Posture:__ World Service projects British soft power globally; BBC relationship with government oscillates between collaborative and adversarial, depending on party in power and specific controversies; European broadcasting partnerships develop through EBU.
+
+__Disaffection, Apathy & Spent Will:__ Staff cynicism grows through repeated reorganizations; commercial pressure and political attacks induce defensive posture; by 2000s, internal surveys reveal declining morale alongside persistent external loyalty.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Universal reach emerges as core mission: by 1939, radio covers 98% of population; by 1970, television achieves near-universal penetration; BBC commitment to accessibility drives subtitling, signing, and later online accessibility standards.
+
+__Channels & Transmission Velocity:__ Progression from single radio network (1920s) through multiple radio services and television channels to digital portfolio multiplies distribution capacity; news bulletins evolve from once-daily to continuous; breaking news becomes instantaneous.
+
+__Record, Storage & Persistence:__ BBC Archive develops as institutional memory, though early technical limitations and tape-wiping policies destroy irreplaceable material (including early Doctor Who episodes); systematic preservation policies strengthen from 1970s.
+
+__Framing, Censorship & Discourse Norms:__ Editorial Guidelines codify impartiality requirements; banned interviews (Sinn Fein voice ban 1988–1994) represent political pressure; internal self-censorship around Northern Ireland, monarchy, and security matters operates alongside formal rules.
+
+__Reception, Attention & Amplification:__ Audience research (BARB ratings, appreciation indices) shapes programming; viewer feedback integrated through duty log system; complaints procedures formalize audience accountability.
+
+__Signal Integrity & Noise Load:__ High production values and editorial standards maintain signal quality; fact-checking and editorial layers filter content; Hutton Inquiry (2003) exposes failures in editorial process; institutional response strengthens verification procedures.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reithian public service ethos establishes moral foundation: broadcasting as civic duty rather than commercial enterprise; commitment to truth, impartiality, and public benefit distinguishes BBC self-conception from commercial competitors.
+
+__Law, Codification & Regulatory Evolution:__ Royal Charter and Agreement provide constitutional framework, renewed and revised at approximately ten-year intervals; Broadcasting Acts (1990, 1996) and Communications Act (2003) reshape regulatory environment while preserving BBC's distinctive status.
+
+__Adjudication, Liability & Sanction:__ Internal complaints procedures handle routine matters; Ofcom (from 2003) provides external appeal mechanism; defamation liability concentrated in news and documentary; serious breaches trigger Governors/Trust intervention.
+
+__Rights, Protections & Compliance Burden:__ BBC bound by Ofcom broadcasting code alongside self-imposed Editorial Guidelines; compliance bureaucracy grows substantially from 1990s; FOI Act (2000) applies partially to BBC, contested at margins.
+
+__Impunity & Unredressed Wrong:__ Hutton Inquiry (2003) results in resignations but no prosecution; Savile affair demonstrates decades of institutional failure to address abuse; victims' redress comes late and incomplete.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ BBC Research Department pioneers broadcast technology development; audience research develops sophisticated social-scientific methodologies; institutional self-study generates substantial internal analysis.
+
+__Applied Knowledge & Technical Method:__ Engineering excellence maintains competitive edge: stereo sound, color television, digital audio broadcasting, digital video broadcasting, HDTV—BBC often leads British adoption and contributes to international standard-setting.
+
+__Education, Knowledge Stock & Skill Distribution:__ BBC Training department establishes industry standards; internal courses and apprenticeships distribute technical and editorial skills; BBC Academy (2005) consolidates training; institutional knowledge accumulates through long service and internal promotion.
+
+__Obsolescence & Knowledge Decay:__ Technology transitions render skills obsolete (film editing to tape to digital); craft knowledge in tape operations, telecine, and film processing atrophies as analog systems retire; institutional memory thins through successive redundancy programs.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The BBC constitutes a central pillar of national identity, embodying a particular vision of Britishness: literate, moderate, public-spirited, simultaneously establishment and independent; institutional mythology centers on Reith, wartime service, and Coronation broadcast.
+
+__Legitimating Narrative & Ideology:__ Public service broadcasting ideology provides continuous justification: inform, educate, entertain; commitment to universal access, impartiality, and quality distinguishes BBC from commercial broadcasters and justifies license fee.
+
+__Artistic Expression & Material Culture:__ BBC commissions and originates substantial British cultural production: drama (I, Claudius, Pride and Prejudice), comedy (Monty Python, Fawlty Towers), natural history (Life on Earth), documentary; institutional aesthetic combines professionalism with restraint; Radiophonic Workshop creates distinctive sonic identity.
+
+__Form Exhaustion & Meaning Decay:__ Public service rhetoric grows formulaic through repetition; "Auntie" nickname captures both affection and perceived stuffiness; by 2000s, institutional self-presentation oscillates between heritage claims and modernization assertions without resolving tension.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The BBC embodies a broadly secular, humanist outlook while maintaining religious programming; institutional ethos assumes rational, improvable society amenable to informed citizenship; this Enlightenment inheritance shapes news values and educational mission.
+
+__Ritual, Devotion & Sacred Practice:__ Annual rhythms of broadcasting (Christmas programming, royal occasions, Remembrance Sunday) create ritual calendar; audience participation in live events (Sports Personality of the Year, Children in Need) generates communal sacred-adjacent experience.
+
+__Religious Institutions & Doctrinal Authority:__ Religious Broadcasting department maintains Sunday programming, Songs of Praise, Thought for the Day; relations with Church of England, other denominations, and religious minorities require diplomatic navigation; secularizing trend reduces religious content prominence.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Religious programming diversifies from Anglican dominance toward multi-faith representation; secular alternatives (ethics, philosophy) supplement traditional religious content; displacement of religious by humanitarian framing in appeal programming.
+
+__Disenchantment & Sacred Discharge:__ The BBC's quasi-sacred national role diminishes with audience fragmentation and commercial competition; attachment persists among older audiences while younger cohorts develop weaker institutional loyalty; the question of whether the BBC retains sufficient distinctiveness to justify its privileged position sharpens toward the period's end.

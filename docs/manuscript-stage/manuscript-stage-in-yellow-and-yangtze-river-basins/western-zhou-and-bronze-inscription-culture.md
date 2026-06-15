@@ -1,69 +1,139 @@
-# __1046 BCE – 771 BCE__ — Western Zhou and Bronze Inscription Culture
-__Summary:__ The Zhou conquest of Shang in 1046 BCE establishes a new political order across the Yellow River basin, legitimized by the novel concept of the Mandate of Heaven and administered through a feudal system of enfeoffed lineages. Bronze inscriptions expand dramatically in length and scope, recording royal appointments, land grants, legal settlements, and commemorative narratives rather than divinatory queries alone, representing a significant broadening of what writing does. The binding constraint is the centrifugal tendency of the fengjian system: as enfeoffed lords consolidate regional power across generations, the Zhou king's authority becomes increasingly ritual rather than administrative, a hollowing that culminates in the 771 BCE collapse when Quanrong invaders sack the western capital. The trend moves from initial Zhou consolidation through gradual decentralization toward the fragmentation that defines the following era.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Zhou heartland lies in the Wei River valley, opening eastward onto the North China Plain where enfeoffed states occupy the Yellow River basin; mountain passes guard the western capitals at Feng and Hao, but the extended realm's spatial friction multiplies with distance from the center.<br><br>
-__Climate Regime & Volatility:__ Continuation of the warm, semi-humid monsoon regime; bamboo and rice cultivation possible in the Wei valley indicates conditions slightly warmer than later periods; interannual drought and flood variability persists, documented in ritual inscriptions.<br><br>
-__Hazard Regime & Exposure:__ Yellow River flooding remains the primary acute hazard; seismic activity in the Wei valley adds a secondary risk; the 771 BCE collapse correlates with political crisis rather than documented environmental shock.<br><br>
-__Resource & Energy Endowment:__ Copper and tin deposits continue to supply bronze production; the Zhou realm's territorial expansion incorporates additional ore sources; timber, loess soils, and water resources remain adequate for the population level.<br><br>
-__Waste Absorption & Sink Capacity:__ Expanded bronze production increases slag accumulation at multiple workshop sites, but population density remains low enough that absorptive capacity is not approached; waste loads are locally concentrated but regionally trivial.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease environment comparable to Late Shang; no epidemic signatures in the archaeological record; background mortality remains moderate, with elite longevity into the fifties documented in inscriptional genealogies.<br><br>
-__Nutrition & Physiological Vitality:__ Millet, wheat, and increasingly rice in southern regions provide the caloric base; animal husbandry supplements protein; elite skeletal remains continue to show robust stature; commoner nutrition is inferentially adequate given demographic stability.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny continues among elites, with principal and secondary wives distinguished in inscriptions; the zongfa patrilineal system structures inheritance through primary sons, channeling reproductive competition into lineage politics.<br><br>
-__Demographic Renewal & Density:__ Population expands through the Western Zhou as agricultural colonization extends into newly enfeoffed territories; the North China Plain supports several million; renewal rates appear positive but quantification is impossible.<br><br>
-__Attrition & Dependency Overhang:__ Human sacrifice declines sharply from Shang levels, reducing captive attrition; the dependency load of aged, young, and widowed is absorbed within the household and lineage system without documented strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural production on loess and alluvial soils sustains the subsistence floor; the fengjian system localizes provisioning responsibility to individual fiefs; margin against crop failure depends on local granary reserves.<br><br>
-__Energy Capture & Conversion:__ Human and animal labor remains the primary energy source; bronze tools and weapons represent the highest-intensity material production; charcoal firing for metallurgy continues at Shang levels or higher across dispersed production sites.<br><br>
-__Labor Organization & Coercion:__ Corvee obligations flow from commoners to lords and from lords to the king; bronze inscriptions document labor grants and transfers; artisan workshops operate under aristocratic patronage; slavery of war captives continues at reduced scale.<br><br>
-__Production & Surplus Capacity:__ Bronze production remains robust with longer and more elaborate vessel inscriptions indicating sustained investment; agricultural surplus supports the aristocratic and artisan classes across the realm; no evidence of output ceiling pressure.<br><br>
-__Storage, Reserves & Buffering:__ Granaries and bronze treasuries operate at the fief level; the Zhou king maintains central reserves but extraction from distant fiefs is increasingly nominal; buffering capacity fragments with political decentralization.<br><br>
-__Exchange, Trade & Logistics:__ Gift exchange among aristocrats documented in bronze inscriptions; cowrie shells continue as prestige goods; long-distance procurement of metals and luxury items operates through political rather than market channels.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Bronze vessels store lineage prestige and ritual capital; cowries mark value transfers documented in inscriptions; land grants create heritable wealth; credit and debt remain embedded in kinship obligation rather than formalized.<br><br>
-__Surplus Extraction & Redistribution:__ Tribute flows from enfeoffed lords to the Zhou king in cyclical ceremonial exchanges; the king redistributes through investiture ceremonies, bronze gifts, and land grants; extraction rates decline as fiefs consolidate autonomy.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrates in aristocratic lineages with tomb evidence showing variation among fiefs; bronze and jade holdings mark status; defensive architecture protects regional capitals as local power grows.<br><br>
-__Byproducts & Waste Routing:__ Metallurgical slag, ceramic debris, and organic waste accumulate at settlement sites; no evidence of waste becoming a system constraint; disposal is localized and absorptive capacity remains ample.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates through the zongfa lineage system and the covenant relationships among aristocratic houses; mutual aid extends through kinship networks and the ritual obligations binding lords to king.<br><br>
-__Stratification, Status & Group Identity:__ The fengjian hierarchy of king, enfeoffed lords, lower aristocrats, commoners, and slaves structures society; status is ascriptive, marked by bronze vessel entitlements and ritual privileges; lineage identity supersedes territorial identity.<br><br>
-__Kinship, Family & Inheritance:__ The zongfa system institutionalizes patrilineal descent with primogeniture; main and branch lineages maintain hierarchical relationships; ancestral temples anchor lineage continuity and property transmission across generations.<br><br>
-__Civic Association & Self-Organization:__ Lineage organizations dominate; craft guilds may exist within aristocratic workshops but are undocumented; no civic associations independent of kinship or lordship appear in the record.<br><br>
-__Leisure, Play & Sociability:__ Elite leisure includes hunting, archery, feasting, and music; the Book of Poetry preserves songs of aristocratic entertainment and courtship; bronze bells and chime-stones serve musical performance.<br><br>
-__Grievance Channels & Social Discharge:__ Bronze inscriptions document legal disputes adjudicated by royal or lordly authority; ritual and feasting discharge collective tension; grievances from lower strata have no documented channel.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The Zhou king holds nominal supreme authority as Son of Heaven, but effective power disperses to enfeoffed lords who govern territories increasingly as autonomous rulers; the trend is centrifugal throughout the window.<br><br>
-__Succession & Power Transfer:__ Royal succession follows primogeniture in principle but contested successions occur; lordly succession within fiefs stabilizes over time; the system routinizes transfer better than Shang but not without friction.<br><br>
-__Legitimacy & Political Narrative:__ The Mandate of Heaven doctrine justifies Zhou conquest and ongoing rule: Heaven grants the mandate to the virtuous and withdraws it from the corrupt, as happened to Shang. This narrative is the foundational innovation of Zhou political thought.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bronze inscriptions document appointments, land grants, and legal judgments, indicating systematic record-keeping; administrative reach extends through the feudal hierarchy; royal capacity declines as fiefs consolidate.<br><br>
-__Political Participation & Mobilization:__ Participation is limited to aristocratic assemblies and royal audiences; mobilization for war and corvee operates through the fengjian chain; no evidence of broader political voice for commoners.<br><br>
-__Geopolitical Position & External Relations:__ The Zhou realm dominates the North China Plain and the Wei valley; relations with Chu in the south and various non-Zhou peoples on the periphery range from tribute to conflict; the Quanrong on the northwest frontier become fatally threatening by 771 BCE.<br><br>
-__Coercive Apparatus & Means of Force:__ Bronze weapons, chariots, and the feudal military levy constitute the coercive apparatus; command fragments with political decentralization, as fiefs develop autonomous military capacity that will dominate the subsequent era.<br><br>
-__Internal Order & Threat Environment:__ Internal order is maintained through feudal hierarchy and lineage discipline; the threat environment is primarily external until the 771 BCE invasion, though succession disputes occasionally generate violence.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels through messenger networks, ceremonial visits, and bronze inscription circulation; velocity is limited to travel speed, with the royal court at the center of the communication network whose density thins with distance.<br><br>
-__Record, Storage & Persistence:__ Bronze inscriptions constitute the most durable record medium, surviving millennia; bamboo and silk documents presumably exist but do not survive archaeologically; inscriptions on dedicated vessels travel with the owning lineage, creating distributed archives.<br><br>
-__Framing, Censorship & Discourse Norms:__ Bronze inscriptions frame events as royally sanctioned transactions, recording appointments, grants, and legal victories; the format is commemorative and legitimizing, implicitly censoring alternative accounts by monopolizing the durable record.<br><br>
-__Reception, Attention & Amplification:__ The audience for bronze inscriptions is the commissioning lineage and its guests; public reading at ceremonies amplifies the message orally; literacy remains confined to specialists but the inscriptions' content reaches broader audiences through ritual performance.<br><br>
-__Signal Integrity & Noise Load:__ Bronze inscriptions maintain high signal integrity through the permanence of the medium; the information load is modest relative to channel capacity; no evidence of signal degradation or information overload.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice is conceived as alignment with the moral order that Heaven oversees; the Mandate of Heaven doctrine makes virtuous rule the foundation of legitimate authority; ritual propriety defines correct conduct.<br><br>
-__Law, Codification & Regulatory Evolution:__ No comprehensive law code survives, but bronze inscriptions document specific legal judgments, land boundary determinations, and dispute resolutions, indicating an operational if not codified legal order.<br><br>
-__Adjudication, Enforcement & Liability:__ The king and lords adjudicate disputes brought before them; bronze inscriptions record outcomes as binding precedents; enforcement operates through aristocratic authority and the threat of ritual and social sanction.<br><br>
-__Rights, Protections & Compliance Burden:__ Aristocrats hold customary rights to their fiefs and ritual privileges; commoners have no documented protected rights; compliance burden falls through the feudal hierarchy, with corvee and tribute as primary obligations.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity is limited by peer accountability and royal oversight, at least in theory; wrongs against commoners and slaves lack formal redress channels; the gap between owed and delivered justice is structurally large for lower strata.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ The reigning paradigm is ritual-cosmological: Heaven orders the moral universe, and human affairs must align with this order through proper ritual and virtuous conduct. This represents a shift from Shang divinatory empiricism toward Zhou moral theory.<br><br>
-__Applied Knowledge & Technical Method:__ Bronze metallurgy continues at high sophistication with longer inscriptions requiring advanced casting techniques; agricultural knowledge is adequate; the major technical innovation is expanded application of writing to legal and commemorative functions.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal training transmits literacy and ritual knowledge; the classical texts that will become the Confucian canon begin to take shape; technical skills pass through workshop apprenticeship; knowledge distribution remains narrow but the literate class expands.<br><br>
-__Obsolescence & Knowledge Decay:__ Shang divinatory practices continue but diminish in emphasis; bronze-casting knowledge transmits continuously; the shift from divination to commemoration represents paradigm evolution rather than knowledge loss.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The Zhou origin narrative centers on the virtuous founders Wen and Wu, whose moral superiority justified conquest of corrupt Shang; the Mandate of Heaven provides the mythic framework; ancestral memory remains central but is now moralized.<br><br>
-__Artistic Expression & Material Culture:__ Bronze vessels evolve toward longer inscriptions and new forms; the Book of Poetry preserves aristocratic literary culture; jade working continues; ritual music develops with bronze bells and chime-stones; aesthetic conventions remain formal and hierarchical.<br><br>
-__Collective Mood & Behavioral Disposition:__ The early Western Zhou shows confidence in the new order; later decades reveal increasing anxiety as royal authority weakens; the mood shifts from triumphant establishment toward defensive maintenance.<br><br>
-__Form Exhaustion & Meaning Decay:__ Bronze ritual forms remain vital throughout the window; the Mandate of Heaven concept retains force; no evidence of form exhaustion, though the feudal structure's hollowing by 771 BCE indicates institutional decay without cultural parallel.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Heaven replaces or subsumes the Shang supreme deity Di as the cosmic arbiter; the moral universe rewards virtue and punishes corruption; the outlook is neither fatalistic nor anxious but soberly moralistic, emphasizing human responsibility.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ancestral sacrifice continues as the core ritual complex; the king performs state sacrifices to Heaven and royal ancestors; bronze vessel dedications mark major rituals; divination continues but is subordinated to moral-ritual logic.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The royal cult remains institutionally central; aristocratic ancestral temples proliferate as fiefs consolidate; no separate priestly hierarchy develops; doctrinal authority rests with the king as ritual center, fragmenting as political authority fragments.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Zhou ritual forms spread with political expansion; Shang practices are absorbed rather than displaced; regional variation exists but the Zhou framework provides the common cosmological language across the realm.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the Mandate of Heaven doctrine provides a coherent cosmological framework that remains operative; spiritual needs are met within the ritual-moral system without documented residue of alienation or unmet transcendence.<br><br>
+# __1046 BCE – 771 BCE — Western Zhou and Bronze Inscription Culture__
+
+The binding constraint on Western Zhou society is the dispersal of literate record-keeping from royal monopoly to aristocratic households through bronze inscriptions commemorating investitures and land grants: script now serves to anchor political obligation across space and generations, but remains confined to a thin stratum of hereditary lords whose power rests on kinship ties to the Zhou royal house, leaving the vast majority of the population outside the written order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Zhou heartland lies in the Wei River valley (modern Shaanxi), with the primary capitals at Hao and Feng near modern Xi'an, and a secondary center at Chengzhou (Luoyang) to control the eastern plain; the realm extends from the Wei valley across the North China Plain to the Shandong peninsula and southward into the Yangtze region, creating a vast territory administered through enfeoffed lords rather than direct rule; the terrain varies from loess plateau to alluvial plain, with mountains and rivers dividing the realm into semi-autonomous zones.
+
+__Climate Regime & Volatility:__ The semi-arid continental climate of the north supports millet and wheat, while the wetter south permits rice cultivation; monsoon variability and occasional drought or flood stress the provisioning system; bronze inscriptions record royal concern with harvests, and climatic deterioration may contribute to the dynasty's eventual collapse.
+
+__Hazard Regime & Exposure:__ Yellow River flooding remains endemic; the western frontier faces pressure from nomadic and semi-nomadic peoples (Rong and Di), whose raids culminate in the sack of Hao in 771 BCE; earthquakes occur occasionally, and the inscriptional record notes portentous natural disasters.
+
+__Resource & Energy Endowment:__ Copper and tin continue to flow through tribute networks, sustaining bronze production; iron appears toward the end of the period but does not yet displace bronze for weapons or tools; timber, salt, and agricultural surplus support the elite economy; the metal supply remains a strategic dependency.
+
+__Waste Absorption & Sink Capacity:__ The diffuse settlement pattern and low population density relative to later periods keep waste loads within the landscape's absorptive capacity; the primary physical residue is the accumulation of bronze vessels in tombs and hoards, which preserve rather than degrade.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases persist without major epidemic disruption recorded in the bronze corpus; mortality rates are high by later standards, with warfare, childbirth, and infection as primary causes; the elite enjoy better health outcomes than commoners.
+
+__Nutrition & Physiological Vitality:__ Aristocratic households consume grain, meat, and alcohol in ceremonial profusion, as attested by the proliferation of bronze food and wine vessels; commoners subsist on millet and vegetables with occasional meat; nutritional stratification mirrors social hierarchy.
+
+__Care, Healing & Recovery Capacity:__ Healing remains primarily ritual, with shamanic and ancestral invocation; some botanical remedies are in use but leave little trace; no institutional medicine exists; recovery capacity is limited and unevenly distributed by status.
+
+__Reproductive Biology & Pairing Dynamics:__ Elite polygyny continues, with multiple wives and concubines producing numerous offspring; succession disputes are common among aristocratic houses; commoner family structure is presumably simpler but remains invisible in the record.
+
+__Demographic Renewal & Density:__ The Zhou realm's population grows gradually over the period, perhaps reaching five to ten million; the diffuse enfeoffment system spreads population across the territory; density remains low compared to later empires.
+
+__Attrition & Dependency Overhang:__ Warfare with frontier peoples and among feudatories depletes adult males; widows, orphans, and dependents accumulate within aristocratic households; the sacrificial economy moderates compared to Shang, reducing captive attrition.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agriculture centers on millet, wheat, and increasingly rice in the south; the well-field (jingtian) system, whether idealized or real, organizes peasant labor on noble lands; the provisioning floor is adequate in normal years but vulnerable to climatic shocks and the demands of military campaigns.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the primary energy sources; oxen draw plows and carts, horses pull chariots; fire serves metallurgy, cooking, and heating; no mechanical power beyond these exists.
+
+__Labor Organization & Coercion:__ A feudal-like system (fengjian) assigns peasants to noble lands, with corvée obligations for labor and military service; the degree of coercion varies by lord; slavery persists for captives and criminals but is less prominent than under Shang; craft production is organized within aristocratic households.
+
+__Production & Surplus Capacity:__ Bronze production continues at high volume, now dispersed among enfeoffed lords as well as the royal workshops; agricultural surplus supports a substantial aristocratic class and their retainers; the surplus margin is positive but constrained by the demands of ritual and warfare.
+
+__Storage, Reserves & Buffering:__ Granaries and bronze hoards serve as reserves; no credit instruments exist; buffering depends on stored grain and the ability to extract tribute; the decentralized structure weakens royal reserves relative to the combined holdings of lords.
+
+__Exchange, Trade & Logistics:__ Gift-exchange and tribute dominate elite transactions; cowrie shells and bronze remain stores of value; long-distance exchange brings jade, salt, and metals; market activity is minimal and not institutionally supported; logistics depend on cart, horse, and human porterage.
+
+__Value Storage, Credit & Deferred Exchange:__ Bronze vessels themselves serve as stores and symbols of value; no coined money exists; deferred exchange operates through reciprocal obligation among lords and between lords and king; the bronze inscription often records a grant that implies future loyalty.
+
+__Surplus Extraction & Redistribution:__ The king extracts tribute from enfeoffed lords, who in turn extract from peasants; redistribution flows as ritual gifts, feasting, and military support; the extraction rate is moderated by the lords' ability to resist and by the king's need to maintain their loyalty.
+
+__Wealth Distribution & Asset Defense:__ Wealth is concentrated in aristocratic lineages; bronze, jade, and land mark status; asset defense is primarily military and kinship-based; the enfeoffment system both distributes and protects aristocratic holdings.
+
+__Byproducts & Waste Routing:__ Waste from bronze production and habitation is discarded locally; no recycling is evident; the primary long-term residue is the bronze corpus itself, interred and occasionally looted across subsequent millennia.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The Zhou kinship system is patrilineal and strictly hierarchical; the royal house (Ji lineage) stands at the apex, with collateral branches enfeoffed as lords; zongfa (lineage law) regulates succession and inheritance, distinguishing main from cadet lines; ancestor worship reinforces lineage solidarity.
+
+__Association & Mutual Aid:__ Aristocratic households form the primary associational unit, incorporating retainers, craftsmen, and dependents; no guilds or voluntary associations exist; mutual aid operates within kinship and patron-client networks.
+
+__Leisure, Play & Sociability:__ Elite leisure includes hunting, feasting, music, and ritual; bronze inscriptions commemorate banquets at which the king bestows gifts on meritorious lords; archery contests and chariot displays reinforce martial values; commoner leisure is invisible in the record.
+
+__Stratification, Status & Group Structure:__ A rigid hierarchy separates king, lords, ministers, shi (lower aristocrats), commoners, and slaves; status is marked by bronze ritual sets, chariot ownership, and burial scale; the boundaries are hereditary and nearly impermeable.
+
+__Administrative Capacity & Institutional Integrity:__ The Zhou introduce a more elaborate apparatus than Shang, with named offices (taishi, situ, sima) for records, land, and military; bronze inscriptions record investiture ceremonies that formalize the relationship between king and lord; bureaucratic capacity remains limited, with administration depending on personal and kinship ties.
+
+__Coercive Apparatus & Means of Force:__ The Zhou military comprises chariot-borne aristocrats, infantry levies from noble households, and allied contingents; bronze weapons and armor are standard; the decentralized structure means that military power is distributed among lords, with the king commanding a primus inter pares force.
+
+__Discharge, Disorder & Decay:__ The decentralized system generates endemic friction among lords, with wars of succession and territorial disputes punctuating the period; the royal house gradually loses military and fiscal dominance; the sack of Hao in 771 BCE by a coalition of rebelling lords and Rong invaders marks the terminal collapse of Western Zhou central authority.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Bronze inscriptions reveal aristocratic pride in royal favor, lineage honor, and martial achievement; the Classic of Poetry (Shijing), compiled in this period, expresses a wider emotional range, including peasant complaint and longing; a sense of cosmic order and hierarchical propriety pervades elite sentiment.
+
+__Leadership & Personal Authority:__ The Zhou king claims the Mandate of Heaven (tianming), a new ideological justification for rule; effective kings (Wen, Wu, early rulers) command respect through military success and ritual propriety; weak kings lose authority to powerful lords and face rebellion.
+
+__Legitimacy as Lived Allegiance:__ The Mandate of Heaven doctrine holds that Heaven withdraws its favor from unworthy rulers, legitimating the Zhou overthrow of Shang and implicitly warning Zhou kings themselves; allegiance depends on the king's perceived virtue and efficacy; bronze inscriptions record oaths of loyalty, but the frequency of revolt suggests allegiance is conditional.
+
+__Political Will & Collective Resolve:__ The king's will is nominally supreme, but collective action requires the cooperation of enfeoffed lords; succession disputes and factional struggles fragment political will; the inability to mobilize unified defense in 771 BCE demonstrates the erosion of collective resolve.
+
+__External Relations & Posture:__ The Zhou maintain a posture of civilized superiority over surrounding peoples (Rong, Di, Yi, Man), but the frontier is porous and relations oscillate between warfare and accommodation; intermarriage with frontier elites blurs boundaries; the western Rong ultimately penetrate to the capital itself.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection accumulates among lords who resent royal demands or favor shown to rivals; the late Western Zhou kings face open rebellion; the relocation of the capital to Luoyang after 771 BCE marks the spent will of the royal house, which thereafter rules in name only.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The logographic script is now known to a broader elite, including the scribes and ritual specialists attached to aristocratic households; literacy remains restricted to perhaps a few percent of the population; the vast majority communicate orally, and writing serves ritual, commemorative, and administrative purposes.
+
+__Channels & Transmission Velocity:__ Information travels by messenger, chariot, and signal; the dispersed enfeoffment system creates communication challenges, with the king receiving delayed reports from distant lords; no postal system exists, and channel reliability varies with terrain and political stability.
+
+__Record, Storage & Persistence:__ Bronze inscriptions are the signature medium, cast into ritual vessels that commemorate investitures, land grants, legal settlements, and military achievements; the inscriptions are designed to endure, invoking future generations as witnesses; bamboo or wooden documents also exist but rarely survive; the archive is distributed across aristocratic tombs rather than centralized.
+
+__Framing, Censorship & Discourse Norms:__ Bronze inscriptions follow formulaic conventions: date, occasion, royal speech, recipient's response, and invocation of ancestors; the discourse is celebratory and legitimating, with no space for criticism or heterodox views; the Classic of Poetry preserves some vernacular and critical voices, but these are later anthologized rather than inscribed in bronze.
+
+__Reception, Attention & Amplification:__ The primary audience for bronze inscriptions is the ancestral spirits and future descendants of the patron; the inscription is read aloud at rituals and buried with the dead; amplification occurs through oral recitation and later anthology, as the Shijing and Shujing preserve selections.
+
+__Signal Integrity & Noise Load:__ The bronze medium is durable and resists corruption, but the inscriptions are brief and formulaic, carrying limited information; ambiguity arises in later interpretation of archaic graphs and ritual formulas; much of the documentary record is lost to looting, melting, and decay of non-bronze materials.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The moral order is hierarchical and ritual: duty flows according to kinship rank and feudal obligation; justice is the prerogative of lords and ultimately the king; the concept of de (virtue, moral power) emerges as a quality that justifies rule and commands allegiance.
+
+__Law, Codification & Regulatory Evolution:__ No comprehensive legal code exists; custom, royal decree, and inscribed covenants govern conduct; bronze inscriptions record land disputes and their resolutions, suggesting ad hoc adjudication rather than codified law; punishments remain severe.
+
+__Adjudication, Liability & Sanction:__ Lords adjudicate disputes within their domains; the king settles conflicts among lords; liability often extends to kin groups; sanctions include fines, mutilation, enslavement, and execution; no independent judiciary exists.
+
+__Rights, Protections & Compliance Burden:__ No concept of individual rights exists; protections depend on kinship and patronage; compliance burdens are heavy for commoners, who owe labor, military service, and a share of the harvest; lords owe tribute and loyalty to the king.
+
+__Impunity & Unredressed Wrong:__ Lords act with impunity within their domains; wrongs against commoners go unredressed unless they threaten order; the accumulation of grievance finds expression in the Shijing complaints but no institutional outlet; the overthrow of tyrannical kings is the ultimate (and rare) redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry remains ritual and divinatory, though oracle bone divination declines and milfoil (yarrow stalk) divination associated with the Yijing (Book of Changes) emerges; no philosophical or scientific investigation in the later sense exists; the explanatory paradigm centers on Heaven's will and ancestral influence.
+
+__Applied Knowledge & Technical Method:__ Bronze metallurgy continues at high sophistication; iron smelting begins tentatively toward the end of the period; agricultural techniques improve with iron tools (where available); chariot construction, architecture, and textile production demonstrate advanced craft knowledge.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmission occurs within aristocratic households through oral instruction and apprenticeship; the scribal class trains successors in script, ritual, and record-keeping; no schools exist, and literacy is a hereditary privilege; the knowledge stock is concentrated in elite lineages.
+
+__Obsolescence & Knowledge Decay:__ Earlier Shang divinatory techniques become obsolete; the script continues to evolve, rendering older forms difficult to read; knowledge is vulnerable to lineage extinction and political upheaval; the destruction of the western capitals results in significant loss.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Zhou identity centers on the conquest of Shang and the Mandate of Heaven that justified it; the founding kings (Wen and Wu) and the Duke of Zhou become archetypal figures of virtuous rule; ancestor worship continues as the core practice, now framed by the dynastic narrative.
+
+__Legitimating Narrative & Ideology:__ The Mandate of Heaven is the central legitimating doctrine: Heaven (Tian) bestows the right to rule on the virtuous and withdraws it from the corrupt; the Zhou claim moral superiority over the fallen Shang; this narrative is inscribed in bronze and recited in ritual.
+
+__Artistic Expression & Material Culture:__ Bronze vessels evolve from Shang exuberance toward more restrained, elegant forms; taotie motifs give way to simpler patterns and longer inscriptions; jade, lacquer, and silk continue as elite markers; architecture remains timber-framed and impermanent, but palatial scale is attested.
+
+__Form Exhaustion & Meaning Decay:__ By late Western Zhou, bronze vessel styles become highly standardized, and the inscriptions increasingly formulaic; the ritual forms remain potent, but the decay of royal authority hollows their political meaning; the Eastern Zhou will see both stylistic fragmentation and intellectual ferment.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is governed by Heaven (Tian), a depersonalized supreme power that replaces or subsumes the Shang high god Di; ancestral spirits retain importance but are subordinated to the Heavenly order; human fate depends on moral conduct as well as ritual propriety, introducing an ethical dimension absent from Shang thought.
+
+__Ritual, Devotion & Sacred Practice:__ Ancestral sacrifice remains central, performed at bronze-laden altars in lineage temples; the king sacrifices to Heaven at the winter solstice; milfoil divination supplements or replaces pyromancy; ritual calendars regulate the annual cycle of offerings and feasts.
+
+__Religious Institutions & Doctrinal Authority:__ The royal house monopolizes the highest rites (to Heaven), while lords perform ancestral rites within their domains; a scribal-ritual class (shi) maintains records and procedures; doctrine is implicit in ritual rather than codified; no independent priesthood exists.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Zhou religious ideas spread with political expansion, absorbing local cults and ancestor traditions; the Mandate of Heaven doctrine becomes normative across the elite; frontier peoples adopt or adapt Zhou practices through intermarriage and subordination.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is visible in the Western Zhou proper; the sacred remains potent and unquestioned; the residue is rather the incipient doubt that will emerge when the Mandate of Heaven is invoked against the Zhou themselves — a logic that, once articulated, makes all dynasties provisional and all cosmic favor conditional.

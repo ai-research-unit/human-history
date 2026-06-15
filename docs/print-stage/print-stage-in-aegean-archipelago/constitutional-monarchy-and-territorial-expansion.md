@@ -1,69 +1,139 @@
-# __1862 CE – 1881 CE__ — Constitutional Monarchy and Territorial Expansion
-__Summary:__ The deposition of Otto and accession of George I inaugurates constitutional parliamentary monarchy under the 1864 constitution, while territorial gains (Ionian Islands 1864, Thessaly 1881) realize incremental Megali Idea objectives and the telegraph integrates the Greek public sphere into European information networks; the binding constraint is the gap between expanding national aspirations and limited fiscal-military capacity, leaving thin margin against great-power pressure, with direction trending toward modernization, press expansion, and territorial consolidation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Core territory remains the southern peninsula and Aegean islands; Ionian Islands (1864) add western coast; Thessaly (1881) brings fertile northern plains; internal friction still high in mountainous core but lowland corridors improving; sea lanes remain primary arteries.<br><br>
-__Climate Regime & Volatility:__ Mediterranean regime stable; Thessaly adds continental influence with colder winters; interannual rainfall variability continues to affect harvests; no secular drift; volatility manageable with expanded agricultural base.<br><br>
-__Hazard Regime & Exposure:__ Seismic exposure remains elevated; Ionian Islands particularly vulnerable; infrastructure still weak against earthquake damage; no catastrophic events in window but margin thin; Thessaly floods occasionally.<br><br>
-__Resource & Energy Endowment:__ Thessaly adds significant grain-producing land; Ionian currant cultivation continues; lignite and marble deposits unchanged; timber still scarce; energy stock remains limited to traditional sources.<br><br>
-__Waste Absorption & Sink Capacity:__ Population growth and Athens expansion increase urban waste; absorptive capacity still ample given low industrial activity; no saturation; rural sinks unaffected.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria persists in wetlands; cholera outbreaks continue via maritime routes; sanitary improvements in Athens beginning but slow; mortality baseline declining marginally; life expectancy edging upward.<br><br>
-__Nutrition & Physiological Vitality:__ Thessaly grain improves food security; currant exports generate cash for imports; nutritional adequacy improving slightly; stature and robustness stable; drought vulnerability reduced.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage and fertility patterns stable; infant mortality declining slowly with improved provisioning; kinship-based pairing unchanged; no selective disruption.<br><br>
-__Demographic Renewal & Density:__ Population approaches 1.5 million by 1881 including new territories; growth rate accelerating; emigration continues but return migration also occurs; density increasing but not pressing ceiling.<br><br>
-__Attrition & Dependency Overhang:__ Independence-era dependency cohort aging out; no major war produces new casualties; dependency load normal; productive cohort adequate; no overhang crisis.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Thessaly agriculture strengthens grain supply; currant exports peak; subsistence margin widening; household vulnerability to harvest failure reduced; provisioning floor rising above bare survival.<br><br>
-__Energy Capture & Conversion:__ Muscle power still dominant; steam power arriving for shipping and nascent industry; Athens gasworks established; energy conversion efficiency improving marginally; per-capita work ceiling lifting slowly.<br><br>
-__Labor Organization & Coercion:__ Free labor predominates; wage work expanding in ports and Athens; seasonal agricultural labor in Thessaly; coercion minimal; labor markets developing.<br><br>
-__Production & Surplus Capacity:__ Currant boom drives export earnings; Thessaly grain reduces imports; small manufacturing in Athens; Piraeus port expanding; surplus capacity growing; output ceiling rising.<br><br>
-__Storage, Reserves & Buffering:__ Bank of Greece strengthens; merchant capital accumulating; state reserves still thin, dependent on customs and foreign loans; buffering improved but still vulnerable to revenue shocks.<br><br>
-__Exchange, Trade & Logistics:__ Piraeus displaces Syros as primary port; road construction expanding; Thessaly railway planned; telegraph (1859) accelerates commercial information; clearing velocity increasing; bottlenecks easing.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Drachma stabilizing; banking sector expanding; foreign loans fund infrastructure; credit more accessible to merchants; capital formation accelerating; diaspora investment continues.<br><br>
-__Surplus Extraction & Redistribution:__ Tax revenue rising with trade; customs remain primary source; military and administrative spending increasing; redistribution toward infrastructure; load on productive base moderate.<br><br>
-__Wealth Distribution & Asset Defense:__ Commercial bourgeoisie rising in Athens and Piraeus; land concentration in Thessaly creates new elite; diaspora capital returning; inequality widening; asset defense through banking and foreign holdings.<br><br>
-__Byproducts & Waste Routing:__ Urban waste increasing with Athens growth; industrial waste minimal; routing to local sinks adequate; no saturation pressure; effluent management rudimentary but sufficient.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Patronage networks persist; trust radius expanding slightly with national institutions; mutual aid through kin and village continues; diaspora ties strengthen urban-diaspora links; radius widening marginally.<br><br>
-__Stratification, Status & Group Identity:__ Bourgeoisie displacing traditional notables; professional class emerging (lawyers, doctors, teachers); Thessaly peasants enter as distinct stratum; ethnic Greeks from Ionian Islands integrate; boundaries fluid; mobility increasing.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal patterns stable; dowry practices continue; urban nuclear families emerging alongside rural extended households; inheritance rules unchanged; scaffold intact.<br><br>
-__Civic Association & Self-Organization:__ Professional associations forming; literary societies active; educational societies proliferate; press enables national associational imagination; fabric thickening in towns.<br><br>
-__Leisure, Play & Sociability:__ Coffeehouses multiply as political-social centers; theater in Athens; festivals continue; urban sociability diversifying; traditional bonds maintained in villages.<br><br>
-__Grievance Channels & Social Discharge:__ Parliamentary politics provide legitimate channel; press amplifies grievances; emigration continues as safety valve; brigandage declining with improved order; standing instability reduced.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy under George I; parliament holds legislative power; prime ministers rotate between factions; power distributed between crown, parliament, and party leaders; centralizing tendency balanced by parliamentary contest.<br><br>
-__Succession & Power Transfer:__ Danish dynasty established; hereditary succession clear; George I has heirs; transfer mechanisms constitutional and accepted; flashpoint eliminated; stability improved.<br><br>
-__Legitimacy & Political Narrative:__ Constitutional government more legitimate than Otto's absolutism; Megali Idea provides unifying national narrative; territorial gains boost regime legitimacy; belief in system strengthening.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy expanding; university-trained administrators entering service; tax collection improving; corruption persistent but manageable; institutional integrity consolidating; record-keeping reliable.<br><br>
-__Political Participation & Mobilization:__ 1864 constitution expands suffrage; male participation broad; political parties (Deligiannis, Koumoundouros factions) mobilize voters; newspapers as party organs; participation channels widening.<br><br>
-__Geopolitical Position & External Relations:__ Great-power protection continues; territorial gains (Ionian, Thessaly) achieved through diplomacy; Congress of Berlin (1878) grants Thessaly; Ottoman Empire weakening; Greek leverage increasing marginally.<br><br>
-__Coercive Apparatus & Means of Force:__ Army reorganizing with French advisors; navy expanding; gendarmerie strengthened; conscription introduced; fortifications improving; command centralizing under constitutional authority.<br><br>
-__Internal Order & Threat Environment:__ Brigandage declining with road-building and gendarmerie; political violence rare; no significant rebellion; disorder within enforcement capacity; margin adequate.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph network (from 1859) links Athens to Europe; postal service improving; newspapers proliferating; information velocity for elite circles approaches European standard; reach extending to literate provincial towns.<br><br>
-__Record, Storage & Persistence:__ State archives expanding; parliamentary records published; newspaper archives accumulating; university and school libraries growing; oral tradition persists in villages; official record robust.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press freedom broader under constitution; partisan framing intense but legal; Megali Idea frames national discourse; censorship light; permitted band widening; lively political debate.<br><br>
-__Reception, Attention & Amplification:__ Newspaper readership expanding with literacy; provincial papers emerge; coffeehouse reading circles amplify reach; attention on politics, territorial question, and foreign news; virality increasing with telegraph.<br><br>
-__Signal Integrity & Noise Load:__ Information volume rising; multiple competing papers provide cross-checking; partisan bias high but sources diversified; noise load manageable; verification through comparison possible.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor and kinship obligation persist; formal legal consciousness spreading in towns; justice increasingly conceived as constitutional right; traditional and modern notions coexisting.<br><br>
-__Law, Codification & Regulatory Evolution:__ Civil code revised; commercial law developing; regulatory framework for banking and corporations emerging; legal modernization continuing; customary law receding in towns.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system expanding; enforcement improving with gendarmerie; liability assignment more predictable; throughput increasing but backlog persists; rural areas still underserved.<br><br>
-__Rights, Protections & Compliance Burden:__ 1864 constitution guarantees rights; press freedom, assembly protected; compliance burden moderate; predictability improving; rule of law strengthening.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful still enjoy advantages; some wrongful outcomes; but impunity declining with stronger courts; redress deficit shrinking; justice gap narrowing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ European positivism and historicism influence intellectual life; archaeology professionalizing (Schliemann at Mycenae 1876); national historiography dominant; natural sciences developing at university; discovery frontier in archaeology and historical philology.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering techniques for infrastructure (roads, ports, telegraph); medical training improving; printing technology standard; agricultural methods still traditional but extension efforts beginning.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary education expanding; literacy rising toward twenty-five percent; gymnasium network grows; university graduates enter professions; knowledge stock accumulating; skill distribution widening but still unequal.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional craft knowledge stable; pre-independence administrative practices obsolete and discarded; no significant knowledge loss; obsolete theory clearing; stock growing.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Hellenic and Byzantine heritage reinforced; War of Independence mythology elaborated; territorial gains (Ionian, Thessaly) celebrated as destiny fulfilled; Megali Idea narrative strengthening; identity cohering.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical architecture continues in public buildings; Athenian School of painting develops; demotic poetry alongside formal verse; folk culture documented and romanticized; material culture bifurcation persisting but valued.<br><br>
-__Collective Mood & Behavioral Disposition:__ National confidence rising with territorial gains and constitutional progress; optimism about modernization; frustration at continued Ottoman control of desired territories; mood generally positive, aspirational.<br><br>
-__Form Exhaustion & Meaning Decay:__ Neoclassical forms still vital; national narrative fresh; religious forms intact in practice; no significant exhaustion; symbols mobilizing; meaning coherent and energizing.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodox Christian cosmology dominant; national destiny framed in providential terms; piety widespread; secularism limited to educated elite; existential outlook confident, oriented toward national fulfillment.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Liturgical calendar continues to structure life; church attendance high; pilgrimages, fasting, feast days observed; devotional infrastructure maintained; practice robust.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Autocephalous Church stable under state supervision; clergy education improving; institutional presence in villages strong; doctrinal authority unchallenged; hierarchy consolidated.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Orthodoxy unchallenged; no missionary pressure; folk-religious practices stable; Ionian Catholics integrated peacefully; reach unchanged; dominant position secure.<br><br>
-__Disenchantment & Sacred Discharge:__ Westernized intellectuals show secularizing drift; majority devout; transcendence intact; national cause absorbs some spiritual energy; disenchantment minimal; sacred need met.<br><br>
+# __1862 CE – 1881 CE — Constitutional Monarchy and Territorial Expansion__
+
+The binding constraint shifts from legitimacy deficit to fiscal incapacity as the new constitutional monarchy under George I stabilizes politically but cannot finance the modernization necessary to realize irredentist aspirations. Print accelerates the formation of a national public sphere, with newspapers multiplying and literacy rising, amplifying demands for territorial expansion while exposing the gap between rhetorical ambition and material means. The period sees genuine constitutional consolidation (the 1864 constitution, the Trikoupis principle of 1875), territorial acquisition (Ionian Islands 1864, Thessaly 1881), and infrastructural beginnings, yet chronic fiscal deficits, dependence on Great Power favor, and the persistent gap between the Greek state and the unredeemed Greek populations define the era.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The kingdom expands from 47,000 to approximately 63,000 square kilometers with the acquisition of the Ionian Islands (1864) and Thessaly (1881). Thessaly adds the Larissa plain, Greece's most productive agricultural land, but also a new defensive frontier against Ottoman Epirus and Macedonia. The Ionian Islands bring Corfu, Cephalonia, and Zakynthos—maritime populations with higher literacy and Western exposure. Internal friction remains high; mountain chains isolate valleys; roads few and poorly maintained. Athens-Piraeus connection improves; Piraeus harbor developed.
+
+__Climate Regime & Volatility:__ Mediterranean pattern continues; Thessaly's continental winters harsher than southern Greece. No climatic crisis of note, though localized droughts affect harvests intermittently.
+
+__Hazard Regime & Exposure:__ Seismic activity continues; earthquakes damage towns in the Ionian Islands (seismically active zone). No catastrophic event reshapes settlement.
+
+__Resource & Energy Endowment:__ Laurion silver-lead mines reactivated (1864) with French capital; Greece's first industrial enterprise. Thessaly adds arable land but no mineral wealth. Energy regime remains pre-industrial: muscle, wind, water. Currant vineyards expand in Peloponnese, responding to British demand.
+
+__Waste Absorption & Sink Capacity:__ Athens grows (40,000 to 85,000 by 1879); urban sanitation primitive but sinks not yet saturated. Laurion mining introduces localized pollution—slag heaps, smelter emissions—but scale remains modest.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria persists in lowlands; drainage projects discussed but not executed at scale. Cholera recurs (1865–1866). Infant mortality remains high; life expectancy modestly improving as post-war conditions stabilize.
+
+__Nutrition & Physiological Vitality:__ Agricultural expansion (Thessaly) improves food supply. Peasant diet stable; urban working class in Athens and Piraeus dependent on market provisions. No famine; nutritional gains incremental.
+
+__Care, Healing & Recovery Capacity:__ Medical training continues at University of Athens; physician numbers grow. Hospitals remain concentrated in Athens; provincial care sparse. Public health measures (quarantine, vaccination) sporadic.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns unchanged; high fertility continues. Dowry inflation reported as urban professional class expands.
+
+__Demographic Renewal & Density:__ Population rises from approximately 1.1 million (1861) to 2 million (1881, including Thessaly and Ionian Islands). Growth combines natural increase, territorial incorporation, and reduced emigration. Density remains low; Thessaly underpopulated relative to potential.
+
+__Attrition & Dependency Overhang:__ Post-war cohort ages; dependency burden absorbed within household system. No acute demographic crisis.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Thessaly's grain lands reduce import dependence; currant cultivation expands in Peloponnese. Peasant subsistence improving but land tenure disputes persist in newly acquired territories; large estates (tchifliks) concentrated among Ottoman-era landowners, some Greek, some Muslim.
+
+__Energy Capture & Conversion:__ First steam engines arrive for mining (Laurion) and limited textile manufacturing. Gas lighting reaches Athens (1862). Energy transition nascent; muscle power remains dominant.
+
+__Labor Organization & Coercion:__ Wage labor expands in Laurion mines, Piraeus docks, Athens construction. Peasant family labor persists in agriculture. No formal labor organizations; strikes occasional and suppressed. Thessaly's sharecroppers (kolligoi) in quasi-bondage to estate owners.
+
+__Production & Surplus Capacity:__ Currant exports boom; Greece supplies British market (used for wine fortification). Olive oil, wine, tobacco (less significant) exported. Laurion produces silver and lead for European markets. Surplus grows but remains dependent on single commodity (currants) vulnerable to price swings.
+
+__Storage, Reserves & Buffering:__ State finances improve slightly under George I but deficits chronic. Foreign loans (1862, 1879, 1881) finance infrastructure and military; debt service absorbs large share of revenue. No significant treasury reserve. Peasant and merchant reserves modest.
+
+__Exchange, Trade & Logistics:__ Piraeus expands as primary port; Syros declines. Currants shipped to Britain; imports of manufactures, grain, coal. Road construction accelerates; first railways (Athens-Piraeus 1869, Piraeus-Peloponnese line begun 1882). Corinth Canal proposed but not yet begun. Diaspora merchants (London, Marseille, Alexandria, Constantinople) dominate external trade.
+
+__Value Storage, Credit & Deferred Exchange:__ National Bank of Greece remains primary credit institution; commercial banking expands. Credit still scarce for peasants; usury continues. Drachma stable through period.
+
+__Surplus Extraction & Redistribution:__ Tax system remains inefficient; customs duties primary revenue. Land tax collection improved but still deficient. Expenditure on army, bureaucracy, and debt service; little investment in education or infrastructure beyond prestige projects. Fiscal room constrained by debt obligations.
+
+__Wealth Distribution & Asset Defense:__ Land concentration in Thessaly creates class tensions; large landowners resist reform. Urban bourgeoisie (merchants, professionals) strengthens. Wealth inequality probably rising. Asset defense through political connection and property registration (cadastre incomplete).
+
+__Byproducts & Waste Routing:__ Mining waste at Laurion accumulates locally. Urban refuse management informal. Financial waste in form of unproductive expenditure and corruption.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patterns stable; dowry competition intensifies among urban bourgeoisie. Extended household persists in rural areas; nuclear family more common in Athens.
+
+__Association & Mutual Aid:__ Professional associations (lawyers, doctors, merchants) form in Athens. Diaspora merchant networks extend mutual aid internationally. Philhellenic and patriotic societies organize. No labor unions yet; mutual aid through kinship and locality.
+
+__Leisure, Play & Sociability:__ Kafeneion culture intensifies; Athens cafes multiply. Press reading central to male sociability. Theater, promenades, clubs for elite. Festivals continue in provinces.
+
+__Stratification, Status & Group Structure:__ Four-tier structure: large landowners and major merchants; urban professionals and officials; small traders and artisans; peasants and laborers. Heterochthon-autochthon tension fades as native-born generation matures. Thessaly introduces sharp landlord-peasant divide absent in Old Greece. Status measured by education, political connection, and property.
+
+__Administrative Capacity & Institutional Integrity:__ Constitution of 1864 establishes single-chamber parliament (Vouli), expands franchise. Trikoupis principle (1875): government must command parliamentary majority—effective parliamentarism. Bureaucracy expands; patronage remains central to appointments. Administrative reach extends to Ionian Islands and Thessaly; integration gradual. Corruption persistent but capacity growing.
+
+__Coercive Apparatus & Means of Force:__ Army reorganized; French military mission provides advice. Navy acquires modern vessels (ironclads by 1880). Conscription introduced (1878)—universal male service nationalizes peasantry. Gendarmerie suppresses remaining brigandage; brigandage largely ends by 1870s. Apparatus adequate for internal order; untested against external enemy.
+
+__Discharge, Disorder & Decay:__ Brigandage suppressed; Dilessi massacre (1870)—bandits murder British diplomats—embarrasses Greece but prompts final crackdown. Political contestation channeled through elections, though electoral violence common. Irredentist agitation (Crete, Epirus, Macedonia) creates pressure but no major internal disorder. Friction discharged through emigration (beginning) and political competition.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ National confidence rises with constitutional government, territorial gains, and economic growth. Print intensifies nationalist fervor; Great Idea rhetoric pervasive. Public mood more optimistic than under Otho. Trust in institutions growing but personalism persists; loyalty to patrons rather than abstract state.
+
+__Leadership & Personal Authority:__ George I establishes stable monarchy; acceptance grows as he learns Greek, converts children to Orthodoxy, and reigns constitutionally. Politicians—Koumoundouros, Trikoupis, Deligiannis—command factional followings. Trikoupis emerges as modernizing reformer; personal authority tied to policy program rather than charisma alone.
+
+__Legitimacy as Lived Allegiance:__ Monarchical legitimacy consolidates; 1864 constitution popular. George I's neutrality among factions earns acceptance. Legitimacy conditional on Great Idea progress; territorial gains (Ionian Islands, Thessaly) reinforce. Cretan revolts (1866–1869, 1878) test whether state can protect unredeemed Greeks; failure to intervene strains legitimacy but not fatally.
+
+__Political Will & Collective Resolve:__ Will channeled into parliamentary politics; alternation between Trikoupis (modernization, fiscal prudence, infrastructure) and Deligiannis (populism, irredentism, deficit spending). Collective resolve insufficient for war (Congress of Berlin 1878 awards Thessaly without Greek military action). Will adequate for internal reforms.
+
+__External Relations & Posture:__ Greece maneuvers among Great Powers; Britain transfers Ionian Islands (1864) as dowry for George I. Congress of Berlin (1878) awards Thessaly after Russo-Turkish War—Greek acquisition through Great Power decision, not military action. Relations with Ottoman Empire tense but managed. Dependence on Great Power favor defines external posture.
+
+__Disaffection, Apathy & Spent Will:__ Educated youth less disaffected than under Otho; emigration to United States begins but remains modest. Political competition absorbs elite energy. Apathy in rural areas regarding national politics; local concerns dominate. Disaffection not acute.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Katharevousa remains official language; demotic divergence persists. Literacy rising: perhaps 25–30 percent by 1880, higher among males and urban populations. Ionian Islands bring population with higher literacy and exposure to Western print culture.
+
+__Channels & Transmission Velocity:__ Telegraph network expands; Athens connected to European system. Postal service improves. Newspapers multiply (dozens of titles in Athens); distribution by mail and coastal shipping. Diaspora papers (Constantinople, Smyrna, Alexandria) circulate.
+
+__Record, Storage & Persistence:__ State archives expand; cadastral surveys attempted. National Library grows. Print production increases; books, pamphlets, newspapers accumulate. Memory still substantially oral in rural areas.
+
+__Framing, Censorship & Discourse Norms:__ Press freedom expanded under 1864 constitution but libel laws used against critics. Newspapers partisan, often subsidized by politicians or diaspora interests. Great Idea frames public discourse; territorial irredentism normalized. Language debate (katharevousa vs. demotic) contained but visible.
+
+__Reception, Attention & Amplification:__ Kafeneion remains primary site of newspaper reception; oral relay extends reach. Circulation grows—major papers reach thousands. Diaspora readership significant; print connects scattered Greek populations.
+
+__Signal Integrity & Noise Load:__ Partisan bias high; no neutral press. Rumor and exaggeration common, especially regarding unredeemed Greeks' suffering. Verification informal; credibility tied to patron reputation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Orthodox morality and honor culture persist. National self-determination remains the supreme moral claim; Great Idea morally imperative. Emerging liberal discourse (individual rights, rule of law) among educated urban class.
+
+__Law, Codification & Regulatory Evolution:__ Legal codes revised; commercial law updated for economic modernization. Thessaly's integration requires adjusting land law. Ionian Islands retain distinct legal traditions initially. Codification continues; gaps between law and practice persist.
+
+__Adjudication, Liability & Sanction:__ Judicial system expands; courts established in new territories. Justice remains slow and patronage-susceptible. Military justice for brigands; civil courts for commercial disputes.
+
+__Rights, Protections & Compliance Burden:__ 1864 constitution strengthens rights guarantees; press freedom, assembly, property protected. Religious minorities (Muslims in Thessaly, Jews, Catholics) legally tolerated but socially marginalized. Compliance burden moderate.
+
+__Impunity & Unredressed Wrong:__ Dilessi murders highlight brigand impunity until international pressure forces crackdown. Elite impunity continues; powerful escape sanction. Land disputes in Thessaly create lasting grievance among dispossessed.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ University of Athens produces graduates exceeding employment opportunities; law and medicine dominant. Classical philology and archaeology flourish—Heinrich Schliemann excavates Troy (1870s), Mycenae (1876), inspiring Greek national archaeology. Scientific inquiry imitative of European models.
+
+__Applied Knowledge & Technical Method:__ Mining engineers (Laurion), railway engineers (imported and trained) introduce technical method. Agricultural technique traditional; no modernization program. Medical practice improving; public health rudimentary.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary school expansion continues unevenly; rural coverage incomplete. Gymnasia train urban elite. University overproduces graduates; educated unemployment feeds political radicalism and emigration. Literacy rising but skill distribution skewed.
+
+__Obsolescence & Knowledge Decay:__ Traditional crafts persist alongside imported techniques. Ottoman-era administrative knowledge (Turkish, Arabic) obsolete; older generation's skills fade.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ National identity consolidates: Hellenic antiquity, Byzantine Christianity, revolutionary heroism. Schliemann's discoveries reinforce continuity narrative. War of Independence heroes institutionalized in monuments, holidays, school curricula. Ionian Islands bring Venetian-inflected culture; integration gradual.
+
+__Legitimating Narrative & Ideology:__ Great Idea intensifies; each territorial gain proves the narrative's validity. Maps showing "unredeemed" territories published; schools teach expanded Greece as destiny. Legitimating narrative demands perpetual expansion; present state always incomplete.
+
+__Artistic Expression & Material Culture:__ Neoclassical building continues; National Library, Academy designed. European academic painting depicts historical and mythological subjects. Folk culture persists in provinces. Urban dress European; rural costume regional. Emerging bourgeois material culture—furniture, fashion, domestic objects—imitates Western models.
+
+__Form Exhaustion & Meaning Decay:__ National symbols remain vital; no exhaustion. Great Idea narrative energizes rather than tires. Neoclassicism loses some creative force; emerging interest in Byzantine heritage as alternative source.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Orthodox Christian cosmology prevails; providential nationalism persists. Greece's mission divinely ordained. Educated elite absorbs European rationalism but maintains public Orthodoxy.
+
+__Ritual, Devotion & Sacred Practice:__ Liturgical observance continues; festivals structure rural life. Urban observance variable; educated classes less devout but conformist. Rites of passage universal.
+
+__Religious Institutions & Doctrinal Authority:__ Church of Greece remains state-controlled; clergy salaried. Theological faculty at University trains clergy. Church conservative, royalist, supportive of national ideology. No reform movement or significant dissent.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Orthodox-national identity coextensive; boundaries rigid. Muslim population of Thessaly marginalized; some emigrate to Ottoman territory. Jewish communities (small) maintain separate identity. No proselytization; no syncretism.
+
+__Disenchantment & Sacred Discharge:__ No significant secularization among general population. Educated elite privately skeptical but publicly observant. Anticlericalism muted. Sacred order intact; nationalism and Orthodoxy mutually reinforcing rather than competing.

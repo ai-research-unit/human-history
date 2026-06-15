@@ -1,69 +1,139 @@
-# __2012 CE – 2017 CE__ — Post-Protest Control and RuNet Consolidation
-__Summary:__ Following mass protests against Putin's 2012 return to the presidency, Russian authorities systematically tightened control over the domestic internet (RuNet), transitioning from tolerance to regulation and surveillance. The binding constraint is state capacity to impose compliance on platforms and users without severing the economic benefits of connectivity. Margin against opposition mobilization narrows sharply as legal tools multiply; the direction is toward consolidation of a state-aligned digital ecosystem.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The East European Plain's vast distances make physical assembly costly, amplifying digital networks as the low-friction alternative for coordination and dissent across eleven time zones.<br><br>
-__Climate Regime & Volatility:__ Continental climate unchanged; seasonal extremes push social and political activity toward indoor and online spaces during long winters, reinforcing digital salience.<br><br>
-__Hazard Regime & Exposure:__ No major environmental shocks during the window; infrastructure expansion proceeds without acute hazard disruption.<br><br>
-__Resource & Energy Endowment:__ Hydrocarbon revenues fund state budgets and digital infrastructure investment; oil price collapse (2014–2016) strains fiscal capacity but does not halt IT expansion.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste and data-center heat load accumulate in urban peripheries; absorptive capacity unstressed relative to production scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Baseline mortality stable; HIV and tuberculosis endemic in certain regions but not acutely disruptive to the digital-active urban population.<br><br>
-__Nutrition & Physiological Vitality:__ Urban populations adequately nourished; rural periphery somewhat lower but not critically so; no direct constraint on digital participation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Low fertility persists; digital sociability reshapes courtship but does not alter underlying reproductive rates.<br><br>
-__Demographic Renewal & Density:__ Population stagnant with slight decline; working-age cohort shrinking modestly, though digital workforce remains adequate.<br><br>
-__Attrition & Dependency Overhang:__ Aging population raises pension burden; no acute digital-sector impact but constrains long-term fiscal flexibility for state IT investment.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning secure for most; 2014–2016 ruble devaluation and sanctions raise import costs but do not breach subsistence.<br><br>
-__Energy Capture & Conversion:__ Electrical grid supports expanding data-center and mobile-network loads; per-capita energy consumption adequate for digital infrastructure growth.<br><br>
-__Labor Organization & Coercion:__ IT labor market wage-based; talent concentrated in Moscow, St. Petersburg, and emerging hubs; state pressure on platform owners shifts managerial compliance but not labor form.<br><br>
-__Production & Surplus Capacity:__ Domestic platform development (VKontakte, Yandex) generates surplus; international sanctions begin redirecting investment toward import substitution.<br><br>
-__Storage, Reserves & Buffering:__ Reserve Fund cushions 2014–2016 oil shock; foreign-exchange buffers adequate to sustain state digital initiatives despite revenue volatility.<br><br>
-__Exchange, Trade & Logistics:__ Digital services integrated into global payment rails until Crimean sanctions introduce friction; cross-border data flows face new localization mandates.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Ruble devaluation (2014) erodes purchasing power; capital flight and Western credit restrictions tighten domestic financing conditions for tech ventures.<br><br>
-__Surplus Extraction & Redistribution:__ State extracts hydrocarbon rents to fund surveillance and compliance infrastructure; redistribution favors security apparatus over social spending.<br><br>
-__Wealth Distribution & Asset Defense:__ Oligarch realignment post-2012 concentrates media and platform ownership among state-aligned actors; Durov's VKontakte shares forcibly transferred.<br><br>
-__Byproducts & Waste Routing:__ Data-center and hardware waste routed to landfills; recycling negligible; load well within sink capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Generalized trust low; 2011–2012 protests briefly widen solidarity radius among urban professionals before state counter-mobilization contracts it again.<br><br>
-__Stratification, Status & Group Identity:__ Urban-educated digital class diverges from provincial loyalist base; ethnic minorities and regional identities interact unevenly with Russian-language RuNet.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear-family norms stable; inheritance rules unchanged; digital assets not yet legally codified for succession.<br><br>
-__Civic Association & Self-Organization:__ NGO foreign-agent law (2012) and undesirable-organizations law (2015) thin associational fabric; online communities partially compensate but face surveillance.<br><br>
-__Leisure, Play & Sociability:__ Social-media use surges; VKontakte and Odnoklassniki dominate leisure-time sociability; meme culture and viral video consumption rise.<br><br>
-__Grievance Channels & Social Discharge:__ Street protest repressed; online venting partially absorbs frustration but state monitoring chills open expression, leaving grievance to accumulate latently.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Putin's 2012 return consolidates presidential verticality; power centralizes further; regional autonomy erodes.<br><br>
-__Succession & Power Transfer:__ Succession question deferred; Medvedev interlude ends; no institutionalized mechanism, heightening long-term instability risk.<br><br>
-__Legitimacy & Political Narrative:__ Regime legitimacy rests on stability, sovereignty, and anti-Western framing; 2014 Crimea annexation boosts approval temporarily.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Roskomnadzor gains blocking authority; bureaucratic capacity to enforce compliance grows but remains uneven technically.<br><br>
-__Political Participation & Mobilization:__ Opposition channels close; Navalny's anti-corruption videos gain traction online but electoral participation is stage-managed.<br><br>
-__Geopolitical Position & External Relations:__ Crimea annexation (2014) triggers Western sanctions; relations with Europe and US deteriorate sharply; pivot toward China begins.<br><br>
-__Coercive Apparatus & Means of Force:__ FSB cyber units expand; National Guard (Rosgvardiya) created 2016 to suppress internal unrest; coercive reach extends into digital space.<br><br>
-__Internal Order & Threat Environment:__ Protest suppression largely effective; terrorism sporadic; crime rates stable; internal order maintained through surveillance and selective prosecution.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mobile broadband expands rapidly; 4G rollout increases reach; social-media virality accelerates news cycles.<br><br>
-__Record, Storage & Persistence:__ Data-localization law (2015) mandates domestic storage; compliance uneven; foreign platforms resist, creating legal friction.<br><br>
-__Framing, Censorship & Discourse Norms:__ Blogger Law (2014) requires registration for popular accounts; blacklists expand; Roskomnadzor blocks sites without court orders under new statutes.<br><br>
-__Reception, Attention & Amplification:__ State-aligned media dominate television; online audiences fragment; algorithmic amplification favors sensational and oppositional content until platform adjustments.<br><br>
-__Signal Integrity & Noise Load:__ State-sponsored disinformation ("troll farms") begins scaling; signal-to-noise ratio deteriorates as coordinated inauthenticity enters domestic and foreign discourse.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public acceptance of selective enforcement coexists with latent resentment; "legal nihilism" persists alongside nominal rule-of-law rhetoric.<br><br>
-__Law, Codification & Regulatory Evolution:__ Internet-regulation statutes proliferate: anti-extremism amendments, data-localization, blogger registration; legal uncertainty rises for platforms.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts defer to executive on politically sensitive cases; platform liability unclear; enforcement discretionary and politicized.<br><br>
-__Rights, Protections & Compliance Burden:__ Privacy rights nominal; compliance burden on platforms rises; user rights subordinated to state-security framing.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity for state actors high; opposition figures prosecuted selectively; judicial redress for censorship or surveillance effectively unavailable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ STEM education remains strong; cybersecurity and AI research expand; brain drain to West begins as political climate tightens.<br><br>
-__Applied Knowledge & Technical Method:__ Domestic platforms demonstrate competitive engineering; facial recognition and surveillance tech developed or imported; applied capacity sufficient.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ IT literacy high in urban centers; digital skills uneven across regions; university output supplies tech sector.<br><br>
-__Obsolescence & Knowledge Decay:__ Legacy infrastructure persists in state systems; modernization uneven; some skill attrition as talent emigrates.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Great Patriotic War memory central; Crimea annexation reframes imperial nostalgia as defensive sovereignty; online memes propagate state narratives.<br><br>
-__Artistic Expression & Material Culture:__ Digital art and viral video flourish; state funding favors patriotic productions; independent cultural expression migrates online under pressure.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-Crimea euphoria (2014–2015) fades into resignation; urban opposition mood darkens as avenues close; provincial mood stable or indifferent.<br><br>
-__Form Exhaustion & Meaning Decay:__ Soviet-era symbols recycled with diminishing resonance among youth; official patriotism risks hollowing into ritual compliance without conviction.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodox revival promoted by state; secular and consumerist orientations coexist; fatalism and passivity widespread.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance modest but holidays observed; online Orthodoxy grows; state amplifies religious symbolism for legitimacy.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Russian Orthodox Church aligned with Kremlin; Patriarch Kirill endorses state narratives; institutional power expands into education and public life.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestant and Muslim minorities face pressure; "non-traditional" religions restricted; Orthodox dominance consolidated.<br><br>
-__Disenchantment & Sacred Discharge:__ Urban secular population experiences spiritual void partially filled by consumerism, nationalism, or online communities; disenchantment accumulates quietly.<br><br>
+# __2012 CE – 2017 CE — Post-Protest Control and RuNet Consolidation__
+
+__Summary:__ The Russian state, shaken by the 2011–2012 protest wave that demonstrated digital mobilization's potential to challenge authority, systematically constructs legal, technical, and ownership mechanisms to bring the Russian-language internet under control, transforming domestic platforms from spaces of relative openness into instruments of surveillance and narrative management while maintaining the appearance of a functioning commercial internet ecosystem.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East European Plain's vast expanse creates uneven digital infrastructure distribution, with Moscow and St. Petersburg serving as concentrated nodes of platform headquarters, data centers, and technical talent, while provincial Russia depends on longer transmission paths and less redundant connectivity, making the internet's physical layer easier to regulate at chokepoints.
+
+__Climate Regime & Volatility:__ The continental climate imposes no direct constraint on digital operations; data centers operate year-round with standard cooling requirements, and the physical substrate of the internet remains climate-insensitive during this window.
+
+__Hazard Regime & Exposure:__ No significant natural hazards disrupt digital infrastructure during the period; the primary threats are political rather than geological, and redundancy in backbone networks proves adequate against localized failures.
+
+__Resource & Energy Endowment:__ Russia's hydrocarbon wealth funds state digital initiatives and provides reliable electricity for expanding data center capacity; energy abundance removes power constraints as a limiting factor for surveillance infrastructure buildout.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from rapid device turnover accumulates without systematic processing; data center thermal loads add marginally to urban heat islands, but the environmental residue of digitization remains unaddressed rather than pressing.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Russia's epidemiological profile shows elevated cardiovascular mortality and declining male life expectancy; HIV rates rise in injection-drug-using populations while digital health monitoring remains nascent, the disease burden disconnected from the information infrastructure being contested.
+
+__Nutrition & Physiological Vitality:__ Urban populations maintain adequate nutrition despite post-2014 sanctions disrupting some food imports; the biological substrate of the internet-using population remains stable, with smartphone usage correlating to urban, relatively healthy demographics.
+
+__Care, Healing & Recovery Capacity:__ Healthcare digitization proceeds unevenly; medical records remain largely paper-based outside major centers, and the state's digital ambitions do not yet extend systematically to health infrastructure.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating apps and social media reshape urban courtship patterns; VKontakte functions as a social discovery platform, and digital mediation of pairing enters mainstream Russian practice among younger cohorts.
+
+__Demographic Renewal & Density:__ Russia's population stabilizes around 144 million after decades of decline; emigration of tech workers begins as political pressure intensifies post-2014, creating a modest brain drain in the sector most capable of building or circumventing control infrastructure.
+
+__Attrition & Dependency Overhang:__ An aging population increases dependency ratios, but this demographic overhang operates independently of digital contestation; the pension burden weighs on state finances without directly shaping internet policy.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Post-2014 sanctions and ruble devaluation compress living standards; middle-class consumption contracts while basic provisioning remains adequate, and digital commerce (Yandex.Market, emerging delivery services) begins substituting for physical retail in major cities.
+
+__Energy Capture & Conversion:__ Hydrocarbon export revenues fund state operations including digital surveillance infrastructure; the energy-to-governance conversion runs through petrodollar windfalls that finance both SORM expansion and platform pressure campaigns.
+
+__Labor Organization & Coercion:__ The tech sector operates on market wage labor with high mobility; programmers command premium salaries, and the state cannot directly conscript technical talent, instead relying on ownership pressure and legal coercion against platforms themselves.
+
+__Production & Surplus Capacity:__ Russia's digital economy remains small relative to GDP but grows rapidly; domestic platforms generate advertising revenue while Yandex diversifies into services, and surplus extraction runs through normal taxation rather than direct state appropriation.
+
+__Storage, Reserves & Buffering:__ State reserves accumulated from oil revenues provide fiscal capacity to weather sanctions; the National Welfare Fund buffers economic shocks, and platform companies maintain private reserves adequate for operations but insufficient to resist state pressure.
+
+__Exchange, Trade & Logistics:__ Digital platforms intermediate increasing shares of consumer commerce; Yandex.Taxi and delivery services expand, creating new economic dependencies on platform infrastructure the state seeks to control.
+
+__Value Storage, Credit & Deferred Exchange:__ Digital payment systems (Yandex.Money, Qiwi) grow but remain subordinate to cash and bank transfers; cryptocurrency emerges as a marginal phenomenon, not yet a significant circumvention mechanism.
+
+__Surplus Extraction & Redistribution:__ Tax collection digitizes incrementally; the state extracts normally from platform revenues while the real extraction occurs through forced ownership transfers—Durov's departure and VK's sale to state-aligned Mail.ru Group represents value transfer without formal taxation.
+
+__Wealth Distribution & Asset Defense:__ Tech wealth concentrates among founders and early investors; oligarchic patterns emerge in platform ownership, and the state's ability to pressure asset transfers demonstrates the limited defensibility of digital property against sovereign power.
+
+__Byproducts & Waste Routing:__ Server farms generate electronic waste and heat; advertising-funded models produce attention-capture externalities, but the primary residue is informational—surveillance data accumulated in SORM systems and platform databases.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Digital platforms reshape family communication; grandparents join Odnoklassniki while younger generations use VKontakte, creating generational platform stratification, and inheritance of digital assets remains legally undefined.
+
+__Association & Mutual Aid:__ Online communities proliferate—hobbyist groups, professional networks, neighborhood forums—while the state monitors associational patterns for opposition coordination; civil society organizations face "foreign agent" designation that restricts their digital operations.
+
+__Leisure, Play & Sociability:__ Social media becomes the primary leisure medium for urban youth; VKontakte's music piracy ecosystem provides entertainment, gaming communities organize through platforms, and digital sociability increasingly substitutes for physical gathering.
+
+__Stratification, Status & Group Structure:__ Digital literacy creates new status gradients; platform follower counts become social capital, influencer culture emerges, and the distinction between those who can navigate VPNs and those who cannot begins to mark a significant social boundary.
+
+__Administrative Capacity & Institutional Integrity:__ Roskomnadzor expands as the digital regulator, gaining authority to block websites, fine platforms, and demand data; its technical capacity initially lags its legal authority, creating implementation gaps that allow circumvention.
+
+__Coercive Apparatus & Means of Force:__ SORM (System for Operative Investigative Activities) mandates surveillance backdoors for all ISPs; FSB gains warrantless access to communications metadata, and the legal framework for digital coercion consolidates through foreign agent laws and extremism statutes.
+
+__Discharge, Disorder & Decay:__ Opposition coordination migrates from public platforms to encrypted messaging as visible dissent becomes dangerous; the 2011–2012 protest energy dissipates into atomized discontent, and the social fabric of opposition fractures under sustained pressure while the apparatus of control ossifies into normalized authoritarianism.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-Crimea nationalist euphoria (2014–2015) provides legitimacy surge that the state exploits to accelerate internet control; public mood swings from protest anger to patriotic consolidation, and surveillance expansion meets diminished resistance amid the nationalist wave.
+
+__Leadership & Personal Authority:__ Putin's return to the presidency (2012) concentrates authority; his personal approval ratings surge post-Crimea, and the leadership cult extends into digital space through state-aligned media and coordinated online campaigns.
+
+__Legitimacy as Lived Allegiance:__ The Crimean annexation temporarily resolves the legitimacy crisis the protests exposed; "rally around the flag" effects provide political cover for repressive measures framed as defense against Western information warfare.
+
+__Political Will & Collective Resolve:__ The state demonstrates sustained will to control digital space through consecutive legislative actions—foreign agent laws (2012), blogger registration (2014), data localization requirements (2015)—each building on the last in cumulative restriction.
+
+__External Relations & Posture:__ Confrontation with the West post-Crimea reframes internet control as sovereignty protection; Russian information operations abroad (2016 US election interference) demonstrate offensive capability while justifying defensive measures at home.
+
+__Disaffection, Apathy & Spent Will:__ The protest generation retreats into private life or emigration; activist burnout spreads as legal risks mount, and the oppositional will that animated 2011–2012 disperses into cynical accommodation or exile, leaving residual disaffection that finds no organizational outlet.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Russian-language internet (RuNet) reaches approximately 70% of the population by 2017; smartphone penetration rises rapidly, and the shared code of digital communication becomes nearly universal among working-age urbanites.
+
+__Channels & Transmission Velocity:__ VKontakte dominates social distribution; Telegram emerges post-2013 as an alternative channel, and information velocity accelerates while the state develops filtering capabilities that cannot yet match transmission speed.
+
+__Record, Storage & Persistence:__ SORM-3 mandates three-year retention of all communications metadata; platform databases accumulate behavioral records, and the surveillance archive grows faster than analytical capacity to process it.
+
+__Framing, Censorship & Discourse Norms:__ Website blocking expands from child protection justifications to political content; the "Yarovaya laws" (2016) require message decryption, and the permitted discourse band narrows through legal pressure rather than technical filtering.
+
+__Reception, Attention & Amplification:__ State media (RT, Sputnik) and aligned influencers compete for attention; coordinated amplification campaigns emerge from the Internet Research Agency, and information warfare techniques developed for foreign operations apply domestically.
+
+__Signal Integrity & Noise Load:__ Deliberate disinformation floods contested topics; troll farms generate noise that degrades signal quality, and verification capacity lags information volume, leaving audiences unable to distinguish authentic from manufactured content.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Post-Soviet moral pluralism gives way to state-promoted "traditional values" discourse; the regime frames internet control as protecting Russian civilization from Western degeneracy, and moral language serves political control.
+
+__Law, Codification & Regulatory Evolution:__ The legal framework for internet control densifies—foreign agent designations, extremism definitions, blogger registration requirements, data localization mandates—each law enabling the next in cumulative restriction.
+
+__Adjudication, Liability & Sanction:__ Courts rubber-stamp Roskomnadzor blocking orders; platforms face escalating fines for non-compliance, and the adjudication system provides legal cover for politically motivated restrictions without meaningful review.
+
+__Rights, Protections & Compliance Burden:__ Constitutional speech protections erode in practice; compliance costs for platforms rise steeply, and individual users face prosecution under broadly defined extremism statutes for social media posts.
+
+__Impunity & Unredressed Wrong:__ State actors operate without accountability; wrongful prosecutions accumulate without remedy, and the gap between formal rights and actual protection widens into systematic impunity for the regime's digital coercion.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Russian information security doctrine frames the internet as a domain of hybrid warfare; academic inquiry subordinates to state security frameworks, and the theoretical paradigm shifts from openness to sovereignty.
+
+__Applied Knowledge & Technical Method:__ SORM implementation requires technical capacity that Russian firms provide; deep packet inspection deployment begins, and surveillance engineering becomes a growth sector while circumvention techniques (VPNs, Tor) spread among sophisticated users.
+
+__Education, Knowledge Stock & Skill Distribution:__ Technical education produces capable programmers who emigrate or work for state-aligned firms; the skill base for both surveillance and circumvention exists domestically, and the contest becomes one of organizational will rather than technical capacity.
+
+__Obsolescence & Knowledge Decay:__ Early internet optimism becomes obsolete as the control paradigm consolidates; the belief that networked communication inherently democratizes decays into recognition that infrastructure can serve authoritarian ends.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ State-promoted narratives emphasize Russian distinctiveness and Western hostility; Victory Day and Orthodox Christianity anchor identity claims, and digital platforms become battlegrounds for historical memory.
+
+__Legitimating Narrative & Ideology:__ "Sovereign democracy" evolves into "information sovereignty"; the regime frames internet control as defending Russian civilization, and Western platforms become coded as threats rather than services.
+
+__Artistic Expression & Material Culture:__ Digital aesthetics split between Western-influenced youth culture and state-promoted traditionalism; meme culture flourishes on VKontakte while patriotic content receives algorithmic and financial support.
+
+__Form Exhaustion & Meaning Decay:__ Soviet-era symbols reactivate for nationalist mobilization while liberal discourse exhausts itself against sustained repression; the opposition's symbolic vocabulary fails to renew, leaving protest culture depleted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Orthodox Christianity gains state promotion as civilizational anchor; secular-liberal worldviews retreat under pressure, and the cosmic frame increasingly opposes Russian spirituality against Western materialism.
+
+__Ritual, Devotion & Sacred Practice:__ Digital Orthodoxy emerges—church websites, online prayer requests, clergy social media presence—while the sacred and the national merge in state-promoted synthesis.
+
+__Religious Institutions & Doctrinal Authority:__ The Moscow Patriarchate aligns with state digital policy; the church supports "traditional values" legislation that restricts online content, and institutional religion reinforces rather than checks state power.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ State-Orthodox synthesis displaces both secular liberalism and religious pluralism; Protestant and new religious movements face restriction, and the spiritual field consolidates around regime-compatible Orthodoxy.
+
+__Disenchantment & Sacred Discharge:__ The protest generation's democratic faith exhausts itself; no transcendent alternative emerges to fill the void, and the residue settles as cynical accommodation—participation in controlled digital spaces without belief in their legitimacy, the sacred dimension of political hope gone cold.

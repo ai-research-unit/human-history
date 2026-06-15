@@ -1,69 +1,139 @@
-# __1905 CE – 1914 CE__ — 1905 Revolution and Constitutional Experiment
-__Summary:__ Military defeat in the Russo-Japanese War triggers the 1905 Revolution — Bloody Sunday, general strikes, peasant risings, and the October Manifesto that concedes civil liberties and an elected Duma — inaugurating a decade of constitutional experiment in which legal political parties, an uncensored press, and parliamentary debate operate for the first time in Russian history; yet the autocracy retains ultimate power, Stolypin combines agrarian reform with harsh repression, and the fundamental laws of 1906 limit the Duma's authority; the binding constraint is the irreconcilable tension between constitutional forms and autocratic substance; the system stabilizes precariously but holds no margin against the external shock that arrives in 1914, and the direction of change is toward superficial normalization masking unresolved structural contradictions.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Railway network now dense in European Russia, connecting grain regions to ports and industrial centers; the Trans-Siberian complete to Vladivostok; spatial friction dramatically reduced for state, commerce, and troop movement, though rural roads remain poor.<br><br>
-__Climate Regime & Volatility:__ Continental climate continues with characteristic variability; no catastrophic famine in this window though localized harvest failures occur; the agricultural system holds adequate margin against normal climate shocks.<br><br>
-__Hazard Regime & Exposure:__ No major environmental disasters; the primary hazards are political rather than natural; infrastructure and provisioning absorb routine climate variability without systemic stress.<br><br>
-__Resource & Energy Endowment:__ Donbas coal, Ukrainian iron, Baku oil, Ural metals continue exploitation at accelerating rates; petroleum exports grow; the resource base remains vast and extraction infrastructure matures.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution intensifies around factory districts; urban sanitation improves in major cities but lags in provincial centers; the continental scale still provides absorptive margin, though local degradation is visible.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera and typhus outbreaks diminish as public health improves; infant mortality declines slowly; tuberculosis remains endemic in working-class districts; the mortality baseline is trending downward but remains high by Western European standards.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant nutrition marginally improves as Stolypin reforms allow some to consolidate holdings; urban workers' real wages rise slightly after 1907; physical stature and vitality improve incrementally.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility continues; some decline in urban areas as education and employment patterns shift; migration to cities and Siberia continues, altering household formation patterns.<br><br>
-__Demographic Renewal & Density:__ Population approaches 170 million by 1914; growth rate remains high; urbanization accelerates — St. Petersburg and Moscow exceed two million; density pressure on communal land persists despite Stolypin's consolidation efforts.<br><br>
-__Attrition & Dependency Overhang:__ The dependency load from previous decades persists but does not grow disproportionately; urban social services expand modestly through municipal and zemstvo efforts; the productive cohort absorbs the load without severe strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain production rises; Stolypin reforms allow peasants to leave commune and consolidate holdings, creating a stratum of prosperous farmers while leaving many landless; the provisioning floor rises unevenly.<br><br>
-__Energy Capture & Conversion:__ Coal and oil production continue rapid growth; electrification begins in major cities; steam power dominant in industry and transport; per-capita energy capture rising, concentrated in urban-industrial sector.<br><br>
-__Labor Organization & Coercion:__ Trade unions legalized 1906 but circumscribed; strikes legal in principle but often suppressed; factory conditions improve marginally under inspection; the labor regime shifts from pure coercion toward regulated wage labor but retains coercive elements.<br><br>
-__Production & Surplus Capacity:__ Industrial growth resumes after 1907 depression; armaments, textiles, and machinery expand; agricultural surplus rises with improved techniques and Stolypin consolidations; the production ceiling lifts.<br><br>
-__Storage, Reserves & Buffering:__ State grain reserves rebuilt; gold reserves substantial; industrial inventory expands; the system holds better reserves than in the previous period, providing modest buffering against shock.<br><br>
-__Exchange, Trade & Logistics:__ Railway network mature; internal trade flourishes; grain exports high; tariffs protect industry; cooperative movement expands in countryside, improving peasant market access.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold standard maintained; commercial banking expands; cooperative credit reaches peasantry; foreign investment continues though at slower pace; capital formation proceeds through domestic and foreign channels.<br><br>
-__Surplus Extraction & Redistribution:__ Redemption payments cancelled 1907; indirect taxation remains heavy; state invests in armaments and railways; the extraction load lightens slightly but remains regressive.<br><br>
-__Wealth Distribution & Asset Defense:__ Stolypin reforms accelerate rural differentiation — kulaks consolidate, poor peasants sell out; industrial wealth concentrates; urban middle class grows; inequality widens but asset defense improves through legal reforms.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent continues dumping into waterways; urban waste management improves in capitals but lags in provinces; no systematic recycling; routing remains dispersal into nearest sink.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Commune weakens under Stolypin reforms; urban mutual-aid societies and cooperatives expand; trade unions provide new solidarity networks; trust radius reconfigures around class and occupational lines rather than village.<br><br>
-__Stratification, Status & Group Identity:__ Estate hierarchy erodes in practice though legal distinctions persist; class identity sharpens — workers, peasants, bourgeoisie, intelligentsia acquire distinct political profiles; national movements strengthen among Poles, Finns, Jews, Ukrainians, and others.<br><br>
-__Kinship, Family & Inheritance:__ Stolypin reforms allow individual peasant land ownership, transforming inheritance patterns; urban nuclear family becomes standard among middle strata; Jewish emigration disrupts extended family networks.<br><br>
-__Civic Association & Self-Organization:__ Explosive growth — legal political parties, trade unions, professional associations, cooperatives, cultural societies; zemstvos gain new energy; the associational fabric thickens dramatically after 1905 despite periodic repression.<br><br>
-__Leisure, Play & Sociability:__ Urban popular culture expands — cinema arrives, popular press flourishes, sports clubs form; working-class leisure increasingly organized through unions and parties; public sociability widens beyond elite circles.<br><br>
-__Grievance Channels & Social Discharge:__ Legal channels now exist — Duma petitions, legal press, trade union negotiations, party politics — absorbing grievances previously forced underground; yet repression continues, Stolypin's field courts-martial execute thousands, and significant grievance remains unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional autocracy — October Manifesto and Fundamental Laws create elected Duma but preserve imperial prerogatives; the Tsar retains ultimate authority, can dissolve Duma, rules by decree between sessions; power formally distributed but substantively concentrated.<br><br>
-__Succession & Power Transfer:__ Hereditary succession unchanged; Nicholas II continues to reign; no succession crisis in this window; Tsarevich Alexei's hemophilia creates private anxiety but not public instability.<br><br>
-__Legitimacy & Political Narrative:__ Regime claims modernizing constitutional monarchy while preserving autocratic essence; liberals accept half-measures; radicals reject the entire framework; legitimacy partially restored among moderates but erodes among workers and peasants after initial hopes fade.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy functions adequately; zemstvos and municipalities gain capacity; corruption persists but does not paralyze; Stolypin provides capable leadership until assassination 1911; institutional integrity adequate for peacetime governance.<br><br>
-__Political Participation & Mobilization:__ Legal parties — Kadets, Octobrists, Social Democrats, Socialist Revolutionaries, nationalist parties — contest elections and debate in Duma; suffrage restricted and manipulated through electoral law changes 1907; mass participation channeled into legal and illegal organizations; mobilization capacity high on all sides.<br><br>
-__Geopolitical Position & External Relations:__ Defeat by Japan 1905 humiliates but clarifies priorities; entente with Britain 1907 completes Triple Entente; Balkan crises 1908–1913 heighten tensions with Austria-Hungary and Germany; alliance commitments tighten toward the catastrophe of 1914.<br><br>
-__Coercive Apparatus & Means of Force:__ Army rebuilds after Japanese defeat; navy reconstructs; police and Okhrana expand; Stolypin's field courts-martial demonstrate willingness to use force; command of force adequate for internal order but strained by revolutionary turbulence 1905–1907.<br><br>
-__Internal Order & Threat Environment:__ Revolutionary violence 1905–1907 — assassinations, expropriations, pogroms, peasant risings — gradually suppressed; relative calm 1907–1914 but strike wave resumes 1912–1914; disorder contained but not eliminated; the system holds in peacetime but lacks reserves for wartime stress.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph ubiquitous; telephone expanding in cities; daily newspapers reach mass circulation — Russkoe Slovo exceeds 500,000; political parties publish legally; information velocity high across all strata for the first time.<br><br>
-__Record, Storage & Persistence:__ Duma stenographic records, legal party archives, expanded newspaper morgues create unprecedented documentary record; libraries and archives professionalize; the historical record thickens dramatically.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship largely lifted 1905–1906; post-publication prosecution replaces prior restraint; legal press debates openly; the permitted band widens dramatically though some topics remain prosecutable; Aesopian language largely unnecessary.<br><br>
-__Reception, Attention & Amplification:__ Literacy perhaps forty percent by 1914; newspaper readership extends to workers and peasants; political pamphlets circulate legally; amplification occurs through mass circulation rather than reading circles alone.<br><br>
-__Signal Integrity & Noise Load:__ Open debate improves signal quality; partisan press introduces ideological noise but verification is possible through competing sources; rumor recedes as legal information expands; signal integrity higher than in censored era.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Constitutional promises raise expectations; legal consciousness spreads; workers and peasants increasingly frame demands in rights language; the gap between promised and delivered justice becomes politically salient.<br><br>
-__Law, Codification & Regulatory Evolution:__ Fundamental Laws 1906 create constitutional framework; civil liberties nominally guaranteed; labor law expands; yet emergency statutes persist and field courts-martial operate outside normal procedure; legal evolution proceeds unevenly.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function with reasonable independence in civil and ordinary criminal matters; political cases still subject to administrative discretion; factory inspection expands; enforcement capacity improves but remains selective.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights proclaimed but incompletely enforced; Pale of Settlement persists; passport restrictions ease; compliance burden lightens for most but political activists face arbitrary detention; predictability improves for ordinary conduct.<br><br>
-__Impunity & Unredressed Wrong:__ Pogrom perpetrators occasionally prosecuted; some official accountability emerges; yet Stolypin executions proceed without appeal, and police abuse continues; the justice deficit narrows but significant impunity remains.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Russian science continues to advance — Pavlov wins Nobel 1904; social sciences professionalize; Marxist and liberal theory debate openly; the discovery frontier extends across natural and social domains.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and technical education expand; industrial methods modernize; agricultural extension through zemstvos spreads improved techniques; the technique in use approaches Western European standards in leading sectors.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary education expands rapidly — enrollment doubles; secondary and higher education grow; literacy approaches Western European levels in cities; the knowledge stock and skill distribution widen significantly.<br><br>
-__Obsolescence & Knowledge Decay:__ Revolutionary underground methods become partly obsolete with legal organizing; some radical theory ossifies; traditional peasant knowledge erodes with commercialization; clearing and decay proceed at moderate pace.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ 1905 becomes a founding revolutionary memory; constitutional promise enters liberal identity; national movements cultivate distinct historical memories; the mythic field pluralizes as official narrative loses monopoly.<br><br>
-__Artistic Expression & Material Culture:__ Silver Age flourishes — symbolist poetry, Diaghilev's Ballets Russes, avant-garde painting, modernist architecture; material culture bifurcates between avant-garde experimentation and mass commercial forms; aesthetic conventions in rapid flux.<br><br>
-__Collective Mood & Behavioral Disposition:__ Initial revolutionary euphoria yields to disappointment and then surface normalization; Silver Age culture combines decadence and vitalism; workers oscillate between quiescence and renewed militancy after 1912; the mood is volatile beneath apparent calm.<br><br>
-__Form Exhaustion & Meaning Decay:__ Realist conventions exhaust; symbolism peaks and begins to fragment; revolutionary populism definitively superseded; new forms — futurism, acmeism, Bolshevik organizational theory — emerge to fill creative and political vacuums.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Religious-philosophical renaissance among intelligentsia — Berdyaev, Bulgakov, Merezhkovsky — seeks synthesis of Orthodoxy and modern thought; materialism and Orthodox piety coexist in tension; existential outlook pluralizes.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Orthodox observance continues among peasantry and conservative strata; urban educated classes experiment with diverse spiritual practices; revolutionary devotion to the cause retains quasi-religious character.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Holy Synod control loosens slightly; Church councils discussed but not convened; doctrinal authority stable but not dynamic; institutional Church neither consolidating nor fragmenting dramatically.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Religious-philosophical synthesis attempts spread among intelligentsia; Tolstoyanism persists; Jewish religious and secular movements compete; spiritual experimentation characterizes the period without dominant pattern.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization continues among educated and urban populations; revolutionary faith provides surrogate meaning for activists; religious renaissance partially re-anchors spiritual need among some intellectuals; disenchantment neither deepens dramatically nor reverses, settling into differentiated equilibrium across social strata.<br><br>
+# __1905 CE – 1914 CE — 1905 Revolution and Constitutional Experiment__
+
+The binding constraint is the autocracy's inability to either fully suppress or genuinely accommodate the political society print has created; the October Manifesto grants a legislature and press freedom, but the regime progressively claws back concessions, leaving a constitutional facade that satisfies no one and postpones rather than resolves the crisis.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Trans-Siberian Railway, completed to Vladivostok in 1904, proves inadequate for rapid troop movement during the Russo-Japanese War; defeat in Manchuria triggers revolution at home, demonstrating how imperial overextension converts distant geography into metropolitan political crisis.
+
+__Climate Regime & Volatility:__ Harvests fluctuate normally; no major famine punctuates the period, removing one traditional trigger of rural unrest and allowing the regime partial recovery after 1907.
+
+__Hazard Regime & Exposure:__ Urban industrial hazards persist; factory fires and explosions occasionally kill dozens; cholera recurs in southern ports; the earthquake in Messina (1908) draws Russian relief but no domestic parallel strikes.
+
+__Resource & Energy Endowment:__ Baku oil peaks as a world producer; Donbas coal and iron expand; foreign investment resumes after 1906 stabilization; grain exports recover, financing continued industrialization.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution accumulates in factory districts; urban crowding worsens in capitals; the physical environment of worker neighborhoods remains degraded, feeding revolutionary sentiment.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Infant mortality remains above 200 per thousand; tuberculosis endemic among factory workers; military casualties from the Japanese war modest by later standards but shocking to public opinion.
+
+__Nutrition & Physiological Vitality:__ Peasant diet improves slightly as redemption payments end (1905) and Stolypin reforms allow consolidation; urban workers benefit from wage gains during 1910–1914 expansion.
+
+__Care, Healing & Recovery Capacity:__ Zemstvo medicine continues expanding; factory medical care remains minimal; wounded soldiers return from Manchuria to inadequate rehabilitation.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth rates remain high in countryside; urban fertility lower; family formation delayed among workers by housing constraints.
+
+__Demographic Renewal & Density:__ Population approaches 170 million by 1914; peasant land hunger persists despite Stolypin's efforts; urban growth accelerates as industry expands; emigration to America drains some pressure.
+
+__Attrition & Dependency Overhang:__ War widows and orphans add to dependency burden; disabled veterans visible in cities; the demographic surplus of young men feeds both army and revolutionary movements.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Abolition of redemption payments (November 1905) eases peasant burden; Stolypin reforms (1906–1911) encourage consolidation of strips into private farms; the provisioning floor rises modestly.
+
+__Energy Capture & Conversion:__ Electrification spreads in capitals; oil and coal output grows; industrial horsepower increases; the energy transition from muscle to fossil accelerates.
+
+__Labor Organization & Coercion:__ Strikes peak in 1905 (nearly three million participants); legal trade unions briefly permitted; unions restricted again after 1907 but persist underground; factory discipline tightens.
+
+__Production & Surplus Capacity:__ Industrial output dips 1905–1908, then surges 1909–1914 at 6 percent annually; armaments production increases; consumer goods sector grows; the economy approaches pre-war peak.
+
+__Storage, Reserves & Buffering:__ Gold reserves recover; state budget returns to surplus by 1909; grain reserves remain minimal; the treasury gains fiscal room but structural vulnerabilities persist.
+
+__Exchange, Trade & Logistics:__ Grain exports resume; foreign capital returns, especially French; railway network densifies; internal market integration improves; dependence on foreign capital deepens.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold standard maintained; peasant credit cooperatives multiply under Stolypin program; commercial banking expands; state bank supports industrialization.
+
+__Surplus Extraction & Redistribution:__ Tax burden shifts modestly; redemption payment abolition reduces peasant extraction; indirect taxes remain regressive; military spending increases toward war.
+
+__Wealth Distribution & Asset Defense:__ Land redistribution through Stolypin reforms benefits wealthier peasants; industrial wealth concentrates; gentry continue selling estates; inequality visible but not explosive.
+
+__Byproducts & Waste Routing:__ Industrial waste continues untreated; urban sanitation marginally improves; environmental costs deferred; the material substrate of worker discontent persists.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Stolypin reforms threaten commune by allowing household heads to claim hereditary title; traditional patriarchal authority erodes as young men migrate; urban family forms nucleate.
+
+__Association & Mutual Aid:__ Legal trade unions, cooperatives, and professional associations flourish briefly (1905–1907); restrictions return but cannot eliminate networks; zemstvo professionals coordinate; illegal parties rebuild.
+
+__Leisure, Play & Sociability:__ Cinema arrives as mass entertainment; sports clubs form; tea houses and taverns remain worker social spaces; temperance movement gains ground before 1914 prohibition.
+
+__Stratification, Status & Group Structure:__ Estate system legally persists but functionally erodes; new middle class of professionals, managers, and entrepreneurs emerges; workers consolidate identity; Jews gain limited mobility after 1905.
+
+__Administrative Capacity & Institutional Integrity:__ Stolypin attempts administrative modernization; zemstvos expand; Duma provides limited oversight; bureaucracy improves marginally; corruption persists; state capacity insufficient for war.
+
+__Coercive Apparatus & Means of Force:__ Army mutinies during 1905 suppressed; military reformed post-war; police expanded; field courts-martial execute thousands during 1906–1907 pacification; the apparatus holds through violence.
+
+__Discharge, Disorder & Decay:__ Peasant disturbances peak 1905–1907 then subside under repression and reform; worker strikes resume 1912–1914; political assassinations decline after Stolypin's death (1911); surface order masks structural tensions.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Revolutionary euphoria of 1905 gives way to disillusionment; worker militancy revives by 1912; educated society polarizes between liberals seeking gradual reform and radicals demanding revolution.
+
+__Leadership & Personal Authority:__ Nicholas II lacks the will to either genuinely constitutionalize or effectively repress; Stolypin provides vigorous leadership until assassination (1911); revolutionary leaders remain in exile or underground.
+
+__Legitimacy as Lived Allegiance:__ October Manifesto briefly renews hope; Duma dissolution (1906, 1907) and electoral manipulation erode faith; Bloody Sunday (January 1905) permanently damages tsarist mystique among workers.
+
+__Political Will & Collective Resolve:__ Regime wills survival but vacillates between reform and repression; revolutionary parties will transformation but lack mass base after 1907 defeat; liberals will constitutionalism but lack leverage.
+
+__External Relations & Posture:__ Defeat by Japan humiliates; alliance with France deepens; entente with Britain (1907) forms; rivalry with Austria-Hungary in Balkans intensifies; pan-Slavism drives policy toward war.
+
+__Disaffection, Apathy & Spent Will:__ Post-1907 "period of reaction" sees intelligentsia retreat into cultural concerns; worker apathy gives way to renewed militancy; peasant quietude masks unresolved land hunger; emotional reserves depleted.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy approaches 40 percent by 1914; Russian dominates public sphere; vernacular presses in Polish, Ukrainian, Baltic languages exist but restricted; workers increasingly literate.
+
+__Channels & Transmission Velocity:__ Telegraph ubiquitous for news; telephone spreads in capitals; post efficient; railways distribute daily newspapers; illegal literature crosses borders via established networks.
+
+__Record, Storage & Persistence:__ Duma stenographic records create new public archive; newspapers proliferate; police files expand; thick journals continue; print volume peaks as broadcast not yet arrived.
+
+__Framing, Censorship & Discourse Norms:__ October Manifesto promises press freedom; 1906–1907 sees explosive growth of publications; restrictions reimposed but preliminary censorship not restored; Aesopian language less necessary; political spectrum publicly expressed.
+
+__Reception, Attention & Amplification:__ Daily newspaper circulation multiplies; Novoe Vremya reaches 100,000; kopeck press reaches workers; political papers circulate despite fines; reading public expands dramatically.
+
+__Signal Integrity & Noise Load:__ Political noise increases with open debate; police surveillance continues; Okhrana agents infiltrate revolutionary organizations (Azef scandal); misinformation complicates revolutionary coordination.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Worker sense of justice crystallizes around demands for dignity and fair treatment; peasant justice remains land-centered; liberal constitutionalism gains moral force; revolutionary violence debated.
+
+__Law, Codification & Regulatory Evolution:__ Fundamental Laws (1906) create constitutional framework but preserve autocratic prerogatives; electoral law (1907) restricts franchise; factory legislation modest; legal reform partial.
+
+__Adjudication, Liability & Sanction:__ Field courts-martial execute over 3,000 during 1906–1908; regular courts function but political cases still bypass them; revolutionary terrorism prosecuted harshly.
+
+__Rights, Protections & Compliance Burden:__ October Manifesto promises civil liberties; implementation partial; assembly and association restricted again after 1907; Jews gain some mobility; press relatively free compared to pre-1905.
+
+__Impunity & Unredressed Wrong:__ Bloody Sunday killers unpunished; pogrom perpetrators face minimal consequences; Lena goldfield massacre (1912) unpunished; regime violence normalized; revolutionary counter-violence continues.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Russian science continues strong; Pavlov's work advances; social thought fragments between liberal, Marxist, populist, and conservative streams; religious-philosophical revival among intelligentsia.
+
+__Applied Knowledge & Technical Method:__ Engineering advances with industrialization; military technology modernizes after Japanese defeat; agricultural science spreads through zemstvo agronomists.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary education expands; literacy rises rapidly; universities grow but face political restrictions; technical institutes multiply; skill base deepens.
+
+__Obsolescence & Knowledge Decay:__ Revolutionary populism exhausted; legal Marxism superseded by Bolshevism; old regime ideologies lose explanatory power; generational turnover accelerates paradigm shift.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Bloody Sunday enters revolutionary memory; 1905 becomes founding myth of revolution; Holy Russia imagery persists but revolutionary counter-narrative strengthens.
+
+__Legitimating Narrative & Ideology:__ Autocracy cannot articulate compelling justification; constitutionalism offers alternative; Marxism provides total explanation; nationalism intensifies across empire.
+
+__Artistic Expression & Material Culture:__ Silver Age flourishes: Symbolist poetry (Blok, Bely), Ballets Russes (Diaghilev, Stravinsky), avant-garde painting (Kandinsky, Malevich); art nouveau architecture; mass culture emerges through cinema and popular press.
+
+__Form Exhaustion & Meaning Decay:__ Official culture exhausted; religious forms hollow for intelligentsia; avant-garde seeks new forms; popular culture provides alternative meanings; revolutionary aesthetic crystallizes.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Religious-philosophical renaissance among intelligentsia (Berdyaev, Bulgakov) seeks to overcome positivist materialism; Orthodox piety persists among peasants; revolutionary faith deepens among workers.
+
+__Ritual, Devotion & Sacred Practice:__ Church rituals continue marking life-cycle; revolutionary May Day demonstrations create counter-ritual; funeral processions for fallen revolutionaries become political acts.
+
+__Religious Institutions & Doctrinal Authority:__ Church remains subordinate to state; some clergy sympathize with reform; pre-Sobor discussions begin; institutional reform blocked; Church credibility erodes among educated.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sectarian movements continue spreading; Tolstoyanism persists; revolutionary faith intensifies; secular ideologies displace traditional religion among workers and intelligentsia.
+
+__Disenchantment & Sacred Discharge:__ Educated society largely secularized; workers drift from Church; peasant piety persists but weakens among migrants; spiritual vacuum filled by revolutionary commitment or cultural aestheticism; the sacred discharge of the old order accumulates, awaiting the war that will complete its dissolution.

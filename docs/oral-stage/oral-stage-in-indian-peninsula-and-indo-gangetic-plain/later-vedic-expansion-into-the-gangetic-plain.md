@@ -1,69 +1,140 @@
 # __900 BCE – 600 BCE__ — Later Vedic Expansion into the Gangetic Plain
-__Summary:__ A three-century trend of eastward migration and settlement transformation as Vedic society shifts from the Punjab river system into the middle Gangetic plain; the binding constraint is forest clearance enabled by iron tools — without iron axes and plowshares the dense sal and teak forests cannot be opened to wet-rice agriculture, capping expansion — while margin against subsistence failure widens as rice yields exceed barley and support denser, more sedentary populations; the direction of change moves toward territorial kingdoms (janapadas) replacing tribal polities, a crystallizing four-fold varna hierarchy with sharpening ritual boundaries, and an elaborating sacrificial complex codified in the later Vedas and Brahmanas, all still transmitted and administered through oral means alone.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The arena shifts from the Punjab to the Kuru-Panchala heartland (upper Doab) and the middle Ganges (Kosala, Kashi, Videha); the Ganges and Yamuna provide transit corridors and irrigation potential; dense monsoon forests impose high clearance friction until iron tools become available; the Vindhya range and Deccan lie to the south, largely outside this window's settlement zone.<br><br>
-__Climate Regime & Volatility:__ Stronger monsoon regime than the Punjab; higher annual rainfall (1000–1500 mm) supports wet-rice cultivation; interannual variability remains but surplus potential higher; winters mild; no attested secular climate shift within the window.<br><br>
-__Hazard Regime & Exposure:__ Ganges flooding periodic and sometimes severe; forest fire risk during dry season; malarial zones expand with wet-rice paddies; drought less frequent than in Punjab; margin against flood and disease stress moderate.<br><br>
-__Resource & Energy Endowment:__ Alluvial Gangetic soils highly fertile once cleared; iron ore available in eastern Gangetic fringe and Chotanagpur; timber abundant before clearance; copper from Rajasthan and Nepal foothills; fuel from wood and dung.<br><br>
-__Waste Absorption & Sink Capacity:__ Population still low relative to land; organic waste absorbed by extensive landscape; no localized pollution; sink capacity effectively unlimited.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria endemic in wet-rice zones; gastrointestinal infections common; dense forest clearance exposes settlers to zoonotic risks; mortality baseline higher than Punjab but offset by greater food security; no recorded epidemics.<br><br>
-__Nutrition & Physiological Vitality:__ Diet shifts toward rice supplemented by pulses, dairy, and vegetables; nutritional adequacy improves with higher yields; meat consumption continues among elites and at sacrifices; physiological vitality adequate to sustained labor.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal, patrilocal patterns continue; hypergamous marriage emerges with varna crystallization; physiological fertility unconstrained; reproductive success increasingly tied to land and varna standing.<br><br>
-__Demographic Renewal & Density:__ Population growing and concentrating in river valleys; birth rates sufficient for expansion; density rising but still below carrying capacity; migration eastward continues; no crowding crisis.<br><br>
-__Attrition & Dependency Overhang:__ Extended kin networks absorb dependents; agricultural surplus provides better support for non-productive members; dependency load manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Wet-rice agriculture raises the subsistence floor above the earlier barley-pastoral regime; two crops per year possible in favorable zones; cattle remain important but land becomes the primary wealth base; household provisioning more secure.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain the sole power sources; iron-tipped plows drawn by oxen increase agricultural efficiency; no water or wind power harnessed; per-capita energy ceiling rises modestly with iron adoption.<br><br>
-__Labor Organization & Coercion:__ Shudra labor increasingly tied to land; dasas and debt-bondsmen provide coerced labor for clearance and cultivation; corvee for royal projects emerging; household and village labor pooling continues; coercion rising with stratification.<br><br>
-__Production & Surplus Capacity:__ Rice yields generate surplus beyond subsistence; surplus supports larger priestly and warrior retinues, elaborate sacrifices, and proto-urban centers; craft specialization (iron smithing, carpentry, weaving) expands.<br><br>
-__Storage, Reserves & Buffering:__ Granaries at household and royal levels; rice more storable than dairy-based wealth; reserves sufficient to buffer single-season failures; consecutive failures still dangerous.<br><br>
-__Exchange, Trade & Logistics:__ Emerging exchange networks link Gangetic settlements with Punjab, Deccan, and coastal zones; gift exchange persists but barter for iron, salt, and prestige goods increases; river transport facilitates logistics; no coinage yet.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cattle and now land serve as stores of value; grain quantities used in large transactions; deferred reciprocity through gift and tribute; no monetary instruments; credit informal and kin-based.<br><br>
-__Surplus Extraction & Redistribution:__ Territorial kings extract bali (tribute) and bhaga (share of produce); redistribution through sacrifices, priestly fees (dakshina), and warrior maintenance; extraction load rising but sustainable given surplus growth.<br><br>
-__Wealth Distribution & Asset Defense:__ Land and cattle wealth concentrating among royal lineages and brahmin landholders; varna hierarchy entrenches inequality; fortified settlements (pur) emerging to defend accumulated wealth; raiding declines as territorial boundaries harden.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residue recycled as fodder and fuel; iron slag produced but volume low; organic waste absorbed by landscape; no sink stress.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends within varna and jati groups; village solidarity provides mutual aid; inter-varna trust structured by ritual hierarchy; hospitality norms persist; trust radius not contracting but becoming segmented by varna.<br><br>
-__Stratification, Status & Group Identity:__ Four-fold varna system crystallizes: brahmin (priestly), kshatriya (warrior-royal), vaishya (cultivator-trader), shudra (servant); boundaries hardening through endogamy and ritual purity rules; Purusha Sukta ideology legitimates hierarchy; tribal identity fades as territorial-varna identity rises.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent; gotra exogamy; joint family persists; eldest son primogeniture emerging in royal succession; daughters transferred via dowry; kinship remains organizational backbone but varna cross-cuts it.<br><br>
-__Civic Association & Self-Organization:__ Village assemblies (grama sabha) handle local affairs; craft groups coalesce; sabha and samiti persist but become more advisory as royal power grows; associational life embedded in varna and occupation.<br><br>
-__Leisure, Play & Sociability:__ Elaborate sacrificial festivals (ashvamedha, rajasuya) serve as occasions for elite gathering; chariot races, dice games, music, and dance; leisure tied to ritual calendar and seasonal cycles.<br><br>
-__Grievance Channels & Social Discharge:__ Village arbitration, royal justice, and priestly mediation absorb disputes; cattle compensation and ordeal persist; varna hierarchy channels grievance into prescribed slots; residual friction modest.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Transition from tribal chieftainship (jana) to territorial kingdom (janapada); Kuru, Panchala, Kosala, Kashi, Videha among emergent polities; royal authority (rajan) expanding through conquest, marriage alliance, and ritual legitimation; centralizing trend evident but fragmentation persists.<br><br>
-__Succession & Power Transfer:__ Hereditary succession within royal lineages becoming norm; eldest son primogeniture favored but contested successions still common; royal consecration (rajasuya) ritualizes transfer; flashpoint frequency declining but not eliminated.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy drawn from Vedic ritual performance, divine favor, and genealogical descent from Manu or solar/lunar lineages; Brahmana texts elaborate royal rituals; narrative of dharmic kingship emerges; belief in royal sacrality widening.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Proto-bureaucracy emerging: ministers (purohita, senani), village headmen, tribute collectors; no written records; administration oral and personal; capacity expanding but still limited to royal household reach; corruption indistinguishable from gift-exchange.<br><br>
-__Political Participation & Mobilization:__ Assemblies (sabha, samiti) increasingly ceremonial; royal decision-making more autocratic; warrior mobilization through kin and retainer networks; commoner voice diminishing; channels narrowing.<br><br>
-__Geopolitical Position & External Relations:__ Multiple janapadas in shifting rivalry and alliance; Kuru-Panchala preeminent early, Kosala and Kashi rising later; no external imperial threat; incorporation of peripheral tribes ongoing.<br><br>
-__Coercive Apparatus & Means of Force:__ Iron weapons (swords, spearheads, arrowheads) supplement bronze; chariot still elite but infantry growing; fortified settlements emerging; royal retinues larger; command of force increasingly monopolized by kings.<br><br>
-__Internal Order & Threat Environment:__ Banditry and cattle raiding persist in peripheral zones; internal rebellions rare; royal justice and kinship enforcement adequate; disorder within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by foot, horse, and chariot messenger; oral proclamation at courts and assemblies; sacrificial gatherings diffuse news across regions; velocity slow but reaching all major settlements.<br><br>
-__Record, Storage & Persistence:__ Entirely oral; the later Vedas (Yajurveda, Samaveda, Atharvaveda) and Brahmana commentaries composed and transmitted through rigorous memorization; priestly schools (charana) specialize in particular recensions; mnemonic precision preserves texts across generations without writing; persistence depends on unbroken teacher-student chains; no external script available.<br><br>
-__Framing, Censorship & Discourse Norms:__ Priestly monopoly on sacred discourse intensifies; correct recitation (svara, chandas) mandatory; heterodox speech discouraged through ritual exclusion; discourse norms tightening around orthodoxy.<br><br>
-__Reception, Attention & Amplification:__ Audiences at sacrifices and royal courts; elite monopoly on sacred knowledge; amplification through ritual prestige and repetition; broader populace receives only fragments.<br><br>
-__Signal Integrity & Noise Load:__ Multiple priestly schools maintain parallel transmissions, cross-checking accuracy; signal integrity high; noise load low given dedicated transmission class and ritualized correction.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Dharma emerges as the ordering principle, subsuming earlier rta; varna-specific duties (svadharma) define righteous conduct; justice conceived as upholding dharmic order; sense of justice segmented by varna.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; dharma transmitted orally in Brahmana injunctions and precedent; customary taboos on intercaste marriage, commensality, and occupation-crossing harden; regulatory evolution toward varna-based rules.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal courts adjudicate disputes; brahmin advisors interpret dharma; ordeals and oaths persist; liability assigned by varna — brahmin exempt from corporal punishment, shudra more harshly treated; enforcement through royal agents and kin pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Protections vary by varna; twice-born (dvija) castes enjoy greater rights; shudras and dasas have diminished standing; compliance burden rising with varna-specific prohibitions; predictability high within varna but unequal across it.<br><br>
-__Impunity & Unredressed Wrong:__ Brahmins enjoy substantial impunity; royal transgressions rarely challenged; lower-varna wrongs often unredressed; residual impunity rising with stratification.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cosmogonic and ritual speculation elaborates in Brahmanas; inquiry focused on sacrificial mechanics and cosmic correspondences; no natural-philosophical inquiry; paradigm remains mythic-ritual with increasing systematization.<br><br>
-__Applied Knowledge & Technical Method:__ Iron smelting and smithing; improved plow technology; carpentry for larger structures; weaving and dyeing; medical knowledge (herbal, surgical) transmitted orally; techniques refined through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Brahmacharya (student) phase formalizes education; students live with teachers (guru) for years; knowledge stock growing (later Vedas, Brahmanas); distribution restricted to upper varnas; shudras excluded from Vedic learning; literacy absent.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier techniques stable; no major knowledge loss within the window; decay risk mitigated by redundant transmission lineages; some Harappan-era techniques (urban planning, drainage) already long lost.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Foundational identity as Arya peoples in a dharmic cosmos; epic kernels (Bharata war traditions) taking shape; genealogical and migration memories embedded in Brahmanas; varna identity becoming central to selfhood.<br><br>
-__Artistic Expression & Material Culture:__ Painted Grey Ware pottery; iron tools and weapons; wooden structures (no monumental stone); artistic expression concentrated in oral poetry and ritual chant; Samaveda elevates musical recitation; no surviving visual art from this window.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood confident in expanding settlements and elaborating ritual; anxiety around varna pollution and correct ritual performance; martial valor still praised but agrarian stability increasingly valued.<br><br>
-__Form Exhaustion & Meaning Decay:__ Ritual forms proliferating rather than exhausting; Brahmana commentaries reinvigorate sacrificial meaning; no hollowing evident; forms generative and actively elaborated.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheism continues with Prajapati (creator-sacrificer) rising in prominence; sacrificial cosmos — the world sustained by yajna; early karma-rebirth concepts germinating in late Brahmana thought; existential outlook remains pious and ritually focused.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Shrauta (public) sacrifices elaborate: ashvamedha (horse sacrifice), rajasuya (royal consecration), agnichayana (fire-altar construction); domestic rites (grihya) formalized; soma sacrifice continues; ritual occupies enormous elite labor and wealth.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Brahmin priestly schools consolidate; doctrinal authority vested in oral Brahmana texts; no temples yet; authority diffuse among competing schools (shakha) but consensus on core Vedic canon; orthodoxy enforced through exclusion and transmission control.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Vedic religion expanding with eastward settlement; local deities incorporated (Rudra, Vishnu gaining prominence); non-Arya practices absorbed selectively; no competing cosmology; diffusion unopposed.<br><br>
-__Disenchantment & Sacred Discharge:__ Cosmos fully enchanted; no secularizing drift; early Upanishadic questioning not yet widespread (emerges at window's close); spiritual needs met within sacrificial framework; no disenchantment residue.<br><br>
+
+__Summary:__ A long-term trend spanning three centuries in which Indo-Aryan-speaking societies expand eastward from the Punjab into the Gangetic Plain, clear forests with iron tools, intensify rice and wheat agriculture, and develop larger territorial polities (janapadas), more complex ritual systems, and a hardening varna hierarchy; the binding constraint remains oral transmission — the later Vedic corpus (Yajurveda, Samaveda, Atharvaveda, Brahmanas, early Upanishads) is memorized and recited, not written, and all institutional knowledge from ritual procedure to royal genealogy depends on what priests can hold in memory and pass to disciples.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The arena shifts eastward from the Sapta Sindhu into the Ganga-Yamuna doab and the middle Gangetic basin; dense monsoon forests (sal, teak) cover the plains; the Ganges and Yamuna rivers provide water, fish, and transport corridors; spatial friction increases — forest must be cleared before settlement, and rivers must be crossed or navigated; the Vindhya hills mark a southern boundary.
+
+__Climate Regime & Volatility:__ The monsoon is stronger here than in the Punjab, delivering heavier summer rains and supporting rice cultivation; humidity and seasonal flooding are higher; interannual variability persists, but the overall moisture regime is more favorable for intensive agriculture than the drier northwest.
+
+__Hazard Regime & Exposure:__ Flooding of the Ganges and its tributaries is the primary hazard; malarial and waterborne diseases thrive in wet conditions; forest clearance gradually reduces exposure to wild animal attacks; fire hazard during dry-season burns for clearance is significant.
+
+__Resource & Energy Endowment:__ Iron ore is available in the Chota Nagpur region and the Vindhyas; forest provides timber and fuel; alluvial soils are highly fertile once cleared; the energy ceiling rises as iron tools and expanding livestock increase productive capacity.
+
+__Waste Absorption & Sink Capacity:__ Forest clearance produces ash and debris absorbed into soils; agricultural intensification deposits sediment in waterways; the sink remains largely unloaded, though localized deforestation begins to alter hydrology near settlements.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The wet Gangetic environment elevates disease exposure: malaria, dysentery, and parasitic infections are endemic; population concentration in emerging villages raises transmission rates; infant and child mortality remain high; epidemic outbreaks can devastate settlements.
+
+__Nutrition & Physiological Vitality:__ Rice cultivation supplements barley and wheat, diversifying the diet; dairy remains central; fish from rivers adds protein; nutritional status improves with agricultural intensification, though seasonal scarcity and disease offset gains for vulnerable groups.
+
+__Care, Healing & Recovery Capacity:__ The Atharvaveda, composed in this period, compiles healing incantations, herbal remedies, and ritual treatments; knowledge remains oral and transmitted within brahmin and specialist lineages; no institutional medicine exists; care is household-based.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal descent and patrilocal marriage continue; the expanded agricultural base supports larger families; fertility remains high and valued; marriage alliances between emerging elite families consolidate power.
+
+__Demographic Renewal & Density:__ Population grows significantly as agricultural surplus supports larger settlements; density increases in the doab and along the Ganges; surplus population colonizes new forest clearings; demographic momentum is positive throughout the period.
+
+__Attrition & Dependency Overhang:__ The expanding productive base absorbs dependents; widows, orphans, and the aged are integrated into joint family households; attrition does not outpace renewal; the dependency load is manageable.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rice, wheat, and barley form the staple base; dairy and vegetables supplement; fish and game add protein; the provisioning floor rises above the pastoral economy of the early Vedic period; households retain significant subsistence margin in good years.
+
+__Energy Capture & Conversion:__ Iron tools (axes, plowshares, sickles) dramatically increase the efficiency of forest clearance and cultivation; cattle traction expands; human and animal muscle remain primary, but iron multiplies their effect; the per-capita energy ceiling rises.
+
+__Labor Organization & Coercion:__ Agricultural labor is organized by household and caste-like occupational groups emerging from the varna system; shudras (the fourth varna, now crystallizing) perform agricultural and service labor; dasas and other subordinate groups occupy servile positions; coercion is embedded in status hierarchy rather than formal slavery.
+
+__Production & Surplus Capacity:__ Wet-rice agriculture and improved iron plows generate significant surplus; surplus supports larger elite households, more elaborate rituals, and emerging craft specialization; production capacity expands throughout the period as more land is cleared.
+
+__Storage, Reserves & Buffering:__ Grain stores grow with surplus; villages and chiefs maintain reserves; risk pooling operates through kin networks and chiefly redistribution; buffer capacity increases relative to the pastoral period but remains vulnerable to multi-year drought or flood.
+
+__Exchange, Trade & Logistics:__ Exchange expands beyond local barter; emerging craft specialists (ironsmiths, potters) trade products for grain; long-distance exchange of iron, salt, and prestige goods develops; river transport facilitates logistics; no coined money exists, but cattle and grain serve as value measures.
+
+__Value Storage, Credit & Deferred Exchange:__ Cattle, grain, and gold ornaments store value; deferred exchange operates through oral promise and witnessed transaction; no formal credit or monetary system exists; reciprocal obligations bind households and lineages.
+
+__Surplus Extraction & Redistribution:__ Chiefs and emergent kings extract bali (tribute) from cultivators; the share rises as polities expand; surplus funds elaborate rituals (ashvamedha, rajasuya) that legitimate royal authority; redistribution through feasts and gifts maintains allegiance.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in royal and brahmin hands; land becomes a productive asset (not merely pasture); fortified settlements begin to appear; armed retainers defend elite holdings; inequality widens relative to the pastoral period.
+
+__Byproducts & Waste Routing:__ Agricultural waste (straw, husks) is recycled as fodder, fuel, and construction material; craft production (smelting slag, pottery shards) generates modest waste absorbed locally; no accumulating financial imbalance is evident.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The patrilineal joint family remains the basic unit; gotra (lineage) becomes formalized for marriage regulation; inheritance rules codify (eldest-son preference develops); family structure supports agricultural labor organization.
+
+__Association & Mutual Aid:__ Village assemblies (sabha, samiti) persist but decline in power relative to royal authority; occupational groups begin to coalesce into proto-jatis (castes); mutual aid operates through kin, village, and occupational networks.
+
+__Leisure, Play & Sociability:__ Ritual festivals (seasonal, royal) structure leisure; gambling and chariot racing continue; elaborate sacrifices become major social events binding communities; music and dance accompany rituals.
+
+__Stratification, Status & Group Structure:__ The varna system hardens into a fourfold hierarchy: brahmins (priests), kshatriyas (warriors/rulers), vaishyas (cultivators/traders), and shudras (servants); boundaries stiffen; ritual purity distinctions intensify; dasas and outcastes occupy positions below the varna order.
+
+__Administrative Capacity & Institutional Integrity:__ Janapadas (territorial polities) emerge, centered on a ruling lineage and territory rather than mobile tribe; rajas rule with councils of brahmins and kshatriyas; purohita (royal priest) and senani (army commander) are key officials; administration remains personal — no bureaucracy, written records, or standing offices exist; all precedent, genealogy, and procedure are held in priestly memory.
+
+__Coercive Apparatus & Means of Force:__ Iron weapons (swords, spearheads, arrowheads) become standard; chariots continue as elite platforms but infantry grows in importance; fortified settlements (pur) appear; royal armies are larger and more organized than early Vedic war bands; no standing professional army exists, but levies can be raised.
+
+__Discharge, Disorder & Decay:__ Inter-janapada warfare is endemic; cattle raiding continues; internal conflicts over succession generate instability; shudras and outcastes bear the burden of social friction; grievance is contained by ritual legitimation and the promise of dharmic reward in future lives (a doctrine emerging in the Upanishads); no systemic collapse occurs, but localized disorder is common.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Expansionist confidence characterizes the period; successful colonization of new lands reinforces optimism; trust operates within varna and jati networks; anxiety centers on ritual correctness and the maintenance of purity; temper is generally stable but competitive.
+
+__Leadership & Personal Authority:__ Kings (maharajas) accumulate greater power than early Vedic rajas; consecration rituals (rajasuya, ashvamedha) magnify royal authority; personal prowess remains important, but ritual sanction from brahmins becomes essential to legitimacy.
+
+__Legitimacy as Lived Allegiance:__ Royal legitimacy rests on ritual performance, martial success, and maintenance of dharma (cosmic-social order); brahmins validate authority through elaborate ceremonies; allegiance is increasingly territorial, not merely personal or tribal; erosion of legitimacy can occur through ritual failure or military defeat.
+
+__Political Will & Collective Resolve:__ Political will concentrates in the king and his court; sabha and samiti lose initiative; the drive to expand territory and accumulate surplus is strong; collective resolve is mobilized through ritual and the ideology of dharmic kingship.
+
+__External Relations & Posture:__ Janapadas compete for territory, cattle, and prestige; alliances shift through marriage and treaty; no hegemonic power dominates the entire region; the posture is expansionist, with successful kingdoms absorbing neighbors; relations with forest peoples (often labeled mlechchha) range from warfare to incorporation.
+
+__Disaffection, Apathy & Spent Will:__ Subordinate varnas (especially shudras) bear structural disaffection but lack channels for expression; the emerging doctrine of karma and rebirth redirects grievance toward future lives; elite disaffection over succession can destabilize polities; overall, will remains robust in this growth phase.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Vedic Sanskrit remains the prestige liturgical language, increasingly archaic and inaccessible to ordinary speakers; Prakrits (vernaculars) diverge from Sanskrit; brahmins monopolize sacred language; literacy does not exist — all information is oral.
+
+__Channels & Transmission Velocity:__ Voice and messenger remain the channels; royal courts are information hubs; assemblies and rituals gather audiences; transmission velocity is unchanged from the early Vedic period — limited by travel and memory.
+
+__Record, Storage & Persistence:__ The Vedic corpus expands enormously: Yajurveda, Samaveda, Atharvaveda, and the prose Brahmanas are composed and memorized; elaborate mnemonic systems (vikritis — permutations and recombinations) ensure exact preservation; priestly lineages specialize in particular texts (shakhas); memory is the only record — what is not memorized perishes.
+
+__Framing, Censorship & Discourse Norms:__ Ritual texts are sacred and invariable; interpretation occurs through oral commentary (later codified in Brahmanas); heterodox views are excluded from ritual contexts but may circulate informally; the emerging Upanishads push speculative boundaries within the tradition.
+
+__Reception, Attention & Amplification:__ Royal sacrifices gather large audiences; patronage determines which hymns and priests gain prestige; fame spreads through recitation at courts; attention concentrates on ritually and politically significant performances.
+
+__Signal Integrity & Noise Load:__ The mnemonic system maintains astonishing fidelity; multiple lineages cross-check transmission; corruption is rare for canonical texts; esoteric or marginal knowledge (certain Atharvavedic spells, minority shakhas) may be lost if lineages fail; overall noise is low within the system, though the system is fragile to lineage extinction.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Rita gives way to dharma as the central concept — cosmic, social, and moral order; each varna has its dharma (duty); violation of dharma brings cosmic and social sanction; truth, sacrifice, and purity are cardinal values.
+
+__Law, Codification & Regulatory Evolution:__ Law remains unwritten custom interpreted by brahmins and assemblies; the concept of dharmashastra (law texts) does not yet exist in written form, but oral traditions of precedent accumulate; taboos govern purity, marriage, food, and occupation; rules are binding within varna.
+
+__Adjudication, Liability & Sanction:__ The king, advised by brahmins, adjudicates major disputes; ordeals and oaths determine guilt; compensation (often in cattle or gold) satisfies liability; serious offenses incur exile, death, or loss of caste; divine punishment (karmic consequence) is increasingly invoked.
+
+__Rights, Protections & Compliance Burden:__ Rights inhere in varna membership; brahmins and kshatriyas enjoy protections shudras lack; compliance burden falls heavily on lower varnas, who must observe purity rules without the benefits of ritual access; the regulatory load increases with varna codification.
+
+__Impunity & Unredressed Wrong:__ Elites can evade sanction through power and ritual purification; shudras have limited access to justice; the doctrine of karma defers redress to future lives, absorbing present grievance; the gap between justice owed and delivered is significant but ideologically managed.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The Brahmanas develop elaborate ritual theory linking sacrifice to cosmic maintenance; the early Upanishads (Brihadaranyaka, Chandogya) initiate philosophical inquiry into the nature of the self (atman) and ultimate reality (Brahman); the question "What is the self?" becomes central; inquiry is speculative and mystical, not empirical.
+
+__Applied Knowledge & Technical Method:__ Iron metallurgy advances (smelting, forging); agricultural technique improves (transplanting rice, irrigation); construction of fortified settlements requires engineering knowledge; all technique is transmitted orally through apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Brahmin boys enter gurukula (teacher's household) for years of memorization; knowledge stock is enormous — the Vedic corpus runs to thousands of hymns and prose passages; distribution is narrow: brahmins hold sacred knowledge, kshatriyas learn statecraft and warfare, vaishyas learn trade and agriculture, shudras are excluded from Vedic learning.
+
+__Obsolescence & Knowledge Decay:__ Minor shakhas (recension lineages) may be lost; practical techniques can disappear if communities disperse; the oral system is robust for canonical texts but vulnerable at the margins; the period sees net accumulation, not decay.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Mahabharata and Ramayana cycles may be forming in oral tradition (though their composition extends later); Vedic mythology is elaborated; identity anchors on descent, varna, and the ritual tradition; the doab and Gangetic plain become the new sacred geography (Kuru-Panchala, Kosala, Kashi).
+
+__Legitimating Narrative & Ideology:__ The varna system is presented as divinely ordained (the Purusha Sukta myth of creation from the cosmic man's body); dharma ideology justifies hierarchy; royal legitimacy derives from successful sacrifice and maintenance of order; the Brahmanas elaborate this ideology in ritual detail.
+
+__Artistic Expression & Material Culture:__ Poetry remains the supreme art, now including the prose Brahmanas; Painted Grey Ware pottery characterizes the archaeological record; iron tools and weapons mark material culture; architecture remains impermanent (wood, bamboo, thatch); no monumental construction exists; textile and ornament crafts develop.
+
+__Form Exhaustion & Meaning Decay:__ Vedic ritual becomes increasingly elaborate and formalized; the Brahmanas show signs of scholastic elaboration divorced from original meaning; the Upanishads represent a counter-movement seeking renewed meaning beneath ritual form; some form-exhaustion is evident, prompting renewal.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The Upanishads shift cosmology toward identification of the individual self (atman) with ultimate reality (Brahman); the doctrine of samsara (rebirth) and karma (action determining future birth) emerges; existence is increasingly seen as cyclical and potentially escapable through knowledge (moksha); this represents a profound shift from early Vedic this-worldly optimism toward a more ambivalent view.
+
+__Ritual, Devotion & Sacred Practice:__ Sacrifice remains central but grows in complexity and expense; the ashvamedha (horse sacrifice) and rajasuya (royal consecration) are elaborate royal rituals; household rituals (grhya) structure daily life; the shrauta (solemn) rituals require full priestly expertise; devotion (bhakti) is not yet a major mode.
+
+__Religious Institutions & Doctrinal Authority:__ Brahmin lineages holding particular shakhas are the institutional units; no temples or centralized priesthood exist; authority resides in memorized text and the teacher-disciple relationship (guru-shishya); doctrinal elaboration occurs through oral commentary and debate; orthodoxy is maintained through lineage discipline.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Vedic tradition spreads eastward with colonization; indigenous beliefs and deities are partially absorbed (local yakshas, nagas); the frontier of Vedic culture advances into the Gangetic plain; non-Aryan populations are incorporated at lower status or excluded as mlechchha.
+
+__Disenchantment & Sacred Discharge:__ The Upanishadic turn suggests that some feel ritual alone is insufficient — a search for deeper meaning begins; this is not disenchantment but intensification; the sacred remains powerful, but its location shifts from external sacrifice toward internal realization; no void or secular drift is evident; spiritual energy is high and seeking new expression, setting the stage for the Shramanic movements of the sixth century BCE.
+

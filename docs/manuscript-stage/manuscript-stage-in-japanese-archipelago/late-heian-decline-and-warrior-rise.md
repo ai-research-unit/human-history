@@ -1,69 +1,139 @@
-# __1000 CE – 1185 CE__ — Late Heian Decline and Warrior Rise
-__Summary:__ A long-term trend spanning nearly two centuries in which the Japanese archipelago's court-centered governance gradually hollows, ceding effective control to retired emperors, private estate networks, and rising warrior houses, culminating in the Genpei War; the binding constraint is the collapse of central tax collection and the shift of coercive capacity to provincial warrior bands; the system retains cultural vitality but loses administrative coherence; direction is toward fragmentation and the emergence of a parallel warrior authority.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Mountainous archipelago with limited arable lowlands concentrated in Kinai and coastal plains; internal movement constrained by rugged terrain; maritime corridors link western Japan to Kyushu and continental trade; eastern frontier provinces increasingly significant as warrior power bases.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon climate with seasonal typhoons and variable precipitation; Medieval Warm Period conditions generally favorable for agriculture; occasional drought and flooding stress local harvests without systemic collapse.<br><br>
-__Hazard Regime & Exposure:__ Seismic and volcanic activity endemic; tsunami risk on Pacific coasts; periodic earthquakes damage capital structures; system maintains adequate margin through dispersed settlement and wooden architecture rebuilt after loss.<br><br>
-__Resource & Energy Endowment:__ Timber abundant for construction and fuel; iron deposits support weapon and tool production; limited mineral wealth; rice paddies the primary energy base; no acute resource exhaustion but deforestation accelerating around major centers.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density low outside the capital region; organic waste absorbed by agricultural cycling; urban sanitation rudimentary but Kyoto's scale insufficient to overwhelm local sinks; absorptive capacity adequate.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic smallpox, measles, and seasonal fevers impose steady background mortality; epidemics recur but no catastrophic pandemics during the window; mortality elevated but stable within expected range.<br><br>
-__Nutrition & Physiological Vitality:__ Rice-based diet supplemented by fish, vegetables, and legumes; peasant nutrition adequate in normal years; famine localized to drought-affected districts; aristocratic diet rich; average stature modest but stable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygynous elite marriages for political alliance; commoner monogamy predominant; fertility adequate for population maintenance; no pronounced reproductive stress.<br><br>
-__Demographic Renewal & Density:__ Population estimated five to six million, slowly growing; Kyoto around 100,000; density highest in Kinai; eastern provinces thinly settled; birth-death balance positive but growth modest.<br><br>
-__Attrition & Dependency Overhang:__ Widows and orphans absorbed into kin networks; monastic institutions shelter some dependents; warfare-related casualties rise toward window's end; dependency load manageable but increasing with Genpei conflict.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Wet-rice agriculture forms subsistence base; household gardens and fishing supplement; most peasants live near subsistence; buffer thin in poor harvest years but widespread famine absent.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle primary motive power; water mills for rice processing; charcoal and firewood for heating and metallurgy; per-capita energy ceiling low; conversion efficiency stable.<br><br>
-__Labor Organization & Coercion:__ Shoen estate system mixes tribute labor and share tenancy; corvée obligations declining as estates fragment central control; bondage exists but outright slavery rare; coercion moderate, trending toward tenant arrangements.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus extracted through estate rents; silk, paper, and metalwork produced; artisan workshops serve aristocratic demand; surplus flow adequate but increasingly diverted from court to estate holders and warriors.<br><br>
-__Storage, Reserves & Buffering:__ Granaries at estate headquarters and temples; court reserves depleted by administrative decay; private reserves grow; buffering capacity shifts from state to estate level.<br><br>
-__Exchange, Trade & Logistics:__ Local markets expand; Chinese imports via Kyushu ports; overland transport by pack animal and porter; Taira control of Inland Sea trade routes enhances maritime commerce; logistics improving but infrastructure uneven.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Rice and cloth serve as commodity money; Chinese copper cash circulates; credit relationships among estates, temples, and merchants; no currency debasement; value storage adequate.<br><br>
-__Surplus Extraction & Redistribution:__ Central taxation erodes as shoen claim exemptions; estates remit to absent proprietors (court nobles, temples); court revenue shrinking; extraction disperses to private hands; load on peasants stable but recipients change.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration among court families, temples, and emerging warrior lineages; estate commendation spreads wealth upward; asset defense via documentary title and armed retainers; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste recycled as fertilizer; artisan waste minimal; urban refuse accumulates in Kyoto; routing adequate given scale; no significant sink saturation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks centered on kin, estate, and religious community; reciprocity obligations strong at local level; interregional trust declines as central authority weakens; radius contracting outside personal networks.<br><br>
-__Stratification, Status & Group Identity:__ Rigid status hierarchy — court nobles (kuge), provincial warriors (bushi), clergy, commoners; warrior identity solidifying; boundaries permeable through military service; stratification hardening along warrior-noble axis.<br><br>
-__Kinship, Family & Inheritance:__ Bilateral kinship with patrilineal emphasis among warriors; partible inheritance fragmenting estates; marriage politics central to court and warrior alliance; household structures adapting to competitive environment.<br><br>
-__Civic Association & Self-Organization:__ Estate communities manage local affairs; religious confraternities provide mutual aid; guilds (za) emerging around temples and shrines; associational fabric thickening at local level.<br><br>
-__Leisure, Play & Sociability:__ Court culture retains poetry gatherings, music, and seasonal festivals; provincial warriors develop martial competitions; pilgrimage networks active; leisure patterns diverge by status.<br><br>
-__Grievance Channels & Social Discharge:__ Estate adjudication handles local disputes; court appeals theoretically available but practically inaccessible; armed self-help increasingly common; grievance discharge weakening as formal channels clog.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial authority nominal; retired emperors (insei) exercise real court influence; Fujiwara regency fades; Taira clan achieves court dominance mid-twelfth century; power fragmenting between court factions and warrior houses.<br><br>
-__Succession & Power Transfer:__ Imperial succession manipulated by retired emperors and regents; warrior house leadership passes through lineage competition; transfer contested and violent toward window's end; no stable routinization.<br><br>
-__Legitimacy & Political Narrative:__ Court legitimacy rests on ritual and precedent; retired emperors claim paternal authority; Taira invoke imperial favor; Minamoto mobilize eastern warrior loyalty; narratives competing; no single legitimacy dominant.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Ritsuryo bureaucracy hollow; provincial governors often absentee; estate managers (shokan) administer locally; record-keeping continues but coordination capacity collapses; corruption endemic at center.<br><br>
-__Political Participation & Mobilization:__ Participation confined to aristocratic and warrior elites; commoner mobilization absent; factional alignment replaces institutional politics; warrior bands mobilize through lord-vassal bonds.<br><br>
-__Geopolitical Position & External Relations:__ No significant external threat; Song China a trade partner; Korean relations minimal; piracy along coasts controlled by Taira; archipelago effectively isolated from continental pressures.<br><br>
-__Coercive Apparatus & Means of Force:__ Court lacks standing military; imperial police (kebiishi) ceremonial; real force with warrior bands — mounted archers, infantry retainers; Taira and Minamoto command largest forces; coercive capacity dispersed.<br><br>
-__Internal Order & Threat Environment:__ Banditry and piracy endemic; warrior vendettas; provincial disorder high; Genpei War (1180–1185) devastates central and western Japan; internal violence exceeds enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Messengers on horseback and foot; official courier routes decay; information travels slowly — days to weeks across provinces; court communication network intact but underfunded.<br><br>
-__Record, Storage & Persistence:__ Extensive estate records, court diaries, and temple archives; kana and kanji documents proliferate; paper production adequate; persistence good where archives survive warfare; some loss in conflict zones.<br><br>
-__Framing, Censorship & Discourse Norms:__ Court controls official narrative but lacks enforcement; Buddhist doctrines frame public discourse; taboos on certain subjects (imperial criticism) observed; censorship light, discourse shaped by convention.<br><br>
-__Reception, Attention & Amplification:__ Literacy confined to aristocracy, clergy, and estate managers; oral transmission dominant among commoners; amplification through pilgrimage and temple networks; limited popular reach.<br><br>
-__Signal Integrity & Noise Load:__ Documentary records detailed where preserved; competing claims generate contradictory records; verification through witness and seal; noise accumulating as disputes multiply but system copes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice understood as adherence to precedent and proper status; Buddhist karma shapes moral expectations; self-help accepted when formal channels fail; sense of justice localized.<br><br>
-__Law, Codification & Regulatory Evolution:__ Ritsuryo codes nominally in force but practically superseded; customary law governs estates; warrior house customs emerging; codification stagnant; regulatory evolution through precedent rather than legislation.<br><br>
-__Adjudication, Enforcement & Liability:__ Estate managers adjudicate local disputes; court bureaus theoretically available; enforcement depends on armed capacity; liability determined by status and connection; throughput inadequate for caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights defined by status and documentary title; protection available to those with powerful patrons; compliance burden light for connected, heavy for unprotected; predictability declining.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful warrior and noble families act with impunity; commoner grievances rarely reach formal adjudication; backlog immense; impunity widening as central authority erodes.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Buddhist philosophy dominates formal inquiry; Tendai and Shingon scholasticism continues; Confucian learning maintained among court scholars; no paradigm shift; inquiry confined to religious and literary domains.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural techniques stable; metallurgical skill in weapon-making advancing; architectural methods refined; medical knowledge based on Chinese texts; technique adequate but innovation incremental.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Court academy (daigaku) declining; temple schools primary educational sites; literacy concentrated among aristocracy and clergy; knowledge stock preserved in monasteries; distribution narrow.<br><br>
-__Obsolescence & Knowledge Decay:__ Some administrative knowledge atrophying as bureaucratic functions lapse; religious and literary knowledge well-maintained; no catastrophic loss but practical governance skills decaying.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Imperial mythology (Kojiki, Nihon Shoki) underpins court identity; warrior lineages construct ancestral narratives; Buddhist cosmology frames collective memory; identity pluralizing along status lines.<br><br>
-__Artistic Expression & Material Culture:__ Late Heian aesthetic — waka poetry, narrative scrolls (emaki), lacquerware, Buddhist sculpture; court taste refines; warrior culture emerging in armor design and martial display; material culture stratified but vital.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mappo (end of the Dharma) anxiety pervades religious thought; aristocratic melancholy evident in literature; warrior ethos emphasizes honor and martial valor; mood darkening toward window's end with civil war.<br><br>
-__Form Exhaustion & Meaning Decay:__ Court rituals increasingly performative without administrative substance; some symbolic forms hollowing; Buddhist devotional forms retain vitality; partial form exhaustion at center.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Buddhist cosmology — karma, rebirth, mappo decline — shapes existential outlook; Shinto kami integrated with Buddhist framework (honji suijaku); fatalism increasing; piety intensifies as worldly order decays.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Aristocratic Buddhist devotion centers on Amida and Pure Land aspiration; pilgrimage to temple circuits; Shinto festivals continue; esoteric rituals for elite; devotional practice intensifying.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Tendai (Enryakuji), Shingon (Koyasan), and Nara temples wealthy and armed; monastic armies (sohei) intervene in politics; doctrinal authority contested; institutional power at peak.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhist-Shinto syncretism deepens; Pure Land devotion spreading among warriors and commoners; no significant displacement; diffusion broadening Buddhist reach downward.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; mappo anxiety intensifies spiritual engagement; sacred need addressed through devotional proliferation; discharge negligible.<br><br>
+# __1000 CE – 1185 CE — Late Heian Decline and Warrior Rise__
+
+__Summary:__ The final two centuries of Heian rule witness the flowering of vernacular manuscript culture alongside the gradual transfer of real power from the Fujiwara-dominated court to provincial warrior bands, a shift culminating in the Genpei War and the establishment of the Kamakura shogunate; the binding constraint is the court's inability to project coercive force beyond the capital while its documentary apparatus remained the sole source of legitimate authority.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Kinai heartland around Heian-kyō remains the ceremonial and administrative center, but effective control contracts as provincial estates (shōen) multiply and warrior houses consolidate regional bases in the Kantō plain, northern Honshu, and the Inland Sea corridor, each zone developing its own gravitational pull against the friction of mountain passes and maritime transit.
+
+__Climate Regime & Volatility:__ The Medieval Warm Period supports rice yields through reliable monsoons, enabling population growth in the provinces even as occasional droughts and floods punctuate the record; court diaries note years of poor harvests without systemic crisis.
+
+__Hazard Regime & Exposure:__ Earthquakes, typhoons, and fires recur; Heian-kyō burns repeatedly, the great fire of 1177 destroying much of the capital and accelerating aristocratic retreat to peripheral estates; such disasters strain the court's capacity to rebuild and reinforce perceptions of cosmic disorder.
+
+__Resource & Energy Endowment:__ Timber, iron, and rice remain the principal resources; provincial warriors control access to horses and iron for weapons, while the court depends on tribute flows that increasingly bypass central collection.
+
+__Waste Absorption & Sink Capacity:__ Urban Heian-kyō accumulates refuse and disease vectors as population density outpaces sanitation; epidemics noted in court records reflect sink saturation in the capital, though the countryside absorbs its own loads without recorded crisis.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Smallpox, measles, and seasonal fevers circulate; the aristocracy retreats to mountain villas during epidemics, while commoners bear the brunt; overall mortality is stable but shocks recur.
+
+__Nutrition & Physiological Vitality:__ Rice, fish, and vegetables sustain most bodies; aristocratic diets include delicacies and sake, but nutritional adequacy prevails across strata in non-famine years.
+
+__Care, Healing & Recovery Capacity:__ Court physicians trained in Chinese medicine attend the elite; Buddhist temples offer healing rites and herbal remedies; commoners rely on folk healing and temple charity.
+
+__Reproductive Biology & Pairing Dynamics:__ Aristocratic marriage alliances (particularly Fujiwara consort politics) shape succession; polygyny and concubinage spread heirs across households, diffusing claims and intensifying succession disputes.
+
+__Demographic Renewal & Density:__ Population grows slowly, concentrated in the Kinai and spreading into cleared lands; warrior households expand through adoption and subordinate recruitment.
+
+__Attrition & Dependency Overhang:__ Monastic celibacy removes reproductive capacity from a literate elite; retired emperors (insei) and widowed consorts accumulate as dependents on shōen income.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Wet-rice cultivation underpins subsistence; peasants labor under shōen managers, retaining enough to survive while transferring surplus upward.
+
+__Energy Capture & Conversion:__ Human and animal muscle, supplemented by water mills for hulling rice, power the agrarian economy; charcoal fuels forges for weapons and tools.
+
+__Labor Organization & Coercion:__ Peasants are tied to estates through custom and debt; corvée labor builds temples and palaces; warriors command personal retainers (kenin) through bonds of loyalty and land grants.
+
+__Production & Surplus Capacity:__ Surplus flows from rice fields to estate holders, thence to absentee aristocrats in the capital; silk, lacquer, and metalwork circulate as tribute and trade goods.
+
+__Storage, Reserves & Buffering:__ Granaries at estate headquarters buffer local shortfalls; the court treasury depends on tribute that increasingly fails to arrive as provincial warriors divert flows.
+
+__Exchange, Trade & Logistics:__ Coastal shipping along the Inland Sea and overland routes connect provinces to the capital; markets at temple gates and estate towns facilitate exchange; Song copper cash circulates alongside barter.
+
+__Value Storage, Credit & Deferred Exchange:__ Silk, rice, and copper cash serve as value stores; moneylenders (often temples) extend credit to impoverished aristocrats pledging future estate income.
+
+__Surplus Extraction & Redistribution:__ The shōen system fragments extraction; layers of proprietors—cultivators, resident managers, absentee patrons, and temple or court overlords—each claim shares, leaving little for central redistribution.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in the hands of Fujiwara regents, major temples, and emerging warrior houses; aristocrats defend holdings through court litigation and patron networks, warriors through force.
+
+__Byproducts & Waste Routing:__ Agricultural waste recycles into fields; urban refuse accumulates; financial mispricing is modest in a low-monetization economy, though credit extended to declining aristocrats becomes unrecoverable.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Aristocratic succession follows complex rules of maternal and paternal lineage; Fujiwara consort politics concentrate power in the regent's house; warrior bands coalesce around patrilineal descent and fictive kinship.
+
+__Association & Mutual Aid:__ Temple confraternities (kō), village associations, and warrior bands provide mutual support; samurai loyalty networks (gokenin relations) formalize reciprocal obligation.
+
+__Leisure, Play & Sociability:__ Court poetry gatherings, music, incense competitions, and kemari (kickball) fill aristocratic leisure; warriors hunt, train, and feast; festivals punctuate the agricultural calendar.
+
+__Stratification, Status & Group Structure:__ Rigid status distinctions separate court aristocracy (kuge), clergy, warriors (buke), and commoners; within each stratum, rank gradations determine access to office, income, and ceremony.
+
+__Administrative Capacity & Institutional Integrity:__ The ritsuryō bureaucracy persists in form but hollows in function; real decisions pass through Fujiwara regents and retired emperors (insei); provincial administration depends on locally rooted warriors who nominally hold court titles.
+
+__Coercive Apparatus & Means of Force:__ The court lacks a standing army; provincial warrior bands (the Taira, Minamoto, and others) monopolize military capacity; cavalry archers with composite bows and swords dominate warfare; the capital relies on summoning warrior houses to suppress disorder.
+
+__Discharge, Disorder & Decay:__ Banditry on roads and piracy along coasts reflect the court's coercive vacuum; the Hōgen (1156) and Heiji (1159) disturbances bring armed conflict into the capital; the Genpei War (1180–1185) shatters the old order, leaving the court as legitimating façade over warrior rule.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Aristocratic sensibility cultivates mono no aware—the pathos of impermanence—while warriors valorize loyalty, courage, and honor unto death; commoners endure with fatalistic piety.
+
+__Leadership & Personal Authority:__ Fujiwara regents and retired emperors command through ceremonial precedence and patronage; warrior chieftains (Taira Kiyomori, Minamoto Yoritomo) project personal charisma and military prowess.
+
+__Legitimacy as Lived Allegiance:__ The emperor remains the sacred source of legitimacy, but actual allegiance flows to whoever controls access to court rank and estate income; Taira Kiyomori's rise shows that military power can capture the legitimating apparatus.
+
+__Political Will & Collective Resolve:__ The court's will to govern atrophies; warrior houses demonstrate fierce resolve in internecine conflict; Minamoto Yoritomo's organizational drive creates a new locus of command.
+
+__External Relations & Posture:__ Japan remains largely insular; Song China is a cultural and commercial partner, not a military threat; the court ignores foreign affairs while warriors focus inward.
+
+__Disaffection, Apathy & Spent Will:__ Aristocratic ennui pervades court literature; the failure of the old order to defend itself leaves a residue of elegant despair, captured in the war tales that memorialize the fallen.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Kana scripts democratize vernacular writing beyond the kanbun-literate elite; court ladies, lesser clergy, and some warriors read and write hiragana.
+
+__Channels & Transmission Velocity:__ Messengers carry letters along post roads and by ship; information moves at horse speed, slower across mountains; court diaries circulate in manuscript copies.
+
+__Record, Storage & Persistence:__ Temple libraries, aristocratic archives, and the court preserve sutras, chronicles, legal precedents, and poetry collections; the Kokinshū, Tale of Genji, and Pillow Book become canonical texts copied and recopied.
+
+__Framing, Censorship & Discourse Norms:__ Court etiquette governs what may be spoken and written; poetry veils political commentary in allusion; warriors develop their own documentary conventions (letters of commendation, land grants).
+
+__Reception, Attention & Amplification:__ Poetry anthologies amplify canonical taste; war tales (gunki monogatari) begin to circulate, framing the Genpei conflict for memory.
+
+__Signal Integrity & Noise Load:__ Copying errors accumulate; textual variants proliferate; the court's documentary apparatus still outpaces warrior record-keeping, but the gap narrows.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Buddhist karma, Confucian hierarchy, and native purity concepts intermingle; justice is understood as alignment with cosmic and social order.
+
+__Law, Codification & Regulatory Evolution:__ Ritsuryō codes remain nominally in force but are overlaid by precedent, imperial edicts, and estate-specific rules; no new systematic codification occurs.
+
+__Adjudication, Liability & Sanction:__ Court bureaus adjudicate estate disputes; warriors increasingly settle disputes by force or local mediation; sanction ranges from exile to execution.
+
+__Rights, Protections & Compliance Burden:__ Rights inhere in status and office, not persons; compliance burdens fall on those without patrons; estate cultivators have customary protections eroded by layered claims.
+
+__Impunity & Unredressed Wrong:__ The powerful act with near-impunity; temple armies burn rival temples; warriors slay with little accountability; the court's moral authority exceeds its enforcement capacity.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Buddhist metaphysics (Tendai, Shingon) and Chinese classics dominate learned inquiry; history is conceived as moral exemplum; natural phenomena are read as omens.
+
+__Applied Knowledge & Technical Method:__ Temple builders, metalworkers, and papermakers refine craft techniques; calendar calculation, medical practice, and divination blend Chinese learning with local adaptation.
+
+__Education, Knowledge Stock & Skill Distribution:__ Court schools (daigaku) train aristocratic sons in Chinese classics; temple education produces literate clergy; warrior sons learn martial arts and basic literacy.
+
+__Obsolescence & Knowledge Decay:__ Older kanbun learning persists but becomes increasingly ceremonial; practical skills concentrate in hereditary craft lineages.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Kojiki and Nihon Shoki anchor imperial legitimacy in divine descent; aristocratic identity centers on Heian-kyō as the civilized center; warriors forge a martial identity through lineage and valor.
+
+__Legitimating Narrative & Ideology:__ The court legitimates itself through ritual purity and ceremonial precedence; warriors justify power through service to the court and protection of the realm.
+
+__Artistic Expression & Material Culture:__ Heian aesthetics—delicate calligraphy, layered silks, garden design, waka poetry—reach apogee; architecture blends Chinese forms with Japanese sensibility (shinden-zukuri); warrior culture begins to develop its own austere aesthetic.
+
+__Form Exhaustion & Meaning Decay:__ Late Heian court culture attains refined perfection but risks sterility; the forms that expressed vitality become conventions; the war tales inject new narrative energy as the old world collapses.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Mappō—the age of dharma decline—shapes eschatological anxiety; the world is understood as impermanent and suffering; salvation lies in devotion, merit, or rebirth in Amida's Pure Land.
+
+__Ritual, Devotion & Sacred Practice:__ Aristocrats sponsor sutra copying, temple construction, and elaborate rites; warriors seek battlefield protection through amulets and prayers; Pure Land nenbutsu practice spreads among commoners.
+
+__Religious Institutions & Doctrinal Authority:__ Tendai (Enryaku-ji) and Shingon (Kongōbu-ji) dominate established Buddhism; temple armies (sōhei) enforce institutional interests; new Pure Land movements (Hōnen, Shinran anticipated) begin to challenge monastic monopoly.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Shinto-Buddhist syncretism (shinbutsu-shūgō) pervades; kami are understood as local manifestations of buddhas; esoteric Buddhism absorbs indigenous cults.
+
+__Disenchantment & Sacred Discharge:__ The cosmic anxiety of mappō carries disenchantment within the sacred frame; the collapse of the old order reinforces rather than displaces religious intensity, channeling despair into devotion.

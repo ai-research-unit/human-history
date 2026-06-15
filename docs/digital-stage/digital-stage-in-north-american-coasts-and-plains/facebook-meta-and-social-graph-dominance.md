@@ -1,69 +1,139 @@
-# __2005 CE – 2026 CE__ — Facebook Meta and Social Graph Dominance
-__Summary:__ A pan-temporal snapshot of Facebook's arc from college network to global social infrastructure and its 2021 pivot to Meta, capturing the structural state of the platform's dominance over identity, attention, and advertising across two decades; the binding constraint is the tension between monetizing engagement and absorbing the social and political externalities that monetization generates; slack eroded sharply after 2016 as regulatory, reputational, and competitive pressures compounded; direction is defensive consolidation via acquisitions, metaverse diversification, and AI integration, with platform power intact but legitimacy thinning.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Headquarters in Menlo Park, datacenter footprint spanning North America, Europe, and Asia; spatial friction for user interaction effectively zero within broadband-served areas; infrastructure investment concentrated in temperate zones with cheap power.<br><br>
-__Climate Regime & Volatility:__ Datacenter locations selected for grid stability and cooling efficiency; climate volatility imposes redundancy costs but no direct operational disruption documented within window.<br><br>
-__Hazard Regime & Exposure:__ Earthquake exposure in California headquarters; distributed architecture buffers against single-site failure; margin against acute physical hazard adequate.<br><br>
-__Resource & Energy Endowment:__ Corporate renewable-energy commitments scale with load; hardware supply chains dependent on semiconductor availability; endowment access secure but subject to geopolitical chip-supply risk.<br><br>
-__Waste Absorption & Sink Capacity:__ Server refresh cycles generate e-waste; carbon footprint from training and inference growing with AI pivot; sink load measurable but small relative to regional capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Platform itself irrelevant to pathogen load except as vector for health misinformation during COVID; user mortality tracked only indirectly via account memorialization.<br><br>
-__Nutrition & Physiological Vitality:__ Platform use correlated with sedentary behavior and screen time; no direct causal pathway to nutritional status; physiological effects mediated through lifestyle rather than provisioning.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Facebook Dating launched 2019; Instagram influences body-image norms affecting mate selection; platform shapes pairing search costs but not biological fertility.<br><br>
-__Demographic Renewal & Density:__ User base aging as youth migrate to TikTok and Snapchat; demographic renewal of platform population slowing; density of engagement concentrated in older cohorts by window's end.<br><br>
-__Attrition & Dependency Overhang:__ Content-moderator workforce suffers documented psychological trauma; outsourced labor absorbs dependency costs; corporate employment itself generates limited dependency overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Platform irrelevant to subsistence provisioning directly; advertising revenue supports provisioning of employees and contractors; gig-economy content moderators near floor in some regions.<br><br>
-__Energy Capture & Conversion:__ Datacenter operations convert grid electricity into compute at increasing efficiency; AI workloads raise absolute consumption even as per-query efficiency improves.<br><br>
-__Labor Organization & Coercion:__ Core workforce salaried with high compensation; content moderation outsourced to low-wage contractors with limited bargaining power; labor regime bifurcated; coercion low but precarity high at contractor tier.<br><br>
-__Production & Surplus Capacity:__ Advertising revenue peaks 2021; surplus generation enormous relative to headcount; surplus capacity contracting 2022–2024 with ad-market softening and Apple privacy changes.<br><br>
-__Storage, Reserves & Buffering:__ Cash reserves substantial; stock buybacks and dividends sustained; buffering against revenue shock adequate through window; Reality Labs losses absorbed without existential threat.<br><br>
-__Exchange, Trade & Logistics:__ Advertising marketplace operates as two-sided auction; Marketplace feature enables peer-to-peer commerce; exchange infrastructure robust with high clearing velocity.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Libra/Diem cryptocurrency project abandoned 2022; no significant role in value storage; advertising credits and creator monetization payouts involve deferred exchange but at small scale.<br><br>
-__Surplus Extraction & Redistribution:__ Tax optimization via Irish subsidiary structure through 2020; federal and state tax payments rising post-reform; redistribution to shareholders via buyback; philanthropy via Chan Zuckerberg Initiative.<br><br>
-__Wealth Distribution & Asset Defense:__ Zuckerberg retains controlling stake via dual-class shares; wealth concentration extreme at founder level; asset defense via corporate structure and philanthropic vehicles.<br><br>
-__Byproducts & Waste Routing:__ Content moderation labor generates psychological waste externalized onto contractor workforce; e-waste routed through recyclers; misinformation and polarization externalized onto public sphere.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Platform enables mutual-aid coordination but also erodes trust through misinformation and manipulation exposure; net effect on trust ambiguous but trending negative post-2016.<br><br>
-__Stratification, Status & Group Identity:__ Influencer economy creates new status hierarchy; Groups feature reinforces identity silos; stratification by follower count and verification status formalized.<br><br>
-__Kinship, Family & Inheritance:__ Facebook originated as real-name social graph mapping actual kin and friend networks; memorial profiles and legacy contacts institutionalize digital inheritance; family visibility both enabled and surveilled.<br><br>
-__Civic Association & Self-Organization:__ Groups feature enables civic organizing from local to transnational scale; platform simultaneously hosts mutual aid and extremist coordination; associational fabric thickened but also fragmented.<br><br>
-__Leisure, Play & Sociability:__ Scrolling and engagement constitute significant leisure activity; gaming integration via Instant Games; sociability increasingly mediated through platform rather than face-to-face.<br><br>
-__Grievance Channels & Social Discharge:__ Comment sections and Groups absorb grievance expression; algorithmic amplification of outrage intensifies rather than discharges friction; significant social tension accumulates unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Zuckerberg holds controlling voting power via dual-class shares; board functions as advisory rather than check; internal authority highly centralized; regulatory pressure external but not yet binding.<br><br>
-__Succession & Power Transfer:__ No succession event in window; Zuckerberg's control unchallenged; Sandberg departure 2022 handled without disruption; transfer machinery untested.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy eroded sharply post-2016 and post-Cambridge Analytica; "connecting the world" narrative strained; metaverse pivot partly an attempt to escape reputational drag; legitimacy thinning.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Oversight Board created 2020 as quasi-judicial body; policy enforcement at scale inconsistent; integrity teams built then downsized; capacity fluctuates with priorities and layoffs.<br><br>
-__Political Participation & Mobilization:__ Platform used for voter registration and turnout drives; also used for voter suppression and misinformation; net effect on participation contested; mobilization capacity high but direction ambiguous.<br><br>
-__Geopolitical Position & External Relations:__ Banned in China; restricted in Russia; subject to EU regulatory pressure via GDPR and DSA; geopolitical exposure significant; external relations increasingly adversarial.<br><br>
-__Coercive Apparatus & Means of Force:__ No direct coercive capacity; compliance with government data requests varies by jurisdiction; deplatforming is reputational rather than physical coercion; force projection nil.<br><br>
-__Internal Order & Threat Environment:__ Internal leaks — Haugen 2021 — threaten operational secrecy; employee dissent episodic; competitive threat from TikTok acute; internal order stressed but maintained.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ News Feed algorithm controls transmission velocity for billions; Instagram and WhatsApp extend reach; velocity near-instantaneous within user network; cross-platform amplification routine.<br><br>
-__Record, Storage & Persistence:__ User data retained indefinitely; content takedowns remove visibility but not necessarily storage; institutional memory of moderation decisions inconsistent; persistence high for data, low for policy rationale.<br><br>
-__Framing, Censorship & Discourse Norms:__ Community Standards define permitted speech; enforcement inconsistent and criticized from all directions; algorithmic amplification shapes framing independent of explicit censorship; norms contested throughout window.<br><br>
-__Reception, Attention & Amplification:__ Engagement metrics drive amplification; outrage and novelty favored; attention captured then resold to advertisers; reception patterns engineered for retention.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation, spam, and coordinated inauthentic behavior impose chronic noise load; verification programs insufficient; signal-to-noise ratio degraded especially around elections and health crises.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public perception that platform enables harm without accountability; sense of injustice fuels regulatory pressure; moral foundations contested between free-expression and harm-prevention frames.<br><br>
-__Law, Codification & Regulatory Evolution:__ Section 230 provides immunity; FTC consent decree 2012 and $5 billion fine 2019; GDPR compliance required in EU; no comprehensive US platform regulation enacted in window; codification lags platform evolution.<br><br>
-__Adjudication, Enforcement & Liability:__ Oversight Board adjudicates select cases; internal enforcement opaque; FTC and state AG actions ongoing; liability largely externalized under Section 230; adjudication throughput thin relative to scale.<br><br>
-__Rights, Protections & Compliance Burden:__ User privacy rights expanded in EU via GDPR; US protections weaker; Apple ATT 2021 forces consent for tracking; compliance burden rising but absorbed; autonomy protections improving marginally.<br><br>
-__Impunity & Unredressed Wrong:__ Cambridge Analytica harms largely unredressed at individual level; content-moderator trauma uncompensated for most; platform retains broad immunity; impunity gap substantial.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Facebook AI Research (FAIR) contributes to open-source ML; PyTorch widely adopted; research paradigm aligned with industry frontier; investment in AI sustained through metaverse pivot.<br><br>
-__Applied Knowledge & Technical Method:__ Advertising targeting, recommendation algorithms, and content ranking represent applied frontier; Llama open-source LLM released 2023; technique diffused via open-source and hiring.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Internal engineering talent among highest-skilled globally; knowledge concentrated in platform; external education benefits from open-source releases; skill distribution highly unequal.<br><br>
-__Obsolescence & Knowledge Decay:__ Rapid iteration obsoletes prior models; institutional knowledge lost in layoff cycles; some technique decay offset by documentation and open-sourcing; net decay moderate.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin myth of Harvard dorm room and "move fast and break things" ethos persists but sours; Zuckerberg's image shifts from wunderkind to villain in popular narrative; foundational identity under revision.<br><br>
-__Artistic Expression & Material Culture:__ Platform hosts and shapes visual culture via Instagram aesthetics; filters and formats standardize expression; material culture of influencer lifestyle disseminated globally.<br><br>
-__Collective Mood & Behavioral Disposition:__ User mood correlated with feed content — documented in 2014 emotional-contagion study; platform-induced anxiety and comparison widely reported; collective mood shaped by and reflected in usage patterns.<br><br>
-__Form Exhaustion & Meaning Decay:__ Like button and engagement metrics hollowed into compulsive ritual; authenticity discourse signals form exhaustion; new formats — Reels, Stories — attempt renewal but recycle TikTok innovations.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Platform agnostic on cosmology; metaverse vision offers secular transcendence narrative — escape from physical limits into digital realm; uptake of this vision thin.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily scrolling constitutes quasi-devotional habit for many users; birthday notifications and memorial profiles formalize lifecycle ritual; sacred function appropriated by secular platform.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious groups use platform for organizing and outreach; no doctrinal authority vested in platform itself; relationship with religious institutions instrumental and neutral.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Wellness and self-help content spreads via Instagram; spiritual marketplace enabled but not directed by platform; diffusion accelerated without specific doctrinal content.<br><br>
-__Disenchantment & Sacred Discharge:__ Platform contributes to disenchantment by commodifying attention and relationship; sacred meaning erodes into engagement metric; spiritual residue accumulates as vague dissatisfaction and platform fatigue.<br><br>
+# __2005 CE – 2026 CE — Facebook Meta and Social Graph Dominance__
+
+__Summary:__ Facebook grows from a college social network into the dominant mapper and monetizer of human relationships in North America, acquiring Instagram and WhatsApp to capture the social graph across demographics, building an advertising machine that consumes news media revenue, weathering crises from Cambridge Analytica to the Haugen whistleblower revelations, rebranding as Meta to pursue a metaverse vision that underperforms, and entering the AI era with its core business intact but its legitimacy eroded and its regulatory position increasingly contested.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Facebook's headquarters in Menlo Park, California, anchors Silicon Valley's social media cluster. The company's data centers distribute across Oregon, North Carolina, Texas, Iowa, and internationally to reduce latency and comply with data localization requirements. Physical infrastructure follows users: early expansion prioritizes North American and European connectivity, with mobile optimization enabling reach into areas with limited fixed broadband.
+
+__Climate Regime & Volatility:__ Data center siting responds to climate considerations. The Prineville, Oregon, and Lulea, Sweden, facilities leverage cool climates for reduced cooling costs. As climate volatility increases, facilities in Texas and the Southeast face grid stress during extreme heat events. The company commits to renewable energy targets, achieving 100% renewable energy for operations by 2020.
+
+__Hazard Regime & Exposure:__ Distributed data center architecture provides redundancy against localized disruption. California headquarters face earthquake and wildfire risk but no major operational disruption occurs within the window. Political and regulatory hazards prove more consequential than physical ones.
+
+__Resource & Energy Endowment:__ Power consumption grows with user base and computational demands. Video and AI recommendation systems require more processing per interaction than early text-and-photo feeds. The company consumes electricity equivalent to a small city by 2020. Renewable energy procurement, including direct power purchase agreements, shapes facility siting.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from hardware refresh cycles accumulates. Carbon emissions draw criticism despite renewable energy commitments, since supply chain and embodied carbon remain significant. The environmental footprint of the metaverse pivot, with its computing demands, raises concerns that remain unresolved.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 accelerates platform use as physical interaction declines. Facebook becomes a vector for pandemic misinformation but also for public health communication. The platform's role in vaccine hesitancy and COVID misinformation draws congressional scrutiny.
+
+__Nutrition & Physiological Vitality:__ The platform's effects on mental health, particularly among adolescents, become a major controversy. Internal research (leaked by Frances Haugen in 2021) shows Instagram correlates with negative body image and mental health outcomes for teenage girls. The company disputes causal claims but cannot refute the correlation.
+
+__Care, Healing & Recovery Capacity:__ Facebook and Instagram create spaces for health support communities (chronic illness, mental health, addiction recovery) but also expose vulnerable users to harmful content. The platform's recommendation algorithms may direct users toward eating disorder and self-harm content, though the company implements some mitigations.
+
+__Reproductive Biology & Pairing Dynamics:__ Facebook Dating launches in 2019, entering a market already shaped by Tinder and other apps. The platform documents relationship formation and dissolution, with relationship status changes becoming significant social signals. Fertility announcements and family documentation become major use cases.
+
+__Demographic Renewal & Density:__ User demographics shift over the window. Facebook ages as younger users migrate to Instagram (which Facebook owns) and later to TikTok (which it does not). By 2020, Facebook's core app skews older, while Instagram captures younger demographics. The company's family of apps collectively spans generations.
+
+__Attrition & Dependency Overhang:__ The platform creates dependency patterns. Older users rely on Facebook for family connection and community groups. The time cost of use, and the mental health effects of social comparison, represent a biological overhead the platform extracts from its users.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Facebook provides free services funded by advertising. Users contribute attention and data rather than money. This model makes the platform accessible regardless of income but creates incentives to maximize engagement over user welfare.
+
+__Energy Capture & Conversion:__ The company captures human attention and converts it into advertising revenue. This attention arbitrage represents a new form of economic conversion, extracting value from social interaction without paying users for their contributions.
+
+__Labor Organization & Coercion:__ Content moderation relies on low-paid contract workers, often offshore, who review disturbing material under production pressure. The psychological toll on moderators draws investigative reporting and litigation. Engineers and designers receive high compensation but face pressure to optimize for engagement metrics that may conflict with user welfare.
+
+__Production & Surplus Capacity:__ Advertising revenue grows from under one billion dollars in 2009 to over one hundred billion in 2021. Profit margins remain high (often exceeding 30%) until the metaverse pivot increases costs. The advertising business generates enormous surplus with relatively modest labor inputs, creating one of history's most profitable enterprises per employee.
+
+__Storage, Reserves & Buffering:__ Cash reserves accumulate through the high-profit years, reaching tens of billions by 2020. This war chest funds the Instagram and WhatsApp acquisitions and later absorbs metaverse losses exceeding ten billion dollars annually. The company can sustain unprofitable ventures longer than any competitor.
+
+__Exchange, Trade & Logistics:__ Facebook Marketplace launches in 2016, entering local commerce. The platform becomes a significant venue for peer-to-peer and small business transactions, though it does not displace specialized platforms like eBay or Craigslist.
+
+__Value Storage, Credit & Deferred Exchange:__ The Libra/Diem cryptocurrency project (announced 2019) attempts to enter payments and value storage. Regulatory opposition forces significant redesign and ultimately abandonment in 2022. Facebook Pay (later Meta Pay) provides more modest payment functionality.
+
+__Surplus Extraction & Redistribution:__ Advertising revenue extracts value from user attention and redistributes it to shareholders. Publishers and creators receive minimal direct compensation until creator programs launch in the 2020s. The advertising duopoly with Google captures revenue that previously supported journalism, contributing to news media collapse.
+
+__Wealth Distribution & Asset Defense:__ Mark Zuckerberg's controlling stake (through dual-class shares) concentrates governance power despite minority economic ownership. This structure survives shareholder challenges. Zuckerberg's personal wealth reaches over one hundred billion dollars at peak, declining with stock price but remaining among the world's largest fortunes.
+
+__Byproducts & Waste Routing:__ The platform generates informational waste: low-quality content, misinformation, engagement bait. Algorithmic optimization for engagement amplifies emotionally provocative material. The social cost of this waste accumulates as polarization, misinformation exposure, and mental health effects, externalized onto users and society.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Facebook becomes infrastructure for extended family connection, particularly across distances. Holiday photo sharing, birthday reminders, and memorial pages structure family interaction. Inheritance of digital assets (access to deceased users' accounts) creates new legal and practical questions.
+
+__Association & Mutual Aid:__ Facebook Groups become significant organizing infrastructure. Local community groups, hobbyist communities, support groups, and political organizing all operate on the platform. By 2020, over one billion people participate in Groups. The platform's decisions about which groups to permit or remove become consequential.
+
+__Leisure, Play & Sociability:__ Social media use becomes a dominant leisure activity. Average daily time on Facebook and Instagram reaches hours for heavy users. The platform mediates social comparison, event planning, and casual interaction. Games (FarmVille, later Instant Games) provide entertainment within the platform.
+
+__Stratification, Status & Group Structure:__ The platform creates new status hierarchies based on follower counts, engagement, and verification marks. Influencers emerge as a new class. The algorithm's choices about whose content to amplify shape who gains visibility and status. Verification (the blue check) becomes a contested marker of legitimacy.
+
+__Administrative Capacity & Institutional Integrity:__ Facebook's internal governance grows from startup informality to bureaucratic complexity. The company employs over 70,000 people by 2022, with significant content moderation, legal, and policy staff. The Oversight Board (launched 2020) attempts to provide independent review of content decisions, with limited scope and contested legitimacy. Internal integrity suffers through the succession of scandals, leaks, and credibility crises.
+
+__Coercive Apparatus & Means of Force:__ The platform holds no physical coercive capacity but wields significant soft power through its ability to remove accounts, suppress content, and shape information flows. Deplatforming decisions (Alex Jones, Donald Trump) demonstrate this power. Governments seek to direct this capacity toward their own ends, with varying success.
+
+__Discharge, Disorder & Decay:__ Platform-enabled harassment, coordinated inauthentic behavior, and extremist organizing represent disorder the company struggles to contain. Content moderation at scale proves impossible to do well. The gap between stated policies and actual enforcement creates cynicism. Employee departures (including senior executives) and whistleblower disclosures indicate internal decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Public sentiment toward Facebook shifts dramatically across the window. Early enthusiasm (connecting people, enabling activism) gives way to suspicion (data harvesting, manipulation) and hostility (political polarization, teen mental health). The "Delete Facebook" movement following Cambridge Analytica achieves symbolic importance but limited actual effect. Trust in the company falls to among the lowest of major corporations.
+
+__Leadership & Personal Authority:__ Mark Zuckerberg maintains personal control throughout, though his public image transforms from idealistic founder to embattled executive. Sheryl Sandberg provides operational leadership and serves as public face for business and policy until her departure in 2022. Zuckerberg's 2018 congressional testimony ("Senator, we run ads") becomes an emblem of tech-government disconnect.
+
+__Legitimacy as Lived Allegiance:__ The company's legitimacy erodes through accumulated crises. Users continue using the platform (network effects create lock-in) but with diminished trust and affection. The Meta rebrand attempts to escape Facebook's reputational baggage but convinces few observers.
+
+__Political Will & Collective Resolve:__ Zuckerberg's personal will drives major strategic decisions: the acquisitions, the pivot to mobile, the metaverse bet. The company demonstrates resolve in defending its business model against regulatory pressure. Internal dissent (employee petitions, departures) indicates contested will within the organization.
+
+__External Relations & Posture:__ Relations with government shift from cooperative (Obama era) to adversarial (Trump era and after). The company faces regulatory pressure from the FTC, state attorneys general, and Congress. Relations with advertisers remain commercially stable despite controversy. Relations with news publishers deteriorate as the platform extracts their audience and revenue.
+
+__Disaffection, Apathy & Spent Will:__ User fatigue manifests in declining engagement on core Facebook, partially offset by Instagram growth. Employee morale suffers through controversies and the metaverse pivot's uncertain reception. The optimism of the company's early years gives way to defensive positioning and internal cynicism.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Facebook lowers barriers to social communication globally. The platform provides free access regardless of literacy level (photo and video options). Internet.org (later Free Basics) attempts to expand connectivity in developing countries, drawing criticism as a walled-garden approach to internet access.
+
+__Channels & Transmission Velocity:__ The News Feed becomes a primary information channel for hundreds of millions. Feed algorithm changes determine what information spreads. The shift from chronological to algorithmic feeds (2009 and after) gives the company control over information velocity and reach.
+
+__Record, Storage & Persistence:__ Facebook stores and retains user data indefinitely, creating a persistent record of social interaction. This archive enables advertising targeting and serves as evidence in legal proceedings. Data portability (the ability to export one's own data) remains limited despite regulatory pressure.
+
+__Framing, Censorship & Discourse Norms:__ Community Standards evolve from minimal rules to elaborate content policies. The company makes consequential decisions about permitted speech: removing hate speech, medical misinformation, and eventually political content that violates rules. These decisions draw criticism from both sides: too much censorship (from conservatives) and too little (from liberals and advocates for targeted communities).
+
+__Reception, Attention & Amplification:__ Algorithmic amplification shapes what content receives attention. Engagement optimization favors emotionally provocative material. The platform's choices about what to amplify prove more consequential than its choices about what to remove. Viral misinformation spreads faster than corrections.
+
+__Signal Integrity & Noise Load:__ The platform struggles to maintain signal integrity against coordinated inauthentic behavior, spam, and misinformation. Fake accounts, bots, and troll farms (including Russian interference operations) pollute the information environment. Detection and removal efforts improve but cannot eliminate the problem. The ratio of meaningful signal to noise degrades over the window.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The company's stated values emphasize connection, community, and openness. Critics argue these values mask a business model that profits from division and manipulation. Internal debates about the company's moral responsibilities surface through leaks and whistleblower testimony.
+
+__Law, Codification & Regulatory Evolution:__ Section 230 of the Communications Decency Act provides legal immunity for user-generated content, enabling the platform's business model. Reform proposals proliferate but none pass. The EU's Digital Services Act (2022) creates binding obligations for large platforms. State-level legislation in Texas and Florida attempts to constrain content moderation, facing constitutional challenges.
+
+__Adjudication, Liability & Sanction:__ The FTC consent decree (2012, modified 2019) requires privacy protections, with a five billion dollar penalty for violations. Antitrust litigation (FTC lawsuit filed 2020) seeks to unwind Instagram and WhatsApp acquisitions but faces legal obstacles. Cambridge Analytica triggers regulatory action in multiple jurisdictions. No executive faces personal liability.
+
+__Rights, Protections & Compliance Burden:__ GDPR (2018) grants European users data rights that practically extend to US users through unified systems. The company complies with subpoenas and legal process, turning over user data to law enforcement. Advertiser data access creates vulnerabilities exploited by Cambridge Analytica.
+
+__Impunity & Unredressed Wrong:__ The company pays fines that represent small fractions of revenue. No structural remedy constrains its market power. Harms to users (mental health effects, privacy violations, exposure to harmful content) go largely uncompensated. The gap between the company's stated values and its actual effects accumulates as moral debt.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Facebook AI Research (FAIR) becomes a major artificial intelligence research center. Contributions to deep learning, natural language processing, and computer vision give the company technical credibility. Open-source releases (PyTorch, Llama) spread the company's technical approaches. The paradigm of engagement optimization shapes product development.
+
+__Applied Knowledge & Technical Method:__ Engineering techniques for serving billions of users at low latency represent significant applied knowledge. The company's infrastructure capabilities enable rapid feature deployment. A/B testing at scale allows empirical optimization of design choices. The methods of growth hacking and engagement optimization become industry standard.
+
+__Education, Knowledge Stock & Skill Distribution:__ The company employs large numbers of skilled engineers, creating a talent concentration. Alumni spread through the industry, distributing techniques and culture. Internal training and knowledge management support technical capability. The practical knowledge of content moderation at scale remains largely proprietary.
+
+__Obsolescence & Knowledge Decay:__ Technical approaches evolve rapidly; skills in older systems become obsolete. The company's early PHP codebase gives way to more modern infrastructure. Knowledge about user behavior and content dynamics accumulates faster than it can be documented or institutionalized.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The founding narrative centers on Harvard dorm-room innovation, connecting people, and disrupting established media. "Move fast and break things" expresses early cultural values. The company's identity shifts from scrappy startup to dominant platform to embattled incumbent. The Meta rebrand attempts but fails to reset this identity.
+
+__Legitimating Narrative & Ideology:__ The company frames itself as connecting the world, giving people voice, and enabling community. Critics counter that it profits from division, surveils users, and undermines democracy. The "connecting people" narrative becomes increasingly difficult to maintain as evidence of harms accumulates.
+
+__Artistic Expression & Material Culture:__ Facebook's design aesthetic (blue and white, clean interface, iconic thumbs-up) becomes globally recognizable. The Like button becomes a cultural symbol. Facebook's visual language shapes social media design broadly. The metaverse vision aspires to create new forms of expression but delivers crude virtual environments.
+
+__Form Exhaustion & Meaning Decay:__ The News Feed format shows signs of exhaustion by the late 2010s. Users post less original content, sharing more external links and memes. The platform becomes less a place for self-expression than a news and entertainment aggregator. Attempts to revive personal sharing (Memories, Stories) yield mixed results.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The company promotes a vision of technological progress connecting humanity. Zuckerberg's metaverse vision extends this to virtual worlds enabling new forms of presence and community. Critics see a narrowly commercial worldview that instrumentalizes human connection.
+
+__Ritual, Devotion & Sacred Practice:__ The platform hosts religious communities and enables religious organizing. Birthday greetings become a secularized ritual. Memorial pages create spaces for collective mourning. The platform does not generate new spiritual practices but provides infrastructure for existing ones.
+
+__Religious Institutions & Doctrinal Authority:__ Churches and religious organizations use Facebook for outreach and community management. The platform's content policies occasionally conflict with religious expression. No significant interaction between the company and religious institutional authority occurs.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The platform enables religious content to spread but also exposes users to secular alternatives and religious diversity. Whether this promotes syncretism or polarization varies by context. The attention capture model competes with traditional spiritual practices for time and focus.
+
+__Disenchantment & Sacred Discharge:__ The commodification of social connection that Facebook represents may accelerate disenchantment, reducing relationships to engagement metrics and advertising targets. The gap between the platform's rhetoric of connection and its commercial reality creates a residue of cynicism. Users continue participating while holding diminished belief in the platform's stated purposes, a form of disenchantment that coexists with continued use.

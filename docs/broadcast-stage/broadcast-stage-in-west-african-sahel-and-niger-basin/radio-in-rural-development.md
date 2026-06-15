@@ -1,69 +1,139 @@
-# __1955 CE – 2018 CE__ — Radio in Rural Development
-__Summary:__ A pan-temporal snapshot of radio as a rural development tool across the West African Sahel and Niger Basin, from late colonial agricultural broadcasts through community radio's peak; binding constraint is limited reach and infrastructure decay competing against mobile displacement; margin narrows as donor funding recedes and phone-based information channels absorb functions; direction trends from expansion under development-aid peak toward fragmentation and displacement by mobile telephony.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Sahel belt and Niger Basin impose vast distances between dispersed villages, radio's capacity to leap spatial friction central to its rural development value, though transmitter range limited by terrain and maintenance.<br><br>
-__Climate Regime & Volatility:__ Seasonal rainfall variability and recurrent drought cycles (1970s, 1980s, 2010s) make agricultural extension broadcasts critical for planting schedules, weather warnings, and pastoral movements across the semi-arid zone.<br><br>
-__Hazard Regime & Exposure:__ Drought, locust swarms, and flood pulses threaten rural livelihoods; radio provides warning and coordination capacity, though reach incomplete and response capacity constrained by infrastructure limits.<br><br>
-__Resource & Energy Endowment:__ Electricity scarce in rural areas; battery-powered transistor radios and later solar charging sustain listenership, though power supply remains a binding friction on reception consistency.<br><br>
-__Waste Absorption & Sink Capacity:__ Negligible; battery disposal accumulates modestly without systematic collection, absorptive capacity effectively unlimited relative to load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria, cholera outbreaks, meningitis belt exposure; health radio campaigns target disease prevention, supplementing limited rural clinic networks, though mortality rates decline only slowly.<br><br>
-__Nutrition & Physiological Vitality:__ Chronic malnutrition in Sahelian zones; agricultural extension broadcasts aim to improve yields and dietary diversity, with measurable but modest impact where listenership and adoption intersect.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility persists; family planning broadcasts introduced from 1970s onward, adoption slow and regionally uneven, traditional patterns resistant to messaging alone.<br><br>
-__Demographic Renewal & Density:__ Rapid population growth outpaces rural infrastructure; radio as scalable information channel partially compensates for clinic and school deficits, though demographic pressure continues to rise.<br><br>
-__Attrition & Dependency Overhang:__ High child dependency ratios; radio's educational function partially substitutes for scarce schooling, though orphan and widow burdens from AIDS (1990s-2010s) and conflict remain largely unaddressed by broadcast alone.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Smallholder agriculture dominates; radio farm broadcasts disseminate planting calendars, pest alerts, and market prices, raising information access though adoption varies by literacy and language coverage.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle primary; radio information improves technique marginally (improved seeds, water harvesting) without altering energy base, transition toward mechanization negligible in rural Sahel.<br><br>
-__Labor Organization & Coercion:__ Household and communal labor; development radio promotes cooperative and microfinance models, formalization gradual, coercion largely absent except where state extracts corvee for infrastructure.<br><br>
-__Production & Surplus Capacity:__ Yields remain low by global standards; extension broadcasts contribute to modest gains (10-20% where adopted), surplus slim and vulnerable to climate shocks.<br><br>
-__Storage, Reserves & Buffering:__ Granary storage traditional but inadequate against prolonged drought; radio-linked early warning systems and food security programs improve coordination, though reserves rarely exceed one poor-harvest buffer.<br><br>
-__Exchange, Trade & Logistics:__ Market price broadcasts reduce information asymmetry for farmers, transport infrastructure poor, radio partially substitutes for physical connectivity but cannot replace roads.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Informal savings groups promoted via radio; microfinance expansion 1990s-2000s; mobile money (2010s) increasingly displaces radio's informational role in credit and payment coordination.<br><br>
-__Surplus Extraction & Redistribution:__ State extraction light in rural areas; donor-funded development radio projects channel external resources, sustainability questionable as aid budgets fluctuate.<br><br>
-__Wealth Distribution & Asset Defense:__ Land and livestock remain primary assets; radio information marginally improves market position of informed farmers, inequality persists between those with and without reception access.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste managed traditionally; radio extension promotes composting and residue recycling, adoption partial, environmental load dispersed and within absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village solidarity networks strong; community radio strengthens local associational life, participatory programming builds trust, though elite capture of stations occasionally fractures cohesion.<br><br>
-__Stratification, Status & Group Identity:__ Ethnic and caste hierarchies persist; radio in local languages elevates vernacular status, though prestige of French/English official languages endures, stratification stable rather than dissolved.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal and patrilocal norms dominant; radio messaging on women's rights and inheritance gradual, behavioral change slow against customary practice.<br><br>
-__Civic Association & Self-Organization:__ Farmer groups, women's associations, and health committees proliferate with radio support; community radio stations themselves become associational anchors, thickening civil society fabric.<br><br>
-__Leisure, Play & Sociability:__ Communal radio listening creates shared social space; evening broadcasts gather households, reinforcing village sociability and shared rhythms.<br><br>
-__Grievance Channels & Social Discharge:__ Phone-in programs and local broadcasts provide voice for complaints, disputes, and mediation, channeling friction that might otherwise accumulate, though reach incomplete in remote areas.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ State authority weak in rural peripheries; development radio programs often donor- or NGO-backed, creating parallel information channels that bypass or supplement state extension services.<br><br>
-__Succession & Power Transfer:__ Central to national politics, rural radio largely uninvolved except during election broadcasts; local power transitions follow customary or administrative channels outside broadcast influence.<br><br>
-__Legitimacy & Political Narrative:__ Development radio frames state as provider of progress; legitimacy gains where services improve, skepticism where promises unmet; community radio sometimes voices critique.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State agricultural and health ministries rely on radio for extension reach; capacity declines during structural adjustment (1980s-90s), partially substituted by NGO and donor programming.<br><br>
-__Political Participation & Mobilization:__ Voter registration and civic education broadcasts expand participation, community radio enables local mobilization, though rural turnout remains contingent on transport and access.<br><br>
-__Geopolitical Position & External Relations:__ External donors (USAID, FAO, World Bank) fund rural radio projects, creating soft influence channels; RFI and BBC reach rural listeners, providing alternative information.<br><br>
-__Coercive Apparatus & Means of Force:__ State coercive presence light in rural zones; radio conflict early-warning systems (Mali, Niger post-2012) attempt to compensate for security gaps.<br><br>
-__Internal Order & Threat Environment:__ Pastoral-farmer conflicts, banditry, and jihadist incursions (2010s) create insecurity; radio used for peace messaging, though violence often outpaces information response.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Radio remains dominant rural information channel through 2010; transmission reaches within hours across broadcast zone, velocity constrained by transmitter power and maintenance.<br><br>
-__Record, Storage & Persistence:__ Broadcasts ephemeral; archival practice weak, station records spotty, oral memory carries content beyond transmission, institutional memory decays with personnel turnover.<br><br>
-__Framing, Censorship & Discourse Norms:__ Development messaging generally uncontroversial; political content subject to state oversight, community stations more autonomous, discourse norms favor consensus and non-partisan framing.<br><br>
-__Reception, Attention & Amplification:__ Listening peaks at morning and evening; communal reception amplifies reach beyond set ownership, word-of-mouth extends broadcast content to non-listeners.<br><br>
-__Signal Integrity & Noise Load:__ Information quality depends on station capacity; misinformation occasional but not dominant, noise load rises as FM proliferation (2000s) multiplies sources without quality control.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Customary norms of reciprocity and community responsibility underpin development messaging; radio reinforces shared expectations of mutual aid.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting law evolves from state monopoly toward licensing frameworks (1990s-2000s); community radio operates under varied and sometimes unclear legal status.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes over land, water, and livestock occasionally aired on community radio for mediation, supplementing formal and customary adjudication, enforcement remains local.<br><br>
-__Rights, Protections & Compliance Burden:__ Broadcasting licenses impose compliance burdens; community stations struggle with regulatory fees and reporting requirements, protection of journalist rights inconsistent.<br><br>
-__Impunity & Unredressed Wrong:__ Land disputes and resource conflicts often unresolved; radio mediation partial, formal justice inaccessible in remote areas, impunity for powerful actors persists.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Development communication theory (diffusion of innovations, participatory communication) frames radio practice; paradigm shifts from top-down extension toward participatory models by 1990s.<br><br>
-__Applied Knowledge & Technical Method:__ Practical knowledge disseminated: improved seeds, water harvesting, health practices; radio bridges research-to-farmer gap, though adoption varies with local adaptation capacity.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Adult literacy low; radio educational programs partially compensate, functional knowledge transmitted orally, skill distribution improves unevenly where listenership sustained.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional ecological knowledge partially preserved via radio, though modernization narratives sometimes devalue it; archival decay means broadcast content lost, institutional memory thin.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Development radio layers modernization narrative over agrarian identities; community radio preserves local histories, origin stories, and vernacular traditions against homogenizing pressures.<br><br>
-__Artistic Expression & Material Culture:__ Musical interludes, oral poetry, and drama programming embed cultural expression within development content; material culture unaffected except through consumption shifts messaging encourages.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism during expansion phases (1960s-70s, 2000s FM boom); fatigue and skepticism during crises; mood lifts where community radio provides local voice and agency.<br><br>
-__Form Exhaustion & Meaning Decay:__ Development messaging risks becoming formulaic; listener fatigue with repeated slogans documented, renewal through participatory formats and local content partially counters exhaustion.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islamic cosmology dominant in Sahel, coexisting with animist substrates; development messaging largely secular, spiritual frame shapes reception and interpretation of modernization content.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious programming (Quranic recitation, sermons) interspersed with development content; sacred calendar structures broadcast schedules during Ramadan and festivals.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Marabouts and imams influential; Islamic radio stations proliferate from 1990s, doctrinal content sometimes competes with development messaging, authority fragmented across stations.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islamic reformism spreads via radio, syncretic practices critiqued by purist programming, traditional cosmologies recede in urban-adjacent zones while persisting rurally.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular development framing creates tension with spiritual expectations; where material progress stalls, disenchantment with modernization narrative emerges, some turn to religious radio for meaning.<br><br>
+# __1955 CE – 2018 CE — Radio in Rural Development__
+
+__Summary:__ Radio emerges as the primary instrument for reaching illiterate rural populations across the West African Sahel and Niger Basin, evolving from colonial agricultural extension through state-directed development broadcasting to participatory community radio, with the oral medium's capacity to bypass literacy constraints and linguistic diversity proving the binding factor in rural information access across six decades.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Sahel's semi-arid belt and the Niger Basin's dispersed agricultural settlements create vast distances between villages and administrative centers, with poor road infrastructure making face-to-face extension visits costly and infrequent; radio signals propagate across these distances at minimal marginal cost, collapsing spatial friction for information transmission while physical goods and personnel remain constrained by terrain.
+
+__Climate Regime & Volatility:__ Rainfall variability across the 200–600mm isohyet band determines agricultural outcomes; seasonal forecasts, drought warnings, and planting advisories broadcast via radio become critical decision inputs for farmers lacking alternative meteorological access, with the 1968–1974 and 1980s Sahel droughts demonstrating both the value and limitations of broadcast agricultural information.
+
+__Hazard Regime & Exposure:__ Locusts, floods along the Niger, and livestock disease outbreaks constitute recurrent hazards; radio enables rapid dissemination of pest alerts and emergency veterinary advisories across regions that would take weeks to reach by extension officers.
+
+__Resource & Energy Endowment:__ Battery-powered and later solar-powered transistor radios overcome the absence of electrical grids in rural areas; the falling cost of receivers from the 1960s onward enables individual household ownership rather than dependence on collective listening posts.
+
+__Waste Absorption & Sink Capacity:__ Environmental degradation messaging—soil conservation, deforestation warnings, desertification awareness—enters rural discourse through radio programming, though behavioral change lags behind broadcast exposure and the sink continues to saturate under agricultural and pastoral pressure.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Health broadcasting addresses endemic diseases—malaria, guinea worm, meningitis—through prevention messaging; radio drama and jingles reach populations beyond the clinic network, with measurable impacts on vaccination uptake and oral rehydration therapy adoption during the 1980s–1990s primary health care push.
+
+__Nutrition & Physiological Vitality:__ Agricultural extension programming targets improved crop varieties, storage techniques to reduce post-harvest losses, and nutritional diversification; the 1970s–1980s radio farm forums in Nigeria and Ghana disseminate green revolution inputs to smallholders.
+
+__Care, Healing & Recovery Capacity:__ HIV/AIDS awareness campaigns from the late 1980s onward use radio as the primary vector for reaching rural populations, with radio drama formats proving more effective than didactic messaging in shifting attitudes toward testing and treatment.
+
+__Reproductive Biology & Pairing Dynamics:__ Family planning messaging enters rural discourse through radio, though cultural resistance and limited service availability constrain behavioral impact; community radio stations in the 2000s–2010s provide localized discussion of reproductive health in vernacular languages.
+
+__Demographic Renewal & Density:__ Population pressure on agricultural land intensifies across the period; radio programming addresses land tenure disputes, inheritance customs, and rural-urban migration decisions without reversing demographic trends.
+
+__Attrition & Dependency Overhang:__ Child survival messaging and maternal health programming contribute to declining infant mortality, altering the dependency ratio as more children survive to productive age while the elderly population remains small relative to other regions.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Radio farm broadcasts target the subsistence margin directly—planting dates, pest control, drought-resistant varieties—with the Nigerian Agricultural Broadcasting Company and similar state services providing weekly programming calendars tied to seasonal agricultural cycles.
+
+__Energy Capture & Conversion:__ Transistor radio adoption depends on battery availability; the shift to solar-powered receivers in the 2000s reduces energy costs for rural listeners and enables more continuous access outside daylight hours when agricultural labor competes for attention.
+
+__Labor Organization & Coercion:__ Cooperative movement promotion, collective marketing advisories, and labor-sharing arrangement facilitation enter radio content; the format reinforces state-sponsored agricultural organization models while providing limited space for alternative producer voices.
+
+__Production & Surplus Capacity:__ Market price information disseminated via radio enables producers to time sales and negotiate with middlemen; the Radio Rurale networks in Francophone West Africa and similar Nigerian services demonstrably improve producer price realization for groundnuts, cotton, and cereals.
+
+__Storage, Reserves & Buffering:__ Post-harvest loss prevention messaging—grain storage techniques, pest control for stored crops—addresses the storage bottleneck; radio reaches more farmers than extension agents can visit but behavioral uptake remains partial without complementary input supply.
+
+__Exchange, Trade & Logistics:__ Market price broadcasts—Radio Rurale's daily market reports, Nigerian commodity price services—create information symmetry between rural producers and urban traders; mobile phone integration after 2005 begins displacing radio's price information role in areas with network coverage.
+
+__Value Storage, Credit & Deferred Exchange:__ Microfinance and rural credit information reaches potential borrowers through radio; the limitations of oral medium for complex financial products become apparent as the sector sophisticates.
+
+__Surplus Extraction & Redistribution:__ State-sponsored radio reinforces extractive marketing board systems through the 1980s; the post-adjustment period sees radio content shift toward private market information as parastatals dissolve.
+
+__Wealth Distribution & Asset Defense:__ Land rights messaging and legal information programming address rural asset security; community radio stations provide platforms for airing tenure disputes though resolution remains within traditional and state judicial systems.
+
+__Byproducts & Waste Routing:__ Agricultural waste management and composting techniques enter radio content; the behavioral gap between broadcast exposure and practice persists.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Radio drama addresses inheritance disputes, widow's rights, and family conflict resolution; the format allows sensitive topics to be broached indirectly through fictional narratives that model alternative behaviors.
+
+__Association & Mutual Aid:__ Radio farm forums—small groups gathering to listen and discuss programming—create new associational structures from the 1960s onward; these forums become bases for input supply cooperatives and savings groups.
+
+__Leisure, Play & Sociability:__ Collective radio listening becomes a village social activity; the evening broadcast hour structures rural sociability around shared reception, creating communal spaces for information processing and discussion.
+
+__Stratification, Status & Group Structure:__ Radio ownership confers status; early adopters become information brokers in their communities; the community radio movement of the 1990s–2000s partially democratizes access to broadcast production, allowing previously excluded groups voice on local stations.
+
+__Administrative Capacity & Institutional Integrity:__ Extension services leverage radio to multiply their reach beyond what agent-to-farmer ratios permit; the state's administrative presence in rural areas depends increasingly on broadcast rather than physical presence as fiscal constraints tighten in the 1980s–1990s.
+
+__Coercive Apparatus & Means of Force:__ Radio enables state messaging to reach remote areas during conflicts—Biafra, Tuareg rebellions, Boko Haram insurgency—while insurgent groups also use radio for counter-messaging where they control territory.
+
+__Discharge, Disorder & Decay:__ Rural-urban migration continues despite radio-mediated development efforts; the information channel cannot substitute for absent services, markets, and economic opportunity, and rural populations continue to exit when they can.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Radio connects isolated villages to national discourse, reducing the psychological isolation of rural life; the shared listening experience creates a sense of participation in national life previously unavailable to non-literate populations.
+
+__Leadership & Personal Authority:__ Extension agents and radio presenters become trusted voices; the "radio farmer" archetype—the progressive adopter featured in success stories—models aspirational behavior while reinforcing state development ideology.
+
+__Legitimacy as Lived Allegiance:__ State radio reinforces government legitimacy through development messaging; the implicit bargain—the state provides information and services, the farmer produces—frames rural citizenship in developmental terms.
+
+__Political Will & Collective Resolve:__ Community radio enables collective action around local issues—school construction, well repair, road maintenance—by providing coordination mechanisms and public accountability for local leaders.
+
+__External Relations & Posture:__ International development agencies—FAO, USAID, UNESCO—fund rural radio programming, shaping content priorities toward donor concerns (population, environment, HIV/AIDS) while providing technical capacity and equipment.
+
+__Disaffection, Apathy & Spent Will:__ Decades of development messaging without corresponding material improvement breed skepticism; by the 2000s, rural audiences are more discerning consumers of radio content, and community radio's participatory model responds to state broadcasting's credibility deficit.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Radio's oral medium bypasses literacy constraints; vernacular language programming reaches populations excluded by colonial language broadcasting; by 2018, most rural areas receive programming in local languages.
+
+__Channels & Transmission Velocity:__ Shortwave and AM initially; FM proliferation from the 1990s brings higher quality signals and local coverage; the FM community radio model enables village-level production and reception without dependence on distant transmitters.
+
+__Record, Storage & Persistence:__ Radio is ephemeral; messages must be repeated to reach audiences who miss broadcasts; the introduction of mobile phones with FM capability and recording functions partially addresses this limitation after 2005.
+
+__Framing, Censorship & Discourse Norms:__ State radio controls framing of development issues; community radio opens space for critical discussion of local governance; participatory formats (phone-ins, listener letters read aloud) enable rural voices to enter broadcast discourse.
+
+__Reception, Attention & Amplification:__ Agricultural programming competes with entertainment for listener attention; the successful formats blend information with entertainment—drama, music, comedy—to capture and retain audiences.
+
+__Signal Integrity & Noise Load:__ Competing stations, atmospheric interference, and equipment quality affect rural reception; the move from shortwave to local FM improves signal quality but fragments the audience.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Radio drama addresses moral dilemmas—corruption, exploitation by middlemen, family conflict—reinforcing normative frameworks while allowing exploration of contested territory through fictional narratives.
+
+__Law, Codification & Regulatory Evolution:__ Legal information programming—land rights, women's rights, contract law—brings formal legal frameworks to populations with limited access to courts; the gap between legal knowledge and actual access to justice remains.
+
+__Adjudication, Liability & Sanction:__ Radio cannot substitute for judicial institutions; it provides information about rights but not enforcement mechanisms; community radio enables public airing of grievances that may pressure local authorities.
+
+__Rights, Protections & Compliance Burden:__ Human rights messaging—child rights, women's rights, refugee rights—enters rural discourse through radio; behavioral change lags behind awareness as structural constraints persist.
+
+__Impunity & Unredressed Wrong:__ Radio exposures of corruption and abuse occasionally trigger official response; more often, the information circulates without consequence, and the gap between broadcast accountability and actual sanction remains wide.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Development communication theory evolves from the diffusion model (broadcast to passive receivers) through participatory communication (community radio, listener feedback) to communication for social change; West African rural radio serves as both laboratory and case study for this paradigm shift.
+
+__Applied Knowledge & Technical Method:__ Agricultural extension content transmits improved techniques—integrated pest management, soil conservation, improved varieties—though adoption rates vary with input availability and risk tolerance.
+
+__Education, Knowledge Stock & Skill Distribution:__ Radio schools and literacy programming provide non-formal education; distance learning via radio reaches populations beyond school network coverage; functional literacy campaigns use radio as the broadcast component of multimedia approaches.
+
+__Obsolescence & Knowledge Decay:__ Traditional agricultural knowledge receives limited airtime relative to modern techniques; the implicit hierarchy privileges external expertise over local knowledge, though community radio partially reverses this by featuring local farmers and traditional practitioners.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Radio reinforces national identity through language choice and content framing; vernacular programming validates local identity while state broadcasting promotes national integration; the tension between these remains unresolved.
+
+__Legitimating Narrative & Ideology:__ Development ideology—progress through modernization, science-based agriculture, participation in national life—pervades rural radio content; this narrative legitimates state authority and frames rural populations as objects of development intervention.
+
+__Artistic Expression & Material Culture:__ Radio drama becomes a significant cultural form; agricultural drama formats—"Okonkwo the Progressive Farmer" and countless variants—create a genre specific to development broadcasting while drawing on oral storytelling traditions.
+
+__Form Exhaustion & Meaning Decay:__ Repetitive development messaging loses impact over decades; the didactic format exhausts itself, and community radio's participatory approach responds by centering local voices and concerns rather than externally designed content.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Religious programming occupies significant airtime on rural radio; Islamic and Christian content coexists with development messaging, and religious framing of agricultural practice (planting prayers, harvest thanksgiving) bridges secular extension and spiritual life.
+
+__Ritual, Devotion & Sacred Practice:__ Radio broadcasts religious services to homebound listeners; Ramadan and Easter programming structures annual broadcast calendars; sacred time is marked and reinforced through broadcast.
+
+__Religious Institutions & Doctrinal Authority:__ Religious authorities access radio to reach dispersed faithful; the medium extends clerical reach beyond physical presence while raising questions about authority in mediated religion.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Radio accelerates religious competition; evangelical and reformist messages reach previously isolated communities; traditional religious practice faces broadcast pressure from monotheistic alternatives.
+
+__Disenchantment & Sacred Discharge:__ Secular development messaging coexists uneasily with religious worldviews; the modernization narrative's implicit secularism is tempered by religious programming, but tension persists between technical rationality and spiritual frameworks for understanding agricultural outcomes.

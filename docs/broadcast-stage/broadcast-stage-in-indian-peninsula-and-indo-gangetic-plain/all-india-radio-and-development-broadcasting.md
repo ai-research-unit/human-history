@@ -1,69 +1,139 @@
-# __1960 CE – 2015 CE__ — All India Radio and Development Broadcasting
-__Summary:__ All India Radio operates as the world's largest radio network across five decades, evolving from state-monopoly development broadcaster to multi-platform service; the binding constraint is the tension between centralized state messaging and the need to reach hundreds of linguistic and regional communities; margin against disruption remains high given infrastructural depth and government backing; the trajectory moves from unchallenged dominance through FM liberalization to digital competition eroding audience share.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The subcontinent's vastness — Himalayan barrier, peninsular coastlines, island territories, desert and jungle interiors — demands a tiered transmitter network; medium-wave covers plains, shortwave bridges mountains and seas, FM serves dense urban clusters; terrain friction drives station siting and power allocation.<br><br>
-__Climate Regime & Volatility:__ Monsoon seasonality defines agricultural cycles that programming tracks through farm broadcasts; cyclones, floods, and droughts generate emergency-broadcast demand; atmospheric interference degrades shortwave reception seasonally but the climate regime itself remains stable across the window.<br><br>
-__Hazard Regime & Exposure:__ Earthquakes, floods, and cyclones recur; AIR serves as primary disaster-alert channel for populations beyond television reach; transmitter redundancy and mobile units provide margin, though remote hill and island stations remain exposed to monsoon damage.<br><br>
-__Resource & Energy Endowment:__ Grid electrification expands across the window, enabling receiver penetration; coal and hydro power the transmitter network; transistor technology and later solar-powered community sets reduce energy barriers in off-grid villages.<br><br>
-__Waste Absorption & Sink Capacity:__ Electromagnetic spectrum crowding is the primary sink concern; medium-wave congestion rises with more stations; analog transmission generates no significant material waste stream; absorptive capacity for spectrum load tightens toward window's end but remains manageable.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ AIR broadcasts health education — malaria, cholera, tuberculosis, polio, HIV awareness — contributing to mortality decline; messaging supports immunization campaigns; the network functions as a public-health communication channel through the epidemiological transition.<br><br>
-__Nutrition & Physiological Vitality:__ Farm broadcasts disseminate agricultural extension, contributing indirectly to food security and nutritional improvement; the Green Revolution is partly communicated through AIR's rural programming; bodies are better nourished at window's end than at its start.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Family-planning messaging is a core AIR mandate from the 1960s onward; the network amplifies government population-control campaigns; fertility rates decline across the window, with radio serving as one channel among several.<br><br>
-__Demographic Renewal & Density:__ Population nearly triples from 450 million to 1.25 billion across the window; AIR's reach expands proportionally; listener density grows fastest in urban FM zones; rural community-listening declines as individual transistor ownership rises.<br><br>
-__Attrition & Dependency Overhang:__ Dependency ratios improve as fertility falls and working-age cohorts expand; AIR programming for elderly and disabled audiences remains minimal; no significant dependency-driven strain on the broadcast system itself.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Farm broadcasts — weather, prices, pest alerts, technique — support millions of cultivators at the subsistence margin; the radio signal reaches where markets and extension agents cannot; provisioning floor is raised incrementally by information access.<br><br>
-__Energy Capture & Conversion:__ Transistor radios require only dry cells; electrification expands receiver options; the energy cost of listening is negligible; transmitter operation draws grid power but represents a minor fraction of national electricity load.<br><br>
-__Labor Organization & Coercion:__ AIR employs thousands — announcers, technicians, administrators — under government pay scales; labor is organized as civil service, unionized but not militant; casualization of contract staff increases toward window's end.<br><br>
-__Production & Surplus Capacity:__ AIR produces hundreds of hours daily across regional stations; production capacity is high but constrained by budget; Vividh Bharati's commercial service generates advertising revenue that partially offsets operational costs.<br><br>
-__Storage, Reserves & Buffering:__ Government funding provides financial buffer; archival recordings accumulate across decades; infrastructure reserves include mobile transmitters and backup power; the system is well-buffered against revenue or equipment shocks.<br><br>
-__Exchange, Trade & Logistics:__ Advertising on Vividh Bharati channel creates a commercial exchange layer; program syndication across regional stations follows centralized logistics; the economics remain largely non-market, with state allocation dominating.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Spectrum licenses represent stored public value; no credit or debt dynamics are significant to AIR operations; deferred reciprocity functions through government budgetary cycles rather than market instruments.<br><br>
-__Surplus Extraction & Redistribution:__ Tax revenues fund AIR through Information and Broadcasting Ministry allocations; extraction is indirect via general taxation; redistribution favors Hindi and English services, with regional stations receiving lesser shares proportionally.<br><br>
-__Wealth Distribution & Asset Defense:__ Transmitter infrastructure and spectrum holdings are state assets; no private accumulation occurs within the system; asset defense is a matter of bureaucratic territory-holding against rival ministries and, later, private FM entrants.<br><br>
-__Byproducts & Waste Routing:__ Obsolete equipment accumulates at stations; electronic waste management is minimal; discarded transmitters and receivers enter informal recycling streams; the waste volume is modest and does not strain disposal capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ AIR news bulletins are trusted as official voice; credibility is high for weather and disaster information; community listening fosters local discussion; trust erodes slightly as private media offer alternatives, but AIR retains authoritative status for emergencies.<br><br>
-__Stratification, Status & Group Identity:__ Linguistic broadcasts reinforce regional identities; tribal services reach Adivasi communities; the network both integrates a national public and affirms subnational groupings; status hierarchies are mirrored in programming priorities favoring dominant languages.<br><br>
-__Kinship, Family & Inheritance:__ Family listening to Vividh Bharati film-song programs is a domestic ritual; intergenerational taste transmission occurs through shared radio time; inheritance patterns are unaffected by broadcasting but household cohesion is reinforced by shared listening.<br><br>
-__Civic Association & Self-Organization:__ Community radio is absent until late in the window; AIR fills associational space by providing shared reference points; listener clubs exist informally; the state monopoly limits civic media self-organization until FM liberalization.<br><br>
-__Leisure, Play & Sociability:__ Radio cricket commentary, film songs, drama, and music programs structure leisure; Vividh Bharati is recreational infrastructure; sociability coalesces around transistor sets in tea stalls and homes; leisure remains radio-inflected even as television rises.<br><br>
-__Grievance Channels & Social Discharge:__ Phone-in programs emerge late in the window; listener mail is the traditional feedback channel; grievances about programming or coverage are absorbed bureaucratically; unaddressed frustrations accumulate modestly but do not destabilize.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ AIR is a government organ under the Ministry of Information and Broadcasting; editorial independence is limited; the network amplifies state messaging; authority is centralized in Delhi with regional stations subordinate.<br><br>
-__Succession & Power Transfer:__ Directorial appointments follow civil-service norms; political transitions at the center shift editorial tone but not institutional structure; the network survives government changes without disruption.<br><br>
-__Legitimacy & Political Narrative:__ AIR carries the official nation-building narrative — unity, development, secularism; programming supports ruling-party framing during elections though nominally nonpartisan; legitimacy rests on public-service identity and reach.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Prasar Bharati autonomy (1997) is nominal; bureaucratic hierarchy functions efficiently for technical operations; corruption is minor; administrative capacity is high for broadcast but limited for innovation.<br><br>
-__Political Participation & Mobilization:__ Election coverage is mandated to be balanced; AIR provides free airtime to parties; the network is a mobilization channel for voter education; opposition access is grudging but present.<br><br>
-__Geopolitical Position & External Relations:__ External Services division broadcasts to South Asia, Africa, and beyond; shortwave propaganda counters Pakistani and Chinese narratives; AIR is a soft-power instrument; cross-border listenership exists but is not measured reliably.<br><br>
-__Coercive Apparatus & Means of Force:__ AIR is not a coercive instrument but is protected by state security; transmitter sites are secured; no armed broadcasting; the network is civilian infrastructure under government ownership.<br><br>
-__Internal Order & Threat Environment:__ Insurgent zones — Northeast, Kashmir, Naxalite belt — receive targeted programming; AIR transmitters have been attacked occasionally; the threat environment is low for most stations, elevated in conflict areas.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Medium-wave and shortwave reach most of the subcontinent; FM expands urban coverage; transmission is instantaneous within signal range; velocity is limited only by transmitter footprint, not by relay chains.<br><br>
-__Record, Storage & Persistence:__ Archival recordings preserve decades of programming; some archives suffer from tape degradation; digitization proceeds slowly; institutional memory is strong but physical media require conservation effort.<br><br>
-__Framing, Censorship & Discourse Norms:__ Editorial policy is conservative; political criticism of government is avoided; All India Radio News follows official line; discourse norms favor measured, formal language; censorship is self-imposed through bureaucratic hierarchy rather than explicit directives.<br><br>
-__Reception, Attention & Amplification:__ Listener attention fragments as television and later FM compete; morning and evening news bulletins retain loyal audiences; amplification occurs through repetition and reach rather than viral dynamics.<br><br>
-__Signal Integrity & Noise Load:__ Signal quality is generally high on FM, variable on medium-wave; shortwave suffers atmospheric noise; factual accuracy is high for news; misinformation load is low given editorial control; noise is technical rather than informational.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ AIR programming reflects official secular-nationalist morality; caste discrimination is discouraged; national integration and social reform are thematic constants; the moral register is didactic.<br><br>
-__Law, Codification & Regulatory Evolution:__ The Indian Telegraph Act and later Prasar Bharati Act (1990, implemented 1997) govern AIR; spectrum allocation is regulated; private radio is excluded until FM auctions in the 2000s; regulatory evolution is slow.<br><br>
-__Adjudication, Enforcement & Liability:__ Content complaints are handled internally; no independent broadcast regulator for AIR exists; liability for defamation or obscenity falls on the government; enforcement is bureaucratic, not judicial.<br><br>
-__Rights, Protections & Compliance Burden:__ Employees have civil-service protections; listeners have no formal rights to particular content; compliance burden on AIR is low given state ownership; private FM entrants face heavier licensing requirements.<br><br>
-__Impunity & Unredressed Wrong:__ Grievances about biased coverage during elections or emergencies go largely unredressed; institutional accountability is weak; impunity for editorial bias is effectively total; the gap between formal neutrality and practiced partisanship persists.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Development-communication theory guides programming philosophy; UNESCO models influence rural broadcasting; academic study of radio's social impact is active in Indian universities; paradigms shift from modernization theory toward participatory approaches.<br><br>
-__Applied Knowledge & Technical Method:__ Transmitter engineering, studio acoustics, and signal propagation are mastered; indigenous equipment manufacture develops; FM technology is adopted from international standards; technical method is competent and incrementally upgraded.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ AIR broadcasts educational content — school lessons, university lectures, language instruction; the network contributes to literacy and adult education; skill distribution in broadcasting is concentrated in urban training institutes.<br><br>
-__Obsolescence & Knowledge Decay:__ Shortwave expertise decays as FM and digital rise; archival cataloguing skills atrophy; some institutional knowledge is lost through retirements; obsolescence is gradual but real, though core competencies persist.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ AIR carries Independence-era memory — Nehru's speeches, national anthem, patriotic songs; the network is a repository of national mythos; foundational identity is reinforced through annual broadcasts on Republic Day, Independence Day.<br><br>
-__Artistic Expression & Material Culture:__ Classical music, folk traditions, and drama are preserved and broadcast; AIR archives constitute a cultural treasury; material culture includes iconic transistor radios that become collectibles; aesthetic norms favor formality and tradition.<br><br>
-__Collective Mood & Behavioral Disposition:__ The tone of AIR is measured and reassuring; panic is avoided even in crises; the behavioral disposition fostered is patient, civic, and trusting of authority; mood is stable rather than volatile.<br><br>
-__Form Exhaustion & Meaning Decay:__ By the 2000s, AIR's earnest development-broadcasting tone feels dated; formats pioneered in the 1960s persist unchanged; meaning decay is evident as younger audiences find state radio stodgy; renewal is attempted through FM but is constrained by regulatory limits on news.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Programming respects religious pluralism; devotional music from Hindu, Muslim, Sikh, and Christian traditions is broadcast; secular-nationalist cosmology frames religion as cultural heritage rather than metaphysical truth; existential outlook is this-worldly and development-oriented.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Early-morning devotional slots — bhajans, Quran recitation, Gurbani — serve practicing listeners; religious festivals are marked with special programming; ritual accompaniment by radio is common in households.<br><br>
-__Religious Institutions & Doctrinal Authority:__ AIR does not privilege any religious institution; programming is inclusive and non-sectarian; doctrinal authority remains with religious bodies, not with the broadcaster; the state maintains distance from theological disputes.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Broadcasting exposes listeners to traditions beyond their own community; syncretism is tacitly encouraged through pluralistic programming; displacement of traditional practices is not caused by radio, which reinforces rather than erodes religious observance.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular programming coexists with devotional content; disenchantment is not a theme AIR addresses; spiritual void is neither created nor filled by the network; sacred needs are serviced without being transformed.<br><br>
+# __1960 CE – 2015 CE — All India Radio and Development Broadcasting__
+
+__Summary:__ All India Radio (AIR) evolves from the dominant mass medium reaching rural illiterates through development broadcasting into a declining state apparatus overshadowed by television and private media, its trajectory shaped by the contradiction between its developmental mandate and political instrumentalization under successive governments.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The subcontinent's vast terrain—from Himalayan valleys to peninsular coasts, desert fringes to deltaic plains—imposes severe transmission challenges; AIR addresses this through layered medium-wave, short-wave, and FM networks, with transmitter placement dictated by population density and strategic border coverage; mountainous and island territories require dedicated relay infrastructure.
+
+__Climate Regime & Volatility:__ Monsoon patterns govern agricultural broadcasting schedules; drought and flood cycles trigger emergency programming; seasonal variations in atmospheric conditions affect medium-wave propagation, requiring frequency adjustments.
+
+__Hazard Regime & Exposure:__ Cyclones, floods, earthquakes, and droughts prompt AIR's emergency broadcasting role; the network serves as primary disaster communication infrastructure where telecommunications fail; the 2004 tsunami and 2013 Uttarakhand floods demonstrate continued relevance.
+
+__Resource & Energy Endowment:__ Coal-fired and hydroelectric power feed the national grid that sustains transmission; rural electrification gaps necessitate battery-powered transistor receivers; the shift from valve to transistor technology (1960s–1970s) dramatically reduces power requirements at the receiver end.
+
+__Waste Absorption & Sink Capacity:__ Obsolete transmitter equipment accumulates at station compounds; electronic waste from decommissioned units enters informal recycling circuits; the physical footprint remains modest compared to industrial sectors.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Health programming addresses endemic disease—malaria, tuberculosis, waterborne illness—through public service announcements; family planning broadcasts become contentious during the Emergency (1975–1977); immunization campaigns rely on AIR amplification.
+
+__Nutrition & Physiological Vitality:__ Agricultural broadcasts disseminate Green Revolution techniques—high-yield varieties, fertilizer application, irrigation methods—contributing to improved nutritional outcomes by boosting food production; Farm and Home broadcasts reach cultivators directly.
+
+__Care, Healing & Recovery Capacity:__ Health education programming supplements limited rural healthcare; traditional medicine and Ayurveda receive airtime alongside allopathic messaging; maternal and child health campaigns reach populations beyond clinic access.
+
+__Reproductive Biology & Pairing Dynamics:__ Population control messaging intensifies from 1966; sterilization propaganda during the Emergency creates lasting distrust; post-Emergency programming shifts to spacing and maternal health framing.
+
+__Demographic Renewal & Density:__ The population doubles from 450 million to over 1.2 billion across the window; AIR network expansion tracks demographic growth, reaching 99.2% territory coverage by 2015; urban migration shifts listenership patterns.
+
+__Attrition & Dependency Overhang:__ Programming addresses elderly welfare and widow support through social welfare segments; dependency ratio pressures remain largely unaddressed in broadcast content; youth-focused programming emerges from the 1990s.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Farm broadcasts deliver weather forecasts, market prices, pest warnings, and cultivation advice; the Kisan Vani (Farmers' Voice) service provides locale-specific agricultural information; livestock and fisheries programming supplements crop-focused content.
+
+__Energy Capture & Conversion:__ AIR's transmission infrastructure consumes significant grid power; the shift from high-power medium-wave to FM reduces energy requirements; rural listenership depends on transistor availability and battery supply chains.
+
+__Labor Organization & Coercion:__ AIR employs a vast civil service workforce—announcers, engineers, producers, administrators—under government pay scales; contract workers and casual labor supplement permanent staff; unionization provides job security but limits flexibility.
+
+__Production & Surplus Capacity:__ Programming production occurs in-house through elaborate studio infrastructure; regional stations produce vernacular content; the network operates as a cost center funded through license fees (until abolished), advertising (from 1967), and government subsidy.
+
+__Storage, Reserves & Buffering:__ Sound archives preserve broadcasting heritage; the National Programme of Talks accumulates intellectual programming; analog tape degrades, prompting digitization efforts from the 2000s.
+
+__Exchange, Trade & Logistics:__ AIR sells advertising airtime from 1967, generating commercial revenue; rate cards differentiate by time slot and station reach; FM liberalization (1990s–2000s) introduces competition for advertising revenue.
+
+__Value Storage, Credit & Deferred Exchange:__ Advertising revenue flows through government accounting systems; program sponsorship models emerge; educational broadcasting attracts donor funding from international development agencies.
+
+__Surplus Extraction & Redistribution:__ License fee collections fund operations until phased out; Prasar Bharati (1997) creates nominal autonomy but government grants remain essential; cross-subsidy from commercial to development programming sustains the mission.
+
+__Wealth Distribution & Asset Defense:__ Prime airtime accrues to commercial interests while public service programming shifts to off-peak hours; equipment and property remain government assets; FM auction revenues benefit the exchequer rather than AIR directly.
+
+__Byproducts & Waste Routing:__ Obsolete equipment disposal follows government procedures; frequency spectrum vacated by AIR enables telecommunications expansion; institutional knowledge dissipates as experienced staff retire without succession planning.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family-listening patterns around the radio set create shared domestic ritual; Vividh Bharati film music programming spans generations; the transistor individualizes listening, weakening collective consumption.
+
+__Association & Mutual Aid:__ Radio clubs and listener associations form around programming; community listening centers serve villages without individual receivers; rural forums broadcast local concerns and solutions.
+
+__Leisure, Play & Sociability:__ Vividh Bharati (1957–present) provides entertainment through film songs and light programming; sports commentary creates shared auditory experience; regional stations broadcast local festivals and cultural events.
+
+__Stratification, Status & Group Structure:__ Hindi-language national programming privileges Hindi-speaking regions; regional stations in scheduled languages serve linguistic minorities; English programming caters to urban elites; tribal and dialect broadcasts remain underserved.
+
+__Administrative Capacity & Institutional Integrity:__ AIR operates under the Ministry of Information and Broadcasting as a government department; Prasar Bharati Act (1997) creates nominal autonomy but political control persists; director appointments remain government prerogatives; bureaucratic procedures constrain operational flexibility.
+
+__Coercive Apparatus & Means of Force:__ AIR serves as voice of the state during national emergencies and conflicts; border broadcasts counter Pakistani and Chinese propaganda; jamming operations target hostile transmissions; External Services Division projects soft power abroad.
+
+__Discharge, Disorder & Decay:__ Staff aging and recruitment freezes create skills gaps; analog infrastructure decays as digital transition lags; private FM competition erodes urban listenership; political interference undermines editorial credibility; the institution ossifies under bureaucratic weight.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ AIR cultivates national sentiment through patriotic programming; regional services foster linguistic identity; public trust erodes as government propaganda functions become transparent; nostalgia attaches to golden-age programming.
+
+__Leadership & Personal Authority:__ Director Generals shape institutional culture; notable voices—announcers, newsreaders—acquire personal followings; political leadership uses AIR access as patronage; ministers determine editorial direction.
+
+__Legitimacy as Lived Allegiance:__ AIR's neutrality claim collapses during the Emergency when the broadcaster becomes a naked propaganda instrument; post-Emergency recovery proves partial; credibility gaps widen as private media alternatives emerge.
+
+__Political Will & Collective Resolve:__ Successive governments retain AIR as instrument of state messaging; development broadcasting reflects genuine commitment in Nehruvian period; political instrumentalization intensifies under later administrations.
+
+__External Relations & Posture:__ External Services Division broadcasts in multiple languages to South Asia, West Asia, Africa, and beyond; programming counters hostile propaganda and projects Indian viewpoints; diaspora services maintain cultural connections.
+
+__Disaffection, Apathy & Spent Will:__ Urban listeners defect to private FM and television; rural audiences retain AIR for agricultural information while seeking entertainment elsewhere; institutional morale declines as relevance wanes; the development broadcasting mission loses animating conviction.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Radio bridges literacy barriers, reaching the illiterate majority; vernacular broadcasts in 23 languages and 179 dialects expand access; transistor affordability (from 1960s) democratizes reception.
+
+__Channels & Transmission Velocity:__ Over 400 stations provide national, regional, and local coverage; medium-wave carries long distances; FM delivers quality urban coverage; short-wave reaches remote and international audiences; instantaneous transmission defines the broadcast regime.
+
+__Record, Storage & Persistence:__ Sound archives preserve broadcasts; the Akashvani Archives hold historical recordings; analog tape deterioration threatens heritage; digitization proceeds unevenly.
+
+__Framing, Censorship & Discourse Norms:__ Government ownership enables editorial control; News Services Division operates under Ministry direction; self-censorship pervades programming; the Emergency demonstrates maximum control potential; post-liberalization constraints loosen but persist.
+
+__Reception, Attention & Amplification:__ Peak listenership (1970s–1980s) claims 90% reach; television competition fragments attention from the 1980s; private FM captures urban audiences from the 1990s; mobile phones and internet further erode share.
+
+__Signal Integrity & Noise Load:__ Atmospheric interference affects medium-wave; spectrum congestion increases with telecommunications expansion; signal clarity improves with FM transition; the government message dominates, reducing information pluralism.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Development broadcasting carries implicit moral vision—national unity, scientific temper, social reform, family planning—reflecting Nehruvian modernization ideology; traditional values receive validation through cultural programming.
+
+__Law, Codification & Regulatory Evolution:__ AIR operates under the Indian Telegraph Act and successive regulations; the Prasar Bharati Act (1997) establishes statutory framework; broadcasting codes govern content standards; advertising regulations apply.
+
+__Adjudication, Liability & Sanction:__ Government controls permit discipline over staff and content; grievance mechanisms exist but lack independence; defamation and sedition laws constrain broadcasting; Emergency press censorship extends fully to AIR.
+
+__Rights, Protections & Compliance Burden:__ Staff enjoy civil service protections; union agreements govern working conditions; listeners lack enforceable rights to balanced coverage; right to information claims apply to AIR as government entity.
+
+__Impunity & Unredressed Wrong:__ Political interference in news coverage proceeds without accountability; propaganda functions during elections violate spirit of neutrality; Emergency-era abuses receive no institutional reckoning; editorial independence remains aspirational.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Development communication theory guides programming philosophy; the extension model—bringing expert knowledge to farmers—shapes agricultural broadcasts; modernization theory informs social messaging.
+
+__Applied Knowledge & Technical Method:__ Radio engineering expertise sustains transmission; production craft develops within the institution; research units study listenership patterns; the shift from analog to digital requires technical adaptation.
+
+__Education, Knowledge Stock & Skill Distribution:__ University broadcasts and school radio programs supplement formal education; adult literacy programming targets the illiterate; science popularization reaches mass audiences; AIR training academies develop broadcast professionals.
+
+__Obsolescence & Knowledge Decay:__ Analog production skills become redundant; institutional knowledge dissipates through attrition; the development communication paradigm loses intellectual authority; audience research methods fall behind commercial standards.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ AIR constructs and broadcasts national identity through Independence Day and Republic Day programming; regional services reinforce linguistic identities; classical music broadcasts preserve and disseminate cultural heritage.
+
+__Legitimating Narrative & Ideology:__ Unity in diversity messaging pervades programming; secularism and national integration form editorial touchstones; development ideology frames public service content; critique of state policy remains absent.
+
+__Artistic Expression & Material Culture:__ Radio drama flourishes as distinctive form; classical music and regional folk programming preserve and transmit traditions; film music dominates entertainment slots; the AIR house style—formal, didactic, Hindi-inflected—becomes recognizable.
+
+__Form Exhaustion & Meaning Decay:__ The formal announcer voice becomes stilted and dated; development messaging loses credibility through repetition; national integration rhetoric grows hollow; the institutional voice exhausts its authority.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular modernization ideology frames the institutional worldview; scientific temper promotion challenges traditional cosmologies; programming accommodates religious diversity within national framework.
+
+__Ritual, Devotion & Sacred Practice:__ Morning devotional programming opens the broadcast day; religious festival coverage spans traditions; temple music and recitation programs serve devotional needs; pilgrimage coverage reaches audiences.
+
+__Religious Institutions & Doctrinal Authority:__ AIR maintains studied neutrality across religious communities; no institutional religious authority shapes content; festival coverage balances representation; Ramadan and Christmas programming matches Diwali coverage.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Pan-Indian programming exposes listeners to traditions beyond their locality; devotional music crosses regional boundaries; secular nationalism competes with religious identity for primary allegiance.
+
+__Disenchantment & Sacred Discharge:__ The development broadcasting vision loses its animating faith; instrumental rationality empties public service of meaning; the institution persists without conviction; audiences seek spiritual nourishment elsewhere as AIR's voice grows cold.

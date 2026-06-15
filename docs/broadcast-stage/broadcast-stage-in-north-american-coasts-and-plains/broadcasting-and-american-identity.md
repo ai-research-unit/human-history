@@ -1,69 +1,140 @@
-# __1930 CE – 2005 CE__ — Broadcasting and American Identity
-__Summary:__ Pan-temporal snapshot of broadcasting as constitutive infrastructure of American national identity across the broadcast stage, from network radio through digital transition. The binding constraint is the tension between commercial imperatives driving content toward lowest-common-denominator mass appeal and the democratic aspiration for broadcasting to serve as shared civic space; margin against fragmentation holds through the three-network era but erodes decisively with cable and satellite proliferation; direction of change moves from unprecedented national unification through broadcasting toward audience segmentation that fractures the shared experience by window's end.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental-scale territory from Atlantic to Mississippi and beyond requires extensive transmission infrastructure; network-affiliate model overcomes distance through local stations carrying national feeds; coaxial cable and later satellite eliminate transmission delay, collapsing geographic friction for synchronized national broadcasts.<br><br>
-__Climate Regime & Volatility:__ Seasonal weather affects outdoor antenna reception and transmission tower maintenance; severe weather events (hurricanes, tornadoes) become broadcast content while occasionally disrupting service; no systematic climate constraint on broadcasting operations.<br><br>
-__Hazard Regime & Exposure:__ Natural disasters generate intensive coverage (Hurricane Katrina 2005 at window's edge); broadcasting serves emergency communication function; infrastructure generally resilient with redundancy built into network systems.<br><br>
-__Resource & Energy Endowment:__ Abundant fossil-fuel and hydroelectric capacity ensures reliable electricity for studios and transmitters; no energy constraint binds broadcasting; petroleum abundance enables automobile-centered lifestyle that radio accompanies.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from millions of obsolete television sets and radios accumulates through format transitions; disposal largely externalized to landfills and later developing-country recycling; no binding sink constraint recognized during the window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Developed public health holds endemic disease at low background; broadcast public health campaigns (polio vaccination, anti-smoking) contribute to mortality decline; AIDS crisis 1980s receives significant broadcast coverage affecting public awareness.<br><br>
-__Nutrition & Physiological Vitality:__ Population generally well-nourished but obesity rises through the window, partially attributed to sedentary television viewing and food advertising to children; broadcast content becomes contested terrain for public health by window's end.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Television shapes mating norms through represented relationships; birth control and family planning receive cautious broadcast treatment; sexual content constraints loosen progressively from 1960s onward.<br><br>
-__Demographic Renewal & Density:__ Population grows from 123 million (1930) to 296 million (2005); broadcasting both reflects and shapes baby boom, suburban expansion, immigration integration, and aging population concerns.<br><br>
-__Attrition & Dependency Overhang:__ Elderly population grows as medical advances extend lifespan; television becomes primary companion for isolated seniors; broadcasting neither creates nor resolves dependency but serves as social surrogate.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Depression-era radio reaches audiences struggling with subsistence; postwar prosperity lifts floor well above survival; broadcasting operates throughout as consumption stimulus rather than survival concern.<br><br>
-__Energy Capture & Conversion:__ Electrical grid powers broadcast infrastructure with high reliability; petroleum fuels the automobile culture that radio accompanies; energy conversion presents no bottleneck to broadcasting operations.<br><br>
-__Labor Organization & Coercion:__ Broadcast unions (AFTRA, SAG, IATSE, WGA) achieve significant bargaining power; talent compensation escalates dramatically through the window; production labor generally well-compensated; no coerced labor in domestic broadcasting.<br><br>
-__Production & Surplus Capacity:__ Hollywood and New York production complexes generate massive content surplus exportable worldwide; network television achieves unprecedented scale economies; surplus capacity enables global cultural dominance through content exports.<br><br>
-__Storage, Reserves & Buffering:__ Network archives preserve broadcast heritage inconsistently (many early kinescopes lost); financial reserves held by parent corporations adequate to weather downturns; advertising-revenue model vulnerable to recession but recovers.<br><br>
-__Exchange, Trade & Logistics:__ American programming exports dominate global television markets; trade surplus in cultural products offsets deficits elsewhere; distribution networks mature from affiliate clearance to cable carriage to satellite delivery.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Broadcasting funded through advertising with payments tied to ratings; upfront sales and scatter markets provide forward revenue visibility; stock values of broadcast companies store wealth; debt financing supports infrastructure expansion.<br><br>
-__Surplus Extraction & Redistribution:__ FCC license fees nominal; commercial broadcasting generates private surplus with minimal public extraction; public broadcasting requires congressional appropriation redistributing general revenue to noncommercial service.<br><br>
-__Wealth Distribution & Asset Defense:__ Broadcast licenses concentrate among major corporations (NBC parent companies, CBS, ABC-Disney-Capital Cities, Fox-News Corp); ownership caps relaxed through deregulation concentrate holdings further; spectrum scarcity creates defended rents.<br><br>
-__Byproducts & Waste Routing:__ Commercial broadcasting generates cultural byproducts — consumerist values, shortened attention spans, parasocial relationships — absorbed into social and cultural environments rather than physical sinks.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Broadcasting creates unprecedented shared experience — millions watching same programs simultaneously — that builds social trust through common reference points; trust in broadcast news high through 1970s, declining thereafter amid perceived bias accusations from left and right.<br><br>
-__Stratification, Status & Group Identity:__ Mass broadcasting initially flattens class distinctions through shared content access; racial stratification reflected in segregated representation (early) evolving toward inclusion (later); cable fragmentation enables identity-specific channels that may reinforce group boundaries.<br><br>
-__Kinship, Family & Inheritance:__ "Family hour" programming assumes domestic viewing unit; television-centered living room reorganizes household space; changing family forms (divorce, single parents, same-sex couples) gradually represented; no direct inheritance effects.<br><br>
-__Civic Association & Self-Organization:__ Broadcasting may hollow out civic associations (Putnam's "bowling alone" thesis) by substituting viewing for participation; public access cable and community radio provide counter-tendency toward local engagement.<br><br>
-__Leisure, Play & Sociability:__ Television reorganizes leisure time around prime-time schedule; "appointment viewing" creates shared temporal structure; watercooler conversation about broadcast content generates secondary sociability; VCR and DVR begin dissolving synchronicity by window's end.<br><br>
-__Grievance Channels & Social Discharge:__ Talk radio provides discharge channel for populist grievances from 1980s; television news channels offer partisan validation by window's end; some social friction metabolized through broadcast venting, but polarization suggests incomplete discharge.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal government holds spectrum authority through FCC; broadcasting industry exercises significant influence over communications policy; concentrated media ownership creates private power centers with national reach; political messaging increasingly broadcast-dependent.<br><br>
-__Succession & Power Transfer:__ Presidential elections transformed by broadcasting — FDR's fireside chats, Kennedy-Nixon debates, Reagan's television mastery, Clinton's talk-show appearances; transfer of power remains orderly with broadcasting legitimizing transitions through live coverage.<br><br>
-__Legitimacy & Political Narrative:__ Broadcasting simultaneously legitimizes and questions political authority — patriotic programming reinforces national narrative while investigative journalism (Murrow on McCarthy, Watergate coverage) challenges official accounts; legitimacy narrative contested between cheerleading and watchdog roles.<br><br>
-__Administrative Capacity & Institutional Integrity:__ FCC demonstrates variable competence and independence; regulatory capture concerns throughout; network news divisions maintain professional integrity through mid-1970s, perceived declining thereafter; overall institutional capacity adequate but stressed by consolidation.<br><br>
-__Political Participation & Mobilization:__ Voter awareness rises with broadcast coverage; political advertising becomes central to campaigns; negative advertising proliferates; get-out-the-vote efforts incorporate broadcast messaging; overall participation trends mixed despite broadcasting's reach.<br><br>
-__Geopolitical Position & External Relations:__ American broadcasting serves as soft-power instrument globally; Voice of America and Radio Free Europe carry explicit diplomatic mission; commercial exports spread American cultural influence worldwide; Cold War and post-Cold War narratives disseminated through broadcast content.<br><br>
-__Coercive Apparatus & Means of Force:__ Emergency broadcast system maintained for civil defense; broadcasting coverage of military operations shapes public perception of force; embedded journalist program in Iraq War represents integration of media with military operations.<br><br>
-__Internal Order & Threat Environment:__ Broadcast coverage of civil unrest (1960s riots, LA 1992) both documents disorder and may amplify contagion effects; terrorism coverage after 9/11 raises questions about broadcast role in threat perception; internal order stable with broadcasting serving documentation function.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Radio achieves instant nationwide reach by 1930s; television adds visual channel by 1950s; cable multiplies channels through 1980s–1990s; satellite provides national footprint; velocity approaches instantaneity while channel count explodes, fragmenting attention.<br><br>
-__Record, Storage & Persistence:__ Kinescope, videotape, and digital storage preserve broadcast record with variable completeness; network archives held privately; Museum of Television and Radio provides limited public access; early television poorly preserved; digital era improves persistence.<br><br>
-__Framing, Censorship & Discourse Norms:__ FCC content regulation (indecency, obscenity) constrains broadcast speech; Fairness Doctrine (1949–1987) requires balance; network standards and practices departments self-censor; discourse norms loosen through the window but remain tighter than print or post-broadcast digital media.<br><br>
-__Reception, Attention & Amplification:__ Nielsen ratings measure attention and determine advertising value; prime-time concentration creates mass simultaneous audience; amplification dynamics favor network content; cable and later internet fragment attention, reducing amplification power of any single channel.<br><br>
-__Signal Integrity & Noise Load:__ Professional broadcasting maintains high technical and editorial standards through network era; cable proliferation and internet emergence introduce noise as source competition intensifies; verification capacity increasingly strained against information volume by window's end.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ First Amendment values support press freedom while scarcity rationale justifies broadcast regulation; public-interest standard assumes airwaves belong to the people; sense of justice includes right to receive diverse viewpoints.<br><br>
-__Law, Codification & Regulatory Evolution:__ Communications Act 1934 establishes framework; FCC regulations evolve continuously; Telecommunications Act 1996 restructures industry; spectrum allocation, ownership rules, content standards subject to ongoing regulatory revision.<br><br>
-__Adjudication, Enforcement & Liability:__ FCC adjudicates license applications, renewals, and complaints; courts provide appellate review; defamation law applies to broadcast content; enforcement generally keeps pace though major cases (Janet Jackson indecency) strain capacity.<br><br>
-__Rights, Protections & Compliance Burden:__ Broadcast licensees bear compliance obligations (children's programming, equal time, emergency alerts); compliance costs absorbable by major players but may disadvantage smaller stations; rights protections adequate under First Amendment framework.<br><br>
-__Impunity & Unredressed Wrong:__ Media concentration enables potential abuse of power with limited accountability; complaints of bias rarely result in regulatory action; libel suits provide private remedy but are costly; some impunity for powerful media corporations by window's end.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Mass communication research flourishes at major universities (Columbia, Stanford, Annenberg); effects research (cultivation theory, agenda-setting, uses and gratifications) develops throughout the window; media studies becomes established discipline.<br><br>
-__Applied Knowledge & Technical Method:__ NTSC color television standard (1953) demonstrates applied engineering; cable and satellite technical methods evolve continuously; digital transition applies compression and transmission innovations; American technical standards influence global adoption.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Journalism schools and film programs train broadcast workforce; technical skills widely distributed in urban labor markets; creative skills concentrated in New York and Los Angeles production centers; general media literacy variable across population.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog broadcast skills become obsolete through digital transition; some craft knowledge lost as live production declines; institutional memory dispersed as network news operations downsize; academic preservation of broadcast history partially compensates.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Broadcasting becomes primary carrier of American national identity — shared memory of Kennedy assassination coverage, moon landing, 9/11 constitutes collective experience that defines generational cohorts; "American Dream" mythology disseminated through entertainment programming worldwide.<br><br>
-__Artistic Expression & Material Culture:__ Television golden age (1950s live drama), sitcom evolution, miniseries, and prestige cable drama represent artistic development within commercial constraints; material culture includes the television set as domestic altar, evolving from cabinet furniture to flat-panel display.<br><br>
-__Collective Mood & Behavioral Disposition:__ Broadcasting shapes and reflects collective mood — Depression-era escapism, postwar optimism, 1960s turbulence, 1970s malaise, Reagan-era confidence, post-9/11 anxiety; behavioral dispositions increasingly organized around viewing habits and parasocial relationships with broadcast personalities.<br><br>
-__Form Exhaustion & Meaning Decay:__ Genre formulas (sitcom, procedural, soap opera) hollow into cliché through repetition; "vast wasteland" critique (Minow 1961) identifies meaning decay early; reality television by window's end represents formal exhaustion seeking novelty through unscripted content; shared meaning erodes as audiences fragment.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Broadcasting operates in secularizing society; religious programming present (televangelism rises from 1970s) but marginal to mainstream; existential questions addressed obliquely through entertainment narratives rather than explicitly.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Television viewing acquires ritual characteristics — daily scheduling, appointment viewing, seasonal events (Super Bowl, sweeps); these secular rituals substitute for traditional religious practice for many viewers.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Mainline Protestant decline reflected in reduced network religious programming; televangelists (Falwell, Robertson, Bakker) build alternative institutions through broadcast; scandals undermine some televangelical authority; no direct doctrinal impact from mainstream broadcasting.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ American civil religion diffused through patriotic broadcast content; New Age and alternative spiritualities receive marginal representation; religious pluralism increases in representation by window's end; Christianity remains dominant in explicit religious programming.<br><br>
-__Disenchantment & Sacred Discharge:__ Consumer culture and celebrity worship channeled through broadcasting provide substitute satisfactions for spiritual needs; entertainment serves as escape from existential questions rather than addressing them; standing disenchantment widespread but unremarkable in modern secular context.<br><br>
+# __1930 CE – 2005 CE — Broadcasting and American Identity__
+
+__Summary:__ American broadcasting constructs, reflects, and transforms national identity across seventy-five years, functioning as the primary medium through which a continental nation of diverse regions, ethnicities, and classes experiences itself as a unified public — the binding constraint being the commercial model's imperative to maximize audience, which simultaneously homogenizes national culture, marginalizes minority experience, and fragments into niche markets once technological change permits.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The continental scale of the United States — Atlantic to Pacific, Gulf to Canadian border — creates a nation too vast for direct experience; broadcast overcomes this friction, allowing simultaneous participation in national events from Maine to California, binding disparate regions into shared audience.
+
+__Climate Regime & Volatility:__ Regional climate variation shapes programming: football dominates autumn schedules; summer offers reruns as outdoor activities compete with viewing; severe weather coverage becomes local broadcasting staple, with hurricanes, tornadoes, and blizzards creating regional broadcast events.
+
+__Hazard Regime & Exposure:__ Natural disasters become broadcast spectacles — Hurricane Katrina (2005), the Challenger explosion (1986), earthquake coverage — creating shared national experience of regional catastrophe and framing collective response.
+
+__Resource & Energy Endowment:__ Abundant electrical infrastructure supports universal broadcast reception; petroleum economy enables automobile culture reflected in car advertising, road imagery, and suburban lifestyle depicted on screen.
+
+__Waste Absorption & Sink Capacity:__ Consumer economy promoted by broadcast advertising generates substantial waste; environmental consequences receive limited broadcast attention until the 1970s; by 2005, electronic waste from obsolete receivers accumulates.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Broadcast serves as health-communication channel; polio vaccination campaigns use television; AIDS crisis (1980s) receives varying coverage; pharmaceutical advertising (post-1997 direct-to-consumer permission) transforms health messaging.
+
+__Nutrition & Physiological Vitality:__ Broadcast advertising promotes processed foods, sugared beverages, and fast food; children's programming attracts particular criticism for advertising unhealthy products; obesity epidemic develops alongside television-centered sedentary lifestyle.
+
+__Care, Healing & Recovery Capacity:__ Medical dramas (Marcus Welby, M.D.; ER) shape public expectations of healthcare; broadcast telethons raise funds for disease research; disparities in healthcare access receive limited attention until late in period.
+
+__Reproductive Biology & Pairing Dynamics:__ Broadcast reflects and shapes mating norms: courtship depicted within evolving standards of permissibility; soap operas dramatize relationship complications; dating shows (The Dating Game, The Bachelor) commodify partner selection.
+
+__Demographic Renewal & Density:__ Baby boom (1946–1964) creates massive youth audience shaping programming from Howdy Doody to MTV; subsequent demographic shifts produce generational cohorts with distinct media relationships; immigration brings new audiences underserved by mainstream programming.
+
+__Attrition & Dependency Overhang:__ Elderly audiences remain loyal to broadcast as younger demographics migrate to cable and internet; television viewing hours correlate with age; broadcast advertising skews toward older demographics by 2005.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Broadcast promotes consumer economy as American way of life; programming depicts material abundance as normal; advertising positions consumption as path to fulfillment.
+
+__Energy Capture & Conversion:__ Electrical infrastructure supports broadcast industry; petroleum companies rank among largest advertisers; energy industry shapes programming through sponsorship and advertising purchases.
+
+__Labor Organization & Coercion:__ Broadcast unions (SAG, AFTRA, IATSE, WGA) provide worker protections in entertainment industry; strikes periodically disrupt production; non-union production increases with cable and reality programming.
+
+__Production & Surplus Capacity:__ Hollywood production capacity expands to serve broadcast demand; studios and networks integrate production; surplus production enables export, making American programming dominant globally.
+
+__Storage, Reserves & Buffering:__ Network archives preserve broadcast heritage unevenly; kinescopes and videotape preserve material; commercial value of archives increases with syndication and home video markets.
+
+__Exchange, Trade & Logistics:__ American programming dominates global television trade; cultural export generates revenue while projecting American values; domestic market remains largely impervious to foreign programming.
+
+__Value Storage, Credit & Deferred Exchange:__ Advertising market grows from radio (approximately $200 million, 1930) to television (approximately $60 billion, 2005); network stocks trade publicly; advertising rates indexed to Nielsen ratings.
+
+__Surplus Extraction & Redistribution:__ Commercial model extracts viewer attention and sells it to advertisers; networks capture surplus through affiliate relationships; cable operators extract carriage fees; consolidation concentrates industry revenues.
+
+__Wealth Distribution & Asset Defense:__ Media ownership consolidates dramatically after Telecommunications Act (1996); by 2005, six conglomerates dominate; vertical integration allows content and distribution control.
+
+__Byproducts & Waste Routing:__ Failed programming represents sunk cost; obsolete equipment accumulates; advertising promotes disposable consumer economy generating substantial waste stream.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Television becomes family activity (1950s ideal); programming depicts evolving family structures from Father Knows Best to The Cosby Show to Modern Family (post-period); generational conflicts over viewing emerge with cable fragmentation.
+
+__Association & Mutual Aid:__ Broadcast creates national public sphere enabling associational life to organize; telethons (Jerry Lewis, March of Dimes) channel charitable impulses; civic organizations use broadcast to mobilize.
+
+__Leisure, Play & Sociability:__ Television structures leisure time; watercooler conversation around shared programming creates social bond; sports broadcasting creates shared ritual (Super Bowl, World Series); cable fragments this shared experience.
+
+__Stratification, Status & Group Structure:__ Broadcast both reflects and shapes social hierarchy; early television depicts white, middle-class norm; civil rights era forces visibility of African Americans; representation of minorities, women, and LGBTQ individuals evolves contentiously through period; class rarely depicted accurately.
+
+__Administrative Capacity & Institutional Integrity:__ FCC regulates broadcasting with substantial bureaucratic capacity; revolving door between industry and regulator creates capture concerns; deregulation (1980s) reduces oversight intensity.
+
+__Coercive Apparatus & Means of Force:__ FCC licensing provides enforcement mechanism; indecency fines increase after Janet Jackson incident (2004); industry self-regulation through NAB codes precedes formal rules.
+
+__Discharge, Disorder & Decay:__ Broadcast's homogenizing effect suppresses regional and ethnic distinctiveness; minorities remain underrepresented despite formal commitments; cable fragmentation creates parallel information spheres that reinforce rather than bridge social divisions.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Broadcast creates shared emotional experience: national mourning (JFK assassination), collective triumph (moon landing), shared anxiety (9/11); commercial model favors optimistic, consumption-friendly mood; news broadcasting introduces fear and anxiety as programming strategy (1980s–2000s).
+
+__Leadership & Personal Authority:__ Broadcast creates national figures: FDR's voice becomes familiar through fireside chats; Kennedy's image dominates television; Reagan masters television communication; newscasters (Cronkite, Brokaw, Jennings, Rather) achieve trusted status transcending networks.
+
+__Legitimacy as Lived Allegiance:__ Television confers legitimacy through visibility; political candidates require television presence; incumbents benefit from coverage; third parties marginalized by exclusion.
+
+__Political Will & Collective Resolve:__ Broadcast mobilizes public will: World War II radio builds support; television coverage of civil rights movement shifts opinion; Vietnam coverage erodes war support; 9/11 coverage generates war support.
+
+__External Relations & Posture:__ Broadcast projects American power abroad through entertainment exports; Voice of America and Radio Free Europe extend reach; domestic programming depicts America favorably in global context; foreign coverage limited and often stereotypical.
+
+__Disaffection, Apathy & Spent Will:__ Declining voter turnout correlates with television era; civic engagement decreases as television viewing increases (Putnam thesis); by 2005, polarization between red and blue Americas reflects fragmented media consumption.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Broadcast achieves near-universal reach by 1960; English dominance limits access for non-English speakers; Spanish-language broadcasting develops (Univision, Telemundo) but remains marginal to mainstream.
+
+__Channels & Transmission Velocity:__ Three networks dominate (1950s–1980s), ensuring shared information environment; cable (1980s) and satellite (1990s) multiply channels; transmission velocity accelerates from nightly news to 24-hour cycle to real-time coverage.
+
+__Record, Storage & Persistence:__ Network archives preserve broadcast heritage; Museum of Broadcasting (later Paley Center) and Library of Congress maintain collections; home recording (VCR, DVR) shifts control to viewers.
+
+__Framing, Censorship & Discourse Norms:__ Network standards departments enforce content norms; FCC indecency rules constrain broadcast language and imagery; cable operates under lighter standards, creating two-tier system.
+
+__Reception, Attention & Amplification:__ Nielsen ratings measure audience, determining advertising rates and programming decisions; ratings chase creates lowest-common-denominator incentives; fragmentation reduces any single program's audience share.
+
+__Signal Integrity & Noise Load:__ Commercial interruptions fragment content; channel proliferation increases noise; credibility of news diminishes as entertainment values infiltrate; by 2005, information environment includes significant misinformation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Broadcast reflects and shapes American moral sensibility: individual responsibility, fair play, family values; programming evolves from consensus morality to contested values as social change accelerates.
+
+__Law, Codification & Regulatory Evolution:__ Communications Act (1934) provides statutory framework; FCC regulations implement public-interest standard; deregulation (1980s–1990s) relaxes ownership and content rules.
+
+__Adjudication, Liability & Sanction:__ FCC adjudicates complaints and license renewals; courts review agency decisions; indecency enforcement intensifies after 2004; industry self-regulation through ratings (V-chip) emerges.
+
+__Rights, Protections & Compliance Burden:__ First Amendment protects broadcast speech but with less scope than print; equal-time requirements for political candidates; Fairness Doctrine (1949–1987) requires balanced coverage.
+
+__Impunity & Unredressed Wrong:__ Corporate ownership concentrates power with limited accountability; misrepresentation in news rarely punished; minority underrepresentation continues despite formal commitments; structural biases persist uncorrected.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Media studies develops as academic field; effects research (cultivation theory, agenda-setting) examines broadcast influence; Marshall McLuhan's work on television gains wide attention; cultural studies critiques broadcast ideology.
+
+__Applied Knowledge & Technical Method:__ American engineers lead broadcast technology development: television standards, color, satellite distribution, digital compression; Nielsen develops audience measurement techniques; advertising refines persuasion methods.
+
+__Education, Knowledge Stock & Skill Distribution:__ Educational programming (Sesame Street, PBS) addresses childhood learning; broadcast journalism training develops at universities; technical skills distributed through industry apprenticeship; audience media literacy varies.
+
+__Obsolescence & Knowledge Decay:__ Radio skills decline as television dominates; analog expertise becomes obsolete with digital transition; institutional memory lost through industry consolidation and staff turnover.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Broadcast constructs American identity through shared narratives: frontier mythology (westerns), small-town virtue (sitcoms), upward mobility (drama); national memory shaped by broadcast coverage of historical events; immigrant assimilation facilitated by common media consumption.
+
+__Legitimating Narrative & Ideology:__ American exceptionalism pervades programming: freedom, opportunity, consumer abundance as national birthright; commercial success validates the system; alternatives (socialism, communism) depicted negatively; post-Cold War triumphalism reinforces narrative.
+
+__Artistic Expression & Material Culture:__ Television develops distinctive aesthetic: sitcom format, hour drama structure, commercial interruption rhythm; production values increase through period; visual vocabulary becomes globally influential; stars embody period style.
+
+__Form Exhaustion & Meaning Decay:__ Genre conventions calcify: sitcom formulas repeat; news becomes infotainment; reality programming strips production values; by 2005, broadcast forms seem exhausted, with innovation migrating to cable and internet.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Broadcast reflects materialist, pragmatic worldview; spiritual questions addressed through entertainment (Touched by an Angel) rather than sustained theological engagement; secular humanism pervades mainstream programming.
+
+__Ritual, Devotion & Sacred Practice:__ Sunday-morning religious broadcasting serves devoted audience; televangelism (1970s–1980s) creates parallel religious media sphere; secular rituals (Super Bowl, Oscars) achieve quasi-sacred status.
+
+__Religious Institutions & Doctrinal Authority:__ Mainline Protestant establishment maintains broadcast presence; evangelical movement builds alternative media infrastructure; Catholic and Jewish programming serves specific audiences; religious right becomes political force partly through broadcast organizing.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Religious diversity increases through immigration but receives limited broadcast attention; New Age and alternative spiritualities find niche audiences; secularization proceeds among educated elites while religious broadcasting reinforces traditionalist faith.
+
+__Disenchantment & Sacred Discharge:__ Commercial broadcasting drains transcendent meaning from public discourse; consumption replaces spiritual fulfillment as broadcast-promoted value; by 2005, the shared national experience that broadcast once provided fragments, and no new source of collective meaning emerges to replace it — the public sphere atomizes into niche markets and ideological enclaves, leaving Americans connected by technology but divided in understanding.
+

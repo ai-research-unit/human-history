@@ -1,69 +1,140 @@
-# __40000 BCE – 15000 BCE__ — Upper Paleolithic Mammoth Steppe Adaptation
-__Summary:__ A twenty-five-thousand-year trend of human colonization and specialization across the mammoth steppe, the cold, dry grassland corridor stretching from Central Europe to Siberia; binding constraint is the severe cold-season provisioning bottleneck, met by communal mammoth hunting, bone-fuel economies, and semi-permanent base camps; margin against climatic oscillations remains thin, populations sparse but persistent; direction of change is slow demographic infilling and technological elaboration within a stable glacial-maximum biome.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The mammoth steppe forms a continuous grassland corridor from the Pannonian Basin through the Pontic-Caspian lowlands to western Siberia, bounded by ice sheets to the north and periglacial tundra margins; river valleys (Don, Dnieper, Ob) serve as transit corridors and aggregation points; spatial friction high in winter, moderate in summer.<br><br>
-__Climate Regime & Volatility:__ Last Glacial Maximum conditions (~26,000–19,000 BP) impose extreme continental climate with mean annual temperatures 10–15°C below present; cold, arid, with low precipitation; seasonal extremes severe; interannual variability driven by orbital and millennial-scale oscillations; trend stable glacial until deglaciation begins ~15,000 BP.<br><br>
-__Hazard Regime & Exposure:__ Primary hazards are cold-season exposure, blizzards, and spring floods in river valleys; volcanic events rare but Campanian Ignimbrite eruption (~40,000 BP) may have impacted western populations; margin thin against multi-year cold anomalies.<br><br>
-__Resource & Energy Endowment:__ Megafauna (mammoth, woolly rhinoceros, bison, horse, reindeer) provide protein, fat, bone, ivory, and sinew; no timber on open steppe, bone substitutes as fuel and construction material; lithic raw materials (flint, obsidian) accessible at outcrop sites; water from rivers and snowmelt.<br><br>
-__Waste Absorption & Sink Capacity:__ Human population density extremely low (<0.01/km²); organic waste from butchery and habitation negligible relative to open landscape; absorptive capacity effectively unlimited; no detectable environmental loading.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Pathogen load low due to cold climate and sparse population; zoonotic exposure from close megafauna contact; mortality driven primarily by trauma, cold exposure, and childbirth; baseline death rate high but not epidemic-driven.<br><br>
-__Nutrition & Physiological Vitality:__ Diet predominantly meat and fat, supplemented by limited plant foods; skeletal evidence (Sungir, Kostenki) shows robust stature, adequate nutrition during favorable periods; fat reserves critical for winter survival; nutritional stress episodic during resource failures.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding attested by burial evidence (double graves); reproductive capacity limited by high infant mortality and resource constraints; selection pressures favor cold adaptation and social cooperation.<br><br>
-__Demographic Renewal & Density:__ Population extremely sparse, estimated hundreds to low thousands across the entire steppe; slow net growth over millennia with local extinctions and recolonizations; carrying capacity set by winter provisioning bottleneck.<br><br>
-__Attrition & Dependency Overhang:__ High mortality before reproductive age; few survive to old age (Sungir burials show some elderly); dependency load absorbed within extended kin groups; orphan care implied by child burials with elaborate grave goods.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mammoth hunting central to subsistence; communal drives and mass kills provide surplus during favorable seasons; dried meat, fat storage, and marrow extraction extend winter provisioning; floor precarious but maintained through collective effort.<br><br>
-__Energy Capture & Conversion:__ Human muscle primary mover; fire essential for warmth, cooking, and defense; bone-fuel fires substitute for absent wood; energy capture constrained by cold-season immobility; conversion efficiency low but adequate given megafaunal caloric density.<br><br>
-__Labor Organization & Coercion:__ Labor organized through kinship and reciprocity; no evidence of coercion; task specialization by sex and age implied by ethnographic analogy and burial goods differentiation; communal hunts require coordinated effort.<br><br>
-__Production & Surplus Capacity:__ Surplus generated through successful mass kills; storage in frozen ground and as dried provisions; surplus enables semi-permanent occupation of base camps and supports non-subsistence activities (art, ritual).<br><br>
-__Storage, Reserves & Buffering:__ Meat cached in permafrost; fat rendered and stored; bone and ivory stockpiled for fuel and tools; reserves sufficient for months but vulnerable to multi-season failures; buffering capacity thin relative to climatic volatility.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange attested by marine shells, amber, and exotic lithics found hundreds of kilometers from sources; logistics constrained by lack of transport animals; movement seasonal and pedestrian.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No evidence of formal exchange media; value stored in durable goods (ivory, shell ornaments); deferred reciprocity governs gift exchange; social debt remembered orally.<br><br>
-__Surplus Extraction & Redistribution:__ Communal kill products shared according to participation and kinship; no evidence of extractive hierarchy; redistribution through feasting and ritual occasions; elite grave goods suggest differential access but not systematic extraction.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth differentiation evident in burial goods (Sungir burials with thousands of beads); assets defended through social recognition and burial with owner; inequality present but constrained by mobility and sharing norms.<br><br>
-__Byproducts & Waste Routing:__ Butchery waste (bone, marrow fragments) accumulates at processing sites; bone repurposed as fuel and tools; organic waste dispersed across open landscape; no routing pressures given negligible load and unlimited sink.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends through band and inter-band networks; mutual aid essential for communal hunting and winter survival; sharing norms enforced through reputation and reciprocity; radius stable over generations.<br><br>
-__Stratification, Status & Group Identity:__ Status differentiation evident in differential burial treatment (Sungir children with elaborate goods); age, skill, and possibly lineage mark status; group identity expressed through shared material culture (Venus figurines, ornament styles).<br><br>
-__Kinship, Family & Inheritance:__ Extended kin groups form residential bands; bilateral kinship likely; inheritance of portable wealth (ornaments, tools) attested by grave goods with children; marriage exchanges link dispersed bands.<br><br>
-__Civic Association & Self-Organization:__ Band-level organization with situational leadership for hunts and moves; seasonal aggregations for communal hunts, mate exchange, and ritual; no formal institutional structure above kin network.<br><br>
-__Leisure, Play & Sociability:__ Abundant evidence of non-subsistence activity: figurine carving, bead manufacture, body ornamentation; long winter confinement allows extended sociability; play and storytelling implied by material culture complexity.<br><br>
-__Grievance Channels & Social Discharge:__ Interpersonal conflict resolved through mediation, avoidance, or fission; ritual and feasting discharge social tension; limited evidence of violence; residual friction absorbed within small-group dynamics.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous band organization; authority situational and task-specific; no permanent leadership offices; influence derived from skill, age, and social capital; power diffuse and non-coercive.<br><br>
-__Succession & Power Transfer:__ No formal succession; influence passes informally through demonstrated competence and kinship networks; transitions smooth given absence of institutionalized power.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on personal qualities and ancestral precedent; narrative authority transmitted orally through myth and genealogy; no evidence of contested legitimacy at band scale.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination achieved through kinship, custom, and face-to-face interaction; record-keeping absent; institutional memory carried orally.<br><br>
-__Political Participation & Mobilization:__ Participation universal within adult band membership; decisions reached through discussion and consensus; mobilization for hunts achieved through persuasion and shared interest.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations mediated through kinship, marriage exchange, and seasonal aggregation; competition for territory and resources possible but unattested archaeologically; no evidence of warfare.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus; weapons (spears, knives) used for hunting double as personal arms; force capacity distributed among adult males; no monopoly on violence.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through social sanction and group pressure; threat environment dominated by environmental hazards rather than human violence; disorder residue minimal at band scale.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at walking pace through face-to-face contact; inter-band transmission during seasonal aggregations; reach limited to direct speech and visual signaling; velocity slow but adequate for band-scale coordination.<br><br>
-__Record, Storage & Persistence:__ No writing; information stored exclusively in living memory and transmitted orally; persistence depends on continuous intergenerational transmission; material symbols (figurines, ornaments) serve as mnemonic anchors but do not encode recoverable content.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse governed by oral tradition and elder authority; no formal censorship; taboos and sacred knowledge likely restricted by initiation and status; permitted speech band stable.<br><br>
-__Reception, Attention & Amplification:__ Audience limited to immediate hearers; amplification through repetition and performance; attention focused during communal gatherings; information propagates through retelling chains.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission subject to drift and loss; verification through redundancy (multiple tellers) and material correlation; noise load low given small information volume; integrity adequate for practical and ritual knowledge.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in reciprocity, kinship obligation, and group survival norms; sharing ethic central; fairness understood through personal relationships; moral sense transmitted orally through example and story.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law; binding norms unwritten and customary; behavioral expectations transmitted through socialization; evolution gradual and unrecorded.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes resolved through mediation by respected elders or kin; no formal tribunal; liability personal and compensated through restitution or avoidance; enforcement through social pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights understood through kinship status and group membership; protections collective rather than individual; compliance burden light given alignment of individual and group interest.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity possible through departure or fission; wrongs unredressed accumulate as social memory and affect future cooperation; no institutional mechanism for long-term accountability; residue absorbed within kinship dynamics.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Systematic empirical inquiry into animal behavior, seasonal cycles, and material properties evident in hunting success and technological sophistication; paradigm animistic and analogical; explanatory frontier at practical limits of survival knowledge.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated lithic reduction techniques (blade cores, pressure flaking); bone and ivory working (needles, awls, points); fire management; hide processing; techniques transmitted through apprenticeship and demonstration.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally and through observation; skill acquisition begins in childhood; full competence requires years of practice; stock concentrated in experienced adults; distribution uneven by age and aptitude.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques persist through continuous practice; loss occurs through demographic collapse or transmission failure; decay rate low given stable technology and small innovation frontier; accumulated knowledge vulnerable to population extinction.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Foundational identity tied to ancestral territory, megafauna, and shared origin narratives; Venus figurines and animal imagery encode cosmological themes; collective memory orally maintained; identity stable across generations.<br><br>
-__Artistic Expression & Material Culture:__ Rich material culture: Venus figurines (Willendorf, Kostenkian), animal carvings, decorated tools, personal ornaments (beads, pendants); aesthetic conventions regional but interconnected; artistic activity concentrated during winter aggregations.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood shaped by seasonal cycle and resource availability; winter confinement encourages introspection and artistic production; disposition cautious given environmental harshness; confidence renewed by successful hunts.<br><br>
-__Form Exhaustion & Meaning Decay:__ Symbolic forms (figurines, ornament styles) persist for millennia with gradual regional variation; no evidence of exhaustion; meaning renewal through ritual performance and intergenerational transmission; decay negligible during stable glacial conditions.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic cosmology in which animals, landscape features, and ancestors possess agency; human-animal relations central to worldview; existential outlook oriented toward cyclical renewal and reciprocal obligation with non-human powers.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual practices inferred from elaborate burials (ochre, grave goods, body positioning), figurine deposits, and decorated spaces; devotional habits likely include propitiation of animal spirits and ancestral commemoration; frequency and form unrecoverable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; ritual specialists (shamans) possible but archaeologically unverifiable; doctrinal authority personal and transmitted through apprenticeship; no formal hierarchy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shared symbolic repertoire (Venus figurines, animal imagery) spreads across the steppe, indicating spiritual diffusion; syncretism with local traditions likely; no evidence of displacement; cosmological unity within regional variation.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; sacred order integrated with daily life; existential needs met through ritual and cosmological narrative; spiritual residue minimal given coherent worldview and continuous practice.<br><br>
+# __40,000 BCE – 15,000 BCE__ — Upper Paleolithic Mammoth Steppe Adaptation
+
+__Summary:__ Hunter-gatherer bands dispersed across the mammoth steppe from the Pontic region to eastern Siberia, their survival governed by speech-coordinated collective hunting of megafauna — mammoth, woolly rhinoceros, bison, and horse — whose carcasses furnished calories, shelter, fuel, and raw material in a treeless glacial grassland where spoken language enabled the transmission of hunting technique, territorial knowledge, and social obligation across generations.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The mammoth steppe stretched from the Atlantic margins to Beringia, an unbroken expanse of cold, dry grassland maintained by grazing pressure and low precipitation; loess soils and permafrost underlay the sward, while river valleys — Don, Dnieper, Volga, Ob, Yenisei — offered corridors, water, and fuelwood where gallery forests survived; terrain imposed low friction on movement but demanded seasonal tracking of migrating herds across hundreds of kilometers.
+
+__Climate Regime & Volatility:__ Glacial conditions prevailed: mean annual temperatures 4–8°C below Holocene norms, precipitation low, winters severe but dry, summers brief and cool; the Last Glacial Maximum (~26,500–19,000 BP) pushed ice sheets to maximum extent, compressing the habitable steppe southward and intensifying aridity; interannual variability remained high, with cold snaps capable of killing herds and hunters alike.
+
+__Hazard Regime & Exposure:__ Acute hazards included severe cold spells, blizzards, and the danger of megafaunal encounters; periglacial flooding during seasonal thaw disrupted campsites in valley bottoms; volcanic ash from distant eruptions occasionally blanketed the steppe, disrupting grazing; margin for error was thin — a failed hunt in winter could prove fatal to an entire band.
+
+__Resource & Energy Endowment:__ Energy resided in animal biomass: mammoth fat and marrow stored vast calories, bone and ivory served as fuel, building material, and medium for tools; plant resources were scarce — no trees across most of the steppe, edible roots and berries limited to brief summers; stone for toolmaking came from specific outcrops (flint, chert, obsidian), traded or carried over long distances; the endowment was abundant but dispersed, demanding mobility to harvest.
+
+__Waste Absorption & Sink Capacity:__ Human population density remained too low (~0.01–0.1 persons per square kilometer) to saturate any sink; bone middens, ash, and butchery debris accumulated at campsites but dispersed or were buried by periglacial processes; no anthropogenic degradation of landscape or atmosphere occurred at detectable scale; residue negligible.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic disease burden was low in sparse, mobile populations with minimal contact networks; zoonotic exposure occurred through butchery of megafauna; trauma — hunting accidents, exposure, interpersonal violence — likely exceeded infectious disease as a mortality driver; life expectancy at birth perhaps 25–35 years, with high infant mortality and few surviving past 50.
+
+__Nutrition & Physiological Vitality:__ Diet heavily protein- and fat-based, derived from megafauna supplemented by smaller game, fish, and seasonal plants; caloric intake fluctuated with hunting success; skeletal evidence (Sungir, Kostenki) shows robust physiques and adequate stature, though enamel hypoplasias indicate periodic nutritional stress in childhood; vitamin C obtained from raw meat and organs.
+
+__Care, Healing & Recovery Capacity:__ Care was kin-based; evidence from burials (Sungir) suggests elaborate treatment of the dead and possibly extended care for the injured or disabled; wound treatment limited to splinting, cautery, and herbal remedies; infectious disease treatment nil; recovery capacity constrained by the requirement to move with the band or perish.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility likely near biological maximum in the absence of contraception, offset by high infant mortality; pairing arrangements unknown but presumed flexible; band exogamy probable to avoid inbreeding, requiring speech-mediated negotiation between groups; reproductive intervals extended by prolonged lactation and nutritional stress.
+
+__Demographic Renewal & Density:__ Population density extremely low — perhaps 5,000–50,000 individuals across the entire mammoth steppe at any time; growth rates near zero, constrained by carrying capacity of megafaunal herds; local extinctions of bands likely when prey failed; migration and fusion maintained genetic diversity; age structure skewed young with few elders.
+
+__Attrition & Dependency Overhang:__ Dependency load minimal: few survived to old age; orphans and the incapacitated were absorbed or lost; no surplus to support large dependent populations; the load cleared by attrition rather than care; residue low but the cost was early death of the dependent.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Subsistence depended on successful collective hunts of megafauna — a single mammoth could provision a band for weeks — supplemented by smaller game (horse, reindeer, hare), fish in riverine camps, and gathered plants in summer; the floor was high-stakes: boom following a kill, famine if hunts failed in sequence; storage limited to cold-cache preservation in permafrost.
+
+__Energy Capture & Conversion:__ Energy capture occurred through fire-hardened spears and atlatls, cordage snares, and cliff or bog drives; fire was essential — for warmth, cooking, and bone-fuel burning in a treeless environment; conversion efficiency low by modern standards but sufficient to sustain bands through glacial winters; human muscle remained the sole motive power.
+
+__Labor Organization & Coercion:__ Labor organized by age and sex within egalitarian bands: men predominated in hunting; women in gathering, processing, and childcare; coercion minimal — consensus and reputation governed task assignment; no slavery or forced labor; reciprocity and sharing enforced by oral custom and the immediate threat of exclusion from the group.
+
+__Production & Surplus Capacity:__ Surplus was episodic — a mammoth kill produced more than could be consumed immediately — but storage was limited; most surplus converted to immediate feasting, gift exchange, or cached meat; no durable wealth accumulation; production capacity capped by hunting success and band size, with no expansion beyond band-level coordination.
+
+__Storage, Reserves & Buffering:__ Meat cached in permafrost pits, fat stored in bladders, marrow bones stockpiled; ivory and bone accumulated as raw material reserves; no granaries or treasuries; buffering against bad seasons thin — one or two failed hunts could exhaust reserves; risk pooling occurred through inter-band sharing and seasonal aggregation at kill sites.
+
+__Exchange, Trade & Logistics:__ Exchange occurred between bands at seasonal aggregation sites: marine shells, obsidian, amber, and quality flint traveled hundreds of kilometers from source to deposition, indicating long-distance trade networks maintained by oral agreements; logistics limited to what humans could carry; no pack animals, no wheeled transport.
+
+__Value Storage, Credit & Deferred Exchange:__ No abstract medium of exchange; value stored in durable goods (ivory, flint blades, shell ornaments) and social credit — obligations remembered and enforced through speech; deferred reciprocity ("I share now, you share later") was the dominant mode; no interest, no debt instruments, no currency.
+
+__Surplus Extraction & Redistribution:__ No centralized extraction; surplus redistributed through obligatory sharing enforced by oral norm and social sanction; hunters who withheld were ostracized; redistribution was immediate and egalitarian, with status accruing to generous givers rather than hoarders; no rent, no tribute, no taxation.
+
+__Wealth Distribution & Asset Defense:__ Portable wealth — tools, ornaments, pelts — distributed relatively evenly; no land ownership; asset defense consisted of carrying goods or caching them in secure locations; theft occurred but was socially sanctioned; concentration of wealth negligible; residue minimal.
+
+__Byproducts & Waste Routing:__ Butchery waste (bone, sinew, gut) largely repurposed as fuel, tools, cordage, or clothing; inedible remains left at kill sites to scavengers and decomposition; no toxic byproducts; waste cycling efficient; residue cleared by natural processes.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship was bilateral or patrilineal, tracing descent through named ancestors recited orally; marriage created alliances between bands; inheritance of material goods minimal — tools and ornaments passed to survivors — but inheritance of skill, story, and obligation was transmitted through speech; family formed the primary unit of daily life within the band.
+
+__Association & Mutual Aid:__ Bands (~25–50 individuals) were the primary association, bound by kinship, affinity, and shared subsistence; seasonal aggregations at major kill sites assembled multiple bands for exchange, ritual, and mate selection; mutual aid obligatory — sharing of meat, assistance in childbirth, collective defense — enforced by oral norm; defection punished by exclusion.
+
+__Leisure, Play & Sociability:__ Leisure time substantial after successful hunts; evidence includes musical instruments (bone flutes), decorated objects, and the time investment implied by Venus figurines and cave art (in adjacent regions); communal storytelling, dance, and play reinforced bonds; sociability centered on fire and shared meals.
+
+__Stratification, Status & Group Structure:__ Stratification minimal; status accrued to skilled hunters, storytellers, and shamans through demonstrated ability and generosity, not birth; no hereditary elite; age and experience conferred authority; group structure fluid, with fission and fusion as conditions demanded; boundaries between bands porous but maintained by dialect and kinship.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration; decision-making by consensus among adult men, possibly with female and elder input; no offices, no bureaucracy; institutional integrity resided in the oral memory of custom and the personal authority of skilled individuals; capacity to coordinate extended only to the band and temporary multi-band aggregations.
+
+__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus; weapons used for hunting doubled as weapons of violence; interpersonal conflict resolved by mediation, compensation, or departure; no police, no army; violence sporadic but lethal when it occurred; defense against external threat collective and ad hoc.
+
+__Discharge, Disorder & Decay:__ Social friction discharged through mobility — dissatisfied individuals could leave for another band; ritual and feasting absorbed tensions; persistent grievance rare in fluid, egalitarian settings; disorder limited to occasional violence; no ossified apparatus to decay; residue minimal, cleared by the porosity of band structure.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Sentiment oscillated with subsistence success: elation after a mammoth kill, anxiety during lean seasons; trust extended to kin and known band members, suspicion toward strangers until vouched for; behavioral temper cautious — risk aversion high given thin margins — but capable of collective boldness when hunting demanded it.
+
+__Leadership & Personal Authority:__ Leadership situational: the best hunter led the hunt, the best speaker mediated disputes, the shaman led ritual; no permanent chief; authority earned by demonstration and confirmed by oral acclaim; followers obeyed because the leader was right, not because the leader commanded; personal pull ephemeral.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy resided in the oral tradition and the continuous re-enactment of custom; allegiance to the band was lived through daily sharing and seasonal reunion; no abstract ideology; disaffection resolved by departure rather than rebellion; allegiance strong but exit easy.
+
+__Political Will & Collective Resolve:__ Collective will mobilized for the hunt, for defense, for seasonal migration; resolve sustained by oral exhortation and the immediate necessity of survival; no long-term political projects; will diffuse and consensual; factionalism limited by small scale and egalitarianism.
+
+__External Relations & Posture:__ Relations with other bands oscillated between alliance (exchange, intermarriage) and avoidance or conflict (competition for resources); no permanent enemies or allies; posture flexible, adapting to circumstance; expansion not a goal — territory was too vast and population too thin for conquest to make sense.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection cleared by mobility: the unhappy departed; apathy rare in small groups where every hand was needed; spent will expressed as withdrawal rather than revolt; residue low, discharged by the porosity of social structure.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language fully developed — Upper Paleolithic humans possessed the same linguistic capacity as moderns; communication accessible to all within the language community; dialects marked band identity; gesture and demonstration supplemented speech for teaching technique; exclusion from the code only by deafness or foreignness.
+
+__Channels & Transmission Velocity:__ Channels were face-to-face speech and ritual performance; velocity limited to the speed of human travel — a message crossed the steppe only as fast as a messenger walked or ran; reach extended through trade networks and seasonal aggregations; no long-distance signaling beyond fire and smoke.
+
+__Record, Storage & Persistence:__ Memory was the sole medium of record; oral tradition stored myth, genealogy, technical knowledge, and territorial lore; persistence depended on living transmission — death of a knowledgeable elder meant loss; visual media (carved figurines, cave painting in adjacent regions) supplemented but could not replace oral memory; no writing, no archives.
+
+__Framing, Censorship & Discourse Norms:__ Framing controlled by tradition: what could be said about ancestors, spirits, and taboos was governed by oral custom; censorship informal — violation of speech norms triggered social sanction; discourse norms reinforced hierarchy of knowledge (elders spoke authoritatively); no institutional censorship.
+
+__Reception, Attention & Amplification:__ Reception immediate and participatory — listeners responded, questioned, retold; attention governed by the demands of survival and the draw of a skilled storyteller; amplification occurred through retelling and seasonal aggregation, where news and story spread among assembled bands.
+
+__Signal Integrity & Noise Load:__ Signal integrity high in small, face-to-face groups; noise minimal — no competing channels, no information overload; distortion crept in through generational retelling (the telephone effect of oral tradition); verification by cross-checking with other knowledgeable individuals; residue low but some drift inevitable across generations.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice rooted in reciprocity: share and you will be shared with, betray and you will be excluded; fairness in distribution of meat was foundational; harm to kin required compensation or retaliation; moral sense embedded in oral tradition and enforced by reputation and shame.
+
+__Law, Codification & Regulatory Evolution:__ No codified law; oral custom functioned as regulation — "this is how it is done" carried normative force; taboos (incest, betrayal of the hunt, disrespect to spirits) marked the forbidden; regulation evolved slowly through precedent remembered in story; no legislative procedure.
+
+__Adjudication, Liability & Sanction:__ Disputes adjudicated by mediation among kin and respected elders; liability assigned by consensus; sanction ranged from public shaming to compensation payment (goods, service) to ostracism or death; no courts, no executioners — sanction enacted by the community or by aggrieved parties.
+
+__Rights, Protections & Compliance Burden:__ No formal rights; protection derived from membership in the band and kin network; the solitary individual had no standing; compliance burden low — norms were few and internalized from childhood; predictability high in small, stable groups.
+
+__Impunity & Unredressed Wrong:__ Impunity limited by the transparency of small-group life and the reach of gossip; wrongs generally redressed by compensation or exclusion; persistent wrongdoers driven out or killed; impunity gap narrow; residue minimal, cleared by the social sanction of the band.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry was practical: which plants are edible, where do mammoths migrate, how is flint knapped; theory embedded in oral tradition — animist explanations of natural phenomena, ancestral precedent as guide; paradigm stable, transmitted unchanged across generations; no formal investigation distinct from daily practice.
+
+__Applied Knowledge & Technical Method:__ Technical mastery high: pressure flaking of blades, hafting of composite tools, construction of mammoth-bone dwellings, tailored fur clothing, fire management in treeless environments; method transmitted by demonstration and verbal instruction; innovation occurred but was absorbed into tradition rather than celebrated as novelty.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education occurred through apprenticeship — children learned by watching, helping, and being instructed by elders; knowledge stock resided in living memory distributed across the band; specialists (skilled knappers, shamans) held deeper knowledge in their domains; literacy absent; skill distribution relatively even within sex and age cohorts.
+
+__Obsolescence & Knowledge Decay:__ Knowledge decay occurred when transmission failed — death of the knowledgeable, band extinction, or isolation; obsolete technique rare in stable environments; dogma accumulated where tradition was not tested against experience; residue low but vulnerability to catastrophic loss high.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity rooted in band and lineage, recited in genealogy and origin story; ancestral memory extended as far as oral tradition could carry — perhaps five to ten generations in detail, deeper in myth; foundational identity tied to territory, totem animal or spirit, and the remembered deeds of ancestors.
+
+__Legitimating Narrative & Ideology:__ The order was legitimated by tradition: "this is how the ancestors did it, this is how we do it"; no competing ideologies; the narrative was continuous with daily practice; legitimacy lay in the felt rightness of custom, not in argument.
+
+__Artistic Expression & Material Culture:__ Artistic expression flourished: Venus figurines, decorated tools, bead and shell ornaments, carved ivory, and (in adjacent regions) cave painting and engraving; material culture included tailored clothing, mammoth-bone architecture, and elaborate burial goods (Sungir burials with thousands of beads); style transmitted orally and by imitation.
+
+__Form Exhaustion & Meaning Decay:__ Symbolic forms remained vital — Venus figurines and hunting motifs retained meaning across millennia; exhaustion slow in stable tradition; meaning decay rare where transmission was continuous; residue minimal; renewal occurred through variation within traditional forms.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Cosmology animist: the world populated by spirits residing in animals, places, and natural phenomena; human fate governed by relationships with these spirits; death was a transition, not an end, as evidenced by elaborate burial; existential outlook accepting of the natural order, with ritual as the means of navigating it.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual centered on the hunt — invocation of prey spirits, propitiation before and thanksgiving after the kill; rites of passage marked birth, initiation, and death; shamans mediated between human and spirit worlds through trance, possibly aided by psychoactive substances; sacred practice woven into daily life, not separated into a distinct sphere.
+
+__Religious Institutions & Doctrinal Authority:__ No institutional hierarchy; the shaman held spiritual authority through personal power demonstrated in trance and healing; doctrine was oral tradition, not scripture; authority contested by rival shamans or absorbed upon their death; no church, no clergy, no orthodoxy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Diffusion occurred through contact at aggregation sites — stories, spirits, and practices exchanged between bands; syncretism the norm as traditions blended; displacement rare in the absence of competing universal religions; spiritual landscape stable and locally rooted.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment absent — the world remained enchanted, full of spirits and meaning; sacred discharge did not occur; the cosmology answered existential need without secular alternative; residue nil; the spiritual frame held through the period.
+

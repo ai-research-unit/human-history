@@ -1,69 +1,139 @@
-# __2017 CE – 2022 CE__ — Authoritarian Digitization and Control Infrastructure
-__Summary:__ Egyptian security state institutionalizes comprehensive digital control infrastructure while economic crisis and COVID pandemic accelerate selective digitization; binding constraint is regime's requirement to maintain surveillance and shutdown capabilities while permitting enough digital commerce to attract investment; Sudan experiences revolutionary opening (2018-2019) then military coup (2021); the direction is toward mature authoritarian tech-governance with website blocking, cybercrime prosecution, and deep packet inspection becoming routine, while economic necessity forces limited digital payment adoption.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Nile corridor geography continues concentrating infrastructure; new administrative capital under construction east of Cairo shifts some fiber investment; Suez Canal remains chokepoint for submarine cables; spatial friction unchanged but node concentration increasing.<br><br>
-__Climate Regime & Volatility:__ Arid regime continues; heat waves intensifying; water stress increasing as Grand Ethiopian Renaissance Dam fills upstream; climate pressure building but within window physical effects limited.<br><br>
-__Hazard Regime & Exposure:__ Low acute hazard exposure maintained; COVID-19 pandemic represents biological rather than physical shock; infrastructure adequate for normal conditions; new capital construction in open desert minimizes seismic concern.<br><br>
-__Resource & Energy Endowment:__ Offshore gas discoveries (Zohr field) improve energy position; electricity surplus achieved; renewable investment beginning; endowment improving through window though domestic consumption growing.<br><br>
-__Waste Absorption & Sink Capacity:__ Air quality remains degraded in Cairo; plastic waste crisis visible; electronic waste volumes growing with smartphone turnover; Nile pollution continues; sink capacity under persistent stress without significant improvement.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 arrives 2020 with official undercounting likely; healthcare system strained; Hepatitis C treatment program shows progress; mortality spike from pandemic then partial recovery.<br><br>
-__Nutrition & Physiological Vitality:__ Food inflation post-2016 devaluation strains nutrition among poor; metabolic disease rates climbing; dual burden of stunting and obesity persists; physiological outcomes stratified by class.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage continues delayed; population growth rate declining but absolute numbers still rising; household formation constrained by housing costs and unemployment.<br><br>
-__Demographic Renewal & Density:__ Population passes 100 million; youth bulge beginning to age; Cairo density extreme; internal migration ongoing; demographic momentum continues despite falling fertility.<br><br>
-__Attrition & Dependency Overhang:__ Political prisoner population grows; families bear costs of imprisoned relatives; elder care falling to household level; COVID deaths add to dependency burden; healthcare costs catastrophic for many households.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ 2016 devaluation and subsidy cuts raise subsistence costs sharply; IMF program conditions austerity; bread subsidies protected but other supports trimmed; poverty rates elevated.<br><br>
-__Energy Capture & Conversion:__ Natural gas production from Zohr improves energy balance; power surplus achieved by 2019; grid reaching new capital; conversion efficiency improving but consumption rising with population.<br><br>
-__Labor Organization & Coercion:__ Labor quiescence enforced; strikes rare and punished; informal sector dominant; gig economy emerging in transport and delivery; coercion subtle through unemployment threat rather than direct.<br><br>
-__Production & Surplus Capacity:__ Tourism slowly recovering pre-COVID; manufacturing stagnant; construction boom in new capital absorbs some capacity; Suez Canal expansion completed; surplus generation weak relative to population.<br><br>
-__Storage, Reserves & Buffering:__ Foreign reserves rebuilt through Gulf support and remittances; grain reserves maintained; COVID pandemic depletes fiscal buffers; dollar shortage recurring; buffering capacity thin.<br><br>
-__Exchange, Trade & Logistics:__ 2016 float resolves parallel market temporarily; currency stable then under pressure again by 2022; import compression; logistics adequate but customs digitization incomplete.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Pound loses value against dollar; inflation erodes savings; banking sector stable but credit constrained; digital payment infrastructure expanding under central bank push; fintech emerging.<br><br>
-__Surplus Extraction & Redistribution:__ Military economic holdings expand; taxation capacity improving through digitization; social protection programs digitized for targeting; extraction increasing faster than redistribution.<br><br>
-__Wealth Distribution & Asset Defense:__ Elite wealth protected through regime connections and offshore holdings; middle class eroded by inflation; inequality widening; asset defense strategies favor those with dollar access.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste regulation minimal; plastic accumulation visible; recycling informal; e-waste growing; routing continues toward cheap disposal; no significant policy change.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Depoliticized sociability continues; family networks essential for survival; neighbor relations functional but guarded; trust radius stable at low post-coup level; COVID isolation adds strain.<br><br>
-__Stratification, Status & Group Identity:__ Security-connected elite consolidated; Muslim Brotherhood supporters remain criminalized; sectarian tensions managed but unresolved; class polarization sharpening with economic pressure.<br><br>
-__Kinship, Family & Inheritance:__ Extended family pooling essential for economic survival; remittances from Gulf significant; marriage costs remain barrier; multigenerational households common; inheritance patterns stable.<br><br>
-__Civic Association & Self-Organization:__ Civil society space remains closed; NGO law enforced selectively; professional associations controlled; new community organizations rare and watched; associational capacity atrophied.<br><br>
-__Leisure, Play & Sociability:__ Entertainment consumption shifts to streaming; cafe culture continues; football remains outlet; COVID restrictions limit gatherings temporarily; digital sociability expanding.<br><br>
-__Grievance Channels & Social Discharge:__ Protest impossible; emigration primary exit; online venting dangerous; grievances accumulate; COVID adds frustration; discharge channels blocked; standing instability building beneath surface calm.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sisi consolidates further; constitutional amendments 2019 extend presidential terms; military dominance institutionalized; power concentration complete; no alternative centers permitted.<br><br>
-__Succession & Power Transfer:__ Succession opaque; no visible mechanism; sons of Sisi in positions; military institution as guarantor; transfer arrangements undisclosed; potential instability deferred not resolved.<br><br>
-__Legitimacy & Political Narrative:__ Stability, development, and anti-terrorism frame continues; mega-projects (new capital) as legitimacy source; nationalism emphasized; belief coerced through information control rather than earned through performance.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Digital governance expanding; ID systems modernized; surveillance capacity professional grade; corruption persistent but patronage functional; capacity concentrated in security and extraction.<br><br>
-__Political Participation & Mobilization:__ Managed elections continue; opposition participation token; street politics eliminated; digital organizing criminalized; political prisoners in tens of thousands; participation channels vestigial.<br><br>
-__Geopolitical Position & External Relations:__ Gulf alignment continues; Libya intervention; relations with Ethiopia tense over GERD; Russia and China engagement deepens; Western criticism muted by security cooperation; position stable through diversified partnerships.<br><br>
-__Coercive Apparatus & Means of Force:__ Security services well-equipped and trained; surveillance technology upgraded; digital monitoring professional; military hardware updated; apparatus modernized and maintained.<br><br>
-__Internal Order & Threat Environment:__ Sinai insurgency contained; urban security incidents rare; terrorism threat diminished but narrative maintained; actual threat environment low; control mechanisms overwhelming relative to challenges.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mobile internet dominant; 4G widespread; Facebook and WhatsApp primary platforms; TikTok rising among youth; transmission velocity high but channels monitored and subject to blocking.<br><br>
-__Record, Storage & Persistence:__ Government databases expanding; biometric ID systems deployed; social media monitoring systematic; court records of digital prosecutions accumulating; citizen documentation continues abroad; state archives comprehensive.<br><br>
-__Framing, Censorship & Discourse Norms:__ Website blocking normalized with hundreds of sites inaccessible; VPN use criminalized by 2018 cybercrime law; self-censorship universal; discourse band narrow; criticism coded or absent; framing controlled by state media saturation.<br><br>
-__Reception, Attention & Amplification:__ Entertainment content dominates attention; political disengagement as survival strategy; government messaging omnipresent; alternative narratives require VPN access; amplification controlled through platform cooperation and fear.<br><br>
-__Signal Integrity & Noise Load:__ Deep packet inspection deployed; signal quality monitored for control not clarity; propaganda volume high; independent verification difficult; noise rises as trustworthy sources blocked or exile-based; integrity degraded by design.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Injustice normalized; impunity expected; popular cynicism about courts; moral foundations eroded by gap between rhetoric and practice; sense of justice surviving only in private sentiment.<br><br>
-__Law, Codification & Regulatory Evolution:__ 2018 cybercrime law enables prosecution for posts and VPN use; media regulation tightened; terrorism definitions remain broad; emergency powers institutionalized; regulatory evolution toward comprehensive control.<br><br>
-__Adjudication, Enforcement & Liability:__ Political prosecutions routine; State Security courts handle sensitive cases; sentences harsh; digital evidence standard in terrorism cases; judicial independence absent for political matters; enforcement selective and political.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional protections nominal; privacy rights absent in practice; compliance burden on digital activity extreme; self-monitoring required for survival; protections unenforceable against state.<br><br>
-__Impunity & Unredressed Wrong:__ Security force impunity complete; torture documented by international bodies but unaddressed domestically; deaths in custody uninvestigated; judicial backlog of political cases permanent; impunity structural.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Academic freedom constrained; foreign researcher access limited; social science on politics impossible; STEM fields less affected; theoretical inquiry stagnant in sensitive areas; paradigm maintenance rather than advance.<br><br>
-__Applied Knowledge & Technical Method:__ Surveillance technology sophisticated; biometric systems deployed; digital payment infrastructure built; applied capacity concentrated in control and extraction technologies; method development serving state priorities.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ University enrollment high; quality variable; digital skills spreading among youth; coding bootcamps emerging; knowledge distribution uneven; brain drain continues as skilled graduates emigrate.<br><br>
-__Obsolescence & Knowledge Decay:__ Critical social analysis driven underground or abroad; institutional knowledge of governance reform lost; expertise in rights and accountability atrophied; decay concentrated in politically sensitive fields.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolution memory suppressed; regime narrative of stability as salvation dominates; ancient Egypt emphasized in national branding (pyramid transport, new museum); foundational story rewritten around order and heritage.<br><br>
-__Artistic Expression & Material Culture:__ Entertainment production continues within apolitical bounds; Netflix content from Egypt; music scene commercial; visual arts constrained; architecture of new capital monumental and authoritarian; expression channels toward harmless content.<br><br>
-__Collective Mood & Behavioral Disposition:__ Resignation dominant; survival focus; political disengagement as adaptation; youth oriented toward emigration or entertainment escape; COVID adds anxiety; mood flat and cautious.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary symbols dangerous; democratic vocabulary appropriated; national pride directed toward projects and sports; meaning structures controlled; decay managed through substitution of state-approved content.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Religious observance continues; political Islam suppressed; quietist piety acceptable; existential outlook privatized; fate acceptance common; secular disillusion among educated youth; outlook narrowed to personal and family survival.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mosques monitored; sermons controlled; Ramadan observance continues; Coptic practices protected under security framework; devotional life continues in depoliticized form.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Al-Azhar regime-aligned; Coptic Church maintains survival alliance with state; Muslim Brotherhood institutions destroyed; Salafi parties coopted; institutional landscape consolidated under state oversight.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Political Islam displaced from public sphere; quietist traditions favored; online religious content monitored; spiritual landscape simplified by force; diffusion constrained to regime-acceptable forms.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary transcendence fully extinguished; spiritual meaning found in private devotion and family; public sacred space controlled; disenchantment normalized; discharge into emigration aspiration, entertainment consumption, or quietist piety.<br><br>
+# __2017 CE – 2022 CE — Authoritarian Digitization and Control Infrastructure__
+
+__Summary:__ The Sisi regime consolidates a distinctive model of authoritarian digitization, simultaneously expanding digital government services, mandating digital payments, and building sophisticated surveillance and censorship infrastructure. The binding constraint is the paradox of coercive inclusion: the state requires citizens to participate in digital systems while criminalizing digital expression, creating comprehensive records of a monitored population that reaches one hundred million.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The New Administrative Capital, constructed forty-five kilometers east of Cairo, embodies the regime's vision of controlled modernity. Designed for half a million residents and built with Chinese loans, it distances government from the urban masses that stormed Tahrir. The project absorbs vast resources while Cairo's infrastructure decays.
+
+__Climate Regime & Volatility:__ Water stress intensifies as Ethiopia's Grand Renaissance Dam fills, reducing downstream Nile flow. Egypt's position as the furthest downstream state creates existential concern, though the threat unfolds over years rather than within this window.
+
+__Hazard Regime & Exposure:__ Flash floods in Sinai and Upper Egypt cause periodic damage, revealing infrastructure inadequacy. No catastrophic events occur, but resilience margins remain thin.
+
+__Resource & Energy Endowment:__ Zohr gas field production begins, providing energy security and export revenue. The discovery transforms Egypt's energy position from deficit to potential surplus, though benefits concentrate in state and military enterprises.
+
+__Waste Absorption & Sink Capacity:__ Cairo's air pollution ranks among the world's worst. Plastic waste in the Nile and canals accumulates. Environmental enforcement remains weak as economic development takes priority.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ A national hepatitis C treatment program, using generic antivirals, treats millions and significantly reduces prevalence. This represents a genuine public health achievement amid otherwise mixed performance.
+
+__Nutrition & Physiological Vitality:__ The 2016 devaluation raises food prices, squeezing nutrition among the poor. Child stunting rates remain high in Upper Egypt. Obesity rises among the urban middle class, creating a double burden.
+
+__Care, Healing & Recovery Capacity:__ Public hospitals remain underfunded. The health system handles routine care but is tested by COVID-19's arrival in early 2020, revealing capacity limits before mass vaccination campaigns begin.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage continues to be delayed by economic constraints. Housing costs and bride prices strain young families. Fertility rates slowly decline but population momentum continues growth.
+
+__Demographic Renewal & Density:__ Population reaches one hundred million in 2020, a milestone prompting official concern. Government family planning campaigns resume, but fertility decline remains gradual. The youth bulge persists.
+
+__Attrition & Dependency Overhang:__ COVID-19 mortality (officially underreported) is concentrated among the elderly. The pandemic's demographic impact is modest compared to its economic effects.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The 2016 devaluation and subsequent inflation erode purchasing power. Subsidy reforms, required by the IMF, reduce bread and fuel support. The poor absorb rising costs through reduced consumption.
+
+__Energy Capture & Conversion:__ Electricity capacity expands through new plants, including the Siemens mega-project. Power shortages of 2012-2014 end. Energy exports become possible as domestic supply exceeds demand.
+
+__Labor Organization & Coercion:__ Independent labor organizing remains suppressed. Workers lack bargaining power as unemployment and informal employment persist. Real wages decline with inflation.
+
+__Production & Surplus Capacity:__ GDP grows modestly (four to five percent annually), but growth concentrates in construction, gas, and military enterprises rather than labor-intensive sectors. Job creation lags population growth.
+
+__Storage, Reserves & Buffering:__ IMF loans (twelve billion dollars from 2016) and continued Gulf support rebuild foreign exchange reserves. The external cushion enables stability but creates future debt obligations.
+
+__Exchange, Trade & Logistics:__ The Suez Canal expansion (completed 2015) disappoints revenue expectations as global trade patterns shift. Import dependence remains high. Tourism recovers somewhat before COVID-19 collapse.
+
+__Value Storage, Credit & Deferred Exchange:__ High interest rates (to support the pound) attract hot money portfolio flows but crowd out productive investment. Mobile payments expand through Fawry and bank apps, though cash remains dominant.
+
+__Surplus Extraction & Redistribution:__ Military enterprises expand into retail, cement, fisheries, and logistics. The officer class extracts growing economic share. Subsidy reform shifts burden toward ordinary citizens.
+
+__Wealth Distribution & Asset Defense:__ Inequality widens as inflation erodes middle-class savings while connected enterprises prosper. Real estate in new cities serves as wealth storage for the elite.
+
+__Byproducts & Waste Routing:__ Industrial waste management remains inadequate. Informal recyclers (zabaleen) handle much household waste, but the system cannot scale with population growth.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended family networks bear increased burden as formal support systems atrophy. Remittances from Gulf workers sustain many households.
+
+__Association & Mutual Aid:__ Civil society restrictions tighten further. NGO registration requirements, foreign funding prohibitions, and security vetting eliminate most independent organizations. Only regime-approved associations function openly.
+
+__Leisure, Play & Sociability:__ Digital entertainment expands as public gathering remains constrained. Social media serves social connection even as political expression is monitored. Shopping malls and gated compounds provide sanitized public space for those who can afford them.
+
+__Stratification, Status & Group Structure:__ The military-security elite consolidates economic as well as political power. The Brotherhood remains suppressed, its members in prison, exile, or hiding. Middle-class professionals experience downward mobility.
+
+__Administrative Capacity & Institutional Integrity:__ The state builds digital government capacity, requiring online registration for services. National ID databases, tax digitization, and e-government portals expand state knowledge of citizens. Administrative efficiency improves in some domains while corruption persists in others.
+
+__Coercive Apparatus & Means of Force:__ Security forces expand budgets and surveillance capabilities. Pretrial detention extends indefinitely through rotation among charges. The prison population swells with political prisoners alongside common criminals.
+
+__Discharge, Disorder & Decay:__ The Sinai insurgency continues though contained. Mainland terrorism declines after 2017. The tens of thousands imprisoned create a growing population of radicalized inmates and traumatized families whose long-term effects remain latent.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear stabilizes as the new normal. The initial shock of 2013-2017 settles into chronic wariness. Young people grow up knowing only this environment. Self-censorship becomes reflexive rather than conscious.
+
+__Leadership & Personal Authority:__ Sisi extends his rule through constitutional amendments (2019) allowing terms until 2030. His image saturates public space. Personality cult elements emerge though without totalitarian consistency.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on negative foundations: preventing Brotherhood return, maintaining order, avoiding Syrian chaos. Positive achievements (infrastructure, Zohr gas, reduced terrorism) supplement but do not replace fear-based compliance.
+
+__Political Will & Collective Resolve:__ Opposition will is exhausted. A brief flicker of protest in September 2019 (triggered by viral videos alleging corruption) is quickly suppressed with over four thousand arrests. The last independent voice, Mohamed Ali's social media campaign from Spain, cannot sustain momentum.
+
+__External Relations & Posture:__ Egypt aligns with Saudi-Emirati positions, participating in Yemen coalition and Qatar blockade. Relations with Turkey remain hostile over Brotherhood exile support. Russian and Chinese ties deepen through arms purchases and infrastructure deals.
+
+__Disaffection, Apathy & Spent Will:__ A generation comes of age in disillusionment. Neither political participation nor protest appears viable. Migration becomes the aspiration for those with means. Domestic resignation dominates.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Internet penetration reaches sixty percent by 2020. Smartphone adoption drives access, with mobile data connections exceeding fixed broadband. Arabic-language content dominates, though English provides access to uncensored international sources.
+
+__Channels & Transmission Velocity:__ Facebook reaches over forty million users. WhatsApp becomes the primary messaging platform. YouTube consumption grows. TikTok arrives but faces potential regulatory threat. 4G mobile data is ubiquitous in urban areas.
+
+__Record, Storage & Persistence:__ Digital government services create comprehensive records of citizen transactions. Tax digitization, subsidy cards, and mobile payment logs produce trackable data trails. The state accumulates information while restricting citizen knowledge of government.
+
+__Framing, Censorship & Discourse Norms:__ The 2018 cybercrime law criminalizes vaguely defined offenses including "fake news" and endangering national security. The 2018 media law extends regulation to social media accounts with over five thousand followers. Website blocking expands past five hundred sites. VPN use becomes legally risky.
+
+__Reception, Attention & Amplification:__ State media dominates broadcast. Private media is owned or controlled by security-linked businessmen. Independent outlets like Mada Masr operate under constant pressure, their offices raided, staff arrested, website blocked but still accessible via VPN.
+
+__Signal Integrity & Noise Load:__ Deep packet inspection capabilities reportedly enable monitoring of unencrypted traffic. Social media surveillance identifies critics. The chilling effect extends beyond actual surveillance to assumed observation. Virality becomes dangerous for critical content.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ A large portion of the population accepts state violence as necessary for order, internalizing regime narratives. Others perceive systematic injustice but cannot safely articulate it.
+
+__Law, Codification & Regulatory Evolution:__ Legal changes institutionalize emergency powers into permanent law. The 2019 constitutional amendments embed military privileges and extend presidential terms. Law becomes an instrument of control rather than constraint on power.
+
+__Adjudication, Liability & Sanction:__ Mass trials continue. Military courts try civilians for security offenses. Pretrial detention extends through procedural manipulation. The legal system processes rather than adjudicates political cases.
+
+__Rights, Protections & Compliance Burden:__ Digital surveillance creates compliance burdens unknown to earlier generations. Every online statement carries potential legal risk. The right to privacy exists formally but not practically.
+
+__Impunity & Unredressed Wrong:__ No accountability emerges for Rabaa, for torture deaths in detention, for enforced disappearances. Impunity for security forces is absolute. The gap between justice owed and delivered widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic research on sensitive topics becomes impossible. Self-censorship pervades universities. Researchers avoid political economy, human rights, or security topics. The humanities and social sciences hollow out.
+
+__Applied Knowledge & Technical Method:__ Technical education produces engineers and programmers who build and maintain surveillance infrastructure, or emigrate. Digital skills develop despite political constraints on their application.
+
+__Education, Knowledge Stock & Skill Distribution:__ Educational quality remains poor. Rote learning dominates. Critical thinking is neither taught nor welcomed. The mismatch between graduate skills and labor market needs persists.
+
+__Obsolescence & Knowledge Decay:__ Institutional knowledge of independent journalism, civil society management, and civic organizing atrophies as practitioners are imprisoned, exiled, or silenced. A generation's expertise is lost.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Official memory frames 2011 as chaos and 2013 as rescue. Counter-memory persists in private and in diaspora, but cannot be publicly articulated. The contest over history remains suspended rather than resolved.
+
+__Legitimating Narrative & Ideology:__ The regime's narrative emphasizes development, stability, and restoration of Egypt's regional standing. Megaprojects (New Capital, Suez Canal expansion) serve as visible proof of progress. The terrorist threat justifies continued vigilance.
+
+__Artistic Expression & Material Culture:__ Entertainment television and film continue, avoiding politics. Music and comedy thrive within apolitical bounds. The state promotes pharaonic heritage tourism and national pride without permitting political expression.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary aesthetics cannot be deployed. Official cultural production lacks resonance. Neither regime iconography nor suppressed opposition symbols offer meaning. A cultural vacuum persists.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Religious practice continues as personal refuge. Islamic piety offers consolation where political action is blocked. The afterlife gains appeal when earthly change seems impossible.
+
+__Ritual, Devotion & Sacred Practice:__ Mosque sermons remain under state supervision. Friday prayers are monitored. Religious content is permitted within bounds that exclude political Islamism. Private devotion increases.
+
+__Religious Institutions & Doctrinal Authority:__ Al-Azhar maintains official position, offering religious moderation as alternative to Brotherhood Islamism. The institution's independence is compromised by its accommodation with power.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Salafi quietism, accepting political authority as religiously mandated, provides theological framework for disengagement. Political Islam is not theologically refuted, only suppressed.
+
+__Disenchantment & Sacred Discharge:__ Neither political nor religious hope flourishes. The sacred persists as personal solace rather than collective mobilization. A generation navigates between official Islam, suppressed Islamism, and quiet doubt, finding no satisfying synthesis.

@@ -1,69 +1,140 @@
-# __8000 BCE – 3000 BCE__ — Mid-Holocene Foragers and the Arrival of Pastoralism
-__Summary:__ A five-thousand-year trend across the East African Rift during the African Humid Period, spanning peak lacustrine expansion through early aridification; diverse specialized forager economies flourish at lakeshores while pastoral populations with domestic cattle and sheep arrive from the north after 4500 BP; the binding constraint shifts from optimal resource tracking among foragers to territorial negotiation as pastoralists enter; margin against shock remains wide for both economies initially but contracts as aridification begins; directional change moves from forager florescence toward a mixed forager-pastoralist landscape.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Rift corridor remains fixed; Lake Turkana, Lake Victoria, Lake Naivasha, and smaller lakes reach highstands creating expanded shoreline habitats; riverine systems carry abundant flow; friction for foragers is low along waterways but pastoralists require open grassland which becomes more available as aridification begins after 5000 BP.<br><br>
-__Climate Regime & Volatility:__ The African Humid Period (9000–5000 BP) brings maximum rainfall with monsoonal intensification; lake levels peak around 7000–5000 BP; after 5000 BP gradual aridification begins; volatility moderate with periodic droughts but secular drift from wet peak toward drying trend.<br><br>
-__Hazard Regime & Exposure:__ Flooding risk at lakeshores during highstands; drought hazard increases through the late period as climate transitions; volcanic hazard continues; margin against drought-induced famine remains adequate but begins narrowing by window's end.<br><br>
-__Resource & Energy Endowment:__ Lacustrine and riverine resources at maximum abundance; fish, hippo, crocodile, and shellfish concentrated at productive shorelines; obsidian sources remain accessible; wild cereals and tubers abundant; the endowment reaches peak accessibility during the humid period then slowly contracts.<br><br>
-__Waste Absorption & Sink Capacity:__ Human impact remains negligible despite population growth; shell middens and occupation debris accumulate at favored sites but scale is trivial against landscape capacity; absorptive capacity effectively unlimited.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Waterside concentration may increase exposure to schistosomiasis and other parasites; population growth raises disease transmission potential marginally; mortality baseline relatively low during the humid period but skeletal evidence remains sparse for direct assessment.<br><br>
-__Nutrition & Physiological Vitality:__ Abundant lacustrine protein and diverse plant foods support robust nutritional status; specialized fishing communities at sites like Lowasera show intensive resource exploitation; vitality high during peak humid period; early pastoralists introduce milk as dietary supplement.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Forager patterns continue; pastoral arrivals introduce new social configurations around cattle-based bride-wealth; mating systems likely diverge between forager and pastoralist communities; fertility adequate for population growth in both economies.<br><br>
-__Demographic Renewal & Density:__ Population expands as humid conditions maximize carrying capacity; lakeside and riverine zones support higher densities than before; pastoral immigration adds new population; density rising but still well below saturation; renewal strongly positive.<br><br>
-__Attrition & Dependency Overhang:__ Abundant resources support higher dependent ratios than during glacial times; sedentary lakeside communities may accommodate more dependents than fully mobile bands; dependency absorbed within household and community structures without strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Forager economies specialize around aquatic resources with intensive fishing at Lake Turkana and other sites; hippo exploitation documented at Lowasera; wild plant collection continues; pastoral arrivals after 4500 BP introduce cattle and sheep/goats as subsistence base; provisioning floor high for both economies.<br><br>
-__Energy Capture & Conversion:__ Human muscle dominant; fire for cooking and fish preservation; pastoralists add animal muscle for transport; no mechanical energy sources; conversion efficiency appropriate to each economy; pastoral addition increases per-capita energy access marginally.<br><br>
-__Labor Organization & Coercion:__ Forager cooperative labor continues without coercion; pastoral economy introduces new labor organization around herd management with age-grade and gender specialization; no evidence of coerced labor; both economies organized around household production.<br><br>
-__Production & Surplus Capacity:__ Lakeside foragers produce surplus fish for exchange and storage (drying); pastoral economy generates surplus in livestock form, inherently storable on the hoof; surplus capacity increases substantially with pastoral arrival; production exceeds immediate consumption for the first time at significant scale.<br><br>
-__Storage, Reserves & Buffering:__ Fish drying enables some storage for foragers; livestock serve as walking larders and wealth stores for pastoralists; ceramic vessels (Nderit ware with pastoralists) enable liquid storage; reserves deepening through the period; buffering capacity substantially improved.<br><br>
-__Exchange, Trade & Logistics:__ Obsidian exchange networks continue; pottery styles (early ceramics in Saharan traditions, Nderit ware) move with populations; forager-pastoralist exchange likely includes livestock, game, fish, and plant foods; logistics follow seasonal mobility patterns; no fixed markets but regularized exchange nodes.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Livestock emerge as primary value store for pastoralists; cattle represent wealth, bride-price, and social obligation; foragers continue reciprocal obligation systems; deferred exchange increasingly formalized around livestock debt; pottery and beads may serve as exchange media.<br><br>
-__Surplus Extraction & Redistribution:__ Egalitarian redistribution continues among foragers; pastoral economies introduce incipient differentiation through cattle accumulation; no centralized extraction; large kills and abundant catches distributed through kinship networks; leveling norms persist but wealth concentration begins among pastoralists.<br><br>
-__Wealth Distribution & Asset Defense:__ Forager wealth remains minimally differentiated in portable goods; pastoral wealth concentrates in cattle creating new inequality; defense of herds against raiding becomes necessary; territorial claims around grazing and water intensify; distribution beginning to widen.<br><br>
-__Byproducts & Waste Routing:__ Fish processing waste, shell middens, and bone accumulate at occupation sites; pastoral camps produce dung, but accumulation is dispersed by mobility; waste volume trivial against absorptive capacity; no active routing required beyond site abandonment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High trust within forager bands and pastoral kin-groups; trust radius extends through exchange networks connecting forager and pastoral communities; mutual aid formalized in livestock-loaning among pastoralists; intergroup trust building through exchange and intermarriage.<br><br>
-__Stratification, Status & Group Identity:__ Forager egalitarianism persists; pastoral society introduces wealth-based status differentiation through cattle ownership; age-grades organize pastoral communities; ethnic distinctions emerge between forager and pastoral identities; ancestors of Hadza and Sandawe may represent distinct forager identities resisting pastoral assimilation.<br><br>
-__Kinship, Family & Inheritance:__ Forager bilateral kinship continues; pastoral societies introduce cattle-linked patrilineal inheritance and bride-wealth transfers; marriage becomes transactional where pastoralism is adopted; kinship structures diverge along economic lines.<br><br>
-__Civic Association & Self-Organization:__ Forager bands continue small-scale self-organization; pastoral age-sets and clan structures create larger associational frameworks; seasonal aggregations continue for both groups; intergroup gatherings at watered locations enable coordination and ceremony.<br><br>
-__Leisure, Play & Sociability:__ Abundant resources during humid period allow ample leisure; sociability at aggregation sites; pastoral lifestyle introduces new forms of competitive display around cattle; dance, music, and oral performance continue as primary leisure activities.<br><br>
-__Grievance Channels & Social Discharge:__ Fission remains available for foragers; pastoral conflicts over cattle and grazing add new grievance types; livestock payment may resolve disputes; cattle raiding creates cycles of grievance and retaliation; new channels developing but some friction left unmetabolized as intergroup tension.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Forager acephalous organization continues; pastoral societies introduce elder councils and lineage heads with greater authority; incipient hierarchy around cattle wealth; power more concentrated among pastoralists but still diffuse by later standards.<br><br>
-__Succession & Power Transfer:__ No formal succession among foragers; pastoral lineage headship transfers within family lines; wealth in cattle enables intergenerational transfer of influence; routinized transfer emerging among pastoralists.<br><br>
-__Legitimacy & Political Narrative:__ Forager legitimacy based on sharing and competence; pastoral legitimacy adds cattle wealth and lineage seniority; origin narratives likely include migration stories among incoming pastoralists; no ideology of rule but precedent for hierarchy established.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No formal administration; pastoral councils coordinate at lineage and clan level; oral memory serves institutional functions; capacity limited to small-group coordination; no records, no bureaucracy.<br><br>
-__Political Participation & Mobilization:__ Universal adult male participation in forager decisions; pastoral age-grade systems structure participation; women's participation varies; mobilization for collective herding, defense, and ceremony; no mass mobilization capacity.<br><br>
-__Geopolitical Position & External Relations:__ Forager-pastoral frontier is the primary external relation; territorial negotiation between economic systems ongoing; no state-level actors; relations governed by kinship, exchange, and occasional conflict over resources.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized military apparatus; pastoral raiding introduces organized small-group violence; weapons include spears, bows, clubs; force distributed among adult males; no fortifications.<br><br>
-__Internal Order & Threat Environment:__ Social order maintained through norms and small-scale enforcement; cattle raiding introduces new disorder; conflict over water and grazing increases as aridification begins; disorder level rising but still manageable within community structures.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at human walking speed; pastoral mobility increases contact range; seasonal aggregations serve as information exchanges; forager-pastoral contact zones enable cross-community transmission; velocity unchanged but network density increasing.<br><br>
-__Record, Storage & Persistence:__ Oral memory remains the sole record medium; no writing; knowledge persists through repeated transmission; cattle brands or earmarks may serve as ownership markers but are not script; information vulnerable to population loss and social disruption.<br><br>
-__Framing, Censorship & Discourse Norms:__ No formal censorship; pastoral societies introduce new discourse around cattle, lineage, and honor; sacred knowledge remains restricted; framing conventions exist within oral tradition; no active suppression.<br><br>
-__Reception, Attention & Amplification:__ Face-to-face reception in small groups; attention focused in storytelling and ritual contexts; new pastoral narratives amplified through migration and adoption; no competing channels; oral repetition as amplification mechanism.<br><br>
-__Signal Integrity & Noise Load:__ Oral variation continues; pastoral migration introduces new information and potential confusion; intergroup contact increases noise but also enables error correction through consensus; integrity maintained through social verification; decay through population loss remains primary threat.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Forager reciprocity ethic continues; pastoral cattle culture introduces property morality and compensation scales; theft of cattle becomes serious offense; justice conceived as balance restoration; fairness norms diverge between economies.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal codification; customary norms transmitted orally; pastoral cattle law develops specific compensation schedules for theft and injury; marriage law elaborates around bride-wealth; evolution through precedent and elder decision.<br><br>
-__Adjudication, Enforcement & Liability:__ Elder councils adjudicate among pastoralists; foragers continue informal mediation; livestock payment as compensation; liability expressed in cattle units; enforcement through collective pressure and kinship obligation; blood feud possible for serious wrongs.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights embedded in kinship and community membership; pastoral property rights in cattle formalize; grazing and water access rights emerge; compliance burden increases with property accumulation but remains manageable.<br><br>
-__Impunity & Unredressed Wrong:__ Small-scale societies limit impunity through transparency; cattle-raiding creates unredressed wrongs between groups; some grievances persist as standing feuds; impunity for powerful cattle-owners beginning to emerge; residue small but increasing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Forager environmental knowledge highly developed; pastoral knowledge adds animal husbandry, breeding selection, and disease management; veterinary empiricism develops; cosmological frameworks accommodate new pastoral economy; paradigm adapts incrementally.<br><br>
-__Applied Knowledge & Technical Method:__ Microlithic technology continues; Nderit and related pottery traditions mark technical innovation; milk processing, hide working, and animal management techniques arrive with pastoralists; technical repertoire substantially expanded.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through participation and oral instruction; pastoral knowledge adds specialized training in herding, milking, and animal care; skill distribution broadens with dual economic base; stock expanding through contact and innovation.<br><br>
-__Obsolescence & Knowledge Decay:__ Some forager-specific knowledge may attrit as populations adopt pastoralism; lacustrine specializations persist where fishing continues; pastoral knowledge adds to rather than replaces most existing stock; decay limited; overall knowledge accumulation positive.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Forager origin narratives tied to landscape continue; pastoral migration stories introduce new mythic elements; cattle acquire symbolic significance in pastoral culture; identity differentiates along economic lines; ancestral memory transmitted orally through both traditions.<br><br>
-__Artistic Expression & Material Culture:__ Nderit ware with distinctive decoration marks pastoral arrival; ostrich eggshell beads continue; rock art potentially includes this period; cattle motifs likely enter artistic vocabulary; material culture traditions mark group identity.<br><br>
-__Collective Mood & Behavioral Disposition:__ Humid period abundance supports confident, expansive mood; aridification onset introduces uncertainty; pastoral arrival creates competitive dynamic; mood shifting from forager security toward mixed economy negotiation; disposition adapting to changing conditions.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms remain vital in both traditions; pastoral adoption may hollow some forager meanings but new meanings fill the space; cultural production continuous; no significant form exhaustion; meaning renewal through innovation and syncretism.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Forager animism continues; pastoral cosmologies add cattle symbolism and sky-god associations; cattle may acquire sacred status; human place in cosmos shifts with economic role; existential outlook accommodates both hunting and herding identities.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Forager seasonal and life-cycle rituals continue; pastoral rituals around cattle (first milk, sacrifice, fertility) introduced; aggregation sites serve both communities; devotional practice integrates new pastoral elements alongside older forager forms.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal institutions; ritual specialists in both traditions hold authority through efficacy; diviners, rainmakers, and healers serve community needs; no hierarchical doctrine; authority diffuse and performance-based.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pastoral spiritual concepts diffuse with population movement; forager and pastoral cosmologies syncretize where contact occurs; no wholesale displacement; gradual blending produces regional variants; spiritual frontier parallels economic frontier.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; both cosmologies remain fully enchanted; cattle acquire sacred meanings for pastoralists; forager sacred landscape persists; spiritual meaning abundant and continuously renewed; no secular residue.<br><br>
+# __8,000 BCE – 3,000 BCE__ — Mid-Holocene Foragers and the Arrival of Pastoralism
+
+__Summary:__ The East African Rift witnesses the arrival of cattle, sheep, and goat pastoralism from the desiccating Sahara and Nile corridor, transforming the region's human ecology as herders move into landscapes long occupied by Later Stone Age foragers. The binding constraint is the Saharan aridification that pushes pastoral populations southward: spoken traditions carry the knowledge of herd management, route-finding, and social coordination that make the pastoral lifeway viable, while forager oral traditions face marginalization as newcomers occupy the most productive grasslands.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The rift's grassland floors, highland plateaus (Kenya, Ethiopia), and lake-margin zones offer ideal grazing; volcanic soils support seasonal pasture regeneration; movement along the rift corridor and into the highlands follows established topographic routes; tsetse-infested lowlands remain barriers to cattle.
+
+__Climate Regime & Volatility:__ The African Humid Period peaks (~8,000–6,000 BCE), expanding lakes to maximum highstands (Turkana, Nakuru, Naivasha) and greening the Sahara; progressive drying from ~5,000 BCE onward contracts the Saharan pastoral zone and drives southward migration; the 4.2 kiloyear event (~2,200 BCE) marks a pronounced arid episode with regional impact.
+
+__Hazard Regime & Exposure:__ Drought becomes the primary hazard as the climate dries; volcanic eruptions remain episodic; lake fluctuations strand or flood settlements; pastoralists develop mobility as the principal hazard response.
+
+__Resource & Energy Endowment:__ Grasslands support both wild herbivores and domestic herds; obsidian sources remain accessible; aquatic resources peak during the humid phase then decline; the introduction of livestock represents a fundamental shift in the exploitable energy base.
+
+__Waste Absorption & Sink Capacity:__ Human and livestock densities remain low; dung accumulates at boma sites but enriches soils; no sink saturation occurs; the landscape absorbs the pastoral imprint without degradation at this scale.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Tsetse-borne trypanosomiasis constrains cattle distribution to fly-free highlands and drier lowlands; malaria persists in lowland zones; contact between incoming pastoralists and resident foragers may introduce novel pathogens in both directions, though evidence is sparse.
+
+__Nutrition & Physiological Vitality:__ Pastoralists add milk, blood, and meat from domestic animals to the diet, potentially improving protein and fat intake; foragers maintain broad-spectrum diets; skeletal evidence is limited but suggests adequate nutrition in both populations.
+
+__Care, Healing & Recovery Capacity:__ Healing remains oral-tradition-based and kin-provided; pastoralists bring their own pharmacopoeia and veterinary knowledge (orally transmitted) for livestock ailments; recovery capacity is limited to band or herding-group resources.
+
+__Reproductive Biology & Pairing Dynamics:__ Pastoral societies often develop polygynous marriage linked to cattle wealth; forager exogamy continues; intermarriage between groups is documented genetically but the extent in this period is uncertain.
+
+__Demographic Renewal & Density:__ Pastoral populations grow slowly as they expand into new territory; forager populations decline in areas of pastoral occupation; overall densities remain low but the pastoral sector grows proportionally; migration drives demographic dynamics as much as natural increase.
+
+__Attrition & Dependency Overhang:__ Pastoral mobility imposes limits on dependent care, though milk availability may support the elderly and young better than pure foraging; the dependency load is manageable at low densities.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Pastoralists depend on livestock products (milk, blood, meat) supplemented by gathered foods and, in some cases, fishing and hunting; foragers continue broad-spectrum strategies; the provisioning floor rises for successful herders, falls for displaced foragers.
+
+__Energy Capture & Conversion:__ Domestic animals convert grass into storable, transportable food energy, representing a major efficiency gain over direct foraging; human muscle remains the sole labor source; fire continues for cooking and land management.
+
+__Labor Organization & Coercion:__ Labor is organized by age and gender within kinship groups; young men herd; women process dairy; no coerced labor exists; cooperation is reciprocal and kin-based.
+
+__Production & Surplus Capacity:__ Livestock represent accumulated, renewable capital; surplus can be stored on the hoof and converted to social wealth through exchange; microlithic tools and pottery (appearing in this period) are also produced; surplus capacity exceeds that of foraging.
+
+__Storage, Reserves & Buffering:__ Herds are living storage, buffering against seasonal shortage through slaughter, bleeding, and milking; cached grain or dried fish supplement reserves in some areas; buffering capacity is tied to herd size and condition.
+
+__Exchange, Trade & Logistics:__ Livestock, obsidian, pottery, and ornaments circulate through exchange networks; pastoralist-forager exchange is documented (meat for plant foods, obsidian, or other goods); logistics remain on foot and pack animal (donkey introduced late in the window).
+
+__Value Storage, Credit & Deferred Exchange:__ Cattle become a primary store of value; bridewealth, compensation, and alliance are transacted in animals; deferred reciprocity ("lend now, return later") structures exchange; no monetary medium exists.
+
+__Surplus Extraction & Redistribution:__ Surplus is redistributed through kinship obligations, feasting, and alliance; no formal extraction apparatus exists; communal distribution at large kills or ceremonies marks pastoral and forager alike.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentration in cattle emerges; herding success creates inequality; asset defense relies on mobility, alliance, and the capacity to fight; raiding may begin as inter-group tension rises.
+
+__Byproducts & Waste Routing:__ Animal dung accumulates at settlements; bone debris marks slaughter sites; waste volumes increase but remain absorbable; no environmental crisis emerges.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Pastoral societies develop patrilineal descent and cattle inheritance systems; forager bilateral kinship persists; inheritance of herds drives social structure among pastoralists; marriage links families and herds.
+
+__Association & Mutual Aid:__ The herding camp (kraal/boma) replaces or supplements the forager band; mutual aid in herding, defense, and ritual is obligatory; seasonal aggregations for ceremony and mate exchange continue.
+
+__Leisure, Play & Sociability:__ Cattle camps and seasonal gatherings provide settings for song, dance, storytelling, and courtship; oral performance remains central to sociability.
+
+__Stratification, Status & Group Structure:__ Stratification increases as cattle wealth differentiates families; status accrues to successful herders and ritual specialists; age grades structure male roles; foragers become lower-status where subordinated; ethnic distinction between pastoralist and forager hardens.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration exists; leadership remains situational and consensus-based; oral tradition carries norms; monumental pillar sites (Lothagam North, ~3,000 BCE) suggest communal ritual organization without centralized authority.
+
+__Coercive Apparatus & Means of Force:__ No standing coercive apparatus exists; weapons include spears, bows, and clubs; conflict over cattle, grazing, and water increases; raiding and counter-raiding may emerge as pastoralist groups compete.
+
+__Discharge, Disorder & Decay:__ Friction is discharged through fission, ritual, compensation, and marriage alliance; inter-group conflict over resources rises; disorder remains localized; no systemic decay occurs.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The arrival of pastoralists introduces competition and uncertainty for foragers; within herding groups, solidarity is high; trust extends along kinship and alliance networks; anxiety centers on herd loss, drought, and raiding.
+
+__Leadership & Personal Authority:__ Influence accrues to successful herders, ritual specialists, and mediators; authority is personal and persuasive; oral tradition celebrates exemplary leaders.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is given to kinship groups and respected individuals; no formal state or office exists; legitimacy is relational and earned.
+
+__Political Will & Collective Resolve:__ Collective action is mobilized for defense, raiding, and major rituals; resolve is high when herds or kin are threatened; consensus-building through oral deliberation is essential.
+
+__External Relations & Posture:__ Pastoralist groups expand into forager territory, sometimes through absorption, sometimes through displacement; inter-group relations range from exchange to conflict; no expansionist state exists, but the pastoral frontier advances southward.
+
+__Disaffection, Apathy & Spent Will:__ Displaced foragers may experience disaffection as their way of life is marginalized; within pastoral groups, spent will is resolved through fission or absorption; the residue accumulates among the marginalized.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is universal; pastoral populations bring Afroasiatic (Cushitic) and later Nilotic languages into contact with Khoisan-related click languages of foragers; multilingualism and language shift begin; no writing exists.
+
+__Channels & Transmission Velocity:__ Voice, gesture, and signal (smoke, drum) are the channels; information travels at walking or herding-migration speed; inter-group contact accelerates information flow along pastoral routes.
+
+__Record, Storage & Persistence:__ Memory remains the sole archive; oral tradition encodes herd genealogies, route knowledge, and ritual; rock art continues (Kondoa, Ethiopian sites) but rock art traditions may diverge between forager and pastoralist.
+
+__Framing, Censorship & Discourse Norms:__ Elders and ritual specialists control esoteric knowledge; everyday speech is open; taboos govern sacred and herd-related matters.
+
+__Reception, Attention & Amplification:__ Reception is face-to-face; attention is high in small groups; pastoral songs and praise poetry amplify key narratives across generations.
+
+__Signal Integrity & Noise Load:__ Oral transmission is prone to drift; pastoral genealogies are maintained with care; forager traditions may be lost as populations decline or assimilate; noise accumulates where transmission chains break.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity, kinship obligation, and cattle-related honor form the moral core among pastoralists; forager sharing ethics persist in their communities; justice centers on compensation and restitution.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; norms are oral, embedded in custom and taboo; cattle-related disputes drive the elaboration of compensation rules; evolution is slow and generational.
+
+__Adjudication, Liability & Sanction:__ Disputes are mediated by elders and assemblies; liability is collective (kin-based); sanctions include payment in cattle, shaming, and ostracism; violence is regulated but not eliminated.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy is constrained by kinship and herd obligations; compliance burden is moderate; predictability of norms depends on shared oral knowledge and elder authority.
+
+__Impunity & Unredressed Wrong:__ Impunity is possible for powerful herders; weaker parties (displaced foragers, junior kin) may lack redress; the gap between justice owed and delivered widens with inequality.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of the natural world is empirical and practical—animal husbandry, pasture management, water-finding, tracking—framed within cosmological narratives; no formal inquiry exists.
+
+__Applied Knowledge & Technical Method:__ Pastoral technology includes livestock breeding, milking, bleeding, hide-working, and veterinary care (orally transmitted); microlithic tool traditions continue; pottery appears and spreads; no writing exists to fix technique.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge is transmitted through apprenticeship, participation, and oral instruction; the stock is held in living memory; skill is distributed across specialists (herders, healers, potters); literacy is absent.
+
+__Obsolescence & Knowledge Decay:__ Forager knowledge may be lost as populations decline or assimilate; pastoral knowledge is maintained through continuous practice; the 4.2 kiloyear drought may have disrupted transmission in some areas.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Pastoral origin narratives center on cattle, migration, and ancestral herders; forager narratives continue among persisting populations; identity diverges along pastoral-forager lines; oral tradition carries deep memory.
+
+__Legitimating Narrative & Ideology:__ The pastoral lifeway is legitimated by reference to ancestors, cattle, and the proper order of things; forager identity is marginalized in pastoral narratives; no formal ideology exists.
+
+__Artistic Expression & Material Culture:__ Personal ornaments (beads, shells, ochre), decorated pottery (Nderit ware), and cattle-related regalia express identity; rock art continues but motifs may shift to include cattle; dress remains minimal, body decoration significant.
+
+__Form Exhaustion & Meaning Decay:__ Forms are renewed through ritual and retelling; the arrival of pastoralism introduces new forms; exhaustion is not evident; the residue is minimal.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Pastoral cosmologies center on cattle as sacred, linking humans, ancestors, and the divine; animist frameworks persist among foragers; existence is embedded in the natural and cattle-mediated order.
+
+__Ritual, Devotion & Sacred Practice:__ Rites of passage (initiation, marriage, death), cattle sacrifice, and seasonal ceremonies mark the sacred calendar; monumental pillar sites (Lothagam North) indicate communal mortuary ritual; oral tradition guides practice.
+
+__Religious Institutions & Doctrinal Authority:__ No institutionalized religion exists; ritual specialists hold authority through personal power; doctrine is local and fluid; oral transmission is the only medium.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Pastoral and forager cosmologies interact; syncretism occurs where populations intermarry or coexist; displacement of forager spirituality begins in areas of pastoral dominance.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains fully embedded in daily life; no disenchantment occurs; the residue is zero, though forager traditions may erode where populations are marginalized.
+

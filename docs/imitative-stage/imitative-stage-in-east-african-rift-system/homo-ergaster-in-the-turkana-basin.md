@@ -1,69 +1,139 @@
 # __1,900,000 BCE – 1,500,000 BCE__ — Homo ergaster in the Turkana Basin
-__Summary:__ A static snapshot of Homo ergaster occupation in the Turkana Basin during the early Pleistocene, centered on the KNM-WT 15000 skeleton and related fossils that document a novel hominin body plan — tall stature, modern limb proportions, reduced dentition, and expanded cranial capacity averaging 850–1000 cc. The population operates under binding metabolic constraint: a larger brain and reduced gut demand higher-quality foods, tethering the species to reliable protein access in a fluctuating lake-margin mosaic. Demographic margin remains thin; slow maturation rates implied by skeletal development extend dependency and limit reproductive throughput. The system holds modest buffering capacity against environmental oscillation but remains vulnerable to sustained resource depression.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Turkana Basin forms a graben corridor bounded by volcanic highlands to east and west, with Lake Turkana's fluctuating margins creating a north-south axis of movement; seasonal water sources, volcanic sediment exposures, and lava outcrops supplying raw material for tool manufacture define traversable terrain.<br><br>
-__Climate Regime & Volatility:__ Semi-arid to arid conditions prevail, with marked wet-dry seasonality and interannual variability driven by orbital precession cycles; paleosols and faunal assemblages indicate alternation between open grassland and wooded bushland mosaics, trending toward increased aridity across the window.<br><br>
-__Hazard Regime & Exposure:__ Volcanic activity in the Ethiopian and Kenyan Rift produces periodic ashfalls and lava flows; lake-level fluctuations create episodic flooding of marginal habitats; drought cycles impose recurrent resource stress, with limited structural buffering capacity.<br><br>
-__Resource & Energy Endowment:__ Lake margins concentrate herbivore populations, fish, and freshwater molluscs; volcanic cobbles and lava flows provide abundant knappable stone; standing biomass remains moderate relative to more humid East African zones, with seasonal concentration near permanent water.<br><br>
-__Waste Absorption & Sink Capacity:__ Open savanna and lakeshore environments disperse organic waste effectively; localized accumulation at favored sites (bone concentrations, lithic scatters) remains negligible relative to available absorptive capacity; no sink saturation evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasites from waterhole dependence and scavenged carcass contact impose background attrition; KNM-ER 1808 exhibits hypervitaminosis A pathology suggesting dietary stress or toxicity episodes; infant and juvenile mortality remains high, though direct paleopathological evidence is sparse.<br><br>
-__Nutrition & Physiological Vitality:__ KNM-WT 15000 shows robust skeletal development, tall stature (projected adult height ~1.8 m), and limb proportions adapted to endurance locomotion in open terrain; reduced molar size implies dietary shift toward higher-quality, lower-fiber foods requiring less masticatory processing.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Reduced sexual dimorphism compared to australopithecines suggests altered mating structure, possibly toward increased male investment; skeletal maturation in KNM-WT 15000 indicates extended juvenile dependency period relative to earlier hominins, constraining female reproductive throughput.<br><br>
-__Demographic Renewal & Density:__ Population density remains low across the basin, inferred from sparse fossil recovery and site distribution; replacement rates likely near equilibrium with mortality, maintaining demographic stability without expansion; age structure skewed toward juveniles and prime adults.<br><br>
-__Attrition & Dependency Overhang:__ Extended juvenile dependency increases the caregiving load per reproductive female; individuals surviving to advanced age are rare in the fossil record; the dependency burden appears absorbed within small group structures without accumulating as systemic drag.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Foraging economy combines opportunistic scavenging of large mammal carcasses, plant gathering, and possibly aquatic resource exploitation; cutmarked bones from associated sites indicate systematic carcass processing; provisioning remains close to the subsistence edge with minimal surplus.<br><br>
-__Energy Capture & Conversion:__ Human muscle power remains the sole converter; Oldowan and emerging proto-Acheulean stone tools extend butchery efficiency; fire use not securely attested for this window despite later claims, leaving raw consumption as the likely norm; per-capita work ceiling constrained by caloric return on foraging effort.<br><br>
-__Labor Organization & Coercion:__ Task differentiation by age and possibly sex organizes foraging and processing; no coercive structure beyond immediate kin-group cooperation; labor mobilization occurs through direct participation and imitative learning without formalized allocation.<br><br>
-__Production & Surplus Capacity:__ Production consists entirely of immediate-use tool manufacture and food acquisition; surplus beyond daily consumption is minimal, limited to portable stone cores and perhaps cached meat at temporary sites; no durable surplus accumulation.<br><br>
-__Storage, Reserves & Buffering:__ No evidence of systematic food storage; buffering against scarcity relies on fat reserves, group mobility, and fallback foods; the population operates without stockpile depth, absorbing seasonal stress through behavioral flexibility rather than accumulated reserves.<br><br>
-__Exchange, Trade & Logistics:__ Raw material transport over short distances (under 10 km typically) indicates planning depth; no evidence of inter-group exchange networks; logistics limited to individual or small-group carrying capacity within daily foraging radius.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No medium of deferred exchange; reciprocity operates within immediate kin networks on a share-now, return-later basis without formalized accounting; value storage limited to embodied skill and durable tool blanks.<br><br>
-__Surplus Extraction & Redistribution:__ Surplus extraction is absent beyond immediate food sharing; distribution occurs through direct provisioning within the group, likely prioritizing dependents and active foragers; no extractive authority.<br><br>
-__Wealth Distribution & Asset Defense:__ Material inequality is effectively nil; "wealth" consists of portable tools and embodied knowledge; no defensible assets requiring protection beyond immediate possession; concentration impossible given production mode.<br><br>
-__Byproducts & Waste Routing:__ Knapping debris and bone refuse accumulate at processing sites; organic waste disperses naturally through scavenger activity and decomposition; no routing decision required beyond site abandonment; negligible load relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Cooperative foraging and carcass defense require trust within the immediate band; extended juvenile dependency implies provisioning of non-producers by adults, indicating reciprocity norms operating within kin networks; trust radius likely limited to recognizable individuals.<br><br>
-__Stratification, Status & Group Identity:__ No durable stratification; status differentiation, if present, tied to immediate individual qualities — strength, foraging success, reproductive maturity; group identity defined by co-residence and kinship rather than symbolic markers.<br><br>
-__Kinship, Family & Inheritance:__ Pair bonding or polygynous arrangements inferred from reduced dimorphism; inheritance limited to embodied skills and possibly portable tools passed through imitative learning; no property transfer across generations beyond immediate objects.<br><br>
-__Civic Association & Self-Organization:__ Band-level organization constitutes the sole associational form; coordination for foraging, predator defense, and infant care emerges from repeated interaction without formal structure; no secondary associations beyond the residential group.<br><br>
-__Leisure, Play & Sociability:__ Non-foraging time likely includes grooming, rest, and juvenile play as in extant primates; no recoverable evidence of structured leisure or festivity; sociability expressed through proximity and shared activity.<br><br>
-__Grievance Channels & Social Discharge:__ Conflict resolution proceeds through dominance displays, avoidance, or group fission; no formal mediation; unresolved tension may discharge through individual dispersal; friction capacity absorbed within small-group dynamics without accumulating.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is situational and personal, tied to immediate dominance or demonstrated competence; no permanent leadership roles; decision-making distributed through consensus or deference to experienced individuals in specific contexts.<br><br>
-__Succession & Power Transfer:__ No formalized succession; situational authority shifts with individual capacity and circumstance; leadership in any functional sense does not persist beyond immediate activity and requires no transfer mechanism.<br><br>
-__Legitimacy & Political Narrative:__ No narrative legitimation; compliance arises from immediate social bonds and direct observation of competence rather than justificatory ideology; political narrative as a category does not apply.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination occurs through direct interaction and imitative alignment; information about group state held in individual memory without external recording; institutional forms absent.<br><br>
-__Political Participation & Mobilization:__ All band members participate in collective activities through presence; no mechanism for mobilization beyond immediate co-action; dissent expressed through non-participation or departure rather than articulated opposition.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations limited to occasional encounter, competition at resource concentrations, and possible female transfer; no territorial boundaries or diplomatic structures; external pressure consists of competition with other hominin populations (Paranthropus) and carnivore guilds.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive capacity; individuals possess stone tools usable as weapons and physical strength; force application remains personal and unsystematized; no monopoly on violence.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder limited to interpersonal conflict resolved through dominance or avoidance; external threat from large carnivores (Megantereon, Dinofelis, crocodiles) exceeds internal violence as mortality source; no enforcement apparatus required.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information transmits through direct demonstration, gestural indication, and vocal calls lacking propositional content; transmission range limited to immediate visual and auditory contact; velocity constrained to the speed of bodily co-presence.<br><br>
-__Record, Storage & Persistence:__ No external recording medium; all knowledge persists in living memory alone, lost with the death of its holders; lithic reduction sequences preserve indirect evidence of learned motor patterns but encode no retrievable message; persistence entirely biological.<br><br>
-__Framing, Censorship & Discourse Norms:__ No propositional discourse to frame or censor; imitative transmission carries motor sequences and behavioral patterns without commentary; communicative norms, if any, govern attention direction and tolerance for observation rather than speech content.<br><br>
-__Reception, Attention & Amplification:__ Attention follows salient action — butchery, knapping, threat response — with amplification limited to immediate observer spread; no mechanism for cross-group or time-delayed propagation beyond individual memory and re-enactment.<br><br>
-__Signal Integrity & Noise Load:__ Signal fidelity depends on observation accuracy and motor replication; errors accumulate through copying; no correction mechanism beyond repeated demonstration; noise load minimal given low information volume, but no verification capacity exists.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Intuitive fairness likely operative at the level of food-sharing reciprocity and dominance respect, as in extant social primates; no recoverable content of moral principles; proto-normative responses to cheating or aggression inferred but not documented.<br><br>
-__Law, Codification & Regulatory Evolution:__ No law or codification; behavioral regulation proceeds through immediate social consequence — retaliation, exclusion, reconciliation — without formalized rules; regulatory evolution cannot be tracked in this window.<br><br>
-__Adjudication, Enforcement & Liability:__ No third-party adjudication; disputes resolve through direct interaction between parties or group pressure; liability assignment, if present, operates through memory of individual actions rather than formal attribution.<br><br>
-__Rights, Protections & Compliance Burden:__ No articulated rights or protections; individuals secure resources through possession and group membership; compliance burden limited to conformity with immediate social expectations enforced by observation.<br><br>
-__Impunity & Unredressed Wrong:__ Wrongs unredressed through personal retaliation or group sanction simply persist as altered relationships; no accumulating backlog of injustice; the concept of impunity presupposes a justice system not present.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No theoretical inquiry; knowledge consists of practical know-how for foraging, tool manufacture, and social navigation; explanatory paradigms absent; the discovery frontier is behavioral innovation through trial and imitation.<br><br>
-__Applied Knowledge & Technical Method:__ Oldowan lithic reduction sequences represent the primary technical method — core preparation, platform selection, flake removal — transmitted through observation and guided practice; butchery techniques and resource location constitute applied knowledge; no abstracted methodology.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmission occurs through apprenticeship-like observation; the stock consists of accumulated motor sequences and environmental knowledge distributed across experienced individuals; skill distribution varies by age and exposure; no institutional education.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques lost with practitioner death unless transmitted; no mechanism for preserving obsolete or variant methods; decay rate tied to demographic turnover; successful techniques persist through continuous re-enactment.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ No recoverable mythos; collective memory limited to recognition of individuals and places within living experience; identity defined by immediate group membership rather than narrative tradition; deep symbolic structure absent.<br><br>
-__Artistic Expression & Material Culture:__ Material culture consists of functional stone tools with no evident decorative elaboration; no pigment use, no engraving; aesthetic dimension limited to possible preference for symmetry in emerging biface forms, though this remains contested as functional rather than expressive.<br><br>
-__Collective Mood & Behavioral Disposition:__ Unrecoverable; behavioral disposition inferred as risk-averse given slow reproduction and high juvenile investment; no direct evidence of collective emotional states.<br><br>
-__Form Exhaustion & Meaning Decay:__ Cultural forms are practical routines rather than meaning-bearing symbols; exhaustion and decay do not apply to non-symbolic repertoires; behavioral patterns change through drift and innovation rather than meaning loss.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ No recoverable cosmology; metaphysical concepts, if present, leave no archaeological trace; existential outlook cannot be inferred from material remains; the category applies as informative null.<br><br>
-__Ritual, Devotion & Sacred Practice:__ No evidence of ritual behavior; site patterning reflects functional activity (butchery, knapping) rather than ceremonial arrangement; sacred practice, if any, is archaeologically invisible.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Absent; no institutional forms or authority structures with religious function; the category does not apply to this window.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No belief systems to diffuse or displace; the category records informative null for pre-symbolic hominin populations.<br><br>
-__Disenchantment & Sacred Discharge:__ No prior enchantment to lose; existential needs, if felt, find no recoverable expression; spiritual residue as a category does not apply to populations lacking documented cosmological frameworks.<br><br>
+
+__Summary:__ The emergence and establishment of Homo ergaster across the Turkana Basin over 400,000 years, a long-term trend bound by the imitative constraint — the new body plan and its behavioral repertoire transmitted only through demonstration and copying, with no way to articulate, codify, or send technique ahead of the bodies that carry it, so that the population's capacity scales only with the number of living exemplars and each lineage drifts.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Turkana Basin remains the central arena: a rift-floor depression flanked by escarpments, drained by the Omo from the north and seasonal rivers from the east. Paleo-Lake Turkana fluctuates between highstands that extend shoreline habitat and lowstands that concentrate fauna at shrinking water sources. The Koobi Fora Formation on the eastern shore and the Nachukui Formation on the west preserve fossil and artifact horizons spanning the window. Transit along the rift axis is open; lateral movement remains blocked by the escarpments. Volcanic tuffs — the KBS, Okote, and Chari members — provide radiometric anchors. The landscape is mosaic: riparian woodland, open grassland, and lava-strewn badlands, with raw material — basalt, phonolite, chert — available at outcrop and in river gravels.
+
+__Climate Regime & Volatility:__ The trend spans the Early Pleistocene intensification of 41,000-year glacial cycles. Rainfall oscillates between 300 and 700 mm annually, with corresponding lake-level swings of tens of meters. The secular drift is toward greater aridity and grassland expansion; C4 grasses dominate, and woodland contracts to riparian corridors and escarpment slopes. Interannual variability is high, and multi-decadal droughts punctuate the record, selecting for mobility and dietary flexibility.
+
+__Hazard Regime & Exposure:__ Seismic activity continues at low magnitude; volcanic eruptions at rift-margin centers deposit tuffs but rarely reach destructive scale within the basin. Wildfire is frequent during dry-season grass curing. Flash floods along the Omo and seasonal tributaries pose localized hazard. Predation by large carnivores — lions, hyenas, crocodiles — remains the primary acute threat. Exposure is managed by vigilance and group size; no structural vulnerability accumulates.
+
+__Resource & Energy Endowment:__ Stone for tool-making is abundant: basalt cobbles in river channels, phonolite on volcanic slopes, quartz in metamorphic outcrops. Water is limiting during dry phases, concentrating hominins and fauna at permanent sources. Fauna — bovids, suids, equids, hippopotami — provide animal tissue accessible through scavenging and increasingly through active hunting. Plant foods — tubers, fruits, seeds — are seasonally available. The energy endowment is adequate for low-density occupation; the constraint is water, not stone or calories.
+
+__Waste Absorption & Sink Capacity:__ Anthropogenic waste remains negligible: lithic debitage, bone refuse, excreta. The basin's scavengers, soils, and watercourses absorb the load without saturation. No degradation accrues; the sink clears faster than the load arrives.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic parasites persist — intestinal helminths, trypanosomes, waterborne protozoa — imposing chronic morbidity. Predation and trauma remain leading causes of death; the Turkana Boy (KNM-WT 15000) shows no healed major fractures but died young, around age eight to ten. Infant mortality is high, perhaps 40–50% before age five. Baseline mortality is stable but heavy, with life expectancy at birth probably under 20 years.
+
+__Nutrition & Physiological Vitality:__ Homo ergaster marks a dietary and physiological shift. The body plan — tall (1.6–1.8 m in adults), linear, long-legged, narrow-hipped — is adapted for endurance locomotion and heat dissipation in open savanna. Brain size increases to 800–900 cc, roughly 50% above H. habilis. Diet is increasingly carnivorous: cut-marked bones at Koobi Fora indicate systematic carcass access. Dental reduction — smaller molars, thinner enamel — suggests reliance on higher-quality foods, possibly including processed (pounded, sliced) plant matter. Nutritional status improves relative to earlier hominins, though seasonal stress persists.
+
+__Care, Healing & Recovery Capacity:__ Healing capacity remains limited to the body's regenerative processes and group tolerance of reduced mobility. The Turkana Boy shows evidence of a congenital spinal condition (possibly hypervitaminosis A or early scoliosis) that did not prevent survival into adolescence, implying some social buffering. No pharmacological or surgical intervention is available; recovery depends on constitution and kin support.
+
+__Reproductive Biology & Pairing Dynamics:__ Reduced sexual dimorphism relative to earlier hominins suggests a shift toward more stable pair-bonding or reduced male-male competition. Extended juvenile dependency — inferred from brain growth trajectories and delayed eruption of third molars — implies longer investment periods and lower fertility rates than in H. habilis. Interbirth intervals may lengthen, offset by improved juvenile survival if provisioning intensifies.
+
+__Demographic Renewal & Density:__ Population density remains very low — perhaps 0.05–0.2 individuals per square kilometer — but the H. ergaster body plan enables larger home ranges and more efficient resource extraction, potentially supporting slightly larger group sizes (30–60). Replacement rates hover near parity. The population expands slowly across the basin and beyond, with H. ergaster or closely related forms appearing at Dmanisi (Georgia) by 1.8 Ma, indicating capacity for long-distance dispersal. Within the Turkana Basin, internal fission and colonization of marginal patches continue.
+
+__Attrition & Dependency Overhang:__ Dependent load increases modestly as juvenile dependency lengthens, but few adults survive past 40. The demographic structure remains pyramidal, with high juvenile mortality offsetting extended childhood. Elderly dependency is minimal; individuals who cannot keep pace are shed by attrition. The overhang is light relative to carrying capacity.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Subsistence remains immediate-return foraging, but the range of accessible resources expands. Endurance locomotion allows pursuit of wounded or overheated prey across distances no earlier hominin could sustain. Scavenging of large carcasses — elephants, hippopotami — provides high-value caloric packages. Tuber exploitation, possibly aided by stone tools for digging and processing, buffers plant-food shortfalls. The provisioning floor rises, though it still tracks seasonal water availability.
+
+__Energy Capture & Conversion:__ Energy capture is muscle-powered, with no fire control evidenced in the basin during this window. Per-capita energy capture increases through dietary shift: meat and fat yield more calories per unit effort than plant gathering alone. The ergaster body — efficient for long-distance walking and running — reduces locomotion cost, raising net energy return. The per-capita ceiling may reach 2,500–3,000 kcal under favorable conditions.
+
+__Labor Organization & Coercion:__ Labor remains informal, organized by age and sex. Males are more involved in scavenging and hunting; females in gathering and child-transport. Division of labor may intensify as dietary breadth expands, with complementary foraging strategies emerging. No coercion apparatus exists; cooperation is kin-based and reciprocal.
+
+__Production & Surplus Capacity:__ Production is lithic and butchery. Oldowan tools persist through the window, with Acheulean technology emerging only at its close (Kokiselei 4, 1.76 Ma). No durable surplus accrues; meat spoils within days unless consumed or dried, and drying is not evidenced without fire. Production capacity grows as technique improves and group coordination tightens.
+
+__Storage, Reserves & Buffering:__ No physical storage exists. Buffering is social — food-sharing within the band — and physiological — body fat accumulated during periods of abundance. The taller, leaner ergaster body has reduced fat reserves relative to earlier hominins, increasing dependence on reliable provisioning and social sharing.
+
+__Exchange, Trade & Logistics:__ Exchange is reciprocal sharing within the band. Raw material transport distances increase: stone is carried 10–15 km in some assemblages, indicating expanded spatial memory and planning depth. No evidence of inter-band trade networks exists; exchange remains intra-group.
+
+__Value Storage, Credit & Deferred Exchange:__ Deferred reciprocity operates informally: a successful hunter shares today and expects return shares later. Memory and social sanction enforce these obligations. No tokens or symbolic media fix value; credit is personal and perishable.
+
+__Surplus Extraction & Redistribution:__ No surplus extraction by authority occurs. Redistribution is horizontal: successful foragers share with kin and band members. The norm is enforced by reputation and reciprocity, leveling consumption within the group.
+
+__Wealth Distribution & Asset Defense:__ Wealth remains negligible — personal tools, knowledge of terrain. No defensible accumulation exists; stone is abundant, and food spoils. Distribution is roughly equal by necessity.
+
+__Byproducts & Waste Routing:__ Lithic debitage and bone refuse accumulate at processing sites, forming the archaeological signature. Organic waste disperses or is consumed by scavengers. No deliberate waste routing occurs; discard is incidental and the sink clears it.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship structures remain inferential. The reduced sexual dimorphism and extended juvenile dependency suggest increased male investment in offspring, possibly stabilizing pair-bonds. Inheritance is non-material: knowledge of terrain, technique, and social relationships transmitted through proximity and imitation. Matrilineal or bilateral descent is plausible; paternity certainty may increase with pair-bonding.
+
+__Association & Mutual Aid:__ The band remains the primary association, possibly enlarged to 30–60 individuals as home ranges expand. Mutual aid is obligatory: food-sharing, cooperative vigilance, collective defense. Inter-band relations are occasional, with mate exchange during fission-fusion encounters and possible resource partitioning.
+
+__Leisure, Play & Sociability:__ Non-foraging time is spent in rest, grooming, and play. Social grooming maintains bonds and reduces tension. Juvenile play rehearses hunting, tool-use, and social skills. Sociability is quotidian, embedded in daily routine.
+
+__Stratification, Status & Group Structure:__ Stratification is minimal. Status accrues to skilled hunters, effective defenders, and knowledgeable individuals. Leadership is situational, shifting with context. No hereditary rank or fixed hierarchy exists; the structure is egalitarian within the constraints of age and ability.
+
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus exists. Coordination is face-to-face, achieved through gesture, vocalization, and shared attention. Decision-making is collective and consensus-seeking, limited by group size and the absence of institutional memory.
+
+__Coercive Apparatus & Means of Force:__ Coercion is personal — threats, blows, exclusion. Weapons are subsistence tools: stones, possibly wooden spears or clubs. Force is reactive, used in defense or dispute resolution, not organized for projection or conquest.
+
+__Discharge, Disorder & Decay:__ Conflict discharges through avoidance, submission, and fission. Persistent troublemakers are expelled or killed. Disorder is rare at the band scale; the group is small enough for face-to-face resolution. No structural decay occurs — there is no apparatus to ossify.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Affect is immediate: fear, excitement, aggression, affection displayed in posture and vocalization. Trust extends to band members, especially kin; strangers are met with caution. The baseline temper is vigilant and socially attuned. The expanded neocortex may support more nuanced social cognition — tracking relationships, anticipating others' responses — but expression remains pre-linguistic.
+
+__Leadership & Personal Authority:__ Authority is personal and situational. A skilled hunter leads the approach; a strong individual defends against threat. Charisma is proto-emotional — the capacity to rally and coordinate — but does not crystallize into lasting office. Leadership is earned through competence and generosity.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is to kin and band, not to any abstract order. Legitimacy is practical, based on demonstrated performance. Withdrawal of allegiance is expressed through reduced cooperation or departure. There is no ideology to justify rule.
+
+__Political Will & Collective Resolve:__ Collective will is mobilized for immediate tasks — hunts, moves, defense — and dissipates when the task ends. No sustained political project is possible; resolve is episodic. Fission resolves deadlock: when consensus fails, the group splits.
+
+__External Relations & Posture:__ Relations with other bands are rare and cautious. Posture is defensive; expansion is opportunistic, following favorable habitat. The dispersal capacity evidenced by Dmanisi suggests capacity for long-distance movement, but this is colonization of empty or under-occupied terrain, not conquest.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection manifests as withdrawal or departure. Spent will is individual — exhaustion, injury, despair — and results in reduced participation or death. No collective disaffection accumulates; the group is too small and fluid for estrangement to harden.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Communication is gestural, postural, and vocal, with an expanded repertoire relative to earlier hominins. The enlarged Broca's area in H. ergaster crania suggests increased vocal control, though full language is not evidenced. Mutual intelligibility is high within the band; strangers must learn the local repertoire through extended co-presence. The code remains indexical, tied to immediate context, but may support more complex referential signaling.
+
+__Channels & Transmission Velocity:__ Transmission is face-to-face, limited by line of sight and earshot. Information moves at walking pace, carried by individuals. No relay or amplification exists. Velocity is slow and reach is local.
+
+__Record, Storage & Persistence:__ There is no external record. Knowledge persists in living memory and is lost at death. Stone tools preserve outcomes but not procedures; each generation must re-learn by observation and practice. Persistence is generational; drift is inevitable.
+
+__Framing, Censorship & Discourse Norms:__ Framing is pre-discursive — attention is directed by pointing, gaze, and vocalization. No censorship apparatus exists; communicative limits are set by the code's expressive range, not by prohibition. Norms are implicit in social hierarchy.
+
+__Reception, Attention & Amplification:__ Reception is immediate and embodied. Attention is captured by novelty, threat, or social signal. Amplification is social but limited to the group present. What is not witnessed is not known.
+
+__Signal Integrity & Noise Load:__ Noise is environmental and social. Verification is by repetition and demonstration. Signal integrity is high within intimate groups, lower across distance or between strangers. Drift accumulates across transmission chains.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Moral intuitions are proto-ethical: fairness in sharing, resentment at cheating, empathy for kin. These foundations are emotional and immediate, not codified. The expanded social brain may support more nuanced tracking of obligations and violations, but justice remains retributive and personal.
+
+__Law, Codification & Regulatory Evolution:__ There is no law. Norms are customary, transmitted by example. Regulatory evolution occurs through drift as groups fission, but no codification fixes the rules.
+
+__Adjudication, Liability & Sanction:__ Disputes are settled by the parties involved or by dominant individuals. Liability is personal; sanction ranges from threat to violence to expulsion. There is no third-party adjudication or appeal.
+
+__Rights, Protections & Compliance Burden:__ Rights are practical and contingent on relationship. Protections are informal. Compliance burden is light; norms are few and embedded in routine. Transgression is visible and punished quickly.
+
+__Impunity & Unredressed Wrong:__ Impunity accrues to the strong and central. Grievance is personal and either resolved or carried away by fission. No structural impunity accumulates at scale.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ There is no formal inquiry. Understanding is procedural and embodied — knowledge of how to knap, butcher, track, find water. Theory is absent; explanation is causal in the minimal sense of anticipating outcomes from experience. The paradigm is practical, not propositional.
+
+__Applied Knowledge & Technical Method:__ Technical method is the Oldowan reduction sequence, with increasing refinement: selection of quality raw material, consistent platform preparation, efficient flake production. Refitting studies show longer reduction sequences and more flakes per core than earlier assemblages. At the window's close, Acheulean bifacial shaping emerges at Kokiselei 4 (1.76 Ma), introducing a new method: working both faces of a cobble to produce a symmetrical handaxe. Method is applied, not abstract; it exists in the hands.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is observation and imitation. Juveniles watch adults knap, butcher, and forage; they practice and are corrected by example. The extended juvenile dependency period allows longer learning windows, potentially supporting more complex skill acquisition. The knowledge stock remains shallow — the repertoire of a single tradition — but skill distribution may widen as group size increases.
+
+__Obsolescence & Knowledge Decay:__ Obsolescence is not a category; techniques persist as long as they work. The emergence of Acheulean at the window's close does not immediately obsolete Oldowan; both persist for hundreds of thousands of years. Decay is real: if skilled individuals die before transmitting, techniques are lost to that lineage. Recovery depends on contact with groups that retain the skill.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity is kin-based and local. Memory is personal and generational; there is no deep mythos or origin narrative beyond what living memory holds. Identity is immediate: we are those who travel together and share these places. The expanded brain may support richer autobiographical memory, but it is not externalized.
+
+__Legitimating Narrative & Ideology:__ There is no legitimating narrative. The order is legitimated by presence and practice — this is how we do things. Ideology is pre-ideological; justification is not articulated.
+
+__Artistic Expression & Material Culture:__ Material culture is lithic: cores, flakes, hammerstones, and at the window's close, early handaxes. There is no ornament, no pigment use, no evidence of symbolic marking. The symmetry of early handaxes has prompted speculation about proto-aesthetic sensibility, but functional explanations remain primary. Expression is functional, not decorative.
+
+__Form Exhaustion & Meaning Decay:__ Forms do not exhaust because they are not symbolic. The Oldowan toolkit persists without semantic loading; the Acheulean emerges without displacing it. There is no meaning to decay.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ There is no articulated cosmology. The existential outlook is pre-reflective: the world is what it is. Fatalism and piety are not distinguished; there is no metaphysical frame. The horizon of concern is immediate and practical.
+
+__Ritual, Devotion & Sacred Practice:__ There is no evidence of ritual or sacred practice. Behavior is instrumental. Devotion is not a category; the sacred is not yet separated from the profane.
+
+__Religious Institutions & Doctrinal Authority:__ There are no religious institutions, no priesthood, no doctrine. The category does not apply.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual systems do not diffuse because they do not exist. There is no syncretism or displacement.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment presupposes enchantment. The world is not yet enchanted; the sacred has not crystallized enough to recede. There is no void, only the flatness of a world not yet divided. The residue is null.

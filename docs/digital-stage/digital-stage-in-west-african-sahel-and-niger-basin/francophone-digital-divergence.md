@@ -1,69 +1,139 @@
-# __2018 CE – 2026 CE__ — Francophone Digital Divergence
-__Summary:__ A pan-temporal snapshot of the distinctive digital trajectory across Francophone West Africa, where colonial-era telecommunications legacies, French corporate dominance through Orange, and linguistic barriers to Anglophone platforms shape a parallel digital ecosystem diverging from Nigeria's entrepreneurial model; the binding constraint is infrastructure concentration in the hands of a single former-colonial operator, leaving thin margin against both political disruption and competitive innovation, with the overall direction tilting toward fragmentation as Sahel instability severs formerly integrated networks.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Francophone zone spans coastal states (Senegal, Ivory Coast, Togo, Benin) and interior Sahel (Mali, Burkina Faso, Niger), with submarine cable landings at Dakar and Abidjan providing connectivity that must traverse difficult overland routes to reach landlocked capitals; transit friction is high and rising as insecurity closes roads.<br><br>
-__Climate Regime & Volatility:__ Sahelian aridity intensifying northward, coastal humidity stable; climate stress amplifies displacement and strains the infrastructure corridors linking coastal hubs to interior populations dependent on satellite or degraded terrestrial links.<br><br>
-__Hazard Regime & Exposure:__ Flooding in coastal lowlands and drought in the Sahel; infrastructure exposure moderate at cable landing points but acute along overland fiber routes subject to washout, neglect, and deliberate sabotage in conflict zones.<br><br>
-__Resource & Energy Endowment:__ Hydropower in Ivory Coast and Senegal, thermal generation elsewhere; power availability erratic outside Abidjan and Dakar, gating data-center viability and limiting mobile-tower uptime in interior regions.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste volumes rising with handset turnover; municipal collection negligible outside capitals; informal recycling absorbs most, with heavy-metal residue accumulating in peri-urban dumps; absorptive capacity adequate but unregulated.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria, respiratory, and diarrheal disease endemic; COVID-19 disrupted health systems 2020–2022 but mortality impact lighter than projected; baseline disease load stable with slight improvement in urban areas.<br><br>
-__Nutrition & Physiological Vitality:__ Stunting and micronutrient deficiency persist in rural Sahel; urban populations better nourished; mobile-money-enabled remittances marginally improve household food security in connected villages.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility persists across the zone, with urban decline beginning in Dakar and Abidjan; digital connectivity has not yet measurably shifted pairing or fertility norms.<br><br>
-__Demographic Renewal & Density:__ Youth bulge prominent; median age under twenty in most states; urban migration intensifying, straining coastal infrastructure and expanding the potential digital user base faster than networks can provision.<br><br>
-__Attrition & Dependency Overhang:__ Conflict-generated displacement in the Sahel produces internally displaced and refugee populations dependent on aid and remittances; mobile-money transfers partially offset dependency load but cannot substitute for lost livelihoods.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Smallholder agriculture and pastoralism remain dominant; food insecurity acute in Sahel conflict zones, moderate elsewhere; urban informal economy absorbs labor but provisioning remains precarious for bottom quintiles.<br><br>
-__Energy Capture & Conversion:__ Grid power unreliable; diesel generators and solar micro-grids supplement; mobile-tower operators maintain independent power, raising costs; per-capita energy access well below regional peers, constraining digital infrastructure expansion.<br><br>
-__Labor Organization & Coercion:__ Wage labor thin outside formal urban sectors; mobile-money agents and airtime vendors form a distributed gig layer; coercion minimal in labor markets but underemployment endemic.<br><br>
-__Production & Surplus Capacity:__ Agricultural exports (cocoa, groundnuts, cotton) generate surplus; digital services embryonic outside Senegal's nascent tech sector; surplus extraction by commodity chains leaves little reinvestment margin for local digital infrastructure.<br><br>
-__Storage, Reserves & Buffering:__ Household savings low; mobile-money wallets serve as micro-reserves; formal banking penetration under twenty percent; buffer capacity thin against economic shocks.<br><br>
-__Exchange, Trade & Logistics:__ CFA franc zone provides monetary stability; Orange Money dominates digital payments; logistics constrained by poor roads and insecurity; cross-border mobile transactions rising but friction remains high.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ CFA franc pegged to euro, inflation contained; mobile-money float growing; formal credit scarce; informal rotating savings circles persist alongside digital wallets; deferred-exchange capacity expanding but shallow.<br><br>
-__Surplus Extraction & Redistribution:__ State revenue weak; extractive taxation on telecoms (levies, spectrum fees) significant; redistribution limited; Orange's profit repatriation drains surplus that might otherwise fund local digital development.<br><br>
-__Wealth Distribution & Asset Defense:__ Elite capture of urban real estate and import licenses; digital entrepreneurship rare outside Dakar; wealth concentration high and stable; asset defense via offshore accounts and French real-estate holdings among elites.<br><br>
-__Byproducts & Waste Routing:__ Mobile-handset turnover generates growing e-waste; informal recycling captures value but heavy metals disperse; routing decisions favor cheapest disposal, not environmental protection.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kin and ethnic networks remain primary safety nets; mobile money reinforces rather than replaces these ties by accelerating remittances; trust radius stable, neither widening nor contracting significantly.<br><br>
-__Stratification, Status & Group Identity:__ Colonial-era Francophone identity persists as elite marker; urban-rural and coastal-interior divides sharpen; youth increasingly identify with pan-African digital culture, eroding older Francophone prestige.<br><br>
-__Kinship, Family & Inheritance:__ Extended-family obligations intact; inheritance follows local custom overlaid with French civil code in urban areas; digital-asset succession remains legally unaddressed.<br><br>
-__Civic Association & Self-Organization:__ Youth associations, professional guilds, and religious brotherhoods (especially Mouride in Senegal) anchor civil society; digital organizing layered atop these structures rather than displacing them.<br><br>
-__Leisure, Play & Sociability:__ Social-media consumption rising; WhatsApp and Facebook dominant; local-language content growing; shared screen time supplements rather than replaces communal gatherings.<br><br>
-__Grievance Channels & Social Discharge:__ Protest capacity demonstrated in Senegal (2021, 2023); elsewhere, grievances channeled through ethnic or religious networks; social discharge partial, with youth frustration accumulating as unmetabolized instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Presidential systems dominate; Senegal's democratic alternation contrasts with Ivory Coast's contested succession and Sahel coups; authority fragmented in conflict zones; overall direction toward instability in the interior, cautious consolidation on the coast.<br><br>
-__Succession & Power Transfer:__ Senegal's 2024 transition relatively smooth; elsewhere, succession contested or militarized; reliable transfer mechanisms eroding region-wide.<br><br>
-__Legitimacy & Political Narrative:__ Anti-colonial and pan-African narratives resurging; French partnership increasingly delegitimized; military juntas claim nationalist credentials; civilian regimes struggle for legitimacy amid economic stagnation.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Civil services weakest in Sahel coup states; Senegal and Ivory Coast retain functional bureaucracies; digital record-keeping nascent; corruption endemic but variable.<br><br>
-__Political Participation & Mobilization:__ Social-media organizing visible in Senegal and Ivory Coast; Sahel states suppress digital mobilization; participation channels narrowing under military rule, widening slightly in coastal democracies.<br><br>
-__Geopolitical Position & External Relations:__ French influence declining; Russian and Gulf actors entering; ECOWAS fragmented by coup responses; regional integration strained; digital policy increasingly subject to external leverage.<br><br>
-__Coercive Apparatus & Means of Force:__ French bases withdrawing; national militaries variable in capacity; jihadist armed groups hold territory in Mali, Burkina Faso, Niger; force monopoly incomplete across the Sahel.<br><br>
-__Internal Order & Threat Environment:__ Sahel conflict zones ungovernable; urban crime rising in Dakar and Abidjan; internal order maintained in coastal capitals but eroding in interior; disorder exceeds enforcement capacity in conflict belts.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Orange controls dominant mobile networks across nine Francophone states; 3G/4G coverage urban-centric; rural areas lag; transmission velocity high in capitals, slow or absent in periphery; the colonial-era operator's infrastructure monopoly remains the binding structural feature.<br><br>
-__Record, Storage & Persistence:__ Government digital records fragmentary; private platforms store user data offshore; local data-center capacity minimal; persistence dependent on foreign servers; vulnerability to external policy decisions high.<br><br>
-__Framing, Censorship & Discourse Norms:__ State-controlled broadcast media coexist with private FM and digital outlets; internet shutdowns deployed during protests and coups; permissible discourse narrowing in Sahel, stable or widening slightly on the coast.<br><br>
-__Reception, Attention & Amplification:__ Facebook and WhatsApp dominant; local-language audio-visual content circulates widely; attention fragmented across ethnic and linguistic lines; amplification favors sensational and politically charged material.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation circulates rapidly via WhatsApp; fact-checking capacity thin; noise load rising with political instability; verification infrastructure underdeveloped; signal integrity degrading.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Community and religious norms underpin justice conceptions; state law seen as distant and corrupt; digital-rights awareness emerging among urban youth but not yet shaping broader moral expectations.<br><br>
-__Law, Codification & Regulatory Evolution:__ Cybercrime and data-protection laws adopted unevenly; Senegal leads with comprehensive frameworks; Sahel states lack capacity to implement; regulatory evolution slow and inconsistent.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts backlogged; digital disputes rarely litigated; enforcement capacity thin; platform Terms of Service effectively govern online conduct in the absence of local adjudication.<br><br>
-__Rights, Protections & Compliance Burden:__ Press-freedom protections variable; digital-privacy rights nominal; compliance burden light for users, heavy for operators facing spectrum fees and content-moderation demands.<br><br>
-__Impunity & Unredressed Wrong:__ Security-force abuses during protests largely unpunished; corporate violations of data privacy unaddressed; impunity high and stable; redress capacity far below the caseload of grievances.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities in Dakar and Abidjan produce research; digital-humanities and data-science programs emerging; paradigm remains import-dependent, with French academic ties loosening but not yet replaced by local or pan-African alternatives.<br><br>
-__Applied Knowledge & Technical Method:__ Mobile-money and fintech methods diffusing from Kenya and Nigeria; local adaptation limited; Orange's centralized technical decisions constrain indigenous innovation; applied knowledge concentrated in operator and vendor hands.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ French-language curricula persist; coding bootcamps emerging in Dakar and Abidjan; skill distribution urban-biased; knowledge stock growing slowly but unevenly; digital literacy remains minority competence.<br><br>
-__Obsolescence & Knowledge Decay:__ Older French administrative techniques persist alongside digital overlays; legacy systems maintained beyond useful life; knowledge decay slow but innovation displacement also slow; obsolescence clearing incomplete.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Francophone identity constructed around colonial-era educational and administrative integration; pan-African and anti-colonial counter-narratives gaining traction; foundational identity in flux, with digital media accelerating exposure to alternative framings.<br><br>
-__Artistic Expression & Material Culture:__ Afrobeats and Francophone rap circulate digitally; visual artists leverage Instagram; material culture increasingly shaped by global digital aesthetics filtered through local idiom; production capacity thin but growing.<br><br>
-__Collective Mood & Behavioral Disposition:__ Youth frustration high; optimism about digital opportunity tempered by infrastructure gaps and political instability; mood darkening in Sahel, cautiously hopeful on the coast; risk perception rising.<br><br>
-__Form Exhaustion & Meaning Decay:__ Francophone cultural forms losing resonance with youth; French-language prestige eroding; new digital vernaculars not yet stabilized; meaning decay outpacing renewal; anomie visible among educated unemployed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islam dominant in Senegal, Mali, Niger; Christianity significant in Ivory Coast and coastal states; traditional practices persist syncretically; existential outlook shaped by religious community more than digital discourse; fatalism and piety coexist with pragmatic adaptation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sufi brotherhoods (Mouride, Tijaniyya) organize collective devotion; digital communication coordinates pilgrimage and charity; ritual life robust and adapting to digital coordination without fundamental transformation.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Sufi sheikhs and Catholic bishops retain authority; evangelical and Salafi currents compete; doctrinal landscape pluralizing but not fragmenting; institutional integrity stable.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islamic piety deepening in some areas, secularizing drift among urban youth in others; digital media exposes audiences to global religious currents; syncretism stable; no major displacement underway.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularizing pressure mild; spiritual need largely met by existing institutions; disenchantment visible among educated urban youth but not widespread; sacred discharge adequate for the present but may thin as digital exposure intensifies.<br><br>
+# __2018 CE – 2026 CE — Francophone Digital Divergence__
+
+__Summary:__ The francophone Sahel states — Mali, Burkina Faso, Niger, and Chad — diverge sharply from their anglophone neighbors as a wave of military coups (2020–2023) reorients the subregion away from France and toward Russia, imposing a distinctive information regime characterized by suspended foreign broadcasts, state-controlled domestic media, anti-French social media mobilization, and Russian influence operations, all layered onto infrastructure that was already thinner than Nigeria's or Ghana's. The binding constraint is the structural weakness of francophone digital infrastructure — lower connectivity, shallower platform penetration, and dependence on French and international carriers — which leaves these states simultaneously more vulnerable to information control by new military governments and more exposed to foreign information operations filling the vacuum France's departure opens.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The francophone Sahel stretches across landlocked or semi-landlocked terrain — Mali and Niger rank among the world's most remote from coastal fiber landing points, while Burkina Faso and Chad lack direct submarine cable access entirely. Data must transit through coastal states (Senegal, Ivory Coast, Cameroon) before reaching global networks, imposing latency, cost, and dependency. Capitals — Bamako, Ouagadougou, Niamey, N'Djamena — concentrate what connectivity exists; rural and Sahelian interior zones remain largely offline.
+
+__Climate Regime & Volatility:__ The Sahel's semi-arid belt experiences increasing climate stress — erratic rainfall, extended dry seasons, and desertification pressure that displaces populations and strains provisioning. Climate volatility interacts with connectivity: displaced populations lose even marginal mobile access, while dust, heat, and power instability degrade infrastructure in ways the anglophone coast does not face at equivalent intensity.
+
+__Hazard Regime & Exposure:__ Sahelian infrastructure faces chronic hazard exposure from heat stress on electronics, dust infiltration of equipment, and power grid failures. Jihadist insurgency compounds physical hazard: cell towers destroyed in conflict zones, fiber cuts by armed groups, and the collapse of last-mile maintenance in insecure areas.
+
+__Resource & Energy Endowment:__ Uranium (Niger), gold (Mali, Burkina Faso), and oil (Chad) underpin export economies but do not translate into digital infrastructure investment. Energy poverty — electrification rates below 50 percent in most rural areas — limits device charging and tower operation. Solar mini-grids expand slowly but cannot match Nigerian or Ghanaian grid reliability.
+
+__Waste Absorption & Sink Capacity:__ E-waste accumulates in urban centers without systematic recycling. Battery disposal from mobile devices and solar units creates localized contamination. Thin regulation and enforcement leave sink management to informal sectors.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria, respiratory infections, and waterborne diseases impose high mortality baselines. COVID-19 strains already-weak health systems (2020–2022), though case detection remains incomplete due to limited testing. Digital health initiatives remain nascent compared to Nigerian or Ghanaian telemedicine pilots.
+
+__Nutrition & Physiological Vitality:__ Food insecurity intensifies across the Sahel as climate stress and conflict disrupt agriculture and supply chains. Malnutrition rates rise, particularly in displacement camps, limiting the physiological capacity of populations to engage with digital opportunities that might otherwise emerge.
+
+__Care, Healing & Recovery Capacity:__ Health infrastructure is sparse and concentrated in capitals. Conflict zones lose functioning clinics. Digital health platforms — SMS appointment systems, mobile diagnostic aids — exist in pilot form but lack the network penetration to scale.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility rates persist (5–7 children per woman), placing demographic pressure on educational and employment systems that cannot absorb youth cohorts entering the labor market.
+
+__Demographic Renewal & Density:__ Population growth rates of 3 percent annually outpace infrastructure expansion. Youth bulges concentrate in urban peripheries where unemployment and underemployment are endemic. Migration flows — toward coastal states, toward Europe — drain skilled workers.
+
+__Attrition & Dependency Overhang:__ Conflict and displacement generate widows, orphans, and internally displaced populations dependent on humanitarian assistance. The productive cohort bears increasing dependency loads while its own opportunities contract.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rural populations remain subsistence-oriented; urban populations depend on imported goods and remittances. The provisioning floor sits close to crisis in conflict-affected areas where markets are disrupted and aid access is intermittent.
+
+__Energy Capture & Conversion:__ Electricity generation remains insufficient — blackouts are routine in capitals, absent in much of the countryside. Solar adoption expands but cannot substitute for grid power needed to run data centers, cell towers, and charging infrastructure at scale.
+
+__Labor Organization & Coercion:__ The informal sector dominates; formal employment is concentrated in mining, government, and a thin service layer. Digital platform labor (gig work, remote services) remains minimal compared to Nigeria's freelance ecosystem.
+
+__Production & Surplus Capacity:__ Gold and uranium extraction generate export revenue but little domestic surplus for infrastructure reinvestment. Manufacturing is negligible. Tech startups — the engine of Nigerian digital growth — are nearly absent in the francophone Sahel.
+
+__Storage, Reserves & Buffering:__ CFA franc zone membership provides monetary stability but limits policy flexibility. National reserves are thin; governments depend on international assistance and extractive royalties. Fiscal room for digital infrastructure investment is narrow.
+
+__Exchange, Trade & Logistics:__ Cross-border trade operates through informal networks and mobile money systems. Orange Money and Moov dominate mobile payments; MTN Mobile Money has weaker francophone penetration. Interoperability between systems remains limited.
+
+__Value Storage, Credit & Deferred Exchange:__ Mobile money accounts serve as primary financial instruments for unbanked populations. Credit access remains constrained; microlending platforms operate in Senegal and Ivory Coast but have shallower reach in the coup-affected Sahel.
+
+__Surplus Extraction & Redistribution:__ Military governments extract mining revenues but face ECOWAS sanctions (Mali, Niger) that restrict trade and financial flows. Redistribution priorities shift toward security spending; digital infrastructure ranks low.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among political-military elites and mining interests. Digital assets — mobile money balances, data plans — represent the primary financial holdings of ordinary populations.
+
+__Byproducts & Waste Routing:__ Mining generates environmental waste that saturates local sinks. Digital waste remains a secondary concern given the scale of extractive pollution.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended family networks remain the primary social safety net. Diaspora remittances flow through mobile money, linking kinship structures to digital infrastructure.
+
+__Association & Mutual Aid:__ Traditional associations — age-grade societies, village councils, religious brotherhoods — persist alongside newer civil society organizations. Many operate via WhatsApp groups where connectivity permits.
+
+__Leisure, Play & Sociability:__ Urban youth engage with global digital culture through smartphones and cybercafes, but access is episodic and expensive. Football, music, and religious observance structure communal leisure.
+
+__Stratification, Status & Group Structure:__ Ethnic and caste hierarchies persist alongside newer class distinctions. Military coups reshuffle elite composition without fundamentally altering stratification.
+
+__Administrative Capacity & Institutional Integrity:__ State administrative capacity is thin and concentrated in capitals. Coups destabilize bureaucracies; sanctions interrupt salaries. E-government initiatives lag far behind Senegal or Ghana.
+
+__Coercive Apparatus & Means of Force:__ Military juntas consolidate control over security forces. Wagner Group personnel deploy in Mali and Burkina Faso (2022–2024), adding external coercive capacity. Jihadist insurgencies persist despite — or because of — these deployments.
+
+__Discharge, Disorder & Decay:__ Security vacuums in rural areas allow jihadist expansion. Displacement, ethnic violence, and communal conflict generate disorder the apparatus cannot contain. Urban protests against economic conditions or political transitions face coercive suppression.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Anti-French sentiment intensifies across the francophone Sahel, fueled by social media mobilization and Russian information operations. Youth populations express frustration with economic stagnation and political dysfunction. Coup announcements receive street celebrations in capitals.
+
+__Leadership & Personal Authority:__ Military leaders — Goïta (Mali), Traoré (Burkina Faso), Tiani (Niger) — cultivate populist legitimacy through anti-colonial rhetoric and social media presence. Wagner and Russian state media amplify their messaging.
+
+__Legitimacy as Lived Allegiance:__ Juntas draw legitimacy from anti-French sentiment and promises of security, but this reservoir depletes as security conditions fail to improve and economic hardship deepens under sanctions.
+
+__Political Will & Collective Resolve:__ Military governments demonstrate will to sever French ties, expel French forces, and align with Russia. Whether this resolve translates into effective governance or development remains untested by 2026.
+
+__External Relations & Posture:__ Mali, Burkina Faso, and Niger form the Alliance of Sahel States (2023) and announce ECOWAS withdrawal (2024), reorienting toward Russia and away from the Franco-West African order that structured post-colonial relations.
+
+__Disaffection, Apathy & Spent Will:__ Where initial coup enthusiasm fades, disaffection accumulates among populations experiencing continued insecurity and economic decline. Apathy coexists with episodic protest.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ French remains the official language of administration and formal media, limiting access for populations whose primary languages are Bambara, Mooré, Hausa, or Zarma. Vernacular radio reaches broader audiences than French-language platforms.
+
+__Channels & Transmission Velocity:__ Mobile internet penetration lags anglophone neighbors — 30–40 percent versus Nigeria's 50–55 percent. 3G predominates; 4G covers capitals only. Social media access depends on expensive data plans.
+
+__Record, Storage & Persistence:__ State archives are thin; digital recordkeeping is nascent. WhatsApp and Facebook serve as informal archives of political discourse, vulnerable to platform deletions and account suspensions.
+
+__Framing, Censorship & Discourse Norms:__ Military governments suspend RFI and France 24 broadcasts in Mali (2022), Burkina Faso (2023), and Niger (2023), narrowing the information environment. Domestic state broadcasters carry official messaging. Russian media (RT, Sputnik) fill some of the vacuum.
+
+__Reception, Attention & Amplification:__ Anti-French content circulates virally on WhatsApp and Facebook, amplified by coordinated accounts linked to Russian influence operations. Pro-junta messaging crowds out independent journalism.
+
+__Signal Integrity & Noise Load:__ Disinformation — Russian-origin and organic — saturates social media. Fact-checking capacity is minimal. Rumor and propaganda propagate faster than verification.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Anti-colonial sentiment frames French presence as unjust extraction; coups are narrated as righteous corrections. Religious morality — Islamic and traditional — provides alternative moral anchors.
+
+__Law, Codification & Regulatory Evolution:__ Military governments rule by decree, suspending constitutions and electoral calendars. Regulatory frameworks for digital activity remain underdeveloped.
+
+__Adjudication, Liability & Sanction:__ Military justice operates outside civilian oversight. Detentions of journalists and activists proceed without due process. International sanctions impose external accountability that domestic systems cannot.
+
+__Rights, Protections & Compliance Burden:__ Press freedom contracts sharply. Digital rights — data protection, privacy, freedom of expression online — lack enforcement. Compliance burdens fall on foreign platforms facing suspension or expulsion.
+
+__Impunity & Unredressed Wrong:__ Human rights violations by security forces and Wagner personnel proceed without accountability. Civilian deaths in counter-insurgency operations generate no systematic redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Universities function intermittently; research capacity is minimal. Francophone academic networks link to French institutions, but these ties fray as political relations deteriorate.
+
+__Applied Knowledge & Technical Method:__ Technical capacity concentrates in extractive industries (mining engineering) and mobile network operation. Software development and digital entrepreneurship remain underdeveloped compared to Lagos or Accra.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary and secondary enrollment rates are low; quality is poor. Digital literacy initiatives reach urban youth but not rural populations. Brain drain accelerates as educated workers migrate to coastal states or Europe.
+
+__Obsolescence & Knowledge Decay:__ Traditional knowledge systems erode without documentation. Technical skills atrophy where practitioners emigrate or institutions collapse.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Sahelian identity draws on pre-colonial empires (Mali, Songhai), Islamic heritage, and the wound of French colonialism. These memories are mobilized to legitimate anti-French reorientation.
+
+__Legitimating Narrative & Ideology:__ Military juntas deploy pan-African, anti-colonial, and sovereignty narratives. Russian information operations reinforce these frames, positioning Russia as an alternative to Western neo-colonialism.
+
+__Artistic Expression & Material Culture:__ Malian music traditions continue; visual artists engage with political themes. Urban youth culture absorbs global influences via social media while expressing local identity. Russian flags and symbols appear at pro-junta rallies.
+
+__Form Exhaustion & Meaning Decay:__ French colonial symbols lose legitimacy; Francophonie as cultural framework hollows. What replaces it — Sahelian pan-Africanism, Russian alignment — remains unformed and contested.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Islam provides the dominant cosmological frame across the francophone Sahel, with Sufi orders structuring religious life in much of the region. Traditional beliefs persist alongside or beneath Islamic practice.
+
+__Ritual, Devotion & Sacred Practice:__ Daily prayer, Friday worship, and annual festivals structure communal life. Sufi devotional practices and pilgrimage to local shrines continue despite jihadist hostility to these traditions.
+
+__Religious Institutions & Doctrinal Authority:__ Sufi brotherhoods retain social authority; Salafist and jihadist currents challenge this authority, particularly in conflict zones. Religious leaders navigate relations with military governments.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Jihadist movements attempt to displace syncretic Islam and impose rigorous Salafism, with limited success outside their territorial control. Evangelical Christianity makes marginal inroads in southern borderlands.
+
+__Disenchantment & Sacred Discharge:__ Secularization remains minimal; the sacred continues to structure daily life. Where jihadist violence disrupts traditional practice without replacing it, spiritual disorientation accumulates among displaced populations.

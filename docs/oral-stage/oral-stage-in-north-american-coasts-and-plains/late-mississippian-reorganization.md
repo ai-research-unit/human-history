@@ -1,69 +1,140 @@
 # __1350 CE – 1540 CE__ — Late Mississippian Reorganization
-__Summary:__ The Late Mississippian period encompasses the aftermath of Cahokia's collapse and the reorganization of indigenous societies across the Eastern Woodlands before sustained European contact. The binding constraint is the breakdown of centralized tributary extraction, forcing populations to disperse into smaller polities and village-based societies with reduced labor mobilization capacity. Regional centers (Moundville, Etowah) persist but contract; Fort Ancient and Oneota traditions flourish outside the old Mississippian core. The system holds greater margin against localized shocks through dispersal but less capacity for collective action; political fragmentation is the dominant direction of change, though indigenous complexity remains substantial when Europeans arrive.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Mississippi system and its tributaries continue to structure movement and settlement; the American Bottom remains largely depopulated, shifting population gravity to the Southeast (Moundville, Etowah), Ohio Valley (Fort Ancient), and Upper Midwest (Oneota); riverine corridors provide transit routes while upland forests interpose friction between drainage basins.<br><br>
-__Climate Regime & Volatility:__ The onset of the Little Ice Age (~1300–1850 CE) brings cooler temperatures and shorter growing seasons; frost-free period contracts at northern margins of maize agriculture; increased interannual variability includes severe droughts (documented in tree-ring records) and irregular flooding; climate stress contributes to settlement reorganization.<br><br>
-__Hazard Regime & Exposure:__ Flooding and drought remain the primary hazards; dispersed settlement patterns reduce concentrated exposure compared to the Cahokia apogee; defensive considerations (palisades, nucleated villages) indicate increased warfare hazard; overall exposure moderate but less buffered by centralized reserves.<br><br>
-__Resource & Energy Endowment:__ Forest regeneration in abandoned areas restores timber and game; agricultural soils outside the American Bottom remain productive; lithic sources (chert, flint) adequate for reduced population densities; copper from Lake Superior and marine shell from Gulf continue circulating at reduced volumes; no depletion crisis during this window.<br><br>
-__Waste Absorption & Sink Capacity:__ Depopulation and dispersal relieve pressure on concentrated sinks; abandoned mound centers revert to secondary vegetation; village-scale settlements generate manageable waste loads; absorptive capacity ample relative to reduced population; environmental recovery evident in the former Cahokia hinterland.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden moderates with reduced population density; no evidence of major epidemic events before 1540 (though indirect European-origin disease effects remain debated); baseline mortality returns toward pre-Mississippian levels; sanitary conditions improve with dispersal.<br><br>
-__Nutrition & Physiological Vitality:__ Maize remains the staple with beans and squash supplementing; reduced population pressure eases competition for prime agricultural land; skeletal evidence (where available) suggests modest improvement in nutritional markers compared to peak Cahokia; dental caries remain elevated but anemia indicators decline.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Village-based societies likely reduce elite polygyny compared to paramount chiefdoms; pair-bonding patterns revert toward more egalitarian norms; fertility adequate for population stability though not rapid growth; selective pressure shifts from hierarchy to local adaptation.<br><br>
-__Demographic Renewal & Density:__ Population in the American Bottom collapsed; regional populations stable or slowly recovering in the Southeast, Ohio Valley, and Upper Midwest; density remains below the Cahokia peak but sufficient for village-scale political units; in-migration and consolidation create new community formations.<br><br>
-__Attrition & Dependency Overhang:__ Warfare casualties and captive-taking continue to impose attrition; reduced monumental labor demands ease degenerative stress on productive cohorts; dependency load manageable within household and village reciprocity networks; no structural crisis of dependency during this window.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Intensive maize-beans-squash agriculture continues in favorable locations; hunting (deer, bison at western margins) and gathering supplement cultivation; household provisioning adequate in normal years; reduced surplus extraction means more production retained at household level; carrying-capacity margin wider than during the Cahokia apogee.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the sole power source; no technological change in energy conversion; per-capita energy ceiling stable; collective mobilization capacity reduced with political fragmentation; household and village scale the practical ceiling for organized labor.<br><br>
-__Labor Organization & Coercion:__ Corvée labor for mound construction continues at reduced scale at persisting centers (Moundville, Etowah); Fort Ancient and Oneota societies show less evidence of coerced labor extraction; household and kin-group labor predominates; coercion level declining across the region.<br><br>
-__Production & Surplus Capacity:__ Agricultural production continues at levels adequate for village populations; surplus sufficient for local exchange, modest ceremonial expenditure, and buffer stocks; production ceiling lower than Mississippian peak but adequate for prevailing political scale; no evidence of production crisis.<br><br>
-__Storage, Reserves & Buffering:__ Granary storage continues at household and community level; smaller polities hold proportionally smaller reserves but face proportionally smaller demands; risk pooling through kin networks and village reciprocity replaces centralized redistribution; buffer adequate for localized shortfalls.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks persist but at reduced intensity; prestige goods (marine shell, copper, exotic lithics) continue circulating; canoe transport on river systems remains the primary logistics mode; regional exchange spheres more autonomous than during Mississippian florescence; bulk trade limited.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Marine shell and copper retain prestige value but no monetary function; reciprocal obligation within kin and community networks carries deferred exchange; no formalized credit; social debt and gift exchange predominate; value storage distributed across households rather than concentrated at elite centers.<br><br>
-__Surplus Extraction & Redistribution:__ Tributary extraction declines with political fragmentation; local chiefs extract surplus for ceremonial expenditure and personal support but at lower rates; redistribution through communal feasting continues at village scale; extraction pressure lighter than during the Mississippian apogee.<br><br>
-__Wealth Distribution & Asset Defense:__ Elite-commoner distinctions persist but narrow compared to peak Mississippian stratification; burial evidence shows continued differentiation but reduced extreme concentration; land and subsistence resources accessible to broader population; wealth defended through kin solidarity and local political position rather than paramount authority.<br><br>
-__Byproducts & Waste Routing:__ Village-scale settlements generate routine organic and craft waste; dispersed siting allows adequate absorption by local environment; no concentrated pollution or sanitation crises; waste load well within capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village and kin-group solidarity provide robust mutual aid networks; trust radius contracts to known community members amid increased inter-polity conflict; reciprocity structures adequate for local needs; trust rebuilding after Mississippian collapse ongoing.<br><br>
-__Stratification, Status & Group Identity:__ Ranked distinctions continue (chiefs, commoners, captives) but hierarchies less steep; Fort Ancient and Oneota societies show more egalitarian patterns than classic Mississippian chiefdoms; ethnic and linguistic boundaries between traditions sharpen; group identity increasingly defined by locality and descent group rather than participation in a regional prestige system.<br><br>
-__Kinship, Family & Inheritance:__ Matrilineal descent continues among Southeast societies; clan and moiety structures organize social life; household formation within kin-group networks; inheritance of status and property through lineage; kinship scaffold stable through the period.<br><br>
-__Civic Association & Self-Organization:__ Clan and sodality structures coordinate labor, ritual, and defense at village level; confederacies and alliances between villages provide higher-level coordination (prefiguring historic patterns); associational fabric thickens at local level as supra-local political structures weaken.<br><br>
-__Leisure, Play & Sociability:__ Chunkey and stickball continue as organized sociability; communal feasting marks seasonal cycles and political events; village plazas remain social centers; leisure time may increase as corvée demands decline; sociability reinforces local rather than regional identity.<br><br>
-__Grievance Channels & Social Discharge:__ Kin-based mediation handles disputes; inter-village councils address larger conflicts; emigration and village fission provide exit options; reduced extraction pressure lowers grievance accumulation; social discharge adequate for prevailing conditions.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Paramount chiefdoms fragment into smaller polities; regional centers (Moundville, Etowah) retain hierarchical organization but reduced territorial reach; Fort Ancient villages organized around councils with weaker chiefly authority; Oneota societies similarly village-based; authority devolving and fragmenting across the region.<br><br>
-__Succession & Power Transfer:__ Chiefly succession continues through hereditary rules where chiefdoms persist; contested successions localized rather than region-wide; Fort Ancient and Oneota succession less documented but likely more consensual; transfer routinized at reduced scale; fewer flashpoints as stakes shrink.<br><br>
-__Legitimacy & Political Narrative:__ Southeastern Ceremonial Complex ideology continues at persisting centers but with diminished reach; local chiefs claim traditional legitimacy through lineage and ritual performance; Fort Ancient and Oneota develop distinct identity narratives; ideological fragmentation parallels political fragmentation.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity contracts to village and local chiefdom scale; oral instruction and personal authority remain the only coordination mechanisms; no bureaucracy; capacity adequate for reduced demands; integrity maintained through kinship oversight.<br><br>
-__Political Participation & Mobilization:__ Village councils provide broader participation than paramount chiefdoms; consensus politics more common in Fort Ancient and Oneota traditions; factionalism channeled through kin-group competition; dissent expressed through emigration and village fission; participation channels widening as centralization declines.<br><br>
-__Geopolitical Position & External Relations:__ No single hegemon; regional polities compete through alliance, marriage, and warfare; Moundville and Etowah decline as regional powers by mid-period; Fort Ancient and Oneota maintain fluid inter-village relations; no external pressure from beyond the Eastern Woodlands until Spanish entrada at window's end.<br><br>
-__Coercive Apparatus & Means of Force:__ Bow and arrow, war clubs, and shields remain standard armament; palisaded villages indicate endemic warfare; warrior sodalities organize military capacity at village level; no standing armies; command of force distributed among chiefs and war leaders; defensive posture predominates.<br><br>
-__Internal Order & Threat Environment:__ Inter-village raiding and warfare chronic; internal order maintained through kin-based sanctions and chiefly authority; captive-taking and revenge cycles generate persistent low-level violence; disorder within local enforcement capacity but systemic insecurity relative to the Mississippian apogee.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication via face-to-face contact and messengers; canoe travel along river systems the fastest mode; reach contracts with political fragmentation to regional exchange spheres; velocity unchanged from previous period; access more evenly distributed as elite monopoly weakens.<br><br>
-__Record, Storage & Persistence:__ No writing system; all information stored in living memory, oral tradition, and material objects functioning as mnemonic devices; knowledge persists through specialist keepers and communal repetition; persistence vulnerable to population loss and social disruption; vulnerability increasing as populations reorganize and oral lineages break.<br><br>
-__Framing, Censorship & Discourse Norms:__ Local chiefs and ritual specialists control public discourse; sacred knowledge restricted to initiates; censorship informal through social sanction; permitted discourse expands at village level as centralized ideological control weakens; regional variation in discourse norms increases.<br><br>
-__Reception, Attention & Amplification:__ Village plazas and mound-top ceremonies concentrate attention on local leadership; seasonal gatherings amplify shared messaging within polities; inter-polity communication through diplomatic exchanges and trade encounters; no region-wide amplification mechanism comparable to Cahokia-era prestige radiation.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission continues to introduce drift and variation; regional traditions diverge as exchange networks contract; error correction through specialist training persists locally; signal integrity adequate for village-scale coordination; noise load increasing in the aggregate as coherent regional traditions fragment.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, kinship obligation, and retribution remain the baseline moral framework; cosmic balance underlies social order; justice understood as restoration of harmony and satisfaction of obligation; foundations stable through the period.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; customary rules transmitted orally; chiefly pronouncements and council decisions carry binding force; taboos govern sacred and social conduct; evolution through precedent and reinterpretation; codification absent; regulation adequate for village-scale society.<br><br>
-__Adjudication, Enforcement & Liability:__ Chiefs and councils adjudicate disputes; kin groups enforce settlements and bear collective liability; restitution, exile, and corporal punishment available sanctions; throughput adequate for caseload; no backlog accumulation at village scale.<br><br>
-__Rights, Protections & Compliance Burden:__ Customary protections for community members; captives and outsiders lack protection; compliance burden lighter than under paramount chiefdoms; predictability tied to local precedent and council consistency; individual autonomy greater in village-based societies than under Mississippian hierarchy.<br><br>
-__Impunity & Unredressed Wrong:__ Local elite impunity reduced compared to paramount chiefdoms; kin-based accountability more effective at village scale; inter-polity wrongs (raiding, captive-taking) largely unredressed; accumulated grievances drive revenge cycles; impunity narrower internally but chronic externally.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cosmological explanation continues to frame understanding of natural and human affairs; empirical observation serves agricultural timing and weather prediction; no formal inquiry distinct from sacred knowledge; paradigm stable and integrated.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural techniques, ceramic production, lithic reduction, and construction methods continue without major innovation; bow and arrow technology mature; technique adequate for prevailing needs; transmission through apprenticeship and household practice.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Oral transmission within kin groups and specialist lineages; priestly knowledge persists at remaining ceremonial centers; craft skills distributed among village households; no literacy; knowledge stock stable but not expanding; skill distribution adequate for village-scale economy.<br><br>
-__Obsolescence & Knowledge Decay:__ Some specialized knowledge (monumental construction, long-distance exchange protocols) decays as demand contracts; practical agricultural and craft knowledge stable; oral transmission risk increases with population disruption; decay modest during this window but structural vulnerability persists.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and ancestral memory anchor community identity; mound centers serve as memory sites even after political decline; collective identity increasingly local and ethnic as regional prestige systems fragment; founding myths adapted to new circumstances; Cahokia recedes into legendary memory.<br><br>
-__Artistic Expression & Material Culture:__ Southeastern Ceremonial Complex motifs continue at reduced scale and regional variation; ceramic styles differentiate Fort Ancient, Oneota, and persisting Mississippian traditions; shell gorgets and copper ornaments remain prestige items; architectural monumentality declines; material culture reflects political fragmentation.<br><br>
-__Collective Mood & Behavioral Disposition:__ Uncertainty and defensive vigilance characterize the early period; adaptation and local consolidation bring stability by mid-period; confidence rebuilds at village and confederacy scale; risk perception elevated due to endemic warfare; mood neither triumphant nor despairing but pragmatically resilient.<br><br>
-__Form Exhaustion & Meaning Decay:__ Southeastern Ceremonial Complex forms lose coherence as the political context dissolves; regional traditions rework inherited symbols for local meaning; some form exhaustion evident in simplified iconography; renewal occurs through localization rather than region-wide revitalization; meaning maintained at community scale.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Layered cosmos (upper world, this world, lower world) persists; balance and mediation remain central concerns; chiefs continue as ritual mediators where chiefdoms survive; cosmology stable and integrative; no existential crisis despite political reorganization.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Agricultural ceremonies (green corn, planting, harvest) continue; mortuary ritual adapts to local conditions; charnel houses and mound burial persist at reduced scale; communal feasting maintains sacred dimensions; daily devotional practice continues within households; ritual calendar anchors community life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Priestly specialists maintain sacred knowledge at village and ceremonial center scale; no separate institutional structure from political authority; doctrinal authority localized; orthodoxy less rigorously enforced as centralized control weakens; regional variation in practice increases.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Regional traditions differentiate as political fragmentation proceeds; syncretism between local and Mississippian-derived practices continues; no external religious challenge before European contact; spiritual reach contracts to community and regional scales; ancestral practices resurface where Mississippian overlay thins.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing drift; cosmology retains explanatory power and emotional grip; political collapse interpreted through sacred rather than materialist frameworks; spiritual need met through continued practice; disenchantment not applicable; sacred coherence maintained at local level despite regional fragmentation.<br><br>
+
+__Summary:__ The post-Cahokia landscape fragments into competing regional chiefdoms — Moundville, Etowah, Spiro, and others — that maintain Mississippian cultural forms while undergoing political cycling, intensified warfare, and demographic contraction under Little Ice Age stress; the binding constraint is the instability of chiefly succession and the endemic conflict that prevents any center from restoring continental-scale integration before European contact delivers the first epidemic shock.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Mississippian heartland — Mississippi, Ohio, Tennessee, and tributary valleys — remains the core, but no single center commands the network; Moundville occupies the Black Warrior River valley in Alabama, Etowah the Etowah River in Georgia, Spiro the Arkansas River drainage in Oklahoma, and Angel the Ohio River in Indiana; each exploits local floodplain agriculture and river transport, but spatial friction between centers is high — multi-day canoe journeys separate them, and overland routes are slow; the absence of a unifying hub disperses political gravity across the region.
+
+__Climate Regime & Volatility:__ The Little Ice Age, commencing ~1300 CE, brings cooler summers, shortened growing seasons, and increased drought frequency; northern margins of reliable maize cultivation contract southward; crop failures become more common; interannual volatility rises, stressing storage capacity and political legitimacy; climate pressure is a persistent background condition throughout the period.
+
+__Hazard Regime & Exposure:__ Flooding and drought remain the primary hazards; no seismic or volcanic events of consequence; severe storms and tornadoes strike seasonally; palisaded sites suggest warfare as a human hazard now rivaling environmental risk; exposure is managed through fortification but not eliminated.
+
+__Resource & Energy Endowment:__ Alluvial soils remain fertile but yields are climatically constrained; timber has been drawn down near older centers (Cahokia region largely deforested), forcing reliance on more distant sources; deer and bison continue to provide protein but hunting pressure may be depleting local stocks; copper, shell, and exotic lithics still circulate but at reduced volumes compared to the Hopewell or Cahokia peaks; the endowment is adequate but tighter than in the preceding century.
+
+__Waste Absorption & Sink Capacity:__ Landscape degradation around abandoned centers (Cahokia, early Moundville phases) is inherited; smaller, dispersed settlements produce less concentrated waste; erosion continues on deforested slopes; the sink is less stressed than at Cahokia's peak, but accumulated degradation is not reversed; environmental scars remain.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases (tuberculosis, parasitic infections) persist; no Old World epidemic diseases until the de Soto entrada (1539–1543) introduces smallpox, measles, and influenza at the period's very end; skeletal evidence shows continued nutritional stress, dental caries, and childhood mortality consistent with maize-dependent populations; baseline mortality stable but high.
+
+__Nutrition & Physiological Vitality:__ Maize-beans-squash remains the dietary foundation; climate stress may reduce yields and dietary quality in bad years; stature and skeletal robustness comparable to earlier Mississippian populations; nutritional inequality between elite and commoner burials persists; vitality is adequate but not improving.
+
+__Care, Healing & Recovery Capacity:__ Oral-tradition healing practices continue; specialists employ plant-based remedies; no evidence of surgical intervention or epidemic-scale care capacity; care adequate for endemic conditions, catastrophically insufficient for the epidemic shock that arrives at the period's close.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility presumed; polygyny among elites documented ethnohistorically by de Soto chroniclers; marriage rules transmitted orally through kin groups; no evidence of significant change from earlier patterns.
+
+__Demographic Renewal & Density:__ Overall regional population may have declined since Cahokia's peak — the American Bottom is largely depopulated, and warfare deaths accumulate; chiefdom centers like Moundville (~1,000–3,000 at core, ~10,000 in polity) are smaller than peak Cahokia; population density lower and more dispersed; renewal capacity sufficient to maintain chiefdoms but not to restore earlier aggregation.
+
+__Attrition & Dependency Overhang:__ Warfare increases adult male mortality, leaving widows and orphans; kin networks absorb dependents; elite polygyny may partly compensate by redistributing care responsibilities; dependency load is manageable but warfare attrition is a chronic drain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Maize-beans-squash agriculture continues; floodplain cultivation adapted to river valleys across the region; deer, bison, fish, and gathered foods supplement; the floor is secure in good years but vulnerable to consecutive crop failures under Little Ice Age conditions; no evidence of widespread famine, but stress is recurrent.
+
+__Energy Capture & Conversion:__ Human and canoe-borne energy remain the only conversion mechanisms; wood for fuel; no draft animals; energy throughput adequate for chiefdom-scale construction but not Cahokia-scale monumentality; labor mobilization is local and periodic.
+
+__Labor Organization & Coercion:__ Tributary labor organized through kinship and chiefly authority; corvée for mound construction and palisade maintenance; war captives provide coerced labor and, in some cases, are sacrificed or absorbed as low-status dependents; the labor relation is comparable to the preceding period but applied at smaller scale.
+
+__Production & Surplus Capacity:__ Surplus generated at chiefdom centers supports elites, craft specialists, and warriors; production capacity lower than Cahokia peak but sufficient for regional chiefdom maintenance; surplus fluctuates with climate; contraction rather than expansion is the trend.
+
+__Storage, Reserves & Buffering:__ Household and communal storage in pits and granaries; no evidence of multi-year reserves at public scale; buffering capacity marginal against consecutive failures; reserves are adequate for typical variation but stressed by Little Ice Age volatility.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange continues but at reduced intensity; marine shell from Gulf, copper from Great Lakes, exotic lithics circulate; SECC objects (gorgets, palettes, maces) produced and exchanged; exchange networks are intact but volume is lower; no single center controls redistribution; logistics fragmented across competing chiefdoms.
+
+__Value Storage, Credit & Deferred Exchange:__ Prestige goods (shell beads, copper ornaments) store value; reciprocal obligations tracked orally; no currency; deferred exchange embedded in kinship and tributary relations; no change in mechanism from earlier Mississippian practice.
+
+__Surplus Extraction & Redistribution:__ Chiefs extract surplus through tribute; redistribution occurs via feasting, gift-giving, and mortuary expenditure; extraction load sustainable within individual chiefdoms but cannot aggregate surplus across the fragmented landscape; each chiefdom operates independently.
+
+__Wealth Distribution & Asset Defense:__ Elite burials retain copper, shell, and status markers; stratification persists; palisades and warrior retinues defend elite wealth; inequality is structural but the absolute volume of elite accumulation is lower than at Cahokia peak.
+
+__Byproducts & Waste Routing:__ Agricultural and craft waste accumulates locally; deforestation less severe than at Cahokia given smaller and more dispersed populations; environmental impact distributed rather than concentrated; the economic residue is landscape wear without recovery.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Matrilineal or dual-descent systems inferred; elite status heritable within lineages; clan affiliation shapes residence and marriage; oral transmission of genealogy anchors claims; kinship structure stable throughout the period.
+
+__Association & Mutual Aid:__ Kin-based work groups for agriculture and construction; communal feasting and ritual reinforce solidarity; no evidence of non-kin associations; mutual aid operates through reciprocity and obligation networks.
+
+__Leisure, Play & Sociability:__ Chunkey remains prominent; plazas at Moundville, Etowah, and other centers provide gathering space; feasting integrates sociability with political and ritual life; leisure is structured and community-oriented.
+
+__Stratification, Status & Group Structure:__ Two-to-three-tier hierarchy persists — paramount chiefs, secondary elites, commoners, and possibly captives or slaves; elite residence on mound summits; status marked by burial goods, house size, and dietary privilege; factional competition among elite lineages intensifies as no single paramount dominates the region; cycling — the rise and fall of chiefdoms — is the structural norm.
+
+__Administrative Capacity & Institutional Integrity:__ No writing; administration through oral command and personal presence; reach limited to the chiefdom's immediate hinterland; secondary centers may resist or defect; succession crises destabilize individual polities; institutional integrity is fragile, dependent on the chief's personal authority and kin support.
+
+__Coercive Apparatus & Means of Force:__ Palisaded sites proliferate; skeletal evidence of violence (trophy heads, scalping marks, embedded projectile points) increases; bow and arrow standard; warriors form sodalities or retinues; coercive capacity sufficient for local defense and raiding but not for conquest beyond neighboring chiefdoms; warfare is endemic and chronic.
+
+__Discharge, Disorder & Decay:__ The American Bottom remains largely abandoned; Moundville contracts after ~1450 CE to a ceremonial or pilgrimage site rather than a population center; political cycling sees chiefdoms rise, over-extend, and collapse; factional violence and succession crises are the social residue; disorder is structural, not aberrant.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Palisade construction and warfare evidence suggest anxiety and defensive posture; population does not aggregate as at Cahokia but clusters in fortified towns; trust radius likely narrow — within kin and polity, not across the region; temper is wary and competitive.
+
+__Leadership & Personal Authority:__ Paramount chiefs command within their polities; de Soto chroniclers describe powerful chiefs (Cofitachequi's "Lady," Tascalusa, Coosa's chief) with elaborate retinues and protocol; personal authority is concentrated but contested; succession is a flashpoint for instability.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on cosmological sanction, redistribution, and military success; failure in any dimension erodes allegiance; cycling suggests legitimacy is fragile — chiefs who lose wars or harvests lose followers; allegiance is conditional and retractable.
+
+__Political Will & Collective Resolve:__ Will sufficient to maintain palisades, conduct raids, and sustain chiefdom organization; not sufficient to prevent cycling or restore continental-scale integration; resolve is local and defensive; collective action beyond the polity is rare and temporary (war coalitions).
+
+__External Relations & Posture:__ Chiefdoms compete through warfare, alliance, and prestige display; no hegemonic power; posture is simultaneously hostile (raiding, trophy-taking) and interactive (exchange, emulation of SECC forms); external relations are multipolar and unstable.
+
+__Disaffection, Apathy & Spent Will:__ Moundville's contraction to ceremonial site suggests spent will — population disperses, investment in monumentality ceases; Cahokia region remains emptied; disaffection implicit in out-migration and reduced elite investment; the affective residue is fragmentation and defensive withdrawal.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Speech universal; multiple language families across the region (Muskogean at Moundville, Caddoan at Spiro, Siouan at Angel) reduce mutual intelligibility; SECC iconography provides a shared visual code for elites and ritual specialists; ordinary inter-polity communication requires interpreters or trade jargons.
+
+__Channels & Transmission Velocity:__ Canoe and runner transmit messages; multi-day transit between major centers; no faster medium; command and information lag behind events; the reach of coordination is constrained by physical speed.
+
+__Record, Storage & Persistence:__ Oral tradition and mnemonic devices (shell gorgets, iconographic motifs, wampum-like shell strings in some areas) preserve cosmology, genealogy, and treaty memory; no writing; persistence depends on living specialists; vulnerable to loss through death or displacement.
+
+__Framing, Censorship & Discourse Norms:__ Elite control of ritual performance frames public discourse; SECC iconography carries ideological content; no evidence of censorship mechanisms beyond social sanction; discourse norms are customary and oral.
+
+__Reception, Attention & Amplification:__ Plaza ceremonies, mound-top rituals, and feasting focus attention; warfare exploits (trophy display) amplify warrior renown; no counter-discourse channels; amplification is ritual and performative.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift; multi-lingual environment adds translation noise; SECC iconography provides some standardization but interpretation varies regionally; noise accumulates as polities fragment and contact weakens; integrity is low across the system, higher within individual chiefdoms.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Cosmological order (three-world model) underwrites moral sense; reciprocity and kinship obligation form the interpersonal foundation; captive sacrifice and trophy-taking are morally sanctioned within the warfare code; justice is restorative within kin groups, punitive across them.
+
+__Law, Codification & Regulatory Evolution:__ No written law; customary norms transmitted orally; taboos around sacred spaces and ritual breaches; regulation evolves through precedent and chiefly decree; codification is absent; the law is living and spoken.
+
+__Adjudication, Liability & Sanction:__ Chiefs and councils adjudicate; blood feud likely for inter-kin homicide; captives have no legal standing; sanction ranges from compensation to execution; adjudication is personal, immediate, and kin-mediated.
+
+__Rights, Protections & Compliance Burden:__ Elite privilege is structural; commoners obligated to tribute and corvée; captives and low-status individuals have minimal protections; compliance burden heavy on non-elites; no evidence of articulated rights beyond customary entitlements.
+
+__Impunity & Unredressed Wrong:__ Elite and warrior impunity persists; captive sacrifice and trophy-taking are sanctioned violence without redress; inter-polity wrongs (raids, captive-taking) may trigger retaliation rather than adjudication; impunity is the moral residue of stratified and warring societies.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Cosmological inquiry continues — the three-world model, calendrical observation, and mythic interpretation; no evidence of paradigm shift; inquiry is religious and practical, oriented to ritual timing and cosmic maintenance.
+
+__Applied Knowledge & Technical Method:__ Maize cultivation, pottery, mound construction, copper and shell working, fortification engineering — all continue without major innovation; techniques transmitted orally through apprenticeship; method is conservative and adequate to chiefdom needs.
+
+__Education, Knowledge Stock & Skill Distribution:__ Oral education within kin and craft lineages; ritual knowledge concentrated in specialists; commoner skills (agriculture, hunting, craft) widely distributed; knowledge stock stable; no evidence of contraction or expansion; skill distribution adequate for reproduction of the system.
+
+__Obsolescence & Knowledge Decay:__ Knowledge of Cahokia-scale monumentality may be lost or irrelevant; regional traditions diverge; no deliberate suppression but passive decay as specialists die or disperse; obsolescence is the residue of fragmentation; knowledge decay accelerates where demographic loss breaks transmission chains.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin narratives and migration traditions not directly attested but inferred from later oral histories recorded post-contact; collective memory oral and performative; identity anchored in lineage, place, and chiefdom affiliation; the Mississippian mythos persists but fragments into regional variants.
+
+__Legitimating Narrative & Ideology:__ The chief as cosmic mediator legitimates hierarchy; SECC falcon-warrior imagery glorifies martial prowess; ideology justifies elite extraction and warfare as cosmic and political necessities; narrative is oral and ritually performed.
+
+__Artistic Expression & Material Culture:__ SECC motifs (falcon warriors, serpents, crosses, bi-lobed arrows) continue on shell gorgets, copper plates, ceramic vessels, and stone palettes; regional styles develop — Moundville's marine shell emphasis, Spiro's elaborate engraving, Etowah's copper work; craftsmanship remains high; material culture is visually distinctive and regionally varied.
+
+__Form Exhaustion & Meaning Decay:__ SECC forms persist but the system that generated Cahokia is gone; regional centers maintain tradition but innovation wanes; Moundville's contraction to ceremonial use suggests forms outlive the population base; meaning decay is latent — forms are repeated without the political density that gave them power; exhaustion is implicit in the cycling and contraction of chiefdoms.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Three-world cosmology persists — upper, middle, and underworld structured by falcon, human, and serpent imagery; the chief mediates cosmic order; existence is embedded in ritual maintenance; fatalism or confidence in ritual efficacy not directly attested but inferred from continuity of practice.
+
+__Ritual, Devotion & Sacred Practice:__ Mound-top temples, sacred fires, chunkey, mortuary ritual, and feasting continue; Moundville becomes a pilgrimage and burial site after population disperses; ritual persists even as political structures cycle; devotion is communal and orchestrated by specialists.
+
+__Religious Institutions & Doctrinal Authority:__ Priests or ritual specialists — likely elite-affiliated — control sacred knowledge; authority transmitted orally; doctrine not codified but stable across generations; institutions coextensive with chiefdom organization; authority fragmented across multiple centers, none paramount.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ SECC symbolism shared across Mississippian world but regional interpretation varies; no evidence of competing spiritual systems until European contact; diffusion is lateral emulation rather than centralized propagation; the cosmology is stable, its carriers fragmented.
+
+__Disenchantment & Sacred Discharge:__ No secularizing drift; sacred authority persists within chiefdoms; however, the abandonment of major centers (Cahokia, later Moundville) and cycling of chiefdoms suggest that no single sacred center commands ultimate allegiance; the sacred is distributed and localized; disenchantment is not articulated but implicit in the failure of any center to hold the landscape together — the spiritual residue is diffuse piety without continental integration, a sacred frame that survives but no longer aggregates.
+

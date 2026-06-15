@@ -1,69 +1,139 @@
-# __400 BCE – 1810 CE__ — Codex Traditions Across Mesoamerican History
-__Summary:__ A static snapshot surveying the full temporal arc of indigenous manuscript production in Mesoamerica, from the emergence of Maya and Zapotec writing through Aztec and Mixtec pictographic traditions to colonial-era adaptations and decline. The binding constraint is the fragility of organic media combined with deliberate destruction, leaving only fragments from which the broader tradition must be inferred; the system's margin against loss is essentially zero for pre-Columbian originals, while colonial copies and continuations provide partial preservation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Production centers distributed across the Mexican highlands (Valley of Mexico, Oaxaca, Puebla) and Maya lowlands (Peten, Yucatan); trade routes connected scribal traditions but regional styles remained distinct; geographic separation preserved variation while enabling exchange.<br><br>
-__Climate Regime & Volatility:__ Tropical humidity in lowlands accelerates organic decay; highland environments somewhat more favorable for preservation; no climate regime within the window preserves bark paper or deer hide without institutional protection; volatility irrelevant against baseline decay rate.<br><br>
-__Hazard Regime & Exposure:__ Fire, flood, and warfare destroy manuscript collections; Spanish conquest-era burnings (Diego de Landa, 1562; Zumarraga campaigns) constitute catastrophic deliberate hazard; surviving codices reflect exceptional luck or post-conquest production.<br><br>
-__Resource & Energy Endowment:__ Amate bark (Ficus) and deer hide provide writing surfaces; mineral and plant pigments (cochineal red, Maya blue, carbon black) require trade networks; resources renewable and widely distributed; endowment adequate throughout.<br><br>
-__Waste Absorption & Sink Capacity:__ Organic waste from paper-making biodegrades readily; pigment residues minimal; production scale never approaches sink saturation; waste absorption a non-binding constraint for this tradition.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Scribes subject to general population mortality; conquest-era epidemics (smallpox, typhus, measles) kill knowledge-holders alongside general population; transmission chains broken by demographic collapse; pathogen load catastrophic for tradition continuity 1520s–1600.<br><br>
-__Nutrition & Physiological Vitality:__ Scribal class typically elite or elite-supported; nutritional status adequate for sustained cognitive work; no evidence of occupational health impacts; vitality not a constraint on production.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Scribal knowledge transmitted through training rather than biological inheritance; lineage traditions exist (Maya scribal families) but knowledge is cultural; reproductive dynamics affect population of potential trainees rather than tradition directly.<br><br>
-__Demographic Renewal & Density:__ Pre-contact scribal class small but reproduced through elite training systems; post-conquest demographic collapse reduces trainee pool; colonial-era indigenous scribes fewer but tradition continues through adaptation; renewal rate declining across window.<br><br>
-__Attrition & Dependency Overhang:__ Aged scribes hold irreplaceable knowledge; death of trained specialists without transmission constitutes permanent knowledge loss; post-conquest attrition of masters exceeds training capacity; dependency on surviving practitioners creates bottleneck.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Scribal work supported by elite patronage, temple economy, or tribute allocation; scribes not engaged in subsistence production; provisioning mediated through institutional support; floor stable while patronage systems persist.<br><br>
-__Energy Capture & Conversion:__ Production requires only human skilled labor; minimal energy inputs beyond body maintenance; no mechanical or animal power involved; energy constraint non-binding for manuscript production.<br><br>
-__Labor Organization & Coercion:__ Pre-contact scribes (Maya ah tz'ib, Aztec tlacuilo) trained in elite institutions, supported by temple or palace; colonial-era indigenous scribes produce under Spanish commission or community patronage; organization shifting from temple economy to colonial market/commission.<br><br>
-__Production & Surplus Capacity:__ Output limited by trained scribes and patron demand rather than material constraints; pre-contact production sufficient for administrative and ritual needs; colonial production continues for Spanish documentation projects and indigenous community use.<br><br>
-__Storage, Reserves & Buffering:__ Completed codices stored in temple archives, royal collections, community chests; no redundant copying tradition documented; loss of archive means loss of content; buffering against destruction effectively zero.<br><br>
-__Exchange, Trade & Logistics:__ Finished codices not traded as commodities; materials (pigments, bark) traded through general networks; codices move as tribute, gifts, or war trophies; no market exchange for manuscripts as such.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Codices record tribute obligations, land boundaries, and historical claims with economic value; function as evidence in disputes rather than circulating value; not negotiable instruments but supporting documentation.<br><br>
-__Surplus Extraction & Redistribution:__ Tribute codices (Codex Mendoza type) are instruments of extraction, recording what is owed; production itself extracted as specialist labor from communities; tradition serves extractive documentation under both Aztec and Spanish rule.<br><br>
-__Wealth Distribution & Asset Defense:__ Codices serve elite wealth defense by documenting land claims and lineage rights; colonial Titulos Primordiales defend community holdings; distribution of codex-supported claims tracks broader wealth concentration.<br><br>
-__Byproducts & Waste Routing:__ Bark-paper production generates fiber waste, readily absorbed; damaged or obsolete codices apparently discarded or recycled as organic materials; no waste accumulation problem; routing decisions trivial at production scale.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Scribal communities share techniques within training lineages; master-apprentice relationships structure knowledge transfer; trust radius limited to trained specialists; colonial disruption fragments transmission networks.<br><br>
-__Stratification, Status & Group Identity:__ Scribes hold elite or elite-adjacent status pre-contact; Maya scribes often royal kin; Aztec tlacuilos trained at calmecac; colonial-era indigenous scribes retain some prestige but subordinate to Spanish documentation hierarchy.<br><br>
-__Kinship, Family & Inheritance:__ Scribal knowledge transmitted through training rather than inheritance; some Maya lineages specialize in scribal arts; colonial-era skills pass through informal apprenticeship and mission education; family transmission declining.<br><br>
-__Civic Association & Self-Organization:__ No evidence of scribal guilds pre-contact; temple and palace institutions organize production; colonial cofradias and community governments commission work; associational context shifting from temple to parish and community.<br><br>
-__Leisure, Play & Sociability:__ Codex production integrated with ritual calendar and court life rather than separate leisure; elite sociability includes display and consultation of manuscripts; not a leisure activity but embedded in ceremonial and administrative practice.<br><br>
-__Grievance Channels & Social Discharge:__ Colonial-era indigenous communities use codex-documented land claims to pursue legal grievances; tradition becomes grievance tool under Spanish adjudication; function shifts from royal propaganda to community defense.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Pre-contact codex production concentrated at royal and temple centers; rulers commission dynastic histories and tribute records; post-conquest Spanish authorities commission documentation while suppressing religious content; authority over tradition centralizing under colonial church and state.<br><br>
-__Succession & Power Transfer:__ Codices document royal genealogies and succession claims; Mixtec screenfolds record lineage legitimacy; Maya inscriptions and codices validate dynastic continuity; function persists in colonial Titulos documenting community leadership.<br><br>
-__Legitimacy & Political Narrative:__ Codices serve legitimation through mythical charter, conquest history, and genealogical proof; colonial-era indigenous manuscripts assert community rights through ancient claims; legitimacy function endures across conquest divide.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Pre-contact tribute administration depends on pictographic records; Spanish colonial administration initially uses indigenous documents, then shifts to alphabetic records; institutional capacity for indigenous documentation declining.<br><br>
-__Political Participation & Mobilization:__ Codex production controlled by elites; consultation limited to rulers, priests, specialists; colonial-era community codices broaden stakeholder base slightly; participation in tradition remains narrow throughout.<br><br>
-__Geopolitical Position & External Relations:__ Codices record diplomatic exchanges, alliances, and wars; Maya inscriptions document inter-polity relations; tradition serves diplomatic as well as internal functions; conquest severs indigenous diplomatic sphere.<br><br>
-__Coercive Apparatus & Means of Force:__ Codices document military campaigns and captive taking; warrior orders and conquest narratives prominent in Aztec manuscripts; coercive function of documentation (intimidation, record of force) explicit in tradition.<br><br>
-__Internal Order & Threat Environment:__ Spanish book-burnings (Landa, Zumarraga) constitute existential threat to tradition; surviving codices reflect post-destruction contingency; internal order of tradition destroyed by conquest, with colonial adaptation the residue.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Codices move by human carrier between centers; velocity limited by travel speed; court-to-court or temple-to-temple transmission for diplomatic and ritual purposes; no rapid diffusion mechanism.<br><br>
-__Record, Storage & Persistence:__ Bark paper and deer hide organic and perishable; institutional storage in archive boxes, temple chambers, community chests provides protection; persistence requires continuous institutional care; almost all pre-Columbian originals lost.<br><br>
-__Framing, Censorship & Discourse Norms:__ Pre-contact codices frame royal and divine narratives; conventions govern what is depicted and how; colonial-era missionaries censor religious content while encouraging historical and administrative documents; discourse norms imposed externally after conquest.<br><br>
-__Reception, Attention & Amplification:__ Specialist interpreters (Maya ah k'in, Aztec priests) required to read most complex codices; oral performance accompanies pictographic consultation; amplification through public reading at ceremonies; reception limited to trained decoders and their audiences.<br><br>
-__Signal Integrity & Noise Load:__ Pictographic systems allow some copying error; standardized conventions reduce noise; colonial copying introduces transmission errors; hybrid pictographic-alphabetic documents may lose nuances in translation; integrity declining through colonial period.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Codices record customary law and divine sanctions; colonial-era documents invoke both indigenous precedent and Spanish legal frameworks; moral foundation shifts from indigenous cosmological order to colonial Catholic-legal synthesis.<br><br>
-__Law, Codification & Regulatory Evolution:__ Pre-contact tribute obligations and land boundaries codified in pictographic form; colonial-era Titulos Primordiales and land documents adapt tradition to Spanish legal requirements; codification function continuous but format evolving.<br><br>
-__Adjudication, Enforcement & Liability:__ Colonial courts accept indigenous pictographic documents as evidence; Spanish judges require interpretation; codices serve as documentary proof in land disputes; adjudication function extends tradition's practical utility.<br><br>
-__Rights, Protections & Compliance Burden:__ Community land rights documented and defended through codex tradition; compliance with tribute obligations recorded; documentation serves both protection of rights and enforcement of obligations.<br><br>
-__Impunity & Unredressed Wrong:__ Book-burnings constitute unredressed wrong against indigenous knowledge heritage; no restitution or recovery possible for destroyed originals; impunity for destruction complete under colonial legal framework.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Codex tradition embeds calendrical astronomy, historical chronicle, and ritual knowledge; Maya astronomical tables in Dresden Codex represent sophisticated mathematical inquiry; paradigm indigenous rather than European until colonial overlay.<br><br>
-__Applied Knowledge & Technical Method:__ Paper-making from bark fiber, pigment preparation, binding techniques, screenfold construction constitute applied technical knowledge; methods transmitted through apprenticeship; colonial period sees hybrid techniques emerge.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Training concentrated in elite institutions (Maya royal courts, Aztec calmecac); skill distribution narrow; colonial mission schools train some indigenous scribes in hybrid methods; knowledge stock eroding through demographic loss and suppression.<br><br>
-__Obsolescence & Knowledge Decay:__ Pre-Columbian codex reading skills become obsolete as tradition breaks; colonial-era trained readers fewer each generation; by late colonial period few can interpret pre-conquest manuscripts; decay accelerating across window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Codices encode creation narratives, migration histories, and founding myths; Mixtec screenfolds record lineage origins; Popol Vuh tradition (later transcribed) preserves K'iche' cosmogony; foundational identity documented and transmitted through tradition.<br><br>
-__Artistic Expression & Material Culture:__ Codex painting represents major artistic tradition; distinctive regional styles (Maya, Mixtec, Aztec); iconographic conventions, figural representation, hieroglyphic design elements constitute coherent aesthetic; material culture at highest elaboration pre-conquest.<br><br>
-__Collective Mood & Behavioral Disposition:__ Codex tradition embeds and reinforces official worldview; mood shaped by content rather than production process; colonial-era indigenous codices may reflect defensive, nostalgic, or adaptive dispositions depending on purpose.<br><br>
-__Form Exhaustion & Meaning Decay:__ Pre-conquest forms vital and innovative; post-conquest tradition hybridizes and adapts but also decays as context shifts; late colonial indigenous manuscripts sometimes formulaic or incompletely understood by their makers; exhaustion proceeding alongside adaptation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Codices encode cosmological models—Maya Long Count, Aztec cosmic ages, calendrical divination; existential outlook embedded in cyclical time and divine-human reciprocity; colonial-era documents shift toward Christian framework while preserving indigenous elements.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Codices consulted for ritual timing, divinatory purposes, and ceremonial protocols; tonalamtl (ritual almanacs) guide devotional practice; sacred function central to pre-conquest tradition, suppressed but partially persistent after conquest.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple priesthoods control pre-contact codex production and interpretation; colonial church suppresses indigenous religious content while sponsoring historical and administrative documentation; institutional authority shifts from temple to church.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pre-conquest codex traditions spread through trade and conquest; colonial era sees Christian elements enter indigenous documents; Books of Chilam Balam blend Maya prophecy with colonial Christianity; syncretic adaptation characterizes colonial continuation.<br><br>
-__Disenchantment & Sacred Discharge:__ Book-burnings destroy sacred objects, producing trauma and loss; colonial manuscripts sometimes retain sacred resonance despite changed context; disenchantment proceeds through institutional suppression and knowledge loss; sacred meaning partially discharged into hybrid forms, partially lost.<br><br>
+# __400 BCE – 1810 CE — Codex Traditions Across Mesoamerican History__
+
+__Summary:__ The screenfold codex constitutes Mesoamerica's distinctive manuscript form, carrying calendrical, divinatory, genealogical, tributary, and historical knowledge across two millennia through pre-Columbian florescence and colonial adaptation; the binding constraint is the restricted specialist class that controls production and interpretation, making the tradition vulnerable to the demographic and institutional catastrophe of conquest even as alphabetic transcription partially preserves its content.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The codex tradition spans ecological zones from highland basins to tropical lowlands: bark paper (amatl, huun) derives from ficus trees abundant in tierra caliente; deerskin substrates come from highland and lowland game; pigments — cochineal red, Maya blue, carbon black — require specific regional resources; the material chain connects environments across Mesoamerica.
+
+__Climate Regime & Volatility:__ Tropical humidity destroys organic materials: no Classic Maya codices survive in the wet Peten, though fragments appear in dry caves and tombs; the three surviving pre-Columbian Maya books (Dresden, Madrid, Paris) reached European collections and escaped the climate that consumed their counterparts.
+
+__Hazard Regime & Exposure:__ Fire destroys libraries: the 1520s burning of codices by Spanish friars eliminates the bulk of Aztec manuscript production; Bishop Diego de Landa's 1562 auto-da-fe in Mani destroys Maya books by the cartload; accidental fires in colonial archives continue the loss; the hazard regime is primarily anthropogenic.
+
+__Resource & Energy Endowment:__ Paper production requires substantial labor and botanical knowledge: bark is harvested, soaked, beaten, and plastered with lime; the energy investment in a single codex represents weeks of specialized work; this resource constraint limits production to elite patronage contexts.
+
+__Waste Absorption & Sink Capacity:__ The organic materials return to soil when discarded; the tradition leaves no physical residue beyond the exceptional survivals; the primary accumulation is informational loss — the unrecoverable content of destroyed books.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The colonial demographic catastrophe (1520–1600) kills 90% of the indigenous population, including the scribal specialists who maintain the tradition; epidemics of smallpox, measles, and cocoliztli eliminate the knowledge-bearers faster than they can transmit their skills.
+
+__Nutrition & Physiological Vitality:__ Scribes occupy elite positions with adequate nutrition; their physical capacity for the fine motor work of painting and writing is not constrained; the tradition's vulnerability is demographic, not nutritional.
+
+__Care, Healing & Recovery Capacity:__ Medicinal knowledge is itself codex content: the Badianus Manuscript (1552) records Aztec herbal medicine in Latin and Nahuatl; healing traditions survive partially through colonial transcription.
+
+__Reproductive Biology & Pairing Dynamics:__ Scribal lineages transmit knowledge through family training; disruption of these lineages by conquest mortality breaks transmission chains; the biological continuity of specialist families is inseparable from the tradition's continuity.
+
+__Demographic Renewal & Density:__ The pre-Columbian population supports extensive specialist classes; post-conquest collapse eliminates the demographic base for maintaining the full range of scribal expertise; recovery is too slow to restore what the first generation of epidemics destroys.
+
+__Attrition & Dependency Overhang:__ The elderly scribes who survive the initial epidemics become the critical knowledge-bearers; their death without adequate successors closes transmission; this attrition is the immediate cause of the tradition's contraction.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Scribes are provisioned by elite patronage, temple institutions, or state tribute; they do not produce their own subsistence; this dependence ties the tradition's survival to the survival of the institutions that support it.
+
+__Energy Capture & Conversion:__ Paper-making and pigment preparation require organized labor; the energy cost of a single codex is substantial; this limits production to contexts where surplus supports specialist work.
+
+__Labor Organization & Coercion:__ Scribes (tlacuilos, ah ts'ib) constitute a specialized class trained from youth; their labor is skilled and honored, not coerced; colonial disruption reduces this class but does not eliminate it — indigenous scribes continue producing documents throughout the colonial period.
+
+__Production & Surplus Capacity:__ Pre-Columbian states produce codices as administrative necessity and ritual requirement; the Aztec tribute system generates extensive pictographic records; colonial administration continues to require indigenous documentation, sustaining demand for scribal production.
+
+__Storage, Reserves & Buffering:__ Codices themselves are the storage medium: genealogies preserve lineage claims across generations; tribute records enable consistent extraction; calendrical codices store astronomical observations accumulated over centuries; the manuscript is the buffer against memory loss.
+
+__Exchange, Trade & Logistics:__ Paper and pigments circulate as tribute goods; finished codices do not typically circulate as trade items but remain with the institutions that commission them; the colonial period sees codices reach European collections as curiosities, trophies, and legal evidence.
+
+__Value Storage, Credit & Deferred Exchange:__ Land titles encoded in pictographic documents store property claims across generations; genealogical codices preserve inheritance rights; the manuscript functions as a store of legal and economic value.
+
+__Surplus Extraction & Redistribution:__ The Matricula de Tributos and Codex Mendoza document the Aztec tribute system in pictographic form; these records are instruments of extraction, enabling systematic taxation; colonial adaptations continue this administrative function.
+
+__Wealth Distribution & Asset Defense:__ Indigenous nobles defend land claims through pictographic titles (titulos primordiales) into the colonial period; the codex tradition serves elite property defense.
+
+__Byproducts & Waste Routing:__ Worn or superseded codices are discarded, recycled, or ritually disposed; little is known of pre-Columbian practices; colonial authorities destroy books as idolatrous; the waste stream is primarily informational loss.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Mixtec screenfold codices (Nuttall, Bodley, Selden) record genealogies and marriage alliances across generations; these are instruments of lineage legitimation; inheritance claims depend on documentary proof.
+
+__Association & Mutual Aid:__ Scribal training occurs within lineage and institutional contexts — palace schools, temple colleges, family workshops; the calmecac schools of Aztec Tenochtitlan train elite youth including scribes; these associations maintain technique across generations.
+
+__Leisure, Play & Sociability:__ Codices include calendrical games and divinatory practices that structure social interaction; the tonalpohualli (260-day count) governs personal fate; reading codices is both ritual and social practice.
+
+__Stratification, Status & Group Structure:__ Scribes occupy elite positions; literacy is restricted; the ability to read and produce codices marks high status; this restriction makes the tradition dependent on a narrow specialist class.
+
+__Administrative Capacity & Institutional Integrity:__ The Aztec state's administrative capacity rests partly on pictographic record-keeping; tribute lists, census records, and judicial documents are maintained in codex form; colonial administration inherits and adapts this capacity.
+
+__Coercive Apparatus & Means of Force:__ Codices record warfare and conquest; the Aztec tribute system depends on military coercion documented in pictographic form; the colonial state uses documentary evidence to enforce its claims.
+
+__Discharge, Disorder & Decay:__ The conquest constitutes catastrophic institutional decay; palace schools are abolished; temple colleges disappear; the institutional infrastructure that maintains the tradition collapses within a generation, though indigenous scribes continue working in adapted forms.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The codex tradition commands reverence: books are sacred objects containing ancestral wisdom; the colonial destruction of codices registers as sacrilege and loss; indigenous communities continue to value surviving manuscripts as objects of identity.
+
+__Leadership & Personal Authority:__ Rulers commission and interpret codices; the ability to read historical and divinatory books marks royal competence; colonial caciques continue to use pictographic documents to legitimate their authority.
+
+__Legitimacy as Lived Allegiance:__ Genealogical codices anchor lineage legitimacy; rulers trace descent through painted records; the manuscript makes the claim visible and persistent; legitimacy is documented, not merely claimed.
+
+__Political Will & Collective Resolve:__ The determination to preserve the tradition survives conquest: indigenous scribes adapt to alphabetic transcription, preserving content if not form; the Florentine Codex project (1545–1590) demonstrates sustained collective effort to document pre-Columbian knowledge.
+
+__External Relations & Posture:__ Codices record diplomatic relations, tribute obligations, and warfare between polities; the painted record documents the posture of polities toward each other across time.
+
+__Disaffection, Apathy & Spent Will:__ By the seventeenth century the intensive transcription effort wanes; the specialists who could interpret pre-Columbian conventions die; disaffection is not the cause — exhaustion and demographic loss are.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Codex reading requires specialized training; the systems are not fully phonetic and depend on oral interpretation; accessibility is restricted to the trained elite; this restriction makes the tradition fragile when specialists die.
+
+__Channels & Transmission Velocity:__ Codices are produced for specific patrons and remain in their possession; they do not circulate rapidly; the channel is local and slow, but the record persists across generations.
+
+__Record, Storage & Persistence:__ The codex is the technology of persistence: bark paper and deerskin outlast memory; pigments remain legible for centuries; the screenfold format allows efficient storage and retrieval; the technology enables accumulation beyond individual lifespan.
+
+__Framing, Censorship & Discourse Norms:__ Pre-Columbian codex production follows established conventions — calendrical formats, genealogical layouts, tribute tabulations; colonial censorship targets religious and divinatory content while permitting administrative and historical documentation; the norms shift radically after 1520.
+
+__Reception, Attention & Amplification:__ Codex reading is a performance: the painted page provides cues for oral exposition; the reader-interpreter (tlamatini) elaborates the content in speech; the system combines graphic record and oral transmission.
+
+__Signal Integrity & Noise Load:__ The pictographic system tolerates variation in style while maintaining semantic integrity; conventions ensure that different painters produce legible results; the signal is robust within its conventions; noise enters when conventions are forgotten.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Divinatory codices assign fate according to calendrical position; moral responsibility is negotiated within this framework; the painted record establishes what is owed and when.
+
+__Law, Codification & Regulatory Evolution:__ Land titles, tribute records, and judicial precedents are codified in pictographic form; the codex is an instrument of law; colonial courts accept pictographic evidence as legally binding.
+
+__Adjudication, Liability & Sanction:__ Pictographic records provide evidence in disputes; colonial indigenous communities litigate using traditional documents; the codex serves adjudication.
+
+__Rights, Protections & Compliance Burden:__ Documentary proof establishes rights to land, tribute, and office; the compliance burden of producing and maintaining records falls on indigenous communities defending their claims.
+
+__Impunity & Unredressed Wrong:__ The destruction of codices by colonial authorities violates indigenous conceptions of justice; this wrong remains unredressed; the burned books cannot be recovered.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The codex tradition embodies astronomical, calendrical, and historical knowledge: the Dresden Codex contains lunar and Venus tables of high precision; the 260-day and 365-day calendrical cycles encode sophisticated mathematical understanding; the paradigm integrates cosmic and human time.
+
+__Applied Knowledge & Technical Method:__ Paper-making, pigment preparation, and painting techniques constitute a specialized craft tradition; apprenticeship transmits technique; the methods are refined over centuries.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal training occurs in palace schools (calmecac) and through lineage apprenticeship; the knowledge stock is concentrated in specialist hands; distribution is narrow by design.
+
+__Obsolescence & Knowledge Decay:__ The colonial transition makes pre-Columbian reading conventions obsolete for most practical purposes; by 1600 few can interpret the old books; the knowledge decays through demographic loss and institutional collapse, not intellectual supersession.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Codices preserve mythic history, migration narratives, and origin accounts; the Mixtec codices trace lineages to divine ancestors; the Aztec painted histories record migration from Aztlan; the manuscript anchors identity to documented past.
+
+__Legitimating Narrative & Ideology:__ Genealogical and historical codices legitimate ruling lineages; the record shows descent from gods and ancient kings; colonial adaptations continue to make legitimating claims through pictographic documentation.
+
+__Artistic Expression & Material Culture:__ The codex is a visual art form: stylized figures, standardized color conventions, and sophisticated composition characterize the tradition; the material culture of painting — brushes, pigments, paper — constitutes a specialized production system; aesthetic standards persist through colonial adaptations.
+
+__Form Exhaustion & Meaning Decay:__ The pre-Columbian conventions lose meaning as their institutional context disappears; colonial codices become increasingly Europeanized in style; by 1700 the distinctive pictographic conventions are vestigial; the form exhausts itself through loss of interpretive community rather than internal stagnation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Divinatory codices (tonalamatl) place human life within cosmic cycles; the 260-day count assigns fate; the Long Count (in Maya tradition) situates the present within vast temporal spans; the codex is a window onto cosmic order.
+
+__Ritual, Devotion & Sacred Practice:__ Codices guide ritual practice: calendrical books indicate propitious days; screenfolds are consulted before undertakings; the painted record structures devotion.
+
+__Religious Institutions & Doctrinal Authority:__ Temple institutions maintain and interpret sacred books; priests control access to divinatory knowledge; the colonial destruction of religious codices targets institutional authority as much as physical objects.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christian content enters colonial codices; the Testerian catechisms adapt pictographic conventions to Christian instruction; syncretism appears in documents that combine pre-Columbian forms with Christian content; displacement is incomplete — indigenous spiritual content persists in adapted forms.
+
+__Disenchantment & Sacred Discharge:__ The destruction of sacred books constitutes forced disenchantment; the colonial Church attempts to eliminate the indigenous sacred; yet the sacred content survives in oral tradition, community memory, and the codices that escaped the fires — the discharge is partial, leaving a residue of hidden practice alongside public conversion.

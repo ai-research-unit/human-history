@@ -1,69 +1,139 @@
-# __1950 CE – 2012 CE__ — CCTV as State Institution
-__Summary:__ China Central Television evolves from experimental Beijing Television in 1958 through Cultural Revolution disruption to become the dominant national broadcaster and primary instrument of party messaging; the binding constraint is the institution's dual mandate to serve propaganda functions while maintaining audience engagement; substantial margin exists through monopoly position and guaranteed state support; direction of change moves from revolutionary austerity toward professionalized production with persistent political control.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Transmission infrastructure expands from Beijing center outward, with microwave relay, satellite uplinks, and cable networks progressively reducing spatial friction; mountainous western regions remain difficult to reach until satellite coverage completes in 1990s.<br><br>
-__Climate Regime & Volatility:__ Continental climate affects outdoor production; seasonal programming adapts to agricultural and festival calendars; extreme weather occasionally disrupts transmission and creates emergency coverage demands.<br><br>
-__Hazard Regime & Exposure:__ Earthquake, flood, and disaster coverage becomes institutional function; 1976 Tangshan and 2008 Sichuan earthquakes test emergency broadcasting capacity; infrastructure proves vulnerable but repairable.<br><br>
-__Resource & Energy Endowment:__ Electricity availability constrains early expansion; coal-powered grid supports transmission network growth; electronic component imports necessary until domestic production matures in 1990s.<br><br>
-__Waste Absorption & Sink Capacity:__ Studio and transmission facilities generate modest waste relative to industrial sector; obsolete equipment accumulates as technology generations turn over; sink pressure minimal at institutional scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Health conditions of broadcasters and production staff follow general population trends; workplace safety adequate in studio environments; field reporters face occasional hazard exposure.<br><br>
-__Nutrition & Physiological Vitality:__ CCTV personnel enjoy privileged access to provisions particularly during scarcity periods; institutional dining facilities maintain standards; staff health reflects elite urban conditions.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Broadcasting employment provides stable platform for family formation; workplace marriages common; one-child policy affects staff as general population; personnel management accommodates maternity.<br><br>
-__Demographic Renewal & Density:__ Institutional workforce grows from dozens to thousands over period; recruitment draws from broadcasting institutes and party channels; generational turnover managed through training programs; Beijing concentration creates density pressures.<br><br>
-__Attrition & Dependency Overhang:__ Retiree benefits burden modest given institutional youth; disability and dependency rare in office-based work; turnover to new technologies creates some skill-based redundancy managed through retraining.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ CCTV employees enjoy secure state employment with housing, healthcare, and pension; provisioning well above national average; institutional canteens and benefits create privileged conditions.<br><br>
-__Energy Capture & Conversion:__ Broadcasting consumes significant electricity for transmission and studio operations; power reliability critical for continuous operations; backup generation ensures service continuity.<br><br>
-__Labor Organization & Coercion:__ State employment model with party appointment for senior positions; union membership perfunctory; coercion minimal but career advancement tied to political reliability; professionalization increases over period.<br><br>
-__Production & Surplus Capacity:__ Programming output expands from hours to continuous multi-channel broadcasting; production capacity grows through facility investment; surplus manifests as advertising revenue exceeding operational costs by 1990s.<br><br>
-__Storage, Reserves & Buffering:__ Archive of programming accumulates as institutional asset; financial reserves grow with advertising success; equipment reserves maintained for operational continuity; content library becomes valuable resource.<br><br>
-__Exchange, Trade & Logistics:__ Content licensing develops with provincial stations and international markets; equipment procurement shifts from Soviet to Japanese to domestic sources; program format exchanges with foreign broadcasters increase post-reform.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Institutional budget guaranteed by state; advertising futures create credit instruments; content pre-sales develop; capital accumulation enables facility expansion; state backing provides implicit credit guarantee.<br><br>
-__Surplus Extraction & Redistribution:__ Advertising revenue captured by institution with state taxation; cross-subsidization to unprofitable channels internal; redistribution to production budgets enables quality investment; profit retention for expansion permitted.<br><br>
-__Wealth Distribution & Asset Defense:__ Institutional assets held by state; individual wealth accumulation limited to salaries; corruption opportunities exist in advertising and procurement; asset defense through state ownership structure.<br><br>
-__Byproducts & Waste Routing:__ Film and tape waste modest; electronic equipment disposed through state channels; production byproducts minimal; institutional scale insufficient for significant environmental burden.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ CCTV personnel form cohesive institutional community; broadcasting institutes create alumni networks; trust within institution high though political caution maintained; mutual aid through institutional channels.<br><br>
-__Stratification, Status & Group Identity:__ CCTV employment confers high status within media hierarchy; on-air talent achieves celebrity; technical and administrative staff subordinate but secure; institutional identity strong and valued.<br><br>
-__Kinship, Family & Inheritance:__ Broadcasting families emerge with multi-generational employment; network connections inherited through institutional relationships; media elite intermarriage with political families; kinship networks facilitate career advancement.<br><br>
-__Civic Association & Self-Organization:__ Party and union structures dominate institutional association; professional associations provide networking; voluntary association limited by work demands and political constraints; self-organization minimal.<br><br>
-__Leisure, Play & Sociability:__ Institutional social events structure off-work interaction; production teams develop camaraderie; celebrity social circuits emerge for prominent talent; work-life boundaries blurred by institutional culture.<br><br>
-__Grievance Channels & Social Discharge:__ Internal party channels absorb complaints; labor disputes rare given employment security; frustrations discharged through informal grumbling; exit options limited by specialized skills and privileged conditions.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ CCP Propaganda Department exercises direct control over CCTV leadership appointments and editorial direction; authority centralized in party structures parallel to administrative hierarchy; real power lies with party committee not formal management.<br><br>
-__Succession & Power Transfer:__ Leadership appointments made by party organization department; transfers from provincial broadcasting and propaganda work common; succession relatively smooth due to institutionalized appointment process.<br><br>
-__Legitimacy & Political Narrative:__ CCTV serves as primary vehicle for party legitimacy messaging; historical narrative shaped through documentary and news programming; performance legitimacy demonstrated through modernization coverage; criticism of party line prohibited.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic capacity high for state broadcaster; corruption present in advertising and production procurement but contained; institutional integrity maintained through party discipline and audit; record-keeping comprehensive.<br><br>
-__Political Participation & Mobilization:__ CCTV mobilizes audience for party campaigns; staff political participation through party membership and study sessions; internal dissent suppressed; role is mobilization instrument rather than participation channel.<br><br>
-__Geopolitical Position & External Relations:__ International broadcasting expands through CCTV-4 and CCTV International; foreign bureaus established in major capitals; soft power projection becomes explicit mission; foreign content imports carefully managed.<br><br>
-__Coercive Apparatus & Means of Force:__ No direct coercive capacity; relies on state security apparatus for protection; censorship enforced through editorial control rather than direct force; career consequences for transgression sufficient deterrent.<br><br>
-__Internal Order & Threat Environment:__ Internal security maintained through personnel vetting and political monitoring; leaks and defections rare; factional struggles occasionally affect personnel; overall internal order stable throughout period.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ CCTV channels multiply from one to fifteen-plus over period; satellite and cable extend reach to near-universal coverage; transmission velocity improves from taped delay to live capability; multi-platform distribution develops.<br><br>
-__Record, Storage & Persistence:__ Institutional archive preserves programming record; film transferred to tape to digital; some early material lost through degradation and political purges; preservation improving with digitization though completeness uncertain.<br><br>
-__Framing, Censorship & Discourse Norms:__ Editorial guidelines strictly enforced; sensitive topics prohibited or scripted; self-censorship internalized by production staff; permitted discourse narrowly defined though expanding slightly in entertainment programming.<br><br>
-__Reception, Attention & Amplification:__ Prime-time Xinwen Lianbo commands largest audience in world; attention concentrated through scheduling monopoly; amplification through repetition and provincial relay; reception declining with channel multiplication and internet competition.<br><br>
-__Signal Integrity & Noise Load:__ Official messaging maintains consistency through central control; competing narratives suppressed; noise low within broadcast sphere though rising as alternative sources emerge; signal clarity maintained through professional production standards.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Institutional ethics emphasize party loyalty and professional standards; justice framework defined by party correctness; individual moral judgment subordinate to organizational discipline; whistleblowing discouraged.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting regulations govern content and operations; personnel rules specify conduct; regulatory framework tightens over period with increasing codification; internal rules detailed and enforced.<br><br>
-__Adjudication, Enforcement & Liability:__ Internal disputes resolved through party discipline and administrative channels; external legal exposure limited by state ownership; enforcement through career consequences; liability absorbed by institution rather than individuals.<br><br>
-__Rights, Protections & Compliance Burden:__ Employee rights defined by state employment framework; intellectual property attribution inconsistent; compliance burden high for content restrictions; protection through institutional status rather than individual rights.<br><br>
-__Impunity & Unredressed Wrong:__ Senior figures enjoy substantial impunity unless factionally targeted; grievances against leadership difficult to pursue; wrongdoing occasionally punished when politically convenient; systemic accountability weak.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Broadcasting theory developed in institutional research units; Marxist communication theory official framework; professional paradigms imported and adapted; theoretical innovation constrained by ideological requirements.<br><br>
-__Applied Knowledge & Technical Method:__ Production techniques evolve from film to video to digital; technical standards professionalize; equipment operation skills continuously updated; engineering capacity enables infrastructure expansion and modernization.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Broadcasting institutes train personnel; on-job training transfers tacit knowledge; skill stock expands with institutional growth; distribution concentrated in Beijing with provincial feeder institutions.<br><br>
-__Obsolescence & Knowledge Decay:__ Film-era skills obsolete by period end; analog technical knowledge declining; ideological content from earlier periods politically outdated but archivally preserved; knowledge turnover managed through continuous training.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Institutional identity rooted in revolutionary communication mission; founding narratives emphasize party service; collective memory includes Cultural Revolution disruption and reform-era growth; pride in national broadcaster status.<br><br>
-__Artistic Expression & Material Culture:__ Production design evolves from austere revolutionary to professional modern; studio architecture modernizes dramatically; on-air aesthetics shift from propaganda posters to global broadcast standards; Spring Festival Gala defines visual spectacle.<br><br>
-__Collective Mood & Behavioral Disposition:__ Institutional mood shifts from revolutionary fervor through demoralization to professional confidence; risk aversion dominant given political stakes; optimism about institutional future tempered by internet threat awareness.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary programming forms exhausted by reform era; propaganda genres persist but audience engagement declining; entertainment formats refresh more rapidly; meaning production increasingly relies on spectacle and celebrity.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Official atheism and materialist worldview institutionally enforced; individual spiritual beliefs private matter not affecting employment; secular professional identity dominant; existential purpose found in institutional service and career advancement.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Spring Festival Gala acquires quasi-sacred annual ritual status; political anniversaries structured as commemorative rituals; daily Xinwen Lianbo functions as civic devotional practice for faithful audience; institutional ceremonies mark careers.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No religious institutions within CCTV; party doctrine serves quasi-religious authority function; study sessions resemble devotional practice; doctrinal correctness monitored and enforced.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Revolutionary faith erodes over period; professional identity partially replaces ideological commitment; consumerism and careerism fill meaning void; syncretistic personal beliefs privately held.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary sacred thoroughly disenchanted by period end; institutional loyalty persists without transcendent justification; anomie managed through material rewards and status; spiritual needs unaddressed by institutional culture.<br><br>
+# __1950 CE – 2012 CE — CCTV as State Institution__
+
+__Summary:__ China Central Television evolves from a single experimental channel in 1958 to a multi-channel broadcasting empire reaching over a billion viewers, functioning throughout as the primary instrument of party communication with the mass audience; the binding constraint is the institutional requirement to serve simultaneously as party throat-and-tongue, national unifier, commercial competitor, and global projection vehicle, producing a distinctive hybrid that maximizes reach while maintaining strict ideological boundaries.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ CCTV headquarters in Beijing positions the network at the political center, with transmission reaching first the major cities along rail and road corridors, then progressively expanding to interior provinces and eventually to remote western regions through satellite distribution; the 2008 completion of the Rem Koolhaas-designed CCTV Tower provides an architectural landmark expressing the institution's aspirations.
+
+__Climate Regime & Volatility:__ Broadcast infrastructure proves vulnerable to seasonal hazards, with the 2008 ice storms in southern China disrupting transmission and demonstrating the fragility of the distribution network; CCTV coverage of natural disasters becomes a key institutional function, from Tangshan 1976 through Wenchuan 2008.
+
+__Hazard Regime & Exposure:__ The Beijing headquarters faces minimal seismic risk; provincial relay infrastructure in Sichuan and Yunnan operates in active seismic zones; the 2009 fire at the nearly-completed Television Cultural Center adjacent to the main tower destroys the ancillary building without affecting operations.
+
+__Resource & Energy Endowment:__ Expanding electrical grid capacity enables progressive coverage extension; the transition from vacuum tube to solid-state technology reduces power requirements per transmitter; domestic manufacturing capacity for broadcast equipment develops from Soviet-assisted origins to self-sufficiency.
+
+__Waste Absorption & Sink Capacity:__ Successive technology generations leave obsolete equipment for disposal; the transition from black-and-white to color and from analog to digital creates substantial equipment turnover; Beijing air quality degrades across the period, with CCTV weather reports becoming a site of contested environmental information.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ CCTV health programming expands from basic hygiene education in the Mao era to sophisticated medical content by 2012; the network's role in epidemic communication evolves from silence during early outbreaks to managed disclosure during SARS and H1N1.
+
+__Nutrition & Physiological Vitality:__ Cooking programs and food advertising proliferate as living standards rise; CCTV content reflects and promotes dietary transformation from scarcity to abundance; obesity prevention becomes a programming theme by the 2000s.
+
+__Care, Healing & Recovery Capacity:__ Health programming on CCTV-10 and other channels disseminates medical knowledge; traditional Chinese medicine receives favorable treatment consistent with cultural policy; the network serves as primary channel for public health campaigns.
+
+__Reproductive Biology & Pairing Dynamics:__ CCTV programming reinforces one-child policy messaging through both direct propaganda and entertainment content normalizing small families; dating shows emerge in the reform era, though the most popular versions appear on provincial competitors.
+
+__Demographic Renewal & Density:__ Children's programming addresses successive generations, from the 1980s onlys through the 2000s cohort; CCTV's audience ages with the population, losing younger viewers to online alternatives; elderly-focused programming expands to serve the aging demographic.
+
+__Attrition & Dependency Overhang:__ Programming for elderly viewers increases as the population ages; pension and eldercare issues enter news coverage cautiously; CCTV's own workforce ages, with tensions between veteran staff and younger recruits.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Early CCTV operates on state allocation without commercial revenue; programming reflects socialist provisioning priorities; agricultural extension content reaches rural audiences through relay systems.
+
+__Energy Capture & Conversion:__ Transmission infrastructure expands with the electrical grid; satellite distribution from the 1980s enables national coverage without proportionate power infrastructure in receiving areas; the energy intensity of broadcast operations increases with technical sophistication.
+
+__Labor Organization & Coercion:__ CCTV employs a permanent workforce under state enterprise conditions, with supplementary contract staff expanding in the reform era; the talent pipeline draws from broadcast academies; internal competition for air time and advancement intensifies as the institution expands.
+
+__Production & Surplus Capacity:__ Content production capacity expands from minimal 1958 output to continuous multi-channel programming; in-house production supplements and eventually is challenged by commissioned and provincial content; the Spring Festival Gala represents peak annual production mobilization.
+
+__Storage, Reserves & Buffering:__ CCTV operates on annual state appropriation supplemented by advertising revenue from 1979; foreign exchange earnings from international advertising and program sales provide additional resources; capital reserves enable major infrastructure investments including the new headquarters.
+
+__Exchange, Trade & Logistics:__ CCTV advertising revenue grows from zero to billions of yuan annually; the annual advertising auction becomes a major commercial event; program exports generate modest revenue while serving soft power objectives; advertising slots become tradeable commercial assets.
+
+__Value Storage, Credit & Deferred Exchange:__ Advertising contracts denominate in yuan; CCTV's institutional value exceeds its accountable assets; brand value accumulates in the CCTV name; commercial partnerships generate deferred revenue streams.
+
+__Surplus Extraction & Redistribution:__ CCTV occupies a privileged position in the broadcast advertising market, with mandatory provincial retransmission of CCTV-1 ensuring nationwide reach for advertisers; revenue flows to Beijing while programming decisions remain centralized.
+
+__Wealth Distribution & Asset Defense:__ CCTV salaries exceed state enterprise norms for on-air talent; the institution controls substantial real estate and equipment assets; commercial revenue supplements state appropriation without full transparency.
+
+__Byproducts & Waste Routing:__ Obsolete programming fills archive storage; reruns extract residual value from past production; commercial tie-ins and merchandise generate supplementary revenue; the institution produces substantial administrative overhead.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ CCTV positions itself as the broadcaster that unites Chinese families, with the Spring Festival Gala as the centerpiece of this claim; family viewing of major broadcasts creates shared reference points across generations; children's programming addresses family audience segments.
+
+__Association & Mutual Aid:__ CCTV hosts and personalities form a recognizable elite, with careers intertwining through the institution; alumni networks extend influence; professional associations for broadcasters connect CCTV staff with provincial counterparts.
+
+__Leisure, Play & Sociability:__ Entertainment programming expands from negligible in the Mao era to substantial by 2012; variety shows, drama serials, and sports coverage provide leisure content; CCTV competes with provincial stations and online alternatives for leisure viewing time.
+
+__Stratification, Status & Group Structure:__ On-air talent occupies a distinctive status position, with top anchors achieving celebrity recognition; party membership and ideological reliability determine advancement to sensitive positions; technical and administrative staff occupy lower institutional tiers.
+
+__Administrative Capacity & Institutional Integrity:__ CCTV operates under the State Administration of Radio, Film and Television while maintaining direct reporting lines to the Propaganda Department; the institution grows from a handful of employees in 1958 to thousands by 2012; bureaucratic complexity increases with channel proliferation; corruption scandals periodically surface.
+
+__Coercive Apparatus & Means of Force:__ CCTV possesses no independent coercive capacity but serves as instrument of party authority; security personnel protect facilities; the network's surveillance and recording capacity serves state intelligence functions during sensitive coverage.
+
+__Discharge, Disorder & Decay:__ Internal factional competition produces periodic personnel disruptions; the institution accumulates bureaucratic sclerosis requiring periodic reorganization; retired personnel and obsolete skill sets represent institutional overhead; the inability to retain young talent to online competitors becomes a recognized problem by 2012.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ CCTV programming both reflects and shapes public mood, with disaster coverage generating collective grief and Olympic coverage producing collective pride; the network functions as emotional regulator, dampening panic and amplifying approved sentiments.
+
+__Leadership & Personal Authority:__ Network leadership maintains low public profiles; on-air personalities achieve recognition without comparable authority; the institution speaks with the party's voice rather than individual authority.
+
+__Legitimacy as Lived Allegiance:__ CCTV's legitimacy derives from its identification with the party-state rather than independent credibility; audiences distinguish between entertainment and news functions, extending greater trust to the former; the mandatory 7 PM news slot ensures exposure without ensuring belief.
+
+__Political Will & Collective Resolve:__ CCTV mobilizes for major political campaigns on party direction; institutional will aligns with party priorities through leadership appointment and Propaganda Department coordination; the network demonstrates capacity for rapid mobilization during crises and celebrations.
+
+__External Relations & Posture:__ CCTV International and subsequent CGTN expansions project China's message abroad; English, Spanish, French, Arabic, and Russian services target global audiences; the network's international posture shifts from defensive to assertive across the period.
+
+__Disaffection, Apathy & Spent Will:__ Audience cynicism toward news programming coexists with entertainment consumption; younger staff express private frustration with institutional constraints; the gap between official discourse and private belief widens without producing open dissent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Standard Mandarin establishes CCTV as vehicle of linguistic unification; dialect content remains minimal except in minority language services; the network reinforces Putonghua as the language of national public life.
+
+__Channels & Transmission Velocity:__ From one channel in 1958, CCTV expands to over twenty channels by 2012, covering news, finance, entertainment, sports, children's programming, and specialized content; satellite distribution enables instantaneous national reach; the 7 PM news slot achieves universal penetration through mandatory provincial relay.
+
+__Record, Storage & Persistence:__ CCTV archives preserve broadcast history from 1958, though Cultural Revolution-era material remains sensitive; digital archiving enables content retrieval; the institutional memory encoded in archives serves both historical and propaganda functions.
+
+__Framing, Censorship & Discourse Norms:__ CCTV operates within strict content guidelines, with positive reporting on party leadership, minimal coverage of domestic unrest, and calibrated foreign affairs coverage; self-censorship among staff becomes institutionalized; the Propaganda Department issues daily guidance on prohibited and required topics.
+
+__Reception, Attention & Amplification:__ Xinwen Lianbo achieves the largest regular audience of any television program globally through mandatory carriage and institutional viewing requirements; actual voluntary attention may differ from reported figures; the Spring Festival Gala claims audiences exceeding 700 million.
+
+__Signal Integrity & Noise Load:__ CCTV's monopoly on certain content categories ensures signal clarity within its controlled domain; the gap between CCTV narrative and online discourse creates informational dissonance; the network struggles to compete with faster online sources during breaking events.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ CCTV programming reinforces official moral framework, from socialist values in the Mao era through harmonious society under Hu; corruption exposures and public interest reporting serve legitimation functions while remaining within prescribed limits.
+
+__Law, Codification & Regulatory Evolution:__ CCTV operates under broadcast regulations promulgated by SARFT; content guidelines specify required and prohibited topics; the legal framework ensures party control while permitting commercial operations within boundaries.
+
+__Adjudication, Liability & Sanction:__ CCTV personnel face administrative sanction for ideological errors; on-air mistakes result in suspensions or dismissals; the institution bears no legal liability for propaganda content that would constitute defamation under normal standards.
+
+__Rights, Protections & Compliance Burden:__ CCTV employees surrender expression rights as condition of employment; subjects of critical coverage possess limited recourse; the institution operates with effective immunity from normal legal constraints while imposing compliance burden on staff.
+
+__Impunity & Unredressed Wrong:__ CCTV coverage shapes public perception of legal cases before adjudication; subjects of negative coverage may suffer consequences without legal process; the gap between CCTV's narrative authority and judicial process generates unredressed grievance among those portrayed unfavorably.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ CCTV documentary programming disseminates approved historical and scientific narratives; the network serves as vehicle for ideological education; research functions support programming without independent inquiry mandate.
+
+__Applied Knowledge & Technical Method:__ Broadcast technology evolves from Soviet-derived origins through Japanese and Western imports to indigenous digital systems; CCTV technical staff master successive generations of equipment; production techniques achieve international standards by 2012.
+
+__Education, Knowledge Stock & Skill Distribution:__ CCTV-10 science and education channel disseminates knowledge content; the network draws talent from broadcast academies and universities; institutional knowledge accumulates in production manuals, style guides, and mentorship relationships.
+
+__Obsolescence & Knowledge Decay:__ Analog broadcast expertise becomes obsolete with digital transition; Mao-era propaganda techniques lose effectiveness while remaining institutionally embedded; the pace of technical change strands older staff with superseded skills.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ CCTV serves as primary vehicle for official historical narrative, from revolutionary origins through reform-era achievements; documentary programming constructs authorized national memory; the network's coverage of anniversaries and commemorations shapes collective recollection.
+
+__Legitimating Narrative & Ideology:__ Programming reinforces party legitimacy through historical narrative, achievement celebration, and positive coverage of leadership; ideological content adapts from Mao Thought through Deng Theory to scientific development concept while maintaining structural continuity.
+
+__Artistic Expression & Material Culture:__ CCTV drama production develops from revolutionary model operas through historical serials to contemporary programming; the Spring Festival Gala defines New Year aesthetic; the new CCTV headquarters expresses institutional aspiration through architectural monumentality.
+
+__Form Exhaustion & Meaning Decay:__ Propaganda forms established in the Mao era lose resonance with contemporary audiences; entertainment formats borrowed from abroad achieve greater engagement than indigenous political programming; official discourse hollows into ritual repetition while entertainment content retains vitality.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ CCTV programming maintains official atheist-materialist framework while accommodating cultural Buddhism and Confucian revival; the network avoids religious content except in ethnographic or critical contexts; scientific materialism remains the implicit cosmological frame.
+
+__Ritual, Devotion & Sacred Practice:__ The Spring Festival Gala functions as national ritual, structuring collective temporal experience; major broadcasts create secular ceremonial occasions; CCTV coverage sacralizes party ceremonies, from National Day parades to party congresses.
+
+__Religious Institutions & Doctrinal Authority:__ Religious content appears primarily in minority-language services and cultural programming; the network reinforces state supervision of religion through coverage choices; anti-cult programming targets Falun Gong and unauthorized religious movements.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ CCTV supports official religious policy through selective coverage, promoting approved Buddhist and Taoist institutions while marginalizing unauthorized practice; cultural heritage framing permits religious content stripped of devotional dimension.
+
+__Disenchantment & Sacred Discharge:__ The network's secular frame leaves spiritual needs unaddressed; consumer culture promoted through advertising provides surrogate meaning; the gap between official materialism and popular spiritual seeking remains outside CCTV's narrative capacity; the sacred dimension of revolutionary ideology fades without replacement.

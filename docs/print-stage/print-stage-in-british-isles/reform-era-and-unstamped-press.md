@@ -1,69 +1,139 @@
-# __1815 CE – 1850 CE__ — Reform Era and Unstamped Press
-__Summary:__ Post-Napoleonic Britain transitions from wartime repression to gradual reform amid industrial transformation. The binding constraint is the tension between an expanding industrial working class demanding political voice and an unreformed oligarchic Parliament resisting enfranchisement. Margin against shock is thin — periodic unrest (Peterloo, Chartist mobilizations) tests state capacity. The direction of change is incremental liberalization: 1832 Reform Act extends suffrage to the middle class, stamp duty reduction enables cheaper press, railways create national distribution networks, yet working-class demands remain largely unmet by 1850.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island archipelago with London as dominant hub; coalfield regions (Midlands, South Wales, Scottish Lowlands) become industrial centers; improving turnpikes and canal networks reduce internal friction, though Celtic peripheries remain slower to access.<br><br>
-__Climate Regime & Volatility:__ Cool temperate maritime climate with moderate variability; the volcanic "Year Without a Summer" (1816) causes harvest failures, contributing to postwar distress; otherwise no secular drift significant to the window.<br><br>
-__Hazard Regime & Exposure:__ No major seismic or volcanic exposure; flood risk localized; primary hazard is harvest failure from cold wet summers, against which grain reserves and import capacity provide moderate but not ample margin.<br><br>
-__Resource & Energy Endowment:__ Abundant shallow coal and iron ore; water power in upland streams; timber increasingly imported; coal reserves remain vast relative to extraction rates, no depletion pressure yet evident.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban industrial centers generate unprecedented coal smoke, chemical effluent, and sewage; rivers and airsheds near Manchester, Birmingham, and London show visible degradation; absorptive capacity locally saturated but not yet perceived as systemic limit.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tuberculosis, typhus, and typhoid; cholera epidemics (1831–32, 1848–49) kill tens of thousands; urban mortality exceeds rural; baseline death rate high and improving only slowly as window closes.<br><br>
-__Nutrition & Physiological Vitality:__ Industrial workers' diets often deficient; stunting evident in factory populations; Irish Famine (1845–50) causes catastrophic mortality and emigration; physiological vitality improving for middle classes, stagnant or declining for urban poor.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Early industrial marriage patterns; factory employment alters household formation; fertility remains high; selective pressure operates through differential infant and child mortality by class.<br><br>
-__Demographic Renewal & Density:__ Rapid population growth — England and Wales nearly double from 9 million (1801) to 18 million (1851); urban crowding acute; migration from countryside to factory towns and from Ireland accelerates throughout.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and the infirm strain the New Poor Law (1834) workhouse system; factory accidents create disabled dependents; productive cohort absorbs load through household pooling and parish relief, but margin tight.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Corn Laws keep bread prices high until repeal (1846); potato dependency in Ireland collapses catastrophically; English working class near subsistence edge, buffered by wage labor and poor relief rather than household production.<br><br>
-__Energy Capture & Conversion:__ Coal-fired steam engines transform manufacturing and transport; per-capita energy consumption rising rapidly; transition from water and muscle power to fossil-fueled machinery is the defining economic shift of the window.<br><br>
-__Labor Organization & Coercion:__ Factory system disciplines labor through clock time and foremen; child and female labor widespread; trade unions suppressed then gradually tolerated; wage labor replaces apprenticeship; coercion declining relative to earlier decades but still substantial through economic compulsion.<br><br>
-__Production & Surplus Capacity:__ Textile mills, ironworks, and machine shops expand output dramatically; Britain becomes "workshop of the world"; surplus flows into capital investment, infrastructure, and export; productive capacity well above subsistence threshold.<br><br>
-__Storage, Reserves & Buffering:__ Grain reserves inadequate against harvest failure; commercial credit networks provide buffering for merchants; working-class households have minimal reserves — a week's wage interruption means destitution.<br><br>
-__Exchange, Trade & Logistics:__ Railways (from 1830) revolutionize distribution; canal and coastal shipping remain important; free trade ideology gains ground; repeal of Corn Laws (1846) signals shift toward open markets.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold standard provides stable unit of account; Bank of England manages credit; periodic financial panics (1825, 1847); working-class savings minimal; friendly societies provide limited insurance functions.<br><br>
-__Surplus Extraction & Redistribution:__ Income tax reintroduced (1842); stamp duties and indirect taxes fund government; Poor Law redistributes to destitute at subsistence level; extraction load moderate by later standards.<br><br>
-__Wealth Distribution & Asset Defense:__ Land and capital concentrated in aristocracy and rising industrial bourgeoisie; working class owns little beyond household goods; wealth inequality widening during early industrialization; property law robustly protects holdings.<br><br>
-__Byproducts & Waste Routing:__ Factory effluent, coal smoke, and human waste dumped into rivers and air with minimal treatment; routing decision is externalization into shared sinks; volume growing faster than any recycling or sequestration effort.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Friendly societies, chapel networks, and working-class mutuality provide informal safety nets; trust radius extends within occupational and religious communities; Chartist and trade union solidarity builds horizontal bonds.<br><br>
-__Stratification, Status & Group Identity:__ Three-tier class system consolidating — landed aristocracy, industrial middle class, working class; Irish immigrants face ethnic prejudice; boundaries between middle and working class hardening; aristocratic-bourgeois boundary softening through intermarriage and shared interest.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family dominant in England; primogeniture preserves landed estates; factory employment draws women and children into wage labor, altering household dynamics; Irish extended kin networks persist among migrants.<br><br>
-__Civic Association & Self-Organization:__ Mechanics' institutes, temperance societies, nonconformist chapels, and working-class political unions proliferate; associational fabric thickening despite state suspicion of combination.<br><br>
-__Leisure, Play & Sociability:__ Pub culture, fairs, and popular sports (prize-fighting, early football) persist; middle-class reform movements promote "rational recreation"; factory hours limit leisure time for workers.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning (Chartist mass petitions), public meetings, strikes, and occasional riot provide discharge channels; Peterloo (1819) shows violent state response; some grievance absorbed through Reform Act, much left unmetabolized among disenfranchised working class.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy with power vested in Parliament; House of Lords retains veto until period's end; 1832 Reform Act shifts representation toward industrial towns and middle-class voters; executive authority concentrated in Cabinet.<br><br>
-__Succession & Power Transfer:__ Hanoverian succession stable; George III to George IV (1820) to William IV (1830) to Victoria (1837); ministerial change through parliamentary confidence, mostly orderly.<br><br>
-__Legitimacy & Political Narrative:__ Post-Napoleonic patriotic narrative; Whig reform narrative — gradual improvement through constitutional means; radicals challenge oligarchic legitimacy; Chartists argue for popular sovereignty; Crown retains symbolic legitimacy.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Central state capacity limited but growing — Poor Law Commission, factory inspectors, railway regulation; local government still dominated by justices of the peace and municipal corporations (reformed 1835); corruption declining through administrative reform.<br><br>
-__Political Participation & Mobilization:__ Mass petitions, public meetings, political unions organize extra-parliamentary pressure; 1832 enfranchises middle class; Chartism mobilizes working class but fails to achieve parliamentary reform; participation channels widening but slowly.<br><br>
-__Geopolitical Position & External Relations:__ Post-Napoleonic hegemon; no major European war; Pax Britannica enables commercial expansion; colonial acquisitions continue; Concert of Europe maintains balance; external military pressure minimal.<br><br>
-__Coercive Apparatus & Means of Force:__ Small professional army; local militias and yeomanry (Peterloo); nascent police forces (Metropolitan Police 1829); no standing army on home soil in strength; coercive capacity adequate for domestic order but not overwhelming.<br><br>
-__Internal Order & Threat Environment:__ Periodic unrest — Luddism fading, Peterloo, Swing riots (1830), Chartist demonstrations, Irish agitation; state capacity contains disorder without major repression; threat environment elevated but manageable.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print dominant; steam press accelerates production; mail coach then railway accelerate distribution; London papers reach provinces within a day; telegraph arrives late in window (1837) but not yet mass medium; oral networks remain important in working-class communities.<br><br>
-__Record, Storage & Persistence:__ Government archives, newspapers, parliamentary proceedings (Hansard from 1803), commercial records provide durable storage; print copies multiply and persist; institutional memory strengthening.<br><br>
-__Framing, Censorship & Discourse Norms:__ Stamp duties ("taxes on knowledge") suppress cheap press until partial reduction (1836); seditious libel prosecuted; unstamped press (Poor Man's Guardian) defies law; discourse norms permit vigorous political debate within propertied classes, constrain radical working-class expression.<br><br>
-__Reception, Attention & Amplification:__ Literacy expanding — perhaps 60% of adults by 1850; newspaper readership concentrated in middle class; working-class readers share papers in pubs and reading rooms; Chartist Northern Star achieves mass circulation; amplification through public reading aloud.<br><br>
-__Signal Integrity & Noise Load:__ Partisan press provides competing interpretations; no neutral verification institution; rumor and exaggeration circulate alongside factual reporting; signal-to-noise ratio adequate for political mobilization if not for precision.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Property rights foundational; emerging sense that law should protect workers too (factory acts); evangelical conscience influences reform; tension between individualist and paternalist notions of fair dealing.<br><br>
-__Law, Codification & Regulatory Evolution:__ Common law supplemented by statute; Factory Acts (1833, 1844) regulate child labor; Poor Law Amendment Act (1834) transforms relief; criminal law reformed (reduced capital offenses); regulatory state emerging.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts administer criminal and civil justice; magistrates handle petty offenses; enforcement uneven — factory inspectors few, unions prosecuted, property crimes punished harshly; liability doctrine developing for industrial accidents.<br><br>
-__Rights, Protections & Compliance Burden:__ Habeas corpus; jury trial; property rights secure for those who have property; workers' combination rights ambiguous until 1824–25 repeal of Combination Acts; compliance burden falls heavily on small tradesmen.<br><br>
-__Impunity & Unredressed Wrong:__ Industrial accidents often uncompensated; Peterloo perpetrators unpunished; magistrates partial to employers; impunity for powerful declines but remains substantial; backlog in Chancery notorious.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Political economy (Ricardo, Malthus, Mill) dominant explanatory framework; utilitarian philosophy (Bentham) influences reform; geological time discovered (Lyell); natural history advancing; empiricism and induction the prevailing method.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering profession consolidates; steam technology refined; textile machinery, iron and steel processes improve; technical knowledge transmitted through mechanics' institutes and practical apprenticeship; patent system incentivizes invention.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Elementary education expanding through voluntary societies and (late) state grants; literacy rising; university education reserved for elite; technical skill concentrated in artisan class; knowledge stock growing but distribution uneven by class.<br><br>
-__Obsolescence & Knowledge Decay:__ Pre-industrial craft knowledge eroding as factory production displaces artisans; handloom weavers' skills obsolete; classical education persists despite limited practical relevance; error-clearing slow but functional through empirical test.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Protestant nationalism; Magna Carta and "freeborn Englishman" narrative; Waterloo victory; anti-Catholic sentiment persists (though Catholic Emancipation 1829); Celtic nations retain distinct identities under English hegemony.<br><br>
-__Artistic Expression & Material Culture:__ Romantic poetry (Shelley, Keats, Byron) gives way to early Victorian realism (Dickens serialization begins); Gothic revival in architecture; industrial landscapes enter visual culture; popular print culture (broadsides, chapbooks) serves working class.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-Napoleonic confidence mixed with anxiety about social disorder; evangelical seriousness; working-class consciousness crystallizing; mood darkens in hungry forties, lifts slightly with repeal of Corn Laws and Chartist decline.<br><br>
-__Form Exhaustion & Meaning Decay:__ Aristocratic patronage system declining; established Church losing grip on industrial populations; Romantic forms becoming conventional; new forms (realist novel, political journalism) emerging to fill the gap.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian theism dominant but geological discoveries beginning to unsettle biblical chronology; providentialist outlook — God orders society; secular utilitarian ethics emerging among intellectuals; fatalism among poor coexists with evangelical hope.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Anglican parish worship for gentry; nonconformist chapel for middle and working classes; Methodist, Baptist, and Congregationalist practice intense; Irish Catholicism maintained; Sunday observance enforced by custom and law.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Established Church wealthy but losing urban working class; Oxford Movement begins (1833) reviving high church practice; nonconformist denominations organizationally robust; Catholic hierarchy restored (1850); doctrinal authority contested but institutional structures intact.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Methodist and evangelical revival continues spreading among working class; Irish immigration brings Catholicism into industrial cities; no major syncretism; Christianity dominant, secularism a minority intellectual position.<br><br>
-__Disenchantment & Sacred Discharge:__ Industrial work rhythms displace traditional sacred calendar; urban anonymity weakens parish bonds; secularizing drift visible among intellectual elite and some workers; disenchantment accumulating but not yet dominant.<br><br>
+# __1815 CE – 1850 CE — Reform Era and Unstamped Press__
+
+The binding constraint is the stamp duty regime that prices newspapers beyond working-class reach, compelling radical publishers to defy the law and creating an unstamped press whose illegal circulation politicizes artisan and factory populations precisely as industrial dislocation generates mass grievance. The most causal factor is the collision between an expanding literate working class demanding political voice and a fiscal-legal apparatus designed to confine print to propertied readers, a collision resolved only partially by the Reform Act of 1832 and the stamp reductions of 1836, leaving the press question unsettled until mid-century repeal.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ London remains the dominant print center, but Manchester, Birmingham, Leeds, Glasgow, and other industrial towns develop their own radical presses, newspapers, and reading rooms, reducing dependence on metropolitan distribution. The canal network, supplemented by emerging railways after 1830, accelerates delivery of newspapers and pamphlets to provincial readers within days rather than weeks.
+
+__Climate Regime & Volatility:__ Postwar agricultural depression (1815–1822) and poor harvests (notably 1816) compound industrial distress; the "year without a summer" (1816) following Tambora's eruption raises food prices and fuels unrest that radical print articulates.
+
+__Hazard Regime & Exposure:__ Cholera epidemics (1831–1832, 1848–1849) expose urban sanitary failures; reformist and radical papers publicize mortality differentials, linking public health to political representation.
+
+__Resource & Energy Endowment:__ Coal-fired steam power spreads through printing; iron-framed presses (Stanhope, Columbian) increase output. Paper remains expensive due to rag scarcity and excise duties until the 1840s, when wood-pulp experiments begin.
+
+__Waste Absorption & Sink Capacity:__ Urban industrial expansion overwhelms sanitary infrastructure; print describes and agitates against conditions in factory towns, but the physical degradation itself is not primarily a print-sector problem.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Infant mortality remains high in industrial districts (150–200 per 1,000 live births); typhus, cholera, and tuberculosis endemic in overcrowded housing. Radical and reform press campaigns link disease to poverty and disenfranchisement.
+
+__Nutrition & Physiological Vitality:__ Factory workers and agricultural laborers suffer malnutrition during depression years; Corn Laws (until 1846) keep bread prices high. The Anti-Corn Law League deploys print propaganda extensively.
+
+__Care, Healing & Recovery Capacity:__ Friendly societies and nonconformist chapels provide rudimentary mutual aid; hospital provision limited. Medical press expands; Lancet (1823) campaigns against abuses.
+
+__Reproductive Biology & Pairing Dynamics:__ Early factory employment alters household formation; child labor common. Malthusian debates enter print; birth-control pamphlets (Carlile, Place) circulate despite prosecution.
+
+__Demographic Renewal & Density:__ Population grows rapidly (England and Wales: ~10 million 1811 → ~18 million 1851), concentrated increasingly in industrial towns. This expanding, literate working class constitutes the readership unstamped papers address.
+
+__Attrition & Dependency Overhang:__ Poor Law Amendment Act (1834) reorganizes relief through workhouses; radical press denounces "Bastilles." Dependent populations become political subjects through print agitation.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Postwar deflation, demobilization, and agricultural mechanization produce widespread distress (1815–1822). Handloom weavers' displacement becomes emblematic; their decline documented and lamented in radical print.
+
+__Energy Capture & Conversion:__ Steam power transforms textile production and accelerates printing. The power loom and steam press share a logic: mechanical reproduction at scale.
+
+__Labor Organization & Coercion:__ Combination Acts (until 1824–1825) prohibit unions; Grand National Consolidated Trades Union (1834) collapses under prosecution. Unstamped press circulates among working-class readers organizing despite legal constraints.
+
+__Production & Surplus Capacity:__ Industrial output expands but cyclical depressions (1825–1826, 1837–1842, 1847–1848) cause repeated unemployment. Chartist and radical papers flourish during downturns when grievance peaks.
+
+__Storage, Reserves & Buffering:__ Government debt from Napoleonic Wars burdens the Treasury; corn tariffs generate revenue but raise bread costs. Stamp duties raise approximately 400,000 pounds annually from newspapers, financing state while constraining readership.
+
+__Exchange, Trade & Logistics:__ Free-trade agitation (Anti-Corn Law League, 1838–1846) deploys unprecedented print propaganda: tracts, newspapers, lectures reported in print. Railways enable same-day London paper delivery to Manchester by the 1840s.
+
+__Value Storage, Credit & Deferred Exchange:__ Bank of England dominance consolidates; country banks fail periodically. Joint-stock company legislation (1844) enables new capital formation including in publishing.
+
+__Surplus Extraction & Redistribution:__ Stamp duty on newspapers (4d. per copy until 1836, then 1d.) functions as a regressive tax excluding cheap papers. Unstamped papers selling at 1d.–2d. evade and defy it; prosecutions number in the hundreds.
+
+__Wealth Distribution & Asset Defense:__ Property qualifications exclude most from voting until 1832; even after, the electorate remains ~18% of adult males. Propertied press (The Times, Morning Chronicle) dominates respectable opinion; radical papers speak for the excluded.
+
+__Byproducts & Waste Routing:__ Industrial effluent degrades urban rivers; print agitation contributes to eventual public health reform but the era closes with sanitation unreformed.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Factory system disrupts traditional household economy; women and children in wage labor. Primogeniture persists among landed classes; middle-class inheritance patterns diversify.
+
+__Association & Mutual Aid:__ Friendly societies, cooperatives (Rochdale Pioneers, 1844), mechanics' institutes, and political unions proliferate. These associations subscribe to newspapers, maintain reading rooms, and distribute pamphlets.
+
+__Leisure, Play & Sociability:__ Public houses, coffee houses, and reading rooms serve as sites of newspaper circulation. A single unstamped paper may reach twenty or more readers through shared reading.
+
+__Stratification, Status & Group Structure:__ "Old Corruption" — the unreformed patronage system — attacked in radical print. Middle-class reform agitation (Reform Act 1832) and working-class Chartism (1838–1848) represent distinct but overlapping challenges.
+
+__Administrative Capacity & Institutional Integrity:__ Unreformed boroughs, plural voting, and restricted franchise characterize pre-1832 system. Municipal Corporations Act (1835) rationalizes local government. Metropolitan Police (1829) provides new enforcement capacity against radical meetings and sellers of unstamped papers.
+
+__Coercive Apparatus & Means of Force:__ Army used against demonstrators (Peterloo, 1819); yeomanry and constables prosecute unstamped sellers. Transportation, imprisonment, and fines punish publishers; martyrdoms (Richard Carlile, Henry Hetherington) become radical causes.
+
+__Discharge, Disorder & Decay:__ Captain Swing riots (1830), Reform Bill riots (1831), Newport Rising (1839), Chartist demonstrations (1842, 1848) mark the era. Radical press both reports and incites; repression and concession alternate.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Postwar disillusionment, economic distress, and exclusion generate radical anger; reform sentiment spreads into middle classes. The Reform Act partially defuses crisis; Chartism sustains working-class agitation but fragments after 1848.
+
+__Leadership & Personal Authority:__ Radical publishers (William Cobbett, Richard Carlile, Henry Hetherington, Bronterre O'Brien) achieve heroic status through prosecution and imprisonment. O'Connell in Ireland, Feargus O'Connor among Chartists, command mass followings through print and oratory.
+
+__Legitimacy as Lived Allegiance:__ The unreformed system loses legitimacy among wide publics; Reform Act restores partial consent from middle classes while Chartist rejection persists among workers.
+
+__Political Will & Collective Resolve:__ Mass petitions (Chartist petitions of 1839, 1842, 1848 gather millions of signatures), demonstrations, and strikes display collective will; print organizes, publicizes, and sustains these mobilizations.
+
+__External Relations & Posture:__ Post-Napoleonic settlement positions Britain as European arbiter; continental revolutions (1830, 1848) observed with sympathy by radicals, alarm by authorities. Emigration to colonies accelerates; emigrants carry radical print traditions.
+
+__Disaffection, Apathy & Spent Will:__ Chartism's failure to achieve its six points by 1850 produces demoralization; the movement fragments. Prosperity of the 1850s absorbs some grievance; disaffection persists but finds less organized expression.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Working-class literacy expands through Sunday schools, dame schools, and self-education; perhaps 60–70% of adult males functionally literate by 1840. Shared reading extends effective reach beyond purchasers.
+
+__Channels & Transmission Velocity:__ Mail-coach and (from 1830s) railway accelerate distribution; telegraph (1837) begins but does not yet transform newspaper production. Unstamped papers evade postal distribution through hawker networks and reading rooms.
+
+__Record, Storage & Persistence:__ Pamphlet literature accumulates in radical collections; Poor Man's Guardian (1831–1835), Northern Star (1837–1852) create sustained counter-archives. Home Office surveillance files document the illegal press.
+
+__Framing, Censorship & Discourse Norms:__ Stamp duty functions as economic censorship; seditious libel prosecutions target radical content. Six Acts (1819) restrict public meetings and cheap pamphlets. Gradual relaxation: stamp reduced (1836), libel prosecutions decline.
+
+__Reception, Attention & Amplification:__ Coffee houses and reading rooms amplify readership; oral reading extends reach to semi-literates. Chartist "exclusive dealing" campaigns and subscription networks sustain circulation.
+
+__Signal Integrity & Noise Load:__ Factional disputes within radicalism (moral-force vs. physical-force Chartism) fragment messaging. Government infiltration and informers compromise some networks; prosecution of sellers disrupts distribution.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Natural rights rhetoric (inherited from Paine) frames demands for universal suffrage, freedom of the press, and equal justice. Religious nonconformity reinforces moral critique of establishment corruption.
+
+__Law, Codification & Regulatory Evolution:__ Stamp Acts, Six Acts, and seditious libel statutes constitute legal framework. Fox's Libel Act (1792) allows juries to judge libel's substance; prosecutions continue but convictions become harder. Newspaper Stamp Duties Act (1836) reduces stamp to 1d., partial concession.
+
+__Adjudication, Liability & Sanction:__ Magistrates and Quarter Sessions try unstamped sellers; King's Bench tries publishers. Fines, imprisonment, and transportation punish defiance; hundreds prosecuted, dozens imprisoned.
+
+__Rights, Protections & Compliance Burden:__ No explicit press freedom guarantee; liberty argued from common law and precedent. Unstamped press asserts rights through civil disobedience, making prosecution politically costly.
+
+__Impunity & Unredressed Wrong:__ Authorities prosecute radical publishers while The Times and Morning Chronicle operate legally; class-differential enforcement visible. Peterloo massacre (1819) never prosecuted; this impunity fuels radical grievance.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Political economy (Ricardo, Malthus, James Mill) provides theoretical framework adopted and contested by radicals. Owenite socialism, Chartist land reform plans, and cooperative theory circulate in print.
+
+__Applied Knowledge & Technical Method:__ Iron press, stereotype, and steam printing (after 1814) enable larger editions. The technical capacity to produce cheap papers exists; fiscal law constrains its use.
+
+__Education, Knowledge Stock & Skill Distribution:__ Mechanics' institutes (from 1823), Society for the Diffusion of Useful Knowledge (1826), and self-improvement literature expand technical knowledge among artisans. Useful Knowledge Society publications compete with radical press for working-class readers.
+
+__Obsolescence & Knowledge Decay:__ Artisan skills (handloom weaving, hand-spinning) become obsolete; this displacement generates grievance that print articulates. Traditional radical tactics (petitioning, demonstration) prove insufficient; the era closes without resolution.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Radical tradition invokes Magna Carta, the "Norman Yoke," Cromwell, and Paine; English liberty as birthright denied by corruption. Peterloo becomes martyrdom narrative sustained in print and memory.
+
+__Legitimating Narrative & Ideology:__ Reform rhetoric frames the 1832 Act as restoration of balanced constitution; radical counter-narrative insists the people remain excluded. Anti-Corn Law League deploys free-trade ideology; Chartism asserts democratic sovereignty.
+
+__Artistic Expression & Material Culture:__ Radical iconography (cap of liberty, Britannia, satirical prints) flourishes; George Cruikshank and other caricaturists target corruption. Cheap woodcut illustrations appear in unstamped papers.
+
+__Form Exhaustion & Meaning Decay:__ Chartist rhetoric becomes repetitive by the late 1840s; the six points unrealized, the forms of agitation exhausted. The movement fragments, leaving cultural memory but spent forms.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Providentialist and millenarian strains appear in radical rhetoric; judgement on corruption anticipated. Secular rationalism (Carlile, Owen) competes with religious radicalism.
+
+__Ritual, Devotion & Sacred Practice:__ Chapel culture sustains nonconformist radicalism; camp meetings, temperance pledges, and Chartist Sunday schools blend religious and political practice.
+
+__Religious Institutions & Doctrinal Authority:__ Established Church identified with landed interest; dissent aligns with reform. Catholic Emancipation (1829) extends political rights; O'Connell's movement in Ireland relies on chapel networks and print.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Methodist schisms, Primitive Methodist growth, and Chartist Churches represent spiritual ferment. Secularist challenge (from Owen, Carlile) remains minority but visible.
+
+__Disenchantment & Sacred Discharge:__ The failure of Chartism and the persistence of inequality leave spiritual energies unresolved; some channel into revivalism, others into secularism. The era closes with neither the millennium nor democracy achieved.

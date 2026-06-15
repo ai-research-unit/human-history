@@ -1,69 +1,140 @@
 # __2,200 BCE – 2,000 BCE__ — The EBA III Disruption and Reorientation
-__Summary:__ A discrete macro-event spanning two centuries during which the established Early Bronze Age settlement pattern across the Aegean undergoes systemic disruption — marked by destruction horizons at sites including Lerna, Troy, and multiple Cycladic centers, population dislocations, and the emergence of the Lefkandi I/Kastri ceramic horizon indicating new population movements or cultural reorientations; the binding constraint shifts from maritime connectivity to defensive consolidation as the security environment deteriorates; system margin is consumed by destruction losses; the principal direction of change is contraction and reorientation toward Crete, setting the stage for Middle Bronze Age Minoan ascendancy.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Aegean archipelago and surrounding mainlands retain their established configuration; disruption concentrates at coastal and promontory settlements most exposed to maritime approach; interior refuge sites gain importance as friction shifts toward defensive terrain; the spatial arena remains unchanged but its strategic reading inverts.<br><br>
-__Climate Regime & Volatility:__ The 4.2 kiloyear climate event may introduce aridification stress across the eastern Mediterranean; evidence for drought conditions is debated but plausible; interannual rainfall variability may increase; if present, the climate shift narrows the provisioning band and amplifies subsistence stress.<br><br>
-__Hazard Regime & Exposure:__ No catastrophic seismic or volcanic events are attested for the immediate window; the hazard regime is anthropogenic — destruction by fire and violence at multiple sites; exposure to maritime raiding supersedes natural hazards as the principal threat.<br><br>
-__Resource & Energy Endowment:__ Metal ore access is disrupted by trade network breakdown; obsidian and marble sources remain physically available but exchange pathways contract; local resources are sufficient for subsistence but specialized production declines; the endowment is unchanged but access is constrained.<br><br>
-__Waste Absorption & Sink Capacity:__ Destruction debris (burnt structures, collapsed walls) accumulates at affected sites; population decline reduces ongoing waste generation; absorptive capacity remains ample; no sink saturation occurs.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Violence-related mortality spikes at destruction events; background disease load continues; population displacement may introduce pathogen mixing at refuge sites; overall mortality rate increases sharply during acute disruption phases then subsides; the baseline is destabilized.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural disruption and trade network collapse stress food supply; nutritional status likely declines during acute phases; skeletal evidence is limited but stress markers may increase; recovery depends on local production capacity at surviving settlements; vitality is degraded.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Displacement disrupts established pairing patterns; violence likely produces demographic imbalances (male mortality, female capture); reproductive output probably declines during acute disruption; pairing dynamics are destabilized but not fundamentally transformed.<br><br>
-__Demographic Renewal & Density:__ Population decline is evident from settlement abandonment and reduced site numbers; density drops across the archipelago; some regions (Cyclades, Argolid) are more severely affected than others; Crete shows relative continuity; renewal capacity is impaired across most of the Aegean.<br><br>
-__Attrition & Dependency Overhang:__ Violence produces widows, orphans, and injured dependents; productive population losses increase dependency ratios; community capacity to absorb the attrition burden is strained; overhang accumulates where population losses are severe.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural production continues at surviving settlements but overall output declines; subsistence strategies retreat toward local self-sufficiency as exchange networks collapse; the provisioning floor drops but does not fail entirely; household pooling intensifies.<br><br>
-__Energy Capture & Conversion:__ Labor loss reduces energy capture capacity; metallurgical activity contracts as ore supply and specialist populations disperse; per-capita energy throughput declines; the conversion regime simplifies toward subsistence-level requirements.<br><br>
-__Labor Organization & Coercion:__ Specialist craft production declines as networks collapse; labor organization retreats to household-scale agriculture and defense; possible increase in captive labor from raiding; coercion may increase as security deteriorates; the organization is simplified and localized.<br><br>
-__Production & Surplus Capacity:__ Surplus production contracts sharply; marble figurine production ceases or greatly diminishes; metallurgical output declines; ceramic production continues but with reduced elaboration; capacity falls to near-subsistence levels at many sites.<br><br>
-__Storage, Reserves & Buffering:__ Destruction events consume stored reserves (burnt granaries at Lerna); remaining communities operate with reduced buffers; capacity to absorb multi-season shocks is diminished; reserve depth is critically low during and immediately after disruption events.<br><br>
-__Exchange, Trade & Logistics:__ Pan-Aegean maritime networks fragment; long-distance exchange contracts dramatically; Lefkandi I/Kastri ceramic horizon indicates some continued movement but along different pathways; Cretan connections begin to dominate residual exchange; logistics are disrupted and reorienting.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Metal wealth is looted, buried, or dispersed; stored value is depleted; deferred-exchange obligations may default as partners disappear; the reciprocity network contracts to surviving kin and local groups; value storage collapses along with the broader system.<br><br>
-__Surplus Extraction & Redistribution:__ Whatever nascent extraction systems existed are disrupted by authority collapse; redistribution retreats to household and kin-group scale; no coordinated extraction apparatus survives the disruption at most sites; the extraction regime is effectively nullified.<br><br>
-__Wealth Distribution & Asset Defense:__ Accumulated wealth is destroyed, looted, or hidden; distribution flattens as elites lose their positions; asset defense becomes paramount — hoard burial increases; inequality may temporarily decrease before reconsolidating in new forms.<br><br>
-__Byproducts & Waste Routing:__ Production decline reduces waste generation; destruction debris is left in place or covered by subsequent occupation; no active waste management occurs; routing is passive abandonment; volumes are low relative to prior period.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks collapse along with exchange partnerships; stranger relations become hostile; mutual aid contracts to immediate kin and local community; the trust radius shrinks dramatically as insecurity prevails; social fabric is torn.<br><br>
-__Stratification, Status & Group Identity:__ Established status hierarchies are disrupted by violence and displacement; group identity fragments along lines of surviving communities; new identity markers (Lefkandi I ceramics) emerge among mobile populations; stratification is flattened then begins reconstituting.<br><br>
-__Kinship, Family & Inheritance:__ Kinship structures remain the primary organizing scaffold but are stressed by mortality and displacement; lineage continuity is broken where communities are destroyed; inheritance patterns are disrupted but the kinship framework persists as the fallback structure.<br><br>
-__Civic Association & Self-Organization:__ Collective action capacity is consumed by defense requirements; surviving communities may strengthen internal coordination; associational fabric thins as larger networks collapse but may thicken at local scale in response to threat.<br><br>
-__Leisure, Play & Sociability:__ Leisure activities contract as survival demands increase; mortuary ritual continues but with reduced elaboration; communal gatherings decline with network collapse; sociability retreats to household and immediate kin group.<br><br>
-__Grievance Channels & Social Discharge:__ Violence serves as direct grievance discharge but creates new grievances; mediation structures break down across collapsed networks; grievance accumulates between surviving groups; social friction is poorly metabolized, feeding ongoing conflict.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Established authority structures collapse with settlement destruction; power fragments to household and small-group level; warlord or raider-chief figures may emerge in some contexts; authority is contested and unstable; fragmentation reaches its maximum.<br><br>
-__Succession & Power Transfer:__ Routinized succession is impossible where authority structures are destroyed; transfer occurs through violence, flight, or improvised arrangement; legitimized succession is suspended; transfer is a constant flashpoint during the disruption.<br><br>
-__Legitimacy & Political Narrative:__ Traditional legitimacy based on ancestral precedent and exchange success loses purchase; no new legitimizing narrative is established during the disruption; authority operates through coercion and immediate necessity rather than accepted legitimacy.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Whatever minimal administrative capacity existed is destroyed; no record-keeping survives; coordination retreats to face-to-face kin relations; institutional integrity is null; capacity must be rebuilt from zero in successor communities.<br><br>
-__Political Participation & Mobilization:__ Mobilization is defensive and ad hoc; participation is universal for survival; collective action occurs for immediate defense rather than normal political process; the channels are emergency improvisations rather than established structures.<br><br>
-__Geopolitical Position & External Relations:__ The Cycladic-mainland-Anatolian network collapses; Crete emerges as the stable center toward which remnant relations orient; external relations are hostile across most interfaces; the Aegean geopolitical map is being redrawn with Cretan ascendancy beginning.<br><br>
-__Coercive Apparatus & Means of Force:__ Weapons remain bronze daggers, spears, and possibly bows; organized military capacity collapses at destroyed sites; raiders operate in small mobile groups; defensive forces are improvised; command of force is dispersed and contested.<br><br>
-__Internal Order & Threat Environment:__ Raiding, population displacement, and inter-community violence characterize the window; internal order within surviving communities may be maintained but is under constant external threat; disorder exceeds enforcement capacity across most of the region; the threat environment is acute.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Communication networks collapse with exchange networks; information moves through refugee and raider movements; velocity is irregular and pathways are disrupted; reach contracts to local and surviving kin networks.<br><br>
-__Record, Storage & Persistence:__ Oral memory is the sole record medium; destruction of communities means destruction of their stored knowledge; genealogies, route knowledge, and craft techniques are lost with their carriers; persistence is catastrophically degraded; knowledge loss is massive and unrecoverable.<br><br>
-__Framing, Censorship & Discourse Norms:__ Normal discourse norms are disrupted; crisis communication focuses on survival information; customary etiquette may break down under stress; framing shifts toward threat assessment and defensive coordination.<br><br>
-__Reception, Attention & Amplification:__ Attention focuses on immediate survival concerns; news of distant events does not propagate through collapsed networks; amplification occurs only within surviving local communities; the information horizon contracts severely.<br><br>
-__Signal Integrity & Noise Load:__ Conflicting reports, rumor, and deliberate deception increase noise load; verification capacity is minimal in crisis conditions; information quality degrades; the signal-to-noise ratio deteriorates sharply.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Traditional justice concepts persist but cannot be enacted across collapsed structures; sense of wrong is acute where violence has occurred; moral foundations remain but enforcement is absent; justice is deferred.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary rules are suspended where communities are destroyed; surviving communities maintain local taboos; no evolution occurs — the system is in stasis or regression; regulatory framework contracts to minimal survival rules.<br><br>
-__Adjudication, Enforcement & Liability:__ Third-party adjudication collapses with authority structures; enforcement is kin-based self-help or nonexistent; liability is collective but unenforceable across destroyed networks; adjudication capacity is near zero.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual protections evaporate outside kin-group defense; guest-host obligations are violated by raiders; compliance burden is irrelevant where rules cannot be enforced; the protective structure has collapsed.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity is total for successful raiders; accumulated wrongs from destruction and displacement go unredressed; the gap between justice owed and delivered reaches maximum; redress capacity is effectively zero for inter-group offenses.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Systematic inquiry halts during acute disruption; explanatory paradigms shift toward divine anger or cosmic disorder narratives to account for catastrophe; the discovery frontier is abandoned as survival takes precedence.<br><br>
-__Applied Knowledge & Technical Method:__ Metallurgical and craft techniques are lost with specialist populations; surviving knowledge retreats to basic agricultural and survival skills; technical method simplifies; complex techniques (silver cupellation, advanced marble working) decline or disappear regionally.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Apprenticeship chains are broken by mortality and displacement; the knowledge stock contracts severely; skill distribution narrows to basic subsistence competencies; specialist knowledge concentrates in refugia or is lost entirely.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge loss is not obsolescence but catastrophic destruction; techniques that would otherwise persist are lost with their practitioners; decay is rapid and irreversible for unwritten traditions; the intellectual heritage of EC II is substantially erased.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The disruption itself becomes a traumatic memory shaping subsequent identity; surviving narratives incorporate destruction and flight; ancestral connections are severed where lineages end; identity must be reconstructed around new foundational events.<br><br>
-__Artistic Expression & Material Culture:__ Marble figurine production ceases or radically diminishes; ceramic traditions simplify and shift (Lefkandi I/Kastri horizon); architectural ambition contracts to defensive functionality; the material culture of EC II is not continued; a break occurs.<br><br>
-__Collective Mood & Behavioral Disposition:__ Fear, grief, and defensive vigilance dominate; risk aversion replaces the expansive confidence of EC II; behavioral disposition shifts toward protective withdrawal; the mood is dark and unlikely to lift within the window.<br><br>
-__Form Exhaustion & Meaning Decay:__ EC II forms are not exhausted but terminated — the disruption cuts off traditions before internal decay; inherited symbols may lose meaning through context destruction; meaning decay results from social collapse rather than form exhaustion.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmological frameworks face challenge from unexplained catastrophe; existential outlook shifts toward fatalism or divine displeasure narratives; the balance tips away from practical confidence toward pious appeasement or resigned acceptance.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mortuary ritual continues but with reduced elaboration; crisis rituals (propitiation, purification) may intensify; regular devotional infrastructure is disrupted; practice becomes intermittent and focused on crisis management.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Whatever ritual authority existed is disrupted by community destruction; lineage-held sacred knowledge is lost with lineages; institutional continuity is broken; authority must reconstitute in successor communities.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Population movements create conditions for syncretism; Cretan spiritual elements may begin influencing Aegean practices as reorientation proceeds; displacement of local traditions occurs where communities are destroyed; the spiritual landscape is in flux.<br><br>
-__Disenchantment & Sacred Discharge:__ The catastrophe may produce spiritual crisis — either intensified religiosity or proto-disenchantment if cosmology fails to explain events; sacred discharge may occur if old frameworks prove inadequate; whether need is re-anchored or left as standing void depends on successor developments outside the window.<br><br>
+
+__Summary:__ Across two centuries the Aegean's Early Bronze Age order fractures: the House of Tiles at Lerna burns, Cycladic trade networks contract, and populations decline or relocate as drought, social stress, and possible raiding converge. The binding constraint of this oral-stage event is the fragility of orally-held systems under shock — the exchange obligations, the craft lineages, the route-lore, the legitimating genealogies that sustained the florescence are disrupted when their bearers die, disperse, or lose credibility, and what is not spoken is lost. When the dust settles, the Aegean faces Crete, where pre-palatial communities are consolidating toward the threshold of the palatial age.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Aegean's island-hopping geography remains unchanged, but the human networks that once exploited it fray; abandoned harbors and destroyed coastal sites increase effective maritime friction as safe ports and provisioning stops disappear from sailing routes.
+
+__Climate Regime & Volatility:__ The 4.2 ka event brings aridification across the Eastern Mediterranean; rainfall declines, growing seasons shorten, and multi-year drought stresses rainfed agriculture; the climate regime shifts from the relatively benign Holocene Optimum toward a drier, more volatile baseline.
+
+__Hazard Regime & Exposure:__ Drought is the dominant hazard; seismic activity may contribute to individual site destructions (Lerna, Tiryns), but the pattern of widespread abandonment points primarily to agrarian failure and social disruption rather than a single catastrophic event.
+
+__Resource & Energy Endowment:__ Metal ores, obsidian, and marble remain in place, but extraction and distribution networks contract as labor disperses and exchange collapses; accessible resources go unexploited when the social infrastructure to work them fails.
+
+__Waste Absorption & Sink Capacity:__ Population decline and site abandonment reduce anthropogenic pressure; the sink rebounds as fields go fallow, middens cease to grow, and metallurgical activity contracts; the physical residue of the disruption is abandonment, not saturation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Mortality spikes are likely due to famine, violence, and displacement rather than epidemic disease; skeletal evidence from destruction layers and refugee burials shows trauma and nutritional stress; the death rate rises sharply before stabilizing at lower population levels.
+
+__Nutrition & Physiological Vitality:__ Crop failures degrade nutritional status; stature and robustness decline in post-disruption generations; protein sources (fish, livestock) partially compensate, but caloric shortfalls are real and widespread.
+
+__Care, Healing & Recovery Capacity:__ Household-based healing continues, but the disruption of kin networks and the death of elder knowledge-holders degrades care capacity; refugees and survivors have less access to herbal remedies, midwifery expertise, and the social support that sustains the injured and ill.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage networks contract as populations disperse; endogamy within surviving communities intensifies; fertility may decline due to nutritional stress and social instability, reducing birth rates during the disruption.
+
+__Demographic Renewal & Density:__ Populations decline across the Aegean; site abandonments and reduced grave counts indicate net loss of perhaps 30–50% in affected regions; recovery is slow, with density remaining depressed into the subsequent Middle Bronze Age.
+
+__Attrition & Dependency Overhang:__ The disruption culls the dependent and vulnerable disproportionately — the very young, the very old, the infirm die in higher numbers; survivors are biased toward the able-bodied, reducing dependency ratios but at horrific human cost.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The provisioning floor collapses in drought-stricken areas; grain reserves are exhausted, livestock slaughtered, and wild foods over-exploited; famine drives abandonment, migration, and social breakdown; the floor recovers only as population declines to match reduced carrying capacity.
+
+__Energy Capture & Conversion:__ Human labor remains the primary energy source, but labor itself is scarce as populations decline; surplus energy for craft production, construction, and long-distance voyaging contracts sharply.
+
+__Labor Organization & Coercion:__ Household and kin-based labor organization persists, but specialist craft lineages are disrupted; survivors may be absorbed into new communities as dependents or refugees, increasing informal coercion as social hierarchies reconfigure.
+
+__Production & Surplus Capacity:__ Surplus production collapses; craft specialization declines as markets and patrons vanish; what surplus remains is consumed locally rather than entering exchange networks; the productive capacity of the Aegean drops precipitously.
+
+__Storage, Reserves & Buffering:__ Reserves are exhausted during the crisis; granaries are emptied, livestock consumed, and metal hoards dispersed or looted; buffering capacity is wiped out, leaving post-disruption communities vulnerable to subsequent shocks.
+
+__Exchange, Trade & Logistics:__ Maritime exchange networks contract dramatically; Cycladic trading centers are abandoned or destroyed; routes to Anatolia, Crete, and the Levant thin; long-distance exchange survives in attenuated form, with Crete emerging as a new hub absorbing some displaced trade.
+
+__Value Storage, Credit & Deferred Exchange:__ Oral contracts and remembered debts become worthless when counterparties die, disperse, or repudiate obligations; trust networks collapse; value storage shifts toward tangible goods (metal, livestock) that can be defended locally.
+
+__Surplus Extraction & Redistribution:__ Elite extraction collapses along with the elites themselves; redistribution through feasting and display ceases; survivors reorganize around subsistence imperatives rather than prestige accumulation.
+
+__Wealth Distribution & Asset Defense:__ Wealth is destroyed, looted, or abandoned; survivors emerge more equal in poverty; asset defense fails catastrophically for former elites, while mobile populations carry what they can and abandon the rest.
+
+__Byproducts & Waste Routing:__ Economic contraction reduces waste generation; destruction layers contain burned debris, but ongoing waste output declines with population and production; the material residue is abandonment rather than accumulation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship networks are torn by death, dispersal, and displacement; surviving kin-groups reconstitute in refugee communities or absorb strangers; inheritance patterns are disrupted as property is lost and lineages broken.
+
+__Association & Mutual Aid:__ Village-level cooperation breaks down in abandoned sites; refugees form new mutual-aid networks in receiving communities, but trust is shallow and social capital must be rebuilt; the fabric of association thins before slowly re-weaving.
+
+__Leisure, Play & Sociability:__ Communal feasting and ritual performance decline as surplus vanishes and communities disperse; sociability contracts to the household and immediate kin-group; the shared festive life of the florescence fades.
+
+__Stratification, Status & Group Structure:__ Elite status collapses along with the exchange networks that sustained it; destruction of elite centers (Lerna House of Tiles) marks the physical erasure of accumulated prestige; post-disruption communities are flatter, more egalitarian in their poverty.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administrative apparatus existed to collapse; personal leadership networks dissolve with the death or discrediting of leaders; oral consensus mechanisms persist in surviving communities but must rebuild around new figures.
+
+__Coercive Apparatus & Means of Force:__ Organized defense fails against raiders or the social collapse itself; fortifications are breached or abandoned; weaponry disperses into private hands; the capacity for collective violence remains but is no longer coordinated at the community level.
+
+__Discharge, Disorder & Decay:__ Disorder peaks during the disruption — raiding, arson, displacement, and possibly intra-community violence; the social fabric discharges its accumulated tensions catastrophically; decay sets in at abandoned sites, while surviving communities carry trauma and grievance into the aftermath.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence collapses; fear, grief, and desperation dominate; trust contracts to immediate kin; the expansive optimism of the florescence inverts into survival-focused anxiety; collective trauma marks the generation that lives through the disruption.
+
+__Leadership & Personal Authority:__ Established leaders lose credibility when they fail to prevent catastrophe; new leaders emerge among survivors — those who organize flight, defense, or resettlement — but their authority is provisional, tested by crisis.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to the old order evaporates; legitimacy must be rebuilt from demonstrated competence in the crisis; the genealogies and foundation stories that legitimated former elites lose their grip as the communities they anchored disappear.
+
+__Political Will & Collective Resolve:__ Will fragments; communities lack the cohesion for sustained collective action; individual and household survival takes precedence; only in the aftermath, as populations stabilize, does collective resolve begin to reconstitute.
+
+__External Relations & Posture:__ External relations collapse along with exchange networks; the posture toward outsiders shifts from exchange-oriented to defensive; refugees seek entry to surviving communities, straining hospitality norms; Crete, less affected, begins to absorb displaced populations and redirect exchange.
+
+__Disaffection, Apathy & Spent Will:__ Spent will and apathy settle over survivors; the energy to rebuild is slow to return; disaffection with the old ways opens space for new forms of social organization — pre-palatial Crete offers a glimpse of what will emerge.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language persists, but the dispersal of populations fragments dialect communities and breaks established communication networks; mutual intelligibility remains, but the social context that gave speech its full meaning — the shared references, the known genealogies — erodes.
+
+__Channels & Transmission Velocity:__ Maritime channels thin as ships cease to sail and ports are abandoned; information moves more slowly and over shorter distances; news from distant regions becomes sporadic; the Aegean information space contracts.
+
+__Record, Storage & Persistence:__ The catastrophe exposes the fragility of oral storage: when knowledge-bearers die, disperse, or lose authority, what they held dies with them. Craft recipes, route-lore, genealogies, and exchange debts are lost wholesale; the informational capital of the florescence is not transferred to the next era.
+
+__Framing, Censorship & Discourse Norms:__ Old narratives of legitimacy and prosperity lose their purchase; survivors must construct new stories to make sense of the catastrophe — divine punishment, ancestral failure, or hostile outsiders — reframing the past to fit the diminished present.
+
+__Reception, Attention & Amplification:__ Communal gatherings that once amplified shared narratives cease or diminish; attention turns inward to household survival; the social infrastructure of amplification must be rebuilt in the aftermath.
+
+__Signal Integrity & Noise Load:__ Signal integrity collapses; competing accounts of what happened, who is to blame, and what obligations survive generate noise that will take generations to settle; the disruption leaves a contested, fragmentary record in oral memory.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity and hospitality norms strain under crisis; debts go unpaid, guests are turned away, kin obligations are violated out of necessity; the moral foundations survive but are bruised, and the gap between ideal and practice widens.
+
+__Law, Codification & Regulatory Evolution:__ Customary norms persist in surviving communities but lose enforcement capacity; new norms must be negotiated in refugee and reconstituted communities; the disruption is a moment of moral re-founding.
+
+__Adjudication, Liability & Sanction:__ Elder authority to adjudicate is weakened when elders die or lose credibility; disputes may go unresolved or be settled by force; the disruption increases the domain of impunity.
+
+__Rights, Protections & Compliance Burden:__ Property rights collapse along with property; survivors' rights are contingent on acceptance into new communities; compliance burden shifts from communal obligation to raw survival.
+
+__Impunity & Unredressed Wrong:__ Impunity peaks during the disruption; wrongs committed in the crisis — looting, violence, betrayal — go unredressed; grievances are carried forward as unhealed wounds, shaping post-disruption social relations.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry exists; the disruption is explained through tradition and divine will — the gods withdrew favor, the ancestors were offended, the world turned against the people; empirical observation of drought and crop failure is registered but not theorized.
+
+__Applied Knowledge & Technical Method:__ Craft knowledge is lost as specialist lineages are broken; metallurgical and carving techniques degrade or disappear in affected regions; surviving communities retain subsistence skills but lose advanced crafts; Crete, less disrupted, preserves more of the technical heritage.
+
+__Education, Knowledge Stock & Skill Distribution:__ The knowledge stock contracts sharply; oral transmission is interrupted; skill distribution narrows as specialists die without successors; the disruption is an intellectual catastrophe masked by the absence of written record.
+
+__Obsolescence & Knowledge Decay:__ The disruption accelerates knowledge decay beyond normal generational loss; techniques that took centuries to develop are erased in decades; the residue is not superseded theory but vanished capability — skills that survivors know existed but cannot reproduce.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The disruption will be remembered — if at all — as a catastrophic rupture, a before-and-after that divides ancestral time from the diminished present. Foundational identities rooted in the florescence lose their anchor as the communities that held them disperse; new identities must be forged in the aftermath.
+
+__Legitimating Narrative & Ideology:__ The narratives that legitimated the old elite lose their force; survivors construct new stories — tales of survival, refounding, and divine rescue — that will become the foundational myths of post-disruption communities.
+
+__Artistic Expression & Material Culture:__ Cycladic figurine production ceases or declines dramatically; the aesthetic achievement of the florescence is not continued; material culture simplifies as craft capacity contracts; what survives is functional rather than expressive.
+
+__Form Exhaustion & Meaning Decay:__ Forms do not exhaust themselves through repetition but are violently terminated; meaning decays not through staleness but through the death of those who held it; the cultural residue is absence — the figurine styles, the incised ships, the painted pottery that are no longer made.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The catastrophe tests cosmological confidence; survivors may interpret it as divine punishment, cosmic cycle, or the wrath of neglected powers; fatalism deepens as human agency appears impotent against drought and destruction; the existential outlook darkens.
+
+__Ritual, Devotion & Sacred Practice:__ Funerary ritual is disrupted by mass death and displacement; the elaborate grave preparations of the florescence give way to simpler, hastier burials; household and communal rites contract along with the communities that performed them; devotion persists but in diminished, improvised forms.
+
+__Religious Institutions & Doctrinal Authority:__ No formal religious institutions existed to collapse; ritual specialists and elders who held sacred knowledge die or lose authority; doctrinal continuity depends on survivors transmitting what they remember — and much is not transmitted.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Displacement mixes populations and spiritual traditions; refugees bring their gods and rites into receiving communities, creating conditions for syncretism; Crete, absorbing displaced Aegean populations, begins the synthesis that will underpin Minoan religion.
+
+__Disenchantment & Sacred Discharge:__ The sacred does not lose its grip through secular drift but through the death of its bearers; the residue is not disenchantment but spiritual trauma — the sense that the gods failed or were never listening. Re-anchoring will occur as new communities consolidate new rites, but for the survivors of the disruption, the sacred has discharged much of its comforting power.
+

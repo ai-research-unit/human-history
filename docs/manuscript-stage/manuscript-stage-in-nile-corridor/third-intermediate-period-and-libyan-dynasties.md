@@ -1,69 +1,140 @@
-# __1069 BCE – 664 BCE__ — Third Intermediate Period and Libyan Dynasties
-__Summary:__ Four centuries of political fragmentation following New Kingdom collapse, with power divided between Tanite pharaohs in the Delta, Theban high priests of Amun, and Libyan military dynasties; binding constraint is the absence of unified central authority, producing overlapping claims, regional autonomy, and shifting coalitions; Kushite reunification under the Twenty-fifth Dynasty ends with Assyrian invasions that shatter remaining cohesion; margin against external shock proves minimal when Assyria intervenes; direction is toward increasing decentralization until Kushite consolidation, then rapid collapse under foreign assault.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor remains the primary axis of movement and settlement; Delta marshes and Upper Egyptian valley separated by natural terrain, facilitating political division between northern and southern power centers; Thebes and Tanis anchor their respective spheres.<br><br>
-__Climate Regime & Volatility:__ Stable Nile flood regime continues, though some evidence suggests periodic low floods contributing to economic stress; interannual variability remains within historical norms for the region.<br><br>
-__Hazard Regime & Exposure:__ Flood variability presents the primary hazard; no catastrophic environmental shocks attested, though low floods periodically strain provisioning in marginal years.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils retain fertility through annual flooding; gold from Nubian mines, copper, stone quarries remain accessible though exploitation intensity varies with political capacity; timber imported from Levant as in prior periods.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and settlement waste remains negligible relative to the valley's absorptive capacity; no evidence of landscape degradation beyond localized erosion near quarrying sites.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease profile stable; parasitic infections from irrigation canals continue; no pandemic events attested; mortality baseline comparable to New Kingdom patterns.<br><br>
-__Nutrition & Physiological Vitality:__ Skeletal evidence suggests adequate nutrition for most of the population when floods are regular; elite tombs indicate continued access to diverse foodstuffs; periodic low floods would stress lower strata.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage patterns follow established Egyptian norms; royal polygyny continues; no significant shifts in reproductive biology attested.<br><br>
-__Demographic Renewal & Density:__ Population stable or slightly declining from New Kingdom peak; Libyan settlement in Delta adds military colonists; no evidence of dramatic demographic shifts.<br><br>
-__Attrition & Dependency Overhang:__ Fragmentary evidence; dependent populations (elderly, orphaned) absorbed through temple economies and extended kin networks as in prior periods; no systemic crisis attested.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural base remains intact; temple estates and local administrators maintain irrigation and granary systems; subsistence generally secure except during low-flood years.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary energy sources; irrigation technology unchanged; bronze tools standard; iron slowly introduced late in period.<br><br>
-__Labor Organization & Coercion:__ Corvee labor continues for state projects though at reduced scale; temple estates employ attached workers; slave labor present but not dominant; Libyan military settlers form distinct labor class.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus continues but extraction and redistribution fragmented among competing authorities; temple workshops maintain craft production; monumental construction diminished from New Kingdom scale.<br><br>
-__Storage, Reserves & Buffering:__ Temple granaries serve as primary reserves; fragmented political authority means no unified strategic reserve; local buffering capacity adequate for normal variability.<br><br>
-__Exchange, Trade & Logistics:__ International trade contracts from New Kingdom peak; Levantine connections persist; Phoenician traders increasingly active; internal exchange continues through temple redistribution and local markets.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Grain and metal weights serve as value standards; temple accounts record credits and obligations; no coinage; reciprocal obligations structure exchange.<br><br>
-__Surplus Extraction & Redistribution:__ Multiple competing authorities extract from overlapping territories; temple estates collect directly; Libyan chiefs maintain military retinues from local surplus; no unified fiscal system.<br><br>
-__Wealth Distribution & Asset Defense:__ Elite wealth concentrated in temple offices and military commands; land tenure fragmented; provincial families accumulate local holdings; tomb goods indicate continued elite prosperity.<br><br>
-__Byproducts & Waste Routing:__ Craft production waste (metal slag, pottery sherds) accumulates at production sites; agricultural waste recycled as fertilizer or fuel; no systemic waste management issues attested.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship and local community bonds remain strong; trust radius extends within ethnic and professional groups (Libyan military, priestly families, artisan communities); cross-regional trust weakened by political fragmentation.<br><br>
-__Stratification, Status & Group Identity:__ Libyan military elite forms new stratum alongside traditional priestly and scribal classes; ethnic distinctions (Egyptian, Libyan, later Kushite) become politically salient; traditional status markers persist.<br><br>
-__Kinship, Family & Inheritance:__ Egyptian bilateral kinship continues; Libyan chiefly families introduce patrilineal military succession; intermarriage between Libyan elite and Egyptian priestly families produces hybrid ruling class.<br><br>
-__Civic Association & Self-Organization:__ Temple communities provide primary associational structure; professional guilds persist; local councils manage community affairs in absence of strong central authority.<br><br>
-__Leisure, Play & Sociability:__ Festivals continue at major temples; local celebrations persist; elite leisure includes hunting, banqueting; evidence for continuity of New Kingdom social practices.<br><br>
-__Grievance Channels & Social Discharge:__ Temple authorities handle local disputes; fragmented political authority means grievances against one power center may find alternative patron; mobility between zones possible; unresolved grievances accumulate where authority is weak or contested.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Radically fragmented: Tanite pharaohs claim nominal sovereignty in Delta; Theban high priests of Amun exercise theocratic rule in Upper Egypt; Libyan military chiefs (Great Chiefs of the Ma/Meshwesh) hold autonomous territories; Kushite kings eventually reunify briefly before Assyrian destruction.<br><br>
-__Succession & Power Transfer:__ Multiple overlapping succession systems: royal succession at Tanis, priestly succession at Thebes, military chieftainship among Libyans; all relatively stable within their spheres but contested between them.<br><br>
-__Legitimacy & Political Narrative:__ Competing legitimacy claims: Tanite kings emphasize royal tradition; Theban priests claim divine mandate of Amun; Libyan chiefs derive authority from military prowess and control of armed retinues; Kushite pharaohs present themselves as restorers of true Egyptian tradition.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Reduced from New Kingdom centralization; temple administrations remain competent within their domains; royal administration limited to Delta; provincial administration localized; record-keeping continues but fragmented.<br><br>
-__Political Participation & Mobilization:__ Elite participation through priestly councils, military assemblies, and court factions; popular mobilization limited; oracular consultation at Thebes provides channel for divine legitimation of decisions.<br><br>
-__Geopolitical Position & External Relations:__ Egypt's international position much diminished; defensive posture predominates; Assyrian empire poses existential threat from late 8th century; Kushite involvement brings Nubian power into Egyptian politics.<br><br>
-__Coercive Apparatus & Means of Force:__ Fragmented among Libyan military chiefs, royal guards, and temple militias; no unified army; bronze weaponry standard; iron slowly introduced; chariotry persists but reduced from New Kingdom scale.<br><br>
-__Internal Order & Threat Environment:__ Inter-regional conflict between competing dynasties; banditry increases in weakly governed areas; temples provide sanctuary; Assyrian invasions (671, 663 BCE) demonstrate inability to resist external attack.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information moves via Nile transport and messengers as before; fragmentation means multiple parallel channels serving different authorities; no unified royal dispatch system.<br><br>
-__Record, Storage & Persistence:__ Temple archives continue; hieratic remains administrative script; hieroglyphic for monumental purposes; papyrus standard medium; records persist where institutions survive.<br><br>
-__Framing, Censorship & Discourse Norms:__ Each power center controls its own narrative; Theban texts emphasize Amun's supremacy; royal inscriptions at Tanis maintain pharaonic conventions; no unified propaganda apparatus.<br><br>
-__Reception, Attention & Amplification:__ Temple festivals and oracular pronouncements amplify priestly messages; royal monuments reach limited audience; literacy remains restricted to scribal class.<br><br>
-__Signal Integrity & Noise Load:__ Competing claims and fragmentary authority introduce noise; verification difficult across political boundaries; local archives maintain internal coherence.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Ma'at (cosmic order, justice, truth) remains foundational concept; violation of ma'at understood as threat to cosmic and social stability; traditional Egyptian ethical framework persists.<br><br>
-__Law, Codification & Regulatory Evolution:__ Pharaonic legal traditions continue; temple law governs religious matters; no evidence of significant legal innovation; customary law predominates in practice.<br><br>
-__Adjudication, Enforcement & Liability:__ Local authorities adjudicate disputes; temple courts handle religious and property matters; oracles consulted for difficult cases; enforcement capacity limited to territory each authority controls.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights recognized within each political sphere; temple privileges protected; ordinary compliance burden varies by locality and governing authority.<br><br>
-__Impunity & Unredressed Wrong:__ Fragmented authority creates zones of impunity; inter-regional disputes difficult to resolve; powerful actors may escape sanction by moving between jurisdictions; accumulated grievances where authority breaks down.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Traditional Egyptian cosmology and learning persist; no major theoretical innovations attested; priestly knowledge transmission continues within temple schools.<br><br>
-__Applied Knowledge & Technical Method:__ Established techniques in medicine, astronomy, construction, metallurgy maintained; iron-working slowly adopted from Levantine contacts; no transformative technical breakthroughs.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Temple schools continue scribal training; literacy restricted to professional class; knowledge stock stable but not expanding; skill transmission through apprenticeship.<br><br>
-__Obsolescence & Knowledge Decay:__ Some New Kingdom administrative knowledge may atrophy with reduced state capacity; religious and technical knowledge preserved within temples; no catastrophic knowledge loss attested.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Egyptian identity remains grounded in pharaonic tradition, Nile, and divine kingship; Libyan rulers adopt Egyptian cultural forms; memory of New Kingdom greatness provides reference point.<br><br>
-__Artistic Expression & Material Culture:__ Artistic production continues at reduced scale; archaizing tendencies emerge, referencing Old and Middle Kingdom styles; tomb decoration, temple relief, bronze work maintain quality where patronage exists.<br><br>
-__Collective Mood & Behavioral Disposition:__ Evidence fragmentary; likely regional variation; temple communities maintain ritual confidence; political uncertainty may foster localized anxiety; no unified public mood attested.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional pharaonic forms increasingly formulaic; royal titulary maintained but sovereignty fragmented; religious forms retain vitality through temple practice; political symbols losing coherence.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Traditional Egyptian cosmology persists; afterlife beliefs continue; Osirian and solar theologies maintained; no fundamental cosmological shifts.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple rituals continue at major centers; daily cult maintained where resources permit; personal piety through amulets, votive offerings, oracular consultation widespread.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Amun priesthood at Thebes becomes quasi-independent theocracy; temple estates wield economic and political power; priestly families consolidate control; no doctrinal conflicts attested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Egyptian religion remains dominant; Libyan rulers adopt Egyptian gods; some Libyan deities incorporated; no major external religious influences.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of significant disenchantment; temple religion maintains its hold; political fragmentation does not appear to undermine religious commitment; sacred order provides stability amid political disorder.<br><br>
+# __1069 BCE – 664 BCE — Third Intermediate Period and Libyan Dynasties__
+
+__Summary:__ Egypt fragments into competing power centers after New Kingdom collapse, with Libyan military settlers establishing dynasties in the Delta while Theban high priests control Upper Egypt; the binding constraint is the incapacity of any single center to monopolize the Nile's agricultural surplus and military manpower, producing four centuries of decentralized rule until Nubian and then Assyrian intervention forces reunification and defeat.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile Corridor's north-south axis naturally facilitates fragmentation when central authority weakens: the Delta's fan-shaped network of branches favors multiple port cities (Tanis, Bubastis, Sais) competing for Mediterranean access, while Upper Egypt centers on Thebes with its temple complexes and access to Nubian trade routes through the cataracts.
+
+__Climate Regime & Volatility:__ The annual flood cycle continues to govern agricultural rhythm, though low floods documented in late New Kingdom persist sporadically; the corridor's narrow habitable strip (never more than twenty kilometers wide) concentrates population and makes control of irrigation infrastructure the basis of local power.
+
+__Hazard Regime & Exposure:__ Desert margins provide defensive buffer against casual incursion but cannot halt determined military campaigns; the Delta's flat topography offers no natural defensive positions, leaving cities dependent on fortification and alliance networks rather than terrain.
+
+__Resource & Energy Endowment:__ Agricultural land remains productive where irrigation continues; gold from Nubian mines flows through Theban-controlled trade networks; papyrus cultivation in the Delta supplies writing material; timber remains scarce, imported from Lebanon when trade routes allow.
+
+__Waste Absorption & Sink Capacity:__ The annual flood's silt deposition renews agricultural land; urban waste accumulates in tell formation at long-occupied sites; the Nile's flow carries waste northward, with the Delta marshes absorbing river-borne discharge before Mediterranean release.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic parasitic infections (schistosomiasis, malaria in Delta marshes) persist; urban density at major centers supports epidemic transmission; population remains stable or contracts from New Kingdom peaks of perhaps 3-4 million.
+
+__Nutrition & Physiological Vitality:__ The cereal-based diet (emmer wheat, barley) supplemented by fish, vegetables, and occasional meat sustains working populations; temple distributions and local granaries buffer local shortfalls when regional coordination fails.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge accumulated in temple scriptoria continues transmission; physician-priests serve elite populations; folk remedies serve agricultural majority; trauma care remains limited to wound-binding and herbal treatment.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny permitted for elites; brother-sister marriage among royal families concentrates inheritance; commoner families practice serial monogamy with relatively easy divorce documented in surviving contracts.
+
+__Demographic Renewal & Density:__ Population concentrated in Delta cities and along Upper Egyptian floodplain; Libyan settlers add military caste in Delta garrison towns; Nubian populations increase in Upper Egypt during Dynasty 25; overall demographic stagnation reflects political instability.
+
+__Attrition & Dependency Overhang:__ Temple estates support elderly priests and dependent populations; military retainer households absorb veterans; orphan and widow support falls to extended kin networks when state mechanisms fragment.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basin irrigation supports two grain crops annually where maintained; date palms, vegetables, and fish supplement cereals; household gardens within flood-reach provide dietary diversity; provisioning disrupted during military campaigns and succession conflicts.
+
+__Energy Capture & Conversion:__ Human labor remains primary; animal traction (oxen, donkeys) for plowing and transport; water-lifting devices (shaduf) extend irrigation reach; firewood and dung fuel domestic cooking and craft production.
+
+__Labor Organization & Coercion:__ Corvee labor for temple and state projects persists where authority can enforce it; military service provides alternative pathway for Libyan settlers; debt bondage documented; chattel slavery of war captives continues.
+
+__Production & Surplus Capacity:__ Agricultural surplus flows to whoever controls irrigation infrastructure and granary networks; temple estates at Thebes accumulate independently of royal taxation; Delta cities control Mediterranean trade surplus; fragmentation reduces total surplus extraction below New Kingdom levels.
+
+__Storage, Reserves & Buffering:__ Temple granaries at Karnak, Medinet Habu, and Delta cult centers store multi-year reserves; royal treasuries at Tanis and Thebes diminished from New Kingdom peaks; private wealth accumulation documented in tomb goods and land transfers.
+
+__Exchange, Trade & Logistics:__ Mediterranean trade continues through Delta ports; Phoenician merchants increasingly dominate sea routes; Libyan desert routes supply mercenaries and luxury goods; Nubian gold and ivory flow through Theban networks; internal trade disrupted by political boundaries.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver and gold by weight serve as value standard for major transactions; grain rations remain medium of payment for labor; temple accounts track obligations in commodity equivalents; credit relationships documented in contracts.
+
+__Surplus Extraction & Redistribution:__ Competing centers extract from their respective hinterlands; temple estates resist royal taxation claims; Libyan military chiefs extract tribute from territories under their protection; no single authority achieves New Kingdom extraction levels.
+
+__Wealth Distribution & Asset Defense:__ Royal tomb robbery at Thebes signals wealth transfer from dead kings to living populations; elite burials shift to temple precincts for protection; land concentration in temple estates accelerates; mercenary service provides upward mobility for Libyans.
+
+__Byproducts & Waste Routing:__ Craft production waste (pottery shards, metalworking slag) accumulates at production sites; agricultural waste recycled as fuel and fertilizer; urban waste disposal follows traditional patterns of tell accumulation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended patrilineal households remain basic units; inheritance practices documented in legal papyri; Libyan chiefs introduce military-clan organization superimposed on Egyptian structures; priestly families consolidate hereditary office-holding.
+
+__Association & Mutual Aid:__ Temple communities provide framework for mutual support; craft guilds maintain occupational solidarity; military retainer bands create loyalty networks around Libyan chiefs; neighborhood associations documented in urban contexts.
+
+__Leisure, Play & Sociability:__ Festival calendars continue temple-centered celebrations; musical performance documented in tomb paintings; board games (senet) remain popular; beer consumption structures social interaction at all levels.
+
+__Stratification, Status & Group Structure:__ Libyan military chiefs constitute new elite stratum; traditional Egyptian priesthood retains status through temple wealth; native scribal class serves all masters; commoner agriculturalists remain base population; ethnic-military hierarchy overlays traditional class structure.
+
+__Administrative Capacity & Institutional Integrity:__ Tanis kings maintain truncated royal bureaucracy; Theban high priests operate temple administration as quasi-governmental structure; local nomarchs exercise autonomy within ethnic-political boundaries; no central archive coordinates cross-regional administration.
+
+__Coercive Apparatus & Means of Force:__ Libyan warriors organized in tribal military units (meshwesh, libu) form core of Delta armies; chariots remain elite arm but declining in importance; Nubian archers serve both Delta and Theban masters; no single force achieves valley-wide dominance until Kushite intervention.
+
+__Discharge, Disorder & Decay:__ Civil conflicts between competing dynasties produce periodic warfare; tomb robbery at Thebes signals social breakdown; mercenary forces act as autonomous agents; reunification under Dynasty 25 temporarily restores order before Assyrian destruction.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Nostalgia for New Kingdom greatness pervades elite discourse; religious piety intensifies as theodicy for decline; local loyalties supersede valley-wide identity; fatalism documented in wisdom literature.
+
+__Leadership & Personal Authority:__ Libyan chiefs derive authority from military prowess and kinship networks; high priests of Amun claim divine mandate through oracle consultation; Nubian kings present themselves as restorers of traditional pharaonic order; personal charisma matters more than institutional position.
+
+__Legitimacy as Lived Allegiance:__ Competing legitimacy claims fragment loyalty; Delta kings claim full pharaonic titulary; Theban priests claim divine sanction; local populations transfer allegiance to whoever provides security and patronage; Kushite rulers invoke religious restoration to claim pan-Egyptian authority.
+
+__Political Will & Collective Resolve:__ Factional conflicts absorb elite energies; no dynasty sustains multi-generational expansion program; defensive posture predominates; only Kushite Dynasty 25 attempts valley-wide projects before external intervention.
+
+__External Relations & Posture:__ Libyan connections provide mercenary recruitment networks; Phoenician commercial relations continue; Nubian kingdom rises as rival and eventually conquering power; Assyrian empire looms as existential threat by late period; Egyptian states generally reactive rather than expansionist.
+
+__Disaffection, Apathy & Spent Will:__ Elite investment in mortuary rather than political futures signals withdrawal from public engagement; New Kingdom imperial ambitions abandoned; local security concerns dominate over collective projects; four centuries without sustained reunification reflect collective exhaustion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hieratic remains standard scribal script; hieroglyphic reserved for monumental inscriptions; demotic begins development in late period; Greek not yet relevant; scribal training continues in temple schools and court contexts.
+
+__Channels & Transmission Velocity:__ River transport carries correspondence at Nile current speed (downstream faster); messenger networks serve royal and temple administrations; no single authority controls valley-wide communication; information moves within political boundaries more easily than across them.
+
+__Record, Storage & Persistence:__ Temple archives at Thebes preserve ritual and administrative records; royal records at Tanis document Delta dynasty activities; local administration leaves scattered papyrus documentation; no central archive integrates valley-wide records; fire and decay destroy unknown quantities.
+
+__Framing, Censorship & Discourse Norms:__ Royal inscriptions maintain pharaonic conventions despite political fragmentation; temple texts continue traditional religious formulae; legitimacy claims expressed in conventional terms regardless of actual power relations; competing narratives coexist without resolution.
+
+__Reception, Attention & Amplification:__ Literate audience remains small (perhaps 1-5% of population); oral recitation transmits important texts to broader audiences; temple festivals broadcast royal and religious messages; rumor networks documented in correspondence.
+
+__Signal Integrity & Noise Load:__ Competing royal claims create confusion about legitimate authority; temple records maintain internal consistency; local archives serve local needs without coordination; no mechanism exists to reconcile contradictory accounts across political boundaries.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Ma'at (cosmic order, justice, truth) remains foundational concept; disorder attributed to moral as well as political failure; temple ideology emphasizes pharaonic responsibility for maintaining cosmic balance; practical morality emphasizes reciprocity and oath-keeping.
+
+__Law, Codification & Regulatory Evolution:__ Legal practice continues on local basis; marriage contracts, land transfers, and dispute resolution documented; no new central codification; customary law adapts to Libyan military organization; oracular consultation serves adjudicative function.
+
+__Adjudication, Liability & Sanction:__ Temple courts and royal courts (where they function) hear cases; oracles of Amun at Thebes pronounce on disputes; local officials adjudicate routine matters; corporal punishment and property sanctions documented; execution for serious crimes.
+
+__Rights, Protections & Compliance Burden:__ Property rights documented in contracts; temple asylum provides sanctuary; women retain property and divorce rights; compliance burden varies with effective authority in each region.
+
+__Impunity & Unredressed Wrong:__ Tomb robbery at Thebes demonstrates failure of royal protection for dead and their endowments; military chiefs act with impunity within their territories; succession conflicts resolved by force rather than law; justice gaps widen as central authority fragments.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Traditional astronomical observation continues in temples; medical knowledge transmitted through priestly training; no new theoretical developments; preservation rather than innovation characterizes intellectual life.
+
+__Applied Knowledge & Technical Method:__ Building techniques maintained but applied to smaller projects; metalworking continues; mummification practices evolve with reduced royal patronage; irrigation engineering maintained at local level.
+
+__Education, Knowledge Stock & Skill Distribution:__ Temple schools preserve scribal training; copyist tradition maintains textual transmission; knowledge increasingly concentrated in hereditary priestly families; broader literacy may decline with reduced state patronage.
+
+__Obsolescence & Knowledge Decay:__ Some technical knowledge lost as large-scale projects cease; linguistic change distances contemporary Egyptian from classical Middle Egyptian texts; royal tomb construction techniques deteriorate; preservation emphasis reflects anxiety about cultural loss.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ New Kingdom empire remembered as golden age; Ramesside ancestors invoked for legitimacy; local cult traditions strengthen as valley-wide identity weakens; Libyan settlers adopt Egyptian religious practices while maintaining distinct military identity.
+
+__Legitimating Narrative & Ideology:__ Competing rulers all claim pharaonic legitimacy through traditional titulary and ritual performance; high priests claim divine mandate through oracle; Nubian kings present themselves as true heirs of Egyptian tradition; no single narrative achieves general acceptance.
+
+__Artistic Expression & Material Culture:__ Royal art continues pharaonic conventions with reduced scale and resources; Libyan military elites commission distinctively decorated objects; temple decoration maintains traditional iconography; tomb paintings continue in Theban necropolis at reduced scale.
+
+__Form Exhaustion & Meaning Decay:__ Pharaonic forms persist but with diminished conviction; multiple competing claims hollow out exclusive legitimacy ideology; traditional motifs continue without New Kingdom vitality; archaizing tendencies signal recognition of cultural decline.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Traditional Egyptian cosmology persists; solar theology (Amun-Ra) central at Thebes; Osirian afterlife beliefs democratize further; personal piety intensifies as state religion fragments; theodicy of decline attributes suffering to cosmic imbalance.
+
+__Ritual, Devotion & Sacred Practice:__ Temple rituals continue where endowments support priesthoods; Opet festival at Thebes maintains importance; oracular consultation increases as mechanism for divine guidance; domestic cult practices documented in household shrines.
+
+__Religious Institutions & Doctrinal Authority:__ High priests of Amun at Thebes exercise quasi-royal authority; temple estates accumulate resources independent of royal control; priestly families consolidate hereditary control; no single religious authority coordinates valley-wide practice.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Libyan settlers adopt Egyptian cults while maintaining distinct burial customs; Nubian rulers bring Amun worship from Napata, reinforcing Theban theology; Phoenician contact introduces foreign cult elements in Delta ports; Egyptian religion remains dominant framework.
+
+__Disenchantment & Sacred Discharge:__ Four centuries of political fragmentation test confidence in divine order; multiplying oracular consultations suggest anxiety about divine guidance; temple wealth attracts rather than transcends political conflict; sacred institutions survive but without New Kingdom grandeur.
+

@@ -1,69 +1,139 @@
-# __1750 CE – 1930 CE__ — Party Press to Mass Circulation Transition
-__Summary:__ A pan-temporal snapshot of the structural transformation in American newspaper economics and organization across the Eastern Woodlands and Mississippi Basin throughout the print stage. The model shifts from colonial printer-publishers serving elite subscribers, through partisan papers subsidized by political patronage, to advertising-supported mass circulation enterprises oriented toward broad popular readership. The binding constraint is the business model that sustains publication — patronage, subscription, or advertising — with technological change in printing and communication enabling but not determining each transition.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Urban centers concentrate press activity — Boston, New York, Philadelphia, Baltimore, Cincinnati, Chicago, St. Louis — with distribution friction declining as rail and postal infrastructure expand; telegraph collapses news transmission time across continental distances after 1844.<br><br>
-__Climate Regime & Volatility:__ Temperate climate permits year-round publication and distribution; seasonal variation in road conditions affects rural delivery before rail dominance; no secular climatic drift materially shapes press operations.<br><br>
-__Hazard Regime & Exposure:__ Urban fire hazards threaten printshops throughout the window; major fires — Chicago 1871, Boston 1872 — destroy newspaper plants; insurance and brick construction provide buffering as capital permits.<br><br>
-__Resource & Energy Endowment:__ Abundant forest resources support paper production; transition from rag to wood pulp paper after 1860s reduces costs; coal and later petroleum power steam presses; endowment is not limiting.<br><br>
-__Waste Absorption & Sink Capacity:__ Printshop effluent, ink waste, and discarded newsprint absorbed by municipal waste systems; industrial production scale increases waste volume but absorptive capacity not approached within the window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Urban printshop workers face industrial accident risk and lead exposure from type handling; general urban disease burden affects workforce; mortality rates decline through the window as public health improves.<br><br>
-__Nutrition & Physiological Vitality:__ Printers and pressmen constitute skilled labor with wages above subsistence; nutritional status generally adequate; newsboys and street vendors face harsher conditions; overall vitality improving through the window.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Newspaper industry workforce predominantly male through most of the window; women enter as typesetters and reporters late nineteenth century; pairing dynamics follow general urban middle and working class patterns.<br><br>
-__Demographic Renewal & Density:__ Urban population growth sustains expanding readership; immigration provides labor and readers for ethnic papers; demographic density in major cities creates advertising market that enables mass circulation model.<br><br>
-__Attrition & Dependency Overhang:__ Printers' unions and benefit societies address occupational injury and widowhood; newsboy exploitation recognized as social problem by Progressive Era; dependency load absorbed through labor organization and charity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Newspaper production requires capital for presses, type, paper, and premises; colonial printers operate small shops near subsistence margin; mass circulation enterprises require substantial capital concentration.<br><br>
-__Energy Capture & Conversion:__ Hand presses yield to steam-powered cylinder and rotary presses; linotype machines after 1886 accelerate composition; electricity enables faster production by window's end; per-copy production cost collapses through technological adoption.<br><br>
-__Labor Organization & Coercion:__ Printers organize early — typographical unions among first American labor organizations; strikes and labor disputes recurrent; wage labor dominant; pressmen, typesetters, and reporters develop distinct occupational identities.<br><br>
-__Production & Surplus Capacity:__ Colonial papers produce hundreds of copies; penny press reaches tens of thousands; yellow journalism era papers achieve circulations exceeding one million; surplus capacity expands with capital investment in industrial production.<br><br>
-__Storage, Reserves & Buffering:__ Colonial printers operate on thin margins dependent on subscription collection; party press buffered by political patronage; mass circulation papers build reserves from advertising revenue but remain vulnerable to economic downturns.<br><br>
-__Exchange, Trade & Logistics:__ Postal subsidies support newspaper distribution from early republic; rail transport enables same-day delivery across regions; newsstand distribution and street sales dominant in urban markets; wire services after 1848 enable news exchange.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Advertising credit relationships central to mass circulation model; subscription prepayment provides working capital; newspaper corporations access capital markets for expansion; deferred payment common throughout.<br><br>
-__Surplus Extraction & Redistribution:__ Revenue model shifts from subscriber payment to advertiser subsidy; per-copy price drops below production cost as advertising carries the margin; surplus extracted from commercial economy and redistributed through editorial operation.<br><br>
-__Wealth Distribution & Asset Defense:__ Newspaper ownership concentrates from individual printer-publishers to corporate chains — Hearst, Scripps, Pulitzer enterprises; asset value grows with circulation and advertising base; antitrust concerns emerge by window's end.<br><br>
-__Byproducts & Waste Routing:__ Newsprint waste recycled as packing material or discarded; worn type metal recast; production waste increases with scale but routing through municipal and industrial channels adequate.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Newspapers function as trust anchors for commercial transactions and public information; advertising presumes reader trust; editorial credibility variable with sensationalism eroding trust in yellow press era; professional journalism emerges partly to restore credibility.<br><br>
-__Stratification, Status & Group Identity:__ Colonial press serves elite readership; penny press creates cross-class audience; specialized papers serve distinct strata — labor, business, ethnic, religious; editors acquire public prominence; reporters professionalize.<br><br>
-__Kinship, Family & Inheritance:__ Family ownership common — Bennetts, Greeleys, Pulitzers, Hearsts — with newspaper enterprises inherited across generations; family dynasties shape editorial continuity; corporate ownership eventually displaces family control.<br><br>
-__Civic Association & Self-Organization:__ Newspapers publicize and coordinate civic associations, reform movements, and political campaigns; editorial endorsement shapes organizational success; press clubs and professional associations develop among journalists.<br><br>
-__Leisure, Play & Sociability:__ Newspapers become daily reading habit embedded in leisure time; Sunday editions expand entertainment content; comics, sports, society pages cater to non-news interests; coffee house and saloon reading cultures persist.<br><br>
-__Grievance Channels & Social Discharge:__ Letters to editor provide reader voice; editorial crusades channel public grievances — municipal corruption, corporate abuse, social injustice; muckraking journalism institutionalizes grievance investigation; some grievances exploited for circulation rather than redress.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Press influence on political authority evolves from partisan instrument to independent power center; "fourth estate" concept develops; publishers like Hearst seek direct political power; tension between press independence and political entanglement persists.<br><br>
-__Succession & Power Transfer:__ Editorial succession within newspaper organizations shapes political influence continuity; family inheritance, corporate purchase, and hostile takeover all occur; political patronage of party press creates dependency on electoral outcomes.<br><br>
-__Legitimacy & Political Narrative:__ Newspapers shape legitimacy narratives — revolutionary pamphlets, Federalist Papers, partisan editorials, reform crusades; capacity to construct and contest political legitimacy central to press power; credibility becomes contested terrain.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Newspaper enterprises develop administrative capacity — subscription management, advertising sales, editorial coordination, distribution logistics; capacity scales with circulation; corruption through political payoffs and advertiser influence recurrent.<br><br>
-__Political Participation & Mobilization:__ Press mobilizes political participation throughout — revolutionary committees, party machines, reform movements, electoral campaigns; endorsement power shapes voting; partisan press explicitly mobilizes; commercial press claims independence while exercising influence.<br><br>
-__Geopolitical Position & External Relations:__ American press covers and shapes foreign policy opinion — expansionism, imperialism, war; Spanish-American War attributed partly to press agitation; World War I generates propaganda and censorship apparatus.<br><br>
-__Coercive Apparatus & Means of Force:__ Press lacks direct coercive power but exposure capacity influences state action; press criticism constrains official misconduct where reputation matters; wartime censorship and sedition prosecution demonstrate state coercive capacity over press.<br><br>
-__Internal Order & Threat Environment:__ Editorial disputes, circulation wars, and competitive pressure create internal disorder; mob attacks on abolitionist presses demonstrate external threat; labor disputes disrupt production; disorder absorbed through legal action and market competition.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Transmission velocity accelerates through the window — post riders to telegraph to telephone; penny press achieves same-day publication of breaking news; wire services enable simultaneous national distribution; radio at window's end begins real-time broadcast competition.<br><br>
-__Record, Storage & Persistence:__ Newspaper files constitute primary historical record; morgue archives maintained by larger papers; libraries collect and bind runs; microfilm preservation begins late in window; persistence variable with institutional survival.<br><br>
-__Framing, Censorship & Discourse Norms:__ Framing shifts from explicit partisan advocacy to claimed objectivity; sensationalism competes with sobriety; censorship imposed during wartime; discourse norms evolve toward professional journalism standards articulated by window's end.<br><br>
-__Reception, Attention & Amplification:__ Readership expands from elite thousands to mass millions; daily reading habit established; headline culture shapes attention; amplification through wire service syndication creates national audience for major stories.<br><br>
-__Signal Integrity & Noise Load:__ Wire services standardize and verify reporting; professional journalism develops accuracy norms; yellow journalism increases noise through sensationalism and fabrication; muckraking applies investigative rigor; signal integrity contested throughout.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Press claims role as justice watchdog — exposing corruption, advocating reform, championing the wronged; moral authority depends on perceived integrity; sensationalism and bias erode moral standing.<br><br>
-__Law, Codification & Regulatory Evolution:__ First Amendment protects press freedom; libel law constrains but rarely silences; postal regulations affect distribution costs and access; wartime sedition laws restrict antiwar and radical press; regulatory framework light by comparative standards.<br><br>
-__Adjudication, Enforcement & Liability:__ Libel suits filed against newspapers throughout the window; criminal sedition prosecutions rare before World War I then intensive; copyright develops protecting newspaper content; enforcement primarily through civil litigation.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom constitutionally protected but contested at margins — obscenity, sedition, libel; prior restraint rare; compliance burden light for mainstream papers, heavier for radical and minority press facing official hostility.<br><br>
-__Impunity & Unredressed Wrong:__ Press misconduct — fabrication, invasion of privacy, character assassination — inadequately redressed through libel law; powerful papers escape accountability that constrains smaller competitors; impunity gap widens with market concentration.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Journalism develops as distinct practice with evolving theory — from partisan advocacy to objective reporting to interpretive journalism; press criticism emerges; social science begins studying media effects by window's end.<br><br>
-__Applied Knowledge & Technical Method:__ Printing technology advances continuously — hand press to steam to rotary to linotype to high-speed production; photography integrated into news coverage; telegraphy and telephony transform news gathering; method professionalized.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Journalism education begins — University of Missouri 1908, Columbia 1912; apprenticeship remains primary training; literacy expands creating readership; editorial judgment develops as transmissible skill.<br><br>
-__Obsolescence & Knowledge Decay:__ Older printing methods and journalistic practices superseded; historical knowledge preserved in newspaper morgues and libraries; professional memory maintained through institutional continuity; radio begins obsolescing print-only model by window's end.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Press constructs and contests American national identity — revolutionary heritage, democratic mission, manifest destiny, reform tradition; immigrant press maintains ethnic memory; sectional press shapes regional identity; foundational narratives contested through print.<br><br>
-__Artistic Expression & Material Culture:__ Newspaper design evolves from dense text to illustrated pages to photojournalism; typography and layout become aesthetic practices; editorial cartoons develop as art form; newspaper buildings become architectural landmarks.<br><br>
-__Collective Mood & Behavioral Disposition:__ Newspapers both reflect and shape collective mood — patriotic enthusiasm, reform zeal, war fever, economic anxiety; sensationalism amplifies fear and outrage; editorial tone tracks and influences public sentiment.<br><br>
-__Form Exhaustion & Meaning Decay:__ Partisan press model exhausts as subscription base proves insufficient; penny press format exhausts as competition intensifies; yellow journalism exhausts credibility; professional journalism emerges partly from form exhaustion of predecessors.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular commercial press displaces religiously-oriented colonial printing; newspapers assume implicitly secular worldview while covering religion as news; existential questions addressed through opinion and editorial rather than revealed authority.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily newspaper reading acquires ritual character — morning coffee and paper, evening edition routine; Saturday and Sunday editions adapt to religious observance patterns; secular ritual displaces but does not eliminate sacred practice.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious press remains substantial — denominational papers, Catholic diocesan publications, Protestant magazines — but commercial press dominates public sphere; religious authority contested rather than assumed in mainstream papers.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Commercial press contributes to secularizing diffusion; religious diversity covered as news normalizes pluralism; spiritual content displaced toward specialized religious publications; secular reform movements carry quasi-religious energy.<br><br>
-__Disenchantment & Sacred Discharge:__ Commercial press both expresses and accelerates disenchantment; muckraking substitutes investigative exposure for providential narrative; advertising promotes consumer desire as meaning substitute; spiritual discharge into reform crusades, political enthusiasm, and commercial culture.<br><br>
+# __1750 CE – 1930 CE — Party Press to Mass Circulation Transition__
+
+__Summary:__ The American press transforms from a partisan instrument subsidized by political factions and dependent on elite subscription to an advertising-funded mass-circulation enterprise pursuing commercial audiences, with the binding constraint being the economics of printing technology—as steam presses and cheap newsprint collapse per-copy costs, the revenue logic shifts from political subsidy and subscription to advertising sold against large readerships, restructuring the press from party organ to commercial commodity and altering its relationship to both politics and public.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The party press concentrates in state capitals and commercial centers where political elites cluster; mass circulation requires urban population density to generate the readerships advertisers will pay to reach. New York emerges as the center of mass-circulation journalism by the 1830s—its density, commerce, and port-of-entry position creating the largest potential readership. The telegraph (1844) and railway networks collapse spatial friction for news gathering while postal subsidies maintain geographic distribution, enabling national reach from metropolitan production centers.
+
+__Climate Regime & Volatility:__ Climate shapes neither press technology nor organization in this period, though seasonal rhythms affect newspaper content (legislative sessions, election cycles, commercial seasons).
+
+__Hazard Regime & Exposure:__ Urban fires periodically destroy newspaper offices and printing plants, with the Chicago fire (1871) devastating that city's press infrastructure. The concentration of mass-circulation press in dense urban cores increases exposure to fire, though fireproof construction and insurance gradually mitigate risk.
+
+__Resource & Energy Endowment:__ The transition depends on changing resource inputs: the shift from rag-based to wood-pulp paper (1860s–1880s) dramatically cheapens the basic material of mass printing. Steam power (from 1820s) then electric power (from 1890s) drives high-speed rotary presses capable of producing hundreds of thousands of copies nightly. Cheap paper and powered presses are the material preconditions for penny pricing and mass circulation.
+
+__Waste Absorption & Sink Capacity:__ Mass-circulation printing generates vastly increased paper waste and, in the pulp-paper era, contributes to deforestation pressures. Printing industry effluents enter urban waste streams, concentrated in press-district neighborhoods.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Disease conditions affect newspaper operations primarily through workforce health in dense urban printing districts. Cholera, typhoid, and tuberculosis afflict compositors and pressmen working in crowded, poorly ventilated conditions. Lead poisoning from type metal constitutes an occupational hazard.
+
+__Nutrition & Physiological Vitality:__ The mass-circulation press, dependent on advertising revenue, becomes a major vector for food and patent medicine advertising, shaping consumer nutritional choices and exposing readers to fraudulent health claims—a condition Progressive muckrakers later attack.
+
+__Care, Healing & Recovery Capacity:__ The press transformation has no direct bearing on healing capacity, though mass-circulation newspapers eventually carry health information reaching broader populations than the elite party press could.
+
+__Reproductive Biology & Pairing Dynamics:__ Mass-circulation newspapers develop personal advertisement sections facilitating urban romantic connection, a service the party press never provided. The sensationalist press exploits reproductive scandal for circulation.
+
+__Demographic Renewal & Density:__ Population growth—from 2.5 million (1776) to 106 million (1920)—creates the mass audience that mass-circulation press requires. Immigration concentrates urban populations, generating the density that supports metropolitan dailies. The demographic transition from rural to urban majority (achieved 1920) maps the shift from party press (serving geographically dispersed political elites) to mass circulation (serving concentrated urban populations).
+
+__Attrition & Dependency Overhang:__ Press transformation creates new occupational categories—reporters, editors, advertising salesmen, distribution workers—whose workforce demographics and dependency structures integrate into general urban patterns.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The penny press (from 1833) brings newspaper access within reach of working-class budgets—a penny versus the six cents of the party press—democratizing information access and creating mass readership from populations previously excluded by price.
+
+__Energy Capture & Conversion:__ Steam power revolutionizes printing capacity: the steam-powered cylinder press (1820s) then the rotary press (1840s) then the web-perfecting press (1870s) increase output from hundreds to hundreds of thousands of sheets per hour. Electric power (from 1890s) further increases speed and reliability. The energy transition from hand-press to powered press is the technological foundation of mass circulation.
+
+__Labor Organization & Coercion:__ Printing trades maintain craft union organization (International Typographical Union, founded 1852) throughout the transition, preserving compositor wages and working conditions through control of skilled labor. Press industrialization creates new categories of less-skilled workers (pressmen, paperboys) with weaker bargaining positions. The division between craft-protected compositors and vulnerable distribution workers reflects the segmented labor structure of industrial printing.
+
+__Production & Surplus Capacity:__ Party press production serves political ends, with commercial considerations secondary; revenue comes from government printing contracts, postal subsidies, and elite subscriptions supplementing party funds. Mass-circulation economics inverts this: advertising revenue (70-80% of income by 1900) drives production decisions; circulation determines advertising rates; editorial content serves audience attraction rather than political instruction. The surplus generated by successful mass-circulation papers (Pulitzer and Hearst accumulate fortunes) vastly exceeds the modest operations of party editors.
+
+__Storage, Reserves & Buffering:__ Party press enterprises survive through political patronage during revenue shortfalls; mass-circulation papers require capital reserves or access to credit to weather advertising downturns. The newspaper business becomes capital-intensive—Pulitzer pays $346,000 for the World (1883); Hearst's Journal launch requires family mining wealth—barriers to entry that consolidate ownership.
+
+__Exchange, Trade & Logistics:__ The party press distributes through postal subscription to geographically scattered political audiences; mass-circulation papers sell through street sale, newsboys, and urban delivery, requiring distribution logistics (delivery wagons, newsstand networks) the party press never needed. The Associated Press (1846) creates wire-service news exchange, enabling mass-circulation papers to share news-gathering costs while competing on local coverage and editorial voice.
+
+__Value Storage, Credit & Deferred Exchange:__ Newspaper enterprises transition from precarious subsidized operations to significant business properties. Newspaper valuations rise with circulation and advertising revenue; papers become tradeable assets commanding substantial prices. Credit access enables expansion and capital investment; advertising agencies emerge as intermediaries managing the financial relationship between advertisers and press.
+
+__Surplus Extraction & Redistribution:__ Advertising extracts consumer surplus by raising prices to cover advertising costs while shaping consumer choices. The advertising-funded model redistributes costs from readers (whose subscription payments decline in relative importance) to advertisers (who recover costs from product purchasers). This extraction mechanism funds the mass-circulation enterprise.
+
+__Wealth Distribution & Asset Defense:__ The press transition concentrates media ownership: from numerous small party papers to fewer large mass-circulation enterprises. Pulitzer's estate, Hearst's chain, Scripps-Howard combine, and other consolidations accumulate newspaper assets into wealthy hands. Press barons emerge as a distinct ownership class.
+
+__Byproducts & Waste Routing:__ Mass-circulation printing generates unprecedented paper waste. The short lifespan of daily newspapers—read and discarded—creates a waste stream absorbed by nascent recycling operations (wastepaper collection) and landfills. The externalities of pulp-paper production (deforestation, mill effluent) accumulate in the broader environment.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Press enterprises become family properties transmitted across generations—the Bennetts (Herald), Greeleys (Tribune), Ochses (New York Times)—creating newspaper dynasties. The transition from party press to mass circulation does not alter this family-ownership structure but increases the value of properties transmitted.
+
+__Association & Mutual Aid:__ The printing trades' craft unions constitute the primary associational structure of press production. Press clubs (founded 1870s–1880s) organize journalists as a professional group distinct from printers. Wire services (Associated Press, United Press) create cooperative structures among otherwise competing enterprises.
+
+__Leisure, Play & Sociability:__ Mass-circulation newspapers develop entertainment content—sports coverage, comics (from 1890s), serialized fiction, human-interest features—serving reader leisure in ways the politically focused party press never attempted. The Sunday newspaper expands to include entertainment supplements, crossword puzzles (from 1913), and rotogravure sections.
+
+__Stratification, Status & Group Structure:__ The party press serves elite political strata; mass-circulation targets middle and working-class readers while maintaining prestige publications (New York Times after 1896) for elite audiences. Press stratification parallels class stratification, with different papers serving different reader segments. Within newspaper organizations, a status hierarchy emerges separating editors from reporters, reporters from printers, printers from distribution workers.
+
+__Administrative Capacity & Institutional Integrity:__ Mass-circulation newspapers develop bureaucratic structures unknown to the party press: advertising departments, circulation departments, editorial hierarchies, accounting systems. The industrialized newspaper becomes an administered organization rather than the personal vehicle of an editor-proprietor.
+
+__Coercive Apparatus & Means of Force:__ Newspapers have no coercive capacity but the mass-circulation press exercises influence over public opinion that political actors seek to harness or fear. The power of the Hearst press to shape public opinion toward war (1898) demonstrates the political leverage mass circulation confers.
+
+__Discharge, Disorder & Decay:__ The transition displaces party editors lacking capital to compete with mass-circulation enterprises; small political papers disappear or are absorbed. Printing technology changes displace skilled workers: linotype (1886) eliminates hand composition; stereotyping and matrix systems reduce skilled labor requirements. The disorder of competitive sensationalism (yellow journalism) represents the social friction of unregulated commercial competition for audiences.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The party press addresses readers as political citizens to be instructed; mass-circulation addresses them as consumers to be entertained, excited, and gratified. Sensationalism—crime, scandal, disaster—exploits emotional response to drive circulation. The mass press both reflects and shapes public mood, creating shared emotional experiences through simultaneous reading of the same dramatic content.
+
+__Leadership & Personal Authority:__ Party press editors exercise authority as political figures—Horace Greeley as Whig/Republican spokesman, Francis Preston Blair as Jacksonian voice. Mass-circulation publishers exercise different authority: business power backed by audience reach. Pulitzer and Hearst command attention through circulation rather than political standing, though both seek political influence through their publishing empires.
+
+__Legitimacy as Lived Allegiance:__ Party press legitimacy derives from political faction allegiance; readers subscribe because the paper represents their political identity. Mass-circulation legitimacy derives from delivering value—news, entertainment, services—that readers pay for. The shift marks a transition from political to commercial allegiance as the basis of reader attachment.
+
+__Political Will & Collective Resolve:__ The party press explicitly mobilizes political will for party purposes; mass-circulation newspapers claim independence while exercising political influence through editorial positions and news coverage choices. The Spanish-American War (1898) demonstrates mass-circulation capacity to mobilize war fever; Progressive-era campaigns show capacity to build reform sentiment.
+
+__External Relations & Posture:__ The party press exists within domestic political competition; mass-circulation newspapers develop international interests—foreign correspondents, overseas news services, positions on foreign policy—reflecting the expanded horizons of their commercial operations and reader interests.
+
+__Disaffection, Apathy & Spent Will:__ Reader cynicism about press accuracy and sensationalism accumulates; by the Progressive era, press credibility suffers from yellow journalism excesses. The gap between newspaper claims of public service and commercial pursuit of sensation generates public skepticism that persists. The disaffection manifests in calls for press reform, professional journalism standards, and criticism of press irresponsibility.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The party press assumes literate elite readers; mass-circulation newspapers adapt content for broader literacy levels—shorter sentences, larger headlines, more illustration—expanding accessibility. The penny price removes the economic barrier; simplified presentation removes the educational barrier. By 1900, the mass-circulation press reaches functionally the entire literate urban population.
+
+__Channels & Transmission Velocity:__ The telegraph (1844) transforms news velocity from the speed of horse and ship to near-instantaneous transmission. Wire services aggregate telegraph reporting, distributing breaking news to subscribing newspapers. The combination of rapid news gathering (telegraph) and rapid production (steam press) compresses the news cycle from weeks to hours.
+
+__Record, Storage & Persistence:__ Newspapers accumulate as the first draft of history; bound volumes preserved in newspaper offices, libraries, and archives create durable records. The mass-circulation press generates vastly more documentary material than the party press, creating richer but more voluminous historical records. Morgue files (newspaper archives of clippings) organize information for journalist reference.
+
+__Framing, Censorship & Discourse Norms:__ Party press framing is explicitly partisan; readers understand content as faction advocacy. Mass-circulation newspapers develop conventions of objectivity (emerging clearly by 1890s–1900s) that claim to separate news from opinion, factual reporting from editorial position. This framing shift masks continued editorial influence while establishing professional norms that shape journalism education and practice.
+
+__Reception, Attention & Amplification:__ Mass-circulation papers compete for attention through sensational presentation: screaming headlines, dramatic illustration, human-interest framing. The attention dynamics of competitive newsstand sale drive presentation toward eye-catching extremes. Reader attention becomes a scarce resource newspapers compete to capture.
+
+__Signal Integrity & Noise Load:__ The party press trades accuracy for political advantage; the mass-circulation press trades accuracy for sensation and speed. Yellow journalism's fabrications (fake illustrations, invented quotes, manufactured incidents) represent a signal integrity crisis that provokes professional reform responses—journalism schools (Missouri 1908), professional standards, accuracy as professional value. The noise load of competitive sensationalism degrades information quality until professional norms partially correct it.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The party press operates from explicit political-moral frameworks—Federalist, Republican, Democratic, abolitionist, states-rights—instructing readers in right thinking. Mass-circulation newspapers claim moral neutrality while embedding moral frames in news selection and presentation. The shift obscures rather than eliminates moral positioning.
+
+__Law, Codification & Regulatory Evolution:__ First Amendment protections apply throughout, but the nature of press freedom questions shifts from political censorship (Sedition Act 1798) to commercial regulation questions (postal rates, antitrust, advertising regulation). Libel law evolves to accommodate mass-circulation conditions; the defense of truth becomes more reliably accepted.
+
+__Adjudication, Liability & Sanction:__ Libel suits increase with mass circulation—more readers means more potential plaintiffs, and larger newspapers offer deeper pockets. Newspapers develop legal staff and libel insurance. The threat of suit constrains some reporting while the cost of suit deters many plaintiffs.
+
+__Rights, Protections & Compliance Burden:__ Press freedom remains robust; government regulation remains minimal. Postal subsidies constitute the primary regulatory relationship—newspapers depend on favorable postal rates that Congress periodically threatens. Wartime brings exceptional restrictions: Civil War military censorship, Espionage Act (1917) prosecution of dissenting press.
+
+__Impunity & Unredressed Wrong:__ Yellow journalism wrongs—fabrication, invasion of privacy, reputation destruction—largely escape sanction. The powerful press enjoys practical impunity; victims of sensational coverage have little recourse. The gap between press power and press accountability widens with circulation, creating a legitimacy problem that professional ethics partially addresses.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The party press operates within established political theory—constitutional interpretation, party ideology; mass-circulation newspapers develop practical journalism as craft knowledge distinct from political theory. By the early twentieth century, journalism education emerges (University of Missouri, 1908; Columbia, 1912), codifying practice into teachable method and establishing journalism as a knowledge domain.
+
+__Applied Knowledge & Technical Method:__ The technological trajectory—steam press, telegraph, linotype, rotary press, halftone illustration, color printing—represents continuous applied innovation transforming production capability. Journalistic method develops: interviewing technique, investigative research, source cultivation, fact-checking emerge as professional practices.
+
+__Education, Knowledge Stock & Skill Distribution:__ Mass literacy (rising from ~70% white male literacy in 1750 to ~94% general literacy by 1920) creates the reader base for mass circulation. Universal public education produces readers; journalism schools produce professional journalists. The knowledge distribution of journalism shifts from craft apprenticeship to formal education.
+
+__Obsolescence & Knowledge Decay:__ Hand-press skills become obsolete with powered printing; hand composition gives way to linotype. Party-press editorial conventions—openly partisan voice, political instruction mode—become obsolete in the objectivity regime of professional journalism. The old knowledge of partisan press operation decays as its practitioners age out.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The party press reinforces political identities—Federalist, Jeffersonian, Whig, Democrat; mass-circulation newspapers construct national identity through shared news consumption. The mass press creates common reference points—shared knowledge of the same events, same scandals, same heroes—constituting a mass public through simultaneous reading.
+
+__Legitimating Narrative & Ideology:__ Party press legitimation is explicit: the rightness of the party's cause, the wrongness of opponents. Mass-circulation legitimation is commercial: the paper serves readers, provides value, deserves purchase. The ideology of press freedom—the Fourth Estate, the watchdog role, the public's right to know—emerges as professional self-legitimation, justifying press power through public service claims.
+
+__Artistic Expression & Material Culture:__ The visual transformation of the newspaper marks the transition: from dense columns of political argument to headline typography, illustration, eventually photography and color printing. The Sunday supplement develops as cultural form. Political cartoons, comic strips, and illustrated features create visual culture circulating through mass press.
+
+__Form Exhaustion & Meaning Decay:__ The forms of party press—the extended political essay, the frank partisanship, the editor as political philosopher—exhaust their relevance as mass circulation creates different reader expectations. By 1930, the party press model persists only in marginal ideological publications; the mainstream has fully adopted commercial mass-circulation form. The exhausted forms of earlier press eras survive as historical curiosities.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The party press operates within Protestant political-religious frameworks—providential narratives of American mission; mass-circulation newspapers adopt secular entertainment orientations while maintaining conventional piety in religious-page content. The shift reflects broader secularization of public discourse.
+
+__Ritual, Devotion & Sacred Practice:__ Newspaper reading itself becomes a daily ritual—morning paper, evening paper—structuring time and attention. The mass-circulation Sunday paper, with its expanded leisure content, fills time that might otherwise go to religious observance, contributing to sabbath secularization.
+
+__Religious Institutions & Doctrinal Authority:__ Religious press—denominational newspapers, Catholic diocesan papers—operates alongside secular press throughout the period, maintaining distinct channels for religious authority. The mass-circulation secular press neither challenges nor reinforces religious doctrine, treating religion as news category rather than truth claim.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The rise of mass-circulation secular press displaces religious content from public discourse; the religious press retreats to sectarian audiences while secular press dominates general circulation. This represents spatial displacement rather than doctrinal challenge—religion moves from public square to private subscription.
+
+__Disenchantment & Sacred Discharge:__ The commercialized mass press embodies and advances disenchantment—treating all content as commodity, all news as entertainment, all readers as consumers rather than citizens or souls. The sacred discharge of this transformation manifests as cultural criticism of press commercialism from religious, intellectual, and Progressive perspectives, lamenting the loss of civic purpose in favor of commercial sensationalism.

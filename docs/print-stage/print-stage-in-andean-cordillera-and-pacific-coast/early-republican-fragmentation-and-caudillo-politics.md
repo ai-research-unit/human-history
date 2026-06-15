@@ -1,69 +1,139 @@
-# __1830 CE – 1860 CE__ — Early Republican Fragmentation and Caudillo Politics
-__Summary:__ Gran Colombia dissolves and successor republics fragment into unstable caudillo-dominated polities while the Peru-Bolivia Confederation rises and falls; the binding constraint is the absence of consolidated state institutions capable of routinizing power transfer, leaving military strongmen as the only actors able to mobilize coercive force and revenue; margin against shock is thin as treasuries remain depleted and economies recover slowly from independence wars; the direction is toward oscillating centralization attempts punctuated by regional rebellions and constitutional rewrites.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Andean cordillera continues to fragment political control by isolating highland basins from coastal lowlands and from each other; caudillo power bases map onto geographic compartments separated by mountain barriers and desert strips.<br><br>
-__Climate Regime & Volatility:__ Precipitation regimes remain stable with seasonal wet-dry cycles in tropics and Mediterranean pattern in central Chile; El Nino events periodically disrupt coastal fisheries and agriculture; no secular climatic trend detected.<br><br>
-__Hazard Regime & Exposure:__ Seismic events punctuate the period including significant earthquakes in Chile and Peru; infrastructure margin against shock minimal given weak construction and absent maintenance; recovery capacity limited.<br><br>
-__Resource & Energy Endowment:__ Silver mining at Potosi and Cerro de Pasco partially recovers; copper deposits in Chile begin exploitation; guano accumulations on Chincha Islands recognized as fertilizer resource by 1840s; endowment remains substantial.<br><br>
-__Waste Absorption & Sink Capacity:__ Extractive activity produces localized mining waste; urban centers generate modest effluent; absorptive capacity unstressed at current population densities; no systemic pressure on sinks.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases persist including typhus, malaria in lowlands, and gastrointestinal infections; yellow fever outbreaks affect coastal ports; mortality baseline elevated but stable compared to wartime peaks.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural recovery improves food availability in peacetime zones; highland populations maintain traditional diet; nutritional status improving slowly from wartime lows; physiological vitality recovering.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Peacetime permits normalization of marriage and household formation; gender imbalance from war deaths persists; fertility patterns return toward pre-war baseline.<br><br>
-__Demographic Renewal & Density:__ Population begins slow recovery from independence war losses; density remains low across highland and desert zones; urban centers grow modestly; renewal capacity positive but gradual.<br><br>
-__Attrition & Dependency Overhang:__ War widows and orphans age into the dependency pool; new conflicts add fresh casualties; institutional support absent; kin networks absorb load unevenly; overhang gradually diminishing through mortality.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Hacienda agriculture resumes provisioning regional markets; subsistence agriculture continues in highland communities; floor rising above wartime crisis but remaining close to carrying-capacity edge in marginal zones.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain dominant; water power for milling where available; no significant change in energy conversion technology; per-capita work ceiling unchanged from colonial levels.<br><br>
-__Labor Organization & Coercion:__ Hacienda peonage and debt bondage persist; indigenous tribute systems reformed but not abolished; slavery continues in coastal agriculture until gradual abolition measures; coercion remains high.<br><br>
-__Production & Surplus Capacity:__ Mining output recovers with foreign investment and technical assistance; agricultural surplus grows as peace permits cultivation; artisan production remains limited; overall productive capacity expanding slowly.<br><br>
-__Storage, Reserves & Buffering:__ Government treasuries chronically empty; merchant houses accumulate modest reserves; granary storage at household and hacienda level; buffering capacity thin, barely covering single bad harvest.<br><br>
-__Exchange, Trade & Logistics:__ International trade expands through newly opened ports; British commercial houses dominate import-export; internal trade hampered by poor roads and mountain barriers; logistics infrastructure minimal.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Multiple currencies circulate including debased colonial and republican issues; British sterling serves as stable reference; credit available through merchant houses at high interest; capital formation minimal.<br><br>
-__Surplus Extraction & Redistribution:__ Caudillo governments extract through customs duties and forced loans; taxation capacity remains weak; guano revenues begin flowing to Peru by 1840s; redistribution follows patronage networks.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration continues with creole elite consolidating holdings; mining wealth accrues to foreign investors and local intermediaries; inequality high and widening; elite defends assets through political alignment with caudillos.<br><br>
-__Byproducts & Waste Routing:__ Mining operations produce tailings and contaminated runoff at extraction sites; guano extraction leaves denuded islands; urban waste accumulates without systematic removal; routing haphazard but sinks unstressed.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius remains contracted to kin, locality, and patron-client ties; mutual aid operates through compadrazgo and village reciprocity; broader social trust undermined by factional conflict and instability.<br><br>
-__Stratification, Status & Group Identity:__ Creole landowning elite dominates; mestizo intermediate strata expand slowly; indigenous communities retain corporate identity under tribute regimes; African-descended populations remain subordinate; boundaries rigid with limited permeability.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal elite families consolidate through strategic marriage; indigenous bilateral kinship persists; inheritance remains partible among creole heirs, concentrating through marriage alliances; foundational structures stable.<br><br>
-__Civic Association & Self-Organization:__ Urban craft guilds persist weakly; religious confraternities continue; indigenous communities maintain collective organization; liberal reforms begin attacking corporate structures; associational fabric thinning.<br><br>
-__Leisure, Play & Sociability:__ Cockfighting, bullfighting, and religious festivals provide public sociability; elite salon culture develops in capitals; carnival and saint days mark collective leisure; sociability recovering from wartime contraction.<br><br>
-__Grievance Channels & Social Discharge:__ Patron-client ties mediate some grievances; petitions to caudillos substitute for institutional channels; religious charity provides minimal relief; accumulated grievance discharged through periodic rebellion and banditry.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereign power held by military caudillos exercising personal authority through patronage and force; constitutional forms exist but power follows men not offices; authority fragmented among regional strongmen; centralizing and federalizing factions compete.<br><br>
-__Succession & Power Transfer:__ Succession occurs through coup, rebellion, or negotiated transfer among military leaders; constitutions rewritten repeatedly to legitimate current holders; transfer routinely violent or threatened; no stable mechanism achieved.<br><br>
-__Legitimacy & Political Narrative:__ Republican and liberal rhetoric continues from independence era; caudillos claim to defend order, constitution, or federation as convenience dictates; legitimacy thin and contested; popular acceptance based on patronage and fear.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic capacity minimal beyond capital cities; customs collection the primary administrative function; record-keeping fragmentary; corruption endemic; institutional capacity barely sufficient for revenue extraction.<br><br>
-__Political Participation & Mobilization:__ Elite factions compete for control; literacy and property requirements restrict formal participation; indigenous populations excluded; mobilization occurs through patron-client networks and military recruitment; participation narrow.<br><br>
-__Geopolitical Position & External Relations:__ Border disputes multiply among successor states; Peru-Bolivia Confederation (1836-1839) triggers Chilean military intervention; Britain dominates commercial relations; United States presence minimal; external pressure centers on debt repayment.<br><br>
-__Coercive Apparatus & Means of Force:__ Small professional armies supplemented by militia and conscription; infantry with muskets, cavalry, and limited artillery; command personal to caudillo; force concentrated in capital but projection limited by terrain.<br><br>
-__Internal Order & Threat Environment:__ Regional rebellions, indigenous uprisings, and banditry challenge central authority; internal order precarious outside zones of caudillo presence; enforcement capacity insufficient for territorial control.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by horse messenger and coastal shipping; weeks separate highland from coast; printing presses operate in capital cities producing newspapers and government decrees; reach limited to literate urban population.<br><br>
-__Record, Storage & Persistence:__ Government archives accumulate unevenly; notarial records continue; newspapers preserved inconsistently; institutional memory weak given regime turnover; persistence low for official records.<br><br>
-__Framing, Censorship & Discourse Norms:__ Partisan press frames events according to factional loyalty; censorship imposed during periods of authoritarian control; liberal discourse permits within elite circles; indigenous perspectives excluded from print sphere.<br><br>
-__Reception, Attention & Amplification:__ Urban literate elite reads newspapers and pamphlets; oral networks carry news to broader population; amplification concentrated in capitals; reception shaped by patron-client communication chains.<br><br>
-__Signal Integrity & Noise Load:__ Partisan distortion pervades political news; rumor spreads faster than verified information; verification capacity minimal; noise load high relative to reliable intelligence; signal clarity poor.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic natural law tradition provides baseline; liberal property rights concepts spreading among elite; indigenous justice concepts persist in communities; shared moral foundation fractured along ethnic and class lines.<br><br>
-__Law, Codification & Regulatory Evolution:__ Colonial law persists as default; republican constitutions multiply without stable implementation; civil codes under discussion but not yet adopted; regulatory framework incomplete and contradictory.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function intermittently in capitals; rural areas rely on hacendado and indigenous community justice; enforcement depends on caudillo favor; liability unclear given political instability; throughput inadequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights declared but not enforced; property rights insecure against political seizure; compliance burden light given minimal regulatory reach; formal protections decorative.<br><br>
-__Impunity & Unredressed Wrong:__ Political violence proceeds without accountability; property seizures during regime changes uncompensated; elite impunity pervasive; accumulated wrong substantial and unredressed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Enlightenment rationalism and liberal political economy constitute the reigning paradigm among educated elite; natural history continues through foreign scientific expeditions; theological orthodoxy persists in ecclesiastical education.<br><br>
-__Applied Knowledge & Technical Method:__ Mining techniques improve with British technical assistance; agricultural methods remain traditional; printing technology stable; applied knowledge advancing slowly through foreign transfer rather than local innovation.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities function erratically; primary education rare outside religious schools; literacy remains below ten percent; knowledge stock concentrated in clergy and urban elite; skill distribution highly unequal.<br><br>
-__Obsolescence & Knowledge Decay:__ Colonial craft knowledge erodes as guild structures weaken; indigenous technical knowledge persists orally; no systematic clearing of obsolete theory; decay and preservation roughly balanced.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Independence heroes enter mythic status; national identities crystallize around liberation narratives; Inca imagery appropriated selectively by creole nationalism; foundational identity consolidating separately in each republic.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical and republican aesthetics dominate official architecture; religious art continues in baroque and folk styles; material culture reflects import dependence for manufactured goods; provincial vernacular persists.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood characterized by chronic uncertainty and political anxiety; cynicism toward constitutional promises; fatalistic acceptance of caudillo rule among lower strata; elite confidence recovering with economic improvement.<br><br>
-__Form Exhaustion & Meaning Decay:__ Republican rhetoric hollowed by repeated constitutional failure; colonial forms discredited but replacement forms not consolidated; meaning unstable as symbols detach from institutional reality.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic Christianity remains dominant cosmology; rationalist skepticism limited to educated elite; indigenous cosmologies persist in highland communities; fatalism colors popular outlook.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, procession, and saints' days structure religious life; devotional brotherhoods active; pilgrimage continues; sacred practice robust despite institutional disruption.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church struggles to regularize relations with republican governments; patronato disputes continue; clerical training disrupted; institutional authority weakened but doctrine unchallenged.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Andean folk Catholicism stable; Protestant missionaries beginning but negligible impact; no significant syncretism or displacement; spiritual landscape static.<br><br>
-__Disenchantment & Sacred Discharge:__ Liberal elite anticlericalism produces limited institutional disenchantment; popular piety undiminished; no significant secularization; sacred meaning retained at popular level despite elite skepticism.<br><br>
+# __1830 CE – 1860 CE — Early Republican Fragmentation and Caudillo Politics__
+
+The binding constraint is the absence of consolidated state capacity, leaving armed regional strongmen — caudillos — as the effective holders of coercive and extractive power, while a partisan press of short-lived newspapers tied to factional patrons serves as the medium through which elite factions articulate rival claims to legitimacy without achieving stable institutional settlement.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Andes continue to segment political space; the journey from Lima to Arequipa or Cuzco takes weeks by mule, limiting central government reach; Chile's elongated coastal strip is more unified, while Bolivia's altiplano separates from lowland Santa Cruz; caudillo power bases align with natural regions.
+
+__Climate Regime & Volatility:__ Interannual rainfall variability drives harvest fluctuations; El Niño events disrupt coastal fisheries and irrigation agriculture; highland frost and drought constrain subsistence margins; no secular shift is evident, but volatility keeps provisioning precarious.
+
+__Hazard Regime & Exposure:__ Earthquakes strike with regularity — the 1835 Concepción quake devastates southern Chile — disrupting urban life and draining reconstruction resources; volcanic eruptions punctuate highland zones; flood and landslide block transit routes seasonally.
+
+__Resource & Energy Endowment:__ Silver mining continues at reduced output from Cerro de Pasco and Potosí; guano deposits on coastal islands begin commercial exploitation in the 1840s, transforming Peru's fiscal capacity; copper production rises in Chile; coal deposits are known but not yet exploited at scale.
+
+__Waste Absorption & Sink Capacity:__ Urban sanitation remains primitive — open sewers, refuse in streets — but population density is low enough that sink saturation does not constrain; guano extraction generates minimal local waste; mining debris accumulates in highland watercourses without systemic consequence.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Yellow fever and malaria persist on the coast; typhus and smallpox circulate in cities and armies; cholera epidemics arrive from Europe in the 1850s; infant mortality remains high, and life expectancy is short across all strata.
+
+__Nutrition & Physiological Vitality:__ Highland indigenous populations subsist on traditional staples under continued hacienda extraction; coastal populations access diversified diets where trade flows; drought and civil war disrupt provisioning, and nutritional stress recurs episodically.
+
+__Care, Healing & Recovery Capacity:__ Urban hospitals serve limited populations; rural and indigenous communities rely on traditional medicine; professional medical training expands slowly through national universities; capacity remains far below the load disease and violence impose.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage remains Church-regulated; mestizo population continues to grow; polygyny and concubinage persist informally among elites and soldiers; fertility is high, but infant mortality absorbs much of the gain.
+
+__Demographic Renewal & Density:__ Peru's population grows slowly toward two million; Chile approaches 1.5 million by 1860; Bolivia remains around one million; urban growth is modest — Lima, Santiago, La Paz expand incrementally; highland-to-coast migration begins.
+
+__Attrition & Dependency Overhang:__ Wars, civil conflicts, and epidemics leave widows, orphans, and disabled; hacienda labor systems absorb some dependents, but urban poor accumulate; the dependency overhang strains household economies without systematic relief.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Hacienda and community agriculture provide the subsistence base; highland-to-coast trade in foodstuffs supports urban populations; provisioning remains adequate in peacetime but collapses during civil conflict and drought.
+
+__Energy Capture & Conversion:__ Animal and human muscle dominate; waterpower mills process grain and ore; steam engines appear in isolated mining operations by the 1850s; the energy regime remains pre-industrial, capping productive capacity.
+
+__Labor Organization & Coercion:__ Indigenous tribute is formally abolished, then reimposed under different names; debt peonage binds rural workers; African slavery persists in Peru until 1854 abolition, replaced by Chinese coolie labor under contract; coercion predominates.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports urban and mining populations; artisan production for local markets; silver output stagnates; guano extraction from the 1840s generates unprecedented export surplus for Peru, funding state operations and import capacity.
+
+__Storage, Reserves & Buffering:__ State treasuries depend on guano revenues in Peru, on customs duties elsewhere; reserves are minimal and exhausted by each civil conflict; no systematic grain reserves exist; private hoarding substitutes for institutional buffering.
+
+__Exchange, Trade & Logistics:__ Pacific coastal shipping integrates ports; Valparaíso becomes the dominant Pacific entrepôt; overland trade remains slow and vulnerable; British merchants dominate import-export commerce; tariff policy is contested between free-traders and protectionists.
+
+__Value Storage, Credit & Deferred Exchange:__ Metallic currency circulates; foreign merchant houses extend credit; guano consignment contracts create financial dependency on European creditors; domestic banking remains embryonic; debt accumulates without adequate servicing.
+
+__Surplus Extraction & Redistribution:__ Guano revenues centralize extraction in Peru — the state receives royalties, then consigns to foreign firms; in Chile and Bolivia, customs and internal taxes fund weak states; redistribution flows through patronage, military payrolls, and public works.
+
+__Wealth Distribution & Asset Defense:__ Landholding remains concentrated; mining claims enrich a narrow elite; guano wealth flows disproportionately to consignees and creditors; property defense relies on patron-client ties and caudillo protection.
+
+__Byproducts & Waste Routing:__ Guano islands are stripped without conservation; mining waste accumulates; urban refuse is unmanaged; financial waste accumulates as unrepayable foreign loans and worthless government bonds.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Elite families consolidate landholdings through strategic marriage; inheritance passes through partible systems that fragment estates unless primogeniture is informally maintained; kinship networks structure political faction.
+
+__Association & Mutual Aid:__ Artisan guilds persist in urban centers; indigenous communities (ayllu) continue mutual aid; Catholic confraternities provide charity and sociability; no mass-membership associations emerge; Masonic lodges serve elite networking.
+
+__Leisure, Play & Sociability:__ Bullfights, cockfights, and religious festivals continue; elite salons and tertulias host literary and political discussion; popular taverns and chicherías provide working-class sociability; civil conflict disrupts festive calendars.
+
+__Stratification, Status & Group Structure:__ Legal caste distinctions are abolished, but de facto racial hierarchy persists; military rank, landholding, and mercantile wealth define elite status; indigenous and African-descended populations remain subordinate; social mobility is limited.
+
+__Administrative Capacity & Institutional Integrity:__ State apparatus remains weak outside capitals; tax collection is incomplete and corrupt; census and cadastre are fragmentary; congresses and constitutions proliferate without institutionalization; Chile's Portales Constitution (1833) provides exceptional stability.
+
+__Coercive Apparatus & Means of Force:__ Caudillo armies are the effective coercive force — loose coalitions of personal followers, regional militias, and national guard units; professional standing armies are small and underfunded; naval forces are minimal except Chile's modest squadron.
+
+__Discharge, Disorder & Decay:__ Banditry flourishes in countryside; civil wars recur every few years in Peru and Bolivia; Chile's relative order after 1830 is exceptional; institutional decay outpaces reconstruction; grievance accumulates among losers of each conflict.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Cynicism about political promises is widespread; regional pride and loyalty to local strongmen supplant national sentiment; trust contracts to kin and patron-client networks; the radius of cooperation remains narrow.
+
+__Leadership & Personal Authority:__ Caudillos — Gamarra, Santa Cruz, Castilla in Peru; Portales, Bulnes in Chile; Ballivián in Bolivia — embody personal authority; charisma, military prowess, and patronage capacity determine followings; institutional office is secondary to personal power.
+
+__Legitimacy as Lived Allegiance:__ Constitutional legitimacy is nominal; effective allegiance flows to whoever controls resources and force; legitimacy is personal and transactional, not institutional or ideological.
+
+__Political Will & Collective Resolve:__ Elite will is fragmented among competing factions; popular will is mobilized episodically for caudillo campaigns; no durable collective project commands sustained resolve; state-building will is strongest in Chile under conservative hegemony.
+
+__External Relations & Posture:__ Chile defeats the Peru-Bolivia Confederation (1836–1839), asserting regional primacy; Peru and Bolivia quarrel over boundaries and hegemony; foreign powers — Britain, France, the United States — intervene to protect commercial interests and debts.
+
+__Disaffection, Apathy & Spent Will:__ Exhaustion from recurrent civil war produces political apathy among urban populations; disaffection from republican promises spreads as constitutions change without material improvement; spent will is general except where guano wealth revives hope in Peru.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish literacy remains confined to urban elites, clergy, and artisans — roughly 15–20 percent in Chile, 10–15 percent in Peru and Bolivia; Quechua and Aymara speakers remain outside print culture; oral transmission dominates rural zones.
+
+__Channels & Transmission Velocity:__ Horseback couriers, coastal shipping, and riverine transport carry messages; no telegraph until the 1860s; news from Europe takes months; internal communication is slow, limiting coordination and delaying crisis response.
+
+__Record, Storage & Persistence:__ Government archives accumulate unevenly; ecclesiastical registers continue; print runs of newspapers and pamphlets are preserved by elite collectors and institutional libraries; much is lost to decay, fire, and war.
+
+__Framing, Censorship & Discourse Norms:__ Each faction censors opponents when in power; press freedom is proclaimed in constitutions but violated in practice; political discourse is polemical, personal, and partisan; libel and sedition prosecutions recur.
+
+__Reception, Attention & Amplification:__ Newspapers circulate among elite subscribers — circulation in the hundreds to low thousands — and are read aloud in cafés and plazas; pamphlets pass hand to hand; rumor amplifies and distorts printed content.
+
+__Signal Integrity & Noise Load:__ Competing factional claims generate high noise; verification is difficult; rumor often outruns reliable news; the information environment is fragmented and unreliable.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Elite discourse invokes republican virtue and constitutional order; popular sense of justice centers on reciprocity, patron obligation, and divine sanction; gap between proclaimed principle and lived practice is wide.
+
+__Law, Codification & Regulatory Evolution:__ Constitutions proliferate — Peru has six between 1823 and 1860 — and civil codes begin drafting; commercial law adapts to foreign trade; criminal codes remain colonial or ad hoc; enforcement is weak.
+
+__Adjudication, Liability & Sanction:__ Courts operate under shifting jurisdictions; military tribunals handle political crimes; civil litigation is slow and corrupt; sanction depends on the power of the parties.
+
+__Rights, Protections & Compliance Burden:__ Declared rights exceed actual protection; indigenous tribute abolition is reversed; property rights depend on patron connection; compliance burden falls on the powerless.
+
+__Impunity & Unredressed Wrong:__ Caudillos and their clients enjoy impunity; defeated factions suffer confiscation and exile; atrocities in civil war go unpunished; the backlog of unredressed wrong accumulates with each conflict.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Romantic nationalism and positivism begin to influence elite thought; natural history expeditions document flora and fauna; political economy is debated in pamphlets; empirical inquiry is limited to foreign-trained physicians and naturalists.
+
+__Applied Knowledge & Technical Method:__ Mining techniques remain traditional; printing technology improves incrementally with imported presses; no indigenous engineering capacity develops; applied knowledge is imported.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities at Lima, Santiago, and La Paz train lawyers, clergy, and physicians; primary education expands slowly through Lancasterian schools and Church instruction; literacy rates rise modestly; Chile leads in educational development.
+
+__Obsolescence & Knowledge Decay:__ Colonial administrative knowledge continues to atrophy; some libraries recover from war damage; oral transmission preserves indigenous knowledge outside formal channels; no major knowledge loss occurs beyond the post-independence disruption.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Independence founders become mythic heroes — Bolívar, San Martín, O'Higgins — commemorated in print and public monument; indigenous memory remains separate; regional identities (Arequipeño, Sureño) rival national ones.
+
+__Legitimating Narrative & Ideology:__ Republicanism remains the legitimating frame, but its content varies — conservative order in Chile, liberal reform in Peru's guano-funded projects; ideology is contested and unstable.
+
+__Artistic Expression & Material Culture:__ Neoclassical and early Romantic styles prevail in official art and architecture; elite dress follows European fashion; popular material culture — weaving, pottery, costume — continues Andean traditions; nascent costumbrismo depicts local types.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary symbolism retains some charge; republican rhetoric is already becoming formulaic; popular forms remain vital; form exhaustion is not yet a significant residue.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic Christianity remains hegemonic; Providence frames public events; fatalism coexists with reform aspirations; indigenous cosmologies persist beneath Catholic overlay.
+
+__Ritual, Devotion & Sacred Practice:__ Mass, sacraments, and feast days structure religious life; processions and pilgrimages mobilize popular devotion; family altars and santos anchor domestic piety.
+
+__Religious Institutions & Doctrinal Authority:__ The Church retains landholding, tithe collection, and educational roles; anticlerical liberalism challenges ecclesiastical privilege in Peru and Chile but does not yet disestablish; clergy remain influential in politics.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism remains dominant; Protestant presence is negligible — a few merchants and missionaries; indigenous syncretism continues unchanged; no spiritual displacement occurs.
+
+__Disenchantment & Sacred Discharge:__ Elite liberals express skepticism and Voltairean anticlericalism in print; masses remain devout; disenchantment is an elite phenomenon and does not constitute a structural residue during this window.

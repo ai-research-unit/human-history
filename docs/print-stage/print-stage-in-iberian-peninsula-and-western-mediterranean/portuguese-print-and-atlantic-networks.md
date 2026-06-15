@@ -1,69 +1,139 @@
-# __1500 CE – 1930 CE__ — Portuguese Print and Atlantic Networks
-__Summary:__ A pan-temporal snapshot of Portuguese print culture across the Print Stage, tracing production from Lisbon's early presses through colonial constraints, Pombaline reform, liberal revolution, and republican transformation, with particular attention to Atlantic networks linking Portugal, Brazil, and diaspora communities. The binding constraint is the small metropolitan market and colonial policy that restricts overseas printing until 1808, channeling demand through Lisbon and creating dependency on imported ideas. Margin against disruption is thin given reliance on Atlantic shipping and vulnerability to political upheaval; the principal direction is gradual expansion of print access, punctuated by the rupture of Brazilian independence and the slow emergence of a Portuguese-language public sphere spanning multiple continents.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Portugal's Atlantic coastline and riverine access to interior (Tagus, Douro) facilitate Lisbon's dominance; colonial territories (Brazil, Angola, Goa, Macao) separated by oceanic distances that impose months-long transmission delays; mountain barriers to Spain limit overland exchange.<br><br>
-__Climate Regime & Volatility:__ Mediterranean and Atlantic climates support agriculture without imposing direct constraints on print; colonial tropics require adapted paper storage but climate is not a binding variable.<br><br>
-__Hazard Regime & Exposure:__ Lisbon earthquake 1755 destroys archives, libraries, and printing infrastructure, requiring reconstruction; colonial hurricanes and monsoons occasionally disrupt shipping; hazard exposure episodically significant.<br><br>
-__Resource & Energy Endowment:__ Paper imported or produced from limited domestic rags; type initially imported from Low Countries; colonial hardwoods and later Brazilian paper mills supplement supply; energy from water and muscle adequate for pre-industrial output.<br><br>
-__Waste Absorption & Sink Capacity:__ Print production generates negligible waste; absorptive capacity effectively unlimited relative to load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague until seventeenth century, yellow fever and malaria in tropics, cholera nineteenth century; mortality baseline higher in colonies; literate population subject to same disease environment.<br><br>
-__Nutrition & Physiological Vitality:__ Metropolitan nutrition adequate for literate classes; colonial populations variable; nutritional status not a direct constraint on print production.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Catholic marriage norms; clerical celibacy removes portion of literate population from reproduction; no distinctive selective pressure from print culture.<br><br>
-__Demographic Renewal & Density:__ Small metropolitan population (under 3 million until nineteenth century) limits domestic market; Brazil's population grows to exceed Portugal's; density adequate for urban print markets in Lisbon, Porto, later Rio, Bahia.<br><br>
-__Attrition & Dependency Overhang:__ Colonial mortality generates orphans and widows absorbed by Church and kin; dependency load manageable within existing structures.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Metropolitan agriculture supplemented by colonial imports; subsistence floor adequate; famines rare after seventeenth century; purchasing power for books concentrated among elites.<br><br>
-__Energy Capture & Conversion:__ Manual and water-powered presses until steam arrives mid-nineteenth century; energy conversion adequate for modest output; industrial printing expands capacity late in window.<br><br>
-__Labor Organization & Coercion:__ Printing trades organized in corporations; journeymen and apprentices under guild discipline; colonial labor includes enslaved and coerced workers in ancillary roles but skilled typesetting remains metropolitan monopoly until 1808.<br><br>
-__Production & Surplus Capacity:__ Lisbon dominates metropolitan production; colonial printing nearly absent until Rio opens 1808; production capacity constrained by small market and censorship licensing; surplus capacity low.<br><br>
-__Storage, Reserves & Buffering:__ Book inventories held by Lisbon booksellers; colonial stocks shipped on consignment; reserves thin; earthquake 1755 wipes out accumulated stock.<br><br>
-__Exchange, Trade & Logistics:__ Atlantic shipping networks distribute books to Brazil, Africa, Asia; return trade in colonial goods finances imports; logistics dependent on seasonal fleets until nineteenth-century regularization; distribution bottlenecks at colonial ports.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Credit extended through merchant networks; bills of exchange facilitate Atlantic trade; no specialized instruments for print trade; currency instability nineteenth century disrupts transactions.<br><br>
-__Surplus Extraction & Redistribution:__ Crown extracts licensing fees and customs duties; Church collects fees for religious imprints; extraction burden moderate but concentrates profit in licensed monopolists.<br><br>
-__Wealth Distribution & Asset Defense:__ Printing privileges concentrated among few Lisbon houses; wealth defended through royal license; colonial merchants accumulate capital in book import trade.<br><br>
-__Byproducts & Waste Routing:__ Condemned and obsolete books pulped or burned; waste volume trivial; routing decisions unremarkable.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Atlantic networks sustain diaspora trust; merchant correspondence builds commercial confidence; Inquisition surveillance erodes trust among converso communities; trust radius expands with liberal reforms.<br><br>
-__Stratification, Status & Group Identity:__ Nobility, clergy, and merchant elites dominate literate culture; converso origins investigated; colonial-born (brasileiros) develop distinct identity; stratification slowly loosens nineteenth century.<br><br>
-__Kinship, Family & Inheritance:__ Printing privileges sometimes hereditary; merchant families sustain Atlantic networks across generations; kinship structures transmit commercial and cultural capital.<br><br>
-__Civic Association & Self-Organization:__ Academies and learned societies (Academia Real das Ciências) emerge eighteenth century; Masonic lodges spread liberal ideas; associational fabric thickens in nineteenth century.<br><br>
-__Leisure, Play & Sociability:__ Tertulias, salons, and academies circulate ideas; theatre and opera subject to parallel regulation; sociability channels supplement print.<br><br>
-__Grievance Channels & Social Discharge:__ Inquisition absorbs denunciations until abolition 1821; liberal reforms open petition and press; unmetabolized grievance accumulates among conversos and colonial elites until independence releases pressure.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Absolute monarchy until 1820 liberal revolution; constitutional monarchy thereafter with republican interlude 1910; censorship authority shifts from Inquisition to Real Mesa Censória (1768) to secular state.<br><br>
-__Succession & Power Transfer:__ Dynastic crises (Spanish union 1580–1640, Miguelite wars 1828–1834) disrupt print regulation; Pedro I's Brazilian independence 1822 splits Atlantic network; transfers routinized under constitutional monarchy.<br><br>
-__Legitimacy & Political Narrative:__ Maritime empire and Catholic mission legitimate early modern rule; Pombaline reform invokes Enlightenment; liberalism claims constitutional rights; republicanism (1910) asserts secular modernity.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Real Mesa Censória centralizes licensing 1768; capacity adequate for small output; nineteenth-century state expands reach; integrity variable with political cycles.<br><br>
-__Political Participation & Mobilization:__ Print enables liberal mobilization from 1820; partisan press proliferates; republican and labor press emerge late nineteenth century; participation channels widen across window.<br><br>
-__Geopolitical Position & External Relations:__ British alliance secures Atlantic trade but also opens channels for liberal ideas; French invasion 1807 forces court to Brazil; colonial loss (Brazil 1822) contracts empire; African colonies retained.<br><br>
-__Coercive Apparatus & Means of Force:__ Inquisition and royal police enforce censorship; military governs during crises; coercive capacity adequate for small polity; colonial enforcement dependent on distance and local compliance.<br><br>
-__Internal Order & Threat Environment:__ Liberal-absolutist conflict generates disorder 1820s–1830s; republican transition 1910 relatively peaceful; anarchist and labor unrest early twentieth century; threat level moderate.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Atlantic shipping dominates until steamship and telegraph accelerate transmission mid-nineteenth century; newspapers establish regular schedules; velocity increases but distance remains a factor for colonial communication.<br><br>
-__Record, Storage & Persistence:__ Royal archives, Inquisition records, and monastic libraries preserve documentation; earthquake 1755 destroys significant holdings; persistence variable; Brazilian archives develop independently after 1808.<br><br>
-__Framing, Censorship & Discourse Norms:__ Inquisitorial and royal censorship until 1768; Real Mesa Censória rationalizes licensing; liberal constitutions proclaim press freedom, suspended during reaction; permitted band widens across window with oscillations.<br><br>
-__Reception, Attention & Amplification:__ Small literate public limits circulation; diaspora networks amplify Portuguese-language texts across Atlantic; clandestine circulation of banned works; attention concentrated among elites until mass literacy expands late nineteenth century.<br><br>
-__Signal Integrity & Noise Load:__ Censorship reduces ideological noise but also signal diversity; verification concentrated in licensed reviewers; noise load low but informational poverty in approved discourse.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic orthodoxy defines baseline; Pombaline reforms invoke reason; liberal constitutionalism claims rights; republican secularism contests religious authority; moral foundations shift across window.<br><br>
-__Law, Codification & Regulatory Evolution:__ Inquisitorial decrees and royal pragmáticas govern early period; Real Mesa Censória consolidates 1768; constitutional press laws 1820s; codification stabilizes late nineteenth century.<br><br>
-__Adjudication, Enforcement & Liability:__ Inquisition tribunals until 1821; secular courts thereafter; liability on authors, printers, editors; enforcement throughput adequate for small market.<br><br>
-__Rights, Protections & Compliance Burden:__ Pre-publication licensing imposes compliance burden; constitutional periods expand protections; compliance burden lightens as prior restraint gives way to post-publication liability.<br><br>
-__Impunity & Unredressed Wrong:__ Inquisitorial abuses largely unpunished; liberal victims of Miguelite reaction uncompensated; impunity moderate; wrongful convictions occasionally reversed after regime change.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scholasticism dominant until Pombaline university reform 1772; Enlightenment infiltrates via estrangeirados; positivism and republicanism spread nineteenth century; scientific inquiry constrained then gradually freed.<br><br>
-__Applied Knowledge & Technical Method:__ Printing technology imported; navigational and cartographic knowledge applied to Atlantic enterprise; technical education expands under Pombal and republic.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy confined to clergy and elites until nineteenth-century expansion; Pombaline reforms secularize education; literacy rates rise slowly; skill distribution widens with republican schooling.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic orthodoxy ossifies; Enlightenment and liberal ideas displace traditional frameworks; decay accelerates earthquake losses; obsolescence of Inquisitorial worldview complete by window's end.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Maritime discoveries and Camões's Lusíadas anchor identity; Sebastianist messianism persists; liberal and republican martyrology emerges; memory of empire shapes self-understanding throughout.<br><br>
-__Artistic Expression & Material Culture:__ Baroque and Pombaline neoclassical styles dominate built environment; azulejo tradition persists; romantic and realist literature flourishes nineteenth century; material culture reflects Atlantic connections.<br><br>
-__Collective Mood & Behavioral Disposition:__ Saudade as persistent emotional register; post-1755 reconstruction generates reformist energy; liberal struggles produce alternating hope and disillusion; mood stabilizes under constitutional monarchy.<br><br>
-__Form Exhaustion & Meaning Decay:__ Baroque religious forms exhaust by eighteenth century; liberal constitutionalism becomes routine; imperial nostalgia hollows after Brazilian loss; form exhaustion moderate.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology dominant; Enlightenment doubt spreads among elites; secularizing drift accelerates under republic; full displacement incomplete by window's end.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Counter-Reformation devotions persist; auto-da-fé until Inquisition's decline; popular piety continues alongside elite secularization; Fatima apparitions 1917 revive devotion.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church institutional power strong until Pombaline Jesuit expulsion 1759; concordat regulates relations; republican anticlericalism 1910 seizes property and expels orders; authority contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestantism blocked; colonial syncretism (Afro-Brazilian religions) develops outside metropolitan control; Catholicism's monopoly maintained in metropole; secularism spreads among urban elites.<br><br>
-__Disenchantment & Sacred Discharge:__ Enlightenment and republicanism erode transcendent certainties; sacred charge drains from public sphere; Fatima partially recharges popular piety; disenchantment accumulates among educated classes but popular religion persists.<br><br>
+# __1500 CE – 1930 CE — Portuguese Print and Atlantic Networks__
+
+The binding constraint on Portuguese print culture is the empire's Atlantic orientation — Lisbon's position as hub of trade routes connecting Europe, Africa, Brazil, and Asia shapes what is printed, for whom, and to what end, embedding print in commercial and colonial networks that both enable and constrain the circulation of ideas across oceanic distances.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Portugal occupies the Atlantic edge of Iberia, its coastline facing outward while the Spanish interior remains alien; Lisbon dominates as port and capital, concentrating publishing where ships depart; Coimbra's university provides a secondary center; the empire stretches to Brazil, Angola, Mozambique, Goa, Macau — distances that impose months of transit between printing house and colonial reader.
+
+__Climate Regime & Volatility:__ The Atlantic climate moderates Lisbon and Porto, permitting year-round intellectual activity; colonial climates vary from tropical Brazil to monsoonal Goa, affecting paper preservation and readership patterns in the periphery.
+
+__Hazard Regime & Exposure:__ The Lisbon earthquake of 1755 devastates the capital's printing infrastructure, destroying presses, stocks, and archives; the reconstruction under Pombal reshapes the city and, indirectly, its print economy.
+
+__Resource & Energy Endowment:__ Paper mills depend on Iberian water power and imported rags; type must be purchased abroad or cast domestically with limited metallurgical capacity; the colonial empire provides exotic materials (Brazilian woods, Asian inks) that occasionally enhance book production.
+
+__Waste Absorption & Sink Capacity:__ Books shipped to tropical colonies decay rapidly in humid climates; the physical residue of colonial print culture rots in warehouses, is consumed by insects, or survives only in repatriated copies now held in Lisbon libraries.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Tropical diseases in Brazil and Africa claim printers, booksellers, and readers who venture to the colonies; metropolitan Portugal enjoys lower mortality, sustaining the core of the publishing industry.
+
+__Nutrition & Physiological Vitality:__ The literate elite in Lisbon enjoys better nutrition than the rural majority; colonial administrators and clergy form the reading public abroad, their vitality sustained by provisions imported from Portugal.
+
+__Care, Healing & Recovery Capacity:__ Hospitals in Lisbon and colonial capitals (Bahia, Rio de Janeiro, Goa) serve the literate classes; the Misericórdia brotherhood operates charitable institutions that indirectly support the publishing world's workforce.
+
+__Reproductive Biology & Pairing Dynamics:__ Portuguese colonial society mixes European, African, Indigenous, and Asian populations; mestizo and mulato literates emerge slowly, their access to print constrained by racial hierarchies.
+
+__Demographic Renewal & Density:__ Portugal's small population (1.5–2 million in 1500, rising to 5 million by 1900) limits the domestic reading market; emigration to Brazil drains literate colonists, shifting demand across the Atlantic.
+
+__Attrition & Dependency Overhang:__ The expulsion of Jews (1496–1497) removes a literate, commercially active minority; converso families persist under suspicion, some fleeing to Amsterdam where they establish Portuguese-language presses that circulate texts back into the empire.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Most Portuguese live at subsistence margins, their engagement with print limited to devotional tracts and practical almanacs; the market for serious books is small, concentrated among clergy, nobles, and merchants.
+
+__Energy Capture & Conversion:__ Printing presses require modest human and water power; the Atlantic trade provides capital that finances book production, but also competes for investment — why fund a press when a ship earns more?
+
+__Labor Organization & Coercion:__ Printers organize in guilds under municipal regulation; colonial printing (restricted until the nineteenth century) employs few workers; slave labor indirectly supports the economy that sustains metropolitan publishing.
+
+__Production & Surplus Capacity:__ Portuguese presses produce modest runs — a few hundred to a few thousand copies; ambitious projects (navigation manuals, colonial chronicles) require royal patronage; surplus capacity is limited.
+
+__Storage, Reserves & Buffering:__ Booksellers maintain inventories vulnerable to Inquisition seizure or maritime loss; shipping books to Brazil or Goa risks storms, pirates, and customs; reserves are thin.
+
+__Exchange, Trade & Logistics:__ Lisbon's position in Atlantic trade networks enables book export to Brazil, where no printing press operates until 1808; colonial readers depend entirely on metropolitan supply, creating a captive but distant market.
+
+__Value Storage, Credit & Deferred Exchange:__ Publishers require credit from Lisbon merchants connected to Atlantic trade; the same financial networks that fund sugar and slaves fund devotional books and legal commentaries.
+
+__Surplus Extraction & Redistribution:__ The Crown extracts licensing fees and monopoly rents; the Inquisition levies fines; these extractions fund church and state rather than reinvestment in publishing.
+
+__Wealth Distribution & Asset Defense:__ Successful printers and booksellers accumulate modest fortunes, often diversifying into other trades; wealth defense requires demonstrating orthodoxy and cultivating noble or clerical patrons.
+
+__Byproducts & Waste Routing:__ Unsold stocks decay in warehouses; colonial books rot in tropical humidity; the waste of print culture is dispersed across the Atlantic world.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Printing dynasties (Craesbeeck, Rodrigues) pass workshops through generations; reputations for orthodoxy and reliability are heritable assets in a small market.
+
+__Association & Mutual Aid:__ Guild structures provide mutual aid among printers; the Misericórdia brotherhoods connect Catholic elites who patronize and consume printed works.
+
+__Leisure, Play & Sociability:__ Academies and tertulias in Lisbon, Coimbra, and Rio de Janeiro provide sociable forums for literary exchange; these become nodes of Enlightenment discussion in the eighteenth century.
+
+__Stratification, Status & Group Structure:__ The clergy and nobility dominate book consumption; merchants form a growing readership; colonial elites — planters, administrators, lawyers — demand practical and prestige publications.
+
+__Administrative Capacity & Institutional Integrity:__ The Portuguese Inquisition, modeled on the Spanish, censors print but with somewhat less efficiency; royal bureaucracy licenses and taxes; the dual system creates gaps that contraband exploits.
+
+__Coercive Apparatus & Means of Force:__ The Inquisition arrests and punishes heretical authors and readers; the Crown controls colonial printing entirely, prohibiting presses in Brazil until the royal court's arrival in 1808.
+
+__Discharge, Disorder & Decay:__ The prohibition on colonial printing generates resentment among Brazilian elites; the system cracks with Napoleon's invasion, and Brazilian independence (1822) severs the metropolitan monopoly; Portuguese publishing thereafter serves a reduced domestic market.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A culture of caution pervades Portuguese letters — awareness of Inquisition surveillance, suspicion of heterodoxy, preference for the safe topic over the bold argument.
+
+__Leadership & Personal Authority:__ The Marquis of Pombal (1750–1777) exemplifies how a powerful minister can reshape print culture, expelling the Jesuits, reforming the university, and promoting Enlightened publications while maintaining censorship.
+
+__Legitimacy as Lived Allegiance:__ The Crown's legitimacy is enhanced by print — royal edicts, chronicles of imperial glory, devotional texts affirming divine favor; print serves the monarchy's self-presentation.
+
+__Political Will & Collective Resolve:__ The will to maintain the colonial print monopoly is strong until Napoleon's invasion; thereafter, liberal and absolutist factions struggle, with print freedom a battleground.
+
+__External Relations & Posture:__ Portugal's alliance with Britain after 1703 permits some British intellectual influence; the Amsterdam Portuguese-Jewish community publishes works that circulate clandestinely; Portugal is open to the Atlantic but guarded against heterodoxy.
+
+__Disaffection, Apathy & Spent Will:__ Colonial elites grow disaffected with metropolitan control of print; Brazilian independence channels this resentment into a new national publishing culture; Portuguese print culture thereafter is diminished, provincial.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Portuguese literacy is low — perhaps 10-15 percent in 1800, rising slowly to 30 percent by 1930 — limiting the reading public; Portuguese serves as the lingua franca of empire, but many colonial subjects do not read it.
+
+__Channels & Transmission Velocity:__ Ships carry books across months of ocean; news from Lisbon reaches Rio de Janeiro weeks or months late; the Atlantic is a slow channel.
+
+__Record, Storage & Persistence:__ Archives in Torre do Tombo (Lisbon) preserve Inquisition records, royal correspondence, and colonial documentation; colonial archives are sparser, vulnerable to tropical decay.
+
+__Framing, Censorship & Discourse Norms:__ The Inquisition's Index and royal licensing define what can be said; authors internalize prohibitions; the discourse norm is cautious orthodoxy, with occasional Enlightenment daring under Pombal.
+
+__Reception, Attention & Amplification:__ Colonial readers value metropolitan publications for their prestige; locally produced (post-1808) Brazilian works compete; the Atlantic creates a split attention economy.
+
+__Signal Integrity & Noise Load:__ Distance degrades signal — rumors, garbled reports, outdated information arrive in the colonies; the Inquisition's efforts to suppress heterodoxy create noise by drawing attention to what it forbids.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Catholic orthodoxy provides the moral frame; salvation justifies censorship; justice is divine before it is civil.
+
+__Law, Codification & Regulatory Evolution:__ The Ordenações Filipinas govern print licensing alongside Inquisition rules; successive constitutions (1822, 1826, 1838, 1911) variously guarantee and restrict press freedom.
+
+__Adjudication, Liability & Sanction:__ Inquisitorial tribunals judge authors and printers; secular courts adjudicate civil matters; sanctions range from fines to imprisonment to auto-da-fé.
+
+__Rights, Protections & Compliance Burden:__ No right to publish exists until liberal constitutions; compliance burden falls on printers who navigate overlapping royal and Inquisitorial requirements.
+
+__Impunity & Unredressed Wrong:__ Those condemned by the Inquisition have limited appeal; wrongful accusations destroy reputations; the 1821 abolition of the Inquisition leaves many wrongs unredressed.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Portuguese intellectual life centers on theology, law, and navigation; practical sciences — cartography, shipbuilding, medicine — advance in service of empire; abstract natural philosophy lags.
+
+__Applied Knowledge & Technical Method:__ Navigation manuals (regimentos), cartographic atlases, and medical guides represent Portugal's technical contribution; print disseminates this applied knowledge across the empire.
+
+__Education, Knowledge Stock & Skill Distribution:__ The University of Coimbra dominates higher education; Jesuit colleges educate the elite until 1759; Pombaline reforms attempt modernization; the knowledge stock is rich in theology and law, thin in science.
+
+__Obsolescence & Knowledge Decay:__ Colonial isolation preserves outdated knowledge; metropolitan updates arrive slowly; the expulsion of Jesuits disrupts educational continuity; knowledge decays at the periphery.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Discoveries provide Portugal's foundational myth — Vasco da Gama, Camões's Lusíadas, the empire as divine mission; print perpetuates this self-image.
+
+__Legitimating Narrative & Ideology:__ The empire justifies itself as civilizing and Christianizing mission; print disseminates this ideology through chronicles, missionary accounts, and devotional literature.
+
+__Artistic Expression & Material Culture:__ Portuguese Baroque architecture and azulejo tile work parallel printed devotional culture; literature ranges from Camões's epic to eighteenth-century satire; colonial art and literature emerge slowly, blending metropolitan and local forms.
+
+__Form Exhaustion & Meaning Decay:__ By the nineteenth century, imperial narratives ring hollow as Brazil separates and African colonies stagnate; Romanticism and Realism import European forms; the old legitimating mythology loses force.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology frames Portuguese self-understanding — the empire as instrument of Providence, the king as God's agent, heresy as cosmic threat.
+
+__Ritual, Devotion & Sacred Practice:__ Print disseminates devotional practices — prayer books, hagiographies, Marian devotions — across the Atlantic; colonial Catholics consume metropolitan religious publications.
+
+__Religious Institutions & Doctrinal Authority:__ The Inquisition (established 1536) consolidates doctrinal authority; the Church controls education; the Jesuits dominate until their expulsion; the religious orders shape what is published and read.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism spreads through print and preaching across Brazil, Africa, and Asia; syncretism with Indigenous and African practices occurs despite official suppression; Islam and Hinduism persist in the Asian territories.
+
+__Disenchantment & Sacred Discharge:__ The nineteenth century brings gradual secularization — the abolition of the Inquisition (1821), anticlericalism among liberals, the separation of church and state under the Republic (1910); the sacred justification of empire and censorship fades, leaving a secular literary culture that, by 1930, engages European modernism while remembering, ambivalently, its imperial and orthodox past.

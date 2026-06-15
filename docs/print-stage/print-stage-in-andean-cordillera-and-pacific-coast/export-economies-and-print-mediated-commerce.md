@@ -1,69 +1,139 @@
-# __1810 CE – 1950 CE__ — Export Economies and Print-Mediated Commerce
-__Summary:__ A pan-temporal overview of the Andean export economy and its print infrastructure from independence to the Depression recovery; the binding constraint is dependence on primary commodity exports (guano, nitrates, tin, copper) whose prices are set in distant markets, leaving the region structurally vulnerable to demand shocks; print mediates this economy through commercial documentation, price telegrams, and business correspondence, while newspapers track commodity markets and publicize commercial opportunities; the system holds moderate margin through commodity diversification across the republics but absorbs severe shocks in the 1880s and 1930s; the trend is toward deeper integration into global commodity markets via print and telegraph infrastructure.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Atacama desert holds nitrate and copper deposits; Bolivian highlands contain tin ores; Peruvian guano islands lie offshore; Andean terrain imposes high friction on ore transport, partially overcome by railways connecting mines to Pacific ports; coastal shipping links regional ports to global markets.<br><br>
-__Climate Regime & Volatility:__ Arid conditions preserve guano and nitrate deposits; highland mining operates in cold, dry climate; El Nino events affect coastal fisheries and guano bird populations periodically; climate stable for mining operations across the window.<br><br>
-__Hazard Regime & Exposure:__ Earthquakes damage port infrastructure periodically; mine collapses localized hazards; no systemic exposure threatening export capacity; hazard margin adequate.<br><br>
-__Resource & Energy Endowment:__ Guano deposits finite, largely exhausted by 1880s; nitrate reserves extensive but synthetics erode market after 1920s; Bolivian tin reserves substantial; copper deposits in Chile enormous; coal imported for steam; energy endowment adequate for extraction scale.<br><br>
-__Waste Absorption & Sink Capacity:__ Mining tailings accumulate at extraction sites; nitrate processing leaves residue on desert surface; guano extraction leaves depleted islands; absorption capacity of desert landscape high; no binding sink constraint during the window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Mining camps face elevated disease exposure; silicosis affects miners; coastal ports endemic for tropical diseases; mortality elevated in extraction workforce; replacement migration continuous.<br><br>
-__Nutrition & Physiological Vitality:__ Mining labor force poorly nourished; company stores provide basic provisions; highland indigenous workers adapted to altitude but subject to exploitation; nutritional status of export labor force marginal.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Mining camps predominantly male; family formation limited in extraction zones; seasonal and migrant labor patterns disrupt pairing; reproduction maintained in highland communities supplying labor.<br><br>
-__Demographic Renewal & Density:__ Export zones draw labor from indigenous highlands and foreign immigration (Chilean, Chinese, later European); density concentrated at ports and mining camps; demographic renewal depends on continuous migration rather than local reproduction.<br><br>
-__Attrition & Dependency Overhang:__ High miner attrition from accidents and disease; widows and orphans concentrated in highland sending communities; dependency overhang absorbed by extended family and community networks; mine owners bear minimal burden.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Export workers above bare subsistence through wages and company provisions; indigenous communities near subsistence floor supply seasonal labor; export economy floats above but connected to subsistence base through labor recruitment.<br><br>
-__Energy Capture & Conversion:__ Steam power drives railways, pumps, and processing; coal imported from Britain, later from domestic sources; human and animal muscle supplements mechanical power in mines; energy conversion adequate for extraction and transport scale.<br><br>
-__Labor Organization & Coercion:__ Labor recruitment draws indigenous workers through debt peonage early, wage labor later; Chinese contract labor on guano islands; strikes emerge late nineteenth century; union organization grows through window; coercion declines but exploitation persists.<br><br>
-__Production & Surplus Capacity:__ Guano exports peak 1860s-1870s; nitrate production dominates 1880s-1920s; tin output grows continuously; surplus enormous relative to domestic economy but captured largely by foreign investors and local oligarchy; production capacity exceeds demand during Depression.<br><br>
-__Storage, Reserves & Buffering:__ Commodities stored at ports awaiting shipment; price volatility absorbed by merchant credit; state reserves built during booms, depleted during busts; buffering capacity moderate, insufficient against prolonged price collapse.<br><br>
-__Exchange, Trade & Logistics:__ Telegraph transmits prices from Liverpool, London, New York; merchants coordinate via commercial correspondence; bills of lading document shipments; railways connect mines to ports; Pacific shipping to global markets; logistics adequate, constrained by rail capacity during booms.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ British pound and later US dollar serve as external reference currencies; local currencies unstable; foreign merchant houses provide credit; commercial banks emerge; debt cycles tied to export commodity prices; credit contraction during busts severe.<br><br>
-__Surplus Extraction & Redistribution:__ Export taxes fund state budgets; guano revenues sustain Peru 1850s-1870s; nitrate revenues fund Chilean state after 1884; Bolivian tin taxes finance government; surplus redistributed through patronage, infrastructure, and military spending.<br><br>
-__Wealth Distribution & Asset Defense:__ Export wealth concentrated in merchant houses, oligarchic families, and foreign investors; Patino family dominates Bolivian tin; Edwards and other families control Chilean enterprises; extreme concentration with minimal redistribution; asset defense through political influence.<br><br>
-__Byproducts & Waste Routing:__ Mining waste dumped at extraction sites; nitrate tailings left in Atacama; no recycling; environmental costs externalized to desert landscape and mining communities; waste routing a non-constraint given geographic isolation of extraction.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Mining communities develop worker solidarity; mutual aid societies form; ethnic enclaves (Chinese, European) maintain internal trust; relations between labor and owners adversarial; trust radius limited by class division.<br><br>
-__Stratification, Status & Group Identity:__ Sharp division between foreign and domestic owners, mestizo foremen, indigenous and immigrant laborers; racial hierarchy maps onto occupational hierarchy; status boundaries rigid in mining sector; commercial elite distinct from landed aristocracy.<br><br>
-__Kinship, Family & Inheritance:__ Commercial dynasties transmit enterprises within families; mining labor disrupts family formation; inheritance patterns favor concentration of commercial wealth; indigenous kinship systems maintain labor supply networks.<br><br>
-__Civic Association & Self-Organization:__ Chambers of commerce organize merchant interests; worker mutual aid societies emerge; mining unions form late nineteenth century; civic association stratified by class with limited cross-class organization.<br><br>
-__Leisure, Play & Sociability:__ Mining camps provide cantinas and gambling; port cities develop commercial entertainment; elite sociability in commercial clubs; leisure stratified and commercialized.<br><br>
-__Grievance Channels & Social Discharge:__ Labor strikes primary grievance channel; repression common (Iquique 1907); union newspapers articulate demands; discharge blocked during authoritarian periods; social friction accumulates around labor conditions.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Export revenues empower central states; oligarchic republics rule through control of export surplus; foreign investors exercise informal influence; power concentrated among export-linked elites in each republic.<br><br>
-__Succession & Power Transfer:__ Export revenues fund political machines; succession contested among elite factions; coups often linked to fiscal crises from export downturns; transfer mechanisms unstable, especially during commodity busts.<br><br>
-__Legitimacy & Political Narrative:__ Progress ideology justifies export development; civilizing mission rhetoric legitimates elite rule; nationalist narratives emerge around resource control; legitimacy contested by labor and indigenista movements.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Customs administration crucial for revenue extraction; corruption endemic but manageable; telegraph improves coordination; administrative capacity concentrated at ports and capital cities; integrity variable across regimes.<br><br>
-__Political Participation & Mobilization:__ Export workers excluded from formal politics until late in window; labor mobilization through strikes and union organization; middle-class participation expands 1920s; participation channels narrow during authoritarian periods.<br><br>
-__Geopolitical Position & External Relations:__ War of the Pacific reshapes territorial control of export resources; Bolivia loses coast; British and later US economic influence shapes policy; external relations dominated by resource access and market relations.<br><br>
-__Coercive Apparatus & Means of Force:__ Military funded by export revenues; labor repression capacity developed; mining zones subject to martial law during strikes; coercive apparatus deployed to maintain extraction conditions.<br><br>
-__Internal Order & Threat Environment:__ Labor unrest primary threat to internal order; banditry limited; political instability during commodity busts; order maintained through combination of co-optation and repression; threat manageable except during severe downturns.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph connects Andean ports to global commodity markets from 1870s; price information transmitted within hours; commercial newspapers publish market reports; velocity of commercial information high by late nineteenth century.<br><br>
-__Record, Storage & Persistence:__ Commercial records maintained by merchant houses and banks; shipping documentation archived at ports; business correspondence preserved variably; company records survive where enterprises persist; state archives hold customs records.<br><br>
-__Framing, Censorship & Discourse Norms:__ Commercial information relatively uncensored; labor press subject to suppression; business discourse conducted through specialized commercial pages; discourse norms favor technical precision in market reporting.<br><br>
-__Reception, Attention & Amplification:__ Commercial information consumed by merchant class; market reports in newspapers reach business community; labor press reaches workers; amplification follows commercial and political networks; attention concentrated among economic actors.<br><br>
-__Signal Integrity & Noise Load:__ Price telegrams high integrity; commercial documentation standardized; rumor affects speculation but core commercial information reliable; noise load moderate, cleared by market verification.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Contract sanctity fundamental to commercial morality; labor exploitation normalized within elite discourse; worker justice claims articulated through labor press; competing moral frameworks across class divide.<br><br>
-__Law, Codification & Regulatory Evolution:__ Commercial codes govern contracts; mining codes regulate concessions; labor law minimal until late in window; regulatory burden light on capital, heavy on labor; evolution toward labor protection slow and incomplete.<br><br>
-__Adjudication, Enforcement & Liability:__ Commercial disputes adjudicated through courts and arbitration; foreign investors access consular protection; labor grievances rarely reach courts; enforcement favors capital; liability for workplace accidents minimal.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights protected; labor rights minimal; compliance burden on enterprises light; workers bear costs of contract violations and workplace hazards; protection asymmetric across class.<br><br>
-__Impunity & Unredressed Wrong:__ Labor abuses largely unpunished; Iquique massacre (1907) exemplifies impunity; worker injuries and deaths uncompensated; impunity burden concentrated on extraction workforce throughout window.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Economic liberalism frames export development; comparative advantage ideology justifies specialization; engineering and geology applied to extraction; positivism shapes elite worldview; Marxist analysis enters labor discourse.<br><br>
-__Applied Knowledge & Technical Method:__ Mining engineering imported from Europe; railway construction techniques transferred; metallurgical processing methods adopted; technical knowledge adequate for extraction scale; innovation in processing continuous.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Engineering education develops in capitals; technical skills concentrated among foreign and domestic elite; worker skills acquired on job; literacy limited among extraction workforce; knowledge distribution highly unequal.<br><br>
-__Obsolescence & Knowledge Decay:__ Guano extraction techniques become obsolete with deposit exhaustion; nitrate methods rendered obsolete by synthetic competition; tin and copper extraction methods updated continuously; obsolescence driven by market shifts rather than internal decay.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Export wealth becomes source of national pride and grievance; War of the Pacific central to Chilean triumphalism and Bolivian irredentism; mining regions develop distinctive regional identities; worker solidarity myths emerge in labor culture.<br><br>
-__Artistic Expression & Material Culture:__ Company towns display industrial architecture; port cities develop commercial districts; export wealth funds elite mansions and public buildings in capitals; material culture reflects export-driven modernization.<br><br>
-__Collective Mood & Behavioral Disposition:__ Boom periods generate optimism and speculation; busts produce anxiety and resentment; labor movements express militant determination; mood fluctuates with commodity cycles.<br><br>
-__Form Exhaustion & Meaning Decay:__ Progress rhetoric becomes stale by Depression; export development ideology loses credibility with market collapse; nationalist and populist forms emerge as alternatives; exhaustion of liberal export model evident by 1930s.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic framework persists; worker fatalism coexists with secular solidarity; elite liberalism detached from religious observance; existential outlook varies by class and region.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mining communities maintain Catholic observances; patron saint festivals in extraction zones; devotion provides meaning amid dangerous work; practice continuous throughout window.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church presence in mining zones limited; chaplains serve some camps; institutional authority weak in extraction frontier; doctrinal questions secondary to survival concerns.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous spirituality persists in highland communities supplying labor; some Protestant missions to workers; Catholic dominance maintained without systematic displacement; syncretism continuous in highland zones.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular labor ideologies spread among workers; socialist and anarchist frameworks provide alternative meaning; some disenchantment among educated labor activists; sacred discharge partial, with religious observance and secular solidarity coexisting.<br><br>
+# __1810 CE – 1950 CE — Export Economies and Print-Mediated Commerce__
+
+Guano, nitrates, copper, and tin flow outward while printed matter coordinates production, finance, and labor across Peru, Chile, and Bolivia. The binding constraint is commodity dependence: the region's integration into global markets through a narrow range of extractive exports creates boom-bust cycles that print infrastructure both reflects and amplifies, with commercial newspapers, price bulletins, and financial prospectuses channeling capital, shaping speculation, and leaving fiscal collapse and labor unrest as recurring residues.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Export nodes concentrate at ports (Callao, Valparaiso, Iquique, Antofagasta, Arica) and mining districts (Chincha Islands, Atacama nitrate pampa, Cerro de Pasco copper, Bolivian tin belt). Print circulates commercial intelligence between these nodes and metropolitan capitals; interior highlands remain marginal to export flows.
+
+__Climate Regime & Volatility:__ The hyper-arid Atacama preserves nitrate deposits and minimizes extraction costs; Pacific coastal currents enable guano accumulation. El Nino disruptions affect coastal shipping and agricultural exports, triggering price volatility reported in commercial bulletins.
+
+__Hazard Regime & Exposure:__ Earthquakes damage port facilities and railways (Arica 1868, Valparaiso 1906), disrupting export schedules and requiring reconstruction capital mobilized through printed bond issues.
+
+__Resource & Energy Endowment:__ Guano exhaustion (1870s) is succeeded by nitrate exploitation, itself rendered obsolete by synthetic nitrogen (post-1914). Copper and tin prove more durable; their price cycles dominate Andean export revenues into the broadcast era. Coal imports and hydroelectric development (Chile, 1900s) power processing and transport.
+
+__Waste Absorption & Sink Capacity:__ Nitrate extraction leaves behind salares landscapes stripped of caliche. Copper smelting pollutes highland watersheds. Export-oriented production externalizes environmental costs onto local communities, rarely documented in commercial press.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Mining camps suffer elevated mortality from silicosis, typhus, and occupational injury; company hospitals provide minimal care. Port cities face yellow fever and cholera outbreaks that disrupt labor supply and shipping.
+
+__Nutrition & Physiological Vitality:__ Export laborers subsist on company-provisioned rations in isolated camps; nutritional standards vary with commodity prices and company policy. Highland mining (Cerro de Pasco, Bolivian tin) imposes altitude stress on coastal migrants.
+
+__Care, Healing & Recovery Capacity:__ Company doctors and pulperias (company stores) provide rudimentary care; printed company rules codify health provisions. Urban hospitals in port cities treat injured workers evacuated from interior camps.
+
+__Reproductive Biology & Pairing Dynamics:__ Male-dominated labor migration to mining districts creates unbalanced sex ratios; camp prostitution and migrant remittances reshape highland family structures. Marriage announcements and death notices in port-city papers track these movements.
+
+__Demographic Renewal & Density:__ Export booms draw labor to extraction zones: Chinese coolies to guano islands (1849–1874), Bolivian and Peruvian migrants to Chilean nitrate pampa (1880s–1920s). Population follows capital; busts empty boomtowns.
+
+__Attrition & Dependency Overhang:__ Industrial accidents, silicosis, and premature death leave widows and orphans dependent on company pensions or mutual-aid societies. Labor press campaigns document casualties; official gazettes publish compensation regulations.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Export enclaves import foodstuffs from coastal haciendas and foreign suppliers; printed price lists and invoices coordinate supply chains. Subsistence agriculture in the highlands remains separate from export circuits.
+
+__Energy Capture & Conversion:__ Coal-fired steamships and railways connect mines to ports; imported fuel sustains the export chain. Hydroelectric plants (Chile, 1900s) electrify urban industry and processing facilities.
+
+__Labor Organization & Coercion:__ Enganche (debt recruitment) binds highland labor to coastal and mining employers; contracts are printed and legally enforced. Free wage labor expands after 1900; unions challenge coercive practices through strikes publicized in labor press.
+
+__Production & Surplus Capacity:__ Guano revenues peak 1850s–1870s; nitrate output dominates 1880s–1914; copper and tin rise thereafter. Surplus accrues to foreign capital and local oligarchies; fiscal dependence on export taxes leaves states vulnerable to price collapse.
+
+__Storage, Reserves & Buffering:__ Commodity stockpiles buffer short-term demand fluctuations; fiscal reserves depend on export revenue. The 1870s guano collapse and 1930s Depression expose inadequate buffering; printed bond defaults and debt negotiations follow.
+
+__Exchange, Trade & Logistics:__ Commercial houses (Grace, Gibbs, Antony Gibbs & Sons) coordinate export logistics, chartering ships and advancing credit. Their correspondence and invoices create a parallel paper trail to public press; commercial newspapers (Valparaiso's El Mercurio, Lima's El Comercio) publish shipping lists, commodity prices, and exchange rates.
+
+__Value Storage, Credit & Deferred Exchange:__ Bills of exchange, letters of credit, and consignment agreements are printed and notarized, enabling deferred payment across Atlantic and Pacific circuits. Peruvian sol, Chilean peso, and Bolivian boliviano fluctuate against sterling and dollar benchmarks; financial press tracks rates and advises merchants.
+
+__Surplus Extraction & Redistribution:__ Export taxes fund state budgets; guano revenues underwrite Peruvian railways and public debt. Nitrate-era Chile channels revenue into education and infrastructure; Depression-era collapse forces austerity and import substitution.
+
+__Wealth Distribution & Asset Defense:__ Export wealth concentrates among foreign firms, mining barons (Patino in tin, Edwards in nitrates), and allied oligarchies. Printed prospectuses, stock listings, and property registries formalize asset claims; labor press contests this distribution.
+
+__Byproducts & Waste Routing:__ Mine tailings, smelter slag, and nitrate processing refuse accumulate at extraction sites. Financial mispricing appears as sovereign-debt crises (Peru 1876, Chile 1930s, Bolivia recurrently), documented in default notices and renegotiation protocols.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Mining fortunes pass through oligarchic lineages; marriage alliances link export elites to landed and commercial families. Printed inheritance notices and estate inventories circulate among notaries and heirs.
+
+__Association & Mutual Aid:__ Miners form mancomunales and mutual-aid societies (Chile 1900s, Peru 1920s) that publish bulletins and coordinate assistance. Company towns restrict association; independent organizing survives in port cities.
+
+__Leisure, Play & Sociability:__ Company towns provide cantinas, cinemas, and sport facilities; printed company newsletters promote paternalist welfare. Urban workers frequent cafes where commercial and labor papers are read.
+
+__Stratification, Status & Group Structure:__ Export economy stratifies by nationality (British and U.S. managers, Chilean and Peruvian foremen, indigenous and migrant laborers) and by sector (mining, commerce, administration). Print reflects and reinforces these strata: English-language commercial circulars, Spanish-language press, Quechua oral relay.
+
+__Administrative Capacity & Institutional Integrity:__ Export states develop fiscal bureaucracies to collect duties and negotiate with foreign firms. Official gazettes publish tariff schedules, concession contracts, and regulatory decrees. Corruption and foreign influence erode administrative integrity; reform movements document abuses in press campaigns.
+
+__Coercive Apparatus & Means of Force:__ Militaries protect export infrastructure; strike suppression at nitrate oficinas (Iquique 1907 massacre) and Bolivian tin mines demonstrates state-capital alignment. War of the Pacific (1879–1884) secures nitrate territories for Chile; printed proclamations and casualty lists accompany the campaign.
+
+__Discharge, Disorder & Decay:__ Labor unrest recurs: Santa Maria de Iquique massacre (1907), strikes in Peruvian copper camps (1920s), Bolivian tin conflicts (1940s). Printed strike bulletins, government communiques, and casualty reports document cycles of violence and repression.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Export booms generate optimism; collapses trigger panic and nationalist resentment against foreign capital. Press editorials amplify both moods, urging expansion or retrenchment.
+
+__Leadership & Personal Authority:__ Mining barons (Patino, Edwards) and political patrons shape export policy through press influence and personal networks. Reform leaders (Billinghurst, Alessandri) mobilize anti-oligarchic sentiment through newspaper campaigns.
+
+__Legitimacy as Lived Allegiance:__ Export-funded prosperity legitimates oligarchic regimes; fiscal collapse delegitimizes them. Labor press challenges the moral basis of export wealth, invoking exploitation and foreign domination.
+
+__Political Will & Collective Resolve:__ Strikes demonstrate collective will among workers; government responses reveal elite resolve to maintain order. Printed strike manifestos and state decrees mark the confrontation.
+
+__External Relations & Posture:__ Commodity dependence creates vulnerability to foreign buyers (Britain, United States) and foreign investors. Nationalist press campaigns demand renegotiation of contracts and control over subsoil resources.
+
+__Disaffection, Apathy & Spent Will:__ Repeated strike defeats and massacres demoralize labor movements; some militants emigrate or abandon organizing. Depression-era despair is visible in press accounts of unemployment and migration.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Commercial print is Spanish-language and urban; English-language circulars serve foreign firms. Indigenous miners access information through oral relay and bilingual intermediaries.
+
+__Channels & Transmission Velocity:__ Telegraph (1860s) and submarine cable (1870s) transmit commodity prices from London and New York within hours; commercial press publishes these rates daily. Railway and coastal shipping distribute newspapers to extraction zones.
+
+__Record, Storage & Persistence:__ Company archives, notarial records, and commercial correspondence preserve transactional detail. National archives hold concession contracts and fiscal accounts; fires and political upheaval destroy some records.
+
+__Framing, Censorship & Discourse Norms:__ Commercial press frames exports as national progress; labor press frames them as exploitation. Government censorship during strikes suppresses labor bulletins but cannot eliminate clandestine print.
+
+__Reception, Attention & Amplification:__ Price bulletins command merchant attention; strike news mobilizes labor networks. Oral amplification in union halls and company towns extends print reach beyond literate readership.
+
+__Signal Integrity & Noise Load:__ Speculative rumors and inflated prospectuses introduce noise into commercial information; due-diligence reports and wire-service verification partially correct. Labor press counters company propaganda with alternative accounts.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Labor press invokes exploitation, dignity, and fair wages; commercial press invokes property, contract, and progress. Both appeal to shared norms of honesty and reciprocity, contested in their application.
+
+__Law, Codification & Regulatory Evolution:__ Mining codes, labor laws, and tax regulations evolve through legislative debate publicized in official gazettes. Reforms (Chilean labor code 1924, Peruvian labor laws 1920s) codify worker protections under pressure from strikes and press campaigns.
+
+__Adjudication, Liability & Sanction:__ Contract disputes and labor claims are adjudicated in courts and arbitration boards; printed decisions establish precedent. Company dominance over local courts limits worker recourse; national courts occasionally intervene.
+
+__Rights, Protections & Compliance Burden:__ Formal labor rights expand (eight-hour day, injury compensation) but enforcement lags in remote camps. Compliance costs are borne by workers who must document claims through printed forms and legal representation.
+
+__Impunity & Unredressed Wrong:__ Massacres (Iquique 1907, Catavi 1942) go unpunished; official inquiries are suppressed or ignored. Impunity accumulates as a grievance fueling revolutionary movements (MNR, APRA).
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Mining engineers and geologists apply European science to Andean deposits; their reports circulate in technical bulletins and company archives. Economic theory (free trade, protectionism, dependency) is debated in press and university.
+
+__Applied Knowledge & Technical Method:__ Extraction technology advances: steam drills, flotation processing, electrification. Technical manuals and patent filings document innovations; skilled workers are imported or trained abroad.
+
+__Education, Knowledge Stock & Skill Distribution:__ Engineering schools (Santiago, Lima) train local professionals; foreign firms import supervisory staff. Literacy among miners remains low; skill distribution is hierarchical and national.
+
+__Obsolescence & Knowledge Decay:__ Synthetic nitrogen (Haber-Bosch process, 1913) renders nitrate extraction obsolete by 1930; the knowledge and infrastructure become stranded assets. Guano-extraction techniques are similarly abandoned.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Export wealth funds national monuments and founding myths; independence heroes are commemorated with nitrate-era budgets. Mining disasters (Santa Maria, Catavi) become martyrology for labor movements.
+
+__Legitimating Narrative & Ideology:__ Oligarchic press legitimates export liberalism as progress and civilization; labor press contests with narratives of exploitation and imperialism. Nationalist press seeks middle ground, demanding control over resources without rejecting foreign markets.
+
+__Artistic Expression & Material Culture:__ Export revenues fund urban embellishment (Lima's Plaza de Armas, Santiago's Cerro Santa Lucia). Mining-camp material culture is austere and functional; company towns impose uniform architecture. Labor songs and poetry circulate in printed pamphlets.
+
+__Form Exhaustion & Meaning Decay:__ By 1950, the liberal-progress narrative is exhausted; populist and nationalist ideologies compete. Nitrate-era monuments become nostalgic relics as the industry fades.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic piety coexists with materialist pursuit of export wealth; labor movements invoke secular justice more than divine sanction. Positivist and socialist worldviews spread through printed translations and party organs.
+
+__Ritual, Devotion & Sacred Practice:__ Mining communities maintain patron-saint festivals; company towns permit or co-opt religious observance. Labor martyrs are commemorated in secular rituals (May Day, anniversary marches).
+
+__Religious Institutions & Doctrinal Authority:__ Church presence in mining zones is limited; urban clergy support or criticize labor movements depending on political alignment. Protestant missions (20th century) make marginal inroads among miners.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Andean syncretic practices (Pachamama offerings at mine entrances) persist among indigenous miners; these are invisible to Spanish-language commercial press but noted in ethnographic studies.
+
+__Disenchantment & Sacred Discharge:__ Secular nationalism and socialist internationalism offer alternative sources of meaning for educated workers. The sacred dimension of labor martyrdom competes with Catholic piety; by 1950, both coexist uneasily as the broadcast era begins to reframe collective identity.

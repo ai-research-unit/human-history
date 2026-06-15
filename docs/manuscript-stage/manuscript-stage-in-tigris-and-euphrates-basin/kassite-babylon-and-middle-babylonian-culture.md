@@ -1,69 +1,139 @@
-# __1600 BCE – 1155 BCE__ — Kassite Babylon and Middle Babylonian Culture
-__Summary:__ Following the Hittite raid that ended the Old Babylonian dynasty, Kassite rulers of highland origin establish a long-lived dynasty over Babylonia (~1595–1155 BCE), providing four and a half centuries of unusual political stability during which Babylon consolidates its role as a cultural and diplomatic center within the Late Bronze Age international system. The binding constraint is the maintenance of scribal and cultic continuity under non-native rulers who lack indigenous legitimacy and must therefore preserve and patronize traditional Babylonian institutions to secure their position. The system holds adequate margin against normal harvest variation through temple and palace reserves but remains vulnerable to external military pressure, particularly from Assyria and Elam. Direction of change runs toward canonization of literary texts, systematization of scholarly knowledge, and integration into the Amarna diplomatic network until the Elamite invasion of 1155 BCE abruptly terminates the dynasty.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The alluvial plain between the Tigris and Euphrates remains the spatial arena; canal networks define agricultural zones and internal transport; overland routes to Syria and the Levant connect to the Amarna system; Kassite highland homeland (Zagros foothills) provides alternative recruitment base; friction patterns unchanged from prior period.<br><br>
-__Climate Regime & Volatility:__ Hot arid summers, mild winters; rainfall negligible in the south; agriculture depends entirely on river irrigation; no secular climate shift documented within the window; interannual flood variability continues as the primary climatic stress.<br><br>
-__Hazard Regime & Exposure:__ Flood and drought remain the principal hazards; canal infrastructure maintained under royal patronage; no major documented catastrophic flood; margin adequate where maintenance sustained; exposure stable.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils continue to support barley and date cultivation; stone, metal, and timber still imported; Kassite access to Zagros resources (horses, possibly metals) may slightly improve upland supply chains; clay remains superabundant; no depletion of core resources.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and urban waste loads remain low relative to floodplain capacity; salinization progresses slowly in intensively irrigated zones but does not reach crisis; absorptive capacity ample.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease profile stable — waterborne and gastrointestinal pathogens, probable malaria in marshlands; no documented epidemic on the scale of the Late Bronze Age collapse affecting this region directly; mortality baseline unchanged.<br><br>
-__Nutrition & Physiological Vitality:__ Barley, dates, legumes, fish, and limited meat continue as dietary base; no evidence of nutritional deterioration; physiological vitality adequate for labor and military demands; status stable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage patterns continue as regulated monogamy with concubinage; Kassite elite intermarry with Babylonian families; reproductive biology unchanged; population maintained.<br><br>
-__Demographic Renewal & Density:__ Population stable to slowly growing; urban centers (Babylon, Nippur, Ur, Dur-Kurigalzu) sustain prior levels; rural density supports canal maintenance; age structure continues to skew young; renewal adequate.<br><br>
-__Attrition & Dependency Overhang:__ Orphans, widows, and aged absorbed through kinship and institutional support; Kassite royal grants (kudurru) sometimes provide for dependents; dependency load manageable; no structural overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Irrigated barley cultivation and date horticulture provide caloric base; fishing and pastoralism supplement; household pooling continues; provisioning floor secure in normal years; no evidence of subsistence crisis within the window.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle (oxen, donkeys, horses increasingly for military and transport) power production; firewood and dung for fuel; no new prime movers; per-capita energy ceiling stable.<br><br>
-__Labor Organization & Coercion:__ Mixed regime of free cultivators, dependent laborers attached to temple and palace estates, debt bondage, and chattel slavery; Kassite land grants create new dependent tenures; coercion present but embedded in patronage structures; system stable.<br><br>
-__Production & Surplus Capacity:__ Agricultural yields stable; textile and craft production for domestic use and export; surplus adequate for monumental construction (Dur-Kurigalzu), diplomatic gift exchange, and maintenance of scribal establishment; no evidence of declining productivity.<br><br>
-__Storage, Reserves & Buffering:__ Palace and temple granaries maintain reserves; silver and grain stocks buffer shortfalls; kudurru grants formalize land tenure, stabilizing expectations; buffering adequate for single bad years.<br><br>
-__Exchange, Trade & Logistics:__ Integration into Late Bronze Age international system — tin, copper, gold, lapis lazuli, and luxury goods move through diplomatic gift exchange and commercial networks; Amarna letters document royal-level trade; Babylonian textiles and scholarly expertise exchanged; logistics dependent on donkey caravans and river transport.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver by weight continues as primary medium; grain as secondary; credit transactions documented but less prolifically than in Old Babylonian period; deferred exchange through palace and temple accounts; system functional.<br><br>
-__Surplus Extraction & Redistribution:__ Palace levies tribute and labor; temple estates collect tithes; Kassite kings grant land (kudurru) to loyal supporters, redistributing surplus through patronage; extraction sustainable given production capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration in palace, temple, and Kassite elite; kudurru stones publicly record and defend grants; private ownership persists; inequality stable; asset defense formalized through inscribed boundary stones.<br><br>
-__Byproducts & Waste Routing:__ Agricultural and urban waste recycled or dispersed; no industrial effluent; waste load negligible relative to landscape capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship and neighborhood networks provide mutual aid; trust extends through commercial and scribal relationships; Kassite elite integration into Babylonian society widens trust radius across ethnic boundary; radius stable to expanding.<br><br>
-__Stratification, Status & Group Identity:__ Kassite ruling elite superimposed on Babylonian society; Kassite ethnic markers (names, horse culture) persist but boundary permeable through intermarriage and acculturation; traditional Babylonian status hierarchy (free, dependent, slave) continues; stratification stable.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent and patrilocal marriage continue; Kassite kinship terms absorbed into administrative vocabulary; inheritance practices stable; kudurru grants sometimes specify succession rules; family structure unchanged.<br><br>
-__Civic Association & Self-Organization:__ Temple communities, merchant associations, and craft groups continue; Kassite patronage strengthens temple institutions; civic fabric stable; associational life robust.<br><br>
-__Leisure, Play & Sociability:__ Festivals, taverns, and board games continue; horse-related activities may increase under Kassite influence; leisure integrated into religious calendar; sociability patterns stable.<br><br>
-__Grievance Channels & Social Discharge:__ Legal petitions to royal judges; temple mediation; royal patronage absorbs elite grievances through land grants; most friction metabolized; standing instability low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Kassite kings rule as legitimate monarchs claiming traditional Babylonian royal titles; power centralized at Babylon; provincial administration through governors; authority stable across the dynasty; no significant fragmentation until Elamite invasion.<br><br>
-__Succession & Power Transfer:__ Hereditary succession within Kassite royal family; multiple long reigns (Kurigalzu II, ~25 years; Kadashman-Enlil II, ~30 years) indicate routinized transfer; contested successions occur but dynasty persists; transfer stable.<br><br>
-__Legitimacy & Political Narrative:__ Kassite kings adopt Babylonian royal ideology — shepherd of the people, servant of Marduk; legitimacy reinforced through temple patronage, scribal support, and construction projects; narrative credible and widely accepted despite foreign origin.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Scribal bureaucracy continues; archives less abundant than Old Babylonian period but administrative functions maintained; kudurru grants recorded and enforced; capacity adequate for governance; corruption not documented as crisis.<br><br>
-__Political Participation & Mobilization:__ Local assemblies and elders consulted; temple communities exercise influence; no mass political mobilization; participation channeled through hierarchical structures; dissent expressed through legal petition.<br><br>
-__Geopolitical Position & External Relations:__ Babylon participates in Amarna system as peer of Egypt, Hatti, Mitanni, and Assyria; diplomatic marriages, gift exchange, and correspondence document integration; Assyrian pressure increases in late period; Elam poses persistent threat; external relations active and consequential.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing army with chariot corps (Kassite horse expertise); bronze weaponry; fortified cities including new capital Dur-Kurigalzu; force adequate for defense against raids but vulnerable to sustained Assyrian or Elamite campaigns.<br><br>
-__Internal Order & Threat Environment:__ Internal order stable; no documented rebellions of major scale; banditry suppressed; enforcement capacity adequate; threat environment dominated by external rather than internal pressures.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Royal messengers; diplomatic couriers to Egypt, Hatti, and Assyria; clay tablets remain medium; transmission measured in weeks to months for international correspondence; reach extends across Late Bronze Age system.<br><br>
-__Record, Storage & Persistence:__ Clay tablets in palace and temple archives; kudurru stones as durable public records; diplomatic correspondence preserved (fragments in Amarna archive); persistence high; retrieval organized by institutional archive.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions present kings as pious patrons; diplomatic correspondence follows formal protocols; no systematic censorship but discourse constrained by convention; permitted band stable.<br><br>
-__Reception, Attention & Amplification:__ Scribes mediate for illiterate majority; kudurru stones displayed publicly; diplomatic messages received by royal court; amplification through scribal copying and institutional repetition; attention concentrated on administrative and cultic information.<br><br>
-__Signal Integrity & Noise Load:__ Scribal training maintains copy accuracy; scholarly texts carefully transmitted; diplomatic correspondence uses standardized Akkadian; noise low; verification through institutional authority; integrity high.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice as divine value persists; Kassite kings claim to uphold traditional Babylonian norms; moral foundations continuous with prior period; collective conscience stable.<br><br>
-__Law, Codification & Regulatory Evolution:__ No new comprehensive law code; Hammurabi's code and earlier precedents remain authoritative; kudurru grants constitute land law development; regulatory framework stable, incrementally evolving through case decisions.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal judges continue to adjudicate; temple oaths; written contracts with witnesses; kudurru disputes resolved through royal decree; enforcement through palace authority; throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Traditional status-based protections continue; kudurru grants formalize land rights; contractual autonomy preserved; compliance burden moderate; legal formalities accessible through scribes.<br><br>
-__Impunity & Unredressed Wrong:__ Kassite elite may enjoy privileged position; kudurru grants insulate favorites; some impunity for powerful but no documented crisis of unredressed wrong; backlog low.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Observation in service of divination and astronomy continues; omen series (Enuma Anu Enlil) compiled and organized; medical and magical texts systematized; paradigm integrates empirical observation with cosmological explanation; active scholarly compilation.<br><br>
-__Applied Knowledge & Technical Method:__ Irrigation engineering maintained; bronze metallurgy stable; mathematical and astronomical methods refined; chariot and horse technology advanced; technique reproducible and professionally transmitted.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (edubba tradition) continue; canonical curriculum crystallizes — literary texts (Gilgamesh, Enuma Elish), lexical lists, mathematical problems; knowledge stock actively organized and catalogued; literacy confined to scribal class; skill distribution narrow but deepening through canonization.<br><br>
-__Obsolescence & Knowledge Decay:__ Sumerian maintained as scholarly language; older texts copied and preserved; canonical series reduce textual variation; no significant knowledge loss; decay rate low; error cleared through standardization.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Babylonian identity consolidated around Marduk cult; Enuma Elish codifies creation myth with Marduk supreme; Epic of Gilgamesh reaches standard version; Kassite rulers adopt Babylonian identity wholesale; foundational identity strengthened through canonization.<br><br>
-__Artistic Expression & Material Culture:__ Kudurru stones as distinctive art form — divine symbols, royal images, curse formulae; cylinder seals continue; Dur-Kurigalzu architecture (ziggurat, palace); aesthetic conventions continuous with Babylonian tradition; Kassite elements (horse motifs) incorporated.<br><br>
-__Collective Mood & Behavioral Disposition:__ Stability and continuity as dominant mood; confidence in traditional institutions; risk perception moderate; behavioral temper conservative, oriented toward preservation of received forms.<br><br>
-__Form Exhaustion & Meaning Decay:__ Literary and artistic forms vital; canonization renews rather than exhausts; symbols retain potency; no significant form exhaustion within the window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmos with Marduk as supreme deity of Babylon; divine assembly governs human fate; afterlife grim; piety essential; existential outlook fatalistic but active through ritual; outlook stable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily temple offerings; monthly and annual festivals; Akitu (New Year) festival central; divination guides royal decisions; devotional practice pervasive; Kassite kings participate fully in Babylonian cult.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple estates economically powerful; priesthoods maintain cultic continuity; Kassite patronage strengthens temple institutions; doctrinal authority held by temple scholars; orthodoxy consolidated around Marduk cult and canonical texts.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Kassite deities (Shuqamuna, Shumaliya) incorporated into Babylonian pantheon but remain minor; no displacement of major gods; syncretism operates through absorption rather than substitution; Babylonian religious system dominant.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing drift; sacred order intact; existential questions addressed through myth, ritual, and divination; disenchantment absent; spiritual need fully anchored in functioning religious system.<br><br>
+# __1600 BCE – 1155 BCE — Kassite Babylon and Middle Babylonian Culture__
+
+__Summary:__ A dynasty of Kassite origin, seizing power in the aftermath of the Hittite sack of Babylon (1595 BCE), stabilizes southern Mesopotamia for over four centuries through conservative stewardship of Babylonian religious and scribal traditions while integrating into an international Bronze Age diplomatic system that makes Babylonian Akkadian the lingua franca of Near Eastern correspondence; the binding constraint is the dependence on imported bronze, horses, and prestige goods from a network of great-power peers whose collapse in the twelfth-century crisis leaves Kassite Babylon exposed to Elamite conquest.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The southern alluvium remains the agricultural heartland, with Babylon, Nippur, and Ur as principal centers; Kassite control extends north toward the Diyala region; terrain imposes no natural frontiers against Assyria to the north or Elam to the east; canal networks require continuous maintenance.
+
+__Climate Regime & Volatility:__ The arid-to-semiarid climate continues to necessitate irrigation; multi-decadal dry spells documented in the wider Near East during the late second millennium; flood patterns remain unpredictable; agricultural margins sensitive to any rainfall reduction.
+
+__Hazard Regime & Exposure:__ River course changes threaten canal intakes; salinization continues to degrade long-irrigated fields; locust swarms periodically destroy crops; earthquake risk from Zagros fault systems affects eastern regions.
+
+__Resource & Energy Endowment:__ Alluvial clay, reeds, and date palms remain locally abundant; copper and tin for bronze, quality timber, and lapis lazuli require import; horses, introduced more widely in this period, come from northern and eastern highlands; gold exchanged through diplomatic gift networks.
+
+__Waste Absorption & Sink Capacity:__ Continued tell accumulation; saline fields abandoned at agricultural margins; canal silting ongoing; environmental degradation gradual but cumulative over the dynasty's long tenure.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria and gastrointestinal disease persist; plague references appear in Amarna letters describing Babylonian conditions; infant and maternal mortality remain high; epidemic outbreaks disrupt diplomatic travel.
+
+__Nutrition & Physiological Vitality:__ Barley, dates, fish, and pastoral products form dietary base; nutritional status tied to irrigation system function; long peace under Kassite rule likely supports stable nutrition; elite diet includes imported luxuries.
+
+__Care, Healing & Recovery Capacity:__ Medical and exorcistic traditions continue from Old Babylonian period; pharmacological texts copied and elaborated; temple institutions provide some healing infrastructure; plague outbreaks test capacity.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage practices continue Old Babylonian patterns; Kassite elite intermarry with Babylonian priestly and scribal families; royal marriages forge diplomatic ties with Egypt, Hatti, and Assyria.
+
+__Demographic Renewal & Density:__ Population stable or slowly declining from Old Babylonian levels; Kassite immigration adds modest numbers; urban populations sustained by irrigation agriculture; no evidence of dramatic demographic shifts until late-period disruptions.
+
+__Attrition & Dependency Overhang:__ Temple institutions continue to support dependents; land grants (kudurru) establish hereditary holdings that include provision for family dependents; war captives and deportees add to dependent population.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Irrigation agriculture provides barley, dates, and garden produce; pastoral supplement from sheep, goats, and cattle; institutional households distribute rations; subsistence secure under stable governance.
+
+__Energy Capture & Conversion:__ Human and animal labor predominates; horses now used for chariotry and elite transport; donkeys remain primary freight animals; ox-drawn plows; shaduf irrigation; no fundamental energy transition.
+
+__Labor Organization & Coercion:__ Kassite land grants (kudurru) establish a form of feudal tenure with service obligations; temple and palace dependents work institutional estates; corvee labor for construction and canal maintenance; slavery continues.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports temple maintenance, royal construction, and gift diplomacy; textile production continues; metalworking dependent on imported raw materials; surplus sufficient but not expanding.
+
+__Storage, Reserves & Buffering:__ Temple granaries and palace storehouses maintain reserves; land grants specify exemptions from certain exactions, protecting grantees' reserves; international trade networks buffer local shortfalls through exchange.
+
+__Exchange, Trade & Logistics:__ Integration into Late Bronze Age exchange network; diplomatic gifts of gold, lapis lazuli, horses, chariots, and princesses circulate among great powers; merchant activity documented but less prominent than Old Babylonian period; Gulf trade continues through Dilmun.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver and gold serve as value standards; international exchange calculated in gold talents; credit documentation continues though surviving archive material is less abundant than Old Babylonian period; deferred reciprocity structures diplomatic relations.
+
+__Surplus Extraction & Redistribution:__ Palace extracts agricultural surplus and labor service; temples receive land grants with specified obligations; redistribution through institutional rations, royal gifts, and diplomatic exchange; kudurru grants immunize certain lands from extraction.
+
+__Wealth Distribution & Asset Defense:__ Kudurru stones document land grants and record divine curses against violators; hereditary land tenure concentrates wealth in loyal families; royal and temple estates remain the largest holdings; boundary disputes adjudicated through legal process.
+
+__Byproducts & Waste Routing:__ Patterns continue from earlier periods; environmental degradation incremental; no evidence of novel waste challenges; bronze recycling important given import dependence.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal inheritance continues; kudurru grants specify succession within grantee families; Kassite elite adopt Babylonian practices while maintaining some distinct traditions; intermarriage gradually blurs ethnic boundaries.
+
+__Association & Mutual Aid:__ Temple communities, professional groups, and urban neighborhoods provide associational frameworks; long peace allows networks to stabilize; scribal families maintain professional continuity across generations.
+
+__Leisure, Play & Sociability:__ Festival calendars continue; musical and literary performance at court and temple; board games persist; tavern culture documented; chariot racing likely among elite; hunting a royal prerogative.
+
+__Stratification, Status & Group Structure:__ Kassite elite initially distinct but gradually assimilated into Babylonian status hierarchy; older Babylonian families retain positions in temple and scribal administration; land grants create hereditary service nobility; ethnic distinctions fade over centuries.
+
+__Administrative Capacity & Institutional Integrity:__ Kassite kings maintain palace bureaucracy; provincial administration through governors; temple institutions retain substantial autonomy; correspondence with foreign courts shows functional chancery; kudurru grants document careful record-keeping; administrative continuity despite ethnic change at top.
+
+__Coercive Apparatus & Means of Force:__ Chariotry becomes more prominent in warfare; bronze weaponry standard; fortress construction documented; military capacity sufficient for defensive purposes and periodic campaigns against Assyria and Elam; no evidence of standing army larger than Old Babylonian period.
+
+__Discharge, Disorder & Decay:__ Long Kassite peace minimizes internal conflict; border warfare with Assyria intermittent; Elamite pressure increases in late period; disorder contained until the dynasty's final century when external attacks intensify and eventual conquest (1155 BCE) destroys the order.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Long stability and conservative governance suggest public acceptance; Kassite adoption of Babylonian religion and culture eases assimilation; piety continues as normative public stance; sentiment toward foreign kings under Kassite legitimation difficult to assess.
+
+__Leadership & Personal Authority:__ Kassite kings adopt Babylonian royal titulature and ideology; some rulers (Kurigalzu I, Burna-Buriash II) actively correspond with peer monarchs; royal authority expressed through temple construction and land grants; personal charisma of individual rulers varies.
+
+__Legitimacy as Lived Allegiance:__ Kassite dynasty maintains legitimacy through religious patronage and administrative continuity; no evidence of major internal revolt; legitimacy rests on stewardship rather than conquest glory; acceptance reflects satisfactory governance rather than enthusiastic loyalty.
+
+__Political Will & Collective Resolve:__ Long stable rule suggests adequate political will for governance; military will sufficient for border defense but not expansion; diplomatic engagement with great powers shows active foreign policy; will exhausted when multiple external pressures converge in late period.
+
+__External Relations & Posture:__ Full integration into Late Bronze Age diplomatic system; correspondence with Egypt (Amarna letters), Hatti, Assyria, and Elam; marriage alliances with peer monarchs; gift exchange maintains relationships; status as equal great power acknowledged; rivalry with Assyria intensifies over time.
+
+__Disaffection, Apathy & Spent Will:__ Little evidence of internal disaffection until final decades; long peace may mask accumulating apathy; sudden collapse under Elamite attack (1155 BCE) suggests shallow reserves of mobilizable will; dependence on external system left Babylon vulnerable when that system collapsed.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Akkadian cuneiform literacy continues among scribal elite; Babylonian Akkadian becomes the diplomatic language of the entire Near East; Amarna letters document international correspondence; literacy still confined to trained scribes; Kassite language used for some personal names but not written administration.
+
+__Channels & Transmission Velocity:__ Diplomatic couriers travel established routes to Egypt, Hatti, and other courts; journey times measured in weeks to months; royal messengers carry letters and escort diplomatic gifts; information flows along trade routes.
+
+__Record, Storage & Persistence:__ Kudurru stones designed for permanent display and record; clay tablets continue for administrative purposes; temple archives preserve ritual and scholarly texts; copying of literary and scientific texts maintains intellectual tradition; Amarna archive preserves Babylonian correspondence found in Egypt.
+
+__Framing, Censorship & Discourse Norms:__ Royal inscriptions maintain traditional ideology; diplomatic correspondence follows established protocols; kudurru texts frame land grants in religious and legal terms; discourse norms conservative and formulaic.
+
+__Reception, Attention & Amplification:__ Diplomatic letters read at foreign courts; kudurru stones displayed in temples for public witness; scribal training ensures textual continuity; hymns and rituals performed; scholarly texts studied in restricted circles.
+
+__Signal Integrity & Noise Load:__ Seal authentication continues; diplomatic correspondence carefully archived by senders and recipients; kudurru curses threaten divine punishment for falsification; signal integrity maintained through institutional continuity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Babylonian concepts of justice (misharu) and cosmic order (kittum) continue; kings present themselves as upholders of divine order; protection of the weak remains ideological touchstone; international diplomacy invokes shared norms of reciprocity and good faith.
+
+__Law, Codification & Regulatory Evolution:__ Hammurabi's code remains authoritative reference; no major new codification under Kassites; kudurru grants function as individual legal instruments; case law develops through judicial decisions; legal tradition conserved rather than innovated.
+
+__Adjudication, Liability & Sanction:__ Royal judges and local authorities adjudicate disputes; kudurru texts specify penalties for boundary violation; divine curses invoked against violators; ordeal references continue; sanctions include property loss, divine punishment, and physical penalties.
+
+__Rights, Protections & Compliance Burden:__ Kudurru grants establish protected rights for grantee families; immunities from certain taxes and labor obligations documented; property rights enforceable through legal process; compliance burden unclear but grants seek to reduce it for favored recipients.
+
+__Impunity & Unredressed Wrong:__ Royal grants protect recipients but potentially disadvantage non-recipients; temple and palace interests dominate; systemic impunity unclear but likely follows earlier patterns; no evidence of reform movements or popular redress mechanisms.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Astronomical observation continues; mathematical texts copied; omen compendia elaborated; medical and pharmacological knowledge maintained; intellectual activity conservative, preserving and systematizing rather than innovating; Kassite period important for textual transmission.
+
+__Applied Knowledge & Technical Method:__ Irrigation engineering continues; bronze metallurgy dependent on imported materials; chariot technology refined; architectural techniques maintain temples and palaces; glassmaking develops; no fundamental technical breakthroughs.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools continue to train in cuneiform; Sumerian studied as learned language; lexical lists, mathematical exercises, and literary texts form curriculum; knowledge concentrated in scribal families; oral tradition predominates outside literate elite.
+
+__Obsolescence & Knowledge Decay:__ Sumerian increasingly remote from spoken language; some Old Babylonian texts no longer copied; knowledge preserved but not expanded; intellectual activity serves conservation rather than discovery; transmission chains intact but dependent on institutional continuity.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Babylonian mythological tradition (Enuma Elish likely composed or finalized in this period) celebrated Marduk's supremacy; flood narrative, Gilgamesh epic, and other texts copied and transmitted; Kassite identity gradually absorbed into Babylonian cultural framework; city-god identities persist.
+
+__Legitimating Narrative & Ideology:__ Kassite kings present themselves as pious servants of Babylonian gods; temple construction and restoration demonstrate legitimacy; kudurru inscriptions invoke divine sanction; royal ideology emphasizes stewardship and continuity rather than conquest.
+
+__Artistic Expression & Material Culture:__ Kudurru stones show distinctive sculptural style with divine symbols; cylinder seals continue with some Kassite innovations; temple architecture maintains traditional forms; textile and luxury goods production for diplomatic exchange; material culture conservative but competent.
+
+__Form Exhaustion & Meaning Decay:__ Cultural forms conserved rather than reinvented; formulaic repetition in administrative and religious texts; artistic conventions stable; innovation minimal; long stability may mask gradual loss of creative energy; forms preserved through institutional routine rather than vital renewal.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Polytheistic cosmos continues with Marduk's prominence consolidated; Enuma Elish creation narrative establishes Marduk as king of gods; humans created to serve divine order; afterlife remains gloomy; fate readable through omens; divine order underpins political order.
+
+__Ritual, Devotion & Sacred Practice:__ Temple cult continues with daily offerings, festival cycles, and Akitu (New Year) celebrations; divination through extispicy and astrology; personal piety expressed through votive offerings; royal participation in cult demonstrates legitimacy.
+
+__Religious Institutions & Doctrinal Authority:__ Temple institutions maintain land, personnel, and ritual continuity; priesthoods hereditary; theological synthesis continues; doctrinal authority rests with established traditions rather than innovation; temples as major economic and social institutions.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Babylonian religious influence spreads with diplomatic and cultural prominence; Kassite deities absorbed into Babylonian pantheon; Marduk theology influential beyond Mesopotamia; syncretism with Kassite traditions subtle and gradual.
+
+__Disenchantment & Sacred Discharge:__ Religious framework remains intact; divine sanction permeates political and social order; no evidence of skeptical movements; piety normative; the eventual Elamite conquest and removal of divine statues (including Marduk) represents catastrophic spiritual as well as political defeat, though this falls outside the period's stable centuries.

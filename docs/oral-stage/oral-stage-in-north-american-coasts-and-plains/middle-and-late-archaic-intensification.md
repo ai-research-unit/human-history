@@ -1,69 +1,140 @@
 # __6000 BCE – 3000 BCE__ — Middle and Late Archaic Intensification
-__Summary:__ A long-term trend of subsistence intensification and social elaboration across the Eastern Woodlands during the Hypsithermal warm period; shell mound cultures along major river valleys mark repeated, intensive occupation while long-distance exchange networks expand, culminating in the Poverty Point complex; incipient horticulture of the Eastern Agricultural Complex begins; the binding constraint is the seasonal patchiness of high-yield resources requiring mobility and storage strategies; margins against subsistence failure widen as resource diversification increases; direction of change moves toward sedentism, exchange elaboration, and emerging social differentiation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Eastern Woodlands span from the Atlantic coast through Appalachian ridges to the Mississippi Basin; major river valleys (Ohio, Tennessee, Green, Mississippi) serve as primary corridors reducing transit friction; upland-lowland contrasts create resource mosaics exploited seasonally.<br><br>
-__Climate Regime & Volatility:__ The Hypsithermal (Altithermal) warm period brings temperatures 1-2 degrees Celsius above modern averages; prairie expands eastward in the Midwest; growing seasons lengthen; interannual variability moderate but drier conditions in some interior areas; trend toward warmth peaks mid-period then stabilizes.<br><br>
-__Hazard Regime & Exposure:__ Riverine flooding remains the primary acute hazard, predictable and exploited for floodplain resources; drought risk elevated in prairie-edge zones; coastal transgression from sea level rise affects Atlantic and Gulf margins; overall exposure manageable within existing mobility strategies.<br><br>
-__Resource & Energy Endowment:__ Abundant nut mast (oak, hickory, chestnut) in upland forests; riverine shellfish beds (mussels) provide concentrated protein; white-tailed deer ubiquitous; lithic sources (chert, flint) accessible at multiple localities; copper outcrops at Lake Superior; the endowment is generous and diversified.<br><br>
-__Waste Absorption & Sink Capacity:__ Shell discard accumulates into massive middens along rivers (Green River, Tennessee River), representing millennia of harvest; landscape absorptive capacity effectively unlimited for small populations; no evidence of resource depletion or sink saturation at regional scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic pathogen load low; skeletal evidence shows moderate health with some nutritional stress markers; mortality concentrated in infancy and from trauma; no epidemic disease signature; baseline stable.<br><br>
-__Nutrition & Physiological Vitality:__ Dietary breadth increases with diversification; shellfish, fish, nuts, and deer provide adequate protein and calories; dental attrition from gritty foods; stature moderate; nutritional status improving with intensification of reliable resources.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and kin-group mating patterns implied by burial associations; physiological fertility unconstrained; no evidence of reproductive stress; selection pressures diffuse across diverse environments.<br><br>
-__Demographic Renewal & Density:__ Population growing slowly but steadily; site density increases; territorial ranges contract as populations fill landscapes; shell midden accumulation implies multi-generational return to favored localities; density rising toward but not yet pressing carrying capacity.<br><br>
-__Attrition & Dependency Overhang:__ Burials include infants, elderly, and individuals with healed injuries suggesting care; dependency load absorbed within kin networks; no evidence of systemic strain from non-productive cohorts.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Floor secure through diversified foraging; seasonal rounds exploit nut harvests (fall), shellfish beds (spring-summer), deer (year-round), fish runs, and wild plants; margin above bare subsistence widening as intensification proceeds.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains sole power source; ground stone tools (axes, atlatl weights) improve woodworking and hunting efficiency; fire for cooking and nut processing; energy capture per capita slowly rising with technological refinement.<br><br>
-__Labor Organization & Coercion:__ Labor organized by age, sex, and kinship within band and macro-band structures; no evidence of coerced labor; cooperation in communal shellfish harvests and mound construction at Poverty Point implies coordinated but voluntary mobilization.<br><br>
-__Production & Surplus Capacity:__ Seasonal surplus evident in nut and shellfish harvests; shell midden scale implies surplus beyond immediate consumption; Poverty Point construction requires sustained surplus labor; capacity growing through period.<br><br>
-__Storage, Reserves & Buffering:__ Pit storage for nuts documented; dried shellfish and smoked meat extend availability; buffering against seasonal scarcity improving; no evidence of catastrophic subsistence failure.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks expand dramatically; Lake Superior copper reaches Gulf Coast; marine shells move inland; Poverty Point receives galena, soapstone, copper, and exotic lithics from hundreds of kilometers; exchange corridors follow river systems.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No formal currency; value stored in durable prestige goods (copper, marine shell, polished stone); reciprocal obligation networks enable deferred exchange across kin and alliance connections; gifting cycles bind distant communities.<br><br>
-__Surplus Extraction & Redistribution:__ Redistribution through communal feasting at aggregation sites; Poverty Point may represent periodic ceremonial redistribution; no institutionalized tribute or taxation; extraction remains embedded in kinship reciprocity.<br><br>
-__Wealth Distribution & Asset Defense:__ Differential grave goods suggest emerging social differentiation; some burials richer than others; concentration modest; defense of wealth through social prestige rather than force; differentiation trending upward but not yet rigid.<br><br>
-__Byproducts & Waste Routing:__ Shell discard dominates waste stream; routed into middens that become landscape features; organic waste dispersed naturally; no routing crisis; byproducts minimal relative to landscape capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends across band and macro-band networks; long-distance exchange implies trust across hundreds of kilometers; reciprocity norms strong; mutual aid operative within and increasingly between communities; radius widening.<br><br>
-__Stratification, Status & Group Identity:__ Emerging status differentiation visible in burial treatment; achieved status likely based on skill, generosity, or ritual knowledge; group identity tied to locality and exchange partnerships; boundaries permeable; stratification incipient, not rigid.<br><br>
-__Kinship, Family & Inheritance:__ Kinship organizes all social relations; bilateral or matrilineal descent probable; inheritance of status and goods through kin lines; household clusters evident in site layouts; kinship scaffold stable.<br><br>
-__Civic Association & Self-Organization:__ Macro-band aggregations at shell mound sites and Poverty Point represent periodic civic assembly; collective labor for mound construction implies self-organization beyond household; associational capacity growing.<br><br>
-__Leisure, Play & Sociability:__ Aggregation sites host feasting, exchange, and likely games; carved bone gaming pieces appear; sociability structured around seasonal gatherings; leisure time exists in resource-abundant seasons.<br><br>
-__Grievance Channels & Social Discharge:__ Kinship mediation primary; mobility allows fissioning as conflict resolution; no evidence of chronic violence; grievance absorbed within existing social structures; minimal residual instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority diffuse, situational, and based on persuasion; big-men or ritual specialists may coordinate aggregation activities; no hereditary offices; Poverty Point construction implies coordinating authority but nature debated; power fragmented across autonomous bands.<br><br>
-__Succession & Power Transfer:__ Leadership achieved rather than inherited; transfer through demonstration of competence and generosity; no formalized succession; transitions fluid and non-disruptive.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derived from demonstrated skill, ritual knowledge, and generosity; no formal political narrative; authority personal and contextual; belief in leadership contingent on performance.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No formal administration; coordination through kinship and oral agreement; Poverty Point implies some coordinating capacity for labor mobilization but no institutional apparatus; record-keeping absent; capacity minimal but sufficient for scale.<br><br>
-__Political Participation & Mobilization:__ Participation through consensus in band decisions; aggregation assemblies may involve collective decision-making; no formal factions; mobilization voluntary and kin-based.<br><br>
-__Geopolitical Position & External Relations:__ No formal territorial boundaries; exchange partnerships create alliances across regions; no evidence of inter-polity warfare; relations defined by kin and trade ties rather than territorial sovereignty.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus; atlatl and spear serve hunting and defense; weaponry not concentrated; force capacity distributed across adult males; no monopoly.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through kinship sanctions and mobility; skeletal evidence shows limited interpersonal violence; disorder minimal; threat environment low.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral transmission primary; information travels at walking pace along exchange routes; aggregation sites accelerate transmission through periodic face-to-face contact; reach extends across exchange networks but velocity limited.<br><br>
-__Record, Storage & Persistence:__ No writing system; information persists in living memory alone; oral tradition carries knowledge of resource locations, kin obligations, exchange partnerships, and ritual practices; persistence depends on generational transmission; vulnerable to demographic disruption.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms embedded in oral culture; elders and ritual specialists likely control sacred knowledge; no formal censorship; conversational taboos around sacred topics probable but not archaeologically visible.<br><br>
-__Reception, Attention & Amplification:__ Reception limited to face-to-face contact and oral repetition; aggregation events amplify important messages; attention concentrated during ceremonial occasions; propagation slow but effective within network range.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission vulnerable to drift and corruption across generations; ritual formulas and mnemonic devices may preserve fidelity; signal integrity moderate; verification through cross-checking with multiple informants possible at aggregations.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in reciprocity and kin obligation; fairness understood through balanced exchange; violation of sharing norms the primary moral breach; foundations stable and widely shared.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding taboos and customary rules transmitted orally; regulation through kinship sanctions and community pressure; evolution slow and conservative.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by kin elders or through informal mediation; liability assigned through kin groups; restitution and compensation preferred over punishment; formal courts absent; throughput adequate for small-scale disputes.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy high within kin obligations; resource access rights likely tied to kin and territory; compliance burden light; predictability high within customary framework.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity rare in small-scale societies where reputation is paramount; persistent wrongdoing addressed through ostracism or violence; most wrongs redressed through kin mediation; residual gap minimal.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Explanatory paradigms embedded in oral tradition; ecological knowledge sophisticated and empirically grounded; astronomical observation for seasonal timing probable; paradigm integrates practical and cosmological understanding.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated stone-knapping techniques; ground stone technology expanding; plant knowledge includes incipient cultivation (sunflower, sumpweed, chenopod, squash); methods transmitted through apprenticeship; technique elaborating.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through oral instruction and observation; all adults possess core subsistence skills; specialists in flint-knapping, ritual, or healing may hold deeper knowledge; stock preserved in living memory; distribution adequate.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge loss possible through demographic disruption; techniques superseded by improvement (ground stone replacing some chipped stone functions); decay rate low in stable populations; no evidence of significant knowledge loss in this period.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and ancestral memory transmitted orally; shell midden sites likely anchor identity to place and lineage; Poverty Point earthworks may encode cosmological meaning; foundational identity rooted in landscape and ancestry.<br><br>
-__Artistic Expression & Material Culture:__ Carved bone pins, baked clay objects at Poverty Point, stone gorgets, and banner stones represent emerging artistic elaboration; material culture increasingly decorative beyond function; aesthetic conventions regional but linked through exchange.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood inferred as confident given resource security and network expansion; willingness to invest in monumentality at Poverty Point suggests optimism; behavioral disposition oriented toward exchange and aggregation.<br><br>
-__Form Exhaustion & Meaning Decay:__ No evidence of form exhaustion; cultural forms actively elaborating; meaning renewal through aggregation rituals and exchange; vitality high; no anomie detectable.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmology embedded in oral tradition; likely animist worldview with spiritual power in animals, places, and ancestors; Poverty Point geometry may reflect cosmological order; outlook integrated with ecological practice; piety operative.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mortuary ritual elaborating with differential treatment; shell mound sites may serve ritual as well as subsistence functions; Poverty Point earthworks suggest large-scale ceremonialism; devotional practice intensifying.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal religious institutions; ritual specialists probable but not institutionalized; doctrinal authority diffuse, embedded in oral tradition and elder knowledge; orthodoxy not enforced; decentralized.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Exchange networks may carry spiritual ideas alongside material goods; regional variation in practice; no evidence of displacement; diffusion of shared symbolic vocabulary evident in widespread artifact styles.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred cosmology fully operative and integrated with daily practice; spiritual needs anchored in ancestor veneration and place-based ritual; no void or drift detectable.<br><br>
+
+__Summary:__ Across the North American Coasts and Plains during the Hypsithermal maximum, human populations intensify resource extraction from maturing Holocene ecosystems, transitioning from mobile foraging bands toward semi-sedentary communities anchored to nut forests, shellfish beds, and river corridors; the binding constraint is the carrying capacity of localized resource patches, which concentrates populations, encourages storage and scheduling, and by the Late Archaic produces the first monumental architecture at Poverty Point and elaborate mortuary complexes indicating achieved status differentiation — all coordinated through expanding oral networks that link far-flung communities in webs of exchange, ceremony, and shared identity.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The region spans from the Atlantic seaboard through the Appalachian uplands to the Mississippi drainage and Gulf coastal plain, with major river systems — Ohio, Tennessee, Mississippi — serving as corridors of movement and resource concentration; the Piedmont and coastal plain offer gentler terrain than the Appalachian ridges, while the lower Mississippi Valley's backwater lakes and bayous create exceptionally productive aquatic environments; friction remains substantial for overland movement but diminishes along navigable waterways, and the maturing river deltas stabilize transportation routes.
+
+__Climate Regime & Volatility:__ The Hypsithermal (Atlantic climatic episode) brings the warmest and often driest conditions of the Holocene, with prairie-grassland borders shifting eastward and deciduous forests reaching their maximum extent; seasonal temperature ranges are moderated compared to late Pleistocene conditions but precipitation variability creates periodic dry spells; the regime is broadly stable across the three-millennium span, favoring predictable mast production and aquatic resource availability.
+
+__Hazard Regime & Exposure:__ Flooding along major rivers poses the primary hazard, with spring floods redistributing sediments and occasionally destroying stored resources; drought occurs episodically in the interior; coastal populations face occasional hurricane and storm surge impacts, though sea-level stabilization reduces earlier coastal instability; fire, both natural and anthropogenic, shapes forest composition.
+
+__Resource & Energy Endowment:__ Mature deciduous forests dominated by oak, hickory, walnut, and chestnut provide abundant nut masts; white-tailed deer populations flourish in forest-edge habitats; rivers and estuaries yield freshwater mussels, fish, and shellfish (oysters along the Gulf and Atlantic coasts); lithic raw materials — high-quality cherts from the Ozarks, Ohio, and Tennessee, soapstone from the Appalachians, and copper from Lake Superior — are accessible through trade; the resource base is rich but localized, rewarding those who control key extraction sites.
+
+__Waste Absorption & Sink Capacity:__ Human population densities remain low enough that waste generated by hunting, processing, and habitation is readily absorbed by the environment; shell middens begin accumulating on coasts and along rivers, the first visible human imprint on the landscape, but pollution effects are negligible; fire regimes may slightly alter forest composition but landscapes recover quickly.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic parasitic infections from freshwater shellfish consumption and zoonotic diseases from close contact with deer and other game constitute the primary pathogen load; mortality rates are moderately high in infancy but survivors often reach adulthood with reasonable vitality; epidemic diseases are absent given isolated populations and lack of dense settlements.
+
+__Nutrition & Physiological Vitality:__ The broadened diet — combining nuts (hickory providing high fat and protein content), deer and small game, fish, shellfish, and gathered plants — produces generally robust nutritional status; skeletal evidence from cemeteries like Indian Knoll shows individuals of moderate stature with relatively low rates of nutritional stress indicators compared to later agricultural populations; seasonal fluctuations create hunger periods but storage practices buffer the worst shortfalls.
+
+__Care, Healing & Recovery Capacity:__ Healing remains within kin-group contexts, with knowledge of medicinal plants transmitted orally; healed fractures visible in skeletal remains indicate successful treatment of injuries; care for the elderly and infirm is attested by individuals with significant disabilities who survived to advanced ages.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and family formation follow patterns established in earlier Archaic periods; population densities remain low enough that inbreeding is avoided through exogamous marriage between bands, reinforced by the expanding exchange networks that bring distant groups into contact during seasonal aggregations.
+
+__Demographic Renewal & Density:__ Population grows substantially across the period, as evidenced by increased site density and the appearance of large cemeteries; densities remain low by later standards but the trend is clearly upward; riverine and coastal environments support the highest concentrations, while uplands remain more thinly occupied.
+
+__Attrition & Dependency Overhang:__ The dependent load is managed within extended kin groups; mortuary evidence shows care for children and elderly, but population structure remains young overall; attrition from accidents, violence (evident in some skeletal trauma), and disease is absorbed by continuing demographic growth.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The provisioning base broadens dramatically: nut harvests (hickory, acorn, walnut) provide storable carbohydrates and fats; white-tailed deer supply protein, hides, and bone for tools; freshwater mussels and coastal shellfish offer reliable aquatic protein; gathered plants and seasonal fish runs supplement the diet; the floor is elevated above mere survival toward reliable abundance in well-positioned locations.
+
+__Energy Capture & Conversion:__ Human muscle remains the sole power source; efficiency increases through technological refinements — polished stone axes for woodworking, refined atlatl technology, and milling equipment for nut processing — that extract more usable energy from the resource base; fire is used for cooking, landscape management, and warmth but no other power sources are harnessed.
+
+__Labor Organization & Coercion:__ Labor is organized along kinship and gender lines with minimal coercion; age and skill differentiation create task specialization; seasonal aggregations mobilize larger labor pools for collective activities (mound construction at Poverty Point, communal hunts), but participation appears voluntary and based on reciprocal obligation rather than command.
+
+__Production & Surplus Capacity:__ By the Late Archaic, production exceeds immediate consumption in favorable locations; surplus takes the form of stored nuts, processed foods, and accumulated craft goods; this surplus underwrites ceremonial life, exchange relationships, and the construction of monumental earthworks; the phase is one of expanding production potential.
+
+__Storage, Reserves & Buffering:__ Storage pits, baskets, and containers become common; cached nut masts provide winter reserves; dried meat and processed plant foods extend seasonal abundance; the development of storage technology is central to the intensification pattern, allowing populations to buffer seasonal scarcity and remain in place longer.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange networks reach their first florescence; copper from Lake Superior, marine shell from the Gulf, soapstone from the Appalachians, galena from the Ozarks, and specific high-quality lithics circulate hundreds of kilometers; Poverty Point functions as a probable aggregation and redistribution center; exchange links communities through reciprocal obligations and creates shared identities across vast distances; logistics depend on canoe travel along rivers and foot transport overland.
+
+__Value Storage, Credit & Deferred Exchange:__ No monetary instruments exist, but certain materials — marine shell, copper, galena — accumulate value and serve as stores of wealth; deferred reciprocity obligations structure inter-band relationships; shell beads and exotic items deposited in burials represent crystallized social value removed from circulation.
+
+__Surplus Extraction & Redistribution:__ No institutionalized extraction mechanisms exist; surplus flows through generalized reciprocity, communal feasting, and ceremonial redistribution during aggregations; leadership may accrue prestige through generous distribution but cannot compel tribute; the system is extractive only in the sense that successful individuals attract followers through demonstrated competence.
+
+__Wealth Distribution & Asset Defense:__ Mortuary evidence from Indian Knoll and other sites shows status differentiation in grave goods — some individuals interred with shell beads, bone pins, atlatl weights, others with little — but disparities remain moderate; wealth is not rigidly heritable; defense of assets is communal, embedded in kinship and alliance networks.
+
+__Byproducts & Waste Routing:__ Shell middens accumulate as processing refuse; nutshell and other organic waste is discarded locally; no pollution effects are discernible; the routing is dispersal and local absorption.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended bilateral kinship networks structure social relations; marriage patterns are exogamous between bands, creating alliance webs across the landscape; inheritance of material goods appears to follow kinship lines but with no evidence for strongly hereditary positions; family units cooperate within larger band and tribal structures.
+
+__Association & Mutual Aid:__ Bands associate seasonally into larger aggregations at favorable resource locations and ceremonial centers; mutual aid during times of scarcity is obligatory within kinship networks; the construction of monuments like Poverty Point's earthworks implies coordinated labor mobilization across multiple social groups, suggesting supra-band organizational capacity.
+
+__Leisure, Play & Sociability:__ Seasonal aggregations provide contexts for feasting, mate selection, exchange of news and stories, and the renewal of social bonds; games and competitions are probable though direct evidence is limited; sociability extends across band boundaries through exchange visits and ceremonial gatherings.
+
+__Stratification, Status & Group Structure:__ Status differentiation is achieved rather than ascribed; successful hunters, skilled craftspeople, and eloquent speakers accrue prestige; burial evidence shows differential treatment but not rigid hierarchies; group structure includes bands (perhaps 25-75 people), tribes (multiple related bands), and seasonal macro-bands; at Poverty Point, more complex organization is implied but the nature remains debated.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administrative apparatus exists; leadership is personal and situational, activated for hunts, ceremonies, or conflict resolution; decision-making is consensual within bands; institutional continuity depends on oral tradition and remembered precedent rather than written records or formal offices.
+
+__Coercive Apparatus & Means of Force:__ No standing coercive apparatus exists; the atlatl serves as both hunting tool and weapon; some skeletal evidence indicates interpersonal violence, but organized warfare is not clearly attested; disputes are likely resolved through mediation, compensation, or limited feuding.
+
+__Discharge, Disorder & Decay:__ Social friction is discharged through mobility (dissatisfied individuals can leave), ritual resolution of disputes, and the mediation of elders; serious offenses may result in ostracism or blood revenge; the residue is modest — some interpersonal violence, occasional band fissioning — but no evidence of systemic disorder or institutional decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The general temper appears confident and expansive, consistent with a period of population growth and successful adaptation; the construction of monumental earthworks suggests collective enthusiasm and shared purpose; trust extends along kinship lines and through established exchange relationships to distant partners.
+
+__Leadership & Personal Authority:__ Leaders gain authority through demonstrated competence in hunting, oratory, ritual knowledge, or diplomatic skill; authority is personal rather than institutional; leadership at centers like Poverty Point is probably enhanced, involving individuals who coordinate large-scale activities, but still depends on persuasion and prestige rather than coercion.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to kin groups, successful leaders, and the ancestors whose memory is preserved; the order is legitimated through oral tradition linking present arrangements to the foundational acts of ancestors and powerful beings; disaffection can express itself through departure but the system generates loyalty through reciprocity and shared identity.
+
+__Political Will & Collective Resolve:__ Collective resolve is demonstrated in monument construction (Poverty Point's earthworks represent over 750,000 cubic meters of fill moved) and sustained participation in long-distance exchange networks; the will to act collectively is channeled through seasonal aggregations and ceremonial occasions rather than permanent political structures.
+
+__External Relations & Posture:__ Relations between groups are structured through exchange partnerships, intermarriage, and shared ceremonial participation; the posture is generally open, as evidenced by the vast distances materials travel; conflict exists but does not dominate external relations; expansion into new territories continues where resources allow.
+
+__Disaffection, Apathy & Spent Will:__ The period shows no evidence of spent will or widespread disaffection; the residue is minimal — occasional interpersonal conflicts, perhaps some failed aggregations — but the overall trajectory is one of growing collective capacity and shared purpose.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is universal and mutually intelligible within language families, though dialectical variation increases with distance; the code is fully grammatical, capable of expressing abstract concepts, temporal relationships, and hypothetical scenarios; strangers can communicate through established pidgins or trade languages, and interpreters facilitate inter-group contact.
+
+__Channels & Transmission Velocity:__ Information moves at the speed of human travel — foot and canoe; the expanding exchange networks serve simultaneously as information channels, carrying news, techniques, and stories alongside material goods; word of distant events may take weeks or months to spread but does reach far-flung communities; transmission is accelerated during seasonal aggregations.
+
+__Record, Storage & Persistence:__ Memory is the sole storage medium; critical knowledge — resource locations, kinship obligations, ritual procedures, historical narratives — is held by living individuals and transmitted orally across generations; some mnemonic devices (notched sticks, patterned artifacts) may assist recall but do not constitute writing; persistence depends on continuous oral transmission.
+
+__Framing, Censorship & Discourse Norms:__ Oral tradition frames information within established narrative structures emphasizing ancestral precedent and cosmological context; no formal censorship exists but social pressure shapes what is spoken; discourse norms require respect for elders and proper contexts for sacred knowledge.
+
+__Reception, Attention & Amplification:__ Reception occurs in face-to-face contexts — councils, ceremonies, fireside gatherings — where attention is high; stories and songs serve as amplification mechanisms, embedding important information in memorable forms; dramatic performance and rhetorical skill enhance reception.
+
+__Signal Integrity & Noise Load:__ Signal integrity depends on the memory and fidelity of speakers; some drift occurs across generations, but ritual repetition and communal recitation check major distortions; noise is generated by distance, dialectical variation, and the inevitable modifications of retelling; verification relies on social consensus and comparison of versions.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is embedded in reciprocity — obligations must be met, gifts returned, wrongs compensated; kinship duty is foundational; generosity is valued, hoarding condemned; the moral order is sustained by social pressure and the threat of supernatural sanction; a sense of fair exchange structures inter-band relations.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; custom and oral precedent constitute the binding norms; evolution occurs through the gradual accumulation of cases resolved by elders and the incorporation of new situations into traditional frameworks; rules are flexible, adapted to context, and subject to interpretation by authoritative speakers.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by respected elders or councils; liability follows kinship lines — the kin group of an offender may compensate the kin group of a victim; sanctions range from shaming and ostracism to compensation payments and, in extreme cases, execution or banishment; the community as a whole enforces norms through social pressure.
+
+__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kinship obligations — one has claims on kin and reciprocal duties to them; protected categories include children, elders, and perhaps skilled individuals whose knowledge benefits the group; compliance burden is light, integrated into daily life rather than imposed by external authority.
+
+__Impunity & Unredressed Wrong:__ Some wrongs go unredressed when the offender's kin group is powerful or when the victim lacks advocates; blood feuds may perpetuate rather than resolve grievances; the gap between justice owed and delivered is real but limited by the small scale of communities and the integration of offenders into kinship networks.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Practical empirical inquiry guides understanding of plant properties, animal behavior, seasons, and materials; the reigning paradigm is animistic, interpreting natural phenomena through the actions of spiritual beings; systematic observation is embedded in subsistence practice rather than separated as distinct inquiry.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge reaches new heights: sophisticated ground-stone technology (grooved axes, atlatl weights, milling stones); soapstone carving; fiber-tempered pottery appearing by ~2500 BCE; projectile point styles adapted to regional prey; methods are learned through apprenticeship and oral instruction, perfected through practice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge is transmitted within families and bands through demonstration, practice, and oral instruction; specialized skills (fine knapping, soapstone carving) may be concentrated in certain lineages; the overall knowledge stock is growing, encompassing an expanding range of techniques and lore; distribution is broad within communities but some esoteric knowledge is restricted.
+
+__Obsolescence & Knowledge Decay:__ Older techniques are selectively abandoned as superior methods emerge (fiber-tempered pottery displaces pure basket technology for certain uses); knowledge may be lost when skilled practitioners die without transmitting their expertise; the rate of decay is relatively low given the accumulating complexity of the technical repertoire.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestor stories, and mythological beings populate the oral tradition, grounding present arrangements in sacred time; identity is constituted through kinship, place, and participation in shared ceremonies; memory extends backward through named generations and into mythic origins; the deep worldview positions humans within a living cosmos of relationships with other beings.
+
+__Legitimating Narrative & Ideology:__ The order is legitimated by reference to ancestral precedent and cosmological necessity; leaders are legitimated by successful action and conformity to tradition; the ideology is conservative, emphasizing continuity with the past while accommodating gradual change within traditional frameworks.
+
+__Artistic Expression & Material Culture:__ Artistic expression takes form in carved bone and stone objects, incised shell, shaped clay vessels, decorated atlatl weights, and possibly perishable media (basketry, featherwork, body painting) now lost; designs tend toward geometric and abstract patterns with some representational elements; red ochre is used extensively in mortuary contexts; the material culture of Poverty Point includes enigmatic fired-clay objects (PPOs) of uncertain function but careful manufacture.
+
+__Form Exhaustion & Meaning Decay:__ The forms are vital and innovative during this period; Poverty Point represents an unprecedented elaboration; no evidence of exhaustion or hollowing out; the residue is minimal — perhaps some regional styles fade as populations shift — but the general trajectory is one of accumulating cultural complexity.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is understood as alive with spiritual beings — animals, plants, landforms, and ancestors possess agency and power; humans exist in relationships of reciprocity with these beings; death is a transition rather than an ending; the existential outlook is one of embedded participation in a sacred order rather than separation from nature.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual permeates daily life — proper treatment of animal remains ensures continued hunting success; seasonal ceremonies mark transitions; mortuary practices (red ochre burials, grave goods, secondary interments) enact beliefs about death and the afterlife; possible ceremonial centers (Poverty Point) host large-scale ritual gatherings; devotion is expressed through correct action rather than abstract belief.
+
+__Religious Institutions & Doctrinal Authority:__ No separate religious institutions exist; ritual authority is distributed among elders, healers, and individuals with demonstrated spiritual power; no doctrinal orthodoxy is enforced; local variation in practice is tolerated within shared cosmological frameworks.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The exchange networks that move material goods also circulate ritual practices, symbols, and cosmological ideas; shared mortuary practices across wide areas suggest spiritual diffusion; syncretism occurs as groups interact and incorporate elements from others; no displacement of established traditions by foreign religions occurs during this period.
+
+__Disenchantment & Sacred Discharge:__ The sacred order remains vital and unquestioned; disenchantment as a residue is absent; the cosmos remains fully enchanted, every aspect of life infused with spiritual significance; the foundations of this worldview will endure for millennia before encountering challenges from outside the region.
+

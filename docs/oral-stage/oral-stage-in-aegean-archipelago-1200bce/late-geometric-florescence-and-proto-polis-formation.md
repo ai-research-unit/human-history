@@ -1,69 +1,140 @@
 # __800 BCE – 750 BCE__ — Late Geometric Florescence and Proto-Polis Formation
-__Summary:__ The Aegean reaches a threshold of complexity in the final decades before the alphabetic breakthrough. Population growth accelerates; sanctuary sites draw inter-community gatherings at Olympia, Delphi, and Delos; craft production achieves new elaboration in monumental grave markers and figured scenes. Nascent polis institutions — nucleated settlements, emerging public spaces, collective identity beyond kinship — take shape at Athens, Corinth, Argos, and Eretria. Long-distance trade networks extend to the Levant and beyond. Oral epic tradition crystallizes toward the forms that will become the Iliad and Odyssey. The system remains fully oral — no writing until the very end of this window — and the binding constraint is the coordination ceiling that memory-based governance imposes on scaling political complexity. Change accelerates visibly; the window closes on the cusp of transformation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Fragmented Aegean geography unchanged — mountainous terrain, island scatter, narrow coastal strips — but maritime networks now more active; friction still high overland but sea lanes increasingly traveled; geography favors city-state scale over territorial integration.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate stable; winter rainfall, summer drought; no major secular shift attested; conditions within the range the agricultural system has long been calibrated for.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk persists; no catastrophic event documented for this half-century; communities remain sufficiently dispersed that localized damage would not cascade; exposure manageable.<br><br>
-__Resource & Energy Endowment:__ Arable land increasingly utilized as population grows; iron ore and timber locally available; copper and tin for prestige bronze imported; endowment adequate but pressure on better lands beginning.<br><br>
-__Waste Absorption & Sink Capacity:__ Production volumes still modest; metallurgical and ceramic waste dispersed without issue; landscape absorption capacity far exceeds load; no saturation concern.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease present; no major epidemic attested; increasing population density in proto-urban nuclei may raise future contagion risk but not yet critical; mortality stable within period.<br><br>
-__Nutrition & Physiological Vitality:__ Diversified diet from agriculture, herding, and fishing; increasing trade brings supplementary goods; skeletal evidence sparse but no famine indicators; vitality supports continued demographic growth.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Household reproduction continues; marriage alliances increasingly strategic among elite lineages; no evidence of significant deviation from baseline fertility patterns.<br><br>
-__Demographic Renewal & Density:__ Population growth accelerating; cemetery size and burial counts increase markedly; settlement surveys show expansion; density approaching levels that require new coordination mechanisms; age structure normalizing.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load absorbed by expanding households and kin networks; no crisis-level accumulation; productive cohort growing; system generating rather than consuming demographic surplus.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Cereal cultivation, viticulture, and olive culture expanding; pastoralism continues; fishing supplements coastal communities; subsistence secure for most; margin above minimum widening with surplus production.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; firewood for metallurgy abundant; no water or wind power in use; per-capita energy ceiling low but sufficient; conversion efficiency stable.<br><br>
-__Labor Organization & Coercion:__ Household labor predominates; craft specialists increasingly distinct; some dependent labor in elite households; no large-scale coerced workforce; organization remains kin-embedded but specialization advancing.<br><br>
-__Production & Surplus Capacity:__ Pottery production reaches new heights — monumental kraters, figured scenes; metalwork sophisticated; agricultural surplus supports non-agricultural specialists; production capacity expanding visibly.<br><br>
-__Storage, Reserves & Buffering:__ Household and lineage storage continues; sanctuary treasuries accumulate dedications; no centralized redistribution; reserves adequate against normal variation; buffering distributed rather than pooled.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade intensifies; Euboean and Corinthian merchants active in Levant; Al Mina trading post established; Phoenician contacts bring luxury goods; regional exchange networks thicken; logistics improving.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No coinage; value stored in prestige metalwork, livestock, and land; gift exchange among elites binds alliance networks; deferred reciprocity operates through guest-friendship obligations.<br><br>
-__Surplus Extraction & Redistribution:__ No formal taxation; surplus flows through prestige economy and sanctuary dedication; emerging community funds for sanctuary construction plausible but unattested; extraction remains informal.<br><br>
-__Wealth Distribution & Asset Defense:__ Stratification sharpening; elite graves display considerable wealth in bronze, iron, and imports; differential access to trade networks amplifies inequality; asset defense through kin and physical control; distribution widening.<br><br>
-__Byproducts & Waste Routing:__ Production waste increasing but still minor relative to absorption capacity; no evidence of pollution pressure; routing remains dispersal to immediate environment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends beyond kinship through guest-friendship networks and sanctuary gatherings; inter-community ties strengthening; reciprocity norms active; mutual aid functions at household, lineage, and emerging community levels.<br><br>
-__Stratification, Status & Group Identity:__ Elite lineages increasingly distinct; warrior-aristocrat ideal crystallizes; commoner households subordinate but not servile; community identity (proto-polis) emerging alongside lineage identity; boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal kinship structures; elite lineages tracking genealogies carefully; inheritance presumably partible; marriage alliances strategic for inter-community ties; household remains fundamental unit.<br><br>
-__Civic Association & Self-Organization:__ Proto-civic institutions emerging — assemblies, shared sanctuaries, collective burial grounds; agora spaces perhaps nascent; community coordination beyond kinship developing; associational fabric thickening.<br><br>
-__Leisure, Play & Sociability:__ Feasting prominent; athletic competitions at sanctuaries — Olympic Games traditional date 776 BCE falls in this window; communal festivals at Olympia, Delphi, Delos; sociability increasingly institutionalized.<br><br>
-__Grievance Channels & Social Discharge:__ Kin mediation and feud continue; sanctuary as neutral ground for resolution plausible; no formal courts; emergence of community judgment possible but unattested; residual grievance persists where kin networks fail.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority lodged in basileis (chiefs) and leading households; some communities developing collective leadership councils; no kings in palatial sense; fragmentation persists but proto-polis nucleation creates larger political units; trend toward oligarchic coordination.<br><br>
-__Succession & Power Transfer:__ Leadership passes within elite lineages; competition among leading families plausible; no fixed constitutional rules; transfer informal but contained within narrow elite circle.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy from lineage, martial reputation, and sanctuary dedications; oral epic tradition provides heroic models for elite self-presentation; genealogical claims to heroic ancestors perform justificatory work.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Still minimal; no bureaucracy or archives; all administration through memory and personal authority; capacity ceiling very low but communities remain small enough to function; strain beginning as scale increases.<br><br>
-__Political Participation & Mobilization:__ Free males participate in assemblies; hoplite warfare emerging — requiring community coordination for equipment and formation; mobilization for war increasingly communal rather than purely aristocratic; participation widening.<br><br>
-__Geopolitical Position & External Relations:__ Greek communities interact with Phoenicians and Near Eastern states through trade; no subjection to external powers; inter-community relations mix alliance, rivalry, and raiding; Olympic truce creates periodic peace.<br><br>
-__Coercive Apparatus & Means of Force:__ Warrior aristocracy provides fighting capacity; iron weapons standard; bronze for prestige; hoplite equipment appearing; no standing armies; force capacity distributed but increasingly organized for collective action.<br><br>
-__Internal Order & Threat Environment:__ Raiding continues but community solidarity may constrain it; no police function; order maintained through reputation and kin retaliation; disorder modest relative to enforcement capacity; trend toward community-level order maintenance.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Voice and personal travel remain primary; bards circulate among communities carrying news and tradition; maritime contacts speed transmission along trade routes; velocity limited to human and ship speed but network denser.<br><br>
-__Record, Storage & Persistence:__ No writing system in use until very end of window — alphabetic script adopted from Phoenicians ~750 BCE at earliest; all record persistence through living memory; genealogies, land tenure, and obligations oral; loss of specialists erases knowledge.<br><br>
-__Framing, Censorship & Discourse Norms:__ Epic bards frame authoritative accounts of past; heroic conventions shape narrative possibilities; no formal censorship but social sanction and elite patronage constrain; discourse norms traditional.<br><br>
-__Reception, Attention & Amplification:__ Sanctuary gatherings and aristocratic feasts concentrate attention; memorable verse amplifies transmission; athletic victories and dedications broadcast reputation; attention episodic but intense at gatherings.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces variation; formulaic structure preserves core narratives; crystallization toward fixed epic forms may be reducing drift; no external verification mechanism; noise present but tradition stabilizing.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor, reciprocity, and proper order (themis) constitute moral baseline; divine justice expected to punish hubris; guest-right sacred; proportional response to wrong expected.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; custom (themis) and divine sanction regulate conduct; emerging community norms may supplement kin-based rules; codification not yet begun; oral tradition carries binding precedent.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes settled by kin negotiation, elder judgment, or feud; basileus may arbitrate; emerging community forums plausible; liability collective within kin group; enforcement through self-help and social pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights depend on status and community membership; strangers protected by xenia conventions; compliance informal but socially enforced; predictability depends on kin standing and community recognition.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lineages may escape retaliation; those without kin vulnerable; impunity exists but checked by reputation costs and sanctuary sanction; some wrongs accumulate unresolved.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No systematic inquiry; explanation mythological and genealogical; natural phenomena attributed to divine action; practical observation guides craft and agriculture but no theoretical framework.<br><br>
-__Applied Knowledge & Technical Method:__ Craft knowledge sophisticated — pottery, metallurgy, shipbuilding, architecture; techniques transmitted through apprenticeship; iron-working mature; figured pottery requires complex planning; methods empirical and improving.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ No formal schooling; knowledge transmitted within households and craft lineages; bards carry cultural and historical tradition; literacy absent until very end of window; skill increasingly specialized.<br><br>
-__Obsolescence & Knowledge Decay:__ Bronze Age palatial knowledge long lost; current knowledge stock stable and growing in craft domains; oral epic tradition preserving transformed memory; decay halted; net accretion underway.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Heroic age memory crystallizing into canonical form; Trojan War, Theban cycle, Heracles provide shared reference; identity rooted in divine ancestry, heroic lineage, and emerging polis membership; pan-Hellenic consciousness nascent.<br><br>
-__Artistic Expression & Material Culture:__ Late Geometric pottery at peak — monumental kraters with figured scenes (funerals, battles, ships); bronze tripods and figurines elaborate; architectural elaboration at sanctuaries beginning; aesthetic ordered, narrative, and increasingly representational.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood confident and expansive; settlement growth, trade success, and sanctuary splendor signal optimism; competitive display among elites intensifies; behavioral temper ambitious; risk appetite increasing.<br><br>
-__Form Exhaustion & Meaning Decay:__ Geometric style mature but not exhausted; figured scenes represent formal innovation; epic tradition vital; symbolic repertoire generative; no form-exhaustion evident; window closes at creative peak.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Olympian polytheism consolidated; cosmos ordered by divine will; human fate bounded by mortality and divine favor; afterlife shadowy; piety requires ritual observance and respect for divine prerogatives; hubris invites destruction.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sanctuary dedications reach new scale — tripod cauldrons, bronze figurines, weapons; sacrifice central; Olympic Games established as sacred competition; communal festivals structure calendar; devotion intensifying.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Sanctuaries at Olympia, Delphi, Delos emerge as inter-community sacred centers; no centralized priesthood; oracular authority at Delphi rising; doctrine oral and traditional; institutional structure minimal but growing.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Olympian pantheon consolidating as shared framework; Near Eastern influences via trade — iconographic borrowings, possibly mythological elements; hero cult expanding; local and pan-Hellenic traditions coexisting; syncretism active at margins.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred pervades all domains; divine presence assumed throughout cosmos; competitive piety among elites; spiritual framework robust and intensifying; no secular residue.<br><br>
+
+__Summary:__ A Long-Term Trend across the Aegean Archipelago during which demographic growth concentrates into nucleated settlements, shared sanctuaries anchor emerging civic identities, and regional ceramic styles signal community differentiation, all bound by the oral substrate — spoken or it does not exist, remembered or it is lost — so that the proto-polis is coordinated through assembly speech, legitimated by voiced genealogies, and memorialized in bardic performance rather than written charter; the single most causal factor is the nucleation of population around shared cult centers that transform loose village clusters into recognizable political communities.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Aegean's fragmented topography now structures emerging polities — each valley, coastal plain, or island develops its own community identity; the Argolid, Attica, Corinthia, and Laconia each coalesce around defensible cores; Euboea and the Cyclades anchor maritime networks.
+
+__Climate Regime & Volatility:__ The moister phase continues; agricultural yields are reliable enough to support population growth and the modest surplus that funds sanctuary dedications and craft production; no significant climate stress is documented.
+
+__Hazard Regime & Exposure:__ Seismic and volcanic hazards remain baseline; nucleated settlement increases localized exposure but population is still low enough that no catastrophic single-point failure is recorded.
+
+__Resource & Energy Endowment:__ Iron is abundant and fully integrated into tool and weapon production; Euboean access to silver and copper sources in the Central Mediterranean (via Pithekoussai) and Eastern metals (via Al Mina) supplements local endowment.
+
+__Waste Absorption & Sink Capacity:__ Population, though growing, remains far below carrying capacity; no sink stress, soil degradation, or pollution accumulation is evident.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria persists in lowland areas; nucleation may slightly elevate disease transmission, but population density is still low; baseline mortality remains stable.
+
+__Nutrition & Physiological Vitality:__ Diversified agriculture (grain, olive, vine, legumes) and pastoral supplements support adequate nutrition; skeletal evidence does not indicate acute stress; vitality is sufficient for continued demographic growth.
+
+__Care, Healing & Recovery Capacity:__ Healing remains household-based — herbalism, wound-tending, midwifery — with knowledge transmitted orally within kin networks; no specialized medical institutions exist.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility is unrestricted; patrilocal marriage patterns continue; inter-polis marriage alliances begin to emerge as elite families seek connections beyond their immediate community.
+
+__Demographic Renewal & Density:__ Population continues to grow, approaching 40–50 percent of Late Bronze Age peak in some regions; site density increases, and nucleated villages show signs of merging into larger settlement units.
+
+__Attrition & Dependency Overhang:__ Dependency ratios remain manageable; young populations with high fertility absorb the orphaned and widowed within kin structures; no systemic dependency crisis is evident.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Household agriculture remains the foundation; surplus margins widen as yields stabilize and labor availability increases; the subsistence floor is secure for the growing population.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the sole power sources; the ox-plow and donkey-transport define the ceiling; increasing labor inputs raise total output without improving per-capita energy capture.
+
+__Labor Organization & Coercion:__ Labor is organized through household and kin obligation; craft specialization increases — potters, smiths, shipwrights concentrate in emerging centers; no large-scale coerced labor is attested.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports expanding craft production (Late Geometric pottery, bronze tripods, iron weapons) and sanctuary construction; Corinthian and Attic workshops produce for local and export markets.
+
+__Storage, Reserves & Buffering:__ Household and community-level storage provides modest buffering; sanctuary treasuries begin to accumulate votive wealth (bronze tripods, gold objects), representing nascent communal reserves.
+
+__Exchange, Trade & Logistics:__ Euboean traders operate extensively — Al Mina in Syria, Pithekoussai in Italy, and the Central Mediterranean; Corinthian and Aeginetan merchants join the networks; goods exchanged include metals, pottery, textiles, oil, and slaves; all transactions rest on oral agreements and personal trust.
+
+__Value Storage, Credit & Deferred Exchange:__ No coinage exists; value is stored in cattle, metal ingots, prestige goods, and land; credit operates through gift-exchange, hospitality debt, and bridal wealth; oral memory tracks obligations.
+
+__Surplus Extraction & Redistribution:__ The basileus and emergent aristocratic councils extract modest surplus through feasting obligations, first-fruits dedications, and communal labor on sanctuary construction; extraction remains personal and light.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentration is modest but visible — elite burials (Kerameikos, Argos) contain rich grave goods; no fortified treasuries exist; asset defense relies on kin solidarity, reputation, and the threat of feud.
+
+__Byproducts & Waste Routing:__ Craft waste (ceramic wasters, slag) is locally dispersed; no waste infrastructure is needed; no financial imbalances are documented in this pre-monetary economy.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The genos, phratry, and tribe structure social obligation; inheritance passes patrilineally; kinship remains the fundamental organizer, but community identity is beginning to layer atop it as the proto-polis coalesces.
+
+__Association & Mutual Aid:__ Guest-friendship (xenia) networks extend across the Aegean; Panhellenic sanctuaries (Olympia, Delphi, Delos) host gatherings that forge supra-local associations; hero cults at Bronze Age tombs (~850–800 BCE) link communities to ancestral legitimacy and shared identity.
+
+__Leisure, Play & Sociability:__ Sanctuary festivals, athletic contests (proto-Olympic games at Olympia by 776 BCE tradition), and bardic performances provide spaces of sociability; feasting at the basileus's hall and communal meals at sanctuaries forge bonds.
+
+__Stratification, Status & Group Structure:__ An aristocratic elite of basileis and warrior families sits atop a shallow hierarchy; status rests on birth, prowess, and wealth in land and cattle; boundaries are more permeable than they will become in later centuries.
+
+__Administrative Capacity & Institutional Integrity:__ No standing bureaucracy exists; the basileus rules with a council of elders (boulē) and addresses the assembly (agorē) in oral deliberation; nascent magistracies may be emerging in some communities, but no records document them; the proto-polis is coordinated through speech, not administration.
+
+__Coercive Apparatus & Means of Force:__ The armed citizen body — warrior-farmers with iron spears, swords, and shields — provides coercive capacity; the basileus commands but does not monopolize force; no standing army or police exists; warfare remains small-scale raiding and cattle-lifting, with occasional inter-community clashes.
+
+__Discharge, Disorder & Decay:__ Vendetta and raiding persist but are mediated by sanctuary truces, guest-friendship, and emerging community norms; grievance circulates but does not escalate into systemic disorder; the proto-polis is finding its institutional feet.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The mood is confident and expansive — population is growing, trade is flourishing, sanctuaries are multiplying; trust extends through xenia networks and shared cult; communities are coalescing with a sense of shared purpose.
+
+__Leadership & Personal Authority:__ The basileus leads through personal valor, eloquence, and generosity; multiple basileis may compete within a single proto-polis, with authority contested in assembly; aristocratic families cultivate heroic genealogies to legitimate their prominence.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to those who perform — successful in war, generous in feast, favored by the gods; legitimacy is shallow, personal, and must be continuously re-earned; hero cults begin to transfer some legitimacy from living leaders to ancestral figures.
+
+__Political Will & Collective Resolve:__ Collective will is mobilized for sanctuary construction, festival organization, defense against raiders, and occasional colonial ventures; the proto-polis is learning to act as a unit, though cohesion depends heavily on aristocratic leadership.
+
+__External Relations & Posture:__ External relations are handled through guest-friendship, marriage alliance, and sanctuary diplomacy; Euboean and Corinthian trading partnerships with Phoenicians and Levantines rest on personal oaths; no formal treaties or written agreements exist; the Phoenician alphabet is adapted to Greek (~775–750 BCE) but is not yet used for diplomacy or record-keeping.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection is localized and personal — rivalry between basileis, feuds between families — but no systemic exhaustion or apathy is evident; the collective will to build and expand remains strong.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Greek dialects provide mutual intelligibility across the Aegean; regional dialectal differentiation (Ionic, Doric, Aeolic) is emerging, tracking the boundaries of the coalescing communities.
+
+__Channels & Transmission Velocity:__ Information travels by word of mouth, sea voyage, and sanctuary gatherings; Panhellenic festivals accelerate transmission by concentrating informants from across the Greek world; a rumor from Olympia can spread to the Cyclades within weeks.
+
+__Record, Storage & Persistence:__ The Phoenician alphabet is adapted to Greek (~775–750 BCE), with the earliest inscriptions (Dipylon oinochoe ~740 BCE, Nestor's cup ~735 BCE) appearing at the window's end; but literacy is rare and confined to brief ownership marks or poetic snippets — institutional memory still resides entirely in oral tradition, bardic verse, and living minds; the written word does not yet displace speech as the substrate of public life.
+
+__Framing, Censorship & Discourse Norms:__ Aristocratic values frame discourse — honor, prowess, lineage; the basileus controls assembly speech; bardic performance transmits heroic ideals; what can be said publicly is constrained by status and custom.
+
+__Reception, Attention & Amplification:__ Epic recitation at festivals amplifies heroic narrative across the Greek world; sanctuary proclamations and dedicatory announcements spread news; the Homeric tradition, nearing its final oral form, reaches audiences from Ionia to Italy.
+
+__Signal Integrity & Noise Load:__ Oral transmission maintains high fidelity within the formulaic epic tradition but is lossy for prosaic administrative or commercial information; no verification mechanism exists beyond cross-checking with trusted informants; noise accumulates in non-formulaic domains.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice (dikē) is reciprocal and proportional — gift demands counter-gift, harm demands compensation or vengeance; the sense of right order (themis) is customary and oral; shame (aidōs) and honor (timē) regulate aristocratic conduct.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; custom (themis) and the oral judgments of basileis and elders constitute the regulatory order; the earliest written laws (Draco, Lycurgus) lie a century or more in the future; precedent is remembered, not recorded.
+
+__Adjudication, Liability & Sanction:__ Disputes are judged in oral assembly by the basileus or council; compensation in cattle, goods, or service is the typical sanction; blood-feud remains the recourse when adjudication fails; the agora is the court.
+
+__Rights, Protections & Compliance Burden:__ Rights are customary and status-dependent — the warrior's claim to booty, the guest's to hospitality, the suppliant's to sanctuary protection; compliance burden is light in a still-simple society.
+
+__Impunity & Unredressed Wrong:__ Impunity accrues to the powerful — a basileus may evade sanction; unredressed wrongs fuel vendetta; but the emerging proto-polis is beginning to channel dispute toward assembly judgment rather than private violence, slowly narrowing the impunity gap.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry exists; the explanatory paradigm is mythopoetic — divine will, heroic action, and fate (moira) explain outcomes; natural causation is not distinguished from supernatural; the pre-Socratic turn lies centuries ahead.
+
+__Applied Knowledge & Technical Method:__ Technical skill is mature — Late Geometric pottery achieves regional distinctiveness and high quality; iron-smithing, bronze-working, shipbuilding, and agricultural technique are transmitted orally from master to apprentice; Euboean navigation and commercial practice are sophisticated enough to sustain long-distance trade networks.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal and kin-based; literacy, just appearing, is confined to a handful of individuals and not yet pedagogically transmitted; the knowledge stock is practical and mythic; specialized skill (smithing, pottery, bardic art, navigation) is concentrated in hereditary or guild-like lineages.
+
+__Obsolescence & Knowledge Decay:__ Mycenaean palatial knowledge (Linear B, monumental architecture, chariot tactics) has long been lost; current knowledge stock is stable and growing; the emergence of alphabetic writing offers future potential to arrest decay, but that potential is not yet realized.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The heroic age — Troy, Thebes, the Nostoi — provides foundational identity; hero cults at Bronze Age tombs revive ancestral memory; communities claim descent from mythic founders (Heracles, Pelops, Cadmus); the Homeric epics, nearing final oral form, crystallize this identity.
+
+__Legitimating Narrative & Ideology:__ Aristocratic legitimacy rests on heroic genealogy and divine favor, articulated in assembly speech and bardic performance; the basileus is a descendant of heroes, favored by Zeus; the emerging proto-polis draws legitimacy from shared cult and ancestral narrative.
+
+__Artistic Expression & Material Culture:__ Late Geometric pottery reaches its florescence — regional styles (Attic, Corinthian, Argive) display elaborate geometric decoration with nascent figural scenes (funerary processions, warriors, horses); bronze tripods and votive figurines fill sanctuary treasuries; architecture remains modest (mudbrick, timber, thatch), with the first stone temple foundations appearing only at the window's end.
+
+__Form Exhaustion & Meaning Decay:__ No form exhaustion is evident; the Geometric style is vital and evolving toward the Orientalizing motifs that will transform it after 750 BCE; heroic mythos retains full potency as the glue of community identity.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is populated by Olympian gods who intervene in human affairs; fate (moira) bounds but does not fully determine outcomes; the outlook is pious — proper sacrifice ensures divine favor, impiety invites catastrophe; human agency operates within divine limits.
+
+__Ritual, Devotion & Sacred Practice:__ Animal sacrifice at open-air sanctuaries is central; votive dedications (bronze tripods, weapons, figurines) accumulate at Olympia, Delphi, Delos; hero cult at Bronze Age tombs (Mycenae, Menidi, Lefkandi) links the living to ancestral power; household cult honors hearth deities and ancestors.
+
+__Religious Institutions & Doctrinal Authority:__ No centralized priesthood or doctrinal authority exists; sanctuary administration is local and hereditary; religious knowledge is transmitted orally by priestly families; Panhellenic sanctuaries foster shared Olympian cult but impose no orthodoxy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Olympian pantheon is stable; Eastern influences (Phoenician, Syrian, Cypriot) introduce iconographic motifs — sphinxes, griffins, lotus patterns — that blend with Greek forms, prefiguring the Orientalizing revolution after 750 BCE; no displacement of native belief is occurring.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident; the sacred is vital and expanding — sanctuary dedications multiply, hero cults flourish, the Panhellenic festival calendar crystallizes; the cosmology anchors community identity and provides existential meaning.
+

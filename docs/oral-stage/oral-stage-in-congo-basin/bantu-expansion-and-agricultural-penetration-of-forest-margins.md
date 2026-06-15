@@ -1,69 +1,140 @@
-# __4000 BCE – 1000 BCE__ — Bantu Expansion and Agricultural Penetration of Forest Margins
-__Summary:__ Between roughly 4000 and 1000 BCE, populations speaking Proto-Bantu and its daughter languages expand southward from the Nigeria-Cameroon borderlands into the margins of the Congo Basin rainforest. They carry an agricultural package centered on yams and oil palm, later supplemented by plantains and, toward the window's end, iron-working. The binding constraint is the forest edge itself: dense rainforest resists clearance with stone tools, channeling settlement along river corridors and into forest-savanna mosaics while the interior remains the domain of indigenous foragers. Two populations now occupy overlapping but distinct niches — farmers at the margins, foragers in the interior — with the earliest stages of exchange and admixture beginning. Direction of change is expansive for the Bantu populations (demographic growth, territorial spread, linguistic diversification) and contractive for forager autonomy (territorial compression, incipient dependency). Archaeological evidence remains thin; linguistic reconstruction and genetic data carry much of the argument.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Congo Basin's northern and western margins present a mosaic of gallery forest, savanna, and riverine corridors; movement easiest along major rivers (Sanaga, Sangha, Ubangi, upper Congo tributaries) and savanna breaks; dense interior forest remains largely impassable for agricultural settlement.<br><br>
-__Climate Regime & Volatility:__ The African Humid Period continues through most of this window but mid-Holocene drying begins around 4000 BCE, reducing rainfall at forest margins and opening savanna gaps that facilitate agricultural expansion; interannual variability moderate; secular drift toward drier conditions at the margins.<br><br>
-__Hazard Regime & Exposure:__ Acute hazards minimal: no seismic or volcanic activity in the expansion zone; seasonal flooding along rivers predictable; agricultural settlements more fixed than forager camps and thus slightly more exposed to localized drought or crop failure, but margin adequate.<br><br>
-__Resource & Energy Endowment:__ Forest margins provide cultivable soils (lateritic but workable), wild game and fish for supplementary protein, timber and thatch for construction, and — toward window's end — accessible iron ore deposits; the standing stock adequate for small-scale farming and slowly drawn upon.<br><br>
-__Waste Absorption & Sink Capacity:__ Waste load from small farming villages (ash from slash-and-burn, organic refuse) easily absorbed by surrounding environment; no significant degradation; absorptive capacity ample relative to population density.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Tropical disease environment (malaria, trypanosomiasis, parasites) imposes elevated mortality, but expanding populations carry some acquired immunity; settled villages may concentrate vectors (mosquitoes near standing water), slightly elevating exposure compared to mobile foragers; mortality remains within renewal capacity.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural diet narrower than forager diet but more calorically reliable; yams and oil palm provide carbohydrates and fats; protein supplemented by hunting and fishing; nutritional status adequate but possibly less varied than among forest foragers.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Sedentary agriculture permits shorter interbirth intervals than forest foraging (three to four years rather than four to five); increased caloric reliability supports earlier weaning and higher fertility; pair-bonding formalized through bridewealth exchanges.<br><br>
-__Demographic Renewal & Density:__ Population density rising at forest margins — perhaps 1–5 persons per square kilometer in farming zones versus 0.1–0.5 among foragers; birth rates exceed death rates, driving the demographic expansion that fuels territorial spread; age structure young with growing population.<br><br>
-__Attrition & Dependency Overhang:__ Settled villages support somewhat larger dependent populations (children, elderly) than mobile bands; dependency load absorbed within household and village structures; no evidence of dependency overhang straining the system during this window.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed subsistence: yam cultivation provides the staple caloric base, supplemented by oil palm products, gathered forest foods, and hunting/fishing; provisioning floor higher and more reliable than pure foraging but vulnerable to crop failure; household pooling within extended family units.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the prime mover; fire used for clearing (slash-and-burn) and cooking; no animal traction in tsetse zones; per-capita work ceiling somewhat higher than foraging due to agricultural intensification but still constrained by stone-tool technology until iron arrives late in window.<br><br>
-__Labor Organization & Coercion:__ Division of labor by gender and age: men clear fields, women tend crops and process food, children assist; some communal labor for clearing; no formalized coercion, though slavery may exist in embryonic form; kinship obligations structure labor mobilization.<br><br>
-__Production & Surplus Capacity:__ Modest surplus possible: yam harvests can be stored for weeks to months, allowing accumulation beyond immediate need; surplus supports population growth and enables craft specialization; production ceiling limited by stone-tool clearance rates.<br><br>
-__Storage, Reserves & Buffering:__ Yam storage in pits and granary structures provides several months' reserve; palm oil preserves moderately well; storage capacity a significant improvement over forager immediate-return systems; buffer sufficient for normal seasonal gaps, strained by consecutive crop failures.<br><br>
-__Exchange, Trade & Logistics:__ Inter-village exchange develops along kinship and alliance networks; goods include surplus food, pottery, stone tools, and forest products; river transport facilitates movement; long-distance trade networks embryonic; no market institutions.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No formal currency; value stored in durable goods (tools, pottery), livestock where viable, and social obligations; deferred reciprocity operates through kinship networks; bridewealth transactions create formal debt relationships between lineages.<br><br>
-__Surplus Extraction & Redistribution:__ No state-level extraction; surplus allocation managed within extended family and village through seniority-based redistribution; big-man figures may emerge who accumulate and redistribute surplus, building prestige and dependents.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth differential widening compared to forager egalitarianism: some households accumulate more stored food, tools, and dependents (wives, clients); inequality modest but present; defense of accumulated property through kinship solidarity and reputation.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste (crop residues, ash) recycled into fields or left to decompose; no toxic byproducts; waste load easily absorbed by surrounding environment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates within kinship networks and village communities; inter-village cooperation mediated by marriage alliances and shared descent; radius of trust wider than forager bands but bounded by lineage and locality; mutual aid obligations formalized in kinship terms.<br><br>
-__Stratification, Status & Group Identity:__ Incipient stratification: elders hold authority over juniors, men over women in public affairs, lineage heads over branch members; status based on seniority, ritual knowledge, and wealth in people and goods; ethnic identity crystallizing around linguistic groups.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal and matrilineal descent systems both present in different groups; extended family households common; inheritance of property and status through lineage; bridewealth exchanges formalize marriage alliances; polygyny practiced where surplus permits.<br><br>
-__Civic Association & Self-Organization:__ The village (50–200 people) becomes the primary residential unit; age-grades and initiation societies organize collective action; lineage segments coordinate within and across villages; associational fabric thickening compared to forager bands.<br><br>
-__Leisure, Play & Sociability:__ Communal activities mark agricultural calendar (planting, harvest); storytelling, dance, and music remain central; leisure somewhat more seasonally concentrated than among foragers, clustered in post-harvest periods.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes resolved through lineage elders, village councils, or divination; relocation to another village remains an option; witchcraft accusations may discharge social tension; residual grievance somewhat higher than in mobile forager bands but still contained within kinship and village structures.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Decentralized: no states or chiefdoms in the forest-margin zone during this window; authority vested in lineage elders, village headmen, and ritual specialists; power fragmented across many small, autonomous villages.<br><br>
-__Succession & Power Transfer:__ Succession to village headship and lineage leadership follows kinship rules (eldest son, mother's brother's son, etc. depending on descent system); transfer generally routine but succession disputes possible.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on seniority, genealogical position, and ritual competence; oral traditions validate ancestral authority and proper succession; no ideological justification for extra-village authority.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity limited to village level: headmen coordinate labor, settle disputes, represent village externally; no record-keeping beyond memory; integrity depends on personal reputation of leaders.<br><br>
-__Political Participation & Mobilization:__ Adult male participation in village councils; women's voices heard through household and lineage channels; mobilization for collective action (clearing, defense) achieved through kinship obligation and headman persuasion.<br><br>
-__Geopolitical Position & External Relations:__ No state-level geopolitics; inter-village relations range from alliance (through marriage) to raiding; relations with forest foragers increasingly asymmetric as farmers expand; no external powers impinge on the region.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military; all adult males bear weapons (spears, bows) and can be mobilized for defense or raiding; no fortifications; violence episodic and small-scale.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through kinship pressure and elder authority; inter-village raiding and revenge cycles occasionally disrupt; overall threat environment low; disorder well within social-control capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Voice remains the sole transmission channel; information moves at walking or paddling speed along river networks; inter-village messengers carry news; range expanding with trade and kinship networks but still limited by human mobility.<br><br>
-__Record, Storage & Persistence:__ Oral tradition the sole record: genealogies, migration stories, agricultural knowledge, and ritual texts preserved in memory and transmitted through recitation; no writing; persistence depends on continuous oral transmission; information vulnerable to transmission-chain breaks.<br><br>
-__Framing, Censorship & Discourse Norms:__ No formal censorship; discourse shaped by respect norms (juniors defer to elders); sacred knowledge restricted to initiates; public discourse relatively open within village bounds.<br><br>
-__Reception, Attention & Amplification:__ Audience size village-level; stories and news spread through repeated telling at gatherings; skilled orators command attention; amplification purely social, through networks of kinship and trade contact.<br><br>
-__Signal Integrity & Noise Load:__ Face-to-face verification maintains signal integrity; elders serve as authoritative sources; information volume manageable within oral capacity; noise load low but increasing slightly with wider contact networks.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice understood as reciprocity, proportionality, and respect for seniority; kinship obligations carry moral weight; supernatural sanctions (ancestor displeasure, witchcraft) believed to punish wrongdoing.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; customary norms transmitted orally as taboos, proverbs, and precedents; regulatory evolution slow, embedded in oral tradition and elder interpretation.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by lineage elders, village councils, or diviners; enforcement through social pressure, compensation payments, and supernatural sanction; liability assigned to individuals and lineages; serious offenses may result in expulsion or execution.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights nested within lineage membership; protections depend on kin support; compliance burden moderate — many obligations but most internalized through socialization; outsiders (foragers, strangers) have weaker protections.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lineages may escape full accountability; witchcraft accusations sometimes misattributed; backlog of unredressed wrongs somewhat higher than in forager bands but contained by small-scale community oversight.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; explanatory paradigm animist and ancestor-focused; causation attributed to spirits, ancestors, and witchcraft; understanding embedded in myth and ritual; the discovery frontier is agricultural and metallurgical technique, not abstract theory.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural knowledge (yam cultivation, oil-palm processing, slash-and-burn timing) accumulating and refining; toward window's end, iron-smelting technology arrives from northern sources, a transformative technical advance; pottery production established.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship, imitation, and initiation; no formal schooling; specialized knowledge (metallurgy, ritual) held by practitioners; general agricultural skills widely distributed; stock growing as techniques diffuse.<br><br>
-__Obsolescence & Knowledge Decay:__ Stone-tool technology becoming obsolete where iron arrives; some foraging knowledge lost as populations commit to agriculture; decay rate low but selective attrition occurring; no systematic knowledge clearance.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Identity forming around agricultural way of life and Bantu linguistic community; origin stories locate ancestors in the northern homeland (Grassfields region); migration narratives transmitted orally; no traumatic ruptures in collective memory.<br><br>
-__Artistic Expression & Material Culture:__ Material culture expanding: pottery with regional styles, iron tools where available, woven textiles, carved wooden objects, body scarification; architecture in wattle-and-daub becoming standard; aesthetic expression in music, dance, and body decoration continuous.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood expansive and confident: populations growing, new lands being settled; risk perception calibrated to agricultural hazards (crop failure, raiding); disposition toward both cooperation (within kin groups) and competition (between lineages).<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms renewed through continuous practice; new forms emerging (iron-working rituals, agricultural ceremonies); no evidence of exhaustion or meaning decay during this dynamic expansion phase.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Ancestor-focused cosmology: the dead remain active forces, requiring propitiation and capable of blessing or punishing descendants; forest spirits acknowledged but ancestors central; existential outlook grounded in lineage continuity.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Agricultural rituals (planting, harvest, first fruits) structure the annual cycle; ancestor veneration through offerings and consultation; initiation rites mark life transitions; daily devotion embedded in domestic routine.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No clerical hierarchy; ritual specialists (diviners, healers, lineage heads performing ancestor rites) hold authority but no formal institution; doctrine transmitted as oral tradition, not codified.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Bantu cosmology spreading with demographic expansion; interaction with forager populations produces some borrowing (forest-spirit beliefs) but no displacement of either system; syncretism embryonic.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment: the ancestor-spirit cosmology remains vibrant and integral to daily life; sacred practice fully functional with no secularizing drift or existential void.<br><br>
+# __4,000 BCE – 1,000 BCE__ — Bantu Expansion and Agricultural Penetration of Forest Margins
+
+__Summary:__ The Congo Basin during the three millennia when Bantu-speaking agriculturalists, originating from the Nigeria-Cameroon borderland, expanded southward and eastward along river corridors and forest margins, bringing yam and oil-palm cultivation, and later iron technology, into contact with indigenous forager populations. The binding constraint is the oral substrate: all agricultural knowledge, land claims, kinship reckoning, and negotiation with forest peoples passed through speech alone, with no written deed, treaty, or record to outlast memory. The central driver is the drying trend after 4,000 BCE that opened forest margins to cultivation and enabled agricultural colonization of territories previously closed to farming.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The expansion followed paths of least resistance: the Sangha and Ubangi river corridors into the northern Basin, the Atlantic coastal route southward, and the eastern highland margins. Dense rainforest core remained impenetrable to farming; agricultural penetration halted at the forest edge. Interfluves and swamp forest posed barriers; river valleys and gallery forests offered passage.
+
+__Climate Regime & Volatility:__ The African Humid Period ended around 4,000 BCE; progressive aridification reduced rainfall and increased seasonality across the savanna-forest boundary. Drier conditions opened previously closed forest to cultivation by reducing canopy density and enabling slash-and-burn clearance. The climate regime favored agricultural expansion at forest margins while protecting the humid core.
+
+__Hazard Regime & Exposure:__ Drought became a periodic risk on the drier margins, threatening crops dependent on regular rainfall. Flood pulses along major rivers remained a seasonal hazard for riparian settlements. Fire, both natural and anthropogenic, became a tool for forest clearance and a risk to established fields.
+
+__Resource & Energy Endowment:__ The resource base shifted: agricultural expansion relied on cultivable soils, adequate rainfall, and available fuelwood for clearance. River corridors provided fish; forest margins offered game. Iron ore, where accessible, became critical in the final centuries as metallurgy spread. The endowment was localized; not all margins were equally suited to cultivation.
+
+__Waste Absorption & Sink Capacity:__ Slash-and-burn clearance released carbon and altered local hydrology; fallowed plots regenerated if left long enough. Population density remained low enough that waste loads were absorbed without feedback. Sink saturation was not yet a limiting factor.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Agricultural settlement increased pathogen load: denser populations, standing water in cleared fields, and proximity to domestic animals raised exposure to malaria, schistosomiasis, and gastrointestinal parasites. Mortality rose in agricultural villages compared to mobile forager bands; endemic disease became a steady drain.
+
+__Nutrition & Physiological Vitality:__ Agricultural diet centered on yams, supplemented by oil palm, wild game, and fish. Protein intake declined where hunting pressure reduced game; carbohydrate reliance increased. Nutritional status was adequate in good years but vulnerable to crop failure. Body size may have declined slightly from forager baselines.
+
+__Care, Healing & Recovery Capacity:__ Healing knowledge expanded as populations grew: herbalists, diviners, and midwives held orally transmitted pharmacopoeia. Care capacity scaled with settlement size; isolated homesteads remained vulnerable. Treatment reached more people but faced heavier caseloads.
+
+__Reproductive Biology & Pairing Dynamics:__ Sedentary life shortened birth intervals as child-carrying burdens decreased. Fertility rose; more children survived to reproductive age. Polygyny became common among successful farmers, concentrating reproductive opportunity. Population growth accelerated compared to forager baselines.
+
+__Demographic Renewal & Density:__ Population grew rapidly through natural increase and absorption of forager populations. Density rose on cultivable margins while forager populations retreated into the forest core or entered symbiotic relationships with farmers. Migration continued as established villages sent out daughter settlements.
+
+__Attrition & Dependency Overhang:__ Higher fertility produced more children and more dependents. Agricultural surplus in good years supported elders and the infirm; crop failure exposed dependents to famine. The dependency load increased with population growth but remained manageable under normal conditions.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Yam cultivation provided a storable staple; oil palm contributed fat and vitamin A. Hunting, fishing, and gathering supplemented the agricultural base. The provisioning floor rose above forager levels but became dependent on successful harvests—more secure in good years, more vulnerable in bad.
+
+__Energy Capture & Conversion:__ Human muscle remained primary, but fire became a productive force: slash-and-burn clearance converted forest biomass into cultivable ash. Per-capita work capacity rose slightly with better nutrition; the work ceiling remained low but sufficient for village-scale agriculture.
+
+__Labor Organization & Coercion:__ Labor was organized by household and kinship. Men cleared forest; women planted and harvested. Communal labor for major clearance was organized through kinship obligation. Coercion was minimal; labor was mobilized through reciprocity and kin duty, not force.
+
+__Production & Surplus Capacity:__ Agricultural production generated surplus above subsistence: yams could be stored for months, enabling feasting, exchange, and support of non-producing dependents. Surplus was modest and variable; no large accumulation occurred. Production capacity expanded with each new clearing.
+
+__Storage, Reserves & Buffering:__ Yam stores provided a seasonal buffer; diversified planting and wild-food fallbacks hedged against single-crop failure. Reserves were household-level and kin-networked, not institutionally managed. Buffering capacity was thin against multi-year drought.
+
+__Exchange, Trade & Logistics:__ Exchange developed between farming and foraging communities: farmers offered cultivated food, iron tools (in later centuries), and pottery; foragers offered forest products—honey, game, medicinals, and labor. Trade was local, face-to-face, and orally negotiated. No long-distance networks yet penetrated the Basin interior.
+
+__Value Storage, Credit & Deferred Exchange:__ Value was stored in yam barns, livestock where available, and reciprocal obligation. Credit was interpersonal: food loaned in lean times created claims on future harvests. All debts and credits were orally tracked and socially enforced.
+
+__Surplus Extraction & Redistribution:__ No formal extraction apparatus existed. Village headmen collected tribute in kind for communal purposes—feasting, ritual, support of dependents. Redistribution was face-to-face and governed by oral custom. Extraction was light and consensual.
+
+__Wealth Distribution & Asset Defense:__ Wealth differentiation emerged: successful farmers accumulated larger yam stores, more wives, more dependents. Land was held by lineage, not individuals; claims rested on oral memory of first clearance. Defense of assets relied on kin networks and reputation.
+
+__Byproducts & Waste Routing:__ Agricultural waste—crop residue, ash, human waste—was absorbed locally. Cleared fields exhausted after a few years were fallowed and forest allowed to regenerate. The slash-and-burn cycle was sustainable at low population density; waste routing posed no systemic problem.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship systems were predominantly matrilineal in the western Basin, patrilineal in the east and south. Marriage alliance linked lineages; bridewealth (orally negotiated) sealed unions. Inheritance followed lineage lines; land rights descended through the founding lineage.
+
+__Association & Mutual Aid:__ Village life created dense mutual-aid networks: communal labor for clearing and harvest, shared childcare, pooled resources in crisis. Beyond the village, inter-lineage alliances and ritual associations linked communities. Forager-farmer relations ranged from trade partnership to clientage.
+
+__Leisure, Play & Sociability:__ Village gatherings for feasting, dance, and ritual marked the agricultural calendar. Inter-village ceremonies brought regional communities together. Play and sociability reinforced kinship bonds and negotiated status.
+
+__Stratification, Status & Group Structure:__ Stratification deepened compared to forager egalitarianism. Lineage elders, successful farmers, and ritual specialists held elevated status. Forager populations were often subordinated as clients or marginalized as "bush people." Class lines were emerging but not yet rigid.
+
+__Administrative Capacity & Institutional Integrity:__ Village headmen (often lineage elders) adjudicated disputes and coordinated collective action. No bureaucracy existed; administration was oral, personal, and kin-based. Inter-village relations were managed through alliance, marriage, and periodic council. Institutional capacity was limited to the village scale.
+
+__Coercive Apparatus & Means of Force:__ No standing military existed. Weapons were agricultural and hunting tools repurposed: machetes, spears, bows. Defense was communal; raiding occurred but was episodic, not systematic. Coercive capacity was weak; conflict was managed through mediation, compensation, or flight.
+
+__Discharge, Disorder & Decay:__ Social friction was discharged through lineage fission: disgruntled segments could leave and found new settlements. Inter-village disputes were mediated or fought out in limited engagements. Grievance accumulated where mediation failed, but mobility remained an exit valve. Disorder was localized and episodic.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Village life bred intimacy and tension in equal measure. Trust was high within lineage, lower toward affines and neighbors, lowest toward strangers and forest peoples. The temper was cautious, gossipy, and attentive to reputation. Collective mood tracked harvest success.
+
+__Leadership & Personal Authority:__ Authority attached to lineage elders, successful farmers, and ritual specialists. Personal charisma and oratorical skill mattered; the best speakers shaped consensus. Authority was earned and revocable—no hereditary office yet commanded obedience.
+
+__Legitimacy as Lived Allegiance:__ Allegiance was to lineage and village, not to larger polities. The order was justified by ancestry, custom, and the land cleared by founding ancestors. Legitimacy was oral and genealogical: those who could recite the lineage held authority.
+
+__Political Will & Collective Resolve:__ Collective action required consensus among lineage heads. Will was fragmented; no central authority could compel coordination beyond the village. Collective resolve emerged for defense, major ritual, or clearing new land, but dissipated quickly after the task.
+
+__External Relations & Posture:__ Relations with forager populations ranged from symbiotic exchange to subordination and occasional violence. Relations with other farming villages were managed through marriage alliance and trade. Expansion was driven by land hunger, not conquest; posture was opportunistic rather than aggressive.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection expressed itself through departure: dissatisfied lineage segments migrated to found new villages. Apathy was rare in the dynamic expansion phase; collective energy was absorbed by clearing, planting, and population growth. Spent will was a personal, not systemic, condition.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Bantu languages spread with the expansion, creating a linguistic corridor of mutual intelligibility along migration routes. Communication with forager populations required pidginization or bilingualism; some forager groups adopted Bantu languages while retaining distinctive speech registers. No writing existed; all communication was oral.
+
+__Channels & Transmission Velocity:__ News traveled by foot and canoe. Drum signals carried simple messages; complex information required face-to-face speech. Transmission was slow; the expansion itself outpaced any coordinating communication. Each village operated largely in isolation.
+
+__Record, Storage & Persistence:__ All record was oral: genealogy, land claims, ritual knowledge, agricultural technique. Memory was the only archive. Knowledge persisted through teaching and repetition; broken transmission meant permanent loss.
+
+__Framing, Censorship & Discourse Norms:__ Speech was governed by etiquette: deference to elders, avoidance of direct accusation, circumlocution around death and sorcery. Taboo topics were discussed obliquely or not at all. Gossip enforced norms; public shaming punished transgression.
+
+__Reception, Attention & Amplification:__ Attention was personal and communal: stories told at evening gatherings, news shared at markets and ceremonies. Amplification was linear—retelling to retelling. No mechanism for broadcast existed; information spread slowly and imperfectly.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduced drift: genealogies shortened, details shifted, events merged. Error correction relied on redundancy—multiple tellers, cross-checking at gatherings. Noise accumulated over generations; deep history was mythologized.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice was restorative and compensatory. Harm required compensation to the injured lineage; failure to compensate justified retaliation. Fairness in exchange and reciprocity in labor were cardinal virtues. Witchcraft accusations policed hidden resentment and hoarding.
+
+__Law, Codification & Regulatory Evolution:__ No written law existed. Custom governed marriage, inheritance, land tenure, and dispute resolution. Rules were orally transmitted and enforced through lineage authority and village consensus. Innovation occurred through precedent and elder reinterpretation.
+
+__Adjudication, Liability & Sanction:__ Disputes were adjudicated by lineage elders or village councils. Liability was collective: the lineage shared responsibility for members' actions. Sanction ranged from compensation to exile to death for sorcery or grave offense. Adjudication was oral, public, and deliberative.
+
+__Rights, Protections & Compliance Burden:__ Rights were embedded in lineage membership. Outsiders—strangers, clients, subordinated foragers—held fewer protections. Compliance with custom was expected but not burdensome; the rules were familiar and internalized.
+
+__Impunity & Unredressed Wrong:__ Impunity was difficult within the village; everyone knew everyone. Powerful lineages could avoid sanction through influence, but persistent wrongdoing accumulated grievance and risked sorcery accusation or collective action. Unredressed wrong festered and could erupt in violence or lineage fission.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding was empirical and animist. Agricultural knowledge—when to plant, how to recognize soil exhaustion, which forest to clear—was observational and transmitted orally. Theory remained embedded in myth: ancestors taught farming; spirits controlled fertility.
+
+__Applied Knowledge & Technical Method:__ Agricultural technique was sophisticated: slash-and-burn clearance, intercropping, fallowing cycles, yam propagation. Iron smelting, arriving in the final centuries of the window, added metallurgical skill. All technique was orally transmitted from practitioner to apprentice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Learning was experiential: children learned by working alongside adults. Specialized knowledge—smithing, healing, divination—passed through lineage or apprenticeship. The knowledge stock expanded with iron technology; distribution broadened with population growth but remained localized.
+
+__Obsolescence & Knowledge Decay:__ Forager knowledge of deep forest was lost as populations shifted to farming or were marginalized. Agricultural knowledge accumulated but was vulnerable to transmission failure. Iron technology spread from center to periphery; peripheral populations lost access if transmission chains broke.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity was lineage-centered: origin myths traced descent from founding ancestors who cleared the land. The land itself was sacred, holding ancestral presence. Memory reached back through oral genealogy; deeper history merged with myth.
+
+__Legitimating Narrative & Ideology:__ The order was justified by ancestry and first clearance: those whose ancestors cleared the forest held the land. Narrative authority attached to elders who could recite the genealogy and founding story. No ideology of conquest legitimated the expansion; it was simply families seeking land.
+
+__Artistic Expression & Material Culture:__ Material culture expanded: pottery for storage, iron tools (later), woven textiles, carved wooden objects. Artistic expression flourished in dance, song, masquerade, and body decoration. Style marked ethnic and lineage identity; forms were regionally distinctive.
+
+__Form Exhaustion & Meaning Decay:__ Cultural forms were dynamic during the expansion: new styles, new rituals, new stories adapted to new landscapes. Exhaustion was rare; the energy of expansion kept forms vital. Loss occurred through population dispersal and transmission failure, not repetition into cliche.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos was animate: ancestors, spirits of place, and forest beings inhabited a continuous spiritual landscape. Human prosperity depended on maintaining right relation with the unseen. Death was transition to ancestral status; the dead remained active in the lives of descendants.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual accompanied clearing, planting, harvest, birth, death, and initiation. Daily offerings to ancestors and spirits maintained the spiritual economy. Divination diagnosed misfortune and prescribed remedy. The sacred was woven into agricultural routine.
+
+__Religious Institutions & Doctrinal Authority:__ No institution held religious authority. Lineage elders presided over ancestor cult; specialists—diviners, healers, rainmakers—held personal knowledge. Doctrine was oral and localized; orthodoxy was enforced by tradition and social pressure, not hierarchy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Bantu spiritual practices spread with the expansion, encountering and absorbing forager beliefs. Syncretism was gradual: local spirits were incorporated, forest powers acknowledged. No external cosmology displaced indigenous belief; the expansion carried its own spirituality into new territory.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment was unknown. The land answered to ritual; ancestors intervened in daily life; spirits demanded attention. The sacred was fully present. No existential void opened; the spiritual residue was ongoing obligation, not disenchantment.
+

@@ -1,69 +1,139 @@
-# __400 BCE – 250 CE__ — Late Preclassic Maya and Script Development
-__Summary:__ The Late Preclassic window spans the emergence of Maya hieroglyphic writing as a logosyllabic system alongside the rise of early kingdoms at Kaminaljuyu and El Mirador; the binding constraint is the labor mobilization required for monumental construction that in turn demands record-keeping and calendrical precision; the system holds moderate margin against subsistence shocks through diversified tropical agriculture; the trajectory moves toward increasing political complexity, scribal specialization, and the crystallization of Long Count dating that will anchor Classic-period inscription.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The region divides into Guatemalan highlands with volcanic soils, the Peten lowland karst platform with seasonal wetlands (bajos), and the Yucatan limestone shelf; transit friction is high in rainforest zones where foot trails and canoe routes along rivers provide the only corridors, while highland passes connect Pacific piedmont to interior basins.<br><br>
-__Climate Regime & Volatility:__ Tropical wet-dry regime dominates the lowlands with a five-month dry season; highland valleys experience cooler temperatures and more predictable rainfall; interannual variability is moderate, with occasional drought years stressing maize cultivation; no major secular drift is detectable in the window.<br><br>
-__Hazard Regime & Exposure:__ Highland zones face volcanic eruptions and seismic activity, with Ilopango a latent threat; lowlands experience periodic hurricane damage and flood pulses in river systems; settlements generally hold margin through dispersed siting and recoverable thatch-and-timber construction.<br><br>
-__Resource & Energy Endowment:__ Obsidian sources at El Chayal and Ixtepeque supply cutting tools; jade from the Motagua Valley holds ritual value; limestone for construction is ubiquitous in the lowlands; hardwoods for fuel and construction remain abundant; no evidence of significant drawdown against standing stocks.<br><br>
-__Waste Absorption & Sink Capacity:__ Population densities remain low to moderate; organic refuse disperses into tropical soils; quarrying and construction generate inert rubite; absorptive capacity vastly exceeds the load; no degradation signal is recoverable.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tropical diseases including gastrointestinal parasites and vector-borne fevers impose a background mortality load; skeletal evidence suggests moderate childhood mortality and adult life expectancy around 30–35 years; no major epidemic is attested for this window.<br><br>
-__Nutrition & Physiological Vitality:__ Maize, beans, squash supplemented by game, fish, and cacao provide a nutritionally adequate diet; osteological evidence shows generally robust stature with occasional enamel hypoplasia indicating episodic childhood stress; overall vitality is stable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage is likely early and polygyny present among elites; physiological fertility is not constrained; lineage-based inheritance and alliance-building shape pairing among ruling houses.<br><br>
-__Demographic Renewal & Density:__ Population grows through the window, with El Mirador's hinterland reaching tens of thousands; birth rates exceed death rates; density remains well below carrying ceiling except in core ceremonial zones; renewal is positive and accelerating.<br><br>
-__Attrition & Dependency Overhang:__ Orphans and aged remain embedded in extended kin networks; no evidence of a dependency overhang exceeding household absorptive capacity; the productive cohort sustains dependents without strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Swidden maize agriculture forms the subsistence base; bajo-margin and raised-field intensification begins; households maintain diversified garden plots; the population sits above the immediate edge of scarcity with seasonal buffering.<br><br>
-__Energy Capture & Conversion:__ Human muscle provides nearly all motive power; fire for lime production, pottery, and cooking; no draft animals; per-capita work ceiling is low but adequate for monumental construction through massed corvée labor.<br><br>
-__Labor Organization & Coercion:__ Labor is mobilized through kin obligation and emerging tributary corvée tied to nascent kingship; war captives may serve as sacrificial or labor conscripts; coercion is moderate and embedded in ritual legitimation.<br><br>
-__Production & Surplus Capacity:__ Maize surplus supports craft specialization in jade, obsidian, and stucco work; monumental construction at El Mirador implies substantial surplus extraction; productive capacity is expanding through the window.<br><br>
-__Storage, Reserves & Buffering:__ Maize stored in household granaries and possibly central storehouses; cacao serves as durable prestige good; reserves buffer single-season shortfalls but would not absorb multi-year drought.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade networks move obsidian, jade, cacao, and marine shell across hundreds of kilometers; canoe routes and overland porter trails; market mechanisms are weakly attested, with elite redistribution dominant.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cacao beans and jade beads function as portable value; no monetary unit recoverable; reciprocal gift exchange and tributary obligation carry deferred claims; credit instruments are not attested.<br><br>
-__Surplus Extraction & Redistribution:__ Emerging rulers extract labor and goods through tribute and corvée; surplus flows to monumental construction, elite consumption, and ritual expenditure; extraction is intensifying but load on producers remains manageable.<br><br>
-__Wealth Distribution & Asset Defense:__ Stratification is visible in tomb goods and residential differentiation; elites concentrate jade, elaborate ceramics, and larger dwellings; asset defense relies on lineage control and sacral authority rather than fortification.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residues return to soils; lime-kiln ash and construction debris are localized; no toxic loads; routing is dispersed and fully absorbed.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radiates outward from kin and lineage; village-level reciprocity provides mutual aid in labor and crisis; the radius is widening as larger polities coordinate strangers under shared kingship and ritual calendar.<br><br>
-__Stratification, Status & Group Identity:__ A two- or three-tier hierarchy is crystallizing: divine kings (ajaw), noble lineages, and commoners; status markers include cranial modification, jade adornment, and residential location; boundaries are hardening as dynasties consolidate.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent dominates; cross-cousin marriage attested among elites; inheritance passes through male lines with land and title descending to eldest sons; kin networks structure political alliance.<br><br>
-__Civic Association & Self-Organization:__ Village councils and lineage heads coordinate local affairs; craft workshops may be kin-organized; associational fabric is thickening as specialized groups (scribes, masons) emerge around elite courts.<br><br>
-__Leisure, Play & Sociability:__ Ballgame courts appear at major centers; communal feasting accompanies calendrical ceremonies; sociability is structured around ritual participation and lineage gatherings.<br><br>
-__Grievance Channels & Social Discharge:__ Ritual sacrifice channels cosmic and social tension; warfare provides outlet for factional competition; mobility to frontier zones remains available; grievance largely metabolized through these outlets.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Kingship (ajaw) is emerging; El Mirador and Kaminaljuyu show monumental programs implying centralized command; authority rests on sacral legitimacy and control of ritual calendar; power is centralizing within competing polities.<br><br>
-__Succession & Power Transfer:__ Dynastic succession is patrilineal; earliest emblem glyphs hint at royal lineages; contested successions are plausible but poorly attested; transfer is stabilizing toward hereditary rule.<br><br>
-__Legitimacy & Political Narrative:__ Kings claim divine ancestry and cosmic mediation; monumental architecture and early inscriptions broadcast legitimacy; belief is apparently robust as construction programs continue uninterrupted.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Scribes emerge to record calendrical and ritual information; administrative capacity is nascent; record-keeping is limited to elite contexts; corruption is not a meaningful category at this institutional scale.<br><br>
-__Political Participation & Mobilization:__ Commoners participate through labor corvée and ritual attendance; no institutionalized dissent channels; elite factionalism is the primary mobilization mode; participation is widening as polities grow.<br><br>
-__Geopolitical Position & External Relations:__ Multiple polities compete across highlands and lowlands; El Mirador exerts regional influence; Kaminaljuyu dominates highland trade; no single hegemon; relations are competitive but localized.<br><br>
-__Coercive Apparatus & Means of Force:__ Warrior groups equipped with obsidian-tipped spears and clubs; no standing armies; fortifications are rare; command of force is diffuse among elite lineages.<br><br>
-__Internal Order & Threat Environment:__ Banditry and raiding are plausible but poorly attested; internal order is maintained through kinship sanctions and sacral authority; no evidence of endemic insecurity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by foot messenger and canoe; velocity is slow (days to weeks across the region); oral proclamation at ceremonial centers reaches assembled populations; reach is expanding with polity size.<br><br>
-__Record, Storage & Persistence:__ Maya hieroglyphic writing emerges by ~300 BCE; earliest texts record dates and ruler names on stone and stucco; screenfold codices may exist but none survive; the record is durable in stone, ephemeral in organic media; persistence is nascent but transformative.<br><br>
-__Framing, Censorship & Discourse Norms:__ Inscriptions are royal propaganda; no evidence of censorship beyond elite control of scribal output; discourse norms are sacral and formulaic; the permitted band is narrow and controlled.<br><br>
-__Reception, Attention & Amplification:__ Literacy is confined to scribes and possibly high elites; monuments broadcast to illiterate audiences through iconography and public recitation; amplification depends on monumental scale and ritual occasion.<br><br>
-__Signal Integrity & Noise Load:__ The corpus is small and tightly controlled; signal integrity is high; noise load is negligible; verification is embedded in scribal training and royal oversight.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice is tied to cosmic balance and reciprocal obligation; transgression offends gods and ancestors; restitution and sacrifice restore order; the baseline sense of fairness is embedded in ritual and kinship norms.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal legal code survives; rules are customary and sacral; evolution is slow and embedded in oral tradition and royal decree; written law does not exist in this window.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are resolved by lineage heads and rulers; enforcement relies on kinship sanction and royal authority; liability is collective within kin groups; formal courts are not attested.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights as a category do not exist; protections derive from lineage membership and royal favor; compliance burden is embedded in tributary and ritual obligation; predictability is moderate within customary bounds.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity is structural; commoners have limited recourse against noble abuse; wrongful outcomes are absorbed through kinship mediation or flight; redress capacity lags but no acute deficit is detectable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cosmological theory posits a layered universe with celestial, terrestrial, and underworld domains; astronomical observation is systematic; the paradigm is mythological-astronomical with practical calendrical applications.<br><br>
-__Applied Knowledge & Technical Method:__ Lime-plaster production, monumental construction, agricultural intensification, and lapidary work represent applied technique; methods are transmitted through apprenticeship; reproducibility is high within craft traditions.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal training is confined to elite contexts; broader population possesses agricultural and craft knowledge; literacy is rare; the stock is modest but growing as writing crystallizes.<br><br>
-__Obsolescence & Knowledge Decay:__ No significant decay is detectable; knowledge is accumulating; earlier Olmec precedents are absorbed rather than lost; decay rate is low relative to accretion.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Maize-god mythology, hero-twin narratives (later recorded in Popol Vuh), and ancestral veneration anchor identity; origin narratives tie lineages to sacred places; the mythos is cohering but regionally variable.<br><br>
-__Artistic Expression & Material Culture:__ Monumental stucco masks, jade mosaics, and polychrome pottery define the aesthetic; architectural programs at El Mirador display massive triadic pyramids; style is elaborating and increasingly standardized.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood appears confident and expansive; monumental investment suggests elite optimism; commoner disposition is not directly recoverable but participation in construction implies acquiescence or belief.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms are generative rather than exhausted; iconographic vocabulary is expanding; no decay signal; meaning is accreting around the emerging script and calendar.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ The cosmos is animate, layered, and cyclical; time is sacred and patterned by interlocking calendars; the outlook is pious and participatory, with human action required to sustain cosmic order.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Bloodletting, incense offering, and human sacrifice mark major ceremonies; calendrical rites structure the year; ballgame has cosmological significance; devotion is intensive and public.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Kingship and priesthood overlap substantially; temples concentrate ritual authority; doctrine is oral and transmitted through elite training; orthodoxy is consolidating under royal patronage.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shared Mesoamerican motifs (feathered serpent, maize god) diffuse across regions; local traditions syncretize; no displacement is detectable; the dominant cosmology is expanding its reach.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment signal; the sacred remains vital and generative; spiritual need is fully anchored in the emerging ritual-calendrical complex; no residue of unmet transcendence.<br><br>
+# __400 BCE – 250 CE — Late Preclassic Maya and Script Development__
+
+__Summary:__ The Late Preclassic Maya lowlands witness the emergence of state-scale polities and, with them, a logosyllabic script that anchors dynastic authority in durable record — the binding constraint is the invention of a writing system capable of fixing spoken language in stone and stucco, transforming ephemeral claim into permanent monument and enabling the administrative continuity that state complexity demands.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Maya lowlands span the Yucatan Peninsula's limestone shelf, the Peten rainforest basin, and the piedmont zones linking highlands to coast, terrain that imposes high friction on overland movement through dense tropical canopy while offering navigable river corridors — the Usumacinta, Pasion, Motagua — and coastal routes that connect emerging centers. Kaminaljuyu sits in the Guatemala highlands at 1,500 meters, El Mirador and Nakbe in the low Peten interior, dispersed nodes linked by sacbe causeways where engineered and by forest trails elsewhere.
+
+__Climate Regime & Volatility:__ Seasonal monsoon brings wet-season abundance (May–November) alternating with dry-season stress; interannual variability in rainfall timing determines surplus margins, and the lowlands remain vulnerable to multi-year droughts that test stored reserves and strain agricultural extensification. No evidence of catastrophic climate forcing in this window, but the baseline volatility selects for buffering strategies — water management, raised fields, forest garden cultivation.
+
+__Hazard Regime & Exposure:__ Hurricanes strike the Caribbean coast periodically; the interior lowlands face localized flooding and drought cycles rather than seismic or volcanic risk. The porous karst geology provides cenotes and caves for water access but limits surface water storage, creating dependence on seasonal rainfall patterns and artificial reservoirs at major centers.
+
+__Resource & Energy Endowment:__ Limestone for construction is abundant; chert and obsidian for tools must be imported from highland sources, creating long-distance exchange dependencies. Forest resources — timber, bark paper, thatch, game — remain plentiful. Agricultural soils are thin over limestone bedrock, requiring intensive management (terracing, raised fields, household gardens) to sustain growing populations around monumental centers.
+
+__Waste Absorption & Sink Capacity:__ Low population densities relative to available forest allow organic waste to cycle through slash-and-burn cultivation without significant sink saturation. Monumental construction at El Mirador and Nakbe concentrates labor and resources but does not yet strain the absorptive capacity of surrounding forest ecosystems.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Tropical lowland disease ecology includes endemic gastrointestinal parasites, malaria where present, and periodic epidemic stress, though no evidence of catastrophic mortality events in this window. Infant and child mortality remain high by modern standards, shaping demographic replacement dynamics.
+
+__Nutrition & Physiological Vitality:__ Maize-bean-squash agriculture supplemented by forest game, fish, and gathered foods provides adequate protein and caloric intake for population growth. Skeletal evidence suggests variable nutritional status by social stratum, with elite burials showing better dental health and stature than commoner populations.
+
+__Care, Healing & Recovery Capacity:__ Healing knowledge resides in ritual specialists who combine herbal pharmacopeia with spiritual intervention; no institutional medical apparatus exists, but kinship networks provide care for sick and injured.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny among elites documented in later inscriptions likely extends to this period; commoner households appear monogamous. Reproductive capacity is not constrained — population grows steadily through the Late Preclassic.
+
+__Demographic Renewal & Density:__ Population expands significantly, with El Mirador reaching an estimated 100,000 people at peak — a scale unprecedented in the lowlands. Centers grow through natural increase supplemented by in-migration from surrounding hinterlands. Density at major sites tests local carrying capacity.
+
+__Attrition & Dependency Overhang:__ The demographic profile skews young given high fertility and mortality; the dependent load — children, elderly, infirm — is absorbed within extended household structures without evidence of systemic strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Maize agriculture provides the staple foundation, intensified through raised-field cultivation in bajo (seasonal wetland) zones, forest gardens, and household plots. Provisioning floor rises with agricultural technique but remains vulnerable to multi-year drought sequences.
+
+__Energy Capture & Conversion:__ Human labor constitutes the sole power source; no animal traction or mechanical advantage beyond simple machines (lever, inclined plane). The energy ceiling for monumental construction — La Danta pyramid at El Mirador rises 72 meters — is set by corvee labor mobilization rather than per-capita work capacity.
+
+__Labor Organization & Coercion:__ Labor for monument construction and public works draws on tributary obligations organized through emerging elite hierarchies; the degree of coercion versus prestige-based recruitment is unclear but growing inequality suggests compulsion increases with state scale.
+
+__Production & Surplus Capacity:__ Agricultural surplus permits non-producing specialists (scribes, priests, artisans, rulers) and funds monumental construction. The scale of El Mirador's architecture implies sustained surplus extraction across generations.
+
+__Storage, Reserves & Buffering:__ Granary storage documented archaeologically; water reservoirs engineered at major centers. Buffering capacity sufficient for single bad years but vulnerable to sequential drought.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange networks supply obsidian from Guatemala highlands, jade from the Motagua Valley, marine shell from Caribbean and Pacific coasts, cacao from Soconusco. Trade routes consolidate; elite control over prestige goods intensifies hierarchical stratification.
+
+__Value Storage, Credit & Deferred Exchange:__ Cacao beans serve as a value medium in later periods and likely emerge here; no formal credit instruments exist, but reciprocal obligations within kinship and tribute networks defer exchange across time.
+
+__Surplus Extraction & Redistribution:__ Emerging elites extract surplus through tribute and labor drafts, redistributing through feasting, public ritual, and monumental construction that legitimizes authority. The extraction-redistribution cycle intensifies as polities grow.
+
+__Wealth Distribution & Asset Defense:__ Inequality widens visibly: elite burials contain jade, elaborate ceramics, and sacrificial victims while commoner interments remain modest. Elite lineages consolidate control over land, labor, and trade access.
+
+__Byproducts & Waste Routing:__ Construction debris accumulates at major sites; organic waste recycles through agricultural systems. No evidence of waste management crisis.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent governs elite succession; extended households form the basic production and consumption unit. Inheritance of elite status consolidates across generations, visible in multi-generational dynastic sequences recorded once script matures.
+
+__Association & Mutual Aid:__ Village-level cooperation persists in agricultural work, construction labor, and ritual observance. Kinship networks extend mutual aid obligations beyond nuclear households.
+
+__Leisure, Play & Sociability:__ Ballgame courts appear at emerging centers, providing ritual-athletic spaces that integrate sociability with cosmological performance. Feasting occasions mark calendrical and life-cycle transitions.
+
+__Stratification, Status & Group Structure:__ Elite-commoner distinctions sharpen: rulers emerge with divine-kingship attributes, supported by noble lineages controlling land, labor, and ritual knowledge. Craft specialists occupy intermediate positions. Stratification is not yet fully rigidified but trends toward hereditary closure.
+
+__Administrative Capacity & Institutional Integrity:__ Emergent state apparatus coordinates labor for monumental projects, manages tribute collection, and organizes calendrical ritual. Administrative capacity rudimentary by later standards but sufficient to build La Danta. Writing emerges as an administrative and legitimating tool.
+
+__Coercive Apparatus & Means of Force:__ Warfare attested iconographically; elite warriors lead conflict between polities. No standing military apparatus — forces mobilize for specific campaigns. Fortifications appear at some sites, suggesting defensive concerns.
+
+__Discharge, Disorder & Decay:__ El Mirador's abandonment circa 150 CE marks the first major collapse in lowland Maya history — cause unclear but likely combines drought stress, political fragmentation, and warfare. The center fails to sustain its scale; population disperses to smaller sites, and the polity's administrative apparatus breaks down.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Monumental construction implies collective mobilization around shared purpose — whether through enthusiasm, obligation, or coercion is unclear. The scale of labor suggests elite capacity to command broad participation.
+
+__Leadership & Personal Authority:__ Ajaw (ruler) figures emerge with divine-royal attributes, commanding personal authority grounded in lineage, ritual performance, and military success. Portraiture on monuments begins to individualize rulers.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on ruler's capacity to mediate between human and divine realms, ensure agricultural fertility, and organize successful warfare. Monumental construction visibly demonstrates power and divine favor.
+
+__Political Will & Collective Resolve:__ The will to undertake multi-generational building projects implies sustained political coherence across successions. Factional competition between lineages and polities is endemic but does not yet fragment the major centers catastrophically until El Mirador's decline.
+
+__External Relations & Posture:__ Inter-polity warfare attested; long-distance trade implies diplomatic as well as commercial relations. Kaminaljuyu maintains highland-lowland connections. No evidence of imperial expansion in modern sense — competition among peer polities predominates.
+
+__Disaffection, Apathy & Spent Will:__ El Mirador's abandonment suggests exhaustion of the political will sustaining the center — whether through elite factional collapse, commoner defection, or external conquest remains debated.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Maya language family provides the spoken substrate; dialects diverge across the lowlands but mutual intelligibility persists within regions. Writing emerges as an elite technology — accessibility restricted to trained specialists.
+
+__Channels & Transmission Velocity:__ Information travels at walking speed along causeways and trails, by canoe along rivers and coasts. No rapid-transmission technology; news of distant events arrives slowly, limiting coordination across large polities.
+
+__Record, Storage & Persistence:__ The critical transition: hieroglyphic script emerges, encoding Maya language in logosyllabic signs carved in stone, molded in stucco, painted on murals. San Bartolo murals (c. 100 BCE) preserve early captions; Stela 1 at El Porton (c. 400 BCE) among earliest dated texts. The Long Count calendar system develops, enabling precise temporal reference across centuries. Writing fixes dynastic claims, ritual knowledge, and calendrical computation outside living memory — the defining manuscript-stage transition.
+
+__Framing, Censorship & Discourse Norms:__ Monumental texts controlled by ruling elites; content focuses on royal legitimation, military victory, ritual performance. No evidence of competing public discourse — writing serves power.
+
+__Reception, Attention & Amplification:__ Texts on public monuments address gathered audiences during ritual occasions; the ability to read remains restricted, but carved images accompanying texts communicate to non-literate viewers. The text as spectacle precedes the text as consulted record.
+
+__Signal Integrity & Noise Load:__ Stone and stucco inscriptions durable over centuries; perishable media (bark paper codices) likely in use but do not survive archaeologically from this period. Information loss through monument destruction remains the primary risk.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice embedded in cosmological order — rulers mediate between human and divine realms, and their actions maintain balance (or disrupt it). Moral authority flows from ritual correctness and divine favor rather than abstract principle.
+
+__Law, Codification & Regulatory Evolution:__ No evidence of codified law; custom and elite judgment govern disputes. Writing does not yet carry legal code — its function is commemorative and divinatory rather than regulatory.
+
+__Adjudication, Liability & Sanction:__ Rulers adjudicate disputes within their domains; sanction ranges from compensation to execution and sacrifice. No formal court apparatus — judgment is personal and divine-royal.
+
+__Rights, Protections & Compliance Burden:__ No concept of individual rights against the collectivity; subjects owe tribute and labor to rulers who owe protection and cosmic mediation in return. The bargain is hierarchical and unequal.
+
+__Impunity & Unredressed Wrong:__ Elite impunity is structural — rulers answer to divine judgment, not human accountability. Commoner grievances find no institutional redress beyond appeal to elite patron.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Cosmological paradigm integrates astronomical observation, calendrical mathematics, and divine-human relations into coherent worldview. The Maya calendar — combining 260-day ritual cycle, 365-day solar year, and Long Count — represents sophisticated mathematical achievement. Astronomy serves ritual prediction rather than abstract inquiry.
+
+__Applied Knowledge & Technical Method:__ Architectural engineering permits construction of massive pyramidal platforms (La Danta at 72 meters among largest pre-Columbian structures). Hydraulic engineering manages water through reservoirs and canals. Agricultural technique intensifies through raised-field and forest-garden systems.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmission occurs within elite lineages and specialist schools (later documented as scribal training institutions). Literacy restricted to small specialist class; technical skills (architecture, astronomy, writing) concentrate among elite-controlled specialists.
+
+__Obsolescence & Knowledge Decay:__ El Mirador's abandonment results in localized knowledge loss as scribal and architectural traditions disperse; the broader Maya tradition continues at other centers. The Long Count system and script corpus survive the transition.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Maya identity crystallizes around shared cosmology (Popol Vuh themes documented in later sources likely ancient), ancestral claims, and divine-kingship ideology. Origin narratives connect ruling lineages to founding ancestors and cosmic events.
+
+__Legitimating Narrative & Ideology:__ Rulers justify authority through descent from founders, successful warfare, ritual performance, and cosmic mediation. Monumental inscriptions — the new manuscript technology — permanently record these claims, transforming ephemeral performance into enduring legitimation.
+
+__Artistic Expression & Material Culture:__ Polychrome ceramics, jade working, monumental sculpture and architecture in distinctive Maya style. San Bartolo murals show sophisticated painting tradition. Iconography depicts mythological scenes, royal ritual, warfare. The visual vocabulary of power consolidates.
+
+__Form Exhaustion & Meaning Decay:__ No evidence of form exhaustion in this creative period — traditions are in formation rather than decline. El Mirador's collapse brings localized cultural disruption but the broader tradition continues to develop.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Layered cosmos — thirteen heavens, nine underworlds, earth as middle plane — populated by gods, ancestors, and supernatural beings. Human action affects cosmic balance; rulers bear special responsibility for maintaining harmony through proper ritual.
+
+__Ritual, Devotion & Sacred Practice:__ Bloodletting, sacrifice (human and animal), ballgame, calendrical ceremonies structure religious life. Elite ritual performed atop pyramidal temples. Caves and cenotes serve as portals to underworld. The ritual calendar governs agricultural and political timing.
+
+__Religious Institutions & Doctrinal Authority:__ Priestly specialists control ritual knowledge; rulers combine political and religious authority in divine-kingship role. No separate ecclesiastical institution — religious and political power fuse in the ajaw.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Shared cosmological framework across Maya regions with local variation; contact with highland Guatemala (Kaminaljuyu) and other Mesoamerican traditions introduces stylistic and possibly theological influences. The tradition is in expansion, incorporating rather than excluding.
+
+__Disenchantment & Sacred Discharge:__ No evidence of sacred discharge — the cosmological system remains vital and elaborating. El Mirador's collapse may indicate localized loss of faith in particular dynasty's cosmic mandate, but the broader religious tradition continues undiminished.

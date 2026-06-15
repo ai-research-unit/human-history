@@ -1,69 +1,139 @@
-# __1914 CE – 1918 CE__ — Great War and Wartime Press
-__Summary:__ A static snapshot of the German Empire and North European Plain during World War I, when total industrial warfare consumed the population and economy while the state imposed comprehensive censorship on the press; the binding constraint is the military's monopoly over information flow and the home front's capacity to absorb material deprivation; margin against shock is exhausted by 1917 as blockade, casualties, and hunger erode reserves; the direction of change is toward collapse, revolution, and the end of monarchical rule.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain remains the core theater for logistics — rail networks radiate from Berlin to fronts east and west, while the Low Countries and Poland become contested ground; the Western Front locks into static trench lines from Switzerland to the North Sea; eastern distances impose logistical strain on German offensives.<br><br>
-__Climate Regime & Volatility:__ Temperate continental climate persists; the notorious "turnip winter" of 1916–1917 combines poor harvests with blockade effects; seasonal campaigning rhythms continue but trench warfare negates traditional winter pauses; no secular drift, but interannual harvest variability intensifies under labor shortages.<br><br>
-__Hazard Regime & Exposure:__ Acute hazards now man-made — artillery bombardment, gas attack, aerial bombing reach civilian areas; no significant natural disasters, but the industrial battlefield itself becomes a hazard regime of unprecedented lethality; infrastructure holds against natural shocks but strains under military loads.<br><br>
-__Resource & Energy Endowment:__ German coal and steel resources remain substantial but blockade cuts off imported materials — nitrates, rubber, petroleum, and foodstuffs; the Ruhr continues high output but raw material substitutes prove inferior; resource access narrows progressively under Allied blockade pressure.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial production intensifies pollution but wartime conditions prevent remediation; battlefield landscapes in Belgium and France become toxic wastelands of unexploded ordnance and chemical residue; home front absorptive capacity remains adequate but environmental concerns are irrelevant to wartime priorities.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Combat casualties dominate mortality — approximately two million German military dead by war's end; the 1918 influenza pandemic arrives in waves, killing hundreds of thousands; tuberculosis and other diseases surge under malnutrition; civilian mortality rises sharply from 1916 as the blockade bites.<br><br>
-__Nutrition & Physiological Vitality:__ Severe malnutrition spreads through the civilian population from 1916; the Allied blockade reduces caloric intake below subsistence for many; average body weight drops measurably; children and elderly suffer disproportionately; the "turnip winter" marks the nadir of nutritional status.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Birth rates collapse as men are mobilized and conditions deteriorate; marriage rates decline; gender imbalance intensifies as casualties mount; the generation of potential fathers is decimated; reproductive patterns will remain disrupted for decades.<br><br>
-__Demographic Renewal & Density:__ Population growth reverses — deaths exceed births by war's end; the young adult male cohort suffers catastrophic losses; migration halts as borders close and movement is controlled; urban density persists but population is declining rather than renewing.<br><br>
-__Attrition & Dependency Overhang:__ War wounded number in the millions — amputees, shell-shock victims, gas casualties create an unprecedented burden; war widows and orphans accumulate; the productive generation is killed or maimed while the dependent population expands; this overhang will persist for decades.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Food supply falls critically short from 1916 — rationing is universal but rations are inadequate; black markets proliferate; the urban population is closest to starvation; rural areas retain better access but requisitioning depletes reserves; the floor is breached for vulnerable populations.<br><br>
-__Energy Capture & Conversion:__ Coal production continues at high levels to fuel war industry but civilian allocation is restricted; electricity networks serve military production priority; petroleum scarcity limits transport and mechanization; the energy regime is strained but not collapsed, held by coal's domestic availability.<br><br>
-__Labor Organization & Coercion:__ Military conscription removes most working-age men; women, prisoners of war, and forced laborers fill industrial roles; the Auxiliary Service Law of 1916 militarizes civilian labor; coercion intensifies as voluntary compliance erodes; strikes increase from 1917 despite severe penalties.<br><br>
-__Production & Surplus Capacity:__ War industry produces at maximum capacity — munitions, weapons, and military supplies dominate output; civilian production collapses; no surplus exists for non-military purposes; the economy is entirely redirected to the front; production is high but serves only destruction.<br><br>
-__Storage, Reserves & Buffering:__ Prewar reserves are exhausted by 1916; granaries empty; treasury depleted; gold reserves committed to war loans; the buffer is gone and the system operates hand-to-mouth, with each harvest immediately consumed and each credit extension mortgaging the future.<br><br>
-__Exchange, Trade & Logistics:__ External trade is blocked by Allied naval power; internal logistics are controlled by military priorities; rail networks move troops and supplies, civilian goods are secondary; black markets and barter supplement the controlled economy; normal exchange mechanisms are suspended.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ War bonds extract civilian savings; the mark begins debasement through money printing; inflation accelerates from 1917; credit is directed to war production; the foundation for postwar hyperinflation is being laid through deficit finance and monetary expansion.<br><br>
-__Surplus Extraction & Redistribution:__ Total war extraction — taxation, forced loans, requisition, and inflation — channels all surplus to military use; the state claims everything beyond bare subsistence; redistribution serves only war needs; civilian welfare is an afterthought; the extraction load exceeds sustainable levels.<br><br>
-__Wealth Distribution & Asset Defense:__ War profiteers accumulate while most lose; savings are eroded by inflation; property values become uncertain; the middle class is squeezed between fixed incomes and rising prices; land remains the most defensible asset; monetary wealth is already depreciating.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste from war production is dumped without restraint; environmental regulation is nonexistent; the battlefield accumulates toxic residue; home front pollution is a minor concern against the scale of destruction; waste routing is essentially uncontrolled.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Initial war enthusiasm creates solidarity, but by 1917 trust erodes under scarcity and inequality; class divisions resurface as workers perceive profiteering; neighborhood mutual aid persists but is strained by shortages; the radius of trust contracts toward family and immediate community.<br><br>
-__Stratification, Status & Group Identity:__ Military rank creates new hierarchies; war profiteers versus suffering workers intensifies class consciousness; front soldiers develop distinct identity separate from home front; returning wounded occupy ambiguous status; traditional deference to authority weakens as the war drags on.<br><br>
-__Kinship, Family & Inheritance:__ Families are disrupted by conscription; fatherless households become common; inheritance patterns are scrambled by mass death; traditional family structures strain under separation and loss; female-headed households must navigate systems designed for male authority.<br><br>
-__Civic Association & Self-Organization:__ Associations are subordinated to war mobilization; labor unions are co-opted or suppressed; women's organizations mobilize for war support; civic life is militarized; independent association is suspect; the state penetrates previously autonomous spheres.<br><br>
-__Leisure, Play & Sociability:__ Leisure is curtailed by material shortages and moral pressure; entertainment is redirected to patriotic purposes; public gatherings are monitored; soldiers on leave bring front-line experiences home; sociability is shadowed by loss and anxiety; play continues but under strain.<br><br>
-__Grievance Channels & Social Discharge:__ Official channels are blocked by censorship and emergency powers; strikes increase despite prohibition; food riots occur from 1916; the channels for legitimate grievance are closed, building pressure that will discharge in revolution; discontent accumulates without release.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The military effectively governs from 1916 under the Hindenburg-Ludendorff duumvirate; the Kaiser is marginalized; the Reichstag grants war credits but has limited power; the Supreme Command dominates; civilian government is subordinate to military necessity.<br><br>
-__Succession & Power Transfer:__ The monarchical system remains formally intact but the Kaiser's authority is hollow; no succession crisis during the war but the system's legitimacy erodes; the question of what happens after defeat is suppressed; abdication and revolution are unthinkable until they happen.<br><br>
-__Legitimacy & Political Narrative:__ The Burgfrieden (civil truce) suspends political conflict for national defense; German victimhood against encirclement justifies sacrifice; as casualties mount, the narrative strains; by 1918 the gap between propaganda and reality is unsustainable; legitimacy collapses with military defeat.<br><br>
-__Administrative Capacity & Institutional Integrity:__ German bureaucracy demonstrates high capacity for war mobilization — rationing, conscription, industrial coordination proceed efficiently; corruption remains limited; record-keeping continues; but the machinery serves an unsustainable war effort and capacity does not prevent collapse.<br><br>
-__Political Participation & Mobilization:__ Political parties maintain the truce until 1917; socialist movements split over war support; the USPD forms in opposition; workers mobilize through strikes; soldiers' councils emerge in 1918; participation shifts from electoral to revolutionary channels as the system fails.<br><br>
-__Geopolitical Position & External Relations:__ Germany fights a two-front war against France, Britain, Russia, and eventually the United States; Austria-Hungary and the Ottoman Empire are weakening allies; the submarine campaign fails to break Britain but brings America into the war; isolation deepens as the alliance erodes.<br><br>
-__Coercive Apparatus & Means of Force:__ The German military deploys unprecedented firepower — artillery, machine guns, poison gas, submarines, aircraft — but cannot achieve decisive victory; the army remains loyal until November 1918; police maintain home front order; the coercive apparatus is massive but exhausted.<br><br>
-__Internal Order & Threat Environment:__ Home front order holds until 1918 despite strikes and food riots; military discipline begins to crack in the final months; the November revolution spreads from Kiel naval mutiny; internal order collapses rapidly once the military situation becomes hopeless; the threat was always defeat, not rebellion.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ The telegraph and telephone serve military command; newspapers remain the primary mass medium; field post connects front and home; rumor networks supplement official channels; transmission is fast within controlled systems but information is heavily filtered before reaching the public.<br><br>
-__Record, Storage & Persistence:__ Military and administrative records continue meticulously; newspapers are preserved; personal correspondence is massive — billions of field post letters; censorship files document what was suppressed; the record is extensive but heavily shaped by wartime controls.<br><br>
-__Framing, Censorship & Discourse Norms:__ Military censorship is comprehensive — all publications subject to prior review; casualty figures suppressed or delayed; defeats reframed as strategic withdrawals; enemy atrocities emphasized, German actions sanitized; the permitted discourse narrows to patriotic conformity; dissent is criminal.<br><br>
-__Reception, Attention & Amplification:__ The public consumes official news but credibility erodes as reality diverges from reports; front soldiers' letters contradict propaganda; word of mouth spreads suppressed information; attention remains high but trust declines; official amplification cannot overcome experiential counter-evidence.<br><br>
-__Signal Integrity & Noise Load:__ Official information is coherent but increasingly false; the gap between propaganda and reality constitutes systemic noise; soldiers returning on leave bring direct testimony that contradicts official accounts; by 1918 the signal is entirely corrupted and the public knows it.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ The war is justified as defensive necessity; sacrifice is framed as duty; but the sense of injustice grows as profiteers prosper while workers starve; equal sacrifice is the moral claim, but inequality undermines it; the foundation shifts from patriotic consensus to class grievance.<br><br>
-__Law, Codification & Regulatory Evolution:__ Emergency legislation expands state power — press control, labor conscription, economic regulation; martial law applies in many areas; civil liberties are suspended for the duration; the legal framework is transformed into an instrument of total mobilization.<br><br>
-__Adjudication, Enforcement & Liability:__ Military courts handle expanding categories of offense; civilian courts continue but with restricted jurisdiction; enforcement is vigorous for war-related crimes; draft evasion, desertion, and sedition are severely punished; the system processes its caseload but justice is subordinated to discipline.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights are suspended under emergency powers; press freedom, assembly, and movement are restricted; compliance burden is enormous — regulations govern every aspect of daily life from food consumption to speech; the individual is subordinated to collective necessity.<br><br>
-__Impunity & Unredressed Wrong:__ War profiteering goes largely unpunished; military command is not held accountable for failed offensives; the gap between official justice and felt injustice widens; workers see profiteers escape while dissent is prosecuted; the sense of impunity for the powerful accumulates as grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scientific research is redirected to military application — chemistry produces gas weapons and ersatz materials, physics advances communications and ranging; theoretical work continues but applied research dominates; the German research system serves the war effort with devastating effectiveness.<br><br>
-__Applied Knowledge & Technical Method:__ Technical innovation accelerates under wartime pressure — substitute materials, weapons development, industrial processes, medical treatment; methods developed for war will have peacetime applications; the techniques of total war are being refined through practice.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities continue but enrollment drops as students are conscripted; the knowledge stock is maintained but transmission is disrupted; technical training serves military needs; literacy remains high but educational continuity is broken for a generation of young men.<br><br>
-__Obsolescence & Knowledge Decay:__ The war renders some knowledge obsolete — cavalry tactics, traditional diplomacy, assumptions about short wars — while preserving technical and scientific knowledge; the main decay is in the illusions the war destroys; realistic assessment of industrial warfare replaces romantic notions.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ German identity is intensified by war — the nation as embattled community defending culture against barbarism; the Kulturnation concept deepens; but the front experience creates a new identity that will challenge bourgeois nationalism; the war is generating its own founding trauma.<br><br>
-__Artistic Expression & Material Culture:__ Expressionism and war art capture the experience; material culture is impoverished by shortages; ersatz materials replace quality goods; the aesthetic is increasingly stark and desperate; war memorials and mourning imagery proliferate; beauty is subordinated to survival and sacrifice.<br><br>
-__Collective Mood & Behavioral Disposition:__ Initial enthusiasm gives way to grim endurance, then desperation; the mood darkens progressively from 1916; hope revives briefly with the 1918 spring offensive, then collapses; by autumn 1918 exhaustion and despair predominate; the population is psychologically depleted.<br><br>
-__Form Exhaustion & Meaning Decay:__ Patriotic rhetoric becomes hollow through repetition and contradiction; the forms of prewar culture seem irrelevant to trench reality; meaning drains from official slogans as experience contradicts them; a cultural void opens that postwar movements will struggle to fill.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ The war challenges providential assumptions — mass death seems meaningless; fatalism increases among front soldiers; the question of theodicy — how God permits such suffering — haunts chaplains and believers; existential crisis accompanies physical destruction; meaning is harder to locate.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious observance continues but is transformed by death — funeral rites are abbreviated or impossible; battlefield chaplains minister under fire; prayer intensifies under stress; traditional ritual forms strain to accommodate unprecedented loss; the sacred is present but overwhelmed.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Churches support the war effort; clergy bless troops and justify sacrifice; institutional authority is maintained but moral authority is compromised by identification with the failing war; the churches will face reckoning for their wartime roles; doctrine provides inadequate answers.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No significant religious change during the war itself; denominational boundaries hold; the spiritual effects will manifest afterward in disillusionment, secular political religions, and the search for meaning outside traditional faith; displacement is deferred, not resolved.<br><br>
-__Disenchantment & Sacred Discharge:__ The war accelerates secularization by demonstrating the inadequacy of religious answers to industrial slaughter; sacred meaning cannot absorb the scale of death; disenchantment settles over the generation that experienced the trenches; the spiritual void will seek new fillings in the postwar world.<br><br>
+# __1914 CE – 1918 CE — Great War and Wartime Press__
+
+__Summary:__ The German lands during World War I, where military censorship subordinates the press to war mobilization and the binding constraint is the total mobilization of information for state survival — print becomes an arm of the war effort, sacrificing accuracy for morale until the gap between official optimism and battlefield reality corrodes legitimacy from within.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The North European Plain's rail network, built for commerce, converts to military logistics; troop and supply movements crowd civilian traffic. The western front stabilizes beyond German borders in Belgium and France, while the eastern front shifts across Poland and the Baltic lands. The homeland itself is never invaded, but blockade tightens geographic constraint to a perimeter.
+
+__Climate Regime & Volatility:__ Temperate continental conditions hold through the war years. The severe winter of 1916–1917 compounds fuel shortages; cold exacerbates civilian mortality from malnutrition-related disease.
+
+__Hazard Regime & Exposure:__ The war itself constitutes the dominant hazard. Air raids on German cities begin in 1915 but remain limited; coastal bombardments are rare. The principal exposure is indirect: blockade-induced scarcity and the industrial accidents that multiply under strained conditions.
+
+__Resource & Energy Endowment:__ Germany possesses coal and steel in abundance but depends on imports for food, fertilizers, and certain critical raw materials. The British naval blockade, tightening from 1914 onward, severs overseas supply. Ersatz substitutes proliferate — synthetic rubber, wood pulp extending paper, turnips replacing grain — but cannot close the gap.
+
+__Waste Absorption & Sink Capacity:__ Industrial output surges under war production; urban sanitation strains but does not collapse. The physical residue is modest compared to the biological cost the blockade imposes.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Wartime disruption elevates mortality beyond combat deaths. Tuberculosis and influenza spread through overcrowded housing and weakened bodies. The 1918 influenza pandemic arrives amid exhausted immune systems; German deaths reach several hundred thousand.
+
+__Nutrition & Physiological Vitality:__ The blockade produces the "Turnip Winter" of 1916–1917, when root vegetables substitute for bread. Caloric intake falls sharply; average adult rations drop below subsistence by 1917. Child stunting, edema, and deficiency diseases rise; civilian mortality increases by perhaps 700,000–800,000 excess deaths attributable to blockade conditions across the war.
+
+__Care, Healing & Recovery Capacity:__ Military medicine absorbs medical personnel and supplies. Civilian hospitals operate with reduced staff and equipment. Wounded soldiers returning from the front strain capacity; psychiatric casualties — "shell shock" — challenge therapeutic frameworks.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth rates collapse as men depart for the front and women enter war production. Marriages decline; fertility falls by nearly half. The demographic deficit compounds losses.
+
+__Demographic Renewal & Density:__ Germany loses approximately two million military dead and an additional million or more civilian excess deaths. The cohort of young men is decimated; the population pyramid will bear this scar for a generation.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans accumulate rapidly. By 1918, the dependent population swells beyond the capacity of charitable and state support, creating obligations that will persist into the postwar era.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The blockade pushes the population toward hunger. Food rationing begins in 1915 and tightens progressively. Black markets flourish; urban-rural tensions rise as city dwellers forage in the countryside. By 1917, the provisioning floor cracks.
+
+__Energy Capture & Conversion:__ Coal production holds, though labor shortages force the use of prisoners and requisitioned workers. Electrical generation continues; factories run at full capacity producing munitions.
+
+__Labor Organization & Coercion:__ The Auxiliary Service Law of 1916 conscripts civilian labor for war production. Women enter industrial employment in unprecedented numbers. The line between voluntary and coerced labor blurs; the state directs the workforce.
+
+__Production & Surplus Capacity:__ War production consumes all surplus. Consumer goods disappear from markets. Industry operates at maximum output, but the product is shells and rifles, not butter or clothing.
+
+__Storage, Reserves & Buffering:__ Prewar reserves exhaust within months. The state extends credit through war bonds, mortgaging the future to finance the present. Debt accumulates without limit; inflation begins its corrosive work.
+
+__Exchange, Trade & Logistics:__ External trade collapses under blockade. Internal logistics strain under military priority; civilian goods move slowly. Distribution failures compound production shortfalls.
+
+__Value Storage, Credit & Deferred Exchange:__ War bonds absorb savings and promise future repayment. The money supply expands; inflation accelerates but remains partially suppressed by price controls. The deferred reckoning grows larger each year.
+
+__Surplus Extraction & Redistribution:__ The state extracts through taxes, bonds, and requisition. Redistribution favors the military; civilian consumption is residual. The fiscal room is exhausted; the state borrows from the future.
+
+__Wealth Distribution & Asset Defense:__ Inflation erodes savings; fixed-income rentiers suffer. War profiteers prosper from contracts; industrialists accumulate. The middle class begins the squeeze that will intensify postwar.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates; environmental controls relax under emergency. The financial waste — malinvestment in war production that will have no peacetime use, debt that cannot be repaid — accrues invisibly.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Families fragment as men depart. Women assume household headship. Children grow up fatherless; inheritance expectations are disrupted by mass death.
+
+__Association & Mutual Aid:__ Prewar associations redirect toward war support — knitting circles produce socks, charitable organizations distribute food. Mutual aid intensifies but cannot substitute for collapsing state distribution.
+
+__Leisure, Play & Sociability:__ Public entertainment contracts; theaters and cabarets remain open but with reduced offerings. Newspapers provide the primary entertainment alongside the primary information.
+
+__Stratification, Status & Group Structure:__ War service creates new status hierarchies: front soldiers versus rear-area personnel, veterans versus civilians. Class tensions sharpen as workers suffer shortages while industrialists profit. The Burgfrieden — civil truce — suspends open conflict but does not resolve it.
+
+__Administrative Capacity & Institutional Integrity:__ The military effectively governs the home front through the War Food Office, War Raw Materials Office, and other agencies. The Reichstag's power shrinks; the military command under Hindenburg and Ludendorff from 1916 exercises near-dictatorial authority. Civilian administration becomes subordinate.
+
+__Coercive Apparatus & Means of Force:__ The army absorbs the able-bodied; police forces thin. Internal order holds despite grumbling. Strikes are suppressed or defused. The coercive apparatus is fully committed to war.
+
+__Discharge, Disorder & Decay:__ Discontent accumulates beneath the surface. Strikes increase after 1916; food riots occur. The January 1918 strikes bring over a million workers out. The apparatus contains disorder but cannot eliminate its causes. By autumn 1918, the navy mutinies at Kiel and the dam breaks.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ August 1914 produces the "Spirit of 1914" — genuine if not universal enthusiasm, civic solidarity, suspension of partisan conflict. This mood erodes as the war lengthens. By 1916, war-weariness dominates; by 1917, cynicism and bitterness spread. Trust in official statements declines as the gap between propaganda and reality widens.
+
+__Leadership & Personal Authority:__ The Kaiser fades into symbolic irrelevance. Hindenburg becomes a cult figure — the savior-general. Ludendorff wields real power but lacks popular charisma. Civilian politicians lose authority to the military. No leader commands sufficient trust to navigate defeat.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy erodes progressively. The Burgfrieden holds through 1916 but frays thereafter. By 1918, many Germans no longer believe the regime deserves their sacrifice. The gap between official claims and lived experience — hunger, death, endless war — dissolves the bond.
+
+__Political Will & Collective Resolve:__ Collective will holds longer than might be expected. Germans fight on despite hardship. But the resolve is brittle; once cracked, it shatters. The autumn 1918 collapse is sudden precisely because so much had been suppressed.
+
+__External Relations & Posture:__ Germany fights a two-front war against superior combined resources. The spring 1918 offensive represents the last gamble; its failure seals the outcome. Relations with allies — Austria-Hungary, Ottoman Empire, Bulgaria — grow strained as all weaken together.
+
+__Disaffection, Apathy & Spent Will:__ By late 1918, disaffection is pervasive. The revolution of November 1918 expresses exhaustion more than ideology. The will to fight is spent; the will to resist revolution is absent. Apathy and trauma settle over a defeated society.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ German is universal; literacy near-total. The press remains the primary medium for mass communication. Postal service continues despite strain; telegraph serves military and official use.
+
+__Channels & Transmission Velocity:__ The Wolff telegraph agency provides official news to all papers. Military communiques reach the public within hours. Censorship operates at the source; what reaches the press is already filtered.
+
+__Record, Storage & Persistence:__ Newspapers document the war — as censorship permits. The official record is extensive but systematically misleading. Private letters and diaries provide alternative record but reach only limited circulation.
+
+__Framing, Censorship & Discourse Norms:__ Military censorship is total. The Deputy Commanding Generals in each military district control local press. Pre-publication review enforces conformity. Casualty figures are suppressed or minimized. Defeats are reframed as strategic withdrawals. The discourse is tightly controlled, but control cannot prevent soldiers' letters and returning wounded from contradicting official claims.
+
+__Reception, Attention & Amplification:__ The public reads voraciously; newspaper circulation remains high. But attention is shaped by what censorship permits. The gap between official narrative and private knowledge widens; cynicism about official sources spreads.
+
+__Signal Integrity & Noise Load:__ Propaganda corrupts the signal. By 1918, official news commands little belief. The information environment is saturated with noise — rumors fill the gap that censorship creates. Verification is impossible for the ordinary citizen.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The war is framed as defensive — Germany encircled, fighting for survival. This justification holds for most Germans through most of the war. But the morality of the blockade, the starvation of civilians, generates outrage and a sense of injustice that persists long after.
+
+__Law, Codification & Regulatory Evolution:__ Martial law or near-martial conditions govern the home front. Emergency decrees proliferate. Civilian law is suspended or subordinated to military necessity.
+
+__Adjudication, Liability & Sanction:__ Military courts handle cases of sedition, defeatism, and related offenses. Summary justice prevails. Labor unrest is treated as near-treason.
+
+__Rights, Protections & Compliance Burden:__ Civil liberties are suspended in practice. Press freedom is gone. Assembly and speech are restricted. The compliance burden — rationing, labor conscription, requisition — presses heavily on all.
+
+__Impunity & Unredressed Wrong:__ The state commits wrongs — censorship, forced labor, requisition — without remedy. The blockade's victims have no recourse. The injustice accumulates, feeding postwar resentment.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scientific research continues but is directed toward war applications — chemistry for explosives and poison gas, physics for ranging and communications. Pure inquiry pauses.
+
+__Applied Knowledge & Technical Method:__ Technical innovation accelerates under military demand. Aviation advances; chemical warfare develops; industrial processes improve under pressure. The methods developed will outlast the war.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities continue but with depleted faculty and student bodies. Technical training expands to meet war production needs. The knowledge stock is preserved but not extended.
+
+__Obsolescence & Knowledge Decay:__ The war will render obsolete the strategic and tactical assumptions of 1914. The intellectual cost is the confidence in progress and civilization that the war destroys.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The war generates its own mythos in real time — the sacrifice, the unity, the heroism. But the "stab-in-the-back" legend is already forming by late 1918: the army undefeated, betrayed by civilians and revolutionaries. This toxic myth will poison Weimar.
+
+__Legitimating Narrative & Ideology:__ The official narrative — defensive war, national survival, inevitable victory — collapses in November 1918. No alternative narrative is ready. The ideological vacuum will be contested ground for years.
+
+__Artistic Expression & Material Culture:__ Expressionism captures war's horror. War poetry ranges from patriotic to disillusioned. Visual culture produces propaganda posters but also anguished art. The aesthetic of the prewar world is shattered.
+
+__Form Exhaustion & Meaning Decay:__ The symbols of the old regime — the Kaiser, the Prussian military tradition, the confident bourgeois order — are exhausted. Meaning drains from the old forms; new forms are not yet established.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The war shatters the optimistic progressivism of the prewar era. Theodicy fails: how can a just God permit this slaughter? Fatalism spreads among combatants and civilians alike.
+
+__Ritual, Devotion & Sacred Practice:__ Churches offer comfort and conduct services for the dead. Religious observance continues but cannot explain the catastrophe. The sacred is invoked but provides diminishing solace.
+
+__Religious Institutions & Doctrinal Authority:__ Protestant and Catholic churches support the war effort, blessing the nation's cause. This alignment will compromise their authority when the cause is lost.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No new spiritual movement emerges during the war itself. The old certainties crack but are not yet replaced.
+
+__Disenchantment & Sacred Discharge:__ The war is a machine for producing disenchantment. The sacred meaning of sacrifice, nation, and progress hollows out under industrial slaughter. What remains is trauma, loss, and a void that postwar movements will compete to fill.

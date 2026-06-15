@@ -1,69 +1,140 @@
 # __4,500 BCE – 3,300 BCE__ — Late Neolithic Complexity and Inter-Regional Exchange
-__Summary:__ The Late Neolithic Aegean witnesses rising social complexity, expanding inter-regional exchange, and the first systematic copper metallurgy, transitioning from middle Neolithic village egalitarianism toward stratified, networked communities; Dimini-phase architecture and possible fortifications mark increasing organizational capacity, while long-distance obsidian and emerging metal exchange knit the islands into the mainland orbit; the binding constraint remains the oral-memory ceiling on coordination and accumulated knowledge, as intensifying networks and craft specialization press against the limits of what speech and recall can transmit; slack exists in agricultural surplus and maritime transport, but social differentiation accelerates and new organizational pressures accumulate.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Aegean archipelago's modern configuration is established — hundreds of islands scattered across 200 km of open water, the Cyclades clustered centrally, larger landmasses (Crete, Euboea, Lesbos) at the periphery; maritime corridors dominate transit, with inter-island crossings of 20–50 km routine; mountainous terrain on mainland Thessaly and the Argolid concentrates settlement in coastal plains and river valleys; spatial friction is moderate, reduced by improving seafaring technology but still imposing significant transport costs on bulk goods.<br><br>
-__Climate Regime & Volatility:__ Stable mid-Holocene Mediterranean climate with warm, dry summers and mild, wet winters; interannual rainfall variability moderate, occasionally stressing rain-fed agriculture; no secular drift detected within the window; conditions favor cereal cultivation and pastoralism on the mainland and larger islands.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity endemic throughout the Aegean volcanic arc; localized earthquakes damage settlements periodically, though no catastrophic regional event is attested in this window; volcanic quiescence between major Thera eruptions; occasional drought years stress storage but do not exceed buffering capacity; exposure elevated relative to continental interiors but margin remains adequate.<br><br>
-__Resource & Energy Endowment:__ Obsidian from Melos remains the premier lithic resource, accessible and not depleted; copper ores on Kythnos and Siphnos now recognized and beginning extraction; marble abundant on Paros and Naxos; arable soils sufficient for expanding populations; timber adequate on larger islands and mainland; no critical resource approaching exhaustion.<br><br>
-__Waste Absorption & Sink Capacity:__ Settlement refuse and agricultural waste dispersed across landscape with effectively unlimited absorptive capacity; early copper smelting produces negligible slag volumes; no detectable environmental degradation from human activity; sink capacity far exceeds load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic gastro-intestinal and respiratory infections persist; increasing village densities raise transmission potential but no epidemic outbreak attested; infant and childhood mortality remains high (30–50% before age five, inferred from skeletal demography at analogous sites); adult mortality peaks in fourth and fifth decades; overall mortality baseline stable, not worsening.<br><br>
-__Nutrition & Physiological Vitality:__ Mixed agricultural diet — emmer, einkorn, barley, pulses, supplemented by sheep, goat, pig, cattle, and marine resources on islands; stature and robusticity adequate by Neolithic standards; dental pathology from carbohydrate-heavy diet common; nutritional adequacy maintained, seasonal stress limited by storage.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Physiological fertility unimpaired; pair-bonding structured by kin-group alliance (inferred from burial patterns); age at first reproduction likely mid-teens for women; no evidence of selective reproductive pressures beyond background Neolithic patterns.<br><br>
-__Demographic Renewal & Density:__ Population growth continues from Middle Neolithic base; new island settlements (Ftelia on Mykonos, Zas Cave on Naxos) indicate expansion into previously marginal zones; density on established mainland tells (Dimini, Sesklo, Sitagroi) rises but remains below carrying-capacity ceiling; replacement rate positive, though precise estimates not recoverable.<br><br>
-__Attrition & Dependency Overhang:__ Dependent cohort (children, elderly, infirm) represents significant but sustainable fraction of population; productive adults absorb care burden through household and kin pooling; no evidence of demographic distress or overhang exceeding renewal capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Cereal agriculture and mixed herding provide stable subsistence floor; household storage in ceramic vessels and pit silos buffers seasonal variation; marine resources supplement island diets; population sits comfortably above carrying-capacity edge with slack for surplus extraction.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain sole power sources; no evidence of watercraft propulsion beyond paddling and simple sail; fire used for pottery firing and emerging copper smelting; per-capita energy ceiling stable but adequate for current production demands.<br><br>
-__Labor Organization & Coercion:__ Household-based labor predominates; no evidence of coerced labor or slave systems; craft specialization emerging (obsidian knapping, early metallurgy, pottery production) but not yet fully detached from household economy; seasonal corvée for communal construction (fortifications, megaroid buildings) plausible but not attested beyond architectural inference.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus sufficient to support non-subsistence activities — craft production, exchange expeditions, construction projects; surplus flow modest but positive, enabling incipient wealth differentiation visible in burial goods and architecture.<br><br>
-__Storage, Reserves & Buffering:__ Ceramic storage vessels and granary pits provide multi-year buffering; communal storage in megaroid structures at Dimini suggests pooling beyond household level; reserves adequate against single-year harvest failure; no attested crisis of stockpile exhaustion.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks intensify — Melian obsidian distributed throughout Aegean and into Balkans; copper from Cycladic sources entering circulation; exchange remains reciprocal and prestige-oriented rather than market-based; maritime logistics improving with larger, more seaworthy vessels; no bottleneck constraining current exchange volumes.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; value stored in prestige goods (obsidian blades, copper ornaments, fine ceramics), livestock, and stored grain; deferred reciprocity obligations structure inter-community exchange; no credit instruments beyond personal obligation.<br><br>
-__Surplus Extraction & Redistribution:__ Emerging communal architecture (Dimini megaron) suggests coordination of surplus allocation, possibly by lineage heads or community councils; no state-level extraction apparatus; extraction load light relative to productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth differentiation increasing — burial goods and house sizes show wider range than Middle Neolithic; land and livestock held by kin groups; portable prestige goods (obsidian, copper, fine pottery) accumulating in certain households; no fortified treasury or specialized asset defense beyond site walls.<br><br>
-__Byproducts & Waste Routing:__ Ceramic production waste, food refuse, and nascent metallurgical slag dispersed locally; volumes trivial relative to environmental absorption; no routing pressure or accumulation problem.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends beyond immediate kin to village community and inter-village exchange partners; reciprocal obligations structure mutual aid; no evidence of trust collapse or social fragmentation; radius stable or widening with exchange network expansion.<br><br>
-__Stratification, Status & Group Identity:__ Status differentiation increasing — megaroid architecture, differential burial goods, and larger houses mark emerging elite households; boundaries remain permeable (achievement-based rather than hereditary caste); factional alignments likely follow lineage and village lines; stratification trend accelerating but not yet rigid.<br><br>
-__Kinship, Family & Inheritance:__ Extended kin groups form primary social unit; inheritance likely patrilineal (inferred from burial clustering); household formation follows marriage alliance between kin groups; land and livestock transmitted through lineage; scaffold stable across the window.<br><br>
-__Civic Association & Self-Organization:__ Village councils or elder assemblies coordinate communal labor and dispute resolution (inferred from collective architecture); no formal guild or association structure; associational fabric adequate for current scale.<br><br>
-__Leisure, Play & Sociability:__ Communal feasting attested by large ceramic vessels and animal bone concentrations; seasonal festivals likely tied to agricultural cycle; sociability centered on village spaces and inter-village gatherings during exchange events.<br><br>
-__Grievance Channels & Social Discharge:__ Kin mediation, community assembly, and ritual discharge absorb most social friction; rising inequality generates new grievances but no evidence of accumulated instability exceeding absorption capacity; some tension may channel into inter-village competition expressed through fortification and prestige display.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Decentralized village-level authority; decision-making likely vested in senior males of leading lineages or community councils; no overarching polity or paramount chief; power fragmented across autonomous villages with alliance networks.<br><br>
-__Succession & Power Transfer:__ Leadership succession probably follows lineage seniority or achieved prestige; no formal succession rules attested; transfer appears stable at village scale, with no evidence of violent succession conflict.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimized through lineage ancestry, achieved prestige, and demonstrated competence in subsistence and exchange; oral genealogies and foundation narratives establish household claims; legitimacy appears stable, not contested.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity minimal — no writing, no bureaucracy, no specialized record-keepers; coordination through oral agreement and personal authority; institutional reach limited to village and immediate exchange partners; integrity adequate for current scale but capacity ceiling low.<br><br>
-__Political Participation & Mobilization:__ Adult male heads of households likely participate in village assemblies; collective decision-making for communal projects; no evidence of formal factions or organized dissent; participation channels adequate.<br><br>
-__Geopolitical Position & External Relations:__ No state-level geopolitics; inter-village relations structured by exchange partnerships and probable kin alliances; competition for prestige and exchange access may drive rivalries; no territorial conflict attested but fortifications suggest defensive concern.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military; weapons (bows, maces, daggers) held by individual households; fortifications at Dimini and other sites suggest organized communal defense; command of force dispersed among household heads.<br><br>
-__Internal Order & Threat Environment:__ Low-level raiding or inter-village conflict possible (fortifications suggest concern); internal order maintained through kin and community mechanisms; no evidence of endemic banditry or rebellion; threat level contained within defensive capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by voice and personal presence; maritime travel enables news transmission across island networks at sailing speed (days to weeks across the Aegean); reach extends to exchange partners and allied communities; velocity limited by travel speed and memory retention.<br><br>
-__Record, Storage & Persistence:__ No writing exists — all record persistence relies on human memory and oral transmission; genealogies, technical knowledge, exchange obligations, and ritual formulae preserved through repetition and specialist memorizers; persistence vulnerable to death of knowledge-holders and transmission breaks; no durable external record.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse shaped by community elders and ritual specialists; taboos on sacred knowledge and lineage secrets structure what can be said publicly; no formal censorship apparatus; norms stable.<br><br>
-__Reception, Attention & Amplification:__ Attention focused through communal gatherings, feasts, and ritual occasions; repetition and mnemonic devices (rhythm, formulaic phrases) amplify retention; audience limited to those physically present; no mechanism for mass amplification.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces drift and error over generations; no external verification mechanism; signal integrity maintained through formulaic repetition and cross-checking among multiple tradition-bearers; noise accumulates slowly but clearing capacity is limited to social correction.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice rooted in reciprocity, kin obligation, and proportional response to harm; theft, violence, and breach of exchange obligations understood as wrongs requiring restitution; shared moral baseline stable.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; binding norms transmitted orally as custom and taboo; regulatory evolution slow, shaped by precedent and elder interpretation; codification absent.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by kin elders, community assemblies, or ritual specialists; enforcement through social pressure, shaming, and retaliation; liability assigned collectively to kin groups; formal courts absent; throughput adequate for current dispute volume.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual protected primarily through kin group; property rights (land, livestock, goods) recognized within community; compliance burden light, governed by custom rather than complex regulation.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful households may escape full accountability; inter-village wrongs difficult to redress without alliance support; impunity gap small but nonzero; no accumulating backlog of unredressed grievance attested.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; understanding of natural world embedded in mythic and practical frameworks; empirical knowledge (agricultural cycles, material properties, navigation) accumulated through trial and observation; no abstract theory or paradigm shift occurring.<br><br>
-__Applied Knowledge & Technical Method:__ Copper smelting techniques developing — reduction of oxide ores, casting; obsidian knapping at high skill levels; ceramic production refined; architectural techniques (megaroid construction, fortification) advancing; maritime technology improving; technical frontier active in metallurgy.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship and household instruction; literacy absent; skill distribution uneven — metallurgy and fine craft restricted to specialists; general agricultural and domestic skills widespread; knowledge stock growing in metallurgical and maritime domains.<br><br>
-__Obsolescence & Knowledge Decay:__ Older lithic techniques gradually displaced by metal but not yet obsolete; no catastrophic knowledge loss; decay rate low, matched by acquisition rate; dogma accumulation minimal in pragmatic domains.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and ancestor veneration structure collective identity at lineage and village level; no pan-Aegean identity; foundation myths oral and locally varied; memory of ancestral settlement and great predecessors maintained through genealogical recitation.<br><br>
-__Artistic Expression & Material Culture:__ Dimini-style pottery with geometric and spiral decoration marks regional aesthetic; megaroid architecture expresses emerging prestige; figurines continue in reduced numbers; material culture increasingly differentiated by status; aesthetic conventions elaborating.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood cautiously expansive — new island settlements, exchange intensification, and architectural ambition suggest confidence; defensive fortifications indicate awareness of threat but not pervasive anxiety; risk tolerance moderate.<br><br>
-__Form Exhaustion & Meaning Decay:__ No evidence of form exhaustion; Dimini aesthetic represents renewal from Middle Neolithic Sesklo traditions; symbolic repertoire vital and evolving; meaning decay not detectable.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist and ancestor-centered cosmology presumed; world populated by spirits, ancestors, and forces requiring propitiation; fatalism moderate, tempered by belief in effective ritual action; no recoverable doctrinal content, but pattern consistent with Aegean Neolithic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Household and community rituals mark agricultural cycle, life transitions, and ancestor veneration; figurines and special deposits suggest devotional practice; sacred spaces within settlements (possible shrine areas in megara); practice regular and embedded in daily life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal priesthood or institutional hierarchy; ritual specialists (healers, diviners, tradition-keepers) hold informal authority; doctrinal orthodoxy absent; authority dispersed among knowledge-holders.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Local traditions predominate; exchange networks may transmit ritual elements between communities but no major syncretism or displacement attested; spiritual geography stable.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; sacred cosmos remains vital and responsive; spiritual need fully anchored in existing practice; no residue of unmet transcendence.<br><br>
+
+__Summary:__ The Aegean moves through a twelve-century arc of intensifying settlement hierarchy, craft specialization, and long-distance exchange, with early copper metallurgy arriving and social differentiation sharpening across village communities; the binding constraint remains oral transmission — the techniques, exchange relationships, genealogies, and ritual knowledge that underwrite this complexity are spoken, sung, and remembered, never inscribed, so that the entire apparatus of emerging hierarchy rides on the breath and memory of its practitioners and elders.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Aegean basin retains its fragmented archipelagic character — mainland peninsulas, the Cycladic scatter, Crete, and the eastern island chain — but maritime connectivity now operates as highway rather than barrier, with sea crossings of ten to fifty kilometers routine between intervisible landmasses; inland, Thessalian plains offer continuous arable terrain while the mountainous Peloponnese and Attic uplands channel movement through established passes.
+
+__Climate Regime & Volatility:__ The Holocene Climatic Optimum persists through most of this window, delivering warmer and wetter conditions than the modern baseline; seasonal rainfall supports dry-farming of wheat and barley without irrigation; interannual variability remains moderate, though occasional drought years stress marginal lands and force fallback on stored grain.
+
+__Hazard Regime & Exposure:__ Seismic activity along the Hellenic arc poses episodic threat to mudbrick settlements, and volcanic risk from the Cycladic caldera remains latent; flooding affects riverine Thessalian sites seasonally; wildfire threatens scrubland but the landscape carries sufficient green cover to limit catastrophic burns.
+
+__Resource & Energy Endowment:__ Melian obsidian continues as the premier lithic resource, now supplemented by copper ores from Lavrion (Attica), Siphnos, and Cycladic outcrops; clay for ceramics is ubiquitous; timber adequate for construction though beginning to show localized depletion near established villages; arable land sufficient for the population scale.
+
+__Waste Absorption & Sink Capacity:__ Settlement middens accumulate beside villages but organic waste decomposes readily in the Mediterranean climate; early metallurgical slag appears in small quantities near smelting sites without significant sink saturation; the landscape absorbs human impact without visible degradation at this population density.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal and parasitic diseases persist in settled villages where waste accumulation and standing water create transmission vectors; infant and child mortality remains high, with life expectancy at birth likely in the mid-twenties; epidemic potential limited by small, dispersed population clusters.
+
+__Nutrition & Physiological Vitality:__ The agricultural base delivers adequate calories in normal years through cereals, legumes, and animal protein from sheep, goat, pig, and cattle; skeletal evidence shows moderate stature and dental caries from carbohydrate-heavy diets; nutritional stress visible in enamel hypoplasia during lean years but not chronic famine.
+
+__Care, Healing & Recovery Capacity:__ Wound care, midwifery, and herbal remedy remain at household level, transmitted orally between generations; no evidence of specialized healers; survival from serious injury or infection depends on individual constitution and kin care; the capacity suffices for routine ailments but cannot address major trauma or epidemic.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage and pairing governed by kinship rules that oral memory tracks through genealogical recitation; fertility adequate to replace losses in normal conditions; household size expands where surplus allows, constrained by labor needs and inheritance expectations.
+
+__Demographic Renewal & Density:__ Population grows slowly but steadily across the window, filling previously marginal lands and expanding village counts; Thessalian settlements reach five hectares, implying hundreds of inhabitants; total Aegean population perhaps in low tens of thousands; migration remains local, following kin networks to new settlement sites.
+
+__Attrition & Dependency Overhang:__ The short lifespan limits elder dependency, but orphan and widow support falls on kin; the productive adult cohort carries dependent children and the occasional aged survivor without excessive burden at current demographic scale.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The subsistence base rests on mixed farming — wheat, barley, legumes, and small-scale horticulture — supplemented by sheep and goat herding for meat, milk, and wool, and cattle for traction; households pool labor and store grain against seasonal and annual shortfall; the provisioning floor sits comfortably above starvation in normal years.
+
+__Energy Capture & Conversion:__ Human muscle remains the primary motive force, supplemented by cattle for plowing and transport; fire fuels pottery kilns and the new copper smelting furnaces; no water or wind power yet harnessed; per-capita energy throughput rises slightly with metallurgical intensification.
+
+__Labor Organization & Coercion:__ Labor is organized at household and kin-group level, with no evidence of coerced labor; craft specialization emerges in pottery and early metalworking, creating part-time specialists who still participate in agricultural cycles; seasonal labor mobilization for construction and harvest follows reciprocal obligation rather than command.
+
+__Production & Surplus Capacity:__ Agricultural surplus sustains villages year-round and allows investment in durable architecture, prestige goods, and exchange; pottery production reaches workshop scale at some sites; copper metalworking yields tools and ornaments in small quantities; surplus remains modest but enables social differentiation.
+
+__Storage, Reserves & Buffering:__ Grain storage in plastered pits and ceramic vessels provides multi-season buffering; communal and household reserves coexist; the system absorbs single bad years but consecutive failures would exhaust reserves; no formal credit or debt instruments beyond kin obligation.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange intensifies dramatically, with Melian obsidian, Thessalian pottery, copper from Lavrion and Siphnos, and prestige goods circulating through the archipelago and into the Balkans and western Anatolia; maritime transport uses simple paddled or sailed craft; exchange operates through kinship and down-the-line networks rather than market mechanisms.
+
+__Value Storage, Credit & Deferred Exchange:__ Value stores in durable goods — copper objects, fine pottery, obsidian blades — and in livestock; no monetary units; exchange obligations remembered and enforced through oral reputation and kinship ties; credit exists as deferred reciprocity, tracked in memory.
+
+__Surplus Extraction & Redistribution:__ No formal taxation; surplus redistributed through feasting, ceremonial exchange, and kin obligation; emerging elites accumulate through successful exchange and craft control rather than coercive extraction; communal labor for enclosures and large structures implies some coordination capacity.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentration becomes visible in house size variation, burial goods, and prestige-object accumulation; the wealthiest households hold more cattle, larger granaries, and finer pottery; defense of assets relies on kin solidarity and community standing rather than formal property rights.
+
+__Byproducts & Waste Routing:__ Ceramic production generates kiln ash and broken sherds; metallurgical slag appears near smelting sites; organic waste composted or discarded in middens; no significant mispricing or financial waste given the absence of monetary instruments.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship structures lineage identity, marriage alliance, and inheritance; oral genealogies extending several generations establish claims to land, herd shares, and craft knowledge; patrilineal or bilateral descent likely varies by community; inheritance divides property among heirs with eldest or designated successor receiving preferential shares.
+
+__Association & Mutual Aid:__ Village solidarity provides the primary mutual-aid network beyond kin; communal labor for construction, harvest, and defense; reciprocal obligations enforced through reputation and oral sanction; no evidence of formal guilds, but craft specialists likely form loose networks exchanging techniques and materials.
+
+__Leisure, Play & Sociability:__ Communal feasting visible in faunal assemblages and ceremonial pottery; seasonal festivals likely mark agricultural cycles and life transitions; play and sociability centered on village commons and household yards; no monumental gathering spaces.
+
+__Stratification, Status & Group Structure:__ Social differentiation sharpens, with house-size variation, differential burial goods, and prestige-object accumulation marking emerging elites; status rests on agricultural success, exchange prowess, ritual knowledge, and lineage seniority; boundaries remain permeable, with mobility possible through achievement.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration; village affairs coordinated through elder councils or big-man leadership, decisions made by consensus or deference to prestige; oral memory of precedent and custom serves in place of codified procedure; inter-village relations negotiated through kinship ties and exchange partnerships.
+
+__Coercive Apparatus & Means of Force:__ No standing military; defense relies on able-bodied adult males armed with stone and copper weapons; some settlements show enclosure walls (Dimini) suggesting raiding threat; violence episodic and small-scale, resolved through feud, compensation, or flight.
+
+__Discharge, Disorder & Decay:__ Conflict over land, cattle, or exchange grievances resolved through kin mediation, compensation, or controlled vengeance; the social fabric absorbs friction through feasting and gift exchange; no evidence of chronic disorder or institutional decay at this scale.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The expanding exchange networks and rising surplus create a cautiously optimistic temper; trust extends along kinship and established exchange lines but remains wary toward strangers; the mood is industrious, oriented toward accumulation and lineage advancement.
+
+__Leadership & Personal Authority:__ Leadership rests on personal achievement — successful farming, exchange, and ritual knowledge — rather than inherited office; elders and big men command deference through demonstrated competence and oral persuasion; charisma matters where institutional authority is absent.
+
+__Legitimacy as Lived Allegiance:__ Allegiance attaches to kin, village, and recognized leaders rather than abstract authority; legitimacy earned and renewed through performance — successful harvests, fair dealing, effective mediation — and withdrawn when leaders fail.
+
+__Political Will & Collective Resolve:__ Collective action limited to village scale; mobilization for construction, defense, or communal labor depends on consensus and obligation; no evidence of supra-village political coordination; will is diffuse, situational, and locally bounded.
+
+__External Relations & Posture:__ Inter-community relations mix exchange partnership with competition and occasional raiding; alliances cemented through marriage and gift; hostility contained by distance and kinship ties; no evidence of organized warfare or conquest.
+
+__Disaffection, Apathy & Spent Will:__ The small scale and kinship embedding leave little room for anomie; grievances find outlet in feud, migration, or communal mediation; no visible exhaustion of collective will at this growth phase.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language serves as the universal medium; local dialects likely vary across the archipelago but mutual intelligibility within regions permits exchange and kin communication; no script, no symbolic notation beyond potter's marks and possibly ownership signs on objects.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of human movement — on foot across land, by boat across water; news spreads along exchange routes and kin networks; rumors and reputations circulate with traders; transmission velocity matches seasonal exchange cycles.
+
+__Record, Storage & Persistence:__ Memory is the sole archive; genealogies, craft techniques, territorial claims, and ritual knowledge preserved through oral repetition and intergenerational transmission; mnemonic devices — formulaic phrases, songs, spatial markers — aid retention; knowledge that escapes living memory is lost.
+
+__Framing, Censorship & Discourse Norms:__ No formal censorship; discourse norms enforce respect for elders and ritual speech; certain knowledge restricted to initiated adults or lineage seniors; the permitted range of speech is wide but deference structures who may speak when.
+
+__Reception, Attention & Amplification:__ Attention flows to skilled speakers, successful leaders, and ritual performers; reputation amplifies through repeated retelling; no mass audience, only face-to-face communication in small gatherings.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift and loss with each generation; techniques for verification limited to comparison with other living informants; signal integrity depends on redundancy — multiple carriers of the same knowledge — and decays as communities grow and specialists thin.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice rests on reciprocity, kinship obligation, and proportional response; fairness means returning equivalent value and avenging or compensating harm; the community adjudicates through elder consensus, weighing reputation and precedent held in oral memory.
+
+__Law, Codification & Regulatory Evolution:__ No written law; norms exist as remembered custom, transmitted through proverb, story, and elder instruction; regulation evolves through accumulated precedent, with successful resolutions becoming templates for future disputes.
+
+__Adjudication, Liability & Sanction:__ Elders or respected figures mediate disputes; liability assigned through kin accountability — a wrong by one obligates the lineage; sanctions range from compensation in goods or cattle to ostracism, feud, or ritual expulsion; outcomes enforced by kin and community pressure.
+
+__Rights, Protections & Compliance Burden:__ Rights attach to lineage membership, land use, and craft knowledge; protections are kin-provided; compliance burden minimal in the absence of formal regulation, but kinship obligations and exchange debts structure behavior continuously.
+
+__Impunity & Unredressed Wrong:__ Powerful lineages may escape full sanction for transgressions; wrong done to the weak or kinless may go unredressed; the gap between justice owed and delivered widens with social differentiation but remains manageable at village scale.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; understanding of the world embedded in myth, proverb, and practical observation; regularities of season, animal behavior, and material properties known empirically but not theorized systematically.
+
+__Applied Knowledge & Technical Method:__ Craft knowledge reaches new sophistication — pyrometallurgy for copper smelting requires temperature control, ore selection, and reducing atmospheres; pottery kilns achieve controlled firing; agricultural technique includes crop rotation and fallow management; all transmitted orally and by demonstration.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship within households and kin groups; children learn by observation and participation; specialists in metalworking or pottery acquire extended training; the knowledge stock expands but remains distributed unevenly, with some skills held by few practitioners.
+
+__Obsolescence & Knowledge Decay:__ Earlier lithic techniques persist alongside metal; no evidence of wholesale knowledge loss but the death of a sole specialist can extinguish a technique; the lack of written record means every generation must re-learn from the living or lose what they knew.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin stories, ancestor tales, and territorial myths anchor community identity; oral epics and genealogical recitations performed at gatherings establish who belongs and what debts the past has created; identity is local, kin-centered, and tied to place.
+
+__Legitimating Narrative & Ideology:__ The order justifies itself through ancestral precedent — we do as the ancestors did, hold what they cleared, honor what they honored; successful elites legitimate their position through genealogical depth, exchange prowess, and ritual performance.
+
+__Artistic Expression & Material Culture:__ Painted pottery, elaborate ceramic forms, clay and stone figurines, polished stone and copper ornaments mark the visual culture; the Dimini style shows spirals and geometric patterns; figurines — predominantly female — suggest ritual or symbolic significance; material culture signals status, community membership, and craft achievement.
+
+__Form Exhaustion & Meaning Decay:__ Forms remain vital; new styles emerge (Dimini succeeds Sesklo patterns); no visible exhaustion or cliche; meaning production keeps pace with social change; the symbolic repertoire expands with exchange contact.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The world understood as animated by spirits, ancestors, and unseen forces inhabiting landscape features, animals, and objects; human place within this cosmos requires propitiation, respect, and correct ritual behavior; fate is shaped by these forces and by ancestral blessing or curse.
+
+__Ritual, Devotion & Sacred Practice:__ Household shrines, community feasting with ritual elements, figurine deposition, and possible harvest or fertility ceremonies mark sacred practice; no monumental temples; ritual knowledge transmitted orally, with certain rites restricted to elders or specialists.
+
+__Religious Institutions & Doctrinal Authority:__ No formal religious institution; ritual authority diffuse, held by elders, lineage heads, or individuals with recognized spiritual competence; doctrine exists as shared narrative and practice, not codified belief; authority contested through performance, not office.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Exchange contact brings new symbolic forms and possibly new beliefs from the Balkans and Anatolia; syncretism likely as communities adopt and adapt; no evidence of displacement or missionary activity; the spiritual landscape is additive, absorbing rather than excluding.
+
+__Disenchantment & Sacred Discharge:__ No visible disenchantment; the cosmos remains enchanted, densely populated with spiritual meaning; the sacred need finds expression in daily and seasonal practice without erosion or void.
+

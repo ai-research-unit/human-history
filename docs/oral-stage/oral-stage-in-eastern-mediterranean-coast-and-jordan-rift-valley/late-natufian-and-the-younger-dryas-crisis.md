@@ -1,69 +1,140 @@
-# __11000 BCE – 9700 BCE__ — Late Natufian and the Younger Dryas Crisis
-__Summary:__ A long-term trend spanning roughly 1,300 years in the Levantine corridor during which the Younger Dryas climatic reversal (~12,900–11,700 BP) imposed severe cold and aridity on populations that had achieved sedentary village life in the preceding Early Natufian; the binding constraint is the collapse of wild cereal productivity under drought stress, forcing settlement dispersal, increased residential mobility, and dietary reorientation toward meat; system margin against subsistence shock has narrowed sharply relative to the preceding period, and the principal direction of change is a contraction of the sedentary village pattern with heightened nutritional stress, setting selective conditions that will drive the transition to cultivation once climate ameliorates.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Levantine corridor retains its north-south alignment between Mediterranean and interior steppe, with the Jordan Rift Valley, Galilee highlands, coastal plain, and Transjordanian plateau defining settlement and mobility zones; transit friction is low for foot travel across open terrain, though upland and escarpment edges channel movement.<br><br>
-__Climate Regime & Volatility:__ The Younger Dryas imposes a sharp reversal to colder, drier conditions after the preceding Bølling-Allerød warming; annual precipitation drops significantly, seasonal rainfall becomes more erratic, and interannual variability increases, narrowing the environmental band the subsistence system is provisioned for.<br><br>
-__Hazard Regime & Exposure:__ Drought is the dominant hazard; multi-year precipitation failures stress wild cereal stands and reduce water table recharge; seismic risk persists in the Rift zone but does not dominate the window; exposure to acute drought is high with minimal buffering.<br><br>
-__Resource & Energy Endowment:__ Wild cereal stands contract from their Early Natufian extent as aridity reduces suitable habitat; gazelle, wild goat, and small game remain present but population densities may fluctuate; lithic raw materials (flint, obsidian) remain accessible; endowment has tightened relative to preceding centuries.<br><br>
-__Waste Absorption & Sink Capacity:__ Human populations are small and dispersed; organic refuse, ash, and knapping debris are trivial relative to landscape absorptive capacity; no measurable degradation or sink pressure.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasites and enteric infections persist at background levels; no epidemic disease signatures in the skeletal record; mortality baseline is elevated relative to Early Natufian but remains dominated by nutritional stress rather than pathogen load.<br><br>
-__Nutrition & Physiological Vitality:__ Isotopic and skeletal evidence suggests dietary stress in some Late Natufian populations; stature may decline slightly; dental pathology shifts with reduced carbohydrate intake; physiological vitality is diminished compared to the sedentary Early Natufian.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and mating likely follow small-group norms; no direct evidence; physiological fertility probably constrained by nutritional stress, reducing effective reproductive output.<br><br>
-__Demographic Renewal & Density:__ Population density contracts as sites are abandoned or reduced; birth-to-death ratios likely near or below replacement in stressed communities; aggregate regional population declines from Early Natufian levels.<br><br>
-__Attrition & Dependency Overhang:__ Infant and child mortality rises under nutritional stress; elderly and infirm face heightened vulnerability; dependency load is managed through mobility and smaller group sizes, but the productive cohort is strained.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Wild cereal harvesting declines as stands contract; diet shifts toward greater reliance on hunted game (gazelle predominates) and gathered seeds, nuts, and roots; the population sits closer to the carrying-capacity edge than in the preceding period.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the sole power source; fire provides heat and cooking energy; efficiency of capture is constrained by reduced cereal availability and increased search time for dispersed resources.<br><br>
-__Labor Organization & Coercion:__ Labor is organized at household and band level; task division by age and sex; no evidence of coercive labor mobilization; cooperation is voluntary and kin-based.<br><br>
-__Production & Surplus Capacity:__ Surplus generation is minimal under drought stress; immediate-return foraging predominates over delayed-return storage strategies; surplus above daily subsistence is negligible.<br><br>
-__Storage, Reserves & Buffering:__ Storage facilities (pits) persist at some sites but are less elaborated than in Early Natufian; buffer depth is shallow; no evidence of multi-season reserves adequate to absorb prolonged drought.<br><br>
-__Exchange, Trade & Logistics:__ Exchange of shell ornaments (Mediterranean, Red Sea), obsidian, and greenstone continues on embedded reciprocal networks; no formal markets; logistics are foot-based with limited carrying capacity.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; value storage is embedded in durable ornaments and tool blanks; deferred reciprocity within kin and affinal networks provides the functional equivalent of credit.<br><br>
-__Surplus Extraction & Redistribution:__ No formal extraction apparatus; sharing of large kills and gathered resources follows immediate communal allocation norms; redistribution is ad hoc and kin-structured.<br><br>
-__Wealth Distribution & Asset Defense:__ Material differentiation is modest; portable wealth consists of ornaments and tools; no evidence of significant concentration or defensive strategies beyond personal retention.<br><br>
-__Byproducts & Waste Routing:__ Organic refuse, bone, ash, and lithic debitage are discarded locally; volumes are trivial and dispersed; no routing problem given low population density and high landscape absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius likely contracts with increased mobility and smaller group sizes; kin-based mutual aid remains operative but inter-group cooperation may decline relative to sedentary Early Natufian villages.<br><br>
-__Stratification, Status & Group Identity:__ Social differentiation, evident in Early Natufian burials, diminishes; material markers of status become less elaborate; group identity remains anchored in kinship and band affiliation.<br><br>
-__Kinship, Family & Inheritance:__ Kinship structures govern marriage, residence, and resource access; inheritance of portable goods and knowledge follows kin lines; no written rules, norms transmitted orally.<br><br>
-__Civic Association & Self-Organization:__ Band-level organization predominates; village-scale communal institutions of Early Natufian weaken as settlements disperse; self-organization is at household and extended-kin scale.<br><br>
-__Leisure, Play & Sociability:__ Festive gatherings, storytelling, and communal rituals persist but are less visible archaeologically; sociability is maintained within smaller mobile groups.<br><br>
-__Grievance Channels & Social Discharge:__ Interpersonal disputes are mediated through kin networks, group fission, or spatial avoidance; no formal adjudication; unresolved friction is discharged through mobility and band splitting.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is situational and personal; elders, skilled hunters, or ritual specialists may hold influence but not coercive power; leadership is diffuse and consensual.<br><br>
-__Succession & Power Transfer:__ No formal offices to transfer; influence accrues through demonstrated competence and shifts with circumstance; succession is not institutionalized.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derives from personal reputation, kinship seniority, and ritual knowledge; no elaborated political ideology; oral tradition sustains normative expectations.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination is face-to-face and ad hoc; institutional memory resides in oral tradition and senior individuals.<br><br>
-__Political Participation & Mobilization:__ Decision-making is participatory at band level; collective action emerges through consensus; no formal mobilization mechanisms.<br><br>
-__Geopolitical Position & External Relations:__ Bands interact through exchange, intermarriage, and occasional aggregation; no evidence of organized inter-group warfare; territorial boundaries are fluid.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive institutions; weapons (microliths, bone points) serve subsistence and personal defense; violence is interpersonal, not organized.<br><br>
-__Internal Order & Threat Environment:__ Disorder is low; interpersonal violence occurs but is not epidemic; predation by carnivores and intra-human conflict are background risks managed through group vigilance and mobility.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at the speed of human movement and voice; transmission radius is limited to face-to-face interaction and seasonal aggregations; reach extends across kin and exchange networks.<br><br>
-__Record, Storage & Persistence:__ No writing or external symbolic recording system; all information persists in living memory and oral transmission; knowledge survives only if spoken, remembered, and retaught; loss occurs with death or social disruption.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse is governed by oral norms, respect for elders, and taboos; no formal censorship; what can be said is shaped by tradition and social context.<br><br>
-__Reception, Attention & Amplification:__ Attention is focused on immediate survival concerns; amplification occurs through repetition in oral performance; no viral dynamics beyond person-to-person retelling.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission is subject to drift and loss; verification relies on consistency across multiple informants; noise accumulates over generations but load is manageable given small information volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Shared notions of fairness, reciprocity, and kinship obligation underwrite behavioral expectations; violations are judged against communal norms.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law or codification; behavioral rules are embedded in oral tradition, taboo, and custom; regulatory evolution is slow and informal.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are resolved through kin mediation, compensation, or avoidance; no third-party adjudicatory body; liability is collective (kin group) rather than individual.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy is high within kin-group constraints; rights are relational rather than absolute; compliance burden is embedded in daily social interaction.<br><br>
-__Impunity & Unredressed Wrong:__ Some wrongs go unredressed, especially where perpetrator and victim groups cannot reach settlement; residual grievance may persist or dissipate through avoidance; no formal mechanism clears the backlog.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Knowledge is practical and empirical; understanding of plant phenology, animal behavior, lithic properties, and seasonal cycles is transmitted orally; no formal theory distinct from embedded practice.<br><br>
-__Applied Knowledge & Technical Method:__ Lunate and microlithic production techniques persist; hafting, hide processing, plant processing (grinding stones) represent accumulated technical method; knowledge is transmitted through apprenticeship and demonstration.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education is informal and embedded in daily life; knowledge stock is held collectively in oral tradition; skill distribution is broad at basic level with specialization in tool-making and ritual.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge loss occurs with death of skilled practitioners and disruption of transmission; some techniques may atrophy as settlement patterns shift; error correction relies on practical feedback.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestral memory, and place-based identity are carried in oral tradition; collective identity anchored in kinship, territory, and shared experience of the landscape.<br><br>
-__Artistic Expression & Material Culture:__ Natufian artistic repertoire (bone and stone carvings, shell ornaments) continues but is less elaborate than Early Natufian; material culture reflects practical austerity under stress.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood is likely somber under subsistence pressure; risk aversion may increase; behavioral disposition shifts toward mobility and flexibility as sedentism proves unsustainable.<br><br>
-__Form Exhaustion & Meaning Decay:__ Some Early Natufian ceremonial elaboration (elaborate burials, decorative objects) diminishes, suggesting partial form exhaustion or loss of surplus capacity to sustain them; meaning may contract to core survival concerns.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic and totemistic worldviews likely persist; the human place in the cosmos is embedded in kinship with animals, plants, and landscape features; fatalism may increase under environmental stress.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Burial practices continue, though with less elaboration; possible animal-human ritual associations; sacred practice is enacted communally and orally transmitted.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal religious institutions; ritual specialists (shamans, elders) hold knowledge and authority but lack institutional structure; doctrine is oral and flexible.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual beliefs diffuse through inter-group contact and intermarriage; no evidence of displacement or sharp doctrinal competition; syncretism is the norm.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment in the modern sense; the sacred remains embedded in daily life; existential strain under climate stress may intensify rather than erode spiritual engagement.<br><br>
+# __11,000 BCE – 9,700 BCE__ — Late Natufian and the Younger Dryas Crisis
+
+__Summary:__ The Late Natufian represents a stress-test of early sedentism when the Younger Dryas cold-dry oscillation contracted the wild cereal stands that had anchored Early Natufian base camps; the binding constraint is climatic forcing—a thirteen-hundred-year cold reversal that shrank the resource base faster than oral tradition could transmit new adaptive strategies, forcing partial dispersal and renewed mobility across the Levantine corridor. Spoken language coordinates contraction, carries stories of the remembered abundance, and encodes the foraging knowledge that enables survival, yet memory alone cannot restore the vanished stands.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Levantine corridor retains its configuration—Mount Carmel caves, the Jordan Rift, the Galilee uplands—but its carrying capacity shrinks as cold and aridity push the Mediterranean woodland belt southward and downslope; the spatial arena is unchanged, but the productive patches within it contract.
+
+__Climate Regime & Volatility:__ The Younger Dryas (~12,900–11,700 BP calibrated, overlapping the Late Natufian window) reverses Bølling-Allerød warming: mean annual temperatures drop several degrees, effective moisture declines, and interannual volatility rises; the reliable seasonal regime that sustained Early Natufian settlement becomes unpredictable, and the warm-wet baseline does not return until the Early Holocene after 9,700 BCE.
+
+__Hazard Regime & Exposure:__ Drought frequency increases; frost risk extends into previously mild zones; flash-flood regimes intensify as vegetation cover thins; the hazard regime shifts from episodic to chronic, stressing food stores and fixed settlements alike.
+
+__Resource & Energy Endowment:__ Wild cereal stands (wild barley, emmer, einkorn) contract upslope and into refugia; the oak-pistachio parkland retreats; gazelle populations may shift ranges; the resource endowment that had permitted sedentism narrows, though it does not vanish—refugia persist in the Jordan Valley and Galilee.
+
+__Waste Absorption & Sink Capacity:__ Reduced biomass productivity slows organic decomposition; refuse middens at shrinking base camps accumulate more slowly; sink saturation is not a limiting factor, but the landscape's regenerative capacity declines with cooler temperatures.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Colder winters and periodic food shortage likely elevate mortality from exposure and malnutrition rather than novel pathogens; epidemic disease remains absent from the archaeological record, but baseline mortality edges upward as nutritional stress weakens immune function.
+
+__Nutrition & Physiological Vitality:__ Dental and skeletal evidence from Late Natufian burials at Eynan and Hayonim suggests declining stature and increased enamel hypoplasia relative to the Early Natufian, indicating nutritional stress during growth; vitality is compromised though not catastrophically.
+
+__Care, Healing & Recovery Capacity:__ Wound-tending and midwifery persist within kin groups; oral knowledge of medicinal plants survives; healing capacity contracts with group size but does not collapse—smaller bands may actually achieve higher per-capita care attention.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and kin-based mating continue; evidence suggests delayed marriage or reduced fertility under stress, as populations contract rather than expand during the cold phase; no selective pressure strong enough to alter physiological fertility operates at this timescale.
+
+__Demographic Renewal & Density:__ Population density declines from Early Natufian highs; some base camps are abandoned, others shrink; replacement ratios probably dip below unity in marginal zones while refugia maintain positive growth—overall Levantine population contracts but does not crash.
+
+__Attrition & Dependency Overhang:__ Smaller, more mobile bands shed dependent loads through higher mortality among the very young and very old; the dependency overhang lightens as groups streamline for mobility, a brutal but effective demographic adjustment.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The provisioning floor tightens: wild cereals that had filled storage pits in Early Natufian villages yield less; gazelle hunting intensifies to compensate; fallback foods (acorns, legumes, small game) re-enter the diet; households sit closer to the carrying-capacity edge than in the prior warm phase.
+
+__Energy Capture & Conversion:__ Human muscle and firewood remain the sole energy sources; firewood becomes scarcer as woodland retreats; caloric conversion efficiency declines as foraging radii expand and travel costs rise; the per-capita energy ceiling contracts.
+
+__Labor Organization & Coercion:__ Labor remains organized by kin and age-grade; no coercive extraction apparatus exists; task specialization by sex (hunting vs. plant processing) persists; the labor relation is cooperative and kin-embedded, not hierarchical.
+
+__Production & Surplus Capacity:__ Surplus capacity, which had permitted sedentism and cemetery elaboration in the Early Natufian, shrinks; storage pits hold less; reserve buffers thin; production operates closer to bare subsistence, with little margin for ritual or craft elaboration.
+
+__Storage, Reserves & Buffering:__ Granary and pit storage continue but hold smaller reserves; the buffering depth that had insulated Early Natufian villages against single bad years is insufficient for multi-year drought runs; inter-group reciprocity networks may tighten as a secondary buffer, but no formal insurance institution exists.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange of shells and obsidian continues at reduced volume; trade networks contract with population; no external dependence on a single route creates vulnerability, but the contraction of exchange signals economic stress.
+
+__Value Storage, Credit & Deferred Exchange:__ No monetary instrument exists; value is stored in personal ornaments, caches, and reciprocal obligation; "share now, owe later" obligations circulate within bands and between allied groups, but their reach shrinks with network contraction.
+
+__Surplus Extraction & Redistribution:__ No extractive authority exists; surplus redistribution is communal and kin-mediated; when surplus shrinks, redistribution reverts to immediate sharing with little deferred allocation—the window has no taxing apparatus to defend.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentration is minimal; burials still show status differentiation through ornament, but the differential narrows as overall wealth contracts; asset defense is unnecessary where portable property is limited.
+
+__Byproducts & Waste Routing:__ Waste output declines with population and production; middens shrink; no industrial effluent exists; the waste load the period throws off is absorbed without sink stress.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral or matrilineal kin reckoning (inferred from cemetery clustering) continues; inheritance of knowledge, ornament, and territory follows kin lines; the slow scaffold of family structure does not change under Younger Dryas stress, though the units it produces are smaller.
+
+__Association & Mutual Aid:__ Inter-band alliances, cemented by marriage exchange and gift-giving, remain the mutual-aid fabric; bands that disperse maintain ties to core-area groups; reciprocity networks stretch but do not snap, enabling recolonization when conditions improve.
+
+__Leisure, Play & Sociability:__ Aggregation sites (large cemeteries, communal structures) shrink or are abandoned; feasting events become rarer; sociability contracts to the band scale; the festive infrastructure of the Early Natufian atrophies without being replaced.
+
+__Stratification, Status & Group Structure:__ Status differentiation, visible in burial goods and position, persists but narrows; no hereditary office or caste exists; group structure remains fluid, with bands fissioning and fusing as conditions dictate; the boundaries between groups are permeable.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration exists; decision-making is consensual and elder-led; oral tradition encodes precedent and territorial knowledge; the administrative function is embedded in senior kin, not an office.
+
+__Coercive Apparatus & Means of Force:__ No standing warrior class or fortification exists; violence is interpersonal or small-scale raid; weaponry (microliths, bone points) serves hunting and opportunistic conflict; relative balance among bands prevents dominance.
+
+__Discharge, Disorder & Decay:__ Abandonment of base camps represents the discharge of accumulated stress; disorder manifests as population dispersal, not internal violence; no apparatus exists to decay—the period's residue is spatial contraction, not institutional collapse.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Anxiety and uncertainty pervade the surviving groups; oral memory of Early Natufian abundance ("the time when cereals filled the stores") sharpens the sense of loss; trust remains high within kin groups but darkens regarding external conditions.
+
+__Leadership & Personal Authority:__ Big-men or senior elders lead by reputation and wisdom; no office formalizes authority; the leaders who guide dispersal or counsel persistence earn allegiance through competence, not inheritance—charisma fluctuates with results.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy attaches to kin seniority and demonstrated skill; no ideological apparatus legitimates rule; allegiance is personal and revocable; disaffection expresses itself through fission rather than rebellion.
+
+__Political Will & Collective Resolve:__ Collective resolve is tested by the need to abandon ancestral sites; some groups persist in refugia, others disperse into mobile foraging; the contest over direction ("stay or go") is resolved band by band, not by unified command.
+
+__External Relations & Posture:__ Inter-band relations remain cooperative-competitive; no external power threatens the Levant; the posture is defensive only against environmental stress, not rival polities; expansion appetite is nil—survival dominates.
+
+__Disaffection, Apathy & Spent Will:__ The abandonment of cemeteries and monuments signals not apathy but pragmatic retreat; spent will manifests as resignation to mobility rather than active despair; the affective residue is melancholy for lost sedentism, partially re-anchored by stories of return.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language, fully grammaticized, enables shared planning, historical memory, and adaptive transmission; no literacy exists; mutual intelligibility extends across the Levantine dialect continuum, widening rather than fragmenting as bands interact in refugia.
+
+__Channels & Transmission Velocity:__ Oral channels reach only as far as voice and memory carry; transmission velocity is foot-speed; aggregation events where news and knowledge circulate become rarer as populations disperse—information slows.
+
+__Record, Storage & Persistence:__ Memory is the sole record; senior elders carry knowledge of territory, technique, and precedent; death of a knowledge-holder can erase irreplaceable data—transmission depends on apprenticeship and recitation, both disrupted by dispersal.
+
+__Framing, Censorship & Discourse Norms:__ No formal censorship exists; discourse norms enforce respect for elders and prudence in speech; the permitted band is wide but shaped by kin hierarchy; no narrowing or widening occurs under stress—norms persist.
+
+__Reception, Attention & Amplification:__ Oral performance (story, song, teaching) commands attention within the band; amplification depends on retelling; under dispersal, some stories are lost when small groups split from the network—reception shrinks with audience.
+
+__Signal Integrity & Noise Load:__ The oral channel is vulnerable to drift, misremembering, and loss; no verification mechanism exists beyond cross-checking among elders; signal integrity declines with each generation cut off from the core; the noise residue is cumulative loss.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity, kin obligation, and respect for the dead anchor the moral baseline; justice is restorative and kin-mediated; the sense of fairness persists through stress, channeling sharing behavior even when resources are scarce.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; taboos and custom are transmitted orally; the regulatory code is stable across the window, neither expanding nor contracting—custom persists because change is remembered as loss.
+
+__Adjudication, Liability & Sanction:__ Disputes are settled by elder mediation or kin arbitration; liability attaches to kin groups; sanction ranges from shaming to expulsion; no caseload backlog accumulates—disputes are immediate and personal.
+
+__Rights, Protections & Compliance Burden:__ Rights are embedded in kin status; no formal protections exist; compliance burden is low because rules are few and internalized; the system imposes minimal drag on daily conduct.
+
+__Impunity & Unredressed Wrong:__ Small-scale societies clear grievance quickly; impunity is limited by proximity and kin pressure; the gap between justice owed and delivered is narrow—unredressed wrong does not accumulate as a standing deficit.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry exists; the reigning paradigm is animist-practical: the world is inhabited by spirits, and knowledge is empirical recipe (how to knap, harvest, hunt) rather than abstract theory; no discovery frontier advances during the crisis.
+
+__Applied Knowledge & Technical Method:__ Microlithic technology persists; sickle-blade hafting, grinding-stone use, and bone-tool manufacture continue unchanged; no new technique emerges under Younger Dryas stress—the method is conserved, not innovated.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmits by demonstration and oral instruction; literacy is absent; skill is widely distributed but concentrated in elders; the stock is at risk when elders die in small, isolated bands—dispersal threatens the skill base.
+
+__Obsolescence & Knowledge Decay:__ No theory is superseded, but practical knowledge (location of stands, seasonal timing) becomes obsolete as climate shifts the resource map; the rate of knowledge loss accelerates when bands move beyond their cognitive territory; error accumulates where memory fails.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin narratives and ancestral memory anchor identity to place; the cemeteries of Eynan and El-Wad encode genealogical depth; forced dispersal strains but does not sever the link—bands carry their ancestors in story even when they leave the graves behind.
+
+__Legitimating Narrative & Ideology:__ No state-level ideology exists; legitimating narrative is genealogical ("we are the descendants of...") and territorial ("this is our land"); stress may sharpen ethnic identity as groups compete for refugia—the narrative of belonging intensifies.
+
+__Artistic Expression & Material Culture:__ Natufian art (limestone figurines, bone carvings, dentalium ornaments) persists but production declines; the style survives into the Late Natufian without major innovation; material culture contracts in volume, not kind.
+
+__Form Exhaustion & Meaning Decay:__ Symbolic forms (mortuary ritual, ornament codes) retain meaning; no hollowing into cliché occurs—the crisis is too short and too recent for anomie; cultural forms are defended, not abandoned.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ An animist cosmology places humans within a world of spirits, ancestors, and forces; the outlook shifts toward fatalism under climatic stress—the spirits are displeased, or the world is changing beyond human control; piety intensifies as petition.
+
+__Ritual, Devotion & Sacred Practice:__ Mortuary ritual continues (burials with grave goods, skull removal at some sites); communal ritual may simplify as aggregation declines; daily devotion is private and familial—the infrastructure of the sacred shrinks with the group.
+
+__Religious Institutions & Doctrinal Authority:__ No clerical hierarchy or institution exists; spiritual authority attaches to shamans or elders; doctrine is oral and flexible; no consolidation or fracturing occurs—authority remains personal and local.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No rival cosmology competes; the animist-ancestor complex is ubiquitous across the Levant; diffusion is lateral (shared between bands), not vertical (imposed by conquest); no displacement occurs.
+
+__Disenchantment & Sacred Discharge:__ No secularizing drift operates; the sacred remains vital as groups petition spirits for relief; the existential void is not yet a cultural fact—disenchantment awaits a modernity that does not exist; the residue is doubt, not void, and doubt is re-anchored in renewed ritual.
+

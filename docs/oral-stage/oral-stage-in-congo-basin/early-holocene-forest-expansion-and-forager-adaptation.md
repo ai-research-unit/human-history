@@ -1,69 +1,140 @@
-# __12000 BCE – 4000 BCE__ — Early Holocene Forest Expansion and Forager Adaptation
-__Summary:__ The African Humid Period drives rainforest re-expansion from glacial refugia to near-modern extent across the Congo Basin between roughly 12000 and 4000 BCE. Forest-adapted forager populations — ancestral to modern Aka, Mbuti, Baka, and Twa — expand with the forest edge, developing highly specialized net-hunting, honey-collecting, and tuber-processing subsistence systems. The binding constraint is the rainforest itself: its vertical structure and dispersed, low-density resources demand small, mobile bands with intimate environmental knowledge. Archaeological evidence remains thin due to acidic soils, but Matupi Cave's upper levels and forest-margin sites like Shum Laka provide dated sequences; genetic data confirms continuous occupation. The system holds ample margin against environmental shocks within its carrying capacity but is structurally incapable of generating stored surplus or fixed settlement. Direction of change is expansive: populations spreading into newly forested terrain while refining their adaptation to closed-canopy conditions.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Congo River drainage basin — roughly 3.7 million square kilometers — fills with closed-canopy rainforest as the Holocene progresses, with travel friction extremely high: no open corridors, movement channeled along rivers and ridgelines, dense undergrowth impeding overland transit.<br><br>
-__Climate Regime & Volatility:__ The African Humid Period delivers elevated rainfall (up to 1500–2000 mm annually) and reduced seasonality across the basin; interannual variability low compared to savanna margins; secular drift is toward wetter, warmer, and more stable conditions until mid-Holocene drying begins around 4000 BCE.<br><br>
-__Hazard Regime & Exposure:__ Acute hazards minimal: no seismic or volcanic activity in basin core, flooding periodic but predictable along major rivers, wildfire suppressed by moisture; forager mobility provides inherent shock absorption, and exposure remains well within adaptive capacity.<br><br>
-__Resource & Energy Endowment:__ Forest yields dispersed but renewable resources — game (duikers, forest elephants, primates), honey, tubers (wild yams), nuts, and fruits — with no concentrated mineral or energy stocks exploited; the standing stock renews seasonally, and drawdown remains negligible relative to regeneration.<br><br>
-__Waste Absorption & Sink Capacity:__ Negligible waste load: small bands produce minimal organic refuse, which decomposes rapidly in the warm, moist forest floor; absorptive capacity effectively unlimited and no degradation evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tropical diseases (malaria, trypanosomiasis, intestinal parasites) impose elevated background mortality, but forager mobility, low population density, and genetic adaptation limit epidemic amplification; mortality remains within renewal capacity.<br><br>
-__Nutrition & Physiological Vitality:__ Diet diversified across dozens of species and food types; protein from game adequate though fat scarce; seasonal nutritional stress possible but buffered by mobility and knowledge of fallback foods; stature and robustness appear adequate based on later skeletal and ethnographic evidence.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Extended interbirth intervals (four to five years) typical of forest foragers, likely maintained through prolonged lactation and low body-fat reserves; pair-bonding flexible within small-band structures; reproductive rate low but matched to carrying capacity.<br><br>
-__Demographic Renewal & Density:__ Population density extremely low — perhaps 0.1–0.5 persons per square kilometer — with births roughly matching deaths and slow net growth as forest expands; age structure young but replacement rate only marginally positive.<br><br>
-__Attrition & Dependency Overhang:__ Dependent burden (orphaned, elderly, disabled) absorbed within band reciprocity structures; high adult mortality means few live to advanced age, and dependent load remains well within productive capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Immediate-return foraging: daily harvest of meat, tubers, honey, and gathered plant foods with no accumulated surplus; household pooling distributes catch across band members; provisioning floor adequate in normal conditions, vulnerable to localized scarcity addressed by mobility.<br><br>
-__Energy Capture & Conversion:__ Human muscle is the sole prime mover, supplemented by fire for cooking and light; energy conversion efficiency constrained by tool limits and dispersed resource distribution; per-capita work ceiling low but sufficient for subsistence needs.<br><br>
-__Labor Organization & Coercion:__ Division by gender and age — men hunt large game, women gather and process plant foods, both participate in net-hunting drives — with no coerced labor; task allocation governed by skill and reciprocal expectation.<br><br>
-__Production & Surplus Capacity:__ No durable surplus: perishable forest foods cannot be stored beyond a few days without spoilage; production matches immediate consumption with negligible margin above subsistence.<br><br>
-__Storage, Reserves & Buffering:__ Effectively no storage: no granaries, caches, or preserved foods; buffering against shortage relies on mobility (relocating to better-provisioned areas) and social networks (sharing with other bands), not accumulated reserves.<br><br>
-__Exchange, Trade & Logistics:__ Intra-band sharing governed by demand-sharing norms; inter-band exchange limited to occasional visits, mate exchange, and information transfer; no market structures, minimal long-distance trade, logistics bounded by portability.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No formal medium of stored value; deferred reciprocity operates informally — favors and shares owed are remembered and repaid over time through ongoing social relationships, not tokens or accounting.<br><br>
-__Surplus Extraction & Redistribution:__ No coordinating authority extracts surplus; distribution occurs through egalitarian sharing norms, with successful hunters expected to share meat broadly rather than accumulate differential wealth.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentration negligible: portable personal property (tools, ornaments) is the only individual asset; egalitarian norms actively suppress accumulation through demand-sharing and ridicule of boasting.<br><br>
-__Byproducts & Waste Routing:__ Organic waste (bones, plant matter, ash) left at camp sites and rapidly decomposed; no toxic byproducts or persistent refuse; waste load trivial relative to forest absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High interpersonal trust within the band, sustained by face-to-face interaction and enforced reciprocity; mutual aid extends to related bands through kinship ties; radius of trust narrow but dense and reliable.<br><br>
-__Stratification, Status & Group Identity:__ Minimal stratification: age and skill confer respect but not command; no hereditary ranks or castes; group identity defined by band membership and kin network, with fluid band composition allowing movement between groups.<br><br>
-__Kinship, Family & Inheritance:__ Bilateral kinship reckoning common among forest foragers; flexible residence patterns (some patrilocal, some matrilocal); inheritance negligible given lack of accumulated property; marriage alliances link bands.<br><br>
-__Civic Association & Self-Organization:__ The band itself is the primary associational unit (typically 20–50 individuals); decision-making consensual, with no permanent leadership; camps and bands fission and fuse seasonally.<br><br>
-__Leisure, Play & Sociability:__ Evening hours devoted to storytelling, singing, and dance; communal activities reinforce social bonds and transmit knowledge; leisure integrated with daily life rather than segregated.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes resolved through discussion, ridicule, temporary avoidance, or fission (aggrieved parties relocating to another band); no adjudicatory body, but the social cost of unresolved conflict is high in a face-to-face community, incentivizing resolution; residual grievance absorbed rather than accumulated.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous: no formalized leadership positions, no chiefs or headmen with binding authority; influence accrues to skilled hunters and knowledgeable elders but cannot be compelled; decision-making distributed and consensual.<br><br>
-__Succession & Power Transfer:__ No offices to transfer; influence dies with the individual; leadership in specific contexts (hunts, rituals) is situational and based on recognized competence, not hereditary or appointive succession.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on demonstrated competence and generosity; no formal ideology justifies authority because no enduring authority requires justification; oral traditions validate egalitarian norms rather than hierarchy.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus: no taxation, no record-keeping, no coordinated enforcement beyond the band level; institutional capacity is the band's collective memory and consensus process, which suffices for group sizes of 20–50.<br><br>
-__Political Participation & Mobilization:__ All adults participate in band decisions through discussion; no factions or parties; dissent expressed through voice or exit (leaving the band); mobilization for collective action (hunts, relocations) achieved through persuasion.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations generally peaceful, mediated by kinship and intermarriage; no territorial boundaries defended by force; competition for resources low given low population density; external threats negligible.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military or police; all adult males possess hunting weapons (spears, bows, nets) usable for defense; violence rare and typically interpersonal rather than organized; no fortifications.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder minimal: conflicts over mates or resources occasionally escalate to violence but are contained by fission and social pressure; no banditry, rebellion, or predation beyond occasional individual disputes.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Voice and gesture are the sole transmission channels; information travels at walking speed between bands; range limited by auditory contact within the camp; inter-band transmission occurs at seasonal gatherings or through visiting individuals.<br><br>
-__Record, Storage & Persistence:__ Living memory alone preserves information; no writing, no durable inscriptions; persistence depends on oral transmission from elders to youth; knowledge lost when transmission chains break; retrieval is social (asking the knowledgeable person), not archival.<br><br>
-__Framing, Censorship & Discourse Norms:__ No formal censorship; discourse norms discourage boasting and encourage sharing of knowledge; taboo subjects (sacred rituals, certain names) exist but are socially rather than institutionally enforced.<br><br>
-__Reception, Attention & Amplification:__ Audience size limited to the band; attention sustained through narrative skill and social interest; stories and songs circulate through repetition at gatherings; amplification is purely social, through retelling.<br><br>
-__Signal Integrity & Noise Load:__ Low noise: face-to-face communication allows immediate clarification; verification is social (consulting the recognized expert); information volume small, managed easily within oral capacity; no accumulation of obsolete or contradictory data.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Strong egalitarian ethic: sharing is obligatory, accumulation suspect, violence within the band wrong; fairness understood as reciprocity and proportionality; supernatural sanctions believed to enforce moral violations.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law or codification; binding norms transmitted orally as custom, myth, and taboo; regulatory evolution slow and embedded in oral tradition.<br><br>
-__Adjudication, Enforcement & Liability:__ No courts or adjudicatory bodies; disputes mediated by elders or resolved through band consensus; enforcement is social (ridicule, ostracism, withdrawal of cooperation) rather than coercive; liability assigned through communal judgment.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy high within egalitarian norms; no formal rights structure but strong customary protections against violence and theft; compliance burden light — norms are internalized through socialization, not imposed by external authority.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity rare: the community observes all conduct, and social sanctions are difficult to escape; persistent wrongdoers may be expelled or killed; backlog of unredressed wrongs minimal in small-scale face-to-face society.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry separate from practical knowledge; explanatory paradigm animist and relational, attributing agency to forest spirits, animals, and ancestors; understanding embedded in myth and ritual rather than systematic theory.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated ethnoecological knowledge: detailed understanding of hundreds of plant and animal species, their behavior, seasonality, and uses; hunting techniques (net drives, bow hunting, trapping) refined over millennia; fire management, tuber processing, honey extraction all mastered.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally through apprenticeship and participation; no formal schooling; skill distribution broad — all adults competent in basic subsistence techniques, specialists in ritual knowledge; stock stable and slowly accumulating.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge loss occurs when transmission chains break (death of specialists without apprentices), but the system is stable and decay rate low; no recorded obsolete theory to clear; error corrected through practical failure and communal memory.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Identity rooted in the forest itself — origin stories locate the people as forest creatures, distinct from outsiders; ancestral memory transmitted through song and story; no traumatic ruptures in collective memory during this window.<br><br>
-__Artistic Expression & Material Culture:__ Material culture sparse and portable: woven baskets, bark cloth, wooden implements, bone tools, body decoration; no monumental art; aesthetic expression channeled into music, dance, and ephemeral body painting.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood generally confident and present-oriented; risk perception calibrated to familiar forest hazards; behavioral disposition toward cooperation, flexibility, and mobility; no evidence of collective anxiety or despair.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms renewed through continuous practice and oral transmission; no fixed canon to exhaust; ritual and myth remain living traditions with no evidence of hollowing during this window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist cosmology: the forest is alive with spirits (of animals, trees, ancestors, and the forest itself); humans exist in reciprocal relationship with these beings; existential outlook integrated rather than anxious, with death understood as transformation rather than annihilation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily and seasonal rituals mark transitions (first kills, initiations, funerals) and maintain relationships with forest spirits; molimo-type ceremonies (attested ethnographically for Mbuti) likely have deep roots; sacred practice embedded in collective life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No clerical hierarchy or formal doctrine; ritual knowledge held by recognized specialists (elders, diviners) but authority personal rather than institutional; no temples or sacred structures beyond forest locations.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Belief system stable within forest populations; no significant external challenge or syncretism during this window; slow internal evolution but no displacement or fracturing.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment: the forest-spirit cosmology remains vibrant and functional; the sacred fully integrated into daily life with no secularizing drift or existential void.<br><br>
+# __12,000 BCE – 4,000 BCE__ — Early Holocene Forest Expansion and Forager Adaptation
+
+__Summary:__ The Congo Basin during the eight millennia following the last glacial maximum, as warming climate restored the tropical rainforest to its fullest Holocene extent and indigenous forager populations expanded from Pleistocene refugia across the recovered canopy. The binding constraint is the oral substrate: all ecological knowledge, movement routes, food-plant locations, medicinal lore, and kinship reckoning passed through speech and memory alone, with no external record to outlast a generation's remembering. The central driver is climate amelioration unlocking habitat that glacial aridity had closed, permitting population dispersal through forest corridors that speech alone could map and transmit.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Congo Basin's central cuvette and surrounding uplands lay beneath recovering forest canopy as post-glacial warming reversed the savanna incursion of the Last Glacial Maximum. Gallery forests along the Congo, Ubangi, and Sangha rivers served as movement corridors; interfluves remained harder to traverse until canopy closure reduced ground-level tangle. Swamp forest in the cuvette remained difficult terrain year-round.
+
+__Climate Regime & Volatility:__ The African Humid Period brought elevated rainfall and reduced seasonality to the Basin, reaching peak moisture around 8,000–6,000 BCE before gradual drying set in after 4,000 BCE. Interannual variability was lower than in glacial times; the climate envelope widened to favor closed-canopy rainforest at its maximum Holocene extent.
+
+__Hazard Regime & Exposure:__ Flood pulses along the Congo and its tributaries posed seasonal risk to riparian camps, but catastrophic drought or fire incursion into core forest was rare during this moist interval. Volcanic hazards along the Albertine Rift remained geographically peripheral.
+
+__Resource & Energy Endowment:__ Expanding forest increased the availability of fruiting trees, honey, tubers, and game. Rivers teemed with fish. The endowment was diffuse rather than concentrated: calories were scattered across the canopy and forest floor, rewarding mobility and fine-grained ecological knowledge held in oral tradition.
+
+__Waste Absorption & Sink Capacity:__ Human population density was low; waste loads were negligible. Organic refuse decomposed rapidly in tropical heat and humidity. No sink saturation occurred; the forest absorbed all human discharge without measurable feedback.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria, trypanosomiasis, and gastrointestinal parasites imposed a steady attrition. Mortality was highest in infancy and early childhood; adults who survived childhood disease burden carried partial immunity. Epidemic potential was limited by low population density and dispersed settlement.
+
+__Nutrition & Physiological Vitality:__ Mixed forest diet—wild yams, nuts, honey, game, fish—provided adequate protein, fat, and micronutrients when available. Seasonal scarcity, especially during low-fruiting months, thinned caloric intake. Stature among forest foragers was small, an adaptation to heat dissipation and dense-canopy mobility, not malnutrition per se.
+
+__Care, Healing & Recovery Capacity:__ Knowledge of medicinal plants, wound treatment, and midwifery circulated orally through kinship networks. Specialist healers, where they existed, held their pharmacopoeia in memory. Care was kin-based; isolated individuals who fell ill far from camp faced high mortality.
+
+__Reproductive Biology & Pairing Dynamics:__ Extended lactation and high child-carrying costs spaced births; total fertility was moderate. Pair-bonding was flexible, with band exogamy maintaining genetic diversity. Forager demographic structure favored slow, steady growth rather than rapid expansion.
+
+__Demographic Renewal & Density:__ Population grew slowly as forest habitat expanded, spreading from Pleistocene refugia into newly viable territory. Density remained very low—perhaps one person per ten square kilometers in core forest—with higher concentrations along productive river margins.
+
+__Attrition & Dependency Overhang:__ High childhood mortality kept dependency ratios manageable. Elders who could no longer keep pace with mobile camps faced difficult choices; some were left behind or supported by kin at cost to group mobility. The dependency load was light but never zero.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Immediate-return foraging provided the subsistence base: daily collection of tubers, fruits, nuts, honey, and small game, supplemented by larger hunts and fishing. Households pooled food; surplus beyond a day or two was rare and not storable.
+
+__Energy Capture & Conversion:__ Human muscle was the sole energy source. Fire was controlled for cooking, smoking meat, and occasional forest clearing, but the per-capita work ceiling remained low—sufficient for mobility and camp maintenance, not for surplus accumulation.
+
+__Labor Organization & Coercion:__ Division of labor followed age and sex lines: women gathered plant foods and small game; men hunted larger game and collected honey from high trees. Coercion was minimal; sharing norms enforced by reputation and exclusion governed labor allocation.
+
+__Production & Surplus Capacity:__ No surplus was produced or stored in significant quantity. The economy was egalitarian by structure: no granary, no wealth accumulation, no extraction beyond what sharing norms distributed. Production matched consumption with little lag.
+
+__Storage, Reserves & Buffering:__ Meat could be smoked for a few days; honey stored briefly. Otherwise, the forest itself was the reserve—knowledge of fallback foods and alternative hunting grounds, held orally, buffered against local scarcity.
+
+__Exchange, Trade & Logistics:__ Exchange was local and relational: gifts of meat, tools, or ornaments circulated among kin and affines. No long-distance trade networks penetrated the deep forest in this period; external goods were absent or negligible.
+
+__Value Storage, Credit & Deferred Exchange:__ Value was stored in reciprocal obligation, not objects. The gift given today created a claim on the recipient's future surplus. These obligations were tracked orally—remembered debts and credits maintained through speech.
+
+__Surplus Extraction & Redistribution:__ No extraction apparatus existed. Big-game kills were distributed according to oral custom: the hunter, the owner of the weapon, the tracker, and kin all held recognized shares. Redistribution was immediate and face-to-face.
+
+__Wealth Distribution & Asset Defense:__ Material wealth was nearly absent; portable tools and ornaments constituted personal property. Land was not owned; territory was known and defended through oral memory of boundaries and seasonal movements.
+
+__Byproducts & Waste Routing:__ Organic waste was left at camp and decomposed. No toxic byproducts were generated; no routing decision was required. The material economy left no lasting imprint on the landscape.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral kinship with band exogamy structured social relations. Marriage was arranged through kin negotiation, sealed by oral agreement and gift exchange. Inheritance was minimal—knowledge and reputation passed to survivors, not property.
+
+__Association & Mutual Aid:__ The band (25–50 individuals) was the primary unit of cooperation. Inter-band gatherings for ceremony and mate exchange occurred seasonally. Mutual aid was kin-based; strangers could be incorporated through fictive kinship established orally.
+
+__Leisure, Play & Sociability:__ Camp life included singing, storytelling, and dance, often at night around the fire. Play was integrated with learning: children imitated adult foraging and hunting. Festive gatherings brought multiple bands together for celebration and courtship.
+
+__Stratification, Status & Group Structure:__ Stratification was minimal. Status accrued to skilled hunters, eloquent speakers, and effective healers, but hierarchy was weak and reversible. No hereditary rank existed. Age and proven competence commanded respect, not coercive power.
+
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus existed. Leadership was situational: a skilled hunter led the hunt, an elder mediated disputes. Decisions were made by discussion until consensus emerged. No office, no bureaucracy, no external relations beyond neighboring bands.
+
+__Coercive Apparatus & Means of Force:__ No organized coercive force existed. Conflict was resolved through avoidance, mediation, or fission—aggrieved parties could leave and join another band. Weapons were hunting tools; lethal violence was rare and personally, not institutionally, motivated.
+
+__Discharge, Disorder & Decay:__ Social friction was discharged through mobility: camps moved, band composition shifted, disputes dissolved through separation. Grievance rarely accumulated because exit was easy. Disorder was episodic—a quarrel, a theft—not systemic.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Camp life was intimate; mood was shared. Trust within the band was high; suspicion attached to strangers and neighboring bands with whom conflict had occurred. The temper was cautious and cooperative, shaped by mutual dependence in the forest.
+
+__Leadership & Personal Authority:__ Authority rested on demonstrated skill and persuasion. The best hunter's voice carried weight in planning the hunt; the elder's in settling disputes. Authority was situational and revocable—no permanent leader commanded obedience.
+
+__Legitimacy as Lived Allegiance:__ Allegiance was to kin and band, not to an abstract order. The band held together because its members chose to stay; legitimacy was relational and continuously renegotiated through sharing, speech, and presence.
+
+__Political Will & Collective Resolve:__ Collective action—a major hunt, a camp move, a response to threat—required consensus built through discussion. Will was weak in the aggregate; the band could not compel members, only persuade or ostracize them.
+
+__External Relations & Posture:__ Relations with other bands were wary but not hostile. Seasonal gatherings permitted alliance-building and mate exchange. External posture was defensive: avoid conflict, retreat if threatened, fight only when cornered.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection expressed itself through departure. An individual or family unhappy with the band simply left to join relatives elsewhere. Apathy was rare; survival required active participation. Spent will was a personal, not collective, condition.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language was universal within the band; neighboring bands often shared mutually intelligible dialects. Communication was face-to-face; the deaf and mute were marginalized or excluded. No written or symbolic code extended the reach of speech.
+
+__Channels & Transmission Velocity:__ News traveled at the speed of walking. Drum signals and long-distance calls transmitted simple messages across forest distances; complex information required in-person speech. Transmission was slow and spatially limited.
+
+__Record, Storage & Persistence:__ All record was oral: genealogy, territorial knowledge, ritual, medicinal lore. Memory was the only archive. Knowledge persisted only as long as living speakers remembered and transmitted it; unspoken, it was lost.
+
+__Framing, Censorship & Discourse Norms:__ Speech was governed by etiquette: respect for elders, avoidance of taboo topics, circumlocution around death and danger. Censorship was social, not institutional—gossip and ridicule enforced norms. The permitted band of discourse was wide but not unlimited.
+
+__Reception, Attention & Amplification:__ Attention was personal; stories and news circulated through retelling. Amplification was linear—one speaker to a few listeners, who might retell to others. No mechanism for mass broadcast existed.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduced drift: each retelling could alter detail. Error correction relied on multiple independent transmissions and collective memory. Noise accumulated slowly; catastrophic loss occurred when too few speakers survived.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice was restorative and relational. Harm required compensation or reconciliation; unpunished wrong festered and could split the band. Fairness in sharing was fundamental—hoarding was the cardinal sin.
+
+__Law, Codification & Regulatory Evolution:__ No written law existed. Custom was orally transmitted and enforced through consensus. Rules governing marriage, hunting rights, and taboo were stable across generations but never codified.
+
+__Adjudication, Liability & Sanction:__ Disputes were mediated by elders or resolved through discussion. Sanction ranged from ridicule to ostracism to, in extreme cases, expulsion or execution. Liability was personal; kin might share the burden of compensation.
+
+__Rights, Protections & Compliance Burden:__ Rights were embedded in kinship and reciprocity, not abstract entitlement. Protection depended on kin networks; the unconnected were vulnerable. Compliance with sharing norms was constant but not burdensome—it was simply how one lived.
+
+__Impunity & Unredressed Wrong:__ Impunity was difficult in a small band where everyone knew everyone. Persistent wrongdoers were expelled. Unredressed wrong accumulated as grievance and eventually forced fission or violence. The system cleared most disputes but could not absorb serial transgression.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of the natural world was empirical and animist: observed regularities were attributed to spirits, ancestors, and the inherent agency of forest beings. Theory was embedded in myth, not abstracted into propositions.
+
+__Applied Knowledge & Technical Method:__ Botanical, zoological, and ecological knowledge was extensive and practically oriented: which plants were edible, medicinal, or poisonous; animal behavior and tracking; seasonal resource availability. Technique was refined over generations and transmitted orally.
+
+__Education, Knowledge Stock & Skill Distribution:__ Learning was experiential and lifelong. Children learned by watching and doing; specialized knowledge (healing, ritual) passed from elder to apprentice. The knowledge stock was distributed across the band; no individual held all of it.
+
+__Obsolescence & Knowledge Decay:__ Knowledge decayed when transmission failed—when an elder died before teaching, when a band dispersed, when a dialect went extinct. The slow pace of change meant obsolescence was rare; loss through broken transmission was the greater risk.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity was rooted in the forest: origin myths told of ancestral emergence from trees, rivers, or the forest floor. The forest was not merely habitat but home, kin, and cosmos. Memory reached back only as far as oral genealogy could carry.
+
+__Legitimating Narrative & Ideology:__ No ideology of rule existed because no rule required legitimation. The order was the band, and the band justified itself through kinship and survival. Narrative authority attached to elders and skilled performers, not to offices.
+
+__Artistic Expression & Material Culture:__ Material culture was portable and functional: bark-cloth, woven baskets, wooden and bone tools, body paint, and ornament. Artistic expression flourished in ephemeral forms—song, dance, storytelling—rather than durable objects.
+
+__Form Exhaustion & Meaning Decay:__ Cultural forms were stable and slowly evolving. Exhaustion was rare; the small scale of society and the integration of culture with daily life kept forms vital. Loss occurred through population decline and broken transmission, not through repetition into cliche.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The forest was ensouled: trees, animals, rivers, and ancestors inhabited a continuous spiritual landscape. Human life was embedded in a web of obligations to non-human persons. Death was not extinction but transition to ancestral presence.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual accompanied hunting, gathering, birth, death, and initiation. Daily devotion was woven into routine: offerings to spirits, observance of taboo, invocations before hunting. The sacred was immanent, not set apart.
+
+__Religious Institutions & Doctrinal Authority:__ No institution held religious authority. Ritual specialists—healers, diviners—held personal knowledge and charisma, not office. Doctrine was oral and localized; orthodoxy was enforced by tradition, not hierarchy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual practice was localized and stable. Diffusion occurred through inter-band contact and marriage; syncretism was gradual and unforced. No external cosmology displaced indigenous belief in this period.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment was unknown. The forest remained alive and responsive to human action. The sacred answered daily; no existential void opened. The spiritual residue was not disenchantment but the ordinary maintenance of relation with the unseen.
+

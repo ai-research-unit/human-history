@@ -1,69 +1,139 @@
-# __2016 CE – 2020 CE__ — Brexit Information War and Platform Accountability
-__Summary:__ The June 2016 EU referendum and its aftermath expose the British Isles' information environment to sustained stress as targeted advertising, algorithmic amplification, and data-harvesting techniques become matters of parliamentary inquiry and public concern; the binding constraint is the structural mismatch between national regulatory capacity and transnational platform power, leaving accountability mechanisms inadequate to the scale of information manipulation revealed; the system absorbs the shock of democratic disruption but accumulates unresolved questions about consent, truth, and legitimacy; the trajectory is toward demands for platform regulation amid deepening partisan polarization.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Geography unchanged; Irish border gains acute political salience as Brexit negotiations expose the friction any customs regime would reintroduce; Channel crossing infrastructure adequate but future access uncertain; physical interconnection with continental Europe politically contested.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime regime continuing; climate change awareness rising with youth mobilization 2019; extreme weather events including heatwaves 2018–2019 and flooding increasing public concern; secular warming trend acknowledged in policy commitments.<br><br>
-__Hazard Regime & Exposure:__ Flooding events continuing with winter 2019–2020 widespread; infrastructure margin strained in vulnerable areas; pandemic preparedness capacity revealed as inadequate when tested February–March 2020; hazard exposure expanding beyond traditional categories.<br><br>
-__Resource & Energy Endowment:__ North Sea production continuing decline; renewable capacity expanding especially offshore wind; energy import dependency increasing; nuclear new-build delayed; coal plant closures accelerating toward phase-out.<br><br>
-__Waste Absorption & Sink Capacity:__ Plastic waste visibility increasing with Blue Planet II effect 2017; recycling contamination revealed when China restricts imports 2018; electronic waste stream continuing growth; emissions from data centers and digital infrastructure emerging as concern though not yet saturating sinks.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Life expectancy gains stalling, attributed by some analyses to austerity impacts; antimicrobial resistance rising; NHS winter pressures annual occurrence; pandemic preparedness nominally maintained but revealed as inadequate by COVID-19 arrival March 2020.<br><br>
-__Nutrition & Physiological Vitality:__ Food insecurity rising with food bank usage continuing to grow; obesity rates elevated; childhood nutrition concerns in deprived areas; overall population vitality stable but inequality-gradient steepening.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility rate declining toward 1.65; dating app usage normalized; marriage rates falling while cohabitation stable; median age at first birth continuing to rise; pairing dynamics increasingly mediated by platforms.<br><br>
-__Demographic Renewal & Density:__ Population growth slowing; EU migration inflows declining post-referendum; aging structure continuing; density pressures in southeast intensifying housing crisis; demographic concerns entering political debate.<br><br>
-__Attrition & Dependency Overhang:__ Social care crisis deepening; elderly dependency rising; NHS and care system at capacity limits; austerity-era cuts creating backlog of unmet need; productive cohort margin against dependency load thinning.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Austerity continuing to erode floor for vulnerable; Universal Credit rollout causing hardship; in-work poverty rising; housing costs consuming greater income share; food security stable for majority but precarious minority growing.<br><br>
-__Energy Capture & Conversion:__ Renewable share expanding; grid stability maintained; electric vehicle adoption beginning; energy price caps introduced 2019; per-capita consumption stable; conversion efficiency improving but pace incremental.<br><br>
-__Labor Organization & Coercion:__ Gig economy expanding with Uber, Deliveroo litigation over worker status; zero-hours contracts contested; wage growth weak post-referendum; coercion low but precarity normalized; collective bargaining coverage continuing decline.<br><br>
-__Production & Surplus Capacity:__ Brexit uncertainty depressing investment; manufacturing showing some reshoring but also relocation threats; financial services preparing contingencies for market access loss; productivity growth weak; surplus generation continuing but not expanding.<br><br>
-__Storage, Reserves & Buffering:__ Government debt elevated; household savings low; corporate cash accumulating but not deployed amid uncertainty; sterling depreciation post-referendum reducing purchasing power; buffer capacity constrained by decade of austerity.<br><br>
-__Exchange, Trade & Logistics:__ EU single market access maintained during transition period; trade deal negotiations consuming political capacity; supply chain contingency planning for no-deal scenarios; logistics networks preparing for disruption; high-street retail decline accelerating.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Sterling volatile, dropping sharply post-referendum; interest rates ultra-low; property prices cooling outside London; credit accessible but household debt high; pension deficits concerning; value storage increasingly in property and index funds.<br><br>
-__Surplus Extraction & Redistribution:__ Taxation stable; redistribution contracted under austerity; regional inequality a political issue with "leveling up" rhetoric emerging; extraction burden distributed but benefits concentrated; fiscal constraints binding until pandemic spending 2020.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth inequality continuing to widen; intergenerational divide intensifying; property wealth concentrated in older cohorts; inheritance becoming primary wealth transfer mechanism; asset defense strategies increasingly sophisticated among wealthy.<br><br>
-__Byproducts & Waste Routing:__ Single-use plastic restrictions introduced; recycling system disrupted by Chinese import ban; electronic waste continuing to accumulate; fashion waste gaining attention; routing decisions shifting toward domestic processing but capacity limited.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust declining along partisan lines; Brexit revealing and deepening social divisions; Remain/Leave identity becoming quasi-tribal; mutual aid networks active but cross-cutting ties weakening; generational and geographic polarization intensifying.<br><br>
-__Stratification, Status & Group Identity:__ Leave/Remain emerging as salient identity cleavage cutting across class; regional and educational divides sharpening; ethnic diversity increasing but integration contested; "somewhere vs anywhere" framing gaining traction; stratification along multiple axes.<br><br>
-__Kinship, Family & Inheritance:__ Family structures stable but Brexit causing documented family conflicts; EU citizen families facing uncertainty; inheritance remaining critical for housing access; intergenerational wealth transfer sustaining inequality.<br><br>
-__Civic Association & Self-Organization:__ Civic mobilization intense around Brexit with marches, petitions, and campaigns; People's Vote movement organizing; grassroots Leave campaigns continuing; online organizing dominant; traditional civic organizations weakened but new forms emerging.<br><br>
-__Leisure, Play & Sociability:__ Screen time continuing to increase; social media as primary arena for political sociability; pub closures continuing; festivals and cultural events maintaining social function; gaming normalized across demographics; Brexit dominating social conversation.<br><br>
-__Grievance Channels & Social Discharge:__ Social media as primary grievance channel but amplifying rather than resolving conflict; Brexit providing outlet for accumulated discontent but also generating new grievances; street protest returning as form; systemic resolution absent; polarization accumulating as unmetabolized residue.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Westminster sovereignty asserted as Brexit rationale; parliamentary deadlock 2017–2019 demonstrating institutional stress; prorogation crisis September 2019 testing constitutional limits; Johnson majority December 2019 resolving impasse; authority contested but surviving stress test.<br><br>
-__Succession & Power Transfer:__ May succeeding Cameron July 2016 without election; May's failure to secure majority June 2017 destabilizing; Johnson succeeding May July 2019 through party process; general election December 2019 providing democratic mandate; transfer mechanisms functioning despite strain.<br><br>
-__Legitimacy & Political Narrative:__ "Will of the people" competing with "people's vote" narratives; representative versus direct democracy tension acute; parliamentary sovereignty versus popular sovereignty contested; legitimacy of both referendum and parliament questioned; establishment credibility eroded on all sides.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Civil service stretched by Brexit planning; local government capacity depleted; digital government services expanding; institutional integrity maintained but politicization concerns emerging; capacity adequate but margin thin.<br><br>
-__Political Participation & Mobilization:__ Referendum demonstrating high engagement capacity; protest mobilization significant with large marches; petition platform heavily used; party membership volatility high; online political activity intense; participation elevated but often adversarial.<br><br>
-__Geopolitical Position & External Relations:__ EU exit reshaping all external relations; US relationship volatile under Trump administration; Commonwealth revival rhetoric not matched by substance; Russia relations tense following Salisbury poisoning 2018; global positioning uncertain during transition.<br><br>
-__Coercive Apparatus & Means of Force:__ Military maintaining capability but stretched; police under continued budget pressure; counter-terrorism capacity adequate; surveillance powers expanded through Investigatory Powers Act 2016; force monopoly unchallenged but resources constrained.<br><br>
-__Internal Order & Threat Environment:__ Terrorism threat persistent with Manchester Arena bombing 2017 and London attacks; hate crime reported increases post-referendum; Northern Ireland tensions contained but peace process strained by border questions; political violence rare but MP Jo Cox murdered June 2016; disorder within capacity but margins tested.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Smartphone penetration near-complete; 4G ubiquitous with 5G rollout beginning; social media platforms Facebook, Twitter, WhatsApp, Instagram carrying political discourse; broadcast still reaching older demographics; transmission instant, reach comprehensive, fragmentation by platform and algorithm.<br><br>
-__Record, Storage & Persistence:__ Digital records accumulating; platform data preserved but access contested; Cambridge Analytica scandal revealing data harvesting scale; GDPR implementation May 2018 strengthening data rights; parliamentary record complete; journalism archives deteriorating as outlets close.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press heavily partisan on Brexit; platform algorithms amplifying divisive content; fact-checking expanding but contested as partisan; hate speech enforcement increasing; filter bubbles fragmenting shared reality; discourse norms degraded with hostile online environment.<br><br>
-__Reception, Attention & Amplification:__ Attention captured by Brexit drama; algorithmic amplification favoring outrage; viral misinformation spreading rapidly; foreign interference concerns following investigations; attention concentrated but fragmented across incompatible frames; amplification dynamics distorting public debate.<br><br>
-__Signal Integrity & Noise Load:__ Signal integrity severely degraded; Cambridge Analytica revelations demonstrating manipulation capacity; misinformation pervasive with contested claims on NHS funding, immigration, and trade; fact-checking unable to keep pace; noise load high and verification capacity overwhelmed; accumulated distortion eroding shared factual foundation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Fairness contested along partisan lines; due process valued; retroactive justice concerns in immigration cases; sense of justice fragmented with incompatible views on what referendum result requires; moral consensus weakened.<br><br>
-__Law, Codification & Regulatory Evolution:__ GDPR implemented May 2018; Data Protection Act 2018; platform regulation debated but not yet legislated; Online Harms White Paper 2019 proposing new framework; Investigatory Powers Act 2016 expanding surveillance; EU law transposition consuming legislative capacity.<br><br>
-__Adjudication, Enforcement & Liability:__ Supreme Court rulings on prorogation and Article 50 demonstrating judicial independence; platform liability uncertain under existing frameworks; enforcement gaps for online harms; cross-border jurisdiction unresolved; courts functioning but novel questions arising faster than precedent develops.<br><br>
-__Rights, Protections & Compliance Burden:__ Human Rights Act maintained; data protection strengthened; EU citizenship rights for residents contested; Windrush scandal revealing rights enforcement failures; compliance burden increasing with GDPR; platform users' rights still undefined.<br><br>
-__Impunity & Unredressed Wrong:__ Cambridge Analytica wound up before accountability; platform executives facing parliamentary questioning but no sanctions; online harassment prosecuted selectively; historical abuse inquiries continuing; enforcement gaps leaving wrongs unaddressed; impunity accumulating especially for platform-mediated harms.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Misinformation studies expanding rapidly; platform research gaining institutional support; data science methods spreading; computational propaganda analysis developing; British universities maintaining research capacity but Brexit threatening collaboration and funding; expertise itself politically contested with "had enough of experts" sentiment.<br><br>
-__Applied Knowledge & Technical Method:__ Targeted advertising techniques refined; data analytics driving political campaigns; AI and machine learning applications expanding; behavioral science informing both commercial and political practice; technical capacity high but ethical frameworks lagging.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital literacy becoming educational priority; media literacy recognized as need but implementation limited; university sector uncertain about Brexit impacts on students and staff; skills distribution continuing to widen; critical thinking capacity unevenly developed.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional journalism skills continuing to atrophy; legacy media production knowledge declining with closures; rapid technical obsolescence in digital skills; fact-checking as practice spreading but not replacing lost verification infrastructure; institutional knowledge lost with redundancies.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ British identity acutely contested; World War II memory mobilized in Brexit discourse; imperial nostalgia versus cosmopolitan identity; Scottish and Irish nationalisms strengthened by Brexit; English nationalism emerging as explicit force; foundational identity fractured along multiple lines.<br><br>
-__Artistic Expression & Material Culture:__ Brexit art and satire flourishing; political graphic design prominent; meme culture as primary political expression; streaming continuing to displace physical media; London cultural institutions nervous about Brexit impacts; material culture increasingly digital and disposable.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood polarized and anxious; Remainers experiencing grief and anger, Leavers frustration at delay; political fatigue widespread by 2019; younger cohorts pessimistic about economic prospects; collective mood darkened with rare moments of shared experience; behavioral disposition toward tribalism.<br><br>
-__Form Exhaustion & Meaning Decay:__ Political language exhausted—"Brexit means Brexit," "will of the people" becoming empty slogans; irony and sincerity competing; journalism authority further eroded; shared symbolic reference points fragmenting; meaning structures under severe strain; cultural production struggling to process upheaval.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular majority continuing; religious practice declining further; existential anxiety rising especially among younger cohorts; climate awareness adding apocalyptic dimension; materialist outlook dominant but providing thin resources for meaning-making amid political crisis.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance continuing decline; secular rituals around political identity intensifying—marches, vigils, petition signing acquiring devotional character; mindfulness and wellness practices expanding; formal religious practice minority pursuit.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church of England engaging cautiously with Brexit divisions; Catholic Church in Ireland adapting to diminished authority; religious institutional voice marginal in public debate; interfaith work continuing at community level; doctrinal authority not contested because no longer claimed.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity continuing numerical decline; Islam stable in diaspora communities; spiritual-but-not-religious expanding; wellness culture absorbing spiritual impulses; explicit atheism less militant than previous decade; displacement proceeding without dramatic rupture.<br><br>
-__Disenchantment & Sacred Discharge:__ Political identities absorbing quasi-religious devotion; Brexit as meaning-making frame for both sides; football, celebrity, and fandom providing transcendence substitutes; mental health crisis indicators rising; disenchantment managed through political engagement and consumption but underlying spiritual deficit not addressed; some sacred need discharging into partisan intensity.<br><br>
+# __2016 CE – 2020 CE — Brexit Information War and Platform Accountability__
+
+__Summary:__ The June 2016 Brexit referendum and its aftermath expose the vulnerability of democratic deliberation to targeted digital manipulation, microtargeted advertising, and coordinated disinformation — the binding constraint is the collision between the speed and opacity of algorithmic information warfare and the slow, transparent processes democratic legitimacy requires, triggering a regulatory reckoning that reshapes the relationship between platforms and the British state.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The referendum reveals a geographic fracture: urban centers (London, Manchester, Edinburgh, Belfast, Dublin corridor) vote Remain while post-industrial towns and rural England vote Leave; this spatial divide maps onto connectivity and economic opportunity, with digitally connected cosmopolitan centers diverging from peripheral areas where broadband remains slower and employment more precarious.
+
+__Climate Regime & Volatility:__ Climate concern enters the mainstream through digital activism (Extinction Rebellion founded 2018, school strikes 2019), though the issue remains secondary to Brexit in political bandwidth.
+
+__Hazard Regime & Exposure:__ No major natural hazard affects infrastructure; the 2018 "Beast from the East" cold snap causes minor disruptions but no lasting damage.
+
+__Resource & Energy Endowment:__ Domestic North Sea oil and gas production continues to decline; offshore wind expansion accelerates; no resource crisis affects the digital infrastructure buildout.
+
+__Waste Absorption & Sink Capacity:__ E-waste continues accumulating; data-center energy consumption grows with cloud adoption and streaming expansion; plastic waste enters public consciousness through digital virality (Blue Planet II, 2017), prompting policy response — an early example of digital-mediated environmental politics.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Public health remains stable until the window's close; NHS funding pressures intensify; waiting times increase; life expectancy gains stall, particularly in deprived areas.
+
+__Nutrition & Physiological Vitality:__ Food-bank use continues rising; obesity rates plateau at high levels; concerns about ultra-processed food enter public discourse through digital health influencers.
+
+__Care, Healing & Recovery Capacity:__ Mental health services remain overstretched; anxiety and depression diagnoses rise, with social media exposure increasingly identified as a contributing factor among adolescents; NHS digital transformation remains slow.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating app use normalizes across age groups; fertility rates continue below replacement; family formation delays as economic precarity and housing costs constrain young-adult life choices.
+
+__Demographic Renewal & Density:__ EU migration drops sharply after the referendum; non-EU migration increases; net migration remains positive but the composition shifts; population reaches approximately sixty-seven million by window's end.
+
+__Attrition & Dependency Overhang:__ Social care crisis deepens; elderly dependency increases; the "sandwich generation" bears intensified caregiving burdens; the biological costs of austerity become legible in mortality statistics for deprived areas.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Universal Credit full rollout causes documented hardship; food poverty becomes a political issue; in-work poverty rises as wages stagnate below inflation.
+
+__Energy Capture & Conversion:__ Grid decarbonization continues; electric vehicle uptake begins; data centers become significant electricity consumers; household energy poverty persists in fuel-poor areas.
+
+__Labor Organization & Coercion:__ Gig-economy labor disputes intensify (Uber drivers, Deliveroo riders); platform workers seek employment rights through litigation; zero-hours contracts remain prevalent; the Taylor Review (2017) proposes modest reforms.
+
+__Production & Surplus Capacity:__ Brexit uncertainty suppresses business investment; automotive sector contracts as supply-chain disruption looms; financial services begin contingency relocations to Dublin, Frankfurt, and Paris; productivity growth remains anemic.
+
+__Storage, Reserves & Buffering:__ Government fiscal position improves modestly; household savings remain low; corporate cash hoarding continues; contingency stockpiling begins as no-deal Brexit scenarios are modeled.
+
+__Exchange, Trade & Logistics:__ Trade negotiations dominate political attention; supply-chain disruption planning begins; e-commerce continues expanding; high-street retail decline accelerates with multiple chain collapses.
+
+__Value Storage, Credit & Deferred Exchange:__ Sterling depreciates sharply after the referendum (fifteen percent against the dollar); inflation rises; real wages stagnate; contactless payment becomes near-universal; cryptocurrency enters mainstream awareness through speculative bubbles.
+
+__Surplus Extraction & Redistribution:__ Platform companies continue extracting advertising revenue from the UK market while minimizing tax through transfer pricing; digital services tax debate begins; Irish tax arrangements for US tech firms draw increased scrutiny.
+
+__Wealth Distribution & Asset Defense:__ Property prices plateau outside London; generational wealth gap persists; inheritance continues driving wealth concentration; pension savings prove inadequate for many approaching retirement.
+
+__Byproducts & Waste Routing:__ Attention extraction continues as the business model of "free" services; data as byproduct reaches industrial scale; financial uncertainty from Brexit defers investment and accumulates as unrealized opportunity cost.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family WhatsApp groups become sites of political conflict as Brexit divides generations; EU citizen family members face uncertainty; mixed-status families navigate complex visa regimes.
+
+__Association & Mutual Aid:__ Grassroots movements organize through digital platforms on both sides (People's Vote, Leave Means Leave); mutual aid networks form; community Facebook groups become contested spaces.
+
+__Leisure, Play & Sociability:__ Fortnite and other online games become primary youth sociability venues; Netflix viewing replaces broadcast appointment television; pub closures continue, reducing physical third places.
+
+__Stratification, Status & Group Structure:__ Educational attainment becomes the strongest predictor of referendum vote; the "Anywheres vs. Somewheres" framing enters discourse; social media amplifies identity-based mobilization, hardening group boundaries.
+
+__Administrative Capacity & Institutional Integrity:__ Civil service is overwhelmed by Brexit workload; Parliament becomes dysfunctional as the May government loses control of the process; institutional norms erode; the Queen is drawn into political controversy over prorogation (2019).
+
+__Coercive Apparatus & Means of Force:__ Policing remains under austerity pressure; hate crimes spike after the referendum; counter-terrorism priorities shift toward right-wing extremism online; surveillance of digital communications continues under Investigatory Powers Act (2016).
+
+__Discharge, Disorder & Decay:__ Political violence returns with the murder of MP Jo Cox (June 2016); online harassment of public figures intensifies; parliamentary procedures break down; institutional decay accelerates as conventions fail to constrain executive action — disorder outpaces clearing mechanisms.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The referendum and its aftermath produce sustained affective polarization; "Remainers" and "Leavers" become identity categories; anger, betrayal, and contempt dominate political discourse; anxiety becomes ambient.
+
+__Leadership & Personal Authority:__ Theresa May's authority collapses through repeated defeats; Boris Johnson's charismatic dominance of the Leave campaign translates into eventual premiership (July 2019); Nigel Farage remains influential without holding office; platform company executives face parliamentary scrutiny with diminished aura.
+
+__Legitimacy as Lived Allegiance:__ The referendum result itself becomes contested; "Will of the People" claims clash with concerns about manipulation; trust in electoral processes erodes; Parliament's legitimacy is challenged by both sides; the Supreme Court intervention (prorogation, 2019) strains judicial legitimacy.
+
+__Political Will & Collective Resolve:__ Political will fragments as party discipline collapses; MPs cross floors and form new parties; the Conservative Party reconstitutes around Brexit delivery; Labour divides between metropolitan Remain and traditional Leave constituencies.
+
+__External Relations & Posture:__ Relationship with EU becomes adversarial; US relationship complicated by Trump presidency; Ireland assumes unexpected significance as the backstop question dominates; alliance with European partners weakens.
+
+__Disaffection, Apathy & Spent Will:__ Voter fatigue sets in through repeated electoral events (2017 election, European elections 2019, general election 2019); political exhaustion coexists with high engagement among activated partisans; the middle ground hollows out — disaffection accumulates uncleared.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Smartphone penetration exceeds ninety percent; 4G coverage becomes near-universal in populated areas; digital literacy varies sharply by age, with elderly populations most vulnerable to manipulation.
+
+__Channels & Transmission Velocity:__ Facebook and Twitter dominate political discourse; WhatsApp becomes a vector for forwarded misinformation; Instagram and YouTube carry political messaging; broadcast media remains influential but loses agenda-setting monopoly.
+
+__Record, Storage & Persistence:__ Digital advertising archives become contested evidence; Facebook Ad Library launches (2018) under pressure; deleted tweets are preserved by third parties; the ephemerality of Stories format enables untracked messaging.
+
+__Framing, Censorship & Discourse Norms:__ The "350 million pounds for the NHS" claim demonstrates fact-checking's limits; platform content moderation policies evolve under pressure; coordinated inauthentic behavior is identified and partially removed; filter bubbles intensify polarization.
+
+__Reception, Attention & Amplification:__ Cambridge Analytica revelations (March 2018) expose psychological targeting; algorithmic amplification of outrage documented; attention warfare becomes recognized as a strategic domain; news consumers increasingly distrust sources outside their affinity networks.
+
+__Signal Integrity & Noise Load:__ Disinformation from Russian-linked accounts identified; domestic misinformation exceeds foreign in volume; fact-checking scales but cannot match viral speed; noise-to-signal ratio worsens, and verification infrastructure remains inadequate to the flood.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Foundational disagreement over what constitutes fair process (referendum vs. parliamentary sovereignty) prevents moral consensus; claims of betrayal circulate on all sides; sense of injustice becomes universal and mutually exclusive.
+
+__Law, Codification & Regulatory Evolution:__ Electoral Commission investigates Vote Leave and Leave.EU for spending violations; fines imposed but perceived as inadequate; Online Harms White Paper (April 2019) proposes platform regulation; GDPR implementation (May 2018) creates new data-protection framework.
+
+__Adjudication, Liability & Sanction:__ Cambridge Analytica collapses before facing full accountability; Facebook fined by ICO (500,000 pounds, the maximum available); courts rule on Brexit process (Article 50 trigger, prorogation) but cannot address underlying information-integrity failures.
+
+__Rights, Protections & Compliance Burden:__ GDPR strengthens individual data rights but enforcement remains limited; platform companies face compliance obligations; user rights to data access and deletion theoretically expanded but practically difficult to exercise.
+
+__Impunity & Unredressed Wrong:__ The architects of potentially illegal campaign spending face no imprisonment; platform manipulation goes largely unpunished; the gap between documented wrong and actual sanction widens, leaving a standing deficit of accountability that corrodes procedural legitimacy.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Research into computational propaganda, filter bubbles, and affective polarization accelerates; "post-truth" named Oxford Word of the Year (2016); epistemological crisis becomes an academic subject; platform companies restrict researcher data access.
+
+__Applied Knowledge & Technical Method:__ Microtargeting techniques become publicly understood; behavioral-science methods ("nudge") revealed as dual-use; open-source intelligence (OSINT) methods spread among journalists and researchers.
+
+__Education, Knowledge Stock & Skill Distribution:__ Media literacy enters curriculum discussions; critical evaluation of sources becomes educational priority; generational knowledge gap persists, with younger populations more skeptical of viral content but more immersed in platform environments.
+
+__Obsolescence & Knowledge Decay:__ Assumptions about informed democratic deliberation prove obsolete; twentieth-century broadcast-era media-literacy frameworks fail against algorithmic curation; institutional knowledge of pre-digital campaign practices loses relevance.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Competing narratives of British identity clash: imperial nostalgia and wartime mythology ("Blitz spirit") against multicultural cosmopolitanism; Scottish and Irish identities diverge further from English; "taking back control" becomes a foundational myth for one half of the polity.
+
+__Legitimating Narrative & Ideology:__ Populist framing ("the people vs. the elite") gains traction; globalist liberalism loses hegemonic status; "Brexit means Brexit" operates as a tautological legitimation; platform neutrality claims become untenable under scrutiny.
+
+__Artistic Expression & Material Culture:__ Brexit enters cultural production (novels, theater, television); protest aesthetics evolve; meme warfare becomes a recognized cultural form; "Brexiteer" and "Remoaner" enter the lexicon as identity markers.
+
+__Form Exhaustion & Meaning Decay:__ Political language loses stable meaning ("Brexit," "deal," "democratic mandate" all become contested); irony and sincerity become indistinguishable; cultural exhaustion accompanies political exhaustion; shared reality fragments into incompatible information environments — meaning decay outpaces reconstruction.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular frameworks dominate public discourse; existential anxiety about national identity and future direction pervades; climate apocalypticism enters youth consciousness through Extinction Rebellion and school strikes (2019).
+
+__Ritual, Devotion & Sacred Practice:__ Political rallies acquire ritual dimensions; March for Europe and Leave Means Leave demonstrations provide collective effervescence; social media engagement becomes compulsive ritual; church attendance continues declining.
+
+__Religious Institutions & Doctrinal Authority:__ Churches engage minimally with Brexit; Archbishop of Canterbury calls for reconciliation with limited effect; religious authority remains peripheral to the political crisis.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Secular nationalism operates as quasi-religious force; sovereignty acquires transcendent status in Leave discourse; wellness culture and self-care spirituality spread through Instagram as coping mechanisms.
+
+__Disenchantment & Sacred Discharge:__ Democratic process loses sacred status as manipulation is exposed; the referendum result cannot serve as transcendent legitimation when its integrity is disputed; collective meaning-making fails, leaving both sides in a condition of political disenchantment where no outcome can satisfy — the sacred gap widens rather than closes.

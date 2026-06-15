@@ -1,69 +1,139 @@
-# __1975 CE – 1985 CE__ — Commercial Television Arrival
-__Summary:__ The decade witnesses the collapse of public broadcasting monopolies across Continental Western Europe as commercial television forces entry through legal challenges, political shifts, and technological innovation. Italy's Constitutional Court ruling of 1976 opens the floodgates for private local stations, allowing Silvio Berlusconi to assemble a de facto national network that rivals RAI; France breaks up ORTF in 1974 and licenses Canal+ in 1984; elsewhere deregulation debates intensify as market ideology gains ground. The binding constraint is the regulatory barrier separating public monopoly from commercial entry, and once breached in one jurisdiction the pressure radiates outward. The system holds modest margin against the advertising competition and audience fragmentation now arriving, and the principal direction of change is toward a mixed public-private duopoly model replacing state dominance.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain and Mediterranean peninsulas present mature broadcast infrastructure built over four decades; transmission towers, relay stations, and cable networks blanket densely populated corridors from the Randstad through the Ruhr to the Po Valley and Catalonia, reducing spatial friction for signal distribution to near-negligible levels.<br><br>
-__Climate Regime & Volatility:__ Temperate Atlantic and Mediterranean climates remain stable; occasional winter storms disrupt reception briefly but pose no systemic threat to transmission infrastructure or viewer access.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk in Italy and moderate flood exposure along major river systems exist but do not materially constrain broadcast operations; infrastructure resilience is high relative to the modest hazard load.<br><br>
-__Resource & Energy Endowment:__ Western Europe draws on declining domestic coal, growing North Sea oil and gas, and expanding nuclear capacity; electrification is universal and reliable, supporting broadcast transmission and receiver operation without constraint.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial effluent and urban pollution stress rivers and coastal waters; acid rain from coal combustion damages forests in Germany and Scandinavia; absorptive capacity is pressured but not yet saturated, and environmental regulation begins tightening.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden is low; mortality rates are among the world's lowest thanks to universal healthcare, vaccination, and sanitation; AIDS emerges mid-decade as a new threat but has not yet imposed mass mortality.<br><br>
-__Nutrition & Physiological Vitality:__ Populations are well-nourished with rising obesity becoming a concern; physical stature and vitality are high, and caloric abundance rather than scarcity defines the nutritional condition.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility rates have fallen below replacement across most of the region; delayed marriage, contraception access, and female labor participation reshape pairing patterns; biological capacity remains intact but reproductive behavior is voluntarily constrained.<br><br>
-__Demographic Renewal & Density:__ Birth rates below death rates in several countries initiate population aging; labor immigration from Southern Europe, Turkey, and North Africa partially offsets native decline; urban density remains high in industrial and commercial centers.<br><br>
-__Attrition & Dependency Overhang:__ The postwar baby boom cohort is in prime working age, keeping dependency ratios manageable; pension and healthcare systems face future pressure but current load is absorbed without acute strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Material deprivation is rare; welfare states ensure baseline food, housing, and fuel access; subsistence is not a binding constraint for any significant population segment.<br><br>
-__Energy Capture & Conversion:__ Fossil fuels dominate with nuclear power expanding; per-capita energy consumption is high and supports advanced industrial and service economies; the 1979 oil shock strains energy costs but supply continuity is maintained.<br><br>
-__Labor Organization & Coercion:__ Wage labor predominates with strong union presence; collective bargaining sets terms in manufacturing and public sectors; coercion is minimal, and labor relations are institutionalized though strike activity persists in France and Italy.<br><br>
-__Production & Surplus Capacity:__ Industrial output stagnates in traditional sectors while services and media production expand; surplus generation shifts from heavy industry toward consumer goods, finance, and cultural production including broadcasting.<br><br>
-__Storage, Reserves & Buffering:__ Welfare states, corporate reserves, and household savings provide substantial buffering; unemployment insurance and pension funds accumulate; the system holds considerable margin against economic shocks.<br><br>
-__Exchange, Trade & Logistics:__ The European Economic Community facilitates intra-regional trade; transportation networks are mature; broadcast advertising revenue circulates through established media buying markets concentrated in major capitals.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ National currencies remain stable though inflation erodes purchasing power early in the decade; credit markets are developed; household debt begins rising as consumer finance expands.<br><br>
-__Surplus Extraction & Redistribution:__ High tax burdens fund welfare states and public broadcasting through license fees; commercial entry promises advertising-funded alternatives that bypass the license fee extraction mechanism.<br><br>
-__Wealth Distribution & Asset Defense:__ Postwar wealth compression persists but begins reversing; homeownership is widespread; financial assets concentrate among upper quintiles; inheritance taxation and inflation erode some accumulations.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste is increasingly regulated; landfill and incineration handle consumer discards; electronic waste from obsolescent receivers is a minor but growing stream, largely dumped without special treatment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust remains moderately high in Northern Europe, lower in Italy and France; welfare states substitute for some mutual aid functions; neighborhood and family networks persist as secondary safety nets.<br><br>
-__Stratification, Status & Group Identity:__ Class divisions soften as consumer culture spreads; ethnic minorities from recent immigration occupy lower strata; regional identities remain strong in Catalonia, Basque Country, Bavaria, and Flanders.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family remains normative but divorce rates rise; cohabitation gains acceptance in Scandinavia; inheritance passes through partible systems with increasing wealth transfers to smaller sibling sets.<br><br>
-__Civic Association & Self-Organization:__ Unions, churches, and voluntary associations provide organizational infrastructure; civil society is dense in Northern Europe, thinner in Mediterranean states; viewership associations form to advocate for programming quality.<br><br>
-__Leisure, Play & Sociability:__ Television dominates evening leisure; collective viewing in households creates shared cultural reference points; cinema attendance declines as home viewing expands; sports spectatorship remains strong.<br><br>
-__Grievance Channels & Social Discharge:__ Strikes, demonstrations, and electoral participation channel discontent; the 1970s political violence in Germany and Italy is waning; broadcast media both amplify and dissipate grievances through representation and spectacle.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary democracies prevail with varying degrees of centralization; Spain completes democratic transition after Franco's death in 1975; power fragments among coalition parties in Italy and the Netherlands; centralization persists in France under Mitterrand.<br><br>
-__Succession & Power Transfer:__ Electoral transfers are routine and accepted; Spain's constitutional monarchy stabilizes succession; Italy's frequent government turnover reflects coalition instability rather than crisis; transfers proceed within established rules.<br><br>
-__Legitimacy & Political Narrative:__ Democratic legitimacy is secure; welfare state consensus underpins party competition; European integration provides supplementary legitimating narrative; far-right and far-left challenges are contained.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity is high with competent bureaucracies; corruption varies from low in Scandinavia to endemic in Italy; regulatory agencies for broadcasting are newly created or expanded to manage liberalization.<br><br>
-__Political Participation & Mobilization:__ Voter turnout remains high; party membership declines from postwar peaks; new social movements around environment, peace, and feminism mobilize outside traditional party channels; broadcasting is contested terrain for access.<br><br>
-__Geopolitical Position & External Relations:__ Western Europe remains anchored in NATO and the European Community; Cold War division persists but detente reduces immediate threat; no cross-border military pressure affects the region.<br><br>
-__Coercive Apparatus & Means of Force:__ Professional militaries and police forces maintain order; terrorism by Red Brigades, RAF, and ETA declines from its 1970s peak; internal security capacity exceeds threat load by comfortable margin.<br><br>
-__Internal Order & Threat Environment:__ Urban crime rises modestly; organized crime operates in Italy and to lesser extent elsewhere; political violence diminishes; overall order is maintained with margin to spare.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Television and radio reach virtually all households simultaneously; VCRs begin time-shifting content; telephone networks support rapid private communication; telex serves business; information velocity within borders is effectively instantaneous.<br><br>
-__Record, Storage & Persistence:__ Broadcast archives are maintained by public broadcasters with varying completeness; videotape enables systematic recording; print archives in libraries persist; institutional memory is robust.<br><br>
-__Framing, Censorship & Discourse Norms:__ Public broadcasters operate under political pressure but explicit censorship is rare outside Spain's early transition; commercial entrants push boundaries on entertainment content; advertising expands permissible commercial speech.<br><br>
-__Reception, Attention & Amplification:__ Audiences concentrate on few channels creating shared mass reception; prime-time viewing dominates attention; ratings systems emerge to measure and commodify attention for advertisers.<br><br>
-__Signal Integrity & Noise Load:__ Information quality is high from established broadcasters; commercial entry brings more entertainment and advertising, lowering signal-to-noise ratio in aggregate; verification capacity is adequate for the volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Broadly shared commitment to democratic rule of law, human rights, and market fairness underpins judicial legitimacy; regional variations exist but core principles are stable.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting law is actively evolving; Italy's Constitutional Court rules against RAI monopoly in 1976; France restructures ORTF; new regulatory frameworks emerge for licensing, content, and advertising; law struggles to keep pace with commercial innovation.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function effectively; broadcasting disputes are adjudicated through specialized regulatory bodies and general courts; enforcement capacity is adequate though regulatory capture by commercial interests begins.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom and broadcast access are protected; commercial operators face licensing requirements, content quotas, and advertising restrictions; compliance burden is moderate and unevenly enforced.<br><br>
-__Impunity & Unredressed Wrong:__ Political influence over public broadcasters often goes unremedied; commercial operators exploit regulatory gaps before rules catch up; some impunity exists but does not destabilize the system.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Media studies emerges as academic discipline; communication theory advances; public sphere concepts from Habermas inform debates; market economics gains ground in policy discourse challenging public service rationales.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast engineering is mature; satellite uplink capability arrives; cable distribution expands; VCR technology disrupts theatrical windows; technical methods for commercial broadcasting are well understood.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Secondary education is universal; tertiary enrollment expands; technical literacy for broadcast production is concentrated in professional schools and on-the-job training; audience media literacy is presumed rather than taught.<br><br>
-__Obsolescence & Knowledge Decay:__ Black-and-white broadcasting skills fade; some institutional memory of pre-war radio is lost with retirements; no significant knowledge decay threatens current operations.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ National identities remain primary; World War II memory shapes German caution about media concentration; European identity is thin but growing; commercial television is framed either as American invasion or modernizing liberation.<br><br>
-__Artistic Expression & Material Culture:__ Television drama, variety shows, and sports define broadcast aesthetics; American imports compete with domestic production; advertising imagery spreads consumerist visual culture; architecture and design reflect postmodern eclecticism.<br><br>
-__Collective Mood & Behavioral Disposition:__ Guarded optimism mixes with economic anxiety from stagflation; consumer confidence grows as inflation ebbs; appetite for entertainment programming expands; skepticism toward political institutions rises but remains within democratic bounds.<br><br>
-__Form Exhaustion & Meaning Decay:__ Public broadcasting formats show wear; variety shows and educational programming feel dated; commercial television promises novelty and entertainment against perceived public service stuffiness; some symbolic renewal occurs through format innovation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular materialism dominates public life; church attendance continues declining across the region; consumer abundance provides existential orientation for many; religious practice persists as minority commitment or cultural habit.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Television viewing itself becomes quasi-ritualized; shared watching of major events creates secular communion; religious programming declines in prominence; commercial breaks structure domestic time.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic Church retains institutional presence in Italy, Spain, and France but loses cultural authority; Protestant churches decline faster in Northern Europe; Pope John Paul II uses television effectively but cannot reverse secularization.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Immigration brings Islam into Western European cities; Eastern spiritualities attract niche followings; mainline Christianity contracts; no new synthesis emerges; spiritual plurality increases without dominant direction.<br><br>
-__Disenchantment & Sacred Discharge:__ Consumer culture and entertainment television absorb energies once directed toward transcendence; some existential restlessness persists; environmentalism and peace movements carry quasi-spiritual charge for participants; standing disenchantment is managed rather than resolved.<br><br>
+# __1975 CE – 1985 CE — Commercial Television Arrival__
+
+__Summary:__ The decade witnesses the fracturing of postwar public broadcasting monopolies across Western Europe as commercial television breaks through regulatory barriers, most dramatically in Italy following the 1976 Constitutional Court ruling and in France with Canal Plus (1984) and incipient privatization; the binding constraint is the collision between neoliberal deregulation pressures and entrenched public service traditions, with advertising revenue emerging as the arbiter of programming futures.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The region spans from the Low Countries through the German plains to the Mediterranean peninsulas, with broadcast transmission following established relay networks linking major urban centers; cross-border signal spillover in border regions (German-speaking areas, French-Belgian, Dutch-Flemish) creates regulatory complications as commercial signals penetrate public monopoly territories.
+
+__Climate Regime & Volatility:__ Temperate maritime and Mediterranean conditions prevail; no significant climatic disruption affects broadcast infrastructure during the window.
+
+__Hazard Regime & Exposure:__ Broadcast infrastructure faces minimal acute hazard; occasional severe winters temporarily disrupt transmission.
+
+__Resource & Energy Endowment:__ The 1973 oil shock's aftermath constrains energy budgets through 1975-1980, with petroleum dependency declining slightly as nuclear expansion proceeds in France; coal remains significant in Germany and the UK; broadcast transmission draws negligible national energy share but studio operations and manufacturing remain energy-intensive.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution remains severe in the Ruhr, Po Valley, and northern Italian industrial zones; early environmental legislation (EEC directives from 1975) begins addressing air and water quality; broadcast equipment disposal emerges as minor electronic waste stream as older television sets and studio equipment are retired.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Post-antibiotic mortality remains low across Western Europe; HIV/AIDS emerges by period's end (first European cases recognized 1981-1983) without yet affecting demographic patterns; life expectancy continues gradual climb.
+
+__Nutrition & Physiological Vitality:__ Nutritional sufficiency universal; obesity begins trending upward; sedentary television viewing adds to lifestyle concerns already noted by public health authorities.
+
+__Care, Healing & Recovery Capacity:__ Universal or near-universal healthcare systems operate across the region; hospital television sets proliferate as patient amenity.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility rates decline below replacement across most of Western Europe; delayed marriage and childbearing become normative.
+
+__Demographic Renewal & Density:__ Population growth stagnates; Mediterranean guest-worker migration continues into northern Europe, with family reunification accelerating; urban concentration stabilizes.
+
+__Attrition & Dependency Overhang:__ Aging populations begin to concern pension planners; dependency ratios remain manageable but trending unfavorably.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Material sufficiency assured for overwhelming majority; welfare states buffer remaining poverty; household television ownership approaches saturation.
+
+__Energy Capture & Conversion:__ Post-oil-shock diversification continues; French nuclear program expands dramatically; North Sea oil and gas reach peak development; per-capita energy consumption stabilizes after postwar growth.
+
+__Labor Organization & Coercion:__ Trade union power peaks then erodes; broadcast workers organized at public broadcasters face uncertain futures as commercial competition arrives; Thatcher government confronts union power in Britain.
+
+__Production & Surplus Capacity:__ Industrial restructuring proceeds; services sector expands; advertising industry grows rapidly, seeking television access previously limited by public monopolies.
+
+__Storage, Reserves & Buffering:__ Post-oil-shock national reserves stabilize; commercial broadcasters require substantial capital reserves for startup, drawing on international media conglomerates.
+
+__Exchange, Trade & Logistics:__ Single European Act (1986) preparation accelerates intra-European trade; American programming imports dominate commercial schedules cheaply, creating trade imbalances in audiovisual sector.
+
+__Value Storage, Credit & Deferred Exchange:__ Inflation moderates after late-1970s peaks; capital markets liberalize; media conglomerate financing becomes increasingly international.
+
+__Surplus Extraction & Redistribution:__ License fee systems persist for public broadcasters; commercial broadcasters funded entirely through advertising; regulatory battles over advertising time limits shape revenue potential.
+
+__Wealth Distribution & Asset Defense:__ Privatization enriches media entrepreneurs (Berlusconi in Italy most prominently); advertising revenue concentration favors major players.
+
+__Byproducts & Waste Routing:__ Consumer electronics obsolescence accelerates with color television replacement cycle; broadcast advertising contributes to consumer culture and associated waste streams.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear family remains statistical norm despite rising divorce rates; evening television viewing as family ritual persists but fragments as second-set households multiply.
+
+__Association & Mutual Aid:__ Community associations and churches decline in social centrality; broadcast viewing increasingly private and domestic; sports clubs remain significant social infrastructure.
+
+__Leisure, Play & Sociability:__ Television dominates leisure hours; commercial broadcasting extends viewing options and hours of transmission; video cassette recorders penetrate households (10-30% by 1985), enabling time-shifted viewing.
+
+__Stratification, Status & Group Structure:__ Commercial broadcasting stratifies audiences by purchasing power for advertisers; public broadcasters retain cultural prestige but face relevance questions; class boundaries remain marked but less rigid.
+
+__Administrative Capacity & Institutional Integrity:__ Broadcasting regulatory bodies struggle with commercial arrival; Italian regulatory vacuum persists 1976-1990 as Constitutional Court ruling outpaces legislation; French CNCL established 1986; German Länder retain broadcasting authority, complicating commercial licensing.
+
+__Coercive Apparatus & Means of Force:__ No significant interface with broadcast regulation beyond spectrum enforcement; Cold War military posture continues with NATO modernization (Pershing deployment controversy 1983).
+
+__Discharge, Disorder & Decay:__ Public broadcaster morale suffers; staff cuts and reorganization as commercial competition bites; audience fragmentation begins; some unrest over broadcast content and political control (Germany's broadcast councils, French ORTF successor struggles).
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-1968 exhaustion persists; economic anxieties from stagflation moderate by early 1980s; television increasingly channels entertainment rather than civic discourse; Cold War tensions resurge with Soviet invasion of Afghanistan and missile deployment controversies.
+
+__Leadership & Personal Authority:__ Silvio Berlusconi emerges as dominant media entrepreneur; Helmut Kohl takes power in Germany (1982); Francois Mitterrand in France (1981) initially maintains state broadcasting before embracing commercial expansion; Margaret Thatcher pursues deregulation agenda.
+
+__Legitimacy as Lived Allegiance:__ Public broadcasting legitimacy questioned as paternalist and unresponsive; commercial alternatives promise choice and populism; political left ambivalent about market liberalization; democratic transitions in Iberia complete (Spain joins EC 1986).
+
+__Political Will & Collective Resolve:__ Deregulation will prevails across center-right and increasingly center-left governments; European integration momentum builds toward Single European Act.
+
+__External Relations & Posture:__ Cold War second phase intensifies then moderates with Gorbachev; European Community coheres; American cultural products dominate commercial schedules, raising cultural sovereignty concerns.
+
+__Disaffection, Apathy & Spent Will:__ Political participation declines; television blamed for civic disengagement; public broadcaster defenders increasingly defensive; younger audiences drift toward commercial offerings.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Near-universal television access; VCR penetration expanding; videotext services (Minitel in France, Prestel in UK, Bildschirmtext in Germany) offer early electronic information access to minority of households.
+
+__Channels & Transmission Velocity:__ Commercial arrival multiplies channel count: Italy proliferates to hundreds of local stations consolidated into three Berlusconi networks; Germany licenses RTL and SAT.1 (1984); France adds Canal Plus (1984); cable systems expand, particularly in Benelux and Germany; satellite distribution infrastructure develops.
+
+__Record, Storage & Persistence:__ Television archives expand at public broadcasters; commercial stations initially neglect archiving; VCR enables household recording; program libraries become valuable assets.
+
+__Framing, Censorship & Discourse Norms:__ Commercial television tests content boundaries; sex and violence concerns mount; advertising-funded programming shapes content toward broad demographics; political coverage fragments as commercial stations avoid controversy.
+
+__Reception, Attention & Amplification:__ Peak audiences fragment; mass simultaneous viewing persists for major events but erodes for regular programming; channel-surfing behavior emerges with remote controls.
+
+__Signal Integrity & Noise Load:__ Signal quality improves with infrastructure investment; regulatory confusion in Italy creates interference problems; cable offers superior signal quality where available.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Consumer choice emerges as moral frame competing with public service obligation; market fairness arguments deployed for deregulation; cultural protectionism framed as legitimate defense.
+
+__Law, Codification & Regulatory Evolution:__ Italian Constitutional Court ruling (1976) breaks RAI monopoly at local level, creating decade of regulatory vacuum; French broadcasting law reformed repeatedly (1982, 1986); German commercial licensing proceeds through Länder; European Convention on Transfrontier Television prepared.
+
+__Adjudication, Liability & Sanction:__ Content regulation weakens with proliferation; advertising regulation varies by jurisdiction; cross-border transmission complicates enforcement.
+
+__Rights, Protections & Compliance Burden:__ Advertising quotas and content rules burden commercial operators; public broadcasters face unfair competition claims; copyright regimes struggle with new distribution modes.
+
+__Impunity & Unredressed Wrong:__ Berlusconi networks operate in regulatory gray zone; political connections shield commercial operators from enforcement; public interest obligations unevenly enforced.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Media studies emerges as academic discipline; Frankfurt School cultural industry critique confronts Birmingham School audience agency arguments; effects research proliferates; political economy of media gains prominence.
+
+__Applied Knowledge & Technical Method:__ Color television universal; satellite distribution technology matures; video recording and editing transform production; early computer graphics appear; audience measurement techniques sophisticate.
+
+__Education, Knowledge Stock & Skill Distribution:__ Educational television persists at public broadcasters; commercial schedules minimize educational content; media literacy concerns arise; film school graduates find commercial sector employment.
+
+__Obsolescence & Knowledge Decay:__ Black-and-white production skills obsolete; analog videotape formats multiply (VHS, Betamax, U-matic, Betacam) creating format confusion and future preservation challenges.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ National broadcasting traditions invoked as cultural patrimony under threat; American cultural imperialism discourse intensifies; European cultural identity arguments deployed for content quotas.
+
+__Legitimating Narrative & Ideology:__ Market liberalization and consumer sovereignty frame commercial expansion; public service broadcasting justification increasingly defensive; national culture defense arguments legitimize quotas.
+
+__Artistic Expression & Material Culture:__ Dallas (1978-1991) exemplifies American import dominance; national drama production pressured but persists; advertising aesthetics reshape visual culture; MTV launches (1981) transforming music presentation.
+
+__Form Exhaustion & Meaning Decay:__ Public broadcaster formats stale by comparison to commercial dynamism; variety show format declines; news magazine formats proliferate; tabloid entertainment programming emerges.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular materialism dominant; consumer culture celebrated by commercial television; religious broadcasting marginal except in southern Europe; Cold War nuclear anxiety persists as background.
+
+__Ritual, Devotion & Sacred Practice:__ Sunday television viewing competes with church attendance; religious festivals retain broadcast marking; Pope John Paul II effectively uses television for global reach.
+
+__Religious Institutions & Doctrinal Authority:__ Catholic Church concerns about commercial content; Protestant churches marginalized from broadcast policy; televangelism minimal compared to American pattern.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Immigrant religious communities (Muslim, Hindu) largely invisible in broadcast content; secular programming dominates.
+
+__Disenchantment & Sacred Discharge:__ Commercial television as temple of consumption; entertainment as meaning-substitute; spiritual vocabulary increasingly absent from public discourse; existential concerns sublimated in consumption.

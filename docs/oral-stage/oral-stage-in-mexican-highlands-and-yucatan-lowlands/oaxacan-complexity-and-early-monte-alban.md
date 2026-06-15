@@ -1,69 +1,140 @@
 # __900 BCE – 400 BCE__ — Oaxacan Complexity and Early Monte Alban
-__Summary:__ The Valley of Oaxaca undergoes political consolidation as competing chiefdoms centered on San José Mogote give way to the foundation of Monte Albán around 500 BCE, creating Mesoamerica's first hilltop urban center and among the earliest examples of state formation in the region; the binding constraint is competitive pressure among valley polities driving defensive consolidation and surplus mobilization; the system holds moderate resilience through productive highland agriculture but remains vulnerable to inter-polity conflict; the trajectory moves toward centralization, hieroglyphic experimentation, and the emergence of Zapotec civilization at the oral stage threshold.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Valley of Oaxaca comprises three arms (Etla, Tlacolula, Zimatlán) converging at the center where Monte Albán rises 400 meters above the valley floor; surrounding mountains channel movement through valley corridors; obsidian sources lie in distant highlands (Pachuca, Guatemala), marine shell on Pacific coast 100+ km distant, imposing moderate to high friction on exotic procurement.<br><br>
-__Climate Regime & Volatility:__ Semi-arid highland climate with 500–700 mm annual rainfall concentrated in summer wet season (May–October); frost possible at higher elevations; interannual variability significant, with drought years reducing maize yields; no evidence of major secular drift within window; precipitation adequate for rainfed agriculture in favorable years.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity moderate — Oaxaca lies in active zone but no catastrophic events documented for this window; drought the primary hazard, threatening subsistence every several years; flooding localized along river courses; exposure manageable given settlement distribution across three valley arms.<br><br>
-__Resource & Energy Endowment:__ Alluvial valley soils productive for maize agriculture; piedmont and mountain slopes provide maguey, wild plants, deer, and small game; local clays for ceramics; limestone for construction; obsidian, jade, and marine shell require long-distance procurement; no metal ores exploited in this window.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density modest — perhaps 15,000–20,000 in valley by 500 BCE; organic waste absorbed into soils and watercourses without stress; construction debris incorporated into platform fill; absorptive capacity effectively unlimited for window's occupation levels.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Highland environment reduces tropical disease burden relative to lowlands; endemic intestinal parasites and respiratory infections present; no epidemic events documented; background mortality moderate, supporting positive population growth through window.<br><br>
-__Nutrition & Physiological Vitality:__ Maize-bean-squash triad provides complementary amino acids; maguey, deer, rabbit, and gathered plants supplement diet; skeletal evidence from San José Mogote shows generally adequate nutrition with some stress markers in lower-status burials; elite access to more diverse and higher-quality foods.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Mating patterns unrecoverable; some figurines suggest fertility symbolism; population growth documented through site proliferation and increasing settlement size, indicating successful reproduction above replacement.<br><br>
-__Demographic Renewal & Density:__ Valley population grows from ~2,000 (900 BCE) to ~15,000–20,000 by Monte Albán's foundation; density increasing but well below carrying capacity; positive replacement sustained through window; Monte Albán founding draws population from across valley.<br><br>
-__Attrition & Dependency Overhang:__ Dependency ratios unrecoverable; extended family and village structures presumably absorb dependent populations; no evidence of systemic strain from orphaned or aged cohorts; community scale adequate to buffer normal attrition.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Rainfed maize agriculture primary, supplemented by beans, squash, chili; canal irrigation develops in some localities by 700–500 BCE, raising and stabilizing yields; maguey cultivation on piedmont provides fiber, food, and fermented drink; subsistence above bare survival with modest surplus in good years.<br><br>
-__Energy Capture & Conversion:__ Human muscle provides all work; no draft animals; fire for cooking, ceramics, lime production; canal construction represents significant energy investment; per-capita work ceiling limits construction pace but pool of mobilizable labor growing with population.<br><br>
-__Labor Organization & Coercion:__ Chiefly mobilization of labor for public construction (platforms, temples) documented at San José Mogote; degree of coercion versus voluntary participation unclear; Monte Albán's rapid construction (post-500 BCE) requires intensified labor extraction from across valley; probable corvée system under elite direction.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus sufficient to support part-time and attached craft specialists (shell workers, obsidian knappers, potters); surplus concentrated through chiefly extraction; production expanding through window with irrigation development and population growth.<br><br>
-__Storage, Reserves & Buffering:__ Granary storage documented through storage pits and vessels; maize storable for months with proper drying; reserves buffer single-season drought but thin against multi-year failures; community and chiefly stores provide pooled reserves.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange for obsidian (Pachuca, Guatemala), marine shell (Pacific coast), jade (Motagua Valley); exchange conducted through elite networks and possibly marketplace precursors; Gulf Coast contacts for Olmec-style objects; internal valley exchange for piedmont-valley products.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Greenstone, marine shell, and obsidian objects serve as prestige valuables; differential grave goods indicate accumulated wealth; deferred reciprocity within kin and alliance networks; no monetary instruments; chiefly redistribution channels stored value back into community.<br><br>
-__Surplus Extraction & Redistribution:__ Chiefs extract surplus labor and agricultural product for public construction, feasting, and prestige-good procurement; redistribution through feasts and community ceremonies; extraction intensifying through window as political competition escalates and Monte Albán requires massive construction investment.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth gradient sharpens from 900 to 400 BCE — elite burials at San José Mogote show jade, shell, elaborate offerings while commoner graves are sparse; elite defend assets through ideological legitimation, alliance, and increasingly defensible positions (Monte Albán's hilltop siting).<br><br>
-__Byproducts & Waste Routing:__ Obsidian knapping debris, ceramic wasters, food remains deposited in midden and fill contexts; organic waste dispersed into environment; no waste accumulation problem at documented population densities.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust presumably high within village and kin networks; inter-community relations complicated by chiefly competition — trust across polity boundaries lower; mutual aid within community sustained through reciprocity; Monte Albán's founding may represent trust-building confederation or trust-breaking conquest.<br><br>
-__Stratification, Status & Group Identity:__ Three-tier hierarchy emerging: chiefs, lesser elite, commoners; status marked by house size, burial goods, access to exotic materials; ethnic identity as Zapotec predecessors consolidating; inter-valley arm identity (Etla, Tlacolula, Zimatlán) may provide sub-group alignment; stratification hardening through window.<br><br>
-__Kinship, Family & Inheritance:__ Extended family households documented through residential patterns; inheritance likely patrilineal for chiefly positions based on later Zapotec patterns; land and property transmission within kin groups; marriage alliances between chiefly lineages probable but unrecoverable in detail.<br><br>
-__Civic Association & Self-Organization:__ Village-level organization primary below chiefly authority; no evidence of guilds or formal associations; collective projects organized through chiefly direction and kin mobilization; ward or barrio organization may emerge at Monte Albán by window's end.<br><br>
-__Leisure, Play & Sociability:__ Communal feasting documented through ceramic assemblages and faunal remains; ball game probable given Mesoamerican patterns though ballcourts not clearly dated to this window; everyday sociability unrecoverable.<br><br>
-__Grievance Channels & Social Discharge:__ Chiefly adjudication of disputes; ritual occasions and feasting absorb social friction; inter-polity grievances discharged through raiding and eventually Monte Albán's consolidation; danzante carvings (captive/sacrifice images) suggest violent discharge of inter-polity conflict.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Chiefdom organization transitioning toward state formation; San José Mogote dominant in Etla arm 1150–500 BCE; competing centers in Tlacolula and Zimatlán arms; Monte Albán founded ~500 BCE as either confederation or conquest, consolidating valley-wide authority; power centralizing through window.<br><br>
-__Succession & Power Transfer:__ Chiefly succession probably hereditary within elite lineages; rules unrecoverable; competitive succession possible given evidence of inter-polity conflict; Monte Albán's founding may represent successful seizure by one lineage or negotiated confederation — evidence supports both interpretations.<br><br>
-__Legitimacy & Political Narrative:__ Chiefs legitimate rule through access to supernatural power, exotic prestige goods, and monument construction; public buildings at San José Mogote broadcast elite status; danzante carvings (~600–500 BCE) display captive enemies, legitimating power through military prowess; narrative intensifying toward Monte Albán.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Early glyphic notation on danzante stones represents administrative experiment — calendar names, possible place glyphs; capacity otherwise oral and personal; three-tier settlement hierarchy suggests some coordination; institutional development accelerating toward window's end; no bureaucratic apparatus yet.<br><br>
-__Political Participation & Mobilization:__ Commoner participation limited to labor obligations and ritual attendance; elite faction competition drives political dynamics; no evidence of assembly or consultative mechanisms; mobilization for war increasing through window; popular voice unrecoverable.<br><br>
-__Geopolitical Position & External Relations:__ Valley of Oaxaca develops independently of Gulf Coast Olmec but engaged through exchange; Olmec-style objects at San José Mogote indicate prestige contact rather than political subordination; relations with Basin of Mexico centers minimal; Oaxaca emerges as autonomous regional power by window's end; Monte Albán's hilltop position signals concern with external threat or internal defense.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military documented; elite warriors depicted on early monuments; weapons include obsidian blades, maces, projectiles; danzante captive imagery indicates institutionalized warfare; coercive capacity sufficient for inter-valley raiding and polity consolidation.<br><br>
-__Internal Order & Threat Environment:__ Order maintained through chiefly authority and community norms; inter-polity raiding documented through danzante carvings; Monte Albán's defensible hilltop siting responds to threat environment; internal order presumably stable within polities while inter-polity violence endemic; disorder channeled into external conflict.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication primary; information travels at walking speed through valley; ceremonial gatherings at chiefly centers disseminate elite messages; long-distance transmission via trading parties; valley-wide transmission possible within days given compact geography.<br><br>
-__Record, Storage & Persistence:__ Earliest Mesoamerican glyphic experiments appear on danzante stones (~600–500 BCE) — calendar names, numeral notation, possible place and name glyphs; not yet a full writing system; information persists primarily through oral memory and trained specialist knowledge; iconography encodes some messages; oral tradition remains the medium institutions operate through.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control monument production and public discourse; danzante program frames enemies as conquered and sacrificed; commoner perspectives unrecoverable; symbolic vocabulary controlled through chiefly patronage; taboos on representation unknown.<br><br>
-__Reception, Attention & Amplification:__ Monumental architecture and carved stone command attention at ceremonial centers; danzante display amplifies message of elite military power; ceremonial repetition reinforces elite narratives; attention concentrated on chiefly messages during public gatherings.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces generational drift; glyphic notation begins to fix some information (calendar, names); verification dependent on specialist memory; noise load manageable at community scale; valley-wide communication maintains reasonable fidelity given compact geography.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Moral framework grounded in ancestral precedent, cosmic order, and reciprocal obligation; justice conceived as proper maintenance of hierarchical relationships and community harmony; enemies depicted on danzantes clearly fall outside moral community; specific content otherwise unrecoverable.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding norms exist as oral custom under chiefly authority; glyphic experiments not yet applied to legal codification; regulatory evolution untrackable; customary expectations presumably stable within communities.<br><br>
-__Adjudication, Enforcement & Liability:__ Chiefs adjudicate disputes; enforcement through community pressure and chiefly authority; liability principles unrecoverable; formal court structure absent; throughput adequate for community-scale dispute volume; inter-polity disputes resolved through raiding and war rather than adjudication.<br><br>
-__Rights, Protections & Compliance Burden:__ No concept of codified rights recoverable; protections embedded in kin obligations and chiefly responsibility; compliance burden light given absence of bureaucratic regulation; customary expectations predictable within community context.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity presumed given concentration of coercive and judicial authority; commoner redress dependent on kin solidarity and chiefly benevolence; danzante program suggests enemies receive no judicial consideration; accumulation of grievance within polities unknown but presumably discharged through mobility or absorbed by kinship systems.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Astronomical observation evident in developing calendrical notation (260-day ritual calendar); cosmological inquiry frames understanding of sky, earth, and underworld; empirical observation of agricultural cycles; paradigm mythic-ritual rather than empirical in modern sense; inquiry serving practical and ceremonial purposes.<br><br>
-__Applied Knowledge & Technical Method:__ Irrigation canal construction demonstrates hydraulic engineering; ceramic technology sophisticated; obsidian knapping, shell working, and stone carving require developed craft knowledge; glyphic notation emerging as applied information technology; agricultural methods refined through generations; methods transmitted orally through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through kin and craft lineages; literacy nascent and restricted to elite specialists; esoteric calendrical and ritual knowledge monopolized by elite; craft skills concentrated among specialists; agricultural and subsistence knowledge widely distributed; stock slowly growing through window.<br><br>
-__Obsolescence & Knowledge Decay:__ Oral transmission vulnerable to specialist death; glyphic experiments begin to buffer against decay; craft traditions sustained through unbroken transmission; knowledge stock stable to growing; no evidence of significant knowledge loss within window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Zapotec predecessor identity forming around valley, ancestral lineages, and supernatural patrons; cloud people (beni zaa) ethnonym may originate in this period; origin narratives unrecoverable but presumably legitimate elite descent from supernatural beings; San José Mogote traditions provide ancestral memory carried into Monte Albán era.<br><br>
-__Artistic Expression & Material Culture:__ Gray-ware ceramics with incised and carved decoration; stone monuments including danzante captive figures; jade and greenstone ornaments; platform and temple construction; architectural style developing toward Monte Albán monumental tradition; aesthetic conventions increasingly standardized across valley.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood unrecoverable directly; monument construction and defensive site positioning suggest both confidence and insecurity; danzante program indicates martial ethos and inter-polity hostility; disposition oriented toward competition, consolidation, and ritual legitimation.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms actively developing rather than exhausting; Olmec influence absorbed and transformed into regional idiom; danzante program represents formal innovation; glyphic experimentation creates new symbolic possibilities; no evidence of cultural stagnation or form exhaustion; creative ferment at oral-literate threshold.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Multi-level cosmos — sky, earth, underworld — characteristic of Mesoamerican worldview; ancestors and supernatural forces actively engaged in human affairs; calendrical cycles govern ritual timing; existential outlook assumes constant supernatural attention requiring proper ritual; fatalism balanced by belief in ritual efficacy.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple platforms at San José Mogote and Monte Albán serve as ritual foci; bloodletting and sacrifice suggested by danzante iconography; calendrical ceremonies marking agricultural and cosmic cycles; household ritual evidenced by figurines and offerings; communal participation in public ceremonies.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Chiefs serve as ritual specialists; separate priesthood may be emerging by window's end; doctrine transmitted orally through elite lineages; orthodoxy maintained through controlled monument production; institutional property concentrated at ceremonial centers; doctrinal authority centralizing at Monte Albán.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Olmec religious iconography absorbed and transformed into Zapotec predecessor tradition; local supernatural concepts merged with broader Mesoamerican patterns; no evidence of systematic conversion or missionary activity; syncretic process producing distinctive Oaxacan tradition; diffusion bidirectional through exchange networks.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of declining belief; ritual intensity increasing through window with temple construction and sacrificial imagery; sacred discharge adequate given sustained investment in ceremonial infrastructure; spiritual needs channeled into Monte Albán's emerging state cult; no void where sacred once answered.<br><br>
+
+__Summary:__ The Valley of Oaxaca emerges as an independent center of complexity, culminating in the founding of Monte Alban around 500 BCE as a hilltop capital that consolidates Zapotec political identity and produces the earliest datable Mesoamerican writing. The binding constraint remains oral: the glyphic notations appearing on monuments are calendrical tags and name-signs, not continuous prose; all law, history, and coordination still pass through speech, and the new script marks the threshold of literacy without yet crossing it.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Valley of Oaxaca lies at 1,500 m elevation, a Y-shaped basin formed by three converging arms drained by the Atoyac River. Mountain ridges isolate the valley from the Gulf Coast and Pacific piedmont, channeling movement through a few passes. Monte Alban occupies a defensible hilltop at the valley's center, commanding all three arms; its elevation imposes a 300 m climb that taxes attack and supply alike.
+
+__Climate Regime & Volatility:__ The semi-arid highland climate delivers a single summer rainy season (June–September) with 500–700 mm annual precipitation; interannual variability is moderate. Frost risk is low but present at higher elevations. No major secular drift marks the window; conditions favor maize-bean-squash cultivation with canal irrigation.
+
+__Hazard Regime & Exposure:__ Seismic activity is present but moderate; no catastrophic quake is recorded archaeologically. Drought is the primary hazard; multi-year dry spells stress subsistence. Flooding is localized along the Atoyac.
+
+__Resource & Energy Endowment:__ The valley provides arable alluvium, piedmont forests, and limited mineral resources (some mica, local clays). Obsidian must be imported from highland sources; jade and serpentine arrive from Guatemala and the Gulf Coast. The valley is resource-constrained for prestige goods but self-sufficient in staples.
+
+__Waste Absorption & Sink Capacity:__ Population density rises through the window but remains below carrying capacity; organic waste is absorbed in household middens. No saturation or degradation signal appears.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Highland elevation reduces tropical disease burden; endemic intestinal parasites and respiratory infections persist. Skeletal data from San Jose Mogote indicate moderate childhood mortality and adult lifespans averaging 35–40 years, slightly higher than lowland populations.
+
+__Nutrition & Physiological Vitality:__ Maize, beans, squash, maguey, and hunted game provide adequate nutrition; dental caries increase with maize dependence. Stature data suggest no severe nutritional stress; the population is physically robust.
+
+__Care, Healing & Recovery Capacity:__ Healing is herbalist and ritual; maguey provides antiseptic sap, and bone-setting is practiced. No institutional medicine; knowledge passes orally through healers.
+
+__Reproductive Biology & Pairing Dynamics:__ Monogamy predominates among commoners; elite polygyny is probable. Fertility is adequate; no reproductive crisis marks the window.
+
+__Demographic Renewal & Density:__ Population grows from several thousand in 900 BCE to tens of thousands by 400 BCE; nucleation at Monte Alban accelerates after 500 BCE. Migration from surrounding hamlets concentrates population at the hilltop center.
+
+__Attrition & Dependency Overhang:__ Dependent load is absorbed within households and kin groups; no institutional support. The load does not outpace productive capacity.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Irrigation agriculture (canal and floodwater) supports maize yields sufficient for surplus; maguey provides fiber, drink, and backup calories. No famine signature appears; the provisioning floor is stable.
+
+__Energy Capture & Conversion:__ Human muscle is the sole power source; no animal traction. Irrigation extends cultivation but does not multiply per-capita output. Labor mobilization for Monte Alban's terraces and walls draws on corvee.
+
+__Labor Organization & Coercion:__ Labor is mobilized through kin obligation and tribute; corvee constructs Monte Alban's platforms and defenses. Coercion is social rather than chattel-based.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports a non-producing elite, priests, and artisans; ceramic production, obsidian working, and shell ornament manufacture concentrate at major centers. Surplus flow is adequate for public construction but not territorial conquest.
+
+__Storage, Reserves & Buffering:__ Granary storage buffers single-season shortfalls; maguey provides drought-resistant backup. Multi-year reserves are limited; risk pooling operates through kin and community reciprocity.
+
+__Exchange, Trade & Logistics:__ Exchange networks link Oaxaca to the Gulf Coast (Olmec goods, jade), highland Mexico (obsidian), and the Pacific (shell). San Jose Mogote and later Monte Alban control valley exchange; external routes pass through mountain corridors.
+
+__Value Storage, Credit & Deferred Exchange:__ Value is stored in prestige goods (jade, shell, obsidian mirrors) and deferred through reciprocal obligation. No coinage; exchange is embedded in social relations.
+
+__Surplus Extraction & Redistribution:__ Elites extract tribute in labor and goods, redistributing through feasts and ceremonies. Extraction is sustainable; no evidence of resistance or exhaustion.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in elite tombs and caches; commoners possess utilitarian goods. Tomb construction and hilltop location provide passive defense.
+
+__Byproducts & Waste Routing:__ Organic waste is absorbed locally; construction spoil incorporated into terracing. No financial mispricing; the economy is pre-monetary.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral or patrilineal kinship organizes households; elite lineages claim descent from supernatural ancestors. Inheritance passes through lineage, validated by oral genealogy and tomb dedication.
+
+__Association & Mutual Aid:__ Craft specialists (potters, obsidian workers) cluster in barrios; village communities maintain reciprocal aid. No formal guilds exist.
+
+__Leisure, Play & Sociability:__ Ball courts appear at San Jose Mogote; ritual ball games provide sociable and political contexts. Feasting accompanies elite ceremonies.
+
+__Stratification, Status & Group Structure:__ Society stratifies sharply: hereditary elites control ritual and exchange, specialists produce prestige goods, commoners farm. Monte Alban's founding may represent elite coalescence against commoner or rival-center challenge.
+
+__Administrative Capacity & Institutional Integrity:__ Administration is personal and minimal; the emerging glyphic notation (calendrical dates, name-signs on Monument 3 and danzante slabs) suggests nascent record-keeping but not bureaucratic administration. Commands are oral; succession depends on oral genealogy and ritual validation.
+
+__Coercive Apparatus & Means of Force:__ Monte Alban's defensive walls and hilltop location indicate concern with force; a warrior elite emerges, depicted in conquest slabs (danzantes showing slain or captive enemies). No standing army; force is mobilized through elite retinues and kin obligation.
+
+__Discharge, Disorder & Decay:__ Social friction is discharged through warfare (captive-taking, display of slain enemies) and ritual. The danzante slabs may represent defeated rivals; conquest consolidates Monte Alban's authority. No internal collapse occurs within the window; the apparatus is expanding, not decaying.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Sentiment is assertive; Monte Alban's founding represents collective will to create a new center. Trust extends within the valley polity; distrust marks relations with rival centers.
+
+__Leadership & Personal Authority:__ Leadership is personal and charismatic; rulers combine military, religious, and political roles. The danzante slabs may name specific rulers or their victims, memorializing personal authority.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is enacted through participation in Monte Alban's construction, rituals, and warfare. Legitimacy rests on military success and ritual efficacy; the public display of slain enemies reinforces it.
+
+__Political Will & Collective Resolve:__ Collective will is directed toward hilltop construction, defensive fortification, and expansion. The founding of Monte Alban represents a decisive act of political will, possibly a synoecism uniting valley elites.
+
+__External Relations & Posture:__ Monte Alban projects aggressive posture; the danzante slabs document military victories over named enemies. Relations with the Olmec heartland are competitive; Oaxaca absorbs Olmec iconography but asserts independent authority.
+
+__Disaffection, Apathy & Spent Will:__ No disaffection appears within the window; the polity is in expansion phase. Spent will does not yet accumulate.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Zapotec is the dominant language; mutual intelligibility extends throughout the valley. Olmec iconography is understood by elites but requires oral explication. The emerging glyphic system is restricted to elites.
+
+__Channels & Transmission Velocity:__ Information travels at walking speed; messengers carry oral commands. The valley's compact geography permits rapid communication within the polity; external news arrives slowly.
+
+__Record, Storage & Persistence:__ The earliest Mesoamerican writing appears in this window: Monument 3 at San Jose Mogote (~600 BCE) shows a calendrical day-sign and probable name-glyph; the danzante slabs at Monte Alban (~500–400 BCE) display similar notations identifying victims or dates. These are isolated glyphs, not continuous text; all narrative, law, and history remain oral. The glyphs are mnemonic tags, not autonomous records.
+
+__Framing, Censorship & Discourse Norms:__ Elite control of ritual and glyphic knowledge frames permissible discourse; the ability to read glyphs is a status marker. No formal censorship; exclusion from elite knowledge enforces conformity.
+
+__Reception, Attention & Amplification:__ Attention is captured at Monte Alban's plazas and temples; monumental glyphs amplify elite claims. Oral repetition sustains the narrative in households.
+
+__Signal Integrity & Noise Load:__ Oral transmission is subject to drift; the emerging glyphs reduce noise for calendrical and naming purposes but do not yet stabilize narrative. Conflicting oral traditions may accumulate as noise.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is embedded in kin obligation, reciprocity, and cosmic order. The display of slain enemies (danzantes) may represent justice against transgressors or simply military triumph; the moral valence is unclear.
+
+__Law, Codification & Regulatory Evolution:__ No codified law exists; norms are customary and orally transmitted. Elite pronouncements carry binding force but are not recorded in writing.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by kin elders or elite figures. Liability is collective; sanctions include compensation, exile, or death. Captive-taking in warfare may substitute for internal execution.
+
+__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kin status; commoners owe tribute and labor, elites owe protection. Compliance burden is customary and predictable.
+
+__Impunity & Unredressed Wrong:__ Elite impunity is likely; the danzante slabs may represent elite violence against rivals rather than justice. The gap between justice owed and delivered is managed by ideology.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is cosmological; the paradigm is mythic. Astronomical observation for calendrical purposes underlies the emerging glyphic system; the 260-day ritual calendar is in use.
+
+__Applied Knowledge & Technical Method:__ Techniques include irrigation engineering, stone masonry, ceramics, and obsidian knapping. The invention of glyphic notation is the signal intellectual achievement; technique is transmitted orally through apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge is held by specialists and transmitted within lineages; the glyphic system is restricted to elite priests. Literacy in any meaningful sense does not yet exist; skill distribution is narrow.
+
+__Obsolescence & Knowledge Decay:__ Olmec techniques absorbed earlier in the window (jade carving, iconographic style) are adapted and localized; some Olmec motifs drop from use as Zapotec identity asserts itself. Oral transmission remains fragile; the glyphs reduce but do not eliminate decay risk.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Zapotec identity crystallizes around Monte Alban as the sacred center; origin narratives likely emphasize descent from cloud-beings or supernatural ancestors (later attested). Memory of the founding act—the hilltop synoecism—may become foundational.
+
+__Legitimating Narrative & Ideology:__ The elite's right to rule is grounded in military success (danzante victories), ritual efficacy, and supernatural descent. Monumental display proclaims this narrative; oral recitation fills in the story.
+
+__Artistic Expression & Material Culture:__ Material culture includes gray-ware ceramics, jade and shell ornaments, and carved stone monuments. The danzante style—naked, mutilated figures in contorted poses—is distinctive and disturbing, asserting power through display of violence.
+
+__Form Exhaustion & Meaning Decay:__ The forms are new and potent within the window; no exhaustion appears. Olmec motifs are absorbed and transformed rather than hollowed out.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is animated by supernatural forces—cloud spirits, lightning, ancestors—accessible through ritual and sacrifice. Human existence is embedded in agricultural and cosmic cycles; the calendar orders ritual life.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual includes offerings, probable bloodletting, and possibly human sacrifice (the danzante figures may represent sacrificial victims). Temples at Monte Alban align with astronomical events; ceremonies mark calendrical cycles.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood is documented, but elite figures combine political and religious roles. Doctrinal authority is personal, transmitted orally, and validated by successful ritual and military performance.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Olmec spiritual motifs (were-jaguar, supernatural serpent) are absorbed into Zapotec cosmology but localized; independent Zapotec deities emerge. The spiritual system is syncretic, not displaced.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment appears within the window; the sacred center at Monte Alban is newly founded and potent. The spiritual need is fully anchored in the emerging Zapotec cosmology.
+

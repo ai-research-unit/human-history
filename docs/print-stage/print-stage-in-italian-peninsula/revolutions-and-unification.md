@@ -1,69 +1,139 @@
-# __1848 CE – 1861 CE__ — Revolutions and Unification
-__Summary:__ The peninsula convulsed by revolutionary upheaval in 1848, Austrian reconquest, and then Piedmontese-led diplomatic and military unification culminating in the Kingdom of Italy, with the binding constraint being Austrian military power initially suppressing national movements until French alliance and diplomatic skill shifted the balance, margins thin as revolutionary governments collapsed but widening as Piedmont consolidated constitutional liberalism and Garibaldi's expedition exploited southern weakness, direction trending from fragmentation through failed revolution to successful unification under Savoyard monarchy.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Peninsula still divided by Apennines but military campaigns demonstrating improved road networks; Austrian Quadrilateral fortifications dominating Lombard plain; Alps barrier overcome through French alliance; coastal movement facilitating Garibaldi's southern expedition; geography remaining constraint but transit friction declining.<br><br>
-__Climate Regime & Volatility:__ Mediterranean-continental regime stable; 1846–1847 harvest failures contributing to revolutionary ferment; no major climate drift during window; volatility within normal range.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk continuing; no catastrophic events during window; infrastructure margins adequate; military campaigns more destructive than natural hazards.<br><br>
-__Resource & Energy Endowment:__ Coal imports increasing through Genoa; hydropower developing in Piedmont; agricultural land productive; silk exports continuing; energy endowment still constraining but beginning transition toward industrial exploitation.<br><br>
-__Waste Absorption & Sink Capacity:__ Pre-industrial and early industrial load light; urban growth in Turin and Milan beginning to strain sanitation; absorptive capacity ample; no environmental constraint binding.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera epidemics continuing (1854–1855 severe); malaria endemic in south; military campaigns spreading disease; mortality elevated during war years; baseline slowly improving with public health measures in Piedmont.<br><br>
-__Nutrition & Physiological Vitality:__ Pellagra continuing in northern peasantry; southern diet marginally better; 1846–1847 crisis worsening nutrition; vitality recovering after mid-century but remaining modest overall.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Traditional patterns continuing; war deaths affecting male cohorts temporarily; no significant shift in pairing dynamics.<br><br>
-__Demographic Renewal & Density:__ Population continuing to grow despite crisis mortality; density increasing in northern industrial centers; emigration beginning from south; renewal positive, outpacing losses.<br><br>
-__Attrition & Dependency Overhang:__ War widows and orphans creating temporary surge in dependency; traditional family and church charity absorbing load; dependency within carrying capacity but strained during conflicts.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ 1846–1847 harvest failures pushing peasants toward subsistence edge, contributing to revolutionary atmosphere; recovery after 1848; floor precarious but stabilizing through decade.<br><br>
-__Energy Capture & Conversion:__ Steam power expanding in Piedmont textiles and nascent railways; animal and water power still dominant; energy capture rising slowly, especially after unification opens investment.<br><br>
-__Labor Organization & Coercion:__ Peasant labor continuing under sharecropping and latifundia systems; urban wage labor growing in northern factories; guilds further declining; coercion through economic necessity rather than legal compulsion; Garibaldi abolishing feudal remnants in south.<br><br>
-__Production & Surplus Capacity:__ Agricultural production dominant; silk exports strong; railway construction beginning (Turin-Genoa); manufacturing expanding in Piedmont; surplus capacity growing, especially post-unification.<br><br>
-__Storage, Reserves & Buffering:__ State finances strained by wars; grain reserves still thin; credit expanding through banking development in Piedmont; buffering improving but tested by military expenditure.<br><br>
-__Exchange, Trade & Logistics:__ Internal customs barriers falling with unification; railway network beginning (850 km by 1861); port infrastructure improving; logistics transforming, markets integrating.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Banking system developing (Banca di Genova, Banca di Torino merging 1849); lira establishing as currency; credit expanding for commercial and state purposes; capital formation accelerating in Piedmont.<br><br>
-__Surplus Extraction & Redistribution:__ Piedmont taxing heavily for war finance; Austrian war indemnities crushing Lombardy; unified state inheriting debts; extraction heavy but channeled toward military-political objectives.<br><br>
-__Wealth Distribution & Asset Defense:__ Church properties beginning secularization; noble lands persisting; bourgeoisie gaining through commerce and speculation; inequality high; asset defense through political connection and new legal frameworks.<br><br>
-__Byproducts & Waste Routing:__ Early industrial waste emerging in northern centers; urban waste management improving in reformed cities; routing adequate; no significant discharge constraint.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Revolutionary solidarity creating temporary trust expansion; national movement building cross-regional bonds among patriots; peasant trust remaining local; postwar trust radius wider among educated classes, narrow below.<br><br>
-__Stratification, Status & Group Identity:__ National identity consolidating among middle and upper classes; regional identities persisting among peasantry; noble privilege declining under liberal reforms; bourgeoisie rising; boundaries loosening through political participation.<br><br>
-__Kinship, Family & Inheritance:__ Traditional kinship patterns continuing; inheritance laws standardizing under Piedmontese civil code extending to unified state; family structures stable.<br><br>
-__Civic Association & Self-Organization:__ Political associations and clubs flourishing during revolutionary moments; Società Nazionale organizing unification support; Masonic networks active; associational fabric thickening under constitutional Piedmont, suppressed in Austrian-controlled areas until unification.<br><br>
-__Leisure, Play & Sociability:__ Opera carrying nationalist messages (Verdi); cafe politics flourishing; patriotic festivals during revolutionary periods; sociability increasingly politicized.<br><br>
-__Grievance Channels & Social Discharge:__ Revolutionary moments opening channels; brutal suppression after 1849 closing them; Piedmont providing legal outlet; brigandage in south channeling peasant grievance; discharge inadequate, building toward post-unification southern insurgency.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Fragmentation transforming to unification; Austrian hegemony broken by 1859; Piedmont absorbing other states; constitutional monarchy under Vittorio Emanuele II centralizing authority; dramatic concentration of power in unified state by 1861.<br><br>
-__Succession & Power Transfer:__ Savoyard dynasty providing stable succession; Cavour's death 1861 testing ministerial transfer; hereditary monarchy routinized; transfer functioning.<br><br>
-__Legitimacy & Political Narrative:__ Nationalist ideology triumphing; plebiscites legitimating annexations; liberal constitutionalism as governing narrative; legitimacy high among patriots, contested by clericals and disappointed radicals.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Piedmontese administration efficient, extending to unified state; other traditions integrated with difficulty; Cavour's competence setting standard; record-keeping good; corruption moderate by European standards.<br><br>
-__Political Participation & Mobilization:__ Statuto granting limited constitutional participation; property franchise restricting vote to perhaps 2% of population; press freedom in Piedmont; mass mobilization through Garibaldi's volunteers; participation widening but narrow by democratic standards.<br><br>
-__Geopolitical Position & External Relations:__ French alliance decisive (Plombieres 1858, war 1859); British sympathy helpful; Austrian power broken in Italy; papal question opening conflict with France; position transforming from object to subject of great-power politics.<br><br>
-__Coercive Apparatus & Means of Force:__ Piedmontese army modernizing (Crimean War experience); Garibaldi's volunteers providing mass force; Austrian army defeated at Magenta and Solferino; fortifications overcome; force monopoly transferring to unified state.<br><br>
-__Internal Order & Threat Environment:__ Revolutionary governments fragile (Roman Republic, Venice); Austrian reconquest violent; southern brigandage erupting post-unification; margin adequate in north, strained in south where military occupation continuing.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph arriving (1850s network expanding); press flourishing in Piedmont; revolutionary papers during 1848–1849; velocity increasing dramatically; reach expanding with literacy and constitutional press freedom.<br><br>
-__Record, Storage & Persistence:__ State archives consolidating; newspaper archives accumulating; diplomatic record extensive (Cavour's correspondence); persistence high; documentation comprehensive for political events.<br><br>
-__Framing, Censorship & Discourse Norms:__ Piedmont providing free press model; other states censoring until annexed; nationalist framing dominant in patriot publications; permitted band narrow under Austria, wide in Piedmont, widening across peninsula with unification.<br><br>
-__Reception, Attention & Amplification:__ Patriotic newspapers reaching mass readership; Garibaldi as media phenomenon; opera performances amplifying nationalist sentiment; attention concentrated on political drama; amplification through print and public gathering.<br><br>
-__Signal Integrity & Noise Load:__ Propaganda from multiple factions; rumor intense during revolutionary moments; verification improving through telegraph and regular press; noise elevated but manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Liberal conception of rights spreading among educated; peasant moral economy persisting; nationalist justice narrative framing unification as righteous; foundations shifting toward constitutional liberalism.<br><br>
-__Law, Codification & Regulatory Evolution:__ Piedmontese Albertine Statute (1848) establishing constitutional framework; civil code extending to unified state; legal unification proceeding rapidly; evolution toward liberal codification.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system extending with unification; military tribunals handling brigandage; enforcement uneven in newly annexed territories; liability increasingly formal and predictable.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights under Statuto (press, assembly, religion); property rights strengthening; compliance burden lighter under liberal regime; some martial law in south.<br><br>
-__Impunity & Unredressed Wrong:__ Austrian atrocities after 1849 unredressed; southern peasant grievances generating brigandage rather than legal remedy; revolutionary executions unpunished; impunity significant during transitions, reducing under unified legal order.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Historical scholarship serving nationalist narrative; natural sciences developing within European mainstream; political economy influential (Cavour's liberalism); paradigm combining romantic nationalism with liberal political theory.<br><br>
-__Applied Knowledge & Technical Method:__ Railway engineering advancing rapidly; military technology modernizing (rifled weapons); agricultural improvement methods spreading; technical method available and increasingly applied with investment.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy remaining low (perhaps 25% male); Piedmontese education reforms beginning; universities producing professional class; knowledge stock growing through European exchange; skill distribution narrow but widening with reform.<br><br>
-__Obsolescence & Knowledge Decay:__ Old regime political theory discredited; religious curriculum persisting in unreformed areas; clearing accelerating through revolutionary experience and unification reform; decay of outdated methods proceeding.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ 1848 revolutions becoming foundational memory; Roman Republic martyrdom enshrined; Garibaldi as mythic hero; national identity crystallizing around Risorgimento narrative; regional identities persisting but subordinated.<br><br>
-__Artistic Expression & Material Culture:__ Verdi's operas embodying national spirit; neoclassical and romantic styles mixing; monuments to national heroes beginning; material culture transforming toward national symbols and modern infrastructure.<br><br>
-__Collective Mood & Behavioral Disposition:__ Exhilaration during revolutions; despair after defeats; triumphalism with unification; mood swinging dramatically but ending on optimistic note; risk appetite high among patriots.<br><br>
-__Form Exhaustion & Meaning Decay:__ Restoration forms exhausted and discredited; nationalist romantic forms ascendant and vital; religious traditionalism challenged; renewal through political transformation and artistic innovation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology persisting among masses; secular nationalism among patriots creating tension; providential interpretation of unification by some Catholics, condemnation by papacy; outlook divided between traditional piety and nationalist secular mission.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Traditional Catholic practice continuing; patriotic rituals emerging (commemorations, Garibaldian symbolism); practice intensive among peasantry, increasingly contested among nationalists.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Papacy losing temporal power (Papal States reduced to Rome by 1860); church-state conflict intensifying; religious orders targeted in Piedmontese secularization; doctrinal authority challenged by liberal state, consolidating defensively.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism unchallenged as mass religion; nationalist civil religion emerging among educated; Waldensians gaining toleration in Piedmont; diffusion stable, some displacement among elite toward secular nationalism.<br><br>
-__Disenchantment & Sacred Discharge:__ Anticlericalism growing through church opposition to unification; Non expedit alienating Catholics from state; sacred grip weakening among political class; discharge accumulating through church-state conflict, not yet resolved.<br><br>
+# __1848 CE – 1861 CE — Revolutions and Unification__
+
+The revolutions of 1848 collapsed across Italy but proved that print-mobilized national sentiment could briefly overthrow established order; the discrete event is the transformation from a peninsula of eight states under Austrian hegemony to a unified Kingdom of Italy under Piedmontese leadership, with the binding constraint being the military and diplomatic balance that only French intervention could tilt against Austria, and Cavour's calculated statecraft operating through an increasingly sophisticated press as the most causal factor turning Piedmont's regional ambitions into national unification.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Alps mark the northern frontier, contested at the Quadrilateral fortresses (Mantua, Verona, Peschiera, Legnago) that Austrian forces hold until 1866; the Apennines divide the peninsula; Garibaldi's 1860 expedition traverses the Strait of Messina; Rome behind its walls remains a prize withheld by French garrison until 1870.
+
+__Climate Regime & Volatility:__ Mediterranean climate conditions persist; no exceptional climatic stress marks the period; the 1853–1856 Crimean War occurs distant but draws Piedmont into European diplomacy.
+
+__Hazard Regime & Exposure:__ Urban populations remain vulnerable to cholera, which returns in 1854–1855; no major earthquakes interrupt the political crisis; sieges (Rome 1849, Venice 1849) impose localized devastation.
+
+__Resource & Energy Endowment:__ Piedmontese hydropower and emerging coal imports support industrialization; Lombardy's agricultural productivity is transferred to the new state in 1859; southern latifundia and sulfur mines pass to unified Italy in 1860.
+
+__Waste Absorption & Sink Capacity:__ Industrial expansion in Piedmont-Lombardy begins to load rivers; urban sanitation remains primitive; siege conditions in Venice and Rome produce localized health crises.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Cholera returns in 1854–1855, killing tens of thousands; typhus accompanies military campaigns; malaria persists in the Pontine Marshes and southern coasts; military medicine remains rudimentary.
+
+__Nutrition & Physiological Vitality:__ Harvest failures in 1853 strain the south; conscript armies reveal widespread malnourishment and stunted stature among southern recruits; northern populations are somewhat better nourished.
+
+__Care, Healing & Recovery Capacity:__ Military hospitals are overwhelmed in 1859; the Battle of Solferino (1859) directly inspires Henry Dunant to found the Red Cross; civilian medical care remains Church-dependent and unevenly distributed.
+
+__Reproductive Biology & Pairing Dynamics:__ War and emigration disrupt household formation; conscription removes young men; fertility patterns continue unchanged among the peasantry.
+
+__Demographic Renewal & Density:__ Population grows toward 26 million by 1861; emigration has not yet begun at scale; northern cities grow while southern rural density presses against subsistence margins.
+
+__Attrition & Dependency Overhang:__ War casualties and cholera deaths leave widows and orphans; the newly unified state inherits weak welfare structures; Church charities and confraternities bear the load.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Southern agrarian crisis underlies brigandage; mezzadria continues in Tuscany; northern agriculture integrates with emerging industrial markets; unification exposes the south to northern competition without protective tariffs.
+
+__Energy Capture & Conversion:__ Piedmont builds Italy's first significant railroad network (over 800 km by 1859); coal imports through Genoa fuel locomotives and emerging industry; watermills continue to power textile and milling operations.
+
+__Labor Organization & Coercion:__ Wage labor expands in northern industry; southern braccianti remain near-landless and seasonally employed; Garibaldi's volunteers fight without pay; the unified state inherits coercive labor relations in the south.
+
+__Production & Surplus Capacity:__ Piedmontese silk and textiles expand; Lombard agriculture is highly productive; southern latifundia produce wheat for export; industrial production remains limited to the northern triangle.
+
+__Storage, Reserves & Buffering:__ Cavour's government borrows heavily to finance war; national debt expands; the unified state inherits disparate financial systems and exhausted treasuries from annexed states.
+
+__Exchange, Trade & Logistics:__ Railroads accelerate northern integration; Genoa and Livorno serve as commercial ports; internal tariffs fall as states unify; the 1860 Cobden-Chevalier Treaty shapes Italian free-trade orientation.
+
+__Value Storage, Credit & Deferred Exchange:__ Piedmontese banks (Banca di Genova, Banca di Torino) provide credit; unification creates currency chaos with multiple coinages; national monetary unification follows slowly; state bonds finance war expenditure.
+
+__Surplus Extraction & Redistribution:__ Piedmontese taxation is rationalized and heavy; annexed states face new fiscal regimes; land tax remains the primary revenue source; war spending strains fiscal capacity.
+
+__Wealth Distribution & Asset Defense:__ Church properties are confiscated in Piedmont (1855) and extended to unified Italy; noble estates remain largely intact; bourgeois wealth concentrates in northern commerce and industry.
+
+__Byproducts & Waste Routing:__ Wartime destruction (sieges of Rome, Venice, Ancona) creates rubble; industrial waste in Turin and Milan accumulates; agricultural waste remains the dominant category.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Piedmontese civil code extends across unified Italy; patrilineal inheritance persists; southern extended family structures absorb social insurance functions the weak state cannot provide.
+
+__Association & Mutual Aid:__ Mutual-aid societies (societa di mutuo soccorso) expand, especially in northern cities; the National Society (Societa Nazionale Italiana) organizes pro-unification sentiment; Masonic lodges network liberal elites.
+
+__Leisure, Play & Sociability:__ Opera remains the mass entertainment; Verdi's works encode nationalist sentiment (the famous Va, pensiero; Nabucco as allegory); coffeehouses and salons serve as political forums.
+
+__Stratification, Status & Group Structure:__ The unifying elite is largely northern, liberal, and bourgeois; southern aristocracy accepts unification reluctantly; peasantry remains at the base, alienated from the national project; clergy divides between those accepting and those resisting the new order.
+
+__Administrative Capacity & Institutional Integrity:__ Piedmontese administration (prefects, provinces) extends across unified Italy; the Statuto Albertino (1848) becomes the national constitution; bureaucratic capacity is thin in the south, requiring military administration and prolonged states of siege.
+
+__Coercive Apparatus & Means of Force:__ Piedmontese army, French allies (1859), and Garibaldi's volunteers (1860) constitute the unification forces; Austrian and Bourbon armies are defeated; the unified state builds a conscript national army; brigandage suppression (1861–1865) requires more troops than the wars of unification.
+
+__Discharge, Disorder & Decay:__ The 1848 revolutions fail violently (French siege of Rome, Austrian reconquest of Lombardy-Venetia); the 1859–1860 wars are relatively brief; brigandage explodes in the south (1861 onward), a rural civil war costing more lives than the Risorgimento wars; social dislocation is severe in annexed territories.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Revolutionary enthusiasm in 1848 gives way to despair; Piedmontese leadership revives hope after 1852; Garibaldi's expedition generates popular frenzy; southern populations are ambivalent or hostile to northern takeover.
+
+__Leadership & Personal Authority:__ Cavour epitomizes calculating statecraft, manipulating press and diplomacy; Garibaldi embodies romantic heroism, commanding volunteer devotion; Victor Emmanuel II personifies monarchical legitimacy; Mazzini remains the prophet in exile, marginalized by Cavourian realism.
+
+__Legitimacy as Lived Allegiance:__ Piedmontese legitimacy extends through plebiscites (1859–1860) that ratify annexations; the new Kingdom claims national legitimacy against papal and Bourbon claims; southern legitimism persists among peasants loyal to the Bourbons.
+
+__Political Will & Collective Resolve:__ Cavour's will drives Piedmontese policy; Victor Emmanuel II supports military adventurism; Garibaldi acts on personal resolve; the volunteer movement demonstrates mobilized will among patriots; southern resistance demonstrates counter-will.
+
+__External Relations & Posture:__ France under Napoleon III is the essential ally; Austrian defeat (1859) is the pivot; Britain provides diplomatic sympathy and naval tolerance; Prussia is not yet a factor; the papacy relies on French garrison.
+
+__Disaffection, Apathy & Spent Will:__ The post-1848 decade sees exile and despair among revolutionaries; Piedmont's success rekindles hope; after 1860, southern disaffection manifests as brigandage; the national project generates as much resentment as enthusiasm in annexed territories.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Piedmont's press enjoys relative freedom after 1848; literary Italian spreads through schools and patriotic literature; dialects still dominate speech; literacy remains below 25 percent nationally, lower in the south.
+
+__Channels & Transmission Velocity:__ Telegraph connects major cities by 1860; railroads accelerate news and troop movement; steamships link Italian ports to European capitals; Cavour's press management is sophisticated.
+
+__Record, Storage & Persistence:__ State archives consolidate; parliamentary debates are published; newspapers proliferate in Piedmont (Il Risorgimento, La Gazzetta del Popolo); censorship persists in other states until annexation.
+
+__Framing, Censorship & Discourse Norms:__ Cavour subsidizes favorable press and manipulates opinion; opposition papers face harassment; the narrative of national liberation frames events; southern resistance is framed as brigandage, not political opposition.
+
+__Reception, Attention & Amplification:__ The educated bourgeoisie reads newspapers; patriotic opera reaches broader audiences; Garibaldi's exploits generate European press attention; print amplifies the Risorgimento narrative across Europe.
+
+__Signal Integrity & Noise Load:__ Competing narratives (Mazzinian republican, Cavourian monarchist, Gioberti neo-Guelph, southern legitimist) create noise; Austrian counter-propaganda loses effectiveness; the unified narrative emerges but does not penetrate southern peasantry.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ National self-determination provides the moral frame; the right of peoples to govern themselves underpins liberal ideology; Catholic teaching challenges secular national sovereignty.
+
+__Law, Codification & Regulatory Evolution:__ Piedmontese codes (based on Napoleonic models) extend across unified Italy; the Statuto Albertino provides constitutional framework; Siccardi laws (1850) abolish ecclesiastical privileges in Piedmont.
+
+__Adjudication, Liability & Sanction:__ Piedmontese courts extend jurisdiction; military tribunals operate in the south during brigandage suppression; political prisoners from 1848 are amnestied or escape; executions of brigands are summary.
+
+__Rights, Protections & Compliance Burden:__ Piedmontese constitution guarantees basic rights (press, assembly, property) with limitations; suffrage is restricted to propertied males (roughly 2 percent); southern populations experience military occupation, not civil rights.
+
+__Impunity & Unredressed Wrong:__ Austrian repression before 1859 generates unredressed wrongs; state violence in brigandage suppression (1861–1865) operates with impunity; summary executions, village burnings, and mass internments characterize the counter-insurgency.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Italian scholarship remains secondary to French and German; historical writing serves national ideology (Cesare Balbo, Carlo Botta); political economy follows liberal orthodoxy; no major scientific contributions mark the period.
+
+__Applied Knowledge & Technical Method:__ Railroad engineering transfers from Britain and France; military technology remains dependent on foreign models (rifled artillery, ironclads); agricultural technique improves slowly in the north.
+
+__Education, Knowledge Stock & Skill Distribution:__ Piedmontese Casati Law (1859) mandates elementary education; literacy remains low, especially in the south; universities train the professional elite; technical education is minimal.
+
+__Obsolescence & Knowledge Decay:__ Traditional artisan skills decline against factory competition; classical education persists but offers declining returns; practical technical knowledge is undersupplied.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Risorgimento generates its own mythos: the Five Days of Milan (1848), the Roman Republic (1849), Garibaldi's Expedition (1860) enter national memory; Manzoni's language and Verdi's music define the cultural nation.
+
+__Legitimating Narrative & Ideology:__ National unification is legitimated as the fulfillment of historical destiny; liberal constitutional monarchy is the political formula; Piedmont's leadership is justified by its constitutional progress and military success.
+
+__Artistic Expression & Material Culture:__ Verdi's operas (Rigoletto, La traviata, Un ballo in maschera) dominate; patriotic poetry and painting celebrate unification; neoclassical and early eclectic architecture mark civic construction; Garibaldi's red shirts become an iconic image.
+
+__Form Exhaustion & Meaning Decay:__ Romantic forms remain vital; national symbolism is fresh, not yet hollowed; the cultural ferment is generative rather than exhausted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic Christianity remains the majority worldview; liberal elites hold privatized or skeptical faith; Mazzinian spirituality fuses nation and religion into a secular-sacred synthesis; southern peasantry remains fervently Catholic.
+
+__Ritual, Devotion & Sacred Practice:__ Popular devotion continues; Marian apparitions and local cults thrive; the Church mobilizes against liberal secularism; religious orders resist state encroachment.
+
+__Religious Institutions & Doctrinal Authority:__ The papacy under Pius IX hardens against liberalism (Syllabus of Errors, 1864, follows the period but reflects the trajectory); Church property is confiscated in Piedmont (1855) and extended to unified Italy; the Roman Question opens as temporal power shrinks.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No competing religions challenge Catholicism; Protestant missionaries make negligible inroads; Jewish emancipation follows unification; anticlericalism is political, not spiritual displacement.
+
+__Disenchantment & Sacred Discharge:__ Educated elites drift toward religious indifference or deism; the nation absorbs sacral energies; peasant masses remain within Catholic practice; the sacred has not collapsed but has begun to migrate from Church to nation among the literate minority who made unification.

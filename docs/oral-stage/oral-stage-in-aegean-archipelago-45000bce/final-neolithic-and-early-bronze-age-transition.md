@@ -1,69 +1,140 @@
 # __3,300 BCE – 2,700 BCE__ — Final Neolithic and Early Bronze Age Transition
-__Summary:__ The Final Neolithic merges into Early Bronze Age I as copper-bronze metallurgy, maritime expansion, and emergent Cycladic culture transform the Aegean from a network of Neolithic villages into an integrated exchange zone with fortified nucleated settlements; Poliochni on Lemnos and Thermi on Lesbos anchor the northeastern corridor, while EBA Cycladic communities at Chalandriani and Grotta establish the island cultural sphere; the binding constraint remains the oral-memory ceiling — increasingly complex exchange obligations, metallurgical recipes, and inter-community coordination strain what speech and living memory can reliably transmit without external record; slack exists in metal supply, maritime capacity, and agricultural surplus, but organizational complexity is accelerating toward the limits of oral administration.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Aegean archipelago in stable Holocene configuration — Cyclades clustered centrally, northeastern islands (Lemnos, Lesbos, Chios) forming a corridor to Anatolia, Crete isolated to the south; maritime corridors remain primary transit routes, with crossings of 30–80 km now routine; mainland coastal plains (Boeotia, Argolid, Thessaly) support agricultural hinterlands; spatial friction moderate, declining as vessel technology improves and regular sailing routes crystallize.<br><br>
-__Climate Regime & Volatility:__ Mid-Holocene Mediterranean climate continues — hot dry summers, mild wet winters; interannual rainfall variation moderate; no secular drift within the window; conditions optimal for mixed farming and pastoralism; climate not a binding constraint.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk persistent across the volcanic arc; no catastrophic eruption or earthquake attested in this window; storm damage to vessels a regular maritime hazard; occasional drought years require storage drawdown but do not exceed reserves; exposure elevated but margin adequate.<br><br>
-__Resource & Energy Endowment:__ Copper ores on Kythnos, Siphnos, and Lavrion (Attica) now under active exploitation; tin sources external (Anatolia, possibly further afield), creating dependency on long-distance exchange; silver-lead ores on Siphnos recognized; Melian obsidian still traded but declining in relative importance as metal displaces stone for cutting tools; marble abundant; arable land sufficient; no critical resource exhausted but tin supply introduces new vulnerability.<br><br>
-__Waste Absorption & Sink Capacity:__ Metallurgical slag accumulating at smelting sites (Kythnos, Siphnos) but volumes remain small relative to landscape absorption; no detectable degradation of air, water, or soil; sink capacity far exceeds current load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic infection load stable; increased maritime connectivity raises potential for pathogen transfer but no epidemic attested; infant and childhood mortality remains high (30–50% inferred); adult life expectancy extends into forties for survivors; mortality baseline stable, not worsening.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural diet continues — cereals, legumes, sheep, goat, cattle, pig, supplemented by fish and shellfish on islands; stature and robusticity adequate; dental wear and caries common; nutritional status stable, with storage buffering seasonal scarcity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Physiological fertility unimpaired; pair-bonding structured by kin alliance and emerging household wealth considerations; no evidence of selective reproductive pressure beyond background patterns; dynamics stable.<br><br>
-__Demographic Renewal & Density:__ Population growth continues, evidenced by new settlements and expansion of existing ones (Poliochni phases); Cycladic islands now densely occupied; density rising but remains below carrying-capacity ceiling; renewal rate positive; migration flows detectable in ceramic styles suggesting population movement from Anatolia to northeastern islands.<br><br>
-__Attrition & Dependency Overhang:__ Dependent cohort absorbed by expanding productive base; no evidence of demographic stress; attrition balanced by renewal; dependency overhang contained.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed agriculture provides stable subsistence — cereals, legumes, and livestock dominate; fishing and shellfish collection supplement island diets; household storage in ceramic vessels and granaries buffers annual variation; population sits comfortably above subsistence edge.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; sailing vessels now supplement paddled craft, capturing wind energy for maritime transport; fire applied to metallurgy (smelting, casting) at increasing scale; per-capita energy ceiling rising modestly with sail adoption and metallurgical efficiency.<br><br>
-__Labor Organization & Coercion:__ Household labor predominates; craft specialization advancing — metallurgists, shipwrights, and prestige-goods producers partially detached from subsistence work; no evidence of coerced labor; corvée for communal construction (fortifications, granaries) probable but voluntary or reciprocal.<br><br>
-__Production & Surplus Capacity:__ Surplus flow positive and growing — metal tools increase agricultural productivity; surplus supports specialist craftsmen, exchange expeditions, and monumental construction (Poliochni fortifications, corridor houses on mainland); production ceiling rising with metallurgical technology.<br><br>
-__Storage, Reserves & Buffering:__ Communal granaries and household storage provide multi-year buffering; metal tools and ingots serve as durable value storage; reserves adequate against typical shock; no attested crisis.<br><br>
-__Exchange, Trade & Logistics:__ Maritime exchange networks reach unprecedented scale — Cycladic metal and obsidian flow to mainland and Anatolia; Anatolian tin and possibly textiles enter Aegean circulation; exchange remains reciprocal and prestige-mediated but approaching regularized trade; sailing vessel capacity expanding; logistics improving but still constrained by weather windows and navigation knowledge.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary system; value stored in metal ingots, livestock, grain, and prestige objects (weapons, ornaments); deferred reciprocity obligations formalized through exchange partnerships; credit limited to personal obligation networks.<br><br>
-__Surplus Extraction & Redistribution:__ Emerging elite households at Poliochni and similar sites coordinate surplus — granary management, metal stockpiling, exchange expedition sponsorship; extraction mechanism informal, based on prestige and kin authority rather than institutionalized tribute; load light relative to productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentration increasing — differential house sizes, burial goods, and metal accumulation mark elite households; land, livestock, and metal held by kin groups and defended by community fortifications; portable wealth secured in household strongrooms; distribution widening but not yet extreme.<br><br>
-__Byproducts & Waste Routing:__ Metallurgical slag, ceramic production waste, and organic refuse dispersed locally; volumes small relative to absorption capacity; no routing pressure.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends to village community and increasingly to regular exchange partners across the Aegean; inter-island reciprocity networks formalize relations; mutual aid operative within and between allied communities; trust stable or expanding with network growth.<br><br>
-__Stratification, Status & Group Identity:__ Status differentiation accelerating — architectural hierarchy (large houses, granaries), metal wealth, and burial elaboration mark emergent elite; boundaries not yet rigid, achieved status still possible; factional identity follows lineage, settlement, and exchange-partnership lines; stratification trend intensifying.<br><br>
-__Kinship, Family & Inheritance:__ Extended kin groups remain primary unit; inheritance presumably patrilineal (consistent with later Aegean patterns); marriage alliance binds elite households across settlements; scaffold stable but elite intermarriage may be creating supra-local kin networks.<br><br>
-__Civic Association & Self-Organization:__ Village assemblies and elder councils coordinate communal activities; no formal guild structure but craft specialist clusters at metal-producing sites suggest proto-associational organization; fabric thickening with settlement nucleation.<br><br>
-__Leisure, Play & Sociability:__ Communal feasting continues — large ceramic vessels, animal bone concentrations at Poliochni and elsewhere; seasonal festivals tied to agricultural and maritime calendars; sociability expressed through exchange-visit hospitality and inter-community gatherings.<br><br>
-__Grievance Channels & Social Discharge:__ Kin mediation and community assembly absorb disputes; inter-settlement tensions channeled through competitive prestige display and managed through exchange diplomacy; rising inequality generates grievance but absorption capacity adequate; fortifications suggest some unabsorbed inter-community tension.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority remains village-level; emerging "big man" or lineage-head figures at nucleated settlements (Poliochni, Thermi) coordinate exchange and defense; no overarching polity; power distributed across autonomous communities linked by exchange networks; trend toward concentration at settlement level.<br><br>
-__Succession & Power Transfer:__ Leadership succession follows lineage seniority and demonstrated competence; no formal rules attested; transfer appears stable within the window, without violent disruption.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimized through ancestral prestige, exchange success, and provisioning competence; oral genealogies establish household claims; legitimacy stable, reinforced by material success.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administration remains oral and personal; no writing, no bureaucracy; coordination through memory, personal authority, and witnessed agreements; capacity adequate for current scale but pressing against oral limits as exchange networks expand and obligations multiply.<br><br>
-__Political Participation & Mobilization:__ Household heads participate in settlement assemblies; collective mobilization for defense and construction projects; no formal factions or organized opposition; participation channels adequate.<br><br>
-__Geopolitical Position & External Relations:__ No state-level geopolitics; inter-community relations structured by exchange partnerships, possible kin alliances, and competitive prestige; northeastern islands (Poliochni, Thermi) oriented toward Trojan plain and western Anatolia; Cyclades form internal exchange zone; no territorial warfare attested but fortifications indicate defensive posture.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military; bronze weapons (daggers, spearheads) held by household heads; fortifications (Poliochni walls, Thermi enclosure) represent organized communal defense; command of force dispersed but fortification construction implies coordination capacity.<br><br>
-__Internal Order & Threat Environment:__ Raiding between communities possible (fortifications, weapon caches); internal order maintained through kin and community mechanisms; threat level contained by defensive works; no endemic disorder attested.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by voice, personal presence, and maritime travel; sailing vessels enable transmission across the Aegean in days; regular exchange visits create information relay networks; velocity limited by travel speed; reach extends throughout exchange zone.<br><br>
-__Record, Storage & Persistence:__ No writing — all persistence depends on human memory; exchange obligations, metallurgical knowledge, genealogies, and ritual formulae transmitted orally; persistence vulnerable to knowledge-holder death; complexity of exchange networks pressing against reliable memory capacity; no durable external record.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse shaped by elders, exchange specialists, and ritual authorities; taboos on sacred and proprietary craft knowledge; no formal censorship; norms stable.<br><br>
-__Reception, Attention & Amplification:__ Attention focused at communal gatherings, exchange ceremonies, and ritual occasions; mnemonic devices (formulaic speech, repetition, perhaps early song) aid retention; amplification limited to physical presence; no mass-communication mechanism.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces drift; no external verification; multiple tradition-bearers provide cross-checking; noise accumulates over generations; clearing capacity limited; integrity strain increasing with network complexity but not yet critical.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in reciprocity, kin obligation, and proportional response; exchange violations, theft, and violence require restitution or retribution; shared moral baseline stable across the exchange zone.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; norms transmitted as oral custom; exchange protocols regularizing into proto-law; codification absent; evolution slow, precedent-based.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by kin elders, community assemblies, and exchange partners; enforcement through social pressure, reputation damage, and retaliatory action; collective kin liability; formal courts absent; throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Individuals protected through kin group; property rights in land, livestock, metal, and goods recognized; compliance burden light, custom-governed; no bureaucratic regulation.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful households and well-connected exchange partners may escape full accountability; inter-community wrongs hard to redress without alliance; impunity gap small but present; no accumulating backlog attested.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; empirical knowledge accumulated through practice and observation — metallurgy, navigation, agriculture; understanding embedded in mythic frameworks; no abstract theory; paradigm stable.<br><br>
-__Applied Knowledge & Technical Method:__ Bronze metallurgy advancing — alloying with tin producing harder tools and weapons; lost-wax casting emerging; shipbuilding improving (larger sailing vessels); ceramic technology refined; architectural techniques (fortification, multi-room complexes) elaborating; technical frontier active in metallurgy and maritime technology.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Apprenticeship transmission; literacy absent; metallurgical and maritime skills held by specialists; general agricultural and craft skills widespread; knowledge stock growing in metal, maritime, and architectural domains.<br><br>
-__Obsolescence & Knowledge Decay:__ Stone tool technology declining as metal replaces lithics for most cutting functions; obsidian retains niche uses; no catastrophic skill loss; decay rate low; obsolete techniques shed gradually.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and ancestor veneration structure identity at lineage and settlement level; emerging regional identities (Cycladic, northeastern island, mainland) detectable in material culture but not yet articulated as pan-regional consciousness; memory of founders and ancestral prestige transmitted orally.<br><br>
-__Artistic Expression & Material Culture:__ Early Cycladic material culture crystallizing — white marble vessels, early folded-arm figurine prototypes, incised ceramics; northeastern island styles (Poliochni, Thermi) show Anatolian influence; prestige metal objects (weapons, ornaments) mark elite status; aesthetic differentiation by region and status intensifying.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood expansive and competitive — settlement growth, exchange intensification, fortification construction, and prestige accumulation suggest confidence tempered by awareness of inter-community rivalry; risk tolerance moderate to high; behavioral disposition oriented toward acquisition and display.<br><br>
-__Form Exhaustion & Meaning Decay:__ No form exhaustion; new cultural forms (Cycladic figurine tradition, bronze prestige goods) emerging with full vitality; symbolic repertoire expanding; meaning decay not detectable.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist and ancestor-centered cosmology presumed; world inhabited by spirits, ancestors, and sacred forces; metallurgy possibly acquiring numinous associations (transformation of ore to metal); fatalism moderate; outlook oriented toward securing ancestral and spirit favor.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Household and community rituals continue — agricultural festivals, life-transition ceremonies, ancestor veneration; figurines deposited in graves and domestic contexts suggest devotional use; emerging Cycladic figurine tradition may reflect crystallizing ritual practice; sacred action embedded in daily life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal priesthood; ritual specialists (tradition-keepers, healers, smiths-as-ritual-figures) hold informal authority; doctrinal orthodoxy absent; authority diffuse.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Local traditions predominate; exchange networks may transmit ritual elements and figurine styles; no major syncretism or displacement; spiritual geography stable with regional variation.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred cosmos vital and efficacious; spiritual need anchored in existing practice; no residue of unmet transcendence.<br><br>
+
+__Summary:__ The Aegean crosses into the Bronze Age as metallurgical production intensifies, settlements nucleate toward proto-urban character, and maritime exchange networks expand to link the archipelago with Anatolia, Cyprus, and the eastern Mediterranean; the binding constraint remains oral culture — administrative coordination, trade agreements, craft secrets, genealogical claims, and ritual authority all depend on spoken word and living memory, setting a ceiling on institutional scale and persistence that written record will later transcend but does not yet reach.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelagic geography now operates as an integrated maritime zone, with the Cyclades serving as stepping-stones linking the Greek mainland, Crete, the Dodecanese, and western Anatolia; sea routes established through generations of sailing knowledge reduce crossing friction; inland movement still follows river valleys and mountain passes that channel traffic through defensible and resource-rich locations.
+
+__Climate Regime & Volatility:__ The late Holocene Climatic Optimum wanes toward the close of this window, with subtle aridification beginning by 3,000 BCE; seasonal rainfall remains adequate for dry farming but marginal lands show greater sensitivity to interannual variation; no catastrophic drought yet, but the climatic cushion narrows.
+
+__Hazard Regime & Exposure:__ Seismic hazard persists along the Hellenic arc; volcanic potential in the Cycladic caldera remains dormant; coastal sites face storm surge and occasional tsunami risk; the nucleation of population into larger settlements concentrates exposure, so that a single earthquake could now destroy more lives and accumulated wealth than before.
+
+__Resource & Energy Endowment:__ Copper sources at Lavrion, Siphnos, Seriphos, and Kythnos enter intensive exploitation; tin remains scarce, imported from distant sources or substituted by arsenic in arsenical bronze; obsidian still circulates but loses primacy to metal tools; timber shows depletion near metallurgical centers where charcoal demand escalates; silver and gold enter the prestige economy.
+
+__Waste Absorption & Sink Capacity:__ Metallurgical slag accumulates at smelting sites; charcoal production strips woodland on small islands, initiating erosion visible in soil profiles; the absorptive capacity of local sinks tightens near industrial concentrations but remains adequate across the broader region.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Nucleated settlements and increased population density raise pathogen transmission risk; gastrointestinal disease, parasites, and respiratory infections circulate more readily; infant mortality remains high; life expectancy at birth stable in the mid-twenties; no evidence of epidemic catastrophe but the baseline load may be rising.
+
+__Nutrition & Physiological Vitality:__ The diversified economy — cereals, legumes, olives now entering cultivation, animal husbandry, marine resources — provides adequate nutrition for most; skeletal evidence shows continued dental caries and periodic stress markers but no chronic famine; elites may enjoy better nutrition, visible in stature differences emerging in burial samples.
+
+__Care, Healing & Recovery Capacity:__ Healing capacity remains at household level, transmitted orally; no specialist healers or institutional medicine; herbal remedy, wound care, and midwifery sustain routine health needs; serious trauma or infection carries high mortality; the capacity does not scale with settlement size.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage alliances increasingly serve exchange and political purposes, linking elite households across communities; kinship rules governing exogamy and inheritance are orally maintained and enforced through reputation; fertility adequate for population growth under current conditions.
+
+__Demographic Renewal & Density:__ Population continues to grow, with larger settlements reaching several hundred inhabitants; the Cyclades show increased site density; total Aegean population perhaps fifty thousand or more; migration follows exchange routes, with kin networks guiding settlement; crowding effects appear at the largest sites.
+
+__Attrition & Dependency Overhang:__ The dependency ratio remains manageable — short lifespans limit elder burden, while child mortality reduces the cohort reaching adulthood; the productive population carries its dependents without visible strain, though the margin narrows as settlement scale increases.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The agricultural base expands to include olive cultivation beginning in this window, adding a durable, storable, and tradeable commodity; cereals and legumes remain staples; animal husbandry provides traction, wool, meat, and milk; marine resources supplement coastal communities; the provisioning floor rises with diversification.
+
+__Energy Capture & Conversion:__ Bronze metallurgy demands higher and more sustained heat than copper alone, driving charcoal production and furnace technology; cattle provide traction for plowing and transport; human muscle remains primary for most tasks; the energy throughput per capita rises as metallurgical intensity increases.
+
+__Labor Organization & Coercion:__ Craft specialization intensifies, with metalworkers, potters, and possibly shipwrights emerging as full-time specialists; labor still organized through household and kin obligation; no clear evidence of slave labor or coerced workforce, though elite households command more labor through dependent kin and clients.
+
+__Production & Surplus Capacity:__ Surplus production increases substantially, visible in accumulated wealth, larger architecture, and expanded exchange; metallurgical output rises to include tools, weapons, and ornaments in bronze, silver, and gold; pottery production reaches near-industrial scale at some sites; the surplus underwrites emerging proto-urban centers.
+
+__Storage, Reserves & Buffering:__ Granaries and storage facilities grow in capacity; communal and household reserves coexist; the buffering capacity expands with surplus, allowing multi-year reserves in favored locations; metal wealth provides an additional store of value beyond perishable grain.
+
+__Exchange, Trade & Logistics:__ Maritime exchange networks mature, linking the Aegean to Cyprus (copper), Anatolia (tin, metals, finished goods), the Levant, and Egypt; Cycladic centers emerge as trading hubs; exchange still operates through kinship and down-the-line networks but volume and regularity increase; ships improve, with sail possibly supplementing paddle.
+
+__Value Storage, Credit & Deferred Exchange:__ Metal objects — ingots, ornaments, weapons — serve as concentrated, durable stores of value; no monetary units, but standardized weights may be emerging for metal exchange; credit remains oral and kin-embedded; debt obligations remembered and enforced through reputation.
+
+__Surplus Extraction & Redistribution:__ No formal taxation; elites accumulate through successful production, exchange, and possibly tribute from dependent communities; redistribution through feasting, gift exchange, and ceremonial display; the emergence of craft specialists dependent on elite patronage suggests proto-tributary relations.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentration accelerates dramatically, visible in differential burial goods (Cycladic graves with marble figurines, metal objects, pottery) and house size; elites defend assets through lineage solidarity, fortification (enclosure walls), and alliance networks; the gap between wealthy and ordinary households widens.
+
+__Byproducts & Waste Routing:__ Metallurgical slag, kiln ash, and organic refuse accumulate near production sites; charcoal production strips accessible woodland; waste absorption remains adequate but localized degradation is visible; no financial mispricing in the absence of monetary instruments.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship remains the primary organizer of social life, but elite lineages now claim deeper genealogies and broader alliance networks; inheritance of land, livestock, and craft knowledge follows lineage rules maintained orally; marriage increasingly serves to cement inter-community ties among elites.
+
+__Association & Mutual Aid:__ Village and kin solidarity continue to provide mutual aid; craft specialists likely form loose networks for technique exchange and material procurement; communal labor for construction, fortification, and large-scale projects organized through obligation and reciprocity; associations thicken with population density.
+
+__Leisure, Play & Sociability:__ Feasting remains central to social life, with communal meals marking alliances, seasonal transitions, and ritual occasions; faunal assemblages show mass consumption events; leisure and sociability centered on village commons, harbors, and elite households; no specialized recreational architecture.
+
+__Stratification, Status & Group Structure:__ A clear elite stratum emerges, marked by burial wealth, large houses, prestige goods, and command of specialized labor; status differentiation sharpens, with some lineages establishing hereditary claims to leadership; boundaries less permeable than in earlier periods but achievement still matters.
+
+__Administrative Capacity & Institutional Integrity:__ Administration remains informal, dependent on oral memory and personal authority; elite households coordinate local production and exchange; no bureaucracy, no writing, no systematic record-keeping; the administrative ceiling limits settlement scale to what personal networks and oral memory can manage.
+
+__Coercive Apparatus & Means of Force:__ Bronze weapons — daggers, spearheads, possibly swords — enter the arsenal; elite warriors emerge as a social category; some settlements show fortification walls; violence remains episodic but the stakes rise with concentrated wealth; no standing military, defense organized through kin mobilization.
+
+__Discharge, Disorder & Decay:__ Competition over exchange routes, metal sources, and prestige may generate conflict; raiding possible between communities; grievances resolved through kin mediation, compensation, or vengeance; the social fabric absorbs friction but tension visible in fortification investment.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ An expansive, competitive temper prevails among elites seeking to accumulate wealth, establish prestige, and extend exchange networks; the general populace shares in rising prosperity but may feel the pressure of elite extraction and labor demands; trust extends along established exchange and kin lines.
+
+__Leadership & Personal Authority:__ Leadership crystallizes around individuals who combine agricultural success, exchange prowess, craft patronage, and ritual authority; personal charisma and oral persuasion remain essential; authority concentrates but is not yet institutionalized beyond personal networks.
+
+__Legitimacy as Lived Allegiance:__ Allegiance attaches to successful leaders who deliver prosperity, protection, and prestige; legitimacy earned through performance and renewed through feasting, gift-giving, and ritual; failure to deliver erodes allegiance; no abstract loyalty to office or institution.
+
+__Political Will & Collective Resolve:__ Collective action possible at community and alliance scale; mobilization for construction, defense, and collective enterprise depends on leader persuasion and kin obligation; no supra-regional political coordination; will is local, personal, and situationally activated.
+
+__External Relations & Posture:__ Inter-community relations mix alliance, exchange partnership, competition, and occasional hostility; marriage and gift exchange cement alliances; the posture is expansive, oriented toward exchange and accumulation rather than territorial conquest; Anatolian and Cypriot contacts deepen.
+
+__Disaffection, Apathy & Spent Will:__ No visible exhaustion; the growth phase sustains élan; grievances find outlet in competition, migration, or mediation; disaffection may simmer among those excluded from elite networks but does not yet manifest as collective resistance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language remains the universal medium; the expansion of exchange networks may spread a maritime pidgin or koine for trade communication; no script; potter's marks, seal impressions, and possibly ownership symbols on objects hint at proto-notation but convey identity, not language.
+
+__Channels & Transmission Velocity:__ Information travels with traders, sailors, and kin visiting across the archipelago; maritime exchange accelerates transmission compared to earlier periods; rumors, reputations, and news circulate along established routes; velocity matches the rhythm of sailing seasons.
+
+__Record, Storage & Persistence:__ Memory remains the archive; genealogies, craft secrets, exchange obligations, territorial claims, and ritual knowledge preserved through oral repetition, mnemonic devices, and specialist reciters; the knowledge critical to proto-urban coordination — who owes what to whom, what was agreed — rides on living memory.
+
+__Framing, Censorship & Discourse Norms:__ No formal censorship; discourse norms enforce respect for elders, ritual speech protocols, and deference to leaders; certain knowledge restricted to initiates or specialists; the range of expressible speech remains wide within these norms.
+
+__Reception, Attention & Amplification:__ Attention flows to skilled speakers, successful leaders, and prestigious performers; reputation amplifies through retelling; exchange success creates reputational capital that circulates with goods; no mass audience beyond face-to-face gatherings.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift; verification depends on comparing accounts from multiple informants; as networks expand and transactions multiply, the risk of miscommunication and contested memory rises; the signal-to-noise ratio may be declining with system complexity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity, proportionality, and kin loyalty remain the foundations; justice means honoring obligations and avenging or compensating wrongs; the community adjudicates through elder and leader judgment, weighing reputation and oral precedent.
+
+__Law, Codification & Regulatory Evolution:__ No written law; norms exist as remembered custom transmitted through proverb, story, and elder instruction; as settlement scale grows, the complexity of disputes may be outpacing the capacity of oral custom to resolve them cleanly.
+
+__Adjudication, Liability & Sanction:__ Elders, leaders, or designated mediators adjudicate disputes; liability attaches to kin groups; sanctions include compensation, ostracism, feud, and ritual expulsion; enforcement depends on kin and community pressure; powerful lineages may evade full sanction.
+
+__Rights, Protections & Compliance Burden:__ Rights attach to lineage membership, land use, craft monopoly, and exchange privilege; protections are kin-provided and leader-guaranteed; compliance burden increases with exchange complexity as more obligations must be tracked and honored.
+
+__Impunity & Unredressed Wrong:__ Elites may escape sanction for transgressions against the weak; wrong done to the kinless or foreign may go unredressed; the gap between justice owed and delivered widens with stratification; the residue of unredressed wrong accumulates, feeding potential grievance.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry; understanding embedded in practical knowledge, myth, and observation; regularities of season, tide, metal behavior, and navigation known empirically; no systematic theorization; the world is understood through story, not analysis.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge reaches new heights — bronze metallurgy requires understanding of alloy ratios, temperature control, and mold design; shipbuilding advances to enable longer crossings; navigation by stars, winds, and coastal landmarks is orally transmitted; all technique taught through apprenticeship and demonstration.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through household and kin apprenticeship; specialist skills (metallurgy, navigation, pottery) concentrated in families who guard their craft secrets; literacy absent; the knowledge stock grows but distribution narrows as specialization intensifies; loss of a specialist lineage can extinguish a technique.
+
+__Obsolescence & Knowledge Decay:__ Stone tools persist alongside metal; no wholesale obsolescence but older techniques decline in prestige; knowledge decay threatens whenever transmission chains break; the lack of written record means no external check on drift or loss.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Ancestor veneration deepens, with elaborate burials, grave goods, and possibly tomb cult marking elite lineages; origin stories and genealogical recitations anchor identity; Cycladic figurines may represent ancestors or deities; the past is present in story and stone.
+
+__Legitimating Narrative & Ideology:__ Elite legitimacy rests on genealogical depth, demonstrated success, and ritual performance; the narrative of the order emphasizes ancestral precedent, divine favor, and exchange prowess; those who have always led should continue to lead.
+
+__Artistic Expression & Material Culture:__ Cycladic marble figurines — schematic human forms of striking abstraction — mark the visual peak of this period; "frying pan" ceramic vessels with incised spirals and ship imagery; elaborate pottery, metalwork, and personal ornaments signal status; the material culture is distinctive, confident, and recognizable across the Aegean.
+
+__Form Exhaustion & Meaning Decay:__ Forms remain vital; the Cycladic idiom is at its creative height; no visible exhaustion or cliche; symbolic production keeps pace with social complexity; meaning is fresh, not hollowed.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The world remains enchanted, populated by spirits, ancestors, and forces that shape human fate; the cosmos is understood through myth and ritual, not doctrine; the proper relation to these forces requires correct behavior, offering, and remembrance; uncertainty about death is addressed through elaborate burial and possible belief in continued existence.
+
+__Ritual, Devotion & Sacred Practice:__ Burial ritual becomes the central sacred practice, with grave goods, body positioning, and possibly commemorative rites marking the transition of the dead; household and community rituals at seasonal transitions; feasting carries sacred dimension; figurines may serve devotional or protective functions.
+
+__Religious Institutions & Doctrinal Authority:__ No formal religious institution; ritual authority diffuse, held by elders, lineage heads, and individuals with spiritual reputation; no temples, no priesthood, no codified doctrine; authority validated through effective performance and oral transmission.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Exchange contact brings new symbolic forms and possibly new beliefs from Anatolia, Cyprus, and beyond; syncretism likely as communities absorb and adapt; no evidence of exclusive doctrines or missionary displacement; the spiritual landscape remains absorptive and additive.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment; the cosmos is densely meaningful; the elaborate investment in burial and figurine production suggests spiritual need is met and expressed; no void, no secularizing drift, no erosion of transcendence at this juncture.
+

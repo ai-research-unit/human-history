@@ -1,69 +1,139 @@
-# __1382 CE – 1517 CE__ — Circassian Mamluks and Late Medieval Cairo
-__Summary:__ The Circassian (Burji) Mamluk sultanate rules Egypt from Cairo, a military slave elite reproducing itself through Caucasian imports rather than hereditary succession. The Black Death's recurrent waves since 1347 have halved the population and hollowed the agrarian base, while spice-trade revenues through the Red Sea remain the fiscal lifeline; the binding constraint is chronic manpower shortage meeting volatile succession politics, leaving slim margin against Ottoman expansion from the north and Portuguese disruption of Indian Ocean routes from the south, with the system trending toward fiscal exhaustion and military decline by 1500.<br><br>
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor from the First Cataract to the Mediterranean delta remains the fixed axis — annual flood deposits renew soil fertility, but transit friction rises where irrigation works decay from depopulation; Cairo commands the apex where valley meets delta, controlling upriver grain and Red Sea caravan routes.<br><br>
-__Climate Regime & Volatility:__ Arid subtropical regime with negligible rainfall outside the delta fringe; flood variability remains the critical parameter, with occasional low Niles triggering localized famine; no secular climatic drift evident within the window.<br><br>
-__Hazard Regime & Exposure:__ Plague recurrence every decade or so constitutes the dominant hazard; low Nile floods expose stored-grain dependence; seismic and volcanic risk negligible; margin against epidemic shock now exhausted after a century of population losses.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils remain fertile where cultivated; Nile waters supply irrigation; stone, natron, and limited timber available; no significant mineral deposits; papyrus extinct as a crop, paper imported.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban Cairo generates dense organic waste and sewage absorbed by the river and peri-urban agriculture; population contraction has reduced load on sinks; absorptive capacity adequate for diminished throughput.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague (Yersinia pestis) recurs in major outbreaks roughly every ten to fifteen years, sustaining elevated mortality well above replacement; endemic waterborne and parasitic diseases continue; baseline death rate high and population trending downward.<br><br>
-__Nutrition & Physiological Vitality:__ Grain supply adequate in normal flood years but vulnerable to irrigation neglect; nutritional status variable, with famine episodes following plague-driven labor shortages in canal maintenance; overall vitality degraded from pre-plague levels.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Islamic marriage norms prevail; polygyny legal but limited by cost; Mamluk elite import brides or marry local women but rely on slave purchase for military reproduction; biological fertility constrained by disease burden.<br><br>
-__Demographic Renewal & Density:__ Population perhaps two to three million, down from five to eight million pre-plague; birth rates insufficient to offset plague mortality; rural density thinned, with abandoned villages documented; Cairo remains largest city in the Islamic world but contracts from peak.<br><br>
-__Attrition & Dependency Overhang:__ Orphans and widows accumulate after each plague wave; waqf endowments support some charitable care; dependency load absorbed through extended kin and religious institutions but straining as productive cohort shrinks.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain agriculture along the Nile provides baseline subsistence; irrigation systems require labor increasingly scarce; rural population lives near margin; urban provisioning depends on state-managed grain distribution during shortages.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; water-lifting devices (shaduf, saqiya) powered by oxen; wind negligible; firewood scarce, dung and straw burned; per-capita work ceiling low and constrained by labor shortage.<br><br>
-__Labor Organization & Coercion:__ Peasant cultivators (fellahin) bound by customary tenure; Mamluk military elite extracts surplus through iqta grants; corvee for canal work enforced but compliance weakening; labor scarcity shifts some bargaining power toward cultivators.<br><br>
-__Production & Surplus Capacity:__ Agricultural output contracted from pre-plague levels; textile production (linen, cotton) continues in urban workshops; sugar cultivation persists in Upper Egypt; surplus flow diminished but positive.<br><br>
-__Storage, Reserves & Buffering:__ State granaries in Cairo buffer short-term shortfalls; provincial reserves thinner; spice-trade revenues provide fiscal buffer; reserve depth inadequate for multi-year crisis.<br><br>
-__Exchange, Trade & Logistics:__ Cairo functions as entrepot for Red Sea spice trade connecting Indian Ocean to Mediterranean; Venetian and Genoese merchants purchase pepper, spices, textiles; Nile transport moves grain northward; caravan routes cross Sinai and desert; logistics functional but vulnerable to route disruption.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold dinar and silver dirham circulate; copper fulus for daily transactions; currency manipulation and debasement recurrent under fiscal pressure; credit extended by merchant networks; waqf endowments store value across generations.<br><br>
-__Surplus Extraction & Redistribution:__ Iqta system assigns tax revenues from land to Mamluk amirs in return for military service; sultan extracts customs on spice trade; waqf diverts surplus to religious and charitable purposes; extraction heavy relative to diminished base.<br><br>
-__Wealth Distribution & Asset Defense:__ Mamluk elite concentrates landholding and commercial profits; merchant class (Karimi traders) wealthy but politically subordinate; waqf conversion protects assets from confiscation; inequality high but elite turnover frequent through succession violence.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste recycled as fuel and fertilizer; urban waste dumped in Nile or peri-urban middens; toxicity low; waste absorbed by environment given reduced throughput.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kin networks and neighborhood (hara) solidarity provide primary safety net; religious community (Muslim, Coptic, Jewish) organizes mutual aid; trust radius extends within confessional and occupational groups; inter-communal relations generally stable but episodic tensions occur.<br><br>
-__Stratification, Status & Group Identity:__ Rigid divide between Mamluk military elite (awlad al-nas for sons, but military status not hereditary) and civilian subjects (ra'iyya); ulama hold prestige as religious scholars; merchants below amirs; peasants and urban poor at base; Copts and Jews as protected dhimmi communities with restricted status; boundaries firm.<br><br>
-__Kinship, Family & Inheritance:__ Islamic inheritance law divides estates among heirs; Mamluk military identity not transmitted to sons, who descend into civilian status; household formation follows patrilineal norms; waqf circumvents strict inheritance division for elite families.<br><br>
-__Civic Association & Self-Organization:__ Sufi orders provide cross-class association; craft guilds organize urban trades; ulama networks link scholars across cities; neighborhood quarters self-police; associational fabric thick in urban Cairo.<br><br>
-__Leisure, Play & Sociability:__ Religious festivals (mawlid celebrations), Sufi gatherings, coffeehouse emergence late in period; public baths; horse training and polo for elite; sociability structured by gender segregation and confessional boundaries.<br><br>
-__Grievance Channels & Social Discharge:__ Petition to sultan or amirs; ulama mediate disputes; Sufi orders provide spiritual solace; public protests occasionally erupt over bread prices; most grievance absorbed through clientage and patronage networks.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sultanate held by Circassian Mamluk amirs who seize power through factional competition; sultan rules from Cairo citadel; authority fragmented among competing amir households; power concentrated at apex but contested among elite factions.<br><br>
-__Succession & Power Transfer:__ No hereditary principle; sultans emerge from amir competition through assassination, coup, or designation; average reign short; succession a recurring flashpoint generating instability and civil conflict.<br><br>
-__Legitimacy & Political Narrative:__ Sultan claims role as defender of Sunni Islam, protector of Mecca and Medina, and bulwark against infidel (Crusader memory, Mongol legacy); Abbasid caliph maintained in Cairo as legitimating figurehead; narrative intact but strained by fiscal weakness and military decline.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Chancery (diwan al-insha) maintains Arabic correspondence and record-keeping; cadastral surveys track iqta assignments; tax collection decentralized to amirs; corruption endemic; capacity degraded from earlier Mamluk peak but functional.<br><br>
-__Political Participation & Mobilization:__ Mamluk amirs constitute the political nation; ulama consulted on religious matters; merchants petition but lack formal voice; popular mobilization rare except bread riots; channels closed to most subjects.<br><br>
-__Geopolitical Position & External Relations:__ Egypt controls Red Sea trade and holy cities (Mecca, Medina); relations with Venetian and Genoese merchants crucial for spice export; Ottoman Empire expanding to north poses growing threat; Portuguese enter Indian Ocean 1498, threatening trade routes; defensive posture stiffening.<br><br>
-__Coercive Apparatus & Means of Force:__ Mamluk cavalry (mounted archers with composite bow, lance, sword) remains core force; firearms adopted slowly and incompletely; slave imports from Circassia supply recruits; fortifications at Alexandria, Rosetta; military capacity declining relative to Ottoman gunpowder armies.<br><br>
-__Internal Order & Threat Environment:__ Factional violence among amirs endemic; Bedouin raids on Upper Egypt persistent; urban crime controlled by market inspectors and neighborhood watches; internal order maintained but margins thin during succession crises.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Courier networks (barid) link Cairo to provinces and Damascus; merchant correspondence travels trade routes; oral transmission dominant for most subjects; velocity measured in days to weeks across sultanate.<br><br>
-__Record, Storage & Persistence:__ Arabic manuscripts copied in madrasas and private libraries; chancery archives preserve administrative records; waqf documents stored in courts; paper fully adopted; record persistence good for official and scholarly texts; retrieval depends on institutional continuity.<br><br>
-__Framing, Censorship & Discourse Norms:__ Religious orthodoxy enforced by ulama consensus; heterodox views suppressed; political criticism dangerous; discourse norms constrain public speech to Sunni Islamic framework; permitted band stable but narrow.<br><br>
-__Reception, Attention & Amplification:__ Friday sermons reach urban congregations; scholars lecture in madrasas; Sufi gatherings transmit devotional content; oral amplification through coffeehouses emerging; attention concentrated in literate male elite.<br><br>
-__Signal Integrity & Noise Load:__ Scholarly tradition maintains textual accuracy through chains of transmission (isnad); manuscript copying introduces scribal errors; verification through collation; noise manageable within scholarly circuits.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Sharia provides shared moral framework; justice understood as conformity to divine law; communal expectation that sultan enforce Islamic norms; sense of justice intact though implementation uneven.<br><br>
-__Law, Codification & Regulatory Evolution:__ Four Sunni legal schools (madhahib) represented by chief qadis in Cairo; sharia governs personal status, contract, crime; Ottoman conquest will later overlay Hanafi preference; legal system mature and stable.<br><br>
-__Adjudication, Enforcement & Liability:__ Qadi courts adjudicate civil and criminal cases; mazalim courts handle complaints against officials; hisba (market inspection) enforces commercial and moral regulations; enforcement uneven, dependent on local amir cooperation.<br><br>
-__Rights, Protections & Compliance Burden:__ Dhimmi (Christian, Jewish) communities retain protected status with jizya tax and occupational restrictions; Muslims subject to sharia obligations; compliance burden moderate for conforming subjects; predictability high within traditional framework.<br><br>
-__Impunity & Unredressed Wrong:__ Mamluk amirs often above effective law; confiscation of merchant wealth occurs; rural grievances against iqta holders difficult to redress; impunity gap significant for powerful; backlog in courts manageable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Islamic sciences (tafsir, hadith, fiqh, kalam) constitute dominant paradigm; encyclopedic tradition flourishes (al-Qalqashandi, al-Maqrizi); historical writing advanced; natural philosophy subordinate to religious sciences; inquiry active within traditional bounds.<br><br>
-__Applied Knowledge & Technical Method:__ Irrigation engineering, architectural technique, metallurgy for weapons continue; medical practice follows Galenic-Islamic synthesis; no paradigm shift but accumulated craft refinement.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Madrasas train ulama and bureaucrats; al-Azhar preeminent; literacy confined to elite males and scribal class; knowledge stock preserved and transmitted but narrowly distributed; Coptic clergy maintain separate educational tradition.<br><br>
-__Obsolescence & Knowledge Decay:__ Ancient Egyptian knowledge long lost; Greek philosophical corpus selectively preserved; some technical skills (papyrus production) extinct; scholarly tradition guards against decay through copying and commentary; no major losses within window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Islamic identity as umma paramount; pharaonic past visible in monuments but not claimed as heritage; Arab-Islamic conquest as foundational narrative; memory of Saladin and Baybars as heroic defenders against Crusaders and Mongols; identity stable.<br><br>
-__Artistic Expression & Material Culture:__ Mamluk architecture (mosques, madrasas, mausoleums) reaches late florescence; geometric and calligraphic decoration; illuminated Quran manuscripts; metalwork, glass, textiles for elite consumption; material culture refined though patronage declining.<br><br>
-__Collective Mood & Behavioral Disposition:__ Plague fatalism pervasive; religious resignation (tawakkul) counseled; anxiety about Ottoman threat muted in public discourse; behavioral temper conservative, oriented toward tradition; mood somber compared to earlier Mamluk confidence.<br><br>
-__Form Exhaustion & Meaning Decay:__ Architectural and calligraphic forms mature but increasingly formulaic; Sufi devotion retains vitality; no evidence of widespread anomie; forms maintained though innovation rare.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Sunni Islamic cosmology frames existence; divine will determines fate including plague; afterlife orientation strong; fatalism and piety dominant; doubt marginal and dangerous.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Friday congregation, Ramadan fasting, pilgrimage to Mecca (Egypt controls routes); Sufi dhikr gatherings widespread; mawlid celebrations; saint shrine visitation (ziyara) popular; devotional infrastructure dense.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Ulama hold interpretive authority; four chief qadis represent madhahib; al-Azhar anchors Sunni orthodoxy; waqf endowments fund mosques, madrasas; Coptic patriarchate governs Christian minority; Jewish community under nagid; institutional structure stable.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam long dominant; Coptic Christianity persists as minority under pressure, with continued conversion to Islam; Judaism small but stable; no significant new movements; Sufi orders spread popular piety; diffusion minimal, consolidation ongoing.<br><br>
-__Disenchantment & Sacred Discharge:__ No secular drift; sacred cosmology unchallenged; existential questions answered within Islamic framework; disenchantment effectively absent; spiritual need fully anchored in traditional religion.<br><br>
+# __1382 CE – 1517 CE — Circassian Mamluks and Late Medieval Cairo__
+
+__Summary:__ A slave-soldier elite governing from Cairo through chronic succession crises, its commercial position undercut by Portuguese oceanic routes while repeated plague recurrences thin the population and erode the fiscal base, until Ottoman conquest terminates the sultanate — the binding constraint is the demographic-fiscal spiral that starves the regime of revenue and recruits even as faction struggles consume what remains.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Cairo commands the apex of the Nile Delta, controlling Upper and Lower Egypt from the Citadel. The Red Sea coast links Egypt to Indian Ocean commerce through Aden and Jeddah, while Mediterranean ports — Alexandria, Damietta, Rosetta — face Venetian and Genoese traders. Interior transit runs along the Nile; desert margins remain buffer zones but also pilgrimage routes to Mecca and Medina under Mamluk protection.
+
+__Climate Regime & Volatility:__ The Nile flood remains the agricultural foundation; low floods cause dearth, excessive floods destroy embankments. Interannual variability is pronounced, and droughts in the Ethiopian highlands transmit downstream scarcity. No secular climate shift is evident, but episodic failures — 1403, 1468–1469 — stress already plague-reduced populations.
+
+__Hazard Regime & Exposure:__ Earthquake risk exists but rarely manifests. Flooding threatens Delta infrastructure. The recurrent hazard is epidemiological — plague arriving through Mediterranean and Red Sea ports.
+
+__Resource & Energy Endowment:__ Fertile alluvial soil supports wheat, barley, sugarcane, and flax. Egypt produces no timber for shipbuilding; forests in Lebanon and Anatolia supply lumber through Mediterranean trade. Stone quarries provide construction material. Egypt lacks precious metals; gold flows from Nubian sources via Sudanese routes.
+
+__Waste Absorption & Sink Capacity:__ Urban Cairo accumulates refuse, but the city's scale — population around 250,000–400,000 at its peak, declining through the period — does not saturate disposal capacity. Nile drainage flushes waste; no systemic pollution crisis.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The Black Death of 1347–1349 killed an estimated 30–40% of Egypt's population. Plague returns in waves — 1388–1389, 1403–1407, 1429–1430, 1438, 1449, 1460, 1468–1469, 1476–1477, 1492, 1513 — each recurrence finding a population that has not recovered from the last. Endemic diseases — dysentery, malaria in the Delta, typhoid — compound mortality. Life expectancy remains low.
+
+__Nutrition & Physiological Vitality:__ Agricultural output per capita may have risen briefly as population fell after the Black Death, but repeated plague cycles prevent sustained recovery. Famine accompanies low floods. Urban populations experience episodic scarcity; rural Egypt fares unevenly depending on local flood conditions.
+
+__Care, Healing & Recovery Capacity:__ Cairo hosts bimaristans (hospitals) and medical scholars; the tradition of Ibn Sina and Galen continues. Medical knowledge is preserved and taught; effective treatment for plague is unknown. Practitioners can set bones, treat wounds, and manage chronic conditions, but epidemic disease overwhelms any healing capacity.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage remains near-universal; polygyny permitted but expensive. High infant mortality requires multiple births to replace the dead. Families under plague stress see interrupted childbearing cycles.
+
+__Demographic Renewal & Density:__ Egypt's population, perhaps 4–5 million before 1347, may have fallen to 2–3 million by 1400 and remained depressed. Rural depopulation leaves villages abandoned. Cairo shrinks; quarters empty. The Mamluk system itself depends on importing Circassian slave recruits from the Caucasus, since local reproduction does not sustain the military elite.
+
+__Attrition & Dependency Overhang:__ Plague disproportionately kills the young and productive; orphan and widow rates spike after epidemics. The dependency load fluctuates wildly, and the social fabric struggles to absorb survivors.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agriculture sustains the population, but cultivated area contracts as peasants die or flee. The iqta' system assigns agricultural revenue to Mamluk amirs in lieu of salary; depopulation reduces these revenues. Grain supply to Cairo is a perennial concern; riots follow scarcity.
+
+__Energy Capture & Conversion:__ Human and animal labor, water-lifting devices (saqiya, shaduf), and Nile transport provide motive power. No novel energy sources emerge. Fuel for cooking and industry comes from animal dung, agricultural waste, and imported timber.
+
+__Labor Organization & Coercion:__ Peasant labor is semi-coerced through the iqta' system; cultivators owe obligations to iqta' holders. Urban craft labor is organized through guilds (sinf, ta'ifa). Mamluk households employ domestic slaves.
+
+__Production & Surplus Capacity:__ Textile production — linen, cotton, wool — continues, though at reduced scale. Sugar refining, glassmaking, and metalwork serve local and export markets. Surplus declines with population; the productive base contracts.
+
+__Storage, Reserves & Buffering:__ State granaries buffer grain supply, but reserves are frequently depleted. The treasury faces chronic shortfalls. Coinage is debased repeatedly — copper fulus circulate where silver dirhams grow scarce. The state's fiscal buffer is thin.
+
+__Exchange, Trade & Logistics:__ Egypt occupies a transit position in spice trade from India to Europe. Venetian, Genoese, and Catalan merchants buy pepper, cloves, and cinnamon at Alexandria. Karimi merchants control Red Sea commerce. Revenue from transit duties is significant. After 1498, Portuguese rounding of the Cape diverts trade; Venetian imports from Alexandria fall by two-thirds between 1498 and 1517. Egypt cannot project naval power to contest the Portuguese; Mamluk fleets fare poorly in Indian Ocean engagements.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold dinars, silver dirhams, and copper fulus constitute currency; debasement is chronic. Suftaja (bills of exchange) circulate among merchants. Credit networks link Cairo to Damascus, Alexandria, Aden, and Mediterranean ports. Jewish, Christian, and Muslim merchants participate.
+
+__Surplus Extraction & Redistribution:__ The iqta' system extracts agricultural surplus for military elites. Customs duties at ports and transit taxes on trade provide state revenue. Waqf endowments fund religious, educational, and charitable institutions. Extraction presses harder on a shrinking base.
+
+__Wealth Distribution & Asset Defense:__ Mamluk amirs hold land assignments; civilian merchant and ulama families accumulate property. Waqf creation shields assets from confiscation. Wealth concentrates among the military elite and commercial families. Periodic confiscations (musadara) strip fallen amirs of holdings.
+
+__Byproducts & Waste Routing:__ Urban waste is collected and dumped; no systemic crisis. Economic mispricing accretes as trade diverts and fiscal decline accelerates.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Islamic inheritance law governs property transmission. Mamluk households are pseudo-kinship units; slaves become clients upon manumission. Marriage alliances link Mamluk factions. Extended families provide social security in plague's aftermath.
+
+__Association & Mutual Aid:__ Sufi orders proliferate, providing communal identity and mutual support. Guilds regulate craft production and provide solidarity. Neighborhood quarters (hara) organize urban life. Waqf endowments fund soup kitchens, hospitals, schools.
+
+__Leisure, Play & Sociability:__ Polo, archery, and martial exercises occupy Mamluk elites. Public festivals — mawlid al-nabi, Nile flood celebrations — structure communal life. Coffeehouses begin appearing late in the period.
+
+__Stratification, Status & Group Structure:__ A military caste system prevails: Mamluks (slave-soldiers) at the apex, divided between ruling sultan's mamluks and amirs' households. Below them, awlad al-nas (sons of Mamluks, barred from military command), ulama, merchants, craftsmen, peasants. Coptic Christians and Jews occupy dhimmi status — protected but subordinate. Status boundaries are rigid; only imported slaves can enter the military elite.
+
+__Administrative Capacity & Institutional Integrity:__ The sultanate operates through diwans (bureaus) for finance, army, chancery. Administration relies on Coptic and Muslim clerks. Record-keeping in Arabic is systematic. Corruption and factional favoritism corrode administrative integrity. Provincial governors (walis) have limited autonomy; real power rests with iqta'-holding amirs.
+
+__Coercive Apparatus & Means of Force:__ The Mamluk army comprises cavalry armed with composite bow, lance, and sword; heavy armor and skilled horsemanship are signatures. Firearms (handguns, arquebuses) appear but are resisted by cavalry elite who see them as degrading. Artillery is employed in sieges but not embraced. The Citadel garrison secures Cairo. Provincial forces are weaker. The Mamluk system cannot field infantry armies of the Ottoman type.
+
+__Discharge, Disorder & Decay:__ Succession struggles are endemic; virtually every sultan faces challenges. Assassinations, depositions, and factional warfare punctuate the period. Street violence accompanies transitions. Rural banditry increases as peasant flight reduces village cohesion. The apparatus ossifies as factional loyalty trumps institutional function.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A mood of decline pervades the period; chroniclers lament moral decay, plague, and dearth. Popular piety intensifies; saint veneration, shrine visitation, and Sufi participation increase. Fatalism coexists with hope for divine intervention. Distrust of Mamluk rulers is widespread among commoners.
+
+__Leadership & Personal Authority:__ Sultans rule through personal authority and faction management. Barquq (1382–1399) establishes Circassian dominance. Barsbay (1422–1438) centralizes trade revenue. Qa'itbay (1468–1496) enjoys unusual longevity and stability. Qansuh al-Ghawri (1501–1516) presides over terminal decline. Leadership depends on balancing factions; no sultan commands unquestioned allegiance.
+
+__Legitimacy as Lived Allegiance:__ The sultanate claims protection of Islam, guardianship of Mecca and Medina, and defense against Crusaders and Mongols. The latter threats have passed; legitimacy rests increasingly on religious patronage and pilgrimage security. The Abbasid caliph in Cairo provides symbolic endorsement but no real authority. Allegiance is transactional — elites follow power.
+
+__Political Will & Collective Resolve:__ Collective action is episodic; factional interest prevails. The regime musters will for Mamluk-Portuguese confrontations (Diu, 1509) but cannot sustain naval campaigns. Domestic reform is blocked by entrenched interests. The will to maintain the system exceeds capacity.
+
+__External Relations & Posture:__ The sultanate controls Bilad al-Sham (Syria), Hijaz, and nominally Nubia. Relations with Timurids, Ottomans, and European states are diplomatic when not hostile. The Portuguese threat in the Indian Ocean provokes alliance overtures to Gujarat and Venice. The Ottomans under Selim I present the terminal threat.
+
+__Disaffection, Apathy & Spent Will:__ Popular disaffection simmers; riots over bread and coin accompany crises. Mamluk factions are perpetually disaffected toward whichever sultan holds power. Elite will is consumed by faction struggle. By 1517, little collective resolve remains to resist Ottoman invasion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Arabic is the language of administration, religion, scholarship, and commerce. Coptic survives only in liturgy. Turkish circulates among Mamluks. Literacy is restricted to ulama, bureaucrats, merchants, and their scribes — perhaps 5–10% of the urban population. The majority relies on oral communication.
+
+__Channels & Transmission Velocity:__ Couriers carry state correspondence along Nile and overland routes; barid (postal relay) connects Cairo to provincial centers and Damascus. News travels at horse speed. Market intelligence flows through merchant networks. Sermons disseminate official announcements.
+
+__Record, Storage & Persistence:__ The chancery maintains registers of iqta' assignments, tax assessments, judicial decisions, and diplomatic correspondence. Archives survive in Cairo mosques and madrasas. Waqf deeds document endowments. Private libraries preserve manuscript collections. Paper has fully replaced papyrus; manuscripts proliferate.
+
+__Framing, Censorship & Discourse Norms:__ Official chronicles frame Mamluk rule favorably. Sermons reinforce orthodoxy. Heterodox speech risks punishment. Criticism of rulers circulates privately. No printing exists; manuscript copying controls textual dissemination.
+
+__Reception, Attention & Amplification:__ Public readings of chronicles, hadith, and religious texts reach non-literate audiences. Sermons amplify official messaging. Rumor spreads rapidly in the urban fabric. No mass media exists.
+
+__Signal Integrity & Noise Load:__ Archives suffer from decay, fire, and neglect, but substantial records survive. Manuscript copying introduces variation; authoritative texts are attested through scholarly chains. Noise increases in crisis periods as rumor outpaces verified news.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Islamic sharia provides the moral framework. Justice is expected of rulers; oppression (zulm) is condemned in theory. In practice, Mamluk seizures, confiscations, and arbitrary taxation violate justice norms while being rhetorically condemned.
+
+__Law, Codification & Regulatory Evolution:__ The four Sunni madhhabs (Hanafi, Shafi'i, Maliki, Hanbali) coexist, with Hanafi predominant in state affairs. Sharia courts handle personal status, property, and commerce. Sultan's mazalim courts address grievances against officials. Dhimmi communities maintain internal legal autonomy under millet-like arrangements.
+
+__Adjudication, Liability & Sanction:__ Qadis appointed by the state adjudicate disputes. Commercial cases invoke customary practice alongside sharia. Criminal sanctions include corporal punishment, imprisonment, and execution. Elite Mamluks often escape sanction through factional protection.
+
+__Rights, Protections & Compliance Burden:__ Dhimmi status protects Christians and Jews but imposes jizya and sumptuary restrictions. Muslims enjoy fuller legal standing. Property rights are nominally secure but vulnerable to state confiscation. Peasants have few effective rights against iqta' holders.
+
+__Impunity & Unredressed Wrong:__ Powerful amirs operate above law in practice. Confiscations of fallen rivals are normalized. Peasant and urban grievances often go unredressed. Impunity accretes as institutional integrity declines.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The period is one of consolidation rather than innovation. Encyclopedic compilation — Ibn Khaldun's Muqaddimah, al-Qalqashandi's Subh al-A'sha, al-Maqrizi's Khitat — synthesizes prior knowledge. Legal scholarship refines Sunni jurisprudence. Astronomical and mathematical work continues at lower intensity.
+
+__Applied Knowledge & Technical Method:__ Agricultural technique remains traditional; no major innovation. Medical practice follows Galenic-Arabic synthesis. Architectural and engineering skill produces monumental buildings (Sultan Hasan Mosque, 1356–1363) but no breakthrough. Military technology lags; firearms are adopted slowly and reluctantly.
+
+__Education, Knowledge Stock & Skill Distribution:__ Madrasas proliferate under waqf endowment; Al-Azhar anchors the educational system. Ulama constitute a literate elite. Craft skills transmit through guild apprenticeship. Knowledge concentrates in Cairo and major cities; rural areas have minimal formal education.
+
+__Obsolescence & Knowledge Decay:__ Classical knowledge is preserved but increasingly frozen. Military technique ossifies as cavalry tradition resists firearms. No paradigm shift occurs; the knowledge regime stagnates while Ottoman and European innovation accelerates.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Egypt identifies as part of dar al-Islam under Mamluk protection. Memory of defeating Crusaders and Mongols anchors legitimacy. Pharaonic past is forgotten or demonized; identity is Islamic and Arab-speaking.
+
+__Legitimating Narrative & Ideology:__ The sultanate presents itself as defender of Islam, guardian of the holy cities, and upholder of Sunni orthodoxy against Shia (Fatimid past) and Crusader threats. Patronage of ulama and waqf endowments buttress religious legitimacy.
+
+__Artistic Expression & Material Culture:__ Mamluk architecture reaches its apex: domes, minarets, geometric decoration, calligraphic inscriptions. Metalwork — inlaid brass, copper — continues Cairo's tradition. Manuscript illumination and Quranic calligraphy flourish. Textiles — silk, cotton, linen — display sophisticated weaving. The visual culture is ornate, geometrically intricate, and scripturally grounded.
+
+__Form Exhaustion & Meaning Decay:__ Architectural and decorative forms show late elaboration rather than innovation — more ornate variations on established themes. The cultural idiom is accomplished but no longer generative. Chronicle writing becomes formulaic.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Sunni Islam provides the cosmological frame: God's sovereignty, prophetic revelation, judgment, paradise, and hell. Plague is interpreted as divine punishment or test. Fatalism coexists with active piety; saints intercede with God. The world is a passage to the hereafter.
+
+__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Friday congregational prayer, Ramadan fasting, and Hajj pilgrimage structure devotional life. Sufi dhikr and shrine visitation intensify. Mawlid celebrations, saint festivals, and Nile flood rituals punctuate the calendar.
+
+__Religious Institutions & Doctrinal Authority:__ Al-Azhar is the premier Sunni institution; ulama trained there staff courts, mosques, and madrasas. The four madhhabs coexist. Waqf endowments fund religious infrastructure. The Abbasid caliph in Cairo endorses sultans but holds no power. Doctrinal orthodoxy is enforced; Sufi orders operate within Sunni bounds.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sunni Islam is hegemonic. Coptic Christianity persists as a minority; conversions to Islam continue gradually. Judaism survives in small communities. No significant syncretism or displacement occurs; the dominant cosmology's reach is stable.
+
+__Disenchantment & Sacred Discharge:__ No secularizing drift is evident. The sacred remains potent; plague intensifies rather than erodes piety. No disenchantment accumulates — the cosmological frame holds firm even as the political order decays.

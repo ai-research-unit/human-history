@@ -1,69 +1,140 @@
-# __8500 BCE – 7500 BCE__ — Early Pre-Pottery Neolithic B and Goat Domestication
-__Summary:__ The thousand-year window following the PPNA witnesses a second structural revolution in human subsistence: the addition of domestic animals — first goats, then sheep, pigs, and cattle — to an already established cereal-pulse complex. Rectangular, lime-plastered multi-room houses replace the earlier circular forms, signaling a shift toward modular household units and longer residential investment. Settlement expands beyond the Jordan Valley heartland into the Mediterranean hills and the northern Levant, linking the region to emerging PPNB networks in Anatolia and Cyprus. The binding constraint is the labor and land needed to sustain mixed agropastoral production without depleting soil or browse; the system holds moderate margin because wild resources remain available as fallback. The trajectory is one of geographic expansion, architectural elaboration, and deepening reliance on managed species.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Levantine corridor retains its north-south axis of low-friction transit along the Jordan Rift and coastal plain; the Galilee highlands and Transjordanian plateau present moderate gradients favoring dispersed settlement; passes through the Taurus foothills link the region to Anatolian obsidian sources.<br><br>
-__Climate Regime & Volatility:__ Early Holocene optimum conditions deliver warmer, wetter winters than today; Mediterranean oak-pistachio woodland advances into formerly steppe zones; seasonal rainfall reliably supports rain-fed cereals in the 300–600 mm isohyet band; interannual variability is moderate and within the margin of village-scale storage.<br><br>
-__Hazard Regime & Exposure:__ The Dead Sea Transform remains seismically active; localized flooding along Jordan tributaries recurs episodically; drought cycles of one to two years can stress stored reserves but do not yet trigger abandonment — the system holds adequate slack.<br><br>
-__Resource & Energy Endowment:__ Flint nodules remain abundant in limestone exposures; bitumen seeps at the Dead Sea provide hafting material; obsidian — absent locally — is imported from Anatolian sources (Cappadocia, Lake Van); fuel wood and browse are plentiful as woodland cover is near its Holocene maximum.<br><br>
-__Waste Absorption & Sink Capacity:__ Human and animal waste disperses into open landscape beyond village margins; middens accumulate but settlement densities remain low enough that absorptive capacity is nowhere near saturation; deforestation pressure is incipient but not yet binding.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Proximity to domestic goats introduces zoonotic exposure absent in foraging populations, but herd sizes remain small and contact episodic; endemic gastro-intestinal parasites persist; mortality remains dominated by trauma and infection rather than epidemic disease.<br><br>
-__Nutrition & Physiological Vitality:__ The mixed diet of cereals, pulses, wild game, and early domestic meat maintains skeletal robustness comparable to PPNA populations; dental pathology increases with carbohydrate intake but overall stature is stable; nutritional margin is adequate.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Sedentary village life shortens birth spacing relative to mobile foragers; lactation intervals may decline; pair-bonding occurs within village contexts; reproductive rates rise modestly, supporting population growth.<br><br>
-__Demographic Renewal & Density:__ Village populations range from a few dozen to several hundred; regional density increases as new sites are founded across the PPNB expansion zone; birth rates exceed death rates, driving steady demographic growth.<br><br>
-__Attrition & Dependency Overhang:__ Infant mortality remains high; adults rarely survive past fifty; the dependency ratio is manageable because productive adults predominate and communal structures absorb orphans and the elderly without approaching capacity limits.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed agropastoral production supplies grain, pulses, milk, and occasional meat; wild gazelle and other game remain significant; the floor is secure but still tied to local rainfall and herd health; household pooling buffers shortfalls.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the primary mover; domestic goats provide some traction-equivalent labor (transport, browse clearing) and convert inedible scrub into meat and milk; wood-fired hearths supply heat and lime-burning capacity; per-capita energy throughput rises modestly.<br><br>
-__Labor Organization & Coercion:__ Household labor predominates; task specialization by age and sex is evident in craft debris distributions; communal labor for lime-plastering and construction is episodic and reciprocal; coercion is minimal, organized through kin obligation rather than authority.<br><br>
-__Production & Surplus Capacity:__ Cereal yields support year-round consumption with modest surplus; surplus flows into seed stock, animal fodder, and exchange goods; production capacity grows as cultivated area expands but remains constrained by manual tillage.<br><br>
-__Storage, Reserves & Buffering:__ Rectangular architecture includes dedicated storage bins; plastered floors protect grain from pests and moisture; reserves typically cover one to two lean seasons; the buffer is adequate for single-year drought but would strain under consecutive failures.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks import Anatolian obsidian, marine shells from the Mediterranean and Red Sea, and greenstone from Cyprus; exchange is embedded in social reciprocity rather than market transactions; logistics depend on human porterage along established routes.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No currency or standard unit of account exists; value is stored in livestock, stored grain, and prestige objects; deferred reciprocity — obligations to share future surplus — structures inter-household and inter-village relations.<br><br>
-__Surplus Extraction & Redistribution:__ Communal buildings suggest collective feasting and ritual redistribution; no centralized extraction authority is attested; surplus flows through kinship and ritual channels rather than taxation.<br><br>
-__Wealth Distribution & Asset Defense:__ Differentiation in house size and burial goods indicates emerging inequality, but disparities remain modest; land and herds are defended through kin solidarity; no fortifications exist — defense is social rather than architectural.<br><br>
-__Byproducts & Waste Routing:__ Animal dung accumulates near pens and is likely returned to fields as fertilizer or burned as fuel; knapping debris, ash, and food waste concentrate in middens outside living quarters; waste volume is low relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village-scale face-to-face interaction supports high interpersonal trust; mutual aid networks extend across households and, through exchange, to neighboring villages; the trust radius is expanding as the PPNB network grows.<br><br>
-__Stratification, Status & Group Identity:__ Status differentials appear in burial treatment and house elaboration but remain permeable; lineage and residence define primary identity; ethnic or regional distinctions are weakly marked; boundaries are fluid.<br><br>
-__Kinship, Family & Inheritance:__ Multi-room rectangular houses imply nuclear or small extended family units; inheritance likely follows patrilineal lines given the emphasis on skull curation of male ancestors; bride exchange may link villages.<br><br>
-__Civic Association & Self-Organization:__ Communal buildings — non-domestic structures with benches and plastered floors — serve as foci for supra-household coordination; guilds or formal associations are not attested; coordination remains kin- and ritual-based.<br><br>
-__Leisure, Play & Sociability:__ Communal feasting at ritual structures provides periodic release from labor; games and play are not directly attested but assumed from cross-cultural parallels; sociability centers on shared meals and ritual gatherings.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes likely resolve through kin mediation and elder arbitration; emigration to new settlements offers an exit valve; ritual may discharge accumulated tension; standing unmetabolized grievance is low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is diffuse and consensual; village elders and ritual specialists hold influence but not coercive power; no inter-village polity or paramount leader is attested; decision-making is face-to-face and collective.<br><br>
-__Succession & Power Transfer:__ Leadership roles, where they exist, likely pass through seniority or demonstrated competence; skull curation suggests ancestor authority rather than living dynastic succession; transfer is informal and unremarkable.<br><br>
-__Legitimacy & Political Narrative:__ Ancestral authority — materialized in plastered skulls and lime-plaster statues — legitimates kin-group claims to land and ritual precedence; no dynastic or heroic narratives are recoverable.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administration is absent; coordination occurs through kinship and ritual; no records, seals, or tokens are attested; capacity is limited to village-scale collective action.<br><br>
-__Political Participation & Mobilization:__ All adult villagers likely participate in communal decisions; mobilization for labor or defense is episodic and voluntary; dissent finds outlet in emigration; the system is inclusive within its small scale.<br><br>
-__Geopolitical Position & External Relations:__ Villages are embedded in a shared PPNB cultural horizon stretching from the southern Levant to Anatolia and Cyprus; relations are cooperative, mediated by exchange and intermarriage; no evidence of systematic warfare or territorial conflict.<br><br>
-__Coercive Apparatus & Means of Force:__ Hunting weapons — bows, spears, projectile points — double as defensive arms; no standing military or fortifications exist; force is individual or kin-group mobilized, not institutionalized.<br><br>
-__Internal Order & Threat Environment:__ Intra-village violence is not prominent in skeletal evidence; raiding or banditry may occur but does not leave clear archaeological traces; disorder is within the system's absorptive capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at the speed of walking messengers and visiting kin; inter-village communication follows exchange routes; news reaches across the Levant over weeks to months; transmission is slow but reliable within the network.<br><br>
-__Record, Storage & Persistence:__ No writing or proto-writing exists; all information persists in living memory, oral recitation, and material markers (plastered skulls, statues); knowledge survives only as long as it is actively transmitted; loss at generational turnover is significant.<br><br>
-__Framing, Censorship & Discourse Norms:__ Ritual specialists and elders likely control sacred narratives; everyday discourse is unregulated; taboos may govern speech about the dead or ritual practices; the permitted band is wide but ritually bounded.<br><br>
-__Reception, Attention & Amplification:__ Communal gatherings concentrate attention; repetition in ritual contexts amplifies core narratives; attention is face-to-face and episodic; no mechanism for broadcast or mass amplification exists.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission degrades over generations; ritual formalization slows drift; verification relies on consensus among elders; noise load is moderate given small population and slow information flow.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, kinship obligation, and respect for ancestors form the moral bedrock; theft, violence, and breach of sharing norms are wrongs; justice is restorative and embedded in social relations.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law code exists; binding norms are customary and orally transmitted; taboos around sacred spaces and objects carry quasi-legal force; evolution is slow and conservative.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are mediated by kin elders; restitution and compensation replace punishment; liability is collective (kin-group responsibility); formal tribunals are absent.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kin status; protections extend through kinship networks; compliance burden is low — norms are internalized and violations rare; outsiders lack protected status.<br><br>
-__Impunity & Unredressed Wrong:__ Kin-based enforcement may leave wrongs between unrelated parties unresolved; emigration offers escape from accountability; standing impunity is low given village-scale transparency but not zero.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Systematic inquiry is not differentiated from practical knowledge; the reigning paradigm is animist-ancestral, attributing causation to spirits and ancestors; observation of plant and animal behavior drives domestication but is not formalized as theory.<br><br>
-__Applied Knowledge & Technical Method:__ Lime-plaster production requires controlled pyrotechnology; naviform blade knapping demands high skill; goat husbandry involves selective breeding; techniques are reproducible and transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Skills pass orally and by demonstration within households; specialized knowledge (flint-knapping, lime-burning, ritual) may concentrate in particular lineages; the stock is distributed unevenly but not monopolized.<br><br>
-__Obsolescence & Knowledge Decay:__ Circular house construction is abandoned in favor of rectangular forms; some PPNA techniques fade; loss is gradual and replaced by new methods; decay is balanced by innovation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestral origins, founding narratives of the village, and the taming of wild species likely anchor collective identity; plastered skulls and statues materialize these narratives; identity is kin- and place-based.<br><br>
-__Artistic Expression & Material Culture:__ Lime-plaster statues and skull portraits represent the earliest large-scale figurative sculpture; geometric painted plaster appears; material culture is austere but symbolically charged; aesthetic conventions are shared across the PPNB network.<br><br>
-__Collective Mood & Behavioral Disposition:__ The expanding settlement frontier and reliable subsistence support a confident, expansive mood; risk-taking in colonization and long-distance exchange reflects optimism; the behavioral temper is active and exploratory.<br><br>
-__Form Exhaustion & Meaning Decay:__ The cultural forms are young and vital; no evidence of exhaustion or hollowing; symbols retain their potency; anomie is not detectable in the archaeological record.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ An animist-ancestral cosmology prevails; the dead remain active agents requiring propitiation; the boundary between living and dead is permeable; fatalism coexists with ritual agency — humans can influence outcomes through correct practice.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Skull removal, plastering, and curation anchor ancestor veneration; lime-plaster statues may represent ancestors, deities, or mythic figures; communal buildings host collective rites; daily devotion is embedded in household routines.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Institutionalized clergy are not attested; ritual specialists likely exist within kin groups; doctrine is oral and flexible; authority is local and lineage-based, not centralized.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ The PPNB cultural horizon spreads a broadly shared cosmology across the Levant and beyond; local variants exist but no displacement or major fracturing is evident; diffusion is expansive.<br><br>
-__Disenchantment & Sacred Discharge:__ The sacred remains potent and unquestioned; no secularizing drift or existential void is detectable; spiritual need is fully anchored in ancestor veneration and animist practice; disenchantment is absent.<br><br>
+# __8,500 BCE – 7,500 BCE__ — Early Pre-Pottery Neolithic B and Goat Domestication
+
+__Summary:__ A thousand-year trend in which Levantine villages add managed herds of goats and later sheep to the cereal-legume complex already in place, completing the founder package of Near Eastern agriculture; spoken instruction coordinates the new skills of penning, culling, breeding selection, and seasonal movement, handing down herding knowledge that no silent gesture could transmit, while the binding constraint of oral memory still caps how far technical repertoire can expand beyond face-to-face teaching.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Jordan Rift, its flanking highlands from Galilee to Transjordan, and the inner Syrian steppe define the arena; villages cluster where perennial springs meet arable terraces, while semi-arid margins now enter use as seasonal grazing ground for newly managed flocks.
+
+__Climate Regime & Volatility:__ Early Holocene warmth and enhanced winter rains persist, supporting cereal yields and browse for goats; interannual variability remains moderate, and no severe aridification pulse interrupts the millennium.
+
+__Hazard Regime & Exposure:__ Flash floods in wadi systems and occasional seismic tremors along the Rift pose localized risk, but village placement on terraces and tells buffers most settlements; drought risk is cushioned by spring-fed sites.
+
+__Resource & Energy Endowment:__ Fertile soils on alluvial fans and colluvial slopes sustain grain crops; wild progenitors of goat and sheep occupy adjacent uplands, providing the stock from which managed herds are drawn; flint nodules and basalt outcrops supply lithic raw material; obsidian continues to arrive from Anatolia.
+
+__Waste Absorption & Sink Capacity:__ Localized dung accumulation around pens enriches soils rather than saturating them; ash middens grow but do not yet degrade village environs; deforestation for fuel and building timber begins to thin woodland fringes, though regeneration still keeps pace.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Close contact with penned goats introduces zoonotic exposure not present among pure foragers, yet endemic disease load remains low; infant and maternal mortality persist at high background rates typical of early agrarian populations.
+
+__Nutrition & Physiological Vitality:__ Grain and legume diets supply adequate calories; the addition of milk, blood, and occasional meat from managed herds improves protein intake; skeletal evidence shows moderate stature with some dental caries from starchy food.
+
+__Care, Healing & Recovery Capacity:__ Herbal remedies, bone-setting, and midwifery operate within kin groups; no specialized healer stratum is visible, though communal ritual may incorporate healing invocations; recovery capacity matches the modest injury load of village life.
+
+__Reproductive Biology & Pairing Dynamics:__ Sedentary life and improved nutrition raise completed fertility above forager norms; monogamous or mildly polygynous households form the reproductive unit; birth intervals shorten as weaning foods become available.
+
+__Demographic Renewal & Density:__ Population grows steadily; villages expand from dozens to low hundreds of inhabitants; the region's total population rises across the millennium, filling arable niches in the Rift and adjacent uplands.
+
+__Attrition & Dependency Overhang:__ High child mortality leaves orphans absorbed by kin networks; the aged remain few; the productive cohort easily supports the dependent load, and no demographic drag accumulates.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Cultivated emmer, einkorn, barley, lentils, and peas form the staple base; managed goat herds add a mobile protein reserve; wild plant gathering and gazelle hunting continue as supplements; the provisioning floor rises above forager baselines.
+
+__Energy Capture & Conversion:__ Human muscle powers tillage and harvest; goats provide no traction but convert marginal browse into storable calories; firewood fuels cooking and lime-plaster production; per-capita energy capture increases modestly with herd additions.
+
+__Labor Organization & Coercion:__ Household units organize planting, harvest, and herd-tending; labor remains kin-based and cooperative, with no evidence of coerced work; seasonal tasks—lambing, shearing, culling—demand coordination spoken through and remembered.
+
+__Production & Surplus Capacity:__ Grain yields exceed immediate consumption, permitting storage in plastered bins; goat herds accumulate as live surplus; the combination creates a buffer against single-crop failure, though overall surplus remains modest by later standards.
+
+__Storage, Reserves & Buffering:__ Plastered pits and mud-brick bins hold grain; livestock on the hoof serve as walking reserves convertible in lean seasons; no formal treasury exists, but household and communal stores provide several months' cushion.
+
+__Exchange, Trade & Logistics:__ Obsidian from Cappadocia, marine shells from the Mediterranean, and greenstone beads circulate through down-the-line exchange; no market centers exist, but prestige goods move hundreds of kilometers, indicating sustained inter-village contact.
+
+__Value Storage, Credit & Deferred Exchange:__ No monetary medium exists; value inheres in stored grain, livestock, and prestige objects; reciprocal gift obligations bind households and villages, with spoken promises tracking deferred exchanges across seasons.
+
+__Surplus Extraction & Redistribution:__ No state apparatus extracts tribute; communal labor for ritual structures represents the only visible pooling beyond the household; redistribution flows through kinship and feast hospitality.
+
+__Wealth Distribution & Asset Defense:__ Differential house sizes and burial goods suggest emerging wealth gradients, though extremes remain modest; livestock raiding is possible but unattested; walls or towers serve communal defense rather than elite protection.
+
+__Byproducts & Waste Routing:__ Dung is recycled as fuel and fertilizer; bone, horn, and hide enter craft production; middens accumulate but are periodically leveled or relocated; no toxic byproduct saturates the local sink.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilocal residence and patrilineal descent likely organize households; property—land, herds, stored grain—passes within kin lines, though rules remain customary and orally transmitted.
+
+__Association & Mutual Aid:__ Village-level cooperation pools labor for construction, herding, and defense; age-graded or lineage-based work groups coordinate seasonal tasks; reciprocal aid buffers household shortfalls.
+
+__Leisure, Play & Sociability:__ Communal feasting accompanies ritual events; bone gaming pieces and decorated objects suggest leisure activities; storytelling and song transmit lore and entertain.
+
+__Stratification, Status & Group Structure:__ Status gradients appear in burial goods and house elaboration but remain shallow; no hereditary elite stratum is visible; ritual specialists or lineage heads may hold prestige without coercive power.
+
+__Administrative Capacity & Institutional Integrity:__ No formal bureaucracy exists; village affairs are managed through kin councils and oral consensus; memory of agreements and precedents resides in elder recall, capping administrative reach at the community scale.
+
+__Coercive Apparatus & Means of Force:__ No standing warrior class; adult males bear hunting weapons usable for defense; communal walls at some sites suggest collective security concerns, but organized warfare remains episodic and small-scale.
+
+__Discharge, Disorder & Decay:__ Disputes settle through kin mediation and compensation; violence levels are low; the social fabric absorbs friction without recorded breakdown, though inter-village raiding cannot be ruled out.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Village solidarity and kinship loyalty anchor trust; the shared project of herding and farming sustains cooperative temper; anxiety centers on harvest failure and herd loss rather than external threat.
+
+__Leadership & Personal Authority:__ Lineage elders and ritual specialists hold persuasive authority; leadership is situational—coordinating hunts, herding decisions, ritual—rather than institutionalized; charisma matters but confers no coercive power.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to kin group and village community; legitimacy rests on reciprocity, ritual efficacy, and elder wisdom; no ruler demands obedience, and consent is embedded in daily cooperation.
+
+__Political Will & Collective Resolve:__ Collective will mobilizes for construction projects, communal hunts, and defense; the capacity for unified action is real but limited to village scale; no supra-village polity directs broader efforts.
+
+__External Relations & Posture:__ Inter-village relations mix exchange and competition; marriage alliances and trade partnerships link communities; hostility is possible but not dominant; no expansionist drive is visible.
+
+__Disaffection, Apathy & Spent Will:__ Affective exhaustion is not recorded; the period is one of expansion and optimism; the residue of disaffection does not accumulate visibly.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language with full grammatical complexity enables instruction in herding, planting, and ritual; all community members share the code; no literacy exists; knowledge travels only as far as voice and memory carry.
+
+__Channels & Transmission Velocity:__ Face-to-face speech is the sole channel; messengers on foot link villages within days; information spreads slowly across the region, gated by travel time and the need for personal contact.
+
+__Record, Storage & Persistence:__ No durable record exists; all tradition, genealogy, and technical knowledge resides in living memory, refreshed through repetition, song, and ritual recitation; loss of key individuals means loss of knowledge.
+
+__Framing, Censorship & Discourse Norms:__ Elders and ritual specialists shape what is said in public; taboos govern sacred speech; everyday discourse is open within the community but constrained by etiquette and hierarchy.
+
+__Reception, Attention & Amplification:__ Communal gatherings amplify messages; repetition and mnemonic devices aid retention; attention spans are shaped by oral performance traditions rather than competing media.
+
+__Signal Integrity & Noise Load:__ Oral transmission is vulnerable to drift and loss; the signal degrades across generations unless actively rehearsed; no external verification exists; noise accumulates as memory fades.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity, kin loyalty, and respect for elders anchor the moral order; harm to kin or community members demands redress; theft and violence are wrong, though outsiders may fall outside the moral circle.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; binding rules are customary, transmitted orally, and interpreted by elders; taboos govern sacred spaces, burial, and certain foods; evolution is slow and conservative.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by kin councils or village elders; liability falls on kin groups; sanctions include compensation, shaming, and in extreme cases expulsion; no formal court or code exists.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy is embedded in kin obligation; rights inhere in group membership; compliance burden is low, enforced by social pressure rather than formal apparatus.
+
+__Impunity & Unredressed Wrong:__ Wrongs within the community are generally redressed through mediation; wrongs by outsiders may go unanswered; the gap between justice owed and delivered is small within the moral community, larger beyond it.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry exists; understanding of animal behavior, plant cycles, and soils is empirical and practical; explanatory frameworks are mythological, attributing fertility and failure to spirits or ancestors.
+
+__Applied Knowledge & Technical Method:__ Herding techniques—selective culling, penning, seasonal movement—are developed and transmitted orally; plaster production, lithic knapping, and architectural methods represent sophisticated craft knowledge; technique advances incrementally.
+
+__Education, Knowledge Stock & Skill Distribution:__ Children learn by observation and apprenticeship; knowledge stock resides in skilled practitioners; distribution is broad for basic tasks, narrow for specialized crafts like obsidian knapping or ritual performance.
+
+__Obsolescence & Knowledge Decay:__ Skills die with practitioners if not transmitted; the oral medium is vulnerable to knowledge loss; no archive preserves superseded techniques; decay is ongoing but masked by the small total stock.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Ancestor veneration and origin narratives root identity in place and lineage; plastered skulls and communal burials enact the link between living and dead; identity is local, kin-based, and tied to the village.
+
+__Legitimating Narrative & Ideology:__ The right order is the order of ancestors; ritual repetition legitimates continuity; no written ideology exists, but oral tradition justifies hierarchy, land tenure, and marriage rules by appeal to precedent.
+
+__Artistic Expression & Material Culture:__ Lime-plaster statues, decorated skulls, carved bone, and painted geometric motifs express symbolic concerns; rectangular multi-room houses with plastered floors mark architectural elaboration; material culture is functional and symbolic.
+
+__Form Exhaustion & Meaning Decay:__ No visible exhaustion; the period is one of cultural elaboration and expansion; forms are vital and evolving, not yet hollowed into convention.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is animated by spirits, ancestors, and forces immanent in animals and plants; human destiny is bound to the land and the lineage; death is a transition, not an ending, as skull caching attests.
+
+__Ritual, Devotion & Sacred Practice:__ Skull plastering, secondary burial, communal feasting, and seasonal rites mark the sacred calendar; ritual is public and participatory, binding the community to ancestors and to the forces that ensure fertility.
+
+__Religious Institutions & Doctrinal Authority:__ No priesthood or temple institution exists; ritual specialists—possibly lineage heads—conduct ceremonies; doctrine is oral tradition, not codified dogma; authority is diffuse and situational.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The PPNB symbolic complex—skull cult, plaster statues, communal ritual—spreads across the Levant and into Anatolia, indicating shared or diffusing cosmological ideas; no competing system displaces local belief.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is visible; the sacred saturates daily life; the cosmos remains enchanted, and spiritual need is fully met by existing practice.
+

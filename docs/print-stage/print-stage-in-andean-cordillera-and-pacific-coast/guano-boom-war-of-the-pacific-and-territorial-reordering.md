@@ -1,69 +1,139 @@
-# __1860 CE – 1884 CE__ — Guano Boom, War of the Pacific, and Territorial Reordering
-__Summary:__ The Andean Pacific states pivot on two linked extractive booms — Peruvian guano fertilizer through the 1860s–70s and Atacama nitrate thereafter — whose revenues sustain elite state-building but whose contested boundaries ignite the War of the Pacific (1879–1884); Chile's decisive victory strips Peru of Tarapacá and landlocks Bolivia, reordering regional power and entrenching primary-commodity dependence as the binding constraint, with moderate slack in most subsystems except Bolivian geopolitical position, which absorbs a permanent territorial loss.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Andes spine fragments movement; Pacific littoral provides export corridors; Atacama Desert — hyperarid, nearly uninhabited — holds the contested nitrate and guano deposits; Lima–Callao axis anchors Peru; Valparaíso–Santiago anchors Chile; La Paz sits landlocked on altiplano.<br><br>
-__Climate Regime & Volatility:__ Coastal strip arid to hyperarid; sierra seasonal with wet/dry oscillation; El Niño events disrupt anchovy stocks and guano deposition periodically; no major secular drift within window.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk high throughout cordillera; 1868 Arica earthquake and tsunami devastate southern Peru; infrastructure margins thin in port cities; reconstruction absorbs fiscal capacity.<br><br>
-__Resource & Energy Endowment:__ Guano islands off Peru nearly depleted by late 1870s; Atacama nitrate caliche beds immense, becoming primary strategic asset; copper and silver deposits secondary; coal imported; fuelwood scarce on coast.<br><br>
-__Waste Absorption & Sink Capacity:__ Mining and port operations discharge tailings and urban refuse locally; absorptive capacity of desert and ocean ample; no saturation pressure in window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria in lowlands; typhoid and cholera outbreaks in port cities; war casualties and disease mortality spike 1879–1883; baseline improving slowly with sanitary infrastructure in capitals.<br><br>
-__Nutrition & Physiological Vitality:__ Coastal and urban populations adequately provisioned; highland indigenous communities subsistence-marginal; war disrupts supply to occupied zones; stature data sparse but no major famine reported outside siege conditions.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patriarchal Catholic norms govern pairing; high fertility; informal unions common among lower strata; war widowhood increases female-headed households temporarily.<br><br>
-__Demographic Renewal & Density:__ Populations growing slowly — Peru roughly 2.5–3 million, Chile 2–2.5 million, Bolivia 1.5–2 million; immigration modest; war losses significant but not demographically catastrophic; density low outside capitals and mining camps.<br><br>
-__Attrition & Dependency Overhang:__ War produces widows, orphans, disabled veterans; no systematic pension or relief; family and parish absorb load; dependency burden elevated but absorbed within kin networks.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Hacienda agriculture feeds domestic markets; sierra indigenous communities largely self-provisioning; coastal cities import grain; subsistence floor stable except in war zones.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominant; steam engines in mines and railways expanding; coal imported from Britain and Australia; per-capita energy rising slowly with rail and port mechanization.<br><br>
-__Labor Organization & Coercion:__ Indigenous tribute abolished but debt peonage and enganche (labor contracting) persist in mines and haciendas; wage labor in ports and nitrate oficinas; Chinese coolies in Peruvian guano; coercion declining but substantial.<br><br>
-__Production & Surplus Capacity:__ Guano extraction peaks mid-1870s then declines; nitrate production surges post-war under Chilean control; agricultural output stagnant; industrial capacity minimal; surplus overwhelmingly from extractive exports.<br><br>
-__Storage, Reserves & Buffering:__ Peru exhausts guano-backed credit by 1876 default; Chilean treasury accumulates nitrate revenues post-war; Bolivia loses export base; reserves thin throughout region; buffering capacity low.<br><br>
-__Exchange, Trade & Logistics:__ Pacific steamship lines connect Callao, Valparaíso, Panama; railways extend inland to mines and agricultural zones; nitrate ports — Iquique, Antofagasta — become regional hubs; telegraph links established 1870s.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Peruvian sol, Chilean peso, Bolivian boliviano circulate; Peru defaults on foreign debt 1876; Chilean credit standing improves with nitrate revenues; British merchant houses dominate finance; banking rudimentary.<br><br>
-__Surplus Extraction & Redistribution:__ Export taxes — guano consignment fees, nitrate duties — fund state budgets; tariffs secondary; redistribution through patronage, military payrolls, and infrastructure contracts; extraction rates moderate but volatile with commodity prices.<br><br>
-__Wealth Distribution & Asset Defense:__ Narrow oligarchies control land, mines, commerce in all three states; foreign capital owns nitrate operations increasingly; concentration high; legal property defense adequate for elites; indigenous communal lands vulnerable to encroachment.<br><br>
-__Byproducts & Waste Routing:__ Mining tailings dumped locally; guano extraction leaves depleted islands; nitrate processing discards low-grade caliche; urban refuse minimal at scale; routing dispersed, sinks ample.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kin, parish, and patron–client networks anchor mutual aid; national identity consolidating but regional and ethnic divisions persist; war intensifies national sentiment within each state; trust radius widening slowly among literate strata.<br><br>
-__Stratification, Status & Group Identity:__ Creole elites atop racial hierarchy; mestizo middle strata growing in cities; indigenous majority marginalized, especially in Peru and Bolivia; Chinese workers stigmatized; boundaries rigid but some mestizo mobility through education and commerce.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance; Catholic marriage normative among elites; common-law unions widespread; extended kin networks buffer economic shocks; primogeniture customs vary by region.<br><br>
-__Civic Association & Self-Organization:__ Mutual aid societies, artisan guilds, and masonic lodges active in capitals; press associations emerge; rural indigenous communities retain communal structures under external pressure; associational density low outside urban centers.<br><br>
-__Leisure, Play & Sociability:__ Religious festivals, bullfights, horse racing structure elite and popular leisure; cafes and tertulias host literate sociability; chinganas (taverns) serve lower strata; leisure segregated by class and race.<br><br>
-__Grievance Channels & Social Discharge:__ Patron mediation, parish charity, and occasional riot absorb grievance; no formal labor arbitration; unrest in mining camps sporadically repressed; standing friction moderate, channeled through personalist politics.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Oligarchic civilian rule contested by military caudillos; Peru under civilian Pardo, then war-era instability; Chile under civilian presidencies with congressional power; Bolivia under succession of military and civilian strongmen; power concentrated but contested.<br><br>
-__Succession & Power Transfer:__ Constitutional forms nominally observed but coups and armed impositions frequent, especially in Bolivia and wartime Peru; Chilean transfers more regularized; succession a recurring flashpoint.<br><br>
-__Legitimacy & Political Narrative:__ Republican constitutionalism claimed; national defense narrative dominates war years; post-war, Chilean victory legitimates its state; Peruvian and Bolivian elites face crisis of legitimacy after defeat.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Modest bureaucratic capacity; tax collection dependent on export duties and customs; census and cadastral data incomplete; corruption endemic; war strains all administrations.<br><br>
-__Political Participation & Mobilization:__ Property-qualified suffrage limits electorate to literate propertied males; press campaigns mobilize elite opinion; popular mobilization through military recruitment and urban demonstrations; indigenous largely excluded.<br><br>
-__Geopolitical Position & External Relations:__ Chile allied with Argentina (1881 boundary treaty); Peru and Bolivia in defensive pact against Chile; British neutrality favors Chilean access to finance and materiel; post-war Chile dominates regional balance; Bolivia landlocked, grievance permanent.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing armies small before war; conscription expands forces 1879–1884; Chilean navy decisive in controlling Pacific supply lines; breech-loading rifles standard; fortifications minimal; post-war Chilean military professionalized.<br><br>
-__Internal Order & Threat Environment:__ Banditry in rural zones; montoneros (guerrillas) resist Chilean occupation in Peru; post-war order restored through military occupation and negotiated treaties; disorder elevated during war, subsiding after.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Submarine telegraph cables connect Valparaíso and Lima to Panama and Europe by 1870s; newspapers relay war dispatches within days; interior dependent on overland courier; elite access to rapid information, popular strata delayed.<br><br>
-__Record, Storage & Persistence:__ Government archives, notarial records, and commercial ledgers persist; newspaper runs preserved in capitals; war disrupts Peruvian archives during occupation; durability moderate, some loss to conflict.<br><br>
-__Framing, Censorship & Discourse Norms:__ Partisan press dominates; wartime censorship and propaganda intensify; post-war press relatively free in Chile, constrained in occupied Peru; discourse norms allow vigorous polemic among elites.<br><br>
-__Reception, Attention & Amplification:__ Literate urban populations consume newspapers; oral relay extends reach to semi-literate; war news amplifies national sentiment; attention concentrated on conflict and commodity prices.<br><br>
-__Signal Integrity & Noise Load:__ Telegraph reduces distortion for commercial and diplomatic traffic; rumor and partisan exaggeration persist in press; verification limited to elite circles; noise manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic natural-law tradition underlies elite jurisprudence; popular sense of justice rooted in reciprocity and patron obligation; war atrocities inflame moral outrage but largely unredressed.<br><br>
-__Law, Codification & Regulatory Evolution:__ Civil codes based on Napoleonic model adopted mid-century; commercial codes regulate contracts; mining codes govern concessions; law evolving slowly; wartime martial law overrides civil process.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function in capitals; rural justice depends on local notables; contract enforcement adequate for elite commerce; war disrupts civilian courts in occupied zones; liability assignment slow.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights secure for documented holders; indigenous communal tenure vulnerable; civil liberties nominal, suspended under martial law; compliance burden moderate for commerce, heavier for indigenous labor.<br><br>
-__Impunity & Unredressed Wrong:__ War crimes — sacking of Lima, Huáscar atrocities — largely unredressed; elite immunity from prosecution common; indigenous grievances ignored; impunity substantial, grievance accumulates.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Positivism and liberal political economy dominant among elites; natural history and geography pursued by European-trained savants; geological surveys of nitrate deposits inform investment; inquiry concentrated in capitals.<br><br>
-__Applied Knowledge & Technical Method:__ Mining engineering imported from Europe; steam-powered processing in nitrate oficinas; railway engineering advancing; agricultural technique stagnant; technique transfer dependent on foreign expertise.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary education expanding slowly in cities; universities in Lima, Santiago, La Paz train lawyers and doctors; literacy rates low — perhaps 15–25% of adults; skill concentrated in urban mestizo and creole strata.<br><br>
-__Obsolescence & Knowledge Decay:__ Colonial scholasticism fading; indigenous technical knowledge (agriculture, textile) persists locally but unrecorded; war disrupts educational continuity; decay moderate, renewal slow.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Independence-era heroes (Bolívar, San Martín) anchor national narratives; War of the Pacific becomes central trauma for Peru and Bolivia, triumph for Chile; Andean indigenous memory subordinated but persistent.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical and romantic styles in elite architecture and painting; folk arts — textiles, ceramics — continue indigenous traditions; European imports define elite taste; material culture stratified by class and ethnicity.<br><br>
-__Collective Mood & Behavioral Disposition:__ War fever and patriotic mobilization dominate 1879–1884; post-war, Chilean confidence rises, Peruvian and Bolivian mood somber with defeat and occupation; risk tolerance variable by outcome.<br><br>
-__Form Exhaustion & Meaning Decay:__ Colonial religious forms persist but secularizing among elites; republican symbols fresh but unevenly embraced; war renews national symbolism; form exhaustion minimal, renewal underway.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic Christianity dominant; providence and fate frame elite and popular worldviews; indigenous Andean cosmology (pachamama, apus) persists in highlands; secularism emerging among liberal elites.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, feast days, processions structure religious life; pilgrimage to regional shrines common; indigenous rituals syncretized with Catholicism; devotional practice robust across strata.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic Church institutionally strong but losing state patronage to liberal reforms; clergy influential in rural areas; no significant Protestant presence; doctrinal authority stable but state relations contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Andean-Catholic syncretism stable; liberal secularism spreads among urban elites; no major new movements; diffusion minimal, existing synthesis persists.<br><br>
-__Disenchantment & Sacred Discharge:__ Elite secularism creates mild disenchantment in capitals; popular piety undiminished; war grief channeled through religious mourning; sacred discharge adequate, no major void.<br><br>
+# __1860 CE – 1884 CE — Guano Boom, War of the Pacific, and Territorial Reordering__
+
+The binding constraint is fiscal exhaustion colliding with resource rivalry. Peru's guano windfall funded state expansion and debt accumulation without building durable tax capacity; when deposits depleted and nitrate revenues beckoned, Bolivia and Chile's competing claims over the Atacama triggered war. Chilean naval superiority and logistical coherence defeated the Peru-Bolivia alliance; the resulting territorial transfer — Peru losing Tarapacá, Bolivia losing its coast entirely — reordered Andean geopolitics for the next century, with print media serving as both war mobilizer and postwar arbiter of national humiliation and reconstruction.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Atacama Desert separates Chilean core territory from the disputed nitrate fields of Antofagasta and Tarapacá; its aridity makes overland supply difficult but concentrates extractable wealth in accessible coastal strips. The Andes isolate highland Bolivia from the Pacific, making its coastal access through Antofagasta economically vital but strategically vulnerable. Peru's southern coast connects Lima to the contested region by sea, but the intervening desert renders interior reinforcement slow.
+
+__Climate Regime & Volatility:__ Hyperarid conditions in the Atacama preserve nitrate deposits in surface caliche but limit local water and agriculture; combatants depend entirely on imported supply. Coastal Peru experiences periodic El Nino disruptions affecting guano accumulation rates and agricultural output in northern valleys.
+
+__Hazard Regime & Exposure:__ Seismic activity is endemic; the 1868 Arica earthquake and tsunami devastate the southern Peruvian coast, disrupting infrastructure years before the war. Naval operations face Pacific storms, though the region's generally calm waters favor Chilean flotilla operations.
+
+__Resource & Energy Endowment:__ Peru's guano deposits on the Chincha Islands — nitrogen-rich bird excrement accumulated over millennia — peaked in the 1860s but face depletion by the 1870s; debt secured against future guano revenues exceeds remaining extractable value. Atacama nitrates offer a successor fertilizer resource: Bolivia and Peru control northern deposits, Chile's merchants and miners already penetrate the zone. Copper extraction in Chilean territory supplements national revenue.
+
+__Waste Absorption & Sink Capacity:__ Guano extraction itself is extractive without significant pollution; however, nitrate processing leaves chemical residues at processing plants. The Pacific absorbs mining effluent; no feedback constraint during this window.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria and typhoid persist in coastal lowlands; highland populations face distinct disease ecologies. War mobilization exposes soldiers to unfamiliar pathogens; campaign mortality includes significant disease deaths alongside combat casualties.
+
+__Nutrition & Physiological Vitality:__ Soldiers on both sides suffer supply shortages during extended campaigns; Chilean forces maintain better logistical chains through naval control. Indigenous conscripts from highland Peru and Bolivia face altitude-related challenges when fighting on the coast.
+
+__Care, Healing & Recovery Capacity:__ Military medicine is rudimentary; amputation without anesthesia remains common. Red Cross concepts spread through print but organized field hospitals are minimal. Lima hospitals receive wounded after occupation; mortality from wounds exceeds combat deaths.
+
+__Reproductive Biology & Pairing Dynamics:__ War disrupts household formation in mobilized regions; male absence from agricultural labor strains highland communities. No significant demographic shift in fertility patterns during the war years.
+
+__Demographic Renewal & Density:__ Peru's population approximately 2.7 million by 1876 census; Bolivia around 1.5 million; Chile roughly 2.1 million. Chile's more compact population along the central valley facilitates mobilization; Peru's dispersed population across coast, sierra, and selva complicates conscription.
+
+__Attrition & Dependency Overhang:__ War dead estimated at 14,000 Chilean, 20,000 Peruvian, 8,000 Bolivian; wounded and disabled add to postwar dependency. Widows and orphans strain already limited social support in defeated nations.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Highland communities maintain subsistence agriculture largely detached from export economy; war disrupts coastal hacienda labor and provisioning circuits. Chilean occupation of Peru disrupts Lima's food supply, producing inflation and scarcity.
+
+__Energy Capture & Conversion:__ Steam power operates railways connecting ports to mining zones; the Lima-Callao line, Peru's first railway, dates to 1851. Meiggs railway construction in the 1870s expanded highland access but left Peru indebted. Coal imports from Britain fuel naval and railway operations.
+
+__Labor Organization & Coercion:__ Guano extraction employs imported Chinese coolies under near-slavery conditions; the coolie trade declines by the 1870s amid international pressure. Highland indigenous labor mobilized through enganche debt-peonage for coastal agriculture and mining. Military conscription draws disproportionately from indigenous and mestizo lower classes.
+
+__Production & Surplus Capacity:__ Guano exports peaked in the 1850s-1860s, funding state expenditure and foreign debt service. By 1870, extraction outpaces accumulation; debt overhang from railway construction and military modernization exceeds remaining guano value. Nitrate exports offer substitute revenue; Chilean victory transfers these deposits definitively.
+
+__Storage, Reserves & Buffering:__ Peru mortgages future guano revenues to European bondholders; by 1876, guano contracts assigned to creditors rather than generating state income. Neither Peru nor Bolivia maintains fiscal reserves adequate for extended warfare. Chile enters the war with a smaller debt burden and more disciplined fiscal management.
+
+__Exchange, Trade & Logistics:__ Guano ships directly from islands to European and North American markets; Lima merchants and foreign trading houses intermediate. Nitrate extraction requires port facilities, rail connections, and shipping; Chilean control of the sea enables blockade of Peruvian ports, strangling trade.
+
+__Value Storage, Credit & Deferred Exchange:__ Peruvian bonds traded on London markets; default in 1876 closes credit access before the war begins. Chilean peso relatively stable; Chilean government can still access credit during the war. Bolivia lacks independent capital markets.
+
+__Surplus Extraction & Redistribution:__ Guano revenues flow through the Peruvian state but are largely committed to debt service and military spending; little reaches provincial administration or highland populations. Postwar Chilean extraction of Peruvian wealth through occupation indemnities and nitrate transfer enriches the victor.
+
+__Wealth Distribution & Asset Defense:__ Lima oligarchy holds haciendas, urban property, and guano contracts; war devastates their asset values. Chilean merchants and British investors acquire nitrate properties during and after the conflict. Bolivian mining interests lose Pacific access and face increased transport costs.
+
+__Byproducts & Waste Routing:__ Guano extraction is itself a waste product refined into fertilizer; mining debris accumulates at extraction sites without significant economic feedback in this period.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War deaths disrupt patrilineal inheritance among creole elites; some families lose male heirs in combat. Indigenous communities in occupied zones face household disruption but kinship networks provide mutual aid.
+
+__Association & Mutual Aid:__ Mutual aid societies among urban artisans and immigrant communities provide wartime relief. Lima's occupation sees charitable organizations struggle to manage displaced populations. Victory bonds and patriotic associations mobilize Chilean civil society.
+
+__Leisure, Play & Sociability:__ War suspends normal sociability; patriotic demonstrations and rallies replace peacetime festivals. Chilean triumphs occasion public celebrations; Peruvian defeats produce collective mourning.
+
+__Stratification, Status & Group Structure:__ Creole oligarchies dominate all three nations; indigenous majorities excluded from political voice. Wartime mobilization temporarily elevates military officers' status. Postwar Peru sees discrediting of the guano-era oligarchy and emergence of Civilista reform currents.
+
+__Administrative Capacity & Institutional Integrity:__ Peru's state apparatus is fiscally hollowed out before the war; military defeat exposes administrative incapacity. Chilean state demonstrates superior mobilization capacity and bureaucratic coherence. Bolivia's state survives but loses territorial reach and legitimacy.
+
+__Coercive Apparatus & Means of Force:__ Chilean navy, modernized with British-built ironclads (Huascar captured, Blanco Encalada, Almirante Cochrane), achieves sea control early in the war. Peruvian monitors and the heroic resistance of Admiral Grau cannot overcome material disadvantage. Chilean army, reorganized with European training, executes coordinated amphibious operations. Peruvian forces fight defensively; Bolivian forces withdraw early and do not rejoin significantly.
+
+__Discharge, Disorder & Decay:__ Occupation of Lima (1881-1883) produces looting, resistance, and guerrilla campaigns in the highlands. Peruvian civil war between Caceres and Iglesias factions follows military defeat. Banditry and local disorder proliferate in occupied zones; reconstruction proceeds slowly.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Initial war enthusiasm in all three countries gives way to exhaustion in Peru and Bolivia. Chilean public celebrates naval victories; Peru mourns Grau's death and the loss of the Huascar. Occupation of Lima produces humiliation that print media process into nationalist narratives of regeneration.
+
+__Leadership & Personal Authority:__ Chile's President Anibal Pinto provides civilian leadership; military commanders (Baquedano, Lynch) execute operations. Peru cycles through presidents during the war; Pierola's defense of Lima fails; Caceres leads guerrilla resistance. Bolivian President Daza's early retreat discredits Bolivian participation.
+
+__Legitimacy as Lived Allegiance:__ Chilean victory consolidates state legitimacy and national cohesion. Peruvian defeat fragments political allegiance; rival governments compete for recognition. Bolivian loss of coast becomes permanent grievance undermining subsequent regimes.
+
+__Political Will & Collective Resolve:__ Chile sustains mobilization through the war's four-year duration; fiscal discipline and naval superiority enable persistence. Peru's will fragments after Lima's fall; highland resistance continues under Caceres but cannot reverse strategic defeat. Bolivia effectively exits the war after early losses.
+
+__External Relations & Posture:__ Chile emerges as Pacific power; seeks to prevent Peru-Bolivia revanchism. Peru's postwar diplomacy focuses on preventing further territorial loss (Tacna-Arica question). Bolivia's landlocked status defines its foreign policy permanently. British investors favor Chilean stability for nitrate access.
+
+__Disaffection, Apathy & Spent Will:__ Peruvian defeat produces demoralization lasting a generation; the "Era of Reconstruction" channels grief into modernization efforts. Indigenous populations, conscripted and exploited by both sides, return to subsistence existence with limited changed allegiance to distant states.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish literacy remains the entry point to print discourse; indigenous populations largely excluded from direct print consumption. Urban literacy rates approximately 30-40% in capitals; rural rates far lower.
+
+__Channels & Transmission Velocity:__ Telegraph lines connect Lima to southern Peru and Chile to its northern territories; war disrupts lines. Naval communication via signal flags and coastal telegraph. Newspapers reach provincial cities within days; war news circulates through reading aloud and rumor in illiterate communities.
+
+__Record, Storage & Persistence:__ Wartime newspapers document campaigns, casualty lists, government proclamations. El Comercio (Lima), El Mercurio (Valparaiso), and provincial papers provide primary sources. Official archives disrupted during occupation; some records lost or captured.
+
+__Framing, Censorship & Discourse Norms:__ Wartime press operates under patriotic self-censorship and government pressure; enemy atrocities emphasized, own defeats minimized. Postwar Peruvian press debates causes of defeat, blaming politicians, generals, and foreign perfidy in various combinations.
+
+__Reception, Attention & Amplification:__ War dispatches command intense attention; extra editions sell out. Lithographs depicting battles circulate alongside text. Heroic narratives (Grau, Bolognesi at Arica) crystallize in immediate print coverage and subsequent commemoration.
+
+__Signal Integrity & Noise Load:__ Conflicting reports of battle outcomes circulate during campaign; verification lags actual events. Official communiques compete with rumor; print gradually establishes authoritative narrative.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Each nation frames its cause as just: Chile claims defense of nationals and treaty rights; Peru-Bolivia alliance cites aggression. Postwar, defeated nations frame Chilean occupation as violation requiring eventual redress.
+
+__Law, Codification & Regulatory Evolution:__ Treaty of Ancon (1883) codifies territorial transfer and establishes frameworks for Tacna-Arica plebiscite (never held). Truce of Valparaiso (1884) formalizes Bolivian territorial loss without definitive peace treaty.
+
+__Adjudication, Liability & Sanction:__ No international tribunal adjudicates the war's causes or conduct. War crimes (burning of Chorrillos, execution of prisoners) go unsanctioned; each side publicizes enemy atrocities through print.
+
+__Rights, Protections & Compliance Burden:__ Civilian populations in occupied zones face property confiscation and forced labor. Indigenous conscripts on both sides lack meaningful rights. Postwar restoration of property proceeds slowly and incompletely.
+
+__Impunity & Unredressed Wrong:__ Chilean occupation authorities exercise summary justice; Peruvian resistance fighters face execution. Postwar grievances remain legally unresolved for decades; Tacna-Arica question persists until 1929.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scientific surveys of guano and nitrate deposits inform resource valuation; European geological and chemical knowledge applied to Andean extraction. Military science — naval architecture, artillery, fortification — shapes campaign outcomes.
+
+__Applied Knowledge & Technical Method:__ Ironclad warship construction, Krupp artillery, telegraph communication represent state of military technology. Railway engineering connects mines to ports. Extractive chemistry processes raw guano and nitrate into fertilizer.
+
+__Education, Knowledge Stock & Skill Distribution:__ Elite education in law and medicine continues; military academies train officer corps. Technical education for mining and engineering expands. Mass education remains limited; literacy campaigns minimal during wartime.
+
+__Obsolescence & Knowledge Decay:__ Wooden-hull naval vessels rendered obsolete by ironclads; Peru's early ironclads outpaced by Chilean acquisitions. Traditional cavalry tactics decline against modern artillery.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ War produces foundational national myths: Chilean victories at Iquique, Tacna, Arica; Peruvian martyrs Grau and Bolognesi; Bolivian grievance of the "lost sea." These crystallize in immediate print commemoration and persist as national memory.
+
+__Legitimating Narrative & Ideology:__ Chilean narrative emphasizes national discipline, racial superiority, and civilizing mission. Peruvian narrative shifts from prewar confidence to postwar soul-searching about causes of defeat. Bolivian narrative emphasizes injustice and future redemption.
+
+__Artistic Expression & Material Culture:__ War lithographs, commemorative photographs, and patriotic poetry circulate through print. Monuments to war dead erected in subsequent decades. Military uniforms, captured flags, and trophies become material culture of national identity.
+
+__Form Exhaustion & Meaning Decay:__ Prewar literary romanticism gives way to realist analysis of national failure in Peru; Chilean triumphalism sustains romantic nationalism longer.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic providentialism frames victory and defeat as divine judgment; Chilean clergy celebrate national blessing, Peruvian clergy counsel penitence and regeneration.
+
+__Ritual, Devotion & Sacred Practice:__ Military chaplains accompany forces; battlefield masses precede combat. Funeral masses for war dead. Indigenous soldiers carry syncretic practices into campaign.
+
+__Religious Institutions & Doctrinal Authority:__ Church hierarchy aligned with national causes in each country; no significant religious dissent from war. Church property in occupied Peru protected by Chilean authorities seeking local collaboration.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No significant religious change during wartime; Catholic monopoly unchallenged.
+
+__Disenchantment & Sacred Discharge:__ Defeat does not produce widespread loss of faith but channels religious sentiment into national regeneration projects; pilgrimage and devotion continue undiminished.

@@ -1,69 +1,139 @@
-# __1945 CE – 1955 CE__ — Postwar Austerity and Television Dawn
-__Summary:__ Britain emerges from war into rationing, coal shortages, and a slow rebuilding of infrastructure while the BBC resumes and expands television service from a single transmitter to near-national coverage; the binding constraint is material scarcity limiting both consumer purchasing and transmitter construction, yet the 1953 coronation catalyzes mass television adoption; margin against shock is thin as the economy depends on American credit; direction of change is gradual recovery with television transitioning from curiosity to national medium.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island geography unchanged; war-damaged ports and rail infrastructure under repair; urban bomb sites persist as rubble; coal distribution networks strained by aging rolling stock.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime climate; severe winter 1946–47 causes coal crisis and power cuts; no secular drift but interannual cold snaps expose fragile fuel supply.<br><br>
-__Hazard Regime & Exposure:__ No acute natural hazards; primary exposure is to infrastructure failure from deferred maintenance and fuel shortage; flooding in 1947 and 1953 (North Sea surge) tests coastal defenses.<br><br>
-__Resource & Energy Endowment:__ Domestic coal reserves substantial but extraction constrained by labor shortages and aging pits; oil imports dependent on dollar reserves; electricity generation capacity rebuilding slowly.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban air pollution severe from coal burning; smog events culminating in Great Smog 1952 (4,000+ deaths); sink capacity for particulates exceeded in London basin; Clean Air Act 1956 follows.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tuberculosis declining with streptomycin introduction; polio outbreaks persist until vaccine rollout mid-1950s; infant mortality falling; NHS established 1948 improves access.<br><br>
-__Nutrition & Physiological Vitality:__ Rationing continues until 1954; caloric intake adequate but monotonous; wartime dietary improvements in working-class nutrition persist; child health metrics improving.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Postwar baby boom peaks 1946–47; marriage rates high; demobilization reunites couples; pair-bonding conventional and early.<br><br>
-__Demographic Renewal & Density:__ Population approximately 49 million; positive natural increase; age structure youthful; early immigration from Caribbean (Empire Windrush 1948) begins.<br><br>
-__Attrition & Dependency Overhang:__ War widows and orphans significant; disabled veterans require support; dependency load manageable within expanding welfare state; productive cohort adequate.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Rationing ensures equitable minimum; bread rationed 1946–48; housing shortage acute with bomb damage and suspended construction; fuel allocation tight.<br><br>
-__Energy Capture & Conversion:__ Coal-fired electricity dominant; nationalization of coal 1947 aims to modernize extraction; grid expansion continues; per-capita energy constrained by production bottlenecks.<br><br>
-__Labor Organization & Coercion:__ Full employment policy; wage labor dominant; trade unions powerful; nationalization of key industries; direction toward managed capitalism.<br><br>
-__Production & Surplus Capacity:__ Industrial output recovering; export drive prioritizes manufactured goods; consumer goods scarce; surplus capacity constrained by material shortages and dollar gap.<br><br>
-__Storage, Reserves & Buffering:__ Dollar reserves depleted; Marshall Plan aid 1948–51 provides critical buffer; food stocks minimal; coal stockpiles inadequate for severe winters.<br><br>
-__Exchange, Trade & Logistics:__ Sterling inconvertible; import controls; export priority; rationing system manages distribution; black market persists but declining.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Pound sterling managed; postwar inflation moderate; hire purchase expands for consumer durables including television sets; bank credit conservative.<br><br>
-__Surplus Extraction & Redistribution:__ High taxation; welfare state expansion; NHS, education, housing as redistribution mechanisms; extraction heavy but legitimized by universal provision.<br><br>
-__Wealth Distribution & Asset Defense:__ Wartime leveling persists; land reform limited; wealth concentration reduced; inheritance taxation significant; middle-class savings rebuilding slowly.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent poorly regulated; domestic coal ash accumulates; waste routing to rivers and atmosphere with minimal treatment; pollution externalized to physical sinks.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Wartime solidarity persists into early postwar; queuing culture; neighborhood mutual aid; trust radius relatively wide within class; welfare state institutionalizes collective provision.<br><br>
-__Stratification, Status & Group Identity:__ Class structure softened but intact; accent, education, occupation still mark status; working-class culture valorized; early Caribbean immigration creates new ethnic presence.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family norm; postwar housing policy emphasizes family units; extended kin networks persist especially in working class; inheritance taxation reduces dynastic accumulation.<br><br>
-__Civic Association & Self-Organization:__ Trade unions at peak membership; cooperatives, friendly societies, churches active; Women's Institutes, working men's clubs; associational fabric dense.<br><br>
-__Leisure, Play & Sociability:__ Cinema attendance peaks then declines; radio remains dominant home entertainment; television grows from 15,000 sets 1947 to 3 million by 1954; pubs, football, holiday camps.<br><br>
-__Grievance Channels & Social Discharge:__ Welfare state absorbs material grievance; Labour government 1945–51 channels working-class aspirations; strikes occur but within corporatist framework; residual grievance manageable.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary democracy; Labour majority 1945–51 implements radical program; Conservative return 1951 accepts welfare consensus; centralized but legitimate authority.<br><br>
-__Succession & Power Transfer:__ Electoral transfer 1951 peaceful; George VI dies 1952, Elizabeth II accedes smoothly; succession routinized and stable.<br><br>
-__Legitimacy & Political Narrative:__ People's war justifies people's peace; welfare state as reward for sacrifice; consensus politics emerging; Cold War anti-communism shapes parameters.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Civil service expanded for nationalization and welfare; planning capacity high; rationing administration competent; record-keeping comprehensive.<br><br>
-__Political Participation & Mobilization:__ High voter turnout; mass party membership; trade union activism; participation channels open; consensus dampens radical mobilization.<br><br>
-__Geopolitical Position & External Relations:__ Declining imperial power; Indian independence 1947; NATO membership 1949; special relationship with US; Korean War participation; Suez humiliation 1956 (end of window).<br><br>
-__Coercive Apparatus & Means of Force:__ Military demobilizing but maintaining conscription until 1960; nuclear weapons program; police unarmed and community-oriented; force apparatus adequate.<br><br>
-__Internal Order & Threat Environment:__ Low crime rates; industrial disputes contained; Irish Republican activity minimal; internal order stable; enforcement capacity exceeds threat load.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ BBC radio national reach; television expanding from London transmitter 1946 to Birmingham, Manchester, Scotland by 1952; coronation 1953 watched by 20+ million; newspapers daily.<br><br>
-__Record, Storage & Persistence:__ BBC archives expanding; government records systematic; film newsreels; television initially live with limited recording; institutional memory strong.<br><br>
-__Framing, Censorship & Discourse Norms:__ BBC Reithian ethos of uplift; deference to authority; Received Pronunciation dominant; censorship light but self-regulation strong; controversial topics avoided.<br><br>
-__Reception, Attention & Amplification:__ Radio listening habitual; television adoption accelerating after coronation; family viewing as social ritual; amplification through word-of-mouth and press coverage.<br><br>
-__Signal Integrity & Noise Load:__ Information environment relatively sparse and curated; BBC editorial control maintains signal quality; noise load low; verification straightforward in small-scale media system.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Fairness central to postwar settlement; queuing ethos; universal provision as justice; moral consensus broad if paternalistic.<br><br>
-__Law, Codification & Regulatory Evolution:__ Welfare legislation codifies social rights; broadcasting regulated via BBC charter and licence; criminal law stable; direction toward expanded state responsibility.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts functioning; legal aid introduced 1949; tribunals for industrial disputes; liability conventional; caseload manageable.<br><br>
-__Rights, Protections & Compliance Burden:__ Civil liberties respected; habeas corpus intact; compliance burden moderate; rationing bureaucracy accepted as temporary necessity.<br><br>
-__Impunity & Unredressed Wrong:__ Colonial violence abroad largely unscrutinized; domestic impunity low; wartime internments not revisited; redress capacity adequate for domestic matters.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ British science prestigious; Cavendish Laboratory, Medical Research Council active; nuclear physics, molecular biology advancing; Keynesian economics dominant.<br><br>
-__Applied Knowledge & Technical Method:__ Radar technology adapted for peacetime; jet engines; computer development (Manchester, Cambridge); television engineering improving; antibiotics deployed.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ 1944 Education Act implementing secondary education for all; grammar schools select; literacy near-universal; technical education expanding; knowledge distribution widening.<br><br>
-__Obsolescence & Knowledge Decay:__ Wartime technologies diffusing into civilian use; some industrial techniques obsolescent; brain drain to US beginning; knowledge loss minimal but innovation pace moderate.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Dunkirk spirit, Blitz solidarity as founding myths; people's war narrative; island nation standing alone; monarchy as continuity symbol; coronation renews identity.<br><br>
-__Artistic Expression & Material Culture:__ Festival of Britain 1951 celebrates modernity; prefab housing; utility furniture; austerity aesthetic giving way to color; Ealing comedies; radio drama flourishing.<br><br>
-__Collective Mood & Behavioral Disposition:__ Make-do-and-mend persists; deferred gratification; quiet optimism mixing with exhaustion; coronation provides collective uplift; mood gradually brightening.<br><br>
-__Form Exhaustion & Meaning Decay:__ Victorian-Edwardian forms exhausted; empire narrative hollowing; new forms (welfare state, modern design) not yet clichéd; cultural renewal underway; anomie limited.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian framework dominant but secularizing; church attendance declining from high point; existential outlook pragmatic; nuclear anxiety emerging but not dominant.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sunday observance declining but still normative; church weddings, christenings, funerals standard; coronation as sacred-civic ritual; Christmas broadcast traditions.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church of England established; Catholic minority significant especially Ireland; institutional fabric intact but cultural authority eroding; ecumenism beginning.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity hegemonic but passive; Billy Graham crusades 1954 briefly energize evangelical minority; immigrant religions nascent; displacement by secular welfare ethos gradual.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization proceeding quietly; welfare state partially fills transcendence functions; sacred residue channeled into civic ritual (coronation, Remembrance); disenchantment accumulating but not acute.<br><br>
+# __1945 CE – 1955 CE — Postwar Austerity and Television Dawn__
+
+__Summary:__ Britain emerges from total war into prolonged austerity while television resumes and expands toward mass adoption, with the Coronation broadcast of 1953 demonstrating the medium's capacity to address the entire nation as a simultaneous audience and establishing television as the binding constraint on public attention in the new welfare-state order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The British Isles remain densely urbanized with London as the dominant center, but war damage reshapes the built environment; bomb sites persist across major cities while reconstruction proceeds slowly under material constraints; the BBC's Alexandra Palace transmitter resumes service, its signal reaching the southeast, with regional transmitters rolling out to extend coverage to the Midlands (Sutton Coldfield, 1949) and the North (Holme Moss, 1951).
+
+__Climate Regime & Volatility:__ The severe winter of 1946-1947 compounds fuel shortages and economic strain; climate remains the familiar temperate Atlantic regime but coal shortages make heating precarious; the fuel crisis of February 1947 halts industry and broadcasts alike.
+
+__Hazard Regime & Exposure:__ Wartime hazard recedes but the legacy of bombing persists in unstable structures; the North Sea flood of 1953 kills over 300 on the east coast, television covering the disaster and demonstrating the medium's speed in crisis communication.
+
+__Resource & Energy Endowment:__ Coal remains the primary energy source but labor disputes and exhausted seams create recurring shortages; nationalization of mines (1947) and electricity (1947) aims to rationalize production; oil imports grow but sterling weakness constrains purchases.
+
+__Waste Absorption & Sink Capacity:__ Urban air pollution remains severe; the Great Smog of December 1952 kills thousands in London, prompting eventual clean air legislation; industrial effluent fouls rivers unchecked; bomb rubble slowly cleared but many sites remain derelict.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The National Health Service (1948) transforms healthcare access; infant mortality falls sharply; tuberculosis and polio remain significant threats but vaccination campaigns (BCG, Salk vaccine from 1955) begin to control them; antibiotics become widely available.
+
+__Nutrition & Physiological Vitality:__ Rationing continues until 1954, longer than during the war itself; bread rationed 1946-1948; meat rationing ends only in 1954; despite constraints, nutritional planning ensures basic adequacy and childhood nutrition actually improves among the poor through school meals and welfare milk.
+
+__Care, Healing & Recovery Capacity:__ The NHS provides universal healthcare free at point of use; hospitals nationalized; GP services expanded; waiting lists long but access transformed; the Service absorbs wartime medical advances into civilian care.
+
+__Reproductive Biology & Pairing Dynamics:__ Postwar baby boom peaks 1946-1948 as demobilized men return and delayed marriages occur; marriage rates surge; fertility elevated but beginning to moderate by decade's end.
+
+__Demographic Renewal & Density:__ Population grows from approximately 48 million (1945) to 51 million (1955); modest immigration begins (Polish resettlement, Empire Windrush 1948 marks Caribbean arrival); urban density high but housing shortage acute.
+
+__Attrition & Dependency Overhang:__ War casualties create widows and orphans requiring support; disability pensions for wounded veterans; aging population structure begins to emerge as life expectancy rises under NHS care; the welfare state institutionalizes dependency support.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rationing maintains equitable distribution but limits choice; queuing becomes a way of life; the welfare state establishes a genuine floor—National Insurance, family allowances, NHS—below which citizens cannot fall.
+
+__Energy Capture & Conversion:__ Coal-fired electricity generation expands under nationalized Central Electricity Authority; rural electrification accelerates; domestic electricity consumption rises as appliances spread; television sets themselves become significant loads.
+
+__Labor Organization & Coercion:__ Full employment maintained; trade unions powerful and integrated into economic planning; nationalized industries employ millions; the postwar settlement entrenches collective bargaining; labor discipline high with wartime habits persisting.
+
+__Production & Surplus Capacity:__ Industrial output recovers but slowly; export drive prioritized to earn dollars and repay American loans; domestic consumption constrained; manufacturing capacity devoted to exports means consumer goods scarce.
+
+__Storage, Reserves & Buffering:__ Sterling reserves depleted by war; Britain dependent on American loans and Marshall Plan aid (1948); the 1949 devaluation reflects underlying weakness; gold reserves inadequate; government borrowing high.
+
+__Exchange, Trade & Logistics:__ Imperial preference system continues but empire contracting; dollar shortage constrains imports; European recovery creates new markets; sterling area remains significant; port infrastructure damaged but rebuilding.
+
+__Value Storage, Credit & Deferred Exchange:__ Pound sterling devalued from $4.03 to $2.80 (1949); inflation moderate but erosive; wartime savings lose value; hire purchase begins to expand consumer credit; building society mortgages fund housing.
+
+__Surplus Extraction & Redistribution:__ High taxation funds welfare state; marginal income tax rates exceed 90% at top; purchase tax on consumer goods; the fiscal settlement redistributes substantially from wealthy to universal services.
+
+__Wealth Distribution & Asset Defense:__ Death duties and taxation erode great estates; equalization proceeds; middle-class savings protected by home ownership; working-class wealth accumulates slowly through steady employment.
+
+__Byproducts & Waste Routing:__ Industrial waste disposal unregulated; bomb sites used informally as dumps; household waste collection municipal; air pollution heavy; the costs externalized onto public health.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear family model dominant; marriage rates high; divorce remains stigmatized and legally difficult; inheritance taxation high; family formation constrained by housing shortage.
+
+__Association & Mutual Aid:__ Trade unions at peak membership and influence; friendly societies continue; working men's clubs flourish; church attendance declining but still significant; neighborhood solidarity strong in the shared austerity.
+
+__Leisure, Play & Sociability:__ Cinema remains mass entertainment (peak attendance 1946); pubs and dance halls central to social life; football draws huge crowds; holiday camps (Butlin's) offer accessible recreation; television begins to draw entertainment into the home.
+
+__Stratification, Status & Group Structure:__ Class divisions persist but welfare state moderates extremes; grammar schools offer working-class advancement; accent and manner still mark status sharply; middle-class expansion begins; deference to authority still pronounced.
+
+__Administrative Capacity & Institutional Integrity:__ State apparatus expands dramatically under Labour; nationalized industries, NHS, National Insurance create vast bureaucracies; rationing administration continues; civil service competent and uncorrupt; local government delivers services.
+
+__Coercive Apparatus & Means of Force:__ Military demobilizes but conscription (National Service) continues; police forces maintain order without serious challenge; Cold War begins and security services grow; atomic weapons program proceeds secretly.
+
+__Discharge, Disorder & Decay:__ Crime rates low; industrial disputes contained within institutionalized frameworks; race tensions emerge with Caribbean immigration (Notting Hill later); housing shortage creates acute stress; wartime solidarity slowly dissipates.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ "Austerity Britain" mood: grim determination, resigned patience, pride in collective achievement; wartime spirit extended into peacetime sacrifice; expectations modest but a sense of building something better; the Coronation (1953) provides emotional release and national celebration.
+
+__Leadership & Personal Authority:__ Attlee leads Labour with quiet competence; Churchill returns (1951) as aging icon; the young Queen Elizabeth II provides fresh symbolic focus; Reith's legacy shapes BBC leadership even after his departure.
+
+__Legitimacy as Lived Allegiance:__ The welfare state settlement commands broad consent; both parties accept its fundamentals; monarchy retains deep loyalty; the BBC's wartime credibility carries into peace; legitimacy of institutions high.
+
+__Political Will & Collective Resolve:__ Labour implements transformative program (1945-1951) with wartime-forged will; Conservative return (1951) moderates rather than reverses; national purpose directed toward recovery and welfare; Cold War provides external focus.
+
+__External Relations & Posture:__ Britain adjusts to reduced status; Indian independence (1947) begins decolonization; NATO membership (1949) aligns with America; Suez crisis (1956, just beyond period) will expose limits; the Commonwealth reframes imperial ties.
+
+__Disaffection, Apathy & Spent Will:__ Wartime exhaustion persists; "never again" sentiment regarding war and depression; rationing fatigue accumulates by early 1950s; the young chafe at continued restrictions; by 1955 the appetite for austerity is spent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English universal; BBC Received Pronunciation remains the broadcast standard; regional accents begin to appear on air but sparingly; literacy near-universal; the radio and emerging television create shared informational space.
+
+__Channels & Transmission Velocity:__ BBC radio reaches virtually all households; television coverage expands from London to Birmingham (1949), Manchester (1951), Scotland (1952), Wales (1952); by 1953 most of the population can receive television signals; news travels within hours.
+
+__Record, Storage & Persistence:__ BBC archives film and record significant broadcasts; newsreels continue in cinemas; newspapers remain primary record; the early television broadcasts largely unrecorded (live transmission); institutional memory strong.
+
+__Framing, Censorship & Discourse Norms:__ BBC maintains strict impartiality; government retains theoretical powers but exercises them rarely; wartime habits of deference and self-censorship linger; controversial topics avoided; respectful tone toward authority.
+
+__Reception, Attention & Amplification:__ Television set ownership rises from near-zero (1946) to 4.5 million licenses (1955); the Coronation (1953) draws 27 million television viewers plus radio listeners—the nation watching together; shared national attention crystallizes.
+
+__Signal Integrity & Noise Load:__ Signal quality improving with regional transmitter rollout; technical standards maintained; information environment relatively clean; rumor and misinformation low in the high-trust postwar moment.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Wartime sacrifice creates strong sense of earned entitlement to welfare state; "fair shares" ethos governs rationing; queue-jumping morally condemned; collective solidarity valued; individual excess disapproved.
+
+__Law, Codification & Regulatory Evolution:__ Welfare state legislation transforms rights structure; National Insurance Act, NHS Act, National Assistance Act create legal entitlements; nationalization statutes; broadcasting regulation continues under BBC Charter (renewed 1952).
+
+__Adjudication, Liability & Sanction:__ Courts function normally; legal aid expands access to justice; industrial tribunals handle workplace disputes; broadcasting complaints handled internally by BBC; criminal justice retains capital punishment.
+
+__Rights, Protections & Compliance Burden:__ Citizenship rights expanded through welfare state; rationing creates compliance burden but accepted as legitimate; employment protections grow; the individual rights framework remains relatively thin compared to later decades.
+
+__Impunity & Unredressed Wrong:__ Wartime conduct largely unchallengeable; colonial administration continues with minimal accountability; class privilege persists in justice system; some domestic wrongdoing—institutional abuse, discrimination—goes unaddressed.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Keynesian economics governs policy; wartime scientific advances (radar, computing, nuclear physics) transition to peacetime; universities expand; the welfare state rests on social-scientific planning assumptions.
+
+__Applied Knowledge & Technical Method:__ Television technology matures; 405-line system refined; outside broadcast capability demonstrated at Coronation; manufacturing techniques improve; jet aviation begins; nuclear technology developed (first British bomb 1952).
+
+__Education, Knowledge Stock & Skill Distribution:__ 1944 Education Act implemented; grammar schools select academic pupils; secondary moderns for remainder; school leaving age 15; universities remain elite but expanding; technical education grows.
+
+__Obsolescence & Knowledge Decay:__ Wartime technologies rapidly improve; some craft skills decline as mechanization proceeds; apprenticeship system continues; professional knowledge accumulates in expanding institutions.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ "Finest hour" mythology consolidates; wartime unity and sacrifice become foundational narrative; the People's War justifies People's Peace; monarchy symbolizes continuity through disruption; British identity framed as stoic, decent, democratic.
+
+__Legitimating Narrative & Ideology:__ The welfare state as reward for wartime sacrifice; "Never Again" (regarding both war and Depression); national unity across class; the "New Jerusalem" rhetoric of Labour; Churchill's history-writing shapes memory.
+
+__Artistic Expression & Material Culture:__ Austerity aesthetic: utility furniture, make-do-and-mend; Festival of Britain (1951) signals hope and modernity; cinema flourishes (Ealing comedies, Brief Encounter); literature of postwar reflection; BBC drama emerges on television.
+
+__Form Exhaustion & Meaning Decay:__ Victorian and Edwardian forms exhaust; bombed cityscapes force reconstruction; traditional patterns persist in attenuated form; the new forms of television programming being invented; a transitional moment between old certainties and emerging modernity.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christian framework remains nominal default but practice declining; the war raises theodicy questions; secular welfare state provides earthly salvation; nuclear threat introduces existential anxiety; the Coronation ceremony fully ecclesiastical.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance declining but still substantial; Sunday observance loosening; rites of passage (baptism, marriage, funeral) remain churched; the Coronation as national religious ritual—the Queen anointed in Westminster Abbey, televised to millions.
+
+__Religious Institutions & Doctrinal Authority:__ Church of England establishment continues; Archbishop crowns monarch; church schools persist; institutional Christianity unchallenged but quietly emptying; ecumenism begins.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christian monopoly erodes slowly; Jewish community established; very small non-Christian presence; secularization proceeds beneath surface conformity.
+
+__Disenchantment & Sacred Discharge:__ The welfare state as secular redemption; instrumental rationality governs planning; the sacred withdraws to ceremonial moments; everyday life increasingly secular; the television brings ceremony into homes but domesticates it.

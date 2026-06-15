@@ -1,69 +1,139 @@
-# __2012 CE – 2026 CE__ — Short Video and Douyin TikTok
-__Summary:__ ByteDance's algorithm-driven short-video platforms Douyin (domestic) and TikTok (international) reshape attention economics across China and globally; the binding constraint is algorithmic recommendation power that captures user time at unprecedented scale while navigating regulatory pressure domestically and geopolitical hostility abroad; the system holds moderate margin against content regulation but sits exposed to US national-security intervention; direction is continued engagement growth domestically alongside persistent international fragmentation risk.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Server infrastructure concentrated in major Chinese data centers with edge nodes in tier-one cities; TikTok's international operation maintains separate infrastructure in Singapore, Ireland, and US, with physical separation mandated by regulatory pressure; fiber and 4G/5G networks enable low-latency video delivery across urban China.<br><br>
-__Climate Regime & Volatility:__ Data center cooling demands significant energy in summer; climate volatility has negligible direct impact on platform operations beyond occasional infrastructure disruption from extreme weather events.<br><br>
-__Hazard Regime & Exposure:__ Limited exposure; redundant infrastructure and distributed architecture provide resilience against localized outages; submarine cable vulnerabilities exist for international traffic.<br><br>
-__Resource & Energy Endowment:__ Draws heavily on coal-powered electricity grid; server farms consume substantial energy for computation and cooling; domestic chip supply increasingly constrained by US export restrictions affecting advanced hardware procurement.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from server turnover; heat discharge from data centers; carbon emissions from power consumption growing with scale but a negligible fraction of national industrial output.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ No direct pathogen load; COVID-19 lockdowns 2020-2022 accelerated platform usage as populations confined indoors.<br><br>
-__Nutrition & Physiological Vitality:__ Sedentary screen time correlates with reduced physical activity among heavy users; blue-light exposure affecting sleep patterns; direct physiological impact diffuse but accumulating.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Platform mediates dating presentation and romantic signaling; short-video aesthetics shape appearance standards; no direct reproductive impact but shifts pairing market dynamics toward visual presentation skills.<br><br>
-__Demographic Renewal & Density:__ User base skews young (under-35 majority); platform penetration high across urban and increasingly rural populations; 600+ million daily active users on Douyin by mid-window.<br><br>
-__Attrition & Dependency Overhang:__ Concerns over youth addiction; minor internet addiction treatment facilities persist; elderly adoption growing but from low base; dependency overhang primarily rhetorical rather than demographically significant.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ No direct subsistence function; platform economy provides income streams for successful creators but most participants receive no material return.<br><br>
-__Energy Capture & Conversion:__ ByteDance's server operations consume gigawatts; energy cost is material operating expense; efficiency gains from improved chips offset by scale expansion.<br><br>
-__Labor Organization & Coercion:__ Creator economy predominantly gig-based with no employment protections; platform mediates access to audience without guaranteeing income; internal ByteDance workforce subject to tech-industry 996 culture until post-2021 moderation.<br><br>
-__Production & Surplus Capacity:__ ByteDance valued at $220+ billion by 2021; advertising revenue dominates; e-commerce integration through Douyin Shop adds transactional layer; surplus extraction from attention converted to advertising yields.<br><br>
-__Storage, Reserves & Buffering:__ ByteDance maintains substantial cash reserves; no public financial statements but private valuations indicate strong balance sheet; reserves sufficient to weather regulatory storms.<br><br>
-__Exchange, Trade & Logistics:__ Platform enables creator-to-audience attention exchange monetized through advertising and tipping; Douyin Shop integrates logistics for physical goods; affiliate marketing expands commerce function.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Virtual currency (Douyin coins) mediates tipping; creator funds provide deferred payment; RMB and USD clearing for advertising transactions.<br><br>
-__Surplus Extraction & Redistribution:__ Platform captures majority of advertising value; creator revenue share modest; algorithm determines attention allocation and thus income distribution among creators.<br><br>
-__Wealth Distribution & Asset Defense:__ ByteDance founder Zhang Yiming accumulated billionaire status before stepping back 2021; employee stock options created tech worker wealth concentration; creator earnings highly skewed toward top percentile.<br><br>
-__Byproducts & Waste Routing:__ Attention extraction leaves users with time-debt; failed content creation efforts represent sunk labor; deleted content and banned accounts constitute informational waste.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Platform enables parasocial relationships without genuine reciprocity; comment communities form around creators; trust radius remains narrow despite massive follower counts.<br><br>
-__Stratification, Status & Group Identity:__ Creator hierarchy emerges with sharp status gradients; viral success creates overnight celebrities; algorithm-mediated visibility replaces traditional status markers among youth.<br><br>
-__Kinship, Family & Inheritance:__ Generational divide between digital-native users and older populations; family conflicts over youth screen time; no inheritance dimension beyond potential account value transfer.<br><br>
-__Civic Association & Self-Organization:__ Interest-based communities form around hashtags and challenges; self-organization limited by platform design favoring individual consumption over group coordination; occasional collective mobilization around trends.<br><br>
-__Leisure, Play & Sociability:__ Platform dominates leisure time for heavy users; passive consumption pattern predominates; social bonding through shared content references rather than direct interaction.<br><br>
-__Grievance Channels & Social Discharge:__ Comment sections and duets provide limited outlet; viral complaints occasionally surface issues; platform suppresses politically sensitive grievance expression; frustration with algorithm opacity accumulates.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ ByteDance operates under Party-state authority with no independent political power; company restructured leadership after regulatory pressure; Communist Party committee embedded within corporate structure.<br><br>
-__Succession & Power Transfer:__ Zhang Yiming stepped down as CEO 2021 amid regulatory tightening; succession to Liang Rubo managed quietly; founder retreat from public visibility follows Ma Yun pattern.<br><br>
-__Legitimacy & Political Narrative:__ Platform presents apolitical entertainment frame domestically while serving as soft-power projection internationally; state narratives amplified through official accounts; nationalism content performs well algorithmically.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Content moderation employs tens of thousands; AI-assisted review at scale; capacity generally sufficient for volume though edge cases escape; corruption risks in moderation decisions.<br><br>
-__Political Participation & Mobilization:__ Political content suppressed domestically; international TikTok occasionally surfaces activism; platform design discourages sustained political engagement in favor of entertainment.<br><br>
-__Geopolitical Position & External Relations:__ TikTok caught between US-China competition; CFIUS review, Montana ban attempts, potential forced divestiture; India ban 2020 eliminated major market; geopolitical exposure is primary existential risk.<br><br>
-__Coercive Apparatus & Means of Force:__ No direct coercive capacity; subject to state enforcement; content removal and account bans constitute soft coercion within platform.<br><br>
-__Internal Order & Threat Environment:__ Misinformation, scams, and harmful content require constant moderation; youth protection mandates create compliance burden; platform maintains order through algorithmic suppression and human review.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Algorithm-mediated distribution achieves viral velocity measured in hours; recommendation engine determines what propagates; creator-follower relationship secondary to For You Page discovery; information spreads faster than verification.<br><br>
-__Record, Storage & Persistence:__ Content stored on platform servers; users have limited data portability; deleted content may persist in backups; no archival permanence guaranteed; platform controls record.<br><br>
-__Framing, Censorship & Discourse Norms:__ Domestic version heavily censored; politically sensitive content, historical taboos, and criticism of leadership suppressed; international version lighter but still moderates for Chinese government concerns; self-censorship widespread among creators.<br><br>
-__Reception, Attention & Amplification:__ Swipe-based interface optimizes for attention capture; average session times measured in tens of minutes; algorithm amplifies engagement-maximizing content regardless of accuracy or social value.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation propagates efficiently; fact-checking capacity lags viral spread; deepfakes and synthetic media emerging; entertainment frame reduces user critical scrutiny; noise-to-signal ratio high but users may not seek signal.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Platform perceived as meritocratic by users who believe good content rises; algorithmic opacity undermines this; creator disputes with platform over bans and demonetization generate perceived injustice.<br><br>
-__Law, Codification & Regulatory Evolution:__ Subject to 2021 algorithm regulation requiring recommendation transparency; data security law; minor protection rules; regulations tightening through window; international operations face divergent legal frameworks.<br><br>
-__Adjudication, Enforcement & Liability:__ Platform arbitrates creator disputes with limited appeal; state regulators enforce compliance through fines and operational restrictions; Section 230 protections apply to US operations but politically contested.<br><br>
-__Rights, Protections & Compliance Burden:__ Creator rights minimal under terms of service; user data rights nominally protected under law but enforcement weak; compliance burden on platform substantial given regulatory complexity.<br><br>
-__Impunity & Unredressed Wrong:__ Algorithmic decisions opaque and largely unappealable; copyright infringement widespread with limited redress; wrongful bans difficult to reverse; impunity for platform moderate, for users near-total.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Recommendation algorithm represents cutting-edge machine learning; ByteDance AI Lab produces research; paradigm is engagement maximization through deep learning on behavioral signals.<br><br>
-__Applied Knowledge & Technical Method:__ Computer vision, natural language processing, and recommendation systems deployed at scale; continuous A/B testing optimizes engagement; technical methods proprietary and competitively guarded.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Platform supports educational content niche (BookTok/study content); skill distribution for content creation widening; algorithm literacy remains low among general users.<br><br>
-__Obsolescence & Knowledge Decay:__ Content ephemeral by design; viral moments forgotten within days; no knowledge accumulation function; educational content competes poorly against entertainment for algorithmic promotion.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Platform shapes youth identity formation; Chinese nationalism content performs well domestically; international version carries soft-power implications; collective memory fragmented into trending moments.<br><br>
-__Artistic Expression & Material Culture:__ Short-form video as dominant creative medium for generation; aesthetic conventions (filters, transitions, sounds) standardized by platform affordances; democratization of distribution but homogenization of form.<br><br>
-__Collective Mood & Behavioral Disposition:__ Entertainment-saturated mood; anxiety about missing trends; FOMO-driven checking behavior; dopamine-loop engagement pattern widely recognized and criticized but not abandoned.<br><br>
-__Form Exhaustion & Meaning Decay:__ Trend cycles accelerating; formats exhausted within weeks; meaning evacuated from viral moments as they commodify; irony and meta-commentary proliferate as primary forms hollow out.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular entertainment frame dominates; existential content occasionally viral (philosophy clips, meaning-of-life discussions) but not platform's center; materialist assumptions embedded in consumer-focused content.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily app-opening ritual for heavy users; no sacred content though religious communities maintain presence; platform treats spiritual content as niche entertainment category.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious institutions maintain accounts but limited reach; platform neutral toward religion except where politically sensitive (Xinjiang, Tibet content suppressed).<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ New Age, wellness, and self-help content spreads through platform; traditional religious authority bypassed by direct creator-audience spiritual content; syncretism through algorithmic proximity.<br><br>
-__Disenchantment & Sacred Discharge:__ Entertainment as substitute for transcendence; meaning-seeking redirected to viral fame pursuit; existential void filled with infinite scroll; disenchantment not resolved but distracted from.
+# __2012 CE – 2026 CE — Short Video and Douyin TikTok__
+
+__Summary:__ ByteDance's algorithmic feed redefines attention capture across China and globally, making short video the dominant content form; the binding constraint becomes the platform's capacity to serve both commercial virality and party-state content requirements without fragmenting either the domestic or international user base.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ ByteDance headquarters sits in Beijing, with engineering centers in Shanghai, Shenzhen, and Singapore; TikTok's international operations disperse across Los Angeles, London, Dublin, and Singapore to satisfy data-localization demands. Content creation spreads across China's urban tier system, from first-tier megacities to county towns, the smartphone collapsing geographic friction into a flat upload surface.
+
+__Climate Regime & Volatility:__ Data center cooling loads rise with server density; ByteDance invests in northern and western Chinese sites where cooler climates and cheaper power reduce operational cost. Climate events occasionally disrupt shoots and livestreams, but the short-form medium recovers faster than longer production cycles.
+
+__Hazard Regime & Exposure:__ Physical infrastructure faces standard seismic and flood risk in data center locations; the platform's distributed architecture and redundant storage limit single-point failure, though a major natural disaster in a key hub would slow content delivery.
+
+__Resource & Energy Endowment:__ Energy consumption scales with recommendation-engine compute; ByteDance draws heavily on coal-fired grid power in northern China, with gradual renewable procurement pledges. Rare-earth elements and semiconductors underpin the devices on which the platform runs, binding Douyin's supply chain to global chip flows.
+
+__Waste Absorption & Sink Capacity:__ E-waste from rapid phone turnover accumulates; data center heat and carbon emissions contribute to cumulative sink load. The immaterial nature of video conceals the physical substrate—server farms, device manufacturing, battery disposal—that processes and stores it.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 lockdowns from 2020 to late 2022 accelerate short-video adoption as homebound populations turn to mobile entertainment; health-code integration surfaces on WeChat rather than Douyin, but pandemic-era habits entrench daily viewing.
+
+__Nutrition & Physiological Vitality:__ Prolonged screen time correlates with sedentary behavior, eye strain, and disrupted sleep; public health officials warn of attention deficits and posture problems, though causal links remain debated.
+
+__Care, Healing & Recovery Capacity:__ Medical and mental-health content circulates on Douyin, some helpful, some unvetted; platform moderation struggles to filter harmful advice while allowing legitimate wellness material.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating and relationship advice proliferates; short-video influencers model pairing aspirations; some users report social comparison effects that dampen real-world relationship formation.
+
+__Demographic Renewal & Density:__ Young and young-adult users dominate, but older demographics grow as parents and grandparents adopt the app; middle-aged creators build followings around parenting, cooking, and nostalgia content.
+
+__Attrition & Dependency Overhang:__ Concerns mount about youth dependency on algorithmic stimulation; regulatory limits on minor screen time (three hours weekly for games, unofficial pressure on video) attempt to curb developmental harm, though enforcement remains uneven.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Short video itself requires minimal material input—a smartphone and connectivity—lowering the barrier to content creation even in lower-income households.
+
+__Energy Capture & Conversion:__ ByteDance's recommendation engine is computationally intensive, running inference on billions of daily video views; GPU clusters and custom chips drive efficiency gains, but power draw remains substantial.
+
+__Labor Organization & Coercion:__ Content creation spans hobbyists, semi-professionals, and full-time influencers; Multi-Channel Networks (MCNs) manage talent, extracting fees and imposing upload quotas. Livestream e-commerce hosts work grueling schedules during sales events.
+
+__Production & Surplus Capacity:__ Advertising revenue and livestream commerce generate tens of billions of dollars annually; ByteDance becomes China's most valuable startup. Surplus flows to reinvestment in AI research, international expansion, and gaming ventures.
+
+__Storage, Reserves & Buffering:__ ByteDance maintains war chests sufficient to weather regulatory fines and fund aggressive talent acquisition; cash reserves buffer against advertising downturns and potential forced divestiture of TikTok.
+
+__Exchange, Trade & Logistics:__ Douyin integrates e-commerce, enabling direct purchase within the app; logistics partners fulfill orders, blending content and commerce. TikTok Shop expands this model internationally, competing with Amazon and Shopify.
+
+__Value Storage, Credit & Deferred Exchange:__ Virtual gifts and creator funds monetize attention; users purchase coins, tip creators, and redeem earnings through payment apps—Douyin Pay launched in 2021 competes with Alipay and WeChat Pay.
+
+__Surplus Extraction & Redistribution:__ ByteDance extracts platform fees from creator earnings and merchant commissions; state regulators pressure the company to fund common-prosperity initiatives and youth-protection measures.
+
+__Wealth Distribution & Asset Defense:__ Creator income concentrates at the top; a small fraction of influencers capture most earnings, while long-tail creators earn negligible returns. MCN contracts often favor the network over the talent.
+
+__Byproducts & Waste Routing:__ Attention-economy byproducts include addictive scroll patterns and misinformation; content moderation teams—often outsourced—face burnout processing disturbing material. Financial waste appears as failed creator ventures and over-invested MCN portfolios.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Intergenerational viewing emerges as families share clips; older relatives appear in viral videos, and platform dynamics reshape how families perform identity publicly.
+
+__Association & Mutual Aid:__ Fan communities form around creators, coordinating support campaigns, merchandise purchases, and defense against rivals; these communities provide a sense of belonging but can turn toxic in disputes.
+
+__Leisure, Play & Sociability:__ Short video becomes the dominant leisure activity for hundreds of millions; duets, challenges, and memes structure playful interaction across strangers.
+
+__Stratification, Status & Group Structure:__ Follower counts create new status hierarchies; verified accounts, brand partnerships, and algorithm favor confer prestige. Rural-urban and class divides surface in content styles—earthy humor from county towns, polished aesthetics from Shanghai.
+
+__Administrative Capacity & Institutional Integrity:__ The Cyberspace Administration of China (CAC) oversees content; ByteDance employs thousands of moderators and deploys AI filters. International TikTok faces a patchwork of national regulators, complicating unified policy.
+
+__Coercive Apparatus & Means of Force:__ The state can compel content removal, account suspension, and algorithm adjustment; ByteDance complies to retain operating licenses. Abroad, TikTok faces bans and divestiture orders, with limited recourse.
+
+__Discharge, Disorder & Decay:__ Harassment, cyberbullying, and doxxing proliferate; platform interventions reduce but do not eliminate harm. Creator burnout and audience fatigue produce churn; some communities collapse when a leading figure departs or faces scandal.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Short video shapes public mood, spreading joy, outrage, and anxiety at algorithmic speed; viral moments crystallize collective emotion—nationalistic pride, consumer frenzy, grief over disasters.
+
+__Leadership & Personal Authority:__ Top creators wield soft influence, shaping trends, product demand, and even public opinion; some transition into formal endorsement roles or cross over into traditional media.
+
+__Legitimacy as Lived Allegiance:__ ByteDance cultivates user loyalty through personalized feeds that feel individually curated; algorithmic intimacy breeds attachment, though users resent manipulation when exposed.
+
+__Political Will & Collective Resolve:__ The party-state deploys Douyin for propaganda, patriotic campaigns, and disaster relief coordination; official accounts compete for attention alongside entertainment content.
+
+__External Relations & Posture:__ TikTok becomes a vector of US-China tension; accusations of data harvesting and influence operations fuel proposed bans. ByteDance navigates between Beijing's expectations and Washington's demands, satisfying neither fully.
+
+__Disaffection, Apathy & Spent Will:__ Scroll fatigue and creator exhaustion accumulate; some users deliberately detox, deleting the app or setting time limits. The platform's infinite feed design resists such exits, but disaffection persists at the margins.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Short video lowers literacy and language barriers; visual storytelling reaches audiences that text-heavy platforms exclude, including the elderly and less-educated.
+
+__Channels & Transmission Velocity:__ Algorithmic recommendation delivers content within milliseconds of upload; viral spread can reach hundreds of millions within hours, outpacing traditional media cycles.
+
+__Record, Storage & Persistence:__ Videos persist on servers but churn through feeds rapidly; ephemerality shapes content—designed for immediate impact rather than archival value. Platform takedowns erase controversial material, sometimes before it can be documented.
+
+__Framing, Censorship & Discourse Norms:__ Keyword filters, AI classifiers, and human moderators suppress politically sensitive, violent, and sexually explicit content; creators learn to self-censor, using euphemisms and visual codes to evade detection.
+
+__Reception, Attention & Amplification:__ The recommendation algorithm maximizes watch time, favoring emotionally charged, visually arresting clips; attention concentrates on a narrow band of viral content while long-tail material languishes unseen.
+
+__Signal Integrity & Noise Load:__ Misinformation, scams, and manipulated media circulate alongside legitimate content; fact-checking labels and account bans attempt to restore signal integrity, but the volume of uploads overwhelms verification capacity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Platform norms valorize authenticity, relatability, and entertainment value; perceived inauthenticity—staged content, hidden sponsorships—triggers audience backlash.
+
+__Law, Codification & Regulatory Evolution:__ China's 2021 regulations restrict minor playtime and mandate real-name registration; advertising disclosure rules tighten. Internationally, TikTok faces evolving content-moderation and data-privacy laws.
+
+__Adjudication, Liability & Sanction:__ Platform community guidelines adjudicate disputes; appeals processes exist but favor speed over due process. Creators banned for violations have limited recourse.
+
+__Rights, Protections & Compliance Burden:__ Users surrender extensive data rights in terms of service; creators bear compliance burdens for tax, disclosure, and content standards, often without legal support.
+
+__Impunity & Unredressed Wrong:__ Harassment victims struggle to obtain redress; algorithmic amplification of harm often outpaces moderation response. High-profile creators sometimes escape consequences that would end lesser accounts.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ ByteDance's recommendation algorithm represents a frontier in machine-learning research; the company publishes selectively, guarding proprietary techniques while recruiting top AI talent.
+
+__Applied Knowledge & Technical Method:__ Real-time inference, edge computing, and content-delivery networks translate algorithmic research into seamless user experience; engineering execution matches or exceeds Silicon Valley peers.
+
+__Education, Knowledge Stock & Skill Distribution:__ Educational content—language lessons, exam prep, skill tutorials—proliferates on Douyin; some users treat the platform as an informal learning resource, though quality varies.
+
+__Obsolescence & Knowledge Decay:__ Older content-creation skills (long-form editing, traditional media production) lose market value; creators must continuously adapt to shifting algorithmic preferences or face irrelevance.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Short video circulates national symbols, folk traditions, and historical memory in digestible clips; patriotic content surges during anniversaries and international disputes.
+
+__Legitimating Narrative & Ideology:__ The platform amplifies state narratives—poverty alleviation, technological achievement, national unity—while suppressing counter-narratives. Commercial success validates China's digital-economy model.
+
+__Artistic Expression & Material Culture:__ Visual aesthetics evolve rapidly—filters, transitions, soundtracks, memes—creating a distinctive short-video vernacular. Dance challenges, lip-syncs, and skit formats become global cultural exports via TikTok.
+
+__Form Exhaustion & Meaning Decay:__ Trends cycle ever faster; formats that once felt fresh become stale within weeks. Creators scramble to innovate, but the relentless churn hollows out meaning, leaving repetitive content that blurs together.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Short video offers distraction rather than transcendence; infinite scroll fills time without orienting it toward larger purpose. Some users report existential unease after prolonged consumption.
+
+__Ritual, Devotion & Sacred Practice:__ Daily check-ins and habitual scrolling acquire ritual character; the app's notification systems cultivate compulsive return, mimicking devotional rhythms without sacred content.
+
+__Religious Institutions & Doctrinal Authority:__ Religious content faces heavy censorship on Douyin; Buddhist and Daoist influencers operate within strict limits, while Christian and Islamic material is largely suppressed.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Secular entertainment displaces traditional spiritual engagement for many users; attention once given to temples, festivals, and family altars flows instead to the algorithmic feed.
+
+__Disenchantment & Sacred Discharge:__ The platform's stimulation leaves users satiated but unfulfilled; the absence of transcendent meaning beneath the entertainment surface generates a low-grade spiritual emptiness that accumulates without resolution.

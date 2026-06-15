@@ -1,69 +1,139 @@
-# __1000 CE – 1200 CE__ — Early Postclassic and Toltec Horizon
-__Summary:__ A long-term trend spanning two centuries during which Mesoamerica reorients around new power centers following the Classic Maya collapse, with Chichen Itza dominating northern Yucatan and Tula rising in central Mexico. The binding constraint is political legitimacy under a new militaristic ethos, as divine kingship yields to warrior orders and feathered-serpent cult networks linking highland and lowland polities. The system holds moderate margin against localized drought and warfare but remains vulnerable to cascading legitimacy crises when cult centers falter. Direction of change runs toward greater inter-regional integration, militarized governance, and long-distance trade intensification.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The central Mexican plateau around Tula sits at ~2,000 m elevation with moderate agricultural potential; northern Yucatan is flat limestone karst dependent on cenotes for water; the Gulf Coast corridor links both zones through navigable lowland routes, reducing transit friction for trade and political contact.<br><br>
-__Climate Regime & Volatility:__ A transitional climate phase follows the Terminal Classic droughts; rainfall variability remains significant in the Yucatan with periodic multi-year dry spells; the highlands experience cooler, seasonal precipitation adequate for maize cultivation; the regime is broadly stable but punctuated by drought episodes documented archaeologically.<br><br>
-__Hazard Regime & Exposure:__ Earthquake risk persists in highland volcanic zones; hurricane exposure in coastal Yucatan; drought remains the primary hazard, with communities maintaining cenote access and water storage as mitigation; overall margin against acute shock is moderate given decentralized settlement patterns.<br><br>
-__Resource & Energy Endowment:__ Obsidian sources (Pachuca, Otumba) remain highly productive for Toltec trade; Yucatan salt from coastal salinas; cacao in transitional lowland zones; jade and quetzal feathers from Guatemala highlands; no significant depletion, endowments adequate for prevailing demand.<br><br>
-__Waste Absorption & Sink Capacity:__ Population densities lower than Classic Maya peak; agricultural intensification modest; no evidence of soil exhaustion or deforestation stress at this scale; absorptive capacity effectively unlimited for period loads.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal and respiratory infections persist; no major epidemic horizons documented for this window; mortality rates moderate, consistent with pre-Columbian Mesoamerican baselines; direction stable.<br><br>
-__Nutrition & Physiological Vitality:__ Maize-beans-squash subsistence adequate; protein supplementation from turkey, dog, wild game, and fish; skeletal evidence suggests moderate nutritional stress at lower strata but elite populations well-nourished; overall vitality stable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny documented among elites; marriage alliance networks cement political relations between Chichen Itza and Tula lineages; reproductive patterns shaped by status hierarchies; fertility adequate for demographic maintenance.<br><br>
-__Demographic Renewal & Density:__ Population recovering in northern Yucatan from Terminal Classic disruptions; Tula region sustaining perhaps 30,000–60,000; overall Mesoamerican density below Classic peak but trending upward; replacement ratios positive.<br><br>
-__Attrition & Dependency Overhang:__ Warfare captives absorbed as sacrificial victims rather than dependents; orphan and widow rates elevated by military activity but absorbed within extended kin networks; dependency load manageable within household structures.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Milpa agriculture remains foundation; chinampas not yet developed at scale; household production adequate for subsistence with modest surplus; no evidence of widespread famine; provisioning floor secure.<br><br>
-__Energy Capture & Conversion:__ Human and limited canine labor; no draft animals; wood fuel for cooking and lime production; efficiency constrained by Mesoamerican absence of wheel and large domesticates; per-capita work ceiling stable.<br><br>
-__Labor Organization & Coercion:__ Corvee labor for temple and palace construction; tribute labor from subordinate communities; captive labor for sacrificial and domestic service; coercion levels moderate, organized through tribute obligations rather than chattel slavery.<br><br>
-__Production & Surplus Capacity:__ Craft production intensifies: Plumbate pottery, turquoise mosaic, obsidian blades; metallurgy (copper, gold) arrives from lower Central America; surplus flow adequate for elite consumption and long-distance exchange.<br><br>
-__Storage, Reserves & Buffering:__ Granary evidence sparse but household maize storage typical; temple storehouses for tribute goods; buffering capacity modest, reliant on diversified trade networks rather than deep reserves.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade flourishes via pochteca-style merchants; cacao as medium of exchange; sea routes around Yucatan connect Gulf to Caribbean; Chichen Itza's port at Isla Cerritos; obsidian, salt, cacao, feathers, turquoise move through integrated networks.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cacao beans function as standardized value tokens; cotton textiles and copper axes also circulate; credit and deferred reciprocity embedded in tribute and merchant relationships; no coinage but effective commodity-money system.<br><br>
-__Surplus Extraction & Redistribution:__ Tribute flows to Chichen Itza and Tula from subordinate polities; warrior elites and merchant classes benefit; redistribution through feasting, temple construction, and ceremonial display; extraction load sustainable at current scale.<br><br>
-__Wealth Distribution & Asset Defense:__ Sharp stratification between warrior-merchant elites and commoners; elite burial goods, residential architecture signal concentration; wealth defended through political alliance and military prowess rather than fortification.<br><br>
-__Byproducts & Waste Routing:__ Craft production waste (obsidian debitage, ceramic wasters) locally deposited; organic waste recycled into household gardens; no industrial-scale pollution; waste loads trivial relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks organized around calpulli-like neighborhood units and lineage clusters; inter-polity trust mediated through merchant guilds and cult affiliations; radius of trust extends along trade and pilgrimage routes; stable to widening.<br><br>
-__Stratification, Status & Group Identity:__ Society stratified into warrior nobility, merchant class, commoners, and captives; ethnic identity markers distinguish Itza, Toltec, and Maya populations; boundaries permeable through military achievement and cult initiation; fluidity increasing.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent predominates; noble lineages claim divine ancestry; inheritance of office contested through merit and factional alliance as much as primogeniture; bilateral kinship reckoning among commoners.<br><br>
-__Civic Association & Self-Organization:__ Ward organizations, craft guilds, and merchant associations structure collective action below state level; pilgrimage sodalities to Chichen Itza's cenote; associational fabric thickening with urbanization.<br><br>
-__Leisure, Play & Sociability:__ Ballgame (pok-ta-pok) central to ceremonial life; feasting cycles; market gatherings as social occasions; elite hunting; sociability channels robust and ritually structured.<br><br>
-__Grievance Channels & Social Discharge:__ Ritual sacrifice absorbs captured enemies and internal deviants; factional competition channeled through formalized warfare and ballgame; social friction metabolized through ceremonial display; residual instability low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Multepal (joint rule) system at Chichen Itza shares power among lineage heads rather than single divine king; Tula governed by warrior orders under paramount ruler; authority legitimated by Quetzalcoatl-Kukulkan cult; power fragmented across competing centers.<br><br>
-__Succession & Power Transfer:__ Succession contested through council and factional maneuvering rather than strict hereditary rule; Tula's historical record ambiguous, possibly rotating leadership; transfer mechanisms unstable, generating periodic succession crises.<br><br>
-__Legitimacy & Political Narrative:__ Feathered-serpent cult provides unifying ideology linking Tula and Chichen Itza; origin narratives emphasize divine charter and conquest; legitimacy grounded in military success and cult participation; belief actively propagated through monumental art.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Tribute collection organized but record-keeping less developed than Aztec successor; provincial governance through local lords acknowledging paramount center; administrative reach limited by communication constraints; integrity moderate.<br><br>
-__Political Participation & Mobilization:__ Elite factions compete within council structures; commoner mobilization through corvee and warfare levies; no evidence of popular assemblies; participation channels narrow but formalized.<br><br>
-__Geopolitical Position & External Relations:__ Chichen Itza dominates northern Yucatan; Tula projects influence across central Mexico; both centers linked through trade, cult, and possibly elite intermarriage; competitive relations with unconquered polities on peripheries.<br><br>
-__Coercive Apparatus & Means of Force:__ Warrior orders (Eagle, Jaguar) form military elite; obsidian-edged weapons (macuahuitl prototypes), atlatl, bow; fortification minimal; force projection through raiding and tribute extraction rather than permanent occupation.<br><br>
-__Internal Order & Threat Environment:__ Banditry and inter-polity raiding endemic; internal disorder absorbed through warrior culture channeling violence outward; threat level moderate, within system capacity to metabolize.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Messenger systems connect major centers; pochteca merchants carry commercial and political intelligence; pilgrimage routes disseminate cult knowledge; velocity limited to foot travel, perhaps 30–50 km/day; reach extends across Mesoamerica.<br><br>
-__Record, Storage & Persistence:__ Maya script continues in reduced form; Toltec records sparsely attested, likely pictographic; codex production persists but fewer monumental inscriptions than Classic; institutional memory maintained through oral-pictographic combination; persistence adequate but less robust than predecessor.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control over monumental messaging; cult orthodoxy shapes permissible narrative; discourse norms favor military prowess and divine sanction; no evidence of active censorship, but information asymmetry maintained by literacy restriction.<br><br>
-__Reception, Attention & Amplification:__ Monumental architecture and public ceremony capture attention; market and pilgrimage gatherings amplify information; elite audiences for codex knowledge; popular reception mediated through performance and visual culture.<br><br>
-__Signal Integrity & Noise Load:__ Historical-mythological conflation blurs signal (Quetzalcoatl/Kukulkan as deity and ruler); oral tradition introduces variation; noise manageable within redundant cult structures; no verification crisis apparent.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in cosmic order, reciprocity, and status obligation; offenses against gods punished by community; theft, adultery, murder subject to restitution or death; moral consensus strong.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary law predominates; no surviving law codes from this window; regulations transmitted orally within lineage and guild structures; evolution gradual, responsive to precedent rather than codification.<br><br>
-__Adjudication, Enforcement & Liability:__ Local lords and councils adjudicate disputes; enforcement through kin obligation and community sanction; liability assigned through ordeal, witness testimony, and status considerations; throughput adequate for case volume.<br><br>
-__Rights, Protections & Compliance Burden:__ Commoners subject to tribute and corvee obligations; elite privileges codified in practice; no formal rights declarations; compliance burden moderate, absorbed within customary expectations.<br><br>
-__Impunity & Unredressed Wrong:__ Elite violence against subordinates rarely sanctioned; captive sacrifice legally sanctioned killing; inter-polity grievances addressed through warfare; impunity gap moderate, consistent with stratified warrior society.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Astronomical observation continues for calendrical purposes; cosmological paradigm stable, centering on cyclical time, directional cosmology, and divine-human reciprocity; no paradigm shift within window.<br><br>
-__Applied Knowledge & Technical Method:__ Metallurgical techniques (lost-wax casting) arrive from south; architectural methods refined; hydraulic engineering for cenote access; technical repertoire expanding through diffusion rather than local innovation.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Elite training in temples and noble households; scribal and calendrical knowledge restricted; craft skills transmitted through apprenticeship; literacy narrow but functional for administrative needs; stock stable.<br><br>
-__Obsolescence & Knowledge Decay:__ Classic Maya epigraphic tradition declining; fewer trained scribes for full hieroglyphic literacy; some techniques lost with southern lowland collapse; decay moderate, partially offset by new highland traditions.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Feathered-serpent narratives unite highland and lowland identity; Toltec as civilizing ancestors (later Aztec view); migration legends; Maya origin stories persist; foundational identity stable, mythic charter reinforced.<br><br>
-__Artistic Expression & Material Culture:__ Toltec-Maya style synthesizes central Mexican and Yucatecan motifs: chacmools, warrior columns, feathered serpent friezes; Plumbate and Fine Orange ceramics; aesthetic vocabulary innovative, militaristic themes prominent.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confident, expansionist temper among elites; militaristic ethos valorizes conquest and sacrifice; mood buoyant with new cult networks and trade prosperity; risk tolerance high.<br><br>
-__Form Exhaustion & Meaning Decay:__ Classic Maya stela tradition effectively exhausted; new forms (warrior columns, skull racks) emergent and vital; no significant meaning decay, cultural forms actively renewed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cyclical cosmology dominant; world-ages subject to destruction and renewal; human sacrifice maintains cosmic order; existential outlook emphasizes duty to gods and community; fatalism balanced by active ritual participation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Heart sacrifice intensifies; cenote offerings at Chichen Itza; ballgame as cosmic drama; Venus and solar observations guide ceremony; devotional infrastructure elaborate and well-maintained.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Priesthoods organized around major cults; Quetzalcoatl-Kukulkan cult provides inter-regional orthodoxy; temple complexes as institutional centers; doctrinal authority consolidated around shared iconography.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Toltec and Maya traditions actively syncretic at Chichen Itza; cult of feathered serpent spreads; local deities incorporated into pan-Mesoamerican framework; diffusion expanding, not displacing.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of spiritual crisis or disenchantment; cult participation vigorous; sacred meaning actively produced through sacrifice and pilgrimage; no residue of unanchored spiritual need.<br><br>
+# __1000 CE – 1200 CE — Early Postclassic and Toltec Horizon__
+
+__Summary:__ The Early Postclassic sees Mesoamerica reorganize after the Classic Maya collapse, with Toltec Tula and Chichen Itza emerging as major powers while long-distance trade networks, intensified militarism, and new artistic-scribal traditions reshape the cultural landscape; the binding constraint is the fragmentation of the Classic-period political order and the need for new mechanisms of integration across a depopulated southern lowland zone.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Mexican Highlands center on the Basin of Mexico and the Tula region (modern Hidalgo) at 2,000–2,200 meters elevation, connected by highland corridors to Oaxaca and the Gulf Coast; the northern Yucatan Peninsula provides a limestone platform of low relief, with cenotes (sinkholes) supplying water in the absence of surface rivers; the abandoned southern lowland jungle of the Peten creates a demographic void between these poles, increasing the friction of north-south movement.
+
+__Climate Regime & Volatility:__ The period follows severe droughts that contributed to the Classic Maya collapse; paleoclimate proxies suggest somewhat recovered but still variable rainfall in the northern Yucatan, while highland central Mexico maintains its predictable wet-dry monsoonal regime, with summer rains supporting rainfed maize agriculture and winter dry seasons constraining surplus.
+
+__Hazard Regime & Exposure:__ Highland volcanic and seismic risk persists around the Basin of Mexico; Yucatan faces hurricane exposure along coastal zones; drought remains the primary civilizational threat, the memory of the ninth-century collapse shaping settlement patterns and agricultural strategies toward more resilient configurations.
+
+__Resource & Energy Endowment:__ Obsidian sources at Pachuca and other highland deposits fuel long-distance exchange; cacao, feathers, jade, and marine shell flow through trade networks; salt from northern Yucatan coastal salinas becomes a major commodity; firewood and timber available in highland pine-oak zones, scarcer in the scrub-covered northern Yucatan.
+
+__Waste Absorption & Sink Capacity:__ Population remains well below Classic-period peaks in most zones, leaving ample absorptive capacity; localized degradation around major centers like Tula and Chichen Itza accumulates but does not approach crisis thresholds; the abandoned southern lowlands slowly regenerate forest cover.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic tropical disease persists in lowland zones; highland populations face lower pathogen burdens; overall mortality baselines stable within the Mesoamerican disease ecology, with no novel epidemic introductions until the sixteenth century.
+
+__Nutrition & Physiological Vitality:__ Maize, beans, squash, and chili form the dietary base; protein from turkey, dog, deer, and lake fish in highland basins; coastal populations access marine resources; skeletal evidence suggests adequate nutrition at major centers, with elite access to cacao and other luxuries.
+
+__Care, Healing & Recovery Capacity:__ Herbalism, bone-setting, and ritual healing practiced by specialists; sweat baths (temazcalli) serve hygienic and therapeutic functions; healing integrated with cosmological frameworks attributing illness to supernatural causes.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny practiced among elites; marriage alliances cement political relationships between lineages and polities; average household size and fertility patterns follow Mesoamerican norms.
+
+__Demographic Renewal & Density:__ Population slowly recovers in northern Yucatan after the collapse; Chichen Itza reaches perhaps 30,000–50,000 inhabitants; Tula perhaps 40,000–60,000; the southern Peten remains largely depopulated, with scattered remnant communities.
+
+__Attrition & Dependency Overhang:__ Warfare casualties create cohorts of widows and orphans absorbed through kinship networks; no evidence of catastrophic demographic imbalance; the demographic recovery phase generates relatively favorable dependency ratios.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Milpa agriculture (maize-bean-squash polyculture) provides the subsistence base; Yucatan adds henequen fiber cultivation; chinampas (raised fields) expand in highland lake basins; household production supplemented by market exchange.
+
+__Energy Capture & Conversion:__ Human labor remains the primary energy source; no draft animals; fire for cooking, lime-burning for construction, and metallurgy (copper-gold alloys) emerging from West Mexican traditions; canoe transport on waterways reduces energy costs of bulk movement.
+
+__Labor Organization & Coercion:__ Corvee labor mobilized for monumental construction and agricultural intensification; slavery exists as a social institution, with war captives, debtors, and criminals constituting an unfree labor pool; tribute systems extract labor and goods from subordinate communities.
+
+__Production & Surplus Capacity:__ Craft specialization intensifies, with dedicated workshops for obsidian, ceramics, textiles, and metallurgy; surplus supports warrior elites, priest-scribes, and merchant classes; production organized through both household and state-directed modes.
+
+__Storage, Reserves & Buffering:__ Granaries hold maize reserves; tribute warehouses at major centers accumulate goods; household strategies include drying, smoking, and multi-year crop storage; vulnerability to sequential drought years remains.
+
+__Exchange, Trade & Logistics:__ Long-distance trade networks expand dramatically, with professional merchant groups (pochteca-like precursors) linking highland Mexico, the Gulf Coast, Yucatan, and Central America; turquoise from the American Southwest, gold from Central America, obsidian, cacao, and feathers circulate; port sites like Isla Cerritos serve Chichen Itza's maritime trade.
+
+__Value Storage, Credit & Deferred Exchange:__ Cacao beans serve as currency; copper axes and T-shaped ingots emerge as exchange media; reciprocal obligation networks structure elite exchange; no formal credit institutions but debt bondage functions as deferred obligation.
+
+__Surplus Extraction & Redistribution:__ Tribute flows to Tula and Chichen Itza from subordinate communities; warrior elites claim shares of conquest goods; temples accumulate offerings; redistribution through feasting, ritual, and elite gifting.
+
+__Wealth Distribution & Asset Defense:__ Marked inequality between noble (pilli) and commoner (macehual) strata; elite residence compounds concentrate luxury goods; land held communally through calpulli-like units with differential access by status; wealth defended through kinship alliance and military force.
+
+__Byproducts & Waste Routing:__ Obsidian debitage accumulates at workshop sites; organic waste composted or discarded in middens; lime-burning depletes local fuel supplies; no evidence of systemic waste management beyond household-level practices.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent predominates with bilateral elements; noble lineages (tecalli) control land and offices; commoner households organized in calpulli-like territorial units; inheritance passes through male lines with provisions for elite polygynous households.
+
+__Association & Mutual Aid:__ Calpulli structures provide mutual aid, collective labor mobilization, and local governance; craft and merchant guilds emerge as associational forms; temple complexes organize devotional communities; neighborhood solidarity buffers individual household risk.
+
+__Leisure, Play & Sociability:__ The ballgame (ullamaliztli) serves as ritual combat, elite competition, and public spectacle; feasting accompanies ritual and political occasions; markets function as social as well as economic spaces; pulque consumption ritualized and recreational.
+
+__Stratification, Status & Group Structure:__ Sharp division between noble and commoner estates; warrior sodalities (like later cuauhtli and ocelotl orders) provide paths to status; merchant groups occupy an ambiguous position between commoner and noble; priests and scribes constitute a literate elite; slaves form the lowest stratum.
+
+__Administrative Capacity & Institutional Integrity:__ Toltec state structure less well understood than later Aztec; council governance (perhaps multiple rulers or rotating authority) suggested by conflicting sources; Chichen Itza shows architectural evidence of council halls (mul-tepal "joint rule" interpretation debated); scribal bureaucracies maintain records but administrative reach remains limited compared to later periods.
+
+__Coercive Apparatus & Means of Force:__ Militarism intensifies; warrior orders prominent in iconography; atlatl, obsidian-edged macuahuitl, and quilted cotton armor standard; fortifications and defensive walls appear; organized armies conduct campaigns for tribute and captives; military prowess central to elite identity.
+
+__Discharge, Disorder & Decay:__ Warfare endemic between competing centers; Tula eventually destroyed around 1150–1200 CE amid factional conflict and outside pressure; Chichen Itza's decline by 1200 CE marks end of its hegemony; political fragmentation recurs as centralizing projects collapse; the period ends with neither highland nor lowland paramount.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-collapse societies exhibit resilience and adaptation; militaristic ideology celebrates warrior valor; cosmological anxiety about world-endings and cosmic cycles shapes collective psychology; pride in ancestry and legitimating myth animates elite identity.
+
+__Leadership & Personal Authority:__ Rulers (possibly multiple at Chichen Itza) derive authority from lineage, military prowess, and priestly function; the legendary Quetzalcoatl-Topiltzin figure associated with Tula (whether historical or mythologized) becomes central to later legitimating traditions; charismatic authority blends with institutional roles.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rooted in mythological charter, military success, and ritual performance; subordinate communities accept tribute obligations when backed by overwhelming force and ideological sanction; allegiance conditional on protection and redistribution.
+
+__Political Will & Collective Resolve:__ Expansion phases show high collective mobilization; Tula's influence extends to regions as far as northern Mexico and possibly Chichen Itza; the capacity for sustained military and construction projects indicates effective elite coordination; factional rivalries periodically fragment this will.
+
+__External Relations & Posture:__ Aggressive expansion characterizes both Toltec and Chichen Itza hegemonies; long-distance trade requires diplomatic relationships with distant polities; the "Toltec-Maya" connection (whether conquest, alliance, trade, or shared ideology) remains archaeologically debated but indicates significant inter-regional interaction.
+
+__Disaffection, Apathy & Spent Will:__ The destruction of Tula around 1150–1200 CE suggests internal collapse or external conquest; Chichen Itza's abandonment indicates similar exhaustion; the period closes with no successor hegemony established, fragmenting the political landscape.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Maya hieroglyphic script continues in reduced form in northern Yucatan; Central Mexican pictographic traditions persist at Tula and related centers; literacy remains restricted to trained scribes (ah tz'ib in Maya, tlacuilo equivalents in highland traditions); oral transmission carries the bulk of cultural knowledge.
+
+__Channels & Transmission Velocity:__ Foot messengers traverse trade routes; information follows caravan and canoe networks; royal courts and temples serve as information nodes; transmission velocity limited to speed of human travel, roughly 30–40 km per day on maintained sacbeob (raised roads) in Yucatan.
+
+__Record, Storage & Persistence:__ Codex production continues though no Early Postclassic originals survive; monumental inscriptions decline dramatically from Classic peaks but do not disappear entirely; genealogical and historical records likely maintained in screenfold format; architectural programs encode cosmological and political information.
+
+__Framing, Censorship & Discourse Norms:__ Official narratives promulgated through monuments and public ritual; competing polities maintain rival historical claims; scribes serve as propagandists for ruling lineages; iconographic programs at Chichen Itza promote militaristic and sacrificial themes.
+
+__Reception, Attention & Amplification:__ Public spectacles (ballgame, sacrifice, procession) broadcast elite messages to non-literate populations; painted murals and sculptural programs visible to gathered crowds; oral performance in markets and temples extends the reach of official narratives.
+
+__Signal Integrity & Noise Load:__ The Classic-period collapse fragmented archival continuity; the Postclassic inherits partial and mythologized memories of the Classic past; Toltec legendary history already accreting by this period, blurring historical and mythological registers.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity between humans and gods grounds moral order; tribute and sacrifice conceived as cosmic obligations maintaining world stability; warrior honor and captive-taking valorized; social hierarchy naturalized through cosmological sanction.
+
+__Law, Codification & Regulatory Evolution:__ Customary law governs most disputes; elite courts adjudicate matters affecting noble interests; specific codes unknown but parallels with later Aztec law suggest capital punishment for serious crimes, compensation for property offenses, and status-differentiated penalties.
+
+__Adjudication, Liability & Sanction:__ Rulers and councils serve as courts; confession under torture employed in serious cases; sanctions range from compensation and slavery (debt or criminal) to death by sacrifice, burning, or stoning; swift justice expected.
+
+__Rights, Protections & Compliance Burden:__ Commoners owe tribute, labor, and military service; nobles enjoy judicial privileges and land rights; slaves possess minimal protections; no formal rights doctrine but customary expectations structure obligations.
+
+__Impunity & Unredressed Wrong:__ Elite violence against commoners largely unpunished; inter-polity warfare operates outside juridical frameworks; vengeance and feud provide informal redress mechanisms; structural impunity for ruling classes.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Astronomical observation continues, tracking Venus, Mars, eclipse cycles, and solar-lunar phenomena; mathematical traditions (vigesimal base-20 system, zero concept) maintained; medical-botanical knowledge transmitted through apprenticeship; no separation of empirical and cosmological explanation.
+
+__Applied Knowledge & Technical Method:__ Metallurgical knowledge (lost-wax casting, alloy production) arrives from West Mexico and Central America; obsidian-blade production reaches high refinement; architectural techniques for corbeled vaults, hydraulic management, and monumental construction sophisticated; agricultural intensification techniques (terracing, raised fields) applied.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal and priestly training in temple-schools transmits literacy, calendrics, ritual, and astronomy to elite youth; craft knowledge transmitted through apprenticeship in workshops; commoner education informal within household and calpulli; knowledge highly stratified by class.
+
+__Obsolescence & Knowledge Decay:__ Classic Maya scribal traditions contract; southern lowland sites abandoned, their archives lost; historical knowledge mythologized; the Toltec period becomes legendary even before the Aztec era, indicating rapid information loss and transformation.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Toltec (Tollan) becomes the archetype of civilized order, a golden-age reference point for later Mesoamerican polities; origin narratives trace lineages to Tollan; the Quetzalcoatl complex (feathered serpent deity associated with Venus, wind, priesthood, and legitimate rule) central to political mythology.
+
+__Legitimating Narrative & Ideology:__ Rulers claim descent from Toltec ancestors; military conquest justified through cosmic necessity; human sacrifice as debt-payment to gods who sacrificed themselves for humanity; the warrior ideal dominates elite ideology.
+
+__Artistic Expression & Material Culture:__ Toltec sculptural style features atlantean warrior columns, chacmool sacrifice figures, tzompantli (skull rack) architecture; Chichen Itza combines Maya and "Toltec" elements in the Great Ballcourt, Castillo pyramid, and Temple of the Warriors; feathered-serpent imagery proliferates; turquoise mosaic, gold, and copper luxury goods signal elite status.
+
+__Form Exhaustion & Meaning Decay:__ Classic Maya artistic and inscriptional traditions attenuate; the elaborate historical stelae of the Classic period give way to more formulaic and militaristic imagery; meaning concentrates on legitimation and cosmic maintenance rather than the biographical-dynastic detail of Classic texts.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The world conceived as precarious, sustained by ritual feeding of gods with human blood; cyclic time (Calendar Round, Long Count) structures expectation; the present Sun-age (Nahui Ollin) destined for eventual destruction; human agency maintains cosmic order through sacrifice and proper ritual.
+
+__Ritual, Devotion & Sacred Practice:__ Human sacrifice intensifies, with heart extraction, decapitation, and arrow sacrifice depicted at major centers; ballgame as cosmic drama; calendar festivals structure collective devotion; pilgrimage to sacred sites and cenotes (at Chichen Itza's Sacred Cenote, offerings include human sacrifice and precious goods).
+
+__Religious Institutions & Doctrinal Authority:__ Temple complexes serve as priestly residences, schools, and ritual centers; priestly hierarchies maintain calendrical and divinatory knowledge; doctrine transmitted orally and through screenfold books; no pan-Mesoamerican ecclesiastical institution but shared cosmological frameworks.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The "Toltec" stylistic and ideological complex spreads widely, appearing at Chichen Itza, suggesting religious diffusion or shared cults; Quetzalcoatl/Kukulkan veneration bridges highland and lowland traditions; local deities and cults persist beneath overarching cosmological framework.
+
+__Disenchantment & Sacred Discharge:__ The collapse of major centers (Tula, then Chichen Itza) can be read as cosmological crisis, the failure of rulers to maintain divine favor; survivors must reinterpret events, attribute failure, and seek renewed sources of sacred legitimation; the search for Tollan-like authority continues into the Late Postclassic.

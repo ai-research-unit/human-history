@@ -1,69 +1,140 @@
-# __1930 CE – 2005 CE__ — Canadian Broadcasting and CBC
-__Summary:__ Pan-temporal snapshot of Canada's public-private broadcasting system across the broadcast stage, centered on the CBC as a state instrument of national unity and cultural protection against American spillover. The binding constraint is the demographic asymmetry — a thin population strung along the US border receiving American signals by geography alone — which forces continuous regulatory intervention to maintain a distinct Canadian broadcast space; margin against cultural absorption remains contested throughout; direction of change moves from state-led radio monopoly toward a mixed system under mounting digital and cross-border pressure.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Vast territory with population concentrated in a narrow southern band along the US border; broadcast signals cross the undefended frontier freely, and Canadian stations must cover enormous distances to reach dispersed audiences, raising infrastructure costs relative to American competitors.<br><br>
-__Climate Regime & Volatility:__ Northern winters historically isolate remote communities for months; radio and television serve as lifelines to outlying settlements, reinforcing the public-service rationale for coast-to-coast coverage regardless of commercial viability.<br><br>
-__Hazard Regime & Exposure:__ Seasonal storms and ice occasionally disrupt transmission infrastructure; system maintains redundancy for essential service continuity, though margin is adequate and hazard load does not bind the broadcasting structure.<br><br>
-__Resource & Energy Endowment:__ Abundant hydroelectric capacity in Quebec, Ontario, and British Columbia ensures cheap electricity for transmission infrastructure; fossil and hydro resources underwrite a high-energy broadcast system with no supply constraint during the window.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from broadcast equipment and obsolete receivers accumulates through successive technology transitions — radio to television, black-and-white to color, analog to digital — but volumes remain modest relative to absorptive capacity; no binding sink saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Developed public health infrastructure holds endemic disease at low background levels; broadcast public-health messaging supports vaccination and sanitation campaigns, contributing to declining mortality through mid-century and stable low rates thereafter.<br><br>
-__Nutrition & Physiological Vitality:__ Population generally well-nourished throughout; broadcasting does not directly affect nutritional status, though advertising of processed foods becomes a public-health concern by window's end.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Broadcast content reflects and shapes evolving family norms — from radio-era domestic ideals through postwar baby-boom imagery to later diversity in represented family forms; no direct biological effect, but cultural modeling is significant.<br><br>
-__Demographic Renewal & Density:__ Population grows from roughly ten million to over thirty million across the window, fed by immigration and natural increase; broadcasting integrates successive immigrant waves into an English- or French-language public sphere.<br><br>
-__Attrition & Dependency Overhang:__ Aging population by window's end increases the dependency ratio; CBC programming for seniors and isolated elderly serves as social connection, but broadcasting itself neither creates nor resolves the demographic overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Industrialized economy with social safety net ensures subsistence is not binding; broadcasting operates well above survival concerns throughout.<br><br>
-__Energy Capture & Conversion:__ Grid electricity powers studios and transmitters; hydroelectric dominance keeps energy costs low; no conversion bottleneck constrains broadcast operations.<br><br>
-__Labor Organization & Coercion:__ Broadcast workers unionized through ACTRA, NABET, and other guilds; labor relations periodically contentious but wages and conditions generally favorable; no coerced labor.<br><br>
-__Production & Surplus Capacity:__ CBC production capacity constrained by parliamentary appropriations; private networks (CTV, Global) generate surplus from advertising; total system produces less content than American networks, requiring imports to fill schedules.<br><br>
-__Storage, Reserves & Buffering:__ CBC archives preserve Canadian broadcast heritage; funding reserves thin and vulnerable to government austerity cycles; private networks retain minimal reserves, operating on advertising cash flow.<br><br>
-__Exchange, Trade & Logistics:__ Program licensing flows predominantly southward — Canadian stations import American content at lower cost than domestic production; some Canadian content exports (news, hockey) but trade balance chronically negative.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Broadcasting funded through annual appropriations (CBC) and advertising revenue (private); cable and satellite subscription fees add a third revenue stream by 1980s; stable currency and credit markets support normal operations.<br><br>
-__Surplus Extraction & Redistribution:__ Federal funding extracted through general taxation and redistributed via parliamentary appropriation to CBC; CRTC licensing fees and Canadian-content levies redistribute some private-sector revenue toward domestic production.<br><br>
-__Wealth Distribution & Asset Defense:__ Broadcast licenses represent valuable assets concentrated among a few corporate owners (Rogers, Shaw, Bell by window's end); spectrum scarcity creates rents defended through regulatory barriers to entry.<br><br>
-__Byproducts & Waste Routing:__ Modest electronic waste from equipment cycles; broadcast content itself generates cultural byproduct — Americanized programming norms absorbed alongside protected Canadian content — routed into the cultural environment rather than physical sinks.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ CBC historically positioned as trusted national institution; trust levels remain higher than for private media but decline in later decades amid funding cuts and perceived politicization; radius of trust extends nationally for hockey broadcasts and emergency coverage.<br><br>
-__Stratification, Status & Group Identity:__ Broadcasting reinforces English-French duality through separate CBC/Radio-Canada networks; Indigenous and immigrant communities underserved until late in window; class distinctions less marked in broadcast access but evident in represented content.<br><br>
-__Kinship, Family & Inheritance:__ Broadcast content reflects evolving family structures; no direct effect on inheritance or kinship rules, but television normalizes changing household forms across generations.<br><br>
-__Civic Association & Self-Organization:__ Community radio stations and campus broadcasters provide alternative voices below the national networks; associational fabric thickens through cable access channels in 1980s–1990s.<br><br>
-__Leisure, Play & Sociability:__ Hockey Night in Canada becomes defining shared ritual; broadcasting organizes leisure time around schedules, creating synchronous national experience that begins fragmenting with cable and VCR by 1980s.<br><br>
-__Grievance Channels & Social Discharge:__ Phone-in shows, letters to editors, and later online forums provide discharge channels; Quebec sovereignty debates channeled partly through Radio-Canada coverage; unmetabolized regional grievances persist but broadcasting absorbs some tension.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal government retains ultimate authority over broadcasting through spectrum ownership and parliamentary funding; CRTC exercises delegated regulatory power; tension between federal control and provincial cultural jurisdiction (especially Quebec) persists throughout.<br><br>
-__Succession & Power Transfer:__ Democratic elections and parliamentary conventions govern political transitions; CBC coverage of elections becomes central to the process; no broadcasting-specific succession issues.<br><br>
-__Legitimacy & Political Narrative:__ State broadcasting justified as essential to national unity and cultural sovereignty against American absorption; legitimacy narrative shifts from nation-building to multicultural inclusion by window's end.<br><br>
-__Administrative Capacity & Institutional Integrity:__ CBC operates with professional bureaucracy and editorial independence guaranteed by statute but periodically tested by government pressure; CRTC maintains regulatory competence but faces capture concerns from industry.<br><br>
-__Political Participation & Mobilization:__ Broadcast debates and coverage shape electoral participation; Leaders' debates become fixtures; political advertising regulated more strictly than in US, limiting broadcast-based mobilization.<br><br>
-__Geopolitical Position & External Relations:__ Broadcasting policy explicitly defensive against American cultural influence; NAFTA and trade negotiations raise content-requirement challenges; Canada positions itself as culturally distinct within North American integration.<br><br>
-__Coercive Apparatus & Means of Force:__ Not directly relevant to broadcasting structure; emergency broadcasting protocols exist for civil defense but are rarely activated.<br><br>
-__Internal Order & Threat Environment:__ October Crisis 1970 sees War Measures Act invoked with broadcast implications; otherwise, internal order is stable and broadcasting operates without security disruptions.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Radio reaches saturation by 1930s; television achieves near-universal penetration by 1960; cable expands channel capacity through 1980s–1990s; by 2005, digital and internet begin fragmenting the broadcast model while accelerating transmission velocity.<br><br>
-__Record, Storage & Persistence:__ CBC Archives preserve substantial broadcast heritage; early television less completely preserved due to tape reuse; digital transition improves archival capacity but raises format-obsolescence concerns.<br><br>
-__Framing, Censorship & Discourse Norms:__ CRTC content standards prohibit hate speech and require balance; CBC editorial policies maintain professional journalism standards; discourse norms generally open but Canadian-content requirements shape what is available rather than what can be said.<br><br>
-__Reception, Attention & Amplification:__ Audience attention concentrated on prime time until cable fragmentation; Hockey Night in Canada commands exceptional simultaneous attention; amplification dynamics favor American content due to higher production values and marketing.<br><br>
-__Signal Integrity & Noise Load:__ Professional broadcasting maintains high signal integrity; noise load increases with channel proliferation; US signal spillover treated as informational noise against which Canadian content must compete.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Broadcasting regulation grounded in belief that airwaves are public trust requiring balanced, responsible stewardship; sense of justice includes cultural protection as legitimate state interest.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting Act 1936, revised 1958, 1968, 1991; CRTC created 1968; Canadian content regulations evolve through regulatory decisions; Telecommunications Act 1993 modernizes framework.<br><br>
-__Adjudication, Enforcement & Liability:__ CRTC adjudicates license applications and renewals, complaints, and content violations; enforcement through license conditions; courts provide judicial review; system generally keeps pace with caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Charter of Rights (1982) protects expression but permits reasonable limits; Canadian content requirements impose compliance costs on broadcasters, estimated at significant but absorbable levels; predictability adequate for planning.<br><br>
-__Impunity & Unredressed Wrong:__ Some complaints of CBC bias from both political directions remain unresolved to complainants' satisfaction; regulatory capture allegations against CRTC occasionally surface; overall, redress mechanisms function though slowly.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Canadian communication theory (Innis, McLuhan) gains international influence; media studies departments established at major universities; paradigm emphasizes medium effects and technological determinism.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast engineering follows North American standards with NTSC television; digital transition adopts ATSC; technical methods imported from US with Canadian adaptations for northern coverage challenges.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Journalism schools and broadcast training programs at Ryerson, Carleton, and other institutions supply skilled workforce; technical and creative skills widely distributed among urban workforce; rural areas less served.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog broadcast skills become obsolete through digital transition; some institutional memory lost through CBC budget cuts and staff reductions in 1990s; archival preservation prevents complete knowledge loss.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Broadcasting reinforces bicultural (English-French) national identity and hockey as shared ritual; "two solitudes" narrative both bridged and maintained through separate networks; Indigenous broadcasting emerges late as corrective to settler-dominant memory.<br><br>
-__Artistic Expression & Material Culture:__ Canadian television drama, documentary, and comedy develop distinctive voice despite American competition; NFB-CBC collaboration produces documentary tradition; material culture includes the television set as domestic centerpiece through 1970s.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood shifts from postwar optimism through Quebec crisis anxieties to multicultural confidence; broadcasting both reflects and shapes these transitions; concern over American cultural absorption remains ambient anxiety throughout.<br><br>
-__Form Exhaustion & Meaning Decay:__ Canadian content requirements risk producing formulaic compliance rather than genuine expression; by window's end, some genres feel exhausted and audiences drift to American alternatives; Hockey Night in Canada retains meaning but surrounding forms hollow.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular public broadcaster operates in increasingly secular society; religious programming present but marginal; existential questions rarely addressed directly in mainstream broadcasting.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Hockey Night in Canada functions as secular national ritual; other broadcast events (royal visits, national celebrations) carry quasi-sacred character; actual religious broadcasting confined to specialty channels.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Mainline churches lose cultural authority through the window; broadcasting reflects rather than drives secularization; no significant doctrinal controversies center on broadcast content.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ American televangelism available via cable and cross-border spillover; Canadian religious broadcasting remains modest; Indigenous spirituality gains recognition in later programming but remains marginal.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization leaves spiritual needs addressed through substitute rituals (sports, celebrity) and consumption; broadcasting provides entertainment discharge but not transcendent meaning; standing disenchantment unremarkable in North American context.<br><br>
+# __1930 CE – 2005 CE — Canadian Broadcasting and CBC__
+
+__Summary:__ Canadian broadcasting develops as a deliberate nation-building project to counter United States cultural dominance across an open border, with the Canadian Broadcasting Corporation serving as the principal instrument of a public-service model that attempts to bind a geographically vast, linguistically divided, and regionally disparate population into a coherent national audience — the binding constraint being the perpetual tension between cultural sovereignty and the gravitational pull of American commercial programming that Canadian audiences can receive directly.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Canada's east-west extent of nearly 5,500 kilometers across six time zones imposes severe transmission costs; the population concentrates within 150 kilometers of the American border, making US signal reception natural while intra-Canadian east-west connection requires artificial infrastructure investment far exceeding what commercial returns would justify.
+
+__Climate Regime & Volatility:__ Harsh winters across the Prairie provinces and northern territories increase indoor media consumption, making radio and television central to social life during months of limited outdoor activity.
+
+__Hazard Regime & Exposure:__ Ice storms, blizzards, and spring flooding create periodic emergencies where broadcast serves as essential public-safety communication, reinforcing CBC's public-service mandate beyond entertainment.
+
+__Resource & Energy Endowment:__ Hydroelectric abundance in Quebec, British Columbia, and Manitoba provides reliable electrical infrastructure for transmission and reception, while petroleum revenues in Alberta fund provincial broadcasting alternatives.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from successive generations of radio and television equipment accumulates, though at lower absolute volumes than the American market given the smaller population; disposal infrastructure remains underdeveloped through most of the period.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Canada achieves developed-world health standards through the period, with medicare (1966–1972 provincial implementation) ensuring universal access; regional health disparities persist for Indigenous populations in remote communities where broadcast remains the only reliable information channel.
+
+__Nutrition & Physiological Vitality:__ Nutritional standards parallel American levels, with regional variation; broadcast advertising promotes processed foods while CBC public-affairs programming occasionally addresses nutrition as public-health concern.
+
+__Care, Healing & Recovery Capacity:__ Universal healthcare provides institutional capacity exceeding American levels; broadcast serves as health-education medium particularly through CBC's mandate to serve underserved communities.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility patterns track developed-world demographic transition; family-formation norms shift through the period, with broadcast both reflecting and shaping changing mores.
+
+__Demographic Renewal & Density:__ Population grows from approximately 10 million (1930) to 32 million (2005), with immigration increasingly important; francophone fertility declines sharply after the Quiet Revolution (1960s), heightening Quebec's concern about cultural survival and its insistence on French-language broadcasting autonomy.
+
+__Attrition & Dependency Overhang:__ Aging population increases dependency ratios by 2005, though broadcast workforce remains relatively young; regional disparities leave Atlantic provinces and rural areas with older populations more reliant on traditional broadcast.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Canadian living standards approach American levels; broadcast advertising promotes consumer economy while public broadcasting provides alternative to pure commercial model.
+
+__Energy Capture & Conversion:__ Electrical infrastructure supports universal broadcast reception; transmission towers require substantial energy investment across vast distances, subsidized through public funding rather than advertising alone.
+
+__Labor Organization & Coercion:__ CBC employees are unionized (Canadian Media Guild, others), creating labor stability but also periodic strikes; private broadcasters employ smaller, often non-union workforces.
+
+__Production & Surplus Capacity:__ Canadian content production capacity remains structurally limited by small domestic market; productions must either accept smaller budgets than American competitors or seek co-production arrangements; CBC serves as anchor client for independent Canadian producers.
+
+__Storage, Reserves & Buffering:__ CBC archives preserve broadcasting heritage; budget fluctuations with changing governments create funding instability requiring reserve management and periodic staff reductions.
+
+__Exchange, Trade & Logistics:__ Program imports from United States and Britain supplement Canadian production; CBC purchases American programming while attempting to fill prime time with Canadian content; private broadcasters import heavily.
+
+__Value Storage, Credit & Deferred Exchange:__ CBC funding comes through parliamentary appropriation (approximately C$1 billion annually by 2005) plus limited advertising revenue; private broadcasters operate on American commercial model with smaller advertising market.
+
+__Surplus Extraction & Redistribution:__ License fees (until 1953) and then direct parliamentary funding redistribute general tax revenue to support public broadcasting; CRTC (Canadian Radio-television and Telecommunications Commission, 1968) imposes Canadian content requirements that extract compliance costs from private broadcasters.
+
+__Wealth Distribution & Asset Defense:__ Media ownership consolidates through the period; by 2005, major private broadcasters (CTV, Global, CanWest) are held by a few corporate groups, while CBC remains crown corporation.
+
+__Byproducts & Waste Routing:__ Broadcast generates less physical waste than industrial sectors; obsolete transmission equipment and receivers accumulate as electronic waste.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Television viewing becomes family activity; generational differences emerge as younger Canadians increasingly consume American programming through cable and satellite, weakening cross-generational shared reference.
+
+__Association & Mutual Aid:__ Broadcast creates national public sphere allowing associational life to organize across regional distances; Radio-Canada serves parallel function for francophone civil society.
+
+__Leisure, Play & Sociability:__ Hockey Night in Canada (CBC radio 1931, television 1952) becomes defining national ritual, creating shared Saturday-night experience across regions and generations; other sports and entertainment programming structures leisure time.
+
+__Stratification, Status & Group Structure:__ English-French linguistic divide structures broadcasting fundamentally; CBC/Radio-Canada operates parallel English and French services; Indigenous broadcasting remains marginal until late in period (Television Northern Canada, 1992; Aboriginal Peoples Television Network, 1999).
+
+__Administrative Capacity & Institutional Integrity:__ CRTC regulates broadcasting with substantial technical capacity; CBC maintains large bureaucracy subject to periodic efficiency reviews and political pressure; arm's-length relationship with government tested repeatedly.
+
+__Coercive Apparatus & Means of Force:__ Broadcasting operates under legal framework with licensing requirements; CRTC can revoke licenses for non-compliance with Canadian content regulations.
+
+__Discharge, Disorder & Decay:__ Regional resentments (Western alienation, Quebec nationalism) find expression through broadcast but are not resolved by it; francophone concerns about cultural survival intensify even as Radio-Canada serves that community; CBC critics argue the corporation becomes bloated and out of touch with popular taste.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Canadian broadcasting cultivates moderate, consensus-seeking national temperament distinct from more polarized American style; hockey broadcasts provide periodic moments of intense shared emotion.
+
+__Leadership & Personal Authority:__ CBC personalities (Peter Gzowski, Barbara Frum, Knowlton Nash, Peter Mansbridge) become figures of national trust; francophone Radio-Canada develops parallel roster.
+
+__Legitimacy as Lived Allegiance:__ CBC's legitimacy rests on claim to serve all Canadians and reflect Canadian experience back to itself; this claim is contested by those who see the corporation as Toronto-centric, elitist, or insufficiently popular.
+
+__Political Will & Collective Resolve:__ Broadcasting serves nation-building purpose explicitly articulated from the Aird Commission (1929) forward; political will to fund CBC fluctuates with governments, with Conservative governments generally more skeptical than Liberal ones.
+
+__External Relations & Posture:__ Canadian broadcasting defines itself against American cultural dominance; the relationship is defensive, seeking to maintain distinct Canadian voice and space against overwhelming neighbor.
+
+__Disaffection, Apathy & Spent Will:__ By 2005, younger Canadians show declining attachment to Canadian broadcast content, preferring American programming available through cable and satellite; CBC struggles to maintain relevance and audience share against fragmented competition.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English and French services ensure both official-language communities have access; Indigenous languages receive minimal broadcast attention until late in period; new immigrant communities served inadequately.
+
+__Channels & Transmission Velocity:__ CBC builds national radio network (1930s–1940s) and television network (1952–) requiring massive infrastructure investment; satellite distribution (Anik A-1, 1972) extends reach to remote communities; cable penetration exceeds 75% by 2000.
+
+__Record, Storage & Persistence:__ CBC Archives preserve substantial broadcast heritage; some early material lost or deteriorated; archival access improves with digitization efforts beginning late in period.
+
+__Framing, Censorship & Discourse Norms:__ CRTC content standards maintain family-viewing norms more conservative than American cable; Canadian content regulations (CanCon) require minimum percentages of Canadian programming, shaping production incentives.
+
+__Reception, Attention & Amplification:__ CBC audience share declines from dominance (1950s–1960s) to minority position (under 10% by 2005) as cable and satellite fragment audiences; Radio-Canada maintains stronger position in Quebec market.
+
+__Signal Integrity & Noise Load:__ American signals provide alternative information source throughout period, making Canadian broadcasting unable to control information environment; this cross-border signal leakage is both the problem Canadian broadcasting addresses and the limit on its effectiveness.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Canadian broadcasting reflects moderate, pluralist sensibility; content standards attempt balance between expression and community standards.
+
+__Law, Codification & Regulatory Evolution:__ Broadcasting Act (1936, revised 1958, 1968, 1991) provides statutory framework; CRTC regulations implement Canadian content requirements and ownership restrictions.
+
+__Adjudication, Liability & Sanction:__ CRTC adjudicates license applications and renewals, complaints, and regulatory compliance; sanctions include license conditions and, rarely, non-renewal.
+
+__Rights, Protections & Compliance Burden:__ Canadian content regulations impose compliance costs on private broadcasters, who complain of regulatory burden while benefiting from protected market; CBC bears public-service obligations as condition of funding.
+
+__Impunity & Unredressed Wrong:__ Underrepresentation of Indigenous peoples, visible minorities, and regional communities persists through much of period despite formal commitments to diversity; redress comes slowly through employment equity and programming mandates.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Canadian communication scholars (Harold Innis, Marshall McLuhan) develop influential theories of media; McLuhan's work on television's cognitive effects gains international attention.
+
+__Applied Knowledge & Technical Method:__ CBC develops technical capacity for northern transmission and bilingual production; Canadian engineers contribute to satellite and digital broadcasting development.
+
+__Education, Knowledge Stock & Skill Distribution:__ Broadcasting training programs develop at Ryerson (Toronto), Concordia (Montreal), and other institutions; CBC serves as training ground for industry; National Film Board and CBC cross-pollinate documentary expertise.
+
+__Obsolescence & Knowledge Decay:__ Radio production skills decline as television dominates; analog technical knowledge becomes obsolete with digital transition; institutional memory at CBC suffers through repeated staff reductions.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Canadian broadcasting constructs and reinforces national identity distinct from American — emphasizing northern landscape, hockey, multiculturalism, peacekeeping, and social democracy as defining characteristics.
+
+__Legitimating Narrative & Ideology:__ Public broadcasting legitimated through nation-building narrative: without CBC, Canada would be culturally absorbed into the United States; this argument justifies public subsidy and regulatory protection.
+
+__Artistic Expression & Material Culture:__ Canadian television drama, documentary, and comedy develop distinctive styles, often with smaller budgets and more literary sensibility than American equivalents; Anne of Green Gables, The Beachcombers, This Hour Has 22 Minutes, Corner Gas represent different eras.
+
+__Form Exhaustion & Meaning Decay:__ By 2005, the nation-building narrative loses force with younger generations who take Canadian identity for granted and prefer American entertainment; CBC programming often seems dated or insufficiently innovative.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Canadian broadcasting reflects secular, pluralist society while respecting religious diversity; no equivalent to American religious broadcasting develops.
+
+__Ritual, Devotion & Sacred Practice:__ Hockey Night in Canada achieves quasi-sacred status; Remembrance Day broadcasts serve as national civic ritual; francophone religious programming serves Quebec's Catholic heritage.
+
+__Religious Institutions & Doctrinal Authority:__ Religious broadcasting remains marginal; churches have limited presence on airwaves compared to American market.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Immigration brings religious diversity reflected inadequately in broadcasting; secularization proceeds through period, with broadcast reflecting rather than driving this shift.
+
+__Disenchantment & Sacred Discharge:__ The nation-building mission that gave Canadian broadcasting its original purpose loses transcendent quality by 2005; CBC struggles to articulate compelling mandate beyond survival; the cultural sovereignty argument sounds defensive rather than inspiring to generations raised on American programming.
+

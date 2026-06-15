@@ -1,69 +1,139 @@
-# __3200 BCE – 1850 CE__ — Babylon Across Five Millennia
-__Summary:__ A static snapshot of the city of Babylon across its entire documented existence, from modest Akkadian-era settlement through Hammurabi's capital, Kassite administrative center, Neo-Babylonian imperial glory under Nebuchadnezzar II, Persian and Hellenistic decline, abandonment, and symbolic persistence as biblical archetype and archaeological mound; the binding constraint is the city's dependence on irrigation infrastructure and imperial patronage, without which population and function collapse; margin against shock diminishes across the arc as each restoration proves less complete; the snapshot captures the terminal state: an Ottoman-era village (Hillah nearby, the mound itself called Babil) atop buried ruins, the physical city extinct but the name alive in scripture, scholarship, and European imagination awaiting excavation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Located on the Euphrates in central Mesopotamia where river and canal networks permit intensive irrigation; the site commands north-south and east-west routes; surrounding alluvium flat and fertile when watered; friction low within the irrigated zone, high beyond into desert margins.<br><br>
-__Climate Regime & Volatility:__ Hot, arid summers and mild winters throughout the arc; rainfall insufficient for agriculture without irrigation; no major secular climate shifts within the window affect the site directly; drought vulnerability mediated by canal maintenance.<br><br>
-__Hazard Regime & Exposure:__ Euphrates flooding episodic; river course shifts over millennia (Euphrates now several kilometers from the ruins); earthquake risk low; fire hazard in mudbrick construction; conquest the recurrent catastrophic hazard, realized repeatedly.<br><br>
-__Resource & Energy Endowment:__ Clay and bitumen abundant; timber imported from Lebanon and Zagros; stone scarce, imported for monumental construction; the alluvial soil fertile but dependent on irrigation; resource access tracks imperial reach.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban refuse accumulated in tells; salinization from irrigation a long-term degradation; the physical sink adequate for pre-industrial loads; inherited salinization contributes to eventual abandonment.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Urban density elevates pathogen exposure; waterborne disease, malaria from irrigation canals; epidemic outbreaks documented in cuneiform; mortality baseline elevated relative to rural hinterland; no evidence of singular plague decisive to the city's arc.<br><br>
-__Nutrition & Physiological Vitality:__ Grain, dates, fish, and mutton available when supply chains function; palace and temple rations documented; nutritional adequacy correlates with political stability and irrigation maintenance; physiological decline tracks economic contraction.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage contracts documented from Old Babylonian through Neo-Babylonian periods; polygyny among elites; fertility patterns typical of agrarian urbanism; reproductive dynamics not distinctive to this site.<br><br>
-__Demographic Renewal & Density:__ Population peaks perhaps 100,000-200,000 under Nebuchadnezzar II; declines through Hellenistic period; abandonment complete by early Islamic era; Hillah nearby inherits regional population; density at the snapshot's end effectively zero on the ancient site.<br><br>
-__Attrition & Dependency Overhang:__ Standard agrarian-urban dependency load; attrition through warfare, epidemic, and economic collapse recurrent; the final attrition is total abandonment, dependency discharged through emigration to successor settlements.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Irrigated agriculture in hinterland supplies grain and dates; pastoral products from steppe margins; provisioning adequate when infrastructure maintained; collapse of irrigation collapses subsistence and drives emigration.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle throughout; water-lifting devices for irrigation; no significant energy transition across the arc; per-capita work ceiling low and static; energy capture tracks population and institutional investment.<br><br>
-__Labor Organization & Coercion:__ Temple and palace labor systems in antiquity (rations, corvee, some debt bondage); artisan specialization documented; coercion diminishes as the city declines; labor organization dissolves with institutional collapse.<br><br>
-__Production & Surplus Capacity:__ Textile, metallurgical, and craft production documented in cuneiform; agricultural surplus supports urban population and monumental construction at peaks; production capacity contracts with each political disruption; negligible at window's end.<br><br>
-__Storage, Reserves & Buffering:__ Temple and palace granaries documented; private storage in households; reserves adequate for single-year shocks at peaks; reserves depleted and institutions dissolved before abandonment.<br><br>
-__Exchange, Trade & Logistics:__ Major node in Mesopotamian and international trade during Old Babylonian and Neo-Babylonian peaks; Hellenistic decline shifts trade to Seleucia; by Parthian period, Babylon no longer a significant commercial center; logistics infrastructure decayed.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cuneiform contracts document credit, debt, and property transfer; temple loans; merchant partnerships (harranu); monetary functions shift to successor cities; no credit activity at the abandoned site.<br><br>
-__Surplus Extraction & Redistribution:__ Royal taxation, temple tithes, and tribute extraction documented at peaks; redistribution through rations, festivals, and construction wages; extraction and redistribution cease with institutional dissolution.<br><br>
-__Wealth Distribution & Asset Defense:__ Documented inequality between palace, temple, merchant, and commoner households; property defended through written contracts; wealth evacuates with population to successor centers; no asset defense at the ruins.<br><br>
-__Byproducts & Waste Routing:__ Domestic and artisanal waste accumulated in tells; no significant industrial pollution; the archaeological record is the residue of millennia of discard; absorptive capacity was adequate throughout occupation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Neighborhood and kin networks documented in cuneiform contracts; trust radius expands with written documentation; mutual aid through temple charity and family pooling; social fabric dissolves with emigration.<br><br>
-__Stratification, Status & Group Identity:__ Palace, temple, free commoner, and dependent classes documented; ethnic diversity (Akkadian, Amorite, Kassite, Chaldean, Persian, Greek) across the arc; stratification by wealth and legal status; at abandonment, no stratified society remains on site.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal extended families; documented inheritance disputes and adoptions; dowry and bride-price practices; kinship functions transfer to successor communities.<br><br>
-__Civic Association & Self-Organization:__ Temple communities, neighborhood assemblies (puhru), merchant associations documented; associational life dense at peaks; institutions dissolve before abandonment; no civic association at window's end.<br><br>
-__Leisure, Play & Sociability:__ Festivals (Akitu New Year), banquets, and games documented in cuneiform; sociability structured by temple calendar and royal patronage; sociability ceases with population.<br><br>
-__Grievance Channels & Social Discharge:__ Legal adjudication, royal petition, and divine appeal documented; grievance absorbed through institutional channels at peaks; unmetabolized grievance irrelevant to abandoned site.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Royal palace dominates at peaks (Hammurabi, Nebuchadnezzar II); temple of Marduk holds parallel authority; Persian kings crowned at Babylon; Hellenistic and Parthian neglect; no political authority at abandoned site; sovereignty nominal under successive empires.<br><br>
-__Succession & Power Transfer:__ Documented dynastic successions, usurpations, and conquests; transfer often violent (Hittite sack, Persian conquest, Macedonian conquest); no succession problem at window's end because no authority exists.<br><br>
-__Legitimacy & Political Narrative:__ Marduk cult central to Babylonian legitimacy; king as Marduk's representative; Persian and Hellenistic rulers adopt legitimizing rituals selectively; legitimacy discourse extinct with cult and population.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Sophisticated cuneiform bureaucracy at peaks; temple and palace archives document capacity; capacity degrades through Hellenistic and Parthian periods; no administrative function at abandoned site.<br><br>
-__Political Participation & Mobilization:__ Assembly (puhru) documented for legal and ritual functions; elite consultation; mass mobilization for construction and warfare; participation mechanisms extinct with institutions.<br><br>
-__Geopolitical Position & External Relations:__ Capital of Hammurabi's and Nebuchadnezzar's empires; Persian and Macedonian prize; Seleucid and Parthian afterthought; geopolitical significance evaporates with population and trade shifts.<br><br>
-__Coercive Apparatus & Means of Force:__ Royal army, fortifications, and police functions documented at peaks; walls of Nebuchadnezzar among ancient wonders; fortifications decayed and unmanned by Parthian period; no coercive apparatus at window's end.<br><br>
-__Internal Order & Threat Environment:__ Urban order maintained by palace and temple at peaks; crime and disorder documented in legal texts; order irrelevant to abandoned site; the ruins themselves pose no threat environment.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Cuneiform tablets the medium through Neo-Babylonian period; Aramaic documents in Persian period; Greek in Hellenistic; channels decay with institutions; velocity irrelevant to abandoned site; the ruins are silent until modern excavation.<br><br>
-__Record, Storage & Persistence:__ Temple and palace archives preserve records for millennia when buried; Esagila temple archives document continuity; destruction and decay of archives accompanies abandonment; records persist as archaeological deposits awaiting discovery.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions and temple texts frame official discourse; heterodoxy suppressed; discourse norms extinct with literate population; the site produces no new information.<br><br>
-__Reception, Attention & Amplification:__ Literate elite receives and copies texts at peaks; canonical texts amplified through scribal schools; reception ceases with population; external reception (biblical, classical) transmits Babylon's name and reputation independent of the site.<br><br>
-__Signal Integrity & Noise Load:__ Textual transmission introduces errors; colophons track copying; signal degrades through transmission chains; buried tablets preserve original signal; noise load irrelevant to silent ruins.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Hammurabi's code articulates divine justice; Marduk as source of law; shared conscience grounded in documented tradition; moral foundations extinct with community; only the written record remains.<br><br>
-__Law, Codification & Regulatory Evolution:__ Code of Hammurabi the iconic codification; case law documented; Persian and Hellenistic law coexists; codification irrelevant to abandoned site; the code survives as archaeological artifact and scholarly reference.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts, judges, and documented verdicts at peaks; enforcement through palace and temple; adjudication ceases with institutional collapse; no liability assigned at abandoned site.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights documented and defended through contracts; compliance with royal and temple demands documented; rights extinct with claimants; compliance burden zero at abandoned site.<br><br>
-__Impunity & Unredressed Wrong:__ Documented cases of elite impunity and commoner grievance; redress capacity varies with institutional strength; impunity and grievance irrelevant to abandoned site; the documentary record preserves ancient injustices for modern analysis.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Babylonian astronomy and mathematics peaks in Neo-Babylonian and Persian periods; astronomical diaries continue into Seleucid era; paradigm transmission to Greek and Islamic science; inquiry ceases at abandoned site; knowledge persists in transmitted texts.<br><br>
-__Applied Knowledge & Technical Method:__ Irrigation engineering, construction techniques, astronomical computation documented; technique atrophies with institutional decay; applied knowledge irrelevant to ruins; archaeological recovery reconstructs ancient method.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (edubba) train cuneiform literates; knowledge stock concentrated in temple archives; skill distribution narrow; education ceases with institutional collapse; knowledge stock buried until excavation.<br><br>
-__Obsolescence & Knowledge Decay:__ Cuneiform knowledge obsolete and lost by early Common Era; some transmission through Greek intermediaries; most knowledge decays with script extinction; rediscovery awaits 19th-century decipherment; at window's end, Babylon's intellectual heritage is inaccessible rubble.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Enuma Elish, Marduk cult, and creation narratives define Babylonian identity at peaks; biblical reception (Tower of Babel, Babylonian exile, Whore of Babylon) transmits transformed memory; at window's end, Babylon is a name in scripture and classical texts, not a living community.<br><br>
-__Artistic Expression & Material Culture:__ Ishtar Gate, Processional Way, glazed brick ornamentation at Neo-Babylonian peak; artistic production ceases with patronage; material culture decays and is buried; surviving fragments await excavation and museum display.<br><br>
-__Collective Mood & Behavioral Disposition:__ At peaks, civic pride and Marduk-centered piety documented; mood irrelevant to abandoned site; external mood (European Romantic imagination, biblical interpreters) projects meaning onto the silent ruins.<br><br>
-__Form Exhaustion & Meaning Decay:__ Babylonian cultural forms exhausted with population; no internal anomie because no community remains; the name acquires new meaning (biblical archetype of sin and empire) independent of the physical site; form displacement rather than exhaustion.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Marduk as king of gods, Enuma Elish as cosmogonic narrative; polytheistic cosmos with divine order; cosmology extinct with cult; biblical and Quranic reception transmits Babylon as negative exemplar; no living cosmology at the site.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Akitu New Year festival, daily cult offerings, temple liturgies documented; Esagila temple as cosmic center; ritual ceases with priestly departure; no sacred practice at abandoned site; only archaeological traces remain.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple of Marduk institutional and economic center; priesthoods documented; doctrinal authority grounded in temple archives; institutions dissolve by Parthian period; no religious institution at window's end.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Babylonian cult influence traces to Hellenistic syncretism; displaced by Zoroastrian, Christian, and Islamic traditions; Babylon becomes symbol in successor cosmologies (biblical Babylon as evil empire); spiritual function transferred to symbol, not site.<br><br>
-__Disenchantment & Sacred Discharge:__ The site's sacred cosmos extinct with cult; disenchantment inapplicable to abandoned ruins; the name retains sacred charge in biblical tradition; at window's end, the mound is disenchanted rubble awaiting re-enchantment through archaeological discovery and scholarly reconstruction.
+# __3200 BCE – 1850 CE — Babylon Across Five Millennia__
+
+__Summary:__ Babylon rises from a minor Amorite settlement to become the symbolic and often actual center of Mesopotamian civilization, enduring conquest by Kassites, Assyrians, Persians, Greeks, Parthians, and Sasanians before its final abandonment leaves the site as a ruin-field that later Arabic sources remember as a warning and a wonder, the name itself becoming shorthand for imperial grandeur and divine judgment.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Babylon sits on the Euphrates where the two rivers approach most closely, commanding the crossing point and the irrigation networks that feed the southern alluvium; the location is strategic for trade and control but vulnerable to shifts in river course.
+
+__Climate Regime & Volatility:__ The semi-arid climate requires irrigation for agriculture; annual floods from Anatolian snowmelt provide water but also threaten the city when canals fail; multi-century climate shifts correlate with phases of expansion and contraction.
+
+__Hazard Regime & Exposure:__ Flooding, canal breach, and drought threaten cyclically; no major earthquake or volcanic hazard affects the site; the primary physical risks are hydrological.
+
+__Resource & Energy Endowment:__ The site itself has only clay and water; stone must be imported for monumental construction; bitumen from Hit seals waterworks; energy derives from human and animal muscle plus the agricultural surplus the irrigation system generates.
+
+__Waste Absorption & Sink Capacity:__ Urban refuse accumulates in tells; the site layer upon layer rises over millennia; by late antiquity, earlier construction is buried meters deep; in post-abandonment centuries, brick robbing removes much of the built fabric.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Urban density concentrates disease; malaria from canal irrigation, waterborne infections, and epidemic outbreaks impose high baseline mortality; plague in late antiquity and again under Ottoman rule devastates regional populations.
+
+__Nutrition & Physiological Vitality:__ Babylon's population depends on the irrigated agricultural surplus; when the system functions, nutrition is adequate; when it fails, famine follows; the city's fate tracks its hinterland's productivity.
+
+__Care, Healing & Recovery Capacity:__ Babylonian medicine—documented in Akkadian medical texts—represents sophisticated empirical practice; temples and later institutions provide some care; capacity does not match epidemic peaks.
+
+__Reproductive Biology & Pairing Dynamics:__ Urban populations require immigration to offset mortality deficits; Babylon draws population from its hinterland throughout its active periods.
+
+__Demographic Renewal & Density:__ Population estimates range from tens of thousands in modest phases to perhaps 200,000 at Nebuchadnezzar II's peak; decline is gradual under Seleucids (rivaled by Seleucia), then precipitous under Parthians; by Sasanian times the site is largely abandoned.
+
+__Attrition & Dependency Overhang:__ Each conquest produces casualties and displacement; the accumulated dependent populations of widows, orphans, and refugees burden the city's resources during recovery phases.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The city depends on irrigated agriculture within a 50-kilometer radius; temple and palace estates organize production; when irrigation fails or is disrupted by war, the city cannot feed itself.
+
+__Energy Capture & Conversion:__ Human and animal muscle, supplemented by the hydraulic energy implicit in canal management; no wind or water power for industrial purposes; the energy ceiling is low but stable when irrigation functions.
+
+__Labor Organization & Coercion:__ Temple and palace economies mobilize labor through ration systems, debt bondage, and corvée; slavery exists but is not the primary labor form; free labor expands in commercial phases.
+
+__Production & Surplus Capacity:__ Babylon exports grain, dates, textiles, and finished goods; craft production concentrates in urban quarters; surplus capacity fluctuates with political stability and irrigation maintenance.
+
+__Storage, Reserves & Buffering:__ Temple granaries and royal treasuries accumulate reserves; the Esagila temple complex manages enormous resources; resilience depends on institutional continuity.
+
+__Exchange, Trade & Logistics:__ Babylon sits at the crossroads of routes linking the Gulf to the Mediterranean and Iran to Arabia; its commercial function often outlasts its political centrality; the Egibi family archives document commercial operations across centuries.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver serves as value standard; commercial instruments (loans, partnerships, promissory notes) enable deferred exchange; Babylon develops sophisticated financial techniques.
+
+__Surplus Extraction & Redistribution:__ Temple economies collect offerings and rents; royal administrations impose tribute; taxation in goods and labor supports the institutional apparatus.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in temples, palace, and merchant families; property deeds and contracts defend claims; conquest redistributes assets to new elites.
+
+__Byproducts & Waste Routing:__ Urban refuse, workshop waste, and construction debris accumulate; canal dredging deposits silt; the physical residue of occupation stratifies the site.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Babylonian family structure is patrilineal; inheritance follows legal codes; marriage contracts define property relations; elite families maintain identity across generations.
+
+__Association & Mutual Aid:__ Professional associations organize craftsmen; neighborhood structures coordinate local affairs; temple communities provide ritual and social identity.
+
+__Leisure, Play & Sociability:__ Festivals—the New Year Akitu festival is the most prominent—structure social time; taverns and gathering places provide daily sociability; board games appear in the archaeological record.
+
+__Stratification, Status & Group Structure:__ Free citizens (awilum), commoners (mushkenum), and slaves form the basic stratification; priests, scribes, and merchants occupy distinct positions; foreign communities (Judean exiles, Greek settlers) maintain separate identities.
+
+__Administrative Capacity & Institutional Integrity:__ Temple administrations (Esagila, Ezida) maintain continuity across political changes, keeping records and managing property even as rulers come and go; royal administrations vary in capacity; the city often governs itself through assemblies of notables.
+
+__Coercive Apparatus & Means of Force:__ City walls—rebuilt repeatedly, most famously by Nebuchadnezzar II—provide defense; garrison forces vary with political status; the city is conquered repeatedly, its walls breached or bypassed.
+
+__Discharge, Disorder & Decay:__ Conquest brings massacre and deportation (Sennacherib's destruction in 689 BCE, partially reversed by Esarhaddon); urban decline under Parthians and Sasanians reflects irrigation failure and competition from nearby capitals; by 1000 CE the site is a ruin.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Babylonian pride in the city is evident in literature; the sentiment survives conquest by maintaining civic rituals; despair follows destruction, hope follows rebuilding.
+
+__Leadership & Personal Authority:__ The king as shepherd of Marduk's city holds symbolic centrality; foreign rulers (Cyrus, Alexander) seek legitimacy by honoring Babylon's gods; loss of royal residence (under Seleucids) erodes the city's emotional claim.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy derives from proper performance of the Akitu festival and maintenance of Marduk's cult; rulers who neglect these forfeit Babylonian allegiance.
+
+__Political Will & Collective Resolve:__ Babylon rebels repeatedly against Assyrian and Persian rule; the will to resist fluctuates with prospects of success; eventual acquiescence reflects exhaustion.
+
+__External Relations & Posture:__ Babylon is more often subject than sovereign in the window's later millennia; its posture is defensive, seeking to preserve autonomy within empire.
+
+__Disaffection, Apathy & Spent Will:__ The final abandonment reflects spent will—no population remains to resist or rebuild; the last cuneiform astronomical observations (75 CE) mark the end of active Babylonian intellectual life.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Babylonian (Akkadian) serves as the learned language even after Aramaic displaces it for everyday use; literacy remains restricted to scribal specialists.
+
+__Channels & Transmission Velocity:__ The city's location at trade crossroads makes it an information hub; news, goods, and ideas flow through; transmission velocity matches transport speed.
+
+__Record, Storage & Persistence:__ Temple and palace archives accumulate over millennia; the Esagila archives preserve astronomical observations, ritual texts, and commercial records; much survives conquest because clay tablets are durable.
+
+__Framing, Censorship & Discourse Norms:__ Royal inscriptions frame events favorably; temple texts follow genre conventions; what is recorded reflects institutional interests.
+
+__Reception, Attention & Amplification:__ Religious festivals amplify cultic texts; royal proclamations reach urban audiences; the illiterate majority receives information through oral performance.
+
+__Signal Integrity & Noise Load:__ Copying errors accumulate; variant texts proliferate; scholarly colophons attempt to track transmission; by late antiquity, much learned knowledge circulates in corrupted forms.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The Code of Hammurabi—displayed at Babylon and later carried off to Susa—exemplifies Babylonian legal thought; justice is conceived as divine mandate and royal duty.
+
+__Law, Codification & Regulatory Evolution:__ Successive law codes build on earlier models; commercial law develops through practice and precedent; the legal tradition is cumulative.
+
+__Adjudication, Liability & Sanction:__ Courts operate at temple and palace; commercial disputes are adjudicated by assemblies; contracts specify arbitration procedures.
+
+__Rights, Protections & Compliance Burden:__ Property rights are protected by deed and contract; women hold property and conduct business; slaves have limited protections; compliance burden falls on the literate.
+
+__Impunity & Unredressed Wrong:__ Conquering armies enjoy impunity; Sennacherib's destruction of Babylon (689 BCE) goes unpunished until Assyria itself falls; the scale of unredressed wrong accumulates.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Babylonian astronomy develops predictive mathematical models; the zodiac, the 360-degree circle, and sexagesimal notation originate here; omen literature systematizes empirical observation within a divinatory framework.
+
+__Applied Knowledge & Technical Method:__ Irrigation engineering, brick construction, glaze and glass production, and textile manufacture represent accumulated technical knowledge; medical texts document diagnostic and therapeutic method.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools transmit the curriculum; learned families maintain specialized knowledge (astronomy, divination, medicine); the knowledge stock concentrates in institutions that survive political change.
+
+__Obsolescence & Knowledge Decay:__ Sumerian persists as a learned language for two millennia after it ceases to be spoken; cuneiform persists for centuries after Aramaic displaces Akkadian for everyday use; eventual obsolescence erases active transmission, leaving only the buried archive.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Enuma Elish, read annually at the Akitu festival, places Babylon at the cosmic center; Marduk's city is the axis mundi; this identity persists through conquest and is eventually inherited by successor cultures as "Babylon" the symbol.
+
+__Legitimating Narrative & Ideology:__ Rulers legitimate themselves by rebuilding temples, maintaining cult, and claiming Marduk's favor; foreign conquerors (Cyrus, Alexander) adopt this idiom.
+
+__Artistic Expression & Material Culture:__ The Ishtar Gate, the ziggurat Etemenanki, the Processional Way—Nebuchadnezzar II's constructions define the Babylonian visual idiom; glazed brick, lion and dragon motifs, and monumental scale persist in memory long after the structures decay.
+
+__Form Exhaustion & Meaning Decay:__ By late antiquity, the forms are remembered but no longer renewed; the site becomes a brick quarry; symbolic Babylon persists in Jewish, Christian, and Islamic literature while actual Babylon crumbles.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The Mesopotamian cosmos places humans as servants of the gods, with fate determined by divine assemblies; this outlook persists through Babylon's active periods, yielding later to Zoroastrian and then Islamic cosmologies in the region.
+
+__Ritual, Devotion & Sacred Practice:__ The Akitu festival—twelve days of ritual at the New Year—anchors civic religion; daily temple service maintains divine presence; the ritual system requires continuous institutional support.
+
+__Religious Institutions & Doctrinal Authority:__ The Esagila temple of Marduk is the central institution; its priests maintain doctrine, property, and records; institutional continuity outlasts political change until final abandonment.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Babylonian religion absorbs and is absorbed—Sumerian deities become Babylonian, Greek settlers identify Marduk with Zeus, Jews in exile develop their tradition in dialogue with Babylonian thought; the influence diffuses even as the original tradition fades.
+
+__Disenchantment & Sacred Discharge:__ The temple cult does not survive the city's abandonment; Marduk has no worshippers by Sasanian times; the sacred discharge is complete—not secularization but extinction, leaving only the textual and archaeological residue.

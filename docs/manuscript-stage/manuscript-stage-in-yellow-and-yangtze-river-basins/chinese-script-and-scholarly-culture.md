@@ -1,69 +1,139 @@
-# __1200 BCE – 1900 CE__ — Chinese Script and Scholarly Culture
-__Summary:__ Across three millennia the Chinese logographic script evolves from Shang oracle bones through bronze, bamboo, silk, and paper while remaining structurally continuous, and a scholar-official class crystallizes around textual mastery — copying, memorizing, composing, examining — making manuscript the medium through which the state recruits administrators, transmits canonical knowledge, and constitutes elite identity; the system reaches maximum elaboration under Ming-Qing examination orthodoxy before yielding to print and Western intrusion.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Yellow and Yangtze basins define the core zone; spatial friction shapes regional script variants before Qin unification; Grand Canal and courier routes carry documents across the empire; geographic unity maintained through textual standardization.<br><br>
-__Climate Regime & Volatility:__ Monsoon climate affects bamboo and paper production cycles; humidity in the south challenges document preservation; loess caves in the northwest (Dunhuang) preserve manuscripts through aridity; climate regime frames preservation geography.<br><br>
-__Hazard Regime & Exposure:__ Floods, fires, and warfare destroy archives repeatedly — Qin burning, Han palace fires, Taiping devastation — but distributed copying and stone inscription provide redundancy; hazard exposure high, buffered by replication.<br><br>
-__Resource & Energy Endowment:__ Bamboo abundant in south; mulberry bark, hemp, and rags supply papermaking; ink from pine soot; brush from animal hair; material endowment adequate throughout, paper increasingly cheap after Han.<br><br>
-__Waste Absorption & Sink Capacity:__ Writing waste (spoiled paper, worn brushes) biodegradable and minimal; ink production creates localized pollution near manufacturing sites; overall waste load negligible relative to sink capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Scholar-officials face urban disease exposure but enjoy better nutrition and housing than commoners; examination halls crowded and sometimes deadly; overall literati mortality lower than population average.<br><br>
-__Nutrition & Physiological Vitality:__ Elite households provision adequately; student candidates often stressed and malnourished during examination preparation; successful scholars enjoy comfortable material conditions; vitality tracks class position.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Examination success enhances marriage prospects; successful scholars attract concubines and produce more offspring; failed candidates often delayed or unable to marry; selection pressure favors examination aptitude.<br><br>
-__Demographic Renewal & Density:__ Literati class grows proportionally with population but examination quotas constrain official entry; ratio of candidates to degrees worsens over time; demographic pressure on system intensifies through Ming-Qing.<br><br>
-__Attrition & Dependency Overhang:__ Failed examination candidates accumulate as underemployed literati — teachers, secretaries, local clerks — contributing skills but also frustration; dependency on lineage support; system produces excess educated men.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Scholar households typically above subsistence through landholding, stipends, or teaching income; examination preparation requires years of non-productive study subsidized by family; floor secure but investment heavy.<br><br>
-__Energy Capture & Conversion:__ Manuscript production requires only human energy — writing, copying, binding — with minimal tool complexity; brush, ink, and paper technology stable; no energy bottleneck constrains textual output.<br><br>
-__Labor Organization & Coercion:__ Professional copyists produce manuscripts for commerce and administration; monastic scriptoria copy sutras; household servants assist scholars; labor organization craft-based, minimally coercive, specialized.<br><br>
-__Production & Surplus Capacity:__ Manuscript production scales with trained copyist labor; imperial workshops, commercial publishers (after printing), and private scholars all produce; output grows with literacy and demand; no hard ceiling.<br><br>
-__Storage, Reserves & Buffering:__ Imperial libraries, lineage collections, private libraries, and monastic holdings accumulate manuscripts; Four Treasuries project (1770s–80s) represents maximum imperial bibliographic consolidation; reserves deep but distributed.<br><br>
-__Exchange, Trade & Logistics:__ Book markets exist from Song onward; manuscript circulation through lending, copying, gift; commercial publishing (printing) supplements manuscript; logistics adequate within transport network.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Rare manuscripts hold collectible value; examination success converts to official salary and landholding; educational investment deferred across generations; textual mastery as human capital formation.<br><br>
-__Surplus Extraction & Redistribution:__ State extracts surplus to fund examinations, academies, and imperial publishing; lineages invest in education; redistribution through scholarships and official salaries channels surplus toward textual production.<br><br>
-__Wealth Distribution & Asset Defense:__ Successful examination creates wealth through office; landholding gentry families invest in sons' education; manuscript collections as inheritable assets; wealth follows textual credential.<br><br>
-__Byproducts & Waste Routing:__ Paper scraps recycled or burned ritually (reverence for written word); ink waste negligible; no significant externalities; waste routing unproblematic.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Examination cohorts form lifelong networks (tongnianshu); teacher-student bonds create lineages of obligation; literati trust networks high; mutual aid within scholarly community robust.<br><br>
-__Stratification, Status & Group Identity:__ Scholar-officials (shi) occupy apex of traditional four-class hierarchy; examination degree defines status legally and socially; Manchu-Han distinction overlays scholarly hierarchy in Qing; boundaries relatively permeable through examination.<br><br>
-__Kinship, Family & Inheritance:__ Lineage organizations fund education for promising sons; inheritance includes book collections and scholarly reputation; successful examination honors ancestors; family and scholarship deeply intertwined.<br><br>
-__Civic Association & Self-Organization:__ Private academies (shuyuan) proliferate from Song; poetry societies, examination study groups, and scholarly associations provide dense associational fabric; self-organization high among literati.<br><br>
-__Leisure, Play & Sociability:__ Calligraphy, painting, poetry composition, and connoisseurship define elite leisure; gatherings for poetry, music, and wine; sociability structured through shared cultural competence.<br><br>
-__Grievance Channels & Social Discharge:__ Failed candidates petition, teach, or turn to heterodox movements; literati memorials channel elite grievance upward; poetry and satire provide expressive outlet; discharge channels adequate but system accumulates frustrated candidates.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Emperor holds supreme authority but governs through scholar-officials selected by examination; Grand Secretariat and Six Ministries staff bureaucracy; power concentrated but exercised through literate administrators.<br><br>
-__Succession & Power Transfer:__ Dynastic succession separate from bureaucratic recruitment; official positions not inherited; examination provides meritocratic (within elite) renewal each generation; transfer of administrative power routinized.<br><br>
-__Legitimacy & Political Narrative:__ Confucian ideology legitimates both emperor (Mandate of Heaven) and scholar-official (moral cultivation, classical learning); examination success demonstrates virtue; legitimacy tightly bound to textual mastery.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Examination produces literate, ideologically aligned officials; documentary administration enables empire-wide coordination; corruption exists but system functional; capacity high by pre-modern standards.<br><br>
-__Political Participation & Mobilization:__ Examination opens participation to non-hereditary elite; degree-holders enjoy tax exemptions and legal protections; political voice channeled through memorial system; participation structured through textual competence.<br><br>
-__Geopolitical Position & External Relations:__ Tributary system positions China as civilizational center; neighboring states (Korea, Vietnam, Japan) adopt Chinese script and examination models; cultural influence radiates outward through shared textual tradition.<br><br>
-__Coercive Apparatus & Means of Force:__ Military subordinate to civil authority; examinations select civil not military officials (separate military examination less prestigious); coercive apparatus controlled by textually credentialed bureaucracy.<br><br>
-__Internal Order & Threat Environment:__ Examination provides elite cooptation, reducing rebellion risk; failed candidates sometimes join heterodox movements; internal order maintained partly through examination's social safety valve; threat generally contained.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Courier system carries official documents; private correspondence circulates among literati; transmission velocity limited by physical transport but reliable within system; scope empire-wide for official traffic.<br><br>
-__Record, Storage & Persistence:__ Imperial archives, Veritable Records, stone inscriptions, and distributed copying create redundancy; destruction events (wars, fires) cause losses but core texts survive through replication; persistence high for canonical materials.<br><br>
-__Framing, Censorship & Discourse Norms:__ Examination curriculum defines orthodox interpretation; heterodox texts suppressed (Qin burning, literary inquisitions); discourse norms narrow within official channel but private circulation continues; censorship episodically severe.<br><br>
-__Reception, Attention & Amplification:__ Examination candidates memorize canonical texts; commentarial tradition amplifies and standardizes interpretation; examination essays circulate as models; attention concentrated on examination-relevant corpus.<br><br>
-__Signal Integrity & Noise Load:__ Canonical texts textually stable through careful copying and comparison; variant readings tracked by scholars; interpolations and corruptions identified by evidential scholarship; signal integrity actively maintained.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Confucian ethics — benevolence, righteousness, ritual propriety — define moral foundations; scholar-officials expected to embody and apply moral principles; justice conceived as moral order maintenance.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal codes (Tang Code, Ming-Qing Code) compiled and transmitted as texts; precedent collections supplement codes; codification stable with accretion of substatutes; evolution slow within dynastic periods.<br><br>
-__Adjudication, Enforcement & Liability:__ Scholar-officials serve as magistrates and judges; legal training informal, through apprenticeship and handbooks; textual documentation of cases required; adjudication dependent on literate administrators.<br><br>
-__Rights, Protections & Compliance Burden:__ Degree-holders enjoy legal privileges (exemption from corporal punishment); commoners face heavier compliance burden; protection correlates with textual credential; system protects those it selects.<br><br>
-__Impunity & Unredressed Wrong:__ Official misconduct sometimes unpunished; censorate provides internal check; impeachment through memorial system; impunity exists but mechanisms for accountability present; redress imperfect but functional.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Confucian classics provide foundational paradigm; commentarial and exegetical traditions elaborate interpretation; Neo-Confucian synthesis (Song-Ming) and evidential scholarship (Qing) represent major developments; inquiry text-centered throughout.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural, medical, and artisanal knowledge transmitted through specialized texts; examination curriculum excludes technical subjects; practical knowledge runs parallel to classical learning; method varies by domain.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Private tutoring, lineage schools, and academies teach classical curriculum; literacy perhaps 10–20 percent of males, concentrated in elite; knowledge stock deep but narrowly distributed; skill concentrated in examination-trained cohort.<br><br>
-__Obsolescence & Knowledge Decay:__ Canonical texts preserved; technical knowledge more vulnerable to transmission breaks; evidential scholarship recovers corrupted readings; obsolescence managed through active textual maintenance; decay rate low for valued texts.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Continuous civilization narrative — sage kings, dynastic succession, literary tradition — constitutes foundational identity; script continuity across three millennia anchors cultural memory; identity tightly bound to textual tradition.<br><br>
-__Artistic Expression & Material Culture:__ Calligraphy ranks as highest art; painting integrates poetry and inscription; material culture (furniture, ceramics, textiles) reflects literati aesthetics; artistic expression inseparable from textual mastery.<br><br>
-__Collective Mood & Behavioral Disposition:__ Scholarly culture valorizes restraint, cultivation, and long-term investment; examination pressure creates anxiety; successful scholars display cultivated ease; mood varies with examination and career outcomes.<br><br>
-__Form Exhaustion & Meaning Decay:__ Eight-legged essay form ossifies by late Ming-Qing; examination writing becomes formulaic; critics denounce empty formalism; meaning decay evident in late-period examination culture but canonical texts retain authority.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Confucian cosmology emphasizes moral order, human perfectibility, and continuity with ancestors; Neo-Confucian metaphysics adds cosmological dimension; outlook this-worldly but oriented toward moral cultivation and posthumous reputation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ancestor worship central; Confucian ritual (sacrifices, ceremonies) performed by officials and families; Buddhist and Daoist practices layered beneath; devotion expressed through ritual correctness and textual study.<br><br>
-__Religious Institutions & Doctrinal Authority:__ State cult and Confucian temples official; Buddhist and Daoist institutions tolerated but subordinate; examination orthodoxy defines doctrinal authority for governance; religious pluralism under Confucian umbrella.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism and Daoism absorbed into cultural synthesis; Neo-Confucian response to Buddhism creates new orthodoxy; Christianity arrives late, contained in treaty ports; dominant cosmology stable with syncretic adaptations.<br><br>
-__Disenchantment & Sacred Discharge:__ Confucian rationalism skeptical of popular religion; evidential scholars emphasize textual criticism over metaphysics; disenchantment present in elite circles but ancestor worship and moral cosmology retain grip; sacred need discharged through ritual and scholarship.
+# __1200 BCE – 1900 CE — Chinese Script and Scholarly Culture__
+
+Across three millennia the logographic Chinese script evolves from royal divination records to the administrative and literary medium of successive empires, generating a manuscript culture in which mastery of written forms gates access to office, defines elite identity, and accumulates a textual canon that outlives any dynasty; the binding constraint throughout is the high acquisition cost of literacy in a script of thousands of graphs, which restricts the scholar class to a small fraction of the population while granting that fraction immense prestige and administrative monopoly.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Yellow and Yangtze basins provide the spatial frame within which the script spreads, with capitals shifting from Anyang to Chang'an to Luoyang to Kaifeng to Hangzhou to Beijing; mountains and distances create regional isolation that would fragment a phonetic script but the logographic system transcends dialect, allowing a magistrate from Guangdong to administer in Sichuan through shared written forms; the Grand Canal (Sui onward) accelerates the circulation of books and officials along the north-south axis.
+
+__Climate Regime & Volatility:__ Paper production depends on water and fiber crops (hemp, mulberry bark, bamboo); the humid south favors papermaking while the dry north preserves manuscripts better; climate oscillations affect agricultural surplus available for scribal and scholarly activity, with cold periods correlating with dynastic collapse and textual loss.
+
+__Hazard Regime & Exposure:__ Fire destroys libraries repeatedly (the Qin burning, the sack of Luoyang 189–190 CE, the An Lushan destruction of Chang'an, the Southern Song loss to Mongol invasion); flood damages archives in the Yellow River corridor; manuscript culture develops copying and dispersal as a hedge against localized destruction.
+
+__Resource & Energy Endowment:__ Bronze for casting vessel inscriptions requires tin and copper from dispersed sources; bamboo for strips grows abundantly in the Yangtze basin; silk is expensive but available; paper production (post-105 CE traditional date) requires only fiber and water, democratizing the material basis of writing; ink production uses pine soot and animal glue, both widely available.
+
+__Waste Absorption & Sink Capacity:__ Discarded bamboo strips rot quickly in humid conditions; paper decays but survives in dry tombs and caves (Dunhuang manuscripts preserved in arid Gansu); the waste of superseded copies is absorbed by the physical environment without significant residue, though the cultural loss of lost texts is immense.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Scholars form an elite stratum whose mortality baseline is lower than peasant norms due to better nutrition and housing; plague and epidemic nonetheless strike literate classes during dynastic collapses (the 3rd-century plagues, the mid-14th-century Black Death); life expectancy for successful examination graduates runs perhaps fifty to sixty years, allowing for long scholarly careers.
+
+__Nutrition & Physiological Vitality:__ The scholar-gentry enjoy dietary abundance relative to the peasantry; examination preparation requires sustained concentration possible only with adequate nutrition; the sedentary lifestyle of study produces characteristic ailments (poor eyesight, digestive troubles) noted in medical literature.
+
+__Care, Healing & Recovery Capacity:__ Scholars have access to educated physicians and documented pharmacopoeias; medical texts accumulate within the manuscript tradition; the literate elite can consult written prescriptions, giving them an advantage in care that reinforces class boundaries.
+
+__Reproductive Biology & Pairing Dynamics:__ Examination success enhances marriage prospects; successful scholars marry young and take concubines; elite families practice strategies (cousin marriage, adoption) to concentrate scholarly talent and transmit advantage; gender exclusion from examination deprives half the population of formal literacy pathways.
+
+__Demographic Renewal & Density:__ The scholar class remains a small fraction (perhaps one to two percent of males) across all periods; population growth expands the absolute number of literates but also intensifies competition for limited degree slots; the examination system expands quotas periodically (Song, Ming) to accommodate demographic pressure.
+
+__Attrition & Dependency Overhang:__ Failed examination candidates form a frustrated cohort that sometimes turns to teaching, litigation brokering, or rebellion; widowed scholar families depend on clan support; the accumulation of superannuated degree-holders creates sinecure problems in late dynastic periods.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Scholars depend on landed income, official salaries, or teaching fees; the examination system requires years of unproductive study, possible only for families with surplus; poor but talented students depend on patronage, clan support, or Buddhist monastery schools.
+
+__Energy Capture & Conversion:__ Manuscript production consumes little energy beyond human labor; calligraphy requires controlled brush movements sustained by trained muscles; the workshop production of paper and ink involves water power (for paper pulping) but remains pre-industrial.
+
+__Labor Organization & Coercion:__ Copyists range from monastic scribes to commercial employees; examination essay production is individual and non-transferable; the compilation of encyclopedias and collectanea (Ming-Qing) employs hundreds of scholars in coordinated projects, anticipating bureaucratic knowledge work.
+
+__Production & Surplus Capacity:__ Manuscript copying is slow; a skilled copyist produces perhaps one to two thousand characters per hour; the invention of woodblock printing (Tang) and movable type (Song) accelerates production, but manuscript remains important for personal correspondence, examination essays, and unpublished scholarship through 1900.
+
+__Storage, Reserves & Buffering:__ Imperial libraries accumulate reserves of texts; the Han imperial library, the Sui-Tang Jixian Academy, the Song imperial collections, the Ming Yongle Dadian (22,877 volumes), the Qing Siku Quanshu (36,000 volumes) represent massive investments in textual storage; private libraries buffer against imperial loss.
+
+__Exchange, Trade & Logistics:__ Book markets exist from Han onward; commercial publishing (Song) creates a trade in examination aids, fiction, and reference works; scholars circulate manuscripts within correspondence networks; the book trade follows commercial routes, concentrating in Kaifeng, Hangzhou, Suzhou, and Beijing.
+
+__Value Storage, Credit & Deferred Exchange:__ Rare manuscripts and fine calligraphy function as stores of value; examination degrees convert into office and income; the investment in education represents deferred exchange — years of study for lifetime returns.
+
+__Surplus Extraction & Redistribution:__ The state extracts surplus through taxation to fund the imperial library, the examination system, and official salaries; scholarly activity is indirectly subsidized by the agrarian base; the redistribution flows through examination success to office and back to land through official purchases.
+
+__Wealth Distribution & Asset Defense:__ Scholarly families accumulate land and texts across generations; lineage trusts (yizhuang) fund clan education; calligraphy collections and libraries represent defensible assets less vulnerable to confiscation than liquid wealth.
+
+__Byproducts & Waste Routing:__ Superseded manuscripts become scrap; wastepaper is recycled into new paper or used for wrapping; the cultural waste of lost works — texts mentioned but not surviving — accumulates silently across millennia.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Scholarly families transmit advantage through education, libraries, and marriage connections; eldest sons inherit land but all sons share in education investment; adoption and uxorilocal marriage preserve scholarly lineages without male heirs; clans maintain ancestral halls where examination successes are commemorated.
+
+__Association & Mutual Aid:__ Examination candidates form study groups and literary societies; alumni of the same examination year (tongnianjuan) create lifelong networks; academies (shuyuan) provide institutional settings for scholarly association; native-place associations (huiguan) support sojourning scholars.
+
+__Leisure, Play & Sociability:__ Scholarly sociability centers on poetry composition, calligraphy appreciation, and antiquarian collecting; drinking games test literary memory; garden culture provides settings for refined leisure; the Four Arts (qin, qi, shu, hua — zither, chess, calligraphy, painting) define gentlemanly accomplishment.
+
+__Stratification, Status & Group Structure:__ The examination system creates a formal hierarchy: shengyuan (county graduate), juren (provincial graduate), jinshi (metropolitan graduate); degree status trumps wealth in social precedence; the gentry (shenshi) form a distinct stratum between officials and commoners, defined by literary cultivation rather than birth.
+
+__Administrative Capacity & Institutional Integrity:__ The examination system selects officials and reproduces the administrative elite; the Imperial Academy (Guozijian) and provincial schools train candidates; the Hanlin Academy houses the most distinguished scholars; the integrity of the system depends on preventing cheating, which elaborate procedures (sealed papers, recopied examinations) attempt to ensure.
+
+__Coercive Apparatus & Means of Force:__ Scholars are exempt from corporal punishment and corvée; the examination system channels elite ambition into textual competition rather than military rivalry; military examinations exist but confer lower prestige; the pen, not the sword, defines elite masculinity in the mature system.
+
+__Discharge, Disorder & Decay:__ Failed candidates generate resentment; examination fraud scandals periodically erupt; the accumulation of degree-holders without office creates a frustrated stratum; late-dynastic periods see examination standards decline and corruption increase, contributing to dynastic collapse.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Reverence for learning (zhongwen) permeates elite culture; examination anxiety shapes family emotional life; success brings intense joy, failure deep shame; the emotional investment in scholarship creates stakes that bind families to the system across generations.
+
+__Leadership & Personal Authority:__ Eminent scholars command respect beyond their official positions; calligraphers and poets become cultural celebrities; the great masters — Confucius, Wang Xizhi, Du Fu, Zhu Xi — acquire quasi-sacred authority as models for emulation.
+
+__Legitimacy as Lived Allegiance:__ The examination system legitimates the imperial order by offering commoners (in principle) access to elite status; belief in meritocracy sustains allegiance even when practice falls short; the Confucian canon provides the ideological content that officials are trained to internalize.
+
+__Political Will & Collective Resolve:__ Scholarly opinion constrains imperial action through memorials and remonstrance; the collective will of the literati can block reform (as in the Late Ming Donglin movement) or demand it (as in the 1898 reform movement); the examination culture creates a dispersed but cohesive political class.
+
+__External Relations & Posture:__ The script and examination system spread to Korea, Vietnam, and Japan, creating a Sinographic cultural sphere; Chinese scholars regard neighbors who adopt the script as partially civilized; the system's prestige derives partly from this regional dominance.
+
+__Disaffection, Apathy & Spent Will:__ Repeated examination failure produces despair and sometimes madness (the famous case of Kong Yiji); late-dynastic periods see cynicism about examination meritocracy; by 1900 reformers advocate abolishing the system as an obstacle to modernization, representing a collapse of faith in the institution that had structured elite will for a millennium.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The logographic script requires memorization of thousands of graphs, restricting full literacy to a small elite; semi-literacy (functional reading of simple documents) extends somewhat further; the script's independence from phonetics allows it to transcend dialect, creating a unified reading public across mutually unintelligible speech communities.
+
+__Channels & Transmission Velocity:__ Manuscripts circulate slowly through personal networks, commercial book trade, and official distribution; the imperial post carries official documents; examination results are published and disseminated; woodblock printing (Tang onward) accelerates transmission while manuscript remains important for informal circulation and unpublished work.
+
+__Record, Storage & Persistence:__ The manuscript tradition develops sophisticated preservation techniques: copying, collation, commentary; the Standard Histories and Collected Statutes provide official records that persist across dynastic transitions; Dunhuang cave library (sealed c. 1000 CE, opened 1900) demonstrates millennium-scale survival in favorable conditions; the Siku Quanshu represents the culmination of Qing bibliographic scholarship.
+
+__Framing, Censorship & Discourse Norms:__ The Qin book burning (213 BCE) establishes the precedent of state control over texts; later dynasties maintain banned-book lists and literary inquisitions (especially Qing); the examination curriculum frames acceptable discourse; self-censorship operates within understood limits.
+
+__Reception, Attention & Amplification:__ The examination system directs elite attention to a narrow canon (Four Books, Five Classics); successful examination essays circulate as models; famous texts are memorized and quoted; amplification operates through the prestige economy of scholarly reputation.
+
+__Signal Integrity & Noise Load:__ Manuscript transmission introduces copying errors (the discipline of textual criticism develops to address this); the proliferation of commentaries creates interpretive noise; the kaozheng (evidential research) movement (Qing) represents a systematic effort to restore signal integrity to corrupted texts.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confucian ethics provide the moral framework: filial piety, loyalty, benevolence, righteousness; the examination system tests moral character through essay content; the scholar-official is supposed to embody moral cultivation, not merely technical competence.
+
+__Law, Codification & Regulatory Evolution:__ The legal codes (Tang Code, Ming Code, Qing Code) are written and administered by examination graduates; the law remains subordinate to moral exhortation in Confucian theory but operates effectively in practice; scholars serve as magistrates who combine administrative, judicial, and moral functions.
+
+__Adjudication, Liability & Sanction:__ Magistrates adjudicate disputes using written codes, precedents, and Confucian principles; the examination system includes penalties for cheating (permanent disqualification, corporal punishment); scholarly reputation adjudicates disputes over interpretation and attribution.
+
+__Rights, Protections & Compliance Burden:__ Degree-holders enjoy legal privileges (exemption from corporal punishment, reduced taxes); scholarship confers a kind of social right to respect; compliance with examination requirements burdens families for years.
+
+__Impunity & Unredressed Wrong:__ Powerful officials sometimes escape punishment; plagiarism and examination fraud go undetected; the gap between Confucian ideals and official behavior is a constant theme of remonstrance; by 1900 the system's accumulated wrongs fuel demands for abolition.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Chinese intellectual history proceeds through successive paradigms: cosmological correlativism (Han), Buddhist-influenced metaphysics (Tang-Song), Neo-Confucian synthesis (Song onward), evidential scholarship (Qing); the manuscript tradition accumulates the record of these paradigm shifts.
+
+__Applied Knowledge & Technical Method:__ Scholarly knowledge includes practical arts: calligraphy, poetry composition, administrative prose; technical knowledge (agriculture, medicine, mathematics) circulates in manuscript form but holds lower prestige than canonical learning; the examination system does not test practical skills.
+
+__Education, Knowledge Stock & Skill Distribution:__ The educational system runs from village tutors through county schools to provincial academies to the Imperial Academy; the knowledge stock accumulates in libraries and in the trained memories of scholars; skill distribution is highly unequal, with full literacy concentrated in the gentry class.
+
+__Obsolescence & Knowledge Decay:__ Lost texts are mourned and sometimes reconstructed from quotations; superseded commentaries persist in the record, creating interpretive archaeology; the evidential scholarship movement represents a systematic effort to recover what has decayed; by 1900 the entire classical curriculum is arguably obsolescent relative to the needs of a modernizing state.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The foundational identity of the scholar class derives from the Sage-Kings of antiquity (Yao, Shun, Yu) and the cultural heroes who established the canon (Confucius, the Duke of Zhou); memory of the great masters structures scholarly aspiration; the examination system institutionalizes this collective memory as the content of elite formation.
+
+__Legitimating Narrative & Ideology:__ The Confucian narrative — that good government requires moral cultivation, that moral cultivation requires classical learning, that classical learning is preserved in texts — legitimates the entire system; this narrative survives dynastic changes and foreign conquest (Yuan, Qing) because conquerors adopt it.
+
+__Artistic Expression & Material Culture:__ Calligraphy ranks as the highest art form, a direct inscription of scholarly cultivation; painting, poetry, and prose compose the "three perfections"; material culture includes the scholar's studio with its four treasures (brush, ink, paper, inkstone); collecting and connoisseurship define elite taste.
+
+__Form Exhaustion & Meaning Decay:__ The eight-legged essay (baguwen) of Ming-Qing examinations becomes an exhausted form, producing formulaic prose; classical poetry continues but innovation occurs at the margins; by 1900 reformers critique the entire tradition as hollow form, calling for vernacular writing and Western-influenced expression.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The Confucian cosmos is moral and hierarchical: Heaven, Earth, and Humanity form a triad; the scholar's task is to align human society with cosmic pattern; this cosmology is inscribed in texts and enacted through ritual; alternative cosmologies (Buddhist, Daoist) coexist but the examination system enforces Confucian orthodoxy among officials.
+
+__Ritual, Devotion & Sacred Practice:__ Scholarly rituals include offerings to Confucius at state and local temples; examination candidates pray for success; the act of calligraphy itself has quasi-sacred dimensions, requiring proper physical and mental preparation; reverence for the written word produces practices like special disposal of inscribed paper.
+
+__Religious Institutions & Doctrinal Authority:__ The Confucian tradition lacks a separate institutional structure; doctrinal authority resides in the canon and its authorized interpreters (the examination system enforces Zhu Xi's commentaries from 1313); the scholar-official class functions as a secular clerisy that administers both state and moral order.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Confucian examination culture spreads to Korea, Vietnam, and Japan; Buddhism and Daoism coexist with Confucianism in elite practice (the "three teachings" synthesis); popular religion persists beneath the elite level; by 1900 Western Christianity and secular ideologies begin to compete with the traditional synthesis.
+
+__Disenchantment & Sacred Discharge:__ The gradual bureaucratization of the examination system drains its original spiritual content; the form persists while the meaning hollows out; by 1900 the abolition of the examination system (1905, just beyond this window) is imaginable precisely because the sacred charge has dissipated, leaving only a mechanism that can be judged by instrumental criteria and found wanting.

@@ -1,69 +1,139 @@
-# __589 CE – 755 CE__ — Sui-Tang Reunification and High Tang Florescence
-__Summary:__ Imperial reunification under Sui and Tang restores centralized governance across the Yellow and Yangtze basins after three centuries of division, establishing Chang'an as the world's largest city and creating a cosmopolitan empire stretching to Central Asia. The binding constraint is administrative capacity to hold together an ethnically diverse realm via examination recruitment, legal codification, and land-equalization systems. Margins against shock remain high through mid-window, with agricultural surplus, canal logistics, and frontier stability supporting cultural florescence; the system trends toward territorial peak and bureaucratic consolidation until frontier pressures and fiscal strain accumulate toward the 750s.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Yellow River loess plateau and North China Plain anchor northern agriculture; the Yangtze delta and middle basin supply southern rice surplus; the Grand Canal (Sui-built, Tang-maintained) binds the two systems, halving north-south transit time and enabling grain shipments to sustain the northern capitals.<br><br>
-__Climate Regime & Volatility:__ Warm and moist phase of the Medieval Climate Anomaly beginning; monsoon reliability high; growing seasons extend; interannual variability within tolerable bounds; secular trend toward favorable conditions supporting demographic recovery and agricultural expansion.<br><br>
-__Hazard Regime & Exposure:__ Yellow River flood risk ever-present along lower course; state hydraulic engineering maintains dikes; Guanzhong basin seismically quiet; drought localized and manageable; margin against major disaster adequate through mid-window.<br><br>
-__Resource & Energy Endowment:__ North China loess and Yangtze alluvial soils remain highly productive; iron, copper, and salt deposits exploited; timber in upland margins; silk production concentrated in lower Yangtze; no major resource depletion constraining the system.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban concentrations at Chang'an (population approaching one million) and Luoyang generate waste; night-soil recycling into agriculture continues; waterways absorb effluent; sink capacity adequate; no saturation evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Reunification after prolonged warfare allows demographic recovery; endemic malaria in south, but northern heartland relatively stable; epidemic outbreaks sporadic; mortality baseline lower than during the Period of Disunion; trend toward improving health conditions.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural recovery and canal-enabled grain distribution improve nutritional status; rice surplus in south supplements northern millet and wheat; average stature and vitality rising across the window; famine rare until late in period.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Confucian family norms reinforced; patrilineal descent; early marriage encouraged; polygyny among elites; fertility capacity high; pairing patterns stable within traditional frameworks.<br><br>
-__Demographic Renewal & Density:__ Population recovers from Period of Disunion nadir, reaching approximately 50-60 million by mid-Tang; urban density high in Chang'an, Luoyang, Yangzhou; rural density increasing in Yangtze delta; strong positive growth trajectory.<br><br>
-__Attrition & Dependency Overhang:__ Youthful age structure as population grows; orphan and widow care through clan networks and Buddhist monasteries; dependency ratio manageable; system absorbs dependent overhang without strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Land-equalization system (juntian) allocates plots to adult males; grain tribute via canal sustains capitals; household production of textiles supplements food; subsistence floor secure for registered population; margin adequate.<br><br>
-__Energy Capture & Conversion:__ Human and animal labor primary; water mills increasing along canal networks and Yangtze tributaries; charcoal for metallurgy; per-capita energy capture rising modestly; conversion efficiency stable with traditional methods.<br><br>
-__Labor Organization & Coercion:__ Corvee labor for state projects (canals, walls, palaces); military conscription; tenant farming alongside smallholding; slavery reduced from earlier periods but present; coercion moderate within bureaucratic framework; wage labor emerging in urban crafts.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus substantial; silk production for tribute, trade, and salary payment; ceramics, metalwork, and paper production expanding; surplus flow from Yangtze to northern capitals via Grand Canal defines economic geography.<br><br>
-__Storage, Reserves & Buffering:__ State granaries (changpingcang) at strategic points; ever-normal granary system to stabilize prices; silk stored as quasi-currency; reserves adequate through mid-window; buffering capacity high against local shortfalls.<br><br>
-__Exchange, Trade & Logistics:__ Grand Canal central artery; overland Silk Road trade at peak; copper cash and silk as media; market towns proliferate; foreign merchants in Chang'an, Guangzhou; logistics sophisticated by premodern standards.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Bronze cash (kaiyuan tongbao) standard currency; silk bolts function as value store and salary payment; credit instruments emerging among merchants; monastery lending; purchasing power stable through mid-window.<br><br>
-__Surplus Extraction & Redistribution:__ Two-tax system replacing earlier grain-corvee model by late window; land and household taxes in grain and silk; tribute shipments via canal; state employs surplus for military, bureaucracy, construction; extraction load moderate relative to capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Aristocratic estates persist from Period of Disunion; land-equalization theoretically limits concentration but erodes over time; great families and monasteries accumulate; wealth concentration increasing by late window but not yet destabilizing.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste recycled as fertilizer and fuel; urban refuse collected; industrial byproducts (slag, ash) localized; routing adequate to prevent buildup; no systemic waste crisis evident.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Clan and lineage networks primary trust structures; Buddhist monasteries provide charity; village mutual-aid associations; neighborhood wards in cities with collective responsibility; trust radius stable within these frameworks.<br><br>
-__Stratification, Status & Group Identity:__ Aristocratic lineages from Period of Disunion retain prestige; examination system opens alternative path; scholar-official stratum consolidating; commoners, artisans, merchants ranked below; ethnic Sogdian, Turkic, and other communities in capitals; boundaries moderately permeable through examination.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent; ancestral worship central; partible inheritance among sons; daughter receives dowry; extended family households common among elite; kinship structures stable and reinforced by legal code.<br><br>
-__Civic Association & Self-Organization:__ Buddhist and Daoist monasteries organize communities; merchant guilds emerging; ward system in capitals provides local governance; associational fabric thickening with urbanization and commercialization.<br><br>
-__Leisure, Play & Sociability:__ Festival calendar (New Year, Qingming, Mid-Autumn) structures social time; polo and hunting among elites; wine houses, pleasure quarters in capitals; public entertainments; sociability venues multiplying with prosperity.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning system allows appeals to capital; Buddhist karma doctrine provides existential consolation; social mobility via examination offers outlet; rebellion rare during high prosperity; grievances largely absorbed.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Centralized imperial system with emperor at apex; three departments (Secretariat, Chancellery, Department of State Affairs) and six ministries structure administration; provincial governors appointed by center; power concentrated but bureaucratically mediated.<br><br>
-__Succession & Power Transfer:__ Dynastic succession in Li family; palace politics and coup attempts (Xuanwu Gate 626); empress Wu Zetian's interregnum (690-705); succession contested but system absorbs shocks; routinization incomplete but functional.<br><br>
-__Legitimacy & Political Narrative:__ Mandate of Heaven doctrine; Tang as restorer of unified civilization; Confucian virtue ethics and Buddhist wheel-turning king imagery coexist; legitimacy broadly accepted through high prosperity period.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Examination recruitment expands; censorate monitors officials; Tang Code provides legal framework; census and tax registers maintained; corruption present but institutional integrity high by premodern standards; capacity adequate for territorial scale.<br><br>
-__Political Participation & Mobilization:__ Participation limited to elite via examination and appointment; remonstrance tradition permits criticism within bounds; popular mobilization absent except in rebellion; channels narrow but stable.<br><br>
-__Geopolitical Position & External Relations:__ Territorial expansion to peak extent; protectorates in Central Asia (Anxi, Beiting); tributary relations with Korea, Japan, Southeast Asia; Tibetan rivalry on western frontier; geopolitical position dominant through mid-window, pressures mounting by 740s.<br><br>
-__Coercive Apparatus & Means of Force:__ Fubing (divisional militia) system provides troops from military agricultural colonies; frontier armies (jiedushi) increasingly professional; cavalry central to steppe warfare; crossbow, armor, fortification technology mature; command concentrated in emperor but frontier generals gaining autonomy.<br><br>
-__Internal Order & Threat Environment:__ Internal stability high through mid-window; banditry suppressed; no major rebellions until An Lushan; order-maintenance capacity adequate; threat environment benign until frontier army autonomy becomes destabilizing.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Post-station (yichuan) system along major routes; mounted couriers reach frontiers in weeks; official correspondence network sophisticated; private letters among literati; transmission velocity high by premodern standards.<br><br>
-__Record, Storage & Persistence:__ Paper documents primary medium for administration; bamboo discontinued; imperial archives (diaries of activity and repose, veritable records); monastery libraries preserve sutras; paper durable in dry north, less so in humid south; persistence improved over earlier periods.<br><br>
-__Framing, Censorship & Discourse Norms:__ Court controls official historiography; remonstrance tradition permits criticism; Buddhist and Daoist texts circulate freely; censorship light except for treason; discourse relatively open within elite circles.<br><br>
-__Reception, Attention & Amplification:__ Literate audience expands with examination culture; poetry circulates through manuscript copying; oral recitation amplifies written verse; attention concentrated on examination texts and canonical classics; amplification through prestige networks.<br><br>
-__Signal Integrity & Noise Load:__ Archival practice maintains records; copying introduces errors but collation corrects; canonical texts stabilized; noise load manageable; signal integrity adequate for administrative and scholarly purposes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Confucian virtue ethics provide moral framework; filial piety, loyalty, propriety central; Buddhist karmic justice supplements; sense of justice grounded in hierarchical reciprocity; broadly accepted.<br><br>
-__Law, Codification & Regulatory Evolution:__ Tang Code (624, revised 653) provides comprehensive criminal and administrative law; Institutes of Tang supplement; legal commentary tradition; most influential code in East Asian history; stable through window.<br><br>
-__Adjudication, Enforcement & Liability:__ Magistrates adjudicate at county level; provincial review for serious cases; capital review for death sentences; torture in interrogation; collective liability for kin; enforcement capacity adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Status-differentiated rights (officials, commoners, debased); sumptuary regulations; legal protections for property and person within status; compliance burden moderate for ordinary subjects.<br><br>
-__Impunity & Unredressed Wrong:__ Elite enjoy lighter penalties; corruption allows local impunity; appellate system theoretically available; backlog present in capitals; unredressed wrong accumulates but remains within system capacity to absorb.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Confucian classical studies dominate examination curriculum; Buddhist philosophical schools (Huayan, Tiantai, Chan) flourish; Daoist alchemy and cosmology; medicine, astronomy systematized; inquiry vigorous within traditional frameworks.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural manuals; medical texts systematized; engineering knowledge for canals, bridges, pagodas; woodblock printing invented (earliest dated example 868 but technique developing); technical knowledge advancing.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Imperial academy (guozijian) and provincial schools; private academies; monastery education; literacy concentrated in elite but spreading; knowledge stock expanding with Buddhist translations and compilation projects.<br><br>
-__Obsolescence & Knowledge Decay:__ Some regional scripts from Period of Disunion obsolete; superseded Buddhist translations; but knowledge accumulation exceeds decay; major compilation projects (encyclopedias, collected statutes) preserve and organize; net expansion.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Han civilization restored after barbarian interlude; Tang as cultural peak; Confucian-Buddhist-Daoist synthesis; historical consciousness of dynastic cycles; identity secure and confident during high prosperity.<br><br>
-__Artistic Expression & Material Culture:__ Tang poetry golden age (Li Bai, Du Fu, Wang Wei); calligraphy flourishes; sculpture (Buddhist, funerary); ceramics (sancai three-color glaze); architecture (pagodas, palaces); material culture at peak refinement.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence, cosmopolitan openness during high Tang; foreign fashions embraced; risk tolerance high among frontier military and traders; mood buoyant through mid-window; anxiety emerging only late as frontier pressures mount.<br><br>
-__Form Exhaustion & Meaning Decay:__ Artistic forms vital and generative; regulated verse (lushi) newly systematized; Buddhist iconography active; no significant form exhaustion during this window; cultural production at creative peak.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Buddhist, Daoist, and Confucian cosmologies coexist in layered synthesis; karmic rebirth widely accepted; Daoist immortality sought; Confucian this-worldly ethics for governance; existential outlook syncretic and generally optimistic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ State rituals at imperial altars; Buddhist monastery worship, sutra chanting, pilgrimage; Daoist liturgies; domestic ancestor worship; ritual calendar full; devotional practice intensive across traditions.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist monasteries wealthy and numerous; state attempts regulation (ordination certificates); Daoist institutions imperially favored (Tang claim Laozi ancestry); doctrinal authority distributed across schools; institutional power significant but contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism sinicized and dominant in popular piety; Nestorian Christianity, Zoroastrianism, Manichaeism present in capitals; Islam arriving via Silk Road; syncretism active; no displacement of Buddhism; spiritual diffusion at peak cosmopolitan extent.<br><br>
-__Disenchantment & Sacred Discharge:__ No significant disenchantment; sacred meaning active across traditions; Buddhist salvation, Daoist transcendence, Confucian moral cultivation all provide existential frameworks; spiritual need fully anchored; no discharge accumulating.<br><br>
+# __589 CE – 755 CE — Sui-Tang Reunification and High Tang Florescence__
+
+The binding constraint is administrative capacity to hold together a reunified empire across two river basins, solved by the examination system's production of a literate official class whose careers depend on the written record — the manuscript regime becomes the medium through which central authority projects itself across distance and the mechanism by which talent is selected, rendering the empire governable at a scale that defeated purely military control.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The empire spans from the semi-arid loess plateau of the Yellow River basin to the humid rice lands of the Yangtze delta, with the Qinling Mountains and Huai River marking the climatic and agricultural divide; Chang'an (Xi'an) sits in the Wei River valley at the eastern terminus of the Silk Road, while Luoyang serves as secondary capital closer to the canal network, and the Grand Canal completed under Sui Yangdi links the Yangzhou granaries to the northern capitals, cutting the transport friction that had starved previous northern regimes.
+
+__Climate Regime & Volatility:__ The Medieval Warm Period provides generally favorable conditions, with sufficient monsoon rainfall for double-cropping in the south and adequate precipitation for wheat and millet in the north; droughts and floods remain cyclical disruptions but do not reach the catastrophic levels of later centuries.
+
+__Hazard Regime & Exposure:__ Yellow River flooding remains endemic, requiring constant dike maintenance and corvee labor; the earthquake of 734 CE damages Chang'an, demonstrating seismic exposure in the northwest; the canal system creates new flood vulnerabilities but also new drainage capacity.
+
+__Resource & Energy Endowment:__ Iron production expands in Jiangsu and Sichuan, timber remains available in peripheral mountains though the core regions show deforestation, coal use increases in ceramics and metallurgy, and the south's rice surplus fuels the empire's demographic and fiscal expansion.
+
+__Waste Absorption & Sink Capacity:__ The great cities generate substantial organic waste absorbed through intensive manuring of surrounding fields, night soil collection becomes systematized, and urban pollution remains localized; deforestation in the north accelerates soil erosion but the loess remains productive under careful terracing.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria and schistosomiasis in the southern waterways, smallpox and measles circulate but without the devastating epidemics of the Han collapse or later periods, and the cosmopolitan Silk Road traffic introduces occasional exotic diseases without triggering pandemics during this period.
+
+__Nutrition & Physiological Vitality:__ The canal system's grain distribution and the south's rice surplus produce generally adequate nutrition for the registered population, though corvee laborers on the Grand Canal and frontier garrisons suffer; tea consumption spreads from the south, improving water safety.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge consolidated in texts like Sun Simiao's Beiji Qianjin Yaofang (Essential Prescriptions Worth a Thousand Gold), Buddhist monasteries provide infirmaries, Daoist practitioners offer alternative therapies, and imperial medical institutions train court physicians; access remains stratified by class and geography.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny among elites, monogamy predominant among commoners, state encourages early marriage and large families for fiscal and military manpower, female infanticide present but not at crisis levels, and Buddhist monasticism absorbs some reproductive capacity.
+
+__Demographic Renewal & Density:__ Population recovers from the Period of Disunion, reaching perhaps 50-80 million by mid-Tang, with the south gaining relative to the north; registered households in 755 CE census show 52.9 million, though underregistration is endemic.
+
+__Attrition & Dependency Overhang:__ Buddhist and Daoist clergy represent a celibate population segment that neither reproduces nor produces surplus, prompting periodic state restrictions; orphan care falls to extended kin and monasteries; the frontier garrison system separates reproductive-age males from families for extended periods.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The equal-field system (juntian) allocates land to households in theory, ensuring a subsistence floor, though actual distribution varies and large estates encroach; the canal-borne grain tribute sustains the capitals and frontier garrisons.
+
+__Energy Capture & Conversion:__ Human and animal labor dominate, water mills spread for grinding grain, charcoal and increasingly coal fuel expanding ceramics and metallurgy, and the canal system converts potential energy into transport efficiency.
+
+__Labor Organization & Coercion:__ The corvee system (fu) extracts labor for public works including the Grand Canal, military conscription supplements professional frontier armies, slavery exists but is not the primary labor form, and hired labor increases in urban workshops and commerce.
+
+__Production & Surplus Capacity:__ Rice yields in the south support unprecedented surplus, silk production remains centered in the east, ceramics (including early porcelain) become export commodities, metallurgy produces quality steel, and the tribute system channels provincial surplus to the center.
+
+__Storage, Reserves & Buffering:__ The granary system (changping cang, ever-normal granaries) buffers against famine, the salt monopoly provides fiscal reserves, and private merchant capital accumulates in the great trading cities; the treasury is adequate for major construction but strained by frontier campaigns.
+
+__Exchange, Trade & Logistics:__ The Grand Canal enables north-south bulk commerce, the Silk Road peaks in traffic bringing Central Asian merchants to Chang'an, maritime trade grows from Guangzhou to Southeast Asia and beyond, and internal markets proliferate under a monetized economy mixing copper cash with silk as currency.
+
+__Value Storage, Credit & Deferred Exchange:__ Copper cash remains the standard unit, though chronic shortages prompt silk and grain to serve monetary functions; flying money (feiqian) emerges as proto-bills of exchange for long-distance merchants avoiding the transport of heavy coinage; credit networks develop among merchant communities.
+
+__Surplus Extraction & Redistribution:__ The zu-yong-diao system extracts grain, textile, and labor from registered households, the salt and iron monopolies generate commercial revenue, and the tribute system from subordinate states and frontier commanderies supplements central revenue; the fiscal system is strained but functional before An Lushan.
+
+__Wealth Distribution & Asset Defense:__ Great aristocratic clans maintain estates and intermarry with the imperial family, examination success opens new routes to wealth and status, Buddhist monasteries accumulate tax-exempt land and wealth prompting periodic confiscations, and merchant wealth grows but lacks corresponding status.
+
+__Byproducts & Waste Routing:__ Urban waste recycled through night soil collection and manuring, industrial byproducts from ceramics and metallurgy accumulate locally, and financial malinvestment in the monastery economy and frontier over-extension is not yet critical but accumulating.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent, partible inheritance among sons, the great aristocratic clans (guizu) maintain genealogies and marriage networks, surname exogamy practiced, and the five mourning grades define kinship obligation.
+
+__Association & Mutual Aid:__ Buddhist monasteries serve as mutual aid societies and credit institutions, merchant guilds organize trade, neighborhood associations (li) enforce local order, and lineage organizations remain weaker than in later periods but present.
+
+__Leisure, Play & Sociability:__ Chang'an's Western Market offers entertainment districts, polo and hunting among elites, tea culture spreads from the south, public festivals mark the calendar, and the examination system creates distinctive scholarly sociability around poetry composition and literary gatherings.
+
+__Stratification, Status & Group Structure:__ The old aristocracy (guizu) retains social prestige but the examination system opens bureaucratic careers to men of talent regardless of birth, the nine-rank system gives way to merit selection in principle, and the Tang code prescribes status gradations from nobles through commoners to debased groups (jianmin) including slaves and entertainers.
+
+__Administrative Capacity & Institutional Integrity:__ The three departments (sansheng) and six ministries (liubu) system creates a functional central bureaucracy, the censorate provides internal surveillance, provincial administration through circuits (dao) and prefectures (zhou) extends central reach, and the examination system produces literate officials whose careers depend on documentary competence; corruption exists but is manageable.
+
+__Coercive Apparatus & Means of Force:__ The fubing militia system gives way to professional frontier armies (fanzhen) under military governors (jiedushi), the imperial guards protect the capital, the Tang cavalry draws on Central Asian horse supplies, and crossbows and steel weapons equip the armies; the frontier garrison system projects force across Central Asia but creates the conditions for An Lushan's rebellion.
+
+__Discharge, Disorder & Decay:__ Banditry is suppressed in the core regions, the legal system handles most disputes through county magistrates, and the monasteries absorb some marginal populations; factional conflict at court between aristocrats and examination graduates generates tension but not yet breakdown; the military governors' growing autonomy is the critical structural flaw unaddressed before 755.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The High Tang exudes confidence and cosmopolitan openness, foreign religions and fashions are tolerated or adopted, poets celebrate the grandeur of empire and the pleasures of the capitals, and public festivals generate collective enthusiasm; the mood darkens only in retrospect after An Lushan.
+
+__Leadership & Personal Authority:__ Emperor Taizong establishes the model of the vigorous, personally engaged ruler, Empress Wu Zetian demonstrates that female rule is possible though controversial, Xuanzong presides over the cultural apogee before his fatal infatuation with Yang Guifei; personal authority remains high when emperors are competent.
+
+__Legitimacy as Lived Allegiance:__ The Li family's claim to descend from Laozi provides Daoist legitimation, Confucian ritual and Buddhist patronage add layers, and the examination system generates allegiance among the educated who owe their careers to the dynasty; legitimacy is robust until military defeat shatters the illusion of imperial competence.
+
+__Political Will & Collective Resolve:__ The center retains will to project power across Central Asia, the examination system mobilizes talent for state purposes, and grand construction projects demonstrate sustained collective capacity; the will to reform the frontier military system is absent, however.
+
+__External Relations & Posture:__ Tang at its height dominates the Eastern Steppe after defeating the Eastern and Western Turks, exercises suzerainty over Central Asian oasis states, maintains tributary relations with Korea and Japan, and projects cultural influence that defines the Sinitic cultural sphere; the frontier system's sustainability is the unaddressed vulnerability.
+
+__Disaffection, Apathy & Spent Will:__ Elite factionalism generates some disaffection, unsuccessful examination candidates form a disgruntled stratum, and the military governors chafe under civilian supervision; the exhaustion of collective will arrives only with the catastrophe of 755.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literary Chinese remains the medium of official and scholarly communication, vernacular speech diverges regionally but written classical Chinese provides translocal intelligibility, and literacy expands through the examination system though it remains a minority accomplishment.
+
+__Channels & Transmission Velocity:__ The post-station (yi) system enables imperial communication across the empire in days to weeks, memorial submission and edict distribution are systematized, and the examination system creates regular information flows between provinces and capital.
+
+__Record, Storage & Persistence:__ Paper is now universal for documents, imperial archives preserve memorials and edicts, the standard histories continue the tradition of official historiography, and Buddhist monasteries maintain scriptural libraries; the manuscript regime reaches institutional maturity.
+
+__Framing, Censorship & Discourse Norms:__ The censorate monitors official speech, Confucian orthodoxy shapes permissible argument, but the Tang is relatively tolerant of doctrinal diversity; poetry provides a medium for oblique political commentary.
+
+__Reception, Attention & Amplification:__ Poetry circulates widely among the literate, examination success or failure becomes public knowledge, and court gossip spreads through the capital; the cosmopolitan atmosphere facilitates cultural exchange across the Silk Road.
+
+__Signal Integrity & Noise Load:__ The examination system provides a quality filter for official communication, the standard histories consolidate authoritative accounts, and Buddhist textual criticism addresses sutra authenticity; document forgery exists but is manageable within institutional controls.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confucian ethics provide the governing moral framework emphasizing loyalty, filial piety, and benevolence; Buddhist karma and Daoist naturalism offer alternative moral resources; the sense of cosmic order (tianming) underwrites political obligation.
+
+__Law, Codification & Regulatory Evolution:__ The Tang Code (Tang lv shuyi, 653 CE) represents the most sophisticated legal compilation to date, providing detailed criminal and civil regulations that will influence all subsequent East Asian legal systems; supplementary edicts and administrative statutes (ling, ge, shi) complete the legal framework.
+
+__Adjudication, Liability & Sanction:__ County magistrates adjudicate most cases, appeal runs through the prefectural and metropolitan hierarchy, the censorate investigates official malfeasance, and punishments follow the five penalties (wu xing) calibrated by offense and status; collective punishment extends liability to kin.
+
+__Rights, Protections & Compliance Burden:__ Status determines legal standing, commoners enjoy more protection than debased groups, officials receive status-differentiated treatment, and the examination system in principle opens advancement regardless of birth; the regulatory burden on commerce and movement is moderate.
+
+__Impunity & Unredressed Wrong:__ Imperial clansmen and aristocrats enjoy practical immunity, frontier military governors operate with increasing autonomy, and local magistrates vary in competence and integrity; the system functions adequately in the core regions but impunity grows at the frontiers.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The classical Confucian canon provides the examination curriculum, Buddhist philosophical schools (Tiantai, Huayan, Chan) develop sophisticated metaphysics, Daoist alchemy pursues material transformation, and astronomical observation continues for calendrical purposes; systematic empirical inquiry remains subordinate to textual exegesis.
+
+__Applied Knowledge & Technical Method:__ Woodblock printing emerges for Buddhist sutra reproduction (Diamond Sutra dated 868 but the technique develops earlier), porcelain technology advances, steel production improves, hydraulic engineering maintains the canals and dikes, and medical technique consolidates in comprehensive texts.
+
+__Education, Knowledge Stock & Skill Distribution:__ The state academy (guozijian) trains examination candidates, private academies supplement official schooling, Buddhist monasteries educate novices, and the examination system distributes classical literacy across the empire though concentrated in the southeast; technical skills transmit through apprenticeship.
+
+__Obsolescence & Knowledge Decay:__ Earlier commentarial traditions are partially superseded by Tang standard interpretations, some Daoist alchemical knowledge is lost or discredited, and the Period of Disunion's textual losses are not fully recovered; the examination system tends toward intellectual conservatism rather than innovation.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Tang claims descent from Laozi and the Han legacy, the examination system embeds the classical past as living curriculum, and the poetry of Li Bai and Du Fu will crystallize Tang self-image for all subsequent generations; Chinese identity at this point is cultural and political rather than ethnic, absorbing Central Asian and other influences.
+
+__Legitimating Narrative & Ideology:__ The Mandate of Heaven frames dynastic legitimacy, Confucian virtue ethics justify hierarchical order, Buddhist notions of the Chakravartin king supplement the repertoire, and the Tang presents itself as the culmination of civilized order — the center of the world.
+
+__Artistic Expression & Material Culture:__ Tang poetry achieves heights never surpassed in the Chinese tradition, calligraphy in regular and cursive scripts reaches classical perfection, Buddhist sculpture and painting flourish, ceramics including sancai glazes set export standards, architecture in Chang'an establishes the grid-city model adopted in Japan, and court music incorporates Central Asian influences.
+
+__Form Exhaustion & Meaning Decay:__ The classical forms remain vital; regulated verse (lushi) is newly invented and not yet exhausted; Buddhist devotional forms are at their peak; the cultural confidence is intact and form exhaustion is not yet a concern.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ A three-teachings synthesis allows Confucian, Buddhist, and Daoist worldviews to coexist; the universe is morally ordered by Heaven, populated by Buddhist cosmological realms and Daoist immortals, and human flourishing requires aligning with these orders; fate and moral causation are both operative.
+
+__Ritual, Devotion & Sacred Practice:__ State rituals at the Altar of Heaven and imperial ancestral temples, Buddhist devotion through sutra recitation and pilgrimage, Daoist liturgy and alchemical practice, and popular religion combining all three with local cults; ritual life is rich and untroubled by skepticism.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhist monasteries are wealthy and numerous (some 5,000 monasteries, 75,000 monks and nuns), Daoist establishments receive imperial favor given the Li family's claimed descent from Laozi, Confucian temples spread with the examination system, and doctrinal authority is dispersed among competing schools rather than centralized.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism continues its Tang florescence with new schools developing, Nestorian Christianity and Manichaeism maintain small communities in Chang'an under royal tolerance, Islam arrives via the Silk Road, and the three-teachings synthesis represents stable syncretism rather than displacement.
+
+__Disenchantment & Sacred Discharge:__ The spiritual economy is fully subscribed; disenchantment is not a significant phenomenon; the sacred infuses public and private life without widespread doubt, though Confucian skepticism about spirits provides a rationalist strand that does not amount to disenchantment.

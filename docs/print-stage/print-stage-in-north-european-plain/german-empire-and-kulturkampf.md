@@ -1,69 +1,139 @@
-# __1871 CE – 1890 CE__ — German Empire and Kulturkampf
-__Summary:__ The newly unified German Reich consolidates under Bismarck's chancellorship while waging a domestic campaign against Catholic institutional autonomy; the binding constraint is the authoritarian constitutional framework that grants the crown executive dominance while managing rising industrial, confessional, and socialist pressures through manipulation rather than accommodation; the system holds substantial margin in economic growth and military strength but accumulates unresolved grievance among Catholics and socialists; direction is toward industrial expansion, press diversification, and controlled political participation within persistent authoritarian limits.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain provides continuous lowland transit from the Rhineland through Berlin to the eastern provinces; the Rhine, Elbe, and Oder river systems and expanding rail networks reduce internal friction to historically low levels, integrating the new Reich economically and militarily.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime-continental conditions prevail with moderate interannual variability; no secular drift of significance registers in this window, and the agricultural base operates within established seasonal parameters.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along major rivers remains the primary environmental hazard; no catastrophic events during the window; infrastructure and provisioning hold comfortable margin against ordinary variability.<br><br>
-__Resource & Energy Endowment:__ The Ruhr coalfields, Silesian coal and iron, and Lorraine ore annexed in 1871 constitute a first-rank industrial resource base; exploitation accelerates but the stock remains far from exhaustion; this endowment gates the industrial surge.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial effluent and urban sewage load rivers and urban air with growing intensity, particularly in the Ruhr and Berlin; absorptive capacity is strained locally but not yet saturated systemically; degradation accumulates as externality.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tuberculosis, typhoid, and childhood diseases impose significant urban mortality, though sanitary reforms and improved nutrition are bending the death rate downward; cholera outbreaks become rarer as water systems improve.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional status improves across the window as food supply stabilizes and real wages rise; working-class stature begins its secular increase; malnutrition persists in pockets but is no longer systemic.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage remains tied to economic establishment; fertility is high and largely uncontrolled; demographic transition begins among educated urban strata toward the window's end.<br><br>
-__Demographic Renewal & Density:__ Population grows rapidly from approximately 41 million (1871) toward 49 million (1890); urban density increases sharply as internal migration feeds industrial centers; renewal rate exceeds replacement comfortably.<br><br>
-__Attrition & Dependency Overhang:__ Orphan, widow, and elderly dependency exists but is absorbed by family networks and nascent welfare institutions; Bismarck's social insurance (1883–1889) begins to institutionalize dependency management; no critical overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic subsistence is secure for most; industrialization and agricultural improvement have lifted the population above the carrying-capacity edge; periodic unemployment creates localized hardship but no systemic famine risk.<br><br>
-__Energy Capture & Conversion:__ Coal-fired steam power drives industrial production; coal output rises from 29 million tons (1871) to 89 million tons (1890); per-capita energy availability increases substantially, raising the work ceiling.<br><br>
-__Labor Organization & Coercion:__ Wage labor dominates industrial employment; guild remnants persist in craft sectors; labor is legally free but collective bargaining is suppressed, particularly after the Anti-Socialist Laws (1878); coercion is indirect but real.<br><br>
-__Production & Surplus Capacity:__ Heavy industry — coal, iron, steel, chemicals — expands at world-leading rates; surplus generated exceeds domestic consumption, enabling capital formation, military buildup, and export growth.<br><br>
-__Storage, Reserves & Buffering:__ State treasuries, particularly the imperial war chest, hold substantial reserves; private capital accumulation accelerates; the system holds significant buffer against cyclical downturns, though the 1873 crash tests resilience.<br><br>
-__Exchange, Trade & Logistics:__ Rail network expands to 42,000 km by 1890; internal customs union (Zollverein inheritance) eliminates friction; external trade shifts toward protection (tariffs 1879) while exports grow; logistics operate at high efficiency.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ The gold-backed mark (1871) provides stable unit of account; Reichsbank coordinates credit; joint-stock banks mobilize capital for industrial investment; credit system is robust and expanding.<br><br>
-__Surplus Extraction & Redistribution:__ State revenues derive from tariffs, indirect taxes, and matricular contributions from member states; extraction funds military, bureaucracy, and nascent social insurance; load is moderate relative to productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrates among industrialists, Junker landowners, and urban bourgeoisie; inequality widens with industrialization; property rights are secure under imperial law; socialist challenge to distribution is suppressed politically.<br><br>
-__Byproducts & Waste Routing:__ Industrial slag, mine tailings, and chemical effluent are dumped into rivers or piled locally; routing is dispersal without treatment; volume grows with output; costs are externalized onto landscape and downstream populations.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust operates within confessional, regional, and class boundaries; mutual aid associations — Catholic, socialist, liberal — provide welfare functions; the trust radius is segmented but stable within segments.<br><br>
-__Stratification, Status & Group Identity:__ Society is stratified by estate, confession, and class; Junker aristocracy retains military and bureaucratic privilege; Catholic minority (approximately 36%) faces state hostility during Kulturkampf; working class emerges as distinct identity; boundaries are rigid but permeable for educated bourgeoisie.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal household remains the norm; primogeniture persists among landed aristocracy; bourgeois families adopt partible inheritance within legal frameworks; urbanization strains extended kin networks.<br><br>
-__Civic Association & Self-Organization:__ Associational life flourishes — gymnastic societies, singing clubs, professional associations, Catholic lay organizations, socialist unions (until 1878) — providing dense civil society below the state; Kulturkampf attacks Catholic organizations but fails to destroy them.<br><br>
-__Leisure, Play & Sociability:__ Beer halls, coffee houses, and club meetings structure bourgeois and working-class sociability; church festivals remain important for Catholics; soccer and gymnastics organize youth leisure; recreational sphere expands with urbanization.<br><br>
-__Grievance Channels & Social Discharge:__ Emigration absorbs some discontent (2.5 million depart 1871–1890); socialist organizations provided outlet until suppressed; Catholic associational life absorbs confessional grievance; unmetabolized resentment among socialists and Catholics accumulates as standing instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The Reich constitution concentrates executive power in the Kaiser and Chancellor (Bismarck until 1890); the Reichstag has legislative voice but limited control over government; power is centralized but operates through federal structure; Prussian hegemony dominates.<br><br>
-__Succession & Power Transfer:__ Imperial succession is hereditary; Wilhelm I dies 1888, followed briefly by Friedrich III, then Wilhelm II; chancellorship depends on imperial confidence, not parliamentary majority; transfer is stable within the window.<br><br>
-__Legitimacy & Political Narrative:__ Nationalist narrative celebrates unification as Prussian-led achievement; Protestant-national identity is promoted; Catholic and socialist loyalties are framed as anti-national; legitimacy rests on military success and economic growth but is contested by excluded groups.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Prussian-trained bureaucracy provides efficient administration; statistical offices, land registries, and police systems operate with high competence; corruption is low by contemporary standards; institutional integrity is a regime strength.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage for Reichstag creates formal participation; turnout rises; Center Party organizes Catholic voters; SPD organizes workers until suppression; mobilization capacity is high but channeled into limited institutional power.<br><br>
-__Geopolitical Position & External Relations:__ Germany emerges as continental hegemon; Bismarck's alliance system — Dual Alliance (1879), Triple Alliance (1882), Reinsurance Treaty (1887) — isolates France and manages Austria-Russia tensions; colonial ventures in Africa and Pacific remain secondary; position is strong and stable.<br><br>
-__Coercive Apparatus & Means of Force:__ The Prussian-led army is Europe's premier military force; universal conscription provides mass reserves; Krupp artillery and modern rifles equip forces; police maintain internal order; command is concentrated in crown and general staff.<br><br>
-__Internal Order & Threat Environment:__ Crime is manageable; socialist agitation prompts the Anti-Socialist Laws (1878) but no serious rebellion occurs; assassination attempts on Wilhelm I (1878) provide pretext for repression; internal order is maintained with margin to spare.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph network enables same-day transmission across the Reich; postal system handles high volumes efficiently; newspapers distribute daily to urban populations and reach villages via subscription; velocity approaches practical instantaneity within borders.<br><br>
-__Record, Storage & Persistence:__ State archives, registries, and statistical offices maintain comprehensive records; newspaper morgues and library collections accumulate; persistence is high; the bureaucratic state depends on reliable record-keeping.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press laws permit post-publication prosecution for lèse-majesté, sedition, and blasphemy; socialist papers are suppressed 1878–1890; Catholic papers face harassment during Kulturkampf; the permitted band is constrained but wider than under prior censorship regimes.<br><br>
-__Reception, Attention & Amplification:__ Literacy exceeds 90%; newspaper readership is widespread in urban areas; confessional and political papers reach segmented audiences; amplification occurs within ideological silos rather than across them.<br><br>
-__Signal Integrity & Noise Load:__ Official statistics and bureaucratic records maintain high accuracy; press partisanship introduces interpretive noise but factual reporting is generally reliable; verification capacity keeps pace with information volume; no significant integrity crisis.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Shared commitment to property rights, contract enforcement, and legal procedure underpins the system; confessional moralities diverge on church-state relations; socialist morality challenges bourgeois property norms; baseline consensus is sufficient for legal order.<br><br>
-__Law, Codification & Regulatory Evolution:__ Imperial codification proceeds — Commercial Code (1871), criminal law standardization — culminating in the Civil Code project (completed 1896); Kulturkampf legislation (May Laws 1873) attacks Catholic institutional autonomy; regulatory framework expands with industrial society.<br><br>
-__Adjudication, Enforcement & Liability:__ Imperial Supreme Court (Reichsgericht, 1879) provides apex adjudication; state courts handle ordinary cases; enforcement is reliable; liability principles develop for industrial accidents, leading to insurance solutions.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights exist but are limited in practice; freedom of association is restricted for socialists; compliance burden for businesses increases with regulatory expansion but remains manageable.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful actors — military officers, industrialists, Junkers — enjoy practical advantages in court; Anti-Socialist Laws create political prisoners; Catholics experience legal harassment during Kulturkampf; impunity gap is moderate and politically shaped.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ German universities lead in natural sciences (Helmholtz, Koch, Virchow), historical scholarship (Ranke school), and philosophy (neo-Kantians); Darwinian theory is absorbed and debated; the discovery frontier is active and advancing across disciplines.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and applied chemistry achieve world-leading status; dye industry, electrical engineering, and precision manufacturing translate theory into commercial practice; technical education expands through Technische Hochschulen.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal primary education produces near-total literacy; Gymnasium and Realschule track secondary education by class and purpose; university access expands for bourgeoisie; skill distribution supports industrial economy.<br><br>
-__Obsolescence & Knowledge Decay:__ Superseded natural philosophy and pre-Darwinian biology are cleared from scientific curricula; theological education continues in parallel tracks; knowledge decay is managed through institutional turnover; no significant loss of practical skills.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Prussian-led unification becomes founding myth; Sedan Day commemorations celebrate military triumph; Protestant-national identity is promoted officially; Catholic and regional identities persist as counter-narratives; foundational stories are contested along confessional lines.<br><br>
-__Artistic Expression & Material Culture:__ Historicist architecture (Reichstag, Kaiser-Wilhelm-Gedächtniskirche) expresses imperial ambition; Gründerzeit building boom transforms urban landscapes; painting moves from academicism toward naturalism; Wagner's operas achieve canonical status.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence and expansiveness characterize the Gründerzeit mood despite the 1873 crash; national pride is cultivated; anxiety about socialist and Catholic disloyalty circulates among Protestant elites; the mood is generally optimistic but segmented.<br><br>
-__Form Exhaustion & Meaning Decay:__ Historicist eclecticism shows early signs of staleness by the 1880s; Lutheran Protestantism loses emotional grip on urban populations; nationalist ritual is fresh and effective; meaning decay is incipient rather than advanced.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Protestant Christianity remains official framework; scientific materialism advances among educated strata; Catholic piety intensifies under persecution; working-class secularism grows; outlook is fragmenting along class and confessional lines.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Protestant state churches conduct routine services with declining fervor; Catholic devotional intensity increases (Marian cults, pilgrimages); socialist counter-rituals (May Day from 1890) emerge; practice is confessionally segmented.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Kulturkampf attacks Catholic institutional autonomy — episcopal appointments, education, religious orders — but fails to break Church power; Protestant state churches remain subordinate to throne; doctrinal authority is contested politically.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestantism holds in traditional areas but loses working-class adherence; Catholicism consolidates defensively; missionary activity is directed outward to colonies; internal displacement favors secular nationalism and socialism.<br><br>
-__Disenchantment & Sacred Discharge:__ Urban secularization proceeds among educated and working classes; nationalist ritual partially fills transcendence needs; Catholic communities resist disenchantment through intensified devotion; spiritual need is redirected rather than abandoned; standing disenchantment is limited but growing.<br><br>
+# __1871 CE – 1890 CE — German Empire and Kulturkampf__
+
+__Summary:__ The newly unified German Empire, driven by Bismarck's determination to subordinate competing loyalties to the Protestant-Prussian state, deploys the press and legal apparatus in a sustained campaign against Catholic institutional autonomy (Kulturkampf) and then against socialist organization, producing a paradox whereby restrictive laws coexist with expanding mass circulation and an increasingly literate, politicized readership whose allegiances harden rather than dissolve under pressure.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Empire spans the North European Plain from the Rhine industrial corridor to the agricultural east beyond the Oder, integrating formerly sovereign territories through railways that by 1880 total over 33,000 kilometers and reduce internal friction to a degree no prior German polity achieved; the plain's openness facilitates troop movement and goods transport, while the Ruhr coalfield and Silesian deposits anchor an industrial heartland.
+
+__Climate Regime & Volatility:__ Temperate maritime conditions in the west shift to continental extremes eastward; agricultural variability remains moderate, and no major famines occur in this window, though poor harvests in the late 1870s contribute to agrarian distress that fuels protectionist politics.
+
+__Hazard Regime & Exposure:__ Industrial hazards now outweigh natural ones; mine collapses, factory accidents, and urban fires impose a new mortality geography concentrated in the Ruhr and Silesian basins.
+
+__Resource & Energy Endowment:__ Coal production rises from 37 million tons (1871) to over 89 million tons (1890), powering steel mills, railways, and chemical works; iron ore from Lorraine supplements domestic deposits; the resource base sustains the Empire's emergence as Europe's second industrial power.
+
+__Waste Absorption & Sink Capacity:__ Rivers absorb chemical and metallurgical effluent with little regulation; the Emscher and Ruhr tributaries begin to degrade; urban air quality in industrial cities deteriorates, though public health concern remains nascent and the sink is not yet visibly saturated.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Cholera recedes as urban water and sewerage expand under municipal reform; infant mortality remains high but begins declining; tuberculosis persists in industrial slums; overall mortality falls from roughly 27 per thousand (1871) toward 22 per thousand (1890).
+
+__Nutrition & Physiological Vitality:__ Industrial wages permit improved caloric intake for employed workers; military conscription data show rising average stature; potato and bread remain staples, supplemented increasingly by meat and sugar.
+
+__Care, Healing & Recovery Capacity:__ Hospital construction accelerates; the bacteriological revolution (Koch's identification of tuberculosis and cholera bacilli in the 1880s) transforms medical paradigm; Bismarck's social insurance (sickness insurance 1883, accident insurance 1884) institutionalizes access to care for industrial workers, a pioneering welfare apparatus.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage rates remain stable; fertility begins slow decline from roughly 40 births per thousand toward 35 by 1890, driven by urban middle-class family limitation; the demographic transition is underway.
+
+__Demographic Renewal & Density:__ Population grows from 41 million (1871) to 49 million (1890); urbanization accelerates, with Berlin surpassing 1.5 million; internal migration from east to west draws agricultural laborers into industrial centers.
+
+__Attrition & Dependency Overhang:__ The new social insurance system institutionalizes support for the injured, sick, and (from 1889) elderly, shifting dependency from family and parish toward state-mandated funds; the dependent load is absorbed rather than accumulating as social crisis.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The urban proletariat depends on wages for subsistence; real wages rise modestly through the 1880s after the Grunderkrise depression of the mid-1870s; the provisioning floor is adequate but precarious for those without steady employment.
+
+__Energy Capture & Conversion:__ Coal-fired steam engines power factories, railways, and increasingly urban electricity generation; per-capita energy consumption rises sharply; the coal-steel-rail complex defines the economic structure.
+
+__Labor Organization & Coercion:__ Industrial labor is formally free but disciplined by factory rules, foremen, and the threat of dismissal; the Anti-Socialist Laws (1878) suppress union organization, yet Gewerkschaften (trade unions) reconstitute under legal cover; coercion is legal-administrative rather than physical.
+
+__Production & Surplus Capacity:__ Heavy industry (steel, chemicals, machinery) expands rapidly; Germany overtakes Britain in steel production by the late 1880s; surplus flows to capital accumulation, military expenditure, and infrastructure.
+
+__Storage, Reserves & Buffering:__ The Reichsbank stabilizes the gold-backed mark; state finances are sound after French reparations (5 billion francs, 1871–1873); reserve capacity is adequate against cyclical downturns.
+
+__Exchange, Trade & Logistics:__ Railways integrate domestic markets; Hamburg and Bremen expand as export ports; the 1879 tariff shift to protection shields agriculture and heavy industry from British and American competition, restructuring trade flows.
+
+__Value Storage, Credit & Deferred Exchange:__ Universal banks (Deutsche Bank, Dresdner Bank) finance industrial expansion; the Reichsmark provides stable unit of account; credit is concentrated in large industrial and banking cartels.
+
+__Surplus Extraction & Redistribution:__ Taxation remains moderate; social insurance contributions socialize a portion of surplus for welfare; military expenditure absorbs a growing share; the fiscal system is stable.
+
+__Wealth Distribution & Asset Defense:__ Industrial wealth concentrates in bourgeois hands; Junker landowners retain political influence disproportionate to economic weight; wealth inequality is high but obscured by overall growth.
+
+__Byproducts & Waste Routing:__ Industrial waste is externalized to waterways and atmosphere; household refuse accumulates in growing cities; systematic waste management is nascent.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The bourgeois nuclear family becomes normative ideal; inheritance law varies by region (partible in the Rhineland, impartible in Prussia); noble entail (Fideikommiss) preserves Junker estates.
+
+__Association & Mutual Aid:__ Catholic Vereine (associations), socialist Arbeiterbildungsvereine, gymnastic societies (Turnvereine), and professional associations thicken civil society; mutual aid societies provide insurance functions paralleling state schemes.
+
+__Leisure, Play & Sociability:__ Beer halls, choral societies, and gymnastic clubs structure male sociability; Sunday observance remains strong; urban entertainment (theaters, cafes) expands.
+
+__Stratification, Status & Group Structure:__ The four-class system of Junker nobility, industrial-commercial bourgeoisie, Bildungsburgertum (educated professionals), and industrial proletariat crystallizes; Catholics and Social Democrats constitute subcultures with parallel institutions (milieus); Jews gain legal equality but face social discrimination.
+
+__Administrative Capacity & Institutional Integrity:__ The Prussian bureaucracy, extended to the Reich, is among Europe's most competent; the Reichstag is elected by universal male suffrage, but the Chancellor answers to the Kaiser, not parliament; federalism preserves Lander autonomy; corruption is low; decision-access is concentrated in the executive.
+
+__Coercive Apparatus & Means of Force:__ The Prussian-led army, victorious in three wars (1864, 1866, 1870–1871), is the regime's pillar; conscription is universal; police forces enforce the Anti-Socialist Laws; the apparatus is strong relative to internal and external threats.
+
+__Discharge, Disorder & Decay:__ Socialist organization, driven underground, hardens rather than dissolves; Catholic resentment of Kulturkampf persists until Bismarck's partial retreat (1878–1887); regional particularism lingers; the apparatus contains disorder but does not eliminate the grievances that generate it.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ National pride following unification coexists with confessional and class resentments; the Kulturkampf polarizes Catholic regions; Anti-Socialist Laws alienate urban workers; optimism about industrial progress is real but unevenly distributed.
+
+__Leadership & Personal Authority:__ Bismarck dominates as Chancellor (1871–1890), his personal authority resting on diplomatic and military success; Kaiser Wilhelm I defers to him; the leadership is concentrated in one figure whose departure (1890) will transform the system.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on military victory, economic growth, and the Kaiser's dynastic claim; among Catholics and Social Democrats, allegiance to the Reich is conditional, their primary loyalty to Church or party; the regime is accepted but not universally beloved.
+
+__Political Will & Collective Resolve:__ Bismarck's will to consolidate the Reich against internal enemies (Catholics, socialists) drives policy; the Reichstag majority supports him until the late 1880s; collective resolve is sufficient for peacetime governance but untested by major crisis in this window.
+
+__External Relations & Posture:__ Bismarck's alliance system (Dual Alliance with Austria 1879; Triple Alliance 1882; Reinsurance Treaty with Russia 1887) aims to isolate France and preserve the status quo; colonial ventures (1884–1885) are limited; the posture is defensive hegemony.
+
+__Disaffection, Apathy & Spent Will:__ Catholic and socialist milieus nurture disaffection that does not translate into rebellion but hardens into permanent subcultures; worker apathy under repression coexists with organizing underground; will is not spent but is channeled into parallel structures.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Near-universal literacy (over 90%) makes the printed word accessible to all classes; Standard High German consolidates as the shared code; dialects persist in speech but recede in print.
+
+__Channels & Transmission Velocity:__ Telegraph lines connect cities within hours; the postal system delivers newspapers daily to most addresses; railways transport printed matter rapidly; the Wolff Telegraphic Bureau dominates news distribution.
+
+__Record, Storage & Persistence:__ State archives, church registers, and commercial records are comprehensive; libraries expand; the record is durable and retrievable.
+
+__Framing, Censorship & Discourse Norms:__ The Reich Press Law (1874) abolishes preemptive censorship but retains post-publication prosecution for lese-majeste, blasphemy, and socialist agitation; the Anti-Socialist Laws (1878–1890) ban socialist publications, yet they circulate underground from Swiss exile; Catholic press (Germania) and liberal papers operate legally; framing varies by milieu but the permitted band is narrower for the left.
+
+__Reception, Attention & Amplification:__ Mass circulation dailies (Berliner Tageblatt, Vossische Zeitung) reach hundreds of thousands; the socialist Vorwarts, suppressed domestically, is smuggled in; the reading public is segmented by confession and class, each milieu amplifying its own organs.
+
+__Signal Integrity & Noise Load:__ Propaganda and counter-propaganda generate noise; official narratives compete with oppositional framing; verification rests on trust in milieu organs; signal integrity is adequate within segmented publics.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Protestant-liberal values dominate official discourse; Catholics and socialists maintain rival moral frameworks (papal social teaching, Marxist critique); the sense of justice is plural and contested.
+
+__Law, Codification & Regulatory Evolution:__ The Reich consolidates legal codes (commercial code 1861 extended; criminal code 1871; civil code preparation begins); the Anti-Socialist Laws and Kulturkampf legislation represent extraordinary deviations from liberal legality; the May Laws (1873) restrict Church autonomy.
+
+__Adjudication, Liability & Sanction:__ Courts enforce socialist and press laws with hundreds of convictions; Catholic clergy are imprisoned; the judiciary is professional but serves state purposes; sanction is predictable if politically motivated.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights (assembly, press, religion) are formally guaranteed but practically restricted for targeted groups; compliance burden is high for socialists and Catholics organizing under surveillance.
+
+__Impunity & Unredressed Wrong:__ State officials acting under Kulturkampf and Anti-Socialist Laws enjoy impunity; grievances of suppressed groups accumulate without legal redress; the gap between formal rights and lived experience is significant for affected milieus.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ German universities lead in natural sciences (Koch, Helmholtz, Virchow), historical scholarship (Ranke school), and philosophy; the research university model spreads; positivism and historicism are dominant paradigms; Marxism develops as counter-paradigm.
+
+__Applied Knowledge & Technical Method:__ Chemical and electrical industries apply laboratory science to production (synthetic dyes, pharmaceuticals); engineering schools train a technical cadre; method is systematic and institutionalized.
+
+__Education, Knowledge Stock & Skill Distribution:__ Compulsory schooling produces near-universal literacy; Gymnasien and Realschulen feed universities; skill distribution is broad at basic levels, narrow at advanced; the Bildungsburgertum guards access to higher knowledge.
+
+__Obsolescence & Knowledge Decay:__ Classical education is challenged by technical demands; Latin declines in practical relevance; theological knowledge loses authority among educated secularists; decay is gradual and contested.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The founding myth is military victory and Prussian-led unification; Sedan Day (September 2) becomes national holiday; the Hermannsdenkmal (1875) and Niederwalddenkmal (1883) monumentalize German national identity; Catholic and socialist milieus maintain counter-memories (papal authority, 1848 revolution).
+
+__Legitimating Narrative & Ideology:__ Official nationalism emphasizes Protestant Prussian leadership, industrial progress, and Great Power status; Kulturkampf frames Catholics as ultramontane enemies of the nation; Anti-Socialist Laws frame socialists as threats to order; counter-narratives circulate within milieus.
+
+__Artistic Expression & Material Culture:__ Historicist architecture (neo-Gothic, neo-Renaissance) dominates public building; Wilhelmine bombast emerges in monuments; realism in literature (Fontane) and naturalism (Hauptmann, emerging) capture social tensions; the material culture is confident, heavy, and ornamented.
+
+__Form Exhaustion & Meaning Decay:__ Historicist eclecticism begins to feel formulaic; official nationalism is contested rather than universally felt; meaning is plural and contested rather than exhausted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant liberalism and Catholic ultramontanism compete; scientific materialism gains ground among educated elites; existential confidence rests on progress and national destiny; doubt is nascent but growing.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance remains high, especially among Catholics and rural Protestants; civic ritual (Sedan Day, Kaiserparades) supplements religious observance; socialist May Day (from 1890) offers secular alternative.
+
+__Religious Institutions & Doctrinal Authority:__ The Kulturkampf (1871–1878) expels Jesuits, imposes state supervision of clergy, and requires civil marriage; the Catholic Church resists; Bismarck retreats after 1878, needing Catholic Centre Party support; Protestant churches remain state-allied; doctrinal authority is contested but not broken.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism consolidates in its milieu; Protestantism fragments between liberal and orthodox wings; secularism spreads among urban bourgeoisie and proletariat; Judaism maintains distinct identity under pressure; displacement is toward pluralism rather than any single direction.
+
+__Disenchantment & Sacred Discharge:__ Educated elites experience secularizing drift; Nietzsche's critique (published in this era) articulates emerging disenchantment; for most, the sacred remains anchored in confession or national identity; the void is felt by a minority but not yet socially disruptive.

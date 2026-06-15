@@ -1,69 +1,140 @@
 # __100 CE – 600 CE__ — Early Tiwanaku on the Altiplano
-__Summary:__ A multi-century trend in the Lake Titicaca basin where a high-altitude ceremonial center evolves into a proto-urban polity with monumental stone architecture, intensive raised-field agriculture, and widening exchange networks. The binding constraint is the extreme environment of the altiplano at 3850 m, where frost, aridity, and low oxygen impose hard ceilings on cultivation, labor capacity, and demographic density. Raised-field (suka kollu) technology provides the margin against climatic shocks, while llama caravan networks link the highlands to distant coastal and lowland zones. The system trends toward greater population concentration, architectural elaboration, and ideological integration under Staff God iconography, though state-level political organization remains debated. Surplus capacity is growing, absorptive margins are moderate, and outward expansion is incipient by the window's close.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The site occupies the southern shore of Lake Titicaca at 3850 m on the Bolivian altiplano, a high plateau ringed by Andean cordilleras with limited passes; the lake moderates temperatures locally, but overland transit to coastal or lowland zones requires multi-week caravan journeys across severe terrain.<br><br>
-__Climate Regime & Volatility:__ Cold, semi-arid conditions with mean annual temperatures around 10C, a pronounced dry season, and frequent nocturnal frosts; interannual variability driven by ENSO cycles affects precipitation and lake levels, but the regime remains broadly stable across the window with no secular drift documented.<br><br>
-__Hazard Regime & Exposure:__ Frost is the chronic hazard, capable of destroying unprotected crops overnight; drought and flood episodes occur but raised-field systems buffer both; seismic risk exists but no catastrophic events are attested during this window; margin against frost is narrow without agricultural engineering.<br><br>
-__Resource & Energy Endowment:__ Local andesite and sandstone supply monumental construction; copper and gold sources lie within regional reach; lacustrine resources (fish, totora reeds, waterfowl) supplement agropastoral production; obsidian and tropical products require long-distance exchange; the endowment is adequate but demands labor-intensive extraction.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density remains low relative to landscape scale; organic waste recycles into fields; hearth ash and construction debris disperse without accumulation pressure; absorptive capacity is effectively unlimited for the loads generated.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ High-altitude UV exposure and cold limit some pathogens, but respiratory ailments and hypoxia stress affect newcomers; tuberculosis markers appear in skeletal populations; endemic disease load is moderate; mortality baseline stable but elevated by altitude physiology.<br><br>
-__Nutrition & Physiological Vitality:__ Diets combine potatoes, quinoa, chuño (freeze-dried tubers), llama and alpaca meat, and lake fish; protein adequacy is good; skeletal evidence shows moderate stature with some hypoplasias indicating periodic nutritional stress; overall vitality is stable and trending slightly upward with intensified agriculture.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High-altitude hypoxia reduces fecundity and increases infant mortality compared to lowland populations; pairing patterns are not directly attested but kin-based household units are assumed; biological reproductive capacity is constrained but offset by low disease burden.<br><br>
-__Demographic Renewal & Density:__ Population in the urban core estimated at 10,000–40,000 by the window's end, with surrounding rural support zones; growth is positive across the window as raised-field systems expand carrying capacity; density remains well below ceiling; replacement ratios positive.<br><br>
-__Attrition & Dependency Overhang:__ The dependency load from aged, orphaned, or infirm is absorbed within extended household and ayllu structures; no evidence of crisis-level accumulation; the productive cohort supports dependents without visible strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ The provisioning regime centers on potato and quinoa cultivation on raised fields, supplemented by camelid herding and lacustrine fishing; the floor is stable and rising as field systems expand; surplus above subsistence is growing; vulnerability to single-season frost failure is buffered by chuño storage.<br><br>
-__Energy Capture & Conversion:__ Human labor and llama transport constitute the energy portfolio; no mechanical prime movers; per-capita work output limited by altitude hypoxia; llama caravans extend effective energy reach across hundreds of kilometers; conversion efficiency is low but adequate for the scale of construction and exchange observed.<br><br>
-__Labor Organization & Coercion:__ Labor mobilization for monumental construction and field expansion implies corvee or reciprocal obligation systems (mit'a-like), but direct coercion levels are not attested; specialization evident in craft production (ceramics, textiles, metallurgy); the mix appears more reciprocal than coercive, trending toward more organized extraction as complexity grows.<br><br>
-__Production & Surplus Capacity:__ Raised-field agriculture produces surplus above household consumption, enabling full-time craft specialists, ritual personnel, and monumental construction crews; surplus flow is expanding; productive capacity trends upward through the window.<br><br>
-__Storage, Reserves & Buffering:__ Chuño and charki (freeze-dried tubers and jerky) allow multi-year storage against crop failure; communal or proto-state granary systems are inferred but not directly evidenced; buffer depth is moderate, sufficient for single-season shocks but stressed by consecutive failures.<br><br>
-__Exchange, Trade & Logistics:__ Llama caravans link the altiplano to Pacific coastal valleys and eastern lowlands, exchanging textiles, ceramics, and highland goods for marine shell (Spondylus), maize, coca, and tropical products; trade networks expand through the window; logistics constrained by pack-animal capacity and terrain.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary medium exists; value is stored in camelid herds, textiles, and metal objects; deferred reciprocity obligations within and between communities carry credit functions; no debasement possible; the system is materially bounded.<br><br>
-__Surplus Extraction & Redistribution:__ Emerging elite control over surplus is indicated by monumental construction and elite burials with imported goods; extraction mechanisms not fully attested but likely involve tributary labor and offerings redistributed through ceremonial feasting; load on producers is increasing but not yet onerous.<br><br>
-__Wealth Distribution & Asset Defense:__ Differential burial goods and architectural access suggest emerging stratification; elite households accumulate camelids, textiles, and prestige items; concentration is widening across the window but extreme inequality not yet entrenched; asset defense is primarily social (kin alliance) rather than physical.<br><br>
-__Byproducts & Waste Routing:__ Agricultural and craft production generate minimal toxic byproducts; organic waste returns to fields; metallurgical slag is localized and small-scale; routing is predominantly recycled or dispersed; no accumulation pressure.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates within ayllu (kin-based community) structures with strong reciprocal obligations; mutual aid networks share labor for field construction, herding, and ceremony; the radius of trust extends to neighboring communities through exchange partnerships; trust fabric is stable and widening with pilgrimage integration.<br><br>
-__Stratification, Status & Group Identity:__ Social differentiation is evident between elite lineages with access to monumental precincts and commoner populations; status markers include cranial modification, textile quality, and burial elaboration; boundaries are hardening as complexity increases but remain permeable; ethnic or ayllu identity structures the population.<br><br>
-__Kinship, Family & Inheritance:__ Extended kin groups (ayllus) form the basic social unit, pooling labor and resources; inheritance patterns are not directly attested but likely follow bilateral or patrilineal rules with communal land tenure; marriage alliances strengthen inter-ayllu ties.<br><br>
-__Civic Association & Self-Organization:__ Below emerging elite coordination, ayllus self-organize for agricultural labor, herding rotation, and ceremonial participation; the associational fabric is thick and locally autonomous; no evidence of suppression from above.<br><br>
-__Leisure, Play & Sociability:__ Ceremonial gatherings at Kalasasaya and Akapana provide cyclical occasions for feasting, music, and collective ritual; chicha (maize beer) consumption is archaeologically attested; sociability is intense around ritual calendar events.<br><br>
-__Grievance Channels & Social Discharge:__ Reciprocal obligations and ritual participation absorb most social friction; mobility to peripheral zones remains possible; no evidence of large-scale unrest or rebellion; grievance discharge is adequate, with minimal residue accumulating.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is concentrating in an emergent elite class associated with the monumental core, but whether this constitutes state-level organization remains debated; power likely combines religious, administrative, and kinship functions; centralization is trending upward but full sovereignty apparatus is not yet evident.<br><br>
-__Succession & Power Transfer:__ Succession mechanisms are not directly attested; elite burials suggest hereditary transmission of status, but routinized rules cannot be confirmed; transfer is probably kin-based with some contestation risk.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derives from religious authority centered on Staff God cosmology, control of ritual spaces, and coordination of agricultural infrastructure that demonstrably raises yields; the narrative is theocratic-agrarian and appears widely accepted during growth phase.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Coordination sufficient to mobilize labor for monumental construction and manage long-distance exchange, but formal bureaucracy is not evidenced; record-keeping if any relies on oral memory and possibly early quipu-like devices (not confirmed); capacity is growing but institutionally shallow.<br><br>
-__Political Participation & Mobilization:__ Commoner participation occurs through labor contributions and ceremonial attendance rather than formal voice in governance; elite mobilization channels popular energy into construction and ritual; dissent channels are limited but population is not yet coerced.<br><br>
-__Geopolitical Position & External Relations:__ Tiwanaku is the dominant center in the Titicaca basin, with Pucara declining or absorbed; relations with distant Moche and Nazca polities are indirect through exchange rather than diplomacy or warfare; regional hegemony is consolidating; external military threat is minimal.<br><br>
-__Coercive Apparatus & Means of Force:__ Military organization is poorly attested; iconography shows some warrior imagery but less pronounced than Moche; fortifications are absent from the core; force projection capacity is limited, with authority relying more on ideological and economic integration than coercion.<br><br>
-__Internal Order & Threat Environment:__ No evidence of significant internal violence, rebellion, or banditry during this growth phase; order is maintained through community structures and ritual integration; disorder levels are low; enforcement margin is adequate.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at llama-caravan pace across the altiplano and to distant regions, with face-to-face oral transmission at ceremonial gatherings accelerating local dissemination; runners may supplement caravans for urgent messages; reach extends to coastal and lowland exchange partners; transmission is slow but network coverage is expanding.<br><br>
-__Record, Storage & Persistence:__ Storage is entirely oral, held in the memory of specialists, ritual performers, and community elders; no writing system exists; proto-quipu devices may aid accounting but remain unconfirmed for this window; knowledge persistence depends on intergenerational oral transmission and is vulnerable to specialist death or social disruption.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control of ritual spaces and Staff God iconography frames permissible discourse around theocratic narratives; overt censorship is not attested but sacred knowledge is restricted to initiated specialists; the permitted band is stable, neither widening nor narrowing.<br><br>
-__Reception, Attention & Amplification:__ Pilgrimage gatherings create concentrated reception contexts where ritual messages are amplified through ceremony, architecture, and sensory experience; attention is captured by monumental spectacle; amplification is event-driven and cyclical.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission through trained specialists maintains signal integrity within ritual and technical domains; noise from competing traditions is low given regional ideological consolidation; verification rests on consensus among memory specialists; integrity is adequate but fragile if specialist lineages fail.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice centers on reciprocal obligation (ayni), balance within kin networks, and proper ritual observance; offense categories likely include theft, adultery, witchcraft, and ritual violation; the conscience is communally grounded and ritually reinforced.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal codification exists; binding norms are customary, maintained through oral tradition and elder authority; the regulatory regime is stable, evolving incrementally through precedent and community consensus rather than edict.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are resolved through kin-group mediation, elder councils, or appeal to ritual specialists; enforcement is community-based, leveraging shame, exclusion, and restitution; formal courts or state enforcers are absent; throughput matches the low caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kin-group membership and communal standing rather than formally enumerated; compliance burden is low, governed by customary expectations known from childhood; predictability is high within community norms.<br><br>
-__Impunity & Unredressed Wrong:__ Elite status may afford partial impunity, but evidence is indirect; most wrongs within communities are addressed through restitution or expulsion; inter-community disputes less clearly resolved; unredressed residue is minimal but not zero, accumulating where kin networks fail to reach.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Systematic inquiry centers on astronomical observation, agricultural timing, and architectural geometry; the reigning paradigm is cosmological, integrating earthly practice with celestial and supernatural realms; the discovery frontier lies in refining calendrical precision and hydraulic engineering.<br><br>
-__Applied Knowledge & Technical Method:__ Raised-field construction, frost-protection microclimates, precision stone-cutting (Puma Punku), metallurgical alloys, and textile production represent sophisticated applied knowledge; methods are transmitted through apprenticeship; technique is advancing incrementally.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmits orally through kin-based apprenticeship and ritual initiation; specialist skills (masonry, metallurgy, ritual practice) are concentrated; general agricultural and herding knowledge is widely distributed; the stock is growing with intensification; literacy is absent.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier Pucara techniques are absorbed into Tiwanaku practice; obsolete methods are shed without recorded loss; knowledge decay risk lies in specialist death before transmission; no major decay documented during this growth phase, but vulnerability is inherent in oral systems.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Identity roots in the Lake Titicaca basin as a sacred origin place; Staff God mythology provides cosmic narrative; collective memory is transmitted through oral tradition and architectural iconography; the mythos is consolidating and expanding its reach through pilgrimage.<br><br>
-__Artistic Expression & Material Culture:__ Monumental stone architecture (Akapana, Kalasasaya, Gateway of the Sun), precision-cut masonry, polychrome ceramics with Staff God and Weeping God imagery, and elaborate textiles define the aesthetic canon; the style is distinctive and standardizing across the window.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood trends toward confidence during this expansion phase; agricultural success, monumental construction, and widening networks reinforce optimism; risk perception is moderate given frost vulnerability but buffered by storage and reciprocity systems.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms are fresh and generative during this early florescence; Staff God iconography carries full symbolic charge; no exhaustion or cliche is evident; meaning production is active and accumulating.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ The cosmos is structured around the Staff God complex with solar and agricultural associations, likely involving a layered universe (sky, earth, underworld) with Lake Titicaca as axis mundi; outlook integrates human destiny with celestial cycles and agricultural fertility; piety predominates over fatalism or doubt.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual practice centers on ceremonies at Akapana and Kalasasaya, including offerings, llama sacrifice, chicha libations, and possibly human sacrifice (limited evidence); astronomical alignments mark solstices and planting cycles; devotional practice is communal and calendrically structured.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Priestly specialists control access to sacred precincts and esoteric knowledge; institutional property accumulates in ceremonial centers; doctrinal orthodoxy is consolidating under Staff God iconographic standardization; authority is centralized at Tiwanaku with regional pilgrimage integration.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Tiwanaku cosmology absorbs earlier Pucara traditions and diffuses outward through exchange and pilgrimage; syncretism incorporates local practices; the dominant cosmology's reach is expanding through the window with no significant competing system encroaching.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment is evident during this growth phase; the sacred order is actively generative and widely believed; transcendence is available through ritual participation; spiritual need is fully anchored in the Staff God complex with no residual void accumulating.<br><br>
+
+__Summary:__ A five-century trend in which Tiwanaku grows from a modest lakeside shrine into the dominant ceremonial and political center of the Lake Titicaca Basin, its expansion driven by the binding constraint of the oral stage: raised-field agriculture, monumental architecture, and an elaborating religious ideology are coordinated entirely through spoken word and ritual performance, with no writing to externalize memory or administration, so every institutional advance depends on the vocal reach of priests and the mnemonic load specialists can carry.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Tiwanaku sits on the southern shore of Lake Titicaca at roughly 3,850 meters, where the altiplano flattens into a cold, windswept basin ringed by peaks; travel radiates outward along lakeshores and quebrada corridors, with friction rising sharply toward the western escarpment and the eastern yungas.
+
+__Climate Regime & Volatility:__ The high-altitude climate is cold and semi-arid, with a single rainy season (December–March), sharp diurnal temperature swings, and frequent frost; interannual variability includes periodic drought and flood cycles linked to distant Pacific dynamics, but the lake's thermal mass moderates local extremes and extends growing seasons on its margins.
+
+__Hazard Regime & Exposure:__ Frost is the chronic hazard, capable of destroying crops in any month above 4,000 meters; drought and lake-level fluctuation pose seasonal threats, while seismic activity rumbles intermittently through the basin—yet the low-rise adobe and stone construction and dispersed settlement pattern limit catastrophic loss.
+
+__Resource & Energy Endowment:__ The basin offers lacustrine resources (fish, totora reeds, waterbirds), pastureland for camelids, and arable soil along the lake edge; stone for monuments is quarried from nearby outcrops, and copper and gold sources lie within reach of highland trade routes, though the high altitude limits forest cover and fuel.
+
+__Waste Absorption & Sink Capacity:__ At this population scale the cold, sparse environment absorbs organic waste and construction debris without strain; no evidence of pollution or sink saturation appears in the archaeological record through 600 CE.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The cold, dry altiplano suppresses many tropical diseases, and population density remains moderate; endemic parasites, respiratory ailments from cold and smoke, and trauma from labor and conflict account for most morbidity, with no sign of epidemic pressure in the formative phases.
+
+__Nutrition & Physiological Vitality:__ Raised-field agriculture produces reliable surpluses of potatoes, quinoa, and other tubers; lacustrine protein supplements carbohydrate staples; skeletal evidence shows generally robust stature adapted to high-altitude hypoxia, though nutritional stress markers appear in drought years.
+
+__Care, Healing & Recovery Capacity:__ Healing is oral-traditional, combining herbal knowledge, ritual invocation, and the ministrations of specialist curers; capacity meets the load under normal conditions but depends entirely on the memory and presence of practitioners.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility is physiologically constrained by altitude but viable; pair-bonding follows kin-regulated patterns, with marriage alliances reinforcing ayllu and moiety structures across the basin.
+
+__Demographic Renewal & Density:__ Population grows across the trend, with Tiwanaku's core expanding from a village to a town of several thousand by 600 CE; surrounding settlements thicken, though overall density remains modest compared to coastal valleys.
+
+__Attrition & Dependency Overhang:__ The camelid economy and communal ayllu labor absorb the dependent load of aged and infirm; the productive cohort sustains renewal without visible strain through this formative period.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Raised-field (suka kollus) agriculture transforms swampy lakeshores into productive plots where elevated beds retain warmth and moisture, lifting the provisioning floor above bare subsistence and generating storable surplus.
+
+__Energy Capture & Conversion:__ Human and camelid muscle power all work; llama caravans carry goods across vertical zones, and the conversion of high-altitude solar energy into tuber carbohydrates supports a modest but reliable per-capita work ceiling.
+
+__Labor Organization & Coercion:__ Labor is organized through the ayllu—a kin-based collective with reciprocal obligations—mobilizing corvée for field construction and monument building; coercion is minimal, embedded in ritual obligation rather than overt force.
+
+__Production & Surplus Capacity:__ Raised fields increase yields and reduce frost damage, generating surplus that sponsors craft specialization, monument construction, and camelid herding; the productive base expands steadily across the trend.
+
+__Storage, Reserves & Buffering:__ Freeze-dried potatoes (chuño) and dried meat (charki) store indefinitely at altitude, providing a durable buffer against interannual variation; communal stores accumulate under ritual oversight.
+
+__Exchange, Trade & Logistics:__ Llama caravans link Tiwanaku to coastal lowlands, eastern yungas, and distant resource zones, exchanging highland products for maize, coca, obsidian, and marine shell; trade is negotiated orally and sealed through reciprocal gift.
+
+__Value Storage, Credit & Deferred Exchange:__ No currency exists; value storage operates through herds, textiles, and ritual obligations, with deferred reciprocity tracked in memory and social standing rather than written ledger.
+
+__Surplus Extraction & Redistribution:__ Surplus flows to the ceremonial center through tribute and labor service, redistributed in feasting and ritual provisioning; extraction remains moderate, with ample room to intensify as the center grows.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in camelid herds, prestige textiles, and ritual office; elite burials show emerging differentiation, but polarization is muted and shielded by kin and communal ties.
+
+__Byproducts & Waste Routing:__ Organic waste recycles into fields as fertilizer; construction debris accumulates at monumental sites; no evidence of toxic discharge or mispricing in this barter-and-reciprocity economy.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The ayllu is the foundational unit—an endogamous, landholding kin group with reciprocal labor obligations, inheritance passing within lineage under moiety rules that structure marriage alliance.
+
+__Association & Mutual Aid:__ Reciprocal labor exchanges (ayni, minka) knit households into cooperative networks; communal festivity and ritual reinforce bonds; no guilds or formal associations exist outside kin and cult.
+
+__Leisure, Play & Sociability:__ Festivals at the ceremonial center punctuate the agricultural calendar, with feasting, chicha consumption, music, and dance consolidating community identity and hierarchy.
+
+__Stratification, Status & Group Structure:__ A priestly elite emerges, marked by access to the temple precincts, distinctive dress, and ritual knowledge; below them, ayllu headmen coordinate labor; commoners and attached herders occupy lower tiers, with boundaries permeable through ritual achievement.
+
+__Administrative Capacity & Institutional Integrity:__ Administration is oral and ceremonial: no writing, no bureaucracy, no standing archive; coordination depends on the memory of priests and headmen, limiting reach to the vocal radius of ritual gatherings.
+
+__Coercive Apparatus & Means of Force:__ No standing military force appears; warfare is episodic and ritualized, with trophy heads and occasional iconographic violence suggesting conflict, but the apparatus remains kin-mobilized and limited.
+
+__Discharge, Disorder & Decay:__ Social friction is low; reciprocal obligation and ritual feasting absorb tension; no evidence of endemic banditry, rebellion, or apparatus collapse through 600 CE.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Mood across the basin is stable and pious; trust within the ayllu is high, extending to neighboring groups through intermarriage and shared ritual; anxiety centers on frost and drought, mediated by priestly intercession.
+
+__Leadership & Personal Authority:__ Priestly figures at the ceremonial center command authority through ritual knowledge and cosmological access; ayllu headmen lead through demonstrated generosity and reciprocal obligation, not coercion.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows from belief in the sacred efficacy of the center; pilgrims arrive from across the basin, and the absence of fortification or rebellion suggests deep-seated consent.
+
+__Political Will & Collective Resolve:__ Collective resolve coalesces around monument construction and field expansion, mobilized through ritual calendar and oral exhortation; succession within the priestly elite appears orderly, with no evidence of factional fracture.
+
+__External Relations & Posture:__ Tiwanaku projects soft power through religious prestige and trade, drawing pilgrims and goods rather than conquering territory; posture is expansive but non-coercive, building influence through ideological attraction.
+
+__Disaffection, Apathy & Spent Will:__ No sign of widespread disaffection or exhaustion; the trend is one of growth and consolidation, with affective reserves accumulating rather than depleting.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Puquina (or a related language) is the shared code; mutual intelligibility extends across the basin, with dialectal variation at the periphery; no script exists, and all institutional information rides on voice and memory.
+
+__Channels & Transmission Velocity:__ Transmission is acoustic and embodied—messenger, herald, priest—limited to the speed of llama caravan and the reach of ritual gathering; no relay system accelerates news beyond walking pace.
+
+__Record, Storage & Persistence:__ Memory is the archive: ritual formulae, genealogies, tribute obligations, and cosmological doctrine persist in the minds of trained specialists, vulnerable to death and distraction; no durable external record survives this period.
+
+__Framing, Censorship & Discourse Norms:__ Sacred knowledge is guarded by priestly circles; esoteric doctrine circulates only among initiates; public discourse is ritually framed and controlled through ceremonial occasion.
+
+__Reception, Attention & Amplification:__ Pilgrimage festivals concentrate attention, amplifying priestly pronouncement across the assembled crowd; outside these gatherings, information disperses slowly through kin networks.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift and distortion over generations; ritual repetition and mnemonic formula reduce noise but cannot eliminate it; verification rests on the authority of living memory-keepers.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice rests on reciprocity and balance: obligations given must be returned, violations sanctioned by communal and supernatural censure; the sacred order underwrites moral conduct.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; binding norms are customary, orally transmitted, and ritually reinforced; evolution occurs through priestly interpretation and communal consensus.
+
+__Adjudication, Liability & Sanction:__ Disputes resolve through headman mediation and priestly arbitration; sanctions include compensation, ritual penance, and social exclusion; capacity matches the caseload in this small-scale setting.
+
+__Rights, Protections & Compliance Burden:__ Rights inhere in kin status and ritual standing; compliance is embedded in daily reciprocity, with light formal burden but heavy social expectation.
+
+__Impunity & Unredressed Wrong:__ No evidence of systematic impunity; the face-to-face community enforces accountability through reputation and ritual sanction, and the wrong-redress deficit is minimal.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is cosmological and empirical: observation of stars, seasons, and lake levels informs agricultural timing; paradigm is animist and reciprocal, with mountains, lake, and sky as sentient agents requiring propitiation.
+
+__Applied Knowledge & Technical Method:__ Raised-field engineering, freeze-drying of tubers, stone-carving, metallurgical gilding, and textile production represent sophisticated applied knowledge, transmitted orally master-to-apprentice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Training is apprenticeship-based; literacy is absent, so knowledge stock resides in practitioners; skill distribution is narrow for esoteric crafts, broader for subsistence technique.
+
+__Obsolescence & Knowledge Decay:__ Loss occurs when specialists die without teaching; ritual repetition conserves core doctrine, but peripheral technique erodes with each generation; error accumulates where verification fails.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity centers on Lake Titicaca as the sacred origin point of humanity; founding myths, recited at festival, anchor the community to landscape and ancestor; collective memory is short—a few generations at most without external record.
+
+__Legitimating Narrative & Ideology:__ The priestly elite legitimates itself as intermediary between community and cosmos; the monumental center embodies divine sanction, and participation in its construction confirms membership in the sacred order.
+
+__Artistic Expression & Material Culture:__ Sculpture features blocky, frontal stone figures with incised iconography (the later "Gateway" style emerges from this tradition); ceramics are plain but well-made; textiles carry geometric and zoomorphic motifs; architecture employs cut stone and adobe platforms around sunken courts.
+
+__Form Exhaustion & Meaning Decay:__ Forms are young and potent; no sign of cliche or hollowing appears—innovation and elaboration characterize the trend rather than exhaustion.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is tripartite—sky, earth, underworld—populated by animate forces requiring reciprocal offering; Lake Titicaca is the navel of creation, and the sun, moon, and mountain peaks are divine presences.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual centers on the sunken courts and platform temples, where offerings of llamas, chicha, and precious goods propitiate the powers; pilgrimage, procession, and festival mark the agricultural and celestial calendar.
+
+__Religious Institutions & Doctrinal Authority:__ A priestly class controls access to the temple precincts and esoteric knowledge; doctrine is orally transmitted, and authority consolidates as the center grows, though no formal hierarchy or orthodoxy-enforcement apparatus exists.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Tiwanaku's religious ideology spreads through pilgrimage and trade, absorbing local cults rather than displacing them; syncretism is integrative, and the center's reach expands by attraction.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident; the sacred is vivid, present, and expanding, with no secularizing drift or void where transcendence once stood—the cosmology is ascendant rather than receding.
+

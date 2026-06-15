@@ -1,69 +1,140 @@
 # __800 BCE – 200 CE__ — Scythian and Sarmatian Mounted Nomadism
-__Summary:__ A thousand-year trend in which horse-mounted pastoral nomadism crystallizes as the dominant steppe lifeway, sustained by the composite bow, cavalry mobility, and the extraction of tribute and trade from sedentary neighbors; the binding constraint is the carrying capacity of pasture and the logistics of seasonal migration, which cap confederation size while rewarding mobility and raiding over fixed settlement; the system holds high resilience against external military pressure but remains vulnerable to internal succession crises and to displacement by rival nomadic federations; the overall direction is one of cyclical consolidation and fragmentation, with Scythian hegemony on the Pontic steppe giving way to Sarmatian dominance by the late period.<br><br>
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Pontic-Caspian steppe forms a continuous grassland corridor from the Danube to the Altai, with river valleys (Dnieper, Don, Volga) offering water and winter shelter; mountain barriers to the south (Caucasus, Hindu Kush) channel movement east-west along the steppe belt; friction is low for mounted movement but constrains wheeled transport to dry seasons.<br><br>
-__Climate Regime & Volatility:__ Continental climate with cold winters and warm summers; precipitation marginal (250–450 mm annually) and concentrated in spring; interannual variability in snowfall depth determines winter pasture access; climate relatively stable across this window with no major secular drift.<br><br>
-__Hazard Regime & Exposure:__ Drought and harsh winters (dzud conditions) pose the primary acute hazards, capable of killing livestock en masse; exposure is high but pastoral mobility provides adaptive margin; seismic and volcanic hazards negligible on the open steppe.<br><br>
-__Resource & Energy Endowment:__ Grassland biomass is the primary resource, renewed annually; gold deposits in the Altai and Urals support metallurgical production; timber scarce on the open steppe, concentrated in river valleys and mountain margins.<br><br>
-__Waste Absorption & Sink Capacity:__ Pastoral waste disperses across vast rangelands with effectively unlimited absorptive capacity; concentrated camp sites show modest organic accumulation but nothing approaching saturation; sink pressure negligible.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases limited compared to sedentary agrarian populations; zoonotic exposure from close contact with horses, cattle, and sheep; periodic epidemic contact with sedentary neighbors; overall mortality baseline moderate and stable.<br><br>
-__Nutrition & Physiological Vitality:__ Diet rich in meat, dairy (fermented mare's milk), and occasional grain from trade; protein-dense nutrition supports robust physiques; skeletal evidence indicates good stature and low nutritional stress in elite burials.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygynous marriage common among elites; high fertility sustained by adequate nutrition; selective pairing favors warrior prowess and herd wealth; Sarmatian female warrior burials suggest some flexibility in gender roles.<br><br>
-__Demographic Renewal & Density:__ Population density low (~0.5–2 persons/km²) relative to agrarian zones but sustainable given pastoral carrying capacity; birth rates sufficient for replacement; periodic migrations and confederate formation suggest demographic pressure at times.<br><br>
-__Attrition & Dependency Overhang:__ Warfare attrition removes young males at elevated rates; elderly and infirm supported within extended kin groups; dependency load manageable given mobile household structure; no evidence of systemic dependency crisis.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Pastoral herding of horses, cattle, sheep, and goats provides the subsistence base; seasonal migration between summer and winter pastures ensures continuous grazing; trade with Greek colonies and sedentary societies supplements grain and luxury goods; provisioning secure under normal conditions.<br><br>
-__Energy Capture & Conversion:__ Horse and human muscle provide nearly all motive power; animal dung serves as fuel on the treeless steppe; energy capture efficient for a mobile pastoral system with no significant conversion bottleneck.<br><br>
-__Labor Organization & Coercion:__ Labor organized through kinship and clan structures; slavery present through capture of sedentary populations but not the dominant mode; tribute extraction from subject peoples supplements herding labor; coercion moderate.<br><br>
-__Production & Surplus Capacity:__ Surplus generated through herd increase, trade in horses and livestock, and extraction of tribute and plunder from sedentary neighbors; gold and craft production (animal-style metalwork) create additional exchange value; surplus capacity high during periods of successful raiding and trade.<br><br>
-__Storage, Reserves & Buffering:__ Living herds constitute the primary reserve; grain stores limited by mobility constraints; precious metals and prestige goods cached in kurgan burials; buffering against single bad season adequate, against multiple consecutive dzuds insufficient.<br><br>
-__Exchange, Trade & Logistics:__ Active exchange with Greek Black Sea colonies (Olbia, Panticapaeum) for wine, olive oil, metalwork, and grain; Silk Road precursor routes connect to Central Asian and Chinese goods; logistics constrained by seasonal pasture cycles but otherwise fluid.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Gold, silver, and prestige goods serve as value stores; no coinage minted by steppe peoples themselves, though Greek and Persian coins circulate; deferred reciprocity embedded in tribute and alliance networks.<br><br>
-__Surplus Extraction & Redistribution:__ Elite kurgan burials demonstrate massive surplus concentration; royal clans extract tribute from subordinate tribes and sedentary tributaries; redistribution through feasting and gift-giving maintains alliance networks; extraction load heavy on peripheries.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth highly concentrated in elite lineages, evidenced by lavish grave goods (Solokha, Chertomlyk, Pazyryk); herd wealth more distributed; defense through mobility and the threat of collective violence.<br><br>
-__Byproducts & Waste Routing:__ Pastoral waste (dung, bone, hide scraps) recycled or dispersed across open range; craft production waste minimal and easily absorbed; no routing pressure evident.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates strongly within kin groups and clans; blood-oath rituals cement alliances between tribes; reciprocity in mutual defense and seasonal cooperation; trust radius extends to confederate members but contracts sharply at confederation boundaries.<br><br>
-__Stratification, Status & Group Identity:__ Sharp stratification between royal/elite lineages and commoners; Scythian "Royal Scythians" dominate Pontic steppe; ethnic and tribal identities (Scythian, Sarmatian, Saka) define group boundaries; stratification stable within this window.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent dominant; polygyny among elites; inheritance of herds and status through male lines; widow remarriage within the lineage (levirate) attested; Sarmatian evidence suggests some matrilineal elements in eastern groups.<br><br>
-__Civic Association & Self-Organization:__ Clan and tribal councils coordinate seasonal movement and military campaigns; no urban civic associations; self-organization at the kinship level effective for local coordination.<br><br>
-__Leisure, Play & Sociability:__ Feasting, drinking (kumis, wine), mounted games, and hunting constitute primary leisure activities; ceremonial gatherings reinforce social bonds; horse racing and archery display martial prowess.<br><br>
-__Grievance Channels & Social Discharge:__ Blood feud and compensation payments address interpersonal grievances; tribal councils mediate inter-clan disputes; raiding against outsiders channels aggression outward; internal grievance discharge adequate but vulnerable to succession conflicts.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Confederations headed by paramount kings (Scythian "kings" in Herodotus) with subordinate tribal chiefs; power concentrated but dependent on military success and elite consensus; authority personal rather than institutional; fragmentation follows weak or contested leadership.<br><br>
-__Succession & Power Transfer:__ Succession typically patrilineal but contested among royal sons and brothers; succession crises recurrent; no routinized mechanism beyond elite consensus; flashpoint for instability throughout the period.<br><br>
-__Legitimacy & Political Narrative:__ Royal legitimacy grounded in genealogical claims, military prowess, and divine sanction (Scythian origin myths recorded by Herodotus); narrative emphasizes autochthony and martial superiority; legitimacy erodes when military fortunes decline.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Minimal bureaucratic apparatus; administration through personal retainers and kinship networks; tribute collection ad hoc; record-keeping absent (oral only); institutional integrity dependent on charismatic leadership.<br><br>
-__Political Participation & Mobilization:__ Free warriors participate in tribal assemblies; mobilization for war rapid and effective; dissent expressed through defection to rival leaders or withdrawal from confederation.<br><br>
-__Geopolitical Position & External Relations:__ Scythians interact with Greek colonies (trade, mercenary service), Achaemenid Persia (Darius I's failed invasion ~513 BCE), and Macedon (Philip II's northern campaigns); Sarmatians later press westward against declining Scythians; external pressure intermittent but not existentially threatening until the Hunnic arrival.<br><br>
-__Coercive Apparatus & Means of Force:__ Cavalry-based military; composite bow, short sword (akinakes), and spear; Sarmatians introduce heavy cavalry (cataphracts) with lance and armor; coercive capacity concentrated in elite war-bands but mobilizable across the free male population.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through kinship authority and blood-feud conventions; banditry endemic on margins; inter-tribal raiding constant; disorder manageable but spikes during succession crises.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication via mounted messengers; information travels at horse speed across the steppe; feasts and assemblies serve as information hubs; transmission velocity high for the era within the pastoral network.<br><br>
-__Record, Storage & Persistence:__ Storage entirely oral; no native script; literate neighbors (Greeks, Persians, Chinese) record steppe peoples externally; oral tradition preserves genealogies, origin myths, and practical knowledge across generations, but persistence vulnerable to lineage extinction.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control over oral narrative through bards and ceremonial recitation; no formal censorship; discourse norms emphasize martial honor and genealogical precedence; taboos around sacred sites and royal burials.<br><br>
-__Reception, Attention & Amplification:__ Oral transmission at feasts and assemblies amplifies elite narratives; attention concentrated on war leaders and successful raids; amplification localized within tribal networks.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission prone to drift and embellishment; verification through multiple witnesses and cross-referencing lineage keepers; noise load moderate, increasing with distance from original events.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in kinship honor, blood-price compensation, and reciprocal obligation; revenge sanctioned for unpaid debts; hospitality obligations sacred; fairness understood through kinship lens.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; customary norms transmitted orally; regulation through precedent and elder authority; evolution slow and conservative.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by clan elders and tribal councils; enforcement through kin-group obligation and threat of blood feud; liability collective within the kinship unit; no third-party enforcement apparatus.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights defined by kinship status; free warriors enjoy autonomy; slaves lack protections; compliance burden light for those within the kinship structure, harsh for outsiders and captives.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity for powerful lineages when weaker clans cannot enforce claims; blood feuds sometimes persist unresolved across generations; wrongdoing against outsiders (sedentary populations, captives) largely unredressed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; practical knowledge (animal husbandry, metallurgy, warfare tactics) transmitted through apprenticeship; paradigm is empirical and tradition-bound; frontier of discovery limited to incremental craft improvement.<br><br>
-__Applied Knowledge & Technical Method:__ Advanced horse breeding and training techniques; composite bow manufacture (wood, horn, sinew laminate); gold and bronze metalworking in animal style; felt and leather crafts; techniques highly developed within the pastoral toolkit.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education through oral instruction and practical apprenticeship; knowledge stock specialized (herding, warfare, craft) and distributed across kinship groups; literacy absent; skill distribution narrow compared to sedentary civilizations.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge loss occurs when lineages die out or disperse; chariot technology superseded by mounted cavalry represents adaptive obsolescence; decay rate moderate, buffered by widespread distribution of core pastoral skills.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin myths (Scythian descent from Targitaos, gifts from heaven) establish foundational identity; memory of great kings and successful campaigns transmitted orally; identity rooted in nomadic freedom and martial prowess.<br><br>
-__Artistic Expression & Material Culture:__ Animal-style art dominates decorative production (gold plaques, belt buckles, horse trappings); depictions of predators, prey, and combat; felt appliqué, tattoos (Pazyryk), and carpet weaving; aesthetic vocabulary distinctive and widely recognized.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence high during periods of military success and trade prosperity; disposition martial and risk-tolerant; mood darkens following defeats or succession crises; overall behavioral temper aggressive and expansive.<br><br>
-__Form Exhaustion & Meaning Decay:__ Animal-style motifs retain vitality throughout the period; no evident form exhaustion; Sarmatian adoption of the style indicates continued cultural potency; decay minimal within this window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmology with sky god (Papaeus), earth goddess (Api), and fire worship; fatalism regarding warfare outcomes; piety expressed through sacrifice and ritual; afterlife expectations reflected in elaborate burials.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Horse and cattle sacrifice central; blood oaths seal alliances; shamanic practices attested (Herodotus on hemp-vapor rituals); royal funerals involve elaborate ritual killing of horses and retainers; devotional intensity high.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No priestly hierarchy; shamans and diviners hold spiritual authority but lack institutional power; doctrinal authority diffuse and embedded in oral tradition; no enforcement of orthodoxy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Greek religious motifs appear in Scythian art through trade contact; some syncretism evident; no displacement of core beliefs during this window; spiritual reach stable.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; sacred practice remains vital and functionally integrated with political and social life; spiritual discharge channels through sacrifice, ritual, and funerary rites; no accumulated residue of unmet spiritual need.<br><br>
+
+__Summary:__ The Pontic-Caspian steppe at the height of mounted nomadic adaptation, where horse archery, mobile herding, and oral tradition fuse into a durable way of life that Greek, Persian, and Chinese observers document but cannot penetrate. The binding constraint is orality: genealogies, legal custom, religious tradition, and the intricate ritual of kurgan burial all ride on speech and memory; what is known of these societies comes almost entirely from literate outsiders, since the nomads themselves write nothing down.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Pontic steppe stretches from the Danube to the Ural River, open grassland broken by river valleys (Dnieper, Don, Volga) that serve as watering corridors and seasonal camp anchors. Terrain imposes minimal friction on mounted movement; a rider covers what a walker cannot. The steppe corridor links the Black Sea littoral to Central Asia, enabling long-range migration and raid.
+
+__Climate Regime & Volatility:__ Continental climate with cold winters (dropping below −20°C), hot dry summers, and spring snowmelt creating seasonal floods along river corridors. Precipitation averages 300–500 mm, enough for grass but marginal for agriculture. Interannual variability in snowfall and drought drives herd losses and occasional migration pulses.
+
+__Hazard Regime & Exposure:__ Drought and dzud (severe winter with ice-crusted snow preventing grazing) are the principal shocks; a bad winter can kill half a herd. Steppe fires ignited by lightning or accident clear forage. Flood along major rivers occasionally disrupts camp placement.
+
+__Resource & Energy Endowment:__ Grassland biomass supports large herbivore populations; iron ore deposits in the Urals and Caucasus supply metal. Timber is scarce on the open steppe, available only in river galleries and forest-steppe margins. Fuel relies on dung and brush.
+
+__Waste Absorption & Sink Capacity:__ Low population density and mobile pastoralism disperse waste across vast areas. Kurgan construction disturbs local soils but at negligible cumulative scale. The sink remains unsaturated; no feedback loops constrain the system.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Sparse settlement and constant movement reduce epidemic exposure compared with sedentary populations, though zoonotic disease from close contact with horses, sheep, and cattle persists. Infant mortality remains high; life expectancy at birth likely below 30 years.
+
+__Nutrition & Physiological Vitality:__ Diet centers on meat, mare's milk, and fermented kumis, supplemented by grain acquired through trade or raid. Protein intake is high; skeletal evidence shows robust stature. Seasonal scarcity in late winter stresses the young and elderly.
+
+__Care, Healing & Recovery Capacity:__ Wound-tending and bone-setting practiced within kin groups; herbal remedies and shamanic healing rituals documented archaeologically (Pazyryk mummies show tattooing and possible therapeutic trepanation). No institutional medicine; care capacity is distributed and limited.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny among elite males; bride-price in livestock structures marriage alliances. High fertility offset by high infant and maternal mortality. Exogamous clan marriage reinforces inter-tribal bonds.
+
+__Demographic Renewal & Density:__ Population density extremely low—perhaps 1 person per 10–20 km² of usable steppe. Replacement ratios marginally positive in good years, negative during dzud or war. Migration absorbs surplus or fills gaps; population fluctuates with herd success.
+
+__Attrition & Dependency Overhang:__ The aged and infirm cannot ride; dependency falls on productive kin. Archaeological evidence of sacrificial burial of retainers suggests some dependents are eliminated at elite deaths. The load is small given low total population.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Pastoral nomadism based on mixed herds of horses, cattle, sheep, and goats provides the subsistence floor. Mare's milk and meat dominate the diet; grain, textiles, and metal goods are acquired through trade with Greek Black Sea colonies or raid on sedentary neighbors.
+
+__Energy Capture & Conversion:__ Human and animal muscle are the sole energy sources. The horse multiplies human mobility by an order of magnitude; a mounted archer ranges 50–80 km per day. Fire uses dung and brush. No water or wind power; work ceiling is set by fodder availability.
+
+__Labor Organization & Coercion:__ Labor is organized by kinship and gender: men herd, hunt, and raid; women process milk, tan hides, and weave felt. Slave-taking from raids supplements labor; Greek sources note Scythian slave markets. Coercion is moderate—raiding captures labor, but internal hierarchy relies on prestige and kinship rather than chattel bondage.
+
+__Production & Surplus Capacity:__ Surplus takes the form of livestock and portable wealth (gold, textiles, metalwork). Production is cyclical with herd reproduction; a good year adds 20–30% to herd size. Surplus funds elite display—gold ornaments, kurgan burials—and underwrites raiding expeditions.
+
+__Storage, Reserves & Buffering:__ Livestock on the hoof are the primary reserve; surplus animals buffer against loss. Portable gold and trade goods serve as wealth storage. No granaries; dependence on external grain sources creates vulnerability to trade disruption.
+
+__Exchange, Trade & Logistics:__ Active exchange with Greek colonies (Olbia, Panticapaeum) trades grain, slaves, hides, and horses for wine, oil, metalwork, and luxury goods. The steppe corridor links to Central Asian and Chinese trade networks. Logistics rely on horseback transport; wheeled wagons supplement for heavy goods.
+
+__Value Storage, Credit & Deferred Exchange:__ Wealth stored in livestock, gold, and prestige goods. No coinage of their own; Greek and Persian coins circulate. Reciprocal obligation within kin networks functions as credit; deferred exchange operates through gift and counter-gift.
+
+__Surplus Extraction & Redistribution:__ Tribal leaders extract tribute in livestock and labor from subordinate clans; redistribution through feasting and gift-giving maintains allegiance. Raiding redistributes wealth from sedentary neighbors to the steppe.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates heavily among royal and aristocratic lineages, visible in lavish kurgan burials (Chertomlyk, Kul-Oba). Livestock herds are defended by kinship solidarity and the threat of mounted retaliation.
+
+__Byproducts & Waste Routing:__ Animal waste fertilizes the steppe; hide processing leaves some localized refuse. Waste volume is trivial at prevailing density; no accumulation problem.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal clans form the basic social unit; genealogical memory, transmitted orally, defines identity and inheritance rights. Property (herds, portable goods) passes through male lines. Marriage alliances between clans cement political bonds.
+
+__Association & Mutual Aid:__ Clans cluster into tribes and tribal confederations for defense and large-scale raiding. Mutual aid operates through kinship obligation and reciprocal feasting. No guilds or formal associations; the kin network is the safety net.
+
+__Leisure, Play & Sociability:__ Feasting, horse racing, archery contests, and drinking kumis mark social gatherings. Oral poetry and heroic songs performed at feasts transmit cultural memory. Sociability centers on the camp and the seasonal assembly.
+
+__Stratification, Status & Group Structure:__ Sharp hierarchy: royal clans at the apex, aristocratic warrior lineages, commoner herders, and slaves at the bottom. Status marked by horse quality, gold ornament, and burial elaboration. Boundaries permeable through martial achievement; a successful raider can rise.
+
+__Administrative Capacity & Institutional Integrity:__ Confederation structure under paramount kings (Scythian "Royal Scythians" dominate other tribes). No bureaucracy, no written records; administration is personal and oral. Succession often contested; confederations fragment on a king's death.
+
+__Coercive Apparatus & Means of Force:__ The mounted archer is the premier military asset—compound bow, scale armor, short sword. Every adult male is a warrior; no standing army but rapid mobilization through kinship summons. Fortifications absent; defense relies on mobility and the steppe's depth.
+
+__Discharge, Disorder & Decay:__ Inter-clan feuds and succession disputes are the primary sources of disorder; mediation through kinship elders and paramount authority contains most conflicts. Chronic low-level raiding against neighbors externalizes violence. The confederation structure shows recurring fragmentation but also reconsolidation under strong leaders.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Martial honor and lineage pride dominate the emotional register. Trust extends within the clan; outsiders are potential enemies or trade partners, rarely neutral. Confidence is high when herds thrive; anxiety spikes after dzud or military defeat.
+
+__Leadership & Personal Authority:__ Kings and chiefs rule through personal charisma, martial prowess, and generous redistribution. Allegiance is personal, not institutional; a weak successor loses followers. Herodotus notes Scythian kings claiming divine descent, reinforcing personal authority with sacred sanction.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on success in war and the ability to redistribute spoils. Oral genealogies anchor royal claims; ritual oaths bind warriors to chiefs. Allegiance erodes quickly when a leader fails in battle or distribution.
+
+__Political Will & Collective Resolve:__ Confederations mobilize rapidly for defense or major raids but struggle to sustain prolonged unified action. The will to fight is high for short campaigns; extended sieges or occupation are beyond the system's organizational patience.
+
+__External Relations & Posture:__ Aggressive raiding against sedentary neighbors (Persia, Greek colonies, later Rome) alternates with trade and treaty. Darius I's failed Scythian campaign (c. 513 BCE) demonstrates defensive capacity; the steppe retreats before invaders, refusing decisive battle.
+
+__Disaffection, Apathy & Spent Will:__ Defeat or prolonged drought can fragment confederations as subordinate clans defect to rivals. The Sarmatian displacement of Scythian dominance (c. 200 BCE onward) reflects such erosion; spent will and demographic decline open space for successor peoples.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Shared Iranic languages (Scythian, Sarmatian) provide mutual intelligibility across the Pontic steppe. No indigenous script; communication is entirely oral. Interpreters mediate with Greek and Persian literate neighbors.
+
+__Channels & Transmission Velocity:__ Mounted messengers transmit information at the speed of a horse—50–80 km per day. Smoke signals and drum communication supplement for alarm. Reach is limited by the need for relay; no permanent postal infrastructure.
+
+__Record, Storage & Persistence:__ Memory is the sole archive. Oral genealogies, heroic epics, and ritual formulae preserve knowledge across generations. Transmission is vulnerable to the death of expert reciters; catastrophic loss is possible but mitigated by redundancy across kin groups.
+
+__Framing, Censorship & Discourse Norms:__ Elite control over oral tradition shapes what is remembered; genealogies glorify ruling lineages. Taboos surround sacred knowledge held by shamans. No formal censorship, but social pressure enforces conformity to accepted narratives.
+
+__Reception, Attention & Amplification:__ Feasts and assemblies concentrate attention; heroic songs and oaths amplify key messages. Repetition and formulaic structure aid memorization and propagation.
+
+__Signal Integrity & Noise Load:__ Oral transmission degrades over generations; details shift, genealogies telescope, events merge. Cross-checking is limited to multiple reciters. External literate sources (Herodotus, Hippocrates, Chinese records) provide partial verification but are themselves filtered through foreign categories.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Honor, kinship loyalty, and reciprocity form the moral core. Hospitality obligations are sacred; guest-murder is taboo. Blood feud enforces justice for wrongs against kin.
+
+__Law, Codification & Regulatory Evolution:__ No written law; customary oral tradition governs conduct. Royal edicts are spoken and remembered. Taboos against oath-breaking and violation of sacred sites carry supernatural sanction.
+
+__Adjudication, Liability & Sanction:__ Disputes adjudicated by elders and paramount chiefs. Compensation in livestock settles most disputes; blood feud follows when compensation fails. Execution and mutilation documented in Greek sources for serious offenses.
+
+__Rights, Protections & Compliance Burden:__ Rights inhere in kinship status and martial standing. No concept of individual rights independent of clan membership. Compliance burden is low; rules are few and socially enforced.
+
+__Impunity & Unredressed Wrong:__ Powerful lineages may escape sanction for wrongs against weaker clans; impunity correlates with martial strength. Blood feud cycles persist when compensation is refused. The gap between justice owed and delivered remains moderate, contained by kinship solidarity.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; explanation of natural phenomena is mythological and shamanic. Greek observers (Hippocrates, Herodotus) describe Scythian customs empirically, but this knowledge does not feed back into the steppe.
+
+__Applied Knowledge & Technical Method:__ Sophisticated technique in horse breeding, compound bow construction, leather and felt working, and goldsmithing (animal style art). Metallurgical skill in iron and bronze. Techniques transmitted orally through apprenticeship within kin groups.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal, embedded in daily practice. Horsemanship, archery, herding, and craft skills learned from childhood. Oral tradition transmits genealogical, ritual, and technical knowledge. Distribution is broad for basic pastoral skills, narrow for specialist crafts.
+
+__Obsolescence & Knowledge Decay:__ Technique is conservative; innovation slow. Loss occurs when skilled practitioners die without transmitting knowledge. The absence of written record makes accumulated loss invisible until a technique disappears entirely.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin myths traced to divine ancestors (Greek sources record Scythian genealogy from Heracles or Targitaos). Heroic ancestors, great raids, and founding migrations anchor identity. The steppe itself is sacred homeland.
+
+__Legitimating Narrative & Ideology:__ Royal lineages claim divine descent and right to rule by martial prowess. The oral epic tradition celebrates warrior virtue and successful raiding as the measure of worth.
+
+__Artistic Expression & Material Culture:__ Animal style art—gold and bronze plaques depicting predators, prey, and combat—is the signature aesthetic. Felt appliqué, tattooing (Pazyryk), and elaborate kurgan furnishings display wealth and identity. Dress includes trousers, tunics, pointed caps, and gold ornament.
+
+__Form Exhaustion & Meaning Decay:__ The animal style maintains vitality throughout the period; forms evolve but do not exhaust. Later Sarmatian art shows stylistic drift but no evident anomie. Form renewal occurs through contact with Greek, Persian, and Central Asian traditions.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ A shamanic cosmology with a three-tiered universe (sky, earth, underworld), animal spirits, and ancestor veneration. Fate is accepted; omens and divination guide action. Greek sources describe Scythian belief in an afterlife requiring grave goods and sacrificed retainers.
+
+__Ritual, Devotion & Sacred Practice:__ Kurgan burial is the central ritual: the deceased interred with horses, weapons, gold, and sometimes sacrificed servants and concubines. Blood oaths, libations, and sacrificial feasting mark alliances and transitions. Shamans mediate with the spirit world through trance and ritual.
+
+__Religious Institutions & Doctrinal Authority:__ No priestly hierarchy; shamans hold sacred knowledge but lack institutional structure. Royal authority carries sacral dimension; kings may perform rituals. Doctrine is oral and flexible, transmitted through shamanic lineages.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Greek influences appear in elite burials near the Black Sea colonies; Scythian gods are equated with Greek counterparts by external observers. Central Asian influences arrive from the east. Syncretism is informal; no doctrinal rigidity to resist blending.
+
+__Disenchantment & Sacred Discharge:__ No evidence of secularizing drift within the period. The cosmology retains its grip; kurgan burial practice continues undiminished until external conquest (Roman, Hunnic) disrupts the tradition. Disenchantment is a later phenomenon, outside this window.
+

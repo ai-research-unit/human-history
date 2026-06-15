@@ -1,69 +1,139 @@
-# __2010 CE – 2026 CE__ — Digital Inequality and Access
-__Summary:__ A pan-temporal snapshot of digital access stratification across the British Isles, where broadband infrastructure, device ownership, and digital literacy divide the population along geographic, generational, and socioeconomic lines; the binding constraint is the gap between universal connectivity policy commitments and uneven implementation, leaving rural areas, older populations, and low-income households persistently underserved despite successive government programs; margin against shock proved thin when COVID-19 lockdowns exposed those without reliable access, and the overall trend is slow closing of the gap at the infrastructure level while skills and usage divides prove more resistant.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Topography imposes differential infrastructure costs: dense urban cores economically viable for fiber rollout; rural uplands, island communities, and dispersed settlements face distance penalties that commercial providers avoid without subsidy; the spatial friction of remoteness translates directly into connectivity delay.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime climate with increasing storm frequency and flooding events; exposed infrastructure—overhead lines, cabinets, exchanges—vulnerable to weather damage, creating episodic outages concentrated in exposed rural and coastal zones.<br><br>
-__Hazard Regime & Exposure:__ Flood risk rising in river valleys and coastal areas; no seismic or volcanic exposure; infrastructure resilience adequate for baseline conditions but localized failures during extreme weather reveal limited redundancy in last-mile connections.<br><br>
-__Resource & Energy Endowment:__ Data centers and network infrastructure draw on national grid; energy costs stable but rising; no resource constraint on digital expansion beyond general energy price pressures affecting operational costs.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste from device turnover accumulates; recycling infrastructure improving but penetration uneven; export of waste electronics to lower-income countries continues; absorptive capacity adequate domestically but problem externalized.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden low; COVID-19 pandemic 2020–2022 elevated mortality temporarily and drove sudden digital dependency for healthcare, work, and social contact, exposing biological vulnerability of those digitally excluded from telehealth and remote services.<br><br>
-__Nutrition & Physiological Vitality:__ General nutritional adequacy; no direct link to digital access, though digitally excluded populations correlate with lower socioeconomic status and associated health disparities in food security and chronic disease prevalence.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ No direct biological constraint; digital platforms increasingly mediate partner-finding, with those lacking access or skills excluded from this channel of social and reproductive networking.<br><br>
-__Demographic Renewal & Density:__ Aging population structure concentrates digital exclusion among those over 65; younger cohorts near-universal in connectivity but older demographics lag in adoption, creating a generational demographic divide in access.<br><br>
-__Attrition & Dependency Overhang:__ Elderly dependents disproportionately digitally excluded; as services migrate online—banking, healthcare booking, government services—this cohort faces compounding exclusion, increasing care burden on connected family members.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning adequate for most; digital exclusion affects access to cheaper online goods, price comparison, and benefit claims, imposing a "poverty premium" on those without connectivity or skills to navigate online marketplaces.<br><br>
-__Energy Capture & Conversion:__ Electrical grid stable; no constraint on device charging or network operation; energy poverty affects some low-income households' ability to power devices and heat homes simultaneously during cost-of-living pressures from 2022.<br><br>
-__Labor Organization & Coercion:__ Remote work capacity stratified by occupation and connectivity; lockdowns revealed that professional and administrative workers could transition online while manual, service, and care workers could not, widening labor market inequality along digital lines.<br><br>
-__Production & Surplus Capacity:__ Digital productivity gains accrue to connected businesses and workers; enterprises and regions with poor connectivity face productivity penalties; full-fiber rollout aims to close this gap but implementation uneven through 2026.<br><br>
-__Storage, Reserves & Buffering:__ Household financial reserves thin for lowest quintiles; digital exclusion compounds difficulty accessing emergency support, benefit claims, and financial services that have migrated online, reducing effective buffering capacity.<br><br>
-__Exchange, Trade & Logistics:__ E-commerce dominates retail; digitally excluded populations reliant on diminishing physical retail infrastructure; rural areas face both connectivity gaps and physical shop closures, creating compounding access deficits.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Banking services increasingly digital-first; branch closures accelerate through the window; those without online banking skills or connectivity face higher transaction costs and reduced financial service access.<br><br>
-__Surplus Extraction & Redistribution:__ Government services—tax, benefits, licensing—migrate to digital-by-default; Universal Credit requires online claims; those unable to navigate systems face delayed or lost entitlements, effectively reducing redistribution to the digitally excluded.<br><br>
-__Wealth Distribution & Asset Defense:__ Digital skills correlate with income and education; those with connectivity and literacy access better financial information, investment platforms, and asset management, while excluded populations fall further behind in wealth accumulation.<br><br>
-__Byproducts & Waste Routing:__ Device upgrade cycles generate e-waste concentrated in higher-income, higher-connectivity households; collection schemes exist but participation uneven; waste routing functional but improvement slower than device proliferation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Digital exclusion correlates with social isolation, particularly among elderly; online platforms sustain social networks for the connected while excluded populations rely on diminishing face-to-face community infrastructure.<br><br>
-__Stratification, Status & Group Identity:__ Digital capability emerging as status marker; those without skills or access face stigma and practical disadvantage in employment, social participation, and service access; stratification along age, class, and geography.<br><br>
-__Kinship, Family & Inheritance:__ Family members bridge digital divides informally—children assisting parents with online tasks; this creates dependency and uneven burden; digital skills not formally transmitted through inheritance structures.<br><br>
-__Civic Association & Self-Organization:__ Community organizations increasingly coordinate online; those without access excluded from participation; digital skills programs run by libraries and charities partially offset but coverage insufficient.<br><br>
-__Leisure, Play & Sociability:__ Entertainment, social interaction, and leisure increasingly digital; streaming, gaming, social media dominant for connected populations; excluded populations limited to traditional broadcast and diminishing physical social venues.<br><br>
-__Grievance Channels & Social Discharge:__ Frustration with digital exclusion accumulates; formal complaints possible but require navigating often-digital systems; local library and community support services absorb some friction but capacity constrained by austerity-era funding cuts.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Digital policy set primarily by Westminster with devolved implementation in Scotland, Wales, and Northern Ireland; Republic of Ireland operates separate framework; authority centralized in Ofcom and DCMS for UK, with ComReg in Ireland.<br><br>
-__Succession & Power Transfer:__ Routine democratic transitions; digital policy continuity across government changes with cross-party commitment to universal broadband, though implementation timelines repeatedly extended.<br><br>
-__Legitimacy & Political Narrative:__ Universal connectivity framed as leveling-up priority; rural and northern communities promised digital inclusion as part of regional equality agenda; delivery gaps erode credibility of these commitments.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Ofcom regulatory capacity adequate; government digital service programs improve but inconsistent across departments; local authority digital support varies widely with funding disparities.<br><br>
-__Political Participation & Mobilization:__ Electoral participation increasingly informed by digital channels; those without access receive less political information and have reduced capacity for online organizing, potentially depressing participation among excluded groups.<br><br>
-__Geopolitical Position & External Relations:__ Post-Brexit UK pursues independent digital regulation; Ireland remains within EU digital framework; no direct geopolitical constraint on domestic access policy beyond divergent regulatory trajectories.<br><br>
-__Coercive Apparatus & Means of Force:__ No direct relevance to access inequality; police and security services digitally capable; no coercive dimension to connectivity gaps.<br><br>
-__Internal Order & Threat Environment:__ No significant disorder; digital exclusion creates vulnerability to scams and fraud among less digitally literate populations, representing a security gap rather than order problem.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Fiber and mobile broadband expanding but uneven; superfast broadband reaches over 95% of premises by 2024 but full-fiber penetration lower; 4G near-universal, 5G urban-concentrated; rural last-mile remains the binding constraint.<br><br>
-__Record, Storage & Persistence:__ Cloud storage accessible to connected populations; those without reliable connectivity or digital literacy unable to access personal records, government correspondence, or financial documentation stored online.<br><br>
-__Framing, Censorship & Discourse Norms:__ No differential censorship by access level; however, digital literacy affects ability to evaluate information quality, leaving less skilled users more vulnerable to misinformation and manipulation.<br><br>
-__Reception, Attention & Amplification:__ Attention economy favors connected, digitally literate users who can filter and curate; excluded populations receive information through intermediaries—family, community workers—with attendant delays and filtering.<br><br>
-__Signal Integrity & Noise Load:__ Those with poor connectivity experience degraded signal—buffering, dropouts, slow loading—reducing effective information access even where nominal connection exists; quality divide overlays coverage divide.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Broad consensus that digital access should be universal; failure to deliver framed as policy inadequacy rather than injustice, but frustration accumulates among persistently excluded communities.<br><br>
-__Law, Codification & Regulatory Evolution:__ Universal Service Obligation from 2020 provides legal right to request decent broadband (10 Mbps download, 1 Mbps upload); Online Safety Act 2023 regulates platforms but does not address access inequality directly.<br><br>
-__Adjudication, Enforcement & Liability:__ Ofcom adjudicates connectivity complaints; Universal Service Obligation enforceable but threshold low relative to modern digital participation requirements; no effective liability for persistent rural underservice.<br><br>
-__Rights, Protections & Compliance Burden:__ Digital access not framed as fundamental right; data protection (GDPR/UK GDPR) applies equally but digital literacy affects capacity to exercise data rights and navigate compliance requirements.<br><br>
-__Impunity & Unredressed Wrong:__ Communities promised connectivity repeatedly see timelines extended; no effective remedy for delayed rollout beyond market forces; accumulated grievance largely unredressed through formal channels.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Digital divide research well-established in academic literature; understanding evolved from access-focused to multi-dimensional models incorporating skills, usage quality, and outcomes; policy application lags academic insight.<br><br>
-__Applied Knowledge & Technical Method:__ Fiber optic, mobile broadband, and satellite technologies available; implementation constrained by commercial viability rather than technical capability; last-mile solutions exist but economics resist rural deployment.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital skills unevenly distributed by age, education, and socioeconomic status; Essential Digital Skills Framework defines baseline but adult skills programs underfunded; school-age cohorts digitally native but critical evaluation skills variable.<br><br>
-__Obsolescence & Knowledge Decay:__ Rapid platform and interface evolution creates ongoing skills obsolescence; those who acquire digital literacy face continuous learning requirements; support for ongoing upskilling insufficient, leaving early adopters stranded as systems evolve.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ No deep mythic dimension; digital competence increasingly normalized as basic capability, creating cultural devaluation of those without it; rural and traditional communities resist framing of digital exclusion as deficiency.<br><br>
-__Artistic Expression & Material Culture:__ Digital access shapes cultural participation—streaming, online galleries, social media creativity; excluded populations limited to traditional cultural forms with diminishing institutional support and physical venue closures.<br><br>
-__Collective Mood & Behavioral Disposition:__ Frustration among excluded populations, particularly during COVID lockdowns when digital access became essential; resignation rather than mobilization characterizes response; mood improving as rollout progresses but unevenly.<br><br>
-__Form Exhaustion & Meaning Decay:__ Promise of universal connectivity repeated across multiple government programs without full delivery; policy rhetoric losing credibility; "leveling up" framing increasingly hollow for communities still waiting for adequate service.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular majority; digital exclusion does not carry explicit spiritual dimension; however, social isolation resulting from exclusion may exacerbate existential loneliness among elderly populations.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious communities increasingly use digital channels for worship, community, and pastoral care, accelerated by COVID; digitally excluded members of congregations lose access to these extensions of spiritual community.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Churches, mosques, and other institutions adopt digital communication; no doctrinal position on digital access; institutional outreach to digitally excluded through traditional channels continues but diminishing.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Online religious content accessible to connected populations; excluded populations limited to local institutional presence; no significant spiritual movement specifically addressing digital exclusion.<br><br>
-__Disenchantment & Sacred Discharge:__ No specifically spiritual disenchantment from digital exclusion; general social isolation may contribute to anomie among excluded elderly, but this registers as social rather than spiritual residue.<br><br>
+# __2010 CE – 2026 CE — Digital Inequality and Access__
+
+__Summary:__ The British Isles' transition to a digital-first information environment exposes and entrenches structural inequalities, as rural communities, older populations, low-income households, and disabled persons face compounding barriers of infrastructure, affordability, and skill — the binding constraint being the gap between the accelerating pace of digitization and the uneven distribution of connectivity, devices, and competencies required to participate in digital public life.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's settlement pattern — dense metropolitan cores (London, Manchester, Birmingham, Edinburgh, Dublin, Belfast) against dispersed rural populations in the Scottish Highlands, Welsh valleys, West of Ireland, and Northern Irish uplands — creates a persistent spatial friction for digital infrastructure, where last-mile connectivity costs per household diverge sharply between urban apartment blocks and remote farmsteads.
+
+__Climate Regime & Volatility:__ Atlantic weather patterns impose incremental infrastructure costs — storm damage to overhead lines, flooding of exchanges — but do not differentially gate digital access; the temperate regime is operationally stable for data center cooling and network maintenance.
+
+__Hazard Regime & Exposure:__ Flood risk in low-lying areas (Somerset Levels, Thames estuary, East Anglia) occasionally disrupts local connectivity, but no systemic hazard regime drives digital inequality; infrastructure repair capacities generally restore service within days.
+
+__Resource & Energy Endowment:__ Energy supply is grid-universal, with no differential energy access gating digital participation; however, rising energy costs (2021–2023) force low-income households into trade-offs between heating and device charging, adding an indirect energy barrier to always-on connectivity.
+
+__Waste Absorption & Sink Capacity:__ E-waste accumulates as device upgrade cycles shorten; the digital divide's residue includes older devices discarded before full depreciation, with recycling infrastructure absorbing a fraction and landfill or export taking the remainder — the sink saturates slowly but steadily.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The COVID-19 pandemic (2020–2022) demonstrates how digital exclusion compounds health risk: those without connectivity struggle to book vaccinations, access telehealth, or receive public health guidance, with mortality correlating inversely with digital access among older populations.
+
+__Nutrition & Physiological Vitality:__ Screen time correlates with sedentary behavior across all income brackets, but lower-income households lack compensating access to sports facilities or outdoor space; children in digitally excluded households, however, show different deficits — reduced access to online educational health resources.
+
+__Care, Healing & Recovery Capacity:__ NHS digital transformation (patient portals, appointment booking, prescription ordering) improves access for the digitally literate while erecting barriers for those without devices, connectivity, or skills; telehealth expands reach but excludes the same populations already underserved by in-person care.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating app adoption reshapes pairing dynamics across the population, but older and rural populations remain more reliant on traditional courtship channels; no direct reproductive selection pressure operates through digital access.
+
+__Demographic Renewal & Density:__ Urban youth are near-universally connected; rural and older cohorts show lower smartphone penetration (over-65s: ~75% smartphone ownership by 2024 versus ~98% for 18–24s), with the generational gap narrowing but not closing.
+
+__Attrition & Dependency Overhang:__ The dependent elderly population — rising as the UK demographic structure ages — is the cohort most likely to be digitally excluded, creating a care burden as family members must intermediate their digital interactions with government, health, and financial services.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Online grocery shopping expands choice and sometimes reduces cost, but requires connectivity, devices, and payment cards; the unbanked and offline pay higher prices at physical convenience stores, compounding existing deprivation.
+
+__Energy Capture & Conversion:__ Data centers cluster where energy is cheap and reliable (Dublin, London); household-level energy conversion for digital participation is marginal but real — device charging, router operation — with energy poverty creating friction.
+
+__Labor Organization & Coercion:__ The gig economy platform model (Deliveroo, Uber, TaskRabbit) requires smartphone access and digital literacy; workers without these are excluded from an expanding segment of low-wage employment, while those included face algorithmic management and precarious terms.
+
+__Production & Surplus Capacity:__ Digital productivity gains accrue to firms and workers with connectivity and skills; the productivity gap between digitally enabled and excluded segments widens, concentrating surplus in the former.
+
+__Storage, Reserves & Buffering:__ Cloud storage and digital banking provide savings and reserve management tools, but the digitally excluded rely on cash, physical documents, and in-person banking — all contracting as branches close (UK bank branches: ~12,000 in 2010 to ~5,000 by 2024), eroding their buffering infrastructure.
+
+__Exchange, Trade & Logistics:__ E-commerce (Amazon, supermarket delivery) requires digital access; the offline population faces shrinking physical retail options, especially in rural areas and town centres hollowed by online competition.
+
+__Value Storage, Credit & Deferred Exchange:__ Digital-only banks (Monzo, Starling, Revolut) offer superior rates and services but exclude those without smartphones or identification documents; the unbanked population (~1.2 million UK adults by 2020) remains locked out of these instruments.
+
+__Surplus Extraction & Redistribution:__ Universal Credit's digital-by-default design (2013 rollout, full migration by 2024) requires claimants to manage applications online; those without digital access face delays, sanctions, and benefit denials, with evidence of systematic disadvantage to older and disabled claimants.
+
+__Wealth Distribution & Asset Defense:__ Digital financial literacy correlates with wealth accumulation; the digitally excluded are more vulnerable to fraud (telephone scams targeting the offline elderly) and less able to access wealth-building tools (investment apps, comparison sites).
+
+__Byproducts & Waste Routing:__ Obsolete devices accumulate in drawers and landfills; the digital divide generates a secondary waste stream of half-used technology, with formal recycling capturing only a minority of discarded hardware.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Intergenerational digital assistance becomes a kinship obligation — adult children teach parents to video call, manage online accounts, book appointments — adding care labor to family relations while reinforcing generational hierarchy.
+
+__Association & Mutual Aid:__ Community groups, mutual aid networks, and local organizing migrate online (Facebook groups, WhatsApp coordination), creating participation barriers for those without access; pandemic-era mutual aid (2020–2021) simultaneously demonstrates digital organizing's reach and its exclusions.
+
+__Leisure, Play & Sociability:__ Social life increasingly moves to digital platforms (Instagram, TikTok, gaming); youth sociability is substantially mediated by connectivity, while the offline experience social isolation compounded by the contraction of physical third places.
+
+__Stratification, Status & Group Structure:__ Digital fluency becomes a class marker; professional-managerial classes assume universal connectivity, while working-class and unemployed populations face assumptions of digital access they may not possess, creating status friction in service encounters.
+
+__Administrative Capacity & Institutional Integrity:__ Government digital transformation (GOV.UK, HMRC online, DWP Universal Credit) assumes citizen digital access; the persistence of Assisted Digital services (telephone, in-person) is chronically underfunded relative to the population requiring them, estimated at 10–15% of adults for complex transactions.
+
+__Coercive Apparatus & Means of Force:__ Police and security services increasingly operate through digital surveillance, facial recognition, and online monitoring; the digitally excluded are less visible to these systems but also less able to access victim services or report crime online.
+
+__Discharge, Disorder & Decay:__ The digitally excluded are more likely to miss service appointments, fail administrative requirements, and fall through institutional cracks, generating a standing population of "digitally disappeared" whose interactions with the state become increasingly friction-laden.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Anxiety about being "left behind" pervades older and less-educated populations; the digitally excluded report feelings of exclusion, embarrassment, and frustration, while the connected develop impatience with offline-only systems, widening an empathy gap.
+
+__Leadership & Personal Authority:__ Digital exclusion policy lacks charismatic champions; it is a technocratic concern, advanced by think tanks (Good Things Foundation, Lloyds Bank Consumer Digital Index) and charities rather than political leaders, leaving it low on the public agenda.
+
+__Legitimacy as Lived Allegiance:__ Trust in digital systems is uneven: the digitally fluent trust platforms more than the state, while the excluded distrust both; legitimacy fractures along the access divide, with those forced into digital-by-default systems they cannot navigate feeling abandoned.
+
+__Political Will & Collective Resolve:__ Political will to address digital exclusion is intermittent; the Cameron government's "digital by default" agenda (2012) prioritizes efficiency over equity; the Johnson government announces digital skills initiatives without adequate funding; structural commitment remains weak.
+
+__External Relations & Posture:__ Ireland's position as EU tech hub creates divergent regulatory posture; UK-Ireland digital relations are cooperative on practical matters but diverge on data protection and platform regulation post-Brexit.
+
+__Disaffection, Apathy & Spent Will:__ The chronically digitally excluded develop learned helplessness; repeated failures to navigate digital systems produce withdrawal and reliance on informal intermediaries, settling into a resigned acceptance of second-class service access.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English-language digital content is near-universal, but Welsh- and Irish-language digital services lag; accessibility for disabled users improves (WCAG standards, screen readers) but compliance is uneven, with many government and commercial sites failing audit.
+
+__Channels & Transmission Velocity:__ Broadband availability rises from ~50% superfast (2010) to ~95% (2020), but the final 5% — overwhelmingly rural — face years-long waits; 5G rollout (from 2019) is urban-first, widening the urban-rural velocity gap before eventually narrowing it.
+
+__Record, Storage & Persistence:__ Cloud storage and digital records improve persistence for the connected; the digitally excluded lose access to records as paper alternatives disappear (bank statements, utility bills), creating documentation gaps for proof of address, identity verification, and benefit claims.
+
+__Framing, Censorship & Discourse Norms:__ The digitally excluded are absent from online discourse, their concerns underrepresented in algorithmically amplified public conversation; policy debates are shaped by the connected, who frame digital access as a solved problem.
+
+__Reception, Attention & Amplification:__ The attention economy rewards the already-connected; the digitally excluded are invisible to recommendation algorithms and viral amplification, marginalizing their voices even when they do access platforms.
+
+__Signal Integrity & Noise Load:__ Misinformation and scams disproportionately target the less digitally literate, including the elderly and newly connected; verification capacity is weakest among those most vulnerable, with fraud losses concentrating among the digitally peripheral.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ A principle of universal access to public services is widely shared but weakly operationalized; the gap between the stated right to access and the digital-only delivery of that access creates a moral contradiction recognized but unresolved.
+
+__Law, Codification & Regulatory Evolution:__ Equality Act 2010 provisions on disability discrimination apply to digital services but are weakly enforced; the Online Safety Act (2023) does not address access inequality; no legal right to affordable connectivity exists in UK law.
+
+__Adjudication, Liability & Sanction:__ Complaints about inaccessible digital services are adjudicated through ombudsmen and the Equality and Human Rights Commission, but remedies are slow and individual; systemic inaccessibility rarely results in sanction.
+
+__Rights, Protections & Compliance Burden:__ GDPR (to 2020) and UK GDPR (post-Brexit) create data rights that require digital access to exercise (subject access requests, consent management); the rights are formal but effectively conditional on the connectivity to claim them.
+
+__Impunity & Unredressed Wrong:__ The gap between the promise of digital public services and their inaccessibility for millions is a standing unredressed wrong; no legal mechanism systematically compensates those harmed by digital-by-default exclusion.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic research (Oxford Internet Institute, Loughborough, LSE) documents digital divides with increasing granularity, disaggregating access, use, skills, and outcomes; policy uptake of this research is selective and slow.
+
+__Applied Knowledge & Technical Method:__ Assisted Digital services, digital champions, and library-based support represent applied methods for bridging access gaps, but these interventions are underfunded and reach only a fraction of the excluded population.
+
+__Education, Knowledge Stock & Skill Distribution:__ Digital skills are unevenly distributed: 90% of young adults are confident online, but over-65s report majority discomfort with complex digital tasks; the National Retraining Scheme and Essential Digital Skills Entitlement (2020) provide partial remediation.
+
+__Obsolescence & Knowledge Decay:__ Interface changes, platform updates, and security protocols render hard-won digital skills obsolete rapidly; the less frequently connected lose competence faster, creating a treadmill effect where intermittent users fall further behind.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The narrative of British technological leadership (Industrial Revolution, Bletchley Park, the BBC) coexists uneasily with the reality of digital exclusion; national identity as a "tech nation" obscures the significant minority locked out of that identity.
+
+__Legitimating Narrative & Ideology:__ Digital transformation is justified through efficiency and convenience narratives; the excluded are implicitly framed as individual failures to adapt rather than as casualties of policy choices, legitimating their marginalization.
+
+__Artistic Expression & Material Culture:__ The material culture of connectivity — the smartphone, the laptop, the tablet — becomes a class marker; those without are visibly excluded from the default material culture of public life, from train tickets to coffee orders to COVID passes.
+
+__Form Exhaustion & Meaning Decay:__ The promise of digital utopia — connection, community, democratized information — exhausts its meaning as the reality of division, exploitation, and exclusion becomes evident; the utopian narrative hollows but no replacement emerges.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Digital exclusion carries existential weight for those affected: a sense of being erased from modern life, of the world moving on without them, of obsolescence as a personal condition rather than a policy outcome.
+
+__Ritual, Devotion & Sacred Practice:__ Religious communities adapt to digital modes (online services, Zoom prayers) during COVID-19, but digitally excluded congregants lose access to worship; some communities maintain in-person alternatives, others do not, fragmenting religious participation.
+
+__Religious Institutions & Doctrinal Authority:__ Churches and religious institutions use digital channels for outreach and organization, creating access barriers for digitally excluded members; institutional capacity to accommodate the offline is uneven and declining.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Online spiritual communities (new age, wellness, conspiracy-adjacent spiritualities) flourish, inaccessible to the offline; traditional religious institutions retain their offline membership but cannot reach the digitally-native seeking spiritual content.
+
+__Disenchantment & Sacred Discharge:__ The excluded experience a secular disenchantment — not the loss of religious belief but the loss of participation in the collective technological optimism that functions as a quasi-spiritual narrative for the connected — settling into a resigned apartness from the dominant faith in digital progress.

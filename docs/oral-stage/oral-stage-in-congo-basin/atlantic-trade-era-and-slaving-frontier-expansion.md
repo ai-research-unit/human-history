@@ -1,69 +1,140 @@
-# __1500 CE – 1880 CE__ — Atlantic Trade Era and Slaving Frontier Expansion
-__Summary:__ A nearly four-century structural transformation as Atlantic commerce penetrates the Congo Basin from west and Arab-Swahili trade from east; the slave trade becomes the binding constraint, extracting an estimated four to eight million captives with multiples killed in capture, shattering demographic renewal across the region; imported firearms, cloth, and metal goods reorganize local economies and power structures while forest populations retreat or adapt; orality remains the sole indigenous medium throughout.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Congo River and its tributaries remain the primary transport arteries, connecting coast to interior; dense equatorial rainforest imposes severe overland friction, channeling trade along waterways and savanna corridors; Stanley Pool serves as the critical transshipment chokepoint.<br><br>
-__Climate Regime & Volatility:__ Equatorial climate persists with bimodal rainfall and year-round warmth; interannual variability causes occasional droughts and flooding, but no secular drift detectable within the window; forest-savanna boundaries remain stable.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along major rivers affects riparian settlements; no seismic or volcanic exposure in the basin core; forest fires rare in humid interior; hazard regime remains low-severity with adequate margin.<br><br>
-__Resource & Energy Endowment:__ Wild rubber vines, ivory-bearing elephant populations, iron ore deposits, salt sources, and palm oil provide the extraction base; elephant stocks decline under sustained hunting pressure; copper in Katanga remains a regional resource.<br><br>
-__Waste Absorption & Sink Capacity:__ Settlement densities too low to saturate forest or riverine sinks; no industrial effluent; absorptive capacity effectively unlimited relative to pre-industrial loads.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria, sleeping sickness, and intestinal parasites remain endemic; the tsetse belt excludes cattle and protects against cavalry raiders but sustains trypanosomiasis; mortality high but stable relative to previous centuries until slaving disruptions compound disease spread.<br><br>
-__Nutrition & Physiological Vitality:__ Banana-yam-palm cultivation provides adequate calories under normal conditions; raiding and displacement degrade nutritional status in affected zones; famine accompanies slave-capture warfare in some periods and regions.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny remains common among those with wealth in people; sex-ratio imbalances develop where young males are preferentially captured for export; fertility rates fall in heavily raided populations.<br><br>
-__Demographic Renewal & Density:__ Slave exports drain reproductive-age population continuously; estimates of four to eight million exported over the window with multiples killed in capture; population in heavily raided zones fails to replace itself; interior forest populations less affected; overall demographic trajectory downward.<br><br>
-__Attrition & Dependency Overhang:__ Orphaned children, widows, and elderly without kin support accumulate in disrupted communities; dependency loads exceed absorptive capacity in zones subject to repeated raiding.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Slash-and-burn cultivation of bananas, yams, and cassava (introduced post-1500) continues; raiding disrupts planting cycles in affected zones, pushing some populations toward the carrying-capacity edge; provisioning stable only in sheltered interior.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the sole prime mover; no animal traction in tsetse belt; river transport supplements porterage; conversion efficiency unchanged from prior period.<br><br>
-__Labor Organization & Coercion:__ Domestic slavery expands as captives become both export commodity and local labor force; corvée and debt-bondage intensify; coercion levels rise sharply relative to compensation; warfare increasingly oriented to labor capture.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus generated in peaceful interludes; ivory hunting and rubber collection produce export commodities; production ceilings constrained by labor availability and security.<br><br>
-__Storage, Reserves & Buffering:__ Granary reserves adequate only for normal seasonal variation; no institutional reserves against multi-year shock; raiding depletes village stores; buffering capacity thin and repeatedly breached.<br><br>
-__Exchange, Trade & Logistics:__ Atlantic trade networks link coast to interior via river canoe fleets and caravan routes; Stanley Pool and Loango serve as major entrepôts; imported cloth, firearms, liquor, and metal goods flow inland; clearing velocity increases as commercial integration deepens.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Raffia cloth squares and copper crosses continue as currency; imported cloth and brass rods become supplementary media; credit extended through kinship and patron-client ties; captives themselves function as stored value.<br><br>
-__Surplus Extraction & Redistribution:__ Coastal intermediary states and interior warlords extract tribute in captives and ivory; surplus flows outward to Atlantic markets; redistribution minimal; extraction intensifies over the window.<br><br>
-__Wealth Distribution & Asset Defense:__ Concentration increases among those controlling trade routes and firearm supplies; wealth measured in dependents, trade goods, and firearms; defense via fortified settlements and alliance networks; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Minimal industrial byproduct; organic waste dispersed locally; no accumulation toward sink saturation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius contracts under raiding pressure; kinship solidarity remains strong within lineages but intervillage cooperation degrades; mutual aid networks fracture in heavily raided zones.<br><br>
-__Stratification, Status & Group Identity:__ Slave-free distinction sharpens as captivity becomes central economic institution; ethnic and lineage identities mobilized for defense or raiding; status boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Matrilineal and patrilineal systems persist regionally; slave capture disrupts family units; inheritance of dependents and trade goods becomes primary wealth transmission; bridewealth inflates with access to trade goods.<br><br>
-__Civic Association & Self-Organization:__ Village councils and lineage heads coordinate defense; some populations form defensive federations; associational fabric thinning in zones of chronic insecurity.<br><br>
-__Leisure, Play & Sociability:__ Festivals and communal rituals continue in stable areas; displaced populations lose ceremonial continuity; sociability constrained by insecurity.<br><br>
-__Grievance Channels & Social Discharge:__ Flight into deep forest serves as primary grievance outlet; some armed resistance occurs but is suppressed; standing grievance accumulates as social dislocation outpaces any channel of redress.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Kingdom of Kongo declines and fragments under slave-trade pressures by the 1700s; elsewhere, big-man systems and warlord polities emerge around control of trade and firearms; power fragmenting except where trade concentrations centralize it.<br><br>
-__Succession & Power Transfer:__ Succession by lineage seniority, ritual selection, or violent seizure depending on polity; transfer increasingly contested as firearms redistribute coercive capacity; flashpoints frequent.<br><br>
-__Legitimacy & Political Narrative:__ Rulers justify authority through ancestral ritual, control of trade, and military success; legitimacy eroding where populations suffer continuous raiding; narratives of protection fail against evidence of predation.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Oral record-keeping limits administrative reach; no census or cadastral capacity; collection and enforcement depend on personal networks; integrity low, reach shallow beyond immediate environs.<br><br>
-__Political Participation & Mobilization:__ Councils of elders and lineage heads participate in decisions where polities remain acephalous; mobilization for war or flight primary collective actions; participation narrowing where warlord authority consolidates.<br><br>
-__Geopolitical Position & External Relations:__ European powers exert increasing coastal pressure; Arab-Swahili traders penetrate from east after 1800; Tippu Tip's trading empire destabilizes eastern regions 1860s–1890s; external relations increasingly asymmetric.<br><br>
-__Coercive Apparatus & Means of Force:__ Firearms progressively replace spears and bows among those with trade access; matchlocks and later flintlocks concentrated among trading polities; fortified settlements and armed retinues define local power.<br><br>
-__Internal Order & Threat Environment:__ Raiding, banditry, and slaving expeditions create chronic insecurity; disorder exceeds enforcement capacity across much of the region; margin absent in heavily raided zones.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by word of mouth, drum signaling, and messenger; river networks accelerate transmission along waterways; reach extends to trade partners but attenuates inland.<br><br>
-__Record, Storage & Persistence:__ Oral memory alone stores genealogies, trade agreements, ritual knowledge; no indigenous writing; Kingdom of Kongo's Portuguese-influenced literate administration remains marginal and collapses; persistence depends entirely on living memory and generational transmission; information lost with death of specialists.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elders and ritual specialists control authoritative speech; taboos govern sacred and political discourse; band widening where trade contact introduces new information; framing contested in destabilized zones.<br><br>
-__Reception, Attention & Amplification:__ Village assemblies and market gatherings serve as amplification nodes; oral performance determines what propagates; attention spans gate information spread.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces variation and drift; rumors of raiding parties spread rapidly but accuracy declines with distance; noise load rising as social disruption fragments information networks.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Lineage and village norms define right conduct; captivity of outsiders accepted but enslavement of kin considered transgression; sense of justice under severe strain as raiding victimizes communities.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary law transmitted orally by elders; no written code; taboos and ancestral precedent govern conduct; evolution slow and local.<br><br>
-__Adjudication, Enforcement & Liability:__ Village councils and lineage heads adjudicate disputes; ordeals and divination settle contested cases; enforcement depends on kin pressure and chief authority; liability assigned through customary process.<br><br>
-__Rights, Protections & Compliance Burden:__ Protection depends on kin group and chief power; captives lose all rights; free persons subject to customary obligations; compliance burden light in stable areas, irrelevant in zones of violence.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity widespread for powerful raiders and traders; victimized communities lack capacity for redress against external attackers; impunity gap widening over the window.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Explanatory frameworks remain animist and ancestor-centered; empirical inquiry limited to practical domains — herbal medicine, metallurgy, agriculture; no systematic natural philosophy; discovery frontier static.<br><br>
-__Applied Knowledge & Technical Method:__ Iron smelting, canoe construction, raffia weaving, and forest pharmacopeia maintained at high skill; firearm repair adopted from trade contact; methods transmitted orally and by apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through oral instruction and initiation; no literacy except among tiny Kongo elite influenced by Portuguese; skill distribution concentrated among specialists; stock stable but not expanding.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge lost with death of specialists; disrupted transmission from raiding compounds decay; some techniques atrophy as captives carrying skills are exported; decay rate rising.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestor veneration and origin narratives define group identity; migration stories and lineage genealogies preserved orally; traumas of raiding enter communal memory; foundational identity under stress but intact.<br><br>
-__Artistic Expression & Material Culture:__ Carved wooden figures, masks, woven raffia cloth, pottery, and metalwork continue regional traditions; imported trade goods incorporated into material culture; styles adapting but traditions persisting.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety and insecurity prevail in raided zones; defensive vigilance rises; mood darkening where violence chronic; some populations maintain stability and confidence in sheltered areas.<br><br>
-__Form Exhaustion & Meaning Decay:__ Ritual forms sustain meaning where communities remain intact; displacement and captivity sever individuals from ceremonial context; form exhaustion localized to disrupted populations.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Ancestor spirits, nature spirits, and witchcraft beliefs structure the metaphysical world; fatalism and piety coexist with instrumental ritual action; existential outlook darkening in zones of chronic violence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Life-cycle rituals, agricultural ceremonies, and ancestor offerings continue; healing and protection rituals intensify under threat; devotional infrastructure intact where communities stable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No centralized priesthood in most areas; ritual specialists hold local authority; Kongo Christianity a marginal syncretism on western edge; doctrinal authority fragmented and local.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity spreads among Kongo elite but remains shallow; Islam reaches eastern fringes via Swahili trade; syncretism produces hybrid practices; traditional cosmologies dominant throughout interior.<br><br>
-__Disenchantment & Sacred Discharge:__ No secular drift; transcendence remains fully operative; spiritual need met through intensified ritual where communities intact; dislocation creates localized voids where displaced individuals lose ceremonial access.<br><br>
+# __1,500 CE – 1,880 CE__ — Atlantic Trade Era and Slaving Frontier Expansion
+
+__Summary:__ The Congo Basin during the four centuries of Atlantic commerce, when European demand for slaves, ivory, and forest products penetrated ever deeper into the interior, transforming oral societies through violence, new crops, and intermediary elites who grew powerful by channeling the trade — all coordinated through spoken agreement, since no party in the forest interior wrote. The binding constraint is that public life is storied, ruled, and transacted through speech alone: treaties are oaths, debts are remembered, captives are tallied in heads, and the entire slaving apparatus runs on oral command and oral record.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Congo River and its tributaries remain the primary corridors of penetration; overland routes through gallery forest and savanna margins link the interior to Atlantic coastal entrepots at Luanda, Loango, and the Kongo estuary. Forest density, tsetse belts, and seasonal flooding impose severe friction on bulk transport; human porterage is the dominant mode, limiting the rate at which captives and ivory can be moved. The Atlantic littoral and the Kwango-Kasai watershed form the main slaving catchment zones.
+
+__Climate Regime & Volatility:__ The equatorial climate with bimodal rainfall persists; no major secular drift occurs in this window. Seasonal variation governs raiding campaigns — dry-season mobility enables longer-range slaving expeditions into otherwise impassable swamp forest. Drought years in the savanna margins intensify competition and raiding.
+
+__Hazard Regime & Exposure:__ Endemic disease — malaria, sleeping sickness, yellow fever — remains the primary hazard, killing large numbers of European traders and limiting their direct penetration of the interior. Fire and flood cycles affect settlements along forest margins. No catastrophic volcanic or seismic events mark the window.
+
+__Resource & Energy Endowment:__ Ivory from forest elephants and hippos, slaves as the primary "export commodity," palm oil, wax, and forest skins constitute the extractable resources. Iron ore continues to be smelted locally. The forest itself is not exploited for timber at scale; wild rubber collection begins late in the period (1870s onward), foreshadowing the terror to come.
+
+__Waste Absorption & Sink Capacity:__ Low population density and minimal industrial activity leave sinks unsaturated. Slash-and-burn agriculture imposes localized forest disturbance that regenerates within decades. The demographic drain of the slave trade reduces human pressure on the land; abandoned villages are reclaimed by forest.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria, sleeping sickness, and gastrointestinal parasites impose high endemic mortality. European and coastal traders suffer catastrophic losses; the interior African population carries partial immunity. Smallpox and other introduced diseases spread episodically along trade routes, devastating previously unexposed forest populations.
+
+__Nutrition & Physiological Vitality:__ New World crops — cassava, maize, groundnuts, tobacco — diffuse through the Basin during this period, transforming the subsistence base. Cassava provides high caloric yield on poor soils but low protein; maize supplements yam and plantain. Nutritional diversity improves in some areas, but raiding and displacement cause localized famine.
+
+__Care, Healing & Recovery Capacity:__ Oral knowledge of medicinal plants, bone-setting, and wound care persists in village specialists. No institutional medicine exists. Healing capacity collapses in raided zones where elders carrying medicinal knowledge are killed or enslaved.
+
+__Reproductive Biology & Pairing Dynamics:__ The slave trade skews sex ratios in raided populations, removing young men and women of reproductive age. Polygyny intensifies among elites who accumulate wives as wealth. Fertility may decline in chronically raided areas due to malnutrition and social disruption.
+
+__Demographic Renewal & Density:__ Population estimates are highly uncertain; the region may have held 10–20 million people circa 1500. The slave trade extracts an estimated 3–5 million people from the greater Congo Basin catchment over the period. Replacement barely keeps pace; some areas suffer net decline. Population shifts toward defensible zones — islands, swamps, hilltops.
+
+__Attrition & Dependency Overhang:__ Orphans, widows, and the elderly left behind by slaving raids accumulate in devastated villages. Productive adults are disproportionately removed. Dependency ratios spike in raided communities; the social fabric frays under the demographic drain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Village agriculture — cassava, plantain, yam, maize — supplemented by hunting, fishing, and gathering remains the subsistence base. The provisioning floor holds in unraided areas; it collapses episodically where raiding disrupts planting cycles and drives populations into flight.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the sole motive power. Canoe transport on rivers is efficient; overland porterage is exhausting and slow. No watermills or draft animals; the tsetse belt excludes cattle. The energy ceiling remains low, limiting surplus extraction.
+
+__Labor Organization & Coercion:__ Slavery and pawnship predate Atlantic contact but are massively amplified by external demand. Captives are taken in war and raids, held as domestic slaves, or sold into the Atlantic trade. Coercion intensifies through the period as slaving violence becomes endemic. Lineage labor and communal work parties persist in unraided zones.
+
+__Production & Surplus Capacity:__ Agricultural surplus is modest; villages produce enough for subsistence and local exchange. Ivory hunting and slave-raiding generate the exportable surplus. The trade enriches intermediary elites who control canoe fleets, armed followers, and market access.
+
+__Storage, Reserves & Buffering:__ Granary storage of cassava and grain buffers seasonal variation. No treasury system exists; wealth is held in slaves, wives, iron, copper, and trade goods. Reserves are thin; a bad harvest or major raid can collapse a village.
+
+__Exchange, Trade & Logistics:__ Long-distance trade connects the interior to the Atlantic coast via relay networks. Canoe caravans on rivers; human porterage on land. Exchange is conducted through oral bargaining, barter, and commodity-currencies (copper crosses, iron bars, shell money, slaves). European factors remain at coastal stations; African and Afro-Portuguese intermediaries dominate interior trade.
+
+__Value Storage, Credit & Deferred Exchange:__ Copper crosses, iron bars, and cowrie shells serve as currency and store of value. Cloth (imported and local raffia) functions as a medium of exchange. Credit relationships — "trust" extended by coastal factors to interior traders — are based on oral agreement and personal reputation; defaults are punished by exclusion or violence.
+
+__Surplus Extraction & Redistribution:__ Chiefs and big men extract tribute in labor, food, and captives. Atlantic trade wealth accrues to those who control the flow — canoe owners, war leaders, market chiefs. Redistribution through feasting and gift-giving maintains followings. External extraction (slaves, ivory) drains surplus from the region with minimal return beyond manufactures and weapons.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among slaving elites and their lineages. Ordinary villagers are impoverished and vulnerable to enslavement. Defensive strategies include flight, fortification of villages, and alliance with powerful patrons. The gap between elites and commoners widens through the period.
+
+__Byproducts & Waste Routing:__ Material waste is minimal and biodegradable. The economic waste is human: the dead in raids, the captives lost to disease en route, the social capital destroyed by violence. No financial debt accumulates in the absence of written instruments; oral debts are cleared or forgotten with the debtor's death.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Matrilineal and patrilineal systems coexist across the Basin. Lineage heads control land allocation, bride-wealth, and inheritance. The slave trade disrupts kinship by removing members and introducing captive outsiders who are incorporated at the bottom of lineage hierarchies.
+
+__Association & Mutual Aid:__ Age-grade associations, hunting societies, and ritual sodalities provide mutual aid and social cohesion. These structures persist but are strained by raiding; in devastated areas, they collapse. Flight and resettlement disrupt established networks.
+
+__Leisure, Play & Sociability:__ Oral storytelling, music, dance, and communal feasting remain the primary modes of sociability. Markets are social as well as economic gatherings. Leisure patterns continue but are shadowed by fear in raided zones.
+
+__Stratification, Status & Group Structure:__ Free lineage members, pawns, domestic slaves, and trade slaves form a status hierarchy. Elites who control slaving and trade accumulate power; commoners become increasingly vulnerable. Ethnic identities crystallize around defensive communities; distinctions between "us" and "raiders" harden.
+
+__Administrative Capacity & Institutional Integrity:__ No centralized state apparatus exists in the forest interior. Chiefs and big men exercise authority within their villages and networks through oral command and personal followings. The Kongo Kingdom on the western margin is an exception but declines after the 17th century. Administrative capacity is weak and personalized; succession is contested.
+
+__Coercive Apparatus & Means of Force:__ Firearms (muskets, later flintlocks) diffuse through the region via the Atlantic trade, transforming warfare. Those with guns dominate those without. Raiding bands grow larger and more lethal. Defensive stockades proliferate. The balance of coercive power shifts toward slaving elites and their armed retainers.
+
+__Discharge, Disorder & Decay:__ Violence, flight, and social disruption are endemic. Villages are abandoned; populations scatter. Revenge cycles intensify. The disorder is partially contained by protective alliances and defensible refugia (islands, swamps), but the friction is never fully discharged; it accumulates as trauma, vendetta, and chronic insecurity.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear and anxiety pervade raided zones. Trust contracts to kin and immediate neighbors; strangers are suspect. In protected areas controlled by powerful patrons, a tense security prevails. The overall temper darkens through the period as raiding intensifies.
+
+__Leadership & Personal Authority:__ Big men and war leaders accumulate power through success in trade and raiding. Personal charisma, wealth in followers and wives, and access to firearms define authority. Leadership is contested and volatile; successful leaders attract followings, failed ones are abandoned or killed.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on the ability to protect and provide. Chiefs who fail to defend their people lose allegiance. The moral basis of authority erodes where leaders themselves raid their own people or sell kin into slavery. Disaffection is widespread but suppressed by coercion.
+
+__Political Will & Collective Resolve:__ The will to resist is constrained by the fragmentation of authority and the technological advantage of armed slavers. Some communities organize effective resistance (fortified villages, ambushes, flight); others capitulate or collaborate. No unified anti-slaving coalition emerges in the forest interior.
+
+__External Relations & Posture:__ Relations with Atlantic powers are mediated by coastal and intermediary elites. The interior forest populations are objects of extraction, not diplomatic partners. Rivalries among European powers (Portuguese, Dutch, French, British) shift the terms of trade but do not alter the extractive logic. Internal rivalries among African polities are exploited by traders.
+
+__Disaffection, Apathy & Spent Will:__ The accumulated trauma of raiding, loss, and displacement leaves deep disaffection. Survivors carry grief and distrust. The collective will to rebuild is repeatedly drained by renewed violence. Apathy settles over devastated zones where resistance has failed and flight is impossible.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hundreds of Bantu and non-Bantu languages partition the Basin; multilingualism and trade pidgins enable cross-group communication. All communication is oral. Drums (slit-drums, talking drums) extend auditory range. No indigenous literacy exists; European traders at the coast use written records, but interior transactions are entirely oral.
+
+__Channels & Transmission Velocity:__ Messages travel by foot, canoe, and drum. Trade networks carry news across hundreds of kilometers, but transmission is slow — days to weeks. Rumor and report spread along river corridors. Information about raiding parties is vital for survival; early warning systems develop.
+
+__Record, Storage & Persistence:__ All records are oral: genealogies, land rights, debts, alliances, and histories are held in the memory of elders and specialists. The death of a knowledgeable elder is a catastrophic information loss. The slave trade kills or removes memory-keepers, erasing lineage histories.
+
+__Framing, Censorship & Discourse Norms:__ Chiefs and elders control the framing of public discourse; praise-singing and oratory are the dominant modes of political communication. Dissent is expressed obliquely through proverb, song, and indirection. There is no formal censorship, but social sanction enforces discourse norms.
+
+__Reception, Attention & Amplification:__ Public gatherings — markets, funerals, rituals — are the sites of information amplification. Compelling orators and drummers command attention. Rumor spreads rapidly through trade networks. False information about raids or prices can be lethal; verification depends on trusted intermediaries.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift, distortion, and loss. Genealogies are shortened or telescoped; events are conflated. The noise load increases with social disruption; flight and displacement sever the chains of memory. No corrective archive exists; what is forgotten is lost.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is kin-based and retributive. Wrong is avenged by the lineage; compensation is negotiated between kin groups. The moral boundary between "us" and "them" hardens under slaving pressure: raiding outsiders is not wrong; enslaving kin is. Moral codes adapt to accommodate the trade.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists. Custom and taboo govern conduct, transmitted orally. Slaving introduces new categories: the trade captive who can be sold, versus the domestic slave who cannot. Chiefs adjudicate disputes by oral precedent and divination.
+
+__Adjudication, Liability & Sanction:__ Disputes are settled by chiefs, elders, and ordeals (poison ordeals, hot-iron tests). Guilt is determined by confession, oath, or divine judgment. Sanctions range from compensation to enslavement to death. The system is overwhelmed by the scale of slaving violence; many wrongs go unredressed.
+
+__Rights, Protections & Compliance Burden:__ Free lineage members have rights to land, bride-wealth, and protection by their kin. Slaves and pawns have no rights except those their masters choose to extend. The trade strips captives of all protections. Compliance with custom is enforced by social sanction and supernatural threat.
+
+__Impunity & Unredressed Wrong:__ Slaving elites operate with impunity; their victims have no recourse. The moral order is inverted: the strong prey on the weak, and no justice is available to the enslaved. The gap between justice owed and delivered is vast and widening; unredressed wrong accumulates as silent grief and suppressed rage.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry tradition exists. Knowledge of the natural world — plants, animals, seasons, soils — is empirical and practical, transmitted orally. Explanatory paradigms are cosmological: events are caused by spirits, witchcraft, and ancestral will. No alternative paradigm challenges this frame.
+
+__Applied Knowledge & Technical Method:__ Iron smelting, canoe construction, textile weaving (raffia), basket-making, pottery, and medicinal herbalism represent the technical repertoire. Knowledge is transmitted through apprenticeship and oral instruction. New crops (cassava, maize) are adopted and techniques adapted; this is the major technical change of the period.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal, kin-based, and oral. Initiation rituals transmit esoteric knowledge. Specialized skills (smithing, healing, drumming) are held by particular lineages or sodalities. Literacy is absent except among a tiny coastal elite; the knowledge stock is entirely oral.
+
+__Obsolescence & Knowledge Decay:__ Knowledge is lost when its bearers die without transmitting it. The slave trade accelerates knowledge decay by removing skilled adults and elders. Some techniques (e.g., certain smelting methods) disappear from regions where practitioners are killed or enslaved. The rate of loss exceeds the rate of innovation.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestor cults, and lineage histories define collective identity. The forest itself is sacred, inhabited by spirits. Memory of the slaving era enters oral tradition as trauma narratives, cautionary tales, and origin myths of flight and survival.
+
+__Legitimating Narrative & Ideology:__ Chiefs legitimate their authority through genealogical seniority, success in providing protection, and ritual mastery. Slaving elites justify their power through wealth, force, and the claim to protect their own by preying on others. No universalist ideology challenges the particularism of lineage and ethnicity.
+
+__Artistic Expression & Material Culture:__ Sculpture, masks, textiles (raffia cloth), body decoration, and music express cultural identity. Imported trade goods — cloth, beads, brass — are incorporated into local aesthetics. Art serves ritual, status display, and social cohesion. The material culture of the period shows both continuity and incorporation of Atlantic goods.
+
+__Form Exhaustion & Meaning Decay:__ The violence and disruption of the slaving era strain cultural coherence. Rituals are interrupted; sacred groves are abandoned. Some symbolic forms lose their potency when the communities that sustained them are destroyed. But in protected areas, cultural life continues and adapts; form exhaustion is localized, not universal.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ A spirit-inhabited world where ancestors, nature spirits, and witchcraft explain fortune and misfortune. The universe is morally charged; suffering has causes in transgression or malevolent agency. Fatalism and piety coexist: one must appease the spirits while accepting that some fates cannot be averted.
+
+__Ritual, Devotion & Sacred Practice:__ Ancestor veneration, spirit possession, divination, and protective charms are central. Rituals mark birth, initiation, marriage, and death. Collective rituals — rain ceremonies, harvest festivals — bind communities. The slave trade introduces new protective cults promising immunity from capture.
+
+__Religious Institutions & Doctrinal Authority:__ No centralized religious institution exists. Ritual specialists (diviners, healers, mediums) hold localized authority. Chiefs often combine political and ritual roles. Christianity penetrates the Kongo Kingdom from the 16th century but remains superficial; the forest interior is untouched by mission activity until the late 19th century.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ New cults spread along trade routes, offering protection against slaving. Lemba, a healing and trading cult, diffuses across the western Congo Basin. Christianity syncretizes with local belief in the Kongo region. The core forest remains within the ancestral cosmology; displacement is minimal.
+
+__Disenchantment & Sacred Discharge:__ No secularizing drift occurs. The sacred remains potent, but it is strained by the failure of protective rituals against slaving violence. Where communities are destroyed, the ritual specialists who maintained the sacred are lost. Disenchantment is not intellectual but traumatic: the spirits failed to protect. The sacred need persists but is unmet in devastated zones.
+

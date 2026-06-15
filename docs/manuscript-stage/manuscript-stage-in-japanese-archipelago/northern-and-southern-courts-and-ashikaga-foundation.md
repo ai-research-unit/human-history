@@ -1,69 +1,139 @@
-# __1333 CE – 1392 CE__ — Northern and Southern Courts and Ashikaga Foundation
-__Summary:__ A six-decade civil war divides the Japanese imperial institution into rival Northern (Kyoto) and Southern (Yoshino) courts while the Ashikaga shogunate consolidates military authority; the binding constraint is the fragmentation of legitimate sovereignty across two court systems and regional warrior coalitions; margins against further political disintegration are thin as provincial lords exploit the schism; the trend moves toward eventual reunification under Ashikaga mediation by 1392.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Mountainous archipelago terrain fragments political control; the Yoshino fastness in the Kii highlands shelters the Southern Court from direct assault while Kyoto's basin remains the administrative pivot; coastal and riverine corridors enable troop movement but interior highlands impose persistent friction on campaigning.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon regime continues with seasonal typhoons and variable precipitation; no major secular climatic shift shapes the window, though interannual variability occasionally disrupts harvest cycles.<br><br>
-__Hazard Regime & Exposure:__ Seismic and volcanic hazard persists across the archipelago; localized earthquakes and occasional tsunami affect coastal settlements; exposure remains chronic but no catastrophic event dominates the period.<br><br>
-__Resource & Energy Endowment:__ Arable valleys and forested uplands supply timber, charcoal, iron sand, and paddy cultivation; the archipelago's mineral and biomass stocks remain adequate relative to population and warfare demand.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and artisanal byproducts disperse across extensive watersheds and forested hinterlands; sink capacity far exceeds the modest waste loads of a preindustrial agrarian economy.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic smallpox, measles, and dysentery circulate; epidemic mortality spikes periodically but remains within historical norms; warfare elevates localized mortality without demographic catastrophe.<br><br>
-__Nutrition & Physiological Vitality:__ Rice, millet, vegetables, and fish sustain the majority; nutritional adequacy fluctuates with harvest and local disruption; stature and vitality approximate earlier medieval baselines.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal inheritance and arranged marriage govern elite pairing; commoner unions follow local custom; biological fertility remains stable.<br><br>
-__Demographic Renewal & Density:__ Population recovers from earlier Kamakura-period pressures; replacement remains positive in most provinces; density highest in the Kinai core and coastal plains.<br><br>
-__Attrition & Dependency Overhang:__ Warfare generates orphans, widows, and displaced peasants; temple networks and village mutual aid absorb part of the load; dependency remains manageable absent prolonged famine.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Paddy rice and dry-field crops provide the subsistence base; manorial (shoen) fragmentation complicates provisioning but does not collapse it; household pooling buffers localized shortfalls.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle, water-powered milling, and charcoal combustion power agrarian and artisanal production; per-capita work ceiling remains modest and stable.<br><br>
-__Labor Organization & Coercion:__ Peasant cultivators owe dues to layered proprietors; corvee and tribute obligations persist though enforcement weakens as estate governance fragments; outright slavery rare.<br><br>
-__Production & Surplus Capacity:__ Agricultural output sustains warrior households and court elites; surplus flows through fragmented proprietorships; productive capacity adequate but extraction efficiency declines amid jurisdictional chaos.<br><br>
-__Storage, Reserves & Buffering:__ Village granaries and temple storehouses hold limited reserves; buffer depth thins as competing authorities requisition supplies for military campaigns.<br><br>
-__Exchange, Trade & Logistics:__ Local and regional markets persist; coinless barter and Chinese copper cash circulate; road and sea transport support regional trade despite warfare disruptions.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Chinese copper coinage serves as unit of account and medium of exchange; rice and silk also function as value stores; credit arrangements remain localized; debasement pressure low.<br><br>
-__Surplus Extraction & Redistribution:__ Competing courts and bakufu extract tribute and taxes from overlapping jurisdictions; extraction is contested, inefficient, and often diverted by local warriors.<br><br>
-__Wealth Distribution & Asset Defense:__ Warrior houses consolidate landholding through service grants; wealth concentration grows among successful provincial lords; asset defense relies on military strength and documentary claims.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residues recycled as fuel and fertilizer; artisanal waste dispersed locally; volume remains negligible relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship, village, and temple networks sustain interpersonal trust; civil war strains cross-regional solidarity; trust radius narrows toward immediate kin and local community.<br><br>
-__Stratification, Status & Group Identity:__ Court aristocrats, warrior houses, clergy, and commoner cultivators form a hierarchical order; warrior (bushi) status rises as courtier influence wanes; boundaries permeable for successful military houses.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance dominates among warriors; divided inheritance weakens some houses; marriage alliances cement political coalitions.<br><br>
-__Civic Association & Self-Organization:__ Village assemblies (so) and guild-like associations (za) coordinate local production and self-defense; temple communities provide additional organizational nodes.<br><br>
-__Leisure, Play & Sociability:__ Festivals, poetry gatherings, and martial contests persist among elites; commoner sociability centers on village festivals and temple observances.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning courts or bakufu offers formal redress; ikki (leagues) and armed uprisings discharge grievances where formal channels fail; unredressed friction accumulates in contested zones.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereign authority fragments between Northern Court (Ashikaga-backed) and Southern Court (Go-Daigo's heirs); the Ashikaga shogunate exercises military governance but lacks full legitimacy until reunification; regional shugo lords wield substantial autonomous power.<br><br>
-__Succession & Power Transfer:__ Imperial succession contested between rival lines; shogunal succession passes within Ashikaga house; transfers punctuated by defections and civil conflict.<br><br>
-__Legitimacy & Political Narrative:__ Both courts claim sole legitimate succession from the imperial line; the Taiheiki chronicle and courtly genealogies propagate competing legitimacy claims; narrative resolution awaits reunification.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bakufu administrative organs (mandokoro, samurai-dokoro) consolidate warrior governance; provincial shugo exercise local authority; estate administration fractures as overlapping claims multiply; record-keeping persists but jurisdictional confusion undermines enforcement.<br><br>
-__Political Participation & Mobilization:__ Warrior coalitions mobilize through lord-vassal bonds; commoner leagues (ikki) emerge as collective actors; participation expands beyond courtly elites but remains militarized.<br><br>
-__Geopolitical Position & External Relations:__ Japanese archipelago remains peripheral to continental politics; wako piracy disrupts Korean and Chinese coasts; no major foreign invasion threatens; diplomatic isolation persists.<br><br>
-__Coercive Apparatus & Means of Force:__ Mounted archery, infantry with polearms and swords, and fortified strongholds constitute the military apparatus; warrior houses control localized forces; no single authority monopolizes violence.<br><br>
-__Internal Order & Threat Environment:__ Civil war generates endemic disorder; banditry, estate seizure, and factional violence exceed enforcement capacity in contested regions; margins for order narrow significantly.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Manuscript letters, proclamations, and dispatches circulate via courier networks; transmission velocity limited by terrain and warfare; information reaches elites within days to weeks across provinces.<br><br>
-__Record, Storage & Persistence:__ Court archives, temple libraries, and warrior house document chests preserve records; both courts and bakufu maintain documentary bureaucracies; persistence depends on institutional survival.<br><br>
-__Framing, Censorship & Discourse Norms:__ Court and bakufu documents frame legitimacy claims; no systematic censorship but rival narratives compete; courtly decorum and warrior etiquette govern discourse norms.<br><br>
-__Reception, Attention & Amplification:__ Literate elites receive written communications; oral transmission extends reach to commoners; war tales and pilgrimage networks amplify narratives beyond literate circles.<br><br>
-__Signal Integrity & Noise Load:__ Competing claims and forged documents inject noise; document verification relies on seals, signatures, and institutional memory; signal integrity strained by jurisdictional fragmentation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Buddhist karmic logic, Confucian hierarchy, and warrior honor codes underpin moral expectations; justice conceived as restoration of rightful order and proper station.<br><br>
-__Law, Codification & Regulatory Evolution:__ Goseibai Shikimoku (1232) remains foundational for warrior adjudication; both courts issue edicts; shogunal legislation accumulates; codification fragmented across jurisdictions.<br><br>
-__Adjudication, Enforcement & Liability:__ Bakufu tribunals adjudicate warrior disputes; court institutions handle aristocratic and religious cases; enforcement depends on local military power; liability assignment contested where jurisdictions overlap.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights rest on documentary proof and military backing; compliance burden rises as multiple authorities issue conflicting demands.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful warriors evade judgment; losing factions suffer dispossession without redress; impunity for the militarily strong accumulates grievance among the defeated.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Buddhist scholasticism, Confucian study, and historical chronicle compilation constitute the intellectual frontier; paradigms remain stable within received traditions.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural techniques, metallurgy, and construction methods transmit through apprenticeship; incremental refinement rather than breakthrough innovation characterizes the window.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Monastic schools, court tutoring, and warrior house instruction preserve and transmit knowledge; literacy concentrated among clergy, aristocrats, and upper warriors; commoner literacy rare.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier court learning preserved in temple and aristocratic libraries; some administrative expertise atrophies as estate governance fragments; decay localized rather than systemic.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Imperial ancestry myths, warrior house genealogies, and Buddhist cosmology anchor collective identity; the schism itself becomes a foundational trauma shaping later memory.<br><br>
-__Artistic Expression & Material Culture:__ Ink painting, calligraphy, and war tale literature (Taiheiki) flourish; Zen-influenced aesthetics begin to influence elite taste; architectural patronage continues at temples and warrior residences.<br><br>
-__Collective Mood & Behavioral Disposition:__ Uncertainty and factional anxiety pervade elite circles; fatalism and martial valor coexist; mood darkens with prolonged civil conflict.<br><br>
-__Form Exhaustion & Meaning Decay:__ Court ritual attenuates as resources and attention divert to warfare; some courtly forms hollow into ceremony without substance; renewal awaits reunification.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Buddhist impermanence (mujo) and karmic causation frame existential understanding; mappo (age of dharma decline) consciousness persists; divine ancestry legitimates imperial claims.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Pure Land nembutsu, esoteric Shingon and Tendai rites, and Zen meditation coexist; Shinto shrine observances continue; devotional practice sustains amid warfare.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Major temples retain landholdings and armed retainers; Zen monasteries expand under Ashikaga patronage; doctrinal authority stable within sectarian hierarchies.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Zen gains elite adherents; Pure Land devotion spreads among commoners; honji suijaku syncretism integrates Buddhist and Shinto frameworks; no major displacement occurs.<br><br>
-__Disenchantment & Sacred Discharge:__ Sacred frameworks remain operative; existential needs channeled through Buddhist soteriology and Shinto observance; disenchantment negligible as cosmology retains explanatory grip.<br><br>
+# __1333 CE – 1392 CE — Northern and Southern Courts and Ashikaga Foundation__
+
+__Summary:__ The Japanese polity fractures into rival imperial courts and competing warrior factions, while the nascent Ashikaga shogunate struggles to consolidate authority; the binding constraint is the absence of a single legitimate center capable of commanding unified allegiance, leaving manuscript culture dispersed across rival courts, warrior households, and Zen monasteries that flourish despite — or because of — political fragmentation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The mountainous archipelago divides naturally into defensible domains, with the Kinai plain around Kyoto remaining the symbolic center while regional power bases proliferate in the Kanto, Hokuriku, and western Honshu. The Southern Court retreats to the mountainous Yoshino district south of Nara, exploiting terrain for defense. Overland communication remains slow; maritime routes along the Inland Sea and to China carry commerce and diplomatic exchange.
+
+__Climate Regime & Volatility:__ The Medieval Warm Period is waning; climate instability begins to intensify. Monsoon rains remain essential for wet-rice agriculture, but drought and flood events occur with greater frequency. Cold winters in the mountainous Yoshino region strain the exiled Southern Court.
+
+__Hazard Regime & Exposure:__ Earthquakes, typhoons, and volcanic activity continue as endemic hazards. Urban fires destroy sections of Kyoto repeatedly. Flood damage to rice paddies triggers localized famines.
+
+__Resource & Energy Endowment:__ Agricultural land remains the primary resource base; iron, timber, and gold from provincial mines supply military and construction needs. Domestic paper manufacture (washi) provides abundant writing material for expanding manuscript production.
+
+__Waste Absorption & Sink Capacity:__ Population centers generate waste that accumulates in rivers and urban peripheries. Deforestation around Kyoto for fuel and construction degrades local watersheds. The sink absorbs current loads without feedback crisis.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases persist; periodic epidemics strike urban centers. Warfare increases traumatic mortality among warriors and populations in contested zones. Baseline mortality remains high by modern standards but stable within medieval norms.
+
+__Nutrition & Physiological Vitality:__ Rice, vegetables, fish, and preserved foods sustain the population. Warrior elites consume better diets than commoners. Nutritional status varies regionally; populations in war-affected areas face periodic shortages.
+
+__Care, Healing & Recovery Capacity:__ Buddhist monasteries provide medical care alongside spiritual services. Herbalism and folk medicine predominate. Wounded warriors rely on household retainers and temple care. Healing capacity reaches unevenly across social strata.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage alliances among warrior houses serve political consolidation. Concubinage is common among elites. Commoner marriage follows village and guild patterns.
+
+__Demographic Renewal & Density:__ Population growth slows from Kamakura-era expansion as civil war disrupts agriculture and commerce. Urban Kyoto maintains density despite political turmoil; provincial populations shift with military fortunes.
+
+__Attrition & Dependency Overhang:__ War dead leave widows and orphans; monasteries and extended kin networks absorb some dependents. The productive base sustains the load without collapse.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Wet-rice agriculture provides the subsistence base; supplemented by dry grains, vegetables, and marine protein. Warfare disrupts harvests in contested areas, but no archipelago-wide famine occurs.
+
+__Energy Capture & Conversion:__ Human and animal muscle power dominates; water mills process grain in some regions. Wood and charcoal supply heat and metallurgy. The energy ceiling remains agrarian.
+
+__Labor Organization & Coercion:__ Peasants work landed estates (shoen) under complex tenure arrangements; corvee obligations persist. Warriors extract surplus through landholding and tribute. Artisan guilds (za) organize specialized production under patronage.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports warrior households, courts, and monasteries. Manufacturing of weapons, armor, textiles, and paper sustains military and cultural activity. Provincial production continues despite political fragmentation.
+
+__Storage, Reserves & Buffering:__ Granaries at estates and temples buffer harvest variation. The rival courts and shogunate maintain limited treasuries; war expenditures strain reserves. No centralized fiscal system operates effectively.
+
+__Exchange, Trade & Logistics:__ Internal trade flows through provincial markets and along maritime routes. Copper coinage (imported from China) circulates; barter persists. Trade with Ming China continues through Zen monastery networks despite political disorder. Kyoto merchants maintain commercial activity.
+
+__Value Storage, Credit & Deferred Exchange:__ Chinese copper coins serve as currency alongside rice and silk as value stores. Credit arrangements operate through merchant houses and monasteries. Land rights function as transferable assets.
+
+__Surplus Extraction & Redistribution:__ Warrior lords extract tax and tribute from estates; rival courts and shogunate compete for revenue sources. Redistribution flows through patronage networks to temples, retainers, and artisans. Extraction capacity is fragmented across competing claimants.
+
+__Wealth Distribution & Asset Defense:__ Land remains the primary asset; warrior houses defend holdings through military force. Temple estates retain substantial wealth. Merchant wealth grows in Kyoto and port towns. Inequality is pronounced but dispersed across regional power centers.
+
+__Byproducts & Waste Routing:__ Agricultural and manufacturing waste is dispersed locally. Urban refuse accumulates in Kyoto peripheries. No systemic crisis emerges.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Warrior households (ie) consolidate; succession disputes fuel political conflict. Partible inheritance weakens some houses while primogeniture strengthens others. Imperial succession itself is the central contested question, with two lineages claiming legitimacy.
+
+__Association & Mutual Aid:__ Village communities maintain cooperative irrigation and defense. Artisan guilds (za) organize production and mutual support. Buddhist confraternities (ko) provide religious and social solidarity. These networks persist beneath political turmoil.
+
+__Leisure, Play & Sociability:__ Court entertainments continue in diminished form at both courts. Tea culture begins spreading from Zen circles. Festivals and religious observances structure communal time despite warfare.
+
+__Stratification, Status & Group Structure:__ The warrior class (bushi) consolidates power; court nobility (kuge) retains cultural prestige but declining material base. Buddhist clergy maintains institutional weight. Commoners — peasants, artisans, merchants — remain beneath. Outcaste groups occupy the social margin.
+
+__Administrative Capacity & Institutional Integrity:__ Two imperial courts issue competing commands; the Ashikaga shogunate in Kyoto (from 1336) struggles to subordinate regional warriors. Provincial constables (shugo) accumulate local power. Central administrative capacity is weak; governance operates through personal loyalty networks rather than bureaucratic apparatus.
+
+__Coercive Apparatus & Means of Force:__ Warrior bands organized around lord-vassal bonds constitute the military force. Armored cavalry and infantry with bows and swords predominate; fortified estates and mountain strongholds provide defense. The shogunate lacks monopoly on force; rival courts and regional lords maintain independent military capacity.
+
+__Discharge, Disorder & Decay:__ Civil war is endemic; the Nanbokucho conflict continues until 1392. Banditry and piracy flourish in disorder. Kyoto suffers periodic violence. Social friction is high but channeled through military contest rather than uncontained breakdown.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Uncertainty and divided loyalty characterize the era. Warriors navigate competing claims to allegiance. Commoners endure warfare with resignation. Buddhist fatalism (mappo consciousness) colors the mood. Trust extends within patronage networks; broader social trust is thin.
+
+__Leadership & Personal Authority:__ Ashikaga Takauji (d. 1358) and his successors exercise personal authority through warrior networks. Emperor Go-Daigo (d. 1339) commands Southern Court loyalty through imperial charisma. Rival claimants divide allegiance across the archipelago.
+
+__Legitimacy as Lived Allegiance:__ Neither court commands universal recognition. The Northern Court in Kyoto holds the capital and shogunal backing; the Southern Court in Yoshino claims direct imperial descent from Go-Daigo. Warriors choose sides based on interest as much as principle. Legitimacy is contested and thin.
+
+__Political Will & Collective Resolve:__ The Ashikaga shogunate gradually consolidates through military and diplomatic means. Third shogun Ashikaga Yoshimitsu (r. 1368–1394) demonstrates the resolve to end the schism. Regional lords pursue independent ambitions. Collective will for reunification emerges slowly.
+
+__External Relations & Posture:__ Ming China refuses formal relations until imperial legitimacy is clarified. Zen monks maintain unofficial contact. Japanese pirates (wako) raid Korean and Chinese coasts, complicating diplomacy. The fragmented polity projects weakness abroad.
+
+__Disaffection, Apathy & Spent Will:__ War-weariness accumulates over decades of conflict. Defections between courts reflect cynicism about competing claims. By the 1380s, exhaustion contributes to willingness to negotiate reunification.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Written Japanese (kanji-kana mixed script) and literary Chinese (kanbun) serve literate elites. Literacy remains concentrated among court nobles, warriors of higher rank, and Buddhist clergy. Commoner literacy is rare but increasing among merchants and artisans. Mutual intelligibility operates within social strata.
+
+__Channels & Transmission Velocity:__ Messengers, traveling monks, and merchants carry information across the archipelago. Maritime routes connect Kyoto to western Japan and continental Asia. Information travels in days to weeks depending on distance and terrain. No systematic postal infrastructure exists.
+
+__Record, Storage & Persistence:__ Both courts maintain chronicles and issue documents; competing claims generate abundant records. Zen monasteries preserve Chinese and Japanese texts; temple libraries accumulate. Warrior households keep landholding records and genealogies. The manuscript record is dispersed but persistent.
+
+__Framing, Censorship & Discourse Norms:__ Rival courts frame the schism through competing historical narratives. Buddhist discourse provides frameworks for interpreting suffering and impermanence. No centralized censorship operates; discourse norms follow patronage relationships.
+
+__Reception, Attention & Amplification:__ Literate elites consume poetry, chronicles, and Buddhist texts. Popular religion spreads through preaching and recitation. Court culture radiates from both capitals to provincial warriors seeking status.
+
+__Signal Integrity & Noise Load:__ Competing claims and forged documents create noise in the political record. Temple archives preserve texts with reasonable fidelity. No verification crisis emerges, but the schism itself represents an informational divide about legitimate authority.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Buddhist karma and Confucian hierarchy provide moral frameworks. Warrior codes emphasize loyalty (chugi) and honor. Treachery and betrayal are common in practice but condemned in principle. The imperial succession dispute raises questions of legitimate authority.
+
+__Law, Codification & Regulatory Evolution:__ The Kamakura-era Goseibai Shikimoku continues to govern warrior affairs. Competing courts issue edicts with limited reach. Legal authority follows military power. Shogunal decrees accumulate as the Ashikaga consolidate.
+
+__Adjudication, Liability & Sanction:__ Disputes over land and succession dominate legal proceedings. Shogunal courts adjudicate warrior conflicts; temple courts handle religious matters. Justice is personal and factional; the powerful often escape sanction.
+
+__Rights, Protections & Compliance Burden:__ Landholding rights are contested and defended by force. Temple sanctuary provides some protection. Commoners have few formal rights against warrior expropriation. Compliance burden falls unevenly; the powerful dictate terms.
+
+__Impunity & Unredressed Wrong:__ The era of civil war generates extensive unredressed wrong. Violence by warriors against commoners goes largely unsanctioned. Defeated claimants lose recourse. Impunity is structural; justice follows power.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Buddhist philosophy provides the dominant intellectual framework; Zen emphasizes direct insight over scriptural learning. Neo-Confucianism arrives from Song China through Zen channels. Shinto thought develops in response to Buddhist dominance.
+
+__Applied Knowledge & Technical Method:__ Agricultural techniques continue Kamakura improvements. Metallurgy advances for weapon production. Architectural methods adapt to fortification needs. Tea cultivation and preparation technique spreads from Zen circles.
+
+__Education, Knowledge Stock & Skill Distribution:__ Zen monasteries train monks in Chinese classics, calligraphy, and meditation. Warrior households educate sons in martial and literary arts. Aristocratic education continues in diminished form. Temple schools extend basic literacy to some commoners. Knowledge stock is preserved in dispersed monastic libraries.
+
+__Obsolescence & Knowledge Decay:__ Older Heian court practices attenuate as material support declines. Some esoteric Buddhist lineages thin. Chinese learning is renewed through Zen contacts, offsetting decay in older channels.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The imperial institution remains central to Japanese identity despite the schism; both courts claim authentic succession. Warrior valor and Buddhist devotion provide identity frameworks. The Genpei war memory remains culturally potent.
+
+__Legitimating Narrative & Ideology:__ The Southern Court claims descent from Go-Daigo's legitimate line; the Northern Court claims proper investiture. The shogunate legitimates itself as protector of imperial authority. Buddhist narratives of mappo (dharma decline) provide ideological context for disorder.
+
+__Artistic Expression & Material Culture:__ Zen aesthetics influence painting, calligraphy, and garden design. Noh drama develops under Ashikaga patronage. Ink painting (suiboku-ga) imports Chinese styles. Tea culture begins its aesthetic elaboration. Manuscript production continues in both kana and kanbun; calligraphy retains high cultural value.
+
+__Form Exhaustion & Meaning Decay:__ Heian court culture hollows as material basis erodes. Classical waka poetry continues but with diminished vitality. New forms (linked verse, Noh) emerge to fill expressive needs. The schism itself represents contested meaning about imperial legitimacy.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Buddhist cosmology frames existence as suffering to be transcended. Pure Land Buddhism promises salvation through faith; Zen emphasizes enlightenment through practice. The mappo doctrine — belief in dharma decline — provides fatalistic context for civil war.
+
+__Ritual, Devotion & Sacred Practice:__ Buddhist ritual continues at temples under both courts. Pure Land nenbutsu practice spreads among commoners. Zen meditation disciplines spread among warriors. Shinto rites maintain local shrine observance.
+
+__Religious Institutions & Doctrinal Authority:__ Major Buddhist establishments (Enryaku-ji, Kofuku-ji) retain wealth and armed monks despite political fragmentation. Gozan (Five Mountains) Zen monasteries receive shogunal patronage and cultivate Chinese learning. Temple-state relations are complex; religious institutions navigate competing political claims.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Zen Buddhism expands rapidly under warrior patronage; Pure Land and Nichiren schools consolidate popular followings. Shinto-Buddhist syncretism (shinbutsu-shugo) remains normative. Esoteric Buddhism (Shingon, Tendai) maintains institutional presence but less dynamic expansion.
+
+__Disenchantment & Sacred Discharge:__ The mappo consciousness already represents a form of disenchantment — belief that the dharma is in decline. Yet religious practice intensifies rather than fades; disenchantment with the world fuels engagement with salvation. The sacred remains potent; civil war is interpreted through rather than against religious frameworks.

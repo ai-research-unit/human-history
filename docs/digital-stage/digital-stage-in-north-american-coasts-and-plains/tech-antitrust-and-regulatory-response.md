@@ -1,69 +1,139 @@
-# __2005 CE – 2026 CE__ — Tech Antitrust and Regulatory Response
-__Summary:__ A pan-temporal snapshot of the regulatory and antitrust response to platform monopoly power in the North American digital economy across two decades. The binding constraint is the temporal mismatch between platform consolidation velocity and enforcement machinery designed for industrial-era timescales; the system holds minimal margin against further concentration while enforcement actions accumulate without definitive resolution. Direction of change: regulatory pressure intensifying but remedies lagging market realities.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Regulatory action concentrated in Washington D.C. federal courts, Silicon Valley headquarters, and state capitals; enforcement jurisdiction bounded by national borders while platform infrastructure spans globally, creating friction between territorial authority and borderless digital operations.<br><br>
-__Climate Regime & Volatility:__ Climate not a direct factor in antitrust proceedings; data center energy consumption emerges as tangential regulatory concern toward window's end without materially affecting enforcement trajectory.<br><br>
-__Hazard Regime & Exposure:__ No acute environmental hazard exposure relevant to regulatory machinery; COVID-19 pandemic 2020–2022 accelerates digital platform dependence, intensifying antitrust urgency without disrupting enforcement infrastructure.<br><br>
-__Resource & Energy Endowment:__ Compute infrastructure and data center capacity concentrated among defendant platforms themselves; no resource constraint on regulatory proceedings beyond standard governmental fiscal limits.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste and data center thermal discharge environmentally significant but outside antitrust framing; no sink saturation affecting enforcement capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic 2020–2022 shifts enforcement timeline — congressional hearings move virtual, litigation schedules extend — but does not alter fundamental mortality or morbidity profile of legal-administrative personnel.<br><br>
-__Nutrition & Physiological Vitality:__ Professional class engaged in antitrust work operates at high nutritional baseline; no physiological constraint on regulatory capacity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Not materially relevant to antitrust proceedings; professional career structures standard for legal and regulatory workforce.<br><br>
-__Demographic Renewal & Density:__ Regulatory workforce replenishment adequate; revolving door between agencies and private sector creates expertise circulation without demographic constraint.<br><br>
-__Attrition & Dependency Overhang:__ Retirement of experienced antitrust personnel creates institutional knowledge gaps; FTC and DOJ face recruitment competition with higher-paying private sector, producing modest expertise drain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Not directly relevant; antitrust concerns operate at market structure level rather than subsistence provisioning.<br><br>
-__Energy Capture & Conversion:__ Platform defendants control substantial data center energy infrastructure; no energy constraint on regulatory machinery itself.<br><br>
-__Labor Organization & Coercion:__ Antitrust enforcement workforce consists of federal employees, state attorneys, and contract counsel; private counsel for defendants drawn from elite law firms at premium compensation; no coercion in labor relations.<br><br>
-__Production & Surplus Capacity:__ Platform defendants generate extraordinary surplus — trillion-dollar market capitalizations, tens of billions in annual profits — creating asymmetric resource capacity between regulators and regulated; enforcement budgets measured in hundreds of millions versus defendant war chests in billions.<br><br>
-__Storage, Reserves & Buffering:__ Defendants maintain substantial legal reserves and insurance capacity; regulatory agencies operate on annual appropriations with limited reserve capacity against prolonged litigation.<br><br>
-__Exchange, Trade & Logistics:__ Antitrust cases concern digital market exchanges — search, advertising, e-commerce, social networking — where platform intermediation creates bottleneck power; logistics not directly at issue except in Amazon marketplace cases.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Platform market power enables extraction of advertising rents and marketplace fees; antitrust theory evolving to address non-price harms in zero-price consumer markets where traditional value metrics fail.<br><br>
-__Surplus Extraction & Redistribution:__ Core antitrust concern: platforms extract monopoly rents through market dominance; proposed remedies include structural separation, interoperability mandates, and merger prohibitions intended to redistribute market power.<br><br>
-__Wealth Distribution & Asset Defense:__ Platform founders and executives accumulate historically exceptional wealth concentrations; antitrust enforcement indirectly addresses wealth concentration through market structure remedies rather than direct redistribution.<br><br>
-__Byproducts & Waste Routing:__ Regulatory proceedings generate documentary record — filings, exhibits, rulings — archived in court systems; no material waste stream from enforcement activity itself.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Public trust in platform corporations declines sharply across window, from techno-optimism circa 2005 to widespread suspicion by 2020; antitrust action partly responsive to eroded social confidence in self-regulation.<br><br>
-__Stratification, Status & Group Identity:__ Tech executives constitute new elite stratum; antitrust enforcement positions regulatory bureaucracy against concentrated economic power; populist anti-monopoly sentiment cuts across traditional political alignments.<br><br>
-__Kinship, Family & Inheritance:__ Not directly relevant to antitrust proceedings; founder wealth transmission operates through standard estate and trust mechanisms.<br><br>
-__Civic Association & Self-Organization:__ Anti-monopoly advocacy organizations — Open Markets Institute, American Economic Liberties Project — emerge and mobilize; industry trade associations coordinate defendant response; civil society engagement intensifies across window.<br><br>
-__Leisure, Play & Sociability:__ Consumer platform use patterns — social media, streaming, e-commerce — constitute the market behavior antitrust seeks to protect; no direct leisure dimension to enforcement itself.<br><br>
-__Grievance Channels & Social Discharge:__ Congressional hearings serve performative function, allowing public grievance expression; actual remedies remain pending, leaving substantial unmetabolized frustration with platform power.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal antitrust authority divided between DOJ Antitrust Division and FTC, with overlapping jurisdiction creating coordination challenges; state attorneys general pursue parallel actions; Congress debates but does not pass comprehensive platform legislation.<br><br>
-__Succession & Power Transfer:__ Antitrust enforcement intensity fluctuates with administration changes — relatively dormant under late Bush and early Obama, aggressive under late Trump FTC and Biden appointments; leadership transitions reset enforcement priorities.<br><br>
-__Legitimacy & Political Narrative:__ Anti-monopoly framing gains bipartisan traction: progressive critique emphasizes power concentration; conservative critique emphasizes censorship and bias; both converge on platform accountability without unified remedy theory.<br><br>
-__Administrative Capacity & Institutional Integrity:__ FTC and DOJ Antitrust Division chronically under-resourced relative to defendant litigation capacity; agency expertise rebuilding after decades of Chicago School deference; integrity high but capacity constrained.<br><br>
-__Political Participation & Mobilization:__ Platform regulation becomes campaign issue; tech executives testify before Congress repeatedly (2018, 2020, 2021); lobbying expenditure by platforms reaches record levels — Google, Amazon, Meta among top federal lobbying spenders.<br><br>
-__Geopolitical Position & External Relations:__ U.S. antitrust action coordinates imperfectly with EU enforcement; Digital Markets Act (2022) and Digital Services Act create transatlantic regulatory divergence; China tech regulation offers contrasting authoritarian model.<br><br>
-__Coercive Apparatus & Means of Force:__ Enforcement relies on court orders, consent decrees, and civil penalties rather than physical coercion; contempt powers available but rarely invoked; no military or police dimension to antitrust proceedings.<br><br>
-__Internal Order & Threat Environment:__ No enforcement-related violence or disorder; proceedings operate within normal civil litigation parameters; platform content moderation decisions create separate political flashpoints outside antitrust framing.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Antitrust proceedings generate extensive public documentation — complaints, exhibits, trial transcripts — disseminated through PACER and agency websites; media coverage variable, peaking during congressional testimony and trial moments.<br><br>
-__Record, Storage & Persistence:__ Court records and agency filings create durable documentary archive; internal platform documents disclosed through discovery constitute historically significant corporate record; persistence assured through judicial record-keeping systems.<br><br>
-__Framing, Censorship & Discourse Norms:__ Defendants frame enforcement as government overreach threatening innovation; enforcers frame as necessary check on monopoly power; media coverage oscillates between these frames without resolution.<br><br>
-__Reception, Attention & Amplification:__ Public attention spikes during congressional hearings — Zuckerberg testimony 2018 reaches mass audience — but sustained attention to complex litigation limited; technical antitrust arguments fail to penetrate general discourse.<br><br>
-__Signal Integrity & Noise Load:__ Antitrust theory contested between Chicago School efficiency paradigm and neo-Brandeisian structural approach; noise load high as competing frameworks generate contradictory expert testimony and judicial uncertainty.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Underlying intuition that concentrated power threatens democratic accountability and consumer welfare; precise translation into legal doctrine remains contested; fairness concepts evolving to address digital market characteristics.<br><br>
-__Law, Codification & Regulatory Evolution:__ Sherman Act (1890) and Clayton Act (1914) provide statutory foundation; FTC Act Section 5 prohibits unfair methods of competition; no major statutory update across window despite multiple legislative proposals; evolution occurs through agency enforcement priorities and judicial interpretation.<br><br>
-__Adjudication, Enforcement & Liability:__ DOJ pursues Google search monopoly case (filed 2020, trial 2023, ruling 2024 finding monopoly liability); FTC challenges Meta acquisitions (filed 2020, amended 2021, litigation ongoing); state attorneys general pursue parallel Google and Meta cases; adjudication proceeds through federal district courts with appellate review pending.<br><br>
-__Rights, Protections & Compliance Burden:__ Defendants retain full civil procedure protections; compliance burden falls on platforms only after adverse judgment or consent decree; burden on enforcers to prove violations under existing statutory standards.<br><br>
-__Impunity & Unredressed Wrong:__ Despite multiple enforcement actions, no major structural remedy imposed across window through 2026; merger challenges arrive after integration complete; temporal mismatch between enforcement timeline and market consolidation creates substantial impunity gap where harms accumulate faster than remedies arrive.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Antitrust theory in paradigm flux: Chicago School consumer welfare standard (dominant since 1980s) challenged by neo-Brandeisian structural approach emphasizing competitive process and power concentration; academic debate ongoing without definitive resolution.<br><br>
-__Applied Knowledge & Technical Method:__ Economic modeling of digital markets requires novel methodology — two-sided markets, network effects, zero-price goods, data as competitive asset — expertise concentrated in specialized academic and consulting communities.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Antitrust expertise distributed across law schools, economics departments, and specialized practitioners; FTC and DOJ recruit from this pool but face private-sector salary competition; knowledge stock adequate but institutional capacity constrained.<br><br>
-__Obsolescence & Knowledge Decay:__ Chicago School assumptions — market self-correction, entry as disciplining force, price as primary welfare metric — increasingly obsolete for digital markets but embedded in judicial precedent; doctrinal updating lags market reality.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Anti-monopoly tradition rooted in American founding mythology — fear of concentrated power, Jeffersonian small-producer ideal, Progressive and New Deal trustbusting memory — mobilized by contemporary advocates; Silicon Valley counter-myth emphasizes innovation and disruption.<br><br>
-__Artistic Expression & Material Culture:__ Congressional hearing aesthetics — tech executives at witness tables, representative grandstanding — become recognizable cultural imagery; no distinctive material culture specific to antitrust proceedings beyond standard courtroom and hearing room settings.<br><br>
-__Collective Mood & Behavioral Disposition:__ Public mood toward tech platforms shifts from enthusiasm to suspicion across window; "techlash" sentiment peaks 2018–2020 following Cambridge Analytica and election interference revelations; mood darkening but not yet producing definitive policy outcome.<br><br>
-__Form Exhaustion & Meaning Decay:__ Congressional hearing format exhibits performative exhaustion — repetitive questioning, familiar talking points, limited substantive outcome — yet ritual continues as primary public accountability mechanism; anti-monopoly rhetoric risks hollowing without material remedy.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ No direct spiritual dimension to antitrust proceedings; underlying secular liberalism assumes markets as neutral coordination mechanism requiring correction only for specific failures; no transcendent framework invoked.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Congressional testimony and trial proceedings carry quasi-ritualistic character — oaths, formal procedure, robed judges — but operate entirely within secular civic framework.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious institutions not directly engaged in antitrust proceedings; some faith-based social justice advocacy addresses corporate power generally without specific antitrust focus.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Not applicable to antitrust enforcement domain; no spiritual diffusion or displacement relevant to proceedings.<br><br>
-__Disenchantment & Sacred Discharge:__ Techno-utopianism of early digital era undergoes disenchantment as platform externalities become visible; antitrust enforcement responds to secular disillusionment rather than spiritual crisis; no transcendent resolution available through regulatory mechanism.<br><br>
+# __2005 CE – 2026 CE — Tech Antitrust and Regulatory Response__
+
+__Summary:__ North American regulatory and legal efforts to constrain the market power of dominant technology platforms constitute a two-decade arc in which antitrust doctrine, formulated for industrial monopolies, struggles to adapt to digital business models built on data, network effects, and zero-price consumer services, leaving enforcement chronically behind the pace of platform consolidation and the binding constraint unresolved: the absence of a legal framework adequate to the attention economy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Washington D.C. houses the Federal Trade Commission and Department of Justice Antitrust Division, while Silicon Valley, Seattle, and Austin host the firms under scrutiny. Geographic separation places regulators far from engineering realities; congressional hearings summon executives cross-country, staging confrontations that perform oversight without producing binding outcomes.
+
+__Climate Regime & Volatility:__ Physical climate plays no direct role, though data center expansion into Oregon, Virginia, and Texas distributes platform infrastructure across multiple jurisdictions, complicating unified state-level action.
+
+__Hazard Regime & Exposure:__ Cybersecurity breaches and infrastructure outages periodically expose platform dependence but do not trigger antitrust responses; hazard framing remains separate from competition framing throughout the period.
+
+__Resource & Energy Endowment:__ Abundant electricity and server capacity underpin platform scale. Energy costs for AI training emerge as a constraint by 2024, but resource questions enter regulatory debate only at the margin.
+
+__Waste Absorption & Sink Capacity:__ E-waste from rapid hardware cycles and carbon emissions from data centers accumulate, but environmental regulation and antitrust remain siloed. No integrated framework emerges to treat externalized costs as competition harms.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The COVID-19 pandemic (2020–2022) accelerates platform dominance, raising antitrust urgency as e-commerce, remote work, and telehealth concentrate in a handful of firms. Pandemic conditions delay court proceedings and shift regulatory attention.
+
+__Nutrition & Physiological Vitality:__ Not directly engaged; platform harms are framed as economic and informational rather than bodily.
+
+__Care, Healing & Recovery Capacity:__ Amazon's pharmacy acquisitions and Google's health data ventures prompt scrutiny but yield no major enforcement actions during the window.
+
+__Reproductive Biology & Pairing Dynamics:__ Not directly relevant.
+
+__Demographic Renewal & Density:__ Generational turnover brings digitally native cohorts into adulthood; younger users accept platform ubiquity while aging legislators struggle to understand business models, widening the competence gap in oversight.
+
+__Attrition & Dependency Overhang:__ Regulatory agencies face workforce aging and brain drain to industry, hollowing enforcement capacity.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Not directly at stake, though platform monopoly pricing power threatens small business margins and consumer choice in the long run.
+
+__Energy Capture & Conversion:__ Cloud infrastructure (AWS, Azure, Google Cloud) converts electricity into computational capacity at scale, entrenching incumbents and raising barriers to entry that antitrust has difficulty addressing under existing doctrine.
+
+__Labor Organization & Coercion:__ Gig-economy labor conditions (Uber, Amazon warehouses) attract regulatory attention but are handled through labor law rather than antitrust. The Amazon Labor Union victory (2022) marks a labor response parallel to, not integrated with, competition enforcement.
+
+__Production & Surplus Capacity:__ Platform firms generate extraordinary profit margins; surplus flows to shareholders, stock buybacks, and AI investment rather than wage growth, but antitrust focuses on competition harms, not surplus distribution.
+
+__Storage, Reserves & Buffering:__ Platforms accumulate cash reserves (Apple alone holds over $200 billion) enabling acquisition of nascent competitors before they reach scale, a pattern antitrust seeks to address through merger review.
+
+__Exchange, Trade & Logistics:__ Amazon's marketplace dominance, controlling roughly half of U.S. e-commerce by 2024, triggers the Lina Khan-era FTC lawsuit (2023) alleging self-preferencing and seller coercion. Google's advertising dominance (commanding 90-plus percent of search ad revenue) underpins DOJ v. Google (filed 2020, trial 2023–2024). Apple's App Store fees and policies face Epic v. Apple (2021) and DOJ suit (2024).
+
+__Value Storage, Credit & Deferred Exchange:__ Platform payment systems (Apple Pay, Google Pay, Amazon Pay) accumulate transaction data; fintech regulatory questions run parallel to antitrust but remain largely separate.
+
+__Surplus Extraction & Redistribution:__ Advertising duopoly (Google and Meta) extracts surplus from news publishers and small advertisers; state and federal suits allege monopolistic pricing. The Journalism Competition and Preservation Act is proposed repeatedly but not enacted by 2026.
+
+__Wealth Distribution & Asset Defense:__ Platform founders and early investors accumulate vast wealth; antitrust remedies do not address wealth concentration directly, though breakup scenarios would redistribute corporate value.
+
+__Byproducts & Waste Routing:__ The advertising model's byproduct is attention extraction and data harvesting; regulatory response (privacy law, children's online safety) runs parallel to antitrust rather than within it, fragmenting the response.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Not directly engaged.
+
+__Association & Mutual Aid:__ Small business associations, news publisher coalitions, and app developer groups organize to lobby for antitrust action, providing political cover for enforcement.
+
+__Leisure, Play & Sociability:__ Gaming and social media acquisitions (Microsoft-Activision, Meta-Oculus) trigger FTC review; the Microsoft-Activision deal (2023) proceeds after court rejection of FTC's preliminary injunction, signaling judicial skepticism of agency theory.
+
+__Stratification, Status & Group Structure:__ A class divide emerges between platform executives summoned to congressional hearings and regulators operating on government salaries; revolving-door employment patterns between agencies and firms complicate enforcement credibility.
+
+__Administrative Capacity & Institutional Integrity:__ The FTC and DOJ Antitrust Division operate with budgets and staffing far below platform legal teams. FTC budget circa 2005: $205 million; circa 2024: $430 million, a nominal doubling that lags both inflation and the growth of regulated entities. Agency leadership turnover with administrations disrupts continuity; Chair Lina Khan (2021–2025) pursues aggressive enforcement, reversed under subsequent leadership.
+
+__Coercive Apparatus & Means of Force:__ Enforcement relies on civil litigation, consent decrees, and court orders rather than criminal prosecution. Contempt-of-court sanctions remain rare; platforms can absorb fines as cost of doing business.
+
+__Discharge, Disorder & Decay:__ Institutional sclerosis accumulates: case timelines stretch to years, precedent lags market evolution, and consent decrees from prior cycles (e.g., Google's 2011 FTC settlement) prove unenforceable as business models mutate. The gap between regulatory capacity and platform scale widens.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Public opinion shifts from tech optimism (2005–2015) to techlash (2018–2024). Pew surveys show rising concern over platform power, privacy, and misinformation. Bipartisan distrust of Big Tech emerges, though for divergent reasons (conservatives cite censorship, liberals cite monopoly and misinformation).
+
+__Leadership & Personal Authority:__ Key figures shape the arc: Lina Khan's 2017 Yale Law Journal article "Amazon's Antitrust Paradox" reframes debate; her appointment as FTC Chair (2021) signals policy shift. Jonathan Kanter at DOJ Antitrust (2021–2025) pursues parallel agenda. Platform CEOs (Zuckerberg, Pichai, Cook, Bezos, Musk) become public faces of concentrated power.
+
+__Legitimacy as Lived Allegiance:__ Platform legitimacy erodes among elites and activists but remains high among users who continue daily engagement; the gap between rhetorical distrust and behavioral dependence complicates political will for strong remedies.
+
+__Political Will & Collective Resolve:__ Bipartisan antitrust bills pass House Judiciary Committee (2022) but fail Senate floor votes; political will is sufficient for hearings and lawsuits, insufficient for legislation. Administration changes (Biden to second Trump term, 2025) reverse enforcement priorities.
+
+__External Relations & Posture:__ U.S. antitrust posture increasingly coordinates with EU (Digital Markets Act, 2022) and faces divergence with China, which pursues its own tech crackdown (2020–2021) for different purposes (party control rather than competition).
+
+__Disaffection, Apathy & Spent Will:__ By 2026, enforcement fatigue sets in. High-profile lawsuits drag through courts; remedies remain hypothetical. Public attention shifts to AI governance, and antitrust momentum dissipates without landmark breakups or structural reform.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Legal filings, congressional testimony, and court transcripts are publicly accessible, but their length and technicality limit public comprehension. Academic and journalistic intermediaries translate for broader audiences.
+
+__Channels & Transmission Velocity:__ News of antitrust actions spreads instantly via the very platforms under scrutiny; irony is noted but not resolved. Platform algorithms amplify or suppress antitrust coverage based on engagement metrics.
+
+__Record, Storage & Persistence:__ Discovery in major lawsuits (DOJ v. Google, FTC v. Meta) surfaces internal documents revealing platform strategy, adding to the evidentiary record; these documents persist as public records and shape academic analysis.
+
+__Framing, Censorship & Discourse Norms:__ Platforms frame themselves as innovation engines threatened by overreach; critics frame them as monopolists extracting rents. The framing contest shapes legislative and judicial receptivity. Section 230 debates run parallel, conflating content moderation with competition questions.
+
+__Reception, Attention & Amplification:__ Antitrust hearings generate viral clips (Zuckerberg's blank expressions, Pichai deflections), but sustained attention is scarce; news cycles move faster than litigation timelines.
+
+__Signal Integrity & Noise Load:__ Misinformation about antitrust law circulates; partisans mischaracterize enforcement as politically motivated. The technical complexity of digital markets doctrine exceeds public and congressional comprehension, degrading signal quality.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ A populist sense that Big Tech has grown too powerful animates reform sentiment, drawing on older Brandeisian traditions that treat concentrated economic power as incompatible with democracy.
+
+__Law, Codification & Regulatory Evolution:__ Antitrust law rests on the Sherman Act (1890), Clayton Act (1914), and FTC Act (1914), interpreted through decades of case law. The consumer welfare standard, dominant since the 1980s, defines harm as higher prices or reduced output, struggling to capture harms in zero-price, data-driven markets. Proposed legislation (American Innovation and Choice Online Act, Open App Markets Act) stalls. The DOJ v. Google ruling (2024) finds monopoly in search but defers remedy; appeal expected.
+
+__Adjudication, Liability & Sanction:__ Federal district courts adjudicate major cases; appeals proceed through circuits to potential Supreme Court review. Judges lack technical expertise; special masters and expert witnesses attempt to bridge the gap. Sanctions remain civil fines and injunctive relief; criminal antitrust prosecution of tech executives does not occur.
+
+__Rights, Protections & Compliance Burden:__ Consent decrees impose compliance obligations (e.g., Google's 2011 FTC privacy settlement) but are weakly monitored. Small competitors lack resources to pursue private antitrust litigation against well-funded defendants.
+
+__Impunity & Unredressed Wrong:__ The lag between alleged harm and remedy leaves competitors eliminated before relief arrives. Acquisitions approved under one administration (Facebook-Instagram, 2012; Facebook-WhatsApp, 2014) are challenged years later (FTC v. Meta, 2020, dismissed 2021, refiled 2021, ongoing). The cycle of delayed enforcement accumulates unprosecuted harm.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The Chicago School's consumer welfare paradigm dominates judicial interpretation from the 1980s; the neo-Brandeisian school (Khan, Tim Wu) challenges it from 2017 onward, arguing that market structure and political power matter beyond price effects. Academic debate intensifies but doctrine shifts slowly.
+
+__Applied Knowledge & Technical Method:__ Economists develop models for two-sided markets, network effects, and data as competitive advantage. Courts struggle to apply these models; judges request tutorials on digital business models. Technical expertise concentrates in platform-side experts and consulting firms.
+
+__Education, Knowledge Stock & Skill Distribution:__ Law schools add tech antitrust courses; the FTC establishes an Office of Technology (2023) to build internal capacity. Knowledge asymmetry persists: platforms outspend agencies on expert witnesses and technical staff.
+
+__Obsolescence & Knowledge Decay:__ Precedents from industrial-era cases (Standard Oil, AT&T) are invoked but fit poorly. The Microsoft antitrust case (1998–2001) offers the closest template but predates mobile, cloud, and AI. Doctrinal obsolescence accumulates faster than new frameworks are adopted.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ American antitrust draws on Progressive Era memory of trust-busting (Teddy Roosevelt, Standard Oil). This mythos is invoked rhetorically but does not translate directly into contemporary enforcement.
+
+__Legitimating Narrative & Ideology:__ Platforms claim the mantle of innovation and American competitiveness; critics invoke democratic accountability and small-business protection. Both narratives circulate; neither achieves decisive cultural dominance.
+
+__Artistic Expression & Material Culture:__ Antitrust hearings become media spectacles; Zuckerberg's booster seat, Pichai's pauses, and Bezos's bald head enter meme culture. Documentary films (The Social Dilemma, 2020) popularize platform critique but focus on attention harms rather than competition law.
+
+__Form Exhaustion & Meaning Decay:__ "Big Tech" and "techlash" become cliches; reform rhetoric circulates without producing structural change. The gap between cultural critique and legal remedy widens, and antitrust discourse hollows into performance.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ No explicit spiritual framing governs antitrust; the domain operates in secular legal and economic registers. Implicit quasi-religious faith in market self-correction underwrites the consumer welfare standard; neo-Brandeisians invoke democratic values as near-sacred.
+
+__Ritual, Devotion & Sacred Practice:__ Congressional hearings acquire ritual character: oaths, opening statements, five-minute questioning rounds. These rituals perform accountability without reliably producing it.
+
+__Religious Institutions & Doctrinal Authority:__ Not directly engaged; antitrust debate is secular.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The quasi-spiritual faith in technological progress that characterized Silicon Valley's self-image erodes; techno-optimism gives way to techno-skepticism among some elites, though not uniformly.
+
+__Disenchantment & Sacred Discharge:__ The promise that markets would self-correct and innovation would diffuse power stands disenchanted by 2026. Neither breakup nor structural reform has occurred; the sacred narrative of competitive capitalism as self-policing lies dormant, and no replacement has emerged.

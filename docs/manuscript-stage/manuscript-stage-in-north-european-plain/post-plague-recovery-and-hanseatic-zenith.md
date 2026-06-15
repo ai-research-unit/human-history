@@ -1,69 +1,139 @@
-# __1350 CE – 1400 CE__ — Post-Plague Recovery and Hanseatic Zenith
-__Summary:__ The North European Plain recovers from the Black Death's demographic collapse, with surviving populations gaining leverage through labor scarcity. The Hanseatic League reaches its commercial and political apex, codified by the Treaty of Stralsund (1370), which humbles Denmark and secures Baltic dominance. The binding constraint is labor scarcity reshaping economic and social relations. Margins against shock remain thin as populations rebuild. Direction is toward urban consolidation, guild empowerment, and commercial institutionalization.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor from Flanders to the Baltic remains the primary transit axis; river systems (Rhine, Elbe, Oder, Vistula) and coastal routes carry bulk trade; marshy terrain in the Netherlands and coastal Prussia imposes drainage costs but no new chokepoints emerge.<br><br>
-__Climate Regime & Volatility:__ The Medieval Warm Period wanes; cooler, wetter conditions settle in, shortening growing seasons in marginal northern areas; interannual variability remains moderate after the earlier fourteenth-century famines.<br><br>
-__Hazard Regime & Exposure:__ Flood risk persists in Low Countries and Baltic coastal zones; storm surges occasionally breach dikes; no catastrophic seismic or volcanic events; the region holds moderate margin against environmental shocks.<br><br>
-__Resource & Energy Endowment:__ Timber, grain, fish, and salt remain abundant; Harz and Saxon silver mines continue production; peat extraction expands in the Netherlands; the resource base is ample for reduced post-plague populations.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban waste accumulates in smaller populations; rivers and soil absorb effluent with considerable remaining capacity; tanneries and dye-works produce localized pollution in major towns but sinks are not saturated.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague recurs in waves (1361–1363, 1369–1371, 1374–1375), maintaining elevated mortality; endemic dysentery, typhus, and tuberculosis persist; the death rate remains above pre-1348 levels but stabilizes below crisis peaks.<br><br>
-__Nutrition & Physiological Vitality:__ Survivors benefit from increased per-capita food availability; meat consumption rises; stature evidence suggests modest nutritional improvement among laboring populations; vitality trends upward.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Earlier marriage ages documented as households seek to replace losses; fertility rises in response to labor demand; widows and widowers remarry rapidly; reproductive pressures favor population rebuilding.<br><br>
-__Demographic Renewal & Density:__ Population remains 30–50% below 1340 peaks; slow recovery begins mid-century; urban densities lower; rural depopulation visible in abandoned villages (Wüstungen); age structure skews young as survivors reproduce.<br><br>
-__Attrition & Dependency Overhang:__ Orphan and widow populations elevated by plague waves; monastic and charitable institutions absorb some dependency; labor scarcity means even marginal workers find employment; dependency load is manageable relative to reduced totals.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Per-capita food availability improves; abandoned land reverts to pasture; meat, dairy, and fish consumption rises; household subsistence margins widen significantly for survivors.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; watermills and windmills widespread; efficiency unchanged but labor scarcity raises the value of each worker's output; per-capita energy availability effectively increases.<br><br>
-__Labor Organization & Coercion:__ Labor scarcity empowers workers; wages rise 50–100% in some sectors; serfdom weakens; lords compete for tenants with reduced dues; guild restrictions tighten to protect artisan positions; coercion gives way to incentives.<br><br>
-__Production & Surplus Capacity:__ Total output contracts with population but per-capita surplus rises; pastoral agriculture expands; urban cloth production adjusts to smaller workforce; Hanseatic trade volumes recover by 1370s.<br><br>
-__Storage, Reserves & Buffering:__ Town granaries and merchant warehouses rebuilt; Hanseatic coordination improves supply reliability; credit networks absorb short-term shortfalls; buffering capacity adequate for normal fluctuations.<br><br>
-__Exchange, Trade & Logistics:__ Hanseatic system reaches peak efficiency; kontor network (Bruges, London, Bergen, Novgorod) fully operational; standardized weights, measures, and contracts facilitate exchange; shipping tonnage recovers; logistics infrastructure intact.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coinage remains stable; Hanseatic merchants extend credit across the network; bills of exchange and book transfers supplement coin; debasement minimal; purchasing power holds.<br><br>
-__Surplus Extraction & Redistribution:__ Princely and ecclesiastical revenues contract with population; urban tolls and Hanseatic levies sustain commercial infrastructure; extraction rates moderate as lords compete for scarce labor.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrates among surviving merchant families and landholders who consolidate vacated properties; guilds protect artisan niches; burgher dynasties entrench; inequality within reduced populations widens modestly.<br><br>
-__Byproducts & Waste Routing:__ Industrial byproducts from cloth, leather, and metal trades accumulate in urban centers; dispersal via rivers and midden heaps; volume reduced with population; routing unchanged but loads lighter.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Plague trauma strains but does not break communal bonds; guild and confraternity networks strengthen; charity expands for plague survivors; trust radius stabilizes within occupational and neighborhood communities.<br><br>
-__Stratification, Status & Group Identity:__ Three-tier urban structure (patricians, guilds, common folk) persists; guild membership becomes more valuable; Jewish communities face periodic persecution but remain economically integrated in many towns; boundaries harden modestly.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family norm persists; partible inheritance in some regions, primogeniture in others; rapid household reconstitution after plague losses; kin networks remain primary safety net.<br><br>
-__Civic Association & Self-Organization:__ Guilds gain political power in many towns; confraternities proliferate; urban councils expand representation; Hanseatic diets coordinate member cities; associational fabric thickens significantly.<br><br>
-__Leisure, Play & Sociability:__ Festivals and fairs resume; carnival traditions documented; tavern culture thrives; guild celebrations and religious processions structure communal leisure; sociability intensifies as surviving communities consolidate.<br><br>
-__Grievance Channels & Social Discharge:__ Guild arbitration, urban courts, and confraternity mediation absorb disputes; some anti-Jewish violence and occasional artisan unrest; most grievance is channeled through institutional structures; standing instability low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial authority remains weak under Charles IV and Wenceslaus; territorial princes consolidate; Hanseatic cities exercise de facto sovereignty in commercial matters; power is fragmented but stable within fragments.<br><br>
-__Succession & Power Transfer:__ Golden Bull (1356) regularizes imperial elections among seven electors; princely successions follow established dynastic rules; urban councils renew by cooptation; transfers are routinized and rarely contested.<br><br>
-__Legitimacy & Political Narrative:__ Imperial ideology persists symbolically; princely legitimacy rests on dynastic right and territorial administration; Hanseatic cities claim commercial necessity and collective defense; narratives are accepted within their spheres.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Territorial chanceries expand; Hanseatic correspondence networks constitute sophisticated coordination; town councils maintain records; administrative capacity is growing; corruption contained by guild and council oversight.<br><br>
-__Political Participation & Mobilization:__ Guild representation in town councils expands; Hanseatic diets involve dozens of member cities; popular mobilization rare but occasional urban revolts (Braunschweig 1374); channels are opening modestly.<br><br>
-__Geopolitical Position & External Relations:__ Treaty of Stralsund (1370) marks Hanseatic triumph over Denmark; league controls Baltic access; relations with England, Flanders, and Novgorod stable; no major external threats; the region's commercial position is dominant.<br><br>
-__Coercive Apparatus & Means of Force:__ Urban militias defend towns; Hanseatic naval power enforced blockades against Denmark; territorial princes maintain small professional retinues; crossbow and early gunpowder weapons appear; force remains dispersed.<br><br>
-__Internal Order & Threat Environment:__ Banditry moderate in rural areas; urban crime controlled by watch and guild policing; no major rebellions after 1374; disorder stays within enforcement capacity; margins are adequate.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Hanseatic correspondence networks span from Novgorod to Bruges within weeks; messenger services regularized; information travels along trade routes; velocity is high by pre-print standards and broadly accessible to merchants.<br><br>
-__Record, Storage & Persistence:__ Town archives, guild records, and Hanseatic recesses preserve commercial and legal memory; parchment remains standard but paper spreading; monastic and cathedral archives continue; record survival is robust.<br><br>
-__Framing, Censorship & Discourse Norms:__ Clerical Latin frames official documents; Middle Low German dominates Hanseatic commerce; heresy monitored but commercial speech largely unrestricted; discourse norms stable and functionally adequate.<br><br>
-__Reception, Attention & Amplification:__ Merchant networks amplify commercially relevant news rapidly; sermons and proclamations reach urban populations; manuscript circulation limited to literate minority; attention concentrated on practical information.<br><br>
-__Signal Integrity & Noise Load:__ Standardized Hanseatic commercial language reduces ambiguity; notarial practices verify contracts; rumors circulate but core commercial and legal information maintains integrity; noise manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian moral framework universal; guild ethics emphasize fair dealing and quality; communal sense of reciprocity strong; justice expected to protect property and contracts.<br><br>
-__Law, Codification & Regulatory Evolution:__ Lübeck and Magdeburg law families provide urban legal templates; Hanseatic recesses codify commercial practice; territorial law books compiled; codification advancing steadily.<br><br>
-__Adjudication, Enforcement & Liability:__ Town courts handle commercial and criminal cases; guild courts settle craft disputes; Hanseatic arbitration resolves inter-city conflicts; throughput adequate; enforcement reliable within urban jurisdictions.<br><br>
-__Rights, Protections & Compliance Burden:__ Burgher rights documented in charters; guild membership protects artisan livelihoods; compliance burden moderate; predictability high within established legal frameworks.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful patrician families occasionally escape full accountability; rural areas less well served; Jewish communities vulnerable to exceptional persecution; impunity exists at margins but formal system generally delivers redress.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scholastic synthesis dominates; Aristotelian natural philosophy taught in emerging universities; nominalist debates active; discovery frontier lies in logic, theology, and jurisprudence.<br><br>
-__Applied Knowledge & Technical Method:__ Navigation, shipbuilding, and brewing techniques improve; metallurgy advances in mining regions; double-entry bookkeeping spreads among merchants; practical technique accumulates incrementally.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities at Prague (1348), Vienna (1365), Heidelberg (1386), Cologne (1388) train clergy, lawyers, physicians; urban schools expand; literacy rising among merchants and officials but still minority attainment.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical knowledge preserved in monasteries; some texts lost or corrupted in copying; vernacular practical knowledge transmitted through apprenticeship; decay rate low; error-clearing limited to specialized scholarly circles.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Plague trauma enters collective memory as divine judgment or cosmic catastrophe; origin narratives center on town foundations, guild traditions, and dynastic histories; identity consolidates around surviving communities.<br><br>
-__Artistic Expression & Material Culture:__ Brick Gothic reaches full expression in Hanseatic town halls and churches (Marienkirche Lübeck, Stralsund); sculpture and panel painting develop; material culture reflects urban prosperity and guild patronage.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-plague survivors oscillate between fatalism and hedonism; memento mori themes prominent; pragmatic focus on rebuilding dominates; mood cautiously optimistic as recovery proceeds.<br><br>
-__Form Exhaustion & Meaning Decay:__ Gothic forms remain vital; religious imagery retains power; plague-related iconography (Dance of Death, Ars moriendi) emerges fresh; no significant form exhaustion; cultural production vigorous.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology universal; plague interpreted as divine punishment or eschatological sign; piety intensifies among survivors; fatalism and active devotion coexist; secularism not visible.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, confession, pilgrimage, and relic veneration structure religious life; confraternity devotions expand; flagellant processions recur with plague waves; devotional intensity high.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Papal authority weakened by Avignon residence and emerging schism (1378); bishops and monasteries maintain local power; mendicant orders active in towns; doctrinal orthodoxy upheld but institutional prestige declining.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity unchallenged within the region; Devotio Moderna emerges in the Netherlands emphasizing personal piety; mystical traditions (Meister Eckhart's legacy) persist; no displacement or significant syncretism.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment visible; sacred explanations for plague reinforce rather than erode cosmology; existential need fully anchored in Christian framework; spiritual discharge minimal.
+# __1350 CE – 1400 CE — Post-Plague Recovery and Hanseatic Zenith__
+
+__Summary:__ The North European Plain in the half-century after the Black Death entered a demographic trough that paradoxically strengthened surviving commoners: labor scarcity raised wages, emptied marginal holdings, and shifted bargaining power toward peasants and urban craftsmen, while the Hanseatic League consolidated its commercial dominance across the Baltic and North Sea, its merchant oligarchies codifying practice in written statutes and correspondence that made the league's documentary apparatus the binding constraint on northern trade.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The plain's low relief and navigable rivers—Rhine, Weser, Elbe, Oder, Vistula—continued to channel movement and commerce, though depopulation left villages abandoned and roads less traveled; forest regrowth on vacated fields shortened sightlines and complicated overland transit.
+
+__Climate Regime & Volatility:__ The Medieval Climate Optimum had ended; cooler, wetter conditions persisted, shortening growing seasons and depressing yields, though the reduced population found these diminished harvests more adequate per capita than before.
+
+__Hazard Regime & Exposure:__ Recurrent plague outbreaks (1361–1362, 1369, 1374–1375) struck with less virulence than the initial wave but maintained demographic pressure; coastal flooding along the North Sea threatened reclaimed polders in the Low Countries.
+
+__Resource & Energy Endowment:__ Forests expanded on abandoned arable, renewing timber stocks; reduced demand for fuel and building materials meant less drawdown; Baltic fish stocks—especially herring—remained abundant and anchored Hanseatic trade.
+
+__Waste Absorption & Sink Capacity:__ Population collapse reduced pressure on soils and watercourses; fallow fields recovered fertility; urban middens shrank, and waterways ran clearer than in the crowded decades before 1347.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague remained endemic, flaring in urban centers every decade; survivors carried acquired resistance but virgin cohorts born after 1350 remained vulnerable; mortality rates stayed elevated above pre-plague norms but below the catastrophic 1347–1351 levels.
+
+__Nutrition & Physiological Vitality:__ Survivors enjoyed improved diets as meat consumption rose—depopulated pastures supported more livestock per remaining person—and grain sufficed where once it had been scarce; skeletal evidence suggests taller stature and fewer deficiency markers in post-plague generations.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge advanced little; plague humbled learned physicians and vindicated quarantine and flight as pragmatic responses; hospitals, often church-run, served fewer patients with relatively greater resources.
+
+__Reproductive Biology & Pairing Dynamics:__ Earlier marriage and higher fertility among survivors began refilling the demographic gap; widows and widowers remarried quickly; labor scarcity incentivized childbearing.
+
+__Demographic Renewal & Density:__ Population remained at roughly half pre-plague levels; recovery was slow, with eastern colonization zones depopulating most sharply; density stayed well below carrying capacity, reducing crowding stresses.
+
+__Attrition & Dependency Overhang:__ Plague carried off disproportionately the young and old, leaving a prime-age cohort with fewer dependents; widows and orphans absorbed into reconstituted households or monastic care.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ With fewer mouths, the provisioning floor rose: abandoned manses reverted to forest or pasture, but survivors held consolidated plots yielding surplus; famines receded.
+
+__Energy Capture & Conversion:__ Human and animal muscle remained primary; watermills proliferated as lords competed for labor by investing in infrastructure; windmills multiplied along the coasts where streams lacked gradient.
+
+__Labor Organization & Coercion:__ Labor scarcity empowered peasants and journeymen; serfdom loosened across the western plain, though eastern lords began tightening bonds to retain workers—a divergence that would deepen; wages rose and lords competed through commutation of services to cash rents.
+
+__Production & Surplus Capacity:__ Agricultural output contracted with population but surplus per capita grew; towns produced cloth, metalwork, and beer for reduced but solvent markets; the Hanseatic network channeled Baltic grain and timber westward to fill gaps.
+
+__Storage, Reserves & Buffering:__ Town granaries held adequate stocks; Hanseatic merchants accumulated reserves in Kontore at Bruges, London, Bergen, and Novgorod; princely treasuries recovered slowly as tax bases shrank.
+
+__Exchange, Trade & Logistics:__ The Hanseatic League reached its commercial apogee: the Peace of Stralsund (1370) forced Denmark to grant privileges, and Lübeck coordinated the diet; cog-built fleets dominated Baltic-North Sea shipping; Low German commercial correspondence and bookkeeping standardized transactions.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver remained the unit of account; letters of exchange circulated among Hanseatic factors; credit networks linked Bruges to Novgorod; merchant families accumulated capital for reinvestment.
+
+__Surplus Extraction & Redistribution:__ Princely revenues fell with depopulation; ecclesiastical tithes contracted; Hanseatic cities collected tolls and levied contributions on member towns for common defense—a fiscal apparatus independent of territorial lords.
+
+__Wealth Distribution & Asset Defense:__ Patrician families in Lübeck, Hamburg, Cologne, and Danzig concentrated mercantile wealth; guild restrictions and sumptuary laws defended status boundaries; land reverted to lords but yielded less rent.
+
+__Byproducts & Waste Routing:__ Reduced urban populations generated less refuse; tanning, dyeing, and brewing produced effluent, but streams diluted it adequately; no crisis of accumulation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ High mortality disrupted inheritance lines; collateral kin inherited where direct heirs perished; widows gained property rights more frequently; partible inheritance fragmented estates in the west while primogeniture preserved them in the east.
+
+__Association & Mutual Aid:__ Guilds tightened membership to protect surviving craftsmen; confraternities multiplied, offering burial funds and prayers for plague dead; Hanseatic merchant associations coordinated mutual defense and dispute resolution.
+
+__Leisure, Play & Sociability:__ Festivals and fairs resumed, providing markets and social release; carnival and Fastnacht rituals allowed transgressive play; taverns and bathhouses flourished in towns.
+
+__Stratification, Status & Group Structure:__ Urban patricians dominated town councils; guild masters formed a middle stratum; journeymen and laborers, though better paid, remained subordinate; peasants in the west gained mobility while those in the east faced re-enserfment pressures.
+
+__Administrative Capacity & Institutional Integrity:__ Town councils governed through written statutes (Stadtrechte); Hanseatic diets coordinated policy among member cities; princely chanceries expanded their documentary output but lacked bureaucratic depth; corruption was endemic but manageable.
+
+__Coercive Apparatus & Means of Force:__ Town militias and mercenary companies provided defense; Hanseatic fleets enforced blockades (notably against Waldemar IV of Denmark); the Teutonic Order maintained a formidable standing army in Prussia; castle fortifications modernized slowly.
+
+__Discharge, Disorder & Decay:__ Brigandage increased as lordless men roamed; the Jacquerie in France (1358) echoed in smaller German peasant unrest; urban riots over guild privileges flared; plague-driven pogroms against Jews intensified, most devastatingly in 1349 but recurring thereafter.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A mood of fragility persisted: plague could return, and survivors oscillated between pious dread and hedonistic release; trust contracted to kin and guild, extending cautiously to trading partners.
+
+__Leadership & Personal Authority:__ Emperor Charles IV (r. 1346–1378) stabilized the empire through the Golden Bull (1356), fixing electoral procedure and entrenching princely power; Hanseatic burgomasters wielded authority within their cities; charismatic preachers drew crowds seeking meaning.
+
+__Legitimacy as Lived Allegiance:__ Imperial authority commanded formal deference but little practical obedience; loyalty attached to city, guild, and lord rather than distant emperor; the papacy, now at Avignon and soon in schism, saw its moral authority erode.
+
+__Political Will & Collective Resolve:__ The Hanseatic League demonstrated collective resolve in the war against Denmark (1367–1370), mobilizing fleet and funds; individual princes pursued dynastic interests; peasant and urban communities defended privileges with increasing assertiveness.
+
+__External Relations & Posture:__ The Hansa dominated Baltic diplomacy, treating with kings as an equal; the Teutonic Order pressed against Lithuania until the 1386 Polish-Lithuanian union shifted the balance; Bohemia under Charles IV flourished but looked east and south.
+
+__Disaffection, Apathy & Spent Will:__ Apocalyptic movements—flagellants, heretical sects—channeled despair; after initial fervor, exhaustion set in; survivors focused on rebuilding rather than crusading.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Latin remained the learned code; Low German (Mittelniederdeutsch) became the commercial lingua franca of the Hansa; vernacular literacy expanded among merchants and town clerks; peasants remained largely illiterate.
+
+__Channels & Transmission Velocity:__ Hanseatic couriers and ship captains carried correspondence across the Baltic and North Sea; post-relay systems emerged informally; news of plague outbreaks and prices traveled with trade.
+
+__Record, Storage & Persistence:__ Town archives preserved charters, statutes, and council minutes; Hanseatic Kontore maintained commercial records; monastic scriptoria continued but faced labor shortages; paper supplemented expensive parchment.
+
+__Framing, Censorship & Discourse Norms:__ Church authorities condemned heresy and controlled preaching; town councils regulated public speech; commercial correspondence remained pragmatic and relatively free.
+
+__Reception, Attention & Amplification:__ Sermons reached urban crowds; market-day proclamations disseminated official decrees; rumor traveled fast and often distorted—plague fears triggered pogroms based on well-poisoning libels.
+
+__Signal Integrity & Noise Load:__ Forgery of charters and seals remained a problem; verification relied on witness, seal, and notarial authentication; commercial trust networks reduced noise within the Hansa but outsiders faced skepticism.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Christian morality, shaken by plague, persisted; debates over usury intensified as credit expanded; sumptuary laws attempted to enforce social boundaries; the suffering of the innocent demanded theological explanation.
+
+__Law, Codification & Regulatory Evolution:__ The Golden Bull (1356) codified imperial election; town statutes proliferated; the Sachsenspiegel and its derivatives governed much of the region; canon law addressed clerical discipline amid scandal.
+
+__Adjudication, Liability & Sanction:__ Town courts handled civil disputes; ecclesiastical courts judged moral offenses; blood feuds persisted among nobles despite Landfrieden (territorial peace) ordinances; sanctions ranged from fines to mutilation and execution.
+
+__Rights, Protections & Compliance Burden:__ Burghers enjoyed chartered rights within their towns; peasants negotiated customary protections; Jews lived under precarious imperial protection, often violated; compliance burdens increased as regulations multiplied.
+
+__Impunity & Unredressed Wrong:__ Pogroms against Jews went largely unpunished; noble violence often escaped sanction; ecclesiastical abuses—pluralism, simony—drew complaint but little correction; the backlog of unredressed grievance fed anticlericalism.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scholasticism dominated universities; nominalism (Ockham) challenged realist metaphysics; natural philosophy remained Aristotelian; plague prompted medical treatises but no paradigm shift.
+
+__Applied Knowledge & Technical Method:__ Hanseatic shipbuilding refined the cog; metallurgy improved in mining regions; agricultural technique stagnated or regressed on abandoned fields; clockmaking advanced in urban centers.
+
+__Education, Knowledge Stock & Skill Distribution:__ The University of Prague (1348) became the premier institution north of the Alps; cathedral schools trained clergy; guild apprenticeships transmitted craft knowledge; literacy spread among merchants and officials.
+
+__Obsolescence & Knowledge Decay:__ Plague killed scholars and disrupted transmission; some monastic libraries fell into neglect; practical knowledge of abandoned techniques (certain textile processes, marginal farming methods) was lost.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The empire claimed Roman continuity; Hanseatic cities cultivated civic identities rooted in charters and commercial success; plague became a defining trauma, commemorated in art and chronicle.
+
+__Legitimating Narrative & Ideology:__ Imperial ideology justified loose confederation; the Hansa's ideology was commercial and pragmatic—mutual benefit through collective action; the Church's narrative of salvation framed suffering as divine judgment.
+
+__Artistic Expression & Material Culture:__ Gothic architecture continued; Brick Gothic (Backsteingotik) marked Hanseatic towns; devotional art—altarpieces, Vesperbild sculptures—intensified emotional piety; death imagery (Danse Macabre, memento mori) proliferated.
+
+__Form Exhaustion & Meaning Decay:__ High Gothic forms persisted but inspiration flagged; chivalric literature recycled conventions; religious imagery risked becoming formulaic, though plague renewed its emotional charge.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christian cosmology framed plague as divine punishment or test; apocalyptic expectation heightened; the mystery of innocent suffering deepened devotion for some and doubt for others.
+
+__Ritual, Devotion & Sacred Practice:__ Penitential processions, flagellant movements, and intensified Marian devotion marked the decades after 1350; chantries multiplied as survivors endowed masses for plague dead; pilgrimage continued.
+
+__Religious Institutions & Doctrinal Authority:__ The papacy, weakened by Avignon captivity (1309–1377) and the Great Schism (1378–1417), lost authority; bishops and abbots retained local power; mendicant orders served urban populations; reform pressure built.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Orthodoxy held; heretical movements (Lollards in England, proto-Hussite sentiment in Bohemia) were monitored and suppressed; mysticism (Rhineland mystics, Devotio Moderna emerging) offered interiorized alternatives.
+
+__Disenchantment & Sacred Discharge:__ Institutional corruption and schism eroded clerical prestige; popular piety intensified as compensation, but anticlericalism simmered; the sacred remained powerful but its institutional mediators lost credibility.

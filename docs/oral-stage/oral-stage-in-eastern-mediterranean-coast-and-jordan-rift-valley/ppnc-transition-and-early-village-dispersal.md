@@ -1,69 +1,139 @@
-# __6500 BCE – 5800 BCE__ — PPNC Transition and Early Village Dispersal
-__Summary:__ A seven-century contraction in which the mega-village system of the Late PPNB unravels across the southern Levant, binding constraint shifting from labor coordination to resource depletion as overexploited soils, depleted woodlands, and degraded pastures undercut the carrying capacity that sustained populations of two to three thousand; settlements abandon, shrink, or disperse into smaller hamlets and emergent pastoral groups, margin against environmental shock collapsing as the accumulated biomass deficit forces reorganization toward lower-density, more mobile configurations.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Jordan Rift, coastal plain, and upland margins retain their fundamental corridors, but degraded vegetation and eroded slopes increase transit friction; deforested hillsides reduce the habitable zone's effective extent.<br><br>
-__Climate Regime & Volatility:__ Early Holocene optimum continues but with increasing seasonal variability; approaching 8.2 ka event introduces cooling and drying trends that stress marginal zones; volatility rising.<br><br>
-__Hazard Regime & Exposure:__ Drought frequency increases; localized floods on deforested slopes; seismic baseline unchanged; margin against multi-year drought now critically thin after decades of drawdown.<br><br>
-__Resource & Energy Endowment:__ Woodland cover severely reduced around mega-sites from centuries of lime-plaster production and fuel demand; wild game depleted; soil fertility declining; the endowment is materially contracted from preceding centuries.<br><br>
-__Waste Absorption & Sink Capacity:__ Accumulated grazing pressure, dung load, and erosion have degraded soil structure; absorptive capacity of hillslopes and terraces diminished; the landscape carries visible scars of overuse.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Aggregated populations at mega-sites likely faced elevated pathogen circulation; dispersal may reduce transmission pressure but faunal evidence suggests nutritional stress persists; mortality baseline elevated.<br><br>
-__Nutrition & Physiological Vitality:__ Faunal assemblages at 'Ain Ghazal show progressive shift from wild game to domestic animals with smaller body size; skeletal stress markers suggest declining nutritional adequacy in late phases; vitality contracting.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ No direct evidence of change; village-scale endogamy presumed to continue; dispersal may widen mating networks as groups relocate.<br><br>
-__Demographic Renewal & Density:__ Population density in the southern Levant declines sharply; 'Ain Ghazal contracts from peak; many sites abandoned entirely; demographic renewal falling below replacement in affected zones.<br><br>
-__Attrition & Dependency Overhang:__ Dispersal and abandonment likely leave dependent individuals vulnerable; smaller mobile groups have reduced capacity to support non-productive members; dependency burden elevated relative to group capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Full agropastoral package — wheat, barley, legumes, goats, sheep, cattle, pigs — remains the base, but yields declining on exhausted soils; provisioning margin thinning toward subsistence edge.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain sole power sources; fuel scarcity from deforestation constrains lime-plaster production and cooking; per-capita energy throughput declining.<br><br>
-__Labor Organization & Coercion:__ Household-based production predominates; communal labor projects (monumental architecture, large-scale plastering) contract as populations disperse; coordination capacity diminishing.<br><br>
-__Production & Surplus Capacity:__ Surplus generation falling as soil fertility declines and herd sizes adjust downward; the productive ceiling contracts with the resource base.<br><br>
-__Storage, Reserves & Buffering:__ Granary and storage-pit capacity remains but stocks thinner; dispersed hamlets maintain smaller reserves; buffering against multi-season failure reduced.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance obsidian and shell networks continue but at reduced volumes; regional exchange persists; logistics adapt to dispersed settlement pattern.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Deferred reciprocity within kin networks; livestock increasingly serves as mobile wealth and value storage as populations shift toward pastoral strategies.<br><br>
-__Surplus Extraction & Redistribution:__ No evidence of centralized extraction; communal redistribution at village level contracts with settlement size; emerging pastoral groups operate on household-scale pooling.<br><br>
-__Wealth Distribution & Asset Defense:__ Material differentiation modest; land and herds primary assets; abandonment decisions may reflect unequal capacity to relocate viable herds.<br><br>
-__Byproducts & Waste Routing:__ Agricultural and pastoral waste continues to accumulate on village margins; reduced settlement density begins to relieve local concentration; routing shifts toward dispersal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village-scale trust networks fragment as sites disperse; smaller hamlet and pastoral band units reconstitute tighter kin-based circles; radius of trust contracting.<br><br>
-__Stratification, Status & Group Identity:__ Status differentiation modest; dispersal may level prior distinctions as communities reconstitute; identity increasingly tied to descent group and herding affiliation.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal or bilateral descent presumed to structure household formation; inheritance of herds and stored grain becoming critical as communities relocate; kinship centrality rising.<br><br>
-__Civic Association & Self-Organization:__ Village councils or elder authority structures presumed to persist in surviving settlements; pastoral bands organize around senior herders; associational forms shrinking in scale.<br><br>
-__Leisure, Play & Sociability:__ Communal gatherings contract with population; ritual and feasting likely continue at reduced scale; sociability increasingly kin-centered.<br><br>
-__Grievance Channels & Social Discharge:__ Competition for declining resources may generate friction; dispersal itself serves as discharge mechanism, relieving pressure through exit; some grievance remains unmetabolized in contracting villages.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Village-level headmen or councils presumed; no evidence of supra-village hierarchy; authority devolving with settlement fragmentation.<br><br>
-__Succession & Power Transfer:__ Presumed to follow senior kinship lines; no attested rules; transitions likely informal and consensual within small groups.<br><br>
-__Legitimacy & Political Narrative:__ Ancestral connection to land and founding lineages provides legitimacy; abandonment may disrupt these claims; narrative adapting to pastoral mobility.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Minimal formal administration; coordination capacity declining with population dispersal; record-keeping absent.<br><br>
-__Political Participation & Mobilization:__ Adult males of household heads presumed to participate in communal decisions; mobilization capacity contracting with settlement size.<br><br>
-__Geopolitical Position & External Relations:__ No attested polities or external threats; inter-community relations presumed cooperative or competitive over remaining arable land and pasture.<br><br>
-__Coercive Apparatus & Means of Force:__ Stone projectile points and axes available; no specialized military organization; force capacity dispersed among adult males.<br><br>
-__Internal Order & Threat Environment:__ Banditry or raiding not clearly attested; resource stress may generate inter-group conflict; disorder level rising but contained within kin-mediated frameworks.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Face-to-face speech within and between settlements; dispersal reduces inter-community contact frequency; transmission velocity slowing with population scatter.<br><br>
-__Record, Storage & Persistence:__ All knowledge stored in living memory and oral tradition; no durable external records; plastered-skull ancestor cults may encode genealogical memory; persistence dependent on generational transmission.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elder and ritual-specialist authority presumed to frame collective memory; no formal censorship; discourse norms governed by kinship respect.<br><br>
-__Reception, Attention & Amplification:__ Small-group settings dominate; communal gatherings shrink; amplification dependent on repetition and ritual performance.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission maintains reasonable fidelity within kin groups; dispersal may introduce drift as contact frequency declines; noise load modest but rising.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, kinship obligation, and ancestral precedent underpin shared sense of right; violation of hospitality or theft presumed serious offenses.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written or formally codified law; customary norms transmitted orally; taboos on violence within kin group presumed.<br><br>
-__Adjudication, Enforcement & Liability:__ Elders or kin heads adjudicate disputes; compensation or exile likely sanctions; enforcement capacity limited to kin-group pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Household autonomy high; compliance burden low in small-group settings; predictability depends on personal knowledge of norms.<br><br>
-__Impunity & Unredressed Wrong:__ Wrongdoers within kin networks subject to collective sanction; those who disperse may escape liability; some impunity possible as communities fragment.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of soils, seasons, animal husbandry, and plant cultivation guides subsistence; no formal theory; paradigm embedded in practical tradition.<br><br>
-__Applied Knowledge & Technical Method:__ Naviform blade production, lime-plaster manufacture (declining), hide-working, weaving, and animal husbandry constitute technical repertoire; methods transmitted by apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted within households; skill distribution broad but shallow; specialist lime-plaster and obsidian-working knowledge may be concentrated and at risk of loss.<br><br>
-__Obsolescence & Knowledge Decay:__ Lime-plaster production techniques declining with fuel scarcity; monumental construction knowledge eroding as demand disappears; some skill attrition underway.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestor veneration, plastered-skull traditions, and origin stories tied to founding villages constitute identity bedrock; abandonment requires narrative reframing.<br><br>
-__Artistic Expression & Material Culture:__ Figurine production continues; decorated stone objects; architectural elaboration declining; material culture simplifying with dispersal.<br><br>
-__Collective Mood & Behavioral Disposition:__ Contraction and abandonment likely generate anxiety and uncertainty; behavioral disposition shifting toward caution and mobility; mood darkening.<br><br>
-__Form Exhaustion & Meaning Decay:__ Mega-village ritual forms and monumental architecture losing function as populations disperse; plastered-skull tradition persists but may lose communal resonance; some form exhaustion evident.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist and ancestor-centered worldview presumed; spirits inhabit landscape and lineage; existential outlook adjusting to displacement and loss.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Skull plastering, burial beneath floors, and communal ritual feasting continue but at reduced scale; household-level devotion may intensify as communal forms contract.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal priesthood attested; ritual knowledge held by elders or lineage heads; authority diffuse and kinship-embedded.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Northern Mesopotamian (Proto-Halaf) contacts may introduce new motifs; local traditions remain dominant but open to cross-regional influence.<br><br>
-__Disenchantment & Sacred Discharge:__ Abandonment of ancestral sites may generate spiritual dislocation; portable ancestor objects (skulls, figurines) carry sacred continuity; some disenchantment possible but largely re-anchored in mobile kinship religion.<br><br>
+# __6,500 BCE – 5,800 BCE__ — PPNC Transition and Early Village Dispersal
+
+__Summary:__ The Pre-Pottery Neolithic C transition in the Eastern Mediterranean Coast and Jordan Rift Valley, framed as a discrete macro-event from rupture to settling — the collapse of PPNB mega-villages and the dispersal of their populations into smaller settlements and pastoral camps, driven by soil exhaustion and environmental degradation amplified by a mid-Holocene aridification pulse, with all coordination, crisis response, and adaptation transmitted through spoken word alone; the binding constraint is the ecological overshoot of intensive dry-farming without fallow or manuring, which broke the carrying capacity that had sustained villages of several thousand.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The region spans the Mediterranean coastal plain, Galilee and Judean hills, Jordan Rift Valley including the Dead Sea basin, and Transjordan — terrain that had concentrated PPNB populations along spring-fed valleys and perennial streams; as soils degraded, peripheral zones previously marginal to settlement become refugia for dispersing groups.
+
+__Climate Regime & Volatility:__ The mid-Holocene optimum gives way to the 8.2 ka aridification event, a century-scale cold and dry pulse that reduces effective rainfall across the region, compounding stress on already depleted agricultural land and pushing marginal dry-farming zones below viability.
+
+__Hazard Regime & Exposure:__ Drought intensification rather than acute catastrophe defines the hazard; cumulative water stress over successive crop failures forces abandonment rather than single-season loss, and the buffer of stored grain cannot span multi-year shortfalls.
+
+__Resource & Energy Endowment:__ The woodland that once mantled hillslopes has been cleared for fuel and construction across five centuries of village occupation; alluvial terraces show sediment accumulation from upland erosion, signaling topsoil loss that diminishes returns to cultivation.
+
+__Waste Absorption & Sink Capacity:__ Anthropogenic soil degradation reaches critical thresholds — overgrazing by goat flocks, continuous cropping without fallow, and ash-loading from lime-plaster production impoverish soil structure and nutrient cycling, leaving an exhausted sink incapable of regeneration on human timescales.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Late PPNB skeletal evidence shows increased porotic hyperostosis and cribra orbitalia, markers of anemia tied to dietary narrowing and possible endemic disease in crowded settlements; dispersal reduces transmission but carries nutritional costs.
+
+__Nutrition & Physiological Vitality:__ Declining crop yields and herd productivity translate into caloric shortfalls; skeletal stature and dental health indicators worsen across the transition, reflecting generalized nutritional stress as the population contracts.
+
+__Care, Healing & Recovery Capacity:__ Healing practice remains embedded in household and kin networks; the collapse of large villages disperses the accumulated herbal and bone-setting knowledge into smaller, more isolated communities where specialist skills thin out.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility likely declines as nutritional stress narrows reproductive success; pair-bonding and kinship alliance remain the foundation of household formation, but surplus children cannot be raised in an environment of chronic shortage.
+
+__Demographic Renewal & Density:__ Population contracts sharply — Ain Ghazal, once housing perhaps ten thousand, shrinks to a fraction and is eventually abandoned; net migration outward into pastoral and semi-arid zones replaces the nucleated village pattern with dispersed camps.
+
+__Attrition & Dependency Overhang:__ The aged and infirm who depended on village surplus face elevated mortality as the support base dissolves; infant mortality rises as weaning foods become scarcer, increasing the dependency ratio even as total population falls.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The mixed farming economy of wheat, barley, legumes, and domestic herds that sustained PPNB villages can no longer meet caloric needs from exhausted fields; households shift toward greater pastoral reliance, sacrificing sedentary grain storage for mobile herd capital.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the sole energy converters; wood fuel scarcity for cooking, lime production, and heating is acute near former mega-villages, forcing dispersal to access regenerating woodland in peripheral areas.
+
+__Labor Organization & Coercion:__ Kin-based corvee for communal construction and field labor dissolves as the village unit fragments; small household groups coordinate work internally through spoken agreement, with no formal authority to compel labor beyond kinship obligation.
+
+__Production & Surplus Capacity:__ Surplus capacity collapses — the granary surpluses that once buffered bad years are depleted by successive shortfalls, and remaining herds are consumed rather than bred, liquidating productive capital in a downward spiral.
+
+__Storage, Reserves & Buffering:__ Storage facilities — plastered bins, underground silos — stand empty or abandoned; the loss of multi-year reserves forces immediate consumption and eliminates the buffer that had enabled village expansion, transferring risk-pooling to mobile herd accumulation.
+
+__Exchange, Trade & Logistics:__ Long-distance obsidian and greenstone exchange networks that linked the Levant to Anatolia and beyond contract as village nodes collapse; trade shifts to local reciprocity among pastoral camps, mediated entirely by spoken negotiation.
+
+__Value Storage, Credit & Deferred Exchange:__ Livestock become the primary store of value and medium of deferred obligation; the reciprocal debt networks that structured village life transfer into pastoral contexts where a goat owed is a goat remembered and recounted orally.
+
+__Surplus Extraction & Redistribution:__ No formal extraction apparatus; communal sharing of meat from herd culling replaces grain redistribution, with allocation governed by spoken custom and kin claims rather than centralized authority.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in herds, which can be defended by mobility; the immovable assets of plastered floors and storage bins lose value as abandonment spreads, leveling the distinction between landed and landless.
+
+__Byproducts & Waste Routing:__ The refuse middens of mega-villages cease to grow; pastoral camps leave lighter archaeological traces — scattered dung, ephemeral hearths — as waste routing shifts from fixed dumps to dispersed decomposition.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended kin groups remain the foundation of social organization; inheritance shifts from house and field to herd and portable goods, with oral recitation of lineage and entitlement governing succession.
+
+__Association & Mutual Aid:__ The communal institutions of large villages — shared granaries, cooperative construction — dissolve; mutual aid contracts to the kin cluster, with reciprocity enforced by proximity and memory rather than village-scale norms.
+
+__Leisure, Play & Sociability:__ Seasonal aggregation at favorable pastures or persistent springs replaces the daily sociability of village life; feasting at gatherings reinforces alliance networks through shared consumption narrated in oral tradition.
+
+__Stratification, Status & Group Structure:__ The status differentials visible in late PPNB skull-caching and elaborate plastering diminish as the material base for distinction collapses; pastoral equality prevails, with status derived from herd size and oral reputation.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration survives the collapse; decision-making devolves to household heads and kin elders whose authority rests on spoken consensus, with no apparatus to enforce compliance across dispersed camps.
+
+__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus; self-help and kin-group retaliation deter theft and conflict, with disputes resolved by negotiation or flight rather than adjudication by a central authority.
+
+__Discharge, Disorder & Decay:__ Unresolved tensions from the collapse — disputes over herd ownership, access to water, blame for failed harvests — persist in oral memory as grievances that structure alliance and feud across generations; the physical apparatus of village life decays into ruin.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Anxiety and uncertainty pervade as the settled order dissolves; trust contracts to the immediate kin group, and suspicion of outsiders intensifies as competition for diminished resources sharpens.
+
+__Leadership & Personal Authority:__ Leadership crystallizes around individuals who can articulate a path forward — the persuasive elder, the successful herdsman — whose authority rests entirely on spoken word and demonstrated competence, not inherited office.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to the village as a collective dissolves with its physical abandonment; loyalty transfers to kin leaders and pastoral bands, sustained by oral narrative of shared descent and remembered obligation.
+
+__Political Will & Collective Resolve:__ Collective action capacity fragments — no mechanism remains to mobilize labor or defense at scale; resolve operates at the household and camp level, directed toward survival and herd protection.
+
+__External Relations & Posture:__ Relations with neighboring groups shift from village-to-village exchange to pastoral negotiation over grazing rights and water access, mediated by spoken treaty and seasonal movement patterns.
+
+__Disaffection, Apathy & Spent Will:__ The failure of the village system leaves a residue of disillusionment — the investments in plaster floors and skull caches come to nothing; survivors carry forward an oral memory of collapse that tempers ambition for nucleated settlement.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language remains the sole medium of coordination; no writing exists; all crisis response, migration decisions, and alliance formation proceed through verbal negotiation within and between kin groups.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of human movement — messengers between camps, seasonal gatherings where news is exchanged; the collapse of village density slows transmission but maintains connectivity through pastoral mobility.
+
+__Record, Storage & Persistence:__ No material record; memory resides in the minds of elders and the oral traditions they transmit; the knowledge of how villages once functioned, why they failed, and where water can be found persists only as spoken history.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms favor consensus-building through extended discussion; no authority can censor, but social pressure shapes what is speakable — blame for collapse may be deflected onto external causes or supernatural displeasure.
+
+__Reception, Attention & Amplification:__ Stories of the collapse, of successful migration, of herds saved or lost circulate among camps and become the substrate of collective memory; attention focuses on practical knowledge — pasture locations, water sources, herd management.
+
+__Signal Integrity & Noise Load:__ Oral transmission carries inevitable drift; details of late PPNB practices fade within generations, while core survival knowledge is refreshed through use and repetition, filtering signal from noise by practical relevance.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Reciprocity remains the foundation of moral obligation — debts must be repaid, hospitality honored, theft punished — with the sense of justice embedded in spoken custom rather than codified rule.
+
+__Law, Codification & Regulatory Evolution:__ No codified law; binding norms are oral, transmitted as proverbs, customary formulae, and remembered precedents that kin elders cite in dispute resolution.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by kin councils through spoken deliberation; sanctions range from compensation to ostracism to blood feud, with no external authority to enforce judgment beyond collective will.
+
+__Rights, Protections & Compliance Burden:__ Rights are kin-embedded — the right to a share of meat, to use of pasture, to protection in conflict — defined by spoken tradition and subject to negotiation rather than fixed entitlement.
+
+__Impunity & Unredressed Wrong:__ Wrongs done during the collapse — abandoned kin, stolen herds, broken promises — may go unredressed as the social fabric tears; these injustices persist as oral grievances, shaping alliance and feud for generations.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Practical empiricism dominates — observation of weather, animal behavior, plant growth — with no formal inquiry beyond trial-and-error adaptation to new pastoral conditions.
+
+__Applied Knowledge & Technical Method:__ Herding techniques, butchery, hide-working, and cheese or yogurt production represent the technical repertoire; agricultural knowledge atrophies as fields are abandoned, while pastoral skill intensifies.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmits through apprenticeship within kin groups — children learn by watching and doing, with oral instruction supplementing demonstration; the skill base narrows as village crafts (lime-plastering, large-scale construction) fall into disuse.
+
+__Obsolescence & Knowledge Decay:__ The architectural and agricultural knowledge accumulated across PPNB centuries decays rapidly as practitioners die and their skills are not transmitted; within a few generations, the technique of plastering skulls becomes a memory, then a myth.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The collapse becomes a foundational trauma encoded in oral tradition — stories of the great villages, their fall, and the ancestors who survived structure identity for dispersed pastoral groups.
+
+__Legitimating Narrative & Ideology:__ Pastoral freedom is narratively framed as superior to village constraint; the mobile life is justified in oral tradition as the proper human way, with settled farming implicitly blamed for the disaster.
+
+__Artistic Expression & Material Culture:__ Material culture simplifies — portable goods replace monumental architecture; bone and stone tools predominate; figurines and ornaments persist but in reduced quantity and variety, reflecting the contraction of surplus.
+
+__Form Exhaustion & Meaning Decay:__ The symbolic repertoire of PPNB — plastered skulls, elaborate burials, communal buildings — loses meaning as its material base disappears; new symbols tied to pastoral life (herd marks, camp arrangements) emerge to fill the void.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The collapse is interpreted through a cosmology of ancestral presence and supernatural causation — the spirits of the dead, neglected or angered, may be invoked to explain misfortune; the world is understood as animated and responsive to human conduct.
+
+__Ritual, Devotion & Sacred Practice:__ Ancestor veneration continues in altered form — secondary burial, bone retention, offerings at remembered sites — with ritual practice adapted to mobile life through portable sacred objects and seasonal gatherings at persistent sacred locations.
+
+__Religious Institutions & Doctrinal Authority:__ No religious institutions; ritual authority resides in elders and specialists whose knowledge is oral, transmitted through initiation and apprenticeship rather than formal hierarchy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The spiritual practices of dispersed groups drift apart as isolation reduces contact; regional variation increases, though a shared substrate of ancestor veneration and animistic belief persists across the transition.
+
+__Disenchantment & Sacred Discharge:__ The failure of village-scale ritual to prevent collapse may generate doubt, but the dominant response is reinterpretation rather than disenchantment — the spirits acted, the ancestors spoke, and survival validates the new pastoral covenant.

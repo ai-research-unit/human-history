@@ -1,69 +1,139 @@
-# __1881 CE – 1897 CE__ — National Aspirations and Cretan Question
-__Summary:__ Greece in the late nineteenth century pursued modernization under alternating Trikoupis and Deligiannis governments while the irredentist Megali Idea focused on Crete, still under Ottoman rule; the binding constraint was fiscal capacity, strained by infrastructure investment and military buildup, culminating in the 1893 bankruptcy and the humiliating 1897 defeat by Ottoman forces that imposed international financial supervision and exposed the gap between national ambition and state capacity.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Greek state comprised the Peloponnese, central Greece, Thessaly (annexed 1881), and the Aegean islands; mountainous terrain fragmented internal communication while sea lanes connected coastal settlements; Crete lay 100 kilometers south, separated by open water and Ottoman sovereignty.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate with dry summers and wet winters; interannual rainfall variability affected grain harvests in Thessaly; no major secular drift, but periodic droughts stressed agricultural output.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity remained endemic; the 1894 Atalanti earthquakes damaged central Greece; settlements held limited margin against major tremors, and reconstruction strained already tight public finances.<br><br>
-__Resource & Energy Endowment:__ Limited mineral wealth; Laurion silver-lead mines active; lignite deposits known but underdeveloped; timber scarce after centuries of deforestation; agricultural land expanded with Thessaly but remained insufficient for growing population.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban growth in Athens and Piraeus concentrated human and industrial waste; sanitation infrastructure rudimentary; coastal dumping and open drainage handled loads without approaching saturation at current population scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria endemic in lowland and coastal zones, especially Thessaly and parts of the Peloponnese; typhoid and tuberculosis present in urban areas; infant mortality high by Western European standards but gradually declining with modest public health measures.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant diet based on grain, olives, legumes, and seasonal vegetables; protein intake limited; stature below northwestern European averages; periodic harvest failures stressed rural nutrition.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility with large family norms; church-regulated marriage; early female marriage common in rural areas; biological reproductive capacity not constrained.<br><br>
-__Demographic Renewal & Density:__ Population approximately 2.2 million in 1889; positive natural increase; emigration to America and Egypt accelerating, relieving pressure but draining working-age males; density moderate given mountainous terrain.<br><br>
-__Attrition & Dependency Overhang:__ Widows and orphans from earlier conflicts absorbed into extended kin networks; aged dependents supported within household economy; dependency load manageable but emigration of young men shifted burden to remaining family members.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant smallholdings predominated; subsistence cultivation of grain, olives, and vines; periodic harvest shortfalls required grain imports; household pooling and village reciprocity buffered marginal years.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remained primary power sources; watermills processed grain; steam power limited to Piraeus factories and Laurion mines; per-capita energy capture low by industrializing European standards.<br><br>
-__Labor Organization & Coercion:__ Free peasant labor predominated; landless laborers worked as sharecroppers or seasonal hands; urban artisans organized loosely; no large-scale industrial proletariat; coercion minimal outside debt bondage to landlords.<br><br>
-__Production & Surplus Capacity:__ Currant exports drove the commercial sector until the 1893 price collapse; olive oil, wine, and tobacco secondary exports; Thessaly added grain capacity; manufacturing limited to textiles, leather, and basic metalwork; surplus thin and export-dependent.<br><br>
-__Storage, Reserves & Buffering:__ Household grain storage supplemented by local merchants; state treasury chronically depleted by debt service and infrastructure spending; no strategic reserves; the currant crisis exhausted fiscal buffers.<br><br>
-__Exchange, Trade & Logistics:__ Piraeus served as the main port; coastal shipping connected islands and mainland; road network improved under Trikoupis but remained sparse; railways under construction linked Athens to Thessaly; export dependence on European markets exposed the economy to price shocks.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ The drachma tied to a bimetallic standard; chronic debasement pressures; National Bank of Greece dominated credit; foreign loans funded infrastructure but accumulated unsustainable debt; 1893 default placed state finances under International Financial Commission supervision.<br><br>
-__Surplus Extraction & Redistribution:__ Tax collection inefficient; land tax and customs duties the main revenue sources; debt service absorbed a growing share of state income; little redistributive spending beyond military and infrastructure; fiscal extraction strained peasant households.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentrated among merchant-landowner elites in Thessaly and the Peloponnese; urban commercial wealth in Athens and Piraeus; middling peasant proprietors formed the majority; wealth defended through family networks and political patronage.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste recycled as fuel and fertilizer; mining slag accumulated at Laurion; urban refuse dumped without systematic management; volumes modest relative to available dispersal capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village and kin-based reciprocity networks remained strong; godparenthood (koumbaros) extended trust beyond blood kin; urban migration beginning to strain traditional networks; trust radius stable but narrower than in northern European civic cultures.<br><br>
-__Stratification, Status & Group Identity:__ Merchants, shipowners, and large landowners formed the elite; professionals and state employees constituted a thin urban middle stratum; peasant smallholders the majority; status tied to land, education, and political connection; ethnic Greek identity dominant, with small Vlach and Albanian-speaking minorities.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal households; dowry essential for daughters' marriage prospects; partible inheritance fragmented landholdings across generations; extended family co-residence common in rural areas.<br><br>
-__Civic Association & Self-Organization:__ Guilds and professional associations in urban centers; patriotic societies and irredentist clubs proliferated, mobilizing around the Cretan cause; diaspora associations channeled remittances and political pressure; associational fabric thickening, though state-dependent.<br><br>
-__Leisure, Play & Sociability:__ Coffeehouse culture central to male sociability; religious festivals and name-day celebrations structured communal life; folk music and dance at weddings and panegyria; theatre and newspapers provided urban leisure.<br><br>
-__Grievance Channels & Social Discharge:__ Emigration absorbed surplus population and frustrated ambitions; patron-client networks channeled local grievances into political factions; periodic rural unrest over taxes and debt, but no sustained agrarian movement; most friction metabolized through kinship and clientelism.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy under George I; parliament (Vouli) held legislative power; executive authority oscillated between Trikoupis and Deligiannis factions; king retained influence over foreign policy and military appointments; power nominally parliamentary but patronage-driven.<br><br>
-__Succession & Power Transfer:__ Electoral alternation between Trikoupis and Deligiannis; elections frequent and often manipulated; dynastic succession secure under George I; power transfer routinized within narrow elite but excluded broader participation.<br><br>
-__Legitimacy & Political Narrative:__ The Megali Idea provided the dominant legitimating narrative; territorial expansion justified state-building sacrifices; the 1897 defeat severely damaged government credibility and exposed the gap between rhetoric and capacity.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Central bureaucracy expanded under Trikoupis reforms; tax collection and record-keeping improved but remained weak; corruption endemic; provincial administration dependent on local notables; capacity strained by debt crisis.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage (from 1864); high electoral participation but patron-client voting; irredentist associations mobilized cross-class support for Cretan enosis; press campaigns intensified popular nationalism; channels open but structured by clientelism.<br><br>
-__Geopolitical Position & External Relations:__ Small state dependent on great power patronage; Britain, France, and Russia served as protecting powers; Ottoman Empire the primary adversary; Balkan neighbors potential allies or rivals; 1897 war undertaken without great power support, resulting in isolation and imposed armistice.<br><br>
-__Coercive Apparatus & Means of Force:__ Army modernizing but underfunded; French and German training missions; navy small; 1897 campaign exposed organizational and logistical failures; conscription system in place but reserve mobilization chaotic.<br><br>
-__Internal Order & Threat Environment:__ Brigandage suppressed in most regions; political violence limited; Cretan revolts externalized nationalist energies; internal order maintained, with disorder below enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph network connected Athens to major towns and European capitals; newspapers distributed by post and coastal steamer; information reached Athens within hours, provincial towns within days; diaspora press in Constantinople, Alexandria, and Europe circulated back.<br><br>
-__Record, Storage & Persistence:__ State archives, church registers, and court records maintained; newspaper collections preserved in libraries; print ensured durability; oral transmission supplemented formal records in rural areas.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press nominally free but subject to libel laws and occasional government pressure; irredentist discourse dominated; katharevousa (puristic Greek) official in government and most newspapers; demotic gaining ground in literature; taboos around criticizing the monarchy or the Megali Idea.<br><br>
-__Reception, Attention & Amplification:__ Urban readership concentrated; coffeehouse reading aloud extended newspaper reach; Cretan uprisings and war news amplified rapidly; nationalist enthusiasm easily mobilized; attention focused on territorial questions.<br><br>
-__Signal Integrity & Noise Load:__ Rumor and exaggeration common during crises; multiple partisan newspapers offered conflicting accounts; no systematic verification mechanisms; noise elevated during the 1897 war but absorbed post-defeat through foreign reporting.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor, family reputation, and community standing anchored moral judgment; church teaching reinforced traditional norms; justice understood as protection of property, punishment of crime, and vindication of national rights.<br><br>
-__Law, Codification & Regulatory Evolution:__ Civil code based on Byzantine and Napoleonic models; commercial law developing; land tenure law clarified but cadastral surveys incomplete; regulatory framework expanding with economic modernization.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system in place from district to Supreme Court (Areios Pagos); delays and corruption common; enforcement uneven, especially in rural areas; political interference in sensitive cases.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights guaranteed press freedom, property, and personal liberty; compliance burden moderate for elites, heavier for peasants navigating land and tax disputes; bureaucratic procedures cumbersome.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity for financial misconduct and political manipulation; rural debt disputes often unresolved; wrongful outcomes common where patron-client networks intervened; backlog and resource constraints left significant wrongs unredressed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ University of Athens trained lawyers, doctors, and classicists; positivist and nationalist historiography dominant; archaeology flourishing with foreign schools; natural sciences underdeveloped; inquiry oriented toward national legitimation.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering knowledge imported for railway and port construction; agricultural methods traditional; mining techniques at Laurion modernized with foreign capital; applied science dependent on foreign expertise.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary education expanding but uneven; literacy rising, approximately 30-40 percent among adults; gymnasium and university produced small educated elite; skill distribution concentrated in urban centers and among diaspora returnees.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical learning prized over practical skills; traditional crafts declining as imports competed; knowledge loss limited, but failure to develop technical education constrained modernization.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Byzantine heritage and 1821 independence struggle constituted foundational memory; Megali Idea projected future redemption; classical antiquity claimed as ancestor; Crete symbolized unredeemed Hellenism; 1897 defeat traumatized collective confidence.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical architecture in public buildings; academic painting depicting historical and mythological subjects; folk crafts persisted in rural areas; Athens aspired to European cultural standards while retaining vernacular traditions.<br><br>
-__Collective Mood & Behavioral Disposition:__ Irredentist enthusiasm high through 1897; defeat induced humiliation, introspection, and calls for reform; public mood shifted from confident nationalism to wounded defensiveness; risk appetite chastened.<br><br>
-__Form Exhaustion & Meaning Decay:__ The gap between Megali Idea rhetoric and 1897 reality exposed symbolic inflation; katharevousa increasingly criticized as artificial; generational questioning of inherited forms beginning, though not yet producing alternatives.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodox Christianity provided the metaphysical framework; divine providence invoked in national destiny; fatalism and piety coexisted with modernizing secularism among elites; the 1897 defeat tested providential confidence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Liturgical calendar structured village life; fasting, feast days, and sacraments observed; pilgrimage to local and major shrines; domestic icons and prayer maintained daily piety.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Autocephalous Church of Greece under state supervision; clergy influential in rural areas; monasteries held land and educational functions; doctrinal orthodoxy stable; no significant heterodox movements.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Orthodoxy coextensive with Greek identity; missionary pressure absent; folk practices (evil eye beliefs, saint cults) syncretized with official doctrine; no displacement underway.<br><br>
-__Disenchantment & Sacred Discharge:__ Urban intellectuals and diaspora-educated elites showed secularizing drift; traditional piety strong in villages; 1897 defeat prompted some questioning of divine favor but did not produce widespread disenchantment; spiritual need largely met within Orthodox framework.<br><br>
+# __1881 CE – 1897 CE — National Aspirations and Cretan Question__
+
+The binding constraint is the structural mismatch between irredentist ambition and fiscal-military capacity: print media amplify nationalist demands for Cretan unification and Macedonian expansion, while chronic state bankruptcy and Great Power restraint prevent the military means to fulfill them, culminating in the catastrophic 1897 defeat that exposes the gap between aspirational discourse and material power.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The 1881 annexation of Thessaly adds the first substantial agrarian plain to the Greek state, extending territory northward to Mount Olympus and the Peneus valley. The kingdom now encompasses roughly 64,000 km² with a more defensible northern frontier, though transit remains difficult across the Pindus range separating Thessaly from Epirus. Maritime connectivity continues to define national coherence, with Piraeus serving as the hub linking mainland to islands and diaspora communities. Crete, the irredentist focal point, lies 100 kilometers across open water, garrisoned by Ottoman forces and patrolled by European warships enforcing Great Power neutrality.
+
+__Climate Regime & Volatility:__ Mediterranean climate prevails with hot, dry summers and mild, wet winters. Thessalian plains experience temperature extremes and occasional drought. The 1892–1894 period brings poor harvests in the Peloponnese, compounding the currant crisis and accelerating rural emigration.
+
+__Hazard Regime & Exposure:__ Seismic activity remains endemic; the 1894 Atalanti earthquakes devastate Locris and Phthiotis, displacing thousands and straining already exhausted state finances. Drought and locust infestation periodically strike agricultural regions.
+
+__Resource & Energy Endowment:__ Thessalian grain production improves food security, though yields remain below European averages. Laurium silver-lead mines continue production but face depletion. Lignite deposits identified but barely exploited. Timber scarce due to centuries of deforestation. Energy remains muscle, wood, and wind; steam power confined to Piraeus industries and rail lines.
+
+__Waste Absorption & Sink Capacity:__ Urban sanitation in Athens and Piraeus remains primitive; cholera outbreaks occur periodically. Industrial effluent from Laurium smelters contaminates local land and water. The physical residue is modest by industrial standards but accumulates in concentrated urban zones.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria endemic in coastal lowlands and the newly acquired Thessalian marshes. Cholera epidemics strike port cities. Infant mortality high, particularly in rural areas lacking medical care. Life expectancy at birth approximately 35–40 years, comparable to Ottoman Balkans but below western Europe.
+
+__Nutrition & Physiological Vitality:__ Diet based on bread, olives, legumes, and seasonal vegetables; meat consumption limited outside feast days. The currant crisis (1893–1894) impoverishes Peloponnesian cultivators, reducing household nutrition. Military recruitment reveals widespread stunting and chronic illness among conscripts.
+
+__Care, Healing & Recovery Capacity:__ Athens possesses the only modern hospital infrastructure; provincial care relies on folk medicine and charity. University of Athens trains physicians, but graduates concentrate in the capital and larger towns. Epidemic response depends on quarantine rather than treatment.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage universal and early; large family size the norm. Dowry system governs property transfer and family alliances. Women's fertility unregulated; maternal mortality high.
+
+__Demographic Renewal & Density:__ Population grows from approximately 2 million (1881) to 2.4 million (1896), natural increase offset by emigration beginning in the 1890s. Thessaly's addition brings agricultural population but also large Muslim minority eventually exchanged. Density remains low except in Athens-Piraeus.
+
+__Attrition & Dependency Overhang:__ High infant and child mortality produces numerous orphans; widows dependent on kin networks. The dependency burden absorbed by extended family and village mutual aid, not state welfare, which is nonexistent.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The annexation of Thessaly improves grain self-sufficiency, though large estates worked by sharecroppers perpetuate rural poverty. Currant cultivation in the Peloponnese, previously the engine of export earnings, collapses after 1893 when French vineyards recover from phylloxera and tariffs close markets. Rural households fall below subsistence, triggering mass emigration to the United States.
+
+__Energy Capture & Conversion:__ Human and animal muscle dominate agriculture. Steam engines power a handful of Piraeus factories, the rail network, and port operations. The per-capita energy ceiling remains pre-industrial; electrification begins in Athens only in 1889 with limited coverage.
+
+__Labor Organization & Coercion:__ Free wage labor prevails, though Thessalian chifliks (estates) retain quasi-feudal sharecropping arrangements. Urban artisans organized in guilds; nascent industrial proletariat in Piraeus. No labor legislation; working conditions unregulated.
+
+__Production & Surplus Capacity:__ Agricultural output fluctuates with weather and international commodity prices. Currant crisis devastates the export sector. Manufacturing limited to textiles, food processing, leather, and metallurgy at Laurium. Surplus extraction constrained by narrow tax base and peasant poverty.
+
+__Storage, Reserves & Buffering:__ State treasury chronically depleted; no strategic reserves. National Bank of Greece provides limited credit. The 1893 bankruptcy declaration suspends debt service, but imposes austerity and destroys sovereign creditworthiness.
+
+__Exchange, Trade & Logistics:__ Piraeus handles most external trade; Syros declining as entrepôt. Road network rudimentary outside Attica; Trikoupis-era rail construction links Athens to Patras, Larissa, and the Peloponnese. Corinth Canal opens 1893 but fails commercially. Diaspora merchant networks in Constantinople, Alexandria, Odessa, and London finance trade and remit capital.
+
+__Value Storage, Credit & Deferred Exchange:__ Drachma devalues through the period; convertibility suspended after 1885. Inflation erodes savings. Foreign loans unavailable after bankruptcy. Remittances from emigrants become significant by mid-1890s.
+
+__Surplus Extraction & Redistribution:__ Tax collection inefficient; land taxes evaded through under-registration. Customs duties and state monopolies (tobacco, salt, matches) provide revenue. After 1898, the International Financial Commission controls government revenues, directing surplus to debt service rather than domestic investment.
+
+__Wealth Distribution & Asset Defense:__ Land ownership concentrated in Thessaly; smallholding predominates in the Peloponnese and islands. Urban professional and merchant class accumulates wealth. Emigration serves as exit strategy for dispossessed peasantry.
+
+__Byproducts & Waste Routing:__ Agricultural waste recycled locally. Industrial waste from Laurium accumulates without remediation. Financial residue of bankruptcy persists as International Financial Commission supervision, constraining fiscal autonomy for four decades.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal inheritance with equal division among sons fragments landholdings over generations. Dowry conveys property to daughters at marriage, maintaining family status. Extended family networks provide social insurance.
+
+__Association & Mutual Aid:__ Village communities and urban neighborhood associations provide informal welfare. Guilds declining but still organize urban trades. Kafeneion (coffeehouse) serves as male social center and site of newspaper reading. Church charities assist the poor. Formal voluntary associations proliferate in Athens among the professional class.
+
+__Leisure, Play & Sociability:__ Religious festivals structure the calendar. Panegyria (saints' day fairs) combine commerce and sociability. Athens develops European-style entertainments: theaters, literary societies, the Olympic Games revival (1896).
+
+__Stratification, Status & Group Structure:__ Three-tier structure: landed-commercial elite; urban professional-bureaucratic middle class; peasant and urban laboring majority. Status derives from education, land, and government connection. Diaspora wealth funds philanthropy and political influence. New Territories bring Muslim and Slavic minorities, administered but not assimilated.
+
+__Administrative Capacity & Institutional Integrity:__ Civil service expands but remains patronage-based; ministries understaffed and inefficient. Tax collection corrupt; cadaster incomplete. Military administration improves under foreign advisors but chronic underfunding limits effectiveness. Great Power oversight after 1898 compels fiscal discipline but humiliates national sovereignty.
+
+__Coercive Apparatus & Means of Force:__ Army reorganized after 1882, conscription systematized, but equipment outdated and training inadequate. The 1897 war reveals catastrophic unpreparedness: troops rout at Domokos and Pharsala, Thessaly occupied within three weeks. Navy more effective but cannot operate without Great Power permission. Gendarmerie maintains internal order. Cretan volunteer bands operate independently, provoking international crises.
+
+__Discharge, Disorder & Decay:__ Brigandage persists in mountainous regions. Political violence rare but faction fights occur. The 1897 defeat triggers riots in Athens; Deligiannis government falls. Refugee flows from Crete and Thessaly during crises strain resources. Emigration functions as safety valve for rural dispossession.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Nationalist fervor high, stoked by irredentist press and Cretan agitation. The public expects territorial expansion as natural destiny; the 1897 defeat inflicts profound humiliation and disillusionment. Anti-dynastic sentiment grows, though republicanism remains marginal.
+
+__Leadership & Personal Authority:__ Trikoupis and Deligiannis dominate politics through alternating governments; both command personal followings. Trikoupis represents modernization, fiscal discipline, infrastructure; Deligiannis embodies popular nationalism and patronage. Neither can resist irredentist pressure. King George I maintains constitutional distance but exercises influence through appointments.
+
+__Legitimacy as Lived Allegiance:__ The monarchy accepted but not revered; George I seen as foreign-imposed. Constitutional order respected when it delivers, contested when it fails. The 1897 catastrophe damages regime legitimacy; international financial control humiliates national pride.
+
+__Political Will & Collective Resolve:__ Will to expand territory strong but disconnected from military means. Cretan volunteers and diaspora funding push war policy beyond state capacity. The defeat exposes collective resolve as performative rather than operational.
+
+__External Relations & Posture:__ Greece dependent on Great Powers for territorial gains; Britain, France, Russia compete for influence. Ottoman Empire remains the adversary; Bulgaria emerges as Macedonian rival. The 1897 war launched without allied support ends in disaster; Great Powers impose armistice and indemnity but prevent harsher Ottoman terms.
+
+__Disaffection, Apathy & Spent Will:__ Post-1897 demoralization profound. Nationalist journalists who demanded war face public anger. Political class discredited. Emigration accelerates as alternative to futile politics. Will reconstitutes slowly around reform movements of the 1900s.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy rises to approximately 35–40% by 1896; male literacy significantly higher. Katharevousa (purist Greek) dominates print and education; demotic spoken universally but literary demotic remains contested. Print reaches urban literate class directly and rural population through coffeehouse reading and oral relay.
+
+__Channels & Transmission Velocity:__ Telegraph links Athens to European capitals and diaspora centers. Newspapers reach provincial towns within days. News from Crete travels via telegraph to Athens, amplified in the press, and relayed back as nationalist instruction. Rotary presses enable mass print runs; Akropolis, founded 1881, becomes the first mass-circulation daily.
+
+__Record, Storage & Persistence:__ National archives, university libraries, and Church repositories maintain records. Newspaper archives accumulate but storage haphazard. Government records incomplete; land registration particularly deficient.
+
+__Framing, Censorship & Discourse Norms:__ Press relatively free but editors face prosecution for insulting the king, army, or foreign powers. Nationalist framing dominates: Crete presented as enslaved Greek territory; Macedonia as unredeemed patrimony. Maps showing "Greater Greece" circulate in schools and newspapers. Dissent from irredentism politically dangerous.
+
+__Reception, Attention & Amplification:__ Sensationalist nationalist coverage sells papers; Cretan uprisings generate circulation spikes. Diaspora papers (Constantinople, Alexandria, New York) amplify homeland discourse. Politicians cultivate editorial support through subsidies.
+
+__Signal Integrity & Noise Load:__ Propaganda overwhelms analysis. The press amplifies war enthusiasm without assessing military capacity. After 1897, the gap between triumphalist discourse and military reality becomes undeniable; credibility of nationalist press damaged but not destroyed.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Orthodox Christianity provides moral framework; national destiny intertwined with religious identity. Justice understood through honor, family obligation, and communal reputation. Irredentism framed as moral imperative: liberating enslaved brethren.
+
+__Law, Codification & Regulatory Evolution:__ Civil and criminal codes derived from Napoleonic and Bavarian models. Family law reflects Orthodox canon. Commercial law develops to serve merchant class. Labor and social legislation absent.
+
+__Adjudication, Liability & Sanction:__ Court system functions but slowly; backlog chronic. Rural communities resolve disputes informally. Blood feud persists in remote areas. Political crimes prosecuted selectively.
+
+__Rights, Protections & Compliance Burden:__ Constitution guarantees civil liberties but enforcement uneven. Press freedom substantive but bounded. Muslim minorities in new territories receive formal protections, inconsistently applied.
+
+__Impunity & Unredressed Wrong:__ Elite impunity significant; political connections determine outcomes. Brigands occasionally amnestied. War crimes in Cretan disturbances and 1897 campaign go uninvestigated. The residue is moral complacency about violence in irredentist cause.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ University of Athens dominates intellectual life, oriented toward classical philology, history, and law. German university model prevails. Natural sciences secondary; engineering and practical fields underdeveloped. Historical scholarship serves nationalist narrative.
+
+__Applied Knowledge & Technical Method:__ Engineering knowledge imported for infrastructure projects; Greek engineers trained abroad. Agricultural extension absent; peasant farming follows traditional methods. Military technique lags; French and German officers provide training, inadequately absorbed.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary education expanding but incomplete in rural areas; approximately 60% of children attend some schooling. Secondary gymnasiums prepare elite for university. University graduates concentrate in law and medicine, producing educated unemployment. Polytechnic (1836) trains engineers.
+
+__Obsolescence & Knowledge Decay:__ Classical education dominates at the expense of technical and scientific training. Agricultural knowledge does not incorporate modern methods. The military defeat of 1897 exposes obsolete tactical doctrine and training.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Megali Idea (Great Idea) structures collective identity: Greece as heir to Byzantium and ancient Hellas, destined to reclaim Constantinople and unite all Greeks. The War of Independence and its heroes (Kolokotronis, Bouboulina, Byron) form foundational mythology. School curricula, public monuments, and national holidays reinforce the narrative.
+
+__Legitimating Narrative & Ideology:__ The constitutional monarchy legitimized as instrument of national destiny. Territorial expansion validates the state; failure undermines it. Irredentist ideology provides purpose transcending domestic politics.
+
+__Artistic Expression & Material Culture:__ Neoclassical architecture dominates Athens (Parliament, Academy, University, National Library). Historical painting glorifies revolutionary heroes. Demotic poetry and prose challenge purist establishment. Newspapers combine political commentary with serialized fiction. Dress distinguishes urban Europeanized elite from provincial traditional costume.
+
+__Form Exhaustion & Meaning Decay:__ The 1897 defeat cracks the triumphalist narrative. Irredentist rhetoric continues but loses persuasive force for a generation. Literary naturalism and demotic movement challenge neoclassical aesthetic exhaustion.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Orthodox Christianity provides cosmological framework: the suffering of the nation as martyrdom, eventual triumph as divine vindication. Fatalism and providential thinking coexist with modernizing rationalism among the educated.
+
+__Ritual, Devotion & Sacred Practice:__ Liturgical calendar structures time. Fasting, feast days, and pilgrimage organize communal life. Icons and relics venerate saints. The Church sanctifies national identity through commemorations of 1821 heroes.
+
+__Religious Institutions & Doctrinal Authority:__ Autocephalous Church of Greece subordinate to state; metropolitan appointed by government. Church conservative, defending katharevousa and opposing secularizing reforms. Ecumenical Patriarchate in Constantinople retains jurisdiction over diaspora and unredeemed territories.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Orthodoxy coterminous with Greek identity; conversion inconceivable. Islam associated with Ottoman oppression; Cretan Muslims viewed as apostates. Protestant missionaries make negligible impact.
+
+__Disenchantment & Sacred Discharge:__ Urban educated class increasingly secular in practice while maintaining Orthodox identity. The 1897 defeat prompts some to question providential destiny. Spiritual need redirected into intensified nationalism or personal pietism. Disenchantment accumulates quietly among the intelligentsia but does not yet breach public discourse.

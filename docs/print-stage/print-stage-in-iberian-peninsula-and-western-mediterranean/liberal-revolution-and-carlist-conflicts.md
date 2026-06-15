@@ -1,69 +1,139 @@
-# __1833 CE – 1874 CE__ — Liberal Revolution and Carlist Conflicts
-__Summary:__ Spain's tortured transition from absolutism to constitutional liberalism, marked by three Carlist civil wars, chronic military intervention (pronunciamientos), the contested reign of Isabella II, and the chaotic Sexenio Democrático culminating in the failed First Republic. The binding constraint is the inability to establish legitimate succession and stable constitutional authority while simultaneously fighting traditionalist insurgency. Margin against shock is essentially nil as the state lurches between regimes; the direction is fitful liberalization repeatedly interrupted by reaction and collapse.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Iberian plateau and peripheral mountain chains fragment the political community; Basque and Catalan peripheries harbor Carlist strongholds inaccessible to central armies; poor roads and rugged terrain delay mobilization and communication.<br><br>
-__Climate Regime & Volatility:__ Mediterranean and continental regimes persist with interannual drought cycles; no secular climate shift but periodic crop failures exacerbate political instability.<br><br>
-__Hazard Regime & Exposure:__ Occasional droughts and localized floods stress agrarian subsistence; earthquake risk remains background; infrastructure damage from civil war compounds natural hazard exposure.<br><br>
-__Resource & Energy Endowment:__ Iron ore in Basque country, mercury at Almaden, modest coal in Asturias begin industrial exploitation; agricultural land remains the primary resource; foreign capital starts extraction concessions.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution negligible outside nascent Basque and Catalan factories; urban sanitation poor but population density not yet saturating sinks; absorptive capacity ample.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera epidemics (1834, 1854–1855, 1865) kill tens of thousands; endemic typhus and tuberculosis sustain elevated urban mortality; civil war casualties compound the death rate.<br><br>
-__Nutrition & Physiological Vitality:__ Subsistence agriculture leaves much of the rural population near chronic malnutrition; stature low by northwest European standards; disentailment disrupts traditional relief.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility offset by high infant mortality; Catholic marriage norms persist; war and migration distort sex ratios regionally.<br><br>
-__Demographic Renewal & Density:__ Slow population growth from roughly 12 million to 16 million; rural crowding against limited arable; emigration to Americas begins as pressure valve.<br><br>
-__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans accumulate; traditional Church charity disrupted by disentailment; dependency load rising faster than institutional absorption.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Wheat, olive, and vine agriculture dominates; periodic harvest failures push marginal households into crisis; urban provisioning precarious during sieges.<br><br>
-__Energy Capture & Conversion:__ Muscle and animal power primary; water mills in Catalonia; early steam engines in textile factories and mines by 1840s; per-capita energy capture low.<br><br>
-__Labor Organization & Coercion:__ Abolition of guilds (1836); emergence of wage labor in Barcelona textiles; day laborers (jornaleros) in Andalusia landless and seasonal; limited coercion beyond economic compulsion.<br><br>
-__Production & Surplus Capacity:__ Catalan cotton textiles grow behind tariff protection; Basque iron production expanding; agriculture stagnant; surplus modest and regionally concentrated.<br><br>
-__Storage, Reserves & Buffering:__ Disentailment liquidates Church grain stores; state treasury chronically empty; foreign loans at punitive rates; reserve capacity minimal.<br><br>
-__Exchange, Trade & Logistics:__ Coastal shipping links peripheral economies; rail construction begins 1848; interior roads poor; Madrid-centered radial network incomplete; Barcelona-focused export trade to colonies.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Peseta not yet unified currency; real and escudo circulate; Bank of Spain established 1856; credit scarce; foreign loans fund state deficits and rail construction.<br><br>
-__Surplus Extraction & Redistribution:__ Weak tax collection; customs revenue critical; disentailment sales fund war and patronage rather than investment; extraction capacity lagging obligations.<br><br>
-__Wealth Distribution & Asset Defense:__ Disentailment transfers Church and municipal lands to bourgeoisie and latifundistas; wealth concentrates; smallholders often dispossessed; liberal property law protects new owners.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste from Barcelona factories discharged into rivers; urban refuse accumulates; scale remains small and sinks not yet saturated.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Traditional solidarities erode as disentailment dissolves communal lands and Church charity; urban mutual aid societies (socorro mutuo) emerge; trust radius narrowing under civil war conditions.<br><br>
-__Stratification, Status & Group Identity:__ Landed oligarchy, urban bourgeoisie, military officers, Church hierarchy, and peasantry form distinct strata; Carlist-liberal cleavage crosscuts class with regional and religious identities; boundaries hardening through conflict.<br><br>
-__Kinship, Family & Inheritance:__ Partible inheritance in Castile fragments holdings; Catalan and Basque primogeniture preserves estates; marriage remains sacramental; family networks channel patronage.<br><br>
-__Civic Association & Self-Organization:__ Guilds abolished; ateneos and casinos provide bourgeois sociability; worker associations tolerated intermittently; Church-based associations decline with disentailment.<br><br>
-__Leisure, Play & Sociability:__ Bullfighting, café culture, tertulias, religious festivals persist; zarzuela theater expands; regional festivals remain identity markers.<br><br>
-__Grievance Channels & Social Discharge:__ Pronunciamientos channel elite grievance; rural banditry expresses peasant desperation; Carlist insurgency absorbs traditionalist discontent; no stable electoral or institutional discharge.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy under Isabella II (1833–1868), then briefly Amadeo I and First Republic; real power oscillates among military factions, court cliques, and regional juntas; chronic fragmentation.<br><br>
-__Succession & Power Transfer:__ Salic law dispute triggers Carlist wars; Isabella's legitimacy contested; abdication 1868; imported king Amadeo I abdicates 1873; Republic proclaimed then collapses; succession a continuous flashpoint.<br><br>
-__Legitimacy & Political Narrative:__ Liberals invoke constitutional sovereignty and progress; Carlists invoke tradition, religion, and regional fueros; neither narrative commands stable majority; legitimacy deficit acute.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Centralized provincial system copied from France imposed over regional diversity; understaffed, underfunded, corrupt; civil war zones outside state control; capacity low.<br><br>
-__Political Participation & Mobilization:__ Restricted suffrage; electoral manipulation; pronunciamientos replace elections as regime-change mechanism; urban crowds occasionally mobilized; participation channels narrow and unstable.<br><br>
-__Geopolitical Position & External Relations:__ France and Britain back Isabella against Carlist-supporting absolutist powers; Spain marginal in European system; colonial holdings in Cuba, Puerto Rico, Philippines increasingly contested.<br><br>
-__Coercive Apparatus & Means of Force:__ Army is primary political actor; Guardia Civil (1844) imposes rural order; Carlist forces field guerrilla armies in north; military technology conventional European; command monopolized by officer corps.<br><br>
-__Internal Order & Threat Environment:__ Three Carlist wars (1833–1840, 1846–1849, 1872–1876) devastate north; cantonalist revolts 1873; banditry endemic in Andalusia; disorder exceeds enforcement capacity throughout.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Partisan newspapers multiply in Madrid, Barcelona, provincial capitals; telegraph network expands from 1850s; couriers and post remain slow over interior distances.<br><br>
-__Record, Storage & Persistence:__ Civil registries formalized; newspaper archives accumulate; state records fragmentary through regime changes; Church records disrupted by disentailment.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press freedom expands and contracts with regime; censorship under moderate liberals; relative openness in progressive periods and Sexenio; partisan invective normalized.<br><br>
-__Reception, Attention & Amplification:__ Literate minority (under 30%) consumes press; cafés and reading rooms amplify; oral transmission predominates in countryside; urban-rural information gap wide.<br><br>
-__Signal Integrity & Noise Load:__ Partisan distortion intense; rumor and propaganda rampant during civil wars; no systematic verification; noise level high relative to signal.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic moral consensus eroding among liberals; traditionalists see disentailment as sacrilege; competing conceptions of just order fuel conflict.<br><br>
-__Law, Codification & Regulatory Evolution:__ Civil code incomplete; commercial code 1829; criminal code 1848; liberal constitutions (1837, 1845, 1869) rewrite fundamentals repeatedly; legal instability chronic.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts subordinate to political authority; military tribunals proliferate; ecclesiastical courts abolished for civil matters; enforcement patchy outside major cities.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights proclaimed then suspended; press and assembly rights fluctuate; property rights secured for new owners of disentailed lands; compliance burden variable.<br><br>
-__Impunity & Unredressed Wrong:__ Political violence rarely prosecuted; amnestied coups normalize impunity; Carlist atrocities and reprisals unredressed; justice deficit accumulates.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Krausism imported from Germany influences liberal reformers; positivism enters via France; natural science underdeveloped; University of Madrid the center.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering schools train rail and mining cadres; military academies transmit European technique; applied knowledge concentrated in narrow technical elites.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy under 30%; primary education nominally compulsory but poorly funded; university education elite; knowledge stock thin and unevenly distributed.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic methods persist in Church institutions; Enlightenment momentum lost; scientific stagnation; accumulated knowledge neither growing rapidly nor systematically lost.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Reconquista and Catholic Kings as foundational mythos; Carlist and liberal narratives diverge on meaning of tradition; regional identities (Basque, Catalan) sharpening through conflict.<br><br>
-__Artistic Expression & Material Culture:__ Romanticism (Larra, Espronceda, Zorrilla); costumbrismo depicts regional types; Goya's late work circulates in print; architecture provincial neoclassical; material culture divided by class.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety and fatalism among popular classes; elite factionalism breeds cynicism; brief revolutionary enthusiasm in 1868 quickly dissipates; mood darkening through repeated failures.<br><br>
-__Form Exhaustion & Meaning Decay:__ Liberal constitutional forms lose credibility through repeated violation; traditional religious symbols contested; neither old nor new forms command stable allegiance; meaning deficit accumulating.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic worldview remains dominant but polarized between ultramontane traditionalism and anticlericalism; fatalism widespread; secular alternatives embryonic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass attendance, processions, pilgrimages continue; anticlerical violence disrupts in revolutionary moments; popular piety persists in countryside.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church weakened by disentailment, loss of tithes, monastic dissolution; Concordat of 1851 partially restores position; clerical authority contested; bishops remain politically active.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestantism marginal; no significant syncretism; Catholicism retains near-monopoly but loses institutional grip; secularization among urban liberals.<br><br>
-__Disenchantment & Sacred Discharge:__ Anticlerical sentiment accumulates among liberals and urban workers; Church identified with reaction; sacred meaning erodes in progressive circles; disenchantment not yet resolved into stable secular alternative.<br><br>
+# __1833 CE – 1874 CE — Liberal Revolution and Carlist Conflicts__
+
+The binding constraint on Spain through these four decades is the failure to consolidate a stable constitutional order, as three Carlist civil wars, repeated military pronunciamientos, and the oscillation between liberal constitutions and royal reaction prevent the institutional settlement that would allow sustained economic modernization or press freedom. Print culture expands in bursts when censorship lifts, contracts when absolutist or military regimes restore prior restraint, producing a fragmented public sphere that mirrors the fragmented polity.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Iberian Peninsula's terrain shapes the Carlist Wars: the Basque Provinces, Navarre, and the Catalan Pyrenees provide defensive highlands where Carlist forces sustain guerrilla campaigns; the central meseta and Andalusian lowlands remain under liberal control from Madrid and Seville. Railways, beginning 1848, gradually reduce spatial friction, though construction proceeds slowly and unevenly, concentrating on radial lines from Madrid rather than lateral connections.
+
+__Climate Regime & Volatility:__ Mediterranean and semi-arid regimes persist; interannual rainfall variability produces periodic harvest failures (notably 1856–1857, 1867–1868) that sharpen social tensions and feed unrest, particularly in the latifundia zones of Andalusia where agricultural laborers depend on rain-fed cereal.
+
+__Hazard Regime & Exposure:__ Earthquake risk remains low in the window; cholera epidemics (1833–1835, 1853–1856, 1865) function as acute shocks, killing tens of thousands and straining urban sanitation. The 1833 outbreak coincides with Ferdinand VII's death and the onset of the First Carlist War, compounding crisis.
+
+__Resource & Energy Endowment:__ Mineral wealth begins systematic exploitation: mercury at Almaden, lead at Linares, copper at Rio Tinto (British capital entering from 1873). Coal deposits at Asturias and Leon prove limited and costly to extract compared to British or Belgian basins, constraining industrial energy supply. Deforestation of the meseta continues for charcoal and construction.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution remains localized to Catalan textile districts and Basque iron zones; urban effluent and cholera-contaminated water define the primary sink stress, with Madrid, Barcelona, and Seville lacking modern sewerage until late in the century.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Cholera strikes in waves; endemic typhoid and dysentery persist. Infant mortality remains high (perhaps 250–300 per 1,000 live births). Life expectancy at birth hovers around 30–35 years. The Carlist Wars themselves impose direct mortality through combat and disease in military camps.
+
+__Nutrition & Physiological Vitality:__ Nutrition remains precarious for landless laborers and urban poor; bread riots accompany harvest failures. Catalan and Basque industrial workers face marginally better provisioning through wage income, though subject to cyclical unemployment.
+
+__Care, Healing & Recovery Capacity:__ Medical care depends on charitable hospitals, religious orders, and limited municipal provision. Military medicine improves incrementally through the wars. Vaccination against smallpox spreads unevenly; cholera treatment remains palliative.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns remain traditional; ecclesiastical control over marriage weakens with liberal reforms but persists in practice. Fertility remains high; completed family sizes of six to eight children are common among survivors.
+
+__Demographic Renewal & Density:__ Population grows from approximately 12 million (1833) to 16 million (1874), despite war losses and cholera mortality. Emigration to the Americas begins accelerating, particularly from Galicia and the Canaries, providing a demographic safety valve.
+
+__Attrition & Dependency Overhang:__ War widows and orphans accumulate through three Carlist conflicts; charitable institutions and extended kin absorb part of this load, though state provision remains minimal.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The agrarian base remains dominant; perhaps 65–70% of the population works the land. Latifundia in Andalusia and Extremadura leave laborers dependent on seasonal wages; smallholdings predominate in the north. Harvest failures trigger subsistence crises.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain primary; water power drives early Catalan textile mills. Steam engines appear in Barcelona and Bilbao, but coal scarcity and import costs limit diffusion. The railway network, though expanding, remains sparse by 1874.
+
+__Labor Organization & Coercion:__ Wage labor expands in industrial zones; agricultural labor remains semi-coercive through debt peonage and seasonal dependency. Guild structures dissolve under liberal reforms; the first workers' associations appear (First International arrives 1868).
+
+__Production & Surplus Capacity:__ Catalan cotton textiles constitute the leading industrial sector, protected by tariffs. Basque iron production grows. Agricultural productivity lags; the disentailment lands, often consolidated by bourgeois purchasers rather than distributed to peasants, do not revolutionize yields.
+
+__Storage, Reserves & Buffering:__ State finances remain chronically strained; the treasury depends on British loans and bond issues. Military expenditure for the Carlist Wars drains reserves. The Bank of Spain (reorganized 1856) begins providing monetary stability, though currency debasement recurs.
+
+__Exchange, Trade & Logistics:__ Railways gradually integrate the national market; the 1848 Madrid-Aranjuez line inaugurates expansion, accelerating in the 1860s. Atlantic and Mediterranean trade continues; British capital dominates mining and railway concessions. The loss of American colonies (complete by 1825) removes the protected imperial market.
+
+__Value Storage, Credit & Deferred Exchange:__ The peseta is established (1868) as decimal currency. Banking expands: the Banco de Barcelona, provincial credit institutions. Stock exchanges operate in Madrid and Barcelona. Credit remains scarce for small producers; usury persists.
+
+__Surplus Extraction & Redistribution:__ The state relies on tariffs, excises, and the tobacco monopoly. Tax collection remains inefficient and corrupt. Disentailment (Mendizabal 1836, Madoz 1855) transfers Church and municipal lands to private owners, generating one-time revenue but deepening rural inequality.
+
+__Wealth Distribution & Asset Defense:__ The bourgeois purchasers of disentailed lands, alongside traditional aristocracy, consolidate landholding. Industrial wealth concentrates in Catalan and Basque families. The propertied classes dominate constitutional politics through restricted suffrage.
+
+__Byproducts & Waste Routing:__ Industrial effluent concentrates in textile districts; urban refuse accumulates in the absence of systematic collection. Agricultural waste returns to fields; mining slag piles begin accumulating at extraction sites.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Partible inheritance (Castilian) versus stem-family patterns (Basque, Catalan) persist. Liberal civil codes (draft 1851, finalized 1889) begin standardizing family law. The Church loses monopoly on marriage registration through civil registry (1870).
+
+__Association & Mutual Aid:__ Traditional confraternities and Church-based charity decline with disentailment; new mutual aid societies, workers' associations, and professional bodies emerge. The Federal Republican movement promotes associational life. Freemasonry spreads among liberal elites.
+
+__Leisure, Play & Sociability:__ Cafes become centers of political discussion and newspaper reading; tertulias (literary salons) flourish. Bullfighting remains the mass spectacle. Carnival and patron saint festivals continue despite liberal-clerical tensions.
+
+__Stratification, Status & Group Structure:__ The old regime's estate boundaries dissolve legally but persist socially. A liberal bourgeoisie rises through commerce, industry, and land purchase. The clergy loses economic power through disentailment but retains social influence in rural areas. Regional identities sharpen: Carlism draws on Basque and Catalan traditionalism, while Catalan liberals support the constitutional cause.
+
+__Administrative Capacity & Institutional Integrity:__ The state modernizes unevenly: civil governors replace old regime officials, but caciquismo (local boss rule) entrenches corruption and electoral manipulation. The military becomes a political actor; pronunciamientos recur (1836, 1840, 1843, 1854, 1868, 1874), making the army arbiter of regime change. Provincial administration expands but lacks trained cadres.
+
+__Coercive Apparatus & Means of Force:__ The Carlist Wars demonstrate both the limits and centrality of the army. Liberal forces eventually defeat Carlist irregulars through attrition and foreign support. The Guardia Civil (founded 1844) provides rural policing, becoming the symbol of central state authority in the countryside.
+
+__Discharge, Disorder & Decay:__ Three civil wars (1833–1840, 1846–1849, 1872–1876) impose direct violence; banditry flourishes in Andalusia; Cantonal revolts (1873) fragment the First Republic. The cycle of coup and constitution prevents institutional consolidation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The public divides sharply: liberals (Moderates and Progressives) versus Carlists versus emerging republicans and socialists. Regional sentiment intensifies: Basque and Catalan particularism feeds both Carlism and proto-nationalism. Urban crowds mobilize in Madrid and Barcelona; rural populations remain more deferential or Carlist-aligned.
+
+__Leadership & Personal Authority:__ Generals dominate politics: Espartero, Narvaez, O'Donnell, Prim, Serrano. Isabella II's personal unpopularity contributes to her overthrow (1868). Carlist pretenders command traditional loyalty in their strongholds.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy fragments: Carlists deny the constitutional order's right to exist; liberals dispute among themselves over the proper constitutional form. Isabella II's perceived immorality and clerical dependence erode her standing. The Amadeo I experiment (1870–1873) and First Republic both fail to consolidate legitimacy.
+
+__Political Will & Collective Resolve:__ Will concentrates in military factions and regional elites; no stable governing coalition forms. The Sexenio Democratico (1868–1874) demonstrates both the energy and fragmentation of liberal-democratic will; cantonal revolts disperse it fatally.
+
+__External Relations & Posture:__ Spain remains a secondary European power; British and French diplomacy influences the Carlist Wars. Colonial holdings in Cuba, Puerto Rico, and Philippines remain but face increasing challenge. The failed attempt to annex Santo Domingo (1861–1865) and the Pacific War with Peru and Chile (1865–1866) reveal limited projection capacity.
+
+__Disaffection, Apathy & Spent Will:__ By 1874, exhaustion is palpable: the Republic has fragmented, Carlism revives but cannot win, and a military restoration of the Bourbons appears as the only path to stability. Will is not re-anchored but simply spent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Castilian dominates official communication; literacy rises slowly (perhaps 25% in 1833 to 35% by 1870). Regional languages persist in popular use: Catalan, Basque, Galician. Print remains inaccessible to the illiterate majority, but public reading in cafes and workplaces extends its reach.
+
+__Channels & Transmission Velocity:__ The press expands when censorship lifts. Newspapers proliferate during liberal periods: El Heraldo, El Clamor Publico, La Iberia, La Correspondencia de Espana (1860, pioneering cheap daily format), El Imparcial (1867). Telegraph lines spread from the 1850s, accelerating news transmission.
+
+__Record, Storage & Persistence:__ State archives expand; civil registry (1870) begins systematic vital records. Library collections grow but remain concentrated in Madrid and university cities. Newspaper runs are printed and some archived, creating a recoverable record of public debate.
+
+__Framing, Censorship & Discourse Norms:__ Censorship oscillates: the 1812 Constitution's press freedom, suspended under Ferdinand VII, revives in liberal periods. Prior censorship alternates with post-publication prosecution. Moderate liberals favor press controls; Progressives and Democrats demand freedom. The brief Sexenio (1868–1874) permits unprecedented press liberty.
+
+__Reception, Attention & Amplification:__ Newspapers are read aloud in cafes, amplifying literate-to-illiterate transmission. Pamphlets and broadsides circulate during crises. Carlist propaganda competes with liberal press; illustrated satire (La Flaca, 1869) reaches wider audiences.
+
+__Signal Integrity & Noise Load:__ Partisan fragmentation produces competing truth claims; government gazettes contest opposition accounts. The information environment is noisy but not yet saturated; print runs remain in thousands, not millions.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The liberal project rests on equality before the law and constitutional rights; Carlism defends traditional hierarchy, fueros (regional privileges), and Catholic order. These competing moral visions coexist violently.
+
+__Law, Codification & Regulatory Evolution:__ Liberal legal reform proceeds unevenly: civil codes drafted but not fully enacted until 1889; commercial codes advance. Constitutions proliferate (1837, 1845, 1856 unratified, 1869, 1873). The abolition of seigneurial jurisdiction (completed 1837) transforms rural legal relations.
+
+__Adjudication, Liability & Sanction:__ Courts modernize in principle; judicial independence remains compromised by executive interference. Military jurisdiction expands during Carlist Wars. Banditry prosecuted harshly when caught; cacique influence distorts local justice.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights proclaimed but unevenly enforced. Press freedom, assembly, and association oscillate with regime changes. Religious toleration absent until 1869 Constitution; religious minorities remain marginalized.
+
+__Impunity & Unredressed Wrong:__ Military officers enjoy effective impunity for political violence; pronunciamiento leaders suffer exile at worst. The disentailment dispossesses the Church without compensation; peasants displaced from common lands find no redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Spanish universities remain conservative; modern science penetrates slowly. The Ateneo de Madrid (founded 1835) provides a secular intellectual forum. Krausism, a German idealist philosophy, takes root in the 1850s–1860s, shaping reformist liberalism and pedagogy.
+
+__Applied Knowledge & Technical Method:__ Engineering schools train the cadres for railway and mining development. Military academies modernize. Agricultural improvement societies promote reform but lack means to transform practice.
+
+__Education, Knowledge Stock & Skill Distribution:__ The Moyano Law (1857) mandates primary education but implementation lags; perhaps half of children receive some schooling by 1870. Secondary education expands for urban bourgeoisie. Literacy rises but remains minority.
+
+__Obsolescence & Knowledge Decay:__ Traditional scholasticism recedes in universities; Krausist and positivist currents advance. Technical obsolescence constrains industry: Spanish machinery lags British and French.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The War of Independence (1808–1814) becomes foundational liberal mythology; the Dos de Mayo and the Constitution of Cadiz provide origin symbols. Carlism invokes medieval fueros and Catholic crusade. The Reconquista and imperial past remain available for both camps.
+
+__Legitimating Narrative & Ideology:__ Liberals invoke constitutional progress and national regeneration; Carlists defend "Dios, Patria, Rey, Fueros" (God, Fatherland, King, Privileges). Moderate liberals emphasize order; Progressives and Democrats invoke popular sovereignty.
+
+__Artistic Expression & Material Culture:__ Romanticism dominates early decades: Jose de Larra's satirical journalism, Espronceda's poetry. Costumbrismo captures regional types. Realism emerges mid-century: Fernandez de Moratin, later Galdos (Episodios Nacionales begins 1873). Illustrated magazines expand visual culture. Architecture mixes neoclassical and eclectic revivals.
+
+__Form Exhaustion & Meaning Decay:__ Romantic forms exhaust by mid-century; realism offers renewal. Political symbols remain contested rather than hollow: flags and anthems carry charged meaning through civil war.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic orthodoxy remains dominant but contested. Liberal anticlericalism grows; freethinking circles emerge in urban elites. Carlism defends providential monarchy and sacral kingship. The First Republic's religious toleration represents a minority current.
+
+__Ritual, Devotion & Sacred Practice:__ Popular Catholicism continues: pilgrimages, processions, parish life structure rural existence. Urban liberals distance themselves from observance; anticlericalism becomes a political identity.
+
+__Religious Institutions & Doctrinal Authority:__ The Church loses property through disentailment but retains institutional presence. The Concordat of 1851 re-establishes Church-state relations under moderate liberal terms. Religious orders reduced but not eliminated. The Papal Syllabus of Errors (1864) aligns the Church with reaction.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ No significant non-Catholic presence; Protestantism barely penetrates. Internal secularization advances among urban elites while rural populations remain observant.
+
+__Disenchantment & Sacred Discharge:__ Anticlerical violence (church burning, clerical killings during Carlist Wars) manifests accumulated resentment. Secularism spreads among republicans and workers. The spiritual residue is redirected into political ideologies rather than resolved.

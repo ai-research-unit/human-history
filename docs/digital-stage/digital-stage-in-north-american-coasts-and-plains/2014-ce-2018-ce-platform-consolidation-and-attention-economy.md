@@ -1,69 +1,139 @@
-# __2014 CE – 2018 CE__ — Platform Consolidation and Attention Economy
-__Summary:__ A long-term trend across the Eastern Woodlands and Mississippi Basin in which a handful of digital platforms — Facebook foremost — consolidated market power through acquisition, algorithmic curation, and advertising optimization, while engagement-maximization logic increasingly shaped the informational diet of a mobile-connected public; the binding constraint is attention scarcity measured against a supply of algorithmically-amplified content engineered for compulsive consumption; system margin against information-ecosystem shock is low and shrinking; direction of change is deepening platform lock-in, widening political polarization, and rising regulatory concern with no effective intervention yet delivered.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental terrain unchanged; platform data centers cluster in Virginia, the Midwest, and Pacific Northwest, linked by fiber backbones that flatten spatial friction for digital traffic while leaving last-mile delivery uneven in Appalachia and the rural South.<br><br>
-__Climate Regime & Volatility:__ Temperate continental regime stable at interannual scale; infrastructure exposure includes occasional hurricane and tornado disruption to regional data links, negligible against redundant routing.<br><br>
-__Hazard Regime & Exposure:__ Acute physical hazard minimal to platform operations; coastal server clusters carry modest hurricane exposure; overall system margin high.<br><br>
-__Resource & Energy Endowment:__ Abundant coal, natural gas, and expanding renewables power grid-scale data centers; energy supply unconstrained for present demand.<br><br>
-__Waste Absorption & Sink Capacity:__ Data-center heat and e-waste streams modest relative to absorptive capacity; carbon emissions from electricity generation rising but sink saturation not binding within window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Opioid epidemic accelerating across Appalachian and Rust Belt communities, raising mortality; otherwise endemic disease stable; life expectancy flattening or declining in affected strata.<br><br>
-__Nutrition & Physiological Vitality:__ Adult obesity prevalence exceeding 30 percent, metabolic disease rising; sedentary screen-based lifestyles contributing; physiological vitality trending downward for lower-income cohorts.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility declining, marriage delayed; app-based dating reshaping pair-formation but not reversing demographic trends; replacement-rate reproduction not achieved.<br><br>
-__Demographic Renewal & Density:__ Population growth slowing, dependent on immigration; urban cores densifying while rural areas depopulate; age structure aging.<br><br>
-__Attrition & Dependency Overhang:__ Elderly and chronically ill cohorts expanding faster than working-age growth; opioid-related disability adding to dependency load; absorptive capacity of household and state budgets under moderate stress.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Subsistence secure for most; food insecurity persists in low-income urban and rural pockets; welfare and charity buffer shortfalls.<br><br>
-__Energy Capture & Conversion:__ Electrical grid stable; natural gas displacing coal; per-capita energy consumption flat; data-center demand rising but minor fraction of total load.<br><br>
-__Labor Organization & Coercion:__ Gig-platform labor expanding — Uber, Lyft, DoorDash — outside traditional wage protections; independent-contractor classification contested; coercion low but precarity high.<br><br>
-__Production & Surplus Capacity:__ GDP growth moderate; tech-sector profits surging while manufacturing stagnates in heartland; surplus concentrates in coastal metros and platform firms.<br><br>
-__Storage, Reserves & Buffering:__ Corporate cash reserves at record levels — Apple, Google, Microsoft — while household savings shallow; buffer highly uneven across strata.<br><br>
-__Exchange, Trade & Logistics:__ Amazon fulfillment expanding next-day delivery nationwide; advertising-driven platform commerce outcompetes legacy retail; supply chains efficient but consolidating.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Dollar stable; interest rates near zero; credit abundant; venture capital flooding into platform startups; asset valuations elevated.<br><br>
-__Surplus Extraction & Redistribution:__ Federal tax take stable; corporate profit shifting offshore constrains redistribution; gig workers fall outside employer-contribution systems; extraction-to-obligation ratio tightening for entitlement programs.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentration accelerating — top 1 percent share rising; tech founders and early investors capture outsized gains; asset inflation in real estate and equities favors holders.<br><br>
-__Byproducts & Waste Routing:__ E-waste and packaging volumes rising with e-commerce; recycling rates low; externalization to landfills and offshore processing continues, no binding saturation yet.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Generalized trust declining; partisan and racial distrust rising; online communities provide niche solidarity but fragment broader civic cohesion.<br><br>
-__Stratification, Status & Group Identity:__ Coastal tech elite versus heartland working class increasingly salient; racial and educational divides map onto platform-mediated information bubbles; boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear-family household dominant; multigenerational cohabitation rising among lower-income groups; inheritance concentrates wealth across generations.<br><br>
-__Civic Association & Self-Organization:__ Traditional civic organizations thinning; online organizing and hashtag activism rising but episodic; local associational fabric weakening outside religious congregations.<br><br>
-__Leisure, Play & Sociability:__ Screen time expanding; social-media and streaming platforms dominate leisure; in-person social gathering declining among younger cohorts.<br><br>
-__Grievance Channels & Social Discharge:__ Social media amplifies grievance expression; viral outrage cycles discharge tension episodically but leave structural issues unresolved; standing instability accumulating.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal system intact; executive power contested between Obama and Trump administrations; Congress polarized and gridlocked; tech regulation largely deferred to private platform governance.<br><br>
-__Succession & Power Transfer:__ 2016 election contested in perception if not procedure; legitimacy narratives diverge sharply along partisan lines; transfer formalized but trust eroding.<br><br>
-__Legitimacy & Political Narrative:__ Populist counter-narratives — Make America Great Again and progressive variants — challenge establishment consensus; platform amplification intensifies narrative conflict.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Federal agencies competent but slow to adapt to digital economy; FTC and FCC understaffed for platform oversight; regulatory capture concerns rising.<br><br>
-__Political Participation & Mobilization:__ Voter turnout variable; digital organizing enables rapid mobilization — Women's March, Black Lives Matter resurgence — but also misinformation-driven backlash; channels open but contested.<br><br>
-__Geopolitical Position & External Relations:__ US hegemony intact but challenged; Russian information operations targeting 2016 election expose vulnerability; alliance structures stable.<br><br>
-__Coercive Apparatus & Means of Force:__ Military and police capacities ample; domestic deployment rare; platform surveillance expands state and corporate monitoring capacity without formal legal restructuring.<br><br>
-__Internal Order & Threat Environment:__ Domestic terrorism episodic — Pulse, Charlottesville — with ideological violence rising at margins; platform-facilitated radicalization draws concern; enforcement capacity not overwhelmed but threat trajectory upward.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Smartphone-based social media dominant; algorithmic feeds deliver content instantly to billions; transmission velocity near-instantaneous, reach universal among connected population.<br><br>
-__Record, Storage & Persistence:__ Platform servers store unprecedented volumes; user data retained indefinitely; ephemeral formats — Stories, Snapchat — coexist with permanent logging; archival durability high but access asymmetric.<br><br>
-__Framing, Censorship & Discourse Norms:__ Platform content policies set de facto censorship boundaries; hate speech, misinformation, and nudity moderated inconsistently; discourse norms fragmenting across communities; band narrowing for some speech, widening for others.<br><br>
-__Reception, Attention & Amplification:__ Engagement-optimized algorithms favor emotionally arousing, outrage-inducing, and tribal-identity content; viral amplification unpredictable; attention captured by infinite scroll; audience fragmented into filter bubbles.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation, disinformation, and clickbait proliferate; verification capacity lags volume; signal-to-noise ratio degrading; 2016 election interference exemplifies failure to clear corrupted data.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Partisan divergence on what constitutes fairness — meritocracy versus equity, free speech versus harm prevention — undermines shared moral baseline.<br><br>
-__Law, Codification & Regulatory Evolution:__ Section 230 of Communications Decency Act provides platform liability shield; antitrust law dormant; no significant new digital regulation enacted; evolution stalled.<br><br>
-__Adjudication, Enforcement & Liability:__ FTC consent decrees lightly enforced; Cambridge Analytica breach exposed 2018 triggers investigation but no immediate sanction; liability effectively externalized to users and third parties.<br><br>
-__Rights, Protections & Compliance Burden:__ User privacy rights weak under US law; GDPR enacted in EU 2018, rippling to US operations; compliance burden rising for platforms, negligible for users.<br><br>
-__Impunity & Unredressed Wrong:__ Platform harms — election interference, radicalization, mental-health damage — documented but unredressed; corporate impunity high; gap between harm and remedy widening.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Machine-learning and deep-learning paradigms ascendant; recommendation-algorithm research advancing; academic study of platform effects emerging but outpaced by deployment.<br><br>
-__Applied Knowledge & Technical Method:__ Algorithmic feed curation, ad targeting, and A/B testing at scale industrialized; engagement metrics drive product development; techniques widely replicated across platforms.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ STEM education expanding; coding bootcamps proliferate; digital literacy uneven — high among youth, low among older cohorts; misinformation vulnerability correlates with education gaps.<br><br>
-__Obsolescence & Knowledge Decay:__ Legacy media expertise devalued; journalism employment collapsing; institutional knowledge of editorial standards eroding; superseded paradigms not systematically cleared.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ American exceptionalism contested; culture-war memory politics — Confederate monuments, founding narratives — inflamed by platform amplification; identity bedrock fracturing along partisan lines.<br><br>
-__Artistic Expression & Material Culture:__ Digital-native aesthetics — memes, short video, influencer style — dominate popular culture; algorithmic recommendation shapes taste; material culture increasingly screen-mediated.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety and outrage elevated; social-comparison effects on Instagram linked to youth mental-health decline; optimism about technology fading into ambivalence.<br><br>
-__Form Exhaustion & Meaning Decay:__ Viral formats — ice-bucket challenges, hashtag campaigns — cycle rapidly through novelty to cliché; attention economy exhausts cultural forms faster than renewal generates meaning; anomie rising.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular materialism dominant among educated strata; evangelical Christianity remains strong in heartland but losing youth; existential uncertainty rising without coherent replacement cosmology.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance declining; meditative and wellness practices rising among secular cohorts; digital devotional communities emerging but shallow.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Mainline Protestant decline continues; Catholic Church reeling from abuse scandals; evangelical megachurches stable; doctrinal authority fragmented; no consolidation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Nones category expanding rapidly; spirituality-without-religion diffusing; traditional denominations losing reach; direction is secularizing drift.<br><br>
-__Disenchantment & Sacred Discharge:__ Transcendence gap widening; platform-mediated meaning — likes, followers, viral fame — substitutes poorly for sacred grounding; existential void accumulating as standing disenchantment.<br><br>
+# __2014 CE – 2018 CE — Platform Consolidation and Attention Economy__
+
+__Summary:__ North American digital platforms consolidate into an oligopoly that captures advertising revenue, colonizes user attention through algorithmic optimization, and displaces legacy media, with the 2016 election exposing the political consequences of engagement-maximizing design and triggering the first accountability demands.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Silicon Valley remains the gravitational center, with secondary nodes in Seattle, New York, and Los Angeles. Data center expansion accelerates across Virginia, Oregon, and Texas, driven by cheap power and fiber connectivity. The physical plant of the attention economy—server farms consuming gigawatts—spreads invisibly across exurban landscapes while users experience the infrastructure as instantaneous response.
+
+__Climate Regime & Volatility:__ Data centers emerge as significant energy consumers, their cooling demands concentrated in temperate zones. Climate concerns remain peripheral to platform operations, though sustainability branding begins appearing in corporate communications by 2017.
+
+__Hazard Regime & Exposure:__ Infrastructure redundancy insulates platforms from localized disruption. Hurricane Maria (2017) exposes Puerto Rico's network fragility but mainland operations face minimal hazard exposure beyond occasional outages.
+
+__Resource & Energy Endowment:__ Platform growth draws on abundant North American electricity, with companies beginning to contract for renewable energy to manage both costs and reputation. The resource intensity of data processing becomes visible but not yet constraining.
+
+__Waste Absorption & Sink Capacity:__ E-waste from rapid device turnover accumulates. Heat exhaust from data centers disperses without regulatory attention. The environmental footprint grows alongside platform expansion but remains externalized from corporate accounting.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Health metrics remain stable. The period precedes pandemic disruption. Opioid crisis mortality rises sharply but operates independently of platform dynamics, though social media begins facilitating both drug sales and recovery communities.
+
+__Nutrition & Physiological Vitality:__ Food delivery apps (DoorDash, Uber Eats) proliferate, altering eating patterns in urban areas. Convenience gains may trade against nutritional quality, though effects remain unstudied.
+
+__Care, Healing & Recovery Capacity:__ Telemedicine remains nascent. Mental health concerns about screen time and social media use emerge in clinical literature by 2017, particularly regarding adolescent depression correlations, but treatment systems do not yet adapt.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating apps (Tinder, Bumble) become normative pathways to partnership in younger cohorts. Algorithmic matching reshapes courtship patterns, compressing initial selection while potentially expanding the pool of candidates.
+
+__Demographic Renewal & Density:__ Population trends continue independently of platform dynamics. Immigration contributes to tech workforce growth, particularly in engineering and software development roles concentrated in hub cities.
+
+__Attrition & Dependency Overhang:__ Elderly populations remain less connected to platform ecosystems. The digital divide by age persists, though smartphone adoption among older users accelerates through the period.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Gig economy platforms (Uber, Lyft, TaskRabbit, Instacart) expand, offering flexible income for some while eroding stable employment for others. The provisioning floor fragments as traditional employment relationships weaken.
+
+__Energy Capture & Conversion:__ Platform operations consume increasing electricity but contribute to efficiency gains in logistics and matching. The net energy balance of the attention economy remains uncalculated.
+
+__Labor Organization & Coercion:__ Platform workers are classified as independent contractors, denying benefits and organizing rights. Algorithmic management introduces new forms of workplace surveillance and control. Traditional employment relations persist in platform headquarters while labor conditions fragment at the delivery and driving edge.
+
+__Production & Surplus Capacity:__ Platform surplus grows explosively. Facebook and Google capture over 60% of digital advertising by 2017. Amazon's marketplace and cloud services generate compounding returns. The advertising duopoly extracts value from attention while producing minimal tangible goods.
+
+__Storage, Reserves & Buffering:__ Tech companies accumulate massive cash reserves, often held offshore for tax efficiency. Apple's cash pile exceeds $250 billion. These reserves provide unlimited runway for acquisitions and experiments.
+
+__Exchange, Trade & Logistics:__ Amazon's logistics network expands toward same-day delivery in major markets. Platform-mediated commerce grows at double-digit rates annually. Traditional retail enters accelerating decline.
+
+__Value Storage, Credit & Deferred Exchange:__ Venture capital floods into startups pursuing platform models. Unicorn valuations multiply despite minimal profits. Credit flows freely toward growth over profitability. Bitcoin and cryptocurrency speculation accelerates after 2017, though mainstream adoption remains limited.
+
+__Surplus Extraction & Redistribution:__ Platforms extract advertising revenue from attention, media company margins, and small business marketing budgets. Redistribution flows primarily to shareholders and employees. Tax optimization minimizes government capture.
+
+__Wealth Distribution & Asset Defense:__ Platform founders and early employees accumulate spectacular wealth. Stock compensation concentrates gains among knowledge workers. The broader population participates marginally through retirement fund equity holdings. Inequality widens.
+
+__Byproducts & Waste Routing:__ The collapse of local journalism constitutes the primary economic waste—a byproduct of advertising revenue migration. Newspapers close or shrink nationwide. The information ecology degrades as advertising subsidies for reporting evaporate.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family communication increasingly flows through platforms—group texts, shared photos, Facebook event coordination. Extended family connections persist more visibly than in previous generations but may thin in depth as breadth expands.
+
+__Association & Mutual Aid:__ Facebook Groups enable interest-based association at scale. GoFundMe and similar platforms create new mutual aid channels alongside traditional forms. Online communities supplement but rarely replace geographic association.
+
+__Leisure, Play & Sociability:__ Streaming entertainment (Netflix originals, YouTube) displaces broadcast television as the default leisure form. Social media consumption becomes a primary leisure activity, particularly for younger users. The smartphone accompanies all sociability, dividing attention.
+
+__Stratification, Status & Group Structure:__ Follower counts create new status hierarchies. Influencer becomes a viable career category. Platform verification marks elite status. Traditional markers persist alongside new digital gradations.
+
+__Administrative Capacity & Institutional Integrity:__ Platform companies develop internal governance structures—content policy teams, trust and safety departments—that function as quasi-regulatory bodies without democratic accountability. Their administrative capacity scales globally while government oversight lags.
+
+__Coercive Apparatus & Means of Force:__ State coercive capacity remains independent of platforms, though law enforcement begins using social media for surveillance and investigation. Platform data becomes a resource for state actors through legal and extralegal channels.
+
+__Discharge, Disorder & Decay:__ Online harassment intensifies, particularly targeting women and minorities. Gamergate (2014) establishes templates for coordinated harassment campaigns. Platform moderation proves inadequate to the volume. Polarization deepens as algorithmic feeds optimize for engagement over accuracy or civility.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Anxiety about technology's social effects begins emerging in mainstream discourse by 2017. The "attention economy" framing enters public vocabulary. Concerns about smartphone addiction, particularly among youth, gain traction. Yet adoption continues accelerating.
+
+__Leadership & Personal Authority:__ Tech founders retain heroic status through much of the period. Zuckerberg, Bezos, and others command reverence in business and popular culture. The image begins tarnishing only after 2016 revelations. Trump's Twitter mastery demonstrates a new form of direct political leadership.
+
+__Legitimacy as Lived Allegiance:__ Platform legitimacy remains high through most of the period. Users accept terms of service without reading them. The exchange of attention for free services feels reasonable. Doubt emerges only after Cambridge Analytica revelations.
+
+__Political Will & Collective Resolve:__ Obama administration maintains light-touch regulation. Net neutrality debates generate unusual public engagement (2014-2017). The 2016 election polarizes will along partisan lines while raising questions about platform influence that neither party can easily address.
+
+__External Relations & Posture:__ Platforms operate as quasi-sovereigns in their own right, negotiating with states rather than simply complying. US government encourages global platform expansion as soft power projection. Russian interference revelations complicate this narrative.
+
+__Disaffection, Apathy & Spent Will:__ 2016 produces sharp disaffection among those who expected different electoral outcomes. The emotional intensity of platform-mediated politics exhausts participants. Political engagement peaks alongside political despair.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Smartphone penetration approaches saturation in affluent demographics. Algorithmic translation begins bridging language barriers. Access widens while information quality degrades.
+
+__Channels & Transmission Velocity:__ Real-time feeds become normative. Twitter breaks news faster than broadcast. Push notifications fragment attention into microsecond responses. The velocity of information circulation outpaces verification capacity.
+
+__Record, Storage & Persistence:__ Cloud storage becomes default. Personal and organizational archives migrate to platform-controlled servers. The permanence of digital records enables both accountability and harassment through resurfaced past statements.
+
+__Framing, Censorship & Discourse Norms:__ Algorithmic curation replaces editorial judgment as the primary filter. Feed algorithms optimize for engagement, systematically amplifying content that provokes emotional response. "Fake news" emerges as a contested category. Platform content policies evolve reactively.
+
+__Reception, Attention & Amplification:__ Attention becomes the scarce resource platforms compete to capture. Infinite scroll, autoplay, and notification design techniques optimize for time-on-site. Virality mechanics reward sensationalism. The median user's information diet narrows as algorithmic personalization creates filter bubbles.
+
+__Signal Integrity & Noise Load:__ Misinformation spreads faster than correction. Russian-backed information operations exploit platform amplification mechanics. Verification systems lag the flood of content. The noise-to-signal ratio degrades across the period, reaching crisis levels around the 2016 election.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Fairness intuitions diverge along partisan lines, with each side perceiving platform bias against its positions. The sense of a shared moral baseline erodes as information sources fragment.
+
+__Law, Codification & Regulatory Evolution:__ Section 230 of the Communications Decency Act shields platforms from liability for user content. This 1996 provision proves foundational to platform growth but increasingly contested. EU GDPR (adopted 2016, effective 2018) signals regulatory divergence.
+
+__Adjudication, Liability & Sanction:__ Platform terms of service create private legal regimes. Enforcement proves inconsistent and opaque. Appeals processes remain rudimentary. The gap between platform rules and platform enforcement widens.
+
+__Rights, Protections & Compliance Burden:__ Users surrender data rights through unread terms of service. Privacy expectations erode through normalization. The compliance burden falls primarily on businesses adapting to platform requirements rather than on platforms adapting to regulation.
+
+__Impunity & Unredressed Wrong:__ Harassment victims find limited recourse. Platform decisions lack appeal. Data breaches produce minimal consequences for companies. Cambridge Analytica exemplifies the impunity gap—years of violation before exposure, minimal penalties after.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Machine learning advances rapidly. Deep learning achieves breakthrough results in image recognition, natural language processing, and game-playing. The theoretical understanding of why these systems work lags their empirical success.
+
+__Applied Knowledge & Technical Method:__ Engagement optimization techniques mature. A/B testing at scale enables rapid iteration. Behavioral psychology informs interface design. The methods for capturing attention become highly refined.
+
+__Education, Knowledge Stock & Skill Distribution:__ Coding bootcamps proliferate alongside traditional computer science education. STEM emphasis intensifies. Digital literacy remains unevenly distributed, with critical evaluation of online sources particularly weak.
+
+__Obsolescence & Knowledge Decay:__ Traditional media knowledge—editorial judgment, source verification, narrative construction—decays as institutions weaken. The craft of journalism persists in diminished form while the infrastructure that supported it collapses.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Silicon Valley mythology—the garage startup, the visionary founder, disruption as progress—reaches peak cultural influence. "Move fast and break things" summarizes the era's self-understanding. The countermythology of surveillance capitalism remains marginal through most of the period.
+
+__Legitimating Narrative & Ideology:__ Platforms present themselves as neutral infrastructure enabling connection and free expression. The narrative of democratized information and empowered users justifies light regulation. This legitimation erodes after 2016 but remains dominant through the period.
+
+__Artistic Expression & Material Culture:__ Minimalist interface design (flat design, Material Design) defines the visual language. The smartphone becomes the era's defining artifact. Streaming displaces ownership as the primary mode of cultural consumption. Meme culture emerges as a vernacular form.
+
+__Form Exhaustion & Meaning Decay:__ Irony and meta-commentary proliferate as engagement-optimized content converges on proven formulas. The distinction between authentic expression and performance-for-algorithm blurs. Sincerity becomes difficult to locate.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Technological optimism—the belief that innovation solves problems—functions as implicit cosmology. The "singularity" remains a fringe concept but directionally influences tech culture. Secular frameworks dominate platform-adjacent populations.
+
+__Ritual, Devotion & Sacred Practice:__ Phone-checking becomes ritualized behavior, the first and last action of each day for millions. The notification serves as a summons to attention. Traditional religious practice continues independently but competes with screens for time and focus.
+
+__Religious Institutions & Doctrinal Authority:__ Institutional religion's reach continues declining, particularly among younger cohorts. Megachurches adopt platform strategies. Religious communities use Facebook Groups to organize. The institutional forms adapt while the underlying trends continue.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Wellness culture, meditation apps, and secular mindfulness diffuse through platform channels, borrowing Buddhist forms while stripping doctrinal content. "Spiritual but not religious" identity spreads.
+
+__Disenchantment & Sacred Discharge:__ The attention economy promises connection but delivers comparison and anxiety. The smartphone's constant presence fills time that might have held silence or reflection. The sacred retreats from daily life while platforms occupy the attention it once claimed.

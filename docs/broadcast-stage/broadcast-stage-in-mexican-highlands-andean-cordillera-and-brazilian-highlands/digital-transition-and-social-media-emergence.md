@@ -1,69 +1,139 @@
-# __2005 CE – 2014 CE__ — Digital Transition and Social Media Emergence
-__Summary:__ Latin American broadcasting undergoes digital switchover while social media platforms emerge as alternative information channels, fragmenting the audience monopolies that broadcast networks had commanded since mid-century; the binding constraint is the collision between legacy broadcast infrastructure and mobile-internet distribution that bypasses traditional gatekeepers; margin against disruption is thin as protests in Brazil 2013 and elsewhere demonstrate social media's capacity to mobilize outside broadcast framing; the principal direction of change is toward multi-platform fragmentation, declining broadcast dominance, and rising state-platform tension.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Digital terrestrial transmission requires new tower infrastructure in mountainous terrain; fiber optic cables concentrate in urban corridors; satellite coverage extends to remote areas; spatial friction diminishing for information but persisting for physical goods.<br><br>
-__Climate Regime & Volatility:__ Drought in Sao Paulo 2014 strains hydropower and water supply; flooding continues in coastal and lowland zones; climate volatility intensifying; infrastructure resilience tested by extreme events.<br><br>
-__Hazard Regime & Exposure:__ Haiti earthquake 2010 devastates Caribbean neighbor; Chile earthquake 2010 demonstrates infrastructure resilience; Mexico seismic risk unchanged; broadcast infrastructure hardening against hazards continues.<br><br>
-__Resource & Energy Endowment:__ Brazilian pre-salt oil production begins; Venezuelan oil output declining despite high prices; Mexican energy reform debates; lithium deposits in Bolivia gain strategic attention; energy endowment stable with new frontier zones identified.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste from analog-to-digital transition accumulates; Amazon deforestation continues despite reduced rates; urban air quality marginally improving with vehicle standards; sink capacity under sustained pressure.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ H1N1 influenza 2009 tests public health response; dengue endemic and spreading; Zika emergence 2013-2014 begins; antiretroviral coverage expands; mortality baseline stable with emerging threats.<br><br>
-__Nutrition & Physiological Vitality:__ Conditional cash transfers continue improving child nutrition; obesity epidemic accelerates in urban populations; ultra-processed food consumption rises; vitality gains at bottom offset by metabolic decline in middle class.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility continues below replacement in Southern Cone; teenage pregnancy rates decline with education; contraceptive access broad; pairing increasingly delayed and voluntary.<br><br>
-__Demographic Renewal & Density:__ Population growth slowing across region; aging beginning in Southern Cone; urbanization near saturation in major economies; megacity density stabilizing as peripheral growth disperses.<br><br>
-__Attrition & Dependency Overhang:__ Working-age bulge provides demographic dividend; elderly dependency beginning to rise; pension system reform debates intensify; dependency load manageable but trajectory unfavorable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Extreme poverty at historic lows; middle class expands significantly; food security broadly achieved; provisioning floor elevated though vulnerable to commodity price reversal.<br><br>
-__Energy Capture & Conversion:__ Hydropower remains dominant in Brazil; natural gas in Argentina; wind and solar begin; per-capita consumption rising; energy matrix diversifying slowly.<br><br>
-__Labor Organization & Coercion:__ Formal employment expands with economic growth; minimum wage increases in Brazil; informal sector persists; labor increasingly wage-based and regulated; coercion minimal.<br><br>
-__Production & Surplus Capacity:__ Commodity super-cycle continues through 2011; China demand sustains exports; manufacturing squeezed by currency appreciation; surplus capacity high but concentrated in primary sector.<br><br>
-__Storage, Reserves & Buffering:__ Foreign reserves at record levels; sovereign funds operational in Chile; buffer depth substantial but tested by 2008-2009 global financial crisis; recovery demonstrates reserve adequacy.<br><br>
-__Exchange, Trade & Logistics:__ Container port expansion in Santos, Callao, Manzanillo; logistics costs remain high; trade with China dominant; supply chains increasingly Pacific-oriented; infrastructure bottlenecks persist.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Consumer credit boom; mortgage lending expands; banking sector profitable; inflation controlled except Venezuela; credit penetration deepening; financial inclusion improving.<br><br>
-__Surplus Extraction & Redistribution:__ Social spending peaks under Pink Tide governments; commodity rents fund redistribution; fiscal pressure rising as commodity prices plateau; extraction-to-redistribution loop straining.<br><br>
-__Wealth Distribution & Asset Defense:__ Gini coefficients decline across region; middle-class asset accumulation; elite wealth increasingly offshore; real estate speculation in major cities; distribution improving from historic highs.<br><br>
-__Byproducts & Waste Routing:__ E-waste volumes surge with digital transition; recycling infrastructure inadequate; mining waste continues; routing remains toward informal disposal; municipal solid waste management improving.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust remains low; crime continues eroding confidence; social media creates new affinity networks; mutual aid persists in church and neighborhood; trust radius stable but channels shifting.<br><br>
-__Stratification, Status & Group Identity:__ New middle class emerges as political constituency; racial affirmative action expands in Brazil; indigenous identity politically powerful in Bolivia under Morales; stratification easing but group boundaries politicized.<br><br>
-__Kinship, Family & Inheritance:__ Same-sex partnership recognition advances in Argentina and Brazil; nuclear family norm weakening; female-headed households continue rising; inheritance law stable; family forms pluralizing.<br><br>
-__Civic Association & Self-Organization:__ Social movements mature; digital organizing supplements street mobilization; NGO sector professionalized; evangelical churches as community infrastructure expand; associational density high.<br><br>
-__Leisure, Play & Sociability:__ Social media transforms sociability; smartphone adoption accelerates; shopping mall saturation; gaming culture emerges among youth; leisure increasingly screen-mediated.<br><br>
-__Grievance Channels & Social Discharge:__ June 2013 protests in Brazil demonstrate social media mobilization capacity; Mexican student movements; street politics intensify then fragment; grievance finds new digital channels but also generates backlash; discharge incomplete.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Pink Tide at apex; Lula to Dilma in Brazil; Kirchner to Fernandez in Argentina; Chavez to Maduro in Venezuela; Morales consolidated in Bolivia; executive dominance continues; right-wing opposition reorganizing.<br><br>
-__Succession & Power Transfer:__ Electoral transfers continue; Chavez death 2013 tests Venezuelan succession; term-limit debates; judicial interventions in Argentina; transfer mechanisms stressed but holding.<br><br>
-__Legitimacy & Political Narrative:__ Anti-corruption protests challenge Pink Tide legitimacy; economic success narrative frays with commodity slowdown; Bolivarian revolution contested in Venezuela; legitimacy narratives fragmenting.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity expanded during boom; corruption scandals emerging—Petrobras investigations beginning; institutional integrity variable; patronage networks exposed.<br><br>
-__Political Participation & Mobilization:__ Street protests surge 2013-2014; social media enables rapid mobilization; new actors bypass traditional parties; participation intensifying outside institutional channels.<br><br>
-__Geopolitical Position & External Relations:__ BRICS formation; China as major trade partner; US influence diminished; regional integration through UNASUR; Venezuela-US relations hostile; multipolar positioning continues.<br><br>
-__Coercive Apparatus & Means of Force:__ Police militarization in Brazil for World Cup security; drug war intensifies in Mexico; military professionalization continues; private security expands; command civilian but violence persistent.<br><br>
-__Internal Order & Threat Environment:__ Mexican drug violence peaks; Brazilian pacification programs in favelas contested; Colombian peace process advancing; urban crime persistent; threat environment exceeds capacity in specific zones.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Digital terrestrial television rolls out; smartphone penetration accelerates; social media—Facebook, Twitter, WhatsApp—achieve mass adoption; transmission instant and multi-directional; broadcast monopoly eroding.<br><br>
-__Record, Storage & Persistence:__ Cloud storage emerges; digital archives expand; social media creates permanent record; institutional memory increasingly digital and distributed; persistence improving but platform-dependent.<br><br>
-__Framing, Censorship & Discourse Norms:__ Argentina media law 2009 challenges Clarin; Venezuelan government pressures opposition channels; internet relatively open; discourse polarization intensifies; framing contested between legacy media and social platforms.<br><br>
-__Reception, Attention & Amplification:__ Television viewership declines among youth; social media virality bypasses editorial gatekeepers; attention fragmenting across platforms; amplification dynamics shift from broadcast to network logic.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation spreads via WhatsApp; partisan media intensifies; verification capacity lags viral speed; noise load increasing rapidly; signal integrity degrading as volume overwhelms curation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Anti-corruption sentiment intensifies; demand for accountability rises; human rights consciousness broad; justice expectations include both redistribution and clean government.<br><br>
-__Law, Codification & Regulatory Evolution:__ Argentina audiovisual services law 2009; Brazilian internet civil rights framework Marco Civil 2014; digital regulation emerging; broadcasting regulation contested between state and market.<br><br>
-__Adjudication, Enforcement & Liability:__ Brazilian Mensalao corruption trial 2012 demonstrates judicial capacity; enforcement against elite beginning; platform liability debates emerging; adjudication modernizing but backlogs persist.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom under pressure in Venezuela; internet freedom broadly protected; indigenous rights advanced under Morales; LGBTQ rights expand; compliance burden on legacy broadcasters increasing.<br><br>
-__Impunity & Unredressed Wrong:__ Journalist murders continue in Mexico; Ayotzinapa disappearances 2014 demonstrate impunity; corruption accountability improving but selective; substantial gap between wrong and remedy persists.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Post-neoliberal development studies flourish; media convergence theory dominates communication scholarship; climate science gains policy attention; paradigms pluralizing with Pink Tide intellectual support.<br><br>
-__Applied Knowledge & Technical Method:__ Digital broadcast engineering adopted; software development capacity grows; social media analytics emerge; technical method advancing rapidly in information technology sector.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ University enrollment continues expanding; technical education improves; digital literacy rising among youth; knowledge stock growing; skill distribution broadening with smartphone adoption.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog broadcast skills rapidly obsolete; legacy media business models collapsing; newspaper economics failing; decay accelerating as digital displacement outpaces adaptation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Dictatorship memory persists through truth commissions; indigenous identity claims consolidated in Bolivia; Brazilian national brand for World Cup 2014; foundational narratives contested but operative.<br><br>
-__Artistic Expression & Material Culture:__ Telenovela production continues but audience fragments; Brazilian cinema internationally recognized; Mexican visual culture thrives; smartphone ubiquity transforms urban material culture; screens everywhere.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism from commodity boom fading by 2013; protest mood spreads; middle-class anxiety about sustainability of gains; mood shifting from hope to uncertainty.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional broadcast formats losing grip; political party forms exhausted; protest aesthetics renewing; social media generates new cultural forms but also rapid form cycling; renewal and exhaustion accelerating together.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Evangelical growth continues; prosperity gospel dominant in urban peripheries; secular-progressive coalition under Pink Tide; indigenous cosmovision politically recognized in Bolivia; cosmological pluralization deepens.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mega-church attendance rises; Catholic practice continues declining; evangelical media ministries expand; devotional life increasingly mediated through broadcast and digital channels.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Evangelical political influence grows; Catholic hierarchy loses further ground; Pope Francis election 2013 provides Argentine connection; institutional fragmentation continues with evangelical growth.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical conversion continues in urban periphery; Afro-Brazilian religions persist; indigenous spirituality institutionalized in Bolivian state; syncretic practice continues at popular level.<br><br>
-__Disenchantment & Sacred Discharge:__ Urban secular elites growing; post-religious orientation spreading among educated youth; evangelical fervor absorbs much spiritual need; disenchantment residue accumulating in metropolitan professional classes but overall modest.<br><br>
+# __2005 CE – 2014 CE — Digital Transition and Social Media Emergence__
+
+__Summary:__ Latin American broadcasting undergoes simultaneous digital terrestrial migration and social media disruption, with television remaining the dominant mass medium but losing its monopoly on synchronized public attention as smartphones and platforms create parallel information circuits that bypass traditional broadcast gatekeepers.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Fiber optic cables extend along coastal routes and urban corridors while cellular towers proliferate across previously unconnected terrain; the smartphone collapses spatial friction for individual communication but broadcast transmission infrastructure remains bound to terrestrial towers, satellite footprints, and cable grids concentrated in urban areas.
+
+__Climate Regime & Volatility:__ Climate variability intensifies with severe droughts in the Amazon (2010) and flooding events across the region receiving continuous broadcast and real-time social media coverage; climate change enters mainstream broadcast discourse; extreme weather events test emergency communication systems integrating broadcast and digital channels.
+
+__Hazard Regime & Exposure:__ The 2010 Chilean earthquake and subsequent tsunami demonstrate both broadcast emergency communication capacity and social media's speed advantage in disseminating information and locating survivors; the 2010 Haitian earthquake generates continental broadcast solidarity campaigns; volcanic activity and flooding test regional response coordination.
+
+__Resource & Energy Endowment:__ The commodity supercycle peaks around 2011-2013, with oil prices above $100 funding Venezuelan and Ecuadorian state media investments while Brazilian pre-salt discoveries promise continued resource abundance; mineral and agricultural exports provide the fiscal base for infrastructure investment including digital transition.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste accelerates as analog television sets reach obsolescence and smartphone replacement cycles shorten; informal recycling operations expand in Brazil and Mexico; the digital transition's material residue accumulates in landfills and export streams to Asia; urban pollution continues but digital monitoring enables real-time tracking.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The H1N1 pandemic (2009) receives intensive broadcast coverage demonstrating television's continuing public health communication role; dengue and chikungunya outbreaks track through both broadcast and social media channels; mortality baselines continue improving with healthcare expansion under Pink Tide governments.
+
+__Nutrition & Physiological Vitality:__ Malnutrition declines substantially as poverty reduction programs expand and commodity revenues fund social investment; obesity emerges as the new public health concern, itself generating broadcast content through health programming and advertising regulation debates.
+
+__Care, Healing & Recovery Capacity:__ Healthcare systems expand access under leftist governments while middle classes turn to private providers; Mais Medicos program in Brazil (2013) receives intense broadcast coverage and social media debate; telemedicine begins connecting remote communities to urban expertise.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility rates stabilize near or below replacement in southern cone countries while remaining higher in Central America and Bolivia; same-sex marriage gains legal recognition in Argentina (2010) and Brazil (2013), with broadcast coverage and social media campaigns shaping public opinion.
+
+__Demographic Renewal & Density:__ The region approaches 550 million population by 2014; urbanization reaches 80% in larger countries; the demographic bonus generation enters prime working and consuming age, driving smartphone adoption and social media participation.
+
+__Attrition & Dependency Overhang:__ Aging populations remain modest but pension system sustainability enters public debate; declining youth dependency ratios free household resources for digital device acquisition; the demographic structure favors digital adoption.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Extreme poverty rates fall to historic lows by early 2010s as commodity revenues fund conditional cash transfers and minimum wage increases; the material floor rises such that smartphone ownership penetrates into popular sectors previously limited to broadcast-only access.
+
+__Energy Capture & Conversion:__ Electricity access approaches universality in larger countries; power grids support expanded broadcast and telecommunications infrastructure; Brazilian blackouts (2009, 2012) reveal infrastructure vulnerabilities broadcast nationally.
+
+__Labor Organization & Coercion:__ Formal employment expands under economic growth; domestic worker rights gain legal recognition; broadcast production labor remains concentrated in established centers while digital content creation enables distributed participation.
+
+__Production & Surplus Capacity:__ Television advertising reaches approximately $20 billion regionally by 2014; telenovela exports continue generating foreign exchange; digital advertising grows from negligible base toward significant share; the surplus for content investment expands before commodity price decline.
+
+__Storage, Reserves & Buffering:__ Foreign exchange reserves peak as commodity revenues accumulate; sovereign wealth discussions circulate; broadcasters invest reserves in digital transition infrastructure and content libraries; the buffer against external shocks appears robust until 2014.
+
+__Exchange, Trade & Logistics:__ Content trade intensifies within the region and globally; Netflix enters major markets (Brazil 2011, Mexico 2011) creating competition for broadcast audiences; format trade (The Voice, reality franchises) integrates regional production with global television economy.
+
+__Value Storage, Credit & Deferred Exchange:__ Credit expansion enables consumer electronics acquisition driving smartphone penetration; advertising contracts shift toward digital platforms; the currency stability of the 2000s supports long-term content investment.
+
+__Surplus Extraction & Redistribution:__ Tax revenues expand with economic growth enabling state media investment; Argentina's media law (2009) attempts redistribution of broadcast licenses; the contest over media rents intensifies between states and commercial operators.
+
+__Wealth Distribution & Asset Defense:__ Media ownership concentration faces political challenge but persists; the Kirchner-Clarin conflict reaches judicial showdown; Mexican telecommunications reform (2013-2014) opens competition; wealth inequality narrows modestly but asset defense by media conglomerates remains effective.
+
+__Byproducts & Waste Routing:__ The transition from analog to digital generates equipment obsolescence at scale; advertising waste saturates digital and broadcast channels; the 2008 financial crisis transmits through regional exposure but is absorbed by commodity buffer; financial waste from overinvestment in commodity infrastructure accumulates.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear and extended family structures coexist; telenovela families remain idealized reference points while actual household arrangements diversify; inheritance of media empires continues (Azcarraga Jean at Televisa, Marinho sons at Globo) but faces succession challenges.
+
+__Association & Mutual Aid:__ Social media enables new forms of association outside broadcast mediation; community radio and television gain legal recognition and funding in several countries; civil society organizations develop digital presence alongside broadcast advocacy.
+
+__Leisure, Play & Sociability:__ Television viewing remains dominant but social media consumption grows rapidly, especially among youth; second-screen behavior emerges as viewers comment on broadcasts via social media; the solitary smartphone competes with the family television for attention.
+
+__Stratification, Status & Group Structure:__ Digital access marks new status boundaries; smartphone ownership becomes aspirational across classes; racial representation on broadcast improves incrementally (Brazil's Globo cast diversification) while indigenous and Afro-descendant communities develop independent digital presence.
+
+__Administrative Capacity & Institutional Integrity:__ Digital transition coordination tests regulatory capacity; ANATEL manages Brazilian switch (ISDB-Tb adoption, rollout from 2007); spectrum auctions generate revenue; e-government initiatives expand though corruption and inefficiency persist.
+
+__Coercive Apparatus & Means of Force:__ Police and military use broadcast and social media for public relations and surveillance; violence against journalists continues in Mexico and Honduras; state monitoring of social media communications begins; the means of force adapt to digital channels.
+
+__Discharge, Disorder & Decay:__ Crime and insecurity dominate broadcast news as Mexican drug war violence escalates; Brazilian favela pacification generates contested coverage; social media enables crime documentation and viral spread; the 2013 Brazilian protests and 2014 Venezuelan guarimbas demonstrate social media's capacity to organize and broadcast disorder outside traditional channels.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Optimism peaks with commodity boom and poverty reduction before souring with economic slowdown and corruption revelations; the 2013 Brazilian protests signal sentiment shift from government support toward institutional distrust; social media amplifies emotional contagion.
+
+__Leadership & Personal Authority:__ Charismatic leadership persists (Chavez until death in 2013, Lula's enduring popularity, Cristina Fernandez de Kirchner's polarizing presence) but social media creates parallel authority figures and viral celebrities outside broadcast gatekeeping.
+
+__Legitimacy as Lived Allegiance:__ Democratic legitimacy faces stress as corruption scandals (Mensalao in Brazil, various regional cases) receive continuous broadcast and social media exposure; the 2009 Honduran coup tests OAS and regional commitment; legitimacy of private media questioned by left-wing governments while state media face opposition charges of propaganda.
+
+__Political Will & Collective Resolve:__ The Pink Tide demonstrates redistributive will through media regulation attempts; opposition movements develop coordinated social media presence; the contest over communication policy becomes existential for both sides; collective resolve manifests in street mobilizations broadcast and tweeted simultaneously.
+
+__External Relations & Posture:__ Regional integration deepens with UNASUR and CELAC formation; Telesur expands as counter-hegemonic project; anti-US sentiment persists but diversifies with Chinese investment growing; the information dimension of external relations gains salience with Snowden revelations (2013) broadcast globally.
+
+__Disaffection, Apathy & Spent Will:__ Political polarization intensifies rather than producing apathy; the 2013 Brazilian protests channel accumulated disaffection; Venezuelan opposition mobilizes continuously through broadcast and social media; the emotional residue is channeled into mobilization rather than withdrawal, but exhaustion builds by decade's end.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish and Portuguese remain broadcast defaults while social media enables code-switching, informal register, and indigenous language use outside broadcast standards; literacy continues improving but media literacy becomes distinct concern as platform complexity increases.
+
+__Channels & Transmission Velocity:__ Social media (Facebook, Twitter, YouTube, WhatsApp) achieve mass penetration alongside broadcast; smartphone adoption accelerates from 2010; 3G and early 4G networks expand; information velocity approaches real-time, outpacing broadcast news cycles; television responds with ticker crawls and social media integration.
+
+__Record, Storage & Persistence:__ Cloud storage and social media archives create unprecedented personal and public documentation; broadcast archives digitize; the historical record expands exponentially though platform dependencies create new fragility; the ephemeral (Snapchat, stories) emerges as deliberate counter to persistence.
+
+__Framing, Censorship & Discourse Norms:__ State-private media conflicts intensify framing battles; Venezuelan government pressure on Globovision continues; Ecuadorian media law (2013) constrains coverage; social media bypasses traditional censorship but platforms develop their own content policies; the discourse field fragments.
+
+__Reception, Attention & Amplification:__ Attention scatters across channels and platforms; second-screen behavior becomes normal; viral content achieves broadcast-scale reach through social sharing; the concentrated attention telenovela finales commanded erodes as audiences fragment.
+
+__Signal Integrity & Noise Load:__ Information overload intensifies with channel multiplication; fake news and misinformation spread through social networks; verification capacity fails to keep pace with volume; the signal-to-noise ratio degrades substantially; filter bubbles begin forming around ideological affinity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Corruption becomes dominant moral frame as scandals expose both government and corporate malfeasance; anti-impunity movements gain strength; indigenous rights and environmental justice acquire moral salience; social media enables moral campaigns outside broadcast framing.
+
+__Law, Codification & Regulatory Evolution:__ Media laws pass or are contested: Argentina (2009), Ecuador (2013), Mexico telecommunications reform (2013-2014); digital transition regulations develop; internet regulation debates begin; the legal framework struggles to encompass convergent media.
+
+__Adjudication, Liability & Sanction:__ Press freedom cases multiply; international bodies (IACHR, UNHRC) monitor regional press freedom; defamation and contempt laws used against journalists; platform liability remains undefined; adjudication politicizes further.
+
+__Rights, Protections & Compliance Burden:__ Access to information laws expand; journalist protection mechanisms develop but remain inadequate; digital privacy becomes concern with social media data collection; compliance burdens increase for formal media while informal digital producers operate in gray zone.
+
+__Impunity & Unredressed Wrong:__ Journalist murders continue, particularly in Mexico and Honduras, with impunity rates above 90%; historical memory of authoritarian-era crimes receives continued broadcast attention (Argentina trials, Brazil truth commission) but contemporary crimes go unpunished; the justice gap widens in conflict zones.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Platform studies and digital humanities emerge as fields; Latin American communication scholarship engages global debates on convergence and participation; critical data studies begin examining algorithmic power; the theoretical frame shifts from broadcast-centric to networked.
+
+__Applied Knowledge & Technical Method:__ Digital production becomes standard; social media management professionalizes; data journalism emerges; audience analytics sophisticate with digital measurement; the craft of journalism adapts to real-time digital environment.
+
+__Education, Knowledge Stock & Skill Distribution:__ Digital literacy programs expand; journalism education incorporates multimedia skills; the skill gap between digital natives and broadcast veterans creates generational tension in newsrooms; formal knowledge stock grows but practical digital skills distribute unevenly.
+
+__Obsolescence & Knowledge Decay:__ Analog broadcast skills become obsolete; print journalism craft transfers imperfectly to digital; the tacit knowledge of broadcast gatekeeping loses relevance as algorithms mediate distribution; generational turnover accelerates knowledge displacement.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ National identities persist through broadcast but acquire digital supplements; the 2014 World Cup in Brazil generates massive broadcast and social media engagement reinforcing national identity; indigenous and Afro-descendant digital presence diversifies identity narratives beyond broadcast defaults.
+
+__Legitimating Narrative & Ideology:__ The Pink Tide narrative of redistribution and sovereignty faces conservative counter-narratives amplified through broadcast and social media; market liberalism returns as challenger; the ideological field fragments as social media enables micro-targeting.
+
+__Artistic Expression & Material Culture:__ Telenovela production continues at scale but faces quality television competition (Brazilian series gain prestige); YouTube enables amateur production; music video and streaming reshape musical culture; the visual economy diversifies beyond broadcast aesthetic control.
+
+__Form Exhaustion & Meaning Decay:__ Traditional telenovela formats exhaust further as audiences fragment; reality television formats proliferate and exhaust; meme culture emerges with its own rapid cycle of meaning creation and exhaustion; the refresh rate of cultural forms accelerates beyond broadcast production cycles.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Evangelical Christianity continues expanding, now with substantial digital presence; secular orientations strengthen in urban middle classes; prosperity theology adapts to economic optimism; existential anxiety about digital surveillance and information overload emerges as new concern.
+
+__Ritual, Devotion & Sacred Practice:__ Religious broadcasting expands on digital platforms; online prayer and virtual community supplement physical congregation; pilgrimage events (Aparecida, Guadalupe) receive broadcast and social media coverage; the sacred is increasingly mediated digitally.
+
+__Religious Institutions & Doctrinal Authority:__ The Igreja Universal maintains Record TV empire; Catholic Church adapts to social media with Pope Francis (2013) Twitter presence; evangelical political mobilization intensifies with broadcast and digital amplification; doctrinal authority fragments further across denominations and platforms.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical conversion campaigns use broadcast and digital tools; Afro-Brazilian and indigenous traditions maintain presence through community media and social networks; spiritual marketplace expands as digital access enables exploration beyond geographic religious monopolies.
+
+__Disenchantment & Sacred Discharge:__ Consumer digital culture competes with sacred frameworks for attention and meaning; younger cohorts show declining religious affiliation though spiritual seeking persists; the sacred is neither fully re-anchored nor fully discharged but distributes across secular and religious digital spaces, with broadcast religion persisting for older cohorts while youth seek meaning through platforms that offer community without cosmology.

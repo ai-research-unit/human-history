@@ -1,69 +1,140 @@
-# __1300 CE – 1600 CE__ — Post-Mongol Fragmentation and Successor States
-__Summary:__ The unified Mongol world-system dissolves into competing successor khanates across the Eurasian steppe, with the Golden Horde fragmenting in the west while Timurid and Shaybanid powers contend in Central Asia and new Kazakh and Crimean polities crystallize; the binding constraint is the inability of any post-Chinggisid lineage to reconsolidate universal steppe hegemony; the system retains substantial pastoral surplus but political authority remains chronically contested; the trend runs from imperial dissolution toward stabilized regional khanates claiming Genghisid legitimacy.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The steppe corridor remains the low-friction highway linking Pontic grasslands through Central Asia to Mongolia; the Urals pose minimal barrier while the Caucasus, Tian Shan, and Altai define southern and eastern edges; river systems (Volga, Ural, Syr Darya, Amu Darya) provide water and seasonal congregation points.<br><br>
-__Climate Regime & Volatility:__ Continental extremes continue with cold winters and hot summers; the Little Ice Age onset (~1300s onward) brings cooler, more variable conditions with increased drought frequency in Central Asia; pasture productivity declines modestly, tightening pastoral margins.<br><br>
-__Hazard Regime & Exposure:__ Drought and dzud (severe winter conditions killing livestock) remain the primary hazards; the Black Death sweeps westward (1340s–1350s) devastating Golden Horde populations and trade cities; seismic risk in the Tian Shan zone persists.<br><br>
-__Resource & Energy Endowment:__ Grassland biomass remains the fundamental energy base; iron deposits in the Urals and Central Asian mountains supply metalworking; salt sources along the lower Volga and Caspian sustain trade; timber scarce on open steppe but available in forest-steppe margins.<br><br>
-__Waste Absorption & Sink Capacity:__ Nomadic dispersal ensures negligible waste accumulation on grasslands; urban centers like Sarai, Samarkand, and Bukhara concentrate refuse but absorptive capacity remains adequate given modest populations.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ The Black Death (1340s–1350s) devastates the western steppe and trade cities, killing perhaps one-third of Golden Horde populations; endemic diseases (smallpox, typhus) persist; mortality elevated then stabilizing by 1400s as survivors repopulate.<br><br>
-__Nutrition & Physiological Vitality:__ Pastoral diet of meat, milk products, and limited grains sustains robust physiology for mobile populations; urban and oasis populations more varied but vulnerable to siege and trade disruption; nutritional status generally adequate outside crisis periods.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny continues among elites; levirate marriage maintains lineage continuity; high fertility offsets high child mortality; post-plague recovery shows demographic rebound capacity.<br><br>
-__Demographic Renewal & Density:__ Sharp population decline mid-14th century from plague and Timurid devastation; gradual recovery through 15th–16th centuries; density remains low on open steppe (~1 person per several square kilometers) with higher concentrations in oasis cities.<br><br>
-__Attrition & Dependency Overhang:__ War, plague, and Timurid massacres create waves of widows and orphans; pastoral kinship structures absorb most dependents through levirate and clan redistribution; dependency load manageable within kinship frameworks.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mobile pastoralism of horses, sheep, cattle, and camels remains the subsistence base; seasonal transhumance between winter and summer pastures; oasis agriculture in Transoxiana and riverine zones supplements with grain and fruit.<br><br>
-__Energy Capture & Conversion:__ Horse and camel muscle power dominates transport and warfare; livestock convert grassland biomass to usable energy; limited water mills in oasis cities; charcoal and dung fuel metallurgy and heating.<br><br>
-__Labor Organization & Coercion:__ Pastoral labor organized through kinship and tribal units; slave raiding (especially by Crimean Khanate into Slavic lands) provides servile labor for households and export; Timurid and Shaybanid states employ corvée for irrigation and construction.<br><br>
-__Production & Surplus Capacity:__ Pastoral surplus in livestock, hides, and wool remains substantial; Timurid Samarkand sees architectural and craft florescence; Transoxianan textiles, metalwork, and ceramics maintain quality but trade networks contract from Mongol-era peak.<br><br>
-__Storage, Reserves & Buffering:__ Livestock-on-the-hoof serves as mobile reserve; grain storage in oasis cities; treasury accumulation by khanates allows campaigning but reserves vulnerable to succession crises and warfare; buffering against multi-year drought marginal.<br><br>
-__Exchange, Trade & Logistics:__ Silk Road trade continues but volume declines from Mongol-era peak; maritime routes increasingly competitive; caravan routes through Crimea, Volga, and Central Asia persist; fairs at Sarai, Astrakhan, Kazan serve regional exchange.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver and gold coinage circulates in urban centers; livestock serves as store of value for nomads; credit networks through Islamic merchants and Jewish traders; tribute and gift-exchange relationships structure inter-polity transfers.<br><br>
-__Surplus Extraction & Redistribution:__ Khanate treasuries extract tribute from subject peoples and trade tolls; redistributive feasting maintains elite coalitions; Islamic taxation (zakat, kharaj) in Islamized khanates; extraction load varies with khanate stability.<br><br>
-__Wealth Distribution & Asset Defense:__ Genghisid lineages and tribal aristocracies concentrate wealth in herds, slaves, and trade profits; raiding redistributes wealth across polities; succession conflicts frequently disperse accumulated treasuries.<br><br>
-__Byproducts & Waste Routing:__ Pastoral waste (dung, bones, hides) recycled as fuel, tools, and construction material; urban craft waste manageable; no significant pollution pressure.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Clan and tribal solidarity remains the primary trust radius; hospitality obligations (guest right) structure inter-group relations; trust erodes across khanate boundaries during succession conflicts but recovers in stable periods.<br><br>
-__Stratification, Status & Group Identity:__ Genghisid descent remains the supreme status marker for legitimate rule; non-Genghisid commanders (beys, emirs) hold military power but cannot claim khanship; tribal identities (Uzbek, Kazakh, Nogai, Tatar) crystallize as khanates fragment; slave and subject populations form bottom strata.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent organizes identity and property; inheritance partible among sons with senior son preferment contested; clan exogamy with bride-price; women retain property rights over dowry and herds.<br><br>
-__Civic Association & Self-Organization:__ Urban guilds in Samarkand, Bukhara, Kazan organize craftsmen; Sufi brotherhoods (Naqshbandiyya especially) provide trans-tribal networks; tribal assemblies (kurultai) persist for major decisions but authority weakens.<br><br>
-__Leisure, Play & Sociability:__ Horse racing, wrestling, falconry, and archery contests remain prestige activities; epic recitation (Manas, Alpamysh traditions) at feasts; communal celebrations at seasonal transitions and military victories.<br><br>
-__Grievance Channels & Social Discharge:__ Blood feud persists but moderated by Islamic law in Islamized areas and by khan arbitration; migration to rival khanates provides exit option; succession conflicts channel elite grievances violently.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Fragmented into competing khanates: Golden Horde splintering into Kazan, Astrakhan, Crimean, and Siberian khanates; Timurid then Shaybanid rule in Transoxiana; Kazakh Khanate emerges ~1465; authority contested and decentralizing throughout.<br><br>
-__Succession & Power Transfer:__ Genghisid descent required for khanship but succession violently contested among eligible claimants; no clear primogeniture; assassination, exile, and civil war routine; instability chronic.<br><br>
-__Legitimacy & Political Narrative:__ Genghisid blood remains the paramount legitimating principle; Islamic authority supplements in Islamized khanates; Timur claimed legitimacy through Genghisid puppet khans and military prowess; legitimacy narratives contested across rival lineages.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity declines from Mongol-era peak; tribal and clan leaders mediate between khan and population; tax collection irregular; record-keeping in Mongol script and Arabic in Islamic centers but capacity limited.<br><br>
-__Political Participation & Mobilization:__ Kurultai assemblies formally select khans but increasingly ceremonial; tribal leaders bargain support for privileges; common pastoralists participate through tribal structures; urban populations subject to appointed governors.<br><br>
-__Geopolitical Position & External Relations:__ Golden Horde successor states face rising Muscovite power; Crimean Khanate allies with Ottoman Empire; Shaybanids contest Safavid Persia; Ming China withdraws from steppe engagement; balance shifting against steppe polities by 1600.<br><br>
-__Coercive Apparatus & Means of Force:__ Cavalry armies with composite bow remain core; gunpowder weapons increasingly acquired from sedentary neighbors but adoption slower than in Russia, Persia, or Ottoman Empire; fortress construction in border zones.<br><br>
-__Internal Order & Threat Environment:__ Inter-khanate raiding endemic; succession conflicts generate banditry and displacement; slave raiding into sedentary lands (Crimean Tatars into Russia, Poland, Ukraine) organized and persistent; internal order depends on khan's personal authority.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mounted couriers remain fastest information carriers; messenger networks (yam system) deteriorate from Mongol peak but persist within khanates; market intelligence travels with caravans; oral networks dominate.<br><br>
-__Record, Storage & Persistence:__ Despite Mongol script tradition and Islamic literate culture in urban centers, the majority of steppe populations remain oral; genealogies, laws, and epics transmitted through memorization and recitation; written records limited to khanate chancelleries and Islamic scholarly networks; persistence depends on living memory and oral transmission.<br><br>
-__Framing, Censorship & Discourse Norms:__ Genghisid descent narratives frame political discourse; Islamic scholarly discourse shapes urban centers; oral epic traditions glorify martial valor; censorship minimal but deviant genealogical claims dangerous.<br><br>
-__Reception, Attention & Amplification:__ Oral recitation at feasts and assemblies amplifies key narratives; bazaar gossip spreads news in trade cities; attention concentrated on succession politics and raiding opportunities.<br><br>
-__Signal Integrity & Noise Load:__ Competing genealogical claims and legitimacy narratives create noise; oral transmission vulnerable to drift but redundancy across multiple transmitters maintains core content; verification through multiple witnesses and lineage experts.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor, kinship obligation, and hospitality form moral bedrock; Islamic ethical frameworks shape Islamized populations; Genghisid yasa (law code) retains prestige though observance uneven.<br><br>
-__Law, Codification & Regulatory Evolution:__ Yasa tradition persists as customary law; Islamic sharia applies in Islamized khanates especially for urban populations; tribal customary law (adat) governs many disputes; codification limited and oral transmission predominates.<br><br>
-__Adjudication, Enforcement & Liability:__ Khan and tribal elders arbitrate major disputes; Islamic qadis in urban centers; blood-price (compensation) settlements preferred over execution for many offenses; enforcement depends on kinship pressure and khan's authority.<br><br>
-__Rights, Protections & Compliance Burden:__ Subjects owe tribute and military service; travelers protected by guest right; Islamic legal protections in Islamized areas; compliance burden moderate for nomadic populations, heavier near trade routes due to tolls.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lineages often escape justice; succession conflicts create impunity windows; cross-khanate wrongs difficult to redress; blood feud provides alternative justice but can escalate; significant impunity gap persists.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Islamic scholarship in Samarkand, Bukhara, Kazan continues astronomical, mathematical, and theological inquiry; Ulugh Beg's observatory (~1420s–1440s) represents high point; steppe populations retain practical knowledge without formal theory.<br><br>
-__Applied Knowledge & Technical Method:__ Pastoral techniques (animal husbandry, seasonal migration, veterinary practice) refined through generations; metallurgy, leather-working, and textile production maintain high quality; irrigation engineering in oasis zones.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Madrasas in urban centers train Islamic scholars and administrators; oral transmission of pastoral, martial, and epic knowledge on steppe; literacy concentrated in urban elite and Islamic scholarly class; majority remain non-literate.<br><br>
-__Obsolescence & Knowledge Decay:__ Mongol-era administrative knowledge decays as unified system fragments; some astronomical and mathematical knowledge preserved in Timurid centers; practical pastoral knowledge stable; written archives vulnerable to conquest and destruction.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Genghisid origin narratives remain foundational; Secret History tradition preserved orally; tribal origin myths and genealogies structure identity; Islamic sacred history shapes Islamized populations.<br><br>
-__Artistic Expression & Material Culture:__ Timurid architecture (Samarkand, Herat) reaches heights of Islamic art; steppe material culture continues in textiles, metalwork, horse equipment; animal style motifs persist in modified forms; manuscript illumination in urban centers.<br><br>
-__Collective Mood & Behavioral Disposition:__ Nostalgia for Mongol-era unity coexists with pragmatic adaptation to fragmentation; martial valor and raiding success remain prestige markers; Islamic piety shapes urban populations; mood varies with khanate fortunes.<br><br>
-__Form Exhaustion & Meaning Decay:__ Genghisid legitimacy increasingly hollow as actual power fragments; Mongol administrative forms persist without substance; kurultai becomes ritual; new Uzbek and Kazakh identities emerging to replace exhausted imperial frames.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islam predominates in western and Central Asian steppe by this period; Sunni Islam in Golden Horde successors and Shaybanid realms; Tibetan Buddhism spreads among eastern Mongols (late 16th century); shamanic practices persist in syncretic forms.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Islamic prayer, fasting, and pilgrimage observed in Islamized areas; Sufi dhikr and shrine visitation widespread; shamanic rituals for healing and divination persist alongside Islamic practice; seasonal pastoral rituals continue.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Ulama and Sufi shaykhs hold authority in Islamized regions; madrasas train religious scholars; Naqshbandiyya order politically influential in Transoxiana; no unified doctrinal authority across fragmented khanates.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam continues spreading among Kazakh and remaining non-Muslim steppe populations; Sufi orders facilitate conversion; syncretic blending of Islamic and shamanic practice common; Tibetan Buddhism begins Mongolian penetration (late period).<br><br>
-__Disenchantment & Sacred Discharge:__ Little evidence of disenchantment; religious frameworks remain vital; succession violence and political fragmentation not attributed to sacred failure; spiritual need adequately served by available traditions.<br><br>
+# __1,300 CE – 1,600 CE__ — Post-Mongol Fragmentation and Successor States
+
+__Summary:__ Across the three centuries following the Mongol Empire's apex, the Eurasian Steppe fractures into rival successor khanates — Golden Horde, Chagatai, and their offshoots — each competing for pasture, trade routes, and the legitimacy of Chinggisid descent, while Timurid conquests briefly reunify Central Asia before dissolving in turn. The binding constraint of oral culture shapes the entire era: genealogical memory, the yasa, and the political poetry that validates rulership pass through speech, remembered by bards and counselors; administrative literacy borrowed from subject scribes serves narrow elite needs but cannot penetrate a mobile, dispersed population that remains governed by voice. The most causal factor is the tension between fragmentation's centrifugal pull — each successor lineage asserting autonomy through oral claims to Chinggisid legitimacy — and the brief centripetal force of Timur's conquest, which itself relies on oral charisma rather than bureaucratic consolidation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The steppe corridor from the Volga to Mongolia remains the theatre of movement, but the unified Mongol postal network (yam) degrades as successor khanates cease coordination; crossing khanate boundaries now imposes tolls, insecurity, and diplomatic friction unknown under imperial unity.
+
+__Climate Regime & Volatility:__ The Medieval Climate Anomaly yields to the onset of the Little Ice Age after roughly 1300 CE; cooler, more variable conditions reduce pasture reliability, tighten the margin for herd survival, and intensify competition for favorable wintering grounds along river valleys.
+
+__Hazard Regime & Exposure:__ Dzud (severe winter conditions killing livestock), drought, and epizootic disease remain the chief acute hazards; the fragmented polities have less capacity to redistribute grain or animals across regions than the unified empire did.
+
+__Resource & Energy Endowment:__ Grassland remains abundant, but the Silk Road's overland trade declines as maritime routes via the Indian Ocean gain share; the steppe loses the transit revenue that once supplemented pastoral subsistence.
+
+__Waste Absorption & Sink Capacity:__ Nomadic mobility continues to disperse human and animal waste across vast territory; no accumulation crisis occurs, and the landscape absorbs the effluent without degradation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The Black Death, which devastated sedentary Eurasia after 1346 CE, also depopulates the western steppe; the Golden Horde suffers severe losses, weakening its military manpower and its hold over Russian tributaries.
+
+__Nutrition & Physiological Vitality:__ Pastoral diet — meat, milk, blood, fermented dairy — sustains robust physiology where herds thrive; in zones of herd loss or displacement, nutritional stress rises sharply.
+
+__Care, Healing & Recovery Capacity:__ Folk medicine, bone-setting, and shamanistic healing persist; no institutional medical capacity exists beyond household and kin-network care.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny among elites inflates numbers of Chinggisid descendants competing for authority; commoner households remain monogamous or modestly polygynous depending on herd wealth.
+
+__Demographic Renewal & Density:__ Population remains low-density and mobile; plague losses in the west are partially offset by continued fertility in unaffected eastern regions, but overall manpower never recovers to pre-plague levels in the Golden Horde.
+
+__Attrition & Dependency Overhang:__ Warfare among successor khanates, raiding, and slave-taking produce widows, orphans, and captives absorbed into victors' households; the pastoral economy's labor demand absorbs dependents as herders.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Pastoral production — horses, sheep, cattle, camels — remains the subsistence base; grain is obtained through tribute, trade, or raiding from sedentary neighbors.
+
+__Energy Capture & Conversion:__ Animal muscle and dried dung fuel remain the energy portfolio; no significant change from earlier periods.
+
+__Labor Organization & Coercion:__ Slavery persists; captives from raids on sedentary populations and defeated nomadic groups supply domestic and herding labor; a slave's status can improve through assimilation over generations.
+
+__Production & Surplus Capacity:__ Surplus consists of herd increase, hides, wool, and felt; the scale of surplus depends on herd losses to climate, disease, and warfare — all elevated under fragmentation.
+
+__Storage, Reserves & Buffering:__ Herds themselves serve as mobile reserves; granaries and treasuries exist only where khanates control sedentary tributary cities.
+
+__Exchange, Trade & Logistics:__ Silk Road caravan trade continues but diminishes; the fragmentation of political authority raises protection costs and invites banditry; maritime alternatives siphon long-distance commerce.
+
+__Value Storage, Credit & Deferred Exchange:__ Livestock and tribute goods (silver, textiles) serve as value storage; coinage circulates only in urbanized oasis zones controlled by successor khanates; pastoral economy relies on deferred reciprocity and bride-price obligations.
+
+__Surplus Extraction & Redistribution:__ Tribute from Russian principalities (the Golden Horde), oasis cities (Chagatai, Timurids), and sedentary populations supports the khanates' military capacity; extraction is irregular, varying with the khan's ability to enforce collection.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in ruling lineages and their retinues; herd theft and raiding redistribute assets violently among competing factions.
+
+__Byproducts & Waste Routing:__ Animal carcasses, bone, and dung are recycled or left to the steppe's scavengers; no accumulating waste problem exists.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Chinggisid descent remains the supreme legitimating principle; only descendants of Genghis Khan may hold the title khan, while non-Chinggisids who aspire to rule (like Timur) must govern through puppet khans or adopt the lesser title emir.
+
+__Association & Mutual Aid:__ Tribal and clan structures persist below the khanate level; mutual aid in herding, raiding, and defense organizes daily life; loyalty to a tribal leader mediates loyalty to the khan.
+
+__Leisure, Play & Sociability:__ Feasting, mounted games (precursors to buzkashi and kokpar), archery contests, and epic recitation mark communal gatherings; these reinforce warrior identity and alliance bonds.
+
+__Stratification, Status & Group Structure:__ A sharp distinction separates the Chinggisid aristocracy (altan urug, the golden lineage) from commoner nomads and from sedentary subjects; warriors rank above herders; slaves occupy the lowest tier.
+
+__Administrative Capacity & Institutional Integrity:__ The unified Mongol administration (secretariat, postal system, decimal military organization) disintegrates; each successor khanate maintains a court with scribes (often Persian- or Uyghur-literate), but bureaucratic reach is shallow, and oral command from the khan remains the operative mode of governance.
+
+__Coercive Apparatus & Means of Force:__ Horse-archer cavalry remains the dominant military technology; the decimal organization of tumens persists in name but loses coordination across khanate boundaries; firearms begin to appear in the hands of sedentary neighbors but have not yet transformed steppe warfare.
+
+__Discharge, Disorder & Decay:__ Succession wars are endemic; the multiplicity of Chinggisid claimants and the absence of fixed succession rules produce chronic civil conflict; the Golden Horde fragments into the Kazan, Astrakhan, Crimean, and Siberian khanates; the Chagatai Khanate splits into Moghulistan and Transoxiana; disorder is contained only temporarily by strong rulers before recurring.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Warrior honor, loyalty to lineage, and revenge obligations dominate the emotional register; confidence rides with military success and collapses with defeat; no settled public sentiment exists apart from immediate allegiance to a leader.
+
+__Leadership & Personal Authority:__ Charismatic leadership is paramount; Timur exemplifies the model — personal prowess, strategic brilliance, and terror — but his empire does not survive his personality because it rests on oral allegiance rather than institutional structure.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy flows from Chinggisid blood and from victory; a khan who loses battles loses followers; Timur, lacking Chinggisid descent, never takes the title khan and rules through puppets, revealing the constraint.
+
+__Political Will & Collective Resolve:__ The will to conquer surges under Timur but fragments among his successors; no durable collective will sustains any khanate beyond one or two strong rulers.
+
+__External Relations & Posture:__ Successor khanates raid and extract tribute from sedentary neighbors (Russia, Persia, China's Ming dynasty) but lack the unified force to conquer them as the Mongol Empire did; relations oscillate between raiding, tribute-taking, and trade.
+
+__Disaffection, Apathy & Spent Will:__ After Timur's death (1405 CE), exhaustion from decades of warfare produces a contraction of ambition; successor Timurids turn inward to patronage and culture (Herat, Samarkand) rather than conquest; the steppe's political energy dissipates into localism.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Turkic and Mongolic languages dominate; the population is overwhelmingly monolingual and illiterate; interpreters mediate contact with sedentary literate cultures.
+
+__Channels & Transmission Velocity:__ The Mongol yam postal system degrades; messengers still ride fast, but coordination across khanate boundaries slows; rumor and oral report carry political information.
+
+__Record, Storage & Persistence:__ Administrative records exist in Persian and Uyghur script at court, but these are elite instruments; the mass of law (yasa), genealogy, and political memory persists through oral recitation by specialists — bards (akyn, jyrau), counselors, and elder witnesses.
+
+__Framing, Censorship & Discourse Norms:__ Praise poetry and genealogical recitation are obligatory at court; to speak the khan's lineage is to validate his rule; rival genealogies support rival claimants; censorship consists of silencing or killing the poets of defeated factions.
+
+__Reception, Attention & Amplification:__ Gatherings — kurultai, feasts, camps — serve as amplification nodes; news and narrative spread through the movement of herders, traders, and envoys.
+
+__Signal Integrity & Noise Load:__ Without fixed records accessible to the public, competing oral accounts proliferate; legitimacy disputes hinge on whose genealogical memory is accepted; noise is high, and verification depends on the reputation of the reciter.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The yasa of Genghis Khan remains the nominal moral code, transmitted orally and invoked to justify punishments; but its application varies by ruler; beneath it, customary tribal law (adat) governs daily disputes.
+
+__Law, Codification & Regulatory Evolution:__ No new codification occurs; the yasa is remembered, not written for public reference; Islamic sharia spreads among the western khanates but coexists with customary law rather than replacing it.
+
+__Adjudication, Liability & Sanction:__ The khan or his deputies adjudicate major disputes; tribal elders handle local matters; sanctions include death, mutilation, enslavement, and property seizure; the harshness of punishment reflects warrior-society values.
+
+__Rights, Protections & Compliance Burden:__ No concept of individual rights exists apart from status protections for the aristocracy; commoners and slaves are subject to the will of their superiors; compliance burden is low in daily life but absolute when the khan commands.
+
+__Impunity & Unredressed Wrong:__ The powerful enjoy near-total impunity; succession wars produce cycles of vengeance and counter-vengeance; wrongs against commoners by elites go unredressed unless they threaten the social order.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Intellectual life is thin on the steppe itself; the Timurid courts at Samarkand and Herat become centers of Persian-Islamic learning (astronomy, mathematics, poetry), but this is a sedentary court phenomenon, not a steppe one.
+
+__Applied Knowledge & Technical Method:__ Metallurgy, leatherwork, felt-making, and animal husbandry techniques persist unchanged; the composite bow remains the premier technology; no significant innovation occurs.
+
+__Education, Knowledge Stock & Skill Distribution:__ Skill transmission is oral and apprenticeship-based; boys learn herding, riding, archery, and raiding from kin; literacy is confined to scribes serving courts; the population remains unlettered.
+
+__Obsolescence & Knowledge Decay:__ No major knowledge loss occurs beyond the degradation of the Mongol administrative system; craft skills persist within kin networks.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The memory of Genghis Khan and the Mongol conquests defines identity; descent from the conqueror is the supreme badge of prestige; oral epics celebrate the Mongol past and legitimize successor claims.
+
+__Legitimating Narrative & Ideology:__ Chinggisid ideology — the mandate of Eternal Blue Heaven (Tengri) granted to Genghis Khan's lineage — persists as the legitimating framework; Timur, lacking the blood, must construct alternative narratives (Islamic ghazi, restorer of order) while still ruling through Chinggisid puppets.
+
+__Artistic Expression & Material Culture:__ Portable arts flourish: gold and silver metalwork, embroidered textiles, carved bone and horn, felt applique; the Timurid courts produce monumental architecture (Registan, Gur-e-Amir), but this is sedentary patronage, not steppe production.
+
+__Form Exhaustion & Meaning Decay:__ The Chinggisid ideology retains potency but strains under fragmentation; as khanates multiply, the claim to be the true successor loses force through dilution; the unifying myth persists but no longer unifies.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Tengrism (worship of Eternal Blue Heaven) persists among the eastern Mongols; Islam spreads among the Golden Horde and Chagatai Khanate elites, becoming dominant in the western steppe by 1400 CE; Buddhism makes inroads among the eastern Mongols by the 16th century.
+
+__Ritual, Devotion & Sacred Practice:__ Shamanistic practices (sky worship, ancestor veneration, animal sacrifice) continue alongside Islamic prayer and pilgrimage; conversion is often nominal, and syncretic blending is common.
+
+__Religious Institutions & Doctrinal Authority:__ Sufi orders (especially Naqshbandiyya) establish lodges in Central Asia and spread Islam through charismatic preachers; no centralized clerical hierarchy controls the steppe; the ulama serve courts but do not govern the pastoral population.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam displaces Tengrism among western steppe elites but coexists with shamanism among commoners; the religious frontier shifts eastward; full Islamization of the Kazakh steppe occurs only gradually over subsequent centuries.
+
+__Disenchantment & Sacred Discharge:__ No secular disenchantment occurs; the sacred remains potent; the main residue is the incomplete integration of Islamic and shamanic cosmologies, producing a syncretic spirituality that satisfies popular need without doctrinal coherence.
+

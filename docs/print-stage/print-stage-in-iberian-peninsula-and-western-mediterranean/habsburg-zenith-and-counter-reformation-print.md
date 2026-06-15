@@ -1,69 +1,139 @@
-# __1500 CE – 1598 CE__ — Habsburg Zenith and Counter-Reformation Print
-__Summary:__ Spain under Charles V and Philip II commands a global empire while the Counter-Reformation shapes print culture through Inquisition censorship and the Index of Forbidden Books. The binding constraint is the tension between imperial overreach across multiple theaters and the ideological control required to maintain Catholic orthodoxy in the print age. The system holds substantial fiscal and military reserves but expends them continuously; the trajectory is toward administrative consolidation and cultural flowering under tightening religious surveillance.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Iberian Peninsula's mountainous interior fragments overland movement while Atlantic and Mediterranean coasts enable maritime projection; the meseta's aridity limits agricultural density but Castilian ports at Seville and Cadiz channel American silver.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate prevails with hot dry summers and mild wet winters; interannual rainfall variability stresses grain yields periodically, though no secular trend dominates the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk along Mediterranean coasts; periodic droughts stress the interior; flood hazards on major rivers remain within historical norms; exposure is moderate with settlement patterns adapted to known risks.<br><br>
-__Resource & Energy Endowment:__ American silver flows through Seville's Casa de Contratacion; Iberian iron, wool, and timber support armaments and shipbuilding; the colonial resource stream is vast but transits rather than accumulates domestically.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban waste concentrates in Madrid, Seville, and Lisbon without overwhelming local absorption; mining effluent in New World colonies externalizes the heaviest extraction costs; peninsular sinks remain well within capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic typhus, plague recurrences, and malaria in coastal lowlands maintain elevated urban mortality; epidemic outbreaks punctuate the window but do not reach catastrophic proportions until the 1590s plague.<br><br>
-__Nutrition & Physiological Vitality:__ Grain, wine, and olive oil sustain the population; nutritional status adequate for majority though urban poor and military levies face periodic deficiency; stature stable without marked improvement.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Late marriage ages in Castile limit fertility rates; Church marriage norms enforced; biological fertility is adequate though constrained by economic preconditions for household formation.<br><br>
-__Demographic Renewal & Density:__ Population grows from approximately 6.5 million in 1500 to 8 million by 1590 in Castile; density low on the meseta, higher in coastal zones; emigration to Americas and military losses partially offset growth.<br><br>
-__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans accumulate; charitable institutions absorb some load; monasteries and hospitals provide refuge; the productive base sustains the burden without systemic strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain cultivation on the meseta, supplemented by pastoral transhumance via the Mesta; household economies buffer scarcity through diversification; provisioning floor is stable but vulnerable to drought sequences.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominate; water mills on Castilian rivers; wind power for maritime transport; per-capita work ceiling rises marginally with colonial wealth but productive technology stagnates.<br><br>
-__Labor Organization & Coercion:__ Free peasantry predominates in Castile; serfdom persists in Aragon; guild structures control urban crafts; colonial labor regimes rely on encomienda and African slavery; coercion moderate domestically, severe in colonies.<br><br>
-__Production & Surplus Capacity:__ Wool exports to Flanders, wine and oil to northern Europe generate surplus; manufacturing capacity limited as raw materials flow outward; surplus adequate but increasingly captured by military and debt servicing.<br><br>
-__Storage, Reserves & Buffering:__ Royal treasury dependent on silver fleets; asientos with Genoese bankers provide short-term credit; granary reserves thin; the system operates with minimal stockpile depth against disruption.<br><br>
-__Exchange, Trade & Logistics:__ Seville monopolizes Atlantic trade; internal customs barriers persist; road network poor; maritime logistics well-developed for imperial coordination; exchange velocity constrained by infrastructure.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coinage circulates widely; Genoese credit networks fund imperial campaigns; juros (government bonds) absorb domestic savings; debasement avoided until late century; credit system strained by perpetual deficit.<br><br>
-__Surplus Extraction & Redistribution:__ Crown extracts via alcabala sales tax, American treasure, and ecclesiastical contributions; military and debt service consume the majority; redistribution minimal beyond royal patronage and Church charity.<br><br>
-__Wealth Distribution & Asset Defense:__ Grandee nobility holds vast entailed estates; converso merchants accumulate movable wealth under Inquisition scrutiny; concentration high and stable; asset defense via mayorazgo entail and aristocratic privilege.<br><br>
-__Byproducts & Waste Routing:__ Wool processing and tanning generate urban effluent; mining wastes externalized to American sites; domestic waste loads modest relative to absorption capacity; recycling minimal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Confraternity networks provide mutual aid; trust extends within religious and kinship circles; converso and morisco populations face suspicion limiting cross-group trust; radius stable but sectarian lines sharp.<br><br>
-__Stratification, Status & Group Identity:__ Limpieza de sangre statutes rigidify boundaries between Old Christians and converso/morisco populations; nobility, clergy, commons hierarchy entrenched; stratification hardening under Counter-Reformation pressures.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent; partible inheritance in Castile concentrates property through mayorazgo; marriage alliances cement aristocratic networks; family structures stable and Church-regulated.<br><br>
-__Civic Association & Self-Organization:__ Guilds control urban crafts; confraternities organize devotional and charitable activity; municipal councils retain local autonomy; associational fabric thick but subordinated to Crown and Church.<br><br>
-__Leisure, Play & Sociability:__ Fiestas, bullfights, and religious processions structure public leisure; corrales de comedias emerge as theatrical venues; sociability intense within confessional boundaries.<br><br>
-__Grievance Channels & Social Discharge:__ Religious charity absorbs some poverty; Inquisition provides outlet for denunciation; limited formal channels for popular grievance; residual tensions accumulate among marginalized populations.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Habsburg monarchs hold composite sovereignty over Castile, Aragon, Naples, Netherlands, and American territories; power centralizing under Philip II's conciliar system; Escorial as administrative hub.<br><br>
-__Succession & Power Transfer:__ Dynastic inheritance governs succession; Charles V's abdication 1556 orderly; Philip II's succession secure; system routinized within Habsburg patrimonial framework.<br><br>
-__Legitimacy & Political Narrative:__ Catholic Monarchy narrative positions Spain as defender of faith against Protestantism, Islam, and heresy; universal monarchy ideology underpins imperial claims; legitimacy high among Old Christian population.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Councils of State, Castile, Indies, and Inquisition coordinate governance; letrado bureaucrats staff administration; capacity substantial though correspondence delays impair responsiveness; corruption moderate.<br><br>
-__Political Participation & Mobilization:__ Cortes of Castile approves taxation but influence waning; urban revolts (comuneros 1520) suppressed; political participation narrowing to aristocratic and clerical elites; dissent channels closing.<br><br>
-__Geopolitical Position & External Relations:__ Spain dominant in Western Europe; rivalry with France, Ottoman Empire, and Dutch rebels; Treaty of Cateau-Cambresis 1559 confirms Italian hegemony; Armada defeat 1588 checks but does not end maritime ambition.<br><br>
-__Coercive Apparatus & Means of Force:__ Tercios constitute premier infantry; Mediterranean galley fleet; Atlantic armadas; fortification networks in Italy and Netherlands; force projection capacity high though financially strained.<br><br>
-__Internal Order & Threat Environment:__ Morisco population under surveillance; banditry in peripheral regions; Inquisition enforces religious conformity; internal order maintained through surveillance and coercion; disorder within capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print established in major cities; royal post system connects Madrid to viceregal capitals; handwritten avisos circulate news; transmission velocity measured in weeks for transatlantic, days for peninsular routes.<br><br>
-__Record, Storage & Persistence:__ Archive of Simancas centralizes royal records; Inquisition maintains extensive documentation; ecclesiastical and notarial archives dense; record persistence high for official documentation.<br><br>
-__Framing, Censorship & Discourse Norms:__ Index of Forbidden Books (Spanish Index 1559) controls printed matter; pre-publication licensing required; Inquisition prosecutes heterodox texts; permitted discourse narrowing around Catholic orthodoxy.<br><br>
-__Reception, Attention & Amplification:__ Literate minority (clergy, nobility, bureaucrats) constitute primary reading public; oral transmission amplifies printed content to broader population; devotional and practical texts achieve widest circulation.<br><br>
-__Signal Integrity & Noise Load:__ Censorship maintains doctrinal signal clarity; clandestine circulation of prohibited texts introduces noise; verification through ecclesiastical authority; information environment controlled but not hermetic.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic natural law underpins moral order; divine justice and salvation frame individual conduct; honor culture shapes interpersonal expectations; justice understood as restoration of sacred order.<br><br>
-__Law, Codification & Regulatory Evolution:__ Castilian law in Nueva Recopilacion (1567); Aragonese fueros persist; Canon law governs marriage and morals; regulatory expansion accompanies administrative consolidation.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal audiencias and chancillerias process civil and criminal cases; Inquisition holds jurisdiction over heresy; enforcement through local officials variable; throughput adequate for caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Subjects hold customary rights varying by jurisdiction; conversos and moriscos face discriminatory statutes; compliance burden high for populations under Inquisition scrutiny; predictability lower for marginalized groups.<br><br>
-__Impunity & Unredressed Wrong:__ Aristocratic privilege shields grandees; Inquisition's secrecy enables denunciation abuse; marginal populations bear disproportionate burden; impunity gap present but not destabilizing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scholastic philosophy dominates universities; Salamanca jurists develop international law (Vitoria, Suarez); humanist philology continues under Counter-Reformation constraints; natural philosophy subordinated to theology.<br><br>
-__Applied Knowledge & Technical Method:__ Navigation and cartography advance for imperial needs; mining techniques imported to Americas; printing technology mature; practical method serves Crown and Church priorities.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities at Salamanca, Alcala train clergy and bureaucrats; Jesuit colleges expand secondary education; literacy low (perhaps 15-20% male); knowledge concentrated in clerical and administrative strata.<br><br>
-__Obsolescence & Knowledge Decay:__ Erasmian humanism suppressed; Protestant scholarship excluded; intellectual narrowing as Counter-Reformation orthodoxy displaces earlier pluralism; loss partially offset by scholastic consolidation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Reconquista memory shapes national identity; Catholic Monarchs as foundational figures; limpieza de sangre ideology anchors collective self-understanding; empire as divine mission.<br><br>
-__Artistic Expression & Material Culture:__ Golden Age literature begins (Lazarillo, Cervantes); Herrerian architecture at Escorial; Italianate influences in painting; printed books disseminate literary works; aesthetic achievement high.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence in imperial mission tempered by apocalyptic anxieties; honor culture intensifies; collective mood triumphalist but darkening after Armada defeat and late-century plagues.<br><br>
-__Form Exhaustion & Meaning Decay:__ Chivalric romance forms exhausted (Cervantes satirizes); Counter-Reformation renews religious symbolism; cultural forms actively renovated rather than decaying; anomie limited.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology dominant; salvation anxiety intensified by Counter-Reformation; fatalism regarding divine providence; secular space minimal; existential outlook oriented toward eternal judgment.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sacramental practice intensified; Corpus Christi processions elaborate; Marian devotion strong; rosary and confraternity devotions structure daily piety; sacred practice pervasive.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Spanish Church wealthy and powerful; Inquisition enforces orthodoxy; Trent decrees implemented; Jesuit order founded (Loyola) and expands; doctrinal authority consolidating and enforced.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestant penetration blocked; moriscos maintain crypto-Islamic practice under pressure; converso crypto-Judaism persecuted; Catholicism aggressively enforced; syncretism suppressed.<br><br>
-__Disenchantment & Sacred Discharge:__ Mystical movements (Teresa of Avila, John of the Cross) channel spiritual intensity; no secularizing drift; sacred saturation high; disenchantment negligible within this window.<br><br>
+# __1500 CE – 1598 CE — Habsburg Zenith and Counter-Reformation Print__
+
+The binding constraint is the tension between an unprecedented imperial reach financed by American silver and the determination to preserve Catholic orthodoxy through censorship, channeling print into Counter-Reformation service while stunting the critical public sphere that print elsewhere enabled.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Iberian Peninsula sits at Europe's southwestern extremity, dominated by the central meseta ringed by peripheral coastal plains and the Pyrenean barrier sealing the land route to France. Within Habsburg dominions, distances stretch from Castile to the Low Countries, Naples, and the Americas, imposing logistical friction that print cannot overcome; couriers and ships remain the transmission substrate, with printed dispatches and books moving along the same routes as bullion and troops.
+
+__Climate Regime & Volatility:__ The Mediterranean-continental climate delivers hot dry summers and cold winters on the meseta, with Atlantic moisture reaching the northwest; periodic droughts stress grain yields, and the 1590s see harvest failures that compound fiscal exhaustion.
+
+__Hazard Regime & Exposure:__ Earthquakes strike the south sporadically; coastal cities face Barbary raids; epidemic plague returns cyclically, devastating Seville in 1597–1602. Exposure to Ottoman naval threat shapes Mediterranean defenses and drains treasure.
+
+__Resource & Energy Endowment:__ Merino wool from the Mesta transhumance and American silver constitute the export base; timber for shipbuilding is overcut; Almaden mercury enables silver amalgamation in the New World. Energy remains human and animal muscle, wind for mills and ships.
+
+__Waste Absorption & Sink Capacity:__ Urban centers like Seville, Madrid, and Barcelona concentrate effluent and refuse; the landscape absorbs deforestation for ship timber; silver mining leaves tailings in the Americas, but Iberia itself sees limited industrial pollution. The physical sink remains ample relative to pre-industrial loads.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague recurs; the late-century epidemic wave (1596–1602) kills hundreds of thousands. Typhus accompanies armies. Infant mortality runs high; life expectancy perhaps 30–35 years. Disease is the persistent reaper, with urban crowding amplifying transmission.
+
+__Nutrition & Physiological Vitality:__ The common diet is grain-based with legumes, olive oil, and wine; meat is seasonal and stratified by class. Periodic dearths depress vitality; the 1590s harvests fail repeatedly, raising mortality and reducing stature in the cohort.
+
+__Care, Healing & Recovery Capacity:__ Hospitals exist in major cities, often Church-run; barber-surgeons and apothecaries treat the urban population. Folk healers persist in rural areas. Capacity is rudimentary by later standards but functions as a safety net for the destitute; plague overwhelms it.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage is sacramental and universal for those who do not enter religious orders; clerical celibacy removes a fraction from reproduction. Fertility is high but offset by mortality; net growth is modest.
+
+__Demographic Renewal & Density:__ Castile's population rises in the early century, perhaps reaching 6–7 million by mid-century, then stagnates and declines late-century with plague and emigration to the Americas. Density is low on the meseta, higher on coasts.
+
+__Attrition & Dependency Overhang:__ War widows, orphans from epidemic, and aged dependents strain communal charity and Church institutions. The dependency load rises as the late-century crises compound, leaving ecclesiastical and municipal poor relief stretched.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Grain cultivation on the meseta and coastal huertas provides the subsistence base; olive oil and wine supplement. Imports from the Baltic fill grain shortfalls. The floor is adequate in good years but brittle when harvests fail.
+
+__Energy Capture & Conversion:__ Muscle, wind, and water remain the energy portfolio; watermills grind grain, windmills pump in the Low Countries territories. Energy per capita is low, gating output.
+
+__Labor Organization & Coercion:__ Agricultural labor mixes free peasants, tenant farmers, and seigneurial obligations; artisan guilds regulate urban trades. Slavery exists in domestic service and galleys; indigenous and African labor is coerced in the Americas, the surplus extracted flowing back as silver.
+
+__Production & Surplus Capacity:__ Wool, textiles, wine, and olive oil generate modest surplus; the Americas provide bullion that bypasses Castilian production, financing imports rather than domestic industry. Manufacturing declines as silver-fueled demand draws in foreign goods.
+
+__Storage, Reserves & Buffering:__ Granaries buffer local shortfalls; the treasury holds bullion but it passes through to creditors. Debt accumulates: Philip II declares bankruptcy in 1557, 1560, 1575, 1596, cycling through asientos with Genoese and German bankers. Fiscal reserves are perpetually negative.
+
+__Exchange, Trade & Logistics:__ Seville monopolizes Indies trade through the Casa de Contratacion; Mediterranean commerce declines relative to Atlantic flows. Roads are poor; the Ebro and Guadalquivir carry some traffic. External dependence on foreign manufactures grows as silver flows out.
+
+__Value Storage, Credit & Deferred Exchange:__ The real and the maravedi serve as units; Genoese bills of exchange and juros (state bonds) move value. Silver inflation erodes purchasing power; credit depends on future fleet arrivals, creating volatility.
+
+__Surplus Extraction & Redistribution:__ The Crown extracts through alcabala (sales tax), customs, ecclesiastical subsidies, and American quinto. The load is heavy; Castile bears the burden disproportionately, feeding resentment. Surplus flows to war, not investment.
+
+__Wealth Distribution & Asset Defense:__ Grandee estates, Church holdings, and hidalgo status concentrate wealth and exempt it from taxation. Mayorazgo (entail) locks land in lineages. The productive middle is squeezed; upward mobility runs through Church, army, or emigration.
+
+__Byproducts & Waste Routing:__ Urban waste accumulates; craft workshops discharge effluent. Financial waste is severe: malinvestment in war, bullion exported for consumption goods, debt accumulating without productive return.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal inheritance with mayorazgo preserving estates; dowries shape marriage alliances among elites. Younger sons enter Church, army, or Indies; daughters marry or take the veil.
+
+__Association & Mutual Aid:__ Confraternities, guilds, and parishes structure mutual aid; the Church provides hospitals and poor relief. Urban neighborhoods organize around parish and craft; rural villages practice communal agriculture.
+
+__Leisure, Play & Sociability:__ Feast days punctuate the calendar; bullfights, autos sacramentales (religious plays), and comedias draw crowds. The tavern and plaza serve as sociability nodes; print circulates in these spaces through public reading.
+
+__Stratification, Status & Group Structure:__ The tripartite order of nobility, clergy, and commons persists; within it, hidalgos claim honor without wealth, grandees dominate court, and conversos (Jewish converts) face limpieza de sangre statutes blocking advancement. Status rigidity hardens.
+
+__Administrative Capacity & Institutional Integrity:__ The Councils (Castile, Aragon, Indies, Inquisition) administer through letrados (university-trained lawyers); the Cortes of Castile votes taxes but has no legislative power. Viceroys govern distant territories. Corruption (venality of office, sale of titles) spreads; administrative reach is patchy outside cities.
+
+__Coercive Apparatus & Means of Force:__ The tercios dominate European battlefields until the late century; the Armada (1588) fails against England. Fortifications ring the Mediterranean against Ottomans. The apparatus is powerful but overextended, drained by simultaneous wars in Flanders, the Mediterranean, and the Atlantic.
+
+__Discharge, Disorder & Decay:__ Banditry in Catalonia, moriscos unrest in Granada (revolt 1568–1571), and urban crime mark social friction. The expulsion of moriscos looms. The apparatus strains but holds; decay is nascent, not yet acute.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A mood of providential mission colors the era: Spain as defender of Catholicism, instrument of divine will. Pride in empire and faith coexists with anxiety over heresy and infiltration; the limpieza obsession reflects this temper.
+
+__Leadership & Personal Authority:__ Philip II (1556–1598) embodies the regime: pious, bureaucratic, tireless, distrustful. He centralizes decision-making in the Escorial, micromanaging empire. His personal authority is immense but his remoteness breeds delays and resentment.
+
+__Legitimacy as Lived Allegiance:__ The Crown's legitimacy rests on Catholic kingship, dynastic right, and defense of faith. Allegiance runs deep in Castile; Aragon, Catalonia, and Portugal retain corporate identities and are less absorbed. Legitimacy is high but not uniform across realms.
+
+__Political Will & Collective Resolve:__ The will to defend Catholicism and empire is strong, sustaining decades of war. The Armada's failure does not shatter resolve, though exhaustion accumulates. Succession is orderly; Philip III waits in the wings.
+
+__External Relations & Posture:__ Spain projects hegemony: rivalry with France, war with the Dutch rebels, confrontation with England, crusade against the Ottomans. The posture is expansive but resources are finite; the 1598 Peace of Vervins with France acknowledges limits.
+
+__Disaffection, Apathy & Spent Will:__ Late in Philip II's reign, fiscal exhaustion and military setbacks breed war-weariness. The intellectuals (arbitristas) begin diagnosing decline. Disaffection is incipient, masked by providential rhetoric but accumulating beneath the surface.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Castilian spreads as the language of administration and print; Latin persists in Church and university; Catalan, Basque, Galician, and Portuguese retain regional use. Literacy is limited (15–20% of males), but print reaches the illiterate through public reading and pulpit.
+
+__Channels & Transmission Velocity:__ Print shops operate in Seville, Salamanca, Alcala, Barcelona, Valencia, and Madrid (from 1561). Couriers carry official dispatches; ships bring news from the Indies. Velocity is slow by later standards: weeks or months for transatlantic news.
+
+__Record, Storage & Persistence:__ The Simancas archive stores state papers; Church archives preserve parish and Inquisition records. University libraries hold manuscripts and printed books. Print enhances persistence, creating multiple copies that survive loss of originals.
+
+__Framing, Censorship & Discourse Norms:__ The Inquisition enforces orthodoxy through the Index of Forbidden Books (editions 1551, 1559, 1583), pre-publication licensing, and post-publication expurgation. Protestant works are banned; suspect theology, some literature, and vernacular Bibles are prohibited. Discourse is channeled into Counter-Reformation service; criticism of Crown or Church is dangerous.
+
+__Reception, Attention & Amplification:__ Religious works dominate the market: catechisms, devotional tracts, saints' lives. Golden Age literature circulates (Lazarillo de Tormes, picaresque novels), often in tension with censorship. Plays reach broad audiences. Amplification runs through pulpit, plaza, and reading aloud.
+
+__Signal Integrity & Noise Load:__ Censorship suppresses heterodox signals but creates noise through rumor and clandestine circulation. Inquisition records track suspect books; enforcement is uneven but its threat shapes self-censorship. The signal regime favors orthodoxy, filtering alternative views.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Catholic morality underpins the order; honor (honra) is paramount, demanding defense of reputation, lineage, and faith. Limpieza de sangre codes inscribe hereditary purity as moral worth, excluding conversos and moriscos.
+
+__Law, Codification & Regulatory Evolution:__ Castilian law (Siete Partidas, royal pragmatics) governs; Aragonese, Catalan, and Portuguese fueros preserve regional codes. Canon law and Inquisition procedure apply to faith. Philip II codifies Indies law (Recopilacion). Legal pluralism persists under royal supremacy.
+
+__Adjudication, Liability & Sanction:__ Royal courts (audiencias, chancellerias), Inquisition tribunals, and ecclesiastical courts adjudicate. Sanction ranges from fines and penance to execution (auto-da-fe); judicial torture is routine. Backlog and corruption slow justice.
+
+__Rights, Protections & Compliance Burden:__ Fueros grant regional privileges; the nobility and clergy enjoy fiscal and legal exemptions. The common subject has limited autonomy; compliance with limpieza statutes, religious observance, and guild regulations is burdensome.
+
+__Impunity & Unredressed Wrong:__ Grandees and high clergy enjoy near-impunity; denunciation to the Inquisition can destroy a commoner. Redress for the powerless is uncertain; the gap between justice owed and delivered is substantial, accumulating grievance among moriscos, conversos, and the taxed commons.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scholasticism dominates theology and philosophy; the School of Salamanca develops international law and economic thought (Vitoria, Soto, Molina). Humanism reaches Alcala with the Complutense Polyglot Bible (1514–1517). Natural inquiry is limited; the Counter-Reformation subordinates curiosity to orthodoxy.
+
+__Applied Knowledge & Technical Method:__ Navigation, cartography, and mining technique advance to serve empire; the Casa de Contratacion trains pilots. Military engineering and fortification improve. Agricultural and industrial technique stagnates.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities (Salamanca, Alcala, Valladolid) train clergy and letrados; primary schooling is Church-run and limited. Literacy is a clerical and elite skill; artisan skills pass through guilds. The knowledge stock is substantial but narrowing under censorship.
+
+__Obsolescence & Knowledge Decay:__ Censorship freezes paradigms; Protestant and heterodox scientific works are banned. The knowledge frontier shifts north, to Protestant Europe; Spain imports finished ideas but exports few. Obsolescence accumulates as isolation deepens.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Reconquista shapes identity: Spain as Christendom's bulwark, purified of Moors and Jews, chosen to spread the faith. The Habsburg dynasty links Iberia to universal empire. Honor, lineage, and faith compose the self-image.
+
+__Legitimating Narrative & Ideology:__ Divine election, Catholic mission, and dynastic right legitimize the order. The Crown defends faith; subjects owe obedience as service to God. Print disseminates this narrative through catechisms, histories, and relaciones.
+
+__Artistic Expression & Material Culture:__ The Golden Age flowers: Cervantes (Don Quixote 1605 follows), Lope de Vega's comedias, Greco's mannerist painting, the Escorial's austere grandeur. Dress displays status through ruffs, black fabric, and silk; architecture moves from Plateresque to Herreran sobriety.
+
+__Form Exhaustion & Meaning Decay:__ The symbolic vocabulary remains vital; the Counter-Reformation generates new forms (Baroque emerges late-century). Yet the limpieza obsession hollows honor into genealogical performance; the gap between imperial rhetoric and fiscal reality begins to erode confidence.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology frames existence: a fallen world redeemed by Christ, ordered by Providence, awaiting judgment. Piety is duty; suffering is purgation; salvation depends on faith and works within the Church.
+
+__Ritual, Devotion & Sacred Practice:__ Mass, confession, and feast-day processions structure time; rosary and saints' cults permeate daily life. The auto-da-fe is public theater of faith defending itself. Mysticism flourishes (Teresa of Avila, John of the Cross), and its intensity is printed and disseminated.
+
+__Religious Institutions & Doctrinal Authority:__ The Church holds vast lands and tithe income; bishops and abbots wield local power. The Inquisition enforces orthodoxy. The Council of Trent (1545–1563) defines doctrine; Spain implements its decrees rigorously. Doctrinal authority is consolidated.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism is imposed in the Americas; moriscos face forced conversion and cultural suppression. Protestant heresy is extirpated; no pluralism is tolerated. The reach of orthodoxy expands geographically but creates coerced conformity.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment is not yet visible; the era is one of intensified sacralization. Yet the rigidity of orthodoxy and the violence of enforcement plant seeds of future critique; for now, the sacred remains fully charged, and any discharge is suppressed or redirected into approved devotion.

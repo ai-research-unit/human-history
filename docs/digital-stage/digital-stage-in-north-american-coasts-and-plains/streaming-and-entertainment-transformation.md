@@ -1,69 +1,139 @@
-# __2005 CE – 2026 CE__ — Streaming and Entertainment Transformation
-__Summary:__ A pan-temporal snapshot of the transformation of entertainment distribution from physical media and broadcast to streaming platforms across the North American Coasts and Plains, where Netflix, Spotify, and competitors displace cable television and physical media; the binding constraint is content acquisition cost and subscriber growth economics that drive consolidation and fragmentation cycles; margin against shock is thin as platforms carry heavy debt loads from content spending; direction of change shows maturation toward ad-supported tiers and bundling as subscriber growth stalls.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Streaming erases geographic friction for content distribution; identical catalog accessible from Manhattan or rural Mississippi given connectivity; physical retail and theatrical distribution patterns disrupted as geography becomes irrelevant to access.<br><br>
-__Climate Regime & Volatility:__ Data centers require cooling and stable power; climate volatility affects infrastructure reliability, with extreme heat events straining server capacity and severe weather disrupting last-mile connectivity.<br><br>
-__Hazard Regime & Exposure:__ Natural disasters trigger streaming surges as homebound populations consume content; platform infrastructure proves resilient through distributed architecture, though local outages affect individual access.<br><br>
-__Resource & Energy Endowment:__ Streaming infrastructure consumes significant electricity; video transmission accounts for majority of internet traffic, with energy costs a growing line item for platforms dependent on continuous high-bandwidth delivery.<br><br>
-__Waste Absorption & Sink Capacity:__ Physical media obsolescence generates disc and player e-waste; streaming shifts environmental burden from manufacturing and distribution to continuous energy consumption, trading visible waste for invisible emissions.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 lockdowns from 2020 accelerated streaming adoption as theatrical release and live entertainment suspended; platforms gained years of projected subscriber growth in months as populations sheltered in place.<br><br>
-__Nutrition & Physiological Vitality:__ Binge-watching correlates with sedentary behavior; streaming availability enables extended screen time with documented effects on sleep, physical activity, and metabolic health across the population.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Netflix and chill enters vernacular as streaming becomes context for romantic and sexual encounters; shared viewing and subscription sharing mark relationship stages; algorithmic profiles reveal compatibility and conflict.<br><br>
-__Demographic Renewal & Density:__ Younger cohorts adopt streaming universally while older populations lag; generational divide in media consumption patterns, with cord-cutting concentrated among those under 50 and cable retention among elderly.<br><br>
-__Attrition & Dependency Overhang:__ Elderly and disabled populations benefit from home entertainment access; streaming provides entertainment for homebound populations but requires digital literacy that some lack, creating new dependency on family assistance.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Entertainment shifts from discretionary to near-essential; streaming subscriptions compete with basic necessities in tight household budgets, with password sharing providing informal subsidy to cost-constrained households.<br><br>
-__Energy Capture & Conversion:__ Content delivery networks and data centers require continuous power; streaming platforms among largest electricity consumers, with energy efficiency of compression and transmission improving but total load growing.<br><br>
-__Labor Organization & Coercion:__ Writers and actors strike in 2023 over streaming residuals and AI; labor organization responds to platform economics that compress traditional compensation models; gig-ified production labor lacks union protection.<br><br>
-__Production & Surplus Capacity:__ Content production capacity expands dramatically as platforms invest in originals; peak TV exceeds viewer attention capacity, with hundreds of scripted series competing for finite audience hours.<br><br>
-__Storage, Reserves & Buffering:__ Platforms carry heavy debt from content spending; Netflix, Disney, and Warner each hold billions in content liabilities, with limited buffer against subscriber decline or interest rate increases.<br><br>
-__Exchange, Trade & Logistics:__ Content licensing market transforms from syndication windows to exclusive streaming rights; catalogs fragmented across platforms, forcing consumers to multiple subscriptions or piracy for comprehensive access.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Subscription model converts entertainment from purchase to rental; libraries built on physical media lose value as streaming rights override ownership; consumers pay continuously for access without accumulating assets.<br><br>
-__Surplus Extraction & Redistribution:__ Platform economics concentrate revenue in technology companies rather than traditional studios and networks; advertising revenue shifts from broadcast to streaming, with platforms capturing surplus previously distributed to affiliates.<br><br>
-__Wealth Distribution & Asset Defense:__ Media consolidation concentrates ownership; Disney, Warner, Comcast, and tech giants control majority of content, with independent production dependent on platform relationships for distribution.<br><br>
-__Byproducts & Waste Routing:__ Algorithm-driven content creation produces high volume of low-performing titles; platform originals that fail to find audience cancelled and sometimes removed, creating cultural ephemera that disappears without physical trace.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Password sharing creates informal gift economy; Netflix crackdown from 2023 monetizes practice that built subscriber loyalty, generating resentment and accelerating churn.<br><br>
-__Stratification, Status & Group Identity:__ Streaming tastes signal class and cultural identity; prestige television marks cultural capital while reality programming carries stigma; algorithmic profiles reinforce consumption patterns within demographic silos.<br><br>
-__Kinship, Family & Inheritance:__ Family accounts and profiles structure household viewing; shared subscriptions connect extended families across geography; disputes over account control emerge in divorce and estrangement.<br><br>
-__Civic Association & Self-Organization:__ Fan communities organize online around streaming content; parasocial relationships with creators and characters intensify as algorithms feed enthusiasm; convention culture adapts to streaming-first releases.<br><br>
-__Leisure, Play & Sociability:__ Viewing increasingly solitary as household members retreat to individual screens; shared viewing occasions become deliberate choices rather than defaults, fragmenting common cultural reference points.<br><br>
-__Grievance Channels & Social Discharge:__ Cancellation of beloved series generates fan campaigns; platforms occasionally respond to audience pressure, creating false sense of consumer power; subscription cancellation serves as individual protest with minimal collective impact.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ FCC jurisdiction contested as streaming operates outside broadcast regulation; platforms self-regulate content with minimal governmental oversight; net neutrality debates affect delivery but not content.<br><br>
-__Succession & Power Transfer:__ Corporate leadership transitions reshape platform strategy; Netflix founder Reed Hastings steps back; Disney CEO changes affect streaming investment; leadership determines content direction.<br><br>
-__Legitimacy & Political Narrative:__ Platforms frame streaming as consumer choice and innovation; critics frame as monopolization and cultural homogenization; neither narrative fully captures transformation.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Content rating systems adapt to streaming; parental controls and content warnings platform-specific rather than standardized; administrative capacity to monitor platform practices limited.<br><br>
-__Political Participation & Mobilization:__ Documentary content on streaming platforms shapes political awareness; true crime and social justice documentaries reach mass audiences, occasionally catalyzing advocacy and policy attention.<br><br>
-__Geopolitical Position & External Relations:__ International streaming rights and local content requirements create geopolitical friction; platforms negotiate country-by-country, with content availability varying across borders.<br><br>
-__Coercive Apparatus & Means of Force:__ Copyright enforcement through platform takedowns and litigation; DMCA notices automated at scale; piracy prosecution selective but persistent, targeting distribution rather than consumption.<br><br>
-__Internal Order & Threat Environment:__ Piracy persists as alternative to fragmented subscription landscape; torrent sites and illegal streaming services adapt to platform countermeasures; enforcement capacity exceeds but does not eliminate threat.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Streaming enables instant global release replacing staggered theatrical and syndication windows; spoiler culture emerges as shared viewing timeline collapses; binge drops create intense short-term conversation cycles.<br><br>
-__Record, Storage & Persistence:__ Platform catalogs impermanent; content removed without notice as licenses expire, erasing access to cultural works; no obligation to archive, with streaming potentially less durable than physical media.<br><br>
-__Framing, Censorship & Discourse Norms:__ Platform content policies shape available expression; self-censorship for global distribution removes content objectionable in any market; algorithmic recommendation frames viewing options without explicit censorship.<br><br>
-__Reception, Attention & Amplification:__ Algorithmic recommendation dominates discovery; viral hits emerge from algorithmic amplification rather than marketing; viewing patterns analyzed and fed back into content production decisions.<br><br>
-__Signal Integrity & Noise Load:__ Content volume exceeds attention capacity; signal of quality obscured by volume of mediocre releases; discovery problem intensifies as catalogs expand faster than curation improves.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Shifting norms around intellectual property; generational divide between those who believe content should be paid for and those who grew up with digital abundance and sharing.<br><br>
-__Law, Codification & Regulatory Evolution:__ Copyright law adapts slowly to streaming; DMCA safe harbors contested; EU regulations on content quotas and data protection affect platform operations; US regulatory framework largely permissive.<br><br>
-__Adjudication, Enforcement & Liability:__ Copyright litigation continues against pirates and platforms; streaming services generally compliant, having licensed content; disputes focus on terms and residuals rather than infringement.<br><br>
-__Rights, Protections & Compliance Burden:__ Creators retain copyright but license exclusively to platforms; rights fragmentation as libraries split across services; compliance burden moderate for platforms, low for consumers.<br><br>
-__Impunity & Unredressed Wrong:__ Platform decisions to remove content or cancel series without recourse; creators and consumers lack standing to contest catalog management; impunity for platforms in content decisions substantial.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Media studies adapts to analyze streaming; attention economy and platform capitalism theoretical frameworks emerge; algorithmic culture and filter bubbles studied across disciplines.<br><br>
-__Applied Knowledge & Technical Method:__ Compression, adaptive bitrate streaming, content delivery networks, and recommendation algorithms constitute technical frontier; machine learning increasingly drives both delivery and content creation.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Documentary and educational content accessible through streaming; masterclass and tutorial content professionalizes amateur skills; knowledge distribution democratized but attention fragmented.<br><br>
-__Obsolescence & Knowledge Decay:__ Physical media expertise obsolesces; video rental and disc manufacturing skills abandoned; broadcast engineering skills transition to streaming infrastructure; generational knowledge loss in analog production.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Streaming transforms cultural canon formation; algorithmic recommendation surfaces and buries content, reshaping what persists in collective memory; nostalgia cycles accelerate as catalogs make past instantly accessible.<br><br>
-__Artistic Expression & Material Culture:__ Episodic structure adapts to binge release; cliffhangers evolve for autoplay; visual style optimized for small screens and distracted viewing; production design accommodates second-screen attention.<br><br>
-__Collective Mood & Behavioral Disposition:__ Streaming enables mood regulation through content selection; comfort rewatching and background viewing as anxiety management; collective viewing events rare as individual consumption dominates.<br><br>
-__Form Exhaustion & Meaning Decay:__ Peak TV produces glut; prestige drama conventions become cliché; limited series format exhausted; superhero fatigue emerges as franchise content saturates attention; forms expire faster than new forms emerge.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Entertainment as escape and meaning-making; streaming provides infinite distraction from existential questions while occasionally surfacing them through prestige content that grapples with mortality and purpose.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Weekly appointment viewing gives way to binge rituals; season premiere and finale events structure streaming calendar for remaining shared viewing occasions; parasocial devotion to series and creators intensifies.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious content available on streaming platforms; televangelism adapts to on-demand format; institutional religion competes with streaming for attention, particularly among youth.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Streaming spreads diverse spiritual content globally; meditation apps, yoga videos, and alternative spirituality content reach audiences outside traditional institutions; syncretic spiritual consumption enabled.<br><br>
-__Disenchantment & Sacred Discharge:__ Infinite content availability produces paradox of choice and dissatisfaction; nothing to watch despite endless catalog; hedonic treadmill of content consumption leaves spiritual hunger unmet, discharged through continued scrolling rather than transcendence.<br><br>
+# __2005 CE – 2026 CE — Streaming and Entertainment Transformation__
+
+__Summary:__ The transition from physical and broadcast media distribution to on-demand streaming platforms in the United States and Canada, with Netflix's pivot from DVD rental to streaming in 2007 initiating a transformation that unbundles cable television, restructures music economics around per-stream payments, and shifts content production toward platform exclusives — the binding constraint being the attention economy that forces competing services into subscriber acquisition wars funded by unsustainable content spending, culminating in industry consolidation and price increases by the mid-2020s.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Streaming dissolves the geographic friction of physical media distribution — no more regional DVD release windows, store locations, or broadcast coverage areas — enabling simultaneous global release and eliminating the supply chain of discs, trucks, and retail shelves that characterized the physical media era.
+
+__Climate Regime & Volatility:__ Data centers powering streaming services concentrate in regions with cheap electricity and cooling — Oregon, Virginia, Nordic countries — with climate considerations including ambient temperature for cooling and renewable energy availability increasingly influencing location decisions.
+
+__Hazard Regime & Exposure:__ Streaming infrastructure proves resilient to localized disruption — content distributed across geographically dispersed servers continues availability even when individual data centers fail; the system's redundancy contrasts with the vulnerability of physical media stores and broadcast towers to hurricanes, fires, or civil unrest.
+
+__Resource & Energy Endowment:__ Streaming's energy demands are substantial — video encoding, storage, and transmission consume significant electricity; a single hour of streaming generates carbon emissions equivalent to driving several miles; the aggregate energy footprint of global streaming exceeds that of many small nations.
+
+__Waste Absorption & Sink Capacity:__ The transition eliminates the waste stream of physical media — DVDs, cases, shrink wrap, retail fixtures — but shifts environmental impact to electronic devices and infrastructure; streaming reduces visible material waste while concentrating emissions in data centers and device manufacturing.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The pandemic dramatically accelerates streaming adoption — lockdowns and social distancing eliminate theater attendance and in-person entertainment; streaming subscriber numbers surge in 2020-2021 as populations confined to homes seek entertainment.
+
+__Nutrition & Physiological Vitality:__ Binge-watching patterns enabled by streaming's release of complete seasons correlate with sedentary behavior, disrupted sleep schedules, and reduced physical activity; the autoplay feature keeps viewers engaged past intended stopping points.
+
+__Care, Healing & Recovery Capacity:__ Streaming provides accessible entertainment for the hospitalized, homebound, and recovering — a therapeutic resource for those unable to leave home; pediatric wards and long-term care facilities incorporate streaming into patient care.
+
+__Reproductive Biology & Pairing Dynamics:__ "Netflix and chill" enters the vernacular as streaming becomes integrated into dating and domestic partnership; shared streaming accounts and viewing preferences become markers of relationship intimacy; password sharing becomes a relationship boundary marker.
+
+__Demographic Renewal & Density:__ Generational differences in media consumption emerge clearly — younger cohorts ("cord-nevers") never subscribe to cable television, while older cohorts maintain broadcast and cable habits longer; family viewing fragments as household members retreat to individual screens and preference algorithms.
+
+__Attrition & Dependency Overhang:__ Elderly populations adopt streaming more slowly, with simpler interfaces of traditional television remaining preferred; streaming services' complex navigation and assumption of digital literacy create barriers; some develop simplified interfaces for senior users.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Entertainment transitions from discretionary spending to expected household budget line — multiple streaming subscriptions approach or exceed former cable bills by the mid-2020s; lower-income households share passwords or rotate subscriptions to manage costs.
+
+__Energy Capture & Conversion:__ Streaming platforms' energy consumption shifts costs from consumer devices (DVD players, broadcast reception) to centralized infrastructure; the energy economics favor efficiency gains from centralized encoding and distribution over distributed physical media manufacturing.
+
+__Labor Organization & Coercion:__ Content production labor transforms — streaming creates demand for more content, employing more writers, actors, and crew through the mid-period, but algorithmic content decisions and AI-assisted writing reduce creative autonomy; the 2023 Hollywood strikes center on streaming residuals and AI use.
+
+__Production & Surplus Capacity:__ Content production surges — Netflix alone releases hundreds of original titles annually by the early 2020s, far exceeding the output of traditional studios; the quantity of available content expands exponentially while quality varies widely; "content" replaces "film" or "show" as the industry term.
+
+__Storage, Reserves & Buffering:__ Streaming services accumulate content libraries as strategic assets — back catalogs of acquired studios, exclusive licenses, original content — but write-downs of content value beginning in 2022 reveal that not all accumulated content retains value; library management becomes a core competency.
+
+__Exchange, Trade & Logistics:__ The distribution economics invert — physical media required manufacturing, shipping, and retail margin; streaming eliminates these costs but substitutes bandwidth, licensing, and customer acquisition expense; the cost structure shifts from variable to fixed.
+
+__Value Storage, Credit & Deferred Exchange:__ Subscription models replace per-transaction purchases — recurring monthly charges replace discrete DVD purchases or rental fees; the revenue model assumes long-term subscriber retention that proves elusive as churn rates climb.
+
+__Surplus Extraction & Redistribution:__ Value redistributes across the entertainment ecosystem — streaming platforms capture margin from cable distributors and retailers; musicians receive fractions of cents per stream while record labels and platforms capture the larger share; the economic restructuring produces clear winners and losers.
+
+__Wealth Distribution & Asset Defense:__ Legacy media companies face disruption — Blockbuster files bankruptcy in 2010; cable subscriber counts decline steadily from 2013; local newspapers lose entertainment advertising; the wealth concentration in technology platforms accelerates as traditional media fragments.
+
+__Byproducts & Waste Routing:__ DVD manufacturing declines dramatically — the factories, distribution centers, and retail outlets that supported physical media shrink or close; the stranded assets and displaced workers of the physical media economy are the waste products of the streaming transition.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family viewing fragments — the shared living room television experience gives way to individual device viewing; children watch different content than parents, often simultaneously in the same household; shared cultural reference points within families diminish.
+
+__Association & Mutual Aid:__ Streaming creates new forms of association — online fan communities, watch parties (formalized with features like Teleparty), shared recommendation and discussion; but the asynchronous, on-demand nature of consumption reduces the synchronicity that broadcast enabled.
+
+__Leisure, Play & Sociability:__ The experience of entertainment shifts from scheduled, social event to individual, on-demand consumption; live sports and news remain synchronous, but scripted content increasingly fits around individual schedules rather than organizing household time.
+
+__Stratification, Status & Group Structure:__ Taste stratification intensifies — algorithmic personalization creates divergent content diets; cultural capital accumulates differently as prestige television and niche content serve distinct audiences; "what are you watching" becomes a class marker.
+
+__Administrative Capacity & Institutional Integrity:__ The regulatory apparatus struggles to adapt — FCC authority developed for broadcast and cable applies awkwardly to streaming; content moderation for streaming differs from broadcast standards; jurisdictional questions multiply as global platforms serve national markets.
+
+__Coercive Apparatus & Means of Force:__ Piracy enforcement shifts from physical counterfeit seizure to digital takedown notices; streaming reduces casual piracy by offering convenient legal alternatives, but sophisticated piracy of streaming content persists; the DMCA framework governs enforcement.
+
+__Discharge, Disorder & Decay:__ The institutions of traditional media decay — broadcast network audiences decline, cable bundles fray, local television stations struggle, theatrical distribution contracts; the social infrastructure of shared mass media consumption fragments without equivalent replacement.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Initial excitement about streaming abundance — the promise of unlimited content at low monthly cost — gives way to subscription fatigue by the mid-2020s as services multiply and prices rise; the sentiment shifts from gratitude to entitlement to resentment.
+
+__Leadership & Personal Authority:__ Platform CEOs exercise cultural power — Reed Hastings at Netflix, Ted Sarandos, executives at competing services make decisions about what content gets made and who sees it; their programming choices shape cultural conversation.
+
+__Legitimacy as Lived Allegiance:__ Brand loyalty to streaming services proves weaker than expected — subscribers churn readily between services, subscribing for specific shows then canceling; the parasocial relationship is with content, not platform.
+
+__Political Will & Collective Resolve:__ Industry collective action proves difficult — the 2023 strikes succeed in winning streaming residual improvements, but the fragmented, competitive landscape limits sustained labor power; each platform's negotiation affects others.
+
+__External Relations & Posture:__ American streaming platforms export globally — Netflix operates in over 190 countries, with local content production in many; cultural soft power flows through streaming, with K-drama, British prestige television, and American content reaching global audiences.
+
+__Disaffection, Apathy & Spent Will:__ Content overload creates paralysis — the phenomenon of spending more time browsing than watching; decision fatigue from excessive choice; the paradox of abundance producing dissatisfaction rather than fulfillment.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Streaming platforms design for accessibility — closed captions, audio descriptions, multiple language tracks — exceeding the accessibility of broadcast or physical media; the information barriers of the deaf or blind are substantially reduced.
+
+__Channels & Transmission Velocity:__ Bandwidth requirements for streaming drive broadband demand — standard definition requires 3-4 Mbps, HD 5-8 Mbps, 4K 25+ Mbps — making streaming quality dependent on connection quality and creating a two-tier experience between fast and slow connections.
+
+__Record, Storage & Persistence:__ Streaming's catalog is not permanent — content cycles off platforms as licenses expire; films available one month disappear the next; the assumption that streaming provides permanent access proves false, and digital ownership becomes illusory.
+
+__Framing, Censorship & Discourse Norms:__ Algorithmic recommendation becomes a form of curatorial framing — what the platform surfaces shapes what users watch; concerns emerge about filter bubbles and ideological sorting through entertainment; debates arise over content warnings and the removal or modification of older content.
+
+__Reception, Attention & Amplification:__ Engagement metrics drive content decisions — watch time, completion rates, and viewing patterns inform what gets renewed; virality on social media amplifies certain content; the water-cooler effect persists but fragments across platforms.
+
+__Signal Integrity & Noise Load:__ The volume of available content creates noise — distinguishing quality from quantity becomes difficult; recommendation algorithms attempt to reduce noise but optimize for engagement over artistic merit; the signal of genuinely significant content gets lost in the flood.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Music artist compensation becomes a justice issue — the per-stream payment model that delivers fractions of cents to musicians while platforms and labels profit generates moral outrage; campaigns for fair artist compensation emerge without achieving substantial change.
+
+__Law, Codification & Regulatory Evolution:__ Copyright law struggles to adapt — the DMCA's safe harbor provisions govern platform liability; licensing regimes developed for broadcast apply awkwardly to global streaming; territorial licensing conflicts with borderless internet distribution.
+
+__Adjudication, Liability & Sanction:__ Content moderation decisions lack clear adjudication — platforms remove content based on internal policies without external review; disputes over content removal play out in public relations rather than legal forums; the appeals process is opaque.
+
+__Rights, Protections & Compliance Burden:__ User rights in streaming remain limited — subscribers license rather than own content; terms of service permit platform changes without recourse; the consumer protection framework developed for physical goods applies imperfectly to digital services.
+
+__Impunity & Unredressed Wrong:__ Musicians and other creators lack effective recourse against streaming economics — class action suits achieve limited results; regulatory intervention remains sparse; the power imbalance between platforms and creators persists without remedy.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Media studies adapts to streaming — scholars analyze binge-watching behavior, algorithmic recommendation, and attention economics; the conceptual frameworks developed for broadcast media require revision for on-demand, personalized consumption.
+
+__Applied Knowledge & Technical Method:__ Streaming requires sophisticated technical infrastructure — content delivery networks, adaptive bitrate streaming, compression algorithms, recommendation engines using machine learning — the technical complexity exceeds anything in broadcast.
+
+__Education, Knowledge Stock & Skill Distribution:__ Media literacy curricula incorporate streaming — teaching critical consumption of algorithmically recommended content; awareness of business models behind "free" or low-cost entertainment; understanding of data collection practices.
+
+__Obsolescence & Knowledge Decay:__ Broadcast and physical media skills become obsolete — DVD authoring, broadcast engineering, video rental operations — the human capital invested in prior distribution systems loses value; retraining challenges face workers in declining media sectors.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The shared cultural reference points enabled by broadcast — the show everyone watched last night — fragment as viewing becomes asynchronous and personalized; generational identity still forms around content but shared national experience diminishes.
+
+__Legitimating Narrative & Ideology:__ Streaming platforms frame themselves as democratic and empowering — giving viewers choice, surfacing diverse voices, escaping gatekeeper control; this narrative legitimates disruption of traditional media institutions while obscuring platform power.
+
+__Artistic Expression & Material Culture:__ Content production aesthetics shift — streaming budgets enable cinematic production values for television; the visual language of prestige streaming (dark cinematography, complex serialization, ambiguous endings) becomes recognizable; algorithmic optimization shapes content toward engagement patterns.
+
+__Form Exhaustion & Meaning Decay:__ The volume of content produces exhaustion — too many prestige dramas, too many limited series, too many reboots and franchises; the forms that seemed fresh in the early streaming era become formulaic; viewers report fatigue with the streaming content model itself.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Streaming enables immersive escapism — entire seasons consumed in days provide temporary refuge from reality; the existential comfort of narrative resolution, of problems that reach conclusions, appeals in an era of persistent uncertainty.
+
+__Ritual, Devotion & Sacred Practice:__ Weekly episode releases attempt to recreate appointment viewing ritual — HBO maintains the practice for prestige shows; the Friday release becomes Netflix's ritual moment; binge consumption represents a different ritual of immersive devotion.
+
+__Religious Institutions & Doctrinal Authority:__ Religious content finds streaming distribution — faith-based production companies create content for streaming platforms; religious communities develop their own streaming services; the sermon and worship service stream alongside secular entertainment.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Entertainment displaces some functions of religious practice — narrative provides meaning, community forms around fandom, ritual viewing structures time; the sacred and profane blur as streaming content addresses existential themes.
+
+__Disenchantment & Sacred Discharge:__ The abundance that promised fulfillment produces its own emptiness — the endless scroll of content options, none quite satisfying; the fleeting pleasure of completed viewing quickly superseded by the question of what to watch next; the hedonic treadmill of streaming consumption leaves its residue of dissatisfaction and appetite unsatisfied.

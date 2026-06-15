@@ -1,69 +1,139 @@
-# __1976 CE – 1989 CE__ — Reform Era and Television Expansion
-__Summary:__ China's broadcast environment transforms from Cultural Revolution austerity to mass television penetration under Deng Xiaoping's reform and opening policies; the binding constraint shifts from ideological purity to modernization imperatives; CCTV expands to national coverage while entertainment programming returns; the system holds substantial margin as economic growth accelerates and social controls loosen selectively; direction is toward commercialization, audience engagement, and controlled opening to foreign content.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The vast Yellow and Yangtze basins present formidable distribution challenges for broadcast infrastructure; mountainous western regions and dispersed rural settlements impose high friction on signal coverage requiring relay networks and satellite solutions.<br><br>
-__Climate Regime & Volatility:__ Monsoon climate with seasonal floods and droughts continues; 1980s sees relatively stable conditions without major climate-driven disruptions to infrastructure development.<br><br>
-__Hazard Regime & Exposure:__ Tangshan earthquake 1976 devastates northeastern infrastructure; subsequent rebuilding includes broadcast facilities; flood risks along major rivers persist but do not critically disrupt the broadcast expansion program.<br><br>
-__Resource & Energy Endowment:__ Coal reserves power expanding electricity grid essential for television manufacturing and household reception; rare earth elements for electronics increasingly extracted; petroleum imports begin supplementing domestic production.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial expansion under reform accelerates pollution loads; electronic manufacturing waste begins accumulating; absorptive capacity remains substantial but degradation trajectories steepen in coastal manufacturing zones.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Post-Cultural Revolution healthcare reconstruction reduces mortality; barefoot doctor system persists in modified form; endemic diseases decline as nutrition and sanitation improve; life expectancy rises steadily.<br><br>
-__Nutrition & Physiological Vitality:__ Household responsibility system dramatically improves food availability; caloric intake rises; stunting and wasting decline; physical vitality improves measurably as grain production surges after 1978 reforms.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ One-child policy implemented 1979 transforms reproductive patterns; urban compliance high; biological fertility unchanged but effective fertility sharply constrained by policy enforcement.<br><br>
-__Demographic Renewal & Density:__ Population grows from 930 million to 1.1 billion; urban migration accelerates; age structure still favorable with large working-age cohort; density increases in eastern coastal cities.<br><br>
-__Attrition & Dependency Overhang:__ Cultural Revolution generation carries psychological scars but workforce participation high; elderly cohort relatively small; dependency ratio favorable; orphan and widow loads from political campaigns persist but aging out.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Rural reforms lift hundreds of millions above subsistence; grain procurement quotas relaxed; household farming incentives transform food security; famine recedes as policy constraint rather than production constraint.<br><br>
-__Energy Capture & Conversion:__ Electricity grid expands rapidly to support television reception; rural electrification accelerates; coal-fired generation dominates; per-capita energy consumption rises but remains low by global standards.<br><br>
-__Labor Organization & Coercion:__ Iron rice bowl system begins eroding; township and village enterprises absorb rural labor; wage labor expands in special economic zones; coercion declines as market opportunities multiply.<br><br>
-__Production & Surplus Capacity:__ Television set manufacturing scales dramatically; domestic production rises from minimal to tens of millions annually; consumer goods surplus emerges; industrial output growth exceeds 10% annually through much of period.<br><br>
-__Storage, Reserves & Buffering:__ Grain reserves rebuilt after reform; foreign exchange reserves grow modestly; strategic reserves established; household savings rise as consumption options expand; buffer capacity improves substantially.<br><br>
-__Exchange, Trade & Logistics:__ Special economic zones open to foreign trade; distribution networks modernize; television sets move through state commercial and emerging private channels; logistics infrastructure lags but improving.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Banking system reforms begin; household savings accounts expand; inflation spikes in late 1980s erode purchasing power periodically; credit remains state-allocated but loosening.<br><br>
-__Surplus Extraction & Redistribution:__ Fiscal decentralization shares revenue with provinces; taxation reforms underway but incomplete; extraction burden on rural areas lightens; redistribution shifts toward infrastructure investment.<br><br>
-__Wealth Distribution & Asset Defense:__ Gini coefficient rises from egalitarian Mao-era baseline; rural-urban gap narrows initially then widens; private property rights emerge tentatively; asset accumulation begins for entrepreneurial households.<br><br>
-__Byproducts & Waste Routing:__ Electronic manufacturing generates new waste streams; consumer disposal patterns nascent; industrial pollution accelerates; waste routing predominantly to open dumping and waterways; recycling informal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Post-Cultural Revolution healing proceeds unevenly; neighbor-informing trauma recedes; work unit (danwei) solidarity persists; trust radius expands cautiously as political pressure eases.<br><br>
-__Stratification, Status & Group Identity:__ Class labels from Mao era officially removed; new stratification by market success emerges; rural-urban hukou divide persists; intellectual rehabilitation restores status to educated classes.<br><br>
-__Kinship, Family & Inheritance:__ One-child policy reshapes family structure; extended kinship networks remain important in rural areas; inheritance patterns shift with private property emergence; nuclear family unit emphasized.<br><br>
-__Civic Association & Self-Organization:__ Work unit remains primary social organization; independent associations tightly controlled but nascent; professional associations emerge; self-organization capacity limited but expanding at margins.<br><br>
-__Leisure, Play & Sociability:__ Television viewing becomes primary household leisure activity; Spring Festival Gala 1983 creates national shared viewing ritual; public entertainment venues reopen; sociability channels multiply.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning system revives; letters and visits offices handle complaints; television provides entertainment escape; grievances from Cultural Revolution largely suppressed rather than resolved; student protests 1986-1989 indicate accumulated tensions.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Deng Xiaoping paramount leader without formal top position; collective leadership nominally restored; power centralizing in reform faction; party authority unchallenged but internal debates vigorous.<br><br>
-__Succession & Power Transfer:__ Hua Guofeng displaced; succession remains opaque and contested; Hu Yaobang and Zhao Ziyang successively designated then removed; transfer mechanisms unreliable, triggering instability.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy shifts from revolutionary virtue to economic performance; "socialism with Chinese characteristics" formulated; Mao partially criticized but officially endorsed; narrative emphasizes modernization.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity rebuilds after Cultural Revolution destruction; bureaucratic regularization proceeds; corruption emerges as reform creates rent-seeking opportunities; capacity improving but integrity mixed.<br><br>
-__Political Participation & Mobilization:__ Village elections experimentally introduced; limited political reform discussed; student demonstrations 1986 and 1989 show mobilization capacity; participation channels opening then abruptly closing.<br><br>
-__Geopolitical Position & External Relations:__ Sino-American normalization 1979; Sino-Soviet rapprochement begins; Vietnam conflict 1979; Hong Kong agreement 1984; international integration accelerates; broadcasting includes foreign content cautiously.<br><br>
-__Coercive Apparatus & Means of Force:__ PLA modernization begins; People's Armed Police established 1983; internal security apparatus rebuilt; force capacity adequate; June 1989 deployment shows willingness to use.<br><br>
-__Internal Order & Threat Environment:__ Crime rises with social mobility; political stability until 1989; ethnic tensions in Tibet and Xinjiang contained; disorder within enforcement capacity except during 1989 crisis which overwhelms normal mechanisms.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ CCTV achieves national terrestrial coverage; provincial stations multiply; television penetration rises from under 10% to over 50% of households; wired broadcasting declines in urban areas but persists rurally; transmission velocity approaches real-time nationally.<br><br>
-__Record, Storage & Persistence:__ Videotape archives established; programming preserved systematically; broadcast records maintained by state; persistence improving with technology though Cultural Revolution period poorly documented.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship relaxes significantly from Cultural Revolution extremes; entertainment permitted; foreign content filtered; political topics remain sensitive; discourse bandwidth widens substantially but boundaries enforced.<br><br>
-__Reception, Attention & Amplification:__ Television viewing becomes mass phenomenon; Spring Festival Gala reaches 700+ million viewers; shared national attention patterns emerge; amplification through party-state controlled but audience engagement drives programming.<br><br>
-__Signal Integrity & Noise Load:__ Official channels dominate; foreign broadcasts partially jammed; noise load from rumor and informal channels persists but television provides authoritative signal; verification through official media only.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Post-Cultural Revolution rehabilitation creates expectation of correcting past wrongs; sense of justice recovering; popular morality emphasizes fairness after arbitrary persecution.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal reconstruction proceeds; criminal law and procedure codified 1979; broadcasting regulations formalized; rule by law rather than rule of law; codification advancing rapidly from near-zero baseline.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts rebuilt; professional judiciary emerging; enforcement selective and politically influenced; liability for Cultural Revolution crimes largely unadjudicated; throughput improving from collapsed state.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights nominally restored; practical protections limited; compliance burden moderate for ordinary citizens; property rights emerging but uncertain.<br><br>
-__Impunity & Unredressed Wrong:__ Cultural Revolution perpetrators largely unpunished; Gang of Four trial 1980-81 symbolic only; vast wrongs unredressed; impunity institutionalized through deliberate amnesia; redress deficit enormous but stable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities reopen; research institutes restored; science and technology emphasized; "practice as sole criterion of truth" debate opens intellectual space; Marxist orthodoxy loosens; Western theories cautiously engaged.<br><br>
-__Applied Knowledge & Technical Method:__ Television manufacturing technology imported and adapted; broadcast engineering improves; technical training expands; four modernizations drive applied research; methods borrowed from abroad.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Gaokao restored 1977; higher education expands; literacy continues rising; technical skills spread; knowledge stock rebuilding after Cultural Revolution devastation; distribution still concentrated in cities.<br><br>
-__Obsolescence & Knowledge Decay:__ Cultural Revolution ideology discredited and shed; "two whatevers" rejected; knowledge lost during disruption partially recovered; error-clearing proceeds though political sensitivity limits historical investigation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary mythology attenuated; Chinese civilization narrative revives; Cultural Revolution trauma suppressed rather than processed; identity increasingly tied to modernization success and civilizational heritage.<br><br>
-__Artistic Expression & Material Culture:__ Television drama, variety shows, and popular music flourish; revolutionary aesthetic gives way to entertainment-oriented production; material culture modernizes rapidly; consumer aesthetics emerge.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism about reform; future-oriented confidence; materialism normalized; risk-taking in economic sphere encouraged; mood brightening through most of period until 1989 crisis darkens outlook.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary forms exhausted and abandoned; Mao quotations hollow; socialist realism gives way to audience-pleasing formats; meaning vacuum partially filled by consumer culture and nationalist revival.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Official atheism maintained but enforcement relaxed; traditional beliefs resurface; existential outlook shifts from revolutionary teleology to pragmatic materialism; secularism dominates but spirituality reviving.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple reconstruction begins; folk religion revives; Buddhist and Daoist practice re-emerges; Christian churches reopen under state supervision; devotional activity increasing from suppressed baseline.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Patriotic religious associations restored as control mechanism; Vatican relations frozen; unauthorized religious activity persists; institutional reconstruction proceeds under party supervision.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Traditional Chinese religion revives; Christianity grows in urban and rural areas; qigong movements emerge blending exercise and spirituality; syncretic formations multiply.<br><br>
-__Disenchantment & Sacred Discharge:__ Marxist-Leninist faith collapses as lived reality; revolutionary meaning evacuated; spiritual vacuum partially filled by revived traditions and new movements; disenchantment with ideology substantial but alternative anchors emerging.<br><br>
+# __1976 CE – 1989 CE — Reform Era and Television Expansion__
+
+__Summary:__ The death of Mao and Deng Xiaoping's rise unleash economic reform while preserving party control of broadcasting; television displaces wired radio as the primary mass medium, with CCTV expansion and advertising introduction creating a hybrid system where commercial imperatives operate within unbroken propaganda discipline, until the June 4 crackdown reveals the limits of liberalization and resets informational control.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Yellow and Yangtze basins present broadcasting with continental scale — over 9.5 million square kilometers — requiring satellite distribution to provincial relays and a dense network of terrestrial transmitters to reach populations separated by mountain ranges, deserts, and vast agricultural plains; the cost of infrastructure expansion remains the binding physical constraint on television penetration beyond coastal cities.
+
+__Climate Regime & Volatility:__ Monsoon variability continues to produce periodic droughts and floods affecting agricultural output, but the era's agricultural reforms and improved grain storage reduce the information salience of climate as a crisis trigger compared to the Mao years; broadcasting no longer serves primarily as famine-management communication.
+
+__Hazard Regime & Exposure:__ The Tangshan earthquake of 1976, killing over 240,000, immediately precedes the reform era and demonstrates both the inadequacy of existing broadcast infrastructure for disaster response and the political sensitivity of information during crisis; subsequent policy prioritizes broadcast network resilience.
+
+__Resource & Energy Endowment:__ China's coal reserves power expanding electrical grids that enable television reception; domestic manufacturing capacity for television sets grows rapidly as reform policies permit township and village enterprises to produce consumer electronics, though quality initially lags imported Japanese sets.
+
+__Waste Absorption & Sink Capacity:__ Industrial expansion under reform begins concentrating pollution in coastal manufacturing zones; broadcasting does not yet address environmental issues, and the sink degradation accumulates as an unacknowledged externality of the growth model the media celebrates.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Post-famine recovery continues; mortality rates decline as agricultural reform improves nutrition and rural healthcare expands through the barefoot doctor system's institutionalization; life expectancy rises from approximately 65 to 70 years across the period.
+
+__Nutrition & Physiological Vitality:__ Decollectivization and the household responsibility system dramatically improve food availability; caloric intake increases and protein consumption rises; the population's physical robustness improves measurably, though urban-rural disparities persist.
+
+__Care, Healing & Recovery Capacity:__ Healthcare remains primarily state-provided but begins fragmenting as communes dissolve; television serves as a health education channel, with programming on sanitation, family planning, and disease prevention reaching populations previously dependent on wired broadcast and local cadres.
+
+__Reproductive Biology & Pairing Dynamics:__ The one-child policy, implemented 1979–1980, represents the most intrusive state intervention in reproduction in human history; broadcasting serves as the primary instrument for disseminating family planning propaganda, normalizing the policy and explaining compliance procedures.
+
+__Demographic Renewal & Density:__ Population grows from approximately 930 million to 1.1 billion despite fertility restrictions; the demographic dividend of a large working-age cohort and declining dependency ratio fuels economic growth; urbanization accelerates as rural restrictions ease.
+
+__Attrition & Dependency Overhang:__ The one-child policy's long-term demographic consequences remain latent; the current generation experiences reduced childcare burden while the future aging crisis gestates invisibly beneath the reform boom.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agricultural decollectivization raises the provisioning floor dramatically; grain production increases by roughly 50 percent between 1978 and 1984; the famine threat that dominated Mao-era communication recedes as household farming replaces collective agriculture.
+
+__Energy Capture & Conversion:__ Coal-fired electricity generation expands to power both industrial growth and consumer electronics; rural electrification programs extend the grid's reach, enabling television reception in areas previously served only by wired loudspeakers.
+
+__Labor Organization & Coercion:__ The work-unit (danwei) system persists in urban areas but begins loosening as township and village enterprises and joint ventures create alternative employment; labor mobility increases though the hukou system maintains urban-rural segmentation.
+
+__Production & Surplus Capacity:__ GDP growth averages approximately 9 percent annually; Special Economic Zones established 1980 attract foreign investment and technology transfer; domestic manufacturing capacity for television sets, initially dependent on imported components, develops rapidly.
+
+__Storage, Reserves & Buffering:__ State grain reserves increase substantially; foreign exchange reserves grow as exports expand; the treasury accumulates capacity for infrastructure investment including broadcast network expansion.
+
+__Exchange, Trade & Logistics:__ Opening to foreign trade accelerates; the SEZ model demonstrates export-oriented manufacturing viability; domestic distribution networks improve though remain constrained by inadequate road and rail infrastructure.
+
+__Value Storage, Credit & Deferred Exchange:__ Banking system reform begins; the renminbi stabilizes after Mao-era volatility; household savings rates rise dramatically as consumption options remain limited and precautionary motives dominate; inflation becomes a concern by the late 1980s.
+
+__Surplus Extraction & Redistribution:__ Tax reform decentralizes revenue to provincial and local governments, creating incentives for growth but fragmenting the fiscal base; state capacity to fund broadcast infrastructure relies increasingly on advertising revenue rather than direct appropriation.
+
+__Wealth Distribution & Asset Defense:__ Inequality increases as reform creates winners in coastal regions and special zones while interior areas lag; the emergence of private enterprise creates new wealth outside the party-state apparatus, though assets remain vulnerable to policy reversal.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates without systematic treatment; environmental regulation remains minimal; the economic model prioritizes growth over externality management, storing problems for future decades.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The one-child policy restructures family formation; the traditional preference for sons combines with fertility restriction to skew sex ratios; inheritance patterns shift as single children bear sole responsibility for aging parents.
+
+__Association & Mutual Aid:__ Work-unit provision of housing, healthcare, and welfare persists but begins fragmenting; village-level mutual aid reconstitutes under the household responsibility system; urban neighborhoods retain some collective functions.
+
+__Leisure, Play & Sociability:__ Television viewing becomes the dominant leisure activity as set ownership expands; communal viewing in work-unit halls and village centers gives way to household reception; the shared experience of watching CCTV programming creates new forms of simultaneous national sociability.
+
+__Stratification, Status & Group Structure:__ Class labels from the Mao era lose salience; new stratification emerges based on access to reform opportunities; party membership remains advantageous but private entrepreneurship creates alternative status pathways; the urban-rural divide persists as the fundamental social cleavage.
+
+__Administrative Capacity & Institutional Integrity:__ State capacity rebuilds after Cultural Revolution disruption; bureaucratic regularization replaces campaign politics; television administration consolidates under the Ministry of Radio, Film, and Television (established 1986); corruption emerges as reform creates rent-seeking opportunities.
+
+__Coercive Apparatus & Means of Force:__ The People's Liberation Army retains ultimate coercive capacity but shifts toward professionalization; internal security apparatus reconstitutes after Cultural Revolution chaos; the June 4 deployment reveals willingness to use force against civilian protest.
+
+__Discharge, Disorder & Decay:__ Student protests in 1986–1987 signal emerging tensions between economic liberalization and political control; the 1989 demonstrations represent the largest discharge of accumulated political grievance, suppressed by force rather than absorbed through institutional channels.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The reform era generates optimism and entrepreneurial energy; public sentiment shifts from the exhaustion of continuous revolution to hope for material improvement; trust in the reform direction remains high through the mid-1980s before inflation and corruption concerns erode confidence.
+
+__Leadership & Personal Authority:__ Deng Xiaoping dominates without holding top party or state positions, exercising paramount authority through personal networks and revolutionary credentials; his pragmatic reform message displaces Maoist ideology; Hu Yaobang and Zhao Ziyang serve as reform-oriented general secretaries until their respective falls.
+
+__Legitimacy as Lived Allegiance:__ Performance legitimacy replaces revolutionary legitimacy as the tacit social contract shifts to delivering growth in exchange for political quiescence; this bargain holds through the 1980s for most of the population but fractures among urban intellectuals and students demanding political reform.
+
+__Political Will & Collective Resolve:__ The party's will to reform economically while maintaining political control remains unified until 1989, when elite division over how to handle protests produces crisis; Zhao Ziyang's sympathy for demonstrators and subsequent purge reveals the limits of collective leadership.
+
+__External Relations & Posture:__ Normalization with the United States (1979) and opening to Western investment reshape China's international posture; broadcasting of foreign affairs emphasizes modernization partnerships while maintaining vigilance against "spiritual pollution" from Western culture.
+
+__Disaffection, Apathy & Spent Will:__ The Tiananmen movement's suppression produces disaffection among urban intellectuals and students but is met with acquiescence by the broader population; the party's demonstration of coercive resolve and subsequent economic acceleration prevents disaffection from becoming politically consequential.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Standard Mandarin (Putonghua) consolidates as the broadcast language, reinforcing national linguistic unity; television's visual dimension reaches illiterate populations more effectively than print; provincial broadcasting in regional languages (Cantonese, Shanghainese) persists within limits.
+
+__Channels & Transmission Velocity:__ Television displaces wired radio as the primary broadcast channel; CCTV expands from one channel to multiple specialized services; satellite distribution to provincial stations enables simultaneous national transmission; the shift from wired to wireless reception gives audiences their first genuine choice among signals.
+
+__Record, Storage & Persistence:__ Television archives remain under state control with no public access; videotape technology enables recording but distribution remains controlled; the June 4 events demonstrate both the power of television imagery (the "Tank Man" footage) and state capacity to control domestic broadcast of such images.
+
+__Framing, Censorship & Discourse Norms:__ Propaganda discipline loosens to permit economic reporting, entertainment programming, and limited social critique, but the "four cardinal principles" (party leadership, socialism, proletarian dictatorship, Marxism-Leninism-Mao Zedong Thought) remain inviolable; the Tiananmen crackdown resets discourse norms toward tighter control.
+
+__Reception, Attention & Amplification:__ Television audience grows from approximately 30 million (1976) to over 600 million (1989); Xinwen Lianbo (Network News) at 7 PM becomes the mandatory daily ritual structuring national attention; the Spring Festival Gala (from 1983) creates annual shared viewing events of unprecedented scale.
+
+__Signal Integrity & Noise Load:__ Foreign shortwave broadcasts (VOA, BBC) remain available to determined listeners with appropriate receivers; jamming continues but is imperfect; during the 1989 protests, foreign broadcasts provide alternative information to domestic audiences, demonstrating the limits of informational closure.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The post-Mao consensus rejects continuous revolution in favor of stability and development; "seeking truth from facts" displaces ideological purity as the operative standard; corruption emerges as a major public concern, perceived as betraying the reform promise.
+
+__Law, Codification & Regulatory Evolution:__ Legal system reconstruction begins; the 1982 Constitution establishes formal rights and governmental structure; commercial law develops to support market transactions; broadcasting regulation formalizes through administrative decrees rather than legislation.
+
+__Adjudication, Liability & Sanction:__ Courts reconstitute after Cultural Revolution suspension but remain subordinate to party authority; the rule of law advances formally while remaining instrumentalized; June 4 demonstrates that state action against perceived threats operates outside legal constraint.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights exist formally but lack enforcement mechanisms; press licensing requires state approval with no avenue for independent broadcasting; the "four cardinal principles" define the boundary of permissible expression.
+
+__Impunity & Unredressed Wrong:__ Cultural Revolution perpetrators largely escape accountability; the 1981 "Resolution on Certain Questions" attributes blame to the Gang of Four while preserving Mao's legacy; victims receive limited rehabilitation but perpetrators retain positions; this pattern of unredressed wrong establishes a precedent for June 4.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Universities reopen after Cultural Revolution closure; science and technology receive priority as the "key link" for modernization; economic reform proceeds pragmatically without comprehensive theoretical justification ("crossing the river by feeling the stones").
+
+__Applied Knowledge & Technical Method:__ Technology transfer from Japan and the West accelerates; domestic manufacturing adopts foreign production methods; broadcasting technology modernizes through equipment imports and gradual indigenous development.
+
+__Education, Knowledge Stock & Skill Distribution:__ Higher education expands; the gaokao (university entrance examination) resumes, creating meritocratic pathways; literacy continues advancing toward universal; technical and engineering training receives emphasis.
+
+__Obsolescence & Knowledge Decay:__ Maoist political theory retains formal authority but loses operative significance; the "seeking truth from facts" formula permits practical departure from ideology without explicit repudiation; the knowledge lost during Cultural Revolution school closures creates a generational gap.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Chinese identity reconstitutes around modernization and national rejuvenation rather than revolutionary struggle; the "century of humiliation" narrative persists, with development framed as recovery of rightful international standing; the Cultural Revolution becomes a wound to be healed rather than a model to follow.
+
+__Legitimating Narrative & Ideology:__ "Socialism with Chinese characteristics" emerges as the legitimating formula, sufficiently elastic to accommodate market reforms while maintaining party authority; Deng's formulation that "to get rich is glorious" signals ideological departure without formal repudiation of socialism.
+
+__Artistic Expression & Material Culture:__ Television programming develops entertainment genres — drama serials, variety shows, historical adaptations — that replace the revolutionary model operas of the Cultural Revolution; consumer goods, including television sets, become markers of household prosperity and reform success; fashion diversifies as clothing restrictions relax.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary cultural forms exhaust their capacity to compel; the "scar literature" movement in print reflects on Cultural Revolution trauma; television avoids this reckoning, instead offering forward-looking entertainment that implicitly buries the recent past.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Pragmatic materialism displaces revolutionary fervor; the official atheism of the Marxist-Leninist framework persists formally while losing its mobilizing power; existential meaning increasingly attaches to family prosperity and national development rather than ideological struggle.
+
+__Ritual, Devotion & Sacred Practice:__ Religious practice revives cautiously as temples and churches reopen; the party permits controlled religious expression while maintaining registration requirements and prohibition on proselytizing; traditional festivals (Spring Festival, Mid-Autumn) return to broadcast celebration, their pre-revolutionary forms partially rehabilitated.
+
+__Religious Institutions & Doctrinal Authority:__ The patriotic religious associations (Buddhist, Taoist, Protestant, Catholic, Islamic) reconstitute under state supervision; the Vatican-aligned Catholic Church remains prohibited; doctrinal authority rests with state-approved religious bodies rather than autonomous clerical hierarchies.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity spreads through both official and unofficial ("house church") channels; traditional folk religion revives in rural areas; qigong movements proliferate, filling spiritual space vacated by ideological exhaustion, with Falun Gong's emergence (1992) just beyond this period's boundary.
+
+__Disenchantment & Sacred Discharge:__ The collapse of revolutionary faith leaves a spiritual vacuum that material prosperity and entertainment television only partially fill; the search for meaning beyond consumption and career begins, though it remains politically constrained and finds no authorized broadcast expression.

@@ -1,69 +1,139 @@
-# __1810 CE – 1950 CE__ — Andean Press and Political Communication
-__Summary:__ A pan-temporal overview of print-mediated political communication across the Andean republics from independence to the broadcast threshold; the binding constraint is literacy concentration among urban Spanish-speaking elites, limiting print's reach to a narrow stratum even as newspapers multiply and telegraph accelerates transmission; the system holds margin against censorship cycles through exile journalism and clandestine printing but remains structurally brittle against authoritarian closure; the trend across the window is gradual expansion of press infrastructure and readership, though still far short of mass penetration when radio emerges.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Andean cordillera fragments political space into highland basins and coastal strips connected by difficult mountain passes; Lima, Santiago, Bogota, and La Paz serve as print centers with slow overland distribution to provincial towns and negligible penetration into rural interiors.<br><br>
-__Climate Regime & Volatility:__ Arid Pacific coast, temperate central valleys, and highland altiplano create distinct regional climates; seasonal variation affects transport and paper supply but does not fundamentally constrain urban press operations; climate regime stable across the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk affects Lima and coastal cities periodically; earthquakes occasionally damage printing facilities but do not systematically disrupt press continuity; volcanic and flood hazards localized.<br><br>
-__Resource & Energy Endowment:__ Paper imported from Europe and later North America; local rag supply limited; ink and type imported until late nineteenth century; energy for hand presses minimal, later steam presses draw on imported coal; no binding resource scarcity for urban print operations.<br><br>
-__Waste Absorption & Sink Capacity:__ Print waste negligible at urban scale; discarded newspapers, ink residue absorbed without strain; sink capacity effectively unlimited relative to production volumes.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases persist; yellow fever and typhoid episodic in coastal cities; mortality baseline elevated but stable; sanitary conditions in printing districts poor but not distinctive; no direct impact on press operations beyond occasional workforce attrition.<br><br>
-__Nutrition & Physiological Vitality:__ Urban literate classes adequately nourished; printers and journalists drawn from artisan and professional strata with reasonable nutritional status; indigenous majority largely excluded from both literacy and urban provisioning networks.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Urban middle-class marriage patterns standard for Latin America; no distinctive reproductive pressures on the print-engaged stratum.<br><br>
-__Demographic Renewal & Density:__ Urban populations grow through rural-to-urban migration; Lima, Santiago, Bogota expand; literate cohort grows slowly but remains a small fraction; indigenous highland populations maintain separate demographic dynamics largely outside print communication.<br><br>
-__Attrition & Dependency Overhang:__ Standard dependency ratios for urban populations; no distinctive overhang affecting press sector; warfare and political violence create periodic cohort losses among politically engaged journalists.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Urban literate population above subsistence; printers, editors, journalists sustained by commercial and political patronage; indigenous majority at or near subsistence floor excluded from print economy.<br><br>
-__Energy Capture & Conversion:__ Hand presses require minimal energy; steam presses introduced mid-nineteenth century in major capitals; coal and later petroleum imported; telegraph network electrified from 1870s; energy conversion adequate for press scale.<br><br>
-__Labor Organization & Coercion:__ Printers organized as artisan guilds early; typographers form mutual aid societies; wage labor predominates; occasional strikes; no coerced labor in print sector.<br><br>
-__Production & Surplus Capacity:__ Print runs limited by market size; early papers circulate hundreds of copies; El Mercurio and El Comercio reach thousands by late nineteenth century; surplus modest, sustained by advertising and political subsidy.<br><br>
-__Storage, Reserves & Buffering:__ Paper stocks held by major newspapers; telegraph fees create ongoing expense; commercial papers more financially stable than partisan sheets dependent on factional patronage; reserves thin for most publications.<br><br>
-__Exchange, Trade & Logistics:__ Newspapers distributed by subscription, street sale, and mail; telegraph transmission of news from 1870s; distribution networks follow rail and port infrastructure; interior distribution slow and expensive.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Newspaper subscriptions paid in advance; advertising credit extended to commercial clients; print shops operate on thin credit margins; currency instability affects all commercial operations.<br><br>
-__Surplus Extraction & Redistribution:__ State advertising and official notices provide revenue to favored papers; opposition press denied access; no direct taxation of press but tariffs on imported supplies; patronage redistributes surplus to aligned publications.<br><br>
-__Wealth Distribution & Asset Defense:__ Press ownership concentrated among political elites and commercial families; major papers (El Mercurio, El Comercio) become assets of oligarchic networks; small partisan papers lack capital reserves.<br><br>
-__Byproducts & Waste Routing:__ Waste paper, damaged type, ink residue discarded locally; volumes trivial; no recycling infrastructure but no disposal burden either.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Journalist and printer communities maintain occupational solidarity; mutual aid societies formed; trust radius limited by political faction; partisan press intensifies rather than bridges social divisions.<br><br>
-__Stratification, Status & Group Identity:__ Print communication stratified by literacy, language, and urban residence; criollo elites dominate; mestizo middle class expands readership base late in window; indigenous populations excluded by language and illiteracy; racial hierarchy reflected in who reads and who is read about.<br><br>
-__Kinship, Family & Inheritance:__ Newspaper ownership transmitted within families (Edwards family and El Mercurio); editorial positions carry prestige; no distinctive kinship patterns.<br><br>
-__Civic Association & Self-Organization:__ Press associations formed by mid-nineteenth century; typographers' guilds; journalistic professional identity emerges; newspapers serve as forums for civic debate among literate minority.<br><br>
-__Leisure, Play & Sociability:__ Cafes and clubs serve as reading rooms; newspaper discussion central to elite sociability; serialized fiction provides entertainment; sports pages emerge late in window.<br><br>
-__Grievance Channels & Social Discharge:__ Opposition press serves as grievance channel for excluded factions; censorship blocks discharge during authoritarian periods; exile journalism provides alternative outlet; social friction around press freedom recurrent.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Republican constitutions establish press freedom in principle; executive power frequently overrides in practice; caudillo and oligarchic regimes oscillate between tolerance and suppression; central authority fragmented across multiple republics with distinct press environments.<br><br>
-__Succession & Power Transfer:__ Press plays active role in succession struggles; newspapers align with candidates; coups and contested transfers produce press closures and exiles; no stable transfer mechanism insulates press from political turbulence.<br><br>
-__Legitimacy & Political Narrative:__ Newspapers carry legitimation narratives; republican ideology, liberal and conservative variants, indigenista discourse later; press is both vehicle and battleground for legitimacy claims.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Postal services enable distribution; telegraph under state control in some periods; administrative capacity to censor varies; corruption affects licensing and access to official notices.<br><br>
-__Political Participation & Mobilization:__ Press mobilizes literate factions; editorials call for action; labor press organizes workers; student papers politicize universities; participation channeled through print but limited by literacy ceiling.<br><br>
-__Geopolitical Position & External Relations:__ War of the Pacific covered extensively; nationalist press intensifies during conflicts; foreign news via telegraph from 1870s; European and US news agencies supply international coverage.<br><br>
-__Coercive Apparatus & Means of Force:__ Police and military close newspapers during crises; editors arrested, exiled, or killed; presses confiscated; coercive capacity deployed selectively against opposition press.<br><br>
-__Internal Order & Threat Environment:__ Political violence targets journalists; labor unrest produces press coverage and suppression; anarchist and socialist papers face particular repression; disorder around press freedom recurrent throughout window.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Early period relies on ship mail and overland courier; telegraph arrives 1870s, accelerating news transmission to hours rather than weeks; newspapers remain daily or weekly; velocity increases but distribution still constrained by transport infrastructure to provincial readers.<br><br>
-__Record, Storage & Persistence:__ Newspapers collected in archives; national libraries preserve runs; bound volumes in elite libraries; persistence reasonable for major papers, patchy for small partisan sheets; fire and neglect cause losses.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship imposed during authoritarian periods (Leguia, Ibanez); self-censorship under threat; opposition discourse conducted through exile papers and clandestine sheets; permitted discourse band fluctuates with regime.<br><br>
-__Reception, Attention & Amplification:__ Literate urban readers primary audience; public reading aloud extends reach slightly; newspapers read in cafes and clubs; amplification limited by literacy ceiling; editorial reprints spread key arguments.<br><br>
-__Signal Integrity & Noise Load:__ Partisan press produces contradictory accounts; verification limited; rumor circulates alongside reported news; signal integrity low in political coverage, higher in commercial information; noise load moderate, filtered by reader faction loyalty.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Press freedom valued as republican ideal; violation seen as tyrannical; journalists invoke rights discourse; popular support for press freedom among literate minority.<br><br>
-__Law, Codification & Regulatory Evolution:__ Constitutions guarantee press freedom; press laws regulate libel and sedition; legal frameworks shift with regimes; codification inconsistent; regulatory burden varies by period and republic.<br><br>
-__Adjudication, Enforcement & Liability:__ Libel suits pursued against opposition editors; sedition charges during crises; courts variably independent; enforcement often extrajudicial through police action or mob violence; liability unpredictable.<br><br>
-__Rights, Protections & Compliance Burden:__ Nominal press freedom rights frequently overridden; editors bear compliance burden of licensing and potential prosecution; protection depends on political alignment; compliance drag high for opposition press.<br><br>
-__Impunity & Unredressed Wrong:__ Attacks on journalists rarely prosecuted; impunity for state agents and allied mobs; wrongful closures unredressed; accumulated impunity burden significant across the window.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Liberal and positivist frameworks shape editorial content; indigenista discourse emerges 1920s; Marxist analysis enters labor press; intellectual paradigms transmitted through print venues; universities linked to press through faculty contributions.<br><br>
-__Applied Knowledge & Technical Method:__ Printing technology imported; steam presses, linotype machines adopted by major papers; telegraph integration standard by 1880s; technical methods adequate for production scale.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy concentrated in urban middle and upper classes; perhaps ten to twenty percent literate by end of window; education systems expand slowly; knowledge stock accessible only to literate minority; skill distribution sharply unequal.<br><br>
-__Obsolescence & Knowledge Decay:__ Older printing techniques superseded; hand composition gives way to linotype; some loss of earlier newspaper runs; no systematic knowledge decay but earlier periods increasingly inaccessible as archives deteriorate.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Independence narratives transmitted through commemorative press coverage; Bolivar, San Martin as founding figures; national identity shaped by print dissemination of patriotic history; regional identities reinforced by local papers.<br><br>
-__Artistic Expression & Material Culture:__ Newspaper typography evolves; illustrations increase late nineteenth century; literary supplements carry serialized fiction and poetry; material culture of newsprint becomes familiar urban artifact.<br><br>
-__Collective Mood & Behavioral Disposition:__ Press both reflects and shapes collective mood; nationalist fervor during wars; reform enthusiasm in 1920s; anxiety during Depression; mood communicated through editorial tone and news selection.<br><br>
-__Form Exhaustion & Meaning Decay:__ Partisan rhetoric becomes formulaic; independence-era styles persist into stale convention; some exhaustion of nineteenth-century genres by 1930s; renewal through indigenista and labor press voices; radio emergence signals form transition rather than internal decay.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology remains baseline; liberal anticlerical currents expressed in press; positivist and later socialist frameworks offer secular alternatives; existential outlook contested through print rather than unified.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious press covers devotional matters; Catholic papers defend Church positions; anticlerical press attacks clerical influence; sacred practice reported but not primarily mediated through print.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church maintains own press; contests liberal papers; clerical authority defended and attacked through print; institutional power reflected in press coverage of religious-state conflicts.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestant missions produce limited print materials; indigenous spirituality largely absent from Spanish-language press; Catholic dominance maintained through window; no major displacement visible in print record.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular intellectualism spreads through print venues; some elite disenchantment; sacred meaning maintained for majority through Church channels outside print; disenchantment a minority current, not producing visible existential void in this window.<br><br>
+# __1810 CE – 1950 CE — Andean Press and Political Communication__
+
+The printed word carries the entire arc of republican politics across Peru, Chile, and Bolivia, from independence proclamations to mass-circulation dailies and labor pamphlets. The binding constraint is literacy concentration: throughout the period, the reading public remains a coastal, urban, Spanish-speaking minority, so print shapes elite opinion and factional struggle but reaches highland indigenous majorities only through oral mediation, limiting democratic depth even as circulation expands and political vocabulary diversifies.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Andes divide the reading public into disconnected basins: Lima's coastal plain, Santiago's central valley, La Paz's altiplano, each with its own press ecosystem separated by weeks of mule travel until railways and telegraph partially integrate them after 1860. Provincial towns receive metropolitan papers days or weeks late, sustaining local sheets that reprint or reframe capital news.
+
+__Climate Regime & Volatility:__ Arid coastal strips favor paper preservation and year-round printing; highland humidity and altitude impose storage challenges for books and newsprint. El Nino floods periodically disrupt coastal transport of imported paper and ink.
+
+__Hazard Regime & Exposure:__ Earthquakes destroy presses and archives: Lima's 1821 disruption, Santiago's 1906 quake. Political instability proves a greater hazard to print infrastructure than nature: sacked printing shops, confiscated type, exiled editors recur through the caudillo and civil-war cycles.
+
+__Resource & Energy Endowment:__ Paper remains imported throughout the period; domestic pulp production minimal. Ink, type, and rotary presses arrive from Europe and North America. Energy for presses shifts from hand power to steam (1860s) to electricity (1900s) in major cities.
+
+__Waste Absorption & Sink Capacity:__ Ephemeral newsprint accumulates as urban refuse; no industrial-scale paper recycling. Unsold runs, censored issues, and revolutionary broadsides are pulped or burned according to regime preference.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Yellow fever, typhus, and cholera outbreaks (Lima 1868, 1903) disrupt printing schedules and postal delivery. Editors and compositors suffer occupational lead poisoning from type handling.
+
+__Nutrition & Physiological Vitality:__ Literate urban populations enjoy better nutrition than highland peasantries; this gap reinforces the class character of the reading public. Malnutrition among indigenous majorities limits their physical capacity for schooling and literacy acquisition.
+
+__Care, Healing & Recovery Capacity:__ Hospital bulletins and public health notices circulate via press during epidemics, establishing print as a channel for official medical communication. Quinine and vaccination campaigns are publicized through newspapers, reaching literate intermediaries who transmit content orally.
+
+__Reproductive Biology & Pairing Dynamics:__ Print carries marriage announcements, obituaries, and social registers that reinforce elite endogamy. Classified advertisements mediate domestic service recruitment, linking reproductive labor markets to print channels.
+
+__Demographic Renewal & Density:__ Urban growth concentrates readership: Lima, Santiago, and Valparaiso expand faster than print infrastructure, sustaining demand. Rural-urban migration brings semi-literate populations to cities where newspapers are read aloud in plazas and cafes.
+
+__Attrition & Dependency Overhang:__ War casualties (War of the Pacific, Chaco War) generate widows' pension notices and casualty lists published in official gazettes, making the press a registry of national loss.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Print production depends on imported inputs; subscription costs exceed weekly wages for laborers, confining regular readership to professional and commercial strata.
+
+__Energy Capture & Conversion:__ Steam-powered rotary presses (1870s) multiply output; electrification (1900s) enables continuous runs and photographic reproduction. Energy infrastructure in capitals outpaces provinces, widening circulation gaps.
+
+__Labor Organization & Coercion:__ Typographers, pressmen, and newsboys form early unions (Chilean typographers' mutuals, 1850s; Lima printers' guild, 1880s). Labor press emerges from these associations, printing strike notices and mutual-aid announcements.
+
+__Production & Surplus Capacity:__ Major dailies achieve print runs of 10,000–50,000 by 1920 (El Mercurio, El Comercio); provincial papers remain under 5,000. Advertising revenue supports metropolitan sheets; political patronage sustains smaller partisan organs.
+
+__Storage, Reserves & Buffering:__ Newspaper archives and bound volumes accumulate in national libraries (Biblioteca Nacional de Chile, 1813; Peru, 1821); fire and political upheaval destroy irreplaceable runs.
+
+__Exchange, Trade & Logistics:__ Postal systems carry newspapers inland at subsidized rates; coastal steamers distribute to port cities. Telegraph (1860s) and wire services (1890s) accelerate news transmission; papers publish "latest wire" columns.
+
+__Value Storage, Credit & Deferred Exchange:__ Subscription payments and advertising contracts create receivables; newspapers frequently operate on credit from political patrons or import houses. Financial press sections (Lima's commercial columns, Valparaiso's maritime bulletins) shape commodity and credit markets.
+
+__Surplus Extraction & Redistribution:__ Governments subsidize official gazettes, placing public notices and legal advertisements that sustain compliant sheets. Opposition papers survive on party subscriptions and exile remittances.
+
+__Wealth Distribution & Asset Defense:__ Newspaper ownership concentrates among oligarchic families: Edwards (El Mercurio), Miro Quesada (El Comercio). Print defends property interests through editorials supporting land tenure, contract law, and export policy.
+
+__Byproducts & Waste Routing:__ Unsold newspapers wrap produce and line trunks; no systematic recycling. The financial residue is chronic insolvency among partisan papers that outlive their patrons.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Newspaper dynasties pass ownership through family lines, intermarrying with commercial and landed elites. Editorials defend inheritance law and elite family honor.
+
+__Association & Mutual Aid:__ Press announces mutual-aid society meetings, lodge gatherings, and charitable drives. Printers' mutuales are among the earliest working-class associations; their bulletins precede mass labor press.
+
+__Leisure, Play & Sociability:__ Newspapers carry theater schedules, bullfight results, and social calendars. Literary supplements and serialized novels provide leisure reading; cafe reading rooms make papers available to non-subscribers.
+
+__Stratification, Status & Group Structure:__ The reading public is stratified by language (Spanish), literacy (urban schooled), and class (professional, commercial, artisan). Indigenous majorities access print content only through oral relay or bilingual intermediaries; this exclusion persists until literacy campaigns of the 1940s.
+
+__Administrative Capacity & Institutional Integrity:__ Official gazettes (Diario Oficial de Chile, El Peruano) publish laws, decrees, and contracts, making the state legible to its literate constituency. Press licensing, libel laws, and emergency censorship regulate but do not eliminate opposition print.
+
+__Coercive Apparatus & Means of Force:__ Military governments suspend newspapers, confiscate presses, and exile editors (Peru's caudillo era, Chile's 1891 civil war, Bolivia's post-Chaco coups). Wartime censorship (War of the Pacific) controls military information but cannot suppress rumor networks.
+
+__Discharge, Disorder & Decay:__ Press feuds escalate into duels and street brawls; editorial insults carry social consequences. Underground pamphlets and clandestine sheets circulate when legal press is silenced, ensuring political discourse continues through the print medium even under repression.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Newspapers shape patriotic fervor during wars (anti-Chilean sentiment in Peru post-1879, anti-Peruvian sentiment in Chile during the conflict). Editorial campaigns whip up or calm panic during financial crises and epidemics.
+
+__Leadership & Personal Authority:__ Editors acquire political weight: Gonzalez Prada's articles inspire Peruvian radicalism; Alberto Edwards shapes Chilean conservatism through El Mercurio. Presidential candidates cultivate friendly papers; some (Alessandri) master newspaper rhetoric.
+
+__Legitimacy as Lived Allegiance:__ Print legitimates republican constitutions by publishing and disseminating founding documents. Opposition papers erode legitimacy by exposing corruption, election fraud, and military abuses, creating a feedback loop between print and political crisis.
+
+__Political Will & Collective Resolve:__ Labor and reform movements use pamphlets and weeklies to sustain mobilization between strikes and elections. APRA's La Tribuna, Chilean socialist sheets, and Bolivian MNR organs build party identities through print.
+
+__External Relations & Posture:__ Newspapers amplify territorial disputes (Tacna-Arica question, Bolivia's sea access grievance), sustaining nationalist pressure on governments. Editorial campaigns target foreign capital (British nitrate interests, U.S. copper companies), channeling economic resentment.
+
+__Disaffection, Apathy & Spent Will:__ Censorship and repeated closures demoralize opposition editors; some abandon journalism for exile or other professions. Reader fatigue with partisan invective limits circulation growth among non-aligned publics.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish-language print excludes monolingual Quechua and Aymara speakers. Literacy rates rise unevenly: Chile reaches 50% by 1900, Peru and Bolivia lag at 20–30%. The literate minority mediates content to the illiterate majority through public reading and oral summary.
+
+__Channels & Transmission Velocity:__ Coastal steamers and mule trains carry newspapers until railways accelerate distribution (1870s). Telegraph enables same-day transmission of headlines; wire services (Reuters, AP) connect Andean capitals to global news by 1890.
+
+__Record, Storage & Persistence:__ National libraries archive newspaper runs, preserving the print record despite fire, earthquake, and political purges. Bound volumes serve historians and lawyers; ephemeral pamphlets are less systematically preserved.
+
+__Framing, Censorship & Discourse Norms:__ Press laws oscillate between liberal (freedom of the press in constitutions) and restrictive (emergency decrees, military censorship). Editors self-censor to avoid prosecution; euphemism and innuendo carry controversial content. Foreign news is filtered through wire-service framing.
+
+__Reception, Attention & Amplification:__ Cafe reading, public squares, and union halls amplify newspaper content beyond individual subscribers. Headlines are shouted by newsboys; key articles are reprinted in provincial papers, extending reach.
+
+__Signal Integrity & Noise Load:__ Partisan bias saturates political news; readers discount factional organs accordingly. Wire-service copy provides a neutral baseline that even partisan papers must acknowledge. Misinformation during wars and coups degrades signal quality until official communiques restore clarity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Press campaigns invoke republican virtue, constitutional legality, and national honor. Exposures of corruption and abuse appeal to shared norms of probity and fair dealing.
+
+__Law, Codification & Regulatory Evolution:__ Press laws define libel, sedition, and official secrets; constitutions guarantee press freedom with exceptions for public order. Regulatory regimes tighten under dictatorships and relax under liberal governments.
+
+__Adjudication, Liability & Sanction:__ Libel suits and press trials punctuate editorial conflicts. Editors face fines, imprisonment, and exile; papers are suspended or confiscated. Courts rarely favor opposition papers against sitting governments.
+
+__Rights, Protections & Compliance Burden:__ Journalists claim professional status and press-pass privileges by century's end. Protection remains precarious; editors killed or attacked (Peruvian caudillo era, Chilean 1891 civil war) demonstrate the limits of legal safeguards.
+
+__Impunity & Unredressed Wrong:__ Attacks on journalists by soldiers or mobs go unpunished when governments prefer silence. Impunity accumulates as a standing grievance within the press community, fueling solidarity across partisan lines.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Newspapers serialize scientific articles, translate European positivism, and publish university lectures. The press mediates intellectual currents (Krausism, social Darwinism, Marxism) to educated readers.
+
+__Applied Knowledge & Technical Method:__ Printing technology advances from flatbed to rotary to phototypesetting; telegraphy, photography, and illustration integrate into newspaper production. Technical schools train printers and journalists.
+
+__Education, Knowledge Stock & Skill Distribution:__ Mass education campaigns (Chilean normal schools, Peruvian literacy drives) expand the reading public. Newspapers carry educational supplements, children's pages, and adult-literacy primers.
+
+__Obsolescence & Knowledge Decay:__ Hand-set type gives way to linotype (1900s); skilled hand compositors become redundant. Old printing equipment is sold to provincial papers, extending technological life at the periphery.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Independence newspapers crystallize republican founding myths; anniversary editions commemorate battles and heroes. Press narratives of national origin compete (Bolivarian vs. San Martinian in Peru) until official histories stabilize.
+
+__Legitimating Narrative & Ideology:__ Oligarchic papers justify export liberalism, property rights, and order; labor press advances anarchist, socialist, and populist counter-narratives. APRA's indigenismo and MNR's revolutionary nationalism circulate through party organs.
+
+__Artistic Expression & Material Culture:__ Newspapers carry literary supplements, poetry, and serialized fiction; modernist and realist movements reach readers through periodicals. Illustrations, political cartoons, and photographic reproduction shape visual culture.
+
+__Form Exhaustion & Meaning Decay:__ By 1950, formulaic partisan rhetoric exhausts some readers; radio and newsreels begin to capture attention, signaling the broadcast challenge to print dominance.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic papers (El Catolico, Lima) defend faith against liberal secularism; anticlerical sheets mock clergy and hierarchy. Both assume a Christian frame even when contesting institutional authority.
+
+__Ritual, Devotion & Sacred Practice:__ Newspapers announce feast days, processions, and religious observances; they publicize pilgrimages and miraculous events. Devotional print (prayer cards, catechisms) circulates alongside secular press.
+
+__Religious Institutions & Doctrinal Authority:__ Church-owned or -aligned papers defend ecclesiastical property and education; liberal press campaigns for civil marriage, secular cemeteries, and separation of church and state (Chile 1880s).
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Protestant missions produce bilingual tracts for indigenous evangelization (20th century); their reach remains marginal. Secular nationalism offers an alternative source of transcendence, expressed through patriotic editorials and war memorials.
+
+__Disenchantment & Sacred Discharge:__ Educated elites increasingly read European freethought and positivism via imported books and newspaper excerpts; secularizing drift is visible in declining religious coverage by mid-20th century, though the Catholic frame remains dominant among popular readers.

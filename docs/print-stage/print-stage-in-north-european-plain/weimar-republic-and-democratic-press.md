@@ -1,69 +1,139 @@
-# __1918 CE – 1930 CE__ — Weimar Republic and Democratic Press
-__Summary:__ A trend spanning the emergence, stabilization, and early crisis of German parliamentary democracy, when constitutional press freedom replaces wartime censorship and a polarized media landscape reflects the republic's fragility; the binding constraint is the gap between democratic institutions and the legitimacy deficit inherited from defeat and revolution; margin against shock is narrow, briefly restored during the Stresemann stabilization (1924–1929), then exhausted by the 1929 crash; the direction of change moves from revolutionary chaos through precarious stability toward renewed crisis and the approaching end of democratic governance.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain remains the German heartland, but territorial losses at Versailles — Alsace-Lorraine, Posen, West Prussia, the Polish Corridor — truncate the state and create geographic grievances; East Prussia is severed from the main territory; the Rhineland is demilitarized and occupied; internal transit remains efficient via the rail network.<br><br>
-__Climate Regime & Volatility:__ Temperate continental conditions persist without secular drift; no exceptional climate events shape the period; agricultural production recovers from wartime disruption and operates within normal variability; the physical environment is stable while the political environment convulses.<br><br>
-__Hazard Regime & Exposure:__ No significant natural disasters; the hazard regime is social and political rather than environmental; floods and storms remain within normal parameters; infrastructure rebuilt after war holds against natural shocks; environmental hazards are not a primary concern.<br><br>
-__Resource & Energy Endowment:__ Ruhr coal and industrial capacity remain substantial but reparations impose claims on output; the Saar is under League administration; Silesian coal is partly lost to Poland; petroleum dependence continues; the resource base is diminished but remains adequate for industrial recovery; electrification advances.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution continues unabated; urban sanitation maintains prewar standards; the Ruhr remains heavily polluted; environmental regulation is minimal; absorptive capacity is not approached as a limit; waste is externalized without consequence during this period.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Postwar influenza pandemic (1918–1920) kills hundreds of thousands; tuberculosis remains elevated from wartime malnutrition; venereal disease spreads; mortality rates normalize by mid-1920s; public health infrastructure recovers; the pathogen load recedes from wartime peaks but recovery is gradual.<br><br>
-__Nutrition & Physiological Vitality:__ Severe malnutrition continues through 1919–1920 under continued Allied blockade; recovery begins with food imports; by mid-1920s nutritional status approaches prewar norms; the hyperinflation of 1923 temporarily worsens conditions; the stabilization period sees genuine improvement in physical vitality.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage rates recover after demobilization; birth rates begin to rise but remain below prewar levels; the "surplus women" problem — two million more women than men due to war deaths — reshapes pairing dynamics; new relationship patterns emerge; fertility is recovering but demographic structure is scarred.<br><br>
-__Demographic Renewal & Density:__ Population slowly recovers from war losses; the birth deficit of 1914–1918 creates cohort gaps; immigration is minimal; urban density persists; the demographic pyramid shows the war's wounds — missing men, reduced births; renewal is underway but the damage will take generations to repair.<br><br>
-__Attrition & Dependency Overhang:__ War invalids, widows, and orphans constitute a massive burden — over one million permanently disabled veterans require pensions; war trauma manifests as psychological disability; the welfare state expands to absorb this load; the dependency overhang strains public finances throughout the period.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Food supply stabilizes after 1920; the subsistence crisis ends with blockade termination and currency stabilization; rationing is phased out; by mid-1920s provisioning returns to adequacy for most; the hyperinflation of 1923 temporarily threatens access but the floor holds above wartime depths.<br><br>
-__Energy Capture & Conversion:__ Coal production recovers and expands; electrification accelerates — power grids extend; petroleum imports increase for transport; energy per capita rises through the decade; industrial energy consumption reflects economic recovery; the conversion regime modernizes with rationalization.<br><br>
-__Labor Organization & Coercion:__ Free labor markets return; trade unions gain legal recognition and power; collective bargaining is institutionalized; the eight-hour day is established; coercion recedes dramatically from wartime levels; labor-capital relations are formalized through corporatist arrangements; strikes are legal and frequent.<br><br>
-__Production & Surplus Capacity:__ Industrial production collapses in 1918–1919, recovers through the 1920s, and exceeds prewar levels by 1928; rationalization and Fordist methods increase efficiency; surplus capacity grows during the stabilization period; American investment finances expansion; the 1929 crash will reverse these gains.<br><br>
-__Storage, Reserves & Buffering:__ Reserves are depleted by war and inflation; rebuilding occurs during stabilization; gold reserves are restored under the Dawes Plan; foreign loans provide buffer; corporate reserves accumulate; but the buffer remains thin — dependent on continued American credit that will evaporate in 1929.<br><br>
-__Exchange, Trade & Logistics:__ International trade resumes; Germany reintegrates into world markets; reparations distort trade flows; the Dawes Plan (1924) and Young Plan (1929) structure payments; internal logistics modernize; trucking supplements rail; exchange mechanisms normalize after hyperinflation destroys the currency system.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ The hyperinflation of 1922–1923 annihilates savings, destroys debt, and transfers wealth arbitrarily; the Rentenmark (1923) and Reichsmark (1924) restore monetary stability; credit flows from America finance recovery; value storage is possible again but trust in currency remains scarred; middle-class savings are wiped out.<br><br>
-__Surplus Extraction & Redistribution:__ Reparations extract surplus for Allied powers; domestic taxation is heavy to fund welfare obligations and reparations; the welfare state redistributes significantly — unemployment insurance, health coverage, veteran benefits; the extraction-redistribution load is high but sustainable during prosperity.<br><br>
-__Wealth Distribution & Asset Defense:__ Inflation reshuffles wealth — debtors benefit, creditors lose; asset holders with real property preserve value while monetary savers are wiped out; inequality reconfigures rather than reduces; industrialists consolidate; the middle class is damaged; land and industrial assets prove the most defensible stores.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste increases with recovery; pollution loads rise; no significant environmental regulation develops; waste is externalized into air and water; the Ruhr remains heavily polluted; routing decisions favor production over environmental protection; byproduct management is essentially uncontrolled.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ The war, revolution, and inflation shatter prewar trust patterns; class antagonism intensifies; political polarization divides communities; mutual aid operates within ideological camps — socialist, Catholic, nationalist — rather than across them; the radius of trust contracts to the like-minded.<br><br>
-__Stratification, Status & Group Identity:__ Class boundaries sharpen — workers organize, the bourgeoisie feels threatened, aristocratic status erodes; Jewish Germans face rising antisemitism; women's roles shift postwar; veterans form a distinct identity group; stratification is contested and identities are mobilized for political conflict.<br><br>
-__Kinship, Family & Inheritance:__ Family structures adapt to postwar conditions — female-headed households, smaller families, changing gender relations; inheritance patterns are disrupted by inflation which destroys monetary bequests; the family remains the primary welfare unit but is stressed by economic volatility and social change.<br><br>
-__Civic Association & Self-Organization:__ Associational life flourishes — parties, unions, clubs, leagues proliferate across the political spectrum; Weimar is a society of organizations; but associations are politically aligned and reinforce division rather than bridging it; civil society is dense but fragmented and mobilized for conflict.<br><br>
-__Leisure, Play & Sociability:__ Urban entertainment expands — cinema, cabarets, sports, dance halls; Berlin becomes a cultural capital; leisure is commercialized and democratized; sociability occurs within ideological milieus; the "roaring twenties" reach Germany in attenuated form; play reflects both liberation and anxiety.<br><br>
-__Grievance Channels & Social Discharge:__ Democratic institutions provide legitimate channels — elections, strikes, protest, press; grievances are voiced openly; but the volume of grievance exceeds what institutions can absorb; street violence between political factions becomes normalized; discharge is partial and contested rather than resolved.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary democracy under the Weimar Constitution; the President holds emergency powers under Article 48; coalition governments are unstable — frequent cabinet changes; power is fragmented among parties, states, bureaucracy, military, and industrial interests; authority is diffuse and contested.<br><br>
-__Succession & Power Transfer:__ Electoral succession operates but coalitions are fragile; Ebert serves as President until 1925, succeeded by Hindenburg; cabinet turnover is high but constitutional; the system processes transfers but cannot generate stable majorities; succession works mechanically while legitimacy remains contested.<br><br>
-__Legitimacy & Political Narrative:__ The republic suffers a legitimacy deficit — born of defeat, associated with Versailles, despised by right and left; the "stab in the back" myth blames democrats for losing the war; no compelling founding narrative unites the nation; legitimacy is contested throughout and never fully established.<br><br>
-__Administrative Capacity & Institutional Integrity:__ The German bureaucracy maintains high capacity; record-keeping, tax collection, and administration continue efficiently; the civil service is largely inherited from the Empire and ambivalent toward democracy; institutional integrity is high but commitment to the regime is questionable.<br><br>
-__Political Participation & Mobilization:__ Universal suffrage includes women; voter turnout is high; parties mobilize mass memberships; political participation extends beyond elections to demonstrations, strikes, and paramilitary activity; the public is intensely engaged but engagement is polarized and often violent.<br><br>
-__Geopolitical Position & External Relations:__ Germany is isolated and weakened at war's end; Locarno treaties (1925) begin rehabilitation; League of Nations membership (1926) marks reintegration; reparations dominate foreign relations; the eastern borders remain contested; gradual recovery of international standing during the Stresemann era.<br><br>
-__Coercive Apparatus & Means of Force:__ The Reichswehr is limited to 100,000 by Versailles; paramilitary forces (Freikorps, SA, Reichsbanner, Rotfront) fill the gap; the state's monopoly on force is incomplete; police forces vary by state; the coercive apparatus is fragmented and the state cannot fully control political violence.<br><br>
-__Internal Order & Threat Environment:__ Political violence is endemic — assassinations, street battles, putsch attempts (Kapp 1920, Hitler 1923); revolutionary threats from left and right; the republic survives these challenges but order is precarious; the violence is contained during stabilization but never eliminated; threat persists.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ The press operates freely for the first time; newspapers proliferate across the political spectrum; radio broadcasting begins (1923) and expands rapidly; telegraph and telephone networks continue; information velocity is high and reach is broad; the democratic public sphere emerges through print and radio.<br><br>
-__Record, Storage & Persistence:__ Government archives maintain continuity; newspapers and periodicals are preserved; film and radio recordings begin; the documentary record is extensive; both state and private actors generate and store records; persistence is high for this information-rich period.<br><br>
-__Framing, Censorship & Discourse Norms:__ Constitutional press freedom (Article 118) ends prior censorship; discourse norms are contested as competing worldviews clash openly; no unified public narrative emerges; framing diverges radically across political camps; the discourse space is open but fragmented and hostile; the Hugenberg press empire advances nationalist framing.<br><br>
-__Reception, Attention & Amplification:__ Mass circulation papers reach millions; the Hugenberg press (nationalist), Ullstein and Mosse (liberal), and SPD papers compete for attention; tabloid formats expand readership; amplification serves partisan purposes; attention is captured by sensationalism and political conflict; reception is high but divided.<br><br>
-__Signal Integrity & Noise Load:__ Information abundance creates noise; partisan framing generates contradictory accounts; the public struggles to verify competing claims; no authoritative center holds; signal integrity depends on source trust which is politically allocated; noise accumulates as consensus dissolves; verification capacity is overwhelmed.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Competing moral frameworks clash — socialist, liberal, conservative, nationalist, Catholic — with no shared foundation; the sense of justice is politically determined; Versailles is seen as unjust across the spectrum; the moral basis for law is contested rather than settled.<br><br>
-__Law, Codification & Regulatory Evolution:__ The Weimar Constitution establishes extensive rights; social legislation expands — labor law, welfare provisions, housing regulation; the legal framework is progressive on paper; but emergency decrees under Article 48 bypass normal legislation; the regulatory system is elaborate but its constitutional basis is unstable.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function but show rightward bias — revolutionary leftists are harshly punished while rightist violence receives lenient treatment; the judiciary is inherited from the Empire and hostile to the republic; enforcement is uneven; liability is politically influenced; justice is administered but not impartially.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights are extensive — speech, assembly, religion, social rights; compliance burden is manageable in the stabilization period; rights are real but vulnerable to emergency suspension; the protection regime is progressive but depends on political conditions that remain precarious.<br><br>
-__Impunity & Unredressed Wrong:__ Right-wing killers receive light sentences or acquittal; judges sympathize with nationalist defendants; Versailles wrongs go unredressed; war responsibility is denied; impunity for the right accumulates as grievance on the left; the justice system's bias undermines its legitimacy and stores resentment.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ German scholarship remains world-leading; physics (quantum mechanics, relativity), philosophy, social science advance; the Frankfurt School emerges; Weimar is an intellectual golden age; paradigm development continues across disciplines; the inquiry frontier is active and productive despite political turmoil.<br><br>
-__Applied Knowledge & Technical Method:__ Rationalization applies American methods to German industry; engineering and technical education maintain high standards; applied science develops in chemistry, electrical engineering, aviation; methods are systematically improved; the gap between theory and application narrows.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal literacy persists; education expands — university enrollment grows; technical training continues; the knowledge stock is maintained and extended; skill distribution broadens; educational opportunity increases but remains stratified by class; human capital accumulates despite economic disruptions.<br><br>
-__Obsolescence & Knowledge Decay:__ Prewar certainties are challenged — traditional knowledge is questioned, new paradigms emerge; some outdated ideas persist (racial science gains adherents); the clearing of obsolete knowledge is incomplete and selective; intellectual ferment generates both advance and pathology; decay and growth occur simultaneously.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The war and defeat become contested memory — the "stab in the back" versus acceptance of loss; no founding myth unites the republic; identity fragments along political lines; the trauma is unprocessed and politically weaponized; foundational identity is absent or negative.<br><br>
-__Artistic Expression & Material Culture:__ Weimar culture flourishes — Bauhaus architecture, expressionist art, innovative cinema (Metropolis, Cabinet of Dr. Caligari), cabaret, jazz; material culture modernizes; Berlin becomes a world cultural capital; artistic expression is liberated but also reflects anxiety and social criticism; forms are experimental and vital.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood oscillates — revolutionary fervor (1918–1919), crisis and despair (1923), stabilization optimism (1924–1928), renewed anxiety (1929–1930); collective disposition is volatile; confidence is fragile and conditional; the behavioral temper reflects underlying instability; hope and fear alternate rapidly.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional forms are challenged — bourgeois convention, classical aesthetics, religious certainty; new forms struggle to achieve shared meaning; the avant-garde pushes boundaries but alienates mass audiences; cultural innovation coexists with meaning vacuum; exhaustion of old forms outpaces establishment of new ones.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secularization accelerates among the urban educated; traditional piety persists in rural and Catholic areas; existential questioning intensifies — Heidegger, Jaspers articulate anxiety; the metaphysical outlook fragments; no dominant cosmology commands broad assent; doubt and search characterize the period.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance declines in Protestant areas; Catholic practice remains stronger; new secular rituals emerge — political demonstrations, commemorations; devotional life continues but its reach contracts; sacred practice is no longer universal; religious observance becomes one option among many.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Churches maintain institutional presence but lose social authority; the Protestant church is divided and weakened; the Catholic Center Party provides political organization; doctrinal authority is challenged by secular alternatives; institutional religion persists but cannot command the culture.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Political ideologies function as quasi-religions — nationalism, socialism, communism offer transcendent meaning; occultism and alternative spirituality attract seekers; traditional religion is partially displaced by secular faiths; spiritual need finds non-religious expression; diffusion is toward political religion and personal seeking.<br><br>
-__Disenchantment & Sacred Discharge:__ Disenchantment deepens for many — the sacred no longer answers postwar questions; but new enchantments emerge in political movements that promise meaning and community; the void left by traditional religion is filled by ideological commitments; disenchantment and re-enchantment occur simultaneously through political faith.<br><br>
+# __1918 CE – 1930 CE — Weimar Republic and Democratic Press__
+
+__Summary:__ Weimar Germany during its foundational and stabilization years, where constitutional press freedom unleashes an explosion of newspapers and magazines across the political spectrum and the binding constraint is the hyperpartisan fragmentation of the information environment — a free press sustains democratic debate but also amplifies the polarization that will eventually destroy the republic.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Germany's borders shrink: Alsace-Lorraine returns to France, the Polish Corridor divides East Prussia from the Reich, the Saar is administered internationally, the Rhineland is occupied and demilitarized. The rail and communication networks remain intact but connect a diminished territory. Berlin remains the center, but regional capitals — Munich, Hamburg, Cologne, Frankfurt — sustain distinct press ecosystems.
+
+__Climate Regime & Volatility:__ Temperate continental conditions continue without notable anomaly. Harvests vary normally; climate does not drive the era's crises.
+
+__Hazard Regime & Exposure:__ No major natural disasters mark the period. The primary hazards are political and economic: revolution, putsch attempts, hyperinflation, and eventually depression.
+
+__Resource & Energy Endowment:__ Germany retains its coal and industrial base despite territorial losses. The Ruhr occupation of 1923 temporarily severs access to the industrial heartland. Recovery after 1924 restores output; Germany remains an industrial power.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution persists; urban sanitation is adequate. The physical environment bears the wear of war and postwar disruption but does not constrain the system's operation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The 1918 influenza pandemic's aftermath fades. Tuberculosis remains endemic but declining. Venereal disease rises amid postwar social disruption. Infant mortality falls as public health measures improve.
+
+__Nutrition & Physiological Vitality:__ Nutrition improves after the blockade ends. The hungry years recede; food supply normalizes by 1920. Hyperinflation disrupts distribution temporarily in 1923, but starvation does not return. By mid-decade, nutritional status approaches prewar levels.
+
+__Care, Healing & Recovery Capacity:__ Medical infrastructure rebuilds. Weimar expands social insurance and public health services. War wounded receive ongoing care, though psychiatric casualties remain poorly understood and treated.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth rates recover partially but remain below prewar levels. Marriage rates normalize. The demographic deficit from war losses constrains the marriage market; war widows and surplus women become a recognized social category.
+
+__Demographic Renewal & Density:__ Population grows slowly; Germany has approximately 62 million inhabitants by 1925. The cohort structure remains distorted by war losses; the "missing generation" shapes society.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans require ongoing support. The welfare state expands to meet these obligations. The dependency burden strains public finances but is managed within the system.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basic subsistence is secure except during the hyperinflation crisis of 1922–1923, when money loses meaning and barter replaces market exchange temporarily. After stabilization, provisioning returns to normalcy.
+
+__Energy Capture & Conversion:__ Coal and electrical power remain the industrial base. Rationalization and electrification increase efficiency during the stabilization years. Germany's industrial output recovers to prewar levels by 1927.
+
+__Labor Organization & Coercion:__ The revolution establishes the eight-hour day and collective bargaining. Trade unions gain legal recognition and substantial power. The Stinnes-Legien Agreement of 1918 creates a corporatist framework. Unemployment insurance (1927) cushions labor market shocks.
+
+__Production & Surplus Capacity:__ Industrial production collapses in 1918–1919, recovers partially, collapses again during Ruhr occupation and hyperinflation, then surges in the stabilization era. By 1928, German industry rivals prewar output. The "Golden Twenties" represent real economic expansion.
+
+__Storage, Reserves & Buffering:__ Hyperinflation destroys savings and reserves. The new Rentenmark and Reichsmark restore a stable store of value after 1924. Foreign loans — particularly American capital under the Dawes Plan — provide external reserves. This dependency will prove fatal when American capital withdraws.
+
+__Exchange, Trade & Logistics:__ International trade resumes. Germany exports industrial goods and imports food and raw materials. The Dawes Plan integrates Germany into the international financial system. Internal logistics are efficient; rail and road networks function.
+
+__Value Storage, Credit & Deferred Exchange:__ The hyperinflation of 1923 destroys the old money; one trillion marks become one new Rentenmark. The trauma of currency collapse scars the middle class and shapes political attitudes. After stabilization, credit expands, often on short-term foreign loans that create vulnerability.
+
+__Surplus Extraction & Redistribution:__ The tax burden is heavy: reparations require export surplus, and the welfare state requires domestic revenue. The Weimar fiscal state extracts more than the Wilhelmine state did, though it also redistributes more.
+
+__Wealth Distribution & Asset Defense:__ Hyperinflation effects a massive, chaotic redistribution. Debtors gain; creditors lose. Fixed-income rentiers are wiped out. Property holders who retain real assets survive. The middle class, holding paper assets, is devastated. This experience fuels political radicalization.
+
+__Byproducts & Waste Routing:__ Industrial waste continues; environmental regulation is minimal. The financial waste of hyperinflation — the destruction of savings, the disruption of economic calculation — leaves lasting scars.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family structures are strained by war losses but persist. Marriage and inheritance patterns adapt to new circumstances. The "new woman" of Weimar — employed, voting, visible in public life — challenges traditional family structures.
+
+__Association & Mutual Aid:__ Civil society flourishes. Political parties, trade unions, cultural associations, sports clubs, and religious organizations proliferate. The organizational density of Weimar society is high, but organizations increasingly align with political camps.
+
+__Leisure, Play & Sociability:__ Urban entertainment expands: cinema, cabarets, dance halls, sports. Berlin becomes a legendary center of nightlife and cultural experimentation. Mass leisure becomes a feature of modern life.
+
+__Stratification, Status & Group Structure:__ Class conflict is explicit and organized. Workers support the SPD and USPD, later the KPD; the bourgeoisie fragments among liberal, conservative, and eventually radical parties. The traditional nobility loses formal privilege but retains economic and social standing. New elites emerge from industry and media.
+
+__Administrative Capacity & Institutional Integrity:__ The Weimar state inherits a competent Prussian bureaucracy but faces conflicting demands. The constitution creates a complex federal structure. Civil servants often retain monarchist sympathies; the "Vernunftrepublikaner" — republicans of reason, not conviction — staff the state without loving it. Corruption is limited; competence is real but commitment wavering.
+
+__Coercive Apparatus & Means of Force:__ The army is limited to 100,000 by Versailles; the Reichswehr becomes a professional force of ambiguous loyalty. Police forces are reconstituted under state control. Paramilitary organizations proliferate across the political spectrum: the Stahlhelm on the right, the Reichsbanner Schwarz-Rot-Gold supporting the republic, the Communist Roter Frontkampferbund, and eventually the SA. Political violence is endemic.
+
+__Discharge, Disorder & Decay:__ Political violence punctuates the era: the Spartacist uprising (1919), the Kapp Putsch (1920), the Hitler Putsch (1923), and constant street battles between paramilitaries. Assassinations claim Erzberger (1921) and Rathenau (1922). The republic survives but never achieves stability. The discharge channels cannot absorb the accumulated tension.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The public mood swings wildly. Revolutionary fervor gives way to exhausted acquiescence, then hyperinflationary panic, then the guarded optimism of stabilization, then renewed anxiety as the depression approaches. Trust in institutions is fragile; cynicism is widespread. The "golden twenties" are golden mainly in retrospect and mainly in Berlin.
+
+__Leadership & Personal Authority:__ Weimar produces competent statesmen — Ebert, Stresemann, Bruning — but no figure commands broad allegiance. Hindenburg, elected president in 1925, is a revered war hero but no democrat. Leadership is contested, fragmented, insufficient.
+
+__Legitimacy as Lived Allegiance:__ The republic commands allegiance from Social Democrats, the Catholic Center, and liberal democrats — perhaps 40–50% of the electorate. The rest tolerates it at best. Monarchists, nationalists, and increasingly National Socialists reject it openly. Communists denounce it as bourgeois fraud. Legitimacy is thin and conditional.
+
+__Political Will & Collective Resolve:__ The republic's defenders lack the passionate commitment of its enemies. "Democracy without democrats" captures the problem. The will to defend the republic against its enemies proves insufficient when crisis intensifies.
+
+__External Relations & Posture:__ Germany accepts the Versailles settlement under protest. Stresemann's diplomacy (1923–1929) achieves partial rehabilitation: Locarno (1925), League membership (1926), the Dawes and Young Plans. But the right denounces every concession as betrayal. Revisionism remains the national consensus; the method is disputed.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection with the republic is widespread and growing. The stabilization era masks but does not resolve it. Apathy characterizes much of the middle class; radicalization pulls the extremes. The emotional resources to defend democratic institutions are shallow.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Universal literacy and the German language enable mass communication. Radio broadcasting begins in 1923 and expands rapidly, but print remains dominant. The press reaches every class and region.
+
+__Channels & Transmission Velocity:__ Newspapers provide daily or multiple-daily coverage. Telegraph and telephone enable rapid reporting. Wire services (Wolff, until 1933; Hugenberg's Telegraphen-Union) distribute news nationally. Information moves quickly through a dense network.
+
+__Record, Storage & Persistence:__ Archives and libraries preserve the record. Newspapers are collected and indexed. The documentation of the Weimar era is extensive. Memory is contested but the record exists.
+
+__Framing, Censorship & Discourse Norms:__ Article 118 of the Weimar Constitution guarantees press freedom; censorship is abolished. But freedom produces cacophony. Each political camp has its press organs: the Social Democratic Vorwarts, the Communist Rote Fahne, the Catholic Germania, the liberal Vossische Zeitung, the conservative Kreuzzeitung, and the growing Hugenberg empire on the nationalist right. Tabloids like BZ am Mittag pioneer sensationalism. No shared discourse unites these competing frames.
+
+__Reception, Attention & Amplification:__ Germans read voraciously. Newspaper circulation reaches its historical peak. But readers increasingly select sources that confirm their prior views. Amplification operates within political camps; cross-camp persuasion is rare.
+
+__Signal Integrity & Noise Load:__ The proliferation of partisan sources raises the noise level. Propaganda, rumor, and deliberate disinformation circulate alongside verified reporting. The information environment is rich but uncoordinated; verification is possible for the educated reader but not systematic.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The Versailles Treaty is experienced as profound injustice — the "war guilt clause" (Article 231) is rejected across the political spectrum. This shared grievance transcends other divisions. Domestically, competing moral visions clash: socialist solidarity, Catholic social teaching, liberal individualism, nationalist community.
+
+__Law, Codification & Regulatory Evolution:__ The Weimar Constitution is a progressive document: democratic, federalist, guaranteeing extensive social and civil rights. Labor law, social insurance, and welfare legislation expand. But the constitution also contains Article 48, enabling presidential emergency rule — a fateful provision.
+
+__Adjudication, Liability & Sanction:__ The judiciary inherits imperial personnel and attitudes. Courts treat left-wing violence more harshly than right-wing violence; the infamous disparity in sentencing undermines justice. Hitler's 1924 sentence — minimal, at a comfortable fortress — exemplifies the pattern.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights are extensive on paper. In practice, political violence threatens them. The state struggles to protect citizens from paramilitary assault. Compliance burdens are moderate; the bureaucracy functions.
+
+__Impunity & Unredressed Wrong:__ Right-wing political murders go largely unpunished. The assassins of Erzberger and Rathenau are treated leniently. This impunity signals that the republic cannot or will not defend itself. The accumulated injustice feeds radicalization.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Weimar Germany is an intellectual powerhouse. Physics (Einstein, Heisenberg, Schrodinger), philosophy (Heidegger, Husserl), sociology (Weber's legacy, the Frankfurt School), psychoanalysis (Berlin psychoanalytic institute) — the German-speaking world leads in multiple fields.
+
+__Applied Knowledge & Technical Method:__ Industrial rationalization applies Taylorist methods. Engineering excellence continues. Architecture sees the Bauhaus revolution. Applied knowledge advances rapidly.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universal compulsory education continues. Universities remain elite but expand modestly. Technical education produces skilled workers. The knowledge stock is high and growing.
+
+__Obsolescence & Knowledge Decay:__ The war discredited certain assumptions but the intellectual tradition continues. The real obsolescence is political: the forms of thought that might have sustained democracy are underdeveloped relative to the critiques that will destroy it.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Competing myths contest for dominance. The "stab-in-the-back" legend — the army undefeated, betrayed by civilians, Jews, and revolutionaries — poisons the right. The left cultivates memories of revolution betrayed. The republic itself struggles to generate founding myths; its origin in defeat and revolution provides weak material.
+
+__Legitimating Narrative & Ideology:__ No hegemonic narrative legitimates the order. Democrats defend the republic on pragmatic grounds; its enemies attack it with passion. The ideological contest is asymmetric: the republic's defenders are reasonable; its enemies are zealous.
+
+__Artistic Expression & Material Culture:__ Weimar culture is legendary: Expressionism gives way to Neue Sachlichkeit. Cinema flourishes (Metropolis, M, The Cabinet of Dr. Caligari). Theater innovates (Brecht, Piscator). Visual art explodes (Grosz, Dix, Kollwitz). Architecture revolutionizes (Bauhaus). Popular culture — jazz, cabaret, fashion — makes Berlin a world capital of modernity. This cultural ferment is concentrated in metropolitan centers and alienates traditional and provincial populations.
+
+__Form Exhaustion & Meaning Decay:__ The old forms — Wilhelmine pomp, imperial symbols, traditional pieties — are exhausted but not replaced by new forms commanding general allegiance. The modernist forms speak to cosmopolitan minorities. The majority finds the new culture alien or offensive. Meaning is fragmented along cultural and political lines.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The war shattered confident progressivism. Weimar inherits existential uncertainty. Nihilism, relativism, and various apocalypticism circulate in intellectual culture. The search for meaning drives many toward radical political movements that promise total answers.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance declines in Protestant areas but remains strong in Catholic regions. Religious practice continues but loses its self-evident character. Secular rituals — political rallies, sporting events, popular entertainment — compete for the space once held by religion.
+
+__Religious Institutions & Doctrinal Authority:__ The Protestant churches adjust uneasily to the republic; many clergy are monarchist. The Catholic Church negotiates concordats and maintains institutional coherence. Neither church provides strong support for democratic values. Doctrinal authority weakens amid cultural ferment.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Occultism, theosophy, and various spiritual movements attract followers seeking meaning beyond exhausted orthodoxies. Political movements take on spiritual coloring; nationalism offers quasi-religious community.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment is pervasive but unevenly distributed. For many, the old sacred has lost its grip but nothing replaces it. Political religions — communism, fascism — offer reenchantment through total commitment. The spiritual vacuum of Weimar creates the conditions for the zealotry that will destroy it.

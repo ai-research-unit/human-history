@@ -1,69 +1,139 @@
-# __1980 CE – 1991 CE__ — Cable Revolution and CNN Era
-__Summary:__ The North American broadcast system during cable television's expansion and the emergence of 24-hour news, spanning the continental United States and Canada from Atlantic seaboard through Great Lakes and Mississippi Valley. Network television's three-channel oligopoly fractures as cable penetration climbs from 20% to 60% of households, CNN establishes continuous news coverage, and MTV transforms youth programming. The binding constraint is the tension between legacy network economics built on mass audiences and the fragmenting attention enabled by expanded channel capacity. The system retains substantial reach but operates with eroding audience concentration as niche programming multiplies.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental broadcast infrastructure supplemented by expanding cable plant, coaxial cable networks threading urban and suburban areas, rural regions underserved by cable relying on satellite dishes, Appalachian and Great Plains terrain favoring satellite over wired distribution.<br><br>
-__Climate Regime & Volatility:__ Standard temperate and continental regimes, no secular climate shift materially affecting broadcast operations, satellite transmission vulnerable to solar activity and atmospheric conditions but redundancy adequate.<br><br>
-__Hazard Regime & Exposure:__ Hurricane Hugo 1989, Loma Prieta earthquake 1989 demonstrating broadcast's disaster-coverage role, infrastructure occasionally damaged but rapidly restored, hazard load routine and within system capacity.<br><br>
-__Resource & Energy Endowment:__ Domestic fossil fuel production declining, oil imports rising, nuclear power stagnant post-Three Mile Island, energy endowment shifting toward import dependence but electricity supply adequate for expanding broadcast and cable infrastructure.<br><br>
-__Waste Absorption & Sink Capacity:__ Environmental regulation maturing, industrial emissions declining, ozone layer concern emerging, broadcast infrastructure's direct environmental load negligible, broader industrial waste management improving.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ AIDS epidemic emerging as major mortality factor among specific populations, otherwise endemic disease load low, infant mortality continuing slow decline, life expectancy stable, chronic disease dominant mortality pattern.<br><br>
-__Nutrition & Physiological Vitality:__ Population well-nourished, obesity rates climbing steadily, fast food consumption normalized, fitness culture emerging as countertrend, physiological vitality adequate but lifestyle disease trajectory concerning.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility stable below replacement, marriage age continuing rise, divorce plateau at high level, cohabitation increasing, reproductive timing delayed, AIDS altering sexual behavior particularly in affected communities.<br><br>
-__Demographic Renewal & Density:__ Population growth slow, immigration increasing, baby boom generation entering peak earning years, suburban expansion continuing, Sunbelt growth accelerating, density patterns suburbanizing.<br><br>
-__Attrition & Dependency Overhang:__ Elderly population growing slowly, Vietnam veteran cohort aging, dependency ratio manageable, healthcare costs rising but burden absorbable, AIDS creating acute care demands in affected populations.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning secure for majority, poverty rates stable, inflation tamed by mid-1980s, real wages stagnating for working class, homelessness newly visible in urban areas, provisioning floor holding but fraying at edges.<br><br>
-__Energy Capture & Conversion:__ Oil prices collapsing 1986, energy crisis psychology fading, efficiency gains consolidated, nuclear expansion halted, coal and natural gas stable, conversion regime stable with reduced pressure for transformation.<br><br>
-__Labor Organization & Coercion:__ Union membership declining sharply (PATCO strike 1981 breaking air traffic controllers), manufacturing employment contracting, service sector dominant, labor bargaining power eroding, wage coercion via unemployment threat.<br><br>
-__Production & Surplus Capacity:__ Manufacturing declining, service and information sectors expanding, productivity growth modest, surplus generation concentrated in finance and professional services, Rust Belt industrial capacity idling.<br><br>
-__Storage, Reserves & Buffering:__ Corporate cash positions improving through decade, savings and loan crisis 1989 revealing weak buffers in financial sector, household savings declining, strategic petroleum reserve maintained, buffering adequate except in failing thrifts.<br><br>
-__Exchange, Trade & Logistics:__ Trade deficit widening, imports from Asia expanding, container shipping dominant, just-in-time logistics spreading, domestic distribution efficient, exchange networks increasingly global.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Inflation conquered, interest rates high early then declining, credit expanding (credit cards, home equity), stock market booming 1982-1987 then crashing briefly, dollar strong then weakening via Plaza Accord 1985.<br><br>
-__Surplus Extraction & Redistribution:__ Tax cuts 1981 reducing federal revenue, military spending increasing, domestic programs constrained, redistribution tilting toward defense and away from social spending, deficit financing expanding.<br><br>
-__Wealth Distribution & Asset Defense:__ Inequality rising steadily, top income shares climbing, stock market gains concentrating wealth, real estate appreciating, asset defense via tax planning and financial instruments, concentration accelerating.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste regulation tightening, Superfund cleanups proceeding slowly, recycling emerging as consumer practice, waste routing toward containment and offshore disposal, compliance embedded in business practice.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Institutional trust partially recovering from 1970s nadir, economic inequality straining solidarity, individualism celebrated culturally, mutual aid networks thinning in suburban geography, trust radius contracting to family and immediate circle.<br><br>
-__Stratification, Status & Group Identity:__ Class divisions widening as manufacturing declines, racial integration stalling, Reagan coalition uniting white working and middle class, yuppie culture valorizing success, status hierarchy sharpening.<br><br>
-__Kinship, Family & Inheritance:__ Divorce rates stabilizing at high level, blended families normalized, latchkey children phenomenon with dual-income households, inheritance patterns favoring real estate and financial assets, family forms diversified.<br><br>
-__Civic Association & Self-Organization:__ Traditional civic organizations continuing decline, religious congregations (evangelical) growing, self-help movements expanding, professional associations stable, associational fabric thinning outside religious networks.<br><br>
-__Leisure, Play & Sociability:__ Television fragmenting across cable channels, VCR enabling time-shifted viewing, video games emerging, fitness culture spreading, mall as social space, sociability increasingly privatized in home entertainment.<br><br>
-__Grievance Channels & Social Discharge:__ Social movements quieter than 1970s, AIDS activism (ACT UP) emerging late decade, economic grievance channeled through electoral politics rather than protest, discharge via consumption and entertainment, residual alienation accumulating.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Reagan presidency concentrating executive messaging power, Congress maintaining budgetary role, federal-state balance stable, power structure favoring executive in Cold War context, concentration moderate.<br><br>
-__Succession & Power Transfer:__ Reagan two terms, Bush election 1988, succession smooth and routinized, Cold War continuity emphasized, transfer mechanisms functioning normally, peaceful succession maintained.<br><br>
-__Legitimacy & Political Narrative:__ Reagan restoration narrative successful through mid-decade, Morning in America optimism countering 1970s malaise, Cold War anticommunism revived, legitimacy recovered for conservatives though contested by liberals.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Deregulation reducing federal oversight (FCC, EPA), military buildup expanding defense bureaucracy, Iran-Contra revealing executive branch covert operations, institutional integrity mixed with selective weakening.<br><br>
-__Political Participation & Mobilization:__ Voter turnout stable at lower post-1960s level, direct mail and early cable advertising enabling targeted mobilization, religious right organizing effectively, participation channeled through interest groups and parties.<br><br>
-__Geopolitical Position & External Relations:__ Cold War intensifying early 1980s then rapidly ending 1989-1991, Reagan military buildup, Soviet collapse, Gulf War 1991 demonstrating unipolar military dominance, position transforming from bipolar to sole superpower.<br><br>
-__Coercive Apparatus & Means of Force:__ Military rebuilt and modernized, all-volunteer force maturing, stealth and precision weapons deployed, Gulf War demonstrating technological superiority, coercive capacity at historical peak, police forces stable.<br><br>
-__Internal Order & Threat Environment:__ Crime rates high, crack cocaine epidemic devastating urban communities, War on Drugs escalating incarceration, domestic terrorism episodic, disorder concentrated in urban cores, enforcement capacity strained in drug war.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Cable expanding channel capacity from dozens to hundreds, CNN providing 24-hour news from 1980, MTV transforming music distribution, broadcast networks losing audience share but retaining reach, transmission instantaneous but attention fragmenting.<br><br>
-__Record, Storage & Persistence:__ VCR enabling home recording and time-shifting, cable archives improving, broadcast news archives systematizing, CNN continuous coverage creating comprehensive record, persistence improving via magnetic tape.<br><br>
-__Framing, Censorship & Discourse Norms:__ Fairness Doctrine eliminated 1987 enabling partisan broadcasting, advertiser influence continuing, explicit censorship rare, discourse norms loosening as channels multiply, cable enabling more explicit content.<br><br>
-__Reception, Attention & Amplification:__ Mass audience fragmenting across cable channels, VCR changing viewing patterns, CNN creating news-junkie audience, MTV targeting youth, attention dispersing but major events (Gulf War) still commanding mass viewership.<br><br>
-__Signal Integrity & Noise Load:__ 24-hour news cycle creating pressure to fill time, early cable news sometimes sacrificing accuracy for speed, verification capacity of traditional journalism strained, noise load increasing as channel capacity expands.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Law-and-order sentiment dominant, crime victims' rights movement strengthening, drug war morality contested, justice sense conservative-leaning, punitive approaches ascendant.<br><br>
-__Law, Codification & Regulatory Evolution:__ Deregulation dominant philosophy, antitrust enforcement relaxed enabling media consolidation, cable regulation loosened, drug laws tightening, regulatory state contracting in economic sphere while expanding in criminal.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system processing drug cases at unprecedented volume, civil litigation expanding, media liability manageable under First Amendment protections, judicial throughput strained by drug war caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom robust, individual rights contested (drug testing, mandatory minimums), compliance burden on broadcasters reduced via deregulation, rights regime stable with drug war exceptions.<br><br>
-__Impunity & Unredressed Wrong:__ Iran-Contra pardons, corporate malfeasance lightly sanctioned, drug war imposing harsh penalties on low-level offenders while financial crimes less punished, selective accountability pattern continuing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Market economics dominant paradigm, media studies expanding as academic field, postmodernism influential in humanities, computer science advancing, inquiry productive across domains, Cold War framing social science.<br><br>
-__Applied Knowledge & Technical Method:__ Satellite technology mature, cable distribution standardized, electronic news gathering universal, early computer graphics in broadcast, desktop publishing emerging, methods advancing toward digital.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ College enrollment high, technical training expanding, computer literacy emerging as requirement, journalism education professionalized, knowledge stock growing, skill distribution broadening.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog broadcast technology beginning obsolescence path, film editing skills fading, pre-cable media environment memory dimming, knowledge decay moderate as digital transition approaches.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ American triumphalism reviving with Cold War victory, Reagan optimism countering 1970s doubt, founding mythos reinforced, memory of Vietnam receding though contested (Vietnam Veterans Memorial 1982), identity confident.<br><br>
-__Artistic Expression & Material Culture:__ MTV visual aesthetic transforming music and advertising, postmodern architecture spreading, celebrity culture intensifying, material culture consumerist and image-saturated, excess celebrated.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism recovering through mid-1980s, greed legitimated culturally, end of Cold War euphoric briefly, mood confident-to-triumphalist, risk appetite elevated in financial markets.<br><br>
-__Form Exhaustion & Meaning Decay:__ Network television formats standardizing, MTV rapid-cut aesthetic novel then normalizing, advertising irony emerging, traditional forms (variety show, western) exhausted, new cable-era forms proliferating.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Evangelical Christianity politically ascendant, prosperity gospel emerging, mainline Protestantism continuing decline, New Age spirituality commodified, secular humanism defensive, outlook confident among religious conservatives.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Megachurch model expanding, televangelism prominent then scandalized (Bakker, Swaggart), evangelical devotional practices mediated through broadcast and publishing, Catholic practice stable, devotion channeled through media.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Evangelical institutions politically powerful (Moral Majority, Christian Coalition), televangelism scandals undermining some leaders, Catholic Church stable, institutional authority concentrated in evangelical movement.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical Protestantism expanding geographically and demographically, New Age practices mainstreaming, secularism holding in coastal cities, syncretic consumer spirituality emerging, pluralism increasing.<br><br>
-__Disenchantment & Sacred Discharge:__ Mainline Protestant decline creating spiritual vacuum, consumerism and entertainment filling meaning-space for many, televangelism scandals disillusioning some, disenchantment managed through prosperity gospel and self-help spirituality.<br><br>
+# __1980 CE – 1991 CE — Cable Revolution and CNN Era__
+
+__Summary:__ Cable television breaks the three-network oligopoly by enabling channel proliferation and 24-hour programming, with CNN demonstrating that continuous news coverage transforms public attention and geopolitical events into real-time spectacle, while Reagan-era deregulation accelerates media consolidation and the commercial model's penetration of previously protected programming niches.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Continental broadcast infrastructure matures as cable coaxial networks penetrate suburbs and cities, reaching 60% of households by 1990; satellite distribution enables national cable networks to bypass terrestrial relay; major production centers remain New York (news, advertising), Los Angeles (entertainment), Atlanta (CNN headquarters).
+
+__Climate Regime & Volatility:__ Normal seasonal patterns; occasional severe weather (Hurricane Hugo 1989) demonstrates cable news capacity for extended coverage; drought and agricultural stress in 1988 visible in programming but not systemically disruptive.
+
+__Hazard Regime & Exposure:__ Challenger disaster (1986) becomes defining broadcast event, with live coverage of tragedy searing into collective memory; San Francisco earthquake (1989) covered live by World Series broadcast; hazard journalism intensifies as 24-hour news demands content.
+
+__Resource & Energy Endowment:__ Oil prices stabilize then decline through mid-1980s; abundant energy for broadcast infrastructure; rare earth and copper demands for cable installation met; computing equipment manufacturing expands.
+
+__Waste Absorption & Sink Capacity:__ Environmental issues recede from broadcast prominence during Reagan years; EPA enforcement relaxes; Exxon Valdez spill (1989) receives intensive coverage demonstrating continued media capacity for environmental crisis when visually compelling.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ AIDS epidemic emerges publicly (1981), becoming major broadcast story; mortality continues secular decline for most causes; life expectancy rises; smoking rates decline following broadcast advertising restrictions and health campaigns.
+
+__Nutrition & Physiological Vitality:__ Fast food culture fully established; obesity rates continue rise; fitness culture also expands with cable programming (aerobics videos, ESPN sports); dietary awareness increases among educated segments.
+
+__Care, Healing & Recovery Capacity:__ Medical technology advances (MRI, laparoscopic surgery); healthcare costs rise faster than inflation; insurance coverage gaps widen; AIDS treatment primitive until late 1980s; hospice movement grows.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility stabilizes near replacement; delayed childbearing among educated women; teen pregnancy rates decline; contraception widely available; AIDS transforms sexual behavior discussions.
+
+__Demographic Renewal & Density:__ US population grows from 227 million (1980) to 253 million (1991); immigration increases significantly under 1986 reform; sunbelt growth continues; suburban expansion; urban core populations stabilize.
+
+__Attrition & Dependency Overhang:__ Elderly population grows as life expectancy extends; Social Security reforms (1983) address near-term solvency; dependency ratio remains favorable with large baby boom cohort in prime working years.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basic needs met for most; homelessness emerges as visible urban phenomenon receiving broadcast attention; food security adequate; poverty rates rise early in decade then stabilize.
+
+__Energy Capture & Conversion:__ Oil prices collapse mid-decade bringing relief; nuclear expansion halts after Three Mile Island and cost overruns; natural gas expands; electricity generation adequate and increasingly from natural gas and nuclear.
+
+__Labor Organization & Coercion:__ Union membership declines sharply; PATCO strike (1981) and Reagan's response signal labor weakness; manufacturing employment continues decline; service sector expansion; real wages stagnate for median workers.
+
+__Production & Surplus Capacity:__ Manufacturing restructuring continues; Japanese competition peak concern ("Japan as Number One"); high-tech and financial sectors expand; Reagan boom (1983–1990) produces sustained growth after 1981–1982 recession.
+
+__Storage, Reserves & Buffering:__ Strategic Petroleum Reserve reaches operational capacity; federal deficits expand dramatically under Reagan tax cuts and defense spending; savings and loan crisis accumulates through decade, requiring $160+ billion bailout.
+
+__Exchange, Trade & Logistics:__ Trade deficits persist; Japan-US trade friction intensifies; Canada-US Free Trade Agreement (1988); container shipping and air freight mature; just-in-time manufacturing adopted from Japanese model.
+
+__Value Storage, Credit & Deferred Exchange:__ Inflation tamed by Volcker shock (peak 1981, down to 4% by 1983); credit expansion resumes; credit card proliferation; junk bond financing enables leveraged buyouts; stock market boom culminates in 1987 crash then recovery.
+
+__Surplus Extraction & Redistribution:__ Top marginal tax rates cut dramatically (70% to 28%); defense spending increases; entitlement programs preserved but constrained; fiscal deficits structural throughout decade.
+
+__Wealth Distribution & Asset Defense:__ Income inequality begins marked increase; top decile gains accelerate; middle-class real wages stagnate; stock market gains concentrated; real estate appreciation varies regionally.
+
+__Byproducts & Waste Routing:__ Environmental regulation enforcement relaxes; toxic waste cleanup (Superfund) underfunded; savings and loan crisis represents financial waste accumulation requiring eventual public absorption.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear family continues diversification; divorce rates stabilize at high level; cohabitation normalized; single-parent households common; television programming reflects diverse family forms while Reagan rhetoric celebrates traditional family.
+
+__Association & Mutual Aid:__ Civic association decline continues; megachurch growth provides community for some; neighborhood organizations variable; volunteer rates stable; charitable giving increases with wealth concentration.
+
+__Leisure, Play & Sociability:__ Television viewing remains high; VCR penetration transforms viewing habits (time-shifting, video rental); cable expands entertainment options; video games establish foothold; sports fandom intensifies with ESPN's 24-hour coverage.
+
+__Stratification, Status & Group Structure:__ Yuppie phenomenon celebrated and satirized; wealth display normalized; minority middle class expands while urban underclass conditions deteriorate; immigration diversifies workforce; gender integration of professions continues.
+
+__Administrative Capacity & Institutional Integrity:__ Deregulation dominant philosophy; FCC under Fowler views television as "toaster with pictures"; Fairness Doctrine eliminated (1987); antitrust enforcement relaxed; federal workforce grows despite rhetoric; Iran-Contra scandal reveals executive branch dysfunction.
+
+__Coercive Apparatus & Means of Force:__ Military rebuilding under Reagan; all-volunteer force professionalized; Grenada (1983) and Panama (1989) demonstrate restored capacity; Gulf War (1991) displays technological superiority on live television; urban policing intensifies with drug war.
+
+__Discharge, Disorder & Decay:__ Crime rates high but begin decline late in period; crack cocaine epidemic devastates urban communities with intensive broadcast coverage; drug war militarizes policing; prison population doubles during decade; gang violence visible; urban decay in industrial cities continues.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Reagan restoration of confidence ("Morning in America") reverses 1970s malaise; patriotism revived; consumer optimism restored; Cold War anxieties persist but managed; AIDS anxiety high among affected communities.
+
+__Leadership & Personal Authority:__ Reagan commands strong personal allegiance as "Great Communicator"; television mastery central to his appeal; Bush less charismatic but benefits from Reagan legacy; no equivalent figure in media or opposition.
+
+__Legitimacy as Lived Allegiance:__ Conservative movement achieves ideological dominance; government skepticism becomes orthodoxy ("government is the problem"); market legitimacy ascendant; Cold War victory narrative reinforces American exceptionalism by period's end.
+
+__Political Will & Collective Resolve:__ Defense buildup demonstrates sustained commitment; tax cuts pushed through over deficits; Gulf War mobilization rapid and decisive; political will concentrated in executive with congressional acquiescence.
+
+__External Relations & Posture:__ Cold War competition intensifies early then resolves; Reagan Doctrine supports anti-communist insurgencies; Gorbachev partnership emerges (1985+); Berlin Wall falls (1989); Soviet collapse (1991); Gulf War demonstrates "new world order" unipolar moment; American confidence in global role restored.
+
+__Disaffection, Apathy & Spent Will:__ Voter participation continues decline; 1970s malaise replaced by acquiescence rather than engagement; opposition demoralized through decade; left fragmented; political alienation coexists with conservative ascendancy.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English dominates; Spanish-language media expands (Univision, Telemundo); cable extends reach; literacy near-universal; VCR and cable multiply access points though still requiring literacy and purchasing power.
+
+__Channels & Transmission Velocity:__ Cable penetration transforms from 20% (1980) to 60%+ (1991); CNN demonstrates 24-hour news viability; MTV creates music video format; ESPN establishes sports channel model; channel count explodes from handful to dozens; satellite enables national and global live coverage.
+
+__Record, Storage & Persistence:__ VCR enables consumer recording and time-shifting; broadcast archives commercial; institutional record-keeping continues; early computer databases supplement; CNN archives create continuous news record.
+
+__Framing, Censorship & Discourse Norms:__ Fairness Doctrine elimination (1987) removes balance requirement; talk radio emerges (Rush Limbaugh 1988); cable not subject to broadcast indecency standards; advertising constraints relaxed; political advertising intensifies.
+
+__Reception, Attention & Amplification:__ Three-network dominance erodes (combined primetime share falls from 90% to 60%); cable news creates continuous engagement option; MTV generation develops different attention patterns; zapping between channels becomes behavior; mass audience fragments into niches.
+
+__Signal Integrity & Noise Load:__ 24-hour news cycle demands content regardless of significance; talking-head commentary fills airtime; dramatic presentation prioritized; live coverage creates real-time errors; signal quality high but significance filtering degrades.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Conservative moral framework dominant; traditional values rhetoric ascendant; culture wars over abortion, school prayer, and homosexuality intensify; religious right achieves political influence; yet actual behavior (divorce, cohabitation) shows gap between rhetoric and practice.
+
+__Law, Codification & Regulatory Evolution:__ Deregulation philosophy prevails; antitrust enforcement relaxes; environmental enforcement softens; drug war legislation intensifies penalties; financial regulation loosened (savings and loan deregulation).
+
+__Adjudication, Liability & Sanction:__ Supreme Court shifts conservative; civil rights enforcement weakens; tort reform advocacy gains; criminal justice toughens; mandatory minimums expand; televised trials (rare) become spectacle.
+
+__Rights, Protections & Compliance Burden:__ Affirmative action contested; abortion rights under pressure; regulatory compliance burden eased for business; criminal defendant rights erode; disability rights advance (ADA 1990).
+
+__Impunity & Unredressed Wrong:__ Iran-Contra pardons suggest elite impunity; savings and loan fraud prosecution incomplete; corporate malfeasance often escaped sanction; drug war falls disproportionately on minorities; justice gap widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Space shuttle program continues with Challenger setback; Star Wars (SDI) research; molecular biology advances (Human Genome Project planning); climate science gains attention; supply-side economics contested; end-of-history triumphalism emerges.
+
+__Applied Knowledge & Technical Method:__ Personal computer revolution (IBM PC 1981, Macintosh 1984); fax machine proliferates; cellular telephones introduced; cable and satellite technology matures; medical imaging advances; stealth and precision weapons demonstrated.
+
+__Education, Knowledge Stock & Skill Distribution:__ "Nation at Risk" (1983) critique of public education; standards movement begins; college costs rise faster than inflation; technical education emphasized; computer literacy emerging as requirement.
+
+__Obsolescence & Knowledge Decay:__ Industrial skills continue atrophy; analog broadcast knowledge begins obsolescence trajectory; Marxist theory discredited by Soviet collapse; Keynesian economics marginalized; generational technical skills gaps widen.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Cold War victory narrative dominates by period's end; Vietnam syndrome claimed overcome by Gulf War; American exceptionalism revived; multicultural critique emerges but not yet dominant; Reagan as restoration figure.
+
+__Legitimating Narrative & Ideology:__ Market ideology triumphant; government skepticism normalized; "morning in America" optimism; freedom as consumer choice; individual responsibility emphasized over collective provision; end of history thesis suggests ideological closure.
+
+__Artistic Expression & Material Culture:__ Television transitions to cable-era programming (Hill Street Blues, Cheers, Cosby Show); blockbuster films dominate (Star Wars sequels, Indiana Jones); MTV transforms music industry and visual style; architecture turns postmodern; corporate towers rise in city centers; luxury consumption displayed.
+
+__Form Exhaustion & Meaning Decay:__ Network television formulae exhausted prompting cable experimentation; postmodern irony becomes dominant mode; patriotic symbolism revived but with synthetic quality; advertising aesthetics celebrate wealth; cultural novelty cycles accelerate.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Evangelical Christianity politically ascendant; religious right achieves visibility through televangelism and political organizing; mainline Protestant decline continues; Catholic Church maintains presence but faces internal tensions; secular materialism expands among educated classes.
+
+__Ritual, Devotion & Sacred Practice:__ Megachurch model expands; televangelism reaches peak then scandals (Bakker, Swaggart) damage credibility; traditional denominational practice erodes; civil religion ceremonies continue (inaugurations, national mourning).
+
+__Religious Institutions & Doctrinal Authority:__ Religious right institutions mature (Moral Majority, Christian Coalition); Catholic Church hierarchy conservative under John Paul II; mainline institutions shrink; televangelism creates parallel institutional structure built on broadcast technology.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical growth continues at mainline expense; New Age spirituality commercializes; twelve-step programs as quasi-spiritual practice spread; secularism advances among educated while evangelical growth proceeds in other demographics.
+
+__Disenchantment & Sacred Discharge:__ Televangelism scandals expose gap between public piety and private conduct; Cold War victory claimed as moral vindication but leaves ideological vacuum; market worship functions as quasi-religion without transcendent content; spiritual hunger persists amid material abundance, expressed through consumer spirituality, self-help, and therapeutic culture rather than traditional devotion.

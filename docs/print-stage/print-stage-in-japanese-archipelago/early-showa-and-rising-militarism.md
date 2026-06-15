@@ -1,69 +1,139 @@
-# __1926 CE – 1935 CE__ — Early Showa and Rising Militarism
-__Summary:__ The Japanese print sphere enters a decade of constricting autonomy as economic depression, military adventurism, and state pressure converge. The 1929 crash triggers rural collapse and urban unemployment, amplifying social tensions the press both reports and inflames. The 1931 Manchurian Incident marks a turning point: nationalist coverage surges, self-censorship intensifies, and the state apparatus tightens control over political discourse. Radio broadcasting (NHK, 1926) introduces a parallel channel, yet print remains the substrate of mass politics even as the margin for dissent narrows steadily toward conformity.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The mountainous archipelago concentrates settlement along coastal plains and interior basins; rail networks completed by Meiji now carry newspapers overnight to most prefectures, compressing spatial friction to hours rather than days.<br><br>
-__Climate Regime & Volatility:__ Temperate-to-subarctic monsoon climate; interannual variability remains significant, with cold spells and drought aggravating the rural depression through failed silkworm and rice harvests in the early 1930s.<br><br>
-__Hazard Regime & Exposure:__ Seismic and typhoon exposure persists; the 1923 Great Kanto Earthquake destroyed much of Tokyo's printing infrastructure, and rebuilding is still consolidating capacity; the system holds moderate margin against routine hazards.<br><br>
-__Resource & Energy Endowment:__ Domestic coal sustains industry; hydroelectric expansion provides urban power; imported petroleum dependency rising but not yet binding; paper supply adequate from domestic pulp and imported wood.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban industrial effluent and printing-ink waste increase but remain below saturation thresholds; absorptive capacity adequate for current throughput.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tuberculosis and periodic influenza outbreaks persist; infant mortality declining through public-health campaigns; overall mortality improving but unevenly distributed between urban and rural.<br><br>
-__Nutrition & Physiological Vitality:__ Urban diets adequate; rural depression produces localized malnutrition, particularly in northeastern Tohoku where crop failures coincide with silk-price collapse; conscript physicals reveal regional disparities.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage remains nearly universal; birth spacing regulated primarily by breastfeeding and social norms; fertility high but beginning secular decline in urban areas.<br><br>
-__Demographic Renewal & Density:__ Population surpasses 65 million by 1930; natural increase slowing; urban-rural migration accelerates as rural crisis pushes labor toward cities and colonies; density high on arable land.<br><br>
-__Attrition & Dependency Overhang:__ Aged dependency modest; child dependency remains high; widowhood from earlier wars and industrial accidents places localized strain on household economies.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Urban provisioning stable through market supply; rural northeastern regions face genuine subsistence stress in 1931–1934; distress sales and daughter-trafficking reported in press, then suppressed.<br><br>
-__Energy Capture & Conversion:__ Coal, hydroelectric, and imported petroleum power industry; steam presses and electric linotype machines dominate newspaper production; per-capita energy consumption rising despite depression.<br><br>
-__Labor Organization & Coercion:__ Wage labor predominates in urban industry; union membership peaked late Taisho and now declines under state pressure; coercion intensifies as Peace Preservation Law targets organizers.<br><br>
-__Production & Surplus Capacity:__ Industrial output contracts 1930–1932, recovers modestly with military procurement; newspaper production volumes remain high as mass-circulation papers compete for readers.<br><br>
-__Storage, Reserves & Buffering:__ Government reserves depleted by earthquake recovery and depression relief; private corporate reserves thin; rural households lack cushion against consecutive bad harvests.<br><br>
-__Exchange, Trade & Logistics:__ Rail and coastal shipping efficient; international trade disrupted by global depression and rising tariff walls; yen devaluation 1931 aids exports but inflates import costs.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Bank failures early in window; credit contraction rural and urban; yen purchasing power unstable through devaluation; gold standard abandoned December 1931.<br><br>
-__Surplus Extraction & Redistribution:__ Taxation burdens rural tenants heavily; military budgets expand after 1931; land reform absent; relief programs minimal and politically contested.<br><br>
-__Wealth Distribution & Asset Defense:__ Zaibatsu consolidation continues; rural tenancy rates high; concentration widening as depression eliminates marginal enterprises and small landholders.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent and urban waste routed to rivers and coastal waters; pollution locally visible but not yet politically salient; recycling of paper stock common in publishing.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village mutual-aid traditions persist but strained by depression; urban neighborhoods more atomized; class tensions visible in labor disputes and tenant conflicts.<br><br>
-__Stratification, Status & Group Identity:__ Class lines sharpen as rural distress contrasts with zaibatsu wealth; ethnic Korean minority in metropole faces discrimination; burakumin status persists; boundaries hardening under nationalist ideology.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal ie system legally enforced; primogeniture dominates inheritance; household registration (koseki) structures legal identity and social belonging.<br><br>
-__Civic Association & Self-Organization:__ Neighborhood associations (chonaikai) formalized; voluntary associations monitored; labor and tenant unions suppressed after 1928; civic space contracting.<br><br>
-__Leisure, Play & Sociability:__ Cinema, cafes, dance halls popular in cities; baseball spreads; radio enters household leisure; newspapers carry entertainment sections as circulation strategy.<br><br>
-__Grievance Channels & Social Discharge:__ Labor and tenant disputes suppressed by police; leftist organizations dissolved; rural grievances channeled toward military service and colonial migration; unmetabolized resentment accumulates.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial sovereignty; cabinet theoretically responsible to Diet but military influence expanding through direct access to throne; civilian party cabinets weakening after 1931; factional military power rising.<br><br>
-__Succession & Power Transfer:__ Taisho Emperor dies December 1926; Showa Emperor accedes; imperial succession smooth; cabinet succession increasingly disrupted by military pressure and assassination threats.<br><br>
-__Legitimacy & Political Narrative:__ Kokutai ideology intensifies—emperor as divine sovereign, nation as family; liberal and socialist narratives suppressed; nationalist narrative dominates public discourse.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Home Ministry and police apparatus competent and intrusive; military intelligence expands; censorship machinery efficient; corruption modest by comparative standards.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage (1925) expands electorate; leftist parties banned or suppressed; right-wing movements mobilize youth; participation channels narrowing toward state-approved nationalism.<br><br>
-__Geopolitical Position & External Relations:__ League of Nations withdrawal 1933 after Manchuria condemnation; isolation increasing; treaties with Western powers strained; China policy aggressive; Soviet border tensions.<br><br>
-__Coercive Apparatus & Means of Force:__ Imperial Army and Navy modernizing; police force expanded; kenpeitai (military police) active domestically; weapons production capacity growing; command fragmented between army and navy factions.<br><br>
-__Internal Order & Threat Environment:__ Leftist insurgency eliminated through arrests; right-wing terrorism rises (1932 assassinations of Inukai and others); military insubordination tolerated; disorder comes from above not below.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph and telephone link cities; newspapers reach readers within hours of printing; NHK radio (1926) broadcasts news instantaneously to license holders; velocity high, reach broad.<br><br>
-__Record, Storage & Persistence:__ Newspaper archives accumulate; government records comprehensive; censored materials confiscated and sometimes preserved in police files; persistence high for approved content.<br><br>
-__Framing, Censorship & Discourse Norms:__ Home Ministry censorship intensifies; Peace Preservation Law (1925) criminalizes leftist expression; newspapers self-censor to avoid suppression; permissible discourse narrowing toward nationalist conformity.<br><br>
-__Reception, Attention & Amplification:__ Mass-circulation papers (Asahi, Mainichi) exceed one million copies; urban households subscribe; rural reading rooms distribute papers; nationalist narratives amplified across media; dissent marginalized.<br><br>
-__Signal Integrity & Noise Load:__ Official propaganda mixes with commercial news; rumors circulate around censored topics; verification difficult when state controls sources; noise increases as gap between official narrative and lived experience widens.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Kokutai ideology frames loyalty to emperor as supreme moral duty; liberal notions of rights eroding; collective duty over individual autonomy; dissenters viewed as traitors.<br><br>
-__Law, Codification & Regulatory Evolution:__ Peace Preservation Law amended 1928 with death penalty provision; Publication Law and Newspaper Law enforced strictly; legal framework tightening against political expression.<br><br>
-__Adjudication, Enforcement & Liability:__ Special Higher Police (Tokkotai) investigate thought crimes; courts convict leftists routinely; torture in detention documented; enforcement efficient against designated enemies.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom nominally protected but practically constrained; compliance burden heavy for publishers; prior restraint and post-publication seizure both employed; self-censorship rational survival strategy.<br><br>
-__Impunity & Unredressed Wrong:__ Military assassins receive light sentences or popular sympathy; police brutality rarely prosecuted; wrongful convictions of leftists accumulate; impunity for rightist violence grows.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Western science and social theory continue diffusion through universities; Marxist scholarship persists underground despite suppression; nationalist historians ascendant; academic freedom contracting.<br><br>
-__Applied Knowledge & Technical Method:__ Printing technology mature—rotary presses, linotype, photogravure; radio engineering advancing; military-industrial research expanding in munitions and aviation.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Compulsory primary education near-universal; secondary and higher education expanding; literacy rates exceed 95 percent; technical skills broadly distributed; ideological content of curriculum intensifying.<br><br>
-__Obsolescence & Knowledge Decay:__ Marxist and liberal scholarship suppressed; banned books seized; some intellectual traditions forced underground; official curriculum purged of heterodox content; selective decay imposed by state.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Kokutai narrative frames Japan as divine nation with unbroken imperial line; Shinto mythology taught as history; collective memory edited toward martial virtue and national superiority.<br><br>
-__Artistic Expression & Material Culture:__ Modern architecture and design coexist with traditional forms; proletarian literature suppressed after 1933; nationalist aesthetics promoted; cinema expands under censorship constraints.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety over economic depression and international isolation; nationalist fervor mobilized after Manchuria; mood oscillates between crisis and imperial confidence; conformity pressure rising.<br><br>
-__Form Exhaustion & Meaning Decay:__ Taisho democratic ideals fading; liberal political vocabulary losing resonance; nationalist forms gain energy while cosmopolitan modernism retreats; cultural exhaustion localized to suppressed traditions.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ State Shinto dominant—emperor as living deity, national destiny as sacred mission; Buddhist and Christian minorities persist; fatalism regarding duty to nation; secularism suppressed as unpatriotic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Shrine attendance encouraged; imperial rituals broadcast by radio; military ceremonies sacralized; household Buddhist observance continues; practice increasingly state-directed.<br><br>
-__Religious Institutions & Doctrinal Authority:__ State Shinto institutionally dominant; Buddhist sects compliant; new religions monitored; Omoto-kyo suppressed 1935; doctrinal authority flows from state.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ State Shinto expanding at expense of sectarian diversity; Christianity marginalized as foreign; syncretic folk practices persist but subordinated to official cult.<br><br>
-__Disenchantment & Sacred Discharge:__ State ideology fills space that might otherwise secularize; intellectual disenchantment present but unexpressed; sacred energy channeled into nationalist fervor; residual doubt accumulates silently.<br><br>
+# __1926 CE – 1935 CE — Early Showa and Rising Militarism__
+
+__Summary:__ The Japanese print sphere operates under intensifying military-nationalist pressure during the opening decade of Emperor Hirohito's reign, with the binding constraint being the Peace Preservation Law apparatus that progressively narrows permissible discourse while economic crisis, continental expansion, and political assassination discredit civilian governance and shift editorial alignment toward imperial-military objectives.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's established print infrastructure concentrates in the Tokyo-Osaka corridor, with telegraph and rail networks enabling same-day national distribution for major dailies; Manchurian expansion after 1931 extends the information zone into continental Asia, requiring war correspondents and military censorship coordination across new territories.
+
+__Climate Regime & Volatility:__ Agricultural instability through poor harvests in the early 1930s, particularly the northeastern Tohoku region's cold-damage famines of 1931–1934, generates rural distress that press coverage channels into nationalist narratives blaming urban capitalism and Western economic systems.
+
+__Hazard Regime & Exposure:__ The Great Kanto Earthquake of 1923 had already demonstrated information-system vulnerability; post-disaster reconstruction modernizes Tokyo's printing infrastructure with reinforced facilities, but earthquake memory shapes editorial caution about social order and validates emergency powers precedents.
+
+__Resource & Energy Endowment:__ Domestic paper production meets demand through established pulp mills, but imported newsprint and machinery remain significant; economic nationalism encourages domestic substitution while Manchurian timber resources enter strategic calculations for expanded publishing capacity.
+
+__Waste Absorption & Sink Capacity:__ Industrial Tokyo's printing districts contribute to urban air and water pollution loads, while newspaper recycling systems remain underdeveloped; the expanded production volumes of mass-circulation dailies increase waste throughput without proportionate disposal infrastructure.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Public health advances continue reducing infectious disease mortality; tuberculosis remains endemic among urban working classes, including printing workers in poorly ventilated facilities, generating press coverage that oscillates between public health advocacy and blame-assignment to social degeneracy.
+
+__Nutrition & Physiological Vitality:__ Rural malnutrition during the depression years reaches levels generating press scandals about daughters sold into prostitution and conscripts rejected for underweight, providing content for both leftist critique and militarist arguments for continental expansion and resource acquisition.
+
+__Care, Healing & Recovery Capacity:__ The medical profession and hospital system expand, covered extensively in newspapers' health columns; military medicine receives increasing attention as continental operations commence, with wounded soldiers' stories becoming nationalist narrative material.
+
+__Reproductive Biology & Pairing Dynamics:__ Pronatalist discourse intensifies through press coverage emphasizing national demographic strength; eugenic ideas circulate in magazines, while falling urban birth rates generate concern articles about modern women's failure to fulfill reproductive duties.
+
+__Demographic Renewal & Density:__ Population reaches approximately 70 million by 1935, with continued urbanization concentrating readership in metropolitan areas; colonial populations in Korea and Taiwan represent additional markets for Japanese-language publications and subjects for ethnographic coverage.
+
+__Attrition & Dependency Overhang:__ Veterans of the Russo-Japanese War enter dependent age cohorts; war-wounded from Manchurian operations begin generating welfare obligations that the press addresses through patriotic fund drives and human-interest stories celebrating military sacrifice.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The Great Depression devastates silk prices, crushing rural households that had supplemented rice cultivation with sericulture; press coverage of rural immiseration reaches urban audiences whose subscription fees sustain the newspapers reporting on distant suffering they cannot ameliorate.
+
+__Energy Capture & Conversion:__ Electrification of printing presses is complete in major facilities; hydroelectric development expands generating capacity, covered in newspapers as national achievement, while coal remains primary industrial fuel amid concerns about import dependency that military expansionists exploit.
+
+__Labor Organization & Coercion:__ Printing workers organize through unions, but the Peace Preservation Law suppresses leftist labor activity; newspaper companies maintain paternalistic employment relations, with lifetime employment expectations developing for core staff while casual labor handles distribution.
+
+__Production & Surplus Capacity:__ Major newspapers achieve circulation exceeding one million copies daily; Asahi and Mainichi dominate, with rotary presses operating near capacity; magazine publishing proliferates across segments, while book publishing maintains steady output through Iwanami and other houses.
+
+__Storage, Reserves & Buffering:__ Newspaper companies accumulate reserves during profitable years, enabling survival through depression-era advertising declines; wire service subscriptions and correspondent networks represent fixed costs that smaller papers cannot sustain, driving market concentration.
+
+__Exchange, Trade & Logistics:__ National distribution networks mature, with home delivery (takuhai) becoming standard; kiosk and station sales supplement subscription models; newsprint imports from North America and Scandinavia create supply-chain vulnerabilities that economic nationalists publicize.
+
+__Value Storage, Credit & Deferred Exchange:__ The yen's depreciation following departure from the gold standard (1931) affects imported machinery costs; newspaper advertising rates adjust to deflation, with classified advertising and department store display ads constituting primary revenue streams.
+
+__Surplus Extraction & Redistribution:__ Advertising revenue flows to major dailies from zaibatsu enterprises; government information campaigns provide supplementary income for cooperative publications; military-affiliated organizations place patriotic advertising that carries implicit pressure for favorable coverage.
+
+__Wealth Distribution & Asset Defense:__ Newspaper proprietorship concentrates among established families and companies; the Murai, Murayama, and other press dynasties defend positions through political connections and vertical integration of production and distribution.
+
+__Byproducts & Waste Routing:__ Massive daily print runs generate paper waste; recycling networks exist but remain informal; printing chemicals and industrial effluents enter waterways from concentrated production districts without systematic treatment.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Newspaper dynasties practice primogeniture succession, with founding families maintaining ownership control; staff recruitment emphasizes educational credentials from imperial universities, creating identifiable elite networks linking press, bureaucracy, and industry.
+
+__Association & Mutual Aid:__ The Japan Newspaper Publishers and Editors Association coordinates industry positions; press clubs (kisha kurabu) attached to government ministries and corporate headquarters structure reporter access and information sharing, creating cozy relations critics denounce.
+
+__Leisure, Play & Sociability:__ Newspapers sponsor sports events, particularly baseball (Koshien tournament from 1924) and sumo coverage, building readership loyalty; serialized fiction, puzzle sections, and human-interest features compete for entertainment attention alongside cinema.
+
+__Stratification, Status & Group Structure:__ Journalists occupy ambiguous status, educated but associated with unseemly intrusion; editors command respect while reporters face social suspicion; foreign correspondents gain prestige as international perspectives become valued then restricted.
+
+__Administrative Capacity & Institutional Integrity:__ The Home Ministry's Publication Section exercises pre-publication censorship authority; Special Higher Police (Tokko) monitor publications for thought crimes; the apparatus operates efficiently, with publishers internalizing restrictions through self-censorship anticipating official intervention.
+
+__Coercive Apparatus & Means of Force:__ Military police (Kempeitai) expand influence over discourse touching military affairs; the army and navy maintain press liaison offices that supply information to cooperative outlets while restricting access to critics; assassination of Prime Minister Inukai (1932) demonstrates coercive pressure on civilian governance that extends implicitly to press criticism.
+
+__Discharge, Disorder & Decay:__ Political assassination by military extremists proceeds unpunished or with light sentences, signaling that violent nationalism enjoys impunity; press self-censorship intensifies as editors calculate that criticism of the military risks not merely official sanction but physical attack; the February 26 Incident (1936) lies ahead, but its precursor violence already chills editorial independence.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The Manchurian Incident (1931) generates nationalist enthusiasm that newspapers amplify and compete to serve; war fever provides circulation boosts, creating commercial incentives for bellicose coverage; depression-era anxiety finds outlet in imperial pride and resentment of Western condemnation.
+
+__Leadership & Personal Authority:__ Emperor Hirohito's authority is formally supreme but practically constrained; military leaders cultivate popular followings through press coverage of their continental exploits; assassinated leaders become martyrs whose images circulate through print.
+
+__Legitimacy as Lived Allegiance:__ The imperial institution commands deepening reverence enforced through lese-majesty laws; party government's legitimacy erodes as corruption scandals and economic failure undermine civilian politicians; the military gains perceived legitimacy through decisive action in Manchuria.
+
+__Political Will & Collective Resolve:__ Civilian government will collapses under military pressure; the press reflects and reinforces this capitulation, with editorial positions shifting from criticism to accommodation to active support for continental expansion; dissent retreats to increasingly narrow and dangerous margins.
+
+__External Relations & Posture:__ Japan's withdrawal from the League of Nations (1933) dominates international coverage, with press opinion rallying to national defense against Western criticism; isolation is reframed as principled independence; Chinese perspectives appear only as enemy viewpoints requiring refutation.
+
+__Disaffection, Apathy & Spent Will:__ Liberal and leftist intellectuals retreat into silence, interior exile, or formal recantation (tenko); the proletarian literature movement collapses under suppression; independent critical voices exhaust themselves against intensifying pressure, with visible examples discouraging successors.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Near-universal literacy ensures print accessibility; the Japanese writing system's complexity maintains educational barriers, but standard orthography enables national communication; colonial subjects in Korea and Taiwan face linguistic barriers to Japanese-language publications.
+
+__Channels & Transmission Velocity:__ Telegraph and telephone enable rapid news gathering; radio (NHK since 1925) provides real-time broadcast supplementing print, but newspapers retain dominance for detailed coverage and analysis; newsreel cinema adds visual dimension to war reporting.
+
+__Record, Storage & Persistence:__ Newspaper archives accumulate systematically; censorship deletions (fuseji, indicated by X marks) create visible lacunae preserving traces of suppression; the record reflects what could be said while marking what could not.
+
+__Framing, Censorship & Discourse Norms:__ The Peace Preservation Law (1925) criminalizes advocacy threatening the kokutai (national polity) or private property; censorship intensifies progressively, with the permitted band narrowing around critique of military actions, imperial institution, and economic system; self-censorship becomes primary mechanism as publishers internalize restrictions.
+
+__Reception, Attention & Amplification:__ War news captures attention, with Manchurian operations dominating front pages; competition for readers drives sensationalism within permitted bounds; magazine analysis provides depth while remaining within ideological constraints.
+
+__Signal Integrity & Noise Load:__ Official narratives increasingly monopolize discourse, with alternative interpretations suppressed; disinformation about continental events reflects military information control; the gap between official optimism and ground reality widens, but verification mechanisms atrophy.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Imperial loyalty frames moral discourse, with kokutai (national polity) as supreme value transcending individual rights; sense of justice shifts from universal principles toward particularist national interest; Western moral frameworks are increasingly rejected as inappropriate to Japanese conditions.
+
+__Law, Codification & Regulatory Evolution:__ The Peace Preservation Law tightens through 1928 amendment adding death penalty for violations; Publication Law and Press Law provide censorship authority; the legal framework enables flexible suppression of unwanted expression through administrative discretion.
+
+__Adjudication, Liability & Sanction:__ Thought crime (shiso-han) prosecutions increase dramatically; courts defer to prosecution in political cases; publishers face suspension, fines, and confiscation; individual writers face imprisonment, with proletarian authors particularly targeted.
+
+__Rights, Protections & Compliance Burden:__ Constitutional press freedoms exist nominally but yield to public order exceptions; self-censorship compliance burdens fall heavily on editorial staff calculating permissible content; predictability decreases as standards shift without clear guidance.
+
+__Impunity & Unredressed Wrong:__ Military personnel who assassinate civilians receive light sentences or hero treatment; wrongful suppression of publications proceeds without redress; the gap between formal law and actual protection widens as political violence enjoys effective impunity.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Marxist analysis, recently dominant in intellectual circles, retreats under suppression; liberal scholarship continues in reduced scope; imperial historical narratives gain academic institutional support; scientific inquiry remains relatively protected except where conclusions touch politics.
+
+__Applied Knowledge & Technical Method:__ Printing technology continues advancing with improved rotary presses, photoengraving, and color reproduction; production efficiency gains enable circulation expansion; radio broadcast technology provides new supplementary medium.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universal primary education maintains high literacy; secondary and higher education expand, producing educated readership; journalism training formalizes through university programs, though apprenticeship remains primary career entry.
+
+__Obsolescence & Knowledge Decay:__ Marxist and liberal theoretical frameworks are suppressed rather than superseded, preserved in memory and private circulation; woodblock techniques persist for art printing but become anachronistic for text; knowledge of suppressed ideas persists among surviving intellectuals awaiting changed circumstances.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Imperial mythology intensifies through press repetition, with kokutai discourse presenting Japan as uniquely moral civilization; Manchurian expansion frames as continuation of Meiji greatness; Western contamination becomes explanation for social problems requiring purification.
+
+__Legitimating Narrative & Ideology:__ Pan-Asianism provides ideological framework for continental expansion, with Japan presented as liberator of Asia from Western imperialism; domestic order legitimated through emperor-centered family-state ideology; economic nationalism justifies autarkic policies.
+
+__Artistic Expression & Material Culture:__ Print design evolves toward modernist styles while incorporating traditionalist imagery; propaganda posters develop distinctive visual vocabulary; literary expression retreats from social critique toward aestheticism, historical fiction, and approved patriotic themes.
+
+__Form Exhaustion & Meaning Decay:__ Taisho-era liberal democratic forms exhaust political potency as parliamentary governance fails; proletarian literature's formulaic prescriptions deaden before suppression completes; the forms that persist are those compatible with or coopted by rising nationalism.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ State Shinto consolidates as civic religion, with imperial mythology framing Japan's world-historical mission; Buddhist institutions accommodate state ideology; existential purpose derives from national destiny rather than individual salvation.
+
+__Ritual, Devotion & Sacred Practice:__ Imperial rituals receive extensive press coverage, with accession ceremonies for Hirohito (1928) generating massive publication output; war dead enshrinement at Yasukuni Shrine provides grief-processing framework; seasonal and life-cycle rituals continue with nationalist overlay intensifying.
+
+__Religious Institutions & Doctrinal Authority:__ Shrine Shinto receives state support; Buddhist sects adapt to national-mobilization frameworks; Christian minorities face suspicion regarding foreign loyalties; new religious movements proliferate among populations seeking alternative meaning structures.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Imperial State Shinto spreads through educational and media dissemination; colonial populations face pressure toward Japanese spiritual forms; secular ideologies (socialism, liberalism) retreat under spiritual as well as political suppression.
+
+__Disenchantment & Sacred Discharge:__ The liberal and socialist disenchantment with imperial mythology cannot be publicly expressed, generating hidden reservoirs of doubt that surface only after 1945; conforming intellectuals experience private alienation from public positions they must adopt; the sacred intensifies publicly while eroding privately among sophisticated observers.

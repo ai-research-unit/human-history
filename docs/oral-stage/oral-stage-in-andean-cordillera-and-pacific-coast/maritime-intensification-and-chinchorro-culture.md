@@ -1,69 +1,140 @@
-# __8000 BCE – 5000 BCE__ — Maritime Intensification and Chinchorro Culture
-__Summary:__ A three-millennium trend of coastal specialization along the hyper-arid Chilean and southern Peruvian littoral, in which marine resources become the overwhelmingly dominant protein source, supporting sedentary or semi-sedentary communities without agriculture; the binding constraint is the narrow productive band between desert and ocean, which concentrates populations along fog-watered quebradas and river mouths; high demographic stability with ample marine surplus but minimal buffer against tectonic or tsunami hazard; directional drift toward elaborated mortuary ritual, most distinctively the Chinchorro artificial mummification tradition—the earliest known in the world.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Atacama coastal strip: a narrow belt between the Pacific and the western Andean escarpment, effectively waterless except for spring-fed quebradas and rare fog-lomas vegetation; movement is easy along the coastline but interior access is blocked by one of Earth's driest deserts.<br><br>
-__Climate Regime & Volatility:__ Hyper-arid, cool-temperate maritime climate with minimal rainfall; stable trade-wind inversion suppresses precipitation year-round; ENSO-driven warm-water events episodically reduce marine productivity but do not fundamentally alter the regime across this window.<br><br>
-__Hazard Regime & Exposure:__ High seismic and tsunami exposure on a subduction coast; earthquake and wave hazards are recurrent threats to low-lying coastal camps; volcanic risk low at sea level; drought risk irrelevant because terrestrial water is already absent.<br><br>
-__Resource & Energy Endowment:__ Marine resources exceptionally rich—upwelling cold currents (Humboldt system) sustain dense fish, shellfish, and marine mammal populations; terrestrial lithic raw materials (obsidian, basalt, siliceous stone) accessible in nearby highlands; freshwater confined to scattered springs and fog condensation.<br><br>
-__Waste Absorption & Sink Capacity:__ Shell middens accumulate at camp peripheries; organic refuse dispersed into surf zone or consumed by scavengers; population densities low enough that waste load imposes no observable constraint on settlement persistence—effectively unlimited absorptive capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Sparse population and arid conditions limit vector-borne disease; skeletal evidence shows high incidence of auditory exostoses (from cold-water diving), dental wear from sand in marine foods, and arsenic poisoning from local spring water; infant mortality elevated but overall pathogen burden low.<br><br>
-__Nutrition & Physiological Vitality:__ Marine diet protein-rich (stable isotope data indicate 80–90% marine-derived protein); carbohydrate and fat intakes adequate from fish, shellfish, and sea mammals; stature and skeletal robustness consistent with good nutritional status; some micronutrient imbalances from narrow dietary base.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Small, kin-structured bands with localized mating networks; no evidence of marked reproductive skew; demographic continuity suggests stable pairing and adequate fecundity across the window.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly through the period; settlement clustering at quebrada mouths and near freshwater springs; density sufficient to maintain persistent midden sites and mortuary areas; replacement appears to match or slightly exceed attrition.<br><br>
-__Attrition & Dependency Overhang:__ Chinchorro mummification practices extend to infants and children, indicating high infant and child mortality rates; the adult productive cohort absorbs the mortality burden without evident demographic collapse; no documented surplus of aged dependents.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Marine foraging provides the subsistence floor: fish (anchovies, sardines, larger species), shellfish (mussels, limpets, sea urchins), marine mammals (sea lions, dolphins); wild plant foods supplementary; no cultivated crops within this window.<br><br>
-__Energy Capture & Conversion:__ Human muscle is the sole power source; energy capture via fishing (lines, nets, harpoons), shellfish gathering, and sea-mammal hunting; reed watercraft or log floats extend foraging range beyond the immediate surf zone; fire for cooking and warmth.<br><br>
-__Labor Organization & Coercion:__ Kinship-based task allocation; diving and offshore fishing likely male-dominated; shellfish gathering and processing shared; no evidence of coercive labor extraction; reciprocity structures coordinate group effort.<br><br>
-__Production & Surplus Capacity:__ Marine productivity generates modest surplus beyond immediate consumption; dried fish and shellfish storable short-term; surplus sufficient to support non-subsistence labor (mummification specialists, toolmakers) but not large-scale accumulation.<br><br>
-__Storage, Reserves & Buffering:__ Drying and smoke-curing preserve marine protein for days to weeks; no ceramic containers or permanent granaries; buffering capacity adequate for normal seasonal variation but limited against prolonged resource failure.<br><br>
-__Exchange, Trade & Logistics:__ Local exchange within coastal networks; obsidian, colored pigments, and highland products (camelid fiber, plant materials) move via occasional contact with highland foragers; no formalized markets; exchange is reciprocal and occasional.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; value stored in durable goods (bone fishhooks, harpoon points, lithic tools) and social obligation; deferred reciprocity among kin and neighboring bands mediates future claims.<br><br>
-__Surplus Extraction & Redistribution:__ Redistribution occurs at band level—large catches or kills shared according to kinship and participation norms; no institutionalized extraction apparatus; communal allocation dominates.<br><br>
-__Wealth Distribution & Asset Defense:__ Minimal differentiation; mortuary treatment (mummification) is widespread across age, sex, and apparent status categories; no evidence of concentrated wealth or defended stores.<br><br>
-__Byproducts & Waste Routing:__ Shell, bone, and lithic debitage accumulate in middens; organic waste left at camp margins or tidal zones; volume modest; routing decisions impose no stress on available dispersal space.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High interpersonal trust within small, kin-based residential groups; mortuary investment in all age categories suggests strong communal bonds and mutual obligation; radius of trust largely coterminous with the band.<br><br>
-__Stratification, Status & Group Identity:__ Egalitarian or weakly ranked; mummification applied broadly without marked differentiation; group identity tied to coastal territory and mortuary practice; no rigid stratification boundaries.<br><br>
-__Kinship, Family & Inheritance:__ Band organization based on bilateral or unilineal kin ties; small multi-family residential clusters; inheritance presumably follows kinship norms; property limited to portable tools and symbolic objects.<br><br>
-__Civic Association & Self-Organization:__ No institutions beyond kinship; decision-making likely consensual within the band; cooperation in large-mammal hunting and mortuary preparation coordinates collective labor.<br><br>
-__Leisure, Play & Sociability:__ Communal gatherings at shell midden sites; seasonal aggregations for resource harvesting and likely ritual activity; play and sociability woven into subsistence routine.<br><br>
-__Grievance Channels & Social Discharge:__ Interpersonal disputes resolved within the band via kinship mediation; no formal judicial apparatus; mortuary ritual may absorb grief and social disruption from death; residue appears effectively cleared.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous or minimally ranked; leadership situational and task-specific (hunting, ritual); no hereditary offices or permanent hierarchy; authority is personal and persuasive, not coercive.<br><br>
-__Succession & Power Transfer:__ Leadership roles not formalized; succession occurs informally as capable individuals emerge; no institutionalized transfer mechanism required at this organizational scale.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimated by demonstrated competence and kinship seniority; no ideological apparatus or legitimizing mythology beyond communal oral tradition.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination achieved through face-to-face interaction; record-keeping absent; decision-making immediate and situational.<br><br>
-__Political Participation & Mobilization:__ All adult members participate in collective decisions; mobilization for hunting or ritual is voluntary and kin-based; dissent expressed through discussion or departure.<br><br>
-__Geopolitical Position & External Relations:__ Neighboring coastal bands and occasional highland foragers constitute the external field; relations are generally cooperative or avoidant; no evidence of organized intergroup warfare.<br><br>
-__Coercive Apparatus & Means of Force:__ Weapons are hunting tools (harpoons, clubs); no specialized warrior class or defensive fortifications; violence, if any, is interpersonal or small-scale raiding.<br><br>
-__Internal Order & Threat Environment:__ Low internal disorder; kin-based norms maintain order; external threats from neighboring groups minimal; predation by large fauna (sharks, sea lions) a hazard but not a social-order issue.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication within the band and across neighboring groups during aggregations; message reach is face-to-face; transmission velocity limited to walking or paddling pace.<br><br>
-__Record, Storage & Persistence:__ Living memory alone stores information; no writing, notation, or durable external record; knowledge persists only as long as it is actively remembered and transmitted; loss of elders means loss of knowledge.<br><br>
-__Framing, Censorship & Discourse Norms:__ Oral discourse governed by social etiquette and respect for elders; no centralized censorship; certain topics (mortuary secrets, ritual knowledge) may be restricted by custom.<br><br>
-__Reception, Attention & Amplification:__ Attention focused on elders and skilled practitioners; stories and instructions amplified through repetition in communal settings; no mass-audience mechanisms.<br><br>
-__Signal Integrity & Noise Load:__ Low information volume keeps noise manageable; oral correction and consensus maintain signal integrity; drift and error accumulate slowly across generations.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Shared norms rooted in kinship obligation, reciprocity, and respect for the dead (evidenced by elaborate mortuary treatment); fairness understood in terms of sharing and mutual aid.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding norms are customary and transmitted orally; evolution slow and incremental through consensus adaptation.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated informally by elders or kin groups; enforcement through social pressure, shaming, or exclusion; no third-party judicial apparatus.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy high within kin obligations; compliance burden minimal; territorial access and resource rights governed by group membership.<br><br>
-__Impunity & Unredressed Wrong:__ Small-scale society limits impunity; wrongs within the group are difficult to hide; persistent offenders face ostracism; unredressed grievances occasionally resolved through departure or fission.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of marine ecology, tides, currents, fish behavior, and plant properties accumulated through observation; no formal inquiry tradition; explanatory paradigm embedded in oral narrative and animist cosmology.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated fishing technology (bone fishhooks, harpoons, net weights, possibly reed watercraft); mummification techniques (evisceration, desiccation, clay modeling, wig attachment) represent complex procedural knowledge transmitted across generations.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Apprenticeship within kinship networks; children learn by observation and participation; mummification skills possibly held by specialists; overall skill distribution relatively broad.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge lost when lineages die out or migration severs transmission; no external record to preserve techniques; some decay inevitable, but core practices persist across three millennia.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Collective identity rooted in coastal lifeways and the sea; mummification implies strong ancestor orientation and beliefs about post-mortem personhood; foundational narratives transmitted orally and now lost.<br><br>
-__Artistic Expression & Material Culture:__ Mummies themselves are artistic productions—bodies painted, wrapped, fitted with wigs and clay masks; shell and bone ornaments; geometric patterns on wrappings; no monumental architecture.<br><br>
-__Collective Mood & Behavioral Disposition:__ Evidence insufficient to reconstruct mood; mortuary investment suggests communal confidence and concern for continuity; no signs of crisis or demoralization in the archaeological record.<br><br>
-__Form Exhaustion & Meaning Decay:__ Mummification tradition evolves (black mummies to red mummies) but persists for millennia, suggesting renewal rather than exhaustion; eventual abandonment (post-5000 BCE) indicates eventual form change, but within this window the tradition remains vital.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Worldview presumably animist, treating the sea, animals, and ancestors as ensouled; mummification indicates belief in continued post-mortem existence or ancestral potency; specifics unrecoverable without written sources.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mummification is the central ritual complex—treatment of the dead as the primary sacred action; probable ceremonies at interment; offerings of grave goods (tools, ornaments) accompany burials.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal religious institutions; ritual knowledge likely held by senior practitioners or lineage specialists; doctrinal authority diffuse and embedded in oral tradition.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Mummification tradition is localized to the Chinchorro zone; no evidence of external religious influence or displacement during this window; the practice remains stable and regionally bounded.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of spiritual erosion; mortuary ritual appears to effectively discharge existential anxiety around death; the sacred framework remains intact throughout the window.<br><br>
+# __8,000 BCE – 5,000 BCE__ — Maritime Intensification and Chinchorro Culture
+
+__Summary:__ Across three millennia of mid-Holocene warming and coastal aridity, communities along the hyperarid Pacific littoral from southern Peru to northern Chile deepen their commitment to the sea, developing specialized fishing technologies, establishing permanent shell-mound villages, and elaborating the world's earliest known tradition of artificial mummification — all coordinated, transmitted, and remembered through speech alone; the binding constraint is that every technique, mortuary rite, and lineage claim rides on breath and living memory, with nothing written down.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The setting is the narrow coastal strip between the western Andean escarpment and the cold Pacific, stretching from the Ilo coast in southern Peru through the Atacama to the Loa River in northern Chile — one of Earth's driest deserts, where fog-fed lomas and river-mouth oases punctuate an otherwise lifeless terrain, and all inland movement requires climbing thousands of meters within a few horizontal kilometers.
+
+__Climate Regime & Volatility:__ The mid-Holocene thermal maximum (~8,000–5,000 BCE) brings warmer, drier conditions; highland glaciers retreat, coastal fog diminishes in some sectors, and interior freshwater sources contract — yet the cold Humboldt Current remains stable, sustaining coastal productivity even as the land desiccates.
+
+__Hazard Regime & Exposure:__ Seismic risk is constant along this subduction zone; tsunamis periodically devastate low-lying camps; El Nino events disrupt anchovy runs and trigger flash floods in normally dry quebradas — but the recurrence interval of severe events remains multi-generational, allowing settlement to recover between shocks.
+
+__Resource & Energy Endowment:__ The Humboldt upwelling delivers one of the world's richest marine biomasses: anchovies, sardines, corvina, sea bass, sea lions, shellfish beds, and kelp forests; freshwater is scarce and localized at river mouths and springs; lithic material (basalt, obsidian, chert) must be sourced from inland quarries.
+
+__Waste Absorption & Sink Capacity:__ Shell middens accumulate at favored camps over centuries, forming mounds meters thick; organic refuse decomposes slowly in the hyperarid climate, preserving fish bone, plant fiber, and human remains — the sink is capacious and the load modest, leaving no evidence of degradation feedback.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Limited population density and coastal isolation keep epidemic disease low; parasitic infections from raw or undercooked fish (anisakiasis, diphyllobothriasis) appear in mummified remains; infant and child mortality is high by modern standards but unremarkable for Archaic populations.
+
+__Nutrition & Physiological Vitality:__ Marine protein dominates the diet — fish, shellfish, sea mammals, seabirds — supplemented by gathered tubers, rhizomes, and lomas vegetation; skeletal evidence shows robust stature, but auditory exostoses ("surfer's ear") in adult males attest to prolonged cold-water diving.
+
+__Care, Healing & Recovery Capacity:__ Wound-tending, bone-setting, and plant-based remedies are passed orally through kin; the elaborate treatment of the dead implies belief in continuing care obligations, but no specialized healing institution exists beyond household and band knowledge.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and household formation follow patterns common to small-scale foragers; no evidence of marked polygyny or bride-price; kinship likely bilateral with local residence flexibility.
+
+__Demographic Renewal & Density:__ Population grows slowly as maritime productivity supports sedentary camps; cemetery sequences at sites like Acha and Camarones show continuous use over centuries, implying stable or gently rising numbers — perhaps a few hundred to a few thousand along the northern Chilean coast.
+
+__Attrition & Dependency Overhang:__ Mummification of infants, children, and adults alike indicates that all age cohorts receive mortuary treatment; the dependent load (young children, elderly) is absorbed within kin groups without evidence of abandonment or strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The sea provides the caloric base: anchovies and sardines netted or trapped, larger fish speared or hooked, shellfish gathered at low tide, sea lions hunted with harpoons; gathered plant foods (tubers, rhizomes, algae) and occasional terrestrial game (camelids, rodents) supplement the marine core.
+
+__Energy Capture & Conversion:__ Human muscle powers all extraction; the absence of domesticated animals or sailing craft limits energy throughput; fire is used for cooking, smoking fish, and rendering fat from sea mammals.
+
+__Labor Organization & Coercion:__ Labor is organized by household and gender, with adult males conducting deep-water fishing and sea mammal hunting while women and children gather shellfish, process catches, and collect plant foods — a division documented ethnographically and inferred from mortuary associations.
+
+__Production & Surplus Capacity:__ Surplus is modest but real: dried fish and smoked sea mammal meat can be stored; seasonal abundance (anchovy runs) exceeds immediate consumption and is preserved for leaner periods.
+
+__Storage, Reserves & Buffering:__ Drying, smoking, and the hyperarid climate allow extended storage without spoilage; shell-mound sites contain storage pits; risk pooling occurs through reciprocal sharing among kin and neighboring bands.
+
+__Exchange, Trade & Logistics:__ Inland obsidian, highland camelid wool, and lowland marine products move along footpaths connecting coast and sierra; exchange is likely gift-based and reciprocal, binding coastal and highland bands in long-distance relations transmitted orally through kinship and alliance memory.
+
+__Value Storage, Credit & Deferred Exchange:__ No formal currency exists; shell beads and finished artifacts may serve as prestige tokens; deferred reciprocity ("I give now, you owe later") structures exchange, with obligations remembered and recited.
+
+__Surplus Extraction & Redistribution:__ No evidence of tribute or centralized extraction; surplus redistribution occurs through communal feasting and mortuary ritual, which concentrates offerings around the dead.
+
+__Wealth Distribution & Asset Defense:__ Material differentiation is modest; mortuary goods (fishhooks, harpoon points, baskets, mats) accompany most burials regardless of age or sex, though some individuals receive more elaborate treatment — possibly reflecting achieved prestige rather than inherited rank.
+
+__Byproducts & Waste Routing:__ Shell, bone, and ash accumulate in middens; the dry climate arrests decay; no evidence of pollution stress or resource depletion within the window.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral kinship likely prevails; households are the primary production and consumption units; mortuary evidence (family clusters in cemeteries) suggests lineal kin groupings with transmitted claims to camp locations and fishing grounds.
+
+__Association & Mutual Aid:__ Bands of 25–75 individuals aggregate at favored camps; mutual aid during sea mammal hunts and net fishing requires coordination; reciprocal obligations bind households within and across bands.
+
+__Leisure, Play & Sociability:__ Shell-mound sites yield musical instruments (bone flutes, whistles) and gaming pieces; communal feasting around mortuary events provides periodic sociability beyond daily work.
+
+__Stratification, Status & Group Structure:__ Differentiation is slight; some individuals (possibly elders, skilled fishermen, or ritual specialists) receive more elaborate mummification or richer grave goods, but no hereditary elite or marked hierarchy is evident.
+
+__Administrative Capacity & Institutional Integrity:__ No centralized administration exists; coordination is achieved through kin networks, oral consensus, and remembered precedent — the band headman, if any, leads by persuasion, not command.
+
+__Coercive Apparatus & Means of Force:__ Weapons (harpoons, spear-throwers, clubs) serve for hunting and defense; no evidence of organized warfare, fortification, or inter-group violence at scale; conflict resolution likely proceeds through kin mediation and flight.
+
+__Discharge, Disorder & Decay:__ Friction is absorbed within kin-based dispute resolution and periodic band fission; no evidence of accumulated grievance or structural breakdown; the system remains small-scale and flexible.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Trust extends across the band and into allied bands along the coast; the radius of confidence is limited but secure; sentiment is inferred from the care lavished on the dead, which implies belief in continuing bonds.
+
+__Leadership & Personal Authority:__ Authority is achieved, not ascribed — skilled hunters, elders with long memory, and ritual specialists likely command respect without coercive power; leadership is diffuse and situational.
+
+__Legitimacy as Lived Allegiance:__ Allegiance runs to kin, band, and ancestral place; legitimacy is embedded in oral genealogy and remembered precedent, not formal office; the living and the mummified dead together constitute the community.
+
+__Political Will & Collective Resolve:__ Collective action is ad hoc — a sea mammal hunt, a communal mummification — and dissolves when the task is done; no standing mobilization or long-term collective projects beyond mortuary rites.
+
+__External Relations & Posture:__ Relations with highland bands are generally peaceable, structured by exchange; no evidence of conquest, expansion, or territorial defense beyond the local camp.
+
+__Disaffection, Apathy & Spent Will:__ The small scale and kin intimacy of the band limit the accumulation of disaffection; individuals who fall out may relocate; no evidence of collective apathy or exhaustion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is fully developed; all community members share a common tongue, transmitted from parent to child; no script, notation, or external record exists — knowledge is encoded in speech and gesture.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of a walking messenger; coastal camps are strung along footpaths a few days' walk apart; news, warnings, and invitations spread through kin visitation.
+
+__Record, Storage & Persistence:__ Memory is the only archive; genealogies, fishing-ground claims, mortuary protocols, and mythic narratives are retained in the heads of elders and transmitted orally; the mummified dead themselves serve as mnemonic anchors, their physical presence recalling lineage and precedent.
+
+__Framing, Censorship & Discourse Norms:__ Ritual speech surrounding death and ancestors likely follows formulaic patterns; proprietary knowledge (hunting secrets, ritual procedures) may be restricted to initiated adults; no external censor exists, but social sanction enforces norms.
+
+__Reception, Attention & Amplification:__ The audience is small and face-to-face; amplification is limited to repetition and communal recitation; prestige accrues to skilled orators and storytellers.
+
+__Signal Integrity & Noise Load:__ Transmission fidelity depends on repetition and redundancy; over generations, drift and loss are inevitable; no verification mechanism exists beyond cross-checking among living memory-holders.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The shared conscience centers on kin obligation, reciprocity, and respect for the dead; fairness is measured by balance of exchange and fulfillment of duty; transgression invites social sanction and supernatural retribution.
+
+__Law, Codification & Regulatory Evolution:__ No written law; binding taboos govern treatment of the dead, food sharing, and sexual conduct; norms are transmitted orally and enforced by kin pressure.
+
+__Adjudication, Liability & Sanction:__ Disputes are settled within the band by elders or through kin mediation; sanctions include shaming, compensation, and, in extreme cases, expulsion; no formal court or standing judiciary exists.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy is high within the band; rights attach to kinship status rather than abstract personhood; compliance burden is low — norms are internalized and socially enforced.
+
+__Impunity & Unredressed Wrong:__ The small scale of the band limits impunity; wrongs are remembered and recited; persistent offenders face expulsion — the community is too intimate for unredressed grievance to accumulate.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding is practical and observational: reading tides, tracking fish runs, predicting weather by cloud and wind, knowing the habits of prey — empirical knowledge embedded in oral tradition rather than formal theory.
+
+__Applied Knowledge & Technical Method:__ Maritime technology reaches high sophistication: barbed bone harpoons, composite fishhooks, cotton fiber nets and lines, reed-bundle floats (caballitos), and stone weights; mummification technique — evisceration, defleshing, clay modeling, wig attachment, painting — is a complex craft transmitted by apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Children learn by observation and guided participation; specialized skills (mummification, deep-water diving, harpoon-making) pass within kin lines; the knowledge stock is narrow but deep in its maritime domain.
+
+__Obsolescence & Knowledge Decay:__ Loss occurs when a skilled practitioner dies without transmitting; mummification techniques evolve and diversify across centuries, suggesting both innovation and the decay of earlier variants as memory lapses.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity is anchored in lineage, place, and the ancestral dead; origin narratives (unrecorded but inferred) likely tie the community to founding ancestors whose mummified bodies remain present; the coast itself — fog, surf, rock, kelp — forms the sensory world of belonging.
+
+__Legitimating Narrative & Ideology:__ The mummification tradition legitimates kin continuity: the dead are not gone but remain, painted and dressed, among the living; this ideology justifies kin authority and place-claims.
+
+__Artistic Expression & Material Culture:__ Expression centers on the prepared body: clay masks modeled over defleshed faces, wigs of human hair, painted red or black surfaces, incised or modeled features reproducing the living likeness; textiles (twined mats, woven baskets, looped bags) display geometric patterns; color palette is earth-toned — ochre, manganese black, white ash — with red and black predominating on mummies.
+
+__Form Exhaustion & Meaning Decay:__ The Chinchorro tradition persists for millennia with evolving technique (black mummies, red mummies, mud-coated mummies), suggesting renewal rather than exhaustion; eventual decline (~1,500 BCE) may reflect external disruption or internal meaning-decay, but within this window the forms remain vital.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The dead are not severed from the living; mummification implies a worldview in which the body remains a vessel for ongoing presence; the boundary between life and death is porous, managed by ritual rather than absolute.
+
+__Ritual, Devotion & Sacred Practice:__ Mummification is the central rite: a multi-day process involving evisceration, defleshing, armature insertion, clay modeling, drying, painting, and dressing; the mummified body is then kept, displayed, or periodically reinterred — acts of devotion sustained by oral liturgy.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood; ritual knowledge likely resides with lineage elders or specialists whose authority rests on skill and memory; doctrine is oral, passed through apprenticeship and recitation.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Chinchorro tradition is geographically bounded (northern Chile, southern Peru) and does not spread inland or northward; no evidence of syncretism or displacement by competing cosmologies within the window.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains anchored in the mummified dead; no evidence of secularizing drift or disenchantment within the window — the tradition continues until external factors (population shifts, environmental change, cultural contact) erode it after ~1,500 BCE.
+

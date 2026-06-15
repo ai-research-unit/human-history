@@ -1,69 +1,140 @@
-# __4000 BCE – 2500 BCE__ — Late Archaic Intensification and Early Village Life
-__Summary:__ A fifteen-century transition across the Mexican highlands and emerging lowland settlements in which semi-mobile forager-cultivators consolidate into the first permanent hamlets, maize productivity rises sharply, pottery appears, and the groundwork for village-scale society is laid; the binding constraint is the maize-cob productivity threshold that must be crossed before year-round sedentism becomes viable; system margin remains high against environmental shocks thanks to diversified wild-food fallbacks; the principal direction of change is toward increasing sedentism, agricultural dependency, and inter-regional exchange.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Highland valleys — Tehuacan, Oaxaca, Basin of Mexico — provide defensible basins with seasonal watercourses; lowland riverine corridors open coastal and Gulf access; obsidian sources in the Sierra de las Navajas and Guatemalan highlands anchor long-distance movement along established seasonal trails.<br><br>
-__Climate Regime & Volatility:__ Mid-Holocene conditions prevail with summer-dominant rainfall; the Altithermal warm-dry episode is waning, and precipitation regimes are stabilizing toward modern seasonal patterns; interannual variability is moderate, with occasional drought years requiring fallback foraging.<br><br>
-__Hazard Regime & Exposure:__ Volcanic activity in the Transvolcanic Belt poses a latent but infrequent threat; flooding along lowland rivers is seasonal and predictable; small hamlet populations hold ample margin against localized disasters through mobility and wild-food buffers.<br><br>
-__Resource & Energy Endowment:__ Obsidian outcrops, chert nodules, and basalt cobbles supply lithic needs; firewood from pine-oak forests remains abundant; cultivable alluvium in valley floors and river terraces is underexploited relative to available stock.<br><br>
-__Waste Absorption & Sink Capacity:__ Human waste, hearth ash, and knapping debris disperse across open landscapes with effectively unlimited absorptive capacity; no measurable environmental degradation accumulates.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal parasites and occasional respiratory infections impose a modest background mortality; epidemic disease is absent at low population densities; infant mortality remains elevated but stable.<br><br>
-__Nutrition & Physiological Vitality:__ Diversified diet combining cultivated maize, beans, squash, wild game, cactus fruits, and collected seeds maintains adequate nutrition; skeletal evidence from Tehuacan caves shows moderate stature without severe deficiency markers.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding within small band-hamlet units follows kin-based exogamy; fertility is not constrained by severe nutritional stress; birth spacing reflects nursing duration and seasonal mobility requirements.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly across the window as sedentism increases; density remains well below carrying capacity in most valleys; net positive replacement with gradual hamlet nucleation.<br><br>
-__Attrition & Dependency Overhang:__ The aged and infirm are absorbed within extended kin groups; dependency load is low relative to productive capacity; no evidence of systematic abandonment or crisis-level burden.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Maize, squash, beans, and chili cultivation supplement wild deer, rabbit, cactus, and mesquite harvest; the provisioning floor rises as maize cob size increases through selection; households pool labor and share produce.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the sole power source; fire is used for cooking, heat, and land clearance; energy throughput per capita is low but sufficient for subsistence agriculture and craft production.<br><br>
-__Labor Organization & Coercion:__ Labor is organized by household and kin group with no evidence of coercion; task specialization is minimal beyond age and gender divisions; communal field clearing and harvest sharing prevail.<br><br>
-__Production & Surplus Capacity:__ Surplus is modest and seasonal; stored maize and dried game provide a buffer against lean months; production does not yet generate durable wealth differentials.<br><br>
-__Storage, Reserves & Buffering:__ Pit storage features appear in Late Archaic contexts; ceramic vessels (emerging ~2500 BCE) improve grain storage; reserves are household-scale, sufficient for single bad seasons.<br><br>
-__Exchange, Trade & Logistics:__ Obsidian from highland sources circulates to lowland communities; marine shell moves inland; exchange is reciprocal and kin-mediated rather than market-based; trail networks follow seasonal round patterns.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Value is stored in cached food, obsidian, and ornaments; deferred reciprocity within kin networks carries obligation across seasons; no standardized unit of account exists.<br><br>
-__Surplus Extraction & Redistribution:__ No suprahousehold authority extracts surplus; communal sharing of large game and harvest gluts redistributes within the hamlet; allocation follows kinship obligation.<br><br>
-__Wealth Distribution & Asset Defense:__ Material wealth differentials are minimal; portable goods circulate through reciprocity; no defensive accumulation strategies are evident.<br><br>
-__Byproducts & Waste Routing:__ Organic refuse, ash, and lithic debitage accumulate in middens near habitation; volume is trivial relative to landscape absorptive capacity; no routing decisions required.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends through kin and affinal ties across hamlet populations of a few dozen; reciprocal food sharing and labor pooling reinforce solidarity; the trust radius is stable and co-extensive with face-to-face community.<br><br>
-__Stratification, Status & Group Identity:__ Status distinctions are based on age, skill, and perhaps ritual knowledge; no hereditary ranking is evident; group identity is kin-based with emerging hamlet affiliation.<br><br>
-__Kinship, Family & Inheritance:__ Extended families form co-resident clusters; inheritance of portable goods and garden plots follows kin lines; marriage alliances link neighboring hamlets.<br><br>
-__Civic Association & Self-Organization:__ Hamlet-scale coordination handles communal tasks — field clearing, hunting drives, ceremonies — without formal institutions; elder consensus governs collective decisions.<br><br>
-__Leisure, Play & Sociability:__ Seasonal aggregations provide opportunity for feasting, courtship, and ritual performance; leisure is embedded in the agricultural and ceremonial cycle.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes are mediated by kin elders; fission and mobility provide escape valves; unresolved grievance is minimal at low population density.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is diffuse, lodged in elder consensus and achieved status; no permanent leadership office exists; decision-making is situational and ad hoc.<br><br>
-__Succession & Power Transfer:__ Influence accrues to individuals through demonstrated competence and generosity; no formal succession mechanism; authority does not transfer hereditarily.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derives from kinship seniority, ritual knowledge, and successful provisioning; no elaborated political ideology beyond oral tradition and ancestral precedent.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity is nil; coordination is face-to-face and memory-based; no records, no bureaucracy, no coercive enforcement apparatus.<br><br>
-__Political Participation & Mobilization:__ All adult members participate in communal deliberation; mobilization is voluntary and kin-driven; dissent expresses through departure rather than confrontation.<br><br>
-__Geopolitical Position & External Relations:__ Inter-hamlet relations are kin-mediated and generally peaceful; exchange partnerships create ties across ecological zones; no territorial polities or external threats are attested.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus exists; hunting weapons (atlatl, spear, knife) are universally held; force is applied only in interpersonal disputes or defense against predators.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder is minimal; banditry and organized violence are absent; the threat environment is dominated by wild animals and occasional interpersonal conflict.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at walking pace via face-to-face speech; seasonal aggregations synchronize knowledge across dispersed hamlets; news spreads within days across local networks.<br><br>
-__Record, Storage & Persistence:__ All knowledge resides in living memory and oral transmission; no durable recording medium exists; persistence depends on intergenerational repetition and ritual rehearsal.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms are governed by kinship etiquette and ritual propriety; no institutional censorship; speech taboos surround sacred names and mortuary matters.<br><br>
-__Reception, Attention & Amplification:__ Attention is captured by skilled storytellers and ritual performers; amplification occurs through repetition at seasonal gatherings; information competes for limited communal attention time.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces gradual drift; verification relies on elder memory and cross-checking among contemporaries; noise load is low given small community size and direct observation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice centers on reciprocity, kinship obligation, and harm avoidance; fairness is measured by equivalent return; transgression disrupts the relational web.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law exists; binding norms are customary and orally transmitted; taboos govern sacred spaces, incest boundaries, and food-sharing obligations.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are adjudicated by kin elders or resolved through compensation and reconciliation; enforcement is communal pressure and shame; liability attaches to individuals and their kin group.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy is high within kin expectations; compliance burden is embedded in daily reciprocity rather than external regulation; no formal rights framework.<br><br>
-__Impunity & Unredressed Wrong:__ Serious wrongs risk feud or fission; most grievances are resolved or dissipate through mobility; standing impunity is minimal at hamlet scale.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Understanding of plant behavior, animal habits, and seasonal cycles constitutes practical ecological knowledge; no formal theory; inquiry is empirical and embedded in subsistence practice.<br><br>
-__Applied Knowledge & Technical Method:__ Techniques for maize cultivation, storage pit construction, pottery firing (by window's end), and obsidian knapping represent accumulated applied knowledge; methods transmit through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmits orally within kin groups; all adults possess generalist subsistence skills; specialist knowledge (healing, ritual, flintknapping) concentrates in experienced practitioners.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques that lose utility fade from practice; loss is gradual and unrecorded; knowledge stock grows net-positive as cultivation intensifies and pottery emerges.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestral migrations, and landscape spirits constitute the mythic substrate; identity roots in kin lineage and place attachment; collective memory extends a few generations.<br><br>
-__Artistic Expression & Material Culture:__ Ground-stone tools, simple bone ornaments, and earliest ceramics (Purron phase) represent material culture; figurines and decorated pottery signal emerging aesthetic elaboration.<br><br>
-__Collective Mood & Behavioral Disposition:__ The prevailing temper is cautiously optimistic as maize productivity rises and sedentism proves viable; anxiety centers on seasonal uncertainty rather than existential threat.<br><br>
-__Form Exhaustion & Meaning Decay:__ Cultural forms are vital and context-embedded; no sign of symbolic exhaustion; innovation in pottery and settlement marks creative expansion rather than stagnation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ An animist cosmology pervades, with spirits inhabiting mountains, caves, springs, and cultivated plants; human existence is embedded in reciprocal relationships with non-human powers; outlook blends reverence and pragmatic negotiation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Rituals mark planting, harvest, and seasonal transitions; cave offerings, figurine caches, and communal feasting enact devotion; daily practice includes food offerings and verbal invocations.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional hierarchy; ritual knowledge lodges in elders and emerging specialists; doctrine is fluid and locally variable; authority derives from demonstrated efficacy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shared animist frameworks across highland and lowland groups allow easy syncretism through exchange contacts; no displacement pressure; spiritual repertoire is expanding with maize-centered symbolism.<br><br>
-__Disenchantment & Sacred Discharge:__ The sacred saturates daily life; no disenchantment; cosmological coherence is maintained through ritual renewal and oral tradition; no existential void accumulates.<br><br>
+# __4,000 BCE – 2,500 BCE__ — Late Archaic Intensification and Early Village Life
+
+__Summary:__ Across the Mexican highlands and emerging lowland clearings, scattered foraging bands shift toward semi-sedentary hamlets as fully domesticated maize, squash, and beans anchor a mixed subsistence regime; speech carries the planting calendar, seed-selection knowledge, and kin-reciprocity obligations that coordinate labor and redistribute harvests, yet no durable record exists beyond living memory — the binding constraint that limits community scale and institutional continuity to what elders can recall and retell.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Mexican highlands — the Basin of Mexico, Valley of Oaxaca, Tehuacan Valley — provide temperate basins ringed by volcanic uplands, with alluvial soils replenished by seasonal flooding; the Gulf Coast and Yucatan lowlands remain heavily forested, traversable along rivers and coastal margins but resisting permanent clearance without metal tools. Movement between ecological zones follows footpaths along ridges and river corridors, with travel times measured in days; no draft animals shorten distance.
+
+__Climate Regime & Volatility:__ The mid-Holocene dry phase eases toward wetter conditions by 3,000 BCE, extending the monsoon season and improving maize yields in the highlands; interannual rainfall variability remains significant, with drought years still common enough to require mobile fallback strategies. Temperature gradients between highland and lowland zones drive vertical transhumance patterns among groups that exploit both.
+
+__Hazard Regime & Exposure:__ Volcanic activity in the Transmexican Belt poses localized risks — ashfall can enrich soils over time but destroy crops in the short term; flooding in lowland rivers threatens stored harvests; drought remains the most frequent hazard, pushing groups back toward wild-plant refugia when rains fail. Settlement avoids floodplains and active volcanic slopes where oral memory recalls past disasters.
+
+__Resource & Energy Endowment:__ Obsidian sources in the highlands (Otumba, Zinapecuaro) provide high-quality lithic material for tools and nascent exchange networks; clay for pottery emerges as a valued resource as ceramic technology appears late in the period. Forests supply fuel and construction wood; wild game remains available but thinning as human density increases. Energy derives entirely from human muscle and fire.
+
+__Waste Absorption & Sink Capacity:__ Population density is low enough that organic refuse, fire ash, and human waste disperse without accumulating; middens form near hamlets but do not foul water sources. The landscape absorbs the modest load without degradation; no feedback from environmental saturation affects the system.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic tropical diseases — intestinal parasites, insect-borne fevers — affect lowland populations more heavily; highland groups experience seasonal respiratory illness in cool, dry months. Infant mortality remains high from gastrointestinal infection and malnutrition during lean seasons; adult mortality from accident, violence, and untreated infection keeps life expectancy around 25–30 years.
+
+__Nutrition & Physiological Vitality:__ Maize agriculture improves caloric security compared to full dependence on foraging, but dietary diversity narrows as cultivation intensifies; protein comes from deer, rabbit, turkey, fish, and occasional large game, supplemented by beans where adopted. Skeletal evidence from the period shows some dental caries from carbohydrate-heavy diets but generally adequate stature.
+
+__Care, Healing & Recovery Capacity:__ Healing knowledge is held by specialists — proto-shamans who combine herbal remedies with ritual invocation — transmitted orally from practitioner to apprentice. Childbirth attended by experienced women; wound treatment relies on plant poultices and fire-cautery. Healing capacity is local and cannot be scaled; loss of a knowledgeable healer leaves a gap until another is trained.
+
+__Reproductive Biology & Pairing Dynamics:__ Monogamous or mildly polygynous pair bonds structure reproduction; fertility regulated informally by prolonged breastfeeding and spacing. Sedentism increases fertility by reducing the caloric cost of infant transport; population begins a slow upward trend correlated with agricultural adoption.
+
+__Demographic Renewal & Density:__ Population remains thin — perhaps a few thousand across the highlands — but localized clusters form where agricultural productivity permits. Birth rates rise modestly as sedentism reduces mobility burdens; replacement is positive where harvests succeed and negative where drought triggers dispersal.
+
+__Attrition & Dependency Overhang:__ The elderly who carry oral tradition are valued but also represent a dependency load the productive cohort must feed; orphans absorbed by kin networks. The dependency ratio remains manageable given low life expectancy and high labor participation across ages.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ A mixed economy combining maize-squash-bean cultivation with hunting, fishing, and wild-plant gathering ensures against single-source failure; the milpa polyculture emerges as the integrating strategy, with nitrogen-fixing beans enriching soils depleted by maize. Provisioning sits above bare survival in good years but remains vulnerable to drought.
+
+__Energy Capture & Conversion:__ Human labor is the sole power source; fire for cooking, heating, and land clearance. The energy ceiling limits field size, construction scale, and surplus accumulation. No animal traction or mechanical advantage beyond simple tools.
+
+__Labor Organization & Coercion:__ Labor is organized through kinship — household members work fields together, with extended kin mobilized for clearing, planting, and harvest through reciprocal obligations encoded in oral agreements. No coerced labor; participation is kin-obligated and socially enforced through reputation and reciprocity.
+
+__Production & Surplus Capacity:__ Surplus is modest — a few months' stored maize in pit-lined caches — sufficient to buffer a short bad season but not to support craft specialists or non-producers. Production expands as more land is cleared; contraction follows drought or pest outbreaks.
+
+__Storage, Reserves & Buffering:__ Maize stored in underground pits or raised granaries where rodents are a threat; beans and squash dried for preservation. Storage technology is adequate for annual cycles but insufficient for multi-year drought; no formal pooling institutions beyond kin-group sharing.
+
+__Exchange, Trade & Logistics:__ Obsidian moves tens of kilometers from highland sources to lowland communities; exchange networks remain informal, based on kin ties, marriage alliances, and seasonal gatherings. No markets or standardized exchange protocols; goods move as gifts establishing reciprocal obligations.
+
+__Value Storage, Credit & Deferred Exchange:__ Value is stored in durable goods (obsidian, shells, feathers) and in social credit — obligations owed and remembered. No currency or formal accounting; debt and credit exist as oral agreements witnessed by kin.
+
+__Surplus Extraction & Redistribution:__ No formal taxation or tribute; surplus redistributed through feasting, kin sharing, and ceremonial gifting. Emerging big-men may accumulate and redistribute to build prestige, but extraction is voluntary and reputation-based.
+
+__Wealth Distribution & Asset Defense:__ Wealth differences are minimal — access to better land, larger kin networks, or more stored seed. No fortifications or defended stores; theft deterred by social sanction and kin retaliation.
+
+__Byproducts & Waste Routing:__ Organic waste composted into fields or deposited in middens; no toxic byproducts. Material waste (broken tools, used hearths) accumulates near settlements but does not degrade the environment at current densities.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral or patrilineal kinship organizes households and defines marriage eligibility; inheritance of stored seed, land-use rights, and ritual knowledge passes through remembered genealogies. Household composition is nuclear or extended, depending on labor needs and land availability.
+
+__Association & Mutual Aid:__ Beyond the household, hamlet-level cooperation for land clearance, harvest, and defense organizes through orally contracted reciprocity — labor exchanged for labor, food shared in expectation of return. No formalized associations; mutual aid is kin-obligated.
+
+__Leisure, Play & Sociability:__ Seasonal gatherings at resource-rich locations bring together dispersed kin groups for collective hunts, feasting, courtship, and ritual; games and contests build bonds across households. Sociability reinforces the oral networks through which information and obligation flow.
+
+__Stratification, Status & Group Structure:__ Status differences emerge based on age, ritual knowledge, hunting prowess, and accumulated social credit; no hereditary stratification. Big-men who can mobilize kin and redistribute surplus gain influence but hold no formal office. Boundaries between groups are permeable through marriage and adoption.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration; coordination depends on oral consensus-building among household heads and recognized elders. Decision-making is face-to-face and deliberative; the hamlet is the largest unit of coordinated action. No bureaucracy, record-keeping, or offices.
+
+__Coercive Apparatus & Means of Force:__ No standing warriors or organized force; adult males are part-time defenders and hunters. Weapons are hunting tools — atlatl-thrown darts, knives, clubs. Violence is interpersonal or inter-hamlet, managed through blood feud, compensation, and mediation by respected figures.
+
+__Discharge, Disorder & Decay:__ Conflict over land, theft, and personal grievance is mediated through kin negotiation and ritual resolution; unresolved feuds occasionally flare into violence. The system lacks formal mechanisms to compel compliance; social order depends on reputation and the threat of kin retaliation. Disorder remains episodic and localized.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The prevailing mood is cautious optimism tempered by awareness of environmental fragility; trust extends reliably within kin networks and provisionally to affines and neighbors. Anxiety spikes during drought years; collective relief accompanies successful harvests. The radius of trust is narrow — the hamlet and its immediate kin connections.
+
+__Leadership & Personal Authority:__ Leadership is personal and informal — elders whose memory is trusted, hunters whose skill is proven, healers whose rituals succeed. Authority depends on demonstrated competence and generosity; no inherited or appointed offices.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is to kin and hamlet, not to institutions or titles; legitimacy accrues to individuals who fulfill obligations and maintain relationships. Disaffection manifests as withdrawal from cooperation or departure from the group.
+
+__Political Will & Collective Resolve:__ Collective action is mobilized through oral persuasion and appeals to shared interest; resolve is high for immediate threats (raids, drought response) but difficult to sustain for long-term projects. Succession is not contested because formal offices do not exist; influence passes informally to the next capable figure.
+
+__External Relations & Posture:__ Relations with neighboring groups range from cooperative (intermarriage, trade) to competitive (raiding, territorial disputes); no permanent alliances or enmities. Posture is defensive and opportunistic; expansion occurs by fission and migration rather than conquest.
+
+__Disaffection, Apathy & Spent Will:__ Failed harvests or leadership disputes produce disaffection expressed through withdrawal, fission, or migration; the small scale of communities allows exit as a pressure valve. Apathy is rare given the labor demands of subsistence; spent will is restored through seasonal renewal rituals.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Speech is the universal medium; all community members share the local language and can participate in deliberation. No writing or symbolic recording; information exists only in utterance and memory. Geographic isolation produces dialect divergence over generations.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of a walking messenger; the channel is face-to-face speech or relayed word-of-mouth. Reach is limited to a few days' travel; news from distant regions arrives sporadically through visiting kin or traders.
+
+__Record, Storage & Persistence:__ Memory is the sole archive; knowledge persists only as long as those who know it live and teach. Ritual mnemonics — songs, chants, formulaic recitations — aid retention of critical information (planting calendars, genealogies, healing formulas). Loss of an elder before transmission means permanent knowledge extinction.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms are set by custom; certain topics (sacred knowledge, shamanic technique) are restricted to initiates. No formal censorship; framing depends on the speaker's authority and audience reception.
+
+__Reception, Attention & Amplification:__ Attention is highest at communal gatherings — feasts, rituals, seasonal assemblies — where important information is announced and repeated. Amplification depends on repetition and the speaker's reputation; false claims are checked against community memory.
+
+__Signal Integrity & Noise Load:__ In small communities, verification is possible through direct inquiry; conflicting accounts are resolved through consensus or appeal to recognized authorities. Noise increases with distance and relay; information from distant sources is less reliable. Obsolete knowledge is shed informally as practices change.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is conceived as balance — harm requires compensation, generosity earns reciprocity, taboo violation demands ritual restoration. The moral universe is kin-centered; obligations are strongest within the household and weaken with social distance.
+
+__Law, Codification & Regulatory Evolution:__ No written law; behavioral norms are customary, transmitted through storytelling, proverb, and direct instruction. Taboos (incest, certain food prohibitions, sacred-space violations) are enforced by supernatural sanction and community shunning.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by informal mediation — respected elders or ritual specialists arbitrate, proposing compensation (goods, labor, marriage) to restore balance. Liability is collective (kin groups responsible for members' actions); sanction ranges from compensation to ostracism to blood feud.
+
+__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kin status; protection comes from kin backing. Compliance burden is light — norms are internalized through socialization — but violation costs are high (social exclusion, supernatural penalty).
+
+__Impunity & Unredressed Wrong:__ Where kin groups are unequal in size or influence, weaker parties may receive inadequate redress; powerful figures may escape full sanction. The gap between justice owed and delivered is managed through grudge-holding and eventual retaliation or dispersal of the wronged party.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is practical and observational — which plants thrive where, when rains come, how animals behave. The reigning paradigm is animist: natural phenomena are inhabited by spirits whose moods affect outcomes. Explanation is narrative and mythological rather than systematic.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge is sophisticated within its domain: seed selection, soil assessment, tool-knapping, pottery (emerging late in the period), construction, hunting techniques. Method is empirical but transmitted as custom rather than explicit theory; innovation occurs through trial and is preserved if successful.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge is transmitted through apprenticeship and participation — children learn by doing alongside adults. Specialized knowledge (healing, ritual, obsidian knapping) is concentrated in practitioners who select and train successors. Literacy does not exist; the knowledge stock is distributed across living memories.
+
+__Obsolescence & Knowledge Decay:__ Knowledge decays when practitioners die without successors or when environmental change renders old techniques irrelevant. Obsolete practices are shed informally; no archive preserves superseded methods. Error and untested tradition persist where no verification challenges them.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity is rooted in kin lineage and place — the valley where ancestors lived, the stories of first planting, the origin accounts connecting people to landscape and supernatural patrons. Mythic time is continuous with the present; ancestors remain active as spirits.
+
+__Legitimating Narrative & Ideology:__ The order is legitimated by custom and cosmological sanction — this is how ancestors lived, how spirits require. No ideology of conquest or progress; continuity is valued over change.
+
+__Artistic Expression & Material Culture:__ Material culture includes ground-stone tools, woven textiles and basketry, emerging pottery with simple geometric decoration, clay figurines (often female, possibly fertility-related), shell and feather ornaments. Architecture is modest — pole-and-thatch houses, cleared plazas for communal gathering. The aesthetic is functional with emergent symbolic elaboration.
+
+__Form Exhaustion & Meaning Decay:__ Forms are vital and evolving; the period represents cultural elaboration rather than exhaustion. Symbols remain potent; rituals are efficacious to participants. No anomie or meaning erosion evident.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is animate and layered — an underworld of the dead, an earthly realm of humans and spirits, a celestial realm of powerful forces. Human existence is precarious, dependent on maintaining relationships with supernatural beings through offering and correct behavior. Fatalism and piety coexist; human agency is real but constrained by spirit will.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual marks agricultural and life-cycle transitions — planting, harvest, birth, death, puberty. Offerings (food, incense, blood) propitiate spirits and ancestors. Shamanic practitioners enter trance states to communicate with spirits, heal illness, and divine outcomes. Ritual is communal and reinforces social bonds.
+
+__Religious Institutions & Doctrinal Authority:__ No formal institutions; ritual specialists hold knowledge but not institutional office. Doctrine is oral tradition, varied across communities, enforced by consensus rather than hierarchy. Sacred sites (caves, springs, hilltops) are recognized but not monumentalized.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Beliefs are local and kin-transmitted; gradual diffusion occurs through intermarriage and trade contact. No missionary pressure or doctrinal competition; syncretism is the normal mode as groups exchange practices.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains vivid and present; no disenchantment or secularizing drift. Spiritual need is met through functioning ritual practice; no existential void opens in this period.
+

@@ -1,69 +1,139 @@
-# __1900 CE – 1911 CE__ — Late Qing Crisis and Revolutionary Press
-__Summary:__ Final decade of Qing rule, from the Boxer Protocol's crushing indemnity through the 1911 Wuchang Uprising; the binding constraint is the dynasty's fiscal and legitimacy collapse under simultaneous reform pressure and revolutionary challenge, with the revolutionary press in exile and treaty ports eroding what margin remains for orderly transition; direction is toward fragmentation and dynastic fall.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Yellow and Yangtze basins provide the agrarian heartland; the Grand Canal network decays as steam navigation and railways begin penetrating from treaty ports, reducing interior friction unevenly; northern plains remain exposed to overland approach from Manchuria.<br><br>
-__Climate Regime & Volatility:__ Monsoon variability continues with periodic droughts in the north and flooding in the Yangtze valley; no secular shift, but the 1906-1907 floods and recurrent North China droughts stress provisioning and erode government credibility.<br><br>
-__Hazard Regime & Exposure:__ Flood, drought, and famine remain endemic; Yellow River management deteriorates as central funds are diverted to indemnity payments, leaving flood control infrastructure with diminished margin.<br><br>
-__Resource & Energy Endowment:__ Coal deposits in Shanxi and northern basins are increasingly exploited under foreign concession; iron ore reserves at Hanyang support emerging heavy industry; the endowment is substantial but extraction is controlled by foreign interests under unequal treaties.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban sanitation in treaty ports improves under foreign administration; interior cities remain dependent on nightsoil cycling with saturated local sinks in dense quarters; industrial discharge from new mills concentrated around Wuhan and Shanghai begins measurable local degradation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera, typhoid, and tuberculosis endemic in cities; plague circulates in Manchuria with the 1910-1911 outbreak killing tens of thousands; infant mortality remains high; no sustained decline in baseline mortality.<br><br>
-__Nutrition & Physiological Vitality:__ Subsistence pressure chronic in drought-prone north; periodic famine produces acute malnutrition; urban workers in treaty port factories suffer industrial disease; average stature stagnant or declining among laboring population.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Traditional patrilocal marriage prevails; concubinage legal among elites; footbinding declining under reform pressure but still practiced; no major shift in reproductive biology during the window.<br><br>
-__Demographic Renewal & Density:__ Population approximately 400 million; growth slow due to high mortality; density very high in core agricultural zones; emigration to Southeast Asia and Americas provides modest relief valve.<br><br>
-__Attrition & Dependency Overhang:__ Famine orphans, war widows from Boxer suppression, and opium-disabled adults accumulate; traditional clan and lineage networks absorb some load but capacity is strained in disaster zones.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant households operate near subsistence edge; grain reserves depleted by indemnity exactions; household strategies include handicraft production and seasonal migration, but margin against crop failure is minimal.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; coal extraction rising but primarily feeds foreign-owned railways and treaty port industry; modern steam power concentrated in Shanghai, Wuhan, and Tianjin enclaves; per-capita work ceiling unchanged for interior peasantry.<br><br>
-__Labor Organization & Coercion:__ Corvee obligations persist in theory; wage labor expands in treaty ports and mines; contract coolies exported under semi-coercive arrangements; rural labor remains embedded in tenancy and lineage obligations.<br><br>
-__Production & Surplus Capacity:__ Agricultural output stagnant; silk and tea exports declining against Indian and Japanese competition; nascent heavy industry at Hanyang steelworks; surplus extraction by landlords and tax farmers leaves little for capital formation.<br><br>
-__Storage, Reserves & Buffering:__ Ever-Normal Granaries depleted or corrupt; household reserves minimal; commercial grain speculation exacerbates scarcity; buffer against multi-year drought effectively absent.<br><br>
-__Exchange, Trade & Logistics:__ Treaty ports dominate foreign trade; interior markets connected by traditional waterways and emerging rail; Shanghai becomes financial center; customs revenue pledged to foreign indemnity payments constrains fiscal autonomy.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver tael standard fragmenting as copper cash devalues; provincial currencies proliferate; modern banks emerge in Shanghai; traditional credit networks (qianzhuang) persist but lose ground to foreign banks; debt to foreign powers consumes revenue.<br><br>
-__Surplus Extraction & Redistribution:__ Boxer Indemnity absorbs substantial portion of customs and salt revenue; land tax collection erratic; lijin transit taxes burden internal trade; extraction load rising against shrinking productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Gentry and merchant elites consolidate landholding; foreign capital protected by extraterritoriality; peasant dispossession accelerating; asset defense increasingly requires foreign-concession shelter.<br><br>
-__Byproducts & Waste Routing:__ Nightsoil recycled in traditional agriculture; industrial waste from treaty port factories discharged into waterways untreated; volume modest but concentrated around new industrial sites.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Lineage and native-place associations provide mutual aid; trust radius contracts under fiscal pressure and social dislocation; secret societies expand as alternative solidarity networks.<br><br>
-__Stratification, Status & Group Identity:__ Scholar-gentry status eroding as examination system abolished 1905; new educated elite with foreign training; Manchu-Han ethnic division politicized by revolutionaries; merchant status rising in treaty ports.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent and partible male inheritance prevail; reform pressure on footbinding and arranged marriage begins in educated circles; extended family networks remain primary social insurance.<br><br>
-__Civic Association & Self-Organization:__ Chambers of commerce, educational associations, and provincial assemblies emerge under New Policies reforms; gentry activism in local governance increases; associational density rising in cities.<br><br>
-__Leisure, Play & Sociability:__ Opera, teahouses, and temple fairs continue; new treaty port entertainments including cinema and illustrated magazines; reform societies sponsor lectures and reading rooms.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to provincial assemblies; rice riots; tax resistance; secret society mobilization; revolutionary organizing absorbs some grievance but most friction accumulates as latent instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Qing court authority fragmenting; Empress Dowager Cixi dies 1908 leaving infant emperor and weak regency; provincial governors exercise increasing autonomy; direction is toward decentralization and collapse.<br><br>
-__Succession & Power Transfer:__ Manchu succession produces child emperor Puyi; regency contested; no stable transfer mechanism; the 1911 uprising triggers provincial secessions rather than orderly transition.<br><br>
-__Legitimacy & Political Narrative:__ Dynastic mandate narrative exhausted by repeated humiliations; reform discourse competes with revolutionary republicanism; Manchu ethnic rule delegitimized by Han nationalist rhetoric.<br><br>
-__Administrative Capacity & Institutional Integrity:__ New Policies create ministries and provincial assemblies but capacity lags; examination abolition disrupts recruitment; corruption endemic; tax collection machinery breaking down.<br><br>
-__Political Participation & Mobilization:__ Provincial assemblies provide elite voice; student associations and revolutionary parties mobilize; overseas Chinese politically active; petition movements and boycotts escalate; participation channels widening but uncontrolled.<br><br>
-__Geopolitical Position & External Relations:__ Boxer Protocol imposes indemnity and legation guards; Japan defeats Russia 1905 expanding influence in Manchuria; unequal treaties constrain sovereignty; foreign powers watchful but not directly intervening in 1911 crisis.<br><br>
-__Coercive Apparatus & Means of Force:__ New Army modernization underway with German-trained officers; regional armies loyal to provincial commanders; traditional banner forces obsolete; Wuhan garrison defects October 1911 triggering collapse.<br><br>
-__Internal Order & Threat Environment:__ Banditry endemic in disturbed regions; secret society uprisings recurrent; revolutionary bomb attacks; anti-tax riots; disorder exceeds suppression capacity in many provinces by 1911.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph network connects major cities; postal service modernizing; newspapers multiply in treaty ports; revolutionary pamphlets circulate through student networks and overseas mail; velocity increasing but reach uneven.<br><br>
-__Record, Storage & Persistence:__ Qing archives maintained but provincial records scattered; newspapers preserved in treaty port libraries; revolutionary publications ephemeral but reprinted; oral transmission remains primary in villages.<br><br>
-__Framing, Censorship & Discourse Norms:__ Qing censorship weakening; treaty port concessions provide sanctuary for critical press; revolutionary papers printed in Tokyo, Hong Kong, Shanghai foreign concessions evade suppression; discourse norms loosening.<br><br>
-__Reception, Attention & Amplification:__ Student readership expanding with educational reform; newspaper circulation reaches tens of thousands in major papers; vernacular publications beginning to address broader audience; amplification through reading aloud and discussion circles.<br><br>
-__Signal Integrity & Noise Load:__ Rumor and misinformation circulate alongside verified news; competing revolutionary factions issue contradictory calls; verification capacity limited; noise load increasing with publication volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Confucian moral order still nominally foundational; treaty port extraterritoriality creates visible double standard; anti-Manchu sentiment frames Qing rule as alien imposition violating Chinese self-determination.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal reform begins with draft civil and criminal codes modeled on Japan and Germany; traditional magistrate justice persists in practice; treaty port mixed courts adjudicate under multiple codes.<br><br>
-__Adjudication, Enforcement & Liability:__ Magistrate courts overwhelmed; modern court system embryonic; treaty port consular courts handle foreign cases; enforcement inconsistent; revolutionary acts prosecuted harshly where authorities have capacity.<br><br>
-__Rights, Protections & Compliance Burden:__ No constitutional rights framework yet implemented; draft constitution promised but delayed; compliance burden on merchants high due to irregular exactions; protection depends on personal connections or foreign status.<br><br>
-__Impunity & Unredressed Wrong:__ Officials enjoy substantial impunity; foreign nationals effectively immune under extraterritoriality; peasant grievances accumulate without redress; revolutionary sentiment channels demand for justice against the system itself.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Social Darwinist and nationalist theory dominant among reformers and revolutionaries; constitutional thought competes with republicanism; Confucian classical learning losing prestige; science and Western learning valorized.<br><br>
-__Applied Knowledge & Technical Method:__ Military and industrial technique imported through advisors and study abroad; arsenals and dockyards apply foreign methods; traditional crafts continue but seen as backward.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Examination system abolished 1905; modern schools proliferate; study-abroad movement sends thousands to Japan; literacy still concentrated in gentry class; technical skills scarce and concentrated in treaty ports.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical examination curriculum abandoned; traditional learning devalued; transmission of classical scholarship contracts; practical technical knowledge of irrigation and traditional crafts erodes under modernization pressure.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Anti-Manchu ethnic nationalism invokes Ming memory and Han identity; revolutionary martyrs create new heroic pantheon; Confucian civilization narrative competes with racial-national frame.<br><br>
-__Artistic Expression & Material Culture:__ Treaty port modernity introduces Western architecture, dress reform, and illustration; traditional opera and painting continue; new illustrated magazines and political cartoons emerge; material culture fragmenting between foreign and indigenous.<br><br>
-__Collective Mood & Behavioral Disposition:__ Humiliation from foreign defeats generates anxiety and nationalist anger; reform enthusiasm among educated youth; fatalistic acceptance among peasantry punctuated by episodic fury; mood is volatile and darkening toward crisis.<br><br>
-__Form Exhaustion & Meaning Decay:__ Imperial ritual loses numinous force; examination-based status markers obsolete; Confucian forms hollowing but no replacement consolidated; cultural vacuum exploited by revolutionary and religious movements.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Traditional cosmology weakening under Western scientific and social-Darwinist challenge; survival-of-the-fittest framing displaces Confucian moral universe among educated; peasant Buddhism and folk religion persist but without intellectual prestige.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple festivals and ancestor worship continue; state Confucian rituals performed but with diminished conviction; Christian missions expand with foreign protection; new religious movements proliferate.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist and Daoist establishments weakened by property confiscation for schools; Christian missions institutionally strong under treaty protection; Confucian orthodoxy has no institutional base after examination abolition.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity spreads in treaty ports and through rural missions; syncretic movements and secret societies blend traditions; secular nationalism competes as quasi-religious framework; dominant cosmology fragmenting.<br><br>
-__Disenchantment & Sacred Discharge:__ Educated elite increasingly secular; traditional cosmology loses explanatory power for modern crisis; spiritual void filled by nationalist passion and revolutionary martyrdom ideology; disenchantment concentrated among modernizing strata.<br><br>
+# __1900 CE – 1911 CE — Late Qing Crisis and Revolutionary Press__
+
+__Summary:__ The dying Qing empire, gutted by the Boxer catastrophe and forced into belated reform, loses control of the printed word as overseas student journals, treaty-port newspapers, and revolutionary pamphlets diffuse the ideas that will dissolve the dynasty — the binding constraint is the foreign concessions and extraterritorial zones that shelter a press the throne cannot suppress.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The two great river basins define the empire's agricultural core: the loess plateau and North China Plain of the Yellow River, the middle and lower Yangtze valleys to the south, linked by the Grand Canal and by new railways pushing outward from Beijing and Shanghai. Coastal treaty ports — Shanghai, Tianjin, Guangzhou — sit at the interface between river systems and oceanic commerce, their foreign concessions spatially distinct from Qing jurisdiction.
+
+__Climate Regime & Volatility:__ Monsoon variability imposes the recurring drought-flood cycle, with the famine years of 1906–1907 in Jiangsu and Anhui reminding the countryside of state incapacity. The Yellow River's unstable course through the North China Plain leaves flood risk chronic.
+
+__Hazard Regime & Exposure:__ The Boxer crisis (1900) itself creates a concentrated hazard: siege of the Legation Quarter, Eight-Nation punitive expedition, occupation of Beijing. The indemnity (450 million taels over 39 years) locks the Qing into a fiscal straitjacket imposed by geography — payments must transit from provincial tax bases through treaty ports to foreign banks.
+
+__Resource & Energy Endowment:__ China's coal and iron deposits are known but underdeveloped; foreign mining concessions in Manchuria and the Yangtze valley extract ore under terms humiliating to Qing sovereignty. Traditional biomass fuels still power most economic activity.
+
+__Waste Absorption & Sink Capacity:__ Urban agglomeration in treaty ports, especially Shanghai, strains sanitation; but industrial effluent remains localized. The physical residue is modest — the more pressing degradation is political, not environmental.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Cholera, smallpox, and tuberculosis remain endemic. The North Manchurian plague (1910–1911) kills perhaps 60,000, prompting the first modern quarantine measures organized by Chinese physicians — a late demonstration of reform-era medical modernization. Infant mortality stays high; life expectancy perhaps 30–35 years.
+
+__Nutrition & Physiological Vitality:__ Subsistence conditions for the peasant majority are adequate in normal years, precarious in drought or flood years. The urban poor in treaty ports display the physiological markers of crowding and malnutrition.
+
+__Care, Healing & Recovery Capacity:__ Traditional medicine dominates; Western hospitals in treaty ports and mission stations reach a small urban fraction. Modern medical schools emerge in Beijing and Shanghai during the New Policies era.
+
+__Reproductive Biology & Pairing Dynamics:__ Family formation follows Confucian norms: early marriage, high fertility, patrilocal residence. Foot-binding begins its slow decline among reform-minded families.
+
+__Demographic Renewal & Density:__ Population ~420 million by 1911; growth slow due to high mortality. The Yellow River basin and Yangtze delta are among the world's densest agricultural zones.
+
+__Attrition & Dependency Overhang:__ Widows, orphans, and disabled from flood, famine, and the Boxer catastrophe strain traditional kinship support; lineage-based charity creaks under the load.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Peasant agriculture — rice in the south, wheat and millet in the north — provides basic subsistence. Local granaries, once Qing instruments of famine relief, have been emptied or neglected.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the primary movers. Coal mines in Kaiping, Fushun, and Hanyang feed railways and arsenals; steamships ply the Yangtze.
+
+__Labor Organization & Coercion:__ Corvée obligations are declining; wage labor emerges in treaty-port factories, docks, and railways. Migrant workers from Jiangbei and Anhui fill Shanghai's labor pool.
+
+__Production & Surplus Capacity:__ Treaty-port light industry — textiles, flour milling, match factories — shows modern factory production, but the vast majority of output is still artisanal and agrarian.
+
+__Storage, Reserves & Buffering:__ The Boxer Indemnity drains government reserves; the Qing fiscal apparatus is bankrupt. Merchant guilds and native banks provide credit, but their capacity is limited.
+
+__Exchange, Trade & Logistics:__ Railways — the Beijing-Hankou line, the Tianjin-Pukou project — accelerate the movement of goods and newspapers. Shanghai's Commercial Press and other publishers use the expanding rail network to distribute textbooks and periodicals across the empire.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver taels remain the standard; foreign banks in treaty ports dominate modern finance. Native banks and traditional remittance networks (piaohao) still carry inland commerce.
+
+__Surplus Extraction & Redistribution:__ The indemnity payments impose a colossal extraction on provincial revenues, leaving little for reform investments. The Rights Recovery Movement (1905–1911) channels patriotic capital into railway and mining ventures.
+
+__Wealth Distribution & Asset Defense:__ Gentry landholding remains concentrated; new commercial wealth accumulates in treaty ports. The examination-system abolition (1905) strips the gentry of their status pathway, creating anxious conversion to commerce and modern professions.
+
+__Byproducts & Waste Routing:__ Industrial waste is localized to treaty-port factory zones; the greater waste is fiscal — the indemnity payments represent resources exported rather than invested.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The patrilineal family remains the social unit; lineages (zu) in the south pool resources for schools and ancestral halls. Marriage is arranged; concubinage persists among the wealthy.
+
+__Association & Mutual Aid:__ Guilds (huiguan, gongsuo) organize commerce and craft production; secret societies (Hongmen, Gelao Hui) provide mutual aid and sometimes revolutionary recruitment. Modern associations — chambers of commerce, educational societies — multiply after 1901.
+
+__Leisure, Play & Sociability:__ Teahouses, theaters, and temples remain centers of sociability. Treaty-port parks and racecourses create new leisure spaces for the foreign and Chinese elite.
+
+__Stratification, Status & Group Structure:__ The examination abolition (1905) shatters the traditional status ladder: gentry status becomes decoupled from degree-holding. Overseas students in Japan (10,000+ by 1906) and new-style schools produce a new intellectual class, often radicalized.
+
+__Administrative Capacity & Institutional Integrity:__ The New Policies reforms create provincial assemblies, a national assembly, modern schools, a modern army (the New Army), and a new legal code — but implementation is uneven, underfunded, and late. The central government's writ weakens as provincial elites consolidate power.
+
+__Coercive Apparatus & Means of Force:__ The Qing military, humiliated in 1900, is reorganized into the New Army, trained by German-influenced methods. But the New Army is a double-edged sword: its officers are often revolutionaries or sympathizers. The October 1911 uprising begins among New Army units in Wuhan.
+
+__Discharge, Disorder & Decay:__ Banditry and local militias proliferate in the interior. The dynasty's legitimacy is spent; when Wuchang mutinies, province after province defects. The apparatus does not so much collapse as dissolve.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ National humiliation — the Boxer Protocol, the indemnity, the foreign troops in Beijing — generates a patriotic rage that the reform press articulates. Anti-Manchu sentiment rises among Han Chinese; the Qing are blamed for weakness.
+
+__Leadership & Personal Authority:__ Empress Dowager Cixi dominates until her death (1908); the subsequent regency for the child emperor Puyi lacks authority. Reformers (Kang Youwei, Liang Qichao) and revolutionaries (Sun Yat-sen, Huang Xing) compete for the allegiance of overseas students and new intellectuals.
+
+__Legitimacy as Lived Allegiance:__ The dynasty's mandate is visibly draining. The constitutional movement raises hopes, then disappoints when the court postpones a parliament. By 1911, few are willing to die for the Qing.
+
+__Political Will & Collective Resolve:__ Revolutionary will concentrates in the Tongmenghui (1905) and its affiliated groups, who launch repeated uprisings. The Wuchang Uprising (October 1911) succeeds where earlier attempts failed because garrison troops mutiny rather than resist.
+
+__External Relations & Posture:__ The Qing must placate the powers that imposed the indemnity while fending off Japanese and Russian pressure in Manchuria. No leverage remains; posture is defensive.
+
+__Disaffection, Apathy & Spent Will:__ Loyalism evaporates. Even officials and generals negotiate with revolutionaries rather than fight. The dynasty abdicates (February 1912) without a battle for Beijing.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Classical literacy (~5–10% of the population) defines the reading public; vernacular newspapers begin to widen the circle. Students in Japan absorb Japanese and Western ideas; returnees transmit them.
+
+__Channels & Transmission Velocity:__ The telegraph connects provincial capitals to Beijing and the treaty ports. Railways carry newspapers faster than couriers ever could. The postal service, reformed in 1896, distributes periodicals.
+
+__Record, Storage & Persistence:__ Print is the era's durable medium. Newspapers like Shibao and revolutionary journals like Min Bao (Tokyo, 1905–1908) create a permanent record of debate. The Commercial Press (founded 1897) builds a modern archive of reference works and translations.
+
+__Framing, Censorship & Discourse Norms:__ The Press Law of 1908 restricts seditious content, but enforcement is toothless: the Shanghai concessions and Japanese extraterritoriality shelter revolutionary editors. The discourse norms shift rapidly toward nationalism and reform.
+
+__Reception, Attention & Amplification:__ Reading societies (dushuhui) and student associations amplify newspaper content. Liang Qichao's elegant prose in Xinmin Congbao (Yokohama) circulates among the educated, while revolutionary pamphlets reach a narrower, more committed audience.
+
+__Signal Integrity & Noise Load:__ The information environment is fragmented but coherent within camps: reformers read reform papers, revolutionaries read revolutionary papers. The court's own communications reach a shrinking audience.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confucian ethics nominally govern; but the sense of cosmic injustice — China humiliated by foreign powers, ruled by a failing alien dynasty — fuels revolutionary morality. Tyrannicide becomes justifiable in revolutionary discourse.
+
+__Law, Codification & Regulatory Evolution:__ The New Policies include legal reform: Shen Jiaben drafts a modern criminal code (1910) that abolishes judicial torture and reduces collective punishment. But the reforms are incomplete at the dynasty's fall.
+
+__Adjudication, Liability & Sanction:__ The new court system is barely implemented. Extraterritoriality means foreigners and their protégés escape Qing jurisdiction entirely.
+
+__Rights, Protections & Compliance Burden:__ Subjects have no constitutional rights until the draft constitution (1908), which is never implemented. The compliance burden on reform and revolutionary activists is evaded by operating in concessions or abroad.
+
+__Impunity & Unredressed Wrong:__ The Qing cannot prosecute revolutionary editors in Shanghai or Tokyo. Meanwhile, officials who bungled the Boxer response face minimal accountability. The gap between formal sovereignty and actual power is vast.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The examination abolition closes the classical curriculum as a career path; Western science, social theory, and political thought flood in through translations (Yan Fu's renderings of Spencer, Huxley, Mill). Darwinian competition becomes a metaphor for national survival.
+
+__Applied Knowledge & Technical Method:__ Modern arsenals, shipyards, and railways require engineering knowledge; technical schools multiply. The Beiyang Navy may be destroyed, but technical education survives.
+
+__Education, Knowledge Stock & Skill Distribution:__ New-style schools (xuetang) replace academies (shuyuan). By 1909, perhaps 1.5 million students attend modern schools — still a small fraction but a transformative vanguard. Overseas study (especially in Japan) creates a cosmopolitan elite.
+
+__Obsolescence & Knowledge Decay:__ Classical learning does not vanish but loses institutional support. The eight-legged essay (baguwen) skill becomes worthless overnight. Traditional examination-oriented knowledge is suddenly obsolete.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Yellow Emperor myth revives as an anti-Manchu symbol: Han Chinese claim descent from Huangdi, excluding the Qing as alien conquerors. Revolutionary iconography deploys ancient imagery against the present dynasty.
+
+__Legitimating Narrative & Ideology:__ The dynasty's mandate is contested. Reformers invoke Self-Strengthening precedent; revolutionaries invoke "expel the Tartars, restore China" (qu Dalu, hui Zhonghua). The ideological field is open.
+
+__Artistic Expression & Material Culture:__ Treaty-port visual culture mixes Chinese and Western styles: lithograph illustrations in newspapers, photography, Western-style buildings. The queue (bianzi), mandated by Qing law, becomes a target for revolutionary symbolism — cutting the queue signals loyalty to the revolution.
+
+__Form Exhaustion & Meaning Decay:__ Classical literary forms lose prestige; the new literature is journalism, the political essay, the translated novel. The court rituals and examination ceremonies that once defined elite culture are abolished or emptied of meaning.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Confucian cosmology is challenged by Social Darwinism and scientific materialism; but Buddhism, Daoism, and folk religion retain popular hold. The sense of cosmic order — tianxia centered on the emperor — is collapsing.
+
+__Ritual, Devotion & Sacred Practice:__ Imperial rites continue until 1911; local temple festivals remain the peasant calendar. Anti-superstition rhetoric begins among reformers but does not yet reach the villages.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhist and Daoist establishments are weakened by land confiscation for schools (the "temple property for schools" movement). Christian missions expand modestly, associated with Western power and modern education.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity remains marginal; folk syncretism absorbs new elements. The Boxer movement (1900) itself was a spiritual eruption — spirit possession, invulnerability claims — crushed by foreign guns.
+
+__Disenchantment & Sacred Discharge:__ The educated elite increasingly embrace secularism and scientism; the dynasty's sacral aura is extinguished. But the peasant majority retains traditional cosmology — the disenchantment is top-down, incomplete.

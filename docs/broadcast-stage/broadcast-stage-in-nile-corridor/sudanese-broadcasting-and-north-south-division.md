@@ -1,69 +1,139 @@
-# __1955 CE – 2012 CE__ — Sudanese Broadcasting and North-South Division
-__Summary:__ A pan-temporal snapshot of Sudanese state broadcasting from independence through South Sudan's secession, the system operating under persistent north-south civil conflict that made radio and television instruments of war rather than nation-building; the binding constraint is the ethno-religious fracture between Arabized Muslim north and African Christian-animist south that no broadcast architecture could bridge; margin against shock is nil once Bashir's Islamist coup (1989) narrows the regime's base; the trajectory is fragmentation, culminating in partition (2011) and broadcasting separation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The largest African state until 2011 partition, the Nile axis links Khartoum to Egypt while desert separates the capital from the southern marshes and equatorial highlands; transmission infrastructure struggles to span the ecological and distance gradient.<br><br>
-__Climate Regime & Volatility:__ Hyper-arid north gives way to savanna and tropical south; rainfall variability drives periodic droughts in the Sahel belt, stressing agrarian populations and exacerbating north-south resource competition.<br><br>
-__Hazard Regime & Exposure:__ Drought and famine cycles recur, most acutely in Darfur (1984–1985, 2003 onward); flood risk along the Nile is localized; hazard exposure is high in the peripheries where state reach is weakest.<br><br>
-__Resource & Energy Endowment:__ Oil discovered in the south (1978, production 1999); northern control of pipelines and Port Sudan export routes creates resource-curse dynamics; hydropower limited; fuel imports dominate energy supply.<br><br>
-__Waste Absorption & Sink Capacity:__ Low industrial base keeps emissions negligible; military and displacement camps generate localized waste; absorptive capacity is ample given sparse population density.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria, bilharzia, and diarrheal disease are endemic; southern war zones see cholera outbreaks; infant mortality remains among the world's highest; trajectory is stagnant or worsening in conflict areas.<br><br>
-__Nutrition & Physiological Vitality:__ Chronic malnutrition in southern and western peripheries; famine conditions recur; northern urban populations fare better but remain below regional averages.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility across ethno-religious communities; polygyny legal in the north; southern patterns vary by ethnic group; reproductive capacity unimpaired by conflict despite displacement.<br><br>
-__Demographic Renewal & Density:__ Population doubles from roughly 10 million (1955) to 40 million by 2010; high birth rates offset war mortality; density remains low except in the Nile corridor and Khartoum.<br><br>
-__Attrition & Dependency Overhang:__ Decades of civil war generate massive displacement (over 4 million IDPs by 2005), orphans, and widows; dependency load strains kinship networks and humanitarian capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agrarian and pastoral subsistence prevails outside Khartoum; war disrupts planting and herding in the south and Darfur; food insecurity is endemic in conflict zones.<br><br>
-__Energy Capture & Conversion:__ Biomass (firewood, charcoal) dominates rural energy; oil extraction from 1999 provides export revenue but electricity generation remains limited; per-capita energy capture is among the lowest in Africa.<br><br>
-__Labor Organization & Coercion:__ Subsistence farming and pastoralism predominate; slavery and forced labor documented in southern war zones; wage labor concentrated in Khartoum and Port Sudan.<br><br>
-__Production & Surplus Capacity:__ Cotton and gum arabic are traditional exports; oil revenues surge after 1999 but accrue to the Khartoum elite; industrial capacity is minimal; surplus generation is geographically concentrated.<br><br>
-__Storage, Reserves & Buffering:__ State reserves depleted by military spending; household buffering relies on livestock and kin networks; humanitarian aid substitutes for state reserves in crisis zones.<br><br>
-__Exchange, Trade & Logistics:__ Trade routes run north to Egypt and east to Port Sudan; southern regions are logistically isolated; war disrupts internal commerce; smuggling economies flourish.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Sudanese pound subject to inflation and devaluation; informal credit (hawala, livestock) more trusted than banking in peripheries; oil-era inflows create brief currency stability (2000s).<br><br>
-__Surplus Extraction & Redistribution:__ Oil revenues extracted from the south, redistributed to northern military and patronage networks; southern regions receive minimal state investment; extraction without return fuels secessionist grievance.<br><br>
-__Wealth Distribution & Asset Defense:__ Extreme concentration in Khartoum and among regime-connected elites; land tenure contested in conflict zones; asset defense depends on armed affiliation.<br><br>
-__Byproducts & Waste Routing:__ Oil production generates localized pollution in southern fields; urban waste accumulates in Khartoum; routing is negligent but load remains low relative to sink capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius is ethnic and tribal; north-south cleavage deepens across the window; mutual aid operates within kin and village networks but not across the religious-ethnic divide.<br><br>
-__Stratification, Status & Group Identity:__ Arab-Muslim northern identity versus African Christian-animist southern identity is the master cleavage; Darfur adds a third fracture (African Muslim); boundaries harden under war and Islamist rule.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal kinship prevails; Islamic inheritance law in the north; southern patterns vary by ethnic group; polygyny and brideprice widespread.<br><br>
-__Civic Association & Self-Organization:__ Civil society weak under military rule; tribal councils and religious brotherhoods (tariqas) provide local organization; southern churches become associational anchors.<br><br>
-__Leisure, Play & Sociability:__ Radio and (later) television provide shared entertainment in urban areas; communal gatherings (markets, mosques, churches) structure sociability; war zones see social life contract.<br><br>
-__Grievance Channels & Social Discharge:__ Formal channels blocked under military rule; grievance accumulates and discharges through armed rebellion (SPLA, Darfur movements); no peaceful outlet absorbs the load.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Military-dominated regimes throughout (Abboud 1958–1964, Nimeiry 1969–1985, Bashir 1989–2012 and beyond); power concentrated in Khartoum; southern and western peripheries excluded.<br><br>
-__Succession & Power Transfer:__ Coups are the primary transfer mechanism; civilian interludes brief; Bashir's 1989 coup installs Islamist-military hybrid that persists through the window.<br><br>
-__Legitimacy & Political Narrative:__ Arab-Islamic identity and anti-colonial nationalism justify northern rule; southern populations reject this framing; legitimacy does not extend across the fracture.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity strong in Khartoum, weak in peripheries; corruption endemic; Bashir-era patronage networks substitute for institutional reach.<br><br>
-__Political Participation & Mobilization:__ Parties banned or controlled; elections nominal; mobilization occurs through armed movements (SPLA) and, after 2005 Comprehensive Peace Agreement, through referendum (2011).<br><br>
-__Geopolitical Position & External Relations:__ Cold War alignments shift (Soviet, then US, then pariah status under Bashir); Egypt wary of Nile control; US sanctions from 1997; South Sudan secession backed internationally.<br><br>
-__Coercive Apparatus & Means of Force:__ Army and Popular Defence Forces (PDF) prosecute civil war; aerial bombardment of southern and Darfur civilians; Janjaweed militias operate with state sanction.<br><br>
-__Internal Order & Threat Environment:__ Civil war is the defining condition; SPLA insurgency (1983–2005), Darfur rebellion (2003 onward); state violence against peripheries generates counter-violence; disorder exceeds enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Sudan Radio (1940) and Sudan Television (1963) are state monopolies; transmission reaches Khartoum and northern towns but is weak in the south; shortwave carries Voice of America and BBC to peripheries.<br><br>
-__Record, Storage & Persistence:__ Broadcast archives centralized in Khartoum; southern records lost to war; oral transmission dominates in conflict zones; institutional memory is thin.<br><br>
-__Framing, Censorship & Discourse Norms:__ State broadcasting frames the civil war as defense of Islam and Arabism; southern perspectives excluded; Bashir-era censorship is comprehensive; foreign correspondents expelled or restricted.<br><br>
-__Reception, Attention & Amplification:__ Urban audiences consume state television; rural and southern populations rely on radio and word of mouth; satellite dishes spread in Khartoum (1990s) offering Al Jazeera alternative.<br><br>
-__Signal Integrity & Noise Load:__ State monopoly ensures message consistency but credibility is low in the south; propaganda is recognized as such; noise-to-signal ratio rises as trust erodes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Northern moral sense rooted in Islamic law; southern populations hold customary and Christian frameworks; no shared sense of justice spans the divide.<br><br>
-__Law, Codification & Regulatory Evolution:__ Sharia imposed nationally under Nimeiry (1983) and Bashir; southern rejection of Islamic law is a core grievance; Comprehensive Peace Agreement (2005) allows southern exemption.<br><br>
-__Adjudication, Enforcement & Liability:__ Islamic courts in the north; customary and church-based adjudication in the south; state enforcement absent in conflict zones; liability assignment is arbitrary under military rule.<br><br>
-__Rights, Protections & Compliance Burden:__ Human rights systematically violated; arbitrary detention, torture, and extrajudicial killing documented; compliance burden falls heaviest on southern and Darfuri populations.<br><br>
-__Impunity & Unredressed Wrong:__ Total impunity for state and militia violence; ICC indictment of Bashir (2009) for Darfur genocide goes unenforced; unredressed wrong accumulates without limit.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities in Khartoum produce Arabist and Islamic scholarship; southern intellectual life suppressed by war; no indigenous paradigm shift occurs within the window.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast engineering imported; oil extraction relies on foreign (Chinese) expertise; technical method concentrated in Khartoum; southern capacity is minimal.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Arabization of education under Bashir; southern educational infrastructure destroyed by war; literacy rates diverge sharply between north and south.<br><br>
-__Obsolescence & Knowledge Decay:__ Southern knowledge traditions (oral, customary) threatened by displacement; northern Islamic education ossifies under ideological control; skill attrition is severe in conflict zones.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Northern identity anchors in Arab-Islamic civilization and Mahdist legacy; southern identity coalesces around resistance to northern domination; partition crystallizes two separate national narratives.<br><br>
-__Artistic Expression & Material Culture:__ Northern music and poetry broadcast on state media; southern artistic expression circulates through churches and diaspora; material culture diverges along the religious-ethnic line.<br><br>
-__Collective Mood & Behavioral Disposition:__ War-weariness pervades the south; northern urban populations experience relative normalcy; Darfur crisis (2003) darkens the mood nationally; independence referendum (2011) brings southern euphoria.<br><br>
-__Form Exhaustion & Meaning Decay:__ Regime slogans of Arab-Islamic unity lose meaning as southern secession succeeds; symbols of Sudanese nationhood hollow out; post-partition identity remains unsettled.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Sunni Islam (Sufi-inflected) dominates the north; Christianity (Catholic, Anglican, Presbyterian) and indigenous beliefs in the south; cosmological divide maps onto political fracture.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mosque attendance, Sufi dhikr, and Islamic calendar structure northern life; church services and traditional rites structure the south; broadcasting carries Islamic programming but not southern content.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Sufi tariqas and Islamic scholars influential in the north; Bashir-era alliance with Islamist movement (NIF) politicizes religion; southern churches gain authority as resistance institutions.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islamist state attempts forced conversion and cultural Arabization in the south; Christianity spreads as resistance identity; syncretism occurs at local level but macro-level displacement is the trend.<br><br>
-__Disenchantment & Sacred Discharge:__ Instrumentalization of Islam for war degrades its spiritual authority for some; southern Christianity remains vibrant; secular disenchantment is minimal; the sacred remains politically charged through the window.<br><br>
+# __1955 CE – 2012 CE — Sudanese Broadcasting and North-South Division__
+
+__Summary:__ Sudanese broadcasting develops as a state instrument serving successive authoritarian regimes in Khartoum, its Arabic-language, Islamic-oriented programming systematically marginalizing the South and contributing to the informational dimension of civil war, until South Sudan's independence in 2011 creates two separate broadcast spheres from one deeply fractured system — the binding constraint being the deployment of broadcast media as an instrument of Arab-Islamic hegemony over a religiously and ethnically plural state.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Sudan spans Africa's largest territorial state (pre-2011), from the Saharan north through the Nile confluence at Khartoum to the equatorial forests and swamps of the South, with the Sudd wetlands imposing extreme transit friction between the two halves and making broadcast the only practical means of reaching southern populations without physical presence.
+
+__Climate Regime & Volatility:__ The north faces Sahelian aridity and periodic drought, the south tropical rainfall regimes; climate volatility compounds agricultural stress, particularly in Darfur and the transitional belt, generating migration pressures that broadcast news intermittently covers but cannot resolve.
+
+__Hazard Regime & Exposure:__ Drought, famine (1984–1985 famine kills hundreds of thousands), flood along the Nile system, and desertification in the north constitute the primary hazards; broadcast serves as emergency communication but infrastructure fragility limits reach during crises.
+
+__Resource & Energy Endowment:__ Oil discovery in the South (1970s, commercial production 1999) transforms state revenues but deepens North-South conflict over resource control; broadcast coverage of oil wealth feeds grievance narratives on both sides.
+
+__Waste Absorption & Sink Capacity:__ Urban concentration in Khartoum strains sanitation and air quality, while broadcast infrastructure's environmental footprint remains minimal against Sudan's vast territory; sink pressure is not a primary constraint.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria, tuberculosis, and periodic cholera outbreaks afflict the population, with the South bearing heavier disease burdens due to limited healthcare; war zones face catastrophic mortality from conflict and famine rather than broadcast-addressable causes.
+
+__Nutrition & Physiological Vitality:__ Chronic malnutrition affects millions, particularly in war-affected regions and during drought; broadcast public health messaging reaches urban populations but fails to penetrate conflict zones or address structural food insecurity.
+
+__Care, Healing & Recovery Capacity:__ Healthcare infrastructure remains concentrated in Khartoum and major northern cities; the South and Darfur are chronically underserved, with broadcast unable to substitute for absent clinics and medical personnel.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility rates prevail throughout, with population growth outpacing service provision; broadcast addresses family planning only cautiously given Islamic conservative pressures in the north.
+
+__Demographic Renewal & Density:__ Population grows from approximately 10 million (1955) to 37 million (2012, pre-separation); Khartoum becomes a megacity absorbing internal refugees, while southern population figures remain contested due to war and displacement.
+
+__Attrition & Dependency Overhang:__ Civil war creates massive displacement (over 4 million internally displaced by 2000s), war widows, orphans, and amputees; dependency loads overwhelm southern social structures, with broadcast providing only distant acknowledgment of humanitarian catastrophe.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agricultural subsistence (cotton, sorghum, livestock) forms the base, with southern populations largely outside the formal economy; broadcast advertising targets urban northern consumers, reinforcing economic division.
+
+__Energy Capture & Conversion:__ Oil revenues (from 1999) transform state capacity, enabling broadcast infrastructure expansion, but benefits concentrate in the north; the South lacks electricity grid access, limiting television penetration until South Sudan Radio relies on shortwave.
+
+__Labor Organization & Coercion:__ Forced labor and slavery allegations in southern war zones receive international attention but minimal state broadcast coverage; labor organization remains weak, with broadcast providing no platform for worker voice.
+
+__Production & Surplus Capacity:__ Oil production generates state surplus but crowds out agricultural investment; broadcast advertising revenue remains modest, with state funding dominating the sector.
+
+__Storage, Reserves & Buffering:__ Oil revenues provide fiscal buffer but are committed to military expenditure and regime maintenance; broadcast infrastructure receives investment primarily for propaganda capacity rather than development communication.
+
+__Exchange, Trade & Logistics:__ International sanctions (from 1997) constrain trade and technology transfer, limiting broadcast equipment modernization; smuggling economies in war zones operate entirely outside broadcast coverage.
+
+__Value Storage, Credit & Deferred Exchange:__ Inflationary pressures and currency instability characterize the economy; broadcast economic coverage serves regime narratives of external sabotage rather than domestic policy critique.
+
+__Surplus Extraction & Redistribution:__ Oil revenues redistribute minimally beyond regime circles and Khartoum; southern populations receive neither revenue shares nor broadcast representation of their claims.
+
+__Wealth Distribution & Asset Defense:__ Extreme inequality between Khartoum elites and peripheral populations defines the economic structure; broadcast programming normalizes northern urban consumption patterns unavailable to most viewers.
+
+__Byproducts & Waste Routing:__ Oil extraction environmental damage in the South receives no domestic broadcast attention; waste routing is not a primary broadcast concern.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Northern Arab Islamic family law (sharia-based from 1983) governs personal status, while southern populations maintain diverse customary systems; broadcast family programming reflects northern norms exclusively.
+
+__Association & Mutual Aid:__ Islamic charitable organizations operate in the north with broadcast publicity; southern and Darfuri populations rely on international humanitarian organizations largely invisible in state media.
+
+__Leisure, Play & Sociability:__ Football and northern cultural festivals receive broadcast coverage; southern cultural expressions are absent from national programming, treated as regional folklore at best.
+
+__Stratification, Status & Group Structure:__ Arab-identifying northern elites dominate state and broadcast institutions; non-Arab and non-Muslim populations face systematic exclusion from representation, with South Sudanese appearing in state media primarily as rebels or beneficiaries of northern development.
+
+__Administrative Capacity & Institutional Integrity:__ Sudan Radio and Television Corporation (SRTC) operates as a state organ under Information Ministry control; administrative capacity concentrates in Khartoum, with southern stations operating as extensions of central authority until conflict disrupts transmission.
+
+__Coercive Apparatus & Means of Force:__ Broadcast serves military information operations, particularly during civil war intensification (1983–2005) and Darfur conflict (2003–); radio coordinates militia activities and broadcasts martial messaging.
+
+__Discharge, Disorder & Decay:__ Two civil wars (1955–1972, 1983–2005) and Darfur genocide represent catastrophic social breakdown; broadcast contributes to conflict through exclusionary programming and hate speech, while failing to provide platforms for reconciliation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Northern sentiment oscillates between Arab-Islamic pride and war weariness; southern populations experience broadcast as an instrument of alien domination, deepening alienation rather than building national identification.
+
+__Leadership & Personal Authority:__ Successive leaders (Abboud 1958–1964, Nimeiri 1969–1985, Bashir 1989–2019) use broadcast to project personal authority; Bashir's Islamic revolutionary rhetoric saturates programming after 1989.
+
+__Legitimacy as Lived Allegiance:__ Regime legitimacy rests on Arab-Islamic identity claims broadcast ceaselessly to northern audiences; among southern populations, state broadcast commands no allegiance, serving instead as evidence of northern domination.
+
+__Political Will & Collective Resolve:__ State broadcast mobilizes support for military campaigns, particularly after each peace agreement breakdown; southern resistance movements develop alternative communication channels (SPLA Radio from 1980s).
+
+__External Relations & Posture:__ Broadcast projects defiance toward Western critics and solidarity with Arab and Islamic causes; international isolation (especially post-1997 sanctions) is framed as external aggression against Islamic Sudan.
+
+__Disaffection, Apathy & Spent Will:__ Northern war weariness eventually supports 2005 Comprehensive Peace Agreement; southern populations' complete alienation from Khartoum's broadcast messaging contributes to overwhelming independence referendum support (98.8% in 2011).
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Arabic dominates broadcast; English serves as southern lingua franca but receives minimal broadcast time; dozens of southern languages have no broadcast presence, rendering state media inaccessible to much of the southern population.
+
+__Channels & Transmission Velocity:__ Radio Omdurman (established 1940) provides national shortwave coverage; Sudan TV (1962) reaches urban centers; FM expansion in 2000s remains north-focused; southern transmission infrastructure is repeatedly destroyed in conflict.
+
+__Record, Storage & Persistence:__ State archives preserve official broadcast record; independent documentation of southern perspectives relies on international organizations and diaspora; SPLA Radio transmissions from Ethiopia constitute alternative record.
+
+__Framing, Censorship & Discourse Norms:__ Information Ministry exercises absolute control; southern perspectives, human rights reporting, and regime criticism are prohibited; Islamist framing intensifies after 1989 coup, treating southern resistance as anti-Islamic.
+
+__Reception, Attention & Amplification:__ Northern urban audiences receive state messaging; southern populations access BBC, Voice of America, and SPLA Radio as alternatives; satellite television (from late 1990s) provides educated urban audiences with international news.
+
+__Signal Integrity & Noise Load:__ State broadcast constitutes deliberate disinformation regarding southern conflict; northern audiences receive systematically distorted accounts of war, while international media provides correction accessible only to small minorities.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Northern Islamic moral framework, codified in 1983 September Laws, claims universal application; southern populations reject imposition of sharia as colonial subjugation of their distinct moral traditions.
+
+__Law, Codification & Regulatory Evolution:__ Broadcast law subordinates media to state authority and Islamic principles; 1989 intensifies ideological requirements, with broadcast content reviewed for Islamic compliance.
+
+__Adjudication, Liability & Sanction:__ Press and broadcast violations result in closure, arrest, and detention; journalists face security service harassment; no independent adjudication exists.
+
+__Rights, Protections & Compliance Burden:__ No meaningful press freedom or broadcast access rights exist; compliance with Islamic content standards constitutes absolute requirement.
+
+__Impunity & Unredressed Wrong:__ Regime broadcasts denials of atrocities in South and Darfur while international community documents systematic abuses; Bashir's ICC indictment (2009) represents attempt at accountability that state broadcast denounces as Western imperialism.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Islamic educational expansion marginalizes secular knowledge traditions; broadcast educational programming promotes Islamic curriculum; southern educational systems collapse during war years.
+
+__Applied Knowledge & Technical Method:__ Broadcast technical capacity develops slowly, with international sanctions limiting equipment access; satellite uplink capability enables international reach for regime messaging.
+
+__Education, Knowledge Stock & Skill Distribution:__ Literacy disparities between north (approaching 70% by 2010) and south (under 30%) mirror broadcast access gaps; broadcast educational programming reaches literate northern audiences only.
+
+__Obsolescence & Knowledge Decay:__ Southern educational infrastructure destruction represents catastrophic knowledge loss; northern Islamic educational expansion displaces secular technical training; broadcast technical skills remain thin.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Northern Arab-Islamic identity, claiming descent from Arabian Peninsula migrations, dominates broadcast narrative; Sudan is presented as Arab-African bridge, with African identity subordinated to Arab-Islamic civilization claims.
+
+__Legitimating Narrative & Ideology:__ Islamic civilizational mission frames regime legitimacy; broadcast presents Islamization as progressive development, southern resistance as backward tribalism; after 2005, pragmatic compromise narrative emerges briefly.
+
+__Artistic Expression & Material Culture:__ Northern Arabic music and poetry dominate broadcast entertainment; southern cultural expressions appear only as ethnographic curiosities; Khartoum urban culture defines broadcast aesthetic.
+
+__Form Exhaustion & Meaning Decay:__ Islamic revolutionary rhetoric ossifies after 1989, losing persuasive power even in north; broadcast formulae become ritualistic rather than mobilizing.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Sunni Islam (north) and Christianity/traditional religions (south) constitute irreconcilable broadcast frames; state broadcast presents Islamic cosmology as national foundation, excluding alternative spiritual worldviews.
+
+__Ritual, Devotion & Sacred Practice:__ Islamic call to prayer, Ramadan programming, and religious instruction dominate broadcast schedule; Christian and traditional religious practices receive no representation.
+
+__Religious Institutions & Doctrinal Authority:__ State coopts Islamic establishment while promoting Muslim Brotherhood-influenced revolutionary Islam after 1989; broadcast amplifies approved religious voices while silencing critics.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Broadcast serves as instrument of Islamization policy, presenting conversion as development; southern Christian expansion occurs largely outside and against state broadcast messaging.
+
+__Disenchantment & Sacred Discharge:__ South Sudan's independence (2011) represents rejection of Islamic-state project; northern populations face post-separation identity crisis as Arab-Islamic civilizational mission loses its southern object, though broadcast continues previous framing without fundamental reassessment.

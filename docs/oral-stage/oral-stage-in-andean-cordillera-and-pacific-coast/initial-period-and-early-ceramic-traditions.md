@@ -1,69 +1,140 @@
-# __1800 BCE – 900 BCE__ — Initial Period and Early Ceramic Traditions
-__Summary:__ Across the Peruvian coast and adjacent highlands, the adoption of pottery after 1800 BCE marked the transition from preceramic monumentality to a new era of ceramic-bearing temple complexes, U-shaped ceremonial centers, and intensified maize agriculture; the Cupisnique tradition on the north coast and related highland developments introduced feline iconography, early metallurgy, and stirrup-spout vessel forms that would later crystallize in the Chavin phenomenon; the binding constraint was the capacity of ritual authority to coordinate expanding irrigation systems and mobilize surplus labor for increasingly elaborate temple construction, while the trend throughout the window was one of agricultural intensification, population growth, technological diversification, and ideological elaboration, punctuated by episodes of temple burning and abandonment suggesting periodic legitimacy crises or external shocks.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The coastal zone comprised narrow river valleys cutting through hyper-arid desert, each valley a distinct agricultural unit connected to neighbors by coastal trails and to highlands by steep transverse routes; highland basins (Cajamarca, Huanuco, upper Maranon) provided complementary ecological zones accessible by arduous multi-day travel; friction between coast and sierra high, within coastal valleys moderate.<br><br>
-__Climate Regime & Volatility:__ Coastal desert received negligible rainfall, wholly dependent on Andean snowmelt channeled through rivers; El Nino events brought episodic flooding and marine disruption at irregular intervals (decades); highlands experienced marked wet-dry seasonality; climate within the window broadly stable but with documented flood episodes damaging coastal infrastructure; system provisioned for normal variability but stressed by extreme events.<br><br>
-__Hazard Regime & Exposure:__ Seismic hazard constant from Nazca Plate subduction; tsunami risk along low littoral sites; El Nino flooding periodically destroyed canals and fields; temple burning and abandonment at sites like Garagay and Cardal consistent with either hazard damage or deliberate destruction; margin against catastrophic loss variable by site.<br><br>
-__Resource & Energy Endowment:__ Marine biomass remained abundant; alluvial soils fertile where irrigated; clay deposits available for ceramic production; copper and gold ores accessible in highlands; timber scarce on coast but reeds, willow, and huarango sufficient for construction; endowment ample relative to population.<br><br>
-__Waste Absorption & Sink Capacity:__ Organic refuse and ceramic sherds accumulated in middens; construction debris incorporated into platform fills; kiln firing produced negligible emissions relative to absorptive capacity; desert environment desiccated organic waste rapidly; sink capacity vastly exceeded loads; no saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasitic infections persisted; no evidence of epidemic disease introduction; mortality baseline stable; population growth indicates death rates below birth rates throughout the window.<br><br>
-__Nutrition & Physiological Vitality:__ Intensified maize agriculture supplemented marine protein and traditional cultigens; nutritional status adequate to support demographic growth; skeletal evidence shows continued moderate stature; dental caries increasing with carbohydrate consumption; vitality stable to improving.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Stable pair-bonding inferred from burial and residential patterns; no evidence of fertility crisis; reproductive capacity adequate for population expansion.<br><br>
-__Demographic Renewal & Density:__ Population grew in most valleys; U-shaped centers required substantial labor pools; density increasing but remaining well below carrying capacity; migration and colonization of new valley segments documented.<br><br>
-__Attrition & Dependency Overhang:__ Infant mortality typical of premodern populations; aged supported within extended households; dependency load absorbed without strain; demographic structure skewed toward productive adults supporting continued construction.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Subsistence combined irrigated maize, beans, squash, and cotton agriculture with continued marine harvesting; the floor secure and rising as irrigation expanded cultivable area; population above the starvation margin with modest buffer.<br><br>
-__Energy Capture & Conversion:__ Human muscle remained the sole power source for agriculture, construction, and craft production; fire used for cooking, ceramic firing, and metalworking; no animal traction on coast; conversion efficiency improved marginally through better tools; per-capita work ceiling stable.<br><br>
-__Labor Organization & Coercion:__ Labor mobilized through kinship-based corvee coordinated by temple authorities; evidence of specialized craft production (ceramicists, metallurgists) suggests emerging occupational differentiation; coercion remained minimal, relying on reciprocity and ritual obligation; organization intensifying.<br><br>
-__Production & Surplus Capacity:__ Surplus generated in storable agricultural products (maize, beans, dried fish, cotton textiles); ceramic vessels improved storage capacity; surplus sufficient for sustained monumental construction and emerging craft specialization; output expanding through the window.<br><br>
-__Storage, Reserves & Buffering:__ Ceramic vessels transformed storage capability, enabling longer preservation of liquids and grains; granary structures at temple complexes documented; reserves more substantial than preceramic period; buffering improved against single-season failures.<br><br>
-__Exchange, Trade & Logistics:__ Inter-valley and coast-highland exchange intensified; Cupisnique ceramics and Spondylus shell distributed across wide areas; obsidian from highland sources reached coast; no formal markets but extensive reciprocal networks; logistics constrained by human and emerging llama porterage.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Value stored in ceramics, textiles, shell ornaments, and early metalwork; deferred exchange embedded in kinship and temple obligations; no monetary instruments; reciprocity tracked through oral agreements and symbolic markers.<br><br>
-__Surplus Extraction & Redistribution:__ Temple authorities extracted labor and agricultural surplus for construction and ritual; redistribution through feasting and ceremonial allocation; extraction load increasing as monuments grew more elaborate but remaining within productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Differential burial elaboration indicates growing wealth concentration among elite lineages; early gold and copper ornaments mark high status; assets defended through lineage membership and temple affiliation; concentration slowly increasing.<br><br>
-__Byproducts & Waste Routing:__ Ceramic production generated kiln waste and misfires; agricultural processing produced chaff and residue; metalworking left slag and scrap; all routed into middens or construction fill; waste load negligible relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks remained strong within valley communities; mutual aid organized through kinship and temple affiliation; inter-valley trust facilitated by shared iconographic tradition; trust radius expanding with exchange networks.<br><br>
-__Stratification, Status & Group Identity:__ Stratification intensifying between temple elites and commoner cultivators; status marked by burial goods, residential proximity to temples, and access to exotic materials; valley and lineage identity primary; ethnic boundaries relatively fluid; hierarchy deepening.<br><br>
-__Kinship, Family & Inheritance:__ Extended kin groups organized production and residence; inheritance patterns favored transmission of productive assets within lineage; marriage alliances reinforced inter-valley connections; kinship scaffold stable.<br><br>
-__Civic Association & Self-Organization:__ Kin-based work groups and temple sodalities organized collective labor; communal feasting reinforced association; self-organization below temple level remained robust; associational fabric thickening with population growth.<br><br>
-__Leisure, Play & Sociability:__ Temple courts and plazas served as gathering spaces; feasting, music, and dance accompanied ritual events; ceramic drinking vessels enabled new forms of commensality; sociability integrated with religious observance.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes mediated by kinship elders and temple authorities; ritual participation provided emotional outlet; mobility between valleys remained possible; episodes of temple burning may reflect unmetabolized grievance but causation uncertain; discharge generally adequate.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority concentrated in temple-based priest-leaders controlling ritual knowledge and construction coordination; no evidence of unified political state; each major center autonomous; power fragmented across the region; trend toward increasing elaboration at major centers (Garagay, Caballo Muerto).<br><br>
-__Succession & Power Transfer:__ Succession undocumented; likely hereditary within priestly lineages; temple destructions may reflect contested transfers; mechanisms fluid rather than codified.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derived from ritual efficacy, cosmological knowledge, and demonstrated capacity to command labor and resources; feline imagery and Cupisnique iconography articulated supernatural sanction; belief stable where temples flourished, eroding where they burned.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity limited to oral coordination; no writing; capacity sufficient for multi-valley temple construction but constrained by memory and presence; integrity maintained through ritual sanctions and kin oversight.<br><br>
-__Political Participation & Mobilization:__ Participation channeled through labor contribution and ritual attendance; no formal assemblies; dissent expressed through reduced participation or relocation; channels narrow but functional.<br><br>
-__Geopolitical Position & External Relations:__ Centers maintained exchange relations with highlands and possibly Ecuador; no evidence of warfare or fortification during this period; external relations cooperative; boundaries diffuse.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military documented; weapons limited to hunting tools; coercion minimal; force capacity negligible.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through kinship and temple authority; no evidence of endemic violence; threat environment benign; disorder minimal.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information transmitted through speech, messenger relay, and ritual assembly; velocity limited by walking and emerging llama caravan speed; acoustic signaling (shell trumpets, drums) extended local reach; channels adequate for valley-scale coordination.<br><br>
-__Record, Storage & Persistence:__ No writing system; information persisted through living memory, oral tradition, and ritual repetition; ceramic iconography encoded cosmological information visually; storage entirely oral; persistence vulnerable to transmission breaks.<br><br>
-__Framing, Censorship & Discourse Norms:__ Temple authorities controlled esoteric knowledge; ceramic iconography standardized cosmological imagery; discourse norms shaped by priestly authority; censorship informal but access to sacred knowledge restricted.<br><br>
-__Reception, Attention & Amplification:__ Reception concentrated at temple gatherings; attention focused by architectural staging, painted murals, and sculptural imagery; amplification through ritual repetition; attention span constrained by oral delivery.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduced drift; iconographic conventions provided visual anchoring reducing narrative drift; correction through cross-checking among tradition-bearers; noise load modest; long-term integrity vulnerable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in reciprocity, kinship obligation, and ritual propriety; fairness understood as balanced exchange; shared conscience reinforced by temple authority.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; customary taboos and kinship rules transmitted orally; regulatory evolution slow; temple authorities arbitrated disputes according to tradition.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by kinship elders and temple priests; enforcement through social sanction and exclusion; liability assigned to kin groups; throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy embedded in kinship; protections derived from reciprocal obligation and temple affiliation; compliance burden moderate (labor tribute, offerings); rules predictable.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity possible; power imbalances between lineages may have left some wrongs unredressed; gap between justice owed and delivered narrow in most cases; no evidence of chronic impunity accumulating.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Inquiry directed toward agricultural intensification, ceramic technology, and metallurgical technique; cosmological theory integrated celestial observation with supernatural explanation; paradigm stable; discovery frontier at irrigation engineering, ceramic firing, and metal alloying.<br><br>
-__Applied Knowledge & Technical Method:__ Ceramic production methods mastered (coiling, firing, slip painting); irrigation canal construction refined; early metallurgy (gold hammering, copper annealing) established; techniques transmitted through apprenticeship; method stable and incrementally improving.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally and through supervised practice; no formal schooling; literacy absent; skill concentrated among craft specialists; knowledge stock growing through accumulated experience and technique diffusion from north (Ecuador, Colombia).<br><br>
-__Obsolescence & Knowledge Decay:__ Preceramic twining techniques partially displaced by ceramic vessels for storage; knowledge loss through transmission breaks a constant risk; no catastrophic collapse; decay rate matched by innovation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Foundational identity rooted in valley, lineage, and temple affiliation; origin narratives (unrecoverable) connected communities to supernatural patrons embodied in feline imagery; collective memory transmitted through oral recitation and iconographic representation.<br><br>
-__Artistic Expression & Material Culture:__ Artistic expression expanded with ceramics (Cupisnique stirrup-spout vessels with feline and supernatural imagery), temple sculpture and painted murals, textile elaboration, and early metalwork; material culture diversifying; aesthetic conventions emphasizing fanged feline and serpent motifs.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood expansive during periods of temple construction and agricultural success; anxiety evident in episodes of ritual intensification and temple destruction/rebuilding; behavioral disposition cooperative but punctuated by crisis episodes; confidence generally prevailing.<br><br>
-__Form Exhaustion & Meaning Decay:__ U-shaped temple form flourished then declined by 900 BCE with multiple sites burned and abandoned; iconographic forms remained potent, transitioning into Chavin tradition; partial form exhaustion evident in architectural tradition while iconographic tradition renewed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmology centered on supernatural beings with feline, serpent, and raptor attributes; existential outlook emphasized human dependence on supernatural favor obtained through ritual observance; fatalism regarding natural forces balanced by efficacy beliefs around proper worship.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual concentrated at U-shaped temple complexes; offerings deposited in dedicatory caches; fire rituals and possible sacrifice; communal gatherings at calendrical intervals; devotion expressed through labor contribution, offerings, and attendance.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Priestly specialists controlled sacred knowledge and ritual performance; temple complexes embodied institutional property; doctrinal authority transmitted within priestly lineages; orthodoxy maintained through restricted access and iconographic standardization; authority consolidating.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Cupisnique iconography spreading along north coast; highland Kotosh tradition continuing; convergence toward shared supernatural imagery (feline deity complex) prefiguring Chavin; syncretism active; no displacement; spiritual reach expanding toward pan-Andean integration.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; temple destructions may reflect ritual renewal rather than loss of faith; sacred meaning fully invested in temple practice; spiritual need satisfied; no residue of disenchantment.<br><br>
+# __1,800 BCE – 900 BCE__ — Initial Period and Early Ceramic Traditions
+
+__Summary:__ A long-term trend tracing the transformation of Andean society as pottery arrives from the north, temple complexes proliferate across coast and highlands, and population density intensifies—the binding constraint remains oral: all ritual knowledge, architectural plans, ceramic technique, and administrative coordination are spoken, demonstrated, and memorized, never written, so that the emerging complexity rides entirely on the carrying capacity of human memory and voice.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The trend unfolds across the entire Peruvian coast and adjacent highlands—from the Lambayeque and Jequetepeque valleys in the north through the central coast to the south coast, and inland to sites like Kotosh and early Chavin in the highlands; river valleys remain the axes of settlement, but interaction now spans multiple drainages; vertical complementarity links coast, valley, and puna.
+
+__Climate Regime & Volatility:__ The late Holocene climate regime continues with heightened ENSO variability after ~5,000 BP; El Nino events periodically disrupt coastal fisheries and cause destructive flooding, while La Nina phases bring drought to some highland zones; agricultural and settlement planning must accommodate this inherent volatility.
+
+__Hazard Regime & Exposure:__ Seismic and tsunami risk persists; ENSO floods and droughts are recurrent shocks; temple sites show evidence of destruction and rebuilding, indicating that hazards are encountered and absorbed; construction on elevated terraces and the use of adobe with planned replacement suggest adaptation to the hazard regime.
+
+__Resource & Energy Endowment:__ Marine resources remain abundant; irrigated agriculture expands, with maize arriving from the north and becoming increasingly important; highland zones contribute tubers, camelid products, and obsidian; the resource base is diversifying, supporting larger populations and more elaborate craft production.
+
+__Waste Absorption & Sink Capacity:__ Population growth and intensified production increase waste output, but the desert and coastal environments continue to absorb it without saturating; shell middens grow; construction debris is incorporated into architectural fill; no feedback loop constrains expansion during this phase.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Rising population density may increase endemic disease transmission, but epidemic thresholds are not yet reached; parasitic infections remain common; mortality is moderate, with infant and child death rates high but offset by fertility; the baseline is stable or slightly worsening as density increases.
+
+__Nutrition & Physiological Vitality:__ The diet diversifies with maize supplementing earlier cultigens; marine protein remains central on the coast; highland populations rely on tubers and camelid meat; skeletal evidence suggests adequate nutrition for most, though periodic stress lines indicate ENSO-related subsistence crises.
+
+__Care, Healing & Recovery Capacity:__ Healing remains embedded in ritual and herbal practice; temple complexes may incorporate healing functions, with priests as curers; recovery capacity is adequate for endemic conditions but still vulnerable to novel pathogens or large-scale disaster.
+
+__Reproductive Biology & Pairing Dynamics:__ Population is growing throughout the period, indicating successful reproduction; pairing and marriage patterns are archaeologically invisible but likely regulated by kin groups and possibly by temple authorities who sanction unions.
+
+__Demographic Renewal & Density:__ Density increases in both coastal valleys and highland basins; new centers are founded; migration may occur along vertical gradients as people seek complementary resources; the demographic trajectory is upward, pressing against but not yet exceeding carrying capacity.
+
+__Attrition & Dependency Overhang:__ The population remains young-skewed; dependent loads are absorbed within extended households and community structures; no evidence of systemic strain from dependency during this growth phase.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The provisioning floor rises with maize agriculture and expanded irrigation; marine resources continue to buffer subsistence; household pooling and inter-zonal exchange maintain resilience; outright famine is not evident in the record, though periodic stress is expected.
+
+__Energy Capture & Conversion:__ Human muscle remains the primary energy source; fire is used for cooking and ceramics; camelids are present in the highlands but not yet widely used for transport on the coast; the per-capita work ceiling rises slightly with population density, enabling larger construction projects.
+
+__Labor Organization & Coercion:__ Labor mobilization for temple construction continues through corvee, ritual obligation, and reciprocal exchange; the emerging temple complexes suggest coordinated labor on a larger scale than Norte Chico; coercion remains minimal in the sense of no visible slavery, but obligation to contribute labor to communal and sacred projects is likely enforced by social and religious sanction.
+
+__Production & Surplus Capacity:__ Surplus expands with agricultural intensification; cotton textiles are produced in quantity; ceramic production emerges as a new craft specialization; the surplus enables support of non-food-producing specialists—potters, weavers, priests, builders—and the surplus cycle remains in expansion.
+
+__Storage, Reserves & Buffering:__ Storage facilities expand; large storage pits and rooms are associated with temple complexes; dried fish, maize, and textiles serve as buffer against seasonal variation and ENSO shocks; the emergence of ceramic vessels improves storage of water and cooked foods.
+
+__Exchange, Trade & Logistics:__ Trade networks extend along coast and into highlands; exotic goods—spondylus from Ecuador, obsidian from highland sources, tropical feathers from the eastern slopes—circulate through exchange systems; logistics rely on human porters and, increasingly, llama caravans in the highlands; maritime exchange along the coast is also likely.
+
+__Value Storage, Credit & Deferred Exchange:__ No currency exists; value is stored in prestige goods (spondylus, obsidian, fine textiles, elaborate ceramics) and in reciprocal obligations; oral memory tracks debts and credits; the emergence of distinctive ceramic styles may facilitate recognition of trade partners and tracking of exchange relationships.
+
+__Surplus Extraction & Redistribution:__ Temples serve as nodes of surplus concentration and redistribution; offerings flow inward, feasts and distributions flow outward; the priestly elite administers this cycle orally, with no written accounts; extraction is legitimized by religious authority and the promise of cosmic reciprocity.
+
+__Wealth Distribution & Asset Defense:__ Wealth differentiation increases; temple-associated elites have access to exotic goods and larger residences; but the gap remains moderate compared to later periods; wealth is defended through association with sacred authority and community sanction.
+
+__Byproducts & Waste Routing:__ Ceramic production generates workshop waste; agricultural and food-processing waste accumulates; routing is dispersed—middens, fill, burning—without significant environmental feedback; no toxic byproducts at scale.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kin groups remain the basic unit of social organization; inheritance of land, labor obligations, and ritual roles likely follows kin lines; inter-community marriage may create alliances across valleys; the ayllu-like corporate kin group is emerging if not already established.
+
+__Association & Mutual Aid:__ Communities are bound by reciprocal labor obligations centered on temple construction and agricultural work parties; mutual aid networks buffer households; the temples themselves create new forms of association, drawing participants from multiple communities for festivals and construction.
+
+__Leisure, Play & Sociability:__ Plaza complexes and temple precincts serve as gathering spaces for festivals, performances, and communal celebration; ceramic vessels enable new forms of feasting and drinking; music, dance, and competitive games are likely, though archaeologically invisible.
+
+__Stratification, Status & Group Structure:__ Stratification deepens; a temple-associated elite is distinguishable in burials and residential architecture; status is marked by access to exotic goods, proximity to sacred space, and ritual knowledge; boundaries remain somewhat permeable, with achieved status through ritual mastery supplementing inherited position.
+
+__Administrative Capacity & Institutional Integrity:__ Administration remains oral; temples function as coordinating institutions, with priests directing labor, managing calendars, and adjudicating disputes; no bureaucracy, no writing; reach is limited to the community or cluster of communities associated with a given temple; no unified polity spans the region.
+
+__Coercive Apparatus & Means of Force:__ Evidence of warfare appears in this period—fortified sites, weapons, and depictions of combat; the coercive apparatus is emerging, though still limited; temples may command armed retainers; conflict between valleys or temple polities is possible, unlike the peaceful Norte Chico.
+
+__Discharge, Disorder & Decay:__ Rising stratification and the emergence of warfare suggest increasing social friction; however, discharge mechanisms—feasting, ritual reconciliation, communal labor—still process most grievance; disorder is localized; no systemic collapse occurs during this trend.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The public temper is expansive—new temples rising, populations growing, exchange networks widening; confidence in the ritual order is high; trust extends through temple-mediated networks; risk perception is elevated by emerging warfare but not yet dominant.
+
+__Leadership & Personal Authority:__ Temple priests emerge as leaders with authority derived from ritual knowledge and the ability to mediate between human and sacred; personal charisma and oratorical power matter; leadership is expressed in spoken command, ritual performance, and the visible success of the communities they lead.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on the perceived efficacy of ritual—if the rains come, if the fish run, if the enemy is repelled, the priests are validated; allegiance is renewed in each successful ceremony; disaffection would follow ritual failure, but the record does not indicate widespread legitimacy crisis.
+
+__Political Will & Collective Resolve:__ Collective will is directed toward temple construction, agricultural expansion, and, increasingly, defense; the capacity for unified action is demonstrated in monumental building; resolve is sustained by the promise of cosmic reward and communal pride.
+
+__External Relations & Posture:__ Relations among temple polities are mixed—exchange and pilgrimage coexist with emerging warfare; posture varies by context; highland-coastal relations are primarily commercial; some valleys may be competing for dominance or access to trade routes.
+
+__Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; will is not spent; the trend is one of growth and vitality, not exhaustion; local conflicts may generate grievance, but systemic apathy has not set in.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language remains the universal medium; no writing exists; all can speak and listen within their linguistic community; regional dialects may impede communication across distant areas, but core zones share mutual intelligibility.
+
+__Channels & Transmission Velocity:__ Information travels by messenger along trails and, along the coast, possibly by watercraft; velocity is slow; temple networks may coordinate information through periodic gatherings where news is exchanged; no relay systems or signal towers.
+
+__Record, Storage & Persistence:__ Memory remains the sole record; priests and elders hold tradition; ceramic iconography encodes meaning but requires oral interpretation—the image prompts the story but does not replace it; khipu has not yet emerged; loss of a knowledgeable elder means loss of what they held.
+
+__Framing, Censorship & Discourse Norms:__ Oral tradition enforces conservative framing; temple authorities may control what is said in sacred contexts; censorship is social rather than institutional; discourse norms favor repetition, formula, and deference to tradition.
+
+__Reception, Attention & Amplification:__ Reception is face-to-face in temple precincts and village plazas; attention is captured in ceremonial gatherings; amplification occurs through retelling and ritual repetition; no written dissemination, no copying beyond the biological act of teaching.
+
+__Signal Integrity & Noise Load:__ Signal integrity depends on faithful transmission; over centuries, drift is inevitable; noise accumulates as traditions are adapted to new contexts; verification is by consensus and appeal to ancestral authority; the oral system is self-correcting in the short term but vulnerable over generations.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice remains embedded in reciprocity and the fulfillment of obligation; new moral demands may arise from temple authority—ritual purity, proper offering, obedience to priestly command; fairness is judged by adherence to spoken custom.
+
+__Law, Codification & Regulatory Evolution:__ No written law; custom is oral and evolving; temple authorities may pronounce new rules or reinterpret old ones; the "code" is flexible, adapted to circumstances, and enforceable through religious sanction.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by elders, kin heads, and temple priests; liability is assigned through oral deliberation; sanctions include shaming, exclusion, restitution, ritual penance, and, with emerging warfare, possibly physical punishment or death for serious transgressions.
+
+__Rights, Protections & Compliance Burden:__ Rights derive from membership in kin and temple communities; protection is relational; compliance burden is intensifying as temple demands grow—labor, offerings, attendance at ceremonies—but remains predictable within oral norms.
+
+__Impunity & Unredressed Wrong:__ In communities still small and face-to-face, impunity is limited; however, emerging elite privilege may create some immunity for the powerful; the gap between justice owed and delivered may be widening slightly as stratification deepens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Knowledge remains empirical and cosmological; astronomical observation serves calendrical and ritual purposes; the reigning paradigm explains the world through myth, sacred geography, and ancestor; no abstract theory, but sophisticated practical knowledge of agriculture, hydraulics, and construction.
+
+__Applied Knowledge & Technical Method:__ Ceramic technology is the major innovation—potters master clay preparation, forming, decoration, and firing; this knowledge spreads from Ecuador southward, adapted and elaborated at each stage; construction technique advances with larger temple complexes; irrigation engineering intensifies; all technique is transmitted orally and by demonstration.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is apprenticeship-based; the knowledge stock is expanding with ceramic craft and agricultural intensification; distribution is uneven—potters hold ceramic knowledge, priests hold ritual knowledge, farmers hold agricultural knowledge; the stock is entirely held in living memory.
+
+__Obsolescence & Knowledge Decay:__ Earlier, pre-ceramic traditions persist alongside the new; no sharp displacement; however, as specialists die without training successors, their knowledge can be lost; the system is robust but vulnerable to disruption in transmission chains.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity remains anchored in place, valley, and temple; origin myths explain the establishment of the sacred centers; collective memory is enacted in ceremony and carried in oral recitation; the foundational narrative legitimizes the temple elite and the cosmic order they maintain.
+
+__Legitimating Narrative & Ideology:__ The legitimating narrative is cosmological and priestly: the temple is the axis mundi, the place where human and sacred meet; those who control the temple mediate this contact and thereby ensure prosperity; the new ceramic forms and temple plans are arguments in material form, demonstrating the power and knowledge of the builders.
+
+__Artistic Expression & Material Culture:__ Ceramics emerge as a new expressive medium—distinctive regional styles develop, marking identity and facilitating exchange; temple architecture grows more elaborate, with U-shaped plans, friezes, and sculptural decoration; textiles continue; the artistic vocabulary expands, encoded with cosmological meaning that oral tradition interprets.
+
+__Form Exhaustion & Meaning Decay:__ Forms are vital and proliferating; the U-shaped temple plan and early ceramic styles are novel and potent; no exhaustion or anomie—this is a creative florescence, not a period of hollow repetition.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmology posits a living universe where mountains, rivers, celestial bodies, and the sea are animate powers requiring propitiation; human action sustains cosmic balance; existential outlook is participatory—failure to perform rites invites disaster; the world is enchanted and demanding.
+
+__Ritual, Devotion & Sacred Practice:__ Temples are centers of elaborate ritual involving offerings, sacrifice (including, at some sites, human sacrifice), feasting, and procession; hallucinogenic substances (San Pedro cactus) may be used to access sacred states; devotion is collective, cyclical, and intensifying as temples grow.
+
+__Religious Institutions & Doctrinal Authority:__ Temple complexes constitute religious institutions; the priestly elite holds doctrinal authority, transmitting oral tradition and directing ritual; no scripture, but consistency of temple plans and iconography suggests shared, orally transmitted doctrine across wide areas.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Ceramic styles and temple plans spread along exchange routes, indicating religious diffusion; local traditions incorporate coastal or highland elements; syncretism is occurring as communities interact; no displacement of existing beliefs, but layering and blending as new cults arrive.
+
+__Disenchantment & Sacred Discharge:__ The sacred is fully charged and spreading; disenchantment has not begun; temple construction is accelerating, ritual activity intensifying; the spiritual system is at full power, commanding resources and allegiance, uncontested by secularizing forces.
+

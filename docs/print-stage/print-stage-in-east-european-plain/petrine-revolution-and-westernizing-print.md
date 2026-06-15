@@ -1,69 +1,139 @@
-# __1700 CE – 1762 CE__ — Petrine Revolution and Westernizing Print
-__Summary:__ The Russian state undergoes forced Westernization under Peter I and his successors, creating a new capital at St. Petersburg, subordinating the church, reforming the script, and introducing secular print to an elite readership; the binding constraint is the narrow literate stratum capable of absorbing Western knowledge while the peasant mass remains untouched; the system holds minimal margin against succession crises and palace coups; the direction is toward state-driven modernization concentrated at the apex.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The East European Plain extends from the Baltic to the Urals, crossed by navigable rivers — Volga, Don, Dnieper — but vast distances impose severe friction; Peter's new capital St. Petersburg creates a Baltic window bypassing old Muscovite routes, though marshland construction exacts enormous human cost.<br><br>
-__Climate Regime & Volatility:__ Continental climate with harsh winters, short growing seasons, and significant interannual variability in precipitation; the Little Ice Age conditions persist, narrowing the agricultural margin and periodically triggering harvest failures across the grain-producing heartland.<br><br>
-__Hazard Regime & Exposure:__ Spring floods along major rivers recur annually; St. Petersburg's low-lying site floods repeatedly; drought and frost threaten grain harvests; no seismic or volcanic exposure, but climate volatility leaves the provisioning system with thin margins.<br><br>
-__Resource & Energy Endowment:__ Vast timber reserves fuel construction and ironworks; Ural ores support expanding metallurgy; water power from rivers; black-earth soils productive but underexploited; the endowment is large but extraction and transport capacity lag behind potential.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density remains low across most of the plain; urban concentrations at Moscow and the new Petersburg generate localized waste accumulation; overall absorptive capacity far exceeds load; no significant saturation evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic typhus, dysentery, and smallpox maintain high background mortality; plague outbreaks recur; infant mortality exceeds half of births in many regions; the disease environment is harsh but stable, not worsening.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant diet centers on grain, supplemented by cabbage, root vegetables, and occasional fish or meat; nutritional adequacy varies with harvest; chronic mild deficiency is common; stature remains below Western European norms.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Early marriage normative among peasantry; high fertility offset by high infant and child mortality; extended households pool reproductive capacity; the biological renewal rate is adequate but margins are consumed by mortality.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly from roughly 14 million in 1700 toward 19 million by 1762; density remains low; migration is state-directed toward new territories and construction sites; replacement rates positive but modest.<br><br>
-__Attrition & Dependency Overhang:__ High child mortality reduces the dependency burden somewhat paradoxically; widows and orphans absorbed within extended households; the aged population is small given life expectancy; the system metabolizes its dependents through household absorption.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain agriculture dominates; the peasant household produces for subsistence first, with surplus extracted as rent and tax; periodic harvest failures bring localized famine; the floor is low and the margin against shortage is thin.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; waterpower drives mills and early manufactories; wood fuel for heating and metallurgy; the Petrine manufactories begin concentrating energy conversion but per-capita work ceiling remains low.<br><br>
-__Labor Organization & Coercion:__ Serfdom entrenches during this period; peasants bound to estates, subject to corvee and obrok obligations; state conscription for military and construction projects — Petersburg built by forced labor; coercion is the dominant mobilization mode.<br><br>
-__Production & Surplus Capacity:__ State-sponsored manufactories — iron, armaments, textiles, shipbuilding — multiply under Peter; agricultural surplus remains modest; the productive base expands but is concentrated in state enterprises serving military needs.<br><br>
-__Storage, Reserves & Buffering:__ Grain reserves held at estate and state level remain inadequate for major shortfalls; treasury chronically strained by military expenditure; buffering capacity against harvest failure or war costs is thin.<br><br>
-__Exchange, Trade & Logistics:__ St. Petersburg opens Baltic commerce; internal trade moves by river and poor roads; market integration remains weak; the new capital reorients exchange toward Western Europe but logistics bottlenecks persist.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Coinage debased under Peter to fund wars; credit mechanisms rudimentary; noble estates serve as collateral; merchants rely on personal networks; inflation and debasement erode stored value; formal credit institutions absent.<br><br>
-__Surplus Extraction & Redistribution:__ The poll tax (1724) rationalizes extraction from serfs; noble service obligations exchanged for control over peasants; the state extracts heavily to fund military and construction; the extractive load is burdensome and tightening.<br><br>
-__Wealth Distribution & Asset Defense:__ Land and serf ownership concentrated among nobility; merchantry subordinate; Peter's reforms allow service mobility but wealth concentration intensifies; asset defense relies on state favor and noble status.<br><br>
-__Byproducts & Waste Routing:__ Manufactory wastes — slag, effluent — discharged locally; urban waste accumulates in growing cities; scale remains modest; routing is dispersal by default; no saturation evident at system level.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village communes (mir) provide mutual aid among peasants; trust radius confined to kin and village; the elite-peasant gap widens as Westernization creates cultural distance; horizontal solidarity strong within strata, weak across them.<br><br>
-__Stratification, Status & Group Identity:__ Peter's Table of Ranks (1722) formalizes service nobility; old boyar distinctions fade; clergy subordinated; merchantry ranked; peasantry enserfed further; boundaries harden between Westernized elite and traditional mass.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal extended households among peasantry; noble inheritance follows primogeniture or partition depending on period; Peter abolishes entail briefly; kinship networks structure both village and court politics.<br><br>
-__Civic Association & Self-Organization:__ Guilds and merchant associations exist under state supervision; peasant communes regulate village affairs; no autonomous civic sphere emerges; associational life remains subordinate to state and seigneurial authority.<br><br>
-__Leisure, Play & Sociability:__ Peasant festivals tied to Orthodox calendar; elite adopt Western entertainments — assemblies, balls, theater; the cultural gap between elite and mass sociability widens dramatically.<br><br>
-__Grievance Channels & Social Discharge:__ Petition to landlord or state is the formal channel; flight to frontier regions an escape valve; occasional local uprisings suppressed; accumulated grievances among enserfed peasantry are incompletely discharged.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Peter I transforms Muscovite autocracy into Westernized absolutism; emperor holds unlimited sovereign authority; Senate and colleges rationalize administration; power is highly concentrated and centralizing.<br><br>
-__Succession & Power Transfer:__ Peter abolishes traditional succession, claims right to designate heir; his death (1725) opens decades of palace coups; succession remains a flashpoint — Catherine I, Anna, Elizabeth seize power through guard regiments; transfer is unstable.<br><br>
-__Legitimacy & Political Narrative:__ Peter frames reforms as modernization for national greatness; "Westernization" and military success legitimate the autocracy; the Orthodox church, now subordinated, provides religious sanction; legitimacy rests on transformation and victory.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Peter creates colleges, provincial administration, the Senate; capacity expands but corruption endemic; record-keeping improves; reach extends but implementation remains uneven; institutional integrity compromised by venality.<br><br>
-__Political Participation & Mobilization:__ Participation confined to service nobility and guards regiments whose favor determines succession; no institutional channels for broader participation; peasant discontent expressed in flight or rebellion, not politics.<br><br>
-__Geopolitical Position & External Relations:__ Great Northern War (1700-1721) defeats Sweden, establishes Russia as Baltic power; subsequent wars with Ottoman Empire and participation in European diplomacy; Russia enters the European state system as a great power.<br><br>
-__Coercive Apparatus & Means of Force:__ Peter creates standing army on Western model, builds Baltic fleet; regular conscription from peasantry; guards regiments become political actors; firearms, artillery, and fortification modernized; force capacity centralizing.<br><br>
-__Internal Order & Threat Environment:__ Streltsy revolt crushed (1698); Bulavin Cossack rebellion suppressed (1707-1708); Old Believer dissent persists; banditry on frontiers; internal order maintained through coercion; margin adequate but not large.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Vedomosti (1702) begins state newspaper; printed edicts circulate; courier post connects capitals; information flows from center outward through bureaucratic channels; velocity slow beyond elite networks; reach does not extend to peasant mass.<br><br>
-__Record, Storage & Persistence:__ State archives formalized; church records continue; print creates durable copies; the Academy of Sciences (1725) begins scholarly publication; record persistence improves for state and elite affairs; peasant affairs remain oral.<br><br>
-__Framing, Censorship & Discourse Norms:__ State monopoly on printing; church censorship subordinated to secular authority; what may be printed determined by state interest; permitted band is narrow — Westernizing reform narrative dominates; no independent public discourse.<br><br>
-__Reception, Attention & Amplification:__ Readership confined to court, officials, clergy, and merchants numbering perhaps tens of thousands; elite attention directed by court fashion and state propaganda; no mass amplification mechanisms exist.<br><br>
-__Signal Integrity & Noise Load:__ Information flow is thin and curated; noise is low because volume is low; verification occurs through personal networks; the system is not overloaded — it is underfed; what circulates is relatively coherent if incomplete.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Orthodox Christian morality underpins formal justice; customary norms govern village life; elite increasingly influenced by Western natural law ideas; tension between imported codes and traditional conscience.<br><br>
-__Law, Codification & Regulatory Evolution:__ Peter issues extensive regulations and ukases; systematic codification attempted but incomplete; military and administrative law formalized; peasant justice remains customary and seigneurial; legal pluralism persists.<br><br>
-__Adjudication, Enforcement & Liability:__ State courts for officials and townspeople; seigneurial justice for serfs; military tribunals for soldiers; adjudication is slow and corrupt; enforcement depends on administrative capacity; liability assignment often arbitrary.<br><br>
-__Rights, Protections & Compliance Burden:__ Nobility gains exemption from corporal punishment (under Elizabeth); serfs have no protected rights; compliance burden on taxable population heavy; predictability low for those outside elite protection.<br><br>
-__Impunity & Unredressed Wrong:__ Noble violence against serfs largely unpunished; bureaucratic corruption endemic; petitions to the crown occasionally redress specific wrongs; the gap between formal justice and actual redress is wide and stable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ The Academy of Sciences imports Leibnizian and Newtonian frameworks; Western scientific method introduced; inquiry confined to imported scholars and a handful of Russian pupils; the discovery frontier is in Western Europe, not Russia.<br><br>
-__Applied Knowledge & Technical Method:__ Western techniques transferred to metallurgy, shipbuilding, fortification, and artillery; technical schools established; method remains imitative; indigenous innovation minimal; application concentrated in state enterprises.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Peter mandates noble education; technical schools for navigators, engineers, and officials; clergy educated in seminaries; peasant literacy negligible; skill concentrated in narrow strata; the stock is growing from a low base.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional Muscovite learning supplanted by Western models; Church Slavonic culture marginalized; old knowledge is discarded rather than integrated; decay is by displacement; new knowledge does not yet face obsolescence pressures.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Peter reframes Russian identity as European power reborn; the new capital embodies break with Muscovite past; Orthodox tradition persists among masses; elite identity bifurcates — Western dress and language over Slavic memory.<br><br>
-__Artistic Expression & Material Culture:__ Baroque architecture dominates new construction; Western portrait painting introduced; noble dress mandated to Western styles; material culture at elite level transforms; peasant material culture continues unchanged.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite mood mixes excitement at transformation with anxiety about status; peasant resentment at increased burdens and cultural imposition; Old Believers experience persecuted apocalypticism; the collective temper is fractured by stratum.<br><br>
-__Form Exhaustion & Meaning Decay:__ Muscovite ceremonial forms deliberately destroyed or abandoned; imported Western forms not yet naturalized; a meaning vacuum exists where old forms were displaced before new ones took root; elite culture is imitative and unsettled.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodox Christianity remains the official cosmology; elite exposed to deist and rationalist currents; peasant piety unchanged; the metaphysical frame holds for the mass, loosens among the Westernized few.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Orthodox liturgy, feast days, fasting cycles, and icon veneration continue; monastic life constrained by state; elite participation becomes more formal; Old Believers maintain intense devotional practice under persecution.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Patriarchate abolished (1721); Holy Synod subordinates church to state; monasteries restricted; clergy becomes a service estate; institutional autonomy eliminated; doctrinal authority now flows from the emperor.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Old Belief persists as a separatist stream; Western Christianity makes no inroads; folk practice continues beneath official Orthodoxy; no significant syncretism or displacement; the Orthodox monopoly holds despite internal fracture.<br><br>
-__Disenchantment & Sacred Discharge:__ Elite Westernization begins a long process of distancing from Orthodox piety; rationalist currents introduce doubt; the sacred still answers for the mass; incipient secularization among the few generates no systemic discharge yet.<br><br>
+# __1700 CE – 1762 CE — Petrine Revolution and Westernizing Print__
+
+The binding constraint is the autocrat's monopoly over print as an instrument of state transformation, where Peter I's introduction of the civil script and the first Russian newspaper Vedomosti (1703) creates a print culture designed not to serve a public sphere but to remake the nobility into a Westernized service class, leaving the vast peasant majority illiterate and unaddressed while print remains a tool of state command rather than opinion formation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East European Plain stretches from the Baltic to the Urals, dominated by forest, steppe, and vast distances that impose severe friction on movement and communication. Peter's conquest of the Baltic (Treaty of Nystad, 1721) opens a corridor to Western Europe, and the new capital St. Petersburg (1712) is positioned deliberately to shorten the informational distance from Amsterdam and Hamburg. River systems remain the primary arteries; roads are poor, impassable in spring thaw and autumn rains.
+
+__Climate Regime & Volatility:__ Harsh continental climate compresses the agricultural season into a narrow window. Short summers and long winters limit surplus accumulation and concentrate labor demands. Peter's military campaigns strain provisioning capacity during campaigning seasons.
+
+__Hazard Regime & Exposure:__ Fire remains endemic to wooden cities; Moscow burns repeatedly. Flooding threatens the low-lying St. Petersburg site. Epidemic disease circulates along new trade routes.
+
+__Resource & Energy Endowment:__ Forest provides fuel, construction material, and potash for export. Iron ore deposits in the Urals, opened under Peter, supply new manufactories. Grain remains the base commodity; flax and hemp serve naval stores. Energy capture relies entirely on biomass and animal muscle.
+
+__Waste Absorption & Sink Capacity:__ The vast territory absorbs modest waste loads without visible strain. Urban sanitation remains primitive; refuse accumulates in streets and waterways of growing cities. Sink stress is negligible at this population density.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic typhus, smallpox, and dysentery impose high baseline mortality. Peter himself dies of complications from illness contracted during rescue efforts. Infant and child mortality remain severe; life expectancy hovers around 30–35 years.
+
+__Nutrition & Physiological Vitality:__ The peasant diet centers on rye bread, cabbage, and root vegetables, with periodic protein from fish or game. Famine recurs in bad harvest years. Nobility and urban populations access imported foods and greater dietary variety.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge is pre-modern; folk remedies predominate. Peter imports Western physicians and establishes hospital schools, but coverage remains minimal outside the capitals. Midwifery is traditional; childbirth mortality high.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage is nearly universal for women, arranged within estate boundaries. Serfdom ties family formation to the estate. Birth rates are high, offset by high mortality.
+
+__Demographic Renewal & Density:__ Population grows from roughly 15 million (1700) toward 20 million (1762). Density remains low; colonization of frontier zones continues. Migration is controlled; serfs are bound to estates.
+
+__Attrition & Dependency Overhang:__ High mortality creates widows and orphans; extended family absorbs dependents. The state drafts men for military service and labor (construction of St. Petersburg), creating household strain but no standing welfare apparatus.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The peasant household produces most of its own food; market dependence is minimal except in cities. Famines occur when harvest fails and reserves are exhausted. Urban provisioning depends on river-borne grain transport.
+
+__Energy Capture & Conversion:__ Human and animal muscle provide nearly all motive power. Water mills grind grain; wind power is marginal. Firewood heats and fuels; charcoal smelts iron in the new Ural foundries. Per-capita energy remains low.
+
+__Labor Organization & Coercion:__ Serfdom is the dominant labor regime for 80% of the population; serfs owe labor dues (barshchina) or cash payments (obrok) to lords. State peasants serve crown demands. Peter expands corvée for state projects; convict and serf labor builds St. Petersburg. Urban labor is free but regulated through guilds.
+
+__Production & Surplus Capacity:__ Agrarian surplus is modest and vulnerable to weather. Peter's manufactories produce cloth, iron, armaments, and naval stores, but output serves state needs rather than consumer demand. Surplus is extracted through taxation and requisition.
+
+__Storage, Reserves & Buffering:__ Granaries are local and inadequate; no systematic state reserve exists. Fiscal reserves are consumed by continuous warfare; the treasury borrows and debases coinage when necessary.
+
+__Exchange, Trade & Logistics:__ Domestic trade flows along rivers to Arkhangelsk and, increasingly, through St. Petersburg. Foreign trade shifts from English and Dutch middlemen to direct imperial management. Tariffs protect nascent industry. Roads remain poor; transport costs limit internal commerce.
+
+__Value Storage, Credit & Deferred Exchange:__ Coinage is debased repeatedly to fund wars. Credit is informal; no banking system exists. Merchants operate through networks of trust and delayed settlement.
+
+__Surplus Extraction & Redistribution:__ Peter's fiscal system extracts heavily: poll tax replaces household tax (1718), conscription claims men, and state monopolies (salt, alcohol) generate revenue. Extraction approaches the limits the peasant economy can bear.
+
+__Wealth Distribution & Asset Defense:__ Nobility owns land and serfs; peasants possess only movable property and household effects. Table of Ranks (1722) creates a service aristocracy where status depends on position rather than birth, shuffling wealth toward those who serve.
+
+__Byproducts & Waste Routing:__ Manufacturing waste accumulates near foundries and workshops; no systematic disposal. Urban refuse is dumped; sanitation is primitive. Financial malinvestment is absorbed through inflation and state default on obligations.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Noble inheritance follows partible rules until primogeniture is imposed (1714, later relaxed). Serf families remain patriarchal, tied to the land. Marriage is within estate; mobility is blocked.
+
+__Association & Mutual Aid:__ The peasant commune (mir) coordinates agriculture, allocates strips, and provides mutual support. Guilds regulate urban crafts. Voluntary association is minimal; the state monopolizes organization.
+
+__Leisure, Play & Sociability:__ Village festivals, church holidays, and drinking mark peasant leisure. Peter mandates Western-style assemblies (1718) for the nobility, forcing sociability into new forms. Taverns are state monopolies.
+
+__Stratification, Status & Group Structure:__ Society divides sharply: nobility, clergy, urban dwellers (meshchane), and peasants (serf and state). The Table of Ranks reorganizes noble status around service. Boundaries are rigid; movement is rare.
+
+__Administrative Capacity & Institutional Integrity:__ Peter creates a modern bureaucracy modeled on Swedish precedents: colleges replace prikazy, the Senate coordinates administration, and provincial governors report centrally. Corruption is endemic; oversight is weak. The new apparatus extends state reach but remains understaffed.
+
+__Coercive Apparatus & Means of Force:__ Peter's army transforms from streltsy militia to a conscript force of 200,000+ with Western drill and equipment. The new navy dominates the Baltic after Poltava (1709). Police functions are embryonic; the Preobrazhensky Prikaz handles political crimes.
+
+__Discharge, Disorder & Decay:__ Popular resistance surfaces in revolts (Bulavin rebellion 1707–1708, Astrakhan 1705–1706), suppressed brutally. Old Believer communities retreat to margins. Grievance accumulates among burdened peasants, but apparatus holds. Noble opposition is co-opted or crushed; Peter executes his own son Alexei (1718).
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The peasant mass is sullen and suspicious of Peter's alien impositions—Western dress, shaved beards, forced sociability. Nobility is divided: some embrace Westernization, others resent it. Trust extends within estate and locality; the distant state is feared.
+
+__Leadership & Personal Authority:__ Peter I dominates through force of personality, physical presence, and relentless activity. His successors (Catherine I, Peter II, Anna, Elizabeth) are weaker; palace coups (1725, 1730, 1740, 1741, 1762) show that legitimacy depends on Guards regiments. No successor matches Peter's command.
+
+__Legitimacy as Lived Allegiance:__ Autocracy is accepted as divine order by peasants and clergy. Peter claims legitimacy through transformation and victory; his successors rely on continuity and ritual. Old Believers deny legitimacy to the reformed church.
+
+__Political Will & Collective Resolve:__ Peter's will is totalizing; he drives the system by personal command. After his death, collective noble will fragments into factionalism. Favorite-ministers (Menshikov, Biron, Bestuzhev) steer weak rulers.
+
+__External Relations & Posture:__ Russia emerges as a European power after the Great Northern War. Expansion continues: Baltic provinces annexed, influence extends into Poland and Persia. Rivalry with Sweden, Ottoman Empire, and (by 1762) Prussia shapes foreign posture.
+
+__Disaffection, Apathy & Spent Will:__ Popular disaffection is suppressed, not resolved. Noble exhaustion from continuous service obligation builds through the era, finding partial relief in the Charter to Nobility (not yet granted in this period). Will is concentrated in the autocrat; succession crises reveal structural fragility.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Peter introduces the civil script (grazhdanka, 1708–1710), simplifying Cyrillic for secular use and widening potential readership beyond the clergy. Church Slavonic persists for religious texts. Literacy remains confined to clergy, nobility, and a thin urban stratum—perhaps 2–5% of the population.
+
+__Channels & Transmission Velocity:__ Print is the revolutionary medium: Vedomosti (1703) is the first Russian newspaper, published irregularly by state press. Postal routes are established; couriers carry state correspondence. News travels slowly across vast distances; St. Petersburg to Moscow takes days.
+
+__Record, Storage & Persistence:__ State archives expand; the Senate keeps systematic records. Manuscript culture persists alongside print. Libraries are noble or ecclesiastical; no public access.
+
+__Framing, Censorship & Discourse Norms:__ Print is state monopoly; private printing does not exist. All publication serves state purposes—translations of technical manuals, laws, military regulations. Censorship is pre-publication and total; no oppositional press is conceivable.
+
+__Reception, Attention & Amplification:__ Readership is tiny and official. Vedomosti reports victories and edicts; it does not form opinion but transmits command. Oral culture dominates popular information; rumor circulates faster than print.
+
+__Signal Integrity & Noise Load:__ State control ensures signal consistency but limits information flow. Rumor and oral distortion are uncontrollable; the state cannot reach popular consciousness through print.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Orthodox Christianity provides the moral frame. Autocratic power is divinely ordained; obedience is virtue. Peter's reforms strain this frame—Westernization offends traditionalist sensibility, but no alternative moral language is articulated.
+
+__Law, Codification & Regulatory Evolution:__ Peter issues a flood of edicts (ukazy) covering every aspect of life—dress, beards, conduct, commerce. The Military Statute (1716) and Naval Statute (1720) codify military law. Civil law remains Ulozhenie of 1649 supplemented by decrees.
+
+__Adjudication, Liability & Sanction:__ Courts are administrative bodies; judges are officials. Corporal punishment (knouting, branding) and exile (Siberia) are standard. Torture is legal in investigation. Noble privilege provides some protection; peasants have no recourse.
+
+__Rights, Protections & Compliance Burden:__ Subjects have no rights against the autocrat. Service is obligatory for all estates; peasants are bound to lords, nobles to the state. Compliance burden is extreme; evasion (flight, resistance) is punished severely.
+
+__Impunity & Unredressed Wrong:__ The autocrat acts without legal constraint. Favorites exercise arbitrary power. Peasant grievances accumulate without remedy. The gap between justice owed and delivered is structural, accepted as the order of things.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Peter imports Western learning: navigation, mathematics, engineering, medicine. The Academy of Sciences (1725) brings foreign scholars (Euler, Bernoulli). Inquiry is instrumental—aimed at state power, not abstract truth. Russian intellectual production is minimal; translation predominates.
+
+__Applied Knowledge & Technical Method:__ Western technique transfers in shipbuilding, metallurgy, fortification, and military organization. The Ural foundries apply imported methods. Russian craftsmen train under foreign masters.
+
+__Education, Knowledge Stock & Skill Distribution:__ Cipher schools (1714) teach arithmetic to noble children; Naval Academy trains officers. Education is vocational and coerced. Knowledge is concentrated in capitals; the provinces remain untouched. Literacy is rare; skill distribution is thin.
+
+__Obsolescence & Knowledge Decay:__ Traditional Muscovite learning is not so much superseded as bypassed. Church education continues but loses state favor. No systematic mechanism exists to preserve or update knowledge; foreign expertise must be continuously imported.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Russian identity is Orthodox and Muscovite, rooted in Third Rome ideology and medieval saints' lives. Peter's Westernization strains this identity, creating a rift between official culture and popular memory. The Old Believers preserve the older identity in exile.
+
+__Legitimating Narrative & Ideology:__ Peter's claim is transformational: Russia is remade as a European power through his will. The imperial title (1721) signals parity with Western monarchies. Successors inherit the narrative without the achievement.
+
+__Artistic Expression & Material Culture:__ Peter mandates Western forms: baroque architecture in St. Petersburg, Western dress for nobility, portraiture replacing icons in secular settings. The material world bifurcates—Westernized capitals versus traditional countryside. Peasant material culture continues unchanged.
+
+__Form Exhaustion & Meaning Decay:__ Traditional Muscovite forms are not exhausted but suppressed for the elite. Popular culture persists; no renewal cycle operates in this period. The imposed Western forms are adopted without being internalized.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Orthodox cosmology places Russia in sacred history as the guardian of true Christianity. Peter subordinates the Church to the state (Holy Synod, 1721), weakening this frame. Fatalism and piety characterize popular outlook; the elite begins to absorb secular Western attitudes.
+
+__Ritual, Devotion & Sacred Practice:__ Orthodox liturgy and sacraments structure life from baptism to burial. Icons, relics, and pilgrimage remain central. Peter bans some monastic recruitment and strips Church wealth, but popular devotion continues unaffected.
+
+__Religious Institutions & Doctrinal Authority:__ The patriarchate is abolished (1721); the Holy Synod under a lay procurator controls the Church as a state department. Doctrinal authority is frozen; no theological development occurs. The Church loses autonomy but retains ritual function.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Old Believers persist despite persecution; sectarian movements (Khlysty, later Dukhobors) emerge in popular piety. Western Enlightenment ideas enter elite consciousness but do not yet challenge Orthodoxy.
+
+__Disenchantment & Sacred Discharge:__ The subordination of Church to state begins a long secularizing drift for the elite. Peter treats religion instrumentally. Popular piety remains intact, but the institutional frame weakens. Disenchantment is elite-only and incipient; the sacred holds for the mass.

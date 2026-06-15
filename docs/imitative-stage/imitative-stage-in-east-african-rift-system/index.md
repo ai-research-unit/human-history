@@ -1,9 +1,10 @@
 # __Imitative Stage in The East African Rift System — 3,300,000 BCE – 150,000 BCE__
+
 ### - [3,300,000 BCE – 2,900,000 BCE — The Lomekwian Industry at Lomekwi 3](the-lomekwian-industry-at-lomekwi-3.md)
 ### - [2,600,000 BCE – 2,300,000 BCE — Emergence of the Oldowan at Gona](emergence-of-the-oldowan-at-gona.md)
 ### - [2,340,000 BCE – 2,000,000 BCE — Early Oldowan Expansion across the Turkana Basin](early-oldowan-expansion-across-the-turkana-basin.md)
-### - [2,000,000 BCE – 1,800,000 BCE — Olduvai Gorge Bed I and the Oldowan Lifeway](olduvai-gorge-bed-i-and-the-oldowan-lifeway.md)
 ### - [1,900,000 BCE – 1,500,000 BCE — Homo ergaster in the Turkana Basin](homo-ergaster-in-the-turkana-basin.md)
+### - [1,870,000 BCE – 1,790,000 BCE — Olduvai Gorge Bed I and the Oldowan Lifeway](olduvai-gorge-bed-i-and-the-oldowan-lifeway.md)
 ### - [1,760,000 BCE – 1,400,000 BCE — Emergence of Acheulean Technology at Kokiselei and Konso](emergence-of-acheulean-technology-at-kokiselei-and-konso.md)
 ### - [1,700,000 BCE – 1,400,000 BCE — Developed Oldowan and Technological Coexistence](developed-oldowan-and-technological-coexistence.md)
 ### - [1,500,000 BCE – 1,000,000 BCE — Early Acheulean Dispersal across East Africa](early-acheulean-dispersal-across-east-africa.md)
@@ -12,7 +13,7 @@
 ### - [600,000 BCE – 350,000 BCE — The Bodo Cranium and Middle Pleistocene Hominins](the-bodo-cranium-and-middle-pleistocene-hominins.md)
 ### - [500,000 BCE – 300,000 BCE — Late Acheulean Innovation and Levallois Emergence](late-acheulean-innovation-and-levallois-emergence.md)
 ### - [320,000 BCE – 295,000 BCE — The Acheulean-to-Middle Stone Age Transition at Olorgesailie](the-acheulean-to-middle-stone-age-transition-at-olorgesailie.md)
-### - [315,000 BCE – 195,000 BCE — Early Homo sapiens Emergence in the Rift System](early-homo-sapiens-emergence-in-the-rift-system.md)
+### - [280,000 BCE – 160,000 BCE — Early Homo sapiens Emergence in the Rift System](early-homo-sapiens-emergence-in-the-rift-system.md)
 ### - [280,000 BCE – 160,000 BCE — Middle Stone Age Technological Regionalization](middle-stone-age-technological-regionalization.md)
-### - [195,000 BCE – 150,000 BCE — The Omo-Kibish Population and Late Pleistocene Adaptation](the-omo-kibish-population-and-late-pleistocene-adaptation.md)
+### - [233,000 BCE – 150,000 BCE — The Omo-Kibish Population and Late Pleistocene Adaptation](the-omo-kibish-population-and-late-pleistocene-adaptation.md)
 ### - [160,000 BCE – 150,000 BCE — The Herto Mortuary Assemblage](the-herto-mortuary-assemblage.md)

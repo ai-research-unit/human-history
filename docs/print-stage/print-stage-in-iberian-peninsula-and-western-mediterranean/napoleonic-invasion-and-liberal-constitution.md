@@ -1,69 +1,139 @@
-# __1808 CE – 1833 CE__ — Napoleonic Invasion and Liberal Constitution
-__Summary:__ The Napoleonic invasion of 1808 shatters Bourbon absolutism, triggering guerrilla resistance, the liberal Cadiz Constitution of 1812, and an explosion of uncensored print. Ferdinand VII's restoration in 1814 reverses constitutional gains, but the Liberal Triennium (1820-1823) briefly revives reform before French intervention restores absolutism. American colonies achieve independence, collapsing the imperial fiscal base. The binding constraint is the unresolved contest between liberal constitutionalism and royal absolutism, with neither able to consolidate, leaving the system oscillating until Ferdinand's death in 1833.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Pyrenean barrier fails to prevent French invasion but channels it; mountain ranges across Iberia enable guerrilla resistance by fragmenting control; coastal ports connect to British supply and Latin American theaters.<br><br>
-__Climate Regime & Volatility:__ Mediterranean and continental regimes continue; drought years in Castile exacerbate wartime provisioning crises; no major secular climate shift, but interannual variability stresses a disrupted agrarian system.<br><br>
-__Hazard Regime & Exposure:__ No major seismic or volcanic events; wartime destruction substitutes for natural hazard, with scorched-earth tactics and sieges (Zaragoza, Gerona) devastating infrastructure and settlements beyond peacetime hazard exposure.<br><br>
-__Resource & Energy Endowment:__ Colonial silver flows collapse as American wars of independence sever remittances; domestic mineral resources remain underexploited; agricultural land degraded by war in contested zones; endowment diminished.<br><br>
-__Waste Absorption & Sink Capacity:__ War debris, unburied corpses, and disrupted sanitation during invasion years impose acute localized loads; peacetime absorptive capacity returns post-1814; no systemic sink saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ War mortality from combat, starvation, and epidemic (typhus spreads with troop movements) spikes during 1808-1814; post-war recovery gradual; endemic disease returns to pre-war baseline by 1820s.<br><br>
-__Nutrition & Physiological Vitality:__ Wartime disruption causes regional famines and malnutrition; civilian populations in siege cities suffer severe deprivation; nutritional recovery slow and incomplete in war-ravaged areas through the 1820s.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage rates disrupted during war years; fertility depressed by male absence, mortality, and economic collapse; post-war recovery of pairing patterns uneven across regions.<br><br>
-__Demographic Renewal & Density:__ Population losses estimated at 300,000-500,000 from war, famine, and epidemic; recovery to 1808 levels not achieved until late 1820s; density declines in war zones, stable in peripheral areas.<br><br>
-__Attrition & Dependency Overhang:__ War generates mass widowhood, orphanhood, and disability; Church and familial networks strained; returning veterans add to dependent population; productive cohort diminished, dependency load elevated.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agrarian production collapses in war zones; French requisitions and guerrilla disruption fragment supply chains; famine conditions in besieged cities; provisioning recovers unevenly after 1814.<br><br>
-__Energy Capture & Conversion:__ War destroys workshops, disrupts artisanal production; animal stocks depleted for military use; post-war energy capture returns to pre-war muscle-power baseline without significant technological advance.<br><br>
-__Labor Organization & Coercion:__ War mobilizes peasant guerrillas and urban militias; post-war labor patterns resume seigneurial and guild structures; liberal reforms during Triennium attempt but fail to consolidate labor liberalization.<br><br>
-__Production & Surplus Capacity:__ Industrial and agricultural output devastated 1808-1814; Catalan textiles recover in 1820s; overall surplus capacity below 1800 levels throughout period; capital stock depleted.<br><br>
-__Storage, Reserves & Buffering:__ Royal treasury bankrupted by war and colonial loss; municipal granaries emptied; private reserves exhausted; no buffer against renewed crisis; fiscal margin at zero.<br><br>
-__Exchange, Trade & Logistics:__ Internal trade disrupted by war and banditry; colonial trade severed as American independence proceeds; post-war commerce recovers slowly; infrastructure damaged and underfunded.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Currency instability during war; vales reales (royal bonds) depreciate; private credit networks disrupted; Banco de San Carlos struggles; no stable value storage mechanism until late 1820s stabilization.<br><br>
-__Surplus Extraction & Redistribution:__ Royal taxation collapsed during war; Cortes of Cadiz attempts fiscal reform; Ferdinand VII restores traditional extraction without colonial base; Church property briefly targeted during Triennium; extraction capacity minimal.<br><br>
-__Wealth Distribution & Asset Defense:__ War destroys some noble and Church assets; land concentration persists; liberal land reform (desamortizacion) attempted during Triennium but reversed 1823; asset distribution stable despite disruption.<br><br>
-__Byproducts & Waste Routing:__ Wartime waste (military debris, corpses) creates acute localized loads; peacetime production too diminished to generate significant waste; routing returns to dispersed agrarian pattern post-war.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ War fractures communities along collaborationist and resistance lines; afrancesados (French collaborators) face social exclusion post-1814; village solidarities strained but not destroyed; trust radius contracts then slowly recovers.<br><br>
-__Stratification, Status & Group Identity:__ Liberal constitution of 1812 proclaims legal equality, abolishes seigneurial jurisdiction; Ferdinand VII restoration reverses reforms; status hierarchy contested and unstable; regional identities activated by war experience.<br><br>
-__Kinship, Family & Inheritance:__ War mortality disrupts household composition; inheritance patterns unchanged legally except during brief liberal intervals; family networks critical for survival during and after war.<br><br>
-__Civic Association & Self-Organization:__ Juntas (resistance committees) organize during war, creating precedent for provincial self-governance; liberal clubs and masonic lodges spread during Triennium; absolutist restoration suppresses associational life.<br><br>
-__Leisure, Play & Sociability:__ Wartime disrupts festivals and public gatherings; bullfights and religious processions resume post-war; tertulias become politicized during constitutional periods; leisure carries political freight.<br><br>
-__Grievance Channels & Social Discharge:__ War itself serves as grievance discharge; constitutional periods open petition and press channels; absolutist restoration closes them; grievances accumulate undischarged after 1823, trending toward 1833 crisis.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Napoleonic invasion shatters absolutist authority; Cortes of Cadiz asserts popular sovereignty; Ferdinand VII restoration (1814) recentralizes; Liberal Triennium fragments power again; 1823 restoration reasserts royal absolutism; oscillating pattern unstable.<br><br>
-__Succession & Power Transfer:__ Ferdinand VII's return contested by liberals; no legitimate heir until late reign; succession crisis anticipated as Ferdinand's death approaches (Isabella vs. Carlos); transfer mechanisms broken by 1830.<br><br>
-__Legitimacy & Political Narrative:__ Competing narratives: liberal constitutionalism (sovereignty of nation, Cadiz legacy) versus royal absolutism (divine right, traditional order); neither achieves hegemony; legitimacy contested throughout.<br><br>
-__Administrative Capacity & Institutional Integrity:__ War destroys administrative infrastructure; liberal reforms attempt modernization; Ferdinand VII restoration purges liberal officials; capacity degraded and politicized; corruption and patronage intensify.<br><br>
-__Political Participation & Mobilization:__ Cortes of Cadiz creates representative framework; elections held 1810-1814, 1820-1823; popular mobilization during war and constitutional periods; absolutist periods close all channels; participation oscillates violently.<br><br>
-__Geopolitical Position & External Relations:__ British alliance during war; Congress of Vienna restores Ferdinand; Holy Alliance backs 1823 intervention; loss of American colonies transforms Spain from empire to secondary European power; dependency on great-power guarantees.<br><br>
-__Coercive Apparatus & Means of Force:__ Royal army fragments during invasion; guerrilla forces improvise; post-war army rebuilt but politically unreliable (pronunciamientos of 1820); French intervention force (1823) props up Ferdinand; command fragmented across factions.<br><br>
-__Internal Order & Threat Environment:__ Guerrilla war creates endemic armed violence; post-war banditry flourishes; liberal-absolutist conflict produces political violence; Carlist sentiment grows in north; internal order margin exceeded repeatedly.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ War accelerates print production; Cadiz becomes press center; newspapers, pamphlets, and broadsides proliferate during constitutional periods; absolutist restoration reimposed censorship; velocity and volume oscillate with regime.<br><br>
-__Record, Storage & Persistence:__ War destroys some archives; Cadiz debates recorded in Diario de Sesiones; newspaper proliferation creates new documentary record; persistence depends on political survival of producing institutions.<br><br>
-__Framing, Censorship & Discourse Norms:__ Cadiz constitution guarantees press freedom; Ferdinand VII restoration reimposed Inquisition censorship (briefly) then Crown censorship; Triennium reopens discourse; 1823 restoration closes it; permitted band swings violently.<br><br>
-__Reception, Attention & Amplification:__ Literacy remains low but political reading expands among urban populations; coffeehouses and reading societies amplify during constitutional periods; pulpit counters with absolutist messaging; attention bifurcated by faction.<br><br>
-__Signal Integrity & Noise Load:__ Proliferation of partisan press during constitutional periods increases noise; competing claims difficult to verify; propaganda from all sides; signal integrity low during open periods, artificially high (through suppression) during absolutist ones.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Liberal constitution asserts natural rights, equality before law; absolutist reaction invokes divine order and traditional hierarchy; competing moral foundations coexist without resolution; sense of justice faction-dependent.<br><br>
-__Law, Codification & Regulatory Evolution:__ Cadiz constitution creates modern legal framework; Ferdinand VII abolishes it; Triennium restores it; 1823 abolishes again; legal instability extreme; codification repeatedly attempted and reversed.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts politicized; liberals purged under Ferdinand, absolutists under Triennium, liberals again after 1823; throughput disrupted by institutional instability; enforcement depends on political alignment.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional periods extend individual rights, abolish torture, limit Church jurisdiction; absolutist periods retract rights; compliance burden unpredictable as rules change with regime.<br><br>
-__Impunity & Unredressed Wrong:__ Afrancesados face persecution without due process; liberals executed or exiled after 1814 and 1823; absolutists targeted during Triennium; impunity alternates between factions; accumulated wrongs unredressed across all groups.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Liberal deputies at Cadiz draw on Enlightenment and revolutionary theory; natural rights, separation of powers, popular sovereignty debated; absolutist reaction champions scholastic and traditionalist frameworks; paradigm contest unresolved.<br><br>
-__Applied Knowledge & Technical Method:__ War disrupts technical education; mining and engineering schools struggle; post-war recovery limited by fiscal collapse; applied knowledge stagnates relative to northern European industrialization.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities politically purged repeatedly; Jesuit return under Ferdinand VII shifts curricula; literacy gains during constitutional periods reversed; knowledge distribution narrows after 1823.<br><br>
-__Obsolescence & Knowledge Decay:__ Liberal-absolutist oscillation prevents stable knowledge consolidation; competing paradigms persist without either displacing the other; skill attrition from exile and execution of educated liberals; decay from politicized transmission.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ War of Independence creates new national mythology (Dos de Mayo, guerrilla resistance, Zaragoza siege); liberal and absolutist narratives contest its meaning; foundational identity fractured between constitutional nation and Catholic monarchy.<br><br>
-__Artistic Expression & Material Culture:__ Goya's war etchings (Disasters of War) and Black Paintings capture horror and disillusionment; Neoclassicism continues officially; Romanticism emerges among exiled liberals; material culture impoverished by destruction.<br><br>
-__Collective Mood & Behavioral Disposition:__ War trauma, disillusionment, and political uncertainty darken collective mood; brief liberal optimism during constitutional periods crushed by restorations; fatalism and cynicism spread; mood unstable and trending darker.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional symbols contested (monarchy, Church, nation mean different things to factions); no new synthesis emerges; symbolic warfare exhausts conventional forms; meaning decay advanced without new forms to replace the old.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic providentialism persists but war shakes confidence; liberal anticlericalism (during Triennium) and absolutist piety polarize; existential uncertainty rises; outlook depends on factional alignment.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice continues but becomes politically marked; liberal periods see reduced public devotion; absolutist restoration intensifies religious display; ritual practice politicized.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church allied with Ferdinand VII; Triennium attacks Church property and jurisdiction; 1823 restoration reinforces Church power; Inquisition briefly restored then permanently abolished 1834; institutional authority oscillates with regime.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism remains universal; no Protestant presence; colonial missions collapse with independence; domestic spiritual landscape unchanging despite political turmoil; diffusion stable.<br><br>
-__Disenchantment & Sacred Discharge:__ War, political violence, and institutional instability produce spiritual exhaustion among some educated liberals; popular piety persists; sacred framework strained but not broken; disenchantment concentrated among exile communities.<br><br>
+# __1808 CE – 1833 CE — Napoleonic Invasion and Liberal Constitution__
+
+The collapse of Bourbon authority under French invasion shatters the reformist absolutism that had contained print within royal channels, and the binding constraint becomes the absence of any settled sovereign: as competing authorities claim legitimacy — French occupiers, provincial juntas, the Cortes of Cadiz, the restored Ferdinand VII — the press explodes into partisan proliferation, producing Spain's first experience of uncensored political debate, codified in the 1812 Constitution's press freedom guarantee, yet this opening proves reversible, and the period oscillates between liberal constitutionalism and absolutist restoration, leaving print freedom as the contested prize rather than the stable substrate of the public sphere.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The peninsula's mountain ranges and poor roads fragment French control; guerrilla resistance exploits terrain inaccessible to conventional armies. Cadiz's maritime isolation enables the Cortes to convene beyond French reach. The Pyrenean passes channel invasion routes but also limit French reinforcement and supply. Regional compartmentalization shapes both military operations and the emergence of provincial juntas acting independently.
+
+__Climate Regime & Volatility:__ Harsh winters and summer drought stress military campaigns and civilian provisioning. The 1811-1812 subsistence crisis combines war destruction with climate stress, producing famine conditions in besieged areas. Interannual volatility compounds war-induced disruption.
+
+__Hazard Regime & Exposure:__ War operates as the dominant hazard; sieges devastate Zaragoza, Gerona, and Cadiz environs. Scorched-earth tactics destroy infrastructure. The 1811-1812 famine kills tens of thousands. Epidemic typhus follows troop movements, compounding mortality.
+
+__Resource & Energy Endowment:__ American silver remittances collapse as colonial independence movements sever trade. The peninsula's limited coal and mineral resources cannot substitute. Agricultural output plummets in war zones. Energy scarcity constrains recovery throughout the period.
+
+__Waste Absorption & Sink Capacity:__ War destruction overwhelms normal waste management; unburied dead and destroyed buildings mark battle zones. Urban sanitation collapses in besieged cities. Reconstruction proceeds slowly; environmental degradation persists in heavily contested areas.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Wartime conditions multiply mortality: battle deaths, siege starvation, epidemic typhus and dysentery following armies. Civilian mortality exceeds military casualties. The death rate spikes 1808-1814, then normalizes but remains elevated by pre-war standards.
+
+__Nutrition & Physiological Vitality:__ Famine conditions prevail in besieged cities and war-ravaged countryside. Grain requisitioning for armies strips civilian supply. Nutritional collapse reduces resistance to disease. Recovery is slow; agricultural restoration takes years beyond the war's end.
+
+__Care, Healing & Recovery Capacity:__ Military medicine proves inadequate to casualties; hospitals overflow. Civilian care collapses in contested zones. Church and charitable institutions strain to meet need. Medical knowledge advances through wartime experience but institutional capacity does not keep pace.
+
+__Reproductive Biology & Pairing Dynamics:__ War disrupts marriage and family formation; male mortality creates demographic imbalance. Birth rates decline during the conflict. Post-war recovery proceeds, but the lost generation affects demographic structure for decades.
+
+__Demographic Renewal & Density:__ Population declines from approximately 10.5 million (1808) to perhaps 9.5 million (1814) through war mortality and emigration. Recovery proceeds through the 1820s; population returns to pre-war levels by 1830. Density redistributes as depopulated zones slowly refill.
+
+__Attrition & Dependency Overhang:__ War creates mass widowhood and orphanage; veterans return wounded and disabled. The dependency load spikes; Church and municipal charity cannot fully absorb it. The unhealed casualties of war persist as a standing burden into the 1830s.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ War collapses the provisioning system; armies requisition grain, disrupting markets. Famine conditions in 1811-1812 push mortality to crisis levels. Post-war recovery is uneven; some regions restore production while others remain depressed.
+
+__Energy Capture & Conversion:__ Draft animals are requisitioned or killed; human labor must substitute. Water mills and workshops suffer destruction. Energy capture contracts sharply, limiting productive capacity. Recovery requires years of animal breeding and infrastructure repair.
+
+__Labor Organization & Coercion:__ War mobilizes labor through conscription and requisition. Peacetime labor returns to pre-war patterns: guild organization in towns, jornalero labor in southern latifundia. Liberal land reforms (disentailment under Joseph Bonaparte, 1813 Cortes decrees) begin to restructure property relations without immediate labor-market effects.
+
+__Production & Surplus Capacity:__ Industrial production in Catalonia collapses under French occupation; recovery begins only after 1814. Agricultural surplus disappears into military requisition. The American market for manufactures is lost permanently as colonies achieve independence (1810-1825). Production capacity contracts and does not recover to 1807 levels within the period.
+
+__Storage, Reserves & Buffering:__ Municipal granaries are emptied; treasuries exhausted. British subsidies sustain the war effort; Spanish state finances never recover autonomy. Debt accumulates; reserves remain depleted. The buffer against future shocks disappears.
+
+__Exchange, Trade & Logistics:__ American trade collapses; the colonial monopoly ends permanently. Internal trade disrupts along war-damaged roads. Post-war commerce recovers slowly. Britain gains commercial privileges through wartime alliance, dominating Iberian markets.
+
+__Value Storage, Credit & Deferred Exchange:__ State debt instruments (vales reales) depreciate to near-worthlessness. Credit networks collapse; merchant houses fail. Post-war stabilization attempts falter. Currency instability persists; reliable value storage remains inaccessible outside precious metals and land.
+
+__Surplus Extraction & Redistribution:__ The state loses capacity to extract surplus; multiple authorities compete for revenues. Church property becomes a target: Joseph Bonaparte's disentailment (1809), Cortes decrees (1813), partial restoration (1814-1820), renewed disentailment (1820-1823). Extraction oscillates with regime; the fiscal base never stabilizes.
+
+__Wealth Distribution & Asset Defense:__ War destroys wealth across classes; recovery favors those with surviving land or foreign assets. Disentailment transfers Church and municipal property to purchasers with capital, concentrating ownership. Asset defense depends on regime alignment; property rights remain insecure.
+
+__Byproducts & Waste Routing:__ War debris accumulates; reconstruction is slow. Financial mispricing appears in inflated state debt and depreciated currency, creating persistent distortions.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War disrupts families; male mortality alters inheritance patterns. Liberal reforms challenge mayorazgo (entailment), though implementation varies by regime. Church control over marriage weakens during liberal phases; traditional norms reassert under restoration.
+
+__Association & Mutual Aid:__ Guilds survive the war but face liberal dissolution attempts (1813, 1820). Cofradias continue providing charity amid expanded need. New associational forms — patriotic societies, political clubs — emerge during liberal phases and are suppressed under absolutism.
+
+__Leisure, Play & Sociability:__ War suspends normal festivity; religious observance provides continuity. Post-war recovery restores traditional festivals. The tertulia politicizes during liberal phases, becoming a space for factional discussion. Bullfighting continues as popular spectacle.
+
+__Stratification, Status & Group Structure:__ The traditional hierarchy destabilizes; noble collaboration with France discredits some families. Liberal reforms abolish senorial jurisdiction (1811, 1823, 1837) without eliminating class distinction. A politically active bourgeoisie emerges in commercial centers. The gap between propertied liberals and landless poor widens.
+
+__Administrative Capacity & Institutional Integrity:__ State capacity collapses 1808-1814; competing governments (Joseph Bonaparte, juntas, Cortes, regency) fragment administration. Ferdinand VII's restoration (1814) purges liberal officials. The Trienio Liberal (1820-1823) reinstalls constitutionalists; French intervention restores absolutism. Administrative continuity is absent; institutional integrity deteriorates through regime oscillation.
+
+__Coercive Apparatus & Means of Force:__ The royal army fragments; some units support Joseph, others resist. Guerrilla bands operate independently, later becoming a political liability. British forces under Wellington provide decisive conventional power. Post-war, Ferdinand rebuilds an absolutist army; liberals organize militia (National Militia, 1820). The apparatus divides along political lines; coups (pronunciamientos) become routine.
+
+__Discharge, Disorder & Decay:__ Guerrilla warfare normalizes armed violence; banditry persists post-war. Political repression under Ferdinand VII fills prisons with liberals. The Trienio sees counter-revolutionary rural violence (Royal Volunteers). The apparatus neither contains disorder nor prevents coup attempts. Institutional decay accelerates through repeated regime changes.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The Dos de Mayo uprising (1808) crystallizes popular anti-French sentiment; patriotic fervor sustains guerrilla resistance. Regional identities strengthen through junta governance. Post-war, sentiment polarizes between liberal and absolutist camps. Trust contracts to family and faction; the public fragments into hostile camps.
+
+__Leadership & Personal Authority:__ Ferdinand VII retains symbolic authority as "El Deseado" (the Desired One) during captivity; his restoration (1814) reveals authoritarian character. Liberal leaders (Arguelles, Riego) command factions but lack consensus authority. Charismatic leadership operates through faction, not nation.
+
+__Legitimacy as Lived Allegiance:__ Competing legitimacies collide: Bourbon dynasty, liberal constitution, Napoleonic imposition. Ferdinand's restoration rests on dynastic claim and Church support. Liberal legitimacy derives from the 1812 Constitution's popular sovereignty principle. Neither achieves stable allegiance; legitimacy remains contested throughout.
+
+__Political Will & Collective Resolve:__ Resistance to France demonstrates collective will, but it fragments after victory. Ferdinand's absolutism faces liberal conspiracies; the 1820 Riego pronunciamiento imposes the constitution. French intervention (1823) restores absolutism. Will operates through faction and force rather than institutional channels.
+
+__External Relations & Posture:__ Britain supports the war effort; the alliance shapes post-war commerce. France oscillates from invader (1808) to restorer of absolutism (1823). American colonies achieve independence; Spain loses continental empire. International standing collapses; Spain becomes a secondary power subject to great-power intervention.
+
+__Disaffection, Apathy & Spent Will:__ War exhaustion permeates the population; each regime change produces new exiles and prisoners. Liberal defeat (1814, 1823) generates emigration; absolutist repression breeds conspiracy. By 1833, accumulated disaffection and regime instability leave the political class spent, setting the stage for renewed civil war.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Castilian dominates print; liberal constitutions (1812, 1820) guarantee press freedom in Castilian. Catalan, Basque, and Galician remain oral and domestic. Literacy expands slightly through the period but remains a minority attainment; perhaps 30-35% of males can read by 1833.
+
+__Channels & Transmission Velocity:__ War disrupts postal networks; communication depends on military couriers and smuggled correspondence. Post-war, postal service resumes but coverage remains uneven. Newspaper distribution expands during liberal phases; Madrid papers reach provincial subscribers within days. Velocity improves with restored roads but remains constrained by terrain.
+
+__Record, Storage & Persistence:__ War destroys archives and libraries; the Peninsular War causes significant documentary loss. The Cortes of Cadiz generates voluminous records (Diario de Sesiones). Post-war regimes maintain records selectively; liberal archives face destruction under restoration. Persistence weakens through regime oscillation.
+
+__Framing, Censorship & Discourse Norms:__ The collapse of royal authority (1808) opens uncensored debate; the Cadiz press explodes with over 60 periodicals. The 1812 Constitution guarantees press freedom, abolishes prior censorship, and eliminates the Inquisition. Ferdinand's restoration (1814) reimposed censorship and revived the Inquisition (until 1820). The Trienio restores press freedom (1820-1823). French-backed restoration (1823) imposes severe censorship. Discourse norms oscillate between liberal openness and absolutist control; the permitted band is radically unstable.
+
+__Reception, Attention & Amplification:__ The Cadiz press creates Spain's first mass political readership; newspapers read aloud in cafes and squares amplify literate to illiterate. Pamphlet warfare intensifies; satirical prints circulate. Amplification depends on oral retransmission within politicized urban populations. Rural reception remains limited.
+
+__Signal Integrity & Noise Load:__ Partisan press generates competing accounts; propaganda and rumor proliferate. Verification depends on factional trust. Official gazettes (Gaceta de Madrid) change hands with regimes, losing reliability. Noise load peaks during war and political transitions.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Catholic moral foundations persist but divide: traditionalists support throne and altar, liberals invoke natural rights and constitutionalism. The sense of justice polarizes; each faction perceives the other as illegitimate oppressors. Popular justice remains localized and retributive.
+
+__Law, Codification & Regulatory Evolution:__ The 1812 Constitution codifies liberal principles: national sovereignty, separation of powers, individual rights. Ferdinand VII abrogates it (1814), restores it under duress (1820), and abolishes it again (1823). Legal instability is total; codification advances and retreats with regimes. The Novisima Recopilacion (1805) provides formal continuity amid constitutional flux.
+
+__Adjudication, Liability & Sanction:__ Courts function unevenly; war suspends normal adjudication. Post-war, political justice dominates: liberals imprisoned (1814-1820, 1823-1833), absolutists persecuted (1820-1823). The Inquisition's revival (1814) and re-abolition (1820, definitively 1834) destabilizes religious adjudication. Sanction includes execution, imprisonment, and exile; liability depends on factional power.
+
+__Rights, Protections & Compliance Burden:__ The 1812 Constitution proclaims individual rights; implementation is partial and reversible. Property rights strengthen through disentailment but face counter-reform. Compliance burden shifts with regimes; liberal reforms reduce ecclesiastical and feudal obligations while absolutist restoration reimposed them.
+
+__Impunity & Unredressed Wrong:__ Political violence goes unpunished by successor regimes; each transition amnestizes supporters and prosecutes opponents. Wartime atrocities, guerrilla violence, and political executions leave unredressed grievance on all sides. Impunity accumulates; justice remains factional.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Liberal thought (Locke, Montesquieu, Bentham) informs constitutional drafting. Political economy (Adam Smith) shapes liberal commercial policy. Absolutist counter-theory invokes divine right and Catholic tradition. The paradigm contest between Enlightenment liberalism and Counter-Enlightenment traditionalism structures intellectual life.
+
+__Applied Knowledge & Technical Method:__ War accelerates military technique; guerrilla warfare develops as tactical innovation. Post-war, technical method stagnates; industrial development lags. Applied knowledge serves political ends: liberal reform attempts educational and agrarian modernization; absolutist restoration emphasizes traditional methods.
+
+__Education, Knowledge Stock & Skill Distribution:__ War disrupts education; universities close or operate intermittently. Liberal reforms plan educational expansion (1812 Constitution mandates primary schools) without full implementation. Absolutist restoration purges liberal faculty. The knowledge stock contracts through exile and suppression; skill distribution stagnates.
+
+__Obsolescence & Knowledge Decay:__ The rupture of transmission through war, exile, and purge accelerates knowledge decay. Libraries lost, faculty exiled, and institutional discontinuity erode the Enlightenment inheritance. Some recovery occurs during liberal phases, but accumulated losses persist.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The War of Independence (as the Peninsular War is known in Spain) becomes foundational national memory: popular resistance, patriotic sacrifice, the defense of faith and fatherland. This mythos serves both liberal nationalism (the people rose for liberty) and conservative traditionalism (the people rose for king and altar). Regional identities strengthen through junta governance but do not yet produce separatist movements.
+
+__Legitimating Narrative & Ideology:__ Competing narratives contest legitimacy: liberal constitutionalism claims popular sovereignty and progress; absolutism claims divine right, Catholic orthodoxy, and traditional order. Each regime change produces new legitimating discourse; stability eludes both frameworks.
+
+__Artistic Expression & Material Culture:__ Goya's war etchings (Los Desastres de la Guerra, created 1810-1820, published 1863) define the period's visual culture: brutal, unsparing, politically ambiguous. Neoclassical official style continues in public buildings. Print culture shifts from Enlightenment journals to partisan newspapers and pamphlets. Material culture shows wartime scarcity; post-war recovery is uneven.
+
+__Form Exhaustion & Meaning Decay:__ The Enlightenment synthesis exhausts itself in political polarization; neither liberal nor absolutist culture generates new forms adequate to the crisis. Religious ceremony persists but loses persuasive power among liberals. National symbols (the 1812 Constitution, the monarchy) carry contested rather than unifying meaning. Cultural production fragments into partisan camps; shared meaning decays.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology remains the dominant framework but divides politically: traditionalists see the revolution as satanic, liberals as providential progress. Fatalism coexists with revolutionary hope. The existential outlook darkens through repeated defeat and restoration; neither camp achieves secure victory.
+
+__Ritual, Devotion & Sacred Practice:__ Mass attendance and feast-day observance continue; the Church mobilizes ritual against liberalism. Liberal anticlericalism emerges in urban centers; church property becomes a political target. Popular devotion persists but politicizes; religious practice marks factional allegiance.
+
+__Religious Institutions & Doctrinal Authority:__ The Church allies firmly with absolutism; bishops denounce liberalism as heresy. Liberal regimes target Church property (disentailment) and institutional privileges. The Inquisition's abolition (1813, 1820, definitively 1834) removes the doctrinal enforcement mechanism. Institutional authority weakens through political contestation; the Church becomes a partisan actor rather than universal arbiter.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism faces no external competitor; the contest is internal between traditionalist and liberal interpretations. Protestant presence remains negligible. The cosmology does not diffuse outward but contracts in reach as liberal secularism claims educated elites.
+
+__Disenchantment & Sacred Discharge:__ Liberal anticlericalism advances disenchantment among the educated; the sacred loses authority over political and intellectual life in liberal circles. Traditionalist reaction intensifies popular piety as counter-statement. The spiritual field polarizes: disenchantment among liberals, re-enchantment among traditionalists. Neither resolution stabilizes; the spiritual discharge remains unresolved, feeding the political conflict that erupts as the Carlist War upon Ferdinand's death in 1833.

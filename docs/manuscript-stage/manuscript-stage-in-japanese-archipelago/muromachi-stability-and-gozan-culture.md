@@ -1,69 +1,139 @@
-# __1392 CE – 1467 CE__ — Muromachi Stability and Gozan Culture
-__Summary:__ A seventy-five-year interval of relative political equilibrium follows court reunification under Ashikaga mediation; the binding constraint is the fragile balance between shogunal authority and increasingly autonomous shugo lords; margins against renewed fragmentation narrow as shogunal power wanes after Yoshimitsu's peak; the trend moves toward commercial expansion, Zen-centered cultural efflorescence, and the slow erosion of central control that culminates in the Onin War.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The mountainous archipelago continues to fragment political control into regional domains; Kyoto basin serves as the cultural and administrative center; coastal and riverine corridors support trade while interior highlands limit rapid military movement.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon climate persists with seasonal typhoons and variable precipitation; no major secular climatic shift characterizes the window; occasional drought and flood years stress regional harvests.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity remains chronic; localized earthquakes and volcanic events affect specific regions; no catastrophic archipelago-wide disaster defines the period; exposure persists at background levels.<br><br>
-__Resource & Energy Endowment:__ Forested uplands supply timber and charcoal; iron sand supports metallurgy; arable valleys sustain paddy agriculture; mineral and biomass stocks adequate for preindustrial demand.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and artisanal byproducts disperse across watersheds and forested hinterlands; absorptive capacity far exceeds modest preindustrial waste loads.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic smallpox, measles, and dysentery circulate; epidemic mortality remains within historical fluctuation; no catastrophic pandemic defines the window.<br><br>
-__Nutrition & Physiological Vitality:__ Rice, millet, vegetables, and fish sustain the population; commercial distribution improves provisioning in urban and market centers; nutritional adequacy stable or slightly improving.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal inheritance and arranged marriage govern elite unions; commoner pairing follows local custom; biological fertility stable.<br><br>
-__Demographic Renewal & Density:__ Population grows modestly; replacement positive in most provinces; density highest in Kinai core and commercial port towns; urbanization advances slowly.<br><br>
-__Attrition & Dependency Overhang:__ Peacetime conditions reduce war-generated dependency; temple networks and village mutual aid absorb orphans, widows, and infirm; dependency load manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Paddy rice and dry-field crops provide the subsistence base; commercial networks supplement household production; provisioning floor stable with modest improvement in market-connected areas.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle, water-powered milling, and charcoal combustion power production; per-capita work ceiling remains modest; incremental efficiency gains in agriculture and craft production.<br><br>
-__Labor Organization & Coercion:__ Peasant cultivators pay dues to layered proprietors; corvee obligations persist but enforcement varies; wage labor appears in urban crafts and commerce; outright slavery rare.<br><br>
-__Production & Surplus Capacity:__ Agricultural output sustains warrior households, court elites, and expanding commercial sector; surplus flows through estate networks and emerging market channels; productive capacity grows with land reclamation and improved techniques.<br><br>
-__Storage, Reserves & Buffering:__ Granaries, merchant warehouses, and temple storehouses hold reserves; buffer depth adequate for typical harvest fluctuations; Ming trade goods supplement domestic stocks.<br><br>
-__Exchange, Trade & Logistics:__ Ming tally trade brings Chinese copper cash, silk, and ceramics; domestic markets expand in Kyoto, Sakai, and Hakata; guilds (za) coordinate specialized production and distribution; road and coastal shipping networks develop.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Chinese copper coinage circulates widely as medium of exchange; rice and silk retain value-storage function; money-lending (dosomaru, sake brewers) provides credit; commercial paper emerges in major centers.<br><br>
-__Surplus Extraction & Redistribution:__ Shogunate and shugo lords extract dues from estates and commercial levies; tansen and other imposts fund shogunal administration; extraction contested but regularized compared to civil war era.<br><br>
-__Wealth Distribution & Asset Defense:__ Shugo lords, warrior houses, merchants, and temple institutions accumulate wealth; concentration grows among successful commercial and military actors; documentary proof and military backing defend assets.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residues recycled as fuel and fertilizer; urban waste accumulates in Kyoto but dispersal capacity remains adequate; craft byproducts localized and manageable.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship, village, and temple networks sustain mutual aid; commercial expansion extends trust networks among merchants and guild members; interpersonal confidence stable.<br><br>
-__Stratification, Status & Group Identity:__ Court aristocrats retain ceremonial precedence; warrior (bushi) status dominant; merchant and artisan strata gain visibility; clergy maintain institutional position; boundaries permeable for commercially or militarily successful actors.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance consolidates among warriors; merchant houses develop succession practices; marriage alliances cement political and commercial coalitions.<br><br>
-__Civic Association & Self-Organization:__ Guilds (za), village assemblies (so), and neighborhood associations coordinate production, defense, and local governance; Sakai merchants achieve notable self-governance.<br><br>
-__Leisure, Play & Sociability:__ Tea gatherings, poetry sessions, Noh performances, and dengaku festivals structure elite sociability; commoner festivals and temple observances continue; leisure expands with commercial prosperity.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning bakufu or shugo offers formal redress; tokusei (debt cancellation) edicts periodically discharge debtor grievances; ikki leagues mobilize where formal channels fail; residual friction accumulates but manageable during stability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Ashikaga shogunate governs from Kyoto with authority resting on shugo coalition support; Yoshimitsu (r. 1368-1394, d. 1408) achieves peak centralization; successors preside over gradual devolution; shugo lords wield substantial provincial power.<br><br>
-__Succession & Power Transfer:__ Shogunal succession passes within Ashikaga house but increasingly contested; shugo succession sometimes disputed; transfer routinized under strong shoguns, flashpoint under weak ones.<br><br>
-__Legitimacy & Political Narrative:__ Court reunification legitimates Ashikaga rule; shogunal patronage of culture reinforces authority; imperial institution reduced to ceremonial validation; legitimacy narrative stable but shallow.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bakufu organs (mandokoro, samurai-dokoro, monchusho) administer justice, finance, and military affairs; capacity adequate under strong shoguns; shugo administration parallels shogunal machinery in provinces; corruption increases as authority wanes.<br><br>
-__Political Participation & Mobilization:__ Warrior coalitions operate through lord-vassal networks; merchant and guild representatives negotiate with authorities; commoner ikki remain latent but can mobilize; participation constrained within hierarchical channels.<br><br>
-__Geopolitical Position & External Relations:__ Yoshimitsu accepts Ming investiture as "King of Japan" (1402) to secure tally trade privileges; wako piracy continues but partially regulated; no foreign invasion threatens; diplomatic relations stable with Ming China and Joseon Korea.<br><br>
-__Coercive Apparatus & Means of Force:__ Mounted archery, infantry with polearms and swords, and fortified residences constitute military apparatus; shugo command provincial forces; shogunal guard forces limited; monopoly on violence dispersed among warrior houses.<br><br>
-__Internal Order & Threat Environment:__ Civil order improves relative to Nanbokucho era; banditry and local disputes persist but within enforcement capacity; margins adequate during window but narrow as shogunal authority erodes.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Manuscript letters and official documents circulate via courier networks; Gozan monks transmit Chinese learning; information reaches elites within days to weeks across provinces; commercial networks accelerate mercantile information flow.<br><br>
-__Record, Storage & Persistence:__ Shogunal archives, court records, temple libraries, and merchant ledgers preserve information; Gozan monasteries function as centers of learning and documentary preservation; persistence dependent on institutional continuity.<br><br>
-__Framing, Censorship & Discourse Norms:__ Shogunal pronouncements frame political discourse; Zen and courtly literary conventions govern elite expression; no systematic censorship; discourse norms emphasize refinement and restraint.<br><br>
-__Reception, Attention & Amplification:__ Literate elites and clergy receive written communications; Noh performances and temple preaching extend narrative reach; commercial networks amplify trade-relevant information among merchant strata.<br><br>
-__Signal Integrity & Noise Load:__ Document verification through seals and signatures maintains integrity; competing claims less acute than Nanbokucho era; signal-to-noise ratio improves under unified court system.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Buddhist karmic logic, Confucian hierarchy, and warrior honor codes underpin moral expectations; justice conceived as maintenance of proper order and fulfillment of obligations.<br><br>
-__Law, Codification & Regulatory Evolution:__ Goseibai Shikimoku remains foundational; shogunal legislation accumulates through case precedent; provincial shugo issue local regulations; codification fragmented but functional.<br><br>
-__Adjudication, Enforcement & Liability:__ Bakufu tribunals adjudicate warrior and commercial disputes; shugo courts handle provincial cases; enforcement depends on shogunal and shugo military backing; liability assignment regularized within jurisdictions.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights rest on documentary proof and military backing; commercial contracts gain enforceability; compliance burden moderate under stable governance.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful shugo sometimes evade shogunal judgment; commoner grievances addressed through tokusei edicts but underlying debt structures regenerate; impunity present but constrained during stability.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Gozan Zen monasteries foster Chinese Neo-Confucian study, poetry, and historiography; Buddhist scholasticism continues; inquiry remains within received traditions; active frontier in literary and philological refinement.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural techniques, metallurgy, construction, and craft production transmit through apprenticeship and guild practice; incremental refinement in ceramics, textiles, and papermaking.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Gozan monasteries serve as educational centers; warrior and aristocratic house tutoring continues; literacy concentrated among clergy, aristocrats, upper warriors, and emerging merchant strata; commoner literacy rare but expanding in commercial centers.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier court learning preserved and transmitted; some administrative expertise consolidated; decay minimal during stability; knowledge stock grows modestly through Chinese imports and domestic production.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Imperial ancestry myths, warrior genealogies, and Buddhist cosmology anchor collective identity; Nanbokucho schism recedes into historical memory; Ashikaga patronage shapes elite cultural identity.<br><br>
-__Artistic Expression & Material Culture:__ Kitayama and Higashiyama culture flourish under shogunal patronage; Noh drama (Zeami) codified; ink painting, garden design, tea ceremony, and flower arrangement develop; Kinkakuji and Ginkakuji exemplify architectural aesthetics; Zen-influenced restraint characterizes elite taste.<br><br>
-__Collective Mood & Behavioral Disposition:__ Relative stability permits cultural confidence among elites; appreciation of refined beauty (yugen, wabi) coexists with awareness of impermanence; mood cautiously optimistic during peak, darkening as instability approaches.<br><br>
-__Form Exhaustion & Meaning Decay:__ Court ritual attenuated but preserved; Noh and tea ceremony vital and evolving; form exhaustion minimal during cultural efflorescence; renewal through Zen-influenced aesthetic innovation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Buddhist impermanence (mujo) and karmic causation frame existential understanding; Zen emphasis on direct insight gains elite adherents; divine ancestry legitimates imperial institution; cosmology stable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Zen meditation, Pure Land nembutsu, esoteric rites, and Shinto observances coexist; tea ceremony acquires quasi-spiritual dimension; devotional practice routinized and vital.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Gozan Zen monasteries flourish under Ashikaga patronage; major temples retain landholdings and institutional power; doctrinal authority stable within sectarian hierarchies; shogunal favor enhances Zen institutional prominence.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Zen influence spreads among warrior and merchant elites; Pure Land devotion continues among commoners; honji suijaku syncretism integrates Buddhist and Shinto frameworks; no major displacement or doctrinal rupture.<br><br>
-__Disenchantment & Sacred Discharge:__ Sacred frameworks remain operative and vital; existential needs channeled through Buddhist soteriology, Zen practice, and Shinto observance; disenchantment negligible as cosmology retains explanatory and experiential grip.<br><br>
+# __1392 CE – 1467 CE — Muromachi Stability and Gozan Culture__
+
+__Summary:__ The reunification of the imperial courts under Ashikaga Yoshimitsu initiates a period of relative political stability, enabling the flourishing of Gozan Zen scholarship and Chinese-influenced high culture; the binding constraint is the shogunate's dependence on balancing powerful regional lords (shugo) whose autonomy steadily increases, while manuscript culture achieves its most refined Sinitic expression in the Kyoto monasteries before provincial fragmentation begins.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's mountainous terrain continues to define regional separation. Kyoto in the Kinai plain regains uncontested status as the capital; the shogunal palace in the Muromachi district gives the era its name. Provincial domains consolidate under shugo governors. Maritime routes to Ming China and Korea facilitate official trade (tally trade) and cultural exchange.
+
+__Climate Regime & Volatility:__ Climate deteriorates from medieval warmth toward cooler, more variable conditions. The 15th century sees increased drought and flood frequency. Agricultural productivity fluctuates; marginal lands face abandonment in poor years.
+
+__Hazard Regime & Exposure:__ Endemic seismic and volcanic hazards persist. Typhoons damage coastal regions annually. Urban fires strike Kyoto repeatedly; wooden construction ensures rapid rebuilding and repeated loss. The Kanshō famine (1460–1461) demonstrates vulnerability to multi-year harvest failure.
+
+__Resource & Energy Endowment:__ Agricultural land remains the primary resource; provincial mines yield copper, silver, and gold for coinage and export. Forest reserves supply construction and fuel. Domestic paper manufacture supports extensive manuscript production. Chinese goods arrive through official and unofficial trade.
+
+__Waste Absorption & Sink Capacity:__ Urban waste accumulates in Kyoto; sanitation remains rudimentary. Deforestation around the capital continues for fuel and construction. Sink capacity absorbs loads without crisis, but degradation is cumulative.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases persist; plague and epidemic illness strike intermittently. Mortality remains high by modern standards. The Kanshō famine increases death rates substantially; corpses reportedly line Kyoto streets.
+
+__Nutrition & Physiological Vitality:__ Rice-based diet supplemented by vegetables, fish, and preserved foods sustains the population in normal years. Elite consumption is more varied. Famine years expose nutritional vulnerability; the 1460–1461 crisis demonstrates population fragility.
+
+__Care, Healing & Recovery Capacity:__ Buddhist temples provide care and shelter. Herbalism and folk medicine predominate; no systematic medical infrastructure exists. Healing capacity concentrates around monasteries and wealthy households.
+
+__Reproductive Biology & Pairing Dynamics:__ Elite marriage continues to serve political alliance. Warrior households (ie) emphasize lineage continuity. Commoner marriage follows village patterns. Reproductive rates sufficient for population maintenance in stable years.
+
+__Demographic Renewal & Density:__ Population recovers from Nanbokucho disruption in early decades; growth resumes modestly. Kyoto maintains substantial urban population. The Kanshō famine and subsequent decades of instability reverse gains in affected areas.
+
+__Attrition & Dependency Overhang:__ Famine and epidemic leave orphans and destitute; temples absorb some dependents. The dependency load strains but does not break the productive base.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Wet-rice agriculture provides the subsistence base; regional variation in productivity creates uneven security. Normal years produce adequate surplus; consecutive bad harvests generate acute shortage, as the Kanshō famine demonstrates.
+
+__Energy Capture & Conversion:__ Human and animal labor remain primary; water mills increase in rice-processing regions. Wood and charcoal supply heat for metallurgy and domestic use. The agrarian energy ceiling persists unchanged.
+
+__Labor Organization & Coercion:__ Estate (shoen) labor arrangements continue to fragment as shugo consolidate provincial power. Corvee persists; peasant obligations shift among competing overlords. Artisan guilds (za) under temple and noble patronage organize specialized production.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports shogunal government, temples, and provincial lords. Manufacturing of silk, ceramics, lacquer, and metalwork achieves high refinement. Kyoto artisans produce luxury goods for elite consumption.
+
+__Storage, Reserves & Buffering:__ Granaries at estates and temples buffer normal variation. The Kanshō famine exposes inadequate reserves against multi-year failure. Shogunal and provincial treasuries remain limited; no centralized fiscal capacity operates.
+
+__Exchange, Trade & Logistics:__ Internal commerce expands through provincial markets and along maritime routes. The tally trade (kangō bōeki) with Ming China brings Chinese goods, copper coins, and cultural artifacts. Kyoto and Sakai emerge as commercial centers. Merchant guilds gain economic power.
+
+__Value Storage, Credit & Deferred Exchange:__ Ming copper coins dominate currency; rice and silk serve as secondary value stores. Credit arrangements through merchant houses and moneylenders (sake brewers acting as pawnbrokers) expand. Land rights remain the primary durable asset.
+
+__Surplus Extraction & Redistribution:__ The shogunate extracts revenue through control of trade licenses, sake brewing taxes, and provincial levies. Shugo claim provincial surplus. Redistribution flows to temples, retainers, and cultural patronage. Extraction is fragmented; the shogunate's fiscal base remains narrow.
+
+__Wealth Distribution & Asset Defense:__ Land concentration under shugo and temple estates continues. Merchant wealth grows in commercial centers. Kyoto aristocrats retain cultural capital while losing material base. Inequality is pronounced; asset defense depends on political connection.
+
+__Byproducts & Waste Routing:__ Manufacturing and agricultural waste disperses locally. Urban waste accumulates without systematic removal. No crisis emerges from waste loads.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Warrior households consolidate through primogeniture, though succession disputes persist. Marriage alliances among shugo houses shape political alignments. Imperial and noble houses maintain lineage despite material decline.
+
+__Association & Mutual Aid:__ Village communities (mura) gain autonomy and self-governance capacity as estate authority fragments. Peasant leagues (ikki) organize for collective action. Artisan and merchant guilds provide mutual support. Buddhist confraternities sustain religious solidarity.
+
+__Leisure, Play & Sociability:__ Elite leisure centers on tea gatherings, poetry composition, and Noh performance. Festivals and religious observances structure communal time. The Gion festival in Kyoto demonstrates urban sociability despite political uncertainty.
+
+__Stratification, Status & Group Structure:__ The tripartite division of warriors (bushi), court nobles (kuge), and clergy persists, with warriors dominant. Shugo governors form an upper tier of warrior elite; their deputies (shugodai) and retainers form lower ranks. Commoner stratification follows occupation and residence.
+
+__Administrative Capacity & Institutional Integrity:__ The Ashikaga shogunate governs through personal relationships with shugo lords rather than bureaucratic apparatus. Yoshimitsu (d. 1408) and Yoshimochi (d. 1428) exercise effective authority; subsequent shoguns face increasing shugo independence. Provincial administration rests with shugo and their deputies. Central institutional capacity is weak; governance depends on balance-of-power management.
+
+__Coercive Apparatus & Means of Force:__ Warrior forces organize around shugo households and their retainer networks. The shogunate lacks independent military capacity; it relies on shugo loyalty. Fortified residences and provincial castles multiply. Armed monks at major temples retain military capacity.
+
+__Discharge, Disorder & Decay:__ Inter-shugo conflict simmers beneath surface stability. Peasant uprisings (tsuchi-ikki) demanding debt cancellation occur from 1428. Banditry persists in peripheral areas. The 1441 Kakitsu Incident (assassination of Shogun Yoshinori) demonstrates elite violence. Disorder is contained but structural tensions accumulate toward the Onin War.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Surface stability enables cultural refinement while underlying anxiety persists. Elite circles cultivate aesthetic sensitivity; commoners endure taxation and occasional hardship with resignation. Trust extends within patronage networks; broader social trust remains thin. The Kanshō famine and subsequent unrest darken the mood in the 1460s.
+
+__Leadership & Personal Authority:__ Yoshimitsu (r. 1368–1394, d. 1408) establishes strong personal rule; his successors exercise diminishing authority. Yoshinori (r. 1429–1441) attempts reassertion but is assassinated. Leadership depends on managing shugo rivalries. Zen abbots command spiritual authority and cultural influence.
+
+__Legitimacy as Lived Allegiance:__ The reunified imperial house commands symbolic legitimacy; actual governance lies with the shogunate. Shogunal legitimacy derives from imperial appointment and demonstrated ability to maintain order. As shogunal authority weakens, allegiance fragments toward regional lords. Legitimacy thins but does not collapse before 1467.
+
+__Political Will & Collective Resolve:__ Early shoguns demonstrate will to govern; later shoguns face increasing constraints. Shugo pursue autonomous ambitions while formally acknowledging shogunal authority. Collective will for central governance weakens across the period.
+
+__External Relations & Posture:__ Yoshimitsu establishes formal tributary relations with Ming China (1401), accepting the title "King of Japan" — controversial among some Japanese. The tally trade brings economic benefit and cultural prestige. Relations with Korea remain distant. Japanese pirates (wako) continue raiding, complicating diplomacy.
+
+__Disaffection, Apathy & Spent Will:__ Commoner grievance finds expression in debt-cancellation uprisings. Elite factionalism intensifies as shogunal authority weakens. By the 1460s, succession disputes among shugo and within the shogunal house generate crisis. Disaffection accumulates toward the Onin War outbreak in 1467.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Written Japanese (kanji-kana mixed script) and literary Chinese (kanbun) serve literate elites. Gozan monasteries maintain high standards of Chinese scholarship. Literacy spreads among warriors, merchants, and some commoners. Village administrative documents indicate functional literacy beyond elite circles.
+
+__Channels & Transmission Velocity:__ Messengers and traveling monks carry information. Maritime routes connect Kyoto to western Japan and Ming China. The tally trade missions bring books and scholars. Information travels in days to weeks across the archipelago.
+
+__Record, Storage & Persistence:__ Gozan monasteries accumulate extensive Chinese and Japanese collections; Ashikaga patrons build library collections. Temple archives preserve sutras, commentaries, and literary texts. Shogunal and shugo households maintain administrative and genealogical records. The manuscript record achieves substantial depth and persistence.
+
+__Framing, Censorship & Discourse Norms:__ Gozan literary culture emphasizes Chinese classical models; kanbun style dominates elite scholarship. Vernacular literature (waka, linked verse) continues parallel development. No formal censorship operates; discourse norms follow patronage relationships and genre conventions.
+
+__Reception, Attention & Amplification:__ Literate elites consume Chinese classics, Buddhist texts, and Japanese literary works. Poetry gatherings and tea ceremonies serve as venues for cultural circulation. Noh performance reaches broader audiences. Gozan scholarship radiates influence through trained monks.
+
+__Signal Integrity & Noise Load:__ Manuscript copying introduces errors; collation and editorial work address textual corruption. Gozan scholars establish careful textual standards for Chinese classics. Political noise from competing factions does not corrupt the cultural record. Signal integrity remains reasonably high within educated circles.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Buddhist karma and Confucian hierarchy provide moral frameworks. Warrior codes emphasizing loyalty coexist with pragmatic treachery. Peasant uprisings appeal to notions of just relief from debt. The Confucian virtue-centered ideal gains currency through Gozan scholarship.
+
+__Law, Codification & Regulatory Evolution:__ The Kamakura-era Goseibai Shikimoku remains foundational for warrior law. Shogunal decrees (tokusei edicts) respond to crisis, including debt-cancellation orders following uprisings. Shugo issue provincial regulations. Legal codification advances piecemeal.
+
+__Adjudication, Liability & Sanction:__ Shogunal courts adjudicate disputes among warriors and between warriors and temples. Shugo exercise provincial justice. Temple courts handle ecclesiastical matters. Adjudication favors the powerful; peasant grievances find limited legal recourse, driving resort to collective action.
+
+__Rights, Protections & Compliance Burden:__ Landholding rights remain contested and defended by force or patronage. Temple sanctuary provides some protection. Commoner rights are thin; the burden of compliance with taxation and labor demands falls heavily on peasants.
+
+__Impunity & Unredressed Wrong:__ Elite violence, including the assassination of Shogun Yoshinori, demonstrates impunity for powerful factions. Peasant grievances accumulate; periodic debt-cancellation edicts provide partial relief but structural injustice persists. Impunity is systemic; redress depends on power.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Gozan Zen scholarship reaches its apogee, producing studies of Chinese classics, Buddhist philosophy, and literary composition. Neo-Confucian texts from Song and Yuan China receive systematic attention. Shinto thought develops in reaction to Buddhist dominance, prefiguring later Shinto-Confucian synthesis.
+
+__Applied Knowledge & Technical Method:__ Agricultural techniques continue incremental improvement. Metallurgy advances for weapon and tool production. Ceramic, lacquer, and textile crafts achieve high refinement. Tea preparation and garden design develop toward codified aesthetic practice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Gozan monasteries function as educational centers, training monks in Chinese classics, calligraphy, poetry composition, and Buddhist doctrine. Temple schools extend basic literacy to some commoners. Warrior households educate sons in martial and administrative arts. The knowledge stock deepens through sustained manuscript accumulation.
+
+__Obsolescence & Knowledge Decay:__ Older Heian court practices continue to attenuate as material support declines further. Some esoteric Buddhist lineages thin. Chinese learning is actively renewed through Gozan scholarship and trade-mission contacts; the knowledge base expands rather than decays overall.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The imperial institution anchors Japanese identity; the shogunate legitimates itself as imperial servant. Warrior valor and aesthetic refinement combine in elite identity. The Genpei war memory persists as foundational martial mythos; Nanbokucho conflict adds recent drama.
+
+__Legitimating Narrative & Ideology:__ The Ashikaga present themselves as restorers of imperial unity and patrons of culture. Zen Buddhism provides ideological framework for warrior cultivation. Confucian loyalty and hierarchy reinforce social order. The tally trade relationship with Ming China confers international prestige.
+
+__Artistic Expression & Material Culture:__ Gozan culture achieves peak refinement: ink painting (suiboku-ga) following Song and Yuan models, shoin-style architecture, dry landscape gardens (karesansui), and tea aesthetics under Zen influence. Noh drama reaches codified form under Zeami's theoretical elaboration. Calligraphy maintains high value; manuscript production emphasizes aesthetic quality alongside textual content.
+
+__Form Exhaustion & Meaning Decay:__ Heian court forms continue to hollow; classical waka persists in diminished vitality. New cultural forms (tea ceremony, Noh, ink painting) fill expressive needs. Chinese models dominate elite culture, raising questions of derivative relationship. By mid-century, accumulated political tension strains cultural confidence.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Buddhist cosmology frames existence; the world is suffering to be transcended or endured with equanimity. Zen emphasizes direct insight; Pure Land promises salvation through faith. Confucian moral cosmology gains currency alongside Buddhist metaphysics. Shinto kami provide local sacred presence within syncretic frameworks.
+
+__Ritual, Devotion & Sacred Practice:__ Buddhist ritual continues at temples across the archipelago. Zen meditation disciplines shape warrior self-cultivation. Pure Land nenbutsu practice sustains popular devotion. Shinto rites maintain shrine observance. Tea gatherings acquire quasi-religious aesthetic discipline.
+
+__Religious Institutions & Doctrinal Authority:__ Gozan monasteries receive peak shogunal patronage under Yoshimitsu and successors; Five Mountains system organizes Zen hierarchy. Major temples (Enryaku-ji, Kofuku-ji) retain wealth and political influence. Temple-state relations are close; Zen monks serve as diplomatic agents and cultural advisors.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Zen Buddhism consolidates under warrior patronage; Pure Land and Nichiren schools maintain popular followings. Shinto-Buddhist syncretism remains normative. Yoshida Shinto develops, prefiguring later separation claims. Christian contact lies in the future; the spiritual field remains internally Japanese-Buddhist.
+
+__Disenchantment & Sacred Discharge:__ The mappo consciousness persists as background disenchantment with worldly prospects. Yet elite aesthetic-religious cultivation flourishes precisely in response — Zen practice, Pure Land faith, artistic refinement as spiritual discipline. The sacred remains potent; disenchantment coexists with intensified religious engagement. As political order frays toward 1467, spiritual resources face the test of renewed disorder.

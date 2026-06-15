@@ -1,69 +1,140 @@
-# __3000 BCE – 1800 BCE__ — Yamnaya Horizon and Bronze Age Expansion
-__Summary:__ A twelve-century trend in which wagon-based pastoral nomadism crystallizes across the Pontic-Caspian steppe and radiates outward; the binding constraint is access to metal, pasture, and the new mobility package (horse, wagon, cattle) that unlocks it; the system holds substantial margin against drought through movement, and the direction is outward demographic expansion carrying genes, language, and material culture from the steppe core into both Europe and Central Asia.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Pontic-Caspian steppe forms a flat, open corridor from the Carpathians to the Urals, crossed by major rivers (Dnieper, Don, Volga, Ural) that provide water and fish but pose seasonal crossing friction; grassland extends east into Kazakhstan and the Altai, enabling long-distance movement with minimal topographic resistance.<br><br>
-__Climate Regime & Volatility:__ Continental climate with cold winters, hot summers, and limited but adequate rainfall for grassland; interannual variability is moderate; no pronounced secular drift across the window — conditions remain broadly stable and suitable for pastoral exploitation.<br><br>
-__Hazard Regime & Exposure:__ Exposure to drought and harsh winters represents the primary hazard; flood risk along river valleys is seasonal and manageable; wildfire affects grassland but regeneration is rapid; overall hazard load is low relative to the mobile subsistence base, which can relocate.<br><br>
-__Resource & Energy Endowment:__ Grassland biomass is the primary resource; copper ores in the Caucasus and Urals, tin sources more distant; wood is scarce on the open steppe, necessitating reliance on dung and bone fuel; the endowment supports pastoralism but constrains fixed settlement and intensive metallurgy.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density is low, pastoral waste is dispersed across vast pastures, and no evidence of localized degradation appears; absorptive capacity is effectively unlimited for the period's load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden is low given low population density and mobile settlement; plague reservoirs exist among steppe rodents but major epidemics are not attested for this window; mortality is dominated by accident, violence, and infant loss rather than epidemic disease.<br><br>
-__Nutrition & Physiological Vitality:__ Skeletal evidence from kurgan burials indicates robust stature; diet centers on dairy, meat, and some gathered plants; protein sufficiency is high; physiological condition appears favorable compared to contemporary agricultural populations.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilocal, polygynous household structure is inferred from burial patterns showing high-status males with multiple females; reproductive output favors elite lineages; female mobility (exogamy) indicated by isotopic studies.<br><br>
-__Demographic Renewal & Density:__ Population grows across the window, enabling the migrations; density remains low but sufficient for sustained expansion; age structure is young; genetic evidence shows rapid demographic turnover as Yamnaya ancestry replaces earlier populations in Europe and the Altai.<br><br>
-__Attrition & Dependency Overhang:__ Short lifespans concentrate mortality in childhood and early adulthood; dependency load is moderate; the mobile pastoral lifestyle limits the capacity to sustain long-term invalids, but kin-based pooling absorbs normal attrition.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Pastoralism centered on cattle, sheep, goats, and horses provides the provisioning base; dairy is critical (lactase persistence alleles rise); supplemented by hunting, fishing, and limited gathered plants; the floor is adequate with margin against single-season failure through herd reserves and mobility.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominate; the wagon drawn by oxen or horses enables transport of households, goods, and tents; fire fueled by dung and scarce wood; per-capita work ceiling is modest but sufficient for the low-density pastoral mode.<br><br>
-__Labor Organization & Coercion:__ Household-based labor; no evidence of slavery at scale, though captive-taking likely occurs in raiding; labor is cooperative within kin groups; gender division places herding on males, dairy processing on females.<br><br>
-__Production & Surplus Capacity:__ Surplus takes the form of livestock accumulation; metallurgical production (copper, arsenical bronze) is a specialist activity concentrated near ore sources; surplus is portable and visible in elite grave goods.<br><br>
-__Storage, Reserves & Buffering:__ Herds are the primary reserve; grain storage is minimal given low cultivation; the wagon-based lifestyle limits bulk storage but allows moving to fresh pastures when local resources are depleted.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks move metals, prestige goods, and possibly livestock; obsidian and copper artifacts from Caucasus appear across the steppe; wagons provide logistical backbone for moving goods; no formal markets, but gift exchange and redistribution operate.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Livestock serves as the primary store of value; cattle-based bride-price and blood-price systems are inferred from later Indo-European parallels; no coinage or monetary abstraction; reciprocal obligations bind kin and alliance networks.<br><br>
-__Surplus Extraction & Redistribution:__ Elites accumulate surplus visible in kurgan grave goods (metal weapons, wagons, animal sacrifices); redistribution occurs through feasting and bride-exchange; no centralized taxation, but tribute flows to dominant lineages.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrates in elite male burials with weapons, wagons, and sacrificed animals; stratification is evident but not extreme; asset defense relies on kin solidarity, mobility, and personal arms.<br><br>
-__Byproducts & Waste Routing:__ Organic waste (dung, bone, hide scraps) is dispersed or recycled; metalworking slag is localized near production sites; overall waste volume is negligible relative to landscape capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends through kin and fictive-kin networks; mutual aid is obligatory within clan structures; hospitality norms toward travelers are inferred from later Indo-European parallels; beyond the kin group, relations are competitive or hostile.<br><br>
-__Stratification, Status & Group Identity:__ Burial evidence shows clear elite-commoner distinction; elite males receive elaborate kurgans with weapons, wagons, and sacrificed animals and humans; lineage identity organizes social belonging; ethnic boundaries are fluid but real.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent; patrilocal residence; inheritance passes through male lines; polygyny for high-status males; women move between groups at marriage, creating alliance networks.<br><br>
-__Civic Association & Self-Organization:__ Band and clan structures coordinate grazing rights, migration routes, and collective defense; no civic institutions beyond kinship; councils of elders likely adjudicate disputes.<br><br>
-__Leisure, Play & Sociability:__ Feasting at funerals and seasonal gatherings is attested by faunal remains; musical instruments (bone flutes) occur in earlier contexts and likely continue; horse racing and martial display are plausible given later continuities.<br><br>
-__Grievance Channels & Social Discharge:__ Feud and blood-price mechanisms handle interpersonal violence; migration provides exit option for disaffected groups; no formal grievance institutions; unresolved feuds may escalate but overall social friction is absorbed by dispersal.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Decentralized chieftaincy; authority rests with lineage heads who control herds and can mobilize kin for raiding or defense; no state-level organization; power is personal, charismatic, and validated by success in war and wealth accumulation.<br><br>
-__Succession & Power Transfer:__ Likely patrilineal inheritance of chieftaincy, but contested among male heirs; succession is a recurrent flashpoint within elite lineages; unsuccessful claimants may split off with followers.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimized by descent, martial prowess, and ritual leadership; oral genealogies and heroic narratives (not preserved but inferred from later Indo-European tradition) validate elite status.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination occurs through kinship and personal obligation; record-keeping is absent; information flows through oral channels only.<br><br>
-__Political Participation & Mobilization:__ Free adult males participate in war bands and likely in councils; mobilization is rapid for raiding but difficult to sustain for prolonged campaigns; women and dependents are politically marginal.<br><br>
-__Geopolitical Position & External Relations:__ The steppe populations expand outward: westward migrations transform European Corded Ware populations; eastward migration establishes Afanasievo in the Altai and Mongolia; contacts with Caucasian metallurgical centers provide metal supply; no peer competitors constrain expansion.<br><br>
-__Coercive Apparatus & Means of Force:__ War bands organized by kinship; weaponry includes copper and bronze daggers, axes, maces, and possibly bows; horses provide mobility but chariot warfare has not yet emerged; fortifications are absent on the open steppe.<br><br>
-__Internal Order & Threat Environment:__ Inter-lineage raiding is endemic but contained by feud conventions; no state enforcement; internal order depends on kinship solidarity and balance of power among chiefs; disorder is moderate and normalized.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by word of mouth across kin networks; mounted messengers can cover large distances; seasonal gatherings enable news exchange; transmission is rapid across the steppe corridor but limited by social connectivity.<br><br>
-__Record, Storage & Persistence:__ No writing system; all information persists in living memory — oral genealogies, route knowledge, ritual formulas, and heroic traditions; loss occurs with the death of knowledgeable individuals; no durable external record exists.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse is shaped by oral performance conventions; genealogical and heroic narratives serve elite interests; no formal censorship but social pressure constrains public speech; taboos surround certain topics (death names, ritual secrets).<br><br>
-__Reception, Attention & Amplification:__ Audiences gather at feasts and funerals; skilled oral performers (bards, shamans) command attention; repetition and formulaic structure aid retention; prestige accrues to memorable speech.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission is subject to drift and loss; geographic distance introduces variation; no verification mechanism beyond social consensus; signal integrity is adequate for practical coordination but degrades over generations without correction.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice centers on honor, kinship loyalty, and reciprocity; wrongs require compensation or revenge; the community expects balance to be restored; concepts of pollution and purification shape responses to transgression.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; customary norms transmitted orally govern conduct; cattle theft, homicide, and adultery are major offenses; rules evolve slowly through accumulated precedent known to elders.<br><br>
-__Adjudication, Enforcement & Liability:__ Elders and chiefs adjudicate disputes; enforcement depends on kin mobilization; compensation (blood-price in livestock) substitutes for feud where possible; liability is collective (kin group responsible for member's actions).<br><br>
-__Rights, Protections & Compliance Burden:__ Free adult males hold status rights; women and dependents have fewer protections; compliance burden is low in the absence of formal regulation; customary expectations are internalized through socialization.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lineages may escape accountability; feuds can persist unresolved for generations; no overarching authority enforces settlements; some wrongs go unredressed, but overall the feud system maintains rough equilibrium.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; practical knowledge of animal husbandry, metallurgy, navigation, and seasonal cycles is accumulated empirically; cosmological explanations are mythological rather than naturalistic.<br><br>
-__Applied Knowledge & Technical Method:__ Metallurgy (smelting, casting, alloying) represents the most sophisticated technical knowledge; wagon construction requires woodworking and mechanical understanding; pastoral techniques (breeding, dairying, seasonal movement) are refined over generations.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmits through apprenticeship within kin groups; no formal schooling; specialist knowledge (smithing, ritual) concentrates in particular lineages; general pastoral and martial skills are widely distributed among males.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques can be lost if specialist lineages die out; no external record preserves obsolete knowledge; the stock is relatively stable but vulnerable to demographic disruption; little systematic purging of error occurs.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Identity roots in lineage and heroic ancestor narratives; origin myths (not preserved but inferred from later Indo-European parallels) likely involve cattle, horses, and migration; the kurgan itself serves as a material anchor of memory.<br><br>
-__Artistic Expression & Material Culture:__ Material culture is functional but stylized: pottery with cord impressions, bone and antler ornaments, copper and bronze weapons; no monumental architecture; the wagon and kurgan are the signature forms.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood is expansive and confident; population growth and successful migration reinforce a disposition toward mobility, risk-taking, and martial assertion; no evidence of collective anxiety or decline mentality.<br><br>
-__Form Exhaustion & Meaning Decay:__ Cultural forms are vital and functional; no evidence of exhaustion or hollowing; the kurgan burial complex is elaborated and intensified across the window rather than ossified.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ A three-tiered cosmos (sky, earth, underworld) is inferred from later Indo-European parallels; ancestor veneration is central; the afterlife involves continued existence requiring grave goods; existence is embedded in kinship extending to the dead.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Kurgan burial is the central ritual complex: ochre application, supine interment, animal sacrifice, wagon deposit; seasonal ceremonies tied to pastoral cycle are likely; fire ritual is attested in hearths.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No priestly caste is clearly attested; ritual leadership likely rests with lineage heads or specialized shamanic figures; doctrine is oral and variable; no institutional hierarchy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ The Yamnaya spiritual complex spreads with the migrations; local traditions in Europe and Central Asia are partially displaced or absorbed; the direction is outward diffusion from the steppe core.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the sacred order is vital and unquestioned; cosmology is adequate to existential needs; the spiritual system holds margin against doubt.<br><br>
+# __3,000 BCE – 1,800 BCE__ — Yamnaya Horizon and Bronze Age Expansion
+
+__Summary:__ The Yamnaya cultural horizon marks a pivotal transformation of the Pontic-Caspian steppe, binding the oral stage constraint to the expansion of mobile pastoralism across Eurasia. The single most causal factor is the wagon-and-horse complex — the technological package that enabled families to move with their herds across vast distances, carrying their spoken traditions, kinship networks, and Proto-Indo-European language westward into Europe and eastward into Central Asia, dispersing a cultural template that would shape subsequent millennia while remaining entirely dependent on breath and memory for transmission.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Pontic-Caspian steppe — from the Danube to the Urals, bounded by the Black and Caspian seas to the south and the forest zone to the north — presents an open grassland corridor of minimal friction for movement. The steppe sustains year-round grazing when mobility allows exploitation of seasonal variation: summer pastures on the northern edges, winter shelter in river valleys. River systems — Dnieper, Don, Volga — cut north-south across the east-west axis, providing water and marking territorial boundaries without blocking passage.
+
+__Climate Regime & Volatility:__ The middle Holocene climate remains relatively stable, with the tail of the Holocene Climatic Optimum giving way to a gradual drying trend. Winters are severe, summers hot and dry. Rainfall is marginal for agriculture but sufficient for grassland; interannual variability in precipitation governs pasture quality, rewarding mobility over sedentism. No catastrophic climatic disruption marks this window, but the secular shift toward aridity favors pastoralism over mixed farming on the steppe proper.
+
+__Hazard Regime & Exposure:__ The open steppe presents exposure to winter blizzards and summer drought but few acute hazards beyond weather. River flooding in spring affects valley camps. Fire sweeps through dry grassland seasonally. The mobile pastoralist lifestyle distributes risk across space, reducing catastrophic exposure; no single settlement can be destroyed when the population is always moving.
+
+__Resource & Energy Endowment:__ The steppe provides abundant grass for grazing but lacks timber, stone, and metal ores, which must be obtained from forest and mountain margins. Copper and early bronze reach the steppe through exchange with Carpathian, Caucasian, and Ural metallurgical centers. The endowment of the steppe itself is grass and the animals it feeds — cattle, sheep, and above all horses — the living capital of the Yamnaya economy.
+
+__Waste Absorption & Sink Capacity:__ Nomadic movement prevents any significant accumulation of waste at fixed points. Animal dung returns nutrients to the soil; human impact on the landscape is negligible. The sink capacity of the steppe is essentially unlimited at Yamnaya population densities; no degradation accumulates.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Dispersed populations and high mobility limit epidemic transmission; no evidence of crowd diseases at this population density. Endemic parasites and infections from close animal contact impose a background mortality load. Plague (Yersinia pestis) is now attested in ancient DNA from this period, but its epidemiological role remains unclear — possibly sporadic outbreaks rather than epidemic waves. Infant and early childhood mortality is high by modern standards but unremarkable for the era.
+
+__Nutrition & Physiological Vitality:__ The Yamnaya diet is heavily animal-based — milk, meat, blood, supplemented by wild plants and limited grain from trade. Isotopic evidence shows high protein intake. Stature is relatively tall; skeletal remains show robust build and few nutritional deficiency markers. The pastoral diet is calorie-dense and adequate when herds thrive, but vulnerable to herd loss.
+
+__Care, Healing & Recovery Capacity:__ Healing relies on oral tradition — herbal knowledge, bone-setting, wound care passed through speech and imitation. No specialized healers are archaeologically attested; care is provided within the extended family. Recovery capacity is limited but adequate for a young, mobile population.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny is likely, given the patrilineal emphasis and evidence of male status competition in burials. Ancient DNA shows higher male reproductive variance than female, consistent with polygynous mating. Pairing is governed by kin alliance and bride-price in livestock; marriage extends kinship networks across the steppe.
+
+__Demographic Renewal & Density:__ Population is growing but remains sparse — perhaps a few hundred thousand across the entire Pontic-Caspian region. The expansion itself is demographic: Yamnaya-derived ancestry replaces much of the European Neolithic gene pool within centuries, implying either massive migration or sustained reproductive advantage or both. The expansion wave is the demographic signature of the era.
+
+__Attrition & Dependency Overhang:__ Mobile pastoralism is hard on the old and infirm; dependency ratios are kept low by the demands of the lifestyle. Those who cannot ride or keep pace are a burden the mobile household must carry or leave behind. Kurgan burials honor the dead but do not suggest elaborate care of the dependent living.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Subsistence is pastoral: cattle and sheep for meat, milk, hides, and wool; horses for transport and increasingly for riding. Grain and other agricultural products are obtained through trade with forest-steppe farmers. The provisioning floor is adequate but mobile — wealth is on the hoof, and a bad winter or disease can destroy it.
+
+__Energy Capture & Conversion:__ The primary energy source is grass, converted through animal metabolism into usable work (muscle, transport) and food (milk, meat). Draft oxen pull wagons; horses provide speed. The wagon is the transformative technology — solid-wheeled carts drawn by oxen allow the family to move with all possessions across the steppe. Human muscle supplements animal, but the energy ceiling is set by pasture productivity and herd size.
+
+__Labor Organization & Coercion:__ Labor is organized by household and kin group; there is no evidence of slavery or corvee in this period. Division of labor is by age and sex: men herd and raid, women process dairy and fiber, children assist both. Coercion operates through kinship authority, not institutional hierarchy.
+
+__Production & Surplus Capacity:__ Surplus is measured in livestock numbers. Wealthy households accumulate large herds; the kurgan burials of chiefs include cattle, sheep, and horse offerings indicating substantial surplus. The surplus is mobile and convertible — livestock can be traded, gifted, or sacrificed. Bronze goods (daggers, axes, ornaments) are prestige items obtained through exchange with metallurgical centers.
+
+__Storage, Reserves & Buffering:__ Storage is limited; dried meat and dairy products (cheese, fermented mare's milk) can be preserved, but there are no granaries on the steppe. Herds themselves are the buffer — a large herd can survive losses that would destroy a small one. Risk is pooled through kin obligations and reciprocal exchange with other households.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange connects the steppe with Carpathian copper, Caucasian metallurgy, and forest-zone products. Cattle and horses are the medium of exchange. The wagon enables trade in bulk; contact zones at forest-steppe margins are exchange hubs. No markets in the institutional sense; exchange is embedded in kinship and alliance relations.
+
+__Value Storage, Credit & Deferred Exchange:__ Livestock are the primary store of value; there is no currency or coinage. Deferred reciprocity operates through kin obligation — hospitality given creates a claim for future return. Bride-price in cattle circulates wealth across kin networks, creating lasting credit relations.
+
+__Surplus Extraction & Redistribution:__ Chiefs accumulate surplus through larger herds and extract tribute or hospitality obligations from followers. Redistribution occurs through feasting and funeral sacrifice — the kurgan ceremony redistributes surplus to the community and the dead. No taxation in the formal sense; extraction is embedded in kinship hierarchy.
+
+__Wealth Distribution & Asset Defense:__ Wealth is concentrated in chiefly households; kurgan burials with wagons, weapons, and livestock attest to marked inequality. But mobile pastoralism limits accumulation — wealth must walk. Defense of assets is through kinship solidarity and the threat of raiding; there are no fortifications on the open steppe.
+
+__Byproducts & Waste Routing:__ Animal byproducts (bone, sinew, hide) are fully utilized; little is discarded. Dung is fuel and fertilizer. The pastoral economy is nearly closed; waste output is minimal and dispersed by mobility.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Society is patrilineal and patrilocal; descent and inheritance run through the male line. Extended households move together; kin groups form the basic unit of social organization. Clans aggregate into larger tribal structures for war and ceremony. Inheritance of livestock passes father to son; widows and orphans depend on kin support.
+
+__Association & Mutual Aid:__ Beyond kinship, association operates through hospitality obligations, alliance, and feud. The guest-host relation is sacred and spoken; betrayal of hospitality is a grave offense. Mutual aid in herding, raiding, and migration binds non-kin households into cooperative networks.
+
+__Leisure, Play & Sociability:__ Feasting accompanies funeral rites and seasonal gatherings. The kurgan funeral is the major social event — days of feasting, sacrifice, and oral recitation of genealogies and deeds. Horse-racing, wrestling, and archery likely feature as competitive display. The great assemblies renew social bonds across dispersed populations.
+
+__Stratification, Status & Group Structure:__ Status hierarchy is pronounced. Chiefs are buried under massive kurgans with wagons, weapons, livestock, and sometimes human sacrifice (possibly slaves or retainers). Commoners receive simpler burials. Status is achieved through wealth, war success, and oratorical skill; the spoken word establishes and maintains rank.
+
+__Administrative Capacity & Institutional Integrity:__ There is no formal administration, no bureaucracy, no writing. Chiefs lead through personal authority and kin network; their reach is limited by face-to-face contact and oral command. No institutions persist beyond the lifespan of the individuals who embody them. Succession is contested; there is no codified procedure.
+
+__Coercive Apparatus & Means of Force:__ Warfare is endemic; raiding for livestock is a route to wealth and status. The Yamnaya warrior is equipped with bronze or copper dagger, stone mace, and bone or antler bow. Chariots do not yet exist; horses may be ridden for herding and scouting, but mounted combat is not yet developed. War bands are organized by kinship; there is no standing army, no fortification.
+
+__Discharge, Disorder & Decay:__ Social friction discharges through feud, raiding, and migration. A kin group that suffers grievance can leave and establish itself elsewhere — the steppe is vast. Feud is regulated by compensation payments in livestock; escalation to blood-feud is the failure mode. Disorder is absorbed by dispersion; there is no apparatus to decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of mobile confidence — the successful expansion bespeaks a people on the move, seizing opportunity. Trust radiates outward from kin to guest to stranger in diminishing rings; beyond the guest relation, strangers are potential enemies or targets for raiding.
+
+__Leadership & Personal Authority:__ Chiefs lead through personal prowess, wealth, and oratorical persuasion. The spoken word is the instrument of leadership; the chief who can speak well, mobilize kin, and distribute generously commands followers. Authority dies with the man; it must be rebuilt in each generation.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is personal and kin-based; legitimacy attaches to individuals, not offices. The successful chief earns allegiance through victory and generosity; the failed chief loses it. There is no abstract principle of rulership, only the concrete performance of chieftainship spoken and witnessed.
+
+__Political Will & Collective Resolve:__ Will is mobilized for war, migration, and great ceremonies. The assembly of kin groups can decide on collective action, but enforcement depends on persuasion and kinship obligation. Collective resolve is high for defense of kin; coordination beyond the immediate kin group is fragile and event-specific.
+
+__External Relations & Posture:__ The Yamnaya posture is expansionary — pushing westward into Europe, eastward into Central Asia. Relations with sedentary farmers on the forest-steppe margins are complex: trade, intermarriage, and raiding coexist. The expansion is not coordinated conquest but the aggregate of countless household decisions to move into new pastures.
+
+__Disaffection, Apathy & Spent Will:__ No evidence of collective disaffection in this expansionary phase; the demographic surge indicates sustained will and vitality. The young and ambitious can always strike out for new pastures — exit absorbs discontent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The spoken word is the sole medium; Proto-Indo-European is the language of the Yamnaya horizon, intelligible across the steppe with dialectal variation. There is no writing, no script, no durable record beyond memory. Anyone within the speech community can communicate; the deaf are excluded, as are speakers of non-Indo-European languages on the margins.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of horse and foot. Messengers carry word across the steppe; news moves faster than wagons but slower than rumor. The dispersed population means news is always delayed; coordination over distance requires prearrangement at seasonal gatherings.
+
+__Record, Storage & Persistence:__ Memory is the only archive. Genealogies, origin stories, laws, and deeds are held in the heads of elders and specialists in oral tradition. Persistence depends on continuous retelling; knowledge that is not spoken is lost within a generation. The kurgan burials are material records, but their meaning is held in oral tradition.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms are oral and customary — speaking protocols at assemblies, hospitality formulae, genealogical recitation. There is no institutional censorship, but social pressure governs what can be said; insult and false genealogical claims are sanctioned by feud. The spoken word carries binding force.
+
+__Reception, Attention & Amplification:__ Reception is face-to-face; the assembly is the amplification mechanism. A speaker addressing the gathered kin groups reaches the limit of oral broadcast. Stories that serve the community's self-understanding are retold and amplified; those that do not are forgotten.
+
+__Signal Integrity & Noise Load:__ Oral transmission is subject to drift, elaboration, and loss with each retelling. There is no mechanism for verification beyond the memory of multiple witnesses. Signal integrity is maintained through formulaic repetition, poetic structure, and the authority of skilled reciters; nonetheless, noise accumulates over generations.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is kin-based; the primary obligation is to one's own blood and the guests one has received. Reciprocity governs: gift demands return, injury demands compensation or revenge. The stranger outside the guest relation has no claim to justice. Honor is the supreme value; its defense justifies violence.
+
+__Law, Codification & Regulatory Evolution:__ There is no written law; customary rules are transmitted orally and adjudicated by elder authority. Taboos govern hospitality, incest, and the treatment of the dead. The spoken precedent is the only codification; evolution is slow and conservative, governed by the prestige of ancestral custom.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated within and between kin groups by councils of elders. Compensation in livestock is the standard remedy for injury; blood-feud is the sanction for unpaid debt. Liability is collective — the kin group bears responsibility for its members' acts. Sanction is executed by the aggrieved party, not by an impersonal authority.
+
+__Rights, Protections & Compliance Burden:__ Rights attach to kinship position and guest status; the individual has no abstract rights, only the protections his kin can enforce. Compliance burden is customary and internalized through upbringing; formal rules are few but violation is costly.
+
+__Impunity & Unredressed Wrong:__ The powerful can commit wrongs that weaker kin groups cannot avenge; impunity correlates with strength. The oral system has no appeal beyond the parties; the unrevenged wrong festers as grievance, potentially erupting in later violence. The gap between justice owed and delivered varies with the balance of power.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ There is no formal inquiry or theory in the modern sense; knowledge is practical, traditional, and embedded in oral lore. The explanatory paradigm is mythological — natural phenomena are explained through divine and ancestral agency. Curiosity is directed toward the practical: animal behavior, weather signs, geography of pastures.
+
+__Applied Knowledge & Technical Method:__ Applied knowledge is high in domains critical to pastoral life: animal husbandry, dairy processing, wagon construction, bronze-working (obtained from specialists at metallurgical centers). Techniques are transmitted orally and by apprenticeship; there is no written manual, no abstract method. The wagon and the use of horses for transport represent the technological frontier of the era.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal, embedded in family and kin group. Boys learn herding, raiding, and the oral traditions of their lineage; girls learn domestic production and the genealogies that structure marriage alliance. The knowledge stock is conserved through oral transmission; specialized skills (metal-working, healing) are held by particular lineages or specialists.
+
+__Obsolescence & Knowledge Decay:__ Oral transmission is lossy; knowledge that ceases to be useful is quickly forgotten. The practical skills of the Upper Paleolithic are obsolete; the new economy requires new techniques. Decay is prevented only by continuous use and retelling; the breakdown of oral chains — through death, dispersal, or conquest — causes irreversible knowledge loss.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Proto-Indo-Europeans carry a mythological corpus now partially reconstructable through comparative linguistics: a sky-father deity, a divine cattle-theft myth, a heroic warrior ethos. Origin stories tie the people to the steppe and its horses. Memory is genealogical — identity is located in the chain of ancestors recited back through generations.
+
+__Legitimating Narrative & Ideology:__ The legitimating narrative is ancestral precedent: we do as our fathers did, as the gods established. The successful chief is he who embodies ancestral virtue — courage, generosity, eloquence. Expansion is not ideologically justified; it is simply what the people do, following the herds and the opportunities.
+
+__Artistic Expression & Material Culture:__ Material culture is portable and functional: decorated pottery (cord-impressed ware), bronze and copper ornaments, bone and antler carvings. The kurgan burial is the supreme artistic statement — the tumulus itself, the grave goods, the ritual arrangement of the body. Textile arts (felting, weaving) produce clothing and shelter. The color palette is natural: earth tones, the black and white of cattle, the red of ochre used in burial.
+
+__Form Exhaustion & Meaning Decay:__ No evidence of form exhaustion in this expansionary phase; the cultural forms are vital and spreading. The kurgan tradition and the oral mythos are at their generative peak. Meaning decay, if any, lies in the forgetting that oral transmission inevitably imposes over generations.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmology is Indo-European polytheism: a sky-father (*Dyeus Phter), an earth-mother, divine twins, a thunder-god who fights the serpent. The cosmos is tripartite — sky, earth, and underworld. The dead join the ancestors beneath the kurgan, to be honored and fed through sacrifice. The existential outlook is heroic: life is struggle, death is certain, glory is won through deeds spoken and remembered.
+
+__Ritual, Devotion & Sacred Practice:__ Sacrifice is central: animals (cattle, sheep, horses) are killed and offered to the gods and ancestors. The kurgan funeral is the supreme ritual — the chief is buried with his wagon, weapons, and sacrificed animals (sometimes human retainers). Seasonal rites mark the pastoral calendar; the hearth fire is sacred. Devotion is embedded in daily life, not separated into a priestly domain.
+
+__Religious Institutions & Doctrinal Authority:__ There is no priestly caste or institutional religion; religious authority is diffuse, held by elders and perhaps by specialists in oral tradition (proto-priests or shamans). Doctrine, such as it is, is transmitted orally and conserved by custom. There is no orthodoxy to enforce, no heresy to suppress.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Yamnaya expansion carries its spiritual tradition westward and eastward; the Indo-European mythological substrate will persist for millennia in daughter cultures. Syncretism with indigenous traditions (Old European, Siberian) is likely at the margins. The direction of movement is outward — the Yamnaya cosmology is diffusing, not being displaced.
+
+__Disenchantment & Sacred Discharge:__ No evidence of disenchantment in this period; the cosmos is alive with divine presence, the ancestors are active in the affairs of the living. The sacred is fully integrated with the profane world of herding, raiding, and feasting. The residue is not discharged but continuously renewed through sacrifice and oral recitation.
+

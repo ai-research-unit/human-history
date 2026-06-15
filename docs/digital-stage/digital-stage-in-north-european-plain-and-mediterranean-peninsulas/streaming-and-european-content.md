@@ -1,69 +1,139 @@
-# __2010 CE – 2026 CE__ — Streaming and European Content
-__Summary:__ Global streaming platforms—Netflix, Amazon Prime, Disney+—penetrate European markets while EU regulation mandates local content quotas and investment, creating a hybrid ecosystem where American distribution infrastructure finances and distributes European production; the binding constraint is the tension between platform economics favoring global content and regulatory requirements protecting cultural diversity; margin for local platforms remains thin against well-capitalized competitors, and the overall direction is toward integration of European production into global streaming catalogs under regulatory compulsion.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ High-speed broadband and mobile connectivity enable streaming across urban and most rural areas; mountainous and peripheral regions retain connectivity gaps but coverage steadily expands.<br><br>
-__Climate Regime & Volatility:__ Stable conditions; indoor media consumption patterns not climatically constrained; seasonal viewing variations minor.<br><br>
-__Hazard Regime & Exposure:__ Low hazard exposure; occasional infrastructure disruption from storms negligible for overall streaming ecosystem.<br><br>
-__Resource & Energy Endowment:__ Data center electricity consumption rising; streaming infrastructure concentrated in regions with reliable power and cooling; energy transition affects operational costs.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste from device turnover accumulating; data center heat output managed through cooling systems; carbon footprint of streaming infrastructure becoming policy concern.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 lockdowns (2020–2021) massively accelerate streaming adoption; cinema closures redirect viewing to home platforms; pandemic as inflection point.<br><br>
-__Nutrition & Physiological Vitality:__ Sedentary viewing patterns contribute to screen time concerns; no direct nutritional impact; public health discourse occasionally addresses media consumption.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Shared viewing as household activity; dating and relationship formation patterns incorporate streaming preferences; minor behavioral adaptation.<br><br>
-__Demographic Renewal & Density:__ Youth cohorts streaming-native; generational divide in media consumption habits; older demographics adopt during pandemic but retain linear television attachment.<br><br>
-__Attrition & Dependency Overhang:__ Elderly populations less engaged with streaming; digital divide persists; accessibility features (subtitles, audio description) expand reach but adoption uneven.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Streaming subscriptions become household budget line; subscription fatigue emerging as services multiply; household media spending stable but allocation shifting.<br><br>
-__Energy Capture & Conversion:__ Data transmission and storage energy-intensive; efficiency gains offset by volume growth; power consumption concentrated in data center regions.<br><br>
-__Labor Organization & Coercion:__ European production employment grows with quota-driven investment; gig economy expansion in creative industries; union coverage varies by country and sector.<br><br>
-__Production & Surplus Capacity:__ European content production capacity expands—studios in Spain, Germany, UK, Poland—driven by streaming investment; surplus generation concentrated in platform parent companies.<br><br>
-__Storage, Reserves & Buffering:__ Platform content libraries function as inventory; catalog depth competitive advantage; back-catalog monetization ongoing.<br><br>
-__Exchange, Trade & Logistics:__ Digital distribution eliminates physical logistics; licensing markets active; geo-blocking regulations affect cross-border access.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Subscription revenue provides predictable cash flow; content investment requires significant capital outlay with deferred return; debt financing common.<br><br>
-__Surplus Extraction & Redistribution:__ VAT on digital services; cultural levies in some jurisdictions fund local production; tax optimization by platforms contested; DST (Digital Services Tax) debates.<br><br>
-__Wealth Distribution & Asset Defense:__ Platform profits concentrate in US parent companies; European production benefits employment but ownership remains foreign; IP rights retained by platforms.<br><br>
-__Byproducts & Waste Routing:__ Content overproduction emerging; failed series written off; recommendation algorithms bury unsuccessful content; creative labor waste in cancelled projects.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Shared viewing experiences—discussion of series, recommendation networks—generate social bonding; parasocial relationships with characters widespread.<br><br>
-__Stratification, Status & Group Identity:__ Cultural consumption as status marker; prestige television distinguishes taste hierarchies; linguistic communities (German, French, Spanish, Italian) as viewing clusters.<br><br>
-__Kinship, Family & Inheritance:__ Family viewing occasions declining with individual device access; shared accounts create household coordination challenges; password sharing crackdowns 2023–2024.<br><br>
-__Civic Association & Self-Organization:__ Fan communities organize online; conventions and meetups; social media discussion of content creates participatory culture; limited formal association.<br><br>
-__Leisure, Play & Sociability:__ Streaming dominates leisure time; binge-watching normalized; competition with gaming and social media for attention; sociability increasingly mediated through shared content discussion.<br><br>
-__Grievance Channels & Social Discharge:__ Content diversity debates (representation, cultural authenticity) channel social tensions; fan backlash against casting or adaptation choices; grievance partially absorbed in discourse, residue as culture war content.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ EU regulatory framework (AVMSD revision 2018) asserts jurisdiction over platforms; national regulators implement quotas; Brussels exercises market access leverage.<br><br>
-__Succession & Power Transfer:__ Stable institutional framework; regulatory continuity across Commission terms; DG Connect and DG Culture share jurisdiction.<br><br>
-__Legitimacy & Political Narrative:__ Cultural diversity and European identity protection justify intervention; market liberalization balanced against cultural exception doctrine.<br><br>
-__Administrative Capacity & Institutional Integrity:__ National media regulators (CSA France, Medienanstalten Germany) monitor compliance; capacity varies; cross-border coordination improving.<br><br>
-__Political Participation & Mobilization:__ Industry lobbying active; creative sector advocacy for stronger quotas; platform lobbying for flexibility; limited public mobilization on streaming policy.<br><br>
-__Geopolitical Position & External Relations:__ US trade pressure against content quotas; WTO cultural exception invoked; transatlantic tension managed through negotiation; UK post-Brexit outside AVMSD framework.<br><br>
-__Coercive Apparatus & Means of Force:__ Market access denial ultimate sanction; fines for non-compliance; enforcement through licensing requirements.<br><br>
-__Internal Order & Threat Environment:__ Piracy persists but declines with convenient legal access; cam-ripping and torrent sites diminished but not eliminated; platform competition reduces piracy incentive.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Content delivery networks optimize global distribution; premiere simultaneity now standard; regional release windows largely collapsed.<br><br>
-__Record, Storage & Persistence:__ Platform catalogs function as archives; content removal ("delisting") occurs for licensing or cost reasons; no permanent access guarantee; physical media declining.<br><br>
-__Framing, Censorship & Discourse Norms:__ Content ratings systems harmonize; parental controls standardized; editorial framing in curation and recommendation; limited censorship except for illegal content.<br><br>
-__Reception, Attention & Amplification:__ Algorithmic recommendation dominates discovery; social media amplification for successful content; attention concentration on hits despite catalog depth.<br><br>
-__Signal Integrity & Noise Load:__ Content abundance creates discovery challenge; curation and recommendation partially address; viewer overwhelm reported; quality signal obscured by volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Fair compensation for creators contested; residual and royalty structures under pressure; sense that platforms capture disproportionate value.<br><br>
-__Law, Codification & Regulatory Evolution:__ AVMSD 2018 establishes 30% European content quota; Copyright Directive 2019 affects licensing; national implementation varies.<br><br>
-__Adjudication, Enforcement & Liability:__ Platform liability for content limited by hosting safe harbors; copyright enforcement through notice-and-takedown; regulatory enforcement through periodic audits.<br><br>
-__Rights, Protections & Compliance Burden:__ Creators' rights (moral rights, attribution) protected in European tradition; compliance burden on platforms substantial but manageable given scale.<br><br>
-__Impunity & Unredressed Wrong:__ Small creators struggle to enforce rights against platforms; collective management organizations mediate but gaps remain; quota compliance sometimes cosmetic (buried content).<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Media studies, platform economics, and cultural policy research active; algorithmic curation studied; attention economy theorized.<br><br>
-__Applied Knowledge & Technical Method:__ Recommendation algorithms, compression codecs, adaptive streaming—technical refinement ongoing; production techniques (LED stages, virtual production) adopted.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Film schools and media training expand; production skills widely distributed; technical workforce development for streaming infrastructure.<br><br>
-__Obsolescence & Knowledge Decay:__ Linear television expertise declining in relevance; traditional distribution knowledge obsolescing; generational skill transition ongoing; cinema exhibition knowledge narrowing.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ European cultural identity invoked to justify quotas; national cinemas (French, Italian, German traditions) positioned as heritage requiring protection.<br><br>
-__Artistic Expression & Material Culture:__ Production values rise with streaming investment; high-budget European series (Dark, Money Heist, Lupin) achieve global success; aesthetic convergence toward international style.<br><br>
-__Collective Mood & Behavioral Disposition:__ Viewing as comfort and escape; pandemic-era cocooning; nostalgia content popular; mood generally stable with entertainment serving as discharge valve.<br><br>
-__Form Exhaustion & Meaning Decay:__ Sequel and franchise fatigue; formula replication across platforms; limited-series format provides novelty; some creative exhaustion in oversaturated market.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular entertainment dominates; religious content niche; existential themes explored in prestige drama but framed as narrative rather than doctrine.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Weekly episode release restores appointment viewing ritual (partially); binge consumption as secular devotion; fan dedication resembles religious intensity for some franchises.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Institutional religion marginal to streaming ecosystem; occasional controversy over religious depiction; faith-based content subcategory.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Global content exposes viewers to diverse spiritual frameworks; Eastern and alternative spirituality visible in content; no dominant diffusion pattern.<br><br>
-__Disenchantment & Sacred Discharge:__ Entertainment partially fills meaning void; parasocial attachment to characters and worlds provides belonging; existential questions raised but not resolved; residue as continued consumption seeking satisfaction.<br><br>
+# __2010 CE – 2026 CE — Streaming and European Content__
+
+__Summary:__ The shift from broadcast and physical media to streaming platforms transforms European audiovisual consumption, with US platforms (Netflix, Amazon, Disney+) capturing dominant market share while EU content quotas and national public broadcasters attempt to preserve European production — the binding constraint being the tension between borderless digital distribution and territorially-based cultural policy, leaving European content dependent on US platform commissioning decisions while public broadcasters struggle to compete for attention.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Streaming abolishes physical distribution friction, enabling simultaneous continental releases that supersede the old theatrical-to-DVD-to-broadcast windowing system, while data centers in Dublin, Amsterdam, and Frankfurt serve European traffic.
+
+__Climate Regime & Volatility:__ Production increasingly considers environmental footprint, with some studios adopting sustainability protocols, though streaming's total energy consumption (data centers, device manufacturing, network transmission) represents a growing load.
+
+__Hazard Regime & Exposure:__ COVID-19 lockdowns (2020-2022) accelerate streaming adoption by years, with homebound populations subscribing to multiple services; production halts temporarily disrupt content pipelines before resumption with safety protocols.
+
+__Resource & Energy Endowment:__ Data center energy demands grow substantially, with streaming estimated to consume 1% of global electricity by mid-period; European locations favor cooler climates (Nordics, Ireland) for cooling efficiency.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from rapid device turnover and the carbon footprint of streaming infrastructure accumulate, though streaming's dematerialization reduces physical media waste compared to DVD era.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Pandemic viewing surges establish new consumption baselines that partially persist post-lockdown, with "binge-watching" becoming normalized leisure pattern affecting sleep and sedentary behavior.
+
+__Nutrition & Physiological Vitality:__ Extended screen time correlates with sedentary lifestyles, though causal attribution remains contested; platform interfaces optimize for continued engagement.
+
+__Care, Healing & Recovery Capacity:__ Streaming provides entertainment for homebound, ill, and elderly populations, with accessibility features (subtitles, audio description) expanding reach.
+
+__Reproductive Biology & Pairing Dynamics:__ Shared viewing remains a couple and family activity, though simultaneous multi-screen household viewing fragments communal experience.
+
+__Demographic Renewal & Density:__ Younger cohorts adopt streaming first and most intensively, with cord-cutting concentrated among under-40s while older demographics retain linear television habits longer.
+
+__Attrition & Dependency Overhang:__ Elderly populations face exclusion as linear broadcasting declines, with digital literacy gaps creating access barriers even where infrastructure exists.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Streaming subscriptions add to household media expenditure, with subscription stacking (Netflix plus Amazon plus Disney+ plus national services) creating "subscription fatigue" by mid-period; ad-supported tiers (2022-) address price sensitivity.
+
+__Energy Capture & Conversion:__ The streaming value chain — production, encoding, storage, transmission, display — consumes substantial energy, distributed across the infrastructure stack.
+
+__Labor Organization & Coercion:__ European production employment benefits from platform commissioning, though Hollywood strikes (2023) demonstrate labor vulnerability in US-controlled industry; European crews work for US platforms at scale.
+
+__Production & Surplus Capacity:__ Platform investment in European originals surges after AVMS Directive content quotas take effect — Netflix's La Casa de Papel (Spain), Dark (Germany), Lupin (France) demonstrate European production viability for global audiences, though commissioning decisions remain with US headquarters.
+
+__Storage, Reserves & Buffering:__ Catalog depth becomes competitive advantage, with platforms racing to secure back-catalog rights; public broadcasters' archives represent underexploited assets.
+
+__Exchange, Trade & Logistics:__ Global licensing replaces territorial rights negotiations, with platforms preferring worldwide rights that simplify distribution but reduce national broadcaster access to content.
+
+__Value Storage, Credit & Deferred Exchange:__ Subscription model shifts revenue from transactional (per-view, per-purchase) to recurring, smoothing platform revenue while reducing consumer ownership; library value concentrates on platforms rather than households.
+
+__Surplus Extraction & Redistribution:__ Platform profits flow to US parent companies, with limited European fiscal capture despite European subscriber bases; some countries implement digital services taxes.
+
+__Wealth Distribution & Asset Defense:__ Major US platforms (Netflix, Amazon, Disney, Apple) capture disproportionate market share, with European competitors (public broadcasters, Britbox, Salto) struggling for scale; Spotify (Swedish) represents rare European platform success in audio.
+
+__Byproducts & Waste Routing:__ Content oversupply leads to "content fatigue," with audiences overwhelmed by choice and discovery algorithms becoming essential gatekeepers; cancelled productions and abandoned series accumulate as sunk costs.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family viewing fragments across individual screens and personalized profiles, with algorithm-driven recommendations creating filter bubbles within households; shared accounts cross household boundaries despite platform policies.
+
+__Association & Mutual Aid:__ "Water cooler" effect weakens as appointment viewing declines, though viral hits (Squid Game, 2021) demonstrate that shared cultural moments remain possible at scale; fan communities organize online around niche content.
+
+__Leisure, Play & Sociability:__ Streaming consumption dominates leisure time across demographics, competing with gaming, social media, and other screen-based activities; background viewing replaces active attention for much consumption.
+
+__Stratification, Status & Group Structure:__ Cultural capital shifts from broadcast-era shared references to fragmented niche knowledge, with algorithm-driven taste stratification reinforcing demographic sorting.
+
+__Administrative Capacity & Institutional Integrity:__ EU media policy evolves through Audiovisual Media Services Directive (2018 revision), requiring 30% European content in streaming catalogs and imposing content moderation requirements; national regulators (CSA/Arcom in France, Ofcom in UK) extend jurisdiction to platforms.
+
+__Coercive Apparatus & Means of Force:__ Regulatory enforcement remains limited, with platforms largely self-reporting compliance; market power rather than coercive capacity shapes industry structure.
+
+__Discharge, Disorder & Decay:__ Traditional broadcast institutions decline in relevance — public broadcaster audience shares fall, advertising revenue migrates to digital, and linear television skews older — with institutional adaptation lagging market transformation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Streaming delivers on-demand convenience that audiences rapidly internalize as expectation, with tolerance for advertising, scheduling, and appointment viewing declining; paradox of choice generates anxiety alongside satisfaction.
+
+__Leadership & Personal Authority:__ Platform executives (Reed Hastings at Netflix, Jeff Bezos at Amazon) exercise outsized influence over European cultural consumption through commissioning and algorithm decisions made in California.
+
+__Legitimacy as Lived Allegiance:__ Public broadcaster legitimacy erodes as license-fee-funded institutions compete for attention against subscription services with larger content budgets; debates over BBC funding (UK), ARD/ZDF fees (Germany) intensify.
+
+__Political Will & Collective Resolve:__ European cultural sovereignty rhetoric persists in policy discourse, though implementation struggles to match platform scale; French-German initiative for European streaming (Salto, 2020) achieves limited traction before winding down.
+
+__External Relations & Posture:__ Transatlantic cultural trade imbalance widens, with US content dominating European screens while European exports remain niche except for specific hits; UK post-Brexit pursues independent content policy with limited differentiation.
+
+__Disaffection, Apathy & Spent Will:__ Audience fragmentation reduces shared cultural experience, with generational divides between linear and streaming consumption creating separate media worlds; nostalgia for broadcast-era communality persists alongside appreciation for choice.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Streaming's subtitle and dubbing infrastructure expands linguistic access, with non-English European content reaching wider audiences than broadcast-era distribution allowed — Spanish, German, French, Scandinavian content finds international viewers.
+
+__Channels & Transmission Velocity:__ Broadband infrastructure gates streaming quality, with fiber rollout enabling 4K/HDR delivery in urban areas while rural gaps persist; mobile streaming expands consumption occasions.
+
+__Record, Storage & Persistence:__ Platform catalogs represent unprecedented access to audiovisual archives, though licensing determines availability — content disappears when rights expire, creating impermanent cultural access.
+
+__Framing, Censorship & Discourse Norms:__ Platform content policies apply globally with regional variations, with some productions edited for different markets; age-gating and content warnings become standard.
+
+__Reception, Attention & Amplification:__ Algorithmic recommendation dominates content discovery, with platform-promoted content receiving disproportionate attention; "Top 10" lists create self-reinforcing popularity cycles.
+
+__Signal Integrity & Noise Load:__ Content abundance overwhelms discovery capacity, with quality signal difficult to separate from volume; critics and curators retain reduced but persistent influence alongside algorithmic recommendation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Debates over content representation intensify, with platforms navigating demands for diverse casting and storytelling against backlash framing such efforts as ideological imposition.
+
+__Law, Codification & Regulatory Evolution:__ AVMS Directive quotas (30% European content), Digital Services Act content moderation requirements, and national-level rules (French production investment obligations) create regulatory framework that platforms adapt to rather than resist frontally.
+
+__Adjudication, Liability & Sanction:__ Platform compliance with content quotas remains self-reported with limited verification; anti-piracy enforcement continues against unauthorized streaming sites and services.
+
+__Rights, Protections & Compliance Burden:__ Creator rights (residuals, credits, intellectual property) become contested as streaming disrupts traditional compensation structures; European copyright directive (2019) attempts to strengthen creator bargaining position.
+
+__Impunity & Unredressed Wrong:__ Small creators and national producers lack leverage against platform commissioning decisions, with take-it-or-leave-it terms; disputes over accounting transparency persist.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Media studies and cultural policy research document streaming transformation, with academic debates over cultural imperialism, platform capitalism, and attention economics; audience research methodologies adapt to streaming measurement.
+
+__Applied Knowledge & Technical Method:__ Streaming technology matures — adaptive bitrate, codec efficiency, edge caching — enabling quality improvements while reducing bandwidth per hour; production techniques evolve for episodic "prestige television" format.
+
+__Education, Knowledge Stock & Skill Distribution:__ Film schools and production training expand to meet platform demand for content volume, with European production workforce growing; algorithm literacy emerges as viewer competency.
+
+__Obsolescence & Knowledge Decay:__ Broadcast-era production and distribution knowledge becomes obsolete as industry restructures around streaming economics; physical media expertise (DVD authoring, theatrical distribution) atrophies.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ National broadcasting's role in constructing shared cultural identity weakens as audiences fragment across global platforms, with collective media memories becoming generationally and demographically segmented.
+
+__Legitimating Narrative & Ideology:__ Platform narratives emphasize consumer choice and global access, framing regulatory intervention as protectionist restriction; European cultural policy counters with cultural sovereignty and diversity arguments.
+
+__Artistic Expression & Material Culture:__ "Prestige television" aesthetic — high production values, serialized narrative, cinematic technique — becomes dominant form, with European productions adopting format while retaining some stylistic distinctiveness; shorter-form content (TikTok influence) begins affecting streaming formats by late period.
+
+__Form Exhaustion & Meaning Decay:__ Genre formula repetition accelerates with platform demand for content volume, with algorithmic optimization for engagement metrics potentially flattening creative risk-taking; "content" as industrial term displaces "art" or "programming" in industry discourse.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Streaming content increasingly addresses existential themes (Black Mirror, Dark), with dystopian and apocalyptic narratives reflecting contemporary anxieties; platform recommendation algorithms create personalized cosmological filter bubbles.
+
+__Ritual, Devotion & Sacred Practice:__ "Binge-watching" develops ritualistic qualities, with season releases structuring viewing weekends; appointment viewing persists for live events (sports, reality competition finales) as residual sacred time.
+
+__Religious Institutions & Doctrinal Authority:__ Religious content finds niche audiences through platform distribution (The Chosen, various faith-based productions), with traditional broadcasting's secular public service mandate less constraining on streaming platforms.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Global platform distribution exposes European audiences to wider range of cultural and spiritual frameworks through Korean, Indian, and other non-Western content; reverse flow remains limited.
+
+__Disenchantment & Sacred Discharge:__ The broadcast-era experience of simultaneous national viewing — the shared ritual of watching together — dissolves into atomized on-demand consumption, with communal cultural experience becoming exceptional rather than routine; the enchantment of scarcity and appointment gives way to the disenchantment of endless availability.

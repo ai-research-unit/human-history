@@ -1,69 +1,139 @@
-# __700 CE – 794 CE__ — Nara State and Ritsuryo Codification
-__Summary:__ The Japanese archipelago consolidates under Chinese-modeled ritsuryo law codes and a permanent capital at Nara, building a literate bureaucratic state centered on population registers, tax extraction, and Buddhist institutional patronage. The binding constraint is the gap between the imported administrative ideal and the archipelago's dispersed agrarian reality, forcing continuous adaptation of Chinese templates to local kin networks and provincial distance. Margin against shock remains modest given harvest variability and disease, but the state holds surplus through temple granaries and corvee labor; the dominant direction is centralizing codification and Buddhist institutional expansion.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Mountainous island chain with narrow coastal plains and interior basins; Kinai heartland around Nara accessible by overland routes and Inland Sea shipping; provincial distances impose weeks of travel to frontier regions in Kyushu and Tohoku.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon climate with wet summers and dry winters; rice paddy agriculture depends on predictable seasonal rainfall; interannual variability causes periodic crop failures but no secular drift evident within the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic and typhoon exposure endemic; the 734 earthquake damages Nara; tsunamis threaten coastal settlements; volcanic activity dormant in the core region but active in peripheral zones; infrastructure holds limited margin against major events.<br><br>
-__Resource & Energy Endowment:__ Forested mountains supply timber for temple construction; limited metal ores require imports; agricultural land concentrated in alluvial plains; energy stock adequate for the population ceiling but spatially constrained.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban concentration at Nara produces localized sanitary pressure; organic waste absorbed by surrounding agricultural hinterland; no evidence of sink saturation at this population scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Smallpox epidemics (notably 735-737) devastate the population, killing perhaps one-third; endemic dysentery and parasitic infections elevate baseline mortality; disease load trending episodically severe.<br><br>
-__Nutrition & Physiological Vitality:__ Rice-based diet supplemented by millet, vegetables, and fish; nutritional adequacy variable by region and class; skeletal evidence suggests modest stature; elite diet richer but populace near subsistence margins.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygynous elite marriage patterns; commoner households pair-bonded; reproductive capacity constrained by disease mortality and nutritional stress; no major selective pressure shift within window.<br><br>
-__Demographic Renewal & Density:__ Population estimated at 5-6 million; growth modest after epidemic shocks; age structure skewed by mortality crises; density concentrated in Kinai and northern Kyushu; frontier regions sparsely settled.<br><br>
-__Attrition & Dependency Overhang:__ Epidemic mortality creates orphan and widow cohorts; extended kin networks absorb dependents; corvee labor demands strain productive households; dependency load manageable but episodically acute after disease waves.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Wet-rice agriculture forms the subsistence base; supplemented by dry grains, vegetables, and fishing; household pooling buffers lean seasons; famine risk present but not dominant during the window.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle power; ox-drawn plows spreading; water control for paddy irrigation; firewood and charcoal for heating and metallurgy; conversion efficiency low but adequate for agrarian surplus generation.<br><br>
-__Labor Organization & Coercion:__ Ritsuryo system mandates corvee labor (yo) and military service (cho); unfree laborers (nuhi) work estates; peasant households tied to land through registration; coercion moderate, mediated by distance from capital.<br><br>
-__Production & Surplus Capacity:__ Rice yields support state extraction and temple construction; surplus sufficient for monumental projects (Todaiji) but margins thin; good harvests enable accumulation, poor ones strain the system.<br><br>
-__Storage, Reserves & Buffering:__ State granaries (shoso) and temple storehouses hold emergency reserves; provincial reserves nominally maintained; buffering capacity adequate for single-year shortfalls, stressed by consecutive failures.<br><br>
-__Exchange, Trade & Logistics:__ Market activity limited; barter and in-kind exchange dominant; official markets in capital; Inland Sea and overland routes carry tribute goods; logistics gated by distance and terrain.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Rice and silk serve as value measures; Wado copper coins minted (708) but circulation limited; credit mechanisms underdeveloped; deferred obligations tracked through written registers.<br><br>
-__Surplus Extraction & Redistribution:__ Land tax (so), corvee labor (yo), and local products (cho) flow to capital; redistributed through official salaries, temple grants, and public works; extraction load sustainable but resented at margins.<br><br>
-__Wealth Distribution & Asset Defense:__ Court aristocracy and temples accumulate land and goods; commoners hold minimal surplus; proto-shoen grants begin concentrating wealth; asset defense through official registration and imperial favor.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste recycled as fertilizer; urban organic waste managed through dispersal; metallurgical slag localized; waste volume low relative to sink capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village communities (mura) provide mutual aid networks; kin solidarity primary; trust radius extends to local community; epidemic crises strain but do not rupture reciprocity structures.<br><br>
-__Stratification, Status & Group Identity:__ Rigid status hierarchy: imperial house, court nobility (kuge), provincial officials, commoners, and unfree; boundaries legally codified through ritsuryo; limited permeability; Buddhist clergy form parallel hierarchy.<br><br>
-__Kinship, Family & Inheritance:__ Bilateral kinship with patrilineal emphasis among elites; inheritance partible but increasingly favoring main heir; marriage alliances critical for aristocratic advancement; commoner households patrilocal.<br><br>
-__Civic Association & Self-Organization:__ Village assemblies manage irrigation and commons; craft guilds (be) serve palace and temples; Buddhist lay associations emerging; associational density low but functional.<br><br>
-__Leisure, Play & Sociability:__ Court poetry gatherings, musical performances, and Buddhist festivals; commoner festivals tied to agricultural cycle; sumo and archery; sociability structured by status boundaries.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to provincial governors; Buddhist merit-making offers consolation; mobility to frontier possible; unmetabolized grievance accumulates around corvee burdens and epidemic losses.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Emperor as ritual sovereign; Council of State (Dajokan) as executive; ministries administer provinces; power centralizing under ritsuryo model but provincial compliance variable; Fujiwara clan rising through marriage.<br><br>
-__Succession & Power Transfer:__ Imperial succession contested among eligible princes; abdication common; Fujiwara manipulation intensifying; transfer prone to factional intrigue but not outright civil war in this window.<br><br>
-__Legitimacy & Political Narrative:__ Divine descent ideology; Kojiki and Nihon Shoki establish imperial mythology (712, 720); Chinese cosmological models overlay native claims; legitimacy stable within elite consensus.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Provincial governors appointed triennially; census and tax registers maintained; corruption and distance erode compliance; administrative reach impressive for the era but enforcement uneven.<br><br>
-__Political Participation & Mobilization:__ Participation confined to court aristocracy; provincial elites petition and negotiate; commoner mobilization absent except through corvee; no channels for popular political voice.<br><br>
-__Geopolitical Position & External Relations:__ Diplomatic missions to Tang China (suspended after 838 in next period); Korean kingdoms (Silla, Balhae) maintain relations; no military threats; status-conscious tributary posture toward Tang.<br><br>
-__Coercive Apparatus & Means of Force:__ Conscript army (gundan) organized by province; guard units protect capital; weapons standardized (swords, bows, armor); force distributed to provincial commanders; no major deployments.<br><br>
-__Internal Order & Threat Environment:__ Banditry localized; Emishi resistance on northeastern frontier; internal order maintained; no large-scale rebellion during window; disorder within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mounted courier system links capital to provinces; messages travel days to weeks; court communication rapid; information reaches commoners through proclamation and temple networks.<br><br>
-__Record, Storage & Persistence:__ Shosoin archives preserve administrative documents; temple libraries store sutras; population registers maintained; paper and wood documents vulnerable to fire but actively copied; persistence systematic.<br><br>
-__Framing, Censorship & Discourse Norms:__ Official historiography frames imperial narrative; Buddhist texts dominate religious discourse; no systematic censorship but speech constrained by status hierarchy; court etiquette governs elite communication.<br><br>
-__Reception, Attention & Amplification:__ Elite literacy enables document circulation; Buddhist preaching reaches broader audiences; amplification through ritual recitation and temple networks; commoner attention focused on oral transmission.<br><br>
-__Signal Integrity & Noise Load:__ Official records standardized; copying errors occur but verification through collation possible; information volume low; noise load manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Confucian moral hierarchy overlays native concepts of pollution and purity; Buddhist karma provides cosmic justice framework; collective responsibility norms; justice understood as proper order maintenance.<br><br>
-__Law, Codification & Regulatory Evolution:__ Taiho Code (701) and Yoro Code (718) establish comprehensive criminal (ritsu) and administrative (ryo) law; Chinese model adapted; active supplementary legislation (kyaku, shiki) through window.<br><br>
-__Adjudication, Enforcement & Liability:__ Ministry of Justice and provincial courts adjudicate; penalties include exile, corvee, corporal punishment, and death; collective liability for kin; enforcement uneven in distant provinces.<br><br>
-__Rights, Protections & Compliance Burden:__ Subjects classified by status with corresponding obligations; compliance burden heavy on peasants (registration, corvee, military service); limited protections against official abuse; predictability within code framework.<br><br>
-__Impunity & Unredressed Wrong:__ Elite offenders receive lighter treatment; provincial officials exploit distance; some wrongs unredressed due to enforcement gaps; impunity accumulates at margins but not destabilizing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Chinese cosmology, yin-yang, and five-phases theory dominant; Buddhist philosophy (Six Nara Schools) explores consciousness and reality; empirical inquiry limited; paradigm received from continent.<br><br>
-__Applied Knowledge & Technical Method:__ Temple architecture, bronze casting (Great Buddha, 752), irrigation engineering, papermaking, and textile production; techniques imported and adapted; craft knowledge transmitted through guild lineages.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Daigaku-ryo (state university) trains bureaucrats in Chinese classics; temple schools for clergy; literacy confined to elite and clergy; commoner illiteracy near-universal; knowledge stock growing through active importation.<br><br>
-__Obsolescence & Knowledge Decay:__ Native oral traditions partially displaced by Chinese written models; some local craft knowledge lost to centralization; active copying preserves Buddhist and legal texts; decay rate low given institutional investment.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Imperial sun-lineage mythology codified; Kojiki and Nihon Shoki establish origin narrative; Buddhist cosmology overlays native kami beliefs; identity coalesces around imperial court and archipelago distinctiveness.<br><br>
-__Artistic Expression & Material Culture:__ Tang-influenced architecture (Todaiji, Yakushiji); Buddhist sculpture in bronze and wood; court poetry in Chinese (kanshi); material culture displays continental prestige; aesthetic forms imported and adapting.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite confidence in civilizational project; anxiety around epidemic mortality; Buddhist sensibility emphasizes impermanence; mood oscillates between building ambition and epidemic-induced sorrow.<br><br>
-__Form Exhaustion & Meaning Decay:__ Chinese models fresh and generative; native forms partially suppressed but not exhausted; no significant form-exhaustion evident; meaning-production actively expanding through Buddhist and literary investment.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Buddhist karma and rebirth cycle overlays native kami worldview; continental cosmology (heaven-earth-human) adopted; existential outlook balances merit-accumulation with acceptance of suffering and impermanence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ State-sponsored Buddhist rituals for realm protection; sutra copying as merit; shrine worship continues for kami; annual court rituals; monastic discipline maintained; devotional practice intensifying.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Six Nara schools (Hosso, Kegon, Sanron, Jojitsu, Kusha, Ritsu) with temple headquarters; state controls ordination; Todaiji as central institution; doctrinal authority consolidated but schools coexist without sharp conflict.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism spreading from elite to provincial populations; honji suijaku synthesis of Buddha and kami emerging; native practices absorbed rather than displaced; spiritual reach extending geographically and socially.<br><br>
-__Disenchantment & Sacred Discharge:__ No significant disenchantment; sacred vitality high; epidemic crises intensify rather than erode religious commitment; transcendence need met through Buddhist devotion and merit-making; minimal spiritual residue unaddressed.<br><br>
+# __700 CE – 794 CE — Nara State and Ritsuryo Codification__
+
+__Summary:__ The Japanese archipelago's first centralized state crystallizes around a Chinese-derived writing system that makes governance, law, and historical memory persist outside living memory; the binding constraint is the adoption of continental script and legal codes by a court elite too thin to extend literate administration beyond the capital basin.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Yamato basin and surrounding Kinai region concentrate the state's administrative reach, with mountainous terrain fragmenting the archipelago into semi-autonomous provinces connected by roads modeled on Tang infrastructure; the Nara basin itself offers limited arable land, prompting the capital's eventual relocation.
+
+__Climate Regime & Volatility:__ A temperate monsoon climate with predictable wet summers supports double-cropping in favored lowlands; seasonal rhythms shape the agricultural calendar and the court's ritual year alike.
+
+__Hazard Regime & Exposure:__ Earthquakes, typhoons, and periodic flooding threaten harvests and infrastructure; epidemic disease imported via continental trade routes strikes the court repeatedly, including smallpox outbreaks that decimate the Fujiwara leadership in 735–737 CE.
+
+__Resource & Energy Endowment:__ Forest cover provides timber for the massive temple complexes at Nara; copper and gold deposits fund the casting of the Great Buddha at Todai-ji; maritime access to the Korean peninsula and Tang China enables the import of Buddhist texts, silk, and administrative expertise.
+
+__Waste Absorption & Sink Capacity:__ The capital at Nara lacks adequate drainage; accumulated waste and crowding contribute to epidemics, and the court's response is relocation rather than sanitary reform.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Smallpox and other infectious diseases arrive via continental contact, striking populations without acquired immunity; the 735–737 epidemic kills perhaps one-third of the population, including four Fujiwara brothers who dominate court politics.
+
+__Nutrition & Physiological Vitality:__ Rice cultivation in irrigated paddies provides the caloric base; court officials receive grain stipends while provincial populations subsist closer to the margin.
+
+__Care, Healing & Recovery Capacity:__ Buddhist monasteries offer healing prayers and herbal remedies; court physicians draw on continental medical texts, but therapeutic capacity is concentrated at the capital.
+
+__Reproductive Biology & Pairing Dynamics:__ Elite polygyny concentrates reproduction among high-ranking families; imperial succession generates factional competition among maternal lineages.
+
+__Demographic Renewal & Density:__ Population recovery follows the mid-century epidemic, though growth remains constrained by limited arable land and provincial administration too weak to extend intensive cultivation.
+
+__Attrition & Dependency Overhang:__ Epidemic losses leave households depleted; temple populations absorb some orphaned and displaced persons as acolytes and laborers.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The ritsuryo system allocates rice paddies to households in return for tax and labor obligations, aiming to replicate Tang equal-field principles on Japanese terrain.
+
+__Energy Capture & Conversion:__ Human and animal muscle power the agricultural cycle; water mills are rare; forest resources fuel metallurgy and construction.
+
+__Labor Organization & Coercion:__ Corvee labor (yo) mobilizes provincial populations for construction, transport, and military service; household registration (koseki) theoretically tracks the labor base, though registers decay rapidly.
+
+__Production & Surplus Capacity:__ Intensive rice cultivation in the Kinai generates taxable surplus; provincial rice is transported to the capital as tribute, funding court, clergy, and construction.
+
+__Storage, Reserves & Buffering:__ State granaries (shoso) at the capital and in provincial seats store tribute rice; the Shosoin treasury at Todai-ji preserves administrative documents alongside precious goods.
+
+__Exchange, Trade & Logistics:__ State-managed markets exist at the capital; coinage (wado kaichin, from 708 CE) circulates narrowly; most exchange remains in kind.
+
+__Value Storage, Credit & Deferred Exchange:__ Rice and silk serve as units of account and payment; metallic coinage fails to displace barter and tribute relations.
+
+__Surplus Extraction & Redistribution:__ Land tax (so), labor tax (yo), and produce tax (cho) extract surplus from registered households; Buddhist temples and aristocratic estates (shoen) begin to accumulate tax-exempt holdings.
+
+__Wealth Distribution & Asset Defense:__ Aristocratic families and major temples concentrate wealth; the court awards rank and position, which confer land rights and stipends.
+
+__Byproducts & Waste Routing:__ Construction debris and household waste accumulate in the capital; no systematic drainage or waste removal exists.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral kinship with emerging patrilineal emphasis organizes aristocratic succession; the Fujiwara clan consolidates power through strategic marriages to the imperial line.
+
+__Association & Mutual Aid:__ Village communities (mura) organize irrigation and mutual aid; Buddhist temples provide charitable functions and absorb marginal populations.
+
+__Leisure, Play & Sociability:__ Court life revolves around poetry composition, music, and Buddhist observances; seasonal festivals mark the agricultural and ritual year.
+
+__Stratification, Status & Group Structure:__ A hierarchical court rank system (ikai) assigns status and office; below the aristocracy, commoners are registered as ryomin (good people) or senmin (base people), the latter including hereditary service groups.
+
+__Administrative Capacity & Institutional Integrity:__ The ritsuryo codes (Taiho, 701 CE; Yoro, 718 CE) establish ministries, provincial offices, and household registers modeled on Tang precedent; in practice, administration reaches effectively only the Kinai region and decays rapidly at provincial distance.
+
+__Coercive Apparatus & Means of Force:__ A conscript army modeled on Tang principles exists on paper; actual military capacity depends on provincial strongmen and emishi frontier campaigns in the northeast.
+
+__Discharge, Disorder & Decay:__ Provincial registers deteriorate; peasants flee registration to escape tax and corvee burdens; the system of household allocation erodes within decades of its promulgation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Epidemic and natural disaster generate anxiety addressed through Buddhist ritual and state-sponsored prayers; the court projects confidence through monumental construction.
+
+__Leadership & Personal Authority:__ Emperors reign with symbolic authority while Fujiwara and other great families compete for regency and ministerial control; Shomu (r. 724–749) exercises unusual personal authority in sponsoring the Great Buddha.
+
+__Legitimacy as Lived Allegiance:__ The compilation of Kojiki (712 CE) and Nihon Shoki (720 CE) constructs an imperial genealogy tracing descent from the sun goddess Amaterasu, anchoring legitimacy in mythic ancestry.
+
+__Political Will & Collective Resolve:__ The court mobilizes resources for massive Buddhist construction projects (Todai-ji, provincial kokubunji temples), demonstrating the capacity for coordinated action across the realm.
+
+__External Relations & Posture:__ Embassies to Tang China (kentoshi) import learning, texts, and prestige goods; relations with Silla Korea alternate between hostility and exchange; frontier campaigns against emishi peoples extend nominal control northward.
+
+__Disaffection, Apathy & Spent Will:__ Repeated epidemics and construction burdens strain provincial loyalty; by century's end, the court relocates to escape both accumulated waste and political entanglements with Nara's powerful temples.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Classical Chinese (kanbun) serves as the written language of law, administration, and Buddhism; oral Japanese diverges sharply from the written code, confining literacy to a trained elite.
+
+__Channels & Transmission Velocity:__ Official couriers carry documents along state roads; provincial reports reach the capital seasonally; Buddhist networks transmit texts between temples.
+
+__Record, Storage & Persistence:__ The ritsuryo state generates household registers, legal codes, official chronicles, and administrative records stored in state and temple archives; the Shosoin treasury at Todai-ji preserves documents that survive to the present.
+
+__Framing, Censorship & Discourse Norms:__ The Kojiki and Nihon Shoki frame imperial legitimacy in mythic terms; court historiography serves the ruling house; Buddhist texts proliferate without state censorship.
+
+__Reception, Attention & Amplification:__ Literacy reaches perhaps a few thousand court officials and clergy; provincial populations encounter writing primarily as tax registers and religious invocation.
+
+__Signal Integrity & Noise Load:__ The distance between written Chinese and spoken Japanese creates persistent translation burdens; provincial administration suffers from slow communication and decaying records.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Confucian principles of hierarchy and propriety underpin the rank system; Buddhist notions of karma and merit shape court piety.
+
+__Law, Codification & Regulatory Evolution:__ The Taiho (701 CE) and Yoro (718 CE) codes adapt Tang legal principles to Japanese conditions, specifying offenses, punishments, and administrative procedures in written form that outlasts any individual memory.
+
+__Adjudication, Liability & Sanction:__ Ministry of Justice (gyobusho) theoretically adjudicates criminal matters; in practice, aristocratic status shields elites from ordinary penalties, and provincial justice remains local.
+
+__Rights, Protections & Compliance Burden:__ Registered commoners owe tax and labor but hold theoretical claims to allocated land; in practice, registration burdens drive flight and underregistration.
+
+__Impunity & Unredressed Wrong:__ Aristocratic and clerical immunity concentrates impunity at the top; provincial populations have limited recourse against local officials.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Chinese classics, Buddhist sutras, and Tang administrative texts constitute the knowledge base; inquiry operates within received frameworks rather than generating new paradigms.
+
+__Applied Knowledge & Technical Method:__ Architectural, metallurgical, and agricultural techniques imported from the continent enable monumental construction and rice cultivation; papermaking and ink production support manuscript culture.
+
+__Education, Knowledge Stock & Skill Distribution:__ The state university (daigakuryo) trains officials in Chinese classics; Buddhist monasteries educate monks; literacy remains confined to a tiny elite.
+
+__Obsolescence & Knowledge Decay:__ Earlier oral traditions recede as writing fixes official history; provincial knowledge persists outside the literate record.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Kojiki and Nihon Shoki construct a continuous imperial lineage from divine origins, fixing mythic memory in written form for the first time; this written ancestry becomes the foundation of court legitimacy.
+
+__Legitimating Narrative & Ideology:__ Chinese models of virtuous rulership and Buddhist notions of the dharma-protecting state (chingo kokka) justify imperial authority; the emperor serves as both secular sovereign and ritual guarantor of cosmic order.
+
+__Artistic Expression & Material Culture:__ Buddhist sculpture, temple architecture, and manuscript illumination reach high sophistication; Chinese and Korean artisans transmit techniques; court culture emphasizes poetry composition in Chinese.
+
+__Form Exhaustion & Meaning Decay:__ The Tang model remains generative rather than exhausted; adaptation to Japanese conditions creates distinctive forms rather than stale imitation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Buddhist cosmology of karma, rebirth, and merit accumulation shapes court piety; indigenous kami worship continues alongside Buddhism without systematic integration.
+
+__Ritual, Devotion & Sacred Practice:__ State-sponsored Buddhist rituals (sutra copying, temple construction, ordination) accumulate merit for the realm; kami rituals mark the agricultural calendar and imperial succession.
+
+__Religious Institutions & Doctrinal Authority:__ Major temples (Todai-ji, Kofuku-ji, Yakushi-ji) accumulate land, labor, and political influence; the state supervises ordination and monastic discipline through the Sogo (Office of Monastic Affairs).
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Six schools of Nara Buddhism (Sanron, Hosso, Kegon, Ritsu, Kusha, Jojitsu) transmit continental doctrines; indigenous kami are increasingly interpreted as local manifestations of Buddhist deities.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident; Buddhist and kami observances retain efficacy in court perception, and the relocation from Nara aims partly to escape the political entanglement of powerful temples rather than their sacred claims.

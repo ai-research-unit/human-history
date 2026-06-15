@@ -1,69 +1,139 @@
-# __2008 CE – 2026 CE__ — Otaku Culture and Digital Content Industry
-__Summary:__ Pan-temporal snapshot of Japan's digital content ecosystem across the smartphone era, with anime, manga, and gaming fan communities migrating from physical to digital distribution while maintaining distinctive participatory cultures; the binding constraint is platform dependency as global streaming services capture distribution while Japanese creators retain production, with substantial margin from irreplaceable content IP and the direction of change strongly expansive as Japanese digital content achieves unprecedented global reach alongside domestic market maturation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Digital distribution eliminates the geographic friction that once required physical presence in Akihabara, Nakano, or Comiket venues, enabling global fandom while eroding the pilgrimage significance of otaku geography; physical spaces persist as social anchors but lose commercial necessity.<br><br>
-__Climate Regime & Volatility:__ Summer Comiket scheduling around typhoon season creates recurring logistical challenges for the largest remaining physical gathering (500,000+ attendees pre-COVID); climate otherwise irrelevant to digital content flows.<br><br>
-__Hazard Regime & Exposure:__ The 2011 earthquake demonstrated digital content's resilience as online communities provided psychological support and entertainment during crisis; physical merchandise supply chains proved vulnerable while digital distribution continued uninterrupted.<br><br>
-__Resource & Energy Endowment:__ Streaming infrastructure and data centers require substantial energy, contributing to Japan's post-Fukushima energy constraints; anime production's increasing reliance on digital tools adds to studio power requirements.<br><br>
-__Waste Absorption & Sink Capacity:__ Physical merchandise (figures, goods, doujinshi) generates waste as collections turn over, though volumes remain modest; declining physical media (DVDs, Blu-rays) creates some e-waste, offset by streaming's dematerialization.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 (2020-2023) forced Comiket cancellations and disrupted anime production schedules as studios implemented social distancing, accelerating digital distribution adoption while revealing the industry's dependence on concentrated physical production.<br><br>
-__Nutrition & Physiological Vitality:__ Extended screen time and sedentary content consumption patterns raise health concerns among heavy users, though no systematic physiological impact documented; industry not affected by workforce nutrition issues.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Otaku culture sometimes framed in media as contributing to relationship avoidance and declining birth rates, though causation unclear and likely reversed (social isolation preceding rather than caused by intense fandom); parasocial relationships with fictional characters normalized.<br><br>
-__Demographic Renewal & Density:__ Aging otaku generation (1980s-1990s cohort) joined by younger digital natives with different consumption patterns; global audience expansion compensates for domestic demographic plateau; creator workforce faces aging and recruitment challenges.<br><br>
-__Attrition & Dependency Overhang:__ Veteran animators and manga artists aging without adequate pension coverage, creating industry-specific precarity; exploitation of young creators through low wages and overwork produces burnout attrition that the industry absorbs through continuous fresh recruitment.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Entry-level anime industry wages notoriously below subsistence (reports of monthly incomes under 100,000 yen for new animators), with creators subsidized by family support or secondary income; precarity concentrated at production base while executives and IP owners profit.<br><br>
-__Energy Capture & Conversion:__ Digital animation production increasing energy intensity as 3D/CGI techniques supplement traditional 2D; studio power requirements rising but not constraining output; streaming delivery energy costs externalized to global infrastructure.<br><br>
-__Labor Organization & Coercion:__ Anime production notorious for exploitative labor practices, with freelance structures avoiding employment protections; Japanese Animation Creators Association surveys document chronic overwork; weak unionization leaves workers with minimal bargaining power.<br><br>
-__Production & Surplus Capacity:__ Anime production expanded dramatically (200+ TV series annually by 2020s), approaching and possibly exceeding sustainable output given workforce constraints; manga and gaming production more sustainable with less extreme labor practices.<br><br>
-__Storage, Reserves & Buffering:__ Content libraries represent substantial stored value, with legacy anime and manga catalogs generating streaming licensing revenue; IP ownership concentrated in publishers and production committees, with creators holding minimal reserves from their work.<br><br>
-__Exchange, Trade & Logistics:__ Global streaming platforms (Crunchyroll, Netflix, Amazon) dominate international distribution, with Japanese companies (Aniplex, Kadokawa) maintaining production control while ceding delivery infrastructure; licensing negotiations increasingly favor platforms as gatekeepers.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Merchandise and licensing revenues provide IP monetization over extended periods, with successful franchises generating returns decades after creation; creator royalties minimal compared to publisher and licensor revenues.<br><br>
-__Surplus Extraction & Redistribution:__ Production committee system distributes risk and reward across multiple stakeholders (publishers, studios, distributors, merchandise companies), with surplus concentrated in IP holders rather than labor; global revenue flows captured by established Japanese media conglomerates.<br><br>
-__Wealth Distribution & Asset Defense:__ IP ownership concentrated in publishers (Shueisha, Kodansha, Shogakukan) and entertainment conglomerates (Sony, Bandai Namco); individual creators rarely retain rights to their most successful work; wealth inequality between IP owners and production workers extreme.<br><br>
-__Byproducts & Waste Routing:__ Unsold physical merchandise written off and destroyed; failed productions represent sunk costs absorbed by production committees; digital distribution reduces physical waste but creates content glut requiring algorithmic curation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Tight-knit fan communities provide social support and identity for members, with online migration preserving and extending community bonds; parasocial relationships with creators and VTubers supplement or substitute for offline connections.<br><br>
-__Stratification, Status & Group Identity:__ Otaku identity destigmatized over the window, shifting from marginal to mainstream; internal stratification by knowledge depth, collection completeness, and creator access; global fans accepted but Japanese primacy assumed in authenticity hierarchies.<br><br>
-__Kinship, Family & Inheritance:__ Intergenerational transmission of fandom occurring as 1980s-1990s otaku become parents; family-friendly content (Demon Slayer, Spy x Family) bridges generations; collection inheritance emerging as first otaku generation ages.<br><br>
-__Civic Association & Self-Organization:__ Fan conventions, online communities, and creator circles constitute rich associational life; doujinshi circles maintain physical organization around Comiket while digital platforms (Pixiv, Twitter) enable continuous interaction; self-governance through community norms rather than formal structure.<br><br>
-__Leisure, Play & Sociability:__ Content consumption, creation, and discussion structure leisure time for engaged fans; VTuber livestreams create real-time parasocial gathering spaces; gaming communities provide sociability through cooperative and competitive play.<br><br>
-__Grievance Channels & Social Discharge:__ Fan criticism of adaptations, localizations, and creator decisions channeled through social media with occasional intensity; harassment of creators and industry workers a documented problem inadequately addressed; grievances generally metabolized through community discussion rather than institutional channels.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Content industry governance through producer networks and industry associations (Japan Animation Association, publishers) with minimal government intervention; Cool Japan initiative provides some state support without controlling direction.<br><br>
-__Succession & Power Transfer:__ Generational transition underway as founding otaku culture figures (manga artists, studio founders) retire or die; corporate succession in publishers and studios follows conventional Japanese business patterns; no succession crisis but continuous talent replenishment required.<br><br>
-__Legitimacy & Political Narrative:__ Otaku content framed as soft power asset in official discourse (Cool Japan policy from 2012), with anime and manga positioned as cultural exports comparable to K-pop; narrative legitimizes government investment while creators remain skeptical of bureaucratic involvement.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Cool Japan Fund criticized for misallocation and ineffective projects; industry self-regulation through content ratings adequate for domestic market; export requires navigating diverse international regulatory environments.<br><br>
-__Political Participation & Mobilization:__ Creators occasionally mobilize against proposed regulations (copyright reform, content restrictions), with effective campaigns against manga and anime censorship proposals; generally apolitical culture with exceptions around creative freedom issues.<br><br>
-__Geopolitical Position & External Relations:__ Japanese content dominates Asian markets while competing with Korean wave (K-drama, K-pop); China both major market and production competitor, with political tensions affecting content access; U.S. streaming platforms as partners and competitors simultaneously.<br><br>
-__Coercive Apparatus & Means of Force:__ Copyright enforcement against piracy limited in effectiveness, with unauthorized streaming sites and scanlation outpacing legal response; no physical coercion relevant to content industry except occasional obscenity prosecutions.<br><br>
-__Internal Order & Threat Environment:__ Piracy remains endemic, with unauthorized distribution preceding and often enabling legal services (exposure creating fans who later pay); industry accepts piracy as partially functional while seeking technical and legal countermeasures.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Global simultaneous streaming (simulcast) collapsed the months-long delay that once separated Japanese broadcast from international access, enabling real-time global fandom; social media amplifies popular series instantaneously across language barriers.<br><br>
-__Record, Storage & Persistence:__ Digital platforms preserve and provide access to extensive back catalogs previously difficult to obtain; some older works remain unreleased or lost; fan archiving fills gaps but operates in legal gray zones.<br><br>
-__Framing, Censorship & Discourse Norms:__ Localization debates ongoing regarding translation accuracy, censorship of content for international markets, and cultural context; Japanese originals accessible enough to enable critical comparison with localizations.<br><br>
-__Reception, Attention & Amplification:__ Algorithm-driven recommendation concentrates attention on breakout hits while long-tail content struggles for visibility; viral moments (Attack on Titan episodes, Demon Slayer film) achieve global cultural penetration beyond traditional anime audiences.<br><br>
-__Signal Integrity & Noise Load:__ Content volume exceeds individual consumption capacity, requiring filtering through community curation, influencer recommendations, and platform algorithms; signal-to-noise challenges increasing as production expands.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Creator rights discourse intensifying as awareness of industry exploitation grows, though effective reform limited; fans increasingly sensitive to credit and compensation issues, pressuring publishers on creator treatment.<br><br>
-__Law, Codification & Regulatory Evolution:__ Copyright law updated to address digital distribution and streaming, with 2020 amendment criminalizing manga piracy downloads; content regulations (obscenity law) apply but enforcement sporadic and politically contested.<br><br>
-__Adjudication, Enforcement & Liability:__ Copyright enforcement against major piracy sites occasionally successful (Mangamura shutdown 2018), but replacement sites emerge rapidly; international enforcement practically impossible; platform liability debated.<br><br>
-__Rights, Protections & Compliance Burden:__ Creator contracts typically favor publishers with minimal rights retention; animator employment classifications avoid labor protections; compliance burden for international distribution significant given varied national regulations.<br><br>
-__Impunity & Unredressed Wrong:__ Labor exploitation in anime production documented but rarely prosecuted; piracy largely unpunished at consumer level; power imbalances between creators and publishers/studios leave grievances unredressed through legal channels.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Media studies, fan studies, and anime studies established as academic fields with Japanese, Western, and Asian scholarly communities; industry data increasingly available through streaming platforms and research organizations.<br><br>
-__Applied Knowledge & Technical Method:__ Digital animation techniques (CGI, motion capture, AI-assisted in-betweening) advancing rapidly with Japanese studios adopting while maintaining traditional aesthetic; manga creation digitizing through tools like CLIP STUDIO PAINT.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Animation schools and manga education programs exist but quality variable; apprenticeship within studios remains primary training path; self-taught creators increasingly successful through online platforms.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional hand-drawn animation skills declining as digital techniques dominate; master animators' tacit knowledge at risk as they age out; some preservation efforts through documentation and teaching, but significant knowledge attrition occurring.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Foundational works (Astro Boy, Gundam, Dragon Ball, Evangelion) constitute shared mythological reference points; otaku identity built on deep engagement with textual canon; Japanese cultural identity increasingly linked to content export success.<br><br>
-__Artistic Expression & Material Culture:__ Distinctive visual vocabularies (anime aesthetic, manga conventions) globally recognized and influential; material culture of figures, merchandise, and cosplay constitutes embodied fandom; VTuber avatars extend anime aesthetics into real-time performance.<br><br>
-__Collective Mood & Behavioral Disposition:__ Generational shift from defensive otaku subculture to confident mainstream identity; international validation elevates domestic status; mood increasingly celebratory though industry insiders aware of production pressures hidden behind polished output.<br><br>
-__Form Exhaustion & Meaning Decay:__ Isekai (transported to another world) genre showing exhaustion through repetitive iterations; seasonal anime overproduction dilutes impact; fans increasingly cynical about derivative works while still consuming them; renewal occurs through occasional breakout innovations.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Anime and manga explore metaphysical themes extensively (Evangelion's religious imagery, isekai afterlife scenarios), providing secular engagement with existential questions; content consumption as meaning-making practice for some fans.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Comiket attendance approaches pilgrimage significance for devoted fans; daily engagement with content (watching, reading, collecting) structures time ritualistically; shrine visits to "sacred sites" (locations depicted in anime) blend fandom with traditional practice.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal religious dimension, though some temples and shrines leverage anime connections for tourism; anime occasionally adapts religious narratives (Buddhist, Shinto, Christian imagery) without doctrinal intent.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Japanese content carries aesthetic and narrative elements globally without spiritual conversion; some overseas fans develop interest in Japanese religion through content exposure, representing minor cultural diffusion pathway.<br><br>
-__Disenchantment & Sacred Discharge:__ Parasocial relationships and fictional worlds provide enchantment within secular frame, potentially compensating for broader disenchantment; when favored series end or creators disappoint, fans experience minor disenchantment requiring re-anchoring to new objects of devotion.<br><br>
+# __2008 CE – 2026 CE — Otaku Culture and Digital Content Industry__
+
+__Summary:__ Japan's content industries — anime, manga, gaming, and associated fan cultures — undergo digital transformation that globalizes distribution while reshaping domestic production, with streaming platforms, digital manga, and user-generated content (VTubers, Vocaloid) expanding international reach. The binding constraint is the tension between analog production traditions embedded in creative industries and the platformization of distribution, which delivers unprecedented global audiences while concentrating value capture in foreign technology companies and altering the economic foundations that sustained the original content ecosystem.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Tokyo concentrates anime studios, manga publishers, and game developers within overlapping districts (Akihabara, Ikebukuro, Nakano), creating dense creative clusters that facilitate collaboration and labor mobility; pandemic disruptions (2020–2022) force remote production experiments that partially persist.
+
+__Climate Regime & Volatility:__ Seasonal convention cycles (Comiket in summer and winter, various regional events) structure fan community gathering, with extreme summer heat at Tokyo Big Sight becoming a recurring health concern; digital alternatives expand during pandemic restrictions.
+
+__Hazard Regime & Exposure:__ The 2011 Tohoku earthquake disrupts production schedules and supply chains temporarily; Kyoto Animation arson attack (2019) destroys irreplaceable physical assets and claims 36 lives, exposing the vulnerability of concentrated creative production facilities.
+
+__Resource & Energy Endowment:__ High-bandwidth domestic networks enable digital asset transfer between studios, freelancers, and overseas outsourcing partners; cloud rendering and storage expand production capacity beyond physical studio limitations.
+
+__Waste Absorption & Sink Capacity:__ Physical merchandise, promotional materials, and unsold inventory generate ongoing disposal challenges; digital distribution reduces but does not eliminate physical waste streams as collector markets sustain demand for tangible goods.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic forces cancellation or restriction of major events (Comiket, AnimeJapan, concerts) through 2020–2022, accelerating digital distribution and virtual event formats while devastating venue-dependent revenue streams.
+
+__Nutrition & Physiological Vitality:__ Anime production notoriously demands extreme working hours with minimal compensation for entry-level animators; reports of deaths from overwork (karoshi) in the industry prompt limited reform discussion without structural change.
+
+__Care, Healing & Recovery Capacity:__ Mental health challenges among content creators receive increasing attention, with public acknowledgments by prominent figures reducing stigma while highlighting inadequate support systems.
+
+__Reproductive Biology & Pairing Dynamics:__ Content depicting romantic relationships becomes major genre category (romance manga, dating simulations), while real-world relationship formation rates among heavy content consumers generate recurring social commentary.
+
+__Demographic Renewal & Density:__ Aging domestic audience for traditional content formats drives international expansion strategy; declining youth population reduces domestic market growth potential, making overseas revenue increasingly essential.
+
+__Attrition & Dependency Overhang:__ Veteran animators and manga artists age without adequate succession planning; apprenticeship traditions break down as economic pressures force experienced creators to maintain production volume rather than train newcomers.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Entry-level anime animators earn below minimum wage equivalent when measured by hourly output, with monthly salaries around 100,000–150,000 yen common for in-between animators; many require parental support or secondary employment to survive.
+
+__Energy Capture & Conversion:__ Digital production tools (Clip Studio Paint, After Effects, Unity) reduce physical material costs while shifting expenditure to software licenses and hardware; cloud services enable scalable rendering capacity.
+
+__Labor Organization & Coercion:__ Freelance and contract arrangements dominate anime production, with studios maintaining minimal permanent staff and assembling project-specific teams; labor organizing remains minimal, with no effective industry union. Manga remains predominantly solo creator work with editorial support.
+
+__Production & Surplus Capacity:__ Anime production volume expands dramatically, from approximately 200 series annually in 2008 to over 300 by 2020, driven by streaming platform demand; quality variance increases as production capacity stretches thin. Manga publication shifts partially to digital-first serialization (Shonen Jump+, pixivComic).
+
+__Storage, Reserves & Buffering:__ Production committees distribute risk across multiple stakeholders (publishers, broadcasters, merchandise licensors), enabling ambitious projects while fragmenting revenue; streaming licensing provides advance funding that stabilizes cash flow.
+
+__Exchange, Trade & Logistics:__ Crunchyroll, Netflix, Amazon Prime Video, and Disney+ compete for anime licensing, injecting foreign capital while extracting value through platform fees; physical merchandise exports (figures, apparel) grow but face logistics costs and counterfeit competition.
+
+__Value Storage, Credit & Deferred Exchange:__ Intellectual property rights become primary value store, with successful franchises generating multi-year revenue streams across media formats; secondary markets for limited merchandise create alternative value storage for collectors.
+
+__Surplus Extraction & Redistribution:__ Platform royalty structures favor streaming services over creators, with per-view payments to production committees far below equivalent broadcast licensing; committee members capture different shares based on negotiating position rather than creative contribution.
+
+__Wealth Distribution & Asset Defense:__ Major publishers (Shueisha, Kodansha, Kadokawa) and production committees hold intellectual property rights, with individual creators typically retaining limited backend participation; some prominent creators negotiate better terms, widening inequality within creative professions.
+
+__Byproducts & Waste Routing:__ Failed projects disappear quickly from streaming catalogs, representing sunk production costs; unsold merchandise and promotional materials enter discount channels or disposal; digital-only releases leave no physical residue.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Fan communities create fictive kinship networks organized around shared media preferences, with online interactions supplementing or replacing face-to-face community for many participants; intergenerational fan transmission within families increases.
+
+__Association & Mutual Aid:__ Doujinshi (fan-created derivative works) circles form the organizational base of participatory fan culture, with conventions facilitating exchange; digital platforms (pixiv, Booth) extend these networks beyond physical events while reducing geographical barriers.
+
+__Leisure, Play & Sociability:__ Anime viewing, manga reading, and gaming structure leisure time for millions, with weekly serialization schedules and seasonal anime releases creating shared temporal rhythms; parasocial relationships with characters and creators intensify through social media access.
+
+__Stratification, Status & Group Structure:__ Fan hierarchies based on dedication, collection completeness, and insider knowledge persist, with influencer content creators emerging as new status category; creator-fan distinctions blur as user-generated content gains commercial viability.
+
+__Administrative Capacity & Institutional Integrity:__ Industry associations (Japan Animation Association, Japan Doujinshi Printing Association) coordinate some collective action, though fragmented studio and publisher interests limit unified policy advocacy; "Cool Japan" government initiatives channel modest public funding toward international promotion with contested effectiveness.
+
+__Coercive Apparatus & Means of Force:__ Copyright enforcement intensifies against piracy sites and unauthorized translations (scanlations), with legal actions against major aggregators; platform-based detection systems supplement legal proceedings.
+
+__Discharge, Disorder & Decay:__ Studio collapses and bankruptcies recur (Manglobe 2015, Artland 2017), disrupting ongoing productions and leaving employees unpaid; industry labor abuses prompt periodic exposés without systemic reform.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Otaku identity evolves from stigmatized label toward mainstream acceptance, with anime consumption becoming normal rather than deviant; pandemic isolation increases reliance on media for emotional connection and comfort.
+
+__Leadership & Personal Authority:__ Prominent creators (Makoto Shinkai, Demon Slayer's Koyoharu Gotouge) achieve celebrity status, with their works treated as cultural events; VTuber talents develop intense parasocial followings, with top performers commanding devoted fandoms.
+
+__Legitimacy as Lived Allegiance:__ Fan loyalty to franchises, studios, and creators generates predictable consumption patterns that support long-term planning; betrayal of fan expectations (poor adaptations, creator misconduct revelations) triggers intense backlash.
+
+__Political Will & Collective Resolve:__ Industry-wide reform efforts remain weak, with competitive pressures preventing collective action to improve working conditions; individual studios implementing better practices gain reputation benefits without triggering broader change.
+
+__External Relations & Posture:__ International fan communities increasingly influence domestic production decisions, with social media providing direct feedback; Chinese market access considerations shape content choices, with politically sensitive content avoided.
+
+__Disaffection, Apathy & Spent Will:__ Fan burnout manifests in reduced engagement, with oversaturation of content options fragmenting attention; creator burnout produces hiatuses, health crises, and early retirements, depleting industry talent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Japanese-language content dominates production, with translation and localization lagging demand; fan translation (legal and otherwise) fills gaps, with varying quality and completeness.
+
+__Channels & Transmission Velocity:__ Streaming platforms deliver content globally within hours of Japanese broadcast (simulcast model), collapsing the time advantage that once sustained piracy; social media amplifies reactions and discussion instantaneously across language barriers.
+
+__Record, Storage & Persistence:__ Digital distribution preserves content accessibility beyond physical media production runs, though licensing expiration removes titles from streaming catalogs; archival efforts for older works proceed unevenly.
+
+__Framing, Censorship & Discourse Norms:__ Platform content policies (especially Western standards) create pressure on sexual and violent content, with some streaming versions differing from domestic releases; self-censorship for international markets produces multiple content versions.
+
+__Reception, Attention & Amplification:__ Algorithm-driven recommendation systems shape content discovery, with viral hits achieving global penetration (Demon Slayer, Jujutsu Kaisen) while comparable works receive minimal attention; review aggregators and influencer recommendations concentrate attention further.
+
+__Signal Integrity & Noise Load:__ Content volume exceeds audience attention capacity, with most productions disappearing without significant impact; recommendation algorithms create filter bubbles that limit discovery of works outside established preferences.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Fan communities enforce their own norms around proper engagement (supporting official releases, respecting creators), with social sanctions against perceived violations; debates over problematic content (depicting minors, extreme violence) divide communities.
+
+__Law, Codification & Regulatory Evolution:__ Copyright law revision (2020) criminalizes knowing consumption of pirated downloads, though enforcement remains impractical; industry-specific regulations remain minimal, with content largely self-regulated through publisher and broadcaster standards.
+
+__Adjudication, Liability & Sanction:__ Copyright disputes typically resolve through platform takedown procedures rather than litigation; high-profile cases against piracy operations result in prosecutions, with penalties increasing.
+
+__Rights, Protections & Compliance Burden:__ Creator contracts vary widely, with major publishers offering more favorable terms to proven talent while newcomers accept disadvantageous conditions; collective rights management organizations handle licensing for secondary uses.
+
+__Impunity & Unredressed Wrong:__ Labor exploitation in anime production continues with limited legal consequence, as freelance arrangements evade employment protections; harassment within creative industries receives increasing attention but inconsistent response.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Anime and manga studies emerge as academic fields in Japan and internationally, with theoretical frameworks drawn from media studies, sociology, and fan studies; industry analytics become more sophisticated as streaming platforms generate detailed consumption data.
+
+__Applied Knowledge & Technical Method:__ Digital production techniques advance steadily, with 3D-CG integration becoming standard in anime; motion capture and procedural generation tools enable smaller teams to produce content previously requiring large studios. VTuber technology (face-tracking, real-time rendering) matures from novelty to professional standard.
+
+__Education, Knowledge Stock & Skill Distribution:__ Specialized vocational schools (anime, manga, game design) train workforce, though job placement rates vary; self-taught creators entering through digital platforms challenge traditional career paths.
+
+__Obsolescence & Knowledge Decay:__ Traditional hand-drawn animation skills decline as digital tools dominate; cel animation knowledge becomes heritage craft rather than production necessity; some studios (Ghibli, Production I.G) maintain hybrid approaches.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Foundational works (Astro Boy, Gundam, Dragon Ball) continue to anchor franchise universes and cultural reference points, with nostalgia properties receiving continuous revival; successive generations define their cohort identity through media preferences of their formative years.
+
+__Legitimating Narrative & Ideology:__ "Cool Japan" discourse positions content industries as national soft power assets, justifying public investment and international promotion; commercial success becomes proof of cultural value, displacing earlier artistic criteria.
+
+__Artistic Expression & Material Culture:__ Visual conventions (character design idioms, color palettes, composition techniques) develop incrementally, with periodic stylistic innovations spreading across the industry; merchandise design becomes integral to franchise planning, with aesthetic coherence across media formats.
+
+__Form Exhaustion & Meaning Decay:__ Genre conventions (isekai, idol, mecha) accumulate to the point of saturation, with variations on established templates dominating production; genuinely novel works struggle to find audience amid familiar competition. Nostalgic revivals and sequels to completed works multiply as safer commercial bets.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Anime and manga frequently explore existential themes (meaning, mortality, transcendence), with works like Evangelion and subsequent inheritors providing quasi-spiritual frameworks for audiences; parasocial relationships with fictional characters offer emotional connection without reciprocal obligation.
+
+__Ritual, Devotion & Sacred Practice:__ Pilgrimage to locations depicted in anime (seichi junrei) becomes established practice, with local governments cultivating fan tourism; convention attendance, midnight release queuing, and live event participation create ritualized fan activities.
+
+__Religious Institutions & Doctrinal Authority:__ No formal religious institutions emerge from fan culture, though some works develop cult-like followings with elaborate interpretive traditions; creators occasionally achieve near-sacred status within their fandoms.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Japanese content aesthetics spread globally, influencing international animation, gaming, and popular culture; local adaptations and indigenous responses create hybrid forms distinct from Japanese originals.
+
+__Disenchantment & Sacred Discharge:__ Commercialization of beloved franchises through inferior sequels, merchandise saturation, and cash-grab adaptations erodes affective investment; the magic of discovery gives way to algorithmic recommendation and endless content churn, leaving audiences sated but unmoved.

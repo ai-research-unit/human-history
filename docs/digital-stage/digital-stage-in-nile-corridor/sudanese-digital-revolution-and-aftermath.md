@@ -1,69 +1,139 @@
-# __2012 CE – 2026 CE__ — Sudanese Digital Revolution and Aftermath
-__Summary:__ A pan-temporal snapshot of digital mobilization, state repression, and civil resistance in Sudan, where social media enabled the 2018-2019 revolution that toppled Bashir, followed by a fragile transitional period, military coup in 2021, and civil war from 2023; the binding constraint is the military's willingness to impose extreme violence and network shutdowns to maintain power despite popular opposition; the system holds no margin for political stability as armed factions contest control; the direction is toward deepening conflict with digital tools serving documentation and diaspora coordination rather than mobilization.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Sudan's vast territory with population concentrated along the Nile creates digital infrastructure dependency on Khartoum; conflict in Darfur, Kordofan, and eastern regions occurs beyond reliable connectivity; geographic dispersion complicates coordination.<br><br>
-__Climate Regime & Volatility:__ Semi-arid conditions, extreme heat, and seasonal flooding stress infrastructure; climate-driven displacement and agricultural crisis contributed to revolutionary grievances; no direct climate effect on digital systems.<br><br>
-__Hazard Regime & Exposure:__ Flooding in Khartoum and eastern regions periodically damages telecommunications infrastructure; conflict-driven infrastructure destruction from 2023 war exceeds natural hazard damage by orders of magnitude.<br><br>
-__Resource & Energy Endowment:__ Oil revenues declined after South Sudan's secession; gold exports partially compensate; electrical grid unreliability creates baseline connectivity problems independent of political shutdowns.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban waste management collapsed during revolutionary period and further degraded during war; telecommunications waste negligible relative to general infrastructure breakdown.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria, cholera risk, and limited healthcare infrastructure create high baseline mortality; war from 2023 produces mass displacement and humanitarian crisis with sharply elevated death rates; digital documentation tracks these conditions.<br><br>
-__Nutrition & Physiological Vitality:__ Chronic malnutrition across Sudan, acute food insecurity during war; revolutionary period saw economic stress worsen nutrition; digital platforms coordinate some humanitarian response.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility rates with declining trend; war disrupts family formation; displacement separates families; digital communication maintains some diaspora-homeland connection during separation.<br><br>
-__Demographic Renewal & Density:__ Young population with median age around 19; youth bulge provided revolutionary energy; mass displacement from 2023 war reshapes population distribution; diaspora grows substantially.<br><br>
-__Attrition & Dependency Overhang:__ War produces massive displacement, orphaning, and dependency; humanitarian organizations coordinate digitally where connectivity permits; dependency load exceeds social absorption capacity by 2024.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Economic crisis preceded revolution; hyperinflation, bread shortages, fuel scarcity drove 2018 protests; war from 2023 collapses provisioning across conflict zones; digital coordination of humanitarian aid where possible.<br><br>
-__Energy Capture & Conversion:__ Oil infrastructure damaged in conflict; electrical grid fragmentary; fuel shortages chronic; telecommunications infrastructure dependent on unreliable power; solar panels and generators maintain some connectivity.<br><br>
-__Labor Organization & Coercion:__ Sudanese Professionals Association coordinated general strikes through social media during revolution; labor organization suppressed after 2021 coup; war collapses formal labor markets.<br><br>
-__Production & Surplus Capacity:__ Agricultural production disrupted by conflict; industrial capacity minimal; surplus generation near zero during war; pre-revolution production already declining due to economic mismanagement.<br><br>
-__Storage, Reserves & Buffering:__ Central bank reserves depleted; household savings destroyed by inflation; no buffer capacity against crisis; diaspora remittances provide only meaningful reserve for receiving families.<br><br>
-__Exchange, Trade & Logistics:__ Formal markets collapsed in conflict zones; informal trade persists where security permits; digital payment systems disrupted by war and shutdowns; parallel exchange rates via mobile coordination.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Sudanese pound collapsed in value; dollar and gold serve as value storage; mobile money systems disrupted; trust-based deferred exchange within communities and diaspora networks.<br><br>
-__Surplus Extraction & Redistribution:__ Military factions extract resources from controlled areas; humanitarian aid distribution contested; formal taxation collapsed; revolutionary period briefly attempted reform before coup ended it.<br><br>
-__Wealth Distribution & Asset Defense:__ Military and security elites hold concentrated wealth; assets in conflict zones subject to seizure and looting; diaspora wealth protected by offshore location; extreme inequality persists.<br><br>
-__Byproducts & Waste Routing:__ War produces debris, unexploded ordnance, and unburied dead; waste management systems collapsed; environmental degradation accelerating in conflict zones; no capacity for remediation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Revolutionary period built extraordinary solidarity through resistance committees; neighborhood mutual aid networks sustained protests and general strikes; war fractures along ethnic and regional lines; trust degraded but resistance committees persist in some areas.<br><br>
-__Stratification, Status & Group Identity:__ Arab-African ethnic divisions, regional identities, and military-civilian divide structure conflict; revolutionary movement temporarily unified diverse groups; war reactivates ethnic tensions; diaspora maintains cross-cutting solidarity networks.<br><br>
-__Kinship, Family & Inheritance:__ Extended family networks provide survival support; war displaces families across borders; digital communication maintains transnational family connections; inheritance disrupted by property destruction and displacement.<br><br>
-__Civic Association & Self-Organization:__ Resistance committees as neighborhood governance structures emerged during revolution and persist through coup and war; Sudanese Professionals Association coordinated digitally; civil society criminalized but resilient; remarkable self-organization capacity.<br><br>
-__Leisure, Play & Sociability:__ Normal sociability collapsed during curfews, shutdowns, and war; digital entertainment provided outlet during restrictions; Sudanese music and cultural content shared through diaspora networks.<br><br>
-__Grievance Channels & Social Discharge:__ Revolution itself was massive grievance discharge; subsequent coup and war blocked institutional channels; digital documentation and diaspora advocacy serve as partial outlet; accumulated grievance against military rule deepens.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Bashir's 30-year rule ended by revolution; transitional government 2019-2021; military coup October 2021; war between army and RSF from April 2023; sovereignty contested among armed factions; no legitimate central authority by 2024.<br><br>
-__Succession & Power Transfer:__ Revolution achieved power transfer from Bashir; transitional period negotiated civilian-military partnership; coup terminated civilian participation; war prevents any stable succession; transfer mechanism broken.<br><br>
-__Legitimacy & Political Narrative:__ Revolutionary legitimacy invested in civilian transitional government; coup destroyed this legitimacy; neither military faction holds popular legitimacy; diaspora and resistance committees claim revolutionary mandate.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State institutions degraded under Bashir, partially reformed during transition, collapsed during war; civil service fragmented between competing authorities; administrative capacity near zero in contested areas.<br><br>
-__Political Participation & Mobilization:__ Massive popular mobilization during revolution coordinated through social media; participation suppressed after coup; war prevents organized political activity; diaspora maintains political engagement digitally.<br><br>
-__Geopolitical Position & External Relations:__ Regional powers intervene supporting different factions; UAE backs RSF, Egypt backs army; international community unable to broker peace; Sudan becomes proxy conflict arena.<br><br>
-__Coercive Apparatus & Means of Force:__ Army and RSF as competing coercive forces; neither achieves monopoly; paramilitary proliferation; heavy weapons deployed in urban areas; civilian population caught between armed factions.<br><br>
-__Internal Order & Threat Environment:__ War produces complete breakdown of internal order in contested areas; looting, sexual violence, ethnic targeting documented; no security for civilian population; threat environment catastrophic.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Mobile internet enabled revolutionary coordination; extended shutdowns during 2019 massacre and 2021 coup severed communications; war damages infrastructure; diaspora networks maintain information flow through satellite and border connections.<br><br>
-__Record, Storage & Persistence:__ Digital documentation of atrocities during revolution, coup, and war created evidence base; social media archives preserved by researchers and activists; cloud storage protects records from local destruction.<br><br>
-__Framing, Censorship & Discourse Norms:__ Revolutionary period opened discourse; coup reimposed censorship; war produces competing narratives from military factions; diaspora media provides alternative framing; international coverage limited.<br><br>
-__Reception, Attention & Amplification:__ Revolutionary content achieved viral spread regionally and globally; international attention faded after coup; war coverage sporadic; diaspora amplification maintains some visibility for Sudanese voices.<br><br>
-__Signal Integrity & Noise Load:__ Disinformation from military factions contaminates information space; verification difficult during conflict; atrocity claims and denials circulate without resolution; noise load high and rising.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Revolutionary movement grounded in justice demands against Bashir regime's atrocities; transitional justice process began then halted by coup; moral consensus on military criminality widespread but unenforceable.<br><br>
-__Law, Codification & Regulatory Evolution:__ Bashir-era laws partially reformed during transition; constitutional document established framework; coup terminated legal reform; war suspends legal order entirely in conflict zones.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts non-functional in conflict zones; international criminal justice processes slow; Bashir indictment by ICC remains unexecuted; war criminals operate with impunity; no functioning adjudication.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights declared during transition; coup suspended protections; war eliminates rights enforcement; civilian population has no effective legal protection.<br><br>
-__Impunity & Unredressed Wrong:__ Decades of Bashir-era atrocities unaddressed; revolutionary period promised accountability never delivered; coup and war add new crimes; impunity is total and structural; justice debt accumulates without limit.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Sudanese universities degraded under Bashir; some research capacity maintained; war closes institutions and displaces academics; diaspora scholars continue research abroad; intellectual production largely externalized.<br><br>
-__Applied Knowledge & Technical Method:__ Revolutionary movement demonstrated sophisticated digital organizing techniques; technical knowledge of circumvention spread during shutdowns; medical and humanitarian technical skills critical during war.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Educational system collapsed during war; schools closed, universities shuttered; generation of students loses years of education; diaspora education continues; knowledge distribution becoming increasingly bimodal.<br><br>
-__Obsolescence & Knowledge Decay:__ Institutional knowledge lost as professionals flee; documentation of Sudanese history and culture at risk; oral knowledge transmission disrupted by displacement; accelerating knowledge decay.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolution created powerful new collective memory and identity; "Tasqut bas" (just fall) slogan crystallizes revolutionary identity; December 2018 and June 2019 massacres become traumatic reference points; revolutionary generation defines itself against military rule.<br><br>
-__Artistic Expression & Material Culture:__ Revolutionary art, music, and murals documented digitally; cultural production continued in diaspora; Khartoum's art scene destroyed by war; cultural heritage sites damaged; artistic expression survives primarily in exile.<br><br>
-__Collective Mood & Behavioral Disposition:__ Revolutionary euphoria followed by coup despair and war trauma; diaspora oscillates between hope and grief; those remaining in Sudan endure survival mode; collective mood catastrophically darkened since 2023.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary slogans maintain meaning through continued resistance; military rhetoric completely hollow; international expressions of concern become meaningless repetition; diplomatic language exhausted.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islamic faith provides framework for endurance and meaning; revolutionary movement included both religious and secular elements; war produces existential crisis; diaspora grapples with survivor guilt and exile meaning.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mosques served as organizing spaces during revolution; religious practice continues in displacement; Ramadan observance maintained despite war conditions; ritual provides continuity amid chaos.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Islamic institutions complicit with Bashir regime partially delegitimized; revolutionary Islam emphasized justice over state power; religious authority fragmented among competing interpretations; no unified clerical position on conflict.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Sufi traditions strong in Sudan; Christian minority in south and Nuba Mountains; religious pluralism threatened by conflict; displacement mixes populations; no major shifts in religious composition despite trauma.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary hope as quasi-sacred faith betrayed by coup and war; disenchantment deep among those who believed in peaceful transition; some redirect commitment to continued resistance; others sink into despair; sacred meaning of revolution at risk of hollowing.<br><br>
+# __2012 CE – 2026 CE — Sudanese Digital Revolution and Aftermath__
+
+__Summary:__ Sudan's December 2018 uprising demonstrates digital mobilization's continued potential after the Arab Spring, with social media enabling rapid protest coordination and international solidarity that helps topple Omar al-Bashir in April 2019. The binding constraint is the failure to institutionalize democratic gains before the October 2021 military coup and the catastrophic RSF-Army war from April 2023, which destroys physical infrastructure, displaces ten million people, and reduces digital connectivity to a survival tool for scattered populations rather than a foundation for political transformation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Sudan's vast territory and dispersed population concentrate digital infrastructure in Khartoum and a few regional centers; the Nile corridor provides the main axis for fiber connectivity, with western regions poorly served even before conflict.
+
+__Climate Regime & Volatility:__ Extreme heat degrades telecommunications equipment and raises cooling costs for data centers; seasonal flooding disrupts infrastructure in the Nile floodplain while drought drives conflict in pastoral regions.
+
+__Hazard Regime & Exposure:__ The 2023 war devastates Khartoum's telecommunications infrastructure, with cell towers destroyed, power stations damaged, and fiber routes severed; rebuilding requires political settlement that remains absent.
+
+__Resource & Energy Endowment:__ Sudan's chronic electricity shortages limit reliable connectivity even in peacetime; the war collapses the power grid across the capital, making mobile networks dependent on diesel generators that fighters control.
+
+__Waste Absorption & Sink Capacity:__ War debris, destroyed electronics, and abandoned infrastructure litter Khartoum; the environmental cost of conflict includes destroyed cellular equipment and burned data centers.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The 2023 humanitarian catastrophe includes disease outbreaks — cholera, measles, dengue — in displacement camps with no digital health infrastructure; the health system's collapse predates but intensifies during the war.
+
+__Nutrition & Physiological Vitality:__ Famine conditions emerge by 2024 in Darfur and other conflict zones; digital coordination of food distribution, where possible, becomes a matter of survival rather than convenience.
+
+__Care, Healing & Recovery Capacity:__ Hospitals that survived the war operate without connectivity, records, or supply chain coordination; medical professionals who fled carry knowledge of patients and systems that cannot be reconstructed.
+
+__Reproductive Biology & Pairing Dynamics:__ Mass displacement separates families and disrupts reproductive and family formation; young people in refugee camps in Chad and Egypt maintain connections with diaspora through mobile phones when networks allow.
+
+__Demographic Renewal & Density:__ Sudan's population of approximately 48 million by 2026 includes over ten million displaced internally or across borders; the youth cohort that drove the revolution is scattered across the region.
+
+__Attrition & Dependency Overhang:__ War creates new categories of dependents — wounded, orphaned, traumatized — while destroying the digital infrastructure that might coordinate their care and support.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The war economy operates through cash, barter, and armed extraction; digital payments collapse with banking infrastructure, and populations survive through smuggling, humanitarian aid, and subsistence where possible.
+
+__Energy Capture & Conversion:__ Fuel becomes a weapon, with fighters controlling diesel supplies; mobile phones remain valuable because charging them is difficult and connectivity sporadic.
+
+__Labor Organization & Coercion:__ The formal economy collapses; labor coercion expands as armed groups conscript, extort, and control civilian populations; the gig economy that briefly flourished in Khartoum disappears.
+
+__Production & Surplus Capacity:__ Sudan's productive capacity is devastated; factories destroyed, agricultural areas abandoned, commercial districts looted; the digital economy that supported freelancers, startups, and IT services evaporates.
+
+__Storage, Reserves & Buffering:__ Bank accounts become inaccessible as banking infrastructure fails; those who had digital savings find them frozen or worthless; only those who held cash or assets abroad retain any buffer.
+
+__Exchange, Trade & Logistics:__ War-zone economics dominate, with armed control of trade routes replacing market coordination; digital platforms for trade become irrelevant where physical movement is controlled by fighters.
+
+__Value Storage, Credit & Deferred Exchange:__ The Sudanese pound collapses further during the war; remittances from the diaspora — channeled through whatever digital or informal channels remain — become the primary source of external value.
+
+__Surplus Extraction & Redistribution:__ Armed groups extract from civilian populations through looting, extortion, and control of movement; there is no legitimate surplus to redistribute, only predation.
+
+__Wealth Distribution & Asset Defense:__ Those who could move assets abroad before the war retained something; those trapped in Khartoum lost homes, businesses, and savings to looting and destruction.
+
+__Byproducts & Waste Routing:__ The war produces human waste at scale — displaced populations, destroyed infrastructure, unreconstructed lives — that the international system struggles to process.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Families are scattered across Sudan, Chad, Egypt, the Gulf, and beyond; mobile phones and messaging apps, when accessible, become the threads holding dispersed families together.
+
+__Association & Mutual Aid:__ The resistance committees that organized the revolution survive in some areas as mutual aid networks; diaspora organizations coordinate support through Telegram channels and Facebook groups.
+
+__Leisure, Play & Sociability:__ Normal social life disappears in conflict zones; in displacement camps, access to phones for entertainment and connection becomes precious and contested.
+
+__Stratification, Status & Group Structure:__ The war reorders social hierarchies through violence; ethnic dimensions emerge as RSF recruitment draws from Arab nomadic groups while the army claims national legitimacy; tribal and regional identities harden.
+
+__Administrative Capacity & Institutional Integrity:__ The Sudanese state fragments; competing authorities claim legitimacy while neither controls territory effectively; civil administration collapses except where resistance committees maintain local order.
+
+__Coercive Apparatus & Means of Force:__ RSF and Sudan Armed Forces fight with heavy weapons in urban areas, destroying neighborhoods and infrastructure; neither force has capacity or interest in maintaining civilian services including telecommunications.
+
+__Discharge, Disorder & Decay:__ The war represents total social breakdown in affected areas — murder, rape, ethnic cleansing, mass displacement, destruction of cities built over generations; order exists only within armed camps.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Trauma defines the emotional landscape — grief for the dead, fear of ongoing violence, despair at destroyed futures, anger at international indifference; hope persists mainly among the diaspora and those who escaped.
+
+__Leadership & Personal Authority:__ Revolutionary leaders — the professionals' association, resistance committee coordinators — are killed, arrested, dispersed, or marginalized; military commanders replace civilian voices.
+
+__Legitimacy as Lived Allegiance:__ Neither RSF nor the army commands genuine allegiance; the transitional civilian government that briefly held hope is destroyed; legitimacy resides, if anywhere, in the memory of the revolution and the continued organizing of resistance committees.
+
+__Political Will & Collective Resolve:__ The revolutionary will that toppled Bashir survives in organizing capacity and diaspora activism, but the physical destruction of the movement's base in Khartoum shatters its ability to act collectively inside Sudan.
+
+__External Relations & Posture:__ Sudan becomes a site of proxy competition, with UAE supporting RSF and Egypt backing the army; regional powers shape the conflict while Sudanese voices struggle to be heard internationally.
+
+__Disaffection, Apathy & Spent Will:__ Revolutionary exhaustion meets war trauma; young Sudanese who believed they had changed their country watch it destroyed; the will to rebuild exists but the conditions do not.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The revolution demonstrated sophisticated use of social media — Facebook for mass mobilization, Twitter for international solidarity, WhatsApp for secure coordination; this capacity was central to the movement's success.
+
+__Channels & Transmission Velocity:__ Internet shutdowns during the revolution, particularly the June-July 2019 blackout following the Khartoum massacre, showed state capacity to sever connectivity; war destroys the infrastructure itself rather than just ordering it blocked.
+
+__Record, Storage & Persistence:__ Documentation of revolutionary events and war crimes exists scattered across personal phones, cloud storage, and diaspora archives; systematic preservation efforts try to maintain record despite infrastructure loss.
+
+__Framing, Censorship & Discourse Norms:__ The transitional period saw brief media opening; the coup and war reimpose control where either army operates; diaspora media becomes the primary source of independent information.
+
+__Reception, Attention & Amplification:__ International attention to Sudan spiked during the revolution and again at the war's outbreak but wanes despite continuing catastrophe; the global news cycle moves on while suffering continues.
+
+__Signal Integrity & Noise Load:__ Disinformation from both armed parties circulates alongside genuine documentation; verifying information from conflict zones becomes extremely difficult; truth and propaganda blur.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The revolution articulated clear moral claims — freedom, justice, civilian rule — that motivated mass mobilization; the war's atrocities violate all parties' stated principles while accountability remains absent.
+
+__Law, Codification & Regulatory Evolution:__ The transitional constitutional declaration represented an attempt to establish legitimate legal order; its destruction by the coup and war leaves Sudan in legal void, with neither constitution nor functioning courts.
+
+__Adjudication, Liability & Sanction:__ War crimes occur daily with no mechanism for accountability; the International Criminal Court has previous warrants for Bashir-era atrocities but no capacity to address ongoing violations.
+
+__Rights, Protections & Compliance Burden:__ Human rights are systematically violated — extrajudicial killing, sexual violence, ethnic cleansing, forced displacement — with no protection available from any authority.
+
+__Impunity & Unredressed Wrong:__ Total impunity prevails; fighters on all sides commit atrocities with no consequence; victims have no recourse; the gap between justice owed and delivered is absolute.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Sudanese academics and intellectuals are dispersed, killed, or silenced; the revolutionary period's intellectual ferment — debates about democracy, secularism, federalism — is suspended by survival imperatives.
+
+__Applied Knowledge & Technical Method:__ Technical capacity for digital coordination, developed during the revolution, is applied by diaspora networks to humanitarian response, documentation, and continued organizing from abroad.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities close; students flee; the educated cohort that drove the revolution is scattered; years of educational disruption will mark a generation.
+
+__Obsolescence & Knowledge Decay:__ Institutional knowledge embedded in destroyed organizations is lost; the tacit knowledge of how Sudanese systems worked before the war becomes historical memory rather than living practice.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The revolution creates a new foundational memory — the sit-in at army headquarters, the blue profile pictures for martyrs, the songs and chants — that will shape Sudanese identity for generations regardless of political outcome.
+
+__Legitimating Narrative & Ideology:__ The revolutionary narrative of civilian rule against military domination remains powerful in diaspora discourse and resistance committee organizing, even as military force dominates on the ground.
+
+__Artistic Expression & Material Culture:__ Revolutionary art, music, and poetry flourished during the uprising — murals at the sit-in, protest songs, digital graphics — forming a cultural archive that survives in digital form while physical sites are destroyed.
+
+__Form Exhaustion & Meaning Decay:__ The revolutionary symbols remain potent rather than exhausted; the premature destruction of the movement by force means its cultural forms retain power for future mobilization rather than fading through overuse.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Theodicy questions intensify — why this suffering, what God permits such destruction — alongside continued faith that sustains communities through crisis; fatalism competes with the agency the revolution briefly demonstrated.
+
+__Ritual, Devotion & Sacred Practice:__ Religious practice adapts to war conditions; mosques destroyed, communal prayer disrupted, Ramadan observed in displacement camps; faith provides framework for processing loss.
+
+__Religious Institutions & Doctrinal Authority:__ Islamic institutions that aligned with the revolution maintain credibility; those associated with Bashir's Islamic state project are discredited; clerical authority fragments along conflict lines.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sudanese refugees carry their religious practices to host countries; diaspora communities establish new mosques and religious organizations; the spiritual community becomes transnational.
+
+__Disenchantment & Sacred Discharge:__ The destruction of what the revolution built tests faith — not necessarily in God but in progress, in the possibility of change, in the effectiveness of peaceful mobilization; this disenchantment with political hope may prove more lasting than any crisis of religious belief.

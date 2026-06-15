@@ -1,69 +1,139 @@
-# __476 BCE – 221 BCE__ — Warring States and Philosophical Florescence
-__Summary:__ Period of intensified interstate warfare among seven major kingdoms competing for total conquest across the Yellow and Yangtze basins, bracketed from the conventional 476 BCE transition to the 221 BCE Qin unification. The binding constraint is the security dilemma among territorial states possessing roughly comparable military potential, where survival demands continuous administrative, military, and agricultural intensification or absorption by rivals. The system holds zero margin for stasis: states that fail to reform are conquered. Direction of change runs toward centralized bureaucracy, mass infantry warfare, Legalist state-building, and the luxuriant philosophical competition among Confucians, Mohists, Daoists, Legalists, and other schools seeking patronage and influence. Script variants proliferate regionally before Qin standardization ends the period.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Seven major states divide the terrain: Qin in the defensible Wei River valley and Guanzhong plain, Chu sprawling across the middle and lower Yangtze, Qi commanding the Shandong peninsula, and Zhao, Wei, Han, and Yan occupying the North China Plain and northern marches; mountain passes, river crossings, and the strategic Hangu Pass gate territorial advantage.<br><br>
-__Climate Regime & Volatility:__ Continental monsoon continues with cold dry winters and summer rainfall; the period experiences no documented extreme climatic shift, though interannual drought and flood variability affects harvests and can trigger localized subsistence stress, particularly in the loess regions dependent on rain-fed millet.<br><br>
-__Hazard Regime & Exposure:__ Yellow River flooding remains the principal hazard, with states investing in dike construction and the famous Dujiangyan irrigation system in Qin; earthquake risk persists, and multi-year drought can destabilize frontier populations, though state capacity to respond has increased.<br><br>
-__Resource & Energy Endowment:__ Iron ore extraction intensifies as smelting technology matures, enabling mass production of agricultural tools and weapons; salt and lacquer support state monopoly revenues; timber pressure mounts near capitals but peripheral forests remain accessible.<br><br>
-__Waste Absorption & Sink Capacity:__ Expanded metallurgy and larger urban populations increase waste loads but within a landscape possessing ample absorptive capacity; localized deforestation occurs around smelting centers and capitals without systemic sink saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease continues as background mortality factor; warfare casualties constitute the period's distinctive addition to the death rate, with major battles killing tens of thousands; no documented epidemic crises define the era, though sanitary conditions in armies and siege situations elevate infection risk.<br><br>
-__Nutrition & Physiological Vitality:__ Millet in the north and rice in the Yangtze regions provide the caloric base; iron tools boost agricultural productivity, improving baseline nutrition for most decades; army provisioning strains harvests during major campaigns, and siege populations face starvation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal marriage patterns persist under clan authority; state interest in population growth leads some rulers to encourage early marriage and large families as a manpower policy; reproductive biology remains unconstrained, with fertility sufficient to replace warfare losses over generations.<br><br>
-__Demographic Renewal & Density:__ Population grows substantially despite warfare, with agricultural intensification supporting denser settlement; migration flows as refugees flee war zones and states recruit settlers for conquered territories; the demographic trend is strongly positive, feeding the mass armies the period demands.<br><br>
-__Attrition & Dependency Overhang:__ Warfare generates massive casualties concentrated among military-age males, producing widows and orphans; states increasingly assume welfare functions previously left to clans, and the dependency load strains but does not overwhelm the productive base given population growth.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant households work increasingly intensive agriculture with iron tools; state interest in revenue and manpower drives land registration and direct taxation replacing older feudal arrangements; the subsistence floor rises modestly with productivity gains but remains vulnerable to war disruption.<br><br>
-__Energy Capture & Conversion:__ Iron technology transforms the energy equation, enabling efficient plows, hoes, and weapons that multiply the effectiveness of human and ox labor; major irrigation works (Dujiangyan, Zhengguo Canal) capture water energy for agriculture, raising Qin's productive ceiling decisively.<br><br>
-__Labor Organization & Coercion:__ Corvee and military conscription remain primary extraction mechanisms, but states increasingly register households directly rather than through aristocratic intermediaries; slavery persists for war captives, and Legalist states impose harsh labor discipline backed by severe punishment.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus increases through iron tools, irrigation, and land reclamation; workshop production of weapons, armor, and tools achieves unprecedented scale; the surplus ceiling rises substantially, funding larger armies and more elaborate state apparatus.<br><br>
-__Storage, Reserves & Buffering:__ State granaries expand systematically, with strategic reserves supporting multi-year campaigns and siege defenses; Qin's agricultural surplus and storage capacity constitute a decisive strategic advantage enabling sustained offensive operations.<br><br>
-__Exchange, Trade & Logistics:__ Interstate trade continues despite warfare, with merchants handling salt, iron, grain, and luxury goods; bronze coinage spreads, with different states minting distinct forms (knife, spade, round coins); road and canal construction improves military logistics and commercial flow.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Bronze coinage provides value storage and facilitates exchange; merchant wealth accumulates, and credit networks support long-distance trade; land itself becomes more clearly commodifiable as feudal ties weaken.<br><br>
-__Surplus Extraction & Redistribution:__ States extract grain taxes, poll taxes, and labor service directly from registered households, funding armies, bureaucracies, and public works; Legalist states maximize extraction efficiency, with Qin's system the most thorough and coercive.<br><br>
-__Wealth Distribution & Asset Defense:__ Old aristocratic wealth erodes as states confiscate noble lands and Legalist reforms attack hereditary privilege; new wealth concentrates among successful generals, officials, and merchants, with land accumulation the primary asset-defense strategy.<br><br>
-__Byproducts & Waste Routing:__ Expanded iron production generates slag accumulations near smelting sites; urban growth increases organic waste but within sink capacity; military campaigns leave battlefield detritus and corpses posing localized sanitary issues.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship networks remain the primary trust radius, but state penetration weakens clan autonomy; Legalist systems encourage mutual surveillance and collective punishment, deliberately eroding horizontal solidarity to enhance vertical state control; the trust radius contracts under state pressure.<br><br>
-__Stratification, Status & Group Identity:__ Hereditary aristocracy loses ground to merit-based advancement through military and administrative service; the shi class shifts from minor nobility toward educated specialists serving rulers; commoners gain theoretical access to advancement through achievement, though most remain peasants.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance continues but states intervene in family structure, mandating household division to increase tax units (Qin's Shang Yang reforms); clan power weakens relative to state authority, and inheritance increasingly follows state registration rather than purely customary practice.<br><br>
-__Civic Association & Self-Organization:__ Merchant guilds and artisan organizations emerge in commercial centers; philosophical schools create communities of discourse across state boundaries; local village organization persists under increasingly intrusive state oversight.<br><br>
-__Leisure, Play & Sociability:__ Aristocratic hunting, feasting, and musical culture continues in attenuated form; commoner festivals mark agricultural seasons; the philosophical academies (Jixia in Qi most famously) create new spaces of intellectual sociability.<br><br>
-__Grievance Channels & Social Discharge:__ State legal codes provide formal grievance channels unknown in earlier periods, though biased toward state interests; Mohist and Confucian criticism of unjust warfare and oppressive rule articulates grievance at the intellectual level, but commoner discontent lacks effective outlet and accumulates as latent instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereign authority concentrates in royal courts of the seven major states, with the Zhou king reduced to ceremonial nullity (extinguished 256 BCE); within states, power centralizes as rulers suppress aristocratic autonomy and build direct bureaucratic administration.<br><br>
-__Succession & Power Transfer:__ Hereditary succession continues within ruling houses but increasingly contested by intrigue, assassination, and factional manipulation; ministerial power at times eclipses royal authority, and the period's violence extends into the palace.<br><br>
-__Legitimacy & Political Narrative:__ The Mandate of Heaven concept persists but erodes as Zhou fades; Legalist theory reconceives legitimacy around effective state power and law enforcement; Confucians and Mohists offer competing visions of righteous rule, competing for patronage without securing dominance.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic capacity expands dramatically through household registration, written law codes, standardized taxation, and appointed (not hereditary) officials; Qin leads in administrative sophistication, with other states adopting similar methods under competitive pressure.<br><br>
-__Political Participation & Mobilization:__ Rulers solicit advice from traveling scholars and appoint capable ministers regardless of birth; mass armies require popular mobilization at unprecedented scale, giving rulers incentive to secure peasant compliance; actual political voice remains confined to the educated serving class.<br><br>
-__Geopolitical Position & External Relations:__ The interstate system operates in zero-sum competition, with alliance blocs (vertical vs. horizontal strategies) forming and dissolving around the Qin threat; diplomacy deploys elaborate stratagems recorded in the Zhanguo Ce; peripheral peoples along northern and southern frontiers remain secondary to interstate rivalry.<br><br>
-__Coercive Apparatus & Means of Force:__ Mass infantry armies replace chariot-centered warfare, with iron weapons universally adopted; crossbow technology enhances ranged firepower; cavalry emerges, especially in Zhao after King Wuling's reforms; fortification and siege warfare reach new sophistication with the proliferation of city walls.<br><br>
-__Internal Order & Threat Environment:__ Major battles produce casualties in the tens to hundreds of thousands (Changping 260 BCE: reported 400,000 Zhao casualties); interstate warfare constitutes the dominant disorder, with internal rebellion secondary though peasant flight and banditry increase during campaign disruptions.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels via official courier systems along improved roads, enabling faster coordination than in prior periods; traveling scholars carry intellectual discourse across borders, and merchants spread commercial intelligence; velocity remains limited by physical transport speed.<br><br>
-__Record, Storage & Persistence:__ Bamboo strips remain the dominant writing medium, with silk for important documents; state archives expand to house legal codes, population registers, tax records, and diplomatic correspondence; philosophical texts circulate in manuscript copies, with variant versions proliferating.<br><br>
-__Framing, Censorship & Discourse Norms:__ Rulers patronize sympathetic thinkers and occasionally suppress rivals; no systematic censorship apparatus exists until Qin's book burning (213 BCE); discourse norms vary by school, with Confucian emphasis on ritual propriety contrasting with Legalist directness and Mohist logical rigor.<br><br>
-__Reception, Attention & Amplification:__ Literacy expands among the shi class and bureaucratic personnel, creating a larger reading public for philosophical and technical texts; oral teaching remains primary for philosophical transmission, with disciples memorizing and later writing masters' words.<br><br>
-__Signal Integrity & Noise Load:__ Variant manuscript traditions begin accumulating, with regional script differences and copying errors introducing noise; the Hundred Schools' competing claims generate conceptual noise that the period's intellectual vitality does not resolve into consensus.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Competing philosophical schools articulate divergent justice foundations: Confucian emphasis on ritual propriety and benevolence, Mohist universal love and utility, Legalist focus on law and punishment as instruments of order, Daoist skepticism of artificial morality.<br><br>
-__Law, Codification & Regulatory Evolution:__ Written law codes proliferate, with the Qin system (developed by Shang Yang) the most comprehensive; laws cover criminal punishment, agricultural regulation, commercial standards, and official conduct; codification advances rapidly across all major states.<br><br>
-__Adjudication, Enforcement & Liability:__ State officials adjudicate according to written statutes, with detailed procedures for investigation and punishment; collective liability (bao jia) makes families and neighbors responsible for individual crimes; enforcement capacity grows with bureaucratic penetration.<br><br>
-__Rights, Protections & Compliance Burden:__ Subjects possess no formal rights against state power; compliance burden increases with registration, taxation, corvee, and conscription demands; Legalist states impose severe punishment for infractions, with mutilation and death penalties common.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful officials and rulers remain above effective legal constraint; the gap between formal legal equality and actual power differentials leaves wrongs against commoners largely unredressed; Legalist systems reduce aristocratic impunity but substitute state impunity.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ The Hundred Schools of Thought represent the period's defining intellectual achievement: Confucians (Mencius, Xunzi) debating human nature and governance, Mohists developing logic and military defense, Daoists (Zhuangzi) questioning conventional values, Legalists (Shang Yang, Han Fei) theorizing state power, and others (Yin-Yang, Agriculturalists, Sophists) contributing to the ferment.<br><br>
-__Applied Knowledge & Technical Method:__ Iron metallurgy reaches maturity with cast-iron technology; irrigation engineering achieves major works; military technology advances in crossbow, cavalry tactics, and siege warfare; astronomical and calendrical knowledge supports state planning.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Philosophical schools create educational networks transcending state boundaries; literacy expands among the shi and bureaucratic classes; the knowledge stock grows rapidly through textual production, though concentrated among educated elites.<br><br>
-__Obsolescence & Knowledge Decay:__ Older aristocratic skills (chariot warfare, bronze-vessel ritual) decline; regional script variants will be suppressed by Qin standardization; intellectual diversity faces the threat of Legalist book-burning, though underground survival preserves much.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The sage-kings of antiquity remain ethical exemplars, though schools interpret them differently; regional identities (Chu distinctiveness, Qin frontier character, Qi commercial culture) inflect shared Chinese civilization; the Zhou cosmic-ritual order persists as nostalgic reference point.<br><br>
-__Artistic Expression & Material Culture:__ Bronze work evolves toward more elaborate decoration and inlay; lacquerware achieves high sophistication (Chu tombs); silk weaving and jade carving continue as prestige crafts; regional styles proliferate before Qin homogenization.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety about survival pervades elite discourse in an era of conquest and annihilation; philosophical debate carries existential weight as thinkers seek paths through disorder; commoner mood is less documented but presumably marked by war-weariness and resignation.<br><br>
-__Form Exhaustion & Meaning Decay:__ Zhou ritual forms continue their hollowing as the political order they sanctified disintegrates; the philosophical ferment represents an attempt to renew meaning, generating new forms (Confucian ethics, Daoist transcendence, Legalist technique) that will outlast the immediate crisis.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Heaven (Tian) retains cosmic authority but interpretations diverge: Confucians emphasize moral Heaven, Mohists a rewarding-and-punishing deity, Daoists an impersonal natural order, Legalists a neutral field for human manipulation; Yin-Yang and Five Phases cosmology develops systematic correlationism.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ancestral sacrifice continues as household and lineage practice; state cults to soil, grain, and Heaven persist under royal sponsorship; Chu preserves distinctive shamanic traditions documented in the Chuci; popular religion remains locally variable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No centralized religious institution exists; ritual specialists serve courts and lineages; philosophical schools function as quasi-religious communities transmitting teachings and practices, with master-disciple lineages establishing doctrinal authority.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Regional variations continue within a broadly shared framework; intellectual competition spreads philosophical doctrines across state boundaries, with some syncretizing tendencies (Yin-Yang correlativism absorbing diverse elements); no major external spiritual tradition enters the region.<br><br>
-__Disenchantment & Sacred Discharge:__ The philosophical rationalization of Heaven and fate continues, with Xunzi most explicitly naturalizing formerly religious concepts; Daoist mysticism offers transcendence beyond conventional religion; the sacred retains force for most of the population but educated elites increasingly treat it instrumentally.<br><br>
+# __476 BCE – 221 BCE — Warring States and Philosophical Florescence__
+
+The binding constraint is the intensification of interstate competition to existential levels, which forces states to maximize extraction and rationalize administration while simultaneously generating the "Hundred Schools" of philosophical thought as competing doctrines bid for patronage and influence. The most causal factor is the shift from hegemonic order to total war, which rewards innovation in statecraft, military organization, and ideological legitimation, producing both centralized bureaucratic states and the canonical texts of Chinese philosophy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Seven major states control distinct geographic regions: Qin in the Wei valley behind mountain passes, Chu spanning the middle Yangtze basin, Qi commanding the Shandong peninsula's salt and iron, Zhao and Yan in the northern frontier zone, Wei and Han in the Central Plains corridor. Strategic passes, river crossings, and mountain barriers determine invasion routes. The Grand Plain (modern Henan) is the contested heartland, won and lost repeatedly.
+
+__Climate Regime & Volatility:__ Climate remains favorable: warm and wet enough in the south for intensive rice cultivation, adequate rainfall in the north for millet and wheat. No catastrophic drought or flood series is recorded that exceeds recovery capacity. The monsoon regime supports agricultural expansion into previously marginal lands.
+
+__Hazard Regime & Exposure:__ Yellow River flooding is managed by increasingly organized state hydraulic projects—Qin's Zhengguo Canal and Dujiangyan irrigation system in Sichuan exemplify state capacity. Localized drought and flood occur but do not destabilize states at this scale. The hazard regime tests administrative capacity and rewards those who master it.
+
+__Resource & Energy Endowment:__ Iron ore is abundant and widely exploited. Qi's salt monopoly provides fiscal advantage. Copper and tin remain available for bronze, though iron dominates tools and increasingly weapons. Forest cover is being reduced by clearing for agriculture and fuel; timber becomes a consideration for construction and charcoal production. Energy capture remains solar-organic: agriculture converting sunlight through crops, humans and animals providing motive power.
+
+__Waste Absorption & Sink Capacity:__ Population growth and agricultural expansion stress some landscapes. Deforestation accelerates erosion in the loess plateau. But population densities, though rising, remain far below later imperial levels. Sinks absorb waste without visible constraint.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Epidemic disease is not well documented but endemic illness takes its toll. Malaria limits settlement in some southern lowlands. Warfare is the dominant cause of excess mortality: massive armies numbering in the hundreds of thousands clash; sieges and massacres (Qin's killing of 400,000 Zhao prisoners at Changping, 260 BCE) punctuate the period. Overall mortality is high, yet population grows.
+
+__Nutrition & Physiological Vitality:__ Improved iron tools increase agricultural productivity, supporting population growth. Peasants subsist on grain, vegetables, and occasional protein. Military campaigns requisition grain, stressing peasant households. The biological baseline sustains the massive mobilizations the period demands.
+
+__Care, Healing & Recovery Capacity:__ Medical thought develops: the Huangdi Neijing's precursors organize knowledge of the body in terms of qi, yin-yang, and the five phases. Herbal pharmacopeia expand. However, battlefield medicine is rudimentary; wounds kill or maim. Healing remains household- and shaman-based for most.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal marriage, early reproduction, and high fertility remain normative. States encourage population growth through land grants and tax exemptions for settlers. Qin's Shang Yang reforms explicitly tie rank and land to military service and household registration.
+
+__Demographic Renewal & Density:__ Population may reach 25-30 million by the period's end, concentrated in the Central Plain and the Yangtze basin. Growth continues despite warfare, suggesting high fertility and agricultural expansion outpace battlefield losses. Density supports larger armies and more intensive production.
+
+__Attrition & Dependency Overhang:__ Warfare creates widows, orphans, and disabled veterans. States have no institutional welfare; kin networks absorb dependents or they perish. The human cost of the wars is enormous but does not visibly constrain state capacity—population regenerates.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Iron-tipped plows, improved irrigation, and the expansion of cultivated acreage raise the provisioning floor. Peasant households grow grain, vegetables, and hemp. Famine occurs locally but states maintain granaries for military supply and crisis relief. The floor rises but so does extraction.
+
+__Energy Capture & Conversion:__ Agriculture remains the primary energy conversion: human and animal muscle, solar energy through photosynthesis. Charcoal smelts iron in quantity. Waterwheels for milling may appear in this period. The energy ceiling limits army size and campaign duration, but the ceiling is higher than before.
+
+__Labor Organization & Coercion:__ States extend direct control over peasant labor. Shang Yang's Qin reforms register households, assign collective responsibility, and extract corvée labor for roads, canals, and fortifications. Slavery continues at margins. The labor regime intensifies: free peasants become state-managed producers and conscripts.
+
+__Production & Surplus Capacity:__ Iron tools and weapons are mass-produced in state workshops. Agriculture generates surplus that states capture through taxation. Silk, lacquer, and salt production are organized or monopolized by states. Surplus funds the war machine.
+
+__Storage, Reserves & Buffering:__ State granaries hold millions of shi of grain—strategic reserves for military campaigns. Qin's material abundance, built through Shang Yang's reforms, underpins its final victories. Financial reserves exist in metal, silk, and grain; coinage spreads.
+
+__Exchange, Trade & Logistics:__ Trade flourishes despite warfare. Merchants move goods between states; some accumulate great wealth. Coinage—bronze knife money, spade money, and round coins—circulates in different regions, easing exchange. Roads and canals improve logistics. States extract merchant wealth through taxes and monopolies.
+
+__Value Storage, Credit & Deferred Exchange:__ Bronze coinage spreads widely, enabling price-based markets. Credit relations develop among merchants. Land becomes commodified in some states, tradeable and taxable. Value storage diversifies beyond grain and silk to metal money.
+
+__Surplus Extraction & Redistribution:__ States perfect extraction: household registration enables accurate taxation in grain, cloth, and labor. Qin's system of ranks (jue) grants land and privileges for military success, reallocating surplus to reward performance. Other states follow similar paths. Extraction intensifies steadily.
+
+__Wealth Distribution & Asset Defense:__ Aristocratic landholding persists but is challenged by merit-based allocation. Merchants grow wealthy but remain socially marginal and politically vulnerable. Land concentration increases in some states; Qin's reforms spread smallholdings by breaking up aristocratic estates. The distribution shifts toward state control and military meritocracy.
+
+__Byproducts & Waste Routing:__ Increased production generates more waste: slag from iron smelting, deforestation for charcoal, erosion from cleared slopes. The economic residue of intensification—stressed soils, diminished forests—accumulates but does not yet constrain the system.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal clans remain fundamental but states undermine aristocratic lineages. Qin breaks the power of great families; Shang Yang's laws enforce nuclear household registration and divide property among sons, fragmenting estates. Kinship adapts to state imperatives.
+
+__Association & Mutual Aid:__ Village communities share irrigation labor. Urban guilds of merchants and artisans form. Philosophical schools create new associations: disciples gather around masters, forming intellectual lineages that transcend state boundaries. Mutual aid within kin and village networks persists.
+
+__Leisure, Play & Sociability:__ Aristocrats hunt, feast, and patronize musicians. Philosophical debate is itself a form of elite sociability. Commoners have festivals, wine, and music. Board games like liubo are attested. Leisure is constrained by the demands of war and production.
+
+__Stratification, Status & Group Structure:__ The old aristocratic order breaks down as states promote men of ability. The shi (scholars-officials) become a mobile class, competing for positions across states. Merchants gain wealth but not status. Peasants are bound to the land by registration. Stratification shifts from birth toward achievement and state service—unevenly across states.
+
+__Administrative Capacity & Institutional Integrity:__ States develop bureaucratic apparatuses: registered populations, codified laws, salaried officials, written archives. Qin leads; others follow. The county (xian) system replaces feudal enfeoffment in some states. Corruption exists but administrative capacity grows. Qin's institutions—population registers, standardized weights and measures, legal codes—represent a new model of state.
+
+__Coercive Apparatus & Means of Force:__ Armies grow enormously: Qin fields hundreds of thousands, other states similarly. Iron weapons—swords, halberds, crossbow triggers—are mass-produced. Cavalry develops alongside infantry. Fortified walls, including early segments of what becomes the Great Wall, protect frontiers. The coercive apparatus consumes surplus and shapes society.
+
+__Discharge, Disorder & Decay:__ Warfare is constant; disorder is the norm. States collapse: Zhongshan is conquered, Han and Wei are weakened, eventually absorbed. Within states, purges, coups, and ministerial conflicts generate political violence. Peasant flight to escape conscription and taxation is endemic. The social residue of warfare—disrupted communities, displaced populations, traumatized survivors—accumulates.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Commoner sentiment is hard to access; sources are elite. Among the literate, urgency and competition dominate. Rulers seek advantage desperately; advisors promise victory. A ruthless pragmatism, captured in Legalist texts, coexists with Confucian moral anxiety. The temper is calculating and embattled.
+
+__Leadership & Personal Authority:__ Rulers vary from capable to dissolute. Effective ministers like Shang Yang (Qin), Wu Qi (Wei, Chu), and Li Kui (Wei) transform states through personal vision and will. The wandering persuaders (youshui) compete for influence, their authority based on eloquence and doctrine. Leadership is consequential; states rise and fall with capable or incapable rulers.
+
+__Legitimacy as Lived Allegiance:__ The Zhou king's legitimacy has become purely nominal. States claim legitimacy through success, not ancient right. Qin's eventual victory will be legitimated retrospectively by Mandate of Heaven rhetoric, but during the period, power legitimates itself. Allegiance follows effectiveness.
+
+__Political Will & Collective Resolve:__ States demonstrate formidable will to survive. Qin's century-long project of strengthening through Legalist reform shows sustained resolve. Other states respond with reforms of their own. Internal factionalism—ministerial conflicts, succession struggles—dissipates will within states. Qin's internal coherence is a decisive advantage.
+
+__External Relations & Posture:__ Interstate relations are defined by strategic maneuvering. The "horizontal" (lianheng) strategy of Qin ally Zhang Yi and the "vertical" (hezong) alliance against Qin show sophisticated diplomatic thinking. Marriage alliances, hostage exchanges, and covenants structure relations alongside warfare. The posture is universally expansionist; only the balance of power restrains.
+
+__Disaffection, Apathy & Spent Will:__ Elite disaffection appears in philosophical withdrawal: the Zhuangzi's rejection of political engagement, the hermits who refuse office. Peasant exhaustion manifests in flight. Some late writings express weariness with endless war. But the states themselves do not lack will; they fight to the end.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Regional scripts diverge as states develop independent documentary traditions. A classical written language enables elite communication across state boundaries. Literacy remains confined to officials, scholars, and merchants—perhaps two to three percent. Oral communication predominates for commoners.
+
+__Channels & Transmission Velocity:__ Improved roads facilitate messenger traffic. Diplomatic missions and spies carry information between courts. Wandering scholars transmit ideas across states. Rumors spread through markets. Information moves faster and further than before, but still at the pace of horse and foot.
+
+__Record, Storage & Persistence:__ Bamboo and wood strips remain standard; silk is used for precious documents. State archives grow: legal codes, population registers, tax records, diplomatic correspondence. Libraries of philosophical texts accumulate at courts, notably Qi's Jixia Academy. The documentary infrastructure of empire is being laid.
+
+__Framing, Censorship & Discourse Norms:__ States do not systematically censor but control court discourse. Philosophical debate is remarkably free; the "Hundred Schools" compete openly. Persuaders master rhetoric to influence rulers. Discourse norms value eloquence, citation of antiquity, and strategic usefulness.
+
+__Reception, Attention & Amplification:__ Rulers' attention is the prize. Persuaders compete for audience; their success depends on the ruler's receptivity. Texts circulate among scholarly networks, copied and transmitted by disciples. Amplification remains personal and slow but the period generates an extraordinary volume of ideas.
+
+__Signal Integrity & Noise Load:__ Variant texts proliferate; attribution to ancient sages is often spurious. Forgery and interpolation are common. The noise load increases with volume, but the small literate community can police quality to some degree. The documentary explosion of the period overwhelms later efforts at canonization.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Competing moral visions emerge. Confucians emphasize ren (humaneness), yi (righteousness), and li (ritual propriety). Mohists argue for impartial concern (jian ai) and utilitarian calculation. Legalists subordinate morality to state interest. A shared sense of crisis—that the moral order has collapsed—generates the debate.
+
+__Law, Codification & Regulatory Evolution:__ Legal codification accelerates. Qin under Shang Yang publishes detailed legal codes; punishments are severe and graduated. Li Kui's Canon of Laws (Fajing) influences other states. Law becomes a tool of state control, not merely custom or ritual. The Legalist vision of rule by law (fazhi) emerges in full.
+
+__Adjudication, Liability & Sanction:__ Courts adjudicate according to written law. Collective responsibility—punishing families for individual crimes—is systematized. Sanctions are brutal: mutilation, forced labor, execution. Speed and severity aim to deter. Adjudication serves state order, not individual justice.
+
+__Rights, Protections & Compliance Burden:__ No concept of rights exists. Subjects have duties; the state has power. Compliance burden intensifies: registration, taxation, conscription, surveillance. Legalist states track populations minutely. The individual is visible to the state as never before.
+
+__Impunity & Unredressed Wrong:__ The powerful enjoy impunity within limits; rulers can be assassinated, ministers purged. Commoners have no recourse; flight is the only protest. The moral residue of systematic injustice—unpunished tyranny, unavenged massacres—is enormous. Confucian and Mohist critiques articulate this residue without remedying it.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The "Hundred Schools" constitute an extraordinary intellectual efflorescence. Confucianism (Mencius, Xunzi) develops systematic moral philosophy. Mohism offers proto-scientific logic and utilitarian ethics. Daoism (Zhuangzi, later Laozi editions) provides metaphysical naturalism. Legalism (Han Feizi, Shang Yang) theorizes amoral statecraft. The Yinyang and Five Phases schools organize cosmological thought. The School of Names (Gongsun Long) explores logic and semantics. The paradigm is practical: how to order the state and cultivate the person.
+
+__Applied Knowledge & Technical Method:__ Iron metallurgy advances; cast iron is mastered. Hydraulic engineering achieves the Dujiangyan system. Military technique is systematized—the Art of War (Sunzi) dates to this period. Agricultural manuals appear. Medicine systematizes acupuncture and herbal remedies. Applied knowledge serves state and military ends.
+
+__Education, Knowledge Stock & Skill Distribution:__ Private teaching flourishes: Confucius's model spreads. Academies like Jixia gather hundreds of scholars under state patronage. Students learn classical texts and the doctrines of their schools. Literacy spreads slightly; technical skills—metallurgy, engineering, military command—transmit through apprenticeship and state workshops.
+
+__Obsolescence & Knowledge Decay:__ The period generates more than it loses. Some knowledge of earlier Zhou institutions decays, but the texts multiply. Variant traditions create interpretive problems later. The intellectual residue is abundance, not loss—though the coming Qin book-burning will attempt to destroy what this period creates.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The sage kings remain foundational: Yao, Shun, Yu, Tang, Wen, Wu, the Duke of Zhou. Schools compete to interpret this heritage. Chu develops a distinct southern mythos of shamanistic imagery. Regional identities sharpen even as a shared civilization is articulated. The mythos of the Golden Age structures all reform proposals.
+
+__Legitimating Narrative & Ideology:__ Competing ideologies legitimate competing state orders. Confucians urge moral rule; Legalists argue for law and power; Mohists propose utility; Daoists critique all governance. Each offers a narrative of order and disorder, a diagnosis of the crisis, and a prescription. Qin's eventual victory will impose one narrative.
+
+__Artistic Expression & Material Culture:__ Bronze ritual vessels continue but are simpler. Lacquerware achieves extraordinary refinement—the Chu tombs display painted lacquer, silk banners, and jade. Iron tools proliferate. Architecture uses rammed earth, timber, and tiles; palaces grow larger. The Chuci (Elegies of Chu) represents a new poetic tradition. Material culture diversifies across states.
+
+__Form Exhaustion & Meaning Decay:__ The old Zhou ritual forms are deliberately simplified or rejected by some states. Legalist Qin disdains ornament. The cultural debate is live: Confucians argue for restored ritual meaning; Daoists see all forms as empty convention. The period generates new forms rather than exhausting old ones, but the Confucian critique of "form without substance" expresses cultural anxiety.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Heaven (tian) remains supreme but is variously interpreted: Mencius's moral Heaven, Xunzi's naturalistic Heaven, the Legalists' indifferent cosmos. Yin-yang and Five Phases cosmology organizes understanding of natural and human order. The existential mood varies by school: Confucians are activist, Daoists are accepting, Legalists are grimly pragmatic.
+
+__Ritual, Devotion & Sacred Practice:__ State sacrifices continue to Heaven, ancestors, and territorial spirits. Confucians emphasize ritual as moral cultivation. Shamanic practices persist in Chu and elsewhere. Divination using the Changes is widespread. The sacred is not abandoned but rationalized by philosophers and simplified by bureaucratic states.
+
+__Religious Institutions & Doctrinal Authority:__ No separate religious institution exists. Philosophical schools compete for doctrinal authority without institutional backing—they are teachers' lineages, not churches. State ritual officials perform sacrifices. The fragmentation of authority mirrors political fragmentation.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Regional traditions persist within a shared cosmological frame. Chu's shamanism, Qi's esoteric practices, and the Central Plain's ancestral religion coexist. No foreign religion enters. The syncretism is internal, as schools borrow concepts from each other.
+
+__Disenchantment & Sacred Discharge:__ Rationalization proceeds: Xunzi treats Heaven as natural process, not intervening deity. Skepticism appears in Legalist and some Daoist texts. Yet the sacred does not vanish; it is relocated. Moral self-cultivation becomes a spiritual practice; the cosmos remains meaningful. The residue is not disenchantment but a higher-order reflection on the sacred—philosophy of religion avant la lettre.

@@ -1,69 +1,140 @@
-# __1840 CE – 1890 CE__ — Great Lakes Kingdom Expansion and Transformation
-__Summary:__ A half-century of accelerating political centralization and military transformation across the interlacustrine kingdoms as Zanzibari caravan trade injects firearms, ivory demand, and slaves into societies previously organized around cattle clientage; Buganda under Suna II and Mutesa I becomes the regional hegemon while Rwanda under Rwabugiri consolidates territorial control; the binding constraint is access to long-distance trade routes, which determines which polities gain military advantage; margins against famine and epidemic remain thin as slaving raids and tribute extraction intensify; the arc bends toward violent consolidation and the religious factional conflicts that will invite colonial intervention.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The interlacustrine plateau between Lakes Victoria, Kyoga, Albert, Edward, Kivu, and Tanganyika presents rolling highlands with moderate transit friction, but the lakes themselves channel movement and trade; Rwanda's mountainous terrain provides defensive depth while Buganda's lakeside position facilitates canoe-based mobility and communication.<br><br>
-__Climate Regime & Volatility:__ Equatorial highland climate with bimodal rainfall supports two growing seasons; interannual variability brings periodic drought years, but overall conditions allow reliable banana-based agriculture in Buganda and cattle-agriculture mixed systems in Rwanda and Burundi; no secular drift detected within the window.<br><br>
-__Hazard Regime & Exposure:__ Localized drought and cattle epizootics (rinderpest arrives in the 1890s at window's close) represent the primary hazards; volcanic activity in the Virunga range remains quiescent; flood risk minimal on the plateau.<br><br>
-__Resource & Energy Endowment:__ Iron ore for local smelting, salt from Lake Katwe, timber, and agricultural land remain abundant; ivory elephants are being depleted by intensified hunting for export, with stocks visibly declining by the 1880s.<br><br>
-__Waste Absorption & Sink Capacity:__ Population densities remain low enough that agricultural waste, charcoal production residue, and human refuse are absorbed without measurable degradation; ample slack in sink capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria, trypanosomiasis in lowland zones, and periodic smallpox outbreaks impose moderate background mortality; epidemic smallpox sweeps Buganda in the 1880s; overall disease burden stable but episodic peaks deadly.<br><br>
-__Nutrition & Physiological Vitality:__ Banana cultivation in Buganda provides reliable carbohydrate surplus; pastoralist-agricultural zones show adequate protein from cattle and milk; nutritional status generally adequate though slave-raiding disrupts provisioning in affected areas.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny concentrated among chiefs and the royal court; cattle bridewealth structures pairing; fertility rates appear high where slaving has not disrupted household formation.<br><br>
-__Demographic Renewal & Density:__ Population growing in the major kingdoms, with Buganda estimated at one to two million by mid-century; slaving for Zanzibari export drains population from peripheral zones, creating demographic holes in raided areas.<br><br>
-__Attrition & Dependency Overhang:__ Warfare and slave-raiding create widows, orphans, and captives; clientage systems absorb some dependents into great households, but the scale of displacement strains traditional absorption capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Banana gardens in Buganda provide a stable subsistence base requiring relatively little labor; pastoral-agricultural mix in Rwanda and Burundi offers complementary buffering; floor remains above crisis except where raiding destroys crops and herds.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain the sole power sources; canoe transport on Lake Victoria multiplies Buganda's logistical reach; iron tools and weapons produced locally from charcoal-fired smelting.<br><br>
-__Labor Organization & Coercion:__ Royal corvee labor mobilizes agricultural and military manpower; cattle clientage (ubuhake in Rwanda, similar systems elsewhere) binds commoners to patrons; slave labor extracted for export and domestic service; coercion intensifying.<br><br>
-__Production & Surplus Capacity:__ Tribute systems extract surplus from commoner households; Buganda's banana economy generates substantial food surplus supporting a large court and army; Rwanda's cattle-grain mix produces exportable surplus in good years.<br><br>
-__Storage, Reserves & Buffering:__ Grain stores at chiefly compounds; cattle herds serve as mobile wealth reserves; no centralized granaries, leaving reserves dispersed and vulnerable to raiding.<br><br>
-__Exchange, Trade & Logistics:__ Caravan routes from the coast reach the Great Lakes by the 1840s; ivory and slaves flow outward, firearms, cloth, and beads flow inward; Nyamwezi and Arab-Swahili traders operate networks; internal markets grow at kingdom capitals.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cattle remain the primary store of value and medium of deferred exchange; cowrie shells and imported beads circulate as currency; ivory tusks function as concentrated wealth for trade.<br><br>
-__Surplus Extraction & Redistribution:__ Royal tribute systems tax agricultural output, livestock, and labor; chiefs redistribute to followers, maintaining clientage bonds; extraction rates increasing as courts expand and military costs rise.<br><br>
-__Wealth Distribution & Asset Defense:__ Royal clans and great chiefs concentrate cattle, land, and trade goods; firearms ownership increasingly stratified, with kings monopolizing imports; commoners defend assets through clientage rather than independent means.<br><br>
-__Byproducts & Waste Routing:__ Smelting slag, agricultural residue, and household waste remain at subsistence-economy levels; trade goods generate minimal waste; routing is local dispersal with ample absorption capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Clan and lineage networks provide primary trust radius; clientage creates cross-clan vertical bonds; trade and slaving introduce external actors whose trustworthiness is uncertain; radius contracting where raiding disrupts communities.<br><br>
-__Stratification, Status & Group Identity:__ Pastoral-agricultural distinctions (Tutsi-Hutu, Hima-Iru) hardening into more rigid status categories as kings consolidate; in Buganda, clan affiliation and royal service determine status; chiefs and royals increasingly differentiated from commoners by material display.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent governs inheritance; cattle bridewealth transfers cement alliances; royal succession often contested, generating court factions and civil conflict.<br><br>
-__Civic Association & Self-Organization:__ Clans provide the primary associational framework below the kingdom; age-grades organize military service in some areas; no urban guilds or independent civic bodies; association is kin-based and clientage-mediated.<br><br>
-__Leisure, Play & Sociability:__ Royal courts host elaborate ceremonies, dances, and displays; cattle pageantry in Rwanda; communal beer drinking and feasting mark social occasions; leisure concentrated around royal and chiefly calendars.<br><br>
-__Grievance Channels & Social Discharge:__ Appeals to chiefs and kings, clientage switching, and flight to neighboring polities serve as safety valves; ritual and oral performance discharge tension; unmetabolized grievance accumulates among those displaced by slaving and war.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Divine or sacred kingship concentrates ultimate authority; Buganda's kabaka commands a bureaucratic hierarchy of appointed chiefs, while Rwanda's mwami rules through a more hereditary aristocracy; power centralizing rapidly in both.<br><br>
-__Succession & Power Transfer:__ Succession frequently contested, especially in Buganda where any royal prince could claim the throne; Rwanda's succession more channeled through designated lines; civil war at succession a recurring pattern, not fully routinized.<br><br>
-__Legitimacy & Political Narrative:__ Royal drum symbols, origin myths, and ritual performances legitimate rule; the kabaka's role as head of all clans in Buganda; the mwami as sacred figure mediating between realms; legitimacy narratives stable but straining under rapid change.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Buganda's appointed chief system represents high administrative capacity for the region, with messengers, tax collection, and military mobilization functioning effectively; Rwanda's system less bureaucratic but effective within its territory; corruption limited by oversight.<br><br>
-__Political Participation & Mobilization:__ Chiefs and clan heads participate in royal councils; commoner voice filtered through patrons; no popular assemblies; mobilization is vertical through clientage and royal command.<br><br>
-__Geopolitical Position & External Relations:__ Buganda dominant among lake kingdoms; rivalries with Bunyoro persist; Rwanda expanding against neighbors; all kingdoms increasingly entangled with Zanzibari traders whose interests complicate external relations; European explorers appear but do not yet command power.<br><br>
-__Coercive Apparatus & Means of Force:__ Large standing armies in Buganda, organized by appointed generals; Rwanda's military organized around age-grades and royal guard; firearms (muskets, later rifles) transform military advantage for those with trade access; traditional spear-and-shield tactics giving way.<br><br>
-__Internal Order & Threat Environment:__ Royal authority generally maintains internal order; banditry limited; greatest threat is from succession conflicts, religious factionalism (emerging in Buganda after 1870s missionaries arrive), and raiding into peripheral territories.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral messengers carry royal commands; drum signals convey information across distances; canoe networks on Lake Victoria accelerate Buganda's communication; transmission velocity sufficient for coordinated military campaigns within kingdom boundaries.<br><br>
-__Record, Storage & Persistence:__ Oral tradition remains the exclusive medium for most populations; royal courts maintain oral historians and genealogists; no indigenous script; some Arabic-literate traders operate, but written records do not structure administration or law; memory losses accumulate with each generation.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal narratives dominate public discourse; criticism of the king highly constrained; court praise-singers frame official history; discourse norms tightening as royal power centralizes.<br><br>
-__Reception, Attention & Amplification:__ Public assemblies, court ceremonies, and market gatherings serve as amplification sites; royal messages receive priority attention; rumor networks operate alongside official channels.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces distortion over distance and time; competing rumors around succession and war create noise; verification depends on trusted messenger networks; noise load manageable within the system's scale.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Customary notions of reciprocity, cattle-compensation for wrongs, and hierarchical obligation govern the sense of justice; slaving and raiding create moral injury that existing frameworks struggle to address.<br><br>
-__Law, Codification & Regulatory Evolution:__ Unwritten customary law administered by chiefs and kings; no codification; royal edicts carry force of law; rules evolving rapidly as trade goods and firearms create new property categories.<br><br>
-__Adjudication, Enforcement & Liability:__ Chiefs and kings adjudicate disputes; cattle-compensation primary remedy; corporal and capital punishment for serious offenses; enforcement effective within kingdom territory but breaks down in raided peripheries.<br><br>
-__Rights, Protections & Compliance Burden:__ No concept of individual rights against royal authority; clientage provides protection within the relationship; compliance burden on commoners increasing as tribute demands rise.<br><br>
-__Impunity & Unredressed Wrong:__ Royal and chiefly actors enjoy effective impunity; slaving raids create mass unredressed wrong among victims; the impunity gap widening as violence scales up.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal investigation of natural phenomena; knowledge of cattle-breeding, agriculture, metallurgy, and medicine transmitted through apprenticeship; explanatory frameworks remain cosmological and ancestral.<br><br>
-__Applied Knowledge & Technical Method:__ Iron-smelting, canoe-building, cattle management, and warfare techniques represent sophisticated practical knowledge; gunsmithing absent, creating dependence on coastal imports; herbal medicine practiced.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally through family, clan, and court; specialists (smiths, healers, historians) train apprentices; no schools; literacy absent except among a few coastal traders; skill distribution tied to social position.<br><br>
-__Obsolescence & Knowledge Decay:__ Some traditional knowledge (older weapon types, pre-firearms tactics) becoming obsolete; oral transmission maintains core agricultural and pastoral knowledge; decay where specialists die without successors.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Royal origin myths, clan totems, and heroic narratives constitute collective identity; the Bachwezi legends in Bunyoro, the Kintu myth in Buganda, the Gihanga myth in Rwanda anchor foundational identity; these remain vital and actively performed.<br><br>
-__Artistic Expression & Material Culture:__ Bark cloth, basketry, pottery, and metalwork display regional styles; royal regalia (drums, spears, thrones) carry symbolic weight; architectural elaboration of royal compounds; material culture enriched by imported cloth and beads.<br><br>
-__Collective Mood & Behavioral Disposition:__ Expansionist confidence in Buganda and Rwanda; anxiety in peripheral polities subject to raiding; religious factionalism in Buganda creates uncertainty and tension by the 1880s; mood mixed between triumphalism and insecurity.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional forms remain potent; new religious inputs (Islam, Christianity) challenge but do not yet displace customary symbols; no significant form exhaustion; meanings actively contested rather than decaying.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Ancestral spirits, nature spirits, and a high god structure cosmology; kings mediate between the living and spiritual realms; fate governed by spiritual forces propitiated through ritual; Islam and Christianity arriving but not yet dominant.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Royal rituals (enthronement, harvest, war preparation) anchor public religious life; household ancestor veneration; spirit mediums active; Muslim traders introduce Islamic practice to court circles; Christian missionaries arrive in Buganda 1877–1879.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No centralized priesthood in traditional religion; spirit mediums and shrine keepers hold local authority; royal rituals controlled by the court; incoming religions introduce new institutional forms (mosques, churches) but remain marginal in this window.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam spreading among traders and some court elites; Christianity gaining converts especially among young pages at the Bugandan court; syncretism emerging; traditional cosmology dominant but facing competitive pressure.<br><br>
-__Disenchantment & Sacred Discharge:__ No significant secularizing drift; traditional cosmology retains explanatory grip; religious competition creates faction rather than disenchantment; sacred need actively met through multiple available frameworks.<br><br>
+# __1,840 CE – 1,890 CE__ — Great Lakes Kingdom Expansion and Transformation
+
+__Summary:__ The interlacustrine kingdoms of Buganda, Rwanda, Burundi, and their neighbors reach their apogee of territorial expansion and political centralization in the half-century before colonial partition, driven by the integration of imported firearms and cloth into existing structures of royal power. Spoken language remains the exclusive medium of governance — all administration, law, tribute-accounting, and historical memory depend on oral transmission, court ritual, and the trained recall of official historians — yet these purely oral polities now interact with a literate commercial frontier pushing inland from Zanzibar. The binding constraint is speech: the kingdoms coordinate armies, administer provinces, and transmit dynastic legitimacy entirely through voice and memory, and what is not spoken and remembered does not persist.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The interlacustrine zone lies between Lakes Victoria, Kyoga, Albert, Edward, and Tanganyika, a highland plateau 1,000–1,500 meters elevation dissected by rivers, papyrus swamps, and steep escarpments. Movement is constrained by tsetse-infested valleys and swamp corridors; banana-growing hillsides support dense settlement, while pasture lands in Rwanda and Burundi anchor cattle economies. The Great Lakes themselves permit canoe transport and fish protein but also form barriers to lateral expansion.
+
+__Climate Regime & Volatility:__ Equatorial highland climate delivers bimodal rainfall (March–May, September–November), enabling year-round cultivation. Interannual variability linked to ENSO and the Indian Ocean Dipole can trigger drought years that stress food reserves and provoke raiding. The period 1840–1890 includes documented famines in Rwanda (1880s) that weaken peripheral areas and enable Buganda's expansion.
+
+__Hazard Regime & Exposure:__ The rift zone is seismically active; earthquakes are felt but catastrophic events are rare. Locust invasions, cattle epizootics (rinderpest arrives 1891, just after the window), and drought are the principal acute shocks. Flooding affects lakeside and riverine settlements seasonally.
+
+__Resource & Energy Endowment:__ Iron ore deposits (laterite) support local smelting; copper and salt from Lakes Albert and Katwe are traded regionally. Timber is abundant in highland forests, and papyrus provides construction material. Energy remains entirely muscular — human porters, paddlers, and agricultural labor — with no draft animals due to trypanosomiasis.
+
+__Waste Absorption & Sink Capacity:__ Population densities reach high levels on fertile banana hillsides, but organic waste recycles into soils. Deforestation for iron smelting and agriculture is localized but increasing. No industrial pollution; the sink is not saturated.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria is endemic in lowland and lakeside zones, driving settlement to higher elevations. Dysentery, parasitic infections, and smallpox (introduced earlier, now episodic) impose chronic mortality. Sleeping sickness (trypanosomiasis) devastates tsetse-belt populations. Mortality rates are high but stable; population grows slowly where agriculture is intensive.
+
+__Nutrition & Physiological Vitality:__ The banana-plantain staple provides reliable calories; supplemented by millet, sorghum, beans, and livestock products. Protein access varies by class — cattle-owning elites have higher intake. Stature and robustness are adequate in core areas; peripheral and drought-affected zones show episodic malnutrition.
+
+__Care, Healing & Recovery Capacity:__ Healing is performed by herbalists and spirit mediums using plant pharmacopoeia and ritual. Bone-setting, wound treatment, and midwifery are practiced. No institutional medicine; epidemics run unchecked. The load of injury from warfare increases in this period.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny is the elite norm; commoners are largely monogamous. Bridewealth in cattle structures marriage alliances and channels wealth intergenerationally. Fertility is moderate; high infant mortality limits population growth.
+
+__Demographic Renewal & Density:__ Population is densest in Buganda (estimated 1–3 million by 1880) and the Rwanda-Burundi highlands. The region is a demographic core, not a frontier. Immigration from conquered or client territories adds population to expanding kingdoms.
+
+__Attrition & Dependency Overhang:__ Warfare produces widows and orphans absorbed into polygynous households or royal households as dependents. Elderly dependents are cared for within extended kin networks. The load is distributed but not negligible.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The banana-plantain staple provides a reliable, low-labor subsistence floor. Households also cultivate millet, sorghum, beans, and groundnuts. Cattle are wealth stores and ritual goods more than daily food; milk is consumed by herding populations. Famine is episodic, not endemic, in core areas.
+
+__Energy Capture & Conversion:__ All energy is muscular. Human labor clears fields, carries loads, paddles canoes, and builds. No draft animals survive the tsetse belt. Fire is used for cooking, smelting, and clearing. Per-capita energy is low but sufficient for agricultural surplus.
+
+__Labor Organization & Coercion:__ Royal corvée labor (bulungi bwansi in Buganda) mobilizes subjects for roadbuilding, construction, and porterage. Slavery exists — war captives and purchased slaves work royal estates — but free peasant labor predominates. Labor obligations are owed to chiefs and king; coercion is embedded in political hierarchy.
+
+__Production & Surplus Capacity:__ Banana agriculture yields surplus with relatively low labor input, freeing labor for craft production, warfare, and royal service. Barkcloth, ironwork, pottery, and basketry are produced by specialist clans. Surplus supports large royal households and standing armies.
+
+__Storage, Reserves & Buffering:__ Grain (millet, sorghum) is stored in granaries; bananas do not store well. Cattle herds serve as mobile wealth reserves. Royal treasuries hold ivory, cloth, beads, and guns — the new prestige goods from the coast. Drought or war can deplete reserves rapidly.
+
+__Exchange, Trade & Logistics:__ The Zanzibari caravan system reaches the Great Lakes by the 1840s–1850s, bringing cloth, beads, wire, and firearms in exchange for ivory and slaves. Internal trade in iron, salt, and cattle predates external contact. No markets in the formal sense; exchange is through royal monopoly, tribute, and reciprocal gifting. Porterage is the logistics bottleneck.
+
+__Value Storage, Credit & Deferred Exchange:__ Cattle are the primary value store and bridewealth medium. Cowrie shells and beads serve as quasi-currency in some transactions. Imported cloth becomes a prestige good and medium of royal reward. No formal credit; reciprocal obligations are tracked orally.
+
+__Surplus Extraction & Redistribution:__ Kings extract tribute in labor, produce, cattle, ivory, and (increasingly) slaves. Tribute flows up through chiefs to the palace; redistribution flows down as rewards, gifts, and feasting. The royal monopoly on external trade goods (especially firearms) concentrates new wealth at the center.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among royalty, titled chiefs, and successful warriors. Land is held by kings and allocated to chiefs and commoners; it is not alienable property. Cattle raiding redistributes wealth violently. Firearms become the decisive asset; those who lack them are vulnerable.
+
+__Byproducts & Waste Routing:__ Organic waste returns to soils. Slag from iron smelting accumulates at furnace sites. The ivory and slave trades extract biological "surplus" destructively — elephant populations decline, and slave raiding depopulates peripheral areas. The external trade leaves a wake of social destruction.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal clans (in Buganda) or patrilineal descent groups (in Rwanda, Burundi) structure kinship. Clans are dispersed and totemic; they regulate marriage and provide mutual aid. Inheritance passes patrilineally; royal succession is often contested among sons. The king stands above clan but draws chiefs from multiple clans to prevent any one from dominating.
+
+__Association & Mutual Aid:__ Age-grades (in some areas), neighborhood networks, and clan-based mutual aid provide informal insurance. Blood-brotherhood (kunywana) creates cross-clan alliances. The palace and chiefly courts absorb ambitious men as clients, bypassing kin structures.
+
+__Leisure, Play & Sociability:__ Royal courts host music, dance, wrestling, and oral poetry. Communal beer-drinking and feasting mark harvests, victories, and rites of passage. The court is the apex of display and sociability; provincial chiefs replicate the pattern on smaller scale.
+
+__Stratification, Status & Group Structure:__ Buganda: the kabaka (king) at the apex, batongole (appointed chiefs) and bataka (clan heads) below, peasants (bakopi) at base, slaves lowest. Rwanda and Burundi: a three-tier system of Tutsi (cattle-herding aristocracy), Hutu (cultivators), and Twa (hunter-gatherers/potters), though boundaries are more fluid than later colonial categories suggest. Status is fluid in Buganda (merit can raise a commoner), more hereditary in Rwanda-Burundi.
+
+__Administrative Capacity & Institutional Integrity:__ Buganda develops the most centralized administration: the kabaka appoints and dismisses chiefs, maintains a standing army, and controls external trade. Administrative capacity is entirely oral — messages, orders, tribute lists, and legal judgments are transmitted by word of mouth. Royal pages and officials memorize and recite. No written records, no bureaucratic archive. Administrative reach extends as far as messengers can travel and be trusted.
+
+__Coercive Apparatus & Means of Force:__ Standing armies (in Buganda, organized into regiments under appointed commanders) replace older militia systems. Firearms — flintlocks and percussion muskets imported from Zanzibar — transform warfare; Buganda's gun-equipped canoe flotilla dominates Lake Victoria. Spears, shields, and bows remain common among commoners and peripheral kingdoms. Fortified capitals (e.g., the kabaka's court) are defended by loyal guards.
+
+__Discharge, Disorder & Decay:__ Expansion through conquest produces refugees, slaves, and depopulated zones on the periphery. Succession disputes trigger civil wars (e.g., Buganda's 1888 religious wars, just after this window). Raiding and counter-raiding generate chronic insecurity in border areas. The apparatus holds at the center; disorder discharges outward to the margins.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ At the center, royal power inspires awe and fear; loyalty to the king is enforced by reward and terror (execution of traitors, confiscation). On the periphery, conquest produces resentment. The general temper is one of confident expansion in Buganda, defensive consolidation in Rwanda and Burundi.
+
+__Leadership & Personal Authority:__ Kabakas Suna II (r. 1832–1856) and Mutesa I (r. 1856–1884) are the commanding figures of Buganda's expansion — centralizing, warlike, shrewd in manipulating external contacts. In Rwanda, Mwami Rwabugiri (r. c. 1867–1895) extends royal control. Personal charisma and ruthlessness concentrate power in the king's person.
+
+__Legitimacy as Lived Allegiance:__ Royal legitimacy rests on ritual (enthronement, regalia, possession of sacred objects), success in war, and redistribution of loot. The king is sacral — his health is the kingdom's health — but legitimacy erodes if defeat or famine follows. Succession crises reveal how thin the reservoir of consent can be.
+
+__Political Will & Collective Resolve:__ The ruling groups display strong collective resolve: large-scale campaigns, canoe-borne invasions, and sustained sieges are undertaken. Cohesion at the top depends on the king's ability to reward and threaten. Factionalism — often along religious or clan lines — is latent and erupts after 1884.
+
+__External Relations & Posture:__ Buganda is expansionist, absorbing Busoga, Bunyoro territories, and islands. Relations with Zanzibar and European explorers (Speke 1862, Stanley 1875) are calculating — the kabaka seeks guns and allies. Rwanda and Burundi remain more insular but consolidate internally. The kingdoms are rivals; Bunyoro and Buganda are enemies.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection is suppressed by terror and co-optation. Peripheral and conquered peoples harbor resentment. By the 1880s, religious factionalism (traditionalists, Muslims, Catholics, Protestants) divides the elite, presaging the civil wars of 1888–1892.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ All communication is oral. Royal languages (Luganda, Kinyarwanda, Kirundi) are mutually intelligible within kingdoms but mark ethnic boundaries. Swahili spreads along trade routes as a lingua franca with coastal traders. No writing is used for administration; messages are carried by trained messengers who memorize content.
+
+__Channels & Transmission Velocity:__ Messages travel at the speed of runners and paddlers — a few days across Buganda, weeks to distant provinces. Drum signals convey simple messages rapidly (war, death, summons). The king's court is the information hub; provincial chiefs relay orders outward.
+
+__Record, Storage & Persistence:__ Memory is the only archive. Official historians (abataka in Buganda) memorize and recite king-lists, genealogies, and court events. Rituals encode and transmit tradition. No documentary record; what is forgotten is lost. European visitors and missionaries begin writing down observations in the 1860s–1880s, creating the first external written record.
+
+__Framing, Censorship & Discourse Norms:__ Criticism of the king is dangerous; court speech is highly coded and deferential. Oral historians serve the dynasty — inconvenient events may be suppressed or reframed. The king controls the official narrative.
+
+__Reception, Attention & Amplification:__ Mass audiences gather at court for proclamations, rituals, and war dances. Provincial chiefs replicate the message. Rumor and gossip circulate rapidly but cannot be controlled. The arrival of missionaries introduces a competing channel — vernacular preaching and catechesis — that bypasses royal control.
+
+__Signal Integrity & Noise Load:__ Oral transmission is vulnerable to distortion over distance and generations. Contradictory accounts of the same event are common. Trained specialists reduce noise but cannot eliminate it. No verification system beyond trust in the messenger.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is the king's justice — his word is law. Customary norms govern kinship obligations, bridewealth, and property; violations are adjudicated by chiefs or king. The strong protect the weak in theory; in practice, power trumps right. Theft, adultery, and treason are capital offenses.
+
+__Law, Codification & Regulatory Evolution:__ No written law. Custom is transmitted orally and interpreted by chiefs and king. The kabaka's decrees have force of law but are not codified. Missionaries introduce new moral codes (Christianity, Islam) that compete with tradition.
+
+__Adjudication, Liability & Sanction:__ Chiefs and the king adjudicate disputes. Ordeals (e.g., the poison ordeal) test guilt. Sanctions range from fines (cattle, bridewealth) to mutilation (cutting off ears, hands) to execution (burning, spearing). Royal displeasure is often fatal. Justice is swift but arbitrary.
+
+__Rights, Protections & Compliance Burden:__ Commoners have customary rights to land use, kinship support, and protection by their chiefs. These rights are real but not enforceable against the king. Compliance with royal demands (tribute, corvée, military service) is obligatory; resistance is dangerous.
+
+__Impunity & Unredressed Wrong:__ The king and powerful chiefs act with impunity. Commoners have little recourse against abuse. Slaves have no rights. The gap between justice owed and delivered is wide, especially for the weak and peripheral. Grievances accumulate among the conquered.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry tradition. Knowledge of agriculture, metallurgy, and medicine is empirical and transmitted through apprenticeship. Explanation is cosmological — illness and misfortune are caused by spirits, witchcraft, or ancestral displeasure. European missionaries introduce literacy, Christianity, and new explanatory frames in the 1870s–1880s.
+
+__Applied Knowledge & Technical Method:__ Iron smelting is sophisticated; smiths are specialists with hereditary knowledge. Canoe construction, barkcloth production, and pottery are highly developed crafts. Agricultural technique is adapted to local soils and rainfall. Firearms are imported, not manufactured; maintenance knowledge is limited.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal — children learn from parents and kin. Royal pages learn court protocol, oral history, and military skills. Craft knowledge is guild- or clan-held. Missionary schools (from the 1870s) introduce literacy to a tiny elite; by 1890, perhaps a few hundred can read.
+
+__Obsolescence & Knowledge Decay:__ Knowledge persists as long as practitioners live and teach. Loss of skilled smiths or healers erases local technique. Oral histories are vulnerable to forgetting and distortion. The arrival of writing creates the possibility of durable record, but its reach is minimal by 1890.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Each kingdom has origin myths linking the dynasty to founding heroes (Kintu in Buganda, Gihanga in Rwanda). Royal genealogies are recited at enthronement. Clan totems and taboos define group identity. The kingdom is the people; the king embodies the nation.
+
+__Legitimating Narrative & Ideology:__ The king rules by divine sanction and ancestral mandate. Success in war validates the dynasty. Oral historians craft and recite narratives of royal greatness. The arrival of missionaries introduces competing narratives — Christian salvation, Islamic submission — that by the 1880s fracture elite consensus.
+
+__Artistic Expression & Material Culture:__ Barkcloth is the prestige fabric; it is beaten, dyed, and worn at court. Royal drums are sacred objects. Music (harps, lyres, drums), dance, and oral poetry flourish at court. Architecture is impermanent — grass-thatched, mud-walled compounds — but royal enclosures are large and impressive. Imported cloth and beads become markers of status.
+
+__Form Exhaustion & Meaning Decay:__ Traditional forms remain vital but are increasingly contested by new religious and material cultures. The rapid adoption of Christianity and Islam by court factions signals that old cosmologies are losing their monopoly. By 1890, the kingdom's symbolic coherence is strained.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The world is inhabited by spirits (balubaale in Buganda) who control nature and fortune. Ancestors mediate between the living and the divine. The king is the ritual center — his health and the kingdom's are linked. Fate is shaped by spirit favor, divination, and sacrifice. European religions offer alternative cosmologies: a single God, heaven and hell, moral law.
+
+__Ritual, Devotion & Sacred Practice:__ Spirit mediums, royal shrines, and sacrificial rites structure religious life. The king performs rituals for rain, war success, and fertility. Commoners consult diviners and make offerings. Missionaries introduce prayer, baptism, and the Sabbath; converts form new communities of practice.
+
+__Religious Institutions & Doctrinal Authority:__ Traditional religion lacks formal institutions — no priesthood, no scripture. Spirit mediums hold local authority. Islam (introduced via Swahili traders) brings Quranic recitation and mosques; Christianity (Catholic, Protestant missions from 1877) brings catechesis, schools, and churches. By 1890, these new institutions compete for elite allegiance.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam spreads among traders and some court factions. Christianity spreads among royal pages and ambitious young men. Conversion is often strategic — alignment with European or Arab power. Syncretism is common; traditional beliefs persist beneath the new faiths. The old cosmology is not yet displaced but is losing its monopoly.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains potent — kings are sacral, spirits are real, ritual is efficacious. But the arrival of new religions and the shock of external contact begin to hollow out traditional certainties. By 1890, religious civil war (1888–1892, just after this window) will expose the fractures. Disenchantment is latent, not yet settled.
+

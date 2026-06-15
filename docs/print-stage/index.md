@@ -1,5 +1,5 @@
 # __Print Stage__
-__Description:__ Mechanically reproduced, identical copies become the substrate of the public sphere. A text is reproduced into many exact copies without a scribe, so the cost of the hundredth collapses toward the cost of the first; the public sphere, news, and opinion come to be carried by printed matter — books, then the periodical press distributing the same text on a schedule to a scattered readership. Dominant until broadcast addresses the mass audience at once. (The telegraph, the most advanced transmission of this stage, is not a period — see below.)<br><br>
+__Description:__ Mechanically reproduced, identical copies become the substrate of the public sphere. A text is reproduced into many exact copies without a scribe, so the cost of the hundredth collapses toward the cost of the first; the public sphere, news, and opinion come to be carried by printed matter — books, then the periodical press distributing the same text on a schedule to a scattered readership. Dominant until broadcast addresses the mass audience at once. (The telegraph, the most advanced transmission of this stage, is not a period — see below.)
 
 ### - [Print Stage in The North European Plain — 1500 CE – 1930 CE](print-stage-in-north-european-plain/index.md)
 ### - [Print Stage in The British Isles — 1500 CE – 1930 CE](print-stage-in-british-isles/index.md)

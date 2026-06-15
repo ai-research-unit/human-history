@@ -1,69 +1,139 @@
-# __1910 CE – 1920 CE__ — Mexican Revolution and Revolutionary Print
-__Summary:__ A decade of civil war, constitutional rupture, and factional violence that devastated the Mexican highlands and disrupted every domain; binding constraint is the collapse of central authority and the armed contest among revolutionary factions for legitimacy and territory; economic and demographic stocks depleted far below renewal capacity; direction of change is violent deconstruction followed by constitutional reconstruction without settled equilibrium.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Central plateau and Sierra Madre ranges channeling troop movements along rail corridors; Yucatan lowlands geographically peripheral to main conflict zones; mountainous terrain fragmenting territorial control and enabling guerrilla warfare.<br><br>
-__Climate Regime & Volatility:__ Semi-arid highland climate with seasonal rains; interannual drought variability compounding subsistence stress during wartime disruption; no major secular shift within window.<br><br>
-__Hazard Regime & Exposure:__ Endemic earthquake risk in central Mexico; hazard exposure secondary to war-induced destruction; infrastructure losses from combat far exceed natural disaster damage in this window.<br><br>
-__Resource & Energy Endowment:__ Silver and copper mining disrupted by conflict; petroleum reserves in Gulf coast becoming contested strategic asset; hacienda lands disputed between factions; resource access fragmented by territorial control shifts.<br><br>
-__Waste Absorption & Sink Capacity:__ Wartime waste negligible against landscape capacity; urban sanitation collapsed in besieged and abandoned towns; corpse disposal and battlefield detritus localized burdens without regional saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic typhus, dysentery, and smallpox intensified by troop movements and displacement; Spanish influenza pandemic 1918 adding mass mortality on top of war deaths; death rate spiking far above replacement.<br><br>
-__Nutrition & Physiological Vitality:__ Widespread malnutrition as agriculture disrupted; hacienda production collapsed; urban food supply intermittent; civilian bodies weakened by hunger and disease simultaneously.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Combat mortality skewing sex ratios in affected regions; family formation disrupted by male absence, conscription, and displacement; reproductive biology unchanged but pairing patterns violently interrupted.<br><br>
-__Demographic Renewal & Density:__ Population declining by an estimated one to two million through death, displacement, and emigration; age structure hollowed by young male mortality; renewal suspended during active conflict.<br><br>
-__Attrition & Dependency Overhang:__ Mass widowing and orphaning creating dependency load that surviving productive cohort cannot absorb; war-disabled veterans adding to burden; social safety structures collapsed alongside central authority.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural production collapsed in conflict zones; haciendas abandoned or burned; subsistence crisis widespread; household survival dependent on foraging, migration, or faction patronage.<br><br>
-__Energy Capture & Conversion:__ Draft animal stocks depleted by military requisition; rail transport intermittent as lines cut and rebuilt by contending factions; human muscle primary energy source in disrupted economy.<br><br>
-__Labor Organization & Coercion:__ Peon debt bondage dissolved as haciendas collapsed; conscription by all factions imposing forced military labor; wage relations suspended; survival-level scramble replacing structured labor markets.<br><br>
-__Production & Surplus Capacity:__ Mining, manufacturing, and commercial agriculture halted or severely reduced; surplus generation near zero in active conflict zones; productive capital destroyed or abandoned.<br><br>
-__Storage, Reserves & Buffering:__ Granaries looted; treasury exhausted; foreign exchange reserves depleted; no institutional buffering capacity remaining by mid-decade.<br><br>
-__Exchange, Trade & Logistics:__ Rail lines contested chokepoints; multiple currencies issued by factions; hyperinflation rendering paper worthless; commerce reduced to local barter and military supply chains.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Multiple revolutionary currencies competing and collapsing; banking system paralyzed; credit frozen; land titles contested; stored value destroyed by inflation and confiscation.<br><br>
-__Surplus Extraction & Redistribution:__ Extraction by armed force replacing taxation; factions requisitioning food, animals, and men; redistribution through military patronage and zapatista land seizures rather than state channels.<br><br>
-__Wealth Distribution & Asset Defense:__ Hacendado class dispossessed in zapatista zones; urban wealth mobile and fleeing; revolutionary leaders accumulating war spoils; distribution flattened by destruction more than redistribution.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste negligible as production halted; military waste scattered across battlefields; economic metabolism too collapsed to generate significant discharge.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship and village solidarity intensified as survival units; trust radius contracted to immediate community; interfactional violence destroying broader social trust.<br><br>
-__Stratification, Status & Group Identity:__ Hacienda hierarchy violently dismantled in agrarian zones; revolutionary faction identity superseding class and regional lines; mestizo and indigenous campesinos mobilized as revolutionary base.<br><br>
-__Kinship, Family & Inheritance:__ Family structure fractured by death and displacement; inheritance claims suspended by land reform movements; soldaderas accompanying armies blurring household boundaries.<br><br>
-__Civic Association & Self-Organization:__ Village assemblies revived in zapatista territory; urban mutual aid societies strained; associational life subordinated to faction organization and survival.<br><br>
-__Leisure, Play & Sociability:__ Corridos and revolutionary songs flourishing as oral culture; formal leisure suspended; sociability organized around military encampments and refugee communities.<br><br>
-__Grievance Channels & Social Discharge:__ Armed revolt as primary grievance channel; violence as social discharge mechanism; accumulated peon grievances against hacendados finding violent outlet; massive residue of trauma unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Central authority collapsed after Huerta coup; multiple revolutionary factions claiming sovereignty; Carranza constitutionalist government nominally victorious by 1917 but territorial control fragmented.<br><br>
-__Succession & Power Transfer:__ Madero overthrown and murdered 1913; Huerta ousted 1914; convention government failed; succession by assassination and military victory rather than rule; no stable transfer mechanism.<br><br>
-__Legitimacy & Political Narrative:__ Competing revolutionary narratives — maderista democracy, zapatista agrarianism, carrancista constitutionalism, villista populism — none achieving hegemony; 1917 Constitution as attempted legitimacy anchor.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Federal bureaucracy collapsed outside Mexico City; local administration by faction commanders; records destroyed; administrative capacity near zero in contested zones.<br><br>
-__Political Participation & Mobilization:__ Mass mobilization into revolutionary armies; peasant and worker participation unprecedented; women as soldaderas; participation through armed struggle rather than electoral channels.<br><br>
-__Geopolitical Position & External Relations:__ US intervention at Veracruz 1914 and Pershing expedition 1916–1917; Zimmermann telegram 1917; Mexican neutrality in WWI; sovereignty contested by foreign intervention.<br><br>
-__Coercive Apparatus & Means of Force:__ Federal army dissolved; revolutionary armies organized by charismatic caudillos; rifles, machine guns, and artillery primary weapons; ammunition supply chains determining military capacity.<br><br>
-__Internal Order & Threat Environment:__ Order collapsed across most of territory; banditry indistinguishable from revolutionary activity; civilian population subject to violence from all factions; disorder absolute in conflict zones.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph lines cut and restored by military needs; rail-based newspaper distribution disrupted; information traveling with troop movements and refugees; oral transmission dominant.<br><br>
-__Record, Storage & Persistence:__ Archives destroyed in combat; land records burned; revolutionary manifestos printed and distributed but institutional records lost; historical documentation fragmentary.<br><br>
-__Framing, Censorship & Discourse Norms:__ Each faction running propaganda newspapers; censorship by assassination of hostile editors; no unified discourse control; revolutionary rhetoric unconstrained.<br><br>
-__Reception, Attention & Amplification:__ Literate urban populations receiving factional papers when available; rural population informed by corridos, rumor, and proclamation; attention focused on immediate survival.<br><br>
-__Signal Integrity & Noise Load:__ Contradictory faction claims impossible to verify; rumor and propaganda indistinguishable; signal integrity collapsed; information environment maximally noisy.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Agrarian justice — land to those who work it — central revolutionary moral claim; anti-Porfirian resentment channeled into revolutionary justice; retributive violence as popular justice.<br><br>
-__Law, Codification & Regulatory Evolution:__ 1917 Constitution encoding revolutionary program — Article 27 on land, Article 123 on labor; legal revolution on paper without enforcement capacity.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts non-functional in conflict zones; revolutionary tribunals and summary execution; liability assigned by military command rather than judicial process.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights proclaimed but unenforced; civilian protection nonexistent in practice; compliance irrelevant where law has no force.<br><br>
-__Impunity & Unredressed Wrong:__ Complete impunity for revolutionary violence; massacres, rapes, and looting unredressed; injustice accumulating without any prospect of accountability during active conflict.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Positivist científico paradigm discredited with Porfiriato; revolutionary ideologies — agrarianism, anarchism, constitutionalism — competing without systematic theoretical development; intellectual life suspended by war.<br><br>
-__Applied Knowledge & Technical Method:__ Military technique dominant applied knowledge; railway operation, telegraphy, and munitions production the critical skills; civilian technical progress halted.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Schools closed in conflict zones; literacy campaigns suspended; knowledge transmission interrupted; skill distribution frozen at pre-war levels.<br><br>
-__Obsolescence & Knowledge Decay:__ Porfirian technocratic knowledge abandoned; institutional memory lost with bureaucratic collapse; practical knowledge of agrarian production degraded by displacement.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary mythos forming in real time — Zapata as agrarian martyr, Villa as popular hero, Madero as democratic idealist; new foundational narrative displacing Porfirian order-and-progress.<br><br>
-__Artistic Expression & Material Culture:__ Revolutionary corridos as primary artistic form; political caricature and broadside illustration; monumental culture suspended; material destruction rather than construction.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood oscillating between revolutionary hope and survival terror; collective psychology traumatized; behavioral disposition toward armed self-defense and faction loyalty.<br><br>
-__Form Exhaustion & Meaning Decay:__ Porfirian cultural forms — positivist ceremony, elite francophilia — exhausted and rejected; revolutionary forms emerging raw and uncodified; meaning system in violent transition.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology intact among peasant base; revolutionary anticlericalism elite phenomenon; existential outlook apocalyptic amid mass death; transcendence sought through revolutionary sacrifice.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Popular Catholicism continuing despite anticlerical currents; Virgin of Guadalupe carried by zapatista forces; devotional practice sustaining amid destruction.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church hierarchy aligned with conservatives; clerical property threatened by revolutionary legislation; institutional authority contested but not yet directly attacked.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Revolutionary martyrology beginning to overlay Catholic sacred calendar; secular nationalism emerging as quasi-religious framework; traditional cosmology holding at popular level.<br><br>
-__Disenchantment & Sacred Discharge:__ Sacred meaning not yet evacuated; revolutionary cause providing transcendent purpose for combatants; disenchantment deferred by intensity of struggle; spiritual residue accumulating as trauma rather than doubt.<br><br>
+# __1910 CE – 1920 CE — Mexican Revolution and Revolutionary Print__
+
+__Summary:__ The Mexican Revolution is a decade-long armed contest in which competing factions wield print as weapon and legitimation instrument, with the fragmentation of the national state enabling a proliferation of regional and factional newspapers while popular genres like the corrido carry revolutionary narratives beyond literate elites; the binding constraint is the collapse of central authority and the necessity for each faction to construct its own information regime amid territorial fragmentation and chronic violence.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The central plateau anchors conventional military operations while the northern deserts and southern mountains favor guerrilla mobility; railways built during the Porfiriato become strategic prizes, enabling rapid troop movement but also rendering armies vulnerable when lines are cut. Zapatista forces exploit the rugged terrain of Morelos while Villista cavalry dominates the open northern plains. Mexico City remains the symbolic prize whose control confers legitimacy; provincial capitals like Guadalajara, Monterrey, and Mérida shift hands repeatedly.
+
+__Climate Regime & Volatility:__ Agricultural disruption follows armies and drought cycles; the 1915–1916 famine in the central highlands reflects both climatic stress and the collapse of transportation networks. Seasonal rains constrain campaign timing in lowland regions.
+
+__Hazard Regime & Exposure:__ Earthquakes and floods remain background risks, but the primary hazards are anthropogenic—military destruction, infrastructure sabotage, and epidemic disease amplified by displacement and nutritional collapse.
+
+__Resource & Energy Endowment:__ Petroleum production in the Gulf coast continues under foreign concession, generating export revenue that various factions seek to capture. Mining districts in the north change hands repeatedly; silver and copper production declines sharply from Porfirian peaks. Henequen production in Yucatan sustains that region's separatist tendencies.
+
+__Waste Absorption & Sink Capacity:__ Urban sanitation collapses in contested zones; corpses accumulate on battlefields; typhus and influenza (1918) spread through populations weakened by displacement and malnutrition.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The decade produces catastrophic mortality—approximately one million dead from violence, famine, and epidemic disease combined. The 1918 influenza pandemic strikes a population already weakened by war. Typhus spreads through refugee populations and military camps.
+
+__Nutrition & Physiological Vitality:__ Disrupted agriculture and transportation produce recurring famines; the 1915 Mexico City food crisis sees currency collapse compound supply failures. Rural populations suffer severe nutritional stress; stature and health outcomes decline across cohorts born during the conflict.
+
+__Care, Healing & Recovery Capacity:__ Medical infrastructure is rudimentary and overwhelmed; battlefield medicine primitive. The Red Cross operates sporadically. Traditional healing persists in rural areas but cannot address epidemic disease or mass trauma.
+
+__Reproductive Biology & Pairing Dynamics:__ Military mobilization disrupts family formation; camp followers (soldaderas) accompany armies, blurring domestic and military spheres. Widowhood and orphanage become mass phenomena.
+
+__Demographic Renewal & Density:__ The 1921 census records a population decline from pre-war levels—the only such decline in modern Mexican history. Emigration to the United States accelerates; border populations become more fluid.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans constitute a standing humanitarian burden that post-revolutionary administrations only partially address.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agricultural production collapses in combat zones; hacienda labor systems disintegrate. Zapatista land seizures in Morelos redistribute production but disrupt commercial networks. Urban food supply depends on which faction controls rail access.
+
+__Energy Capture & Conversion:__ Railway systems remain the critical energy-transport infrastructure; their control determines military logistics and economic viability. Petroleum extraction continues in the Huasteca and Gulf regions, increasingly important as coal transport breaks down.
+
+__Labor Organization & Coercion:__ The hacienda debt peonage system collapses under revolutionary disruption. Free labor markets emerge chaotically; military impressment and labor coercion coexist with voluntary revolutionary mobilization. The Casa del Obrero Mundial provides urban labor battalions to Constitutionalist forces in exchange for organizing rights.
+
+__Production & Surplus Capacity:__ Industrial production in Monterrey, Puebla, and Mexico City declines as supply chains break; artisanal production revives to fill gaps. Mining output falls precipitously. Henequen monoculture in Yucatan continues under different political masters.
+
+__Storage, Reserves & Buffering:__ Treasury reserves are exhausted; foreign debt service suspended. Each faction issues its own currency, producing hyperinflationary chaos—"Villista" and "Carrancista" pesos compete and collapse in turn.
+
+__Exchange, Trade & Logistics:__ Internal trade fragments along factional lines; the United States border becomes critical for arms imports and export earnings. Veracruz's customs revenue is the most valuable prize; U.S. occupation (1914) strips factions of this resource temporarily.
+
+__Value Storage, Credit & Deferred Exchange:__ Multiple factional currencies circulate simultaneously; metallic currency disappears into hoarding. Barter revives in rural areas. Foreign-held assets and export earnings in dollars or pounds represent the only stable value storage.
+
+__Surplus Extraction & Redistribution:__ Each faction extracts through forced loans, confiscation, and currency issuance. Zapatistas redistribute hacienda lands; Villistas expropriate hacendado cattle herds for army supply. Constitutionalists tax oil exports and control customs houses where they can.
+
+__Wealth Distribution & Asset Defense:__ Hacendado wealth is destroyed or confiscated; refugees flee to Mexico City, Veracruz, or the United States. Foreign property is mostly protected through diplomatic pressure, though some confiscation occurs. Revolutionary leaders accumulate new fortunes.
+
+__Byproducts & Waste Routing:__ Economic waste manifests as destroyed railways, abandoned mines, ruined haciendas, and worthless paper currency that must eventually be repudiated.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family networks are strained by migration, death, and divided loyalties; inheritance patterns disrupted by property destruction and land reform. The extended household absorbs orphans and refugees.
+
+__Association & Mutual Aid:__ Traditional village structures (ejidos, cofradías) prove resilient in some regions; Zapatismo draws on village solidarity. Urban mutual aid societies and labor unions emerge as significant actors; the Casa del Obrero Mundial represents a new form of working-class association.
+
+__Leisure, Play & Sociability:__ Revolutionary fiestas punctuate military campaigns; corridos sung around campfires circulate news and shape collective memory. Traditional patterns persist where possible but violence and displacement disrupt communal life.
+
+__Stratification, Status & Group Structure:__ The old Porfirian elite is displaced or flees; new revolutionary elites emerge from the military. Mestizo and indigenous peasants gain visibility and agency though rarely political power at national level. Regional strongmen (caudillos) dominate their zones.
+
+__Administrative Capacity & Institutional Integrity:__ The federal state fragments into competing zones of control. Each faction constructs rudimentary administrations in territory it holds. The 1917 Constitution creates a legal framework for the eventual reconstruction of central authority, though implementation awaits peace.
+
+__Coercive Apparatus & Means of Force:__ Multiple armies coexist—Constitutionalist forces under Carranza and Obregón, División del Norte under Villa, Ejército Libertador del Sur under Zapata—plus innumerable local forces. Arms imports through the U.S. border are critical; Constitutionalist access to Veracruz customs and U.S. recognition proves decisive.
+
+__Discharge, Disorder & Decay:__ Banditry, local warlordism, and uncontrolled violence persist throughout; the boundary between revolutionary army and armed band blurs. Summary executions, village burnings, and mass displacement become routine.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Revolutionary fervor coexists with exhaustion and fear; regional loyalties often trump ideological commitment. Anti-Díaz sentiment provides initial unity but subsequent factional conflicts fragment popular will.
+
+__Leadership & Personal Authority:__ Charismatic leaders dominate—Madero as martyr, Villa as popular champion, Zapata as agrarian symbol, Carranza as constitutionalist, Obregón as military genius. Personal loyalty to caudillos structures allegiance more than ideology.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy is contested and fragmented; each faction claims revolutionary credentials while denouncing rivals as traitors or bandits. U.S. recognition of Carranza in 1915 confers external legitimacy that proves militarily decisive.
+
+__Political Will & Collective Resolve:__ Revolutionary mobilization demonstrates remarkable popular will for transformation; campesino armies sustain years of warfare. But factional conflict dissipates this energy in internecine struggle.
+
+__External Relations & Posture:__ The United States intervenes repeatedly—arms embargoes, troop movements to the border, occupation of Veracruz (1914), Pershing's Punitive Expedition (1916–1917). Germany attempts to exploit Mexican grievances (Zimmermann Telegram). Britain protects oil investments.
+
+__Disaffection, Apathy & Spent Will:__ By 1920, war-weariness is general; the Agua Prieta rebellion against Carranza succeeds partly because exhausted populations want peace. Revolutionary idealism gives way to pragmatic accommodation.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish literacy remains limited (approximately 25%); oral communication dominates in rural areas. Revolutionary newspapers assume literate urban readership; corridos carry information orally to the illiterate majority.
+
+__Channels & Transmission Velocity:__ Telegraph lines follow armies and change hands with territory. Newspapers circulate where railways run; their effective reach contracts with territorial control. Word of mouth remains primary in contested zones.
+
+__Record, Storage & Persistence:__ Revolutionary archives are chaotic; much documentation destroyed or scattered. The 1917 Constitution represents a durable textual achievement. Revolutionary photography (Casasola Archive) creates visual documentation. Corridos preserve popular memory in performed form.
+
+__Framing, Censorship & Discourse Norms:__ Each faction controls press within its territory; opposition papers are suppressed, editors imprisoned or executed. Revolutionary discourse frames the conflict as popular struggle against tyranny, though factions define tyranny differently.
+
+__Reception, Attention & Amplification:__ Revolutionary newspapers have small circulations but influence literate elites. Corridos achieve mass circulation through performance; they are printed on broadsides and sung in markets, camps, and cantinas.
+
+__Signal Integrity & Noise Load:__ Information chaos prevails—rumor, propaganda, and contradictory reports make reliable knowledge difficult. Each faction's press systematically distorts; truth is a casualty of war.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Revolutionary justice is conceived as redress for Porfirian wrongs—land for the landless, liberty against tyranny. Zapatismo's "Tierra y Libertad" crystallizes agrarian moral claims.
+
+__Law, Codification & Regulatory Evolution:__ The Constitution of 1917 codifies revolutionary principles—land reform (Article 27), labor rights (Article 123), anticlerical provisions (Article 130)—but implementation awaits peace. Factional decrees proliferate without systematic enforcement.
+
+__Adjudication, Liability & Sanction:__ Revolutionary justice is summary—firing squads, confiscation, exile. Formal courts barely function. "Ley fuga" (shooting while "fleeing") eliminates prisoners.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights are proclaimed but not protected; individual security depends on factional affiliation and local power balances.
+
+__Impunity & Unredressed Wrong:__ Atrocities on all sides go unpunished; massacres, rapes, and pillage are common. Post-revolutionary amnesty will bury most accounts.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Revolutionary ideology draws on anarchism (Flores Magón), agrarian populism (Zapata), constitutionalist liberalism (Carranza), and social Catholicism. No systematic revolutionary theory emerges; practice precedes doctrine.
+
+__Applied Knowledge & Technical Method:__ Military technique combines guerrilla tactics with conventional warfare; railway logistics are mastered. Medical knowledge proves inadequate to epidemic disease.
+
+__Education, Knowledge Stock & Skill Distribution:__ Schools close in combat zones; literacy campaigns are attempted in some revolutionary territories. The 1917 Constitution promises universal secular education.
+
+__Obsolescence & Knowledge Decay:__ Traditional agricultural and artisanal knowledge persists; Porfirian científico technocracy is discredited but not entirely displaced.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Revolutionary struggle generates foundational mythology—Madero's martyrdom, Zapata's agrarian purity, Villa's popular machismo. These narratives will be institutionalized by post-revolutionary regimes.
+
+__Legitimating Narrative & Ideology:__ Each faction narrates itself as the true revolution betrayed by rivals. Constitutionalism claims legal continuity; Zapatismo claims agrarian authenticity; Villismo claims popular will.
+
+__Artistic Expression & Material Culture:__ Revolutionary corridos constitute the period's most distinctive art form—ballads celebrating heroes, narrating battles, mourning martyrs. José Guadalupe Posada's prints circulate revolutionary imagery. The novel of the Revolution (Azuela's Los de abajo, 1915) emerges during the conflict itself.
+
+__Form Exhaustion & Meaning Decay:__ Porfirian cultural forms—European-imitative art, científico positivism—are rejected but not yet replaced by coherent alternatives.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Popular Catholicism persists despite revolutionary anticlericalism; the Virgin of Guadalupe is invoked by all sides. Fatalism coexists with revolutionary millenarianism.
+
+__Ritual, Devotion & Sacred Practice:__ Religious practice continues under difficult conditions; fiestas patronales persist where possible. Revolutionary violence targets some clergy and churches but systematic persecution awaits the 1920s.
+
+__Religious Institutions & Doctrinal Authority:__ The Catholic Church hierarchy opposes the Revolution and supports Huerta; constitutional anticlericalism reflects this alignment. Church property remains confiscated under Reform Laws.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous spirituality persists syncretized with Catholicism; revolutionary ideology offers secular alternatives but does not displace religious practice among the masses.
+
+__Disenchantment & Sacred Discharge:__ Revolutionary violence creates existential crisis; the sacred is not abandoned but strained. The conflict between revolutionary anticlericalism and popular faith will explode in the Cristero War of the following decade.

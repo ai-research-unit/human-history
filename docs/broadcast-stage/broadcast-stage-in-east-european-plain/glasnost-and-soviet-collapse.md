@@ -1,69 +1,139 @@
-# __1985 CE – 1991 CE__ — Glasnost and Soviet Collapse
-__Summary:__ Gorbachev's glasnost policy breaks the broadcast monopoly's framing control precisely as Chernobyl exposes the system's information pathology; binding constraint is the simultaneous legitimacy collapse across all domains once truth-telling begins, as suppressed grievances surface faster than institutions can metabolize them; system holds no margin against the cascading revelations; direction is accelerating dissolution culminating in Soviet state termination.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The same vast territorial expanse now fragments along republic boundaries; eleven time zones complicate coordinated response to crisis; winter still imposes logistical friction but internal borders solidify into potential state frontiers as dissolution approaches.<br><br>
-__Climate Regime & Volatility:__ Continental climate unchanged; 1988 Armenian earthquake (25,000+ deaths) reveals infrastructure decay and inadequate disaster response; agricultural volatility continues but secondary to political upheaval; no secular drift within window.<br><br>
-__Hazard Regime & Exposure:__ Chernobyl disaster April 1986 — catastrophic nuclear release, 30-kilometer exclusion zone, 350,000 evacuated, fallout across Europe — exposes accumulated infrastructure risk and system's inability to warn population; industrial hazard regime revealed as severely underestimated.<br><br>
-__Resource & Energy Endowment:__ Oil prices collapse 1985-1986, halving hard-currency earnings; Siberian fields declining; resource endowment remains vast but revenue stream contracts sharply; extraction continues but export value drops at worst possible moment for reform financing.<br><br>
-__Waste Absorption & Sink Capacity:__ Chernobyl reveals decades of concealed nuclear contamination; Aral Sea crisis publicized; industrial pollution documented by newly free press; sink saturation worse than previously admitted; absorptive capacity severely degraded across multiple systems.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Life expectancy decline continues; alcohol-related mortality peaks; Chernobyl's long-term health effects (thyroid cancers, birth defects) begin accumulating; healthcare system underfunded during transition; mortality baseline deteriorating.<br><br>
-__Nutrition & Physiological Vitality:__ Food distribution disrupted by economic chaos; shortages worsen 1990-1991; rationing returns to major cities; physiological vitality declining as provisioning system breaks down; malnutrition not yet acute but trend sharply negative.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Birth rates drop sharply as uncertainty increases; fertility falls below replacement in Slavic republics; family formation postponed; no new selective pressures but economic anxiety suppresses reproduction.<br><br>
-__Demographic Renewal & Density:__ Population growth stops; emigration accelerates (Jewish exodus, German repatriation); ethnic conflicts trigger refugee flows (Armenia-Azerbaijan, Georgia); internal displacement adds to demographic disruption; renewal stalling.<br><br>
-__Attrition & Dependency Overhang:__ Pension system strains as economy contracts; Afghan war veterans return traumatized; Chernobyl liquidators develop chronic conditions; dependency load increasing as productive capacity shrinks; productive cohort cannot absorb growing burden.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Provisioning system breaking down; chronic shortages become acute 1990-1991; empty shelves in state stores; private markets emerge but prices unaffordable for many; subsistence floor cracking; hunger not widespread but food security deteriorating rapidly.<br><br>
-__Energy Capture & Conversion:__ Energy production continues but distribution disrupted by republic disputes; coal miners strike 1989; efficiency reforms attempted but not achieved; per-capita energy availability still adequate but system coherence fragmenting.<br><br>
-__Labor Organization & Coercion:__ Independent trade unions emerge; strikes legalized and exercised (miners 1989); wage labor continues but enterprise autonomy increases; coercion diminishing; labor organization transitioning toward market forms unevenly.<br><br>
-__Production & Surplus Capacity:__ Industrial output declining; enterprises lose guaranteed inputs as planning system disintegrates; inter-republic trade collapses; surplus capacity negative — system consumes more than it produces; economic contraction accelerating through 1991.<br><br>
-__Storage, Reserves & Buffering:__ Hard-currency reserves depleted; strategic reserves drawn down; gold reserves spent or pledged for loans; buffering capacity exhausted; system cannot absorb additional shocks; external credit becomes lifeline.<br><br>
-__Exchange, Trade & Logistics:__ Administered pricing collapsing; barter economy emerges between enterprises; inter-republic trade disrupted by sovereignty claims; logistics breakdown as central coordination fails; parallel markets expand but do not substitute for collapsed system.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Ruble losing purchasing power; savings wiped out by shortages and inflation; foreign currency increasingly preferred; credit unavailable domestically; IMF and Western loans sought; monetary system losing coherence.<br><br>
-__Surplus Extraction & Redistribution:__ Central extraction failing as republics withhold revenue; military spending maintained at unsustainable levels; redistribution mechanisms breaking down; pensions and subsidies delayed; extraction apparatus collapsing with state.<br><br>
-__Wealth Distribution & Asset Defense:__ Nomenklatura begins converting political access into economic assets (proto-privatization); new cooperatives create wealth outside state; inequality widening rapidly; asset defense through offshore transfers and position conversion begins.<br><br>
-__Byproducts & Waste Routing:__ Industrial decline reduces new waste flow but accumulated contamination publicized; Chernobyl cleanup ongoing; routing decisions no longer concealed but remediation underfunded; legacy pollution inherited by successor states.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius expanding beyond intimate circles as civil society emerges; informal networks activated for survival; new voluntary associations form; mutual aid intensifies within ethnic groups as uncertainty grows; trust simultaneously widening and fracturing along ethnic lines.<br><br>
-__Stratification, Status & Group Identity:__ Ethnic identities mobilize; Baltic peoples, Ukrainians, Caucasians assert distinctness; Russian identity unsettled by imperial loss; class formation begins around new wealth; boundaries fluid, ethnic lines hardening, class lines emerging.<br><br>
-__Kinship, Family & Inheritance:__ Family remains survival unit as state supports erode; inheritance becomes meaningful as private property returns; extended kin networks crucial for navigation; family formation stressed by economic uncertainty.<br><br>
-__Civic Association & Self-Organization:__ Explosion of autonomous organization — Memorial for terror victims, environmental groups, Popular Fronts in republics, independent unions; civil society rapidly thickening after decades of suppression; associational fabric transforming.<br><br>
-__Leisure, Play & Sociability:__ Informal sociability intensifies in political meetings, demonstrations, newly open discussions; official festivals continue but attendance voluntary; rock concerts and youth culture politicized; sociability channeled into political mobilization.<br><br>
-__Grievance Channels & Social Discharge:__ Glasnost opens grievance expression — demonstrations, strikes, press criticism, television debates; decades of accumulated grievance surfaces; discharge channels overwhelmed; historical wounds (terror, deportations) reopened; unmetabolized load massive.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Gorbachev initiates reform but loses control of process; Communist Party monopoly abolished 1990; power fragments between center and republics; Union Treaty negotiations fail; authority devolving and dissolving simultaneously; no stable equilibrium.<br><br>
-__Succession & Power Transfer:__ Gorbachev's position erodes; Yeltsin elected Russian president 1991; August coup attempt fails, accelerating dissolution; power transfers through elections and factional struggle; no clean succession mechanism; improvised and contested throughout.<br><br>
-__Legitimacy & Political Narrative:__ Glasnost destroys official history; crimes of Stalin and Soviet system documented; Marxism-Leninism delegitimized; no replacement ideology emerges; national independence becomes legitimating narrative in republics; center loses all ideological authority.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Central administration losing grip; republic governments assert autonomy; information flow improves but coordination collapses; corruption continues as officials position for transition; decision-making paralyzed between competing authorities.<br><br>
-__Political Participation & Mobilization:__ Mass participation erupts — elections competitive, demonstrations massive (Baltic Chain 1989: 2 million), strikes widespread; genuine mobilization replaces ritual; channels for voice fully open but system cannot process demands.<br><br>
-__Geopolitical Position & External Relations:__ Cold War ending; Eastern European satellites break free 1989; German reunification 1990; Soviet withdrawal from Afghanistan 1989; Warsaw Pact dissolves; superpower status eroding; external position contracting rapidly.<br><br>
-__Coercive Apparatus & Means of Force:__ Military demoralized by Afghanistan; use of force against protestors attempted (Tbilisi 1989, Vilnius 1991) but domestically delegitimizing and internationally condemned; August coup fails due to troop refusal; coercive apparatus fragmenting.<br><br>
-__Internal Order & Threat Environment:__ Ethnic violence erupts (Nagorno-Karabakh, Fergana Valley, Osh); crime rates spike; nationalist movements challenge center; disorder exceeds enforcement capacity in conflict zones; internal order breaking down regionally.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Television transforms under glasnost — programs like Vzglyad break taboos; live broadcasts of Congress of People's Deputies 1989 riveting; foreign radio jamming ends 1988; information velocity accelerates; reach extends to all strata with unprecedented content.<br><br>
-__Record, Storage & Persistence:__ Archives partially opened; Memorial and historians document repressions; official records revealed as falsified; new recording of truth begins; persistence uncertain as institutions transform; documentary record expanding but fragmenting.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship dismantled progressively; previously taboo topics (terror statistics, Molotov-Ribbentrop, Katyn, Chernobyl truth) openly discussed; framing control lost; discourse norms transform from enforced positivity to open criticism; band fully opened.<br><br>
-__Reception, Attention & Amplification:__ Attention riveted on revelations; newspaper subscriptions explode; television debates draw mass audiences; amplification now driven by audience interest rather than state directive; what propagates is what resonates emotionally.<br><br>
-__Signal Integrity & Noise Load:__ Truth-telling improves signal but creates overload; decades of lies require processing; competing narratives multiply; verification mechanisms nascent; noise from rumor and disinformation increases as official monopoly ends; cognitive burden immense.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Demands for historical justice surge — rehabilitation of terror victims, condemnation of perpetrators; popular sense of justice activated; gap between proclaimed and practiced now openly denounced; moral foundations in flux.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal reform accelerates; new laws on press freedom, property, cooperatives; competing jurisdictions (Union vs. republic) create legal chaos; codification fragmenting; evolution rapid but incoherent.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts gain some independence; political cases no longer predetermined; enforcement weakens as state authority erodes; liability unclear in jurisdictional disputes; throughput overwhelmed by new case types and old backlog.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights expanding on paper; press freedom actualized; assembly and association protected; compliance burden shifting but unclear; individual autonomy expanding de facto as state control recedes.<br><br>
-__Impunity & Unredressed Wrong:__ Historical wrongs documented but perpetrators not prosecuted (living officials from terror era); some rehabilitations but no systematic accountability; new impunity emerging in economic crimes; redress gap remains large, reframed rather than closed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Marxism-Leninism abandoned as mandatory frame; social sciences liberated; historical research flourishes; Western theories imported; natural sciences continue; discovery frontier expands in previously forbidden areas; paradigm shift underway.<br><br>
-__Applied Knowledge & Technical Method:__ Brain drain accelerates as skilled workers emigrate; enterprise R&D underfunded; military-industrial complex contracting; applied methods deteriorating as institutional support collapses; technique in use declining.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education system continues but ideological content removed; knowledge stock accessible as censorship ends; skill distribution remains broad but emigration depletes specialist ranks; stock preserved but transfer mechanisms disrupted.<br><br>
-__Obsolescence & Knowledge Decay:__ Marxist-Leninist dogma rapidly cleared; ideological deadwood removed; new decay begins as institutional support collapses and specialists emigrate; error cleared but new losses from transition chaos.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Official Soviet identity dissolving; national histories revived in republics; Great Patriotic War memory contested (collaboration questions raised); foundational myths fragmenting along ethnic lines; trauma of terror finally acknowledged; identity in flux.<br><br>
-__Artistic Expression & Material Culture:__ Avant-garde and underground art surfaces; rock music politicized (Kino, Aquarium); new films confront history; consumer material culture remains sparse; architectural construction stalls; aesthetic ferment but material poverty.<br><br>
-__Collective Mood & Behavioral Disposition:__ Hope and anxiety alternate; initial glasnost optimism darkens as economic collapse deepens; 1991 mood grimly uncertain; risk-taking increases as old constraints fall; behavioral disposition volatile, swinging between liberation euphoria and survival fear.<br><br>
-__Form Exhaustion & Meaning Decay:__ Soviet forms collapse entirely — rituals abandoned, symbols rejected, language transformed; meaning vacuum emerges; new forms not yet consolidated; form exhaustion complete but replacement still inchoate; anomie acute during transition.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Scientific materialism discredited with Marxism; religious revival begins; existential outlook pluralizing; search for meaning intensifies; fatalism partially displaced by agency and hope; outlook unstable and seeking.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice resurfaces openly; churches reclaimed and reopened; baptisms, weddings, funerals in religious settings increase; devotional habits reviving; sacred practice emerging from underground.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Russian Orthodox Church regains property and public role; millennium of Christianity celebrated 1988 with state blessing; mosques reopen; institutional authority rebuilding but compromised by KGB collaboration legacy; doctrine reasserts but credibility contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Orthodox revival in Slavic regions; Islamic reassertion in Central Asia and Caucasus; Western denominations and new religious movements enter; spiritual marketplace opens; dominant cosmology fragmenting into plural options.<br><br>
-__Disenchantment & Sacred Discharge:__ Communist eschatology dead; meaning vacuum acute; spiritual search intensifies but resolution incomplete; some re-anchor in revived religion, others in nationalism, many remain adrift; disenchantment partially discharged through religious revival but existential uncertainty persists.<br><br>
+# __1985 CE – 1991 CE — Glasnost and Soviet Collapse__
+
+__Summary:__ The binding constraint is the fatal interaction between broadcast opening and imperial fragmentation, where glasnost transforms television from instrument of control into accelerant of dissolution—live coverage of the Congress of People's Deputies, Chernobyl revelations, and nationalist mobilizations breaking the information monopoly faster than reformers can manage, culminating in the August 1991 coup's televised failure and the Soviet Union's rapid unraveling.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The vast territory that broadcast once unified now fragments along republic lines; television infrastructure remains centered on Moscow, but republic studios gain autonomy; the physical plant of Soviet broadcasting—transmitters, satellites, the Ostankino tower—continues functioning but now carries competing signals.
+
+__Climate Regime & Volatility:__ Climate unchanged, but visibility of environmental damage—Chernobyl fallout maps, Aral Sea images, industrial pollution—now broadcast where before it was censored, making physical degradation politically salient.
+
+__Hazard Regime & Exposure:__ Chernobyl (April 1986) becomes defining event: initial cover-up followed by glasnost-era revelations; radioactive contamination affects Belarus, Ukraine, western Russia; evacuation zones created; long-term health effects emerge; the disaster delegitimizes both nuclear industry and system's credibility.
+
+__Resource & Energy Endowment:__ Oil prices collapse mid-1980s, cutting hard currency earnings that funded imports and social stability; energy extraction continues but cannot compensate for falling prices; resource wealth that underwrote late Soviet stability suddenly insufficient.
+
+__Waste Absorption & Sink Capacity:__ Environmental damage now visible and discussed; ecological movements emerge in Baltic states, Ukraine, Armenia; nuclear contamination creates permanent sacrifice zones; accumulated degradation enters public consciousness as indictment of the system.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Health statistics now published reveal declining male life expectancy, rising infant mortality in some regions; healthcare system's inadequacy exposed; Chernobyl health effects (thyroid cancer, birth defects) emerging.
+
+__Nutrition & Physiological Vitality:__ Food supply deteriorates as distribution systems fray; rationing reintroduced in some cities by 1990-1991; cooperative restaurants and private agriculture begin but cannot compensate for collapsing state supply.
+
+__Care, Healing & Recovery Capacity:__ Healthcare system strains; pharmaceutical shortages worsen; AIDS acknowledged as present (previously denied); Chernobyl liquidators receive inadequate care; the system's medical limitations now broadcast rather than hidden.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth rates continue declining; abortion rates remain high; family formation delayed by economic uncertainty; emigration (Jewish, German, others) removes reproductive-age population.
+
+__Demographic Renewal & Density:__ Soviet population reaches approximately 290 million at dissolution; ethnic composition shifts continue; urban concentration peaks; some rural areas depopulate as agricultural labor declines.
+
+__Attrition & Dependency Overhang:__ Afghanistan veterans return traumatized and alienated; Chernobyl liquidators develop chronic illnesses; pension system strains as economy contracts; dependency load grows as productive capacity shrinks.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Distribution systems break down; store shelves empty by 1990-1991; parallel economy and barter expand; cooperative movement (1988) creates islands of market activity amid collapse; basic survival increasingly difficult in final years.
+
+__Energy Capture & Conversion:__ Energy infrastructure maintained but investment deferred; industrial energy use remains inefficient; domestic heating and electricity continue but maintenance deteriorates.
+
+__Labor Organization & Coercion:__ Strike activity emerges—coal miners' strikes (1989) unprecedented; labor discipline collapses as wages lose meaning; internal passport system erodes; emigration accelerates for those able to leave.
+
+__Production & Surplus Capacity:__ Industrial production declines; military-industrial complex continues absorbing resources even as civilian economy contracts; surplus extraction inverted as state subsidizes failing enterprises; productive capacity erodes.
+
+__Storage, Reserves & Buffering:__ State reserves depleted; grain imports continue but payment difficult; hard currency reserves exhausted; no buffer against accelerating collapse; foreign borrowing increases but provides only temporary relief.
+
+__Exchange, Trade & Logistics:__ COMECON dissolves; trade links between republics fray as each prioritizes internal needs; logistics networks fragment; inter-republican borders begin to function as actual frontiers.
+
+__Value Storage, Credit & Deferred Exchange:__ Ruble loses purchasing power; monetary overhang (savings accumulated without goods to buy) persists then collapses in value; no financial institutions capable of managing transition; informal dollar economy expands.
+
+__Surplus Extraction & Redistribution:__ Tax collection deteriorates; republics withhold revenue from center; redistribution mechanisms fail; state increasingly unable to fund obligations; hyperinflation approaches.
+
+__Wealth Distribution & Asset Defense:__ Nomenklatura begins converting political capital to economic assets; cooperatives provide privatization channel; "spontaneous privatization" by insiders accelerates; ordinary citizens' savings vulnerable.
+
+__Byproducts & Waste Routing:__ Environmental cleanup nominally begins but resources lacking; Chernobyl exclusion zone established; industrial pollution continues as factories cannot afford controls; environmental movement politically active but economically powerless.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family networks become survival mechanism as state provision fails; inheritance suddenly matters as property emerges; ethnic intermarriage patterns complicated by nationalist revivals.
+
+__Association & Mutual Aid:__ "Informal" organizations proliferate—Memorial, ecological groups, ethnic associations; newly legal cooperative businesses; independent trade unions emerge (miners); civil society forms rapidly where previously suppressed.
+
+__Leisure, Play & Sociability:__ Television transforms from narcotic to stimulant—Congress of People's Deputies (1989) watched avidly; political engagement replaces passive consumption; public meetings and demonstrations become mass phenomenon.
+
+__Stratification, Status & Group Structure:__ Nomenklatura fragments between reformers and conservatives; new entrepreneurs emerge; intellectuals gain public voice; ethnic stratification sharpens as republics assert identity; the "Russian" and "Soviet" identities decouple.
+
+__Administrative Capacity & Institutional Integrity:__ Communist Party loses monopoly (Article 6 abolished 1990); republic governments assert sovereignty; center's authority erodes; competing legitimacies (USSR, RSFSR, other republics) create institutional chaos; coup attempt (August 1991) reveals apparatus's internal division.
+
+__Coercive Apparatus & Means of Force:__ KGB role exposed and criticized; military torn between union and republic loyalties; internal troops hesitate; August coup fails when military refuses orders, broadcast live; coercive apparatus paralyzed by uncertainty.
+
+__Discharge, Disorder & Decay:__ Ethnic violence erupts (Nagorno-Karabakh, Fergana Valley, Baltic confrontations); crime rises as controls dissolve; black markets expand; institutional decay accelerates as personnel hedge between old and new systems.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Hope and anxiety alternate; glasnost initially generates enthusiasm, then disillusionment as problems prove deeper than reforms; nationalist sentiment surges in republics; Russian identity crisis as empire contracts.
+
+__Leadership & Personal Authority:__ Gorbachev initially commands attention and hope; his authority erodes as economic conditions worsen; Yeltsin emerges as charismatic alternative, elected RSFSR president (1991); republic leaders (Landsbergis, Gamsakhurdia) mobilize national sentiment.
+
+__Legitimacy as Lived Allegiance:__ Communist Party legitimacy collapses; Gorbachev's legitimacy depends on reform progress, which stalls; nationalist leaders claim legitimacy from nations; Soviet identity fragments into constituent parts.
+
+__Political Will & Collective Resolve:__ Reformist will real but unclear on destination; conservative will to preserve system expressed in August coup; nationalist will strongest in Baltic states, Georgia, then spreads; Russian will ambiguous between empire and nation.
+
+__External Relations & Posture:__ Cold War ends; Eastern European satellites defect (1989); German reunification (1990); "new thinking" abandons ideological competition; external pressure reduced but domestic dissolution accelerates regardless.
+
+__Disaffection, Apathy & Spent Will:__ Initial enthusiasm exhausts as reforms fail to deliver; by 1991, disillusionment with all-union solutions widespread; apathy about preserving union enables dissolution; emotional energy redirected to national projects or private survival.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Russian remains lingua franca but national languages gain broadcast time; republic channels assert identity; newspapers proliferate; samizdat becomes legal publication; information previously secret suddenly circulates.
+
+__Channels & Transmission Velocity:__ Television transforms: Vzglyad investigative journalism; TSN independent news service; live Congress broadcasts (1989) mesmerize nation; competing republic channels emerge; CNN available to some; fax machines and early email in elite circles.
+
+__Record, Storage & Persistence:__ Archives begin opening; Memorial documents Stalinist repressions; personal testimonies broadcast; photographs and documents from closed archives published; the buried past surfaces.
+
+__Framing, Censorship & Discourse Norms:__ Glavlit abolished (1990); censorship collapses before formal end; taboo subjects (Stalin's crimes, Katyn, secret protocols) enter public discourse; previously unthinkable criticism becomes routine; frame shifts from "building socialism" to "what went wrong."
+
+__Reception, Attention & Amplification:__ Audience attention intense—Congress broadcasts draw massive viewership; political engagement peaks; word spreads instantly; unofficial channels no longer needed as official channels open.
+
+__Signal Integrity & Noise Load:__ Information overload replaces information scarcity; rumors compete with revelations; no established mechanisms for verification; noise increases with volume; cognitive frameworks scrambled as previous certainties dissolve.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Demand for historical truth and justice surges; Stalin's crimes acknowledged; victims rehabilitated; sense that moral reckoning required; crime without punishment (for perpetrators) troubles public conscience.
+
+__Law, Codification & Regulatory Evolution:__ Soviet law increasingly irrelevant as republics legislate independently; "war of laws" between center and republics; legal framework for market economy, property rights, inadequate; constitutional crisis as fundamental rules contested.
+
+__Adjudication, Liability & Sanction:__ Court system overwhelmed; political crimes no longer prosecuted but perpetrators not held accountable; economic crimes ambiguous as property rules change; ordinary adjudication continues amid chaos.
+
+__Rights, Protections & Compliance Burden:__ Human rights discourse enters mainstream; political prisoners released; emigration restrictions lifted; but positive rights (employment, housing, healthcare) erode as state capacity fails.
+
+__Impunity & Unredressed Wrong:__ Stalinist perpetrators die unpunished; KGB archives partially opened but accountability limited; coup plotters briefly detained, then amnestied; moral ledger unbalanced; truth without justice.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Marxism-Leninism abandoned as official framework; no replacement paradigm established; Western economics, political science suddenly authoritative but imperfectly understood; "500 days" and competing reform plans proliferate.
+
+__Applied Knowledge & Technical Method:__ Technical competence maintained in some sectors; television production skills applied to new content; but knowledge of market mechanisms, democratic procedures, limited; reform proceeds without roadmap.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education system continues functioning; but ideological courses suddenly irrelevant; teachers improvise; brain drain accelerates as emigration opens; knowledge of "how things work" becomes uncertain.
+
+__Obsolescence & Knowledge Decay:__ Soviet economics, ideology, administrative method suddenly obsolete; practical knowledge of functioning within old system valueless for new; generational divide between those formed under old system and those adapting to new.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Soviet mythology collapses; Great Patriotic War memory remains but reframed; national mythologies resurge in republics; Russian identity crisis between imperial and national self-understanding; founding myths contested.
+
+__Legitimating Narrative & Ideology:__ "Building socialism" narrative exhausted; no replacement for union-wide legitimation; democratization, markets, nationalism offer competing frames; Gorbachev's "socialism with a human face" satisfies no one.
+
+__Artistic Expression & Material Culture:__ Previously banned works published—Solzhenitsyn, Grossman, Shalamov; rock music emerges from underground; visual culture diversifies; Western consumer goods appear; material scarcity produces improvisation; cultural production freed but funding collapses.
+
+__Form Exhaustion & Meaning Decay:__ Soviet cultural forms abandoned overnight; Communist rituals discontinued; but new forms nascent; meaning vacuum as old symbols discredited, new ones not yet established; cultural discontinuity.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Atheist materialism discredited; religious revival begins; existential questions suddenly permitted; uncertainty replaces both official optimism and private cynicism; apocalyptic mood in final months.
+
+__Ritual, Devotion & Sacred Practice:__ Churches reopen; Russian Orthodox millennium celebrated (1988); Islamic, Catholic, Protestant, Jewish communities reconstitute; baptisms surge; but institutional capacity limited after decades of suppression.
+
+__Religious Institutions & Doctrinal Authority:__ Russian Orthodox Church gains public role but compromised by collaboration history; Vatican and Rome reconnect with Catholics; religious education legalized; institutional reconstruction begins amid general collapse.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Western missionaries arrive; New Age movements spread; nationalisms acquire quasi-spiritual character; traditional religion and invented spirituality compete; the religious marketplace opens.
+
+__Disenchantment & Sacred Discharge:__ Communist sacred definitively dead; replacement uncertain; some find renewed transcendence in national or religious revival; others confront void; the search for meaning amid institutional collapse leaves spiritual landscape fragmented and unsettled.

@@ -1,69 +1,139 @@
-# __1762 CE – 1825 CE__ — Catherine to Alexander and Enlightened Absolutism
-__Summary:__ Russia under Catherine II and Alexander I experiments with Enlightenment-influenced reform while consolidating autocratic power and serfdom; Napoleonic wars culminate in 1812 invasion and victory that politicizes a generation of officers; the binding constraint is the contradiction between Enlightenment rhetoric and serf-based social order that prevents genuine liberalization; margin against internal revolt is demonstrated by Pugachev's suppression but remains a standing concern; direction is toward territorial expansion and cultural development while the fundamental structure holds.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The plain extends further as Russia absorbs partitioned Poland, Crimea, and Caucasian territories; rivers remain primary arteries; roads improve slowly; vast distances continue to impose severe administrative and military friction despite canal construction linking waterways.<br><br>
-__Climate Regime & Volatility:__ Continental climate persists with harsh winters and short growing seasons; interannual variability in precipitation causes periodic harvest failures; the 1812 campaign demonstrates winter's military significance; no secular drift evident within the window.<br><br>
-__Hazard Regime & Exposure:__ St. Petersburg floods continue (major floods 1777, 1824); drought and frost threaten harvests periodically; fire destroys Moscow (1812) though partly deliberate; hazard exposure remains moderate with thin margins in agriculture.<br><br>
-__Resource & Energy Endowment:__ Ural metallurgy expands; timber remains abundant; black-earth agricultural potential increasingly exploited as settlement pushes south; Donets coal deposits known but barely touched; the endowment grows through territorial acquisition.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban growth in Moscow and St. Petersburg concentrates waste; industrial scale remains modest; overall absorptive capacity far exceeds load across the vast territory; no systemic saturation evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague strikes Moscow severely (1771) killing perhaps 100,000; endemic typhus, smallpox, and dysentery persist; inoculation introduced among elite; background mortality remains high but plague recurrence diminishes after mid-century.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant diet remains grain-centered with regional variation; potato introduced but adoption slow; nutritional adequacy varies with harvest; chronic mild deficiency common; no significant improvement in physiological status evident.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Early peasant marriage continues; serf families subject to landlord interference in marriage choices; high fertility persists alongside high infant mortality; biological renewal capacity adequate but heavily burdened.<br><br>
-__Demographic Renewal & Density:__ Population grows from approximately 19 million (1762) to 41 million (1825) through natural increase and territorial acquisition; density remains low but increasing; colonization of southern steppes accelerates; renewal rates strongly positive.<br><br>
-__Attrition & Dependency Overhang:__ War casualties mount — Napoleonic campaigns cost hundreds of thousands; orphans and widows increase; extended household and village commune absorb dependents; the load increases but absorption capacity holds.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain agriculture expands southward into fertile black-earth regions; peasant subsistence remains precarious; harvest failures bring localized famine; grain export begins, sometimes at the expense of domestic provisioning margin.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominant; waterpower drives expanding manufactories; Russian iron production substantial but efficiency lags Western advances; per-capita energy ceiling rising slowly; no steam power yet significant.<br><br>
-__Labor Organization & Coercion:__ Serfdom reaches maximum intensity; noble control over serfs consolidated (1785 charter); possessional serfs in manufactories; corvee burdens increase on many estates; coercion remains the organizing principle; market for free labor negligible.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus grows with southern expansion; manufactories multiply — iron, textiles, armaments; guild production in towns; total output expands but productivity gains modest; surplus capacity increasing but unevenly distributed.<br><br>
-__Storage, Reserves & Buffering:__ Grain reserves remain inadequate for major shortfalls; treasury better managed under Catherine but strained by wars; noble estate debts accumulate; buffering capacity improved but still insufficient against major shocks.<br><br>
-__Exchange, Trade & Logistics:__ Black Sea ports open after Crimean annexation; grain export grows; internal fairs (Nizhny Novgorod) remain major exchange nodes; roads improve slightly; canal construction aids waterway integration; logistics bottlenecks persist but ease.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Assignat paper currency introduced (1769), steadily depreciates; Assignat Bank and Loan Bank for Nobility created; noble estates serve as collateral for mounting debt; inflation erodes stored value; credit mechanisms developing but unstable.<br><br>
-__Surplus Extraction & Redistribution:__ Poll tax continues; obrok and corvee extract from serfs; customs revenue grows; extraction funds military expansion and court expenditure; the load remains heavy and state debt accumulates, especially during wartime.<br><br>
-__Wealth Distribution & Asset Defense:__ Noble landholding consolidated; Charter to Nobility (1785) confirms privileges; merchantry gains some corporate rights; wealth concentration among great magnates increases; asset defense through legal privilege and state connections.<br><br>
-__Byproducts & Waste Routing:__ Manufactory and urban wastes discharged locally; scale modest; routing by dispersal; agricultural expansion disturbs steppe ecosystems but human waste load remains well below sink capacity at regional scale.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village commune (mir) maintains mutual aid functions; trust radius remains confined to kin and village; Pugachev revolt (1773-1775) demonstrates the social chasm between elite and peasantry; horizontal solidarity within strata, fear and coercion across them.<br><br>
-__Stratification, Status & Group Identity:__ Charter to Nobility (1785) entrenches noble corporate identity; merchantry gains some status recognition; clergy a hereditary estate; enserfed peasantry a bound mass; boundaries rigid though permeable for exceptional individuals; stratification deepening.<br><br>
-__Kinship, Family & Inheritance:__ Noble families operate through patronage networks; peasant extended households under commune regulation; inheritance customs vary by region and estate; serf families subject to landlord interference; kinship structures stable.<br><br>
-__Civic Association & Self-Organization:__ Noble assemblies gain corporate functions; merchantry organized in guilds; Free Economic Society founded (1765) for elite discussion; Masonic lodges spread among nobility; associational life thickens among elite while remaining suppressed below.<br><br>
-__Leisure, Play & Sociability:__ Noble salon culture flourishes; theater and opera established; peasant festivals continue; elite sociability increasingly French-speaking and European-oriented; cultural distance between strata widens further.<br><br>
-__Grievance Channels & Social Discharge:__ Pugachev revolt demonstrates explosion of unmetabolized peasant grievance; after suppression, channels narrow; petition remains formal option; flight less available as frontiers close; grievance accumulates incompletely discharged.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Catherine II and Alexander I embody enlightened absolutism — reformist rhetoric, autocratic practice; power concentrated in the emperor; ministerial reform under Alexander creates more rational administration; sovereignty remains undivided and centralizing.<br><br>
-__Succession & Power Transfer:__ Catherine seizes power by coup (1762); Paul I succeeds (1796) then assassinated (1801); Alexander I's complicity in parricide shadows his reign; succession remains a point of instability though less chaotic than mid-century; Decembrist revolt (1825) demonstrates the risk.<br><br>
-__Legitimacy & Political Narrative:__ Catherine cultivates Enlightenment credentials; the Nakaz (1767) presents reformist philosophy; Alexander I promotes constitutionalist rhetoric; legitimacy rests on enlightened rule, military victory, and Orthodox sanction; gap between rhetoric and practice strains credibility among educated.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Provincial reform (1775) rationalizes local government; ministries created (1802); bureaucracy professionalizes slowly; corruption endemic but institutional capacity expands; record-keeping improves; reach extends but integrity remains compromised.<br><br>
-__Political Participation & Mobilization:__ Participation confined to elite circles; no representative institutions except briefly contemplated; noble assemblies discuss local affairs; Decembrist officers demonstrate that a political public exists among the educated; channels remain closed.<br><br>
-__Geopolitical Position & External Relations:__ Russia expands — Polish partitions, Crimea, Georgia, Finland; participates in coalition wars against France; 1812 invasion repelled; Alexander I dominates post-Napoleonic settlement; Holy Alliance promotes conservative order; Russia emerges as European arbiter.<br><br>
-__Coercive Apparatus & Means of Force:__ Large standing army demonstrated against Napoleon; fortification modernized; police and security apparatus formalized; noble officers form a military elite increasingly exposed to Western ideas; force capacity centralizing and expanding.<br><br>
-__Internal Order & Threat Environment:__ Pugachev revolt (1773-1775) the most serious challenge, suppressed brutally; subsequent order maintained through surveillance and force; banditry reduced; Decembrist conspiracy contained; internal order margin adequate but requires active maintenance.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Newspapers multiply — Moscow Gazette, St. Petersburg Gazette; journals appear for elite readership; postal service extends; information flows center-to-periphery through bureaucracy and elite networks; velocity improves but mass reach negligible.<br><br>
-__Record, Storage & Persistence:__ State archives expand; private libraries among nobility; Academy of Sciences continues scholarly publication; university archives begin (Moscow University 1755, extended under Alexander); persistence improves for elite affairs.<br><br>
-__Framing, Censorship & Discourse Norms:__ Catherine permits brief openness; Novikov and Radishchev suppressed; post-Pugachev and post-French Revolution censorship tightens; permitted discourse band narrows then fluctuates; independent critical discourse dangerous.<br><br>
-__Reception, Attention & Amplification:__ Readership expands among nobility and educated townspeople; thick journals begin (Messenger of Europe 1802); literary culture develops elite attention; amplification through salon discussion and correspondence; mass audience unreached.<br><br>
-__Signal Integrity & Noise Load:__ Information volume low; censorship filters content; what circulates is curated; noise load minimal; the system remains information-thin rather than overloaded; verification through personal elite networks functions adequately.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Enlightenment natural law ideas circulate among elite; Orthodox morality underpins popular conscience; tension between imported rational jurisprudence and traditional and religious norms; Catherine's Nakaz articulates Enlightenment principles never implemented.<br><br>
-__Law, Codification & Regulatory Evolution:__ Catherine's Legislative Commission (1767) attempts codification, fails; Speransky's systematization under Alexander incomplete; law remains a patchwork of ukases, custom, and seigneurial authority; evolution toward rationalization stalls.<br><br>
-__Adjudication, Enforcement & Liability:__ Provincial courts reformed (1775); separate courts for estates; noble judges for nobles, townsmen for townsmen; serf justice remains seigneurial; adjudication slow and corrupt; enforcement uneven; liability depends on status.<br><br>
-__Rights, Protections & Compliance Burden:__ Charter to Nobility (1785) confirms noble rights — property, freedom from corporal punishment, trial by peers; townspeople gain some corporate rights; serfs have no protected rights; compliance burden extreme for enserfed population.<br><br>
-__Impunity & Unredressed Wrong:__ Saltychikha case (noble torturer prosecuted 1768) exceptional; noble violence against serfs usually unpunished; bureaucratic corruption endemic; petitions occasionally produce redress; the justice gap remains wide and structural.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Academy of Sciences continues; natural history expeditions map empire; Enlightenment rationalism dominant among educated; no indigenous theoretical breakthrough; the discovery frontier remains in Western Europe; Russian inquiry is assimilative.<br><br>
-__Applied Knowledge & Technical Method:__ Western technical methods continue transfer; agricultural improvement societies promote rational farming with limited uptake; medical training improves; engineering techniques applied to fortification and construction; method remains imitative.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Moscow University (1755) expands higher education; gymnasia established; noble education increasingly French and German-oriented; clerical seminaries continue; peasant literacy remains near zero; skill distribution extremely skewed.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional knowledge continues displacement by Western models; folk knowledge persists among peasantry but carries no prestige; the knowledge stock is growing through import; obsolescence pressure on older forms continues.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ 1812 becomes founding trauma and triumph — the burning of Moscow, Borodino, Napoleon's defeat enters collective memory; Russian identity begins reconfiguration around Slavic-Orthodox distinctiveness even as elite remain Westernized; dual identity deepens.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical architecture dominates; portrait painting flourishes; Russian literature emerges — Karamzin, early Pushkin; noble material culture fully Europeanized; peasant material culture persists unchanged; the cultural gap solidifies.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-1812 euphoria among elite; patriotic confidence; younger officers radicalized by European exposure; peasant mood resentful of continuing bondage; the collective temper is fractured — triumphant elite, sullen mass.<br><br>
-__Form Exhaustion & Meaning Decay:__ Enlightenment discourse becomes formulaic among elite; Catherine's rhetoric of reform exhausted by evident non-implementation; the forms of enlightened absolutism hollow where practice contradicts principle; renewal sought in Romantic nationalism.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Orthodox Christianity remains official cosmology; elite exposed to Enlightenment deism, freemasonry, and emerging Romantic spirituality; Alexander I's later mysticism signals elite spiritual searching; peasant Orthodox piety unchanged.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Orthodox liturgical calendar structures popular life; monastic revival under Alexander I; elite participation formal and declining; peasant devotion remains intense; Old Believers persist under intermittent persecution.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Holy Synod remains state-controlled; monasteries partially restored under Alexander; Bible Society briefly active; institutional autonomy absent; doctrinal authority subordinate to state; church as administrative arm of autocracy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Freemasonry spreads among nobility with quasi-spiritual functions; mystical and pietist currents circulate; Old Belief holds its ground; official Orthodoxy neither advances nor retreats; the spiritual landscape diversifies among elite while peasant Orthodoxy is stable.<br><br>
-__Disenchantment & Sacred Discharge:__ Elite secularization advances; French-educated nobility increasingly distanced from Orthodoxy; some turn to Masonic or mystical alternatives; peasant sacred world intact; incipient disenchantment generates restless spiritual searching among the educated rather than anomie.<br><br>
+# __1762 CE – 1825 CE — Catherine to Alexander and Enlightened Absolutism__
+
+The binding constraint is the contradiction between Enlightenment discourse circulating through a growing print sphere and the autocratic structure that sponsors it, where Catherine II's brief permission of private printing (1783) creates the first glimmers of an independent public sphere before the French Revolution's shock prompts suppression—Novikov imprisoned, Radishchev exiled—establishing the pattern of reform and reaction that defines Russian print culture, with the periodical press and thick journals becoming the contested space where educated society forms opinions the state alternately cultivates and fears.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The empire expands dramatically: Crimea annexed (1783), partitions of Poland (1772, 1793, 1795) extend the western frontier, and campaigns push toward the Caucasus. St. Petersburg remains the capital and primary information hub; Moscow retains cultural weight. River transport continues to dominate logistics; post roads improve but distances remain immense—news from Paris takes weeks to reach St. Petersburg.
+
+__Climate Regime & Volatility:__ The continental climate persists unchanged. Agricultural output fluctuates with weather; poor harvests trigger local famines. Napoleon's 1812 campaign is broken partly by the Russian winter, confirming climate as strategic factor.
+
+__Hazard Regime & Exposure:__ Fire remains endemic; Moscow burns during the 1812 occupation. Flooding threatens St. Petersburg. Epidemic disease circulates with military movements; typhus accompanies armies.
+
+__Resource & Energy Endowment:__ Ural metallurgy continues to supply iron; Russia is a leading producer. Forest resources support construction and fuel. Grain exports through Black Sea ports (Odessa, founded 1794) grow after Crimean annexation. Energy capture remains biomass-dependent.
+
+__Waste Absorption & Sink Capacity:__ The vast territory absorbs expanding waste loads without stress. Urban growth increases local pollution; sanitation improves marginally in capitals. Sink saturation is not a constraint.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic disease persists; smallpox, typhus, and cholera (arriving 1830s, just outside this window) circulate. Mortality remains high by Western European standards. Catherine promotes inoculation (she is inoculated herself, 1768), but coverage is minimal.
+
+__Nutrition & Physiological Vitality:__ Peasant diet remains rye-based with seasonal variation. Nobility and urban populations enjoy imported goods and greater dietary diversity. Famine recurs locally; widespread famines are avoided in this period.
+
+__Care, Healing & Recovery Capacity:__ Medical facilities expand slowly. Catherine founds hospitals and medical schools; provincial coverage remains thin. Folk medicine predominates in villages. Midwifery is traditional; maternal and infant mortality remain high.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns remain estate-bound. Serfdom continues to structure family formation. Birth rates are high; the demographic regime is high-fertility, high-mortality.
+
+__Demographic Renewal & Density:__ Population grows from roughly 20 million (1762) to 35 million (1800) to perhaps 45 million by 1825, including annexed territories. Density remains low; colonization of the south (New Russia) and eastern frontiers continues.
+
+__Attrition & Dependency Overhang:__ War losses (Napoleonic campaigns claim hundreds of thousands) create widows and orphans. The commune and extended family absorb dependents; no state welfare apparatus exists beyond military pensions for some.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The peasant household remains largely self-provisioning. Grain markets develop in southern steppes; urban provisioning depends on internal trade. Famines remain local rather than systemic in this period.
+
+__Energy Capture & Conversion:__ Muscle power dominates; water mills grind grain. Charcoal-fired ironworks in the Urals represent the most energy-intensive production. No steam power; Russia falls behind industrializing Britain.
+
+__Labor Organization & Coercion:__ Serfdom intensifies under Catherine; landlord power over serfs expands. Corvée obligations increase in the central provinces; obrok predominates in the north. Free labor exists in cities but remains marginal. State peasants serve crown needs.
+
+__Production & Surplus Capacity:__ Agricultural surplus grows with southern expansion; grain exports increase. Manufacturing remains small-scale—textiles, metalwork, luxury goods for nobility. Surplus is extracted through feudal dues and state taxation.
+
+__Storage, Reserves & Buffering:__ Granaries remain local. State finances are strained by continuous warfare (Turkish wars, partitions, Napoleonic campaigns). Borrowing from abroad (Dutch bankers) covers deficits; the treasury accumulates debt.
+
+__Exchange, Trade & Logistics:__ Trade expands through Black Sea ports and Baltic routes. Tariffs protect domestic manufactures. Internal commerce grows but remains constrained by poor roads. Fair networks (Nizhny Novgorod) coordinate seasonal exchange.
+
+__Value Storage, Credit & Deferred Exchange:__ Paper money (assignaty, 1769) is introduced to fund Turkish wars; inflation follows. Coinage is supplemented by credit instruments among merchants. No modern banking system exists; state-sponsored banks serve nobility.
+
+__Surplus Extraction & Redistribution:__ Poll tax continues; indirect taxes (alcohol, salt) generate revenue. Landlords extract through labor dues and kind. State expenditure goes overwhelmingly to military and court; little redistribution beyond charity.
+
+__Wealth Distribution & Asset Defense:__ Nobility consolidates landholding; Charter to Nobility (1785) confirms property rights and exemptions from taxation and corporal punishment. Peasants own only movables. Urban merchants accumulate some wealth but lack noble privileges.
+
+__Byproducts & Waste Routing:__ Manufacturing waste accumulates locally; no systematic disposal. Inflation erodes value; bad debt accumulates informally. No clearing mechanisms exist.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Noble inheritance follows partible rules, fragmenting estates over generations. Serf families remain patriarchal, subject to lord's control over marriage and movement. Urban families organize through guilds.
+
+__Association & Mutual Aid:__ The peasant commune allocates land and coordinates agriculture. Catherine permits Masonic lodges (suppressed 1794); salons develop in capitals. Voluntary association remains thin; the state dominates organized life.
+
+__Leisure, Play & Sociability:__ Noble society develops Western-style salons, balls, and theater. Catherine's court sets cultural standards. Peasant leisure centers on village festivals, taverns (state monopoly), and church holidays.
+
+__Stratification, Status & Group Structure:__ Estate divisions remain rigid: nobility, clergy, merchants (organized in guilds), and peasants. Catherine's charters (1785) define noble and urban privileges. Social mobility is rare; boundaries are legally enforced.
+
+__Administrative Capacity & Institutional Integrity:__ Catherine reorganizes provincial administration (1775), creating a more systematic bureaucracy. Corruption remains endemic. The apparatus extends geographically but remains understaffed and underpaid. Alexander I attempts further reforms (ministerial system, 1802) but implementation lags.
+
+__Coercive Apparatus & Means of Force:__ The army numbers 300,000+ and proves capable of defeating Napoleon (1812). Police functions expand; Alexander I creates the Ministry of Police (1810). Political surveillance intensifies after 1815. The apparatus is effective but dispersed.
+
+__Discharge, Disorder & Decay:__ Pugachev's rebellion (1773–1775) is the largest peasant uprising, suppressed with great violence. Noble dissent emerges among officers exposed to Western ideas during Napoleonic campaigns, culminating in the Decembrist conspiracy (1825). Grievance accumulates beneath surface order.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Peasant sentiment remains sullen, fatalistic, intermittently explosive (Pugachev). Educated society develops a culture of sentiment—Karamzin's sentimental tales, Francophile sensibility. Trust extends within estate; suspicion of the state persists. The 1812 victory generates patriotic fervor.
+
+__Leadership & Personal Authority:__ Catherine II dominates through intelligence, political skill, and careful management of court factions. Paul I (1796–1801) is erratic and assassinated. Alexander I begins as reformer (Speransky), turns mystical and conservative after 1815. Personal authority varies greatly by ruler.
+
+__Legitimacy as Lived Allegiance:__ Autocracy remains legitimate in popular consciousness as divinely ordained. Educated society begins to question—Radishchev's Journey from St. Petersburg to Moscow (1790) challenges serfdom. Decembrists represent the first open challenge from within the elite.
+
+__Political Will & Collective Resolve:__ Catherine's will is effective; she manages factions and pursues consistent policy. Alexander I's will fragments after 1815; Arakcheev dominates administration. The Decembrist uprising reveals that an oppositional will has formed within the officer corps.
+
+__External Relations & Posture:__ Russia is the dominant continental power after 1812. The Holy Alliance (1815) positions Russia as guarantor of conservative order. Rivalry with Ottoman Empire continues; influence in Poland and German states expands. The posture is conservative and interventionist.
+
+__Disaffection, Apathy & Spent Will:__ Peasant disaffection is suppressed, not addressed; Pugachev's defeat does not resolve grievances. Elite disaffection emerges among officers and intellectuals. Alexander I's late-reign mysticism reflects personal exhaustion. The Decembrist failure leaves a legacy of defeated idealism.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy remains confined to nobility, clergy, and a thin urban stratum—perhaps 5–10% of the population. The civil script is standard for secular publication. French is the language of elite correspondence and salon conversation; Russian develops as a literary language through this period.
+
+__Channels & Transmission Velocity:__ Print expands dramatically. Catherine permits private printing (1783–1796), enabling publishers like Novikov to produce journals, books, and translations. Postal routes improve; news travels faster but still requires days or weeks across the empire.
+
+__Record, Storage & Persistence:__ Archives expand; bureaucratic record-keeping improves. University libraries (Moscow, 1755; others follow) preserve texts. Manuscript circulation persists for censored or private works. The record is more systematic than before but still vulnerable to fire and neglect.
+
+__Framing, Censorship & Discourse Norms:__ Catherine permits and then restricts free expression. Novikov's journals flourish (1770s–1780s), then he is imprisoned (1792). Radishchev's Journey is suppressed; he is exiled to Siberia (1790). Paul I's censorship is harsh; Alexander I relaxes it initially (1801–1815), then tightens after revolutionary scares. Censorship is pre-publication; the permitted band fluctuates.
+
+__Reception, Attention & Amplification:__ Readership expands from hundreds to thousands—nobility, officials, emerging intelligentsia. Journals (Karamzin's Vestnik Evropy, 1802) shape taste and opinion. Salon discussion amplifies printed ideas. The public sphere is embryonic but real.
+
+__Signal Integrity & Noise Load:__ State control ensures consistency in official publications. Rumor and oral networks carry popular information. The gap between official discourse and popular understanding remains vast. Censorship introduces distortion; circumlocution develops.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Orthodox morality provides the framework for peasants and traditionalist nobility. Enlightenment ideas circulate among educated elites—natural rights, social contract, humanitarian critique of serfdom. Catherine's Nakaz (1767) articulates Enlightenment principles without implementing them.
+
+__Law, Codification & Regulatory Evolution:__ Catherine's Legislative Commission (1767) attempts comprehensive codification but fails to produce a new code. Laws accumulate through ukazy; the Ulozhenie of 1649 remains nominally in force. Provincial administration is reorganized (1775). Alexander I's legal reforms are incomplete.
+
+__Adjudication, Liability & Sanction:__ Courts are administrative; judges are officials. Nobles are exempt from corporal punishment (1785). Peasants and lower orders face knouting, exile, and worse. Political cases go to special commissions; the Decembrists are tried by special court.
+
+__Rights, Protections & Compliance Burden:__ Nobles gain rights through the Charter (1785): freedom from service obligation, property protection, corporate self-government. Peasants gain nothing; serfdom deepens. The compliance burden on the unfree majority is extreme.
+
+__Impunity & Unredressed Wrong:__ Landlords exercise nearly unlimited power over serfs. State officials act with impunity. The murder of Paul I by court conspirators goes unpunished. The gap between justice owed and delivered is vast and structural.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The Academy of Sciences continues with foreign scholars; Russian-born scientists emerge (Lomonosov, d. 1765). Universities are founded (Kharkov, Kazan, St. Petersburg). Inquiry is increasingly institutionalized. Historical writing develops (Karamzin's History of the Russian State, 1818–1829).
+
+__Applied Knowledge & Technical Method:__ Western technique continues to transfer through foreign specialists and educated Russians returning from abroad. Agricultural improvement is discussed but rarely implemented. Military technology keeps pace with Europe through importation.
+
+__Education, Knowledge Stock & Skill Distribution:__ Catherine establishes educational institutions (Smolny Institute for noble women, 1764). Alexander I expands university system. Gymnasiums prepare students for universities. Literacy rises slightly among nobility and urban populations; peasants remain illiterate.
+
+__Obsolescence & Knowledge Decay:__ Traditional Muscovite learning decays without replacement. Church education continues but loses prestige. Western knowledge must be continuously imported; indigenous knowledge production remains thin.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Russian identity begins to articulate itself in literary form. Karamzin's sentimentalism, early romantic poetry, and historical writing construct a usable past. The 1812 victory becomes foundational—the "Patriotic War" enters collective memory. Identity remains Orthodox and imperial but acquires literary expression.
+
+__Legitimating Narrative & Ideology:__ Enlightened absolutism provides Catherine's legitimation—the ruler as philosopher-legislator. Alexander I's early liberalism gives way to mystical conservatism and the Holy Alliance. Official ideology emphasizes order, Orthodoxy, and autocracy without yet achieving the formula Nicholas I will crystallize.
+
+__Artistic Expression & Material Culture:__ Neoclassical architecture dominates St. Petersburg and noble estates. Portraiture, landscape painting, and decorative arts follow European models. Russian literature emerges: Derzhavin, Karamzin, early Pushkin. Material culture remains bifurcated—Westernized elite, traditional peasantry.
+
+__Form Exhaustion & Meaning Decay:__ Neoclassical forms are adopted rather than exhausted. Sentimentalism gives way to early romanticism. No sense of form exhaustion; culture is in an acquisitive, imitative phase becoming creative.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Orthodox cosmology persists for the mass population. Enlightenment deism and skepticism circulate among educated elites; Freemasonry provides a spiritual alternative (suppressed 1794). Alexander I's late-reign mysticism represents a different trajectory—personal religious seeking outside Orthodoxy.
+
+__Ritual, Devotion & Sacred Practice:__ Orthodox liturgy, sacraments, and calendar continue to structure popular life. Pilgrimage and icon veneration persist. Elite observance becomes more formal and less felt; some embrace Enlightenment religion or mysticism.
+
+__Religious Institutions & Doctrinal Authority:__ The Holy Synod remains subordinate to the state. Catherine secularizes monastic lands (1764), weakening Church economic power. Doctrinal authority is frozen; no theological development. The Church functions as state department for popular morality.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Old Believers persist in remote areas. Sectarian movements continue (Skoptsy, Dukhobors). Western religious ideas (Pietism, mysticism) influence Alexander I. The dominant Orthodoxy is stable but spiritually thin for elites.
+
+__Disenchantment & Sacred Discharge:__ Elite secularization continues; religion becomes formal observance or private seeking. The gap between official Orthodoxy and elite belief widens. Popular piety remains intact. Disenchantment is an elite phenomenon, not yet affecting mass consciousness.

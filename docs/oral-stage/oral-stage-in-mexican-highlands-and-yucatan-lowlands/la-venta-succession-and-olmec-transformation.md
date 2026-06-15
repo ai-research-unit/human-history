@@ -1,69 +1,140 @@
 # __900 BCE – 400 BCE__ — La Venta Succession and Olmec Transformation
-__Summary:__ Following San Lorenzo's destruction around 900 BCE, La Venta emerges as the dominant Gulf Coast center, sustaining and elaborating Olmec traditions across five centuries until its own decline circa 400 BCE; the binding constraint is the labor mobilization and surplus extraction required to construct monumental earthworks and procure exotic materials across hundreds of kilometers; the system holds modest resilience through diversified riverine-agricultural subsistence but remains vulnerable to elite legitimacy crises; the trajectory moves toward intensified ritual elaboration, broader iconographic diffusion, and eventual dispersion of Olmec influence into regional successor traditions.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ La Venta occupies an island-like plateau amid coastal swamps and levees in the lower Tonalá River basin; transit to basalt sources in the Tuxtla Mountains requires crossing fifty to eighty kilometers of rivers, wetlands, and tropical forest, imposing heavy friction on monument transport; canoe travel on rivers and coastal lagoons provides the primary long-distance corridor.<br><br>
-__Climate Regime & Volatility:__ Hot and humid tropical climate with pronounced wet season (June–October) delivering over 2,000 mm annual rainfall; interannual variability tied to tropical storm frequency; no evidence of major secular drift within this window, though flooding events recur on multi-decadal cycles.<br><br>
-__Hazard Regime & Exposure:__ Seasonal flooding of riverine and swamp margins poses recurring risk to low-lying fields and structures; volcanic eruptions from distant Tuxtla sources possible but not archaeologically documented for this window; hurricane exposure moderate along the Gulf coast; resilience maintained through elevated site positioning and floodplain farming flexibility.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils support productive maize-based agriculture; basalt for monuments obtained from Tuxtla sources; jade from the Motagua Valley, obsidian from highland Guatemala and Pachuca, serpentine and magnetite from various sources — all requiring long-distance procurement; local resources include clay for ceramics, fish, shellfish, and game.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density relative to tropical lowland carrying capacity; organic waste absorbed by soil and water systems without evident stress; clay construction debris and broken objects deposited in fill contexts; absorptive capacity effectively unlimited for the scale of occupation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Tropical disease environment with endemic gastrointestinal and parasitic infections; no evidence of epidemic outbreaks in the archaeological record; background mortality likely elevated relative to highlands but within sustainable replacement range.<br><br>
-__Nutrition & Physiological Vitality:__ Maize-based diet supplemented by beans, squash, riverine fish, turtle, and hunted game provides adequate protein and caloric intake; skeletal evidence limited but suggests no severe nutritional stress among excavated populations; elite access to more diverse foodstuffs.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Mating patterns unrecoverable; elaborate female figurines suggest symbolic attention to fertility; population sustaining itself through natural increase without evidence of external demographic pressures.<br><br>
-__Demographic Renewal & Density:__ La Venta's resident population estimated at several thousand, with larger support population in surrounding villages; positive replacement ratios indicated by sustained construction activity over five centuries; density modest relative to later Maya lowland centers.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load unrecoverable from available evidence; community scale and kin networks presumably sufficient to absorb orphaned and aged dependents without systemic strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Floodplain maize agriculture supplemented by root crops, riverine fishing, hunting, and gathering provides reliable subsistence above bare survival; household pooling buffers seasonal variation; no evidence of famine conditions.<br><br>
-__Energy Capture & Conversion:__ Human muscle supplies virtually all work; no draft animals available; watercraft extend transport range; fire used for cooking, ceramic production, and forest clearing; per-capita work ceiling limits construction pace and procurement distance.<br><br>
-__Labor Organization & Coercion:__ Monument construction and exotic procurement require mobilization of hundreds of workers per project; evidence for corvée-style seasonal labor under elite direction; degree of coercion versus reciprocal obligation uncertain but likely legitimated through ritual and redistributive feasting.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus sufficient to support non-food-producing specialists (sculptors, jade workers, priests) and periodic large labor drafts; surplus extraction concentrated in elite hands and directed toward monumental and ritual purposes.<br><br>
-__Storage, Reserves & Buffering:__ Granary storage presumed but not archaeologically documented; maize storable for months under tropical conditions with proper drying; reserves sufficient to buffer single-season shortfalls but thin against multi-year failures.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks extend to Guatemalan highlands (obsidian, jade), Motagua Valley, Pacific coast, and highland Mexico; exchange mediated through elite networks; transport by canoe, porterage, and overland trails; no market infrastructure documented.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Jade, serpentine, and greenstone objects serve as prestige valuables; massive buried offerings (serpentine pavements, jade celts) represent stored wealth removed from circulation; reciprocal obligations between elite lineages defer exchange across time; no monetary instruments.<br><br>
-__Surplus Extraction & Redistribution:__ Elite extraction of labor and surplus for monument construction, exotic procurement, and ritual caching; redistribution occurs through feasting and ceremonial contexts; extraction load significant but sustainable given population and agricultural base.<br><br>
-__Wealth Distribution & Asset Defense:__ Sharp gradient between elite and commoner material culture; elite monopolize jade, carved objects, and access to sacred spaces; wealth defended through ideological legitimation rather than fortification; no evidence of violent asset seizure.<br><br>
-__Byproducts & Waste Routing:__ Clay construction debris incorporated into platform fill; organic waste dispersed into surrounding environment; broken ritual objects deliberately buried; no waste accumulation problem at documented population densities.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Presumed high trust within kin and village networks; corvée labor participation suggests functioning reciprocity norms linking commoners to elite ceremonial centers; radius of trust extends to neighboring communities within Olmec sphere.<br><br>
-__Stratification, Status & Group Identity:__ Two-tier stratification minimally — elite versus commoner — possibly more gradations; elite identity marked by costume, jade ornaments, and access to colossal sculptures and tombs; commoner identity tied to village and kin group; boundaries hardening through the window as monumental investment intensifies.<br><br>
-__Kinship, Family & Inheritance:__ Kinship structures unrecoverable; elite succession possibly patrilineal given individual ruler portraits on colossal heads; inheritance of status and property within elite lineages presumed; household composition unknown.<br><br>
-__Civic Association & Self-Organization:__ Village-level organization below elite ceremonial center; no evidence of formal guilds or associations; collective labor projects organized through elite-directed mobilization rather than autonomous association.<br><br>
-__Leisure, Play & Sociability:__ Ball game evidence appears in Olmec iconography though ballcourts not documented at La Venta; ceremonial gatherings and feasting provide occasions for sociability; everyday leisure unrecoverable.<br><br>
-__Grievance Channels & Social Discharge:__ No formal grievance channels documented; ritual participation, feasting, and reciprocal obligations presumably absorb social friction; the San Lorenzo destruction event (~900 BCE) may represent catastrophic failure of discharge mechanisms there, providing cautionary context for La Venta elites.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Chiefdom-level polity with paramount ruler depicted on colossal heads and thrones (altars); authority concentrated in ruler and lineage; decision-making centralized at La Venta with subordinate centers acknowledging preeminence; trend toward ritual elaboration of authority through pyramid construction and buried offerings.<br><br>
-__Succession & Power Transfer:__ Individual ruler portraits suggest personal authority; succession rules unrecoverable but likely hereditary within ruling lineage; no direct evidence of contested successions though San Lorenzo's violent end hints at systemic vulnerability.<br><br>
-__Legitimacy & Political Narrative:__ Ruler legitimacy grounded in cosmic and shamanic claims — were-jaguar transformation, maize-deity association, access to otherworld; colossal heads and thrones broadcast power through monumental display; narrative intensifies through window as monument program expands.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Organizational capacity sufficient to coordinate basalt transport, exotic procurement, and monumental construction; no evidence of bureaucratic record-keeping — all coordination oral and personal; capacity limited by ruler's direct oversight and kin-network reliability.<br><br>
-__Political Participation & Mobilization:__ Commoner participation limited to labor corvée and ritual attendance; no evidence of assembly or consultative mechanisms; elite faction dynamics unrecoverable; mobilization driven by elite demand rather than popular initiative.<br><br>
-__Geopolitical Position & External Relations:__ La Venta dominant among Gulf Coast centers; Tres Zapotes emerges as secondary then successor center; relations with highland Oaxaca and Basin of Mexico involve exchange of prestige goods and iconographic sharing rather than political domination; no evidence of military conquest or territorial control beyond immediate hinterland.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military documented; elite status may have included warrior role; weapons include obsidian blades, wooden clubs; fortifications absent; coercive capacity presumably sufficient for local order but not territorial expansion.<br><br>
-__Internal Order & Threat Environment:__ Order maintained through elite prestige and ritual authority rather than force; San Lorenzo's destruction demonstrates vulnerability to internal upheaval or external attack; La Venta's swamp-island setting provides some natural protection; disorder levels low through most of window.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication primary; information travels at walking and canoe speed; ceremonial gatherings at La Venta disseminate elite messages to assembled populations; long-distance transmission via trading parties and envoys; reach extends across Mesoamerica through exchange networks.<br><br>
-__Record, Storage & Persistence:__ No writing system; information persists through oral memory, trained specialists, and iconographic encoding on monuments; early Long Count precursors appear at Tres Zapotes toward window's end but remain experimental; calendrical notation developing; oral tradition remains the medium institutions operate through.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control monument production and ceremonial discourse; commoner perspectives unrecoverable; iconographic repertoire narrowly controlled — were-jaguar, maize deity, ruler imagery — suggesting managed symbolic vocabulary; taboos on representation unknown.<br><br>
-__Reception, Attention & Amplification:__ Monumental scale commands attention — colossal heads, pyramid, buried offerings visible to pilgrimage audiences; amplification occurs through ceremonial repetition and material display; attention concentrated on elite-directed messages.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces drift across generations; iconographic conventions stabilize core messages; no verification mechanism beyond specialist memory; noise load manageable at community scale but increases with geographic diffusion, contributing to regional variation in Olmec-style expression.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Moral framework grounded in cosmic order, ancestral precedent, and reciprocal obligation; justice conceived as maintenance of proper relations between humans, rulers, and supernatural forces; specific content unrecoverable.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding norms exist as oral custom enforced through community and chiefly authority; regulatory evolution untrackable without textual evidence; customary expectations presumably stable across window.<br><br>
-__Adjudication, Enforcement & Liability:__ Chief or elite elders presumably adjudicate disputes; enforcement through community sanction and chiefly authority; liability principles unrecoverable; formal court structure absent; throughput adequate for low-volume community-scale disputes.<br><br>
-__Rights, Protections & Compliance Burden:__ No concept of codified rights recoverable; protections embedded in kin obligations and chiefly responsibility for subjects; compliance burden light given absence of bureaucratic regulation; customary obligations predictable if not written.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity presumed given absence of checks on chiefly power; commoner redress dependent on community solidarity and chiefly benevolence; accumulation of unredressed grievance untrackable but potentially destabilizing as San Lorenzo precedent suggests.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Astronomical observation evident in calendrical developments; cosmological inquiry frames understanding of sky, earth, and underworld; paradigm is mythic-ritual rather than empirical; no separation of natural from supernatural explanation.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated techniques in basalt sculpture, jade working, ceramic production, earthen construction; astronomical observation applied to calendrical timekeeping; agricultural knowledge refined through generations of cultivation; methods transmitted through apprenticeship and oral instruction.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally through kin, craft lineages, and specialist training; literacy absent; elite monopolize esoteric cosmological and ritual knowledge; craft skills concentrated among attached specialists; general agricultural and subsistence knowledge widely distributed.<br><br>
-__Obsolescence & Knowledge Decay:__ Oral transmission vulnerable to knowledge loss through death of specialists; San Lorenzo traditions largely preserved at La Venta, suggesting effective intergenerational transfer; some sculptural techniques may have degraded as evidenced by later cruder work; knowledge stock stable to slowly growing through window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Olmec identity grounded in maize symbolism, were-jaguar transformation, and access to otherworld powers; San Lorenzo heritage provides ancestral precedent; colossal heads memorialize ruler lineage; origin narratives unrecoverable but presumably legitimated elite descent from supernatural beings.<br><br>
-__Artistic Expression & Material Culture:__ Monumental basalt sculpture (colossal heads, thrones), jade celts and figurines, ceramic vessels and figurines, earthen pyramid and platform construction; style emphasizes naturalistic human portraiture combined with supernatural iconography; aesthetic conventions stable with gradual elaboration through window.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood unrecoverable directly; sustained monumental investment suggests confidence in elite project; absence of fortification suggests security rather than anxiety; massive buried offerings indicate intense ritual commitment; disposition oriented toward cosmic maintenance and elite commemoration.<br><br>
-__Form Exhaustion & Meaning Decay:__ By window's end, La Venta itself declines and Olmec style diffuses into regional variants (Epi-Olmec); iconographic vocabulary spreads and diversifies, suggesting both success and dilution; core Olmec forms not yet exhausted but transforming toward successor expressions.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Three-realm cosmology — sky, earth, watery underworld; shamanic transformation allows rulers to access otherworld powers; maize deity central to agricultural and human fertility; existential outlook assumes constant supernatural engagement requiring ritual maintenance; fatalism regarding cosmic cycles balanced by ritual efficacy.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Massive buried offerings (serpentine pavements, jade celts, mosaic masks) at Complex A; pyramid as axis mundi; ruler rituals involving bloodletting, costume, and transformation suggested by iconography; communal participation in ceremonies at ceremonial precinct; ritual calendar developing.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Ruler serves as paramount ritual specialist; supporting priesthood presumed but not directly documented; doctrine transmitted orally through elite lineages; orthodoxy maintained through controlled iconographic production; institutional property concentrated at ceremonial center.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Olmec religious iconography and practice diffuse across Mesoamerica through exchange and emulation; local traditions absorb and adapt Olmec elements; no evidence of systematic missionary activity; diffusion intensifies through window, preparing ground for broader Mesoamerican shared symbolism.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of declining belief or secular drift; ritual intensity if anything increasing through window; sacred discharge appears adequate given sustained elite investment and monumental construction; La Venta's eventual decline (~400 BCE) not clearly attributable to spiritual crisis but to factors unclear in available evidence.<br><br>
+
+__Summary:__ The five centuries following San Lorenzo's decline see the Olmec center of gravity shift to La Venta, where monumental construction, long-distance exchange, and elite ritual reach their apex before the Olmec heartland loses its primacy and regional polities absorb its legacy. The binding constraint is oral transmission: La Venta's authority rests on spoken tradition, chanted cosmology, and face-to-face negotiation; no written archive records its genealogies or commands, and when the spoken chain breaks, the center's grip dissolves.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ La Venta sits on a salt-dome island amid the coastal swamps of Tabasco, its elevation slight but critical for permanent settlement in a landscape of seasonal floods. Rivers provide canoe corridors linking the site to the Gulf littoral and interior piedmont; the levee system channels movement but also fragments overland travel, making watercraft essential for bulk transport. Distance to the basalt sources in the Tuxtla Mountains remains roughly 80 km, unchanged from the San Lorenzo phase.
+
+__Climate Regime & Volatility:__ The tropical wet-dry regime delivers heavy summer rains and a pronounced dry season; interannual variability tied to Pacific sea-surface anomalies can swing rainfall by a third, stressing maize yields. No secular trend dominates the window, but episodic droughts toward 500 BCE may correlate with political instability in the heartland.
+
+__Hazard Regime & Exposure:__ Hurricanes and flooding constitute the primary acute hazards; the low-lying site floods when rivers overtop natural levees. No seismic or volcanic threat affects the coastal plain directly, though ashfall from distant eruptions occasionally reaches the region.
+
+__Resource & Energy Endowment:__ The immediate hinterland supplies cacao, rubber, and tropical hardwoods; aquatic protein from rivers and lagoons supplements maize. Basalt, jade, serpentine, and obsidian arrive only through exchange, making La Venta dependent on networks it must maintain through persuasion and prestige rather than coercion alone.
+
+__Waste Absorption & Sink Capacity:__ Population density remains low relative to carrying capacity; organic refuse decomposes rapidly in the humid climate. Monumental construction concentrates earth movement but does not exhaust local soils. No saturation signal is evident.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Tropical pathogens—malaria, intestinal parasites, vector-borne fevers—impose a steady attrition; skeletal evidence from comparable lowland sites shows elevated childhood mortality and moderate adult lifespans averaging 30–35 years. Endemic load remains stable; no epidemic signature appears in the record.
+
+__Nutrition & Physiological Vitality:__ Maize, beans, squash, fish, and game provide adequate macronutrients; dental caries increase with maize dependence, and porotic hyperostosis in some burials suggests periodic iron deficiency. Overall nutritional status supports population growth.
+
+__Care, Healing & Recovery Capacity:__ Healing relies on herbalism, bone-setting, and ritual intervention; no institutional medicine exists. Recovery capacity is limited by knowledge transmission through oral apprenticeship; loss of a healer means loss of technique until another is trained.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns remain kin-regulated; polygyny likely among elites given burial evidence of status differentiation. Physiological fertility is adequate; no reproductive crisis appears.
+
+__Demographic Renewal & Density:__ Population in the heartland grows slowly; La Venta's resident population may reach several thousand, with a larger hinterland population in dispersed hamlets. Migration into the center for labor drafts and ceremonies supplements local births.
+
+__Attrition & Dependency Overhang:__ The dependent load—children, elderly, infirm—is absorbed within extended kin groups; no institutional support exists. The load does not outpace productive capacity during this window.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Maize-based agriculture supplemented by fishing, hunting, and gathering sustains the population; no famine signature appears in the archaeological record. Household pooling buffers seasonal variation.
+
+__Energy Capture & Conversion:__ Human muscle remains the sole power source; no animal traction is used. Canoe transport leverages river current, reducing friction on bulk goods. Per-capita work output suffices for monumental construction through corvee mobilization.
+
+__Labor Organization & Coercion:__ Labor for monuments and ritual construction is mobilized through obligatory tribute or corvee, organized by kin and community obligation rather than formal slavery. Coercion is embedded in social expectation and ritual duty.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports a non-producing elite and specialist artisans (jade carvers, sculptors). Surplus flow is adequate for sustained monument building but not for territorial expansion requiring standing forces.
+
+__Storage, Reserves & Buffering:__ Granary-level storage buffers single-season shortfalls; no evidence of multi-year reserves. Risk pooling operates through kin networks and reciprocal obligation with neighboring communities.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange networks bring jade from Guatemala, obsidian from highland Mexico, serpentine from Oaxaca, and basalt from the Tuxtlas. La Venta sits at a node controlling access to Gulf routes; its prestige goods circulate widely, but the network depends on voluntary participation sustained by ideology and gift exchange, not military enforcement.
+
+__Value Storage, Credit & Deferred Exchange:__ No coinage exists; value is stored in durable prestige goods (jade celts, carved mirrors) and deferred through reciprocal obligation. Credit operates as social debt remembered and recited, not recorded.
+
+__Surplus Extraction & Redistribution:__ Elites extract surplus through tribute in labor and goods, redistributing a portion in feasts and ceremonies that reinforce their authority. The extraction rate is sustainable but leaves little margin for expansion.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in elite hands as jade caches, elaborate burials, and monumental tombs; commoners possess utilitarian goods. Defense relies on burial concealment and the sacredness of offerings rather than armed guards.
+
+__Byproducts & Waste Routing:__ Organic waste is absorbed locally; construction spoil is incorporated into platform fill. No financial mispricing accumulates; the economy is pre-monetary.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent likely governs elite succession; kin groups organize labor and ritual participation. Inheritance of status and sacra passes through lineage, validated by oral genealogy recited at ceremonies.
+
+__Association & Mutual Aid:__ Craft specialists (jade carvers, sculptors) may form loose associations; village communities maintain reciprocal aid networks. No formal guilds exist.
+
+__Leisure, Play & Sociability:__ Ball courts do not appear at La Venta, but ritual gatherings, feasting, and probable ball games provide sociable contexts. Ceremonies at the Great Pyramid and associated plazas mark seasonal and political cycles.
+
+__Stratification, Status & Group Structure:__ Society is stratified: a hereditary elite controls ritual and exchange, a specialist class produces prestige goods, and commoners farm and labor. Status boundaries are firm but not caste-rigid; display and ritual performance reinforce hierarchy.
+
+__Administrative Capacity & Institutional Integrity:__ Administration is minimal and personal; no bureaucracy or written record exists. Authority inheres in named individuals whose commands are transmitted orally and enforced through kin and client networks. Succession depends on oral genealogy and ritual validation.
+
+__Coercive Apparatus & Means of Force:__ No standing army exists; force is mobilized through kin obligation when needed. Weapons are utilitarian (spears, atlatls); no specialized warrior class is evident. La Venta's influence rests on prestige, not conquest.
+
+__Discharge, Disorder & Decay:__ Social friction is discharged through feasting, ritual, and the legitimation of hierarchy. By 500–400 BCE, La Venta's monuments are ritually defaced and buried, signaling either internal succession crisis or external pressure; the apparatus decays as authority fragments among successor centers.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Sentiment during La Venta's apogee is confident; monumental construction proceeds for centuries. Trust extends within kin networks and to the elite center. As decline sets in, sentiment likely darkens; the defacement of monuments suggests contested legitimacy.
+
+__Leadership & Personal Authority:__ Leadership is personal and charismatic; rulers are likely priest-kings whose authority fuses religious and political power. Colossal heads may depict specific rulers, memorializing personal authority in stone.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is enacted through ritual participation, labor tribute, and acceptance of elite cosmology. Legitimacy depends on successful mediation with the supernatural; failure—crop failure, flood, defeat—erodes it.
+
+__Political Will & Collective Resolve:__ Collective will is directed toward monument construction, long-distance exchange, and ritual elaboration. No evidence of military campaigns; the will to expand territorially is absent or frustrated.
+
+__External Relations & Posture:__ La Venta projects influence through prestige and ideology, not conquest. Relations with distant regions (Oaxaca, highlands) are diplomatic and commercial; no subordination is imposed. Rivalry with emerging centers (San Jose Mogote, Chalcatzingo) may increase toward the window's end.
+
+__Disaffection, Apathy & Spent Will:__ The terminal defacement of La Venta's monuments—heads buried, altars mutilated—indicates spent legitimacy or active repudiation. Whether internal disaffection or external attack, the affective bond to the center breaks by 400 BCE.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language—likely a proto-Mixe-Zoquean tongue—is the universal medium; mutual intelligibility extends throughout the heartland. Iconography (were-jaguar, serpent, maize deity) encodes meaning but requires oral explication.
+
+__Channels & Transmission Velocity:__ Information travels at walking and canoe speed; messengers carry oral commands and news. Transmission velocity is slow; rumors and reports take days or weeks to reach distant communities.
+
+__Record, Storage & Persistence:__ No writing exists; all record is oral. Genealogies, ritual formulae, and cosmological narratives persist in specialist memory—priests, elders, bards. Loss of a memory-keeper risks loss of the tradition.
+
+__Framing, Censorship & Discourse Norms:__ Elite control of ritual performance frames permissible discourse; cosmological narratives justify hierarchy. No formal censorship exists, but deviation from orthodoxy risks exclusion from ritual community.
+
+__Reception, Attention & Amplification:__ Attention is captured at mass ceremonies; monumental architecture amplifies the message of elite power. Oral repetition in households and villages sustains the narrative between ceremonies.
+
+__Signal Integrity & Noise Load:__ Without writing, signal integrity depends on fidelity of oral transmission; drift is inevitable over generations. Conflicting traditions and misremembered genealogies accumulate as noise, visible archaeologically in iconographic variation across sites.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is embedded in kin obligation, reciprocity, and cosmic order; offenses against persons and gods are handled within kin groups or by elite adjudication. The sense of fairness is relational, not abstract.
+
+__Law, Codification & Regulatory Evolution:__ No codified law exists; norms are customary and orally transmitted. Elite pronouncements carry binding force within their sphere but are not recorded.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by kin elders or elite figures; liability is collective (kin group responsible for member's acts). Sanctions include compensation, exile, or ritual execution; no prison system exists.
+
+__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kin status; commoners owe labor and tribute, elites owe protection and ritual mediation. Compliance burden is customary and predictable.
+
+__Impunity & Unredressed Wrong:__ Elite impunity is likely; wrongs by elites against commoners may go unredressed. The gap between justice owed and delivered is managed by ideology legitimating hierarchy.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is cosmological, not empirical; the paradigm is mythic, explaining the world through supernatural agency. Astronomical observation for calendrical purposes may exist but is not recorded.
+
+__Applied Knowledge & Technical Method:__ Techniques include basalt carving, jade polishing, earthwork construction, and hydraulic management. Methods are transmitted orally through apprenticeship; no written manuals exist.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge is held by specialists—priests, artisans, healers—and transmitted within lineages. Literacy is absent; skill distribution is narrow, concentrated in the heartland.
+
+__Obsolescence & Knowledge Decay:__ When La Venta declines, its specialist knowledge disperses; some techniques (colossal-head carving) are lost, others absorbed by successor cultures. Oral transmission is fragile; a generation's lapse can break the chain.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Olmec identity centers on the were-jaguar, the feathered serpent, the maize deity, and the supernatural realm accessed through trance and ritual. Memory of San Lorenzo ancestors may persist in oral genealogy.
+
+__Legitimating Narrative & Ideology:__ The elite's right to rule is grounded in descent from supernatural beings and successful mediation with cosmic forces. Monumental art proclaims this narrative visually; oral recitation fills in the story.
+
+__Artistic Expression & Material Culture:__ Material culture includes colossal basalt heads, altar-thrones, jade celts, serpentine mosaics, and ceramic figurines. Style emphasizes naturalism in portraiture, abstraction in supernatural imagery, and bilateral symmetry in layout.
+
+__Form Exhaustion & Meaning Decay:__ By the window's end, Olmec iconography spreads so widely that its original potency dilutes; successor cultures adopt motifs without the heartland's ritual authority. The defacement of La Venta's monuments signals exhaustion of the form's legitimating power.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is animated by supernatural forces—jaguar spirits, maize gods, ancestors—accessible through ritual and trance. Human existence is embedded in cycles of death and renewal mirroring agricultural seasons.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual includes offerings of jade, serpentine, and human sacrifice (probable but debated); bloodletting may accompany elite ceremonies. The Great Pyramid at La Venta is the axis mundi; ceremonies align with solstices and equinoxes.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood is documented, but elite figures combine political and religious roles. Doctrinal authority is personal, transmitted orally, and validated by successful ritual performance.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Olmec religious motifs spread to Oaxaca, the highlands, and beyond, but local traditions absorb rather than replace them. By 400 BCE, heartland cosmology is one tradition among several, no longer dominant.
+
+__Disenchantment & Sacred Discharge:__ The deliberate destruction of La Venta's sacred monuments—heads buried face-down, offerings smashed—indicates either ritual termination or repudiation of the sacred. The heartland's spiritual authority is discharged; successor centers must generate their own.
+

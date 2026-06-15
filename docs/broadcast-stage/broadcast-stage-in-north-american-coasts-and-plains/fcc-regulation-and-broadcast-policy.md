@@ -1,69 +1,139 @@
-# __1930 CE – 2005 CE__ — FCC Regulation and Broadcast Policy
-__Summary:__ A pan-temporal snapshot of American broadcast regulation across seventy-five years, from the Radio Act amendments through FCC creation, Fairness Doctrine era, deregulation, and digital transition planning; the binding constraint is spectrum scarcity requiring government allocation and the public-interest standard attached to licenses; the system holds margin for regulatory adjustment but faces capture by regulated industries and ideological pressure from both directions; the principal direction of change is from active public-interest enforcement toward market-based deregulation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Regulatory jurisdiction covers continental United States and territories; FCC licensing maps to geographic markets; signal propagation physics determines coverage areas and interference zones; topography influences station placement and power limits.<br><br>
-__Climate Regime & Volatility:__ Climate imposes no direct constraint on regulatory function; seasonal propagation variations (skip, tropospheric ducting) occasionally complicate interference management but remain within engineering margins.<br><br>
-__Hazard Regime & Exposure:__ Natural disasters damage broadcast infrastructure requiring emergency regulatory response — temporary power increases, frequency sharing, emergency broadcast activation; system absorbs regional disruptions without regulatory collapse.<br><br>
-__Resource & Energy Endowment:__ Electromagnetic spectrum is the finite resource requiring allocation; spectrum scarcity is the foundational rationale for broadcast regulation; endowment fixed by physics, allocation politically determined.<br><br>
-__Waste Absorption & Sink Capacity:__ Spectrum crowding is the relevant saturation concern; interference management prevents signal degradation; regulatory allocation prevents tragedy-of-the-commons exhaustion; physical waste from regulated industry flows to broader industrial sinks.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ No direct biological constraint on regulatory system; FCC personnel subject to general population health trends; no epidemic disrupts regulatory operations during the window.<br><br>
-__Nutrition & Physiological Vitality:__ Irrelevant to regulatory function; no direct biological impact from broadcast policy on population health documented, though childhood obesity debates later implicate television advertising.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ No direct relevance; indecency regulation tangentially addresses reproductive content in broadcasting but does not affect reproductive biology.<br><br>
-__Demographic Renewal & Density:__ Population growth increases broadcast markets and regulatory workload; urbanization concentrates licensing demands; demographic shifts inform minority ownership and programming diversity policies.<br><br>
-__Attrition & Dependency Overhang:__ Aging population not a direct regulatory concern; children's television regulations (Children's Television Act 1990) address youth dependency on broadcast content.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Regulatory system does not directly address subsistence; universal service concepts from telecommunications tangentially apply; broadcast access treated as public resource available to all with receivers.<br><br>
-__Energy Capture & Conversion:__ Electrical grid powers broadcast infrastructure; regulatory standards for transmitter efficiency and power limits indirectly govern energy conversion; no direct energy regulation by FCC.<br><br>
-__Labor Organization & Coercion:__ FCC does not regulate broadcast labor directly; union contracts and NLRB jurisdiction govern; ownership rules indirectly affect employment patterns through market structure.<br><br>
-__Production & Surplus Capacity:__ License scarcity creates oligopoly rents; regulatory policy determines how many competitors share advertising surplus; deregulation allows consolidation, concentrating surplus extraction among fewer owners.<br><br>
-__Storage, Reserves & Buffering:__ Regulatory archives maintained; FCC budget subject to congressional appropriation with limited reserves; regulated industry maintains substantial financial buffers.<br><br>
-__Exchange, Trade & Logistics:__ License trading regulated; ownership transfer requires FCC approval; market for stations develops with license value capitalized; 1996 Act relaxes caps, accelerating consolidation.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Broadcast licenses carry capitalized value; license renewal expectancy functions as property-like asset; credit markets fund acquisitions against license collateral.<br><br>
-__Surplus Extraction & Redistribution:__ Spectrum auction revenue (post-1994 for some services) extracts value for Treasury; broadcast licenses historically granted free with public-interest obligations substituting for payment; this implicit subsidy redistributes value to licensees.<br><br>
-__Wealth Distribution & Asset Defense:__ License scarcity concentrates wealth among station owners; minority ownership policies attempt redistribution with limited success; media consolidation post-1996 further concentrates broadcast wealth.<br><br>
-__Byproducts & Waste Routing:__ Regulatory process generates documentary byproducts — filings, decisions, archives — stored in federal records; no significant physical waste stream from regulatory function itself.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Public-interest standard assumes broadcast serves community trust; Fairness Doctrine attempts to maintain balanced information for democratic deliberation; trust in regulatory fairness varies with political climate and perceived capture.<br><br>
-__Stratification, Status & Group Identity:__ Ownership rules attempt to diversify license holders; minority and female ownership preferences contested and limited by courts; programming diversity requirements address representation; stratification patterns reproduced despite regulatory intervention.<br><br>
-__Kinship, Family & Inheritance:__ License inheritance permitted with FCC approval; family-owned stations common, especially in radio; concentration rules affect ability to build family broadcast empires.<br><br>
-__Civic Association & Self-Organization:__ Citizen groups file petitions to deny license renewals; public-interest advocacy organizations (Media Access Project, United Church of Christ) participate in regulatory process; civic engagement in broadcast policy active but specialized.<br><br>
-__Leisure, Play & Sociability:__ Regulatory decisions shape available entertainment; indecency rules affect content; safe-harbor provisions govern timing of adult material; sociability patterns indirectly shaped by permitted content.<br><br>
-__Grievance Channels & Social Discharge:__ FCC complaint process provides grievance channel; license renewal challenges allow community input; process cumbersome and outcomes rare; substantial frustration with regulatory responsiveness accumulates among advocacy groups.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ FCC exercises delegated congressional authority under Commerce Clause; five commissioners appointed by President, confirmed by Senate; no more than three from same party; chair sets agenda; authority concentrated but checked by courts and Congress.<br><br>
-__Succession & Power Transfer:__ Commissioner terms staggered; chair serves at presidential pleasure; partisan balance shifts with administrations; institutional continuity maintained through career staff; power transfer routinized and non-violent.<br><br>
-__Legitimacy & Political Narrative:__ Public-interest standard provides legitimacy narrative; spectrum as public resource justifies regulation; deregulatory narrative frames market competition as superior allocator; legitimacy contested between these frameworks across the window.<br><br>
-__Administrative Capacity & Institutional Integrity:__ FCC maintains licensing databases, rulemaking capacity, and enforcement staff; engineering expertise adequate; revolving door between agency and industry raises capture concerns; integrity questioned but not collapsed.<br><br>
-__Political Participation & Mobilization:__ Industry lobbying intense; broadcast license holders exercise political influence; citizen groups mobilize around ownership and content issues; congressional oversight hearings provide public forum; participation skewed toward well-resourced interests.<br><br>
-__Geopolitical Position & External Relations:__ FCC coordinates spectrum allocation with Canada and Mexico through treaties; international telecommunications agreements negotiated through State Department and ITU; no foreign regulatory interference in domestic broadcast policy.<br><br>
-__Coercive Apparatus & Means of Force:__ FCC enforcement relies on fines, license conditions, and revocation threat; no direct coercive apparatus; Department of Justice prosecutes criminal violations; coercion minimal and procedural.<br><br>
-__Internal Order & Threat Environment:__ Regulatory process orderly; legal challenges routine but resolved through courts; no violence or systemic disorder; internal order well maintained; enforcement capacity adequate for compliance regime.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ FCC rulemaking published in Federal Register; decisions disseminated through legal databases and trade press; regulatory information reaches affected parties rapidly; public awareness of broadcast policy limited to major controversies.<br><br>
-__Record, Storage & Persistence:__ FCC maintains comprehensive archives of filings, decisions, and license records; FOIA requests provide access; records persist in federal archives; historical continuity of regulatory record strong.<br><br>
-__Framing, Censorship & Discourse Norms:__ FCC content regulation — indecency rules, children's programming requirements — directly shapes broadcast discourse; Fairness Doctrine (1949–1987) mandates issue balance; repeal shifts framing power to market forces and editorial discretion.<br><br>
-__Reception, Attention & Amplification:__ Regulatory decisions receive trade press coverage; major controversies (indecency fines, ownership rules) attract general media attention; public attention episodic; industry attention continuous and intense.<br><br>
-__Signal Integrity & Noise Load:__ Legal precision of FCC orders maintains signal clarity for regulated parties; ambiguous rules generate litigation; industry lobbying introduces noise into policy process; verification through judicial review provides error correction.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public-interest standard embeds fairness norm; spectrum as public trust creates stewardship obligation; sense of justice requires equitable access and balanced content; these foundations erode under deregulatory pressure emphasizing property rights and market efficiency.<br><br>
-__Law, Codification & Regulatory Evolution:__ Radio Act 1927; Communications Act 1934 creates FCC; Fairness Doctrine 1949; deregulation 1980s; Telecommunications Act 1996; regulatory evolution from public-interest model toward market model; digital transition mandates 2000s.<br><br>
-__Adjudication, Enforcement & Liability:__ FCC adjudicates license disputes, indecency complaints, and rule violations; Administrative Procedure Act governs process; federal courts review FCC decisions; enforcement active but resource-constrained; liability imposed through fines and license conditions.<br><br>
-__Rights, Protections & Compliance Burden:__ Licensees bear compliance burden for public-interest obligations, ownership rules, technical standards; First Amendment constrains content regulation; procedural due process required; compliance costs substantial for smaller licensees.<br><br>
-__Impunity & Unredressed Wrong:__ Enforcement discretion allows selective prosecution; powerful licensees negotiate settlements; citizen complaints often dismissed; backlog creates delay; some regulatory wrongs go unredressed where resources or will are lacking.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Communications policy scholarship develops at law schools and research institutes; media economics informs deregulation; public-interest theory contests market theory; no single paradigm dominates; empirical research on ownership effects contested.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering standards for broadcast transmission developed through FCC rulemaking and industry bodies; interference analysis, coverage prediction, and spectrum management techniques refined across the window; digital transition requires new technical frameworks.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Communications law taught at law schools; FCC staff expertise maintained through career service; industry expertise in regulatory compliance widespread; public understanding of broadcast regulation limited.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog regulatory frameworks become obsolete as digital transition proceeds; institutional memory of earlier regulatory approaches fades; some historical understanding lost but core legal precedents preserved in case law.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ FCC embodies New Deal regulatory confidence; public-airwaves concept carries democratic legitimacy; Murrow and Fairness Doctrine era remembered as golden age by public-interest advocates; deregulatory narrative frames this as outdated paternalism.<br><br>
-__Artistic Expression & Material Culture:__ Regulatory content rules constrain artistic expression in broadcasting; indecency standards shape creative choices; children's programming requirements affect production; cultural artifacts of regulation include warning announcements and safe-harbor scheduling.<br><br>
-__Collective Mood & Behavioral Disposition:__ Regulatory mood shifts from interventionist confidence (1930s–1970s) through deregulatory enthusiasm (1980s–1990s) to fragmented uncertainty (2000s); public mood toward FCC oscillates between indifference and outrage over specific controversies (wardrobe malfunction, ownership consolidation).<br><br>
-__Form Exhaustion & Meaning Decay:__ Public-interest language persists in statute but loses operational meaning under deregulation; Fairness Doctrine repeal empties balance requirements; regulatory forms maintained while substance hollows; meaning decay evident in gap between statutory language and enforcement practice.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Regulatory system operates within secular administrative framework; no explicit cosmology; implicit faith in rational governance and public deliberation underlies public-interest model; market faith underlies deregulatory approach.<br><br>
-__Ritual, Devotion & Sacred Practice:__ License renewal cycles provide regulatory ritual; commission meetings follow procedural liturgy; no sacred dimension except insofar as democratic process carries quasi-sacred legitimacy.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious broadcasters subject to same licensing requirements; no doctrinal authority exercised by FCC over religious content; educational noncommercial licenses serve some religious institutions; regulatory stance neutral toward religious expression within indecency limits.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No spiritual diffusion through regulatory system itself; policy debates occasionally invoke higher principles — free speech, democratic participation — but these are civic rather than spiritual; no syncretism or displacement dynamics apply.<br><br>
-__Disenchantment & Sacred Discharge:__ Administrative rationality disenchants broadcast governance; public-interest idealism fades into procedural routine; no sacred discharge mechanism; regulatory system accumulates bureaucratic fatigue and cynicism about capture without renewal of animating vision.<br><br>
+# __1930 CE – 2005 CE — FCC Regulation and Broadcast Policy__
+
+__Summary:__ The Federal Communications Commission, established in 1934 to manage spectrum scarcity and enforce the "public interest" standard, functions as the binding constraint shaping American broadcast structure — its licensing decisions create the network oligopoly, its content rules define permissible speech, and its deregulatory turn in the 1980s enables the consolidation and fragmentation that transform the industry.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Radio waves propagate according to physics, not political boundaries; the FCC's authority extends to the continental United States and its territories, while Canadian (CRTC) and Mexican regulators control adjacent spectrum, requiring international coordination to prevent interference along the borders.
+
+__Climate Regime & Volatility:__ Atmospheric conditions affect transmission — ionospheric bounce enables long-distance AM propagation at night, necessitating power reductions to prevent interference; the FCC incorporates these physical realities into its allocation tables.
+
+__Hazard Regime & Exposure:__ Emergency broadcast requirements (CONELRAD, later EBS and EAS) mandate that stations transmit alerts during natural disasters and national emergencies; the FCC enforces these protocols through license conditions.
+
+__Resource & Energy Endowment:__ Electromagnetic spectrum is the scarce resource the FCC manages; its finite character within any geographic area justifies government allocation rather than market competition, though unlicensed bands (WiFi spectrum, 1985) later demonstrate alternative approaches.
+
+__Waste Absorption & Sink Capacity:__ Spectrum pollution — interference from unlicensed transmitters, equipment malfunction, or foreign signals — falls under FCC enforcement jurisdiction; field offices locate and silence illegal broadcasters throughout the period.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ FCC regulation does not directly address health, though broadcast content rules affect public health messaging capacity; the commission's classification of broadcast as a public trust enables health campaigns to reach universal audiences.
+
+__Nutrition & Physiological Vitality:__ Advertising regulation, particularly of tobacco (banned from broadcast in 1971) and alcohol (voluntarily restricted), shapes consumer exposure to products with health consequences; children's advertising rules (1974, 1990) address youth vulnerability.
+
+__Care, Healing & Recovery Capacity:__ Broadcast licensing creates the infrastructure through which public health authorities communicate during epidemics and emergencies; the system's reach justifies its regulatory burden.
+
+__Reproductive Biology & Pairing Dynamics:__ Indecency rules affect broadcast treatment of sexuality; the FCC's distinction between obscene (prohibited), indecent (restricted to late night), and merely offensive (permitted) content shapes how reproductive and sexual health information reaches audiences.
+
+__Demographic Renewal & Density:__ Population growth and urbanization increase demand for broadcast licenses; the FCC's allocation decisions determine how many stations serve each market, with denser areas receiving more licenses but also more interference challenges.
+
+__Attrition & Dependency Overhang:__ Children and elderly viewers receive special regulatory attention; the Children's Television Act (1990) mandates educational programming, while closed captioning requirements (1990s) address hearing impairment in aging audiences.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Free over-the-air broadcasting, enabled by the advertising model the FCC permits, provides information and entertainment without direct cost to viewers, functioning as a de facto public utility despite private ownership.
+
+__Energy Capture & Conversion:__ FCC technical standards govern transmitter power levels, balancing coverage area against interference; higher power requires larger facilities and more energy consumption, affecting station operating costs.
+
+__Labor Organization & Coercion:__ The FCC does not directly regulate broadcast labor relations, though license renewals can consider employment practices; equal employment opportunity rules (1969) require stations to demonstrate non-discriminatory hiring.
+
+__Production & Surplus Capacity:__ Spectrum scarcity creates artificial scarcity of broadcast licenses, generating monopoly rents that license holders capture; the FCC's refusal to auction spectrum until 1994 transfers these rents from the public to private licensees.
+
+__Storage, Reserves & Buffering:__ Stations must maintain program logs and technical records for FCC inspection; these requirements create compliance costs but also preserve historical documentation of broadcast content.
+
+__Exchange, Trade & Logistics:__ FCC approval governs station sales and transfers; ownership rules limiting concentration affect transaction values and deal structures throughout the industry.
+
+__Value Storage, Credit & Deferred Exchange:__ Broadcast licenses, though technically non-transferable, acquire enormous market value reflected in station sale prices; the FCC tolerates this secondary market while maintaining nominal public ownership of spectrum.
+
+__Surplus Extraction & Redistribution:__ License fees remain nominal until the 1990s, when Congress mandates spectrum auctions for new allocations; billions in auction revenue flow to the Treasury, belatedly capturing value the earlier licensing regime gave away.
+
+__Wealth Distribution & Asset Defense:__ Ownership caps (the "7-7-7" rule limiting one entity to seven AM, seven FM, and seven TV stations) prevent concentration until deregulation raises and eventually eliminates these limits; the Telecommunications Act of 1996 enables unprecedented consolidation.
+
+__Byproducts & Waste Routing:__ Compliance costs — legal fees, engineering consultations, license renewal paperwork — represent transaction costs the regulatory system imposes; these costs favor large incumbents over potential new entrants.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Station ownership often passes within families (broadcasting dynasties), with FCC transfer approval a formality for compliant licensees; family-controlled stations persist alongside corporate chains until consolidation accelerates in the 1990s.
+
+__Association & Mutual Aid:__ Industry associations — the National Association of Broadcasters (NAB), state broadcast associations — lobby the FCC and Congress, coordinating licensee interests and providing collective representation before regulators.
+
+__Leisure, Play & Sociability:__ FCC content rules shape what entertainment reaches households; the "family hour" policy (struck down in 1976 but informally observed) and safe harbor provisions (indecency permitted only 10 PM – 6 AM) structure when different content types air.
+
+__Stratification, Status & Group Structure:__ Minority ownership remains minimal throughout the period despite FCC initiatives (tax certificate program, 1978–1995; comparative licensing preferences); the broadcast industry's ownership structure reflects and reinforces broader racial wealth disparities.
+
+__Administrative Capacity & Institutional Integrity:__ The FCC itself evolves from a small New Deal agency to a major regulatory bureaucracy, with five commissioners appointed by the President and confirmed by the Senate; its Mass Media Bureau (later Media Bureau) administers broadcast policy through hundreds of staff.
+
+__Coercive Apparatus & Means of Force:__ The FCC wields license revocation as its ultimate sanction, though this power is rarely exercised; fines, short-term renewals, and public shaming provide graduated enforcement mechanisms.
+
+__Discharge, Disorder & Decay:__ Regulatory capture — the tendency of regulated industries to influence their regulators — affects FCC decision-making throughout the period; commissioners frequently move to industry positions, and industry lawyers staff the agency; reform efforts produce periodic restructuring without resolving underlying tensions.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Public attitudes toward regulation shift from New Deal confidence in government oversight through Vietnam-era skepticism to Reagan-era hostility; these shifts enable the deregulatory turn of the 1980s.
+
+__Leadership & Personal Authority:__ FCC chairmen shape policy direction — Newton Minow's "vast wasteland" speech (1961) articulates public interest obligations, while Mark Fowler's market-oriented approach (1981–1987) dismantles Fairness Doctrine enforcement and loosens ownership rules.
+
+__Legitimacy as Lived Allegiance:__ The FCC's legitimacy rests on its role as public trustee of the airwaves; this framing erodes as deregulation redefines broadcasters as businesses serving consumer preferences rather than citizens serving public needs.
+
+__Political Will & Collective Resolve:__ Congressional oversight, White House appointments, and court review constrain FCC discretion; major policy changes (UHF allocation, cable regulation, digital transition) require sustained political attention and often legislative action.
+
+__External Relations & Posture:__ The FCC coordinates with international bodies (ITU) on spectrum allocation and with neighboring countries on border interference; Cold War concerns about foreign propaganda broadcasts inform some policy decisions.
+
+__Disaffection, Apathy & Spent Will:__ By 2005, critics from both left (media consolidation) and right (content regulation) attack the FCC's approach; the agency's Janet Jackson "wardrobe malfunction" response (2004) draws ridicule, suggesting exhausted authority.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ FCC rules ensure universal broadcast availability — technical standards enable interoperability, must-carry rules (for cable, 1992) preserve local station access, and public interest obligations theoretically guarantee community-relevant content.
+
+__Channels & Transmission Velocity:__ Spectrum allocation decisions directly determine how many broadcast channels exist; the Sixth Report and Order (1952) establishes the television allocation table that shapes the industry for decades, including UHF assignments that prove commercially disadvantageous.
+
+__Record, Storage & Persistence:__ FCC records — license applications, ownership reports, complaint files — document broadcast history; Freedom of Information Act access makes these records available to researchers and advocates.
+
+__Framing, Censorship & Discourse Norms:__ The Fairness Doctrine (1949–1987) requires balanced coverage of controversial issues; its elimination removes this constraint, enabling partisan talk radio (Rush Limbaugh, 1988) and eventually partisan cable news.
+
+__Reception, Attention & Amplification:__ FCC rules affect what reaches audiences but not how audiences process it; the agency lacks authority over programming decisions beyond content restrictions, leaving editorial judgment to licensees.
+
+__Signal Integrity & Noise Load:__ Technical standards and interference enforcement maintain signal quality; the transition to digital broadcasting (mandated 1996, completed 2009) promises improved reception but requires receiver replacement.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The "public interest, convenience, and necessity" standard — inherited from the Radio Act of 1927 — embeds a Progressive Era conception of spectrum as public resource; this foundation erodes as market ideology displaces public trusteeship.
+
+__Law, Codification & Regulatory Evolution:__ The Communications Act of 1934 establishes the FCC's authority; amendments (1996 Telecommunications Act), court decisions (Red Lion, 1969; Pacifica, 1978), and FCC rulemaking continuously reshape the regulatory framework.
+
+__Adjudication, Liability & Sanction:__ License renewals, transfer approvals, and complaint adjudications constitute FCC's quasi-judicial functions; formal hearings are rare, with most decisions made administratively; courts review FCC actions under deferential standards.
+
+__Rights, Protections & Compliance Burden:__ First Amendment protections for broadcasters are weaker than for print media, justified by spectrum scarcity; licensees accept content restrictions as conditions of their spectrum use privilege.
+
+__Impunity & Unredressed Wrong:__ Major broadcasters rarely face serious sanction; license revocations are vanishingly rare, fines are absorbed as business costs, and the agency lacks resources for systematic enforcement; violations accumulate without meaningful consequence until they become normalized practice.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Communications policy draws on engineering (spectrum allocation), economics (market structure), and law (First Amendment); these disciplines compete to define the problems the FCC should solve and the methods it should use.
+
+__Applied Knowledge & Technical Method:__ FCC engineering staff establish technical standards — NTSC for color television (1954), ATSC for digital (1996) — that determine equipment compatibility and industry investment requirements.
+
+__Education, Knowledge Stock & Skill Distribution:__ Communications law emerges as a specialty; law schools, engineering programs, and policy institutes train the lawyers, engineers, and economists who staff the FCC and the industries it regulates.
+
+__Obsolescence & Knowledge Decay:__ Regulatory frameworks designed for broadcast radio and television struggle to accommodate cable, satellite, and internet distribution; institutional knowledge of spectrum management remains relevant while content regulation concepts become increasingly anachronistic.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The "public airwaves" concept — spectrum as collectively owned resource — provides ideological grounding for regulation; this myth competes with market-freedom narratives that gain strength through the period.
+
+__Legitimating Narrative & Ideology:__ Public interest rhetoric legitimates FCC authority in the New Deal through Great Society era; deregulatory ideology (broadcasters as marketplace competitors) displaces it from the 1980s forward.
+
+__Artistic Expression & Material Culture:__ Content regulation affects what creative work reaches broadcast audiences; the line between permissible and impermissible shifts — 1950s restrictions give way to 1970s loosening, followed by 1980s–1990s re-tightening after congressional pressure.
+
+__Form Exhaustion & Meaning Decay:__ The "public interest" standard, never precisely defined, becomes increasingly hollow as FCC enforcement weakens; by 2005, the phrase functions as ritual invocation rather than operational constraint, its meaning exhausted through non-enforcement.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The regulatory framework embeds a secular civic cosmology — the public as sovereign, spectrum as shared inheritance, broadcasters as trustees — without explicit religious content; this civic faith parallels religious worldviews without invoking them.
+
+__Ritual, Devotion & Sacred Practice:__ License renewal, spectrum auctions, and public comment proceedings constitute regulatory rituals; participants invoke public interest language in formulaic ways that echo liturgical practice.
+
+__Religious Institutions & Doctrinal Authority:__ The FCC allocates some noncommercial licenses to religious broadcasters; rules prohibit explicit religious discrimination in licensing but permit religious organizations to own and operate stations.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Broadcast regulation enables both religious programming's reach and secular culture's dominance; the FCC's content-neutral approach allows market forces to determine the balance, which trends secular.
+
+__Disenchantment & Sacred Discharge:__ The public interest ideal — broadcasters as civic trustees serving democratic deliberation — loses credibility as commercialism and partisanship dominate; by 2005, faith in regulation as public protection has largely evaporated, leaving cynicism about captured agencies serving concentrated interests; the civic sacred is not re-anchored but left as residue, awaiting either renewal or permanent secularization of the regulatory enterprise.

@@ -1,69 +1,140 @@
-# __4500 BCE – 3600 BCE__ — Chalcolithic Florescence and Early Metallurgy
-__Summary:__ A nine-century window of cultural efflorescence in the southern Levant marked by the emergence of copper metallurgy, the crystallization of the Ghassulian and Beer Sheba cultures, and the appearance of marked social differentiation expressed through elite prestige goods, specialized ritual sites, and regional settlement hierarchies; the binding constraint is the uneven distribution of metallurgical knowledge and copper sources, which concentrates wealth and status in the hands of specialist communities; system margin is moderate with agricultural and pastoral production adequate but social tensions accumulating around emerging inequality; the principal direction is toward increasing complexity, craft specialization, and proto-hierarchical organization foreshadowing Early Bronze Age urbanism.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Levantine corridor retains its structure; the Jordan Rift provides north–south transit while the Negev highlands and Beer Sheba basin open new settlement zones; the Wadi Feinan copper source in the Arabah becomes strategically significant; coastal plain, central hills, and Transjordan remain distinct ecological units.<br><br>
-__Climate Regime & Volatility:__ Mid-Holocene optimum continues with sufficient rainfall for rainfed agriculture in favored zones; Negev margins remain semi-arid, requiring pastoral adaptation or runoff irrigation; no catastrophic climate shift attested within this window.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk persists along the Dead Sea Transform; flash floods in Negev wadis episodic; drought risk in marginal zones requires mobility as buffer; no catastrophic events documented in the archaeological record for this period.<br><br>
-__Resource & Energy Endowment:__ Copper ores at Wadi Feinan and Timna accessible with emerging smelting technology; arable land adequate in Jordan Valley and coastal plain; flint sources remain productive; basalt for groundstone available in Golan and Galilee; timber increasingly scarce near settlements.<br><br>
-__Waste Absorption & Sink Capacity:__ Copper smelting generates slag and toxic residues concentrated at production sites; agricultural and pastoral waste absorbed by local soils; localized degradation near smelting centers but regional absorptive capacity not yet strained.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic infections persist; aggregation at larger sites and ritual centers may increase transmission; no epidemic events attested; mortality stable at moderate Neolithic levels.<br><br>
-__Nutrition & Physiological Vitality:__ Diet diversifies with possible olive and grape cultivation supplementing cereals, legumes, and dairy; meat from domestic herds adequate; nutritional status stable to improving; skeletal evidence suggests reasonable health without major stress markers.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Household formation and pair-bonding continue established patterns; possible polygyny among emerging elites but not widely attested; fertility adequate for population maintenance and growth.<br><br>
-__Demographic Renewal & Density:__ Population growing and spreading into previously marginal zones including the Negev; settlement hierarchy emerging with small sites, villages, and a few larger centers; density increasing but well below carrying ceiling; positive demographic trajectory.<br><br>
-__Attrition & Dependency Overhang:__ Dependent care remains household responsibility; emerging social differentiation may provide elite households greater capacity to absorb dependents; no evidence of unsustainable dependency load.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed agropastoral economy with cereals, legumes, possibly olives and grapes, plus goat, sheep, cattle, and pig husbandry; pastoral transhumance links highlands and lowlands; subsistence floor secure with diversified strategies.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; ox traction for plowing extends cultivation capacity; fire for smelting copper represents significant energy investment; charcoal production for metallurgy draws on woodland fuel; per-capita work ceiling rising with animal power and metallurgical output.<br><br>
-__Labor Organization & Coercion:__ Household labor predominates; craft specialization emerging with metal workers, ivory carvers, and potters; no evidence of coerced labor but specialist production implies coordination beyond household; emerging status differences may translate to labor asymmetries.<br><br>
-__Production & Surplus Capacity:__ Ghassulian painted pottery, basalt vessels, ivory carvings, and copper objects indicate significant surplus channeled into craft production; Nahal Mishmar hoard with 400+ copper objects demonstrates sophisticated lost-wax casting; production capacity substantially above subsistence.<br><br>
-__Storage, Reserves & Buffering:__ Ceramic storage ubiquitous; pits and silos for grain; herd animals serve as mobile reserves; communal storage at some sites; reserves adequate for interannual variation; the Nahal Mishmar cache itself may represent stored wealth or ritual deposit.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks bring copper ore from the Arabah, shells from Mediterranean and Red Sea, possibly ivory from Egypt; internal exchange links Beer Sheba metallurgical centers with Ghassulian agricultural villages; regional market not attested but exchange intensive.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Value stored in copper objects, ivory, prestige goods, and herds; no monetary instruments; deferred reciprocity and gift exchange structure elite transactions; copper objects may function as proto-currency for high-value exchanges.<br><br>
-__Surplus Extraction & Redistribution:__ Emerging elites at sites like Gilat and larger villages may extract and redistribute surplus through feasting and ritual provisioning; no formal taxation; redistribution embedded in kinship and emerging patron-client relations.<br><br>
-__Wealth Distribution & Asset Defense:__ Marked concentration visible in elite burials, prestige hoards, and differential access to metal goods; maceheads and other status markers indicate inequality; asset defense through social networks and possibly physical protection; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Copper smelting produces slag concentrated at production sites; ceramic production generates kiln waste; animal husbandry produces manure recycled as fuel; waste routing functional but metallurgical residues accumulating locally.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks center on kinship and craft association; emerging elites cultivate clientage; reciprocity intact within communities but differentiation strains traditional mutuality; trust radius stable but increasingly hierarchical.<br><br>
-__Stratification, Status & Group Identity:__ Clear status differentiation emerging; metallurgical specialists, ritual leaders, and successful herders accumulate prestige; group identity tied to locality, craft, and emerging elite lineages; boundaries hardening but not yet rigid.<br><br>
-__Kinship, Family & Inheritance:__ Kinship remains foundational; elite lineages may consolidate property and status across generations; inheritance rules favor kin continuity; marriage alliances link communities and cement elite networks.<br><br>
-__Civic Association & Self-Organization:__ Village councils and elder assemblies continue; craft guilds or specialist associations emerging around metallurgy and other crafts; ritual associations at cult centers like Gilat coordinate regional activities; associational fabric thickening.<br><br>
-__Leisure, Play & Sociability:__ Ritual gatherings at cult centers provide occasions for sociability; elaborate material culture (painted vessels, ivory objects) indicates investment in display and aesthetic engagement; communal feasting attested archaeologically.<br><br>
-__Grievance Channels & Social Discharge:__ Kinship mediation continues; emerging elites may arbitrate disputes; mobility remains an exit option; cult centers may provide ritual discharge; some grievances accumulate around inequality, generating low-level instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Chiefdom-level organization emerging; local big-men or chiefs at larger sites command followers through redistribution and ritual authority; power concentrated but not yet institutionalized; no regional state.<br><br>
-__Succession & Power Transfer:__ Leadership likely combines achievement and descent; no hereditary offices attested but elite lineages gaining advantage; transfer contested through competition and alliance-building.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimized through ritual competence, generosity in redistribution, and access to prestige goods; oral narratives may elaborate ancestral claims; no state ideology but proto-political discourse emerging.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No formal administration; coordination through personal networks and kin ties; record-keeping absent; decision-making informal but elites increasingly directive.<br><br>
-__Political Participation & Mobilization:__ Adult males participate in community decisions; mobilization for communal projects (irrigation, defense) possible; emerging elites organize followers; no formal political factions but competing lineages active.<br><br>
-__Geopolitical Position & External Relations:__ No state-level diplomacy; relations with Egypt minimal but some exchange contact; relations between communities mediated through exchange, alliance, and occasional raiding; northern Syrian contacts through exchange networks.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing army; copper weapons (maceheads, axes) available to elites; projectile points and tools serve broader population; fortification absent at most sites; coercive capacity limited but increasing with metal weapons.<br><br>
-__Internal Order & Threat Environment:__ Raiding and livestock theft possible; competition for copper sources may generate conflict; internal order maintained through kinship sanctions and elite mediation; disorder low but tensions around inequality accumulating.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at walking pace via personal contact, trade routes, and kinship networks; seasonal and ritual gatherings at cult centers amplify transmission; regional reach through exchange partners.<br><br>
-__Record, Storage & Persistence:__ No writing system exists; all information stored in human memory and oral tradition; specialist knowledge (metallurgy, ritual) transmitted through apprenticeship and initiation; persistence depends entirely on living memory and continued oral transmission; knowledge lost with death of specialists if not passed on.<br><br>
-__Framing, Censorship & Discourse Norms:__ Ritual specialists and elites control sacred and technical knowledge; no formal censorship; discourse shaped by kinship etiquette and emerging status hierarchies; taboos around metallurgical and ritual secrets.<br><br>
-__Reception, Attention & Amplification:__ Cult centers like Gilat and En-Gedi focus attention and amplify ritual messages; prestige goods communicate status; attention concentrated on practical and ritual concerns; no mass media.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission subject to drift; specialist knowledge more carefully conserved; verification through demonstration and consensus; noise manageable but increasing with regional complexity.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice rooted in kinship reciprocity and proportional compensation; concepts of honor and shame influence conflict resolution; emerging elite justice may favor the powerful.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; custom and oral precedent govern conduct; evolution through elite arbitration and community consensus; rules around metallurgical production and sacred sites may crystallize.<br><br>
-__Adjudication, Enforcement & Liability:__ Elders, lineage heads, and emerging chiefs adjudicate disputes; enforcement through social pressure and kinship obligation; liability collective at kin-group level; elite mediation increasingly important.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy constrained by kinship and emerging status hierarchy; protection derives from kin group and elite patronage; compliance burden informal but sharpening with social differentiation.<br><br>
-__Impunity & Unredressed Wrong:__ Emerging elites may escape sanctions more easily; wrongs against lower-status individuals harder to redress; some grievances accumulate unresolved, feeding potential instability.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Practical experimentation in metallurgy represents significant technical discovery; pyrotechnological knowledge advancing; agricultural and pastoral techniques refined; explanatory paradigms embedded in cosmological narratives.<br><br>
-__Applied Knowledge & Technical Method:__ Lost-wax casting demonstrated by Nahal Mishmar hoard; copper smelting from ore; ivory carving; basalt vessel production; ceramic decoration; practical methods transmitted through specialist apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Specialist training for metallurgists and carvers; household-based transmission for general skills; knowledge stock expanding with metallurgical techniques; skill distribution increasingly unequal as specialists concentrate expertise.<br><br>
-__Obsolescence & Knowledge Decay:__ Some earlier lithic traditions declining as metal tools spread; ceramic and architectural knowledge stable; rate of innovation outpacing decay; overall knowledge stock growing.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and ancestral memories shape identity; Ghassulian painted frescoes at Teleilat el-Ghassul depict geometric and possibly narrative scenes; identity rooted in lineage, locality, craft, and cult association.<br><br>
-__Artistic Expression & Material Culture:__ Ghassulian painted pottery with elaborate designs; wall paintings; ivory figurines and carvings; basalt fenestrated bowls; copper standards and crowns; material culture reaches new heights of elaboration and symbolic density.<br><br>
-__Collective Mood & Behavioral Disposition:__ Period of confident expansion and innovation; investment in prestige goods and ritual architecture suggests optimistic collective mood; risk-taking in metallurgical experimentation and marginal settlement; no evidence of generalized anxiety.<br><br>
-__Form Exhaustion & Meaning Decay:__ Ghassulian forms vital and proliferating; no evidence of form exhaustion; symbolic vocabulary expanding; cultural production innovative rather than repetitive.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic and ancestral worldview persists; natural and supernatural forces shape understanding; possible astral symbolism in Ghassulian wall paintings; fatalism balanced by ritual agency and emerging elite mediation with the divine.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Cult centers at Gilat and En-Gedi indicate regional pilgrimage and communal ritual; elaborate burial practices; figurines and cultic objects; household and community rituals mark agricultural and pastoral cycles.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Ritual specialists at cult centers exercise authority; no formal priesthood but emerging specialization; sacred knowledge controlled by ritual leaders; institutional development incipient.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Regional cult networks spread shared practices; possible influence from Egyptian or Syrian traditions through exchange contacts; no dramatic displacement; syncretic tendencies as communities interact.<br><br>
-__Disenchantment & Sacred Discharge:__ Cosmological framework intact and vital; ritual elaboration indicates strong sacred engagement; no evidence of secularizing drift; spiritual needs addressed through flourishing cult practices.<br><br>
+# __4,500 BCE – 3,600 BCE__ — Chalcolithic Florescence and Early Metallurgy
+
+__Summary:__ A Static Snapshot of Levantine society at its Chalcolithic apex, when Ghassulian communities across the northern Negev, Jordan Valley, and Golan achieve unprecedented craft specialization, copper metallurgy, temple architecture, and mortuary elaboration—yet remain bound by the oral constraint. Every smelting recipe, every priestly formula, every lineage claim to prestige goods exists only in spoken word and demonstrated practice; institutional memory depends wholly on initiated custodians, and the emerging hierarchy rests on knowledge that dies with its holders. The single most causal factor is specialized craft production: metallurgy and prestige-good manufacture create new axes of status, concentrate surplus, and drive social differentiation without generating the written records that would later stabilize such complexity.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Ghassulian settlement concentrates in the northern Negev (Beersheba basin), Jordan Valley (Teleilat Ghassul), Golan basalt plateau, and Mediterranean coastal fringe, exploiting diverse micro-environments—irrigable wadi fans, steppe pasture, upland springs—linked by donkey caravan routes that reduce friction for copper ore, bitumen, and prestige goods moving across ecological zones.
+
+__Climate Regime & Volatility:__ Late mid-Holocene conditions: somewhat drier than the early Holocene optimum but still wetter than present, with winter rains sufficient for rain-fed barley in the hills and floodwater farming in the Negev wadis; interannual variability manageable within pastoral-agricultural buffering; no major climatic shock within the window.
+
+__Hazard Regime & Exposure:__ Seismic risk along the Jordan Rift threatens mudbrick architecture; flash floods imperil wadi-floor settlements; drought exposure rises as settlement pushes into semi-arid margins, but pastoral mobility absorbs shortfalls; hazard margin adequate for the prevailing settlement pattern.
+
+__Resource & Energy Endowment:__ Copper ore accessible in Wadi Feinan and Timna (southern Arabah); basalt for grinding, limestone for vessels, and flint for tools locally abundant; bitumen from the Dead Sea; firewood and acacia charcoal fuel smelting; drawdown intensifies but remains below exhaustion for the snapshot window.
+
+__Waste Absorption & Sink Capacity:__ Smelting slag accumulates at production sites; village middens grow; grazing pressure thins steppe vegetation locally; sink capacity strained near intensive centers but landscape-scale degradation not yet critical.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Dense villages and crowded mortuary sites elevate disease transmission; zoonotic exposure continues from herds; endemic gastrointestinal and respiratory infections keep infant mortality high; adult life expectancy around thirty to thirty-five years, baseline stable.
+
+__Nutrition & Physiological Vitality:__ Mixed diet of grain, legumes, dairy, meat, olives, and dates provides adequate calories; skeletal evidence shows modest stature but no systemic malnutrition; episodic stress leaves dental markers but no famine signatures.
+
+__Care, Healing & Recovery Capacity:__ Healing transmitted orally—herbal remedies, wound-tending, midwifery—within kin networks and possibly priestly circles; recovery capacity matches ordinary load; no specialized medical institution.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility offsets high infant mortality; pair-bonding regulated by kin and perhaps shrine authority; reproductive biology unconstrained; early marriage for women.
+
+__Demographic Renewal & Density:__ Population at regional peak for the pre-urban era; villages reach several hundred inhabitants; age structure young; migration fills new settlements and specialist camps (e.g., smelting sites); density highest in northern Negev and Jordan Valley.
+
+__Attrition & Dependency Overhang:__ Orphaned, widowed, and aged absorbed into kin households; ossuaries suggest collective mortuary care crossing immediate kin; dependency load modest relative to productive base.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Barley, wheat, lentils, olives, and dates form the staple base; goat and sheep herds provide milk, meat, and fiber; cattle and pigs secondary; donkey enables transport; provisioning secure except at desert margins.
+
+__Energy Capture & Conversion:__ Human labor primary; donkey caravan extends transport range; charcoal-fired furnaces achieve temperatures sufficient for copper smelting (~1,100°C); per-capita energy ceiling rises with metallurgy and animal transport.
+
+__Labor Organization & Coercion:__ Craft specialists (smiths, potters, ivory-carvers) emerge, supported by agricultural surplus; labor still organized by household and kin, but specialist roles may be semi-hereditary; corvée and slavery unattested; reciprocal labor exchange persists.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports craft specialization and temple construction; copper artifacts, ivory carvings, and elaborated ceramics represent value crystallized; surplus flow higher than Pottery Neolithic, enabling status differentiation.
+
+__Storage, Reserves & Buffering:__ Grain stored in household and communal silos; herds serve as mobile savings; temple precincts may accumulate offerings as a proto-reserve; buffering adequate for single-year shortfalls, strained by consecutive failures.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange moves copper ore from Wadi Feinan, turquoise from Sinai, bitumen from the Dead Sea, ivory from Egypt or Nubia, marine shells from Mediterranean and Red Sea; regional networks link villages to specialist production sites; donkey caravan the principal logistical mode.
+
+__Value Storage, Credit & Deferred Exchange:__ No monetary medium; copper ingots, prestige goods, and livestock serve as stores of value; deferred reciprocity tracked orally; elite accumulation visible in mortuary wealth.
+
+__Surplus Extraction & Redistribution:__ No institutionalized taxation; temple offerings and communal feasts redistribute surplus; big-man or priestly accumulation channels wealth toward ritual and display; extraction load voluntary but socially obligatory.
+
+__Wealth Distribution & Asset Defense:__ Stratification sharpens: some burials include copper mace-heads, ivory boxes, and elaborate ossuaries; most burials modest; wealth concentrated in chiefly or priestly lineages; asset defense relies on kin solidarity and shrine sanctity.
+
+__Byproducts & Waste Routing:__ Smelting slag, ash, and broken ceramics accumulate; copper refining produces limited toxic residue localized at production sites; organic refuse composted; waste routing passive.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended patrilineal households anchor society; inheritance of land, herds, and craft knowledge passes through male lines; marriage alliances cement inter-village ties; kin rules transmitted orally and enforced by elders.
+
+__Association & Mutual Aid:__ Craft guilds or proto-guilds may cluster metalworkers and ivory-carvers; neighborly reciprocity persists; communal feasts and shrine gatherings reinforce solidarity beyond immediate kin.
+
+__Leisure, Play & Sociability:__ Seasonal festivals at shrine sites integrate dispersed communities; feasting, music, and dance mark agricultural and pastoral cycles; leisure interlaced with ritual obligation.
+
+__Stratification, Status & Group Structure:__ Status hierarchy deepens: priestly or chiefly lineages control shrines and prestige-good production; commoner households provide surplus; no hereditary caste, but boundaries less permeable than in Pottery Neolithic; factionalism visible in competing shrine centers.
+
+__Administrative Capacity & Institutional Integrity:__ No bureaucracy or written record; shrines may coordinate supra-village activities (pilgrimage, craft distribution); authority personal, wielded through priestly or chiefly office; institutional capacity oral and fragile.
+
+__Coercive Apparatus & Means of Force:__ No standing army; copper mace-heads mark chiefly authority and potential coercion; adult males bear weapons (bow, sling, mace); inter-community conflict attested (violent deaths at some sites) but endemic warfare absent; coercive capacity concentrated but not institutionalized.
+
+__Discharge, Disorder & Decay:__ Disputes mediated by kin and shrine authority; unresolved conflicts occasionally escalate; structural exclusion minimal; social friction absorbed by feasting and ritual; disorder low.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Prevailing mood confident—craft florescence, shrine elaboration—with interpersonal trust high within kin and shrine networks, guarded toward outsiders; risk tolerance elevated, enabling long-distance trade and metallurgical experiment.
+
+__Leadership & Personal Authority:__ Leadership concentrated in priestly or chiefly figures who control shrines, prestige goods, and esoteric knowledge (smelting secrets, ritual formulas); authority personal, validated by success and proximity to the sacred.
+
+__Legitimacy as Lived Allegiance:__ Allegiance grounded in shrine participation, kinship, and demonstrated efficacy; legitimacy refreshed through communal ritual and redistribution; disaffection rare, directed at individual leaders rather than the order.
+
+__Political Will & Collective Resolve:__ Collective action mobilizes for shrine construction, communal defense, and supra-village feasting; political will channeled through priestly-chiefly leadership; consensus-seeking persists but hierarchy shapes agenda.
+
+__External Relations & Posture:__ Relations with neighboring regions (Egypt, northern Levant, Transjordan) mediated by exchange networks; no expansionist drive; posture cooperative and trade-oriented; rivalry limited to shrine prestige.
+
+__Disaffection, Apathy & Spent Will:__ Estrangement minimal; ambition channeled into craft and shrine participation; apathy prevented by subsistence demands and ritual obligations; will renewed through feasting and pilgrimage.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Semitic dialect (proto-Canaanite continuum) serves as shared code; mutual intelligibility high within region, lower with Egyptian or northern contacts; no script; foreignness bridged by bilingual intermediaries and shared material symbols.
+
+__Channels & Transmission Velocity:__ Information travels by foot and donkey; news reaches neighboring villages within days, distant regions within weeks; channels narrow, controlled by traders and shrine personnel.
+
+__Record, Storage & Persistence:__ No durable record; craft recipes, genealogies, ritual formulas stored in living memory of initiated specialists; knowledge retrievable only through oral transmission; loss at death permanent unless passed to apprentice.
+
+__Framing, Censorship & Discourse Norms:__ Shrine authority shapes permissible narrative; esoteric knowledge (metallurgy, ritual) deliberately restricted; discourse norms enforce respect for sacred and chiefly figures; censorship informal but effective.
+
+__Reception, Attention & Amplification:__ Attention focused on shrine gatherings and feasts; narratives amplified through repetition and ritual performance; salience determined by chiefly endorsement and sacred association.
+
+__Signal Integrity & Noise Load:__ Memory errors accumulate; esoteric knowledge particularly vulnerable to transmission failure; no verification mechanism beyond oral cross-checking; noise load rising with complexity of specialist knowledge.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Right and wrong grounded in kin loyalty, reciprocity, shrine obligation, and hospitality; fairness measured by equivalence and proper offering; justice restorative, aimed at compensation and ritual purification.
+
+__Law, Codification & Regulatory Evolution:__ No written law; customary rules—grazing rights, marriage prohibitions, blood-debt protocols, shrine taboos—transmitted orally; evolution incremental, shaped by priestly interpretation.
+
+__Adjudication, Liability & Sanction:__ Disputes adjudicated by kin elders and shrine authority; liability assigned by consensus and divination; sanctions include compensation, exclusion from shrine, and shaming; judgment capacity adequate.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy bounded by kin and shrine obligation; elite protected by sacred association; commoners protected within kin; compliance burden heavier where shrine obligations multiply.
+
+__Impunity & Unredressed Wrong:__ Chiefly and priestly lineages enjoy de facto impunity in minor matters; serious wrongs (homicide) still trigger blood-debt; redress capacity generally adequate but stratified.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Explanatory paradigm animist and mythological—metallurgical transformation attributed to spirit cooperation, fertility to divine favor; empirical observation embedded in craft practice; no explicit theory distinct from ritual knowledge.
+
+__Applied Knowledge & Technical Method:__ Metallurgical technique advances: ore roasting, charcoal reduction, casting in stone molds; pottery includes churns, fenestrated stands, and elaborate cornets; architectural technique produces mudbrick temples with painted murals; all method transmitted orally and by demonstration within specialist lineages.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship in kin and shrine contexts; literacy absent; specialist skills (smelting, ivory-carving) concentrated in few hands; basic agricultural and pastoral competence universal.
+
+__Obsolescence & Knowledge Decay:__ Older techniques superseded (coarse Yarmukian pottery fades); craft secrets lost when specialists die without successors; knowledge decay a recognized risk, mitigated by redundancy within specialist lineages.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin myths root elite lineages in divine or ancestral founders; collective memory compresses earlier periods into "time of the ancestors"; identity tied to shrine, kin, and pastoral-agricultural way of life; bedrock stable.
+
+__Legitimating Narrative & Ideology:__ Priestly-chiefly authority legitimated by proximity to the sacred and control of esoteric knowledge; shrine hierarchy justified by ancestral precedent and divine sanction; narrative sustains stratification without explicit ideology.
+
+__Artistic Expression & Material Culture:__ Teleilat Ghassul murals display polychrome geometric and figural motifs (star, procession, masked figures); ivory carvings, basalt vessels, and fenestrated ceramic stands mark elite consumption; architecture includes temple precincts with broad-room shrines; ossuary burials with house-shaped containers express lineage identity; material surface elaborate and symbolically rich.
+
+__Form Exhaustion & Meaning Decay:__ Ghassulian symbolic vocabulary potent and actively renewed through shrine ritual; no evident exhaustion; forms serve living function; anomie absent within the snapshot window.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Cosmos populated by spirits, ancestors, and possibly anthropomorphized divinities; human place secured by proper offering, shrine attendance, and ritual observance; fatalism tempered by priestly efficacy; outlook confident but contingent on sacred maintenance.
+
+__Ritual, Devotion & Sacred Practice:__ Temple rituals at Teleilat Ghassul, Ein Gedi, and Golan sites include offerings (grain, animal sacrifice), processions (depicted in murals), and possibly pilgrimage; ossuary burial and secondary interment enact ancestral veneration; daily practice integrates sacred and mundane.
+
+__Religious Institutions & Doctrinal Authority:__ Proto-priestly lineages control shrines and esoteric knowledge; no formal hierarchy, but shrine access stratified; doctrine oral and flexible, varying by shrine; orthodoxy emergent but not enforced across region.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Ghassulian cult system dominant across region; exchange contacts may introduce foreign motifs (Egyptian, northern); syncretism gradual; no displacement or conversion pressure; cosmology's reach coterminous with Ghassulian material culture.
+
+__Disenchantment & Sacred Discharge:__ No secularizing drift; sacred presence intensified at shrine sites; disenchantment absent; spiritual needs met and elaborated within expanding ritual apparatus.
+

@@ -1,69 +1,139 @@
-# __1450 CE – 1500 CE__ — Print Revolution and Manuscript Twilight
-__Summary:__ The North European Plain transforms as movable-type printing spreads rapidly from Mainz through Cologne, Strasbourg, Nuremberg, and Basel, displacing manuscript production for standard texts while manuscript continues for luxury and specialized purposes. The binding constraint is the speed at which print shops can be established and supplied with paper, type, and skilled compositors. The system holds substantial margin against shocks — no plague recurrence, no major famine — yet faces political instability from Burgundian-Habsburg competition and nascent challenges to Hanseatic commercial dominance. The principal direction of change is informational acceleration: costs of text reproduction collapse, literacy incentives rise, humanist scholarship penetrates northward, and the manuscript regime that carried documentary civilization for five centuries begins its long recession toward specialized niches.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor from the Rhineland through Saxony to the Baltic remains the transit axis, with navigable rivers (Rhine, Weser, Elbe, Oder, Vistula) reducing friction for heavy goods including paper and printed sheets; roads poor but passable between major towns; no significant spatial change from prior decades.<br><br>
-__Climate Regime & Volatility:__ Cool-temperate regime stable after 15th-century recovery from earlier Little Ice Age perturbations; interannual variability moderate; no major climatic shifts within the window; agricultural yields adequate.<br><br>
-__Hazard Regime & Exposure:__ Exposure to riverine flooding periodic but localized; no major earthquakes, volcanic events, or pandemics within the window; margin against shocks comfortable.<br><br>
-__Resource & Energy Endowment:__ Timber abundant for construction and fuel; water power available for paper mills establishing in the region; iron and copper accessible for type-casting; parchment-making livestock present but paper increasingly imported or locally milled from linen rags; no critical resource shortage.<br><br>
-__Waste Absorption & Sink Capacity:__ Artisanal and agricultural effluent absorbed by rivers and soils without saturation; paper-mill and type-foundry discharges negligible at current scale; absorptive capacity effectively unlimited for prevailing loads.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases (dysentery, typhus, respiratory ailments) persist; plague recurrence mild compared to 1348–1350 catastrophe; mortality baseline elevated by early-modern standards but stable; trend static.<br><br>
-__Nutrition & Physiological Vitality:__ Grain yields adequate; population not pressing carrying capacity after post-plague contraction; nutritional status generally sufficient; stature and robustness stable or slightly improving.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Late-medieval European marriage pattern — delayed marriage for women, nuclear household formation — limits fertility below biological maximum; pair-bonding stable under church regulation; no directional change.<br><br>
-__Demographic Renewal & Density:__ Population recovering slowly from 14th-century losses; birth-to-death ratio modestly positive; density well below pre-plague peak; urban growth resuming in major towns; no overcrowding pressure.<br><br>
-__Attrition & Dependency Overhang:__ Orphan and widow rates normal for early-modern context; monasteries and urban poor-relief absorb some dependents; productive cohort not strained; residue manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain supply stable; Baltic-Rhineland trade routes functioning; household pooling and guild welfare structures buffer marginal producers; floor secure.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominant; water mills increasingly deployed for paper-making, grain-milling, and fulling; wind power in Low Countries for drainage; per-capita work ceiling modest but adequate for craft-intensive economy.<br><br>
-__Labor Organization & Coercion:__ Guild organization governs urban craft labor; journeyman and apprentice systems structure entry; serfdom weakening in western regions, persists in east; wage labor expanding post-plague; coercion declining in west, stable or intensifying in eastern territories.<br><br>
-__Production & Surplus Capacity:__ Cloth, metalwork, and now printed books produced for regional and long-distance trade; surplus capacity sufficient; print shops highly profitable in early decades; productive ceiling rising with new technology.<br><br>
-__Storage, Reserves & Buffering:__ Urban granaries, guild funds, and merchant reserves adequate; no major shock tests reserves within window; buffering capacity comfortable.<br><br>
-__Exchange, Trade & Logistics:__ Hanseatic network still dominant but facing English and Dutch competition; overland and riverine routes carry increasing paper and book traffic; Antwerp rising as exchange node; logistics functioning without bottleneck.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver-based currencies stable; banking houses (Fuggers rising) provide credit; bills of exchange circulate among merchants; capital formation funding print ventures; no debasement crisis within window.<br><br>
-__Surplus Extraction & Redistribution:__ Territorial princes extract tolls, taxes, and mining revenues; church tithes continue; urban councils levy local charges; extraction manageable relative to growing commercial base.<br><br>
-__Wealth Distribution & Asset Defense:__ Merchant patricians and princely houses concentrate wealth; guild masters comfortable; inequality widening modestly; property defended through legal title and guild protection; no acute confiscation threat.<br><br>
-__Byproducts & Waste Routing:__ Urban waste disposed locally; paper-mill and dye-works effluent discharged into rivers; volumes trivial relative to sink capacity; no accumulation problem.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Guild solidarities, confraternity networks, and urban neighborhood ties sustain mutual aid; trust radius extends to trading partners across Hanseatic zone; stable or slightly widening as literacy spreads shared reference.<br><br>
-__Stratification, Status & Group Identity:__ Burgher-noble tension persists; urban patriciate distinguished from artisan class; clerical-lay division maintained; ethnic German-Slavic boundaries in east; boundaries stable, not hardening or dissolving dramatically.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family household norm; partible inheritance in some regions, primogeniture in others; no major change in kinship structure within window.<br><br>
-__Civic Association & Self-Organization:__ Guilds, confraternities, and urban councils thick with associational life; universities add scholarly collegial structures; fabric stable or thickening.<br><br>
-__Leisure, Play & Sociability:__ Carnival, saints' days, guild feasts, and tavern culture structure leisure; printed broadsheets begin to circulate humorous and devotional content; sociability adapting to new media.<br><br>
-__Grievance Channels & Social Discharge:__ Guild arbitration, urban courts, and confraternity charity absorb friction; occasional urban unrest (journeyman strikes, tax protests) contained; residue manageable.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial authority weak under Frederick III (1440–1493) and early Maximilian I (from 1486/1493); territorial princes dominant; Burgundian-Habsburg competition over Low Countries; fragmented sovereignty persists.<br><br>
-__Succession & Power Transfer:__ Elective empire routine under Golden Bull; princely succession varies by territory; Burgundian succession crisis 1477 (Charles the Bold's death) destabilizes Low Countries temporarily; transfer mechanisms functioning if contested.<br><br>
-__Legitimacy & Political Narrative:__ Imperial dignity invoked but commands little obedience; princely legitimacy rests on dynastic right and local custom; no collapse of legitimacy, but thin imperial claims eroding further.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Princely chanceries increasingly professional; territorial administration improving; Hanseatic cities govern competently; corruption endemic but not system-breaking; print accelerates administrative documentation.<br><br>
-__Political Participation & Mobilization:__ Estates assemblies convene in territories; urban councils oligarchic but responsive to burgher pressure; no mass mobilization; channels narrow but functioning.<br><br>
-__Geopolitical Position & External Relations:__ Burgundian-Habsburg rivalry dominates western region; Polish-Lithuanian union presses Teutonic Order; Ottoman advance distant but noted; external threats contained within window.<br><br>
-__Coercive Apparatus & Means of Force:__ Mercenary companies and princely standing forces; urban militias; gunpowder weapons spreading; fortifications adapting; force fragmented among multiple holders.<br><br>
-__Internal Order & Threat Environment:__ Banditry and feuding persist in hinterlands; urban order generally maintained; Hussite aftermath contained; no major rebellion within window; disorder absorbed.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print accelerates transmission velocity dramatically — a text reproducible in hundreds of copies within weeks rather than months for single manuscripts; couriers, merchants, and itinerant scholars carry printed sheets; reach extending across strata as vernacular print emerges; velocity revolutionized.<br><br>
-__Record, Storage & Persistence:__ Print creates multiple redundant copies, vastly improving survival probability; archives hold manuscript records; libraries accumulating printed books (incunabula); persistence capacity leaps forward; record surviving shock rises sharply.<br><br>
-__Framing, Censorship & Discourse Norms:__ Pre-publication censorship undeveloped; church and territorial authorities beginning to notice print's subversive potential but not yet organizing systematic control; discourse band relatively open; narrowing pressure nascent.<br><br>
-__Reception, Attention & Amplification:__ Literate audiences (clergy, scholars, merchants, some artisans) receive printed matter eagerly; humanist circles amplify classical texts; vernacular broadsheets reach semi-literate urban populations; attention expanding.<br><br>
-__Signal Integrity & Noise Load:__ Print standardizes texts, reducing scribal error accumulation; verification capacity improves; noise load dropping as authoritative editions proliferate; signal integrity rising.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian moral framework underpins justice; notions of fair dealing, oath-keeping, and proportional punishment widely shared; no fundamental shift within window.<br><br>
-__Law, Codification & Regulatory Evolution:__ Roman law reception advancing via university training; territorial law codes emerging; Hanseatic recesses codify commercial practice; print begins to standardize and disseminate legal texts; codification accelerating.<br><br>
-__Adjudication, Enforcement & Liability:__ Territorial courts, urban councils, and ecclesiastical courts adjudicate; enforcement through fines, corporal punishment, and execution; throughput adequate for caseload; no major backlog crisis.<br><br>
-__Rights, Protections & Compliance Burden:__ Guild members and burghers enjoy chartered protections; serfs in east lack comparable rights; compliance burden moderate; predictability improving with codification.<br><br>
-__Impunity & Unredressed Wrong:__ Noble and clerical privileges shield some from accountability; banditry unpunished in remote areas; gap between justice owed and delivered persists but not widening; residue stable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Northern humanism emerging — Agricola, early Erasmus — combining classical learning with textual criticism; scholasticism still dominant in universities but challenged; paradigm in early transition; discovery frontier at intersection of philology and theology.<br><br>
-__Applied Knowledge & Technical Method:__ Printing itself the premier applied technology; metallurgical technique (type-casting), papermaking, and ink chemistry integrated into reproducible method; technique spreading rapidly via journeyman migration.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities at Cologne, Heidelberg, Leipzig, Rostock, Greifswald train clergy and administrators; cathedral and town schools provide basic literacy; knowledge stock expanding via print; skill distribution widening but still concentrated among clergy, scholars, and merchants.<br><br>
-__Obsolescence & Knowledge Decay:__ Print preserves texts against loss; scribal copying errors corrected in authoritative editions; obsolescent scholastic texts still circulating but facing humanist critique; knowledge decay rate dropping; error clearance improving.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Christian salvation narrative dominant; regional identities (Rhineland, Saxon, Prussian) overlay universal Christendom; founding myths of cities and dynasties circulate; no major identity shift within window; bedrock stable.<br><br>
-__Artistic Expression & Material Culture:__ Late Gothic architecture (brick Gothic in north); panel painting; woodcut and early engraving proliferate with print; material culture adapting to reproducible images; aesthetic conventions stable with new medium emerging.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-plague recovery mood cautiously optimistic; millennial anxieties (1500 approaching) detectable but not dominant; humanist circles intellectually buoyant; general disposition stable to lifting.<br><br>
-__Form Exhaustion & Meaning Decay:__ Late-medieval devotional forms showing some routinization; indulgence traffic attracting criticism; printed devotional literature refreshes and also commodifies piety; form exhaustion detectable but not yet acute; meaning renewal competing with decay.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology unchallenged — creation, fall, redemption, judgment — but humanist interest in classical antiquity introduces alternative reference points; outlook orthodox with intellectual edges softening; no secular breakthrough yet.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, confession, pilgrimage, saints' veneration continue; printed prayer books and devotional tracts multiply access to piety; practice intensifying through new media even as some critique emerges.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Papacy recovering from Great Schism; episcopal authority intact; mendicant orders active; doctrinal orthodoxy enforced via Inquisition (less active in north); institutional authority stable but criticism accumulating in humanist circles.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity universal in region; no competing cosmology; Hussite heresy contained in Bohemia; Jewish communities marginalized; diffusion complete, no syncretism or displacement in progress.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing drift yet; sacred cosmos intact; existential need answered by Christian framework; disenchantment residue negligible within window; Reformation critique gestating but not yet discharged.<br><br>
+# __1450 CE – 1500 CE — Print Revolution and Manuscript Twilight__
+
+__Summary:__ The half-century during which movable-type printing displaced monastic and commercial scriptoria as the primary medium of text multiplication across the North European Plain, with Mainz as the point of origin and the Rhine-Danube corridor as the primary diffusion axis; the binding constraint is the abrupt collapse of scribal production costs, which broke the ecclesiastical monopoly on document multiplication and opened a phase-transition toward a fundamentally different information regime.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The North European Plain's navigable rivers — Rhine, Main, Neckar, Danube, Elbe — provided corridors along which heavy printing equipment, lead type, paper stocks, and finished books traveled at tolerable cost; overland routes remained slow, but the density of trade towns within 200 kilometers of Mainz ensured rapid initial diffusion.
+
+__Climate Regime & Volatility:__ The fifteenth century's cooling trend had stabilized into a pattern of shortened growing seasons, but without the acute crises of the previous century; paper production depended on running water for rag-pulp mills, and reliable precipitation kept the network of Rhineland and Swabian mills operational.
+
+__Hazard Regime & Exposure:__ Urban fire remained the primary hazard to print shops, their paper stocks, and their wooden presses; the 1462 Mainz sack during the archiepiscopal feud scattered Gutenberg's trained workmen across Europe, an accident of political violence that accelerated rather than retarded diffusion.
+
+__Resource & Energy Endowment:__ Lead, tin, and antimony for type alloy were available from Harz and Erzgebirge mines; linen rag for paper came from urban textile waste; water power ran pulp mills; charcoal fired smelting pots; the resource chain was local and decentralized.
+
+__Waste Absorption & Sink Capacity:__ Printing generated modest waste — spoiled sheets, worn type, ink residue — absorbed without strain by urban midden and watercourse; the material footprint per book was far lighter than parchment, which had required hides and tannic effluent.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Post-plague demographic recovery continued; urban populations rose slowly, and recurrent local outbreaks interrupted but did not reverse the trend; mortality remained elevated by pre-modern standards but no longer catastrophic.
+
+__Nutrition & Physiological Vitality:__ Improved per-capita food availability after the Black Death's population collapse kept bodies reasonably nourished; printers, compositors, and pressmen were skilled urban craftsmen, not malnourished laborers.
+
+__Care, Healing & Recovery Capacity:__ Guild-based mutual aid provided sickness support; urban apothecaries and barber-surgeons served artisan populations; no dedicated medical infrastructure for the print trade existed, but neither was one needed.
+
+__Reproductive Biology & Pairing Dynamics:__ Urban artisan families followed delayed marriage patterns dictated by guild apprenticeship; masters married; journeymen often did not until they achieved master status.
+
+__Demographic Renewal & Density:__ Towns grew modestly; rural-to-urban migration fed the labor pool; print shops required a small, specialized workforce — a master, several journeymen compositors, pressmen, apprentices — not mass labor.
+
+__Attrition & Dependency Overhang:__ Normal urban dependency ratios applied; no particular burden tied to the trade itself.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Printers and booksellers occupied the artisan tier, above bare subsistence; their incomes depended on sales, which early on proved robust as demand outstripped supply.
+
+__Energy Capture & Conversion:__ Human muscle turned the screw press; water power ran rag-pulp mills; charcoal smelted type metal; the energy budget per printed sheet was modest compared to parchment copying.
+
+__Labor Organization & Coercion:__ Printing emerged outside established guild structures; early workshops organized around master printers with journeymen and apprentices; the trade resisted municipal regulation initially, though guild incorporation followed by century's end.
+
+__Production & Surplus Capacity:__ A single press could produce 250 sheets per side per day; a print run of 200–500 copies was standard; the multiplication rate dwarfed any scriptorium's output, creating surplus capacity that drove prices down and volumes up.
+
+__Storage, Reserves & Buffering:__ Printers required working capital for paper, type, and labor before sales; credit networks, often tied to major merchant houses or pre-sale subscriptions, buffered the production cycle.
+
+__Exchange, Trade & Logistics:__ The Frankfurt book fair (formalized 1478) became the clearing house for the northern European book trade; Venetian, Parisian, and Netherlandish printers competed; distribution followed existing commercial routes.
+
+__Value Storage, Credit & Deferred Exchange:__ Merchant credit financed print runs; letters of exchange settled inter-city transactions; the book became a speculative commodity requiring investment before return.
+
+__Surplus Extraction & Redistribution:__ No direct taxation targeted printing; ecclesiastical and princely patrons commissioned editions, channeling surplus into book production; universities purchased texts.
+
+__Wealth Distribution & Asset Defense:__ Type fonts, presses, and backlist titles became capital assets; successful printers accumulated modest wealth; the trade created a new artisan-merchant class.
+
+__Byproducts & Waste Routing:__ Spoiled sheets became scrap; worn type was recast; ink residues were negligible; the waste stream posed no systemic problem.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Print shops passed from master to heir or widow; the Koberger, Schöffer, and Fust families exemplified dynastic continuity; marriage alliances linked printing houses.
+
+__Association & Mutual Aid:__ Journeymen compositors began forming associations by century's end; master printers networked through commercial correspondence and fair attendance; no formal pan-regional guild existed.
+
+__Leisure, Play & Sociability:__ Urban artisan sociability — tavern, feast, guild celebration — applied; printers participated in civic life where resident.
+
+__Stratification, Status & Group Structure:__ Printers occupied an ambiguous status: artisans by labor, merchants by commerce, and scholars' auxiliaries by product; their social position rose with the trade's prestige.
+
+__Administrative Capacity & Institutional Integrity:__ Municipal councils licensed shops in some cities; imperial and papal censorship remained embryonic; no centralized regulatory apparatus governed the trade during this window.
+
+__Coercive Apparatus & Means of Force:__ No distinct coercion applied to printing; the trade operated under general urban law; the 1462 sack of Mainz was political violence incidental to the trade.
+
+__Discharge, Disorder & Decay:__ Journeyman mobility created labor-market fluidity; disputes over wages and working conditions surfaced but remained local; no major disorder attached to the trade itself.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Print elicited wonder and enthusiasm among the literate; humanists celebrated it as a gift of divine providence; traditionalists viewed it with caution but not yet alarm.
+
+__Leadership & Personal Authority:__ Gutenberg's personal story remained obscure to contemporaries; printers like Anton Koberger of Nuremberg commanded respect as successful entrepreneurs; no single figure dominated the trade.
+
+__Legitimacy as Lived Allegiance:__ The book inherited the authority of manuscript; printed indulgences, papal bulls, and imperial edicts commanded obedience; the medium's legitimacy was parasitic on the institutions it served.
+
+__Political Will & Collective Resolve:__ Princes and bishops saw print as a tool for disseminating authority; the will to control it emerged only after 1500 as its subversive potential became clear.
+
+__External Relations & Posture:__ The print trade was international from the start; German printers worked in Italy, France, and the Low Countries; no national industry yet existed.
+
+__Disaffection, Apathy & Spent Will:__ No significant disaffection attached to print itself; the anxieties of the age — Ottoman advance, Hussite heresy, schismatic councils — were independent of the new medium.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Print expanded access to written Latin and increasingly to vernacular German; literacy remained restricted but the potential audience for any text multiplied; the shared code remained the same, but its reach widened.
+
+__Channels & Transmission Velocity:__ A text printed in Mainz could reach Cologne, Strasbourg, Basel, Nuremberg, and beyond within weeks; the multiplication of identical copies collapsed the time required to diffuse information across the literate network.
+
+__Record, Storage & Persistence:__ Print created redundancy: hundreds of identical copies made accidental loss far less catastrophic; the printed book outlasted any single library; the Gutenberg Bible survives in forty-nine copies, an impossibility for manuscript.
+
+__Framing, Censorship & Discourse Norms:__ Censorship remained ad hoc; some bishops condemned specific texts; no systematic apparatus of prior review existed; the permitted band was wide by default rather than design.
+
+__Reception, Attention & Amplification:__ Demand outran supply; university masters, clergy, lawyers, and literate merchants bought books eagerly; bestsellers (popular devotional works, classical texts, calendars) achieved circulations manuscript could never match.
+
+__Signal Integrity & Noise Load:__ Print fixed texts against scribal drift; errors in a printed edition propagated identically, but errata sheets could correct them; standardization improved signal integrity overall.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The multiplication of devotional and legal texts was understood as a pious and useful work; no moral stigma attached to printing; Gutenberg's Bible was a sacred enterprise.
+
+__Law, Codification & Regulatory Evolution:__ No law specifically governed printing; general urban and imperial law applied; the concept of intellectual property remained undeveloped; piracy was endemic and unregulated.
+
+__Adjudication, Liability & Sanction:__ Commercial disputes followed ordinary mercantile adjudication; no special courts or procedures existed; liability for heretical content was unclear.
+
+__Rights, Protections & Compliance Burden:__ Printers operated freely; occasional imperial or papal privileges granted exclusive rights to specific editions, but enforcement was weak; the regulatory burden was minimal.
+
+__Impunity & Unredressed Wrong:__ Pirates reprinted profitable editions without sanction; authors and original printers had no effective remedy; the gap between claimed right and delivered justice was wide.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Print accelerated humanist scholarship by making classical texts cheaper and more widely available; the recovery of antiquity proceeded faster when texts could be compared across multiple printed editions; the paradigm remained scholastic and humanist, but its diffusion rate changed.
+
+__Applied Knowledge & Technical Method:__ Printing itself was a technical breakthrough: the punch, matrix, adjustable mold, oil-based ink, and screw press formed an integrated system; German metalworking skill underpinned the innovation.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities acquired printed texts; student access to books increased; the cost of building a working library fell dramatically; the knowledge stock expanded through redundancy and diffusion.
+
+__Obsolescence & Knowledge Decay:__ Manuscript copying skills began their long decline; scriptoria lost economic viability; the specialized craft of the scribe became obsolete for multiplication, though it persisted for unique documents and correspondence.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Print contributed to a nascent sense of German cultural identity by standardizing and diffusing vernacular texts; the Luther Bible lay a generation ahead, but the groundwork was being laid.
+
+__Legitimating Narrative & Ideology:__ Humanists framed print as the restoration of ancient learning; churchmen saw it as a tool for spreading the faith; princes valued it for propaganda; each appropriated the medium to its own legitimating story.
+
+__Artistic Expression & Material Culture:__ The printed book developed its own aesthetic: Roman and Gothic typefaces, woodcut illustrations, decorated initials, title pages; Albrecht Dürer's woodcuts in printed editions married art to mass reproduction.
+
+__Form Exhaustion & Meaning Decay:__ Manuscript illumination, the supreme decorative art of the Middle Ages, began its decline; the hand-painted book became a luxury object rather than the norm; a form reaching exhaustion was displaced rather than renewed.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Print did not immediately alter cosmology; the Christian worldview remained dominant; the medium served existing belief rather than challenging it — devotional works, indulgences, and Bibles were among the earliest and most profitable products.
+
+__Ritual, Devotion & Sacred Practice:__ Printed missals, breviaries, and books of hours standardized liturgical practice; devotional reading became more accessible; the rosary and its printed guides spread piety among the literate laity.
+
+__Religious Institutions & Doctrinal Authority:__ The Church initially embraced print as a means of disseminating orthodoxy; papal bulls and indulgences were printed in large runs; institutional authority remained unchallenged within this window.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Print facilitated the spread of approved devotion; heretical texts circulated too, but without the mass impact that would come with the Reformation; the dominant cosmology's reach expanded rather than contracted.
+
+__Disenchantment & Sacred Discharge:__ The sacred remained potent; print served piety; the desacralizing potential of the medium — its capacity to democratize interpretation and undermine clerical monopoly — lay latent, awaiting the next century's explosion.

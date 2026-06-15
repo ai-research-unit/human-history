@@ -1,69 +1,139 @@
-# __1912 CE – 1926 CE__ — Taisho Democracy and Mass Media
-__Summary:__ The Taisho era witnesses Japan's most vigorous experiment with party politics, labor mobilization, and mass-circulation journalism under a weak emperor and aging oligarchs; the binding constraint is the tension between expanding democratic participation and the constitutional framework reserving ultimate authority to extraparliamentary powers; the system holds moderate margin through economic growth and international stability but social pressures from labor and tenant movements test absorptive capacity; the direction is toward broader suffrage and mass politics, though countervailing suppression structures are already being erected.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Japanese archipelago and colonial territories in Taiwan, Korea, and Kwantung Leasehold remain the imperial domain; rail and steamship networks mature, reducing internal friction; urban centers expand physically, absorbing surrounding farmland.<br><br>
-__Climate Regime & Volatility:__ Monsoon patterns continue without secular drift; typhoons and floods impose periodic damage; interannual variability affects harvests but within historically normal range; no binding climate stress in this window.<br><br>
-__Hazard Regime & Exposure:__ The Great Kanto Earthquake (1923) kills over 100,000 and destroys much of Tokyo and Yokohama, exposing catastrophic vulnerability; reconstruction demonstrates state capacity but reveals how thin the margin against major seismic events remains.<br><br>
-__Resource & Energy Endowment:__ Coal production continues in Kyushu and Hokkaido; petroleum imports increase for industrial and naval use; hydroelectric capacity expands significantly; iron ore dependence on imports deepens; resource constraints shape strategic anxiety.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial zones accumulate pollution; urban expansion strains sewage and waste systems; river pollution from mining and industry continues; absorptive capacity is stressed in concentrated areas though rural sinks remain adequate.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Public health infrastructure improves; infant mortality declines; tuberculosis remains endemic but mortality baseline continues downward; the 1918–1920 influenza pandemic causes approximately 400,000 deaths, a sharp shock within improving trend.<br><br>
-__Nutrition & Physiological Vitality:__ Rice imports supplement domestic production; nutritional status improves on average though rice riots (1918) reveal distribution failures; conscript height data show continued gains; urban workers face dietary constraints.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage patterns stable under ie household system; fertility remains high though urban couples begin limiting births; state pronatalism encourages family formation; no major shift in reproductive biology.<br><br>
-__Demographic Renewal & Density:__ Population grows from approximately 50 million to 60 million; urban population share increases significantly; age structure remains youthful; emigration to colonies and Americas provides demographic outlet; density pressures increase in cities.<br><br>
-__Attrition & Dependency Overhang:__ Earthquake victims create temporary dependency surge; war widows from Russo-Japanese War age into elderly cohort; industrial accidents produce disabled workers; dependency load is absorbed but expanding with urban proletariat.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Rice supply generally adequate but price volatility triggers 1918 rice riots when urban workers cannot afford basic grain; the floor is secure for landowners but precarious for urban wage-earners and tenants; buffer is thin for lower strata.<br><br>
-__Energy Capture & Conversion:__ Electrification spreads to factories and urban areas; coal remains primary industrial fuel; hydroelectric power expands; per-capita energy conversion continues rising; industrial output depends increasingly on imported petroleum.<br><br>
-__Labor Organization & Coercion:__ Labor unions expand despite suppression; major strikes occur in shipyards and factories; Yuaikai (Friendly Society) becomes Japan Federation of Labor (1921); coercion remains through police action but organized labor gains visibility and bargaining presence.<br><br>
-__Production & Surplus Capacity:__ World War I boom drives industrial expansion; shipbuilding, chemicals, and heavy industry grow; postwar recession (1920) reveals overcapacity; zaibatsu consolidate; surplus generation fluctuates with international demand cycles.<br><br>
-__Storage, Reserves & Buffering:__ Banking system expands credit; zaibatsu maintain reserves; government rice stockpiles prove inadequate in 1918; earthquake reconstruction strains reserves; buffer capacity is adequate for normal shocks but stressed by major events.<br><br>
-__Exchange, Trade & Logistics:__ Export markets expand during wartime; imports essential for industrial inputs and food; shipping capacity grows; domestic rail network nearly complete; logistics mature though international trade dependency increases vulnerability.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Yen maintains value until postwar inflation; banking crises affect regional institutions; zaibatsu banks provide industrial credit; capital markets develop; purchasing power volatile for wage-earners during inflation episodes.<br><br>
-__Surplus Extraction & Redistribution:__ Tax burden shifts toward indirect taxes; military expenditure remains substantial; earthquake reconstruction requires major fiscal commitment; redistribution favors reconstruction and military over social programs.<br><br>
-__Wealth Distribution & Asset Defense:__ Zaibatsu wealth concentration continues; tenant farmers face rising rents; urban workers hold minimal assets; earthquake destroys middle-class property in Tokyo; inequality persists though wartime boom creates some new wealth.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste externalized to air and water; urban garbage accumulates; earthquake rubble disposal challenges capacity; routing capacity lags production though post-earthquake rebuilding incorporates some improvements.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Neighborhood associations strengthen; mutual aid societies proliferate; earthquake response demonstrates community solidarity; trust radius extends through associational life though class tensions strain cross-stratum solidarity.<br><br>
-__Stratification, Status & Group Identity:__ New middle class of salaried workers (sarariiman) emerges; industrial working class gains identity through labor movement; tenant farmers organize; burakumin discrimination continues; boundaries remain but class consciousness sharpens.<br><br>
-__Kinship, Family & Inheritance:__ Ie system continues under Civil Code; urban nuclear families become more common; inheritance patterns stable; family structure adapts to urban conditions while legal framework remains.<br><br>
-__Civic Association & Self-Organization:__ Labor unions, tenant unions, women's groups, and student organizations proliferate; civic association density increases; state-sponsored associations continue; self-organization expands but faces legal constraints.<br><br>
-__Leisure, Play & Sociability:__ Cafes, dance halls, cinemas, and department stores create new urban leisure spaces; baseball becomes mass spectator sport; modern girl (moga) and modern boy (mobo) styles emerge; sociability diversifies beyond traditional forms.<br><br>
-__Grievance Channels & Social Discharge:__ Rice riots (1918) demonstrate grievance eruption when channels fail; tenant disputes increase; labor strikes provide discharge; party politics absorbs some urban discontent; Peace Preservation Law (1925) narrows radical channels; some grievance metabolized, some suppressed.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Genro influence wanes as founders die; party cabinets become norm after 1918; privy council and military retain constitutional autonomy; power is dispersed among competing centers; trend toward party government but not consolidated.<br><br>
-__Succession & Power Transfer:__ Emperor Taisho's incapacity leads to regency (1921); political succession through party rotation in Diet; oligarchic succession falters as generation dies; transfer mechanisms are in flux between constitutional and extraconstitutional modes.<br><br>
-__Legitimacy & Political Narrative:__ Constitutional government and party politics claim democratic legitimacy; Taisho democracy as progress narrative; emperor remains sacred symbol though personally weak; legitimacy is stable but contested between democratic and authoritarian readings of constitution.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy maintains competence; earthquake reconstruction demonstrates planning capacity; local government strengthens; record-keeping systematic; institutional integrity remains high though patronage increases under party government.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage enacted (1925), quintupling electorate; parties mobilize mass membership; proletarian parties form; political participation expands dramatically though simultaneously constrained by Peace Preservation Law.<br><br>
-__Geopolitical Position & External Relations:__ Washington Naval Treaty (1922) accepts parity limitations; League of Nations membership; China policy contentious; anti-Japanese immigration in US creates friction; external position stable but relative decline from wartime gains.<br><br>
-__Coercive Apparatus & Means of Force:__ Military maintains constitutional autonomy; police expand thought-control functions; force capacity adequate; military influence checked by budgetary constraints in 1920s; monopoly secure.<br><br>
-__Internal Order & Threat Environment:__ Rice riots, labor strikes, and tenant disputes challenge order periodically; Korean independence activists and anarchists monitored; earthquake produces vigilante violence against Koreans (1923); disorder contained but requiring active suppression.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Newspapers achieve million-copy circulation; telegraph and telephone expand; wire services provide rapid news transmission; radio broadcasting begins (NHK 1926); velocity approaches instantaneous for major events.<br><br>
-__Record, Storage & Persistence:__ Newspaper archives expand; government records systematic; earthquake destroys some archives but reconstruction includes archival capacity; persistence high through institutional custody and mass print runs.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press enjoys relative freedom compared to Meiji era; political coverage extensive; Peace Preservation Law enables suppression of radical content; earthquake rumors about Koreans show dangerous framing; permitted band wider than before but not unlimited.<br><br>
-__Reception, Attention & Amplification:__ Mass literacy enables broad newspaper reception; magazines reach millions; extra editions amplify breaking news; attention patterns increasingly shaped by commercial media competition; amplification rapid and extensive.<br><br>
-__Signal Integrity & Noise Load:__ Wire services provide verified news; earthquake rumors demonstrate noise vulnerability; commercial competition sometimes degrades accuracy; verification capacity generally adequate but stressed during crises.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Rights consciousness grows among educated strata; fairness claims articulated by labor and tenant movements; traditional hierarchical morality persists; justice sense is contested between modernizing and traditional conceptions.<br><br>
-__Law, Codification & Regulatory Evolution:__ Peace Preservation Law (1925) criminalizes challenges to kokutai and private property; labor legislation minimal; tenant legislation debated; regulatory framework tightens against radicals while commercial law stabilizes.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts process cases; Special Higher Police (Tokko) handle political cases; liability assigned through courts; throughput adequate though political cases receive harsh treatment and due process is compromised.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights remain subject to law; labor rights minimal; tenant protections debated; suffrage expansion grants political rights; compliance burden heavy for political activists; predictability exists within constrained bounds.<br><br>
-__Impunity & Unredressed Wrong:__ Vigilante murders of Koreans after earthquake largely unpunished; police abuse of political prisoners continues; labor activists face extralegal harassment; impunity for state actors significant; redress gap persists for marginalized populations.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Marxist theory spreads in universities; social science methods develop; natural sciences advance; liberal democratic theory circulates; discovery frontier includes social and political theory adapted to Japanese conditions.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and technical education mature; earthquake-resistant construction methods develop post-1923; industrial techniques advance; applied method increasingly indigenous rather than purely imported.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Elementary education universal; secondary education expands; university graduates increase; literacy near-universal for younger cohorts; knowledge stock and skill distribution continue broadening; educated unemployment emerges as problem.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional crafts continue declining; some Meiji-era frameworks superseded by newer social science; Western paradigm dominance consolidates; obsolescence proceeds without crisis as replacement rate keeps pace.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Taisho democracy adds layer to national narrative; earthquake trauma becomes shared memory; Meiji founding mythology maintained; identity accommodates modernity while preserving emperor-centered core.<br><br>
-__Artistic Expression & Material Culture:__ Modernist art and literature flourish; Western influence pervasive in architecture and design; Art Deco reaches Japan; cinema becomes popular medium; material culture shows confident cosmopolitanism.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism about democratic progress; modern urban lifestyle celebrated; earthquake trauma temporarily darkens mood; risk perception heightened for natural disaster; mood is generally confident with undercurrents of anxiety about social change.<br><br>
-__Form Exhaustion & Meaning Decay:__ Meiji nationalist forms routinized; traditional culture coexists with modern consumption; some anomie among urban youth; new forms in active creation prevent exhaustion; meaning-making vigorous in cultural ferment.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ State Shinto cosmology continues; Buddhist and Christian alternatives available; secular rationalism spreads among educated; existential outlook increasingly this-worldly and focused on social improvement; fatalism receding.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Shrine ceremonies continue; Buddhist funerals universal; new religions attract followers; devotional practice pluralistic; state rituals routinized but earthquake inspires renewed devotion.<br><br>
-__Religious Institutions & Doctrinal Authority:__ State Shinto maintains institutional privilege; Buddhist sects stable; Christian churches grow slowly; new religions face suspicion; doctrinal authority diffuse as no single institution dominates popular belief.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ State ideology continues diffusion through education; popular Buddhism persists; new religions syncretize elements; secular nationalism provides functional religion for many; diffusion patterns stable with incremental secularization.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular ideologies (Marxism, liberalism) provide meaning for intellectuals; nationalist ideology channels transcendence needs for masses; religious doubt spreads among educated urban classes; disenchantment limited as competing meaning systems remain available.<br><br>
+# __1912 CE – 1926 CE — Taisho Democracy and Mass Media__
+
+__Summary:__ The Taisho period witnesses the expansion of Japan's print sphere toward genuine mass media as newspaper circulations exceed one million, magazines proliferate across every interest, and political parties gain power within the constitutional structure; the binding constraint is the tension between commercial press expansion seeking ever-larger audiences and the Peace Preservation Law apparatus that criminalizes challenges to the kokutai and private property, producing a public sphere that is broader and freer than Meiji yet shadowed by legal limits that will tighten in the following decade.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The railway network reaches maturity, with trunk lines connecting all major cities and branch lines penetrating rural prefectures; express trains reduce Tokyo-Osaka travel to hours, enabling same-day national newspaper distribution; the archipelago functions as a unified print market with Tokyo dominant but Osaka and regional centers maintaining distinct newspaper cultures.
+
+__Climate Regime & Volatility:__ The period falls within normal climatic variability; rice harvests fluctuate but famine conditions do not recur; the monsoon rhythm continues to structure agricultural news cycles, though urbanization means fewer readers depend directly on harvest outcomes.
+
+__Hazard Regime & Exposure:__ The Great Kanto Earthquake (September 1, 1923) devastates Tokyo and Yokohama, killing over 100,000 and destroying newspaper offices, presses, and distribution networks; the disaster reveals both the vulnerability of centralized print infrastructure and the resilience of the rebuilt industry, with papers resuming publication within days from emergency facilities.
+
+__Resource & Energy Endowment:__ Electricity increasingly powers printing presses; newsprint consumption rises with circulation, straining domestic paper production and increasing imports; coal and hydroelectric power suffice for industrial needs; Japan's resource position remains adequate for peacetime print industry.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution concentrates in manufacturing districts; paper mill effluent enters waterways; metropolitan air quality declines; the press occasionally covers pollution incidents but environmental degradation proceeds largely unremarked as a systemic problem.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The Spanish influenza pandemic (1918–1920) kills an estimated 400,000 in Japan, the deadliest event of the period; tuberculosis remains endemic among urban populations including print workers; sanitary infrastructure continues improving, and overall mortality declines despite episodic shocks.
+
+__Nutrition & Physiological Vitality:__ Dietary diversity increases with imported rice supplementing domestic production; average stature gradually rises; urban workers increasingly consume processed foods; nutritional adequacy improves though inequality persists between urban consumers and struggling rural tenants.
+
+__Care, Healing & Recovery Capacity:__ Western medicine dominates institutional healthcare; public hospitals expand; health insurance schemes begin; newspapers carry health columns and patent medicine advertisements; the capacity-to-need ratio improves though access remains uneven.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility begins modest decline from Meiji highs as urbanization and education affect family planning; women's magazines discuss childrearing and domestic management; the ie system persists but urban conditions loosen its constraints.
+
+__Demographic Renewal & Density:__ Population grows from approximately 50 million (1912) to 60 million (1926); urbanization accelerates with Tokyo rebuilding larger after the earthquake; the reading public expands correspondingly, enabling million-copy circulations.
+
+__Attrition & Dependency Overhang:__ World War I produces minimal Japanese casualties (belligerent ally status but limited combat); earthquake deaths create dependents absorbed by extended family and charity; the demographic structure remains favorable with youthful population pyramid.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rice Riots (1918) reveal subsistence pressure as wartime inflation outpaces wages; urban workers protest rice prices; the provisioning floor holds but precariously for the urban poor; newspapers cover the riots despite censorship pressure.
+
+__Energy Capture & Conversion:__ Electric power expands rapidly, reaching most urban areas; printing plants modernize with electric presses; energy capture sufficient for industrial growth; Japan's energy position supports manufacturing expansion including print industry.
+
+__Labor Organization & Coercion:__ Labor unions grow through the period; newspaper workers begin organizing; the Yuaikai (labor federation) expands; strikes increase; labor relations shift from pure employer dominance toward negotiation, though unions remain legally constrained; newspapers cover labor disputes with varying sympathy.
+
+__Production & Surplus Capacity:__ Newspaper industry achieves profitable scale economies; Asahi and Mainichi each exceed one million circulation by mid-period; magazine publishing expands dramatically; the industry generates surplus for reinvestment in technology and expansion.
+
+__Storage, Reserves & Buffering:__ Newspaper firms accumulate capital; the post-earthquake rebuilding demonstrates industry reserves sufficient for major reconstruction; Asahi and Mainichi rebuild with modern reinforced concrete facilities; financial buffers prove adequate.
+
+__Exchange, Trade & Logistics:__ International trade expands during and after World War I; newsprint imports rise; foreign news services (Reuters, AP) supply international coverage; Japan's trade position strengthens then weakens with post-war adjustment; logistics infrastructure supports expanded distribution.
+
+__Value Storage, Credit & Deferred Exchange:__ Monetary stability generally prevails though post-war inflation erodes purchasing power; advertising revenue grows as consumer economy expands; subscriptions remain stable; credit supports industry expansion.
+
+__Surplus Extraction & Redistribution:__ Tax burden increases with military expenditure; newspaper taxation remains moderate; the state extracts less from press than from general economy; redistribution through social programs begins modestly.
+
+__Wealth Distribution & Asset Defense:__ Zaibatsu consolidate economic power; newspaper ownership concentrates among established firms; inequality widens as industrial growth benefits capital over labor; asset concentration in press industry mirrors broader economy.
+
+__Byproducts & Waste Routing:__ Industrial waste increases with production scale; paper recycling continues; pollution routes to air and water without systematic treatment; financial waste from failed publications absorbed by investors; the maturing industry generates less business failure than earlier periods.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The ie system faces pressure from urbanization and individualism; women's magazines debate family reform; inheritance law remains patrilineal but actual practice varies; newspapers reflect both traditional family ideology and modern alternatives.
+
+__Association & Mutual Aid:__ Civil associations proliferate: labor unions, tenant unions, women's groups, student organizations, professional associations; the fabric of associational life thickens; newspapers both report on and participate in this civil society expansion.
+
+__Leisure, Play & Sociability:__ Mass entertainment expands: baseball becomes national pastime with newspaper sponsorship of tournaments (Koshien); cinema arrives; cafes and department stores create new social spaces; newspapers carry entertainment coverage extensively; leisure becomes commercial and mass-mediated.
+
+__Stratification, Status & Group Structure:__ Class consciousness sharpens; proletarian movements emerge; the "new middle class" (salaried employees) expands; tenant farmers organize; status hierarchy softens in urban settings while persisting in rural areas; newspapers address increasingly differentiated readerships.
+
+__Administrative Capacity & Institutional Integrity:__ Bureaucracy continues Meiji patterns; political parties penetrate government ministries; corruption scandals (covered in press) undermine institutional reputation; the censorship apparatus (Home Ministry Special Higher Police, Tokko) maintains capacity for press control even as political climate liberalizes.
+
+__Coercive Apparatus & Means of Force:__ Military prestige declines after limited World War I role; police maintain domestic order; the apparatus remains capable but less politically prominent than under late Meiji; military coverage in newspapers becomes more critical, within limits.
+
+__Discharge, Disorder & Decay:__ Labor strikes, tenant disputes, and urban protests increase; the Rice Riots (1918) represent the largest civil disorder since Meiji; social friction rises with inequality; the press covers unrest with increasing latitude; disorder remains episodic rather than systemic but signals underlying tensions.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ "Taisho Democracy" names the prevailing temper: optimistic, reformist, relatively open; confidence in progress and liberalization spreads among urban educated classes; anxiety about social change coexists with hope for political reform.
+
+__Leadership & Personal Authority:__ Emperor Taisho's poor health reduces imperial charisma; political leaders (Hara Takashi, Kato Takaaki) gain prominence through party politics; intellectual leaders (Yoshino Sakuzo, Minobe Tatsukichi) shape public discourse through newspapers and magazines; authority pluralizes.
+
+__Legitimacy as Lived Allegiance:__ Constitutional government gains legitimacy through party cabinets; universal male suffrage (1925) extends political inclusion; the imperial system retains symbolic authority; legitimacy becomes more procedural, less purely charismatic.
+
+__Political Will & Collective Resolve:__ Political parties achieve cabinet control (Hara cabinet 1918); policy emerges from coalition and compromise; the genro (elder statesmen) fade; will fragments across parties, bureaucracy, and military; collective resolve proves sufficient for domestic reform but divided on external policy.
+
+__External Relations & Posture:__ Japan's gains at Versailles (former German Pacific islands) satisfy some expansionists; Washington Naval Treaty (1922) constrains military growth; relations with China deteriorate over the Twenty-One Demands legacy; newspapers reflect divided opinion on Asian policy.
+
+__Disaffection, Apathy & Spent Will:__ Socialist and communist movements gain adherents, especially among intellectuals and workers; anarchism attracts some; the Peace Preservation Law (1925) criminalizes these movements, driving disaffection underground; the liberal center holds but faces challenges from left and right; disaffection accumulates beneath the democratic surface.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Universal literacy achieved; standard Japanese (hyojungo) established through education and media; newspapers write in accessible modern prose; radio begins (NHK 1925) but print remains dominant; the code reaches nearly all Japanese.
+
+__Channels & Transmission Velocity:__ Telephone networks expand for editorial communication; telegraph remains primary for news gathering; radio begins supplementing print for breaking news but newspapers remain the authoritative record; velocity increases but daily rhythm persists.
+
+__Record, Storage & Persistence:__ Newspaper archives systematize; libraries expand collections; the printed record accumulates reliably; earthquake destruction (1923) damages but does not destroy Tokyo archives; persistence improves with institutional backup.
+
+__Framing, Censorship & Discourse Norms:__ Censorship relaxes somewhat in practice if not in law; newspapers publish more political criticism than under Meiji; magazine debates flourish (Chuo Koron, Kaizo); however, the Peace Preservation Law (1925) creates new restrictions on leftist thought; the band widens for liberal discourse, narrows for socialist; self-censorship remains operative but less constraining for mainstream opinion.
+
+__Reception, Attention & Amplification:__ Million-copy circulations create mass readership; magazine proliferation segments attention by interest; advertising shapes reception; editorial campaigns can mobilize opinion (against unequal treaties, for suffrage); amplification power increases with scale.
+
+__Signal Integrity & Noise Load:__ Competition motivates accuracy; sensationalism persists in popular papers; foreign news improves with better wire services; the earthquake demonstrates rapid rumor spread (Korean massacre based on false reports), revealing limits of signal integrity in crisis conditions.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Liberal and socialist conceptions of justice enter public discourse, challenging Confucian hierarchy; individual rights gain rhetorical force; labor justice, tenant rights, women's rights become discussable; the moral vocabulary diversifies.
+
+__Law, Codification & Regulatory Evolution:__ Universal male suffrage (1925) extends political rights; Peace Preservation Law (1925) restricts thought crimes; labor law develops; the legal framework evolves in contradictory directions, expanding political rights while restricting ideological expression.
+
+__Adjudication, Liability & Sanction:__ Courts handle press cases with variable outcomes; thought crime prosecutions begin; the sanction regime intensifies for leftists while relaxing for mainstream press; inconsistent application creates uncertainty.
+
+__Rights, Protections & Compliance Burden:__ Suffrage extends rights; press regulations persist; compliance burden varies by political position; predictability decreases as enforcement becomes more ideologically targeted.
+
+__Impunity & Unredressed Wrong:__ The post-earthquake massacre of Koreans goes largely unpunished; state violence against socialists faces no accountability; impunity for official wrongdoing persists; the gap between justice claimed and delivered remains significant.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Western social science fully institutionalized; Marxism enters universities and journalism; liberal constitutionalism (Minobe's "organ theory") competes with statist thought; the discovery frontier shifts from importing to adapting Western ideas.
+
+__Applied Knowledge & Technical Method:__ Printing technology continues advancing; photography becomes standard in newspapers and magazines; circulation management, advertising sales, and distribution develop as professional techniques; journalism professionalizes.
+
+__Education, Knowledge Stock & Skill Distribution:__ Higher education expands; journalism attracts graduates; technical education develops; the skill pool deepens; mass education produces mass literacy; knowledge stock grows and spreads.
+
+__Obsolescence & Knowledge Decay:__ Classical education declines further; traditional arts face marginalization; some knowledge attrition occurs as modernization privileges Western learning; obsolete ideas persist in conservative circles but lose institutional support.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ National identity stabilizes around Meiji achievements; the emperor symbolizes continuity; war victories (Sino-Japanese, Russo-Japanese) anchor national pride; the earthquake becomes founding trauma of Taisho/Showa Tokyo; print mediates collective memory formation.
+
+__Legitimating Narrative & Ideology:__ Liberalism, democracy, and internationalism gain legitimacy; the kokutai ideology persists in official discourse but faces intellectual challenge; competing narratives (liberal, socialist, nationalist) contend in print; ideological pluralism increases.
+
+__Artistic Expression & Material Culture:__ Modern literature flourishes in magazines and newspapers; Akutagawa Ryunosuke, Tanizaki Junichiro, Kikuchi Kan define literary culture; moga/mobo (modern girl/boy) styles signal cultural modernity; Art Deco influences design; advertising art develops; the visual field modernizes.
+
+__Form Exhaustion & Meaning Decay:__ Meiji certainties erode; traditional forms struggle for relevance; modernist experimentation reflects and produces meaning instability; some hollowing occurs but creative renewal also proceeds; the cultural field remains generative.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular outlooks spread among educated urbanites; religious practice continues but loses intellectual prestige; existential individualism emerges in literature; cosmological certainty weakens; doubt becomes respectable.
+
+__Ritual, Devotion & Sacred Practice:__ State Shinto observances continue; Buddhist funerary practice persists; new religions attract followers seeking spiritual alternatives; ritual participation continues by convention more than conviction for many urbanites.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhist sects maintain institutional presence; State Shinto apparatus remains official; Christian institutions serve education and social work; doctrinal authority fragments; no single institution commands intellectual allegiance.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Western secularism and Christianity continue diffusing among elites; new religions (Omotokyo suppressed 1921) attract popular followers; the spiritual field remains plural; no dominant direction emerges.
+
+__Disenchantment & Sacred Discharge:__ Urban intellectual circles experience pronounced secularization; the sacred migrates toward nation and emperor as compensating focus; literature explores spiritual emptiness; disenchantment advances among the educated while popular religiosity persists; the gap between elite skepticism and popular piety widens; sacred discharge accumulates as existential uncertainty in literary and intellectual expression.

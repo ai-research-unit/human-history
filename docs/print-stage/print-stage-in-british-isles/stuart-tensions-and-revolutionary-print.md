@@ -1,69 +1,139 @@
-# __1603 CE – 1649 CE__ — Stuart Tensions and Revolutionary Print
-__Summary:__ The union of the English and Scottish crowns under James I inaugurates a half-century of escalating religious, constitutional, and fiscal conflict that culminates in civil war and regicide; the collapse of Star Chamber censorship in 1641 unleashes an unprecedented pamphlet explosion, making print the primary medium of political mobilization; the binding constraint is the unresolved question of sovereign versus parliamentary authority, with print amplifying rather than resolving the polarization; system margin against shock is exhausted by the late 1640s; direction of change is toward revolutionary rupture and the temporary abolition of monarchy.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The British Isles present a compact maritime geography with London as the dominant print, political, and commercial hub; English lowlands permit relatively easy movement, while Scottish highlands, Welsh uplands, and Irish bogs impose friction on communication and military operations; the Channel provides defensive advantage but also connects to continental Protestant and Catholic networks.<br><br>
-__Climate Regime & Volatility:__ The Little Ice Age continues with cooler temperatures and variable harvests; the 1640s see several poor harvests that stress provisioning and raise grain prices, adding material grievance to political conflict; no catastrophic climatic event dominates the window, but volatility remains elevated above the medieval baseline.<br><br>
-__Hazard Regime & Exposure:__ Acute environmental hazards are modest; flooding affects some lowland areas; urban fire risk remains endemic in timber-built cities but no great conflagration occurs within the window; disease outbreaks, particularly plague, pose the principal acute hazard to urban populations.<br><br>
-__Resource & Energy Endowment:__ England possesses accessible coal deposits increasingly exploited around Newcastle; timber stocks are declining, driving fuel transition; wool, tin, and lead remain significant; Ireland and Scotland provide cattle and raw materials; no critical resource exhaustion constrains the period, but timber scarcity is noticeable.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban waste accumulates in London and major towns with limited sanitation infrastructure; river pollution is localized but not yet industrial in scale; absorptive capacity remains adequate outside concentrated urban zones; the countryside disperses agricultural and domestic waste without significant degradation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague remains endemic with major outbreaks in 1603, 1625, and 1636 killing tens of thousands in London; smallpox, typhus, and dysentery contribute to elevated urban mortality; rural mortality is lower but childhood death rates remain high everywhere; the mortality baseline is severe by modern standards but stable within early modern norms.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional status varies sharply by class; gentry and yeomanry are adequately fed, while laborers and the urban poor experience periodic hunger, especially during harvest failures; average stature suggests modest nutritional stress; no systematic famine afflicts England, though Ireland experiences localized dearth.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage occurs relatively late by European standards, typically mid-twenties for women; nuclear family households predominate; illegitimacy rates are low under parish and community surveillance; fertility is high within marriage but moderated by late marriage age and lactation spacing.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly from roughly four million in England in 1600 toward five million by 1650; civil war losses are significant but not demographically catastrophic; Ireland's population is smaller and more disrupted by conquest; urban growth, especially London, concentrates population and intensifies density pressures.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and aged poor are supported through parish relief under the Poor Laws; the dependency load is manageable under normal conditions but civil war disruption creates refugee populations and wounded veterans; the system absorbs this strain unevenly, with parish capacity varying considerably.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed agriculture provides adequate subsistence in normal years; grain, dairy, and meat supply the population; enclosure accelerates, displacing some tenants; the provisioning floor is secure for most but vulnerable to harvest failure; Ireland's subsistence base is more precarious under colonial extraction.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; coal use expands for domestic heating and some industrial processes; water mills power textile and grain processing; wind drives shipping and some drainage; per-capita energy remains low but the coal transition is underway, particularly in the northeast.<br><br>
-__Labor Organization & Coercion:__ Wage labor expands alongside declining serfdom remnants; apprenticeship structures urban crafts; agricultural labor combines tenant farming with hired hands; coercion is modest by continental standards, though vagrancy laws compel labor; indentured servitude exports labor to colonies; military impressment increases during civil war.<br><br>
-__Production & Surplus Capacity:__ Woolen textiles remain the leading export; agricultural productivity improves incrementally; London crafts and overseas trade generate commercial surplus; industrial production is pre-factory but expanding; civil war disrupts trade and production, reducing surplus generation in the 1640s.<br><br>
-__Storage, Reserves & Buffering:__ Grain storage in barns and civic granaries buffers against single bad harvests; merchant capital provides some commercial reserves; no centralized strategic reserve exists; crown finances are perpetually strained, a core driver of constitutional conflict; reserves are inadequate against prolonged disruption.<br><br>
-__Exchange, Trade & Logistics:__ London dominates internal and external trade; coastal shipping connects ports; road networks are poor but functional; overseas trade expands to the Americas, West Indies, and Asia; civil war disrupts trade routes and customs collection; markets continue functioning but under strain.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coinage provides the primary medium; goldsmith-bankers emerge in London offering deposit and credit services; bills of exchange facilitate long-distance trade; crown borrowing from city merchants is chronic; no central bank exists; credit networks are personal and vulnerable to political disruption.<br><br>
-__Surplus Extraction & Redistribution:__ Crown revenue depends on customs, wardship, and irregular levies; Ship Money controversy exemplifies contested extraction without parliamentary consent; civil war forces both sides to impose heavy taxation; parliamentary excise and assessment create new extraction machinery that outlasts the conflict.<br><br>
-__Wealth Distribution & Asset Defense:__ Land remains the primary asset, concentrated among gentry and aristocracy; merchant wealth grows in London; confiscation threats during civil war prompt asset concealment; sequestration of royalist estates redistributes some property; overall distribution remains highly unequal with modest wartime leveling.<br><br>
-__Byproducts & Waste Routing:__ Workshop and domestic waste is dumped locally or into watercourses; coal smoke increases urban air pollution; agricultural waste is recycled as fertilizer; no industrial-scale pollution exists; waste routing remains localized and the discharge load is dispersed adequately across available sinks.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Parish and neighborhood networks provide baseline mutual aid; guild and company structures support urban craftsmen; civil war fractures communities along political and religious lines, eroding cross-factional trust; local solidarities persist but national-level polarization intensifies; trust radius contracts as conflict escalates.<br><br>
-__Stratification, Status & Group Identity:__ Hierarchical society runs from aristocracy through gentry, merchants, yeomen, to laborers and servants; status is marked by dress, speech, and deference; Puritan, Anglican, and Catholic identities cut across class; civil war crystallizes factional identities—Roundhead versus Cavalier—that overlay older stratification.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal nuclear households predominate; primogeniture governs landed inheritance; marriage alliances consolidate property; kin networks extend mutual support; civil war divides some families along political lines; basic kinship structures remain stable despite political upheaval.<br><br>
-__Civic Association & Self-Organization:__ Guilds, livery companies, and parish vestries structure urban governance; corporations manage towns; voluntary religious associations multiply among Puritans and sectarians; print enables new forms of association among geographically dispersed readers; civic fabric thickens through the crisis despite disruption.<br><br>
-__Leisure, Play & Sociability:__ Alehouses, fairs, and festivals provide popular sociability; theater flourishes until Puritan suppression in 1642; bear-baiting, football, and other recreations persist; Sabbatarianism restricts Sunday activities in Puritan areas; sociability patterns fragment along religious-political lines as the conflict intensifies.<br><br>
-__Grievance Channels & Social Discharge:__ Petitioning to Parliament becomes a mass phenomenon in the 1640s; religious dissent finds outlet in conventicles and printed controversy; riot and demonstration express popular grievance; legal channels through courts continue functioning; much grievance is discharged through these channels but polarization leaves significant residue unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The Stuart monarchy claims divine-right sovereignty while Parliament asserts its prerogatives over taxation and legislation; the conflict is structural, unresolved by James I's management and brought to rupture by Charles I's personal rule; power fragments during civil war between king, Parliament, New Model Army, and Scottish Covenanters; authority is contested and unstable throughout.<br><br>
-__Succession & Power Transfer:__ James I's succession from Elizabeth is smooth; Charles I inherits without dispute in 1625; the legitimacy of hereditary succession itself is challenged by regicide in 1649; transfer mechanisms break down catastrophically, demonstrating the system's incapacity to absorb fundamental disagreement about the basis of authority.<br><br>
-__Legitimacy & Political Narrative:__ Divine right competes with ancient constitution, parliamentary privilege, and covenantal theology; each side deploys print to argue its legitimacy; neither narrative achieves hegemony; the execution of the king on grounds of tyranny represents a revolutionary rupture in legitimating discourse.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Royal administration is thin, relying on unpaid local officials; Star Chamber and High Commission enforce conformity until abolished in 1641; Parliament develops committee governance during the war; the New Model Army creates its own administrative capacity; institutional capacity is contested and reorganized throughout the window.<br><br>
-__Political Participation & Mobilization:__ Mobilization expands dramatically; petitions gather thousands of signatures; the Levellers articulate expanded franchise demands; print and pulpit mobilize populations; the Army debates constitutional futures at Putney in 1647; participation channels open wider than at any previous moment in English history.<br><br>
-__Geopolitical Position & External Relations:__ England remains secondary to continental great powers; the Thirty Years' War rages but England intervenes only marginally; Scotland's separate status complicates relations; Ireland is a theater of colonial warfare and Catholic resistance; no major external threat exploits the civil war, but diplomatic isolation and commercial disruption result.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing army exists at the window's opening; trained bands provide local militia; civil war creates large field armies on both sides; the New Model Army emerges as a professional, ideologically committed force; by 1649 it is the decisive power center; control of force determines political outcomes.<br><br>
-__Internal Order & Threat Environment:__ Banditry and crime remain at normal early modern levels until civil war; the war itself produces widespread disorder, plunder, and localized atrocities; garrison towns and marching armies disrupt civilian life; post-war the Army maintains order but represents itself an unresolved threat to settlement; internal disorder is elevated but not anarchic.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print is the revolutionary medium; the collapse of licensing in 1641 enables pamphlet proliferation; newsbooks appear weekly reporting military and political developments; manuscript correspondence networks connect elites; sermons disseminate to gathered audiences; velocity remains limited by horse and ship but print volume explodes.<br><br>
-__Record, Storage & Persistence:__ Parliamentary records, state papers, and printed pamphlets create extensive documentation; the Thomason Tracts collection preserves over twenty thousand items from the period; church registers continue; the documentary record is dense and largely survives; print ensures unprecedented persistence of political argument.<br><br>
-__Framing, Censorship & Discourse Norms:__ Star Chamber censorship collapses in 1641; Milton's Areopagitica argues against licensing; nonetheless both sides attempt press control during the war; religious and political discourse is franker than ever before; taboos against criticizing the king erode; the permitted band widens dramatically, though never entirely free.<br><br>
-__Reception, Attention & Amplification:__ Literacy is perhaps thirty percent among adult males, higher in London and among Puritans; pamphlets are read aloud in alehouses and households; cheap print reaches beyond literate elites; newsbooks create regular audiences; amplification occurs through oral networks that extend print's reach to the illiterate majority.<br><br>
-__Signal Integrity & Noise Load:__ The pamphlet explosion produces competing claims, rumors, and propaganda; atrocity stories circulate with uncertain verification; newsbooks are partisan; readers must navigate contradictory accounts; no institutional mechanism ensures accuracy; noise rises with volume, but the politically engaged develop critical reading practices.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Protestant conscience, common law tradition, and customary right provide competing moral foundations; the sense that the king has violated fundamental law justifies resistance to many; others hold royal authority sacred regardless of conduct; no consensus exists on the hierarchy of moral claims, enabling legitimation of civil war by both sides.<br><br>
-__Law, Codification & Regulatory Evolution:__ Common law precedent governs most civil matters; equity in Chancery supplements; ecclesiastical courts handle marriage and morals; the abolition of Star Chamber and High Commission removes prerogative justice; Parliament legislates actively during the war; the legal framework is in flux, with new ordinances lacking settled legitimacy.<br><br>
-__Adjudication, Enforcement & Liability:__ Assizes and quarter sessions continue functioning where military operations permit; military justice governs armies; Parliament creates new tribunals; the trial and execution of the king by a specially created High Court of Justice represents an extraordinary assertion of novel judicial power; enforcement capacity is disrupted but not collapsed.<br><br>
-__Rights, Protections & Compliance Burden:__ Habeas corpus and jury trial protect accused in principle; impressment and arbitrary detention occur during the emergency; property rights are violated by sequestration and plunder; compliance burden increases under wartime taxation and regulations; the protective framework is strained but not abolished.<br><br>
-__Impunity & Unredressed Wrong:__ Wartime atrocities, plunder, and forced contributions go largely unredressed; the victors punish royalists through sequestration; common soldiers receive limited recompense; the regicide itself is viewed as justice by some, murder by others; significant grievance remains unresolved, stored as Restoration-era reckoning to come.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ The scientific revolution advances: Harvey's circulation of the blood, Bacon's inductive method, early Royal Society precursors; natural philosophy coexists with theological controversy; political theory explodes in pamphlet debates; the paradigm is transitional between scholastic authority and experimental inquiry.<br><br>
-__Applied Knowledge & Technical Method:__ Military technology applies continental innovations in fortification, artillery, and infantry tactics; printing technology is mature; navigation and shipbuilding improve incrementally; agricultural improvement is discussed but implementation remains localized; applied knowledge serves war and commerce.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Oxford and Cambridge train clergy and gentry; grammar schools serve middling ranks; literacy is perhaps thirty percent for males, lower for females; the knowledge stock is substantial for elites, thin for laboring classes; Puritan emphasis on Bible reading may push literacy higher in some communities.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic Aristotelianism declines; some medieval learning is discarded as obsolete; manuscript traditions give way to print; the war disrupts some educational institutions; however, no catastrophic knowledge loss occurs; the direction is toward accumulation and renovation rather than decay.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Protestant identity, anti-Catholic anxiety, and the memory of the Armada shape English self-understanding; the ancient constitution and free-born Englishman provide political mythology; Norman Yoke theory posits Saxon liberty betrayed by conquest; competing origin stories serve different political programs.<br><br>
-__Artistic Expression & Material Culture:__ Jacobean and Caroline court culture cultivates masque and portraiture; Van Dyck depicts aristocratic elegance; Puritan iconoclasm attacks church imagery after 1640; theater is suppressed in 1642; material culture bifurcates between royalist refinement and Puritan plainness; artistic production is constrained by war and ideology.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety and millennial expectation characterize the 1640s; many believe they live in apocalyptic times; political passions run high; courage and commitment coexist with weariness and desire for settlement; the collective mood darkens through the decade as war exacts its toll.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional forms of royal ceremony and ecclesiastical ritual are attacked as popish or tyrannical; their meaning is contested rather than exhausted; Puritan alternatives are vigorous if divisive; the residue is less anomie than active conflict over which forms should carry meaning.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Protestant Christianity frames existence; predestination, providence, and judgment day are living realities; many interpret political events through biblical typology; millenarian expectation rises; atheism is almost unknown; the existential outlook is saturated with religious meaning.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sunday worship is legally mandated; family devotions, psalm-singing, and Bible reading are widespread among the godly; sacraments are contested between episcopal and Presbyterian forms; devotional intensity varies from perfunctory conformity to fervent piety; sacred practice structures daily and weekly life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The Church of England is contested between Laudian ceremonialists and Puritan reformers; episcopacy is abolished in 1646; Presbyterian settlement is attempted but not enforced; Independent congregations proliferate; doctrinal authority fragments; institutional control over belief collapses, producing unprecedented pluralism.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Radical sects emerge—Baptists, Quakers, Ranters, Fifth Monarchists—spreading beyond mainstream Protestantism; Catholicism persists in recusant households; Judaism is effectively absent; the direction is toward proliferation and fragmentation rather than consolidation; England's religious landscape becomes unprecedentedly diverse.<br><br>
-__Disenchantment & Sacred Discharge:__ Disenchantment is minimal; if anything, re-enchantment through providential interpretation of events intensifies; witch trials continue, reflecting undiminished belief in supernatural causation; the spiritual need is answered, perhaps to excess, through competing certainties rather than eroding belief; no void of meaning opens in this fervent era.<br><br>
+# __1603 CE – 1649 CE — Stuart Tensions and Revolutionary Print__
+
+The binding constraint is the collision between Stuart claims to prerogative rule and the print-enabled capacity of parliamentary, Puritan, and popular opposition to circulate counter-narratives faster than the licensing system can suppress them. Royal censorship through the Stationers' Company and Star Chamber holds until 1641, but underground presses, smuggled pamphlets from the Netherlands, and manuscript circulation erode control; when Parliament abolishes the Star Chamber, the unlicensed press explodes and becomes the organizing medium of civil war, making print the decisive accelerant of political breakdown.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ England, Wales, and Scotland under one crown but separate administrations; Ireland under English rule. London dominates print production, concentrating presses within a few streets near St. Paul's. Distance from London slows provincial distribution but does not prevent it; coastal shipping and post-horse routes carry printed matter within days.
+
+__Climate Regime & Volatility:__ Cool, wet Atlantic climate with harvest variability. The 1620s and 1630s see several poor harvests, sharpening popular discontent that pamphlets amplify.
+
+__Hazard Regime & Exposure:__ No catastrophic natural events within the window, but plague recurs periodically (notably 1625, 1636), disrupting London's print trades and forcing temporary dispersals of printers.
+
+__Resource & Energy Endowment:__ Domestic paper production limited; imported rags and French, Dutch, and Italian paper supply the press. Ink ingredients, wooden type, and iron fittings available through guild supply chains.
+
+__Waste Absorption & Sink Capacity:__ Urban pollution in London intensifies with population growth but remains localized. Print waste is negligible; recycled rags feed paper mills, creating a closed material loop.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague outbreaks elevate London mortality in epidemic years; endemic typhus, smallpox, and dysentery maintain a high baseline death rate, especially among urban poor. Infant mortality severe.
+
+__Nutrition & Physiological Vitality:__ Subsistence adequate for most in normal harvest years; famine rare in England but chronic malnutrition persists among laborers. Stature slightly declining across the century as real wages fall.
+
+__Care, Healing & Recovery Capacity:__ Medical care rudimentary. Licensed physicians serve gentry; barber-surgeons, apothecaries, and midwives serve the rest. No institutional hospitals for the poor outside religious charity.
+
+__Reproductive Biology & Pairing Dynamics:__ Late marriage pattern prevails; mean age at first marriage for women around 25. Illegitimacy rates low; high infant mortality offsets fertility.
+
+__Demographic Renewal & Density:__ England's population roughly 4.1 million in 1603, rising toward 5 million by 1640. London grows from 200,000 to 400,000, absorbing migrants from rural areas. Scotland perhaps 1 million; Ireland 1.4 million.
+
+__Attrition & Dependency Overhang:__ Widows, orphans, and aged poor rely on parish relief under the Poor Law (1601). War from 1642 onward generates mass casualties, wounded veterans, and displaced populations.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Agricultural base supports population in normal years; periodic dearth requires grain imports. Enclosure continues, displacing cottagers; urban vagrancy rises.
+
+__Energy Capture & Conversion:__ Human and animal muscle dominate; water mills drive fulling and grain milling. Coal use expands for domestic heating and nascent industries, particularly in Newcastle-London trade.
+
+__Labor Organization & Coercion:__ Wage labor coexists with apprenticeship, servitude, and villeinage remnants. Print trades organized through Stationers' Company guild structure: apprentice, journeyman, master hierarchy.
+
+__Production & Surplus Capacity:__ Wool textiles remain leading export; tin, lead, and coal grow. Agricultural surplus sufficient for modest capital accumulation among yeomanry and gentry.
+
+__Storage, Reserves & Buffering:__ Crown finances weak; James I sells titles and monopolies; Charles I resorts to Ship Money and forced loans. No effective public debt market; reserves exhausted by 1640.
+
+__Exchange, Trade & Logistics:__ London as entrepot for European and emerging Atlantic trades. Coastal shipping, packhorse, and river barge move goods. Chartered companies (East India, Virginia) extend overseas reach.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver coin basis; goldsmith-bankers emerge in London. Bills of exchange circulate among merchants. Crown debasement rare but monetary instability abroad affects trade.
+
+__Surplus Extraction & Redistribution:__ Parliamentary taxation requires assent; Charles I's extra-parliamentary levies (Ship Money, forced loans) provoke resistance. Tithes and rents fund clergy and landlords.
+
+__Wealth Distribution & Asset Defense:__ Gentry and merchant wealth rises; aristocratic fortunes mixed. Land remains primary asset; enclosure concentrates holdings.
+
+__Byproducts & Waste Routing:__ Urban waste accumulates; no systematic sanitation. Print shops generate minimal waste; worn type melted and recast.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Primogeniture prevails among gentry; partible inheritance among some yeoman families. Nuclear household the norm; extended kin networks provide support.
+
+__Association & Mutual Aid:__ Parish, guild, and confraternity structures organize mutual aid. Alehouses and coffeehouses (emerging late period) serve as informal association spaces. Puritan conventicles form alternative networks.
+
+__Leisure, Play & Sociability:__ Fairs, wakes, and parish festivals; theater flourishes until Puritan closure (1642). Alehouses ubiquitous; bear-baiting, cockfighting, and sports popular.
+
+__Stratification, Status & Group Structure:__ Hereditary aristocracy, gentry, yeomanry, husbandmen, laborers, and vagrants form the hierarchy. Clergy and lawyers constitute parallel status tracks. Increasing polarization between Puritan "middling sort" and royalist gentry.
+
+__Administrative Capacity & Institutional Integrity:__ Crown administers through Privy Council, Star Chamber, and regional councils. Justices of the peace, unpaid local gentry, enforce law and collect taxes. Parliament meets intermittently; its power contested. Bureaucratic capacity thin; corruption endemic.
+
+__Coercive Apparatus & Means of Force:__ No standing army; trained bands (militia) unreliable. Royal guard minimal. Charles I's inability to coerce Scotland (Bishops' Wars 1639–1640) exposes military weakness. When civil war begins (1642), both sides must raise forces from scratch.
+
+__Discharge, Disorder & Decay:__ Food riots, enclosure riots, and religious disturbances recur. Star Chamber and High Commission suppress dissent until 1641. Civil war (1642–1649) represents systemic breakdown: sustained armed conflict, siege, massacre, and regional devastation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Rising anxiety over religion, arbitrary government, and economic uncertainty. Anti-Catholic sentiment intense; fear of popish plots recurrent. Trust in Crown erodes through 1630s; the "Personal Rule" (1629–1640) generates resentment.
+
+__Leadership & Personal Authority:__ James I's intellectual pretensions contrast with financial incompetence. Charles I's aloof manner and reliance on favorites (Buckingham, Strafford, Laud) alienate elites. Parliamentary leaders (Pym, Hampden) mobilize opposition through print and petition.
+
+__Legitimacy as Lived Allegiance:__ Divine right monarchy still commands allegiance among royalists; but parliamentary constitutionalism gains ground. By 1642, allegiance fractures into warring camps.
+
+__Political Will & Collective Resolve:__ Crown will to rule without Parliament persists 1629–1640 but collapses when Scottish war requires funds. Parliamentary will to resist hardens through Grand Remonstrance (1641) and Militia Ordinance (1642).
+
+__External Relations & Posture:__ Stuart foreign policy weak and inconsistent: James I's Spanish match fails; Charles I's French war (1627) ends in humiliation. Protestant cause in Thirty Years' War unsupported, damaging prestige.
+
+__Disaffection, Apathy & Spent Will:__ By 1649, war-weariness widespread. Regicide shocks even many parliamentarians. Army radicalism exceeds civilian appetite for revolution.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English dominant; Latin among clergy and scholars. Welsh, Scots Gaelic, and Irish Gaelic among peripheral populations. Literacy rising: perhaps 30% of men by 1640. Sermons, ballads, and oral report reach the illiterate.
+
+__Channels & Transmission Velocity:__ Handpress production: 250–300 sheets per hour. Post roads and weekly carrier services distribute print. News travels London to Edinburgh in 5–7 days. Manuscript newsletters supplement print for sensitive news.
+
+__Record, Storage & Persistence:__ Stationers' Register records licensed publications. Parish registers, court records, and state papers accumulate. Private libraries grow among gentry.
+
+__Framing, Censorship & Discourse Norms:__ Licensing through Stationers' Company and Star Chamber enforces pre-publication censorship until 1641. Seditious libel, heresy, and contempt prosecuted. Underground presses in London and abroad (Amsterdam, Leiden) evade control. After 1641, censorship collapses; pamphlet production explodes—over 20,000 items printed 1641–1660.
+
+__Reception, Attention & Amplification:__ Pamphlets read aloud in alehouses, churches, and marketplaces, amplifying reach beyond literate minority. Ballads and broadsides reach wide audiences. Sermons reinforce or contest printed arguments.
+
+__Signal Integrity & Noise Load:__ Information overload after 1641. Competing newsbooks (Mercurius Britannicus vs. Mercurius Aulicus) present partisan accounts. Rumor and false news proliferate; verification impossible for most readers.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Protestant conscience, covenant theology, and biblical moralism shape Puritan sensibility. Honor, loyalty, and hierarchy structure royalist ethics. Both sides claim divine sanction.
+
+__Law, Codification & Regulatory Evolution:__ Common law supplemented by royal prerogative courts (Star Chamber, High Commission). Parliamentary statutes require royal assent. Petition of Right (1628) asserts limits on prerogative. Abolition of Star Chamber (1641) removes key censorship instrument.
+
+__Adjudication, Liability & Sanction:__ Common law courts (King's Bench, Common Pleas) handle civil and criminal matters. Star Chamber handles sedition, libel, and press offenses until abolition. Jury trial for felonies; torture rare but used for treason.
+
+__Rights, Protections & Compliance Burden:__ Habeas corpus affirmed but sometimes suspended. Forced loans and arbitrary imprisonment contested. Religious conformity enforced; nonconformists fined, imprisoned, or driven abroad.
+
+__Impunity & Unredressed Wrong:__ Royal favorites enjoy impunity until parliamentary prosecution (Strafford executed 1641). Press offenders face mutilation (Prynne's ears cropped 1634, 1637) until Star Chamber falls. War atrocities mostly unpunished.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scholasticism fading; Baconian empiricism emerging. Francis Bacon's Novum Organum (1620) articulates inductive method. William Harvey demonstrates blood circulation (1628). Natural philosophy gaining prestige.
+
+__Applied Knowledge & Technical Method:__ Navigation, surveying, and military engineering improve. Printing technology stable but efficient. Agricultural improvement literature circulates (Hartlib circle).
+
+__Education, Knowledge Stock & Skill Distribution:__ Grammar schools expand; Oxford and Cambridge train clergy and gentry. Dissenting academies begin. Literacy rising but concentrated in southeast and urban areas.
+
+__Obsolescence & Knowledge Decay:__ Aristotelian physics and humoral medicine persist alongside newer ideas. Manuscript copying declining as print dominates learned communication.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ English Protestant identity defined against Catholic Europe. Foxe's Book of Martyrs sustains memory of Marian persecution. Ancient constitution and common law liberties invoked against royal prerogative.
+
+__Legitimating Narrative & Ideology:__ Divine right monarchy (James I's True Law of Free Monarchies) versus parliamentary constitutionalism and covenant theology. Both draw on scripture, history, and precedent.
+
+__Artistic Expression & Material Culture:__ Jacobean and Caroline court culture: masques, portraiture (Van Dyck), elaborate architecture (Inigo Jones). Puritan plain style contrasts with courtly elaboration. Print itself becomes expressive medium: woodcuts, ornamental typography, emblems.
+
+__Form Exhaustion & Meaning Decay:__ Court masque increasingly detached from political reality. Iconoclasm during civil war destroys church decoration, stained glass, and monuments—active rejection rather than mere exhaustion.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant providentialist worldview dominant: events reflect divine will; England as elect nation. Apocalyptic expectation heightens during civil war. Catholic minority persists under legal disabilities.
+
+__Ritual, Devotion & Sacred Practice:__ Prayer Book worship contested; Laudian "high church" ceremony versus Puritan simplicity. Sabbatarianism enforced. Family devotion, catechism, and sermon attendance structure Puritan life.
+
+__Religious Institutions & Doctrinal Authority:__ Church of England under episcopal hierarchy; bishops enforce conformity. High Commission court (abolished 1641) punishes nonconformity. Puritan factions (Presbyterians, Independents, sectaries) compete after 1642.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Protestant consolidation continues; Catholic recusancy marginalized. Puritan print dominates after 1641; radical sects (Baptists, Quakers, Ranters) proliferate, spreading heterodox ideas.
+
+__Disenchantment & Sacred Discharge:__ Intense religiosity precludes disenchantment in this period. Iconoclasm channels spiritual energy into destruction of "idolatrous" objects. War itself understood in providential terms; secularizing doubt negligible.

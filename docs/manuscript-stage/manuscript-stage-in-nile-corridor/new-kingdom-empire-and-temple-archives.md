@@ -1,69 +1,139 @@
-# __1550 BCE – 1069 BCE__ — New Kingdom Empire and Temple Archives
-__Summary:__ Egypt's imperial apogee under the Eighteenth, Nineteenth, and Twentieth Dynasties — territorial expansion into Syria-Palestine and deep Nubia, unprecedented temple construction, the Amarna diplomatic archive revealing international correspondence, and the Deir el-Medina ostraca documenting literate artisans — constitutes the most densely documented period of pharaonic history, ending with the fragmentation that opens the Third Intermediate Period.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor extends Egyptian control from the Fourth Cataract to the Euphrates at maximum reach; the Sinai and eastern desert form the transit corridor to Asia; the western desert remains a defensive buffer; distance and terrain impose logistical ceilings on permanent occupation beyond the river valley.<br><br>
-__Climate Regime & Volatility:__ The summer inundation continues as the agricultural pacemaker; some evidence of Nile variability in the late Twentieth Dynasty correlates with harvest shortfalls, but no sustained climatic shift is attested across the period.<br><br>
-__Hazard Regime & Exposure:__ Flood extremes — droughts and excessive inundations — occur intermittently; Ramessid-era texts document grain shortages in some years; temple granaries buffer against ordinary variance, though margin narrows in the final decades.<br><br>
-__Resource & Energy Endowment:__ Nubian gold flows abundantly into state coffers; Sinai copper and turquoise, Lebanese cedar, and Asiatic tribute goods augment the resource base; the endowment is at its pharaonic maximum.<br><br>
-__Waste Absorption & Sink Capacity:__ Monumental construction generates quarry spoil; settlement wastes remain negligible against floodplain capacity; no saturation or degradation accumulates.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasitic and gastrointestinal diseases persist; mummies show evidence of malaria, schistosomiasis, and dental pathology; no catastrophic epidemics are documented, and mortality holds at the agrarian baseline.<br><br>
-__Nutrition & Physiological Vitality:__ Grain, beer, vegetables, fish, and occasional meat sustain the population; Deir el-Medina ration records show adequate caloric provision for state workers; skeletal evidence indicates stable stature.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Monogamy predominates among commoners; royal polygyny produces succession crises; fertility is unimpaired, and the population grows through the period.<br><br>
-__Demographic Renewal & Density:__ Population expands, filling the Nile valley and supporting large-scale construction and military mobilization; density approaches the carrying capacity of pre-modern irrigation agriculture.<br><br>
-__Attrition & Dependency Overhang:__ Warfare creates casualties among military households; widows and orphans receive some temple and state support; the dependency load remains manageable relative to the productive population.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant households cultivate emmer, barley, and vegetables on allotted lands; state rations sustain temple and palace dependents; subsistence is secure except in years of Nile failure, when grain reserves are drawn upon.<br><br>
-__Energy Capture & Conversion:__ Human and bovine labor power agriculture and construction; donkeys and Nile boats move goods; horses pull war chariots but remain a military rather than agricultural energy source.<br><br>
-__Labor Organization & Coercion:__ Corvee conscription mobilizes peasants for construction and canal maintenance; temple and palace estates employ dependent workers; slavery exists, particularly among war captives, but is not the dominant labor form.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus supports massive temple construction, standing armies, and diplomatic gift exchange; the surplus ceiling is the highest in Egyptian history to this point.<br><br>
-__Storage, Reserves & Buffering:__ Temple and royal granaries store multi-year reserves; the Ramesseum storerooms alone held grain for thousands; buffering capacity is substantial, though late Twentieth Dynasty documents show depletion during crises.<br><br>
-__Exchange, Trade & Logistics:__ International trade flourishes — Aegean, Levantine, Mesopotamian, and Nubian goods circulate; the Amarna Letters document diplomatic gift exchange as formalized trade; internal logistics depend on the Nile and donkey caravans.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Grain, copper deben, and silver serve as value measures; no coinage; credit and debt recorded in ostraca and papyri; temple treasuries accumulate precious metals and goods.<br><br>
-__Surplus Extraction & Redistribution:__ Taxation in grain, labor, and livestock funds temple cults, military campaigns, and monumental building; temple estates grow to control perhaps one-third of cultivable land by the late New Kingdom, a concentration that strains royal finances.<br><br>
-__Wealth Distribution & Asset Defense:__ Temple institutions, the royal house, and military elite hold disproportionate wealth; tomb robbery increases in the late Ramesside period, indicating wealth defense under strain; land concentration in temple hands widens inequality.<br><br>
-__Byproducts & Waste Routing:__ Construction debris is reused or dumped in desert margins; settlement wastes disperse into the floodplain; no significant accumulation pressures.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village and craft-community solidarity remains strong; Deir el-Medina records show neighbor lending, collective petitions, and mutual support; trust networks function effectively at the local level.<br><br>
-__Stratification, Status & Group Identity:__ Rigid hierarchy from pharaoh through officials, priests, soldiers, artisans, and peasants; foreign captives and slaves at the bottom; ethnic categories (Nubian, Asiatic, Libyan) mark certain populations; social mobility possible through military or scribal careers but limited.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance predominates; daughters can inherit in the absence of sons; marriage is largely monogamous; the extended household is the basic social unit.<br><br>
-__Civic Association & Self-Organization:__ Craft guilds, temple workforces, and village councils organize collective life; Deir el-Medina's workers' council adjudicates disputes and coordinates labor; associational life is dense among literate artisans.<br><br>
-__Leisure, Play & Sociability:__ Festivals punctuate the calendar — Opet, the Valley Festival, New Year; music, dance, drinking, and board games documented; sociability is ritually and recreationally rich.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to officials, strikes (documented at Deir el-Medina under Ramesses III when rations failed), and local mediation absorb grievances; the late Ramesside strikes indicate discharge channels under strain.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The pharaoh holds divine-royal authority, mediated through the viziers (north and south), treasury, and military commanders; power is highly centralized under strong rulers but fragments under weak ones, as in the late Twentieth Dynasty.<br><br>
-__Succession & Power Transfer:__ Hereditary succession is the norm; co-regency smooths some transitions; the Amarna period and late Ramesside era see contested successions, harem conspiracies, and dynastic instability.<br><br>
-__Legitimacy & Political Narrative:__ Royal ideology presents the pharaoh as Horus incarnate, maintainer of ma'at, and victorious warrior; temple reliefs and royal inscriptions broadcast legitimacy; the Amarna experiment briefly disrupts this narrative before Tutankhamun's restoration.<br><br>
-__Administrative Capacity & Institutional Integrity:__ A professional bureaucracy manages taxation, labor conscription, legal adjudication, and foreign correspondence; hieratic records document administrative reach into villages; corruption appears in late Ramesside tomb robbery trials, indicating institutional decay.<br><br>
-__Political Participation & Mobilization:__ Commoners participate through petitions and labor service; elite factions compete for royal favor; the Deir el-Medina strikes represent rare collective action by workers; no mass political movements exist.<br><br>
-__Geopolitical Position & External Relations:__ Egypt dominates the eastern Mediterranean system alongside the Hittites, Mitanni, Babylonia, and Assyria; the Amarna Letters document this diplomatic network; the Hittite treaty under Ramesses II stabilizes the northern frontier; Sea Peoples incursions in the late period signal the end of the Bronze Age order.<br><br>
-__Coercive Apparatus & Means of Force:__ The standing army includes chariotry, infantry with bronze weapons, and Nubian archers; fortresses guard frontiers; the Medjay police maintain internal order; military capacity peaks under Thutmose III and Ramesses II.<br><br>
-__Internal Order & Threat Environment:__ Internal order is generally maintained; tomb robbery, occasional strikes, and frontier raiding represent manageable disorder; the late Twentieth Dynasty sees rising lawlessness as state capacity weakens.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Royal couriers, scribal correspondence, and official dispatches connect the empire; the Amarna archive preserves international letters in Akkadian; transmission across the empire takes weeks; within Egypt, the Nile accelerates communication.<br><br>
-__Record, Storage & Persistence:__ Temple and palace archives preserve administrative, legal, religious, and literary papyri; Deir el-Medina's ostraca document daily transactions; the Book of the Dead becomes a personalized funerary document; record survival is extensive but uneven due to later destruction and decay.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions frame military campaigns as triumphs and the pharaoh as infallible; the Amarna period's religious revolution is systematically erased after Akhenaten's death; official discourse is tightly controlled at the elite level.<br><br>
-__Reception, Attention & Amplification:__ Literacy extends to artisans like those at Deir el-Medina but remains a minority skill; temple festivals and royal monuments broadcast messages to illiterate masses through imagery and oral proclamation.<br><br>
-__Signal Integrity & Noise Load:__ Duplicate records, scribal training, and archival practices maintain accuracy; the sheer volume of documentation creates some redundancy; signal integrity is high within the bureaucratic system.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Ma'at — truth, order, justice — remains the ethical foundation; the afterlife judgment before Osiris reinforces moral accountability; the Instructions of Amenemope codify ethical conduct.<br><br>
-__Law, Codification & Regulatory Evolution:__ Royal decrees and legal precedents govern disputes; no comprehensive law code survives, but case law is extensively documented; the Decree of Horemheb addresses administrative abuses.<br><br>
-__Adjudication, Enforcement & Liability:__ Local courts (kenbet), temple tribunals, and the vizier's court adjudicate disputes; the Deir el-Medina records show functioning justice at the village level; oracular consultation resolves some cases; enforcement relies on officials and community pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights, inheritance claims, and contractual obligations are enforceable; women can own property and initiate litigation; compliance burden is moderate for those within the system.<br><br>
-__Impunity & Unredressed Wrong:__ The tomb robbery trials under Ramesses IX reveal both judicial process and elite complicity; impunity for powerful offenders increases in the late period as institutional integrity erodes.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Egyptian cosmology, medicine, and mathematics remain within traditional paradigms; the Edwin Smith and Ebers papyri document empirical medical knowledge; astronomical observation serves calendrical and religious purposes; no paradigm shifts occur, but accumulated practical knowledge is substantial.<br><br>
-__Applied Knowledge & Technical Method:__ Monumental architecture, bronze metallurgy, chariot construction, glass-making, and advanced irrigation techniques represent the applied knowledge in use; the engineering of Karnak, Abu Simbel, and the Ramesseum demonstrates technical mastery.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (Houses of Life) attached to temples train the literate class; classical Middle Kingdom texts form the curriculum alongside New Kingdom compositions; literacy extends to some artisans but remains concentrated in perhaps 1-5% of the population.<br><br>
-__Obsolescence & Knowledge Decay:__ Copying preserves older texts; some technical knowledge may narrow as the period ends and resources contract; the Amarna period's religious texts are deliberately destroyed, representing ideological rather than technical obsolescence.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Egyptian identity centers on the pharaonic state, the Nile, and the gods; the expulsion of the Hyksos becomes a founding narrative of the New Kingdom; Thebes and its god Amun anchor Upper Egyptian identity.<br><br>
-__Artistic Expression & Material Culture:__ The New Kingdom represents an artistic peak — tomb paintings at the Valley of the Kings, colossal statuary, refined jewelry, and decorated temples; the Amarna style briefly introduces naturalism before the restoration of traditional forms; material culture is rich and distinctive.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence and imperial pride characterize the peak period; the mood darkens in the late Ramesside era as resources contract, tomb robbery increases, and foreign pressures mount; anxiety appears in late texts.<br><br>
-__Form Exhaustion & Meaning Decay:__ Artistic forms remain vital through most of the period; late Ramesside repetition of earlier models suggests some creative exhaustion; religious forms retain meaning, but the Amarna experiment reveals potential for radical reinterpretation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ The Egyptian cosmos centers on the daily solar journey and the afterlife in the Field of Reeds; the Amarna period briefly elevates the Aten to sole deity before the restoration of polytheism; piety toward personal gods increases among commoners.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple rituals maintain cosmic order; the Opet and Valley festivals involve popular participation; mortuary cults serve the dead; personal piety expressed through votive offerings and prayers intensifies in the Ramesside period.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The Amun priesthood at Karnak accumulates vast wealth and political influence; temple estates grow to rival royal resources; the High Priest of Amun eventually becomes a de facto ruler in Thebes, contributing to political fragmentation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Foreign gods (Baal, Astarte, Reshep) enter the Egyptian pantheon through Asiatic contact; syncretism absorbs these deities within Egyptian frameworks; the Atenist displacement of traditional gods is reversed after Akhenaten's death.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment is evident; the sacred canopy remains intact; religious institutions provide meaning and social cohesion throughout, though the Amun priesthood's growing power introduces institutional tensions that persist into the Third Intermediate Period.<br><br>
+# __1550 BCE – 1069 BCE — New Kingdom Empire and Temple Archives__
+
+__Summary:__ Egypt reaches its imperial apex, projecting power from the Fourth Cataract to the Euphrates, while the temple archive becomes the central institution of manuscript administration — recording land, labor, and offerings with unprecedented thoroughness; the binding constraint is that surplus extraction to fund military expansion and monumental construction depends on scribal capacity to track and allocate resources, making the archive apparatus the empire's operational core.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The empire spans three distinct zones: the Nile Valley core from Delta to First Cataract; Nubia southward to the Fourth Cataract providing gold and military manpower; and the Levantine corridor from Sinai to the Euphrates requiring sustained logistical effort across desert and mountain terrain with friction increasing at distance from Nile water transport.
+
+__Climate Regime & Volatility:__ The period coincides with Late Bronze Age climate optimum; Nile floods generally adequate though textual evidence documents occasional low floods; the Eastern Mediterranean enjoys favorable conditions supporting agricultural surplus across the imperial zone.
+
+__Hazard Regime & Exposure:__ Volcanic events (Thera eruption, c. 1628 or c. 1550 BCE, dating disputed) may contribute to early disruptions; the late period faces Sea Peoples migrations partly driven by eastern Mediterranean instability; no catastrophic Nile flood failures documented until late Dynasty 20.
+
+__Resource & Energy Endowment:__ Nubian gold mines (Wadi Allaqi, Wadi Hammamat) provide wealth for international exchange; Levantine copper and tin flow through tribute and trade; Sinai turquoise and copper continue extraction; the resource base supports bronze economy at full capacity.
+
+__Waste Absorption & Sink Capacity:__ The floodplain's annual renewal absorbs agricultural waste; mining and quarrying create localized degradation but not systemic strain; monumental construction generates stone debris absorbed by desert margins.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic schistosomiasis, malaria, and parasitic infections continue; mummies show evidence of tuberculosis and dental disease; life expectancy perhaps 35 years at birth for those surviving childhood; no major epidemic documented until possible late-period plague.
+
+__Nutrition & Physiological Vitality:__ Grain-based diet supplemented by fish, vegetables, and occasional meat; tomb paintings and skeletal remains suggest adequate nutrition for most of the population; elite mummies show obesity-related conditions indicating surplus availability.
+
+__Care, Healing & Recovery Capacity:__ Medical papyri (Edwin Smith, Ebers) codify surgical and pharmaceutical knowledge; temple physicians, midwives, and magician-healers distributed through population centers; Deir el-Medina records document sick leave and medical care for workers.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage remains primarily monogamous except for royal polygyny; sibling marriage occurs in royal family for dynastic consolidation; fertility celebrated in religious practice; contraceptive and abortifacient knowledge documented in medical texts.
+
+__Demographic Renewal & Density:__ Population perhaps 3-4 million at peak; growth supported by agricultural intensification and Nubian labor imports; the Delta supports highest densities; Theban region grows as religious and administrative center.
+
+__Attrition & Dependency Overhang:__ Military campaigns impose mortality on conscript armies; widow and orphan support documented in administrative texts; temple endowments provide for aged priests; dependency load absorbed by extended households and institutional charity.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basin irrigation supports two-crop cycles in favorable years; grain production adequate for population and surplus extraction; state and temple granaries buffer annual variation; no widespread famine documented until late Dynasty 20 disruptions.
+
+__Energy Capture & Conversion:__ Human labor remains primary, supplemented by cattle for plowing and donkeys for transport; horses reserved for military chariots; water-lifting devices (shaduf) documented; wood fuel increasingly scarce, driving Levantine timber imports.
+
+__Labor Organization & Coercion:__ Corvee labor (royal service obligations) provides construction workforce; temple estates employ permanent workers in addition to seasonal conscripts; Deir el-Medina documents wage labor for skilled craftsmen; Nubian war captives provide slave labor; the labor system combines coercion and compensation in varying proportions by sector.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports perhaps 10% non-agricultural population including priests, scribes, soldiers, and artisans; workshop production at temples and palaces manufactures for elite consumption and export; textile, faience, and metalworking achieve high technical standards.
+
+__Storage, Reserves & Buffering:__ State granaries at major centers (Memphis, Thebes, Per-Ramesses) hold multi-year reserves; temple treasuries accumulate precious metals; the system provides substantial buffering against single-year failures but struggles with sequential bad years.
+
+__Exchange, Trade & Logistics:__ International exchange networks connect Egypt with Aegean, Anatolia, Mesopotamia, Punt, and inner Africa; Amarna letters document diplomatic gift exchange; commercial trade complements tribute; internal distribution via Nile transport highly efficient.
+
+__Value Storage, Credit & Deferred Exchange:__ Grain, silver, and copper serve as value standards; temple accounts record credits and debits; no coined money, but weighed metal functions similarly; deferred exchange documented in labor contracts and loan texts.
+
+__Surplus Extraction & Redistribution:__ Temple estates (particularly Amun at Karnak) accumulate vast landholdings, labor forces, and treasuries; Papyrus Harris I records Ramesses III's donations totaling hundreds of thousands of acres and tens of thousands of workers; extraction supports religious, military, and construction establishments; redistribution through temple offerings and wages sustains urban populations.
+
+__Wealth Distribution & Asset Defense:__ Land concentrated in crown, temple, and military-official estates; tomb robberies document elite attempts to protect wealth into afterlife; late-period tomb robbery trials show breakdown of asset protection as central authority weakens.
+
+__Byproducts & Waste Routing:__ Construction debris deposited in desert; agricultural waste recycled; no documented waste accumulation crisis; late-period economic strain reflects revenue shortfall rather than physical waste buildup.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear family within extended household network; inheritance through both male and female lines documented; marriage contracts specify property arrangements; royal succession ideally father-to-son but frequently disrupted by lack of male heirs.
+
+__Association & Mutual Aid:__ Village communities provide mutual support; Deir el-Medina documents neighbor assistance, shared meals, and collective protest (the first recorded labor strike, c. 1152 BCE); temple personnel form craft-based associations; the associational fabric dense in documented communities.
+
+__Leisure, Play & Sociability:__ Religious festivals (Opet, Beautiful Feast of the Valley) provide public celebration; board games (senet), music, and dance documented; beer consumption widespread; elite leisure includes hunting and fowling; sociability structured around festival calendar.
+
+__Stratification, Status & Group Structure:__ Hierarchical society with pharaoh at apex, followed by royal family, high priests and viziers, military officers, lower priests and scribes, artisans, peasants, and slaves; status markers include tomb size, wig styles, clothing quality; boundaries permeable through royal favor, education, or military achievement.
+
+__Administrative Capacity & Institutional Integrity:__ Vizier heads civil administration divided into Upper and Lower Egypt; professional scribal bureaucracy maintains census, tax, and conscription records; temple administrations parallel state apparatus; Deir el-Medina documents demonstrate granular administrative oversight; institutional integrity high through Dynasty 19, declining through Dynasty 20.
+
+__Coercive Apparatus & Means of Force:__ Professional army with chariot corps, infantry divisions (named for gods: Amun, Ra, Ptah, Seth), and Nubian auxiliaries; fortress networks in Nubia and Levant project power; internal police (Medjay) maintain order; late period sees increased use of Libyan and Sea Peoples mercenaries introducing instability.
+
+__Discharge, Disorder & Decay:__ The Amarna period represents religious-political disruption contained within elite; late Dynasty 20 sees strikes, tomb robberies, Libyan incursions, and administrative breakdown; the Harem Conspiracy against Ramesses III exposes factional violence; by 1069 BCE, accumulated disorder leads to political fragmentation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Imperial confidence characterizes the period through Ramesses II; later texts express anxiety about foreign threats and internal disorder; the Deir el-Medina strike reveals willingness to voice grievance when provisioning fails; trust contracts around kinship and local community as central authority weakens.
+
+__Leadership & Personal Authority:__ Pharaohs project personal authority through monumental self-representation; Thutmose III, Amenhotep III, Akhenaten, Ramesses II, and Ramesses III dominate their eras; military commanders (Horemheb) and priests (High Priests of Amun) accumulate personal followings; charismatic authority structures the apex.
+
+__Legitimacy as Lived Allegiance:__ Pharaonic legitimacy grounded in divine sonship (son of Amun, later Ra) and maintenance of Ma'at; Akhenaten's religious revolution tests but does not break legitimating framework; late-period tomb robberies suggest eroding lived allegiance; by Dynasty 20's end, High Priests of Amun at Thebes rival royal authority.
+
+__Political Will & Collective Resolve:__ Early period shows remarkable will for imperial expansion (seventeen campaigns of Thutmose III); Ramesses II's determination at Kadesh and subsequent diplomatic resolution demonstrate sustained resolve; late period will dissipates as resources contract; the Sea Peoples crisis finds Egypt capable of defense but not counter-attack.
+
+__External Relations & Posture:__ The Great Powers system (Egypt, Hatti, Mitanni, Babylon, Assyria) structures international relations; diplomatic correspondence (Amarna letters) shows equality among great kings, hierarchy toward vassals; Kadesh campaign and subsequent Egyptian-Hittite treaty establish balance; Sea Peoples migrations disrupt the system; by 1069 BCE, Egypt withdraws from Levant entirely.
+
+__Disaffection, Apathy & Spent Will:__ Late Dynasty 20 documents show rising complaint and reduced compliance; grain deliveries to Deir el-Medina become irregular, sparking strikes; elite competition for resources intensifies; will to maintain empire exhausts before political fragmentation formalizes the loss.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hieratic script standard for administration and literature; hieroglyphics for monuments and formal texts; literacy remains minority skill (perhaps 1-5% of population) but sufficient for administrative needs; bilingualism (Egyptian-Akkadian) among diplomatic scribes; oral proclamation extends written commands to broader population.
+
+__Channels & Transmission Velocity:__ Nile transport provides communication spine; messenger networks extend to Levantine and Nubian territories; Amarna correspondence shows weeks-to-months transit times for international communication; internal communication faster along the river axis.
+
+__Record, Storage & Persistence:__ Temple archives accumulate unprecedented documentation; Deir el-Medina preserves daily administrative records, letters, and legal documents; Papyrus Harris I demonstrates comprehensive accounting; records survive on papyrus, ostraca, and tomb walls; systematic storage creates retrievable institutional memory.
+
+__Framing, Censorship & Discourse Norms:__ Royal propaganda dominates monumental discourse; Akhenaten's revolution imposes temporary alternative framing followed by systematic damnatio memoriae; literary texts circulate among elite; criticism appears in wisdom literature and satire but not direct political opposition; discourse norms permit complaint within loyalty framework.
+
+__Reception, Attention & Amplification:__ Temple and palace recitations reach assembled audiences; festival processions provide public communication; visual programs on temples and tombs communicate to illiterate viewers; oral amplification extends manuscript reach beyond literate minority.
+
+__Signal Integrity & Noise Load:__ Administrative records maintain high integrity; copying traditions preserve texts with scribal errors documented but controlled; late-period record-keeping remains functional; no information system breakdown documented.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Ma'at remains foundational — cosmic order, truth, justice, proper conduct; the Declaration of Innocence (Book of the Dead, Chapter 125) enumerates moral code; social harmony, proper burial, care for dependents constitute moral obligations; the sense of justice remains robust through the period.
+
+__Law, Codification & Regulatory Evolution:__ No surviving comprehensive law code, but legal texts show case law development; Great Edict of Horemheb addresses corruption and military abuses; property law, marriage contracts, and inheritance rules documented; oracular law (divine decisions via temple statues) supplements human adjudication.
+
+__Adjudication, Liability & Sanction:__ Local courts (kenbet) handle property and civil matters; vizier's court handles appeals and serious crimes; temple tribunals adjudicate religious offenses; tomb robbery trials (late Dynasty 20) document judicial procedure including torture for confession; sanctions range from beating to mutilation to execution.
+
+__Rights, Protections & Compliance Burden:__ Women retain property rights and legal personhood; contracts document negotiated obligations; corvee and taxation represent compliance burden; late-period burden increases as state revenue needs outpace productive capacity.
+
+__Impunity & Unredressed Wrong:__ Royal prerogative provides immunity at apex; Great Edict of Horemheb explicitly addresses official corruption suggesting prior impunity; late-period tomb robbery trials expose elite complicity; accumulated unredressed wrong contributes to end-period instability.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Mathematical astronomy sufficient for calendar and construction calculations; medical inquiry produces systematic surgical and pharmaceutical texts; historical inquiry manifests in king lists and campaign records; theoretical inquiry remains practical rather than philosophical; no paradigm shifts documented.
+
+__Applied Knowledge & Technical Method:__ Monumental construction achieves unprecedented scale (Karnak, Abu Simbel, Ramesseum); chariot and bronze weapon manufacture at high technical level; glass, faience, and metallurgy advance; shipbuilding for Mediterranean and Red Sea voyages; technical method transmitted through workshop apprenticeship and temple schools.
+
+__Education, Knowledge Stock & Skill Distribution:__ Temple schools train scribes and priests; Instruction literature (Ani, Amenemope) provides ethical and practical education; specialized training for physicians, architects, and master craftsmen; knowledge concentrated in temple and palace contexts but functionally distributed across necessary specializations.
+
+__Obsolescence & Knowledge Decay:__ Early scripts (hieratic variants) remain readable; copying traditions maintain classical texts; some technical knowledge (particularly architectural) begins declining late in period; no catastrophic knowledge loss but skill attrition begins as institutional support wavers.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The expulsion of the Hyksos founds New Kingdom identity as restored, purified Egypt; imperial expansion confirms Egyptian superiority; Amarna period briefly challenges traditional mythology but restoration under Tutankhamun and successors reaffirms Amun-centered identity; Ramesses II becomes exemplar of ideal kingship.
+
+__Legitimating Narrative & Ideology:__ Divine kingship ideology elaborated: pharaoh as son of Amun, living Horus, guarantor of Ma'at; empire justified as extension of cosmic order; temple construction demonstrates royal piety; late-period narratives emphasize precedent and tradition as disorder threatens.
+
+__Artistic Expression & Material Culture:__ New Kingdom art achieves canonical forms: painted tomb chapels, colossal statuary, temple relief programs; Amarna period introduces naturalistic experimentation; Ramessid period emphasizes monumentality and repetition; material culture expresses hierarchy through object quality, tomb size, and consumption patterns.
+
+__Form Exhaustion & Meaning Decay:__ Early period shows creative elaboration; late Ramessid production becomes increasingly formulaic; Book of the Dead standardizes mortuary texts; monumental repetition (Ramesses II's ubiquitous imagery) approaches self-parody; form exhaustion visible by Dynasty 20 as resources contract.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Solar theology (Ra, Amun-Ra) dominates; the afterlife accessible through proper burial, mummification, and moral conduct; Osirian judgment weighs the heart; the cosmos ordered and just, requiring human participation in maintaining Ma'at; existential anxiety centers on proper burial and eternal provisioning.
+
+__Ritual, Devotion & Sacred Practice:__ Temple ritual (daily service to divine statues) structures religious life; festival processions bring divine images to public view; personal piety emerges during the period (prayers, votive offerings, domestic shrines); mortuary ritual ensures afterlife transition; the sacred calendar pervades daily life.
+
+__Religious Institutions & Doctrinal Authority:__ Temple estates become Egypt's largest landholders and employers; High Priests of Amun at Thebes accumulate wealth and power rivaling royalty; Akhenaten's attempt to centralize religion in Aten fails, but demonstrates potential for doctrinal revolution; priesthoods hold interpretive authority over texts and rituals.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Amun-Ra synthesis consolidates; foreign deities (Astarte, Reshef, Ba'al) adopted into Egyptian pantheon; Nubian Amun cult extends southward; no competing cosmology challenges Egyptian framework from without; Atenism represents internal challenge rapidly suppressed.
+
+__Disenchantment & Sacred Discharge:__ No documented disenchantment; tomb robberies late in period may indicate eroding belief in afterlife efficacy or simply economic desperation; the sacred framework holds through political decline; disenchantment if present remains unexpressed in surviving sources.

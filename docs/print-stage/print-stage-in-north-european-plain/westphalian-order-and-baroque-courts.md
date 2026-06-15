@@ -1,69 +1,139 @@
-# __1648 CE – 1740 CE__ — Westphalian Order and Baroque Courts
-__Summary:__ A long-term trend across the North European Plain following the Thirty Years War devastation, as territorial states consolidate under absolutist rule and the Westphalian sovereignty principle; the binding constraint is demographic recovery from catastrophic wartime losses while states build baroque court culture and administrative machinery; margin against shock remains thin as populations rebuild slowly; the trajectory moves toward bureaucratic consolidation, confessional coexistence, and the early emergence of periodical print.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor from the Netherlands to Poland remains the transit arena, with major rivers — Rhine, Elbe, Oder, Vistula — serving as trade arteries; fragmented territorial sovereignty imposes tolls and crossing friction despite flat terrain.<br><br>
-__Climate Regime & Volatility:__ The Little Ice Age continues with cold winters and variable harvests; interannual volatility strains agrarian recovery but no major secular drift marks the window; provisioning margins remain narrow after wartime devastation.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along major rivers persists; no catastrophic seismic or volcanic events; the primary hazard exposure is renewed warfare, which the Westphalian settlement partially contains but does not eliminate.<br><br>
-__Resource & Energy Endowment:__ Timber, iron, and coal deposits remain available; Dutch peat extraction continues; the endowment is adequate but exploitation limited by labor scarcity and slow demographic recovery.<br><br>
-__Waste Absorption & Sink Capacity:__ Pre-industrial waste loads remain trivial relative to absorptive capacity; urban sanitation poor but population density low; no saturation of air, water, or soil sinks.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic plague, typhus, and dysentery persist; epidemic outbreaks recur but at lower intensity than wartime peaks; mortality baseline remains elevated but trending downward as populations stabilize.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional recovery proceeds slowly; famines recur in poor harvest years; stature and vitality remain depressed compared to pre-war levels but gradually improving.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Post-war demographic recovery drives earlier marriage and higher fertility; reproductive biology unchanged; pairing dynamics oriented toward repopulation.<br><br>
-__Demographic Renewal & Density:__ Catastrophic population losses of the Thirty Years War — perhaps one-third in some regions — slowly reverse; density remains far below carrying ceiling; renewal is the dominant demographic story.<br><br>
-__Attrition & Dependency Overhang:__ War orphans, widows, and disabled veterans constitute substantial dependency load; charitable institutions and kin networks absorb most but some marginalization persists; overhang diminishes as generation turns.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agrarian recovery primary; abandoned villages resettled; subsistence remains precarious in bad harvest years but gradually stabilizing above wartime collapse.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominate; watermill and windmill use continues; per-capita work ceiling limited by labor scarcity; conversion efficiency unchanged from pre-war.<br><br>
-__Labor Organization & Coercion:__ Serfdom intensifies east of the Elbe as lords bind remaining peasants more tightly; west of the Elbe freer tenures prevail; labor scarcity gives some bargaining power but legal coercion hardens in the east.<br><br>
-__Production & Surplus Capacity:__ Agrarian output slowly recovers; craft production resumes in surviving towns; surplus capacity limited but trending upward as population and cultivation expand.<br><br>
-__Storage, Reserves & Buffering:__ Granary reserves thin; states building treasury reserves for military contingencies; buffering capacity slowly rebuilding but remains below pre-war levels.<br><br>
-__Exchange, Trade & Logistics:__ Toll barriers fragment trade; Hamburg, Amsterdam, and Leipzig fairs serve as commercial nodes; Dutch maritime trade dominant; internal logistics slow but gradually improving.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver currency standard; Amsterdam banking provides credit infrastructure; debasement memories from war period make populations wary; credit networks slowly rebuilding.<br><br>
-__Surplus Extraction & Redistribution:__ Absolutist states develop cameral administration for tax collection; seigneurial dues in the east; ecclesiastical tithes continue; extraction burden moderate as states rebuild fiscal machinery.<br><br>
-__Wealth Distribution & Asset Defense:__ Noble landholding concentrated; war disrupted some fortunes while others profited; land remains the primary defensible asset; bourgeois wealth slowly accumulating in trading cities.<br><br>
-__Byproducts & Waste Routing:__ Pre-industrial craft waste minimal; urban refuse accumulates locally; routing decisions informal; no pressure on sinks.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Confessional division creates trust boundaries at religious lines; within communities, mutual aid through guilds, parishes, and kin networks rebuilds; radius of trust slowly expanding but sectarian wariness persists.<br><br>
-__Stratification, Status & Group Identity:__ Rigid stratification into nobility, burghers, and peasants; confessional identity (Catholic, Lutheran, Reformed) remains primary group marker; boundaries hardening into established patterns after religious settlement.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance; partible inheritance west, impartible east; household reconstitution after war losses; marriage patterns shift toward earlier union for demographic recovery.<br><br>
-__Civic Association & Self-Organization:__ Guilds regulate urban crafts; village communes manage common resources; associational life rebuilding within confessional bounds; state supervision increasing but guilds retain autonomy.<br><br>
-__Leisure, Play & Sociability:__ Baroque court festivals, public celebrations, carnival traditions; tavern culture for common folk; confessional boundaries shape festive calendars; sociability slowly normalizing after war trauma.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to lords and rulers; guild mediation; ecclesiastical charity; social friction largely absorbed through hierarchical channels; emigration possible for dissenters; residual grievance moderate.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Territorial sovereignty consolidated after Westphalia; absolutist princes concentrate power; Emperor retains ceremonial primacy but real authority lies with territorial states; centralizing trend within each territory.<br><br>
-__Succession & Power Transfer:__ Dynastic succession standard; succession crises occasional but mostly managed through established rules; War of Spanish Succession and Great Northern War demonstrate continued succession-driven conflict at interstate level.<br><br>
-__Legitimacy & Political Narrative:__ Divine right of kings; confessional identity legitimates territorial rule; baroque display demonstrates power; Westphalian principle of non-interference provides interstate legitimacy framework.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Cameral science develops bureaucratic technique; standing armies and tax collection improve; record-keeping increasingly systematic; corruption present but administration professionalizing.<br><br>
-__Political Participation & Mobilization:__ Estates retain some consultative role; popular participation minimal; religious conformity expected; dissent channeled through confessional emigration rather than mobilization.<br><br>
-__Geopolitical Position & External Relations:__ Westphalian balance operates; France dominant power threatening western territories; Sweden and Poland contest Baltic; Brandenburg-Prussia rising; Austria defending against Ottoman pressure and consolidating Habsburg lands.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing armies replace mercenary bands; fortification systems expand; musket and pike infantry standard; artillery advances; state monopoly on legitimate force consolidating.<br><br>
-__Internal Order & Threat Environment:__ Banditry and disorder from war aftermath gradually suppressed; standing armies and police powers maintain internal order; residual violence declining as state capacity grows.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Postal systems formalized under territorial and imperial post; printed gazettes emerge reporting news weekly; oral networks and market-day information exchange continue; velocity measured in days to weeks across the plain.<br><br>
-__Record, Storage & Persistence:__ State archives systematize; church registers track vital events; library collections rebuild after war losses; persistence improving as administrative record-keeping standardizes.<br><br>
-__Framing, Censorship & Discourse Norms:__ Territorial censorship controls print; confessional orthodoxy shapes permissible discourse; learned Latin journals circulate among scholars; vernacular print expanding but supervised.<br><br>
-__Reception, Attention & Amplification:__ Literate audience limited to educated classes; gazettes read aloud in urban settings; court culture amplifies baroque aesthetics; attention concentrated in capital cities and university towns.<br><br>
-__Signal Integrity & Noise Load:__ Official gazettes carry state-sanctioned news; rumor and oral transmission less reliable; learned journals verify scholarly claims; noise load moderate as print volume still limited.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian natural law provides foundation; confessional variation in emphasis; hierarchy and order valued; justice understood as maintaining divine-sanctioned social structure.<br><br>
-__Law, Codification & Regulatory Evolution:__ Roman law tradition continues; territorial law codes emerging; imperial law provides overarching framework; codification slowly advancing as states rationalize administration.<br><br>
-__Adjudication, Enforcement & Liability:__ Territorial courts handle most cases; Imperial Chamber Court and Aulic Council for interstate disputes; seigneurial justice in countryside; enforcement capacity improving with state consolidation.<br><br>
-__Rights, Protections & Compliance Burden:__ Confessional rights established by Westphalia; limited property protections vary by territory; compliance burden on subjects significant but predictable within territorial systems.<br><br>
-__Impunity & Unredressed Wrong:__ Noble privilege provides substantial impunity; war crimes go unredressed; justice delayed by jurisdictional complexity; some impunity gap persists but narrowing as state courts expand reach.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Natural philosophy advancing; Leibniz exemplifies German contribution; mechanistic worldview spreading among educated; university scholasticism persists but new science gaining ground.<br><br>
-__Applied Knowledge & Technical Method:__ Mining engineering advances; fortification science develops; agricultural improvement begins; cameralist administrative technique systematizes state management.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Protestant and Catholic schools rebuild; university education for clergy and administrators; literacy concentrated in urban areas and among Protestants; skill distribution gradually widening.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic method declining; war disrupted knowledge transmission; library losses from conflict; decay slowing as institutions stabilize and learned journals preserve findings.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Confessional martyrologies; Thirty Years War trauma becoming foundational memory; territorial dynastic myths; German-ness as cultural-linguistic identity distinct from political unity.<br><br>
-__Artistic Expression & Material Culture:__ Baroque architecture dominates court building; ornate church decoration; painting, sculpture, and music flourish under patronage; material culture displays hierarchy and piety.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-war exhaustion and relief; baroque piety and memento mori sensibility; acceptance of hierarchical order; mood slowly shifting from trauma recovery to cautious confidence.<br><br>
-__Form Exhaustion & Meaning Decay:__ Reformation symbols now institutionalized; baroque forms still vital and developing; no significant form exhaustion; meaning systems stable within confessional frameworks.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology dominant; confessional differences in emphasis but shared transcendent framework; providence and divine order explain events; fatalism mixed with baroque devotion.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Lutheran and Reformed worship standardized; Catholic baroque piety with processions and saints; Pietist movement begins stirring personal devotion; ritual calendar structures communal life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Territorial churches under princely supervision; Catholic hierarchy under papal authority; confessional boundaries fixed; doctrinal orthodoxy enforced within each territory.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Confessional boundaries stable; Pietism spreads within Protestantism; Jewish communities persist in limited tolerance; no major displacement but internal renewal movements stirring.<br><br>
-__Disenchantment & Sacred Discharge:__ Minimal secularizing drift; baroque spirituality remains vital; sacred framework absorbs trauma and provides meaning; disenchantment not yet a significant force.<br><br>
+# __1648 CE – 1740 CE — Westphalian Order and Baroque Courts__
+
+__Summary:__ The North European Plain recovers from the Thirty Years' War under a new sovereign-territorial order that fractures print markets along confessional and dynastic lines while Dutch tolerance makes Amsterdam the continent's publishing capital; the binding constraint is the post-war demographic and fiscal exhaustion that depresses literacy growth and press development for two generations, leaving print to serve courts, churches, and a narrow learned elite rather than a mass readership.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The plain's open topography, devastated by war, slowly reintegrates as roads and river routes reopen; the Rhine-Elbe-Oder corridor reconnects trade, while the Baltic coast links Dutch, Prussian, and Polish markets through maritime exchange.
+
+__Climate Regime & Volatility:__ The Little Ice Age persists, compressing growing seasons and intensifying harvest failures in the 1690s and 1709; cold winters constrain fuel supplies and agricultural output across the region.
+
+__Hazard Regime & Exposure:__ No major seismic or volcanic disruption; the principal hazard remains epidemic disease, with plague recurring into the 1710s in Brandenburg and the Baltic littoral.
+
+__Resource & Energy Endowment:__ Forest reserves depleted by wartime demand regenerate slowly; peat, charcoal, and firewood remain the dominant energy sources, with early coal extraction in Silesia and Saxony serving localized proto-industrial demand.
+
+__Waste Absorption & Sink Capacity:__ Population collapse during the war reduces pressure on sinks; urban sanitation remains primitive but the scale of effluent is low, leaving absorptive capacity slack.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague, typhus, and dysentery ravaged the wartime population and recur episodically; endemic smallpox persists, though variolation begins to spread in the early 18th century among elites.
+
+__Nutrition & Physiological Vitality:__ Nutritional recovery lags territorial recovery; harvest failures in the 1690s and 1709 produce famines in Prussia, Saxony, and Poland, depressing vitality among rural populations.
+
+__Care, Healing & Recovery Capacity:__ Medical care remains rudimentary beyond court physicians and urban barber-surgeons; charitable hospitals staffed by religious orders provide limited care for the poor; midwifery persists as the primary interface with formal healing.
+
+__Reproductive Biology & Pairing Dynamics:__ Post-war marriage rates rise as survivors reoccupy depopulated lands; fertility recovers slowly, constrained by nutritional stress and epidemic mortality.
+
+__Demographic Renewal & Density:__ The German lands lose roughly one-third of their population during the war; recovery to 1618 levels takes until the 1720s in some regions, with Brandenburg-Prussia recruiting colonists to repopulate emptied estates.
+
+__Attrition & Dependency Overhang:__ War widows and orphans burden communal resources in the immediate post-war decades; by 1700, the dependency load normalizes as the surviving cohort ages and a new generation matures.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The peasant majority operates close to subsistence, producing grain, livestock, and flax for local consumption and manorial obligation; the provisioning floor is precarious, sensitive to harvest failure.
+
+__Energy Capture & Conversion:__ Human and animal muscle dominate; watermills serve milling and early textile production; windmills drain Dutch polders and grind grain across the coastal plain.
+
+__Labor Organization & Coercion:__ East of the Elbe, serfdom intensifies as lords consolidate demesnes; in the Dutch Republic, wage labor predominates; guild regulation persists in urban centers across the German lands.
+
+__Production & Surplus Capacity:__ Surplus generation is modest and extracted primarily as manorial dues, tithes, and taxes; Dutch commerce and finance generate greater surpluses than agricultural production elsewhere on the plain.
+
+__Storage, Reserves & Buffering:__ Granary reserves are thin after wartime depletion; treasuries rebuild slowly, with Brandenburg-Prussia accumulating a war chest through fiscal discipline.
+
+__Exchange, Trade & Logistics:__ Dutch dominance in Baltic grain and colonial re-export trade integrates the plain's markets; the Frankfurt and Leipzig book fairs anchor print distribution, though traffic remains below pre-war levels until the 1690s.
+
+__Value Storage, Credit & Deferred Exchange:__ Amsterdam's exchange bank and discount market provide the region's credit infrastructure; German states rely on tax farming and short-term loans, with standing debt constraining fiscal room.
+
+__Surplus Extraction & Redistribution:__ Princes rebuild absolutist treasuries through excise taxes, monopolies, and domain revenues; the Dutch Republic funds state expenditure through indirect taxation and provincial contributions.
+
+__Wealth Distribution & Asset Defense:__ Landowning nobility and urban merchant elites concentrate wealth; peasant holdings recover slowly, constrained by seigneurial extraction.
+
+__Byproducts & Waste Routing:__ Urban refuse and tannery effluent accumulate in waterways and midden heaps; no systemic waste management exists.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal inheritance and primogeniture among nobility preserve estates; peasant inheritance varies regionally, with partible inheritance fragmenting holdings in the southwest.
+
+__Association & Mutual Aid:__ Guilds regulate urban trades; village communes manage common lands; confraternities and religious sodalities provide mutual aid; the Dutch civic associations (schutterij, regenten networks) sustain elite cohesion.
+
+__Leisure, Play & Sociability:__ Court spectacles, opera, and Baroque festivals mark elite sociability; popular culture centers on fairs, taverns, and church feasts; coffeehouses emerge as urban venues for news and conversation.
+
+__Stratification, Status & Group Structure:__ The tripartite division of clergy, nobility, and commoners persists; urban patricians and ennobled officials blur boundaries; the Dutch Republic's regent oligarchy forms a distinctive mercantile elite.
+
+__Administrative Capacity & Institutional Integrity:__ Territorial states expand bureaucratic apparatus; Brandenburg-Prussia's General Directory (from 1722) exemplifies absolutist administration; the Dutch Republic's decentralized provincial structure resists centralization.
+
+__Coercive Apparatus & Means of Force:__ Standing armies replace mercenary forces; Prussian military institutions become the model for fiscal-military states; fortification and drill doctrine evolve under Vauban's influence.
+
+__Discharge, Disorder & Decay:__ Banditry and vagabondage persist in the post-war decades; Junker dominance over serfs produces localized resistance; urban disorder remains sporadic and contained.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ War exhaustion yields a desire for stability and order; pietist and quietist currents reflect inward-turning spirituality; trust extends primarily within confessional and kinship networks.
+
+__Leadership & Personal Authority:__ Absolutist princes cultivate personal authority through court ritual, patronage, and dynastic display; the Dutch stadtholder office oscillates between eclipse and revival.
+
+__Legitimacy as Lived Allegiance:__ Dynastic loyalty and confessional identity sustain allegiance; the Westphalian settlement confirms the prince's right to determine religion, anchoring legitimacy in territorial sovereignty.
+
+__Political Will & Collective Resolve:__ Reconstruction demands sustained will; Brandenburg-Prussia's Great Elector and successors embody disciplined state-building; the Dutch Republic's federalism diffuses collective will among provinces.
+
+__External Relations & Posture:__ The region is integrated into European balance-of-power diplomacy; Brandenburg-Prussia rises from marginal electorate to major power; Dutch commercial primacy faces French and English challenge.
+
+__Disaffection, Apathy & Spent Will:__ War weariness leaves a residue of caution and risk aversion; peasant apathy toward state projects constrains mobilization beyond coerced service.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ German remains dialectally fragmented; Luther's Bible and chancery German provide a standardizing reference; Latin persists in learned discourse; Dutch serves as a distinct literary language.
+
+__Channels & Transmission Velocity:__ Postal networks (Imperial Post, Brandenburg Post) expand; news travels via manuscript newsletters, printed gazettes, and the post-coach; transmission velocity improves but remains measured in days for regional distribution.
+
+__Record, Storage & Persistence:__ State archives, church registers, and notarial records accumulate; printed books and periodicals circulate through book fairs and subscription; libraries grow in courts and universities.
+
+__Framing, Censorship & Discourse Norms:__ Censorship varies by territory; Catholic states and the Index restrict heterodox print; Protestant territories permit religious controversy but suppress political criticism; Dutch tolerance makes Amsterdam a haven for banned works.
+
+__Reception, Attention & Amplification:__ The reading public remains narrow: clergy, officials, professionals, and urban merchants; periodicals (moral weeklies, learned journals) begin to shape a reading culture by the 1680s.
+
+__Signal Integrity & Noise Load:__ Print stabilizes texts, reducing scribal corruption; but polemical print floods the market with partisan noise during succession crises and confessional disputes.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Christian ethics, mediated through confessional teaching, underpin notions of right; natural law theory (Pufendorf, Grotius) provides a secular supplement.
+
+__Law, Codification & Regulatory Evolution:__ Roman law (ius commune) and territorial ordinances govern; codification remains incomplete; the Holy Roman Empire's courts (Reichskammergericht, Reichshofrat) adjudicate inter-territorial disputes.
+
+__Adjudication, Liability & Sanction:__ Courts dispense justice slowly; torture persists in criminal procedure; punishment ranges from fines to capital execution; witch trials decline by 1700 but persist into the 1720s.
+
+__Rights, Protections & Compliance Burden:__ Subjects have no generalized rights against the prince; toleration varies by territory; compliance burdens fall heaviest on peasants through corvee and manorial jurisdiction.
+
+__Impunity & Unredressed Wrong:__ Noble privilege shields elites from prosecution; manorial lords exercise jurisdiction over serfs with limited oversight; impunity accrues to the powerful.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The Scientific Revolution reaches the German lands through correspondence and publication; Leibniz synthesizes mathematics and philosophy; universities remain scholastic but absorb Cartesian and Newtonian influences.
+
+__Applied Knowledge & Technical Method:__ Cameralist statecraft applies knowledge to administration; mining and metallurgy advance in Saxony and Silesia; military engineering and fortification science diffuse from France.
+
+__Education, Knowledge Stock & Skill Distribution:__ Literacy expands slowly among Protestants through parish schooling; universities (Halle, 1694) introduce pietist and Enlightenment pedagogy; skill distribution remains concentrated among urban and clerical elites.
+
+__Obsolescence & Knowledge Decay:__ Scholastic Aristotelianism declines but persists in conservative faculties; the vernacularization of learning displaces Latin as the medium of new knowledge.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Thirty Years' War becomes a founding trauma, shaping collective memory of destruction and survival; confessional identity remains constitutive.
+
+__Legitimating Narrative & Ideology:__ Divine-right absolutism and dynastic continuity legitimate rule; the Dutch Republic's foundation myth centers on resistance to tyranny and religious freedom.
+
+__Artistic Expression & Material Culture:__ Baroque architecture, court opera, and religious music (Buxtehude, early Bach) mark elite culture; the visual vocabulary of absolutism adorns palaces and churches; print illustrates Baroque allegory.
+
+__Form Exhaustion & Meaning Decay:__ Baroque excess accumulates toward the 1730s, opening space for Rococo lightness and the rationalist critique of ornament.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christian providentiality frames existence; confessional orthodoxy hardens after Westphalia; pietism offers an inward alternative emphasizing personal devotion and moral renewal.
+
+__Ritual, Devotion & Sacred Practice:__ Liturgical life structures the calendar; sacraments mark life transitions; pietist conventicles supplement parish worship with small-group devotion.
+
+__Religious Institutions & Doctrinal Authority:__ Territorial churches under princely summus episcopus consolidate; Catholic ecclesiastical principalities persist until 1803; doctrinal orthodoxy is enforced through consistories and visitation.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Confessional boundaries harden; Jewish communities remain tolerated but segregated; Enlightenment critique begins to erode clerical authority among elites by the 1730s.
+
+__Disenchantment & Sacred Discharge:__ The seeds of disenchantment appear in natural philosophy's mechanistic cosmos, but the sacred retains its grip on the majority; secularizing drift remains an elite phenomenon.

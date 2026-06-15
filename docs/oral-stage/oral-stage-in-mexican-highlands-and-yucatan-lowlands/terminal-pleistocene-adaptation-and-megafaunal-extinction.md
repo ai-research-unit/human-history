@@ -1,69 +1,140 @@
-# __12000 BCE – 9000 BCE__ — Terminal Pleistocene Adaptation and Megafaunal Extinction
-__Summary:__ The Pleistocene-Holocene transition transforms the Mesoamerican landscape as climate warms, vegetation zones shift, and megafauna disappear; the binding constraint is the collapse of the large-game hunting economy that structured Paleoindian subsistence, forcing rapid diversification toward smaller prey, gathered plants, and aquatic resources; the system holds adequate margin through generalist adaptation, and the direction of change is toward broad-spectrum foraging and the earliest stirrings of plant manipulation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The underlying topography unchanged — volcanic highlands, interior basins, Gulf and Pacific lowlands, Yucatan platform — but vegetation belts shift upward and northward as climate warms; friction on movement remains low for mobile bands adjusting seasonal rounds to new resource distributions.<br><br>
-__Climate Regime & Volatility:__ Younger Dryas cold snap (~12,900–11,700 BP) interrupts warming trend with cooler, drier conditions before definitive Holocene warming resumes; volatility elevated during transition; overall trajectory toward warmer, more seasonal climate.<br><br>
-__Hazard Regime & Exposure:__ Volcanic and seismic hazards persist; Younger Dryas drought stress affects water availability and fire regime; dispersed populations face episodic local stress but no region-wide catastrophe documented.<br><br>
-__Resource & Energy Endowment:__ Megafaunal biomass collapses — mammoth, horse, camel, ground sloth extinct by ~10,000 BP; plant communities reorganize; obsidian and lithic sources remain accessible; overall resource base contracts but smaller fauna and edible plants remain abundant.<br><br>
-__Waste Absorption & Sink Capacity:__ Absorptive capacity unchanged and effectively unlimited; population remains tiny; landscape degradation nil; sink saturation remains a non-constraint.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ No evidence of epidemic disease introduction; mortality baseline may rise slightly during Younger Dryas nutritional stress but recovers as Holocene warming stabilizes; endemic pathogen exposure presumably stable.<br><br>
-__Nutrition & Physiological Vitality:__ Dietary shift from large-game protein to diverse smaller prey and increased plant reliance may alter nutritional profile; skeletal evidence too sparse to assess stature or health trends; adaptation appears successful without severe physiological cost.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Band-level pair bonding continues; reproductive success tied to group viability; no evidence of fertility decline despite subsistence transition; pairing dynamics stable within mobile foraging pattern.<br><br>
-__Demographic Renewal & Density:__ Population still sparse — perhaps low thousands across region — but slow growth continues as adaptation to new subsistence base succeeds; age structure remains youthful; density nowhere near carrying-capacity ceiling.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load remains minimal; mobile lifeway continues to limit accumulation of non-productive members; attrition absorbed within small-group flexibility; no overhang stress.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Broad-spectrum foraging replaces megafauna focus; smaller mammals, deer, rabbits, birds, reptiles, fish, and shellfish exploited alongside expanded plant gathering; provisioning floor maintained through diversification with adequate margin.<br><br>
-__Energy Capture & Conversion:__ Human muscle and fire remain sole power sources; processing technology adapts — ground-stone tools appear for plant foods; energy capture efficiency stable; per-capita work ceiling unchanged.<br><br>
-__Labor Organization & Coercion:__ Cooperative band labor persists; diversified subsistence may increase task differentiation by gender and age; coercion absent; labor remains voluntary and kin-organized.<br><br>
-__Production & Surplus Capacity:__ Production oriented toward immediate consumption; surplus capacity minimal and intentionally limited given continued mobility; no structural change in surplus generation.<br><br>
-__Storage, Reserves & Buffering:__ Short-term caching continues; plant-food processing allows some drying and storage; buffering still relies primarily on landscape knowledge and seasonal scheduling; reserve depth shallow but adequate.<br><br>
-__Exchange, Trade & Logistics:__ Inter-band exchange continues at low intensity; obsidian from highland sources moves across region; exchange networks remain informal, gift-based, and archaeologically faint.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Reciprocal obligation remains the sole deferred-exchange mechanism; no medium of account; sharing norms sustain implicit credit within and across bands.<br><br>
-__Surplus Extraction & Redistribution:__ No extraction apparatus; communal distribution of kills and gathered foods continues; redistribution immediate and egalitarian; no elite appropriation emerging.<br><br>
-__Wealth Distribution & Asset Defense:__ Egalitarian distribution persists; portable wealth limited to tools and ornaments; no defensible property accumulation; leveling mechanisms intact.<br><br>
-__Byproducts & Waste Routing:__ Butchery and processing debris dispersed at ephemeral camps; plant-processing residue negligible; waste load trivial; no routing decisions beyond abandonment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High within-band trust maintained; inter-band cooperation may increase as information-sharing about shifting resource patches becomes critical; mutual aid norms reinforced by subsistence transition stress.<br><br>
-__Stratification, Status & Group Identity:__ Minimal stratification continues; status based on foraging skill, especially knowledge of new resource patches; band identity remains fluid and kin-defined; no hardening of boundaries.<br><br>
-__Kinship, Family & Inheritance:__ Kinship structures stable; marriage and exogamy patterns persist; inheritance limited to portable goods and increasingly valuable ecological knowledge; no property transmission beyond objects and information.<br><br>
-__Civic Association & Self-Organization:__ Band remains sole associational unit; seasonal aggregations for resource patches or ritual may bring multiple bands together; self-organization unchanged.<br><br>
-__Leisure, Play & Sociability:__ Camp-based sociability continues; storytelling may increasingly encode ecological adaptation knowledge; leisure patterns stable within mobile lifeway.<br><br>
-__Grievance Channels & Social Discharge:__ Face-to-face mediation and group fission remain primary channels; resource-distribution stress during Younger Dryas may elevate grievance load temporarily; overall friction remains low and manageable.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous organization persists; situational leadership may shift toward those with best knowledge of diversified resource base; no concentration of authority; consensus decision-making stable.<br><br>
-__Succession & Power Transfer:__ No formal succession; fluid leadership continues; transfer mechanisms unnecessary for non-institutionalized roles.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy based on demonstrated competence in new foraging strategies; no ideological elaboration; pragmatic authority unchanged.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination through direct communication; information held in oral memory; no change in organizational complexity.<br><br>
-__Political Participation & Mobilization:__ Universal adult participation continues; collective action mobilized for hunts, gathering expeditions, and camp moves; no faction formation.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations remain amicable; resource competition still minimal given sparse population; no territorial defense required; geopolitical pressures absent.<br><br>
-__Coercive Apparatus & Means of Force:__ Post-Clovis projectile points (stemmed and notched varieties) serve as personal weapons; no specialized coercive apparatus; collective defense capacity stable.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder minimal; kinship and small-group transparency maintain order; threat environment shifts from megafauna to smaller predators and environmental hazard; human-on-human violence rare.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information moves by voice and foot; inter-band contact may increase as groups share intelligence on shifting resource availability; transmission velocity unchanged but information content shifts toward ecological adaptation.<br><br>
-__Record, Storage & Persistence:__ Oral memory sole storage medium; ecological knowledge of pre-extinction megafauna begins to fade from practical relevance; new plant and small-game knowledge accumulates; no external record; persistence depends on active transmission.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms stable; taboo topics may include extinct animals now entering mythic memory; no formal censorship; communication etiquette unchanged.<br><br>
-__Reception, Attention & Amplification:__ Attention increasingly focused on plant-food knowledge, seasonal indicators, and diversified prey behavior; amplification through narrative embedding of new ecological information.<br><br>
-__Signal Integrity & Noise Load:__ Information volume low; signal integrity high; transmission errors moderated by practical testing; obsolete megafauna hunting knowledge gradually fading but not yet noisy clutter.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity and sharing norms remain foundational; transitional stress may intensify sharing expectations; justice conceived as maintenance of equitable distribution.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; customary rules stable; new norms may emerge around plant-resource access but remain unwritten; evolution imperceptible.<br><br>
-__Adjudication, Enforcement & Liability:__ Informal elder mediation continues; liability assigned by consensus; enforcement through social pressure; no third-party institution; system adequate for caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy high; compliance burden light; rights protected through reciprocal obligation; no structural change.<br><br>
-__Impunity & Unredressed Wrong:__ Small-group transparency prevents impunity; persistent offenders face ostracism or exile; redress capacity matches the grievance load; no accumulating deficit.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical ecological knowledge expands to encompass new plant-food species, small-game behavior, and seasonal indicators; explanatory paradigm still blends observation with animistic interpretation; no formal inquiry distinct from applied knowledge.<br><br>
-__Applied Knowledge & Technical Method:__ Lithic technology diversifies — stemmed and notched points replace Clovis; ground-stone tools for plant processing appear; fire management and tracking skills adapt to new prey; technical repertoire broadens.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Apprenticeship learning continues; knowledge stock shifts from megafauna hunting toward diversified foraging; skill distribution remains relatively even; specialist plant-knowledge holders may gain prestige.<br><br>
-__Obsolescence & Knowledge Decay:__ Megafauna hunting techniques begin obsolescing as prey vanishes; transmission of now-irrelevant skill decays; replacement by new plant and small-game knowledge prevents net stock loss; turnover rather than decline.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Megafauna may pass from lived experience into mythic memory; origin narratives adapt; identity remains grounded in kinship and territory; foundational mythos evolving but archaeologically invisible.<br><br>
-__Artistic Expression & Material Culture:__ Portable art unattested but probable; projectile-point styles diversify regionally, suggesting emerging cultural boundaries; material culture remains minimal and utilitarian with symbolic marking of identity possible.<br><br>
-__Collective Mood & Behavioral Disposition:__ Transitional stress during Younger Dryas may introduce anxiety; successful adaptation restores confidence; behavioral disposition remains exploratory and flexible; no prolonged collective despair evident.<br><br>
-__Form Exhaustion & Meaning Decay:__ Old hunting-centered symbolism may lose referent as megafauna vanish; new forms emerge around plant and small-game imagery; turnover rather than exhaustion; meaning systems adaptive.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic worldview persists; animal spirits invoked now include deer, rabbit, and other new prey; existential outlook integrated with diversified foraging lifeway; human place within nature unchanged.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Hunting rituals adapt to new prey; plant-gathering may acquire ritual elaboration; kill-site observances continue at reduced scale; sacred practice woven into daily subsistence activity.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; shamanic practitioners probable; doctrinal authority diffuse; no formalization during this window.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual system adapts internally to ecological change; no external cosmology encountered; gradual local elaboration continues; no syncretism or displacement.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; cosmology operative and responsive to environmental transformation; sacred need met through adapted ritual; no existential void; spiritual system absorbs transition without crisis.<br><br>
+# __12,000 BCE – 9,000 BCE__ — Terminal Pleistocene Adaptation and Megafaunal Extinction
+
+__Summary:__ Across three millennia, Mesoamerican foraging populations undergo a fundamental subsistence transition as megafauna — mammoth, mastodon, horse, camelid, giant sloth — disappear by ~10,000 BP, forcing a shift to broad-spectrum foraging of smaller game, aquatic resources, and intensified plant collection; the binding constraint remains the oral substrate — all ecological knowledge, new foraging techniques, and adaptive strategies must be transmitted through speech and memory alone, with each generational handoff risking loss of accumulated understanding even as conditions demand rapid learning.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The regional mosaic persists — highland basins, volcanic cordillera, Gulf and Pacific lowlands, Yucatan karst platform — but warming and wetting shift vegetation zones upward; transit corridors remain along coasts and river valleys; highland passes open seasonally as glacial remnants retreat; spatial friction decreases slightly as forests expand and game trails proliferate.
+
+__Climate Regime & Volatility:__ The Pleistocene-Holocene transition brings warming and increased precipitation; pine-oak forests migrate upslope and tropical forests expand in the lowlands; the Younger Dryas (~12,900–11,700 BP) imposes a brief cold reversal, but by 10,000 BP conditions are warmer and wetter than before; seasonal monsoons intensify; interannual variability increases with the transition.
+
+__Hazard Regime & Exposure:__ Volcanic activity continues episodically; rising sea levels inundate coastal zones, forcing band relocation; increased rainfall raises flood risk in lowland river systems; mobile foragers retain high adaptive margin through dispersal.
+
+__Resource & Energy Endowment:__ Megafaunal biomass collapses; by 10,000 BP, mammoth, mastodon, horse, and giant sloth are extinct in the region; the resource base shifts to white-tailed deer, peccary, rabbit, turkey, fish, shellfish, and plant foods; obsidian and chert sources remain accessible; the energy yield per hunt declines sharply, but resource diversity increases.
+
+__Waste Absorption & Sink Capacity:__ Human impact remains negligible; population is still sparse; camp refuse is absorbed without accumulation; possible localized landscape burning for hunting does not saturate sinks.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Pathogen exposure increases slightly as population density rises and contact with new species occurs; zoonotic risk shifts from megafauna to smaller mammals and aquatic fauna; endemic parasites persist; baseline mortality remains dominated by trauma, infection, and infant loss.
+
+__Nutrition & Physiological Vitality:__ The loss of megafauna reduces high-return protein sources; nutritional stress increases seasonally; broad-spectrum foraging compensates with plant carbohydrates, fish, and small game, but dietary protein per capita likely declines; skeletal evidence from comparable populations shows modest decline in stature.
+
+__Care, Healing & Recovery Capacity:__ Healing capacity remains oral and kin-based; herbal knowledge may expand as plant exploitation intensifies; wound-tending continues within band structures; severe injury remains often fatal.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding remains flexible; reduced mobility pressures as megafaunal pursuit declines may slightly ease infant-carrying constraints; no evidence of formalized marriage rules.
+
+__Demographic Renewal & Density:__ Population grows slowly as climate improves and resource base stabilizes; density remains low but increases relative to the earlier window; replacement rates are slightly positive; in-migration continues at reduced rates as source populations fill.
+
+__Attrition & Dependency Overhang:__ Dependent load remains minimal; slightly reduced mobility may allow marginally greater care of aged or infirm; orphaned young continue to be absorbed by kin.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The provisioning floor shifts from megafaunal hunting to broad-spectrum foraging; deer, peccary, rabbit, and turkey provide protein; fish, shellfish, and aquatic plants become important in riverine and coastal zones; wild seeds, tubers, and fruits supplement; the floor is adequate but requires more diverse activity and greater time investment.
+
+__Energy Capture & Conversion:__ Human muscle remains the sole power source; fire continues for cooking, warmth, and landscape management; no animal traction; per-capita work investment increases as foraging requires more effort for lower per-encounter returns.
+
+__Labor Organization & Coercion:__ Task differentiation within bands continues — hunting parties for deer and peccary, gathering groups for plants and shellfish; labor remains kin-based and cooperative; no coercion.
+
+__Production & Surplus Capacity:__ Production remains immediate-return; no sustained surplus; broad-spectrum foraging spreads risk but does not generate storable surplus; fish and shellfish may be dried seasonally.
+
+__Storage, Reserves & Buffering:__ Buffering capacity increases slightly; dried fish, smoked meat, and cached plant foods provide short-term reserves; seasonal camps may accumulate small stores; no granaries or formalized reserves.
+
+__Exchange, Trade & Logistics:__ Obsidian circulation continues; inter-band exchange remains embedded in social and kin networks; the geographic range of movement may contract as megafaunal pursuit ends, but coastal and riverine resources draw populations to fixed locales.
+
+__Value Storage, Credit & Deferred Exchange:__ No value medium; deferred reciprocity persists — sharing obligations structure inter-band relations; no tokens or accounting.
+
+__Surplus Extraction & Redistribution:__ No extraction apparatus; distribution remains egalitarian; sharing norms adapt to new resource types — fish and plant foods shared according to band custom.
+
+__Wealth Distribution & Asset Defense:__ Personal possessions expand slightly — fishing gear, plant-processing tools (early manos and metates) — but no wealth concentration; no defensive strategies beyond band membership.
+
+__Byproducts & Waste Routing:__ Lithic debitage, bone refuse, shell middens, and hearth ash accumulate at camp sites; localized shell middens mark coastal and riverine camps; no environmental saturation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship remains bilateral and flexible; band composition adjusts to resource distribution; inheritance remains minimal — tools and ornaments pass to kin.
+
+__Association & Mutual Aid:__ The band remains the primary unit; mutual aid continues — sharing of diverse resources, collective child-rearing, defense; reciprocity is enforced by reputation; seasonal aggregation at resource-rich locales may foster larger temporary gatherings.
+
+__Leisure, Play & Sociability:__ Leisure time persists; oral storytelling, games, and gatherings structure non-work time; seasonal aggregations at fishing or nut-gathering sites may intensify sociability.
+
+__Stratification, Status & Group Structure:__ Stratification remains minimal; achieved status may accrue to those with broad ecological knowledge — plant specialists, fishing experts — as well as hunters; no formal offices or hereditary rank.
+
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; decision-making is communal; no bureaucracy or record-keeping; band structure remains informal and consensus-based.
+
+__Coercive Apparatus & Means of Force:__ No organized coercive capacity; projectile points adapt to smaller game (atlatl darts, smaller points); inter-band violence remains episodic; the shift from megafaunal hunting to territorial foraging may increase boundary tensions.
+
+__Discharge, Disorder & Decay:__ Social friction is discharged through fission and mobility; seasonal aggregations may generate friction, discharged by dispersal; no accumulated grievance or institutional decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Band sentiment remains intimate; trust is high within kin networks; anxiety shifts from megafaunal hunting to resource scarcity during lean seasons; the loss of the great beasts may generate collective mourning or narrative elaboration.
+
+__Leadership & Personal Authority:__ Leadership remains personal and situational; as ecological knowledge diversifies, authority may be distributed among multiple specialists — the deer hunter, the fisher, the plant gatherer — rather than concentrated in big-game hunters.
+
+__Legitimacy as Lived Allegiance:__ Allegiance remains to kin and band; legitimacy is relational and constantly renegotiated; no office or polity to command loyalty.
+
+__Political Will & Collective Resolve:__ Collective will is mobilized for hunts, gathering expeditions, camp moves, and defense; no sustained political projects; resolve remains episodic and tied to immediate needs.
+
+__External Relations & Posture:__ Relations with other bands remain cautiously cooperative; exchange of mates and goods continues; as territorial foraging intensifies, boundary disputes may increase, but outright warfare remains rare.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection is discharged through exit; the adaptive challenge of subsistence transition likely maintains engagement; no standing reservoir of apathy or spent will.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Speech remains the universal medium; all band members share a common language; no written code; communication is face-to-face; exclusion is by distance or foreignness.
+
+__Channels & Transmission Velocity:__ Transmission remains limited by voice range and travel speed; information spreads within the band instantly, between bands at walking pace; seasonal aggregations may accelerate inter-band information flow.
+
+__Record, Storage & Persistence:__ Memory remains the sole storage medium; the rapid ecological transition places extraordinary demands on oral transmission — knowledge of megafaunal hunting becomes obsolete, knowledge of new resources must be learned and transmitted; the risk of knowledge loss is acute during the transition; oral tradition is the only persistence mechanism.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms are enforced by band consensus; taboos may evolve as megafauna disappear and new resources become central; no formal censorship.
+
+__Reception, Attention & Amplification:__ Attention remains concentrated around the fire and at communal gatherings; the novelty of new foraging techniques may command heightened attention; repetition and narrative amplify successful innovations.
+
+__Signal Integrity & Noise Load:__ Noise remains low; small-group communication minimizes distortion; the main integrity risk is generational loss — megafaunal hunting knowledge becomes obsolete, and new knowledge must be stabilized in oral tradition before it is lost.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice remains relational; wrongs are injuries to kin and band; fairness in sharing adapts to new resource types; reciprocity and loyalty remain the moral bedrock.
+
+__Law, Codification & Regulatory Evolution:__ No codified law; norms evolve orally as resource base shifts; taboos may adapt — prohibitions on wasteful killing may relax as megafauna disappear, new taboos may emerge around critical plant or fish resources.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by elders or communal discussion; sanction is social — gossip, ridicule, exclusion; no formal procedures.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy remains high within band norms; compliance burden is minimal; protection depends on kin and band membership.
+
+__Impunity & Unredressed Wrong:__ Impunity is limited by band intimacy; the main gap remains vengeance cycles that fission fails to discharge; resource competition may generate new wrongs requiring new normative responses.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding remains empirical and animistic; the world is populated by spirits; causation is attributed to agency; the extinction of megafauna may prompt narrative elaboration — mythic explanations of why the great beasts departed — but no formal inquiry distinct from myth.
+
+__Applied Knowledge & Technical Method:__ Lithic technology adapts — projectile points become smaller and more varied for smaller game; atlatl technology refines; plant-processing tools (manos, metates) appear or proliferate; fishing technology (hooks, nets, weirs) develops in riverine and coastal zones; ecological knowledge shifts from megafaunal behavior to deer, peccary, fish, and plant seasonality.
+
+__Education, Knowledge Stock & Skill Distribution:__ Skills are transmitted through apprenticeship and oral instruction; the skill set diversifies — every adult must master a broader range of foraging techniques; specialized knowledge (e.g., fishing, plant identification) is held by experienced practitioners; the knowledge stock is in flux as old skills become obsolete and new skills must be rapidly learned and stabilized.
+
+__Obsolescence & Knowledge Decay:__ Megafaunal hunting knowledge becomes obsolete within generations; technique and lore of mammoth and mastodon pursuit decay as practitioners die without successors; simultaneously, new knowledge must be stabilized before it is lost; the oral substrate makes this transition precarious — innovation and loss both proceed through memory alone.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin myths and ancestral narratives persist; the disappearance of megafauna may enter oral tradition as myth — the great beasts departed, were slain, or were transformed; identity remains tied to landscape, kin, and shared history; foundational memory extends only as far as oral tradition can carry it.
+
+__Legitimating Narrative & Ideology:__ The band's way of life is legitimated by ancestral precedent, now adapting to new conditions — "this is how we learned to live when the great beasts left"; no competing ideologies; the order is naturalized through evolving myth.
+
+__Artistic Expression & Material Culture:__ Material culture remains portable but diversifies — atlatl weights, smaller projectile points, bone awls, shell ornaments, manos and metates; decoration is applied to tools and bodies; color is limited to natural pigments; no monumental art; possible rock art in caves or shelters, though evidence in Mesoamerica is sparse for this window.
+
+__Form Exhaustion & Meaning Decay:__ Forms are stable but adapting; the slow tempo of change precludes exhaustion; meaning is renewed through repetition in oral performance; the transition generates new forms rather than depleting old ones; no detectable anomie.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos remains animated; animals, plants, and landscape features possess spirits; humans are embedded in reciprocal relationships with non-human agents; the extinction of megafauna may be interpreted cosmologically — the spirits of the great beasts withdrew, were angered, or were released; existence remains precarious but meaningful.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual adapts to new circumstances — hunting success rituals shift to deer and peccary; rituals around plant gathering may emerge or intensify; death and seasonal transition rituals persist; no permanent ritual infrastructure; all enacted orally and bodily.
+
+__Religious Institutions & Doctrinal Authority:__ No religious institutions; shamanic or elder figures may mediate with spirits; authority is personal and situational; no doctrine beyond orally transmitted myth and practice, now evolving to account for ecological change.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual beliefs remain localized; diffusion occurs through intermarriage and contact; no evidence of displacement or large-scale syncretism; the loss of megafauna may prompt local spiritual innovation, transmitted orally within and between bands.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is detectable; the sacred pervades daily life; spiritual need is continuously re-anchored through oral repetition and ritual practice; the loss of megafauna is likely narrated within sacred frameworks rather than generating a void; no standing residue of unmet transcendence.
+

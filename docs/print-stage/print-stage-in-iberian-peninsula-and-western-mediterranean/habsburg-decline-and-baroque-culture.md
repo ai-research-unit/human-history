@@ -1,69 +1,139 @@
-# __1598 CE – 1700 CE__ — Habsburg Decline and Baroque Culture
-__Summary:__ The Spanish Habsburg monarchy enters structural decline as silver revenues diminish, population contracts, and peripheral territories revolt, while Baroque culture reaches its zenith in literature and painting. The binding constraint is the mismatch between imperial military commitments and a collapsing fiscal-demographic base that cannot sustain them. The system's reserves are exhausted through repeated bankruptcies and territorial losses; the trajectory is toward contraction, with the dynasty itself extinguished by 1700.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Iberian Peninsula's geography remains unchanged but imperial overstretch magnifies effective distance; maintaining forces in Flanders, Italy, and the Americas strains logistics beyond sustainable levels.<br><br>
-__Climate Regime & Volatility:__ The Little Ice Age intensifies with colder winters and erratic rainfall; grain yields decline; the climate regime shifts unfavorably against the agricultural base supporting military expenditure.<br><br>
-__Hazard Regime & Exposure:__ Drought cycles in Castile intensify in mid-century; flood events damage infrastructure; exposure to climate shocks increases as reserves thin and recovery capacity diminishes.<br><br>
-__Resource & Energy Endowment:__ American silver production peaks then declines as Potosi yields fall; domestic resources already exploited; the resource stream that funded imperial power contracts irreversibly.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban population decline reduces waste loads; abandoned agricultural land regenerates; sink capacity exceeds diminished throughput; environmental pressure easing as economic activity contracts.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague epidemics devastate the peninsula: 1596-1602, 1647-1652, 1676-1685; mortality spikes eliminate perhaps 1.5 million in mid-century alone; endemic disease background elevated throughout.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural decline and provisioning failures reduce nutritional adequacy; stature and vitality declining; urban populations particularly stressed by grain shortages and inflation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage rates fall as economic conditions deteriorate; biological fertility adequate but household formation delayed or foregone; reproductive potential not realized demographically.<br><br>
-__Demographic Renewal & Density:__ Castilian population falls from approximately 8 million in 1600 to under 6 million by 1700; morisco expulsion (1609-1614) removes 300,000; density declining across the meseta; demographic collapse ongoing.<br><br>
-__Attrition & Dependency Overhang:__ War casualties, plague orphans, and widows accumulate beyond institutional capacity; monasteries and hospitals overwhelmed; dependency load exceeds productive base's absorption capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain production falls with population and climate stress; pastoral economy persists but Mesta privileges contested; provisioning floor dropping toward subsistence crisis in worst years.<br><br>
-__Energy Capture & Conversion:__ No technological advance; draft animal populations decline with human population; water and wind power static; per-capita energy capture falling with general economic contraction.<br><br>
-__Labor Organization & Coercion:__ Rural depopulation disrupts labor supply; guild structures rigidify; colonial labor systems continue but metropolitan demand for products declines; wage labor scarce amid population loss.<br><br>
-__Production & Surplus Capacity:__ Manufacturing collapses as cheaper foreign goods flood markets; Castilian textile production devastated; surplus capacity negligible; economy consuming rather than generating reserves.<br><br>
-__Storage, Reserves & Buffering:__ Royal treasury bankruptcies in 1607, 1627, 1647, 1653, 1680; reserves exhausted; granary stocks thin; no buffer against successive shocks; system operating below minimal prudential margins.<br><br>
-__Exchange, Trade & Logistics:__ Seville's monopoly shifts to Cadiz; Atlantic trade continues but diminished; internal commerce contracts with population decline; logistics infrastructure deteriorates through underinvestment.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Vellon copper coinage debased repeatedly; inflation spikes; Genoese bankers withdraw; juros payments suspended; credit system collapsed; value storage unreliable.<br><br>
-__Surplus Extraction & Redistribution:__ Crown extraction intensifies on shrinking base; tax burden per capita rises sharply; millones taxes increase; redistribution limited to military and debt payments; civilian administration starved.<br><br>
-__Wealth Distribution & Asset Defense:__ Aristocratic estates consolidate amid general ruin; Church acquires land from failed peasantry; concentration intensifies through crisis; asset defense via entail and privilege continues.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste minimal as production collapses; urban waste loads fall with population; waste generation far below sink capacity; environmental pressure negligible as economy contracts.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks contract to immediate kin and locality; confraternities maintain mutual aid but resources strained; cross-regional trust declining with commerce; social fabric fraying.<br><br>
-__Stratification, Status & Group Identity:__ Limpieza de sangre persists after morisco expulsion; nobility closes ranks; urban poverty increases; stratification rigidifies as mobility channels close; status anxiety intense.<br><br>
-__Kinship, Family & Inheritance:__ Family structures persist but household formation delayed; clerical celibacy absorbs surplus population; inheritance patterns unchanged but estates devalued; kinship networks remain primary safety net.<br><br>
-__Civic Association & Self-Organization:__ Guilds decline with manufacturing; confraternities persist but weakened; municipal autonomy eroded by fiscal demands; associational fabric thinning with economic contraction.<br><br>
-__Leisure, Play & Sociability:__ Corrales de comedias flourish as escapism; religious festivals continue; bullfighting elaborates; sociability persists amid hardship but festival expenditure strains communities.<br><br>
-__Grievance Channels & Social Discharge:__ Revolts in Catalonia and Portugal (1640) express accumulated grievance; Andalusian bread riots; Naples revolts; discharge through violence as institutional channels fail; unmetabolized tension high.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Validos (royal favorites) dominate: Lerma under Philip III, Olivares under Philip IV; power concentrated but poorly exercised; authority fragmenting as capacity declines; centralizing efforts fail.<br><br>
-__Succession & Power Transfer:__ Philip III (1598-1621), Philip IV (1621-1665), Charles II (1665-1700) succeed without civil war; Charles II's childlessness creates terminal succession crisis; dynasty extinction looms.<br><br>
-__Legitimacy & Political Narrative:__ Catholic Monarchy narrative persists but credibility strained by defeats; reputation system (reputacion) compels continued military effort beyond means; legitimacy eroding with visible failure.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Conciliar system atrophies; offices sold to raise revenue; corruption endemic; administrative reach contracts with fiscal collapse; capacity far below obligations.<br><br>
-__Political Participation & Mobilization:__ Castilian Cortes reduced to tax approval; Catalan and Portuguese revolts express rejection of Olivares' centralization; participation through rebellion when formal channels blocked.<br><br>
-__Geopolitical Position & External Relations:__ Westphalia (1648) recognizes Dutch independence; Pyrenees (1659) cedes territories to France; Portugal independent (1668); Spain reduced to second-rank power; external position collapsing.<br><br>
-__Coercive Apparatus & Means of Force:__ Tercios depleted and outdated; naval power diminished; fortification maintenance neglected; force projection capacity dramatically reduced; military no longer competitive with France.<br><br>
-__Internal Order & Threat Environment:__ Catalan revolt (1640-1652) and Portuguese secession (1640-1668) demonstrate internal fragmentation; banditry increases; order maintained in Castile but periphery lost; threat environment beyond capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Printed gazettes emerge (Gaceta de Madrid 1661); avisos continue; postal networks intact but slower with reduced commercial traffic; transmission velocity stable but reach contracts with economy.<br><br>
-__Record, Storage & Persistence:__ Archives maintained despite fiscal stress; Simancas continues to accumulate records; ecclesiastical documentation persists; record persistence high for official materials; some provincial loss.<br><br>
-__Framing, Censorship & Discourse Norms:__ Inquisition censorship continues but less vigorous; Index maintained; arbitristas publish reform proposals; discourse space slightly wider than preceding window though orthodoxy still enforced.<br><br>
-__Reception, Attention & Amplification:__ Literary Golden Age peaks (Calderon, Quevedo, Gracian); theatrical culture flourishes; reading public small but engaged; amplification through performance reaches broader audiences.<br><br>
-__Signal Integrity & Noise Load:__ Official information increasingly diverges from visible reality; arbitrista critiques introduce alternative signals; noise increases as crisis deepens; verification difficult amid propaganda.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic moral framework persists; theodicy questions acute amid suffering; honor culture continues; sense of justice strained by visible inequality and arbitrary exaction.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal framework unchanged; Nueva Recopilacion remains authoritative; fueros contested in centralizing conflicts; regulatory stasis as administrative capacity contracts.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function but backlogged; enforcement capacity diminishes with fiscal stress; liability frameworks persist formally; throughput declining relative to dispute volume.<br><br>
-__Rights, Protections & Compliance Burden:__ Fueros conflicts pit Castilian law against regional rights; Aragonese and Catalan privileges defended; compliance burden heavy amid arbitrary taxation; predictability declining.<br><br>
-__Impunity & Unredressed Wrong:__ Aristocratic impunity widens; Crown defaults constitute unredressed wrong to juro holders; venality produces arbitrary outcomes; impunity gap widening as institutional capacity fails.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scholastic philosophy persists in ossified form; Scientific Revolution occurs elsewhere; some mathematical and navigational work continues; Spain increasingly peripheral to European intellectual currents.<br><br>
-__Applied Knowledge & Technical Method:__ No significant technical innovation; methods static; military technology falls behind French and Dutch; applied knowledge stagnating while competitors advance.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities decline in enrollment and quality; Jesuit colleges maintain standards; literacy perhaps stable at low levels; skill distribution narrowing with economic contraction.<br><br>
-__Obsolescence & Knowledge Decay:__ Isolation from Protestant scholarship continues; Scientific Revolution inaccessible; knowledge stock not renewed; decay accelerating as institutions weaken and isolation deepens.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Imperial memory persists but dissonant with present decline; desengano (disillusionment) becomes cultural theme; identity increasingly nostalgic and defensive; founding myths strain against reality.<br><br>
-__Artistic Expression & Material Culture:__ Baroque painting peaks (Velazquez, Murillo, Zurbaran); Calderon's autos sacramentales; architecture increasingly austere; material culture achieves greatest refinement amid political collapse.<br><br>
-__Collective Mood & Behavioral Disposition:__ Desengano, fatalism, and melancholy characterize elite mood; picaresque literature reflects social cynicism; collective disposition darkening throughout the window.<br><br>
-__Form Exhaustion & Meaning Decay:__ Baroque elaboration masks exhaustion; religious symbolism increasingly formulaic; literary forms reach terminal complexity; cultural production brilliant but signaling endpoint rather than renewal.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology unchallenged; fatalism deepens; suffering interpreted providentially; existential outlook shaped by awareness of decline and divine judgment; secular space absent.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Counter-Reformation devotions continue; Corpus Christi processions elaborate; Marian apparitions; penitential practices intensify; sacred practice dense but increasingly formulaic.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church wealth persists as secular economy collapses; Inquisition active but less central; clerical population swells as refuge from secular poverty; institutional power stable amid general decline.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism unchallenged after morisco expulsion; no Protestant presence; no syncretism; spiritual uniformity complete; Catholicism's reach maximal within peninsular boundaries.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing drift; quietist controversies (Molinos) suggest spiritual exhaustion; mystical energy dissipates; disenchantment not as secularization but as spiritual fatigue within the faith.<br><br>
+# __1598 CE – 1700 CE — Habsburg Decline and Baroque Culture__
+
+The binding constraint is fiscal exhaustion from continuous warfare, compounded by demographic collapse from plague and expulsion, draining the capacity to project power while print turns inward to a brilliant but anxious Baroque culture that anatomizes decline even as it adorns it.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The peninsula remains peripheral to northern European dynamism; the meseta is depopulating, coastal cities struggle, and distances to European theaters of war impose crushing logistics. The Pyrenean barrier seals the land route; Atlantic routes to Flanders require naval protection Spain can no longer guarantee.
+
+__Climate Regime & Volatility:__ The century experiences the Little Ice Age's intensification; harsh winters, erratic rainfall, and drought stress agriculture. The 1640s and 1690s see severe dearths; climate volatility compounds demographic and fiscal crises.
+
+__Hazard Regime & Exposure:__ Plague returns catastrophically in 1647–1652, killing perhaps a quarter of Castile's remaining population; Valencia and Andalusia are devastated. Earthquakes strike (1680 Malaga). Barbary raids continue to harass coasts; the Ottoman threat recedes but is not eliminated.
+
+__Resource & Energy Endowment:__ American silver flows decline as New World mines deplete and colonial economies retain more bullion. Merino wool remains an export but faces competition. Timber for ships is exhausted; Spain imports masts from the Baltic. Energy capture does not advance.
+
+__Waste Absorption & Sink Capacity:__ Depopulation reduces urban loads; the physical sink is not stressed. Abandoned villages dot the meseta, the landscape absorbing the decay of structures. No industrial pollution emerges to test capacity.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The 1647–1652 plague is the century's catastrophe, erasing demographic gains and hollowing cities. Typhus, smallpox, and dysentery accompany war and dearth. Mortality spikes repeatedly; life expectancy may fall below 30 in crisis years.
+
+__Nutrition & Physiological Vitality:__ Harvest failures and depopulation disrupt provisioning; malnutrition spreads. The diet of grain, oil, and legumes becomes precarious; the poor resort to foraged foods and charity. Physiological vitality declines across the century.
+
+__Care, Healing & Recovery Capacity:__ Hospital capacity is overwhelmed by plague; Church institutions strain but persist. Medical knowledge does not advance; bleeding, purging, and prayer remain standard. Recovery from crisis is slow; demographic replacement takes generations.
+
+__Reproductive Biology & Pairing Dynamics:__ High mortality disrupts family formation; widowhood is common, remarriage frequent among those who survive. Clerical celibacy removes a stable fraction. Fertility does not compensate for mortality spikes.
+
+__Demographic Renewal & Density:__ Castile's population collapses from perhaps 6.5 million (1600) to under 5 million (1650), recovering only slightly by 1700. Density falls; villages are abandoned. Emigration to the Americas continues, draining young men. The demographic foundation of power erodes.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and plague survivors swell the dependent population. Church charity and confraternities are stretched; begging proliferates. The productive base shrinks relative to the dependent load, deepening poverty.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Grain yields decline with depopulation and climate stress; imports from the Baltic and Sicily fill gaps but drain bullion. The provisioning floor is precarious; dearth and high prices recur. The commons subsist but with diminishing margin.
+
+__Energy Capture & Conversion:__ No transformation in energy; muscle, wind, and water remain the portfolio. Per-capita work capacity stagnates. Spain falls behind the Dutch and English in harnessing wind and water for industrial purposes.
+
+__Labor Organization & Coercion:__ Guild restrictions ossify; labor mobility is limited. Expulsion of the moriscos (1609–1614) removes some 300,000 productive workers, devastating Valencia's agriculture and Granada's silk industry. The labor force contracts; coerced labor in the Americas props up colonial extraction.
+
+__Production & Surplus Capacity:__ Manufacturing declines; textile production cannot compete with imports. Agricultural surplus shrinks with population and yields. The surplus available for taxation and war diminishes through the century.
+
+__Storage, Reserves & Buffering:__ Treasury reserves are negative; debt accumulates. Bankruptcies continue (1607, 1627, 1647, 1653, 1680). Juros consume revenue; debt service crowds out investment. Granaries cannot buffer repeated failures; emergency imports require credit Spain lacks.
+
+__Exchange, Trade & Logistics:__ Seville's monopoly decays; trade shifts to Cadiz. Colonial silver flows shrink and are diverted by contraband. Dutch and English penetrate Caribbean trade. Internal commerce stagnates; roads deteriorate. External dependence on foreign manufactures persists without the bullion to pay.
+
+__Value Storage, Credit & Deferred Exchange:__ Vellon (copper) coinage inflates repeatedly; debasement and deflation cycles destabilize prices. Credit depends on Genoese and Portuguese converso bankers; access tightens after Inquisition persecution. Value storage is insecure.
+
+__Surplus Extraction & Redistribution:__ The Crown attempts to extract more from a shrinking base; millones (excise taxes) rise, voted reluctantly by Cortes. Catalonia and Portugal revolt (1640) against Castilian fiscal pressure. Surplus extraction reaches its ceiling and breaks the union.
+
+__Wealth Distribution & Asset Defense:__ Grandee estates consolidate as smaller holders fail; Church lands grow through donation and purchase. Mayorazgo locks wealth in unproductive hands. The productive middle collapses; upward mobility contracts. Wealth polarizes and stagnates.
+
+__Byproducts & Waste Routing:__ Material waste diminishes with declining production. Financial waste is catastrophic: decades of war spending yield nothing but exhaustion; malinvestment in military overreach is the era's defining economic residue.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Mayorazgo persists, concentrating estates; younger sons enter Church or seek colonial fortune. Marriage patterns shift with mortality; complex households form around survivors. Lineage remains paramount for status, but families shrink.
+
+__Association & Mutual Aid:__ Confraternities and parishes remain the safety net; their resources are strained by repeated crises. Guilds defend privileges but cannot adapt. Mutual aid contracts with the social base; the fabric frays but does not tear.
+
+__Leisure, Play & Sociability:__ The corrales (theaters) flourish; Lope de Vega, Tirso de Molina, Calderon draw crowds. Bullfights, processions, and feast days continue. The tavern remains the sociability node. Print enters through pliegos sueltos (broadsheets) and comedias in cheap editions.
+
+__Stratification, Status & Group Structure:__ Status rigidity intensifies; limpieza de sangre statutes are enforced obsessively. Converso families face renewed persecution; moriscos are expelled entirely (1609–1614). Grandees dominate court; hidalgos cling to honor without substance. The commons bear the weight.
+
+__Administrative Capacity & Institutional Integrity:__ The valido (royal favorite) system concentrates power (Lerma, Olivares, Nithard, Valenzuela); councils persist but are bypassed. Corruption spreads; offices are sold. Olivares attempts reform (Union of Arms) but fails. Administrative capacity declines; the apparatus ossifies and is captured by faction.
+
+__Coercive Apparatus & Means of Force:__ The tercios lose their edge; defeats at Rocroi (1643), Lens (1648), and the Dunes (1658) mark decline. The navy cannot protect trade; Atlantic convoys are vulnerable. Fortifications hold but cannot project power. By century's end, Spain is a second-rate military power.
+
+__Discharge, Disorder & Decay:__ Catalonia revolts (1640–1659), submitting only after French abandonment. Portugal secedes permanently (1640–1668). Naples and Sicily rebel (1647–1648). Banditry persists; urban crime rises with poverty. The apparatus cannot contain all threats; it holds Castile but loses the periphery.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The mood darkens through the century; desengano (disillusionment) becomes the keynote. Providential confidence yields to fatalism. Satire (Quevedo) and lament (arbitristas) voice the sense of decline. Trust in institutions erodes; honor becomes defensive posture.
+
+__Leadership & Personal Authority:__ Philip III (1598–1621) delegates to Lerma; Philip IV (1621–1665) relies on Olivares, then lesser validos. Carlos II (1665–1700) is physically and mentally incapacitated, a symbol of dynastic exhaustion. Personal authority is diffused or absent; faction fills the vacuum.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to Crown persists but is tested by defeat and fiscal pressure. Peripheral revolts reflect eroded legitimacy outside Castile. The dynasty's physical decay in Carlos II undermines the symbolic order; legitimacy survives but is hollowed.
+
+__Political Will & Collective Resolve:__ Olivares' drive for reform (1621–1643) represents concentrated will, but it breaks against resistance and failure. After his fall, will dissipates into factional maneuvering. Collective resolve for empire gives way to exhausted acceptance of diminished status.
+
+__External Relations & Posture:__ Spain fights continuously: the Thirty Years' War, war with France, Dutch independence, Portuguese restoration war, the Fronde intervention. Each front drains resources. By the Peace of the Pyrenees (1659) and the Treaty of Lisbon (1668), hegemony is ceded; Spain becomes a defensive power seeking to preserve remnants.
+
+__Disaffection, Apathy & Spent Will:__ By century's end, apathy pervades. The succession crisis (Carlos II without heir) paralyzes decision. Disaffection is not revolutionary but resigned; the will to act is spent. The emotional residue is exhaustion awaiting an external resolution—which comes with the Bourbon succession.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Castilian consolidates as the language of print and administration; regional languages persist in speech but lose ground in publication. Literacy may hold or decline slightly with demographic collapse; the reading public contracts with population.
+
+__Channels & Transmission Velocity:__ Print continues in Madrid, Seville, Barcelona, but output declines. Gaceta de Madrid (from 1661) provides official news; relaciones circulate. Transmission velocity does not improve; the channel contracts with the market.
+
+__Record, Storage & Persistence:__ Archives persist; Simancas continues to store state papers. Church records maintain demographic information. Libraries suffer neglect but are not destroyed. Print ensures persistence of Golden Age texts even as new production slows.
+
+__Framing, Censorship & Discourse Norms:__ Inquisition censorship continues but is less vigorous; the Index is updated (1612, 1632, 1640, 1667) but enforcement is routine rather than zealous. Self-censorship is internalized. Discourse norms do not liberalize; heterodoxy remains suppressed.
+
+__Reception, Attention & Amplification:__ Baroque theater reaches the widest audience; devotional and satirical print circulates. Attention concentrates on spectacle and morality. Arbitrista tracts diagnose decline but reach limited audiences; their analyses do not translate into policy.
+
+__Signal Integrity & Noise Load:__ Official narratives claim victories and minimize defeats; the gap between propaganda and reality is visible. Noise increases as trust declines; rumor fills the void. Verification capacity is limited; the informed know the truth but cannot speak it openly.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Catholic morality persists; honor remains the paramount value, though its performative hollowing advances. The gap between professed virtue and corrupt practice widens; desengano literature anatomizes this hypocrisy.
+
+__Law, Codification & Regulatory Evolution:__ Legal pluralism continues; royal pragmatics accumulate without systematic reform. The Recopilacion of Castilian law (1567) remains the baseline. No significant codification occurs; regulation adds layers without rationalization.
+
+__Adjudication, Liability & Sanction:__ Courts remain overburdened and corrupt; justice is slow and costly. Inquisition activity peaks early-century (converso persecution, quietism cases late-century) then declines. Sanction remains brutal; torture and execution continue.
+
+__Rights, Protections & Compliance Burden:__ Fueros are suppressed in Catalonia after the revolt but restored incompletely. The commons enjoy few rights; compliance with fiscal demands is the primary burden. Nobility and clergy retain exemptions, widening the gap.
+
+__Impunity & Unredressed Wrong:__ Grandees and validos enjoy effective impunity; Olivares falls but is not punished. The powerful abuse office; redress for the commons is rare. The gap between justice owed and delivered grows, accumulating as cynicism.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scholasticism persists in universities, ossifying into formalism. The scientific revolution happens elsewhere; Spain imports its results selectively and late. Natural inquiry is subordinated to theology; the paradigm does not shift.
+
+__Applied Knowledge & Technical Method:__ Military and navigational technique stagnates; Spain cannot match Dutch shipbuilding or French fortification. Mining and metallurgy do not advance. The technique in use is inherited, not innovated.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities decline; enrollment falls, quality erodes. Primary education remains Church-run and limited. Literacy may contract with population. The knowledge stock is maintained in print but not expanded; skill distribution narrows.
+
+__Obsolescence & Knowledge Decay:__ Censorship freezes inquiry; new European thought is blocked. The knowledge frontier moves definitively north. Spain retains classical and theological learning but falls behind in natural philosophy. Obsolescence accumulates as a gap that will take centuries to close.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Reconquista and Catholic mission remain foundational, but their triumphalism is shadowed by present failure. Memory of imperial greatness contrasts with visible decline; identity becomes defensive, nostalgic, self-critical.
+
+__Legitimating Narrative & Ideology:__ Divine right and Catholic mission still legitimize the order, but their plausibility erodes. Arbitrista critique proposes reforms; literature anatomizes moral decay. The narrative persists but is questioned internally.
+
+__Artistic Expression & Material Culture:__ The Baroque flourishes: Velazquez's paintings, Murillo's devotional art, Calderon's autos sacramentales, Quevedo's satire, Gracian's aphorisms. Architecture turns ornate (Churrigueresque emerges late-century). Material culture displays wealth where it remains but cannot mask underlying poverty. Print disseminates comedias and verse in cheap editions.
+
+__Form Exhaustion & Meaning Decay:__ Baroque extravagance masks and reveals exhaustion simultaneously. Honor becomes performance; religious forms elaborate into spectacle. By century's end, the forms are magnificent but the substance is hollowed. Desengano is the cultural mood: unmasking the vanity beneath appearance.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology holds, but its tone darkens. Life is a dream (Calderon), vanity of vanities; memento mori pervades. Providence still orders the world, but its designs are inscrutable, and suffering is the human lot.
+
+__Ritual, Devotion & Sacred Practice:__ Baroque piety intensifies ritual: elaborate processions, saint cults, relics, votive offerings. The auto-da-fe continues as public spectacle. Devotional life is fervent, sometimes hysterical (possessed nuns, mystic excess).
+
+__Religious Institutions & Doctrinal Authority:__ The Church remains powerful, wealthy, and orthodox. The Inquisition operates but with diminished intensity. Doctrinal disputes (quietism, Jansenist influence) are suppressed. Institutional authority is stable but complacent.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism is consolidated in the peninsula with moriscos expelled; no heterodoxy survives openly. In the Americas, syncretism proceeds beneath official orthodoxy. No new spiritual movements emerge; the faith is maintained, not renewed.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment is not visible as secularization but as internalized doubt beneath fervent observance. The gap between spectacle and interiority widens. The sacred remains officially charged, but desengano hints at emptiness beneath the forms—a proto-disenchantment that will surface in the Enlightenment century to come.

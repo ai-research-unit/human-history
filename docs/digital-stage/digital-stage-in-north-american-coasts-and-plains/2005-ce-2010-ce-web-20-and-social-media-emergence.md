@@ -1,69 +1,139 @@
-# __2005 CE – 2010 CE__ — Web 2.0 and Social Media Emergence
-__Summary:__ User-generated content platforms transform the North American information environment from broadcast-reception to many-to-many participation; YouTube (2005), Facebook public (2006), Twitter (2006), and the iPhone (2007) establish the infrastructure for participatory media while advertising-driven business models and network effects create the binding constraint of attention monetization; the system holds substantial margin against shock as platforms remain small relative to total media consumption; direction is rapid expansion with accelerating user adoption and venture capital inflow.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The eastern seaboard and Mississippi basin host the densest fiber-optic backbones and data-center clusters, with Silicon Valley capital flowing to server farms in Virginia, Oregon, and the Midwest; spatial friction for data transmission approaches zero within networked zones, but last-mile broadband gaps persist in Appalachia and rural areas.<br><br>
-__Climate Regime & Volatility:__ Temperate continental and humid subtropical regimes prevail with normal interannual variability; no secular climate shift significantly affects infrastructure during this window, though hurricane seasons (Katrina 2005) expose regional grid vulnerabilities.<br><br>
-__Hazard Regime & Exposure:__ Data centers face power-grid dependency and cooling requirements; hurricane and ice-storm exposure for coastal and northern facilities prompts redundancy investments; overall margin against environmental shock remains high given geographic distribution.<br><br>
-__Resource & Energy Endowment:__ Abundant coal, natural gas, and growing wind capacity in the Plains supply the electrical load for expanding server infrastructure; the resource base supports rapid data-center buildout without binding constraint.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from rapid device turnover begins accumulating; atmospheric carbon load from coal-fired electricity generation continues; absorptive capacity remains within limits but the trajectory of e-waste and thermal pollution from data centers is upward.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic chronic diseases (obesity, diabetes, cardiovascular) continue their upward trend; no major epidemic disrupts the window; background mortality stable with slight improvement from medical advances.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional sufficiency widespread but diet-related morbidity rising; screen time begins displacing physical activity among youth, with physiological effects not yet quantified.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility rates continue modest decline; online dating platforms (Match, OkCupid) begin reshaping pairing dynamics though traditional courtship remains dominant.<br><br>
-__Demographic Renewal & Density:__ Population growth continues through immigration and natural increase; urban density concentrates in metropolitan corridors; dependency ratio stable.<br><br>
-__Attrition & Dependency Overhang:__ Aging Baby Boomer cohort approaches retirement; healthcare and pension obligations growing but not yet critical; the dependency load remains absorbable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Material provisioning secure for the majority; 2008 financial crisis raises food insecurity and foreclosure rates but does not threaten baseline subsistence at scale.<br><br>
-__Energy Capture & Conversion:__ Fossil-fuel-based electrical grid powers the digital expansion; per-capita energy consumption stable; efficiency gains in computing partially offset demand growth from new data centers.<br><br>
-__Labor Organization & Coercion:__ Platform labor emerges in nascent form (early Mechanical Turk 2005); traditional wage employment dominates; coercion minimal; gig work not yet significant.<br><br>
-__Production & Surplus Capacity:__ Tech sector generates substantial surplus through venture capital, IPOs, and advertising revenue; Google's 2004 IPO and Facebook's growth demonstrate high surplus capacity; 2008 crisis temporarily contracts credit but tech rebounds quickly.<br><br>
-__Storage, Reserves & Buffering:__ Venture capital reserves provide substantial buffer for startups; 2008 crisis depletes some reserves but federal intervention (TARP) stabilizes the broader system; tech sector maintains investment capacity.<br><br>
-__Exchange, Trade & Logistics:__ Online advertising markets mature; PayPal and early e-commerce expand digital exchange; Amazon logistics network grows; transaction velocity accelerates.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Dollar-denominated value storage stable despite 2008 crisis; venture debt and equity financing flow into platforms; credit availability contracts briefly in 2008-2009 then recovers.<br><br>
-__Surplus Extraction & Redistribution:__ Platform business models extract value through advertising (attention converted to revenue); tax revenues from tech growth flow to federal and state governments; redistribution through standard fiscal channels.<br><br>
-__Wealth Distribution & Asset Defense:__ Tech founders and early investors accumulate substantial equity wealth; stock options concentrate gains among platform insiders; broader wealth inequality trends upward; asset defense through standard corporate and trust structures.<br><br>
-__Byproducts & Waste Routing:__ Electronic device turnover generates growing e-waste stream; much exported to developing countries; data-center heat largely vented; carbon emissions from electricity generation externalized to atmosphere.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Online communities form around shared interests, temporarily expanding trust radius beyond geographic locality; Facebook reconnects college networks and high-school classmates; early optimism about digital community-building prevails.<br><br>
-__Stratification, Status & Group Identity:__ Digital fluency begins correlating with age and education; early adopters gain status advantages; traditional class and race stratification persists beneath digital overlay; tech-worker identity emerges as distinct stratum.<br><br>
-__Kinship, Family & Inheritance:__ Family structures unchanged by platforms; Facebook facilitates extended-family connection; inheritance patterns unaffected; no structural shift in kinship during window.<br><br>
-__Civic Association & Self-Organization:__ Online organizing supplements traditional civic association; early political uses (Howard Dean 2004, Obama 2008) demonstrate mobilization potential; Meetup and similar platforms enable interest-group formation.<br><br>
-__Leisure, Play & Sociability:__ Social media becomes leisure activity; Facebook, YouTube, and MySpace consume increasing recreational time; early smartphone apps extend sociability into transit and waiting spaces.<br><br>
-__Grievance Channels & Social Discharge:__ Online complaint channels and review platforms (Yelp) provide new grievance outlets; social friction around platform conduct (cyberbullying, harassment) emerges but lacks established discharge mechanisms; some grievance accumulates without resolution.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal authority stable; executive branch (Bush, then Obama) exercises standard powers; no significant decentralization or concentration; platform companies begin accumulating private quasi-regulatory power over speech.<br><br>
-__Succession & Power Transfer:__ 2008 election proceeds normally; peaceful transfer from Bush to Obama demonstrates institutional reliability; no succession crisis.<br><br>
-__Legitimacy & Political Narrative:__ Post-9/11 security narrative continues; 2008 crisis temporarily shakes economic-management legitimacy; Obama's election generates legitimacy renewal through democratic participation narrative; platforms not yet politically contested.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Federal administrative capacity stable; SEC, FTC, and FCC maintain regulatory functions; no significant platform-specific regulation yet developed; institutional reach does not extend to platform governance.<br><br>
-__Political Participation & Mobilization:__ Online organizing expands participation channels; Obama campaign's digital strategy mobilizes youth voters; Facebook groups enable political organization; participation trending upward through new channels.<br><br>
-__Geopolitical Position & External Relations:__ U.S. retains global digital hegemony; American platforms dominate worldwide; no significant foreign platform competition; tech export unrestricted; soft power enhanced by platform spread.<br><br>
-__Coercive Apparatus & Means of Force:__ Military and police capacities unchanged; no platform-specific coercive tools yet developed; surveillance capabilities quietly expand (PRISM program initiated) but public awareness limited.<br><br>
-__Internal Order & Threat Environment:__ Domestic order stable; financial crisis generates protest (Occupy 2011 outside window) but no significant disorder during 2005-2010; platform-mediated coordination of unrest not yet a factor.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Social media platforms collapse transmission time to near-instantaneous; Twitter enables real-time information spread; YouTube democratizes video distribution; velocity of information transfer accelerates dramatically.<br><br>
-__Record, Storage & Persistence:__ Cloud storage emerges (Amazon S3 2006); platform servers accumulate user-generated content; persistence depends on platform business decisions; personal digital archives grow but remain fragile.<br><br>
-__Framing, Censorship & Discourse Norms:__ Platform terms of service establish initial content policies; minimal active censorship; discourse norms permissive; professional journalism still frames major narratives; user-generated content supplements but does not yet dominate.<br><br>
-__Reception, Attention & Amplification:__ Attention shifts from broadcast media to participatory platforms; early viral dynamics emerge (YouTube videos, Facebook sharing); algorithmic curation in nascent form; amplification patterns not yet optimized for engagement.<br><br>
-__Signal Integrity & Noise Load:__ Information volume expands rapidly; verification capacity lags behind; spam and low-quality content increase noise load; traditional editorial filters partially bypassed; signal-to-noise ratio declining but not yet critical.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Traditional notions of privacy, property, and speech rights persist; new questions about digital rights emerge but lack settled consensus; platform conduct not yet morally contested at scale.<br><br>
-__Law, Codification & Regulatory Evolution:__ Section 230 (1996) provides platform liability shield; DMCA safe harbors enable content hosting; regulatory framework inherited from 1990s; no significant new platform regulation during window.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts process traditional disputes; platform-specific case law minimal; liability largely shielded by Section 230; enforcement capacity not tested against platform-scale conduct.<br><br>
-__Rights, Protections & Compliance Burden:__ First Amendment speech protections apply to government only; platform users operate under terms of service with limited rights; compliance burden on platforms minimal; privacy protections weak.<br><br>
-__Impunity & Unredressed Wrong:__ Cyberbullying and online harassment lack effective remedy; platform grievance procedures rudimentary; some harms accumulate without redress; impunity gap emerging but not yet politically salient.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Computer science and network theory drive platform design; behavioral psychology informs engagement optimization; academic study of social media begins; no paradigm crisis.<br><br>
-__Applied Knowledge & Technical Method:__ AJAX, cloud computing, mobile operating systems enable platform capabilities; rapid iteration methods (agile, continuous deployment) accelerate development; open-source tools proliferate.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Computer science education expands; coding bootcamps emerge; digital literacy uneven by age and class; knowledge stock growing rapidly in technical domains; skill distribution increasingly stratified.<br><br>
-__Obsolescence & Knowledge Decay:__ Rapid technology turnover obsoletes earlier web technologies (Flash, MySpace); institutional knowledge of pre-digital media practices begins eroding; technical debt accumulates in rapidly-built platforms.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ American techno-optimism frames platform emergence; Silicon Valley mythology of garage innovation and disruption shapes self-understanding; democratic participation narrative attached to user-generated content.<br><br>
-__Artistic Expression & Material Culture:__ User-generated content (YouTube videos, blog posts, Facebook photos) proliferates; amateur production supplements professional; material culture shifts toward smartphones and laptops as personal artifacts; screen-based aesthetics emerge.<br><br>
-__Collective Mood & Behavioral Disposition:__ Early platform adoption characterized by enthusiasm and optimism; 2008 financial crisis generates anxiety but tech sector perceived as resilient; risk appetite for digital experimentation high; mood generally expansive.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional broadcast media forms (network news, print journalism) begin losing salience; early blog and social media forms remain fresh; no significant meaning decay yet visible in digital culture; exhaustion concentrated in legacy media.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular-progressive outlook dominates tech culture; traditional religious practice continues in broader population; digital platforms not yet sites of spiritual contest; existential questions about digital life not yet articulated.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice moves partially online (megachurch streaming, religious forums); traditional devotional patterns persist; no platform-native spiritual practice yet emerges.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Established churches maintain institutional presence; evangelical and Catholic structures stable; no platform-driven doctrinal challenge; institutional authority not yet contested by digital alternatives.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Secular humanism spreads through educated tech-worker strata; traditional religion holds in broader population; no significant displacement or syncretism driven by platforms during window.<br><br>
-__Disenchantment & Sacred Discharge:__ Tech-optimism functions as quasi-spiritual narrative for some; broader secularization trend continues but not accelerated by platforms; disenchantment stable; sacred discharge through traditional channels persists.<br><br>
+# __2005 CE – 2010 CE — Web 2.0 and Social Media Emergence__
+
+__Summary:__ The transition from passive web consumption to participatory user-generated content and social networking establishes the foundational architecture of the digital stage in North America. The binding constraint is the shift from portal-based information access to platform-mediated social graphs, where users become both producers and products, and attention becomes the primary commodity extracted through advertising-based business models.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The San Francisco Bay Area and Silicon Valley consolidate as the commanding center of digital platform development, with Seattle (Amazon, Microsoft), New York (media and finance), and Los Angeles (entertainment) forming secondary nodes. Data center construction accelerates across cheap-power locations in Virginia, Oregon, and Texas, creating physical infrastructure for cloud computing that AWS launches in 2006. The geographic concentration of venture capital, engineering talent, and platform headquarters in coastal cities intensifies spatial inequality in digital economy participation.
+
+__Climate Regime & Volatility:__ Hurricane Katrina in 2005 demonstrates both the vulnerability of physical infrastructure and the emerging role of digital platforms in disaster response and coordination, as blogs and early social media supplement overwhelmed broadcast networks.
+
+__Hazard Regime & Exposure:__ The 2008 financial crisis, while primarily economic, exposes the physical infrastructure dependency of digital startups on venture funding concentrated in specific locales, temporarily slowing expansion before recovery-era stimulus restores growth.
+
+__Resource & Energy Endowment:__ Data centers become significant electricity consumers, drawing on the North American grid's coal, gas, and hydroelectric capacity. Server farms cluster near cheap power sources, establishing patterns of energy-intensive computation that will scale through subsequent periods.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from the rapid obsolescence of devices and servers begins accumulating, though the scale remains modest compared to later periods. The carbon footprint of digital infrastructure emerges as a nascent concern without yet generating regulatory response.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ No major pandemic affects the period, allowing uninterrupted expansion of digital adoption. The biological baseline remains stable, with life expectancy continuing gradual improvement.
+
+__Nutrition & Physiological Vitality:__ Sedentary screen time begins increasing, particularly among early adopters and knowledge workers, though the health effects of constant connectivity are not yet systematically studied.
+
+__Care, Healing & Recovery Capacity:__ The healthcare system remains largely separate from digital platforms, though early telemedicine experiments and health information websites begin appearing. The period precedes meaningful digitization of medical records or patient-facing digital health tools.
+
+__Reproductive Biology & Pairing Dynamics:__ Online dating transitions from stigmatized niche to acceptable practice, with platforms like Match.com and early mobile-era entrants beginning to reshape courtship patterns among younger demographics.
+
+__Demographic Renewal & Density:__ The US population grows from approximately 295 million to 310 million. The college-age cohort that forms early Facebook's user base (born 1985-1990) enters adulthood as digital natives, bringing fundamentally different assumptions about information sharing and social coordination.
+
+__Attrition & Dependency Overhang:__ The baby boom generation (born 1946-1964) begins approaching retirement, creating both a market for simplified digital tools and a widening generational gap in platform adoption.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The 2008 financial crisis pushes millions below the provisioning floor through foreclosures and unemployment, creating economic pressure that paradoxically accelerates digital adoption as cheaper online alternatives replace costly brick-and-mortar services.
+
+__Energy Capture & Conversion:__ Computing power per dollar continues doubling roughly every eighteen months, enabling increasingly sophisticated platforms to serve expanding user bases. Broadband penetration reaches approximately 60% of households by 2010, with DSL and cable providing sufficient bandwidth for video streaming.
+
+__Labor Organization & Coercion:__ The sharing economy begins with Airbnb (2008) and Uber (2009), introducing platform-mediated gig work that blurs boundaries between employment and independent contracting. Tech companies establish high-compensation cultures for engineers while outsourcing content moderation and support functions.
+
+__Production & Surplus Capacity:__ Platform companies generate value through network effects rather than physical production. Facebook, Twitter, and YouTube create no inventory, instead extracting value from user-generated content and attention.
+
+__Storage, Reserves & Buffering:__ Venture capital funds platform losses through years of negative cash flow, betting on future advertising revenue once user scale is achieved. The 2008 crisis briefly tightens funding before Federal Reserve intervention restores capital flows.
+
+__Exchange, Trade & Logistics:__ Amazon expands its marketplace model, allowing third-party sellers while capturing logistics and transaction fees. E-commerce grows from approximately 3% to 5% of retail sales, establishing patterns that will accelerate in later periods.
+
+__Value Storage, Credit & Deferred Exchange:__ PayPal and emerging mobile payment experiments begin establishing digital transaction rails, though cash and card remain dominant. Credit access tightens dramatically during 2008-2009 before gradual recovery.
+
+__Surplus Extraction & Redistribution:__ Platforms capture value through advertising, taking a growing share of marketing spend from print media. Google and the emerging Facebook advertising platform establish the duopoly that will dominate digital advertising.
+
+__Wealth Distribution & Asset Defense:__ Platform founders and early investors accumulate significant equity stakes. Stock options concentrate wealth among engineering talent while content creators on YouTube and early social platforms receive minimal direct compensation.
+
+__Byproducts & Waste Routing:__ The advertising-based model externalizes attention costs onto users, whose time and behavioral data become inputs to optimization systems. Financial waste from the 2008 crisis clears slowly through foreclosures, bankruptcies, and Federal Reserve intervention.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Facebook's expansion beyond colleges creates new visibility into extended family networks, enabling reconnection across geographic distance while also introducing novel tensions as multiple generations share platforms.
+
+__Association & Mutual Aid:__ Social media enables new forms of association outside traditional organizational structures. Interest-based communities form around shared enthusiasms, identities, and causes, creating horizontal networks that parallel and sometimes replace geographic or institutional ties.
+
+__Leisure, Play & Sociability:__ Time spent on social platforms becomes a primary leisure activity, particularly for younger users. The distinction between online and offline socializing begins blurring, though the period retains assumptions about digital interaction as supplementary to face-to-face contact.
+
+__Stratification, Status & Group Structure:__ Early social media adopters skew young, educated, and urban. Platform use becomes a marker of generational identity, with MySpace initially dominant among youth before Facebook's college-origin prestige displaces it. Friend counts and follower numbers emerge as visible status markers.
+
+__Administrative Capacity & Institutional Integrity:__ Government and institutional capacity to understand or regulate platforms lags far behind their growth. The FCC addresses net neutrality through limited authority, while privacy and antitrust frameworks developed for earlier eras prove poorly suited to platform dynamics.
+
+__Coercive Apparatus & Means of Force:__ Law enforcement begins confronting platforms as sites of both evidence and new categories of crime, though technical capacity to conduct digital investigations remains limited. The post-9/11 surveillance state operates largely in parallel to commercial platform data collection.
+
+__Discharge, Disorder & Decay:__ Cyberbullying emerges as a recognized social problem, particularly affecting adolescents on early social platforms. The disorder channels that platforms enable—harassment, stalking, fraud—outpace moderation capacity, which remains minimal.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-financial crisis anxiety mixes with optimism about digital connectivity's democratic potential. The Obama campaign's successful use of social media in 2008 generates enthusiasm about technology's capacity to mobilize political participation.
+
+__Leadership & Personal Authority:__ Platform founders—Zuckerberg, Dorsey, the Google founders—emerge as celebrity entrepreneurs, embodying narratives of meritocratic innovation. Their personal authority over platform design decisions operates largely without external check.
+
+__Legitimacy as Lived Allegiance:__ Platforms enjoy high legitimacy among users, who see them as tools of empowerment and connection rather than extraction. The privacy concerns that will later generate backlash remain marginal.
+
+__Political Will & Collective Resolve:__ The period sees limited political will to regulate platforms, which are perceived as engines of innovation and economic recovery. Bipartisan consensus favors light-touch regulation.
+
+__External Relations & Posture:__ North American platforms expand globally, establishing English-language dominance in social media. The "Twitter revolution" narrative around 2009 Iranian protests positions platforms as tools of democratic liberation, though the reality proves more complex.
+
+__Disaffection, Apathy & Spent Will:__ The 2008 crisis generates widespread disaffection with financial institutions and established elites, creating an appetite for alternative platforms and voices that social media partially channels.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Broadband and increasingly smartphones (after iPhone's 2007 launch) expand communication access, though a digital divide persists along income, age, and rural-urban lines. The shared code becomes increasingly visual, with photo and video supplementing text.
+
+__Channels & Transmission Velocity:__ Twitter introduces real-time public messaging, compressing news cycles and enabling viral spread. The News Feed (Facebook, 2006) and algorithmic ranking begin shaping what information reaches users, though the full implications remain underappreciated.
+
+__Record, Storage & Persistence:__ User-generated content accumulates at unprecedented scale, creating both archives of personal expression and raw material for platform advertising systems. The expectation that shared content will persist indefinitely begins forming, though early platform failures (GeoCities, 2009) demonstrate fragility.
+
+__Framing, Censorship & Discourse Norms:__ Platforms establish Terms of Service governing content, but enforcement remains minimal and inconsistent. The presumption favors openness, with content moderation treated as a cost center rather than core function.
+
+__Reception, Attention & Amplification:__ Viral dynamics emerge as content spreads through social graphs. The architecture of sharing—likes, retweets, comments—begins shaping what content succeeds, selecting for emotional resonance and shareability.
+
+__Signal Integrity & Noise Load:__ Information volume expands dramatically, but verification and curation remain decentralized. The "wisdom of crowds" optimism of Web 2.0 assumes collective filtering will surface quality, an assumption later periods will complicate.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Digital utopianism frames platform access as a right and information sharing as inherently democratic. The ethics of surveillance capitalism remain largely unexamined outside specialist academic circles.
+
+__Law, Codification & Regulatory Evolution:__ Section 230 of the Communications Decency Act (1996) provides platforms immunity for user-generated content, enabling explosive growth by removing liability risk. COPPA governs children's privacy, but enforcement is limited.
+
+__Adjudication, Liability & Sanction:__ Disputes over platform content primarily occur through Terms of Service enforcement, with limited judicial involvement. Copyright holders pursue DMCA takedowns, but most content moderation operates outside legal process.
+
+__Rights, Protections & Compliance Burden:__ Privacy expectations evolve rapidly as users share unprecedented personal information. Platform privacy policies expand but remain largely unread, establishing baseline consent for data extraction.
+
+__Impunity & Unredressed Wrong:__ Harassment, fraud, and privacy violations on platforms frequently go unaddressed, as moderation capacity lags scale and legal remedies prove cumbersome. The gap between user expectation of safety and actual platform response accumulates as unremedied wrong.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic study of social media and digital platforms emerges as a field, with researchers beginning to measure network effects, virality, and user behavior. The "Web 2.0" framing (O'Reilly, 2004) provides conceptual vocabulary for understanding participatory platforms.
+
+__Applied Knowledge & Technical Method:__ Machine learning begins improving advertising targeting and content recommendation, though the techniques remain less sophisticated than later periods. Mobile app development creates new skill demands as the App Store (2008) establishes a new software distribution model.
+
+__Education, Knowledge Stock & Skill Distribution:__ Computer science and related fields expand enrollment, particularly at elite universities connected to Silicon Valley. Digital literacy varies widely by age and education level, with younger cohorts demonstrating facility older users lack.
+
+__Obsolescence & Knowledge Decay:__ Web 1.0 publishing models and portal-based navigation become obsolete as social and search-driven discovery displace them. Technical skills in older web technologies depreciate, requiring constant retraining.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Digital technology becomes central to American narratives of innovation and progress. Silicon Valley entrepreneurship joins earlier stories of frontier settlement and industrial dynamism as foundational myth.
+
+__Legitimating Narrative & Ideology:__ Platform companies deploy narratives of democratization, connection, and meritocratic disruption. The ideology frames platforms as neutral utilities empowering users rather than as businesses optimizing for engagement and extraction.
+
+__Artistic Expression & Material Culture:__ User-generated content becomes a primary mode of cultural production. Amateur video, photography, and writing proliferate on YouTube, Flickr, and blogging platforms. The iPhone establishes new material culture expectations around personal devices as extensions of identity.
+
+__Form Exhaustion & Meaning Decay:__ Broadcast media forms—the network evening news, the newspaper front page—begin losing cultural centrality as younger audiences migrate to digital. The exhaustion of these older forms opens space for platform-native expression but leaves voids in shared information infrastructure.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Digital connectivity feeds both utopian visions of global connection and underlying anxiety about technological change's pace. The prevailing outlook remains largely secular, with technology itself acquiring quasi-spiritual properties of transcendence and transformation.
+
+__Ritual, Devotion & Sacred Practice:__ Digital habits begin acquiring ritual qualities—checking feeds, posting updates—though the period precedes the smartphone-era intensity of constant connectivity. Religious communities begin experimenting with digital presence, though traditional practices remain primary.
+
+__Religious Institutions & Doctrinal Authority:__ Established religious institutions adapt slowly to digital platforms, using them primarily for outreach rather than fundamental restructuring. The period precedes significant platform-enabled religious fragmentation or alternative spiritual entrepreneurship.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Secular technological optimism competes with traditional religious frameworks, particularly among younger, more educated demographics. The "spiritual but not religious" category grows, though connection to digital culture remains implicit.
+
+__Disenchantment & Sacred Discharge:__ The financial crisis generates disenchantment with market fundamentalism, creating openings for alternative meaning systems. Digital platforms partially fill the void left by declining institutional religious participation, offering community and identity outside traditional structures.

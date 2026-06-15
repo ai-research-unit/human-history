@@ -1,69 +1,139 @@
-# __1890 CE – 1914 CE__ — Crisis of Liberal Italy and Mass Politics
-__Summary:__ Liberal Italy confronts mounting contradictions as industrialization accelerates in the north while the southern agrarian crisis deepens, mass politics emerges through socialist and Catholic mobilization, and colonial humiliation at Adwa (1896) exposes state weakness; the binding constraint is the liberal oligarchy's inability to integrate new social forces without losing control, leaving minimal margin against social upheaval; the direction of change is toward mass political participation, ideological polarization, and nationalist revival.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Rail network now connects major cities but Apennine terrain still impedes east-west transit; port modernization at Genoa, Naples, and new industrial zones reduces maritime friction; southern road network remains deficient.<br><br>
-__Climate Regime & Volatility:__ Mediterranean pattern continues; drought years trigger agricultural distress particularly in latifundia zones; phylloxera devastates vineyards in 1880s–1890s with slow recovery; no secular climate shift.<br><br>
-__Hazard Regime & Exposure:__ Messina earthquake and tsunami (1908) kills over 80,000, exposing catastrophic state incapacity; Vesuvius eruption (1906) causes evacuation; seismic exposure remains the primary hazard with margin near zero in coastal cities.<br><br>
-__Resource & Energy Endowment:__ Coal import dependence continues; hydroelectric development begins in Alpine valleys (Edison company); iron and steel rely on imported materials; sulfur exports decline as alternatives emerge; endowment constraints on heavy industry.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial effluent increases in northern manufacturing zones; urban sanitation slowly improving after cholera lessons; Milan and Turin rivers degraded; absorptive capacity stressed in industrial corridors.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria control efforts begin (quinine distribution); cholera recedes; tuberculosis becomes leading urban killer; infant mortality declining but still high (150–200 per 1,000); overall mortality trend downward.<br><br>
-__Nutrition & Physiological Vitality:__ Pellagra declining as maize monoculture breaks; emigrant remittances improve rural diets; urban workers face industrial health hazards; conscription data show height increases in north; vitality improving unevenly.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility remains high but beginning to decline in northern cities; marriage patterns stable; Church influence on family formation persists despite civil alternatives.<br><br>
-__Demographic Renewal & Density:__ Population reaches 35 million by 1914; mass emigration (peak 1913: over 870,000 departures) functions as demographic release valve; natural increase continues; urban density rising rapidly in industrial north.<br><br>
-__Attrition & Dependency Overhang:__ Emigration reduces working-age males in south; dependency ratios manageable through family networks and remittances; orphanages and charity institutions expand; no systemic overload.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Southern peasantry still near subsistence despite emigration relief; northern workers above subsistence but vulnerable to unemployment; household strategies include emigrant remittances; provisioning floor rising slowly.<br><br>
-__Energy Capture & Conversion:__ Hydroelectric power transforms northern industry; electric traction on rail lines; steam remains dominant in heavy industry; per-capita energy capture rising significantly in industrial triangle (Milan-Turin-Genoa).<br><br>
-__Labor Organization & Coercion:__ Industrial wage labor expands; trade unions legalized; socialist Camere del Lavoro organize workers; agricultural strikes in Po Valley; coercion declining but strike suppression still violent.<br><br>
-__Production & Surplus Capacity:__ Industrial output doubles during Giolittian era; steel, machinery, automobile production (Fiat 1899); textile sector matures; agricultural modernization in Po Valley; surplus capacity expanding rapidly in north.<br><br>
-__Storage, Reserves & Buffering:__ Banking system consolidates (Banca d'Italia 1893); state reserves improve; private savings increase; cooperatives spread among workers and peasants; buffering capacity strengthening but 1907 financial crisis tests it.<br><br>
-__Exchange, Trade & Logistics:__ Customs union with France restored; export markets expand; internal market integrating through rail; commercial agreements with major powers; logistics bottlenecks easing in industrial zones.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Lira stable under gold standard; Banca d'Italia consolidates note issue; industrial credit expands through mixed banks (Banca Commerciale, Credito Italiano); credit reaching middle strata but not rural south.<br><br>
-__Surplus Extraction & Redistribution:__ Tax burden shifts from land to consumption and income; grist tax abolished (1884) but indirect taxation still regressive; colonial expenditure drains surplus; redistribution toward public works and military.<br><br>
-__Wealth Distribution & Asset Defense:__ Industrial bourgeoisie accumulating rapidly; land concentration persists in south; wealth inequality widening; asset defense through corporate structures and political connections.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent discharge increases; urban sanitation improving but incomplete; routing still favors externalization into rivers and urban peripheries; environmental load accumulating.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Class solidarity developing in industrial north; socialist mutual-aid networks expand; Catholic social organizations (Opera dei Congressi until 1904) parallel; regional distrust persists; trust radius widening along class lines.<br><br>
-__Stratification, Status & Group Identity:__ Industrial working class emerges as distinct stratum; bourgeoisie consolidates; southern peasantry remains marginal; class identity strengthening; regional identities persist alongside nascent national consciousness.<br><br>
-__Kinship, Family & Inheritance:__ Family remains central but nuclear households increase in industrial areas; emigration strains kinship networks; inheritance patterns stable; Church maintains marriage registry alongside civil.<br><br>
-__Civic Association & Self-Organization:__ Socialist Party (PSI) and unions organize workers; Catholic associations regroup after Opera dissolution; nationalist associations (ANI 1910) emerge; Masonic lodges influential among liberals; associational density high.<br><br>
-__Leisure, Play & Sociability:__ Mass spectacle emerges—football clubs, cycling, cinema (first Italian film 1905); working-class leisure in case del popolo; bourgeois sociability in clubs and resorts; leisure spaces differentiate by class.<br><br>
-__Grievance Channels & Social Discharge:__ Strikes legal and frequent—1904 general strike, 1907–1908 agricultural strikes; emigration continues absorbing southern distress; socialist press channels grievance; political participation expanding; discharge capacity strained but functioning.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy continues; Giolitti dominates (intermittently 1892–1914) through parliamentary manipulation (trasformismo); power concentrated in liberal oligarchy but pressured by mass parties; centralizing tendency checked by new forces.<br><br>
-__Succession & Power Transfer:__ Umberto I assassinated (1900); Victor Emmanuel III succeeds smoothly; ministerial rotation through Giolittian management; Crispi's authoritarian episode (1893–1896) followed by return to parliamentary norms; transfer stable but contested.<br><br>
-__Legitimacy & Political Narrative:__ Liberal nationalism strained by Adwa defeat; Great Power status pursued through colonial expansion (Libya 1911–1912); Risorgimento memory invoked but fading; legitimacy eroding among excluded classes.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State capacity expanding—public works, education, social legislation; southern administration remains compromised by patronage and organized crime; census and statistics improve; corruption endemic but not crippling.<br><br>
-__Political Participation & Mobilization:__ Franchise reform (1912) extends vote to all literate males and illiterate veterans—electorate triples; Catholic Gentiloni Pact (1913) returns observant voters; socialist and nationalist parties mobilize mass base; participation expanding rapidly.<br><br>
-__Geopolitical Position & External Relations:__ Triple Alliance renewed but relations with Austria tense (irredentism); rapprochement with France; Libyan War (1911–1912) demonstrates great power ambition; Balkan wars (1912–1913) increase regional tension; position strengthening but rivalries active.<br><br>
-__Coercive Apparatus & Means of Force:__ Army modernized with conscription reform; navy expanded (dreadnought construction); carabinieri and police handle industrial unrest with variable violence; colonial forces tested in Libya; command professionalized.<br><br>
-__Internal Order & Threat Environment:__ Anarchist violence continues (Umberto assassination, Bresci); Sicilian Fasci suppressed (1893–1894); Mafia and Camorra embedded in south; industrial strikes managed through combination of repression and negotiation; order maintained but margins narrowing.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telephone networks expand in cities; telegraph dense; mass-circulation newspapers achieve national reach—Corriere della Sera circulation exceeds 400,000 by 1914; velocity high across literate population.<br><br>
-__Record, Storage & Persistence:__ State archives and registries comprehensive; newspaper morgues extensive; photography spreads; institutional memory strong; persistence improving with bureaucratic professionalization.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press freedom continues; socialist press (Avanti 1896) and nationalist press (Idea Nazionale 1911) compete; anticlerical and clerical frames contend; Libyan War generates propaganda; discourse polarizing but band remains wide.<br><br>
-__Reception, Attention & Amplification:__ Mass readership established; illustrated magazines (Domenica del Corriere 1899) reach semi-literate; cinema newsreels begin; attention concentrated by party press networks; amplification through mass organizations.<br><br>
-__Signal Integrity & Noise Load:__ Partisan framing intensifies; contradictory accounts of strikes and colonial events; verification capacity strained by volume; signal-to-noise degrading in political discourse; noise accumulating.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Class conflict sharpens moral divergence—bourgeois legality versus worker solidarity; southern honor culture persists; Catholic moral teaching competes with socialist ethics; sense of justice fragmenting along ideological lines.<br><br>
-__Law, Codification & Regulatory Evolution:__ Zanardelli penal code (1889) in force; labor legislation expanding (child labor, accident insurance); commercial law modernized; regulatory apparatus growing with industrialization.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system handles increased caseload; labor tribunals introduced; enforcement uneven—southern courts compromised by local powers; strike-related prosecutions contested; throughput strained but functioning.<br><br>
-__Rights, Protections & Compliance Burden:__ Freedom of association and press established; strike rights contested but expanding; worker protections nascent; compliance burden increasing for employers; legal access improving through union support.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity persists (Banca Romana scandal); Mafia violence in Sicily largely unprosecuted; state violence against strikers rarely adjudicated; impunity stock stable, not clearing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Positivism challenged by idealist revival (Croce, Gentile); Pareto and Mosca develop elite theory; futurism (Marinetti 1909) rejects past; syndicalism (Sorel) influences labor movement; paradigm in transition.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering advances support industrialization—hydroelectric, automotive, aviation (first flights 1908); agricultural science applied in Po Valley; technical education expanding; method consolidating.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy exceeds 60% by 1914; compulsory education extended; technical and vocational schools expand; university enrollment grows; skill distribution improving but regional gaps persist.<br><br>
-__Obsolescence & Knowledge Decay:__ Positivist certainties eroding; traditional craft skills declining in industrial areas; regional educational disparities reflect knowledge stock inequalities; decay managed through standardization but not eliminated.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Risorgimento memory institutionalized but fading; nationalist revival seeks new founding narratives—Roman Empire, Mediterranean destiny; regional identities persist; identity contested between liberal, socialist, and nationalist visions.<br><br>
-__Artistic Expression & Material Culture:__ Futurism rejects tradition and celebrates modernity; verismo in opera (Puccini) and literature continues; Liberty style (Art Nouveau) in architecture; material culture displays industrial modernity in north.<br><br>
-__Collective Mood & Behavioral Disposition:__ Growing social tension; industrial militancy; nationalist excitement around Libyan War; pessimism about parliamentary politics; mood polarizing between revolutionary and reactionary tempers.<br><br>
-__Form Exhaustion & Meaning Decay:__ Liberal constitutionalism losing inspirational force; Risorgimento symbolism hollow; religious practice declining in industrial areas; futurist rejection of all tradition signals exhaustion; meaning crisis active among intellectuals.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology challenged by secular alternatives; anticlericalism strong among socialists; religious indifference spreading in cities; fatalism persists in rural south; existential outlook fragmenting by class and region.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass attendance declining in industrial north; sacramental participation remains high in south and among women; Marian apparition cults active; devotional infrastructure contracting unevenly.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Pius X (1903–1914) combats modernism; anti-modernist oath (1910); Catholic Action reorganized; doctrinal authority consolidated internally while social influence recovers through Gentiloni Pact.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholic monopoly unchallenged by other traditions; Protestant presence marginal; popular religion persists; no syncretism or displacement; secular alternatives expand but do not replace.<br><br>
-__Disenchantment & Sacred Discharge:__ Industrial working class secularizes; socialist movement provides alternative meaning structure; bourgeois anticlericalism routine; sacred meaning eroding but socialist and nationalist ideologies absorb some discharge; disenchantment accumulating.<br><br>
+# __1890 CE – 1914 CE — Crisis of Liberal Italy and Mass Politics__
+
+The liberal regime confronts the eruption of mass politics as industrialization concentrates a working class in northern cities, socialist and Catholic movements organize outside the restricted parliamentary system, and the popular press expands circulation into the hundreds of thousands. The binding constraint lies in the collision between an elite parliamentary system designed for notables and the mobilization of masses who demand entry, a collision mediated by print that now reaches beyond the bourgeoisie to literate workers, spreading ideologies that challenge liberal hegemony.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The railway network expands to over 16,000 kilometers by 1914, integrating the peninsula more tightly while the north-south infrastructure gap persists. The industrial triangle of Milan-Turin-Genoa crystallizes as the dynamic core. Alpine tunnels (the Simplon, 1906) connect Italy to European markets.
+
+__Climate Regime & Volatility:__ The Mediterranean climate regime continues, with periodic droughts in the south. Agricultural productivity remains vulnerable to rainfall variability. No major climatic shifts alter the baseline.
+
+__Hazard Regime & Exposure:__ The Messina earthquake of 1908 devastates the Strait region, killing over 80,000 in the deadliest European earthquake of modern times. The disaster exposes the inadequacy of state emergency response and reconstruction capacity.
+
+__Resource & Energy Endowment:__ Hydroelectric power develops rapidly in the Alpine valleys, enabling the electrical industry and reducing coal dependence for northern factories. Oil remains marginal. Sulfur mining in Sicily declines as American competition undercuts prices.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution concentrates around Milan, Turin, and Genoa. Urban sanitation improves incrementally, but southern cities remain poorly served. The Naples risanamento continues slowly.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Cholera recedes after the 1884 epidemic; malaria persists in coastal lowlands until quinine distribution and drainage projects reduce incidence. Tuberculosis remains the great urban killer. Infant mortality declines but remains high, averaging 150 per 1,000 in 1900.
+
+__Nutrition & Physiological Vitality:__ Pellagra declines as dietary diversity increases in the north. Southern nutrition improves marginally with remittance-funded imports. Conscript examination data show regional disparities in stature and fitness persisting.
+
+__Care, Healing & Recovery Capacity:__ Public health administration strengthens. Hospitals expand in major cities. Vaccination programs (smallpox, diphtheria) reach broader populations. Rural areas remain underserved.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility begins to decline among the urban bourgeoisie and northern working class. Southern fertility remains high. Marriage patterns shift toward later unions among the educated.
+
+__Demographic Renewal & Density:__ Population grows from 30 million (1890) to 35 million (1914). Mass emigration, peaking in 1913 with over 870,000 departures, acts as a demographic safety valve. Southern provinces lose population to the Americas; northern cities gain from internal migration.
+
+__Attrition & Dependency Overhang:__ Emigration of working-age males leaves dependent populations of elderly, women, and children in sending regions. Remittances sustain households but create absent-father family structures.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Southern subsistence agriculture persists. Northern agricultural productivity increases with mechanization and market integration. The wheat tariff (1887) protects domestic production but raises bread prices for the poor.
+
+__Energy Capture & Conversion:__ Hydroelectricity transforms northern industry, powering textile mills, steelworks, and the emerging electrical-engineering sector. Edison's Milan station (1883) inaugurates urban electrification. Steam persists in railways and older factories.
+
+__Labor Organization & Coercion:__ The industrial working class grows to approximately two million by 1914. Labor organization accelerates: the Federazione Italiana Operai Metallurgici (metalworkers), the Federterra (agricultural laborers). Strikes increase in frequency and scale. The Giolittian era tolerates unions within limits.
+
+__Production & Surplus Capacity:__ Industrial output accelerates, particularly in textiles, steel (ILVA, Terni), machinery, and automobiles (FIAT, founded 1899). Italy remains a second-tier industrial power but closes the gap with France. The south remains agrarian.
+
+__Storage, Reserves & Buffering:__ The Banca d'Italia (1893) consolidates note issue and stabilizes credit. Public debt remains high but serviceable. Treasury reserves build during the Giolittian prosperity.
+
+__Exchange, Trade & Logistics:__ Protectionist tariffs shelter heavy industry but provoke a tariff war with France (1888–1898) that damages wine and silk exports. Trade expands within the Triple Alliance framework. Genoa and Naples handle growing import volumes.
+
+__Value Storage, Credit & Deferred Exchange:__ The banking system consolidates after the scandals of the Banca Romana (1893). Credit expands to industry; the south remains underbanked. Postal savings mobilize small deposits.
+
+__Surplus Extraction & Redistribution:__ Progressive income taxation is debated but not implemented. Indirect taxes on consumption (sugar, salt) remain regressive. State spending shifts toward infrastructure, education, and military expansion.
+
+__Wealth Distribution & Asset Defense:__ Industrial fortunes emerge in the north (Agnelli, Pirelli). Land concentration persists in the south. Emigrant remittances provide a modest wealth transfer to sending communities. Inequality widens between regions.
+
+__Byproducts & Waste Routing:__ Industrial effluent pollutes rivers near factory concentrations. Urban refuse management improves with municipal services. Agricultural waste cycles traditionally.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Emigration disrupts family structures, with fathers and sons abroad for years. Urban nuclear families become normative among the bourgeoisie. Southern patriarchal extended families persist but strain under economic pressure.
+
+__Association & Mutual Aid:__ The cooperative movement expands, with consumer cooperatives, credit unions, and producer cooperatives multiplying, especially among socialists and Catholics. Mutual aid societies provide insurance functions. Catholic parish associations compete with socialist organizing.
+
+__Leisure, Play & Sociability:__ The cafe, the music hall, and the bicycle transform urban leisure. Football (soccer) arrives; clubs form in Genoa (1893), Turin, and Milan. The cinema appears after 1905. Sunday excursions by train democratize tourism.
+
+__Stratification, Status & Group Structure:__ The industrial bourgeoisie gains wealth and influence. The working class develops class consciousness through unions and socialist parties. The southern peasantry remains marginalized despite emigration's effects. The nobility declines in relevance.
+
+__Administrative Capacity & Institutional Integrity:__ The Giolittian system extends state capacity, particularly in education, public works, and labor relations. The civil service professionalizes. Corruption persists, especially in southern local government and electoral practices.
+
+__Coercive Apparatus & Means of Force:__ The army modernizes with new rifles and artillery, though budgets lag behind France and Germany. Conscription is enforced more consistently. The police repress anarchists and, selectively, strikers. The Libyan War (1911–1912) tests military capacity with mixed results.
+
+__Discharge, Disorder & Decay:__ The Milan massacre of 1898 (Fatti di Maggio) sees General Bava Beccaris fire on bread rioters, killing approximately 100. Anarchist violence includes the assassination of King Umberto I (1900). Strike waves (1901, 1904 general strike, 1913) test the regime. The south remains prone to rural unrest and mafia violence.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Nationalist sentiment intensifies, fueled by the irredentist movement and colonial ambition. Working-class solidarity grows around socialist ideals. Resentment of the political establishment pervades both left and right.
+
+__Leadership & Personal Authority:__ Giovanni Giolitti dominates politics (prime minister five times), mastering parliamentary management and co-optation. His pragmatic liberalism accommodates moderate socialists but alienates nationalists and Catholics. No charismatic mass leader emerges.
+
+__Legitimacy as Lived Allegiance:__ The expanded suffrage (1912 universal male suffrage) begins integrating the masses, but the political system retains its elite character. The Roman Question continues to estrange devout Catholics. Socialist ideology offers an alternative legitimation.
+
+__Political Will & Collective Resolve:__ The reform impulse of the Giolittian era produces notable legislation (social insurance, labor protections) but exhausts itself in parliamentary maneuver. The will to address fundamental inequalities remains limited. War fever in 1911–1912 demonstrates nationalist mobilization capacity.
+
+__External Relations & Posture:__ Italy remains in the Triple Alliance while pursuing opportunistic expansion. The Libyan War acquires a colony but at high cost. Irredentism demands Trentino and Trieste from Austria-Hungary. Ambivalence about alliance commitments will crystallize in 1914–1915.
+
+__Disaffection, Apathy & Spent Will:__ Revolutionary syndicalism channels working-class disaffection outside parliamentary channels. Anarchist violence expresses nihilistic despair. Nationalist frustration with liberal caution breeds contempt for the parliamentary system.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy rises to approximately 60% by 1911, with regional disparities narrowing. Literary Italian spreads through schooling and military service. Dialect remains the vernacular for most, but comprehension of standard Italian increases.
+
+__Channels & Transmission Velocity:__ The telephone network expands; by 1914, over 100,000 subscribers exist. Telegraph remains the backbone for urgent communication. Railways deliver newspapers nationwide within 24 hours. Radio is not yet operational.
+
+__Record, Storage & Persistence:__ State archives systematize. Civil registration is universal. Newspapers preserve daily records of public life. Photography documents events and personages.
+
+__Framing, Censorship & Discourse Norms:__ Press freedom prevails under the Statuto, with sequestration used sparingly. The socialist press (Avanti!, founded 1896; reaching 60,000 circulation) and Catholic press (L'Osservatore Romano; diocesan papers) challenge liberal hegemony. Sensationalism grows with mass circulation.
+
+__Reception, Attention & Amplification:__ The Corriere della Sera under Luigi Albertini reaches over 300,000 circulation, becoming Italy's paper of record. Regional papers multiply. The penny press targets workers. Illustrated magazines (Domenica del Corriere) reach semi-literate audiences.
+
+__Signal Integrity & Noise Load:__ Partisan coloring intensifies as ideological press proliferates. Official statistics improve; the census provides demographic data. Propaganda, electoral and ideological, competes for attention.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Socialist and Catholic social teaching both critique liberal individualism, offering alternative moral frameworks emphasizing solidarity, whether class-based or Christian. Liberal legalism retains formal authority but faces normative challenge.
+
+__Law, Codification & Regulatory Evolution:__ Labor legislation advances: workplace accident insurance (1898), limits on child and female labor. The Zanardelli Code remains in force. Administrative law develops to govern the expanding state.
+
+__Adjudication, Liability & Sanction:__ The judiciary handles increased caseloads as economic complexity grows. Labor disputes enter formal arbitration in some sectors. Political trials of anarchists and subversives draw public attention.
+
+__Rights, Protections & Compliance Burden:__ Universal male suffrage (1912) extends political rights to the previously excluded. Freedom of association for unions is tacitly accepted. Press freedom remains robust.
+
+__Impunity & Unredressed Wrong:__ The Milan massacre perpetrators face no accountability. Mafia violence in Sicily operates with impunity despite periodic crackdowns. Police violence against strikers recurs. The gap between law and justice in the south remains wide.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Positivism wanes; idealism revives under Croce and Gentile. Social science (Pareto, Mosca on elites) gains influence. Marxist theory spreads through socialist circles. Futurism (Marinetti, 1909) proclaims avant-garde rupture.
+
+__Applied Knowledge & Technical Method:__ Engineering advances in electrical and mechanical industries. Agricultural science improves yields in the north. Industrial chemistry develops. Medical research advances (Golgi's Nobel, 1906).
+
+__Education, Knowledge Stock & Skill Distribution:__ Elementary enrollment becomes near-universal in the north; the south lags. Secondary and technical education expands to serve industrial needs. Universities train professionals and civil servants.
+
+__Obsolescence & Knowledge Decay:__ Traditional craft production declines as factory methods spread. Agricultural backwardness in the south represents knowledge stagnation rather than decay.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Risorgimento memory is institutionalized in monuments, commemorations, and school curricula. The fiftieth anniversary (1911) prompts patriotic celebration. Competing identities emerge: class (socialist), faith (Catholic), region (particularist).
+
+__Legitimating Narrative & Ideology:__ Liberal nationalism remains the official ideology, but socialism offers internationalist alternatives and nationalism offers aggressive, expansionist ones. Catholic social teaching provides a third framework. The liberal center is squeezed.
+
+__Artistic Expression & Material Culture:__ Verismo in opera (Mascagni, Puccini) and literature (Verga, Deledda) depicts popular life. Futurism celebrates speed, technology, and violence, anticipating war. Art Nouveau (Stile Liberty) influences architecture and design. Fashion and consumer goods signal bourgeois modernity.
+
+__Form Exhaustion & Meaning Decay:__ Risorgimento rhetoric feels antiquated to younger generations. Liberal pieties ring hollow to socialists and nationalists alike. The search for new forms drives avant-garde experimentation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholicism remains the majority faith but faces secular challenge among urban elites and socialist workers. Anticlericalism persists in radical circles. The search for meaning beyond both Church and liberalism animates intellectuals.
+
+__Ritual, Devotion & Sacred Practice:__ Parish life continues to structure rural existence. Marian devotion intensifies (Lourdes pilgrimages). Socialist funerals and rituals offer secular alternatives for the organized working class.
+
+__Religious Institutions & Doctrinal Authority:__ Leo XIII's Rerum Novarum (1891) authorizes Catholic social action, enabling cooperatives, unions, and eventually political organization. Pius X (1903–1914) clamps down on Modernism but tolerates Catholic Action. The non expedit is relaxed in 1904 and effectively abandoned by 1913.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Secularization proceeds among urban educated classes. Working-class anticlericalism blends with socialist conviction. Folk Catholicism persists in the countryside. Theosophy and spiritualism attract fringe interest.
+
+__Disenchantment & Sacred Discharge:__ The crisis of liberal Italy is also a spiritual crisis: neither Catholic tradition nor liberal progress nor socialist utopia commands universal assent. The void opens that nationalism and, after 1918, fascism will seek to fill.

@@ -1,69 +1,139 @@
-# __1500 CE – 1930 CE__ — Dutch Republic and Press Freedom
-__Summary:__ A pan-temporal snapshot of the Low Countries as a uniquely tolerant publishing center within the North European Plain, from the Dutch Revolt through the modern Kingdom of the Netherlands; the binding constraint is the commercial imperative that made freedom profitable — tolerance attracted capital, talent, and manuscripts that competitors drove away; the system held wide margins against censorship because decentralized sovereignty and merchant dominance blocked ecclesiastical or royal monopoly; the principal direction of change is the institutionalization of press liberty as a constitutional norm exported across Europe.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Low-lying delta at the mouths of the Rhine, Meuse, and Scheldt; dense canal networks reduce internal friction to near-zero; North Sea access opens Atlantic and Baltic trade routes without mountain or fortress chokepoints.<br><br>
-__Climate Regime & Volatility:__ Maritime temperate regime with mild winters and moderate rainfall; interannual volatility is low; the Little Ice Age brings colder decades but no regime shift threatening provisioning.<br><br>
-__Hazard Regime & Exposure:__ Flood risk is endemic and managed through dike systems; storm surges occasionally breach defenses but absorptive capacity is high because repair infrastructure and pooled financing are institutionalized.<br><br>
-__Resource & Energy Endowment:__ Peat reserves provide domestic fuel through the early modern period; no metals or timber; coal imported from Ruhr and Britain as peat depletes; endowment is modest but the transit position compensates.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban canals carry effluent to the sea; industrial discharges from printing, textiles, and later chemicals load local waterways but tidal flushing and dispersal keep saturation below critical thresholds through 1930.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Dense port cities face plague cycles through the seventeenth century; endemic typhus and smallpox persist; sanitary reform in the nineteenth century lowers urban mortality; baseline mortality is high early, declining steadily by 1900.<br><br>
-__Nutrition & Physiological Vitality:__ Dairy-rich diet and grain imports via Baltic trade sustain above-average nutritional status; stature data show Dutch populations among tallest in Europe by the late nineteenth century.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Northwestern European marriage pattern — late marriage, nuclear households, high celibacy — regulates fertility; physiological capacity is normal, expressed through culturally constrained pairing.<br><br>
-__Demographic Renewal & Density:__ Population grows from roughly one million in 1500 to over seven million by 1930; density is high but renewal rates stay positive; immigration of religious refugees and skilled workers supplements natural increase.<br><br>
-__Attrition & Dependency Overhang:__ Widows and orphans are absorbed by charitable foundations; the dependency load is managed through guild funds, poor relief, and later state welfare; no crisis of unabsorbed dependents.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain imports from the Baltic secure the provisioning floor; urban populations depend on trade rather than local agriculture; the floor is stable because purchasing power is high and supply chains diversified.<br><br>
-__Energy Capture & Conversion:__ Wind and water power drive mills for grain, sawing, and paper; peat fuels domestic and industrial heat; transition to coal and steam in the nineteenth century raises the per-capita work ceiling.<br><br>
-__Labor Organization & Coercion:__ Wage labor dominates; guilds regulate crafts including printing; coercion is minimal — no serfdom, no corvée; labor is compensated and mobile.<br><br>
-__Production & Surplus Capacity:__ Commercial and manufacturing output generates substantial surplus; printing, textiles, shipbuilding, and finance are high-value sectors; productive capacity expands steadily.<br><br>
-__Storage, Reserves & Buffering:__ Warehouses, granaries, and commercial credit provide deep buffering; the Amsterdam bourse and Wisselbank pool risk and smooth shocks; reserves are ample relative to demand volatility.<br><br>
-__Exchange, Trade & Logistics:__ Entrepot function channels Baltic grain, colonial goods, and European manufactures; clearing velocity is high; infrastructure bottlenecks are negligible because canal and harbor investment is continuous.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ The guilder is a stable unit of account; the Wisselbank provides reliable clearing; credit markets are deep; purchasing power is steady through most of the window with inflationary episodes brief.<br><br>
-__Surplus Extraction & Redistribution:__ Provincial and municipal taxation extracts surplus for defense and infrastructure; no centralized royal treasury; the load on the productive base is moderate and dispersed.<br><br>
-__Wealth Distribution & Asset Defense:__ Merchant oligarchy concentrates wealth; property rights are strong; legal frameworks protect holdings against confiscation; distribution is unequal but stable.<br><br>
-__Byproducts & Waste Routing:__ Industrial byproducts from printing, dyeing, and later chemicals are discharged to canals; recycling of rags for paper is standard; waste loads rise but remain within absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High radius of trust among merchant and artisan classes; informal credit and reputation networks sustain commerce; mutual aid is institutionalized in guilds and churches.<br><br>
-__Stratification, Status & Group Identity:__ Regent oligarchy at the apex, middling merchants and artisans below, laborers at the base; religious minorities — Jews, Huguenots, Mennonites — occupy protected niches; boundaries are permeable through wealth.<br><br>
-__Kinship, Family & Inheritance:__ Partible inheritance; nuclear family structure; marriage alliances consolidate merchant capital; kin networks support commercial partnerships.<br><br>
-__Civic Association & Self-Organization:__ Guilds, civic guards, charitable boards, and religious congregations provide thick associational fabric; self-organization is robust and expanding through the window.<br><br>
-__Leisure, Play & Sociability:__ Coffeehouses, taverns, and kermis festivals structure sociability; reading culture expands; leisure time increases as prosperity rises.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions, guild arbitration, and local magistrates absorb grievances; periodic riots over bread prices or taxation occur but are contained; the unmetabolized residue is low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal republic of sovereign provinces; the Stadtholder provides military leadership but lacks sovereign authority; power is fragmented among provincial States and urban regents; after 1815, constitutional monarchy with limited royal prerogative.<br><br>
-__Succession & Power Transfer:__ Stadtholderate is hereditary but not automatic; provincial offices circulate among regent families; monarchical succession after 1815 is orderly; transfer is routinized.<br><br>
-__Legitimacy & Political Narrative:__ Republican liberty and resistance to Spanish tyranny anchor legitimacy; commercial success validates the model; monarchical legitimacy after 1815 rests on constitutional compact.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Provincial and municipal administrations are competent within their jurisdictions; records are reliable; corruption is contained by oligarchic reputation stakes; capacity is adequate but coordination across provinces is weak.<br><br>
-__Political Participation & Mobilization:__ Regent oligarchy dominates; broader participation is limited until nineteenth-century reforms; Patriot movement in 1780s and liberal movements in 1848 expand the franchise gradually.<br><br>
-__Geopolitical Position & External Relations:__ Strategic position between major powers; wars with Spain, England, and France threaten but do not extinguish independence; after 1815, neutrality is maintained until 1940; external pressure is intermittent.<br><br>
-__Coercive Apparatus & Means of Force:__ Navy is powerful in the seventeenth century; land forces depend on Stadtholder; after 1815, small standing army; coercive capacity is sufficient for internal order but limited for continental warfare.<br><br>
-__Internal Order & Threat Environment:__ Crime and disorder are low by contemporary standards; occasional urban riots are suppressed; margin of enforcement capacity over disorder is comfortable.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Printing presses in every major town; postal networks connect to continental routes; newspapers from the early seventeenth century; telegraph and telephone arrive in the nineteenth century; velocity is high relative to the era.<br><br>
-__Record, Storage & Persistence:__ Archives of the States-General, provincial States, and municipalities are comprehensive; notarial records preserve commercial transactions; libraries accumulate printed matter; persistence is strong.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship is minimal and inconsistently enforced; the Reformed Church lacks coercive authority over print; controversial works banned elsewhere circulate freely; the permitted band is wide and widening.<br><br>
-__Reception, Attention & Amplification:__ High literacy rates ensure broad reception; coffeehouses and reading societies amplify circulation; controversial pamphlets achieve rapid diffusion; attention is sustained by commercial competition among publishers.<br><br>
-__Signal Integrity & Noise Load:__ Commercial reputation incentivizes accuracy in news; scholarly presses maintain standards; noise exists in pamphlet polemics but verification capacity keeps pace; signal integrity is above European average.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Commercial fair dealing and Protestant conscience anchor moral foundations; breach of contract and fraud are strongly condemned; toleration extends to private belief if public order is maintained.<br><br>
-__Law, Codification & Regulatory Evolution:__ Roman-Dutch law provides the framework; provincial variation exists; codification advances after 1815; guild and municipal regulations govern printing trades.<br><br>
-__Adjudication, Enforcement & Liability:__ Municipal courts handle most disputes; notarial practice and arbitration resolve commercial conflicts; enforcement is reliable; liability is clear in commercial contexts.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights are secure; personal liberty is protected; compliance burden is moderate; after 1848, constitutional press freedom is explicit.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful regent families enjoy advantages but outright impunity is limited; judicial throughput is adequate; the backlog of unredressed wrong is low.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Leiden and later Dutch universities are centers of natural philosophy, medicine, and jurisprudence; Cartesianism and later Enlightenment paradigms circulate; the discovery frontier is active.<br><br>
-__Applied Knowledge & Technical Method:__ Navigation, cartography, hydraulic engineering, and optical instruments demonstrate applied mastery; printing technology advances through continuous refinement.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Urban literacy is high; Latin schools and universities train elites; technical skills in printing are widespread; knowledge stock accumulates and is well-distributed by European standards.<br><br>
-__Obsolescence & Knowledge Decay:__ Superseded knowledge is cleared through competitive publishing; old editions are replaced; decay is minimal because commercial incentives favor current and accurate content.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The Revolt against Spain, the Sea Beggars, and William the Silent anchor national memory; maritime glory and republican virtue define identity; tolerance is retrospectively valorized as foundational.<br><br>
-__Artistic Expression & Material Culture:__ Golden Age painting, Delftware, and canal-house architecture define material culture; print culture — illustrated books, maps, and atlases — is central to the era's aesthetic.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence predominates through the Golden Age; anxiety rises during eighteenth-century decline; renewed confidence in nineteenth-century stability; mood is generally steady.<br><br>
-__Form Exhaustion & Meaning Decay:__ Golden Age forms are recycled through the eighteenth century; renewal occurs with nineteenth-century romanticism and realism; exhaustion is temporary and cleared by new movements.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Reformed Protestant cosmology dominates public life; private belief ranges from strict Calvinism to latitudinarian doubt; secular drift advances among elites by the nineteenth century.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Reformed worship is austere; Catholic and Jewish communities maintain their own rituals privately; devotional practice declines among the urban secular by 1900.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The Dutch Reformed Church lacks coercive power; synods are advisory; Catholic Church is tolerated but restricted until nineteenth-century emancipation; doctrinal authority is dispersed.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Tolerance allows coexistence without synthesis; pillarization after 1850 institutionalizes confessional separation; secularism advances among liberal elites.<br><br>
-__Disenchantment & Sacred Discharge:__ Enlightenment rationalism and commercial pragmatism erode transcendence among elites; residual religiosity persists in rural and working-class populations; disenchantment is partial and stratified.<br><br>
+# __1500 CE – 1930 CE — Dutch Republic and Press Freedom__
+
+__Summary:__ The Low Countries' peculiar conjunction of commercial wealth, decentralized sovereignty, and confessional refuge produces Europe's most permissive print environment, making Amsterdam the continent's publishing capital for a century and establishing precedents of press tolerance that persist even after the Republic's political eclipse — the binding constraint being the mercantile elite's recognition that open information circulation underpins trade advantage.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Rhine-Maas-Scheldt delta concentrates river and maritime transit at minimal distances; canals slice through polder landscape to yield inland navigation density unmatched in Europe, collapsing distribution costs for printed matter and enabling Amsterdam, Rotterdam, and Leiden to function as a single publishing cluster.
+
+__Climate Regime & Volatility:__ North Sea maritime climate delivers mild winters permitting year-round navigation but exposes low-lying land to storm surge; the Little Ice Age tightens conditions in the seventeenth century yet does not break the commercial system.
+
+__Hazard Regime & Exposure:__ Flood risk dominates; the elaborate dike and polder infrastructure testifies to collective engineering but demands perpetual maintenance expenditure that underwrites cooperative governance rather than centralized monarchy.
+
+__Resource & Energy Endowment:__ Peat beds supply domestic fuel and early industrial heat; timber is scarce, imported from Scandinavia and the Baltic, but Dutch carrying trade makes raw materials accessible; wind power drives mills for paper, grain, and drainage.
+
+__Waste Absorption & Sink Capacity:__ Urban density and canal drainage concentrate waste; Amsterdam canals require regular dredging; atmospheric soot from peat burning settles but does not yet reach industrial scale; the physical sink remains adequate through the window.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Urban density and maritime traffic circulate plague, smallpox, and typhoid; Amsterdam's death rate exceeds its birth rate throughout the seventeenth century, offset by continuous immigration; cholera strikes the nineteenth century.
+
+__Nutrition & Physiological Vitality:__ Commercial food supply and North Sea fisheries sustain adequate nutrition for urban masses; the proverbial Dutch height emerges from relative protein abundance; the poor in textile towns fare worse.
+
+__Care, Healing & Recovery Capacity:__ Civic hospitals and orphanages reach levels elsewhere found only in Italian city-states; Leiden's medical faculty gains European reputation; midwifery formalizes early; care capacity expands but lags population growth in the nineteenth-century industrialization.
+
+__Reproductive Biology & Pairing Dynamics:__ Nuclear households and late marriage characterize the northwest European pattern; deliberate fertility limitation appears early among bourgeois families.
+
+__Demographic Renewal & Density:__ The Republic draws immigrants — Flemish refugees, Huguenots, Sephardic Jews, German laborers — to offset negative natural increase; population grows from roughly 1.5 million (1600) to 5 million (1900), the densest territory in Europe.
+
+__Attrition & Dependency Overhang:__ Civic charity and guild support absorb the aged and orphaned; the burden grows as pauperization spreads in the eighteenth century; the modern welfare state inherits these precedents.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Baltic grain imports and efficient distribution keep bread prices stable; dairy and fish supplement; pauperism spreads in textile districts but outright famine is rare.
+
+__Energy Capture & Conversion:__ Wind and peat drive early industry — sawmills, paper mills, fulling — while coal imports expand in the nineteenth century to power steam; Dutch energy capture per capita is high for the seventeenth century, outpaced by Britain after 1750.
+
+__Labor Organization & Coercion:__ Free wage labor predominates in urban trades; guild regulation is lighter than German counterparts; maritime labor is contractual but harsh; slavery operates in colonial periphery, not the metropole.
+
+__Production & Surplus Capacity:__ Commercial and carrying trade produce surplus more than domestic manufacture; Leiden textiles, Delft ceramics, and Amsterdam shipbuilding anchor production; surplus contracts in the eighteenth century as competitors rise.
+
+__Storage, Reserves & Buffering:__ Amsterdam's warehouses and the Bank of Amsterdam (1609) provide physical and financial buffering unmatched until the Bank of England; grain reserves cushion shortage.
+
+__Exchange, Trade & Logistics:__ The Amsterdam Bourse, the Bank of Amsterdam, and standardized commercial law create Europe's most liquid market; the carrying trade makes Dutch shipping the common carrier of European goods, including printed matter destined for censored markets.
+
+__Value Storage, Credit & Deferred Exchange:__ The Bank of Amsterdam provides stable unit of account; bills of exchange circulate internationally; credit markets deepen until rivals in London displace them by 1800.
+
+__Surplus Extraction & Redistribution:__ Taxation falls heavily on excise and trade; the Republic's fragmented sovereignty limits central extraction; provincial and municipal governments spend on defense, infrastructure, and poor relief.
+
+__Wealth Distribution & Asset Defense:__ Regent oligarchy concentrates capital in commercial families; land reclamation projects create new property; the tax burden falls regressively on consumption.
+
+__Byproducts & Waste Routing:__ Urban refuse and workshop waste flow into canals; paper mills recycle rags; the financial waste of speculation surfaces in tulip mania (1637) and South Sea exposure but is absorbed without systemic collapse.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Partible inheritance and nuclear households dominate; widows retain property and often business control; marriage is civil after 1580 in the Republic.
+
+__Association & Mutual Aid:__ Guilds regulate trade and provide welfare; civic militia companies serve social as well as defensive functions; schutterij (militia halls) are sites of bourgeois sociability; orphanages and almshouses proliferate.
+
+__Leisure, Play & Sociability:__ Tavern culture, kermis festivals, and skating expand bourgeois leisure; music and painting are consumed domestically; the coffeehouse (from 1660s) becomes a site for news exchange.
+
+__Stratification, Status & Group Structure:__ Regent patriciate forms governing oligarchy; religious minorities — Mennonites, Sephardim, Huguenots — occupy commercial niches; laborers and sailors constitute an underclass; social mobility is possible through trade.
+
+__Administrative Capacity & Institutional Integrity:__ The Republic's federal structure disperses sovereignty among provinces, cities, and estates; the stadtholder provides tenuous coordination; decision-making is slow but incorruptible by contemporary standards; the Kingdom of Netherlands (from 1815) centralizes administration.
+
+__Coercive Apparatus & Means of Force:__ The Republic relies on naval power rather than standing army; land defense depends on hired mercenaries and fortification; the nineteenth-century state professionalizes armed forces but remains a minor military power.
+
+__Discharge, Disorder & Decay:__ Urban riots occur (Orange vs. regent factions, 1672, 1747); sectarian violence is rare given tolerance; the eighteenth-century regency ossifies into rentier stagnation, overtaken by revolutionary France in 1795.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Commercial pragmatism and Calvinist sobriety set the tone; tolerance is less a principle than a modus vivendi for profit — minorities are suffered because persecuting them harms trade.
+
+__Leadership & Personal Authority:__ The stadtholder (Orange dynasty) commands military loyalty and popular sentiment; regent oligarchs govern cities; after 1815, the House of Orange provides monarchical continuity.
+
+__Legitimacy as Lived Allegiance:__ Allegiance runs to city and confession before nation; the revolt against Spain forges a weak federal identity; national consciousness strengthens in the nineteenth century.
+
+__Political Will & Collective Resolve:__ The Republic mobilizes collective will against Spanish and later French threats; eighteenth-century stagnation reflects will exhausted by naval and commercial decline; the modern state reconstructs will through constitutionalism.
+
+__External Relations & Posture:__ The Republic balances between England and France; colonial ambitions extend to the East Indies, the Americas, and Africa; neutrality becomes policy after 1815 (broken by German occupation, 1940).
+
+__Disaffection, Apathy & Spent Will:__ Regent oligarchy's closure to talent breeds discontent; Patriot agitation (1780s) demands democratization; French invasion sweeps the system away; restoration under Orange restores monarchy but narrows political participation until 1848.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Dutch literacy ranks among the highest in Europe; reading is widespread across classes; French and Latin are also read by the educated; the Huguenot diaspora reads and publishes in French from Amsterdam.
+
+__Channels & Transmission Velocity:__ Printing presses proliferate in Amsterdam, Leiden, The Hague, Rotterdam; postal networks and river transport carry books across Europe; the Gazette d'Amsterdam circulates internationally.
+
+__Record, Storage & Persistence:__ Municipal archives, notarial records, and commercial correspondence create dense documentation; the university at Leiden becomes a repository of learning; libraries accumulate; print ensures persistence.
+
+__Framing, Censorship & Discourse Norms:__ Formal censorship is minimal by European standards; the Reformed Church attempts to restrict heretical literature but lacks enforcement power; authorities intervene only when publication threatens diplomatic relations or public order; Spinoza's works are banned but available; Pierre Bayle publishes freely; the permissive norm makes Amsterdam the haven for censored works destined for France, England, and Germany.
+
+__Reception, Attention & Amplification:__ The reading public consumes pamphlets, newspapers, and books voraciously; coffeehouses and salons amplify discussion; the learned journal (Journal des Savants model) finds Dutch imitators.
+
+__Signal Integrity & Noise Load:__ The volume of print — religious, commercial, political — is high but verification rests on reputation of printers and authors; libel and slander circulate but do not overwhelm signal.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Calvinist moralism coexists with commercial pragmatism; honesty in contract is enforced by reputation and law; charity is a civic obligation.
+
+__Law, Codification & Regulatory Evolution:__ Roman-Dutch law codifies commercial and property relations; maritime law (Grotius) influences European norms; criminal law is harsh but applied; the Napoleonic Code supplants local law after 1810, partially retained.
+
+__Adjudication, Liability & Sanction:__ Municipal courts and commercial arbitration resolve disputes efficiently; execution, whipping, and branding punish crime; debtor imprisonment exists but commercial interest favors debt settlement.
+
+__Rights, Protections & Compliance Burden:__ Property rights are strong; religious minorities enjoy civil rights without full political participation; the 1848 constitution establishes liberal rights; press freedom is constitutional from 1815.
+
+__Impunity & Unredressed Wrong:__ Colonial violence abroad — slavery, forced labor, massacres — is not redressed; domestic justice is relatively even-handed within its class bias.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Leiden becomes a European intellectual center; Descartes resides in the Republic; Spinoza, Huygens, Leeuwenhoek advance philosophy and natural science; Grotius founds international law; Boerhaave leads medicine.
+
+__Applied Knowledge & Technical Method:__ Navigation, cartography, and hydraulic engineering reach high development; instrument-making (microscopes, telescopes) supports inquiry; agricultural improvement in polder management.
+
+__Education, Knowledge Stock & Skill Distribution:__ Leiden (1575) anchors higher learning; Latin schools prepare urban elites; vernacular literacy is widespread; technical skill diffuses through apprenticeship.
+
+__Obsolescence & Knowledge Decay:__ Dutch science declines in the eighteenth century as intellectual leadership shifts to Britain, France, and Germany; the university system stagnates until reformed in the nineteenth century.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The revolt against Spain — the Dutch Revolt, the Eighty Years' War — provides founding narrative; the House of Orange embodies resistance; Calvinist self-image as chosen people inflects national memory.
+
+__Legitimating Narrative & Ideology:__ Liberty of commerce and religion legitimates the Republic; the regent class justifies its rule through stewardship and prosperity; the Orange party offers popular monarchy against oligarchic closure.
+
+__Artistic Expression & Material Culture:__ The Dutch Golden Age produces Rembrandt, Vermeer, Hals; painting descends to bourgeois domestic scale; genre, landscape, and still life dominate; architecture is sober, brick-faced, with stepped gables; dress is Protestant black relieved by white linen and lace.
+
+__Form Exhaustion & Meaning Decay:__ Golden Age forms exhaust themselves by 1700; eighteenth-century culture imitates French models; nineteenth-century revival recovers national forms but reaches fewer heights.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Reformed Calvinism dominates public life without monopolizing private belief; predestination coexists with worldly striving; Arminian dissent is defeated (Synod of Dort, 1619) but tolerated in practice.
+
+__Ritual, Devotion & Sacred Practice:__ Reformed worship strips ritual to sermon and psalm; Catholics practice privately; Jews maintain synagogue life openly in Amsterdam; Mennonites meet quietly.
+
+__Religious Institutions & Doctrinal Authority:__ The Reformed Church is public but not established in the confessional-state sense; it lacks power to enforce doctrine outside its membership; other faiths are tolerated, not equal.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Huguenots, Sephardim, German Lutherans, English dissenters bring their traditions; the Republic absorbs without assimilating; Enlightenment deism spreads among the educated.
+
+__Disenchantment & Sacred Discharge:__ Secularization proceeds quietly; Spinoza's critique marks philosophical break; by the nineteenth century, religious practice declines but confessional pillarization (verzuiling) organizes society until the twentieth century; disenchantment accelerates after 1960.

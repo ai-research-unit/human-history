@@ -1,69 +1,140 @@
-# __1800 BCE – 1200 BCE__ — Olmec Emergence at San Lorenzo
-__Summary:__ A six-century trend covering the rise of the first complex polity in Mesoamerica on the Gulf Coast lowlands, centered at San Lorenzo Tenochtitlan. The binding constraint is the capacity to mobilize surplus labor for monumental construction and long-distance exchange while population and agricultural productivity remain modest; the central tension is the emerging elite's need to legitimate authority through ideology, iconography, and prestige goods in the absence of coercive bureaucracy. Margin against subsistence shocks is thin, buffered primarily by riverine resources and seasonal floodplain fertility. Direction of change is toward increasing social stratification, monument production, and inter-regional exchange networks.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Gulf Coast lowlands of Veracruz; San Lorenzo occupies a modified natural plateau above the Coatzacoalcos River floodplain; river corridors provide transit routes while dense tropical forest imposes friction on overland movement; Tuxtla Mountains lie eighty kilometers distant as the basalt source.<br><br>
-__Climate Regime & Volatility:__ Tropical wet-dry regime with heavy summer rains and winter dry season; high humidity year-round; interannual variability in rainfall timing affects planting cycles; no attested secular drift within this window.<br><br>
-__Hazard Regime & Exposure:__ Seasonal flooding of river channels poses recurrent risk to lowland settlements; hurricane exposure moderate; volcanic and seismic activity from Tuxtla range distant but present; margin against major flood narrow given floodplain dependence.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils of moderate fertility renewed by seasonal flooding; basalt available from Tuxtla uplands requiring organized transport; no local jade, obsidian, or magnetite — all imported; energy stock adequate for subsistence, constrained for surplus extraction.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density and dispersed settlement leave organic waste easily absorbed by tropical soils; no evidence of sink saturation; absorptive capacity effectively unlimited at this scale.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Tropical lowlands carry endemic intestinal parasites, malaria-like fevers, and insect-borne infections; mortality baseline elevated relative to highland populations; childhood mortality likely high though not directly attested.<br><br>
-__Nutrition & Physiological Vitality:__ Diet combines maize agriculture with abundant riverine protein (fish, turtle, aquatic birds), supplemented by hunting and wild plants; nutritional adequacy probable; skeletal evidence sparse but suggests moderate physiological robustness.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pairing patterns not directly attested; probable kin-based household units; reproductive capacity sufficient to support modest population growth over the period.<br><br>
-__Demographic Renewal & Density:__ Population growing slowly from village scale toward regional center; San Lorenzo area supports perhaps a few thousand by 1200 BCE; density low relative to carrying capacity; renewal positive but not rapid.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load absorbed within household and kin networks; no evidence of systemic overhang or strain on productive cohort.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Maize-based agriculture on floodplain levees supplemented by fishing, hunting, and gathering; subsistence floor adequate with modest margin; household pooling provides buffer against localized crop failure.<br><br>
-__Energy Capture & Conversion:__ Human muscle is the sole power source; fire for cooking and ceramic production; no animal traction or water power; per-capita energy ceiling low, constraining monumental labor to seasonal mobilization of surplus population.<br><br>
-__Labor Organization & Coercion:__ Labor mobilized through kinship obligation and elite-sponsored feasting; corvee-like mobilization for monument transport probable but not rigidly institutionalized; coercion indirect, operating through ideological and prestige incentives rather than formal compulsion.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus modest but growing as maize productivity improves; craft production (pottery, small stone objects) concentrated in emerging workshops; surplus capacity sufficient for seasonal monumental projects.<br><br>
-__Storage, Reserves & Buffering:__ Household-level granaries; no evidence of centralized storage at large scale; buffer depth limited to one or two poor harvests; risk pooled through kin networks and exchange partnerships.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks bring obsidian from Guatemala and Pachuca, jade from Motagua Valley, serpentine and magnetite from various sources; river corridors facilitate bulk transport of basalt; exchange likely embedded in elite gift-giving rather than market mechanisms.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary medium; value stored in prestige goods (jade, greenstone, fine ceramics); deferred reciprocity obligations structure elite exchange partnerships; credit function embedded in kinship and alliance debts.<br><br>
-__Surplus Extraction & Redistribution:__ Emerging elite extract surplus through sponsorship of communal feasts and ritual events that obligate labor contributions; redistribution flows back as prestige goods and ceremonial participation; extraction load light relative to productive base.<br><br>
-__Wealth Distribution & Asset Defense:__ Differential burial goods and residential elaboration indicate growing wealth concentration among elite lineages; commoner-elite gap widening but not yet extreme; asset defense through kin alliance and ritual authority rather than fortification.<br><br>
-__Byproducts & Waste Routing:__ Production waste (ceramic sherds, lithic debitage, organic refuse) dispersed in middens; no toxic byproducts; routing presents no systemic challenge at current production scale.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends through kinship and village networks; reciprocal aid obligations bind households; inter-village relations mediated by elite exchange partnerships; trust fabric intact and possibly expanding with trade networks.<br><br>
-__Stratification, Status & Group Identity:__ Two-tier stratification emerging — elite lineages distinguished by access to exotic goods, monumental portraiture, and ritual authority; commoner majority tied to subsistence production; boundaries permeable but hardening; no ethnic factionalism attested.<br><br>
-__Kinship, Family & Inheritance:__ Kinship structures not directly attested; probable bilateral or patrilineal descent; inheritance likely follows lineage lines with elite succession possibly preferential; household formation kin-regulated.<br><br>
-__Civic Association & Self-Organization:__ Village-level councils probable; communal labor for mound construction suggests coordinated self-organization below elite level; associational fabric thickening as settlement aggregates.<br><br>
-__Leisure, Play & Sociability:__ Evidence for ball courts not yet present at San Lorenzo; communal feasting and ritual gatherings provide sociability venues; leisure organization not directly attested but probable in agricultural off-seasons.<br><br>
-__Grievance Channels & Social Discharge:__ Mediation through kin elders and emerging chiefs; ritual participation offers discharge for social friction; no evidence of unabsorbed grievance accumulating as instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Chiefdom-level organization emerging; authority concentrated in elite lineages capable of mobilizing labor and controlling long-distance exchange; power not yet bureaucratized; centralizing trend evident in monument production.<br><br>
-__Succession & Power Transfer:__ Succession rules not directly attested; probable hereditary transmission within elite lineages; colossal heads as ruler portraits suggest personalized authority requiring legitimation at each transfer; flashpoint potential present but not documented.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy grounded in cosmological claims — rulers as mediators with supernatural forces, were-jaguar transformation imagery, and maize deity associations; narrative propagated through monumental iconography; belief status among populace not directly attested but compliance with labor mobilization suggests acceptance.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative apparatus minimal; coordination through personal networks of elite kin and retainers; no writing, no formal record-keeping; capacity limited to seasonal project mobilization; corruption concept not applicable at this institutional level.<br><br>
-__Political Participation & Mobilization:__ Commoner participation through labor contribution and ritual attendance; no evidence of formal voice in decisions; dissent channels limited to withdrawal or kinship-mediated complaint; participation channels not opening.<br><br>
-__Geopolitical Position & External Relations:__ San Lorenzo emerging as dominant regional center; relations with contemporary villages in Gulf Coast and beyond mediated through elite exchange; no evidence of organized external threat or military rivalry; expansion of influence rather than territorial conquest.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military apparatus attested; warriors likely drawn from elite retainers and kin; weaponry limited to hunting implements adaptable for combat; force capacity sufficient for local disputes, not for sustained campaigns.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through kinship sanctions and elite ritual authority; no evidence of significant crime, banditry, or rebellion; threat environment minimal; enforcement capacity adequate.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by messenger along river corridors and overland trails; oral transmission only; velocity limited to foot speed; reach extends across trade networks but attenuates with distance; elite control information flow through exchange partnerships.<br><br>
-__Record, Storage & Persistence:__ No writing system; information persists in oral memory, mnemonic devices, and iconographic display on monuments; monumental imagery stores ritual and political claims in durable stone but is not a reading system; institutional memory depends on living specialists; vulnerable to generational loss.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control framing through monopoly on monumental iconography and ritual speech; no formal censorship mechanism; discourse norms enforce respect for chiefly authority; permitted band not documented as changing.<br><br>
-__Reception, Attention & Amplification:__ Monumental display captures attention at ceremonial center; oral performance at feasts amplifies elite messaging; audience reception not directly attested; amplification limited to face-to-face contexts.<br><br>
-__Signal Integrity & Noise Load:__ Small-scale, face-to-face communication keeps noise load low; oral transmission introduces drift over generations; verification through repetition and communal memory; signal integrity adequate for current complexity.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice concepts grounded in kinship reciprocity, cosmological balance, and respect for ritual order; direct attestation absent but inferable from iconographic emphasis on proper cosmic relations.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law code; binding norms exist as oral custom and taboo enforced through kinship and ritual sanction; regulatory evolution not attested.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by kin elders and emerging chiefs; enforcement through social pressure and supernatural sanction; liability assigned within kinship frameworks; formal courts absent.<br><br>
-__Rights, Protections & Compliance Burden:__ No formal rights regime; protections flow from kin membership and ritual participation; compliance burden light, embedded in customary obligation rather than external rule.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity probable given their ritual and political authority; mechanisms for redress against elite wrongs limited; no evidence of accumulated grievance but structural asymmetry present.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Systematic inquiry not attested in modern sense; practical knowledge of agriculture, hydrology, stone-working, and astronomy accumulated; cosmological paradigm integrates natural and supernatural causation.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated techniques for basalt transport and carving, ceramic production, agricultural water management, and jade working; methods transmitted through apprenticeship; technical repertoire expanding.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally within craft lineages and elite ritual specialists; literacy absent; skill distribution concentrated among specialists; general population holds subsistence and household knowledge; stock growing with craft elaboration.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge vulnerable to specialist death without transmission; no evidence of significant loss during this growth phase; decay risk present but not realized.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Emergent Olmec identity expressed through distinctive iconographic repertoire — were-jaguar, feathered serpent precursors, maize deity; origin narratives not directly attested but cosmological themes of transformation and fertility central; collective memory forming around San Lorenzo as sacred center.<br><br>
-__Artistic Expression & Material Culture:__ Monumental sculpture (colossal heads, thrones, stelae) defines the period; ceramic figurines, jade ornaments, and small stone objects elaborate the visual vocabulary; style coherent and influential; aesthetic conventions crystallizing.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood not directly attested; material evidence suggests confidence and expansive ambition in elite circles; no indicators of widespread anxiety or fatalism; disposition oriented toward growth and elaboration.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms are in generative phase, not exhaustion; iconographic repertoire actively developing; no evidence of hollowed symbols or anomie; meaning production vigorous.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmos conceived as layered universe with supernatural forces animating natural phenomena; human rulers mediate between realms through transformation (jaguar-shaman imagery); existential orientation toward maintaining cosmic balance; fatalism and piety intertwined.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual elaboration evident in monument placement, buried offerings, and probable bloodletting practices; communal ceremonies at platform groups; devotional infrastructure concentrated at San Lorenzo center; ritual calendar not directly attested but seasonal timing probable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Elite lineages control ritual authority; no separate priestly class attested; doctrinal orthodoxy embedded in iconographic conventions and oral tradition; authority consolidating rather than contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Olmec spiritual complex spreading through trade networks and elite emulation; earlier local traditions incorporated or displaced; diffusion outward from Gulf Coast accelerating; no documented resistance.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment or spiritual vacancy; sacred meaning actively produced and propagated; existential needs anchored in emerging cosmological system; discharge not accumulating.<br><br>
+# __1,800 BCE – 1,200 BCE__ — Olmec Emergence at San Lorenzo
+
+__Summary:__ The Gulf Coast lowlands witness Mesoamerica's first complex society crystallize at San Lorenzo, where massive labor mobilization for earthworks and monumental sculpture marks the transition from ranked villages to chiefdom-scale polity; the binding constraint is that all coordination of labor, ritual authority, and political memory passes through speech alone, with no durable written record to stabilize the emergent hierarchy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Olmec heartland occupies the coastal plain of southern Veracruz and Tabasco, a low-lying alluvial zone crosscut by the Coatzacoalcos River system and its tributaries; levees, backswamps, and seasonal flooding impose high friction on overland movement while canoe routes along rivers and through marshes offer efficient water transport; San Lorenzo itself sits atop a natural plateau modified into an artificial ridge, elevated above the floodplain and visible for kilometers.
+
+__Climate Regime & Volatility:__ The tropical wet climate delivers 2,000–3,000 mm annual rainfall concentrated in a May-to-October wet season; interannual variability tied to ENSO affects flood timing and agricultural calendars; mid-Holocene conditions are broadly stable but seasonal flooding remains the dominant environmental rhythm.
+
+__Hazard Regime & Exposure:__ Flooding from the Coatzacoalcos and its tributaries poses the principal hazard; volcanic activity from the Tuxtla Mountains lies nearby but quiescent; tropical storms occasionally strike the Gulf Coast; the elevated plateau of San Lorenzo buffers the settlement from routine floods but extreme events threaten agricultural lands below.
+
+__Resource & Energy Endowment:__ The alluvial plain offers rich agricultural soils renewed by annual flooding; rubber, cacao, and tropical hardwoods grow in adjacent forests; fish, turtle, and waterfowl abound in rivers and lagoons; critically, basalt for monumental sculpture must be transported 60–80 km from the Tuxtla volcanic massif, imposing severe logistical demands that shape the emerging polity's labor mobilization.
+
+__Waste Absorption & Sink Capacity:__ The low population density and dispersed settlement pattern generate minimal waste load; organic refuse decomposes rapidly in the tropical climate; the floodplain's absorptive capacity far exceeds the burden placed upon it; no evidence of anthropogenic degradation appears in this window.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The tropical lowland environment harbors endemic malaria, intestinal parasites, and waterborne pathogens; infant and child mortality likely high though unquantified; adult life expectancy constrained by infectious disease; the population adapts through seasonal mobility and elevated residential platforms.
+
+__Nutrition & Physiological Vitality:__ Maize agriculture supplemented by fish, turtle, deer, and gathered plants provides a broad nutritional base; osteological evidence from later contexts suggests generally robust physiques; seasonal abundance of aquatic protein buffers against agricultural shortfalls.
+
+__Care, Healing & Recovery Capacity:__ Healing rests on orally transmitted herbal and ritual knowledge held by specialists; no institutional medical infrastructure exists; recovery capacity limited by disease load but community care networks sustain the injured and ill.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage and kinship patterns remain largely invisible archaeologically; the emerging elite likely practice strategic kin alliances; population growth supports labor mobilization for monumental projects.
+
+__Demographic Renewal & Density:__ Population grows through the window as agricultural productivity increases; San Lorenzo and its hinterland support several thousand people by 1,200 BCE; density remains low by later Mesoamerican standards but concentrates sufficiently to enable corvee labor.
+
+__Attrition & Dependency Overhang:__ The demographic structure supports a productive workforce adequate for monument construction; dependency ratios remain manageable; the population is young and expanding rather than burdened by accumulated dependents.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Maize cultivation on levee and floodplain soils provides the staple base; fishing, hunting, and gathering contribute substantially to diet; household food security adequate in normal years; two maize harvests possible where irrigation or moisture permits.
+
+__Energy Capture & Conversion:__ Human muscle powers all work; no animal traction available; fire provides heat for cooking and ceramic production; the per-capita energy ceiling limits construction speed but massive labor pools compensate through coordination.
+
+__Labor Organization & Coercion:__ The emergent elite mobilize labor for monumental construction through a combination of reciprocal feasting obligations, ritual authority, and emerging coercive power; corvee labor organizes the transport of multi-ton basalt heads across 60–80 km of difficult terrain; the degree of coercion versus persuasion remains archaeologically opaque but the scale of projects implies substantial command.
+
+__Production & Surplus Capacity:__ Agricultural surplus sufficient to support craft specialists (sculptors, lapidaries, ceramicists) and to provision labor corvees; surplus extracted and redistributed through elite-controlled feasting and ritual; production capacity expands through the window.
+
+__Storage, Reserves & Buffering:__ Granaries store maize between harvests; tropical climate limits long-term storage; elite households accumulate portable wealth in jade, serpentine, and prestige goods that buffer against local shortfalls through exchange networks.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange networks bring basalt from the Tuxtlas, obsidian from highland Guatemala and central Mexico, jade from the Motagua Valley, and serpentine from Oaxaca; canoe transport along rivers and coastal routes enables bulk movement; San Lorenzo sits at a nodal point in emerging Mesoamerican exchange systems.
+
+__Value Storage, Credit & Deferred Exchange:__ Jade, serpentine, and greenstone serve as prestige valuables storing deferred value; reciprocal obligation networks ("owe now, repay later") undergird labor mobilization; no standardized currency exists.
+
+__Surplus Extraction & Redistribution:__ Elite households extract surplus labor and agricultural product through feasting obligations and ritual authority; redistribution through communal feasts and monument dedication reinforces hierarchy; extraction capacity grows as chiefly authority consolidates.
+
+__Wealth Distribution & Asset Defense:__ Marked inequality emerges in burial goods and residential architecture; elite lineages accumulate jade, mirrors, and imported prestige goods; wealth defended through kinship alliance and ritual sanction rather than fortification.
+
+__Byproducts & Waste Routing:__ Construction debris, ceramic sherds, and food refuse accumulate in middens; organic waste decomposes; no evidence of pollution or waste-related stress; the system operates well within sink capacity.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship likely reckoned through lineages with emerging elite descent groups claiming privileged status; inheritance of chiefly office and prestige goods probably passes through kin lines though rules remain invisible; marriage alliances extend elite networks.
+
+__Association & Mutual Aid:__ Village communities provide mutual aid for agricultural labor, house construction, and defense; the fabric of reciprocity supports corvee mobilization as extended community obligation rather than pure coercion.
+
+__Leisure, Play & Sociability:__ Ceremonial gatherings and feasting at San Lorenzo provide occasions for sociability; the ballgame may already exist though evidence is thin; shared rituals at the monumental center reinforce collective identity.
+
+__Stratification, Status & Group Structure:__ A ranked society crystallizes into chiefdom: paramount chiefs at San Lorenzo command subordinate villages; status marked by jade ornaments, elaborate burials, and residential proximity to monuments; boundaries between commoner and elite solidify through the window.
+
+__Administrative Capacity & Institutional Integrity:__ No bureaucratic apparatus exists; administration operates through personal networks of chiefly authority; record-keeping is absent; all coordination passes through oral instruction and memory; institutional integrity depends entirely on living officeholders.
+
+__Coercive Apparatus & Means of Force:__ No standing military; coercion operates through the chief's household retainers and kin; weapons (clubs, spears, atlatl) are household possessions; force sufficient for raiding and local dominance but no evidence of warfare at scale.
+
+__Discharge, Disorder & Decay:__ Social friction absorbed through feasting, ritual, and the mobility option; the emerging hierarchy generates grievance but the system's expansion provides outlets; no evidence of rebellion or collapse within the window; the fabric remains intact.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The public mood combines awe at monumental achievements with localized loyalty to kin and village; trust radiates outward from kinship cores; the novelty of concentrated power generates both allegiance and unease.
+
+__Leadership & Personal Authority:__ Paramount chiefs at San Lorenzo command through personal charisma, ritual authority as intermediaries with supernatural forces, and demonstrated capacity to mobilize labor; the colossal heads likely portray these leaders, monumentalizing personal authority in stone.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on ritual efficacy—the chief's ability to ensure rains, harvests, and cosmic order through correct performance; allegiance real but contingent on results; no abstract ideology of rulership yet articulated.
+
+__Political Will & Collective Resolve:__ The will to build monuments and organize long-distance trade demonstrates collective resolve channeled through chiefly direction; succession remains opaque but likely contested among elite lineages; the polity coheres around the center.
+
+__External Relations & Posture:__ San Lorenzo interacts with distant polities through exchange networks carrying prestige goods; no evidence of military expansion; the posture is one of commercial and ritual prestige rather than conquest; regional influence spreads through emulation.
+
+__Disaffection, Apathy & Spent Will:__ Some subordinate communities may resent extraction, but the expanding system absorbs discontent; no evidence of exhaustion or apathy; the window closes with the polity still in its ascent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language (the Olmec tongue, possibly ancestral to later Mixe-Zoquean) provides universal communication within the polity; no writing exists; oral poetry, chant, and narrative encode complex information; foreigners require interpreters.
+
+__Channels & Transmission Velocity:__ Information travels at human walking speed or canoe speed; messengers carry oral instructions; important messages verified through verbal formulae or physical tokens; reach limited to several days' travel from center.
+
+__Record, Storage & Persistence:__ No written records; all historical memory, genealogy, ritual knowledge, and administrative coordination exists only in living memory; trained specialists (priests, bards) serve as living archives; persistence depends entirely on unbroken oral transmission.
+
+__Framing, Censorship & Discourse Norms:__ Elite control over ritual discourse frames cosmological and political narrative; sacred speech restricted to initiated specialists; commoners may speak freely in ordinary matters but sacred knowledge is guarded.
+
+__Reception, Attention & Amplification:__ Monumental sculpture, public ritual, and elite performance capture attention and amplify messages across the polity; the colossal heads broadcast chiefly authority visually though their "reading" requires oral context.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift and contestation; competing lineages may preserve variant histories; no mechanism for authoritative correction exists; signal integrity depends on specialist consensus; noise accumulates across generations.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice understood through reciprocity: labor owed for feasting received, respect owed for protection given; violations punished through social sanction and ritual curse; the sense of fairness is relational rather than abstract.
+
+__Law, Codification & Regulatory Evolution:__ No codified law; norms transmitted orally as custom and precedent; the chief adjudicates disputes by pronouncement; regulation evolves through case-by-case decision without written record.
+
+__Adjudication, Liability & Sanction:__ The paramount chief or lineage heads adjudicate disputes; liability assigned through oral testimony and community witness; sanctions include compensation, exile, and possibly execution; no formal courts exist.
+
+__Rights, Protections & Compliance Burden:__ No concept of abstract rights; protection flows from kinship and chiefly patronage; compliance burden on commoners includes labor service and deference; elites enjoy greater autonomy.
+
+__Impunity & Unredressed Wrong:__ Chiefly power may enable impunity; wrongs against commoners by elites likely go unredressed; the balance of justice tilts toward the powerful; no mechanism exists to appeal chiefly judgment.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry separate from cosmological interpretation; the reigning paradigm holds the cosmos as animated by supernatural forces requiring propitiation; observation of celestial and agricultural cycles informs practical knowledge but not abstract theory.
+
+__Applied Knowledge & Technical Method:__ Sophisticated engineering knowledge enables basalt transport across 60–80 km using log rollers, sledges, and water transport; sculptors possess advanced stone-carving technique for colossal heads; hydraulic engineering creates drainage systems at San Lorenzo; methods transmitted through apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally from master to apprentice; specialized craft knowledge concentrated in elite-attached specialists; general agricultural and subsistence knowledge widely distributed; no formal schooling.
+
+__Obsolescence & Knowledge Decay:__ Knowledge vulnerable to loss through specialist death; no written backup; techniques may be lost between generations if transmission fails; the system operates without redundancy.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Olmec identity crystallizes around a cosmology featuring the were-jaguar, the feathered serpent, and supernatural beings emerging from caves and springs; origin narratives likely trace elite lineages to divine ancestors; collective memory extends only as far as oral tradition reaches.
+
+__Legitimating Narrative & Ideology:__ The paramount chief's authority justified by descent from supernatural beings and demonstrated ritual efficacy; the colossal heads immortalize this claim in stone; no competing narrative survives.
+
+__Artistic Expression & Material Culture:__ The Olmec style emerges: heavy-lidded faces, down-turned mouths, were-jaguar motifs in jade and sculpture; monumental basalt heads (up to 3 m tall, 20+ tons) display virtuosic craftsmanship; ceramics, figurines, and jade ornaments bear consistent iconography spreading across Mesoamerica.
+
+__Form Exhaustion & Meaning Decay:__ The Olmec style is fresh and generative in this window; no evidence of exhaustion; forms proliferate and spread; the symbolic vocabulary remains potent and expanding.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos understood as layered (underworld, earth, sky) with permeable boundaries; supernatural forces animate nature; human action through ritual maintains cosmic order; the existential outlook centers on propitiation and reciprocity with powerful beings.
+
+__Ritual, Devotion & Sacred Practice:__ Elaborate rituals at San Lorenzo include offerings of jade, serpentine, and possibly human sacrifice; elite burials accompanied by rich offerings; bloodletting rites likely practiced; the sacred calendar may already structure ceremonial timing.
+
+__Religious Institutions & Doctrinal Authority:__ No separate priesthood distinguishable from chiefly office; the paramount chief likely serves as supreme ritual officiant; doctrinal authority vested in living practitioners with no written scripture; orthodoxy maintained through oral tradition.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Olmec iconography and ritual practice spread to Oaxaca, the Basin of Mexico, and beyond through exchange networks and elite emulation; no competing cosmology appears; diffusion is expansive.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment evident; the sacred saturates daily life; supernatural explanation covers all phenomena; the cosmology retains full grip on the population.
+

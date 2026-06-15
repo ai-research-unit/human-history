@@ -1,69 +1,139 @@
-# __1942 CE – 1947 CE__ — Quit India, Partition, and Independence
-__Summary:__ The final phase of British India sees the Quit India movement crushed, the Bengal famine exposed by the press, communal violence escalating toward partition, and two independent nations emerging in August 1947; the binding constraint is the breakdown of Hindu-Muslim political coexistence under competitive communal mobilization amplified by print; margin against mass violence evaporates as partition looms; the direction is toward sovereign independence at the cost of territorial and human catastrophe.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The subcontinent's vast river plains, peninsular plateau, and mountain-rimmed north impose logistical drag on troop movements and refugee flows; partition will sever Punjab and Bengal along arbitrary lines cutting through integrated irrigation and transport networks.<br><br>
-__Climate Regime & Volatility:__ Monsoonal regime continues; the 1943 cyclone and flooding in Bengal compound famine conditions; interannual variability remains high with no secular drift evident in this short window.<br><br>
-__Hazard Regime & Exposure:__ The 1943 Bengal cyclone devastates coastal districts; famine exposure acute in Bengal due to wartime supply diversion; infrastructure holds no margin against compounded shocks.<br><br>
-__Resource & Energy Endowment:__ Coal from Bengal-Bihar fuels war industries; jute and cotton stocks strained by wartime extraction; partition will divide resource zones between India and Pakistan.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban sanitation deteriorates under wartime crowding; Calcutta's slums and refugee camps show sink saturation; absorptive capacity severely strained but localized rather than subcontinent-wide.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera and malaria endemic; the 1943 Bengal famine kills an estimated two to three million through starvation and epidemic disease; mortality spikes catastrophically then recedes.<br><br>
-__Nutrition & Physiological Vitality:__ Famine conditions in Bengal produce mass starvation; elsewhere wartime rationing degrades nutrition; bodies weakened across affected regions, slow recovery after 1944.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Communal violence disrupts marriage patterns; abduction of women during partition riots alters pairing dynamics traumatically; biological fertility unchanged but social conditions destabilized.<br><br>
-__Demographic Renewal & Density:__ Famine mortality reduces Bengal's population; partition displaces ten to fifteen million across Punjab and Bengal; age structure skewed by violence targeting young men.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and refugees swell the dependent population; productive cohorts depleted by famine and partition violence; dependency load exceeds community absorption capacity in affected zones.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Bengal famine exposes total provisioning collapse; rice requisitioning for military and export priorities starves rural populations; elsewhere wartime shortages stress but do not break subsistence.<br><br>
-__Energy Capture & Conversion:__ Coal extraction continues for war industry; rail networks maintain coal distribution; per-capita energy capture stable but diverted to military production.<br><br>
-__Labor Organization & Coercion:__ Wartime labor mobilization for military production; plantation and mine workers under coercive contracts; post-war labor unrest as controls relax; wage labor expanding.<br><br>
-__Production & Surplus Capacity:__ War industries expand output; agricultural surplus extracted for military supply; famine reveals surplus drained to zero in Bengal; post-war demobilization creates output gap.<br><br>
-__Storage, Reserves & Buffering:__ Granary reserves depleted by wartime requisitioning; no buffer against Bengal famine; commercial hoarding exacerbates shortage; reserves at zero margin in crisis zones.<br><br>
-__Exchange, Trade & Logistics:__ Wartime disruption of international trade; internal logistics strained by military priority; black markets flourish; partition will sever established trade routes between regions.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Wartime inflation erodes rupee purchasing power; sterling balances accumulate in London; credit networks disrupted by communal violence; partition splits banking infrastructure.<br><br>
-__Surplus Extraction & Redistribution:__ Colonial taxation continues; war contributions extracted; famine relief inadequate; post-independence states inherit extraction apparatus.<br><br>
-__Wealth Distribution & Asset Defense:__ Merchant and landed classes accumulate wartime profits; communal violence destroys minority-held property; partition triggers massive asset abandonment and redistribution.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste from war production; urban waste accumulation in crowded cities; partition refugee camps generate waste beyond municipal capacity; routing overwhelmed locally.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Hindu-Muslim trust collapses catastrophically; neighborhood-level reciprocity breaks down in riot zones; caste and kinship networks provide refuge but cannot span communal divide.<br><br>
-__Stratification, Status & Group Identity:__ Communal identity hardens into primary political marker; caste remains but subordinated to religious division; Hindu-Muslim-Sikh categories become fate-determining during partition.<br><br>
-__Kinship, Family & Inheritance:__ Family structures torn by displacement; partition separates kin across borders; inheritance claims voided by flight; joint families fractured by violence and migration.<br><br>
-__Civic Association & Self-Organization:__ Congress underground networks during Quit India; communal defense organizations; refugee relief committees form spontaneously; associational fabric partially militarized.<br><br>
-__Leisure, Play & Sociability:__ Public festivals weaponized as flashpoints; mixed sociability collapses in riot zones; curfews restrict movement; leisure spaces segregate by community.<br><br>
-__Grievance Channels & Social Discharge:__ Political channels blocked by colonial repression; communal grievances discharged through violence rather than mediation; mass displacement leaves grievances unmetabolized as refugee trauma.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ British authority weakened by war; Congress leadership imprisoned 1942–1945; Muslim League builds parallel power base; dual authority fragments into communal blocs; transfer of power negotiated 1946–1947.<br><br>
-__Succession & Power Transfer:__ Mountbatten accelerates transfer timeline; partition as mechanism of succession; power passes to Congress in India, Muslim League in Pakistan; transfer rushed and violent.<br><br>
-__Legitimacy & Political Narrative:__ British legitimacy exhausted; Congress claims nationalist mandate; Muslim League deploys Two-Nation Theory; partition accepted as tragic necessity by all parties.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Colonial administration hollowed by departures; Indian Civil Service divided between successor states; record-keeping disrupted; corruption and breakdown during transfer.<br><br>
-__Political Participation & Mobilization:__ Quit India as mass uprising; Muslim League mobilizes Direct Action Day 1946; communal riots as political violence; mass participation in independence celebrations amid mass killing.<br><br>
-__Geopolitical Position & External Relations:__ World War II ends British global position; United States and Soviet Union as new powers; India and Pakistan emerge as Cold War actors; Kashmir dispute begins immediately.<br><br>
-__Coercive Apparatus & Means of Force:__ British Indian Army divided between successor states; police forces overwhelmed by partition violence; communal militias operate with impunity; monopoly on force temporarily collapsed.<br><br>
-__Internal Order & Threat Environment:__ Order collapses in Punjab and Bengal; partition violence kills between 200,000 and two million; state capacity to suppress disorder overwhelmed; Mahatma Gandhi assassinated January 1948.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph and rail-distributed newspapers carry partition news; All India Radio broadcasts independence; print remains primary but supplemented by radio; velocity sufficient for real-time awareness of violence.<br><br>
-__Record, Storage & Persistence:__ Newspapers document famine, Quit India, partition; colonial records transferred or destroyed; personal records lost in displacement; photographic documentation of famine and partition persists.<br><br>
-__Framing, Censorship & Discourse Norms:__ Wartime censorship during Quit India; press covers Bengal famine despite official denial; partition violence reported but scale often understated; nationalist framing dominates independence coverage.<br><br>
-__Reception, Attention & Amplification:__ Famine photographs shock public opinion; partition atrocities amplify communal fear; independence celebrations receive mass attention; trauma narratives spread through refugee networks.<br><br>
-__Signal Integrity & Noise Load:__ Rumor drives communal violence; verified information scarce during riots; propaganda from all sides; noise load extremely high during partition months; verification capacity overwhelmed.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Mass killing violates shared moral baseline; perpetrators justify violence as communal self-defense; partition accepted as unjust necessity; collective guilt unprocessed.<br><br>
-__Law, Codification & Regulatory Evolution:__ Colonial criminal law continues; emergency regulations during Quit India; partition creates two successor legal systems; continuity of Indian Penal Code in both states.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts unable to function during violence; no accountability for partition killings; property claims unenforceable across borders; justice effectively suspended in crisis zones.<br><br>
-__Rights, Protections & Compliance Burden:__ Emergency detention of Congress leaders; civil liberties suspended during Quit India; partition violence renders rights meaningless for minorities in affected areas.<br><br>
-__Impunity & Unredressed Wrong:__ Partition killings go unpunished; abducted women's cases partially addressed by recovery operations; property losses uncompensated; impunity total for mass atrocities.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Nationalist historiography consolidates; social science inquiry into communalism begins; development planning discourse emerges; paradigm shifts toward modernization theory.<br><br>
-__Applied Knowledge & Technical Method:__ Administrative techniques for refugee resettlement developed ad hoc; census and survey methods applied to displacement; engineering knowledge applied to boundary demarcation.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities continue operation; educated classes lead both states; literacy remains low but concentrated among leadership; partition divides institutional knowledge.<br><br>
-__Obsolescence & Knowledge Decay:__ Colonial administrative knowledge partially lost; local knowledge of mixed communities erased by displacement; communal coexistence practices forgotten in new segregated territories.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Independence as founding triumph; partition as founding trauma; Two-Nation Theory vs. syncretic Indian identity; martyrdom narratives around freedom fighters; Gandhi as father of nation.<br><br>
-__Artistic Expression & Material Culture:__ Partition literature emerges immediately; documentary photography; nationalist iconography deployed in independence celebrations; refugee material culture of loss and survival.<br><br>
-__Collective Mood & Behavioral Disposition:__ Euphoria of independence mixed with horror of partition; traumatic grief in affected communities; hope for new nations tempered by recent memory of violence; mood deeply fractured.<br><br>
-__Form Exhaustion & Meaning Decay:__ Colonial symbols rapidly discarded; British Raj imagery exhausted; new national symbols in formation; partition narratives too raw for aesthetic distance; meaning-making overwhelmed by scale of events.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Religious identity becomes political fate; theodicy strained by mass violence; Gandhi's spiritual politics culminates in his death; secular and religious nationalisms compete.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice continues but sites become contested; temples, mosques, gurdwaras as refuge or target; pilgrimage routes severed by partition; devotional community fractured by borders.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Hindu, Muslim, and Sikh religious leadership mobilized politically; institutions provide refugee relief; doctrinal authority invoked to legitimate or restrain violence; clergy divided.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Syncretic traditions displaced by communal hardening; Sufi shrines, shared festivals abandoned in partition zones; religious homogenization within new territories.<br><br>
-__Disenchantment & Sacred Discharge:__ Violence committed in religion's name produces spiritual crisis; Gandhi's assassination as sacred murder; post-partition disillusionment with religious politics partially offset by nationalist sacred narrative; trauma unmetabolized spiritually.<br><br>
+# __1942 CE – 1947 CE — Quit India, Partition, and Independence__
+
+The binding constraint is the collapse of British capacity to hold India under wartime strain combined with the irreconcilable communal divide that makes orderly transfer impossible: the printed word, which built the nationalist public sphere, now circulates the narratives of Hindu-Muslim separation, accelerating partition even as it celebrates liberation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The subcontinent's immense scale — from the Punjab to Bengal, from the Himalayan foothills to Cape Comorin — makes any centralized control expensive, and by 1942 British military resources concentrate on the Burma front and eastern defenses against Japan, leaving the interior thinly garrisoned. Railways, the sinews of colonial power, become targets for sabotage during Quit India, disrupting troop and grain movement.
+
+__Climate Regime & Volatility:__ The monsoon governs life; its failure in Bengal in 1943 compounds wartime requisitioning to produce famine. By 1946–1947, normal monsoons return, but the agrarian economy remains stressed, unable to buffer the shock of partition's mass displacement.
+
+__Hazard Regime & Exposure:__ Cyclones periodically devastate coastal Bengal and Orissa; the 1942 Midnapore cyclone compounds famine. Flooding along the Ganges and Brahmaputra displaces populations already weakened by war.
+
+__Resource & Energy Endowment:__ Coal from Jharia and Raniganj powers railways and nascent industry; Assam oil is strategically vital for the Burma campaign. Wartime demands exhaust reserves; post-independence India inherits depleted stocks.
+
+__Waste Absorption & Sink Capacity:__ Urban congestion in Calcutta, Bombay, and Delhi overwhelms sanitation; refugee camps after 1947 become vectors for disease as waste absorption collapses under sheer numbers.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The Bengal famine of 1943–1944 kills an estimated 2–3 million; malaria, cholera, and typhoid ride the displacement. Partition violence in 1947 directly kills an estimated 200,000 to 1 million; secondary mortality from disease and exposure among 15 million refugees compounds the toll.
+
+__Nutrition & Physiological Vitality:__ Wartime grain requisitioning for military and export deprives Bengal peasants; even in normal provinces, rationing degrades nutrition. By 1947, a generation of children bears stunting.
+
+__Care, Healing & Recovery Capacity:__ Colonial medical infrastructure is sparse and urban-concentrated; rural India lacks doctors. Refugee camps overwhelm whatever capacity exists; voluntary organizations and princely state resources improvise care.
+
+__Reproductive Biology & Pairing Dynamics:__ Partition severs families; abducted women number in the tens of thousands on both sides, disrupting marriages and kinship. Birth rates dip in famine and violence zones.
+
+__Demographic Renewal & Density:__ Population continues to grow (approximately 390 million in 1947), but partition divides it: roughly 330 million in India, 75 million in Pakistan. Refugee inflows into Indian Punjab and Bengal create density shocks in border districts.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and the elderly displaced by partition constitute a massive dependency burden; the new states inherit this human residue.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The Bengal famine proves the provisioning floor is contingent on political will; wartime priorities divert grain. By 1947, rationing systems exist but partition disrupts grain flows (Punjab's wheat, Bengal's rice).
+
+__Energy Capture & Conversion:__ Coal and hydropower anchor the industrial base; partition leaves India with most of the coal (Jharia, Raniganj) but divides irrigation systems (Punjab canals, Indus headwaters to Pakistan).
+
+__Labor Organization & Coercion:__ Industrial workers in Bombay textiles and Calcutta jute organize strikes during and after the war; labor militancy rises. Peasant movements (Tebhaga in Bengal, Telangana) challenge landlords.
+
+__Production & Surplus Capacity:__ Wartime production for the military expands industry, but capacity remains limited. Partition severs raw material sources (jute mills in Calcutta, raw jute in East Pakistan).
+
+__Storage, Reserves & Buffering:__ Britain drained India's sterling balances for the war; by 1947, India holds substantial sterling claims but faces immediate food and capital goods shortages.
+
+__Exchange, Trade & Logistics:__ Partition cuts railway lines and trade routes; the Lahore-Amritsar corridor, vital for Punjab trade, becomes an international border. Karachi, Pakistan's main port, was Bombay's northern outlet.
+
+__Value Storage, Credit & Deferred Exchange:__ The rupee remains the currency in both dominions initially; Reserve Bank of India (est. 1935) manages monetary policy. Partition creates two monetary zones; sterling balances are divided.
+
+__Surplus Extraction & Redistribution:__ Wartime taxation was heavy; post-independence, the new state inherits a fiscal apparatus but faces demands for reconstruction and refugee relief.
+
+__Wealth Distribution & Asset Defense:__ Partition triggers massive asset loss: Hindu and Sikh property in Pakistan, Muslim property in India, much of it abandoned or seized. Refugee claims remain unresolved for decades.
+
+__Byproducts & Waste Routing:__ Industrial waste continues to foul rivers; refugee camps generate refuse that urban systems cannot process.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Partition rips families apart along the Punjab and Bengal borders; joint families are severed, inheritance claims lost. Abducted women disrupt patrilineal succession.
+
+__Association & Mutual Aid:__ Communal organizations — the RSS, the Muslim League's volunteer corps — provide mutual aid within their communities but exclude across the communal line. Refugee associations form to advocate for rehabilitation.
+
+__Leisure, Play & Sociability:__ Festivals become flashpoints; Holi, Diwali, Eid, and Muharram processions trigger riots in mixed neighborhoods. Cricket, a colonial inheritance, continues as a cross-communal space.
+
+__Stratification, Status & Group Structure:__ Caste persists; the Constituent Assembly debates untouchability (Ambedkar drafts the Constitution). Communal identity hardens: Hindu, Muslim, Sikh become primary markers in partition zones.
+
+__Administrative Capacity & Institutional Integrity:__ The Indian Civil Service (ICS) divides at partition; Muslim officers often opt for Pakistan. The new states inherit a functioning bureaucracy but depleted at the top. The Constituent Assembly drafts the constitution (1946–1950).
+
+__Coercive Apparatus & Means of Force:__ The Indian Army divides; Muslim-majority units go to Pakistan. Police forces are overwhelmed during partition violence. The new states quickly establish control, but princely state integration (Hyderabad, Junagadh, Kashmir) requires military action.
+
+__Discharge, Disorder & Decay:__ Partition violence is the catastrophic discharge: riots in Calcutta (August 1946 Direct Action Day: approximately 4,000 dead), Noakhali, Bihar, Punjab (1947: mass killings, arson, abduction). The apparatus cannot contain it; communal militias fill the vacuum.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Quit India (1942) channels anti-British anger; "Do or Die" is the slogan. By 1946–1947, Hindu-Muslim distrust reaches fever pitch; fear and revenge cycles drive violence. Independence brings elation mixed with grief.
+
+__Leadership & Personal Authority:__ Gandhi retains moral authority but cannot stop partition violence; his fasts calm Calcutta and Delhi. Nehru and Patel lead the Congress; Jinnah commands Muslim League loyalty. Mountbatten accelerates the timetable.
+
+__Legitimacy as Lived Allegiance:__ British legitimacy collapses; the war demonstrates Britain cannot defend India (fall of Singapore, Burma retreat). Congress and League compete for succession; allegiance splits on communal lines.
+
+__Political Will & Collective Resolve:__ Quit India is suppressed (100,000 arrests), but the will to resist does not break. By 1946, the naval mutiny and INA trials show the military itself is unreliable for Britain. Congress and League will partition over unity.
+
+__External Relations & Posture:__ Britain, exhausted by WWII, cannot afford empire. The United States and Soviet Union both pressure decolonization. India and Pakistan emerge as rival states; Kashmir becomes the first flashpoint (1947–1948 war).
+
+__Disaffection, Apathy & Spent Will:__ Partition violence exhausts all parties; by late 1947, the killings taper as populations complete their exchange. Gandhi's assassination (January 1948) by a Hindu extremist signals the depth of disaffection with his inclusive vision.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English-language papers (The Hindu, Hindustan Times, Times of India) reach the educated; vernacular press (Hindi, Urdu, Bengali, Marathi, Tamil) reaches broader audiences. Literacy remains approximately 15%, but print circulates through reading aloud and discussion.
+
+__Channels & Transmission Velocity:__ Telegraph and telephone enable rapid news transmission; All India Radio (est. 1936) broadcasts official news. During Quit India, censorship suppresses news of the uprising; underground bulletins circulate.
+
+__Record, Storage & Persistence:__ Newspapers document events; government records preserve the official account. Partition creates archival divides: records split between India and Pakistan.
+
+__Framing, Censorship & Discourse Norms:__ Wartime censorship (Defence of India Rules) suppresses Congress papers; Quit India forces underground publication. By 1946–1947, the press is relatively free but inflamed; communal papers (Hindu Mahasabha, Muslim League organs) circulate incendiary content.
+
+__Reception, Attention & Amplification:__ Rumors spread faster than print; the Calcutta killings and Punjab massacres are amplified by word of mouth, photographs, and refugees' testimonies.
+
+__Signal Integrity & Noise Load:__ Propaganda and rumor distort reality; atrocity stories (some true, some exaggerated) fuel revenge cycles. The press cannot verify in real time; noise dominates.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Colonial rule is delegitimized; the moral case for independence is unanswerable. But the moral question of partition — whether division is just, whether violence is ever justified — tears at conscience.
+
+__Law, Codification & Regulatory Evolution:__ The Government of India Act 1935 remains the governing framework until independence. The Indian Independence Act 1947 partitions the subcontinent. The Constituent Assembly begins drafting a constitution (completed 1950).
+
+__Adjudication, Liability & Sanction:__ Courts function but cannot adjudicate partition violence; no Nuremberg follows. Property claims across borders are never fully settled.
+
+__Rights, Protections & Compliance Burden:__ The Constitution (drafted 1946–1949, enacted 1950) guarantees fundamental rights, abolishes untouchability, and establishes equality before law — a moral revolution.
+
+__Impunity & Unredressed Wrong:__ Partition violence goes largely unpunished; perpetrators on both sides are absorbed into new national communities. Abducted women are "recovered" but their experience goes unacknowledged. The wound festers.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Nationalist historiography frames the struggle as a freedom movement; Marxist analysis (Rajani Palme Dutt) emphasizes economic exploitation. The two-nation theory (separate Hindu and Muslim nations) provides the intellectual basis for Pakistan.
+
+__Applied Knowledge & Technical Method:__ Industrial planning begins; the Bombay Plan (1944) anticipates post-independence development. Tata and Birla fund technical education.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities continue to produce graduates; the Indian Institutes of Technology are conceived (first opens 1951). Literacy is still approximately 15%.
+
+__Obsolescence & Knowledge Decay:__ Colonial knowledge (orientalist scholarship, ICS expertise) is partly repudiated, partly inherited. Indigenous knowledge systems remain marginalized.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Independence is framed as the culmination of the freedom struggle; martyrs (Bhagat Singh, INA soldiers) become national icons. Partition is remembered as tragedy; "Midnight's Children" (Rushdie's phrase, later) captures the ambivalence.
+
+__Legitimating Narrative & Ideology:__ Congress nationalism presents India as a secular, inclusive nation; Hindu nationalism (RSS, Hindu Mahasabha) imagines a Hindu rashtra. Pakistan's founding narrative is Islamic nationhood.
+
+__Artistic Expression & Material Culture:__ Independence Day celebrations, the tricolor flag, the Ashoka Chakra become national symbols. Partition literature (Saadat Hasan Manto, Ismat Chughtai, Bhisham Sahni) emerges to process trauma.
+
+__Form Exhaustion & Meaning Decay:__ Colonial forms (the Raj aesthetic, imperial ritual) are discarded; new national forms are improvised. Gandhi's simplicity (khadi, charkha) becomes iconic but is already being ritualized.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Independence is framed as destiny fulfilled; "Tryst with Destiny" (Nehru) casts the moment as sacred. Partition's violence challenges any providential reading.
+
+__Ritual, Devotion & Sacred Practice:__ Religious processions become occasions for violence; Gandhi's prayer meetings at Birla House embody his vision of communal harmony.
+
+__Religious Institutions & Doctrinal Authority:__ Temple and mosque are flashpoints. Religious leaders on both sides inflame and occasionally calm. Gandhi's assassination by a Hindu extremist discredits the most violent edge of Hindu nationalism for a generation.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Partition displaces Sikhs from West Punjab, Hindus from Sindh and East Bengal, Muslims from many parts of India. Syncretic shrines (dargahs visited by Hindus and Muslims) survive but the communal geography hardens.
+
+__Disenchantment & Sacred Discharge:__ The violence leaves a spiritual wound; the sacred nation is born in blood. Gandhi's death marks a disenchantment with the politics of religion; Nehru's secularism becomes state ideology, but the wound remains unhealed.

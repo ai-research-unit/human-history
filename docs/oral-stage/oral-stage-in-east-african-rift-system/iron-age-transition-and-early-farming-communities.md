@@ -1,69 +1,140 @@
 # __500 BCE – 300 CE__ — Iron Age Transition and Early Farming Communities
-__Summary:__ An eight-century transformation of the East African Rift system as iron-smelting technology and Bantu-speaking farming populations spread into the Great Lakes region and coastal hinterlands, while Nilotic-speaking pastoralists persist in the savanna zones. The binding constraint is the labor and fuel requirements of iron production, which concentrate settlement near forests and ore sources. Margin against subsistence failure widens as agriculture diversifies the food base; the direction of change is from mobile pastoralism and residual foraging toward mixed agropastoral village economies, with new social forms emerging around iron-working expertise and crop cultivation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Great Lakes region (Victoria, Tanganyika, Kivu) provides fertile volcanic soils and reliable rainfall supporting forest and woodland; the Rift savannas remain pastoralist terrain; coastal lowlands offer access to marine resources and eventual Indian Ocean contact; escarpments and forests create friction between ecological zones.<br><br>
-__Climate Regime & Volatility:__ Post-African-Humid-Period conditions stabilize; bimodal rainfall in the Lakes region supports year-round cultivation; coastal monsoons establish predictable seasonality; interannual variability moderate; no major climatic shifts within the window.<br><br>
-__Hazard Regime & Exposure:__ Localized volcanic activity in the Virunga range; drought risk persists in savanna zones; flooding along lakeshores and river valleys occasional; exposure moderate but buffered by diversified subsistence.<br><br>
-__Resource & Energy Endowment:__ Iron ore deposits (lateritic ironstones, bog iron) accessible across the Lakes region; hardwood forests provide charcoal for smelting; agricultural soils fertile in highlands and lakeshores; obsidian sources remain available but declining in importance as iron replaces stone.<br><br>
-__Waste Absorption & Sink Capacity:__ Smelting slag accumulates at production sites; charcoal production causes localized deforestation around furnaces; overall sink capacity vastly exceeds load; landscape regenerates between episodes of exploitation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Malaria endemic in lower elevations; tsetse fly limits cattle-keeping in forested zones (sleeping sickness); denser settlement may increase pathogen transmission; baseline mortality elevated but population still growing; no documented epidemics in the archaeological record.<br><br>
-__Nutrition & Physiological Vitality:__ Mixed diet of cultivated crops (sorghum, millet, later bananas/plantains), livestock products, fish, and gathered foods provides nutritional breadth; skeletal evidence from Urewe sites indicates adequate nutrition; vitality stable or improving relative to specialized pastoralists.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Sedentary village life may increase fertility through reduced lactational amenorrhea (as reliance on milk declines); bridewealth systems persist in pastoral zones; Bantu kinship systems emphasize lineage continuity; reproductive dynamics favor population growth.<br><br>
-__Demographic Renewal & Density:__ Bantu expansion indicates sustained demographic surplus; farming communities multiply across the Lakes region; pastoral populations stable in their zones; overall density increasing, particularly around lakeshores and fertile highlands.<br><br>
-__Attrition & Dependency Overhang:__ Village structures absorb dependents within extended households; elderly retain knowledge roles; orphan incorporation into kin networks; dependency load manageable within the agricultural surplus.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agriculture (sorghum, millet, later bananas from Indian Ocean contacts) provides storable carbohydrate base; livestock (cattle, goats, sheep where tsetse allows), fishing, and hunting supplement; provisioning floor raised above pastoral baseline by crop storage potential.<br><br>
-__Energy Capture & Conversion:__ Solar energy captured through agriculture and pasture; charcoal production concentrates biomass energy for smelting; human and animal muscle remain the sole motive power; iron tools increase labor efficiency, improving net energy return on cultivation.<br><br>
-__Labor Organization & Coercion:__ Household and lineage labor; iron-smelting may involve specialist lineages with restricted knowledge; no evidence of slave labor in this period; cooperation organized through kinship and reciprocity; gendered division of labor (men clear, women cultivate) probable.<br><br>
-__Production & Surplus Capacity:__ Iron tools (hoes, axes, knives, spear points) increase agricultural productivity; surplus grain storable for inter-seasonal buffering; iron production itself creates tradeable surplus; capacity growing throughout the window.<br><br>
-__Storage, Reserves & Buffering:__ Granaries (pit storage, raised bins) hold grain reserves; iron tools and ingots storable as wealth; reserves adequate for single-season failures; multi-year drought still threatening in marginal zones.<br><br>
-__Exchange, Trade & Logistics:__ Iron products exchanged across ecological boundaries (farmers to pastoralists, coast to interior); salt, obsidian, pottery continue to circulate; no markets or coinage; exchange reciprocal and kin-mediated; long-distance Indian Ocean contacts nascent by window's end.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cattle remain primary value storage in pastoral zones; iron ingots and tools acquire value-storage function; grain and livestock loans create deferred obligations; no monetary abstraction; wealth embedded in material goods and social claims.<br><br>
-__Surplus Extraction & Redistribution:__ Lineage heads and ritual specialists coordinate surplus allocation for ceremonies, bridwealth, and iron-smelting events; no centralized taxation; redistribution horizontal through kinship rather than vertical through hierarchy.<br><br>
-__Wealth Distribution & Asset Defense:__ Iron-working lineages may accumulate advantage; land not scarce enough to concentrate; cattle wealth remains significant in pastoral zones; distribution moderately unequal but not rigidly stratified; defense through kin solidarity and mobility.<br><br>
-__Byproducts & Waste Routing:__ Slag heaps mark smelting sites; agricultural waste (chaff, stalks) returned to fields or used for fuel; charcoal production consumes forest biomass; waste volumes locally significant near furnaces but dispersed across landscape.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village and lineage structures provide dense mutual-aid networks; trust radius extends to clan and exchange partners; interethnic trust (Bantu farmers, Nilotic pastoralists, residual foragers) more limited but functional at trade boundaries.<br><br>
-__Stratification, Status & Group Identity:__ Bantu-speaking farmers, Nilotic-speaking pastoralists, and Khoisan-related foragers (ancestors of Hadza, Sandawe) constitute distinct identity groups; iron-working expertise confers status within Bantu communities; stratification incipient but boundaries somewhat porous through intermarriage and incorporation.<br><br>
-__Kinship, Family & Inheritance:__ Bantu kinship typically patrilineal with matrilineal variation in some areas; village exogamy and clan structures regulate marriage; inheritance includes land-use rights, cattle, and iron-working knowledge; extended family compounds are the residential unit.<br><br>
-__Civic Association & Self-Organization:__ Village councils, lineage elders, and iron-smelting guilds (where specialized) coordinate collective action; age-grade systems persist in pastoral zones; associational density increasing with sedentarization.<br><br>
-__Leisure, Play & Sociability:__ Agricultural calendar creates work and rest rhythms; harvest festivals, marriage ceremonies, and initiation rites provide communal sociability; iron-smelting events may carry ceremonial significance.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes resolved through elder mediation and compensation; intergroup conflicts (farmer-pastoralist friction over grazing and crops) managed through negotiation and occasional violence; ritual mechanisms discharge accumulated tension.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Village headmen and lineage elders hold local authority; no overarching states or chiefdoms documented for this window; iron-working specialists may hold ritual-political influence; power diffuse and localized.<br><br>
-__Succession & Power Transfer:__ Leadership succession within lineages; seniority, wealth, and capability determine succession; no dynastic principle; transfer generally smooth within kin structures.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimated through lineage seniority, ancestral sanction, and practical competence (successful harvests, iron production); origin narratives carried in oral tradition but unrecoverable in detail.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Minimal formal administration; village heads coordinate labor and settle disputes; no record-keeping; institutional reach limited to village and intervillage kinship networks.<br><br>
-__Political Participation & Mobilization:__ Adult males participate in village councils; women's influence indirect; age-grades organize youth; mobilization capacity sufficient for collective agricultural and defensive tasks.<br><br>
-__Geopolitical Position & External Relations:__ Bantu expansion encounters pastoralist and forager populations; relations range from displacement to coexistence to absorption; no external empires threaten; Indian Ocean contacts minimal but increasing by window's end.<br><br>
-__Coercive Apparatus & Means of Force:__ Iron weapons (spears, knives, arrows with iron points) represent significant military advantage over stone-using populations; no standing armies; coercive capacity organized through kinship and ad-hoc mobilization.<br><br>
-__Internal Order & Threat Environment:__ Village-scale disputes and occasional intergroup raiding; disorder absorbed through mediation and compensation; no endemic banditry or rebellion; internal threat environment low.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at walking pace along trade routes and kinship networks; village-to-village transmission measured in days; seasonal gatherings accelerate information pooling; reach limited to regional networks.<br><br>
-__Record, Storage & Persistence:__ Oral memory alone stores genealogies, land claims, iron-smelting techniques, and ritual knowledge; no writing system; persistence depends on intergenerational transmission through speech; knowledge vulnerable to lineage extinction and migration disruption.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elders and ritual specialists control authoritative knowledge; smelting secrets may be restricted to initiated lineages; no formal censorship; discourse norms embedded in respect protocols.<br><br>
-__Reception, Attention & Amplification:__ Attention focused on local and kin matters; important news (deaths, marriages, conflicts) amplified through kinship networks; information volume modest.<br><br>
-__Signal Integrity & Noise Load:__ Small-scale oral networks maintain high signal integrity; repetition and cross-checking correct errors; noise load low; no information overload.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice measured in restoration and compensation; cattle and iron goods serve as media of restitution; reciprocity, kinship obligation, and ancestral sanction underpin moral order.<br><br>
-__Law, Codification & Regulatory Evolution:__ Unwritten customary rules govern land use, marriage, inheritance, and dispute resolution; taboos enforced through social and spiritual sanction; rules transmitted orally and adapted incrementally; no codification.<br><br>
-__Adjudication, Enforcement & Liability:__ Village and lineage elders adjudicate disputes; compensation in livestock or iron resolves most conflicts; collective liability assigned to kin groups; enforcement through social pressure and threat of ostracism or feud.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights embedded in kinship and community membership; compliance burden light for insiders; outsiders and strangers lack recognized standing until incorporated through kinship or clientage.<br><br>
-__Impunity & Unredressed Wrong:__ Most wrongs redressed within village structures; powerful lineages may escape full accountability; intergroup wrongs harder to resolve; small standing impunity gap absorbed as grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; practical knowledge of iron metallurgy, agriculture, and ecology accumulated empirically; explanatory paradigms animist and ancestor-centered; natural phenomena interpreted through spiritual causation.<br><br>
-__Applied Knowledge & Technical Method:__ Iron-smelting technology (furnace construction, ore selection, charcoal production, temperature control) represents sophisticated applied metallurgy; agricultural techniques (clearing, planting, storage) refined over generations; pottery production (Urewe tradition) technically accomplished.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship within lineages; iron-smelting knowledge restricted to specialist families; agricultural and domestic skills broadly distributed; no literacy; knowledge stock growing as techniques diffuse and improve.<br><br>
-__Obsolescence & Knowledge Decay:__ Stone-tool traditions (obsidian knapping) declining as iron replaces stone; forager knowledge eroding as populations absorbed or displaced; no formal mechanism for clearing obsolete technique; decay offset by metallurgical and agricultural innovation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Bantu origin narratives (unrecoverable in detail) likely reference migration, ancestors, and the establishment of lineages; iron-smelting may carry mythic significance (smith as culture hero); pastoral identity persists in savanna zones; forager identities marginalized.<br><br>
-__Artistic Expression & Material Culture:__ Urewe pottery tradition with distinctive decorative styles marks Bantu farming communities; iron objects (tools, ornaments) become prestige goods; village architecture (wattle-and-daub houses, granaries) standardizes; personal ornamentation includes iron and bead jewelry.<br><br>
-__Collective Mood & Behavioral Disposition:__ Expansion and settlement characterize the period; confidence in agricultural and metallurgical techniques; disposition oriented toward clearing new land, establishing lineages, and accumulating cattle and iron wealth.<br><br>
-__Form Exhaustion & Meaning Decay:__ No evidence of cultural exhaustion; Urewe tradition actively elaborating; iron-working techniques spreading and improving; forms remain vital throughout the window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist cosmology; ancestors, nature spirits, and the vital force in iron and fertility likely form the sacred landscape; iron-smelting ritually charged, often conducted with taboos and restrictions; existential outlook ties human welfare to ancestral and spiritual favor.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ancestor veneration at household and lineage levels; iron-smelting rituals (purification, sexual abstinence, invocations) attested ethnographically for later periods, likely originating here; agricultural rites mark planting and harvest; life-cycle rituals (birth, initiation, death) structure devotional practice.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Lineage elders, diviners, and iron-smelting specialists hold spiritual authority; no centralized priesthood or temple institutions; doctrine transmitted orally within kin structures; orthodoxy localized and non-formalized.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Bantu spiritual complex spreading with farming expansion; forager cosmologies absorbed or displaced; pastoral spiritual traditions persist in savanna zones; syncretism at contact zones probable; overall direction is diffusion of Bantu ancestor-centered spirituality.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the sacred actively produced through ancestor veneration, iron-smelting ritual, and agricultural ceremony; spiritual needs fully absorbed within the animist cosmological frame.<br><br>
+
+__Summary:__ A long-term trend across the East African Rift System during which iron smelting technology arrives, Bantu-speaking farming communities expand into the region, and the economic basis shifts from mobile pastoralism and foraging toward settled mixed farming, transforming settlement patterns, social organization, and the balance of populations. The binding constraint remains the oral substrate: iron-working techniques, crop knowledge, genealogies, and territorial claims are held and transmitted through speech alone—the smith's craft is learned by watching and listening, the farmer's calendar recited, the lineage charter sung—with no written record to fix or spread these innovations. The single most causal factor is the arrival of iron metallurgy, which enables forest clearance, intensive cultivation, and new forms of surplus accumulation, tipping the demographic balance toward farming communities at the expense of foragers and pastoralists.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East African Rift System's volcanic highlands and lake basins now become sites of intensified settlement as iron tools enable forest clearance. The Great Lakes region (Victoria, Tanganyika, Kivu, Albert) offers fertile, well-watered soils suited to farming. Highland forests that once posed barriers are gradually opened. The rift floor remains pastoral and forager territory, too dry for rain-fed agriculture. Rivers (Kagera, Malagarasi) and lake shores become settlement corridors. Spatial friction shifts: cleared land is easy to work, but maintaining clearance requires continuous labor against forest regrowth.
+
+__Climate Regime & Volatility:__ The late Holocene climate continues its long-term drying trend, but the Great Lakes zone receives reliable rainfall (1,000–1,500 mm annually) supporting year-round cultivation. Bimodal rainfall allows two planting seasons in favorable areas. Interannual variability remains; drought years cause crop failure and famine. The climate is stable enough to support sedentary farming but volatile enough to impose periodic crises.
+
+__Hazard Regime & Exposure:__ Agricultural communities face drought, locust swarms, and livestock disease. Malaria is endemic below ~1,500 meters, constraining lowland settlement. Flooding affects lake margins and river valleys. Volcanic hazards persist in the rift. Crop diseases (rusts, blights) episodically reduce yields. The overall hazard load is moderate; the main risk is rain failure.
+
+__Resource & Energy Endowment:__ Iron ore deposits (laterite, bog iron) are scattered across the region; local smelting becomes possible where ore, charcoal, and clay for furnaces coincide. Forest wood provides charcoal for smelting and fuel for cooking. Water is abundant in the Great Lakes zone. Obsidian remains in use alongside iron but declines in importance. The energy endowment expands with iron's ability to multiply labor productivity.
+
+__Waste Absorption & Sink Capacity:__ Forest clearance produces ash and debris; slash-and-burn cultivation degrades soil fertility over time, requiring field rotation or fallow. Charcoal production for iron smelting consumes wood faster than regrowth in some areas. Smelting slag accumulates at furnace sites. The landscape begins to show human imprint—clearings, erosion, slag heaps—but carrying capacity is not yet strained. The physical residue is localized, not systemic.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Sedentary settlement increases disease load. Malaria, intestinal parasites, and water-borne diseases intensify where people concentrate. Forest clearance may initially reduce tsetse fly habitat, opening areas previously off-limits to cattle. However, population density increases transmission of communicable diseases. Infant mortality remains high; adult mortality varies with local disease ecology.
+
+__Nutrition & Physiological Vitality:__ The farming diet is more carbohydrate-heavy than the pastoralist diet: millet, sorghum, and later bananas provide calories but less protein. Stature may decline slightly compared to pastoralists. Nutritional adequacy depends on harvest success; famine years cause acute malnutrition. Fishing supplements protein near lakes. Overall vitality is adequate but vulnerable to crop failure.
+
+__Care, Healing & Recovery Capacity:__ Healing remains oral and practical: herbalism, bone-setting, midwifery, and spiritual healing. Knowledge of medicinal plants expands with sedentary life and access to forest species. Healers and diviners hold specialized knowledge transmitted through apprenticeship. Capacity is limited; epidemics overwhelm local healing resources.
+
+__Reproductive Biology & Pairing Dynamics:__ Farming supports larger, more sedentary households; children provide agricultural labor. Bridewealth remains important but may shift from cattle to iron goods or crops in some communities. Polygyny persists where surplus supports it. Pairing is governed by lineage exogamy rules transmitted orally. Fertility is valued; large families are economically advantageous.
+
+__Demographic Renewal & Density:__ Population density increases as farming supports more people per unit area than foraging or pastoralism. The Bantu expansion brings new populations into the region; local foragers are absorbed, displaced, or marginalized. Birth rates are high; the productive surplus supports growing numbers. Migration continues, both Bantu expansion from the west and internal movement to new clearings.
+
+__Attrition & Dependency Overhang:__ Sedentary life allows care for dependents difficult to transport in mobile societies. Elders hold oral knowledge; their survival is valued. Orphans are absorbed by kin. The dependency ratio is manageable as long as harvests succeed; famine creates acute crises. The standing load of dependents is higher than in pastoral society but supported by agricultural surplus.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The subsistence floor shifts from livestock to crops: millet, sorghum, and (arriving during this period) bananas and plantains provide the caloric base. Livestock (cattle, goats, chickens) supplement with protein and serve as wealth storage. Fishing is important near lakes. The provisioning floor is more productive per hectare than pastoralism but requires more labor and is vulnerable to rain failure.
+
+__Energy Capture & Conversion:__ Iron tools (hoes, axes, knives) multiply labor productivity in clearing, tilling, and harvesting. Energy capture expands: more calories can be extracted per unit of land. Fire remains central for cooking, clearing, and smelting. Human and animal muscle provide all mechanical power. The per-capita energy ceiling rises with iron-enhanced agriculture.
+
+__Labor Organization & Coercion:__ Labor is organized by household, lineage, and gender. Men clear forest, smelt iron, and herd cattle; women cultivate, process food, and maintain households. Collective labor (work parties) mobilizes the community for major tasks. No formal slavery or corvée exists at this stage; labor is kin-based and reciprocal. Smiths may form a semi-specialized caste, their craft transmitted within families.
+
+__Production & Surplus Capacity:__ Surplus production is modest but real: good harvests leave food stores, and iron tools and cattle accumulate as wealth. Surplus supports larger households, ritual feasts, and bridewealth payments. The system is in expansion phase; new land is being cleared and settled. Surplus extraction by chiefs or elites is minimal; the unit remains the household and lineage.
+
+__Storage, Reserves & Buffering:__ Granaries store millet and sorghum; livestock serve as living reserves. Social buffering operates through kinship: food loans, shared labor, and cattle redistribution cushion individual household failures. Storage technology is adequate for seasonal bridging but not for multi-year drought. The reserve is thin; consecutive bad years cause famine.
+
+__Exchange, Trade & Logistics:__ Iron goods, salt, obsidian, pottery, and foodstuffs circulate through kinship and trade networks. Exchange remains face-to-face at local and regional levels. Long-distance trade connects the Great Lakes to the Rift Valley and the coast, though the coast is not yet integrated into Indian Ocean networks. Logistics are limited by porterage on paths through cleared and forested land.
+
+__Value Storage, Credit & Deferred Exchange:__ Cattle and iron goods (hoes, weapons) serve as stores of value and units of account for bridewealth and compensation. Deferred reciprocity governs exchange; debts are remembered and recited. No abstract currency exists; value remains concrete. Credit is embedded in kinship and spoken obligation.
+
+__Surplus Extraction & Redistribution:__ No state exists to extract surplus. Lineage heads and emerging chiefs may claim portions of harvests or labor for redistribution, but extraction is light and embedded in reciprocity. Feasts redistribute surplus; big men gain status through generosity. The extraction ceiling is low; resistance is immediate if burdens exceed norms.
+
+__Wealth Distribution & Asset Defense:__ Wealth inequality is emerging: some lineages hold more cattle, iron, and cleared land. But inequality is moderated by kinship claims, bridewealth circulation, and the fluid frontier. Land is not yet scarce; anyone can clear new fields. Asset defense relies on kin networks and alliance; raiding redistributes cattle.
+
+__Byproducts & Waste Routing:__ Agricultural waste (stalks, husks) is used as fodder, fuel, and compost. Smelting produces slag; charcoal production consumes wood. Waste is largely absorbed by the environment. No accumulation crisis; the system is still in expansion and dispersed enough to avoid waste buildup.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bantu-speaking communities are generally patrilineal, though matrilineal patterns exist in some areas. The lineage and clan structure organizes land rights, bridewealth, and mutual aid. Inheritance follows lineage rules transmitted orally. Marriage creates alliances between lineages; bridewealth transfers cattle and iron. The kinship system is the primary social scaffold.
+
+__Association & Mutual Aid:__ Beyond kinship, work parties and neighborhood cooperation provide mutual aid in clearing, planting, and harvesting. Age-grades are less prominent than in pastoral society but may exist. Ritual associations (initiations, cults) create horizontal bonds. The fabric of association is thickening as settlement densifies.
+
+__Leisure, Play & Sociability:__ Agricultural festivals mark planting and harvest; music, dance, and communal feasting accompany them. Children's play, storytelling, and evening sociability fill non-work time. The sedentary life permits more elaborate material culture and ritual elaboration than mobile pastoralism. Leisure is integrated into the agricultural calendar.
+
+__Stratification, Status & Group Structure:__ Stratification is emerging: iron-working specialists, wealthy cattle-holders, and lineage heads hold higher status. Foragers are marginalized to unsuitable land or absorbed into farming communities at lower status. No rigid caste exists, but smiths may be set apart. Status is achieved through wealth, oratory, and ritual knowledge; mobility is still possible.
+
+__Administrative Capacity & Institutional Integrity:__ No centralized administration exists. Lineage councils and emerging chiefs govern local affairs. Decision-making is consensual and oral. The administrative footprint is minimal; coordination is achieved through kinship, custom, and personal authority. The seeds of more complex polities are germinating but have not yet flowered.
+
+__Coercive Apparatus & Means of Force:__ Iron weapons (spears, knives, arrows) enhance military capacity. Raiding and defense are organized by lineage and age-group. No standing army exists; all adult men are potential warriors. Fortifications are rare; palisades may protect some settlements. Violence is episodic, driven by cattle theft, land disputes, and blood feud. The coercive capacity is decentralized and limited.
+
+__Discharge, Disorder & Decay:__ Feuds and land disputes generate friction; compensation and mediation by elders manage most conflicts. Raiding is endemic but does not threaten social collapse. The influx of new populations (Bantu migrants, absorbed foragers) creates integration challenges managed through intermarriage and assimilation. The social system is expanding and generally absorbing friction; disorder is localized and contained.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of expansive confidence: new land is available, iron tools multiply productivity, and populations are growing. Trust extends within kinship and community; strangers are viewed with caution but can be incorporated. Fear centers on rain failure, disease, and raiding. The mood is generally positive; the frontier is open.
+
+__Leadership & Personal Authority:__ Leadership is personal and emerging. Lineage heads govern through seniority and wisdom; successful farmers and smiths gain prestige. Chiefs (where they exist) lead through generosity, oratory, and ritual authority. Leadership is not yet institutionalized; authority must be continually earned. Big men rise and fall with fortune.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to kin, lineage, and local community; loyalty to chiefs (where present) is conditional on their success and generosity. Legitimacy rests on demonstrated effectiveness and adherence to custom. There is no abstract state demanding loyalty; the political unit is intimate and personal.
+
+__Political Will & Collective Resolve:__ Collective will is mobilized for defense, raiding, and major ritual undertakings. Resolve depends on persuasion and shared interest; no one commands unconditional obedience. The political will is strong but fragmented among lineages and localities. Large-scale coordination is rare and temporary.
+
+__External Relations & Posture:__ Relations with neighboring communities range from alliance and intermarriage to raiding and feud. Pastoralists in the rift and foragers in the forests are neighbors with whom farming communities interact through trade, competition, and assimilation. No external state threatens; the region is beyond the reach of major polities. Expansion is into available land, not conquest of organized rivals.
+
+__Disaffection, Apathy & Spent Will:__ In good times, disaffection is low; the expanding system provides opportunity. Harvest failure, disease, or raiding losses can produce despair. Recovery depends on kinship networks and the availability of new land. The residue of spent will is absorbed through mobility and redistribution; structural disaffection is not yet present.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Bantu languages spread with farming communities, creating a zone of mutual intelligibility across the Great Lakes region. Earlier Nilotic, Cushitic, and Khoisan-speaking populations retain their languages where they persist. Communication is oral; no writing exists. Multilingualism is common at boundaries. The shared code is widening as Bantu expansion proceeds.
+
+__Channels & Transmission Velocity:__ Information travels by word of mouth along paths and waterways. Messengers, traders, and kin visits carry news. Transmission is slow but adequate for the pace of agricultural life. Urgent information spreads through runner networks. The channel capacity is limited but sufficient for local coordination.
+
+__Record, Storage & Persistence:__ All record is oral. Genealogies, land claims, iron-working techniques, and ritual knowledge are held in memory. Elders are the archives; their death risks knowledge loss. Physical markers (boundary trees, grave sites) anchor oral claims to land. Redundancy in transmission provides some protection; specialized knowledge held by few is fragile.
+
+__Framing, Censorship & Discourse Norms:__ Oral discourse is governed by age, gender, and ritual status. Elders control access to genealogical and ritual knowledge. Smiths may guard their craft secrets. Taboo topics exist around death, sexuality, and sorcery. Discourse norms are socially enforced; deference to seniority structures who may speak and when.
+
+__Reception, Attention & Amplification:__ Oratory skill, song, and proverb capture attention. Important information is encoded in memorable forms: genealogies in chant, techniques in formulaic instruction, history in narrative. Amplification occurs through repetition at gatherings. The oral system favors what can be remembered; the unmemorable is lost.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift and error. Genealogies and ritual formulas are protected by exact recitation; other knowledge degrades. Cross-checking through multiple informants reduces noise. The noise load increases as the information stock grows with expanding population and complexity. Major loss occurs when specialists die without successors.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice remains relational: wrongs are offenses against kin and community requiring compensation. The moral sense emphasizes reciprocity, kinship obligation, and respect for custom. Theft, adultery, and murder incur debts payable in cattle or iron. The moral world is concrete, personal, and enforced through social pressure.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists. Custom is transmitted orally and evolves through precedent. Elders recall past judgments; innovation occurs incrementally. Land tenure rules, bridewealth norms, and compensation scales are customary and local. The body of custom is growing more elaborate as society becomes more complex, but remains unwritten.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by lineage elders and community assemblies. Liability attaches to the lineage; the offender's kin are responsible for compensation. Sanctions include cattle or iron payment, restitution, and in extreme cases ostracism or death. Enforcement relies on social pressure and the threat of feud; no state apparatus exists.
+
+__Rights, Protections & Compliance Burden:__ Rights are embedded in kinship and community membership. A person has rights to lineage land, kin support, and customary justice. Strangers have no inherent rights unless adopted or allied. Compliance burden is internalized through upbringing; formal rules are few. The system is flexible but offers no appeal beyond the community.
+
+__Impunity & Unredressed Wrong:__ Powerful lineages may escape full accountability; feuds can persist unresolved. The gap between justice owed and delivered is real but checked by interdependence. Unredressed wrongs are remembered in oral tradition and may erupt later. Impunity is limited by the small scale of society and the reach of kinship obligation.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is practical: knowledge of soil, seasons, seeds, and smelting is extensive and observational. The paradigm is traditional and experiential; innovation occurs through trial and error. Understanding is framed by analogy and accumulated experience, not systematic theory. Curiosity is channeled toward agricultural and craft success.
+
+__Applied Knowledge & Technical Method:__ Iron smelting is the signature technical achievement: ore selection, furnace construction, charcoal production, and bloom forging are complex skills transmitted through apprenticeship. Agricultural technique includes crop selection, intercropping, field rotation, and storage. Pottery, weaving, and building are other applied crafts. Methods are oral and embodied; the how is shown, not written.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is practical and embedded: children learn by participation, apprentices by watching masters. Initiation transmits adult knowledge. The knowledge stock is distributed across the population by specialization: smiths hold metallurgy, elders hold genealogy and law, healers hold medicine. Literacy is absent; all knowledge is embodied and oral.
+
+__Obsolescence & Knowledge Decay:__ Stone-tool traditions are becoming obsolete as iron replaces obsidian and quartz. Forager knowledge (of wild foods, forest pharmacopoeia) risks loss as foragers are absorbed or displaced. Smelting knowledge is concentrated and vulnerable to transmission failure. The residue of lost knowledge is invisible; what is not transmitted disappears without trace.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Bantu-speaking communities carry migration narratives and clan origin stories transmitted orally. The foundational identity is agricultural and lineage-based: to be fully human is to cultivate, to belong to a lineage, to know one's ancestors. Foragers and pastoralists are defined against this norm. The deep mythos integrates migration, settlement, and kinship.
+
+__Legitimating Narrative & Ideology:__ The legitimating narrative is genealogical and custom-based: authority flows from seniority and descent, the social order from ancestral precedent. The agricultural way of life is taken as natural and right. Chiefs (where emerging) legitimate rule through generosity, ritual, and genealogical claims. There is no abstract ideology; legitimacy is personal and traditional.
+
+__Artistic Expression & Material Culture:__ Material culture includes iron tools and weapons, distinctive pottery styles (incised, stamped), personal ornaments, and increasingly elaborate architecture (round huts with mud-and-thatch construction). Body modification marks identity. Music, dance, and oral poetry accompany ritual and leisure. The material surface is thickening as settled life permits accumulation and elaboration.
+
+__Form Exhaustion & Meaning Decay:__ No form exhaustion is evident. The cultural repertoire is expanding and vital, absorbing new elements (iron, bananas, Bantu traditions) and integrating them. Meaning is renewed through ritual, oratory, and the ongoing narrative of expansion and settlement. The residue of decay is not apparent; the culture is in growth phase.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmology posits a creator deity, ancestral spirits, and nature spirits inhabiting forests, waters, and mountains. The existential outlook is pragmatic and relational: humans must maintain balance with spirits through ritual to ensure fertility, rain, and health. Death transitions the individual to ancestral status; the dead remain involved in the living world. The cosmos is animate and morally charged.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual marks life transitions (birth, initiation, marriage, death), agricultural events (planting, harvest), and crisis response (drought, disease). Animal sacrifice, libations, and offerings propitiate spirits. Shrines at groves, caves, and homesteads anchor the sacred to place. Devotion is collective, practical, and oriented toward maintaining cosmic order.
+
+__Religious Institutions & Doctrinal Authority:__ No centralized priesthood or temple exists. Lineage elders perform household rituals; mediums, diviners, and rainmakers hold specialized sacred authority transmitted through calling and apprenticeship. Doctrinal orthodoxy is weak; practice varies by lineage, locality, and specialist. The religious institution is diffuse and embedded in kinship and community.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Bantu religious practices spread with migration, absorbing and blending with earlier traditions of foragers and pastoralists. Ancestor veneration is universal; nature-spirit cults vary by locale. The dominant cosmology is expanding with the farming frontier. No external religious system competes; syncretism occurs internally among regional traditions.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident. The sacred remains vital, enacted in daily and seasonal ritual. The cosmos is meaningful; the spirits are present. The residue of lost belief is not yet present; the spiritual system is confident and functional, expanding with the communities it serves.
+

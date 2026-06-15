@@ -1,69 +1,140 @@
-# __1000 CE – 1300 CE__ — Mongol Unification and Empire
-__Summary:__ The Mongolian plateau transforms from a fragmented arena of competing tribal confederacies into the seat of the largest contiguous land empire in history as Chinggis Khan unifies the steppe peoples and his successors conquer from the Pacific to the Adriatic; the binding constraint is the tension between the centrifugal pull of autonomous pastoral lineages and the centripetal discipline imposed by Chinggisid military-administrative innovation, with succession providing minimal margin against fragmentation; the trajectory moves from multi-polar tribal competition through rapid unification and explosive expansion to the emergence of four successor khanates by the window's close.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Mongolian plateau, ringed by the Gobi to the south and Siberian taiga to the north, serves as the imperial core; the steppe corridor enables rapid cavalry movement to China, Central Asia, Persia, and Russia; mountain passes and river crossings create chokepoints exploited during conquest.<br><br>
-__Climate Regime & Volatility:__ Continental climate with harsh winters and short growing seasons; the late twelfth-century warming phase provides favorable pasture conditions supporting population growth and herd expansion prior to unification.<br><br>
-__Hazard Regime & Exposure:__ Dzud and drought remain primary hazards; Mongol imperial logistics incorporate reserve herds and supply requisition to buffer against localized losses; conquered agricultural regions provide grain reserves.<br><br>
-__Resource & Energy Endowment:__ Grassland biomass sustains the horse-based military economy; iron deposits in peripheral mountains support weapon production; conquered territories yield silver, gold, textiles, and grain previously unavailable on the steppe.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density on the steppe maintains effectively unlimited absorptive capacity; conquest warfare devastates agricultural landscapes in target regions but generates no sink pressure on the steppe heartland.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Conquest campaigns bring populations into contact with novel disease pools; plague reservoirs in Central Asia activated by troop movements; mortality spikes during sieges and occupation; steppe populations themselves experience moderate endemic disease loads.<br><br>
-__Nutrition & Physiological Vitality:__ Mongol warriors maintained through meat and dairy diet supplemented by tribute grain; nutritional adequacy high for military forces; conquered populations experience severe nutritional stress during and after conquest.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny concentrated among Chinggisid elite; Chinggis Khan's descendants number in the tens of thousands by the window's end; levirate marriage continues; mass enslavement disrupts reproductive patterns among conquered populations.<br><br>
-__Demographic Renewal & Density:__ Steppe population grows through conquest incorporation; conquered regions experience catastrophic population decline (Khwarezm, northern China); replacement ratios severely negative in devastated areas; overall Eurasian population disrupted.<br><br>
-__Attrition & Dependency Overhang:__ Warfare mortality affects conquered populations massively; widows and orphans absorbed into new households or enslaved; Mongol military system creates dependency relationships through decimal organization and hostage-taking.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Pastoral subsistence continues on the steppe; conquest provides access to agricultural surplus; military logistics require systematic provisioning; requisition and tribute replace raiding as primary extraction mechanism.<br><br>
-__Energy Capture & Conversion:__ Horse power enables military mobility at unprecedented scale; captured siege engineers and craftsmen expand technical capabilities; energy conversion adequate for imperial military-logistical needs.<br><br>
-__Labor Organization & Coercion:__ Decimal military organization structures all adult males; conquered populations subjected to mass corvée, enslavement, or extermination depending on utility; artisans and specialists forcibly relocated (e.g., Central Asian craftsmen to Mongolia and China).<br><br>
-__Production & Surplus Capacity:__ Conquest captures enormous surplus from sedentary civilizations; Mongol peace (Pax Mongolica) enables recovery and trade expansion by mid-thirteenth century; productive capacity of conquered regions eventually stabilizes under successor khanates.<br><br>
-__Storage, Reserves & Buffering:__ Imperial granaries and treasury accumulations in conquered capitals (Karakorum, Beijing, Tabriz, Sarai); yam relay system maintains supply routes; buffering capacity vastly expanded through conquest.<br><br>
-__Exchange, Trade & Logistics:__ Silk Road trade flourishes under Mongol protection; unified administration reduces transaction costs; merchant partnerships (ortaq) connect Mongol elite with Muslim and Italian traders; yam system enables rapid communication and supply movement.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver ingots and Chinese paper money circulate; Mongol administration standardizes weights and measures; credit networks operated by Uighur and Muslim merchants; deferred obligations embedded in imperial taxation and tribute system.<br><br>
-__Surplus Extraction & Redistribution:__ Systematic taxation replaces periodic raiding; census and registration enable regular extraction; redistribution through military reward, Chinggisid appanages, and elite consumption; extraction load heavy but regularized.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrated in Chinggisid lineage and military commanders; conquered elites dispossessed or incorporated; property rights conditional on imperial favor; asset defense depends on continued Mongol service.<br><br>
-__Byproducts & Waste Routing:__ Conquest warfare generates massive human and material destruction routed onto conquered populations; steppe economy continues low-waste pastoral pattern; no accumulation pressure on steppe sinks.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Mongol unification transcends tribal boundaries through shared decimal organization and Chinggisid loyalty; trust radius expands among incorporated steppe peoples; conquered populations experience catastrophic trust collapse followed by gradual reconstruction.<br><br>
-__Stratification, Status & Group Identity:__ Sharp hierarchy: Chinggisid princes, military commanders (noyan), commoner soldiers, artisans, conquered subjects, slaves; Mongol identity crystallizes as imperial ruling ethnicity; subject peoples ranked by utility and submission timing.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent with tanistry-influenced succession; Chinggisid blood required for supreme khaganate; appanage system divides territory among sons; levirate marriage continues; kinship provides framework for imperial administration.<br><br>
-__Civic Association & Self-Organization:__ Quriltai (assembly of princes and commanders) deliberates on succession and major campaigns; decimal units create new solidarities across tribal lines; conquered urban populations retain craft and merchant associations under Mongol oversight.<br><br>
-__Leisure, Play & Sociability:__ Great hunts (nerge) serve military training and elite sociability; feasting and drinking central to court culture; archery, wrestling, and horse racing continue; epic recitation celebrates conquest.<br><br>
-__Grievance Channels & Social Discharge:__ Imperial courts adjudicate disputes; petition system allows appeals to higher authority; defection option closed by Mongol military dominance; conquest grievances suppressed rather than discharged; massive unmetabolized trauma in conquered regions.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Supreme khagan holds centralized authority during unification and early expansion; power fragments after Möngke's death (1259) into four major khanates maintaining nominal Chinggisid unity; centralizing trend reverses toward regional autonomy.<br><br>
-__Succession & Power Transfer:__ Tanistry combined with quriltai election; succession contests after each major khan's death (1227, 1241, 1259); Tolui line eventually dominates but inter-khanate rivalry persists; transfer mechanism generates chronic instability.<br><br>
-__Legitimacy & Political Narrative:__ Chinggis Khan's mandate from Tengri to conquer the world provides ideological foundation; Secret History of the Mongols codifies foundational narrative; submission to Chinggisid rule framed as cosmic necessity.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Decimal military organization; yam relay system; census and tax registration; multilingual chancellery (Uighur, Persian, Chinese scribes); administrative capacity vastly exceeds earlier steppe polities; corruption and factional rivalry increase over time.<br><br>
-__Political Participation & Mobilization:__ Quriltai formalizes elite participation; military service near-universal for Mongol males; conquered populations mobilized as auxiliaries; popular sentiment irrelevant to Mongol decision-making; resistance suppressed through terror.<br><br>
-__Geopolitical Position & External Relations:__ Mongol Empire dominates Eurasia; diplomatic missions extend to Europe (Papal envoys, Rubruck, Carpini) and Egypt; no peer competitors after Khwarezm and Jin destruction; external pressure minimal until khanate fragmentation enables recovery by subject states.<br><br>
-__Coercive Apparatus & Means of Force:__ Elite cavalry with composite bow remains core; siege engineering acquired from Chinese and Muslim specialists; decimal command structure enables coordination of hundreds of thousands; terror tactics (city massacres, skull pyramids) serve deterrence function.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through harsh discipline (yasa code); rebellion suppressed through exemplary violence; succession conflicts generate periodic internal warfare; disorder manageable during window but accelerating at its close.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Yam relay system achieves unprecedented communication velocity across continental distances (reportedly 200+ miles per day for urgent messages); oral messengers and written dispatches; information advantage central to military success.<br><br>
-__Record, Storage & Persistence:__ Uighur script adopted for Mongol language; chancelleries maintain records in multiple languages (Uighur-Mongol, Persian, Chinese); Secret History of the Mongols commits oral traditions to writing (~1240); yet the vast majority of Mongols remain oral — laws (yasa), genealogies, and traditions transmitted through memory; writing serves elite administrative functions, not popular literacy.<br><br>
-__Framing, Censorship & Discourse Norms:__ Imperial court controls official narrative; conquest framed as divinely mandated; conquered populations' perspectives suppressed; internal dissent dangerous; discourse norms enforce submission and praise.<br><br>
-__Reception, Attention & Amplification:__ Oral transmission at feasts and military encampments; epic traditions amplify Chinggis Khan's deeds; reception concentrated among Mongol elite; conquered literate populations preserve alternative accounts.<br><br>
-__Signal Integrity & Noise Load:__ Multilingual administration creates translation challenges; yasa's oral transmission generates interpretive variation; genealogical and historical claims contested among rival Chinggisid lines; noise managed through chancellery standardization but accumulates in succession disputes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Yasa embodies Mongol moral code — loyalty to khan, hospitality, honesty among Mongols, collective punishment for disloyalty; conquest violence framed as just punishment for resistance; sharply different moral status for Mongols and conquered peoples.<br><br>
-__Law, Codification & Regulatory Evolution:__ Yasa (great law attributed to Chinggis Khan) transmitted orally with authoritative written versions in imperial archives; supplements customary töre; imposes uniform standards across diverse populations; evolves through khaganal interpretation.<br><br>
-__Adjudication, Enforcement & Liability:__ Yarghuchi (judges) appointed by khan adjudicate disputes; decimal commanders enforce discipline; collective liability extends to households and units; enforcement harsh and effective within Mongol system; conquered populations subject to Mongol law for offenses against the empire.<br><br>
-__Rights, Protections & Compliance Burden:__ Mongol commoners hold customary rights; Chinggisid privilege paramount; religious tolerance extended to conquered populations as policy; compliance burden heavy (taxation, corvée, military service); conquered populations lack effective protections against Mongol demands.<br><br>
-__Impunity & Unredressed Wrong:__ Chinggisid princes enjoy broad impunity; inter-khanate conflicts generate unpunished violence; conquered populations' grievances unredressed; justice deficit massive in conquered regions, manageable within Mongol community.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Practical military and pastoral knowledge remains central; contact with Chinese, Islamic, and European intellectual traditions expands through conquest; court patronage supports astronomy, medicine, and historiography in successor khanates; explanatory paradigms remain dominated by conquest ideology and religious frameworks.<br><br>
-__Applied Knowledge & Technical Method:__ Siege engineering, gunpowder weapons, and naval capability acquired from conquered specialists; metallurgy, veterinary knowledge, and pastoral technology highly developed; technique transfer across Eurasia accelerates under Pax Mongolica.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Apprenticeship-based skill transmission continues; scribal education in Uighur script for administrative elite; Islamic and Chinese educational institutions continue under Mongol rule; literacy remains rare among steppe populations; conquered regions maintain their educational systems under supervision.<br><br>
-__Obsolescence & Knowledge Decay:__ Conquest destroys libraries and educational institutions in some regions (Baghdad 1258); knowledge loss in devastated areas; technique transfer partially compensates; pastoral and military knowledge transmission remains robust.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Chinggis Khan becomes central mythic figure; origin narratives emphasize divine mandate and genealogical destiny; Secret History monumentalizes foundational memory; Mongol identity crystallizes around conquest achievement and Chinggisid descent.<br><br>
-__Artistic Expression & Material Culture:__ Luxury goods flow to steppe from conquered civilizations; textile arts flourish with Chinese, Persian, and Central Asian influences; portable wealth (gold, silver, precious textiles) preferred; architecture minimal on steppe, elaborate in conquered capitals.<br><br>
-__Collective Mood & Behavioral Disposition:__ Triumphalism and confidence among Mongols during expansion; fatalism and terror among conquered populations; honor culture emphasizes martial prowess and loyalty; mood begins shifting toward consolidation and internal competition by window's end.<br><br>
-__Form Exhaustion & Meaning Decay:__ Conquest culture retains vitality through window; syncretic absorption of conquered cultural forms; no significant form exhaustion; cultural integration just beginning as khanates differentiate.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Tengri worship continues as Mongol state cult; Chinggis Khan's divine mandate from Eternal Heaven frames conquest as cosmic mission; pluralistic tolerance of conquered religions reflects practical statecraft rather than relativism.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Shamanic rituals at state level (worship at Burkhan Khaldun); sacrifices to standards and ancestors; conquered populations continue their practices under Mongol oversight; Buddhist, Islamic, Christian, and other rites tolerated and patronized variably.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Shamans serve Mongol religious needs; Buddhist lamas, Islamic ulama, Christian clergy, and Taoist priests compete for patronage; religious institutions exempt from taxation; no single doctrinal authority; religious pluralism as imperial policy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism, Islam, and Christianity spread among Mongol elite at different rates; Khubilai favors Tibetan Buddhism; Ilkhans eventually convert to Islam; Golden Horde Islamizes; syncretic blending common; shamanism persists as substrate.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment among Mongols; conquest success reinforces cosmological confidence; conquered populations experience spiritual trauma but retain their faiths; sacred meaning actively renewed through patronage and conversion.<br><br>
+# __1,000 CE – 1,300 CE__ — Mongol Unification and Empire
+
+__Summary:__ The Eurasian Steppe during the unification of Mongolian tribes under Temujin (Genghis Khan) and the explosive expansion that creates the largest contiguous land empire in history, stretching from Korea to Poland by 1260 CE. The binding constraint is spoken language: the yasa (great law) is proclaimed and transmitted orally among Mongols; military orders pass through the decimal chain of command by word of mouth; the legitimating ideology of heavenly mandate is recited, not read. Literate administration exists — Uyghur script adopted for Mongolian, subject scribes from China and Persia employed — but it serves the khagan's needs without displacing the oral culture of the ruling stratum. The hinge is the 1206 kurultai that elevates Temujin to Genghis Khan: the moment when scattered pastoral tribes coalesce into a unified conquering force through the personal authority, organizational genius, and spoken law of one man.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Mongolian plateau — high, cold, treeless grassland between Siberian taiga and the Gobi — is the core. From here the steppe corridor extends west through Dzungaria and Kazakhstan to the Pontic grasslands. Mountain barriers (Altai, Hindu Kush, Carpathians) channel movement; rivers (Volga, Tigris, Huang He) define conquest limits. The Mongols traverse this entire space; campaigns cover 5,000 km in a season. Spatial friction is minimal for mounted armies carrying their provisions as herds.
+
+__Climate Regime & Volatility:__ The Medieval Climate Anomaly brings warmer, wetter conditions to the eastern steppe circa 1000–1250 CE, expanding pasture and supporting larger herds and populations — a precondition for the mobilization Genghis Khan achieves. Winters remain severe; the Mongol army halts in extreme cold. Interannual variability (dzud) persists as a background risk.
+
+__Hazard Regime & Exposure:__ Dzud and drought threaten the pastoral base. Epidemic disease, especially plague, circulates in marmot populations and along trade routes. Conquest exposes Mongols to new disease environments (bubonic plague reaches the Golden Horde by 1346 CE, but this is after the window). Seismic hazard is low.
+
+__Resource & Energy Endowment:__ Grass remains the primary energy source. Iron ore in the Altai supports weapon production. Conquest delivers the resources of sedentary civilizations — grain, silk, gold, artisans — as tribute. The Mongols do not exploit these directly but extract their product.
+
+__Waste Absorption & Sink Capacity:__ Pastoral waste is negligible. Conquest produces corpses and ruin on a scale that alters local environments (depopulation of Khwarezm, for example), but the steppe core is unaffected. No industrial pollution.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases (smallpox, measles) persist. Conquest exposes Mongols to new pathogens; some generals die of disease during campaigns. Mortality is elevated by warfare but distributed onto conquered populations. The Mongol population itself suffers less than its victims.
+
+__Nutrition & Physiological Vitality:__ The traditional steppe diet (meat, milk, blood, kumis) sustains physical robustness. Wartime provisioning relies on herds driven with the army and forage from conquered territory. Nutritional stress is transferred to subject populations.
+
+__Care, Healing & Recovery Capacity:__ Shamanic and herbal medicine continue. Chinese and Persian physicians serve the khans. Trauma care is competent for battlefield wounds. Epidemic disease outstrips healing capacity.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny among the elite reaches extreme levels; Genghis Khan's descendants number in the thousands within generations (modern genetic studies estimate 16 million male-line descendants). High fertility among conquering males is a feature of the system.
+
+__Demographic Renewal & Density:__ The Mongolian population at unification is perhaps 1–2 million. Conquest does not depopulate the steppe; it exports violence outward. Subject populations suffer catastrophic decline (estimates of 5–10% population loss across conquered territories). Mongol demographic renewal is robust.
+
+__Attrition & Dependency Overhang:__ Dependency load is absorbed within kin structures. Widows and orphans of fallen warriors are supported through levirate marriage and clan obligation. No institutional dependency burden.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The pastoral base persists: sheep, goats, cattle, horses, camels. Household viability requires several hundred head. The subsistence floor is stable during the conquests; campaigns extract surplus from subject territories rather than straining the home base.
+
+__Energy Capture & Conversion:__ Grass-to-livestock conversion remains primary. Conquest delivers the stored energy of sedentary agriculture without requiring Mongols to farm. The energy subsidy from tribute enables military operations beyond what the pastoral base alone could sustain.
+
+__Labor Organization & Coercion:__ Mongol society retains its pastoral labor structure. Warfare conscripts all able-bodied males (the decimal system organizes society for mobilization). Conquered artisans are deported to the steppe or khaganal centers; their labor is coerced.
+
+__Production & Surplus Capacity:__ Surplus flows from conquest: tribute, plunder, and Silk Road tolls. The Pax Mongolica (post-conquest peace) enables trans-Eurasian trade that enriches the khanates. Production remains external; the Mongols extract rather than produce.
+
+__Storage, Reserves & Buffering:__ Khaganal treasuries accumulate vast wealth — gold, silk, gems. Live herds remain the nomadic reserve. Buffering is enhanced by access to granaries in China and Persia.
+
+__Exchange, Trade & Logistics:__ The yam (postal relay system) is the organizational innovation: relay stations with horses, supplies, and personnel span the empire, enabling communication and transport at unprecedented speed. Silk Road trade flourishes under Mongol protection. Logistics are horse-based but institutionalized.
+
+__Value Storage, Credit & Deferred Exchange:__ Silk, silver, and gold serve as value stores. The Yuan dynasty (Mongol China) experiments with paper currency. Credit remains personal among Mongols; subject merchants use more sophisticated instruments.
+
+__Surplus Extraction & Redistribution:__ The decimal system (tribute assessed by tens, hundreds, thousands) organizes extraction. The khagan redistributes through feasting, gifts, and campaign spoils. Generosity sustains allegiance; hoarding alienates followers.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in the Genghisid lineage and the noyad (military aristocracy). Herds are defended by the army of the whole; raiding between Mongol units is suppressed by the yasa. Inequality is extreme but legitimized by conquest success.
+
+__Byproducts & Waste Routing:__ Pastoral waste is recycled. Conquest waste (corpses, ruins) is left where it falls; the Mongols move on. No financial mispricing in the steppe economy; subject economies bear the costs of disruption.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent persists. Genghis Khan reorganizes society by breaking up old tribal allegiances and assigning households to decimal units under commanders loyal to him — a deliberate disruption of kin-based solidarity. Inheritance among the Genghisids is partible (each son receives a portion of the empire), seeding fragmentation.
+
+__Association & Mutual Aid:__ The decimal unit (arban, zuun, mingan, tumen — 10, 100, 1,000, 10,000) replaces the tribe as the primary organizational unit. Loyalty shifts from kin to commander. The noyad (aristocracy of merit) emerges from those who proved themselves in the unification wars.
+
+__Leisure, Play & Sociability:__ The great hunt (nerge) is both military exercise and elite leisure. Wrestling, archery, and horseracing (the "three manly sports") continue. Feasting at the khaganal court is lavish; kumis flows freely.
+
+__Stratification, Status & Group Structure:__ Society divides into the Genghisid golden lineage (alone eligible for supreme rule), the noyad commanders, free Mongol warriors, and subject peoples ranging from allied nomads to enslaved artisans. Status is determined by lineage and military merit.
+
+__Administrative Capacity & Institutional Integrity:__ The Mongol Empire develops sophisticated administration — the yam, census-taking, codified tax rates — using literate subject personnel (Uyghurs, Chinese, Persians). The khagan's secretariat operates in multiple languages. But the Mongol elite remains oral; the khagan governs through spoken command, not written decree. Administration serves extraction, not law.
+
+__Coercive Apparatus & Means of Force:__ The Mongol army at peak strength fields 100,000–150,000 cavalry, organized in decimal units under professional commanders. The composite bow, lance, and mobility are the weapons; siege trains are acquired from subject engineers. This is the most effective military force of the premodern era. Discipline is absolute; retreat without orders is punishable by death.
+
+__Discharge, Disorder & Decay:__ The Genghisid succession system — partible inheritance, kurultai election among eligible princes — guarantees fragmentation. By 1260 CE the empire has split into four khanates (Yuan, Chagatai, Golden Horde, Ilkhanate) that war with each other. The unifying charisma dies with Genghis Khan and his first successors; institutional cohesion cannot replace it.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Pride, martial honor, and loyalty to the khagan define the Mongol temper. Fear is the sentiment the Mongols deliberately cultivate in enemies — terror as strategy. Trust within the decimal unit is enforced; betrayal is death.
+
+__Leadership & Personal Authority:__ Genghis Khan's personal authority is the organizing force of the empire. He is not merely a war leader but a lawgiver, organizer, and sacred figure. His successors (Ogedei, Mongke, Kublai) inherit portions of that authority, but none matches the original. Charisma is non-transferable.
+
+__Legitimacy as Lived Allegiance:__ The mandate of Tengri legitimizes Genghisid rule. The khagan rules by heaven's will; conquest success proves the mandate. Subject peoples accept Mongol rule as fate or resist and die. Allegiance among Mongols is to the golden lineage, not to institutions.
+
+__Political Will & Collective Resolve:__ Collective will coheres under Genghis Khan and during the great conquests. Succession disputes (1240s, 1260s) fracture it. The kurultai attempts to resolve succession by consensus but fails when candidates command equal force. Civil war becomes endemic after 1260 CE.
+
+__External Relations & Posture:__ Mongol posture is universalist: all under heaven owe submission. Diplomacy is ultimatum — submit or be destroyed. The Mongols maintain embassies and alliances of convenience but regard all external relations as temporary pending conquest.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection appears in conquered territories constantly; it is suppressed by terror. Among Mongols, the fragmentation after 1260 CE reflects exhaustion of unifying will. The successor khanates are viable but lack the drive for further expansion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Mongolian is the command language, mutually intelligible across the steppe. Turkic languages are widely understood. Conquered territories present babel — dozens of languages — managed through interpreters and scribes. Literacy spreads among the Mongol elite for administrative purposes but does not penetrate the warrior mass.
+
+__Channels & Transmission Velocity:__ The yam is the great innovation: relay stations every 25–50 km across the empire, with fresh horses and supplies, enable messengers to cover 300+ km per day. Information moves from Karakorum to Beijing in a week, to Tabriz in a month. No premodern system matches this velocity.
+
+__Record, Storage & Persistence:__ Mongolian adopts Uyghur script under Genghis Khan. The yasa (great law) is reportedly written down but no copy survives; transmission among Mongols is oral. Chinese, Persian, and Arabic scribes keep records in their languages. The Secret History of the Mongols, composed circa 1240 CE, is the only indigenous Mongolian literary text — oral tradition transcribed.
+
+__Framing, Censorship & Discourse Norms:__ The khagan's word is law; dissent is treason. Praise poetry and genealogical recitation frame legitimate discourse. Foreign envoys are carefully managed; their reports shape external perceptions.
+
+__Reception, Attention & Amplification:__ Commands propagate through the decimal hierarchy: the khagan speaks to his generals, who speak to their subordinates, down to the squad leader (arban). Amplification depends on the chain of command. The yam carries written dispatches but oral repetition spreads content.
+
+__Signal Integrity & Noise Load:__ The decimal hierarchy and yam maintain signal integrity for commands. Historical memory drifts; the Secret History already mythologizes Genghis Khan. The yasa, transmitted orally, is subject to interpretation and variation across the successor khanates.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is the khagan's will, formalized as the yasa. Core prohibitions: theft, adultery, desertion, oath-breaking, failure to assist a fellow Mongol. Loyalty and discipline are the highest virtues. Against enemies, anything is permitted — terror, massacre, enslavement.
+
+__Law, Codification & Regulatory Evolution:__ The yasa is attributed to Genghis Khan — a comprehensive code covering military, civil, and commercial matters. Its existence is attested by Persian and Chinese sources, but no Mongolian text survives; it was proclaimed and memorized, not inscribed. Successor khanates invoke the yasa but interpret it variously.
+
+__Adjudication, Liability & Sanction:__ The khagan or his delegated judges (jarghuchi) adjudicate. Sanction is severe: death for serious offenses, confiscation and enslavement for lesser ones. Compensation exists but is not the norm. Justice is swift and exemplary.
+
+__Rights, Protections & Compliance Burden:__ Mongols have rights within the system — protection of person and property, access to justice. Subject peoples have duties but few rights; their status depends on utility. Compliance burden on Mongols is light between campaigns; on subjects, it is crushing.
+
+__Impunity & Unredressed Wrong:__ The khagan is above the law; Genghisids enjoy near-impunity. Ordinary Mongols can appeal to higher authority. Subject peoples have no effective recourse. Wrongs against Mongols are avenged; wrongs by Mongols against subjects are policy.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No indigenous Mongol inquiry tradition. The khanates patronize scholars from subject civilizations — Chinese astronomers, Persian historians, Tibetan monks — but as servants, not as Mongol enterprise. Practical knowledge (warfare, husbandry) is paramount.
+
+__Applied Knowledge & Technical Method:__ Mongol innovations are organizational (decimal system, yam) and tactical (feigned retreat, coordinated maneuver). Technical knowledge — siege engineering, metallurgy, textile production — is acquired from conquered peoples and their deported artisans. Composite bow manufacture is a refined indigenous craft.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is practical: riding, archery, herding from childhood. Elite Mongols learn administration and sometimes literacy. The knowledge stock is thin in theory but deep in military practice. Skills are widely distributed; every Mongol male is a soldier.
+
+__Obsolescence & Knowledge Decay:__ Mongol techniques persist as long as the nomadic way of life. The organizational innovations (yam, decimal system) decay with the empire's fragmentation. Subject knowledge is exploited but not internalized; when subjects depart or die, their skills are lost to the Mongols.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Secret History of the Mongols establishes the mythic charter: descent from a blue-gray wolf and a fallow doe, the destiny of world rule, Genghis Khan as the chosen of Tengri. Genealogical memory anchors identity; the golden lineage is sacred.
+
+__Legitimating Narrative & Ideology:__ The mandate of heaven (Tengri) legitimizes Genghisid rule. Conquest success proves the mandate. The letter to the Pope (1246 CE) articulates the ideology: "If you do not, we know not what will happen; only God knows." Resistance to the khagan is resistance to heaven.
+
+__Artistic Expression & Material Culture:__ Mongol material culture is portable: felt tents (ger), decorated horse gear, gold and silver ornaments, embroidered textiles. Conquest brings wealth; the khaganal court at Karakorum displays plundered treasure. Patronage of subject art (Persian miniatures, Chinese porcelain) enriches the successor khanates.
+
+__Form Exhaustion & Meaning Decay:__ No form exhaustion within this window; the empire is at its creative peak. The mythic charter is fresh, not stale. Decay comes after 1300 CE as the successor khanates assimilate to subject cultures.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Tengriism remains the Mongol religion: sky father (Tengri), earth mother (Etugen), shamanic mediation with spirits. Fate is heaven's will; the warrior dies when his time comes. The khagan is Tengri's chosen, set over the world.
+
+__Ritual, Devotion & Sacred Practice:__ Sacrifice (horses, sheep) accompanies major events. Shamans divine, heal, and intercede with spirits. The funeral of Genghis Khan (1227 CE) involves massive sacrifice and secret burial. Ancestor veneration persists alongside Tengriism.
+
+__Religious Institutions & Doctrinal Authority:__ Shamans are practitioners, not a hierarchy. The Mongols tolerate all religions among subject peoples — Buddhists, Muslims, Christians, Jews — exempting clergy from taxation. This pragmatic tolerance reflects indifference more than ecumenism; the Mongols do not care what subjects believe as long as they obey.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism spreads among the eastern Mongols (Tibet's influence grows after the Sakya alliance); Islam among the western khanates (Berke of the Golden Horde converts circa 1260 CE). Tengriism begins its long displacement but remains dominant among the ruling elite through 1300 CE.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment; the sacred is potent. Mongol success is read as Tengri's favor. Defeats are explained as heavenly chastisement for sin, not as cosmological failure. The religious framework absorbs all outcomes.
+

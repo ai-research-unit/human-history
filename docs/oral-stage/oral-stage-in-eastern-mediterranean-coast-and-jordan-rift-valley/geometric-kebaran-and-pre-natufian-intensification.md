@@ -1,69 +1,140 @@
-# __15000 BCE – 12500 BCE__ — Geometric Kebaran and Pre-Natufian Intensification
-__Summary:__ A 2,500-year trend of subsistence intensification across the Levantine corridor as late glacial warming (Bølling-Allerød) expands Mediterranean woodland and cereal stands, enabling larger, longer-occupied camps and the first systematic plant processing. The binding constraint shifts from cold-season resource scarcity toward labor limits on harvesting and grinding; population aggregation and mortuary elaboration signal rising social density. Margin against climatic reversal remains high, and the direction of change is toward sedentism and delayed-return provisioning.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Levantine corridor runs between the Mediterranean coast and the Syrian-Arabian steppe, with the Mount Carmel ridge, Galilee highlands, and Jordan Rift providing topographic diversity; transit friction is low along the coastal plain and rift floor, higher across upland terrain.<br><br>
-__Climate Regime & Volatility:__ Late glacial warming (Bølling-Allerød interstadial, ~14,700–12,900 BP) brings wetter, warmer conditions; winter rainfall increases, Mediterranean woodland and wild cereal stands expand into previously steppe-dominated zones; interannual variability moderate, secular trend toward amelioration.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity along the Dead Sea Transform remains present but infrequent; flash flooding in wadis a seasonal hazard; no evidence of catastrophic events in this window; margin against acute shocks is high given mobile settlement.<br><br>
-__Resource & Energy Endowment:__ Expanding stands of wild emmer, barley, and oats; abundant gazelle and fallow deer populations; flint nodules in local limestone formations; fuel wood availability increases with woodland spread; drawdown negligible against regenerating stocks.<br><br>
-__Waste Absorption & Sink Capacity:__ Human population density remains low (~0.01–0.1 persons per km²); organic refuse and lithic debitage dispersed across landscape; absorptive capacity effectively unlimited, no detectable degradation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasitic and gastrointestinal infections persist; epidemic disease unlikely at prevailing population densities; background mortality elevated by trauma, infection, and seasonal nutritional stress; trend stable.<br><br>
-__Nutrition & Physiological Vitality:__ Dietary breadth expands with cereal and nut processing; stature and dental health moderately robust in skeletal samples; grinding intensification may increase dental wear; nutritional margin widening with climate amelioration.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Band-level pair bonding and flexible mating; physiological fertility constrained by lactational amenorrhea and seasonal energy balance; no direct evidence of marriage rules; reproductive output likely rising slightly with improved nutrition.<br><br>
-__Demographic Renewal & Density:__ Population density increasing from Kebaran baseline; site size and number grow; replacement ratios positive; migration into the Mediterranean zone from more marginal steppe areas probable.<br><br>
-__Attrition & Dependency Overhang:__ Infant and child mortality remains high; elderly dependents few given life expectancy; dependency load absorbed within band reciprocity; no evidence of structural overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed foraging economy with intensified plant component; wild cereals, legumes, nuts supplement hunting returns; grinding stones and mortars indicate processing investment; household pooling within bands; margin above starvation widening.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains sole power source; fire for cooking, warmth, and possibly landscape management; per-capita energy ceiling unchanged but effective calories from plant foods rising with processing technology.<br><br>
-__Labor Organization & Coercion:__ Task differentiation by age and sex; no coerced labor; cooperative hunting and gathering parties; labor investment in plant processing increasing, possibly gendered toward women.<br><br>
-__Production & Surplus Capacity:__ Seasonal surplus of storable plant foods (parched grain, nuts) emerging; production ceiling still low but trending upward; surplus permits slightly longer site occupation.<br><br>
-__Storage, Reserves & Buffering:__ Ground stone mortars and possible pit features suggest nascent storage; reserves buffered against short-term shortfall but not multi-season failure; depth shallow, improving.<br><br>
-__Exchange, Trade & Logistics:__ Raw material (flint, marine shell, ochre) moves across tens to hundreds of kilometers; exchange embedded in social relations; no specialized traders; logistics limited to human portage.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Deferred reciprocity within and between bands; shell ornaments may carry social value; no unit of account; obligations cleared through return gifts and services.<br><br>
-__Surplus Extraction & Redistribution:__ Band-level sharing norms distribute large kills and harvests; no extractive authority; redistribution immediate and egalitarian.<br><br>
-__Wealth Distribution & Asset Defense:__ Personal goods (ornaments, tools) may signal status but accumulation limited; no defensive hoarding; wealth differences minimal.<br><br>
-__Byproducts & Waste Routing:__ Knapping debris, bone refuse, ash dispersed at site periphery; volume trivial against absorptive capacity; no routing problem.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High within-band trust; reciprocity obligations extend to allied bands; mutual aid networks widen with aggregation events; radius stable or expanding.<br><br>
-__Stratification, Status & Group Identity:__ Egalitarian band structure; status differentiated by skill, age, and personal charisma; no hereditary rank; group identity tied to territory and kin network; boundaries fluid.<br><br>
-__Kinship, Family & Inheritance:__ Bilateral or cognatic kinship probable; flexible residence; inheritance of personal goods only; marriage alliances link bands.<br><br>
-__Civic Association & Self-Organization:__ Band and multi-band aggregation for seasonal harvests and ritual; no formal associations; coordination through kinship and consensus.<br><br>
-__Leisure, Play & Sociability:__ Aggregation events provide contexts for feasting, story, dance, and mate selection; leisure integrated with subsistence rhythm.<br><br>
-__Grievance Channels & Social Discharge:__ Conflict managed through mediation, avoidance, or fission; no third-party enforcement; residual grievance low given mobility options.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous band organization; leadership situational and task-specific; no coercive authority; power dispersed and consensual.<br><br>
-__Succession & Power Transfer:__ Leadership achieved, not inherited; transfer informal, based on demonstrated competence; no routinized succession.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimated by success in hunting, conflict resolution, or ritual knowledge; no explicit political ideology.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination through face-to-face interaction; information held in memory and oral convention.<br><br>
-__Political Participation & Mobilization:__ All adult members participate in collective decisions; mobilization for defense or relocation immediate and consensual.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations managed through kinship, exchange, and seasonal aggregation; territorial boundaries permeable; raiding rare or absent at this density.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing coercive force; hunting weapons (microliths, spears) available but not specialized for warfare; violence interpersonal and episodic.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained by social sanction and gossip; external predation (human or animal) a minor concern; disorder negligible.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral speech and gesture; transmission velocity limited to walking pace and voice range; information spreads across bands at aggregation events.<br><br>
-__Record, Storage & Persistence:__ Memory and oral tradition are the sole storage media; knowledge persists through repeated telling and apprenticeship; no external record; loss occurs with death of knowledgeable individuals.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms embedded in kinship respect and ritual context; no formal censorship; taboo topics vary by group; band is stable.<br><br>
-__Reception, Attention & Amplification:__ Attention captured by skilled orators and ritual performers; amplification limited to face-to-face settings; no mass audience.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission subject to drift and reinterpretation; cross-checking through multiple tellers; noise low at small population scale.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, sharing, and kin obligation form moral baseline; violation provokes collective disapproval; justice is restorative rather than punitive.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding norms transmitted orally as custom and taboo; evolution slow and informal.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes settled by mediation through elders or respected figures; no formal tribunal; liability often collective within kin group; enforcement through social pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy high within band norms; no property rights beyond personal possessions; compliance burden light.<br><br>
-__Impunity & Unredressed Wrong:__ Serious wrongs (murder, theft) may prompt blood feud or exile; most conflicts resolved or avoided; standing impunity minimal.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of plant phenology, animal behavior, stone fracture, and landscape embedded in practice; explanatory paradigms animistic and oral; no formal inquiry tradition.<br><br>
-__Applied Knowledge & Technical Method:__ Geometric microlith production standardized; composite hafting techniques; grinding technology (mortars, pestles) proliferates; heat treatment of flint attested in some assemblages.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through observation and apprenticeship; full repertoire held by experienced adults; skill distribution relatively even across band.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques refined incrementally; obsolete methods fade from practice; knowledge loss possible with demographic collapse but trend is accumulation in this window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestor stories, and landscape memory transmitted orally; identity rooted in territory, kin, and shared myth; foundational stories archaeologically invisible but presumed present.<br><br>
-__Artistic Expression & Material Culture:__ Geometric microliths aesthetically standardized; shell and bone ornaments (beads, pendants) increase; incised stones and ochre use attest to symbolic behavior; burial goods emerging.<br><br>
-__Collective Mood & Behavioral Disposition:__ Climate amelioration and resource abundance likely foster confidence; aggregation events reinforce solidarity; mood inferred as stable to optimistic.<br><br>
-__Form Exhaustion & Meaning Decay:__ Symbolic forms (ornament types, burial practices) elaborating rather than exhausting; no evidence of anomie; cultural vitality high.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic worldview presumed; landscape, animals, and ancestors imbued with agency; existential outlook integrated with subsistence rhythm; no direct textual evidence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Burial practices at sites like Neve David indicate mortuary ritual; possible seasonal ceremonies at aggregation; ritual specialists may emerge but remain informal.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; ritual knowledge held by elders or shamanic figures; authority personal, not doctrinal.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Belief systems diffuse through inter-band contact; regional variants (Mushabian, Geometric Kebaran) may carry distinct traditions; no displacement events attested.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; sacred framework intact and adaptive; spiritual need fully anchored in animistic practice.<br><br>
+# __15,000 BCE – 12,500 BCE__ — Geometric Kebaran and Pre-Natufian Intensification
+
+__Summary:__ Mobile foraging bands across the Eastern Mediterranean Coast and Jordan Rift Valley gradually intensify plant exploitation and begin experimenting with seasonal sedentism as the deglacial warming of the Bolling-Allerod interstadial expands wild cereal stands and stabilizes water sources; spoken language coordinates increasingly complex harvesting schedules, tool-making traditions, and the territorial knowledge passed between generations, while the binding constraint remains the absence of any external record — all planning, technique, and remembered places ride on breath alone.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Levantine corridor runs from the Taurus piedmont to the Sinai, the coastal plain narrowing at Carmel and opening into the Jezreel, the Jordan Rift dropping below sea level at the proto-Dead Sea basin, and Transjordan's plateaus rising to the east; movement follows wadis and ridgelines, with springs and perennial streams anchoring seasonal circuits.
+
+__Climate Regime & Volatility:__ The Bolling-Allerod interstadial brings rising temperatures and increased effective moisture after the Last Glacial Maximum's aridity; winter rains strengthen, evaporation falls, and lake levels in the Jordan Rift stabilize or rise, though interannual variability remains high enough to punish groups that over-commit to a single locality.
+
+__Hazard Regime & Exposure:__ Flash floods in wadis, seasonal drought, and rare seismic tremors along the Rift constitute the main hazards; no permanent structures yet exist, so losses to earthquake remain negligible — the hazard exposure is absorbed by mobility.
+
+__Resource & Energy Endowment:__ Wild stands of emmer, barley, and oats expand on hillslopes as aridity relaxes; gazelle herds flourish in open parkland; chert nodules weather out of Eocene limestone formations, providing the raw material for microlithic industries; fuel wood increases with juniper and oak scrub recovery.
+
+__Waste Absorption & Sink Capacity:__ Population density remains too low and material throughput too modest to stress any sink; organic refuse scatters and decays at campsites, and flint-knapping debitage accumulates but poses no feedback hazard; the physical residue is negligible.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Small, dispersed bands limit epidemic transmission; endemic parasites and enteric illness from uncertain water remain the chief morbidity load, but mortality is driven more by trauma, childbirth, and lean-season starvation than by infectious outbreaks.
+
+__Nutrition & Physiological Vitality:__ Improved moisture conditions increase caloric yield from plant gathering; dental wear from grinding wild cereals appears, suggesting heavier reliance on starchy seeds — bodies are robust and moderately well-nourished when resources are available, but still subject to seasonal shortfalls.
+
+__Care, Healing & Recovery Capacity:__ Wound treatment and bone-setting rely on accumulated oral lore transmitted within the band; no specialized healing role is yet archaeologically visible, though healed fractures in Kebaran burials imply some care of the injured.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding within band structures governs mating; reproductive output is constrained by mobility — birth spacing likely remains long to permit infant carrying; alliance marriages between bands maintain gene flow across the region.
+
+__Demographic Renewal & Density:__ Population grows slowly as resource conditions improve, but overall density remains low — perhaps a few thousand people scattered across the entire Levantine corridor; camps of fifteen to thirty individuals represent the modal residential unit.
+
+__Attrition & Dependency Overhang:__ Few individuals survive to advanced age; the dependency load is modest, and the productive cohort absorbs it without visible strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The subsistence base combines hunting (gazelle, deer, ibex), gathering (wild cereals, nuts, tubers), and opportunistic fishing at lakeshores like Ohalo II; seasonal rounds track resource pulses, ensuring the provisioning floor rarely falls catastrophically except in unusual drought years.
+
+__Energy Capture & Conversion:__ Human muscle powers all activity; fire is the sole extra-somatic energy source, used for cooking, warmth, and hardening tool hafts; no animal traction or wind capture exists.
+
+__Labor Organization & Coercion:__ Labor is organized by sex and age within the band; cooperation is kin-based and voluntary — coercion is minimal, and task specialization beyond hunting versus gathering remains undifferentiated.
+
+__Production & Surplus Capacity:__ Production barely exceeds immediate consumption; grinding equipment (basalt mortars, pestles) appears, enabling storage-ready flour from wild grains, but systematic surplus accumulation is not yet evident.
+
+__Storage, Reserves & Buffering:__ Caching of nuts and dried seeds in pit features begins to appear at some Geometric Kebaran sites, prefiguring later storage economies; reserves buffer a single lean season at best, and no debt instruments or pooled risk structures exist.
+
+__Exchange, Trade & Logistics:__ Shell beads from the Mediterranean reach inland sites, and high-quality chert circulates among bands, implying exchange networks spanning hundreds of kilometers; logistics follow foot travel along established routes remembered and transmitted orally.
+
+__Value Storage, Credit & Deferred Exchange:__ No currency or standardized unit of account exists; deferred reciprocity — the obligation to share meat today against future returns — functions as proto-credit, maintained entirely in memory and speech.
+
+__Surplus Extraction & Redistribution:__ No centralized extraction occurs; sharing norms redistribute large kills across the band, enforced by reputation and oral sanction rather than formal levy.
+
+__Wealth Distribution & Asset Defense:__ Personal property is limited to portable tools, ornaments, and clothing; differential accumulation is minimal, and defense consists of carrying valued items during movement.
+
+__Byproducts & Waste Routing:__ Bone, ash, and knapping waste scatter at campsites; no toxic or persistent byproducts are produced, and waste poses no economic or environmental feedback.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The band is structured around bilateral kin ties; inheritance, where it applies, passes portable goods to offspring or siblings; marriage rules likely prescribe exogamy to maintain inter-band alliances.
+
+__Association & Mutual Aid:__ Bands aggregate seasonally at resource-rich localities (lakeshores, nut groves), enabling information exchange, mate selection, and collective rituals; mutual aid beyond the band is governed by reciprocal obligations remembered orally.
+
+__Leisure, Play & Sociability:__ Evenings at the campfire provide the forum for storytelling, singing, and the transmission of geographic and technical knowledge; play among children rehearses adult skills; shared meals reinforce social bonds.
+
+__Stratification, Status & Group Structure:__ Status differentiation is minimal and largely achieved through hunting prowess, knowledge, or age; no hereditary rank or class division is visible; factional blocs do not exist at this scale.
+
+__Administrative Capacity & Institutional Integrity:__ No formal offices or bureaucracy exist; leadership is situational, with skilled hunters or elders guiding decisions through persuasion; administrative capacity is coterminous with the memory of the leading figures.
+
+__Coercive Apparatus & Means of Force:__ Weapons are hunting tools — microliths hafted as projectile armatures, bone points, clubs; no specialized warrior class or organized coercion exists; inter-group violence is episodic and personal, resolved by avoidance or negotiation.
+
+__Discharge, Disorder & Decay:__ Social friction is low at this scale; disputes dissipate through fission (disaffected members leave to join another band) or oral mediation; no standing grievance or structural exclusion accumulates.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence rises with improving resource conditions; the prevailing mood is pragmatic and alert, shaped by the need to read weather, animal behavior, and the intentions of neighbors; interpersonal trust is high within the band, lower toward strangers.
+
+__Leadership & Personal Authority:__ Authority attaches to individuals who demonstrate skill and generosity; personal charisma secures followership, but no permanent office or title exists — leaders must continually earn allegiance through performance.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on demonstrated competence and adherence to sharing norms; a leader who hoards or fails loses standing immediately; no doctrine of inherited right exists.
+
+__Political Will & Collective Resolve:__ The band musters collective will for communal hunts, seasonal moves, and defense against predators or hostile strangers; resolve is summoned ad hoc through speech and example rather than institutional mandate.
+
+__External Relations & Posture:__ Relations with neighboring bands are generally peaceful, mediated by marriage exchange and shared ritual gatherings; territorial boundaries are fluid and defended only when resources are scarce; no standing enmity or alliance hierarchy exists.
+
+__Disaffection, Apathy & Spent Will:__ Exhaustion and disaffection are rare; small-scale society permits exit over voice, and dissatisfied individuals simply relocate — the emotional residue does not accumulate.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is fully developed, enabling complex reference to absent objects, past events, and hypothetical futures; all band members share the code, though neighboring bands may speak related but distinct dialects.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of human walking and speaking; seasonal aggregations accelerate inter-band transmission; no written or graphic channel exists — all messages are vocal or gestural.
+
+__Record, Storage & Persistence:__ Memory is the sole archive; geographic knowledge, kinship genealogies, and technical procedures persist only as long as they are rehearsed and handed down; a single generation's failure to transmit erases the record.
+
+__Framing, Censorship & Discourse Norms:__ No formal censorship exists, but oral tradition carries implicit norms — boasting, lying, and breach of secrecy around ritual knowledge incur social sanction; discourse is shaped by the expectation of face-to-face accountability.
+
+__Reception, Attention & Amplification:__ Attention clusters around skilled storytellers and elders; important information is amplified through repetition at gatherings; noise is low because the information load is modest and socially curated.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift over generations, but redundancy (multiple transmitters, repetition) limits catastrophic loss; no surveillance apparatus exists; the noise residue is the slow mutation of tradition.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice centers on reciprocity, generosity, and kin loyalty; hoarding and betrayal are the cardinal wrongs; the sense of fairness is immediate and enforced by reputation and ostracism.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; binding rules are encoded in oral custom and transmitted as precedent — the story of past punishments stands in for statute.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by consensus among elders; liability attaches to individuals, with compensation (meat, tools, labor) restoring balance; sanctions range from ridicule to expulsion.
+
+__Rights, Protections & Compliance Burden:__ Individual rights to a share of band resources are protected by custom; compliance burden is low because rules are few and internalized from childhood.
+
+__Impunity & Unredressed Wrong:__ Impunity is difficult in a small, face-to-face society; wrongdoers are known, and redress through compensation or exclusion is swift — the gap between justice owed and delivered is narrow.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of the natural world is embedded in oral tradition — seasonal cycles, animal behavior, plant phenology — without formalized theory; explanation is narrative and mythological.
+
+__Applied Knowledge & Technical Method:__ Lithic reduction sequences for microliths, hafting techniques, fire management, and plant processing (grinding, roasting) represent accumulated applied knowledge, transmitted by demonstration and verbal instruction.
+
+__Education, Knowledge Stock & Skill Distribution:__ Learning occurs through apprenticeship within the band; all adults share a common knowledge stock; specialization is incipient at most — certain individuals may excel at knapping or tracking, but exclusivity is weak.
+
+__Obsolescence & Knowledge Decay:__ Superseded techniques are not formally purged; they simply fall out of use as more effective methods spread; the main risk is generational loss if transmission fails — the residue is forgetting.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin stories, ancestral spirits, and place-based narratives anchor collective identity; the band's memory of migration routes and former campsites constitutes a lived geography inseparable from myth.
+
+__Legitimating Narrative & Ideology:__ No formal ideology justifies hierarchy, because hierarchy is minimal; legitimacy derives from demonstrated adherence to sharing norms and the wisdom of elders.
+
+__Artistic Expression & Material Culture:__ Geometric microliths — lunates, trapezoids, triangles — represent both functional tools and stylistic markers; shell beads indicate personal adornment; no monumental art survives, but perishable expression (song, body paint, tattooing) is inferred from later evidence.
+
+__Form Exhaustion & Meaning Decay:__ Cultural forms are not yet under strain; innovation continues as new microlith types appear, and oral tradition remains vital — no anomie or symbolic exhaustion is visible.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is populated by spirits of animals, ancestors, and places; human fate is intertwined with these forces, and propitiation through ritual ensures success in hunting and health in the band; fatalism coexists with practical agency.
+
+__Ritual, Devotion & Sacred Practice:__ Burial of the dead with grave goods (shells, ochre) attests to ritual treatment of the body; seasonal gatherings likely include collective ceremonies whose details are unrecoverable; daily devotion is embedded in hunting magic and food taboos.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood or temple exists; ritual knowledge is held by elders or individuals with reputation for spiritual power; doctrine is fluid, maintained orally, and varies across bands.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Belief systems diffuse through inter-band contact at aggregation sites; syncretism is the norm — neighboring bands share overlapping cosmologies, and no exclusive orthodoxy competes for dominance.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains vital and unquestioned; disenchantment does not register as a phenomenon — the spiritual residue is nil.
+

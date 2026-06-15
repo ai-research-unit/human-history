@@ -1,69 +1,139 @@
-# __3200 BCE – 2900 BCE__ — Uruk Expansion and Proto-Cuneiform Emergence
-__Summary:__ Southern Mesopotamia witnesses the first urbanization on a monumental scale as Uruk dominates the alluvial plain through temple-centered redistribution, while proto-cuneiform emerges as the world's earliest known writing system to track economic flows. The binding constraint is labor coordination at population densities outrunning oral memory, driving the invention of external record-keeping. The system holds moderate margin through granary reserves but remains exposed to irrigation failure. The direction of change is rapid institutional complexification, with writing expanding from pictographic tokens toward a recombinable sign inventory.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Flat alluvial plain between Tigris and Euphrates, navigable waterways reducing transport friction, natural levees providing settlement sites, southern marshlands merging into Persian Gulf; terrain favors irrigation agriculture and water-borne trade but lacks stone, timber, and metal.<br><br>
-__Climate Regime & Volatility:__ Semi-arid subtropical regime with hot summers exceeding 40C, winter rainfall under 200mm insufficient for dry farming, interannual variability moderate; no secular drift detected within the window though slight warming may follow late fourth-millennium optimum.<br><br>
-__Hazard Regime & Exposure:__ Flood risk from spring snowmelt in upstream highlands, channel avulsion threatening canal alignments, localized drought from irrigation shortfall; seismic exposure low; infrastructure holds margin against typical floods but major avulsion can strand settlements.<br><br>
-__Resource & Energy Endowment:__ Exceptionally fertile silt replenished by annual floods, abundant reeds and fish from marshes, bitumen seeps available; stone, copper, and timber entirely absent, requiring long-distance import from highlands and Gulf; drawdown negligible against replenishing alluvium.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density relative to landscape; agricultural runoff and settlement refuse absorbed without visible saturation; salinization from irrigation begins but remains localized and manageable within the window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic waterborne and parasitic disease from irrigation canals and marshes; malaria likely present; infant mortality elevated but adult survival adequate for population growth; no epidemic rupture documented in archaeological record.<br><br>
-__Nutrition & Physiological Vitality:__ Cereal-based diet supplemented by fish, dates, and legumes provides adequate calories; skeletal evidence suggests moderate stature without severe deficiency markers; nutritional status stable or slightly improving with urban surplus.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal kinship inferred from later textual parallels; pair-bonding patterns obscure but temple personnel may include dedicated female laborers with restricted reproduction; biological fertility unconstrained by known factors.<br><br>
-__Demographic Renewal & Density:__ Population expanding, Uruk reaching 40,000-80,000 inhabitants by 3100 BCE, unprecedented urban density; replacement ratios positive; migration from hinterland into urban center accelerating; carrying ceiling not yet approached.<br><br>
-__Attrition & Dependency Overhang:__ Limited evidence; temple economy likely absorbs orphans and dependents through institutional labor allocation; dependency load manageable within redistributive framework.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Temple-administered granaries buffer household subsistence; barley and emmer wheat staples distributed through ration system; beveled-rim bowls suggest standardized daily allotments; floor secure for those within institutional network.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle primary motive power; oxen for plowing, donkeys for transport; fire for pottery kilns and metallurgy (copper imported); per-capita energy modest but sufficient for monumental construction through massed labor.<br><br>
-__Labor Organization & Coercion:__ Temple labor pools coordinate thousands of workers receiving rations; degree of coercion uncertain but institutional dependency creates structural compulsion; specialization emerging in pottery, textiles, and metalwork.<br><br>
-__Production & Surplus Capacity:__ Irrigated agriculture yields substantial grain surplus; textile workshops produce exportable woolens; pottery mass-produced; surplus sufficient to support non-agricultural specialists comprising perhaps 20-30% of urban population.<br><br>
-__Storage, Reserves & Buffering:__ Centralized temple granaries hold multi-year reserves; accounting tablets track inflows and outflows; buffering capacity adequate against single-year shortfall but vulnerable to consecutive failures.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade networks bring copper, stone, and timber from Anatolia, Iran, and Gulf; Uruk colonies or trading posts established at distant sites; internal exchange largely redistributive rather than market-based.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No coinage; value measured in barley and silver equivalents; temple accounts record obligations and credits; reciprocal labor debts serve as proto-credit; deferred exchange systematized through tablet records.<br><br>
-__Surplus Extraction & Redistribution:__ Temple collects agricultural output and redistributes as rations, materials, and ritual provisions; extraction mechanism is labor obligation rather than taxation; load appears accepted within institutional legitimacy.<br><br>
-__Wealth Distribution & Asset Defense:__ Emerging stratification visible in burial goods and residential scale; temple elite accumulating differential access; private property poorly attested but developing; asset defense through institutional affiliation.<br><br>
-__Byproducts & Waste Routing:__ Kiln ash, pottery sherds, organic refuse accumulating in settlement middens; irrigation return flow carrying salts to lower fields; waste volume low relative to landscape absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends through temple affiliation and kin networks; reciprocity enforced by institutional oversight and repeated interaction; mutual aid embedded in ration redistribution; trust fabric thickening with record-keeping.<br><br>
-__Stratification, Status & Group Identity:__ Three-tier hierarchy emerging: temple elite, skilled specialists, agricultural laborers; status marked by access to seals, decorated goods, and residential location; boundaries fluid but hardening as institutions consolidate.<br><br>
-__Kinship, Family & Inheritance:__ Extended patrilineal households inferred; inheritance patterns obscure but property likely transmitted within kin groups; temple labor may partially detach individuals from kin obligations.<br><br>
-__Civic Association & Self-Organization:__ Sub-temple craft guilds and neighborhood groupings likely coordinate local affairs; assembly traditions possibly present though poorly attested; associational density increasing with urban scale.<br><br>
-__Leisure, Play & Sociability:__ Cylinder seals depict banqueting, music, and ritual gatherings; taverns possibly emerging; game boards found archaeologically; festive calendar tied to agricultural and temple cycles.<br><br>
-__Grievance Channels & Social Discharge:__ Temple hierarchy mediates disputes; ritual occasions provide discharge; ration system absorbs economic grievance; unmetabolized friction low but rising complexity may outpace informal channels.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Temple-centered polity with EN (lord/priest) as probable apex authority; collective council may advise; power concentrated in religious-economic institution rather than secular kingship; centralizing trend within Uruk.<br><br>
-__Succession & Power Transfer:__ Mechanism obscure; possibly selection within temple elite or hereditary priestly lineages; no documented succession crisis within window; transfer appears routinized within institutional framework.<br><br>
-__Legitimacy & Political Narrative:__ Authority grounded in divine mandate and temple stewardship of divine household; Inanna cult central to Uruk identity; legitimacy narrative tied to cosmic order and agricultural prosperity.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Proto-cuneiform tablets enable unprecedented administrative reach; labor allocation, inventory control, and disbursement systematically tracked; capacity expanding rapidly; corruption potential emerges with record complexity.<br><br>
-__Political Participation & Mobilization:__ Elite councils may debate policy; broader participation limited; no evidence of popular mobilization or organized dissent; political voice restricted to institutional insiders.<br><br>
-__Geopolitical Position & External Relations:__ Uruk dominates southern Mesopotamia; Uruk Expansion projects influence to Syria, Anatolia, and Iran through colonies or emulation; no peer competitor within region; external relations primarily commercial.<br><br>
-__Coercive Apparatus & Means of Force:__ Organized military capacity poorly attested; defensive walls present; weapons include copper daggers and maces; force likely concentrated in temple-affiliated retainers; external threats minimal.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder low; institutional integration absorbs potential conflict; banditry possible in hinterland but urban core secure; enforcement capacity adequate for population scale.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication primary for daily affairs; proto-cuneiform tablets transmit administrative data across institutional distance; reach limited to literate scribes within temple; velocity constrained by physical transport.<br><br>
-__Record, Storage & Persistence:__ Clay tablets baked or sun-dried survive millennia; archives accumulate within temple precincts; records persist beyond individual memory; first systematic external storage in human history; retrieval organized by physical location.<br><br>
-__Framing, Censorship & Discourse Norms:__ Writing serves institutional purposes exclusively; no narrative or personal expression; discourse norms embedded in bureaucratic format; censorship not applicable to economic records.<br><br>
-__Reception, Attention & Amplification:__ Reception limited to trained scribes; no public readership; amplification through institutional hierarchy as decisions propagate; attention concentrated on administrative priorities.<br><br>
-__Signal Integrity & Noise Load:__ Numerical and pictographic system reduces ambiguity; standardized sign forms limit copying errors; noise load low; verification through cross-referencing accounts; signal integrity high for functional purposes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity and proportionality inferred as baseline norms; divine oversight assumed; fairness tied to fulfilling obligations within institutional framework; sense of justice embedded in cosmic order.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law codes yet exist; unwritten customary norms govern conduct; temple regulations emerging as implicit rules; codification lies two centuries ahead.<br><br>
-__Adjudication, Enforcement & Liability:__ Temple authority adjudicates disputes; elders or priests serve as arbiters; enforcement through institutional sanction including ration withholding; liability assigned within temple accounting framework.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights concept absent; protections derive from institutional membership; compliance burden rising with administrative complexity but accepted within redistributive bargain.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity likely; limited recourse for laborers against institutional authority; unredressed wrongs absorbed within kin or neighborhood; gap between owed and delivered justice small relative to later periods.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Practical observation drives agricultural and craft knowledge; theoretical inquiry absent; paradigm is empirical tradition transmitted through apprenticeship; no formal investigation of natural world.<br><br>
-__Applied Knowledge & Technical Method:__ Advanced irrigation engineering, pottery production, metallurgical technique for copper, cylinder seal carving, monumental architecture; methods transmitted through demonstration and repetition.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal training emerging within temple; knowledge stock accumulating in oral tradition and proto-cuneiform records; literacy restricted to perhaps 1-2% of population; skill concentrated in specialist guilds.<br><br>
-__Obsolescence & Knowledge Decay:__ Oral transmission subject to generational loss; proto-cuneiform records now externalize some knowledge; decay rate slowing as writing spreads; superseded techniques persist alongside new ones.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Inanna as divine patron of Uruk; creation narratives developing; foundational identity tied to city as divine household; collective memory maintained through ritual recitation and temple iconography.<br><br>
-__Artistic Expression & Material Culture:__ Cylinder seals with narrative scenes, sculpted votive figures, monumental temple architecture including the White Temple on ziggurat platform; aesthetic emphasizes divine presence and institutional grandeur.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence in institutional capacity; expansive mood evident in colonial outreach and monumental building; risk tolerance high; behavioral temper oriented toward collective enterprise.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms fresh and vital; proto-cuneiform signs still closely tied to referents; rituals actively meaningful; no exhaustion detected; symbolic repertoire expanding rather than hollowing.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmos with divine powers controlling natural and social order; gods require service through temple cult; human purpose is divine service; fate determined by divine will; outlook pious rather than anxious.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily offerings, seasonal festivals, lustration rites; temple as divine residence requiring feeding, clothing, and attendance; ritual calendar tied to agricultural cycle; devotion institutionalized.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple complex as central institution; EN and priestly hierarchy hold doctrinal authority; orthodoxy consolidated through ritual practice rather than written creed; no competing institutions.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Uruk cult spreading with commercial expansion; local deities incorporated into pantheon; no displacement of existing beliefs but absorption and synthesis; reach expanding with Uruk influence.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred fully integrated into daily life through temple economy; transcendence immediate in divine presence within cult statues; existential void absent; spiritual need fully anchored.<br><br>
+# __3200 BCE – 2900 BCE — Uruk Expansion and Proto-Cuneiform Emergence__
+
+__Summary:__ The city of Uruk, reaching 250 hectares and perhaps 40,000 inhabitants, pioneers the externalization of accounting onto clay tablets, crossing the threshold from oral memory to persistent record; the binding constraint is the temple economy's administrative overload, which drives the invention of proto-cuneiform as the first systematic external memory system and inaugurates the manuscript stage in human history.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The southern Mesopotamian alluvium lies between the Tigris and Euphrates, a flat plain of silt deposits where overland movement meets minimal friction but where settlement depends entirely on managed water; Uruk sits on the Euphrates branch system, with canal networks radiating outward; the distance from Uruk to the northern rainfall zone and to the Iranian highlands creates distinct ecological boundaries crossed by trade routes carrying metals, stone, and timber absent from the alluvium.
+
+__Climate Regime & Volatility:__ Hot-arid subtropical climate with negligible summer rainfall; spring floods from Anatolian snowmelt arrive between April and June, timing misaligned with the autumn planting cycle; interannual flood variability is high, with some years bringing destructive surges and others insufficient flow; the period sits within a relatively favorable climatic window, though aridification pulses recur.
+
+__Hazard Regime & Exposure:__ Flood hazard dominates, with uncontrolled inundation capable of destroying fields and breaching levees; salinization from repeated irrigation accumulates in lower-lying plots; the alluvium is tectonically stable but dust storms and extreme summer heat impose physiological limits on outdoor labor.
+
+__Resource & Energy Endowment:__ The alluvium lacks stone, metal ores, and timber; clay for bricks and tablets is unlimited; bitumen seeps near Hit provide waterproofing material; date palms, reeds, and fish are abundant; the resource base is narrow but supports intensive agriculture where irrigation is managed; imports of copper, obsidian, lapis lazuli, and timber flow from Anatolia, Iran, and the Gulf.
+
+__Waste Absorption & Sink Capacity:__ Salt accumulates in irrigated soils over decades, degrading yields; organic waste and canal silting require continuous maintenance; the sink absorbs current loads but the long-term trajectory of salinization is negative; no saturated threshold reached in this window.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Dense population in Uruk creates conditions for endemic gastrointestinal disease and respiratory infection; waterborne pathogens spread through canal-dependent drinking supplies; infant mortality is high; adult mortality from disease, accident, and periodic famine is substantial but the population sustains itself.
+
+__Nutrition & Physiological Vitality:__ Barley and date provide caloric staples; fish, sheep, and goat supply protein; the ration system documented in later proto-cuneiform tablets suggests managed subsistence distribution; nutritional adequacy depends on harvest success; skeletal evidence from comparable sites shows moderate physiological stress but functional vitality for labor demands.
+
+__Care, Healing & Recovery Capacity:__ Healing practices are embedded in temple and household contexts; midwifery, wound care, and herbal remedies operate at the folk level; no specialized medical profession is yet documented; recovery capacity is limited but adequate for a population that is growing.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair bonding and household formation follow patrilineal patterns; reproductive capacity is biologically high; early marriage and multiple births are the norm; selective pressures favor disease resistance and heat tolerance.
+
+__Demographic Renewal & Density:__ Uruk's population reaches densities unprecedented in human settlement, estimated at 40,000 within a 250-hectare walled area, with surrounding hinterland populations drawn into the urban economy; birth rates exceed death rates; the demographic trajectory is expansionary, with satellite settlements and colonies extending Uruk's reach into Syria and Iran.
+
+__Attrition & Dependency Overhang:__ High infant and child mortality removes dependents early; aged dependents are few given low life expectancy; the productive cohort dominates the demographic profile; dependency load is manageable.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Irrigated barley agriculture provides the subsistence base; date cultivation and animal husbandry supplement grain; fishing in canals and marshes contributes protein; the provisioning floor sits above crisis for most years but remains vulnerable to flood failure or canal breakdown.
+
+__Energy Capture & Conversion:__ Human muscle, supplemented by oxen for plowing and donkeys for transport, provides all motive power; fire for pottery, baking, and metallurgical processing; water flow in canals is harnessed for irrigation but not for mechanical work; per capita energy capture is low but sufficient for monumental construction through labor mobilization.
+
+__Labor Organization & Coercion:__ Temple institutions organize labor through a mixed system of attached workers receiving rations, corvée obligations from the broader population, and some dependent labor approaching servitude; coercion operates through ration control and institutional obligation rather than chattel slavery; labor is highly specialized, with distinct categories for farmers, herders, fishers, weavers, potters, and metalworkers.
+
+__Production & Surplus Capacity:__ Surplus production supports monumental architecture, craft specialization, and a non-producing administrative class; the Eanna temple precinct accumulates grain, wool, and finished goods; surplus is sufficient to finance long-distance expeditions and colonies; the economy is in an expansionary phase.
+
+__Storage, Reserves & Buffering:__ Temple granaries hold multi-year reserves; the proto-cuneiform tablets track inventory precisely because storage management is critical; buffering capacity is substantial for normal variation but would strain under multi-year drought or flood failure.
+
+__Exchange, Trade & Logistics:__ Long-distance trade networks reach the Iranian plateau, the Gulf, Anatolia, and Syria; Uruk colonies at Habuba Kabira and elsewhere serve as trade outposts; donkey caravans and river boats move goods; exchange operates through temple redistribution and direct reciprocity; no standardized currency, but silver and barley serve as value measures.
+
+__Value Storage, Credit & Deferred Exchange:__ Proto-cuneiform tablets record quantities of goods owed, received, and disbursed; credit and debt emerge as temple-managed accounts track deferred obligations; the tablet itself becomes a record of value across time, the first persistent ledger.
+
+__Surplus Extraction & Redistribution:__ Temples extract surplus through harvest shares, labor obligations, and control of herds; redistribution flows back as rations to attached workers and as support for festivals and construction; the extraction rate is high but legitimated through religious authority.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in temple institutions rather than individual households; some elite graves show personal accumulation of prestige goods; land tenure is institutionally controlled; defense of holdings operates through temple authority rather than private force.
+
+__Byproducts & Waste Routing:__ Agricultural waste is recycled as fuel and animal feed; pottery production creates durable refuse; canal maintenance generates silt deposits requiring removal; waste routing is managed but not systematized.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal households form the basic social unit; inheritance passes through male lines; marriage creates alliances between households; kinship obligations structure mutual aid below the institutional level.
+
+__Association & Mutual Aid:__ Temple affiliation creates solidarity networks beyond kinship; neighborhood and craft associations emerge in the urban density; mutual aid operates through kin and temple channels; the fabric is thickening as urban complexity increases.
+
+__Leisure, Play & Sociability:__ Festivals organized by temples provide collective leisure; beer distribution accompanies ritual occasions; gaming and music are documented in material culture; sociability is channeled through religious and neighborhood gatherings.
+
+__Stratification, Status & Group Structure:__ A clear hierarchy emerges between temple administrators, craft specialists, agricultural workers, and dependent laborers; status is marked by access to prestige goods, proximity to temple centers, and exemption from manual labor; stratification is hardening as the administrative class consolidates.
+
+__Administrative Capacity & Institutional Integrity:__ The temple administration, centered on the Eanna precinct, demonstrates unprecedented administrative capacity; proto-cuneiform tablets document ration distributions, herd management, land allocation, and labor deployment; the administrative apparatus is competent within its scope but operates through personal authority of temple officials; corruption is not yet documented but institutional integrity depends on the legitimacy of religious authority.
+
+__Coercive Apparatus & Means of Force:__ Military organization is embryonic; defensive walls suggest external threat; the temple controls the community but relies more on economic integration and religious authority than organized violence; no standing army exists; conflict between cities is emerging but not dominant.
+
+__Discharge, Disorder & Decay:__ Social friction from stratification is absorbed through ration distribution and festival participation; the excluded are few in a labor-hungry economy; disorder is minimal in this expansionary phase; the apparatus is new and not yet ossified.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The mood is expansionary, confident in the temple's capacity to provision and protect; interpersonal trust extends through kin and temple networks; the behavioral temper is acquisitive and innovative, driving trade expeditions and colonial ventures.
+
+__Leadership & Personal Authority:__ Temple priests (en) exercise leadership through religious office; personal authority derives from intermediation with the gods and control of surplus; political kingship (lugal) has not yet separated from temple authority; leadership is institutional rather than charismatic.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to the temple as the source of subsistence, protection, and access to the gods; legitimacy is high; dissent is not documented and is structurally limited by dependence on temple rations.
+
+__Political Will & Collective Resolve:__ Collective action capacity is demonstrated by monumental construction, canal maintenance, and long-distance expeditions; the will to expand is active; internal competition for power is not yet visible in the record.
+
+__External Relations & Posture:__ Uruk's posture is expansionary, establishing colonies and trade networks across the region; relations with other centers are competitive but not yet militarized; the appetite for resources and prestige drives outward reach.
+
+__Disaffection, Apathy & Spent Will:__ No evidence of widespread disaffection; will is active and engaged; exhaustion does not characterize this early phase.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Sumerian provides the shared code; proto-cuneiform is restricted to a tiny literate elite within temple administration; most of the population is excluded from the written code; mutual intelligibility in speech is high within the community.
+
+__Channels & Transmission Velocity:__ Information travels by voice within the city, by messenger over distances; transmission velocity is limited to walking or donkey pace; the channel reach is sufficient for the scale of operations but slow by later standards.
+
+__Record, Storage & Persistence:__ Proto-cuneiform on clay tablets creates the first systematic external memory; tablets are stored in temple archives; the record persists beyond the recorder's memory, can be consulted by others, and accumulates into an institutional memory exceeding any individual's capacity; this is the manuscript stage's defining innovation.
+
+__Framing, Censorship & Discourse Norms:__ Proto-cuneiform records are administrative, not literary; framing is institutional, tracking quantities and names rather than arguments; censorship is not relevant to numerical accounts; discourse norms are set by temple conventions.
+
+__Reception, Attention & Amplification:__ The audience for proto-cuneiform is exclusively administrative; amplification operates through oral proclamation at festivals; attention is directed by temple authority.
+
+__Signal Integrity & Noise Load:__ The proto-cuneiform system achieves high signal integrity for quantities and commodities; noise is low because the recording conventions are standardized; verification operates through cross-checking of accounts.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is embedded in temple authority and divine order; fairness in ration distribution is an implicit standard; reciprocity and obligation structure moral expectations; theft and fraud are wrongs, redressed through institutional authority.
+
+__Law, Codification & Regulatory Evolution:__ No written law codes exist yet; regulation operates through temple custom and oral precedent; binding norms are unwritten but understood within the community.
+
+__Adjudication, Liability & Sanction:__ Disputes are resolved by temple officials exercising personal judgment; sanctions include loss of rations, exclusion, and corporal punishment; adjudication keeps pace with the limited caseload.
+
+__Rights, Protections & Compliance Burden:__ Rights are not formalized; protections flow from temple membership and kin obligations; compliance burden is embedded in labor and ration obligations rather than articulated rules.
+
+__Impunity & Unredressed Wrong:__ Impunity for temple officials is structurally high given their role as judges; redress capacity is limited by dependence on the same institution; the gap is not yet perceived as a grievance.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Practical knowledge of irrigation, agriculture, astronomy, and craft production is substantial; theoretical inquiry operates through religious cosmology; the paradigm is mythological, with the gods as causal agents.
+
+__Applied Knowledge & Technical Method:__ Proto-cuneiform represents a major technical innovation; potter's wheel, bronze metallurgy, irrigation engineering, and monumental construction demonstrate advanced applied knowledge; method is empirical and transmitted through apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge is transmitted through family and temple training; literacy is restricted to a tiny specialist class; craft skills are distributed through specialized workshops; the knowledge stock is growing as specialization deepens.
+
+__Obsolescence & Knowledge Decay:__ The proto-cuneiform system is new and evolving; older accounting methods (tokens, bullae) are becoming obsolete; no significant knowledge decay is evident in this innovative phase.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Uruk's identity centers on the Eanna temple complex and the goddess Inanna; origin narratives are embedded in oral tradition; the city itself is a sacred landscape expressing divine order; collective memory operates through ritual and oral transmission.
+
+__Legitimating Narrative & Ideology:__ The order is legitimated by divine mandate; the temple exists to serve the gods, and the population serves the temple; hierarchy is natural and sanctified; this narrative is uncontested.
+
+__Artistic Expression & Material Culture:__ Monumental architecture reaches new scale with the Eanna precinct's terraces and halls; cylinder seals create miniature art with administrative function; sculpture, pottery, and textile production are sophisticated; the visual vocabulary emphasizes religious iconography, hierarchical scale, and geometric order.
+
+__Form Exhaustion & Meaning Decay:__ Forms are fresh and potent; no exhaustion is evident; the cultural vocabulary is being invented rather than depleted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The gods created humans to serve them; the world is ordered by divine will; human fate is in divine hands; the existential outlook accepts hierarchy and submission to divine and institutional authority; fatalism is moderate, balanced by active propitiation.
+
+__Ritual, Devotion & Sacred Practice:__ Daily offerings, monthly festivals, and annual celebrations structure religious life; the temple is the house of the god, requiring constant service; devotional labor is both obligation and privilege.
+
+__Religious Institutions & Doctrinal Authority:__ The temple institution is the dominant social structure; priests hold doctrinal authority; orthodoxy is consolidated around the Inanna cult at Eanna and city gods elsewhere; no significant doctrinal contestation is evident.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sumerian religious practice spreads with Uruk's colonies and trade networks; local traditions are absorbed into an expanding Sumerian framework; the direction is outward diffusion from the core.
+
+__Disenchantment & Sacred Discharge:__ The sacred is fully potent; no disenchantment is evident; the temple's grip on meaning is complete.

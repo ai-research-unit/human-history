@@ -1,69 +1,139 @@
-# __2181 BCE – 2055 BCE__ — First Intermediate Period and Regional Fragmentation
-__Summary:__ A long-term trend of political decentralization and regional autonomy following the collapse of Old Kingdom central authority, spanning roughly 126 years until Theban reunification. The binding constraint is the absence of effective central coordination, leaving provincial nomarchs as the primary loci of power, taxation, and record-keeping. The system retains substantial margin in agricultural productivity and scribal infrastructure but lacks the political integration to mobilize resources at scale; the direction of change moves from fragmentation toward eventual southern reconsolidation.<br><br>
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor from the First Cataract to the Delta remains the defining axis — a narrow floodplain averaging 10–20 km wide flanked by desert, with cataracts impeding southward transit and marshes complicating Delta movement; provincial boundaries now function as harder political barriers than under centralized rule.<br><br>
-__Climate Regime & Volatility:__ Evidence suggests increased aridity and possibly lower Nile floods toward the late Old Kingdom, contributing to subsistence stress; interannual flood variability remains the critical determinant of harvest success, and the period may coincide with broader 4.2 kiloyear climate event drying.<br><br>
-__Hazard Regime & Exposure:__ Low Nile floods constitute the primary hazard, with consecutive failures capable of inducing famine; provincial granaries now buffer locally rather than through centralized redistribution, reducing resilience to multi-regional shortfalls.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils renewed annually by inundation remain productive where floods suffice; stone quarries, gold sources in Nubia, and copper from Sinai persist but extraction depends on local rather than royal mobilization.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and domestic waste remains negligible relative to the floodplain's absorptive capacity; no significant sink saturation evident for this low-density agrarian system.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasitic infections (schistosomiasis, intestinal parasites) persist as baseline mortality factors; no documented epidemic outbreaks for this window, though famine-related mortality spikes are attested in literary sources.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional status variable by region and flood success; literary texts reference hunger and want, suggesting episodic subsistence stress particularly in areas of failed floods or disrupted redistribution.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage and household formation continue under established Egyptian norms; no evidence of significant change in reproductive patterns, though subsistence stress may depress fertility in affected areas.<br><br>
-__Demographic Renewal & Density:__ Population likely stable or slightly declining from Old Kingdom levels; regional variation significant, with some nomes maintaining prosperity while others experience outmigration or mortality from famine.<br><br>
-__Attrition & Dependency Overhang:__ Famine and disorder generate elevated orphan and widow populations in affected regions; provincial elites' tomb autobiographies emphasize feeding the hungry, implying dependency loads requiring local absorption.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Cereal agriculture (emmer wheat, barley) remains the subsistence base; flood-dependent irrigation continues; household gardens, fishing, and animal husbandry supplement staples; baseline adequate where floods succeed, precarious where they fail.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain the sole energy sources; shaduf irrigation technology persists; energy capture unchanged from Old Kingdom levels but less efficiently coordinated at scale.<br><br>
-__Labor Organization & Coercion:__ Corvée labor continues under nomarchal direction rather than royal corvée; peasant obligations shift to local lords; coercion remains but is fragmented across competing authorities.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus continues where floods succeed; surplus now retained locally rather than flowing to Memphis; craft production persists at provincial centers.<br><br>
-__Storage, Reserves & Buffering:__ Provincial granaries replace centralized state reserves; nomarchs maintain local stores; buffering capacity adequate for single-year failures but vulnerable to consecutive bad floods across regions.<br><br>
-__Exchange, Trade & Logistics:__ Internal Nile trade continues; long-distance expeditions to Nubia, Sinai, and Levant diminish with royal sponsorship; local markets function; inter-nome exchange persists.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Grain and commodities serve as value storage and medium of exchange; no coinage; reciprocal obligations and administrative redistribution continue at local scale.<br><br>
-__Surplus Extraction & Redistribution:__ Taxation now flows to nomarchs rather than royal treasury; redistribution limited to nome boundaries; temples retain some redistributive function.<br><br>
-__Wealth Distribution & Asset Defense:__ Provincial elites consolidate land and resources; nomarch families entrench hereditary claims; inequality within nomes persists; wealth defense through local military retinues.<br><br>
-__Byproducts & Waste Routing:__ Agricultural and craft waste dispersed across landscape; no evidence of routing problems or accumulation beyond local absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius contracts to nome and locality; inter-regional cooperation weakens; mutual aid persists within communities but fails across competing political units.<br><br>
-__Stratification, Status & Group Identity:__ Traditional stratification persists — nomarchs, priests, scribes, craftsmen, peasants — but nomarch families gain status relative to diminished royal line; regional identities sharpen around nome boundaries.<br><br>
-__Kinship, Family & Inheritance:__ Egyptian kinship and inheritance norms continue; bilateral inheritance, nuclear household formation; nomarch succession increasingly hereditary rather than royally appointed.<br><br>
-__Civic Association & Self-Organization:__ Local institutions — village councils, temple communities, craft groups — continue functioning; self-organization fills gaps left by absent central coordination.<br><br>
-__Leisure, Play & Sociability:__ Festival cycles continue at local temples; sociability remains centered on agricultural calendar and nome-level religious observances.<br><br>
-__Grievance Channels & Social Discharge:__ Local courts and nomarch adjudication absorb disputes; literary texts (Eloquent Peasant, Instructions) articulate grievance and counsel patience; some grievance unmetabolized in inter-nome conflicts.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Central royal authority effectively collapsed; Seventh and Eighth Dynasty kings at Memphis nominal; Ninth and Tenth Dynasty Heracleopolitans control north; Theban Eleventh Dynasty rises in south; nomarchs exercise practical sovereignty in their territories.<br><br>
-__Succession & Power Transfer:__ Royal succession contested between Heracleopolitan and Theban lines; nomarch succession increasingly hereditary within families; transfer often contested, sometimes violent.<br><br>
-__Legitimacy & Political Narrative:__ Competing legitimacy claims — Heracleopolitans assert pharaonic tradition, Thebans claim Amun's favor; nomarchs legitimize through local achievement and feeding the populace; pessimistic literature questions cosmic order (Maat).<br><br>
-__Administrative Capacity & Institutional Integrity:__ Provincial administrations function effectively within nomes; scribal apparatus maintained locally; nome archives, tax collection, labor organization persist; central coordination absent.<br><br>
-__Political Participation & Mobilization:__ Elite factions mobilize military retinues; peasant participation limited to corvée and military service under local lords; no evidence of popular political participation beyond petitioning.<br><br>
-__Geopolitical Position & External Relations:__ External relations diminished; Nubian trade reduced; Levantine contacts sporadic; no major external threats documented; Egypt's fragmentation internal rather than externally driven.<br><br>
-__Coercive Apparatus & Means of Force:__ Military fragmented among nomarchs; bronze weapons, bows, infantry tactics; no unified army; local militias and retinues serve provincial lords; fortifications at nome boundaries.<br><br>
-__Internal Order & Threat Environment:__ Inter-nome warfare attested, particularly between Heracleopolitan and Theban spheres; banditry and disorder referenced in texts; internal threat level elevated relative to Old Kingdom stability.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Nile transport remains primary transmission vector; messenger systems continue at provincial level; information flow slower and more fragmented without central coordination; nome boundaries impede transmission.<br><br>
-__Record, Storage & Persistence:__ Hieratic papyrus administration continues in nomes; provincial archives maintained; funerary texts persist; some central archives at Memphis deteriorate or become inaccessible; overall persistence adequate within regional contexts.<br><br>
-__Framing, Censorship & Discourse Norms:__ Nomarch tomb autobiographies frame local rule as legitimate and beneficent; pessimistic literature emerges, questioning traditional order; discourse norms loosen somewhat in absence of central control.<br><br>
-__Reception, Attention & Amplification:__ Literate audience remains scribal elite and officials; oral transmission for wider population; amplification limited to nome boundaries without royal propaganda apparatus.<br><br>
-__Signal Integrity & Noise Load:__ Information reliability declines with fragmentation; competing claims to legitimacy introduce noise; provincial records maintain local accuracy but inter-regional coordination data lost.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Maat (cosmic order, justice, truth) remains the foundational moral concept, but confidence in its maintenance wavers; pessimistic literature questions whether Maat prevails.<br><br>
-__Law, Codification & Regulatory Evolution:__ Royal law nominally continues; practical adjudication by nomarchs and local courts; no major codification activity attested; customary law and precedent guide decisions.<br><br>
-__Adjudication, Enforcement & Liability:__ Nomarch courts replace royal courts as primary adjudicators; enforcement limited to nome territories; cross-boundary disputes difficult to resolve; liability determined by local authority.<br><br>
-__Rights, Protections & Compliance Burden:__ Traditional property and status protections continue where local authority maintains order; compliance burden shifts from royal to nomarchal demands; predictability varies by region.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity for powerful nomarchs and retainers increases; Eloquent Peasant narrative depicts persistent injustice requiring extraordinary appeal; inter-nome wrongs often unredressed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Traditional Egyptian cosmological and practical knowledge continues; no major paradigm shifts; medical, mathematical, and astronomical knowledge maintained by scribal schools.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural, architectural, and craft techniques persist unchanged; irrigation methods, bronze metallurgy, papyrus production continue at provincial level.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools continue in provincial centers; literacy confined to elite; knowledge stock maintained through apprenticeship and copying; no significant contraction of skill base.<br><br>
-__Obsolescence & Knowledge Decay:__ Some loss of specialized royal and monumental architectural knowledge as pyramid building ceases; central archive knowledge potentially lost; provincial technical traditions persist.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Egyptian identity persists; shared mythological framework (Osiris, Re, Horus) continues; local cult centers gain prominence; memory of Old Kingdom unity becomes a restoration ideal.<br><br>
-__Artistic Expression & Material Culture:__ Provincial art develops regional styles; tomb decoration continues at reduced scale; craft quality maintained but monumentality diminishes; wooden models replace stone sculpture in elite burials.<br><br>
-__Collective Mood & Behavioral Disposition:__ Literary evidence suggests anxiety, uncertainty, and nostalgia for Old Kingdom stability; pessimistic literature (Admonitions of Ipuwer, Prophecy of Neferti) reflects or constructs a mood of crisis.<br><br>
-__Form Exhaustion & Meaning Decay:__ Royal iconography loses potency with fragmented kingship; traditional forms continue but without the central authority that gave them full meaning; some symbolic renewal through provincial adaptation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Traditional Egyptian cosmology persists — cyclical renewal, judgment, afterlife — but confidence in cosmic order (Maat) wavers; existential uncertainty reflected in wisdom literature.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple rituals continue under local priestly authority; funerary practices persist with regional variation; Coffin Texts begin democratizing afterlife access beyond royalty.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple establishments maintain local authority; Theban Amun cult rises in importance; no central religious coordination; priesthoods serve provincial powers.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Osirian afterlife beliefs spread more widely through population; funerary democratization expands access to mortuary literature; regional cults strengthen.<br><br>
-__Disenchantment & Sacred Discharge:__ Some existential disquiet evident in literature questioning divine justice and cosmic order; sacred framework persists but with reduced confidence in its reliable operation; disenchantment partial, not fundamental.
+# __2181 BCE – 2055 BCE — First Intermediate Period and Regional Fragmentation__
+
+__Summary:__ The collapse of Old Kingdom centralization fractures Egypt into competing provincial dynasties, with a series of low Nile floods acting as the triggering shock that exposes the brittleness of a redistributive system dependent on reliable surplus extraction and a single royal bureaucracy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile Valley retains its linear corridor structure, but central control over this geography dissolves; provincial nomes operate as semi-independent units, each managing its own stretch of the river without coordination from Memphis.
+
+__Climate Regime & Volatility:__ The period opens with a documented run of low Nile floods, reducing agricultural yields at the critical transition from Dynasty 6 to the fragmentation phase; texts from Ankhtifi and other nomarchs reference famine and depleted granaries as the immediate crisis.
+
+__Hazard Regime & Exposure:__ Flood failure constitutes the dominant hazard; without the buffer of central granaries, individual provinces face localized famine; the Eastern and Western Deserts remain marginal buffers, offering neither refuge nor significant threat.
+
+__Resource & Energy Endowment:__ Agricultural productivity drops sharply during low-flood years; quarrying and monumental construction cease at the royal scale; local elites divert remaining resources to provincial projects rather than pyramid complexes.
+
+__Waste Absorption & Sink Capacity:__ Reduced cultivation leaves less organic waste; abandoned royal construction sites at Saqqara and Giza decay without maintenance, but no significant sink saturation occurs; the corridor's absorptive capacity remains intact, underutilized.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Famine elevates mortality during acute phases; no epidemic is specifically documented, but nutritional stress increases vulnerability; the baseline mortality rises in affected provinces during crisis years.
+
+__Nutrition & Physiological Vitality:__ Contemporary texts describe hunger and grain scarcity; provincial inscriptions boast of feeding local populations, implying the normative condition was insufficiency; skeletal evidence from the period suggests increased stress markers.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge persists in scribal traditions, but institutional support contracts to provincial elites; temple-based care fragmentswithout central coordination.
+
+__Reproductive Biology & Pairing Dynamics:__ No evidence of disrupted pairing patterns; family and household structures persist as before, organized around nome-level patronage rather than royal redistribution.
+
+__Demographic Renewal & Density:__ Population likely contracts modestly during acute famine phases; density remains concentrated along the Nile but shifts in relative weight as some provinces suffer more severely than others.
+
+__Attrition & Dependency Overhang:__ Famine mortality disproportionately affects dependents; nomarch inscriptions emphasize provision for widows and orphans as a mark of local legitimacy, suggesting the dependent load is recognized but unevenly absorbed.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The collapse exposes the fragility of centralized redistribution; provinces with intact local irrigation and storage survive; others experience acute shortages; the provisioning floor drops to the nome level.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the sole power sources; with reduced surplus, the labor corvées that built pyramids cannot be organized; energy capture contracts to subsistence agriculture and local craft.
+
+__Labor Organization & Coercion:__ Corvée labor for royal projects ends; local nomarchs mobilize labor for provincial monuments, but scale shrinks dramatically; the coercive apparatus fragmentsinto competing provincial authorities.
+
+__Production & Surplus Capacity:__ Surplus generation collapses during low-flood years; even in recovery, surplus flows to provincial rather than royal coffers; production shifts from monumental to local scale.
+
+__Storage, Reserves & Buffering:__ Central granaries at Memphis lose function; provincial granaries become the locus of buffering; nomarch inscriptions boast of maintaining grain reserves, suggesting uneven distribution of buffering capacity.
+
+__Exchange, Trade & Logistics:__ Inter-regional trade declines as nomes prioritize internal provisioning; long-distance luxury exchange (Nubian gold, Levantine timber) contracts; local markets persist but coordination breaks.
+
+__Value Storage, Credit & Deferred Exchange:__ Grain remains the effective unit of account and value storage; without central taxation, credit and redistribution shift to local patron-client relations.
+
+__Surplus Extraction & Redistribution:__ Royal taxation and tribute collection collapse; nomarchs extract surplus within their territories but lack the reach or legitimacy to extend beyond; redistribution becomes localized charity rather than state policy.
+
+__Wealth Distribution & Asset Defense:__ Provincial elites concentrate wealth; tomb construction continues at the nome level, often reusing Old Kingdom materials; asset defense becomes a matter of local military capacity.
+
+__Byproducts & Waste Routing:__ Reduced production generates less waste; no significant byproduct accumulation or routing crisis emerges in the fragmented system.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nome-based lineages strengthen as royal patronage vanishes; inheritance of nomarch positions becomes increasingly hereditary rather than appointed, consolidating provincial dynasties.
+
+__Association & Mutual Aid:__ Local solidarities intensify; the nome community becomes the primary unit of mutual aid; inscriptions emphasize local provision over broader obligations.
+
+__Leisure, Play & Sociability:__ Provincial courts maintain scaled-down versions of Old Kingdom festive culture; local festivals replace centralized royal ceremonies.
+
+__Stratification, Status & Group Structure:__ The gap between royal and provincial elite narrows; nomarchs adopt royal iconography and titulature; the status hierarchy flattens at the top while remaining steep within provinces.
+
+__Administrative Capacity & Institutional Integrity:__ Central bureaucracy dissolves; scribal training persists at nome level; administrative records continue in Herakleopolis (Dynasties 9–10) and Thebes (Dynasty 11) but lack the comprehensiveness of Old Kingdom archives.
+
+__Coercive Apparatus & Means of Force:__ Military capacity fragments; nomarchs maintain local troops; inter-nome warfare documented between Theban and Herakleopolitan spheres; fortifications appear at nome boundaries.
+
+__Discharge, Disorder & Decay:__ Warfare, banditry, and disorder increase; texts reference violence and insecurity; the decay of centralized order is the defining discharge of the period, uncleared until Theban reunification.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Pessimistic literature emerges (Admonitions of Ipuwer, Prophecy of Neferti—though possibly composed later, they reflect memory of this period); public mood darkens; trust contracts to the local community.
+
+__Leadership & Personal Authority:__ Nomarchs become the charismatic locus of authority; figures like Ankhtifi of Mo'alla and later Mentuhotep II at Thebes command personal allegiance in the absence of effective kingship.
+
+__Legitimacy as Lived Allegiance:__ Royal legitimacy collapses; competing dynasties at Herakleopolis and Thebes each claim kingship but neither commands universal allegiance; legitimacy fragments to the nome level.
+
+__Political Will & Collective Resolve:__ Theban Dynasty 11 gradually consolidates will for reunification; the period ends with Mentuhotep II's military victory, demonstrating the recovery of collective resolve under a single authority.
+
+__External Relations & Posture:__ External relations contract; Nubia and the Levant recede from Egyptian concern; provinces focus inward; no significant foreign policy exists until Theban reunification.
+
+__Disaffection, Apathy & Spent Will:__ The collapse of the Old Kingdom generates profound disaffection; the period represents spent will at the civilizational scale, only re-anchored by Theban military success.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hieroglyphic and hieratic scripts persist; literacy remains confined to scribes, but scribal training continues in provincial centers; the communicative code is unchanged but the network fragments.
+
+__Channels & Transmission Velocity:__ Messenger systems that linked Memphis to the provinces break down; information flows within nomes but not reliably between competing polities.
+
+__Record, Storage & Persistence:__ Provincial records survive; the democratization of Coffin Texts indicates broader textual production; individual nomes maintain archives, but no central repository coordinates.
+
+__Framing, Censorship & Discourse Norms:__ Nomarch inscriptions frame local rulers as providers and defenders; the discourse shifts from royal praise to provincial self-glorification; censorship is local rather than centralized.
+
+__Reception, Attention & Amplification:__ Audiences contract to provincial courts; the amplification of royal ideology ceases; local audiences receive local narratives.
+
+__Signal Integrity & Noise Load:__ Without central coordination, contradictory claims proliferate; both Herakleopolis and Thebes claim legitimate kingship; noise increases as no single authority adjudicates truth.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The concept of ma'at (cosmic order, justice) persists but is claimed by multiple authorities; the sense that the world has fallen from proper order pervades contemporary literature.
+
+__Law, Codification & Regulatory Evolution:__ No central lawgiving; provincial nomarchs adjudicate within their territories; customary law persists without the coordination of royal edicts.
+
+__Adjudication, Liability & Sanction:__ Justice becomes local; nomarchs boast of fair judgment in their inscriptions; the capacity for adjudication contracts to the nome level.
+
+__Rights, Protections & Compliance Burden:__ Protection becomes a provincial matter; the compliance burden shifts from royal taxation to local exactions; predictability declines.
+
+__Impunity & Unredressed Wrong:__ Warfare and disorder create impunity for violence between nomes; wrongs go unredressed when no central authority can adjudicate; the gap between justice owed and delivered widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Theological and cosmological thought continues in provincial temples; Coffin Texts represent a shift in afterlife ideology toward broader access; inquiry remains within established paradigms.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge persists; provincial monuments demonstrate continued mastery of building techniques, though at reduced scale; irrigation management remains effective at the local level.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools continue in major nome centers; the knowledge stock is preserved through training continuity; distribution narrows to provincial elites.
+
+__Obsolescence & Knowledge Decay:__ Some loss of central administrative technique occurs; the coordinated record-keeping of the Old Kingdom fragments; knowledge decay is partial but real.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The unified Egypt of the Old Kingdom becomes a mythic standard against which the present is measured; the period generates a founding trauma of collapse that shapes later self-understanding.
+
+__Legitimating Narrative & Ideology:__ Competing dynasties generate competing legitimations; Herakleopolis claims succession from the Old Kingdom; Thebes builds a narrative of righteous reunification; no single ideology commands assent.
+
+__Artistic Expression & Material Culture:__ Provincial art develops regional styles; Theban and Herakleopolitan workshops produce distinctive forms; quality varies but production continues; coffin decoration becomes more elaborate as elite burial expands.
+
+__Form Exhaustion & Meaning Decay:__ Old Kingdom royal forms lose potency when multiple claimants deploy them; the pyramid as royal marker fades; new forms (rock-cut tombs, elaborate coffins) emerge without fully replacing exhausted conventions.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The afterlife democratizes; Coffin Texts extend previously royal prerogatives to non-royal dead; Osirian religion expands its reach; the existential outlook shifts toward broader access to eternity.
+
+__Ritual, Devotion & Sacred Practice:__ Temple rituals continue at nome level; local priesthoods maintain cult without central coordination; funerary practice elaborates in provincial contexts.
+
+__Religious Institutions & Doctrinal Authority:__ The priesthood of Amun at Thebes begins its rise; provincial temples operate independently; no central doctrinal authority coordinates religious life until reunification.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Osirian beliefs diffuse more broadly; local cults retain importance; no significant external spiritual influence enters; internal redistribution rather than diffusion characterizes the period.
+
+__Disenchantment & Sacred Discharge:__ The failure of royal ma'at generates spiritual crisis; pessimistic literature questions cosmic order; disenchantment settles over the period, partially re-anchored by the democratization of afterlife belief and eventually cleared by Theban reunification.

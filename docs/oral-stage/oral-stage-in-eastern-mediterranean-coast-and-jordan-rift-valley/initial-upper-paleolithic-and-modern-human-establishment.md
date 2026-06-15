@@ -1,69 +1,140 @@
-# __45000 BCE – 30000 BCE__ — Initial Upper Paleolithic and Modern Human Establishment
-__Summary:__ The Levantine corridor experiences the Middle-to-Upper Paleolithic transition as anatomically modern humans establish demographic dominance, introducing blade-based technologies (Emiran, Ahmarian) and expanded symbolic behavior including shell beads and ochre use, while residual Neanderthal populations disappear from the archaeological record; the binding constraint remains the low population density inherent to mobile foraging, but the system's direction of change is toward behavioral modernity marked by increased technological innovation, longer-distance exchange, and elaborated personal ornamentation; margin against environmental shock remains wide given abundant resources and flexible mobility.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The corridor retains its north-south orientation between the Mediterranean and the steppe interior; key occupation sites shift to include Boker Tachtit, Ksar Akil, and Ucagizli in addition to established Mount Carmel caves; coastal, highland, and rift zones offer diverse microhabitats with moderate transit friction.<br><br>
-__Climate Regime & Volatility:__ MIS 3 continues with oscillating conditions; the period is generally milder than the approaching Last Glacial Maximum; Mediterranean woodland persists in the west while steppe expands in the interior and south; interannual variability remains moderate.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk persists along the Dead Sea Transform; drought cycles are buffered by mobility; no catastrophic events are registered in the archaeological record; margin is wide.<br><br>
-__Resource & Energy Endowment:__ High-quality flint remains abundant; marine resources become more visible in coastal assemblages (Ksar Akil, Ucagizli); fauna includes gazelle, fallow deer, wild cattle, and onager; the endowment far exceeds demand.<br><br>
-__Waste Absorption & Sink Capacity:__ Anthropogenic impact remains negligible; occupation debris is dispersed across the landscape; absorptive capacity is effectively unlimited.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden remains low for small, mobile populations; mortality continues to be dominated by trauma, accidents, and periodic nutritional stress; baseline death rates are stable.<br><br>
-__Nutrition & Physiological Vitality:__ Modern human skeletal evidence shows gracile builds with lower caloric requirements than Neanderthals; dietary breadth expands to include more marine and plant resources; nutritional status is adequate.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Modern human populations practice pair-bonding within band structures; genetic evidence indicates interbreeding with Neanderthals has already contributed to modern human gene pools; fertility and infant mortality rates are not directly recoverable but population growth is inferred from expanding site numbers.<br><br>
-__Demographic Renewal & Density:__ Population density remains low but is trending upward as modern humans expand into formerly Neanderthal-occupied niches; site density increases toward the end of the window; replacement rates may slightly exceed unity, supporting slow population growth.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load remains minimal in mobile bands; longevity is limited; the productive cohort absorbs dependents without strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Immediate-return foraging continues with hunting emphasis on medium-to-large game; plant foods, marine mollusks, and small game supplement diet; the population operates well below carrying capacity.<br><br>
-__Energy Capture & Conversion:__ Human muscle and controlled fire remain the sole energy sources; blade production may increase efficiency of raw material use; no animal traction.<br><br>
-__Labor Organization & Coercion:__ Division of labor within kin bands continues by age and sex; cooperation is voluntary and reciprocal; no evidence of coercion.<br><br>
-__Production & Surplus Capacity:__ Production remains subsistence-oriented; bladelet technology and standardized point production suggest increased efficiency but no durable surplus accumulation.<br><br>
-__Storage, Reserves & Buffering:__ No food storage is attested; social sharing networks and body reserves provide buffering; reserves are adequate given resource abundance.<br><br>
-__Exchange, Trade & Logistics:__ Shell beads (Nassarius) transported from Mediterranean and Red Sea coasts up to 200 kilometers inland indicate expanded exchange networks; raw material movement is documented; exchange remains embedded in social relationships rather than market logic.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No medium of exchange; shell ornaments may carry social value but function as ornaments rather than currency; deferred reciprocity within and between bands persists.<br><br>
-__Surplus Extraction & Redistribution:__ No authority extracts surplus; sharing of large kills redistributes food immediately within bands; no accumulation for later redistribution.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth differentiation remains negligible; personal ornaments represent a new category of portable property but accumulation is minimal; no defended stores.<br><br>
-__Byproducts & Waste Routing:__ Knapping debris and food refuse accumulate at occupation sites; volume is greater than the preceding period given increased blade production but remains trivial against landscape absorption capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust remains high within kin bands; the radius of trust may be extending as exchange networks lengthen and inter-band contact increases; mutual aid is obligatory and reciprocal.<br><br>
-__Stratification, Status & Group Identity:__ Minimal formal stratification; personal ornaments may signal individual or group identity; status may accrue to skilled hunters, craftspeople, or those with exchange connections; Neanderthal populations disappear as a distinct group during this window.<br><br>
-__Kinship, Family & Inheritance:__ Kin-based band organization continues; marriage alliances likely extend across bands to facilitate the observed exchange networks; inheritance remains minimal.<br><br>
-__Civic Association & Self-Organization:__ The band remains the primary unit; emerging evidence of aggregation sites suggests periodic multi-band gatherings, possibly for exchange, mating, or ritual purposes.<br><br>
-__Leisure, Play & Sociability:__ Non-work time is inferred to include ornament production, storytelling, and social bonding; direct evidence is absent but the elaboration of non-utilitarian objects suggests expanded leisure investment.<br><br>
-__Grievance Channels & Social Discharge:__ Dispute resolution remains informal; fission and mobility provide exit options; grievance load is low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Band-level organization persists; authority remains situational, personal, and non-institutionalized; no sovereign concentration.<br><br>
-__Succession & Power Transfer:__ No institutionalized succession; leadership remains ephemeral and task-specific.<br><br>
-__Legitimacy & Political Narrative:__ Authority rests on demonstrated competence and kin ties; no ideological legitimation is recoverable.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination is face-to-face and embedded in social relations.<br><br>
-__Political Participation & Mobilization:__ Band members participate directly in collective decisions; dissent is expressed through voice or departure.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations include cooperation (exchange, mating networks) and possible competition; the Neanderthal displacement concludes during this window, leaving modern humans as the sole hominin population; relations with populations in adjacent regions (Anatolia, Nile Valley) are not well attested but likely exist.<br><br>
-__Coercive Apparatus & Means of Force:__ No organized coercion; all adults possess hunting weapons; violence is personal and episodic.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder is minimal; external threat from predators is managed; margin is wide.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by voice and gesture at walking speed; expanding exchange networks may increase the geographic reach of information flow; reach remains uniform within bands.<br><br>
-__Record, Storage & Persistence:__ All information persists in living memory alone and is transmitted orally; no writing system, no external storage medium; knowledge is lost with death and population decline; redundancy within bands and possibly across linked bands provides partial buffering.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse norms are embedded in social practice; no institutional framing or censorship; conversational conventions are not recoverable.<br><br>
-__Reception, Attention & Amplification:__ Audience is the immediate band and inter-band contacts; amplification depends on memorability and repetition; attention is unconstrained by competing information sources.<br><br>
-__Signal Integrity & Noise Load:__ Information volume remains low; noise is minimal; verification is face-to-face; oral transmission maintains fidelity within generations but drifts over longer timescales.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity norms and sharing obligations provide baseline moral framework; expanded exchange networks may require extension of fairness concepts beyond immediate kin.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law; customary rules govern behavior but are not codified; rules are transmitted orally and enforced socially.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are resolved informally through negotiation, mediation by respected individuals, or avoidance; no third-party adjudication machinery; liability is personal.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy is high within band norms; compliance with sharing obligations and behavioral expectations is enforced through reputation and exclusion; predictability is high.<br><br>
-__Impunity & Unredressed Wrong:__ Wrongs are addressed through direct reciprocity or avoidance; systematic impunity is not a structural feature; no accumulating deficit.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; practical knowledge governs technological production and ecological exploitation; explanatory paradigms are presumed to exist (animistic, experiential) but are not directly recoverable.<br><br>
-__Applied Knowledge & Technical Method:__ Blade and bladelet production (Ahmarian tradition), Emireh point manufacture, hafting techniques, and fire management constitute an expanding technical repertoire; innovation rate is higher than the preceding Mousterian, marking a shift toward cumulative technological change.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmission is oral and demonstrative through apprenticeship; core subsistence and craft skills are widely distributed; specialized knowledge of exchange routes, raw material sources, and ornament production may be unevenly held; the stock is growing.<br><br>
-__Obsolescence & Knowledge Decay:__ Mousterian techniques are superseded by blade-based technologies during this window; knowledge loss accompanies the Neanderthal population decline; within modern human populations the stock is stable and accumulating.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives and collective memory are presumed to exist in oral form but are not directly recoverable; identity is likely rooted in kin group, landscape, and possibly shared symbolic conventions marked by ornament styles.<br><br>
-__Artistic Expression & Material Culture:__ Shell beads (Nassarius at Ucagizli, Ksar Akil), ochre use, and possibly feathers indicate expanded personal ornamentation; material culture shows increased standardization and regional stylistic variation; no representational art is clearly attested in the Levant during this window.<br><br>
-__Collective Mood & Behavioral Disposition:__ Not directly recoverable; inferred to reflect adaptation to successful foraging lifestyle with increasing social complexity and exchange engagement.<br><br>
-__Form Exhaustion & Meaning Decay:__ Not applicable; symbolic forms are newly elaborating rather than exhausting; no detectable stagnation or meaning erosion.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Not directly recoverable; expanded symbolic behavior suggests more elaborate cosmological frameworks than among Neanderthals; burial practices indicate concepts of death and possibly afterlife, though evidence is sparse for this specific period.<br><br>
-__Ritual, Devotion & Sacred Practice:__ No communal ritual architecture is attested; ochre use and burial practices may have ritual dimensions; personal ornamentation may carry spiritual as well as social significance.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; spiritual authority, if any, is personal and situational; no hierarchy or orthodoxy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ The disappearance of Neanderthal populations may involve displacement of their spiritual practices, but this is not recoverable; modern human cosmological frameworks expand with population movement.<br><br>
-__Disenchantment & Sacred Discharge:__ Not applicable; spiritual practice appears integrated and vital; no evidence of cosmological erosion or disenchantment.<br><br>
+# __45,000 BCE – 30,000 BCE__ — Initial Upper Paleolithic and Modern Human Establishment
+
+__Summary:__ The decisive demographic and technological replacement event in the Levant — anatomically modern humans with fully grammatical language establish permanent presence, introducing Initial Upper Paleolithic industries (Emiran, Boker Tachtit) that give way to Ahmarian and Aurignacian traditions, while Neanderthal populations disappear by ~40,000 BP. The binding constraint shifts: with recursive grammar, the absent can be named, the future planned, the past transmitted beyond living memory — oral tradition becomes possible, and cumulative culture can ratchet upward. What was mute imitation becomes spoken inheritance; the Oral Stage begins.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Levantine corridor remains the geographic stage — coastal plain, Carmel ridge, Galilee hills, Jordan Rift, Transjordanian plateau — but now functions as a migration conduit for populations moving out of Africa and into Eurasia; the corridor's transit-facilitating geography accelerates replacement.
+
+__Climate Regime & Volatility:__ Marine Isotope Stage 3 continues, with Heinrich Event 4 (~40,000 BP) delivering a cold pulse that may have stressed Neanderthal populations differentially; overall conditions remain cooler and drier than Holocene norms, but oscillations favor mobile, adaptable foragers.
+
+__Hazard Regime & Exposure:__ Background seismicity along the Dead Sea Transform; seasonal flash floods; no catastrophic events attested, but climatic instability raises the premium on behavioral flexibility.
+
+__Resource & Energy Endowment:__ Flint remains abundant in Eocene chalk; freshwater springs sustain camps; faunal biomass includes gazelle, fallow deer, aurochs, and equids; the resource base is sufficient for low-density foraging but not for sedentism.
+
+__Waste Absorption & Sink Capacity:__ Human population grows relative to the preceding phase but remains sparse; cave deposits at Ksar Akil, Boker Tachtit, and Ucagizli accumulate occupation debris at modest rates; landscape-scale impact is negligible.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic zoonotic exposure continues; modern human populations may carry novel pathogens to which Neanderthals lacked immunity, though direct evidence is absent; mortality remains concentrated in young adulthood.
+
+__Nutrition & Physiological Vitality:__ Modern humans have lower basal metabolic rates than Neanderthals, conferring caloric advantage; isotopic evidence suggests a broader diet including marine and plant resources; nutritional stress is episodic but less severe than for the preceding population.
+
+__Care, Healing & Recovery Capacity:__ Wound-tending and social support for the injured continue; oral tradition may allow transmission of healing knowledge beyond direct demonstration, though evidence is indirect.
+
+__Reproductive Biology & Pairing Dynamics:__ Modern human fertility and infant survival rates likely exceed Neanderthal baselines, contributing to demographic expansion; pair-bonding and extended kin networks support child-rearing.
+
+__Demographic Renewal & Density:__ Population density increases across the window; modern humans establish continuous occupation where Neanderthals had been sparse and episodic; by 30,000 BP the Levant is exclusively modern human territory.
+
+__Attrition & Dependency Overhang:__ Juvenile dependency remains high, but improved survival rates shift the dependency ratio; the elderly may now survive long enough to serve as knowledge repositories — a new demographic category enabled by oral transmission.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Hunting remains focal (gazelle, fallow deer, onager), but diet breadth expands to include small game, birds, fish, and systematically gathered plant foods; provisioning security improves with diversified strategies.
+
+__Energy Capture & Conversion:__ Human muscle and controlled fire remain the energy sources; no change in prime movers, but improved projectile technology (early evidence of spearthrowers or their antecedents) increases hunting efficiency.
+
+__Labor Organization & Coercion:__ Task differentiation by age, sex, and skill continues informally; cooperation is kin-enforced; no coercion beyond social pressure; larger band sizes allow more complex division of labor.
+
+__Production & Surplus Capacity:__ Lithic production shifts to blade-based industries (Emiran, Ahmarian), requiring more standardized reduction sequences and enabling greater tool output per core; surplus remains negligible, consumed within the seasonal round.
+
+__Storage, Reserves & Buffering:__ Storage remains minimal; mobility is still the primary buffer against local shortfall; no granaries or preserved foods, but oral coordination may enable more efficient group movement to better-provisioned zones.
+
+__Exchange, Trade & Logistics:__ Raw material sourcing begins to extend beyond immediate catchments; obsidian from Anatolian sources appears in northern Levantine sites, indicating nascent long-distance exchange or population movement; networks are forming.
+
+__Value Storage, Credit & Deferred Exchange:__ No formal medium of account; reciprocity remains immediate within kin, but oral agreements may enable deferred exchange across time and space — promises can now be spoken and remembered.
+
+__Surplus Extraction & Redistribution:__ No institutionalized extraction; sharing norms apply; redistribution is egalitarian, enforced by kin pressure and band cohesion.
+
+__Wealth Distribution & Asset Defense:__ Personal ornament (shell beads, perforated teeth) appears for the first time, marking incipient differentiation in adornment if not wealth; toolkits remain portable and undefended.
+
+__Byproducts & Waste Routing:__ Lithic debitage, bone refuse, ash, and now ornament-production waste accumulate; discard patterns show more structured site use than Mousterian predecessors; waste is absorbed locally.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Band structure persists, but kinship networks likely expand as oral communication enables coordination beyond face-to-face co-presence; marriage alliances between bands become speakable and memorable.
+
+__Association & Mutual Aid:__ Mutual aid within the band remains obligatory; inter-band gatherings (aggregation sites) may now occur, facilitated by oral planning and the transmission of shared identity markers (ornament styles, tool traditions).
+
+__Leisure, Play & Sociability:__ Hearth-centered sociability continues; ornament production implies aesthetic engagement and display; oral storytelling is now possible, transforming leisure into a context for cultural transmission.
+
+__Stratification, Status & Group Structure:__ Status remains situational (skill, age, prowess), but personal ornament introduces visible markers of identity and possibly rank; stratification is nascent, not institutionalized.
+
+__Administrative Capacity & Institutional Integrity:__ No institutions beyond the band; no offices; coordination is oral and consensual; the band remains the maximal unit of organization, but inter-band coordination is now linguistically enabled.
+
+__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus; violence is interpersonal; improved projectile technology (blades, possible spearthrowers) raises lethality but remains hunting equipment; no fortification.
+
+__Discharge, Disorder & Decay:__ Fission remains the primary discharge mechanism; grievances can now be spoken and possibly negotiated rather than only acted out; the band's small scale prevents accumulated disorder.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ With grammatical language, sentiment can be articulated, shared, and coordinated; grief, joy, and anger become subjects of discourse, not only behavior; the radius of trust may expand as shared narratives create fictive kin.
+
+__Leadership & Personal Authority:__ Leadership remains situational but can now be spoken about — the leader can articulate plans, rally support, and be discussed in absence; personal authority begins to have a discursive dimension.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is kin-based and personal, but shared stories and origin narratives may begin to construct group identity beyond immediate genealogy; legitimacy is affective, not institutional.
+
+__Political Will & Collective Resolve:__ Collective will can now be articulated and deliberated; hunting expeditions, migrations, and inter-band alliances can be planned through speech; resolve is speakable, not only demonstrated.
+
+__External Relations & Posture:__ Relations with other bands are now negotiable through speech; the disappearance of Neanderthals removes the only other hominin population, leaving inter-group relations exclusively intra-species; competition and cooperation are both linguistically mediated.
+
+__Disaffection, Apathy & Spent Will:__ Grievances can be voiced, complaints articulated; oral culture creates new channels for emotional discharge but also new possibilities for remembered resentment; the double edge of speech.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Fully grammatical language is now the substrate — recursive, productive, able to encode the absent, the past, the hypothetical, and the abstract; mutual intelligibility within the speech community is complete; the linguistic boundary is now the social boundary.
+
+__Channels & Transmission Velocity:__ Face-to-face speech remains the only channel, but speech travels faster than demonstration; stories can compress experience; messages can be relayed through intermediaries; velocity increases within the limits of human mobility.
+
+__Record, Storage & Persistence:__ No external record, but oral memory can now encode sequences, genealogies, and narratives; persistence depends on repetition, rehearsal, and intergenerational transmission; the elder becomes the living archive.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms emerge with speech — what may be said, to whom, in what context; taboos become speakable and thus enforceable; framing is possible because narrative is possible.
+
+__Reception, Attention & Amplification:__ Audiences can now gather to hear a speaker; attention can be directed by narrative; amplification remains limited to the unaided human voice, but stories can be repeated, spreading through the population.
+
+__Signal Integrity & Noise Load:__ Signal integrity depends on memory fidelity and transmission accuracy; oral tradition introduces systematic drift (mutation, elaboration, simplification) but also correction through repetition and consensus; noise is generational, not instantaneous.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Norms of reciprocity, sharing, and kin loyalty persist, but can now be articulated as principles — "we share," "we do not steal" — rather than only demonstrated; the ought becomes speakable.
+
+__Law, Codification & Regulatory Evolution:__ No written law, but oral custom can now be stated, repeated, and cited; precedent becomes memorable; regulation moves from purely behavioral to discursively reinforced.
+
+__Adjudication, Liability & Sanction:__ Disputes can be argued, not only fought; senior figures may hear complaints and pronounce judgment; sanction remains personal (exclusion, retaliation) but mediated by speech.
+
+__Rights, Protections & Compliance Burden:__ No formal rights; protection remains kin-based; compliance is to spoken norms, internalized through repetition and socialization.
+
+__Impunity & Unredressed Wrong:__ Wrongs can be named and remembered; impunity is now a matter of narrative — the unpunished wrong can be spoken of, creating a standing grievance where before only behavioral resentment existed.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry, but oral tradition enables accumulated observation — knowledge of animal behavior, plant seasons, landscape features — to be transmitted and refined across generations; proto-theory is embedded in oral lore.
+
+__Applied Knowledge & Technical Method:__ Blade technology requires multi-step sequences and raw material assessment; techniques can now be verbally instructed, not only demonstrated; the master can explain, not only show; skill transmission accelerates.
+
+__Education, Knowledge Stock & Skill Distribution:__ Oral instruction supplements imitative learning; the knowledge stock can grow beyond what any single practitioner holds because speech allows compilation and specialization; distribution widens as instruction reaches beyond direct apprenticeship.
+
+__Obsolescence & Knowledge Decay:__ Knowledge can still be lost through broken transmission, but oral tradition provides redundancy — multiple carriers, repeated performances — that slows decay; the ratchet begins to hold.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Oral narrative enables mythos — origin stories, ancestral deeds, explanatory tales; collective memory can extend beyond living memory; identity becomes storied, not only embodied.
+
+__Legitimating Narrative & Ideology:__ Stories can justify — why we hunt this way, why we live here, why we are kin; legitimation becomes discursive; ideology in nascent form appears as the narrative that explains the order.
+
+__Artistic Expression & Material Culture:__ Personal ornament (Nassarius shells, perforated animal teeth) appears; blade tools show standardization and aesthetic selection; ochre use suggests symbolic marking; material culture becomes expressive.
+
+__Form Exhaustion & Meaning Decay:__ Forms are too new to be exhausted; the period is one of innovation and elaboration, not stasis or decay; cultural repertoire is expanding, not hollowing.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Oral language makes cosmology possible — questions of origin, death, the unseen; no direct evidence survives, but the capacity for metaphysical speculation now exists; the sacred can be named.
+
+__Ritual, Devotion & Sacred Practice:__ Burial practices show increasing elaboration (grave goods, ochre, body positioning); ritual is now plannable and repeatable through oral instruction; devotion, if present, can be collectively enacted.
+
+__Religious Institutions & Doctrinal Authority:__ No institutions; no clergy; authority in spiritual matters is personal (the elder, the visionary) and situational; doctrine is oral tradition, not codified creed.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ As modern humans spread through the corridor, their oral traditions move with them; local adaptation and borrowing are possible; displacement of Neanderthal (if any) spiritual practices is complete by absorption or extinction.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment; the sacred, newly speakable, is in its first efflorescence; there is nothing to lose because everything is being gained; the residue is zero.
+

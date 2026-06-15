@@ -1,69 +1,139 @@
-# __1937 CE – 1945 CE__ — War of Resistance and Wartime Press
-__Summary:__ China under full-scale Japanese invasion; the coastal industrial and publishing base falls within months, forcing government and press to relocate inland to Chongqing while the Communist base at Yan'an develops an alternative party-press model; the binding constraint is territorial fragmentation into Nationalist, Communist, and occupied zones, each with distinct information regimes; margins against further shock are exhausted in the east, precarious in the interior; trajectory is survival under siege with parallel press systems crystallizing for postwar contest.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The eastern plains and Yangtze corridor that once eased commerce now ease Japanese mechanized advance; the mountainous Sichuan basin becomes defensible refuge; the loess plateau around Yan'an offers Communist forces guerrilla terrain; interior distances impose severe logistical friction on both defense and publication.<br><br>
-__Climate Regime & Volatility:__ Monsoon variability continues; 1942–1943 Henan drought and famine coincide with war, compounding agricultural collapse; no secular climate shift distinguishes the window, but seasonal extremes interact with war damage to magnify provisioning crises.<br><br>
-__Hazard Regime & Exposure:__ Aerial bombardment becomes the dominant hazard; Chongqing endures sustained Japanese air raids 1939–1941; Yellow River dyke breached by Nationalist forces 1938 to slow Japanese advance floods vast areas, displacing millions; natural hazards are overshadowed by war-induced catastrophe.<br><br>
-__Resource & Energy Endowment:__ Coastal coal and iron deposits fall under occupation; interior tungsten and antimony remain accessible; Sichuan oil negligible; the resource base for modern industry largely lost, forcing reliance on dispersed small-scale workshops and imported materiel via Burma Road until 1942.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban rubble accumulates in bombed cities; refugee camps and disrupted sanitation create localized pollution; industrial output so reduced that large-scale effluent is minimal; absorptive capacity unstressed except in overcrowded wartime capitals.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ War-induced displacement reactivates epidemic cholera, typhus, and malaria in refugee corridors; Japanese biological warfare units deploy plague in Zhejiang and elsewhere; mortality spikes regionally; baseline health catastrophically degraded in combat and occupied zones.<br><br>
-__Nutrition & Physiological Vitality:__ Famine conditions in Henan 1942–1943 kill millions; interior provisioning strained but maintained; Yan'an relatively food-secure through local production campaigns; overall nutritional status declines sharply in affected areas, stable elsewhere.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Mass displacement separates families; military conscription removes young men; fertility likely suppressed by malnutrition and dislocation; marriage patterns disrupted but traditional pairing norms persist where possible.<br><br>
-__Demographic Renewal & Density:__ War mortality estimates range from fifteen to twenty million; birth rates depressed; massive internal migration shifts population westward; density collapses in devastated eastern regions, surges in Sichuan refuge cities.<br><br>
-__Attrition & Dependency Overhang:__ War orphans, widows, and disabled veterans accumulate; refugee dependency overwhelms traditional kin networks; neither state has capacity to absorb the load systematically; dependency overhang grows throughout the window.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain requisitioning strains peasant survival in all zones; Henan famine demonstrates failure; Yan'an production campaigns barely meet subsistence; provisioning floor collapses regionally, holds tenuously elsewhere.<br><br>
-__Energy Capture & Conversion:__ Modern industry lost with coastal occupation; interior workshops rely on muscle power and small-scale hydropower; coal transport disrupted; energy capture falls to pre-industrial levels outside occupied industrial zones run by Japanese.<br><br>
-__Labor Organization & Coercion:__ Military conscription extracts labor coercively in Nationalist areas; Japanese forced labor in occupied zones; Communist mass campaigns mobilize labor through political exhortation; wage labor system collapses with industrial base.<br><br>
-__Production & Surplus Capacity:__ Industrial output in Free China minimal; handicraft production for military needs; agricultural surplus extracted for war effort leaving little margin; occupied zone production serves Japanese war economy; surplus capacity near zero in interior.<br><br>
-__Storage, Reserves & Buffering:__ Granary system shattered; currency reserves depleted; Nationalist government prints money, triggering inflation; strategic reserves depend on American aid after 1941; buffering capacity exhausted, system runs hand-to-mouth.<br><br>
-__Exchange, Trade & Logistics:__ Coastal ports under occupation; Burma Road lifeline until 1942, then Hump airlift; internal trade disrupted by military lines; black markets proliferate; logistics improvised and inefficient.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Nationalist fabi currency inflates rapidly; confidence collapses by war's end; occupied zones use puppet currency and yen; Communist border regions develop local scrip; hyperinflation destroys value storage capacity.<br><br>
-__Surplus Extraction & Redistribution:__ Nationalist grain levies burden peasantry without proportional return; Communist taxation lighter but extraction via production campaigns; Japanese requisitioning in occupied areas brutal; extraction outpaces redistribution everywhere.<br><br>
-__Wealth Distribution & Asset Defense:__ Coastal elites lose property to occupation; refugee capital flees to interior and abroad; land ownership patterns stable in unoccupied rural areas; inflation destroys middle-class savings; concentration shifts toward those with hard assets or foreign connections.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste minimal given production collapse; military debris and unexploded ordnance accumulate; disposal capacity unstressed by industrial effluent, overwhelmed by war detritus.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Traditional mutual aid networks strain under refugee influx; regional identities sharpen as displaced populations cluster; trust radius contracts to immediate kin and native-place associations; informal safety nets frayed but functional.<br><br>
-__Stratification, Status & Group Identity:__ Wartime fluidity disrupts prewar hierarchies; military service creates new status paths; collaboration and resistance define new identity boundaries; class distinctions blur in shared hardship but persist in allocation of scarce resources.<br><br>
-__Kinship, Family & Inheritance:__ Families separated by flight and conscription; traditional inheritance patterns nominally unchanged but property rights unenforceable in occupied or contested areas; kinship obligations strained by distance and death.<br><br>
-__Civic Association & Self-Organization:__ Native-place associations organize refugee relief; student associations mobilize for resistance; guild structures weakened; Communist areas develop new collective organizations under party guidance; associational fabric reconfigured by war.<br><br>
-__Leisure, Play & Sociability:__ Urban entertainment industries relocate to Chongqing and Yan'an; propaganda drama and resistance songs replace commercial amusement; sociability militarized and politicized; leisure time scarce.<br><br>
-__Grievance Channels & Social Discharge:__ Formal complaint mechanisms suspended; grievances channeled into resistance activity or suppressed; Yan'an rectification campaigns provide structured discharge under party control; accumulated resentment against Nationalist corruption and Japanese brutality builds.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Chiang Kai-shek maintains nominal national leadership from Chongqing; Mao Zedong consolidates Communist control at Yan'an; Wang Jingwei heads collaborationist regime in Nanjing; authority fragmented across three incompatible systems; power centralizing within each zone, fragmenting nationally.<br><br>
-__Succession & Power Transfer:__ Chiang's personal authority unchallenged within GMD; Mao emerges as uncontested CCP leader through rectification; Wang's puppet regime succession irrelevant; transfer mechanisms stable within each faction, inter-faction contest deferred to postwar.<br><br>
-__Legitimacy & Political Narrative:__ Resistance to Japan provides shared legitimacy basis; GMD claims national defense mandate; CCP claims revolutionary vanguard role; both compete to embody nationalist resistance; collaborationist regime lacks popular legitimacy.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Nationalist bureaucracy maintains skeletal functions in interior; Communist areas develop lean party-state apparatus; occupied zones under Japanese military administration with puppet facade; corruption endemic in Nationalist zone, less so in Communist due to ideological discipline and smaller scale.<br><br>
-__Political Participation & Mobilization:__ Wartime emergency suspends electoral processes; Communist mass campaigns mobilize peasants; student movements active in resistance; political participation channeled through party structures in both zones; dissent suppressed under wartime necessity.<br><br>
-__Geopolitical Position & External Relations:__ China allied with Western powers and USSR against Japan after 1941; American aid critical; British presence in Burma; Soviet neutrality with Japan until 1945; international position strengthens with global anti-fascist alliance.<br><br>
-__Coercive Apparatus & Means of Force:__ Nationalist armies equipped with American materiel, poorly led, suffer major defeats; Communist guerrilla forces expand through peasant recruitment; Japanese military dominant in open combat; balance shifting slowly toward Communist forces by war's end.<br><br>
-__Internal Order & Threat Environment:__ Banditry increases in power vacuums; collaborationist security forces suppress resistance; Communist areas maintain tight internal order; Nationalist rear areas plagued by desertion and local disorder; threat environment varies sharply by zone.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph and radio function within zones but severed across front lines; newspapers circulate locally; Yan'an broadcasts reach limited audiences; information travels slowly between zones; rumor and propaganda dominate cross-zone transmission.<br><br>
-__Record, Storage & Persistence:__ Archives evacuated inland with government; Commercial Press loses Shanghai facilities but reconstitutes in Chongqing; Communist records maintained at Yan'an; occupied zone records under Japanese control; preservation precarious but maintained in interior.<br><br>
-__Framing, Censorship & Discourse Norms:__ Nationalist censorship tightens under martial law; Yan'an rectification defines orthodox discourse; occupied zone press under Japanese propaganda control; resistance narrative dominates Free China; permitted speech narrowly circumscribed in all zones.<br><br>
-__Reception, Attention & Amplification:__ Wartime audiences hungry for news; resistance themes amplify rapidly; propaganda competes for attention; literacy still limited in rural areas; oral transmission supplements print in Communist mobilization.<br><br>
-__Signal Integrity & Noise Load:__ Propaganda distorts information in all zones; rumor fills gaps; Japanese disinformation active; verification impossible across lines; noise load high, reliable information scarce.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Collaboration versus resistance becomes primary moral axis; Japanese atrocities generate shared outrage; traditional justice concepts persist but subordinated to wartime emergency; moral clarity on resistance, ambiguity on much else.<br><br>
-__Law, Codification & Regulatory Evolution:__ Nationalist legal codes nominally in force but suspended by martial law; Communist areas develop revolutionary legal principles; occupied zones under Japanese military law; legal evolution frozen or directed toward political ends.<br><br>
-__Adjudication, Enforcement & Liability:__ Military tribunals handle treason cases; ordinary courts barely function; Communist people's tribunals process land disputes and collaboration charges; enforcement arbitrary and politically driven; liability determination politicized.<br><br>
-__Rights, Protections & Compliance Burden:__ Civil rights suspended under martial law; arbitrary detention common; compliance burden extreme given overlapping and contradictory authority claims; protection depends on political affiliation and zone of residence.<br><br>
-__Impunity & Unredressed Wrong:__ Japanese war crimes go unpunished during war; collaborators face post-hoc justice; Nationalist abuses rarely prosecuted; Communist discipline enforced internally; massive impunity accumulates for resolution after Japanese defeat.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Academic institutions relocate to interior as Southwest Associated University; research continues under hardship; Marxist theory dominant at Yan'an; nationalist historiography mobilized for resistance; paradigm development subordinated to survival.<br><br>
-__Applied Knowledge & Technical Method:__ Improvised industrial techniques maintain minimal production; medical knowledge applied under severe resource constraints; agricultural extension continues in Communist areas; technical method adapts to wartime scarcity.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Formal education disrupted; literacy campaigns continue in Communist areas; refugee students cluster at relocated universities; skill distribution uneven, concentrated in interior refuge cities and Yan'an cadre schools.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional knowledge transmission disrupted; Western technical training continues at reduced scale; Yan'an emphasis on practical revolutionary knowledge over abstract learning; some classical knowledge decays through institutional disruption but no systematic loss.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Resistance to Japan becomes foundational myth in real time; memories of Nanjing Massacre and other atrocities crystallize national trauma; identity polarizes between patriots and collaborators; ethnic Han unity emphasized against Japanese Other.<br><br>
-__Artistic Expression & Material Culture:__ Wartime propaganda art dominates; Yan'an woodcuts spread resistance imagery; literature mobilized for national salvation; material culture impoverished by wartime scarcity; aesthetic subordinated to political message.<br><br>
-__Collective Mood & Behavioral Disposition:__ Grim determination in resistance zones; demoralization grows in Nationalist rear areas; revolutionary enthusiasm cultivated at Yan'an; occupied zone populations endure under surveillance; mood varies sharply by zone but overall darkened by prolonged war.<br><br>
-__Form Exhaustion & Meaning Decay:__ May Fourth forms renewed through resistance content; traditional forms revived for propaganda purposes; little form exhaustion given urgent functional demands; meaning-making channeled into national survival narrative.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ National survival becomes existential focus; religious cosmologies persist but subordinated to temporal crisis; Communist materialism advances at Yan'an; fatalism and determination coexist; outlook oscillates with military fortunes.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Traditional observances disrupted by displacement; Buddhist and Daoist institutions survive where temples escape destruction; Christian missions evacuate or continue in interior; practice attenuated but not eliminated.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Institutional Buddhism weakened by property loss; Christian institutions maintain foreign connections; Communist areas discourage religion without systematic suppression; doctrinal authority subordinated to political authority in all zones.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Communist ideology spreads as quasi-spiritual commitment; traditional beliefs persist in rural areas; no major syncretic innovations; displacement of traditional religion by secular nationalism accelerates.<br><br>
-__Disenchantment & Sacred Discharge:__ Wartime emergency provides secular transcendence through national struggle; religious disenchantment less salient than political mobilization; existential questions absorbed into resistance narrative; sacred discharge channeled into patriotic sacrifice.<br><br>
+# __1937 CE – 1945 CE — War of Resistance and Wartime Press__
+
+The binding constraint is the fracturing of China's print infrastructure by Japanese invasion, which splits the press into three distinct zones — Free China under Nationalist control in Chongqing, occupied China under Japanese censorship, and Communist base areas centered on Yan'an — each developing its own print apparatus and propaganda regime while the collapse of coastal publishing centers forces interior improvisation and ideological hardening.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Japan's seizure of the eastern seaboard by late 1938 — Shanghai, Nanjing, Beijing, Wuhan, Guangzhou — deprives China of its commercial publishing heartland. The Nationalist government retreats up the Yangtze gorges to Chongqing in mountainous Sichuan, where terrain provides defensive advantage but imposes severe logistical friction on paper supply, printing machinery, and distribution. The Communist Eighth Route Army operates from the loess plateau around Yan'an, connected to the wider war only by tenuous overland routes through Nationalist territory.
+
+__Climate Regime & Volatility:__ Sichuan's humid basin climate differs from coastal Shanghai; paper mildews, ink runs in summer heat. Yan'an's dry loess plateau suits paper storage but lacks the rivers that moved cargo in the east. Monsoon rains periodically disrupt the Burma Road, Free China's lifeline for imported supplies after 1940.
+
+__Hazard Regime & Exposure:__ Japanese aerial bombing devastates Chongqing in 1939–1941, destroying printing facilities and killing civilians in firebombing raids; publishers disperse to surrounding towns. Yellow River flooding, deliberately caused by Nationalist demolition of dikes at Huayuankou (June 1938) to slow Japanese advance, drowns hundreds of thousands and displaces millions, disrupting any print distribution across the Central Plain.
+
+__Resource & Energy Endowment:__ Coal and hydropower in Sichuan sustain minimal industrial capacity; Yan'an relies on local coal seams. Paper pulp, once imported or sourced from coastal mills, must be produced locally from bamboo, straw, and recycled materials. Ink ingredients are scarce; printing presses salvaged from Shanghai or locally fabricated.
+
+__Waste Absorption & Sink Capacity:__ Chongqing's wartime population swells from 300,000 to over 1 million; sanitation collapses. Industrial pollution is minor given limited production. The landscape absorbs bomb rubble and displaced populations; the environmental load is human misery rather than industrial effluent.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ War, displacement, and crowding elevate mortality. Cholera and typhoid strike refugee columns and congested cities. Japanese biological warfare (Unit 731 operations) deliberately spreads plague and cholera in parts of occupied China. Malaria is endemic in subtropical areas. Mortality from direct violence — the Nanjing Massacre (December 1937) alone kills an estimated 200,000–300,000 — overwhelms disease as a cause of death.
+
+__Nutrition & Physiological Vitality:__ Blockade and disruption of rice-surplus regions (the Yangtze delta, Hunan) create food scarcity in Free China; rationing is instituted. Inflation erodes purchasing power; malnutrition spreads among the urban poor and military conscripts. In Yan'an, the "Great Production Movement" (1943) emphasizes self-sufficiency, including food production by cadres.
+
+__Care, Healing & Recovery Capacity:__ Modern medical facilities are concentrated in coastal cities now under occupation. Free China relies on missionary hospitals, military medical corps, and improvised clinics. The Chinese Red Cross and foreign aid (American, British) provide some supplies. In Communist areas, "barefoot doctors" and traditional medicine fill gaps.
+
+__Reproductive Biology & Pairing Dynamics:__ War separates families; conscription removes millions of men from households. Birth rates decline in conflict zones; demographic records are disrupted.
+
+__Demographic Renewal & Density:__ China's population, approximately 480 million in 1937, suffers an estimated 15–20 million war deaths (military and civilian) by 1945. Massive internal displacement — perhaps 80 million refugees — reshapes density patterns, depopulating war zones and crowding the interior.
+
+__Attrition & Dependency Overhang:__ War orphans, widows, wounded veterans, and displaced elderly constitute a vast dependency burden. The state apparatus lacks capacity for systematic care; communities and families absorb what they can.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The loss of the rice-surplus Yangtze delta and the disruption of granary systems force Free China to rely on Sichuan's rice and emergency imports. Land tax reverts to grain collection in kind (1941); peasants bear the burden. In occupied areas, Japanese requisitioning extracts grain for military use.
+
+__Energy Capture & Conversion:__ Industrial capacity in Free China is minimal; factories evacuated from Shanghai and Wuhan operate at reduced scale. Sichuan's coal and limited hydropower sustain essential production. Human and animal muscle remain primary; mechanization retreats.
+
+__Labor Organization & Coercion:__ Conscription for military service is brutal and coercive; press-ganging is common. Industrial workers in Chongqing work under state direction. In Communist areas, cadre labor campaigns mobilize the population for production and military support.
+
+__Production & Surplus Capacity:__ Free China's industrial output, never large, contracts under bombing and supply disruption. Arsenals produce small arms and ammunition; printing presses are among the prioritized factories relocated. Surplus extraction is for war, not development.
+
+__Storage, Reserves & Buffering:__ Grain reserves are drawn down; treasury reserves, depleted by war spending, are replenished by US aid (from 1941 especially after Pearl Harbor) and inflation taxation. The state prints money without backing; reserves are nominal.
+
+__Exchange, Trade & Logistics:__ The Burma Road (1938–1942) and later the Hump airlift (1942–1945) supply Free China with military goods; internal trade relies on river transport and deteriorating roads. Japanese blockade severs coastal trade. Black markets flourish.
+
+__Value Storage, Credit & Deferred Exchange:__ Hyperinflation devastates the Nationalist currency (fabi); prices rise approximately 2,000-fold between 1937 and 1945. Savings are wiped out; barter revives in some areas. Communist areas issue local currencies (bianbi) with limited circulation.
+
+__Surplus Extraction & Redistribution:__ Tax collection collapses in kind; the grain levy and conscription are the primary extraction mechanisms. Corruption diverts resources; the military and bureaucracy consume what surplus exists.
+
+__Wealth Distribution & Asset Defense:__ Wealthy families who evacuated with assets to the interior preserve some capital; those who remained in occupied areas face confiscation or collaboration choices. Landlords in Free China retain holdings; land reform waits.
+
+__Byproducts & Waste Routing:__ War debris — rubble, unexploded ordnance, abandoned equipment — litters battlefields and bombed cities. Industrial waste is minimal given production levels. The primary waste is human: corpses, refugees, ruined communities.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War scatters families; millions of men are conscripted and never return. Patrilineal succession is disrupted where sons die or disappear. Refugee communities improvise kinship networks. In Communist areas, marriage reform begins to reshape gender relations.
+
+__Association & Mutual Aid:__ Native-place associations (tongxianghui) help refugees find compatriots in strange cities. Secret societies persist. The GMD attempts to organize "New Life Movement" discipline; results are mixed. In Yan'an, the Party structures all association through mass organizations.
+
+__Leisure, Play & Sociability:__ Urban leisure contracts; theaters and teahouses persist where possible, sometimes as propaganda venues. Chongqing's wartime culture includes theater (spoken drama, traditional opera adapted for propaganda), cinema, and literary gatherings. Yan'an develops its own cultural institutions: the Lu Xun Academy of Arts, yangge folk opera performances.
+
+__Stratification, Status & Group Structure:__ Traditional gentry status erodes; military and party cadre ascend. In Nationalist China, the bureaucratic-military elite dominates; in Communist areas, class struggle rhetoric targets landlords while building a new Party hierarchy. Occupational collaboration creates new status categories in occupied zones.
+
+__Administrative Capacity & Institutional Integrity:__ The Nationalist government functions from Chongqing but with diminished reach; provincial warlords retain autonomy. Corruption and factionalism weaken capacity. The Communist Party, though geographically limited, develops disciplined administrative structures and cadre training. Japanese puppet regimes (Wang Jingwei government from 1940) exercise collaborationist administration.
+
+__Coercive Apparatus & Means of Force:__ The Nationalist military, reorganized with German and later American advisors, fields millions but suffers from poor supply, corruption, and defeatism after initial disasters. The Communist Eighth Route and New Fourth Armies practice guerrilla warfare behind Japanese lines, building local bases. Japanese forces occupy cities and railways but never pacify the countryside. Secret police (GMD's Juntong, CCP's security organs) operate in their respective zones.
+
+__Discharge, Disorder & Decay:__ Banditry flourishes in the interstices between zones; desertion rates are high. Japanese atrocities (Nanjing Massacre, "Three Alls" campaign: kill all, burn all, loot all) devastate occupied areas. The social fabric frays; order depends on local strongmen, military units, or Party cadres.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Patriotic fervor surges in 1937–1938 as the nation rallies against invasion; the slogan "War of Resistance to the End" (kangzhan daodi) captures the mood. By 1943–1944, war-weariness, inflation, and defeats erode morale in Free China. In Yan'an, revolutionary enthusiasm is cultivated through campaigns and ideological education.
+
+__Leadership & Personal Authority:__ Chiang Kai-shek embodies national resistance; his authority, though contested, holds the Nationalist coalition together. Mao Zedong consolidates control over the CCP through the Rectification Movement (1942–1944), emerging as unchallenged leader. Wang Jingwei, heading the Japanese puppet government, is reviled as a traitor; his authority depends entirely on Japanese bayonets.
+
+__Legitimacy as Lived Allegiance:__ The Nationalist government claims legitimacy as the legal government resisting invasion; international recognition (League of Nations, later United Nations) supports this claim. The Communists build legitimacy through effective local governance, land reform, and resistance warfare in base areas. The puppet regimes lack popular legitimacy.
+
+__Political Will & Collective Resolve:__ The will to resist is genuine but uneven; Nationalist strategy conserves forces for anticipated post-war struggle with the CCP, frustrating American advisors who want offensive action. Communist will is channeled through Party discipline; the Rectification Movement ensures ideological conformity.
+
+__External Relations & Posture:__ China is an Allied power after Pearl Harbor (December 1941); US aid flows through Lend-Lease, but relations are strained by Chiang's reluctance to engage and by the Stilwell controversy. The Soviet Union aids the CCP indirectly, maintaining formal relations with the Nationalist government. Britain focuses on Burma; China is secondary.
+
+__Disaffection, Apathy & Spent Will:__ By 1944–1945, inflation and defeat in the Ichigo offensive demoralize Free China's population; apathy and cynicism spread. In Yan'an, the Rectification Movement disciplines disaffection through self-criticism and ideological conformity. The spent will of the war years leaves both regimes exhausted.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy remains approximately 15–20%; the vernacular (baihua) is standard for journalism and propaganda. Radio broadcasting (Voice of China from Chongqing, Yan'an Radio from 1940) reaches those with receivers, primarily urban and military audiences. Print remains primary for mass communication where distribution is possible.
+
+__Channels & Transmission Velocity:__ Telegraph and telephone networks in Free China connect government and military; postal service continues despite disruption. In occupied areas, Japanese control communications. In base areas, runners and couriers link scattered units. News travels slowly in the interior; rumors often outpace verified reports.
+
+__Record, Storage & Persistence:__ Government archives are evacuated with the retreat; some are lost to bombing. Publishers relocate libraries and stocks westward. The Communists maintain Party archives with care. War disrupts record-keeping; much documentation is destroyed or scattered.
+
+__Framing, Censorship & Discourse Norms:__ The Nationalist government operates a Central Propaganda Department and a Press Censorship Bureau; all publications require approval. Criticism of Chiang or defeatist content is banned. Despite censorship, licensed Communist organs (Xinhua Daily in Chongqing, 1938–1947) operate within strict limits. In Japanese-occupied areas, press is entirely controlled; collaboration is required. In Yan'an, Party discipline frames all discourse; the Rectification Movement establishes ideological orthodoxy.
+
+__Reception, Attention & Amplification:__ Newspapers are read aloud in teahouses and workplaces, multiplying their reach beyond literate readers. Radio broadcasts are similarly amplified through public listening and retransmission. Propaganda posters and slogans blanket public spaces in all three zones.
+
+__Signal Integrity & Noise Load:__ Propaganda from three regimes competes; each denounces the others as traitors, puppets, or threats. Rumor and uncertainty dominate; civilians cannot easily verify claims. The signal-to-noise ratio is low; all information is suspected of bias.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Resistance to invasion is framed as national duty; collaboration is treason. Japanese atrocities — the Nanjing Massacre above all — crystallize a moral narrative of victimhood and resistance. Communist discourse adds class justice: landlords and capitalists exploit the peasantry; the Party liberates.
+
+__Law, Codification & Regulatory Evolution:__ Wartime emergency laws expand state power; habeas corpus is effectively suspended. The Nationalist government issues press regulations; violation brings closure or prosecution. In Communist areas, Party decisions carry the force of law; formal codification is minimal.
+
+__Adjudication, Liability & Sanction:__ Military tribunals handle treason and collaboration cases; summary execution is common. Civil courts function in Chongqing but are overwhelmed. In Communist areas, mass trials ("speak bitterness" sessions) combine adjudication with mobilization.
+
+__Rights, Protections & Compliance Burden:__ Individual rights are subordinated to national survival; press freedom, assembly, and movement are restricted. Conscription is effectively unconstrained. The compliance burden on citizens is extreme: loyalty must be demonstrated under surveillance from whichever authority controls the locality.
+
+__Impunity & Unredressed Wrong:__ Japanese war crimes are documented but perpetrators are not held accountable during the war; post-war trials are incomplete. Nationalist abuses (conscription brutality, corruption, summary executions) go unpunished. Communist purges during Rectification claim victims without redress. The accumulation of unredressed wrong poisons the post-war settlement.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Wartime conditions constrain academic inquiry; universities relocate to the interior (the famous Southwest Associated University in Kunming combines Peking, Tsinghua, and Nankai). Scientific research supports the war effort where possible. Marxist theory advances in Yan'an; Mao's essays ("On Protracted War," "On New Democracy") articulate Chinese Communist ideology.
+
+__Applied Knowledge & Technical Method:__ Military technology is imported (American Lend-Lease) or captured; indigenous production is limited. Printing technology relies on equipment salvaged from the coast or improvised locally; mimeograph and lithograph substitute for letterpress where presses are unavailable.
+
+__Education, Knowledge Stock & Skill Distribution:__ Schools and universities operate under difficult conditions; enrollment contracts. Literacy campaigns in Communist areas aim to create a politically literate cadre base. Technical skills are scarce; training emphasizes political reliability alongside competence.
+
+__Obsolescence & Knowledge Decay:__ War disrupts transmission; libraries are lost, schools closed, teachers scattered. Traditional knowledge (classical learning) continues its decline under wartime pressures; the practical and the political displace the scholarly.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The War of Resistance becomes the defining experience of modern Chinese nationhood; sacrifice and suffering forge collective memory. The Nanjing Massacre enters national consciousness as an atrocity requiring remembrance and revenge. Communist areas cultivate revolutionary mythology: Long March veterans, peasant heroes, Party martyrs.
+
+__Legitimating Narrative & Ideology:__ The Nationalists claim Sun Yat-sen's Three Principles as their mandate; wartime unity is framed as fulfillment of national revolution. The Communists subordinate class struggle to national resistance under United Front ideology while preparing for eventual revolutionary advance. Japanese propaganda promotes the "Greater East Asia Co-Prosperity Sphere"; few Chinese are persuaded.
+
+__Artistic Expression & Material Culture:__ Wartime culture emphasizes patriotic themes: anti-Japanese songs, spoken dramas, woodcut prints depicting resistance. The League of Left-Wing Writers' legacy shapes Chongqing's cultural life. In Yan'an, Mao's "Talks at the Yan'an Forum on Literature and Art" (1942) mandates that art serve politics and the masses; yangge opera and revolutionary songs become standard forms.
+
+__Form Exhaustion & Meaning Decay:__ Propaganda's repetition dulls impact; patriotic slogans become routine by war's end. The forms of resistance culture persist but their mobilizing power wanes as exhaustion sets in. In Yan'an, ideological conformity narrows expression; genuine innovation is suspect.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ For many Chinese, the war is a test of national survival; fatalism mingles with determination. Buddhist, Daoist, and folk religious practice continue under all regimes, providing solace. Christian missions (Protestant and Catholic) operate in Free China with foreign protection. Communist ideology promotes materialist atheism, but enforcement is limited.
+
+__Ritual, Devotion & Sacred Practice:__ Temple festivals and domestic rituals persist where communities survive; war disrupts but does not extinguish religious life. Funerary rites for war dead are improvised or impossible; unburied corpses and missing persons leave spiritual wounds.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhist monasteries and Daoist temples function where not destroyed; some provide refuge. Christian churches maintain organizational structures with foreign support. In Communist areas, religious institutions are tolerated but discouraged; cadres are expected to be atheist.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ War displaces religious communities alongside secular ones; temples are destroyed, clergy scattered. Japanese Shinto and state Buddhism are imposed in occupied Manchuria; penetration into China proper is limited.
+
+__Disenchantment & Sacred Discharge:__ Mass death and suffering challenge providential interpretations; for some, the war confirms cosmic injustice. The Communist advance carries secularizing force; traditional religion is labeled superstition. The spiritual residue is a generation marked by trauma, seeking meaning in national redemption or revolutionary purpose.

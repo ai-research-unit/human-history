@@ -1,69 +1,139 @@
-# __3100 BCE – 1850 CE__ — Scripts and Scribes Across Egyptian History
-__Summary:__ A pan-temporal snapshot of the scribal institution across five millennia of Nile Corridor history, from hieroglyphic emergence under the early pharaohs through hieratic, demotic, Coptic, and Arabic writing systems to the eve of print. The binding constraint throughout is the transmission bottleneck: the number of trained scribes limits the volume of records a society can produce, store, and retrieve. The system holds adequate margin so long as scribal schools reproduce their specialists each generation; disruption (conquest, plague, religious displacement) repeatedly tests that margin. Direction of change across the full window is from logographic-pictorial writing serving a narrow temple-palace elite toward alphabetic scripts reaching broader literate publics, culminating in print's arrival (1821) which begins to dissolve the scribal monopoly altogether.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor's linear floodplain concentrates population and administration, reducing spatial friction for record transmission; desert flanks isolate the system from rival writing traditions until conquest events introduce new scripts.<br><br>
-__Climate Regime & Volatility:__ Hot, dry climate preserves papyrus and parchment exceptionally well; interannual Nile variability affects agricultural surplus available to support scribal institutions but does not alter preservation conditions.<br><br>
-__Hazard Regime & Exposure:__ Fire, flood, and conquest destroy archives episodically (Alexandria's losses, Crusader and Mongol-era disruptions); dry storage in temples and tombs provides margin against routine decay.<br><br>
-__Resource & Energy Endowment:__ Papyrus native to Delta marshes until medieval period; clay and limestone available for ostraca; parchment imported; paper arrives via Islamic trade; writing substrates shift with resource availability.<br><br>
-__Waste Absorption & Sink Capacity:__ Discarded texts (ostraca, worn papyri) recycled as fill or fuel; absorptive capacity never strained; waste a non-issue across the window.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague and epidemic outbreaks reduce scribal populations (Black Death's impact on Mamluk chanceries documented); replacement depends on training pipeline, which lags mortality shocks.<br><br>
-__Nutrition & Physiological Vitality:__ Scribes occupy middle-to-upper strata; nutritional status adequate; occupational hazards (eye strain, sedentary posture) attested but do not limit recruitment.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Scribal families often reproduce the profession across generations; kin selection for literacy visible in dynastic Egypt; no biological barrier to recruitment.<br><br>
-__Demographic Renewal & Density:__ Scribal cadre expands with administrative complexity (Old Kingdom, Ptolemaic, Fatimid peaks) and contracts during fragmentation (Intermediate Periods, post-plague Mamluk era); density correlates with state capacity.<br><br>
-__Attrition & Dependency Overhang:__ Elderly scribes continue copying until death; apprenticeship absorbs youth; dependency load low; skill loss at death the greater systemic risk.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Scribes receive state or temple rations (pharaonic period), salaries or fees (Islamic period); subsistence secure above peasant baseline; profession attractive for economic stability.<br><br>
-__Energy Capture & Conversion:__ Writing is low-energy work; lamp oil for night copying the main energy input; no mechanical aids until print; conversion efficiency stable across millennia.<br><br>
-__Labor Organization & Coercion:__ Scribal labor organized in palace, temple, or chancery bureaus; corvee does not apply to literate specialists; guild-like structures emerge under Islam; coercion minimal, compensation standard.<br><br>
-__Production & Surplus Capacity:__ A trained scribe produces several folios per day; institutional capacity measured in scribal headcount; surplus (archive depth) accumulates over generations; production ceiling set by labor supply.<br><br>
-__Storage, Reserves & Buffering:__ Temple, palace, and monastic archives constitute the reserve; Geniza deposits preserve even discards; buffering against loss depends on copy redundancy.<br><br>
-__Exchange, Trade & Logistics:__ Papyrus exported from Ptolemaic Egypt across Mediterranean; paper imported via Islamic networks; manuscript trade (copying for sale) attested; logistics adequate.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Manuscripts themselves store value (scholarly, legal, religious); copying contracts involve deferred payment; credit instruments recorded by scribes; function persistent.<br><br>
-__Surplus Extraction & Redistribution:__ Scribes administer tax collection, land surveys, tribute lists; they enable extraction but are not its primary beneficiaries; redistribution passes through their hands without accruing to them.<br><br>
-__Wealth Distribution & Asset Defense:__ Scribal families accumulate modest wealth (houses, land grants); literacy itself a heritable asset; distribution stable within the literate stratum.<br><br>
-__Byproducts & Waste Routing:__ Ink production yields minor effluent; worn-out pens, scraped palimpsests discarded or recycled; no significant waste problem.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Scribal guilds and professional networks provide mutual aid; trust high within literate circles; illiterate majority depends on scribal honesty for contractual security.<br><br>
-__Stratification, Status & Group Identity:__ Scribes occupy a distinct middle stratum between rulers and peasants; identity marked by literacy, dress, and occupational pride; boundaries permeable via training but socially recognized.<br><br>
-__Kinship, Family & Inheritance:__ Scribal skills often transmitted father-to-son; apprenticeship within household common; inheritance of position attested in pharaonic and Islamic periods.<br><br>
-__Civic Association & Self-Organization:__ Scribal associations (pharaonic house of life, Islamic copyist guilds) regulate standards; self-organization persists across regime changes.<br><br>
-__Leisure, Play & Sociability:__ Literary composition, calligraphic display, and scholastic debate serve as leisure activities; scribal sociability centered on libraries, madrasas, and coffeehouses.<br><br>
-__Grievance Channels & Social Discharge:__ Scribes petition rulers; professional disputes resolved within guild structures; grievance absorption adequate; dislocation rare.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Scribes serve whoever holds power — pharaoh, Ptolemaic king, Roman prefect, caliph, sultan, pasha; they enable centralized administration but do not themselves rule; instrument of authority, not its locus.<br><br>
-__Succession & Power Transfer:__ Regime changes require new scribes to learn new scripts (Greek under Ptolemies, Arabic under Islam) or retrain incumbents; transfer creates temporary bottleneck, then stabilizes.<br><br>
-__Legitimacy & Political Narrative:__ Scribes compose and copy legitimating texts (royal annals, religious decrees); they produce the political narrative without authoring it; legitimacy maintenance depends on their output.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Scribal capacity = administrative capacity; when scribes are few (Intermediate Periods, post-plague), state reach contracts; integrity depends on scribal training and supervision.<br><br>
-__Political Participation & Mobilization:__ Scribes participate as functionaries, rarely as political actors; mobilization limited to professional interests; no scribal rebellions attested.<br><br>
-__Geopolitical Position & External Relations:__ Scribes handle diplomatic correspondence (Amarna Letters, Fatimid chancery); external relations depend on multilingual competence; capacity adequate at each period's peak.<br><br>
-__Coercive Apparatus & Means of Force:__ Scribes record military rosters, supply logistics, and legal judgments; they service the coercive apparatus without wielding force themselves.<br><br>
-__Internal Order & Threat Environment:__ Forgery and falsification threaten record integrity; scribal oaths and seals mitigate; internal disorder from document fraud rare but attested.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Messengers carry written documents; speed constrained by travel time (Nile current, animal transport); velocity unchanged until steamship and telegraph; written word extends reach beyond oral memory.<br><br>
-__Record, Storage & Persistence:__ Hieroglyphic inscriptions on stone last millennia; papyrus survives centuries in dry storage; paper more fragile; persistence depends on substrate and copying practice; loss rate moderate, offset by redundancy.<br><br>
-__Framing, Censorship & Discourse Norms:__ Scribes select what is copied; heretical or obsolete texts may be suppressed (Christian destruction of pagan texts, Islamic hadith criticism); censorship operates through copying decisions.<br><br>
-__Reception, Attention & Amplification:__ Audience is literate elite (priests, officials, scholars) until late Islamic period when madrasa education widens; amplification limited by handcopying throughput.<br><br>
-__Signal Integrity & Noise Load:__ Scribal training emphasizes accurate copying; collation and correction attested (Alexandrian textual scholarship, Islamic isnad); noise accumulates over transmission chains but verification mechanisms exist.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Written contracts, wills, and judgments encode and transmit moral norms; scribes are custodians of legal memory; sense of justice tied to documentary attestation.<br><br>
-__Law, Codification & Regulatory Evolution:__ Law codes (pharaonic decrees, Ptolemaic edicts, shari'a compilations) exist only because scribes write and copy them; codification depends on scribal capacity.<br><br>
-__Adjudication, Enforcement & Liability:__ Court scribes record proceedings, judgments, and appeals; written record becomes evidence; adjudication quality correlates with record accuracy.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights secured by written deeds; compliance burden includes document fees and registration; illiterate parties depend on scribal integrity.<br><br>
-__Impunity & Unredressed Wrong:__ Lost or falsified documents can defeat justice; archive destruction (conquest, fire) creates impunity by erasing evidence; margin against such loss variable.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scribes copy and transmit inquiry (medical papyri, Ptolemaic scholarship, Islamic science); they preserve paradigms across generations; inquiry depends on scribal transmission.<br><br>
-__Applied Knowledge & Technical Method:__ Technical manuals (mathematical, astronomical, medical) survive only through scribal copying; method transmission bottlenecked by copyist availability.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (house of life, temple schools, kuttab, madrasa) reproduce literacy; knowledge stock = accumulated manuscript holdings; distribution limited to literate stratum.<br><br>
-__Obsolescence & Knowledge Decay:__ Texts not copied decay and are lost; script changes (hieroglyphic to demotic to Coptic to Arabic) obsolete earlier corpora unless transliterated; decay constant, offset by copying effort.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Scribes record and transmit origin myths, king lists, and foundational narratives; collective memory depends on their work; identity anchored in written tradition.<br><br>
-__Artistic Expression & Material Culture:__ Calligraphy is an art form across all scripts; illuminated manuscripts, carved inscriptions, and decorative Qurans attest to aesthetic investment; material culture celebrates writing.<br><br>
-__Collective Mood & Behavioral Disposition:__ Scribal profession conveys prestige and optimism about social mobility; "be a scribe" advice literature (Satire of the Trades) attests to favorable disposition toward the occupation.<br><br>
-__Form Exhaustion & Meaning Decay:__ Script changes render earlier forms unreadable to later populations (hieroglyphic lost by late antiquity, Coptic declining after Islamic conquest); meaning decays when reading skill disappears; form exhaustion real.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Scribes copy sacred texts (Pyramid Texts, Book of the Dead, Bible, Quran); cosmology transmitted through their labor; outlook shaped by texts they reproduce.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Liturgical manuscripts enable ritual; scribes produce prayer books, hymnals, and ritual manuals; sacred practice depends on written guidance.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temples, monasteries, mosques employ scribes; doctrinal authority rests on authoritative manuscripts; institutional power tied to textual control.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ New religions (Christianity, Islam) spread via translated scriptures; scribes enable diffusion; script changes mark religious displacement (Coptic for Christianity, Arabic for Islam).<br><br>
-__Disenchantment & Sacred Discharge:__ Printing (1821) begins to mechanize what scribes sanctified by hand; disenchantment of the written word incipient at window's close; sacred discharge minimal within the manuscript era itself.<br><br>
+# __3100 BCE – 1850 CE — Scripts and Scribes Across Egyptian History__
+
+__Summary:__ Five millennia of Nile corridor civilization run on persistent external records — hieroglyphics giving way to hieratic, demotic, Coptic, Greek, and Arabic — with the scribal class acting as the binding constraint that gates access to administration, religion, and law, its monopoly on literacy translating technical skill into structural power across every political regime from pharaohs through Ptolemies, caliphs, and pashas.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile axis concentrates population and administration along a linear corridor from the First Cataract to the Mediterranean, enabling centralized record-keeping; papyrus grows natively in the Delta marshes, providing the material substrate for manuscript civilization; desert margins preserve texts that would rot elsewhere, creating an accident of survival that shapes what later ages know.
+
+__Climate Regime & Volatility:__ Arid climate preserves papyrus, leather, ostraca in tombs and rubbish heaps; the annual flood's regularity permits agricultural planning recorded in cadastral registers; multi-century droughts (notably 2200 BCE, 1200 BCE) coincide with administrative collapse and archival interruption.
+
+__Hazard Regime & Exposure:__ Flood variability recorded in Nilometers and tax registers; plagues (Justinianic 541 CE, medieval recurrences) disrupt scribal continuity; fires (Alexandria library, attested if details contested) destroy accumulated records.
+
+__Resource & Energy Endowment:__ Papyrus reeds, pigments (carbon black, red ochre), reed pens — all locally available — underwrite low-cost text production; parchment and later paper imported or manufactured at higher cost; ink and writing surfaces remain cheap enough for bureaucratic proliferation.
+
+__Waste Absorption & Sink Capacity:__ Discarded papyri, broken ostraca, worn-out documents accumulate in middens, tombs, and geniza deposits; the physical sink preserves what intentional archives would have culled; waste becomes archive for modern archaeology.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Scribes share population-wide disease load (bilharzia, ophthalmia, plague) but sedentary indoor work and urban residence may increase or decrease exposure depending on period; literacy-bearing individuals die in epidemics like others, breaking transmission chains.
+
+__Nutrition & Physiological Vitality:__ Scribal status correlates with better nutrition than manual labor; Old Kingdom Satire of the Trades contrasts scribal comfort with craftsmen's toil; obesity and spinal conditions appear in elite mummies.
+
+__Care, Healing & Recovery Capacity:__ Medical papyri (Edwin Smith, Ebers) transmit healing knowledge; temple scriptoria preserve and copy medical texts; care capacity extends to scribal elites and their patrons; knowledge of anatomy and treatment codified in writing.
+
+__Reproductive Biology & Pairing Dynamics:__ Scribal families often transmit profession father to son; literacy as occupational inheritance; intermarriage within administrative-priestly castes concentrates literacy genes and training.
+
+__Demographic Renewal & Density:__ Literate population always small fraction (estimates 1–5%) of total; scribal corps expands with bureaucratic demand (New Kingdom, Ptolemaic, Mamluk periods); population peaks correlate with archive density.
+
+__Attrition & Dependency Overhang:__ Loss of trained scribes to war, plague, or political purge creates knowledge bottlenecks; apprentices replace masters slowly; some scripts (hieroglyphics by 4th century CE, demotic by 5th century CE) die with their last practitioners.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Scribes typically exempt from corvée and field labor; provisioned through temple or palace rations (Old Kingdom), salaries (Ptolemaic), stipends (Islamic); writing skill converts to economic security.
+
+__Energy Capture & Conversion:__ Manuscript production requires minimal energy — human labor with simple tools; copying a text consumes far less energy than the productive activities (agriculture, construction) the text records and coordinates.
+
+__Labor Organization & Coercion:__ Scribal labor organized through temples, palace bureaus, later madrasas and chanceries; apprenticeship long (Deir el-Medina evidence suggests years of training); coercion minimal — skill scarcity grants leverage.
+
+__Production & Surplus Capacity:__ Texts themselves produce no surplus but coordinate extraction of surplus from agriculture, trade, and tribute; cadastral records, tax rolls, and tribute lists are instruments of surplus capture.
+
+__Storage, Reserves & Buffering:__ Archives function as information reserves — deeds, precedents, accounts retrievable across years; geniza (Islamic) and House of Life (pharaonic) preserve institutional memory; record loss impairs future claims.
+
+__Exchange, Trade & Logistics:__ Papyrus exported from Egypt across Mediterranean; scribes draft commercial contracts, bills of lading, letters of credit; literacy enables long-distance trade coordination; merchant literacy expands in Ptolemaic, Roman, and Islamic periods.
+
+__Value Storage, Credit & Deferred Exchange:__ Written contracts, IOUs, waqf deeds, and account books store value across time; credit relations documented and enforceable; literacy gatekeeps formal finance.
+
+__Surplus Extraction & Redistribution:__ Tax registers, censuses, and land surveys are instruments of extraction; state capacity to extract correlates with scribal-administrative capacity; undertaxation often reflects record-keeping failure.
+
+__Wealth Distribution & Asset Defense:__ Written deeds and wills defend property claims; temple archives protect institutional endowments; forged documents (attested throughout) attack property; literacy is weapon and shield in asset disputes.
+
+__Byproducts & Waste Routing:__ Discarded drafts, practice pieces, broken ostraca accumulate; recycled papyrus (palimpsests) reuses material; waste stream preserves otherwise lost texts.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Scribal families form recognizable lineages (Deir el-Medina genealogies, Islamic ulama families); profession and literacy often inherited; intermarriage within literate castes concentrates access.
+
+__Association & Mutual Aid:__ Scribes organize within temple colleges, chancery bureaus, madrasa networks; professional solidarity visible in shared training, housing (Deir el-Medina village), and collective identity; guilds (Islamic period) regulate access.
+
+__Leisure, Play & Sociability:__ Literary texts (Satire of the Trades, love poetry, Maqamat) serve entertainment; scribes compose and copy for pleasure as well as duty; coffeehouse culture (Ottoman period) disseminates literary sociability.
+
+__Stratification, Status & Group Structure:__ Literacy marks status boundary — scribes above manual laborers, below priests and royalty; within scribal class, gradations from village clerk to royal chancellor; foreign scribes (Greek, Turkish) form parallel hierarchies in conquest periods.
+
+__Administrative Capacity & Institutional Integrity:__ Scribes staff the apparatus — temples, treasuries, courts, diwans; bureaucratic continuity depends on scribal corps; administrative collapse correlates with scribal discontinuity (First Intermediate Period, post-Roman transition); institutional integrity = archival integrity.
+
+__Coercive Apparatus & Means of Force:__ Scribes do not wield force directly but record military levies, provision armies, and maintain intelligence; literacy serves coercion without performing it; military scribes embedded in armies from New Kingdom onward.
+
+__Discharge, Disorder & Decay:__ Scribal corruption (bribery, falsification) endemic across periods; bureaucratic sclerosis when copying displaces innovation; loss of script knowledge (hieroglyphics, demotic) represents ultimate scribal decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Scribal self-regard visible in Satire of the Trades and later genres; contempt for manual labor; pride in skill; anxiety about obsolescence when script changes; resentment from illiterate majority seldom recorded but inferable.
+
+__Leadership & Personal Authority:__ Great scribes (Imhotep, Manetho, Ibn Khaldun) achieve individual fame; viziers and chief judges wield authority through literacy; personal authority often inseparable from administrative function.
+
+__Legitimacy as Lived Allegiance:__ Written documents confer legitimacy — royal decrees, religious texts, legal judgments carry weight; forgery attempts demonstrate that documents command belief; oral testimony subordinate to written record in formal settings.
+
+__Political Will & Collective Resolve:__ Scribal corps executes will of rulers; collective resolve channeled through routine administration; scribes rarely initiate policy but enable or obstruct execution; passive resistance through slowdown, misfiling, or procedural obstruction attested.
+
+__External Relations & Posture:__ Diplomatic correspondence (Amarna letters, Ottoman firman) conducted through scribal channels; foreign relations depend on translation capacity; multilingual scribes (Greek-Demotic, Arabic-Turkish) bridge empires.
+
+__Disaffection, Apathy & Spent Will:__ End-of-dynasty apathy visible in sloppy copying, unfilled registers; script death (hieroglyphics, demotic) reflects spent will to transmit; final hieroglyphic inscription (394 CE, Philae) marks exhaustion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy confined to trained minority across all periods; scripts vary in accessibility — hieroglyphics most restricted, demotic and Arabic more diffused; oral majority receives written content through public reading, preaching, proclamation.
+
+__Channels & Transmission Velocity:__ Couriers, Nile boats, caravans carry documents; transmission speed varies from days (Delta) to weeks (Nubia); speed unchanged for millennia until steamship and telegraph (19th century); channel reliability depends on political control of routes.
+
+__Record, Storage & Persistence:__ Archives accumulate in temples (House of Life), palaces, courts, mosques, madrasas; survival accidental (tombs, geniza, rubbish heaps) as much as intentional; papyrus degrades unless preserved in arid conditions; parchment and paper more durable in damp.
+
+__Framing, Censorship & Discourse Norms:__ Royal and religious texts frame approved discourse; scribes copy what patrons commission; heretical or seditious texts suppressed (Amarna erasures, Coptic-Islamic transitions); self-censorship by scribes who depend on patronage.
+
+__Reception, Attention & Amplification:__ Texts reach audiences through reading aloud, recitation, preaching; amplification depends on copying and distribution; popular texts (Book of the Dead, Quran) widely copied; niche texts may survive in single copies.
+
+__Signal Integrity & Noise Load:__ Copying errors accumulate across generations; critical editions (Masoretic, Quranic) attempt to fix text; variant readings, corruptions, and interpolations introduce noise; palaeography and textual criticism emerge to manage noise.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Ma'at (pharaonic), Sharia (Islamic) provide moral frameworks transmitted through written codes, wisdom literature, legal compilations; scribes serve justice system without defining ethics.
+
+__Law, Codification & Regulatory Evolution:__ Law codes (from Horemheb's edict through Napoleonic introductions) depend on scribal drafting and copying; case law preserved in court archives; legal evolution visible in changing documentary forms.
+
+__Adjudication, Liability & Sanction:__ Courts rely on written evidence — contracts, depositions, precedents; scribes draft judgments; forgery punished when detected; documentary culture elevates written proof over oral testimony.
+
+__Rights, Protections & Compliance Burden:__ Rights documented in deeds, grants, and privileges; compliance requires documentary proof; illiterate majority dependent on scribes to defend or attack claims; compliance burden falls on those who cannot write.
+
+__Impunity & Unredressed Wrong:__ Powerful manipulate records; lost or destroyed documents erase claims; illiterates unable to contest; scribal complicity in impunity common; justice gap correlates with literacy gap.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scribes transmit inquiry — medical papyri, mathematical problems, astronomical observations — without necessarily advancing it; copying preserves but can also fossilize; theoretical innovation rare within scribal routine but scribes enable scholars who innovate.
+
+__Applied Knowledge & Technical Method:__ Practical handbooks (mathematics, medicine, agriculture, law) codify technique; method transmitted through copying and apprenticeship; technical knowledge accumulates across generations in writing.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (Houses of Life, madrasas, kuttab) train each generation; curriculum emphasizes copying and memorization; knowledge stock grows through accumulation of texts; skill distribution concentrated in scribal caste, diffuses slowly.
+
+__Obsolescence & Knowledge Decay:__ Script death (hieroglyphics, demotic) extinguishes access to prior knowledge; Champollion's decipherment (1822) recovers pharaonic texts but only for European scholars initially; knowledge locked in dead scripts is functionally lost until deciphered; copying errors, lost manuscripts, and untrained successors erode knowledge stock.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Foundational texts (Pyramid Texts, Book of the Dead, Quran, hagiographies) transmit identity across generations; scribes are custodians of memory; mythic past accessible only through their work; identity depends on textual continuity.
+
+__Legitimating Narrative & Ideology:__ Royal inscriptions, dynastic histories, religious commentaries construct legitimacy; scribes draft and copy legitimating texts; ideology transmitted through schoolroom copying as much as reading.
+
+__Artistic Expression & Material Culture:__ Calligraphy as art form — hieroglyphic monumental carving, hieratic brush work, Arabic thuluth and naskh — aesthetic dimension of writing; illuminated manuscripts, decorated Qurans, illustrated medical texts integrate text and image.
+
+__Form Exhaustion & Meaning Decay:__ Formulaic texts (offering lists, legal boilerplate, bureaucratic forms) become routine, meaning hollowed; living genres (poetry, legal commentary) renew while administrative forms ossify; script death represents ultimate form exhaustion.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Religious texts (Pyramid Texts through Quran) transmit cosmology; scribes copy sacred words without necessarily authoring theology; existential outlook shaped by texts available and copied.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual texts prescribe practice; Book of the Dead accompanies burials; Quran recitation structures daily devotion; scribes produce texts that enable ritual without performing it themselves (unless also priests or imams).
+
+__Religious Institutions & Doctrinal Authority:__ Temple scriptoria, monastery copying rooms, madrasa libraries serve religious institutions; doctrinal authority depends on authenticated texts; scribes authenticate or forge as circumstances require; Al-Azhar ulama are literate by definition.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Script transitions mark religious transitions — hieroglyphics for pharaonic religion, Coptic for Christianity, Arabic for Islam; conversion correlates with script shift; old scripts carry old cosmologies; readers of dead scripts access displaced belief systems.
+
+__Disenchantment & Sacred Discharge:__ Hieroglyphics become "sacred carvings" whose meaning is lost by 5th century CE; Coptic retreats to liturgy as Arabic dominates daily life; each script death disenchants what that script carried; modern decipherment recovers text but not lived faith.

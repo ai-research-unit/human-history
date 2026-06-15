@@ -1,69 +1,139 @@
-# __2014 CE – 2020 CE__ — Platform Maturation and Social Media Evolution
-__Summary:__ Japan's digital ecosystem consolidates around dominant platforms as LINE achieves messaging hegemony, Twitter attains unusual national penetration, and mobile payments proliferate through cashless initiatives — the binding constraint being platform lock-in effects entrenching oligopolistic structures, margin for new entrants narrowing as network effects compound, trajectory toward platform-dependent social and commercial infrastructure firmly established before pandemic disruption.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Dense urban corridors continuing to concentrate digital activity; LTE and early 5G infrastructure deployment following population density; rural connectivity gaps persisting but narrowing; mountainous interior remaining underserved relative to coastal urbanization.<br><br>
-__Climate Regime & Volatility:__ Monsoon and typhoon patterns stable; seasonal typhoons disrupting infrastructure periodically; no climate-driven constraint on platform expansion; data center cooling demands met by temperate conditions and engineering.<br><br>
-__Hazard Regime & Exposure:__ Seismic exposure continuous; Kumamoto earthquake 2016 and Hokkaido earthquake 2018 testing mobile infrastructure resilience; platform-based disaster communication patterns established post-2011 now routinized; hazard response integrated into platform design expectations.<br><br>
-__Resource & Energy Endowment:__ Continued energy import dependence; nuclear restart partial; electricity supply adequate for expanding data infrastructure; rare earth and semiconductor supply chains extending through East Asia with increasing geopolitical sensitivity.<br><br>
-__Waste Absorption & Sink Capacity:__ Smartphone replacement cycles generating steady e-waste flow; recycling infrastructure maturing; data center energy consumption growing but efficiency improving; sink capacity adequate for current volumes.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Low infectious disease burden continuing; aging-related chronic disease rising; no epidemic disruption during window; biological conditions stable for platform engagement.<br><br>
-__Nutrition & Physiological Vitality:__ High nutritional adequacy maintained; screen time increasing without acute health crisis; sedentary digital engagement contributing to gradual lifestyle disease trends.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility continuing historic decline; dating apps normalizing but not reversing marriage delay; LINE and social media increasingly mediating relationship formation and maintenance; digital courtship layering onto rather than replacing traditional patterns.<br><br>
-__Demographic Renewal & Density:__ Aging acceleration; working-age population shrinking; platform user demographics broadening to include elderly adopters; generational digital divide narrowing as smartphone penetration saturates.<br><br>
-__Attrition & Dependency Overhang:__ Elderly dependency ratio rising; care technology and communication apps partially compensating for geographic family dispersion; productive cohort stretched between caregiving obligations and platform-mediated work intensification.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ High provisioning baseline stable; smartphone costs absorbed into household budgets; no material barrier to platform participation; economic security enabling digital consumption patterns.<br><br>
-__Energy Capture & Conversion:__ Grid electricity meeting expanding data demand; energy efficiency improving; renewable capacity growing modestly; conversion efficiency adequate for platform infrastructure scaling.<br><br>
-__Labor Organization & Coercion:__ Employment structures evolving; gig economy platforms emerging but smaller than Western counterparts; LINE and communication apps integrating into workplace expectations; labor time extending through always-on connectivity.<br><br>
-__Production & Surplus Capacity:__ Service economy dominant; platform businesses generating substantial surplus; domestic tech companies (Rakuten, Yahoo Japan, LINE) competing with global platforms; manufacturing base continuing offshore shift.<br><br>
-__Storage, Reserves & Buffering:__ Corporate cash reserves substantial; household savings declining from historic highs but adequate; platform companies accumulating capital; financial buffers supporting continued digital investment.<br><br>
-__Exchange, Trade & Logistics:__ E-commerce maturing; Amazon Japan, Rakuten, Yahoo Shopping competing; logistics networks optimized for online order fulfillment; convenience store pickup integrating digital and physical retail; exchange velocity increasing through platform mediation.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Mobile payment platforms proliferating — LINE Pay 2014, PayPay 2018, others competing; government cashless promotion accelerating adoption; QR code payments reducing cash dependence; credit and deferred payment integrating into platform ecosystems.<br><br>
-__Surplus Extraction & Redistribution:__ Platform commissions extracting surplus from merchants and creators; advertising revenue concentrating in Google and domestic portals; payment platform interchange capturing transaction margins; redistribution through platform-mediated promotion and discovery.<br><br>
-__Wealth Distribution & Asset Defense:__ Platform ownership concentrating; digital advertising revenue flowing to platform oligopoly; small business digital transition imposing compliance costs; wealth effects from platform equity concentrated among shareholders and early employees.<br><br>
-__Byproducts & Waste Routing:__ Device replacement waste continuing; data center energy consumption growing; algorithmic externalities (attention fragmentation, recommendation distortion) accumulating as non-material byproducts; waste routing to recycling streams partially effective.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ LINE groups enabling persistent mutual aid coordination; family and community groups maintaining connection across geographic dispersion; platform-mediated trust layering onto but not replacing face-to-face relations; anonymous Twitter discourse coexisting with identified LINE communication.<br><br>
-__Stratification, Status & Group Identity:__ Platform following counts emerging as status markers; influencer category solidifying; generational platform preferences creating subcultural boundaries; Twitter communities, LINE groups, and Instagram aesthetics marking identity affiliations.<br><br>
-__Kinship, Family & Inheritance:__ Family LINE groups becoming standard; intergenerational communication increasingly platform-mediated; inheritance of digital assets unaddressed legally; kinship maintenance adapting to digital infrastructure.<br><br>
-__Civic Association & Self-Organization:__ Platform-native organizing emerging; Twitter enabling rapid issue mobilization; LINE groups coordinating local associations; traditional civic structures supplemented rather than replaced by digital coordination.<br><br>
-__Leisure, Play & Sociability:__ Mobile gaming peak with Monster Strike, Puzzle & Dragons; VTuber emergence from 2016; streaming culture growing; leisure time increasingly platform-mediated; real-world sociability supplemented by persistent digital contact.<br><br>
-__Grievance Channels & Social Discharge:__ Twitter enabling public complaint and accountability campaigns; corporate reputation management adapting to viral criticism; #MeToo Japan 2017-2018 using platform amplification; grievance expression more visible but resolution mechanisms not correspondingly developed.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ LDP dominance continuing under Abe administration; telecommunications and platform policy handled through existing regulatory frameworks; political authority engaging platforms for communication without structural reform of power distribution.<br><br>
-__Succession & Power Transfer:__ Routine LDP leadership succession; Abe's extended tenure providing policy continuity; no political crisis affecting platform development trajectory.<br><br>
-__Legitimacy & Political Narrative:__ Abenomics narrative incorporating digital economy promotion; cashless society framing as modernization; Cool Japan soft power claims leveraging digital content export; legitimacy claims engaging digital themes without platform-specific controversy.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic capacity adequate for routine regulation; My Number system deployed 2015 with low adoption; government digital services lagging behind private sector platforms; administrative digitization proceeding slowly, paper processes persisting.<br><br>
-__Political Participation & Mobilization:__ Social media becoming standard campaign tool; Twitter political discourse intensifying; online mobilization capacity demonstrated in protests but electoral impact limited; participation channels widening without youth voter engagement recovery.<br><br>
-__Geopolitical Position & External Relations:__ US alliance stable; China rivalry intensifying; Korea-Japan tensions affecting LINE (Korean-owned) perception marginally; Huawei restrictions following US pressure; geopolitical considerations entering platform and infrastructure policy.<br><br>
-__Coercive Apparatus & Means of Force:__ Police social media monitoring expanding; surveillance capacity enhanced through platform data access; no significant domestic deployment of digital enforcement; security apparatus modernizing incrementally.<br><br>
-__Internal Order & Threat Environment:__ Low crime rates continuing; cybercrime increasing but contained; social order stable; platform-related harms (harassment, fraud) rising but not threatening internal order.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Smartphone saturation complete; 4G LTE standard, 5G deployment beginning; transmission velocity at consumer broadband levels; platform-mediated distribution dominant; traditional media adapting to platform referral dependence.<br><br>
-__Record, Storage & Persistence:__ Cloud storage normalized; platform archives expanding; personal data increasingly platform-dependent; institutional records slowly digitizing; persistence dependent on platform continuity and terms of service.<br><br>
-__Framing, Censorship & Discourse Norms:__ Platform moderation policies applying globally-derived standards; domestic anonymity norms persisting on Twitter; LINE's closed groups enabling private discourse outside public scrutiny; discourse norms platform-specific, fragmented across services.<br><br>
-__Reception, Attention & Amplification:__ Algorithmic feeds shaping reception; attention fragmenting across platforms; viral amplification routine; news consumption shifting toward platform-mediated aggregation (LINE News, SmartNews, Yahoo News); attention allocation increasingly platform-determined.<br><br>
-__Signal Integrity & Noise Load:__ Information volume exceeding curation capacity; verification practices informal; platform recommendations optimizing engagement over accuracy; noise accumulating; disaster misinformation recurring despite lessons from 2011.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Privacy expectations evolving; platform data practices generating unease without articulated rights framework; fairness concerns regarding algorithmic systems emerging but not judicially addressed; sense of digital justice underdeveloped.<br><br>
-__Law, Codification & Regulatory Evolution:__ Personal Information Protection Act amendments 2015, 2017 strengthening data protection; platform regulation lagging; competition law engaging platform issues hesitantly; regulatory framework evolving behind technological change.<br><br>
-__Adjudication, Enforcement & Liability:__ Platform liability for user content limited under intermediary safe harbors; hate speech and harassment cases proceeding slowly through courts; enforcement capacity constrained by volume and technical complexity; adjudication mechanisms inadequate for platform-scale harms.<br><br>
-__Rights, Protections & Compliance Burden:__ Data protection rights strengthening formally; GDPR influence entering policy discussion; platform compliance with privacy regulation increasing; user protection improving from low baseline.<br><br>
-__Impunity & Unredressed Wrong:__ Online harassment widespread with limited accountability; defamation cases resource-intensive; platform moderation decisions unappealable through legal channels; systematic impunity for anonymous harm accumulating as standing grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ AI research advancing; deep learning applications proliferating; Japanese contribution in robotics and language processing; platform economics and network effects entering business school curricula; theoretical understanding of digital economy maturing.<br><br>
-__Applied Knowledge & Technical Method:__ App development skills diffused; data science and machine learning expertise growing; engineering talent competing with global tech companies; technical methods increasingly dependent on platform APIs and cloud services.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Programming education expanding in curriculum; digital literacy initiatives targeting elderly; skill distribution broadening but gaps persisting; knowledge stock growing through online learning and platform-accessible content.<br><br>
-__Obsolescence & Knowledge Decay:__ Web 1.0 skills obsolescing; Flash elimination 2020 deadline forcing technical migration; platform-specific knowledge accumulating while general computing skills may atrophy; obsolescence pace accelerating.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Cool Japan narrative incorporating digital content export; anime, gaming, VTuber culture as identity sources; global platform success (Nintendo Switch, Japanese games) supporting tech-cultural pride; identity partially reconstructed around content creation capacity.<br><br>
-__Artistic Expression & Material Culture:__ VTuber aesthetic emerging as distinctive form; mobile game visual language maturing; Instagram-influenced photography aesthetics diffusing; material culture absorbing platform-mediated consumption as norm; streaming creating new performance conventions.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-2011 anxiety subsiding; economic stagnation as background condition; platform engagement as mood management; collective disposition adapting to always-connected norm; anxiety and connection coexisting.<br><br>
-__Form Exhaustion & Meaning Decay:__ Early social media novelty exhausting; Facebook declining to irrelevance; platform fatigue emerging in some demographics; meaning structures attached to specific platforms fragmenting as services multiply and compete.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular outlook dominant; platform connectivity not engaging metaphysical frameworks; technological change processed practically; existential questions channeled through consumption, work, and entertainment rather than spiritual seeking.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple and shrine visiting continuing; digital documentation of sacred sites normalized; virtual shrine visiting emerging but marginal; devotional practice and platform engagement remaining separate domains.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist and Shinto institutions expanding online presence; temple Twitter and Instagram accounts proliferating; streaming of rituals experimental; institutional adaptation to platforms proceeding without doctrinal engagement.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No significant spiritual movement responding to platform maturation; secular frame dominant; mindfulness and wellness content circulating on platforms without institutional religious affiliation; spiritual landscape stable.<br><br>
-__Disenchantment & Sacred Discharge:__ High baseline secularization continuing; platform engagement filling time without addressing existential questions; sacred discharge minimal as spiritual seeking already rare; disenchantment steady rather than deepening through digital transition.<br><br>
+# __2014 CE – 2020 CE — Platform Maturation and Social Media Evolution__
+
+__Summary:__ With smartphone adoption effectively complete by 2014, Japan's digital ecosystem consolidates around a distinctive platform mix—LINE's domestic messaging dominance, Twitter's exceptional per-capita penetration, YouTube's video supremacy, and Facebook's relative weakness—reflecting cultural preferences for anonymity and visual communication that make Japan's platform landscape unique among advanced economies, while mobile gaming and VTuber innovations demonstrate continued capacity for digital creativity even as hardware leadership has passed.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's dense urban centers—Tokyo, Osaka, Nagoya—host concentrated data center infrastructure serving platform operations, while fiber-to-home networks reach near-universal coverage; rural areas achieve connectivity parity that earlier technologies never delivered.
+
+__Climate Regime & Volatility:__ Seasonal typhoons and occasional earthquakes test infrastructure resilience; platform services demonstrate robust uptime through distributed architecture, with LINE and Twitter maintaining availability even during regional disasters.
+
+__Hazard Regime & Exposure:__ Smaller earthquakes throughout the period validate disaster communication systems built after 2011; smartphone-based early warning systems mature, with platform notifications now integral to emergency response.
+
+__Resource & Energy Endowment:__ Data center electricity demand grows substantially as video streaming and mobile gaming intensify; the post-Fukushima energy mix relies more heavily on imported LNG, raising operational costs for infrastructure operators.
+
+__Waste Absorption & Sink Capacity:__ Smartphone replacement cycles of 2-3 years generate continuous e-waste streams; device recycling systems improve but struggle to keep pace with volume; thermal output from data centers contributes to urban heat island effects in Tokyo.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Population health remains excellent with no major disease outbreaks until COVID-19 arrives at period's end; screen time and sedentary smartphone use contribute to concerns about youth health outcomes.
+
+__Nutrition & Physiological Vitality:__ High nutritional standards continue; food delivery apps (Uber Eats arrives 2016) begin reshaping eating patterns, particularly among urban young professionals.
+
+__Care, Healing & Recovery Capacity:__ Telemedicine remains underdeveloped despite technological capability; regulatory frameworks and physician resistance limit platform-mediated healthcare delivery.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating apps proliferate (Pairs, Tapple, Tinder Japan) but fail to reverse declining birth rates; LINE communication intensifies within existing relationships while platform-mediated initial contact remains culturally awkward for many.
+
+__Demographic Renewal & Density:__ Population falls below 127 million; the 65+ cohort exceeds 27% by 2020; smartphone adoption among elderly improves but significant digital divides persist, with adult children often serving as technical support for aging parents.
+
+__Attrition & Dependency Overhang:__ Caregiving burdens increase as the elderly population grows; LINE groups coordinate family care responsibilities; platform services for elderly monitoring and communication emerge but penetration remains limited.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ E-commerce (Amazon Japan, Rakuten) expands steadily; smartphone-based shopping becomes routine for urban populations while convenience store networks maintain physical retail relevance.
+
+__Energy Capture & Conversion:__ Nuclear restarts proceed slowly; energy costs remain elevated compared to pre-2011 levels, affecting data center economics and consumer electricity bills that now include significant device-charging loads.
+
+__Labor Organization & Coercion:__ Platform labor emerges (Uber Eats delivery, crowdsourced services) but remains smaller than in Western markets; traditional employment structures persist for most workers, though remote work capabilities exist largely unused until 2020.
+
+__Production & Surplus Capacity:__ Mobile gaming becomes major economic sector; Puzzle & Dragons, Monster Strike, and Fate/Grand Order generate billions in revenue through gacha mechanics; content exports grow as streaming platforms carry Japanese anime globally.
+
+__Storage, Reserves & Buffering:__ Corporate balance sheets remain conservative; platform companies accumulate cash reserves; LINE's 2016 IPO raises significant capital for expansion.
+
+__Exchange, Trade & Logistics:__ Cash persistence slows mobile payment adoption despite technological readiness; PayPay's 2018 launch backed by SoftBank and Yahoo Japan begins shifting the landscape with aggressive subsidies.
+
+__Value Storage, Credit & Deferred Exchange:__ LINE Pay, PayPay, and carrier payment services compete for mobile payment market share; Apple Pay finally arrives (2016), restoring functionality lost in feature phone transition; cryptocurrency trading briefly surges before 2018 exchange hacks prompt regulatory tightening.
+
+__Surplus Extraction & Redistribution:__ Platform companies face limited taxation as profits flow to foreign headquarters (Apple, Google) or holding structures; government attempts to capture digital economy value remain underdeveloped.
+
+__Wealth Distribution & Asset Defense:__ Digital economy creates new wealth concentrations around successful app developers and platform entrepreneurs; Mercari's success (founded 2013, IPO 2018) as Japan's marketplace unicorn demonstrates domestic platform potential.
+
+__Byproducts & Waste Routing:__ Device obsolescence continues generating e-waste; financial mispricing appears in overvalued cryptocurrency ventures and mobile game companies whose user bases prove transient.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ LINE groups become standard family communication infrastructure; multi-generational group chats coordinate care, celebrations, and daily logistics; this represents genuine social structure change, with platform mediation now embedded in kin relations.
+
+__Association & Mutual Aid:__ Online communities mature around shared interests (anime fandoms, gaming guilds, hobby groups); Twitter becomes primary space for interest-based community formation while LINE serves existing relationship maintenance.
+
+__Leisure, Play & Sociability:__ Mobile gaming consumes significant leisure time; console gaming maintains strength (Nintendo Switch launches 2017); VTuber phenomenon emerges from 2016, with virtual personalities building parasocial relationships at scale.
+
+__Stratification, Status & Group Structure:__ Platform follower counts create new status hierarchies; influencer culture develops more slowly than in Western markets but YouTube creators and Twitter personalities accumulate significant audiences; anonymity norms on Twitter reduce real-name status display common elsewhere.
+
+__Administrative Capacity & Institutional Integrity:__ My Number national ID system launches (2015) but adoption lags; government digital services remain fragmented and frustrating; the gap between private platform sophistication and public sector capability becomes increasingly apparent.
+
+__Coercive Apparatus & Means of Force:__ Police establish social media monitoring capabilities; platform cooperation with law enforcement increases; cybercrime investigation capacity improves but struggles to match criminal sophistication.
+
+__Discharge, Disorder & Decay:__ Online harassment emerges as significant concern; Twitter pile-ons and LINE bullying affect particularly young users; platform moderation remains inadequate; anonymous posting enables behavior that face-to-face norms would constrain.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Platform-mediated anxiety increases as social media enables constant social comparison; youth mental health concerns rise though causation remains debated; Twitter's real-time nature intensifies emotional reactions to news events.
+
+__Leadership & Personal Authority:__ Platform personalities achieve quasi-celebrity status; YouTubers and VTubers command devoted followings; traditional celebrities must maintain social media presence to remain relevant.
+
+__Legitimacy as Lived Allegiance:__ Platform trust varies significantly—LINE enjoys high trust as domestic service, while Facebook faces suspicion; Twitter's anonymity is valued precisely because it does not require identity disclosure that might compromise users.
+
+__Political Will & Collective Resolve:__ Abe's long tenure provides political stability; digital policy remains low priority; the government's failure to digitize effectively reflects lack of reform will rather than technological capability.
+
+__External Relations & Posture:__ Korean-Japanese tensions occasionally flare on social media; platform-mediated nationalism exists but Japan's social media culture skews less political than comparable democracies.
+
+__Disaffection, Apathy & Spent Will:__ Youth disengagement from politics continues despite digital connectivity; platform spaces are used more for entertainment and hobby communities than political mobilization; a certain digital escapism characterizes Japanese platform culture.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Near-universal smartphone penetration means communication capability is broadly distributed; elderly laggards remain but diminish; LINE's simplified interface succeeds where more complex platforms fail with older users.
+
+__Channels & Transmission Velocity:__ 4G/LTE reaches full deployment; video streaming becomes standard; live broadcasting on YouTube and Niconico enables real-time audience interaction at scale.
+
+__Record, Storage & Persistence:__ Cloud services store increasing volumes of user data; LINE's servers hold the communication records of nearly all Japanese smartphone users, representing unprecedented concentration of social data.
+
+__Framing, Censorship & Discourse Norms:__ Platform content policies govern discourse; Apple's App Store restrictions affect what games and content can reach Japanese users; self-censorship around sensitive topics (war history, imperial family) continues online as offline.
+
+__Reception, Attention & Amplification:__ Algorithmic feeds shape content consumption; YouTube recommendations and Twitter trends direct attention; the attention economy matures with sophisticated targeting of Japanese users.
+
+__Signal Integrity & Noise Load:__ Misinformation during disasters and around health topics creates verification challenges; fact-checking infrastructure remains underdeveloped; platform-native media literacy is limited.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Communal responsibility norms persist in online spaces, though anonymity enables deviation; shame-based social control translates to online contexts through pile-on dynamics.
+
+__Law, Codification & Regulatory Evolution:__ Platform regulation develops slowly; copyright enforcement intensifies against anime piracy; hate speech legislation (2016) has limited online enforcement; the legal framework lags platform reality.
+
+__Adjudication, Liability & Sanction:__ Platform terms of service function as de facto law for online behavior; appeals to actual courts remain rare; moderation decisions are effectively final.
+
+__Rights, Protections & Compliance Burden:__ Privacy concerns intensify as data collection expands; LINE's Korean data storage (revealed publicly later) raises sovereignty questions; GDPR-style comprehensive privacy law remains absent.
+
+__Impunity & Unredressed Wrong:__ Online harassment often goes unpunished; anonymous perpetrators escape accountability; victims have limited recourse; the gap between harm inflicted and consequences imposed is substantial.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Japanese AI and machine learning research maintains global relevance; university-industry collaboration in digital technology increases; but the center of platform-era innovation has clearly shifted to Silicon Valley and China.
+
+__Applied Knowledge & Technical Method:__ iOS and Android development skills now standard; cloud architecture and data engineering competencies grow; game development methodologies remain world-class.
+
+__Education, Knowledge Stock & Skill Distribution:__ Programming education expands in schools; coding bootcamps proliferate; STEM emphasis increases but overall digital skills lag comparable economies; the elderly face particular knowledge gaps.
+
+__Obsolescence & Knowledge Decay:__ Earlier web technologies (Flash, legacy mobile platforms) become obsolete; maintaining legacy systems consumes IT resources; knowledge of older methods concentrated in aging workforce.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Japanese identity expresses strongly through platform content—anime, manga, games, VTubers represent culturally distinctive digital production; Cool Japan narrative emphasizes creative content export.
+
+__Legitimating Narrative & Ideology:__ Technology leadership narrative requires reframing from hardware to content and services; "creative superpower" replaces "manufacturing superpower" as aspirational self-image.
+
+__Artistic Expression & Material Culture:__ VTuber emergence represents genuine cultural innovation—motion-captured virtual performers building real fan relationships; Hololive and Nijisanji agencies systematize this new entertainment form; the aesthetic of virtual avatars becomes globally recognized.
+
+__Form Exhaustion & Meaning Decay:__ Mobile game gacha mechanics face criticism as exploitative even as they generate billions; the novelty of social media fades into routine; platform interfaces standardize, reducing distinctiveness.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular pragmatism continues to characterize majority outlook; platform engagement does not significantly alter spiritual orientations; death and mortality remain processed through traditional Buddhist frameworks even as communication shifts to digital.
+
+__Ritual, Devotion & Sacred Practice:__ Shrine and temple social media presences mature; Hatsumode (New Year shrine visits) are documented and shared on Instagram; religious tourism incorporates platform-mediated discovery.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhist temples and Shinto shrines maintain institutional stability; digital outreach supplements but does not replace physical community; new religious movements do not exploit platforms as effectively as might be expected.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Platform culture carries implicit secular materialism through its attention economics and consumption orientation, but explicit spiritual challenge to traditional frameworks remains limited.
+
+__Disenchantment & Sacred Discharge:__ The platform attention economy competes with contemplative traditions; smartphone screens occupy time and attention that might otherwise allow for reflection; yet explicit spiritual crisis or disenchantment does not characterize the period—more a quiet further recession of the sacred into private life as public attention increasingly flows through commercial platforms.

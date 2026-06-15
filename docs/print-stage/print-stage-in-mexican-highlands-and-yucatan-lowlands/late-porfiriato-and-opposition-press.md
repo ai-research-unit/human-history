@@ -1,69 +1,139 @@
-# __1900 CE – 1910 CE__ — Late Porfiriato and Opposition Press
-__Summary:__ The Mexican Highlands and Yucatan Lowlands in the final decade of Porfirio Diaz's rule; central binding constraint is the regime's aging succession crisis intersecting with accumulated grievances from land dispossession, labor exploitation, and closed political channels now finding voice through opposition press despite suppression; margin against shock narrowing as export dependence exposes economy to commodity cycles while Creelman interview (1908) signals possible transition; principal direction is accelerating tension between modernizing facade and revolutionary ferment expressed through clandestine and exile publications.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Railway network mature at twenty thousand kilometers; telegraph ubiquitous; Mexico City-centered hub-and-spoke pattern; Yucatan linked to Gulf ports; spatial friction at historic low for regime but also enables rapid spread of opposition materials and strike coordination.<br><br>
-__Climate Regime & Volatility:__ Semi-arid central plateau; tropical Yucatan; drought years 1907–1910 stress subsistence in north; interannual variability unchanged; no secular trend; rainfall-dependent agriculture remains vulnerable.<br><br>
-__Hazard Regime & Exposure:__ Volcanic and seismic risk persists; flood control improved in capital; rural infrastructure unchanged; 1907 drought contributes to northern distress; margin adequate under normal conditions but thinning with consecutive dry years.<br><br>
-__Resource & Energy Endowment:__ Petroleum extraction accelerating in Gulf coast (Tampico-Tuxpan); silver and copper mining mature; henequen boom continues in Yucatan; coal imported; resource base fueling export economy but benefits concentrated; drawdown rapid in accessible deposits.<br><br>
-__Waste Absorption & Sink Capacity:__ Mining and petroleum effluent accumulating in Gulf watersheds; urban growth straining Mexico City drainage; smelter emissions localized; overall sink capacity adequate but degradation visible around industrial nodes.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease stable; smallpox declining with vaccination; typhus persists in crowded urban areas; yellow fever in lowlands; sanitation investment continuing but mortality improvements slow; life expectancy around thirty years.<br><br>
-__Nutrition & Physiological Vitality:__ Maize prices rising with drought and export orientation; nutritional stress increasing among landless and industrial workers; hacienda rations minimal; protein access limited for poor; physiological vitality declining among dispossessed strata.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility high; Catholic marriage norms and consensual unions persist; no significant change in reproductive patterns; sex ratios balanced; population growth continuing despite nutritional stress.<br><br>
-__Demographic Renewal & Density:__ Population approximately fifteen million by 1910; growth rate above two percent annually; urbanization accelerating; Mexico City approaching half million; density increasing on plateau; Yucatan interior sparse.<br><br>
-__Attrition & Dependency Overhang:__ Dependency burden from chronic illness and premature aging among workers; industrial accidents creating disabled; orphan care within kin networks; load manageable but widows and disabled concentrated in precarious circumstances.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Maize production strained by drought and hacienda expansion; imports required in bad years; company stores trap workers; tienda de raya debt endemic; floor precarious for landless majority; hunger spreading in drought years.<br><br>
-__Energy Capture & Conversion:__ Petroleum production rising; hydroelectric plants supplying mines and cities; railways fully steam-powered; animal and human labor still dominant in agriculture; per-capita energy rising but concentrated in export sector.<br><br>
-__Labor Organization & Coercion:__ Debt peonage continues; Yucatan henequen plantations brutal; Cananea (1906) and Rio Blanco (1907) strikes crushed with military force; workers killed; labor organization suppressed; coercion intensifying as resistance grows.<br><br>
-__Production & Surplus Capacity:__ Export production at peak; silver, copper, petroleum, henequen generating surplus; textile mills and light industry expanding; output ceiling high but vulnerable to commodity prices and US demand cycles.<br><br>
-__Storage, Reserves & Buffering:__ State treasury healthy; gold reserves accumulated; hacienda granaries depleted by drought; banking system functional but credit tight for small producers; buffering adequate at state level, thin at household level for poor.<br><br>
-__Exchange, Trade & Logistics:__ Railways and ports efficient; export orientation to US dominant; internal markets integrated but serving elite consumption; commodity prices volatile; 1907 US recession transmits shock; logistics infrastructure mature but vulnerability to external demand exposed.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Peso stable on silver standard but silver price declining globally; gold standard adoption debated; bank credit available to connected; hacienda debt traps workers; value storage secure for elites, precarious for indebted workers.<br><br>
-__Surplus Extraction & Redistribution:__ Export taxes and customs fund state; foreign investors repatriate profits; hacienda surplus flows to landowners; minimal redistribution; state invests in infrastructure and security; extraction burden heavy on labor, light on capital.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration near maximum; fewer than one percent hold over half of land; foreign ownership of strategic sectors; middle class small but growing; wealth defended through regime connection; inequality at historic peak, closing off legitimate advance.<br><br>
-__Byproducts & Waste Routing:__ Petroleum, mining, and industrial waste accumulating; rivers receiving untreated discharge; air quality declining near smelters; urban refuse increasing; routing unmanaged; volume rising faster than absorption.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village reciprocity collapsed where communal lands lost; urban mutual-aid societies growing among artisans and workers; anarchist and socialist ideas spreading in labor circles; trust radius shifting from traditional to ideological communities.<br><br>
-__Stratification, Status & Group Identity:__ Creole-foreign elite at apex; científico technocrats influential; mestizo middle stratum frustrated by closed mobility; indigenous communities dispossessed and marginalized; class consciousness emerging among workers; boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Family structures stable; extended kin networks provide safety net; compadrazgo persists; hacienda labor migration strains family continuity; inheritance patterns unchanged; kinship absorbing some stress but stretched.<br><br>
-__Civic Association & Self-Organization:__ Mutualistas expanding; PLM (Partido Liberal Mexicano) organizing clandestinely; Masonic lodges among liberals; professional associations active; associational fabric thickening despite suppression; underground networks forming.<br><br>
-__Leisure, Play & Sociability:__ Urban entertainments (theaters, cafes, bullfights) flourishing; working-class cantinas sites of informal organizing; fiestas continue but hacienda control limits rural sociability; leisure stratified by class; sociability increasingly political.<br><br>
-__Grievance Channels & Social Discharge:__ Legal channels blocked; strikes crushed; petitions ignored; Regeneracion and exile press provide voice but circulation suppressed; grievance accumulating faster than discharge; social tension near breaking point.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Diaz aging (born 1830, now approaching eighty); científico inner circle managing affairs; jefes politicos control provinces; power concentrated but succession uncertainty mounting; centralizing structure showing strain.<br><br>
-__Succession & Power Transfer:__ Creelman interview (1908) suggests Diaz will allow opposition; Anti-Reelectionist movement under Madero gains momentum; no institutionalized succession; transfer mechanisms absent; question dominating political horizon.<br><br>
-__Legitimacy & Political Narrative:__ Order and progress narrative wearing thin; Cananea and Rio Blanco massacres expose coercive foundation; positivist justification challenged by liberal and anarchist critiques; legitimacy eroding among middle class and workers.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State apparatus functional; census, cadastral, and commercial records maintained; corruption endemic but system operates; information-gathering adequate; capacity sufficient but legitimacy deficit growing.<br><br>
-__Political Participation & Mobilization:__ Anti-Reelection clubs forming; PLM organizing strikes and propaganda; Madero's La Sucesion Presidencial (1908) circulates; participation opening despite suppression; mobilization accelerating; channels widening against regime resistance.<br><br>
-__Geopolitical Position & External Relations:__ Relations with US stable but asymmetric dependence; European investment continues; no external military threats; PLM operates from US exile (St. Louis, Los Angeles); border permeability enables opposition.<br><br>
-__Coercive Apparatus & Means of Force:__ Federal army of thirty thousand; rurales active; state forces deployed against strikes; Cananea sees Arizona Rangers cross border; weaponry modern but army untested in major conflict; coercive capacity adequate for suppression, untested for revolution.<br><br>
-__Internal Order & Threat Environment:__ Yaqui resistance continues; strikes suppressed but recurring; PLM-linked uprisings (1906, 1908) crushed; banditry controlled; order maintained through escalating coercion; margin narrowing as challenges multiply.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph and rail enable rapid communication; telephone reaching elite households and businesses; postal service efficient; exile publications smuggled via railway and border crossing; information velocity high but surveillance also rapid.<br><br>
-__Record, Storage & Persistence:__ Government archives comprehensive; newspapers preserved; commercial and legal records maintained; opposition publications ephemeral due to suppression but exile copies survive; records persist but opposition memory fragmented.<br><br>
-__Framing, Censorship & Discourse Norms:__ El Imparcial and subsidized press dominate; opposition papers (Regeneracion, El Hijo del Ahuizote) suppressed, editors jailed (Flores Magon brothers exiled); censorship tightening but exile press and underground circulation maintain alternative discourse; permitted band narrowing, resistance persisting.<br><br>
-__Reception, Attention & Amplification:__ Elite reads official press; workers access opposition through clandestine circulation and oral transmission; public readings in plazas and workplaces; corridos carry news; amplification bifurcated between official and underground channels.<br><br>
-__Signal Integrity & Noise Load:__ Official narrative coherent but increasingly disbelieved; opposition signal fragmented but resonant; rumor and counter-narrative circulating; verification difficult under censorship; noise rising as official credibility declines.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Popular justice rooted in land rights and fair treatment; Cananea and Rio Blanco seen as massacres; sense of injustice sharpening; positivist legal order increasingly seen as elite instrument; legitimacy of system contested.<br><br>
-__Law, Codification & Regulatory Evolution:__ Commercial and property law favoring foreign capital; labor law absent (no worker protections); land law enabling continued dispossession; codification static, serving established interests; no reform pressure succeeding.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function for propertied classes; workers lack standing; hacienda jurisdiction over labor disputes; strike leaders arrested without due process; throughput adequate for elite disputes, inaccessible to workers and indigenous.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional guarantees suspended in practice; habeas corpus unreliable; press freedoms violated; compliance burden high for dissidents; predictability for connected, arbitrary treatment for opposition.<br><br>
-__Impunity & Unredressed Wrong:__ Cananea and Rio Blanco killings unpunished; land theft continues; labor exploitation unredressed; powerful act with total impunity; judicial deficit at peak; accumulated wrong fueling revolutionary sentiment.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Positivism still dominant but challenged; anarchist theory (Kropotkin, Bakunin) circulating in labor circles; Flores Magon's radical liberalism synthesizing indigenous justice with anarcho-syndicalism; paradigm contest emerging.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering, mining, and petroleum techniques advanced; agricultural science applied to export crops; medical and sanitary knowledge improving; applied knowledge concentrated in foreign-controlled sectors; technique serving export economy.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Primary education expanding; literacy perhaps twenty percent; professional education for elite; knowledge stock growing in institutions; skill distribution highly unequal; rural illiteracy dominant; Ateneo de la Juventud intellectual circle forming.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional knowledge continues eroding; artisanal skills displaced; positivist orthodoxy showing cracks; colonial-era knowledge superseded; official knowledge stable but challenger paradigms emerging in margins.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Liberal nationalist narrative (Hidalgo, Juarez) persists but regime appropriation breeds cynicism; pre-Columbian heritage celebrated while living indigenous marginalized; mestizo identity official but class fractures identity; foundational story contested.<br><br>
-__Artistic Expression & Material Culture:__ Academic art continues; Porfirian architecture (marble and iron) celebrates progress; photography documents both modernity and poverty; Jose Guadalupe Posada's engravings (calaveras) satirize regime; material culture bifurcated, critique emerging in popular art.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite anxiety beneath confidence; middle-class frustration at blocked mobility; worker anger after massacres; rural despair; mood darkening across strata; revolutionary sentiment spreading; optimism draining from all but inner circle.<br><br>
-__Form Exhaustion & Meaning Decay:__ Liberal republican forms completely hollowed; order-and-progress rhetoric empty; patriotic ritual formulaic; religious forms persist but communal basis further eroded; meaning decay widespread; new revolutionary forms not yet consolidated.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology dominant among popular classes; positivist secularism among científicos; anarchist millenarianism entering labor discourse; fatalism giving way to revolutionary hope among activists; outlook diversifying.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, saints' days, pilgrimages continue; Day of the Dead observed; household devotion stable; devotional infrastructure maintained; practice persists; no major disruption.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church institutionally weakened but socially present; no active anticlericalism yet; pastoral care continues; doctrinal authority stable among faithful; institution quiescent, avoiding political conflict.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestant presence small but growing; indigenous-Catholic syncretism stable; secularism spreading among educated and urban workers; anarchist quasi-spirituality (martyrdom, solidarity) emergent; no major displacement but diversification.<br><br>
-__Disenchantment & Sacred Discharge:__ Elite secularization continues; popular piety absorbs existential need; revolutionary ideology beginning to provide transcendent meaning for activists; spiritual discharge adequate but revolutionary fervor offering alternative anchor for disenchanted; residue redirected rather than accumulating.<br><br>
+# __1900 CE – 1910 CE — Late Porfiriato and Opposition Press__
+
+__Summary:__ In the final decade of Porfirian rule, an aging dictator's inability to manage succession combines with economic dislocations and accumulated rural dispossession to generate opposition that finds expression through clandestine print despite severe repression; the binding constraint is the contradiction between the regime's developmental achievements and its closure of political space, which channels rising middle-class aspirations and peasant grievance toward revolutionary mobilization that the modernizing press infrastructure inadvertently enables.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The railway network reaches its Porfirian extent—over 19,000 kilometers by 1910—connecting Mexico City to provincial centers and border crossings. Spatial friction diminishes for goods, troops, and printed matter along rail corridors while interior regions beyond the tracks remain isolated. The northern border zone gains particular significance as exile opposition publishes across the Rio Grande and smuggles materials southward.
+
+__Climate Regime & Volatility:__ Drought conditions affect northern Mexico periodically during the decade; 1907–1909 brings particular stress to agriculture. The climate regime remains within familiar parameters but harvest failures compound economic difficulties in affected regions.
+
+__Hazard Regime & Exposure:__ Seismic activity poses latent risk; no major earthquakes strike during the decade. Flooding affects Mexico City periodically despite drainage investments. The hazard regime does not drive events but infrastructure remains vulnerable.
+
+__Resource & Energy Endowment:__ Petroleum production rises dramatically—Mexico becomes a significant producer after 1901, with exports reaching international markets by decade's end. Silver, copper, and lead extraction continues. The endowment supports export-oriented growth but benefits foreign investors and domestic elite rather than the dispossessed majority.
+
+__Waste Absorption & Sink Capacity:__ Industrial expansion, mining operations, and urban growth continue to burden environmental sinks. The Gran Canal drainage project advances, addressing Mexico City's flooding and sanitation challenges. Mining tailings accumulate; petroleum extraction begins to contaminate Gulf coastal zones. The physical residue of development accrues without remediation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic disease persists—typhus, typhoid, gastrointestinal infections. Public health infrastructure improves in Mexico City; the Instituto Bacteriologico Nacional (1905) advances disease control. Mortality remains high by international standards but shows gradual improvement in urban areas. Rural populations experience limited benefit.
+
+__Nutrition & Physiological Vitality:__ Food production expands but export orientation and land concentration mean dietary improvement bypasses the poor. The 1907–1908 economic crisis and drought conditions stress subsistence; some regions experience hunger. Nutritional status correlates with class position as previously.
+
+__Care, Healing & Recovery Capacity:__ Hospital capacity expands in major cities—Hospital General (1905) represents modern medical practice. Trained physicians remain concentrated in urban centers; rural populations rely on traditional healers. The distribution of care reflects and reproduces social stratification.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility continues across classes. Marriage patterns remain stable; the Church continues to regulate legitimate unions despite legal restrictions. Informal unions persist among the poor.
+
+__Demographic Renewal & Density:__ Population reaches approximately 15.2 million by 1910. Mexico City grows toward 500,000. Internal migration from dispossessed rural areas feeds urban growth and northern mining camps. The demographic structure supports labor supply while dispossession accelerates.
+
+__Attrition & Dependency Overhang:__ Endemic mortality, labor accidents in mines and haciendas, and periodic epidemic disease maintain dependency burdens. Displaced populations create floating labor pools absorbed into exploitative conditions. The dependency structure reflects the regime's extraction model.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rural dispossession reaches its Porfirian extreme—perhaps 97% of rural families hold no land. Hacienda peons, sharecroppers, and seasonal laborers subsist precariously. Urban workers depend on wage income with minimal cushion. The provisioning floor sits dangerously close to crisis for the majority.
+
+__Energy Capture & Conversion:__ Petroleum production transforms the energy landscape—output rises from negligible in 1901 to substantial exports by 1910. Steam power drives railways, mining, and textile production. Electricity reaches Mexico City and industrial centers. Energy conversion modernizes the export and urban sectors while traditional agriculture remains unmechanized.
+
+__Labor Organization & Coercion:__ The hacienda debt peonage system persists and intensifies. Industrial labor experiences harsh conditions—12-16 hour days, company stores, no legal protections. Strike movements emerge: Cananea copper mine (1906) and Rio Blanco textile strike (1907) meet violent suppression. Labor organization is brutally repressed; hundreds die at Rio Blanco.
+
+__Production & Surplus Capacity:__ Export production—minerals, petroleum, henequen, coffee—generates substantial surplus appropriated by foreign investors and domestic elite. Industrial output grows; Mexico's GDP rises through the decade. The surplus flows to few hands while the majority subsists at margins.
+
+__Storage, Reserves & Buffering:__ The regime maintains fiscal reserves; foreign debt is serviced punctually. The economic crisis of 1907—a US-originated financial panic—tests buffering capacity; credit contraction affects Mexican banks and enterprises. Peasant households lack reserves; harvest failure means hunger.
+
+__Exchange, Trade & Logistics:__ Railway-centered logistics reach maturity. Export dependence creates vulnerability; the 1907 crisis demonstrates how US economic fluctuations transmit immediately to Mexico. External trade orientation binds Mexico to international commodity markets and foreign capital decisions.
+
+__Value Storage, Credit & Deferred Exchange:__ The monetary reform of 1905 stabilizes the peso on gold. Banking expands but credit concentrates among commercial and landed elites. The 1907 crisis triggers bank failures and credit contraction that propagate hardship through the economy.
+
+__Surplus Extraction & Redistribution:__ Export taxes, import duties, and railway revenues fund the regime. Foreign investors remit profits; the elite accumulates wealth. Redistribution serves infrastructure and patronage rather than social provision. The fiscal capacity exists but serves elite reproduction.
+
+__Wealth Distribution & Asset Defense:__ Land concentration reaches its apex. Foreign ownership of strategic sectors—mining, petroleum, railways—transfers wealth abroad. The elite defends holdings through legal title, political connection, and coercive apparatus. The excluded have no assets to defend.
+
+__Byproducts & Waste Routing:__ Industrial waste, mining tailings, and petroleum residues route to environmental sinks without regulation. Urban waste burdens infrastructure. The economic residue—dispossessed populations, exhausted workers—accumulates as social instability.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Elite family networks consolidate through marriage and inheritance. Among the dispossessed, kinship provides survival networks but cannot substitute for lost land. Migration disrupts family structures as workers follow employment.
+
+__Association & Mutual Aid:__ Mutual aid societies (mutualistas) continue among urban workers despite repression. The Casa del Obrero Mundial (founded 1912) has precursors in this period. Village communal structures have largely collapsed; the dispossessed lack organizational resources. The Church provides charity within legal constraints.
+
+__Leisure, Play & Sociability:__ Elite social life continues European patterns—clubs, theater, concerts. Popular entertainments—bullfighting, pulque-drinking, religious festivals—structure mass sociability. The 1910 Centennial celebrations display regime achievements through festivities, monuments, and international display.
+
+__Stratification, Status & Group Structure:__ The cientifico elite ages with Diaz; succession anxieties surface. Foreign investors maintain privileged position. The middle class—professionals, merchants, minor bureaucrats—grows but finds advancement blocked by regime closure. Workers and peasants remain at the bottom with no legitimate path to improvement. The Creelman interview (1908), in which Diaz tells an American journalist Mexico is ready for democracy, briefly suggests political opening before the regime closes ranks.
+
+__Administrative Capacity & Institutional Integrity:__ The Porfirian state functions efficiently for its purposes—tax collection, infrastructure management, repression. Corruption remains endemic but managed. The jefes politicos maintain local control. Administrative capacity serves an order that increasingly lacks legitimacy.
+
+__Coercive Apparatus & Means of Force:__ The federal army numbers approximately 30,000; the rurales and state forces supplement. The apparatus suffices for suppression—Cananea, Rio Blanco—but faces questions should multiple challenges arise simultaneously. Arms modernization continues; Mauser rifles and Maxim guns equip key units.
+
+__Discharge, Disorder & Decay:__ Labor unrest signals accumulated grievance breaking through repression. The Cananea strike (1906) and Rio Blanco massacre (1907) demonstrate both worker militancy and regime brutality. Rural banditry persists in isolated areas. The disorder potential grows as dispossession continues while political channels remain closed. The apparatus contains but does not resolve the underlying tensions.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The 1910 Centennial generates surface celebration—parades, monuments, international recognition—while underlying tensions mount. Middle-class frustration with blocked advancement intensifies after the Creelman interview raises then disappoints expectations. Rural resentment of dispossession simmers. Urban workers remember Rio Blanco's dead. The public temper beneath official celebration grows volatile.
+
+__Leadership & Personal Authority:__ Porfirio Diaz at eighty retains the trappings of authority but visibly weakens. The succession question—deliberately unanswered—creates anxiety. No cientifico possesses comparable legitimacy. Francisco Madero emerges from 1908 as opposition leader—his book "La Sucesion Presidencial en 1910" articulates anti-reelectionist sentiment. The Flores Magon brothers, exiled in the United States, represent more radical alternatives.
+
+__Legitimacy as Lived Allegiance:__ The regime's performance legitimacy—order, railways, modernization—holds among beneficiaries but means nothing to the dispossessed. The fixed elections of 1910 demonstrate contempt for consent; Madero's imprisonment during the election completes the delegitimation for those seeking change through constitutional means.
+
+__Political Will & Collective Resolve:__ The regime demonstrates will through continued repression and the extravagant Centennial display. Opposition will crystallizes: the Mexican Liberal Party (PLM) of the Flores Magon brothers agitates from exile; Madero's anti-reelectionist movement builds organization. When legal paths close with Madero's imprisonment and Diaz's fraudulent reelection, revolutionary will takes form—the Plan de San Luis Potosi (October 1910) calls for armed uprising.
+
+__External Relations & Posture:__ The regime maintains careful relations with the United States and European powers. US investment dominance creates asymmetric dependence. The Centennial displays Mexico as a modern nation deserving international respect. The border with the United States provides refuge for exiled opposition and smuggling routes for revolutionary print and eventually arms.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection deepens across classes excluded from Porfirian benefits. The middle class sees blocked advancement; workers remember repression; peasants face landlessness. The opposition will that emerges transforms this disaffection into action. By late 1910, the emotional foundation of the regime has hollowed while revolutionary will consolidates.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy reaches approximately 25% by 1910—higher in cities, minimal in rural indigenous areas. Spanish remains the exclusive print language for political discourse. The literate minority expands with urban growth but indigenous populations remain largely outside the print sphere.
+
+__Channels & Transmission Velocity:__ Telegraph networks reach provincial capitals; telephone service begins in Mexico City. Railways transport newspapers rapidly along major routes. The infrastructure that serves regime communication also enables opposition distribution once material crosses the border or evades censorship.
+
+__Record, Storage & Persistence:__ Archives and libraries consolidate; the regime documents its achievements. Opposition publications—especially "Regeneracion" from exile—create alternative records. The print runs are small but copies circulate hand-to-hand, are read aloud in gatherings, and persist despite confiscation.
+
+__Framing, Censorship & Discourse Norms:__ The subsidized press—El Imparcial most prominently—frames events according to regime interest. Opposition voices face systematic suppression: the Flores Magon brothers flee to the United States (1904) and continue publishing "Regeneracion" from San Antonio, then St. Louis, then Los Angeles, evading both Mexican and US authorities. Within Mexico, anti-reelectionist newspapers face harassment, closure, and editor imprisonment. The Creelman interview briefly opens discussion before the regime reasserts control. The permitted band for dissent shrinks to near-zero by 1910.
+
+__Reception, Attention & Amplification:__ "El Imparcial" achieves mass circulation by Porfirian standards—perhaps 100,000 daily. Opposition publications reach smaller but committed readerships. "Regeneracion" circulates perhaps 30,000 copies at peak, smuggled across the border and distributed through clandestine networks. Madero's "La Sucesion Presidencial en 1910" reaches thousands and shapes anti-reelectionist discourse. Oral retransmission amplifies print reach among the illiterate.
+
+__Signal Integrity & Noise Load:__ The regime's information environment prioritizes stability over accuracy; official statistics and optimistic reports obscure mounting tensions. Opposition publications provide alternative analysis but reach limited audiences. The gap between official representation and experienced reality widens. The signal integrity of the information environment degrades as the regime's narrative diverges from lived experience.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The accumulated injustices of dispossession, repression, and blocked advancement generate moral outrage across excluded classes. The Liberal program—land, liberty, democracy—articulates alternative moral foundations. The massacre at Rio Blanco demonstrates regime willingness to kill workers; the moral equation shifts.
+
+__Law, Codification & Regulatory Evolution:__ Legal formalism continues; courts function for property and commercial matters. The Constitution of 1857 provides nominal democratic framework that the regime ignores. Labor law does not exist; workers have no legal protections. The gap between law's promise and reality delegitimates the legal order.
+
+__Adjudication, Liability & Sanction:__ Commercial disputes among elites receive adjudication. Political opposition faces arbitrary arrest, imprisonment, and extrajudicial violence. The rurales exercise summary justice. For the excluded, the system provides no remedy.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights—press freedom, assembly, suffrage—exist on paper but not in practice. Property rights of the elite receive robust protection. Workers and peasants have no enforceable rights against employers or the state. The compliance burden falls entirely on those who challenge the order.
+
+__Impunity & Unredressed Wrong:__ The Rio Blanco massacre goes unpunished; the perpetrators of Cananea violence face no accountability. Land theft through surveying companies receives legal blessing. The accumulated impunity—decades of dispossession and repression without remedy—constitutes a moral debt the regime cannot acknowledge. This deficit fuels revolutionary legitimacy.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Positivism retains official dominance but faces critique. The cientificos' scientific racism—justifying indigenous exclusion—generates intellectual opposition. Mexican Liberal Party manifestos articulate radical alternatives drawing on anarchist and socialist thought. Justo Sierra's "Mexico: Su Evolucion Social" (1900–1902) represents sophisticated social analysis within Porfirian parameters.
+
+__Applied Knowledge & Technical Method:__ Engineering knowledge enables infrastructure achievement—railways, drainage, petroleum extraction. Agricultural science serves export crops. Industrial technology transfers through foreign investment and technical training. The knowledge serves modernization that benefits few.
+
+__Education, Knowledge Stock & Skill Distribution:__ The National University refounds in 1910 as culmination of Porfirian educational achievement. Professional education produces lawyers, engineers, physicians for the elite. Primary education expands unevenly. Technical training remains limited. The knowledge distribution reproduces class structure.
+
+__Obsolescence & Knowledge Decay:__ Positivist paradigms face challenge from new social thought—anarchism, socialism, nascent nationalism. The regime's intellectual framework cannot account for the discontent modernization generates. The cientifico worldview approaches obsolescence as revolutionary alternatives emerge.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The 1910 Centennial deploys national mythology—independence, Reform, progress—in service of regime legitimacy. Monuments celebrate Juarez and the patria. But opposition reclaims this heritage: Madero invokes democratic principles; the PLM invokes radical liberalism. The regime's appropriation of national identity faces counter-claims.
+
+__Legitimating Narrative & Ideology:__ "Order and Progress" reaches exhaustion as legitimating formula. The narrative of necessary tutelage for an unready people—postponing democracy indefinitely—loses persuasive power as the educated middle class grows. Revolutionary narratives—land and liberty, no-reelection, democratic restoration—offer alternative legitimation.
+
+__Artistic Expression & Material Culture:__ The Palacio de Bellas Artes rises slowly in Art Nouveau grandeur. Elite culture maintains European orientation. But Mexican themes emerge in artistic production; the archeological recovery of pre-Columbian heritage accelerates. The tension between cosmopolitan aspiration and national identity marks cultural production. Popular culture—corridos, religious imagery, regional traditions—persists alongside elite refinement.
+
+__Form Exhaustion & Meaning Decay:__ Modernista aestheticism reaches its limits; the detachment from social reality becomes untenable as crisis mounts. Official rhetoric of progress hollows as dispossession continues. The forms of Porfirian culture—monuments, centennial displays, subsidized press—become empty ceremony. Meaning drains from the regime's self-representation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Elite secularism coexists uneasily with mass Catholicism. Positivist rationalism provides meaning for the cientificos but not for the excluded. The poor retain religious frameworks for understanding suffering and hope. The existential questions—why dispossession, why repression—find incomplete answer in either secular progress or constrained religion.
+
+__Ritual, Devotion & Sacred Practice:__ Religious practice continues despite legal restrictions—festivals, pilgrimages, household devotion. The saints, the Virgin of Guadalupe, and the ancestors receive veneration. For many, religious practice provides the primary framework for collective meaning unavailable through the political order.
+
+__Religious Institutions & Doctrinal Authority:__ The Church operates under Porfirian accommodation—discretely rebuilding institutional presence while avoiding confrontation. The hierarchy maintains authority over the faithful. Catholic social teaching begins to influence some clergy. The institutional Church watches regime crisis without committing to outcomes.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Protestant missionaries continue limited advance, particularly in the north. Spiritualism and freemasonry attract urban intellectuals. The dominant Catholic framework shows no serious challenge but operates under ongoing legal constraint.
+
+__Disenchantment & Sacred Discharge:__ Elite secularization deepens; for many cientificos, science has displaced religion entirely. Among the masses, religious devotion remains vital but cannot fully address the meaning-deficit created by dispossession and political exclusion. Revolutionary commitment provides an alternative form of transcendence for some—the cause as object of devotion. The spiritual needs of the excluded await revolutionary transformation to find new form.

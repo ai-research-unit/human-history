@@ -1,69 +1,139 @@
-# __2010 CE – 2016 CE__ — Smartphone Revolution and Social Media Maturation
-__Summary:__ The British Isles undergo rapid smartphone saturation and social media normalization, with iPhone and Android devices reaching majority adult ownership by 2015 and platforms like Facebook and Twitter becoming daily fixtures of public discourse; the binding constraint is the advertising-driven business model that redirects revenue from legacy media to platforms, eroding print journalism's financial base; the system holds considerable margin for information throughput but accumulates polarization and attention fragmentation as unabsorbed residue; the trajectory is one of accelerating platform dependency and declining institutional media gatekeeping.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island geography with dense urban cores in London, Birmingham, Manchester, Glasgow, Dublin, and Belfast, connected by motorway and rail networks; spatial friction for physical goods unchanged but rendered largely irrelevant for information flows by ubiquitous mobile coverage.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime climate with mild winters and cool summers; interannual variability moderate with occasional flooding events; no significant secular drift within the window affecting infrastructure or behavior patterns.<br><br>
-__Hazard Regime & Exposure:__ Low seismic and volcanic exposure; periodic coastal and river flooding, notably winter 2013–2014 Somerset Levels and 2015–2016 Cumbria floods; infrastructure margin adequate except in exposed floodplains.<br><br>
-__Resource & Energy Endowment:__ North Sea oil and gas in late-phase extraction; coal mining effectively terminated; renewable capacity expanding with offshore wind investment; energy imports rising as domestic fossil reserves deplete.<br><br>
-__Waste Absorption & Sink Capacity:__ Air quality improving in cities from vehicle emission controls; landfill capacity tightening with EU-driven diversion to recycling; electronic waste stream growing with rapid device turnover cycles but not yet saturating disposal systems.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease load low; NHS maintaining effective vaccination coverage; antibiotic resistance emerging as concern but not yet imposing significant mortality burden; life expectancy gains flattening by 2015.<br><br>
-__Nutrition & Physiological Vitality:__ Obesity rates rising, particularly childhood obesity; processed food consumption increasing; overall nutritional adequacy maintained but diet quality declining among lower income groups under austerity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility rate at approximately 1.8–1.9 children per woman; median age at first birth rising; digital dating platforms beginning to reshape pairing dynamics but not yet dominant.<br><br>
-__Demographic Renewal & Density:__ Population growing through natural increase and net migration; aging population structure with expanding pensioner cohort; density highest in southeast England with regional imbalances persisting.<br><br>
-__Attrition & Dependency Overhang:__ Elderly dependency ratio rising; austerity reducing support services; chronic disease burden increasing healthcare load; productive cohort absorbing strain but margin narrowing.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning secure for majority; food bank usage rising sharply under austerity from 2010, indicating floor erosion for vulnerable populations; housing costs straining household budgets especially in London and southeast.<br><br>
-__Energy Capture & Conversion:__ Fossil-dominant with expanding renewable share; grid reliability high; per-capita energy consumption stable; conversion efficiency improving through building standards and vehicle regulations.<br><br>
-__Labor Organization & Coercion:__ Wage labor dominant; zero-hours contracts expanding; gig economy emerging with platform-based work; union density continuing long-term decline; coercion minimal but precarity rising.<br><br>
-__Production & Surplus Capacity:__ Post-recession recovery slow; manufacturing continuing decline relative to services; financial services dominant in surplus generation; technology sector growing but concentrated in London and southeast.<br><br>
-__Storage, Reserves & Buffering:__ Government reserves constrained by deficit-reduction policy; household savings low; corporate cash holdings high but not deployed; austerity reducing public buffer capacity.<br><br>
-__Exchange, Trade & Logistics:__ EU single market access underpinning trade flows; logistics efficient through Channel ports and airports; digital retail growing rapidly with Amazon expansion; high-street retail beginning structural decline.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Pound sterling stable; ultra-low interest rates post-2009; credit accessible but household debt elevated; quantitative easing continuing; property as primary household wealth store with prices rising especially in London.<br><br>
-__Surplus Extraction & Redistribution:__ Tax revenue constrained by slow growth; austerity cutting welfare and local government spending; redistribution contracting; load on productive base stable but benefits to dependents declining.<br><br>
-__Wealth Distribution & Asset Defense:__ Inequality widening; property wealth concentrating among older cohorts; intergenerational wealth gap expanding; asset defense primarily through property ownership and pension accumulation.<br><br>
-__Byproducts & Waste Routing:__ Electronic waste stream growing from smartphone and device turnover; recycling systems absorbing portion but significant export to developing countries; emissions from production externalized to Asian manufacturing.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Generalized trust stable but showing early signs of erosion; informal mutual aid networks active but strained by geographic mobility; online communities supplementing but not replacing face-to-face bonds.<br><br>
-__Stratification, Status & Group Identity:__ Class boundaries softening in cultural expression but hardening economically; ethnic diversity increasing especially in cities; generational divide emerging as salient cleavage; regional identities persistent.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family normative but diverse household forms increasing; cohabitation common; inheritance taxation contested; intergenerational property transfers becoming critical to housing access.<br><br>
-__Civic Association & Self-Organization:__ Traditional civic organizations declining; online organizing emerging; Scottish independence referendum 2014 demonstrating digital mobilization capacity; neighborhood associations weakening in atomized suburban contexts.<br><br>
-__Leisure, Play & Sociability:__ Screen time increasing; social media becoming primary social space for younger cohorts; pub culture declining; festivals and live events maintaining social bonding function; gaming growing as leisure activity.<br><br>
-__Grievance Channels & Social Discharge:__ Social media providing new outlet for complaint and mobilization; traditional channels through unions and parties weakening; online discharge volatile and often ineffective at systemic resolution; some grievance accumulating as background discontent.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Westminster parliamentary sovereignty maintained; devolution to Scotland, Wales, Northern Ireland continuing; Coalition government 2010–2015, then Conservative majority; EU membership constraining certain policy domains; authority stable but Scottish independence question live after 2014 referendum.<br><br>
-__Succession & Power Transfer:__ Electoral succession orderly; Coalition transition 2010 smooth; 2014 Scottish referendum accepted; Conservative leadership changes routine; transfer mechanisms functioning without crisis.<br><br>
-__Legitimacy & Political Narrative:__ Austerity justified through deficit-reduction necessity narrative; anti-establishment sentiment rising; UKIP gaining vote share on EU and immigration issues; Scottish nationalism strengthening; establishment legitimacy eroding at margins.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Civil service competent but stretched by austerity cuts; local government capacity significantly reduced; digital government services expanding; corruption low by international standards; institutional integrity maintained.<br><br>
-__Political Participation & Mobilization:__ Turnout variable; Scottish referendum achieving 84.6% participation demonstrating engagement capacity; social media enabling new mobilization forms; traditional party membership declining except Labour surge 2015; online petition and campaign platforms growing.<br><br>
-__Geopolitical Position & External Relations:__ EU membership central to economic and diplomatic positioning; NATO alliance maintained; special relationship with US stable; intervention in Libya 2011; withdrawal from Iraq and Afghanistan ongoing; soft power through cultural exports and BBC World Service.<br><br>
-__Coercive Apparatus & Means of Force:__ Professional military with global projection capability though reduced by austerity cuts; police forces under budget pressure; surveillance capacity expanding through GCHQ digital collection; force monopoly unchallenged.<br><br>
-__Internal Order & Threat Environment:__ Low crime rates by historical standards; terrorism threat from dissident Irish republicans and emerging Islamist networks; 2011 English riots quickly suppressed; Northern Ireland peace process holding despite tensions; disorder well within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Smartphone penetration reaching majority by 2013, near-saturation by 2016; 4G networks expanding; social media platforms Facebook, Twitter, Instagram becoming primary news vectors for younger demographics; broadcast and print still reaching older cohorts but declining; transmission velocity now instantaneous and reach near-universal.<br><br>
-__Record, Storage & Persistence:__ Cloud storage normalizing; digital records accumulating on platform servers under foreign jurisdiction; traditional archives maintaining but newspapers closing local offices; personal digital records dependent on platform continuity; persistence improving for digital-native content but print archives deteriorating.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press freedom maintained; libel law constraining some speech; platform terms of service introducing new moderation layer; filter bubbles and algorithmic curation shaping what users see; hate speech laws expanding; discourse norms fragmenting across online communities.<br><br>
-__Reception, Attention & Amplification:__ Attention spans fragmenting; algorithmic amplification favoring engagement over accuracy; viral dynamics enabling rapid spread of both valuable and misleading content; news consumption shifting to snacking and scrolling; broadcast appointment viewing declining.<br><br>
-__Signal Integrity & Noise Load:__ Signal-to-noise ratio declining as content volume explodes; professional verification capacity shrinking with journalism job losses; misinformation spreading through social sharing; fact-checking emerging but not keeping pace; noise accumulating as unverified claims circulate.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Liberal individualism dominant; equality norms expanding to include same-sex marriage 2014 England and Wales, 2015 Ireland; fairness concerns rising around austerity's distributional impact; intergenerational justice emerging as concern.<br><br>
-__Law, Codification & Regulatory Evolution:__ Data Protection Act updated; Communications Act governing digital space; EU regulations on data and competition applicable; platform regulation minimal with self-regulatory approach; Leveson Inquiry 2011–2012 addressing press conduct.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts functioning normally; online harms creating enforcement gaps; cross-border jurisdiction over platforms unclear; defamation law applying to social media; backlog manageable; specialized tribunals handling employment and data disputes.<br><br>
-__Rights, Protections & Compliance Burden:__ Human Rights Act maintained; data protection rights strengthened; consumer protections adequate; compliance burden on businesses moderate; platform users' rights against algorithmic decisions undefined.<br><br>
-__Impunity & Unredressed Wrong:__ Phone hacking scandal revealing past impunity in tabloid press; institutional abuse inquiries ongoing; online harassment difficult to prosecute across jurisdictions; platform-mediated harms falling into enforcement gap; some wrongs accumulating without effective remedy.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ British universities maintaining research capacity though funding shifting toward STEM; internet studies and platform research emerging as fields; computational social science developing; austerity constraining humanities funding; Cambridge and Oxford retaining global position.<br><br>
-__Applied Knowledge & Technical Method:__ Software development accelerating; mobile app development as growth skill; data science emerging; agile methods normalizing in technology sector; behavioral insights applied to policy through "nudge unit."<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ University participation expanding but tuition fees tripled 2012 England; digital skills unevenly distributed with age gradient; coding education beginning in schools; apprenticeship reforms underway; overall skill distribution widening between knowledge workers and others.<br><br>
-__Obsolescence & Knowledge Decay:__ Print journalism skills atrophying as newsrooms shrink; traditional media production knowledge declining; digital skills rapidly obsolescing requiring continuous retraining; some craft knowledge lost with redundancies; technical debt accumulating in legacy systems.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ British identity contested; Scottish distinctiveness amplified through referendum campaign; Irish independence centenary 2016 prompting reflection; multicultural Britain as lived reality if contested ideal; World War memory still culturally central with centenary commemorations.<br><br>
-__Artistic Expression & Material Culture:__ Digital photography and smartphone video normalizing visual documentation; Instagram aesthetics influencing design; streaming displacing physical media; London remaining cultural capital with global art market presence; indie music scene adapting to streaming economics.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-recession caution persisting; generational mood diverging with younger cohorts anxious about housing and employment; Scottish independence energizing civic enthusiasm in Scotland; general mood stable but undercurrent of frustration building among left-behind communities.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional broadcast formats losing cultural centrality; newspaper authority declining; social media memes as dominant cultural production form; irony and self-referentiality pervasive; sincerity returning as counter-trend; political language showing exhaustion with "toxic" partisan discourse.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular majority with religious practice declining; Church of England attendance falling; Catholic Church maintaining stronger practice rates in Ireland; Islam growing through immigration and conversion; existential outlook predominantly materialist with residual cultural Christianity.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Weekly church attendance minority practice; Christmas and Easter as cultural more than religious observances; mosque attendance growing; mindfulness and wellness practices spreading as secular substitutes; life-cycle rituals still commonly church-based.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church of England accepting women bishops 2014; Catholic Church dealing with abuse scandal fallout; institutional authority weakened; religious schools maintaining presence; Ireland voting for same-sex marriage 2015 indicating declining Church influence.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity receding in practice though remaining culturally normative; Islam consolidating in diaspora communities; Buddhism and Eastern practices influential in wellness culture; "spiritual but not religious" category growing; secular humanism implicit rather than institutionalized.<br><br>
-__Disenchantment & Sacred Discharge:__ Explicit disenchantment proceeding without acute crisis; purpose and meaning sought through work, consumption, and relationships; mental health concerns rising, possibly related to meaning-vacuum; football and celebrity culture absorbing some quasi-religious devotion; standing disenchantment moderate and managed through secular substitutes.<br><br>
+# __2010 CE – 2016 CE — Smartphone Revolution and Social Media Maturation__
+
+__Summary:__ The British Isles transition from desktop internet to pocket-carried connectivity as smartphone penetration rises from roughly thirty percent to near-saturation, while social media platforms mature from novelty into primary channels of public discourse — the binding constraint is the collision between many-to-many information flow and legacy broadcast-era institutions unprepared to operate in an environment where every node can publish to every other.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's dense urban cores — London, Manchester, Birmingham, Edinburgh, Dublin, Belfast — concentrate digital infrastructure investment, while rural uplands and island peripheries lag in connectivity; spatial friction persists in areas where fixed-line broadband remains slow and mobile signal patchy.
+
+__Climate Regime & Volatility:__ Temperate maritime climate continues unchanged; no climate-driven disruption to infrastructure occurs within the window, though awareness of long-term climate risk enters digital discourse through viral campaigning.
+
+__Hazard Regime & Exposure:__ No significant natural disasters disrupt the infrastructure base; flood events in 2012 and 2015 cause localized damage but do not impede the digital buildout.
+
+__Resource & Energy Endowment:__ The islands import the rare-earth minerals and manufactured components that underpin the smartphone economy; domestic energy supply shifts gradually toward renewables, with data-center power demand a growing but still minor load.
+
+__Waste Absorption & Sink Capacity:__ E-waste accumulates as rapid handset replacement cycles generate obsolete devices; recycling infrastructure lags uptake, and exported electronic waste contributes to off-shored environmental burden — an externality deferred rather than cleared.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Public health remains stable with no major epidemic event; NHS capacity holds despite austerity-era pressures; life expectancy plateaus after decades of gains.
+
+__Nutrition & Physiological Vitality:__ Obesity rates continue rising, partly linked to sedentary screen-time; food-bank usage increases under austerity, exposing nutritional stress at the lower income brackets.
+
+__Care, Healing & Recovery Capacity:__ The NHS adapts slowly to digital tools; telemedicine remains nascent; mental-health services face growing demand as anxiety and depression rates climb, with smartphone-mediated social comparison identified as a contributing factor among adolescents.
+
+__Reproductive Biology & Pairing Dynamics:__ Dating apps reshape pairing behavior from 2012 onward, with Tinder's 2012 launch marking a shift toward algorithmically mediated mate-selection among urban young adults.
+
+__Demographic Renewal & Density:__ Fertility rates remain below replacement; net migration is positive, concentrated in urban areas; population grows modestly from roughly sixty-three to sixty-five million in the UK, with Ireland recovering from post-2008 emigration.
+
+__Attrition & Dependency Overhang:__ Ageing population increases dependency ratio; elderly cohorts remain largely outside smartphone adoption until late in the window, creating a generational digital divide that social services struggle to bridge.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Austerity-era welfare cuts erode the social safety net; Universal Credit rollout begins; food poverty becomes visible through digital fundraising and viral awareness campaigns.
+
+__Energy Capture & Conversion:__ Grid electricity powers the expanding network infrastructure; smartphone charging becomes a ubiquitous household draw; coal declines as renewables and gas rise in the generation mix.
+
+__Labor Organization & Coercion:__ The gig economy emerges through app-mediated platforms — Uber launches in London in 2012, Deliveroo in 2013 — creating a new precariat class of algorithmically dispatched workers with ambiguous employment status.
+
+__Production & Surplus Capacity:__ The economy recovers slowly from the 2008 crisis; tech sector grows in London's "Silicon Roundabout" cluster; productivity growth remains weak, a puzzle economists attribute partly to measurement failure in the digital economy.
+
+__Storage, Reserves & Buffering:__ Household savings remain low; government fiscal consolidation reduces public reserves; corporate cash holdings rise as firms delay investment amid uncertainty.
+
+__Exchange, Trade & Logistics:__ E-commerce accelerates with Amazon's expansion and smartphone-enabled purchasing; high-street retail begins its long contraction; same-day delivery expectations reshape logistics.
+
+__Value Storage, Credit & Deferred Exchange:__ Low interest rates persist throughout; contactless payment spreads from 2012; mobile banking apps become standard; household debt rises relative to income.
+
+__Surplus Extraction & Redistribution:__ Austerity concentrates fiscal extraction on welfare recipients and public-sector workers; advertising revenue shifts from legacy media to platform companies, with Google and Facebook capturing the lion's share of UK digital ad spend by 2015.
+
+__Wealth Distribution & Asset Defense:__ Property prices surge, especially in London; generational wealth gap widens as younger cohorts are priced out of homeownership; inheritance becomes the primary route to asset accumulation for many.
+
+__Byproducts & Waste Routing:__ Digital advertising supports free-to-user services while externalizing attention costs; data as byproduct becomes a tradeable commodity; financial misallocation into property speculation continues uncleared.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family structures diversify; same-sex marriage legalized in England and Wales (2013), Scotland (2014), and Ireland (2015 referendum); intergenerational communication increasingly mediated through messaging apps.
+
+__Association & Mutual Aid:__ Crowdfunding platforms (JustGiving, GoFundMe) supplement strained charitable infrastructure; online communities form around shared interests, illnesses, and identities; neighborhood Facebook groups emerge.
+
+__Leisure, Play & Sociability:__ Smartphone games (Candy Crush, Angry Birds) colonize idle moments; social media check-ins structure leisure time; the "fear of missing out" becomes a recognized social phenomenon.
+
+__Stratification, Status & Group Structure:__ Digital literacy becomes a marker of employability; platform influencers emerge as a new status category; class divisions are replicated online but with new pathways to visibility for previously marginal voices.
+
+__Administrative Capacity & Institutional Integrity:__ Government adopts Gov.uk as a unified digital interface (2012); HMRC moves tax filing online; digital-by-default policies assume universal connectivity that does not yet exist, excluding digitally marginalized populations.
+
+__Coercive Apparatus & Means of Force:__ Police adopt social media monitoring; the 2011 London riots prompt debate over platform shutdowns; surveillance capabilities expand, revealed in the 2013 Snowden disclosures showing GCHQ's mass data collection programs.
+
+__Discharge, Disorder & Decay:__ Online harassment emerges as a persistent disorder; the 2011 riots demonstrate social media's dual capacity for coordination and for spreading disorder; trolling and abuse drive some users — disproportionately women and minorities — from public digital spaces.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Optimism about digital connectivity coexists with growing anxiety about its effects; smartphone addiction enters public discourse; the ambient mood oscillates between techno-utopianism and moral panic about screen time.
+
+__Leadership & Personal Authority:__ Platform founders (Zuckerberg, Dorsey) acquire quasi-political visibility; Cameron's government courts the tech sector; celebrity and politician alike become accessible through Twitter, flattening perceived distance.
+
+__Legitimacy as Lived Allegiance:__ Trust in mainstream media erodes as social media offers alternative framings; trust in political institutions declines; the Scottish independence referendum (2014) demonstrates digital mobilization's capacity to energize and polarize allegiance.
+
+__Political Will & Collective Resolve:__ Grassroots movements find new organizing capacity through Facebook events and Twitter hashtags; the 2010 student protests and subsequent austerity opposition demonstrate digital coordination, though without achieving policy reversal.
+
+__External Relations & Posture:__ UK government views platform companies as American entities requiring accommodation; Dublin's role as European headquarters for US tech firms creates cross-border regulatory complexity; no significant foreign-policy digital conflict emerges until the window's close.
+
+__Disaffection, Apathy & Spent Will:__ Voter turnout remains depressed; youth disengagement from formal politics coexists with high engagement in online activism; slacktivism critiques suggest digital participation substitutes for rather than supplements material action — a persistent affective discharge.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Smartphone ownership democratizes access to the mobile internet; 4G rollout from 2012 raises transmission speeds; literacy is near-universal but digital literacy varies sharply by age and class.
+
+__Channels & Transmission Velocity:__ Facebook, Twitter, and YouTube become primary distribution channels; news travels faster than verification; the broadcast-era gatekeeping model collapses as anyone with a smartphone can publish to a global audience instantaneously.
+
+__Record, Storage & Persistence:__ Cloud storage (iCloud, Google Drive, Dropbox) shifts personal archives off-device; social media posts create persistent but platform-controlled records; the "right to be forgotten" enters legal discourse but remains contested.
+
+__Framing, Censorship & Discourse Norms:__ Platform terms of service become de facto speech regulation; content moderation remains opaque and inconsistent; filter bubbles and algorithmic curation shape exposure, with users increasingly seeing content that confirms prior beliefs.
+
+__Reception, Attention & Amplification:__ Attention becomes the scarce resource; virality supplants editorial judgment; outrage and emotional content receive algorithmic amplification; news organizations chase clicks, degrading depth.
+
+__Signal Integrity & Noise Load:__ Misinformation spreads at the speed of truth; verification infrastructure lags; fact-checking organizations emerge but reach only a fraction of viral falsehoods — noise accumulates faster than it is cleared.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Public conscience is activated by viral campaigns (Kony 2012, ice-bucket challenge) but attention is episodic; moral outrage becomes a currency traded for engagement.
+
+__Law, Codification & Regulatory Evolution:__ The Leveson Inquiry (2011-2012) addresses phone-hacking but not platform regulation; defamation and harassment law struggles to apply to digital contexts; Data Protection Act remains the primary framework until GDPR preparation begins.
+
+__Adjudication, Liability & Sanction:__ Courts struggle with jurisdictional questions when platforms are headquartered abroad; trolling prosecutions increase but sentencing is inconsistent; platform companies resist liability for user content under intermediary protections.
+
+__Rights, Protections & Compliance Burden:__ Privacy expectations shift as personal data becomes the price of free services; the Snowden revelations (2013) expose the gap between assumed and actual privacy; compliance burden falls on traditional media while platforms operate under lighter frameworks.
+
+__Impunity & Unredressed Wrong:__ Online harassment frequently goes unpunished; coordinated abuse campaigns overwhelm individual reporting mechanisms; platform moderation is under-resourced, leaving a standing deficit of unredressed harm that accumulates throughout the window.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Research into social media effects begins but lags the technology's adoption; "big data" enters the methodological vocabulary; platform companies fund research while controlling access to the data required to conduct it independently.
+
+__Applied Knowledge & Technical Method:__ App development becomes a mass skill; user-experience design and behavioral psychology merge in "persuasive technology"; A/B testing allows continuous optimization of engagement hooks.
+
+__Education, Knowledge Stock & Skill Distribution:__ Coding enters the national curriculum (2014); MOOCs (Massive Open Online Courses) promise democratized higher education; Wikipedia becomes the de facto first source for factual queries; skill distribution tilts toward urban, young, and educated populations.
+
+__Obsolescence & Knowledge Decay:__ Desktop-era skills become partially obsolete; print journalism expertise loses market value; institutional memory of pre-digital workflow erodes as organizations restructure around digital-first priorities.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The 2012 London Olympics project a confident multicultural British identity through Danny Boyle's opening ceremony, itself a meditation on information-technology history; the Scottish referendum stirs competing narratives of Britishness and Scottish identity.
+
+__Legitimating Narrative & Ideology:__ Silicon Valley libertarianism frames platforms as neutral conduits; the "sharing economy" and "disruption" become legitimating terms for labor deregulation; austerity is justified through narratives of fiscal prudence.
+
+__Artistic Expression & Material Culture:__ Instagram aesthetics reshape visual culture; the selfie becomes a dominant photographic form; streaming begins to displace physical media; smartphone photography democratizes image-making while homogenizing style.
+
+__Form Exhaustion & Meaning Decay:__ Viral content cycles accelerate, exhausting formats rapidly; memes emerge and decay within days; irony becomes the dominant register, hollowing earnestness; attention scatters across proliferating platforms, leaving no stable center.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular humanism remains the default educated position; smartphone connectivity offers a sense of ambient presence and connection, partially substituting for communal religious participation.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance continues its long decline; the smartphone check becomes a compulsive ritual, structuring daily attention; mindfulness apps emerge as technologically mediated quasi-spiritual practice.
+
+__Religious Institutions & Doctrinal Authority:__ Traditional religious institutions adapt slowly to digital communication; churches create Facebook pages with limited engagement; religious authority competes with influencer culture for youth attention.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam remains the second religion in the UK; anti-Muslim sentiment circulates through social media; New Atheism peaks and recedes; wellness and self-care ideologies spread through Instagram.
+
+__Disenchantment & Sacred Discharge:__ Digital connectivity fills some of the social functions vacated by religious community but without transcendent framing; existential anxiety persists beneath the surface of curated online presentation; the sacred gap remains unfilled, re-anchoring incomplete.

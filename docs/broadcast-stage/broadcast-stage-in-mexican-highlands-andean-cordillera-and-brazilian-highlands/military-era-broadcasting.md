@@ -1,69 +1,139 @@
-# __1964 CE – 1975 CE__ — Military Era Broadcasting
-__Summary:__ Military coups in Brazil (1964), Argentina (1966, 1976 anticipated), and Chile (1973) transform broadcasting into a tool of authoritarian consolidation, while Mexico's PRI maintains civilian control through parallel mechanisms; the binding constraint is political survival for broadcasters who must accommodate military censorship or face license revocation; the system holds margin against shocks because advertising revenue continues flowing and regimes need entertainment to pacify populations; the direction of change is tightening state control, deepening self-censorship, and paradoxical expansion of television infrastructure as regimes invest in national integration.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Mountain and jungle barriers persist; military regimes invest in microwave relay networks and satellite ground stations to extend broadcast reach into remote regions as an integration strategy, reducing spatial friction for state messaging.<br><br>
-__Climate Regime & Volatility:__ No significant climate shift; seasonal patterns stable; occasional droughts in northeastern Brazil and floods elsewhere disrupt local transmission temporarily without altering the overall expansion trajectory.<br><br>
-__Hazard Regime & Exposure:__ Earthquake damage in Peru (1970) and Chile (1971) destroys local infrastructure; regimes rebuild transmission capacity as national priority; volcanic and seismic risk unchanged; margin adequate for recovery.<br><br>
-__Resource & Energy Endowment:__ Oil production rising in Mexico and Venezuela; hydropower expanding in Brazil (Itaipu planning begins); electrification extends into smaller cities, enabling broadcast audience growth; energy endowment ample for current loads.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution increasing in Sao Paulo and Mexico City; electronic waste still negligible; urban sinks approaching stress but not yet saturated; no binding environmental constraint on broadcasting.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Vaccination campaigns reduce measles and polio; urban sanitation improving; infant mortality declining; television-viewing population healthier than rural majority; no epidemic disrupts broadcast schedules.<br><br>
-__Nutrition & Physiological Vitality:__ Green Revolution crops increase caloric availability; urban nutrition improving; rural malnutrition persists; average stature rising slowly; broadcast audiences skew toward better-nourished urban cohorts.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility rates remain high but beginning to decline in urban areas; telenovelas increasingly depict smaller families; contraception spreading among educated viewers; reproductive biology stable, cultural norms shifting.<br><br>
-__Demographic Renewal & Density:__ Population growth rates above two percent; urbanization accelerating; median age young; television audiences expanding faster than population as urban share rises; density increasing in broadcast-served areas.<br><br>
-__Attrition & Dependency Overhang:__ Youth bulge creates large working-age cohort; elderly dependency low; political repression creates new categories of absence—disappeared, exiled, imprisoned—but demographic impact limited; no binding dependency constraint.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Economic growth continues under military management; Brazilian "miracle" raises urban incomes; subsistence floor rising in cities; rural poverty persists; television ownership spreads into working class.<br><br>
-__Energy Capture & Conversion:__ Fossil and hydroelectric generation expanding; per-capita consumption rising; broadcast infrastructure draws reliable power; energy conversion adequate; no binding energy constraint on television growth.<br><br>
-__Labor Organization & Coercion:__ Military regimes suppress independent unions; broadcast workers under tight control; strikes prohibited or broken; coercion elevated in labor relations; wage repression funds profit margins.<br><br>
-__Production & Surplus Capacity:__ Industrial output growing under state-directed investment; television production capacity expanding; Globo achieves technical excellence; surplus ample for infrastructure investment and content production.<br><br>
-__Storage, Reserves & Buffering:__ Broadcast firms accumulate reserves; state investment supplements private capital; advertising market expanding; foreign debt rising but not yet critical; buffering adequate against cyclical shocks.<br><br>
-__Exchange, Trade & Logistics:__ Color television equipment imported; trade managed by state; logistics adequate; Televisa and Globo begin exporting telenovelas, reversing early import dependence; continental distribution networks forming.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Inflation rising in Argentina and Chile; Brazil's indexation system preserves contract value; credit available for broadcast investment; monetary instability a concern but not yet a binding constraint.<br><br>
-__Surplus Extraction & Redistribution:__ Military states extract surplus through taxation, tariffs, and state enterprise profits; broadcast licenses remain political currency; surplus flows to regime allies and military development projects.<br><br>
-__Wealth Distribution & Asset Defense:__ Broadcasting concentration intensifies; Globo achieves dominance through military favor; Televisa consolidates Mexican market; oligarch families defend assets through regime alliance; wealth concentration accelerating.<br><br>
-__Byproducts & Waste Routing:__ Production waste routed to municipal systems; industrial effluent increasing; no broadcast-specific waste crisis; routing decisions unchanged; capacity adequate.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Political repression contracts trust radius; informers and surveillance fragment social networks; television viewing retreats into private domestic space; mutual aid limited to trusted kin; trust eroding.<br><br>
-__Stratification, Status & Group Identity:__ Class boundaries reinforced by consumption patterns; television promotes aspirational middle-class identity; indigenous and Afro-descended populations invisible or stereotyped; military officer class elevated.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family ideal promoted through telenovela narratives; extended-family obligations persist; political disappearances fracture some families; inheritance patterns unchanged; kinship under stress but functional.<br><br>
-__Civic Association & Self-Organization:__ Independent associations suppressed or co-opted; broadcast unions under state control; neighborhood organizations tolerated if apolitical; civil society thinning under repression; church provides limited shelter.<br><br>
-__Leisure, Play & Sociability:__ Television dominates leisure; soccer broadcasts create permitted collective excitement; public gatherings restricted; sociability privatized around the screen; leisure serves regime pacification goals.<br><br>
-__Grievance Channels & Social Discharge:__ Political channels closed; labor grievance suppressed; television provides escapist discharge; church offers limited moral voice; guerrilla movements absorb radicalized minority; most grievance unmetabolized, accumulating as latent instability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Military juntas hold executive power in Brazil, Argentina, and Chile; Mexico's PRI maintains civilian authoritarianism; broadcast licenses conditional on political compliance; authority centralized and coercive.<br><br>
-__Succession & Power Transfer:__ Military succession managed through internal junta rotation; coups within coups possible; broadcast owners cultivate multiple factions; transfer mechanisms unstable but functional within the window.<br><br>
-__Legitimacy & Political Narrative:__ National security doctrine legitimates military rule; anti-communism the master narrative; development and modernization secondary justifications; television broadcasts regime achievements and avoids criticism.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Military states strengthen administrative apparatus; censorship bureaus established; intelligence services monitor broadcast content; corruption present but subordinate to political control; capacity adequate for repression.<br><br>
-__Political Participation & Mobilization:__ Electoral participation suspended or managed; opposition parties banned or constrained; television excludes opposition voices; mobilization occurs underground or in exile; participation channels closing.<br><br>
-__Geopolitical Position & External Relations:__ Cold War alignment with United States; Operation Condor coordinates regional repression; Cuban influence contained; US supports anti-communist regimes; no external threat to broadcast systems.<br><br>
-__Coercive Apparatus & Means of Force:__ Military and police forces expanded; torture and disappearance institutionalized; broadcast facilities protected as strategic infrastructure; coercive capacity exceeds resistance; force monopoly consolidated.<br><br>
-__Internal Order & Threat Environment:__ Urban guerrilla movements active in Brazil, Argentina, Uruguay; rural insurgency in some areas; regimes deploy overwhelming force; disorder suppressed at high human cost; broadcast infrastructure unthreatened.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Television reaches majority of urban households; microwave networks extend national coverage; satellite technology arriving; radio retains rural penetration; velocity instantaneous for broadcast, controlled for all other channels.<br><br>
-__Record, Storage & Persistence:__ Videotape replaces kinescope, improving archival capacity; regime archives classified; opposition records destroyed or hidden; institutional memory selective; much testimony suppressed, recoverable only after transition.<br><br>
-__Framing, Censorship & Discourse Norms:__ Prior censorship institutionalized in Brazil (AI-5) and Chile; self-censorship pervasive; news framing controlled; entertainment avoids political themes; discourse norms narrowed to regime-approved content.<br><br>
-__Reception, Attention & Amplification:__ Mass audiences captive to limited channel options; prime-time telenovelas command near-universal attention; amplification controlled; no alternative channels for dissident messages; reception passive and managed.<br><br>
-__Signal Integrity & Noise Load:__ Technical quality improving with color adoption; informational noise low within controlled system; propaganda dominant; verification impossible for audiences; regime narrative unchallenged on broadcast channels.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic moral framework persists; regime violence creates dissonance between professed values and state practice; audiences compartmentalize; sense of justice wounded but suppressed; moral confusion accumulating.<br><br>
-__Law, Codification & Regulatory Evolution:__ Emergency decrees and institutional acts override constitutional law; broadcast regulation by executive fiat; no independent regulatory authority; rule of law suspended for political matters.<br><br>
-__Adjudication, Enforcement & Liability:__ Military tribunals handle political cases; commercial disputes in civilian courts; enforcement arbitrary for political offenses; liability avoided through regime connection; dual system—commercial law functional, political law weaponized.<br><br>
-__Rights, Protections & Compliance Burden:__ Habeas corpus suspended; press freedom nominal; broadcasters comply to survive; compliance burden asymmetric—regime allies protected, critics vulnerable; rights framework hollowed.<br><br>
-__Impunity & Unredressed Wrong:__ Torture, murder, and disappearance proceed with impunity; media complicity unacknowledged; victims have no recourse; impunity total within the window; justice debt accumulating for future reckoning.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities purged of leftist faculty; dependency theory developed in exile; communication studies constrained; regime-approved modernization theory dominant; paradigm challenge suppressed but developing externally.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast engineering advancing; color television mastered; production techniques sophisticated; Globo achieves Hollywood-comparable quality; technical knowledge growing despite intellectual repression.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy expanding; university enrollment growing but politically screened; technical training available; skill distribution widening for approved fields; critical social knowledge suppressed.<br><br>
-__Obsolescence & Knowledge Decay:__ Black-and-white production techniques obsolescing; live broadcast skills partially retained; knowledge accumulation exceeds decay in technical domains; critical knowledge preserved in exile and underground; no net loss.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Regime narratives emphasize national greatness and anti-communist vigilance; official memory sanitized; counter-memory suppressed; foundational identities instrumentalized; indigenous and Afro presence minimized on screen.<br><br>
-__Artistic Expression & Material Culture:__ Telenovela production peaks in quality and audience reach; Tropicalia movement in Brazil subverts censorship through allegory; visual culture modernizing; regime architecture monumental; artistic expression constrained but creative within limits.<br><br>
-__Collective Mood & Behavioral Disposition:__ Fear and caution dominate public behavior; private skepticism widespread; economic growth sustains consumerist optimism; mood bifurcated—public compliance, private anxiety; disposition toward withdrawal and survival.<br><br>
-__Form Exhaustion & Meaning Decay:__ Regime symbols rapidly hollowing through mandatory repetition; telenovela forms remain vital through emotional authenticity; cultural creativity persists in permitted domains; exhaustion concentrated in political forms.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology dominant; liberation theology emerging as counter-narrative; regime violence challenges providential optimism; existential outlook darkening among aware minorities; mass audience outlook unchanged.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance stable; devotional practice continues; church provides limited sanctuary; religious ritual offers respite from political fear; sacred practice intact but politicized at margins.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic hierarchy divided between regime accommodation and prophetic resistance; Brazilian CNBB increasingly critical; Protestant growth continuing; institutional authority fragmenting along political lines.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pentecostalism spreading in urban peripheries; Afro-Brazilian traditions persist; no broadcast platform for alternative spiritualities; diffusion occurring below elite visibility; dominant cosmology's broadcast monopoly intact.<br><br>
-__Disenchantment & Sacred Discharge:__ Political repression creates existential void for activists; consumer culture advances secular meaning; church absorbs some spiritual need; disenchantment growing among educated urban cohorts; sacred meaning strained but not collapsed.<br><br>
+# __1964 CE – 1975 CE — Military Era Broadcasting__
+
+__Summary:__ Military coups across Brazil (1964), Argentina (1966), Peru (1968), Chile (1973), and Uruguay (1973) reshape state-broadcaster relations, establishing patterns of censorship, self-censorship, and regime-supportive entertainment programming while paradoxically enabling the commercial consolidation that creates continental media empires — the binding constraint is the authoritarian bargain in which private broadcasters trade political compliance for monopoly protection and infrastructure investment.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ National broadcast networks expand beyond capital cities as microwave relay systems and satellite ground stations overcome terrain barriers; Embratel (founded 1965) builds Brazil's telecommunications backbone; Mexican Telesistema extends provincial coverage; the Andean nations link highland capitals to coastal and interior regions through improved transmission infrastructure, though Amazon basin, Patagonia, and remote highlands remain beyond reliable reach.
+
+__Climate Regime & Volatility:__ Stable climatic conditions permit year-round broadcast expansion; no major climate-driven disruptions to infrastructure; the Amazon wet season and Andean weather complicate construction schedules for transmission towers but do not interrupt established urban service; coastal El Nino events (1972) affect Peru and Ecuador but with limited broadcast infrastructure impact.
+
+__Hazard Regime & Exposure:__ The 1970 Peru earthquake (magnitude 7.9) kills 70,000 and devastates Ancash region, demonstrating infrastructure vulnerability; the 1972 Managua earthquake destroys Nicaragua's capital; Chilean earthquake risk remains elevated; broadcast facilities in capital cities maintain relative protection through concentration in better-engineered structures.
+
+__Resource & Energy Endowment:__ Brazilian hydroelectric expansion (Itaipu planning begins) and petroleum resources across the region power grid extension essential for television penetration; color television introduction requires upgraded transmission and reception equipment; domestic electronics manufacturing expands in Brazil and Mexico under import-substitution policies while remaining dependent on foreign components.
+
+__Waste Absorption & Sink Capacity:__ Accelerating industrial pollution loads air and water in major metropolitan areas — Mexico City's air quality deteriorates visibly, São Paulo's rivers receive untreated industrial effluent — while environmental regulation remains minimal under development-focused military regimes; the environmental residue of rapid industrialization accumulates without remediation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Public health campaigns continue reducing infectious disease mortality; urban sanitation improves; life expectancy rises toward 60-65 years across the major countries; vaccination coverage expands, though rural and peripheral populations remain underserved; the demographic transition begins as mortality falls faster than fertility.
+
+__Nutrition & Physiological Vitality:__ Green Revolution agriculture increases food production; urban food supply stabilizes despite inflation; working-class nutrition improves modestly while inequality leaves poverty-related malnutrition persistent in favelas, villas, and rural zones; obesity not yet a significant concern in populations recently emerged from scarcity.
+
+__Care, Healing & Recovery Capacity:__ Hospital construction continues under military development programs; medical training expands; public health systems (IMSS in Mexico, INSS in Brazil) cover formal-sector workers while informal workers and rural populations rely on charitable and traditional care; medical brain drain to the United States accelerates.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility remains high (5-6 children per woman) though beginning to decline in urbanized populations with female education and labor force participation; family planning programs emerge cautiously despite Catholic Church opposition; contraceptive access expands in urban areas.
+
+__Demographic Renewal & Density:__ Population growth continues — Brazil reaches 100 million by 1970, Mexico 50 million — with urbanization accelerating; São Paulo and Mexico City approach megacity scale; shantytown populations swell with rural migrants; young age structures provide labor force growth exceeding formal employment capacity.
+
+__Attrition & Dependency Overhang:__ Youth bulges create both opportunity and challenge — large cohorts enter labor force and consumer markets while education and employment fail to absorb them all; military regimes face restive youth populations drawn to leftist movements; dependency ratios remain favorable but underemployment wastes demographic potential.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Import-substitution industrialization reaches its apex, generating urban employment and consumer goods production; real wages fluctuate with inflation and stabilization programs; informal sector absorbs those excluded from formal employment; rural subsistence continues alongside commercial agriculture.
+
+__Energy Capture & Conversion:__ Petroleum (Mexico, Venezuela, Ecuador) and hydroelectric power (Brazil, Colombia, Chile) fuel industrial and domestic consumption; the 1973 oil crisis benefits petroleum exporters while straining importers; electrification reaches most urban and many rural areas, enabling television penetration expansion.
+
+__Labor Organization & Coercion:__ Military regimes suppress independent labor organization — Brazilian unions placed under intervention after 1964, Argentine CGT divided by military governments, Chilean unions crushed after 1973 — while corporatist structures channel controlled worker representation; broadcast workers operate under close surveillance for political reliability.
+
+__Production & Surplus Capacity:__ Industrial output grows substantially under military development programs — Brazil's "economic miracle" (1968-1973) achieves 10%+ annual GDP growth; Mexican manufacturing expands; Argentine and Chilean economies more volatile — generating advertising revenue that funds broadcast expansion and consolidation.
+
+__Storage, Reserves & Buffering:__ Foreign exchange reserves fluctuate with commodity cycles; external debt accumulates as military regimes borrow for infrastructure and defense; Brazil's debt multiplies during the miracle years; the 1973 oil shock strains non-exporters while creating reserves for Venezuela, Ecuador, Mexico.
+
+__Exchange, Trade & Logistics:__ Protected domestic markets persist while manufactured exports begin — Brazilian automobiles, Mexican assembly — and primary exports (coffee, copper, petroleum, beef) generate foreign exchange; advertising market consolidates around major broadcasters and multinational consumer goods companies.
+
+__Value Storage, Credit & Deferred Exchange:__ Inflation varies — Brazil's indexation system manages (but entrenches) chronic inflation, Chilean inflation explodes under Allende then is crushed under Pinochet, Mexican peso maintains relative stability — while consumer credit expands for durables including television sets; color television represents substantial household investment.
+
+__Surplus Extraction & Redistribution:__ Military regimes extract surplus through inflation tax, wage suppression, and state enterprise pricing; television advertising revenues flow to consolidated private broadcasters — TV Globo achieves dominance in Brazil, Televisa consolidates in Mexico — while token state broadcasting receives minimal funding.
+
+__Wealth Distribution & Asset Defense:__ Income and wealth inequality widens under military development models; broadcast license concentration creates oligarchic media families (Marinho, Azcárraga, Cisneros) whose fortunes compound; asset defense through regime relationships and capital flight to offshore havens.
+
+__Byproducts & Waste Routing:__ Media market consolidation displaces smaller competitors; print media declines relatively though not absolutely; obsolescent equipment exported or junked without recycling; the political "waste" of suppressed alternatives accumulates as unfulfilled democratic potential.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Traditional family structures persist alongside urbanization-driven changes; nuclear family formation increases in cities; broadcast families consolidate dynastic control — Roberto Marinho builds TV Globo empire to pass to sons, Emilio Azcárraga Milmo prepares to succeed father at Televisa.
+
+__Association & Mutual Aid:__ Military regimes suppress independent civil society — student movements crushed (Mexico 1968, Brazil 1968), union autonomy eliminated, neighborhood associations controlled — while church-based groups provide limited protected space; television programming offers escape but not organizing capacity.
+
+__Leisure, Play & Sociability:__ Television becomes the dominant leisure activity in urban households; telenovela viewing structures daily schedules; World Cup broadcasts (1970 Mexico, 1974 Germany) create national collective experiences; the 1970 Brazilian World Cup victory broadcasts in color to limited audiences, becoming a nationalist touchstone.
+
+__Stratification, Status & Group Structure:__ Military regimes reinforce class hierarchies while suppressing class-based organization; television reinforces aspirational middle-class consumer culture; racial hierarchies persist — Brazilian "racial democracy" ideology masks continued exclusion, Mexican mestizo nationalism erases indigenous presence, Argentine and Chilean elites maintain European self-identification.
+
+__Administrative Capacity & Institutional Integrity:__ Military governments centralize authority and expand state capacity for surveillance and control while hollowing democratic institutions; broadcast licensing serves political rather than competitive purposes; patronage and corruption persist within authoritarian structures; technocratic economic management coexists with arbitrary political repression.
+
+__Coercive Apparatus & Means of Force:__ Military establishments wield power directly — Brazilian military presidency rotates among service branches, Chilean junta concentrates under Pinochet, Argentine military rules through juntas — with internal security forces conducting repression; National Security Doctrine provides ideological framework; US training and equipment support counterinsurgency; torture and disappearance become systematic.
+
+__Discharge, Disorder & Decay:__ State terrorism eliminates or exiles opposition — estimated 30,000 disappeared in Argentina alone — while controlled public order replaces open contestation; the residue is the trauma that will surface in democratic transitions, the exiles who carry alternative information abroad, the clandestine networks that maintain opposition memory against the day of reckoning.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear pervades public life under military rule — the knock at midnight, the unmarked car — while official optimism and consumer-entertainment culture provide psychological escape; Brazilian "economic miracle" generates genuine enthusiasm among beneficiaries; Chilean polarization leaves half the population traumatized by coup, half relieved.
+
+__Leadership & Personal Authority:__ Military leaders command through force rather than charisma, though some cultivate personal cults (Pinochet, to a degree the Brazilian generals); broadcast magnates exercise parallel authority — Roberto Marinho becomes kingmaker in Brazilian politics, Emilio Azcárraga Milmo consolidates Mexican media empire aligned with PRI.
+
+__Legitimacy as Lived Allegiance:__ Military regimes claim legitimacy through anti-communist necessity, development achievement, and order restoration; actual allegiance varies — Brazilian miracle generates support, Chilean coup splits society, Argentine military inherits rather than creates Peronist legitimacy crisis; broadcast complicity confers regime legitimacy while withholding critical coverage.
+
+__Political Will & Collective Resolve:__ Military governments exercise concentrated political will unchecked by democratic contestation; opposition will survives in exile, clandestinity, and church-protected spaces; the 1968 generation's defeated revolutionary aspiration transforms into long-term democratic and human rights commitment; collective resolve for alternatives gestates beneath surface compliance.
+
+__External Relations & Posture:__ US Cold War alliance frames regional security; Nixon-Kissinger support for coups (Chile 1973 most documented) aligns with military regimes; Cuba remains isolated while supporting guerrilla movements; South-South solidarity among military regimes (Operation Condor coordinates cross-border repression from 1975); Brazil claims regional leadership.
+
+__Disaffection, Apathy & Spent Will:__ Revolutionary hopes defeated, democratic participation foreclosed, survivors of repression traumatized — the emotional residue is a generation's spent will to contest, though exile communities maintain alternative visions; domestic populations retreat into private life, family, and television-mediated consumption as available satisfactions under authoritarian constraint.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Television reaches national audiences through network expansion; illiterate populations access audiovisual content; Spanish and Portuguese broadcast standards homogenize national languages; indigenous languages and regional dialects remain excluded from broadcast; color television introduction (Mexico 1967 for Olympics preparation, Brazil 1972 with TV Globo transmission) adds visual dimension while remaining elite until late in period.
+
+__Channels & Transmission Velocity:__ National networks consolidate — TV Globo's microwave backbone integrates Brazil, Televisa's provincial affiliates cover Mexico — while satellite transmission (Intelsat access from late 1960s) enables live international programming; channel scarcity persists with VHF spectrum allocated to few licensees; one-to-many architecture reaches maximum institutional concentration.
+
+__Record, Storage & Persistence:__ Videotape replaces kinescope, enabling program storage, replay, and syndication; telenovela libraries accumulate as exportable assets; news footage becomes archival record, though much is lost or withheld; the censored and self-censored record understates repression while entertainment archives persist intact.
+
+__Framing, Censorship & Discourse Norms:__ Military regimes impose formal and informal censorship — Brazilian AI-5 (1968) institutionalizes prior restraint, Chilean DINACOS controls content, Argentine decrees restrict coverage — while self-censorship becomes internalized; news minimizes regime crimes, entertainment avoids political content; the permitted discourse narrows to consumer, family, and sport while political reality is silenced.
+
+__Reception, Attention & Amplification:__ Television captures mass attention for regime-compatible content; telenovelas achieve 70-80% audience shares; World Cup and major events create total national attention; alternative information reaches limited audiences through clandestine channels, exile media, and foreign broadcasts (BBC World Service, Voice of America, Radio Moscow).
+
+__Signal Integrity & Noise Load:__ Official information monopoly reduces visible noise while actually increasing it through systematic distortion; the gap between broadcast reality and lived experience grows — inflation experienced versus reported, repression witnessed versus acknowledged — creating quiet skepticism without open challenge; the residue is corroded trust that will complicate democratic communication.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Military regimes invoke order, security, and anti-communism as moral foundations; traditional Catholic morality (family, hierarchy, authority) aligns with authoritarian values; human rights concepts circulate in opposition and exile networks; the moral sense of justice is fractured between those who accept regime premises and those who reject them entirely.
+
+__Law, Codification & Regulatory Evolution:__ Exceptional legislation — Brazil's Institutional Acts, Chile's emergency decrees, Argentine security laws — suspends constitutional protections while maintaining surface legality; broadcast regulation tightens political control while loosening commercial constraints; law serves regime rather than rights.
+
+__Adjudication, Liability & Sanction:__ Military tribunals judge political offenses outside civilian courts; broadcast content decisions are made by security services rather than civil regulators; no liability for state violence; sanction falls on regime opponents while regime actors enjoy absolute impunity.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights suspended or ignored; habeas corpus ineffective for political detainees; broadcast operators face compliance burden of political reliability verification; ordinary commercial and civil law continues functioning while political rights are nullified.
+
+__Impunity & Unredressed Wrong:__ Total impunity for state violence characterizes military rule — torture, disappearance, extrajudicial execution proceed without accountability — while broadcast silence compounds the wrong; the residue is accumulated injustice that will demand reckoning in democratic transitions, truth commissions, and continuing struggles over memory and accountability.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Universities suffer intervention and purges — Brazilian military dismisses professors, Chilean universities restructured, Argentine intellectuals killed or exiled — while approved research continues; dependency theory develops in exile; critical communication studies emerge analyzing media's role in domination; economic orthodoxy (Chicago Boys in Chile) displaces structuralist development thinking.
+
+__Applied Knowledge & Technical Method:__ Broadcast technology advances — color television, videotape, satellite transmission — with technical personnel trained while political content is controlled; advertising research refines audience measurement and targeting; production quality improves in telenovelas and variety programming; the contradiction of technical sophistication serving political constraint.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary education expands reaching near-universal enrollment; secondary and technical education grow with industrial demand; university enrollment rises though political control limits intellectual freedom; literacy rates approach 70-80% in major countries; television provides informal education alongside entertainment.
+
+__Obsolescence & Knowledge Decay:__ Alternative intellectual traditions forced into exile or silence; critical social science hollowed within domestic universities; the break in transmission leaves gaps in institutional memory; technical knowledge accumulates while political and social knowledge is suppressed — a selective obsolescence imposed by power.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ National identities are mobilized for regime legitimation — Brazilian national security ideology, Mexican revolutionary nationalism, Chilean patriotic anti-Marxism — while alternative memories are suppressed; the 1970 Brazilian World Cup victory becomes foundational nationalist spectacle, broadcast in color to consolidated national audience.
+
+__Legitimating Narrative & Ideology:__ Military regimes articulate development-plus-security narratives; "Brazil: Love It or Leave It" (Brasil: Ame-o ou Deixe-o) captures the forced choice; anti-communism provides ideological common ground; consumer modernization offers material legitimation where political legitimation is impossible; broadcast content reinforces these frames without explicitly articulating them.
+
+__Artistic Expression & Material Culture:__ Censorship shapes artistic output — tropicália movement in Brazil navigates constraints through coded expression, Chilean nueva cancion is crushed, Argentine rock nacional provides generational expression — while telenovela production becomes Latin America's distinctive cultural industry; TV Globo's "Padrão Globo de Qualidade" (Globo Quality Standard) sets continental production benchmarks; material culture reflects consumer modernization — automobiles, appliances, branded goods — promoted through advertising.
+
+__Form Exhaustion & Meaning Decay:__ Official culture exhausts its limited forms while oppositional culture is denied expression; the contradiction generates creative tension in permitted spaces (telenovela social commentary, coded popular music) but also widespread cynicism about public communication; meaning drains from official discourse while suppressed alternatives maintain vitality in exile and clandestinity.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology remains culturally dominant while the Church divides between traditional hierarchy (aligned with or accepting military rule) and emerging progressive currents (post-Vatican II, pre-Medellín); the existential condition is one of foreclosed possibility for those opposed, comfortable conformity for beneficiaries, and pervasive uncertainty about how long the authoritarian settlement can endure.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance remains high though beginning to decline among urban populations; religious observance provides protected space (church buildings relatively immune from security forces); devotional practice continues alongside secular entertainment; broadcast schedules still accommodate religious programming.
+
+__Religious Institutions & Doctrinal Authority:__ The Catholic Church's relationship with military regimes varies — Chilean bishops initially bless coup, some later protect persecuted; Brazilian hierarchy divides between conservative support and prophetic opposition; the Medellín conference (1968) articulates preferential option for the poor; liberation theology develops though not yet institutionalized; Protestant evangelicalism grows, often aligned with regime values.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Afro-Brazilian religions continue expansion while remaining invisible on broadcast television; Andean indigenous spirituality persists in highland communities; Pentecostalism begins growth trajectory that will accelerate in subsequent decades; the spiritual landscape pluralizes beneath the Catholic surface.
+
+__Disenchantment & Sacred Discharge:__ The contradiction between Christian values and regime violence creates spiritual crisis for those who perceive it — the disappeared were someone's children, the torturers claim Catholic identity — while comfortable believers avoid the contradiction; the residue is a fracturing of religious coherence that liberation theology attempts to heal by making faith the foundation of resistance rather than accommodation, though this remains minority current; for most, religious practice and regime acceptance coexist through compartmentalization rather than confrontation.

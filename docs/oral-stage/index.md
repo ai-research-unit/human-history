@@ -1,5 +1,5 @@
 # __Oral Stage__
-__Description:__ Spoken language becomes the primary substrate. With a grammar almost anything can be said — the absent, the past, the possible, the abstract — and far more can be held and handed down than mute imitation allowed; public life is coordinated, remembered, ruled, and storied through speech. But it still rides on breath and memory: spoken or it does not exist, remembered or it is lost. The long age of oral culture, dominant until external written record becomes the medium institutions run on.<br><br>
+__Description:__ Spoken language becomes the primary substrate. With a grammar almost anything can be said — the absent, the past, the possible, the abstract — and far more can be held and handed down than mute imitation allowed; public life is coordinated, remembered, ruled, and storied through speech. But it still rides on breath and memory: spoken or it does not exist, remembered or it is lost. The long age of oral culture, dominant until external written record becomes the medium institutions run on.
 
 ### - [Oral Stage in The East African Rift System — 150000 BCE – 1945 CE](oral-stage-in-east-african-rift-system/index.md)
 ### - [Oral Stage in The Eastern Mediterranean Coast and Jordan Rift Valley — 50000 BCE – 2000 BCE](oral-stage-in-eastern-mediterranean-coast-and-jordan-rift-valley/index.md)

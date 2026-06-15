@@ -1,69 +1,139 @@
-# __1500 CE – 1930 CE__ — Polish Partitions and National Press
-__Summary:__ A pan-temporal snapshot of Polish-speaking territories within the North European Plain, from the Polish-Lithuanian Commonwealth through partition, exile, and restored independence; the binding constraint is the absence of a state to guarantee press freedom — after 1795 Polish print survived only through underground networks, exile publishing, and the brief windows when occupying powers relaxed control; margins against suppression were narrow under Russian and Prussian rule, wider under Austrian Galicia; the principal direction of change is the transformation of print from aristocratic patronage into a mass vehicle of national consciousness that enabled the 1918 restoration.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain extends unbroken from the Oder to the Vistula and beyond; no natural barriers impede invasion or partition; Warsaw, Krakow, and Poznan anchor the cultural geography but lack defensible frontiers.<br><br>
-__Climate Regime & Volatility:__ Continental climate with cold winters and warm summers; interannual variability is moderate; agricultural productivity is adequate in normal years but vulnerable to drought and frost.<br><br>
-__Hazard Regime & Exposure:__ Vistula flooding is periodic; no seismic or volcanic exposure; the hazard regime is manageable but war damage repeatedly exceeds natural disaster in destructive impact.<br><br>
-__Resource & Energy Endowment:__ Fertile agricultural land; timber in the east; coal in Silesia largely under Prussian control after 1742; salt from Wieliczka; endowment is substantial but partition fragments access.<br><br>
-__Waste Absorption & Sink Capacity:__ Rivers carry agricultural and urban effluent; pre-industrial loads are within absorptive capacity; industrialization under partition loads Upper Silesian streams but Polish-controlled areas remain lightly burdened.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague cycles end by the eighteenth century; typhus and cholera persist through the nineteenth; Russian Poland faces higher mortality than Austrian Galicia; baseline mortality declines slowly through public health measures after 1870.<br><br>
-__Nutrition & Physiological Vitality:__ Peasant diet is grain-based and often marginal; gentry and urban populations eat better; nutritional status improves after emancipation and land reform but remains below Western European levels.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Eastern European marriage pattern — earlier marriage, larger households — sustains high fertility; physiological capacity is fully expressed within cultural constraints.<br><br>
-__Demographic Renewal & Density:__ Population grows from roughly six million in 1500 to over twenty-five million ethnic Poles by 1930; density increases; emigration to America relieves pressure after 1880; renewal is robust.<br><br>
-__Attrition & Dependency Overhang:__ War, famine, and epidemic leave substantial orphan and widow populations; the nobility absorbs dependents through estate systems; urban charity is thin; the dependency load strains household capacity in hard years.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Grain agriculture sustains the provisioning floor; serfdom until the nineteenth century extracts surplus from peasant producers; emancipation improves peasant nutrition marginally; the floor is low but stable.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominate through 1850; water mills process grain; coal and steam arrive unevenly — Silesian industry under Prussia, Congress Poland's textile industry under Russia; per-capita work ceiling rises slowly.<br><br>
-__Labor Organization & Coercion:__ Serfdom persists until Prussian reforms (1807), Austrian emancipation (1848), and Russian emancipation (1864); thereafter wage labor expands in cities; coercion is high early, declining.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus feeds grain exports; textile industry develops in Lodz under Russian tariffs; artisan production serves domestic markets; surplus capacity is modest by Western standards.<br><br>
-__Storage, Reserves & Buffering:__ Noble estates maintain granaries; urban commercial reserves are thin; credit access is limited outside German-controlled areas; buffering is inadequate against major shocks.<br><br>
-__Exchange, Trade & Logistics:__ Partition fragments markets — Prussian, Russian, and Austrian tariff barriers impede internal trade; railroads knit partitioned territories into imperial networks rather than a Polish national market; logistics serve occupying powers.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Currency varies by partition — Prussian mark, Russian ruble, Austrian crown; Polish zloty returns only in 1924; credit comes through imperial banks; capital formation is constrained by political risk.<br><br>
-__Surplus Extraction & Redistribution:__ Partitioning powers extract taxes and conscripts; noble landlords extract rent from peasants; redistribution favors imperial capitals over Polish cities; the extraction load is heavy.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration among magnates and gentry; peasant smallholdings after emancipation; asset defense depends on imperial law — confiscation after uprisings (1831, 1863) redistributes noble property to Russian loyalists; distribution is unequal and unstable.<br><br>
-__Byproducts & Waste Routing:__ Agricultural byproducts cycle through livestock; urban waste is minimal before industrialization; Lodz textile mills discharge effluent locally; waste loads rise but remain below critical thresholds.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends within kin and village; broader trust is undermined by partition and surveillance; clandestine networks build solidarity among conspirators; the radius of trust is narrow but intensifying among nationalists.<br><br>
-__Stratification, Status & Group Identity:__ Magnates, gentry (szlachta), townspeople, Jews, and peasants form distinct strata; szlachta identity is central to Polish national consciousness; Jewish communities are legally separate until emancipation; boundaries are rigid but nationalism begins crossing class lines.<br><br>
-__Kinship, Family & Inheritance:__ Partible inheritance among peasants fragments holdings; noble entail concentrates estates; family alliances structure political factions; kin networks sustain exiles.<br><br>
-__Civic Association & Self-Organization:__ Guilds decline under partition; secret societies (Carbonari-style) and later legal associations fill the gap; Catholic parishes provide cover for national organizing; associational fabric is clandestine but thickening.<br><br>
-__Leisure, Play & Sociability:__ Festivals, fairs, and church holidays structure peasant sociability; gentry salons and later urban cafes host intellectual exchange; reading rooms spread after 1860; leisure becomes politicized.<br><br>
-__Grievance Channels & Social Discharge:__ Legal channels are controlled by occupying powers; uprisings (1794, 1830, 1863) discharge accumulated grievance violently and are crushed; emigration absorbs some pressure; unmetabolized grievance is high.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Polish-Lithuanian Commonwealth's elective monarchy collapses by 1795; partitioning powers — Russia, Prussia, Austria — impose absolute rule with varying severity; sovereignty is restored only in 1918; power is external and coercive through most of the window.<br><br>
-__Succession & Power Transfer:__ No Polish state exists 1795–1918; exile claimants and nationalist leadership pass through faction and conspiracy; transfer is contested and often violent; routinized succession returns only after 1918.<br><br>
-__Legitimacy & Political Narrative:__ Polish national consciousness sustains legitimacy claims despite statelessness; romantic nationalism, Catholic identity, and historic memory of the Commonwealth anchor the narrative; occupying regimes are never accepted as legitimate.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Occupying administrations are competent but serve imperial interests; Polish participation is limited; corruption varies — Russian administration more venal, Prussian more efficient; integrity depends on the partition.<br><br>
-__Political Participation & Mobilization:__ Participation is repressed; secret societies, emigre committees, and underground cells mobilize resistance; legal participation expands in Galicia after 1867; mass mobilization emerges with socialist and peasant movements after 1890.<br><br>
-__Geopolitical Position & External Relations:__ Poland is the object, not subject, of geopolitics until 1918; great-power rivalries determine partition boundaries; World War I creates the opening for restoration; external position is wholly dependent on imperial collapse.<br><br>
-__Coercive Apparatus & Means of Force:__ Occupying armies garrison Polish territories; Polish insurgent forces are improvised and outmatched; Legions under Pilsudski in World War I provide the nucleus of restored armed forces; coercive capacity is external until 1918.<br><br>
-__Internal Order & Threat Environment:__ Banditry and local disorder are controlled by imperial police; the threat to order comes from nationalist conspiracy, which occupying powers treat as criminal; the margin of control over disorder is high but the control itself is alien.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Printing in Polish is suppressed after uprisings; Russian partition bans Polish-language instruction after 1864; Austrian Galicia permits Polish press after 1867; exile publications in Paris, London, and Geneva circulate through smuggling networks; velocity is slow and clandestine.<br><br>
-__Record, Storage & Persistence:__ Archives are scattered across partition capitals; national library collections are confiscated or destroyed; emigre libraries preserve continuity; persistence is fragile but maintained through dispersed copies and memorization.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship is severe in Russian and Prussian partitions; Austrian Galicia is more permissive; Aesopian language and coded references evade censors; the permitted band is narrow and contested.<br><br>
-__Reception, Attention & Amplification:__ Literacy rises slowly; reading rooms and lending libraries spread; underground publications are read aloud in circles; amplification depends on oral networks supplementing print; attention is intense among the educated.<br><br>
-__Signal Integrity & Noise Load:__ Censorship introduces distortion; emigre publications disagree on strategy; verification of news from partitioned territories is difficult; signal integrity is compromised but commitment to accuracy is high among serious publishers.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic moral teaching and customary law anchor the sense of justice; partition law is experienced as illegitimate imposition; dual consciousness separates imperial legality from national morality.<br><br>
-__Law, Codification & Regulatory Evolution:__ Three legal systems coexist — Prussian, Russian, Austrian; Polish law is suppressed; Galician autonomy permits Polish in courts after 1867; codification serves imperial not national purposes.<br><br>
-__Adjudication, Enforcement & Liability:__ Imperial courts adjudicate; Poles may be excluded from bench and bar in Russian partition; enforcement is reliable but alien; liability follows imperial codes.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights are limited and vary by partition; property confiscation follows political offense; compliance burden is high for Polish speakers forced to use imperial languages; predictability depends on staying outside political suspicion.<br><br>
-__Impunity & Unredressed Wrong:__ Imperial officials enjoy impunity for abuses against Poles; uprisings bring mass reprisals without recourse; the backlog of unredressed wrong is immense and fuels nationalist grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Polish scholarship continues in emigration and in Galician universities (Krakow, Lwow); romantic historiography dominates; positivism and organic work emerge after 1863; the discovery frontier is active within constraints.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and medical training occur in imperial institutions; Poles contribute to imperial science; applied knowledge serves both occupier and national development; technique follows Western models.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Prussian partition has highest literacy; Russian partition suppresses Polish schooling after 1864; secret teaching (tajne komplety) maintains Polish-language education; knowledge stock is preserved through clandestine transmission; skill distribution is uneven across partitions.<br><br>
-__Obsolescence & Knowledge Decay:__ Isolation from Western scholarship causes some lag; emigre scholars bridge the gap; decay is countered by intense effort to preserve national culture; obsolescence is acknowledged and addressed when resources permit.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The lost Commonwealth, the November and January uprisings, Kosciuszko, and the emigration anchor national memory; Poland is imagined as the "Christ of nations" — suffering, martyred, destined for resurrection; identity is defined by absence and longing.<br><br>
-__Artistic Expression & Material Culture:__ Romantic poetry (Mickiewicz, Slowacki, Krasinski), historical painting (Matejko), and music (Chopin) sustain national culture; material culture is modest but symbolically charged; every artifact carries national meaning.<br><br>
-__Collective Mood & Behavioral Disposition:__ Oscillation between romantic hope and positivist resignation; uprisings produce exaltation followed by despair; by 1900 a more practical nationalism emerges; mood is volatile but resilient.<br><br>
-__Form Exhaustion & Meaning Decay:__ Romantic forms persist longer than elsewhere because they serve political function; exhaustion is delayed by national need; renewal comes with modernism after 1900 (Young Poland movement).<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology predominates; Polish identity and Catholic faith are fused; suffering is interpreted as redemptive; fatalism and hope coexist in messianic nationalism.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass attendance is high; Marian devotion is central; pilgrimages to Czestochowa sustain collective identity; devotional practice intensifies under persecution.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The Catholic Church is the one national institution spanning all partitions; clergy are national leaders; Rome's authority is accepted but Polish Church asserts practical autonomy; doctrinal authority is consolidated and national.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism faces no serious competitor; Orthodox and Protestant minorities exist in eastern and western borderlands; Jewish communities maintain separate spiritual life; diffusion is stable, displacement minimal.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular socialism and freethought emerge among urban workers and intellectuals after 1890; most Poles remain devout; disenchantment is limited and does not erode the Catholic-national fusion that anchors identity.<br><br>
+# __1500 CE – 1930 CE — Polish Partitions and National Press__
+
+__Summary:__ Print in Polish lands operates first under noble republic constraints, then under partition regimes that suppress the language and fragment the public sphere, yet printed matter — literature, emigration journals, clandestine pamphlets — becomes the principal vehicle for preserving national consciousness across 123 years of statelessness, the binding constraint being the absence of sovereign statehood that makes print the substitute for political institutions.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Polish lands stretch across the North European Plain from the Oder to beyond the Vistula, open to invasion from every direction; no natural barriers protect against Prussian, Russian, or Austrian advance, and partition severs the territory into three disconnected fragments with different administrative, postal, and censorship regimes.
+
+__Climate Regime & Volatility:__ Continental climate with cold winters and variable rainfall governs agriculture; crop failures recur but do not determine political fate; the climate imposes no differential across partitioned zones.
+
+__Hazard Regime & Exposure:__ Flood risk along the Vistula corridor and fire risk in wooden towns remain constant; war devastation — Swedish (1655), Napoleonic (1806–1815), World War I (1914–1918) — far exceeds natural hazard in destruction.
+
+__Resource & Energy Endowment:__ Grain lands of the Vistula basin support noble estate agriculture; Silesian coal and Upper Silesian industry fall under Prussian then German control; Galician oil (Drohobych) is exploited from the 1850s; partitioned Poland lacks integrated resource access.
+
+__Waste Absorption & Sink Capacity:__ Pre-industrial agriculture produces manageable waste; urban expansion in Warsaw, Lodz, and Cracow strains sanitation in the late nineteenth century; industrial pollution concentrates in Silesia under German administration.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Epidemics recur — plague in the seventeenth century, cholera in the nineteenth — striking urban concentrations; mortality baseline is comparable to neighboring regions; conditions improve under Austrian and Prussian public health regimes.
+
+__Nutrition & Physiological Vitality:__ Peasant diet is grain-heavy with limited protein; noble estates consume better; urban poor in industrializing Lodz suffer malnutrition; general improvement follows agrarian reform and rail-borne food distribution.
+
+__Care, Healing & Recovery Capacity:__ Medical care is sparse in the countryside; Cracow's Jagiellonian University trains physicians; Warsaw develops hospitals under Russian rule; Galician backwardness leaves rural care to folk practitioners.
+
+__Reproductive Biology & Pairing Dynamics:__ Noble families practice strategic marriage for estate consolidation; peasant families are large; the demographic transition begins late, accelerating only after 1900.
+
+__Demographic Renewal & Density:__ Population grows from roughly 11 million (1772) to 27 million (1921, within interwar borders); emigration to America drains rural surplus after 1880; Jewish population concentrates in towns.
+
+__Attrition & Dependency Overhang:__ Wars and uprisings impose casualties — the January Uprising (1863) kills and exiles tens of thousands; the Great War devastates the eastern front; orphans and refugees burden interwar reconstruction.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Serf agriculture dominates until emancipation (Prussia 1807–1823, Austria 1848, Russia 1864); post-emancipation peasants remain near subsistence on small plots; provisioning improves with railway integration.
+
+__Energy Capture & Conversion:__ Wood and peat fuel the pre-industrial economy; Silesian coal industrializes the Prussian zone; Russian Poland industrializes around Lodz textiles and Warsaw metalworking; Galicia remains agrarian.
+
+__Labor Organization & Coercion:__ Serfdom binds peasants to magnate estates; emancipation creates a landless proletariat absorbed by migration and factory labor; coerced labor resurfaces under Russian corvée remnants.
+
+__Production & Surplus Capacity:__ Grain exports through Gdansk decline as partition fragments trade routes; Lodz textiles produce for the Russian market; Silesian heavy industry serves German needs; surplus is extracted to imperial centers.
+
+__Storage, Reserves & Buffering:__ Estate granaries buffer local shortage; financial reserves are thin; no Polish central bank exists until 1924; interwar hyperinflation tests reserves.
+
+__Exchange, Trade & Logistics:__ Partition divides markets; customs barriers separate Russian, Prussian, and Austrian zones; railways integrate each partition into its empire's system, not into a Polish network; independence (1918) requires reconstruction.
+
+__Value Storage, Credit & Deferred Exchange:__ Three currencies circulate in partitioned Poland; credit flows through German, Austrian, and Russian banks; Polish capital is scarce; the zloty is stabilized only in 1924.
+
+__Surplus Extraction & Redistribution:__ Tsarist and Prussian taxation extracts surplus for imperial budgets; Galicia under Austria is neglected but lightly taxed; surplus does not return as investment; interwar Poland struggles to fund state-building.
+
+__Wealth Distribution & Asset Defense:__ Magnate estates concentrate land; emancipation does not redistribute wealth; Jewish commercial activity creates a parallel economy; land reform is debated but only partially implemented (1920s).
+
+__Byproducts & Waste Routing:__ Agricultural waste is absorbed locally; industrial pollution in Lodz and Silesia accumulates; financial waste surfaces in speculative crashes and currency instability.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Noble families practice partible inheritance fragmenting estates; peasant households follow local custom; marriage consolidates or disperses property.
+
+__Association & Mutual Aid:__ The szlachta (nobility) forms the political nation; magnate clientele networks structure politics; peasant village communes provide mutual aid; urban guilds operate under partition restrictions.
+
+__Leisure, Play & Sociability:__ Noble sociability centers on manor house, hunt, and political gathering (sejmik); urban café and salon culture develops in Warsaw and Cracow; Polish theater becomes a national institution.
+
+__Stratification, Status & Group Structure:__ The szlachta constitutes roughly 10% of the population with legal privileges; magnates dominate; peasants are bound until emancipation; Jews occupy commercial and artisan niches; industrial workers emerge in the late nineteenth century.
+
+__Administrative Capacity & Institutional Integrity:__ The Polish-Lithuanian Commonwealth's decentralized structure (liberum veto) paralyzes governance, enabling partition; partition regimes impose efficient imperial administration — Prussian bureaucracy, Austrian muddle, Russian autocracy — but deny Polish self-rule; autonomy exists only in Austrian Galicia after 1867; interwar Poland builds a new state apparatus from scratch.
+
+__Coercive Apparatus & Means of Force:__ The Commonwealth lacks effective military after 1700; partitioning powers impose garrisons; insurrections (1794, 1830, 1846, 1863) are crushed by imperial armies; the Polish legions fight in World War I; the interwar army faces the Soviet-Polish War (1920).
+
+__Discharge, Disorder & Decay:__ Uprisings produce repression, exile, and confiscation; Siberian deportation removes tens of thousands; social disorder is suppressed by partition regimes; interwar politics oscillates between democracy and authoritarianism (Pilsudski coup, 1926).
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ National sentiment intensifies under partition; Romantic poetry cultivates messianic suffering; the phrase "Jeszcze Polska nie zginela" (Poland has not yet perished) expresses defiant hope; sentiment alternates between resignation and insurrectionary fervor.
+
+__Leadership & Personal Authority:__ Kosciuszko (1794), the November conspirators (1830), the January insurgents (1863), Pilsudski (1918–1935) embody national will; exile leaders (Czartoryski, later Paderewski) represent the nation abroad.
+
+__Legitimacy as Lived Allegiance:__ Partition regimes command obedience but not legitimacy; loyalty runs to the absent nation; the Catholic Church anchors collective identity; interwar democracy struggles to consolidate legitimacy before authoritarian turn.
+
+__Political Will & Collective Resolve:__ Will mobilizes for uprisings repeatedly crushed; emigration saps energy; the independence movement coalesces only when empires collapse (1918); national will is tested in the Soviet-Polish War.
+
+__External Relations & Posture:__ Partitioned Poland has no foreign policy; exiles appeal to France and Britain; independence brings precarious position between Germany and Soviet Russia; alliances with France and Romania provide fragile security.
+
+__Disaffection, Apathy & Spent Will:__ Repeated insurrectionary failure breeds "organic work" — quietist focus on education and economic self-improvement rather than armed revolt; interwar polarization and coup reflect exhausted democratic will.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Polish is spoken across partitions but faces suppression — banned in Prussian schools (Kulturkampf era), restricted in Russian administration; Austrian Galicia permits Polish in schools and courts; literacy rises slowly, reaching perhaps 60% by 1900 in Prussian zones, lower elsewhere.
+
+__Channels & Transmission Velocity:__ Print is fragmented by partition; each zone has its own censorship and postal system; smuggled books cross borders; rail accelerates distribution by mid-nineteenth century; telegraph and press agencies connect to imperial capitals.
+
+__Record, Storage & Persistence:__ Archives disperse to Berlin, Vienna, and St. Petersburg; libraries — Czartoryski (Cracow), Zaluski remnants (Warsaw/St. Petersburg) — preserve Polish materials; print ensures that literary works survive partition.
+
+__Framing, Censorship & Discourse Norms:__ Prussian censorship is efficient; Russian censorship is heavy after 1830 and 1863, lighter before; Austrian censorship relaxes after 1867, making Cracow a haven for Polish publishing; emigration press in Paris (1830s–1860s) and London operates freely; Aesopian language and allegory evade censors.
+
+__Reception, Attention & Amplification:__ Educated szlachta and urban intelligentsia read voraciously; reading circles multiply; national literature (Mickiewicz, Slowacki, Krasinski) is memorized and recited; mass press emerges only after 1900.
+
+__Signal Integrity & Noise Load:__ Multiple partition regimes produce competing information streams; rumor supplements censored press; verification depends on trusted networks; interwar pluralism increases volume but also partisanship.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Noble culture valorizes honor and liberty (zlota wolnosc — golden liberty); peasant culture emphasizes village solidarity; Catholic teaching shapes conscience; partition is experienced as historic injustice.
+
+__Law, Codification & Regulatory Evolution:__ Three legal systems operate — Prussian (Code Napoleon heritage), Austrian (ABGB), Russian (imperial law) — fragmenting legal unity; interwar Poland codifies new law.
+
+__Adjudication, Liability & Sanction:__ Imperial courts adjudicate; political offenses are tried by military tribunal or administrative decree; exile and confiscation punish insurgents; civil justice is more regular in Prussian and Austrian zones.
+
+__Rights, Protections & Compliance Burden:__ Polish subjects lack national rights; Galician autonomy grants limited political participation; Prussian Kulturkampf restricts Catholic and Polish rights; Russian autocracy denies civil liberties; interwar constitution guarantees rights, unevenly enforced.
+
+__Impunity & Unredressed Wrong:__ Partition itself is the unredressed wrong; confiscated estates are not returned; exiles do not obtain justice; interwar minorities (Ukrainians, Jews) face discrimination without adequate redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Jagiellonian University (Cracow) and Warsaw University (closed 1830–1915) anchor learning; Copernicus is claimed as national heritage; positivism and organic work shape late-nineteenth-century thought; Polish sociology and anthropology emerge (Malinowski).
+
+__Applied Knowledge & Technical Method:__ Agricultural improvement spreads among progressive landlords; engineering develops under partition constraints; Lodz industrializes with imported British technology; Polish technical schools train engineers.
+
+__Education, Knowledge Stock & Skill Distribution:__ Noble education is classical and literary; peasant education is minimal until compulsory schooling (Prussian zone earliest); Galician universities serve Polish needs; interwar Poland expands schooling.
+
+__Obsolescence & Knowledge Decay:__ Partition fragments intellectual communities; exile scatters talent; Russification closes institutions; knowledge transmission depends on clandestine schools (Flying University, Warsaw) and emigration.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Commonwealth's golden age, the Jagiellonian dynasty, the Sobieski relief of Vienna (1683), and the partitions themselves constitute foundational memory; Poland as "Christ of nations" (Mickiewicz) expresses messianic identity.
+
+__Legitimating Narrative & Ideology:__ Noble liberty (zlota wolnosc) legitimates the old order; Romantic nationalism justifies resistance; organic work ideology legitimates quietist accommodation; Pilsudski's legionary narrative legitimates interwar state.
+
+__Artistic Expression & Material Culture:__ Romantic poetry (Mickiewicz's Pan Tadeusz, Slowacki's dramas) becomes national scripture; Chopin's music encodes national feeling; Matejko's historical paintings visualize the past; manor house and Catholic church anchor material culture; Warsaw and Cracow develop urban architectural idiom.
+
+__Form Exhaustion & Meaning Decay:__ Romantic forms exhaust themselves by 1900; Young Poland (Mloda Polska) seeks renewal; interwar modernism competes with national-traditional forms; meaning decay surfaces in emigre sterility and domestic resignation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic Christianity provides existential framework; national suffering is interpreted through Catholic theodicy; martyrdom and resurrection tropes pervade national imagination.
+
+__Ritual, Devotion & Sacred Practice:__ Catholic ritual — mass, pilgrimage (Czestochowa), feast days — structures collective life; devotion to the Black Madonna fuses religious and national feeling; Protestant and Orthodox minorities practice within partition zones.
+
+__Religious Institutions & Doctrinal Authority:__ The Catholic Church retains moral authority across partitions; bishops negotiate with partition regimes; monasteries preserve learning; the Church supports Polish identity without always endorsing insurrection; interwar Concordat (1925) formalizes relations.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism holds without significant Protestant or Orthodox inroads; Jewish Hasidism flourishes in eastern towns; secularization proceeds among urban intelligentsia but does not dislodge mass piety.
+
+__Disenchantment & Sacred Discharge:__ Enlightenment skepticism touches elites; positivist and socialist thought offers secular alternatives; but mass religiosity persists; disenchantment remains partial, the sacred providing consolation for political powerlessness.

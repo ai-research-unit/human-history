@@ -1,69 +1,139 @@
-# __1964 CE – 1985 CE__ — Brezhnev Era and Mass Television
-__Summary:__ The Soviet Union under Brezhnev achieves near-universal television penetration while economic growth stagnates and ideological conviction hollows; binding constraint is the widening gap between ritualized propaganda and lived experience, sustained only by the absence of alternatives; system holds considerable coercive margin but ideological legitimacy erodes steadily; direction is slow drift toward sclerosis and disenchantment beneath a stable surface.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The vast East European Plain and Siberian expanse remain the fixed arena — eleven time zones, continental distances, harsh winters in the interior — imposing baseline friction on communication that only broadcast technology overcomes at scale.<br><br>
-__Climate Regime & Volatility:__ Continental climate persists with severe winters and short growing seasons in the north; interannual volatility in grain-producing regions periodically forces costly imports; no secular drift within the window but drought years (1972, 1975) stress provisioning.<br><br>
-__Hazard Regime & Exposure:__ Earthquake exposure in Central Asian and Caucasian republics; industrial-disaster risk accumulating in aging infrastructure; Chernobyl-type vulnerability latent though unrevealed within this window; margin narrowing as maintenance budgets lag.<br><br>
-__Resource & Energy Endowment:__ Abundant oil, gas, coal, and mineral reserves; Siberian oil fields (Samotlor) peak and begin decline by early 1980s; energy exports sustain hard-currency earnings but mask structural inefficiency; drawdown accelerates against a still-enormous stock.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial effluent accumulates in rivers, lakes, and soil — the Aral Sea shrinks catastrophically, heavy-metal contamination spreads in mining regions, nuclear waste poorly contained; absorptive capacity severely degraded; environmental load largely unacknowledged in official discourse.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tuberculosis, rising alcoholism-related mortality, and cardiovascular disease elevate death rates; male life expectancy stagnates then declines from late 1960s onward — a rare peacetime reversal in an industrialized state.<br><br>
-__Nutrition & Physiological Vitality:__ Caloric adequacy achieved but diet monotonous and protein-poor outside urban centers; chronic queuing masks supply instability; physiological robustness adequate but not improving, with alcohol damage accumulating.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage near-universal but divorce rates rising; fertility declining toward replacement; abortion remains primary birth control method; no dramatic selective pressures but urban crowding and housing shortages constrain family formation.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly; age structure aging in Slavic republics while Central Asian republics maintain higher fertility; migration from countryside to cities continues; density moderate relative to carrying capacity but urbanization strains housing stock.<br><br>
-__Attrition & Dependency Overhang:__ Aging population increases pension burden; veterans of Great Patriotic War entering old age; chronic illness from industrial exposure and alcohol accumulating; productive cohort can absorb load but margin tightening.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Baseline subsistence guaranteed through subsidized prices and rationing for essentials; housing cramped but provided; fuel and heating secure; population not near starvation but quality and variety declining, chronic shortages normalized.<br><br>
-__Energy Capture & Conversion:__ Fossil-fuel-intensive economy with low efficiency; vast oil and gas extraction but per-unit work output poor compared to Western competitors; electrification complete; energy abundance masks waste; conversion efficiency stagnating.<br><br>
-__Labor Organization & Coercion:__ Formal wage labor universal; internal passport restricts mobility; labor discipline lax ("we pretend to work, they pretend to pay us"); coercion minimal compared to Stalinist era but exit options absent; shadow economy and pilfering widespread.<br><br>
-__Production & Surplus Capacity:__ Heavy industry prioritized; consumer-goods sector chronically underdeveloped; agricultural output volatile, requiring grain imports; industrial output grows but at declining rates; surplus increasingly consumed by military and administrative overhead.<br><br>
-__Storage, Reserves & Buffering:__ State granaries and strategic reserves maintained; hard-currency reserves from oil exports provide buffer; system can absorb single bad harvests but consecutive failures require Western imports; reserve depth adequate but declining relative to commitments.<br><br>
-__Exchange, Trade & Logistics:__ Administered prices; chronic imbalances between supply and demand; distribution networks inefficient; queuing and blat (informal connections) substitute for market clearing; logistics bottlenecks severe, especially in agriculture.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Ruble non-convertible; savings accumulate in state banks but purchasing power eroded by shortages (monetary overhang); no private credit; deferred exchange via informal reciprocity and connections rather than formal instruments.<br><br>
-__Surplus Extraction & Redistribution:__ Centralized planning extracts surplus for military, space program, and heavy industry; redistribution via subsidies, pensions, and social services; extraction load heavy but population accepts in exchange for security and stability.<br><br>
-__Wealth Distribution & Asset Defense:__ Formal equality but nomenklatura privileges create de facto stratification; access to special shops, dachas, foreign travel marks elite status; no private property to defend; inequality widening but concealed by ideology.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste dumped with minimal treatment; agricultural runoff uncontrolled; nuclear and chemical waste poorly contained; routing decision is externalization to shared sinks with no accountability; load far exceeds official acknowledgment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust confined to close networks — family, trusted friends, workplace kollektivy; radius beyond kin narrow due to informant culture legacy; mutual aid strong within circles but broader social trust low and stable.<br><br>
-__Stratification, Status & Group Identity:__ Official classlessness masks party-nomenklatura privilege; ethnic hierarchies with Russians dominant; intelligentsia, workers, and peasants formally equal but access differs; boundaries stable; ethnic identities persist beneath Soviet overlay.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family predominant; state provides housing, education, childcare; inheritance limited to personal property; extended kin networks important for access and mutual aid; family formation constrained by housing shortage.<br><br>
-__Civic Association & Self-Organization:__ All associations state-sponsored — trade unions, youth leagues, women's councils — with no autonomous civil society; informal networks substitute but lack legal standing; associational fabric thin and state-controlled.<br><br>
-__Leisure, Play & Sociability:__ State-organized recreation — sports clubs, Pioneer camps, sanatoriums; informal sociability centers on kitchen gatherings and dachas; shared festive calendar (May Day, Victory Day) ritualistically observed; genuine sociability privatized.<br><br>
-__Grievance Channels & Social Discharge:__ Official channels (letters to newspapers, party complaints) exist but produce limited response; emigration tightly restricted; vodka and kitchen-table cynicism absorb frustration; unmetabolized grievance accumulates as passive discontent.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ General Secretary holds supreme authority through party apparatus; Politburo collective leadership but Brezhnev's personal network dominates; power highly centralized; gerontocracy entrenches by late 1970s; no devolution, stability prioritized over reform.<br><br>
-__Succession & Power Transfer:__ Opaque; succession crises 1982-1985 (Andropov, Chernenko) reveal no institutionalized mechanism; power transfers through Politburo intrigue; accepted as normal but system fragility exposed by rapid leader turnover.<br><br>
-__Legitimacy & Political Narrative:__ Marxism-Leninism official ideology but hollowed to ritual; Great Patriotic War memory provides genuine legitimacy; "developed socialism" doctrine substitutes for revolutionary dynamism; belief eroding, cynicism widespread but not openly expressed.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Vast bureaucracy with reach into all sectors; information gathering extensive but distorted by incentives to report success; corruption endemic ("shadow economy" integrated into function); decision-making slow and risk-averse.<br><br>
-__Political Participation & Mobilization:__ Elections ritualistic with 99% approval; genuine participation absent; dissent channeled into samizdat and kitchen discussions; open defiance met with psychiatric commitment or exile; channels for voice closing further.<br><br>
-__Geopolitical Position & External Relations:__ Superpower status; Warsaw Pact hegemony; detente with West in early 1970s cools by decade's end; Afghanistan intervention 1979 strains resources and legitimacy; arms race burden accumulating.<br><br>
-__Coercive Apparatus & Means of Force:__ Massive military and KGB apparatus; nuclear parity with US; internal security comprehensive; force monopoly unchallenged; command narrowly held in party leadership; conscription universal for males.<br><br>
-__Internal Order & Threat Environment:__ Dissent contained through surveillance and selective repression; no mass rebellion; crime rates rising but manageable; nationalist tensions in republics suppressed but not resolved; disorder margin well within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Television achieves near-universal reach; Vremya evening news watched by 150+ million; radio and press supplement; information flows top-down instantaneously but horizontally constrained; reach extends to all strata but content uniform.<br><br>
-__Record, Storage & Persistence:__ State archives comprehensive but access restricted; samizdat creates parallel record; official history subject to revision; records survive but truth contested; institutional memory strong for administrative purposes.<br><br>
-__Framing, Censorship & Discourse Norms:__ Glavlit censorship comprehensive; framing uniformly positive about Soviet achievements; taboo topics numerous (terror statistics, Chernobyl precursors, Afghanistan casualties); permitted band narrow and narrowing for sensitive subjects.<br><br>
-__Reception, Attention & Amplification:__ Captive audience with no alternatives except foreign radio (jammed); attention high for entertainment programming, cynical for news; amplification state-controlled; what propagates is what the state broadcasts.<br><br>
-__Signal Integrity & Noise Load:__ Official signal clear but disbelieved; cognitive dissonance between propaganda and lived experience creates internal noise; rumor and foreign radio provide counter-signal; verification impossible within system; noise accumulating as gap widens.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Formal socialist legality overlays Russian traditions; sense of justice centers on equality and fairness but coexists with acceptance of state prerogative; gap between proclaimed and practiced justice corrodes legitimacy.<br><br>
-__Law, Codification & Regulatory Evolution:__ Comprehensive legal codes; 1977 Constitution codifies "developed socialism"; regulations proliferate; law serves state interests; evolution minimal, stability prioritized; criminal law includes political offenses.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts exist but party can override; procuracy powerful; political cases predetermined; ordinary criminal justice functions but with arbitrary elements; liability often collective (workplace, family); throughput adequate for routine matters.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights exist on paper but enforcement absent; citizens navigate extensive regulations; compliance burden heavy for enterprises; individual autonomy constrained by registration, permits, and surveillance.<br><br>
-__Impunity & Unredressed Wrong:__ Nomenklatura effectively above law; historical wrongs (terror, deportations) unacknowledged; dissidents punished while informers protected; impunity gap substantial; redress capacity absent for political matters, backlogged for ordinary disputes.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Marxism-Leninism officially mandatory frame; natural sciences productive within constraints (space, physics); social sciences distorted by ideology; discovery frontier active in permitted fields but ideological deadwood accumulates.<br><br>
-__Applied Knowledge & Technical Method:__ Strong engineering tradition; military-space applications advanced; civilian technology transfer poor; methods replicate Western advances with lag; reverse-engineering common; innovation capacity concentrated in defense sector.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal literacy; extensive technical education; knowledge stock substantial; skill distribution broad but ideological requirements impose deadweight; STEM strong, humanities constrained; brain drain begins as emigration opens slightly.<br><br>
-__Obsolescence & Knowledge Decay:__ Ideological content persists despite irrelevance; cybernetics, genetics rehabilitated after earlier bans; accumulated dogma not cleared; technical knowledge updates but social-science paradigm frozen; error accretes in permitted fields.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Great Patriotic War victory as central myth, annually reinforced; October Revolution increasingly distant; Russian imperial heritage selectively invoked; identity grounded in wartime suffering and triumph; collective memory managed by state.<br><br>
-__Artistic Expression & Material Culture:__ Socialist realism remains official style but enforcement relaxes; monumental architecture (brutalism) dominates public space; consumer material culture grey and uniform; unofficial art persists underground; aesthetic conventions stagnant.<br><br>
-__Collective Mood & Behavioral Disposition:__ Pervasive cynicism and resignation masked by ritual compliance; private pessimism, public conformity; anekdoty (political jokes) as emotional release; mood darkening through period but without open expression; risk-aversion dominant.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary symbols emptied to cliche; May Day parades mechanically performed; ideological language ("socialism," "fraternal peoples") drained of meaning; forms persist as ritual without conviction; anomie accumulates beneath compliance.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Scientific materialism official doctrine; traditional religion suppressed but persisting in practice; fatalism common; existential questions privatized; secularism dominant in public sphere but not deeply internalized.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice continues despite restrictions — Orthodox Easter and Christmas observed, baptisms common; secular rituals (weddings, funerals) substitute state ceremonies; devotional habits privatized and multigenerational.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Russian Orthodox Church survives under state supervision, compromised by KGB infiltration; mosques and synagogues restricted; institutional power minimal; doctrine preserved but authority subordinated to state.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Orthodox Christianity persists in Slavic regions; Islam in Central Asia and Caucasus; Judaism restricted, emigration pressure; no active proselytization; dominant materialist ideology stable but not expanding.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary faith exhausted; Marxist eschatology no longer believed; existential void filled by private religiosity, consumption aspirations, or vodka; spiritual need unmet by official ideology; disenchantment accumulates as standing condition.<br><br>
+# __1964 CE – 1985 CE — Brezhnev Era and Mass Television__
+
+__Summary:__ The binding constraint is television's consolidation as the primary vehicle of ideological conformity, where Vremya and centralized programming saturate Soviet households while material stagnation and informational closure generate a double consciousness—public compliance alongside private skepticism—that hollows legitimacy without yet breaking it.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East European Plain's vastness—eleven time zones from Kaliningrad to Vladivostok—is partially overcome by television relay infrastructure, yet the friction of distance remains: Moscow's signal reaches peripheries on delay, and the physical plant of studios, transmitters, and the Ostankino tower (completed 1967, world's tallest structure) concentrates production in the capital.
+
+__Climate Regime & Volatility:__ Continental climate with harsh winters drives indoor sociability, making television the dominant leisure medium; seasonal agricultural rhythms still structure rural life, while urban heating networks enable year-round domestic viewing.
+
+__Hazard Regime & Exposure:__ Industrial hazards accumulate unreported: the Chernobyl precursor incidents, Chelyabinsk radiological contamination, and widespread factory pollution remain censored, leaving populations exposed without knowledge of risk.
+
+__Resource & Energy Endowment:__ Siberian oil and gas extraction expands massively, funding both consumer-goods imports and the broadcast infrastructure; by the 1970s energy exports underwrite the social contract of modest plenty, though the rents mask declining productivity.
+
+__Waste Absorption & Sink Capacity:__ Industrial effluent saturates waterways; Aral Sea shrinkage accelerates; air pollution in industrial cities reaches dangerous levels unreported in broadcast media, the sink capacity exhausted while official channels declare environmental progress.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Life expectancy, which rose through the 1960s, stagnates and then declines for males, driven by cardiovascular disease, accidents, and alcohol; the healthcare system, while universal, suffers from chronic underfunding and pharmaceutical shortages.
+
+__Nutrition & Physiological Vitality:__ Caloric intake adequate but diet monotonous; meat and fresh produce require queuing or connections; regional disparities persist, with Moscow better supplied than provincial cities or rural areas.
+
+__Care, Healing & Recovery Capacity:__ Universal healthcare maintains basic coverage, but hospital conditions deteriorate, equipment ages, and the best care requires informal payments or nomenklatura status; mental health treatment remains punitive, with psychiatric hospitals used against dissidents.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility falls as urbanization advances; housing shortages compress family size; abortion remains the primary birth control method, with rates among the world's highest.
+
+__Demographic Renewal & Density:__ Soviet population grows from ~230 million (1964) to ~280 million (1985), but growth slows; Central Asian republics contribute disproportionately, shifting ethnic balance; urban crowding in communal apartments persists despite housing construction.
+
+__Attrition & Dependency Overhang:__ War generation ages into retirement; pension system strains; the productive cohort supports growing elderly population while facing its own health decline, particularly among working-age males.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basic needs nominally met—bread, housing, utilities subsidized—but quality low and queues endemic; the "shortage economy" forces hours spent obtaining consumer goods, creating parallel economy of connections and favors.
+
+__Energy Capture & Conversion:__ Fossil fuel extraction dominates; Siberian fields power export earnings and domestic industry; energy intensity of production remains high, with efficiency gains lagging Western levels.
+
+__Labor Organization & Coercion:__ Formal full employment but chronic underemployment; labor discipline lax ("we pretend to work, they pretend to pay us"); internal passport system constrains mobility; forced labor in camps diminished but not eliminated.
+
+__Production & Surplus Capacity:__ Industrial output grows through 1970s, then stagnates; military-industrial complex consumes disproportionate resources; consumer goods production lags, with waiting lists for cars, appliances, apartments.
+
+__Storage, Reserves & Buffering:__ State reserves exist but are opaque; grain imports required from 1972 onward, revealing agricultural weakness; hard currency reserves depend on oil prices, vulnerability exposed when prices fall in 1980s.
+
+__Exchange, Trade & Logistics:__ COMECON integration locks trade patterns; Western imports limited by hard currency constraints; distribution networks inefficient, spoilage high, regional supply erratic.
+
+__Value Storage, Credit & Deferred Exchange:__ Ruble stable but inconvertible; savings accumulate without goods to purchase, creating "monetary overhang"; no consumer credit market exists; informal exchange networks substitute for market mechanisms.
+
+__Surplus Extraction & Redistribution:__ State extracts through pricing, with agricultural procurement below production cost; redistribution through subsidies, wages, and benefits maintains social peace but requires ever-larger resource transfers.
+
+__Wealth Distribution & Asset Defense:__ Formal equality masks nomenklatura privileges—special shops, dachas, foreign travel; ordinary citizens accumulate savings with nothing to spend them on; black market and second economy fill gaps.
+
+__Byproducts & Waste Routing:__ Industrial waste dumped without treatment; planned obsolescence absent but quality so poor that goods fail early; no recycling infrastructure; hidden environmental costs mount.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear family in cramped urban apartments; three generations sometimes sharing limited space; inheritance minimal given state ownership, though dachas and savings pass across generations.
+
+__Association & Mutual Aid:__ Formal organizations (trade unions, Komsomol, veterans' groups) state-controlled and hollow; real mutual aid operates through workplace networks, personal connections (blat), and family ties; informal economy of favors essential to daily life.
+
+__Leisure, Play & Sociability:__ Television dominates evening hours; dachas provide summer escape; sports (hockey, football) generate genuine enthusiasm; sanatoriums and organized tourism through trade unions structure vacations.
+
+__Stratification, Status & Group Structure:__ Nomenklatura at apex; intelligentsia (academic, technical, cultural) forms distinct stratum; workers officially valorized but materially constrained; rural population declining but still large; ethnic stratification places Russians at center.
+
+__Administrative Capacity & Institutional Integrity:__ Communist Party apparatus maintains control through republic, oblast, city, and workplace levels; bureaucratic ossification advances as Brezhnev cadre ages in place; corruption endemic but contained within system; succession frozen, with Brezhnev incapacitated in final years.
+
+__Coercive Apparatus & Means of Force:__ KGB maintains surveillance and political control; military consumes vast resources; internal troops available for disorder; coercion less lethal than Stalinist era but still formidable—dissidents face psychiatric detention, exile, labor camps.
+
+__Discharge, Disorder & Decay:__ Alcoholism endemic; petty crime rises; youth alienation grows; nationalist tensions simmer in Baltic states, Ukraine, Caucasus; apparatus ages without renewal, Brezhnev's final years marked by visible decay at the top.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Double consciousness prevails: public conformity coexists with private cynicism; jokes (anekdoty) circulate as social safety valve; the "kitchen" becomes site of honest conversation; trust confined to intimate circles.
+
+__Leadership & Personal Authority:__ Brezhnev's authority derives from institutional position, not personal charisma; his decline visible on television, his slurred speech and medals a subject of private mockery; no successor clearly designated.
+
+__Legitimacy as Lived Allegiance:__ Ideological belief erodes among educated urban population; Great Patriotic War memory sustains some loyalty; material improvements of 1960s-1970s provide pragmatic acceptance; younger generations less invested in Soviet mythology.
+
+__Political Will & Collective Resolve:__ System maintains inertia without forward drive; "developed socialism" declared achieved, removing teleological energy; intervention in Czechoslovakia (1968), Afghanistan (1979) demonstrates will to maintain bloc, but domestic reform paralyzed.
+
+__External Relations & Posture:__ Détente with West; arms control negotiations; Helsinki Accords (1975) include human rights provisions that will be used against the regime; Afghanistan intervention (1979) ends détente, drains resources, produces veterans with traumatic experience.
+
+__Disaffection, Apathy & Spent Will:__ Cynicism widespread but not organized; dissident movement small and harshly repressed; most citizens retreat into private life, accepting public rituals while investing meaning in family, friends, and personal pursuits; collective will exhausted.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Russian serves as lingua franca across USSR; television reaches 93% of households by 1985; literacy near-universal; republic broadcasting in national languages subordinate to Moscow programming.
+
+__Channels & Transmission Velocity:__ Two central television channels (First Program, Second Program) plus republic channels; Ostankino tower broadcasts to European USSR, satellite relays to eastern regions with time-zone delay; Vremya evening news (from 1968) becomes ritual, watched by tens of millions.
+
+__Record, Storage & Persistence:__ Archives controlled by state; samizdat and tamizdat provide parallel documentation; personal letters and photographs accumulate privately; television recorded by state but not accessible to public; no home video until late period.
+
+__Framing, Censorship & Discourse Norms:__ Glavlit censorship comprehensive; all media vetted before publication/broadcast; positive coverage mandatory—no crime, no accidents, no economic problems acknowledged; "Aesopian language" allows coded communication among intelligentsia; foreign radio provides alternative frame.
+
+__Reception, Attention & Amplification:__ Television viewing hours high (average 3-4 hours daily by 1980s); Vremya structures evening; entertainment programs (KVN, variety shows) popular; word-of-mouth amplifies samizdat and foreign radio content.
+
+__Signal Integrity & Noise Load:__ Official information heavily filtered but internally consistent; foreign radio (VOA, BBC, Radio Liberty) jammed but receivable; cognitive dissonance between lived experience and broadcast reality creates systematic distrust; rumor fills information gaps.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Socialist legality officially governs; popular sense of justice centers on fairness—queue-jumping, privilege abuse resented; wartime sacrifice morally valorized; corruption corrodes legitimacy.
+
+__Law, Codification & Regulatory Evolution:__ Brezhnev constitution (1977) codifies rights nominally; criminal code includes political crimes (anti-Soviet agitation); administrative detention available; law subordinate to Party decisions.
+
+__Adjudication, Liability & Sanction:__ Courts controlled by Party; telephone justice routine for political cases; ordinary crime adjudicated with severity; labor camps continue for dissidents and criminals.
+
+__Rights, Protections & Compliance Burden:__ Helsinki Final Act (1975) provides external standard; internal passport constrains movement; housing registration (propiska) controls residence; exit visas required for foreign travel; rights proclaimed in constitution largely unenforceable.
+
+__Impunity & Unredressed Wrong:__ Nomenklatura enjoys practical immunity; Stalinist crimes unacknowledged beyond Khrushchev's limited thaw; psychiatric abuse of dissidents continues; ordinary citizens have no recourse against state decisions.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Marxism-Leninism official paradigm, increasingly hollow; sciences maintain competence in priority areas (physics, mathematics, space technology); social sciences constrained by ideology; cybernetics and systems theory find niches.
+
+__Applied Knowledge & Technical Method:__ Military technology competitive; civilian technology lags; industrial methods dated; computing develops in isolated institutes; television production technically competent but artistically constrained.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universal secondary education; extensive higher education system producing engineers, teachers, doctors; specialized schools for talented youth; knowledge stock high but application constrained by system.
+
+__Obsolescence & Knowledge Decay:__ Marxism-Leninism ossifies into ritual formulas; practical skills transmitted but innovation suppressed; brain drain minimal due to emigration restrictions; institutional memory persists but reform knowledge lacking.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Great Patriotic War central to legitimacy, commemorated annually on Victory Day; revolutionary mythology maintained but increasingly ritualized; Russian identity dominant, with multinational Soviet identity layered over national identities.
+
+__Legitimating Narrative & Ideology:__ "Developed socialism" declared; Soviet man as new human type; scientific-technological progress as justification; détente as proof of superpower equality; narrative increasingly disconnected from lived experience.
+
+__Artistic Expression & Material Culture:__ Socialist realism officially mandatory; modernist and avant-garde work circulates underground; approved culture competent but sterile; apartment interiors standardized; clothing plain; forbidden works (Bulgakov, Solzhenitsyn) circulate in samizdat.
+
+__Form Exhaustion & Meaning Decay:__ Official culture drained of meaning; rituals (May Day parades, congresses) hollow; youth drawn to Western music, fashion, ideas; "stiliagi" and then rock music subcultures; officially approved art produces technical competence without vitality.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Scientific atheism official; materialist cosmology mandatory in education; fatalism and passivity characteristic of public mood; private belief persists, especially among elderly and in non-Russian populations.
+
+__Ritual, Devotion & Sacred Practice:__ Religious practice suppressed but not eliminated; churches remain open in reduced numbers; baptisms, weddings, funerals conducted privately; Islamic practice continues in Central Asia; Jewish emigration movement develops.
+
+__Religious Institutions & Doctrinal Authority:__ Russian Orthodox Church subordinate to state, infiltrated by KGB; other denominations more harshly controlled; unofficial religious activity persecuted; religious education prohibited.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Secular substitutes (Communist rituals, personality cult remnants) fail to fill spiritual void; interest in mysticism, yoga, Eastern religion grows in late period; nationalism provides alternative meaning source.
+
+__Disenchantment & Sacred Discharge:__ Soviet mythology loses grip; cynicism pervades public sphere; private meaning sought in family, friendship, nature, art; spiritual emptiness widespread but unacknowledged; the sacred reduced to war memory and informal spirituality.

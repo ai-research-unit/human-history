@@ -1,69 +1,139 @@
-# __1930 CE – 2010 CE__ — German Broadcasting Model
-__Summary:__ German broadcasting traverses three regimes across eighty years: Nazi total control weaponizing radio for propaganda, Allied occupation imposing federal decentralization to prevent recurrence, and the mature ARD/ZDF public service system balancing Länder autonomy with national coordination while absorbing reunification and commercial competition; the binding constraint throughout is the political determination to prevent any single authority from monopolizing broadcast reach; margin against authoritarian capture remains deliberately high through structural fragmentation; direction of change moves from centralized propaganda instrument through enforced federalism to stable dual public-commercial system adapting to digital pressures.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North European Plain facilitates broadcast coverage; medium wave and later FM/television blanket territory from regional transmitters; postwar division creates separate East and West networks until 1990; spatial friction for signal transmission low across flat terrain, moderate in Alpine south.<br><br>
-__Climate Regime & Volatility:__ Temperate continental climate with cold winters and mild summers; interannual variability within normal bounds; no secular climate shift materially affects broadcast infrastructure across the window.<br><br>
-__Hazard Regime & Exposure:__ Low acute hazard exposure; wartime destruction of broadcast facilities severe 1943-1945 but rebuilt within a decade; peacetime infrastructure holds ample margin against weather and seismic risks.<br><br>
-__Resource & Energy Endowment:__ Ruhr coal and later nuclear and renewable generation provide reliable electricity; grid infrastructure rebuilt postwar; energy endowment sufficient throughout for broadcast operations.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution severe mid-century but broadcast-specific waste minimal; obsolete equipment disposed through industrial waste channels; e-waste accumulates late in window but absorption capacity adequate.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Wartime and immediate postwar mortality elevated; healthcare recovery rapid in West, slower in East; by 1960s mortality rates approach Western European norms; no epidemic materially disrupts broadcasting.<br><br>
-__Nutrition & Physiological Vitality:__ Hunger years 1945-1948 followed by rapid nutritional recovery; Wirtschaftswunder prosperity raises physiological vitality; East lags but adequate; population well-nourished by 1960.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Postwar baby boom peaks 1960s; fertility declines thereafter below replacement; pairing dynamics shift toward later marriage; household structure relevant to receiver penetration.<br><br>
-__Demographic Renewal & Density:__ Population grows through 1970s then stabilizes; Gastarbeiter immigration adds viewers; reunification adds 16 million; aging accelerates post-2000; demographic renewal below replacement but immigration compensates partially.<br><br>
-__Attrition & Dependency Overhang:__ War leaves massive widows and orphans; welfare state absorbs dependency; aging population creates rising pension burden; dependency load manageable through strong economy.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Severe deprivation 1945-1948; currency reform 1948 triggers recovery; subsistence secure by 1950s in West, 1960s in East; reunification causes Eastern unemployment but welfare prevents destitution.<br><br>
-__Energy Capture & Conversion:__ Coal-fired electricity dominant through 1970s; nuclear expansion 1970s-1980s; grid reliable; broadcast transmission fully electrified; conversion efficiency rises with solid-state equipment.<br><br>
-__Labor Organization & Coercion:__ Nazi forced labor ends 1945; postwar broadcasting employs unionized professionals; codetermination gives workers board representation; coercion absent; labor relations cooperative.<br><br>
-__Production & Surplus Capacity:__ ARD and ZDF well-funded through license fees; surplus sufficient for extensive programming and infrastructure; commercial competitors after 1984 add advertising revenue; production capacity high.<br><br>
-__Storage, Reserves & Buffering:__ Public broadcasters accumulate reserves; license fee provides stable non-cyclical revenue; reserves adequate to weather economic fluctuations including 2008 crisis.<br><br>
-__Exchange, Trade & Logistics:__ German content exports limited compared to Anglo-American production; format imports common; EBU exchanges facilitate program trade; logistics for equipment globalized.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Deutsche Mark stable through 1998; Euro thereafter; license fee provides predictable revenue; advertising contracts standard; credit available for infrastructure investment.<br><br>
-__Surplus Extraction & Redistribution:__ GEZ collects license fees from households and redistributes to ARD members and ZDF according to formula; commercial broadcasters taxed normally; extraction efficient and accepted.<br><br>
-__Wealth Distribution & Asset Defense:__ Public broadcasting assets held by Länder institutions; commercial sector concentrated in Bertelsmann and other conglomerates; wealth distribution in sector unequal but public ownership prevents extreme concentration.<br><br>
-__Byproducts & Waste Routing:__ Production waste minimal; obsolete equipment recycled or exported; spectrum released by digital transition auctioned; waste routing efficient.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust in public broadcasting high; ARD/ZDF among most trusted institutions; interpersonal trust rebuilds from postwar nadir; informal safety nets strong within family and community.<br><br>
-__Stratification, Status & Group Identity:__ Class boundaries soften in postwar prosperity; Gastarbeiter form distinct stratum; reunification creates East-West identity division; broadcasting addresses multiple identity groups through regional programming.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family norm; inheritance law unchanged; household formation drives receiver purchases; family viewing dominant until multi-screen era.<br><br>
-__Civic Association & Self-Organization:__ Vereine culture strong; broadcasting councils include civic representatives; associational fabric thick; public broadcasting embedded in civil society structure.<br><br>
-__Leisure, Play & Sociability:__ Television dominates evening leisure by 1960s; sports and entertainment programming central; Tatort and Wetten dass become shared cultural events; sociability organized around broadcast schedule.<br><br>
-__Grievance Channels & Social Discharge:__ Broadcasting councils hear complaints; Rundfunkräte provide citizen input; grievance channels institutionalized; social friction metabolized through formal structures.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal structure disperses broadcasting authority to Länder; no central ministry controls content; Basic Law protects broadcasting freedom; authority deliberately fragmented to prevent capture.<br><br>
-__Succession & Power Transfer:__ Democratic elections determine Land governments that appoint broadcasting council members; intendant selection politically negotiated but routinized; succession orderly.<br><br>
-__Legitimacy & Political Narrative:__ Public broadcasting legitimized as bulwark against propaganda recurrence; constitutional court repeatedly affirms public service mandate; narrative emphasizes pluralism and independence.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Landesmedienanstalten regulate private broadcasting; KEF determines license fee level; administrative capacity high; corruption negligible; political influence on appointments criticized but contained.<br><br>
-__Political Participation & Mobilization:__ Broadcast debates central to federal elections; programming covers full political spectrum; participation channels open; no mobilization through broadcasting outside normal democratic process.<br><br>
-__Geopolitical Position & External Relations:__ Cold War division shapes broadcasting until 1990; NATO integration; EU membership; Deutsche Welle projects soft power; external relations support broadcasting independence.<br><br>
-__Coercive Apparatus & Means of Force:__ Police enforce license fee collection; otherwise coercive apparatus not relevant to broadcasting; state maintains normal security capacity.<br><br>
-__Internal Order & Threat Environment:__ RAF terrorism 1970s-1980s affects news coverage but not operations; reunification peaceful; internal order stable; no significant threat to broadcasting infrastructure.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Nazi radio reaches most households by 1939; television universal by 1970; cable and satellite expand 1980s; digital transition 2000s multiplies channels; transmission velocity instantaneous for national territory.<br><br>
-__Record, Storage & Persistence:__ Broadcasting archives comprehensive; Nazi-era recordings preserved for historical study; postwar archives professionally maintained; digital preservation challenges emerging but institutional capacity adequate.<br><br>
-__Framing, Censorship & Discourse Norms:__ Nazi period imposes total censorship; postwar freedom guaranteed constitutionally; content guidelines prohibit Nazi symbols and Holocaust denial; discourse norms emphasize pluralism and balance.<br><br>
-__Reception, Attention & Amplification:__ Audience fragmentation accelerates post-1984 with commercial competition; public broadcasters retain substantial share; attention increasingly divided; amplification through mass broadcast declines.<br><br>
-__Signal Integrity & Noise Load:__ Technical signal quality high throughout; propaganda noise extreme 1933-1945, eliminated thereafter; information environment credible; verification capacity adequate until internet era raises challenges.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Constitutional commitment to free press and broadcasting independence deeply held after Nazi experience; public expects impartial information; justice sense emphasizes pluralism.<br><br>
-__Law, Codification & Regulatory Evolution:__ Rundfunkstaatsverträge negotiate interstate broadcasting agreements; constitutional court rulings shape legal framework; regulatory evolution responds to technical and commercial changes; law continuously updated.<br><br>
-__Adjudication, Enforcement & Liability:__ Broadcasting councils adjudicate internal disputes; Landesmedienanstalten regulate private broadcasters; courts enforce constitutional limits; liability clear; adjudication efficient.<br><br>
-__Rights, Protections & Compliance Burden:__ Broadcasting freedom constitutionally protected; public broadcasters bound by public service remit; compliance burden moderate; private broadcasters face lighter regulation.<br><br>
-__Impunity & Unredressed Wrong:__ Nazi broadcasting crimes addressed through denazification; postwar system provides effective redress for defamation and rights violations; impunity minimal; justice system functions.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Frankfurt School critical theory examines media manipulation; communication science develops as academic field; paradigm shifts from propaganda analysis to public sphere theory to convergence studies.<br><br>
-__Applied Knowledge & Technical Method:__ PAL color standard developed; broadcast engineering advances through solid-state electronics; digital compression implemented; German technical standards influence European adoption.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Broadcasting training professionalized; journalism schools established; technical education strong; knowledge stock high; skills widely distributed through dual education system.<br><br>
-__Obsolescence & Knowledge Decay:__ Nazi propaganda techniques deliberately obsoleted; analog skills decline with digital transition; institutional knowledge preserved through archives; decay manageable through retraining.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Broadcasting embedded in postwar reconstruction narrative; Heimat and regional identity expressed through ARD regional stations; reunification creates need to integrate Eastern memories; foundational identity emphasizes democratic renewal.<br><br>
-__Artistic Expression & Material Culture:__ Television drama and documentary tradition strong; Tatort as national cultural institution; production values high; material culture integrates broadcast technology into domestic space.<br><br>
-__Collective Mood & Behavioral Disposition:__ Wirtschaftswunder optimism; 1968 generational conflict; reunification euphoria and subsequent sobriety; collective mood generally stable; risk perception moderate.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional broadcast formats refresh through generational turnover; public service ethos occasionally questioned but renewed; form exhaustion countered by institutional continuity and adaptation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian churches retain influence through broadcasting councils; secular outlook grows; existential framework pluralist; no dominant cosmology imposed.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sunday religious programming established; church broadcasts continue throughout window; devotional content diminishes proportionally as secularization advances but institutional presence maintained.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic and Protestant churches represented on broadcasting councils; doctrinal authority over content minimal; churches use broadcasting for outreach but do not control it.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christian observance declines especially post-1990; Islam grows through immigration; religious pluralism increases; displacement gradual rather than abrupt.<br><br>
-__Disenchantment & Sacred Discharge:__ Secular consumerism and sports fill space vacated by religious observance; broadcasting provides secular rituals of shared viewing; disenchantment stable; sacred needs discharged through cultural rather than religious content.<br><br>
+# __1930 CE – 2010 CE — German Broadcasting Model__
+
+__Summary:__ German broadcasting evolves through three regimes — Nazi propaganda instrument, Allied-imposed decentralized public service, and dual public-commercial system — with the binding constraint being the constitutional architecture of federalism that, imposed to prevent another centralized propaganda state, distributes broadcasting authority to the Laender and produces the ARD consortium, ZDF second channel, and eventual commercial rivals, making Germany the paradigm case of how political structure shapes media structure.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The North European Plain permits efficient medium-wave coverage; postwar division creates two separate systems (West German ARD/ZDF, East German DFF) until reunification (1990); the federal structure maps onto regional broadcasting zones (WDR in North Rhine-Westphalia, BR in Bavaria, NDR in the north), each with distinct transmitter networks.
+
+__Climate Regime & Volatility:__ Temperate continental climate has no significant effect on broadcasting; severe winters occasionally disrupt transmission but infrastructure is robust.
+
+__Hazard Regime & Exposure:__ Wartime bombing destroys much interwar radio infrastructure; postwar reconstruction creates modern transmission networks; Cold War planning builds redundancy against potential conflict.
+
+__Resource & Energy Endowment:__ Industrial capacity supports domestic electronics manufacturing (Telefunken, Grundig); Ruhr coal and later nuclear power provide reliable electricity; spectrum allocation is federally coordinated despite Laender authority over content.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste accumulates through successive technology generations (radio, black-and-white television, color, digital); German recycling systems (Gruener Punkt, 1991) handle end-of-life equipment more systematically than most neighbors.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Wartime and immediate postwar mortality gives way to rising life expectancy; an ageing population by 2010 shapes programming toward older demographics on public channels.
+
+__Nutrition & Physiological Vitality:__ Postwar hunger (1945–1948) yields to prosperity; obesity rises with sedentary lifestyles; screen time increases across decades.
+
+__Care, Healing & Recovery Capacity:__ Broadcasting supports public health messaging from denazification-era hygiene campaigns through AIDS awareness (1980s) to chronic disease prevention; telemedicine remains marginal.
+
+__Reproductive Biology & Pairing Dynamics:__ Declining fertility from the 1970s produces smaller households; audience fragmentation follows as multi-set homes become standard.
+
+__Demographic Renewal & Density:__ Low birth rates and immigration (Gastarbeiter, Aussiedler, post-2000 EU mobility) reshape the audience; Turkish and other minority-language programming emerges on public channels; population ages, shifting median viewer age upward.
+
+__Attrition & Dependency Overhang:__ The elderly cohort grows; public broadcasters provide daytime programming for retirees; digital transition requires outreach to ensure elderly inclusion.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Broadcasting is a mature utility; license fees (Rundfunkgebuehr, later Rundfunkbeitrag) fund public broadcasters, rising from modest postwar rates to EUR 17.98/month (2010); commercial channels rely on advertising.
+
+__Energy Capture & Conversion:__ Efficient industrial economy powers broadcasting infrastructure; digital transmission reduces per-channel energy costs.
+
+__Labor Organization & Coercion:__ Broadcast workers are heavily unionized (ver.di); Mitbestimmung (co-determination) applies in larger organizations; freelance and contract labor rises in commercial sector.
+
+__Production & Surplus Capacity:__ German television production capacity is substantial (Babelsberg studios, regional production centers); co-productions with European partners expand reach; ARD/ZDF invest heavily in drama, documentary, and sport.
+
+__Storage, Reserves & Buffering:__ License fee revenue provides stable funding insulated from advertising cycles; public broadcasters accumulate reserves; commercial channels face volatility in downturns (2001, 2008).
+
+__Exchange, Trade & Logistics:__ German-language market (Germany, Austria, German-speaking Switzerland) enables economies of scale; format exports (e.g., game shows, crime procedurals) generate international revenue.
+
+__Value Storage, Credit & Deferred Exchange:__ License fee system debates intensify in 2000s; Constitutional Court rulings (2007) affirm funding model but require reform; transition to household-based levy (2013) is prepared by 2010.
+
+__Surplus Extraction & Redistribution:__ License fees redistribute from all households to public broadcasters; internal ARD redistribution (Finanzausgleich) supports smaller regional stations; commercial channels pay no equivalent levy.
+
+__Wealth Distribution & Asset Defense:__ Media concentration is limited by state media laws; cross-ownership restrictions apply; Bertelsmann (RTL Group), Springer (newspapers, later digital), and ProSiebenSat.1 are principal commercial players.
+
+__Byproducts & Waste Routing:__ Advertising market fragmentation strands investment in niche channels; financial mispricing appears as commercial operators overestimate digital advertising growth.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family viewing evolves from shared radio listening (1930s–1950s) through appointment television (1960s–1980s) to fragmented multi-screen households (1990s–2010); generational divides in media consumption widen.
+
+__Association & Mutual Aid:__ Broadcasting councils (Rundfunkraete) include civil society representatives (churches, unions, cultural organizations), embedding broadcasters in associational life; this corporatist model persists though criticized as outdated.
+
+__Leisure, Play & Sociability:__ Television structures leisure time; major events (World Cup, European Championship) create shared national experiences; regional identities expressed through Laender broadcasters.
+
+__Stratification, Status & Group Structure:__ Public broadcasting aspires to universality; commercial channels target younger, urban audiences; stratification by education and age in viewing patterns intensifies after 1990.
+
+__Administrative Capacity & Institutional Integrity:__ The ARD consortium federates nine regional broadcasters plus Deutsche Welle (international); ZDF is a centralized second channel with Laender oversight; state media authorities (Landesmedienanstalten) regulate commercial broadcasting; the system is complex but institutionally robust, with political influence exercised through broadcasting council appointments and occasional intervention (Adenauer's failed "Deutschland-Fernsehen" attempt 1961, Kohl-era ZDF pressures).
+
+__Coercive Apparatus & Means of Force:__ Broadcasting has no direct coercive role; content regulation is civil-administrative; Nazi-era use of radio for mobilization creates lasting constitutional sensitivity to state propaganda.
+
+__Discharge, Disorder & Decay:__ Friction emerges over political influence in broadcasting councils; "Freundeskreise" (informal party networks) within councils provoke criticism; commercial competitors complain of unfair public-sector advantage; GEZ (license fee collection) enforcement generates resentment.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Germans maintain high trust in public broadcasters relative to commercial channels; ARD/ZDF news ratings remain strong; trust erodes among younger cohorts preferring online sources.
+
+__Leadership & Personal Authority:__ Intendanten (directors-general) of ARD members and ZDF wield significant authority; figures like Hans Bausch (SDR), Friedrich Nowottny (WDR), and Nikolaus Brender (ZDF) shape institutional direction; commercial executives (Helmut Thoma at RTL) introduce American-style management.
+
+__Legitimacy as Lived Allegiance:__ The constitutional mandate for broadcasting ("Grundversorgung") grounds legitimacy; Constitutional Court rulings (1961, 1986, 2007) repeatedly affirm public broadcasting's role; legitimacy is contested by commercial operators and free-market critics but survives.
+
+__Political Will & Collective Resolve:__ Reunification (1990) requires integration of East German broadcasting; DFF is dissolved, ARD and ZDF absorb eastern audiences; political will sustains license fee funding despite periodic challenges.
+
+__External Relations & Posture:__ Deutsche Welle projects German perspectives abroad; ARD/ZDF participate in Eurovision and EBU; Franco-German cooperation produces Arte (1992); German broadcasters are major EBU contributors.
+
+__Disaffection, Apathy & Spent Will:__ Younger audiences drift toward internet and commercial channels; "Politikverdrossenheit" (political disaffection) extends to skepticism of publicly funded media; renewal efforts (youth channels, online expansion) attempt to counter disengagement.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Radio reaches universal penetration by 1939; television by 1970; digital terrestrial (DVB-T, 2003), satellite, and cable by 2010; broadband internet accessible to most households.
+
+__Channels & Transmission Velocity:__ Progression from single-channel radio (1920s–1950s) to dual television system (ARD 1952, ZDF 1963) to multi-channel environment (commercial channels 1984, digital multiplication 2000s); satellite (Astra 1988) and cable enable dozens of channels.
+
+__Record, Storage & Persistence:__ ARD and ZDF maintain extensive archives; digitization projects preserve legacy content; Mediatheken (online libraries) launch 2007–2008, enabling on-demand access within rights windows.
+
+__Framing, Censorship & Discourse Norms:__ Nazi era (1933–1945) imposes total propaganda control; postwar constitution guarantees press freedom and prohibits state broadcasting monopoly; Laender media laws set content standards; Holocaust denial and Nazi symbols are legally prohibited.
+
+__Reception, Attention & Amplification:__ Audience measurement (GfK panels) tracks viewing; ratings competition intensifies after 1984 commercial entry; attention fragments across platforms by 2010.
+
+__Signal Integrity & Noise Load:__ Digital transition improves signal quality; information overload increases as channel count multiplies; public broadcasters emphasize quality journalism as filter against noise.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Post-Nazi broadcasting is founded on democratic values; Grundgesetz (Basic Law) Article 5 guarantees press freedom; public broadcasters bear explicit mandate to serve democracy.
+
+__Law, Codification & Regulatory Evolution:__ Inter-Laender broadcasting treaties (Rundfunkstaatsvertraege) govern the system; Constitutional Court rulings shape the legal framework; Audiovisual Media Services Directive transposed into national law.
+
+__Adjudication, Liability & Sanction:__ Broadcasting councils adjudicate complaints; Landesmedienanstalten sanction commercial violations; courts (including Constitutional Court) resolve structural disputes.
+
+__Rights, Protections & Compliance Burden:__ Journalistic privilege is protected; data protection (Datenschutz) applies to audience information; compliance burden rises with digital platform multiplication.
+
+__Impunity & Unredressed Wrong:__ Historical reckoning with Nazi broadcasting propaganda is thorough in scholarship but yields no personal accountability (most practitioners died or retired); contemporary complaints receive institutional response.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ German media scholarship (Kommunikationswissenschaft) theorizes public service broadcasting; Frankfurt School critiques (Adorno, Horkheimer) influence discourse; empirical audience research develops.
+
+__Applied Knowledge & Technical Method:__ German engineering contributes to PAL color system (1967), DVB digital standards, and compression technology; broadcast technology is a strength.
+
+__Education, Knowledge Stock & Skill Distribution:__ Broadcasting supports educational programming (Telekolleg, Schulfernsehen); journalism schools train practitioners; media literacy enters curricula.
+
+__Obsolescence & Knowledge Decay:__ Analogue broadcast engineering skills fade; tape formats require migration; institutional memory of Nazi-era abuses is preserved through documentation and education.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Broadcasting participates in constructing postwar German identity — confronting Nazi past (Holocaust miniseries 1979, documentaries), celebrating reconstruction, and, after 1990, integrating East and West.
+
+__Legitimating Narrative & Ideology:__ Public broadcasting legitimates itself through democratic mandate; commercial channels invoke market freedom and consumer choice; both narratives coexist in dual system.
+
+__Artistic Expression & Material Culture:__ German television produces distinctive genres — the "Tatort" crime anthology (from 1970), quality documentary, and regional drama; commercial channels introduce American formats and reality television.
+
+__Form Exhaustion & Meaning Decay:__ By 2010, traditional formats show fatigue; "Tatort" remains popular but formulaic; reality and talent shows proliferate; cultural centrality of public broadcasting declines among youth.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Postwar broadcasting contributes to secularizing, democratic worldview; religious programming persists but is marginal; existential reflection appears in documentary and drama.
+
+__Ritual, Devotion & Sacred Practice:__ Churches retain broadcasting time on public channels; major religious holidays receive coverage; Sunday programming conventions reflect Christian heritage.
+
+__Religious Institutions & Doctrinal Authority:__ Catholic and Protestant churches hold seats on broadcasting councils; church influence wanes over decades but institutional presence persists.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Religious pluralism increases with immigration; Islamic programming emerges cautiously; New Age and alternative spirituality find niches on commercial and digital platforms.
+
+__Disenchantment & Sacred Discharge:__ The secular democratic consensus broadcasting helped construct leaves religious authority diminished; by 2010, the sacred function of collective broadcast ritual — the nation gathered before the screen — is itself fading as audiences fragment, depositing a residue of atomized viewing and weakened shared civic-spiritual experience.

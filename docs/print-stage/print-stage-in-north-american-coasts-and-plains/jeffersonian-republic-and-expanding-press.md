@@ -1,69 +1,139 @@
-# __1800 CE – 1828 CE__ — Jeffersonian Republic and Expanding Press
-__Summary:__ The early American republic consolidates under Republican dominance following the peaceful transfer of power in 1800, doubles its territory with the Louisiana Purchase, survives the War of 1812, and witnesses growing sectional tension over slavery's expansion crystallized in the Missouri Compromise; the binding constraint is the attempt to balance national expansion with sectional equilibrium while print networks spread westward through postal subsidies; the system holds moderate margin against external threat but accumulates internal stress over slavery; the direction is territorial expansion, rising nationalism, and proliferating local presses carrying increasingly divergent regional narratives.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The territory doubles with Louisiana Purchase 1803, extending from the Appalachian barrier westward across the Mississippi Basin to the Rockies; river systems — Ohio, Mississippi, Missouri — provide the principal transit corridors, while overland movement remains slow and costly, gating settlement pace and administrative reach.<br><br>
-__Climate Regime & Volatility:__ Temperate continental climate prevails across the eastern seaboard and interior basin, with cold winters limiting northern growing seasons; the 1816 "Year Without Summer" following Tambora's eruption demonstrates vulnerability to volcanic forcing, causing crop failures and temporary westward migration surges.<br><br>
-__Hazard Regime & Exposure:__ The 1811–1812 New Madrid earthquakes — among the most powerful in North American recorded history — devastate the central Mississippi Valley; periodic flooding along major rivers disrupts settlement; hurricane exposure persists along the Atlantic and Gulf coasts, though sparse settlement limits damage.<br><br>
-__Resource & Energy Endowment:__ Vast timber reserves support construction and fuel; rich agricultural soils in the Ohio Valley and expanding cotton belt attract settlement; coal deposits in Appalachia remain largely untapped; waterpower sites along fall lines enable early manufacturing, though energy capture remains limited.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density remains low; agricultural clearance and slash-and-burn practices generate localized soil degradation and smoke, but the absorptive capacity of the continental interior appears effectively unlimited against current loads; urban waste accumulation negligible beyond a few eastern ports.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Yellow fever epidemics strike periodically in port cities, with Philadelphia and New Orleans especially vulnerable; malaria endemic in lowland and swamp regions; smallpox still circulates though inoculation spreads; infant and childhood mortality remains high, with life expectancy around 35–40 years.<br><br>
-__Nutrition & Physiological Vitality:__ Abundant land supports adequate caloric intake for most free settlers; American-born population generally taller than European counterparts, suggesting reasonable nutritional status; enslaved populations suffer chronic malnutrition on many plantations, limiting physiological reserve.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility rates prevail with large family sizes averaging 5–7 children; early marriage age for women; reproductive labor central to household economy; enslaved women's reproduction increasingly commodified as domestic slave trade expands following 1808 Atlantic trade ban.<br><br>
-__Demographic Renewal & Density:__ Rapid natural increase drives population from roughly 5.3 million in 1800 to 12.9 million by 1830; density remains low except in the eastern seaboard cities; westward migration absorbs population growth while indigenous displacement accelerates.<br><br>
-__Attrition & Dependency Overhang:__ War of 1812 generates modest veteran and widow populations; high childhood mortality leaves orphan burdens on kin networks; the enslaved elderly represent a "surplus" population increasingly sold southward; overall dependency load absorbed within household and local community structures.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Yeoman farming dominates outside the plantation South; subsistence remains secure for most free households with access to land; periodic price shocks and credit contractions — notably the Panic of 1819 — expose those dependent on markets to sudden hardship.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle provide the primary power sources; waterpower drives mills along fall-line sites; wood fuel heats homes and powers early steamboats after 1807; per-capita energy throughput rising gradually with improved agricultural implements and transport.<br><br>
-__Labor Organization & Coercion:__ Slavery expands dramatically into the cotton frontier following the cotton gin's spread; roughly one million enslaved persons by 1800 grow to two million by 1830; free labor in the North organized through household production, apprenticeship, and emerging wage relationships; indentured servitude declining.<br><br>
-__Production & Surplus Capacity:__ Cotton production surges from 73,000 bales in 1800 to over 700,000 by 1830, driving export earnings; grain production in the Ohio Valley creates regional surpluses; nascent manufacturing in New England textiles and iron emerges under tariff protection after 1816.<br><br>
-__Storage, Reserves & Buffering:__ Household granaries and root cellars provide local buffering; merchant inventories absorb seasonal variation; the Second Bank of the United States (1816) attempts monetary stabilization, but the Panic of 1819 exposes shallow reserve depth throughout the credit system.<br><br>
-__Exchange, Trade & Logistics:__ River systems carry bulk goods to New Orleans; coastal shipping links Atlantic ports; the National Road and turnpike construction begin reducing interior friction; foreign trade dependent on Atlantic shipping vulnerable to wartime disruption, as the War of 1812 demonstrates.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Specie remains scarce; state banks proliferate after 1811 (First Bank charter expires), issuing notes of varying reliability; the Second Bank provides some stabilization; land speculation runs on credit, collapsing spectacularly in 1819 and wiping out small holders.<br><br>
-__Surplus Extraction & Redistribution:__ Federal revenue derives primarily from customs duties and public land sales; internal taxation minimal after Jefferson's repeal of excise taxes; state and local taxation light; planter class extracts surplus through slave labor while paying minimal direct taxation.<br><br>
-__Wealth Distribution & Asset Defense:__ Land ownership broadly distributed among free white males, though concentration increasing; slaveholding elite accumulates wealth in human property and cotton lands; property law and slave codes protect these holdings; speculative bubbles alternately inflate and destroy middling fortunes.<br><br>
-__Byproducts & Waste Routing:__ Agricultural clearing generates slash debris typically burned; cotton cultivation depletes soils, pushing planters toward fresh western lands; early manufacturing produces minimal industrial waste; urban sewage and refuse managed through street disposal and scavenging, with limited systemic impact.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Local communities maintain high face-to-face trust within ethno-religious clusters; mutual aid operates through kin networks, church congregations, and nascent benevolent societies; sectional tensions and partisan rancor strain trust across regional and political lines.<br><br>
-__Stratification, Status & Group Identity:__ White male property owners constitute the citizen-body; racial hierarchy hardens as slavery expands and free Black populations face increasing legal restrictions; class distinctions between planter aristocracy, yeomanry, and "poor whites" in the South; ethnic tensions with recent immigrants moderate.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal household remains the basic unit; partible inheritance among sons predominates, though primogeniture persists in some regions; enslaved families lack legal recognition and face constant sale disruption; marriage increasingly sentimentalized among the middle class.<br><br>
-__Civic Association & Self-Organization:__ Voluntary associations proliferate — missionary societies, temperance groups, Masonic lodges, literary and debating clubs; these constitute the "associational revolution" Tocqueville would later observe; Black churches and mutual aid societies form in northern cities despite legal barriers.<br><br>
-__Leisure, Play & Sociability:__ Court days, militia musters, and religious camp meetings provide communal gathering occasions; horse racing, cockfighting, and tavern culture mark male sociability; print culture expands leisure reading among the literate; the Fourth of July emerges as the dominant national festival.<br><br>
-__Grievance Channels & Social Discharge:__ Electoral politics, partisan press, and petitioning provide outlets for white male grievances; enslaved resistance channels through work slowdowns, escape attempts, and occasional insurrection plots — Gabriel's 1800, Denmark Vesey's 1822 — met with violent suppression; women's grievances lack formal outlets.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal republic with separated powers; Jeffersonian Republicans dominate after 1800, marginalizing Federalists; states retain substantial sovereignty; presidential authority strengthened through Louisiana Purchase and wartime measures; the "Era of Good Feelings" masks underlying factional competition.<br><br>
-__Succession & Power Transfer:__ The 1800 election demonstrates peaceful transfer between parties — a critical precedent; the Virginia Dynasty (Jefferson, Madison, Monroe) maintains Republican continuity; the contested 1824 election settled by House vote seeds Jacksonian opposition and reveals succession stress.<br><br>
-__Legitimacy & Political Narrative:__ Revolutionary heritage and constitutional principles provide legitimating foundation; Republicans claim popular sovereignty against Federalist elitism; nationalist sentiment surges after War of 1812; Missouri Compromise debate exposes competing sectional narratives about slavery and expansion.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Federal apparatus remains small — General Land Office, postal service, customs houses; territorial governance extends authority westward; corruption limited but patronage shapes appointments; census and survey capacity adequate for expansion; state capacity varies widely.<br><br>
-__Political Participation & Mobilization:__ Property qualifications for suffrage gradually erode; white male suffrage expands state by state; voter turnout rises through party organization; partisan newspapers essential to mobilization; women, free Blacks, and the enslaved remain formally excluded from political participation.<br><br>
-__Geopolitical Position & External Relations:__ British threat demonstrated in War of 1812 including Washington's burning; Monroe Doctrine 1823 asserts hemispheric position; Spanish Florida acquired 1819; relations with European powers stabilize; Native nations face relentless pressure and treaty coercion.<br><br>
-__Coercive Apparatus & Means of Force:__ Small regular army supplemented by state militias; navy expanded during War of 1812 then reduced; Indian removal campaigns employ military force; slave patrols and local militias maintain racial order in the South; federal coercive capacity limited but adequate against current threats.<br><br>
-__Internal Order & Threat Environment:__ Slave insurrection fears prompt restrictive legislation and surveillance; frontier violence endemic in newly settled territories; urban disorder limited; Burr Conspiracy 1805–1807 suggests elite adventurism but fizzles; overall internal order maintained with comfortable margin.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print remains the dominant long-distance medium; postal roads carry newspapers and correspondence across expanding territory; postal subsidies enable newspaper distribution at reduced rates; news velocity typically 1–2 weeks coast to coast, faster along established routes.<br><br>
-__Record, Storage & Persistence:__ Government archives, court records, and land registries expand with territorial administration; newspaper files accumulate in printing offices; personal correspondence and diaries preserve private record; vernacular literacy rising; oral tradition persists among enslaved and frontier populations.<br><br>
-__Framing, Censorship & Discourse Norms:__ Alien and Sedition Acts lapse 1800–1801, removing federal censorship; press freedom established principle though libel actions persist; partisan invective remains acceptable; discussion of slavery increasingly constrained in national discourse — the "gag rule" anticipates later suppression.<br><br>
-__Reception, Attention & Amplification:__ Newspaper readership expands with literacy and postal distribution; reading rooms, coffeehouses, and taverns amplify reach through shared reading; reprinting and exchange among editors create proto-wire-service function; political pamphlets achieve wide circulation during campaigns.<br><br>
-__Signal Integrity & Noise Load:__ Partisan bias openly acknowledged in party press; readers navigate through known editorial positions; misinformation and rumor circulate during crises (War of 1812 confusion); verification relies on competing accounts and reputation; overall noise load manageable given limited volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Natural rights philosophy from revolutionary era persists; Protestant moral framework shapes public conscience; tension between slavery and liberty acknowledged but suppressed; property rights considered foundational; popular sense of justice emphasizes white male equality and local autonomy.<br><br>
-__Law, Codification & Regulatory Evolution:__ Common law tradition continues; state legislatures codify statutes; slave codes elaborated and tightened in southern states; federal law remains limited to enumerated powers; Marshall Court establishes judicial review, federal supremacy, and contract sanctity through landmark decisions.<br><br>
-__Adjudication, Enforcement & Liability:__ County courts handle most civil and criminal matters; federal courts limited but expanding reach; enforcement relies on local sheriffs and marshals; liability principles from common law applied; case backlog limited by thin court access in frontier regions.<br><br>
-__Rights, Protections & Compliance Burden:__ Bill of Rights constrains federal government only; state bills of rights vary; property rights strongly protected; procedural due process developing; enslaved persons have no rights enforceable at law; free Blacks face narrowing legal protections; compliance burden on ordinary citizens light.<br><br>
-__Impunity & Unredressed Wrong:__ Slaveholder violence against the enslaved enjoys near-total impunity; crimes against Native Americans rarely prosecuted; elite dueling culture (Hamilton-Burr 1804) operates outside legal sanction; frontier justice fills gaps in formal enforcement; substantial wrongs accumulate unredressed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Enlightenment rationalism and natural philosophy prevail; Jefferson's Notes on Virginia exemplifies scientific curiosity; Lewis and Clark expedition (1804–1806) generates systematic geographic and naturalist observation; scientific societies form in major cities; theological frameworks still constrain inquiry in many domains.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural improvement techniques spread through publications and societies; Fulton's steamboat 1807 revolutionizes river transport; Whitney's cotton gin (1793) transforms the cotton economy; interchangeable parts and "American system" of manufacturing emerging; engineering knowledge largely empirical.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Common schooling spreads in New England; literacy rates among white population perhaps 75–80% in North, lower in South; colleges multiply (state universities chartered); professional training informal through apprenticeship; enslaved persons systematically denied literacy in most slave states.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical education persists despite declining practical relevance; Native American knowledge systems erased through dispossession and cultural destruction; practical knowledge transmitted through apprenticeship vulnerable to disruption; overall knowledge stock expanding faster than obsolescence and decay.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary memory shapes national identity; Fourth of July commemorations, Washington's apotheosis, and founding narratives transmitted through print, oratory, and material culture; regional identities — Yankee, Southern, Western — crystallize; slavery's foundational role both acknowledged and suppressed.<br><br>
-__Artistic Expression & Material Culture:__ Federal architecture and neoclassical style dominate public buildings; portrait painting flourishes (Stuart, Peale); Hudson River School landscape painting emerging; vernacular material culture reflects regional craft traditions; mass-produced goods begin displacing handcraft in some domains.<br><br>
-__Collective Mood & Behavioral Disposition:__ Nationalism surges after War of 1812 ("Era of Good Feelings"); optimistic expansionism characterizes the mood; anxieties about slavery's future suppressed through compromise; economic confidence high until Panic of 1819 introduces caution; westward ambition and opportunity define behavioral temper.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary rhetoric remains potent but increasingly appropriated for contradictory purposes (slavery defense and abolition alike); neoclassical forms approach exhaustion by period's end; some hollowing of religious forms as Second Great Awakening injects new vitality; overall meaning renewal exceeds decay.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Protestant Christianity dominates; providential worldview interprets national success as divine favor; Enlightenment deism persists among elites (Jefferson, Madison) but evangelical piety spreading rapidly; afterlife remains central concern; fatalism limited except among enslaved populations finding solace in otherworldly hope.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Camp meetings and revivals mark the Second Great Awakening; weekly Sabbath observance structured; family devotions, prayer, and Bible reading characterize pious households; Catholic and Jewish minorities maintain distinct practices; enslaved religious practice blends African and Christian elements despite suppression.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Denominational structure fragments as Methodists, Baptists, and new groups proliferate; no established church at federal level, state establishments ending; clerical authority contested by lay initiative; doctrinal disputes generate schisms (Cumberland Presbyterians, Disciples of Christ); missionary societies organize benevolent activity.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical Protestantism spreads rapidly westward and southward; African American Christianity develops distinctive forms under slavery; Native American spirituality under assault through removal and missionization; Catholic immigration begins modest growth; overall spiritual landscape diversifying within Christian frame.<br><br>
-__Disenchantment & Sacred Discharge:__ Enlightenment skepticism confined to educated elite; popular piety intensifying through revival; material success celebrated as compatible with spiritual purpose; anxieties about moral corruption and declension generate reform movements; sacred meaning widely available and renewed through awakening fervor.<br><br>
+# __1800 CE – 1828 CE — Jeffersonian Republic and Expanding Press__
+
+__Summary:__ The early American republic under Jeffersonian and post-Jeffersonian leadership witnesses the rapid westward expansion of print culture, with newspapers multiplying across new territories as postal subsidies and rising literacy transform the partisan press from elite factional organs into instruments of democratic participation, the binding constraint being the postal system's role in distributing printed matter cheaply across vast distances.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The republic stretches from the Atlantic seaboard across the Appalachians into the trans-Appalachian West, with the Louisiana Purchase (1803) doubling territorial extent to the Mississippi and beyond. Rivers remain the primary arteries of movement: the Ohio, Mississippi, and Missouri carry settlers, goods, and mail. Overland roads improve slowly; the National Road (begun 1811) links Cumberland to Wheeling by the 1820s, but most interior travel remains arduous, taking weeks to cross from the seaboard to the frontier.
+
+__Climate Regime & Volatility:__ The temperate continental climate prevails, with seasonal extremes complicating winter travel and spring floods disrupting river navigation. The 1816 "Year Without a Summer" following Tambora's eruption disrupts agriculture across New England and the mid-Atlantic, prompting westward migration and altering settlement patterns.
+
+__Hazard Regime & Exposure:__ The New Madrid earthquakes (1811–1812) shake the Mississippi Valley, the most powerful seismic events in recorded American history, though sparse settlement limits casualties. Yellow fever epidemics strike port cities periodically, particularly New Orleans and Philadelphia.
+
+__Resource & Energy Endowment:__ Abundant timber fuels construction and provides paper pulp. Waterpower drives nascent manufactories. Coal deposits in Pennsylvania begin exploitation, though the economy remains overwhelmingly agricultural. Cotton cultivation expands explosively across the Deep South after the gin's proliferation.
+
+__Waste Absorption & Sink Capacity:__ Population densities remain low outside major cities; the continent absorbs agricultural and early industrial wastes without evident saturation. Urban centers accumulate refuse and human waste, but the scale remains manageable against available land.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Smallpox, typhoid, and dysentery remain endemic. Malaria afflicts southern and western settlements. Life expectancy hovers around 35–40 years. Vaccination spreads gradually after Jenner's 1796 breakthrough, though coverage remains incomplete, especially on the frontier.
+
+__Nutrition & Physiological Vitality:__ American diets prove abundant by contemporary standards, with meat, grain, and vegetables widely available. Stature data suggest Americans are among the tallest populations in the world during this period. Seasonal vitamin deficiencies persist, particularly in winter months.
+
+__Care, Healing & Recovery Capacity:__ Medical practice remains pre-germ-theory, relying on bleeding, purging, and botanical remedies. Midwives attend most births. Hospitals exist primarily in major cities and are associated with poverty and death rather than healing. Familial and community care networks bear most of the burden.
+
+__Reproductive Biology & Pairing Dynamics:__ High fertility prevails, with white families averaging six to eight children. Early marriage ages support rapid population growth. Enslaved women's reproduction is exploited as an economic asset after 1808 when the international slave trade closes.
+
+__Demographic Renewal & Density:__ Population grows from approximately 5.3 million (1800) to 12.9 million (1830), doubling in three decades through natural increase and immigration. Westward migration populates the Ohio Valley, Kentucky, Tennessee, and the new states of Louisiana, Indiana, Mississippi, Illinois, Alabama, and Missouri.
+
+__Attrition & Dependency Overhang:__ Infant mortality remains high, perhaps one in five dying before age one. Widows and orphans depend on extended kin networks and nascent charitable institutions. The productive population carries its dependent load without formal state provision.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Most Americans engage in agriculture, producing for household consumption with surpluses for local markets. Frontier settlers practice subsistence farming until market connections develop. Urban dwellers rely on market provisioning, vulnerable to seasonal price fluctuations.
+
+__Energy Capture & Conversion:__ Human and animal muscle power predominates. Waterpower drives textile mills at Lowell and other early factory sites. Steam power begins its American career with river steamboats (after 1807) and early industrial applications, but remains marginal to overall energy use.
+
+__Labor Organization & Coercion:__ Free labor in the North mixes with apprenticeship and indenture. Chattel slavery intensifies in the South as cotton demand rises; by 1820 nearly two million persons are enslaved. The Missouri Compromise (1820) draws the sectional line at 36°30', institutionalizing slavery's geographic extent.
+
+__Production & Surplus Capacity:__ Cotton becomes king of American exports, rising from 17 million pounds (1800) to 180 million pounds (1820). Northern manufacturing grows slowly; the Embargo (1807–1809) and War of 1812 stimulate import substitution. Paper mills multiply to supply the expanding press.
+
+__Storage, Reserves & Buffering:__ The Treasury manages public debt from Revolutionary and 1812 wars; Hamilton's financial system, though attacked by Jeffersonians, persists in modified form. The Second Bank of the United States (1816) provides credit and currency stabilization until the Panic of 1819 exposes fragility.
+
+__Exchange, Trade & Logistics:__ Atlantic trade ties the economy to Britain despite political hostility; the Embargo and War of 1812 disrupt commerce severely. Internal improvements debates rage; canals multiply after the Erie Canal's 1817 commencement. River traffic carries goods from interior to seaports.
+
+__Value Storage, Credit & Deferred Exchange:__ The dollar serves as unit of account; state banks proliferate, issuing notes of varying reliability. The Panic of 1819 brings bank failures, foreclosures, and the first major national economic crisis, leaving lasting suspicion of concentrated financial power.
+
+__Surplus Extraction & Redistribution:__ Customs duties provide most federal revenue; internal taxes are controversial and largely eliminated under Jefferson. States fund improvements through land sales and bonds. The postal system operates at subsidized rates for newspapers, constituting a significant indirect transfer to print culture.
+
+__Wealth Distribution & Asset Defense:__ Land ownership remains the primary form of wealth; western lands offer acquisition opportunities for white settlers while dispossessing indigenous peoples. Enslaved persons constitute the largest form of private property in the South. Mercantile and nascent industrial wealth concentrates in northern cities.
+
+__Byproducts & Waste Routing:__ Agricultural and artisanal production generates modest waste streams. Slaughterhouses and tanneries create localized nuisances. The scale of industrial pollution remains limited by the economy's largely agricultural character.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Partible inheritance prevails; primogeniture has been abolished in most states. Extended families provide support networks, especially on the frontier. Marriage remains the primary institution organizing household production and reproduction.
+
+__Association & Mutual Aid:__ Voluntary associations proliferate: fraternal orders, benevolent societies, fire companies, library associations. Churches serve as primary community organizing institutions. The lyceum movement and mechanics' institutes begin promoting education and improvement.
+
+__Leisure, Play & Sociability:__ Taverns and coffeehouses serve as informal public spheres where newspapers are read aloud and discussed. Horse racing, militia musters, and holiday celebrations provide communal recreation. Urban theaters attract growing audiences.
+
+__Stratification, Status & Group Structure:__ A property-holding white male citizenry constitutes the political nation, though property qualifications for voting erode across the period. Enslaved persons, free blacks, women, and indigenous peoples remain excluded from formal citizenship. Gentlemen, merchants, and professionals form urban elites; planters dominate the South.
+
+__Administrative Capacity & Institutional Integrity:__ Federal government remains small, focused on diplomacy, defense, customs, and the postal system. State governments handle most domestic matters. The postal system expands dramatically: post offices increase from 903 (1800) to 8,450 (1830), constituting the largest federal civilian institution and the primary infrastructure for newspaper distribution.
+
+__Coercive Apparatus & Means of Force:__ The standing army remains tiny; state militias provide the main organized force. The War of 1812 reveals military weaknesses. Andrew Jackson's irregular forces defeat the Creek and later British at New Orleans, establishing his fame. Indian removal campaigns clear eastern tribes.
+
+__Discharge, Disorder & Decay:__ The Burr-Hamilton duel (1804) illustrates elite factional violence. Frontier vigilantism and dueling persist. Slave resistance remains constant if mostly covert; the Denmark Vesey conspiracy (1822) and later Nat Turner rebellion (1831) terrify slaveholders. Urban riots occur sporadically.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Republican ideology emphasizes civic virtue, agrarian independence, and suspicion of concentrated power. National pride grows after the War of 1812, despite the conflict's military ambiguities; the Battle of New Orleans enters national mythology. Sectional identities begin to crystallize.
+
+__Leadership & Personal Authority:__ Jefferson embodies the philosopher-statesman ideal; Madison and Monroe continue the Virginia dynasty. John Quincy Adams represents learned statesmanship. Andrew Jackson emerges as a charismatic man-of-the-people leader, previewing the democratic politics to come.
+
+__Legitimacy as Lived Allegiance:__ The "Revolution of 1800" establishes peaceful party succession, strengthening constitutional legitimacy. The Era of Good Feelings (1816–1824) masks sectional tensions. The disputed election of 1824, decided by the House, leaves Jackson supporters feeling cheated and eager for 1828.
+
+__Political Will & Collective Resolve:__ National will manifests in westward expansion, indigenous dispossession, and the Monroe Doctrine's hemispheric assertion (1823). The Missouri Compromise demonstrates capacity for sectional compromise but also exposes the slavery question's explosive potential.
+
+__External Relations & Posture:__ Britain remains the primary rival; the War of 1812 settles Canadian border questions. Spain cedes Florida (1819). The Monroe Doctrine warns European powers against New World intervention. Latin American independence movements receive rhetorical support.
+
+__Disaffection, Apathy & Spent Will:__ Federalist opposition withers after the Hartford Convention's (1814) taint of secession. New England federalists feel marginalized. Political engagement remains high among the enfranchised, though the property-less, enslaved, and women have no formal voice.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English serves as the dominant language; German-speaking communities maintain their language in print. Literacy rises toward near-universal levels among white males in New England, somewhat lower in the South and West. Enslaved persons are increasingly prohibited by law from learning to read.
+
+__Channels & Transmission Velocity:__ The postal system provides the primary channel for newspaper distribution, operating at subsidized rates. By law, newspapers pay only 1–1.5 cents postage regardless of distance, an enormous subsidy. Post roads and post riders carry mail; steamboats accelerate river routes. News from Europe takes two to four weeks to cross the Atlantic.
+
+__Record, Storage & Persistence:__ Newspapers proliferate from approximately 200 (1800) to over 1,000 (1830), most being weeklies. The partisan press ties newspapers to political factions; editors serve as party organizers. The National Intelligencer, Niles' Weekly Register, and state capitals' papers serve as papers of record. Libraries remain limited; private collections predominate.
+
+__Framing, Censorship & Discourse Norms:__ The Sedition Act expires (1801), and Jefferson pardons those convicted under it, establishing a norm against federal press censorship. Partisan vituperation flourishes; editors face libel suits and duels. Truth becomes increasingly accepted as a defense in libel cases. Religious and community norms constrain what is printable.
+
+__Reception, Attention & Amplification:__ Newspapers are read aloud in taverns and public spaces, extending their reach beyond subscribers. Political speeches are reprinted and circulated. Pamphlets carry extended arguments. Word-of-mouth amplifies printed content across communities.
+
+__Signal Integrity & Noise Load:__ Partisan bias is overt and expected; readers understand newspapers as factional organs. Errors and hoaxes circulate, though the pace of communication allows corrections to follow. The proliferation of newspapers increases total information flow while fragmenting audiences by party and locality.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Republican virtue, self-governance, and individual liberty form the dominant moral vocabulary. Property rights are nearly sacrosanct. The contradiction between liberty and slavery generates increasing moral tension, especially after the Missouri debates.
+
+__Law, Codification & Regulatory Evolution:__ Common law reception continues; state codification efforts proceed unevenly. Federal law remains limited in scope. The Marshall Court establishes judicial review and federal supremacy, defining constitutional boundaries. State courts handle most litigation.
+
+__Adjudication, Liability & Sanction:__ Courts operate at state and federal levels. Juries decide both fact and law in many jurisdictions. Libel suits against editors are common; truth as defense gains acceptance. Criminal punishment relies on fines, imprisonment, and corporal punishment; capital punishment for serious crimes.
+
+__Rights, Protections & Compliance Burden:__ The Bill of Rights constrains the federal government; state bills of rights vary. White male property holders enjoy full civil rights; property qualifications for voting decline. Enslaved persons have no legal personhood. Free blacks face expanding restrictions, especially after Denmark Vesey.
+
+__Impunity & Unredressed Wrong:__ Slaveholders enjoy impunity for violence against the enslaved. Frontier justice operates outside formal law. Dueling among elites persists despite legal prohibition. Indian treaties are violated with minimal consequence to the violators.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Enlightenment rationalism continues to influence American thought. Jefferson exemplifies the polymath ideal. Natural philosophy (science) attracts gentleman amateurs; the American Philosophical Society and similar bodies promote inquiry. Theological controversy over Calvinism, Unitarianism, and revivalism engages intellectual energies.
+
+__Applied Knowledge & Technical Method:__ Eli Whitney's cotton gin (1793) and system of interchangeable parts transform manufacturing. Steam technology adapts to American conditions with Fulton's steamboat (1807). Agricultural knowledge spreads through almanacs and periodicals. Patent protection encourages invention.
+
+__Education, Knowledge Stock & Skill Distribution:__ Common schools spread, especially in New England. Academies provide secondary education. Colleges multiply, training clergy and professionals. Female education expands in academies. Enslaved persons are increasingly prohibited from literacy, preserving knowledge within oral tradition.
+
+__Obsolescence & Knowledge Decay:__ Craft knowledge transmits through apprenticeship, with some skills lost as production methods change. Classical education persists in colleges, facing criticism for impracticality. Indigenous knowledge systems erode under pressure of dispossession and forced removal.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Revolution becomes sacred founding narrative. The Founding Fathers are elevated to quasi-mythical status, with Jefferson and Washington especially venerated. American exceptionalism takes shape as ideology: the New World as refuge from Old World corruption.
+
+__Legitimating Narrative & Ideology:__ Republican ideology legitimates the political order: government by consent, popular sovereignty, limited government, and agrarian virtue. The market revolution begins eroding agrarian ideals, generating tension between Jeffersonian republicanism and emerging commercial capitalism.
+
+__Artistic Expression & Material Culture:__ Federal architecture draws on classical models: the Capitol, state capitols, and civic buildings assert republican dignity. Portrait painting celebrates leaders. The novel gains respectability; Washington Irving and James Fenimore Cooper establish American literature. Newspapers adopt standardized formats with columns, mastheads, and classified advertising.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary rhetoric becomes increasingly ritualized, available for appropriation by various causes. Federalist cultural forms decline with the party. Religious controversy between established churches and evangelical movements reflects cultural ferment rather than exhaustion.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant Christianity provides the dominant cosmological frame, though diversity increases. Deism influenced the Founders but wanes in popular appeal. Providence remains central to American self-understanding; the nation is conceived as under divine favor and charged with a special mission.
+
+__Ritual, Devotion & Sacred Practice:__ Sunday observance structures the week. Camp meetings and revivals characterize the Second Great Awakening (beginning c. 1800), especially on the frontier. The Cane Ridge revival (1801) exemplifies the emotional intensity. Regular church attendance varies by region and denomination.
+
+__Religious Institutions & Doctrinal Authority:__ Disestablishment proceeds at the state level; Connecticut (1818) and Massachusetts (1833) are the last to separate church and state. Denominational competition intensifies. Methodist and Baptist churches grow rapidly through evangelical methods. The seminary movement professionalizes clergy training.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical Protestantism spreads across the frontier. African American Christianity develops distinctive forms within enslaved communities, blending Protestant and African elements. Indigenous spiritual practices face suppression but persist. Catholic presence grows with Louisiana's incorporation and Irish immigration.
+
+__Disenchantment & Sacred Discharge:__ Enlightenment rationalism and evangelical fervor coexist uneasily. Unitarianism represents the rationalist pole; revivalism represents the affective. The spiritual landscape remains intensely contested rather than disenchanted; religious energy is redirected rather than discharged.

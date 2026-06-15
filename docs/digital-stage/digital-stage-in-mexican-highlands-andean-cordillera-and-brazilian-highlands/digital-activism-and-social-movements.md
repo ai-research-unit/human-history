@@ -1,69 +1,139 @@
-# __2014 CE – 2026 CE__ — Digital Activism and Social Movements
-__Summary:__ A pan-temporal snapshot of digitally-mediated protest and grassroots organizing across Latin America's highland regions, where smartphone penetration and platform dominance transform collective action capacity, enable rapid cross-border solidarity, and generate new vulnerabilities to state surveillance; the binding constraint is the asymmetry between mobilization velocity and sustained institutional pressure; margin against repression remains thin; direction trends toward intensifying cat-and-mouse dynamics between activists and authorities.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Andean cordillera, Mexican altiplano, and Brazilian planalto — rugged highland terrain historically fragmenting movement but digital connectivity now collapsing spatial friction for coordination across distances that once required weeks of travel.<br><br>
-__Climate Regime & Volatility:__ Tropical highland and semi-arid regimes with seasonal variation; climate-related grievances — water access, extractive impacts, agricultural disruption — increasingly feeding activist agendas without altering baseline coordination capacity.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk in Andean and Mexican zones; periodic flooding in Brazilian highlands; natural disasters occasionally catalyzing mutual-aid networks that double as protest infrastructure.<br><br>
-__Resource & Energy Endowment:__ Rich mineral deposits, hydrocarbon reserves, and arable land; extraction conflicts — lithium in Chile and Argentina, copper in Peru, Amazon logging — central to indigenous and environmental activism.<br><br>
-__Waste Absorption & Sink Capacity:__ Mining tailings, deforestation, and urban pollution providing tangible grievances; environmental degradation documented and amplified through drone footage and satellite imagery circulated via social media.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic 2020–2022 exposing healthcare inequalities, generating mass grief and rage, accelerating digital organizing while temporarily suppressing street protest; endemic disease burden otherwise stable.<br><br>
-__Nutrition & Physiological Vitality:__ Persistent malnutrition in marginalized communities fueling economic grievances; food insecurity among protest demographics compounding mobilization motivations without directly constraining digital organizing capacity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Feminist movements — #NiUnaMenos, #EleNao — centering reproductive rights, gender violence, and bodily autonomy; reproductive justice emerging as major mobilization axis across all three regions.<br><br>
-__Demographic Renewal & Density:__ Young, urban populations with high smartphone penetration forming activist core; demographic bulge of digitally-native youth providing mobilization mass; aging rural populations less connected to digital activism.<br><br>
-__Attrition & Dependency Overhang:__ Activist burnout, exile, imprisonment, and assassination creating attrition; murdered journalists and environmental defenders in Mexico and Brazil generating martyrdom narratives while depleting movement leadership.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Economic precarity among activist bases — informal workers, students, indigenous communities — providing motivation while limiting sustained mobilization capacity; protests often triggered by subsistence threats.<br><br>
-__Energy Capture & Conversion:__ Smartphone battery life and charging access constraining documentation and coordination in extended protests; solar chargers and power-sharing emerging as protest logistics; grid-dependent communication infrastructure vulnerable to state shutdowns.<br><br>
-__Labor Organization & Coercion:__ Gig workers — Rappi, Uber, iFood couriers — organizing via WhatsApp and Telegram; traditional union structures weakened but digital tools enabling new forms of precarious-worker coordination.<br><br>
-__Production & Surplus Capacity:__ Activist output measured in documentation, viral content, and mobilization capacity; production limited by volunteer labor and burnout; professional activist class thin; NGO funding providing modest surplus.<br><br>
-__Storage, Reserves & Buffering:__ Movement organizations operating on thin financial margins; crowdfunding providing episodic resources; legal defense funds chronically underfunded; no substantial reserves against prolonged campaigns.<br><br>
-__Exchange, Trade & Logistics:__ Protest logistics — food, medical supplies, legal support — coordinated through encrypted messaging; informal mutual-aid networks substituting for formal supply chains; international solidarity providing modest material flows.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cryptocurrency donations enabling anonymous funding; crowdfunding platforms facilitating rapid resource pooling; traditional banking increasingly monitored, pushing activists toward alternative value transfer.<br><br>
-__Surplus Extraction & Redistribution:__ State taxation irrelevant to movement economics; NGO overhead extracting fraction of donated funds; informal redistribution through mutual aid constituting primary allocation mechanism.<br><br>
-__Wealth Distribution & Asset Defense:__ Activists predominantly from lower and middle strata; asset defense not a primary concern; digital assets — accounts, follower bases, content archives — vulnerable to platform suspension and state seizure.<br><br>
-__Byproducts & Waste Routing:__ Digital waste — defunct accounts, outdated content, compromised communications — accumulating; obsolete tactical information requiring active purging to prevent state intelligence exploitation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High in-group trust within movement networks; robust mutual-aid infrastructure for medical, legal, and material support during protests; trust radius contracting sharply at perceived ideological boundaries; infiltration fears eroding openness.<br><br>
-__Stratification, Status & Group Identity:__ Cross-class coalitions fragile; indigenous, feminist, LGBTQ+, environmental, and labor movements maintaining distinct identities while attempting tactical coordination; intersectional framing contested but spreading.<br><br>
-__Kinship, Family & Inheritance:__ Family networks providing refuge and resources for activists; intergenerational tensions between digitally-native youth and analog-socialized elders; activist households forming through shared struggle.<br><br>
-__Civic Association & Self-Organization:__ Horizontal, network-form organizing dominant; traditional NGO structures coexisting uneasily with leaderless movements; affinity groups and collectives forming, splitting, and reforming rapidly.<br><br>
-__Leisure, Play & Sociability:__ Protest as social event — music, art, performance integrated into demonstrations; meme culture and humor central to digital activism; festival atmosphere alternating with confrontational tactics.<br><br>
-__Grievance Channels & Social Discharge:__ Street protest, viral documentation, and international attention providing discharge for accumulated grievances; when channels blocked — by repression or pandemic — pressure accumulates; January 2023 Brasilia riots illustrating explosive discharge when normal channels fail.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Movements confronting consolidated state power — AMLO in Mexico, Bolsonaro then Lula in Brazil, various Andean governments; asymmetric power relations with activists holding mobilization capacity but lacking institutional leverage.<br><br>
-__Succession & Power Transfer:__ Electoral cycles providing mobilization targets — Chile 2019–2022 constitutional process, Colombia 2021 protests preceding Petro election, Brazil 2022; movement influence on succession variable but occasionally decisive.<br><br>
-__Legitimacy & Political Narrative:__ Activists challenging state narratives through counter-documentation; viral videos of police violence undermining official accounts; competing legitimacy claims in digital space with uncertain resolution.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State surveillance capacity growing — facial recognition, metadata analysis, platform cooperation; administrative reach into digital spaces expanding; corruption in security forces occasionally aiding activists through leaks.<br><br>
-__Political Participation & Mobilization:__ Digital tools dramatically lowering mobilization costs; WhatsApp groups enabling rapid assembly; leaderless coordination frustrating state decapitation strategies; participation episodic but capable of massive scale — Chile 2019, Colombia 2021.<br><br>
-__Geopolitical Position & External Relations:__ International solidarity networks amplifying local movements; global attention providing modest protection; US and European human rights pressure variable; regional left-right shifts affecting cross-border activist coordination.<br><br>
-__Coercive Apparatus & Means of Force:__ Militarized police, national guards, and in some cases military deployed against protests; less-lethal weapons — tear gas, rubber bullets — standard; live ammunition used in extreme cases; activist counter-documentation constraining but not preventing violence.<br><br>
-__Internal Order & Threat Environment:__ State repression, infiltration, and surveillance constituting primary threat; in Mexico, cartel violence intersecting with activism; criminalization of protest through anti-terrorism and public order laws increasing.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ WhatsApp, Telegram, Twitter, Instagram, and TikTok enabling near-instantaneous mass coordination; viral content reaching millions within hours; encrypted messaging providing tactical security; platform dependence creating vulnerability.<br><br>
-__Record, Storage & Persistence:__ Cloud storage, platform archives, and distributed backups preserving protest documentation; state seizure of devices threatening records; international archives — Human Rights Watch, Amnesty — providing backup persistence.<br><br>
-__Framing, Censorship & Discourse Norms:__ Hashtag campaigns framing narratives — #ChileDespertó, #ParoNacional, #NiUnaMenos; platform content moderation inconsistent; state pressure on platforms for removal variable; self-censorship in high-risk environments.<br><br>
-__Reception, Attention & Amplification:__ Algorithmic amplification of emotionally-charged content favoring protest documentation but also counter-movement content; attention spans short; sustaining focus beyond viral moments difficult; international attention episodic.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation, state propaganda, and bot networks degrading signal quality; verification capacity limited; false flag attributions and manipulated footage circulating alongside authentic documentation; noise load high and rising.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Deep sense of injustice motivating activism — gender violence, extractive exploitation, political corruption, economic inequality; moral outrage as mobilization fuel; divergent justice conceptions across movement sectors.<br><br>
-__Law, Codification & Regulatory Evolution:__ Anti-protest laws tightening in several jurisdictions; digital surveillance legalized; press freedom protections weakening in Mexico; constitutional reform processes in Chile creating contested legal terrain.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts variable — Brazilian Supreme Court active against misinformation but also against protest; prosecutions of activists increasing; international courts providing limited recourse; enforcement selective and politicized.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional speech and assembly rights formally protected but practically constrained; compliance burden on activists — registration, permits, liability — used to criminalize spontaneous protest.<br><br>
-__Impunity & Unredressed Wrong:__ Massive impunity for police violence, gender-based violence, and environmental destruction motivating activism; murdered activists and journalists rarely receiving justice; impunity gap widening rather than closing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Intersectional feminism, decolonial theory, and horizontalist organizing principles providing intellectual frameworks; academic-activist collaboration in some movements; theory production uneven across movements.<br><br>
-__Applied Knowledge & Technical Method:__ Protest tactics spreading virally — Chilean shield walls, Hong Kong–style fluid movement, digital security protocols; technical methods for documentation, encryption, and counter-surveillance disseminating through workshops and guides.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital literacy high among youth activists; security culture unevenly distributed; training programs — encryption, legal rights, medical response — provided by experienced organizers and NGOs.<br><br>
-__Obsolescence & Knowledge Decay:__ Tactical knowledge decaying as state countermeasures evolve; previous-generation methods — mass SMS, forums — obsolete; constant learning required to maintain security edge; institutional memory lost as movements disperse.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary traditions — Mexican Revolution, Latin American left, indigenous resistance — providing symbolic resources; recent dictatorships — Chile, Brazil, Argentina — shaping collective memory and motivating vigilance against authoritarianism.<br><br>
-__Artistic Expression & Material Culture:__ Protest art, murals, performance, and music central to movement identity; visual symbols — green bandanas for abortion rights, purple for feminism — creating recognizable aesthetic; meme culture as artistic medium.<br><br>
-__Collective Mood & Behavioral Disposition:__ Oscillating between hope and despair; moments of collective effervescence during mass mobilizations; exhaustion and demoralization during repression or apparent failure; generational optimism among young activists.<br><br>
-__Form Exhaustion & Meaning Decay:__ Some protest forms — candlelight vigils, online petitions — losing potency through repetition; hashtag activism criticized as performative; movements seeking fresh tactics to maintain impact and meaning.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular-progressive framing dominant in urban movements; indigenous activism drawing on Andean and Mesoamerican cosmologies; liberation theology influences persisting in some sectors; existential stakes perceived as civilizational.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Commemorations of the fallen; anniversary marches; vigils; indigenous ceremony integrated into environmental activism; secular ritual forms — candlelight, silence, collective song — serving bonding and meaning-making functions.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic Church ambivalent — local clergy sometimes supporting movements, hierarchy often cautious; evangelical churches generally opposed to feminist and LGBTQ+ activism; religious authority not central to most movements.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous spirituality gaining visibility through activist framing; environmental activism incorporating sacred-earth language; secular movements borrowing religious forms without metaphysical commitment.<br><br>
-__Disenchantment & Sacred Discharge:__ Activist communities providing meaning and purpose substituting for religious belonging for secular participants; movement participation addressing existential needs — belonging, purpose, transcendence — otherwise unmet; burnout and disillusionment generating spiritual residue when movements fail to deliver transformation.<br><br>
+# __2014 CE – 2026 CE — Digital Activism and Social Movements__
+
+__Summary:__ Across Latin America, smartphones and social platforms become the primary infrastructure for protest coordination and political mobilization, enabling rapid assembly but leaving movements vulnerable to fragmentation, state surveillance, and platform-dependent ephemerality that limits translation into durable institutional change.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Urban concentration in capital cities and megacities provides natural assembly points where digital calls to protest translate into physical mass. Santiago, Bogota, Lima, and Mexico City feature central plazas serving as both symbolic and logistical rally sites, while mountainous terrain in Andean countries limits rural participation despite digital connectivity.
+
+__Climate Regime & Volatility:__ Drought and water scarcity fuel protest cycles in Chile and Peru, environmental grievance becoming a mobilization trigger; climate disasters intensify rural-urban migration that concentrates potential protesters in cities.
+
+__Hazard Regime & Exposure:__ Earthquakes, floods, and pandemic shock serve as stress tests revealing state incapacity, the gap between official response and citizen-organized relief visible on social media feeding delegitimization narratives.
+
+__Resource & Energy Endowment:__ Extractive industry conflicts drive environmental movements, lithium in Chile, oil in Ecuador and Colombia, mining across the Andes, with affected communities documenting grievances via smartphones and mobilizing regional and international solidarity networks.
+
+__Waste Absorption & Sink Capacity:__ Water contamination from mining, deforestation documentation in the Amazon, and urban air quality deterioration become visual content for environmental activism, physical degradation rendered into shareable digital evidence.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic (2020-2022) initially suppresses street protest, then its mismanagement becomes a grievance driver; death tolls and hospital collapse circulate as mobilizing content, particularly in Brazil where federal response failure fuels anti-Bolsonaro sentiment.
+
+__Nutrition & Physiological Vitality:__ Economic crises in Venezuela and Argentina produce hunger that drives both emigration and protest; images of empty shelves and food lines become potent mobilizing content.
+
+__Care, Healing & Recovery Capacity:__ Healthcare system collapse during the pandemic exposes structural inequality, citizen documentation of overwhelmed hospitals feeding anger at governments; street medics and mutual aid networks emerge as movement infrastructure.
+
+__Reproductive Biology & Pairing Dynamics:__ Reproductive rights become central mobilization issue, particularly abortion access; green handkerchief movement spreads digitally from Argentina across the region.
+
+__Demographic Renewal & Density:__ Youth bulge provides protest base, those under thirty disproportionately both smartphone-native and economically marginalized; urban density facilitates rapid physical assembly when digital calls go out.
+
+__Attrition & Dependency Overhang:__ Pension reform attempts spark protest cycles in Brazil and Chile, intergenerational grievance channeled through both street mobilization and digital campaigns targeting politicians.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Transit fare increases trigger mass mobilization in Chile (2019 estallido) and Brazil (2013 precursor), small economic shocks catalyzing broader discontent among those living near subsistence margins.
+
+__Energy Capture & Conversion:__ Fuel subsidy removal attempts in Ecuador (2019) and Colombia generate rapid protest mobilization coordinated via WhatsApp and social media, price shocks translating within hours into street presence.
+
+__Labor Organization & Coercion:__ Traditional unions decline while platform-mediated organizing rises; gig workers coordinate via messaging apps, informal sector workers use WhatsApp groups for mutual aid and occasional collective action.
+
+__Production & Surplus Capacity:__ Economic contraction in the post-2014 period and COVID-19 recession eliminate surplus that might otherwise dampen grievance, producing material conditions for mobilization.
+
+__Storage, Reserves & Buffering:__ Household savings depleted by crisis leave populations with little buffer against further shocks, raising stakes of protest as last resort rather than tactical choice.
+
+__Exchange, Trade & Logistics:__ Protest movements develop sophisticated logistics for street presence, coordinating supplies, medical support, and retreat routes via messaging platforms.
+
+__Value Storage, Credit & Deferred Exchange:__ Crowdfunding platforms enable movement financing independent of traditional donors, though amounts remain modest compared to institutional political funding.
+
+__Surplus Extraction & Redistribution:__ Tax reform protests in Colombia (2021) represent direct contestation of extraction terms, digital coordination enabling rapid national mobilization against government proposals.
+
+__Wealth Distribution & Asset Defense:__ Inequality documentation circulates on social media, statistics and visual contrasts between elite consumption and poverty becoming standard movement content.
+
+__Byproducts & Waste Routing:__ Protest encampments generate their own logistical and sanitation challenges, visible in prolonged occupations from Chilean plazas to Brazilian camps.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family WhatsApp groups become sites of political contestation, older and younger generations exposed to different information streams creating intergenerational tension over protest participation.
+
+__Association & Mutual Aid:__ Horizontal networks replace hierarchical organization, activist collectives form around specific issues without traditional leadership structures, WhatsApp and Telegram groups serving as organizational spine.
+
+__Leisure, Play & Sociability:__ Protest becomes social activity for youth cohorts, attendance mixing political commitment with community formation; festival atmosphere of some mobilizations documented and shared as recruiting content.
+
+__Stratification, Status & Group Structure:__ Middle-class and working-class grievances occasionally converge in protest coalitions but typically fracture along class lines once immediate trigger passes; indigenous movements maintain separate organizational structures while coordinating tactically with urban protests.
+
+__Administrative Capacity & Institutional Integrity:__ Movements develop internal coordination capacity via digital tools but struggle to translate street presence into institutional access; distrust of formal politics limits electoral conversion of protest energy.
+
+__Coercive Apparatus & Means of Force:__ Police response to protests becomes content for further mobilization, smartphone documentation of violence (Chile's eye injuries, Colombia's casualties) circulating internationally and delegitimizing state response.
+
+__Discharge, Disorder & Decay:__ Movements that achieve initial mobilization success often fragment once immediate demands are met or suppressed, lacking durable organizational structure to maintain pressure; leaderless coordination facilitates assembly but impedes negotiation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Accumulated grievance reaches mobilization threshold when triggered by specific events; social media creates feedback loops where seeing others protest reduces individual risk perception and raises participation.
+
+__Leadership & Personal Authority:__ Movements explicitly reject traditional leadership, though individual figures gain visibility through social media; feminist leaders, indigenous spokespersons, and student activists achieve prominence without formal authority structures.
+
+__Legitimacy as Lived Allegiance:__ Mass protest reflects withdrawal of legitimacy from incumbent governments, though movements struggle to construct positive legitimacy claims for alternatives.
+
+__Political Will & Collective Resolve:__ Initial mobilization demonstrates collective resolve, but sustaining presence over weeks or months exhausts activist energy; movements cycle between eruption and dormancy.
+
+__External Relations & Posture:__ Regional solidarity networks form across borders, Chilean and Colombian movements drawing tactical lessons from each other, feminist green wave spreading from Argentina throughout the region via shared symbolism and digital coordination.
+
+__Disaffection, Apathy & Spent Will:__ Post-mobilization depression affects activist cohorts when protests fail to achieve structural change; cycle of eruption and disappointment produces cynicism about protest efficacy, though new grievances restart the cycle.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Smartphone penetration enables broad participation in digital organizing, though rural and indigenous communities with limited connectivity remain partially excluded from platform-mediated coordination.
+
+__Channels & Transmission Velocity:__ WhatsApp groups and Telegram channels enable rapid coordination, protest calls spreading within hours; livestreaming from protests provides real-time visibility that amplifies presence.
+
+__Record, Storage & Persistence:__ Protest documentation creates archival record of state violence and movement activity, though platform dependence means content can be removed or accounts suspended; independent archival efforts remain limited.
+
+__Framing, Censorship & Discourse Norms:__ Platform content moderation occasionally removes movement content under violence policies; governments pressure platforms to restrict organizing while activists develop coded language and alternative channels.
+
+__Reception, Attention & Amplification:__ Virality determines which protests gain visibility, creating uneven amplification where photogenic moments or egregious violence attract attention while sustained organizing goes undocumented; hashtag campaigns create temporary attention spikes.
+
+__Signal Integrity & Noise Load:__ Misinformation about protests circulates alongside documentation, authorities releasing contradictory narratives, making coherent public understanding difficult; volume of content overwhelms verification capacity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Movements frame demands in rights language, appealing to constitutional guarantees versus lived reality; dignity becomes central concept, particularly in Chilean estallido's "It's not about 30 pesos, it's about 30 years."
+
+__Law, Codification & Regulatory Evolution:__ Protest demands include constitutional reform (Chile), legal change (abortion rights, police accountability), and enforcement of existing protections; movements oscillate between working within legal frameworks and direct action that exceeds them.
+
+__Adjudication, Liability & Sanction:__ Impunity for police violence during protests fuels further mobilization; cases against individual officers rarely result in conviction, gap between documented abuse and accountability feeding delegitimization.
+
+__Rights, Protections & Compliance Burden:__ Assembly and speech rights formally protected but practically constrained by state response; protesters develop legal support networks and know-your-rights information campaigns.
+
+__Impunity & Unredressed Wrong:__ Accumulated unaddressed grievance forms substrate for mobilization; movements explicitly invoke historical injustices alongside immediate triggers, connecting present protest to longer struggles.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic analysis of movements spreads via social media alongside organizing, scholars becoming public intellectuals who provide analytical frameworks that movements adopt for self-understanding.
+
+__Applied Knowledge & Technical Method:__ Tactical knowledge circulates digitally, techniques for dealing with tear gas, protecting against rubber bullets, evading surveillance, and maintaining communication during crackdowns spreading across borders.
+
+__Education, Knowledge Stock & Skill Distribution:__ University students disproportionately represented in movement leadership, their education providing both analytical skills and network density for organizing; extension of these capacities to broader populations occurs unevenly.
+
+__Obsolescence & Knowledge Decay:__ Lessons from earlier protest cycles partially lost as movements reconstitute with new participants; institutional memory weak in horizontal structures without formal archives or training programs.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Movements invoke historical precedents, connecting present protests to independence struggles, labor movements, and resistance to dictatorship; indigenous movements draw on pre-colonial memory.
+
+__Legitimating Narrative & Ideology:__ Rights discourse and anti-corruption framing provide movement legitimation; explicit ideology often thin, movements uniting around opposition rather than programmatic alternatives.
+
+__Artistic Expression & Material Culture:__ Protest art, murals, banners, and performance become movement content circulating on social media; feminist green handkerchiefs, Chilean black flag with white star, and Colombian protest imagery create visual identity that crosses borders.
+
+__Form Exhaustion & Meaning Decay:__ Hashtag campaigns and standard protest repertoires risk becoming routine, requiring continuous innovation in tactics and imagery to maintain attention; some symbols lose potency through repetition.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Movements articulate alternative visions of social organization, though typically secular in framing; indigenous movements integrate spiritual dimensions, connecting land rights to cosmological frameworks.
+
+__Ritual, Devotion & Sacred Practice:__ Protest gatherings develop quasi-ritual elements, repeated chants, candle vigils for victims, commemorative marches on anniversary dates; these practices create community and persist between mobilization peaks.
+
+__Religious Institutions & Doctrinal Authority:__ Catholic Church and evangelical movements play ambiguous roles, sometimes supporting protesters' rights, sometimes backing conservative opposition to movement demands; clerical statements amplified by both sides.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous spirituality gains visibility through movement participation, non-indigenous activists adopting symbols and practices in gestures of solidarity that range from respectful to appropriative.
+
+__Disenchantment & Sacred Discharge:__ Repeated cycles of mobilization and disappointment produce secularized despair about political change, protest energy redirected toward individual exit strategies or community-level mutual aid rather than systemic transformation.

@@ -1,69 +1,139 @@
-# __1750 CE – 1810 CE__ — Bourbon Reforms and Independence Ferment
-__Summary:__ A long-term trend covering the final decades of colonial rule in New Spain, when Bourbon administrative reforms restructured fiscal extraction and political authority while Enlightenment currents and creole grievances accumulated toward the 1810 independence rising. The binding constraint is the tension between metropolitan extraction demands and creole political exclusion, leaving diminishing margin against the revolutionary shock that closes the window; the principal direction of change is toward administrative centralization, fiscal intensification, and mounting political instability.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Mexican highlands centered on the Valley of Mexico, connected by mule trails to mining districts (Zacatecas, Guanajuato) and Gulf/Pacific ports; the Yucatan peninsula remained relatively isolated; overland transit slow and seasonal, limiting administrative reach.<br><br>
-__Climate Regime & Volatility:__ Temperate highlands with summer monsoon; semi-arid north; tropical Yucatan lowlands; periodic droughts and frosts disrupt maize harvests, with the 1785–1786 agricultural crisis causing widespread famine and mortality.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk in central highlands; volcanic activity quiescent; drought the primary hazard; the 1785 famine exposed the system's limited buffering capacity against harvest failure.<br><br>
-__Resource & Energy Endowment:__ Silver deposits still producing in Guanajuato, Zacatecas, and Real del Monte, though deeper shafts requiring mercury amalgamation and drainage pumps; timber depleted around mining centers; charcoal fuel increasingly scarce.<br><br>
-__Waste Absorption & Sink Capacity:__ Mining debris and mercury contamination around principal districts; deforestation and soil erosion in central highlands; urban sanitation rudimentary; absorptive capacity adequate for prevailing loads but locally degraded near mines.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic typhus, smallpox outbreaks periodic; indigenous populations somewhat recovered from earlier demographic catastrophe but still vulnerable; 1779 smallpox epidemic significant mortality; background death rates elevated.<br><br>
-__Nutrition & Physiological Vitality:__ Maize-bean-squash diet for indigenous and mestizo majority; periodic famine stress, especially 1785–1786 crisis causing documented starvation mortality; nutritional status fragile among rural poor.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Church-regulated marriage; mestizo population growing through unions across caste lines; fertility constrained by nutritional stress and epidemic mortality; selective pressures favor disease resistance.<br><br>
-__Demographic Renewal & Density:__ Population recovering toward perhaps 6 million by 1810; growth concentrated in central highlands and mining districts; urbanization increasing in Mexico City and provincial capitals; positive replacement ratios overall.<br><br>
-__Attrition & Dependency Overhang:__ Orphan and widow populations from epidemic mortality and mining accidents; religious institutions and kinship networks absorb some dependency load; burden manageable within existing structures but concentrated among poor.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Maize cultivation on indigenous community lands and haciendas; subsistence margins thin; 1785–1786 famine demonstrated proximity to carrying-capacity edge; pulque and maguey provide supplementary calories.<br><br>
-__Energy Capture & Conversion:__ Animal and human labor dominant; mule trains for transport; water-powered stamp mills at mines; per-capita energy ceiling limiting productivity growth; charcoal for smelting increasingly costly as forests recede.<br><br>
-__Labor Organization & Coercion:__ Repartimiento labor drafts declining; wage labor expanding in mining; hacienda peonage through debt; indigenous community obligations to alcaldes mayores; coercion decreasing nominally but economic compulsion persistent.<br><br>
-__Production & Surplus Capacity:__ Silver mining remains principal export; textile obrajes; agricultural haciendas; Bourbon reforms stimulate production through mercury supply and tax restructuring; surplus flow toward peninsular extraction.<br><br>
-__Storage, Reserves & Buffering:__ Alhondigas (public granaries) in major towns; hacendado grain storage; reserves insufficient for major famine as 1785–1786 demonstrated; credit instruments limited; buffering capacity thin.<br><br>
-__Exchange, Trade & Logistics:__ Internal markets regulated; alcabalas (sales taxes) collected at barriers; Veracruz monopoly on Atlantic trade loosened by comercio libre reforms (1778); mule trains and coastal shipping; infrastructure bottlenecks persistent.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coin and bullion; church lending through capellanias and juzgado de capellanias; 1804 Consolidacion decree forcing liquidation of church loans causes severe credit crisis and creole resentment.<br><br>
-__Surplus Extraction & Redistribution:__ Bourbon fiscal intensification raises tribute, alcabalas, tobacco and pulque monopoly revenues; remittances to Spain increase sharply; extraction load rises relative to colonial economy's capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Peninsular merchants and officials control trade; creole landowners and miners hold provincial wealth; indigenous communities defend communal lands through litigation; concentration intensifying under Bourbon extraction.<br><br>
-__Byproducts & Waste Routing:__ Mining tailings accumulate; mercury dispersal into streams; urban refuse in streets and canals; waste externalized to local sinks; recycling minimal; routing decisions favor immediate disposal over treatment.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship and compadrazgo networks provide informal security; indigenous community solidarity (cofradias, communal lands); trust radius ethnic and local; creole-peninsular tensions erode cross-stratum trust.<br><br>
-__Stratification, Status & Group Identity:__ Caste system (peninsular, creole, mestizo, indigenous, African-descent categories) legally encoded; status boundaries hardening under Bourbon racialized administration; creole identity crystallizing against peninsular privilege.<br><br>
-__Kinship, Family & Inheritance:__ Church-regulated marriage; partible inheritance among creoles; indigenous community norms; mayorazgo (entail) for elite families; household formation through church sanction; inheritance rules stable.<br><br>
-__Civic Association & Self-Organization:__ Guilds (gremios) regulate urban trades; cofradias organize religious and mutual aid; indigenous community governance (republicas de indios) persist; associational fabric thickening in creole literary and scientific circles.<br><br>
-__Leisure, Play & Sociability:__ Religious festivals structure communal time; bullfights, cockfights, gambling; paseo culture among elites; pulquerias for popular sociability; carnival and saints' days provide ritual release.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to audiencia; communal litigation over lands; religious confession and fiestas absorb tension; 1767 riots against Jesuit expulsion and 1810 Hidalgo rising indicate accumulated grievance exceeding discharge capacity.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Viceroy represents crown; audiencia provides judicial-administrative authority; intendancy system (from 1786) centralizes provincial administration; power centralizing toward peninsular appointees, away from creole participation.<br><br>
-__Succession & Power Transfer:__ Viceroys appointed from Madrid; intendants replace corregidores and alcaldes mayores; transfer by royal appointment; stability dependent on metropolitan continuity—Napoleon's 1808 invasion of Spain creates legitimacy crisis.<br><br>
-__Legitimacy & Political Narrative:__ Divine-right monarchy; paternal sovereign protection of vassals; creole intellectuals developing alternative narratives of American identity and rights; legitimacy eroding as extraction intensifies and peninsular exclusivity hardens.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bourbon reforms strengthen fiscal apparatus; census and survey capacity improves; corruption reduced but not eliminated; intendants more professional than predecessors; capacity high relative to earlier periods.<br><br>
-__Political Participation & Mobilization:__ No representative institutions; cabildos (town councils) provide limited creole voice; conspiracy circles form; 1808 Mexico City autonomist movement suppressed; mobilization channels constricted, pressure building.<br><br>
-__Geopolitical Position & External Relations:__ Colony subordinate to Spain; Bourbon alliance with France complicates Atlantic relations; British naval threat; isolation from European conflicts until 1808 peninsular crisis destabilizes colonial authority.<br><br>
-__Coercive Apparatus & Means of Force:__ Colonial militias organized for defense; regular troops limited; creole and mestizo militia officers emerge; fortifications at Veracruz, Acapulco; coercive apparatus adequate for routine order but untested against mass rising.<br><br>
-__Internal Order & Threat Environment:__ Banditry endemic on roads; indigenous riots occasional (1767, 1780s); conspiracies detected and suppressed; Hidalgo's 1810 rising overwhelms local capacity, marking breakdown of colonial internal order.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Manuscript dispatches by courier; weeks between Mexico City and provincial capitals, months to Madrid; printed gazettes (Gazeta de Mexico) circulating among literate elite; oral networks among popular classes.<br><br>
-__Record, Storage & Persistence:__ Viceregal archives; parish registers; notarial protocols; Bourbon administrative reforms generate extensive documentation; cathedral and convent libraries; manuscript persistence high within institutional custody.<br><br>
-__Framing, Censorship & Discourse Norms:__ Inquisition censorship of heterodox and prohibited books; Enlightenment texts circulate clandestinely; reform discourse permitted within limits; independence advocacy suppressed; discourse band narrowing under crisis.<br><br>
-__Reception, Attention & Amplification:__ Literate minority (perhaps 10–15% in cities, much lower rural); sermons and public ceremonies reach broader audience; gazettes amplify official information; clandestine pamphlets circulate among conspirators.<br><br>
-__Signal Integrity & Noise Load:__ Manuscript culture maintains accuracy within bureaucratic circuits; rumors and oral transmission introduce distortion; verification mechanisms limited outside official channels; noise manageable but increasing under political stress.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic moral framework; natural law traditions; sense of vassals' rights against arbitrary extraction; creole grievance against peninsular privilege framed as injustice; indigenous communities appeal to protective laws.<br><br>
-__Law, Codification & Regulatory Evolution:__ Laws of the Indies; Bourbon ordinances proliferate; commercial code reforms; intendancy regulations; legal framework complex, partially codified; evolution toward rationalization and fiscal efficiency.<br><br>
-__Adjudication, Enforcement & Liability:__ Audiencia as supreme court; alcaldes and intendants adjudicate locally; ecclesiastical courts for clerical and marital matters; enforcement uneven, favoring propertied; indigenous communities litigate land claims with some success.<br><br>
-__Rights, Protections & Compliance Burden:__ Indigenous tribute obligations; caste-based legal disabilities; creole property rights protected but political participation restricted; compliance burden increasing under Bourbon fiscal intensification.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity for violence against subordinates; Consolidacion of 1804 forces church property liquidation without adequate compensation; accumulated grievances against peninsular privilege constitute standing unredressed wrong.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Enlightenment natural philosophy spreading among educated creoles; scientific expeditions (Botanical Expedition, 1787); natural history surveys; empirical observation coexists with scholastic tradition; paradigm in transition.<br><br>
-__Applied Knowledge & Technical Method:__ Mining engineering techniques refined (drainage, amalgamation); Real Seminario de Mineria founded 1792; agricultural improvement proposals; applied knowledge advancing in extractive industries.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities (Mexico, others) train clergy and lawyers; Colegio de San Ildefonso educates creole elite; primary education through church limited; literacy perhaps 15–20% urban, much lower rural; knowledge concentrated in elite.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic curriculum increasingly obsolete against Enlightenment standards; indigenous knowledge systems marginalized; some practical knowledge lost as mining districts deplete; decay proceeding alongside innovation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Creole patriotism developing around Guadalupe cult, Aztec past reinterpreted as American heritage; indigenous communities maintain separate memory traditions; foundational narratives diverging by caste and region.<br><br>
-__Artistic Expression & Material Culture:__ Baroque architecture and retablos; late colonial painting (Miguel Cabrera school); religious sculpture and silverwork; neoclassical influence arriving; material culture richly developed within colonial idiom.<br><br>
-__Collective Mood & Behavioral Disposition:__ Creole resentment intensifying; indigenous communities defensive of communal rights; popular anxiety around subsistence; 1808 creates uncertainty; mood darkening toward confrontation by 1810.<br><br>
-__Form Exhaustion & Meaning Decay:__ Baroque religious forms highly elaborated, verging on exhaustion; some creole intellectuals turning toward neoclassical and Enlightenment modes; traditional ritual retains vitality among popular classes; renewal and decay coexisting.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic providentialist worldview dominant; indigenous syncretic traditions persist beneath official orthodoxy; Enlightenment deism circulating among educated minority; existential outlook still framed by salvation narrative.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass attendance obligatory; feast days, processions, pilgrimages structure devotional life; Guadalupe pilgrimage central; rosary and confession widespread; devotional practice highly elaborated.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Secular clergy and religious orders control parishes and missions; Jesuit expulsion (1767) removes major intellectual force; episcopal authority strong; Inquisition enforces orthodoxy; institutional power high but challenged by Bourbon regalism.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous-Catholic syncretism stable; evangelical expansion to northern frontiers; Enlightenment secularism marginal; dominant Catholicism unchallenged in popular devotion; diffusion patterns stable.<br><br>
-__Disenchantment & Sacred Discharge:__ Enlightenment rationalism among educated minority constitutes incipient disenchantment; popular piety remains robust; Hidalgo's rising uses religious symbols (Guadalupe banner), indicating sacred meaning still politically potent; disenchantment contained within elite circles.<br><br>
+# __1750 CE – 1810 CE — Bourbon Reforms and Independence Ferment__
+
+__Summary:__ The Bourbon reforms impose rationalized extraction and centralized administration on New Spain, generating unprecedented documentary apparatus while simultaneously cultivating the creole grievances and Enlightenment-inflected print culture that will dissolve the colonial order; the binding constraint is the contradiction between administrative intensification and the political exclusion it enforces.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The viceroyalty spans from Guatemala to California, with the Mexican highlands concentrating population, administration, and the richest mining districts at Guanajuato, Zacatecas, and Real del Monte; distance from Madrid remains a fundamental friction that Bourbon efficiency campaigns cannot overcome — orders take months to arrive, responses months more, and local officials retain discretionary space regardless of reformist intent.
+
+__Climate Regime & Volatility:__ The decades after 1785 bring severe climatic stress: the agricultural crisis of 1785–1786 follows failed rains and early frosts, producing famine mortality exceeding 300,000 and revealing the fragility of the maize-provisioning floor; subsequent droughts in 1808–1810 intensify the social pressures accumulating toward insurgency.
+
+__Hazard Regime & Exposure:__ Earthquakes strike Mexico City in 1753 and periodically damage provincial towns; the rebuilding generates administrative records and architectural commissions but drains treasury reserves needed elsewhere.
+
+__Resource & Energy Endowment:__ Silver extraction reaches its colonial apogee: the Guanajuato district alone produces over 20 million pesos annually by the 1790s; mercury supply from Almaden remains the critical bottleneck, and Bourbon efforts to increase allocation and reduce smuggling aim to maximize Crown revenues from this irreplaceable resource base.
+
+__Waste Absorption & Sink Capacity:__ Mining operations intensify deforestation for timber and charcoal; hacienda expansion degrades marginal lands; urban growth concentrates waste in capitals without sanitary infrastructure adequate to the load — the viceroy's repeated public health ordinances document the saturation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Epidemic cycles continue: smallpox returns in 1761–1762 and typhus (matlazahuatl) strikes in 1761–1764 and 1813; mortality remains heavily stratified, with indigenous communities bearing the greatest burden; the Crown sponsors smallpox vaccination campaigns after 1804, documenting inoculation in parish records.
+
+__Nutrition & Physiological Vitality:__ The 1785–1786 famine exposes structural vulnerability: maize prices triple, urban poor starve, rural communities sell land to survive; physiological indicators suggest chronic undernutrition among lower strata even in non-crisis years.
+
+__Care, Healing & Recovery Capacity:__ Hospital capacity expands modestly under Bourbon stimulus: the Hospital de San Andres and Hospital Real de Naturales serve Mexico City; provincial hospitals remain few; botanical expeditions document medicinal plants but healing practice reaches only limited strata.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns remain heavily regulated by caste legislation; the 1776 Royal Pragmatic on Marriages requires parental consent, generating extensive documentation and litigation when families contest unsuitable unions.
+
+__Demographic Renewal & Density:__ Population recovers strongly: the indigenous population, which had bottomed near 1.5 million in the seventeenth century, exceeds 3.5 million by 1810; total viceregal population approaches 6 million; this growth outpaces employment and land availability, generating the mobile poor who will become insurgent recruits.
+
+__Attrition & Dependency Overhang:__ Famine orphans, mining casualties, and epidemic survivors accumulate; ecclesiastical and municipal charity struggles to absorb the dependent load; the dependency is documented in parish death registers and poor relief petitions.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The alhondiga system regulates maize distribution to cities; the 1785–1786 crisis reveals its inadequacy — granaries empty, speculators hoard, the poor starve; Viceroy Galvez's emergency measures generate extensive documentation but cannot prevent mass mortality.
+
+__Energy Capture & Conversion:__ Mining consumes vast labor and animal power; draft animals multiply; charcoal and firewood extraction accelerates; the energy base remains organic, with no mechanical innovation breaking the ceiling.
+
+__Labor Organization & Coercion:__ The repartimiento system declines but hacienda debt peonage intensifies; mining labor combines free wage workers, draft indigenous labor, and convict gangs; obraje textile workshops employ coerced labor; the labor regime generates grievances documented in petitions and litigation.
+
+__Production & Surplus Capacity:__ Silver production peaks around 27 million pesos annually in the 1800s; textile obrajes, tobacco monopoly manufactures, and agricultural haciendas generate substantial output; the surplus flows disproportionately to peninsular interests and Crown coffers.
+
+__Storage, Reserves & Buffering:__ The viceregal treasury chronically remits surplus to Spain; reserves are thin when crisis arrives; the consolidacion de vales reales (1804–1809) forces redemption of Church capital, draining the colony's accumulated credit reserves and generating lasting resentment.
+
+__Exchange, Trade & Logistics:__ Bourbon comercio libre reforms (1778 onward) diversify Atlantic ports but disrupt established merchant networks; internal trade expands along improved roads; the consulado (merchant guild) documents commercial flows while resisting liberalization.
+
+__Value Storage, Credit & Deferred Exchange:__ The Church functions as the primary credit institution; capellanias and obras pias provide capital; the consolidacion forces liquidation, disrupting the entire credit system and impoverishing borrowers from hacendados to parishes.
+
+__Surplus Extraction & Redistribution:__ Bourbon taxation intensifies: alcabala rates increase, new monopolies (tobacco, pulque, playing cards) extract revenue, mining taxes are rationalized; total Crown revenue from New Spain doubles between 1765 and 1800; this extraction is meticulously documented in treasury accounts.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in merchant and mining oligarchies; the creole elite accumulates but faces peninsular competition for highest offices; land titles proliferate as elites document holdings against reform threats.
+
+__Byproducts & Waste Routing:__ Mining waste accumulates in tailings; urban refuse concentrates; the economic expansion generates material and social detritus — vagrants, unemployed castas, displaced peasants — that administrative reforms cannot absorb.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Elite families practice strategic marriage to consolidate landholding; entailed estates (mayorazgos) preserve patrimony across generations; the 1776 marriage pragmatic inserts state authority into family formation.
+
+__Association & Mutual Aid:__ Confraternities (cofradias) remain the primary mutual aid structure; they manage burial insurance, festival organization, and community funds; Bourbon anticlerical pressure threatens their autonomy; indigenous cajas de comunidad (community treasuries) face royal appropriation.
+
+__Leisure, Play & Sociability:__ Tertulias (salon gatherings) among the elite circulate Enlightenment texts; bullfights, religious festivals, and theatrical performances structure public sociability; the Coliseo de Mexico stages plays; sociability generates the networks through which independence sentiment will spread.
+
+__Stratification, Status & Group Structure:__ The sistema de castas hardens: elaborate racial taxonomies (casta paintings) document the stratification; peninsulares monopolize high office; creoles resent exclusion; indigenous communities retain corporate land but face encroachment; castas occupy ambiguous middle positions.
+
+__Administrative Capacity & Institutional Integrity:__ Bourbon reforms create intendancies (1786) to rationalize provincial administration; the Tribunal de Mineria regulates mining; the tobacco monopoly builds state capacity; census-taking (1790–1793) generates comprehensive population documentation; yet corruption persists and reforms generate resistance.
+
+__Coercive Apparatus & Means of Force:__ The colonial militia expands under Bourbon stimulus; creole officers gain military experience; fortifications are upgraded; yet the apparatus remains thin — fewer than 30,000 regular and militia forces for 6 million inhabitants; this weakness will enable insurgent success.
+
+__Discharge, Disorder & Decay:__ Rural banditry increases; the 1767 expulsion of Jesuits provokes riots; indigenous communities resist tribute increases and land encroachment; the social fabric frays at the margins even as administrative documentation expands.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Creole resentment intensifies: exclusion from high office, commercial restrictions, and peninsular arrogance generate grievances; the consolidacion enrages propertied classes; by 1808 the sentiment has crystallized toward autonomy if not yet independence.
+
+__Leadership & Personal Authority:__ Viceroy Revilla Gigedo II (1789–1794) exemplifies enlightened administration; later viceroys lack his capacity; creole leaders — Allende, Aldama, the Corregidora — emerge in conspiracies; Hidalgo's personal authority among his parishioners proves decisive.
+
+__Legitimacy as Lived Allegiance:__ The French invasion of Spain (1808) and Ferdinand VII's captivity shatter the legitimacy basis; the question of sovereignty — residing in king, junta, or people — becomes open; colonial subjects debate where allegiance lies when the king is captive.
+
+__Political Will & Collective Resolve:__ The 1808 Mexico City crisis reveals factional division: the audiencia coup against Viceroy Iturrigaray demonstrates peninsular determination to retain control; creole conspiracies proliferate thereafter; by September 1810 Hidalgo's grito marshals collective will toward open revolt.
+
+__External Relations & Posture:__ The colony remains subordinate to Madrid; Atlantic communication carries orders, goods, and ideas; the French Revolution and Haitian Revolution generate anxiety and inspiration in equal measure; Spanish alliance shifts and conflicts affect colonial trade and defense.
+
+__Disaffection, Apathy & Spent Will:__ The 1785–1786 famine exhausts the rural poor; repeated tribute demands exhaust patience; by 1810 accumulated disaffection is ready to discharge in insurgency.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy remains restricted but expands among urban elites and colonial administrators; indigenous literacy in alphabetic Nahuatl and Maya persists in community documentation; the printing press in Mexico City produces religious works, administrative decrees, and increasingly secular texts.
+
+__Channels & Transmission Velocity:__ The Gazeta de Mexico (founded 1784) establishes regular periodical circulation; pamphlets multiply after 1808; correspondence networks among conspirators demonstrate the velocity of manuscript communication within the elite.
+
+__Record, Storage & Persistence:__ Administrative documentation reaches unprecedented density: census records, tax rolls, mining accounts, ecclesiastical registers, notarial archives; the consolidacion requires detailed inventories of Church capital; the archive as institution expands.
+
+__Framing, Censorship & Discourse Norms:__ Inquisition censorship persists but cannot prevent circulation of prohibited texts; Enlightenment works reach New Spain through smuggling and official channels; the 1808 crisis generates open debate in print and pamphlet.
+
+__Reception, Attention & Amplification:__ Tertulias and reading circles amplify texts among the lettered elite; sermons carry messages to the illiterate; the Grito de Dolores demonstrates how oral proclamation can mobilize masses beyond the reach of print.
+
+__Signal Integrity & Noise Load:__ Rumor networks carry distorted information; the 1808 crisis generates competing accounts; the documentary record accumulates but verification lags — the archive grows faster than interpretation can follow.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Enlightenment natural rights discourse penetrates creole consciousness; the traditional compact between Crown and colonies is questioned; taxation without representation becomes a grievance; equality before law is asserted against casta hierarchy.
+
+__Law, Codification & Regulatory Evolution:__ The Bourbon program generates extensive legislation: the 1786 Ordinance of Intendants, mining ordinances, commercial regulations; law proliferates but enforcement remains uneven.
+
+__Adjudication, Liability & Sanction:__ Colonial courts handle expanding caseloads; appeals to Spain take years; indigenous communities litigate land disputes; the system delivers justice slowly and unevenly.
+
+__Rights, Protections & Compliance Burden:__ Casta status restricts rights differentially; the compliance burden of Bourbon documentation falls on all strata; indigenous communities spend heavily to defend land titles in court.
+
+__Impunity & Unredressed Wrong:__ The peninsular coup against Iturrigaray (1808) demonstrates that law yields to force; creole grievances accumulate unaddressed; the gap between justice owed and delivered widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Enlightenment science reaches New Spain: the Royal Botanical Expedition (1787–1803) surveys flora; the Mining Seminary teaches modern mineralogy; geography, astronomy, and natural history advance.
+
+__Applied Knowledge & Technical Method:__ Mining technology improves modestly; the patio process for silver amalgamation is refined; agricultural technique remains traditional; the gap between European innovation and colonial application persists.
+
+__Education, Knowledge Stock & Skill Distribution:__ The Royal and Pontifical University graduates theologians and lawyers; the School of Mines trains engineers; Jesuit expulsion (1767) disrupts secondary education; literacy expands slowly but remains minority.
+
+__Obsolescence & Knowledge Decay:__ Scholastic paradigms persist in universities while Enlightenment thought circulates outside; indigenous technical knowledge continues in communities; the transition between frameworks generates both innovation and loss.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Creole patriotism develops: the cult of the Virgin of Guadalupe anchors Mexican identity; pre-Columbian antiquities are recuperated as creole heritage; Clavijero's Storia antica del Messico (1780–1781) defends American civilization.
+
+__Legitimating Narrative & Ideology:__ The colonial order legitimates itself through divine right and paternal protection; Bourbon reforms invoke rational improvement; creole counter-narratives invoke natural rights, historical rights of the conquered, and American exceptionalism.
+
+__Artistic Expression & Material Culture:__ Late Baroque and Neoclassical styles coexist; Mexico City's rebuilt cathedral combines both; portraiture documents the elite; casta paintings codify racial hierarchy in visual form; material culture reflects both metropolitan fashion and local adaptation.
+
+__Form Exhaustion & Meaning Decay:__ Baroque forms exhaust themselves; Neoclassicism arrives as official style but lacks popular roots; the symbolic vocabulary of the old regime begins to hollow as independence sentiment rises.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology remains dominant but Enlightenment deism penetrates the elite; the question of Providence in political change becomes urgent after 1808; faith and reason are renegotiated.
+
+__Ritual, Devotion & Sacred Practice:__ Public religious festivals remain central to urban life; Marian devotion intensifies; confraternities maintain ritual calendars; the rhythm of the sacred year structures experience.
+
+__Religious Institutions & Doctrinal Authority:__ The Church retains immense wealth and institutional reach; Bourbon regalism subjects it to royal control; the 1767 Jesuit expulsion demonstrates state power over ecclesiastical institutions; the consolidacion attacks Church capital.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous Christianity maintains syncretic elements; popular devotion incorporates pre-Columbian practices; the Church tolerates what it cannot eradicate.
+
+__Disenchantment & Sacred Discharge:__ Elite Enlightenment generates skepticism; anticlericalism spreads among the lettered; yet popular piety remains strong — Hidalgo's banner of Guadalupe demonstrates that insurgency will mobilize sacred symbols, not secular abstractions.

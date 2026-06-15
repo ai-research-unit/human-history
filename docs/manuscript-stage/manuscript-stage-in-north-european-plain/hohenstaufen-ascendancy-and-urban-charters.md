@@ -1,69 +1,139 @@
-# __1150 CE – 1200 CE__ — Hohenstaufen Ascendancy and Urban Charters
-__Summary:__ The North European Plain during the latter twelfth century consolidates under Hohenstaufen imperial ambitions while urban foundations proliferate along Rhineland-Baltic trade routes; the binding constraint is the tension between ducal autonomy and imperial centralizing claims, with Henry the Lion's fall in 1180 marking the pivot; the system holds substantial margin against shocks through expanding agricultural surplus and multiplying commercial nodes; the principal direction is toward documented urban privilege, standardized law codes, and deepening manuscript administration.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor from Rhine to Vistula permits lateral movement with minimal topographic friction; major rivers — Rhine, Weser, Elbe, Oder — channel north-south traffic to Baltic and North Sea ports; coastal marshlands and interior forests impose friction at the margins but the plain itself offers low-resistance transit.<br><br>
-__Climate Regime & Volatility:__ Medieval Warm Period continues; mild winters, longer growing seasons, and adequate rainfall sustain agricultural expansion; interannual variability is moderate, with occasional harsh winters recorded but no sustained adverse drift during this window.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along major rivers is the primary acute hazard; North Sea storm surges threaten coastal lowlands; no seismic or volcanic exposure; the system holds adequate margin with existing flood management and settlement siting.<br><br>
-__Resource & Energy Endowment:__ Extensive forests supply timber and fuel; arable soils in loess belts support grain surplus; salt deposits at Lüneburg fuel trade; iron and silver accessible in Harz uplands; fisheries in Baltic and North Sea; stock remains abundant relative to extraction rates.<br><br>
-__Waste Absorption & Sink Capacity:__ Dispersed settlement and extensive landscape absorb agrarian and urban waste with negligible accumulation; watercourses carry effluent; absorptive capacity remains far above current loads.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases — dysentery, typhus, smallpox — impose a steady background mortality; no major epidemic events recorded in this window; mortality rates are stable and within renewal capacity.<br><br>
-__Nutrition & Physiological Vitality:__ Expanding agricultural output and trade in preserved fish and grain support adequate caloric intake for most of the population; nutritional status is stable or modestly improving; skeletal evidence suggests statures comparable to early modern norms.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Church-regulated marriage remains standard; age at marriage moderately early; fertility patterns sustain population growth; no major disruptions to pairing or fertility evident.<br><br>
-__Demographic Renewal & Density:__ Population growing across the window, driven by agricultural expansion and internal colonization; density increasing in urban centers and newly cleared lands; growth rate positive but not straining carrying capacity.<br><br>
-__Attrition & Dependency Overhang:__ Standard dependency ratios with moderate proportions of young and aged; monastic houses and episcopal charity absorb some orphans and indigent; no crisis-level dependency accumulation.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Expanding arable land through forest clearance and marsh drainage raises the subsistence floor; household pooling and manorial structures buffer against local shortfalls; the population sits comfortably above the carrying-capacity edge.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; watermills proliferate for grain processing; windmills appearing in coastal regions; energy capture adequate for current production demands with room for expansion.<br><br>
-__Labor Organization & Coercion:__ Serfdom and corvée obligations persist on manorial estates; urban artisans increasingly organized in nascent guilds; wage labor emerging in towns; coercion levels moderate and stable, with urban charters offering some freedoms.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus expanding; urban craft production — textiles, metalwork, construction — growing; output ceiling rising with new lands under cultivation and trade expansion; surplus flow above subsistence is healthy.<br><br>
-__Storage, Reserves & Buffering:__ Granaries in manorial complexes and urban warehouses; merchant stocks buffer against supply disruptions; reserve depth adequate for normal interannual variation.<br><br>
-__Exchange, Trade & Logistics:__ Trade networks thickening along Rhine-Baltic axis; Lübeck refounded 1159 as gateway to Baltic; Cologne as Rhineland hub; long-distance trade in cloth, grain, salt, furs; infrastructure improving but inland roads remain seasonal.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coinage circulating more widely; credit arrangements emerging among merchants; monastic institutions serve as credit intermediaries; currency relatively stable; deferred exchange expanding.<br><br>
-__Surplus Extraction & Redistribution:__ Imperial and ducal taxation irregular and contested; ecclesiastical tithes more reliable; town charters stipulate fiscal obligations; extraction load moderate relative to expanding surplus base.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrated in landed nobility, episcopal sees, and emerging merchant families; urban charters create new wealth nodes; concentration widening slightly but new entrants possible.<br><br>
-__Byproducts & Waste Routing:__ Agricultural, craft, and urban waste dispersed locally; tanning and metalworking effluent channeled to watercourses; volume modest relative to dispersal capacity; no significant accumulation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends beyond kin through guild solidarities, town communes, and parish networks; reciprocity structures operating effectively; trust radius widening with urban growth.<br><br>
-__Stratification, Status & Group Identity:__ Tripartite orders — clergy, nobility, peasantry — remain the conceptual framework; urban burgher class emerging as distinct stratum; boundaries somewhat permeable through commerce and charter grants.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance dominant among nobility; partible inheritance common among peasantry; urban families developing testamentary practices; marriage alliances consolidate property.<br><br>
-__Civic Association & Self-Organization:__ Town communes securing charters from territorial lords; nascent guild structures organizing crafts; parish confraternities active; associational fabric thickening in urban contexts.<br><br>
-__Leisure, Play & Sociability:__ Fairs, markets, and religious festivals structure collective leisure; tournaments among nobility; tavern sociability in towns; feast days punctuate the calendar.<br><br>
-__Grievance Channels & Social Discharge:__ Church mediation, manorial courts, and emerging town courts absorb disputes; charter privileges provide legal channels; grievance mostly metabolized but tensions between burgher and noble interests simmer.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Frederick Barbarossa (1152–1190) reasserts imperial authority after Investiture conflicts; power contested between emperor, territorial dukes (especially Henry the Lion), and episcopal lords; centralizing pressure meets ducal resistance.<br><br>
-__Succession & Power Transfer:__ Imperial succession contested but Hohenstaufen lineage holds; ducal succession more stable within lineages; Henry the Lion's fall (1180) redistributes power; transfer mechanisms functioning but under strain.<br><br>
-__Legitimacy & Political Narrative:__ Imperial ideology invokes Roman heritage and divine mandate; Barbarossa's renovatio imperii; legitimacy broadly accepted but territorial princes increasingly assert autonomous claims.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Imperial administration relies on itinerant court and episcopal apparatus; ducal chanceries developing; town administrations emerging with charter-based competences; capacity growing but still limited; records increasingly written.<br><br>
-__Political Participation & Mobilization:__ Participation limited to nobility, high clergy, and urban elites through diets and councils; broader mobilization through military levies; no popular political channels; elite consensus required for major decisions.<br><br>
-__Geopolitical Position & External Relations:__ Empire dominant in central Europe; Barbarossa's Italian campaigns absorb resources; relations with papacy strained then partially reconciled; Wendish frontier under pressure; crusading involvement draws off elite attention.<br><br>
-__Coercive Apparatus & Means of Force:__ Feudal military obligations provide cavalry core; castle construction intensifies; siege warfare developing; command fragmented among emperor, dukes, and bishops; no standing forces.<br><br>
-__Internal Order & Threat Environment:__ Feuds between nobles endemic but contained by truces and arbitration; banditry present but not overwhelming; disorder within enforcement capacity but margin slim in contested areas.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Messengers, itinerant clergy, and merchants carry information along trade and pilgrimage routes; oral proclamation at markets and churches; velocity measured in days or weeks across the plain.<br><br>
-__Record, Storage & Persistence:__ Monastic scriptoria copy and preserve texts; episcopal and ducal chanceries produce charters; town archives beginning to accumulate founding documents; parchment ensures multi-generational persistence; retrieval dependent on institutional continuity.<br><br>
-__Framing, Censorship & Discourse Norms:__ Latin remains the language of formal record; vernacular emerging in practical contexts; ecclesiastical gatekeeping on theological matters; secular discourse relatively unpoliced; discourse norms stable.<br><br>
-__Reception, Attention & Amplification:__ Literate audience small — clergy, administrators, some merchants; oral amplification through preaching and public reading; attention concentrated at courts, markets, and religious centers.<br><br>
-__Signal Integrity & Noise Load:__ Verification through seals, witnesses, and cross-referencing; noise load low given limited information volume; signal integrity adequate for administrative and commercial needs.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian morality provides baseline; customary law embodies community norms; concepts of honor, oath-keeping, and just compensation widely shared; justice sense stable.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary law dominant but increasingly written; Lübeck law codified and spreading as model for Baltic towns; Magdeburg law developing; charter grants establish urban legal autonomy; active codification trend.<br><br>
-__Adjudication, Enforcement & Liability:__ Manorial courts, episcopal tribunals, and emerging town courts handle disputes; imperial court for high matters; enforcement dependent on local power; liability assigned through ordeal, oath, and compensation; throughput adequate for caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Townspeople gain defined rights through charters — personal freedom, property, market access; compliance burden moderate; predictability increasing in chartered areas.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lords sometimes evade accountability; feuds substitute for formal redress among nobility; impunity present but not system-wide; redress capacity keeps pace with most claims.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cathedral school learning emphasizes trivium and quadrivium; early scholastic method developing; Aristotelian texts arriving via translations; theological and legal inquiry dominant; natural philosophy subordinate.<br><br>
-__Applied Knowledge & Technical Method:__ Improved agricultural techniques — three-field rotation, heavy plough, horse harness — widely applied; construction methods advancing with Romanesque and early Gothic architecture; metallurgy and mining techniques developing.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Cathedral schools in Cologne, Magdeburg, Hildesheim train clergy and administrators; monastic education continues; literacy confined to clerical and administrative strata; skill distribution narrow but deepening.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical texts preserved but not all accessible; some knowledge lost in transmission; active copying maintains core corpus; decay rate manageable; scholastic synthesis beginning to rationalize inherited material.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Germanic heritage blended with Christian salvation narrative; Carolingian and Ottonian legacies invoked; imperial ideology frames collective memory; local saints and foundation myths anchor regional identities.<br><br>
-__Artistic Expression & Material Culture:__ Romanesque architecture dominant — stone churches, castles, town walls; manuscript illumination flourishing; liturgical objects in metalwork and ivory; visual idiom stable but Gothic influences arriving.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence from agricultural and commercial expansion; crusading enthusiasm channels religious fervor; optimism tempered by awareness of sin and judgment; mood generally stable and forward-looking.<br><br>
-__Form Exhaustion & Meaning Decay:__ Romanesque forms remain vital; religious symbolism retains power; no significant form exhaustion evident; cultural forms actively renewed through building, manuscript production, and liturgical elaboration.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology universal — creation, fall, incarnation, judgment; earthly life as pilgrimage; piety oriented toward salvation; fatalism regarding divine providence balanced by efficacy of sacraments and good works.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, confession, feast days, pilgrimages structure religious life; relic veneration widespread; monastic hours set rhythm for clergy; lay participation through attendance and donations.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Episcopal and monastic structures dominant; cathedral chapters and collegiate churches; papal authority recognized but distant; doctrinal orthodoxy maintained through episcopal oversight; Cistercian expansion brings reformed monasticism.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity fully established across the plain; Wendish frontier still sees mission activity; no syncretism in core areas; pagan residues vestigial at most; orthodox Christianity advancing.<br><br>
-__Disenchantment & Sacred Discharge:__ No significant secularizing drift; sacred canopy intact; spiritual needs answered within Christian framework; no standing disenchantment evident.<br><br>
+# __1150 CE – 1200 CE — Hohenstaufen Ascendancy and Urban Charters__
+
+__Summary:__ The North European Plain at the apogee of Hohenstaufen imperial power, where Frederick Barbarossa's campaigns and charter grants bind towns to the crown while simultaneously licensing the urban autonomy that will outlast imperial authority itself — the binding constraint is the structural tension between imperial reach and the written privileges that empower towns to act independently once inscribed.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The plain's low gradient permits easy overland movement but disperses settlement; rivers — Rhine, Weser, Elbe, Oder — remain the primary freight corridors, and towns cluster at crossings, confluences, and portage points where tolls can be levied and goods transshipped.
+
+__Climate Regime & Volatility:__ The Medieval Climate Optimum continues, delivering mild winters and dependable summer rains; grain yields remain high, and the agricultural surplus underwrites both urban provisioning and monastic expansion into previously marginal wetlands.
+
+__Hazard Regime & Exposure:__ Flood risk along the major rivers is routine; dyke construction along the North Sea coast and Rhine delta intensifies under Flemish expertise, reclaiming polders while imposing communal maintenance obligations that reinforce local corporate identity.
+
+__Resource & Energy Endowment:__ Timber remains abundant in the eastern forests; Harz silver mines supply coin; Lüneburg salt fuels curing industries; peat is cut along the coast for fuel; no acute resource bottleneck constrains the half-century's expansion.
+
+__Waste Absorption & Sink Capacity:__ Towns discharge effluent into rivers; tanneries, dyers, and slaughterhouses concentrate downstream, and urban growth begins to foul water supplies, though settlement density has not yet saturated local sinks.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic fevers, flux, and childhood ailments thin cohorts, but no major plague circulates; mortality remains at a pre-Black-Death baseline, and population grows steadily.
+
+__Nutrition & Physiological Vitality:__ Grain and legume surpluses, supplemented by herring and salt meat, support physical robustness; famine is local and episodic rather than regional.
+
+__Care, Healing & Recovery Capacity:__ Monastic infirmaries and urban hospices provide elementary wound care and nursing; learned medicine remains Galenic, confined to cathedral schools and the emerging university at Salerno; most treatment is folk remedy and clerical prayer.
+
+__Reproductive Biology & Pairing Dynamics:__ Church marriage discipline is tightening through synodal legislation; noble dynasties negotiate alliances through betrothal charters, while urban artisans marry within guild and neighborhood networks.
+
+__Demographic Renewal & Density:__ High fertility offsets child mortality; net population growth is positive; towns receive rural migrants faster than walls can expand, pressing against established boundaries.
+
+__Attrition & Dependency Overhang:__ Monasteries and urban hospitals absorb some dependent load; warfare and crusade drain young men intermittently, but no structural overhang constrains the labor supply.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Three-field rotation and communal pasturing secure a stable grain floor; most peasants hold enough to subsist, though obligations to lord and tithe constrain the margin.
+
+__Energy Capture & Conversion:__ Human and animal muscle predominate; watermills multiply along tributaries, grinding grain and fulling cloth; wind power is nascent on the coast.
+
+__Labor Organization & Coercion:__ Serfdom persists in the countryside, but urban residence for a year and a day confers freedom — an incentive for migration; artisans organize into nascent craft guilds under civic oversight.
+
+__Production & Surplus Capacity:__ Cloth production in Flanders and the Rhineland intensifies; Harz mining expands; grain surpluses from eastern clearings begin to flow westward; productive capacity trends upward.
+
+__Storage, Reserves & Buffering:__ Granaries in monasteries and town cellars buffer harvest failure; credit remains personal and short-term, limiting reserve pooling.
+
+__Exchange, Trade & Logistics:__ Cologne dominates Rhine trade; Lübeck, newly refounded (1143), begins its Baltic reach; fairs at Champagne draw northern cloth south; merchant hansas coalesce around shared privilege and mutual protection.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver coin circulates; debasement is localized; letters of credit and deferred payment emerge among long-distance merchants, though formal banking instruments await Italian models.
+
+__Surplus Extraction & Redistribution:__ Imperial taxation is weak; lords extract through demesne agriculture and tolls; towns purchase charter privileges with lump-sum payments, converting surplus into written autonomy.
+
+__Wealth Distribution & Asset Defense:__ Landed wealth concentrates among ecclesiastical lords and high nobility; urban merchants accumulate movable wealth shielded by civic walls and charter privilege.
+
+__Byproducts & Waste Routing:__ Urban crafts dump organic waste into streets and rivers; recycling of rags and bones is informal; no systemic waste crisis yet emerges.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Noble inheritance follows primogeniture with partible provision for cadets; ministeriales (unfree knights) rise through service; urban dynasties form around guild and merchant lineages.
+
+__Association & Mutual Aid:__ Guilds regulate craft entry and standards; confraternities provide burial and charity; merchant hansas pool risk on long voyages.
+
+__Leisure, Play & Sociability:__ Market fairs, church feasts, and civic processions punctuate the calendar; tournaments display noble status; taverns and bathhouses serve urban sociability.
+
+__Stratification, Status & Group Structure:__ The tripartite schema — those who pray, fight, and work — frames ideology, but ministeriales blur the line between noble and unfree, and urban patricians claim dignity outside feudal hierarchy.
+
+__Administrative Capacity & Institutional Integrity:__ Imperial chancery at the itinerant court issues diplomas; episcopal and monastic chanceries maintain local archives; town councils emerge under charter, keeping civic registers and court rolls.
+
+__Coercive Apparatus & Means of Force:__ Imperial authority rests on feudal host summons; castle-building proliferates among princes; towns maintain walls, gates, and armed citizen militias; no standing army exists.
+
+__Discharge, Disorder & Decay:__ Feuds between ministeriales and nobles flare; urban riots over market rights occur; mediation through episcopal courts and royal intervention contains but does not eliminate factional violence.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Crusading fervor persists; civic pride rises in newly chartered towns; confidence in expansion colors the mood.
+
+__Leadership & Personal Authority:__ Frederick Barbarossa dominates through personal charisma, military prowess, and itinerant presence; his authority is intensely personal, and succession after his death on crusade (1190) immediately strains the system.
+
+__Legitimacy as Lived Allegiance:__ Imperial legitimacy rests on coronation, descent, and Carolingian memory; towns accept imperial overlordship in exchange for charter privileges that bind both parties in written mutual obligation.
+
+__Political Will & Collective Resolve:__ Barbarossa's campaigns in Italy consume will and treasure; northern princes cooperate when summoned but prioritize territorial consolidation; towns assert collective will through oath-bound councils.
+
+__External Relations & Posture:__ The Empire faces the papacy over Italian claims; Barbarossa's alliance with Henry the Lion collapses (1180), and the duke's fall redistributes power among lesser princes; relations with France and England are mediated through marriage diplomacy.
+
+__Disaffection, Apathy & Spent Will:__ Henry the Lion's humiliation embitters the Welf faction; Italian exhaustion spreads among the ministeriales; succession uncertainty after 1190 leaves latent disaffection unresolved.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Latin remains the learned and legal language; vernacular German spreads in preaching and popular epic (Nibelungenlied, Parzival composed in this milieu); literacy is clerical and notarial, not mass.
+
+__Channels & Transmission Velocity:__ Messengers carry letters along trade routes; news travels at horse speed, weeks for distant courts; itinerant court and fair networks diffuse information.
+
+__Record, Storage & Persistence:__ Parchment charters, sealed with wax, constitute the authoritative record; monastic scriptoria copy and archive; cathedral and chancery archives accumulate diplomas and registers.
+
+__Framing, Censorship & Discourse Norms:__ Church synods police heresy; imperial bans on disturbers of the peace frame legitimate discourse; chroniclers write within patronage constraints.
+
+__Reception, Attention & Amplification:__ Court audiences, church congregations, and market crowds receive oral proclamation; written documents are read aloud and witnessed.
+
+__Signal Integrity & Noise Load:__ Forgery is a known risk; seals and witnesses authenticate documents; archival comparison detects inconsistency, though verification is slow and contested.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Peace of God traditions frame violence as sinful unless sanctioned; the just war of crusade legitimates killing infidels; oath-breaking is a grave offense against divine and feudal order.
+
+__Law, Codification & Regulatory Evolution:__ Roman law revives through Bolognese glossators; Frederick's Roncaglia decrees (1158) assert regalia; customary law varies by territory; no empire-wide codification exists.
+
+__Adjudication, Liability & Sanction:__ Episcopal and royal courts adjudicate major disputes; town courts handle market and guild infractions; ordeal persists alongside sworn testimony; punishment is public and corporal.
+
+__Rights, Protections & Compliance Burden:__ Charter privileges confer specific rights — market, mint, toll — that bind lords as well as grantees; peasants have few codified protections outside custom.
+
+__Impunity & Unredressed Wrong:__ Feuds between princes drag on; powerful lords evade judgment; papal sanctions (interdict, excommunication) are the sharpest tool against the mighty but require ecclesiastical will.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scholastic method consolidates; Peter Lombard's Sentences becomes the theological textbook; Aristotle's natural philosophy begins to penetrate via Arabic translation.
+
+__Applied Knowledge & Technical Method:__ Watermill engineering advances; Gothic architecture spreads from France, demanding geometric calculation; agricultural technique improves incrementally.
+
+__Education, Knowledge Stock & Skill Distribution:__ Cathedral schools train clergy; monastic education persists; universities are emerging (Paris, Bologna), drawing students from across Latin Christendom; literacy remains a clerical minority skill.
+
+__Obsolescence & Knowledge Decay:__ Classical texts preserved in monasteries are copied selectively; some knowledge is lost through neglect, but the period is one of recovery rather than contraction.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Carolingian translatio imperii frames the Empire as Rome's heir; Charlemagne's canonization (1165) under Barbarossa sacralizes this lineage; Germanic heroic legend (Nibelungen cycle) circulates orally and in new written form.
+
+__Legitimating Narrative & Ideology:__ Imperial ideology claims universal authority beneath Christ; papal counter-narrative contests secular supremacy; towns deploy charter privileges as proof of legitimate autonomy.
+
+__Artistic Expression & Material Culture:__ Romanesque architecture reaches its mature phase; early Gothic elements appear in cathedrals; goldsmith work, reliquaries, and illuminated manuscripts display courtly and ecclesiastical patronage; knightly culture expresses itself in heraldry, tournament, and courtly epic.
+
+__Form Exhaustion & Meaning Decay:__ Romanesque idiom is not yet exhausted; Gothic energy is rising; no cultural fatigue marks this confident half-century.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmic hierarchy — God, angels, church, empire, man, nature — organizes understanding; crusade frames earthly struggle as participation in divine history.
+
+__Ritual, Devotion & Sacred Practice:__ Mass, pilgrimage, and relic veneration structure piety; Marian devotion intensifies; private prayer remains embedded in liturgical cycles.
+
+__Religious Institutions & Doctrinal Authority:__ Papacy and episcopate govern doctrine; Cistercian reform spreads austere observance; Premonstratensian canons staff parishes; mendicant orders have not yet arrived.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Latin Christianity is consolidated; Slavic paganism retreats under missionary and military pressure along the eastern frontier; Cathar and Waldensian heresies simmer in the south but have not penetrated the plain.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains potent; crusading zeal, relic cults, and miracle narratives sustain enchantment; no secularizing drift is evident.

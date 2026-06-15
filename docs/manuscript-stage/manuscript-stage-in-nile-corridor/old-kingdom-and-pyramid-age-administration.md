@@ -1,69 +1,139 @@
-# __2686 BCE – 2181 BCE__ — Old Kingdom and Pyramid Age Administration
-__Summary:__ The Old Kingdom represents the apex of centralized pharaonic power, during which the Fourth Dynasty constructs the Giza pyramids, the vizier system coordinates a sophisticated bureaucracy, hieratic script develops for administrative convenience, and the Pyramid Texts inaugurate religious literature; the binding constraint is the massive labor and resource mobilization required for royal mortuary construction, which the Nile's surplus capacity barely sustains; the trajectory moves from consolidation through apogee to gradual decentralization as provincial officials accumulate hereditary power, with the system finally fragmenting after Pepi II's exceptionally long reign.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor remains the fixed arena — narrow valley in Upper Egypt, broad delta in Lower Egypt, Memphis at the junction commanding both; the river enables bulk transport of limestone from Tura and granite from Aswan to Giza; desert tracks to quarries impose friction but are managed through organized expeditions; spatial integration tightest around the Memphis-Giza core.<br><br>
-__Climate Regime & Volatility:__ Stable hot-arid regime continues; annual flood reliable though with interannual height variation; some evidence of declining flood levels toward the late Sixth Dynasty contributing to stress; no catastrophic shift but secular drift toward lower Nile possibly beginning.<br><br>
-__Hazard Regime & Exposure:__ Flood variability remains the primary hazard; exceptionally low floods documented in late Old Kingdom cause harvest shortfalls; high floods damage basin infrastructure; system margins narrowing by period's end as consecutive poor years occur; no seismic or volcanic exposure.<br><br>
-__Resource & Energy Endowment:__ Limestone abundant along valley escarpment; granite quarried at Aswan; copper from Sinai expeditions; gold from Nubia and Eastern Desert; alabaster from Hatnub; timber imported from Byblos; drawdown of accessible surface stone accelerating around Giza plateau but overall endowment remains vast.<br><br>
-__Waste Absorption & Sink Capacity:__ Construction debris accumulates at quarry and pyramid sites; floodplain absorbs organic waste; population density still low relative to carrying capacity; absorptive capacity adequate though localized accumulation at construction sites visible archaeologically.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease profile unchanged — schistosomiasis, malaria, enteric infections; mortality stable through apogee period; skeletal evidence suggests some increased physiological stress among laborers at Giza; no epidemic attested.<br><br>
-__Nutrition & Physiological Vitality:__ Cereal-based diet continues; ration records from pyramid workers' villages indicate adequate provisioning (bread, beer, meat) during construction projects; commoner nutrition dependent on flood success; late Old Kingdom low floods likely reduced nutritional margins.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patterns stable — monogamy common, elite polygyny attested; fertility adequate for demographic maintenance; no notable selective pressures.<br><br>
-__Demographic Renewal & Density:__ Population estimated at 1.5–2 million at apogee; density concentrated in delta and Memphis region; growth slow but positive through mid-period; possible stagnation or decline in late Sixth Dynasty as agricultural stress increases.<br><br>
-__Attrition & Dependency Overhang:__ Pyramid workforce includes rotating corvee laborers supported by state rations, reducing household burden; aged and infirm absorbed within kin networks; dependency load manageable at apogee, potentially strained in late period.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basin irrigation fully developed; double cropping in favorable areas; subsistence floor solid during apogee when flood is adequate; margins narrow in late period as consecutive low floods reduce yields; state granaries buffer but reserves tested.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains primary; cattle for agriculture; sledge-and-ramp technology for construction; water transport maximized for stone movement; per-capita work ceiling unchanged but total mobilized labor reaches unprecedented scale — tens of thousands for pyramid construction.<br><br>
-__Labor Organization & Coercion:__ Corvee labor institutionalized — rotating crews (phyles) work pyramid sites in organized shifts; workers provisioned by state rather than coerced as slaves; permanent craftsmen in royal workshops; coercion moderate, compensation structured through rations and afterlife association with king.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus sufficient to support massive construction labor force during apogee; production ceiling rises with administrative efficiency; surplus extraction for pyramid building approaches maximum sustainable level; buffer margin thin by Sixth Dynasty.<br><br>
-__Storage, Reserves & Buffering:__ State granary system extensive; reserve depth demonstrated by multi-decade construction projects requiring continuous provisioning; late period low floods deplete reserves; buffering capacity stressed.<br><br>
-__Exchange, Trade & Logistics:__ River transport system mature; stone barges move millions of tons; trade expeditions to Byblos (cedar), Punt (incense), Nubia (gold, ebony); redistribution through palace and temple networks; no market economy; logistics capacity demonstrated by pyramid supply chains.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Grain units standardized for accounting; copper deben as weight standard; temple endowments store value across generations; credit through palace obligation networks; formal lending absent.<br><br>
-__Surplus Extraction & Redistribution:__ Crown extracts maximum sustainable surplus through taxation and corvee; redistribution supports officials, priests, craftsmen, and pyramid labor force; load on productive base high at apogee, unsustainable in lean years; late period extraction exceeds regenerative capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Elite wealth concentrated in tomb endowments and land grants; officials accumulate hereditary positions and estates; crown grants to temples and officials disperse royal wealth over time; asset defense through tomb construction and descendant maintenance of offerings.<br><br>
-__Byproducts & Waste Routing:__ Stone debris massive at quarry and construction sites; organic waste from workers' villages managed; craft residue (copper slag, ceramic sherds) localized; routing functional, no saturation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village reciprocity networks persist; pyramid worker communities develop solidarity (graffiti naming crews); trust radius extends through administrative networks; no evidence of contraction during apogee.<br><br>
-__Stratification, Status & Group Identity:__ Stratification sharper — divine king at apex, vizier and high officials below, provincial nomarchs, scribes, craftsmen, farmers; status marked by tomb size and location relative to royal pyramid; elite identity crystallizing around official careers; boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance consolidated; official positions increasingly hereditary, especially in provinces; extended family networks provide social insurance; elite family tombs cluster near royal complexes.<br><br>
-__Civic Association & Self-Organization:__ Temple communities formalized; craft guilds (for pyramid work) organized by state; phyle system structures labor crews; provincial associations strengthen as nomarch power grows; associational fabric thickening in both state and local domains.<br><br>
-__Leisure, Play & Sociability:__ Festivals elaborate — Sed festival for royal rejuvenation, Wag festival for dead; beer consumption social; board games (senet) widespread in elite tombs; sociability structured through religious calendar.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to officials attested; vizier as supreme judge; religious festivals provide ritual release; late period provincial fragmentation may reduce access to central redress; some grievance accumulation possible.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Pharaonic power at apex through Fourth Dynasty; king as living god, absolute authority; vizier coordinates administration; centralizing trend peaks mid-period then gradually reverses as provincial officials gain hereditary tenure; by late Sixth Dynasty, power fragmenting.<br><br>
-__Succession & Power Transfer:__ Father-to-son succession normative; Third-Fourth Dynasty transition smooth; occasional collateral succession; Pepi II's ~94-year reign creates succession crisis at end; transfer increasingly contested in late period.<br><br>
-__Legitimacy & Political Narrative:__ Pyramid construction demonstrates divine-royal power; Pyramid Texts articulate royal afterlife theology; legitimacy rests on maintaining maat and providing for eternal cult; narrative robust at apogee, eroding as state capacity declines.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Vizier system coordinates treasury, granary, works departments, and judiciary; provincial administrators (nomarchs) execute central directives; record-keeping in hieratic on papyrus expands; capacity peaks under Fourth Dynasty, gradually delegated to provinces thereafter; integrity erodes as offices become hereditary sinecures.<br><br>
-__Political Participation & Mobilization:__ Participation limited to elite; commoner mobilization through corvee; no popular political channels; factional competition among elite visible in tomb placement and title accumulation; late period provincial elites increasingly autonomous.<br><br>
-__Geopolitical Position & External Relations:__ Egypt dominant regionally; expeditions to Sinai, Nubia, Punt, and Byblos for resources; Nubian campaigns under Sixth Dynasty pharaohs; no peer rivals; external pressure negligible.<br><br>
-__Coercive Apparatus & Means of Force:__ Royal army for expeditions and frontier defense; provincial militias under nomarchs; copper weapons (axes, daggers, spearheads); fortifications minimal internally; late period sees force dispersing to provincial commanders.<br><br>
-__Internal Order & Threat Environment:__ Order maintained through ideological consensus and administrative capacity during apogee; late period decentralization creates potential for internal conflict; disorder residue accumulating by Sixth Dynasty's end but open rebellion not attested within the window.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Royal messengers systematized; courier routes along Nile; provincial officials report to center; transmission velocity still limited by travel speed but regularity improved through bureaucratic scheduling.<br><br>
-__Record, Storage & Persistence:__ Hieratic script develops for administrative efficiency — faster to write than hieroglyphic; papyrus documents now standard for accounts, correspondence, and legal records; royal archives at Memphis; temple archives at pyramid complexes; persistence high in arid conditions; retrievability through trained scribes.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions present pharaoh as supreme and eternal; autobiographical tomb texts celebrate official careers within state service; discourse norms reward loyalty and competence; no dissenting voice survives in record.<br><br>
-__Reception, Attention & Amplification:__ Literate class expanded — scribes, priests, officials — but still tiny fraction of population; Pyramid Texts circulate within royal-priestly elite; monumental inscriptions visible to all, content accessible only to literate; amplification through oral exposition.<br><br>
-__Signal Integrity & Noise Load:__ Information volume growing with bureaucratic records; archival organization develops; verification through multiple record copies; noise load manageable though late period provincial autonomy may reduce central information quality.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Maat as ordering principle; justice means alignment with cosmic and royal order; autobiographies claim adherence to maat as moral credential; fairness expected in official conduct.<br><br>
-__Law, Codification & Regulatory Evolution:__ Royal decrees govern specific situations; no comprehensive law code survives; vizier's court applies precedent and royal will; regulations for temple endowments and land grants attested; evolution incremental.<br><br>
-__Adjudication, Enforcement & Liability:__ Vizier as supreme judge; local courts (kenbet) for provincial matters; enforcement through administrative apparatus; liability assigned based on status and documented evidence; throughput adequate at apogee, potentially strained in late period.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights in land and tomb increasingly documented; officials protected by royal appointment; compliance burden increases with bureaucratic elaboration but manageable for elites with scribal access.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity assumed; tomb robbing attested — imperfect enforcement of property protection; petition system provides channel but access unequal; backlog not quantifiable but probably modest at apogee.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Astronomical observation for calendar maintenance; mathematical knowledge sufficient for pyramid geometry and land surveying; medical practices attested; paradigm remains embedded in religious cosmology; no secular theoretical inquiry distinct from practical arts.<br><br>
-__Applied Knowledge & Technical Method:__ Pyramid construction represents engineering apex — surveying, quarrying, transport, precision fitting; copper tool production refined; mummification techniques developing; hieratic writing method standardized; techniques transmitted through apprenticeship in specialized workshops.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools formalized in palace and temple contexts; literacy spreads within official class; knowledge stock accumulates in archives and tomb inscriptions; skill distribution widens among administrative elite but remains narrow overall.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier practices refined rather than abandoned; administrative methods evolve; some construction techniques of Fourth Dynasty may be partially lost by Sixth Dynasty as pyramid scale decreases; decay minimal but excellence not fully maintained.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Pyramid complexes embody royal-divine identity; afterlife mythology elaborated in Pyramid Texts; origin narratives tie kingship to Horus and Osiris; identity anchored in eternal cycle of royal death and transfiguration.<br><br>
-__Artistic Expression & Material Culture:__ Canonical artistic conventions fully mature — statuary (Khafre's diorite statue, Menkaure triads), relief carving, tomb painting; architectural scale peaks with Great Pyramid; craftsmanship in furniture, jewelry, and metalwork refined; material culture expresses confidence and permanence.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite confidence manifest in tomb investment and autobiographical claims; commoner mood inferred as stable during apogee; late period stress possibly darkening outlook but pessimistic literature not yet attested (emerges in First Intermediate Period).<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms at full elaboration, not yet exhausted; pyramid complex as architectural type replicated with variations; some standardization may indicate beginning of formalism; meaning decay not evident — symbols retain vitality.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Sun-god Re rises to prominence alongside Osiris; king as son of Re; afterlife continuation through mummification, tomb, and offerings; cosmology integrated with state ideology; outlook confident in ritual efficacy.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Royal mortuary cult elaborated — daily offerings, festival processions, priesthoods endowed; temple rituals systematized; private funerary practice emulates royal model within means; devotion structured and institutionalized.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Pyramid temple establishments hold substantial endowments; priesthood professionalized; Heliopolis sun-cult theology dominant; doctrinal authority consolidated under crown and high priesthood; orthodoxy forming around Heliopolitan cosmogony.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Re theology spreads from Heliopolis; Osiris cult gains prominence for afterlife; local cults integrated; syncretism produces Re-Atum, Osiris-king identifications; no displacement, rather cumulative synthesis.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment detectable; sacred cosmos robust; Pyramid Texts express full confidence in ritual efficacy and cosmic order; spiritual need comprehensively anchored in state religion.<br><br>
+# __2686 BCE – 2181 BCE — Old Kingdom and Pyramid Age Administration__
+
+__Summary:__ The Old Kingdom represents the mature manuscript-state in its earliest form—a centralized bureaucracy capable of mobilizing surplus labor for monumental construction through systematic record-keeping—with the binding constraint being the administrative capacity to coordinate extraction, allocation, and construction across a geographically extended polity where hieratic documentation enables royal control until provincial devolution erodes the center's grip.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile Valley's linear geography channels administration along a single axis from Elephantine to the Mediterranean. Memphis at the Delta apex commands both Upper and Lower Egypt, situated where the valley opens into the fan. The pyramids cluster on the western desert plateau at Giza, Saqqara, Dashur, and Abusir—elevated above the flood, visible from Memphis, accessible to labor drawn from the valley. Desert wadis provide routes to quarries (granite at Aswan, limestone at Tura, alabaster at Hatnub) and mining sites (Sinai copper, Eastern Desert gold).
+
+__Climate Regime & Volatility:__ The Nile flood regime remains stable and predictable across the period, depositing alluvial silt annually and enabling basin irrigation. Flood variance affects harvest yields but does not catastrophically fail during peak pyramid construction. Late Dynasty 6 texts hint at increasing low-flood frequency, foreshadowing the First Intermediate Period.
+
+__Hazard Regime & Exposure:__ Flood variance constitutes the primary hazard; the administrative system buffers against shortage through granary reserves. Desert margins insulate the corridor from external invasion. No documented seismic or volcanic events affect the period.
+
+__Resource & Energy Endowment:__ The endowment supports intensive monumental construction: limitless limestone on the Giza plateau, granite transported from Aswan, copper from Sinai, gold from Nubia and the Eastern Desert. Agricultural land produces grain surplus adequate to feed construction workforces. Wood (imported cedar from Lebanon, local acacia and sycamore) supplements stone. Energy derives from human muscle, supplemented by draft cattle and the Nile's transport capacity.
+
+__Waste Absorption & Sink Capacity:__ Construction debris accumulates at pyramid sites but does not constrain the system. Agricultural waste disperses; the annual flood clears and renews cultivated land. Sink capacity remains abundant.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic schistosomiasis and other parasitic diseases impose chronic morbidity. Skeletal evidence from worker cemeteries at Giza shows injuries consistent with heavy labor, healed fractures indicating access to care, and life expectancy suggesting reasonable conditions for the period. Infant mortality remains high; adult survivors reach 35–45 years.
+
+__Nutrition & Physiological Vitality:__ Worker communities receive rations documented in later administrative records—bread, beer, meat, vegetables—adequate to sustain heavy labor. Elite diet includes abundant protein; commoner subsistence depends on grain with fish and vegetable supplements. Skeletal evidence shows no systematic malnutrition among workers.
+
+__Care, Healing & Recovery Capacity:__ Healed fractures in worker skeletons indicate medical intervention. Temple and palace contexts concentrate healing knowledge; later medical papyri preserve traditions transmitted from this period. Capacity reaches the labor force serving royal projects.
+
+__Reproductive Biology & Pairing Dynamics:__ Monogamous marriage predominates for commoners; royal polygyny secures succession. Fertility rates sustain population growth through the period. Seasonal labor mobilization (during flood season when agricultural work is impossible) does not disrupt household formation.
+
+__Demographic Renewal & Density:__ Population reaches perhaps 1.5–2 million by period's end. Density concentrates in the valley and Delta, with sparse settlement in oasis margins. Population growth supports the labor pool for construction but does not strain agricultural capacity.
+
+__Attrition & Dependency Overhang:__ High childhood mortality limits the elderly dependent load. The labor system absorbs productive adults; dependent care remains within household capacity. Worker cemeteries show age distributions consistent with working populations, not general population samples.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basin irrigation agriculture produces reliable grain surplus. Household production satisfies most consumption needs. The subsistence floor is secure under normal flood conditions; administrative reserves buffer against shortage.
+
+__Energy Capture & Conversion:__ Human labor is the primary energy source, organized through corvée and permanent workforce arrangements. Draft cattle supplement for transport and some agricultural tasks. The Nile provides transport power enabling bulk movement of stone, grain, and supplies. Ramps, levers, and rollers multiply human effort in construction. The per-capita work ceiling is low but massively scaled through labor organization.
+
+__Labor Organization & Coercion:__ Pyramid construction mobilizes labor through rotating corvée (phyles, crews documented in graffiti) and permanent specialist workforces (quarrymen, masons, transporters). Labor is compensated with rations, housing, and medical care—not slave labor but obligated service with material support. Organization achieves unprecedented scale: tens of thousands at Giza at construction peak.
+
+__Production & Surplus Capacity:__ Agricultural surplus finances the non-producing population: royal household, temples, bureaucracy, construction workforce. Surplus extraction is systematic; the royal administration accumulates and redistributes grain at industrial scale. Production is in expansion phase through Dynasty 4, stabilizing in Dynasty 5–6.
+
+__Storage, Reserves & Buffering:__ Royal granaries and treasury hold multi-year reserves. Pyramid complexes include storage facilities; temple estates accumulate independent reserves. Buffering capacity is substantial, enabling large-scale projects without famine risk in normal conditions. The royal balance sheet carries no significant debt; surplus extraction meets needs without borrowing.
+
+__Exchange, Trade & Logistics:__ Nile transport enables bulk logistics: stone barges, grain shipments, supply convoys. Redistribution through palace and temple dominates; market exchange remains limited. External trade reaches Byblos (cedar, oil), Nubia (gold, ivory, ebony), Sinai (turquoise, copper), and Punt (incense, exotic goods). Trade missions are state-organized expeditions.
+
+__Value Storage, Credit & Deferred Exchange:__ Grain serves as unit of account; no coined money exists. Administrative records track obligations, wages, and allocations. Credit and debt operate within the redistributive system. Value storage is physical (granary reserves, precious materials) rather than monetary.
+
+__Surplus Extraction & Redistribution:__ Royal authority extracts through labor corvée and in-kind taxation. Pyramid construction represents the most intensive surplus application in human history to this point. Redistribution flows through wages (rations), temple support, and royal gifts. Extraction is at or near the maximum the productive base can sustain during Dynasty 4; Dynasties 5–6 show moderation as extraction reaches practical limits.
+
+__Wealth Distribution & Asset Defense:__ Land nominally belongs to the king; noble estates and temple holdings grow through royal grants. Stratification is extreme: royal family and high officials command vast resources; peasant cultivators retain household subsistence. Tombs manifest wealth concentration; elite mortuary investment rivals royal in later dynasties.
+
+__Byproducts & Waste Routing:__ Construction waste (stone chips, rubble) remains at sites; no recycling system exists. Agricultural and domestic waste disperses without accumulation. No waste constraints affect the system.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent governs household and inheritance. Noble offices become increasingly hereditary through the period; nomarch positions that begin as royal appointments become family possessions by Dynasty 6. Royal succession is father-to-son with occasional complexity (Khufu's successors, for instance).
+
+__Association & Mutual Aid:__ Village communities provide agricultural cooperation and lifecycle support. Work crews (phyles) on royal projects develop internal solidarity. Temple associations organize cult participation and redistribution. Elite households organize dependent populations.
+
+__Leisure, Play & Sociability:__ Festivals mark agricultural and religious calendar. Royal sed-jubilee renews kingship. Tomb scenes depict feasting, music, hunting, and games—elite leisure visible in mortuary art. Communal celebration accompanies lifecycle events.
+
+__Stratification, Status & Group Structure:__ Stratification is sharp and visually marked: royal family, viziers and high officials, provincial nomarchs, priests, scribes, craftsmen, and peasant cultivators form distinct tiers. Status is increasingly hereditary. Elite intermarriage concentrates power. By late Dynasty 6, provincial nomarch dynasties rival royal officials in power and display.
+
+__Administrative Capacity & Institutional Integrity:__ The Old Kingdom administrative apparatus reaches unprecedented sophistication. The vizier heads the bureaucracy; specialized departments manage treasury, granaries, labor, justice, and archives. Provincial administration through nomarchs extends royal reach. Hieratic documentation enables systematic record-keeping: census, land survey, labor allocation, supply logistics. The Abusir papyri document temple administration in detail. Administrative capacity peaks in Dynasty 4–5; devolution to provinces begins in Dynasty 6.
+
+__Coercive Apparatus & Means of Force:__ Royal forces maintain internal order; military expeditions reach Nubia, Sinai, and Libya. The army is a royal institution, mobilized for specific campaigns rather than maintained as standing force. Provincial militia under nomarchs supplement royal forces. Fortifications at frontier points (Elephantine, Sinai mining sites) project power. No serious internal military challenges occur until period's end.
+
+__Discharge, Disorder & Decay:__ The apparatus remains functional through Dynasty 5; Dynasty 6 shows increasing provincial autonomy that undermines central control. Nomarch tombs grow in elaboration while royal pyramids shrink—visual evidence of power devolution. The system does not collapse within the window but shows the stress lines that produce First Intermediate Period fragmentation.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is confidence in cosmic and political order. Royal ideology successfully projects divine kingship; pyramid construction manifests collective commitment. Trust extends through kin and village networks and up through administrative hierarchy. No evidence of mass discontent survives.
+
+__Leadership & Personal Authority:__ The king embodies divine authority—living Horus, son of Re. Individual personalities emerge in limited detail (Khufu's ambition, Djedkare's administrative reforms), but the office conveys authority independent of personality. High officials derive power from royal appointment; their authority is delegated divine right.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy rests on the king's maintenance of maat—cosmic order. Royal propaganda saturates monumental display; pyramid construction itself is a legitimating act, demonstrating royal power to command nature. Allegiance is reinforced through redistribution (festival gifts, corvée rations) and ritual participation. No evidence of legitimacy crisis appears within the period.
+
+__Political Will & Collective Resolve:__ Royal will drives monumental construction on an unprecedented scale. The ruling elite coheres around pyramid projects and temple foundations. Succession is occasionally contested but resolved without prolonged conflict. Collective resolve is evident in sustained multi-decade construction programs (Khufu's pyramid required perhaps 20 years of continuous effort).
+
+__External Relations & Posture:__ Egypt projects power into Nubia (trading expeditions, punitive raids), Sinai (mining and fortification), and the Levant (trade missions to Byblos). Libya receives periodic punitive expeditions. No peer competitors exist; external posture is confidently expansive but not aggressively territorial beyond Nubia.
+
+__Disaffection, Apathy & Spent Will:__ No widespread disaffection is evident through Dynasty 5. Dynasty 6 shows subtle signs of strain: reduced royal pyramid investment, increased provincial display, longer reigns suggesting succession stability but possibly also stagnation. The exhaustion that produces First Intermediate fragmentation builds beneath the surface but does not manifest as open disaffection within the period.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hieroglyphic writing (monumental, religious) and hieratic script (administrative, cursive) structure the information regime. Literacy remains restricted to scribes, priests, and elite administrators—perhaps 1–2% of the population. Scribal training is institutionalized in palace and temple schools. The oral majority accesses written content through official proclamation and ritual recitation.
+
+__Channels & Transmission Velocity:__ The Nile provides the communication artery; administrative messages travel by boat with official couriers. Transmission from Memphis to Elephantine takes days to weeks. Provincial administrators relay royal commands; return reporting enables central monitoring. Hieratic documents circulate within the bureaucracy; hieroglyphic monuments communicate to those who encounter them.
+
+__Record, Storage & Persistence:__ Systematic record-keeping distinguishes Old Kingdom administration. The Abusir papyri document temple revenues, offerings, duty rosters, and inventories in detail. Census and land survey records (later references confirm their existence) enable taxation and labor allocation. Archives at Memphis (not surviving) and provincial centers maintain working documentation. Stone inscriptions in tombs and temples achieve permanence; papyrus records serve administrative needs. The manuscript regime is mature: records systematically outlast their makers and are consulted without oral transmission.
+
+__Framing, Censorship & Discourse Norms:__ Royal ideology monopolizes formal discourse. Hieroglyphic inscriptions serve king and officials; no heterodox written expression survives. Censorship is unnecessary where writing serves exclusively official purposes. Discourse norms are implicit in the institutional purposes writing serves.
+
+__Reception, Attention & Amplification:__ Monumental inscriptions command attention through scale and placement. Pyramids themselves are communicative acts, projecting royal power across landscape and time. Ritual reading amplifies temple texts. Elite tomb inscriptions address future readers, explicitly seeking attention across generations.
+
+__Signal Integrity & Noise Load:__ Scribal training maintains orthographic and procedural consistency. Copying errors occur but are correctable through institutional oversight. The information load is manageable; specialized departments handle specific record types. Noise is low in a controlled administrative system.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Maat remains the foundational moral concept—truth, justice, cosmic order. Tomb autobiographies claim adherence to maat: caring for the hungry, speaking truth, judging fairly. Justice is retributive and hierarchical; the king is supreme judge, with authority delegated through officials.
+
+__Law, Codification & Regulatory Evolution:__ Royal decrees function as law; systematic legal codes do not survive but are implied by administrative practice. Regulation governs labor obligations, property transfer, temple administration, and official conduct. Exemption decrees document specific legal privileges. Codification is practical rather than theoretical.
+
+__Adjudication, Liability & Sanction:__ The vizier heads the judicial hierarchy; provincial officials and village headmen handle local disputes. Court records (later evidence) suggest systematic procedure. Sanctions include corporal punishment, labor penalties, and property confiscation. Capital punishment exists for serious offenses. Adjudication capacity matches caseload in an ordered system.
+
+__Rights, Protections & Compliance Burden:__ Subjects owe labor and tribute but retain practical rights to land, property, and household autonomy. Temple immunity decrees protect certain holdings from state extraction. Compliance burden is heavy during corvée seasons but sustainable. No concept of individual rights independent of status exists.
+
+__Impunity & Unredressed Wrong:__ Elite impunity is implicit; officials act with limited accountability beyond royal displeasure. Tomb inscriptions claim just conduct without verification. Commoners have recourse to local headmen and, theoretically, to higher appeal. The gap between claimed and actual justice is unmeasured but present.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry serves practical and religious purposes: astronomy for calendar and flood prediction, mathematics for surveying and construction, medicine for healing. The paradigm is mythological-technical: cosmic order is divine, human technique operates within that frame. No speculative inquiry independent of practical application exists.
+
+__Applied Knowledge & Technical Method:__ Pyramid construction represents applied knowledge at its peak: surveying, stone-cutting, transport, assembly, and project management coordinated at unprecedented scale. Medical technique advances (surgical procedures, pharmaceutical knowledge). Scribal method standardizes administrative procedure. Metal-working, carpentry, and craft production achieve high sophistication.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools transmit writing, calculation, and administrative procedure. Technical knowledge passes through craft apprenticeship with guild-like organization. The knowledge stock accumulates in temple and palace contexts. Literacy rate remains low (perhaps 1–2%); technical skill concentrates in specialized workforce populations.
+
+__Obsolescence & Knowledge Decay:__ No significant knowledge loss is documented. Pyramid construction techniques may actually decay after Dynasty 4 (later pyramids are smaller and less precisely built), suggesting possible skill attrition or resource constraint. Written transmission preserves administrative knowledge.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Foundational identity centers on eternal kingship maintaining maat. The pyramids embody this identity: monumental testimony to royal power, divine order, and Egyptian civilization's permanence. Tomb autobiographies transmit individual memory within the collective frame. Royal annals (the Palermo Stone fragment) record regnal events as state memory.
+
+__Legitimating Narrative & Ideology:__ Royal ideology presents the king as living god, son of Re (explicitly in royal titulary from Dynasty 5), maintaining cosmic order through ritual and rule. Pyramid Texts (first appearing in Unas's pyramid, Dynasty 5) codify royal afterlife beliefs. Mortuary cult perpetuates the dead king's participation in cosmic order.
+
+__Artistic Expression & Material Culture:__ The canonical Egyptian style reaches its classic form. Royal sculpture achieves iconic power (Khafre enthroned, Menkaure triads). Relief carving in tombs depicts ideal existence: agricultural plenty, craft production, feasting, and family. Material culture—furniture, jewelry, ceramic, textile—achieves high quality in elite contexts. Pyramid complexes integrate architecture, sculpture, and ritual into unified programs.
+
+__Form Exhaustion & Meaning Decay:__ Forms remain vital; no exhaustion is evident. The artistic vocabulary established here defines Egyptian expression for millennia. Late Dynasty 6 provincial art shows regional variation but not decay. Mortuary cult accumulation does begin to strain resources—the endowment of perpetual offerings for dead kings becomes an increasing claim on productive capacity.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is ordered by divine power, with Re (sun) and Osiris (underworld) as primary poles. Human existence continues after death for those properly prepared; the afterlife replicates earthly life enhanced. The king mediates between human and divine, ascending to join the gods at death. Pyramid Texts express the royal soul's celestial journey. Fatalism is qualified by the possibility of postmortem judgment (early forms of the weighing of the heart).
+
+__Ritual, Devotion & Sacred Practice:__ Temple cult centers on daily offering to the gods; the king is the theoretical officiant for all cult, with priests acting as delegates. Mortuary cult maintains perpetual offerings to the dead king, then extended to officials. Festival calendar marks agricultural and religious events. Funerary preparation (mummification advancing, tomb provisioning elaborate) consumes vast resources.
+
+__Religious Institutions & Doctrinal Authority:__ Temple institutions manage cult, land, and labor; priesthoods are elite positions combining religious and administrative function. The sun cult of Re (Heliopolis) gains prominence; sun temples appear alongside pyramids in Dynasty 5. No systematic theology exists; doctrine is transmitted through ritual practice, mythological narrative, and (from Unas) the Pyramid Texts.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Local cult centers (Memphis for Ptah, Hermopolis for Thoth) integrate under royal patronage. The afterlife originally reserved for the king begins extending to officials (precursor to "democratization" of the afterlife in the First Intermediate Period). No foreign displacement or significant syncretism occurs.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident. The sacred saturates royal ideology and elite practice. The cosmological framework commands complete allegiance. The resources devoted to mortuary cult accumulate as a standing spiritual claim on the economy—a form of sacred investment that will strain the system when political authority fragments.

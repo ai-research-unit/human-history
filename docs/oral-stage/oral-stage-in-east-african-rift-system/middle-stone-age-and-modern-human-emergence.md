@@ -1,69 +1,140 @@
-# __150000 BCE – 70000 BCE__ — Middle Stone Age and Modern Human Emergence
-__Summary:__ This eighty-thousand-year trend covers the emergence and establishment of anatomically modern Homo sapiens across the East African Rift during the Middle Stone Age, with key fossil evidence at Omo Kibish and Herto. The binding constraint is climate volatility during MIS 5, with dramatic lake-level oscillations forcing populations to track shifting resource patches. The system holds moderate margin against environmental shock through mobility and flexible foraging, while the principal direction of change is the gradual elaboration of symbolic behavior and point-based lithic technologies alongside demographic stabilization of modern human populations within the Rift corridor.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Rift corridor from the Ethiopian highlands through Kenya and Tanzania provides a north-south transit axis flanked by volcanic highlands; lake basins, river valleys, and escarpments create patchy resource zones with moderate friction, channeling movement along the rift floor and around lake margins.<br><br>
-__Climate Regime & Volatility:__ MIS 5 interglacial conditions dominate, with alternating wet and dry phases; rainfall seasonality is pronounced and interannual variability is high, generating lake transgressions and regressions that shift habitable zones on decadal to millennial scales.<br><br>
-__Hazard Regime & Exposure:__ Active volcanism deposits tephras useful for dating but also creates episodic hazards; tectonic activity maintains fault scarps; drought cycles recur but populations hold adequate mobility margin to relocate toward persistent water sources.<br><br>
-__Resource & Energy Endowment:__ Obsidian outcrops at sources like Olorgesailie provide high-quality toolstone; lakeside and riverine zones supply water, game, plant foods, and aquatic resources; the endowment remains vast relative to sparse population loads.<br><br>
-__Waste Absorption & Sink Capacity:__ Human waste discharge is negligible — knapping debris, ash from fires, and organic refuse disperse across open landscapes with effectively unlimited absorptive capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tropical diseases exist, but low population density limits epidemic potential; mortality baseline is stable and typical of mobile forager regimes, primarily from predation, injury, and occasional drought-induced starvation.<br><br>
-__Nutrition & Physiological Vitality:__ Anatomically modern humans show robust skeletal development; diet is broadly omnivorous, exploiting game, plant foods, and aquatic resources; nutritional status fluctuates with climate cycles but generally sustains healthy body size.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and kinship-based mating structures likely prevail; fertility is adequate for replacement and modest growth; selective pressures continue to operate on cognitive and social traits.<br><br>
-__Demographic Renewal & Density:__ Population density is extremely low — small bands scattered across the Rift; birth-to-death replacement appears stable with slow net growth, though genetic evidence suggests bottleneck events during drier phases.<br><br>
-__Attrition & Dependency Overhang:__ Elderly, orphaned, and injured dependents exist but form a small load relative to productive adults; mobile forager ecology limits how many non-productive members can be sustained, but the system absorbs this without collapse.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Immediate-return foraging supplies food, water, shelter, and fuel on a daily to seasonal basis; the population sits comfortably above the carrying-capacity edge in normal phases and contracts toward refugia during droughts.<br><br>
-__Energy Capture & Conversion:__ Human muscle and controlled fire are the sole power sources; fire enables cooking, warmth, predator deterrence, and landscape modification; conversion efficiency is low but sufficient for prevailing needs.<br><br>
-__Labor Organization & Coercion:__ Labor is organized by age, sex, and kinship within small bands; there is no coerced labor — cooperation is reciprocal, task-specific, and consensual within egalitarian structures.<br><br>
-__Production & Surplus Capacity:__ Production is subsistence-oriented with no storable surplus; MSA toolkits — Levallois cores, bifacial and backed points — represent accumulated technical knowledge but not material surplus.<br><br>
-__Storage, Reserves & Buffering:__ No infrastructure for storage exists; buffering relies on body fat, cached meat, and reciprocal sharing obligations among kin; reserves are minimal but mobility compensates.<br><br>
-__Exchange, Trade & Logistics:__ Exchange occurs within and between bands as direct reciprocity; obsidian moves tens of kilometers from source outcrops, indicating limited inter-group transfer, but no market or systematic logistics infrastructure exists.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ There is no unit of account or monetary instrument; deferred reciprocity operates through remembered social obligations — share now, owe later — as the primary mechanism for transferring value across time.<br><br>
-__Surplus Extraction & Redistribution:__ No coordinating authority extracts surplus; communal sharing of large kills distributes meat according to kinship and contribution norms, with immediate consumption rather than accumulation.<br><br>
-__Wealth Distribution & Asset Defense:__ Material wealth is minimal and portable — toolkits, personal ornaments; concentration is negligible and defense of holdings is unnecessary beyond the personal and band scales.<br><br>
-__Byproducts & Waste Routing:__ Knapping waste, fire ash, bone refuse, and organic discards are left at occupation sites and disperse without accumulating to problematic levels; the routing decision is effectively abandonment and dispersal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust extends through kinship and repeated face-to-face interaction within small bands; reciprocal sharing and mutual aid form the core social contract; the radius of trust covers immediate kin and expands cautiously to neighboring groups.<br><br>
-__Stratification, Status & Group Identity:__ Stratification is minimal — status derives from skill, age, and kinship rather than heritable rank; group identity is fluid and kinship-based, with boundaries permeable through intermarriage and fission-fusion dynamics.<br><br>
-__Kinship, Family & Inheritance:__ Kinship organizes all social relations; marriage creates inter-band alliances; inheritance of material goods is minimal, but knowledge, skills, and social relationships pass down through apprenticeship and oral transmission.<br><br>
-__Civic Association & Self-Organization:__ The band is the primary associational unit — self-organizing through consensus, age-grading, and kinship roles; no formal institutions exist above the band level, but regional aggregations likely occur seasonally.<br><br>
-__Leisure, Play & Sociability:__ Non-work time is substantial given low labor burdens; play, storytelling, and socializing reinforce group bonds; material evidence of personal ornamentation (ochre, perforated shells) suggests symbolic play and identity expression.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes are resolved through mediation by elders, avoidance, or band fission; mobility allows grievances to be discharged through physical separation; accumulated instability is minimal given small group size.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is diffuse and situational — leaders emerge for specific tasks (hunting, migration) based on competence; there is no permanent sovereign power, and decision-making is consensual within the band.<br><br>
-__Succession & Power Transfer:__ Leadership is not formally transferred — it arises situationally and dissipates; there is no succession crisis because there is no heritable office.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on demonstrated skill and generosity rather than ideology; no formal political narrative justifies rule because no rule structure requires justification.<br><br>
-__Administrative Capacity & Institutional Integrity:__ There is no administrative apparatus — coordination occurs through face-to-face communication and shared norms; record-keeping is absent; the concept of institutional integrity is inapplicable.<br><br>
-__Political Participation & Mobilization:__ All adults participate in group decision-making through discussion and consensus; collective mobilization is limited to immediate cooperative tasks; dissent is expressed through voice or exit (leaving the band).<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations are fluid — alliances form through kinship and intermarriage; competition for resources exists but rarely escalates to organized conflict; territorial boundaries are porous and overlapping.<br><br>
-__Coercive Apparatus & Means of Force:__ There is no organized coercive apparatus; violence is interpersonal and episodic; weapons (spears, points) serve primarily for hunting; command of force is not monopolized.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder is minimal — interpersonal violence occurs but at low rates; predation and environmental hazards exceed human threat; enforcement capacity matches the low threat load.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels through spoken language at the speed of human movement and voice; transmission radius is limited to face-to-face interaction and inter-band contact during seasonal aggregations.<br><br>
-__Record, Storage & Persistence:__ Memory is the sole storage medium — oral tradition, repeated practice, and embodied skill preserve knowledge across generations; no external record system exists; persistence depends entirely on living memory and its retransmission.<br><br>
-__Framing, Censorship & Discourse Norms:__ No formal censorship exists; discourse is shaped by social norms of respect, kinship obligations, and sacred restrictions; taboos govern speech about dangerous or sacred topics; the permitted band is wide but not unlimited.<br><br>
-__Reception, Attention & Amplification:__ Reception is immediate and interpersonal; attention is governed by social presence and storytelling skill; amplification occurs through repetition and retelling within and across bands.<br><br>
-__Signal Integrity & Noise Load:__ Signal integrity is maintained through repeated oral transmission and correction by elders; noise is low given limited information volume; verification is informal but effective at the band scale.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice rests on reciprocity, kinship obligation, and proportional response to transgression; the moral sense is immediate and personal rather than codified.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law exists — behavioral norms are unwritten, transmitted orally, and enforced through social pressure; taboos govern dangerous or sacred conduct.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes are adjudicated informally through elder mediation or band consensus; enforcement relies on social pressure, ostracism, and in extreme cases, violence or expulsion; liability is personal and immediate.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy is high within kinship constraints; rights are embedded in social relationships rather than codified; compliance burden is low — norms are internalized through socialization.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity is rare in small groups where behavior is visible; wrongs are generally addressed through compensation or social sanction; unredressed grievances may persist but can be discharged through mobility.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Inquiry is empirical and practical — tracking animal behavior, identifying plant properties, understanding seasonal patterns; no formal paradigm exists, but accumulated knowledge constitutes an implicit theory of the environment.<br><br>
-__Applied Knowledge & Technical Method:__ MSA lithic technology — Levallois reduction, point production, hafting — represents sophisticated applied knowledge; ochre processing and possible adhesive use indicate technical elaboration; methods are transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education is informal, embedded in daily practice and oral instruction; the knowledge stock is substantial but distributed across specialists and elders; skills are widely distributed but expertise concentrates in experienced individuals.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge decay occurs when transmission chains break — death of knowledgeable individuals, band fragmentation, or environmental change rendering skills obsolete; error clearance is informal through practical testing.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestral memory, and place-based identity likely exist, though not directly attested; collective identity is forged through shared experience, kinship, and oral tradition.<br><br>
-__Artistic Expression & Material Culture:__ MSA material culture includes standardized point forms and evidence of ochre use for symbolic purposes; perforated shells at contemporary African sites suggest personal ornamentation; aesthetic conventions are emerging but sparsely attested.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood fluctuates with environmental conditions — confidence during resource abundance, anxiety during drought; the baseline disposition appears resilient and adaptive given population persistence.<br><br>
-__Form Exhaustion & Meaning Decay:__ Evidence is insufficient to assess symbolic exhaustion; the long continuity of MSA traditions suggests gradual elaboration rather than form decay during this window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmological beliefs are not directly attested but likely exist — animistic frameworks, ancestral spirits, and explanations for death and natural phenomena are typical of comparable societies.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Evidence of mortuary practice (defleshing at Herto) and ochre use suggests ritual activity; sacred practices likely accompany major life transitions and seasonal events, though specific forms are unrecoverable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion exists — spiritual practice is embedded in daily life and kinship; authority over sacred matters rests with elders or ritual specialists, but no clerical hierarchy forms.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual beliefs likely diffuse through inter-band contact and intermarriage; no evidence of systematic displacement or syncretic transformation is recoverable for this window.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment — the spiritual framework appears integrated with daily life and environmental understanding; sacred meaning is continuously renewed through practice rather than eroding.<br><br>
+# __150,000 BCE – 70,000 BCE__ — Middle Stone Age and Modern Human Emergence
+
+__Summary:__ Anatomically modern Homo sapiens consolidate across the East African Rift during the Middle Stone Age, developing prepared-core lithic technologies and the earliest evidence for symbolic behavior, while spoken language emerges as the substrate binding increasingly complex social coordination — yet all cultural transmission remains breath-borne, remembered or lost, with the rift's volcanic landscapes and fluctuating lake systems setting the physical stage for humanity's cognitive and demographic expansion.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The rift valley system runs north-south from the Afar depression through the Gregory Rift into the Western (Albertine) Rift, creating a corridor of alkaline lakes, volcanic highlands, and fault-bounded basins; the topography channels movement along the rift axis while highlands and escarpments impose lateral friction, concentrating hominin populations in lake margins, river valleys, and highland ecotones where diverse resources converge within short distances.
+
+__Climate Regime & Volatility:__ Late Pleistocene climate oscillates between wetter interglacials and drier glacial phases; lake levels in Turkana, Nakuru-Elmenteita, and Magadi basins fluctuate dramatically, creating productive wetland refugia during arid intervals and expanding grasslands during pluvials; the long-term trend through this window sees several major dry-wet-dry cycles that repeatedly concentrate and disperse human populations.
+
+__Hazard Regime & Exposure:__ Volcanic activity along the rift periodically deposits ash blankets that bury landscapes and reset ecological succession; earthquakes and fault movements alter drainage patterns; drought events can collapse local productivity within years, forcing rapid population movement or contraction.
+
+__Resource & Energy Endowment:__ Obsidian outcrops at key locations (Naivasha, Ethiopian highlands) provide premier toolstone transportable over hundreds of kilometers; volcanic soils support productive savannas; the rift lakes concentrate fish, shellfish, and waterfowl; energy capture is entirely somatic — human muscle powered by foraged calories.
+
+__Waste Absorption & Sink Capacity:__ Human population densities remain low enough that organic waste and fire byproducts disperse without accumulating; landscape impacts are minimal beyond localized burning; the physical residue of this window is archaeological debris, not environmental degradation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria, trypanosomiasis, and waterborne parasites constrain lowland occupation; mortality rates are high by modern standards but populations sustain themselves through elevated fertility; skeletal evidence shows episodic stress markers consistent with seasonal hunger and disease.
+
+__Nutrition & Physiological Vitality:__ Anatomically modern humans in this window are robust, with statures comparable to or exceeding later populations; diet is broad-spectrum — large and small game, fish, shellfish, tubers, seeds, fruits — with seasonal variation; nutritional status fluctuates with climate but overall supports demographic stability.
+
+__Care, Healing & Recovery Capacity:__ Wound treatment and plant-based remedies are presumed from later ethnographic analogues; survival of healed fractures in skeletal samples indicates care for injured individuals; midwifery and infant care are essential given human altricial birth but leave no direct trace.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and extended juvenile dependency are established; sexual selection pressures and mate competition shape social dynamics; no evidence for demographic collapse suggests reproduction keeps pace with mortality.
+
+__Demographic Renewal & Density:__ Population remains small — estimates range from thousands to tens of thousands of anatomically modern humans in Africa during glacial bottlenecks; band sizes likely 25–50 individuals; regional populations persist but may contract severely during major droughts (e.g., ~70,000 BCE volcanic winter hypothesis).
+
+__Attrition & Dependency Overhang:__ Short life expectancy means few survive to old age; the dependent load (children, injured, elderly) is absorbed within band-level reciprocity; no evidence for abandonment of dependents in the archaeological record.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Immediate-return foraging dominates — daily or multi-day procurement cycles for meat, plants, and aquatic resources; household pooling smooths variance; the carrying-capacity edge is approached during droughts but rarely triggers mass mortality.
+
+__Energy Capture & Conversion:__ Fire is the only non-somatic energy source; controlled burning extends across landscapes to flush game and promote plant regrowth; per-capita work ceilings remain low, limiting group scale and material accumulation.
+
+__Labor Organization & Coercion:__ Division of labor by sex and age is presumed on ethnographic grounds; no coerced labor exists — contributions are embedded in kinship reciprocity; specialization is minimal beyond individual skill variation.
+
+__Production & Surplus Capacity:__ MSA lithic production represents a significant cognitive investment — prepared-core (Levallois) techniques require multi-stage planning and teaching; surplus in the modern sense does not exist; what is produced is consumed or lost within the generation.
+
+__Storage, Reserves & Buffering:__ Food storage is minimal — drying or caching meat is possible but not systematic; fat reserves on bodies are the primary buffer against scarcity; no granaries or treasuries.
+
+__Exchange, Trade & Logistics:__ Obsidian and ochre move tens to hundreds of kilometers from source, indicating exchange networks or long-distance mobility; whether this represents trade, gift exchange, or direct procurement remains debated; logistics are foot-borne and constrained by porterage capacity.
+
+__Value Storage, Credit & Deferred Exchange:__ No currency or formal value-storage exists; deferred reciprocity ("share now, owe later") structures meat and resource distribution within and between bands; obligations are held in memory and speech.
+
+__Surplus Extraction & Redistribution:__ No formal taxation or tribute; sharing norms redistribute windfalls (large kills, honey finds) across the band; leaders may coordinate distribution but do not extract systematically.
+
+__Wealth Distribution & Asset Defense:__ Portable wealth is limited to tools, ornaments, and ochre caches; inequality exists in skill and reputation rather than accumulated goods; defense is against predators and rival bands, not property theft.
+
+__Byproducts & Waste Routing:__ Knapping debris, bone refuse, and ash accumulate at occupation sites, forming the archaeological record; organic waste disperses; no toxic or persistent waste streams.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Band society is structured around bilateral kin networks; marriage rules (exogamy) link bands in alliance networks; inheritance is of skill, knowledge, and reputation, not durable property.
+
+__Association & Mutual Aid:__ Reciprocity and sharing are obligatory; inter-band gatherings for mating, ritual, and exchange occur periodically; the social fabric thickens through these aggregations and thins in dispersed foraging phases.
+
+__Leisure, Play & Sociability:__ Firelight sociability — storytelling, singing, dancing — is the primary non-work activity; play trains children in foraging and social skills; the fireside is the locus of oral culture.
+
+__Stratification, Status & Group Structure:__ Status hierarchies are achievement-based (hunting prowess, ritual knowledge) rather than inherited; no permanent elite; age and experience confer respect; gender divisions exist but full stratification is absent.
+
+__Administrative Capacity & Institutional Integrity:__ No formal institutions; leadership is situational and consensual; decision-making is by discussion around the fire; the "administration" of the band is oral and embedded in kinship.
+
+__Coercive Apparatus & Means of Force:__ No organized military; violence is interpersonal or between bands; spears and projectiles serve for hunting and defense; conflict resolution relies on mediation, fission (splitting the band), or feuding.
+
+__Discharge, Disorder & Decay:__ Social friction is discharged through mobility — individuals or families can leave one band for another; unresolved conflicts may lead to violence or permanent fission; no ossified apparatus exists to decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Band-level trust is high within the group; intergroup relations vary from cooperative to hostile; behavioral temper fluctuates with resource availability — security in plenty, anxiety in scarcity.
+
+__Leadership & Personal Authority:__ Influential individuals — skilled hunters, knowledgeable elders, gifted speakers — hold sway without formal office; authority is personal and contingent, not institutionalized.
+
+__Legitimacy as Lived Allegiance:__ No formal state requires legitimation; allegiance is to kin, band, and the norms encoded in oral tradition; dissent is expressed by exit (leaving the band).
+
+__Political Will & Collective Resolve:__ Collective action requires consensus built through discussion; mobilization for hunting, defense, or migration depends on shared will coalescing around a proposal; fragmentation is easy, unity fragile.
+
+__External Relations & Posture:__ Relations with neighboring bands range from intermarriage and alliance to avoidance and sporadic violence; no geopolitical posture exists — the relevant "foreign policy" is kinship diplomacy and territorial spacing.
+
+__Disaffection, Apathy & Spent Will:__ Prolonged stress (drought, disease, conflict) can erode band cohesion and individual will to cooperate; the residue is fission, migration, or demographic decline; re-anchoring depends on improved conditions and renewal of social bonds.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is fully established as the primary medium of meaning-making; every band member speaks and understands the local tongue; the reach of mutual intelligibility extends across regional populations with dialect variation; exclusion is by foreignness or disability, not literacy (which does not exist).
+
+__Channels & Transmission Velocity:__ Voice carries within earshot; message transmission across distance requires a messenger traveling on foot; information moves at walking pace and degrades with each retelling unless formalized as oral tradition.
+
+__Record, Storage & Persistence:__ No writing or durable media; all cultural memory resides in human brains and is transmitted orally; persistence depends on repetition, mnemonic devices, and inter-generational teaching; knowledge is lost when carriers die without transmitting.
+
+__Framing, Censorship & Discourse Norms:__ Oral tradition shapes what can be said and how; taboos govern speech about sacred matters, the dead, and dangerous knowledge; framing is embedded in narrative convention; no formal censorship exists but social sanction enforces norms.
+
+__Reception, Attention & Amplification:__ Attention is captured by skillful storytelling, dramatic performance, and relevance to survival; amplification occurs through repetition at gatherings; virality is limited by population size and encounter frequency.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces variation with each retelling; mnemonic structures (song, rhythm, repetition) reduce drift but do not eliminate it; no verification mechanism exists beyond consensus of elders; the noise residue is gradual mythologization and loss of historical accuracy.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Fairness in sharing, reciprocity, and in-group loyalty are foundational; violations (theft, hoarding, violence against band members) trigger sanction; the sense of justice is embedded in oral tradition and enforced by reputation.
+
+__Law, Codification & Regulatory Evolution:__ No written law; norms are customary and transmitted orally; taboos mark the forbidden (incest, sacred violations); the "code" evolves slowly through precedent and storytelling.
+
+__Adjudication, Liability & Sanction:__ Disputes are resolved by discussion, mediation by elders, or pressure from kin; sanctions range from ridicule and shaming to ostracism and violence; no formal courts or judges.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy is high within the band's norms; compliance burden is low — the rules are few and embedded in daily life; protection is by kin and band solidarity, not formal rights.
+
+__Impunity & Unredressed Wrong:__ Impunity exists for those who can evade sanction (by fleeing, by alliance strength); unredressed wrongs may fester into feuds; the gap between justice owed and delivered is managed by mobility and fission.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of the natural world is embedded in oral tradition — knowledge of animal behavior, plant properties, seasons, and terrain is extensive but not formalized as theory; inquiry is empirical and practical, not systematic.
+
+__Applied Knowledge & Technical Method:__ MSA lithic technology (prepared-core, Levallois) represents sophisticated applied knowledge transmitted through apprenticeship and imitation; the method is embodied in muscle memory and spoken instruction; tool design is standardized within traditions but varies regionally.
+
+__Education, Knowledge Stock & Skill Distribution:__ Learning is by observation, participation, and oral instruction; every adult commands the full skill repertoire needed for survival; specialization is by individual aptitude, not institutional training; literacy does not exist.
+
+__Obsolescence & Knowledge Decay:__ Knowledge lost when carriers die without transmitting; innovation is slow and cumulative; error and untested belief persist in oral tradition but are corrected by survival pressure; no formal mechanism clears obsolete knowledge.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin narratives, ancestor stories, and cosmological myths structure collective identity; these are transmitted orally and evolve with each retelling; the deep past is compressed into myth rather than history.
+
+__Legitimating Narrative & Ideology:__ No state requires legitimation; the order is naturalized as "the way things are done," justified by ancestral precedent and cosmological framing.
+
+__Artistic Expression & Material Culture:__ MSA material culture includes shaped tools, ochre use (for body painting, hide treatment, or symbolic marking), and perforated shell beads (~100,000–70,000 BCE at Blombos, Pinnacle Point analogues); rock art may begin in this window (debated); the symbolic repertoire is expanding but remains materially sparse.
+
+__Form Exhaustion & Meaning Decay:__ Symbolic forms are renewed through performance and reinterpretation; exhaustion is slow in a small-scale oral society; the residue of meaning decay is imperceptible on this timescale.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Animism and ancestor veneration are presumed from ethnographic analogy; the cosmos is populated by spirits, forces, and the dead; human agency is embedded in a relational world where non-human actors matter.
+
+__Ritual, Devotion & Sacred Practice:__ Ochre use, bead-making, and likely body painting suggest ritualized behavior; rites of passage, healing ceremonies, and communal rituals are presumed but leave little direct trace; the sacred is enacted through spoken formula and bodily performance.
+
+__Religious Institutions & Doctrinal Authority:__ No clerical hierarchy or institution; ritual specialists (healers, rainmakers) hold knowledge but not formal office; doctrine is oral tradition, not codified scripture.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual systems diffuse through population movement and intermarriage; variation is regional; no conversion or displacement by a new cosmology occurs in this window.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment in the modern sense; the sacred remains integrated with daily life; the residue is the gradual mythologization of historical events into timeless cosmology, a transformation rather than a loss.
+

@@ -1,69 +1,139 @@
-# __1500 CE – 1558 CE__ — Tudor Reformation and Print Controversy
-__Summary:__ England breaks from Rome under Henry VIII, with the dissolution of monasteries and establishment of royal ecclesiastical supremacy; the window spans religious oscillation from Catholic to Protestant and back under Mary I, with printed controversy — vernacular Bibles, polemical pamphlets, and martyrologies — as the binding constraint driving doctrinal competition; the system retains margin through Crown control of licensing via the Stationers' Company, but religious instability leaves succession and legitimacy under recurring stress; the direction is toward Protestant consolidation despite Marian reversal.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island archipelago with navigable rivers and short internal distances; London dominates as printing center with Channel access enabling continental contact; Scotland and Ireland remain politically separate with limited print infrastructure.<br><br>
-__Climate Regime & Volatility:__ Cool maritime climate with moderate rainfall; agricultural yields adequate but vulnerable to wet summers; no major secular drift within window, though interannual variability affects grain harvests.<br><br>
-__Hazard Regime & Exposure:__ Low seismic and volcanic exposure; periodic flooding along Thames and lowland rivers; epidemic disease (sweating sickness, plague) more pressing than geophysical hazard; infrastructure margin adequate against normal weather.<br><br>
-__Resource & Energy Endowment:__ Wool, tin, and lead exports; timber adequate but declining near urban centers; coal beginning to supplement wood fuel in London; monastic lands redistributed as new resource base for gentry.<br><br>
-__Waste Absorption & Sink Capacity:__ London's air and Thames absorbing rising effluent but not yet saturated; provincial towns small enough that waste disperses; absorptive capacity remains ample relative to population density.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic plague and sweating sickness impose episodic spikes; urban mortality exceeds rural; background death rate high by modern standards but stable within window; sanitary exposure concentrated in crowded parishes.<br><br>
-__Nutrition & Physiological Vitality:__ Grain-based diet supplemented by dairy and occasional meat; nutritional status adequate for laboring population though harvest failures cause localized hardship; stature stable, no marked physiological decline.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Late marriage pattern (mid-twenties) limits fertility; Church-regulated marriage remains norm; illegitimacy rates low; reproductive capacity sufficient for population maintenance.<br><br>
-__Demographic Renewal & Density:__ Population recovering from Black Death nadir; perhaps three million at window start, approaching four million by 1550s; density low outside London; growth rate positive but moderate.<br><br>
-__Attrition & Dependency Overhang:__ Monastic dissolution removes traditional poor relief; parish assumes burden under Poor Law development; orphan and widow support strained in transition; dependency load manageable but redistribution mechanism in flux.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Majority agrarian with open-field cultivation; enclosure beginning in wool districts; subsistence secure in normal years but harvest failure brings localized scarcity; household pooling and gleaning rights buffer edge cases.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle primary; water mills for grain and fulling; windmills in flat eastern counties; coal use expanding in London heating and smithing; per-capita energy ceiling modest but adequate for pre-industrial economy.<br><br>
-__Labor Organization & Coercion:__ Serfdom effectively ended; wage labor in towns; apprenticeship governs craft entry; corvée obligations vestigial; labor relatively free though vagrancy laws compel settlement.<br><br>
-__Production & Surplus Capacity:__ Wool cloth primary export; London crafts and provincial markets; printing a small but growing trade concentrated in London; surplus modest, sufficient for modest capital accumulation among merchants and gentry.<br><br>
-__Storage, Reserves & Buffering:__ Manorial granaries and urban warehouses; merchant inventories; Crown treasury variable and often strained; buffer against single bad harvest exists but multi-year crisis would exhaust reserves.<br><br>
-__Exchange, Trade & Logistics:__ Antwerp primary wool export destination; coastal shipping and river barges for internal trade; road network poor but passable; London as hub; clearing velocity slow but reliable.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coinage; debasement under Henry VIII creates inflation and uncertainty; credit via merchants and goldsmiths; bills of exchange for overseas trade; purchasing power unstable in 1540s.<br><br>
-__Surplus Extraction & Redistribution:__ Crown revenue from customs, Crown lands, and monastic confiscation; parliamentary subsidy for extraordinary expenses; tithe system disrupted by Reformation; extraction load moderate but rising under Henry's wars.<br><br>
-__Wealth Distribution & Asset Defense:__ Monastic dissolution redistributes land to Crown favorites and purchasers; gentry rising; yeoman farmers accumulating; urban merchants prospering; concentration shifting from Church to lay elite.<br><br>
-__Byproducts & Waste Routing:__ Tanning, dyeing, and smithing waste discharged into watercourses; urban refuse accumulates in streets and dunghills; volume modest relative to absorption capacity; no systematic routing or recycling.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Parish and guild networks provide mutual aid; dissolution of monasteries removes traditional charity infrastructure; trust radius contracting as religious division introduces suspicion; informal safety nets reorganizing under lay auspices.<br><br>
-__Stratification, Status & Group Identity:__ Three-estate model persists — nobility, clergy, commons — but clergy status contested; gentry expanding through monastic land acquisition; urban merchant status rising; boundaries permeable through wealth and office.<br><br>
-__Kinship, Family & Inheritance:__ Primogeniture norm for landed property; nuclear household dominant in England; marriage regulated by Church courts; inheritance patterns stable despite Reformation upheaval.<br><br>
-__Civic Association & Self-Organization:__ Guilds regulate urban trades; parish vestries assume welfare functions; confraternities dissolved with monasteries; associational fabric thinning in religious sphere but thickening in civic.<br><br>
-__Leisure, Play & Sociability:__ Saints' days and feast calendar disrupted by Protestant reform; alehouses and fairs persist; folk customs under Reformist critique but not yet suppressed; sociability adapting to religious change.<br><br>
-__Grievance Channels & Social Discharge:__ Church courts handle moral and testamentary disputes; riot and petition available as protest forms; Pilgrimage of Grace (1536) shows grievance accumulation over dissolution; discharge channels strained but functional.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Tudor monarchy centralizing; Henry VIII asserts supremacy over Church; Privy Council governs; Parliament legislates break with Rome; power concentrating in Crown but requiring parliamentary legitimation for major changes.<br><br>
-__Succession & Power Transfer:__ Succession crisis throughout window — Henry's three children each reign; Edward VI's Protestant minority, Mary I's Catholic restoration, disputed successions generate instability; legitimacy contested on religious grounds.<br><br>
-__Legitimacy & Political Narrative:__ Royal supremacy justified by national Church independence; Protestant narrative of papal corruption; Marian counter-narrative of Catholic restoration; legitimacy arguments conducted substantially through print.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Cromwell's administrative reforms strengthen bureaucracy; Court of Augmentations manages monastic assets; county commissions enforce policy; capacity expanding but corruption and faction undermine integrity.<br><br>
-__Political Participation & Mobilization:__ Parliament increasingly assertive; gentry active in county politics; urban corporations self-governing; popular mobilization through petition, riot, and Reformation controversy; participation widening modestly.<br><br>
-__Geopolitical Position & External Relations:__ Break with Rome isolates England diplomatically; alliance with Protestant powers developing; rivalry with Catholic Spain and France; Scotland separate kingdom with French alliance; Ireland under incomplete conquest.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing army; militia levies for war; naval development under Henry VIII; Tower of London and provincial castles; force dispersed among magnates but Crown retains ultimate command.<br><br>
-__Internal Order & Threat Environment:__ Religious dissent suppressed through heresy laws; Pilgrimage of Grace largest domestic rising; banditry minimal; order maintained through variable enforcement depending on local magistrates; margin adequate except in major risings.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Printed books and pamphlets primary innovation; manuscript still used for sensitive material; oral proclamation and preaching reach illiterate majority; velocity days to weeks within realm; London-to-provinces gradient steep.<br><br>
-__Record, Storage & Persistence:__ Print multiplies copies and survival probability; monastic libraries dispersed, some contents lost; state archives developing; parish registers mandated 1538; persistence improving through redundant copies.<br><br>
-__Framing, Censorship & Discourse Norms:__ Crown and Stationers' Company control licensing; heretical and seditious content suppressed; censorship regime tightening then loosening with regime changes; permitted band narrow on religion, wider on other topics.<br><br>
-__Reception, Attention & Amplification:__ Literacy perhaps 10-20% of males; oral reading aloud extends reach; controversial pamphlets and vernacular Bible attract intense attention; amplification through pulpit commentary and discussion.<br><br>
-__Signal Integrity & Noise Load:__ Print improves textual accuracy over manuscript; competing religious claims generate interpretive noise; verification through appeal to Scripture and tradition; noise rising as controversy proliferates printed arguments.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian moral framework universal; debate over whose Christianity is authentic; sense of justice tied to religious truth and royal authority; heresy as ultimate wrong undergoing contested redefinition.<br><br>
-__Law, Codification & Regulatory Evolution:__ Common law stable; statutory innovation through Parliament — Acts of Supremacy, Treason, Six Articles; ecclesiastical law restructured under royal supremacy; regulatory flux on religious conformity.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal courts (King's Bench, Common Pleas) for common law; Star Chamber for political and religious offenses; ecclesiastical courts under Crown control; heresy trials and burnings under Mary; throughput adequate but politicized.<br><br>
-__Rights, Protections & Compliance Burden:__ Subject rights limited by royal prerogative; religious conformity mandatory under shifting definitions; compliance burden heavy for those holding wrong doctrine at wrong time; predictability low during transitions.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful enjoy relative impunity; victims of religious persecution have no redress; Marian martyrs uncompensated until Protestant restoration; substantial backlog of injustice accumulates through regime changes.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Humanist learning spreading through print; Greek and Hebrew scholarship enables new biblical analysis; natural philosophy Aristotelian; theological paradigm contested between Reformed and Catholic frameworks.<br><br>
-__Applied Knowledge & Technical Method:__ Printing technology imported from Continent; navigation and cartography improving; medical and agricultural practice empirical but unsystematic; technical method practical rather than experimental.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Grammar schools expanding; Oxford and Cambridge reorganized after monastic dissolution; literacy growing slowly among middling sort; knowledge stock broadening through vernacular print; skill distribution narrow but widening.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic synthesis under challenge; monastic learning disrupted by dissolution, some manuscripts lost; medieval libraries dispersed; error-clearing through humanist textual criticism and Protestant biblicism.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ English national identity crystallizing around Protestant narrative and anti-papal rhetoric; Foxe's Book of Martyrs (published 1563 but based on Marian events) shapes memory; foundational trauma of religious persecution.<br><br>
-__Artistic Expression & Material Culture:__ Late Gothic transitioning to Renaissance influences; monastic art destroyed in iconoclasm; portraiture developing (Holbein); printed books as new cultural artifact; material culture shifting from ecclesiastical to courtly patronage.<br><br>
-__Collective Mood & Behavioral Disposition:__ Anxiety over religious truth and salvation; factional tension at court; popular uncertainty over doctrinal shifts; mood oscillating with regime — Protestant confidence under Edward, Catholic restoration under Mary.<br><br>
-__Form Exhaustion & Meaning Decay:__ Medieval Catholic forms attacked as superstition; saints' cults, pilgrimages, and relics discredited by Reformers; some meaning evacuated but new Protestant forms not yet consolidated; transitional hollowing.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology universal; salvation paramount concern; debate over means — faith versus works, Scripture versus tradition; existential stakes of doctrinal choice absolute; no secularizing drift.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass replaced by communion under Protestants, restored under Mary; vernacular Bible and prayer book transform devotional practice; household piety developing alongside parish observance; ritual in flux.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Monasteries dissolved; episcopal structure retained under royal supremacy; doctrinal authority contested between Crown, bishops, and Protestant reformers; institutional upheaval without settlement.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Protestantism spreading through print and preaching; Catholic practice receding but not eliminated; Marian restoration shows persistence; displacement incomplete, struggle ongoing.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment — sacred concern intensified by controversy; martyrdom on both sides demonstrates ultimate commitment; spiritual need fully engaged, no vacancy or drift toward secular meaning.<br><br>
+# __1500 CE – 1558 CE — Tudor Reformation and Print Controversy__
+
+The binding constraint on English society across these six decades is the Crown's attempt to harness print for religious transformation while containing its disruptive potential. Henry VIII's break with Rome weaponizes the press for royal supremacy, yet the same technology that disseminates the English Bible and royal propaganda enables heretical tracts, Catholic polemic, and seditious libel to circulate beyond effective control; print becomes both instrument and adversary of Tudor statecraft, with licensing, burning, and execution deployed against the very medium the Crown requires.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ England occupies a temperate island with good internal water transport via Thames, Severn, and coastal shipping, lowering distribution costs for printed matter from London. Scotland remains a separate kingdom; Ireland under incomplete conquest. Wales is integrated but mountainous and peripheral. Channel separates England from Continental print centers (Antwerp, Strasbourg, Paris) but does not prevent smuggled imports.
+
+__Climate Regime & Volatility:__ The climate sits in the late Medieval Warm Period's aftermath, with increased variability; harvest failures recur (1527–1528, 1550s). Neither drought nor flood dominates, but interannual swings tighten provisioning and sharpen popular discontent that print can articulate or inflame.
+
+__Hazard Regime & Exposure:__ No major seismic or volcanic risk. Plague recurs episodically (sweating sickness 1517, 1528, 1551; plague outbreaks). Flood risk along Thames. Fire threatens wooden London and its print shops; no catastrophic conflagration in this window, but fire hazard remains constant.
+
+__Resource & Energy Endowment:__ England holds ample timber, water power, wool, and modest tin and lead deposits. Coal extraction is nascent. Paper must be imported from the Continent; domestic papermaking is minimal. Energy remains muscle, water, and wind; no fundamental shift in endowment.
+
+__Waste Absorption & Sink Capacity:__ London's population (~50,000 in 1500, ~100,000 by 1550) concentrates waste along Thames; sanitation is primitive. Ink, lead type, and press refuse add negligible industrial waste. Sink capacity is not yet strained beyond traditional urban pollution.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic plague, typhus, smallpox, and sweating sickness impose episodic mortality spikes. Baseline infant mortality remains high (~200–300 per 1,000 live births). Life expectancy at birth around 30–35 years. Sweating sickness outbreaks (1517, 1528, 1551) kill rapidly, unsettling courts and communities.
+
+__Nutrition & Physiological Vitality:__ Grain-based diet; meat access varies by class. Harvest volatility causes episodic hunger. Bodies are robust by late medieval standards but stunted by modern measures. No fundamental nutritional shift across the period.
+
+__Care, Healing & Recovery Capacity:__ Healing rests on humoral medicine, herbal remedies, charitable hospitals (declining with monastic dissolution), and barber-surgeons. Print spreads medical texts (herbals, anatomy treatises) but practitioners remain few. No organized public health infrastructure.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns follow northwestern European norm: late marriage (~25 for women, ~27 for men), nuclear households. Church courts regulate matrimony; Reformation alters marriage theology but practical patterns persist.
+
+__Demographic Renewal & Density:__ Population recovering from Black Death lows: England ~2.3 million (1500) rising toward ~3 million (1550). Density remains modest. Urban growth concentrates in London; provincial towns static or slow-growing.
+
+__Attrition & Dependency Overhang:__ Dissolution of monasteries (1536–1541) eliminates monastic charity, shifting dependent care to parishes and Poor Law beginnings. Orphans, aged, and infirm rely on kin, parish relief, and informal networks stretched by religious upheaval.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Grain agriculture dominates; yields ~10 bushels per acre. Subsistence margin thin; harvest failure triggers dearth. Enclosure pressure begins but is not yet dominant. Food supply generally adequate but precarious.
+
+__Energy Capture & Conversion:__ Human and animal muscle, supplemented by water mills for grinding and fulling, and wind for coastal shipping. Printing presses are hand-powered wooden frames; one pressman produces ~250 impressions per hour. No motive power revolution.
+
+__Labor Organization & Coercion:__ Printing trades organized in London's Stationers' guild (chartered 1557). Apprenticeship governs entry; journeymen work for master printers. Agricultural labor remains manorial or tenant-based. Vagrancy laws criminalize unemployment. Coercion moderate but rising as poor relief organizes.
+
+__Production & Surplus Capacity:__ Wool cloth exports dominate surplus production; Antwerp is the staple market. Printing is a small urban craft; perhaps 20–50 active printers in London. Annual book production rises from dozens of titles (1500) toward hundreds (1550s). Surplus remains agrarian and textile.
+
+__Storage, Reserves & Buffering:__ Crown treasury fluctuates with taxation and monastic confiscations (1536–1541 windfall). No central bank. Stockpiles modest; grain reserves depend on private hoarding. Debt instruments primitive. Monastic wealth provides one-time fiscal buffer.
+
+__Exchange, Trade & Logistics:__ London dominates internal trade; coastal shipping and river barges move goods. Antwerp handles cloth exports and Continental imports, including paper and some books. Trade disruption during Continental wars affects paper supply.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver currency; coinage debasement under Henry VIII (1544–1551) inflates prices and destabilizes exchange. Credit networks rest on merchant trust; bills of exchange circulate. Debasement is a fiscal expedient with lasting inflationary effects.
+
+__Surplus Extraction & Redistribution:__ Crown revenues from customs, feudal dues, monastic dissolution. Lay taxation via parliamentary subsidy, increasingly frequent. Church tithes and clerical taxation redirected to Crown. Extraction rising but administrative capacity limited.
+
+__Wealth Distribution & Asset Defense:__ Land remains primary wealth store. Monastic dissolution transfers ~25% of English land to Crown and thence to gentry and nobles; a massive redistribution creating vested interests in Reformation. Gentry and merchants rise; old aristocracy diminished by Tudor policies.
+
+__Byproducts & Waste Routing:__ Minimal industrial waste. Printing ink made from lampblack and linseed oil; lead type recast. Cloth industry effluent affects local waterways. No systemic waste crisis.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Primogeniture governs land inheritance; partible inheritance for movables. Dissolution of monasteries eliminates celibate religious population; ex-monks and nuns marry. Family strategies adapt to land market opened by dissolution.
+
+__Association & Mutual Aid:__ Guilds, parish fraternities, and confraternities provide mutual aid; Reformation suppresses chantries and many confraternities (1547). Parish remains administrative unit. Printers form craft networks; Stationers' Company (chartered 1557) consolidates trade.
+
+__Leisure, Play & Sociability:__ Feast days, ales, plays, and bear-baiting continue but Reformation curtails saints' days. Tavern culture persists. Court entertainments elaborate under Henry VIII.
+
+__Stratification, Status & Group Structure:__ Three estates: clergy, nobility, commons. Gentry rising; yeomanry solid. Urban merchants and professionals gaining influence. Religious change creates new status markers (reformed vs. traditional). Clerical marriage marks social shift.
+
+__Administrative Capacity & Institutional Integrity:__ Tudor state-building expands Crown administration: Privy Council, regional councils (North, Wales), ecclesiastical courts. Star Chamber enforces censorship. Justices of the peace extend local control. Parish constables and churchwardens implement statutes. Capacity growing but uneven; corruption endemic.
+
+__Coercive Apparatus & Means of Force:__ No standing army; Crown relies on feudal levies, retainers, and militia. Yeoman of the Guard and local gentry enforce order. Executions for treason, heresy, and sedition serve as exemplary terror. Tower of London holds political prisoners. Fortifications modernized against French threat.
+
+__Discharge, Disorder & Decay:__ Pilgrimage of Grace (1536) protests religious change; brutally suppressed. Kett's Rebellion (1549) and Western Rising (1549) express agrarian and religious grievances. Prayer Book Rebellion against Protestant liturgy. Disorder contained through exemplary violence and concession, but grievance persists.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Religious uncertainty dominates mood; three regime changes in religion (Henry's break, Edward's Protestantism, Mary's Catholicism) within 25 years produce anxiety, conformity, and dissimulation. Trust is cautious; denunciation risks are real. Print both inflames and reflects popular uncertainty.
+
+__Leadership & Personal Authority:__ Henry VIII projects overwhelming personal authority; "bluff King Hal" dominates court and country. Thomas Cromwell's administrative genius drives Reformation policy until his fall (1540). Edward VI's minority sees factional rule. Mary I's personal conviction drives Catholic restoration. Leadership is intensely personal and dynastic.
+
+__Legitimacy as Lived Allegiance:__ Tudor legitimacy rests on dynastic claim, royal presence, and divine sanction now contested. Henry's break with Rome divides allegiance between Crown and Pope. Protestantism claims scriptural authority; Catholicism claims apostolic continuity. Lived allegiance is fractured and tested.
+
+__Political Will & Collective Resolve:__ Crown will dominates; Parliament increasingly consulted but remains instrument of royal policy. Religious policy imposed from above meets varied reception: compliance, evasion, martyrdom. No collective popular will articulates independently; print gives scattered voices.
+
+__External Relations & Posture:__ England balances between Habsburg and Valois powers. Break with Rome isolates England diplomatically. Marriage alliances (Catherine of Aragon, Anne of Cleves, Mary's Philip II) serve diplomacy. Ireland is a contested periphery. Scotland remains hostile until dynastic union prospect emerges.
+
+__Disaffection, Apathy & Spent Will:__ Religious persecution under Henry, Edward, and Mary produces martyrs and exiles. Marian exiles (Frankfurt, Geneva, Strasbourg) sustain Protestant print networks abroad. Disaffection among dispossessed Catholics and persecuted Protestants alike; exhaustion begins but not yet dominant.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Latin remains scholarly and legal lingua franca; English expands in print, administration, and Protestant worship. Literacy ~10% overall (men more than women); higher in London, among gentry and clergy. English Bible (Tyndale, Coverdale, Great Bible 1539) opens Scripture to vernacular readers.
+
+__Channels & Transmission Velocity:__ Print is the revolutionary channel. Handpress produces 200–300 sheets per hour. London to provincial towns: days to weeks by road and river. Continental imports take weeks. Oral reading of printed texts extends reach beyond literates. Pulpit amplifies printed sermons.
+
+__Record, Storage & Persistence:__ Print enables multiplication and survival of texts. Parish registers mandated (1538). Monastic libraries dispersed or destroyed; some collections preserved (Matthew Parker, John Bale). Royal archives grow. Print creates durable copies of polemics, laws, and proclamations.
+
+__Framing, Censorship & Discourse Norms:__ Royal licensing controls printing (1538 proclamation). Star Chamber prosecutes seditious and heretical print. Index of forbidden books. Burning of books and authors (Tyndale 1536). Smuggled imports (from Antwerp, Strasbourg) evade censorship. Permitted discourse shifts with regime: Protestant under Edward, Catholic under Mary.
+
+__Reception, Attention & Amplification:__ Print readership tiny but influential: clergy, gentry, merchants, lawyers, Crown officials. Pamphlets circulate hand to hand. Alehouse readings amplify reach. Sermons reference and quote printed texts. Controversial works attract attention precisely because forbidden.
+
+__Signal Integrity & Noise Load:__ Competing religious claims create high-stakes contested information. Protestant and Catholic polemics contradict directly. Rumor and manuscript libel supplement print. No verification mechanism beyond authority and Scripture. Noise high; discernment depends on allegiance.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Christian moral framework universal but its institutional locus contested. Pope or King as supreme head? Scripture or tradition as authority? Justice understood as divine and royal. Mercy a royal prerogative. Popular sense of fairness includes "just price" and communal custom.
+
+__Law, Codification & Regulatory Evolution:__ Common law, equity (Chancery), and church courts coexist. Act of Supremacy (1534) makes Crown head of Church. Treason statutes expanded to cover religious offenses. Heresy laws enforced variably. Licensing regulations codify print control. Dissolution statutes transfer monastic property.
+
+__Adjudication, Liability & Sanction:__ Star Chamber handles press offenses. Ecclesiastical courts prosecute heresy; burning is the sanction. Royal courts handle treason; hanging, drawing, quartering. Local courts handle petty offenses. Sanction is public and exemplary.
+
+__Rights, Protections & Compliance Burden:__ Habeas corpus exists but Crown prerogative overrides. No toleration; religious conformity compelled. Compliance burden rises with each religious reversal: recantation, attendance, oath-taking. Conscience becomes a site of resistance.
+
+__Impunity & Unredressed Wrong:__ Crown and powerful nobles act with impunity; Thomas More and Thomas Cromwell both executed by royal will. Heresy prosecutions produce martyrs on both sides. No appeal beyond royal mercy. Injustice felt but unredressed; emigration is one escape.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Humanism spreads via print (Erasmus, More, Colet). Greek and Hebrew learning enables Biblical scholarship. Scholasticism persists in universities. Natural philosophy minor; no Scientific Revolution yet. Print accelerates circulation of classical and patristic texts.
+
+__Applied Knowledge & Technical Method:__ Printing itself is the key technical innovation. Navigation and cartography improve (maps printed). Metallurgy and mining techniques circulate in printed manuals. Agriculture and medicine benefit modestly from printed handbooks.
+
+__Education, Knowledge Stock & Skill Distribution:__ Grammar schools expand (endowed by Reformation windfalls). Universities (Oxford, Cambridge) educate clergy and gentry. Inns of Court train lawyers. Apprenticeship transmits craft knowledge. Literacy rising but still minority attainment. Knowledge stock concentrated in elites.
+
+__Obsolescence & Knowledge Decay:__ Monastic libraries dispersed; some manuscripts lost, others collected by antiquarians. Scholastic Latin learning devalued by humanists. Manuscript culture giving way to print. Loss of Catholic liturgical knowledge among Protestants; loss of vernacular Scripture among Catholics.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ English identity coalesces around language, Crown, and increasingly Protestant Christianity. Henry VIII as defender of the realm against papal tyranny. Martyrs (Tyndale, Cranmer, More, Fisher) become competing myths. Arthurian and Trojan origin myths persist in print.
+
+__Legitimating Narrative & Ideology:__ Royal supremacy justified by divine right, historical precedent, and Scripture (Cromwell's propaganda). Protestant reformers claim return to primitive church. Catholic apologists defend apostolic authority. Print is the medium for all legitimating arguments.
+
+__Artistic Expression & Material Culture:__ Tudor architecture blends Gothic and Renaissance (Hampton Court). Dissolution destroys monastic art; iconoclasm damages church interiors. Holbein portraiture glorifies monarchy. Printed woodcuts and title pages develop visual conventions. English prose style matures (More, Tyndale, Cranmer's collects).
+
+__Form Exhaustion & Meaning Decay:__ Catholic liturgical forms suppressed then restored then suppressed; uncertainty hollows ritual meaning for many. Saints' cults abolished. Religious art destroyed. New Protestant forms (metrical psalms, homilies) not yet naturalized. Cultural dislocation evident but not yet resolved.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christian cosmology universal: creation, fall, redemption, judgment. But Reformation fractures interpretive authority. Predestination debates (emerging under Edward) introduce Calvinist anxiety. Purgatory abolished in Protestant theology; eschatology simplified. Existential stakes of religious choice heightened by persecution.
+
+__Ritual, Devotion & Sacred Practice:__ Mass replaced by communion service (1549, 1552 Prayer Books); then Mass restored under Mary. Prayers for dead abolished/restored. Pilgrimages suppressed. Saints' days reduced. Daily devotion reoriented toward Scripture reading and household prayer under Protestantism.
+
+__Religious Institutions & Doctrinal Authority:__ Church of England created (1534) with monarch as Supreme Head. Monasteries dissolved (1536–1541). Clerical marriage permitted then forbidden then permitted. Episcopal structure retained. Doctrinal authority contested: Scripture, tradition, royal supremacy, papal authority all claimed.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Protestantism spreads via print, preaching, and patronage. London and southeast more Protestant; north and west more conservative. Exile communities (Marian exiles) absorb Continental Reformed theology. Catholicism driven underground but not eliminated. No stable settlement yet.
+
+__Disenchantment & Sacred Discharge:__ Iconoclasm physically enacts disenchantment of sacred objects. Relics destroyed; shrines despoiled. But new sacred objects emerge: the English Bible, the Book of Common Prayer. Disenchantment partial and contested; re-enchantment under Mary, renewed iconoclasm under Elizabeth to come. The sacred is fractured, not abolished.

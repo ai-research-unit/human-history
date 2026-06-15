@@ -1,69 +1,140 @@
-# __2500 BCE – 2000 BCE__ — Early Bronze Age IV Collapse and Pastoral Interlude
-__Summary:__ A five-century structural dissolution in which the fortified city-based polities of EB II–III abandon their tells, palace economies disintegrate, and the population disperses into a mosaic of villages, hamlets, and mobile pastoral camps across the Levantine corridor. The binding constraint is the compound failure of the urban subsistence-surplus nexus: the 4.2 ka aridity event tightens water and cereal yields while Egyptian withdrawal removes the external demand that had underwritten surplus extraction, leaving walled towns unviable as organizational nodes. Margin against drought collapses with grain stores no longer replenished, and the principal direction of change is de-urbanization coupled with a shift from centralized agrarian tribute toward flexible pastoral and village-scale self-provisioning.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Levantine corridor remains fixed: Mediterranean coast, Galilee highlands, Jordan Rift, Transjordanian plateau; the tell sites that concentrated EB II–III population lose locational advantage as large-scale administration dissolves, while upland and steppe margins gain relative utility for pastoral mobility.<br><br>
-__Climate Regime & Volatility:__ The 4.2 ka arid episode (~2200 BCE) imposes a multi-decadal reduction in rainfall and shortened growing seasons; interannual volatility rises; conditions trend drier across the window, stressing rain-fed agriculture in marginal zones.<br><br>
-__Hazard Regime & Exposure:__ Drought becomes the dominant acute hazard; seismic risk persists but leaves no clear archaeological imprint in this interval; reduced settlement density lowers aggregate exposure to localized shocks.<br><br>
-__Resource & Energy Endowment:__ Arable land remains but yields decline under drier conditions; pasture quality fluctuates seasonally; copper ores in the Arabah and Feinan continue available but demand contracts with organizational collapse.<br><br>
-__Waste Absorption & Sink Capacity:__ With urban population dispersed, effluent loads drop precipitously; landscape absorptive capacity exceeds reduced waste output; no detectable sink stress.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Dispersal into smaller, more mobile groups lowers crowd-disease exposure relative to EB II–III towns; endemic gastrointestinal and parasitic loads persist at moderate background levels; net mortality pressure probably eases.<br><br>
-__Nutrition & Physiological Vitality:__ Skeletal evidence from shaft-tomb cemeteries indicates adequate protein intake via pastoral products; drought episodes introduce periodic caloric shortfalls but pastoral flexibility buffers against outright famine; overall nutritional status likely stable to slightly improved relative to late EB III urban poor.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Smaller kin-based residential units reinforce endogamous or clan-linked pairing; physiological fertility unimpaired; no evidence of reproductive crisis.<br><br>
-__Demographic Renewal & Density:__ Total regional population contracts significantly as cities empty; density redistributes toward low-density village and pastoral bands; replacement rates appear sufficient to maintain dispersed communities; out-migration toward less-affected zones possible but poorly attested.<br><br>
-__Attrition & Dependency Overhang:__ Smaller household units absorb dependents within kin networks; the collapse of palace redistribution removes institutional buffers but also the dependency loads those institutions generated; net dependency burden probably lightens with reduced sedentary population.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Households shift toward diversified agropastoral self-provisioning: small-scale cereal and legume cultivation in favored micro-environments, supplemented by sheep-goat herding for meat, milk, and fiber; the provisioning floor lowers but broadens against localized failure.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain the sole prime movers; per-capita work output unchanged in kind but redirected from monumental construction and surplus extraction toward subsistence tasks and pastoral mobility.<br><br>
-__Labor Organization & Coercion:__ Palace corvee and tribute labor dissolve; kinship-organized reciprocal labor replaces centralized mobilization; coercion limited to intra-household authority; labor autonomy rises.<br><br>
-__Production & Surplus Capacity:__ Surplus generation collapses: no palace granaries, no standardized craft production for export; output meets immediate household and kin-group needs with little systematic accumulation.<br><br>
-__Storage, Reserves & Buffering:__ Storage contracts to household-scale pits and portable containers; no regional reserves; buffering relies on herd mobility and kin-based sharing rather than centralized stockpiles.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange attenuates: Egyptian demand ceases, timber and oil exports halt, copper production declines; local and inter-regional exchange persists at reduced scale through pastoral and village networks.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; value stored in livestock and portable goods; deferred reciprocity within kin networks replaces palace-mediated redistribution.<br><br>
-__Surplus Extraction & Redistribution:__ Formal extraction mechanisms dissolve with palace collapse; any redistribution occurs through kin obligation and communal allocation of pastoral products; extraction load on producers effectively zero.<br><br>
-__Wealth Distribution & Asset Defense:__ Concentration flattens dramatically; shaft-tomb burials show modest differentiation through personal ornaments and weapons but nothing approaching EB II–III elite accumulation; portable wealth defended through mobility and kin solidarity.<br><br>
-__Byproducts & Waste Routing:__ Dispersed production generates minimal concentrated waste; animal dung recycled as fuel and fertilizer; no industrial effluent; routing effectively closed within household metabolism.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kin-based solidarity intensifies as the primary survival mechanism; trust radius narrows to lineage and clan; reciprocity obligations strengthen within the contracted social unit.<br><br>
-__Stratification, Status & Group Identity:__ Urban elite strata vanish; status differentiates along kinship seniority and pastoral wealth (herd size); ethnic or tribal identities may crystallize in the absence of overarching polity affiliation; boundaries between groups harden.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal extended households predominate; inheritance of herds and land rights passes through kin lines; marriage alliances cement inter-clan relations.<br><br>
-__Civic Association & Self-Organization:__ Village councils and pastoral band leadership replace urban administration; decision-making devolves to headmen and elders; associational life contracts to kin and residential unit.<br><br>
-__Leisure, Play & Sociability:__ Seasonal gatherings at water sources and pastures provide occasions for feasting, marriage negotiation, and collective ritual; daily sociability embedded in kin-group co-residence.<br><br>
-__Grievance Channels & Social Discharge:__ Kin mediation and blood-feud conventions channel disputes; mobility offers exit from conflict; unresolved grievances may persist as inter-clan tensions but do not accumulate into systemic instability at the collapsed urban scale.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Polity-level authority disintegrates; power fragments to village headmen, pastoral band leaders, and lineage elders; no supra-local coordination; authority is personal and kin-legitimated rather than institutional.<br><br>
-__Succession & Power Transfer:__ Leadership passes within kin groups through seniority, prestige, or contest; no formalized succession rules beyond lineage custom; transfer is localized and rarely contested at scale.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derives from kinship standing and demonstrated competence in pastoral or martial matters; no overarching political ideology; narrative memory of EB II–III urban grandeur may persist but no longer underwrites current authority.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Institutional administration ceases; no archives, no standardized weights, no bureaucratic record-keeping; capacity contracts to oral memory and face-to-face coordination.<br><br>
-__Political Participation & Mobilization:__ Participation is direct within small-scale units; mobilization for collective action (defense, seasonal movement) organized through kin obligation; no mass politics.<br><br>
-__Geopolitical Position & External Relations:__ Egyptian withdrawal removes the dominant external actor; no evidence of sustained contact with Mesopotamian states; the region becomes a geopolitical periphery; inter-group relations are local and opportunistic.<br><br>
-__Coercive Apparatus & Means of Force:__ Organized military dissolves; weapons (daggers, javelins, axes) held individually; no standing forces; coercive capacity resides in kin-group raiding potential.<br><br>
-__Internal Order & Threat Environment:__ Raiding and rustling between pastoral groups constitute the primary security threat; no banditry at scale; disorder is endemic but low-intensity; mobility and kin retaliation provide equilibrium.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by word of mouth along pastoral circuits and inter-village contact; velocity limited to human and animal movement; reach contracts with reduced inter-regional exchange.<br><br>
-__Record, Storage & Persistence:__ No writing system operates in the region during this window; all record and institutional memory reside in oral tradition, genealogical recitation, and ritual rehearsal; persistence depends entirely on living memory and intergenerational transmission.<br><br>
-__Framing, Censorship & Discourse Norms:__ No centralized message control; discourse norms embedded in kin and clan etiquette; taboos and permitted speech governed by customary oral tradition.<br><br>
-__Reception, Attention & Amplification:__ Audiences are small kin-group gatherings; amplification occurs through repetition at seasonal assemblies; no mass reception.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces gradual drift; no verification mechanism beyond consensus memory; noise accumulates across generations but information volume is low enough that critical knowledge persists.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice rooted in kinship obligation, honor, and reciprocity; wrongs are offenses against kin group as much as individual; compensation and retaliation frame moral response.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; binding norms exist as oral custom transmitted through elder authority; evolution is slow and conservative, embedded in precedent and collective memory.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by elders and kin heads; enforcement through kin pressure and threat of feud; liability collective within lineage; no third-party courts.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights subordinate to kin-group standing; protection derives from lineage membership; compliance burden low in the absence of formal regulation.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lineages may escape retaliation; unredressed wrongs persist as feuds or latent grievance; impunity correlates with kin-group strength; no institutional backlog.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; explanatory frameworks embedded in cosmological and ancestral narratives; natural phenomena understood through mythic causation.<br><br>
-__Applied Knowledge & Technical Method:__ Practical knowledge of animal husbandry, seasonal pasture, ceramic production, and metallurgy (at reduced scale) persists; techniques transmitted through apprenticeship and imitation within kin groups.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education is informal, embedded in household and pastoral routine; knowledge stock contracts with loss of specialized urban crafts; skills distributed broadly within kin units but narrowly across the region.<br><br>
-__Obsolescence & Knowledge Decay:__ Urban administrative and monumental construction knowledge atrophies rapidly; palace-associated craft specializations (fine metalwork, standardized ceramics) decline; practical pastoral and agricultural knowledge persists.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestral lineage narratives provide identity anchors; memory of urban past may survive in oral tradition but recedes in salience; origin stories emphasize pastoral and kin-group continuity.<br><br>
-__Artistic Expression & Material Culture:__ Material culture simplifies: shaft-tomb grave goods include personal ornaments, weapons, and simple pottery; regional ceramic traditions diversify; no monumental architecture; aesthetic expression channeled into portable and perishable media.<br><br>
-__Collective Mood & Behavioral Disposition:__ A pragmatic, survivalist temper prevails; confidence in large-scale collective enterprise eroded; behavioral disposition favors mobility, caution, and kin solidarity over sedentary accumulation.<br><br>
-__Form Exhaustion & Meaning Decay:__ Urban ritual forms and elite symbolic repertoires lose meaning as their institutional base dissolves; new pastoral and lineage-centered forms emerge but remain locally variable; cultural fragmentation rather than exhaustion characterizes the transition.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmology remains polytheistic and animist, oriented toward weather, fertility, and ancestral spirits; existential outlook emphasizes dependence on divine favor for pastoral success and rainfall; fatalism regarding drought and loss.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual practice shifts from temple-centered to household and lineage shrines; animal sacrifice, libation, and ancestor veneration predominate; seasonal gatherings at traditional sacred sites may persist.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple institutions collapse with urban abandonment; no priestly hierarchy; ritual authority resides with lineage elders and household heads; doctrine is customary rather than codified.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Regional fragmentation produces localized cult variation; no dominant religious movement; ancestral and nature cults coexist without systematic integration; spiritual landscape mirrors political fragmentation.<br><br>
-__Disenchantment & Sacred Discharge:__ The collapse of urban temples may leave some sacred needs unmet, but pastoral and kin-based ritual fills the gap; no evidence of widespread disenchantment; the sacred remains immanent in landscape, herd, and lineage.<br><br>
+# __2,500 BCE – 2,000 BCE__ — Early Bronze Age IV Collapse and Pastoral Interlude
+
+__Summary:__ The urban system that consolidated across the southern Levant during EBA II–III breaks down between roughly 2500 and 2300 BCE: walled towns are abandoned or destroyed, sedentary agriculture contracts, and populations disperse into mobile pastoral and semi-nomadic groups for five centuries until Middle Bronze Age re-urbanization. Spoken tradition carries through the rupture what writing cannot — oral culture remains the sole medium of coordination, memory, and identity as the institutions that once filled cities cease to exist. The binding constraint is the 4.2 ka aridification event, which tightens climate margins beyond what irrigation-dependent urbanism can sustain, triggering abandonment rather than adaptation.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The southern Levant's urban corridor — running from Megiddo and Beth Shean in the Jezreel Valley south through the central hill country to Arad in the northern Negev — empties as cities are abandoned; populations shift into marginal steppe, highland refuges, and Transjordanian rangelands where mobile pastoralism is viable but dense settlement is not.
+
+__Climate Regime & Volatility:__ The 4.2 ka event (c. 2200–2000 BCE at its peak, with precursor drying evident by 2500 BCE) imposes multi-decadal drought across the eastern Mediterranean: Dead Sea levels drop, pollen cores show reduced arboreal cover, and speleothem records confirm sharply reduced precipitation — a regime shift that persists through the entire EB IV window.
+
+__Hazard Regime & Exposure:__ Earthquake destruction at several sites (Beth Shean, Megiddo) compounds climatically-driven stress; whether seismic events are triggers or merely concurrent remains debated, but collapsed mudbrick and burn layers mark the transition at multiple sites.
+
+__Resource & Energy Endowment:__ Copper production at Faynan and Timna continues into EB IV but at reduced intensity; woodland clearance during EBA II–III had already degraded local fuel stocks, and aridification shrinks arable land faster than populations can adapt.
+
+__Waste Absorption & Sink Capacity:__ The deforestation and soil erosion accumulated during EBA II–III intensification is no longer buffered by wet-phase recharge; the landscape enters a desiccated equilibrium in which the degraded hillsides cannot recover — a lock-in effect that makes re-urbanization contingent on eventual climatic amelioration.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Dispersed pastoral populations shed the epidemic burden of crowded towns; mortality from infectious disease likely falls as settlement density collapses, though evidence is indirect.
+
+__Nutrition & Physiological Vitality:__ Bioarchaeological data from EB IV burials show smaller, lighter skeletons than EBA II–III populations, consistent with nutritional stress during the transition; thereafter, pastoral diets (meat, milk, limited grain) appear adequate but not abundant.
+
+__Care, Healing & Recovery Capacity:__ Kin-based mobile groups retain folk remedy and midwifery; institutional healing capacity — if any existed in EBA towns — vanishes with the towns themselves.
+
+__Reproductive Biology & Pairing Dynamics:__ Smaller co-residential groups likely shift mating patterns toward lineage-focused endogamy or inter-band alliance; the demographic signature is contraction followed by slow stabilization rather than replacement.
+
+__Demographic Renewal & Density:__ Population in the southern Levant may fall by half or more between 2400 and 2100 BCE; survey data show a sharp drop in site counts and total occupied area, with recovery only beginning after 2000 BCE.
+
+__Attrition & Dependency Overhang:__ Mobile pastoralism is less forgiving of dependents than sedentary agriculture; the elderly and infirm either travel with kin or are left behind — the archaeological record is silent, but structural constraints are clear.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The irrigated grain agriculture that supported EBA cities collapses; pastoral groups rely on herd products (sheep, goat, cattle) supplemented by opportunistic dry-farming where rain permits, returning to a mixed subsistence closer to Chalcolithic patterns than EBA intensification.
+
+__Energy Capture & Conversion:__ Without urban surplus to mobilize corvee labor, large-scale construction ceases; energy expenditure drops to household scale, and the per-capita work ceiling shrinks accordingly.
+
+__Labor Organization & Coercion:__ Corvee and possibly slave labor that built EBA fortifications vanishes; labor becomes kin-organized and consensual within small pastoral bands.
+
+__Production & Surplus Capacity:__ Surplus generation is minimal; herds are wealth, but they move, and accumulation is capped by pasture availability and the risk of drought loss — no sedentary surplus economy exists during EB IV.
+
+__Storage, Reserves & Buffering:__ Granaries disappear with the cities; mobile groups buffer against shortage by herd dispersal, kinship reciprocity, and geographic movement rather than static storage.
+
+__Exchange, Trade & Logistics:__ Long-distance trade shrinks dramatically: Egyptian imports vanish from the southern Levant after EBA III, and the exchange networks that moved copper, olive oil, and wine contract to local barter among pastoral groups.
+
+__Value Storage, Credit & Deferred Exchange:__ No coinage or standardized weight exists; value is stored in livestock, and reciprocal obligation — remembered and spoken — replaces any material credit system.
+
+__Surplus Extraction & Redistribution:__ No state apparatus remains to collect tribute or tax; redistribution occurs within kin groups through hospitality norms and lineage obligation, all orally negotiated.
+
+__Wealth Distribution & Asset Defense:__ Wealth inequality flattens: pastoralist bands show homogeneous burial goods, and the elite tombs of EBA cities have no EB IV equivalent — differentiation returns only with MBA re-urbanization.
+
+__Byproducts & Waste Routing:__ Material throughput drops to levels too low to leave archaeological waste signatures; pastoral camps leave ephemeral traces — hearths, bone scatter, potsherds — rather than the midden deposits of sedentary sites.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The patrilineal clan becomes the primary social unit; extended kin networks replace territorial polities, and inheritance passes within lineages defined by remembered genealogy — the spoken list of ancestors.
+
+__Association & Mutual Aid:__ Inter-band alliances form for pasture access, defense, and marriage exchange; these are negotiated orally at seasonal gatherings and dissolved when circumstances change, leaving no material trace.
+
+__Leisure, Play & Sociability:__ Pastoral festivals and seasonal aggregations likely include music, storytelling, and competitive games, though evidence is inferential; the social function is cohesion across dispersed bands.
+
+__Stratification, Status & Group Structure:__ The three-tier hierarchy of EBA cities (rulers, specialists, laborers) collapses into a shallow gradient: senior lineage heads, warriors, and dependents — status earned or inherited within kin groups, not assigned by urban institutions.
+
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus survives; there are no archives, no tax lists, no scribes — because there is no writing and no institution that requires it. Coordination is face-to-face and oral.
+
+__Coercive Apparatus & Means of Force:__ Fortifications are abandoned; military capacity devolves to armed bands capable of raiding and defense but not siege or sustained campaign. Weaponry (copper daggers, maceheads) remains but is no longer state-supplied.
+
+__Discharge, Disorder & Decay:__ The disorder of the collapse — destruction layers, unburied dead at some sites — gives way to a low-intensity equilibrium in which conflict is raiding rather than conquest, and social friction is discharged through blood feud and compensation negotiated orally.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The psychological register of EB IV is unrecoverable, but structural conditions — displacement, loss of settled security, reliance on kin — suggest heightened in-group solidarity and suspicion of outsiders; trust radius contracts to the lineage.
+
+__Leadership & Personal Authority:__ Leadership is personal and situational: war leaders for raids, elders for dispute resolution, no permanent office — authority legitimated by spoken reputation and demonstrated competence.
+
+__Legitimacy as Lived Allegiance:__ With no polity to claim allegiance, legitimacy attaches to kin heads and lineage tradition; the "right to rule" is the right to lead one's own people, justified by genealogy and custom spoken at gatherings.
+
+__Political Will & Collective Resolve:__ Collective action is episodic: bands mobilize for migration, defense, or raid, then disperse; sustained political will beyond the kin group does not exist.
+
+__External Relations & Posture:__ Pastoral bands interact with Egypt (now entering the First Intermediate Period) only marginally; Transjordanian groups raid southward, and Mesopotamian records (Akkadian, Ur III) mention "Amorite" pastoralists to the west — the external gaze sees mobile peoples, not cities.
+
+__Disaffection, Apathy & Spent Will:__ The collapse itself may represent spent will — populations that could no longer sustain urban institutions simply walked away. What remains is not apathy but a different mode of life, scaled to what oral coordination can manage.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Semitic dialects (ancestral to Canaanite and Amorite) are the sole medium; no writing exists in the southern Levant during EB IV, and literacy in neighboring Egypt and Mesopotamia does not penetrate pastoral society.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of human and animal movement; messengers between bands, seasonal gatherings for news exchange, and the oral network of kin and alliance replace any institutionalized channel.
+
+__Record, Storage & Persistence:__ Memory is the only archive: genealogies, grazing rights, alliance obligations, and customary law are held in the minds of elders and transmitted through recitation. What is not remembered is lost.
+
+__Framing, Censorship & Discourse Norms:__ Oral tradition shapes what can be said: praise of ancestors, silence on shameful episodes, and formulaic recitation constrain discourse, but there is no central authority to enforce censorship.
+
+__Reception, Attention & Amplification:__ Stories spread through retelling at gatherings; a tale that resonates is repeated, one that does not is forgotten — oral virality, subject to audience attention and performer skill.
+
+__Signal Integrity & Noise Load:__ Without written correction, oral tradition drifts: names alter, events compress or expand, and genealogies telescope. The noise is endemic but managed by formulaic patterning and communal correction at recitation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Customary law governs: blood feud, compensation (livestock for injury or death), hospitality obligations, and grazing rights — all spoken, none codified.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; regulation is oral precedent interpreted by elders in dispute resolution, with no fixed code and no archive of rulings.
+
+__Adjudication, Liability & Sanction:__ Disputes are settled by mediation, oath, or feud; liability is assigned by lineage (the group pays or avenges), and sanction ranges from compensation to exile to blood revenge.
+
+__Rights, Protections & Compliance Burden:__ Rights are relational: the right to graze here, the right to hospitality there, the right to vengeance for a kinsman — all remembered and contested, with compliance enforced by reputation and reciprocity.
+
+__Impunity & Unredressed Wrong:__ Wrongs that cannot be avenged or compensated remain as grievance, sometimes for generations; the oral tradition carries grudges as it carries genealogies, and the gap between justice owed and delivered is a standing structural feature.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Empirical inquiry is practical: knowledge of pasture, weather signs, animal husbandry, and herbal remedy; no formal paradigm or theoretical discourse exists beyond embedded lore.
+
+__Applied Knowledge & Technical Method:__ Pastoral technology — tent-making, leather-working, wool processing, copper-smithing at reduced scale — continues from EBA tradition but is transmitted by apprenticeship and imitation, not teaching institutions.
+
+__Education, Knowledge Stock & Skill Distribution:__ All education is informal, oral, and embedded in daily practice; the knowledge stock is what living memory holds, and skill distribution is narrow (specialists) or universal (basic subsistence).
+
+__Obsolescence & Knowledge Decay:__ EBA urban crafts — monumental architecture, olive oil production at scale, faience manufacture — are lost or dormant; the techniques may survive in latent form but are not practiced, and by the time MBA re-urbanization occurs, much must be reinvented or reintroduced.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Pastoral identity crystallizes around lineage descent, ancestral migration, and origin tales; the collapse itself may enter tradition as a founding rupture — "the time we left the cities" — though no direct textual evidence survives.
+
+__Legitimating Narrative & Ideology:__ Legitimacy is genealogical: the elder rules because his line rules, and the line's right is spoken in recitation. No ideology of kingship or statehood survives the collapse.
+
+__Artistic Expression & Material Culture:__ EB IV pottery is coarse and utilitarian; the elaborate painted wares and faience of EBA II–III disappear. Burial goods — simple copper daggers, beads — show reduced craft investment. Art is portable or perishable: song, story, textile pattern.
+
+__Form Exhaustion & Meaning Decay:__ The urban symbolic repertoire — fortifications as power display, temples as cosmic axis — loses function and meaning when the institutions behind it collapse; pastoral culture does not inherit it but substitutes its own repertoire of lineage and mobility.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Pastoral cosmology centers on sky, herd, and ancestor; the high god of the storm (later El, Baal antecedents) and the chthonic powers of spring and well are invoked, but no temple cult structures belief.
+
+__Ritual, Devotion & Sacred Practice:__ Sacrifice occurs at open-air sites and seasonal gatherings; the household shrine replaces the urban temple, and devotional practice is kin-led rather than priest-administered.
+
+__Religious Institutions & Doctrinal Authority:__ No priestly hierarchy survives; religious authority inheres in lineage elders and occasional seers or diviners, not in institutional office or property.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The urban cults of EBA cities — whatever they were — fragment or vanish; pastoral belief is localized, kin-transmitted, and variable, with no orthodoxy to enforce.
+
+__Disenchantment & Sacred Discharge:__ The collapse may itself carry spiritual meaning — divine abandonment, punishment, or purification — but oral tradition shapes interpretation, and no text preserves the theodicy of the moment. What remains is the re-sacralized landscape of pastoral religion, adequate to the world it inhabits.
+

@@ -1,69 +1,139 @@
-# __1930 CE – 2005 CE__ — Network Broadcasting System
-__Summary:__ A pan-temporal snapshot of the American network broadcasting system across seventy-five years, from radio network consolidation through television dominance to cable-era fragmentation; the binding constraint is spectrum scarcity and the three-network oligopoly structure it produces; the system holds substantial margin during its mid-century peak but loses audience share steadily after 1980 as cable and satellite multiply channels; the principal direction of change is from concentrated national reach toward fragmented niche audiences.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental territory from Atlantic to Mississippi Valley and Great Lakes, with urban centers as primary broadcast markets and affiliate coverage mapping population density; mountain terrain and distance impose signal limits overcome by network-affiliate relay structure.<br><br>
-__Climate Regime & Volatility:__ Temperate continental climate with seasonal variation; weather disruptions occasionally interrupt transmission but pose no systemic constraint on the broadcast infrastructure.<br><br>
-__Hazard Regime & Exposure:__ Regional hazards — hurricanes, tornadoes, ice storms — damage local transmission infrastructure intermittently; redundant network feeds and multiple affiliates provide absorptive margin; no catastrophic system-wide outage during the window.<br><br>
-__Resource & Energy Endowment:__ Abundant coal, petroleum, and hydroelectric capacity underwrite the electrical grid that powers broadcast transmission and reception; no energy constraint binds broadcast expansion.<br><br>
-__Waste Absorption & Sink Capacity:__ Electromagnetic spectrum is the relevant sink; spectrum crowding drives regulatory allocation, but radio-frequency interference is managed rather than saturated; physical waste from electronics manufacturing disperses into broader industrial waste streams without binding local capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden declines across the window with antibiotic and vaccine advances; mortality rates fall; no epidemic disrupts broadcast operations or audience availability systemically.<br><br>
-__Nutrition & Physiological Vitality:__ Rising caloric adequacy and improved nutrition through mid-century; obesity emerges as a concern by window's end; sedentary television viewing is noted as a contributing factor but does not constrain broadcast system operation.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility declines from Depression-era lows through baby boom peak to sub-replacement by window's end; broadcast programming tracks family structure shifts from nuclear-family sitcoms to diverse household formats.<br><br>
-__Demographic Renewal & Density:__ Population grows from 123 million (1930) to 296 million (2005) in the U.S.; urbanization and suburbanization reshape audience geography; advertisers pay premiums for demographic segments, especially 18–49 adults.<br><br>
-__Attrition & Dependency Overhang:__ Aging population increases by window's end; dependent elderly cohort grows but does not strain broadcast economics; advertisers discount older demographics, shifting programming focus.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mass consumer economy with adequate provisioning for most; Depression-era scarcity gives way to postwar abundance; discretionary income supports radio and television set purchases and advertiser-funded programming.<br><br>
-__Energy Capture & Conversion:__ Fossil-fuel-powered electrical grid enables 24-hour transmission and universal reception; energy conversion efficiency rises through the window; no power constraint limits broadcast expansion.<br><br>
-__Labor Organization & Coercion:__ Broadcast workforce organized through unions — AFTRA, IATSE, WGA — with collective bargaining; strikes occasionally interrupt production but do not collapse the system; labor relations stable overall.<br><br>
-__Production & Surplus Capacity:__ Networks produce or license thousands of programming hours annually; surplus advertising revenue funds prestige news divisions and entertainment development; production capacity exceeds airtime slots by window's mid-point.<br><br>
-__Storage, Reserves & Buffering:__ Networks maintain program libraries, kinescopes, and later videotape archives; syndication market recycles content; financial reserves sufficient to absorb occasional ratings failures or advertising downturns.<br><br>
-__Exchange, Trade & Logistics:__ Affiliate clearance system distributes network programming to local stations; syndication markets exchange off-network reruns; advertising time sold through upfront markets and scatter buys.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Dollar-denominated transactions; advertising commitments contracted seasonally; network stocks traded publicly; credit markets fund station acquisitions and capital upgrades.<br><br>
-__Surplus Extraction & Redistribution:__ Networks extract advertising revenue and remit affiliate compensation; federal taxes and license fees modest; net surplus funds shareholder returns, executive compensation, and reinvestment.<br><br>
-__Wealth Distribution & Asset Defense:__ Broadcast licenses confer oligopoly rents; ownership concentrated among networks and major station groups; license value protected by regulatory scarcity; wealth concentration stable until cable dilutes scarcity premium.<br><br>
-__Byproducts & Waste Routing:__ Obsolete equipment, tape stock, and studio materials discarded into municipal waste streams; electromagnetic spectrum use generates no physical byproduct; production externalities minimal relative to industrial sectors.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Network broadcasts create shared national reference points, extending trust radius through common information; "Did you see last night?" becomes social currency; this shared fabric thins as channel multiplication fragments audiences post-1980.<br><br>
-__Stratification, Status & Group Identity:__ Class, race, and regional identities mediated through broadcast representation; white middle-class norms dominate programming into the 1970s; minority representation slowly increases; audience segmentation by cable era reflects and reinforces identity stratification.<br><br>
-__Kinship, Family & Inheritance:__ Television watching structured around family viewing hours; programming assumes nuclear household; generational transmission of viewing habits shapes network loyalty until remote controls and multiple sets individualize consumption.<br><br>
-__Civic Association & Self-Organization:__ Broadcast viewing displaces some civic participation ("Bowling Alone" thesis); yet televised events — telethons, charity appeals — mobilize collective action; the net effect is contested across the window.<br><br>
-__Leisure, Play & Sociability:__ Evening television becomes the dominant leisure activity by 1960; sports programming extends weekend viewing; sociability reorganizes around broadcast schedules — appointment viewing — then fragments with VCR and cable choice.<br><br>
-__Grievance Channels & Social Discharge:__ Talk shows, call-in programs, and editorial responses provide limited grievance outlet; viewer letters and later phone polls offer feedback; substantial audience frustration over representation and content finds no systematic discharge channel until cable multiplication.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal regulatory authority vested in FCC; network headquarters in New York concentrate programming decisions; political power over content indirect but felt through license renewal leverage and occasional congressional pressure.<br><br>
-__Succession & Power Transfer:__ Network leadership succession corporate and routinized; FCC commissioners appointed by presidents with Senate confirmation; partisan composition shifts with administrations but institutional continuity maintained.<br><br>
-__Legitimacy & Political Narrative:__ Networks present themselves as public trustees serving the national interest; this legitimacy narrative erodes with quiz scandals, Vietnam coverage controversies, and perceived bias accusations from both political directions.<br><br>
-__Administrative Capacity & Institutional Integrity:__ FCC maintains licensing records, spectrum allocations, and rulemaking capacity; enforcement inconsistent; industry lobbying shapes regulation; administrative capacity adequate but often captured by regulated interests.<br><br>
-__Political Participation & Mobilization:__ Broadcast coverage of elections, conventions, and debates shapes political participation; equal-time rules and Fairness Doctrine attempt balance; televised campaigns transform candidate selection and voter mobilization.<br><br>
-__Geopolitical Position & External Relations:__ American broadcast content exports globally, projecting soft power; Voice of America and Radio Free Europe serve Cold War information objectives; domestic broadcasting operates without foreign interference.<br><br>
-__Coercive Apparatus & Means of Force:__ No direct coercive apparatus; FCC license revocation threat is ultimate sanction but rarely exercised; industry self-regulation through NAB codes substitutes for direct enforcement.<br><br>
-__Internal Order & Threat Environment:__ Broadcast facilities secure; occasional protest or bombing threats during Vietnam and civil rights eras; no systemic disruption; internal order well within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Electromagnetic broadcast reaches millions simultaneously; network feeds relay to affiliates via AT&T long lines, then satellite after 1975; transmission velocity instantaneous within coverage area; reach universal for those with receivers.<br><br>
-__Record, Storage & Persistence:__ Kinescope, then videotape, then digital archives preserve programming; network news libraries maintain broadcast record; early material lost to erasure and decay; archival capacity improves across the window.<br><br>
-__Framing, Censorship & Discourse Norms:__ Network standards departments enforce content guidelines; FCC indecency rules constrain language and imagery; Fairness Doctrine (1949–1987) requires issue balance; self-censorship anticipates regulatory and advertiser pressure; discourse band narrow during peak network era, widening with cable.<br><br>
-__Reception, Attention & Amplification:__ Audience reception measured by Nielsen ratings; household meters sample viewing; amplification occurs through watercooler conversation and press coverage of broadcast events; attention concentrated when three networks dominate, fragmenting thereafter.<br><br>
-__Signal Integrity & Noise Load:__ Editorial gatekeeping maintains signal quality on network news; entertainment vetted through development process; misinformation low during network dominance but verification capacity strained as cable multiplies sources and 24-hour cycles accelerate.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Broadcasters operate under public-interest obligation as licensed spectrum users; sense of fairness underlies equal-time and Fairness Doctrine; public expectation of accuracy and decency shapes industry norms.<br><br>
-__Law, Codification & Regulatory Evolution:__ Communications Act of 1934 establishes regulatory framework; Fairness Doctrine codified 1949, repealed 1987; Telecommunications Act of 1996 relaxes ownership limits; regulatory evolution trends toward deregulation across the window.<br><br>
-__Adjudication, Enforcement & Liability:__ FCC adjudicates license disputes, indecency complaints, and ownership violations; courts review FCC decisions; defamation suits adjudicated in civil courts; enforcement active but industry-friendly.<br><br>
-__Rights, Protections & Compliance Burden:__ First Amendment protects broadcast speech with narrower scope than print; license holders bear compliance burden for FCC rules; children's programming requirements add obligations; compliance costs rise then fall with deregulation.<br><br>
-__Impunity & Unredressed Wrong:__ Wrongful broadcast content — defamation, invasion of privacy — occasionally escapes redress due to litigation costs and public-figure standards; FCC complaints backlog at times; impunity limited but present where enforcement lags.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Communications research emerges as academic discipline; media effects theories — agenda-setting, cultivation, uses and gratifications — develop; policy debates informed by social science; paradigm shifts from direct effects to limited effects to constructed meaning.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcast engineering advances from AM radio through FM, VHF/UHF television, color, stereo, and digital; satellite distribution replaces landlines; technical method continuously refined; standards battles (NTSC, HDTV) resolved through regulatory process.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Journalism and broadcasting programs proliferate in universities; technical training institutionalized; workforce skill level rises; media literacy among audiences uneven and not systematically taught.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog techniques obsolete by window's end; institutional memory of radio drama, live television production, and film-to-tape transfer fades; some archival loss through format obsolescence; overall knowledge stock expands despite attrition.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Broadcasting carries national mythos — FDR's voice, Kennedy funeral, moon landing, 9/11 coverage — into collective memory; shared media moments constitute foundational identity experiences for generational cohorts.<br><br>
-__Artistic Expression & Material Culture:__ Television formats — sitcom, drama, variety, news magazine — become dominant cultural forms; advertising aesthetics shape visual culture; living rooms reorganize around the television set; material culture reflects broadcast centrality.<br><br>
-__Collective Mood & Behavioral Disposition:__ Broadcast content both reflects and shapes public mood; post-WWII optimism, 1960s turmoil, 1970s malaise, Reagan-era confidence, and post-9/11 anxiety all register in programming tone and public reception.<br><br>
-__Form Exhaustion & Meaning Decay:__ Network formats exhaust by late window; sitcom and drama formulas recycled; news becomes entertainment; ironic distance and format parody (late-night, reality TV) signal meaning decay; audiences fragment seeking fresher forms.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Broadcast content largely secular; religious programming present but marginal on networks; televangelism emerges on cable and syndication; existential outlook pragmatic and consumerist in mainstream programming.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Sunday morning religious broadcasts serve devotional function; holiday specials (Christmas, Easter) carry vestigial sacred content; otherwise broadcast ritual is civic and entertainment-oriented rather than spiritual.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Mainline denominations decline in cultural authority across the window; evangelical broadcasters build alternative media infrastructure; Catholic and Jewish representation present but assimilated to Protestant-secular norm.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Religious pluralism increases in broadcast representation; New Age and spirituality themes appear in 1990s programming; secularism dominant; no single cosmology achieves broadcast hegemony.<br><br>
-__Disenchantment & Sacred Discharge:__ Broadcast medium itself operates as secular frame; transcendent content rare; spiritual need displaced into celebrity culture, self-help programming, and consumerist aspiration; disenchantment accumulates without systematic sacred discharge.<br><br>
+# __1930 CE – 2005 CE — Network Broadcasting System__
+
+__Summary:__ The network-affiliate model enables a handful of New York-based corporations to address the continental population as a single simultaneous audience, with the oligopoly structure itself — three networks controlling prime-time access from the 1950s until cable fragmentation in the 1980s — functioning as the binding constraint that determines programming, advertising rates, and the shared national experience.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The continental expanse from Atlantic to Pacific, roughly 4,500 kilometers, imposes transmission challenges that only relay infrastructure can overcome; networks solve this by linking local stations through AT&T coaxial cable and, from the 1960s, satellite relay, collapsing distance into simultaneity.
+
+__Climate Regime & Volatility:__ Weather affects local reception — storms disrupt antenna signals, ice damages transmission towers — but the distributed affiliate system provides redundancy; no single climate event disables the national feed.
+
+__Hazard Regime & Exposure:__ Earthquakes, hurricanes, and blizzards occasionally knock local stations off air; networks maintain backup transmission paths and emergency protocols, with affiliate redundancy ensuring continued coverage outside the affected zone.
+
+__Resource & Energy Endowment:__ Abundant electrical generation across the grid powers both transmission infrastructure and the television sets that proliferate from six million in 1950 to over 250 million by 2005; the energy cost per household remains negligible as a share of income.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from obsolete equipment — vacuum tubes, then solid-state components — enters landfills; the environmental load is diffuse and unregulated until late in the period, accumulating as a deferred problem.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Networks themselves do not alter disease exposure, though wartime rationing and postwar prosperity shift population health; television watching correlates with sedentary behavior, contributing to rising obesity rates from the 1970s onward.
+
+__Nutrition & Physiological Vitality:__ Advertising promotes processed foods, soft drinks, and fast food; the network audience absorbs thousands of such commercials annually, shaping consumption patterns with measurable effects on caloric intake and diet quality.
+
+__Care, Healing & Recovery Capacity:__ Public health campaigns — anti-smoking spots, vaccination drives — reach mass audiences through network broadcast, amplifying institutional health messaging beyond what print or radio achieved.
+
+__Reproductive Biology & Pairing Dynamics:__ Broadcast entertainment shapes courtship norms through depictions of romance, marriage, and family life; contraceptive and reproductive health discussion remains largely taboo on network television until the 1970s.
+
+__Demographic Renewal & Density:__ The baby boom generation (1946–1964) grows up with television as ambient presence; by 1960, 90 percent of households own sets, and the medium becomes the shared developmental environment for the largest cohort in American history.
+
+__Attrition & Dependency Overhang:__ Elderly and homebound populations become heavy viewers, with daytime programming and soap operas structured around their availability; networks monetize this demographic through targeted advertising.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Networks operate far above subsistence concerns; the advertising-funded model requires only audience attention, not direct payment, making broadcast content accessible to all income levels with a television and antenna.
+
+__Energy Capture & Conversion:__ Electrical grid expansion powers the proliferation of receivers; networks themselves consume substantial energy for production facilities, transmission towers, and the AT&T interconnection infrastructure.
+
+__Labor Organization & Coercion:__ Network production employs unionized labor — IATSE for stagehands, SAG and AFTRA for performers, WGA for writers — with periodic strikes (1960, 1988, 2001) disrupting programming and demonstrating labor's leverage over content creation.
+
+__Production & Surplus Capacity:__ The three-network oligopoly generates enormous surplus; CBS, NBC, and ABC collectively earn billions in advertising revenue by the 1980s, with profit margins exceeding 30 percent on owned-and-operated stations.
+
+__Storage, Reserves & Buffering:__ Networks maintain program libraries, syndication rights, and diversified corporate holdings; by the 1980s, conglomerate ownership (GE-NBC, Cap Cities-ABC, Loews-CBS) provides deep financial reserves.
+
+__Exchange, Trade & Logistics:__ The affiliate system functions as a distribution network: networks provide programming and advertising revenue; affiliates provide local transmission and audience delivery; compensation flows both directions depending on market size and program value.
+
+__Value Storage, Credit & Deferred Exchange:__ Advertising upfront markets, established in the 1960s, allow networks to sell the following season's inventory in advance, providing predictable revenue and shifting risk to advertisers; syndication rights become valuable long-term assets.
+
+__Surplus Extraction & Redistribution:__ Networks extract surplus through advertising rates tied to audience size (Nielsen ratings); this revenue is redistributed through affiliate compensation, program licensing fees to studios, and corporate dividends.
+
+__Wealth Distribution & Asset Defense:__ Broadcast licenses, limited by spectrum scarcity, become enormously valuable assets; station owners defend them through regulatory compliance, political relationships, and legal challenges to competitors.
+
+__Byproducts & Waste Routing:__ Production generates physical waste — sets, costumes, tape stock — and organizational waste in the form of failed pilots, cancelled series, and executive turnover; the system absorbs these inefficiencies through the surplus the oligopoly generates.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Television enters the home as a family activity, with prime-time programming structured around the nuclear family's evening schedule; the "family hour" (7–9 PM) carries explicit content restrictions.
+
+__Association & Mutual Aid:__ Watercooler conversation about last night's program creates workplace and neighborhood social bonds; shared viewership functions as social glue, providing common reference points across class and region.
+
+__Leisure, Play & Sociability:__ Television viewing displaces radio listening, reading, and some outdoor activity; by the 1970s, average daily viewing exceeds four hours, reorganizing domestic leisure around the broadcast schedule.
+
+__Stratification, Status & Group Structure:__ Network programming largely reflects white, middle-class suburban norms until the 1970s; representation of African Americans, women, and other groups evolves slowly under advertiser pressure and social movement activism.
+
+__Administrative Capacity & Institutional Integrity:__ Network bureaucracies — programming departments, news divisions, standards and practices offices — develop institutional cultures; CBS under Paley, NBC under Sarnoff, and ABC under Goldenson each cultivate distinct corporate identities.
+
+__Coercive Apparatus & Means of Force:__ Networks exercise no direct coercive power but cooperate with government in wartime (OWI coordination, 1941–1945) and Cold War (blacklisting, 1950–1960); news coverage of police and military action shapes public perception of state force.
+
+__Discharge, Disorder & Decay:__ The oligopoly's rigidity generates periodic crises — the quiz show scandals (1958–1959) expose corruption, the Vietnam credibility gap (1965–1973) damages trust — but the system absorbs these shocks without structural change until cable competition arrives.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Networks both reflect and shape national mood; Cold War anxiety, civil rights awakening, Vietnam-era disillusionment, and Reagan-era optimism all flow through broadcast content and news coverage.
+
+__Leadership & Personal Authority:__ Network executives — William Paley (CBS), David Sarnoff (NBC), Leonard Goldenson (ABC) — wield enormous cultural influence; anchor figures like Walter Cronkite become trusted voices whose pronouncements carry political weight.
+
+__Legitimacy as Lived Allegiance:__ The three networks enjoy presumptive legitimacy as the nation's information source through the 1970s; "And that's the way it is" closing Cronkite's newscast embodies this authority.
+
+__Political Will & Collective Resolve:__ Network coverage shapes political will — Kennedy's debate performance (1960), the Selma broadcast (1965), Watergate hearings (1973–1974) — demonstrating television's capacity to mobilize or demobilize public action.
+
+__External Relations & Posture:__ Networks project American cultural influence globally through program exports; by the 1980s, Dallas and Dynasty reach audiences worldwide, functioning as soft power instruments whether intended as such or not.
+
+__Disaffection, Apathy & Spent Will:__ Viewer fatigue with network formulae drives cable adoption; by 2000, network prime-time share falls below 50 percent, and younger demographics increasingly distrust broadcast news, signaling exhausted allegiance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Broadcasting requires only a receiver and antenna, making access effectively universal by 1960; the shared code is visual and auditory, transcending literacy barriers and reaching immigrants and non-English speakers through imagery.
+
+__Channels & Transmission Velocity:__ The VHF/UHF spectrum allocates limited channel capacity in each market; this scarcity, enforced by physics and regulation, creates the oligopoly structure — typically three to seven broadcast signals per metropolitan area.
+
+__Record, Storage & Persistence:__ Early broadcasts are ephemeral; kinescope recording preserves some 1950s content, magnetic tape (1956) enables higher-quality archiving; by the 1980s, networks recognize the syndication value of their libraries.
+
+__Framing, Censorship & Discourse Norms:__ Standards and practices departments enforce content restrictions — profanity, nudity, violence, political balance — reflecting both FCC requirements and advertiser sensitivity; the Fairness Doctrine (1949–1987) mandates balanced coverage of controversial issues.
+
+__Reception, Attention & Amplification:__ Nielsen ratings, based on sample households, determine what audiences are watching and thus what advertisers will pay; programming decisions flow from ratings, creating feedback loops that favor proven formulas over innovation.
+
+__Signal Integrity & Noise Load:__ Interference, ghosting, and poor reception affect fringe areas; cable subscription (rising from 20 percent in 1980 to 70 percent in 2000) provides cleaner signals but fragments the audience the broadcast model depends on.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Network content reflects prevailing moral consensus, evolving from 1950s conformity through 1960s questioning to 1970s permissiveness and 1980s conservative revival; programming both leads and follows these shifts.
+
+__Law, Codification & Regulatory Evolution:__ FCC regulations, the Communications Act, and court decisions constrain network behavior; the Prime Time Access Rule (1970) limits network control of evening hours, creating space for syndication.
+
+__Adjudication, Liability & Sanction:__ The FCC adjudicates license renewals, content violations, and ownership disputes; networks face reputational rather than legal sanction for most content controversies, with advertiser withdrawal the primary enforcement mechanism.
+
+__Rights, Protections & Compliance Burden:__ First Amendment protections shield editorial decisions, but broadcast licensees accept heightened content regulation in exchange for spectrum access; the "public interest" standard remains vague but enforceable.
+
+__Impunity & Unredressed Wrong:__ Networks exercise substantial power with limited accountability; the quiz show scandals reveal that federal oversight is weak, though subsequent reforms increase transparency; victims of unfair coverage have limited recourse before editorial judgment.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Communication research emerges as a discipline studying broadcast effects; cultivation theory, agenda-setting, and media effects scholarship develop through the period, funded partly by networks seeking to understand their own influence.
+
+__Applied Knowledge & Technical Method:__ Engineering advances — from vacuum tubes to solid state, from black-and-white to color, from analog to digital — drive network infrastructure; production techniques evolve from live performance to filmed and taped content.
+
+__Education, Knowledge Stock & Skill Distribution:__ Networks train generations of producers, directors, writers, and technicians; journalism schools adapt curricula to broadcast news; the skill base concentrates in New York and Los Angeles.
+
+__Obsolescence & Knowledge Decay:__ Radio-era skills (live drama, sound effects) become obsolete; the transition from film to video recording strands technicians in dead-end specializations; each technological generation displaces the previous one's expertise.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Networks become primary narrators of American identity — the western genre, the sitcom family, the war drama all construct and reinforce national self-image; shared viewing creates generational markers (the moon landing, the Kennedy funeral).
+
+__Legitimating Narrative & Ideology:__ Cold War consensus dominates 1950s programming; networks legitimate consumer capitalism, suburban aspiration, and American exceptionalism through entertainment and advertising alike.
+
+__Artistic Expression & Material Culture:__ Television develops its own aesthetic — the close-up, the laugh track, the commercial break, the cliffhanger — distinct from theater, cinema, or radio; iconic programs from I Love Lucy to All in the Family to The Sopranos define eras.
+
+__Form Exhaustion & Meaning Decay:__ Formats exhaust themselves — the variety show peaks in the 1970s, the western collapses, the sitcom evolves through multiple reinventions — and audiences migrate toward cable's fresher offerings; by 2005, network originality lags behind HBO and premium cable.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Network content largely avoids explicit religious themes, reflecting both audience diversity and advertiser caution; implicit secularism and material aspiration pervade commercial programming.
+
+__Ritual, Devotion & Sacred Practice:__ Television viewing itself acquires ritual dimensions — the family gathered for Ed Sullivan, the office pool for the Super Bowl — replacing or supplementing religious observance in organizing weekly rhythms.
+
+__Religious Institutions & Doctrinal Authority:__ Televangelists (Oral Roberts, Billy Graham, Pat Robertson) leverage broadcast reach to build religious empires; the 700 Club and similar programs carve out space within and alongside network schedules.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Broadcast exposes regional religious traditions to national scrutiny; Southern evangelicalism reaches Northern audiences, Catholic ritual becomes familiar to Protestant viewers, and a generic civil religion emerges in public broadcasting.
+
+__Disenchantment & Sacred Discharge:__ The commercial imperative subordinates transcendent concerns to entertainment value; religious content that survives must compete with secular programming for audience attention, producing a diluted or spectacularized spirituality; the void is filled by celebrity culture and consumer aspiration rather than re-anchored in traditional faith.

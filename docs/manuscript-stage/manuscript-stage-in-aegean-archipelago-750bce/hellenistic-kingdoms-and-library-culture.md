@@ -1,69 +1,140 @@
-# __323 BCE – 31 BCE__ — Hellenistic Kingdoms and Library Culture
-__Summary:__ Following Alexander's conquests, Greek-speaking kingdoms divide the eastern Mediterranean and Near East, administering vast territories through bureaucratic records in koine Greek while royal patronage concentrates scholarly and textual production in major libraries, above all Alexandria; the binding constraint is chronic dynastic warfare among successor states draining surplus and manpower until Roman power absorbs them sequentially; the system holds moderate reserves against individual shocks but cumulative military attrition erodes capacity; the direction of change is toward intensified textualization, scholarly systematization, and cultural diffusion across a widened Greek-speaking world, while political fragmentation progressively gives way to Roman hegemony.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Aegean islands and Greek mainland now peripheral to kingdoms centered on Alexandria, Antioch, and Pella; sea routes connect the expanded Greek world; overland corridors through Anatolia and Levant carry military and commercial traffic; friction reduced by Macedonian road-building and naval infrastructure.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate persists in Aegean core; Ptolemaic Egypt's Nile regime and Seleucid Mesopotamia's irrigation zones incorporated; interannual variability affects regional harvests but diversified supply networks buffer core populations; no pronounced secular drift.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity destroys Rhodes' Colossus (226 BCE); Aegean tsunamis and Anatolian earthquakes recur; hazard exposure moderate; major centers generally resilient.<br><br>
-__Resource & Energy Endowment:__ Egyptian grain, Aegean silver (declining), Anatolian timber and metals, Arabian incense enter integrated trade networks; papyrus from Egypt enables manuscript production at scale; resource endowment expanded by territorial control.<br><br>
-__Waste Absorption & Sink Capacity:__ Alexandria and Antioch as major cities generate substantial urban waste; sanitation infrastructure (drains, sewers) functional; absorptive capacity adequate for urban centers; no evidence of sink saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases of Mediterranean basin persist; Alexandria's density elevates epidemic risk; no pandemic comparable to Athenian plague recorded; background mortality moderate for ancient urban conditions.<br><br>
-__Nutrition & Physiological Vitality:__ Egyptian grain secures Alexandria's provisioning; Aegean populations draw on regional trade; dietary quality stable; skeletal evidence suggests no marked deterioration from classical period.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Greek marriage patterns continue; intermarriage between Greeks and local populations occurs in diaspora communities; reproductive capacity adequate for demographic maintenance; exposure of infants persists.<br><br>
-__Demographic Renewal & Density:__ Alexandria reaches perhaps 500,000, among largest ancient cities; Greek diaspora populations in Egypt, Syria, Anatolia grow; Aegean homeland population stable to slightly declining as emigration draws settlers to new kingdoms.<br><br>
-__Attrition & Dependency Overhang:__ Chronic warfare generates casualties and veterans requiring settlement; royal foundations absorb some dependency; slave markets absorb war captives; dependency load elevated but managed through institutional channels.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Royal granaries and administered economies in Ptolemaic Egypt ensure baseline provisioning; Aegean cities remain dependent on imported grain; provisioning floor secure in major centers, vulnerable in smaller poleis.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle primary; water-lifting devices (saqiya, Archimedes screw) improve irrigation efficiency; wind power for sailing; per-capita energy ceiling stable; no transformative change in conversion technology.<br><br>
-__Labor Organization & Coercion:__ Slave labor widespread in agriculture, mining, domestic service; royal monopolies employ corvée and wage labor; Greek settlers as privileged stratum over indigenous populations; coercion-to-compensation ratio high but varied by region.<br><br>
-__Production & Surplus Capacity:__ Egyptian agriculture generates substantial surplus for royal extraction; Aegean workshops continue craft production; Rhodian maritime commerce flourishes; overall productive capacity supports royal armies, building programs, and scholarly patronage.<br><br>
-__Storage, Reserves & Buffering:__ Royal treasuries accumulate bullion; grain storage systematized in Ptolemaic administration; reserves adequate for annual shocks but depleted by prolonged warfare; Seleucid reserves chronically strained.<br><br>
-__Exchange, Trade & Logistics:__ Expanded trade networks connect Mediterranean to Red Sea, Indian Ocean; Rhodes as commercial hub; standardized coinage facilitates exchange; Alexandria and Delos as major emporia; logistics infrastructure improved but piracy endemic.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Royal coinages (Ptolemaic, Seleucid, Antigonid) circulate regionally; temple banking at Delos; maritime loans; credit networks support long-distance trade; currency stability varies by kingdom; Ptolemaic coinage stable, others prone to debasement under fiscal pressure.<br><br>
-__Surplus Extraction & Redistribution:__ Royal taxation and monopolies extract agricultural and commercial surplus; funds armies, navies, court, and patronage; redistributive burden heavy on Egyptian peasantry; Greek settlers and cities taxed but privileged.<br><br>
-__Wealth Distribution & Asset Defense:__ Royal families and court elites concentrate wealth; Greek settlers form privileged middle stratum; indigenous populations subordinate; asset defense through royal favor, legal process, and military protection; concentration widening.<br><br>
-__Byproducts & Waste Routing:__ Urban and industrial waste managed through drainage and refuse disposal; mining waste accumulates; papyrus production generates organic byproducts absorbed locally; waste load within absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Greek diaspora communities maintain ethnic associations; trust radius high within Greek settler communities, lower across ethnic boundaries; indigenous populations retain local solidarities; intercommunal trust limited.<br><br>
-__Stratification, Status & Group Identity:__ Greeks as ruling stratum over Egyptians, Syrians, Jews, and other populations; legal distinctions (politeuma) formalize ethnic communities; status hierarchy ethnic as well as economic; boundaries permeable through Hellenization but fundamentally rigid.<br><br>
-__Kinship, Family & Inheritance:__ Greek kinship patterns persist in diaspora; intermarriage with local populations creates mixed households; inheritance follows Greek or local law depending on community; family structures diversifying.<br><br>
-__Civic Association & Self-Organization:__ Greek poleis retain self-governance under royal suzerainty; gymnasia, theaters, associations organize Greek civic life; indigenous populations maintain temples and local institutions; associational fabric thick within ethnic communities.<br><br>
-__Leisure, Play & Sociability:__ Gymnasium culture defines Greek identity abroad; festivals, games, theatrical performances continue; royal patronage supports spectacles; sociability structured around ethnic and professional associations.<br><br>
-__Grievance Channels & Social Discharge:__ Royal petitions, local courts, and priestly mediation absorb grievances; native revolts in Egypt (206–186 BCE) indicate unmetabolized friction; Greek-indigenous tensions periodically discharge as violence; social discharge incomplete.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Successor kingdoms (Ptolemaic, Seleucid, Antigonid) as Hellenistic monarchies; kings hold absolute authority; court factions and royal women wield influence; Greek poleis retain limited autonomy under royal oversight; power concentrated in dynastic households.<br><br>
-__Succession & Power Transfer:__ Hereditary succession normative but contested; fratricidal conflicts, palace coups, and regencies recurrent; Ptolemaic sibling marriage concentrates succession; transfer unreliable and frequently violent; succession crises endemic.<br><br>
-__Legitimacy & Political Narrative:__ Royal legitimacy rooted in military victory, divine descent, and benefaction; ruler cults formalize divine status; Hellenism as civilizing mission legitimates Greek dominance over indigenous populations; legitimacy contested by dynastic rivals and native populations.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Ptolemaic Egypt develops sophisticated bureaucracy with extensive documentation on papyrus (land registers, tax receipts, correspondence); Seleucid administration more decentralized; archival capacity high in Egypt, variable elsewhere; corruption present but systemically managed.<br><br>
-__Political Participation & Mobilization:__ Greek poleis retain assemblies and councils with reduced autonomy; citizen participation continues but constrained by royal power; indigenous populations excluded from Greek political institutions; mobilization capacity concentrated in royal courts and armies.<br><br>
-__Geopolitical Position & External Relations:__ Chronic warfare among successor kingdoms; Syrian Wars between Ptolemies and Seleucids; Antigonid Macedon contested by rivals; Rome emerges as arbiter and eventual conqueror; alliances shift fluidly; external pressure from Rome intensifies through window.<br><br>
-__Coercive Apparatus & Means of Force:__ Macedonian-style professional armies with phalanx and cavalry; war elephants deployed; navies contest eastern Mediterranean; mercenaries supplement citizen levies; command concentrated in royal households; arms and armor increasingly standardized.<br><br>
-__Internal Order & Threat Environment:__ Brigandage and piracy endemic; native revolts (Egypt, Judaea) challenge royal control; dynastic violence destabilizes courts; internal order maintained through military garrisons but under recurrent stress.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Royal courier systems accelerate official communication; sea routes carry dispatches across expanded Greek world; koine Greek as administrative and literary lingua franca enables cross-regional transmission; reach extends to Greek-educated stratum.<br><br>
-__Record, Storage & Persistence:__ Library of Alexandria accumulates hundreds of thousands of papyrus scrolls; Pergamon develops parchment as alternative substrate; royal archives store administrative records; textual editing, cataloging (Callimachus' Pinakes), and copying systematize manuscript preservation; scholarly commentaries fix textual traditions; record persistence high in major libraries, vulnerable to fire and war; manuscript-based storage reaches apex of ancient development.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal patronage shapes scholarly output; court poetry flatters rulers; philosophical schools debate freely within limits of political prudence; censorship minimal for apolitical scholarship; discourse norms permissive for intellectual inquiry, constrained for political critique.<br><br>
-__Reception, Attention & Amplification:__ Scholarly works circulate among educated elite; theatrical and poetic performances reach broader audiences; libraries amplify canonical texts through copying and commentary; reception patterns favor established authors; popular reach limited by literacy.<br><br>
-__Signal Integrity & Noise Load:__ Scholarly editing (Alexandrian critics) establishes authoritative text traditions; variant readings noted; accumulated manuscripts enable cross-checking; verification capacity high within scholarly communities; noise manageable through institutional practices.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Greek concepts of justice persist; royal justice as benefaction; local populations retain indigenous moral frameworks; intercommunal friction where concepts conflict; moral pluralism under Hellenistic rule.<br><br>
-__Law, Codification & Regulatory Evolution:__ Greek poleis retain customary and written laws; royal edicts supplement local law; Ptolemaic Egypt maintains dual legal systems (Greek and Egyptian); Seleucid decrees regulate imperial matters; regulatory complexity increasing.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal courts, polis courts, and temple tribunals adjudicate disputes; enforcement through royal officials and local authorities; liability assigned through plural legal systems; throughput variable by region; backlogs in complex cases.<br><br>
-__Rights, Protections & Compliance Burden:__ Greek citizens retain legal protections within poleis; indigenous populations subject to local and royal law; slaves without rights; compliance burden moderate for Greeks, heavier for indigenous populations under extractive administration.<br><br>
-__Impunity & Unredressed Wrong:__ Royal favorites enjoy de facto impunity; inter-ethnic wrongs often unredressed; indigenous grievances against Greek settlers accumulate; impunity substantial across ethnic boundaries; justice deficit growing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Alexandrian scholarship systematizes textual criticism and literary history; mathematical advances (Euclid, Archimedes, Apollonius); astronomical models (Aristarchus, Hipparchus); medical research (Herophilus, Erasistratus); philosophical schools (Stoic, Epicurean, Skeptic) compete; discovery frontier active across multiple domains.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering advances (lighthouse of Pharos, siege machinery, hydraulic devices); Archimedean mechanics; cartography and geography (Eratosthenes); applied knowledge transmitted through technical treatises and institutional patronage.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Gymnasium education spreads Greek literacy and culture; Mouseion and Library of Alexandria as research institutions; philosophical schools provide advanced education; knowledge stock expanding and increasingly textualized; skill distribution concentrated among Greek-educated elite.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholarly editing winnows textual variants; superseded theories debated in philosophical schools; some pre-Socratic texts already rare; knowledge loss minimal during window but concentration in few libraries creates vulnerability; error cleared through scholarly critique.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Homeric and classical heritage canonized through Alexandrian scholarship; Alexander as founding hero of Hellenistic world; Greek identity defined against barbaroi; local populations retain indigenous memories under Greek cultural overlay.<br><br>
-__Artistic Expression & Material Culture:__ Hellenistic sculpture (Venus de Milo, Laocoon group) develops emotional intensity; monumental architecture in royal capitals; mosaic and decorative arts flourish; material culture expresses royal magnificence and Greek cultural prestige.<br><br>
-__Collective Mood & Behavioral Disposition:__ Cosmopolitan outlook among Greek diaspora; philosophical retreat to private life (Epicurean garden, Stoic self-sufficiency); public confidence lower than classical period; fatalism and individualism more pronounced; mood mixed between cultural confidence and political anxiety.<br><br>
-__Form Exhaustion & Meaning Decay:__ Classical forms (tragedy, comedy) evolve into Hellenistic variants (New Comedy, pastoral, epigram); some critics perceive decline from classical heights; scholarly self-consciousness about canonical past; form exhaustion incipient but creative adaptation continues.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Traditional Olympian religion continues; philosophical cosmologies (Stoic providence, Epicurean atomism) compete; mystery cults (Isis, Mithras) spread; fatalism and astrology gain adherents; metaphysical pluralism characterizes the era.<br><br>
-__Ritual, Devotion & Sacred Practice:__ State cults, ruler worship, and traditional festivals continue; mystery initiations offer personal salvation; domestic piety persists; devotional practice diversified across Hellenized populations.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temples retain property and influence; ruler cults institutionalized; priesthoods hereditary or purchased; doctrinal authority diffuse; no centralized orthodoxy; syncretism tolerated.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Greek religion spreads with Hellenization; indigenous cults (Isis, Serapis, Cybele) Hellenized and diffused westward; Judaism encounters Hellenism, producing tensions and adaptations; syncretism pervasive; no single displacement trajectory.<br><br>
-__Disenchantment & Sacred Discharge:__ Philosophical critique of traditional religion continues; Epicurean rejection of divine providence; popular religion largely unaffected; disenchantment concentrated among educated elite; spiritual need re-anchored in mystery cults, philosophical systems, and emerging personal religions.<br><br>
+# __323 BCE – 150 BCE__ — Hellenistic Kingdoms and Library Culture
+
+__Summary:__ The Aegean world after Alexander fragments into successor kingdoms that compete through culture as much as arms, with royal patronage concentrating Greek manuscript production in great libraries — Alexandria above all — where textual scholarship, canon formation, and the systematic preservation of the Greek literary inheritance become instruments of dynastic prestige, making the written record itself an object of sustained institutional investment.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Aegean basin remains the Greek heartland, but political gravity shifts to new Hellenistic capitals — Alexandria on the Nile delta, Antioch in Syria, Pergamon in western Anatolia — while Athens, Corinth, and the island poleis persist as secondary centers; sea lanes connect these nodes, but overland routes across Anatolia and the Levant lengthen supply lines and fragment coherent territorial control.
+
+__Climate Regime & Volatility:__ Mediterranean climate continues stable: warm dry summers, mild wet winters; the Nile's predictable flood sustains Egyptian agriculture, while Aegean islands and coastal plains depend on winter rains; no major climatic disruptions mark the period, and the agricultural calendar remains reliable across the Greek-speaking world.
+
+__Hazard Regime & Exposure:__ Earthquakes periodically strike the Aegean littoral — Rhodes suffers a major tremor circa 226 BCE that topples the Colossus — and drought can stress marginal lands, but no catastrophic events reshape settlement patterns; cities rebuild, and the hazard load remains within absorbed experience.
+
+__Resource & Energy Endowment:__ Egypt's grain surplus, timber from Macedon and the Levant, silver from Laurion and Macedonian mines, and papyrus from the Nile delta supply the kingdoms; Pergamon's parchment production emerges as an alternative when papyrus supply tightens; energy remains muscular — human, animal, wind, and water — with no significant change from the classical baseline.
+
+__Waste Absorption & Sink Capacity:__ Urban centers generate organic waste and harbor silting; Alexandria's growth taxes local sanitation, but the Mediterranean's absorptive capacity and limited industrial activity keep pollution local and manageable; the physical environment shows no systemic degradation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria, dysentery, and respiratory illness persist; urban crowding in Alexandria and other capitals may elevate transmission, but no major plague sweeps the Hellenistic Aegean; infant and childhood mortality remain high, adult life expectancy around thirty to forty years for those surviving infancy.
+
+__Nutrition & Physiological Vitality:__ Grain, olive oil, wine, and legumes form the dietary staple; Egyptian and Sicilian grain sustains urban populations; nutritional status varies by class — elites well-fed, urban poor and rural peasants closer to subsistence — but famine is episodic rather than chronic.
+
+__Care, Healing & Recovery Capacity:__ Hippocratic medicine persists and expands; Alexandria's Mouseion supports anatomical research (Herophilus, Erasistratus), advancing medical knowledge; temples of Asklepios offer healing cults; care remains uneven, concentrated in cities and among the wealthy.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns follow Greek norms — arranged unions, dowry, patrilineal inheritance — with royal houses practicing strategic dynastic marriage, sometimes across ethnic lines; fertility is valued, but infanticide and exposure regulate family size among commoners.
+
+__Demographic Renewal & Density:__ Populations in the core Aegean remain stable or grow modestly; Alexandria becomes the largest Greek-speaking city, reaching perhaps 300,000–500,000 by the second century BCE; migration flows from mainland Greece to the new eastern capitals, drawn by opportunity and patronage.
+
+__Attrition & Dependency Overhang:__ Warfare among successor kingdoms imposes casualties on military-age males; widows, orphans, and the aged depend on family and civic charity; no institutional welfare systems exist, and the dependent load is absorbed within household and kin networks.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Grain, oil, and wine provision the population; Egypt's surplus feeds Alexandria and exports to grain-deficient regions; the Aegean islands import food; subsistence is generally secure except during siege or disrupted shipping.
+
+__Energy Capture & Conversion:__ Human and animal muscle, supplemented by water mills in some locations and sailing ships for transport, provide the energy base; no significant technological leap occurs, but the scale of coordinated labor — in quarries, harbors, and royal projects — increases.
+
+__Labor Organization & Coercion:__ Slavery remains widespread — agricultural, domestic, and industrial — while free labor, wage work, and corvee coexist; Egyptian peasants work royal land under compulsory arrangements; coercion is integral to surplus extraction.
+
+__Production & Surplus Capacity:__ Royal monopolies in Egypt control grain, oil, and papyrus; Pergamon develops parchment production; workshops produce pottery, textiles, and metalwork; surplus flows to royal treasuries, funding armies, building projects, and cultural patronage.
+
+__Storage, Reserves & Buffering:__ Royal granaries in Egypt store surplus against shortage; treasuries accumulate bullion; the Ptolemaic and Seleucid states maintain fiscal reserves, though warfare drains them periodically; credit networks among Greek merchants facilitate trade.
+
+__Exchange, Trade & Logistics:__ Maritime trade connects the Aegean to Egypt, the Levant, the Black Sea, and the western Mediterranean; coinage is standardized within kingdoms, facilitating exchange; Alexandria becomes a commercial hub linking Mediterranean and eastern trade routes.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver and gold coinage — Ptolemaic, Seleucid, Attalid issues — circulate widely; banking operations in Alexandria and Rhodes extend credit; temples hold deposits; the monetary economy is sophisticated by ancient standards.
+
+__Surplus Extraction & Redistribution:__ Royal taxation extracts agricultural surplus; customs duties, monopolies, and tribute fund the state; redistributed surplus supports armies, bureaucracies, and cultural institutions, including libraries and scholarly patronage.
+
+__Wealth Distribution & Asset Defense:__ Royal families and court favorites concentrate wealth; Greek settlers in Egypt and Asia form a privileged stratum; native populations remain subordinate; land grants and tax exemptions shield elite holdings.
+
+__Byproducts & Waste Routing:__ Organic waste, workshop refuse, and harbor silting accumulate in urban centers; no systematic sanitation beyond drainage channels; waste is local and manageable, not systemically disruptive.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Greek kinship norms — patrilineal descent, dowry, household authority of the kyrios — persist among Greek populations; royal dynasties practice sibling marriage (Ptolemies) to concentrate inheritance; local populations retain their own customs under royal overlordship.
+
+__Association & Mutual Aid:__ Gymnasia, philosophical schools, religious associations, and ethnic clubs (politeumata) provide social networks for Greek settlers abroad; these associations maintain identity and offer mutual support in cosmopolitan cities.
+
+__Leisure, Play & Sociability:__ Festivals, athletic competitions, theatrical performances, and symposia structure elite social life; the gymnasium remains central to Greek male sociability; public festivals integrate urban populations.
+
+__Stratification, Status & Group Structure:__ Sharp stratification separates Greek ruling elites from native populations in Egypt and Asia; within Greek communities, wealth, education, and royal favor determine status; slavery marks the lowest stratum; boundaries are ethnic and legal as much as economic.
+
+__Administrative Capacity & Institutional Integrity:__ Hellenistic kingdoms develop bureaucratic administration — census, taxation, land registration — particularly in Ptolemaic Egypt; Greek is the language of administration; royal officials, many Greek, staff the apparatus; corruption and favoritism coexist with procedural regularity.
+
+__Coercive Apparatus & Means of Force:__ Professional armies — Macedonian-style phalanx, cavalry, mercenaries — defend and expand kingdoms; fortifications protect cities; navies contest Mediterranean waters; military service is professionalized, no longer citizen-based as in the classical polis.
+
+__Discharge, Disorder & Decay:__ Dynastic warfare, succession crises, and native revolts (notably in Egypt) produce periodic disorder; brigandage and piracy afflict margins; the apparatus generally maintains order within core territories, but friction accumulates at ethnic and social boundaries.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Cosmopolitan urban populations exhibit a mix of confidence in Greek cultural superiority and anxiety about political instability; philosophical schools — Stoicism, Epicureanism, Skepticism — offer personal consolation amid political uncertainty; trust extends within ethnic and associational networks, less so across communal lines.
+
+__Leadership & Personal Authority:__ Hellenistic kings cultivate personal charisma and divine or semi-divine status; royal cults elevate rulers above ordinary mortals; generals and courtiers exercise authority through royal favor; the figure of the monarch concentrates will and legitimacy.
+
+__Legitimacy as Lived Allegiance:__ Greek settlers accept royal authority as the price of privilege; native populations — Egyptian, Syrian, Jewish — accommodate or resist depending on royal policy; legitimacy is personal and dynastic, not constitutional; it erodes with military defeat or fiscal oppression.
+
+__Political Will & Collective Resolve:__ Kingdoms maintain cohesion through patronage, coercion, and shared Greek identity; royal courts direct policy; succession struggles reveal factional divisions; the will to act depends heavily on the monarch's capacity and the treasury's depth.
+
+__External Relations & Posture:__ Successor kingdoms compete for territory, prestige, and Greek manpower; alliances shift; Rome's growing power looms from the west, intervening increasingly in Macedonian and eastern affairs after 200 BCE; diplomatic maneuvering is constant.
+
+__Disaffection, Apathy & Spent Will:__ Native populations in Egypt and Asia periodically revolt; Greek settlers may grow complacent; philosophical withdrawal (Epicurean retreat, Skeptical suspension) reflects individual disengagement from political turmoil; exhaustion accumulates after prolonged dynastic warfare.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Greek is the lingua franca of administration, commerce, and culture across the Hellenistic world; Koine Greek spreads as a shared standard; local languages persist among native populations; literacy remains minority but extends beyond classical polis elites to bureaucrats, merchants, and scholars in the new centers.
+
+__Channels & Transmission Velocity:__ Written correspondence, royal decrees, and commercial documents travel by ship and overland courier; the Mediterranean network permits communication across the Hellenistic world within weeks; speed depends on weather, political conditions, and the priority of the message.
+
+__Record, Storage & Persistence:__ The great libraries — Alexandria foremost, Pergamon rivaling — systematically collect, copy, and store Greek manuscripts; papyrus scrolls are the standard medium; royal patronage funds acquisition and scholarship; the institutional library emerges as a new form, dedicated to preserving the written record beyond individual lifetimes.
+
+__Framing, Censorship & Discourse Norms:__ Royal patronage shapes what is copied and preserved; canonical authors are established through scholarly selection; heterodox or obscure works may be neglected; censorship is more passive (neglect) than active (suppression), though royal displeasure can silence critics.
+
+__Reception, Attention & Amplification:__ Scholars in the Mouseion and Pergamon library comment, edit, and canonize texts; their judgments shape reception for centuries; the educated elite reads and discusses literature; popular reception is oral and performative — theater, recitation, festival — rather than textual.
+
+__Signal Integrity & Noise Load:__ Textual criticism emerges as a discipline to correct scribal errors and establish authoritative texts; the Alexandrian grammarians (Zenodotus, Aristarchus) develop methods of collation and emendation; noise is managed by scholarly labor, though variant readings proliferate.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Greek moral philosophy — virtue ethics, justice as giving each their due — circulates among the educated; Stoic cosmopolitanism and Epicurean withdrawal offer competing ethical frameworks; royal justice depends on the monarch's character; native populations maintain their own moral traditions.
+
+__Law, Codification & Regulatory Evolution:__ Greek law governs Greek communities; royal edicts supplement local codes; Egyptian and other local laws persist for native populations; legal pluralism prevails, with Greek law privileged in disputes involving Greeks.
+
+__Adjudication, Liability & Sanction:__ Royal courts, city magistrates, and local judges adjudicate disputes; procedure varies by jurisdiction and the parties involved; sanction ranges from fines to corporal punishment to execution; access to justice depends on status and connections.
+
+__Rights, Protections & Compliance Burden:__ Greek citizens enjoy legal protections; slaves and non-Greeks have fewer rights; compliance burdens — taxation, corvee, military service — fall heavily on subject populations; royal favor can exempt individuals or communities.
+
+__Impunity & Unredressed Wrong:__ Powerful individuals, royal favorites, and military commanders often escape sanction; redress for wrongs against the weak depends on patronage or royal intervention; systemic impunity for elites coexists with harsh treatment of lower orders.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Hellenistic scholarship shifts from classical philosophy's grand syntheses to specialized inquiry — textual criticism, grammar, geography, astronomy, mechanics; Euclid systematizes geometry; Archimedes advances mechanics and mathematics; the Mouseion fosters empirical and technical research.
+
+__Applied Knowledge & Technical Method:__ Engineering advances — the Pharos lighthouse, water-lifting devices, siege machinery — apply theoretical knowledge; Alexandrian scholars develop surveying, navigation, and mechanical instruments; technique serves royal ambition and commercial need.
+
+__Education, Knowledge Stock & Skill Distribution:__ Gymnasia and philosophical schools educate Greek elites; literacy spreads among bureaucrats and merchants; the library concentrates knowledge stock in institutional form; skill distribution remains uneven, concentrated in urban centers and among Greeks.
+
+__Obsolescence & Knowledge Decay:__ Selective preservation means some classical works are lost or neglected; the Alexandrian canon enshrines certain authors while marginalizing others; oral traditions and unwritten knowledge continue to decay as populations disperse and contexts shift.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Greek identity, rooted in Homeric epic and classical achievement, remains the cultural baseline; Alexander becomes a mythic figure, embodying Greek conquest and cultural mission; Hellenism defines itself against "barbarian" cultures while absorbing oriental influences.
+
+__Legitimating Narrative & Ideology:__ Royal dynasties claim descent from gods or Alexander's companions; Greek cultural superiority justifies rule over non-Greeks; the library itself becomes a symbol of royal legitimacy — the monarch as guardian of Greek civilization.
+
+__Artistic Expression & Material Culture:__ Hellenistic art favors realism, emotion, and grandeur — the Laocoon, the Dying Gaul, the Nike of Samothrace; architecture scales up with royal patronage; luxury goods, mosaics, and decorative arts flourish; material culture displays wealth and cosmopolitan taste.
+
+__Form Exhaustion & Meaning Decay:__ Classical forms are elaborated, refined, and sometimes mannered; originality gives way to virtuosity and imitation; the Alexandrian poets (Callimachus, Apollonius) are learned and allusive, writing for readers who know the tradition; form remains vital but increasingly self-referential.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Philosophical cosmologies compete — Stoic providence, Epicurean atoms, Skeptical suspension — offering frameworks for understanding the universe and one's place in it; astrology and fatalism spread; the individual soul's fate becomes a central concern.
+
+__Ritual, Devotion & Sacred Practice:__ Traditional Greek cults persist — Olympian gods, mystery religions (Eleusis, Dionysiac rites) — while eastern cults (Isis, Serapis) gain adherents; royal cults add the monarch to the divine roster; ritual life remains vibrant and syncretic.
+
+__Religious Institutions & Doctrinal Authority:__ Temples hold property and conduct rites; priesthoods are often civic offices or royal appointments; no centralized doctrinal authority exists; religious pluralism prevails, with cults competing for adherents.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Greek and eastern traditions blend — Serapis combines Osiris and Greek elements; Jewish communities maintain distinct practice while engaging Greek thought; syncretism characterizes the religious landscape; no single cosmology dominates.
+
+__Disenchantment & Sacred Discharge:__ Philosophical skepticism and rationalism coexist with popular piety; some intellectuals question traditional religion; the sacred is not disenchanted but pluralized, with multiple paths to meaning available; existential anxiety finds varied outlets rather than a single resolution.
+

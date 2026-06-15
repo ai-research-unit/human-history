@@ -1,69 +1,140 @@
-# __15000 BCE – 8000 BCE__ — Terminal Pleistocene Transition and Megafaunal Decline
-__Summary:__ A seven-thousand-year trend of climatic transformation as deglaciation replaces the mammoth steppe with forest and shrub, extinguishing the megafaunal base and forcing human populations to diversify subsistence toward smaller game, fish, and gathered plants; binding constraint is the collapse of the mammoth-hunting economy that had sustained Upper Paleolithic populations; margin against resource failure narrows during the transition before broadening as new adaptive strategies stabilize; direction of change is contraction and reorganization followed by gradual recovery under Holocene conditions.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The steppe corridor contracts as warming drives forest expansion from the south and west; river valleys (Don, Dnieper, Volga, Ob) remain primary transit corridors; lake formation and bog development in formerly frozen terrain increase local friction; open steppe retreats eastward toward Central Asia and Mongolia.<br><br>
-__Climate Regime & Volatility:__ Rapid warming punctuated by cold reversals (Older Dryas ~14,000 BP, Younger Dryas ~12,900–11,700 BP); mean temperatures rise 6–10°C by early Holocene; precipitation increases; seasonality moderates; trend strongly toward warmer, wetter conditions with significant interannual instability during oscillations.<br><br>
-__Hazard Regime & Exposure:__ Spring flooding intensifies as ice sheets melt; bog and marsh hazards increase; cold reversals impose episodic stress; exposure to extreme cold decreases overall but Younger Dryas represents severe multi-century anomaly; margin against climatic shocks variable.<br><br>
-__Resource & Energy Endowment:__ Megafauna (mammoth, woolly rhinoceros) extinct by ~10,000 BP; horse and bison persist in reduced steppe refugia; reindeer, red deer, aurochs, and wild boar expand with forests; fish resources in rivers and new lakes increase; plant foods more abundant; wood available as forests spread.<br><br>
-__Waste Absorption & Sink Capacity:__ Population density remains extremely low; organic waste negligible; forest expansion increases biomass sink; absorptive capacity effectively unlimited; no environmental loading detectable.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Pathogen load increases modestly with warming and forest expansion; standing water creates new vector habitats; zoonotic exposure shifts with prey base; mortality baseline remains dominated by trauma and childbirth; no epidemic regime.<br><br>
-__Nutrition & Physiological Vitality:__ Dietary diversification to smaller game, fish, and plants; initial nutritional stress during megafaunal collapse; recovery as broad-spectrum foraging stabilizes; skeletal evidence sparse but suggests maintained stature; fat acquisition more difficult without megafauna.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and kin-based reproductive cooperation continue; fertility constrained by nutritional stress during transition; selection pressures shift toward dietary flexibility and forest-adapted hunting skills.<br><br>
-__Demographic Renewal & Density:__ Population likely declines during megafaunal collapse and Younger Dryas; recovery begins with Holocene stabilization; density remains very low but gradually increasing; local extinctions possible in marginal zones.<br><br>
-__Attrition & Dependency Overhang:__ High mortality during stress periods increases dependency burden; smaller band sizes reduce capacity to absorb dependents; attrition load elevated during transition, moderating as conditions stabilize.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Transition from specialized mammoth hunting to broad-spectrum foraging; hunting of horse, bison, reindeer, deer, and small game; fishing intensifies in river and lake systems; plant gathering expands; floor precarious during transition, stabilizing by late period.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains primary; fire continues essential for warmth and cooking; wood fuel replaces bone as forests spread; energy capture constrained during transition by prey scarcity; conversion efficiency improves with diversified resource base.<br><br>
-__Labor Organization & Coercion:__ Labor organized through kinship and reciprocity; task specialization adapts to new resource base (fishing technology, plant processing); no evidence of coercion; smaller band sizes may reduce task differentiation.<br><br>
-__Production & Surplus Capacity:__ Surplus more difficult to generate without mass mammoth kills; fishing and nut/seed harvests provide seasonal surplus; storage capacity maintained through drying and caching; surplus flow more episodic and smaller scale.<br><br>
-__Storage, Reserves & Buffering:__ Dried fish and meat, cached nuts and seeds replace mammoth stores; storage technology adapts to new resources; reserves thinner during transition; buffering capacity improves as broad-spectrum economy stabilizes.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange continues but possibly at reduced intensity; lithic and shell exchange attested; logistics adapt to forest environments; seasonal aggregations may become less regular as megafauna-driven gatherings end.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Durable goods (ornaments, quality lithics) continue as stored value; deferred reciprocity maintains inter-band cooperation; no formal exchange media; social debt orally tracked.<br><br>
-__Surplus Extraction & Redistribution:__ Communal sharing continues for large kills and fish catches; redistribution through kinship obligation; no extractive hierarchy; allocation adapts to smaller, more frequent resource returns.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth differentiation likely decreases with collapse of mammoth-ivory economy; portable ornaments retain value; inequality constrained by mobility and reduced surplus; asset defense through social recognition.<br><br>
-__Byproducts & Waste Routing:__ Butchery and processing waste at smaller scale; bone less central to economy as wood becomes available; organic waste dispersed; no routing pressures given low population and abundant sink.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust and mutual aid essential for survival during resource stress; sharing norms intensify during scarcity; inter-band cooperation maintained through kinship and exchange; trust radius stable but tested by resource competition.<br><br>
-__Stratification, Status & Group Identity:__ Status markers shift from mammoth-ivory wealth to hunting skill and knowledge; group identity reformulates around new subsistence practices and territories; regional differentiation increases as populations adapt to local ecologies.<br><br>
-__Kinship, Family & Inheritance:__ Extended kin groups remain foundation; band sizes may decrease during stress periods; inheritance of portable goods continues; marriage exchange maintains inter-band networks under pressure.<br><br>
-__Civic Association & Self-Organization:__ Band organization continues with situational leadership; seasonal aggregations adapt to new resource schedules (fish runs, nut harvests); self-organization flexible in response to changing conditions.<br><br>
-__Leisure, Play & Sociability:__ Non-subsistence activity continues but possibly reduced during resource stress; material culture simpler in some regions (Epipaleolithic microlithic traditions); sociability centered on smaller residential groups.<br><br>
-__Grievance Channels & Social Discharge:__ Increased resource stress may elevate interpersonal tension; conflict resolution through mediation, avoidance, and fission; ritual discharge adapts to new cosmological challenges; residual friction elevated during transition.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous band organization persists; authority remains situational and skill-based; no concentration of power; influence may shift toward those with knowledge of new resources and techniques.<br><br>
-__Succession & Power Transfer:__ Informal succession continues; competence-based influence passes through kinship networks; no institutionalized transfer; transitions smooth at band scale.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on practical competence and ancestral continuity; narrative authority adapts to explain environmental transformation and megafaunal loss; cosmological crisis possible during transition.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination through kinship and custom; oral memory sole record; institutional capacity unchanged at band scale.<br><br>
-__Political Participation & Mobilization:__ Universal adult participation in band decisions; consensus-based mobilization for subsistence activities; participation patterns unchanged.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations continue through kinship and exchange; territorial boundaries may shift with ecological change; competition for prime locations (river confluences, fish runs) possible but unattested; no evidence of organized conflict.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive apparatus; weapons (microlithic composite tools, bows possibly emerging) used for hunting; force capacity distributed; no monopoly on violence.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through social sanction; threat environment shifts from cold exposure to resource scarcity; disorder residue slightly elevated during stress periods.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at walking pace through face-to-face contact; forest environment may reduce visibility and acoustic range compared to open steppe; velocity slow but adequate for band coordination.<br><br>
-__Record, Storage & Persistence:__ No writing; information stored exclusively in living memory; oral transmission sole persistence mechanism; material symbols fewer than Upper Paleolithic; vulnerability to transmission failure elevated during demographic stress.<br><br>
-__Framing, Censorship & Discourse Norms:__ Oral tradition governs discourse; elder authority continues; cosmological crisis may challenge traditional framings; adaptation of narrative to explain environmental transformation.<br><br>
-__Reception, Attention & Amplification:__ Audience limited to immediate hearers; amplification through retelling; attention focused during gatherings; information propagation through kinship networks.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission subject to drift; verification through redundancy; some knowledge loss likely during population decline; noise load low but integrity stressed during demographic bottlenecks.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in reciprocity and kinship obligation; sharing ethic intensifies under resource stress; moral sense transmitted orally; fairness crucial for group survival during scarcity.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law; customary norms persist; behavioral expectations transmitted through socialization; evolution adaptive to new subsistence challenges.<br><br>
-__Adjudication, Enforcement & Liability:__ Elder mediation continues; disputes resolved through restitution or avoidance; enforcement through social pressure; liability personal and kinship-mediated.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights understood through kinship and group membership; protections collective; compliance burden light; group cohesion essential for survival intensifies normative pressure.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity through departure possible but costly in unfamiliar territories; social memory of wrongs affects future cooperation; residue absorbed within kinship dynamics; accountability strengthened by group interdependence.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Practical inquiry into new prey behavior, plant resources, and fishing techniques; paradigm remains animistic and analogical; explanatory challenge posed by megafaunal disappearance and environmental transformation; frontier at adapting traditional knowledge to new conditions.<br><br>
-__Applied Knowledge & Technical Method:__ Microlithic technology develops (small composite tools, backed blades); fishing gear (hooks, nets, weirs) elaborates; plant processing techniques expand; bow and arrow possibly emerging; techniques transmitted through demonstration and practice.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmission continues through observation and apprenticeship; new skills (fishing, broad-spectrum foraging) added to repertoire; some Upper Paleolithic techniques (mammoth hunting, bone working) become obsolete; stock reconfigures around new adaptive requirements.<br><br>
-__Obsolescence & Knowledge Decay:__ Mammoth-hunting knowledge obsolesces as prey disappears; some craft traditions (ivory working) decline; decay accelerated by demographic stress; new knowledge accumulates around forest and riverine resources; net knowledge stock contracts then stabilizes.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Identity reformulates around new territories and subsistence practices; ancestral memory of mammoth steppe possibly preserved in oral tradition; foundational myths adapt to explain transformation and loss; regional differentiation in identity markers increases.<br><br>
-__Artistic Expression & Material Culture:__ Simpler material culture in many regions; microlithic tool traditions replace elaborate Upper Paleolithic industries; personal ornaments continue but ivory rarifies; regional styles diverge as populations adapt to local ecologies; artistic elaboration reduced compared to glacial peak.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood stressed during transition as familiar world transforms; uncertainty and loss shape disposition; confidence rebuilds as new strategies prove viable; Holocene stabilization brings cautious optimism.<br><br>
-__Form Exhaustion & Meaning Decay:__ Upper Paleolithic symbolic forms (Venus figurines, mammoth imagery) become obsolete as referents disappear; meaning decay as cosmological anchors shift; new forms emerge around forest animals and riverine life; transition period marked by symbolic reconfiguration.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic cosmology persists but faces challenge from megafaunal extinction; existential outlook tested by loss of central animal powers; worldview adapts to incorporate new animal spirits and landscape features; fatalism possible during crisis, renewal with Holocene stability.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual practices continue but adapt to new circumstances; burial practices persist with regional variation; propitiation shifts to new prey animals; seasonal ceremonies reorganize around new resource calendars; frequency and form sparsely attested.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; ritual specialists possible but unverifiable; personal transmission of sacred knowledge continues; authority remains informal and kinship-based.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Regional differentiation increases as populations adapt to diverse post-glacial environments; some Upper Paleolithic cosmological elements persist, others displaced by new orientations; syncretism between inherited traditions and new observations; displacement gradual and organic.<br><br>
-__Disenchantment & Sacred Discharge:__ Possible existential crisis as mammoth-centered cosmology loses referent; sacred order strained by environmental transformation; discharge sought through adapted ritual and new cosmological narratives; disenchantment residue elevated during transition, absorbed as new sacred order consolidates in early Holocene.<br><br>
+# __15,000 BCE – 8,000 BCE__ — Terminal Pleistocene Transition and Megafaunal Decline
+
+__Summary:__ Deglacial warming transformed the mammoth steppe into a patchwork of forest, shrubland, and reduced grassland, driving megafaunal collapse — mammoth, woolly rhinoceros, and giant deer extinct by 10,000 BCE — and forcing human populations to adapt their orally transmitted hunting traditions to smaller, faster prey (horse, reindeer, elk, aurochs) and intensified foraging, a multi-millennial transition that reshaped subsistence, mobility, and the content of oral knowledge without displacing speech as the sole medium of coordination and memory.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The steppe contracted as temperatures rose: forest advanced from the south and west, shrubland colonized former grassland, and the continuous mammoth steppe fragmented into isolated patches; river valleys remained corridors but now carried denser vegetation; permafrost retreated northward, altering soil hydrology; spatial friction increased as open grassland gave way to mixed terrain requiring new navigation knowledge transmitted orally.
+
+__Climate Regime & Volatility:__ Deglaciation proceeded unevenly: the Bolling-Allerod interstadial (~14,700–12,900 BP) brought rapid warming, the Younger Dryas (~12,900–11,700 BP) imposed a sharp cold reversal, and the Early Holocene (~11,700–8,000 BP) stabilized near modern warmth; volatility was extreme — century-scale oscillations reshaped biomes faster than megafauna could adapt; precipitation increased, favoring forest over grassland.
+
+__Hazard Regime & Exposure:__ Hazards shifted: severe cold events declined but flooding increased as glacial meltwater surged through river systems; rising sea levels inundated coastal lowlands (the Doggerland connection to Europe submerged by ~8,000 BP); wildfires increased in drying forests; margin against acute hazard remained thin during transition decades.
+
+__Resource & Energy Endowment:__ The megafaunal energy reservoir collapsed: mammoth extinct by ~10,000 BP, woolly rhinoceros and giant deer shortly after; surviving fauna — horse, aurochs, reindeer, elk, wild boar — offered smaller packets of calories requiring more frequent hunts; forest expansion provided new plant resources (nuts, tubers, berries) and fuelwood where grassland had offered none; stone resources remained stable; the endowment shifted from concentrated megafaunal biomass to dispersed, diverse resources.
+
+__Waste Absorption & Sink Capacity:__ Population remained too sparse to stress sinks; warming increased organic decomposition rates, clearing old bone middens; no anthropogenic saturation; residue negligible throughout the transition.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Pathogen load likely increased as forest expansion brought new vector habitats (ticks, mosquitoes) and as some populations settled more densely near productive lake and river margins; zoonotic exposure shifted to new prey species; mortality baseline fluctuated with subsistence stress during the transition but stabilized as populations adapted; trauma from hunting smaller, faster game may have declined relative to megafaunal encounters.
+
+__Nutrition & Physiological Vitality:__ Nutritional stress marked the transition: loss of mammoth fat calories required compensatory reliance on leaner game and intensified plant gathering; evidence from skeletal remains shows episodic growth disruption (enamel hypoplasias, reduced stature in some populations); by 8,000 BCE, adapted populations recovered robust vitality on diversified diets; vitamin C more available from plant sources.
+
+__Care, Healing & Recovery Capacity:__ Care remained kin-based; no institutional change; expanded plant knowledge may have enriched herbal pharmacopoeia; healing capacity neither expanded nor contracted significantly; the requirement to remain mobile constrained care for the seriously injured.
+
+__Reproductive Biology & Pairing Dynamics:__ No fundamental change; fertility remained near biological maximum; pairing dynamics continued flexible and exogamous; speech-mediated negotiation of marriage alliances persisted; reproductive intervals may have shortened as nutritional stress eased in the Holocene.
+
+__Demographic Renewal & Density:__ Population initially declined with megafaunal collapse — some bands went extinct, others contracted; by the Early Holocene, adaptation to new resource base enabled recovery; density increased in productive ecotones (forest-steppe margins, lakeshores, riverine zones); migration redistributed populations from former mammoth steppe core to more varied habitats; age structure shifted as life expectancy stabilized.
+
+__Attrition & Dependency Overhang:__ Dependency load remained low; attrition cleared dependents as before; no structural change; residue minimal.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Subsistence shifted from high-stakes megafaunal hunting to diversified foraging: smaller game (horse, reindeer, elk, boar, waterfowl), fishing in lakes and rivers, intensified gathering of nuts, roots, and berries; the floor became more stable — smaller prey failed less catastrophically than a missed mammoth hunt — but required more continuous labor; seasonal rounds adapted to new resource calendars transmitted orally.
+
+__Energy Capture & Conversion:__ Energy capture diversified: bow and arrow technology spread, increasing efficiency against smaller, faster game; fish traps, weirs, and nets harvested aquatic protein; plant processing (grinding stones) expanded; fire remained essential; conversion efficiency improved for diversified foraging; human and possibly dog labor provided motive power (dogs domesticated ~15,000 BP, assisting hunting and transport).
+
+__Labor Organization & Coercion:__ Labor organization remained egalitarian and kin-based; division by age and sex persisted; diversified foraging may have increased the economic contribution of gathering (often female-coded), subtly shifting labor balances; coercion absent; reciprocity and sharing enforced by oral norm.
+
+__Production & Surplus Capacity:__ Surplus remained episodic but more frequent: a successful fish run or nut harvest could be dried and stored; production capacity expanded with diversification; no quantum leap in surplus, but buffering against single-resource failure improved; band-level coordination remained the ceiling.
+
+__Storage, Reserves & Buffering:__ Storage technology improved: drying, smoking, and pit storage preserved fish, meat, and nuts across seasons; lakeside and riverine settlements enabled larger caches; reserves deeper than in the mammoth-steppe era; buffering against seasonal variation more robust; risk pooling through inter-band networks continued.
+
+__Exchange, Trade & Logistics:__ Trade networks persisted and adapted: obsidian, quality flint, amber, and shells continued to move long distances; new commodities (fish oil, dried fish, plant products) entered exchange; logistics still limited to human and dog portage; seasonal aggregations remained nodes of exchange and information sharing.
+
+__Value Storage, Credit & Deferred Exchange:__ No fundamental change; value stored in durable goods and social credit; deferred reciprocity remained dominant; no currency or debt instruments; residue unchanged.
+
+__Surplus Extraction & Redistribution:__ Redistribution remained immediate and egalitarian; no centralized extraction; sharing norms transmitted orally persisted; residue unchanged.
+
+__Wealth Distribution & Asset Defense:__ Distribution remained relatively even; portable wealth expanded with diversified tool kits; asset defense unchanged; residue minimal.
+
+__Byproducts & Waste Routing:__ Waste routing efficient: smaller game produced less butchery waste per event; fish and plant remains decomposed rapidly; bone and hide fully utilized; no toxic byproducts; residue cleared by natural processes.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship structures persisted; oral genealogies adapted to new conditions; marriage alliances maintained genetic and social connectivity; inheritance of skill and story continued; family remained the primary unit; no structural transformation.
+
+__Association & Mutual Aid:__ Band size may have increased in productive ecotones, enabling larger aggregations; mutual aid obligations persisted; seasonal gatherings continued for exchange, ritual, and mate selection; the fabric of association neither thickened nor thinned dramatically but adapted to new settlement patterns.
+
+__Leisure, Play & Sociability:__ Leisure time may have increased with more stable provisioning; artistic production (decorated tools, ornaments) continued; communal life centered on hearth and water; sociability adapted to longer residential stays in resource-rich locations.
+
+__Stratification, Status & Group Structure:__ Stratification remained minimal; status continued to accrue through demonstrated skill and generosity; group structure fluid; no emergence of hereditary elites; boundaries between bands marked by dialect and kinship, transmitted orally.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration; decision-making by consensus; institutional capacity unchanged; oral memory of custom remained the sole institution; no offices, no bureaucracy.
+
+__Coercive Apparatus & Means of Force:__ No specialized apparatus; weapons shifted to bow, arrow, and lighter spears; interpersonal violence resolved as before; no army, no police; defense collective and ad hoc.
+
+__Discharge, Disorder & Decay:__ Mobility continued to discharge friction; ritual absorbed tensions; disorder limited; no apparatus to decay; residue minimal, cleared by the porosity of social structure.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Sentiment fluctuated with the transition: anxiety and loss as familiar megafauna vanished and ancestral hunting knowledge became obsolete, giving way to cautious optimism as new adaptations proved viable; trust networks persisted within bands; behavioral temper adapted to new rhythms — patience for fishing and gathering replacing the charged tension of mammoth hunts.
+
+__Leadership & Personal Authority:__ Leadership remained situational; authority shifted to those skilled in new subsistence practices (fishing, plant knowledge) as mammoth-hunting expertise became irrelevant; personal pull continued to depend on demonstrated competence; oral tradition celebrated new heroes alongside ancestral ones.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to band and tradition persisted; legitimacy resided in adapted oral custom; disaffection discharged by mobility; no structural change in legitimacy dynamics.
+
+__Political Will & Collective Resolve:__ Will mobilized for adapted seasonal rounds; resolve sustained by oral exhortation; no long-term political projects; collective will remained diffuse and consensual.
+
+__External Relations & Posture:__ Relations with other bands continued to oscillate between alliance and avoidance; territorial adjustments occurred as populations redistributed; posture remained flexible; no conquest, no expansion as a goal.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection cleared by mobility; the transition may have produced existential malaise as old ways failed, but adaptation restored will; residue low.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language remained fully accessible to all within the language community; no change in communicative capacity; dialect variation may have increased as populations dispersed into varied habitats; gesture and demonstration continued to supplement speech.
+
+__Channels & Transmission Velocity:__ Channels unchanged: face-to-face speech and ritual performance; velocity still limited to human travel; seasonal aggregations remained nodes of information exchange; no technological acceleration.
+
+__Record, Storage & Persistence:__ Memory remained the sole medium; oral tradition adapted: mammoth-hunting lore became mythologized as megafauna vanished, while new knowledge of smaller game, fishing, and plant use entered the corpus; persistence depended on living transmission; loss of knowledge occurred when bands failed or elders died before transmitting; no writing, no archives.
+
+__Framing, Censorship & Discourse Norms:__ Framing adapted: new taboos and prescriptions emerged around adapted practices; censorship remained informal; discourse norms persisted; speech about the vanished megafauna may have acquired mythic or sacred framing.
+
+__Reception, Attention & Amplification:__ Reception remained immediate and participatory; attention shifted to new survival knowledge; amplification through retelling at aggregations continued; residue unchanged.
+
+__Signal Integrity & Noise Load:__ Signal integrity remained high in small groups; noise minimal; distortion accumulated across generations as mammoth-steppe knowledge receded into myth; verification by cross-checking persisted; residue low but some knowledge irrecoverably lost.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice rooted in reciprocity persisted; adaptation required no fundamental moral revision; fairness in distribution remained foundational; harm to kin still required compensation or retaliation; moral sense embedded in adapted oral tradition.
+
+__Law, Codification & Regulatory Evolution:__ Oral custom adapted to new practices — new taboos around new prey species, new seasonal prescriptions — but remained uncodified; regulatory evolution slow, absorbed into tradition; no legislative procedure.
+
+__Adjudication, Liability & Sanction:__ Dispute resolution unchanged; mediation by kin and elders; sanction by shaming, compensation, or exclusion; no courts; no structural change.
+
+__Rights, Protections & Compliance Burden:__ No formal rights; protection through band membership; compliance burden remained low; predictability high.
+
+__Impunity & Unredressed Wrong:__ Impunity limited by small-group transparency; wrongs generally redressed; residue minimal.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry intensified around new subsistence challenges: which plants are edible, where do reindeer migrate, how are fish trapped; theory remained embedded in oral tradition, animist in frame; paradigm adapted rather than revolutionized — ancestors' spirits now explained a world without mammoths; no formal investigation distinct from practice.
+
+__Applied Knowledge & Technical Method:__ Technical innovation accelerated: microlithic technology (small, hafted blades) spread; bow and arrow became dominant; fishing technology (nets, weirs, hooks) developed; plant-processing tools (grinding stones) expanded; tailored clothing adapted to warmer, wetter climates; method transmitted by demonstration and verbal instruction; innovation absorbed into tradition.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education by apprenticeship continued; knowledge stock shifted — mammoth-hunting skills obsolete, replaced by diversified foraging knowledge; skill distribution adapted within sex and age cohorts; some knowledge lost as specialists died without successors; overall knowledge stock diversified.
+
+__Obsolescence & Knowledge Decay:__ Mammoth-hunting knowledge became obsolete and decayed into myth; new knowledge replaced it; loss was real but adaptation was successful; dogma around vanished megafauna may have accumulated; residue moderate — some ancestral knowledge irrecoverably gone — but the system adapted.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity underwent strain: ancestral memory of mammoth hunts receded from living practice into myth; new origin stories incorporated the transformation; foundational identity remained tied to lineage, territory, and totem, but the content shifted; oral tradition preserved continuity while absorbing change.
+
+__Legitimating Narrative & Ideology:__ Tradition continued to legitimate the order — "this is how we survive now as our ancestors taught us" — absorbing adaptation into continuity; no competing ideologies; legitimacy resided in the felt rightness of adapted custom.
+
+__Artistic Expression & Material Culture:__ Artistic expression continued: decorated tools, ornaments, and portable art adapted to new materials and motifs; mammoth-ivory carving declined as ivory became unavailable; antler, bone from smaller game, and shell filled the gap; material culture adapted — lighter, more portable tool kits suited to diversified foraging; style transmitted orally and by imitation.
+
+__Form Exhaustion & Meaning Decay:__ Mammoth-related symbolic forms lost referent and either decayed or transformed into abstracted myth; new forms — fish, reindeer, forest motifs — emerged; exhaustion selective, affecting megafaunal symbols; renewal occurred through adaptation; residue moderate but absorbed.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Cosmology adapted: spirits of vanished megafauna receded into ancestral or mythic realms, while spirits of new prey and the expanding forest entered the active pantheon; animist frame persisted; existential outlook accepted the transformation as within the order of things; ritual navigated the changed spirit world.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual adapted: new rites addressed new prey spirits; seasonal ceremonies adjusted to new resource calendars; rites of passage persisted; shamans mediated with adapted spirit worlds; sacred practice remained woven into daily life.
+
+__Religious Institutions & Doctrinal Authority:__ No institutional hierarchy; shamanic authority persisted through demonstrated power; doctrine adapted within oral tradition; no church, no clergy; residue unchanged.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Diffusion continued through contact at aggregations; syncretism absorbed new spirits and practices; no displacement by competing religions; spiritual landscape adapted and remained locally rooted.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment did not occur; the world remained enchanted, populated by spirits old and new; the cosmology answered existential need through the transition; sacred discharge nil; residue absent; the spiritual frame held, adapted but unbroken.
+

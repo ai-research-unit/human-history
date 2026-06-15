@@ -1,69 +1,139 @@
-# __2900 BCE – 2350 BCE__ — Early Dynastic Sumer and City-State Archives
-__Summary:__ Southern Mesopotamia fragments into competing city-states including Ur, Uruk, Lagash, Umma, Kish, and Nippur, each centered on a patron deity's temple and ruled by EN or LUGAL figures whose legitimacy depends on military success and divine favor. The binding constraint is inter-polity rivalry for water, land, and hegemony, channeling surplus into warfare and monumental display. Cuneiform matures from proto-writing into a full logosyllabic system capable of recording Sumerian language, royal inscriptions, and literary texts. The system holds moderate reserves but absorbs chronic military attrition. The direction of change is toward increasing political fragmentation punctuated by hegemonic bids, with archives proliferating as administrative complexity deepens.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Alluvial plain continues as the arena, with city-states controlling irrigation catchments along branching channels; transport friction low on waterways but disputed boundaries create political friction; levee sites remain premium settlement locations; resources still imported from highlands.<br><br>
-__Climate Regime & Volatility:__ Semi-arid regime persists; rainfall insufficient for dry farming; interannual variability in river discharge affects irrigation supply; no major secular drift; multi-decadal fluctuations possible but not documented within window.<br><br>
-__Hazard Regime & Exposure:__ Flood and channel avulsion remain primary hazards; canal systems elaborate but vulnerable to upstream diversion by rival polities; drought risk mediated by storage; military destruction of irrigation works adds anthropogenic hazard.<br><br>
-__Resource & Energy Endowment:__ Alluvial fertility sustained; copper, tin, stone, and timber continue to require import; lapis lazuli from Afghanistan, carnelian from Indus, timber from Lebanon; drawdown negligible; resource access depends on trade network maintenance.<br><br>
-__Waste Absorption & Sink Capacity:__ Salinization advancing in some long-irrigated districts, particularly southern fields; sink capacity remains adequate overall but localized degradation forcing crop shifts from wheat to more salt-tolerant barley; early warning of long-term constraint.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease load continues; urban crowding may elevate transmission; warfare adds traumatic mortality; overall death rate moderate; no documented epidemic; population growing despite losses.<br><br>
-__Nutrition & Physiological Vitality:__ Barley rations provide caloric baseline; fish, dates, and legumes supplement; some skeletal evidence of periodic stress markers; nutritional status adequate for most but vulnerable to siege and crop failure; slight decline possible in contested zones.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal descent consolidated; marriage contracts appear in archives; polygyny attested among elites; reproductive biology unconstrained; selective pressures favor kin groups with institutional access.<br><br>
-__Demographic Renewal & Density:__ Multiple cities reach 20,000-40,000 inhabitants; total regional population perhaps 500,000-1,000,000; positive replacement despite warfare; migration between polities documented; density approaching local carrying limits in core districts.<br><br>
-__Attrition & Dependency Overhang:__ War produces widows, orphans, and disabled; temple and palace institutions absorb some dependents through labor allocation; dependency load elevated but managed; chronic warfare prevents full stabilization.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Temple and palace granaries continue to buffer subsistence; ration systems documented in Fara and Lagash archives; floor secure during peace but warfare disrupts supply lines; besieged cities face acute stress.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; oxen, donkeys, and increasingly onagers for transport and traction; fire for kilns and smelting; collective labor mobilization for monumental projects and canal maintenance.<br><br>
-__Labor Organization & Coercion:__ Institutional labor pools expand; war captives introduced as unfree labor; corvee for canal work; specialist craftsmen attached to temples and palaces; coercion gradient steepening with social stratification.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus supports growing specialist classes; textile production intensifies for export; metalwork, jewelry, and luxury goods for elite consumption; surplus adequate but significantly diverted to military and monumental expenditure.<br><br>
-__Storage, Reserves & Buffering:__ Archives document granary management; multi-year reserves maintained; silver and copper serve as stored value; buffering capacity strained by warfare demands but not exhausted.<br><br>
-__Exchange, Trade & Logistics:__ Gulf trade with Dilmun, Magan, and Meluhha brings copper, stone, and exotic goods; internal exchange combines redistributive and emerging market elements; roads and waterways connect city-states; logistics adequate but vulnerable to conflict.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver standardizing as value measure; barley remains common medium; credit and debt recorded in tablets; temple loans documented; deferred exchange increasingly formalized through written contracts.<br><br>
-__Surplus Extraction & Redistribution:__ Temple and palace extract surplus through labor obligations, tithes, and land rents; redistribution through rations, ritual feasting, and military provisioning; extraction load increasing with warfare demands.<br><br>
-__Wealth Distribution & Asset Defense:__ Royal tombs at Ur display extreme concentration; elite burials include gold, lapis lazuli, and sacrificed retainers; private land ownership documented; wealth defended through palace walls and retainer loyalty; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Irrigation return flow concentrating salts; urban refuse in middens; kiln emissions localized; waste routing toward lower fields accelerates salinization; early signs of sink approach in southern districts.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates within city-state and kin networks; inter-polity trust low given chronic warfare; mutual aid through temple distribution and kin obligations; trust fabric intact within polities but fractured across them.<br><br>
-__Stratification, Status & Group Identity:__ Sharper stratification: royal dynasty, temple elite, free commoners, dependents, and slaves; status marked by dress, burial, and seal ownership; ethnic identity (Sumerian-speaking versus Semitic-speaking populations) emerging as factor; boundaries hardening.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal extended households; inheritance documented in early legal texts; primogeniture not universal; family as property-holding unit; marriage alliances consolidate elite networks.<br><br>
-__Civic Association & Self-Organization:__ Craft guilds, neighborhood councils, and elder assemblies provide sub-institutional coordination; assembly traditions attested in literary texts; associational fabric supports dispute resolution and collective action.<br><br>
-__Leisure, Play & Sociability:__ Banquet scenes on seals and plaques; musical instruments in royal tombs; board games widespread; festivals tied to agricultural and cultic calendar; sociability structured by rank.<br><br>
-__Grievance Channels & Social Discharge:__ Temple and palace adjudicate disputes; petitions to rulers attested; ritual and festival provide periodic discharge; warfare may redirect internal grievance outward; chronic inter-polity tension leaves some social friction unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ City-states ruled by EN (priestly lord) or LUGAL (king) with varying emphasis on religious versus military authority; power fragmented across polities; hegemonic cycles as one city briefly dominates others; centralizing trend within polities, fragmenting across region.<br><br>
-__Succession & Power Transfer:__ Dynastic succession emerging; king lists document lineages; succession disputes documented in inscriptions; transfer increasingly hereditary but contested; flashpoint potential moderate.<br><br>
-__Legitimacy & Political Narrative:__ Divine election and military victory legitimate rule; royal inscriptions on votive objects proclaim favor of patron deity; building temples demonstrates piety; narrative emphasizes cosmic mandate and protection of the land.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Cuneiform now enables complex administration; archives track land holdings, labor rosters, and disbursements; scribal schools (edubba) standardize training; capacity expanding; corruption potential rises with record complexity.<br><br>
-__Political Participation & Mobilization:__ Elite councils advise rulers; assembly may acclaim or reject candidates; popular participation limited; military mobilization draws on able-bodied males; no organized popular dissent documented.<br><br>
-__Geopolitical Position & External Relations:__ Multi-polar system with Kish, Ur, Uruk, Lagash, and Umma as major poles; alliances shift; Nippur as neutral religious center providing legitimacy; Lagash-Umma boundary conflict archetypal; external threats (Elamite, northern peoples) episodic.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing military forces include chariot-borne elites and infantry phalanx; copper weapons, leather shields, helmets depicted on Stele of Vultures; fortified city walls; force increasingly professionalized and concentrated in palace.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through institutional authority and kin pressure; banditry possible in hinterlands; disorder low within walls; enforcement capacity adequate; primary threat is inter-polity warfare rather than internal unrest.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication remains primary for daily affairs; cuneiform tablets carry administrative and diplomatic messages; royal inscriptions transmit legitimacy claims; velocity limited by physical transport; reach extends to literate scribal class.<br><br>
-__Record, Storage & Persistence:__ Clay tablet archives proliferate in temples and palaces; Fara texts, Lagash archives document administrative and literary content; records persist across generations; first substantial textual corpus in history; retrieval through archive organization.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions frame rulers as divinely favored; administrative records follow bureaucratic conventions; no narrative critique permitted; discourse norms enforce institutional perspective; censorship embedded in patronage.<br><br>
-__Reception, Attention & Amplification:__ Reception still limited to scribes and elites; public inscriptions on statues and stelae reach broader audience through visual display; amplification through herald announcements and ritual recitation; attention hierarchically structured.<br><br>
-__Signal Integrity & Noise Load:__ Cuneiform standardization reduces copying errors; lexical lists ensure consistent sign values; cross-referencing possible within archives; noise load low; verification capacity keeps pace with growing record volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Divine order establishes justice; ME (divine decrees) govern proper conduct; reciprocity and proportionality expected; sense of justice tied to cosmic balance; rulers obligated to protect the weak per later royal ideology.<br><br>
-__Law, Codification & Regulatory Evolution:__ Early legal texts appear; reform edicts (Urukagina of Lagash, c. 2350 BCE) address abuses; customary law governs most conduct; codification nascent; regulatory evolution toward written norms.<br><br>
-__Adjudication, Enforcement & Liability:__ Temple and palace courts adjudicate; elders arbitrate local disputes; witnesses and oaths invoked; enforcement through institutional sanction and community pressure; liability assigned in recorded judgments; throughput adequate for caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights concept embryonic; reform texts mention protecting orphans and widows; compliance burden rises with administrative complexity; predictability improving with written records.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity persists; reform texts acknowledge prior abuses by officials; gap between justice owed and delivered narrowing through codification efforts but not closed; some wrongs accumulate as standing grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical observation in agriculture, medicine, and divination; no systematic theoretical inquiry; paradigm remains traditional knowledge transmitted through practice; omen interpretation develops as proto-scientific method.<br><br>
-__Applied Knowledge & Technical Method:__ Advanced irrigation engineering; bronze metallurgy (copper-tin alloy) emerging; wheel and chariot technology; architectural methods for monumental construction; medical and veterinary recipes; methods transmitted through apprenticeship and early school texts.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Edubba (scribal schools) formalized; lexical lists, mathematical exercises, and copying drills constitute curriculum; knowledge stock accumulating in archives; literacy perhaps 2-5% but concentrated in specialist class; skill distribution widening slowly.<br><br>
-__Obsolescence & Knowledge Decay:__ Written records reduce generational loss; lexical lists preserve terminology; some archaic practices persist alongside innovations; decay rate slowing; error accumulation checked by copying discipline.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ City patron deities anchor identity; creation and flood myths developing; Sumerian King List constructs dynastic memory; foundation narratives tie cities to cosmic origins; identity intensely local but shared Sumerian cultural framework emerging.<br><br>
-__Artistic Expression & Material Culture:__ Royal tombs display goldwork, inlay, and sculpture; cylinder seals reach artistic peak; narrative reliefs like Stele of Vultures; monumental temple architecture continues; aesthetic emphasizes divine favor, military prowess, and hierarchical splendor.<br><br>
-__Collective Mood & Behavioral Disposition:__ Competitive confidence among city-state elites; military valor celebrated; risk tolerance high given constant warfare; mood oscillates with fortunes of war; behavioral temper favors display and assertion.<br><br>
-__Form Exhaustion & Meaning Decay:__ Artistic and ritual forms vital and elaborating; cuneiform signs conventionalizing but gaining expressive range; no exhaustion detected; symbolic repertoire expanding with literary development; meaning actively constructed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmos; gods control fates; afterlife a shadowy underworld; human purpose is divine service; outlook accepts divine caprice; piety essential for protection; fatalism balanced by ritual efficacy.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily temple offerings continue; major festivals (New Year, harvest) involve public participation; divination guides decisions; lustration and purification rites; devotion institutionalized but also personal through votive offerings.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Each city-state centered on patron deity's temple; priestly hierarchies consolidated; Nippur's Enlil cult provides pan-Sumerian legitimacy; orthodoxy enforced through ritual conformity; doctrinal authority shared across temples.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Inter-city contact promotes pantheon integration; local deities ranked within cosmic hierarchy; syncretism ongoing; no displacement but absorption; Sumerian religious framework spreading to Semitic-speaking populations.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred pervades all institutions; divine presence immediate in cult statues and ritual; transcendence mediated through temple service; spiritual need fully anchored in cosmic order; existential void absent.<br><br>
+# __2900 BCE – 2350 BCE — Early Dynastic Sumer and City-State Archives__
+
+__Summary:__ Southern Mesopotamia fragments into a competitive system of city-states — Ur, Uruk, Lagash, Umma, Nippur, Kish — whose temple and palace archives drive cuneiform's maturation from accounting notation to full writing capable of recording language; the binding constraint is the irrigation-dependent landscape, where water rights and boundary conflicts between adjacent polities generate both warfare and the administrative pressure that pushes record-keeping toward complexity.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The alluvial plain between the lower Tigris and Euphrates supports dense settlement wherever canals reach; major cities cluster within 50 kilometers of each other, creating a zone of intense interaction and competition; movement across the flat plain is easy, making boundaries permeable and defensible chokepoints scarce; the Euphrates branches into multiple channels, each commanding different city territories; the northern edge transitions to rain-fed land around Kish.
+
+__Climate Regime & Volatility:__ The hot-arid regime continues, with spring floods arriving April through June from distant Anatolian snowmelt; flood timing and volume vary significantly between years, creating uncertainty around irrigation planning; multi-year droughts recur, straining canal systems and stored reserves; no secular climate shift characterizes the period, but volatility within the existing regime is constant.
+
+__Hazard Regime & Exposure:__ Flood surges breach levees, destroying crops and settlements; prolonged drought shrinks canal flow below agricultural needs; salinization advances in repeatedly irrigated fields, forcing abandonment of degraded plots; dust storms reduce visibility and damage crops; the hazard portfolio is hydrological and edaphic rather than seismic or volcanic.
+
+__Resource & Energy Endowment:__ The alluvium remains resource-poor in stone, metal, and timber, driving continued import dependence; clay for bricks and tablets is unlimited; bitumen, reeds, and fish remain locally abundant; copper arrives from Iran and the Gulf; lapis lazuli from Afghanistan; timber from Lebanon and the Zagros; the import network is mature and extensive.
+
+__Waste Absorption & Sink Capacity:__ Salt accumulation in irrigated soils intensifies over generations; abandoned plots document the salinization trajectory; canal silting requires perpetual dredging; organic waste is recycled but construction debris accumulates; the sink is degrading but not yet saturated to the point of system breakdown.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Urban densities sustain endemic gastrointestinal and respiratory disease; waterborne pathogens circulate through canal-dependent water supplies; epidemic outbreaks are not documented but conditions favor periodic surges; infant mortality remains high; adult life expectancy is limited but sufficient for demographic renewal.
+
+__Nutrition & Physiological Vitality:__ Barley, dates, fish, sheep, and goat provide an adequate if monotonous diet; ration records show standardized distributions scaled by age, sex, and labor status; nutritional stress appears in skeletal remains during crisis periods; baseline vitality supports the labor demands of agriculture, construction, and warfare.
+
+__Care, Healing & Recovery Capacity:__ Healing operates through temple personnel and household tradition; incantations, herbal remedies, and wound care are documented in later texts with roots in this period; midwifery ensures reproductive continuity; no systematic medicine exists, but practical care meets routine needs.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal households structure reproduction; early marriage and high fertility are the norm; polygyny exists among elites; reproductive capacity is biologically high; selective pressures continue to favor disease resistance and physical endurance.
+
+__Demographic Renewal & Density:__ Population grows across the period, with individual cities reaching 20,000–40,000 inhabitants; the urban network collectively numbers in the hundreds of thousands; birth rates exceed death rates except in crisis years; density presses against water and agricultural carrying capacity in some territories.
+
+__Attrition & Dependency Overhang:__ High child mortality removes many dependents early; warfare culls the adult male population periodically; aged dependents are few; the productive cohort carries a manageable dependency load; attrition from warfare is significant but absorbed demographically.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Irrigated barley cultivation remains the subsistence base; date palm gardens, sheep and goat herding, and canal fishing supplement grain; the provisioning floor sits above crisis in normal years but is vulnerable to drought, flood, or military devastation of fields.
+
+__Energy Capture & Conversion:__ Human and animal muscle provide motive power; donkeys and oxen haul and plow; fire serves craft production and food preparation; no water or wind power is mechanically harnessed; per capita energy capture supports monumental construction through mass labor mobilization.
+
+__Labor Organization & Coercion:__ Temple and palace institutions organize labor through rations, corvée, and dependent service; the geme and arad categories document attached workers with limited autonomy; agricultural laborers receive grain and oil; craft specialists work in institutional workshops; coercion operates through economic dependence rather than overt violence, though the line is thin.
+
+__Production & Surplus Capacity:__ Surplus supports temple construction, palace maintenance, warfare, and craft production; the surplus margin is narrow, contested between cities, and vulnerable to disruption; production capacity expands as new fields are irrigated but salinization erodes older plots; the net trajectory varies by city.
+
+__Storage, Reserves & Buffering:__ Temple and palace granaries hold reserves; storage vessels and capacity appear in administrative records; buffering against single bad years is adequate; multi-year drought or military occupation would deplete reserves rapidly; debt instruments defer obligations across time.
+
+__Exchange, Trade & Logistics:__ Inter-city trade moves agricultural and craft goods; long-distance trade brings metals, stone, and timber; the Gulf trade routes connect to Dilmun, Magan, and Meluhha; donkey caravans and river boats provide transport; no standardized currency, but silver by weight serves as a value measure alongside barley.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver and barley function as value stores and units of account; loan tablets document interest-bearing credit; debt accumulates and is periodically discharged by royal decree (andurarum proclamations in later periods originate here); temple accounts track deferred exchange systematically.
+
+__Surplus Extraction & Redistribution:__ Temples and palaces extract surplus through harvest shares, labor obligations, and herding contributions; redistribution returns as rations, cult support, and military provisioning; the extraction rate is high, supporting a substantial non-producing class of administrators, priests, soldiers, and craft specialists.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in temple and palace institutions; elite households accumulate land, precious metals, and prestige goods; royal tombs at Ur demonstrate extreme elite accumulation; land tenure is institutionally controlled but private property concepts are emerging; defense of holdings operates through institutional authority and emerging legal claims.
+
+__Byproducts & Waste Routing:__ Agricultural and craft waste is recycled where possible; pottery shards accumulate; canal silt is dredged and deposited; waste routing is managed locally but not systematized at scale.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended patrilineal households remain the basic social unit; inheritance follows male lines with provisions for daughters' dowries; marriage creates strategic alliances; kinship obligations structure mutual aid and conflict; the household is both residential and economic unit.
+
+__Association & Mutual Aid:__ Temple communities create solidarity beyond kinship; neighborhood and craft associations provide mutual aid; elders mediate disputes; the associational fabric is dense in urban centers, thinner in rural hinterlands.
+
+__Leisure, Play & Sociability:__ Festivals punctuate the agricultural calendar; beer halls provide everyday sociability; music, gaming, and feasting are documented in texts and material culture; elite banquet scenes appear in cylinder seals; sociability reinforces status distinctions.
+
+__Stratification, Status & Group Structure:__ A clear hierarchy separates rulers (en, lugal, ensi), priests, administrators, merchants, craft specialists, agricultural workers, and dependent laborers; status is visible in dress, burial, and residential location; stratification is rigid with limited mobility; ethnic and occupational groups form distinct strata.
+
+__Administrative Capacity & Institutional Integrity:__ Temple and palace administrations achieve sophisticated accounting, tracking labor, rations, herds, land, and goods; cuneiform enables complex record-keeping exceeding oral memory; scribal schools train specialists; administrative capacity is high relative to scale; corruption exists but institutional integrity is maintained through cross-checking and oversight.
+
+__Coercive Apparatus & Means of Force:__ Military forces are organized by city-states, equipped with copper and bronze weapons, leather armor, and socketed spears; the Standard of Ur and Stele of Vultures depict organized infantry formations and war chariots (heavy carts); city walls provide defense; military competition between city-states is constant and casualties significant.
+
+__Discharge, Disorder & Decay:__ Inter-city warfare constitutes the primary social friction; internal disorder is managed through ration distribution and religious legitimation; banditry exists at the margins; the apparatus is functional but strained by military demands; no systemic decay, though individual cities experience defeat and decline.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Public sentiment varies by city fortunes; successful warfare and abundant harvests generate confidence; defeat and scarcity produce anxiety; interpersonal trust extends through kin and institutional networks; the behavioral temper is competitive, with city identity strongly felt.
+
+__Leadership & Personal Authority:__ Rulers (lugal, ensi) exercise personal authority through military success, temple sponsorship, and judicial functions; kingship separates from priesthood during this period; charisma flows from military victory; dynastic succession attempts to stabilize personal authority across generations.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy flows from divine mandate expressed through temple sanction, military success, and just rule; allegiance to the city and its gods is strong; usurpation and defeat erode legitimacy rapidly; succession crises recur.
+
+__Political Will & Collective Resolve:__ Collective will is high within city-states, demonstrated by wall construction, canal maintenance, and military mobilization; the will to dominate neighboring cities drives recurring warfare; internal cohesion fractures during succession struggles or military defeat.
+
+__External Relations & Posture:__ City-states exist in a competitive system with shifting alliances; hegemony claims appear in royal inscriptions (lugal of Kish implies broad dominance); boundary treaties document temporary settlements; the posture is acquisitive, seeking water rights, agricultural land, and tributary relationships.
+
+__Disaffection, Apathy & Spent Will:__ Defeat and destruction generate temporary disaffection; no evidence of systemic apathy; will remains engaged given the stakes of survival in a competitive environment.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Sumerian dominates in the south, with Akkadian spoken in the north; cuneiform literacy remains restricted to a small scribal class serving temple and palace; the population communicates orally; the literate elite numbers perhaps 1–2% of urban populations.
+
+__Channels & Transmission Velocity:__ Information travels by voice within cities, by messenger between them; runner and donkey messenger services exist; transmission velocity remains limited to human and animal pace; channel reach covers the inter-city system adequately.
+
+__Record, Storage & Persistence:__ Cuneiform archives preserve administrative, legal, and eventually literary texts; clay tablets survive fire and burial; institutional archives accumulate records across generations; the persistence of records enables continuity beyond individual memory; this is the manuscript stage in full operation.
+
+__Framing, Censorship & Discourse Norms:__ Royal inscriptions frame military victories as divine mandate; administrative records follow standardized conventions; no formal censorship, but access to writing restricts who can frame; oral discourse remains uncontrolled.
+
+__Reception, Attention & Amplification:__ Literate reception is limited to scribes and administrators; oral amplification through heralds, festivals, and storytelling reaches the broader population; royal monuments and sculptures communicate to the illiterate.
+
+__Signal Integrity & Noise Load:__ Cuneiform achieves high signal integrity through standardized sign lists and scribal training; verification operates through archival cross-reference; noise is low in administrative records; corruption increases with copying of literary texts.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is a divine attribute that kings must uphold; fairness in contracts, ration distribution, and boundary maintenance constitutes rightness; reciprocity structures moral expectation; breach of contract and boundary violation are wrongs requiring redress.
+
+__Law, Codification & Regulatory Evolution:__ Reform texts (Urukagina of Lagash, c. 2350 BCE) document legal norms and abuses requiring correction; formal law codes do not yet exist, but precedent and custom are articulated in administrative contexts; taboos govern sacred spaces and personnel.
+
+__Adjudication, Liability & Sanction:__ Rulers and temple officials adjudicate disputes; oaths before gods bind testimony; sanctions include compensation, corporal punishment, and execution; adjudication capacity keeps pace with caseload in normal times.
+
+__Rights, Protections & Compliance Burden:__ Rights are not formalized but protections flow from institutional membership; widows and orphans receive explicit protection in reform texts; compliance burden is embedded in labor and tribute obligations.
+
+__Impunity & Unredressed Wrong:__ Elite impunity is structurally high; reform texts complain of officials taking advantage of their positions; redress depends on the ruler's commitment to justice; the gap between justice owed and delivered is recognized as a political problem.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry operates within a mythological paradigm; natural phenomena are divine actions; practical observation informs agriculture, construction, and craft; astronomical observation emerges for calendar purposes; the paradigm is religious but empirical methods are applied within it.
+
+__Applied Knowledge & Technical Method:__ Cuneiform reaches full writing capacity, able to represent language, not just commodities; bronze metallurgy is sophisticated; irrigation engineering manages complex canal networks; construction methods produce monumental architecture; method is empirical and transmitted through apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (edubba) emerge to train cuneiform specialists; literacy is narrowly distributed but systematic; craft knowledge is transmitted through workshop training; the knowledge stock grows as writing enables accumulation and transmission.
+
+__Obsolescence & Knowledge Decay:__ Proto-cuneiform conventions are superseded by mature cuneiform; older sign forms become archaic; knowledge loss is limited given the expanding literate class; oral traditions persist alongside written records.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ City identities center on patron deities and foundational narratives; Nippur holds special status as cult center of Enlil; the Sumerian King List (compiled later but drawing on this period's memory) structures historical consciousness; collective memory operates through temple tradition and oral epic.
+
+__Legitimating Narrative & Ideology:__ Kingship descends from heaven; rulers are chosen by the gods; military victory demonstrates divine favor; this narrative legitimates both the office and individual holders; defeat undermines legitimacy directly.
+
+__Artistic Expression & Material Culture:__ Monumental art reaches sophistication in the Royal Tombs of Ur, with gold vessels, lapis jewelry, and inlaid harps; cylinder seals achieve miniature mastery; sculpture in stone (despite its importation) produces cult statues and royal monuments; the visual vocabulary emphasizes divine-royal hierarchy, warfare, and banqueting.
+
+__Form Exhaustion & Meaning Decay:__ Forms are vital and elaborating; no exhaustion is evident; the cultural vocabulary is expanding with new genres of writing and artistic conventions.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The gods rule the cosmos and require human service; the afterlife is a dim shadow existence; fate is determined by divine will and cannot be escaped; the existential outlook is hierarchical and accepting of human limitation; piety consists in service and propitiation.
+
+__Ritual, Devotion & Sacred Practice:__ Daily offerings, monthly festivals, and annual cycles structure religious life; temples require constant service — feeding, clothing, and housing the god's statue; personal devotion includes prayer, votive offerings, and pilgrimage; the sacred pervades daily life.
+
+__Religious Institutions & Doctrinal Authority:__ Temples are the dominant institutions, though palace authority separates during this period; priests hold doctrinal authority; pantheon structure stabilizes with city gods subordinate to cosmic deities (An, Enlil, Enki); Nippur emerges as the religious center whose sanction legitimates kingship.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sumerian religious practice remains dominant; Akkadian-speaking populations adopt Sumerian gods with translated names; syncretism operates as absorption into the Sumerian framework; no external challenge to the cosmology exists.
+
+__Disenchantment & Sacred Discharge:__ The sacred is fully potent; temples command resources and allegiance; no disenchantment is evident; the religious framework provides complete meaning.

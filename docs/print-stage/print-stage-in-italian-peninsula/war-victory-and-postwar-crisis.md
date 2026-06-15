@@ -1,69 +1,139 @@
-# __1914 CE – 1922 CE__ — War, Victory, and Postwar Crisis
-__Summary:__ Italy enters World War I in 1915 after bitter press-driven debate, endures costly attrition culminating in the Caporetto disaster and Vittorio Veneto recovery, then confronts a postwar crisis of "mutilated victory," revolutionary agitation, and squadrista violence ending in the Fascist march on Rome; the binding constraint is the inability of liberal institutions to absorb mass mobilization's social discharge, leaving minimal margin against both left and right disorder as political direction drifts toward authoritarian consolidation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Alpine front along Austrian border imposes high-altitude trench warfare; Isonzo valley funnels offensives through narrow corridors; Adriatic coastline and Po plain provide logistical depth but limited maneuver space.<br><br>
-__Climate Regime & Volatility:__ Harsh alpine winters interrupt offensive operations; Mediterranean lowlands experience normal seasonal variation; no significant climatic anomaly shapes the period beyond standard interannual fluctuation.<br><br>
-__Hazard Regime & Exposure:__ Earthquake risk persists but no major seismic event during window; flood exposure along Po tributaries remains within normal bounds; war damage rather than natural hazard dominates infrastructure stress.<br><br>
-__Resource & Energy Endowment:__ Italy lacks domestic coal and iron ore; hydroelectric development in the north provides growing but insufficient power; petroleum imports constrained by wartime shipping; endowment gap forces dependence on Allied supply.<br><br>
-__Waste Absorption & Sink Capacity:__ Wartime industrial concentration around Milan and Turin increases atmospheric and waterway pollution; absorptive capacity strained locally but peninsula-wide sinks remain adequate; battlefield contamination limited to northern frontier.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Spanish influenza 1918–1919 kills approximately 400,000–500,000 Italians; wartime conditions elevate typhus and dysentery on the front; civilian mortality from disease rises but epidemic subsides by 1920.<br><br>
-__Nutrition & Physiological Vitality:__ Wartime rationing and food requisitioning reduce caloric intake especially in urban and southern areas; post-armistice provisioning improves but recovery incomplete by 1922; working-class stature and vitality lag prewar baseline.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Prolonged male mobilization disrupts family formation; birth rates decline sharply 1915–1918; postwar recovery partial as economic insecurity persists; marriage rates spike briefly after demobilization then stabilize.<br><br>
-__Demographic Renewal & Density:__ Approximately 650,000 military dead plus civilian mortality from influenza and deprivation create demographic deficit; emigration virtually halted by war then restricted by U.S. quotas; population density stable but age structure distorted.<br><br>
-__Attrition & Dependency Overhang:__ War widows and orphans number in hundreds of thousands; disabled veterans (mutilati) require pensions and care; productive cohort diminished; dependency load strains state budgets and family resources through the window.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Wartime requisitioning raises food insecurity in cities and south; black markets flourish; postwar inflation erodes purchasing power; subsistence stress contributes to labor militancy and rural unrest.<br><br>
-__Energy Capture & Conversion:__ Coal imports from Britain sustain war production but at premium cost; hydroelectric capacity expands modestly; conversion efficiency limited by transport bottlenecks; energy constraints ease slightly postwar but remain binding.<br><br>
-__Labor Organization & Coercion:__ Industrial mobilization suspends strikes under military discipline 1915–1918; postwar demobilization releases millions into uncertain labor market; unionization surges with CGL and Catholic unions; coercion shifts from state to squadrista violence against labor.<br><br>
-__Production & Surplus Capacity:__ War industries (Fiat, Ansaldo) expand dramatically; conversion to peacetime production falters; overcapacity and cancelled contracts trigger industrial crisis; agricultural output recovers slowly from wartime decline.<br><br>
-__Storage, Reserves & Buffering:__ State grain reserves depleted by war; treasury exhausted, debt soars; foreign exchange reserves minimal; private savings eroded by inflation; buffer capacity critically low throughout the window.<br><br>
-__Exchange, Trade & Logistics:__ Wartime disruption of Mediterranean shipping persists into reconstruction; rail network strained but functional; internal trade recovers unevenly; export markets slow to reopen.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Lira depreciates sharply against prewar parity; inflation peaks 1919–1920 then moderates; war debt to Allies and domestic bondholders constrains fiscal space; credit tight for productive investment.<br><br>
-__Surplus Extraction & Redistribution:__ Wartime taxation and bond drives extract unprecedented surplus; postwar demobilization demands (pensions, reconstruction) exceed revenue; deficit spending continues; redistributive capacity exhausted.<br><br>
-__Wealth Distribution & Asset Defense:__ War profiteers accumulate industrial fortunes while fixed-income holders and small savers lose to inflation; land hunger among returning veterans unmet; wealth concentration sharpens social conflict.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste from expanded war production routed to rivers and atmosphere with minimal treatment; postwar contraction reduces output volume; industrial pollution concentrated around northern triangle.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ War initially builds national solidarity but Caporetto blame and postwar disappointment erode trust between classes and regions; mutual aid through unions and parishes persists but factional violence frays informal safety nets.<br><br>
-__Stratification, Status & Group Identity:__ Returning veterans claim status and benefits; industrial workers assert class identity through strikes; rural laborers organize; middle class squeezed by inflation aligns with nationalist and Fascist movements; boundaries harden into violent confrontation.<br><br>
-__Kinship, Family & Inheritance:__ War deaths disrupt patrilineal succession in landed families; widow-headed households increase; inheritance patterns unchanged legally but demographic shock reshuffles property transmission.<br><br>
-__Civic Association & Self-Organization:__ Unions, cooperatives, Chambers of Labor, and Catholic leagues proliferate 1919–1920; Fascist squads systematically destroy socialist organizational infrastructure 1921–1922; associational fabric torn by violence.<br><br>
-__Leisure, Play & Sociability:__ Wartime austerity limits public festivity; postwar resumption of café, piazza, and theater sociability; cinema expands; football clubs grow; leisure spaces become sites of political confrontation.<br><br>
-__Grievance Channels & Social Discharge:__ Strike waves and land occupations channel economic grievance; political violence substitutes for institutional mediation; liberal state unable to absorb discharged frustration; standing instability accumulates into regime crisis.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary monarchy under Victor Emmanuel III; executive authority fragmented among rotating liberal cabinets; Fascist movement builds parallel coercive apparatus; authority devolves toward extra-parliamentary violence by 1921–1922.<br><br>
-__Succession & Power Transfer:__ Constitutional mechanisms intact but weakened; Mussolini appointment October 1922 formally legal but coerced by march on Rome threat; transfer marks rupture toward authoritarian consolidation.<br><br>
-__Legitimacy & Political Narrative:__ Liberal regime loses legitimacy through "mutilated victory" narrative (Fiume, Dalmatia denied); socialist revolutionary discourse delegitimizes bourgeois state; Fascist counter-narrative of national regeneration gains ground.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Wartime state expansion strains bureaucracy; postwar demobilization overwhelms administrative capacity; corruption and inefficiency persist; police and army reliability compromised by Fascist infiltration and sympathy.<br><br>
-__Political Participation & Mobilization:__ Universal male suffrage 1919 produces mass parties (PSI, PPI); elections 1919 and 1921 fragment parliament; street mobilization replaces electoral competition as primary political modality; participation channels closing by 1922.<br><br>
-__Geopolitical Position & External Relations:__ Ally in victorious coalition but diplomatically isolated at Paris Peace Conference; Fiume crisis strains relations with Yugoslavia and Allies; colonial position unchanged; external pressure minimal compared to internal disorder.<br><br>
-__Coercive Apparatus & Means of Force:__ Army demobilizes to peacetime strength but retains capacity; police overstretched by labor and Fascist violence; Fascist squads operate as parallel militia with tacit state tolerance; command of force fragmenting.<br><br>
-__Internal Order & Threat Environment:__ Red Years 1919–1920 see factory occupations and rural strikes; Fascist squadrismo 1920–1922 burns socialist headquarters and beats organizers; disorder exceeds enforcement capacity; margin for order near zero.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph and telephone networks intact; newspapers remain primary mass medium; cinema newsreels supplement print; radio experiments begin but not yet broadcast; information reaches mass audience within days.<br><br>
-__Record, Storage & Persistence:__ State archives, military records, and newspaper morgues preserve documentation; wartime censorship creates gaps in immediate record; postwar press restores open publication temporarily; records durable.<br><br>
-__Framing, Censorship & Discourse Norms:__ Wartime military censorship suppresses defeatism and casualty details; postwar press freedom restored but political violence intimidates editors; Fascist assault on opposition press begins 1921; discourse band narrowing.<br><br>
-__Reception, Attention & Amplification:__ Mass literacy (approximately 70% by 1920) enables newspaper readership; sensationalist coverage of strikes, violence, and Fiume amplifies polarization; D'Annunzio's propaganda demonstrates media manipulation; attention captured by crisis.<br><br>
-__Signal Integrity & Noise Load:__ Competing partisan narratives (socialist, nationalist, Catholic, liberal) generate high noise; verification capacity limited; rumor and exaggeration spread; signal integrity degraded by propaganda war.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Wartime sacrifice generates expectations of reward and recognition; perception of betrayal at Paris and by profiteers corrodes moral consensus; vigilante justice rationalized on both left and right.<br><br>
-__Law, Codification & Regulatory Evolution:__ Wartime emergency decrees persist into reconstruction; labor codes under pressure; property and contract law unchanged but enforcement erratic; regulatory framework strained by disorder.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts backlogged; Fascist violence often unprosecuted due to sympathetic magistrates and intimidated witnesses; socialist offenders prosecuted more vigorously; enforcement asymmetry delegitimizes system.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights formally intact but violated by political violence; press freedom under assault; assembly rights contested by squadrismo; compliance burden shifts to survival under threat.<br><br>
-__Impunity & Unredressed Wrong:__ Fascist perpetrators of beatings, arsons, and murders rarely convicted; socialist and labor victims accumulate unrestituted grievances; impunity gap widens dramatically 1921–1922; redress capacity collapsed.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Prewar positivism and idealism continue in universities; Croce dominates philosophy; Futurism celebrates war and technology; scientific research continues but subordinated to practical war and reconstruction needs.<br><br>
-__Applied Knowledge & Technical Method:__ Military engineering and industrial production methods refined during war; aviation and automotive technology advance; applied chemistry (explosives, poison gas) developed; methods transfer to civilian economy unevenly.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Elementary education mandatory but quality varies regionally; literacy rising but secondary and university access limited; wartime disruption to schooling; technical skills concentrated in northern industrial workforce.<br><br>
-__Obsolescence & Knowledge Decay:__ Liberal political science and economics challenged by revolutionary and corporatist theories; positivist social science losing prestige to vitalist and idealist currents; knowledge stock stable but paradigmatic contestation high.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Risorgimento nationalism reinterpreted through war; "mutilated victory" becomes founding grievance; combattentismo (veteran identity) politicized; regional identities persist beneath contested national narrative.<br><br>
-__Artistic Expression & Material Culture:__ Futurism glorifies war and machines; postwar art reflects trauma and disillusion; war memorials proliferate; monumental architecture celebrates sacrifice; material culture marked by austerity and reconstruction.<br><br>
-__Collective Mood & Behavioral Disposition:__ Postwar mood combines exhaustion, bitterness, and revolutionary expectation; middle-class fear of Bolshevism; veteran restlessness; collective disposition volatile and polarized; mood darkening through 1921–1922.<br><br>
-__Form Exhaustion & Meaning Decay:__ Liberal parliamentary rhetoric loses resonance; socialist revolutionary symbolism peaks then deflates after failed revolution; Fascist movement appropriates exhausted forms and injects violent energy; meaning flux high.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic worldview predominates among masses; war trauma produces both intensified piety and existential questioning; secular nationalism offers alternative transcendence through sacrifice for nation; outlook fractured.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance remains high; war dead commemorated in religious services; Fascist ritual appropriates sacred forms (martyrdom, liturgical staging); devotional practice continuous but politicized.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Vatican maintains neutrality during war; Benedict XV's peace efforts rejected; postwar Church supports Catholic party (PPI) then accommodates Fascism; institutional authority stable but politically repositioning.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism unchallenged as dominant confession; socialist anticlericalism peaks then recedes; nationalist civic religion emerging as competitor; no significant syncretism; displacement minimal.<br><br>
-__Disenchantment & Sacred Discharge:__ War dead's sacrifice requires meaning; liberal nationalism insufficient to provide it; Fascism offers sacralized violence and national rebirth as re-enchantment; spiritual need redirected toward political religion; disenchantment partially re-anchored.<br><br>
+# __1914 CE – 1922 CE — War, Victory, and Postwar Crisis__
+
+The binding constraint is the state's inability to translate military victory into political legitimacy, as the press simultaneously amplifies nationalist grievance and channels mass mobilization against the liberal order; the war economy's inflationary debt and demobilization's unemployment create a fiscal trap the weakened parliamentary system cannot resolve, enabling both socialist and fascist movements to deploy print propaganda to delegitimize liberal institutions and claim the street.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Alpine front from Stelvio to the Adriatic imposes brutal terrain on military operations; the Isonzo valley becomes the axis of eleven costly offensives, the Carso limestone plateau absorbing shells without yielding. Interior rail connections funnel men and materiel from the industrial triangle to the front, but mountainous terrain limits breakthrough possibilities. Postwar, Trieste and Trentino are integrated, but Fiume and Dalmatia remain contested.
+
+__Climate Regime & Volatility:__ Alpine winters freeze men in trenches at altitude; summer heat on the Carso aggravates water scarcity. The 1917–1918 winter combines with military collapse at Caporetto to produce mass displacement. Postwar harvests are adequate but cannot offset dislocated distribution networks.
+
+__Hazard Regime & Exposure:__ Industrial munitions production in Milan and Turin creates explosion hazards and toxic exposure. The Spanish flu pandemic (1918–1919) kills perhaps 600,000 Italians, overwhelming medical infrastructure already strained by war casualties.
+
+__Resource & Energy Endowment:__ Italy lacks coal and iron; wartime imports from Britain depend on vulnerable Mediterranean shipping. Hydroelectric capacity in the Alps expands to offset coal scarcity but cannot close the gap. Postwar, energy shortages compound industrial disruption.
+
+__Waste Absorption & Sink Capacity:__ Battlefields accumulate unburied dead, unexploded ordnance, and toxic residue. Industrial cities absorb wartime pollution without remediation; postwar reconstruction prioritizes production over sanitation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ War deaths approach 650,000 military and 600,000 civilian (including Spanish flu). Influenza spreads through demobilizing troops and urban density. Malnutrition weakens immune resistance, especially in the south.
+
+__Nutrition & Physiological Vitality:__ Wartime rationing reduces caloric intake; bread rations fall to 200 grams daily by 1917. Postwar inflation prices food beyond worker wages, provoking bread riots. Southern nutrition remains poorest.
+
+__Care, Healing & Recovery Capacity:__ Military hospitals process over a million wounded; psychiatric casualties from shell shock are underrecognized. Civilian medicine is stripped of personnel and supplies. The Red Cross and religious orders supplement state capacity.
+
+__Reproductive Biology & Pairing Dynamics:__ Birthrates collapse during the war years due to male absence; postwar recovery is partial. Marriage rates spike in 1919–1920 as demobilized men return.
+
+__Demographic Renewal & Density:__ War and flu remove approximately 1.2 million from the population; emigration halts during the war but resumes after, now redirected by American restrictions. The generational cohort of young men is severely depleted.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans constitute a new dependent class. Pension claims strain the treasury; veterans' associations become political actors.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Wartime requisitioning strips the countryside; urban populations depend on rationed imports. Postwar, the end of allied credits and shipping disrupts supply chains. Black markets flourish.
+
+__Energy Capture & Conversion:__ Coal imports decline from 10 million tons (1913) to under 6 million (1918). Hydroelectric expansion partially compensates in the north. Postwar coal shortages idle factories and railways.
+
+__Labor Organization & Coercion:__ Industrial mobilization places workers under military discipline; strikes are banned. Postwar, labor militancy explodes: factory councils in Turin (1919–1920) and the occupation of factories (September 1920) represent the peak of worker self-organization.
+
+__Production & Surplus Capacity:__ War production expands heavy industry (Fiat, Ansaldo, Ilva) but creates overcapacity when orders cease. Postwar reconversion fails; Ansaldo and the Banca di Sconto collapse in 1921.
+
+__Storage, Reserves & Buffering:__ War finance depletes reserves; the treasury borrows heavily from Britain, France, and the United States. Postwar debt service claims a large share of revenue. No fiscal buffer remains.
+
+__Exchange, Trade & Logistics:__ Wartime trade depends on allied shipping and credits. Postwar, Italy loses access to Central European markets; trade deficits persist. Rail infrastructure is degraded.
+
+__Value Storage, Credit & Deferred Exchange:__ The lira depreciates from 5 per dollar (1914) to over 20 (1920). Inflation erodes savings and fixed incomes. The banking system is fragile; the Banca di Sconto failure (1921) spreads contagion.
+
+__Surplus Extraction & Redistribution:__ War taxes rise but cover only a fraction of costs; deficit finance and inflation constitute implicit extraction. Postwar governments attempt new taxes but face resistance from industrialists and landlords.
+
+__Wealth Distribution & Asset Defense:__ War profiteers (pescecani) accumulate fortunes while workers and middle classes suffer inflation erosion. Land occupations in the south and factory seizures in the north challenge property rights.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates; postwar reconstruction neglects environmental remediation. Financial waste appears as bad debt concentrated in overextended banks.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War deaths disrupt inheritance and leave female-headed households. Traditional family authority weakens as women enter the workforce and veterans return traumatized.
+
+__Association & Mutual Aid:__ Veterans' associations proliferate; the Associazione Nazionale Combattenti claims mass membership. Socialist cooperatives expand in the Po Valley. Catholic rural banks and cooperatives compete. Mutual aid societies cannot meet postwar demands.
+
+__Leisure, Play & Sociability:__ Wartime austerity suspends festivals; postwar, public space becomes contested between socialist demonstrations, nationalist rallies, and fascist squads. The piazza is a site of violence.
+
+__Stratification, Status & Group Structure:__ The war scrambles status hierarchies; peasants become officers, workers become foremen. Postwar, the returning arditi (assault troops) refuse reintegration into prewar subordination. The bourgeoisie fears proletarian revolution.
+
+__Administrative Capacity & Institutional Integrity:__ The liberal state expands wartime powers but cannot demobilize efficiently. Bureaucracy is corrupt and slow; prefects lose control of provinces. Parliament is deadlocked among Liberals, Socialists, and Popolari.
+
+__Coercive Apparatus & Means of Force:__ The army demobilizes from 5 million to 200,000 but armed veterans proliferate. Fascist squads (squadristi) form from demobilized arditi and students; they attack socialist headquarters, union halls, and newspapers with impunity. The police and carabinieri often stand aside.
+
+__Discharge, Disorder & Decay:__ Rural and urban violence escalates: land occupations, factory occupations, fascist punitive expeditions, and political assassinations. The state loses its monopoly on violence. Liberal institutions decay under the double assault.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The "mutilated victory" narrative poisons public mood; Fiume (D'Annunzio's occupation, 1919–1920) becomes a nationalist symbol. Workers oscillate between revolutionary hope and fear; the bourgeoisie panics. Trust collapses across class lines.
+
+__Leadership & Personal Authority:__ Giolitti, Nitti, Orlando, and Bonomi rotate through weak governments. D'Annunzio's theatrical nationalism inspires the right. Mussolini emerges from the fasci di combattimento, leveraging ex-socialist rhetorical skill and squadristi violence.
+
+__Legitimacy as Lived Allegiance:__ The liberal monarchy loses allegiance from both left and right. Socialists refuse to enter government; Popolari are divided. The king and army acquiesce in fascist illegality.
+
+__Political Will & Collective Resolve:__ Liberal governments lack will to suppress fascist violence or implement structural reform. Socialists split between maximalists and reformists; the Communist Party (1921) is too weak to lead revolution. The Fascist Party mobilizes will through action.
+
+__External Relations & Posture:__ Italy gains Trentino, South Tyrol, Trieste, and Istria but not Fiume or Dalmatia; the "mutilated victory" grievance dominates foreign-policy discourse. Relations with Yugoslavia are hostile; dependence on Anglo-French goodwill constrains options.
+
+__Disaffection, Apathy & Spent Will:__ War-weariness pervades all classes. Socialist militancy collapses after the failed factory occupations (1920). Liberal politicians are exhausted and discredited. The vacuum invites fascist seizure.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy approaches 60% by 1920; Italian remains a minority language in daily speech but dominates print. Veterans spread national Italian through military service.
+
+__Channels & Transmission Velocity:__ The daily press reaches mass circulation; Corriere della Sera prints 600,000 copies. Trains and telegraph distribute news within hours. Fascist squads disrupt socialist distribution networks by attacking print shops and burning newspaper kiosks.
+
+__Record, Storage & Persistence:__ Wartime censorship destroys records of dissent; postwar, police files expand. Newspaper archives document the crisis but fascist seizures of socialist archives erase organizational memory.
+
+__Framing, Censorship & Discourse Norms:__ Wartime censorship is severe; postwar, press freedom is nominal but fascist violence silences opposition papers. Avanti!'s offices are sacked (1919, 1921). The nationalist press frames the left as anti-patriotic.
+
+__Reception, Attention & Amplification:__ Sensationalist coverage of Fiume and fascist violence attracts attention. The socialist and Catholic press compete for working-class readers. Print remains the dominant medium; radio is embryonic.
+
+__Signal Integrity & Noise Load:__ Propaganda, rumor, and deliberate disinformation saturate public discourse. Claims of imminent Bolshevik revolution are exaggerated but effective.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The war mobilizes sacrifice as a moral claim; veterans demand recognition and reward. Workers claim the right to control production. Property owners assert the sanctity of property against both.
+
+__Law, Codification & Regulatory Evolution:__ Wartime emergency decrees persist; labor legislation expands (eight-hour day, 1919). But enforcement is uneven and contested.
+
+__Adjudication, Liability & Sanction:__ Courts fail to prosecute fascist violence; judges sympathize or fear retaliation. Socialists and communists are prosecuted for sedition while squadristi escape.
+
+__Rights, Protections & Compliance Burden:__ Freedom of assembly and press is formally guaranteed but practically annulled by fascist violence. The state cannot or will not protect constitutional rights.
+
+__Impunity & Unredressed Wrong:__ Fascist impunity is the defining feature: hundreds of socialist and labor organizers are killed, their murderers rarely prosecuted. The moral order of the liberal state collapses.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ War discredits positivism and liberalism; Croce defends idealist historicism. Futurism celebrates violence and technology. Marxist analysis competes with nationalist vitalism.
+
+__Applied Knowledge & Technical Method:__ Wartime production advances metallurgy, aviation, and chemical industry. Postwar, technical capacity exceeds demand; engineers and technicians are unemployed.
+
+__Education, Knowledge Stock & Skill Distribution:__ Elementary education spreads but remains uneven in the south. Universities produce an educated class without adequate employment, creating a reservoir of frustrated ambition.
+
+__Obsolescence & Knowledge Decay:__ Prewar liberal political economy appears obsolete; neither laissez-faire nor socialist planning seems adequate to postwar crisis.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The war creates a new nationalist mythology: the trenches, the Piave, Vittorio Veneto. The "mutilated victory" narrative channels patriotic sacrifice into grievance. Regional identities persist but national identity strengthens.
+
+__Legitimating Narrative & Ideology:__ Liberalism loses narrative force; socialism and nationalism compete. Fascism synthesizes nationalist myth with anti-Bolshevik mobilization, claiming to represent "trincerocrazia" — the rule of trench veterans.
+
+__Artistic Expression & Material Culture:__ Futurism glorifies war and machinery; D'Annunzio's theatrical nationalism shapes fascist style. Uniforms, medals, and war memorials proliferate. The black shirt emerges as fascist uniform.
+
+__Form Exhaustion & Meaning Decay:__ Liberal parliamentary rhetoric rings hollow; socialist revolutionary language fails to deliver revolution. Fascism fills the symbolic vacuum with action and spectacle.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ War shatters providentialist optimism; the dead demand meaning. Nationalist sacralization of sacrifice competes with socialist materialism and Catholic theodicy.
+
+__Ritual, Devotion & Sacred Practice:__ War memorials and commemorations create a civic religion of sacrifice. Catholic devotion persists; the Church gains from wartime chaplaincy. Fascism develops its own ritual vocabulary.
+
+__Religious Institutions & Doctrinal Authority:__ The Vatican remains neutral during the war; postwar, the Partito Popolare Italiano (founded 1919) represents Catholic political engagement. The Church hedges between the PPI and emerging fascism.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Socialist anticlericalism competes with Catholic revival; fascism absorbs both nationalist and Catholic themes while subordinating the Church.
+
+__Disenchantment & Sacred Discharge:__ The war's carnage produces existential disillusionment among intellectuals; the masses seek new sources of meaning in nationalism, socialism, or Catholic renewal, leaving liberal secularism spiritually barren.

@@ -1,69 +1,140 @@
-# __1885 CE – 1914 CE__ — Colonial Partition and Early Administration
-__Summary:__ A three-decade trend in which European powers impose partition and administrative control over the East African Rift following the Berlin Conference; Germany claims Tanganyika, Rwanda, and Burundi while Britain takes Kenya and Uganda; the binding constraint is the extreme thinness of European personnel and military capacity, forcing reliance on African intermediaries, existing political structures, and brutal exemplary violence to establish control; margins against resistance are narrow and the Maji Maji Rebellion exposes the fragility of German rule; the arc moves from treaty-signing and company rule toward formal colonial administration, railway construction, and the cash-crop economy that will define the colonial order.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Rift corridor's terrain imposes high friction on European penetration; caravans require weeks to reach the interior from the coast; the Uganda Railway (1896–1901) from Mombasa to Kisumu transforms accessibility, but most territory remains accessible only by foot and porter until 1914.<br><br>
-__Climate Regime & Volatility:__ Equatorial and tropical climates with distinct wet and dry seasons; highland areas (Kenya highlands, Tanganyikan uplands) offer European-tolerable conditions, channeling settlement to these zones; coastal lowlands remain malarial; drought years (notably 1897–1899) cause widespread famine.<br><br>
-__Hazard Regime & Exposure:__ Rinderpest pandemic (1890s) devastates cattle populations region-wide; drought and famine compound epidemic mortality; locust plagues; exposure to compound hazards at maximum during the 1890s crisis, with populations pushed well past normal margins.<br><br>
-__Resource & Energy Endowment:__ Ivory elephant populations severely depleted by decades of trade; agricultural land abundant; mineral resources largely unexplored; timber for railway construction harvested; coal absent, limiting industrial energy options.<br><br>
-__Waste Absorption & Sink Capacity:__ Minimal industrial activity means waste loads negligible; railway construction and early plantations generate localized deforestation and soil disturbance; overall sink capacity unstressed.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ The 1890s bring catastrophic mortality: rinderpest kills 90% or more of cattle in many areas; drought triggers famine; smallpox and sleeping sickness epidemics follow; mortality peaks exceed anything in living memory; baseline does not stabilize until after 1900.<br><br>
-__Nutrition & Physiological Vitality:__ Famine conditions widespread 1897–1899; cattle loss removes protein and draft power; recovery gradual through the 1900s; colonial populations remain nutritionally stressed where labor demands and land alienation compound subsistence challenges.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Cattle-bridewealth systems disrupted by rinderpest; household formation delayed where herds destroyed; labor migration begins separating families; reproductive patterns under strain but recovering by window's end.<br><br>
-__Demographic Renewal & Density:__ Population decline in the 1890s crises; recovery underway by 1900 but not complete by 1914; density reduced in areas affected by Maji Maji repression and famine; overall trajectory turning toward growth by window's close.<br><br>
-__Attrition & Dependency Overhang:__ Famine, epidemic, and war create massive orphan and widow populations; traditional absorption mechanisms overwhelmed in worst-affected areas; missions begin providing alternative safety nets; dependency load high through the 1900s.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Subsistence collapses in crisis areas (1890s, Maji Maji zone); colonial taxation forces cash-crop production or labor migration, squeezing subsistence margins; floor unstable and dependent on colonial policy as much as environment.<br><br>
-__Energy Capture & Conversion:__ Steam power arrives with the Uganda Railway; otherwise human porterage and animal transport (where cattle survive) remain primary; coal imported for railways; industrial energy negligible outside transport infrastructure.<br><br>
-__Labor Organization & Coercion:__ Forced labor (corvee) for railway construction and porterage; hut and poll taxes compel wage labor or cash-crop production; plantation labor under coercive contracts; labor regimes highly extractive; wage labor emergent but coerced.<br><br>
-__Production & Surplus Capacity:__ Subsistence agriculture remains primary; cash crops (cotton, coffee, sisal) introduced and expanding; plantation production for export begins; surplus extraction for colonial revenue is the primary concern of administration.<br><br>
-__Storage, Reserves & Buffering:__ Colonial granary systems absent; African household reserves depleted by taxation and crisis; famine relief minimal and ad hoc; buffering capacity collapsed from pre-colonial baseline and not replaced.<br><br>
-__Exchange, Trade & Logistics:__ Caravan trade declining as railway and colonial posts reshape routes; Indian merchants establish themselves in colonial towns; monetary economy expanding via taxation requirements; logistics transformed where railway reaches.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Colonial currencies (rupees, later East African shillings) imposed; cattle-based value storage devastated by rinderpest; Indian credit networks provide loans to farmers and traders; African populations newly subject to monetary debt.<br><br>
-__Surplus Extraction & Redistribution:__ Hut tax, poll tax, and customs duties extract surplus for colonial administration; redistribution minimal except for infrastructure (railway, administrative posts) that primarily serves European interests; extraction rates high relative to productive capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ European settlers and companies acquire land (Kenya Highlands, Tanganyikan estates); African land rights increasingly precarious; Indian merchants accumulate commercial wealth; indigenous elites survive where allied with colonial power (Bugandan chiefs); distribution radically restructured.<br><br>
-__Byproducts & Waste Routing:__ Minimal industrial waste; railway ash and deforestation residue localized; plantation monoculture begins soil depletion but effects not yet severe; waste absorption unstressed.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Colonial conquest shatters existing trust networks; those who collaborate gain while resisters are crushed; interethnic tensions exploited by divide-and-rule policies; trust radius contracting to immediate kin and village where traditional structures disrupted.<br><br>
-__Stratification, Status & Group Identity:__ Colonial racial hierarchy imposed (European, Indian, African); within African populations, collaborating chiefs elevated while traditional rivals suppressed; in Rwanda-Burundi, German and Belgian policies begin reifying Tutsi-Hutu distinction into administrative categories.<br><br>
-__Kinship, Family & Inheritance:__ Kinship structures persist but strained by labor migration, land alienation, and mortality; mission education begins creating new pathways outside kinship; inheritance patterns disrupted where colonial law intervenes.<br><br>
-__Civic Association & Self-Organization:__ Traditional clan and age-grade associations persist; mission churches create new associational forms; early African political associations (Young Kikuyu Association precursors) emerge by 1914; colonial authorities suspicious of independent organization.<br><br>
-__Leisure, Play & Sociability:__ Traditional festivals continue where not suppressed; mission stations introduce new social spaces; urban centers (Nairobi, Dar es Salaam) create new sociability contexts; leisure increasingly segmented by racial and religious lines.<br><br>
-__Grievance Channels & Social Discharge:__ Petition to colonial authorities available but rarely effective; traditional channels (appeal to chiefs) now subordinate to colonial hierarchy; Maji Maji represents catastrophic failure of grievance channels leading to violent discharge; much grievance unmetabolized.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereignty transferred to European colonial powers; German, British, and Italian governors hold ultimate authority; African kings and chiefs become subordinate intermediaries (Uganda Agreement 1900 exemplifies the pattern); power radically centralized in European hands though exercised thinly.<br><br>
-__Succession & Power Transfer:__ Colonial authorities intervene in chiefly succession, selecting compliant candidates; hereditary principles remain nominal but actual selection now requires European approval; transfer no longer autonomous.<br><br>
-__Legitimacy & Political Narrative:__ Colonial legitimacy rests on treaties, conquest, and the Berlin Conference's international recognition; locally, legitimacy thin; African populations comply from coercion not consent; collaborating chiefs derive legitimacy from their ability to mediate colonial demands.<br><br>
-__Administrative Capacity & Institutional Integrity:__ European administrative personnel extremely thin (dozens of officials for territories of millions); reliance on African intermediaries and indigenous structures essential; capacity sufficient for taxation and violence but not for development; corruption limited by small scale of administration.<br><br>
-__Political Participation & Mobilization:__ African political participation nil in formal structures; Europeans control all decision-making; mobilization occurs through resistance (Abushiri, Maji Maji) or compliance through intermediary chiefs; channels closed.<br><br>
-__Geopolitical Position & External Relations:__ Boundaries fixed by European agreement (Anglo-German, Anglo-Italian treaties); intra-colonial rivalries subordinated to metropolitan relations; Ethiopia's independence at Adwa (1896) marks the exception; Indian Ocean now controlled by European naval power.<br><br>
-__Coercive Apparatus & Means of Force:__ Colonial armies (Schutztruppe, King's African Rifles) staffed by African soldiers under European officers; maxim guns provide overwhelming firepower advantage; punitive expeditions common; violence the primary instrument of colonial order; monopoly on modern weapons enforced.<br><br>
-__Internal Order & Threat Environment:__ Resistance endemic in the early years (Abushiri Rebellion 1888–89, Maji Maji 1905–07); colonial violence suppresses but does not eliminate discontent; banditry increases where traditional order collapses; threat environment elevated throughout but declining by 1914.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph lines follow railways; colonial administration communicates rapidly between posts; African populations rely on oral transmission and rumor networks; velocity stratified by access to colonial infrastructure.<br><br>
-__Record, Storage & Persistence:__ Colonial administration introduces written bureaucracy (registers, tax records, court documents); mission schools begin literacy education; the vast majority of African populations remain in oral-only environments; administrative records create new persistence layer but do not reach most subjects.<br><br>
-__Framing, Censorship & Discourse Norms:__ Colonial authorities control official narrative; African vernacular discourse suppressed or ignored; missionaries frame competing Christian messages; traditional oral discourse continues below colonial radar; censorship formal but enforcement limited outside administrative centers.<br><br>
-__Reception, Attention & Amplification:__ Colonial decrees reach populations through chiefs and messengers; market and mission provide alternative amplification sites; rumor networks amplify resistance ideology (Maji Maji water belief spread rapidly); attention fragmented between colonial and indigenous channels.<br><br>
-__Signal Integrity & Noise Load:__ Written records improve signal integrity for colonial purposes; oral transmission continues to introduce distortion; competing information frames (traditional, colonial, missionary) create noise; verification depends on source trust; load elevated but manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Indigenous notions of justice persist but collide with colonial impositions; collective punishment, land alienation, and forced labor violate African moral sensibilities; colonial justice perceived as arbitrary and illegitimate by subject populations.<br><br>
-__Law, Codification & Regulatory Evolution:__ Colonial legal codes imported and partially applied; "native courts" administer customary law under European supervision; dual legal system stratified by race; regulations proliferate around taxation, labor, and land.<br><br>
-__Adjudication, Enforcement & Liability:__ Colonial courts for Europeans and "serious" crimes; native courts for Africans under chiefly authority; enforcement through colonial police and military; collective punishment (village burning, cattle confiscation) common; liability often collective rather than individual.<br><br>
-__Rights, Protections & Compliance Burden:__ African subjects have no political rights and minimal legal protections; labor and tax obligations create heavy compliance burden; land rights insecure; Europeans and Indians enjoy superior legal status.<br><br>
-__Impunity & Unredressed Wrong:__ Colonial officials and settlers enjoy near-complete impunity for violence against Africans; Maji Maji reprisals kill hundreds of thousands with no accountability; the impunity gap extreme and structurally entrenched.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Colonial exploration maps and classifies the region; ethnographic and naturalist inquiry serves colonial knowledge needs; African populations remain outside formal inquiry frameworks; scientific paradigm imported but application limited to colonial purposes.<br><br>
-__Applied Knowledge & Technical Method:__ Railway engineering, tropical medicine, and agricultural technique represent imported applied knowledge; African agricultural and craft knowledge continues but receives no institutional support; veterinary methods introduced after rinderpest but reach limited.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Mission schools provide literacy and basic education to a small minority; colonial education explicitly limited ("enough to be useful"); traditional knowledge transmission continues; skill distribution begins stratifying between mission-educated and oral-only populations.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional knowledge under pressure where social structures disrupted; pre-colonial political and ritual knowledge devalued under colonial order; some craft traditions lost as colonial goods displace local production; decay accelerating but not yet catastrophic.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ African foundational narratives persist but are challenged by colonial subordination; new identities begin forming around mission education, ethnic classification, and shared experience of colonial rule; the trauma of conquest and epidemic enters collective memory.<br><br>
-__Artistic Expression & Material Culture:__ Traditional arts continue with declining patronage as courts lose power; imported manufactured goods displace some crafts; mission architecture and colonial urban forms introduce new aesthetic elements; material culture in transition.<br><br>
-__Collective Mood & Behavioral Disposition:__ Defeat, trauma, and humiliation mark the mood of subject populations; sullen compliance more common than open defiance after Maji Maji; anxiety about land and labor; hope invested in mission education as a path to improved status; disposition cautious and watchful.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional ritual and symbolic forms lose some potency where political structures that sustained them collapse; royal rituals curtailed or co-opted; some form exhaustion evident but replacement forms (Christian, colonial) not yet fully adopted; meaning contested.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Traditional cosmologies challenged by the trauma of epidemic, defeat, and colonial domination; some turn to new prophetic movements (Maji Maji had spiritual dimension); Christianity offers alternative existential framework; fatalism and resignation compete with hope in new religions.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Traditional rituals continue, often in attenuated form; Christian missions introduce new devotional practices (baptism, Sunday worship, hymns); Islamic practice persists at the coast and in trading networks; syncretic practices emerging.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Mission churches establish institutional presence with schools, hospitals, and stations; traditional religious authority fragmented where political patrons lost power; doctrinal competition between Catholic and Protestant missions; Islamic institutions stable at coast.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity spreading rapidly through mission networks; Islam stable in its traditional zones; traditional religion persisting but under pressure; syncretism common as converts blend old and new; displacement accelerating but not complete.<br><br>
-__Disenchantment & Sacred Discharge:__ Some disenchantment where traditional cosmology failed to protect against colonial conquest; spiritual need met by competing frameworks rather than left void; prophetic movements channel spiritual energy into resistance; no secularizing drift.<br><br>
+# __1,885 CE – 1,914 CE__ — Colonial Partition and Early Administration
+
+__Summary:__ The Berlin Conference of 1884–85 assigns the East African Rift region to European powers — Germany, Britain, and Belgium — who over the following three decades impose boundaries, suppress resistance, and establish the skeletal apparatus of colonial administration. The binding constraint remains speech: African societies continue to store law, history, and governance in oral memory, while the colonial state introduces writing as the medium of taxation, land registration, and bureaucratic command. The literate apparatus superimposes itself on oral polities but reaches only a thin stratum; for the mass of the population, spoken word and remembered custom remain the operative substrate of social life.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Colonial boundaries cut across ecological and ethnic zones — the Uganda-German East Africa border bisects the interlacustrine region; the Kenya-Uganda border follows no natural feature. The rift valleys, highlands, and lakes remain the underlying geography, but new administrative lines impose a different grid. Railways (the Uganda Railway, 1901; the Central Line in German East Africa, 1905–1914) reduce spatial friction along selected corridors, leaving most territory accessible only by foot.
+
+__Climate Regime & Volatility:__ The equatorial and subtropical climate regime continues; ENSO-related droughts (1898–1900, 1913–1914) stress populations and herds. The rinderpest pandemic (1891) and subsequent cattle epizootics have already devastated pastoral economies before this window opens, altering the human geography.
+
+__Hazard Regime & Exposure:__ The great rinderpest epizootic (1891–1897) has killed up to 90% of cattle in some areas, triggering famine, depopulation, and the expansion of tsetse-infested bush. Locust invasions and drought compound the shock. Sleeping sickness epidemics (1900–1910) devastate lakeside populations in Uganda, prompting forced relocations.
+
+__Resource & Energy Endowment:__ Colonial interest focuses on agricultural potential (cotton, coffee, sisal, cloves) and ivory; mineral deposits (gold in German East Africa, soda in Kenya) are known but not yet intensively exploited. Timber is extracted for railway construction. Energy remains muscular — human porters and (where tsetse permits) draft animals.
+
+__Waste Absorption & Sink Capacity:__ Colonial activity introduces new pollutants — railway workshops, processing plants — but at very low scale. Deforestation for railway sleepers and fuel intensifies locally. The sink is not saturated; the residue is localized.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The period opens with catastrophic mortality: rinderpest (cattle), smallpox, famine (the "great famine" of 1898–1900 in German East Africa), and sleeping sickness. Sleeping sickness kills an estimated 200,000–300,000 in Uganda alone (1900–1910). Malaria, dysentery, and other endemic diseases continue. European mortality is high; quinine and sanitary measures reduce but do not eliminate it.
+
+__Nutrition & Physiological Vitality:__ Famine and cattle loss depress nutrition severely in the 1890s. Recovery is slow; colonial taxation and labor demands divert resources from subsistence. Plantation and railway labor impose caloric stress. By 1914, conditions stabilize but at a low level.
+
+__Care, Healing & Recovery Capacity:__ Colonial medical services are minimal — a few mission hospitals, government dispensaries in towns. Indigenous healing persists but cannot address epidemic disease. Sleeping sickness control involves forced population movement, not treatment. The gap between disease load and care capacity is vast.
+
+__Reproductive Biology & Pairing Dynamics:__ High mortality depresses population growth. Labor migration separates families. Colonial anxieties about African "depopulation" lead to interventions (banning alcohol, forced labor regulation) with mixed effects.
+
+__Demographic Renewal & Density:__ Population declines sharply in the 1890s due to rinderpest, famine, and epidemic disease. Recovery begins after 1905 but is slow. Kenya Highlands see European settlement and African displacement; the Rift Valley is partly depopulated. By 1914, total population remains below pre-rinderpest levels in many areas.
+
+__Attrition & Dependency Overhang:__ War, famine, and disease produce a heavy load of orphans, widows, and displaced persons. Colonial administration and missions absorb some as labor or converts. The dependency burden falls on weakened communities.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The subsistence floor is destabilized by cattle loss, land alienation (Kenya Highlands, German plantation zones), and labor demands. African agriculture must now produce both subsistence and a surplus to pay colonial taxes. Food insecurity increases in labor-exporting and plantation regions.
+
+__Energy Capture & Conversion:__ The railway introduces steam power — the first non-muscular energy in the region — but its reach is limited to the rail corridor. Most energy remains human muscle. Porterage declines along rail routes but persists elsewhere.
+
+__Labor Organization & Coercion:__ Forced labor (kipande in Kenya, corvée in German East Africa) builds railways, roads, and plantations. Taxation compels wage labor. Migrant labor systems uproot men from villages. Coercion is central to the colonial economy; resistance (e.g., the Maji Maji rebellion, 1905–1907) is met with brutal suppression.
+
+__Production & Surplus Capacity:__ Colonial production focuses on export crops: cotton in Uganda, sisal and coffee in German East Africa, settler agriculture in Kenya. African peasant production is reoriented toward markets and tax obligations. Surplus is extracted for export; metropolitan interests, not local needs, drive production.
+
+__Storage, Reserves & Buffering:__ Colonial treasuries accumulate tax revenue; African household reserves are depleted by taxation and labor demands. Famine relief is minimal. The buffer against shock is thinner than in pre-colonial systems.
+
+__Exchange, Trade & Logistics:__ The railway transforms trade, connecting the coast to interior centers (Nairobi, Kampala, Tabora). The Indian merchant network expands as intermediaries. African long-distance trade (ivory, slaves) is suppressed; local markets persist. Export orientation dominates.
+
+__Value Storage, Credit & Deferred Exchange:__ Colonial currencies (rupees, marks) replace or overlay traditional value stores (cattle, cowries). Taxation must be paid in cash, forcing market engagement. Credit is provided by Indian merchants; Africans are largely excluded from formal finance.
+
+__Surplus Extraction & Redistribution:__ Taxation (hut tax, poll tax) extracts surplus directly. Land alienation in Kenya transfers wealth to settlers. Tribute to African chiefs is now mediated by colonial hierarchy. Redistribution is minimal; colonial budgets fund administration and infrastructure, not African welfare.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among European settlers, colonial officials, and Indian merchants. African chiefs retain some wealth as intermediaries. Land loss impoverishes pastoralists and cultivators in alienated zones. Asset defense is impossible against the colonial state.
+
+__Byproducts & Waste Routing:__ Export-crop production generates waste (sisal processing, cotton ginning) disposed locally. The ivory trade depletes elephant populations. Slave raiding ends but depopulated zones remain. The destructive residue of the transition accumulates.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Colonial law recognizes (and often rigidifies) "customary" inheritance as interpreted by chiefs and colonial courts. Labor migration strains kinship; matrilineal and patrilineal systems are differently affected. The family remains the basic social unit but is under pressure.
+
+__Association & Mutual Aid:__ Traditional mutual aid networks persist but are strained by labor migration, famine, and displacement. Missions create new associational forms — congregations, schools, hospitals — that supplement and compete with kin-based aid.
+
+__Leisure, Play & Sociability:__ Colonial towns develop new leisure spaces — markets, bars, football (introduced by missions and settlers). Traditional festivals continue in rural areas. The colonial order is anxious about African leisure — vagrancy laws, alcohol restrictions — but cannot fully control it.
+
+__Stratification, Status & Group Structure:__ The colonial state creates new strata: European officials and settlers at the top, Indians in commerce, African chiefs as intermediaries, commoners and laborers at the bottom. Pre-existing status hierarchies (Tutsi/Hutu, royal/commoner) are formalized and hardened. Ethnic categories are fixed by census, administrative convenience, and "native law" codification.
+
+__Administrative Capacity & Institutional Integrity:__ Colonial administration is thin — a handful of Europeans command districts the size of European countries. Rule depends on African intermediaries (chiefs, akidas, headmen) who collect taxes, recruit labor, and adjudicate disputes. The apparatus is literate at the top (files, reports, maps) but oral at the base. Administrative reach is shallow; control is episodic and violent.
+
+__Coercive Apparatus & Means of Force:__ Colonial armies (King's African Rifles, Schutztruppe) are small but equipped with modern rifles and machine guns. African police and askaris enforce order. Resistance is crushed with extreme violence — the Maji Maji rebellion (1905–1907) costs 75,000–300,000 African lives, mostly from famine and scorched-earth tactics. Firearms are monopolized by the state; African disarmament is enforced.
+
+__Discharge, Disorder & Decay:__ Resistance is suppressed; banditry and cattle raiding persist in marginal areas. Displacement and labor migration produce social dislocation. The apparatus holds by force, but grievance accumulates. The disorder is not discharged — it is suppressed and stored.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The mood among Africans ranges from traumatized acquiescence (post-Maji Maji) to sullen resentment to active collaboration. Trust in Europeans is low; trust in African intermediaries varies. The temper is subdued; open defiance is suicidal. Among Europeans, confidence and racial arrogance prevail.
+
+__Leadership & Personal Authority:__ Colonial governors (e.g., Frederick Lugard in Uganda, Albrecht von Rechenberg in German East Africa) set policy. African chiefs retain authority as intermediaries but are subordinated; some collaborate, some resist, most maneuver. No African leader commands trans-regional allegiance.
+
+__Legitimacy as Lived Allegiance:__ Colonial rule lacks legitimacy among Africans; it rests on force, not consent. African chiefs retain residual legitimacy where they protect their people; they lose it where they are seen as colonial tools. European settlers claim legitimacy through "civilizing mission" and racial superiority.
+
+__Political Will & Collective Resolve:__ The colonial state has strong will and modern means; African resistance is fragmented and outgunned. The Maji Maji rebellion demonstrates collective resolve but ends in catastrophic defeat. By 1914, overt resistance is suppressed; covert resistance (evasion, foot-dragging) continues.
+
+__External Relations & Posture:__ East Africa is a pawn in European great-power competition. The 1890 Heligoland-Zanzibar Treaty trades German claims in Zanzibar for British claims in Heligoland. Boundaries are drawn in Berlin, not Africa. World War I (beginning 1914) will turn the region into a theater of European conflict.
+
+__Disaffection, Apathy & Spent Will:__ African political will is not spent but suppressed. Disaffection is widespread but cannot be expressed. Apathy is a survival strategy. The emotional residue of conquest — grief, humiliation, resentment — is stored, not cleared.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Colonial languages (English, German) are the languages of administration; Swahili is promoted as a regional lingua franca (especially in German East Africa). Vernacular literacy spreads through missions — Luganda, Swahili, Kikuyu — but reaches only a small elite. The mass of the population remains oral.
+
+__Channels & Transmission Velocity:__ The telegraph follows the railway; colonial stations are linked to the metropole. Within Africa, most communication remains oral and slow — runners, messengers, drum signals. The information advantage of the colonial state is decisive.
+
+__Record, Storage & Persistence:__ The colonial state creates archives — district books, land registers, tax rolls, census records — that fix information in writing for the first time. African oral memory continues but is now shadowed by a written record that Africans cannot access or contest. Missionary presses print vernacular Bibles, catechisms, and newspapers (e.g., Mengo Notes, 1900).
+
+__Framing, Censorship & Discourse Norms:__ Colonial censorship is light — there is little African press to censor — but sedition laws exist. Missionary control over vernacular publishing shapes what is printed. Oral discourse is harder to control; rumor and prophecy circulate beneath colonial notice.
+
+__Reception, Attention & Amplification:__ Colonial proclamations reach Africans through chiefs, who translate and interpret. Missions create new reception spaces — congregations, schools. Print reaches a tiny literate elite. The gap between literate command and oral reception creates opportunities for distortion and resistance.
+
+__Signal Integrity & Noise Load:__ The colonial information system is thin and error-prone. Reports from district officers are partial and biased. African informants may mislead. The written record captures a fraction of reality; the rest is noise or silence.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Africans retain traditional moral frameworks — kinship obligation, reciprocity, ancestral sanction — but these are now overlaid by colonial law and Christian ethics. The sense of justice is offended by forced labor, land alienation, and arbitrary punishment. European colonizers justify their rule through "civilizing mission" and racial hierarchy.
+
+__Law, Codification & Regulatory Evolution:__ Colonial law is dual: European law for Europeans and "native law and custom" (as interpreted and codified by colonial courts) for Africans. Land ordinances (Kenya, 1902; German East Africa, 1905) enable alienation to settlers. "Native authority" ordinances formalize indirect rule.
+
+__Adjudication, Liability & Sanction:__ Colonial courts adjudicate criminal and civil matters; chiefs handle minor disputes under supervision. Sanctions include fines, corporal punishment (flogging is common), imprisonment, and execution. African access to justice is limited; European abuses are rarely punished.
+
+__Rights, Protections & Compliance Burden:__ Africans have few formal rights under colonial law. Labor and tax obligations are enforced by law; evasion is punished. Land rights are extinguished in alienated zones. The compliance burden is heavy and backed by force.
+
+__Impunity & Unredressed Wrong:__ Europeans act with near-total impunity; African lives are cheap. The Maji Maji suppression, forced relocations for sleeping sickness, and labor abuses produce mass death with no accountability. The gap between justice owed and delivered is vast and uncleared.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Colonial administration introduces European scientific frameworks — mapping, census-taking, ethnographic classification — that impose new categories on African reality. Medical research (sleeping sickness, tropical medicine) is driven by European needs. African knowledge systems (herbal medicine, environmental knowledge) are dismissed or appropriated.
+
+__Applied Knowledge & Technical Method:__ Railway construction brings European engineering; telegraph and steamship technology follows. Agricultural extension introduces new crops and methods (cotton cultivation in Uganda). African craft knowledge persists but is marginalized.
+
+__Education, Knowledge Stock & Skill Distribution:__ Missionary schools provide the only formal education for Africans: literacy, numeracy, Christianity. By 1914, a few thousand Africans can read; a handful reach secondary level. Education creates a new elite — clerks, catechists, teachers — who will become the first generation of nationalist leaders. The mass remains illiterate; knowledge transmission is still oral.
+
+__Obsolescence & Knowledge Decay:__ Traditional knowledge (oral history, craft technique) continues but is no longer authoritative. Mission education displaces indigenous learning. The colonial school produces a thin stratum literate in European languages; the rest inherit oral tradition, now devalued.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ African origin myths and royal genealogies persist in oral memory but are now shadowed by written ethnographies and colonial classifications. "Tribe" becomes a fixed category, mapped and administered. African identity is both preserved and distorted by colonial encounter.
+
+__Legitimating Narrative & Ideology:__ Colonial rule is legitimated by the "civilizing mission," racial hierarchy, and Christian evangelism. African counter-narratives (memory of resistance, prophecy of liberation) circulate orally. The contest over narrative has begun but is unequal.
+
+__Artistic Expression & Material Culture:__ Colonial towns introduce new material culture: European clothing, Indian cloth, corrugated iron, kerosene lamps. Mission architecture (churches, schools) creates new built forms. Traditional dress, music, and dance persist in rural areas and are sometimes performed for colonial audiences. Syncretic styles emerge in music and dress.
+
+__Form Exhaustion & Meaning Decay:__ Traditional forms retain vitality in rural areas but are marginalized in colonial towns. The symbolic order is fractured: neither traditional nor colonial culture commands full allegiance. Anomie spreads among the displaced and uprooted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christianity spreads rapidly through missions; Islam expands along trade routes. Traditional cosmologies persist, especially in rural areas, but lose their monopoly. The world is now contested between ancestral spirits, the Christian God, and Allah. Fatalism mixes with millenarian hope (Maji Maji's sacred water, Kimbanguist-style movements elsewhere).
+
+__Ritual, Devotion & Sacred Practice:__ Christian and Islamic ritual (baptism, prayer, Sabbath, Ramadan) spreads among converts. Traditional rituals (sacrifice, spirit possession, divination) continue, sometimes alongside or beneath the new faiths. Colonial authorities are ambivalent — they promote Christianity but fear "fanaticism."
+
+__Religious Institutions & Doctrinal Authority:__ Missions (Catholic, Protestant) build churches, schools, and hospitals. They command significant resources and create new networks of authority. Muslim communities maintain mosques and Quranic schools. Traditional religion lacks institutional structure and is disadvantaged.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Conversion is often strategic — access to education, employment, European favor. Syncretism is common; traditional beliefs persist beneath Christian or Muslim surface. The old cosmology is not displaced but marginalized; the new faiths are not fully internalized.
+
+__Disenchantment & Sacred Discharge:__ The sacred is not yet cold — millenarian movements (Maji Maji, later independent churches) show that religious energy is potent. But the old certainties are shaken; the colonial order has disrupted the ritual-political unity of traditional kingdoms. Disenchantment is partial, contested, and unresolved.
+

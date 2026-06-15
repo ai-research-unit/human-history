@@ -1,69 +1,139 @@
-# __1919 CE – 1927 CE__ — May Fourth Era and Party Press Emergence
-__Summary:__ The Yellow and Yangtze basins undergo rapid political and cultural transformation as the May Fourth Movement catalyzes vernacular press revolution and party politics; warlord fragmentation persists while two Leninist parties — the Guomindang and Chinese Communist Party — build propaganda apparatuses; the binding constraint is the absence of unified state authority, leaving the public sphere contested between treaty-port commercial press, revolutionary organs, and warlord-controlled papers; the system holds limited margin against the coming military showdown; trajectory points toward violent unification.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North China Plain and Yangtze valley remain divided between warlord territories, with railways and river steamers reducing transit friction in corridors but leaving interior regions poorly connected; Shanghai treaty port serves as protected publishing node.<br><br>
-__Climate Regime & Volatility:__ Monsoon pattern continues with normal interannual variability; major floods on Yellow River 1921 and drought cycles in northwest add localized stress without systemic disruption to the publishing centers concentrated in treaty ports.<br><br>
-__Hazard Regime & Exposure:__ Flood and drought risks persist at baseline levels; warlord conflict damages infrastructure sporadically; urban centers hold adequate margin against environmental shocks given their commercial infrastructure.<br><br>
-__Resource & Energy Endowment:__ Coal from northern mines supplies urban industry and printing; imported paper and machinery supplement domestic production; endowment adequate for expanding press activity concentrated in treaty-port enclaves.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban industrial waste and printing effluent accumulate in Shanghai and other cities; absorption capacity sufficient given limited industrial scale; degradation localized to factory districts and waterways.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tuberculosis, cholera, and typhoid maintain high urban mortality; sanitary infrastructure rudimentary outside foreign concessions; mortality rates declining slowly as public health campaigns begin.<br><br>
-__Nutrition & Physiological Vitality:__ Widespread malnutrition persists in rural areas and among urban poor; famine relief efforts improve marginally; physiological condition of educated urban classes adequate to sustain intellectual activity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Traditional family system persists with arranged marriage dominant; urban educated classes begin experimenting with free-choice marriage following New Culture advocacy; biological fertility unchanged.<br><br>
-__Demographic Renewal & Density:__ Population approximately 400–450 million; growth continues despite civil warfare; rural-urban migration accelerates toward treaty ports and provincial capitals; density pressure builds in urban cores.<br><br>
-__Attrition & Dependency Overhang:__ Civil war casualties, banditry, and famine generate refugees and widows; orphan burden grows; dependency load strains local resources but does not yet overwhelm urban charitable institutions.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agrarian base continues at subsistence margin for majority; warlord taxation extracts heavily; urban workers face volatile employment; provisioning floor precarious but maintained through household pooling.<br><br>
-__Energy Capture & Conversion:__ Coal-fired steam powers urban industry and printing presses; electricity spreading in major cities; human and animal labor dominant in agriculture and transport; energy conversion sufficient for expanding print production.<br><br>
-__Labor Organization & Coercion:__ Urban labor movement emerges with Communist organizing in Shanghai and Canton factories 1920s; strikes proliferate; coercion mixed with nascent wage bargaining; rural labor remains bound by tenancy and debt.<br><br>
-__Production & Surplus Capacity:__ Treaty-port light industry expands; printing and publishing commercialize rapidly; surplus generated in urban commercial sector while rural economy stagnates under warlord extraction.<br><br>
-__Storage, Reserves & Buffering:__ Merchant houses and banks hold commercial reserves; silver currency provides value storage but subject to volatility; grain reserves depleted by military requisition; buffering capacity thin outside foreign-protected commerce.<br><br>
-__Exchange, Trade & Logistics:__ Coastal and riverine trade networks function under warlord fragmentation; tariff barriers between territories impede internal commerce; foreign trade through treaty ports continues; logistics adequate for print distribution along major corridors.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver standard with multiple currencies circulating; modern banks in treaty ports; traditional credit networks persist; inflation moderate but purchasing power unstable across warlord boundaries.<br><br>
-__Surplus Extraction & Redistribution:__ Warlord armies extract through arbitrary taxation and military requisition; central government revenue minimal; extraction burden heavy and unpredictable, undermining productive investment.<br><br>
-__Wealth Distribution & Asset Defense:__ Compradors and treaty-port merchants accumulate wealth under foreign protection; warlord cronies extract rural surplus; concentration widening; foreign concessions provide property refuge from confiscation.<br><br>
-__Byproducts & Waste Routing:__ Industrial and printing waste discharged into urban waterways; recycling of paper and materials extensive given scarcity; waste volume growing but not yet saturating urban sink capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Traditional mutual aid networks persist in villages and urban native-place associations; trust radius expanding among educated youth through student movements and political parties; class consciousness emerging.<br><br>
-__Stratification, Status & Group Identity:__ Sharp urban-rural divide; educated elite increasingly identified with May Fourth modernization; workers and students emerging as political actors; class and regional identities fragmenting older gentry hierarchies.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal family system persists but contested by New Culture critiques; urban educated youth challenge arranged marriage and parental authority; inheritance norms intact in practice despite ideological assault.<br><br>
-__Civic Association & Self-Organization:__ Student unions, labor unions, and professional associations proliferate in cities; native-place associations adapt to political mobilization; associational density thickening rapidly in urban centers.<br><br>
-__Leisure, Play & Sociability:__ Urban leisure culture expands — teahouses, cinemas, dance halls; student associations create new sociability networks; political meetings double as social gatherings; reading clubs spread vernacular literature.<br><br>
-__Grievance Channels & Social Discharge:__ Protests, strikes, and student demonstrations provide outlet for grievances; May Fourth legitimizes collective action; unmetabolized resentment against warlords and foreign powers accumulates as revolutionary sentiment.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereignty fragmented among competing warlord cliques; Beijing government nominal; real power regional and military; GMD building party-state structure in Canton; CCP organizing underground in cities.<br><br>
-__Succession & Power Transfer:__ Warlord succession by military coup and negotiation; no legitimate transfer mechanism; GMD developing party discipline with Soviet Comintern advice; power transfer violent and unpredictable across the system.<br><br>
-__Legitimacy & Political Narrative:__ Republican legitimacy nominal; nationalism dominant ideology; May Fourth frames China as needing cultural revolution to save the nation; both GMD and CCP claim revolutionary mandate for national salvation.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Central administration collapsed; warlord governments vary from predatory to developmental; treaty-port municipal administration functional; party organizations building parallel administrative capacity.<br><br>
-__Political Participation & Mobilization:__ Mass politics emerges — student protests, labor strikes, peasant associations; May Fourth mobilizes urban educated youth; party propaganda and organization channels participation toward revolutionary ends.<br><br>
-__Geopolitical Position & External Relations:__ Treaty system intact; Twenty-One Demands resentment fuels nationalism; Washington Conference 1922 returns Shandong; Soviet Union supports revolution; Japan expanding continental position.<br><br>
-__Coercive Apparatus & Means of Force:__ Warlord armies dominate through rifles and artillery; GMD building Whampoa-trained party army under Chiang Kai-shek; CCP lacking military capacity relies on labor and peasant mobilization; force fragmented among factions.<br><br>
-__Internal Order & Threat Environment:__ Chronic civil warfare, banditry, and warlord predation; order maintained locally by whoever holds territory; urban treaty ports relatively secure under foreign protection; disorder endemic but contained below total collapse.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph networks connect major cities; postal system functional; newspapers reach urban centers within days; vernacular press dramatically expands readership beyond classical-literate elite; radio emerging experimentally.<br><br>
-__Record, Storage & Persistence:__ Modern print archives growing in treaty ports; university libraries established; newspaper files preserved; traditional archives neglected or dispersed by warfare; record persistence improving in institutional settings.<br><br>
-__Framing, Censorship & Discourse Norms:__ Warlord censorship inconsistent and evadable; treaty-port press enjoys concession protection; vernacular language opens discourse to popular participation; taboo against criticizing warlords varies by territory.<br><br>
-__Reception, Attention & Amplification:__ Student reading societies amplify vernacular publications; serialized fiction builds audiences; political pamphlets circulate widely; attention concentrated on national salvation themes; virality through social networks.<br><br>
-__Signal Integrity & Noise Load:__ Competing party papers and commercial press generate information cacophony; rumor and propaganda mix with news; verification capacity limited; signal-to-noise ratio declining as publication volume explodes.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Traditional Confucian ethics contested by May Fourth critique; new notions of individual rights and national citizenship emerging; sense of justice inflamed by unequal treaties and foreign privilege.<br><br>
-__Law, Codification & Regulatory Evolution:__ Qing codes nominally superseded by Republican civil code; extraterritoriality exempts foreigners; legal reform underway but implementation fragmented across warlord territories; press law exists but unevenly enforced.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function in treaty ports under mixed jurisdiction; warlord territories vary from military summary justice to functional courts; enforcement arbitrary and politicized; liability unpredictable.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional protections nominal; press freedom depends on local power holders and foreign concession status; compliance burden varies wildly; intellectuals rely on treaty-port sanctuary.<br><br>
-__Impunity & Unredressed Wrong:__ Warlords and foreign nationals enjoy substantial impunity; ordinary Chinese lack reliable redress; political prisoners numerous; judicial gap large and uncleared, fueling revolutionary grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Science and democracy (Mr. Sai and Mr. De) championed as salvation ideology; Marxism introduced via Japanese and Soviet texts; pragmatism and liberalism compete; paradigm shift from classical learning to modern disciplines underway.<br><br>
-__Applied Knowledge & Technical Method:__ Modern journalism techniques adopted from Japan and West; printing technology imported; social survey methods applied to rural problems; practical application of Western methods accelerating in urban institutions.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Modern schools and universities expand; literacy in vernacular spreads; returned students from Japan, America, and Europe staff new institutions; knowledge concentrated in urban educated class; mass illiteracy persists.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical examination system abolished 1905 creates generation gap; traditional scholarship marginalized; some classical knowledge preserved in universities but practical transmission declining; dogmatic Marxism beginning to accrete.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ National humiliation narrative frames collective memory — unequal treaties, lost territories, foreign aggression; May Fourth crystallizes youth identity around cultural renewal; traditional identity contested but not yet displaced.<br><br>
-__Artistic Expression & Material Culture:__ Vernacular literature flourishes — Lu Xun's "Diary of a Madman," fiction magazines; woodcut art movement; modern theater; urban architecture mixing Western and Chinese styles; material culture modernizing in cities.<br><br>
-__Collective Mood & Behavioral Disposition:__ Patriotic fervor and revolutionary optimism among educated youth; despair over national weakness; iconoclastic energy attacking tradition; mood oscillating between hope and anxiety about China's future.<br><br>
-__Form Exhaustion & Meaning Decay:__ Classical literary forms declared dead by May Fourth radicals; traditional symbols attacked as feudal residue; rapid meaning turnover creates anomie; new vernacular forms not yet fully established as shared convention.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Scientific materialism advocated by intellectuals; traditional cosmology attacked as superstition; Marxist historical materialism gaining adherents; existential anxiety about national survival predominates over metaphysical questions.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Popular religion continues in villages; urban educated classes abandoning ritual observance; anti-superstition campaigns beginning; temple festivals persist but losing elite sanction.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist and Daoist institutions weakened; Confucianism loses state backing; Christian missions active but stigmatized by foreign association; no single doctrinal authority; institutional fragmentation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity spreading through missions and schools; popular syncretic movements persist; secular nationalism functioning as quasi-spiritual system for educated youth; traditional spirituality contracting from elite culture.<br><br>
-__Disenchantment & Sacred Discharge:__ May Fourth iconoclasm explicitly disenchanting; sacred transcendence transferred to nation and revolution; existential needs channeled into political commitment; spiritual residue accumulates as unresolved nihilism among some intellectuals.<br><br>
+# __1919 CE – 1927 CE — May Fourth Era and Party Press Emergence__
+
+__Summary:__ The binding constraint is ideological fragmentation within a collapsing political center — with no single authority able to enforce press monopoly, rival ideological currents (liberal, anarchist, Marxist, nationalist) each secure print platforms, and the party press emerges as the organizational form that binds ideology to disciplined cadre, creating durable propaganda capacity independent of commercial markets or state patronage.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Yellow and Yangtze basins host the primary nodes of intellectual ferment — Beijing (universities, government), Shanghai (commercial publishing, foreign concessions), Guangzhou (revolutionary base), Wuhan (central nexus). Railways completed in the late Qing now connect these centers within days; the postal system moves journals and pamphlets across provinces within a week. The coastal-interior divide sharpens: treaty port cities command modern infrastructure while vast hinterlands remain accessible only by river, cart, or foot.
+
+__Climate Regime & Volatility:__ The period sees no catastrophic climate anomalies; the monsoonal regime delivers adequate harvests across most years, sparing the press economy from famine-induced collapse. Seasonal flooding on the Yangtze and Yellow rivers imposes localized disruptions but does not halt the broader information flow.
+
+__Hazard Regime & Exposure:__ Warlord combat zones create intermittent hazards — railways cut, cities besieged — forcing press operations to relocate or suspend. The Shanghai International Settlement and French Concession function as extraterritorial refuges where Chinese publications avoid warlord or Beiyang government suppression.
+
+__Resource & Energy Endowment:__ Paper production relies on domestic mills and imports through Shanghai; ink and printing machinery are largely imported. Coal powers urban printing presses; electricity reaches Shanghai and Beijing printing houses. The resource base supports expanded print runs, though machinery replacement depends on foreign supply chains.
+
+__Waste Absorption & Sink Capacity:__ Industrial print waste concentrates in Shanghai's Zhabei district and around printing clusters; urban waterways absorb effluent without systemic constraint during this window.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Tuberculosis, cholera, and waterborne diseases remain endemic in treaty port slums; mortality among urban workers and student radicals is elevated. The 1918–1919 influenza pandemic leaves traces but does not specifically devastate intellectual circles. Life expectancy remains below forty years.
+
+__Nutrition & Physiological Vitality:__ Urban students and intellectuals subsist on modest diets; malnutrition is less acute than among rural peasants but common among impoverished journalists and activists. Physical robustness varies by class.
+
+__Care, Healing & Recovery Capacity:__ Western-style hospitals operate in treaty ports (missionary and commercial); traditional medicine serves broader populations. Medical care for radicals is precarious; underground activists face greater risk from untreated illness.
+
+__Reproductive Biology & Pairing Dynamics:__ May Fourth discourse attacks traditional marriage and advocates free choice; birthrates among educated urban women begin declining relative to peasant norms. New pairing patterns — "comrade couples" — emerge among radicals.
+
+__Demographic Renewal & Density:__ Urban population swells with migrants from surrounding countryside; Shanghai approaches three million. Student cohorts expand as modern universities multiply. Youth bulge feeds ideological ferment.
+
+__Attrition & Dependency Overhang:__ War orphans and refugees accumulate in cities; charitable institutions (foreign and Chinese) absorb part of the load, while informal kin networks carry the remainder.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Urban provisioning relies on grain shipped up the Yangtze and by rail; treaty port commerce ensures adequate supply except during warlord blockades. Student activists often hover near subsistence, dependent on stipends, family remittances, or party funds.
+
+__Energy Capture & Conversion:__ Coal-fired presses and electric typesetting raise output capacity. Human labor remains central to typesetting, binding, and distribution. The per-capita work ceiling rises slowly with electrification in major cities.
+
+__Labor Organization & Coercion:__ Print workers in Shanghai organize unions by 1920; the May Thirtieth Movement (1925) mobilizes workers and students together. Labor is wage-based with low coercion in commercial presses; party operations rely on volunteer or subsidized cadre labor.
+
+__Production & Surplus Capacity:__ Commercial publishers (Commercial Press, Zhonghua Shuju) operate profitably; journal circulation ranges from hundreds to tens of thousands. Party publications operate at deficit, subsidized by membership dues, Soviet funds (for CCP), or merchant contributions (for GMD).
+
+__Storage, Reserves & Buffering:__ No substantial buffering; press operations are cash-flow dependent. Publishers stockpile paper when prices dip.
+
+__Exchange, Trade & Logistics:__ Distribution networks use the postal system, bookstores (xinshudian), and itinerant vendors. Shanghai's foreign concessions provide secure publication sites from which journals are mailed nationwide.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver dollar standard provides currency stability through 1926; subscription and advertising revenues are monetized. Party publications rely on donations and organizational funds rather than market revenue.
+
+__Surplus Extraction & Redistribution:__ Warlord regimes extract surplus through taxation and squeeze commercial press profits; foreign concessions shield Shanghai publishers from direct extraction. Party funds flow from the Comintern (CCP) and overseas Chinese (GMD).
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among comprador merchants and industrialists; printing enterprises are modest-scale assets. Warlord confiscation risk encourages concession-based registration.
+
+__Byproducts & Waste Routing:__ Paper and ink waste disposed locally; no systemic accumulation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ May Fourth iconoclasm targets the patriarchal family as oppressive institution; Confucian inheritance norms remain legally in place but ideologically contested. Young intellectuals break from arranged marriages.
+
+__Association & Mutual Aid:__ Student associations, reading societies, and study groups proliferate, forming incubators for ideological transmission. The New Culture Movement creates informal networks binding Beijing and Shanghai intellectuals.
+
+__Leisure, Play & Sociability:__ Coffeehouses, bookstores, and university campuses serve as sociability nodes. Journals circulate for reading aloud in small groups; discussions extend into evening gatherings.
+
+__Stratification, Status & Group Structure:__ A new intellectual class (zhishifenzi) consolidates, distinct from traditional gentry. Returned students from Japan, France, and the United States form overlapping networks. Workers and students occasionally ally (as in 1925) but class divisions persist.
+
+__Administrative Capacity & Institutional Integrity:__ The Beiyang government exercises nominal sovereignty; actual administrative reach fragments among warlord regimes. No unified press authority can enforce censorship across the country; foreign concessions lie beyond Beiyang jurisdiction.
+
+__Coercive Apparatus & Means of Force:__ Warlord armies control regions; police forces are localized and uncoordinated. The CCP and GMD build party militias (Whampoa cadets for GMD, worker pickets for CCP). Press suppression depends on which warlord or foreign authority controls the territory; Shanghai's concessions permit publications banned elsewhere.
+
+__Discharge, Disorder & Decay:__ Warlord warfare produces civilian casualties, banditry, and displacement. Labor strikes and student protests mark 1925–1927. The apparatus fails to contain unrest; grievance accumulates until the Northern Expedition reshapes the power map.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ May Fourth ignites patriotic humiliation and anti-imperialist anger following the Versailles decision to award Shandong to Japan. Youth sentiment is volatile — oscillating between hope for national renewal and despair at warlord chaos. Trust in central government collapses; trust within ideological communities deepens.
+
+__Leadership & Personal Authority:__ Chen Duxiu commands New Youth's intellectual authority; Hu Shih leads the vernacular movement. Sun Yat-sen retains symbolic leadership for revolutionaries; after his death (1925), Chiang Kai-shek and Wang Jingwei contest succession. Mao Zedong, Zhou Enlai, and Li Dazhao lead CCP factions.
+
+__Legitimacy as Lived Allegiance:__ The Beiyang government commands no affective loyalty; its legitimacy is exhausted. The GMD inherits Sun's revolutionary mantle; the CCP claims to represent workers and peasants. Party affiliation replaces state allegiance as the locus of commitment.
+
+__Political Will & Collective Resolve:__ Revolutionary will concentrates in the GMD-CCP United Front (1923–1927); the Northern Expedition (1926–1928) channels this will into military action. The 1927 rupture (White Terror) tests resolve — the CCP survives as an underground organization.
+
+__External Relations & Posture:__ Anti-imperialism targets Japan and Western powers; the May Thirtieth Incident (1925) focuses hostility on Britain. The Soviet Union provides organizational models and funds, shaping both GMD and CCP.
+
+__Disaffection, Apathy & Spent Will:__ By 1927, revolutionary optimism collides with the Shanghai Massacre; CCP cadres face death or disillusionment. Some intellectuals retreat from politics; others harden into committed partisans.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The vernacular (baihua) movement expands the accessible code — by 1920, major journals publish in vernacular, lowering the literacy threshold. Classical literacy remains necessary for traditional texts but retreats from journalism and fiction.
+
+__Channels & Transmission Velocity:__ Print journals reach subscribers within a week via postal system; telegraph transmits news summaries to editors. Oral reading circles extend print reach into semi-literate populations.
+
+__Record, Storage & Persistence:__ University libraries and bookstores archive journals; survival depends on physical copies reaching secure locations. Much ephemeral material (handbills, broadsheets) is lost.
+
+__Framing, Censorship & Discourse Norms:__ Beiyang press laws exist but enforcement is spotty; concession-based publications evade suppression. Each ideological current frames its own narrative — science and democracy (liberals), class struggle (Marxists), national revolution (GMD). Taboos on criticizing specific warlords depend on local power.
+
+__Reception, Attention & Amplification:__ New Youth achieves peak influence; readership is elite but amplifiers (professors, student leaders) cascade ideas into demonstrations and strikes. The May Fourth demonstrations themselves amplify print arguments into street action.
+
+__Signal Integrity & Noise Load:__ Ideological proliferation raises noise; competing journals claim incompatible truths. No verification mechanism resolves disputes — authority rests on source prestige and ideological alignment.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ May Fourth discourse attacks Confucian morality as oppressive while groping toward alternative foundations — science, democracy, socialism. Anti-imperialism provides a shared sense of violated justice.
+
+__Law, Codification & Regulatory Evolution:__ Press laws nominally restrict sedition; enforcement depends on local authority. No unified legal framework governs the fragmented polity.
+
+__Adjudication, Liability & Sanction:__ Warlord courts and concession courts operate independently; journalists arrested in one jurisdiction may be safe in another. Extraterritoriality shields foreign-registered publications.
+
+__Rights, Protections & Compliance Burden:__ Press freedom exists in the interstices of fragmented authority; no positive rights regime protects journalists.
+
+__Impunity & Unredressed Wrong:__ Political killings (Li Dazhao executed 1927) go unpunished; the White Terror of 1927 massacres thousands of CCP members without legal consequence. The justice gap widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The "Science and Democracy" slogan encapsulates May Fourth's epistemological stance. Marxism arrives as a competing paradigm; anarchism, liberalism, and pragmatism also circulate. Debates between Hu Shih and Chen Duxiu frame the contest.
+
+__Applied Knowledge & Technical Method:__ Modern printing technology (rotary presses, linotype adaptation for Chinese) is applied in commercial publishing. Social survey methods enter academic practice. Party organization applies Leninist technique to cadre training.
+
+__Education, Knowledge Stock & Skill Distribution:__ University enrollment expands; Beijing University, Tsinghua, and others train the new intellectual class. Literacy rises slowly; perhaps 10–15% of the population by 1927. Vernacular textbooks replace classical primers.
+
+__Obsolescence & Knowledge Decay:__ Classical Confucian curriculum becomes obsolete; examination-system knowledge loses practical value. Some technical knowledge (traditional printing, calligraphy styles) persists but ceases to dominate.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ May Fourth discourse rejects the Confucian past as feudal burden; the search for a new Chinese identity oscillates between westernization and cultural nationalism. Sun Yat-sen's Three Principles of the People offer a synthetic formula.
+
+__Legitimating Narrative & Ideology:__ The GMD deploys Sun's revolutionary legacy; the CCP claims worker-peasant revolution. Liberals invoke science and progress. Each narrative competes for the mandate to remake China.
+
+__Artistic Expression & Material Culture:__ Vernacular fiction (Lu Xun's "Diary of a Madman," 1918) crystallizes the new literature. Woodcut art emerges as radical aesthetic. Western-style painting, architecture, and dress mark urban modernity. Journals adopt modern typography and cover design.
+
+__Form Exhaustion & Meaning Decay:__ Classical literary forms (regulated verse, eight-legged essay) are declared exhausted and discarded by May Fourth radicals. Traditional symbols (Confucian temples, imperial iconography) lose legitimating power.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ May Fourth iconoclasm attacks religious and cosmological certainties; "Mr. Science" displaces heaven as explanatory authority. Secularism spreads among educated youth; existential anxiety accompanies the collapse of traditional meaning.
+
+__Ritual, Devotion & Sacred Practice:__ Buddhist and Daoist temples continue popular practice; Confucian state rites lose official sponsorship. Christian missions gain converts. New rituals (commemoration of May Fourth, Sun Yat-sen's death anniversary) begin to emerge.
+
+__Religious Institutions & Doctrinal Authority:__ Buddhist reform movements (Taixu) attempt modernization; Confucian associations defend tradition. No institution commands doctrinal authority over the new intellectual class.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Marxism functions as a quasi-religious worldview for committed cadres — offering historical teleology, moral clarity, and martyrdom. This displacement channels spiritual need into political commitment.
+
+__Disenchantment & Sacred Discharge:__ The collapse of Confucian cosmology leaves a void; some intellectuals report anomie and despair. Others fill the void with revolutionary faith; the remainder drift into pragmatic materialism or private spirituality.

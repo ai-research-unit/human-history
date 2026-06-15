@@ -1,69 +1,140 @@
-# __3000 BCE – 500 BCE__ — Pastoral Neolithic Florescence
-__Summary:__ A multi-millennial florescence of cattle-and-caprine pastoralism across the East African Rift savannas, bounded temporally by the southward diffusion of herding from the desiccating Sahara and the arrival of iron-working. The binding constraint is water and pasture availability under progressing post-African-Humid-Period aridification; pastoral mobility buffers seasonal shortfalls but locks out sedentary accumulation. Margin against drought depends on herd size and access to dry-season refugia; the direction of change is territorial expansion southward as pastoral populations grow, displacing or absorbing remaining forager groups and elaborating communal mortuary monuments that index emerging social complexity without metallurgy.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Rift corridor from the Ethiopian highlands through Kenya's Central Rift to the Tanzanian savannas provides a north–south transit axis; volcanic highlands, crater basins, and alkaline lake margins create a mosaic of grazing niches separated by escarpments and dense forest barriers that channel movement along predictable routes.<br><br>
-__Climate Regime & Volatility:__ End of the African Humid Period (~4200 BP onward) brings progressive aridification; annual rainfall declines and becomes more erratic, with pronounced wet–dry seasonality forcing transhumant cycles; interannual variability is the principal environmental stress.<br><br>
-__Hazard Regime & Exposure:__ Volcanic activity remains episodic but localized (Central Rift); drought is the dominant hazard, occurring on decadal frequencies, with livestock losses the primary impact; flood risk is negligible except along seasonal watercourses.<br><br>
-__Resource & Energy Endowment:__ Obsidian outcrops at Mount Eburru and other volcanic centers provide high-quality lithic raw material traded across hundreds of kilometers; salt licks attract game and livestock alike; grazing biomass is the energy resource pastoral economies exploit, regenerating seasonally.<br><br>
-__Waste Absorption & Sink Capacity:__ Minimal anthropogenic pressure on sinks; organic waste from camps and animal dung disperse rapidly on open savanna; the landscape's absorptive capacity vastly exceeds the load imposed.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria in lower-lying rift basins and tsetse-borne trypanosomiasis constrain settlement geography; highland zones offer partial refuge; episodic livestock epidemics (probable rinderpest-like diseases) threaten herds; human mortality baseline is elevated by infant and childhood infectious disease but not catastrophic.<br><br>
-__Nutrition & Physiological Vitality:__ Pastoral diet rich in milk, blood, and meat provides adequate protein and fat; skeletal evidence from mortuary sites indicates robust stature comparable to or exceeding later agricultural populations; seasonal nutritional stress during droughts is buffered by herd mobility.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygynous marriage likely correlates with cattle wealth; bridewealth systems tie reproductive access to herd accumulation; no direct skeletal evidence of fertility rates, but demographic expansion implies replacement ratios above unity.<br><br>
-__Demographic Renewal & Density:__ Population growing throughout the window; pastoral expansion southward into Kenya and northern Tanzania indicates demographic pressure exceeding local carrying capacity in northern areas; density remains low overall, measured in tens of thousands across the Rift system.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load manageable within extended-kin camp structures; elderly retain roles in ritual and knowledge transmission; orphan absorption into kin networks is probable though not directly attested; no evidence of structural dependency crisis.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Cattle, sheep, and goats form the subsistence base; milk is the primary caloric source, supplemented by blood and meat; wild resources (hunted game, gathered plants, fish at lakeshores) provide backup; the provisioning floor is above bare survival under normal conditions but vulnerable to drought-induced herd collapse.<br><br>
-__Energy Capture & Conversion:__ Energy flows through pastoral metabolism: solar energy to grasses to livestock to human consumers; human and animal muscle provide all motive power; conversion efficiency is modest but reliable under mobile management.<br><br>
-__Labor Organization & Coercion:__ Household and lineage labor predominates; age-grade organization likely assigns herding tasks to youth, with elders directing camp movement; no evidence of slave or coerced labor; cooperation is kin-based and reciprocal.<br><br>
-__Production & Surplus Capacity:__ Surplus takes the form of herd growth rather than storable grain; large herds represent accumulated wealth but cannot be stored indefinitely against mortality; surplus capacity is real but fluid, dissipating in drought or disease outbreaks.<br><br>
-__Storage, Reserves & Buffering:__ Livestock are living reserves; dried meat and fat provide short-term stores; no granary infrastructure; social buffering through stock-friend networks allows herd reconstitution after loss; reserves adequate for normal variation, marginal against multi-year drought.<br><br>
-__Exchange, Trade & Logistics:__ Obsidian exchange networks span hundreds of kilometers, indicating intergroup trade in lithic raw materials; pottery styles (Nderit, Elmenteitan wares) mark group identities and possible exchange boundaries; no formalized markets; exchange is reciprocal and seasonal.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cattle function as value storage and bridewealth; deferred reciprocity obligations (stock loans, meat-sharing debts) structure inter-household relations; no monetary unit; wealth measured in herd size and social claims.<br><br>
-__Surplus Extraction & Redistribution:__ No centralized authority extracts surplus; redistribution occurs through ritual feasting, mortuary ceremonies, and kin obligations; communal investment in monumental cairns and pillar sites indicates collective surplus mobilization without coercive extraction.<br><br>
-__Wealth Distribution & Asset Defense:__ Cattle wealth likely differentiates households; raiding and counter-raiding probable though not directly documented; herd mobility itself is a defense strategy; distribution inequality moderate, not yet crystallized into fixed classes.<br><br>
-__Byproducts & Waste Routing:__ Animal dung concentrates at camp sites, fertilizing localized patches; bone and lithic debris accumulate at butchery and knapping locations; waste volumes negligible relative to landscape absorptive capacity; no routing decisions required beyond camp relocation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Stock-friend and clan-based mutual aid networks critical to herd recovery and drought survival; trust radius extends beyond immediate kin to exchange partners and ritual co-participants; radius widening as pastoral identity solidifies across the Rift.<br><br>
-__Stratification, Status & Group Identity:__ Incipient stratification tied to herd size and ritual leadership; Elmenteitan, Savanna Pastoral Neolithic, and other archaeological facies mark distinct group identities with different material signatures; boundaries porous but meaningful; no rigid caste or class.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent probable; cattle inheritance through male lines; polygyny structured by bridewealth; extended kin camps form the residential and productive unit.<br><br>
-__Civic Association & Self-Organization:__ Clan councils, age-grade systems, and ritual assemblies at mortuary sites coordinate collective action without centralized authority; associational density thickening as population grows and ritual elaborates.<br><br>
-__Leisure, Play & Sociability:__ Seasonal gatherings at mortuary sites and dry-season refugia provide contexts for ceremony, courtship, and intergroup negotiation; cattle-centered aesthetics (horn shapes, coat colors) likely matter for status display.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes over cattle, pasture, and marriage resolved through elder mediation and compensation payments; ritual mortuary practices may discharge grief and social tension; unmetabolized grievance expressed in occasional raiding.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous or weakly hierarchical; authority vested in senior male elders and ritual specialists; no paramount chiefs or territorial states; decision-making consensual at camp and clan levels.<br><br>
-__Succession & Power Transfer:__ Leadership based on age, wealth, and ritual knowledge; succession informal, passing to capable seniors within lineages; no dynastic principle documented.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimated through seniority, ancestral precedent, and ritual efficacy; no grandiose origin myths recoverable; legitimacy localized and uncontested within the pastoral social order.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Minimal formal administration; camp heads coordinate seasonal movement; no record-keeping; institutional reach limited to extended kin and ritual congregation.<br><br>
-__Political Participation & Mobilization:__ Adult males participate in councils; age-grade initiation grants voice; women's political role indirect through household influence; mobilization capacity sufficient for cooperative herding and occasional collective defense.<br><br>
-__Geopolitical Position & External Relations:__ Relations with residual forager populations range from coexistence to displacement to incorporation; no external imperial threat; inter-pastoral group relations involve seasonal cooperation, marriage exchange, and occasional raiding.<br><br>
-__Coercive Apparatus & Means of Force:__ Weapons are lithic (obsidian spears, arrows); no specialized warrior class; all adult males potentially armed; coercive capacity dispersed and defensive rather than offensive.<br><br>
-__Internal Order & Threat Environment:__ Cattle raiding probable; internal violence absorbed through mediation and compensation; banditry and predation not structurally significant; disorder remains within system's absorptive capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at walking pace along seasonal migration routes; inter-camp messengers and seasonal gatherings disseminate news; transmission reach extends across the pastoral network but velocity is slow (days to weeks across the Rift).<br><br>
-__Record, Storage & Persistence:__ Oral memory alone; genealogies, grazing-rights claims, and ritual knowledge preserved in elder memory and transmitted through speech; no writing, no durable inscription; persistence depends on successful intergenerational transmission; knowledge lost when lineages die out or disperse.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elders control authoritative narratives; ritual secrecy surrounds initiation and mortuary practice; no formal censorship; discourse norms embedded in respect protocols for age and gender.<br><br>
-__Reception, Attention & Amplification:__ Attention focused on immediate kin and camp matters; seasonal assemblies amplify important decisions and ritual pronouncements across the wider network.<br><br>
-__Signal Integrity & Noise Load:__ Small-scale oral networks maintain high signal integrity through repetition and correction; noise load low; information volume modest and manageable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Cattle are the measure of value and wrong; theft, injury, and adultery assessed in livestock equivalents; reciprocity and proportionality underpin the moral order.<br><br>
-__Law, Codification & Regulatory Evolution:__ Unwritten customary rules govern grazing rights, marriage, inheritance, and compensation; taboos enforced through social sanction and ritual; no codification; rules transmitted orally and evolving incrementally.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by elder councils; compensation in cattle resolves most conflicts; liability assigned collectively to kin groups; enforcement through social pressure and threat of feud.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights embedded in kinship and age-grade status; compliance burden light for those within the social order; outsiders (displaced foragers, strangers) lack recognized standing.<br><br>
-__Impunity & Unredressed Wrong:__ Most wrongs redressed within kin and elder structures; powerful or distant offenders may escape full accountability; standing impunity gap small but present, absorbed as grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; practical knowledge of animal husbandry, seasonality, and landscape embedded in oral tradition; explanatory paradigm animist and ancestor-focused rather than naturalistic.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated pastoral technique: breeding selection, disease recognition, grazing rotation, water management; lithic knapping methods (obsidian reduction) highly developed; pottery production techniques (Nderit, Elmenteitan wares) refined over generations.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through apprenticeship, oral instruction, and ritual initiation; skill distribution broad for basic herding, narrower for specialized ritual and craft knowledge; no literacy; stock of knowledge stable or slowly growing.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier forager knowledge partially lost as pastoralism dominates; no mechanism for clearing superseded technique; knowledge decay offset by accumulated pastoral expertise.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Pastoral identity centered on cattle as sacred and foundational; ancestral narratives (unrecoverable in detail) likely tied to herd origins and migration; monumental mortuary sites encode collective memory in stone.<br><br>
-__Artistic Expression & Material Culture:__ Distinctive pottery traditions (Nderit ware, Elmenteitan assemblages) mark group identity; stone cairns, pillar sites, and cremation cemeteries represent significant architectural and ritual investment; personal ornamentation includes beads and ochre.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence and expansion characterize the period; pastoral populations growing and spreading; disposition oriented toward mobility, herd accumulation, and ritual elaboration.<br><br>
-__Form Exhaustion & Meaning Decay:__ No evidence of cultural exhaustion; mortuary monuments and pottery traditions actively elaborating; the forms remain vital and meaningful throughout the window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist cosmology; ancestors, spirits of place, and the vital force in cattle likely form the sacred landscape; existential outlook tied to herd welfare and ancestral favor; fatalism tempered by ritual agency.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Cremation burials, stone cairns, and pillar sites (Lothagam North, Njoro River Cave) indicate elaborate mortuary ritual requiring communal labor; cattle sacrifice probable; daily devotional practice unrecoverable but likely integrated with herding routines.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal priesthood; ritual specialists (diviners, elders with mortuary knowledge) hold spiritual authority; doctrine transmitted orally within kin and age-grade structures; no centralized orthodoxy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pastoral spiritual complex spreading with pastoral expansion, displacing or absorbing forager cosmologies; syncretism probable at contact zones; overall direction is diffusion of cattle-centered spirituality southward.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the sacred actively produced and reproduced through mortuary investment and cattle ritual; spiritual residue fully absorbed within the pastoral cosmological frame.<br><br>
+# __3,000 BCE – 500 BCE__ — Pastoral Neolithic Florescence
+
+__Summary:__ A snapshot of the East African Rift System during the Pastoral Neolithic, when herding communities descended from the drying Sahara and Nile valley colonized the highlands and rift valley grasslands, establishing cattle, sheep, and goat pastoralism as the dominant subsistence mode. The binding constraint is the oral substrate: lineage, herd-right, pasture-claim, and seasonal movement are coordinated through spoken tradition alone—genealogies recited, grazing agreements negotiated, and monumental burials commemorated in chant and story, with no durable record beyond memory and stone. The single most causal factor is the late Holocene aridification that pushed pastoralists southward into well-watered grasslands, opening ecological space for herding societies to flourish where foragers once held exclusive tenure.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East African Rift System provides a double corridor—the Eastern (Gregory) Rift through Kenya and the Western (Albertine) Rift flanking the Great Lakes—both flanked by volcanic highlands rising above 2,000 meters. Pastoralists occupy the rift floor grasslands, highland plateaus, and lake margins; steep escarpments and dense forest create friction that channels movement along established routes. The volcanic soils of the central Kenyan highlands support nutritious grasses; the rift lakes (Turkana, Naivasha, Nakuru, Elementaita) provide water and seasonal salt licks essential for livestock.
+
+__Climate Regime & Volatility:__ The late Holocene is drier than the preceding African Humid Period, with annual rainfall ranging from 400 mm in the rift floor to over 1,200 mm on highland slopes. Bimodal rainfall (long rains March–May, short rains October–December) governs grazing cycles. Interannual variability is high; drought years force herds to concentrate at permanent water, intensifying competition. The overall trend since ~3000 BCE is toward increased aridity, favoring open grassland over woodland.
+
+__Hazard Regime & Exposure:__ Volcanic activity (Menengai, Longonot, Suswa) poses localized risk; ash falls can temporarily enrich soils but destroy pasture. Rift seismicity is low-level but chronic. Drought is the primary hazard, capable of killing entire herds in consecutive dry years. Locust swarms and livestock epizootics (anthrax, rinderpest ancestors) episodically devastate herds. Flooding is rare except in lake basins.
+
+__Resource & Energy Endowment:__ Obsidian outcrops (Naivasha, Eburru, Mt. Kenya) provide high-quality tool stone traded across the region. Salt deposits at rift lakes are critical for livestock health. Water is the limiting resource; permanent springs and rivers (Ewaso Ng'iro, Mara) anchor dry-season camps. Wood and charcoal are available from highland forests; grassland itself is the primary energy input via livestock digestion.
+
+__Waste Absorption & Sink Capacity:__ Low human and livestock densities relative to landscape size mean waste absorption is not strained. Dung accumulates at camps, eventually incorporated into soils. No evidence of degradation beyond localized trampling at waterholes. The physical residue is minimal; the landscape absorbs what pastoralists discharge.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria below ~1,500 meters imposes significant mortality in lowland camps; highland pastures offer refuge. Livestock diseases (trypanosomiasis in tsetse zones, anthrax, foot-and-mouth) constrain range and cause episodic die-offs. Human parasitic load (intestinal worms, skin infections) is chronic but not population-limiting. Infant and child mortality is high by modern standards but typical for pre-industrial pastoralists.
+
+__Nutrition & Physiological Vitality:__ Pastoralist diet centers on milk (fresh and fermented), blood, and meat, supplemented by wild plants and occasional traded grain. Protein and fat intake is high; caloric sufficiency depends on herd size and milk yields. Skeletal evidence from burial sites shows robust stature and low rates of nutritional stress markers, indicating adequate nutrition in good years. Drought years impose acute hunger.
+
+__Care, Healing & Recovery Capacity:__ Healing knowledge is held by elders and specialists, transmitted orally. Herbal remedies, bone-setting, and wound care are documented in ethnographic analogy with later pastoralists. Capacity is limited to what hands, fire, and plants can provide; severe injuries and systemic infections are often fatal. Midwifery is handled by experienced women within kin groups.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny is likely, with herd wealth enabling multiple wives. Bridewealth in cattle establishes alliances between lineages. Fertility is valued; large families provide labor for herding. Pairing is governed by kinship rules transmitted through oral genealogy. Mating patterns favor exogamy between clans.
+
+__Demographic Renewal & Density:__ Population density is low—perhaps 0.5–2 persons per square kilometer—but higher than preceding forager populations. Birth rates are high; life expectancy at birth is perhaps 30–35 years. Population is growing slowly, absorbing forager groups through assimilation and marriage. Migration from the north continues episodically as the Sahara dries.
+
+__Attrition & Dependency Overhang:__ The dependent load (children, elderly, infirm) is carried by mobile household units; those unable to travel may be left at semi-permanent camps. Orphans are absorbed by kin. The pastoral system tolerates a moderate dependency ratio as long as the productive herd survives. Drought can create acute dependency crises.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The household herd (cattle, sheep, goats) provides milk, blood, and occasional meat; this is the subsistence floor. A minimum viable herd of ~10 cattle per household is necessary for survival. Wild foods (tubers, berries, honey, game) supplement in lean times. Forager exchange partners may trade bush foods for milk and hides.
+
+__Energy Capture & Conversion:__ Energy capture is biological: grasses are converted to milk and meat through livestock metabolism, and human labor is powered by that diet. Fire provides cooking and warmth; wood and dung are fuels. No mechanical power beyond human and animal muscle exists. Per-capita energy throughput is modest but adequate for mobile life.
+
+__Labor Organization & Coercion:__ Labor is organized by household and age-grade. Men and boys herd cattle at distant pastures; women manage camps, milk animals, and care for children. Age-grades (documented in later pastoral societies and inferred here) structure male labor and military service. Slavery or formal coercion is absent or minimal; labor is kin-based.
+
+__Production & Surplus Capacity:__ Surplus is stored on the hoof: a growing herd represents accumulated wealth. Surplus milk is processed into ghee and stored. Meat is consumed at ritual occasions; dried meat provides portable rations. The system generates modest surplus in good years, rapidly eroded by drought or disease. No evidence of stratified surplus extraction beyond household heads.
+
+__Storage, Reserves & Buffering:__ Livestock themselves are the reserve: animals are slaughtered in crisis, and herd size buffers against loss. Ghee and dried meat provide short-term stores. Social buffering operates through livestock loans and gifts between kin and allies, redistributing animals to those who have lost herds. This oral network of obligation is the primary insurance mechanism.
+
+__Exchange, Trade & Logistics:__ Obsidian, salt, hides, and livestock are exchanged across pastoral and forager communities. Trade is face-to-face at seasonal aggregation sites; no permanent markets exist. Long-distance obsidian trade (up to 200 km) indicates established routes and social networks. Exchange is embedded in kinship and alliance, not abstracted markets.
+
+__Value Storage, Credit & Deferred Exchange:__ Cattle are the primary store of value and unit of account for bridewealth and compensation. Deferred reciprocity governs exchanges: a cow given today creates an obligation repaid later. No abstract currency exists; value is concrete and mobile. Credit is embedded in kinship relations spoken aloud and remembered.
+
+__Surplus Extraction & Redistribution:__ No state or chiefly extraction exists. Surplus redistribution occurs through bridewealth transfers, funeral feasts, and livestock loans. Big men may accumulate larger herds but remain embedded in kinship obligations. The extraction ceiling is low; the unit is the autonomous household.
+
+__Wealth Distribution & Asset Defense:__ Wealth inequality exists (some households hold larger herds) but is moderated by kinship claims, livestock loans, and herd fragility. Raiding provides a mechanism for redistribution and loss. Herd defense is collective, organized by age-grades and alliances. No fortifications; mobility is the primary defense.
+
+__Byproducts & Waste Routing:__ Dung is used as fuel and plaster; hides are processed into clothing and containers; bones into tools. Waste is minimal and recycled. The pastoral economy is nearly closed-loop. No accumulation of waste residue; what is produced is used or absorbed.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent organizes society; clans and lineages are the primary units above the household. Genealogies extending many generations are recited by elders and memorized by juniors—the oral archive of social structure. Inheritance follows the male line; herds pass from father to sons. Bridewealth transfers cattle between lineages, creating affinal alliances.
+
+__Association & Mutual Aid:__ Beyond kinship, age-grades (inferred from later pastoral societies) create horizontal bonds across lineages. Men initiated together form lifelong cohorts for herding, raiding, and ritual. Mutual aid in livestock loans, labor sharing, and defense is obligatory within these networks. Seasonal aggregations at water sources and ritual sites reinforce bonds.
+
+__Leisure, Play & Sociability:__ Seasonal gatherings bring dispersed groups together for marriage negotiations, ritual, and sociability. Music, dance, and oral performance mark these occasions. Children play at herding; boys' initiation involves extended ritual and instruction. Leisure is integrated into pastoral routine rather than separated from it.
+
+__Stratification, Status & Group Structure:__ Status is achieved through herd wealth, oratory, and ritual knowledge. Elders and lineage heads hold authority; warriors (young initiated men) hold prestige through raiding and defense. No rigid caste or class; mobility is possible through successful herding and strategic marriage. Foragers in the region occupy lower status but interact through exchange.
+
+__Administrative Capacity & Institutional Integrity:__ No centralized administration exists. Decision-making occurs in lineage and age-grade councils; consensus is sought. Ritual specialists (diviners, rainmakers) hold influence but not coercive power. The administrative footprint is minimal; coordination is achieved through kinship, age-grades, and oral consensus.
+
+__Coercive Apparatus & Means of Force:__ The age-grade warrior cohort provides the coercive capacity. Weapons include spears, clubs, and shields. Raiding is endemic—livestock theft both redistributes wealth and creates feuds requiring negotiation. No standing army or police; violence is episodic and embedded in kinship dynamics. Fortifications are absent; mobility and alliance are defense.
+
+__Discharge, Disorder & Decay:__ Feuds and raids generate cycles of grievance managed through compensation (paid in cattle) and negotiation. Elders mediate disputes. Unresolved feuds may persist across generations, remembered in oral tradition. The discharge of social friction is continuous; accumulation is prevented by compensation norms and the oral memory of wrongs.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The prevailing temper is one of cautious confidence: pastoralists occupy a favorable ecological niche but face constant uncertainty from drought, disease, and raiding. Trust extends within kinship and age-grade networks; outsiders are treated with wariness. Pride in herd wealth and lineage is cultivated through oral praise and genealogy.
+
+__Leadership & Personal Authority:__ Leadership is personal and situational: elders lead through wisdom and oratory, warriors through courage, ritual specialists through access to the sacred. Big men with large herds and many dependents command respect. Authority is earned and must be continually performed; it is not inherited as office.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to kin, lineage, and age-grade; there is no abstract state to command loyalty. Elders derive legitimacy from genealogical seniority and demonstrated judgment. The legitimacy of any leader rests on success in protecting herds and managing disputes. Failure erodes authority quickly.
+
+__Political Will & Collective Resolve:__ Collective action is mobilized for raiding, defense, and large-scale ritual (such as the monumental burials at Lothagam North). Resolve depends on persuasion and consensus; no one commands unconditional obedience. Major undertakings require oratory, negotiation, and shared purpose. The political will is strong but localized.
+
+__External Relations & Posture:__ Relations with neighboring pastoral groups are ambivalent: potential allies, potential raiders. Forager populations are incorporated as clients, exchange partners, or absorbed through intermarriage. No external power threatens; the region is isolated from major state systems. Expansion is into unoccupied or forager-held land, not conquest of peer polities.
+
+__Disaffection, Apathy & Spent Will:__ In good times, disaffection is low; the pastoral system provides meaning and security. Drought, disease, or catastrophic herd loss can produce despair and social fragmentation. Recovery depends on the resilience of kinship networks to rebuild herds through loans and redistribution. The residue of spent will is absorbed or leads to emigration.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language—ancestral Southern Nilotic and possibly early Cushitic—is the sole medium of complex communication. Mutual intelligibility within ethnic groups is high; inter-group communication requires multilingualism or trade pidgins. Symbolic systems (body modification, scarification, ornament) mark identity but do not carry propositional content. No writing exists; everything that can be said must be spoken.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of human and animal movement. Messengers, seasonal gatherings, and trade networks carry news across the region. Transmission is slow but sufficient for the pace of pastoral life. Urgent information (raids, water sources) spreads through runner networks and shouts relayed across distance.
+
+__Record, Storage & Persistence:__ All record is oral. Genealogies, grazing agreements, compensation debts, and ritual knowledge are held in memory and transmitted through recitation. Monumental sites (pillar cairns, burial mounds) serve as physical mnemonics—places to which memory is anchored—but carry no inscribed content. Loss of key elders means loss of knowledge; redundancy in transmission is the only hedge.
+
+__Framing, Censorship & Discourse Norms:__ Oral discourse is governed by age and gender: elders speak in council; women discuss camp matters; warriors have their own speech domains. Certain knowledge (ritual, genealogical secrets) is restricted by initiation. Taboo topics exist but enforcement is social, not coercive. The discourse norm is deference to seniority.
+
+__Reception, Attention & Amplification:__ Attention is captured by oratory skill, song, and ritual performance. Important messages are repeated and amplified through multiple tellings. Memorable phrases, proverbs, and praise poetry encode and preserve key information. The oral system favors the vivid and formulaic; the prosaic is forgotten.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift; each retelling risks alteration. Ritual formulas and genealogies are protected by exact recitation norms, but less formalized knowledge degrades. Cross-checking occurs through redundancy (multiple elders holding the same tradition). The noise load is chronic but managed; major loss occurs when transmission chains break.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is relational: wrongs are offenses against kin and lineage, requiring compensation. The moral sense centers on reciprocity, kinship obligation, and honor. Cattle raiding is not theft but a legitimate activity within customary rules; killing incurs blood-debt. The moral world is concrete and personal, not abstract.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists. Custom is transmitted orally and evolves through precedent. Elders recall past judgments and apply them to new cases. The body of custom grows and shifts but is never fixed in text. Codification is impossible; the law lives in the memory of those who recite it.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by elder councils. Liability is assessed by kinship: the offender's lineage is responsible for compensation. Sanctions include cattle payment (blood-price, bridewealth violations) and, in extreme cases, ostracism. No state enforcement; compliance relies on social pressure and the threat of feud.
+
+__Rights, Protections & Compliance Burden:__ Rights are embedded in kinship status: a man has rights to his lineage's herds, his wife's labor, his age-grade's support. Women have rights through their kin and husband's lineage. Compliance burden is low in a system of few formal rules; expectations are internalized through upbringing. Strangers have no inherent rights unless adopted into kinship.
+
+__Impunity & Unredressed Wrong:__ Powerful lineages may delay or avoid compensation; feuds can persist unresolved across generations. The gap between justice owed and delivered is real but checked by the web of interdependence: no lineage is fully self-sufficient, and all need allies. Unredressed wrongs are remembered in oral tradition and may surface later.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is practical and observational: knowledge of animal behavior, pasture quality, weather signs, and medicinal plants is extensive. The paradigm is experiential and traditional; innovation occurs through trial and error, not systematic method. Curiosity is channeled toward pastoral success, not abstract theory.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge includes animal husbandry (breeding, castration, bleeding), hide-working, shelter construction, obsidian knapping, and fire management. Methods are transmitted through apprenticeship and oral instruction. Innovation is incremental; new techniques spread through imitation and trade contact.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education occurs within the household and age-grade: boys learn herding, girls learn camp skills. Initiation transmits adult knowledge. The knowledge stock is collectively held, distributed across the population by age and gender specialization. Literacy is absent; all skill is embodied and oral.
+
+__Obsolescence & Knowledge Decay:__ Knowledge decays when transmission chains break: the death of specialists without successors, the absorption of forager knowledge without full transmission, the forgetting of once-useful techniques. No archive preserves obsolete knowledge; what is not remembered is lost. The residue of decay is invisible—absence, not artifact.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity is rooted in lineage, clan, and the remembered migration from the north. Origin narratives (transmitted orally) anchor the community in a shared past. Monumental burials (Lothagam North pillar site) commemorate ancestors and mark the landscape as homeland. The foundational identity is pastoral: to be human is to keep cattle.
+
+__Legitimating Narrative & Ideology:__ The legitimating narrative is genealogical: authority flows from descent, and the social order is justified by kinship. The pastoral way of life is taken as natural and right; foragers are seen as inferior. Ritual specialists legitimate their authority through access to the sacred. There is no abstract ideology; legitimacy is personal and relational.
+
+__Artistic Expression & Material Culture:__ Material culture includes stone tools (obsidian blades, grinding stones), pottery (Elmenteitan, Savanna Pastoral Neolithic wares), personal ornaments (beads, pendants), and monumental architecture (pillar cairns, stone circles). Pottery styles mark ethnic identity. Body modification (scarification, tooth extraction) signals group membership. Artistic expression is embedded in daily life and ritual.
+
+__Form Exhaustion & Meaning Decay:__ No evidence of form exhaustion in this period; the cultural repertoire is stable and vital. Meaning is renewed through ritual repetition and oral transmission. The residue of decay is not apparent; the pastoral florescence is at its peak.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmology posits a creator deity (inferred from later Nilotic and Cushitic religions), ancestral spirits, and a world animated by spiritual forces. The existential outlook is pragmatic: humans must propitiate spirits and maintain balance to ensure fertility and rainfall. Death is transition to ancestral status; the dead remain involved in the living world.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual marks life transitions (birth, initiation, marriage, death), seasonal events (rain, drought), and crisis response (disease, raid). Animal sacrifice is central; blood and milk are offered. Pillar sites and burial mounds are ritual centers. Devotion is collective and practical, oriented toward maintaining cosmic and social order.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood or temple exists. Ritual specialists (diviners, rainmakers) hold authority through claimed access to the sacred, transmitted through apprenticeship. Doctrinal orthodoxy is weak; practice varies by lineage and locality. The religious institution is diffuse, embedded in kinship and age-grade.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Pastoralist religion likely absorbed elements from displaced forager populations; shamanic and trance traditions may reflect such syncretism. The dominant cosmology is spreading with pastoralist expansion. No external religious system competes; the spiritual landscape is internally coherent.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident. The sacred remains vital, enacted in ritual and anchored in the landscape. The residue of lost belief is not yet present; the pastoral cosmology is confident and functional.
+

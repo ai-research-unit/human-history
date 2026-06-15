@@ -1,69 +1,140 @@
-# __7000 BCE – 4500 BCE__ — Mehrgarh and the Origins of South Asian Agriculture
-__Summary:__ Over twenty-five centuries in the Baluchistan highlands and adjacent lowlands, communities transition from mobile foraging to sedentary mixed farming; Mehrgarh provides the key archaeological sequence documenting indigenous domestication of zebu cattle alongside Near Eastern-derived wheat and barley cultivation; mud-brick villages, storage facilities, and craft specialization emerge; the binding constraint is water management and soil fertility in a semi-arid environment; buffering capacity grows with storage but remains modest; the trend moves from hunting-gathering through incipient cultivation to established agropastoralism, setting the foundation for later Indus Valley urbanism.<br><br>
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Mehrgarh lies at the foot of the Bolan Pass connecting the Indus Plain to the Iranian Plateau; the Kachi Plain offers alluvial soils along seasonal streams; surrounding uplands provide summer pasture; transit routes funnel through passes, channeling contact with western regions while the Indus corridor opens eastward.<br><br>
-__Climate Regime & Volatility:__ Semi-arid conditions with winter rainfall from western disturbances and limited summer monsoon penetration; interannual variability high; mid-Holocene possibly slightly wetter than present; the trend is toward established monsoon patterns with periodic drought stress.<br><br>
-__Hazard Regime & Exposure:__ Flash floods along seasonal streams, occasional drought, and earthquake risk (tectonically active zone) constitute primary hazards; sedentary settlement increases exposure compared to mobile foraging; mud-brick construction vulnerable to flood and seismic damage; margin against multi-year drought thin.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils suitable for cultivation with irrigation or flood-recession farming; wild game still available in surrounding hills; lithic resources (chert, flint) accessible; copper sources in Baluchistan enable later metallurgy; fuelwood from scrub vegetation adequate but not abundant.<br><br>
-__Waste Absorption & Sink Capacity:__ Organic waste, ash, and construction debris accumulate in village middens; settlement tells (occupation mounds) form over centuries; local absorptive capacity adequate; no evidence of pollution stress; landscape modification through cultivation and grazing begins but remains localized.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Sedentism increases exposure to enteric pathogens and parasites; animal proximity introduces zoonotic risks; infant mortality likely elevated compared to mobile foragers; overall mortality remains high but stable, with population growth indicating positive renewal.<br><br>
-__Nutrition & Physiological Vitality:__ Transition to cereal staples may reduce dietary diversity; carbohydrate intake increases; animal protein from domestic and wild sources maintains some balance; skeletal evidence insufficient for precise assessment; stature and health probably adequate but potentially declining from forager baseline.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Sedentism may shorten birth intervals as lactation intensity decreases and food security improves; pair-bonding increasingly embedded in household and property structures; no evidence of selective reproductive pressures beyond standard early agricultural patterns.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly but steadily across the window; village sizes increase from initial small hamlets to settlements of several hundred; regional density remains low but higher than Mesolithic levels; immigration from surrounding areas possible as agricultural advantages attract settlers.<br><br>
-__Attrition & Dependency Overhang:__ Sedentary life accommodates dependents more readily than mobile foraging; orphaned, aged, and infirm absorbed within household structures; cemetery evidence at Mehrgarh shows range of ages at death; dependency burden growing but manageable given expanding productive capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed economy combining cultivation (wheat, barley, possibly cotton and jujube), herding (zebu cattle, sheep, goats), hunting, and gathering; the provisioning floor rises above forager levels as storage enables inter-seasonal buffering; vulnerability to drought persists but is reduced.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the primary mover; animal muscle increasingly applied to transport and possibly traction; fire used for cooking, pottery (Mehrgarh II onward), and craft production; per-capita energy throughput rises modestly with agricultural intensification.<br><br>
-__Labor Organization & Coercion:__ Household-based labor organization; incipient craft specialization (bead-making, tool production) evident; no coercive extraction; cooperative labor for construction and harvesting; gender division of labor probable but undocumented.<br><br>
-__Production & Surplus Capacity:__ Agricultural production generates modest surplus above immediate consumption; storage facilities indicate accumulation; surplus capacity constrained by rain-dependent yields and limited irrigation; trend is toward increasing productive capacity.<br><br>
-__Storage, Reserves & Buffering:__ Mud-brick storage rooms, granaries, and ceramic containers enable inter-seasonal food storage; reserves buffer against seasonal shortage and moderate drought; multi-year reserves unlikely given storage technology and pest pressure; buffering improved but not robust.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange connects Mehrgarh to the Iranian Plateau, Afghanistan (lapis lazuli), and the coast (marine shells); exchange occurs through reciprocal networks and possibly incipient trading relationships; transport by human and animal porterage; no wheeled vehicles.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No unit of account; value stored in grain, livestock, and ornaments (beads, shells); deferred reciprocity governs inter-household and inter-community relations; prestige goods (lapis, turquoise, shell) may serve as proto-currency in exchange.<br><br>
-__Surplus Extraction & Redistribution:__ No evidence of centralized extraction; communal allocation of resources for construction projects possible; redistribution occurs through kinship networks and reciprocal feasting; no taxation, tribute, or corvee labor.<br><br>
-__Wealth Distribution & Asset Defense:__ Emerging differentiation in burial goods suggests incipient wealth inequality; land, livestock, and craft goods constitute accumulable assets; inheritance likely becoming significant; asset defense occurs through household and lineage structures rather than institutional mechanisms.<br><br>
-__Byproducts & Waste Routing:__ Crop residues used as fuel and fodder; animal dung likely applied as fuel and fertilizer; craft waste (lithic debitage, bead-making debris) accumulates at workshop sites; waste recycling and disposal integrated into village economy; no pollution burden.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius expands from band to village scale; mutual aid obligations embedded in kinship and neighborhood ties; cooperative construction of storage and housing indicates sustained collective action; reciprocity remains foundational.<br><br>
-__Stratification, Status & Group Identity:__ Incipient social differentiation visible in variable burial wealth; no rigid stratification; status linked to productive success, craft skill, and possibly ritual knowledge; village identity emerging alongside kinship-based group identity.<br><br>
-__Kinship, Family & Inheritance:__ Household becomes primary social unit; kinship structures likely patrilineal given later patterns; marriage arrangements formalize inter-household alliances; inheritance of land, livestock, and craft knowledge increasingly consequential.<br><br>
-__Civic Association & Self-Organization:__ Village-level organization for construction, defense, and resource management; no formal institutions beyond kinship; elder councils or big-man leadership probable; collective action capacity sufficient for village-scale projects.<br><br>
-__Leisure, Play & Sociability:__ Evidence for sociability indirect; craft production of ornaments and figurines indicates non-subsistence activity; communal spaces in villages suggest gathering and ceremony; seasonal festivals probable.<br><br>
-__Grievance Channels & Social Discharge:__ Village-scale disputes managed through mediation and kinship pressure; spatial mobility decreasing as land investment grows; potential for accumulated grievance rising but evidence insufficient to assess; ritual and feasting may provide discharge.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Village-level headman or council of elders probable; authority dispersed among senior males of leading households; no paramount leadership across villages; decision-making by consensus within community; power structure acephalous at regional scale.<br><br>
-__Succession & Power Transfer:__ Leadership roles likely pass within families of successful households; no formal succession rules; transitions negotiated through consensus; no evidence of contested succession or political violence.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derives from productive success, generosity, and elder status; ancestral precedent validates land claims and social arrangements; no ideological apparatus beyond kinship norms and ancestral veneration.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No formal administration; community memory of obligations, boundaries, and agreements stored orally; coordination adequate for village-scale projects; no records, seals, or proto-administrative apparatus until late in window.<br><br>
-__Political Participation & Mobilization:__ Adult males of established households participate in community decisions; mobilization for collective labor projects occurs; no factional politics evident; village scale permits face-to-face consensus.<br><br>
-__Geopolitical Position & External Relations:__ Villages interact through kinship networks and trade; no polities or formal alliances; no evidence of warfare or fortification in early Mehrgarh; external relations governed by reciprocity and marriage exchange; isolation from distant regions remains high.<br><br>
-__Coercive Apparatus & Means of Force:__ No organized coercive force; hunting weapons (bows, spears) and agricultural tools available for violence; command of force dispersed among adult males; no standing warriors or fortifications.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through social pressure and kinship sanctions; property disputes possible as land and livestock accumulate; external raiding threat low given low population density; overall threat environment benign.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels orally within and between villages; transmission speed limited to walking pace; seasonal gatherings and trade expeditions carry news across regions; no rapid communication.<br><br>
-__Record, Storage & Persistence:__ All knowledge stored in living memory; no writing system; potters' marks and symbolic tokens appear late in window but do not constitute script; craft knowledge transmitted through apprenticeship; persistence depends on intergenerational oral transmission; loss occurs when lineages die out.<br><br>
-__Framing, Censorship & Discourse Norms:__ No formal censorship; discourse norms embedded in kinship hierarchy and respect for elders; sacred or restricted knowledge may exist around ritual and craft secrets; conversational taboos undocumented.<br><br>
-__Reception, Attention & Amplification:__ Attention focused on subsistence, craft production, and social relations; information amplified through repetition and gossip; no mechanisms for mass communication; audience limited to village and visiting kin.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces variation; craft techniques preserved through direct demonstration; noise load low given small information volume; verification through practice and consensus with experts.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, kinship obligation, and property respect constitute moral foundations; fairness understood as balanced exchange and adherence to customary norms; theft and boundary violation emerging as concerns with sedentism.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law; binding customs govern land use, inheritance, marriage, and exchange; taboos enforce sacred and social boundaries; evolution through gradual drift in oral tradition; no legislative process.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by elders or household heads; liability may require compensation through goods or services; enforcement through kinship pressure and community ostracism; no third-party tribunals or formalized justice.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights embedded in kinship and household status; land use rights emerging with cultivation; compliance burden minimal in face-to-face community; no bureaucratic regulation.<br><br>
-__Impunity & Unredressed Wrong:__ Serious wrongs addressed through compensation or feud; impunity possible for powerful households; spatial mobility decreasing reduces escape option; unredressed grievances may accumulate but evidence insufficient; standing deficit probably minimal.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of plant cultivation, animal husbandry, seasonal cycles, and material properties constitutes the operative knowledge base; explanatory frameworks embedded in myth and tradition; no formal theory distinct from practice; the discovery frontier lies in agricultural and craft experimentation.<br><br>
-__Applied Knowledge & Technical Method:__ Cultivation techniques (seed selection, planting, harvesting), animal management (breeding, herding, foddering), mud-brick construction, and craft production (stone tools, bone implements, bead-making, basketry, later pottery) represent sophisticated applied knowledge transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted orally through observation, practice, and family instruction; basic agricultural and domestic skills widely distributed; specialized craft knowledge (bead-making, tool production) held by fewer practitioners; stock growing as agricultural and craft repertoire expands.<br><br>
-__Obsolescence & Knowledge Decay:__ Older foraging knowledge retained alongside new agricultural techniques; some microlithic technology persists; knowledge loss occurs when craft lineages die out; overall stock growing through accumulation of agricultural and craft innovations; decay rate low.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestral narratives and origin stories anchor identity to village territories and founding lineages; the cultivated landscape becomes inscribed with meaning; collective memory of transition from foraging to farming possibly preserved in myth.<br><br>
-__Artistic Expression & Material Culture:__ Terracotta figurines (animal and human forms), shell and stone beads, bone ornaments, and later painted pottery constitute material culture; mud-brick architecture with rectangular multi-room houses defines domestic space; aesthetic conventions develop regional character.<br><br>
-__Collective Mood & Behavioral Disposition:__ Evidence insufficient for direct assessment; growing villages and expanding craft production suggest confidence and investment in place; mood presumably tracks agricultural success and varies with harvest quality.<br><br>
-__Form Exhaustion & Meaning Decay:__ Artistic and material forms evolving rather than exhausted; terracotta traditions vitalize across the window; no evidence of stagnation; symbolic vocabulary expanding with new craft media and architectural forms.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animistic worldview likely persists; cattle assume spiritual as well as economic importance; agricultural cycle may shape cosmological understanding of fertility, death, and renewal; human place embedded in cosmic order linking ancestors, land, and livestock.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Burials with grave goods indicate beliefs in afterlife or ancestral continuity; grave offerings include ornaments, tools, and animal remains; terracotta figurines may serve ritual or votive functions; seasonal agricultural rites probable but undocumented.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; ritual knowledge held by household heads or specialist practitioners; authority diffuse; no doctrine or orthodoxy; practice transmitted through oral tradition and family participation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Indigenous traditions absorbing elements from western contacts possible but undocumented; cattle veneration may be indigenous development; slow diffusion of practices through trade and marriage networks; no evidence of displacement or conversion; spiritual landscape stable.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; the sacred integrated into agricultural cycle, ancestral veneration, and domestic life; existential questions absorbed within mythic and ritual frameworks; no standing void or unanchored spiritual need evident in the record.<br><br>
+# __7,000 BCE – 4,500 BCE__ — Mehrgarh and the Origins of South Asian Agriculture
+
+__Summary:__ At Mehrgarh in the Kachi Plain of Balochistan, foragers transitioned to settled farming across twenty-five centuries, domesticating local wheat, barley, and livestock, founding South Asia's first village economy — the binding constraint being that all agricultural knowledge, seasonal timing, animal husbandry, and craft technique was encoded in oral tradition, spoken from elder to apprentice, and that the village's capacity to grow, specialize, and trade depended entirely on what speech could transmit and memory retain.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Mehrgarh sat at the foot of the Bolan Pass where the Kachi Plain opened toward the Indus lowlands — a corridor linking the Iranian plateau to the subcontinent; alluvial fans from the Bolan River provided fertile soils; the site commanded transit routes that would later carry goods and ideas between highland and lowland.
+
+__Climate Regime & Volatility:__ Early Holocene monsoon strengthening increased rainfall in the semi-arid Balochistan foothills, supporting rain-fed and simple irrigation agriculture; seasonal variability remained significant, requiring oral transmission of planting calendars and water-management knowledge across generations.
+
+__Hazard Regime & Exposure:__ Flash floods from mountain catchments posed episodic risk; seismic activity in the Sulaiman Range produced occasional tremors; drought years tested storage capacity — oral memory of past crises informed settlement placement and reserve provisioning.
+
+__Resource & Energy Endowment:__ Wild progenitors of wheat (einkorn, emmer) and barley grew in the adjacent highlands; wild cattle, sheep, and goats were available for capture and eventual domestication; chert, steatite, lapis lazuli (via highland trade), and clay for pottery were accessible within the regional exchange network.
+
+__Waste Absorption & Sink Capacity:__ Organic waste from humans and livestock accumulated in occupation deposits but was absorbed by local soils; ash from hearths and kilns raised tells over centuries; no evidence of sink saturation or environmental degradation in this early phase.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Sedentism brought new disease exposures — enteric infections from contaminated water, zoonotic diseases from close livestock contact — raising baseline mortality compared to mobile foraging; oral knowledge of sanitation and remedy partially mitigated these risks.
+
+__Nutrition & Physiological Vitality:__ Agricultural diet centered on cereals supplemented by meat, dairy, and gathered plants; skeletal evidence shows moderate stature with signs of nutritional stress in some individuals — the transition diet was narrower than foraging but more reliable in good years.
+
+__Care, Healing & Recovery Capacity:__ Healing knowledge — wound care, herbal remedies, childbirth assistance — was held by specialists and transmitted orally; the village setting allowed concentration of expertise but also concentration of contagion; capacity met routine needs but was stretched by epidemic or famine.
+
+__Reproductive Biology & Pairing Dynamics:__ Settled life enabled earlier weaning through cereal gruels, reducing birth spacing and increasing fertility; marriage arrangements, negotiated orally between families, linked households within and between villages, spreading risk and pooling labor.
+
+__Demographic Renewal & Density:__ Population grew from a handful of households to a multi-hectare village over the window; by 4,500 BCE, Mehrgarh's population may have reached several hundred — a density impossible under foraging, sustained by stored grain and coordinated oral management.
+
+__Attrition & Dependency Overhang:__ Longer lifespans (where achieved) increased the elderly dependent load, but elders also carried irreplaceable knowledge; infant mortality remained high; the productive cohort absorbed dependents through household labor pooling coordinated by oral family obligation.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Cultivation of wheat, barley, and later cotton, combined with herding of cattle, sheep, and goats, raised the provisioning floor above foraging; stored grain buffered seasonal scarcity; subsistence no longer tracked daily foraging luck but annual harvest outcome.
+
+__Energy Capture & Conversion:__ Human and animal muscle provided motive power; fire served cooking, pottery firing, and craft production; the energy ceiling rose with livestock — cattle for traction, manure for fuel and fertilizer — all managed through orally transmitted husbandry technique.
+
+__Labor Organization & Coercion:__ Labor was organized by household and kin; specialization emerged — potters, bead-makers, herders — with skills passed orally within craft lineages; no evidence of coerced labor; cooperation rested on kinship obligation and oral contract.
+
+__Production & Surplus Capacity:__ Agricultural surplus — grain beyond immediate consumption — funded craft specialization and trade; surplus flowed into storage pits and granaries; the volume remained modest but exceeded foraging surplus by an order of magnitude.
+
+__Storage, Reserves & Buffering:__ Mud-brick granaries and storage pits held grain reserves against failed harvests; the adequacy of reserves depended on orally transmitted forecasting — reading weather signs, remembering past cycles — and social discipline to defer consumption.
+
+__Exchange, Trade & Logistics:__ Long-distance trade reached across the Iranian plateau — lapis lazuli from Badakhshan, turquoise from Khorasan, marine shells from the Arabian Sea coast; exchange was conducted through oral negotiation, kinship ties, and reciprocal gifting; Mehrgarh functioned as a node in emerging networks.
+
+__Value Storage, Credit & Deferred Exchange:__ Value was stored in grain, livestock, and prestige goods (beads, ornaments); deferred exchange operated through oral debt and obligation — a gift or service rendered created a spoken claim to future reciprocation.
+
+__Surplus Extraction & Redistribution:__ No centralized extraction is evidenced; surplus redistribution likely occurred through kin sharing, feasting, and exchange; any headman's claim to surplus was legitimated by oral consent and demonstrated generosity.
+
+__Wealth Distribution & Asset Defense:__ Differential grave goods (beads, ornaments, stone vessels) indicate emerging wealth inequality by the later phases; land and livestock were held by households and defended by oral claim, kin alliance, and collective sanction against theft.
+
+__Byproducts & Waste Routing:__ Ash, broken pottery, bone refuse, and chaff accumulated in middens; livestock dung was recycled as fuel and fertilizer; no saturation problem arose given low population density relative to local absorptive capacity.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended families occupied multi-room mudbrick houses; inheritance of land, livestock, and craft knowledge passed orally within lineages; kinship terminology — now lost — organized marriage rules and alliance obligations that structured village society.
+
+__Association & Mutual Aid:__ The village itself was the primary association — a cluster of households coordinating labor, storage, and defense; mutual aid flowed through kinship and neighborhood; seasonal agricultural tasks (harvest, irrigation) required oral coordination beyond single households.
+
+__Leisure, Play & Sociability:__ Village life centered on communal spaces where oral tradition was performed; feasts, rituals, and storytelling marked seasonal and life-cycle events; sociability was intimate and continuous — the village knew itself through daily speech.
+
+__Stratification, Status & Group Structure:__ Stratification was incipient; some households accumulated more goods and larger graves; craft specialists (bead-makers, potters) may have held elevated status; but distinctions remained moderate and fluid, legitimated by oral reputation rather than fixed rank.
+
+__Administrative Capacity & Institutional Integrity:__ Administration was personal — a headman or council of elders resolved disputes and coordinated collective action through oral deliberation; no formal offices, written records, or bureaucratic procedures existed; institutional memory resided in living elders.
+
+__Coercive Apparatus & Means of Force:__ No standing force or fortification is evidenced in this phase; defense relied on male householders bearing hunting weapons (bows, spears); conflict resolution was oral — negotiation, compensation, or expulsion of wrongdoers.
+
+__Discharge, Disorder & Decay:__ Disputes over land, livestock, or marriage were mediated by elders; oral reputation enforced norms; unresolved conflicts could lead to household departure or blood feud; disorder remained personal and local, absorbed by kinship mechanisms or discharged through exit.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Village intimacy sustained high interpersonal trust within kin clusters; sentiment attached to the land, the ancestors buried beneath house floors, and the seasonal rhythms that oral tradition narrated; anxiety centered on harvest failure, disease, and loss of elders who held critical knowledge.
+
+__Leadership & Personal Authority:__ Leaders — whether headmen, senior patriarchs, or ritual specialists — held authority through oral persuasion, demonstrated competence, and accumulated reputation; authority was performed in council and feast, not inherited as office.
+
+__Legitimacy as Lived Allegiance:__ Allegiance attached to household, lineage, and village — concentric circles of oral obligation; legitimacy required no abstract theory — presence, generosity, and speech sufficed to bind followers to leaders.
+
+__Political Will & Collective Resolve:__ Collective action — digging irrigation channels, defending against raiders, conducting trade expeditions — was summoned through oral assembly and consensus; resolve depended on the speaker's credibility and the remembered outcomes of past collective efforts.
+
+__External Relations & Posture:__ Relations with neighboring villages and mobile pastoralists ranged from trade and intermarriage to competition and raiding; posture was communicated through messengers, gift exchange, and the presence of kin ties — oral diplomacy conducted face to face.
+
+__Disaffection, Apathy & Spent Will:__ Failure of leadership or harvest crisis could fracture consensus; disaffection was discharged through household departure or leadership challenge; apathy was rare in a small community where participation was survival.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language — an early Dravidian or Elamite-related tongue, now lost — enabled full communication within the village and, through bilingualism at trade contacts, across the exchange network; all agricultural, craft, and ritual knowledge was orally encoded.
+
+__Channels & Transmission Velocity:__ Information traveled by foot and voice — within the village instantly, across the region at walking pace; trade expeditions carried news alongside goods; the channel was face-to-face speech, supplemented by carried objects that served as mnemonic tokens.
+
+__Record, Storage & Persistence:__ Memory was the sole storage medium; oral repetition, song, and narrative anchored critical knowledge; no writing existed — all that was known had to be spoken to be preserved; ceramic tokens and stamped pottery designs may have served as ownership marks or mnemonic devices, but not as a script.
+
+__Framing, Censorship & Discourse Norms:__ Sacred or specialist knowledge — ritual, craft secrets, elite genealogy — was transmitted selectively; oral initiation controlled access; censorship operated through exclusion and withholding, not erasure of records; public speech was governed by respect norms enforced by reputation.
+
+__Reception, Attention & Amplification:__ Oral performance at feasts and rituals amplified important messages; stories and techniques that proved useful spread through the trade network; those that failed were forgotten; attention was captured by skilled speakers and dramatic narrative.
+
+__Signal Integrity & Noise Load:__ Each transmission risked distortion — mishearing, misremembering, deliberate alteration; error correction relied on redundancy (multiple transmitters) and social validation; over twenty-five centuries, substantial drift and loss inevitably occurred, invisible because no original record existed for comparison.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice centered on reciprocity, property respect, and kin obligation — wrongs were violations of spoken agreements, ancestral custom, and community expectation; the moral sense was embedded in proverb, narrative, and elder instruction.
+
+__Law, Codification & Regulatory Evolution:__ No written law; norms were oral custom — rules of land use, livestock ownership, marriage exchange, and ritual propriety transmitted by elders and adjusted through precedent; taboos marked forbidden acts (incest, sacrilege, theft).
+
+__Adjudication, Liability & Sanction:__ Elders adjudicated disputes in public assembly; liability was assigned through oral testimony and community judgment; sanctions included compensation (grain, livestock, goods), public shaming, and expulsion; violent sanction (blood feud) was a last resort.
+
+__Rights, Protections & Compliance Burden:__ Rights were relational — claims to land, share of harvest, access to mates — defined by kinship position and oral grant; compliance burden was light in a face-to-face community where deviation was immediately visible.
+
+__Impunity & Unredressed Wrong:__ Powerful households or skilled specialists might escape sanction if their contributions outweighed their wrongs; unredressed wrongs accumulated as grievance, periodically discharged through confrontation, departure, or generational forgetting.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of agriculture, animal husbandry, and craft was empirical and orally transmitted — observation of what worked, explained through ancestral wisdom and spirit agency; systematic theory in the modern sense did not exist; causation was often attributed to unseen forces propitiated through ritual.
+
+__Applied Knowledge & Technical Method:__ Mehrgarh pioneered South Asian agricultural technique — seed selection, planting timing, irrigation, animal breeding — and craft methods (pottery, bead drilling, basket weaving, metallurgy's first stirrings); all were transmitted through oral instruction and hands-on apprenticeship, refined incrementally over generations.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education was apprenticeship within household and craft lineage; knowledge stock was distributed across specialists — no single person held all; the village's collective knowledge exceeded any individual's, but was lost if the relevant specialist died without transmitting it.
+
+__Obsolescence & Knowledge Decay:__ Techniques that lost utility were forgotten; errors introduced in transmission could persist undetected until failure revealed them; the oral regime had no archive to consult — what was not spoken ceased to exist.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity was anchored in ancestral narratives, place attachment to Mehrgarh and its buried dead, and origin stories explaining how the village came to be and why its customs were right; these were recited at gatherings and transmitted to children orally.
+
+__Legitimating Narrative & Ideology:__ The emerging hierarchy was legitimated by oral narratives — the founding ancestor, the first cultivator, the gift of fire or seed from spirits — that explained why some households led and others followed, presented as ancestral precedent rather than argued ideology.
+
+__Artistic Expression & Material Culture:__ Handmade pottery with painted geometric designs; stone and bone beads laboriously drilled (the lapis lazuli bead industry emerged here); terracotta figurines of women and animals suggesting ritual or votive functions; mudbrick architecture with increasingly standardized layouts — material culture expressed oral tradition made visible.
+
+__Form Exhaustion & Meaning Decay:__ Forms evolved slowly across the window; exhaustion was rare because oral tradition renewed meaning through performance; when Mehrgarh was eventually abandoned (later periods), its material forms survived but their oral meanings perished, awaiting archaeological recovery millennia later.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ A spirit-inhabited world was presumed — the land, the ancestors, the animals, the seasonal forces required propitiation; existence was participation in an oral community that included the unseen dead buried beneath house floors and the spirits addressed in ritual.
+
+__Ritual, Devotion & Sacred Practice:__ Burials beneath houses, often with grave goods (beads, stone vessels, ochre), suggest ancestor veneration; terracotta figurines indicate ritual practice — possibly fertility or protective rites; all ritual forms and their meanings were transmitted orally by specialists.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood or temple is evidenced in this phase; ritual specialists — shamans, elder ritualists — held authority by oral transmission and demonstrated efficacy; doctrine was fluid, varying by household and lineage.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Contact through trade brought exposure to highland Iranian and lowland Indus beliefs; syncretism was the norm as oral traditions mixed at exchange nodes; no orthodoxy existed to resist or displace — belief flowed with speech and intermarriage.
+
+__Disenchantment & Sacred Discharge:__ The sacred remained vivid so long as oral tradition was performed; disenchantment would come only with the silence of transmission — when the rituals ceased, the figurines became mute clay, and the ancestors under the floors were forgotten until excavation uncovered them five thousand years later.
+

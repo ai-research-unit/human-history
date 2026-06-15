@@ -1,5 +1,5 @@
 # __Digital Stage__
-__Description:__ Every kind of information is reduced to one common code, the same underneath whatever it began as — page, song, and photograph become the same kind of thing, stored, moved, and reshaped without loss. Public information life comes to run on this unified substrate, and through its networked, many-to-many form any point can reach any other: everyone can send to everyone, with no single source at the centre. The current dominant substrate.<br><br>
+__Description:__ Every kind of information is reduced to one common code, the same underneath whatever it began as — page, song, and photograph become the same kind of thing, stored, moved, and reshaped without loss. Public information life comes to run on this unified substrate, and through its networked, many-to-many form any point can reach any other: everyone can send to everyone, with no single source at the centre. The current dominant substrate.
 
 ### - [Digital Stage in The North American Coasts and Plains — 2005 CE – 2026 CE](digital-stage-in-north-american-coasts-and-plains/index.md)
 ### - [Digital Stage in The Yellow and Yangtze River Basins — 2012 CE – 2026 CE](digital-stage-in-yellow-and-yangtze-river-basins/index.md)

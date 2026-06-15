@@ -1,69 +1,139 @@
-# __1923 CE – 1930 CE__ — Primo de Rivera Dictatorship and Censorship
-__Summary:__ Static snapshot of Spain under General Miguel Primo de Rivera's military dictatorship, established by coup in September 1923 with Alfonso XIII's acquiescence; the binding constraint is the regime's reliance on coercion and censorship to substitute for popular legitimacy; margin against shock is narrow, dependent on economic prosperity and military success; the system is stable only so long as external conditions hold, trending toward collapse as those conditions deteriorate by 1929.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Iberian geography unchanged; rail and road networks expanded under regime infrastructure programs; spatial friction reduced by public works but regional isolation persists in mountainous areas.<br><br>
-__Climate Regime & Volatility:__ Mediterranean and continental regimes stable; drought risk in south; no significant climatic shift within the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic and flood exposure continues; infrastructure investment improves urban resilience; rural margin against hazard still limited.<br><br>
-__Resource & Energy Endowment:__ Coal, iron, and mineral extraction continues; hydroelectric expansion under regime investment; no depletion crisis within window; endowment adequate for industrial needs.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial waste load rising with development; urban sanitation improved; localized saturation in industrial districts but overall absorptive capacity not exceeded.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Post-influenza recovery complete; endemic tuberculosis persists; mortality rates stable and declining; public health investment rising under dictatorship.<br><br>
-__Nutrition & Physiological Vitality:__ Diet improving with economic stability; stature gains continuing; malnutrition declining but persistent in southern latifundia zones; vitality improving overall.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Catholic marriage norms enforced; fertility high; pair-bonding patterns stable within traditional framework; no significant demographic transition underway.<br><br>
-__Demographic Renewal & Density:__ Population growing; emigration reduced by economic stability and American immigration restrictions; urbanization continuing; Madrid and Barcelona expanding.<br><br>
-__Attrition & Dependency Overhang:__ Dependent load stable; war widows and orphans from Morocco absorbed; no exceptional dependency strain within the window.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Subsistence secure for most; agrarian reform absent keeps southern laborers marginal; household pooling continues; provisioning floor stable.<br><br>
-__Energy Capture & Conversion:__ Hydroelectric investment significant; electrification expanding; coal still dominant in industry; per-capita work ceiling rising; energy regime modernizing.<br><br>
-__Labor Organization & Coercion:__ CNT suppressed; UGT tolerated if cooperative; strikes banned; labor coerced into corporatist structures; wages stable but organizing prohibited.<br><br>
-__Production & Surplus Capacity:__ Industrial output expanding; public works create demand; 1929 international expositions in Barcelona and Seville showcase development; surplus capacity high mid-decade, declining after 1929 crash.<br><br>
-__Storage, Reserves & Buffering:__ State borrowing funds infrastructure; reserves thin; banking system vulnerable; buffer against external shock inadequate, as 1929 crisis will demonstrate.<br><br>
-__Exchange, Trade & Logistics:__ Road construction improves internal logistics; Barcelona port modernized; tariff protection continues; trade stable but vulnerable to global contraction.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Peseta relatively stable; credit expansion under regime; foreign borrowing increases; inflation contained but debt accumulates.<br><br>
-__Surplus Extraction & Redistribution:__ Tax reform attempted but limited; state extraction increases via borrowing rather than taxation; redistribution minimal; development benefits unevenly distributed.<br><br>
-__Wealth Distribution & Asset Defense:__ Oligarchic structure intact; landowners and industrialists support regime; wealth concentration continues; asset defense through regime alliance.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste increasing with development; routing unchanged; disposal into rivers and coastal zones; load rising but capacity not exceeded.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust within regime-aligned groups stable; underground labor solidarity persists; cross-class trust low; mutual aid networks suppressed or co-opted.<br><br>
-__Stratification, Status & Group Identity:__ Military elevated; oligarchy secure; middle class growing; workers depoliticized by force; regional identities suppressed, especially Catalan.<br><br>
-__Kinship, Family & Inheritance:__ Catholic family model enforced; patriarchal norms reinforced; inheritance patterns unchanged; kinship networks stable.<br><br>
-__Civic Association & Self-Organization:__ Independent unions banned; regime-sponsored organizations substitute; voluntary associations monitored; associational fabric co-opted or suppressed.<br><br>
-__Leisure, Play & Sociability:__ Football professionalizing; cinema expanding; regime promotes orderly public leisure; cafes monitored; sociability channeled into approved forms.<br><br>
-__Grievance Channels & Social Discharge:__ Strikes banned; political opposition suppressed; exile for dissidents; grievance forced underground; unmetabolized tension accumulates beneath surface stability.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Military directory 1923–1925, then civilian directory; Primo de Rivera as dictator; Alfonso XIII as nominal monarch; power centralized in dictator personally.<br><br>
-__Succession & Power Transfer:__ No succession mechanism; regime depends on dictator's health and favor; transfer crisis inherent in personal rule; monarchy provides formal continuity only.<br><br>
-__Legitimacy & Political Narrative:__ Regime claims regeneration and order after chaos; anti-parliamentary and anti-cacique rhetoric; legitimacy instrumental, dependent on performance.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy expanded; corruption reduced in some areas; technocratic efficiency emphasized; capacity improved but integrity dependent on regime continuity.<br><br>
-__Political Participation & Mobilization:__ Cortes dissolved; parties suspended; Union Patriotica as regime party; elections abolished; mobilization suppressed; public space depoliticized by force.<br><br>
-__Geopolitical Position & External Relations:__ Morocco pacified with French cooperation; Alhucemas landing 1925; Rif war ends 1927; regime gains legitimacy from military success; diplomatic position stable.<br><br>
-__Coercive Apparatus & Means of Force:__ Army supports regime; Civil Guard enforces order; police expanded; repression effective; means of force adequate to maintain control.<br><br>
-__Internal Order & Threat Environment:__ Labor violence suppressed; Catalan regionalism driven underground; anarchist cells persist but contained; order maintained by coercion; threat dormant but not eliminated.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Telegraph and telephone networks expanded; newspapers reach mass audiences; radio broadcasting begins (Union Radio 1924); velocity increasing.<br><br>
-__Record, Storage & Persistence:__ Official archives maintained; newspaper production continues under censorship; records persist; no significant loss of storage capacity.<br><br>
-__Framing, Censorship & Discourse Norms:__ Pre-publication censorship imposed; criticism of regime, military, monarchy prohibited; discourse narrowed to regime-approved topics; permitted band contracting.<br><br>
-__Reception, Attention & Amplification:__ Newspapers continue but self-censor; regime messages amplified; opposition press exiled or clandestine; audience receives controlled information flow.<br><br>
-__Signal Integrity & Noise Load:__ Official narrative dominates; alternative signals suppressed; noise reduced by censorship but signal integrity sacrificed; underground channels maintain alternative information.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic morality enforced; regime justice accepted by supporters, rejected by repressed; sense of justice polarized along political lines.<br><br>
-__Law, Codification & Regulatory Evolution:__ Emergency decrees supplement codes; labor legislation corporatist; regulatory framework serves regime control; evolution toward authoritarian law.<br><br>
-__Adjudication, Enforcement & Liability:__ Military tribunals for political cases; civil courts function for ordinary matters; enforcement favors regime; liability asymmetric.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights suspended; press freedom abolished; assembly banned; compliance burden heavy for opposition, light for regime supporters.<br><br>
-__Impunity & Unredressed Wrong:__ Regime officials immune; opposition grievances unredressed; political prisoners held without recourse; impunity institutionalized; wrong accumulates as latent instability.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Ortega y Gasset active but constrained; universities monitored; scientific inquiry continues in apolitical domains; frontier limited by censorship and exile.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and infrastructure technique advancing; regime sponsors technical modernization; agricultural technique slowly improving; applied knowledge expanding.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy continuing to rise; primary education expanded; university enrollment growing; skill distribution improving but still uneven; regime invests in technical education.<br><br>
-__Obsolescence & Knowledge Decay:__ Older paradigms displaced by technical modernization; political knowledge suppressed may decay; exile of intellectuals risks knowledge loss; decay modest overall.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Regime promotes Spanish unity and imperial nostalgia; Catalan and Basque identity suppressed; 1898 trauma invoked as justification for regeneration.<br><br>
-__Artistic Expression & Material Culture:__ Exposition architecture in Barcelona and Seville; avant-garde constrained; material culture modernizing; Gaudi's Sagrada Familia continues; regime prefers monumental style.<br><br>
-__Collective Mood & Behavioral Disposition:__ Surface calm under repression; middle-class relief at order; working-class resentment suppressed; mood stable but artificial; tension beneath compliance.<br><br>
-__Form Exhaustion & Meaning Decay:__ Liberal parliamentary forms discredited; monarchical ritual persists but hollowed; regime ceremonies lack deep resonance; meaning decay continues beneath new forms.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic worldview reinforced by regime alliance; secularism driven underground; fatalism persists in rural areas; outlook officially orthodox.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance stable or rising with regime encouragement; processions and fiestas official; anticlerical violence suppressed; practice normalized.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church allied with regime; clerical influence in education restored; hierarchy supports dictatorship; doctrinal authority consolidated against secular challenge.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism dominant; Protestant presence minimal and suppressed; secular ideologies (socialism, anarchism) persist underground; no significant diffusion within window.<br><br>
-__Disenchantment & Sacred Discharge:__ Anticlericalism suppressed but not eliminated; existential needs channeled into regime compliance or underground politics; disenchantment contained but not resolved; sacred discharge deferred.<br><br>
+# __1923 CE – 1930 CE — Primo de Rivera Dictatorship and Censorship__
+
+The binding constraint is the imposition of prior censorship upon a press ecosystem that had evolved into the substrate of mass politics, as the dictatorship suspends the constitutional order and attempts to govern through managed information while accelerating infrastructure modernization, until economic crisis and elite defection collapse the experiment without resolving the underlying legitimacy deficit.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Road construction accelerates under the regime's public works program; the circuitos nacionales project improves arterial highways linking Madrid to provincial capitals, reducing travel times and enabling faster newspaper distribution to the interior.
+
+__Climate Regime & Volatility:__ Mediterranean rainfall variability persists; the 1928 drought stresses Castilian wheat yields, but expanded irrigation works in the Levante mitigate horticultural losses.
+
+__Hazard Regime & Exposure:__ Morocco's Rif terrain remains the military hazard that precipitated the coup; the Alhucemas landing of 1925, coordinated with France, finally pacifies the protectorate, removing the immediate operational drain.
+
+__Resource & Energy Endowment:__ Hydroelectric expansion continues; the regime promotes national fuel autarky through CAMPSA (petroleum monopoly, 1927), channeling import revenues to state coffers without reducing foreign oil dependency.
+
+__Waste Absorption & Sink Capacity:__ Industrial effluent regulations remain nominal; Barcelona's Besos River absorbs textile and chemical waste; urban sanitation improves marginally through public works employment.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Infant mortality declines modestly as public health campaigns target typhoid and tuberculosis; mortality rates in 1930 remain above Western European averages but trend downward.
+
+__Nutrition & Physiological Vitality:__ Urban diets diversify slightly as refrigeration expands; rural nutritional monotony persists in the south; conscript fitness improves marginally over the decade.
+
+__Care, Healing & Recovery Capacity:__ The regime expands hospital capacity in Madrid and provincial capitals; nursing schools professionalize; rural areas remain underserved, reliant on itinerant practitioners and midwives.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility begins declining in urban areas; family limitation spreads among the industrial working class despite Church opposition; rural birth rates remain high.
+
+__Demographic Renewal & Density:__ Population reaches 23 million by 1930; emigration to the Americas slows after 1929 as receiving countries restrict entry; internal migration to Barcelona and Bilbao accelerates.
+
+__Attrition & Dependency Overhang:__ Morocco war veterans constitute a modest pension burden; influenza pandemic orphans have aged into adolescence; the dependent load stabilizes.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Bread prices stabilize under wheat import controls; Andalusian jornaleros remain near subsistence; urban workers benefit from infrastructure employment.
+
+__Energy Capture & Conversion:__ Hydroelectric output doubles; railway electrification begins on mountain routes; coal imports decline proportionally but not absolutely.
+
+__Labor Organization & Coercion:__ The regime suppresses the CNT and tolerates the UGT within corporatist structures; comites paritarios mediate labor disputes under state supervision; strikes decline sharply through a mix of repression and co-optation.
+
+__Production & Surplus Capacity:__ Industrial output grows through protected markets; Catalan textiles and Basque steel benefit from tariff walls; the 1929 Expositions in Barcelona and Seville stimulate construction and prestige spending.
+
+__Storage, Reserves & Buffering:__ State debt expands to finance infrastructure; extraordinary budgets circumvent Cortes oversight; foreign borrowing increases exposure to global capital flows.
+
+__Exchange, Trade & Logistics:__ Tariff protection intensifies; bilateral trade agreements with France and Britain stabilize export markets; the regime promotes autarky rhetoric while depending on foreign capital.
+
+__Value Storage, Credit & Deferred Exchange:__ The peseta depreciates through 1929; the regime establishes the Comite Interventor de Cambios to stabilize exchange rates; commercial credit tightens as global liquidity contracts.
+
+__Surplus Extraction & Redistribution:__ CAMPSA monopoly revenues and tobacco taxes provide fiscal room; extraordinary budgets channel spending to public works; redistribution remains limited to employment generation.
+
+__Wealth Distribution & Asset Defense:__ Landed oligarchy retains estates; industrial profits rise behind tariff walls; land reform remains off the agenda; workers gain modest wage increases through paritarios.
+
+__Byproducts & Waste Routing:__ Construction debris accumulates around Exposition sites; industrial waste disposal remains unregulated; the peseta's inflation redistributes purchasing power away from savers.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family structures remain stable; the regime promotes natalist rhetoric without significant policy intervention; inheritance law unchanged.
+
+__Association & Mutual Aid:__ Unions operate within corporatist constraints; Catholic associations expand with regime favor; ateneos and republican clubs face surveillance and closure.
+
+__Leisure, Play & Sociability:__ Football professionalizes; cinema expands as mass entertainment; regime-sponsored festivals and expositions offer controlled spectacle; cafe gatherings face occasional police scrutiny.
+
+__Stratification, Status & Group Structure:__ The military-aristocratic elite governs through a civilian Directory after 1925; technocrats (Calvo Sotelo at Finance) gain influence; the industrial bourgeoisie accepts order over representation; workers and regionalists are excluded.
+
+__Administrative Capacity & Institutional Integrity:__ The regime governs by decree, bypassing Cortes; provincial governors enforce censorship; the civil service expands through patronage; corruption persists despite anti-cacique rhetoric.
+
+__Coercive Apparatus & Means of Force:__ The army backs the regime; the Civil Guard maintains rural order; political police monitor dissent; the Alhucemas victory restores military prestige; the officer corps remains the regime's foundation.
+
+__Discharge, Disorder & Decay:__ Street violence subsides; CNT militants flee to France or operate clandestinely; Catalan nationalism retreats to cultural expression; elite conspiracies (Sanchez Guerra, 1929) signal coming instability.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Initial relief at order gives way to passive acquiescence; the 1929 expositions generate momentary pride; economic downturn after 1929 erodes confidence; fatigue with dictatorship spreads among elites.
+
+__Leadership & Personal Authority:__ Primo de Rivera governs through personal authority and communiques rather than institutions; his informal style initially charms but his erratic decisions (peseta stabilization failures, university confrontations) alienate supporters.
+
+__Legitimacy as Lived Allegiance:__ The regime claims regenerationist legitimacy but cannot institutionalize; Alfonso XIII's association with the dictatorship compromises the monarchy; republican sentiment grows silently.
+
+__Political Will & Collective Resolve:__ The regime imposes will through decree but lacks mobilizational capacity; the Union Patriotica remains a hollow patronage vehicle; technocratic reforms proceed without popular engagement.
+
+__External Relations & Posture:__ Morocco pacification restores international standing; the regime pursues League of Nations visibility; relations with France improve through Rif cooperation; the dictatorship's international reputation declines as European democracies consolidate.
+
+__Disaffection, Apathy & Spent Will:__ By 1930 the regime has exhausted its purpose; Primo's health declines; elite defection accelerates; the army withdraws support; the dictator resigns in January 1930 and dies in Paris two months later.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy continues rising toward 70 percent; Castilian remains the sole official language; Catalan-language publication faces informal obstruction though not outright prohibition.
+
+__Channels & Transmission Velocity:__ Radio broadcasting begins (Union Radio 1925) under state license; telephone networks expand; telegraphy integrates the peninsula; newspapers reach provincial towns within hours of printing.
+
+__Record, Storage & Persistence:__ Civil registry continues; regime archives document censorship decisions; newspapers maintain morgues though self-censorship shapes what is clipped.
+
+__Framing, Censorship & Discourse Norms:__ Prior censorship returns through the 1923 suspension of constitutional guarantees; all newspapers submit galleys to censors before printing; blank spaces signal excisions; political criticism disappears; coverage emphasizes infrastructure, expositions, and Morocco victory.
+
+__Reception, Attention & Amplification:__ Circulation of major dailies holds steady; ABC and La Vanguardia accommodate censorship; republican and anarchist papers circulate clandestinely or from exile; radio reaches urban middle-class audiences.
+
+__Signal Integrity & Noise Load:__ Censorship creates information asymmetry; rumors fill gaps left by suppressed news; foreign newspapers entering through France and Gibraltar carry alternative accounts; the regime's communiques face credibility deficits.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The regime claims to restore order and end caciquismo; critics see hypocrisy as the dictatorship concentrates power; Catholic social teaching endorses authority over liberal disorder.
+
+__Law, Codification & Regulatory Evolution:__ Governance by decree bypasses legislative process; the Constitution of 1876 remains nominally in force but suspended; labor law advances through paritario decrees.
+
+__Adjudication, Liability & Sanction:__ Military tribunals expand jurisdiction; political offenses face summary process; ordinary justice continues for civil and criminal matters; habeas corpus effectively suspended.
+
+__Rights, Protections & Compliance Burden:__ Press freedom suspended; assembly rights restricted; Catalan cultural organizations face closure; compliance with censorship becomes routine for publishers seeking to continue operation.
+
+__Impunity & Unredressed Wrong:__ The regime prosecutes opponents while its own abuses go unexamined; the Morocco responsibilities file closes without military accountability; critics await the regime's fall to seek redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The regime promotes technical education and applied science; the universities resist political intervention, leading to confrontations (1929 student strikes); Ortega y Gasset publishes La rebelion de las masas (1929), diagnosing mass society.
+
+__Applied Knowledge & Technical Method:__ Engineering schools expand; foreign technical advisors assist hydroelectric and road projects; industrial methods modernize behind tariff protection.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary schooling extends; the regime promotes escuelas nacionales; secondary and technical education expand; university enrollments grow despite political tensions.
+
+__Obsolescence & Knowledge Decay:__ Traditional agricultural methods persist in the meseta; regime censorship limits intellectual exchange with European currents; exiled intellectuals maintain contacts abroad.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The regime promotes a unitary Spanish identity against regional particularism; imperial nostalgia infuses official rhetoric; the 1929 expositions stage hispanidad for domestic and international audiences.
+
+__Legitimating Narrative & Ideology:__ Regenerationism without democracy: the regime claims to modernize Spain while protecting it from parliamentary disorder; the narrative wears thin as economic difficulties mount.
+
+__Artistic Expression & Material Culture:__ The Barcelona Exposition showcases Noucentisme architecture (Mies van der Rohe's German Pavilion); the Seville Exposition stages neo-Moorish historicism; avant-garde artists (Dali, Bunuel, Lorca) develop outside official channels.
+
+__Form Exhaustion & Meaning Decay:__ Official patriotic aesthetics calcify into hollow spectacle; the expositions' grandeur contrasts with underlying tensions; censorship prevents public articulation of discontent.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic orthodoxy regains official favor; secular intellectuals maintain private skepticism; existential anxiety circulates through literary channels despite censorship.
+
+__Ritual, Devotion & Sacred Practice:__ Church ceremonies regain public prominence; regime officials attend mass ostentatiously; working-class anticlericalism persists underground.
+
+__Religious Institutions & Doctrinal Authority:__ The Church supports the regime as restorer of order; religious education expands; episcopal pronouncements endorse authority; the hierarchy gains influence over cultural policy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Protestant minorities remain marginal; freemasons face surveillance; popular piety continues in traditional forms; no significant spiritual innovation occurs.
+
+__Disenchantment & Sacred Discharge:__ Urban intellectuals live in spiritual limbo, neither believing nor openly dissenting; the regime's fall will release pent-up anticlericalism; the sacred order the regime claims to restore lacks inner conviction among its elite supporters.

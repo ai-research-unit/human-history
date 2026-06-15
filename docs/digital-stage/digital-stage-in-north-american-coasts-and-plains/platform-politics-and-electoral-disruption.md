@@ -1,69 +1,139 @@
-# __2005 CE – 2026 CE__ — Platform Politics and Electoral Disruption
-__Summary:__ Social media platforms transform North American electoral politics from the Obama campaign's 2008 digital organizing breakthrough through the 2016 Russian interference and Cambridge Analytica scandal, the 2020 election's pandemic-altered voting and Stop the Steal mobilization culminating in the January 6 Capitol breach, and ongoing platform-mediated polarization; the binding constraint is the structural mismatch between platforms optimized for engagement and the deliberative requirements of democratic participation; margin against electoral destabilization is thin given algorithmic amplification of divisive content and platform reluctance or inability to moderate political speech effectively; direction of change is toward deeper platform integration with political mobilization alongside persistent concerns about manipulation, misinformation, and legitimacy erosion.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Digital platforms collapse geographic friction for political organizing — rural and urban voters equally reachable online; however, physical geography remains relevant for in-person voting, rally attendance, and the Capitol's fixed location as site of January 6 events.<br><br>
-__Climate Regime & Volatility:__ Climate change emerges as politically polarizing issue distributed through platforms; extreme weather events (hurricanes, wildfires) create political flashpoints amplified online; no direct climate impact on platform-mediated politics itself.<br><br>
-__Hazard Regime & Exposure:__ COVID-19 pandemic (2020–2022) constitutes major hazard affecting electoral logistics — mail voting expansion, in-person voting debates, and pandemic as dominant political issue distributed through platform discourse.<br><br>
-__Resource & Energy Endowment:__ Abundant North American energy supply supports platform infrastructure; no resource constraints on digital political activity during window.<br><br>
-__Waste Absorption & Sink Capacity:__ Political advertising and campaign digital waste (abandoned accounts, expired content, data artifacts) accumulate in platform archives; no physical sink saturation issues relevant to this domain.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic directly shapes 2020 election — mail voting expansion, mortality rates as political issue, mask and vaccine debates distributed through platforms; pandemic deaths exceed one million in US by 2022, unevenly distributed and politically interpreted.<br><br>
-__Nutrition & Physiological Vitality:__ No direct impact from platform politics on nutrition; indirect effects through policy outcomes on food assistance programs debated politically online.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Abortion emerges as major platform-distributed political issue particularly after Dobbs decision (2022); platform discourse shapes political mobilization around reproductive rights.<br><br>
-__Demographic Renewal & Density:__ Demographic shifts (urbanization, immigration, aging) shape electoral geography; platform usage patterns correlate with age and education demographics relevant to political alignment.<br><br>
-__Attrition & Dependency Overhang:__ Pandemic mortality, Long COVID disability, and opioid crisis deaths create demographic effects with political salience; dependency issues distributed through platform discourse as political issues.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Economic anxiety and inequality constitute major themes of platform-distributed political discourse; pandemic relief, stimulus payments, and inflation become platform-mediated political issues.<br><br>
-__Energy Capture & Conversion:__ Energy policy (fossil fuels, renewables, pipelines) circulates as politically polarizing platform content; Keystone XL, fracking, and Green New Deal debates play out on social media.<br><br>
-__Labor Organization & Coercion:__ Platform labor organizing (Amazon unionization) gains visibility through social media; gig economy labor classification debates distributed through platforms; labor issues become politically salient.<br><br>
-__Production & Surplus Capacity:__ Campaign finance constitutes primary economic activity — billions spent on digital advertising across election cycles; platform advertising revenue from political spending substantial but declining relative to total revenue.<br><br>
-__Storage, Reserves & Buffering:__ Campaign war chests and PAC reserves fund digital operations; small-dollar fundraising via platforms (ActBlue, WinRed) transforms campaign finance; financial reserves determine digital campaign capacity.<br><br>
-__Exchange, Trade & Logistics:__ Political advertising marketplace operates through platform ad systems; microtargeting capabilities allow precise demographic and psychographic targeting; Cambridge Analytica represents extreme case of data-driven targeting.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cryptocurrency donations and dark money complicate campaign finance tracking; deferred political obligations (donor access, policy commitments) constitute informal credit system.<br><br>
-__Surplus Extraction & Redistribution:__ Platforms extract rent from political advertising without formal redistribution; political consultants capture substantial campaign spending; fundraising platforms take percentage fees.<br><br>
-__Wealth Distribution & Asset Defense:__ Political spending concentrates among wealthy donors despite small-dollar fundraising democratization; billionaire political influence (Koch, Soros, Thiel, Musk) amplified through platform ownership and spending.<br><br>
-__Byproducts & Waste Routing:__ Failed campaigns, abandoned political accounts, expired advertising, and deprecated targeting data constitute political digital waste; much political content persists as archive with uncertain future relevance.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Platform-mediated political polarization degrades cross-partisan social trust; partisan sorting intensifies — fewer cross-party friendships, family ruptures over politics, geographic clustering by political affiliation; mutual aid increasingly partisan.<br><br>
-__Stratification, Status & Group Identity:__ Political identity increasingly functions as master status — party affiliation correlates with and subsumes other identities; MAGA identity crystallizes as distinct subculture with markers, language, and solidarity; progressive coalition maintains coalition identity.<br><br>
-__Kinship, Family & Inheritance:__ Thanksgiving political conflict becomes cultural trope; family relationships strain across partisan lines; QAnon specifically disrupts families through radicalization; political identity transmitted intergenerationally with some disruption.<br><br>
-__Civic Association & Self-Organization:__ Platform-mediated organizing enables rapid mobilization — Women's March (2017), March for Our Lives (2018), George Floyd protests (2020), Stop the Steal rallies (2020–2021); civic association increasingly partisan rather than cross-cutting.<br><br>
-__Leisure, Play & Sociability:__ Political content dominates social media feeds, mixing with entertainment; political memes constitute shared cultural production; sports, entertainment, and consumer brands become politically coded.<br><br>
-__Grievance Channels & Social Discharge:__ Platform expression provides grievance outlet but also amplifies and cross-pollinates grievances; grievances accumulate rather than discharge — 2016 election result contested by one side, 2020 by the other; no shared resolution mechanism.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Electoral competition remains formally democratic with contested power transfers; platform companies exercise informal authority over political discourse through moderation and algorithmic decisions; power increasingly fragmented and contested.<br><br>
-__Succession & Power Transfer:__ 2016 and 2020 elections produce contested transfers — 2016 result attributed by some to Russian interference, 2020 result rejected by losing candidate and substantial portion of voters; January 6 represents attempted disruption of formal transfer; succession mechanisms under strain but hold.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy of electoral outcomes increasingly contested along partisan lines; platforms simultaneously spread delegitimizing narratives and attempt to label misinformation; no shared legitimacy framework prevails.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Election administration remains decentralized across states and counties; platforms cooperate with election officials on information sharing; election infrastructure targeted by foreign interference; administrative capacity tested but holds despite attacks on poll workers and officials.<br><br>
-__Political Participation & Mobilization:__ Platform-mediated participation increases voter registration, turnout, and political engagement; 2020 sees record turnout despite pandemic; mobilization extends to post-election protest including January 6 mobilization.<br><br>
-__Geopolitical Position & External Relations:__ Russian interference in 2016 election documented by intelligence community and Mueller investigation; foreign influence operations continue through subsequent elections; platform as vector for foreign manipulation.<br><br>
-__Coercive Apparatus & Means of Force:__ January 6 breach overwhelms Capitol Police capacity; National Guard deployment delayed; law enforcement subsequently pursues participants through platform-preserved evidence; state coercive capacity tested but reconstitutes.<br><br>
-__Internal Order & Threat Environment:__ Political violence increases — Charlottesville (2017), El Paso (2019), January 6 (2021), Pelosi attack (2022); threat environment elevated by platform-distributed radicalization; lone wolf and organized extremism both present.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Political information propagates at platform speed — breaking news, campaign announcements, and political attacks spread within minutes; velocity advantages emotionally resonant content over accuracy; fact-checking lags viral spread.<br><br>
-__Record, Storage & Persistence:__ Platform archives preserve political statements, deleted tweets, and campaign positions; opposition research and journalistic accountability use archives; January 6 documented through platform video and posts used in prosecutions.<br><br>
-__Framing, Censorship & Discourse Norms:__ Platform content moderation attempts to limit election misinformation — labels, reduced distribution, and account suspensions applied; accusations of partisan bias from both sides; discourse norms contested with no stable equilibrium.<br><br>
-__Reception, Attention & Amplification:__ Algorithmic amplification favors engaging content — outrage, conflict, and tribal signaling receive more distribution; filter bubbles and echo chambers create parallel information environments; attention captured by emotionally charged political content.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation, disinformation, bot networks, coordinated campaigns, and foreign operations create high noise load; signal integrity degraded particularly around elections; verification capacity cannot match content volume.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Partisan moral foundations diverge — different weight on fairness, loyalty, authority across political tribes; sense of electoral justice contested — each side perceives the other as cheating; no shared moral baseline for legitimate competition.<br><br>
-__Law, Codification & Regulatory Evolution:__ Campaign finance law (Citizens United), voting rights law (Shelby County), and election law remain contested; Section 230 protects platforms from political content liability; state-level election law changes (voter ID, mail voting) politically contentious.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts adjudicate election disputes — 2020 sees 60+ cases rejecting election challenges; judicial system processes January 6 cases (over 1,200 defendants by 2024); enforcement capacity strained but functional.<br><br>
-__Rights, Protections & Compliance Burden:__ Voting rights contested — ID requirements, polling place access, mail voting rules vary by state; platform speech rights debated but courts generally uphold platform moderation authority; compliance burden falls on voters navigating rules.<br><br>
-__Impunity & Unredressed Wrong:__ Perceived impunity varies by partisan perspective — one side sees Trump impunity, other sees selective prosecution; foreign interference actors largely unpunished; some January 6 participants prosecuted while others remain at large; redress perceived as incomplete across perspectives.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Academic study of platform effects on democracy expands — misinformation research, polarization studies, network analysis; reigning paradigm debates whether platforms cause polarization or reflect it; research impeded by platform data access restrictions.<br><br>
-__Applied Knowledge & Technical Method:__ Campaign microtargeting, A/B testing, and data analytics constitute applied political technology; Cambridge Analytica represents extreme application; platform advertising tools democratize targeting capability.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital literacy varies — education correlates with ability to identify misinformation but also with filter bubble immersion; media literacy education expands but does not match misinformation spread.<br><br>
-__Obsolescence & Knowledge Decay:__ Political misinformation persists despite debunking — zombie claims recirculate; some knowledge (election procedures, constitutional process) erodes through disuse and distrust; institutional knowledge lost as election officials face harassment and quit.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Competing national mythoi crystallize — progressive narrative emphasizes founding sins requiring correction, conservative narrative emphasizes founding ideals under threat; January 6 becomes contested memory (insurrection versus protest); shared national identity fragments.<br><br>
-__Artistic Expression & Material Culture:__ Political aesthetics diverge — MAGA hats, flags, and merchandise constitute material identity markers; progressive movements develop own visual language; meme warfare constitutes political aesthetic production; material culture politicized.<br><br>
-__Collective Mood & Behavioral Disposition:__ Political anxiety and outrage characterize collective mood; catastrophism across perspectives — democracy dying, America falling, civilization ending; behavioral disposition increasingly tribal and defensive.<br><br>
-__Form Exhaustion & Meaning Decay:__ Democratic rhetoric shows exhaustion — "fight for democracy," "save our country" deployed by all sides; shared political vocabulary loses meaning through overuse and contested application; cynicism about political speech increases.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Political identity acquires spiritual dimension — MAGA and progressive movements both exhibit quasi-religious features (sacred texts, prophetic figures, apocalyptic framing, ritual gatherings); existential stakes perceived as ultimate.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Political rallies function as revival meetings; social media posting constitutes daily devotional practice; January 6 acquires martyrological framing for some participants; voting itself framed in sacred terms.<br><br>
-__Religious Institutions & Doctrinal Authority:__ White evangelical Christianity aligns with Republican politics; religious nationalism intensifies; Catholic bishops debate communion denial for pro-choice politicians; religious authority deployed for partisan ends.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ QAnon represents syncretic spirituality blending conspiracy, millennialism, and political identity; New Age wellness-to-conspiracy pipeline documented; traditional religion competes with political spirituality for ultimate allegiance.<br><br>
-__Disenchantment & Sacred Discharge:__ Loss of shared civic religion creates spiritual void filled by partisan faith; disenchantment with democratic institutions ("rigged system" across perspectives) erodes sacred legitimacy of electoral process; spiritual residue accumulates as unfocused existential anxiety and apocalyptic expectation.<br><br>
+# __2005 CE – 2026 CE — Platform Politics and Electoral Disruption__
+
+__Summary:__ Digital platforms transform North American electoral politics between 2005 and 2026, shifting from optimistic narratives of democratic mobilization in the Obama era to alarm over foreign interference, algorithmic polarization, and misinformation by 2016, culminating in the January 6 insurrection and ongoing battles over platform power in elections. The binding constraint is the structural incentive of engagement-optimized algorithms to amplify outrage and division, which platforms prove unwilling or unable to override without undermining their business models.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Platform infrastructure collapses geographic distance, enabling national campaigns to target individual voters with micro-tailored messages and allowing fringe movements to coalesce across dispersed populations that would otherwise never encounter each other.
+
+__Climate Regime & Volatility:__ Climate change enters political discourse through platform-mediated debate, with climate denial and climate activism both amplified by algorithmic distribution, though the physical infrastructure of platforms contributes marginally to carbon load.
+
+__Hazard Regime & Exposure:__ Natural disasters—hurricanes, wildfires—become flashpoints for platform-mediated political conflict, with disaster response and climate policy debated in real time and misinformation spreading alongside emergency information.
+
+__Resource & Energy Endowment:__ Campaigns draw on the abundant venture capital and advertising revenue flowing through Silicon Valley platforms, which provide the infrastructure for digital political communication.
+
+__Waste Absorption & Sink Capacity:__ The primary residue is informational rather than physical: deleted ads, suspended accounts, and abandoned campaign pages accumulate as digital detritus.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 transforms platform politics from 2020 onward, with public health measures becoming intensely polarized and vaccine misinformation spreading rapidly through social networks.
+
+__Nutrition & Physiological Vitality:__ Not directly applicable to electoral dynamics.
+
+__Care, Healing & Recovery Capacity:__ Healthcare policy debates—the Affordable Care Act, vaccine mandates, abortion access—are fought out on platforms, with misinformation and emotional appeals displacing technical argument.
+
+__Reproductive Biology & Pairing Dynamics:__ Reproductive rights, particularly abortion, become major platform-mediated political flashpoints, especially after the 2022 Dobbs decision.
+
+__Demographic Renewal & Density:__ Younger, more digitally native voters are disproportionately reached and mobilized through platforms, while older voters remain more dependent on broadcast media, creating generational asymmetries in political communication.
+
+__Attrition & Dependency Overhang:__ Activist burnout and political exhaustion accumulate as users are subjected to continuous conflict and outrage cycles, with measurable declines in civic engagement among the most platform-saturated cohorts.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Economic anxiety—job loss, wage stagnation, rising costs—provides raw material for platform-mediated political appeals, with populist movements on both left and right drawing energy from material grievance.
+
+__Energy Capture & Conversion:__ Political advertising revenue flows to platforms, with Google, Meta, and to a lesser extent Twitter capturing billions in campaign spending each election cycle.
+
+__Labor Organization & Coercion:__ Gig economy labor conditions and tech worker organizing become politically salient issues debated on platforms, with Amazon union drives and rideshare driver campaigns gaining visibility through social media.
+
+__Production & Surplus Capacity:__ Platform companies generate surplus through advertising, which campaigns spend to reach voters, creating a feedback loop where political spending enriches the platforms that shape political discourse.
+
+__Storage, Reserves & Buffering:__ Campaign finance reserves and super PAC funding enable sustained advertising blitzes, with platforms serving as the primary conduit for converting money into voter impressions.
+
+__Exchange, Trade & Logistics:__ Political attention circulates as a quasi-commodity, with campaigns competing for shares of limited voter attention in an environment saturated with competing messages.
+
+__Value Storage, Credit & Deferred Exchange:__ Follower counts, email lists, and donor databases serve as accumulated campaign assets, stored and leveraged across election cycles.
+
+__Surplus Extraction & Redistribution:__ Platforms extract revenue from campaigns; campaigns extract donations from supporters; the system concentrates resources among well-funded candidates and causes while starving others.
+
+__Wealth Distribution & Asset Defense:__ Wealthy donors gain outsized influence through super PACs and dark money groups, with platform advertising enabling precise targeting that maximizes the impact of concentrated spending.
+
+__Byproducts & Waste Routing:__ Failed campaigns, abandoned accounts, and expired ads accumulate as platform waste, while the broader political system absorbs the residue of misinformation and polarization.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Political polarization penetrates family structures, with platform-mediated exposure to divergent information environments producing documented increases in family conflict and estrangement along partisan lines.
+
+__Association & Mutual Aid:__ Platforms enable rapid formation of political communities and activist networks, from Tea Party groups to Black Lives Matter chapters, though these formations often prove ephemeral as attention shifts.
+
+__Leisure, Play & Sociability:__ Political content intermingles with entertainment and social interaction on platforms, blurring boundaries between civic engagement and leisure consumption.
+
+__Stratification, Status & Group Structure:__ Partisan identity hardens into a primary social cleavage, with platform algorithms reinforcing group boundaries by feeding users content that affirms in-group loyalty and out-group hostility.
+
+__Administrative Capacity & Institutional Integrity:__ Election administration comes under platform-mediated attack, with false claims of fraud spreading virally and undermining confidence in electoral institutions; election officials face harassment organized through social media.
+
+__Coercive Apparatus & Means of Force:__ The January 6, 2021, Capitol insurrection demonstrates the capacity of platform-organized movements to produce real-world violence, with planning and coordination occurring across Facebook groups, Twitter, Parler, and other platforms.
+
+__Discharge, Disorder & Decay:__ Political violence, harassment of officials, and the erosion of norms around peaceful transfer of power accumulate as social residue, with platforms serving as both accelerants and inadequate moderators of disorder.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Platform algorithms optimize for engagement, which in practice means optimizing for outrage, fear, and tribal affirmation; public sentiment becomes more volatile, more polarized, and more detached from material conditions.
+
+__Leadership & Personal Authority:__ Donald Trump's Twitter account exemplifies the concentration of political authority in personal platform presence, bypassing traditional media gatekeepers and commanding attention through provocation; his 2021 deplatforming demonstrates the countervailing power platforms wield.
+
+__Legitimacy as Lived Allegiance:__ Belief in electoral legitimacy fragments along partisan lines, with platform-mediated misinformation convincing millions that the 2020 election was stolen; this delegitimization persists and shapes subsequent elections.
+
+__Political Will & Collective Resolve:__ Platforms enable rapid mobilization—the Women's March, the March for Our Lives, Stop the Steal rallies—but sustained collective action proves difficult as attention cycles shorten and outrage fatigue sets in.
+
+__External Relations & Posture:__ Foreign actors exploit platform openness, with Russian interference in 2016 and ongoing influence operations from multiple state actors using social media to inflame domestic divisions and shape electoral outcomes.
+
+__Disaffection, Apathy & Spent Will:__ Political exhaustion accumulates among the most engaged users, with documented declines in well-being and civic participation among heavy social media users; disengagement and cynicism spread as the costs of engagement become apparent.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Platforms lower barriers to political speech, enabling anyone to broadcast to a potentially mass audience, but this accessibility coexists with algorithmic gatekeeping that determines whose speech actually reaches viewers.
+
+__Channels & Transmission Velocity:__ Political information spreads with unprecedented speed, enabling real-time response to events and rapid-fire news cycles, but also allowing misinformation to propagate faster than fact-checks can respond.
+
+__Record, Storage & Persistence:__ Candidate statements, campaign ads, and political claims persist in searchable archives, creating accountability records but also enabling opposition research and weaponized context collapse.
+
+__Framing, Censorship & Discourse Norms:__ Platform content moderation becomes intensely politicized, with conservatives alleging censorship and progressives demanding action against misinformation; Section 230 reform debates intensify without resolution.
+
+__Reception, Attention & Amplification:__ Algorithmic amplification favors emotionally charged, divisive content over measured analysis, systematically advantaging extremes over center and conflict over consensus.
+
+__Signal Integrity & Noise Load:__ Misinformation, disinformation, and coordinated inauthentic behavior flood the information environment, with fact-checking and verification capacity overwhelmed by volume; foreign interference compounds domestic manipulation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Platform-mediated political discourse appeals to and inflames moral intuitions—fairness, loyalty, authority, sanctity—with algorithmically optimized content designed to trigger moral outrage.
+
+__Law, Codification & Regulatory Evolution:__ Campaign finance law adapts slowly to digital advertising, with disclosure requirements lagging platform capabilities; Section 230 debates continue without legislative resolution through 2026.
+
+__Adjudication, Liability & Sanction:__ Platforms exercise quasi-judicial authority over political speech through content moderation, with the Trump deplatforming the most consequential example; no external appeal or due process exists.
+
+__Rights, Protections & Compliance Burden:__ First Amendment protections do not apply to private platforms, leaving political speech subject to terms of service that platforms apply unevenly and revise unilaterally.
+
+__Impunity & Unredressed Wrong:__ Foreign interference and domestic misinformation operations proceed with limited accountability, as platforms are shielded by Section 230 and state actors face few consequences; the gap between harm and redress widens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic research on platform effects, misinformation, and polarization proliferates, though findings are contested and platforms restrict researcher access to data after the Cambridge Analytica scandal.
+
+__Applied Knowledge & Technical Method:__ Micro-targeting, A/B testing, and machine learning optimization of political advertising become standard campaign techniques, developed by platform companies and adopted by political operatives.
+
+__Education, Knowledge Stock & Skill Distribution:__ Media literacy initiatives attempt to inoculate voters against misinformation, with uneven reach and contested effectiveness; knowledge of how platforms work remains unevenly distributed.
+
+__Obsolescence & Knowledge Decay:__ Rapid platform evolution renders tactical knowledge obsolete quickly, with campaign techniques that worked in one cycle failing in the next as algorithms and user behavior shift.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Competing narratives of American identity—pluralist versus nationalist, progressive versus traditionalist—clash on platforms, with each side constructing divergent historical memories and foundational myths.
+
+__Legitimating Narrative & Ideology:__ The legitimating narrative of democratic self-governance frays as platform-mediated information environments produce incompatible understandings of basic facts; shared reality erodes.
+
+__Artistic Expression & Material Culture:__ Political memes, viral videos, and platform-native content forms become central to campaign communication, displacing traditional advertising formats and enabling grassroots cultural production.
+
+__Form Exhaustion & Meaning Decay:__ The forms of platform politics—the viral moment, the hashtag campaign, the fact-check—become exhausted through repetition, their capacity to generate genuine engagement declining as users become inured to the tactics.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Political polarization takes on quasi-religious dimensions, with partisan identity providing meaning, community, and moral framework in ways that parallel traditional religious belonging.
+
+__Ritual, Devotion & Sacred Practice:__ Political engagement on platforms becomes ritualized, with daily consumption of partisan media, participation in outrage cycles, and performance of tribal loyalty functioning as devotional practices.
+
+__Religious Institutions & Doctrinal Authority:__ Religious leaders and institutions participate in platform politics, with evangelical Christians particularly active in right-wing online spaces and progressive religious voices countering from the left.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ QAnon and related conspiracy movements display characteristics of new religious movements, offering cosmological narratives, community belonging, and meaning-making through platform-mediated participation.
+
+__Disenchantment & Sacred Discharge:__ Faith in democratic institutions and shared civic religion erodes as platform-mediated polarization reveals—or creates—unbridgeable divisions; the residue is a widespread cynicism about the possibility of legitimate collective self-governance.

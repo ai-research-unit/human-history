@@ -1,69 +1,140 @@
-# __1600 CE – 1850 CE__ — Qing and Russian Encroachment and Nomadic Decline
-__Summary:__ The Eurasian steppe undergoes terminal subordination to expanding sedentary empires as Qing China and Romanov Russia systematically absorb nomadic polities through military conquest, diplomatic coercion, and demographic pressure; the binding constraint is the gunpowder-enabled military superiority of agrarian empires combined with their bureaucratic capacity to administer conquered territories; the system loses political independence entirely by 1850 though pastoral economy persists; the trend runs from contested autonomy through incremental submission to complete incorporation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The steppe corridor remains geographically continuous but is bisected politically by Russian and Qing expansion meeting in the Altai and Ili regions; river systems (Volga, Irtysh, Ili, Orkhon) become axes of imperial penetration; Cossack fort lines reduce nomadic spatial freedom.<br><br>
-__Climate Regime & Volatility:__ Little Ice Age conditions persist into early 18th century; continental climate with extreme seasonal variation; drought and dzud events continue causing periodic livestock crashes; climate stress contributes to Kazakh submission as pasture margins tighten.<br><br>
-__Hazard Regime & Exposure:__ Dzud events (1723 and later) devastate Kazakh herds and population, creating vulnerability to Dzungar attack and later Russian overtures; smallpox epidemics spread by increased contact with sedentary populations; Dzungar population nearly annihilated by Qing military campaigns and disease (1755–1758).<br><br>
-__Resource & Energy Endowment:__ Grassland biomass remains primary energy base; Russian and Qing presence brings access to manufactured goods but also restricts access to traditional pastures; mineral resources increasingly exploited by imperial powers rather than steppe populations.<br><br>
-__Waste Absorption & Sink Capacity:__ Environmental impact minimal on open steppe; Russian fort towns and agricultural settlements begin soil modification in forest-steppe margins; Qing military campaigns leave devastated zones in Dzungaria; absorptive capacity adequate for dispersed pastoral populations.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Smallpox increasingly devastating as contact with sedentary populations intensifies; Dzungar genocide includes deliberate disease introduction; endemic diseases persist; mortality elevated during conquest periods then stabilizing under imperial peace.<br><br>
-__Nutrition & Physiological Vitality:__ Pastoral diet of meat and dairy sustains nomadic populations when herds intact; dzud and warfare cause episodic starvation; incorporation into empires eventually brings grain access but also alcohol introduction with deleterious effects; vitality declining by mid-19th century.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Traditional polygyny among elites continues; fertility remains high; Dzungar genocide and Kazakh dzud losses create severe demographic disruption; recovery uneven; Russian and Qing settlement bring demographic mixing in some zones.<br><br>
-__Demographic Renewal & Density:__ Dzungar population reduced by approximately 80% through genocide and flight (1755–1758); Kazakh populations suffer major losses in 1720s then partial recovery; Russian settlers begin entering steppe margins; overall steppe density remains low but sedentary populations encroaching.<br><br>
-__Attrition & Dependency Overhang:__ Conquest and genocide create massive dependency burden among survivors; traditional kinship absorption strained; Qing resettles Torghuts and other groups into Dzungaria to fill void; dependency increasingly managed through imperial administration rather than kin networks.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Pastoral subsistence continues but increasingly constrained by territorial loss; Kazakh pastures reduced by Russian settlement; Mongolian pastoralism continues under Qing but with taxation and restrictions; supplementary agriculture spreading in some regions.<br><br>
-__Energy Capture & Conversion:__ Horse and livestock muscle power remains primary; Russian and Qing presence brings manufactured goods (iron tools, textiles) that reduce local production; energy conversion efficiency unchanged but external dependency increasing.<br><br>
-__Labor Organization & Coercion:__ Pastoral labor organization through kinship persists; slave raiding by Crimean Tatars continues until Russian conquest (1783); corvée obligations to imperial powers emerge; wage labor rare but increasing near Russian settlements.<br><br>
-__Production & Surplus Capacity:__ Pastoral surplus in livestock, hides, and wool continues; craft production declines as manufactured imports increase; surplus increasingly extracted by imperial taxation; local productive autonomy eroding.<br><br>
-__Storage, Reserves & Buffering:__ Livestock-on-the-hoof remains mobile reserve; imperial grain stores available during crises but create dependency; buffering capacity against dzud diminished by pasture loss and restricted migration routes.<br><br>
-__Exchange, Trade & Logistics:__ Overland trade routes increasingly controlled by Russian and Qing customs posts; Kazakh livestock traded for Russian manufactures at border fairs (Orenburg, Troitsk); tea and livestock dominate Sino-Mongolian trade through Kyakhta (1728 onward); steppe populations shift from trade controllers to dependent participants.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Livestock remains primary value store for nomads; Russian coinage and Qing silver circulate increasingly; credit through Russian and Chinese merchants creates debt dependencies; traditional gift-exchange relationships persist but diminishing in economic importance.<br><br>
-__Surplus Extraction & Redistribution:__ Imperial taxation (yasak in Russian territories, tribute in Qing) extracts surplus; Kazakh khans and Mongol princes intermediate but with diminishing autonomous redistribution; extraction increasingly feeds imperial rather than local treasuries.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentration among surviving aristocratic lineages continues but subject to imperial favor; Russian and Qing confiscate property from resisters; herds vulnerable to raiding and requisition; wealth increasingly defensible only through imperial accommodation.<br><br>
-__Byproducts & Waste Routing:__ Pastoral waste recycling continues; minimal pollution; Russian settlements begin generating agricultural and proto-industrial waste in steppe margins.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship and tribal solidarity persist but strained by imperial policies encouraging division; trust toward imperial authorities low but pragmatic accommodation necessary; hospitality obligations continue within communities.<br><br>
-__Stratification, Status & Group Identity:__ Genghisid descent loses political relevance as empires abolish khanates; tribal and clan identities persist (Kazakh jüz system, Mongol banners); new status hierarchies emerge based on imperial favor; subject status uniform under empires.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal kinship and inheritance continue; imperial interventions occasionally disrupt succession; clan exogamy persists; family structure stable despite political upheaval.<br><br>
-__Civic Association & Self-Organization:__ Sufi orders continue in Islamized regions; Buddhist monasteries become significant in Mongolia under Qing; tribal assemblies lose decision-making power as imperial administration supersedes; self-organization increasingly channeled through approved religious institutions.<br><br>
-__Leisure, Play & Sociability:__ Traditional sports (horse racing, wrestling, archery) continue; epic recitation persists; Russian and Qing festivals introduce new occasions; sociability patterns largely unchanged at community level.<br><br>
-__Grievance Channels & Social Discharge:__ Migration as exit option severely constrained by imperial boundaries; rebellion harshly suppressed (Dzungar destruction exemplary); grievances channeled through petition to imperial authorities with limited efficacy; significant unmetabolized grievance accumulates.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Steppe political independence eliminated by 1850; Crimean Khanate annexed by Russia (1783); Kazakh khanate abolished (1847); Mongol princes reduced to Qing banner officials; Dzungar Khanate annihilated (1758); authority fully centralized in imperial capitals.<br><br>
-__Succession & Power Transfer:__ Traditional succession disputes rendered moot as empires determine leadership; Qing confirms or appoints Mongol jasaqs (princes); Russian authorities select cooperative Kazakh leaders; hereditary claims subordinated to imperial approval.<br><br>
-__Legitimacy & Political Narrative:__ Imperial legitimacy discourses (Mandate of Heaven, Orthodox Christianity, civilizing mission) supersede Genghisid claims; steppe elites accommodate through conversion, education, and service; indigenous legitimacy narratives survive in oral tradition but lack political effect.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Russian and Qing bureaucracies extend into steppe; banner system in Qing Mongolia; Russian guberniyas and military lines; record-keeping in Russian and Manchu/Chinese; imperial administrative capacity far exceeds anything steppe polities achieved.<br><br>
-__Political Participation & Mobilization:__ Steppe populations become subjects without meaningful political participation; petition and supplication replace negotiation; occasional rebellions (Pugachev 1773–1775 includes Kazakh and Bashkir participation) brutally suppressed; mobilization only through imperial military service.<br><br>
-__Geopolitical Position & External Relations:__ Steppe ceases to be independent geopolitical actor; becomes buffer and battleground between Russian and Qing empires; Treaty of Nerchinsk (1689), Treaty of Kyakhta (1727) define Russo-Qing boundaries across former nomadic territories.<br><br>
-__Coercive Apparatus & Means of Force:__ Gunpowder weapons (artillery, muskets) give decisive advantage to imperial forces; nomadic cavalry effectiveness against disciplined musket infantry declines; fortress lines (Russian) and garrison networks (Qing) project power; steppe populations disarmed or their military capacity channeled into imperial service.<br><br>
-__Internal Order & Threat Environment:__ Imperial conquest brings internal order but through alien domination; banditry suppressed more effectively than under khanates; raiding traditions criminalized; internal order maintained but at cost of political autonomy; resistance treated as rebellion.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Imperial postal systems (Russian yam, Qing courier networks) extend across steppe; information flow serves imperial rather than local needs; oral networks persist among populations; literacy spreading through Russian schools and Buddhist monasteries but slowly.<br><br>
-__Record, Storage & Persistence:__ Imperial archives record steppe affairs in Russian, Manchu, and Chinese; Mongolian script continues in Buddhist contexts; despite Islamic and Buddhist literate traditions among some elites, the majority of steppe populations remain oral; genealogies and traditions persist through memorization and recitation; written records serve imperial administration rather than indigenous purposes.<br><br>
-__Framing, Censorship & Discourse Norms:__ Imperial discourse frames steppe peoples as subjects requiring civilization; indigenous oral traditions continue in private contexts; censorship minimal beyond suppression of rebellion advocacy; discourse increasingly shaped by imperial categories.<br><br>
-__Reception, Attention & Amplification:__ Imperial edicts and policies dominate attention of elites; oral epic traditions maintain cultural memory among common populations; bazaar and market information networks persist; attention bifurcated between imperial demands and community life.<br><br>
-__Signal Integrity & Noise Load:__ Imperial record-keeping improves signal clarity for administrative purposes; oral traditions maintain core narratives despite political disruption; noise increases as competing Russian, Qing, and indigenous information systems overlay.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor, kinship obligation, and hospitality persist as moral foundations; Islamic ethics in Kazakh regions; Buddhist ethics spreading in Mongolia; imperial justice perceived as alien imposition but pragmatically accepted.<br><br>
-__Law, Codification & Regulatory Evolution:__ Imperial law codes (Russian, Qing) supersede indigenous customary law for major matters; Kazakh adat and Mongol customary law persist for local disputes; Islamic sharia continues in private matters; legal pluralism with imperial law dominant.<br><br>
-__Adjudication, Enforcement & Liability:__ Imperial courts handle major cases; local elders and religious figures adjudicate minor disputes; enforcement backed by imperial military power; liability frameworks impose alien categories; traditional blood-price settlements increasingly superseded.<br><br>
-__Rights, Protections & Compliance Burden:__ Subject status brings some protections but no political rights; taxation and military service obligations; movement restrictions at imperial borders; compliance burden heavier than under khanates but violence reduced.<br><br>
-__Impunity & Unredressed Wrong:__ Imperial officials enjoy substantial impunity; conquest-era atrocities (Dzungar genocide) unredressed; indigenous grievances against empire unresolvable; impunity shifts from steppe elites to imperial authorities.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Russian and Qing scientific expeditions survey steppe; botanical, geographical, and ethnographic knowledge accumulates in imperial capitals; Buddhist scholasticism in Mongolian monasteries; indigenous populations largely excluded from formal inquiry.<br><br>
-__Applied Knowledge & Technical Method:__ Pastoral techniques persist; veterinary and animal husbandry knowledge stable; Russian agricultural methods introduced in settlement zones; gunpowder and metallurgical techniques remain imperial monopolies.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Buddhist monastic education spreads in Mongolia; Russian mission schools begin Kazakh education (limited); Islamic madrasas continue in Central Asia; literacy slowly increasing but majority remains non-literate; skill distribution bifurcates between imperial-educated elites and traditional practitioners.<br><br>
-__Obsolescence & Knowledge Decay:__ Indigenous political and military knowledge becomes obsolete under imperial domination; shamanic knowledge declining under Buddhist and Orthodox pressure; practical pastoral knowledge persists; some traditional skills atrophy as manufactured goods replace local production.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Genghisid heritage remains in cultural memory but loses political relevance; tribal and clan identities persist; Kazakh, Mongol, and other ethnic identities crystallize in forms that survive to present; collective memory of independence maintained in oral tradition.<br><br>
-__Artistic Expression & Material Culture:__ Traditional crafts (textiles, metalwork, leatherwork) continue but declining as imports increase; Buddhist art flourishes in Mongolia; Russian material culture penetrates western steppe; horse equipment and portable goods maintain traditional forms.<br><br>
-__Collective Mood & Behavioral Disposition:__ Resignation and pragmatic accommodation predominate; nostalgia for independence persists; Buddhist quietism spreads in Mongolia; periodic resistance reflects frustration; mood darkening as autonomy eliminated.<br><br>
-__Form Exhaustion & Meaning Decay:__ Genghisid political forms entirely exhausted; khanate institutions abolished; tribal identities persist but repurposed; traditional political culture becomes heritage rather than living practice; new imperial subject identities forming but not yet consolidated.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Tibetan Buddhism dominant among Mongols by 1700; Islam continues among Kazakhs and western steppe populations; Russian Orthodoxy introduced through missionary activity; fatalism increasing as political agency eliminated; shamanic worldviews persist in syncretic forms.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Buddhist monastic routine structures Mongolian religious life; Islamic practice (prayer, fasting, pilgrimage where possible) continues among Kazakhs; Orthodox conversion limited but increasing near Russian settlements; shamanic healing and divination persist despite official disapproval.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Buddhist monasteries proliferate in Mongolia under Qing patronage; Jebtsundamba Khutuktu (Living Buddha) becomes spiritual authority; Islamic networks lack equivalent institutional hierarchy but Sufi orders provide structure; Orthodox mission subordinate to Russian state.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism consolidates among Mongols; Islam stable among Kazakhs; Orthodox Christianity spreading at edges; shamanic practices displaced but elements syncretized into Buddhist and Islamic observance; no significant new spiritual movements.<br><br>
-__Disenchantment & Sacred Discharge:__ Political defeat not interpreted as spiritual failure; Buddhist karma and Islamic fatalism provide explanatory frameworks; no significant disenchantment; religious practice remains vital as political autonomy disappears; spiritual need adequately served.<br><br>
+# __1,600 CE – 1,850 CE__ — Qing and Russian Encroachment and Nomadic Decline
+
+__Summary:__ Between 1600 and 1850 CE, the Eurasian Steppe's last independent nomadic polities — the Dzungar Khanate foremost among them — are encircled, dismembered, and absorbed by the expanding Qing and Russian empires, ending three millennia of steppe political autonomy. The binding constraint of oral culture reaches its terminal crisis: nomadic governance, mobilization, and identity still operate through speech, genealogical memory, and oral law, but the encroaching empires wield literate bureaucracies, written treaties, cadastral surveys, and archival memory that outpace oral coordination in durability and reach. The most causal factor is the asymmetry between the oral-political order of the steppe — capable of rapid mobilization but incapable of accumulating institutional memory across generations — and the documentary-administrative order of the agrarian empires, which converts military victories into permanent territorial incorporation through written record, legal codification, and bureaucratic continuity.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The steppe corridor remains geographically open, but Russian fortress lines (the Orenburg and Siberian lines) and Qing military colonies in Xinjiang impose new spatial constraints; nomadic movement is channeled, taxed, and surveilled as never before.
+
+__Climate Regime & Volatility:__ The Little Ice Age persists through the 17th and 18th centuries; harsh winters (dzud) periodically devastate herds; the Dzungars suffer repeated livestock losses in the 1720s–1750s that weaken their capacity to resist Qing campaigns.
+
+__Hazard Regime & Exposure:__ Epizootic disease (rinderpest, foot-and-mouth) and dzud remain the chief acute hazards; the Qing exploit post-disaster weakness to press military advantage.
+
+__Resource & Energy Endowment:__ Grassland remains the fundamental resource, but access shrinks as Qing and Russian agricultural settlers encroach on marginal steppe, plowing pasture for grain; the nomadic territorial base contracts.
+
+__Waste Absorption & Sink Capacity:__ No accumulation crisis; nomadic dispersion and low population density continue to prevent waste buildup; the landscape remains ecologically intact except where agricultural colonization begins soil exhaustion.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Smallpox, introduced by Qing military campaigns and settler contact, devastates immunologically naive steppe populations; the Dzungar collapse (1755–1758) is compounded by epidemic mortality alongside military slaughter; estimates suggest 80% or more of the Dzungar population perished or fled.
+
+__Nutrition & Physiological Vitality:__ Pastoral nutrition remains adequate where herds survive; famine conditions follow dzud, epidemic, and military disruption; refugees from Qing conquest face acute starvation.
+
+__Care, Healing & Recovery Capacity:__ Folk medicine and shamanic healing persist; no capacity exists to counter epidemic smallpox; Tibetan Buddhist medicine spreads among Mongols but offers no effective smallpox treatment.
+
+__Reproductive Biology & Pairing Dynamics:__ Catastrophic population loss among the Dzungars disrupts marriage networks; survivors are absorbed into Qing-administered Mongol banners or flee to Russian territory; reproductive recovery is slow.
+
+__Demographic Renewal & Density:__ The Dzungar genocide is the demographic catastrophe of the period; Kazakh and Mongol populations under Russian and Qing rule fare better but face gradual marginalization as settlers arrive; overall steppe population shifts from nomadic to mixed agricultural-pastoral.
+
+__Attrition & Dependency Overhang:__ War, epidemic, and displacement produce masses of refugees, widows, and orphans; the Qing resettle some survivors as subjects; others perish or are enslaved.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Pastoral subsistence continues where permitted, but Qing and Russian administrations impose taxes, tribute, and restrictions on movement that constrain the pastoral cycle; grain dependence increases as nomads are sedentarized.
+
+__Energy Capture & Conversion:__ Animal muscle remains the energy base; no significant change occurs, though Russian trade introduces some iron tools and manufactures.
+
+__Labor Organization & Coercion:__ Slavery persists but declines; the Qing banner system reorganizes Mongol society into hereditary military-administrative units with corvee obligations; Russian iasak (fur tribute) extracts labor value from Siberian and Kazakh subjects.
+
+__Production & Surplus Capacity:__ Surplus shrinks as pasture access contracts and tribute extraction rises; the steppe's productive base degrades under imperial pressure.
+
+__Storage, Reserves & Buffering:__ Herds remain the primary reserve, but their vulnerability to dzud, disease, and military confiscation leaves nomads with little buffering capacity; Qing grain stores and Russian military logistics provide no safety net for nomadic subjects.
+
+__Exchange, Trade & Logistics:__ Trade shifts to imperial terms; Russian caravans and Qing-licensed merchants replace autonomous steppe traders; nomads become price-takers in markets controlled by sedentary powers; the tea-horse trade and fur trade tie steppe populations into imperial commercial networks.
+
+__Value Storage, Credit & Deferred Exchange:__ Livestock and tribute goods remain the nomadic value store; Russian and Chinese silver circulates at trading posts; credit dependence on imperial merchants grows, creating debt bondage.
+
+__Surplus Extraction & Redistribution:__ Imperial tribute and taxation extract surplus systematically; the Qing banner system and Russian iasak formalize extraction; redistribution serves imperial priorities, not nomadic welfare.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among collaborating elites (Mongol banner princes, Kazakh sultans who submit to Russia); those who resist are dispossessed; land and herd theft by settlers accelerates toward 1850.
+
+__Byproducts & Waste Routing:__ No change from prior periods; nomadic waste dispersal continues; agricultural settlers begin to accumulate localized soil exhaustion.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Chinggisid descent loses political relevance as imperial overlords impose their own legitimacy; Mongol and Kazakh aristocracies are integrated into Qing banner hierarchy or Russian noble ranks; kinship continues to organize daily life but no longer determines sovereignty.
+
+__Association & Mutual Aid:__ Tribal and clan structures persist but are subordinated to imperial administration; mutual aid continues at the local level but cannot organize resistance at scale.
+
+__Leisure, Play & Sociability:__ Traditional games, feasting, and oral poetry continue, now often under the patronage of collaborating elites or at imperially sanctioned gatherings; the content shifts to lament for lost independence alongside entertainment.
+
+__Stratification, Status & Group Structure:__ A new stratification emerges: collaborating elites who accept imperial titles at the top, commoner nomads in the middle, refugees and the dispossessed at the bottom; the old Chinggisid hierarchy is hollowed out.
+
+__Administrative Capacity & Institutional Integrity:__ Nomadic administrative capacity is replaced by imperial bureaucracy; the Qing Lifanyuan (Court of Colonial Affairs) and Russian military governors administer steppe populations through written record and standardized procedure; oral governance is superseded.
+
+__Coercive Apparatus & Means of Force:__ The military balance shifts decisively; Qing and Russian armies deploy firearms, artillery, and fortress networks that nomadic cavalry cannot overcome; the composite bow is obsolete against disciplined musket fire; the Dzungar defeat in the 1750s demonstrates the new asymmetry.
+
+__Discharge, Disorder & Decay:__ Resistance persists in sporadic uprisings (Kazakh resistance to Russian forts, Mongol unrest under Qing rule) but is suppressed; banditry increases as displaced nomads turn to raiding; the social order of independent nomadism decays into dependent marginality.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Grief, humiliation, and nostalgia for lost independence pervade oral tradition; lament poetry (Kazakh zhoqtau) memorializes fallen leaders and lost freedom; trust contracts to kin and tribe as imperial subjects distrust both overlords and collaborating elites.
+
+__Leadership & Personal Authority:__ Charismatic resistance leaders emerge (Amursana among the Dzungars, Kenesary Kasymov among the Kazakhs) but are defeated and killed; collaborating elites derive authority from imperial appointment rather than personal prowess.
+
+__Legitimacy as Lived Allegiance:__ Imperial legitimacy is imposed but not internalized; nomads submit to Qing and Russian power without genuine allegiance; the legitimacy of indigenous leaders depends on their ability to navigate imperial demands while preserving some communal welfare.
+
+__Political Will & Collective Resolve:__ The will to resist collapses after repeated defeats; the Dzungar annihilation demonstrates the futility of resistance; Kazakh and Mongol populations accommodate to imperial rule, preserving cultural identity while abandoning political sovereignty.
+
+__External Relations & Posture:__ Steppe polities become objects rather than subjects of international relations; treaties (Treaty of Nerchinsk 1689, Treaty of Kyakhta 1727) are negotiated between Qing and Russia over nomadic heads; the steppe is partitioned without nomadic consent.
+
+__Disaffection, Apathy & Spent Will:__ By 1850, political will is exhausted; the emotional residue is a diffuse melancholy preserved in oral poetry, awaiting future nationalist movements to rekindle it.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Kazakh, Mongol, and Oirat remain the vernaculars; Tibetan script spreads among Mongols for Buddhist texts; Chagatai Turkic serves as a literary language among some elites; but the mass of the population remains oral and monolingual.
+
+__Channels & Transmission Velocity:__ Imperial postal systems (Qing yizhan, Russian yamskaya) now connect the steppe to imperial centers faster than nomadic messengers can coordinate resistance; information asymmetry favors the empires.
+
+__Record, Storage & Persistence:__ The critical asymmetry: imperial archives accumulate treaties, census records, tax rolls, and military reports; oral memory cannot match this persistence; Qing and Russian administrators know more about steppe populations than those populations know about themselves.
+
+__Framing, Censorship & Discourse Norms:__ Imperial framing redefines nomads as subjects, barbarians in need of civilization; oral counter-narratives (heroic epics, lament poetry) preserve alternative memory but circulate only within the subordinated community.
+
+__Reception, Attention & Amplification:__ Oral tradition continues to function within nomadic communities; Buddhist monasteries among the Mongols introduce a semi-literate layer that stores religious texts but does not challenge imperial information dominance.
+
+__Signal Integrity & Noise Load:__ Oral genealogies and legal traditions persist but are increasingly irrelevant to actual governance; the signal of indigenous oral culture fades as imperial documentary culture becomes normative.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The yasa is remembered but no longer applied; Qing and Russian law supersede indigenous norms; a sense of injustice at conquest and dispossession permeates oral tradition but finds no institutional redress.
+
+__Law, Codification & Regulatory Evolution:__ Qing law (Da Qing lüli) and Russian imperial law are imposed; Mongol customary law is codified by Qing administrators (Khalkha Jirum, 1709) but subordinated to imperial oversight; Kazakh adat continues informally under Russian nominal sovereignty.
+
+__Adjudication, Liability & Sanction:__ Imperial courts adjudicate major disputes; traditional elders handle minor matters under imperial supervision; sanctions include exile to Siberia (Russian), execution, and property confiscation.
+
+__Rights, Protections & Compliance Burden:__ Nomads have no rights against imperial power; compliance burden rises as taxation, corvee, and movement restrictions multiply; the liberty of pastoral mobility is curtailed.
+
+__Impunity & Unredressed Wrong:__ Conquest, genocide (Dzungars), and dispossession go unredressed; the powerful enjoy total impunity; the moral residue is a standing grievance that will fuel later nationalist movements.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No indigenous intellectual inquiry of note; Tibetan Buddhist scholasticism spreads among Mongols but is concerned with religious metaphysics, not natural or political inquiry; Qing and Russian observers produce ethnographic knowledge about the steppe for imperial purposes.
+
+__Applied Knowledge & Technical Method:__ Pastoral techniques persist unchanged; firearms are acquired through trade but not manufactured; metallurgy and leatherwork continue; the technological gap with sedentary powers widens.
+
+__Education, Knowledge Stock & Skill Distribution:__ Buddhist monasteries provide literacy in Tibetan and Mongolian script to a monastic minority; mass illiteracy persists; skill transmission remains oral and apprenticeship-based.
+
+__Obsolescence & Knowledge Decay:__ Military knowledge of horse-archery becomes obsolete against firearms; the tactical repertoire that sustained steppe dominance for millennia loses relevance; oral traditions preserve the memory of old ways now useless.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Chinggisid memory persists as a cultural touchstone but no longer organizes political action; epic poetry (Kazakh Koblandy Batyr, Mongol Jangar) preserves heroic identity in a context of political defeat; identity becomes ethnic-cultural rather than political-imperial.
+
+__Legitimating Narrative & Ideology:__ The old Chinggisid ideology is defunct; no new legitimating narrative emerges; collaborating elites adopt imperial narratives (Confucian hierarchy, Russian autocracy) while commoners preserve nostalgic counter-narratives in oral form.
+
+__Artistic Expression & Material Culture:__ Portable arts continue — metalwork, embroidery, felt — now often produced for trade rather than elite consumption; Buddhist art (thangka, sculpture) spreads among Mongols; architectural patronage shifts to monasteries and Qing-sponsored temples.
+
+__Form Exhaustion & Meaning Decay:__ The heroic epic form persists but refers to a vanished world; the gap between the poetry's heroism and the reality of subjugation produces a melancholic undertone; meaning does not decay so much as shift to preservation of memory against erasure.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Tibetan Buddhism becomes dominant among the Mongols, encouraged by Qing policy as a pacifying influence; Islam consolidates among Kazakhs and other Turkic groups; Tengrism and shamanism persist as folk substrates beneath the official religions.
+
+__Ritual, Devotion & Sacred Practice:__ Buddhist monasteries proliferate among the Mongols; monastic population reaches high proportions (some estimates suggest 30–40% of adult males); Islamic prayer, pilgrimage to local shrines, and Sufi practice structure Kazakh religious life; shamanistic healing and divination continue covertly.
+
+__Religious Institutions & Doctrinal Authority:__ The Qing patronize Tibetan Buddhist hierarchy (Dalai Lama, Jebtsundamba Khutuktu) as instruments of control; Russian Orthodox missionaries make limited inroads among Kazakhs; no centralized Islamic authority governs the Kazakh steppe; religious institutions serve imperial interests or operate locally without coordination.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism and Islam consolidate their respective zones; syncretic blending with shamanism continues at the popular level; no new spiritual movements emerge; the religious map stabilizes.
+
+__Disenchantment & Sacred Discharge:__ No secular disenchantment occurs; if anything, Buddhist monasticism and Islamic devotion intensify as compensations for political defeat; the sacred provides consolation where political hope has failed; the residue is a spiritual culture oriented toward otherworldly salvation rather than this-worldly sovereignty.
+

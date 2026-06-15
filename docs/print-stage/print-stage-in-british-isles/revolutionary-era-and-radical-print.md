@@ -1,69 +1,139 @@
-# __1760 CE – 1815 CE__ — Revolutionary Era and Radical Print
-__Summary:__ Britain confronts successive revolutionary shocks — American independence, French upheaval, Napoleonic warfare — while domestic radical movements deploy print to challenge oligarchic rule; the binding constraint is the tension between expanding popular political consciousness (fueled by Paine, corresponding societies, and cheap pamphlets) and government repression (sedition laws, stamp duties, suspension of habeas corpus), with the system absorbing severe strain through war mobilization and loyalist reaction but trending toward widening cracks in the unreformed order.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island position shields against invasion (aborted 1797, 1805); canal network expanding (1760s–1800s) reduces internal freight friction; turnpikes improving but roads still slow; London remains print and commercial hub; Scottish Highlands and Irish interior more remote.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime climate continues; occasional harvest failures (1795, 1800, 1812) trigger dearth and distress; Tambora eruption (1815) brings "year without summer" at window's close; interannual volatility moderate; no secular drift.<br><br>
-__Hazard Regime & Exposure:__ Flood and storm episodic; fire risk in dense urban quarters; no seismic or volcanic exposure domestically; margin against acute hazard adequate; infrastructure resilient.<br><br>
-__Resource & Energy Endowment:__ Coal extraction intensifying (South Wales, Midlands, North); iron ore abundant; timber scarce, imported for naval stores; water power widespread; drawdown accelerating as industrial revolution proceeds.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban pollution worsening (coal smoke, river effluent); industrial towns (Manchester, Birmingham) concentrating waste; absorptive capacity declining locally but countryside sinks still ample; degradation accumulating.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Smallpox inoculation spreading, Jennerian vaccination from 1798; typhus and typhoid endemic in towns; infant mortality high; overall death rate declining slowly; epidemic plague absent; cholera not yet arrived.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural output rising but population growth absorbing gains; dearth years (1795, 1800) cause hardship among laboring poor; stature stagnating or declining for industrial workers; nutritional trajectory mixed.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage age declining slightly; fertility within marriage high; illegitimacy rising modestly; no major reproductive constraint; selective pressures stable.<br><br>
-__Demographic Renewal & Density:__ Population of England rising from approximately 6.5 to 10 million; Scotland and Ireland growing rapidly; urbanization accelerating (Manchester, Glasgow); density rising but below carrying ceiling; age structure youthful.<br><br>
-__Attrition & Dependency Overhang:__ War casualties (navy, army) modest relative to population; orphans, widows, and aged absorbed by parish relief, friendly societies, and charity; dependency load rising with urbanization but manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural improvement continues (enclosure, crop rotation); grain imports necessary in dearth years; wartime blockade raises prices; poor relief (Speenhamland system from 1795) buffers distress; floor under strain but holding.<br><br>
-__Energy Capture & Conversion:__ Steam power advancing (Watt engine from 1769); coal fueling factories and ironworks; water power still widespread; per-capita work ceiling rising sharply; industrial revolution underway.<br><br>
-__Labor Organization & Coercion:__ Factory system emerging (cotton mills); wage labor expanding; Combination Acts (1799–1800) suppress unions; child and female labor exploited; coercion rising through market discipline and anti-combination law; organization shifting.<br><br>
-__Production & Surplus Capacity:__ Cotton textiles, iron, and coal output surging; protoindustrial and factory production coexist; surplus flow rising despite wartime disruptions.<br><br>
-__Storage, Reserves & Buffering:__ Commercial inventories, Bank of England reserves, and merchant capital buffer shocks; wartime credit strain (1797 suspension of gold payments) absorbed; reserves adequate though tested.<br><br>
-__Exchange, Trade & Logistics:__ Atlantic trade disrupted by American independence; continental system (Napoleonic blockade) constrains European markets; canals and coastal shipping expand internal trade; clearing velocity maintained despite external pressure.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Sterling off gold standard 1797–1821; inflation moderate; country banks proliferate; bills of exchange circulate; capital formation continues; purchasing power eroding but not collapsing.<br><br>
-__Surplus Extraction & Redistribution:__ Income tax introduced 1799; customs, excise, and loans fund war expenditure; national debt soaring; extraction load heavy but borne; redistribution via poor relief and military spending.<br><br>
-__Wealth Distribution & Asset Defense:__ Wartime fortunes made in contracting and finance; landed wealth stable; inequality widening; property defended by law and force; no confiscation threat; concentration increasing.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent (dyes, chemicals, slag) dumped into rivers and spoil heaps; coal smoke blankets towns; routing to local sinks; absorptive capacity strained in industrial districts.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust under strain as class tensions rise; friendly societies and Methodist chapels provide mutual aid; loyalist associations mobilize against radicals; trust radius narrowing along political lines.<br><br>
-__Stratification, Status & Group Identity:__ Class consciousness sharpening (laboring poor, middling, gentry, aristocracy); religious and national identities (English, Scottish, Irish; Protestant, Catholic) active; factionalism intensifying.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear household norm persists; factory labor disrupts family economy; primogeniture for land; kinship scaffold stable but household structure adapting to industrial employment.<br><br>
-__Civic Association & Self-Organization:__ Corresponding societies, debating clubs, and reform associations proliferate; government suppression (Seditious Meetings Act 1795) drives activity underground; associational fabric contested.<br><br>
-__Leisure, Play & Sociability:__ Alehouses, fairs, and popular sports continue; Sunday schools and Methodist meetings compete for time; sociability shaped by class and political affiliation; festive calendar observed but politicized.<br><br>
-__Grievance Channels & Social Discharge:__ Food riots, machine-breaking (Luddism from 1811), and radical meetings express grievance; repression (Peterloo foreshadowed) channels dissent toward confrontation; friction accumulating; standing instability rising.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Constitutional monarchy continues; unreformed Parliament dominated by landed oligarchy; Crown influence declining; ministerial government (Pitt, Liverpool) centralizes war administration; power stable but legitimacy contested.<br><br>
-__Succession & Power Transfer:__ George III's reign continuous but incapacity (madness) triggers Regency crisis (1811); ministerial succession via patronage and parliamentary confidence; transfer routinized but contested during crises.<br><br>
-__Legitimacy & Political Narrative:__ Constitution celebrated as bulwark against French tyranny; radical narrative (Paine's Rights of Man) challenges oligarchic rule; legitimacy polarized between loyalist and reformist camps; erosion among excluded groups.<br><br>
-__Administrative Capacity & Institutional Integrity:__ War office, admiralty, and treasury expand capacity; income tax and recruitment attest administrative reach; corruption present (sinecures, jobbery) but functional; capacity sufficient for total war mobilization.<br><br>
-__Political Participation & Mobilization:__ Electorate narrow; reform agitation (Wilkes, Wyvill, corresponding societies) demands wider franchise; government repression (suspension of habeas corpus, Combination Acts) constrains mobilization; channels narrowing under wartime pressure.<br><br>
-__Geopolitical Position & External Relations:__ Loss of American colonies (1783) reconfigured but not fatal; revolutionary and Napoleonic wars dominate; coalitions against France; naval supremacy (Trafalgar 1805); Indian expansion; external position strengthening despite setbacks.<br><br>
-__Coercive Apparatus & Means of Force:__ Royal Navy dominant; army expanded for war (Peninsula, Waterloo); yeomanry and militia for internal order; flintlock musket and cannon standard; command centralized; monopoly on force secure but tested by unrest.<br><br>
-__Internal Order & Threat Environment:__ Irish rebellion (1798) suppressed; Luddism, food riots, and radical meetings challenge order; spy networks and repression contain threat; enforcement capacity strained but adequate; margin narrowing.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Newspapers (Times from 1785) circulate daily; pamphlets (Paine's Rights of Man sells 200,000+) reach mass audience; coffee houses and alehouses relay news; postal service expanding; reach extending across literate and semi-literate strata.<br><br>
-__Record, Storage & Persistence:__ Archives, court records, newspapers, and printed books accumulate; Hansard (from 1803) records Parliament; libraries expanding; record durability high; knowledge surviving turnover.<br><br>
-__Framing, Censorship & Discourse Norms:__ Sedition prosecutions, stamp duties, and publisher imprisonment constrain radical press; loyalist counter-propaganda (Anti-Jacobin Review) competes; discourse band narrowing under wartime repression but not closed.<br><br>
-__Reception, Attention & Amplification:__ Radical pamphlets read aloud in taverns and workshops; loyalist sermons and broadsides counter; amplification intense on both sides; attention polarized around war and reform.<br><br>
-__Signal Integrity & Noise Load:__ Partisan framing extreme; government-sponsored propaganda and radical polemic compete; cross-checking possible but difficult; signal-to-noise degraded; verification under strain.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Property rights and social order foundational for elite; natural rights rhetoric (Paine) appeals to excluded; fairness contested across class lines; baseline conscience fractured.<br><br>
-__Law, Codification & Regulatory Evolution:__ Criminal code expanding (Combination Acts, Treason Acts); statute law proliferating for wartime regulation; legal evolution repressive in direction during conflict.<br><br>
-__Adjudication, Enforcement & Liability:__ Assize courts and magistrates process sedition cases; jury trials for treason; enforcement vigorous against radicals; transportation and hanging for serious offenses; throughput adequate but politicized.<br><br>
-__Rights, Protections & Compliance Burden:__ Habeas corpus suspended repeatedly (1794, 1798, 1817); Combination Acts criminalize unions; press freedoms constrained; compliance burden heavy for radicals; Dissenters and Catholics still face disabilities.<br><br>
-__Impunity & Unredressed Wrong:__ Government agents provocateurs largely unpunished; industrial injuries uncompensated; poor face harsher justice; impunity present; redress gap widening under repression.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Newtonian physics reigns; chemistry advancing (Lavoisier, Dalton); political economy emerging (Smith's Wealth of Nations 1776); discovery frontier in chemistry, geology, natural history.<br><br>
-__Applied Knowledge & Technical Method:__ Steam engines, textile machinery, iron puddling translate theory into industrial technique; engineering as applied science emerging; method spreading through apprenticeship and printed manuals.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Grammar schools, universities, and Dissenting academies train elite and middling; Sunday schools spread basic literacy; literacy rising (perhaps 65% male, 50% female by 1815); knowledge stock expanding; skill distribution widening but uneven.<br><br>
-__Obsolescence & Knowledge Decay:__ Phlogiston theory overthrown; older craft techniques superseded by machinery; error cleared through scientific controversy and industrial competition; no major loss of useful knowledge.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Protestant Englishness and constitutional liberty foundational; anti-French and anti-revolutionary identity mobilized; Irish and Scottish identities suppressed or co-opted; collective self-image patriotic, embattled.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical architecture, Romantic poetry (Blake, Wordsworth, Byron), political caricature (Gillray, Rowlandson) define material surface; consumer goods proliferating; aesthetic norms shifting from Augustan restraint to Romantic expressiveness.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood polarized — loyalist patriotism against radical hope; wartime anxiety and dearth-year distress darken outlook for poor; risk perception elevated; behavioral temper volatile, politicized.<br><br>
-__Form Exhaustion & Meaning Decay:__ Augustan conventions exhausted; Romantic forms renewing; satirical print thriving; political symbols potent; anomie low despite turmoil; meaning contested rather than decayed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian theism dominant; Deism declining; Evangelical piety rising; fatalism rejected for providential patriotism; doubt marginal; secularism rare outside radical circles.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Anglican parish worship stable; Methodist and Evangelical revivals intensify devotion; Dissenting chapels active; Catholic worship constrained in Britain, dominant in Ireland; sacred practice vigorous.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Established Church allied with state; Methodism expanding outside establishment; Catholic Emancipation not yet achieved; doctrinal authority contested by Evangelicals and Dissenters but not collapsing.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Evangelicalism spreading among laboring and middling classes; Methodism reaching new populations; Catholic Ireland resisting Protestant establishment; no major displacement but competitive diffusion.<br><br>
-__Disenchantment & Sacred Discharge:__ Radical Enlightenment (Paine, Godwin) promotes secular reason; mainstream remains devout; transcendence intact for majority; existential void not widespread; disenchantment limited to intellectual radicals.<br><br>
+# __1760 CE – 1815 CE — Revolutionary Era and Radical Print__
+
+The American and French Revolutions demonstrated that print could mobilize mass politics beyond the coffeehouse elite, prompting the British state to deploy seditious libel prosecution, the Stamp Acts, and eventually the Six Acts to contain radical pamphleteering; the binding constraint shifts from fiscal suppression to legal repression, as cheap print escapes the stamp net and the government responds with prosecution, suspension of habeas corpus, and treason trials — the tension between expanding literacy and intensified censorship defines the trend.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ London remains the print center, but provincial newspapers multiply in Manchester, Birmingham, Sheffield, and Leeds as industrial towns grow. Canal construction (1760s–1790s) and turnpike improvement accelerate distribution; newspapers reach factory towns within days. Scotland and Ireland maintain distinct print cultures; Dublin's press contracts after the 1800 Union centralizes politics in Westminster.
+
+__Climate Regime & Volatility:__ Volcanic disruption (Laki eruption 1783) and erratic harvests punctuate the period; the severe winter of 1794–1795 and harvest failures of 1795 and 1800 drive bread prices up, fueling radical agitation. Print campaigns address scarcity, enclosure, and relief.
+
+__Hazard Regime & Exposure:__ Factory towns concentrate fire risk in densely built wooden structures; print shops share urban hazards. Naval war exposes coastal towns to blockade anxiety; invasion scares (1797–1798, 1803–1805) generate patriotic print mobilization.
+
+__Resource & Energy Endowment:__ Coal powers emerging steam engines; iron production expands. Paper mills multiply but rag supply constrains output; experiments with alternative fibers begin. The hand press persists; Stanhope's iron press (1800) improves durability and impression quality.
+
+__Waste Absorption & Sink Capacity:__ Industrial effluent fouls rivers near factory towns; London's Thames worsens. Print production itself remains artisanal and low-waste. The landscape absorbs canal construction and enclosure, altering drainage and ecology.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Urban mortality remains high; typhus, smallpox, and tuberculosis concentrate in slums and factory housing. Vaccination (Jenner 1796) begins to reduce smallpox mortality. Print campaigns publicize inoculation and sanitary reform.
+
+__Nutrition & Physiological Vitality:__ Factory workers and agricultural laborers subsist on bread, potatoes, and tea; protein intake is low. Enclosure reduces access to commons, tightening the provisioning floor. Print debates food prices and Poor Law reform.
+
+__Care, Healing & Recovery Capacity:__ Hospitals expand (voluntary hospital movement); dispensaries serve the urban poor. Medical training improves at Edinburgh and London; midwifery professionalizes. Print circulates medical advice, quack advertisements, and public health controversy.
+
+__Reproductive Biology & Pairing Dynamics:__ Early marriage in factory towns raises fertility; child labor integrates children into household income. Bastardy and parish relief intersect; print debates moral reform and settlement laws.
+
+__Demographic Renewal & Density:__ Population accelerates: England from six million (1760) toward ten million (1811). Urban growth outpaces rural; Manchester, Birmingham, and Liverpool swell. Density strains housing, sanitation, and parish relief.
+
+__Attrition & Dependency Overhang:__ War casualties (army, navy) leave widows and orphans; industrial accidents disable workers. Poor Law expenditure rises sharply; Speenhamland system (1795) supplements wages from rates. Print debates pauperism and reform.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Enclosure consolidates agriculture, raising yields but displacing cottagers. Bad harvests spike bread prices; food riots recur (1795, 1800, 1812). Radicals print pamphlets linking scarcity to war taxation and enclosure.
+
+__Energy Capture & Conversion:__ Steam power transforms textile production (Arkwright, Crompton, Cartwright); coal consumption rises. Printing remains hand-powered, but steam-press experiments (Koenig, The Times 1814) foreshadow mechanization beyond this window.
+
+__Labor Organization & Coercion:__ Factory discipline replaces artisan autonomy; Combination Acts (1799–1800) ban trade unions. Wage labor predominates in industry; agricultural laborers face enclosure and declining customary rights. Print circulates radical labor politics and employer counter-propaganda.
+
+__Production & Surplus Capacity:__ Industrial output surges; cotton, iron, and coal lead. Print editions remain limited by hand composition, but pamphlet runs of 10,000–50,000 reach mass audiences during crises. War disrupts export markets; blockade and Continental System constrain trade.
+
+__Storage, Reserves & Buffering:__ National debt balloons under war finance (reaching 200% of GDP by 1815); Bank of England suspends gold payment (1797–1821). Private credit expands; bill discounting lubricates commerce. Print debates currency, debt, and taxation.
+
+__Exchange, Trade & Logistics:__ The post office expands; franking privileges allow MPs to distribute pamphlets free. Smuggling evades blockade; coastal trade sustains domestic circulation. Newspaper distribution professionalizes; wholesale agents emerge.
+
+__Value Storage, Credit & Deferred Exchange:__ Paper currency proliferates after gold suspension; inflation erodes purchasing power. Country banks issue notes; bank failures (1793, 1797, 1810–1816) cause panics. Print debates bullion, currency reform, and credit crises.
+
+__Surplus Extraction & Redistribution:__ War taxes (income tax 1799, assessed taxes, customs) extract unprecedented revenue. Poor rates rise sharply. Print radicals attack "Old Corruption" — sinecures, pensions, and war profiteering.
+
+__Wealth Distribution & Asset Defense:__ Landowners benefit from high grain prices; industrialists accumulate capital. The propertied defend holdings through entail, settlement, and investment in government debt. Print exposes inequality and attacks aristocratic privilege.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates; factory effluent fouls waterways. Financial mispricing surfaces in speculative bubbles (canal mania 1790s). Bankruptcy clears some bad debt; much accumulates.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Industrial wages loosen patriarchal control; young workers marry earlier and live independently. Primogeniture persists among landed families; younger sons enter professions, military, or clergy. Print circulates conduct literature and family advice.
+
+__Association & Mutual Aid:__ Friendly societies, benefit clubs, and nascent trade unions organize workers despite legal prohibition. Corresponding societies (London Corresponding Society 1792) link radicals across towns. Print enables coordination and ideological dissemination.
+
+__Leisure, Play & Sociability:__ Alehouses, taverns, and coffeehouses host reading and debate. Sunday schools and chapel culture structure nonconformist sociability. Radical meetings attract surveillance; loyalist associations counter-mobilize.
+
+__Stratification, Status & Group Structure:__ The "middling sort" expands; factory owners, merchants, and professionals claim status. The laboring poor remain excluded from formal politics; radicals demand inclusion. Print articulates class consciousness and conflict.
+
+__Administrative Capacity & Institutional Integrity:__ Parliament legislates war finance and repression; cabinet government consolidates under Pitt. Local administration remains fragmented; magistrates enforce order unevenly. Print debates reform of representation (rotten boroughs, pocket boroughs).
+
+__Coercive Apparatus & Means of Force:__ The army deploys domestically against food riots and radical meetings (Peterloo 1819 lies just beyond this window, but Spa Fields 1816 is within). Volunteer corps and yeomanry supplement regulars. The navy secures maritime supremacy (Trafalgar 1805). Spies infiltrate radical societies.
+
+__Discharge, Disorder & Decay:__ Food riots, machine-breaking (Luddism 1811–1816), and radical agitation challenge order. Naval mutinies (Spithead, Nore 1797) expose grievance. Treason trials (1794) and suspension of habeas corpus (1794–1801, 1817) indicate regime strain. Print both incites and reports disorder.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The French Revolution polarizes opinion: initial enthusiasm gives way to loyalist reaction after the Terror. Anti-Jacobin sentiment, fear of invasion, and patriotic fervor coexist with radical hope. Print amplifies both loyalty and dissent.
+
+__Leadership & Personal Authority:__ Pitt the Younger dominates politics (1783–1801, 1804–1806); his authority rests on parliamentary skill and war leadership. Radical leaders (Thomas Hardy, John Thelwall, Thomas Paine in absentia) inspire followings through print and oratory.
+
+__Legitimacy as Lived Allegiance:__ The Hanoverian monarchy retains popular affection (George III's Jubilee 1809); parliamentary government commands propertied allegiance. Radicals challenge the legitimacy of an unrepresentative Parliament; loyalists defend the constitution.
+
+__Political Will & Collective Resolve:__ War against revolutionary and Napoleonic France sustains mobilization for over two decades; national debt, conscription (naval impressment), and taxation test resolve. Print propaganda maintains morale; radical print questions the war's purpose.
+
+__External Relations & Posture:__ Britain pursues coalition warfare against France, subsidizing continental allies. Naval supremacy secures commerce and empire. Print celebrates victories (Nile, Trafalgar, Waterloo) and shapes public understanding of the struggle.
+
+__Disaffection, Apathy & Spent Will:__ War-weariness accumulates; demobilization after 1815 floods the labor market. Radical agitation intensifies postwar; repression follows. Print channels both exhaustion and renewed demand for reform.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English dominates; literacy rises toward 60% among men, lower among women. Welsh, Gaelic, and Irish persist among minority readerships. Cheap pamphlets (Paine's Rights of Man sells perhaps 200,000 copies) reach semi-literate audiences through reading aloud.
+
+__Channels & Transmission Velocity:__ Daily and tri-weekly newspapers in London; weekly in provinces. The post carries stamped papers; unstamped pamphlets circulate hand-to-hand. Corresponding societies use mail to coordinate; government intercepts suspect letters.
+
+__Record, Storage & Persistence:__ The British Museum, Bodleian, and university libraries accumulate printed matter. Copyright deposit ensures preservation. Newspaper files survive unevenly; radical pamphlets are often ephemeral and later rare.
+
+__Framing, Censorship & Discourse Norms:__ Seditious libel prosecutions intensify (Paine convicted in absentia 1792). The Stamp Acts raise newspaper prices; unstamped pamphlets evade the tax but risk prosecution. Fox's Libel Act (1792) empowers juries to judge libel, not just publication.
+
+__Reception, Attention & Amplification:__ Radical pamphlets are read aloud in taverns and workshops; loyalist associations distribute counter-literature. Pamphlet wars sustain public attention; Burke vs. Paine defines the debate. Sermons and handbills amplify print messages.
+
+__Signal Integrity & Noise Load:__ Propaganda, rumor, and government-planted stories circulate alongside verified news. Anonymity and pseudonymity remain common. Accuracy varies; partisan bias is transparent.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The Rights of Man articulates natural rights against hereditary privilege; Burke's Reflections defends prescription and tradition. Both positions circulate in print, contesting the moral basis of political order.
+
+__Law, Codification & Regulatory Evolution:__ Common law governs; statute addresses specific crises (Treasonable Practices Act, Seditious Meetings Act 1795). The Combination Acts (1799–1800) criminalize worker organization. Print debates the justice of repressive legislation.
+
+__Adjudication, Liability & Sanction:__ Treason trials (1794) result in acquittals, demonstrating jury independence. Seditious libel convictions send printers and booksellers to prison. Transportation to Australia punishes some political offenders.
+
+__Rights, Protections & Compliance Burden:__ Habeas corpus is suspended during crises; press freedom is constrained by prosecution and taxation. Property rights remain secure for the propertied; the poor lack effective legal protection. Compliance burden for printers includes stamp purchase, registration, and risk of prosecution.
+
+__Impunity & Unredressed Wrong:__ Government agents and informers act with impunity; wrongful prosecutions occur. Radical martyrs (Thomas Muir, Thomas Palmer) are transported. The gap between formal justice and political prosecution remains wide.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Political economy emerges (Smith's Wealth of Nations 1776); utilitarian philosophy develops (Bentham). Natural science advances (chemistry, geology, botany). Print disseminates Enlightenment ideas and their radical application.
+
+__Applied Knowledge & Technical Method:__ Industrial technique transforms production (steam power, machine tools). Agricultural improvement (crop rotation, selective breeding) raises yields. Print circulates technical manuals, patent specifications, and improvement literature.
+
+__Education, Knowledge Stock & Skill Distribution:__ Sunday schools expand literacy among the poor; dissenting academies educate the middling sort. Scottish universities lead in medicine and philosophy. Mechanics' institutes (founded 1823, beyond this window, but precursors exist) will formalize working-class education.
+
+__Obsolescence & Knowledge Decay:__ Artisan skills decline as machinery replaces craft; handloom weavers face obsolescence. Classical learning persists in elite education but loses practical relevance. Print both preserves and accelerates knowledge turnover.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The ancient constitution, Magna Carta, and the Glorious Revolution anchor national identity; radicals invoke these traditions against the unreformed Parliament. Britannia and John Bull personify the nation; patriotic songs (Rule Britannia, God Save the King) unify sentiment.
+
+__Legitimating Narrative & Ideology:__ Burke's conservatism defends the constitution against innovation; Paine's radicalism demands natural rights and representative government. Print circulates both, enabling a public contest of ideologies. The war against revolutionary France is framed as defense of order against anarchy.
+
+__Artistic Expression & Material Culture:__ Romantic sensibility emerges (Blake, Wordsworth, Coleridge); Gothic revival begins in architecture. Caricature (Gillray, Rowlandson) satirizes politics; print reproduction disseminates images widely. Dress simplifies under revolutionary influence; the frock coat and trousers replace knee breeches among reformers.
+
+__Form Exhaustion & Meaning Decay:__ Augustan forms (heroic couplet, satiric essay) yield to Romantic experiment; the polite essay gives way to political pamphlet and review. Classical allusion remains but is challenged by vernacular directness. Print culture itself diversifies, fragmenting the unitary public sphere.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Providential Protestantism frames the war as divine contest; radicals invoke natural religion or skepticism. Deism and freethinking circulate among intellectuals; popular piety remains traditional. Print debates theology, morality, and the grounds of belief.
+
+__Ritual, Devotion & Sacred Practice:__ Anglican liturgy structures public worship; dissenters maintain separate chapels. Methodism expands rapidly, organizing revival meetings, hymn-singing, and class meetings. Print circulates sermons, hymns, and devotional literature.
+
+__Religious Institutions & Doctrinal Authority:__ The Church of England remains established; Test and Corporation Acts exclude dissenters from office (repealed 1828, beyond this window). Catholic emancipation is debated. Evangelical revival energizes both Anglicanism and dissent.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Methodism spreads among the laboring poor, providing discipline, community, and emotional release. Print enables hymn distribution and doctrinal dissemination. Missionary societies (London Missionary Society 1795, Church Missionary Society 1799) begin overseas work.
+
+__Disenchantment & Sacred Discharge:__ Elite skepticism persists; radical deism challenges orthodoxy. Popular piety remains robust; revival counters disenchantment. The sacred retains its grip among the majority; secularizing drift is a minority current, channeled through print but not dominant.

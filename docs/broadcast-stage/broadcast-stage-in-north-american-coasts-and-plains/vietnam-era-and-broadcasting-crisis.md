@@ -1,69 +1,139 @@
-# __1968 CE – 1980 CE__ — Vietnam Era and Broadcasting Crisis
-__Summary:__ The North American broadcast system during the Vietnam War, Watergate, and their aftermath, spanning the continental United States and Canada from Atlantic seaboard through Great Lakes and Mississippi Valley. Network television remains the dominant mass medium but faces unprecedented credibility strain as war footage and political scandal erode institutional trust. The binding constraint is the tension between broadcast journalism's claim to objectivity and public disillusionment with official narratives. The system retains technical capacity and commercial viability but operates with diminishing legitimacy margin as cable infrastructure begins to form on the periphery.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Continental broadcast infrastructure mature, coaxial backbone and microwave relay networks spanning coast to coast, Appalachian and Rocky Mountain terrain requiring relay stations, Great Lakes and Mississippi corridors well-served by regional affiliates.<br><br>
-__Climate Regime & Volatility:__ Standard temperate and continental regimes with seasonal storms occasionally disrupting transmission, no secular shift materially affecting broadcast operations within the window.<br><br>
-__Hazard Regime & Exposure:__ Hurricane exposure along Gulf and Atlantic coasts, tornado alley disruptions, occasional transmission interruptions from severe weather, but infrastructure redundancy and backup systems adequate to absorb normal hazard load.<br><br>
-__Resource & Energy Endowment:__ Abundant domestic coal, petroleum, and natural gas powering electrical grid, uranium for expanding nuclear capacity, hydroelectric resources in Northeast and Pacific Northwest, energy endowment sufficient for broadcast infrastructure expansion.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial effluent and urban air pollution prompting environmental legislation (Clean Air Act 1970, Clean Water Act 1972), sink saturation newly politicized but broadcast infrastructure's direct environmental load negligible relative to heavy industry.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease load low by historical standards, infant mortality continuing decline, life expectancy rising, chronic disease displacing infectious disease as primary mortality driver, Vietnam War casualties a visible but demographically minor load.<br><br>
-__Nutrition & Physiological Vitality:__ Population generally well-nourished, obesity emerging as concern, processed food consumption rising, stature stable at historical highs, physiological vitality adequate though lifestyle diseases trending upward.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Birth control pill enabling reproductive timing control, marriage age rising slightly, divorce rates climbing sharply post-1970, fertility falling below replacement by late 1970s as baby boom generation delays childbearing.<br><br>
-__Demographic Renewal & Density:__ Post-baby-boom birth decline, population growth slowing, suburban expansion continuing, Sunbelt migration accelerating, urban cores losing population, age structure shifting toward working-age majority.<br><br>
-__Attrition & Dependency Overhang:__ Veterans returning with physical and psychological wounds requiring care, elderly population share growing modestly, dependency ratio manageable but Vietnam veteran support needs adding to load.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning secure for majority, poverty declining through early 1970s then stagnating, inflation eroding purchasing power late decade, energy shocks (1973, 1979) straining household budgets, food supply adequate but costs rising.<br><br>
-__Energy Capture & Conversion:__ Petroleum-dependent economy shocked by OPEC embargo 1973 and Iranian revolution 1979, gasoline shortages, nuclear expansion contested, coal and natural gas backstopping grid, efficiency gains beginning, conversion regime disrupted but adapting.<br><br>
-__Labor Organization & Coercion:__ Union membership peaking then declining, manufacturing employment stable then contracting, service sector expanding, women entering workforce in greater numbers, labor organization fragmenting as industrial base erodes.<br><br>
-__Production & Surplus Capacity:__ Industrial production strong early window, stagflation constraining output late decade, surplus generation slowing relative to postwar boom, productivity growth decelerating, manufacturing facing early competition pressure.<br><br>
-__Storage, Reserves & Buffering:__ Strategic Petroleum Reserve established 1975 post-embargo, grain reserves adequate, corporate cash positions variable, inflationary pressure eroding value of cash reserves, buffering capacity strained by price volatility.<br><br>
-__Exchange, Trade & Logistics:__ Domestic distribution networks mature, interstate highway system complete, containerization expanding, trade deficit emerging, dollar devalued off gold standard 1971, logistics efficient but import dependence growing.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Dollar losing purchasing power to high inflation, interest rates climbing to double digits by 1980, credit available but costly, stagflation eroding savings, gold and real estate emerging as inflation hedges.<br><br>
-__Surplus Extraction & Redistribution:__ Federal tax burden stable, Great Society programs maturing, military spending declining from Vietnam peak, transfer payments expanding, redistribution contested as economic growth slows.<br><br>
-__Wealth Distribution & Asset Defense:__ Inequality at postwar lows early window, beginning upward trend by 1980, homeownership high, stock market stagnant, inflation eroding fixed-income wealth, asset defense via real property and commodities.<br><br>
-__Byproducts & Waste Routing:__ Environmental regulation tightening, industrial waste disposal newly constrained, Love Canal 1978 dramatizing toxic legacy, waste routing shifting toward containment and treatment, compliance costs rising.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust declining through window, Vietnam and Watergate eroding confidence in institutions, generational divide between war supporters and opponents, community cohesion fraying in suburban dispersal.<br><br>
-__Stratification, Status & Group Identity:__ Racial integration proceeding unevenly, women's movement challenging gender hierarchy, white ethnic identity politics emerging, class boundaries relatively permeable but economic mobility slowing by decade's end.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family model straining, divorce rates doubling, single-parent households rising, extended family networks attenuating in suburban geography, inheritance patterns stable but family structure diversifying.<br><br>
-__Civic Association & Self-Organization:__ Traditional civic organizations (churches, lodges, unions) beginning decline, new social movements (environmental, feminist, consumer) organizing outside established channels, associational fabric transitioning.<br><br>
-__Leisure, Play & Sociability:__ Television dominating evening leisure, spectator sports expanding, disco and rock culture dividing generationally, outdoor recreation growing, sociability increasingly mediated through screen and headphone.<br><br>
-__Grievance Channels & Social Discharge:__ Antiwar protests, civil rights continuation, women's movement, and environmental activism channeling discontent, some grievance absorbed through reform legislation, residual polarization and alienation accumulating.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Federal executive power expanded under Johnson and Nixon, congressional reassertion post-Watergate (War Powers Act 1973, Budget Act 1974), power balance shifting but federal apparatus intact, authority concentration contested.<br><br>
-__Succession & Power Transfer:__ Nixon resignation 1974 first presidential departure under scandal pressure, Ford unelected succession, Carter outsider election 1976, succession mechanisms strained but functional, peaceful transfer maintained.<br><br>
-__Legitimacy & Political Narrative:__ Cold War anticommunism continuing but credibility gap widening as Vietnam policy fails, Watergate shattering executive trust, legitimacy crisis most acute 1973-1974, partial recovery under Carter moral framing.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Federal bureaucracy competent but distrusted, regulatory expansion (EPA, OSHA, CPSC), intelligence agencies exposed and reformed, corruption revealed at highest levels but institutional capacity retained.<br><br>
-__Political Participation & Mobilization:__ Voter turnout declining, protest politics peaking early then subsiding, grassroots organizing fragmenting into single-issue movements, participation shifting from parties to cause-based mobilization.<br><br>
-__Geopolitical Position & External Relations:__ Vietnam withdrawal 1973-1975, detente with USSR, China opening, Middle East engagement post-1973 war, superpower status intact but projection capacity constrained by war exhaustion and public skepticism.<br><br>
-__Coercive Apparatus & Means of Force:__ Military demoralized post-Vietnam, draft ended 1973 shifting to all-volunteer force, nuclear arsenal maintained, police forces controversial after urban unrest, coercive capacity intact but legitimacy questioned.<br><br>
-__Internal Order & Threat Environment:__ Urban crime rising, domestic terrorism (Weather Underground, SLA) episodic, drug trafficking expanding, disorder elevated but not overwhelming enforcement capacity, crime fear exceeding statistical risk.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Three broadcast networks (NBC, CBS, ABC) dominating national news, evening newscasts reaching 50+ million nightly, radio declining but present, newspapers strong locally, transmission instantaneous nationwide via broadcast but channel options narrow.<br><br>
-__Record, Storage & Persistence:__ Television archives incomplete (film and early videotape), newspaper morgues preserved, Watergate tapes creating precedent for executive recording, broadcast ephemeral but key moments preserved on film.<br><br>
-__Framing, Censorship & Discourse Norms:__ Network news claiming objectivity while facing credibility attacks from left and right, Fairness Doctrine requiring balance, explicit censorship rare but advertiser and affiliate pressure shaping coverage, Vietnam images controversial.<br><br>
-__Reception, Attention & Amplification:__ Mass audience fragmenting only slightly, evening news still communal ritual, Roots miniseries 1977 demonstrating broadcast's convening power, attention concentrated on few channels enabling amplification of chosen stories.<br><br>
-__Signal Integrity & Noise Load:__ Official sources losing credibility (credibility gap, Pentagon Papers, Watergate), verification capacity of journalism tested and partially vindicated, noise from official disinformation counterbalanced by investigative reporting.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Consensus fragmenting between law-and-order and civil liberties camps, Watergate reinforcing rule-of-law principle while Vietnam crimes (My Lai) testing application, justice sense contested across generational and political lines.<br><br>
-__Law, Codification & Regulatory Evolution:__ Environmental legislation expanding, civil rights enforcement continuing, campaign finance reform post-Watergate, broadcast regulation via FCC Fairness Doctrine maintained, regulatory state expanding.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts processing Watergate cases, Supreme Court ordering Nixon tapes release, media liability in libel constrained by Times v. Sullivan precedent, judicial throughput adequate for political cases.<br><br>
-__Rights, Protections & Compliance Burden:__ Press freedom robust (Pentagon Papers case 1971), individual rights expanding through Warren Court legacy, compliance burden on broadcasters moderate via FCC licensing, rights regime protective of journalism.<br><br>
-__Impunity & Unredressed Wrong:__ Nixon pardoned, many Vietnam-era wrongs (bombing, war crimes) unprosecuted, corporate malfeasance lightly sanctioned, selective accountability pattern visible, some impunity institutionalized via pardon power.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Social sciences dominant in policy, systems theory and cybernetics influential, media effects research (cultivation theory, agenda-setting) emerging, Vietnam prompting foreign policy reexamination, paradigms contested but productive.<br><br>
-__Applied Knowledge & Technical Method:__ Color television standard, satellite transmission operational, videotape editing improving, electronic news gathering (ENG) replacing film by late 1970s, cable technology developing, methods advancing steadily.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ College enrollment high (baby boom cohorts), journalism programs expanding, technical training adequate, literacy near-universal, knowledge stock growing, skill distribution broadening through education.<br><br>
-__Obsolescence & Knowledge Decay:__ Film-based news production obsolescing, early broadcast archives deteriorating physically, institutional memory of pre-television era fading, knowledge decay moderate but accelerating as medium transforms.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ American exceptionalism strained by Vietnam defeat and Watergate scandal, national innocence narrative challenged, founding mythos intact but confidence shaken, memory of Depression and WWII still living in older cohorts.<br><br>
-__Artistic Expression & Material Culture:__ Television aesthetic maturing (M*A*S*H, All in the Family addressing social issues), film renaissance (New Hollywood), architecture shifting to postmodern, material culture comfortable but politically charged.<br><br>
-__Collective Mood & Behavioral Disposition:__ National mood darkening through mid-1970s (malaise), cynicism rising, optimism recovering partially by decade's end, risk aversion mixed with countercultural experimentation, mood volatile and conflicted.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional patriotic forms hollowing for many, network television formats standardizing into predictable genres, advertising language increasingly distrusted, form exhaustion visible but new forms (documentary, miniseries) emerging.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Mainline Protestantism declining, evangelical Christianity organizing politically, secular humanism advancing among educated classes, existential uncertainty elevated by Vietnam and assassinations, outlook fragmenting.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance declining among mainline denominations, evangelical megachurch model emerging, New Age spirituality spreading, devotional practice diversifying away from institutional forms.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic Church post-Vatican II adapting, mainline Protestant denominations losing authority, evangelical institutions (Moral Majority late 1970s) organizing, institutional authority contested and fragmenting.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Eastern religions gaining adherents (Hare Krishna, TM), evangelical Protestantism expanding, secularism spreading in urban areas, syncretic spirituality emerging, dominant Protestant consensus eroding.<br><br>
-__Disenchantment & Sacred Discharge:__ Mainline religious decline leaving existential void for some, civil religion (flag, patriotism) damaged by Vietnam, disenchantment manifesting in cynicism and spiritual seeking, partial reanchoring in evangelical revival and self-help movements.<br><br>
+# __1968 CE – 1980 CE — Vietnam Era and Broadcasting Crisis__
+
+__Summary:__ Network television confronts the limits of its authority as the credibility gap between official statements and broadcast imagery erodes public trust in institutions, while simultaneous social upheaval, assassinations, and economic stagflation produce a crisis of confidence that fragments the consensus-manufacturing function broadcasting had performed since the 1950s.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The continental United States and Canada retain stable broadcast infrastructure across coasts, plains, and Great Lakes region, with New York, Los Angeles, Washington, and Chicago as primary nodes; satellite relay supplements AT&T coaxial backbone, enabling instantaneous national and increasingly global coverage.
+
+__Climate Regime & Volatility:__ Normal seasonal variation prevails; energy infrastructure faces strain during 1973–1974 and 1979 oil shocks, with gasoline lines and heating-oil shortages visible on nightly news broadcasts that amplify crisis perception.
+
+__Hazard Regime & Exposure:__ Three Mile Island nuclear accident (1979) becomes a broadcast event, with television coverage shaping public perception of nuclear risk; hurricane and flood coverage remains routine but accelerates visual disaster journalism conventions.
+
+__Resource & Energy Endowment:__ Petroleum dependency exposed by OPEC embargo (1973) and Iranian Revolution disruption (1979); coal and nuclear generation continue; abundant resources for broadcast equipment and infrastructure persist, though energy costs rise.
+
+__Waste Absorption & Sink Capacity:__ Environmental movement gains television visibility; first Earth Day (1970) broadcast widely; pollution imagery enters public consciousness through news coverage, though industrial discharge continues largely unabated and sink saturation remains local rather than systemic.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Mortality continues secular decline; vaccine programs proceed; AIDS emerges silently in late 1970s but remains unrecognized; life expectancy rises, infant mortality falls across most populations.
+
+__Nutrition & Physiological Vitality:__ Adequate nutrition for most; fast food culture expands with television advertising driving consumption patterns; obesity trends begin upward trajectory visible by decade's end.
+
+__Care, Healing & Recovery Capacity:__ Medicare and Medicaid (from 1965) extend institutional medicine's reach; hospital and physician care accessible to most, though gaps persist for uninsured working poor and rural populations.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth control pill widely adopted; Roe v. Wade (1973) legalizes abortion nationwide; fertility rates decline sharply from baby boom levels, reaching replacement rate by mid-1970s.
+
+__Demographic Renewal & Density:__ US population grows from approximately 200 million (1968) to 227 million (1980); baby boom cohort enters adulthood, straining labor markets and housing; suburban sprawl continues; sunbelt migration accelerates.
+
+__Attrition & Dependency Overhang:__ Dependent load manageable as large working-age cohort supports relatively smaller elderly population; Social Security expansion maintains elderly income; Vietnam casualties (58,000 American dead) impose localized grief but minimal demographic impact.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basic needs met for most Americans; Great Society programs (food stamps, Medicaid) reduce absolute poverty, though poverty persists among minorities and rural populations visible in broadcast documentaries.
+
+__Energy Capture & Conversion:__ Petroleum-based economy shocked by 1973 embargo and 1979 Iranian disruption; gasoline rationing, speed limits, and efficiency mandates imposed; nuclear expansion continues until Three Mile Island induces caution; coal remains primary electricity source.
+
+__Labor Organization & Coercion:__ Union membership peaks then begins decline; deindustrialization accelerates in rust belt; wage labor predominates; public sector unions expand while private sector organizing faces increasing resistance.
+
+__Production & Surplus Capacity:__ Manufacturing employment peaks and begins structural decline; Japanese and European competition intensifies; stagflation (simultaneous inflation and unemployment) confounds policy response; productivity growth slows.
+
+__Storage, Reserves & Buffering:__ Strategic Petroleum Reserve established (1975) but remains small; fiscal position weakened by Vietnam spending and Great Society programs; gold window closed (1971) ending Bretton Woods fixed exchange system.
+
+__Exchange, Trade & Logistics:__ Trade deficits emerge as manufacturing competitiveness erodes; Japanese auto and electronics imports rise; container shipping matures; multinational corporate expansion continues.
+
+__Value Storage, Credit & Deferred Exchange:__ Dollar devalued after Nixon shock (1971); inflation accelerates through decade, peaking near 13% (1979–1980); credit expansion continues; savings eroded by negative real interest rates until Volcker tightening (1979).
+
+__Surplus Extraction & Redistribution:__ Tax burden at postwar highs; Great Society transfer payments expand; defense spending as GDP share declines from Vietnam peak; fiscal deficits persist.
+
+__Wealth Distribution & Asset Defense:__ Income inequality reaches historic low point in early 1970s before beginning upward trend; middle class expansion peaks; real wage growth stalls then declines; housing becomes primary middle-class wealth vehicle.
+
+__Byproducts & Waste Routing:__ Environmental regulation expands (EPA 1970, Clean Air Act, Clean Water Act); visible pollution addressed; toxic waste accumulates unmonitored until Love Canal revelations (1978) enter broadcast coverage.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Nuclear family model erodes; divorce rates double during decade; cohabitation increases; single-parent households rise; television programming begins reflecting family diversity (All in the Family, One Day at a Time).
+
+__Association & Mutual Aid:__ Civic association begins decline documented by later observers; church attendance stable but mainline Protestant membership eroding; neighborhood organizations persist in ethnic urban areas.
+
+__Leisure, Play & Sociability:__ Television viewing peaks at over seven hours daily per household; sports broadcasting expands (Monday Night Football 1970); leisure fragmentation begins as FM radio and recording technology offer alternatives.
+
+__Stratification, Status & Group Structure:__ Civil rights legislation formally ends legal segregation; de facto segregation persists; affirmative action programs contested; women enter professional workforce in increasing numbers; generational conflict between baby boomers and their parents becomes cultural theme.
+
+__Administrative Capacity & Institutional Integrity:__ Federal bureaucracy expanded under Great Society; Vietnam credibility gap and Watergate crisis severely damage institutional trust; Nixon resignation (1974) marks institutional functioning but also exposes corruption; congressional reforms disperse power; regulatory agencies proliferate.
+
+__Coercive Apparatus & Means of Force:__ Military demoralized by Vietnam withdrawal; draft ended (1973) transitioning to all-volunteer force; National Guard confrontations (Kent State 1970) televised; urban policing under scrutiny; FBI and CIA abuses exposed (Church Committee 1975).
+
+__Discharge, Disorder & Decay:__ Urban unrest continues after 1968 assassination riots; crime rates rise sharply through decade; urban blight spreads in industrial cities; campus protests subside after Vietnam withdrawal; terrorism (Weather Underground, SLA) sporadic but televised; prison populations begin rise; institutional trust in government, media, and business declines markedly.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ National confidence collapses from 1960s optimism; Vietnam, Watergate, stagflation, and energy crisis produce pervasive malaise; Carter's "crisis of confidence" speech (1979) names but cannot resolve the mood; trust in institutions falls across all measures.
+
+__Leadership & Personal Authority:__ Johnson withdraws (1968); Nixon achieves landslide (1972) then resigns in disgrace (1974); Ford's pardon controversial; Carter elected as outsider but perceived as ineffective; no figure commands broad allegiance.
+
+__Legitimacy as Lived Allegiance:__ Vietnam protests, Watergate revelations, and Pentagon Papers disclosure erode belief in government honesty; television anchors (Cronkite's Tet assessment) carry temporary authority that exceeds official sources; legitimacy diffuses from institutions to broadcast intermediaries then begins fragmenting.
+
+__Political Will & Collective Resolve:__ Vietnam withdrawal marks failure of sustained military commitment; energy crisis responses inadequate; stagflation policy paralysis evident; neither liberal nor conservative consensus holds; political will fragmentary and contested.
+
+__External Relations & Posture:__ Vietnam withdrawal (1975) marks retreat; detente with Soviet Union pursued; China opening (1972); Camp David Accords (1978); Iran hostage crisis (1979–1981) humiliates; American global position perceived as declining.
+
+__Disaffection, Apathy & Spent Will:__ Voter participation declines; political alienation spreads; sixties idealism curdles into cynicism; counterculture retreats into personal fulfillment; collective exhaustion palpable by decade's end, fueling conservative revival appeal.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ English dominates; Spanish-language media expands in southwest and Florida; broadcast literacy universal; three-network oligopoly ensures shared national discourse though FM radio and early cable begin fragmentation.
+
+__Channels & Transmission Velocity:__ Television achieves instantaneous national reach; satellite uplinks enable live global coverage (Vietnam, Moon landing); telephone and telegraph supplement; network news at 6:30/7:00 PM structures national information rhythm.
+
+__Record, Storage & Persistence:__ Broadcast archives accumulate; Watergate tapes demonstrate recording persistence; institutional record-keeping standard; videotape replaces film for news, enabling faster turnaround and archival.
+
+__Framing, Censorship & Discourse Norms:__ Fairness Doctrine requires balanced coverage; Vietnam coverage increasingly critical after Tet (1968); Watergate coverage demonstrates broadcast willingness to challenge executive; network gatekeepers control national discourse; advertising interests shape entertainment content.
+
+__Reception, Attention & Amplification:__ Three networks command 90%+ of primetime audience; 30-minute evening news broadcasts set agenda; Cronkite remains "most trusted man in America" into mid-1970s; mass audience assumed and addressed.
+
+__Signal Integrity & Noise Load:__ Broadcast professionalism maintains high signal quality; credibility gap between official claims and observed reality constitutes institutional noise; Pentagon Papers and Watergate tapes demonstrate gap between public and private communication; verification journalism emerges (Woodward-Bernstein model).
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Consensus morality fragments; sixties rights revolution extends to women, environment, consumers; traditionalist backlash mobilizes; abortion, busing, and affirmative action become contested moral terrain; Vietnam War morality fiercely debated.
+
+__Law, Codification & Regulatory Evolution:__ Civil rights enforcement continues; environmental law expands dramatically (EPA, OSHA, Clean Air, Clean Water); regulatory state peaks; War Powers Resolution (1973) attempts to constrain executive military authority.
+
+__Adjudication, Liability & Sanction:__ Supreme Court active (Roe v. Wade, busing decisions, Nixon tapes case); criminal justice system strained by rising crime; white-collar prosecution increases after Watergate; class action and public interest litigation expand.
+
+__Rights, Protections & Compliance Burden:__ Individual rights expansion continues; regulatory compliance burden increases for business; criminal defendant rights extended (Miranda); press freedoms affirmed (Pentagon Papers, shield laws).
+
+__Impunity & Unredressed Wrong:__ Nixon pardon perceived by many as elite impunity; Vietnam-era war crimes (My Lai) incompletely addressed; corporate pollution violations often escaped sanction until regulatory expansion; racial justice gap persists despite legal equality.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Space program continues (Skylab, Viking, Voyager); molecular biology advances; environmental science gains authority; social sciences influential in policy; Keynesian economics challenged by stagflation; Chicago school ascendant by decade's end.
+
+__Applied Knowledge & Technical Method:__ Computer technology advances in institutional settings; integrated circuits enable calculators, early personal computers; satellite and microwave technology enables global broadcasting; medical technology advances (CT scanning, microsurgery).
+
+__Education, Knowledge Stock & Skill Distribution:__ Higher education expansion continues; college enrollment rises sharply; community colleges proliferate; public education contested over busing and curriculum; literacy near-universal; technical education emphasized.
+
+__Obsolescence & Knowledge Decay:__ Keynesian consensus erodes without clear replacement; aerospace industry contracts after Apollo; industrial skills atrophy in deindustrializing regions; generational knowledge transmission disrupted by rapid social change.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ American exceptionalism wounded by Vietnam; Watergate damages self-image as uniquely virtuous republic; bicentennial (1976) attempts patriotic renewal amid uncertainty; "greatest generation" narrative begins forming as contrast to boomer conflict.
+
+__Legitimating Narrative & Ideology:__ Liberal consensus fragments; New Left and counterculture challenge establishment from left; conservative movement organizes (Goldwater 1964, Reagan 1976/1980) offering alternative narrative; neither commands consensus.
+
+__Artistic Expression & Material Culture:__ Television drama matures (All in the Family, M*A*S*H address social issues); cinema's new Hollywood era (Godfather, Chinatown, Apocalypse Now); popular music fragments (disco, punk, singer-songwriters); architecture shifts from modernism toward postmodern eclecticism; earth tones and natural materials in design.
+
+__Form Exhaustion & Meaning Decay:__ Sixties idealism exhausted; network television formula increasingly perceived as stale despite topical programming; advertising aesthetics shift from aspiration to irony; patriotic symbols contested rather than unifying; cultural confidence depleted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Mainline Protestant decline continues; evangelical growth accelerates; Catholic practice erodes post-Vatican II; Eastern spirituality and New Age movements attract seekers; secular humanism advances among educated; apocalyptic themes (nuclear, environmental) persist.
+
+__Ritual, Devotion & Sacred Practice:__ Traditional church attendance declines among mainline denominations; charismatic movement and Jesus People revive evangelical practice; meditation and alternative spiritualities gain adherents; civil religion wounded but televised national ceremonies continue.
+
+__Religious Institutions & Doctrinal Authority:__ Mainline Protestant institutional decline; Catholic Church struggles with post-Vatican II identity; evangelical institutional infrastructure builds (megachurches, broadcast ministries); religious right political mobilization begins.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical Christianity gains at mainline expense; Eastern practices (yoga, meditation) diffuse through counterculture and middle class; New Age syncretism emerges; religious broadcasting expands reach.
+
+__Disenchantment & Sacred Discharge:__ Secularization advances among educated elites; mainline Protestantism's cultural authority depleted; civil religion wounded by Vietnam and Watergate; yet religious revival among evangelicals suggests spiritual hunger not extinguished but redirected, leaving disenchantment concentrated in particular demographics while re-enchantment proceeds elsewhere.

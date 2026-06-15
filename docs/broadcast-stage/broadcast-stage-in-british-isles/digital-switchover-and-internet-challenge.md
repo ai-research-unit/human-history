@@ -1,69 +1,139 @@
-# __2000 CE – 2010 CE__ — Digital Switchover and Internet Challenge
-__Summary:__ The British Isles' broadcast environment completes the transition from analog to digital transmission while facing the structural challenge of internet distribution; Freeview establishes free-to-air digital terrestrial platform in 2002, BBC iPlayer launches 2007, and analog switchover begins 2008; the binding constraint is attention fragmentation as on-demand and online viewing erode scheduled broadcasting; the system holds moderate margin through licence fee settlement and advertising resilience until 2008 crisis; the principal direction of change is from mass simultaneity toward time-shifted and platform-diverse consumption, marking the terminal phase of broadcast-stage dominance.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Island geography unchanged; digital transmitter rollout follows existing mast network; rural coverage gaps addressed through switchover help scheme; satellite and broadband provide alternative delivery.<br><br>
-__Climate Regime & Volatility:__ Temperate maritime climate stable; 2007 floods in central England cause localized broadcast disruption; climate change enters broadcast discourse but does not affect infrastructure operation.<br><br>
-__Hazard Regime & Exposure:__ Low acute hazard exposure; digital infrastructure more resilient than analog; switchover planning includes contingency for equipment failure; terrorism threat to broadcast infrastructure considered but not realized.<br><br>
-__Resource & Energy Endowment:__ North Sea production declining; electricity grid reliable; digital transmission more energy-efficient than high-power analog; broadband infrastructure requires electricity throughout network.<br><br>
-__Waste Absorption & Sink Capacity:__ Analog television disposal becomes significant waste stream as switchover proceeds; WEEE Directive 2003 imposes recycling requirements; cathode-ray tube disposal problematic; electronic waste regulation tightens.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden low; foot-and-mouth 2001 dominates news cycle; H1N1 pandemic 2009 receives extensive broadcast coverage; public health campaigns use broadcast extensively.<br><br>
-__Nutrition & Physiological Vitality:__ Obesity declared epidemic; sedentary television viewing implicated in public health discourse; food advertising to children restricted; Jamie Oliver's school dinners campaign broadcast 2005.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility stabilizing near replacement; family forms continue diversifying; reality television formats dramatize dating and family formation; same-sex civil partnerships 2004 receive broadcast coverage.<br><br>
-__Demographic Renewal & Density:__ Population growing through immigration to 62 million UK and 4.5 million Republic of Ireland by decade end; ethnic diversity increasing and slowly reflected in on-screen representation.<br><br>
-__Attrition & Dependency Overhang:__ Aging population expands daytime television audience; switchover help scheme assists elderly and disabled with digital transition; dependency burden manageable within social systems.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Material prosperity until 2008; digital television penetration reaches near-universal; broadband adoption rapid mid-decade; economic crisis 2008 creates new deprivation but broadcast access maintained.<br><br>
-__Energy Capture & Conversion:__ Gas-fired generation dominant; renewable expansion begins; digital transmission and data centers create new electricity demand; grid reliability supports continuous broadcast and internet operations.<br><br>
-__Labor Organization & Coercion:__ Broadcast labor further casualized; multi-skilling required; freelance precarity normalized; independent production sector consolidated; union density declining; digital skills create new hierarchies.<br><br>
-__Production & Surplus Capacity:__ Television advertising stable until 2008 crash then contracts sharply; BBC licence fee frozen then inflation-linked; BSkyB subscription revenue grows; online advertising emerges as competitor for spend.<br><br>
-__Storage, Reserves & Buffering:__ Commercial broadcasters hit hard by 2008 advertising collapse; ITV nearly insolvent; BBC licence fee settlement provides buffer; digital switchover costs absorbed through government and industry funding.<br><br>
-__Exchange, Trade & Logistics:__ Programme formats remain major export; international co-productions increase; BBC Worldwide profitable; digital distribution creates global reach for British content; piracy emerges as distribution challenge.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Sterling weakens 2008; advertising rates volatile; sports rights inflation continues; subscription model proves resilient; iPlayer creates new value proposition without direct revenue.<br><br>
-__Surplus Extraction & Redistribution:__ Licence fee funding reconfirmed 2006 charter; digital switchover funded through licence fee and government; independent production quotas maintained; regional production requirements strengthened.<br><br>
-__Wealth Distribution & Asset Defense:__ ITV consolidation continues; BSkyB market dominance entrenched; Channel 4 remains public but commercially funded; independent production sector consolidates around super-indies.<br><br>
-__Byproducts & Waste Routing:__ Electronic waste from analog switchover substantial; recycling infrastructure strains; data center growth creates new energy and heat discharge; broadcast operations increasingly server-based.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Mass broadcast events declining but persist for major occasions; fragmented viewing reduces shared cultural reference; social media emergence creates new connection modes alongside broadcast.<br><br>
-__Stratification, Status & Group Identity:__ Digital divide initially class-correlated then closes; media literacy becomes status marker; on-demand viewing stratified by age; ethnic representation in broadcasting slowly improving.<br><br>
-__Kinship, Family & Inheritance:__ Family viewing further fragmented; multiple screens per household; children's television consumption shifts online; intergenerational viewing increasingly rare outside major events.<br><br>
-__Civic Association & Self-Organization:__ Community radio licences expand; user-generated content emerges on YouTube; broadcast regulation maintains public interest requirements; local television experiments fail commercially.<br><br>
-__Leisure, Play & Sociability:__ Television competes with internet for attention; gaming becomes major leisure competitor; social viewing persists for sport and reality television; box-set binge viewing begins.<br><br>
-__Grievance Channels & Social Discharge:__ Reality television provides vicarious participation and discharge; audience voting creates engagement illusion; online comments enable direct response; broadcast complaints procedures continue.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Westminster sovereignty maintained; devolved institutions established and gaining competence; Scottish independence enters discourse; broadcasting remains reserved to Westminster with devolved pressure for change.<br><br>
-__Succession & Power Transfer:__ Blair to Brown 2007; Conservative-Liberal coalition 2010; BBC charter renewed 2006; Ofcom established 2003 as converged regulator; governance transitions peaceful.<br><br>
-__Legitimacy & Political Narrative:__ New Labour modernization narrative continues; public service broadcasting defended but questioned; licence fee legitimacy debated; BBC impartiality increasingly contested from multiple directions.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Ofcom consolidates broadcast, telecommunications, and spectrum regulation; regulatory capacity adequate but stretched by convergence; BBC governance reformed with BBC Trust 2007.<br><br>
-__Political Participation & Mobilization:__ Broadcast election coverage maintained; Iraq War protests 2003 massive but ineffective; voter turnout continues declining; digital media begins supplementing broadcast political communication.<br><br>
-__Geopolitical Position & External Relations:__ EU membership continues shaping media regulation; Iraq and Afghanistan wars receive extensive coverage; BBC World Service funding maintained; British broadcasting's soft power recognized.<br><br>
-__Coercive Apparatus & Means of Force:__ 7/7 bombings 2005 test broadcast response; counter-terrorism legislation affects journalism; licence fee enforcement continues through detection and prosecution; embedding with military in Iraq and Afghanistan.<br><br>
-__Internal Order & Threat Environment:__ Northern Ireland peace holds; 7/7 attacks 2005 and subsequent plots; broadcast coverage balances security and information; public order generally stable despite 2008 economic stress.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Digital terrestrial via Freeview 2002; satellite and cable mature; broadband enables streaming; iPlayer 2007 establishes catch-up viewing; mobile television emerging; 24-hour news ubiquitous.<br><br>
-__Record, Storage & Persistence:__ BBC archives digitized; commercial archive practices improve; digital preservation challenges recognized; online distribution creates permanent availability expectation; programme rights complicate access.<br><br>
-__Framing, Censorship & Discourse Norms:__ Watershed maintained; Ofcom broadcasting code consolidates standards; online content largely unregulated; terrorism coverage guidelines tighten post-7/7; due impartiality requirements contested.<br><br>
-__Reception, Attention & Amplification:__ Audience fragmentation accelerates; time-shifted viewing grows through DVR and iPlayer; appointment television declining; social media amplification emerging; attention competition intensifying.<br><br>
-__Signal Integrity & Noise Load:__ Digital transmission quality superior to analog; internet misinformation emerging but broadcast remains trusted; commercial pressures on journalism increase; 24-hour news cycle creates noise.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public service broadcasting principle maintained in policy; market competition accepted as complement; fairness expectations persist; balance requirements increasingly contested as partisan.<br><br>
-__Law, Codification & Regulatory Evolution:__ Communications Act 2003 establishes Ofcom; EU directives on audiovisual services shape policy; digital switchover legislation passed; content regulation adapts slowly to online environment.<br><br>
-__Adjudication, Enforcement & Liability:__ Ofcom handles broadcasting complaints; BBC Trust provides governance and editorial standards; defamation and privacy law increasingly invoked against broadcasters; phone-hacking scandal emerges.<br><br>
-__Rights, Protections & Compliance Burden:__ Terms of trade improve for independent producers; rights retention standard; copyright licensing complex for multi-platform distribution; compliance burden increases with regulatory complexity.<br><br>
-__Impunity & Unredressed Wrong:__ Phone-hacking at News of the World operates with impunity through decade; historical abuse in entertainment industry unrevealed; regulatory sanctions limited; major accountability gaps persist undiscovered.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Convergence theory dominates; digital disruption analyzed; attention economy concepts emerge; media studies matures; platform studies begins; political economy critique continues.<br><br>
-__Applied Knowledge & Technical Method:__ Digital compression efficient; streaming technology functional; iPlayer architecture innovative; high-definition television standard; mobile platforms emerging; user analytics developing.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital production skills spread; media literacy becomes policy concern; technical workforce adapts; journalism training incorporates digital; multi-platform production standard.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog production skills rapidly obsolescing; tape-based workflows replaced; institutional memory of broadcast-era practices begins eroding; some craft knowledge lost in digital transition.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ BBC maintains national institution status though increasingly contested; British identity fragmenting with devolution; multicultural Britain reflected unevenly in programming; national events still televised.<br><br>
-__Artistic Expression & Material Culture:__ Television drama competes with American imports; British film industry sustained partly through broadcast investment; reality television dominates popular culture; quality television concept emerges.<br><br>
-__Collective Mood & Behavioral Disposition:__ Early optimism through mid-decade; Iraq War divides opinion; 7/7 creates anxiety; 2008 crash darkens mood; decade ends in austerity anticipation; cultural confidence diminished.<br><br>
-__Form Exhaustion & Meaning Decay:__ Reality television formats proliferate and exhaust; talent show cycle accelerates; public service broadcasting rhetoric increasingly defensive; innovation migrates toward online forms.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secularization continues; religious belief declining especially among young; spiritual seeking individualized and consumer-oriented; scientific worldview dominant in broadcast discourse; existential uncertainty masked by entertainment.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious broadcasting contracts further; major ceremonies still covered; Ramadan programming increases with Muslim population; Christmas programming secular except for traditional services.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church of England continues declining; religious pluralism normalized; faith schools debated; religious authority in public discourse diminished; broadcast treats religion as cultural phenomenon.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Buddhism and mindfulness gain visibility; celebrity spirituality persists; atheist voices more prominent; religious programming pluralistic but marginal; secular default established.<br><br>
-__Disenchantment & Sacred Discharge:__ Consumer culture fills existential space; celebrity culture quasi-religious; sports fandom provides communal transcendence; broadcast entertainment addresses mortality through drama; standing disenchantment widespread but unacknowledged in broadcast discourse.<br><br>
+# __2000 CE – 2010 CE — Digital Switchover and Internet Challenge__
+
+__Summary:__ British broadcasting completes the transition from analog to digital transmission while facing the internet's emergence as a competing information platform; the binding constraint is the BBC's institutional capacity to navigate simultaneous pressures — digital expansion, the Hutton crisis over Iraq War coverage, license fee renegotiation, and the development of iPlayer — which determines whether public service broadcasting survives into the networked age.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The British Isles' comprehensive transmission infrastructure undergoes systematic digital conversion region by region from 2008, with Border Television's area switching first and Granada's last; London's media cluster in the West End and Television Centre remains central, though BBC plans relocation to Salford.
+
+__Climate Regime & Volatility:__ Flooding in 2007 disrupts regional transmission and damages infrastructure, while generally stable conditions permit the complex technical work of switchover; climate change enters broadcasting discourse through documentary programming and news coverage.
+
+__Hazard Regime & Exposure:__ No major natural hazards threaten infrastructure, though the 2001 foot-and-mouth outbreak demonstrates broadcasting's role in crisis communication and restricts outdoor production in rural areas.
+
+__Resource & Energy Endowment:__ Data centers and server infrastructure consume growing electricity as digital broadcasting and internet streaming expand, while the energy demands of transmission shift from high-powered analog signals to more efficient digital multiplexes.
+
+__Waste Absorption & Sink Capacity:__ Analog equipment disposal creates electronic waste streams as millions of television sets, video recorders, and satellite receivers require replacement or adaptation; environmental programming highlights broader waste and sustainability concerns.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The 2001 foot-and-mouth crisis dominates news coverage, while SARS (2003) and swine flu (2009) receive intensive attention without reaching British epidemic proportions; obesity and lifestyle-related illness become prominent documentary subjects.
+
+__Nutrition & Physiological Vitality:__ Jamie Oliver's school dinners campaign (2005) demonstrates television's capacity to influence public health policy, while cooking shows proliferate across channels and concerns about childhood obesity intensify.
+
+__Care, Healing & Recovery Capacity:__ NHS reform and funding dominate political coverage, with waiting times, MRSA, and service quality recurring subjects; hospital documentary formats proliferate while health information increasingly migrates online.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility rates remain at approximately 1.8 children per woman, with assisted reproduction and changing family structures increasingly normalized in programming; immigration contributes more to population growth than natural increase.
+
+__Demographic Renewal & Density:__ Population reaches 62 million by 2010, with immigration — particularly from Eastern European EU accession states after 2004 — accelerating; demographic change creates pressure for broadcasting to reflect increasingly diverse audiences.
+
+__Attrition & Dependency Overhang:__ An aging population increases daytime television audiences while creating care cost concerns that feature in news and documentary programming; the baby boom generation approaches retirement.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Sustained economic growth until 2008 supports consumer spending on digital equipment and subscription services, while the financial crisis and subsequent recession create hardship that makes free-to-air television's affordability politically significant.
+
+__Energy Capture & Conversion:__ Digital infrastructure requires substantial electricity for transmission, data centers, and consumer equipment, while the transition from CRT to flat-panel displays initially increases then decreases domestic energy consumption.
+
+__Labor Organization & Coercion:__ Broadcast employment continues casualization with independent production companies relying heavily on freelance workers, while internet platforms create new creative opportunities alongside precarious working conditions; the BBC cuts thousands of jobs under efficiency drives.
+
+__Production & Surplus Capacity:__ British production maintains export success with formats like Pop Idol, The Weakest Link, and Who Wants to Be a Millionaire licensing globally, while prestige drama (Doctor Who revival, Life on Mars, Downton Abbey's 2010 launch) demonstrates continued creative capacity.
+
+__Storage, Reserves & Buffering:__ The BBC builds technical infrastructure for digital services and iPlayer development, while commercial broadcasters face advertising revenue pressure that intensifies severely during the 2008–2009 recession; ITV's financial weakness becomes acute.
+
+__Exchange, Trade & Logistics:__ British television formats continue strong export performance, while internet platforms (YouTube from 2005, Netflix emerging) create new distribution channels that bypass traditional broadcasting entirely.
+
+__Value Storage, Credit & Deferred Exchange:__ Subscription television matures as BSkyB reaches over 10 million subscribers, while advertising revenue stagnates then declines as internet advertising grows; the license fee reaches 142.50 pounds annually by 2010.
+
+__Surplus Extraction & Redistribution:__ License fee settlement negotiations in 2006 secure BBC funding while imposing efficiency requirements, though the fee's legitimacy faces challenge from those questioning whether universal funding suits a multi-platform, on-demand environment.
+
+__Wealth Distribution & Asset Defense:__ Media ownership consolidation continues with ITV merger from Carlton and Granada (2004), while News Corporation's dominance through BSkyB and newspapers raises competition concerns that the 2010 election makes politically salient.
+
+__Byproducts & Waste Routing:__ Electronic waste from digital transition accumulates, while broadcasters generate vast digital archives requiring storage infrastructure; financial waste from failed digital ventures (ITV Digital's 2002 collapse) imposes industry costs.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Multi-screen households become normal as personal viewing on computers and mobile devices supplements shared television, while traditional family viewing occasions (Christmas specials, national events) retain some unifying power.
+
+__Association & Mutual Aid:__ Online communities form around television programs, with fan forums and social media discussion extending viewing experience, while pub collective viewing of sports continues alongside home subscription.
+
+__Leisure, Play & Sociability:__ Television viewing time remains stable at around 28 hours weekly despite internet growth, though younger demographics shift attention toward online platforms; video gaming competes increasingly effectively for leisure time.
+
+__Stratification, Status & Group Structure:__ Digital divides emerge between those with broadband access and digital skills and those without, roughly tracking existing socioeconomic divisions; government digital inclusion programs attempt to address gaps.
+
+__Administrative Capacity & Institutional Integrity:__ Ofcom replaces the ITC, Radio Authority, and other bodies in 2003, creating unified communications regulation; the BBC Trust replaces the Board of Governors in 2007 following the Hutton crisis, though its effectiveness faces criticism.
+
+__Coercive Apparatus & Means of Force:__ Television licensing enforcement continues, with prosecution rates remaining high; Ofcom exercises content regulation powers, though internet content largely escapes national regulatory frameworks.
+
+__Discharge, Disorder & Decay:__ The Hutton Inquiry (2003–2004) exposes tensions between BBC journalism and government over Iraq War coverage, forcing Director-General Greg Dyke's resignation and Chairman Gavyn Davies's departure; institutional wounds heal slowly.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Post-9/11 anxiety and Iraq War controversy divide public opinion, with broadcasting reflecting and shaping debate; the 2008 financial crisis generates anger at institutions while the 2012 Olympics (announced 2005) offer future optimism.
+
+__Leadership & Personal Authority:__ Greg Dyke's popular leadership ends in the Hutton crisis (2004), while Mark Thompson navigates subsequent challenges; at BSkyB, James Murdoch rises while Rupert Murdoch's influence remains paramount; Tony Blair's media management sets political communication patterns.
+
+__Legitimacy as Lived Allegiance:__ The BBC's reputation suffers from Hutton then recovers through successful programming and iPlayer innovation, while public trust in media generally declines alongside declining trust in other institutions.
+
+__Political Will & Collective Resolve:__ Cross-party commitment to digital switchover maintains policy continuity, while the BBC mobilizes institutional capacity for digital transformation despite internal resistance and external pressure.
+
+__External Relations & Posture:__ British broadcasting maintains global reach through BBC World Service and international commercial sales, while American digital platforms (Google, YouTube, Facebook) increasingly dominate the online environment British audiences use.
+
+__Disaffection, Apathy & Spent Will:__ Staff morale at traditional broadcasters fluctuates with redundancy rounds and organizational change, while audience loyalty fragments as choice expands; some sectors of the public disengage from news entirely.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Digital television reaches universal availability through Freeview (2002), satellite, and cable, while broadband internet access grows from minority adoption to over 70% of households by 2010; mobile internet emerges with smartphones.
+
+__Channels & Transmission Velocity:__ Hundreds of digital channels become available, while broadband enables video streaming that bypasses broadcast scheduling entirely; iPlayer's 2007 launch demonstrates on-demand's potential within public service broadcasting.
+
+__Record, Storage & Persistence:__ Digital archives grow as broadcasters digitize historical content and retain new production, while iPlayer creates temporary availability windows; YouTube and similar platforms enable user-controlled archiving and sharing.
+
+__Framing, Censorship & Discourse Norms:__ The watershed continues structuring broadcast content, while internet platforms escape equivalent regulation; user-generated content and comment sections create unmoderated spaces that traditional media struggle to accommodate.
+
+__Reception, Attention & Amplification:__ Audience fragmentation intensifies as attention divides across platforms, while social media (Facebook from 2004, Twitter from 2006) create new amplification mechanisms that can drive television viewing but also compete for attention.
+
+__Signal Integrity & Noise Load:__ Information abundance creates verification challenges as multiple sources offer conflicting accounts, while the Iraq War and weapons of mass destruction controversy demonstrate the difficulty of establishing truth amid government information management.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Public service broadcasting values — universal access, quality, impartiality — face renewed challenge as market logic and consumer choice paradigms gain ground, while the BBC's Iraq coverage crisis raises questions about journalistic independence.
+
+__Law, Codification & Regulatory Evolution:__ The 2003 Communications Act creates Ofcom and establishes the digital switchover framework, while successive BBC Charter renewals (2006) restructure governance; European directives influence content regulation.
+
+__Adjudication, Liability & Sanction:__ Ofcom adjudicates broadcasting standards complaints with power to fine, while the Hutton Inquiry's legal framework shapes accountability discourse; the phone hacking scandal (emerging by 2009) will later demonstrate press accountability failures.
+
+__Rights, Protections & Compliance Burden:__ Listed events protection continues shielding major sports from exclusive pay-television acquisition, while digital rights management creates new restrictions on content use; accessibility requirements (subtitling, audio description) expand.
+
+__Impunity & Unredressed Wrong:__ The Hutton Report's criticism of BBC journalism while largely exonerating government generates lasting controversy, with many viewing the outcome as demonstrating power's capacity to deflect accountability; phone hacking proceeds with limited early consequence.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Internet studies emerges alongside established media research, while policy analysis from Ofcom and academic centers informs regulatory development; the BBC's role in knowledge dissemination expands through digital platforms.
+
+__Applied Knowledge & Technical Method:__ Streaming technology, content delivery networks, and digital rights management develop rapidly, while broadcasters acquire digital production and distribution capabilities; the BBC's technical innovation in iPlayer demonstrates public sector digital capacity.
+
+__Education, Knowledge Stock & Skill Distribution:__ Digital media skills become essential across the industry, while traditional broadcast craft adapts; media literacy education attempts to address audience navigation of complex information environments.
+
+__Obsolescence & Knowledge Decay:__ Analog broadcast skills become obsolete as switchover completes, while tape-based production gives way entirely to digital workflows; some institutional knowledge is lost through redundancy programs and generational turnover.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The BBC's centenary approaches with institutional history increasingly documented and debated, while British television's postwar golden age provides reference points for contemporary assessment; national broadcasting's role in shared culture faces fragmentation pressure.
+
+__Legitimating Narrative & Ideology:__ Consumer choice and market provision continue challenging public service rationales, while defenders argue that quality, universality, and democratic discourse require non-market provision; "creative economy" framing presents broadcasting as economic asset.
+
+__Artistic Expression & Material Culture:__ British television drama achieves continued success with Doctor Who's 2005 revival, Life on Mars, Skins, and emerging programs, while reality television (Big Brother, X Factor, Strictly Come Dancing) dominates popular viewing; flat-screen televisions transform domestic aesthetics.
+
+__Form Exhaustion & Meaning Decay:__ Some formats show fatigue as Big Brother declines and talent shows proliferate, while innovation continues in drama and documentary; the sheer abundance of content makes attention the scarce resource.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular liberalism dominates broadcasting content while religious belief remains significant among audience segments; post-9/11 discourse engages with religious identity and conflict in new ways, often controversially.
+
+__Ritual, Devotion & Sacred Practice:__ Television viewing retains ritual aspects through annual events and appointment viewing, though on-demand availability erodes scheduled communality; religious broadcasting maintains minimal dedicated presence.
+
+__Religious Institutions & Doctrinal Authority:__ Churches continue declining while Muslim communities grow, with broadcasting reflecting religious diversity unevenly; debates about religious representation and sensitivity intensify following terrorism and controversy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Multifaith Britain receives increasing programming attention, while secular humanism provides implicit framework for much content; spiritual seeking finds expression through lifestyle and self-help programming.
+
+__Disenchantment & Sacred Discharge:__ The sense of broadcasting as civic institution and shared national space erodes as audiences fragment and on-demand viewing replaces communal scheduling, though major events demonstrate remaining capacity for collective experience; by 2010, the broadcast age's end approaches as internet platforms mature.

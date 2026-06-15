@@ -1,69 +1,140 @@
 # __900 BCE – 800 BCE__ — Early Geometric Revival and Population Recovery
-__Summary:__ The Aegean enters a phase of demographic recovery and cultural elaboration after generations of post-collapse contraction. Population increases are evident in expanding cemeteries and settlement counts across Attica, Argolid, and Euboea. Material culture differentiates regionally, with characteristic Early Geometric pottery styles marking emergent local identities. Elite display in burial goods intensifies, signaling renewed stratification. The system remains fully oral — no writing, all institutional memory carried by living speakers — and the binding constraint is the limited surplus margin that gates how much elaboration village-scale communities can support. Change trends upward but remains incremental; slack is thin and recovery fragile.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Fragmented Aegean topography persists — mountainous peninsulas, island chains, narrow coastal plains — imposing high friction on overland movement while privileging short-haul maritime contact; the scatter favors localized communities over integrated polities.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate with dry summers and winter rainfall; no major secular shift documented for this century; interannual variability remains within the range the subsistence base is calibrated for.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk endemic to the region; no major earthquake or volcanic event archaeologically attested for this century; communities remain low-density and dispersed, limiting catastrophic exposure.<br><br>
-__Resource & Energy Endowment:__ Arable land limited but underutilized relative to collapsed Bronze Age population; iron ore locally available; timber recovering in some uplands; marine resources accessible; endowment adequate for current low-density occupation.<br><br>
-__Waste Absorption & Sink Capacity:__ Dispersed villages and low production intensity generate negligible waste loads; landscape absorption capacity effectively unlimited at this scale; no saturation pressure evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria likely present in coastal lowlands; epidemic disease poorly attested but population dispersal limits contagion chains; background mortality high by modern standards but stable within the period.<br><br>
-__Nutrition & Physiological Vitality:__ Mixed agropastoral diet with cereals, legumes, and animal protein; skeletal evidence limited but no signs of acute nutritional stress; vitality sufficient for demographic growth.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Household-based reproduction; marriage patterns localized within and between neighboring communities; no evidence of significant selective pressure deviation from baseline.<br><br>
-__Demographic Renewal & Density:__ Population recovering from the Protogeometric nadir; cemetery evidence shows increasing burial numbers; density still far below Late Bronze Age levels but trending upward; age structure presumably normalizing.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load manageable given small community scale and extended-kin support; no evidence of crisis-level orphan or widow accumulation; productive cohort absorbing dependents without visible strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Cereal agriculture, pastoralism, and fishing provide subsistence baseline; household self-sufficiency predominates; no evidence of famine or acute shortage; margin above bare survival thin but stable.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle provide virtually all work capacity; no significant water or wind power in use; firewood for metallurgy and cooking; per-capita energy ceiling low but sufficient for village-scale needs.<br><br>
-__Labor Organization & Coercion:__ Household labor predominates; limited evidence for institutionalized slavery or corvee at this scale; elite households may command some dependent labor but coercion remains kinship-embedded rather than formal.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus modest; craft production increasing, especially in pottery and metalwork; regional specialization emerging; surplus sufficient for elite display but not monumental construction.<br><br>
-__Storage, Reserves & Buffering:__ Household granaries and ceramic storage vessels buffer annual variation; no communal or palatial redistribution system; reserves adequate for normal fluctuation but limited against multi-year failure.<br><br>
-__Exchange, Trade & Logistics:__ Local exchange within walking distance; some inter-regional maritime trade in prestige goods and metals; Euboean communities particularly active; infrastructure minimal but functional for low-volume movement.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No coinage; value stored in livestock, metal, and durable goods; reciprocal obligations track debt within kin networks; gift exchange among elites creates binding obligations across communities.<br><br>
-__Surplus Extraction & Redistribution:__ No centralized extraction apparatus; surplus flows through kin and patron-client channels; emerging elites accumulate through production and exchange rather than taxation.<br><br>
-__Wealth Distribution & Asset Defense:__ Stratification visible in differential grave goods; elite households accumulating metal wealth and prestige items; land tenure presumably kin-based; asset defense through kin solidarity and physical possession.<br><br>
-__Byproducts & Waste Routing:__ Metallurgical slag, pottery wasters, and organic refuse dispersed locally; volumes trivial; no routing pressure or accumulation problem at current production scale.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends through kinship and village; reciprocity structures intact; inter-community relations variable but not systematically hostile; mutual aid functions at household and lineage level.<br><br>
-__Stratification, Status & Group Identity:__ Emerging differentiation between elite and common households visible in burial evidence; status linked to warrior identity and metal wealth; lineage and locality define primary group identity; boundaries fluid but hardening.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent likely predominant; household the basic unit; inheritance presumably partible among sons; kin alliance structures inter-community ties.<br><br>
-__Civic Association & Self-Organization:__ Village councils or elder assemblies plausible but unattested; no formal civic institutions; coordination through kinship and informal consensus; associational fabric thin but functional for small-scale communities.<br><br>
-__Leisure, Play & Sociability:__ Feasting occasions attested in vessel assemblages; communal gatherings at emerging sanctuaries; athletic and competitive traditions possibly nascent; sociability embedded in ritual and seasonal cycles.<br><br>
-__Grievance Channels & Social Discharge:__ Feuding and personal vengeance likely primary; kin mediation absorbs some disputes; no formal arbitration; residual grievance accumulates where kin networks cannot enforce settlement.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority localized in village headmen or leading households; no supra-local political integration; basileis (chieftains) exercise influence through prestige and kin connection rather than formal office; fragmentation total.<br><br>
-__Succession & Power Transfer:__ Leadership passes within elite lineages; no fixed rules attested; competition among heirs plausible; transfer informal and potentially contested but contained within kin group.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rooted in lineage, martial prowess, and generosity; oral traditions of heroic ancestors reinforce elite claims; no formal ideology but narrative performs justificatory function.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Effectively null; no bureaucracy, no archives, no written records; coordination limited to what memory and personal presence can sustain; capacity ceiling very low.<br><br>
-__Political Participation & Mobilization:__ Free males participate in informal assemblies; mobilization for raiding or defense through kin obligation; no formal citizenship or voting; participation face-to-face and consensus-based.<br><br>
-__Geopolitical Position & External Relations:__ No inter-polity system; relations are between communities, not states; guest-friendship (xenia) links elite households across distance; raiding and trade coexist; no external great-power pressure.<br><br>
-__Coercive Apparatus & Means of Force:__ Warrior households provide fighting capacity; iron weapons increasingly common; bronze retained for prestige arms; no standing forces; defensive architecture minimal; force capacity distributed among elite households.<br><br>
-__Internal Order & Threat Environment:__ Raiding and cattle theft endemic; order maintained through kin retaliation and reputation; no police function; violence contained by reciprocal threat rather than monopolized force; disorder modest at village scale.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Voice carries information within community; travelers, traders, and bards transmit news across distance; velocity limited to human and ship speed; reach extends through personal networks.<br><br>
-__Record, Storage & Persistence:__ No writing system in use; all institutional memory resides in living minds; genealogies, land claims, and obligations persist only through oral recitation; loss of key individuals erases records permanently.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elders and bards frame authoritative accounts; no formal censorship but social sanction constrains speech; heroic narrative conventions shape what can be said about the past.<br><br>
-__Reception, Attention & Amplification:__ Face-to-face audiences at feasts and gatherings; memorable verse and striking narrative amplify transmission; attention concentrated on occasions of communal assembly.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission introduces drift and variation; formulaic structure preserves core content but detail degrades; no verification mechanism beyond reputation of speaker; noise accumulates across generations.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Honor, reciprocity, and kin obligation constitute the moral baseline; shame sanctions violation; guest-right sacred; proportional vengeance expected and required.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; custom (themis) transmitted orally; taboos and obligations known through tradition; no active codification process in this period.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes resolved through kin negotiation, elder mediation, or blood feud; no courts or formal judges; liability falls on kin groups collectively; enforcement through self-help and social pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights embedded in status and kin membership; strangers and dependents vulnerable; compliance burden informal but socially enforced; predictability depends on kin standing.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful households may evade retaliation; those without kin backing have limited recourse; impunity exists where deterrent threat fails; some wrongs accumulate as standing grievance.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; explanatory paradigm is mythological and genealogical; natural phenomena attributed to divine agency; no systematic investigation of causes.<br><br>
-__Applied Knowledge & Technical Method:__ Practical craft knowledge in pottery, metallurgy, shipbuilding, and agriculture transmitted through apprenticeship; iron-working techniques improving; methods empirical and tradition-bound.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ No formal schooling; knowledge transmitted within households and craft lineages; oral tradition carries cultural and historical knowledge; literacy absent; skill concentrated in specialist households.<br><br>
-__Obsolescence & Knowledge Decay:__ Bronze Age techniques largely lost or simplified; Linear B literacy extinct; knowledge stock contracted from palatial era but stabilized; decay halted, modest accretion underway in craft domains.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Heroic ancestry and divine genealogy anchor collective identity; memory of the great age before — Troy, Thebes, the heroes — persists in transformed oral tradition; identity rooted in lineage and locality.<br><br>
-__Artistic Expression & Material Culture:__ Early Geometric pottery defines the visual idiom — abstract rectilinear patterns, compass-drawn circles, chevrons; regional styles differentiate Athens, Argos, Corinth; bronze figurines appear in sanctuaries; aesthetic austere and orderly.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood cautiously confident; recovery palpable in expanding settlement and display; risk perception balanced between opportunity and vulnerability; behavioral temper conservative but open to elaboration.<br><br>
-__Form Exhaustion & Meaning Decay:__ Bronze Age forms largely extinct; new Geometric style vigorous and generative; no exhaustion evident; symbolic repertoire renewing rather than decaying.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmos populated by anthropomorphic deities; human fate subject to divine will and inscrutable necessity; afterlife shadowy and unenviable; piety consists in proper ritual observance.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Offerings at sanctuaries — tripods, figurines, pottery — increase; household cult continues; sacrifice and libation mark significant occasions; communal festivals emerging at sanctuary sites.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No priestly hierarchy; sanctuaries managed by local communities; no doctrinal codification; authority lies in traditional practice and inspired utterance; institutional structure minimal.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Olympian deities consolidating as shared pantheon; local cults persist; hero cult emerging at Bronze Age tombs; no major external religious influence in this period; tradition stabilizing.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred pervades daily life; divine presence assumed in natural phenomena; no secular domain; spiritual framework intact and unquestioned.<br><br>
+
+__Summary:__ A Long-Term Trend across the Aegean Archipelago during which demographic collapse reverses and settlement networks multiply, bound by the oral substrate — spoken or it does not exist, remembered or it is lost — so that recovery is coordinated through speech, sanctuaries consecrated by voiced dedications, and trade partnerships sealed by verbal oaths, with no written record to stabilize agreements or transmit knowledge beyond living memory; the single most causal factor is the resumption of surplus production as climate stabilizes and population grows into vacated land.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Aegean basin remains fragmented by mountains, peninsulas, and islands, but spatial friction eases as depopulated land reopens to settlement; the Argolid, Attica, Boeotia, and Euboea see site multiplication as communities expand from refugia into lowland plains abandoned a century earlier.
+
+__Climate Regime & Volatility:__ The aridification pulse of the Late Bronze Age Collapse has ended; pollen cores indicate a moister phase returning by 900 BCE, widening the precipitation band for rain-fed cereals and reducing interannual harvest failure risk.
+
+__Hazard Regime & Exposure:__ Seismic and volcanic hazards persist unchanged, but the dispersed settlement pattern reduces concentrated exposure; no single village collapse carries systemic consequence.
+
+__Resource & Energy Endowment:__ Iron ore availability remains high, and the skills of local smithing are now mature; copper and tin for bronze must still be imported, but iron suffices for tools and weapons, lowering dependence on long-distance metal supply.
+
+__Waste Absorption & Sink Capacity:__ Population remains far below Late Bronze Age peaks; waste loads are negligible, soils recover, and no sink stress is evident.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria persists in coastal lowlands, but dispersed settlement and low population density limit epidemic amplification; baseline mortality is high by modern standards yet stable.
+
+__Nutrition & Physiological Vitality:__ Skeletal evidence from burials indicates modest stature, consistent with subsistence-level nutrition, but no signs of acute famine stress; olive and vine cultivation supplements grain.
+
+__Care, Healing & Recovery Capacity:__ Healing rests on household knowledge — herbalism, wound-tending, midwifery — transmitted orally within kin networks; no specialized healers above village level are attested.
+
+__Reproductive Biology & Pairing Dynamics:__ Fertility is biologically unrestricted; pair-bonding follows patrilocal household formation, with brides moving to husbands' villages, knitting inter-village kinship ties.
+
+__Demographic Renewal & Density:__ Survey data show site counts tripling across the Argolid and Boeotia; population growth rates suggest recovery toward 30–40 percent of Late Bronze Age peak by 800 BCE; the demographic trajectory is unambiguously upward.
+
+__Attrition & Dependency Overhang:__ The dependency ratio is modest — communities are young, with high fertility offsetting early adult mortality; orphans and widows are absorbed into kin households without systemic strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Household agriculture — wheat, barley, olives, vines — anchors subsistence; pastoral flocks (sheep, goats, cattle) provide meat, wool, and traction; surplus margins widen as yields stabilize and new land is cleared.
+
+__Energy Capture & Conversion:__ Human and animal muscle remain the sole power sources; the ox-drawn plow and donkey transport define the energy ceiling, but the ratio of labor to arable land improves as population expands into vacated territory.
+
+__Labor Organization & Coercion:__ Labor is organized at the household and village level; no palatial corvée or large-scale slavery is attested; obligation runs through kinship and reciprocal exchange rather than coercion.
+
+__Production & Surplus Capacity:__ Agricultural surplus per household rises modestly; surplus supports the bronze and iron dedications appearing at nascent sanctuaries and the modest warrior burials attested archaeologically.
+
+__Storage, Reserves & Buffering:__ Household granaries and pit storage buffer single-season failures; no evidence of communal or supra-village reserve coordination exists; the buffer remains thin and localized.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange resumes: Euboean merchants reach Al Mina on the Syrian coast and trade metals, textiles, and oil for Phoenician and Cypriot goods; Lefkandi receives Near Eastern imports, indicating revived maritime networks; all agreements rest on verbal oaths and personal trust, with no written contracts.
+
+__Value Storage, Credit & Deferred Exchange:__ No coined money exists; value is stored in cattle, metal ingots, and prestige goods; deferred reciprocity — gift and counter-gift, bridal exchange, hospitality debt — structures credit relations through oral memory of obligation.
+
+__Surplus Extraction & Redistribution:__ The basileus extracts modest surplus through feasting obligations and first-fruits offerings at sanctuaries; extraction is light and personal, not bureaucratic; communal allocation at sanctuary feasts redistributes meat and grain.
+
+__Wealth Distribution & Asset Defense:__ Warrior burials with bronze and iron grave goods indicate stratification, but wealth disparities are narrower than in palatial times; no fortified elite compounds or treasury institutions exist; assets are defended by kin solidarity and the threat of vendetta.
+
+__Byproducts & Waste Routing:__ Craft waste (slag, ceramic wasters) is minimal and locally dispersed; no waste-routing infrastructure is needed; no financial imbalances (debt overhang, price distortion) are documented in this non-monetary economy.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The patrilineal genos and broader phratry structure social obligation; inheritance passes through male lines; marriage alliances knit villages into regional networks; kinship is the skeleton of order.
+
+__Association & Mutual Aid:__ Beyond kin, mutual aid operates through guest-friendship (xenia) and sanctuary gatherings; nascent Panhellenic dedications at Olympia and Delphi (~900–850 BCE) indicate supra-local association forming around shared cult.
+
+__Leisure, Play & Sociability:__ Feasting at the basileus's hearth and sanctuary festivals provide the spaces of sociability; athletic competition and bardic performance at these gatherings forge bonds beyond daily labor.
+
+__Stratification, Status & Group Structure:__ The basileus and warrior elite sit atop a shallow hierarchy; status rests on martial prowess, gift-giving, and ritual leadership; boundaries are permeable — a successful raider or trader can rise.
+
+__Administrative Capacity & Institutional Integrity:__ No standing administration exists; the basileus rules through personal authority and council of elders (gerousia); decisions are made in oral assembly; no records, no bureaucracy, no diplomatic service beyond personal envoys.
+
+__Coercive Apparatus & Means of Force:__ The armed retinue of the basileus provides coercive capacity; iron weapons (swords, spears, daggers) are now widely accessible, and no single leader monopolizes force; warfare is small-scale raiding rather than organized campaign.
+
+__Discharge, Disorder & Decay:__ Vendetta and cattle-raiding are endemic but localized; guest-friendship and sanctuary truces mediate inter-village conflict; grievance circulates but does not accumulate into systemic disorder; the apparatus is thin but adequate for the scale.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The mood is cautiously optimistic — population is growing, land is available, trade is resuming; trust extends outward through xenia networks; risk tolerance rises as conditions stabilize.
+
+__Leadership & Personal Authority:__ The basileus commands through personal valor, eloquence in assembly, and generosity at the feast; authority is charismatic and contestable, not institutional.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to the basileus rests on performance — successful raids, bountiful feasts, favorable omens; failure erodes loyalty rapidly; legitimacy is shallow and must be constantly re-earned through spoken deeds and witnessed acts.
+
+__Political Will & Collective Resolve:__ Collective will is mobilized for seasonal raiding, sanctuary construction, and occasional alliance; cohesion is fragile, dependent on the basileus's ability to articulate shared purpose in assembly.
+
+__External Relations & Posture:__ External relations are handled through guest-friendship, marriage alliance, and sanctuary truces; no formal treaties exist; Euboean traders establish personal partnerships with Phoenician counterparts at Al Mina, sealed by oath and gift.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection is localized — a failed basileus is replaced rather than endured; no systemic exhaustion or apathy is evident; the will to expand and recover remains strong.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Greek dialects (proto-Ionic, proto-Doric, proto-Aeolic) provide mutual intelligibility across the Aegean, though regional differences are emerging; the shared linguistic code enables trade, alliance, and epic transmission.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of foot, horse, and sail; word of mouth along trade routes and at sanctuary gatherings is the primary channel; a message from Al Mina to Lefkandi takes weeks.
+
+__Record, Storage & Persistence:__ No writing exists; all institutional memory resides in living minds — the oral memory of elders, the formulaic verses of bards, the ritual knowledge of priests; death erases what is not retransmitted.
+
+__Framing, Censorship & Discourse Norms:__ Discourse is framed by aristocratic values — honor, prowess, xenia; what can be said in assembly is constrained by status; the basileus speaks first and last.
+
+__Reception, Attention & Amplification:__ Epic recitation at feasts amplifies heroic narrative; sanctuary proclamations spread news across the gathering; repetition and formulaic structure aid retention in the absence of text.
+
+__Signal Integrity & Noise Load:__ Oral transmission is high-fidelity within formulaic tradition (the epic) but lossy for prosaic detail; no verification mechanism exists beyond cross-checking with other informants; noise accumulates in non-formulaic domains.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is reciprocal — gift demands counter-gift, harm demands vengeance or compensation; the sense of dikē (right order) is emerging but not yet codified; shame (aidōs) and honor (timē) regulate conduct.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; custom (themis) and the oral rulings of the basileus in assembly constitute the regulatory order; precedent is remembered, not recorded.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by the basileus or council of elders in oral assembly; sanction ranges from compensation (cattle, goods) to exile; blood-feud remains the ultimate recourse when adjudication fails.
+
+__Rights, Protections & Compliance Burden:__ Rights are customary and status-dependent — the warrior's claim to booty, the guest's claim to hospitality, the suppliant's claim to sanctuary; compliance burden is light in a low-complexity society.
+
+__Impunity & Unredressed Wrong:__ Impunity accrues to the powerful — a basileus may escape sanction for wrongs that would doom a commoner; unredressed wrong festers and may erupt as vendetta; the gap between justice owed and delivered is real but localized.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No formal inquiry exists; understanding of the natural world is embedded in myth and practical craft knowledge; the paradigm is mythopoetic — causes are divine or heroic, not natural.
+
+__Applied Knowledge & Technical Method:__ Technical method is mature in iron-smithing, ceramic production (the Protogeometric style perfected, Early Geometric emerging), shipbuilding, and agriculture; knowledge is transmitted orally from master to apprentice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal — children learn from parents and kin; the knowledge stock is practical and mythic; specialized skill (smithing, bardic performance, navigation) is concentrated in hereditary lineages.
+
+__Obsolescence & Knowledge Decay:__ Mycenaean palatial knowledge (Linear B accounting, monumental architecture, chariot warfare) has been lost; some Bronze Age techniques (e.g., faience production) are extinct; knowledge decay is real but the loss is already past; current stock is stable.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The mythic memory of the heroic age — the Trojan War, the House of Atreus, the Theban cycle — is preserved and elaborated by bards; this memory anchors identity, linking present communities to ancestral glory even as the palatial world that produced it has vanished.
+
+__Legitimating Narrative & Ideology:__ The basileus claims descent from heroic ancestors and divine favor; the legitimating narrative is genealogical and mythic, articulated in oral assembly and bardic performance.
+
+__Artistic Expression & Material Culture:__ The Early Geometric ceramic style emerges — abstract geometric patterns (meanders, zigzags, concentric circles) replace the naturalistic Mycenaean motifs; grave goods include iron weapons, bronze fibulae, and gold ornaments; architecture is modest mudbrick and timber, no monumental construction.
+
+__Form Exhaustion & Meaning Decay:__ No form exhaustion is evident; the Geometric style is new and vital, replacing the degraded Submycenaean; the heroic mythos retains its potency as communities seek ancestral legitimacy.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is populated by gods who intervene in human affairs; fate (moira) and divine will govern outcomes; the outlook is pious but not fatalistic — human agency operates within divine limits, and the gods can be propitiated.
+
+__Ritual, Devotion & Sacred Practice:__ Animal sacrifice at open-air sanctuaries is the central rite; votive dedications (bronze tripods, figurines) appear at Olympia, Delphi, Delos from ~900 BCE; household cult honors ancestors and hearth deities.
+
+__Religious Institutions & Doctrinal Authority:__ No centralized priesthood or doctrinal authority exists; sanctuary administration is local; religious knowledge is held by hereditary priestly families and transmitted orally.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Olympian pantheon is stabilizing, though regional variation persists; contact with Phoenicians at Al Mina introduces Eastern motifs (sphinxes, griffins) that blend with Greek iconography; no displacement of native belief is occurring.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is evident; the sacred is vital and expanding, with sanctuary foundations multiplying; the cosmology answers existential questions and anchors community identity.
+

@@ -1,69 +1,140 @@
-# __1200 BCE – 900 BCE__ — Early Vedic Society and Rigvedic Composition
-__Summary:__ A three-century trend of tribal pastoralist consolidation in the Punjab river system (Sapta Sindhu), during which the Rigveda's core hymns reach completion and fire ritual becomes the central institution binding elite authority, priestly expertise, and oral transmission; the binding constraint is cattle — wealth, prestige, and inter-tribal conflict pivot on bovine accumulation — while margin against subsistence failure remains narrow in a semi-arid landscape dependent on seasonal rains and herd mobility; the direction of change moves toward greater ritual elaboration, emerging social stratification, and a widening priestly-warrior elite whose authority rests on oral mastery and sacrificial performance.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Sapta Sindhu — Indus and its Punjab tributaries (Jhelum, Chenab, Ravi, Beas, Sutlej) — provide ribbons of fertile floodplain traversing an otherwise semi-arid expanse; movement along river corridors is relatively easy, but cross-country transit through scrub and seasonal drought imposes friction; the Himalayan foothills bound the north, the Thar Desert the southeast.<br><br>
-__Climate Regime & Volatility:__ Summer monsoon delivers the bulk of annual rainfall between June and September; interannual variability is high, with droughts frequent and devastating to pastoral-agricultural communities; winter cool and dry; no evidence of major secular climate shift within the window, though the region is drier than the earlier Harappan optimum.<br><br>
-__Hazard Regime & Exposure:__ Seasonal flooding along rivers threatens riparian camps; drought years stress pasture and water supplies; no volcanic or seismic events attested; fire risk in dry grasslands; margin against consecutive failed monsoons is thin.<br><br>
-__Resource & Energy Endowment:__ Alluvial soils support barley cultivation; pasture for cattle, sheep, and goats; timber scarce on the plains but available in foothills; copper and gold obtained through exchange; iron not yet in widespread use; fuel from dung and brushwood.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density and pastoral mobility distribute organic waste across the landscape; no evidence of localized pollution or sink stress; absorptive capacity effectively unlimited for the scale of activity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal and respiratory infections; waterborne disease during monsoon; malaria present in wetter zones; infant and child mortality high by modern standards but typical for pastoral Bronze Age societies; no recorded epidemics.<br><br>
-__Nutrition & Physiological Vitality:__ Diet centered on dairy (milk, ghee, curds), barley porridge, and occasional meat; nutritional adequacy in good years but vulnerable to drought-induced shortfalls; skeletal evidence sparse; physiological vitality probably adequate for moderate labor.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal descent and patrilocal residence; polygyny attested among elites; marriage alliances cement inter-tribal relations; physiological fertility unconstrained; reproductive success tied to household cattle wealth.<br><br>
-__Demographic Renewal & Density:__ Population low and dispersed; birth rates sufficient for gradual growth; migration and tribal fission absorb surplus; density well below carrying capacity; no crowding pressure.<br><br>
-__Attrition & Dependency Overhang:__ Widows, orphans, and elderly absorbed into extended kin networks; dependency load modest relative to productive cohort; no evidence of systemic strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Pastoral base with cattle as primary wealth; barley cultivation supplementary; subsistence adequate in normal years but precarious during drought; household pooling and kin reciprocity buffer shortfalls.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle provide all motive power; cattle for traction and transport; horses prestigious but limited in number; dung and brushwood for fuel; no water or wind power harnessed; per-capita energy ceiling low.<br><br>
-__Labor Organization & Coercion:__ Household labor dominant; slaves (dasa) taken in raids exist but scale unclear; corvee absent; labor mobilization for large sacrifices coordinated through chiefly authority and ritual obligation, not standing coercion.<br><br>
-__Production & Surplus Capacity:__ Surplus modest; cattle herds generate dairy and occasional meat; barley harvests yield small storable grain; surplus flows primarily to ritual feasting and elite gift exchange; no large-scale commodity production.<br><br>
-__Storage, Reserves & Buffering:__ Grain stored in household pits; cattle themselves serve as mobile wealth reserve; ghee preservable; buffering against single bad season possible, but consecutive failures exhaust reserves.<br><br>
-__Exchange, Trade & Logistics:__ Gift exchange among chiefs and priests dominates; some long-distance exchange for metals (copper, gold), horses, and prestige goods; no markets or coinage; logistics limited to pack animals and riverine movement.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cattle function as unit of account and store of value; bride-wealth, compensation, and tribute measured in cows; deferred reciprocity through gift and counter-gift; no monetary instruments or formal credit.<br><br>
-__Surplus Extraction & Redistribution:__ Chiefs (rajan) collect voluntary tribute (bali) and war spoils; redistribution through sacrificial feasts and gifts to priests and warriors; extraction modest relative to subsistence floor.<br><br>
-__Wealth Distribution & Asset Defense:__ Cattle wealth concentrated among successful raiding chiefs and large households; raiding and counter-raiding the primary threat to holdings; no fortifications; wealth defended by kinship solidarity and martial prowess.<br><br>
-__Byproducts & Waste Routing:__ Animal dung recycled as fuel and fertilizer; organic waste dispersed on landscape; no toxic byproducts; waste load trivial relative to absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust highest within clan (gotra) and tribe (jana); guest hospitality (atithi) ritually mandated; reciprocal obligations bind kin; inter-tribal relations oscillate between alliance and raiding.<br><br>
-__Stratification, Status & Group Identity:__ Emerging functional distinctions — priests (brahmin), warriors (kshatriya), commoners (vaishya), and subjugated groups (shudra, dasa) — but boundaries still permeable; status earned through ritual expertise, martial success, and cattle wealth; tribal identity (Bharata, Puru, Anu, Druhyu) primary.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent; joint family households; inheritance through sons; marriage exogamous at gotra level; widow remarriage attested; kinship the primary organizational scaffold.<br><br>
-__Civic Association & Self-Organization:__ Tribal assemblies (sabha, samiti) deliberate on war, succession, and disputes; no formal civic associations beyond kinship and tribal structures; collective action organized through clan heads.<br><br>
-__Leisure, Play & Sociability:__ Chariot racing, cattle shows, soma feasts, and ritual gatherings provide occasions for elite sociability; music and hymn recitation integral to religious festivals; leisure embedded in ritual calendar.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes settled through assembly arbitration, blood-feud negotiation, or cattle compensation; raiding provides outlet for young warrior energy; residual grievance modest given kinship absorption.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Tribal chieftainship (rajan) — war leader, ritual patron, redistributor — exercising authority over a jana; power personal and charismatic, checked by assembly and priestly influence; fragmented among multiple competing tribes; centralizing trend visible as successful chiefs expand domains.<br><br>
-__Succession & Power Transfer:__ Succession often within royal lineage but not strictly hereditary; assembly ratification required; contested successions common; no routinized mechanism; transfer a recurrent flashpoint.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derived from divine favor (Indra, Varuna), sacrificial performance, martial success, and generous redistribution; hymns praise victorious kings; narrative of cosmic order (rta) upholds chiefly authority.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Minimal formal administration; no bureaucracy, written records, or taxation apparatus; rajan relies on household retainers and kin networks; capacity limited to personal reach.<br><br>
-__Political Participation & Mobilization:__ Free tribesmen participate in sabha and samiti; decisions require consensus or acclamation; warrior mobilization for raids and defense depends on personal loyalty and kin obligation; no standing army.<br><br>
-__Geopolitical Position & External Relations:__ Multiple tribes (Bharata, Puru, and others) in shifting alliance and rivalry; the Battle of the Ten Kings exemplifies confederation and conflict; no external imperial threat; relations with indigenous (dasa) groups range from subjugation to incorporation.<br><br>
-__Coercive Apparatus & Means of Force:__ Chariot-borne warrior elite with bronze weapons; cattle raids the primary form of organized violence; no fortifications or siege capability; command of force personal to chieftains and their retinues.<br><br>
-__Internal Order & Threat Environment:__ Cattle raiding endemic but contained within customary limits; banditry indistinguishable from raiding; no large-scale rebellion; internal order maintained through kin solidarity and assembly justice; disorder does not exceed enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at the speed of messenger, horse, or chariot; oral proclamation at assemblies; hymns recited at rituals; reach limited to direct auditory range; transmission velocity slow beyond the immediate community.<br><br>
-__Record, Storage & Persistence:__ Entirely oral; the Rigveda's hymns are composed, memorized, and transmitted through rigorous mnemonic training (chandas, svara) that preserves phonetic precision across generations; no writing; persistence depends on unbroken chains of trained reciters; loss occurs only if transmission lineage fails.<br><br>
-__Framing, Censorship & Discourse Norms:__ Priestly control over hymn composition and recitation; sacred speech (vac) carries ritual power; profane or incorrect speech tabooed; no formal censorship but strong normative constraints on ritual discourse.<br><br>
-__Reception, Attention & Amplification:__ Audiences at sacrifices and assemblies; hymns amplified through repetition and ritual prestige; elite monopoly on sacred knowledge limits broader reception.<br><br>
-__Signal Integrity & Noise Load:__ Mnemonic discipline maintains high signal integrity; errors corrected through communal recitation and teacher-student chains; noise load low given small corpus and dedicated transmission class.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Rta (cosmic order) underpins moral expectations; truth-telling, hospitality, and reciprocity valorized; transgression invites divine and social sanction; justice conceived as restoration of order.<br><br>
-__Law, Codification & Regulatory Evolution:__ No written law; customary norms transmitted orally and embodied in hymnic injunctions; taboos on oath-breaking, guest-harm, and kinslaying; regulatory evolution slow and embedded in ritual elaboration.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes brought before assembly (sabha) or arbitrated by elders; cattle compensation standard remedy; ordeal and oath invoked for unclear cases; liability assigned to kin group; enforcement relies on kin retaliation and community pressure.<br><br>
-__Rights, Protections & Compliance Burden:__ Free tribesmen enjoy customary protections; guests under host's protection; dasas have diminished standing; compliance burden low given simplicity of norms; predictability high within customary framework.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful chiefs may evade full accountability; blood-feuds occasionally escalate; most wrongs eventually settled through compensation; residual impunity modest.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cosmogonic speculation in later Rigvedic hymns (e.g., Nasadiya Sukta) asks about origins; no systematic natural inquiry; paradigm is mythic-ritual, explaining phenomena through divine agency.<br><br>
-__Applied Knowledge & Technical Method:__ Chariot construction, bronze metallurgy, animal husbandry, and sacrificial technique constitute applied knowledge; methods transmitted through apprenticeship; no formal engineering.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education oral and embedded in household and priestly training; literacy absent; knowledge stock small but intensively preserved; specialist skills (chariotry, priestcraft) restricted to trained lineages.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier Harappan urban techniques already lost; knowledge stable within the window; decay risk lies in transmission failure, mitigated by redundant lineages.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Foundational identity as Arya (noble) peoples favored by the gods, especially Indra the dragon-slayer; ancestral heroes and divine victories recounted in hymns; tribal genealogies and migration memories shape collective identity.<br><br>
-__Artistic Expression & Material Culture:__ Material culture modest — painted grey pottery emerging, bronze ornaments, chariots; artistic expression concentrated in oral poetry: metrical hymns (chandas) with elaborate poetic conventions, metaphor, and formulaic language.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood confident and expansive among successful tribes; martial valor, generosity, and piety celebrated; anxiety over cattle loss and divine displeasure present but not dominant.<br><br>
-__Form Exhaustion & Meaning Decay:__ Ritual and poetic forms still generative; no evidence of exhaustion; hymns actively composed and recited with full meaning; forms not yet hollowed.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmos with Indra, Agni, Varuna, Soma, and other devas governing natural and moral order; rta (cosmic order) sustains the world; human ritual participation maintains cosmic balance; afterlife conceptions vague but positive for the righteous.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Fire sacrifice (yajna) central; soma pressing and offering; daily domestic rites and major public sacrifices (ashvamedha, rajasuya emerging); devotion expressed through hymn recitation and offering.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Priestly families (brahmin lineages) hold monopoly on sacred knowledge; doctrinal authority vested in oral tradition; no temples or centralized hierarchy; authority diffuse across priestly clans; orthodoxy enforced through transmission discipline.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Vedic religion expanding with Arya settlement; some incorporation of local deities and practices; earlier Harappan religious elements possibly absorbed but unattested; no competing cosmology threatens dominance.<br><br>
-__Disenchantment & Sacred Discharge:__ Sacred cosmos fully enchanted; no disenchantment or secularizing drift; existential needs met within ritual framework; no residue of unanchored spiritual need.<br><br>
+# __1,200 BCE – 900 BCE__ — Early Vedic Society and Rigvedic Composition
+
+__Summary:__ A snapshot of the Indo-Aryan-speaking pastoral society settled across the Punjab and upper Indus region during the oral composition of the Rigveda; the binding constraint is that spoken language carries all institutional memory — hymns memorized through exact recitation preserve cosmology, ritual, genealogy, and law, but nothing exists unless spoken and nothing persists unless remembered, making the priestly keepers of the oral corpus the indispensable spine of the social order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Vedic heartland spans the Sapta Sindhu — the seven rivers of the Punjab and upper Indus basin, including the Indus, Jhelum, Chenab, Ravi, Beas, Sutlej, and the still-flowing Ghaggar-Hakra (the Sarasvati of the Rigveda); rolling interfluves and river-valley corridors channel seasonal migration, while the Thar fringe to the southeast and the Hindu Kush passes to the northwest bound the region; spatial friction is moderate — flat terrain permits movement, but fording seasonal rivers and traversing scrub requires knowledge held in oral route-lore.
+
+__Climate Regime & Volatility:__ The monsoon delivers summer rains, sustaining grasslands for cattle and limited barley cultivation; interannual variability is significant, with failed rains triggering herd movement; longer-term aridification following the 4.2 ka event has reduced river flow and thinned the Sarasvati, though the Punjab rivers remain viable.
+
+__Hazard Regime & Exposure:__ Floods during heavy monsoons, seasonal drought, and localized epidemic outbreaks among crowded herds are the principal hazards; fortification is absent and settlements are impermanent, limiting the accumulation of fixed assets vulnerable to destruction.
+
+__Resource & Energy Endowment:__ Grassland for pasture is the critical resource; copper is available from regional sources; iron is absent or negligible; timber is scarce on the plains; the energy ceiling is set by cattle, human muscle, and fire; no draft animals beyond cattle are in regular use, and the horse, though present and prestigious, serves warfare and ritual rather than traction.
+
+__Waste Absorption & Sink Capacity:__ Pastoral dispersal spreads dung across the landscape as fertilizer; human refuse is minimal given mobile camps; the sink is unloaded, with no saturation or feedback evident.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal and respiratory infections circulate; cattle-borne zoonoses and water contamination during crowded gatherings raise disease exposure; infant and child mortality is high; adult mortality from warfare and accident supplements baseline disease loss.
+
+__Nutrition & Physiological Vitality:__ Dairy, grain, and occasional meat provide adequate nutrition for most; seasonal scarcity during droughts or herd losses can stress households; physical robustness is generally high, consistent with an active pastoral-warrior life.
+
+__Care, Healing & Recovery Capacity:__ Healing rests on herbal knowledge, ritual chants, and the care of women within households; the Atharvaveda (later) records incantations against disease, suggesting the period's reliance on oral healing lore; formal medical institutions are absent.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal descent and patrilocal marriage pattern the population; polygyny is practiced among chiefs and wealthy householders; fertility is high, valued for producing sons to tend cattle and fight; exogamous marriage alliances bind clans.
+
+__Demographic Renewal & Density:__ Population density is low across the landscape; clans number in the hundreds to low thousands; renewal exceeds attrition, supporting gradual expansion; migration absorbs surplus population into new pastures.
+
+__Attrition & Dependency Overhang:__ Widows, orphans, and the elderly remain within extended kin networks; the load is distributed across households and absorbed without visible strain given favorable adult-to-dependent ratios.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Cattle provide milk, ghee, meat, and hides; barley is cultivated in seasonal plots; wild plants and game supplement the diet; households pool resources within the grama (village cluster); subsistence is above the edge but vulnerable to drought or herd disease.
+
+__Energy Capture & Conversion:__ Human and bovine muscle supply all work; fire processes food and heats metal; no water or wind power is harnessed; the per-capita energy ceiling is low but sufficient for pastoral and light agricultural tasks.
+
+__Labor Organization & Coercion:__ Household labor is organized by kinship and gender; captives taken in war (dasa) perform menial tasks; no formal slavery system or corvee exists; labor is largely familial and compensated through subsistence sharing.
+
+__Production & Surplus Capacity:__ Surplus takes the form of cattle herds rather than stored grain; chiefs and successful warriors accumulate larger herds; surplus flow is seasonal and dependent on pasture quality; no industrial production exists.
+
+__Storage, Reserves & Buffering:__ Ghee can be stored; dried grain offers limited reserves; cattle themselves function as mobile wealth and buffer; no granaries or treasuries exist; risk pooling operates through kin reciprocity and gift exchange.
+
+__Exchange, Trade & Logistics:__ Exchange is gift-based and barter-based within and between clans; cattle are the primary value measure; long-distance trade is minimal, though copper and rare goods circulate; no formal markets or routes persist.
+
+__Value Storage, Credit & Deferred Exchange:__ Cattle serve as the unit of account and store of value (the word for war, gavisti, means "desire for cows"); deferred obligations operate through oral promise and witnessed gift; no monetary medium exists.
+
+__Surplus Extraction & Redistribution:__ Chiefs collect tribute (bali) in cattle and grain from dependents and distribute it through feasts and war-gifts; extraction is light and mediated by reciprocity; no formal taxation apparatus exists.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in cattle held by chiefs and successful warriors; defense relies on armed retainers and tribal solidarity; raiding redistributes wealth between clans.
+
+__Byproducts & Waste Routing:__ Dung is recycled as fuel and fertilizer; slaughter waste is consumed or scattered; no accumulated material or financial imbalance accrues.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The patrilineal, patrilocal joint family (kula) is the basic unit; inheritance passes father to sons; larger groupings — grama (village), vis (clan), jana (tribe) — nest families within tribal structure; exogamous marriage creates inter-clan alliances.
+
+__Association & Mutual Aid:__ Clans provide mutual aid in herding, warfare, and ritual; sabha (assembly of elders) and samiti (tribal gathering) coordinate collective decisions; no guilds or voluntary associations exist beyond kinship.
+
+__Leisure, Play & Sociability:__ Chariot racing, gambling (dice), and ritual feasting occupy non-work time; sacrificial festivals bring clans together; song and recitation of hymns entertain and instruct.
+
+__Stratification, Status & Group Structure:__ A threefold functional division is emerging: brahmins (priests who memorize and recite hymns), kshatriyas/rajanyas (warriors and chiefs), and vis (common herders and cultivators); boundaries are fluid, not yet the rigid varna system; dasas (conquered peoples) occupy a servile position outside this structure.
+
+__Administrative Capacity & Institutional Integrity:__ The rajan (chief/king) leads the tribe in war and ritual; he rules with the counsel of sabha and samiti; administration is personal, not bureaucratic; no standing offices, records, or civil apparatus exist — all institutional memory resides in oral tradition held by priests and elders.
+
+__Coercive Apparatus & Means of Force:__ Warfare is chariot-based among elites, with foot soldiers supporting; copper weapons (axes, spears, daggers) predominate; iron is absent; the horse-drawn chariot is the premier weapon platform; tribal levies mobilize for cattle raids and inter-tribal conflict; no standing army exists.
+
+__Discharge, Disorder & Decay:__ Raiding and inter-tribal warfare are endemic but contained within customary limits; vendetta cycles are mediated by elders and ritual compensation; unresolved grievance occasionally escalates to larger conflicts (the Battle of the Ten Kings is remembered in the Rigveda); disorder is absorbed through migration and the fluidity of tribal allegiance.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A warrior ethos valorizes courage, generosity, and cattle-wealth; trust operates within kin and clan, contracting sharply beyond; mood is confident and expansionist among successful tribes, anxious among those under pressure.
+
+__Leadership & Personal Authority:__ The rajan commands through martial prowess, generosity in distribution, and ritual sanction provided by brahmin priests; personal charisma and success in war are the sources of authority; succession is contested among eligible kinsmen.
+
+__Legitimacy as Lived Allegiance:__ Allegiance is personal and tribal, not territorial; the rajan's legitimacy rests on his ability to provide victory and prosperity; failure erodes allegiance quickly; priests validate authority through ritual but do not monopolize it.
+
+__Political Will & Collective Resolve:__ Tribal councils deliberate on war and migration; collective will is mobilized through oratory, sacrifice, and the recitation of heroic hymns; the drive to expand pastures and acquire cattle is strong.
+
+__External Relations & Posture:__ Tribes compete for territory and cattle; alliances shift; the Bharata tribe's victory at the Battle of the Ten Kings (dasharajna) establishes temporary dominance; relations with dasa populations range from warfare to incorporation.
+
+__Disaffection, Apathy & Spent Will:__ Defeated tribes disperse or submit; individual disaffection is absorbed through migration or exile; no standing apathy or exhaustion is evident in this expansionist phase.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Vedic Sanskrit is the prestige language of ritual and poetry; Prakrit vernaculars are spoken; the oral code is exclusive to those trained in memorization — brahmins hold the full hymnic corpus, while ordinary members understand prayers and commands; no writing exists.
+
+__Channels & Transmission Velocity:__ Voice carries information within earshot; messengers on horseback or chariot extend reach across distances; transmission velocity is limited by travel speed; important news spreads through kin networks and assemblies.
+
+__Record, Storage & Persistence:__ Memory is the sole medium of record; the Rigveda is preserved through rigorous rote memorization, with multiple mnemonic techniques (padapatha, kramapatha) ensuring exact transmission; no external storage exists; what is not memorized is lost.
+
+__Framing, Censorship & Discourse Norms:__ Ritual hymns are sacred and must be recited exactly; deviation is forbidden; secular speech is freer but governed by customary respect for elders and chiefs; no formal censorship exists, but heterodox speech risks social exclusion.
+
+__Reception, Attention & Amplification:__ Hymns are performed at sacrifices before attentive audiences; heroic recitations at feasts amplify the fame of patrons and poets; attention is concentrated at ritual gatherings.
+
+__Signal Integrity & Noise Load:__ The mnemonic system maintains extraordinary signal integrity across generations; oral transmission filters out corrupted versions through collective correction; noise is minimal within the priestly lineage, though esoteric knowledge may be lost if a lineage ends.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Rita (cosmic order) underpins moral thought; truth, hospitality, and loyalty to kin are cardinal virtues; cattle theft between tribes is legitimate warfare, not crime; internal theft and oath-breaking are grave wrongs.
+
+__Law, Codification & Regulatory Evolution:__ No written law exists; custom (dharma in embryonic form) governs conduct; elders and assemblies adjudicate disputes according to remembered precedent; taboos surround pollution, incest, and ritual violation.
+
+__Adjudication, Liability & Sanction:__ Disputes are resolved through assembly deliberation, ordeals, or combat; compensation (often in cattle) satisfies liability; serious wrongs incur exile or death; divine sanction through oath reinforces adjudication.
+
+__Rights, Protections & Compliance Burden:__ Kin membership confers protection; outsiders and dasas have limited standing; compliance burden is light, governed by customary expectation rather than formal rule.
+
+__Impunity & Unredressed Wrong:__ Chiefs and warriors may evade sanction through power; vendetta cycles sometimes persist; the gap between justice owed and delivered exists but is absorbed within the flexibility of tribal politics.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is embedded in ritual and myth; the Rigveda asks speculative questions about cosmic origins (the Nasadiya Sukta: "Who really knows? Who will here proclaim it?"); observation of nature informs agricultural timing; no formal empirical method exists.
+
+__Applied Knowledge & Technical Method:__ Chariot construction, copper metallurgy, animal husbandry, and barley cultivation represent accumulated technique; knowledge is transmitted through apprenticeship and oral instruction; no written manuals exist.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is familial and lineage-based; brahmin boys memorize hymns from childhood; craft skills pass within artisan families; knowledge stock is held entirely in memory; distribution is narrow for esoteric knowledge, broader for practical skills.
+
+__Obsolescence & Knowledge Decay:__ Knowledge lost when a lineage ends is irrecoverable; the mnemonic system minimizes decay for canonical texts; practical techniques may be lost through migration or social disruption.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Indo-Aryan identity centers on descent from common ancestors, the gods of the Vedic pantheon (Indra, Agni, Varuna, the Maruts), and the remembered migrations and victories of the tribes; the Battle of the Ten Kings anchors Bharata identity; dasas are defined as other.
+
+__Legitimating Narrative & Ideology:__ The rajan rules by divine favor and martial success; brahmin priests legitimate authority through ritual; the ideology of cattle-wealth and warrior valor justifies the social order; the threefold division is presented as natural and divinely sanctioned.
+
+__Artistic Expression & Material Culture:__ Poetry is the supreme art — Rigvedic hymns display sophisticated meter, imagery, and wordplay; material culture is modest: simple pottery, copper ornaments, woven textiles; chariots and horse trappings carry prestige; architecture is impermanent (wood, reed, thatch).
+
+__Form Exhaustion & Meaning Decay:__ The tradition is in its generative phase; forms are vital and evolving; no exhaustion or hollowing is evident; the hymnic corpus continues to grow.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is ordered by rita, the principle of cosmic law and truth; gods personify natural and moral forces; the world is seen as a contest between order (deva) and chaos (asura, dasa); human life participates in this cosmic drama through ritual.
+
+__Ritual, Devotion & Sacred Practice:__ Sacrifice (yajna) is the central ritual, ranging from household offerings to elaborate soma sacrifices; fire (Agni) mediates between humans and gods; hymns must be recited exactly to ensure efficacy; priests perform on behalf of patrons who provide fees (dakshina).
+
+__Religious Institutions & Doctrinal Authority:__ Brahmin lineages hold ritual knowledge; no temples or centralized priesthood exist; authority resides in memorized texts and the families that preserve them; doctrine is transmitted orally and is not yet codified into systematic theology.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Indo-Aryan religion is spreading with the tribes; some incorporation of indigenous deities and practices may occur; the overall direction is expansion of Vedic tradition across the Punjab.
+
+__Disenchantment & Sacred Discharge:__ The sacred is immediate and potent; no disenchantment is evident; the cosmos is alive with divine presence; existential anxiety is addressed through ritual and the assurance of cosmic order.
+

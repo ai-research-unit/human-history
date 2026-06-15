@@ -1,69 +1,140 @@
 # __30,000 BCE – 15,000 BCE__ — Late Upper Paleolithic Adaptation in the Aegean
-__Summary:__ A static snapshot of small foraging populations persisting through the Last Glacial Maximum in the Aegean region; sea levels at their lowest point (approximately 120 meters below present) expose vast coastal plains and connect many future islands to the mainland; the binding constraint is climate severity during the LGM peak reducing biomass availability; population remains extremely sparse but resilient; the system holds maximum margin in all domains except climatic stress on subsistence.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Dramatically lowered sea levels transform the geography; the Cycladic plateau largely exposed as continuous land; Crete separated by narrower channels; extensive coastal plains now available; limestone caves continue as primary shelter sites including Franchthi and Klissoura; spatial friction reduced by land connections.<br><br>
-__Climate Regime & Volatility:__ Full glacial conditions during LGM peak (circa 25,000–18,000 BCE); temperatures 6–10 degrees Celsius below present; precipitation reduced; steppe-tundra vegetation in northern zones grading to Mediterranean scrub southward; climate severe but stable within glacial parameters; post-20,000 BCE gradual amelioration begins.<br><br>
-__Hazard Regime & Exposure:__ Seismic and volcanic hazard persistent but quiescent; winter cold the primary environmental stress; drought conditions possible during glacial maxima; population mobility and cave shelter provide adequate buffering; exposure manageable.<br><br>
-__Resource & Energy Endowment:__ Reduced but adequate terrestrial fauna including cold-adapted species; marine resources along extended coastlines; Melos obsidian continues accessible with shorter maritime crossing; fuelwood available though potentially scarcer in coldest periods; drawdown negligible.<br><br>
-__Waste Absorption & Sink Capacity:__ Extremely sparse population produces negligible waste; cave deposits accumulate slowly over millennia; landscape absorptive capacity unlimited; no saturation concern.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cold conditions may suppress some pathogens; endemic parasites persist; mortality driven by cold stress, injury, and nutritional marginalness during severe periods; baseline death rate elevated during LGM peak but population persists.<br><br>
-__Nutrition & Physiological Vitality:__ Diet narrower during glacial maximum with reduced plant availability; reliance on hunting and marine resources intensifies; physiological stress possible during coldest phases; vitality adequate for population persistence though potentially reduced from earlier baseline.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Small band structure continues; pair-bonding and inter-band exchange maintained; physiological fertility potentially reduced by nutritional stress; effective fertility sufficient for replacement but not expansion during LGM peak.<br><br>
-__Demographic Renewal & Density:__ Population at nadir, possibly only dozens to low hundreds across the region; replacement rate near or slightly below unity during coldest phases; density at extreme low; demographic recovery begins with post-glacial warming.<br><br>
-__Attrition & Dependency Overhang:__ High mortality at all ages during stress periods; few survive to old age; dependency load minimal; no accumulating overhang; population trimmed to productive core.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Immediate-return foraging continues with Epigravettian toolkit; diet shifts toward marine resources and cold-tolerant game; Franchthi Cave shows continued occupation with shellfish exploitation; provisioning floor closer to carrying capacity during LGM but not breached.<br><br>
-__Energy Capture & Conversion:__ Human muscle and fire remain sole energy sources; fire critical for survival in cold conditions; conversion efficiency unchanged; per-capita work ceiling stable.<br><br>
-__Labor Organization & Coercion:__ Egalitarian band organization persists; task allocation by age and sex; no coercion beyond kinship obligation; labor structure unchanged.<br><br>
-__Production & Surplus Capacity:__ Production limited to immediate consumption; Epigravettian backed bladelets represent toolkit adaptation to smaller game; surplus capacity nil; no storage infrastructure.<br><br>
-__Storage, Reserves & Buffering:__ Cold conditions may permit natural refrigeration of cached meat; buffering primarily through mobility and diet flexibility; reserves minimal but climate assists preservation.<br><br>
-__Exchange, Trade & Logistics:__ Reduced population limits exchange network density; Melos obsidian still reaching Franchthi indicates maintained contact; exchange volume lower but networks persist; logistics constrained by reduced population.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Deferred reciprocity within and between bands continues as sole value-storage mechanism; no material medium; obligations carried in memory and oral commitment.<br><br>
-__Surplus Extraction & Redistribution:__ No extractive authority; communal sharing norms intact; redistribution immediate following successful hunts; no accumulated surplus to extract.<br><br>
-__Wealth Distribution & Asset Defense:__ No wealth accumulation; distribution flat; personal toolkit the only property; defense unnecessary.<br><br>
-__Byproducts & Waste Routing:__ Lithic debitage, bone, and ash accumulate in cave deposits; volume negligible; no routing decisions required; waste dispersed naturally.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Survival dependence intensifies mutual aid; trust within band absolute; inter-band contact reduced by lower population but maintained through kinship links; trust radius stable.<br><br>
-__Stratification, Status & Group Identity:__ Egalitarian structure unchanged; status from skill and experience; band identity primary; no hardening of boundaries.<br><br>
-__Kinship, Family & Inheritance:__ Kinship systems continue flexible bilateral patterns; marriage maintains inter-band alliance; inheritance limited to knowledge and tools; structure stable.<br><br>
-__Civic Association & Self-Organization:__ Band remains sole organizational unit; no secondary associations; self-organization adequate for scale; fabric thin but functional.<br><br>
-__Leisure, Play & Sociability:__ Reduced population may limit aggregation opportunities; sociability concentrated within band; oral tradition and craft production provide leisure activity; social life contracted but sufficient.<br><br>
-__Grievance Channels & Social Discharge:__ Small group size and survival pressure suppress conflict; grievances resolved through existing mechanisms; fission less viable given sparse population; discharge adequate.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous organization continues; no centralization; situational leadership based on competence; authority diffuse and consensual.<br><br>
-__Succession & Power Transfer:__ No offices; leadership contextual; succession not applicable.<br><br>
-__Legitimacy & Political Narrative:__ Competence and sharing generosity legitimate influence; oral tradition supports egalitarian norms; no political narrative distinct from cosmology.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administration; coordination through kinship; capacity matched to minimal scale; no institutional structure to maintain integrity.<br><br>
-__Political Participation & Mobilization:__ All adults participate in band decisions; mobilization unnecessary; dissent expressed through non-compliance or departure.<br><br>
-__Geopolitical Position & External Relations:__ No polities; inter-band relations cooperative given low density and shared stress; no territorial competition; relations fluid and peaceful.<br><br>
-__Coercive Apparatus & Means of Force:__ No specialized coercive capacity; hunting weapons serve defense; force distributed among adult males; no organized violence.<br><br>
-__Internal Order & Threat Environment:__ Predator threat present; human conflict minimal given extreme low density; internal order maintained through social norms; threat environment stable.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Face-to-face speech remains sole channel; velocity limited to human movement; reduced population may slow inter-group information flow; reach contracted but adequate.<br><br>
-__Record, Storage & Persistence:__ All information held in living memory and oral tradition; no external storage medium; persistence dependent on continuous transmission; smaller population increases fragility of knowledge preservation.<br><br>
-__Framing, Censorship & Discourse Norms:__ No censorship apparatus; discourse governed by social respect and ritual context; norms stable; no narrowing of permitted speech.<br><br>
-__Reception, Attention & Amplification:__ Small audiences ensure focused attention; repetition provides amplification; no competing information streams; reception conditions unchanged.<br><br>
-__Signal Integrity & Noise Load:__ Oral transmission continues subject to generational drift; verification through multiple rememberers; smaller population may reduce redundancy; noise load manageable but preservation margin thinner.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity and sharing norms paramount; fairness in distribution critical during resource stress; sense of justice immediate and interpersonal.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law; customary norms governing conduct; stability high; no evolution detectable.<br><br>
-__Adjudication, Enforcement & Liability:__ Informal mediation by elders or consensus; enforcement through social sanction; liability situational; throughput matches minimal caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ No formal rights; protection through band membership; compliance burden low; predictability high.<br><br>
-__Impunity & Unredressed Wrong:__ Face-to-face society prevents impunity; wrongs addressed immediately; expulsion ultimate sanction; redress complete.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of animal behavior, plant availability, stone-working, and navigation maintained; animist paradigm frames understanding; inquiry embedded in practice.<br><br>
-__Applied Knowledge & Technical Method:__ Epigravettian technology represents adaptation to changed conditions; backed bladelets for smaller game; marine exploitation techniques refined; methods transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Informal learning continues; knowledge stock maintained though potentially at risk from demographic thinning; skills distributed across adults; no formal education.<br><br>
-__Obsolescence & Knowledge Decay:__ Knowledge vulnerable to loss through death of carriers in small population; Aurignacian techniques superseded by Epigravettian; decay risk elevated but no catastrophic loss evident given continued occupation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Ancestral narratives and totemic affiliations presumably maintained; identity grounded in kinship and band; continuity with earlier traditions; specific content unrecoverable.<br><br>
-__Artistic Expression & Material Culture:__ Sparse material record; personal ornaments continue; Epigravettian toolkit shows functional standardization; no recovered figurative art; aesthetic expression likely present but archaeologically invisible.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood unrecoverable; behavioral disposition inferred as conservative and risk-averse given survival pressure; persistence through LGM demonstrates resilience.<br><br>
-__Form Exhaustion & Meaning Decay:__ Cultural forms presumably vital; no exhaustion detectable; renewal through performance continues; small population may concentrate rather than dilute meaning.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Animist worldview continues; relationship with animals, land, and seasonal forces central; existential outlook accepts hardship as natural condition; no detectable shift.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ritual activity sparsely attested; burial practices at Franchthi indicate care for dead; seasonal and hunting rituals probable; sacred practice integrated with survival activity.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutions; ritual specialists possible but authority informal; no doctrine or orthodoxy; practice transmitted orally within band.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No competing belief systems present; diffusion limited to inter-band contact; system stable and undiluted; isolation may preserve archaic forms.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment; sacred fully operative; existential needs met within cosmological framework; no gap between belief and experience; spiritual system intact.<br><br>
+
+__Summary:__ Foraging bands in the Aegean region persist through the Last Glacial Maximum by retreating into southern refugia and coastal niches, developing maritime capacity sufficient to procure obsidian from Melos, and maintaining oral traditions that carry ecological knowledge, kinship obligation, and spiritual practice across generations; the binding constraint remains the oral substrate — all that is known, coordinated, or remembered depends on speech and living memory, so that collective knowledge cannot exceed what breath and recall can hold and hand down.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Sea levels drop to their glacial minimum — roughly 120 meters below present — around 26,500–19,000 BP, exposing vast coastal plains now submerged, connecting some Cycladic islands, and reducing but not eliminating water gaps between Melos and the mainland; the Argolid peninsula, site of Franchthi Cave, commands a sheltered embayment with access to both marine and hinterland resources; limestone karst provides cave shelters across the southern mainland, while northern zones are marginal or abandoned as steppe-tundra advances.
+
+__Climate Regime & Volatility:__ The Last Glacial Maximum imposes temperatures 4–6 degrees Celsius below present, with reduced precipitation and expanded aridity in the interior; southern Greece retains Mediterranean scrub and open woodland, functioning as a biological and human refugium; seasonality is extreme, with harsh winters and brief growing seasons; interannual variability is high, and multi-decadal cold spells can push plant and animal communities to local extinction.
+
+__Hazard Regime & Exposure:__ Seismic activity continues along the Hellenic Arc, posing intermittent risk to cave occupants; the primary hazard is climatic — cold, drought, and resource failure — rather than acute geophysical shock; storm surge and sea-level oscillations reshape coastlines gradually, requiring adaptive tracking of marine resource zones.
+
+__Resource & Energy Endowment:__ Faunal assemblages include red deer, ibex, boar, hare, and tortoise, with equids present in some assemblages; marine resources — fish and shellfish — are increasingly exploited at coastal sites like Franchthi; plant foods are seasonal and limited by cold; the signal innovation of the window is the appearance of Melian obsidian at Franchthi by approximately 13,000–11,000 BCE, indicating open-water voyaging and awareness of island lithic sources.
+
+__Waste Absorption & Sink Capacity:__ Human impact on the landscape remains negligible; midden accumulation at cave mouths is localized; fire-clearing may influence local vegetation mosaics, but at band-scale density the sink absorbs all loads without measurable degradation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic parasites and zoonotic infections from game constitute the primary disease burden; epidemic disease is unlikely in dispersed, mobile populations; trauma from hunting, exposure, and interpersonal violence contributes to mortality; baseline life expectancy remains low, with high infant and childhood mortality.
+
+__Nutrition & Physiological Vitality:__ Nutritional status fluctuates with resource availability; glacial conditions reduce plant diversity and game abundance, increasing nutritional stress during cold peaks; coastal exploitation of marine resources provides a buffer, particularly shellfish and fish; physiological robustness is adequate for mobile foraging but shows episodic stress markers in skeletal remains from comparable contexts.
+
+__Care, Healing & Recovery Capacity:__ Healing capacity is limited to orally transmitted knowledge of wound care, bone-setting, and herbal remedies; serious injury or chronic illness results in dependency on kin or death; no institutional healing exists.
+
+__Reproductive Biology & Pairing Dynamics:__ Pair-bonding and kin-based mating regulate reproduction; fertility is constrained by caloric stress and prolonged lactation; population replacement is slow, and genetic diversity depends on inter-band exogamy.
+
+__Demographic Renewal & Density:__ Population density contracts during the LGM, concentrating in southern refugia; total regional population may number only in the hundreds to low thousands; slow renewal and episodic local extinction characterize the window; post-glacial warming after 19,000 BP permits gradual demographic recovery.
+
+__Attrition & Dependency Overhang:__ The dependency load is absorbed within kin bands; severe mobility constraints on the infirm limit survival of non-productive individuals; the productive cohort is not overwhelmed but operates near the margin during resource stress.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Foraging bands exploit a narrowing resource base during the LGM — game, marine resources at coastal sites, wild plants where available; the provisioning floor is precarious during cold peaks, somewhat more secure in coastal refugia with access to shellfish and fish; household pooling buffers short-term shortfalls.
+
+__Energy Capture & Conversion:__ Human muscle and controlled fire remain the sole energy converters; per-capita energy throughput is low, gated by foraging returns and the physical demands of mobility; no surplus capacity exists for accumulation.
+
+__Labor Organization & Coercion:__ Labor is organized along age and sex lines within kin bands; coercion is minimal; task allocation follows skill and kinship obligation; maritime forays — the sea crossings to Melos — require coordinated effort and technical knowledge, organized through oral instruction and shared expectation.
+
+__Production & Surplus Capacity:__ Production is oriented toward immediate consumption; surplus capacity is negligible; output ceilings are set by foraging returns, which contract during glacial peaks and expand with post-glacial warming.
+
+__Storage, Reserves & Buffering:__ Storage is limited to cached provisions in caves and rock shelters; no durable reserves exist; risk is buffered through mobility, dietary flexibility, and reciprocal sharing rather than accumulated stocks.
+
+__Exchange, Trade & Logistics:__ The appearance of Melian obsidian at Franchthi indicates nascent long-distance exchange or direct procurement voyages across open water; volumes are tiny — trace amounts in assemblages — but the fact of sea crossing implies boats capable of island-hopping and social networks or expeditions linking mainland and island groups; logistics remain pedestrian and watercraft-based.
+
+__Value Storage, Credit & Deferred Exchange:__ Value is stored in portable goods and in remembered obligations — social credit tracked through memory and enforced by reputation; no formal currency or accounting exists.
+
+__Surplus Extraction & Redistribution:__ There is no extractive authority; redistribution occurs through voluntary sharing within bands and reciprocal exchange between bands; no tribute, tax, or rent is levied.
+
+__Wealth Distribution & Asset Defense:__ Wealth differentials are minimal; personal possessions are portable and perishable; status derives from skill and social standing rather than material holdings; asset defense is unnecessary.
+
+__Byproducts & Waste Routing:__ Processing waste — bone, shell, lithic debitage — accumulates in site deposits; organic waste decomposes; material throughput is small enough that waste does not impede occupation.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship organizes bands into clusters of related households; exogamous marriage rules circulate individuals and alliances between bands; inheritance is minimal, limited to portable tools and social standing; kinship obligations are the primary scaffold of social life.
+
+__Association & Mutual Aid:__ Mutual aid is kin-based; the band is the unit of daily cooperation; multi-band aggregations occur for ceremony, exchange, or collective hunts; obligations of sharing and reciprocity are enforced by reputation and exclusion threat.
+
+__Leisure, Play & Sociability:__ Non-work time is spent in sociability — storytelling, song, dance, and game; these activities transmit cultural knowledge, reinforce bonds, and provide psychological respite; shared festive moments accompany successful hunts and gatherings.
+
+__Stratification, Status & Group Structure:__ Stratification is weak; status accrues to skilled hunters, elders, and individuals with ritual or maritime knowledge, but is not heritable or institutionalized; boundaries between bands are permeable.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administrative apparatus exists; decision-making is consensus-based within bands; there are no offices, records, or bureaucracy.
+
+__Coercive Apparatus & Means of Force:__ Organized violence is episodic and small-scale — raiding, vendetta, territorial defense; weapons are those of the hunt; no standing military exists; coercive capacity is limited to adult males of a band.
+
+__Discharge, Disorder & Decay:__ Social friction is discharged through mobility and ritual reconciliation; unresolved conflict results in violence or exile; the apparatus is too minimal to sclerose; coordination failures can lead to band dissolution or abandonment of territory.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Band-scale society sustains high trust within the group and wariness toward outsiders; sentiment tracks immediate conditions — abundance brings confidence, scarcity brings anxiety; the emotional baseline is vigilant but cooperative.
+
+__Leadership & Personal Authority:__ Leadership is situational; skilled hunters, persuasive speakers, and elders with deep knowledge command influence; those who lead sea crossings to Melos or other dangerous forays gain prestige; authority is contingent and revocable.
+
+__Legitimacy as Lived Allegiance:__ Allegiance runs to kin and to individuals who demonstrate competence and generosity; legitimacy is earned through performance; disaffection leads to departure rather than rebellion.
+
+__Political Will & Collective Resolve:__ Collective will is mobilized through persuasion; major decisions require consensus; resolve depends on perceived benefit and trust in leaders; internal fractures can paralyze action.
+
+__External Relations & Posture:__ Relations with neighboring bands range from exchange and intermarriage to competition and raiding; posture is defensive and opportunistic; the maritime reach implied by Melian obsidian suggests contact networks extending to island groups.
+
+__Disaffection, Apathy & Spent Will:__ When leadership fails or resources collapse, disaffection may lead to band fission or abandonment of territory; protracted hardship can erode collective will; recovery depends on new leadership or improved conditions.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is the sole medium of complex communication; all who acquire the group's tongue share access; exclusion falls on infants and on outsiders with incompatible languages; the shared code is narrow, limited to the band and its immediate contacts.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of walking and speaking; maritime voyaging expands range — news and knowledge can move with expeditions to Melos and back — but transmission velocity remains measured in days or weeks.
+
+__Record, Storage & Persistence:__ There is no external record; all knowledge is stored in living memory and transmitted orally; persistence depends on unbroken chains of remembering; navigational knowledge for sea crossings, ecological knowledge for tracking game, and kinship knowledge for alliance all reside in speech and memory alone.
+
+__Framing, Censorship & Discourse Norms:__ Discourse norms are informal, enforced by custom and elder sanction; certain topics may be restricted; framing is shaped by oral convention and the authority of tradition.
+
+__Reception, Attention & Amplification:__ Audience reception is immediate and embodied; amplification occurs through retelling and communal performance; attention is held by storyteller skill and message relevance.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces drift with each retelling; verification rests on cross-checking and traditional authority; critical knowledge — navigation, resource location, kinship — is anchored by frequent repetition and ritual encoding to slow degradation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Morality centers on kinship obligation, reciprocity, and harm avoidance within the group; justice is restorative; fairness in sharing is enforced by reputation and gossip.
+
+__Law, Codification & Regulatory Evolution:__ There is no written or codified law; norms are customary and orally transmitted; evolution occurs through gradual drift and ad hoc dispute resolution.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by informal councils; liability is collective as well as individual; sanction ranges from shaming to exile or violence.
+
+__Rights, Protections & Compliance Burden:__ Rights are embedded in kinship status; protections depend on group membership; compliance burden is low, as norms are internalized and socially enforced.
+
+__Impunity & Unredressed Wrong:__ Impunity exists where enforcement is impractical; offenses by powerful individuals or against marginal members may go unredressed; the gap between justice owed and delivered is a persistent residue.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding of the natural world is practical and mythological; causal explanations blend observation with animistic attribution; the paradigm is oral cosmology in which human, animal, and spirit worlds interpenetrate.
+
+__Applied Knowledge & Technical Method:__ Tool production, fire-making, and hide-working are transmitted orally and by demonstration; the key technical innovation of the window is watercraft capable of open-sea crossings, implied by the presence of Melian obsidian — construction and navigation techniques are preserved in oral tradition and apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is informal and embedded in daily life; knowledge stock is distributed across the band, with specialists in hunting, healing, ritual, and now maritime skill; literacy does not exist; skill distribution is relatively even within age and sex cohorts.
+
+__Obsolescence & Knowledge Decay:__ When a skilled individual dies without transmitting knowledge, technique is lost; the fragility of oral chains means that maritime navigation, obsidian-knapping, and other specialized skills are vulnerable to extinction and must be actively maintained through teaching and practice.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Collective identity is anchored in kinship, shared territory, and oral tradition — origin stories, ancestral exploits, and the naming of places and sea routes; memory is shallow, reaching back only a few generations; identity is local and relational.
+
+__Legitimating Narrative & Ideology:__ Authority is legitimated by demonstrated competence and appeal to ancestral precedent; ideological elaboration is minimal; the narrative frame presents custom as given and unchanging.
+
+__Artistic Expression & Material Culture:__ Artistic expression includes body ornament, carved bone and shell, and possibly perishable media now lost; material culture is portable and functional — stone tools, skin clothing, woven containers, watercraft; decoration encodes identity and status.
+
+__Form Exhaustion & Meaning Decay:__ Symbolic forms are renewed through ongoing oral performance; the risk of exhaustion is low, but loss of transmission can hollow out ritual meanings or allow motifs to drift into empty convention.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The world is populated by spirits inhabiting animals, places, and the sea; humans occupy a middle position, dependent on maintaining proper relations with the unseen; the sea crossing to Melos may carry spiritual significance — a journey into an otherworldly domain — as much as practical purpose.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual marks transitions and propitiates spirits governing hunting and maritime success; devotional habits are woven into daily life; the sea voyage itself may be ritually framed.
+
+__Religious Institutions & Doctrinal Authority:__ There are no formal religious institutions; ritual specialists exercise influence but not doctrinal control; authority is personal and situational.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual beliefs circulate through inter-band contact; maritime contact with island groups may introduce new elements; no dominant orthodoxy exists; syncretism is the norm.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment in the modern sense is absent; the sacred remains embedded in daily experience; the residue is not secularizing drift but the loss of ritual knowledge when transmission fails — a spiritual void filled by improvisation or borrowed practice.
+

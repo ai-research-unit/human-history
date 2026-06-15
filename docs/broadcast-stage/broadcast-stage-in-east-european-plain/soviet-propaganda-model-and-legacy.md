@@ -1,69 +1,139 @@
-# __1930 CE – 2012 CE__ — Soviet Propaganda Model and Legacy
-__Summary:__ Pan-temporal snapshot of the Soviet propaganda system as it operated across the broadcast era in the East European Plain — from Stalinist total control through Brezhnev ritualization, glasnost rupture, and Putin-era restoration. The binding constraint is the state monopoly on broadcast infrastructure and narrative framing, which collapses briefly in 1985–2000 before reconsolidating. The system maintains stability through information closure rather than persuasion, generating cumulative audience cynicism as the principal residue. Direction of change oscillates: tightening 1930–1953, loosening 1953–1964, stagnating 1964–1985, liberalizing 1985–1991, fragmenting 1991–2000, and reconsolidating 2000–2012.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The East European Plain's vast flatness and dispersed settlement impose high transmission costs; the solution is centralized broadcast towers in Moscow radiating outward, supplemented by wired radio (radioточка) reaching every apartment and workplace regardless of terrain.<br><br>
-__Climate Regime & Volatility:__ Continental climate with harsh winters makes indoor listening the norm; broadcast consumption patterns concentrate in cold months when populations remain indoors, amplifying state media's captive audience effect.<br><br>
-__Hazard Regime & Exposure:__ Environmental hazards (Chernobyl 1986) expose the system's information-control weakness; initial coverup followed by forced disclosure becomes a turning point demonstrating the propaganda model's brittleness against physical-world events that cannot be hidden.<br><br>
-__Resource & Energy Endowment:__ Abundant domestic energy (Siberian oil and gas) funds broadcast infrastructure expansion; electrification campaigns enable universal receiver penetration by the 1960s; energy wealth subsidizes the entire apparatus.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution extensive but largely unreported; the propaganda model's environmental silence — minimizing coverage of contamination — contributes to accumulated health costs discovered only after glasnost.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Mortality falls through mid-century (antibiotics, sanitation) then stagnates; alcoholism and cardiovascular disease rise under Brezhnev but receive minimal broadcast attention, illustrating propaganda's selective blindness to systemic health crises.<br><br>
-__Nutrition & Physiological Vitality:__ Chronic shortages and queue culture unreported on state media; gap between broadcast depictions of abundance and lived scarcity becomes a core driver of audience cynicism by the 1970s.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Pronatalist messaging inconsistent with housing shortages and female labor demands; birth rates decline from the 1960s onward, a trend propaganda cannot reverse through exhortation alone.<br><br>
-__Demographic Renewal & Density:__ Population growth slows; World War II demographic trauma (massive male loss) shapes social structure for decades; broadcast remembrance of the war becomes central legitimating narrative.<br><br>
-__Attrition & Dependency Overhang:__ Aging population and war-disabled cohorts strain social services; dependency ratio worsens through the window but receives minimal propaganda attention beyond heroic veteran commemoration.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic provisioning secured but quality poor; propaganda emphasizes achievements while daily shortages visible to all, generating the characteristic Soviet split between official narrative and kitchen-table reality.<br><br>
-__Energy Capture & Conversion:__ Massive hydroelectric and fossil-fuel development broadcast as socialist triumphs; energy-intensive industry subsidized by cheap power; conversion efficiency low by Western standards but sufficient for broadcast infrastructure.<br><br>
-__Labor Organization & Coercion:__ Forced labor (Gulag) through the 1950s; thereafter soft coercion through residence permits and workplace dependency; propaganda celebrates labor heroism while concealing coercion mechanisms.<br><br>
-__Production & Surplus Capacity:__ Heavy industry prioritized; consumer goods chronically undersupplied; propaganda reports plan fulfillment percentages disconnected from consumer experience, deepening the credibility gap.<br><br>
-__Storage, Reserves & Buffering:__ Strategic reserves exist but distribution inefficient; periodic shortages (1963 grain crisis) force imports but propaganda minimizes acknowledgment, maintaining the fiction of self-sufficiency.<br><br>
-__Exchange, Trade & Logistics:__ Planned economy eliminates price signals; distribution networks inefficient; propaganda cannot substitute for absent market information, contributing to persistent misallocation.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Ruble purchasing power eroded by hidden inflation and shortage; savings meaningless when goods unavailable; propaganda's economic triumphalism increasingly hollow by the 1980s.<br><br>
-__Surplus Extraction & Redistribution:__ State extracts surplus through price controls and turnover tax; redistribution opaque; propaganda justifies extraction as socialist construction but legitimacy erodes as benefits fail to materialize.<br><br>
-__Wealth Distribution & Asset Defense:__ Nomenklatura privileges (special shops, dachas) concealed from broadcast media; population aware through rumor; this hypocrisy becomes central to post-Soviet cynicism about elite messaging.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste dumped with minimal treatment; environmental reporting absent until glasnost; the propaganda model's silence enables decades of unremediated contamination.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Informer culture (especially 1930s–1950s) contracts trust radius to immediate family; kitchen-table conversation becomes the space of honest discourse, creating a dual public-private consciousness that persists beyond the Soviet period.<br><br>
-__Stratification, Status & Group Identity:__ Official classlessness contradicted by visible nomenklatura privileges; ethnic hierarchies (Russians dominant) maintained through republic broadcasting structures; intelligentsia develops oppositional identity.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family stressed by housing shortages (communal apartments); three generations sharing space normalizes intergenerational information transmission that bypasses broadcast propaganda.<br><br>
-__Civic Association & Self-Organization:__ All associations subordinated to party-state; genuine civil society emerges only during glasnost (Memorial, popular fronts); the propaganda model's success depends on organizational monopoly.<br><br>
-__Leisure, Play & Sociability:__ State-organized recreation (sanatoriums, pioneer camps) broadcast as socialist benefit; unofficial sociability (kitchen gatherings, dacha culture) provides refuge from propaganda saturation.<br><br>
-__Grievance Channels & Social Discharge:__ Formal complaint channels (letters to Pravda) exist but ineffective; grievances accumulate without discharge, contributing to glasnost's explosive release of suppressed discontent.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Single-party state with power concentrated in Politburo; General Secretary dominant; authority centralization enables broadcast monopoly; fragmentation 1991–2000 briefly disrupts this linkage before Putin reconsolidates.<br><br>
-__Succession & Power Transfer:__ Succession struggles (1953, 1964) occur behind closed doors; broadcast media announces outcomes, never deliberation; this opacity maintained until 1991 collapse; Putin's managed succession restores the pattern.<br><br>
-__Legitimacy & Political Narrative:__ Marxist-Leninist ideology provides legitimating framework through 1991; Great Patriotic War victory becomes increasingly central as revolutionary legitimacy fades; Putin substitutes stability narrative for communist ideology.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Extensive bureaucracy with variable competence; corruption endemic but unreported; propaganda maintains fiction of party integrity while population experiences daily dysfunction.<br><br>
-__Political Participation & Mobilization:__ Elections ritualistic (99% turnout, 99% approval); genuine participation confined to party channels; glasnost opens participation briefly; post-Soviet period sees oscillation between openness and control.<br><br>
-__Geopolitical Position & External Relations:__ Superpower status broadcast as achievement; Cold War framing dominates external coverage; collapse 1991 creates narrative void; Putin's restoration emphasizes great-power recovery.<br><br>
-__Coercive Apparatus & Means of Force:__ NKVD/KGB maintains internal control; military victories broadcast extensively; coercive capacity enables propaganda monopoly by eliminating alternatives.<br><br>
-__Internal Order & Threat Environment:__ Crime officially minimal (underreported); Chechen wars (1994–1996, 1999–2009) test the system; Putin-era coverage emphasizes terrorism threat to justify security measures.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ State monopolizes radio, television, and print; wired radio (radioточка) penetrates every dwelling; transmission velocity instantaneous but content entirely controlled; foreign radio and later internet provide the only alternatives.<br><br>
-__Record, Storage & Persistence:__ Archives extensive but access restricted; historical record subject to revision (Trotsky airbrushed from photographs); glasnost opens archives briefly; post-Soviet closure partially restored.<br><br>
-__Framing, Censorship & Discourse Norms:__ Glavlit censorship comprehensive until 1991; self-censorship internalized; permitted discourse narrows during repressions, widens during thaws; Putin era restores implicit red lines without formal censorship.<br><br>
-__Reception, Attention & Amplification:__ Captive audience with no alternatives consumes state media but discounts heavily; kitchen-table retransmission amplifies alternative interpretations; samizdat and foreign radio create parallel information sphere.<br><br>
-__Signal Integrity & Noise Load:__ Official information low-trust; population develops sophisticated decoding skills (reading between lines); noise-to-signal ratio perceived as high despite low message volume; verification through unofficial channels.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Popular sense of justice diverges from official law; thief-in-law (vor v zakone) codes and informal norms compete with socialist legality; dual morality — public conformity, private values — becomes normalized.<br><br>
-__Law, Codification & Regulatory Evolution:__ Soviet law instrumentalized for political ends; Article 70 (anti-Soviet agitation) criminalizes alternative information; post-Soviet reforms introduce press freedom briefly; Putin era uses registration and extremism laws to constrain.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts subordinate to party through 1991; show trials broadcast as pedagogy (1930s); post-Soviet courts gain independence then lose it; journalist prosecutions resume under Putin.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights exist on paper but unenforceable; press freedom constitutional from 1993 but increasingly constrained; compliance burden shifts from formal censorship to informal pressure.<br><br>
-__Impunity & Unredressed Wrong:__ Journalist murders (Politkovskaya 2006, others) go unpunished; impunity signals boundaries of permissible criticism; accumulated unredressed wrongs chill independent reporting.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Marxism-Leninism official paradigm until 1991; natural sciences productive within limits (Sputnik, nuclear physics); social sciences ideologically constrained; post-Soviet paradigm fragmentation.<br><br>
-__Applied Knowledge & Technical Method:__ Technical broadcasting competence high; jamming technology sophisticated; television production quality improves through the window; digital transition lags Western counterparts.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal literacy achieved; technical education extensive; humanities ideologically filtered; population intellectually capable of critical reception despite propaganda saturation.<br><br>
-__Obsolescence & Knowledge Decay:__ Ideological knowledge becomes obsolete 1991; generation gap opens between Soviet-educated and post-Soviet youth; technical skills in broadcast production transfer across regime change.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ October Revolution origin myth fades; Great Patriotic War becomes central to identity; victory narrative broadcast annually reinforces continuity across regime changes; Soviet nostalgia persists post-1991.<br><br>
-__Artistic Expression & Material Culture:__ Socialist realism official aesthetic until 1991; unofficial art exists underground; post-Soviet pluralism brief; Putin era sees return of patriotic cultural programming.<br><br>
-__Collective Mood & Behavioral Disposition:__ Cynicism baseline by Brezhnev era; glasnost hope followed by 1990s despair; Putin stability restores guarded optimism among some; fundamental distrust of official messaging persists throughout.<br><br>
-__Form Exhaustion & Meaning Decay:__ Soviet symbols hollow by 1980s; hammer-and-sickle continues as nostalgic referent; new symbols (Russian tricolor, Orthodox imagery) partially fill void; meaning deficit persists.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Official atheism enforced through 1991; private belief persists; post-Soviet Orthodox revival broadcast extensively under Putin; secular-materialist and religious-national worldviews compete.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Soviet secular rituals (May Day, Victory Day) structured broadcast calendar; Orthodox rituals suppressed then revived; Victory Day survives as quasi-sacred observance across regimes.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Orthodox Church subordinated to state through 1991; post-Soviet revival sees church-state alliance; Putin-era broadcasting incorporates Orthodox imagery and legitimation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Atheism fails to displace private belief; post-Soviet spiritual marketplace includes Orthodox revival, new religious movements, and consumer spirituality; Islam persists in historically Muslim regions.<br><br>
-__Disenchantment & Sacred Discharge:__ Soviet materialist cosmology generates existential void acknowledged in late-Soviet literature; post-Soviet anomie widespread; Orthodox revival partially addresses but does not fully resolve accumulated disenchantment.<br><br>
+# __1930 CE – 2012 CE — Soviet Propaganda Model and Legacy__
+
+__Summary:__ The Soviet state constructed the most comprehensive propaganda apparatus of the broadcast age, integrating radio then television into a unified agitprop system that shaped how hundreds of millions understood reality for six decades, and whose techniques, personnel, and institutional reflexes outlived the USSR itself, reconstituting under new ownership after a brief pluralist interlude. The binding constraint was the requirement for total information control to maintain single-party legitimacy in the absence of electoral consent, a need that drove the architecture of wired radio, the centralization of television, the elaborate censorship machinery, and ultimately the vulnerability to glasnost when control relaxed.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East European Plain's continental scale posed the foundational challenge: how to reach eleven time zones, from Kaliningrad to Kamchatka, with synchronized messaging. Moscow's centrality made it the natural broadcast hub, but the distances required massive relay infrastructure, satellite uplinks for television after 1967, and the distinctive wired radio network that turned spatial friction into an instrument of control by eliminating the need for individual tuning.
+
+__Climate Regime & Volatility:__ Harsh winters reinforced indoor media consumption; the long evenings of northern latitudes made radio and television central to domestic life. Seasonal agricultural rhythms shaped programming schedules, with harvest mobilization broadcasts and spring planting campaigns timed to collective farm cycles.
+
+__Hazard Regime & Exposure:__ Industrial accidents and natural disasters tested the propaganda apparatus's handling of bad news. Chernobyl (1986) became the paradigmatic case: initial suppression, forced acknowledgment, and the delegitimizing effect of obvious falsehood. The tension between control and credibility recurred at Kyshtym (1957, long suppressed), Armenian earthquake (1988), and countless smaller incidents.
+
+__Resource & Energy Endowment:__ Soviet industrial capacity produced receivers, transmitters, and infrastructure domestically, insulating the broadcast system from foreign dependency. Oil and gas revenues (especially post-1970s) funded expansion while creating the economic base whose collapse would undermine the system.
+
+__Waste Absorption & Sink Capacity:__ The informational residue accumulated as a credibility deficit: decades of obvious falsehood, suppressed disasters, and mandatory optimism saturated the population's capacity to believe official sources, creating the cynicism that glasnost would briefly dispel and post-Soviet manipulation would exploit.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The propaganda system faced recurring biological realities it could not fully obscure: wartime casualties (27 million), postwar health crises, declining life expectancy under Brezhnev (especially male alcoholism), and the AIDS epidemic it initially denied. Each gap between proclaimed progress and lived experience eroded credibility.
+
+__Nutrition & Physiological Vitality:__ Official broadcasting maintained fiction of abundance while queues formed for basic goods. The contrast between television's showcase plenty and refrigerator emptiness became the signature cognitive dissonance of late Soviet life, feeding kitchen-table cynicism that no broadcast could reach.
+
+__Care, Healing & Recovery Capacity:__ Healthcare propaganda proclaimed universal access while the system deteriorated. Medical professionals knew the gap; their private knowledge circulated as samizdat truth, undermining official channels.
+
+__Reproductive Biology & Pairing Dynamics:__ Pro-natalist propaganda competed with housing shortages and economic pressures that suppressed fertility. The gap between exhortation and constraint was visible to every young couple.
+
+__Demographic Renewal & Density:__ Population grew through mid-century, then stagnated. Official optimism masked demographic decline that would accelerate post-Soviet. The 1979 census was delayed and manipulated; even demographic facts became propaganda objects.
+
+__Attrition & Dependency Overhang:__ The aging Soviet leadership of the 1970s-80s, visibly declining on television, became unintentional propaganda against the system's vitality, culminating in the funeral procession of three general secretaries in three years (1982-1985).
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Propaganda proclaimed socialist abundance while the command economy produced chronic shortages. Broadcast celebration of plan fulfillment stood against queue realities; the disconnect was the system's permanent credibility tax.
+
+__Energy Capture & Conversion:__ Broadcast infrastructure required substantial electrical investment, prioritized as ideological necessity. Rural electrification enabled wired radio penetration, making propaganda reach a development indicator.
+
+__Labor Organization & Coercion:__ Media glorified socialist labor while coercion (Gulag through 1953, lesser constraints after) remained unmentionable. Stakhanovite campaigns used broadcast to model impossible productivity; workers received the message with knowing cynicism.
+
+__Production & Surplus Capacity:__ The gap between proclaimed production targets and actual output was broadcast's permanent epistemological crisis. Harvest figures, steel tonnage, consumer goods availability: all were propaganda objects whose falsification was widely understood.
+
+__Storage, Reserves & Buffering:__ No buffer existed for truth-telling; the system had no mechanism for acknowledging error without threatening legitimacy. This absence made every crisis a potential cascade.
+
+__Exchange, Trade & Logistics:__ International isolation limited exposure to foreign media goods (Western broadcasts, VHS tapes), but also limited comparison. Opening to trade (1970s detente, 1980s-90s collapse of barriers) exposed the consumption gap propaganda had obscured.
+
+__Value Storage, Credit & Deferred Exchange:__ The ruble's non-convertibility insulated domestic propaganda from external price signals. Post-Soviet hyperinflation (1992) destroyed this insulation, making economic reality undeniable.
+
+__Surplus Extraction & Redistribution:__ The state extracted all surplus, funding broadcast infrastructure without market constraint. This enabled massive investment in reach but eliminated feedback on content effectiveness beyond political compliance.
+
+__Wealth Distribution & Asset Defense:__ Nomenklatura privileges were broadcast's great unmentionable. Post-Soviet oligarch wealth became the new target of propaganda attack and defense, depending on political alignment.
+
+__Byproducts & Waste Routing:__ The command economy's waste (inefficiency, pollution, malinvestment) accumulated as propaganda denied it. Glasnost's revelations of environmental catastrophe were among its most delegitimizing disclosures.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Broadcast entered every household through wired speakers and then television sets, making family the reception unit while atomizing it from neighbors through shared suspicion. The kitchen became the space of truth-telling, beyond broadcast reach.
+
+__Association & Mutual Aid:__ The party and its mass organizations (Komsomol, trade unions) controlled associational life, with broadcast serving as their voice. Independent association was suspect; samizdat networks operated as counter-society.
+
+__Leisure, Play & Sociability:__ Television increasingly dominated leisure, with programming designed to occupy time harmlessly. Sports broadcasting, approved entertainment, and cultural programming filled hours without political danger.
+
+__Stratification, Status & Group Structure:__ Broadcast maintained classless society fiction while nomenklatura privileges were visible to all. Status came through party position, access to closed shops, foreign travel; none could be broadcast.
+
+__Administrative Capacity & Institutional Integrity:__ The propaganda apparatus was administratively formidable: Glavlit censors, Gosteleradio bureaucracy, ideological departments at every level, thousands of professional propagandists. This capacity survived Soviet collapse, available for reconstitution.
+
+__Coercive Apparatus & Means of Force:__ The security services (NKVD/KGB) enforced broadcast discipline through terror (Stalin era) and career consequences (after). Jamming stations targeted foreign broadcasts. Post-Soviet, FSB inherited these reflexes and relationships.
+
+__Discharge, Disorder & Decay:__ The apparatus ossified under Brezhnev; elderly anchors read elderly scripts to elderly leaders. Glasnost released pent-up energy; post-Soviet chaos produced television as actual forum. Putin-era reconsolidation restored order through ownership control rather than censorship apparatus.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The propaganda system aimed to manufacture enthusiasm, mobilize effort, and channel grievance toward approved targets (capitalists, fascists, imperialists). Success was partial; cynicism coexisted with genuine patriotism, especially around Great Patriotic War memory.
+
+__Leadership & Personal Authority:__ Stalin's cult of personality was broadcast's first great project; his image and voice saturated the airwaves. Subsequent leaders received similar treatment, diminishing returns setting in as Brezhnev's senescence became television spectacle. Putin-era media restored effective personal projection.
+
+__Legitimacy as Lived Allegiance:__ Broadcast could not manufacture genuine belief but could suppress public expression of disbelief. The gap between private cynicism and public conformity was the system's operating condition.
+
+__Political Will & Collective Resolve:__ Wartime radio demonstrated broadcast's mobilization power: Levitan's voice announcing victories, Stalin's rare speeches, the sense of shared struggle. This remained the template even as peacetime adaptation hollowed it.
+
+__External Relations & Posture:__ Foreign policy was broadcast's safest subject; anti-Western messaging required no falsification of domestic reality. Cold War framing provided permanent enemy, permanent justification, permanent distraction.
+
+__Disaffection, Apathy & Spent Will:__ By 1985, the gap between broadcast enthusiasm and population exhaustion was unbridgeable. Glasnost released suppressed energy briefly; post-Soviet disillusionment produced new apathy that Putin-era stability exploited.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Russian served as broadcast lingua franca across the USSR, with republic languages subordinate. Literacy was near-universal, enabling print propaganda to complement broadcast. The shared code was total; exclusion was political, not linguistic.
+
+__Channels & Transmission Velocity:__ The system achieved remarkable reach: wired radio in every apartment by 1950s, television in most households by 1970s. But velocity was controlled; news moved at the speed the censor allowed, creating systematic lag and distortion.
+
+__Record, Storage & Persistence:__ Archives preserved everything, accessible to none. Official history was continuously rewritten; photographs retouched, unpersons deleted. The record existed as instrument of control, not truth.
+
+__Framing, Censorship & Discourse Norms:__ Glavlit maintained total pre-publication censorship. Editors internalized constraints, making formal censorship often unnecessary. Aesopian language allowed coded communication to sophisticated audiences. The permitted band was narrow and clearly bounded.
+
+__Reception, Attention & Amplification:__ The wired radio's undialable speaker was the system's technical expression: reception without choice. Television allowed channel selection among approved options. Attention was captive; amplification was state monopoly.
+
+__Signal Integrity & Noise Load:__ Official channels carried pure signal by definition; all deviation was noise to be suppressed. But the accumulation of obvious falsehood degraded signal integrity over decades, making even true statements suspect.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The system claimed moral superiority: socialism as justice, capitalism as exploitation. This framing had genuine appeal, especially given pre-revolutionary inequality and Western colonialism. But application to Soviet reality required continuous falsification.
+
+__Law, Codification & Regulatory Evolution:__ Media law evolved from revolutionary decree through Stalinist terror law to post-Stalin "socialist legality" to post-Soviet chaos to Putin-era regulatory control. At each stage, law served power rather than constraining it.
+
+__Adjudication, Liability & Sanction:__ Deviation from propaganda line brought consequences ranging from career damage to imprisonment to death (Stalin era). Sanctions were certain but arbitrary, enforced by security services rather than courts.
+
+__Rights, Protections & Compliance Burden:__ Formal press freedom existed in Soviet constitution, meaningless in practice. Post-Soviet period briefly enabled exercise; Putin era restored formal freedoms with practical constraints through ownership, regulation, and selective prosecution.
+
+__Impunity & Unredressed Wrong:__ The propaganda system's lies went unaccounted. Glasnost briefly enabled reckoning (Stalin's crimes, Chernobyl, Afghanistan); post-Soviet consolidation foreclosed further accounting, leaving historical truth contested.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Marxism-Leninism provided the propaganda system's theoretical foundation, though practice increasingly diverged from theory. The paradigm explained everything, predicted nothing, and could not be publicly questioned until glasnost.
+
+__Applied Knowledge & Technical Method:__ Propaganda technique developed sophistication: repetition, framing, emotional manipulation, enemy construction, hero narratives. These methods proved transferable across political systems, surviving Soviet collapse.
+
+__Education, Knowledge Stock & Skill Distribution:__ The system trained thousands of professional propagandists, journalists, and media workers. Their skills—writing to specification, reading political winds, self-censorship—transferred to post-Soviet media environments.
+
+__Obsolescence & Knowledge Decay:__ Marxist-Leninist theory became ritual incantation, its explanatory power long exhausted. The pretense of belief corroded intellectual integrity system-wide, making genuine analysis impossible within official channels.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Great Patriotic War provided the propaganda system's most effective material: genuine sacrifice, genuine victory, genuine pride. This memory outlasted Soviet collapse, remaining the Putin era's most reliable mobilization resource.
+
+__Legitimating Narrative & Ideology:__ Communist future, socialist present, capitalist past: the narrative arc justified present sacrifices. As the future receded and the present stagnated, the narrative exhausted itself, leaving only Great Patriotic War and anti-Western framing as reliable legitimators.
+
+__Artistic Expression & Material Culture:__ Socialist realism constrained artistic expression to approved forms; deviations were underground or abroad. Post-Soviet opening produced chaos and commercialism; Putin era restored soft guidance without socialist content.
+
+__Form Exhaustion & Meaning Decay:__ By 1985, Soviet imagery was exhausted: the hammer and sickle, the heroic worker, the wise leader, the bright future. Glasnost swept away dead forms; nothing replaced them except consumption and nationalism.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Scientific atheism was official cosmology, broadcast as truth. The future would be communist; history had direction; sacrifice had meaning. Collapse of this framework left existential void that nationalism and Orthodoxy partially filled.
+
+__Ritual, Devotion & Sacred Practice:__ May Day parades, Revolution anniversary celebrations, leader birthday observances: Soviet ritual life was broadcast extensively, performative participation mandatory. Post-Soviet, Orthodox ritual returned to broadcast; state occasions acquired quasi-religious character.
+
+__Religious Institutions & Doctrinal Authority:__ The Orthodox Church survived under severe constraint, excluded from broadcast until glasnost. Post-Soviet, Orthodoxy and state media reconverged, with Patriarch appearing regularly on state channels, mutual legitimation restored.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Atheism failed to displace religious feeling; suppressed practice survived in private. Post-Soviet religious revival was partly genuine, partly performance, broadcast as evidence of Russian spiritual renewal.
+
+__Disenchantment & Sacred Discharge:__ Communist eschatology's failure left void that Western consumption, nationalism, and Orthodox revival variously filled. The propaganda apparatus, stripped of Marxist content, reconstituted around Orthodox nationalism and anti-Western framing, the techniques surviving while the cosmology changed.

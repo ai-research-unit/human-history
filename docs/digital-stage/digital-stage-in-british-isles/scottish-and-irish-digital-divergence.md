@@ -1,69 +1,139 @@
-# __2010 CE – 2026 CE__ — Scottish and Irish Digital Divergence
-__Summary:__ Across the British Isles' digital stage, Scotland, Northern Ireland, Wales, and the Republic of Ireland leverage networked communication to articulate national identities and constitutional alternatives distinct from Westminster, producing a pan-window divergence in digital political culture; the binding constraint is the tension between devolved or sovereign digital strategies and the gravitational pull of London-centred platforms and infrastructure; margin for further divergence widens as Brexit reshapes regulatory boundaries; direction of change is toward intensified digital nationalism and cross-border coordination between Dublin and Belfast.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Scotland's Highland-Lowland divide, Wales's western rurality, and Ireland's dispersed settlement patterns impose higher per-capita broadband costs than England's urban density; undersea cables land disproportionately in southern England, routing traffic through London.<br><br>
-__Climate Regime & Volatility:__ Atlantic exposure brings wetter, windier conditions to western fringes; no climate event materially disrupts digital infrastructure within the window, though storm damage occasionally affects rural connectivity.<br><br>
-__Hazard Regime & Exposure:__ Low acute hazard; flooding in Scottish glens and Irish river valleys intermittently disrupts local networks but poses no systemic threat.<br><br>
-__Resource & Energy Endowment:__ Scotland's renewable-energy surplus (wind, hydro) positions it as potential data-centre hub; Ireland's grid constraints limit Dublin-area expansion despite tax incentives.<br><br>
-__Waste Absorption & Sink Capacity:__ Data-centre heat and e-waste loads modest relative to English clusters; absorptive slack adequate across devolved and Irish jurisdictions.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic 2020–2022 handled with devolved public-health messaging in Scotland and Wales, and distinct strategies in Ireland; digital communication of divergent guidance reinforces jurisdictional identity.<br><br>
-__Nutrition & Physiological Vitality:__ Health disparities persist between affluent and deprived areas; digital health platforms deployed unevenly, with Scotland's NHS app differing from NHS England's.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Cross-border online dating and social connection unaffected by political divergence; no demographic impact specific to digital nationalism.<br><br>
-__Demographic Renewal & Density:__ Scotland and Wales face aging populations and emigration of youth to England; digital connectivity enables remote work that may slow brain drain, though effect remains nascent.<br><br>
-__Attrition & Dependency Overhang:__ Elderly dependency ratios higher in rural Scotland, Wales, and western Ireland; digital-exclusion risk compounds care-access challenges.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Austerity impacts felt across devolved nations; reliance on UK-wide benefit systems administered increasingly online ties welfare access to digital literacy.<br><br>
-__Energy Capture & Conversion:__ Scotland exports renewable electricity; Ireland imports via interconnectors; energy-cost differentials not yet decisive for data-infrastructure location.<br><br>
-__Labor Organization & Coercion:__ Tech-sector employment concentrated in Edinburgh, Dublin, Belfast, and Cardiff clusters; gig-economy platform work follows UK-wide patterns with limited devolved variation.<br><br>
-__Production & Surplus Capacity:__ Dublin's tech cluster (Google, Meta, Apple European headquarters) generates GDP share unmatched elsewhere in the Isles; Scottish fintech grows but remains smaller scale.<br><br>
-__Storage, Reserves & Buffering:__ Fiscal devolution limited; Scottish and Welsh governments depend on block grants, constraining independent digital-investment capacity.<br><br>
-__Exchange, Trade & Logistics:__ Post-Brexit, Northern Ireland's Protocol position creates regulatory divergence; digital customs declarations and traceability systems impose new friction on cross-Irish-Sea trade.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Sterling circulates in UK nations; euro in Ireland; cryptocurrency adoption marginal; no distinctive value-storage divergence tied to digital nationalism.<br><br>
-__Surplus Extraction & Redistribution:__ Corporation-tax competition (Ireland's 12.5% rate) draws platform headquarters; UK digital-services tax applies uniformly across devolved nations.<br><br>
-__Wealth Distribution & Asset Defense:__ Platform wealth concentrates among shareholders outside the region; local benefit limited to employment and supplier contracts.<br><br>
-__Byproducts & Waste Routing:__ Content-moderation centres in Dublin employ thousands; psychological toll exported to workforce while profits repatriate to California.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Distinct national identities sustain intra-community trust; online spaces reinforce Scottish, Welsh, and Irish solidarity while occasionally amplifying sectarian division in Northern Ireland.<br><br>
-__Stratification, Status & Group Identity:__ Digital platforms enable identity assertion — Gaelic, Welsh-language, Irish-republican, unionist — and harden group boundaries through algorithmic clustering.<br><br>
-__Kinship, Family & Inheritance:__ Diaspora connections maintained via social media; Irish-American and Scottish-diaspora engagement amplifies independence and reunification discourse.<br><br>
-__Civic Association & Self-Organization:__ Yes Scotland, All Under One Banner, and Irish-unity groups organise primarily online; Welsh-language advocacy leverages digital petitions and streaming.<br><br>
-__Leisure, Play & Sociability:__ Gaelic sports, Welsh eisteddfodau, and traditional music scenes extend into digital streaming; cultural events reinforce national distinctiveness.<br><br>
-__Grievance Channels & Social Discharge:__ Online venting of constitutional frustration partially displaces street protest; residual grievance accumulates where democratic outlets appear blocked.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Scottish Parliament, Welsh Senedd, and Northern Ireland Assembly hold devolved competencies; broadcasting and most digital regulation reserved to Westminster, limiting legislative divergence.<br><br>
-__Succession & Power Transfer:__ SNP dominance in Scotland 2014–2024; Sinn Féin rise in both Irish jurisdictions; Welsh Labour continuity; frequent Northern Ireland Executive collapses disrupt coherent digital strategy.<br><br>
-__Legitimacy & Political Narrative:__ Independence and reunification narratives gain digital amplification; unionist counter-narratives also organise online, producing polarised information ecosystems.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Devolved civil services smaller than Whitehall; Scottish Government digital-first strategy advances but resource constraints limit ambition.<br><br>
-__Political Participation & Mobilization:__ 2014 Scottish referendum and 2016 Brexit vote galvanise online mobilisation; youth turnout linked to social-media engagement.<br><br>
-__Geopolitical Position & External Relations:__ Scotland and Ireland orient toward EU digital frameworks post-Brexit; Northern Ireland's Protocol creates hybrid regulatory zone; Wales has least external leverage.<br><br>
-__Coercive Apparatus & Means of Force:__ Police Service of Northern Ireland monitors online paramilitary activity; Scottish and Welsh forces follow UK-wide cybercrime protocols.<br><br>
-__Internal Order & Threat Environment:__ Sectarian abuse online persists in Northern Ireland; Scottish and Welsh threat levels lower; dissident-republican and loyalist content circulates despite takedowns.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Broadband rollout slower in rural Scotland, Wales, and western Ireland than in English urban cores; 4G/5G coverage gaps persist in Highlands, islands, and border regions.<br><br>
-__Record, Storage & Persistence:__ National libraries and archives digitise collections; Scottish and Irish government records increasingly born-digital; preservation standards vary.<br><br>
-__Framing, Censorship & Discourse Norms:__ BBC Scotland, BBC Wales, and RTÉ frame news with regional emphasis; social-media discourse escapes broadcaster impartiality norms, enabling partisan framing.<br><br>
-__Reception, Attention & Amplification:__ Algorithms surface content matching user identity; Scottish-independence and Irish-unity hashtags trend during political flashpoints, amplifying intra-group messaging.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation circulates in constitutional debates — border-poll timing, economic projections — with limited local fact-checking capacity outside mainstream outlets.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Distinct legal traditions — Scots law, Irish common law — underpin differing attitudes toward speech regulation and platform liability.<br><br>
-__Law, Codification & Regulatory Evolution:__ UK Online Safety Act applies in Scotland, Wales, and Northern Ireland; Republic of Ireland transposes EU Digital Services Act, creating cross-border regulatory divergence.<br><br>
-__Adjudication, Enforcement & Liability:__ Ofcom enforces in UK jurisdictions; Irish Media Commission and Coimisiún na Meán regulate in the Republic; cross-border content disputes lack unified forum.<br><br>
-__Rights, Protections & Compliance Burden:__ ECHR incorporated differently post-Brexit; Scottish courts retain direct ECHR reference; Northern Ireland Protocol preserves some EU rights; compliance complexity rises.<br><br>
-__Impunity & Unredressed Wrong:__ Online sectarian abuse in Northern Ireland often goes unprosecuted; legacy issues from Troubles intersect with digital harassment; redress backlog significant.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities in Edinburgh, Dublin, Belfast, and Cardiff produce research on digital nationalism, platform governance, and Celtic-language technology; knowledge feeds policy debate.<br><br>
-__Applied Knowledge & Technical Method:__ Irish-language and Welsh-language NLP tools developed; Scottish Gaelic lags; technical capacity for minority-language AI limited but growing.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Digital-skills curricula devolved in Scotland and Wales; coding and media-literacy emphasis varies; Ireland invests heavily in STEM to support tech-sector employment.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional media skills decline as digital production dominates; elder practitioners' knowledge of analogue broadcast fades without systematic capture.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Scottish Enlightenment, Irish revolutionary memory, Welsh bardic tradition, and Ulster-Scots heritage find digital expression; foundational narratives circulate in memes, videos, and online commemoration.<br><br>
-__Artistic Expression & Material Culture:__ Gaelic and Welsh-language content streams on BBC iPlayer, S4C Clic, and TG4; Irish traditional music thrives on YouTube and Spotify; visual artists use Instagram for nationalist iconography.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism among independence and reunification supporters coexists with unionist anxiety; mood polarises along constitutional lines, amplified by platform dynamics.<br><br>
-__Form Exhaustion & Meaning Decay:__ Nationalist symbols risk commodification as memes; referendum fatigue in Scotland dulls mobilising power of slogans; renewal depends on fresh framing.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secularisation advanced in Scotland and Ireland; residual Catholic-Protestant division in Northern Ireland retains political salience but diminishing spiritual content.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance declines; online religious services expand during COVID; digital access does not arrest long-term disaffiliation.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic Church influence wanes in Ireland post-referenda on marriage and abortion; Church of Scotland and Church in Wales politically marginal; Orange Order and GAA retain cultural-religious resonance in Northern Ireland.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Neo-pagan and Celtic-spirituality movements find online communities; mainstream Christianity cedes ground to secular nationalism as collective meaning-source.<br><br>
-__Disenchantment & Sacred Discharge:__ Constitutional politics absorbs quasi-spiritual energy formerly channelled through religion; where independence or reunification stalls, disenchantment accumulates as political cynicism rather than spiritual void.<br><br>
+# __2010 CE – 2026 CE — Scottish and Irish Digital Divergence__
+
+__Summary:__ Scotland within the UK and the Republic of Ireland outside it develop distinct digital trajectories shaped by constitutional status, with Scotland leveraging devolved powers for digital strategy while Ireland becomes the EU's de facto regulator of American tech platforms — the binding constraint being how national and sub-national boundaries intersect with borderless digital infrastructure to produce asymmetric information environments across the British Isles.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Scotland's dispersed population across Highlands, Islands, and Central Belt creates acute rural broadband challenges; Ireland's smaller territory permits more even infrastructure coverage, though western counties lag. Dublin and Edinburgh emerge as secondary digital hubs to London, the former hosting European headquarters of major platforms (Google, Meta, Apple, Microsoft), the latter anchoring Scotland's fintech and gaming sectors.
+
+__Climate Regime & Volatility:__ Cool, damp Atlantic climates favor data center cooling efficiency; both Scotland and Ireland attract hyperscale facilities seeking energy and thermal advantages, with Amazon, Microsoft, and Google establishing significant presence.
+
+__Hazard Regime & Exposure:__ Storm exposure in western Scotland and Ireland periodically disrupts connectivity; the 2020 Storm Dennis and subsequent events highlight infrastructure vulnerability in peripheral areas dependent on above-ground lines and undersea cables.
+
+__Resource & Energy Endowment:__ Scottish renewable energy capacity — wind, wave, hydro — positions the nation as a potential green data center hub; Ireland's grid, heavily reliant on gas, faces tension between data center demand and climate commitments, with the Irish government pausing new center approvals in 2022.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste streams and data center heat discharge enter environmental discourse; neither jurisdiction has developed distinctive approaches, defaulting to UK-wide or EU frameworks respectively.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic (2020–2022) affects both populations severely; digital responses diverge as Scotland's devolved health powers enable distinct NHS Scotland app and communication strategies, while Ireland coordinates with EU frameworks rather than UK systems.
+
+__Nutrition & Physiological Vitality:__ No distinctive digital-specific variation; general population health parameters apply.
+
+__Care, Healing & Recovery Capacity:__ NHS Scotland develops separate digital health infrastructure from NHS England; Ireland's HSE pursues independent digitization, notably compromised by the 2021 ransomware attack that collapsed health service IT systems for months.
+
+__Reproductive Biology & Pairing Dynamics:__ No distinctive variation.
+
+__Demographic Renewal & Density:__ Scotland's aging population and Ireland's younger demographic (highest fertility rate in EU) produce different digital adoption patterns; Ireland's youth cohort drives platform engagement while Scotland faces digital exclusion among elderly populations.
+
+__Attrition & Dependency Overhang:__ Rural elderly populations in both jurisdictions face compound exclusion — geographic remoteness plus digital unfamiliarity; dedicated digital inclusion programs attempt remediation with uneven success.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Digital economy participation provides income for significant populations; platform work (Deliveroo, Uber) grows in urban areas of both jurisdictions, with Edinburgh and Dublin hosting gig economy concentrations.
+
+__Energy Capture & Conversion:__ Scotland's renewable energy surplus and Ireland's grid constraints produce different data center economics; Scottish strategy emphasizes green credentials while Irish regulators face tension between tech sector growth and grid stability.
+
+__Labor Organization & Coercion:__ Tech sector labor markets differ: Dublin's platform headquarters employ high-wage professionals and moderate-wage content moderators; Scotland's digital sector concentrates in gaming (Rockstar North, Dundee studios), fintech (Edinburgh), and oil-sector tech services (Aberdeen).
+
+__Production & Surplus Capacity:__ Ireland's tech sector contributes disproportionately to GDP and corporate tax receipts; the 12.5% corporate tax rate attracts platform European operations, generating substantial revenues despite profit-shifting controversies. Scotland's smaller tech sector contributes to UK-wide statistics without separate fiscal benefit under devolution settlement.
+
+__Storage, Reserves & Buffering:__ Ireland's fiscal reserves benefit from tech sector revenues; Scotland lacks equivalent fiscal autonomy to capture digital economy gains, feeding independence movement arguments for control over tech taxation.
+
+__Exchange, Trade & Logistics:__ Post-Brexit, Ireland's EU membership preserves single market access for digital services while Scotland within the UK faces new frictions; Northern Ireland's hybrid status under the Protocol creates unique digital trade conditions.
+
+__Value Storage, Credit & Deferred Exchange:__ Edinburgh's fintech cluster (FNZ, Nucleus, Sustainably) develops digital wealth management platforms; Dublin hosts significant payment processing and cryptocurrency operations under Irish financial regulation.
+
+__Surplus Extraction & Redistribution:__ Ireland collects substantial corporate taxes from tech multinationals despite EU state aid disputes (Apple's 13 billion euro ruling); Scotland cannot independently tax digital economy activity, limiting fiscal capture of platform presence.
+
+__Wealth Distribution & Asset Defense:__ Dublin housing crisis intensifies as tech salaries inflate property values; Edinburgh experiences similar but smaller-scale effects; digital wealth concentrates in urban professional cohorts.
+
+__Byproducts & Waste Routing:__ Data center construction generates local economic activity but also planning controversies; community opposition to facilities in rural Ireland reflects concerns over visual impact, noise, and grid priority over households.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ No distinctive digital-specific variation; general patterns of family structure apply.
+
+__Association & Mutual Aid:__ Digital organizing strengthens civil society in both jurisdictions; the Scottish independence movement develops sophisticated online infrastructure, while Irish civic organizations leverage platforms for referenda campaigns (marriage equality 2015, abortion access 2018).
+
+__Leisure, Play & Sociability:__ Gaming industry presence in Scotland (Grand Theft Auto franchise developed in Edinburgh) and streaming platform consumption patterns show high engagement; Irish traditional music communities develop online presence for diaspora connection.
+
+__Stratification, Status & Group Structure:__ Digital divides reinforce existing urban-rural and class stratifications; Gaeltacht (Irish-speaking) communities and Scottish Gaelic speakers face additional barriers as platforms privilege English-language content and interfaces.
+
+__Administrative Capacity & Institutional Integrity:__ Scotland exercises devolved powers over digital strategy through Digital Scotland initiative (2017); broadband investment, digital skills programs, and public sector digitization proceed under Holyrood direction. Ireland's Data Protection Commission (DPC) becomes the de facto EU regulator for US tech giants under GDPR one-stop-shop mechanism, gaining outsized responsibility relative to its resources.
+
+__Coercive Apparatus & Means of Force:__ Police Scotland develops cybercrime and digital investigation capacity separately from UK-wide structures; An Garda Siochana coordinates with EU agencies (Europol, Eurojust) on cross-border digital crime.
+
+__Discharge, Disorder & Decay:__ The Irish DPC faces sustained criticism for slow enforcement against major platforms; under-resourcing relative to caseload and platform sophistication creates regulatory bottleneck that EU partners resent, prompting eventual EU intervention through Digital Services Act's multi-regulator coordination mechanisms.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Scottish public sentiment divides sharply over constitutional questions that dominate digital discourse; the 2014 independence referendum and subsequent campaigns demonstrate sophisticated online mobilization and equally vigorous unionist counter-organization. Irish sentiment toward tech platforms mixes pride in Dublin's hub status with concern over corporate power and housing impacts.
+
+__Leadership & Personal Authority:__ Nicola Sturgeon's SNP government (2014–2023) cultivates social media presence to bypass perceived UK media hostility; Sturgeon's personal Twitter following (1.5 million) exceeds institutional accounts. Irish political leaders maintain lower-profile digital presence, with civil service rather than ministerial faces fronting tech policy.
+
+__Legitimacy as Lived Allegiance:__ Digital platforms become contested terrain for constitutional legitimacy debates; allegations of foreign interference in both Scottish and Irish referenda raise questions about information environment integrity that neither jurisdiction fully resolves.
+
+__Political Will & Collective Resolve:__ Scottish Government demonstrates sustained commitment to digital infrastructure and skills investment despite constrained fiscal powers; Irish government's tech-friendly posture reflects economic dependence on sector while European Commission pressure demands firmer enforcement.
+
+__External Relations & Posture:__ Ireland's position as EU member and tech sector regulator creates tension with United States over platform oversight; Scottish Government cultivates EU relationships despite UK withdrawal, seeking to position an independent Scotland as digitally aligned with Brussels.
+
+__Disaffection, Apathy & Spent Will:__ Fatigue with constitutional debate colors Scottish digital discourse; persistent online conflict between independence supporters and opponents produces polarization and withdrawal from political engagement among some cohorts.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Gaelic language digital content receives support in both jurisdictions — BBC Alba (Scottish Gaelic television), TG4 (Irish language broadcaster), and platform language settings — but English dominates; minority language communities face algorithmic disadvantage in content discovery and recommendation.
+
+__Channels & Transmission Velocity:__ Rural Scotland's broadband deficit constrains information access; the R100 program (Reaching 100% superfast broadband) attempts universal coverage but faces delays and cost overruns. Ireland's National Broadband Plan proceeds under similar ambitions with comparable challenges.
+
+__Record, Storage & Persistence:__ National Records of Scotland and National Archives of Ireland pursue digitization programs; platform data localization decisions affect where citizen data resides, with Ireland's EU status preserving data adequacy while UK seeks separate arrangement.
+
+__Framing, Censorship & Discourse Norms:__ Scottish and Irish digital spaces develop distinctive discursive norms; Scottish Twitter's "Cybernat" phenomenon — intensive pro-independence online activism — draws both praise for grassroots energy and criticism for abusive behaviors toward opponents and journalists.
+
+__Reception, Attention & Amplification:__ Small population sizes mean Scottish and Irish content rarely achieves platform-wide virality; local discourse communities form intense but bounded attention pools, occasionally breaking through to UK-wide or global attention during political moments.
+
+__Signal Integrity & Noise Load:__ Misinformation circulates in both contexts; Scottish referendum debates feature contested claims about economic viability and EU membership that social media amplifies without resolution. Irish referenda campaigns encounter foreign-funded advertising that platform transparency requirements partially expose.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Scottish political culture emphasizes social democratic values that inform digital policy preferences — universal access, public ownership options, platform accountability. Irish culture balances liberal social values (evident in referendum outcomes) with economic pragmatism toward tech sector.
+
+__Law, Codification & Regulatory Evolution:__ Scotland operates under UK-wide Online Safety Act but exercises devolved education, health, and policing powers affecting digital implementation. Ireland enforces EU GDPR, Digital Services Act, Digital Markets Act, and AI Act as primary regulator for major platforms, creating substantial legal apparatus.
+
+__Adjudication, Liability & Sanction:__ The Irish DPC's enforcement record faces scrutiny; major decisions on Meta (GDPR violations), TikTok (children's data), and others proceed slowly, with fines often seen as insufficient relative to platform revenues.
+
+__Rights, Protections & Compliance Burden:__ Irish citizens benefit from EU digital rights framework (GDPR, Digital Services Act user protections) directly; Scottish citizens access these through UK implementations that may diverge over time as Brexit regulatory autonomy develops.
+
+__Impunity & Unredressed Wrong:__ Platform accountability gaps persist in both jurisdictions despite different regulatory frameworks; the scale mismatch between multinational corporations and national regulators limits practical enforcement regardless of formal powers.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scottish universities (Edinburgh, Glasgow, St Andrews) develop AI and data science research capacity; Trinity College Dublin and University College Dublin contribute to platform studies and digital rights scholarship. Ireland hosts EU Digital Hub initiatives and participates in Horizon Europe programs.
+
+__Applied Knowledge & Technical Method:__ Scotland's gaming industry applies cutting-edge graphics and network technology; Ireland's platform operations centers develop content moderation and trust-and-safety methods at scale.
+
+__Education, Knowledge Stock & Skill Distribution:__ Digital skills programs operate through devolved Scottish education system (Digital Schools initiative) and Irish national curriculum; both face teacher capacity and equipment constraints. Scotland's tech sector reports persistent skills gaps despite university output.
+
+__Obsolescence & Knowledge Decay:__ Rapid platform evolution renders regulatory and technical knowledge obsolete quickly; both jurisdictions struggle to maintain current expertise as AI systems transform the information environment faster than institutional adaptation.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Digital platforms become vehicles for national identity expression; Scottish diaspora engagement through social media reconnects global Scots to independence debates. Irish diaspora — substantial in North America and Britain — participates in homeland discourse through platform connectivity.
+
+__Legitimating Narrative & Ideology:__ Scottish independence movement constructs narratives of democratic self-determination that digital organizing amplifies; Irish tech sector success features in national narratives of recovery from 2008 crisis and modern European identity.
+
+__Artistic Expression & Material Culture:__ Scottish cultural content (music, film, television) circulates through streaming platforms with limited distinctiveness from UK-wide output; Irish cultural production maintains somewhat stronger separate identity, with Irish-language content supported through dedicated platforms.
+
+__Form Exhaustion & Meaning Decay:__ Constitutional discourse in Scotland shows signs of rhetorical exhaustion as arguments recycle across campaigns; Irish referenda campaigns demonstrate continued capacity to mobilize fresh civic engagement, though platform-mediated debate follows increasingly formulaic patterns.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular governance frames predominate; Church of Scotland and Catholic Church in Ireland maintain social presence but declining direct political influence. Digital platforms distribute both religious and secular content without distinctive national filtering.
+
+__Ritual, Devotion & Sacred Practice:__ COVID-19 pandemic accelerates online worship adoption; Church of Scotland and Irish Catholic parishes develop streaming capabilities that persist post-pandemic as supplement to in-person attendance.
+
+__Religious Institutions & Doctrinal Authority:__ Irish Catholic Church's diminished authority since abuse scandals limits institutional engagement with digital policy; Church of Scotland's decentralized structure produces fragmented digital presence.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Both populations participate in broader secularization trends visible across Western Europe; platform algorithms expose users to diverse spiritual and philosophical content, accelerating pluralization.
+
+__Disenchantment & Sacred Discharge:__ Young cohorts in both jurisdictions show marked secularization; digital media consumption substitutes for traditional religious participation without providing equivalent communal or ritual structures, leaving existential functions unfilled by any institutional alternative.

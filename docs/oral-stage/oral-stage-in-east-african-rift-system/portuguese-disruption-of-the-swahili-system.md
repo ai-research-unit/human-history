@@ -1,69 +1,140 @@
-# __1500 CE – 1700 CE__ — Portuguese Disruption of the Swahili System
-__Summary:__ A long-term trend tracing the disruption, partial collapse, and adaptation of the Swahili Indian Ocean trading system under Portuguese intervention and related pressures across two centuries. The binding constraint shifts from the commercial chokepoint at Sofala to the military chokepoint at key harbors: Portuguese naval superiority allows seizure of nodal ports, but limited manpower prevents full territorial control, leaving the system damaged but not extinguished. Margins are severely compressed — Kilwa's sacking in 1505 and the Zimba invasions of the 1580s–1590s destroy accumulated wealth and population — yet Swahili towns persist, adapt, and eventually outlast Portuguese presence. The direction of change is decline punctuated by catastrophe, with partial recovery in the north as Omani intervention gathers force by century's end.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Swahili coast remains the operative arena — a 2,000-km littoral from Mogadishu to Sofala, with island and peninsula harbors controlling monsoon shipping lanes; the interior hinterland remains difficult to penetrate and largely beyond Portuguese reach.<br><br>
-__Climate Regime & Volatility:__ Monsoon seasonality unchanged; Portuguese operations adapt to the same northeast-southwest wind reversal that governs dhow traffic, but European vessels are less nimble in the channels.<br><br>
-__Hazard Regime & Exposure:__ Cyclone exposure continues in the south; Portuguese garrisons at Mozambique and Sofala suffer high mortality from malaria, reducing effective occupation capacity.<br><br>
-__Resource & Energy Endowment:__ Coastal towns remain resource-poor; Portuguese introduce no new energy sources; provisioning for garrisons strains local supplies and requires import.<br><br>
-__Waste Absorption & Sink Capacity:__ Population decline from violence and flight reduces waste loads; sink capacity remains adequate; no environmental stress from this vector.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Portuguese garrisons suffer catastrophic malaria mortality (often exceeding 50 percent of new arrivals within a year); African populations already adapted carry lower endemic burden; Zimba invasions and Portuguese reprisals raise violent mortality sharply in affected towns.<br><br>
-__Nutrition & Physiological Vitality:__ Trade disruption constricts food imports for island towns; famine accompanies sieges and Zimba depredations; nutritional status deteriorates during crisis years, then partially recovers.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Elite intermarriage patterns disrupted as lineages are killed or dispersed; Portuguese soldiers occasionally form unions with local women, creating Afro-Portuguese creole populations at garrison towns.<br><br>
-__Demographic Renewal & Density:__ Sharp population decline at Kilwa, Mombasa, and other sacked towns; recovery slow and incomplete; some populations relocate to safer hinterland or northern ports; overall coastal density lower by 1700 than in 1500.<br><br>
-__Attrition & Dependency Overhang:__ Orphaned, widowed, and displaced populations increase during crisis decades; absorptive capacity stretched; many enter slavery or flight.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Subsistence disrupted during sieges and invasions; famine mortality recorded at Kilwa and Mombasa; floor rises again once immediate violence passes, but margin narrower than before.<br><br>
-__Energy Capture & Conversion:__ Sail and muscle remain dominant; Portuguese carracks draw more wind power but require provisioning the coast cannot support; no transformative change in energy regime.<br><br>
-__Labor Organization & Coercion:__ Portuguese demand forced labor for fortress construction (Fort Jesus built 1593–1596); slave raiding intensifies to supply Portuguese plantations in the Atlantic; coercion levels rise sharply.<br><br>
-__Production & Surplus Capacity:__ Surplus capacity collapses at sacked towns; craft production declines; gold trade continues but at lower volume and under Portuguese extraction rather than Swahili arbitrage.<br><br>
-__Storage, Reserves & Buffering:__ Treasuries looted; palace warehouses destroyed; reserves depleted; the buffer that Kilwa held in 1500 is gone by 1510 and never rebuilt.<br><br>
-__Exchange, Trade & Logistics:__ Portuguese cartaz (pass) system attempts to monopolize Indian Ocean trade; Swahili merchants evade where possible, pay tribute where necessary; trade volume declines but persists in interstices; clearing velocity slowed by Portuguese inspections and blockades.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Kilwa's mint ceases operation; gold flows to Lisbon; credit networks disrupted as merchant families are killed or dispersed; deferred-exchange obligations harder to enforce across fragmented networks.<br><br>
-__Surplus Extraction & Redistribution:__ Portuguese extract tribute, customs, and forced contributions; extraction exceeds what the weakened system can sustain; redistribution to local populations minimal; net drain accelerates decline.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth redistributed violently — from Swahili elites to Portuguese crown and soldiers; survivors hide movable assets or relocate; property rights unenforceable against Portuguese force.<br><br>
-__Byproducts & Waste Routing:__ Reduced production yields less waste; fortress construction generates debris absorbed locally; no systemic waste problem.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust networks fractured by violence, displacement, and collaboration/resistance divisions; mutual aid contracts to immediate kin; the broader merchant-diaspora radius shrinks.<br><br>
-__Stratification, Status & Group Identity:__ Old patrician families destroyed or exiled; Portuguese soldiers and officials form a new colonial stratum; mestizo and creole populations emerge at Mozambique and Mombasa; status boundaries fluid and contested.<br><br>
-__Kinship, Family & Inheritance:__ Lineage continuity broken in sacked towns; inheritance disputes multiply where documentation destroyed; Islamic law continues where qadis survive; Portuguese law applies to colonial subjects.<br><br>
-__Civic Association & Self-Organization:__ Guilds and neighborhood associations disrupted; some towns (Pate, Lamu) escape direct assault and maintain associational life; elsewhere, self-organization retreats to kin and mosque.<br><br>
-__Leisure, Play & Sociability:__ Festive life contracts during crisis; recovery in northern towns by mid-17th century; Portuguese garrisons introduce European games and festivals locally.<br><br>
-__Grievance Channels & Social Discharge:__ Grievances against Portuguese find outlet in periodic rebellions (Mombasa revolts repeatedly); mediation channels broken; unmetabolized grievance accumulates as latent resistance.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Portuguese captains hold nominal authority at garrisoned ports but effective control is thin; Swahili sultans survive as tributaries or rivals; power fragmented between colonial, indigenous, and hinterland actors.<br><br>
-__Succession & Power Transfer:__ Portuguese appoint and depose local rulers at will where they can enforce; elsewhere, indigenous succession continues with greater instability; Mombasa changes hands repeatedly.<br><br>
-__Legitimacy & Political Narrative:__ Portuguese justify rule through papal donation and crusading ideology (Estado da India); Swahili counter-narratives frame resistance as jihad; neither narrative commands universal consent.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Portuguese administration understaffed and corrupt; customs collection inefficient; records poorly kept; Swahili administrative apparatus destroyed at Kilwa, attenuated elsewhere.<br><br>
-__Political Participation & Mobilization:__ Popular mobilization occurs during rebellions (Mombasa 1631 massacre of Portuguese garrison); otherwise, participation suppressed; factionalism among Swahili elites exploited by Portuguese.<br><br>
-__Geopolitical Position & External Relations:__ Portuguese contest Ottoman naval power in the Indian Ocean; Ottomans briefly intervene (Mir Ali Bey expedition 1585–1589) but withdraw; Omani power rises by late 17th century, culminating in capture of Mombasa (1698).<br><br>
-__Coercive Apparatus & Means of Force:__ Fort Jesus represents the premier fortification; Portuguese carracks and galleys command the sea; Swahili have no counter except guerrilla resistance and alliance with external powers.<br><br>
-__Internal Order & Threat Environment:__ Zimba invasions devastate coastal towns (Kilwa 1587, Mombasa 1589); Portuguese suppression adds violence; banditry and disorder rise during interregnums; order restored only when Portuguese grip loosens or Omani authority consolidates.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ News travels by ship and caravan as before; Portuguese dispatch system adds a European channel but does not accelerate local transmission; dhow captains and merchants carry intelligence.<br><br>
-__Record, Storage & Persistence:__ Portuguese archives (Goa, Lisbon) preserve colonial records; Swahili chronicles disrupted — some lineages lose their written histories when towns are sacked; for the majority population, oral tradition remains the sole medium of memory, genealogy, and law, and it is the primary means by which events of this period are later recalled.<br><br>
-__Framing, Censorship & Discourse Norms:__ Portuguese impose Catholic framing at missions; Swahili counter with Islamic discourse; neither dominates across the whole population; censorship sporadic and ineffective.<br><br>
-__Reception, Attention & Amplification:__ Oral amplification of resistance narratives among non-literate populations; Portuguese atrocities become part of collective memory preserved in later oral traditions.<br><br>
-__Signal Integrity & Noise Load:__ Disruption increases noise — conflicting rumors, lost records, broken chains of transmission; signal integrity lower than in the stable 15th century.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Islamic and Portuguese-Catholic moral frameworks coexist in tension; neither commands the other's subjects; sense of justice violated by conquest, massacre, and forced conversion.<br><br>
-__Law, Codification & Regulatory Evolution:__ Portuguese law applies to colonial subjects and Christians; Sharia continues for Muslims where qadis survive; dual legal systems with unclear boundaries; regulatory evolution stalled.<br><br>
-__Adjudication, Enforcement & Liability:__ Portuguese captains adjudicate in garrisons; qadis where sultans remain; enforcement weak beyond fortress walls; liability unenforceable across the colonial/indigenous divide.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights contracted under conquest; forced conversion and labor violate prior protections; compliance burden rises as subjects navigate two legal orders.<br><br>
-__Impunity & Unredressed Wrong:__ Portuguese soldiers enjoy near-total impunity for violence against Africans; Swahili grievances accumulate without redress; impunity gap wide and destabilizing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Islamic learning survives in northern towns (Pate, Lamu); Portuguese introduce Jesuit education sporadically; no new paradigm emerges; inquiry contracts under disruption.<br><br>
-__Applied Knowledge & Technical Method:__ Dhow-building and navigation continue; Portuguese introduce some European shipbuilding and fortification techniques at Mombasa; technology transfer limited.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Quranic schools disrupted at sacked towns; Portuguese mission schools reach few; literacy declines overall; oral transmission of practical skills continues among artisan populations.<br><br>
-__Obsolescence & Knowledge Decay:__ Destruction of libraries and death of scholars causes localized knowledge loss; some lineages lose genealogies and legal records; decay rate higher than in the prior century.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Swahili identity sharpens in opposition to Portuguese intrusion; Shirazi and Arab-African synthesis remains the foundational myth; Portuguese become the foreign oppressor in collective memory.<br><br>
-__Artistic Expression & Material Culture:__ Monumental building halts; Chinese porcelain imports decline; Portuguese introduce Iberian decorative elements at missions and forts; overall material culture impoverished relative to the florescence.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood darkens — trauma, loss, and humiliation characterize the sacked towns; northern towns less affected display cautious adaptation; by late 17th century, rising Omani intervention lifts hope.<br><br>
-__Form Exhaustion & Meaning Decay:__ Older forms survive but do not renew; creative energy diverted to survival; meaning not exhausted so much as suspended under duress.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islam provides resilience — suffering interpreted as test, resistance as duty; Portuguese Catholicism gains few converts; existential outlook blends piety with resistance.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mosque practice continues where mosques survive; Portuguese attempt forced conversion at some garrisons; Sufi devotion may deepen as communal refuge.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Ulama authority weakened where towns destroyed; survives at Lamu, Pate; Portuguese missions establish churches but institutional reach minimal; no single doctrinal authority spans the coast.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity fails to displace Islam; syncretic Afro-Portuguese Catholicism emerges among creole populations at Mozambique; interior populations remain outside both systems.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing disenchantment; if anything, the sacred intensifies as refuge from colonial violence; spiritual need answered by mosque and tariqa, not left as void.<br><br>
+# __1,500 CE – 1,700 CE__ — Portuguese Disruption of the Swahili System
+
+__Summary:__ The arrival of Portuguese naval power shatters the open commercial order of the Swahili coast, replacing consensual exchange with coerced extraction and fortified control. The binding constraint of the Oral Stage persists throughout: the Portuguese bring written administration and cartography, but their actual hold on the coast depends on garrison commanders, oral negotiations with local rulers, and alliances maintained through speech and presence; meanwhile, the Swahili towns continue to operate through oral contracts, remembered obligations, and knowledge stored in living navigators and merchants, making the disruption not a transition to literacy but the violent insertion of one oral-military system into another oral-commercial one.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Swahili coast extends 3,000 kilometers from Mogadishu to Sofala, a string of island and peninsular towns accessible only by sea. The Portuguese must project power across 8,000 nautical miles from Lisbon, rounding the Cape of Good Hope, then northward along the African coast. This distance imposes brutal attrition: ships take months, scurvy kills crews, and the monsoon calendar dictates arrival and departure windows. Once on station, Portuguese vessels can dominate harbor approaches but cannot control hinterlands or police the entire coast simultaneously. Fort Jesus at Mombasa (constructed 1593) anchors the system but cannot extend beyond cannon range without local allies.
+
+__Climate Regime & Volatility:__ The monsoon system that enabled Indian Ocean commerce now determines Portuguese operational tempo. Ships arriving with the northeast monsoon must return with the southwest or wait a full year. Calms, contrary winds, and storms exact unpredictable costs. The climate regime does not change, but the Portuguese are less adapted to it than established Indian Ocean sailors; their heavier ships handle less well in the monsoon pattern.
+
+__Hazard Regime & Exposure:__ Shipwreck is a constant hazard on the poorly charted coast; reefs, sandbars, and sudden storms claim vessels. Tropical diseases—malaria, dysentery—kill Portuguese soldiers and sailors faster than combat. Garrisons at Mozambique, Sofala, and Mombasa suffer chronic mortality. The Portuguese presence is demographically unsustainable without constant reinforcement from Europe and recruitment of local or Goan auxiliaries.
+
+__Resource & Energy Endowment:__ The Portuguese seek gold, ivory, and spices but produce none; they are extractive, not productive. Timber for ship repair is scarce on the coast; supplies must come from India or be laboriously acquired locally. Gunpowder and iron for weapons arrive from Europe via the annual fleet. The energy endowment is whatever ships, cannon, and armed men Lisbon can afford to send—and it is never enough for comprehensive control.
+
+__Waste Absorption & Sink Capacity:__ Portuguese presence is too small to alter the physical environment significantly. Fortress construction consumes coral and labor; cannon bombardment damages towns. But the sink capacity of the coastal environment is not stressed. The residue is human: corpses of sailors, soldiers, and massacred townspeople, absorbed into the landscape.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Malaria and other tropical diseases devastate Portuguese garrisons. European soldiers arriving without immunity die at rates that make permanent occupation financially ruinous. Local populations have endemic exposure but are not spared epidemics introduced from the Indian Ocean network. The mortality baseline is high for all parties; it is higher for the Portuguese.
+
+__Nutrition & Physiological Vitality:__ Portuguese crews arrive weakened by scurvy after months at sea; garrisons depend on local provisioning and are vulnerable to siege. The disruption of trade reduces food imports to towns that depended on them. Nutritional stress increases for both occupier and occupied, though the worst effects fall on besieged populations.
+
+__Care, Healing & Recovery Capacity:__ Portuguese military hospitals are minimal; most care is improvised. Local healing traditions continue but cannot address casualties from cannon and musket. Recovery capacity is overwhelmed during sieges and assaults; chronic understaffing means wounded soldiers often die of neglect.
+
+__Reproductive Biology & Pairing Dynamics:__ The Portuguese garrison population is overwhelmingly male; soldiers take local wives and concubines, producing a mixed Luso-African population. This mestico community becomes essential to Portuguese operations, providing interpreters, soldiers, and local knowledge. On the Swahili side, marriage and reproduction continue, but commercial disruption may reduce the resources available for household formation.
+
+__Demographic Renewal & Density:__ Kilwa, Mombasa, and other towns suffer population decline from assault, siege, commercial collapse, and out-migration. Sofala's population crashes as gold trade shifts. The Portuguese never achieve demographic self-sustaining settlement; their presence depends on continuous reinforcement. By 1700, the coast's urban population is much reduced from 1500.
+
+__Attrition & Dependency Overhang:__ Orphans, widows, and displaced persons multiply. The breakdown of commercial networks reduces the capacity to support dependents. Slave populations suffer most acutely: when masters flee or die, slaves are abandoned, sold, or perish.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Towns that depended on trade-generated wealth to purchase food imports now face provisioning crisis. Kilwa's collapse eliminates the entrepot function; agricultural hinterlands cannot compensate. Siege warfare disrupts planting and harvest. Famine accompanies war in the worst episodes. The provisioning floor rises dangerously close to the population standing on it.
+
+__Energy Capture & Conversion:__ The Portuguese introduce cannon and firearms—concentrated energy release that local armaments cannot match in naval combat. But this advantage is narrow: on land and in close quarters, numbers and knowledge of terrain matter more. Sail power remains dominant; the Portuguese have no energy advantage over Arab or Indian ships in transit.
+
+__Labor Organization & Coercion:__ The Portuguese impose forced labor (corvee) for fortress construction and porterage. Slavery continues and intensifies as the slave trade becomes an increasingly important export when gold revenues decline. Coercion increases across the board; the voluntary commercial partnerships of the old system give way to extraction under threat.
+
+__Production & Surplus Capacity:__ Gold production on the Zimbabwe Plateau continues but trade routes are disrupted; Portuguese attempts to control Sofala and penetrate the interior largely fail. Surplus flows are redirected but reduced. The coast produces less because commerce, not production, was its economic base—and commerce is broken.
+
+__Storage, Reserves & Buffering:__ Sieges and sackings destroy stored wealth. Merchant families who flee carry what they can; those who cannot flee lose everything. Credit relationships collapse when counterparties are dead, displaced, or ruined. Buffering capacity is shattered; each shock hits harder than the last.
+
+__Exchange, Trade & Logistics:__ The Portuguese aim to monopolize Indian Ocean trade but lack the ships and men to enforce monopoly. Instead, they levy cartaz (passes) on shipping and attack vessels without passes. This extracts revenue but also destroys trust and drives trade to routes bypassing Portuguese chokepoints. Kilwa's trade collapses; Mogadishu and Pate remain beyond effective Portuguese control and absorb some displaced commerce. The logistics network fragments; costs rise; volumes fall.
+
+__Value Storage, Credit & Deferred Exchange:__ Gold flows continue but Portuguese control at Sofala is contested and incomplete. Currency disruption accompanies commercial collapse. Credit relationships—the foundation of the old system—cannot survive when trust is destroyed by violence. Deferred exchange contracts become unenforceable.
+
+__Surplus Extraction & Redistribution:__ The Portuguese extract tribute from subject towns and customs dues from shipping. But the commercial base they tax is shrinking; extraction accelerates decline. Redistribution through traditional channels (sultanic patronage, mosque charity) collapses where sultans are killed or exiled. The Portuguese spend extraction on military maintenance, not local redistribution.
+
+__Wealth Distribution & Asset Defense:__ The old patriciate is dispossessed; those who collaborate with the Portuguese may preserve some wealth, but most flee or are ruined. Portuguese captains and soldiers enrich themselves through plunder and extortion. Inequality shifts from a commercial elite over a laboring population to a military occupier over a subjected population. Asset defense means flight, hiding valuables, or conversion to portable forms (gold dust, jewels).
+
+__Byproducts & Waste Routing:__ The physical residue of war: rubble from bombardment, burned buildings, corpses. The financial residue: bad debts, broken contracts, worthless claims. Neither is cleared; both accrete as the system degrades.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrician families scatter; some flee to Comoros, Madagascar, or interior refuge. Inheritance becomes contested when heads of households die violently and property is seized. Family structures survive but under extreme stress; the kinship networks that organized trade are severed.
+
+__Association & Mutual Aid:__ Merchant associations and guild-like bodies collapse with commerce. Mosque communities continue where mosques survive; they become refuges and nodes of resistance. Mutual aid shifts from commercial partnership to survival solidarity. Patronage networks break when patrons are impoverished or dead.
+
+__Leisure, Play & Sociability:__ Public festivity ceases during siege and sack; it resumes in intervals of peace but under shadow. Poetry and storytelling transmit resistance and lament. Sociability contracts to private and safe spaces.
+
+__Stratification, Status & Group Structure:__ The old status hierarchy is overturned: Portuguese soldiers lord over former sultans; collaborators rise, resisters fall. Shirazi identity persists but cannot protect against cannon. New mixed categories emerge: mesticos, renegades (Portuguese who convert to Islam and join Swahili resistance), and African auxiliaries in Portuguese service. Stratification becomes more coercive and less legitimate.
+
+__Administrative Capacity & Institutional Integrity:__ Portuguese administration is thin: a captain at each fort, a factor managing trade, soldiers, and priests. Record-keeping exists but serves Lisbon's needs, not local governance. The old sultanates' administrative capacity is destroyed where the Portuguese conquer; it persists where they do not reach (Pate, Lamu, the interior). Corruption and abuse characterize Portuguese rule; captains enrich themselves at crown expense.
+
+__Coercive Apparatus & Means of Force:__ Portuguese naval superiority rests on carracks mounting heavy cannon; they can bombard towns into submission from offshore. On land, firearms give an edge but not dominance; garrisons are too small to control territory beyond fortress walls. The coercive apparatus is concentrated at a few forts (Mozambique, Sofala, Kilwa, Mombasa); between them, the Portuguese must negotiate or raid, not rule. Against determined resistance or siege, garrisons are vulnerable. Fort Jesus withstands multiple Omani assaults before falling in 1698 after a siege of nearly three years.
+
+__Discharge, Disorder & Decay:__ Disorder is the defining condition: sieges, sacks, massacres, piracy, vendetta, shifting alliances. Refugees crowd unaffected areas. Banditry increases where authority collapses. The social apparatus of the old Swahili system is in ruins by 1600; what survives is fragmentary. Decay is not the discharge of a functioning system but the system's destruction.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear and rage characterize Swahili populations under Portuguese assault. Resistance is fueled by outrage at sacrilege (mosques burned), massacre, and dispossession. The Portuguese are hated; collaboration carries stigma. Among the Portuguese themselves, morale oscillates between greedy confidence and desperate fear, depending on reinforcement and local circumstance.
+
+__Leadership & Personal Authority:__ Sultans who resist become heroes of oral tradition (Yusuf of Mombasa, who converted to Christianity under Portuguese pressure, then apostasized and led a massacre of the garrison in 1631). Portuguese captains are remembered as villains. Leadership on both sides is personal, charismatic, and volatile—there are no stable institutions to transcend individual tenure.
+
+__Legitimacy as Lived Allegiance:__ Portuguese legitimacy is nil among the Swahili; rule rests on force alone. Collaborators lose legitimacy; resisters gain it. Among the Portuguese, legitimacy derives from crown commission and Catholic faith, but distance from Lisbon attenuates both. Local mestico communities develop their own sense of belonging, neither fully Portuguese nor fully Swahili.
+
+__Political Will & Collective Resolve:__ Swahili towns resist fiercely but cannot coordinate; each town faces the Portuguese alone, and the Portuguese exploit local rivalries. Collective resolve crystallizes only when external allies (Omani Arabs, arriving in the late 17th century) provide leadership and resources. Portuguese will is constrained by distance, cost, and competing priorities (India, Brazil); the crown never commits enough to achieve stable control.
+
+__External Relations & Posture:__ The Portuguese posture is aggressive extraction: tribute, monopoly, forced conversion. Swahili towns seek external allies: the Ottomans (who send fleets in 1585–89 but withdraw), Omani Arabs (who ultimately succeed). Relations with interior polities remain marginal; the Portuguese barely penetrate beyond the coast. The region becomes a theater of wider Indian Ocean geopolitics, with outcomes determined far from the coast itself.
+
+__Disaffection, Apathy & Spent Will:__ By the late 17th century, Portuguese will is spent: garrisons are undermanned, reinforcement is irregular, and the Estado da India is overextended. Swahili disaffection is channeled into Omani alliance. The exhaustion of both parties prepares the ground for Portuguese expulsion and Omani succession.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Swahili remains the coastal lingua franca; Portuguese is confined to garrisons and churches. Arabic continues among scholars and merchants. Mutual intelligibility across communities persists, but communication between Portuguese and Swahili depends on interpreters—often mesticos or renegades whose loyalties are suspect. The oral substrate remains dominant; written communication is supplementary.
+
+__Channels & Transmission Velocity:__ Portuguese naval patrols and cartaz systems impose surveillance on shipping, but information still travels by sail at monsoon speed. News of attacks, alliances, and opportunities spreads through the trading network; Portuguese intelligence is often slower than local rumor. The 1631 Mombasa uprising succeeded because the Portuguese garrison was surprised, despite having intelligence networks.
+
+__Record, Storage & Persistence:__ Portuguese archives in Goa and Lisbon accumulate colonial records: letters, reports, account books. These survive and provide the documentary record historians use. Swahili records are sparser; destruction accompanies conquest. Oral tradition becomes the repository of resistance memory, preserving what documents do not: the Swahili perspective.
+
+__Framing, Censorship & Discourse Norms:__ Portuguese missionaries attempt to suppress Islam and impose Christianity; mosques are converted to churches, Qurans destroyed. This censorship is incomplete: Islam survives in hiding, in resistance, and beyond Portuguese reach. The frame of legitimacy is contested: Catholic Portuguese versus Muslim Swahili, with each demonizing the other.
+
+__Reception, Attention & Amplification:__ Oral networks amplify resistance narratives and Portuguese atrocities. The story of Yusuf of Mombasa circulates as far as Oman and the Ottoman court, generating sympathy and eventual intervention. Portuguese reports to Lisbon frame events in terms of crusade and commerce, often distorting local realities to justify continued investment.
+
+__Signal Integrity & Noise Load:__ Distrust and disinformation proliferate. Portuguese captains lie to superiors to conceal corruption; local informants lie to Portuguese to mislead them. Swahili communities rely on trusted networks and discount outsider information. Signal integrity is low in contested zones; noise is high.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Two incompatible moral systems collide. The Portuguese claim divine mandate to conquer and convert; they regard Muslims as enemies of the faith with limited moral standing. The Swahili regard the Portuguese as invaders, sacrilegious violators of mosques, and murderers. Neither grants the other legitimacy. Justice is what the stronger imposes.
+
+__Law, Codification & Regulatory Evolution:__ Portuguese law applies within garrisons; colonial ordinances govern commerce and conduct. Sharia survives where Portuguese control does not reach. In contested zones, law is effectively suspended; force decides outcomes. The legal plurality of the old system (sharia plus custom) gives way to violent imposition.
+
+__Adjudication, Liability & Sanction:__ Portuguese captains judge cases within their jurisdiction, often arbitrarily. There is no appeal; distance from Goa and Lisbon means effective impunity. Swahili qadis continue where communities survive intact. Sanction is asymmetric: the Portuguese can execute, enslave, and expropriate; Swahili populations can resist or flee but cannot call the Portuguese to account.
+
+__Rights, Protections & Compliance Burden:__ The Portuguese recognize no Swahili rights beyond what treaties (often coerced) grant. Conversion to Christianity theoretically confers status but offers little practical protection. Compliance burden is arbitrary: tribute, forced labor, cartaz fees, all extractable at the captain's whim. Predictability collapses.
+
+__Impunity & Unredressed Wrong:__ Portuguese atrocities—sackings, massacres, enslavements—go unpunished. Occasional crown inquiries into corruption produce little result. Impunity is systemic. The wrong accumulates as historical grievance, transmitted orally and eventually acted upon when Omani power provides the means.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The Portuguese bring European cartography, navigation, and military engineering—practical knowledge applied to conquest. Jesuit missionaries attempt to spread Catholic doctrine, with minimal success. No synthesis occurs; two intellectual traditions remain opposed. The old Swahili scholarly tradition (Islamic jurisprudence, Quranic commentary) survives in reduced circumstances.
+
+__Applied Knowledge & Technical Method:__ Cannon-casting, fortress design, and deep-sea navigation represent Portuguese technical advantages. But local knowledge of coastal waters, monsoon timing, and hinterland routes remains with Swahili and Arab pilots—knowledge the Portuguese must purchase or coerce. Shipbuilding traditions diverge: Portuguese carracks versus Arab dhows, each optimized for different conditions.
+
+__Education, Knowledge Stock & Skill Distribution:__ Portuguese mission schools reach few converts; Catholic education does not take root. Quranic schools continue in surviving communities. The knowledge stock is disrupted but not destroyed; skill distribution shifts as specialists die or flee. The overall trend is loss.
+
+__Obsolescence & Knowledge Decay:__ Navigation knowledge is lost when pilots are killed; commercial knowledge becomes useless when networks collapse; artisanal skills atrophy when patronage disappears. Decay is rapid under conditions of violence and displacement. What the system took centuries to build, destruction can erase in decades.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The trauma of Portuguese conquest becomes foundational memory. Stories of resistance, betrayal, martyrdom, and survival enter oral tradition. Shirazi identity persists but is overlaid with the experience of subjugation. Islam becomes more closely identified with resistance; to be Swahili is to be Muslim and to resist the Christian invader.
+
+__Legitimating Narrative & Ideology:__ The Portuguese narrative of crusade and commerce justifies conquest to European audiences but has no purchase locally. The Swahili counter-narrative of righteous resistance and foreign tyranny legitimates opposition. Neither side recognizes the other's story.
+
+__Artistic Expression & Material Culture:__ Stone architecture is damaged and not rebuilt. Material culture becomes portable and hidden: jewelry, fine textiles, manuscripts carried into exile. Poetry of lament and resistance flourishes; the utendi (Swahili epic poem) tradition preserves memory of the struggle. Portuguese fortresses impose a foreign aesthetic: Fort Jesus is European military architecture transplanted to Africa.
+
+__Form Exhaustion & Meaning Decay:__ The old forms do not exhaust; they are violently interrupted. Symbols retain meaning—mosque, minaret, stone house—but cannot be enacted where the Portuguese control. Form exhaustion is not the residue; destruction is.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Islam remains the cosmological anchor for Swahili communities. The Portuguese assault is interpreted as divine test or punishment; endurance and faith are the proper response. Catholic cosmology frames Portuguese action as crusade, but this framing convinces no Swahili and few converts. Two incompatible sacred orders clash.
+
+__Ritual, Devotion & Sacred Practice:__ Where possible, Islamic ritual continues: prayer, fasting, pilgrimage. Where Portuguese control is total, practice goes underground or ceases. Forced conversions produce nominal Christians who revert when possible. Devotional life is stressed but not extinguished.
+
+__Religious Institutions & Doctrinal Authority:__ Mosques are destroyed or converted; ulema (scholars) are killed or exiled. Institutional authority fragments. But Islam survives because it is embedded in practice and memory, not only institutions. Where communities remain intact, religious authority reconstitutes. The Portuguese church establishment (priests, missions, conversions) achieves little beyond garrison walls.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity makes no lasting gains; Islam holds and even strengthens as the marker of resistance identity. Syncretism is minimal; the conflict is too sharp for blending. Displacement is temporary: Islam reclaims the coast when the Portuguese are expelled.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment occurs; the sacred is intensified by conflict. Islam emerges from the Portuguese period as a more militantly defended identity than before. The residue is not the loss of the sacred but its hardening into opposition.
+

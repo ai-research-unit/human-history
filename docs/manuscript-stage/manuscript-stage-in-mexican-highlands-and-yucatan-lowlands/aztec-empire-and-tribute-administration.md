@@ -1,69 +1,139 @@
-# __1428 CE – 1519 CE__ — Aztec Empire and Tribute Administration
-__Summary:__ The Triple Alliance, centered on Tenochtitlan, consolidates a tribute empire across central Mexico and beyond, extracting surplus from hundreds of subordinate polities through provincial administration recorded in pictographic codices. The binding constraint is the logistical and military capacity to enforce tribute obligations across ecologically varied terrain without occupying garrisons; the system holds considerable margin through diversified extraction and stored reserves but remains vulnerable to coordinated resistance. Direction is expansionist, extending tribute reach to the Gulf Coast, Oaxaca, and Guatemala borderlands while intensifying ideological apparatus around sacrificial religion and imperial cosmology.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Valley of Mexico sits at 2,240 m elevation, ringed by volcanic peaks and containing the interconnected Lake Texcoco system that enables canoe transport; tribute routes radiate outward across the Sierra Madre ranges to the Gulf lowlands, Pacific coast, and Oaxacan highlands, imposing weeks of porter travel to distant provinces.<br><br>
-__Climate Regime & Volatility:__ The highland basin experiences a pronounced wet-dry seasonality with summer rains (May–October) and cool dry winters; interannual rainfall variability creates periodic droughts that stress maize harvests, though diversified tribute from multiple ecological zones buffers metropolitan supply.<br><br>
-__Hazard Regime & Exposure:__ Volcanic activity and seismic risk persist in the Transvolcanic Belt; Lake Texcoco experiences periodic flooding that threatens Tenochtitlan's island infrastructure, requiring continuous dike and causeway maintenance; the city holds moderate margin through engineered flood-control works.<br><br>
-__Resource & Energy Endowment:__ Obsidian sources at Pachuca and Otumba supply tool and weapon production; lacustrine resources (fish, waterfowl, salt) supplement highland diet; tropical goods (cacao, feathers, cotton, jade) arrive via tribute rather than local endowment, making the tribute network itself the resource base.<br><br>
-__Waste Absorption & Sink Capacity:__ Chinampa agriculture recycles organic waste into soil fertility; urban waste in Tenochtitlan is managed through canoe removal and deposition in designated areas; the lake system absorbs effluent but localized degradation near population concentrations is emerging, though absorptive capacity remains adequate.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal and respiratory infections impose a moderate mortality burden; no major epidemic disruptions during this window; childhood mortality remains significant but population is growing, suggesting death rates below replacement threshold.<br><br>
-__Nutrition & Physiological Vitality:__ Maize-bean-squash agriculture provides adequate protein complementarity; elite access to tribute goods (cacao, game, tropical fruits) improves upper-stratum nutrition; commoner populations generally adequately nourished though vulnerable during drought years.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage regulated by calpulli community and class; polygyny permitted for nobility; fertility appears robust given population growth; no evidence of deliberate fertility restriction among commoner populations.<br><br>
-__Demographic Renewal & Density:__ The Valley of Mexico supports approximately one to two million inhabitants, with Tenochtitlan at 150,000–250,000; the empire nominally controls 5–6 million people across tributary provinces; population is growing, indicating net positive replacement.<br><br>
-__Attrition & Dependency Overhang:__ War losses, particularly among warriors, and sacrificial victims create some male-deficit in age cohorts; widow and orphan support nominally provided through calpulli and noble household structures; the dependency load remains absorbable given population growth.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Chinampa intensive agriculture in the lake zone produces maize, beans, squash, and vegetables year-round; tribute brings supplementary maize from provinces; the metropolitan population sits moderately above subsistence floor through diversified supply chains.<br><br>
-__Energy Capture & Conversion:__ Human labor is the primary energy source; no animal traction available; water transport on lake systems is highly efficient; porter transport (tlameme) handles overland logistics; wood fuel supplies cooking and craft production; the per-capita work ceiling is human-muscle-bound.<br><br>
-__Labor Organization & Coercion:__ Commoner labor organized through calpulli for agriculture and corvee (tequitl); slave labor (tlacotin) supplements workforce; artisan specialists (featherworkers, goldsmiths) attached to noble and temple households; coercion moderate at core, heavier in tributary margins.<br><br>
-__Production & Surplus Capacity:__ Chinampa agriculture and tributary inflows generate substantial surplus; craft production in Tenochtitlan supports extensive artisan classes; surplus flows toward nobility, temples, and state functions; production capacity growing with territorial expansion.<br><br>
-__Storage, Reserves & Buffering:__ Imperial granaries (petlacalco) store tribute maize; individual households maintain corn cribs; temple and palace storehouses accumulate textiles, cacao, feathers; reserve depth appears substantial, providing buffer against single-year failures.<br><br>
-__Exchange, Trade & Logistics:__ The Tlatelolco market handles 60,000 daily traders; long-distance merchants (pochteca) reach Guatemala and beyond; cacao beans serve as exchange medium; causeways and canoe networks enable efficient lake-zone logistics; overland routes constrained by porter capacity.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cacao beans, cotton mantles (quachtli), and gold dust function as value storage; deferred obligations exist within trading partnerships and noble-commoner relations; no formal credit instruments but reciprocal obligation networks operate.<br><br>
-__Surplus Extraction & Redistribution:__ Tribute flows from ~450 tributary towns into Tenochtitlan; Codex Mendoza records annual exactions (cotton mantles, cacao, feathers, warriors' costumes, gold, jade, maize); redistribution through temples, warfare supply, and noble grants; extraction load heavy on tributaries, lighter on core.<br><br>
-__Wealth Distribution & Asset Defense:__ Nobility (pipiltin) hold land, office, and tribute rights; commoners (macehualtin) have usufruct through calpulli; merchants accumulate movable wealth but lack noble status; concentration is marked and increasing through conquest expansion; asset defense through political position.<br><br>
-__Byproducts & Waste Routing:__ Craft waste (obsidian knapping debris, metalworking slag) concentrated in production zones; agricultural waste recycled into chinampas; urban organic waste removed via canoe; routing largely recycled or dispersed, minimal accumulation stress.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ The calpulli provides the primary reciprocity structure: shared labor, dispute mediation, ritual participation; trust radius extends to ethnic and occupational groupings; cross-calpulli and cross-ethnic trust lower but sustained by market interactions; fabric stable.<br><br>
-__Stratification, Status & Group Identity:__ Rigid division between pipiltin (nobles) and macehualtin (commoners); warrior achievement offers limited mobility; ethnic hierarchies place Mexica above tributary peoples; status boundaries hardening as empire matures; tributary peoples retain local identity beneath imperial framework.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent predominates; noble property and office transmitted through male lines with polygynous households; commoner inheritance within calpulli land-tenure; marriage regulated by community and state; kinship stable across window.<br><br>
-__Civic Association & Self-Organization:__ Calpulli organize local affairs: labor allocation, ritual, local justice; merchant guilds (pochteca) maintain autonomous organization; artisan groups cluster by specialty; temple wards structure urban life; associational fabric thick and stable.<br><br>
-__Leisure, Play & Sociability:__ Ball courts (tlachtli) provide elite and popular spectacle; regular market days serve as social gathering; festival calendar creates collective ritual occasions every 20-day period; pulque consumption structures adult male sociability; play integrated into ceremonial cycle.<br><br>
-__Grievance Channels & Social Discharge:__ Calpulli elders mediate local disputes; state courts handle appeals and noble cases; festival calendars, particularly the veintena ceremonies, provide ritual release; warfare absorbs male aggression outward; discharge capacity adequate, little unmetabolized tension visible.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The Triple Alliance concentrates power nominally among Tenochtitlan, Texcoco, and Tlacopan, but Tenochtitlan dominates by 1500; the tlatoani (ruler) holds supreme authority with advisory council (tlatocan); power centralizing through military success and tribute accumulation.<br><br>
-__Succession & Power Transfer:__ Succession is elective within the ruling lineage; the tlatocan selects from eligible candidates; transitions occasionally contested but generally orderly; Moctezuma II's succession (1502) was smooth; the mechanism is routinized though vulnerable to faction.<br><br>
-__Legitimacy & Political Narrative:__ Mexica legitimacy rests on migration legend (Aztlan origin), Huitzilopochtli's divine mandate, and military prowess demonstrated through expansion; sacrificial religion frames conquest as cosmic necessity; narrative widely accepted in core, less so among tributaries.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Provincial tribute collection relies on calpixque (tribute collectors) stationed in subordinate towns; pictographic codices record obligations; administrative reach extensive though thin; local rulers retained as intermediaries; capacity adequate for extraction, limited for direct governance.<br><br>
-__Political Participation & Mobilization:__ Commoners participate through calpulli assemblies; merchants and artisans have guild representation; warrior societies provide upward channel; mass mobilization occurs through corvee and military levy; participation real but bounded by status; no organized dissent visible in core.<br><br>
-__Geopolitical Position & External Relations:__ The empire extends from Gulf to Pacific coasts, from Huasteca to Soconusco; unconquered enclaves persist (Tlaxcala, Metztitlan, Tarascan frontier); Maya regions beyond reach; flower wars maintain ritual enmity with Tlaxcala; expansion continuing but approaching logistical limits.<br><br>
-__Coercive Apparatus & Means of Force:__ Military organized through warrior societies (eagle, jaguar knights); mass levy provides infantry; weapons are obsidian-edged macuahuitl, atlatl darts, bows; no metal weapons; no cavalry or draft animals; command concentrated in nobility; garrisons minimal, relying on punitive expeditions.<br><br>
-__Internal Order & Threat Environment:__ Core regions orderly; tributary provinces occasionally rebel, met with harsh reprisal; Tlaxcalan enclave represents persistent threat contained through ritualized conflict; banditry minimal in core; enforcement capacity adequate, though peripheral control fragile.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information moves via running messengers covering 100+ km daily on relay; market networks diffuse commercial intelligence; tributary codices travel with calpixque; reach spans the empire within days to weeks; velocity highest on trunk routes, slower to periphery.<br><br>
-__Record, Storage & Persistence:__ Pictographic codices on amatl bark paper record tribute lists, calendrical cycles, historical annals, genealogies; temple and palace archives maintain institutional memory; screenfold format allows expansion; records persist beyond individual memory but remain vulnerable to fire and political destruction.<br><br>
-__Framing, Censorship & Discourse Norms:__ Official historical narrative sanitizes Mexica origins; conquered peoples' records sometimes destroyed or incorporated; religious discourse frames imperial expansion; censorship operates through control of scribal class and codex production rather than suppression of speech; permitted band narrow on sacred topics.<br><br>
-__Reception, Attention & Amplification:__ Codex reading confined to trained tlacuiloque and elite interpreters; oral performance amplifies codex content in public ritual; market gossip circulates news; attention concentrated on festival calendar, tribute cycles, and military campaigns; amplification through ceremonial repetition.<br><br>
-__Signal Integrity & Noise Load:__ Pictographic system limits ambiguity within its conventions; scribal training maintains standards; tributary records cross-checked by calpixque; verification adequate for administrative purposes; noise load low given limited information volume; no evidence of system degradation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Reciprocity, hierarchy, and cosmic balance anchor the moral order; excess (drunkenness, adultery, theft) brings disproportionate punishment; nobles held to higher standards; shared sense that order requires vigilant enforcement; foundation stable.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary law codified under Nezahualcoyotl of Texcoco; laws governing marriage, property, contract, and crime elaborated; tributary obligations formalized in codices; regulatory framework expanding with imperial complexity; code accumulating rather than reforming.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts operate at calpulli, city, and imperial levels; judges (tecutlatoque) appointed by tlatoani; severe penalties including death for adultery, treason, and theft; enforcement swift for crimes against state; adjudication throughput adequate for caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Commoners have use-rights to calpulli land and access to courts; slaves retain certain protections; compliance burden moderate in core (labor and tribute obligations predictable), heavier and more arbitrary in tributary provinces; rule predictability high in center.<br><br>
-__Impunity & Unredressed Wrong:__ Elite enjoy procedural advantages but face harsh penalties for certain offenses; wrongful accusation possible; tributary populations have limited redress against extraction; backlog minimal in functioning courts; impunity gap exists mainly at imperial-tributary interface.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cosmological framework integrates astronomy, calendrics, and religious doctrine; tonalpohualli (260-day) and xiuhpohualli (365-day) calendars encode celestial observation; inquiry serves religious and divinatory purposes; paradigm stable, no challenge to central cosmology visible.<br><br>
-__Applied Knowledge & Technical Method:__ Chinampa hydraulic engineering highly developed; obsidian knapping techniques refined; goldsmithing, featherwork, and lapidary arts reach high sophistication; herbal medicine empirically developed; method pragmatic and transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Calmecac schools train noble youth in ritual, history, law, and warfare; telpochcalli provide commoner military education; scribal training concentrates in priestly and noble households; literacy confined to specialist class; general skill transmission through family and calpulli.<br><br>
-__Obsolescence & Knowledge Decay:__ Historical codices periodically rewritten to adjust narrative; older traditions incorporated or suppressed; some provincial knowledge lost with conquest; formal obsolescence mechanisms through official recopying; decay controlled but some regional traditions erased.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The Aztlan migration narrative, Huitzilopochtli's solar mission, and the founding of Tenochtitlan at the eagle-and-serpent omen constitute foundational mythos; cosmic responsibility for maintaining the Fifth Sun through sacrifice anchors collective identity; memory curated in official codices.<br><br>
-__Artistic Expression & Material Culture:__ Monumental architecture (Templo Mayor), stone sculpture (Coyolxauhqui stone, calendar stone), featherwork mosaics, gold ornaments, and polychrome ceramics define the visual vocabulary; artistic production concentrated in specialist workshops serving temple and palace; forms conventional but virtuosic.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence marks the imperial core; recent conquest success and tribute wealth sustain elite optimism; commoner mood pragmatically compliant; apocalyptic undertones in cosmology (anticipation of Fifth Sun's end) but not paralyzing; disposition expansionist and celebratory.<br><br>
-__Form Exhaustion & Meaning Decay:__ Religious forms intensely charged with meaning through sacrificial practice; no visible exhaustion in ceremonial calendar; artistic conventions stable but not stagnant; some provincial forms absorbed dilute local distinctiveness; renewal through conquest incorporation; minimal decay.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Four previous suns have perished; the current Fifth Sun requires blood sustenance to delay its destruction; humanity exists to serve cosmic maintenance; existential framework fatalistic regarding ultimate ending but activist regarding delaying it through proper action; piety and obligation dominate.<br><br>
-__Ritual, Devotion & Sacred Practice:__ The veintena festival cycle structures annual devotion; daily temple rituals maintain divine favor; human sacrifice at major ceremonies (New Fire, Tlacaxipehualiztli) involves thousands of victims; auto-sacrifice (bloodletting) required of all; practice intensive and escalating with imperial success.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple precincts in Tenochtitlan employ thousands of priests (tlamacazqui); high priests of Huitzilopochtli and Tlaloc hold authority second to tlatoani; doctrinal control exercised through priestly training and codex production; institutional power immense, orthodoxy consolidated.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Conquered peoples' deities incorporated into Tenochtitlan's Coatepec temple complex; Quetzalcoatl cult spans Mesoamerica; local cults persist under imperial overlay; diffusion works toward incorporation rather than elimination; syncretism structured as hierarchical encompassment.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment visible; sacred realm intensely present through continuous ritual; sacrificial system channels cosmic anxiety outward through victim acquisition; any existential surplus absorbed by the machinery of sacred maintenance; no standing disenchantment.<br><br>
+# __1428 CE – 1519 CE — Aztec Empire and Tribute Administration__
+
+__Summary:__ The Triple Alliance at its height stands as a tributary hegemony whose cohesion rests on the pictographic codex as instrument of state: tribute schedules, calendrical regulation, and dynastic legitimation run on painted records kept outside memory, making the administrative manuscript the binding constraint that holds the imperial fabric together against the centrifugal pull of subject polities.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Basin of Mexico sits at 2,240 meters on the Mesa Central, its five interconnected lakes (Texcoco, Xochimilco, Chalco, Xaltocan, Zumpango) providing waterborne transit that lowers friction within the core while surrounding mountain ranges impose steep gradients on landward approaches; Tenochtitlan occupies an island whose causeways and canoe traffic make it both defensible and logistically central, while the empire's outer provinces stretch from the Gulf coast lowlands to the Pacific littoral and southward into Oaxaca and Soconusco, each separated by rugged terrain that lengthens tribute transit to weeks of porter travel.
+
+__Climate Regime & Volatility:__ A semi-arid highland regime with summer monsoon rains (May–October) supports maize agriculture, though interannual variability brings periodic drought years that stress the provisioning base; the "one-rabbit" famine years recorded in annals mark failures of the rain-fed harvest, while lowland tribute zones contribute tropical products buffered against highland volatility.
+
+__Hazard Regime & Exposure:__ Volcanism (Popocatepetl, Iztaccihuatl) and seismic activity threaten intermittently; lake flooding periodically inundates Tenochtitlan, prompting massive dike construction (the Nezahualcoyotl dike separating salt and fresh water); frost at altitude limits the highland growing season.
+
+__Resource & Energy Endowment:__ Obsidian from Pachuca and Otumba sustains tool and weapon production; lacustrine clays support ceramic industries; timber from surrounding forests and tribute cotton, cacao, feathers, jade, and gold from distant provinces flow inward; no metallurgical base for bronze or iron leaves stone and wood as the primary tool substrate.
+
+__Waste Absorption & Sink Capacity:__ Urban concentration in Tenochtitlan (150,000–300,000 inhabitants) produces organic waste absorbed by chinampa agriculture as fertilizer; lake waters carry effluent but show no evidence of severe eutrophication; the sink remains functional within the period.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ A relatively benign disease environment compared to Old World ecumenes; no epidemic smallpox, measles, or plague circulates; endemic gastro-intestinal and parasitic infections carry baseline mortality, but no mass die-off punctuates the window; life expectancy at birth likely in the low thirties.
+
+__Nutrition & Physiological Vitality:__ Maize-bean-squash polyculture provides protein complementation; lake resources (fish, waterfowl, algae, insects) supplement calories; chinampa agriculture yields two to three harvests per year in favorable conditions; skeletal evidence suggests generally adequate nutrition among commoners, though periods of drought induce visible stress markers.
+
+__Care, Healing & Recovery Capacity:__ Healers (ticitl) practice herbal medicine, wound care, and obstetrics; botanical knowledge extensive (Badianus Manuscript records colonial-era preservation of pre-Columbian pharmacopoeia); temazcal sweat baths serve hygienic and therapeutic functions; no hospital institutions exist, but household and specialist care absorbs routine illness.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny among elites expands elite lineages; commoner monogamy prevails; marriage arranged through kin negotiation with gift exchange; reproductive rates sufficient to sustain population growth through the period.
+
+__Demographic Renewal & Density:__ Central Mexico's population reaches perhaps 15–25 million by 1519; the Basin of Mexico alone holds 1–2 million, among the densest pre-industrial concentrations; growth continues through the period, pressing against the carrying ceiling in marginal zones.
+
+__Attrition & Dependency Overhang:__ Warfare extracts a toll of young male casualties (including sacrificial captives), but demographic structure remains balanced; orphan and widow support falls to kin networks and calpulli communal structures; no crushing dependency overhang evident.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Chinampa raised-bed agriculture in the southern lakes (Xochimilco, Chalco) anchors the urban food supply; rain-fed terraces and irrigation in surrounding basins supplement; maize, beans, squash, chili, amaranth, and maguey provide caloric foundation; the provisioning floor sits above subsistence for most years, with tribute grain buffering shortfalls.
+
+__Energy Capture & Conversion:__ Human muscle remains the sole prime mover; no draft animals, no wheel for traction; porterage (tlameme) carries all overland freight at roughly 23 kilograms per porter per day; water transport on lakes and canals multiplies throughput within the basin; firewood and charcoal fuel cooking and craft production.
+
+__Labor Organization & Coercion:__ Commoners (macehualtin) owe labor service (tequitl) to their calpulli and to the state; war captives and slaves (tlacotin) perform domestic and agricultural labor; craft specialists (featherworkers, goldsmiths, scribes) organized in occupational wards; coercion moderate within the core, heavier in recently conquered provinces.
+
+__Production & Surplus Capacity:__ Intensive agriculture, craft specialization, and tribute inflows generate substantial surplus; elite consumption absorbs featherwork, textiles, and precious goods; temple and palace construction employs corvée labor; surplus extraction peaks under Motecuhzoma II's expansionist wars.
+
+__Storage, Reserves & Buffering:__ State granaries (petlacalco) hold tribute maize; merchant (pochteca) networks provide distribution flexibility; no coined money constrains liquidity, but cacao beans and cotton cloaks (quachtli) serve as media of exchange and stores of value; reserves sufficient to absorb single-year harvest failures.
+
+__Exchange, Trade & Logistics:__ Periodic markets (tianquiztli) operate on five-day cycles; Tlatelolco market serves 60,000 daily according to Spanish accounts; long-distance pochteca merchants carry luxury goods to and from distant provinces; no external blockade vulnerability exists, though internal route disruption by rebellious provinces occasionally interrupts tribute flow.
+
+__Value Storage, Credit & Deferred Exchange:__ Cacao beans and quachtli function as commodity money; no coinage or precious-metal currency; credit arrangements exist among merchants; tribute obligations constitute a form of deferred extraction recorded in codices.
+
+__Surplus Extraction & Redistribution:__ The Matricula de Tributos and Codex Mendoza record biannual tribute quotas from 400+ subject towns: cotton cloaks, warrior costumes, feathers, cacao, gold, foodstuffs, labor service; extraction heavy on distant provinces (up to half of local production in some accounts), lighter on core allies; redistribution flows to warriors, priests, and palace consumption.
+
+__Wealth Distribution & Asset Defense:__ Pipiltin nobility hold patrimonial lands (pillalli) and receive tribute shares; macehualtin hold usufruct through calpulli; social mobility possible through military achievement (commoner warriors elevated to cuauhpilli status); wealth concentration substantial but not impermeable.
+
+__Byproducts & Waste Routing:__ Organic waste recycled into chinampa agriculture; no industrial effluent; craft production generates modest ceramic and lithic debris; no accumulated financial imbalance beyond the tribute obligations themselves.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent governs inheritance of noble titles and lands; commoner households embedded in calpulli, territorial-kin units that allocate land and labor obligations; marriage strengthens inter-calpulli and inter-polity alliances.
+
+__Association & Mutual Aid:__ Calpulli provide mutual aid, land allocation, and collective labor mobilization; occupational guilds (featherworkers, merchants) maintain internal solidarity and ritual obligations; no autonomous civil association beyond these structures.
+
+__Leisure, Play & Sociability:__ Ball courts host ritual ullamaliztli games; pulque consumption accompanies festivals; market gatherings provide sociable space; calendrical festivals structure collective celebration across the year.
+
+__Stratification, Status & Group Structure:__ Sharp divide between pipiltin nobility and macehualtin commoners; tlacotin (slaves) occupy the bottom; warrior grades confer status through captive counts; priests form a parallel hierarchy; ethnic Mexica privileged over incorporated groups; boundaries permeable through military achievement but otherwise rigid.
+
+__Administrative Capacity & Institutional Integrity:__ Triple Alliance (excan tlatoloyan) coordinates Tenochtitlan, Texcoco, and Tlacopan, though Tenochtitlan dominates by 1500; each altepetl (city-state) under a tlatoani; tribute collectors (calpixque) stationed in provinces; codex-based record-keeping tracks obligations; administrative reach extends to 400+ subject polities but relies on local elites for enforcement; no standing provincial bureaucracy beyond tribute collection.
+
+__Coercive Apparatus & Means of Force:__ Standing warrior orders (Eagle, Jaguar) supplemented by levies from calpulli; obsidian-edged macuahuitl, atlatl darts, and quilted cotton armor constitute armament; conquest warfare expands tribute base while flower wars (xochiyaoyotl) with Tlaxcala provide captives without territorial gain; fortifications minimal; coercive capacity sufficient to suppress rebellion but dependent on rapid mobilization and allied contingents.
+
+__Discharge, Disorder & Decay:__ Subject polities periodically rebel (Chalco, Tlaxcala, Huexotzinco maintain independence or resistance); tribute exactions generate resentment exploitable by external powers; internal factional rivalry over succession occasionally erupts (succession crisis after Ahuitzotl's death 1502); the apparatus holds but resentment accumulates in the periphery.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A martial ethos pervades public culture; warrior achievement honored; fatalism infused by cosmology of cyclical destruction; public sentiment in the core expresses pride in imperial ascendancy, while subject provinces harbor resentment masked by outward compliance.
+
+__Leadership & Personal Authority:__ The tlatoani ("speaker") holds supreme authority, combining military, judicial, and ritual roles; Motecuhzoma II (r. 1502–1520) concentrates power, restricting noble access to his person; charismatic authority reinforced by ritual seclusion and cosmic framing.
+
+__Legitimacy as Lived Allegiance:__ Core Mexica populations accept the tlatoani's divine-right authority; Texcoco and Tlacopan allies maintain cooperative allegiance; subject provinces comply under coercion rather than consent; legitimacy erodes at the periphery where tribute extractions outrun any reciprocal benefit.
+
+__Political Will & Collective Resolve:__ The warrior elite displays high resolve for expansion; succession proceeds through elite selection (not strict primogeniture), occasionally contested; Motecuhzoma II's reign shows continued expansion (Oaxaca, Soconusco) though pace slows as resistant polities (Tlaxcala, Tarascan) hold firm.
+
+__External Relations & Posture:__ Expansionist posture toward the unconquered; Tarascan state to the west resists incorporation; Tlaxcala and allies remain hostile enclaves within Aztec territory; long-distance trade connects to Maya and beyond; no peer competitor threatens the core, but the unconquered buffer zones reveal the limits of hegemonic reach.
+
+__Disaffection, Apathy & Spent Will:__ Peripheral disaffection accumulates; some evidence of war weariness among allied contingents; the Tlaxcalan-Aztec enmity hardens into irreconcilable hostility; no collapse of will in the core, but the periphery's resentment constitutes latent fragility.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Nahuatl functions as the imperial lingua franca; subject populations speak diverse languages (Otomi, Zapotec, Mixtec, Maya) with varying Nahuatl proficiency; pictographic-logographic writing accessible only to trained scribes (tlacuilos); oral proclamation carries state commands to non-literate populations.
+
+__Channels & Transmission Velocity:__ Relay runners (paynani) transmit urgent messages at approximately 300 kilometers per day; routine information travels with porters and merchants at walking pace; no postal system but established routes and way stations facilitate official communication.
+
+__Record, Storage & Persistence:__ Screenfold codices (amoxtli) on bark paper (amatl) record tribute lists, genealogies, historical annals, calendrical cycles, and ritual prescriptions; state archives (amoxcalli) preserve records in Tenochtitlan and Texcoco; codices survive fire and flood poorly, requiring recopying; the Matricula de Tributos demonstrates the administrative function of written records in sustaining tribute extraction.
+
+__Framing, Censorship & Discourse Norms:__ Official histories (xiuhamatl) frame Mexica ascendancy as cosmic destiny; Itzcoatl's burning of earlier histories (c. 1428) indicates deliberate framing of the past; public discourse regulated by decorum and rank; commoners may not address rulers directly.
+
+__Reception, Attention & Amplification:__ Market criers and ritual proclamations reach mass audiences; calendrical ceremonies synchronize public attention; codex information circulates only among literate elites and their oral interpreters.
+
+__Signal Integrity & Noise Load:__ The pictographic system's ambiguity requires trained readers; no evidence of severe corruption or noise; oral transmission carries higher distortion risk than painted records; verification rests on scribal authority and archival comparison.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ A cosmic moral order positions the Mexica as the people of the sun, obligated to nourish it with blood; earthly justice reflects this cosmic hierarchy; theft, adultery, drunkenness, and rebellion carry severe sanctions; commoners expect protection from noble abuse through judicial appeal.
+
+__Law, Codification & Regulatory Evolution:__ Customary law codified in oral tradition and painted records; Nezahualcoyotl of Texcoco credited with systematic legal codes (eighty laws); courts (teccalli) adjudicate disputes; sumptuary laws regulate dress and consumption by rank.
+
+__Adjudication, Liability & Sanction:__ Judges (tecutli) hear cases in public courts; testimony, witnesses, and codex evidence inform judgment; sanctions include death (for adultery, treason, certain thefts), slavery, restitution, and corporal punishment; noble offenders face harsher penalties for same offenses in some accounts.
+
+__Rights, Protections & Compliance Burden:__ Commoners hold usufruct land rights through calpulli; slaves retain certain protections (cannot be killed arbitrarily, can purchase freedom); compliance burden heavy for subject provinces; predictability of rules moderate within the core, more arbitrary at the periphery.
+
+__Impunity & Unredressed Wrong:__ Elite impunity exists but is checked by intra-elite rivalry and occasional royal intervention; subject provinces suffer tribute extraction with limited recourse; the gap between cosmic justice proclaimed and peripheral experience constitutes a standing grievance.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ A cosmological paradigm structures knowledge: the universe operates through cyclical destruction and renewal, divine forces require human action to sustain, and specialist priests interpret celestial and calendrical patterns; empirical observation of astronomy and agriculture serves ritual and practical ends without separating from cosmological framing.
+
+__Applied Knowledge & Technical Method:__ Hydraulic engineering (dikes, aqueducts, chinampas) reaches high sophistication; architectural techniques support massive temple construction; obsidian knapping, featherwork, goldsmithing, and textile production embody accumulated craft knowledge; no iron or bronze metallurgy.
+
+__Education, Knowledge Stock & Skill Distribution:__ Calmecac schools train noble youth in priestly and administrative arts, including codex reading and composition; telpochcalli schools train commoner youth in warfare and civic duty; scribal literacy remains restricted to perhaps a few thousand specialists; oral transmission carries the bulk of technical and cultural knowledge.
+
+__Obsolescence & Knowledge Decay:__ The burning of pre-1428 histories deliberately erases prior knowledge; otherwise, scribal copying preserves and updates records; no evidence of large-scale knowledge loss within the period, though reliance on specialist scribes creates transmission bottlenecks.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Mexica origin narrative traces migration from Aztlan under Huitzilopochtli's guidance to the prophesied eagle-on-cactus site of Tenochtitlan; this narrative, fixed after 1428, legitimates Mexica supremacy and the obligation of war and sacrifice.
+
+__Legitimating Narrative & Ideology:__ The sun requires blood to rise; the Mexica are chosen to provide it; imperial expansion fulfills cosmic duty; tribute extraction compensates subject peoples' failure to provide sufficient captives; this ideology justifies both warfare and extraction.
+
+__Artistic Expression & Material Culture:__ Monumental sculpture (Coatlicue, Sun Stone) expresses cosmological themes; featherwork mantles and mosaics display status; stepped pyramids (Templo Mayor) dominate urban space; polychrome codices combine pictorial narrative with symbolic color coding (turquoise for royalty, red for blood); body paint, jade ear spools, and lip plugs mark rank.
+
+__Form Exhaustion & Meaning Decay:__ No evidence of cultural exhaustion; forms remain potent and generative; the artistic vocabulary expands with each temple reconstruction (Templo Mayor rebuilt seven times); meaning decay does not appear within this window.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ A layered cosmos (thirteen heavens, nine underworlds) surrounds the earthly plane; cyclical destruction by the elements (water, wind, fire, jaguars) has ended four prior suns; the current Fifth Sun requires human blood to continue; existence is precarious, sustained by ritual action.
+
+__Ritual, Devotion & Sacred Practice:__ Calendrical festivals structure the year (veintena ceremonies every twenty days); human sacrifice at temples, markets, and on campaign nourishes the gods; auto-sacrifice (bloodletting) by elites demonstrates piety; household shrines, incense, and offerings maintain daily practice.
+
+__Religious Institutions & Doctrinal Authority:__ Temple priesthoods (tlamacazque) maintain cult sites and ritual calendars; the high priest (Quetzalcoatl Totec Tlamacazqui) holds doctrinal authority alongside the tlatoani's politico-religious role; Templo Mayor at Tenochtitlan houses Huitzilopochtli and Tlaloc cults; institutional property includes temple lands and labor.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Aztec religion incorporates and subordinates conquered deities (Huitzilopochtli elevated over earlier Nahua gods); provincial cults continue under imperial overlay; no missionary displacement from outside; the Mexica cosmology expands its reach with the empire.
+
+__Disenchantment & Sacred Discharge:__ No secularizing drift; the sacred remains potent; omens preceding 1519 (comets, temple fires, the weeping woman) suggest anxiety about cosmic continuity rather than disenchantment; the spiritual order holds firm through the window's close, only to shatter with the conquest.

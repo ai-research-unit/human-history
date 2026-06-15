@@ -1,69 +1,139 @@
-# __2012 CE – 2026 CE__ — Tech Worker Culture and 996
-__Summary:__ Chinese technology industry labor practices crystallize around the 996 regime (9am-9pm, six days weekly) as platforms scale rapidly under competitive pressure; the binding constraint is the mismatch between labor-law protections and enforcement reality, leaving workers exposed to normalized overwork until regulatory intervention and economic slowdown force moderation post-2021; the system holds minimal margin for worker wellbeing during peak intensity; direction shifts from intensification (2012-2021) toward partial relaxation amid industry contraction and cultural resistance through tangping (lying flat).
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Tech industry concentrated in coastal megacities (Beijing Zhongguancun, Shenzhen Nanshan, Hangzhou, Shanghai Zhangjiang) with secondary hubs emerging; workers commute from affordable peripheries to expensive cores; office campuses designed to maximize on-site time with meals, gyms, sleeping facilities.<br><br>
-__Climate Regime & Volatility:__ Climate largely irrelevant to indoor office work; air quality concerns in Beijing winters affect commute decisions; summer heat waves occasionally stress power grids serving data centers.<br><br>
-__Hazard Regime & Exposure:__ No direct hazard exposure; COVID-19 lockdowns 2020-2022 shifted work online temporarily before return-to-office mandates; zero-COVID disruptions affected Shenzhen operations particularly.<br><br>
-__Resource & Energy Endowment:__ Office buildings and data centers draw from municipal power grids; resource constraints not limiting factor for indoor knowledge work; chip shortages post-2022 affect product timelines but not office operations.<br><br>
-__Waste Absorption & Sink Capacity:__ Office waste negligible; electronic waste from hardware cycles; data center heat loads concentrated in specific districts; carbon footprint of tech campuses growing but minor in national context.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Worker sudden deaths from overwork (guolaosi) gain public attention; specific cases (Pinduoduo employee 2021, Bilibili employee 2021) become national news; cardiovascular and cerebrovascular mortality elevated among chronically sleep-deprived workers.<br><br>
-__Nutrition & Physiological Vitality:__ Company cafeteria provision adequate calories but irregular eating patterns; sedentary desk work; chronic sleep deprivation (averaging 5-6 hours during crunch); declining physical condition across tech workforce.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Long work hours reduce time for relationship formation; declining marriage and birth rates among tech workers mirror national trends but more pronounced; company-organized dating events attempt to address but ineffective.<br><br>
-__Demographic Renewal & Density:__ Tech workforce skews young (under-35 majority); 35-year-old age discrimination threshold for continued employment; workforce characterized by youth bulge with rapid turnover.<br><br>
-__Attrition & Dependency Overhang:__ Burnout drives attrition; former tech workers with health damage represent growing dependency; mental health burden accumulates; aging-out workers face uncertain reintegration into labor market.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Tech salaries well above national median but housing costs in tier-one cities absorb majority; workers earn more than most Chinese but feel financial pressure; subsistence secure but lifestyle constrained.<br><br>
-__Energy Capture & Conversion:__ Human energy expenditure is the primary input; worker attention-hours converted to platform value; efficiency measured in output per head with constant pressure to increase.<br><br>
-__Labor Organization & Coercion:__ No independent unions permitted; All-China Federation of Trade Unions present but non-adversarial; coercion operates through performance reviews, rankings, and termination threat rather than direct compulsion; voluntary overwork norm maintained through competitive pressure and equity incentives.<br><br>
-__Production & Surplus Capacity:__ Tech industry captures outsized share of economic value creation; platform companies generate billions in revenue from worker-built systems; surplus accrues disproportionately to founders and investors.<br><br>
-__Storage, Reserves & Buffering:__ Workers build savings against uncertain future but housing prices absorb most; company stock options provide deferred compensation but illiquid until IPO; individual reserves thin relative to lifestyle costs.<br><br>
-__Exchange, Trade & Logistics:__ Labor market active with frequent job-hopping; recruiters aggressive; skills trade at premium during boom; market tightens severely post-2021 with mass layoffs at major platforms.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Stock options as primary wealth-building mechanism during boom; options underwater after 2021 valuations collapse; housing as alternative value storage but increasingly unaffordable; worker wealth tied to company fortunes.<br><br>
-__Surplus Extraction & Redistribution:__ Platform owners extract surplus through equity appreciation; workers receive salary plus modest option grants; ratio heavily favors capital over labor; Jack Ma "996 is a blessing" comment (2019) crystallizes tension.<br><br>
-__Wealth Distribution & Asset Defense:__ Extreme concentration at founder/investor tier; programmer salaries create modest middle-class but not wealth; housing-cost extraction transfers worker income to property holders and local government land sales.<br><br>
-__Byproducts & Waste Routing:__ Burned-out workers exit industry; skills depreciate without maintenance; health damage as negative externality absorbed by workers and families rather than companies; human waste of the production process.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Worker solidarity limited by competitive ranking systems; informal mutual support among colleagues but no collective organization; trust radius narrow and instrumental; online communities (maimai) provide anonymous venting.<br><br>
-__Stratification, Status & Group Identity:__ Programmer identity carries status in society; internal hierarchy by company prestige (BAT vs smaller firms), compensation, and technical skill; coder identity partially class-based given salary differentials.<br><br>
-__Kinship, Family & Inheritance:__ Work hours prevent family formation; existing families strained by parental absence; grandparents provide childcare when parents work; family relations subordinated to work demands.<br><br>
-__Civic Association & Self-Organization:__ No tech worker unions or independent associations permitted; online communities for discussion but no collective action capacity; self-organization suppressed as potential threat.<br><br>
-__Leisure, Play & Sociability:__ Minimal leisure time during 996 periods; company-organized events substitute for autonomous social life; gaming and short-video consumption in remaining hours; sociability contracted to workplace relationships.<br><br>
-__Grievance Channels & Social Discharge:__ Anonymous platforms (maimai, zhihu) serve as grievance outlets; Worker996.ICU GitHub repository (2019) compiled labor violations before suppression; tangping movement provides exit rather than voice; grievance discharge limited but visible.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Communist Party maintains ultimate authority; tech companies operate at state sufferance; labor protections exist in law but enforcement requires political will that varies with state-capital relations.<br><br>
-__Succession & Power Transfer:__ Not directly applicable to labor relations; company leadership changes affect work culture but structural pressures persist regardless of individual executives.<br><br>
-__Legitimacy & Political Narrative:__ 996 initially framed as entrepreneurial dedication and national development; post-2021 reframed as exploitation requiring correction; state narrative shifts with political winds.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Labor inspection exists but understaffed and captured; Ministry of Human Resources issues guidance but enforcement fragmented across localities; capacity insufficient for systematic compliance monitoring.<br><br>
-__Political Participation & Mobilization:__ Worker mobilization forbidden; strikes rare and quickly suppressed; participation channel limited to individual legal complaints which rarely succeed; collective political action absent.<br><br>
-__Geopolitical Position & External Relations:__ US-China tech competition shapes industry trajectory; restrictions on talent flow (visa limitations, security concerns) affect worker mobility options; decoupling narrows international exit opportunities.<br><br>
-__Coercive Apparatus & Means of Force:__ State security apparatus available if worker unrest threatens stability; no deployment necessary given absence of organized labor action; coercion potential sufficient deterrent.<br><br>
-__Internal Order & Threat Environment:__ Individual protests and viral complaints occasionally surface; no systemic threat to order; tangping as passive resistance rather than active challenge; disorder potential low given atomization.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Internal communication through corporate platforms (DingTalk, Feishu/Lark); WeChat groups for coordination; information about layoffs, working conditions spreads rapidly through informal channels; Worker996.ICU achieved viral spread before suppression.<br><br>
-__Record, Storage & Persistence:__ No systematic documentation of labor violations; individual complaints recorded in legal filings; company records inaccessible; memory of specific incidents fades without archival infrastructure.<br><br>
-__Framing, Censorship & Discourse Norms:__ Criticism of 996 permitted within limits; Worker996.ICU GitHub blocked domestically; tangping discussion periodically censored; discourse norm allows complaint but not organization.<br><br>
-__Reception, Attention & Amplification:__ Sudden death cases achieve viral attention; systemic critique less viral than individual tragedies; attention cycles through incidents without sustained pressure; amplification episodic.<br><br>
-__Signal Integrity & Noise Load:__ Company communications manage internal narrative; external information about actual conditions spreads through worker networks; signal about working conditions relatively clear among insiders; noise from corporate PR.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Workers perceive 996 as exploitative but normalized; compensation partially legitimizes; sudden deaths crystallize injustice perception; generational shift toward viewing overwork as unacceptable.<br><br>
-__Law, Codification & Regulatory Evolution:__ Labor Law limits workweek to 44 hours plus regulated overtime; Supreme People's Court ruling (2021) declared 996 illegal; law clear but enforcement absent; regulations tightening through window.<br><br>
-__Adjudication, Enforcement & Liability:__ Individual labor arbitration available but outcomes uncertain; collective action impossible; companies rarely face liability for overwork deaths absent clear causation; enforcement gap between law and practice wide.<br><br>
-__Rights, Protections & Compliance Burden:__ Legal rights extensive on paper; actual protections minimal; workers bear burden of asserting rights against powerful employers; compliance burden nominally on employers but unenforced.<br><br>
-__Impunity & Unredressed Wrong:__ Companies operate with substantial impunity on overtime; deaths attributed to individual health rather than systemic overwork; wrongful terminations rarely compensated fully; impunity level high but declining post-2021.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Labor economics and sociology research on tech work conditions exists in academic literature; practical knowledge about burnout and work-life balance increasingly mainstream; paradigm shifting from growth-at-all-costs toward sustainability.<br><br>
-__Applied Knowledge & Technical Method:__ HR and management techniques optimize extraction; productivity measurement tools; technical methods for monitoring and performance management; worker-side knowledge of legal rights spreading.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Tech workforce highly educated (BS/MS in computer science); skills distribution broad but rapidly depreciating; continuous learning required; education investment high but returns uncertain given 35-age-out pattern.<br><br>
-__Obsolescence & Knowledge Decay:__ Technical skills depreciate as frameworks evolve; workers over 35 face obsolescence narrative; knowledge investment devalued by short career horizons; skill decay accelerated by narrow specialization.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Programmer identity draws on global tech-culture mythos (meritocracy, innovation, disruption) localized through Chinese development narrative; struggle (fendou) valorized; identity crisis as overwork loses legitimacy.<br><br>
-__Artistic Expression & Material Culture:__ Office campuses as material culture (free food, nap pods, game rooms); dress casual to signal creativity; workspace aesthetics copy Silicon Valley; material expressions mask extraction beneath.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood shifts from striving optimism (2012-2019) through disillusionment (2019-2021) to defensive pessimism (2021-2026); behavioral disposition moves from overwork acceptance to tangping resistance; anxiety pervasive.<br><br>
-__Form Exhaustion & Meaning Decay:__ "Struggle" (fendou) rhetoric hollows as returns diminish; "passion" and "family" company language recognized as manipulation; forms of tech-work meaning exhausted without replacement; cynicism rises.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Materialist focus on career success and wealth accumulation; existential questioning increases with burnout; secular outlook predominates; meaning sought in achievement that proves increasingly unavailable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Work itself as ritual practice; daily standups, sprint cycles, performance reviews structure time; occasional temple visits for luck before stock vesting; no genuine sacred practice common.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religion largely absent from tech worker life; Buddhism and folk practice occasionally consulted in crisis; no institutional religious influence on work culture.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Wellness and self-care discourse diffuses from global sources; mindfulness apps popular among burned-out workers; syncretic meaning-making from Buddhist, Stoic, and Western self-help sources; displacement of traditional religion by secular achievement pursuit.<br><br>
-__Disenchantment & Sacred Discharge:__ Achievement no longer delivers promised meaning; tangping as disenchantment response, withdrawing from the game; lying flat represents sacred discharge into secular refusal; existential void acknowledged rather than denied.
+# __2012 CE – 2026 CE — Tech Worker Culture and 996__
+
+__Summary:__ China's tech boom extracts intense labor from a young, educated workforce through the 996 regime—9 AM to 9 PM, six days a week—until exhaustion, regulatory pressure, and the "lying flat" counter-movement erode the model's sustainability; the binding constraint becomes the sector's capacity to retain talent without burning it out.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Tech campuses cluster in Beijing's Zhongguancun and Haidian, Shenzhen's Nanshan, Hangzhou's Binjiang, and Shanghai's Zhangjiang; workers relocate to these hubs, accepting cramped housing and long commutes. Remote work remains marginal until COVID-19 forces temporary adoption, then recedes as companies insist on office presence.
+
+__Climate Regime & Volatility:__ Northern winters and southern summers stress workers who commute long distances; air-conditioned offices become refuges, reinforcing the tendency to stay late. Pollution episodes in Beijing and Hangzhou add respiratory burden to already exhausted bodies.
+
+__Hazard Regime & Exposure:__ Physical hazards are low for desk workers, but sedentary posture, repetitive strain, and screen fatigue accumulate. Rare incidents—fires, building collapses—affect factory-adjacent tech logistics more than software offices.
+
+__Resource & Energy Endowment:__ Offices draw heavily on grid power for lighting, cooling, and computing; personal devices require constant charging. The sector's energy footprint per worker exceeds traditional white-collar industries.
+
+__Waste Absorption & Sink Capacity:__ Electronic waste from rapid device turnover accumulates; discarded laptops, phones, and peripherals flow to informal recyclers. Office waste—food packaging from late-night meals, single-use plastics—adds to municipal loads.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Dense office environments and shared cafeterias facilitate respiratory transmission; pre-COVID flu seasons and post-2020 COVID outbreaks spread rapidly through tech campuses. High-profile sudden deaths—attributed to overwork—punctuate the period: a Pinduoduo employee in 2021, a Bilibili audit editor in 2022.
+
+__Nutrition & Physiological Vitality:__ Irregular meals, reliance on takeout, and excessive caffeine degrade nutritional status; weight gain, metabolic syndrome, and gastrointestinal complaints are common. Some companies provide gyms and health programs, but usage rates are low given time constraints.
+
+__Care, Healing & Recovery Capacity:__ Company clinics offer basic care; mental-health resources remain stigmatized and underutilized. Workers postpone medical visits, allowing minor conditions to worsen. Recovery time is scarce when the next deadline looms.
+
+__Reproductive Biology & Pairing Dynamics:__ Long hours leave little time for dating, courtship, or family; tech workers delay marriage and childbearing, contributing to China's fertility decline. Gender imbalance in engineering roles further constrains pairing within the industry.
+
+__Demographic Renewal & Density:__ A demographic bulge of graduates from the 1990s birth cohort fills entry-level roles through 2020; as that cohort ages and fewer young people enter the workforce, talent competition intensifies. Immigration of foreign engineers remains minimal due to visa restrictions.
+
+__Attrition & Dependency Overhang:__ Burnout drives turnover; workers exit to smaller firms, freelancing, or non-tech careers. Those who stay into their thirties face "35-year-old crisis" anxiety—perceived obsolescence and layoff risk. Parents left behind in hometowns depend on remittances but rarely see their children.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Entry salaries exceed national averages but fall short of Shenzhen and Beijing living costs; workers share apartments and economize on food. Stock options and bonuses promise future wealth that may never vest.
+
+__Energy Capture & Conversion:__ Human energy is the sector's primary input; 996 extracts maximum output per worker. The model assumes young bodies can sustain 72-hour weeks indefinitely—a premise that fails as cohorts age.
+
+__Labor Organization & Coercion:__ Formal unions are absent or state-controlled; collective bargaining does not exist. Coercion operates through peer pressure, performance reviews, and implicit threats of dismissal. Workers accept conditions because alternatives seem worse and exit costs are high.
+
+__Production & Surplus Capacity:__ Chinese tech generates enormous surplus—Alibaba, Tencent, and ByteDance rank among the world's most valuable companies. Profit margins in software and advertising exceed manufacturing; surplus funds expansion, acquisition, and executive compensation.
+
+__Storage, Reserves & Buffering:__ Workers' personal savings are thin relative to housing costs; stock holdings are illiquid until vesting. Companies maintain cash reserves sufficient to weather downturns, but layoffs come fast when growth slows—as the 2022 tech crackdown demonstrates.
+
+__Exchange, Trade & Logistics:__ Labor markets clear through online job boards (Zhipin, Lagou) and headhunter networks; movement between firms is frequent, though non-compete clauses and equity clawbacks constrain mobility.
+
+__Value Storage, Credit & Deferred Exchange:__ Stock options and restricted shares constitute deferred compensation; their value depends on IPO success or acquisition. Employees bear risk that companies may never list or may face regulatory destruction of value, as Ant Group's blocked IPO demonstrated.
+
+__Surplus Extraction & Redistribution:__ Owners and early investors capture most surplus; employee equity dilutes over funding rounds. The 2021 "common prosperity" campaign pressures tech billionaires to donate, but redistribution to workers remains marginal.
+
+__Wealth Distribution & Asset Defense:__ A small cohort of founders and early employees accumulates substantial wealth; rank-and-file workers struggle to afford housing. Property becomes the primary asset-defense strategy, locking workers into mortgages that require continued high income.
+
+__Byproducts & Waste Routing:__ Burnout and health damage are externalized onto workers and the healthcare system; companies bear limited liability. Failed startups leave unpaid wages and worthless equity; venture losses are absorbed by investors, not founders.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ 996 disrupts family formation; workers live apart from parents, delay having children, and divorce at elevated rates. Inheritance expectations shift as parents in the countryside age without nearby support.
+
+__Association & Mutual Aid:__ Informal networks—alumni groups, online forums, WeChat groups—provide job leads, emotional support, and information sharing. Formal mutual aid is rare; solidarity is episodic, flaring around high-profile deaths then subsiding.
+
+__Leisure, Play & Sociability:__ Leisure compresses into late-night mobile gaming, short-video scrolling, and weekend sleep. Company team-building events blur the line between work and play, adding to the burden rather than relieving it.
+
+__Stratification, Status & Group Structure:__ Engineers outrank support staff; algorithm specialists and AI researchers command premium salaries. Seniority confers status, but the "35-year-old crisis" threatens to flatten hierarchies as older workers are pushed out.
+
+__Administrative Capacity & Institutional Integrity:__ HR departments enforce performance metrics; management layers multiply as companies scale. Bureaucratic overhead grows, adding meetings and reports that extend the workday without productive output.
+
+__Coercive Apparatus & Means of Force:__ State labor inspectors have formal authority but rarely intervene in tech offices; enforcement focuses on factories. Companies discipline through termination, equity clawback, and reputation damage.
+
+__Discharge, Disorder & Decay:__ Layoff waves—2022 and after—discharge thousands; the tech job market saturates, and dismissed workers struggle to find equivalent positions. Internal disorder surfaces as leaked complaints, viral posts, and occasional protests outside company gates.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Ambivalence characterizes tech-worker mood—pride in building China's digital economy coexists with resentment at exploitation. The 2021 "lying flat" discourse crystallizes refusal, rejecting the striving ethic without offering an alternative.
+
+__Leadership & Personal Authority:__ Founders like Jack Ma and Zhang Yiming embody the success myth; their lifestyles and pronouncements shape aspirations. Ma's 2019 defense of 996 as "blessing" alienates workers and attracts regulatory scrutiny.
+
+__Legitimacy as Lived Allegiance:__ Belief in meritocracy sustains effort—the idea that hard work leads to wealth and status. As layoffs hit high performers alongside laggards, that belief erodes; cynicism spreads.
+
+__Political Will & Collective Resolve:__ Collective action is suppressed; strikes and protests are rare and quickly contained. The state's 2021 intervention—criticizing 996 as illegal—signals official disapproval but does not empower workers to organize.
+
+__External Relations & Posture:__ Tech workers compare their conditions to Silicon Valley counterparts; US salaries and work-life balance become reference points. Emigration appeals to top talent, though visa restrictions and patriotic sentiment limit exits.
+
+__Disaffection, Apathy & Spent Will:__ Exhaustion accumulates; "involution" (neijuan) describes the sense of running ever harder to stay in place. Some workers disengage mentally while remaining physically present, producing minimum viable output.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Workers are highly connected—WeChat, DingTalk, Feishu—and reachable at all hours; the always-on expectation extends the workday beyond office walls.
+
+__Channels & Transmission Velocity:__ Grievances spread rapidly through internal forums and external platforms; a viral post can force management response within hours. Companies monitor employee communications, creating cat-and-mouse dynamics.
+
+__Record, Storage & Persistence:__ Performance reviews, attendance logs, and code commits create detailed records; these serve management in disputes but also provide evidence for labor arbitration when workers sue.
+
+__Framing, Censorship & Discourse Norms:__ Criticism of specific companies circulates more freely than systemic critique; posts naming 996 as exploitative are tolerated, but calls for collective action are censored.
+
+__Reception, Attention & Amplification:__ High-profile deaths and leaked exposés capture public attention; media cycles amplify outrage briefly, then move on. Sustained attention is difficult to maintain.
+
+__Signal Integrity & Noise Load:__ Rumors, exaggerations, and company rebuttals muddy the information environment; workers struggle to distinguish verified reports from speculation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Workers perceive 996 as unfair extraction, especially when executives capture disproportionate rewards. The gap between effort and return offends the sense of reciprocity.
+
+__Law, Codification & Regulatory Evolution:__ Chinese labor law caps standard hours at 44 per week; 996 violates the code. The 2021 Supreme People's Court ruling declares the practice illegal, but enforcement remains weak.
+
+__Adjudication, Liability & Sanction:__ Labor arbitration provides a formal channel; some workers win back pay and overtime. However, pursuing claims risks career damage and employer blacklisting.
+
+__Rights, Protections & Compliance Burden:__ Workers nominally hold rights to overtime pay and rest; in practice, companies structure compensation to obscure violations. Compliance burden falls on workers to document and prove abuse.
+
+__Impunity & Unredressed Wrong:__ Most violations go unredressed; companies face minimal penalties relative to profits. The gap between legal rights and lived experience generates cynicism about the rule of law.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Tech workers contribute to China's AI, cloud, and platform research; the sector produces globally significant engineering output. However, individual workers are often interchangeable parts in large codebases, limiting creative satisfaction.
+
+__Applied Knowledge & Technical Method:__ Agile development, continuous integration, and rapid iteration define work practice; the methods maximize throughput but also accelerate burnout by compressing deadlines.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities produce millions of STEM graduates; bootcamps and online courses supplement formal education. Skill distribution is broad at the entry level but narrows for advanced specializations.
+
+__Obsolescence & Knowledge Decay:__ Frameworks and languages shift rapidly; skills acquired in 2015 may be obsolete by 2020. Continuous learning is required, adding to the time burden.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The "Chinese tech miracle" narrative frames the sector as national achievement; workers internalize identity as builders of China's digital future.
+
+__Legitimating Narrative & Ideology:__ "Struggle culture" (fendou) justifies sacrifice; success stories of founders who worked 100-hour weeks legitimate present demands. The "lying flat" counter-narrative directly contests this ideology.
+
+__Artistic Expression & Material Culture:__ Tech-worker aesthetics blend global startup culture (hoodies, sneakers, open-plan offices) with Chinese elements (tea, mahjong breaks). Memes and satire circulate internally, mocking management and venting frustration.
+
+__Form Exhaustion & Meaning Decay:__ The hustle narrative loses purchase as material returns diminish; the symbols of success—stock options, titles, gadgets—feel hollow when health and relationships are sacrificed. Meaning drains from achievement.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Secular materialism dominates; workers pursue wealth as the primary life goal, with family and leisure as secondary. Questions of ultimate purpose are deferred to a retirement that may never come.
+
+__Ritual, Devotion & Sacred Practice:__ Work itself acquires ritual character—the daily standup, the sprint review—but these are instrumental, not sacred. Personal spiritual practice is rare and private.
+
+__Religious Institutions & Doctrinal Authority:__ Formal religion plays little role; Buddhism and folk practice surface around Spring Festival and Qingming but do not structure daily life. Company culture substitutes for religious community.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Western self-help, mindfulness apps, and stoic philosophy circulate as coping mechanisms; these syncretic imports blend with Chinese traditions of endurance and self-cultivation.
+
+__Disenchantment & Sacred Discharge:__ The absence of transcendent meaning beneath the work ethic leaves workers vulnerable to despair when the material payoff fails to arrive. Burnout is not merely physical but existential—a sense that the sacrifice was for nothing—and this disenchantment accumulates without resolution.

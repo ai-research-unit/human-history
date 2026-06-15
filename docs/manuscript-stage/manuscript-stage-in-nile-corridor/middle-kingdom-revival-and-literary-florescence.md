@@ -1,69 +1,139 @@
-# __2055 BCE – 1650 BCE__ — Middle Kingdom Revival and Literary Florescence
-__Summary:__ A long-term trend of political reunification, administrative consolidation, and cultural production spanning approximately 400 years from Mentuhotep II's conquest through the Twelfth Dynasty's peak to the Thirteenth Dynasty's gradual weakening. The binding constraint is the restored central authority's capacity to coordinate taxation, labor, and defense across the Nile corridor while managing succession stability. The system operates with substantial margin in agricultural surplus and administrative sophistication; the direction of change moves from vigorous centralization and expansion toward late-period administrative strain and eventual fragmentation.<br><br>
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Nile corridor from the First Cataract to the Delta functions as a unified political space; new capital at Itjtawy (near the Fayyum) optimizes north-south coordination; Nubian fortresses extend control to the Second Cataract; desert routes to Red Sea and oases maintained.<br><br>
-__Climate Regime & Volatility:__ Nile floods return to more reliable patterns after late Old Kingdom stress; agricultural conditions generally favorable through the Twelfth Dynasty; interannual variability remains but within manageable bounds for the restored granary system.<br><br>
-__Hazard Regime & Exposure:__ Flood failure remains the primary environmental hazard; centralized granary system and Nubian frontier stores provide buffering; Fayyum reclamation projects expand cultivable land and reduce exposure.<br><br>
-__Resource & Energy Endowment:__ Nubian gold mines under direct royal control; Sinai copper and turquoise expeditions resume; timber imported from Lebanon; stone quarries exploited for temple and funerary construction; resource access restored to Old Kingdom levels.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and construction waste negligible relative to landscape absorptive capacity; Fayyum drainage projects manage water rather than concentrate pollutants; no sink saturation evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasitic infections continue as background mortality; no major epidemic attested; baseline mortality stable at typical premodern agrarian levels; military casualties in Nubian campaigns add periodic mortality spikes.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional status generally adequate with restored agricultural coordination; grain redistribution functioning; skeletal evidence suggests stable health indicators; elite consumption patterns documented in tomb provisions.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Egyptian marriage and reproductive norms continue unchanged; royal polygyny for succession security; commoner monogamy typical; no evidence of significant demographic-behavioral shifts.<br><br>
-__Demographic Renewal & Density:__ Population grows from First Intermediate Period levels; agricultural expansion in Fayyum and Nubian frontier supports growth; density remains well below carrying capacity; demographic trajectory positive.<br><br>
-__Attrition & Dependency Overhang:__ Normal dependency ratios prevail; royal and temple institutions absorb some dependent populations; no evidence of exceptional dependency burden; system maintains renewal capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Cereal agriculture fully restored; centralized irrigation coordination resumed; Fayyum reclamation adds productive land; subsistence secure for majority population; household provisioning through redistribution and market exchange.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain sole energy sources; donkey transport, cattle plowing; shaduf irrigation continues; labor mobilization at royal command reaches Old Kingdom scale for construction projects.<br><br>
-__Labor Organization & Coercion:__ Corvée labor system restored under royal control; seasonal agricultural labor drafted for construction; Lahun worker communities document organized provisioning; coercion regularized through administrative apparatus.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus substantial; craft production flourishes — jewelry, furniture, textiles documented; temple and royal workshops active; surplus supports military expeditions, construction, and trade.<br><br>
-__Storage, Reserves & Buffering:__ Centralized granary system re-established; Nubian fortresses serve as forward supply depots; temple stores supplement royal reserves; multi-year buffering capacity restored.<br><br>
-__Exchange, Trade & Logistics:__ Nubian gold and goods flow north; Levantine trade resumes — timber, oils, resins; Punt expeditions for incense; Mediterranean contacts documented; internal Nile commerce functioning efficiently.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Grain and precious metals store value; no coinage; administrative redistribution and reciprocal obligation structure exchange; credit arrangements for craftsmen documented in Lahun papyri.<br><br>
-__Surplus Extraction & Redistribution:__ Royal taxation system fully operational; temple endowments receive allocations; redistribution through wages, rations, and feast provisions; extraction sustainable relative to productive base.<br><br>
-__Wealth Distribution & Asset Defense:__ Land and wealth reconcentrated under royal control; nomarch power reduced; elite wealth through royal favor and office; property documented in administrative papyri; temple holdings expand.<br><br>
-__Byproducts & Waste Routing:__ Construction debris, craft waste disposed locally; mining waste at extraction sites; no systematic routing problems; waste loads negligible relative to landscape capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius expands with reunification; inter-regional cooperation restored under royal coordination; community mutual aid continues at village level; confidence in institutional reliability returns.<br><br>
-__Stratification, Status & Group Identity:__ Traditional Egyptian stratification restored — pharaoh, officials, priests, scribes, craftsmen, peasants; nomarch autonomy curtailed; scribal and official classes expand; ethnic Egyptian identity reinforced against Asiatic and Nubian others.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear household remains basic unit; bilateral inheritance continues; royal succession through designated heir, sometimes co-regency; marriage alliances among elite documented.<br><br>
-__Civic Association & Self-Organization:__ Village communities, craft groups, temple communities function within state framework; worker communities like Lahun show organized collective life; self-organization complements rather than substitutes state.<br><br>
-__Leisure, Play & Sociability:__ Festival calendar restored at national and local levels; board games (senet) popular; music, dance documented; elite leisure includes hunting, feasting; social cohesion reinforced through shared observances.<br><br>
-__Grievance Channels & Social Discharge:__ Royal and temple courts adjudicate disputes; petitioning to officials documented; Instructions literature counsels patience and proper conduct; grievances generally absorbed within institutional channels.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Centralized pharaonic authority restored; Mentuhotep II reunifies Egypt ~2055 BCE; Twelfth Dynasty (Amenemhat, Senusret kings) consolidates; power concentrated in royal court at Itjtawy; provincial administration subordinated.<br><br>
-__Succession & Power Transfer:__ Co-regency system stabilizes succession; Amenemhat I's assassination (~1962 BCE) shows vulnerability; subsequent transfers mostly orderly; late Thirteenth Dynasty sees rapid succession indicating destabilization.<br><br>
-__Legitimacy & Political Narrative:__ Royal ideology emphasizes Maat restoration, shepherd-king protecting Egypt; Instructions of Amenemhat and Prophecy of Neferti frame Twelfth Dynasty as ordained restoration; legitimacy strong through Twelfth Dynasty, weakening thereafter.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Sophisticated bureaucracy with vizier, treasurers, local officials; Lahun papyri document census, taxation, labor records; administrative capacity high; corruption controlled through oversight; records systematic and reliable.<br><br>
-__Political Participation & Mobilization:__ Political participation limited to elite office-holding and petition; no popular assemblies; military service provides avenue for advancement; elite factions compete for royal favor within court politics.<br><br>
-__Geopolitical Position & External Relations:__ Nubian expansion to Second Cataract; fortresses control trade and migration; Levantine influence maintained through trade and occasional campaigns; diplomatic gifts exchanged; Egypt dominant regional power.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing army re-established; Nubian auxiliaries employed; bronze weapons, bows, shields standard; fortress chain secures southern frontier; military expeditions to Nubia, Sinai, and Levant documented; royal monopoly on organized force restored.<br><br>
-__Internal Order & Threat Environment:__ Internal order restored; banditry suppressed; nomarch power broken; Amenemhat I's assassination exceptional; overall internal security high; late Thirteenth Dynasty may see some weakening.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Nile transport primary communication vector; royal messenger system restored; administrative correspondence documented; information flows efficiently within unified state; frontier forts relay intelligence southward.<br><br>
-__Record, Storage & Persistence:__ Hieratic papyrus administration at peak efficiency; Lahun archive documents daily operations; temple records, royal annals maintained; literary texts copied and transmitted; persistence excellent; records survive for modern recovery.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal ideology promoted through Instructions, prophecy, and hymns; discourse controlled but not rigidly censored; approved narratives dominate; literary sophistication allows subtle expression within conventional forms.<br><br>
-__Reception, Attention & Amplification:__ Literate audience remains scribal and official classes; texts copied in schools, amplifying approved literature; oral performance extends reach to illiterate; royal monuments broadcast ideology visually.<br><br>
-__Signal Integrity & Noise Load:__ Administrative records maintain high accuracy; literary transmission introduces some copying variation; overall signal integrity strong; noise load manageable within functioning bureaucratic apparatus.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Maat fully restored as foundational concept; royal duty to uphold justice; moral order felt as operative and enforced; Middle Kingdom literature suffused with ethical reflection.<br><br>
-__Law, Codification & Regulatory Evolution:__ Royal decrees regulate specific matters; no comprehensive law code attested; customary law and precedent guide adjudication; administrative regulations documented in papyri.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal and local courts function; vizier as supreme judge; temple courts adjudicate some matters; enforcement through administrative apparatus; liability determined by official adjudication; system generally effective.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights protected through documentation; personal status secured by registration; compliance burden regularized through predictable taxation; rights contingent on royal order but reliably maintained.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity reduced relative to First Intermediate Period; royal justice nominally accessible; some wrongs doubtless unredressed but institutional channels generally clear backlog; overall justice delivery functional.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Mathematical and medical knowledge documented (Lahun mathematical papyrus, Edwin Smith and Ebers medical papyri date to copies of Middle Kingdom originals); astronomical observation continues; empirical inquiry within traditional paradigms; no revolutionary shift.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural, architectural, and metallurgical techniques refined; fortification engineering advanced at Nubian frontier; hydraulic engineering in Fayyum; craft techniques sophisticated and specialized.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools flourish; literacy remains elite but scribal class expands; knowledge stock actively transmitted through copying and instruction; skill distribution adequate for administrative and technical demands.<br><br>
-__Obsolescence & Knowledge Decay:__ Old Kingdom monumental architecture techniques largely maintained; some knowledge loss reversed through archival recovery and practice; decay rate low; active copying preserves and transmits accumulated knowledge.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Egyptian identity consolidated; Old Kingdom remembered as precedent and model; mythological framework (Osiris, Re, Maat) fully operative; founding narratives emphasize continuity and restoration; Theban origin of reunification celebrated.<br><br>
-__Artistic Expression & Material Culture:__ Classical Egyptian style reaches maturity; portrait sculpture of Senusret III shows psychological depth; jewelry (Lahun treasure) at technical peak; temple architecture standardized; material culture expresses confidence and refinement.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence restored; anxiety of First Intermediate Period replaced by sense of order and stability; literature combines didactic confidence with awareness of mortality and contingency; mood generally positive, darkening slightly in late period.<br><br>
-__Form Exhaustion & Meaning Decay:__ Forms renewed and vitalized; classical literature (Sinuhe, Instructions, Tales) establishes canonical standards; no significant form exhaustion; cultural production at creative peak; meanings potent and actively elaborated.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Traditional Egyptian cosmology fully operative; cyclical renewal, divine kingship, judgment, and afterlife confidently affirmed; existential outlook balanced between piety and practical wisdom; fatalism moderate, agency recognized within divine order.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Temple rituals restored and elaborated; funerary practices continue with Coffin Texts expanding access to afterlife; daily devotion documented; pilgrimage to Abydos for Osiris connection; sacred practice deeply embedded in social life.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple establishments under royal patronage; priesthoods serve state as well as gods; doctrinal authority centered on traditional mythological framework; Osirian theology dominant for afterlife; orthodoxy stable without major contestation.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Osirian afterlife beliefs fully democratized through Coffin Texts; funerary access extends beyond royalty; Amun of Thebes rises in prominence alongside Re of Heliopolis; syncretism within Egyptian framework (Amun-Re); no foreign displacement.<br><br>
-__Disenchantment & Sacred Discharge:__ Minimal disenchantment; sacred framework provides satisfying existential answers; literature expresses both piety and ethical reflection without fundamental doubt; spiritual needs anchored; no significant residue of unmet transcendence.
+# __2055 BCE – 1650 BCE — Middle Kingdom Revival and Literary Florescence__
+
+__Summary:__ Theban reunification restores centralized administration while generating a literary tradition that elevates Middle Egyptian to classical status; the binding constraint is the reconstruction of bureaucratic capacity from provincial fragments, achieved through scribal professionalization and documentary systematization that produces the most celebrated texts of the Egyptian manuscript tradition.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Nile corridor is reunified under Theban rule; Mentuhotep II's consolidation restores the single-corridor polity from the Delta to the First Cataract; the capital shifts from Thebes to Itj-tawy (near the Fayyum) under Dynasty 12, optimizing administrative access to both Upper and Lower Egypt.
+
+__Climate Regime & Volatility:__ Nile flood patterns return to regularity after the low-flood crisis of the First Intermediate Period; Middle Kingdom texts do not emphasize flood failure; the climate regime supports agricultural recovery and surplus accumulation.
+
+__Hazard Regime & Exposure:__ The primary hazard shifts from flood failure to frontier security; Nubian expansion and Delta defense against Asiatic incursion become the dominant concerns; internal natural hazards recede from documentary prominence.
+
+__Resource & Energy Endowment:__ Nubian gold mines come under direct Egyptian control through fortress construction at the Second Cataract; quarrying resumes for monumental construction; Sinai turquoise and copper mines are actively exploited; the resource base expands through territorial extension.
+
+__Waste Absorption & Sink Capacity:__ Renewed agricultural intensity and modest urban growth at Itj-tawy and Thebes generate increased organic waste, but the corridor's absorptive capacity remains ample; no sink saturation evident; quarry detritus accumulates at extraction sites without systemic impact.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ No epidemic documentation survives from this period; baseline mortality stabilizes after First Intermediate Period famine; medical papyri (Kahun, Edwin Smith, Ebers—some copied from Middle Kingdom originals) document a functioning healing tradition.
+
+__Nutrition & Physiological Vitality:__ Agricultural recovery restores nutritional adequacy for the bulk of the population; tomb provisions and offering lists suggest abundant grain, beer, and meat for elites; no textual evidence of widespread hunger during the period's central phase.
+
+__Care, Healing & Recovery Capacity:__ Medical knowledge is codified in papyrus texts; professional healers (swnw) serve temple and court; midwifery and wound treatment documented; institutional care remains concentrated among elites but knowledge circulates through scribal training.
+
+__Reproductive Biology & Pairing Dynamics:__ Monogamous marriage predominates with concubinage for elites; family structure documented in Lahun papyri; the Story of Sinuhe reflects patrilocal household norms; reproductive biology operates within stable social frameworks.
+
+__Demographic Renewal & Density:__ Population grows from First Intermediate Period contraction; estimates suggest 1.5–2 million inhabitants; density concentrates in the Delta and along the narrow Upper Egyptian floodplain; the Fayyum receives agricultural development under Amenemhat III.
+
+__Attrition & Dependency Overhang:__ Funerary provision extends to broader social strata; the dependent load (widows, orphans, aged) is absorbed through household and temple structures; no evidence of demographic crisis from dependency burden.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Basin irrigation supports reliable grain production; the provisioning floor rises above First Intermediate Period nadirs; state granaries reconstitute; household gardens supplement field agriculture.
+
+__Energy Capture & Conversion:__ Human and animal labor remain primary; no technological revolution in power capture; the energy ceiling permits monumental construction (Hawara labyrinth, Nubian fortresses) but at reduced scale compared to Old Kingdom pyramids.
+
+__Labor Organization & Coercion:__ Corvée labor resumes for state projects but with more systematic administration; Lahun papyri document worker rations and task assignments; the labor system balances coercion with regularized provision.
+
+__Production & Surplus Capacity:__ Agricultural surplus funds military expansion into Nubia and monumental construction; craft production (faience, jewelry, textiles) reaches high sophistication; surplus flows to state and temple rather than provincial nomarchs.
+
+__Storage, Reserves & Buffering:__ State granaries reconstitute at Itj-tawy and provincial centers; reserve management documented in administrative papyri; the buffering capacity recovers to support multi-year projects and military campaigns.
+
+__Exchange, Trade & Logistics:__ Nubian trade (gold, ebony, ivory, incense) flourishes through controlled fortress network; Levantine trade (cedar, oil, wine) documented in texts and Byblos connections; internal distribution follows the Nile with donkey caravans supplementing.
+
+__Value Storage, Credit & Deferred Exchange:__ Grain-based accounting continues; copper deben provides supplementary unit of account; credit relationships documented in Lahun legal papyri; temple economies accumulate stored value in livestock and grain.
+
+__Surplus Extraction & Redistribution:__ Taxation reconstitutes under central control; vizier coordinates collection; redistribution flows through temples, military, and royal construction; the extraction system achieves balance sufficient for territorial expansion.
+
+__Wealth Distribution & Asset Defense:__ Elite concentration persists but royal ideology emphasizes just kingship; tomb construction extends to middle scribal and artisan strata; land tenure documented in legal papyri shows diverse holding patterns.
+
+__Byproducts & Waste Routing:__ Production byproducts handled through established patterns; no evidence of waste accumulation crisis; the economic system clears its material discharge within existing capacity.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Bilateral inheritance documented; women hold property rights; marriage contracts in Lahun papyri specify provisions; the family remains the basic unit of social organization below the nome.
+
+__Association & Mutual Aid:__ Craft guilds, temple personnel, and local village structures provide mutual support; the Story of the Eloquent Peasant depicts expectations of official justice for commoners; associational life thickens below the elite level.
+
+__Leisure, Play & Sociability:__ Festival calendars structure communal celebration; board games (senet) documented; banquet scenes in tombs; the Instructions of Kheti II satirizes various occupations, suggesting articulated occupational identities and associated social spaces.
+
+__Stratification, Status & Group Structure:__ The bureaucratic hierarchy reconstitutes with vizier at apex below king; scribal training becomes the primary avenue of advancement; status markers (tomb size, titulature) reflect administrative rank; the system is stratified but permeable through scribal achievement.
+
+__Administrative Capacity & Institutional Integrity:__ Vizier-led bureaucracy achieves high documentary systematization; census records, land registers, and labor assignments demonstrate administrative reach; the Lahun archive reveals institutional competence; corruption exists but systematic oversight functions.
+
+__Coercive Apparatus & Means of Force:__ Professional military emerges; Nubian fortresses (Buhen, Semna, Uronarti) demonstrate engineering and garrison capacity; police functions documented; the coercive apparatus expands to match territorial ambitions.
+
+__Discharge, Disorder & Decay:__ Dynasty 13 fragmentation after 1750 BCE reintroduces disorder; the period's end sees administrative decay, succession instability, and loss of Delta control to Hyksos infiltration; the discharge accumulates in the final phase.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Middle Kingdom literature reflects a chastened confidence—awareness of prior collapse alongside pride in restoration; the Instructions literature emphasizes caution, moderation, and loyalty; trust extends through bureaucratic channels.
+
+__Leadership & Personal Authority:__ Dynasty 12 pharaohs (Senusret I, III; Amenemhat I, III) achieve durable legitimacy; Senusret III's military campaigns and administrative reforms generate lasting prestige; personal authority stabilizes after Amenemhat I's assassination.
+
+__Legitimacy as Lived Allegiance:__ Royal ideology emphasizes shepherd-king protecting the people; the Prophecy of Neferti and Instructions of Amenemhat articulate the burdens of kingship; allegiance reconstitutes around Theban-descended dynasty.
+
+__Political Will & Collective Resolve:__ Nubian campaigns and fortress construction demonstrate sustained collective will; the state mobilizes resources across generations for strategic objectives; resolve endures through Dynasty 12 but weakens under Dynasty 13.
+
+__External Relations & Posture:__ Expansionist posture toward Nubia; defensive-commercial posture toward the Levant; Egyptian influence extends to Byblos and Kerma; the Execration Texts document ritual hostility toward potential enemies; Egypt projects power but does not seek universal empire.
+
+__Disaffection, Apathy & Spent Will:__ Dynasty 13 succession instability (numerous short reigns) suggests elite disaffection and spent will; the period ends with ruling-class fragmentation that enables Hyksos infiltration; disaffection accumulates unrequited.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hieroglyphic remains monumental; hieratic becomes the standard administrative and literary script; literacy confined to scribal class (perhaps 1% of population) but that class expands and professionalizes; Middle Egyptian achieves classical status as the prestige dialect.
+
+__Channels & Transmission Velocity:__ The fortress network demonstrates long-distance communication capacity; dispatch systems link Nubian garrisons to the capital; internal administration relies on messenger and papyrus; velocity adequate for centralized control.
+
+__Record, Storage & Persistence:__ Archives at Lahun, Thebes, and administrative centers preserve administrative, legal, literary, and medical texts; papyrus production flourishes; the manuscript tradition achieves systematic persistence; the period generates the core classical corpus.
+
+__Framing, Censorship & Discourse Norms:__ Royal ideology frames discourse; the Instructions literature transmits approved values through scribal training; pessimistic literature (Dispute of a Man with His Ba) exists alongside loyalist texts, suggesting discourse permits philosophical questioning within limits.
+
+__Reception, Attention & Amplification:__ Scribal schools copy and recopy classic texts, amplifying their reach across generations; the Story of Sinuhe achieves canonical status; reception concentrates in literate elite but shapes broader oral culture through recitation.
+
+__Signal Integrity & Noise Load:__ Standardized Middle Egyptian script and orthography reduce noise; copying traditions maintain textual integrity; archival practice distinguishes authoritative from provisional documents; the information system achieves high signal integrity for its scale.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Ma'at (truth, justice, cosmic order) achieves full articulation as governing moral concept; the king is ma'at's guarantor; the Story of the Eloquent Peasant dramatizes justice claims by commoners against officials.
+
+__Law, Codification & Regulatory Evolution:__ Law operates through royal decree and vizierial adjudication; no surviving comprehensive code, but legal papyri document contract, inheritance, and dispute procedures; customary law receives documentary formalization.
+
+__Adjudication, Liability & Sanction:__ The vizier sits as supreme judge; local officials adjudicate lesser matters; the kenbet (council) provides collective judgment; sanction ranges from corporal punishment to property seizure; documentation suggests functioning adjudication.
+
+__Rights, Protections & Compliance Burden:__ Property rights documented in legal papyri; women hold and transfer property; the compliance burden (taxation, corvée) is regularized and thus predictable; protection depends on access to documentation and official channels.
+
+__Impunity & Unredressed Wrong:__ The Eloquent Peasant eventually receives justice, but only after prolonged suffering—the text acknowledges impunity as a problem to be overcome; the gap between justice owed and delivered persists but is ideologically condemned.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Mathematical papyri (Moscow, Rhind—copied later but containing Middle Kingdom material) document practical geometry and arithmetic; astronomical observation supports calendar; medical papyri systematize diagnostic and therapeutic knowledge; inquiry serves practical application within theological cosmology.
+
+__Applied Knowledge & Technical Method:__ Engineering achieves sophistication in fortress construction, irrigation works (Fayyum), and mining; craft technique in jewelry, faience, and textile documented; the applied knowledge stock supports state ambitions.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal schools (Houses of Life) transmit the literary and technical corpus; the Instructions of Kheti II depicts scribal training as the superior path; knowledge concentrates in scribal class but that class staffs the entire administrative apparatus.
+
+__Obsolescence & Knowledge Decay:__ Old Kingdom monuments are reused and adapted; earlier texts are copied, preserving knowledge stock; decay is modest—the period transmits more than it loses; the classical corpus it generates becomes the standard for later centuries.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The reunification under Mentuhotep II becomes foundational; Dynasty 12 constructs identity around restored order after chaos; the trauma of the First Intermediate Period shapes self-understanding as a people capable of both collapse and renewal.
+
+__Legitimating Narrative & Ideology:__ Royal ideology emphasizes the king as shepherd and guarantor of ma'at; the Prophecy of Neferti and Instructions of Amenemhat articulate the burden and necessity of kingship; legitimation operates through performed justice and military success.
+
+__Artistic Expression & Material Culture:__ Middle Kingdom sculpture achieves distinctive style—royal portraiture shows aging, care-worn faces (Senusret III); jewelry (Lahun treasure) demonstrates technical mastery; tomb painting develops narrative complexity; the material culture projects confident authority tempered by awareness of mortality.
+
+__Form Exhaustion & Meaning Decay:__ The pyramid form persists (Lisht, Dahshur, Hawara) but at reduced scale and with brick cores—the form continues but loses the absolute centrality of Old Kingdom expression; new forms (rock-cut tombs at Beni Hasan) supplement without fully replacing; exhaustion is partial, managed through adaptation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Osirian afterlife belief consolidates as normative; the democratization begun in Coffin Texts continues; the dead become Osiris regardless of rank; the existential outlook combines hope for eternal life with awareness of judgment.
+
+__Ritual, Devotion & Sacred Practice:__ Temple ritual elaborates at Karnak (Amun) and Abydos (Osiris); the Osiris festival at Abydos becomes pilgrimage destination; funerary ritual extends to broader population through Coffin Text deployment.
+
+__Religious Institutions & Doctrinal Authority:__ Temple priesthoods consolidate; Amun at Thebes rises but does not yet dominate; royal cult integrates with Osirian theology; doctrinal authority remains decentralized among major cult centers.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Osirian belief diffuses throughout the population; local gods syncretize with major deities; no external spiritual influence penetrates; the religious landscape consolidates around established Egyptian forms.
+
+__Disenchantment & Sacred Discharge:__ The Dispute of a Man with His Ba and other wisdom literature suggest elite questioning of afterlife certainties—doubt coexists with belief; disenchantment is contained within a framework that still provides answers; the sacred holds but admits philosophical interrogation.

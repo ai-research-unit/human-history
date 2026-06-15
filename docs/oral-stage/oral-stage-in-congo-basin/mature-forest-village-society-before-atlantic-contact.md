@@ -1,69 +1,139 @@
-# __500 – 1500__ — Mature Forest Village Society Before Atlantic Contact
-__Summary:__ A static snapshot of Congo Basin society at full pre-contact maturity: acephalous village-based polities of 50–500 persons occupy forest margins and river corridors, practicing slash-and-burn agriculture centered on bananas, plantains, and yams, supplemented by hunting, fishing, and trade; no state formation occurs in the core forest, though proto-states emerge at distant margins (Kongo, Luba, Lunda); the binding constraint remains tropical pathogen load and the labor ceiling it imposes; the system holds moderate reserves against seasonal shortage and operates in structural equilibrium, with oral tradition as the sole medium of record, coordination, and memory.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Congo River system provides the primary transport arteries; equatorial rainforest imposes high friction on overland movement; settlement clusters at forest-savanna margins, river confluences, and elevated ground above flood zones; interior forest remains thinly occupied and difficult to traverse.<br><br>
-__Climate Regime & Volatility:__ Stable wet equatorial climate with bimodal rainfall; temperatures constant year-round; interannual variability low; no secular drift within the window; seasonal flooding predictable and integrated into subsistence calendars.<br><br>
-__Hazard Regime & Exposure:__ Acute hazards minimal — no seismic, volcanic, or severe storm exposure in basin core; localized flooding absorbed by settlement-siting; primary environmental risk is crop pest or blight, against which margin is narrow; system provisioned adequately for normal variation.<br><br>
-__Resource & Energy Endowment:__ Iron ore abundant in laterite soils; copper concentrated in Katanga and traded throughout the region; timber and fuel effectively unlimited at prevailing draw; salt scarce in forest interior and commanding high exchange value; no drawdown pressure on standing stocks.<br><br>
-__Waste Absorption & Sink Capacity:__ Slash-and-burn clearings cycle through forest regrowth; organic waste rapidly decomposed in tropical conditions; slag from iron smelting accumulates locally; absorptive capacity far exceeds loads; no degradation beyond immediate clearing zones.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria (primarily Plasmodium falciparum), trypanosomiasis in tsetse zones, intestinal parasites, and periodic epidemic disease impose high background mortality, particularly among children under five; survivors carry substantial acquired immunity; mortality baseline stable and high.<br><br>
-__Nutrition & Physiological Vitality:__ Diet of starchy staples (bananas, plantains, yams), palm oil, bushmeat, fish, and forest products provides adequate nutrition in normal years; seasonal lean periods before harvest common but rarely result in famine; physiological vitality adequate where disease does not intervene.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygynous marriage normative; reproductive span high for women surviving childhood diseases; extended breastfeeding and postpartum sexual taboos space births; selective pressure toward malaria resistance continuing; pairing dynamics stable.<br><br>
-__Demographic Renewal & Density:__ Population at rough equilibrium with carrying capacity; density low (2–10 persons per km2 depending on locale); high fertility balanced by high childhood mortality; age structure young; net migration negligible within the window.<br><br>
-__Attrition & Dependency Overhang:__ Few survive to advanced age; orphans and widows absorbed into extended kin networks; chronic infirmity rare due to early mortality; dependency load within system capacity; no accumulating overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Slash-and-burn agriculture (bananas, plantains, yams, oil palm) supplemented by hunting, fishing, and gathering; household labor pooling ensures basic provisioning; floor stable in normal years; vulnerability to consecutive poor harvests remains.<br><br>
-__Energy Capture & Conversion:__ Human muscle provides virtually all motive power; fire used for cooking, land clearance, and metallurgy; charcoal production for iron smelting represents highest energy conversion; no animal traction (tsetse fly excludes livestock); per-capita work ceiling stable and adequate for village-scale production.<br><br>
-__Labor Organization & Coercion:__ Labor organized through kinship and communal work parties; age and gender divisions structure tasks; domestic slavery present on small scale (war captives, debtors) but not dominant; coercion low; reciprocal compensation normative.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus supports specialist smiths, ritual leaders, and modest trade; iron tools, raffia cloth, and pottery represent primary manufactured goods; surplus generated seasonally; capacity stable at village scale.<br><br>
-__Storage, Reserves & Buffering:__ Grain and dried fish stored in raised granaries; palm oil and palm wine provide supplementary reserves; typical reserves cover one poor season; multi-year failure would exhaust buffers; risk pooling through kin networks provides secondary insurance.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade moves copper (from Katanga), salt, dried fish, iron goods, and raffia cloth along river corridors by canoe; overland porterage supplements water transport; local markets at village crossroads; trade networks stable and expanding slowly.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Raffia cloth squares, copper crosses, and iron implements serve as stores of value and media of exchange; bridewealth and debt obligations enable deferred reciprocity across kin networks; no standardized currency; credit embedded in social relations.<br><br>
-__Surplus Extraction & Redistribution:__ Village headmen and lineage elders extract modest tribute in labor and goods; redistribution through feasting, bridewealth, and emergency support; no centralized taxation; extraction load light and embedded in reciprocal obligation.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth measured in people (wives, dependents, clients), prestige goods, and ritual knowledge; inequality present but not extreme; concentration limited by redistribution norms and inheritance division; asset defense through kin solidarity; no fortification.<br><br>
-__Byproducts & Waste Routing:__ Slag from iron smelting accumulates at forge sites; organic waste composted or dispersed; charcoal debris absorbed by forest soils; waste load trivial relative to absorptive capacity; no accumulation pressures.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius encompasses lineage and village; mutual aid through food sharing, labor exchange, and crisis support normative; inter-village trust mediated by marriage alliance and trade partnership; radius stable.<br><br>
-__Stratification, Status & Group Identity:__ Elders, smiths, and ritual specialists hold higher status; distinction between Bantu farmers and Pygmy forager-clients structural and stable; no rigid caste; ethnic identity defined by language and lineage; boundaries permeable through marriage and clientage.<br><br>
-__Kinship, Family & Inheritance:__ Matrilineal descent dominant in western regions, patrilineal in east; bridewealth (in iron, cloth, or currency items) validates marriage; inheritance of office and goods follows lineage rules; extended household the basic social and economic unit.<br><br>
-__Civic Association & Self-Organization:__ Age-grade associations, initiation societies, and craft groups organize collective action below the headman; no formal guilds; associational fabric stable and adequate to village-scale coordination.<br><br>
-__Leisure, Play & Sociability:__ Palm-wine drinking, communal dance, drumming, and oral performance mark festivals, funerals, and seasonal transitions; sociability centered on village clearings, river landings, and market gatherings; leisure patterns stable.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes mediated by elders and lineage councils; witchcraft accusations channel diffuse tension; mobility to new settlements provides exit; most friction metabolized through mediation; residual grievance minimal.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority decentralized and gerontocratic; village headmen hold ritual and judicial functions with limited coercive power; no state formation in core forest; big-man systems present where trade wealth concentrates; proto-states (Kongo, Luba, Lunda) emerging only at distant forest margins outside this snapshot's focus.<br><br>
-__Succession & Power Transfer:__ Leadership passes by lineage seniority or council selection among eligible kin; transfer generally peaceful; succession disputes resolved by segmentation (losers found new villages); flashpoint risk low.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy grounded in genealogical seniority, ritual competence, and reputation for generosity; foundation narratives link lineages to first-clearing ancestors; narrative stable and uncontested.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity minimal — oral memory substitutes for written records; no bureaucracy; headmen rely on personal recall and kin network enforcement; capacity adequate for village scale.<br><br>
-__Political Participation & Mobilization:__ Adult men participate in village assemblies; women exercise influence through kin networks; collective mobilization for defense or labor organized ad hoc; dissent expressed through exit or witchcraft discourse.<br><br>
-__Geopolitical Position & External Relations:__ No external states in contact with core forest zone; inter-village relations managed through alliance, trade, and occasional raiding; territorial boundaries fluid; external pressure negligible.<br><br>
-__Coercive Apparatus & Means of Force:__ Iron spears, knives, and bows constitute premier weaponry; no standing military; war parties assembled ad hoc for raids or defense; command diffuse; force capacity limited by mobilization ceiling.<br><br>
-__Internal Order & Threat Environment:__ Inter-village raiding periodic but contained; internal crime (theft, assault) handled through kin retaliation and elder mediation; banditry minimal; disorder within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels by voice and messenger; canoe networks accelerate transmission along rivers; news reaches neighboring villages within days; reach limited by language barriers at ethnic interfaces.<br><br>
-__Record, Storage & Persistence:__ Oral memory is the sole medium of record; genealogies, migration narratives, and ritual knowledge preserved by specialists (elders, griots, initiates); no writing system; record vulnerable to specialist death; persistence depends entirely on living memory and unbroken transmission.<br><br>
-__Framing, Censorship & Discourse Norms:__ Speech governed by respect codes (age, gender, status); ritual knowledge restricted to initiates; taboo topics circumscribed; discourse norms stable and internalized.<br><br>
-__Reception, Attention & Amplification:__ Audiences gather at assemblies, markets, and rituals; skilled orators and drummers amplify messages; attention focused by performance; virality limited to repeated oral transmission.<br><br>
-__Signal Integrity & Noise Load:__ Oral cross-checking through multiple witnesses maintains integrity; generational drift in transmitted content inevitable; no mechanism for clearing obsolete information; noise load manageable at community scale.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice conceived as restoration of reciprocal balance; offenses require compensation to victims and purification for community; proportionality and restitution foundational; consensus stable.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary law transmitted orally; no written code; taboos and precedents accumulate through elder memory; evolution slow and conservative; stability prevails.<br><br>
-__Adjudication, Enforcement & Liability:__ Elders adjudicate in council; oracles and ordeals invoked in difficult cases; liability collective (lineage responsible for members); enforcement through community sanction; throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights embedded in lineage membership; strangers and forager-clients hold lesser protections; compliance burden light for insiders; rules predictable within local knowledge.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lineages may escape sanction; witchcraft accusations sometimes misdirected; some wrongs unredressed; impunity present but contained; backlog minimal.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Explanatory paradigm animist — events attributed to spirits, ancestors, and witchcraft; causal inquiry oriented to "who caused this" rather than mechanistic "how"; empirical observation embedded in practice but not systematized as abstract theory.<br><br>
-__Applied Knowledge & Technical Method:__ Iron smelting, smithing, agricultural calendars, poison preparation, and herbal medicine constitute sophisticated practical method; knowledge transmitted through apprenticeship; reproducibility high within oral tradition.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Knowledge transmitted through observation, apprenticeship, and initiation; no formal schooling; literacy absent; specialist knowledge concentrated in lineages; general skills widely distributed.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier stone-tool techniques lost; knowledge erosion occurs when specialist lineages die out; no systematic error-clearing; accumulated stock stable but vulnerable to broken transmission.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin narratives trace lineages to founding ancestors who first cleared the forest; migration memories preserved in oral genealogy; identity anchored in language, territory, and ancestral connection; Bantu-forager distinction a stable structural marker.<br><br>
-__Artistic Expression & Material Culture:__ Carved wooden objects (masks, figures, stools), woven raffia textiles, decorated pottery, and musical instruments (drums, lamellophones) constitute material culture; aesthetic conventions transmitted through practice; styles stable with gradual local variation.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood cautiously stable where harvests succeed and disease quiescent; fatalism regarding mortality; risk perception high for forest dangers and spiritual threats; behavioral temper conservative and tradition-oriented.<br><br>
-__Form Exhaustion & Meaning Decay:__ Cultural forms remain vital — narratives actively told, rituals performed with engagement; no significant hollowing; renewal through gradual adaptation rather than crisis-driven innovation.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmology populated by ancestor spirits, nature spirits, and a distant high god; human existence embedded in reciprocal obligation to spiritual powers; afterlife conceived as continued existence among ancestors; outlook transactional rather than fatalist or optimistic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Offerings and sacrifices to ancestors and spirits mark agricultural cycles, life transitions, and crises; divination guides decisions; daily devotion woven into routine; ritual calendar stable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No centralized religious hierarchy; ritual authority distributed among lineage elders, diviners, and initiation-society leaders; doctrine transmitted orally and varies locally; orthodoxy enforced through initiation secrets.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Bantu spiritual frameworks dominant; forager cosmologies persist in forest refuges but overlaid by Bantu concepts at interfaces; syncretism at farmer-forager boundary; no external religious tradition penetrating the region in this window.<br><br>
-__Disenchantment & Sacred Discharge:__ Cosmology fully operative; no secularizing drift; sacred explanations adequate to lived experience; disenchantment absent; spiritual need fully anchored in ancestral practice.<br><br>
+# __500 CE – 1,500 CE__ — Mature Forest Village Society Before Atlantic Contact
+
+__Summary:__ The Congo Basin's village-based agricultural society at its pre-Atlantic equilibrium—a millennium of relative stability in which iron-using, Bantu-speaking communities occupy the forest through networks of autonomous villages linked by kinship, trade, and shared ritual, while forest-forager populations persist in the deep interior and at the margins of cultivator settlement. The binding constraint remains oral: without script, all coordination—land tenure, genealogy, alliance, technical knowledge, sacred tradition—passes through speech and living memory, giving the social order its intimacy, flexibility, and fragility.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Congo Basin's equatorial forest blankets some two million square kilometers, penetrated by the Congo River and its vast tributary network; rivers are the highways, enabling canoe travel at speeds far exceeding forest porterage; the forest interior remains friction-heavy, with movement constrained to cleared paths and stream courses.
+
+__Climate Regime & Volatility:__ The equatorial climate delivers 1,500–2,200 mm of annual rainfall in two wet seasons; temperatures are warm and stable year-round; interannual variability is low, providing a predictable agricultural calendar; multi-decadal droughts affect forest margins but rarely penetrate the humid core.
+
+__Hazard Regime & Exposure:__ Acute hazards remain limited; seasonal floods along major rivers are predictable and settlements adapt through siting and construction; lightning fires during dry spells affect forest edges; no significant seismic or volcanic threat exists in the basin proper.
+
+__Resource & Energy Endowment:__ Iron ore remains available in lateritic soils and alluvial deposits; forest biomass provides inexhaustible charcoal fuel; soils are poor but adequate for shifting cultivation; copper, salt, and certain clays require trade from peripheral zones.
+
+__Waste Absorption & Sink Capacity:__ Population densities remain low enough that forest regeneration absorbs agricultural fallows within decades; smelting slag and domestic ash disperse without accumulation; the system operates well within its absorptive limits.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The disease environment is stable and severe: endemic malaria, sleeping sickness in river valleys, yaws, and intestinal parasites impose high infant and child mortality; adult survivors carry acquired immunity to many endemic pathogens; epidemic outbreaks occasionally spike mortality but populations recover.
+
+__Nutrition & Physiological Vitality:__ The dietary base of plantains, yams, cassava (arriving late in the period), palm oil, fish, and forest game provides adequate calories and reasonable protein; seasonal variation affects nutritional status; stature is moderate, reflecting chronic disease burden.
+
+__Care, Healing & Recovery Capacity:__ Herbalists and ritual healers maintain extensive pharmacopoeia—bark, leaves, roots—transmitted orally; wound care, childbirth assistance, and fever treatment are competent within endemic disease loads; epidemic crises exceed capacity.
+
+__Reproductive Biology & Pairing Dynamics:__ Polygyny concentrates reproductive success among senior men and lineage heads; fertility is high; bridewealth payments (in iron, copper, or labor) structure marriage alliances between lineages and villages; marriage is a political as much as reproductive institution.
+
+__Demographic Renewal & Density:__ Population grows slowly, filling favorable riverine and ecotone zones while the deep forest interior remains sparsely occupied; densities range from under 1 per km2 in dense forest to 5–10 per km2 in favorable areas; the demographic regime is stable, neither expanding nor contracting sharply.
+
+__Attrition & Dependency Overhang:__ High child mortality means many births do not reach adulthood; few survive to extreme old age; the dependency load is modest and absorbed within household and lineage structures without strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Shifting cultivation of plantains, yams, and oil palm, supplemented by hunting, fishing, and gathering, provides a reliable subsistence floor; the forest offers fallback foods during crop shortfalls; outright famine is rare and localized.
+
+__Energy Capture & Conversion:__ Human muscle remains the primary energy source; fire serves cooking, land clearance, and smelting; no animal traction is available; per-capita energy throughput is low but sufficient for the village-scale economy.
+
+__Labor Organization & Coercion:__ Labor is organized through kinship: household members cultivate under lineage-head direction; communal labor parties clear land, build structures, and smelt iron; specialized smiths command elevated status; slavery exists—captives and debt-pawns integrated into households—but is not the dominant labor form.
+
+__Production & Surplus Capacity:__ Surplus above subsistence is modest: iron tools, palm oil, dried and smoked fish, forest products (ivory, skins, resins) are traded; the production ceiling is constrained by labor, soil exhaustion cycles, and transport friction; no large-scale accumulation occurs.
+
+__Storage, Reserves & Buffering:__ Plantains and yams store poorly; palm oil keeps longer; smoked fish and game provide limited reserves; forest fallback foods and inter-village reciprocity buffer against crop failure; no granary system exists comparable to savanna societies.
+
+__Exchange, Trade & Logistics:__ Long-distance trade networks relay forest products toward the savanna periphery and coast: ivory, skins, palm oil, and slaves move outward; salt, copper (from Katanga and the Niari), iron (where local ores are poor), and prestige goods move inward; river canoes enable efficient bulk transport; porterage handles overland segments; oral agreements and memory govern credit.
+
+__Value Storage, Credit & Deferred Exchange:__ Value is stored in durable goods—copper crosses, iron bars, prestige textiles (raffia)—and in social claims: bridewealth debts, meat-sharing obligations, deferred reciprocity tracked orally within kinship networks; no monetary system exists but copper and iron serve quasi-currency functions in some areas.
+
+__Surplus Extraction & Redistribution:__ Village headmen collect tribute in labor and kind for communal projects, ritual feasts, and redistribution; extraction is light and embedded in reciprocity norms; no state-level taxation; chiefly wealth is redistributed to maintain legitimacy.
+
+__Wealth Distribution & Asset Defense:__ Wealth differences exist between lineage heads and dependents, successful traders and subsistence cultivators, but accumulation is limited by perishability, redistribution pressure, and the absence of defensible stores; stratification is real but not rigid.
+
+__Byproducts & Waste Routing:__ Slag accumulates at smelting sites; organic waste returns to forest soils; no toxic accumulation; the material cycle remains largely closed.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Descent is reckoned matrilineally in western regions (among Kongo-related peoples) and patrilineally in eastern areas; the lineage organizes inheritance, land access, and political succession; cross-cousin marriage and bridewealth cement alliances; the household nests within the lineage within the village.
+
+__Association & Mutual Aid:__ Age-grades, initiation societies, and craft associations (smiths, hunters) provide cross-cutting ties; mutual aid for clearing, building, and crisis response operates through these structures and through kinship; the village functions as a cooperative unit.
+
+__Leisure, Play & Sociability:__ Communal gatherings at evening fires, seasonal festivals, initiation ceremonies, funerals, and market days structure sociability; storytelling, music (drums, xylophones, thumb pianos), and dance transmit culture and reinforce bonds.
+
+__Stratification, Status & Group Structure:__ Status distinctions separate lineage heads from dependents, elders from youth, free from slave, initiated from uninitiated; smiths occupy an ambiguous position—powerful but often ritually set apart; forest-forager ("Pygmy") populations occupy a subordinate but interdependent position, exchanging forest products and ritual services for agricultural goods.
+
+__Administrative Capacity & Institutional Integrity:__ Political scale remains village-level in most of the forest; headmen mediate disputes, allocate land, and lead ritual; authority is personal, not bureaucratic; inter-village councils meet for trade, alliance, and defense but lack permanent structure; the Kongo Kingdom on the Atlantic margin represents the largest polity, but its reach does not penetrate the forest interior.
+
+__Coercive Apparatus & Means of Force:__ No standing armies; adult men bear iron-tipped spears, bows, and knives for hunting and defense; village defense is collective; raiding for slaves and plunder occurs but is limited by terrain and the costs of forest warfare.
+
+__Discharge, Disorder & Decay:__ Disputes over land, inheritance, and marriage are mediated by elders and settled through compensation or ritual; unresolved grievances may lead to fission, with disaffected lineages founding new settlements; violence is contained at low levels; sorcery accusations provide an outlet for tensions but also generate new conflicts.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The prevailing mood within villages is cautious cooperation; trust extends reliably to kin and village-mates, less so to outsiders; anxiety about sorcery and spiritual displeasure colors daily life; confidence rises with successful harvests and hunts, falls with misfortune.
+
+__Leadership & Personal Authority:__ Headmen and lineage elders lead through persuasion, generosity, ritual competence, and demonstrated success; charismatic figures—great hunters, renowned smiths, effective healers—command personal followings; authority is earned and can be lost.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to leaders who deliver: successful harvests, protection from enemies, effective mediation, proper ritual; legitimacy is performative and contingent; failure invites defection or replacement.
+
+__Political Will & Collective Resolve:__ Collective action mobilizes effectively for communal labor, defense, and ritual; sustained coordination beyond the village is difficult; inter-village alliances form for specific purposes and dissolve when goals are met or disputes arise.
+
+__External Relations & Posture:__ Relations with neighboring villages range from alliance (often through intermarriage) to rivalry and raiding; trade partnerships extend over long distances through relay networks; forest-forager populations are integrated through exchange and ritual interdependence but occupy subordinate status.
+
+__Disaffection, Apathy & Spent Will:__ Disaffection surfaces when leaders fail or when sorcery fears spread; the remedy is typically exit—departure to found a new settlement—rather than reform; apathy is rare in the intimate village setting; spent will manifests as fission rather than collapse.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken Bantu languages provide the shared code; dialect continua link neighboring villages while distant groups may require interpreters; forest-forager populations maintain distinct languages but bilingualism is common; no script exists—all information is oral.
+
+__Channels & Transmission Velocity:__ Information travels at foot and canoe speed; slit-drum signaling (tonal telegraphy) transmits simple messages—deaths, summons, alarms—rapidly across forest distances; detailed information requires face-to-face speech or trusted messengers; markets and gatherings serve as information exchanges.
+
+__Record, Storage & Persistence:__ All record is human memory: genealogies extending many generations, land boundaries marked by trees and streams and remembered, ritual procedures, smelting techniques, herbal knowledge, historical narratives—all memorized and transmitted orally; persistence depends on continuous transmission; what is not taught is lost.
+
+__Framing, Censorship & Discourse Norms:__ Elders control authoritative speech; certain knowledge (ritual secrets, smelting techniques, healing formulas) is restricted by gender, age, or initiation status; public discourse respects hierarchy; proverbs and indirect speech are preferred to direct confrontation.
+
+__Reception, Attention & Amplification:__ Stories, songs, proverbs, and riddles are the primary vehicles for transmitting values, history, and knowledge; memorable formulations survive and spread; performance at communal gatherings reinforces retention; what cannot be sung or storied tends to fade.
+
+__Signal Integrity & Noise Load:__ Oral transmission introduces variation with each retelling; consensus among elders and cross-checking between lineages serve as verification; signal integrity is high for frequently-rehearsed content (genealogies, key rituals) and lower for rarely-accessed or peripheral information; no external record corrects drift.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice centers on reciprocity, kinship obligation, and harmony with ancestors and spirits; wrongs are violations of these relationships; the goal of adjudication is restoration of balance rather than punishment; compensation and reconciliation are preferred to retribution.
+
+__Law, Codification & Regulatory Evolution:__ No written law; customary rules are orally transmitted and interpreted by elders; the corpus evolves through precedent, adapting to new circumstances while framed as ancestral tradition; regional variation exists across village clusters and language groups.
+
+__Adjudication, Liability & Sanction:__ Disputes are adjudicated by headmen, elder councils, and sometimes inter-village moots; divination and ordeals may determine guilt in ambiguous cases; sanctions include compensation, exile, enslavement, and execution; sorcery accusations can lead to ordeal or death.
+
+__Rights, Protections & Compliance Burden:__ Individual autonomy is bounded by kinship obligations and customary norms; land is held collectively by lineages; compliance with custom is enforced by social pressure, fear of spiritual sanction, and the threat of ostracism; the compliance burden is embedded in daily life.
+
+__Impunity & Unredressed Wrong:__ Powerful lineage heads and successful warriors may evade accountability; sorcery accusations can target the vulnerable unjustly; when redress fails within the village, the wronged may depart or seek revenge, perpetuating cycles of grievance.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Explanation is animist and ancestral: events are caused by spirits, ancestors, and sorcery; empirical observation of plants, animals, weather, and materials is acute but embedded in spiritual interpretation; no naturalistic paradigm separates the mechanical from the sacred.
+
+__Applied Knowledge & Technical Method:__ Iron smelting, maintained across the period, represents sophisticated metallurgical technique transmitted through apprenticeship; agricultural methods, hunting strategies, fishing techniques, and forest pharmacopoeia are similarly transmitted orally; craft knowledge is specialized but not systematized.
+
+__Education, Knowledge Stock & Skill Distribution:__ Knowledge passes from elders to youth through observation, participation, and oral instruction; initiation societies transmit specialized and secret knowledge; skill distribution is broad for subsistence tasks, narrow for specialized crafts; no formal schooling exists.
+
+__Obsolescence & Knowledge Decay:__ When transmission chains break—through death, migration, or population decline—knowledge is lost; regional variation suggests both innovation and loss over time; the absence of external record means forgotten knowledge is irrecoverable.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Origin myths trace lineages to founding ancestors who cleared the forest and established the village; migration narratives connect present communities to ancestral homelands; identity is layered—household, lineage, village, language group—with the lineage as the primary anchor.
+
+__Legitimating Narrative & Ideology:__ The authority of elders and headmen is legitimated by their proximity to ancestors, their knowledge of tradition, and their demonstrated success; innovation is framed as recovery of ancestral practice; the narrative of continuity with the founding generation sustains the order.
+
+__Artistic Expression & Material Culture:__ Woodcarving (masks, figurines, household objects), raffia weaving, pottery, and body decoration express group identity and status; iron tools and weapons are both functional and prestige goods; masks and figurines embody spirits and ancestors and are activated in ritual; the aesthetic is geometric, symbolic, and tightly linked to cosmology; regional styles are distinct.
+
+__Form Exhaustion & Meaning Decay:__ Cultural forms remain vital within their oral transmission context; renewal occurs through living performance; no evidence of widespread meaning decay; the artistic and ritual repertoire is sustained by continuous re-enactment.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is populated by spirits of forest, water, and place, and by ancestors who remain active in the affairs of the living; the boundary between worlds is permeable; human welfare depends on maintaining harmony through proper conduct, offerings, and ritual; misfortune signals spiritual displeasure or sorcery attack.
+
+__Ritual, Devotion & Sacred Practice:__ Rituals mark life transitions (birth, initiation, marriage, death), agricultural and hunting cycles, and responses to misfortune; offerings, sacrifices, and dances propitiate spirits and ancestors; divination diagnoses causes of illness and misfortune; ritual specialists (diviners, healers, mediums) mediate between worlds.
+
+__Religious Institutions & Doctrinal Authority:__ No separate priestly hierarchy; ritual authority is embedded in lineage eldership and specialized roles (smiths as quasi-sacred figures, healers, diviners); doctrine is customary rather than codified, varying by locality; no scripture, no orthodoxy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Beliefs diffuse through intermarriage, trade, and contact; local cults adopt and adapt elements from neighbors; new spirit cults emerge and spread; no external missionary pressure during this period; the spiritual landscape is plural, local, and dynamic within a shared animist-ancestral frame.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment is absent; the sacred pervades daily life from waking to sleep; misfortune is explained within the spiritual framework (sorcery, ancestral displeasure, spirit offense) rather than provoking doubt; the cosmology remains fully inhabited and uncontested.

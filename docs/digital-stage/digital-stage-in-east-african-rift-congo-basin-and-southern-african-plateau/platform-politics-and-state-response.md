@@ -1,69 +1,139 @@
-# __2018 CE – 2022 CE__ — Platform Politics and State Response
-__Summary:__ Social media platforms became central battlegrounds for electoral contestation, misinformation warfare, and state control across the East African Rift, Congo Basin, and Southern African Plateau, with WhatsApp emerging as the dominant information channel while governments responded with internet shutdowns, surveillance expansion, and nascent regulation; the binding constraint was state capacity to monitor and control digital discourse, margin for open information flow narrowed sharply in Ethiopia, Uganda, and Tanzania, and the principal direction was toward contested platformization with escalating friction between digital organizing and authoritarian response.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The same topographic complexity — Rift Valley, Congo Basin forests, and Plateau distances — continued to channel connectivity along urban corridors; cross-border fiber links improved regional integration, but rural terrain still imposed high last-mile costs.<br><br>
-__Climate Regime & Volatility:__ Drought in the Horn of Africa 2020–2022 and Cyclone Idai's 2019 devastation in Mozambique and Zimbabwe disrupted infrastructure and displaced populations; climate-related disruption to digital access became visible as an episodic stress factor.<br><br>
-__Hazard Regime & Exposure:__ Cyclone Idai destroyed communications infrastructure in affected areas; locust swarms in 2020 diverted state attention; COVID-19 constituted a novel hazard that drove digital adoption while exposing infrastructure gaps; margin against compound shocks proved thin in fragile zones.<br><br>
-__Resource & Energy Endowment:__ South Africa's coal-based grid began crisis-level load-shedding by 2019–2022, directly disrupting digital economy operations; hydroelectric and solar potential remained underexploited; energy endowment was not the constraint, but conversion capacity was.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste volumes continued rising; informal recycling expanded in Accra, Nairobi, and Lagos; toxic accumulation in local environments measurable but not yet at system-threatening saturation; absorptive capacity eroding but not exhausted.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ COVID-19 arrived in 2020 with lower case fatality rates than feared but severe economic disruption; HIV and tuberculosis remained endemic; digital platforms became primary health information channels, with misinformation complicating public health response.<br><br>
-__Nutrition & Physiological Vitality:__ COVID-19 lockdowns disrupted food systems, with urban informal workers hardest hit; mobile money enabled some emergency aid distribution; nutritional status deteriorated for vulnerable populations in 2020–2021 before partial recovery.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility decline continued gradually; COVID-19 lockdowns concentrated families and may have affected conception timing; digital courtship via platforms became normalized among urban youth; underlying biological patterns showed slow secular change.<br><br>
-__Demographic Renewal & Density:__ Population growth continued at 2–3% annually across most of the region; urban migration accelerated despite COVID-19 disruptions; median ages remained young; the demographic structure continued producing digital-native cohorts.<br><br>
-__Attrition & Dependency Overhang:__ COVID-19 orphaning was modest compared to AIDS-era levels; elderly mortality from the pandemic was lower than in Europe; existing dependency burdens persisted without major new accumulation; mobile money sustained remittance flows to dependents.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ COVID-19 lockdowns pushed millions back toward subsistence margins; informal traders lost income; mobile money enabled survival-level transfers; the provisioning floor cracked but did not collapse, recovering unevenly by 2022.<br><br>
-__Energy Capture & Conversion:__ South African load-shedding reached Stage 6 by 2022, with 6–10 hours daily without power disrupting digital businesses; solar and generator backup became essential; energy conversion remained the binding infrastructure constraint across the region.<br><br>
-__Labor Organization & Coercion:__ Gig platforms (Uber, Bolt, Glovo) expanded, creating new labor categories with minimal protections; platform work was framed as opportunity but structured as contingent and low-paid; labor organization remained weak in digital sectors.<br><br>
-__Production & Surplus Capacity:__ Fintech and digital services generated modest surplus in Kenya and South Africa; content moderation outsourcing began (Facebook, OpenAI); production capacity grew in digital niches while traditional sectors stagnated under COVID-19.<br><br>
-__Storage, Reserves & Buffering:__ Household reserves depleted during COVID-19; mobile money balances served as emergency stores; formal reserves remained thin; recovery by 2022 rebuilt some buffer but left many households more precarious than in 2018.<br><br>
-__Exchange, Trade & Logistics:__ Cross-border mobile money interoperability improved; WhatsApp commerce expanded; logistics remained road-based but increasingly coordinated digitally; platform-mediated exchange grew as a share of total transactions.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Digital lending expanded rapidly, with predatory practices emerging; cryptocurrency adoption grew for remittances and speculation; mobile money remained primary for most users; credit access widened but at high cost.<br><br>
-__Surplus Extraction & Redistribution:__ States began discussing digital taxation; South Africa implemented some platform levies; extraction from digital surplus remained modest; COVID-19 stimulus via mobile money represented new redistribution channels.<br><br>
-__Wealth Distribution & Asset Defense:__ Digital inequality mapped onto existing class and urban-rural divides; COVID-19 widened gaps as digital-capable workers maintained income while others lost it; asset defense via mobile money provided modest protection.<br><br>
-__Byproducts & Waste Routing:__ E-waste continued accumulating; informal recycling absorbed most volume; regulatory attention minimal; routing remained dispersed and hazardous; no significant policy intervention occurred.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ COVID-19 strained mutual aid networks as everyone faced simultaneous need; mobile money enabled distant support; trust in digital transactions grew; ethnic and community solidarity was tested but largely held.<br><br>
-__Stratification, Status & Group Identity:__ Digital access became a starker class marker during COVID-19 lockdowns; those with connectivity maintained social presence while others disappeared from view; ethnic identity remained salient in political digital discourse.<br><br>
-__Kinship, Family & Inheritance:__ Lockdowns intensified household dynamics; mobile communication maintained kinship during movement restrictions; remittance obligations persisted; digital inheritance remained negligible as a legal or social category.<br><br>
-__Civic Association & Self-Organization:__ WhatsApp groups became essential for mutual aid during COVID-19; digital organizing capacity demonstrated in #EndSARS (Nigeria 2020) and South African protests; associational fabric strengthened digitally.<br><br>
-__Leisure, Play & Sociability:__ Lockdowns drove digital leisure consumption; streaming, gaming, and social media absorbed time previously spent in physical gathering; return to in-person sociability by 2022 was partial; digital leisure normalized.<br><br>
-__Grievance Channels & Social Discharge:__ Social media became primary grievance channel; #EndSARS demonstrated digital protest capacity; xenophobic violence in South Africa coordinated partly online; discharge capacity expanded but so did grievance volume.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Incumbent regimes in Ethiopia, Uganda, and Tanzania tightened control using digital tools; Kenya maintained competitive multiparty politics; South Africa's ANC faced internal fragmentation; power concentration was the regional trend except in Kenya.<br><br>
-__Succession & Power Transfer:__ Tanzania's Magufuli died in 2021, succeeded by Hassan without disruption; Uganda's Museveni won contested 2021 election with shutdown; Kenya's 2022 election transferred power peacefully despite tensions; transfer mechanisms varied from institutionalized to manipulated.<br><br>
-__Legitimacy & Political Narrative:__ Opposition narratives circulated via social media, contesting state accounts; state legitimacy was defended through both digital propaganda and platform suppression; the narrative battleground was contested without decisive resolution.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Digital ID systems expanded; COVID-19 response revealed capacity gaps; corruption persisted; administrative digitization advanced unevenly; state capacity to govern digital space lagged behind the platforms themselves.<br><br>
-__Political Participation & Mobilization:__ Social media enabled rapid mobilization (#EndSARS, Kenya 2022 campaigns); voter manipulation via digital misinformation became a concern; participation channels opened while manipulation risks grew proportionally.<br><br>
-__Geopolitical Position & External Relations:__ US-China rivalry intensified over Huawei 5G; African states avoided definitive alignment; digital sovereignty became a diplomatic talking point; external pressure on platform choices increased without forcing binary choices.<br><br>
-__Coercive Apparatus & Means of Force:__ Surveillance technology (Huawei, Israeli firms) deployed by multiple states; police and military retained coercive primacy; digital monitoring capacity grew, particularly in Ethiopia and Uganda; force remained state-monopolized with enhanced digital support.<br><br>
-__Internal Order & Threat Environment:__ Ethiopian civil war 2020–2022 generated massive digital propaganda and shutdowns; DRC instability continued; South African unrest in July 2021; the disorder margin varied but digital tools featured on all sides of conflicts.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ 4G coverage expanded; 5G trials began in South Africa and Kenya; WhatsApp and Facebook remained dominant channels; transmission reached near-instantaneous for urban populations while rural latency persisted.<br><br>
-__Record, Storage & Persistence:__ Cloud adoption grew slowly; platform data remained offshore; state archival capacity for digital records was minimal; persistence depended on foreign platforms; data sovereignty remained aspirational.<br><br>
-__Framing, Censorship & Discourse Norms:__ Internet shutdowns deployed in Ethiopia (2020–2022), Uganda (2021 election), and DRC; social media taxes in Uganda; censorship via connectivity denial became a primary state tool; discourse norms tightened under authoritarian pressure.<br><br>
-__Reception, Attention & Amplification:__ COVID-19 and election misinformation dominated attention; WhatsApp forwarding created viral spread patterns resistant to fact-checking; attention was captured by emotional content; amplification dynamics favored sensationalism.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation about COVID-19, elections, and ethnic conflict saturated channels; fact-checking expanded but remained outpaced; signal integrity deteriorated across the window; verification capacity was structurally insufficient.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Digital public shaming became a de facto accountability mechanism; expectations of platform accountability grew; communal and religious moral frameworks continued to underpin justice intuitions.<br><br>
-__Law, Codification & Regulatory Evolution:__ Kenya's Data Protection Act (2019) implemented; South Africa's POPIA enforced from 2021; cybercrime laws proliferated, sometimes used against dissent; regulatory frameworks advanced but unevenly and sometimes repressively.<br><br>
-__Adjudication, Enforcement & Liability:__ Platform liability remained undefined in most jurisdictions; enforcement of digital laws was selective and sometimes politically motivated; adjudication capacity for digital matters remained weak across the region.<br><br>
-__Rights, Protections & Compliance Burden:__ Privacy rights formally strengthened via new laws; enforcement lagged; compliance burdens fell on formal sector while informal digital activity remained unregulated; user protections improved on paper more than in practice.<br><br>
-__Impunity & Unredressed Wrong:__ Online harassment, doxxing, and coordinated attacks went largely unpunished; platform takedowns were inconsistent; impunity remained high; the gap between digital harms and judicial redress widened.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Research on African digital economies grew in universities and think tanks; misinformation studies emerged as a field; platform dynamics became subjects of inquiry; the research frontier remained externally funded and often externally led.<br><br>
-__Applied Knowledge & Technical Method:__ Local app development continued in Nairobi, Lagos, and Cape Town; content moderation skills developed as outsourcing grew; technical method was adaptive, focused on localization rather than foundational innovation.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ COVID-19 exposed digital education gaps as schools closed; online learning was inaccessible for most; digital literacy remained narrow; the knowledge stock was externally sourced with modest local accumulation.<br><br>
-__Obsolescence & Knowledge Decay:__ Platform changes forced continuous skill updating; knowledge of deprecated systems faded rapidly; formal education lagged platform evolution; decay rate remained high but normalized as continuous adaptation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Digital platforms enabled memory contestation (Ethiopian conflict narratives, South African history debates); diaspora memory transmission continued; foundational identities were reproduced and challenged online.<br><br>
-__Artistic Expression & Material Culture:__ Amapiano music spread globally via digital platforms from South Africa; African streaming content grew; visual culture incorporated TikTok and Instagram aesthetics; material culture was increasingly digitally mediated.<br><br>
-__Collective Mood & Behavioral Disposition:__ COVID-19 generated anxiety and resilience simultaneously; protest movements (#EndSARS, #FeesMustFall legacy) expressed collective frustration; the mood mixed precarity with defiant hope; behavioral disposition was adaptive and improvisational.<br><br>
-__Form Exhaustion & Meaning Decay:__ Political hashtags proliferated but often dissipated quickly; meme culture recycled forms rapidly; some symbolic forms exhausted within weeks; meaning renewal was constant but shallow; deeper cultural forms persisted beneath the churn.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ COVID-19 intensified religious interpretation and theodicy questions; Pentecostal prosperity theology faced test as economies contracted; existential outlook remained predominantly theistic with visible stress.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church closures during COVID-19 drove online services; livestreamed worship normalized; devotional practice hybridized between physical and digital; sacred infrastructure adapted to pandemic constraints.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Megachurch leaders maintained influence via digital presence; some faced legitimacy challenges when prosperity failed to materialize; doctrinal authority held but faced new scrutiny; institutional adaptation varied.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Pentecostal expansion continued via digital reach; COVID-19 disrupted in-person conversion but not digital spread; syncretism with health and prosperity messaging persisted; traditional practice remained subordinate but not eliminated.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularism remained a minority position; COVID-19 may have intensified rather than reduced religious commitment; disenchantment was not the direction; the sacred continued to absorb crisis and uncertainty for most populations.<br><br>
+# __2018 CE – 2022 CE — Platform Politics and State Response__
+
+__Summary:__ The region's digital infrastructure, now mature in urban areas, becomes a contested terrain between platform-enabled political mobilization and state countermeasures ranging from internet shutdowns and social media taxes to surveillance and content regulation — the binding constraint being the authoritarian reflex that sacrifices economic connectivity to preserve political control.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The spatial logic of digital infrastructure concentrates political contestation in connected urban centers while rural areas remain largely outside the platform battlefield; Nairobi, Kampala, Addis Ababa, Johannesburg, and Harare emerge as nodes where digital politics and state response collide, while vast stretches of the Congo Basin and rural plateau remain beyond effective network reach.
+
+__Climate Regime & Volatility:__ Climate shocks — the 2019-2020 locust invasion in East Africa, recurring drought in southern Africa — create grievances that feed into digital political discourse; flooding in Mozambique (Cyclone Idai, 2019) tests disaster communication systems; climate change becomes a platform discourse topic among educated urban youth.
+
+__Hazard Regime & Exposure:__ The COVID-19 pandemic (2020-2022) constitutes the defining hazard, accelerating digital dependency while providing governments cover for expanded surveillance and control measures; conflict intensifies in Tigray (Ethiopia, 2020-2022), eastern DRC (M23 resurgence, 2022), and Mozambique's Cabo Delgado, with information blackouts accompanying military operations.
+
+__Resource & Energy Endowment:__ South Africa's load-shedding crisis (worsening through the period) disrupts digital infrastructure, forcing data centers and businesses onto generators; the power constraint becomes a political grievance expressed on platforms; DRC's cobalt extraction continues with minimal domestic benefit.
+
+__Waste Absorption & Sink Capacity:__ E-waste volumes grow as smartphone upgrade cycles accelerate; environmental discourse gains limited traction on platforms; physical sink capacity is not the binding constraint on digital politics.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 arrives in March 2020, with case detection limited by testing capacity; mortality data remains uncertain across much of the region; South Africa experiences severe waves, particularly the Beta and Omicron variants; the pandemic demonstrates both the utility of mobile communication for public health messaging and its vulnerability to misinformation.
+
+__Nutrition & Physiological Vitality:__ Lockdowns disrupt food systems; mobile money transfers help maintain household consumption where work income collapses; platform discourse features food security concerns; nutritional status degrades for urban informal sector populations most affected by lockdowns.
+
+__Care, Healing & Recovery Capacity:__ Health systems are overwhelmed by COVID-19 peaks; telemedicine expands out of necessity; vaccine distribution logistics leverage mobile tracking; misinformation about vaccines circulates on WhatsApp and other platforms, complicating public health response.
+
+__Reproductive Biology & Pairing Dynamics:__ Lockdowns alter courtship and relationship patterns; domestic violence increases and is discussed on platforms; teen pregnancy rises in some areas as schools close; dating app usage increases in urban areas.
+
+__Demographic Renewal & Density:__ Population growth continues; urban density makes pandemic control difficult; youth bulge intensifies pressure on labor markets, with frustrated young people forming the core constituency for platform-based political mobilization.
+
+__Attrition & Dependency Overhang:__ COVID-19 mortality, while not catastrophic in relative terms, removes productive adults and creates new orphans; economic disruption increases the dependency burden; long COVID effects are poorly tracked.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Lockdowns push urban informal workers below subsistence; mobile money enables emergency cash transfers (Kenya's Kazi Mtaani program uses M-Pesa); e-commerce for food delivery grows; the platform economy provides survival income for some while destroying livelihoods for others.
+
+__Energy Capture & Conversion:__ South Africa's power crisis constrains digital activity; solar charging solutions expand in off-grid areas; the energy-digital nexus becomes visible as a binding constraint.
+
+__Labor Organization & Coercion:__ Platform workers (Uber, Bolt, delivery riders) emerge as a new labor category with organizing potential; gig economy exploitation becomes a platform discourse topic; remote work expands among professional classes during COVID-19.
+
+__Production & Surplus Capacity:__ Tech sector activity continues through lockdowns; some startups fail while others pivot successfully; venture capital flows slow initially then recover; the "Africa Rising" narrative faces reality check as economic contraction hits.
+
+__Storage, Reserves & Buffering:__ Government fiscal reserves are depleted by pandemic response; Zambia defaults on external debt (2020); mobile money float provides household buffering; the region enters a period of fiscal constraint.
+
+__Exchange, Trade & Logistics:__ E-commerce accelerates out of necessity; logistics constraints limit growth; cross-border trade disrupted by closures; mobile money cross-border transfers expand.
+
+__Value Storage, Credit & Deferred Exchange:__ Mobile credit expands; digital lending platforms proliferate, some predatory; cryptocurrency adoption accelerates in countries with currency instability (Zimbabwe, Nigeria's restrictions drive traffic elsewhere); inflation erodes savings in multiple countries.
+
+__Surplus Extraction & Redistribution:__ Uganda's social media tax (2018) extracts revenue while suppressing usage; governments eye mobile money transaction taxes; digital taxation becomes contentious; fiscal pressure intensifies the extraction impulse.
+
+__Wealth Distribution & Asset Defense:__ Pandemic deepens inequality; connected professionals work remotely while informal workers suffer; digital access becomes a sharper class marker; wealth concentration in the tech sector intensifies.
+
+__Byproducts & Waste Routing:__ Economic stress creates financial distress — loan defaults, business failures; the financial cleanup from pandemic disruption continues through the period.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Lockdowns reunite and strain families; digital communication sustains diaspora connections when travel is impossible; pandemic deaths create inheritance disputes; digital estate questions remain unresolved.
+
+__Association & Mutual Aid:__ WhatsApp groups coordinate pandemic mutual aid; digital fundraising (M-Changa in Kenya) enables crisis response; online community formation intensifies; traditional associations adapt to digital coordination.
+
+__Leisure, Play & Sociability:__ Lockdowns drive entertainment online; streaming services expand; mobile gaming increases; digital sociability becomes primary during restrictions then partially recedes.
+
+__Stratification, Status & Group Structure:__ Digital access becomes a more salient class marker; those who can work remotely and maintain income separate from those who cannot; the digital divide maps onto pandemic impact; ethnic mobilization increasingly occurs on platforms.
+
+__Administrative Capacity & Institutional Integrity:__ Election administration becomes a platform battlefield — Kenya's 2022 election features extensive digital campaigning and real-time results transmission; Uganda's 2021 election involves internet shutdown; Zimbabwe and DRC elections feature platform-mediated controversy; government digital capacity varies widely.
+
+__Coercive Apparatus & Means of Force:__ Security forces acquire platform monitoring capabilities, often with Chinese technical assistance; Ethiopia's forces operate information blackout in Tigray; surveillance of activists via phones and platforms documented; the coercive apparatus adapts to the digital terrain.
+
+__Discharge, Disorder & Decay:__ Platform-coordinated protests emerge — #FreeBobiWine in Uganda, #EndSARS spillover from Nigeria, #FeesMustFall continuation in South Africa; state responses range from engagement to violent suppression; the social contract strains as grievances find digital expression.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Anxiety pervades the pandemic period; political frustration mixes with pandemic stress; trust in governments erodes where responses are perceived as incompetent or corrupt; platform discourse amplifies both solidarity and division.
+
+__Leadership & Personal Authority:__ Bobi Wine (Robert Kyagulanyi) emerges as platform-native opposition figure in Uganda; William Ruto uses digital campaigning effectively in Kenya; authoritarian leaders (Museveni, Kagame) maintain control despite platform opposition; Abiy Ahmed's authority fragments as Tigray conflict intensifies.
+
+__Legitimacy as Lived Allegiance:__ Platform discourse erodes legitimacy by exposing corruption and incompetence; state responses (shutdowns, arrests) further damage legitimacy; the pandemic tests citizen trust — some states gain legitimacy through effective response, most lose it.
+
+__Political Will & Collective Resolve:__ Opposition movements demonstrate collective resolve through platform coordination; states demonstrate will through internet shutdowns and prosecution of critics; the contest between citizen mobilization and state control intensifies.
+
+__External Relations & Posture:__ US, EU, and Chinese competition for influence continues; Western criticism of shutdowns and human rights concerns meets African sovereignty assertions; Ethiopia's Tigray conflict strains US-Ethiopia relations; platform regulation becomes a diplomatic issue.
+
+__Disaffection, Apathy & Spent Will:__ Repeated shutdown-and-control cycles generate fatigue; opposition momentum dissipates after crackdowns; pandemic exhaustion compounds political exhaustion; youth disaffection with formal politics deepens even as digital engagement remains high.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Smartphone penetration continues rising; 4G expands to secondary cities; Ethiopia's telecom opens to competition with Safaricom's entry (2022); accessibility gains are partially offset by state-imposed restrictions.
+
+__Channels & Transmission Velocity:__ Social media platforms — Facebook, Twitter, WhatsApp, TikTok — carry political discourse at internet speed; live video streaming enables real-time documentation of protests and state violence; messaging apps enable coordination that states struggle to monitor.
+
+__Record, Storage & Persistence:__ Platform content creates records of state violence (documented abuses in Tigray, Uganda election violence); but platforms also remove content, creating preservation questions; digital evidence becomes contested in courts and international forums.
+
+__Framing, Censorship & Discourse Norms:__ Internet shutdowns become the primary censorship tool — Ethiopia (extended Tigray blackout), Uganda (2021 election), DRC (election periods), Tanzania, Zimbabwe; social media taxes function as soft censorship; platform content moderation decisions affect African discourse; hate speech concerns justify restrictions.
+
+__Reception, Attention & Amplification:__ Viral moments shape political narratives — Bobi Wine's red beret, protest footage, state violence documentation; attention fragmentation limits sustained mobilization; international attention to African digital rights waxes and wanes.
+
+__Signal Integrity & Noise Load:__ Misinformation proliferates, particularly pandemic and election related; state actors deploy disinformation; verification capacity is overwhelmed; the information environment degrades as contested narratives multiply.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Platform discourse articulates justice claims — against corruption, police violence, electoral fraud; generational conflict emerges as youth challenge elder authority; rights framing gains traction among connected populations.
+
+__Law, Codification & Regulatory Evolution:__ Content regulation laws proliferate — Tanzania's Electronic and Postal Communications (Online Content) Regulations, Kenya's Computer Misuse and Cybercrimes Act amendments; data protection laws advance (Kenya's Data Protection Act 2019); but legal frameworks lag platform reality.
+
+__Adjudication, Liability & Sanction:__ Courts sometimes check executive overreach — Ugandan court rulings on shutdown, Kenyan court rulings on privacy — but enforcement is weak; platform liability remains unclear; international mechanisms (African Court, UN bodies) receive complaints but have limited impact.
+
+__Rights, Protections & Compliance Burden:__ Freedom of expression nominally protected but practically constrained; privacy rights weak against surveillance; journalists and activists face harassment, arrest, and worse; the rights framework exists on paper more than in practice.
+
+__Impunity & Unredressed Wrong:__ State actors responsible for shutdown damage, surveillance abuse, and violence against digital activists face no accountability; the impunity gap widens as states learn to use digital tools against citizens.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Digital rights and internet freedom become research and advocacy fields; African scholars contribute to global discourse on platform governance; the authoritarian adaptation thesis — that states learn to use digital tools for control — gains empirical support.
+
+__Applied Knowledge & Technical Method:__ VPN and circumvention tools spread during shutdowns; digital security practices improve among activists; state surveillance capabilities also advance; an arms race dynamic emerges between circumvention and control.
+
+__Education, Knowledge Stock & Skill Distribution:__ Online learning expands during pandemic school closures, reaching only the connected; digital skills training continues but cannot close the gap; misinformation literacy efforts struggle against volume.
+
+__Obsolescence & Knowledge Decay:__ Activist tactics that worked earlier (hashtag campaigns) face state adaptation; security practices must constantly evolve; the knowledge needed to navigate the digital-political terrain changes rapidly.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Platform discourse contests national narratives — debates over colonialism, ethnic relations, and historical grievances circulate; digital archives preserve protest memories; identity politics intensifies online.
+
+__Legitimating Narrative & Ideology:__ Governments deploy sovereignty and stability narratives to justify restrictions; opposition movements invoke democracy and rights; pan-African solidarity appears in some digital spaces; the ideological contest is fought on platforms.
+
+__Artistic Expression & Material Culture:__ Protest music circulates digitally (Bobi Wine's songs); meme culture shapes political discourse; visual documentation of protests becomes an art form; platform-native cultural production flourishes despite constraints.
+
+__Form Exhaustion & Meaning Decay:__ Hashtag activism faces diminishing returns; the form of the viral protest moment becomes familiar; cynicism about digital politics' actual impact grows; the gap between online activity and offline change generates meaning erosion.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The pandemic prompts existential reflection; religious interpretations of COVID-19 circulate on platforms; political struggles are sometimes framed in cosmic terms (good versus evil narratives); secular-rational worldviews remain minority positions.
+
+__Ritual, Devotion & Sacred Practice:__ Churches pivot to online services during lockdowns; digital prayer groups expand; religious communities maintain connection through platforms; the pandemic accelerates religious digitization.
+
+__Religious Institutions & Doctrinal Authority:__ Religious leaders use platforms to maintain authority; some challenge state restrictions on gatherings; megachurches build digital infrastructure; religious authority adapts to the digital terrain.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Digital circulation crosses denominational boundaries; religious content competes with secular content for attention; prosperity gospel continues spreading via digital channels.
+
+__Disenchantment & Sacred Discharge:__ The pandemic's arbitrariness challenges some theodicies; exposure to global secular content continues; but widespread disenchantment does not occur — religious frameworks prove resilient, providing meaning during crisis that platform politics cannot supply.

@@ -1,69 +1,139 @@
-# __550 CE – 800 CE__ — Late Classic Maya Florescence
-__Summary:__ The Maya lowlands reach their peak political, demographic, and artistic intensity across 250 years of competitive polity formation, monument proliferation, and scribal production. Tikal, Calakmul, Palenque, Yaxchilan, and dozens of regional kingdoms vie through warfare, alliance, and royal display, generating an unprecedented corpus of hieroglyphic inscriptions on stelae, lintels, panels, and painted ceramics. The binding constraint is the agrarian surplus ceiling of slash-and-burn maize cultivation on tropical karstic soils, increasingly stressed by population pressure and intensified elite extraction; the margin against drought or military disruption narrows as the period advances. Direction of change is intensifying competition and inscription output through mid-period, with signs of stress multiplying after 750 CE.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Peten lowlands, Usumacinta drainage, and Yucatan karst; dense tropical forest broken by bajos and seasonal wetlands; riverine corridors and overland sacbeob (causeways) link centers but impose high friction on bulk transport; no draft animals or wheeled vehicles.<br><br>
-__Climate Regime & Volatility:__ Tropical wet-dry regime; rainy season May–October; interannual variability significant; paleoclimate proxies suggest periodic multi-year droughts, especially later in the window (post-750), increasing stress on rain-fed agriculture.<br><br>
-__Hazard Regime & Exposure:__ Hurricanes strike coastal margins; inland exposure mainly to drought; seismic activity minimal in lowlands; localized flooding in bajo margins; margin against prolonged drought is narrow where population density is highest.<br><br>
-__Resource & Energy Endowment:__ Limestone abundant for construction; chert for tools; jade and obsidian imported from highlands; cacao cultivated in humid zones; salt from coastal sources; no metal ores or fuel beyond firewood; forest stock declining in core zones under sustained clearing.<br><br>
-__Waste Absorption & Sink Capacity:__ Low-density organic waste absorbed by forest regrowth and soil; construction debris incorporated into platforms; no industrial effluent; sink capacity adequate but localized deforestation around major centers reduces regrowth buffer.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic tropical diseases (gastrointestinal, parasitic); skeletal evidence shows moderate infection loads; no catastrophic epidemics attested; infant and child mortality elevated but population sustains growth through mid-period.<br><br>
-__Nutrition & Physiological Vitality:__ Maize-bean-squash staple diet; commoner stature modest; dental pathology and enamel hypoplasia indicate periodic nutritional stress; elite diet supplemented with game and cacao; nutritional margin tightening as population rises.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny among elite attested in inscriptions; commoner pairing likely monogamous; early female marriage; high fertility offset by child mortality; reproductive pressure sustained through window.<br><br>
-__Demographic Renewal & Density:__ Population peaks mid-window at estimated 3–10 million across Maya lowlands; densities in core areas exceed 200 persons/km2; birth rates exceed deaths through c. 750; growth slowing and reversing in some centers by window's end.<br><br>
-__Attrition & Dependency Overhang:__ War captives and sacrificial victims extracted from productive cohort; widows and orphans absorbed by extended kin networks; elderly cared for within household; dependency load moderate but rising where warfare intensifies.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Swidden maize agriculture supplemented by kitchen gardens, ramon nut, and root crops; bajo-edge intensive fields and terracing in some areas; households self-provision but tribute extraction narrows margin; drought years push system toward carrying edge.<br><br>
-__Energy Capture & Conversion:__ Human muscle sole prime mover; fire for clearing, lime-burning, and cooking; no animal traction or water/wind power harnessed; per-capita work ceiling low; elite construction projects aggregate labor through corvee mobilization.<br><br>
-__Labor Organization & Coercion:__ Corvee labor for pyramid and causeway construction; agricultural tribute in kind; war captives for sacrifice and possibly labor; commoners bound to land and lord but not chattel slaves; coercion moderate, intensifying with elite competition.<br><br>
-__Production & Surplus Capacity:__ Agrarian surplus sufficient for monumental construction and elite maintenance but thin; craft specialists (potters, sculptors, scribes) supported by palace and temple; surplus extraction rising faster than production capacity by late window.<br><br>
-__Storage, Reserves & Buffering:__ Granary storage limited by tropical humidity; dried maize and beans held in household chultunes and palace stores; reserves cover single failed season at best; no pooling institutions beyond polity level; shock buffer narrow.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade in obsidian, jade, feathers, cacao, salt via canoe and porter; marketplaces attested but scale debated; elite gift exchange and tribute flow dominate high-value goods; logistics constrained by lack of pack animals.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Cacao beans serve as unit of account and portable store of value; jade and feathers as prestige goods; no coinage; credit implicit in tributary obligations and reciprocal feasting; elite wealth stored as jade, textiles, and architectural investment.<br><br>
-__Surplus Extraction & Redistribution:__ Royal courts extract tribute in labor, food, and craft goods; redistribution through feasting, warfare provisioning, and ritual gifts; extraction load rising with monument competition; productive base increasingly strained.<br><br>
-__Wealth Distribution & Asset Defense:__ Sharp stratification: royal lineages hold monumental cores, prime land, and prestige goods; commoners hold use-rights to milpa plots; elite wealth defended through fortification, alliance, and ritual legitimation; inequality widening.<br><br>
-__Byproducts & Waste Routing:__ Organic waste composted or discarded in middens; construction debris infilled; lime-burning produces CO2 and ash absorbed locally; no toxic effluent; waste routed into landscape with minimal accumulation at current population except densest cores.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kinship and village reciprocity remain primary safety net; trust radius extends to lineage and ward; elite patron-client ties provide vertical integration; trust contracts where warfare and tribute extraction intensify.<br><br>
-__Stratification, Status & Group Identity:__ Divine kings (k'uhul ajaw) at apex; noble lineages hold secondary offices; commoner farmers and artisans below; slaves and captives at bottom; boundaries rigid and hereditary; ethnic and polity identity strong; no significant leveling.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent dominant among elite; bilateral elements among commoners; inheritance of royal office and noble titles through male line with occasional female regents; land-use rights inherited within household.<br><br>
-__Civic Association & Self-Organization:__ Ward and village councils manage local affairs; craft guilds possible but sparsely attested; temple and palace hierarchies dominate associational life; little autonomous civic space outside kinship and clientage.<br><br>
-__Leisure, Play & Sociability:__ Ballgame (pitz) central ritual-recreational institution; feasts and ceremonies punctuate agricultural and calendrical cycles; market gatherings serve sociability; elite banquets documented on painted vessels.<br><br>
-__Grievance Channels & Social Discharge:__ Ritual sacrifice channels violence; warfare externalizes internal tensions; feasting redistributes surplus symbolically; no formal petition mechanism attested; unabsorbed grievance accumulates where extraction outpaces reciprocity.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereign power held by divine king (k'uhul ajaw) claiming celestial mandate; court nobles, scribes, and warriors serve as administrators; polities small (city-state scale); hegemonic leagues under Tikal or Calakmul fluctuate; authority centralizing within polities, fragmenting regionally.<br><br>
-__Succession & Power Transfer:__ Hereditary succession, typically patrilineal; contested successions common and often violent; interregna marked by warfare; no routinized mechanism; transfer a recurring destabilizer.<br><br>
-__Legitimacy & Political Narrative:__ Divine kingship legitimated by mythological charter, ancestor veneration, and calendrical rites; royal inscriptions narrate victories, captures, and cosmic alignments; legitimacy erodes where military failure or famine strikes.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Scribal class maintains calendrical, historical, and tribute records; hieroglyphic inscriptions on stone; codex archives (not surviving) inferred; administrative reach limited to heartland and immediate tributaries; capacity adequate for scale but no bureaucratic depth.<br><br>
-__Political Participation & Mobilization:__ Commoners excluded from formal decision-making; elite factionalism channeled through court intrigue and warfare; popular revolt not attested but mass abandonment possible as exit strategy; mobilization top-down for war and construction.<br><br>
-__Geopolitical Position & External Relations:__ Two superpowers (Tikal, Calakmul) dominate alliance networks; secondary centers play balance-of-power; marriage alliances, tributary bonds, and warfare define relations; external pressure from highland polities minimal; Teotihuacan influence ended by window start.<br><br>
-__Coercive Apparatus & Means of Force:__ Elite warriors equipped with obsidian-edged clubs, spears, and shields; fortifications rare until late window; warfare seasonal and ritualized but lethal; force monopoly held by king and noble captains; distribution of arms narrow.<br><br>
-__Internal Order & Threat Environment:__ Banditry and local disorder sparsely attested; elite violence channeled through sanctioned warfare; internal rebellion not documented but political assassination occurs; threat environment rising as inter-polity conflict intensifies.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral proclamation and runner messengers; hieroglyphic inscriptions on public monuments; painted ceramics circulate among elite; transmission slow, reach limited to literate elite and those within earshot of oral performance.<br><br>
-__Record, Storage & Persistence:__ Stone inscriptions highly durable; bark-paper codices (inferred) perishable; painted ceramics preserve iconographic record; calendrical and dynastic records persist across generations; codex archives vulnerable to fire and humidity.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions highly formulaic; defeat and failure omitted or euphemized; scribes serve royal narrative; no independent press; discourse tightly controlled within elite conventions.<br><br>
-__Reception, Attention & Amplification:__ Commoners receive royal messaging through public ritual and monument display; literacy confined to scribal elite; amplification occurs through repetition in ceremony and visual spectacle; attention anchored to calendrical festivals.<br><br>
-__Signal Integrity & Noise Load:__ Scribal conventions standardize message encoding; formulaic texts reduce ambiguity; competing royal claims generate propaganda noise; no verification mechanism beyond oral tradition and counter-inscription; noise rising with inter-polity competition.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Cosmic order (maize cycle, ancestral mandate) grounds moral expectation; reciprocity between ruler and ruled assumed; transgression seen as ritual pollution; sense of justice tied to hierarchy and balance.<br><br>
-__Law, Codification & Regulatory Evolution:__ No surviving law codes; customary norms inferred from inscriptions and later ethnographic analogy; royal edicts presumably issued but not preserved; regulation evolves through precedent and royal decree.<br><br>
-__Adjudication, Enforcement & Liability:__ King and noble councils adjudicate disputes; punishment includes execution, sacrifice, mutilation, and exile; liability assigned to individuals and lineages; throughput adequate for small-scale polities; no appellate structure.<br><br>
-__Rights, Protections & Compliance Burden:__ Commoners have customary use-rights but no formal protections against elite exaction; compliance burden rises with tribute demands; elite protected by rank and alliance; predictability tied to lord's disposition.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity high; defeated rulers sacrificed but victor's transgressions unaccountable; commoner grievances rarely reach formal adjudication; impunity accumulates as extraction intensifies without reciprocal protection.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Astronomical observation highly developed; calendrical computation sophisticated; mathematical notation includes zero; cosmological paradigm integrates celestial cycles with divine kingship; no naturalistic inquiry distinct from ritual.<br><br>
-__Applied Knowledge & Technical Method:__ Architectural engineering of corbelled vaults, lime plaster, and stucco facades; agricultural techniques (terracing, raised fields) locally advanced; lapidary and ceramic craft refined; methods transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Scribal schools train elite youth; literacy and calendrical knowledge concentrated in palace and temple; commoner education oral and practical; knowledge stock preserved in codices and oral tradition; distribution narrow.<br><br>
-__Obsolescence & Knowledge Decay:__ Earlier Preclassic knowledge largely retained; no major paradigm displacement within window; risk of decay tied to dynastic collapse and codex loss; by window's end, some centers losing scribal continuity.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Maize god creation narrative central; ancestral kings link living dynasty to cosmic origin; stelae and temples materialize collective memory; ethnic identity tied to polity and lineage; foundational identity stable.<br><br>
-__Artistic Expression & Material Culture:__ Carved stelae, painted murals (Bonampak), polychrome ceramics, jade mosaic masks; calligraphic refinement peaks mid-window; architecture monumental; aesthetic conventions shared across region with local variation.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite confidence expressed in monument proliferation; commoner mood sparsely attested; anxiety may rise with warfare and drought; behavioral temper oriented to calendrical obligation and hierarchical deference.<br><br>
-__Form Exhaustion & Meaning Decay:__ Formulaic inscription conventions intensify; some stylistic repetition; meaning remains potent through window but reliance on spectacle may indicate thinning substance beneath display; no overt form exhaustion yet.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Three-tiered cosmos (sky, earth, underworld); cyclical time; human sacrifice feeds divine order; existential stance is piety bound to calendrical duty; fatalism regarding cosmic cycle, activism regarding ritual obligation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Bloodletting by royals; human sacrifice of captives; ballgame as cosmic reenactment; period-ending ceremonies; daily offerings at household shrines; ritual life intensive and calendrically structured.<br><br>
-__Religious Institutions & Doctrinal Authority:__ King is chief priest; temple priesthoods manage cult sites; no autonomous clerical hierarchy; doctrine transmitted orally and through scribal training; orthodoxy enforced by royal patronage.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Shared pan-Maya cosmology; regional deities and cults; no major external religious influence within window; syncretism internal among polities; dominant cosmology stable and expanding with monument production.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing drift attested; sacred canopy intact; spiritual authority reinforced by inscription and ritual; by window's end, increasing warfare and stress may fray cosmic confidence, but disenchantment not yet visible in record.<br><br>
+# __550 CE – 800 CE — Late Classic Maya Florescence__
+
+__Summary:__ The Maya lowlands at their apex, when dozens of competing kingdoms sustain the densest populations, most elaborate monumental architecture, and most prolific hieroglyphic record production in pre-Columbian America — a florescence whose binding constraint is the intensive agricultural system that feeds it, already pressing its ecological ceiling as inter-polity warfare intensifies and the elite scribal apparatus expands to legitimate an increasingly competitive political order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The southern Maya lowlands occupy the Peten basin and adjacent zones of modern Guatemala, Belize, and southern Mexico — a limestone platform covered by seasonal tropical forest, dissected by seasonal rivers (Usumacinta, Pasion, Belize) and punctuated by bajo wetlands that flood in the wet season but hold water poorly in the dry. Travel occurs along rivers and overland causeways (sacbeob); the forest imposes friction sufficient to prevent any single polity from consolidating the region, instead fragmenting it into dozens of autonomous kingdoms within a few days' march of one another. Obsidian, jade, and cacao require long-distance exchange from highland Guatemala, the Motagua Valley, and Pacific coastal zones respectively.
+
+__Climate Regime & Volatility:__ The monsoon regime delivers 1,500–3,000 mm of annual rainfall concentrated in a May–December wet season, followed by a pronounced dry season when surface water becomes scarce. Interannual variability is significant; multi-year droughts appear in paleoclimate records (lake sediment and speleothem proxies) and correlate with political crises. The period 550–800 CE includes both favorable decades and drought episodes, with climate volatility tightening the margin between surplus and subsistence.
+
+__Hazard Regime & Exposure:__ Hurricane tracks occasionally penetrate the interior, damaging crops and structures. Volcanic eruptions in highland Guatemala deposit ash regionally. Localized flooding affects bajo margins. Fire risk in dry season constrains storage of perishables and bark-paper manuscripts. Hazard exposure is moderate but sufficient to stress a system operating near capacity.
+
+__Resource & Energy Endowment:__ Limestone is abundant for construction and lime plaster production (itself fuel-intensive). Flint nodules provide local tool stone. Obsidian must be imported from highland sources (Ixtepeque, El Chayal). Timber and thatch are locally available but under pressure from construction and fuel demand. Agricultural soils are thin over limestone bedrock, requiring careful management.
+
+__Waste Absorption & Sink Capacity:__ Deforestation for fuel, construction, and field clearance accumulates through the period; soil erosion deposits sediment in bajos and lakes. Lime production for plaster consumes enormous quantities of firewood, accelerating forest degradation. The system's waste load is approaching the point where degraded soils and thinned forests reduce agricultural returns — a slow-motion feedback not yet catastrophic but visibly accumulating.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic tropical diseases (intestinal parasites, malaria in some zones) impose a background mortality load. Dense populations in urban cores concentrate waste and increase disease transmission. Skeletal evidence shows moderate but not catastrophic pathogen burden; mortality concentrates in infancy and early childhood. No catastrophic epidemics are recorded, though localized outbreaks likely occurred.
+
+__Nutrition & Physiological Vitality:__ Maize, beans, and squash provide the dietary staple, supplemented by deer, turkey, fish, cacao, and a range of cultivated and wild plants. Skeletal analysis shows adequate nutrition for most of the population, with some evidence of periodic stress (enamel hypoplasias) reflecting seasonal or drought-related shortfalls. Elites display better nutritional status than commoners.
+
+__Care, Healing & Recovery Capacity:__ Healing knowledge resides with specialists versed in herbal pharmacopoeia and ritual treatment. Elite tombs contain medicinal plants and healer's kits. Recovery capacity is household- and lineage-based, with no evidence of institutional medical provision. The capacity is adequate for endemic conditions but limited against epidemic or mass-casualty events.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns are alliance-forming among elite lineages, documented in hieroglyphic texts recording royal marriages between polities. Commoner pairing is less visible but presumably household-based. Elite polygyny is attested. Reproductive biology operates within normal tropical parameters.
+
+__Demographic Renewal & Density:__ Population peaks during this period; estimates for major centers reach tens of thousands (Tikal, Calakmul, Copan), with regional populations in the low millions. Settlement surveys show densities of 200–500 persons per square kilometer in urban cores, unprecedented in pre-Columbian America. This density presses the carrying capacity and requires ever-more-intensive agriculture.
+
+__Attrition & Dependency Overhang:__ The age structure skews young; life expectancy at birth is perhaps 25–30 years. The productive cohort supports a significant child-dependent load. Elite longevity appears somewhat greater. The system regenerates adequately but carries no surplus capacity against sustained demographic shock.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Swidden (slash-and-burn) agriculture forms the base, supplemented by intensive methods: terracing on hillslopes, raised fields in bajos, household gardens (solares), managed forest groves of ramon (breadnut), cacao, and other tree crops. The provisioning floor is adequate in good years but tight; the system requires continuous expansion of cleared land or intensification, both approaching limits.
+
+__Energy Capture & Conversion:__ Human muscle provides the primary motive power; there are no draft animals. Fire (wood fuel) drives cooking, lime production, and ceramic firing. The energy budget is constrained by the labor available and the diminishing wood supply as forests thin. No technological breakthrough lifts the work ceiling.
+
+__Labor Organization & Coercion:__ Commoner households owe labor tribute to lords for construction, agriculture, and warfare. Corvee mobilizes thousands for pyramid and palace construction. Captive labor from warfare supplements the workforce; high-status captives are sacrificed rather than worked. The labor relation mixes tribute obligation with redistribution through feasting and ceremony.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports a substantial non-producing elite: rulers, nobles, priests, scribes, artisans, warriors. Ceramic production, textile weaving, and craft specialization flourish. Surplus is adequate for monumental construction but fully committed; little slack remains. The system is at or near its productive ceiling.
+
+__Storage, Reserves & Buffering:__ Maize stores in household and palace granaries; cacao beans serve as a portable value store. Elite reserves provide some buffer against single-year shortfalls. Multi-year drought would exhaust reserves. The buffering capacity is thin relative to the population load.
+
+__Exchange, Trade & Logistics:__ Long-distance trade networks bring obsidian, jade, Spondylus shell, quetzal feathers, and cacao to lowland centers. Trade moves by canoe along rivers and by porter along overland routes. Markets exist but their scale and regularity are debated. Tribute flows from subordinate centers to capitals. External dependence on highland obsidian and jade creates vulnerability to disruption.
+
+__Value Storage, Credit & Deferred Exchange:__ Cacao beans and jade serve as value stores; no coinage exists. Tribute obligations encode deferred extraction. Elite gift exchange binds polities and lineages in reciprocal debt. Credit in the modern sense is absent.
+
+__Surplus Extraction & Redistribution:__ Tribute in labor and goods flows to royal courts, redistributed through feasting, ritual, and construction wages. Extraction is heavy but legitimated by cosmological obligation and spectacle. The elite share of surplus is large; commoner margins are narrow.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in royal and noble lineages. Elite compounds display exotic imports and elaborate craft goods. Commoners retain household goods, garden plots, and local exchange access. Social mobility is limited. Elite wealth is defended by lineage solidarity and coercive capacity.
+
+__Byproducts & Waste Routing:__ Organic waste recycles through household gardens. Construction debris accumulates at site margins. Deforestation and soil erosion represent unrouted environmental waste. No financial mispricing accumulates in the absence of monetary abstraction.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal descent predominates among elites; royal succession passes through males, though women transmit legitimacy and elite women marry across polities to cement alliances. Commoner kinship is less documented but presumably bilateral with patrilocal residence. Inheritance of land and goods follows lineage lines.
+
+__Association & Mutual Aid:__ Craft guilds and occupational specializations cluster in wards. Lineage groups provide mutual aid. Commoner communities owe collective tribute but retain internal solidarity. The fabric is dense within polities but fractured between them.
+
+__Leisure, Play & Sociability:__ The ballgame (pitz) serves as ritual, spectacle, and diplomatic arena; ball courts anchor public space at every major center. Feasting, music, and dance mark calendrical rituals. Elite sociability centers on court life; commoner sociability is household- and ward-based.
+
+__Stratification, Status & Group Structure:__ A sharp elite/commoner divide structures society. The royal household (ajaw and sajal lords, royal kin, attached specialists) stands atop noble lineages, who dominate commoner farmers and laborers. Captives and slaves form the lowest tier. Boundaries are hereditary and rigid; upward mobility is rare.
+
+__Administrative Capacity & Institutional Integrity:__ The k'uhul ajaw (divine lord) rules each polity through a palace bureaucracy of scribes, stewards, and tribute collectors. Emblem glyphs mark polity identity. Administrative reach extends to subordinate centers (under sajal lords) but rarely beyond a few days' march. Inter-polity relations are managed through diplomacy, marriage, alliance, and warfare — no overarching administrative structure unites the region.
+
+__Coercive Apparatus & Means of Force:__ Each polity fields a warrior force under noble leadership. Warfare is frequent, ritualized, and aims at captive-taking for sacrifice and tribute extraction rather than territorial annihilation. Elite warriors bear obsidian-edged clubs, spears, and shields. Fortifications appear at some sites. The coercive balance is roughly even among major powers, preventing regional consolidation.
+
+__Discharge, Disorder & Decay:__ Warfare intensifies through the period, disrupting agriculture and trade. Factional conflict within polities occasionally surfaces in the inscriptions. The system's equilibrium depends on a rough balance of power; any destabilization cascades into disorder. The apparatus shows signs of strain but has not yet collapsed.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Elite confidence is high; monuments proclaim victory, divine descent, and cosmic centrality. Commoner sentiment is harder to read but participation in monumental construction and ritual spectacle suggests at least acquiescence. Trust extends within lineages and polities; inter-polity relations are competitive and suspicious.
+
+__Leadership & Personal Authority:__ The k'uhul ajaw (divine lord) embodies the polity, depicted in hieroglyphic texts and monumental art performing rituals, receiving tribute, and defeating enemies. Personal charisma, military success, and ritual efficacy ground authority. Weak or defeated rulers lose legitimacy rapidly.
+
+__Legitimacy as Lived Allegiance:__ Legitimacy derives from cosmological performance: the ruler as axis mundi, mediator between human and divine realms, guarantor of rain and harvest. This is lived allegiance, enacted in public ritual rather than merely claimed. The system requires continuous performance; legitimacy erodes if rains fail or wars are lost.
+
+__Political Will & Collective Resolve:__ Collective will mobilizes for monumental construction and warfare. The ruling lineage coheres around succession, though contested accessions appear in the record. Will is directed outward against rival polities; internal mobilization depends on external threat and ritual occasion.
+
+__External Relations & Posture:__ Inter-polity relations oscillate between alliance (often sealed by marriage) and warfare. Hegemonic ambitions (Tikal, Calakmul) seek regional dominance without achieving permanent consolidation. Tribute relationships mark subordination; contested borderlands generate chronic conflict. No external power threatens the region in this period.
+
+__Disaffection, Apathy & Spent Will:__ No clear evidence of mass disaffection appears in this period, though intensifying warfare and agricultural stress may generate unrecorded discontent. The system's emotional reserves appear adequate — for now.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ The elite possess a fully developed logosyllabic script capable of recording any utterance in the Maya languages. Literacy is restricted to trained scribes (aj tz'ib) attached to royal courts; commoners are illiterate. The scribal class is small — perhaps a few hundred across all polities — but the script's expressive capacity is complete.
+
+__Channels & Transmission Velocity:__ Oral proclamation carries messages within polities; runners and diplomatic envoys carry messages between polities. Inscriptions on public monuments broadcast elite ideology to illiterate audiences who understand the imagery if not the glyphs. The channel is slow — days to weeks between centers — but adequate for the political timescale.
+
+__Record, Storage & Persistence:__ Hieroglyphic texts on stone monuments, stucco facades, painted ceramics, and carved bones persist for centuries. Screenfold books (codices) on bark paper (huun) are produced for calendrical, divinatory, and historical purposes; none survive from this period, though Colonial-era copies attest to their existence. Archives presumably existed in palaces; their contents are lost. The monumental record survives; the perishable record does not.
+
+__Framing, Censorship & Discourse Norms:__ Monumental texts glorify rulers and suppress failure; defeats are rarely recorded. Court scribes control the frame. Discourse norms privilege royal agency, cosmological regularity, and dynastic continuity. Alternative voices are absent from the surviving record.
+
+__Reception, Attention & Amplification:__ Public monuments are placed in plazas for collective viewing during rituals. Repeated ceremonies amplify the message. Elite ceramics circulate within the noble stratum. The audience is captive and attentive during ritual; attention outside these contexts is harder to sustain.
+
+__Signal Integrity & Noise Load:__ The scribal tradition maintains high fidelity; texts are carefully composed and executed. Copying errors exist but are rare. The main noise source is physical destruction: burning, vandalism by rival polities, and weathering. Signal integrity is high within the surviving corpus.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Justice is hierarchical: obligations flow upward as tribute and downward as protection and redistribution. Reciprocity governs elite exchange. Cosmological order requires human sacrifice to repay divine gifts and sustain the universe. This is not arbitrary cruelty but obligatory maintenance of cosmic balance.
+
+__Law, Codification & Regulatory Evolution:__ Codified law in the modern sense is absent. Custom and ruler's edict govern conduct. Elite disputes may be adjudicated by paramount lords. Commoner disputes are presumably handled by local authorities. No written law codes survive.
+
+__Adjudication, Liability & Sanction:__ The ruler holds ultimate judicial authority. Sanctions include sacrifice of high-status captives, execution, and presumably lesser punishments. Evidence for routine adjudication is thin. The system relies on hierarchy and custom rather than codified procedure.
+
+__Rights, Protections & Compliance Burden:__ Commoners bear heavy tribute and corvee obligations. No formal rights limit extraction, though customary expectations constrain it. Elite rights derive from lineage and office. The compliance burden is high but accepted as cosmologically necessary.
+
+__Impunity & Unredressed Wrong:__ Elite impunity is substantial; rulers' actions are above challenge. Wronged commoners have little recourse. Inter-polity wrongs (defeat, captive-taking) are not redressed but avenged. The gap between justice owed and delivered is wide but not perceived as such within the cosmological frame.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Astronomical observation reaches high sophistication: eclipse prediction, Venus cycles, lunar series calculations appear in inscriptions. Mathematics employs a vigesimal (base-20) positional system with a true zero. The Long Count calendar anchors historical chronology. Inquiry is oriented toward divinatory and calendrical ends rather than naturalistic explanation.
+
+__Applied Knowledge & Technical Method:__ Architectural technique produces stable corbel-vaulted masonry structures of enormous scale. Hydraulic engineering manages water through reservoirs, canals, and terracing. Agricultural intensification applies accumulated knowledge of soils, seasons, and crop management. Scribal technique produces durable polychrome manuscripts and carved inscriptions.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal training occurs in palace contexts, likely within elite lineages. The knowledge stock — calendrical, astronomical, ritual, historical — accumulates in codices and the trained memories of specialists. Skill distribution is narrow; literacy and numeracy are elite monopolies. Craft knowledge (masonry, ceramics, weaving) transmits through apprenticeship.
+
+__Obsolescence & Knowledge Decay:__ Earlier inscriptions are occasionally copied or cited; the tradition is cumulative. Some sites show erasure or alteration of earlier texts for political reasons. The main risk is loss of perishable codices and death of trained specialists — a risk that will materialize in the collapse.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Creation narratives (later recorded in the Popol Vuh) ground Maya identity in a cyclical cosmos of creation and destruction. Dynastic histories trace royal lineages to mythic ancestors and patron deities. Memory anchors in monumental inscriptions and oral tradition. Identity is polity-specific (Tikal, Copan, etc.) but shares a common Maya cultural substrate.
+
+__Legitimating Narrative & Ideology:__ Royal ideology presents the k'uhul ajaw as divine mediator, descended from gods, responsible for cosmic maintenance. Military victory demonstrates divine favor. Hieroglyphic monuments narrate this legitimating story in stone. The narrative is totalizing; alternative ideologies are invisible in the record.
+
+__Artistic Expression & Material Culture:__ Polychrome ceramics depict mythic scenes, courtly life, and supernatural beings. Carved stelae and lintels display rulers in elaborate regalia. Jade mosaic masks, featherwork, and painted murals (Bonampak) represent the apex of Mesoamerican visual culture. The style is baroque in its elaboration and symbolically dense.
+
+__Form Exhaustion & Meaning Decay:__ The forms are at their peak, not exhausted. Stylistic elaboration intensifies through the period. If anything, the proliferation of monuments suggests competitive escalation rather than staleness. Form exhaustion will come only with the collapse.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos is a three-tiered structure: celestial realm, earthly plane, underworld (Xibalba). Time is cyclical, marked by calendrical periods requiring specific rituals. Humans owe a debt to the gods repaid through sacrifice. The existential outlook is pious and obligatory rather than fatalistic; correct performance ensures cosmic continuity.
+
+__Ritual, Devotion & Sacred Practice:__ Royal bloodletting, human sacrifice of captives, offerings of incense, food, and precious objects mark the ritual calendar. Period-ending ceremonies (katun endings, especially) require elaborate observance. Commoner devotion is less visible but presumably involves household shrines and participation in public rituals.
+
+__Religious Institutions & Doctrinal Authority:__ The ruler is the chief priest; specialized priesthood exists but is subordinate to royal authority. Temples atop pyramids house cult images and receive offerings. Doctrinal authority resides in the scribal-priestly class that maintains calendrical and ritual knowledge. Orthodoxy is polity-specific; no pan-Maya religious institution exists.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Maya religion is stable within the region; external influence (from Teotihuacan, earlier) has been absorbed. No competing cosmology challenges the prevailing system. Syncretism is internal, blending local patron cults with shared Maya deities.
+
+__Disenchantment & Sacred Discharge:__ No disenchantment is visible. The sacred is fully operational, enacted in every monument and ritual. The period represents the high point of Maya religious elaboration. Disenchantment will arrive only when the system fails to deliver — when rains do not come and wars are lost.

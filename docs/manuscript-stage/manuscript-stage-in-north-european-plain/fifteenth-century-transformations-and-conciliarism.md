@@ -1,69 +1,139 @@
-# __1400 CE – 1450 CE__ — Fifteenth Century Transformations and Conciliarism
-__Summary:__ The North European Plain enters a period of institutional renegotiation as the Great Schism ends through conciliar action at Constance (1414–1418), the Hussite Wars destabilize Bohemia and its neighbors, and the Teutonic Order suffers decisive defeat at Tannenberg (1410). Territorial princes consolidate power while Hanseatic dominance begins eroding under English and Dutch competition. The binding constraint is political fragmentation limiting coordinated response to challenges. Margins against shock are moderate as populations slowly recover. Direction is toward territorial consolidation, ecclesiastical reform, and the first stirrings of humanist learning.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor remains the primary axis; river systems (Rhine, Elbe, Oder, Vistula) carry bulk goods; Baltic coastal routes sustain Hanseatic trade; no significant changes to chokepoints or transit friction.<br><br>
-__Climate Regime & Volatility:__ Cooling trend continues; the Little Ice Age begins settling in; growing seasons contract slightly in northern margins; interannual variability moderate; agricultural communities adapt through crop selection.<br><br>
-__Hazard Regime & Exposure:__ Storm surges periodically affect North Sea and Baltic coasts; St. Elizabeth's flood (1421) devastates parts of the Netherlands; flood risk elevated in Low Countries; no seismic or volcanic events; exposure remains moderate overall.<br><br>
-__Resource & Energy Endowment:__ Timber, grain, fish, and salt remain abundant; Saxon and Bohemian silver mines productive; peat extraction continues in the Netherlands; the resource base is ample for slowly recovering populations.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban populations still below pre-plague levels; waste production moderate; rivers and soil absorb effluent; localized pollution around tanneries and dye-works; sinks hold substantial remaining capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Plague recurs in waves (1400–1401, 1410–1411, 1420s, 1430s) maintaining elevated baseline mortality; endemic diseases persist; death rates above pre-1348 levels but below crisis peaks; the trend is toward gradual stabilization.<br><br>
-__Nutrition & Physiological Vitality:__ Per-capita food availability remains high; meat consumption elevated; nutritional status of survivors good; evidence suggests maintained or modestly improving stature; vitality stable at post-plague improved levels.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage ages remain lower than pre-plague norms; fertility elevated as households continue rebuilding; widows and widowers remarry; reproductive pressures favor continued population growth.<br><br>
-__Demographic Renewal & Density:__ Population slowly recovers but remains well below 1340 peaks; urban densities increasing gradually; some abandoned villages reoccupied; age structure normalizing; renewal positive but slow.<br><br>
-__Attrition & Dependency Overhang:__ Orphan and widow populations sustained by recurring plague waves; monastic and urban charitable institutions manage dependency; labor demand absorbs marginal workers; dependency load manageable relative to productive capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Per-capita food availability remains high; agricultural productivity stable; pastoral farming continues expansion; subsistence margins comfortable for most survivors.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain primary; watermills and windmills widespread in milling and drainage; efficiency stable; per-capita work ceiling effectively elevated by continued labor scarcity.<br><br>
-__Labor Organization & Coercion:__ Labor scarcity persists; wages remain elevated; serfdom continues weakening in western regions; eastern territories begin tightening peasant restrictions (early Gutsherrschaft); guild control over urban crafts strengthens; coercion levels regionally variable.<br><br>
-__Production & Surplus Capacity:__ Total output rising slowly with population; per-capita surplus remains high; cloth production in Flanders faces English competition; Baltic grain trade stable; Hanseatic aggregate volumes plateau.<br><br>
-__Storage, Reserves & Buffering:__ Town granaries and merchant warehouses maintained; Hanseatic coordination provides supply reliability; credit networks functional; reserves adequate for normal fluctuations.<br><br>
-__Exchange, Trade & Logistics:__ Hanseatic system remains dominant but challenges emerge; English cloth exports and Dutch shipping compete; kontor privileges under pressure; internal Baltic trade stable; logistics infrastructure maintained but not expanding.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver coinage stable; banking techniques from Italy spread slowly northward; Hanseatic merchants use bills of exchange and book credit; paper spreads for commercial records; debasement minimal; purchasing power holds.<br><br>
-__Surplus Extraction & Redistribution:__ Territorial princes consolidate fiscal systems; urban tolls and Hanseatic levies sustain infrastructure; ecclesiastical revenues stable; extraction rates moderate as political fragmentation limits central appropriation.<br><br>
-__Wealth Distribution & Asset Defense:__ Merchant dynasties and territorial princes accumulate; guild membership protects artisan positions; landed nobility defend estates through legal and political means; inequality stable within post-plague configuration.<br><br>
-__Byproducts & Waste Routing:__ Industrial byproducts moderate; urban waste dispersed via rivers and middens; cloth and leather production generates localized pollution; routing unchanged; loads remain within sink capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Guild and confraternity networks remain strong; urban communities consolidated; plague recurrences strain but do not break social bonds; trust radius stable within occupational and neighborhood frameworks.<br><br>
-__Stratification, Status & Group Identity:__ Urban patriciate, guild masters, and common folk constitute stable hierarchy; Jewish communities face periodic persecution (Hussite-era violence spreads); regional and confessional identities sharpen; boundaries maintained.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family norm persists; inheritance customs stable; household formation continues at earlier ages; kin networks remain primary safety net; kinship structures unchanged.<br><br>
-__Civic Association & Self-Organization:__ Guilds maintain political influence in towns; confraternities proliferate; Hanseatic diets continue coordination; urban councils balance patrician and guild representation; associational fabric stable.<br><br>
-__Leisure, Play & Sociability:__ Festivals, fairs, and carnival traditions continue; guild celebrations structure urban leisure; pilgrimage remains popular; sociability patterns stable within established forms.<br><br>
-__Grievance Channels & Social Discharge:__ Guild arbitration and urban courts absorb disputes; periodic anti-Jewish violence and artisan unrest; Hussite ideas generate some heterodox sympathy; most grievance channeled institutionally; standing instability moderate.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial authority weak under Sigismund; territorial princes (Brandenburg Hohenzollerns from 1415, Saxon Wettins, Burgundian expansion in the Netherlands) consolidate; Hanseatic cities maintain autonomy; power fragmenting into territorial blocs.<br><br>
-__Succession & Power Transfer:__ Golden Bull procedures govern imperial elections; princely successions follow dynastic rules with occasional conflicts; urban councils renew by cooptation; transfers largely routinized but some contested successions occur.<br><br>
-__Legitimacy & Political Narrative:__ Imperial ideology persists symbolically; conciliarism challenges papal supremacy briefly; territorial princes claim administrative necessity; Hussite challenge to religious authority destabilizes Bohemia; legitimacy narratives under strain but holding.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Territorial chanceries expand record-keeping; town councils maintain archives; Hanseatic correspondence networks functional; paper adoption facilitates documentation; administrative capacity growing steadily.<br><br>
-__Political Participation & Mobilization:__ Guild representation in towns stable; territorial estates (Landtage) emerge; Hussite movement demonstrates popular mobilization potential; channels moderately open but not expanding significantly.<br><br>
-__Geopolitical Position & External Relations:__ Tannenberg (1410) marks Teutonic Order decline; Poland-Lithuania ascendant in the east; Burgundy expands in the west; Hussite Wars destabilize Bohemia; external pressures mount but no existential threats materialize.<br><br>
-__Coercive Apparatus & Means of Force:__ Territorial princes maintain small professional forces; urban militias defend towns; Hussite wagon tactics demonstrate infantry innovations; gunpowder weapons (bombards, handguns) spreading; force capacity dispersed but improving technically.<br><br>
-__Internal Order & Threat Environment:__ Banditry moderate; Hussite raiding affects Saxony and Brandenburg; urban crime controlled; no major rebellions within the plain itself; disorder elevated by Hussite spillover but within enforcement capacity.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Hanseatic correspondence networks maintain commercial communication; diplomatic couriers connect courts; university networks transmit scholarly information; velocity stable by pre-print standards; reach adequate for commercial and official purposes.<br><br>
-__Record, Storage & Persistence:__ Paper adoption accelerates; town archives, guild records, and territorial chanceries preserve documentation; university libraries accumulate texts; monastic copying continues; record survival improving with cheaper medium.<br><br>
-__Framing, Censorship & Discourse Norms:__ Latin remains scholarly standard; Middle Low German dominates Hanseatic commerce; vernacular expands in legal and devotional texts; Hussite ideas censored but circulate; discourse norms under modest strain from religious controversy.<br><br>
-__Reception, Attention & Amplification:__ Merchant networks amplify commercial news; university circles share scholarly developments; sermon and proclamation reach urban populations; Hussite pamphlets demonstrate vernacular potential; attention concentrated on practical and religious matters.<br><br>
-__Signal Integrity & Noise Load:__ Standardized commercial language maintains signal clarity; notarial verification supports contracts; religious controversy introduces competing claims; noise load rising modestly but verification capacity adequate.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian moral framework universal; guild ethics emphasize fair dealing; conciliar debates raise questions about ecclesiastical justice; foundational sense of right stable but ecclesiastical authority contested.<br><br>
-__Law, Codification & Regulatory Evolution:__ Lübeck and Magdeburg law families continue providing urban templates; territorial law codes compiled; Hanseatic recesses codify commercial practice; codification advancing; legal learning spreads through universities.<br><br>
-__Adjudication, Enforcement & Liability:__ Town courts handle commercial and criminal matters; guild courts settle craft disputes; territorial courts expand; ecclesiastical courts face conciliarist challenge; throughput adequate; enforcement reliable within jurisdictions.<br><br>
-__Rights, Protections & Compliance Burden:__ Burgher rights stable; guild membership protects artisans; territorial subjects have customary protections; compliance burden moderate; predictability maintained within established frameworks.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful families occasionally escape accountability; Hussite conflict generates unredressed violence; Jewish communities vulnerable to exceptional persecution; rural areas less well served; impunity exists at margins but system generally functions.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scholastic synthesis continues; nominalist-realist debates persist; conciliar ecclesiology developed at Constance; Hussite theology challenges orthodoxy; discovery frontier lies in theology, law, and emerging humanist philology.<br><br>
-__Applied Knowledge & Technical Method:__ Navigation, shipbuilding, and metallurgy advance incrementally; gunpowder weapons improve; paper-making techniques spread; Hussite military innovations (wagon tactics) demonstrate applied organization; practical technique accumulates.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universities proliferate (Leipzig 1409, Rostock 1419); cathedral and urban schools expand; literacy rising slowly among merchants, officials, and clergy; knowledge stock growing; distribution still limited to educated minority.<br><br>
-__Obsolescence & Knowledge Decay:__ Classical knowledge preserved and increasingly sought; humanism begins promoting textual recovery; vernacular practical knowledge transmitted through apprenticeship; decay rate low; error-clearing advancing in scholarly circles through textual criticism.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Plague trauma persists in collective memory; Hussite martyrdom (Hus burned 1415) creates new commemorative strain; town foundation myths and guild traditions consolidate; regional identities sharpening.<br><br>
-__Artistic Expression & Material Culture:__ Late Gothic architecture continues; Brick Gothic persists in Hanseatic towns; panel painting develops (Master Francke); sculpture and metalwork refined; material culture reflects urban prosperity and pious patronage.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-plague pragmatism continues; religious anxiety heightened by schism and Hussite challenge; cautious optimism as recovery proceeds; mood mixed between reform hopes and apocalyptic fears.<br><br>
-__Form Exhaustion & Meaning Decay:__ Gothic forms remain vital but refinement suggests maturity; religious imagery retains power; plague iconography (Dance of Death, Ars moriendi) proliferates; some forms approaching exhaustion but cultural production remains vigorous.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology universal; Great Schism resolved at Constance restores papal unity; Hussite challenge raises fundamental questions about authority and practice; piety intensifies among orthodox and reform movements alike; secularism not visible.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, confession, pilgrimage, and relic veneration continue; confraternity devotions thrive; Devotio Moderna spreads from the Netherlands emphasizing personal piety and practical devotion; Hussite communion in both kinds marks liturgical innovation; devotional intensity high.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Papal authority restored but weakened by conciliar challenge; Council of Basel (1431–1449) continues reform debates; bishops and monasteries maintain local power; mendicant orders active; doctrinal authority contested between papal and conciliar claims.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity unchallenged within the region; Hussite ideas spread into Saxony and Brandenburg despite suppression; Devotio Moderna diffuses from Netherlands; no displacement; internal differentiation increasing.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment visible; religious controversy reinforces rather than erodes engagement with sacred questions; reform movements seek deeper enchantment; existential need fully anchored; spiritual discharge minimal.
+# __1400 CE – 1450 CE — Fifteenth Century Transformations and Conciliarism__
+
+__Summary:__ The first half of the fifteenth century on the North European Plain witnessed the slow healing of demographic wounds, the weakening of the Hanseatic League as territorial states and Dutch competition eroded its monopoly, and the dramatic challenge of conciliarism and the Hussite revolt to ecclesiastical authority, with the documentary apparatus of church councils, royal chanceries, and urban archives becoming the arena where legitimacy was contested and the binding constraint on political and religious order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The plain's river systems—Rhine, Elbe, Oder, Vistula—remained the arteries of commerce, but territorial fragmentation multiplied toll stations and transit costs; forest regrowth on abandoned lands had stabilized, and colonization in the east resumed cautiously.
+
+__Climate Regime & Volatility:__ Cool, variable conditions persisted; grain yields remained lower than the thirteenth-century peak; localized crop failures occurred but population recovery meant per-capita supply stayed adequate.
+
+__Hazard Regime & Exposure:__ Plague recurred in 1400–1401, 1420s, and 1430s but with diminishing mortality; coastal flooding threatened the Low Countries; the Hussite Wars devastated Bohemia and neighboring regions.
+
+__Resource & Energy Endowment:__ Central European silver mines (Kutna Hora, Saxon Erzgebirge) expanded output, fueling monetary circulation; Baltic timber and grain flowed westward; fish stocks held but Scanian herring began to decline.
+
+__Waste Absorption & Sink Capacity:__ Gradual population recovery increased pressure on urban sanitation; mining operations polluted streams locally; overall, sink capacity remained adequate for the still-reduced population.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Plague remained endemic but less catastrophic; smallpox, typhus, and dysentery took steady tolls; urban crowding in recovering towns increased transmission risk; overall mortality rates declined toward pre-plague norms.
+
+__Nutrition & Physiological Vitality:__ Diet remained relatively favorable—meat consumption stayed high, grain was adequate—though eastern peasants under tightening serfdom saw conditions worsen; urban populations generally maintained improved nutritional status.
+
+__Care, Healing & Recovery Capacity:__ Hospitals and charitable foundations served the poor and sick; medical faculties at Prague and new universities trained physicians in Galenic theory; practical care remained folk- and church-based.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage ages remained relatively low; fertility among survivors filled demographic gaps; remarriage upon spousal death stayed common; population growth resumed, though slowly.
+
+__Demographic Renewal & Density:__ Population began recovering toward 1300 levels but remained well below; eastern colonization zones refilled slowly; urban populations grew as trade recovered; density remained below carrying capacity.
+
+__Attrition & Dependency Overhang:__ Balanced age structures emerged as post-plague cohorts matured; orphan and widow burdens eased; monastic and guild institutions absorbed the dependent load.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Recovery lifted peasant conditions in the west, where commutation of services continued; in the east, lords tightened controls, beginning the "second serfdom"; towns were provisioned through Hanseatic networks.
+
+__Energy Capture & Conversion:__ Watermill and windmill infrastructure expanded; mining operations used water-powered pumps and bellows; human and animal labor remained primary; no breakthrough in energy conversion occurred.
+
+__Labor Organization & Coercion:__ Divergence sharpened: western peasants gained freedom and wage labor expanded; eastern lords imposed stricter serfdom; urban guilds regulated craft labor; journeymen organized informally, occasionally striking.
+
+__Production & Surplus Capacity:__ Agricultural output recovered with population; textile production (Flemish cloth, linen) continued; metallurgy expanded with silver and copper mining; surplus accumulated in towns and among territorial princes.
+
+__Storage, Reserves & Buffering:__ Town granaries and merchant warehouses held adequate reserves; credit networks linked Hanseatic factors; princely treasuries grew as territorial consolidation increased tax bases; debt remained manageable.
+
+__Exchange, Trade & Logistics:__ Hanseatic trade continued but faced challenges: Dutch competition bypassed Bruges; Sound tolls enriched Denmark; territorial states imposed restrictions; overland routes shifted as Hussite Wars disrupted Bohemian transit.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver currency stabilized as mines produced; letters of exchange circulated; banking practices spread from Italy; credit instruments became more sophisticated; coinage remained regionally fragmented.
+
+__Surplus Extraction & Redistribution:__ Territorial princes expanded fiscal capacity; the Teutonic Order extracted heavily from Prussia; ecclesiastical revenues were contested as reformers criticized simony and pluralism; urban taxes funded walls, militias, and civic projects.
+
+__Wealth Distribution & Asset Defense:__ Patrician families dominated Hanseatic cities; landed nobility consolidated estates in the east; guild restrictions limited mobility; sumptuary laws reinforced status; inequality widened in some regions.
+
+__Byproducts & Waste Routing:__ Mining slag accumulated; urban refuse and effluent increased with population; no systemic crisis, but local pollution worsened near mining and industrial sites.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Inheritance customs stabilized post-plague; partible inheritance fragmented western holdings; primogeniture preserved eastern estates; marriage alliances cemented patrician and noble power.
+
+__Association & Mutual Aid:__ Guilds regulated crafts and provided welfare; confraternities offered burial and prayer; Hanseatic merchant associations coordinated commerce; universities formed scholarly communities.
+
+__Leisure, Play & Sociability:__ Urban festivals, guild feasts, and carnival marked the social calendar; jousting and courtly culture entertained nobility; taverns and public baths served commoners.
+
+__Stratification, Status & Group Structure:__ Patrician oligarchies ruled towns; craft guilds formed a middle tier; journeymen and unskilled laborers occupied lower rungs; peasants ranged from free tenants in the west to enserfed cultivators in the east; Jews lived under increasingly precarious conditions.
+
+__Administrative Capacity & Institutional Integrity:__ Territorial princes built chanceries and employed trained jurists; the Teutonic Order's bureaucracy remained formidable until Tannenberg (1410) shattered its military prestige; town councils governed through written statutes; the imperial diet (Reichstag) met irregularly; corruption was endemic.
+
+__Coercive Apparatus & Means of Force:__ The Teutonic Order suffered catastrophic defeat at Tannenberg/Grunwald (1410), beginning its long decline; town militias and mercenary companies provided defense; Hussite wagon-fortress tactics revolutionized warfare; castle fortifications continued.
+
+__Discharge, Disorder & Decay:__ The Hussite Wars (1419–1436) devastated Bohemia and border regions; noble feuds persisted; urban unrest over guild privileges flared; banditry troubled weakly governed areas; pogroms continued sporadically.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ A cautious recovery mood prevailed; plague memory receded but fear of recurrence persisted; religious anxiety intensified around reform and heresy; trust extended within guild and town, less across confessional lines.
+
+__Leadership & Personal Authority:__ Emperor Sigismund (r. 1411–1437) sought to end schism and crush Hussites, achieving the former at Constance but failing at the latter; territorial princes consolidated power; Hussite leaders (Jan Zizka, Prokop the Great) commanded fervent loyalty.
+
+__Legitimacy as Lived Allegiance:__ Imperial authority was formal and weak; papal legitimacy fractured by schism, partially restored at Constance but challenged by conciliarism; territorial princes and town councils commanded practical allegiance; Hussite defiance showed the limits of imposed orthodoxy.
+
+__Political Will & Collective Resolve:__ Conciliarist clergy demonstrated collective resolve at Constance and Basel; Hussite Bohemia sustained war against crusades for seventeen years; the Hanseatic League's collective will weakened as member interests diverged.
+
+__External Relations & Posture:__ Poland-Lithuania emerged as a major power after Tannenberg; the Teutonic Order retreated to defensive posture; Denmark controlled the Sound; Burgundy rose in the west; the Ottoman advance in the Balkans drew distant concern.
+
+__Disaffection, Apathy & Spent Will:__ Hussite Wars exhausted all parties by the 1430s; crusade enthusiasm waned; reform fatigue set in after Basel's failure; disaffection with clerical corruption simmered.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Latin remained the language of church, law, and learning; German vernaculars dominated commerce, administration, and popular devotion; Czech emerged as a vehicle of Hussite identity; literacy spread among urban elites and merchants.
+
+__Channels & Transmission Velocity:__ Postal networks (nascent Thurn und Taxis system) improved; council proceedings circulated in manuscript; sermons and tracts spread reform ideas; news traveled with merchants and pilgrims.
+
+__Record, Storage & Persistence:__ Council acts at Constance and Basel generated vast documentation; royal and princely chanceries expanded archives; university libraries accumulated texts; paper increasingly replaced parchment, lowering costs.
+
+__Framing, Censorship & Discourse Norms:__ Church authorities condemned Hussite writings and burned Jan Hus (1415); censorship was attempted but porous; conciliar debates opened theological questions to wider circulation.
+
+__Reception, Attention & Amplification:__ Sermons in vernacular reached broad audiences; Hussite hymns and tracts mobilized Bohemian population; council decisions circulated slowly through ecclesiastical networks; popular reception was uneven.
+
+__Signal Integrity & Noise Load:__ Forgery and falsification remained concerns; conciliar authority contested papal claims; competing accounts of events proliferated; verification relied on seals, witnesses, and institutional credibility.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Christian moral framework persisted but reform demands challenged clerical corruption; Hussite emphasis on scriptural authority and communion in both kinds (utraquism) posed moral-theological challenge; justice was seen as divine and human, often unaligned.
+
+__Law, Codification & Regulatory Evolution:__ Conciliar decrees claimed authority over popes; territorial law codes expanded; the Compactata of Basel (1436) codified Hussite accommodations; guild regulations multiplied.
+
+__Adjudication, Liability & Sanction:__ Church courts handled heresy with burning as ultimate sanction (Hus, Jerome of Prague); secular courts judged crimes; blood feuds persisted among nobility; sanctions ranged from fines to death.
+
+__Rights, Protections & Compliance Burden:__ Burghers held chartered rights; Hussite demands included lay communion—a claim to spiritual rights; peasants' customary protections eroded in the east; compliance burdens increased with expanding regulation.
+
+__Impunity & Unredressed Wrong:__ Sigismund's betrayal of his safe-conduct for Hus became a rallying grievance; clerical abuses went largely unpunished despite conciliar rhetoric; noble violence often escaped sanction; Jewish communities suffered pogroms with minimal redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scholasticism remained dominant but nominalism spread; conciliarism proposed constitutional limits on papal monarchy; humanist currents from Italy began reaching northern universities; natural philosophy stayed Aristotelian.
+
+__Applied Knowledge & Technical Method:__ Mining technology advanced (drainage, ventilation); gunpowder weapons evolved; Hussite wagon-fortress tactics demonstrated tactical innovation; shipbuilding refined for Baltic conditions; clockmaking improved.
+
+__Education, Knowledge Stock & Skill Distribution:__ Universities multiplied (Leipzig 1409, Rostock 1419); Prague's university fragmented along national lines; cathedral schools trained clergy; guild apprenticeships transmitted craft skills; literacy spread among urban elites.
+
+__Obsolescence & Knowledge Decay:__ Classical texts recovered through Italian humanism; some scholastic debates seemed increasingly sterile; practical knowledge of abandoned lands and techniques remained lost.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Hussite movement forged Czech national consciousness around martyrdom of Hus and religious distinctiveness; German towns cultivated civic identities; imperial ideology claimed continuity with Rome; plague memory faded slowly.
+
+__Legitimating Narrative & Ideology:__ Conciliarism argued that councils held authority over popes, challenging papal monarchy; Hussite theology grounded resistance in scripture; territorial princes claimed divine sanction for their rule; Hanseatic ideology emphasized mutual benefit.
+
+__Artistic Expression & Material Culture:__ Late Gothic architecture flourished (Brick Gothic in the north, Parler school in Prague); devotional art emphasized Christ's suffering and Marian tenderness; Hussite iconoclasm destroyed images in Bohemia; manuscript illumination continued at high quality.
+
+__Form Exhaustion & Meaning Decay:__ Gothic forms persisted but innovation slowed; courtly literature recycled conventions; Hussite destruction of images marked iconographic rupture rather than exhaustion; new forms (vernacular hymns, reform tracts) emerged.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Christian cosmology framed existence; Hussite reform demanded return to apostolic purity; conciliarism sought institutional renewal within orthodoxy; apocalyptic currents flowed through Taborite radicalism; doubt and anticlericalism simmered.
+
+__Ritual, Devotion & Sacred Practice:__ Hussite utraquism (communion in both kinds) became a defining practice; Catholic ritual continued elsewhere; flagellant movements faded; pilgrimage and Marian devotion persisted; Devotio Moderna spread from the Low Countries.
+
+__Religious Institutions & Doctrinal Authority:__ The Great Schism ended at Constance (1417) with election of Martin V; Basel council challenged papal restoration of authority; Hussite church organized outside Roman communion; monasteries declined in some regions; mendicant orders served urban populations.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Hussitism confined to Bohemia and Moravia; orthodoxy held elsewhere; no significant syncretism; Eastern Orthodox Christianity distant; Islam a threat on the Balkan frontier but not present on the plain.
+
+__Disenchantment & Sacred Discharge:__ Conciliar failure at Basel and papal reassertion left reform aspirations unfulfilled; clerical corruption continued to erode institutional credibility; popular piety intensified as compensation; anticlericalism prepared the ground for later upheaval.

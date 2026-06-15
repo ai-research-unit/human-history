@@ -1,69 +1,140 @@
-# __1000 CE – 1100 CE__ — Ottonian Twilight and Salian Consolidation
-__Summary:__ The North European Plain during this century witnesses the transition from the late Ottonian emperors (Otto III, Henry II) to the Salian dynasty (Conrad II, Henry III, Henry IV), with the imperial church system serving as the principal administrative instrument; the binding constraint is the emperor's reliance on episcopal appointments to project power, a dependency that fractures when the Investiture Controversy erupts after 1075; the system holds modest margin against localized shocks but loses coherence under sustained papal-imperial conflict; the overall direction is centralizing consolidation giving way to structural fragmentation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor from the Rhine through Saxony to the Elbe imposes low transit friction for mounted messengers and armies; major rivers (Rhine, Weser, Elbe) serve as north-south axes while the plain permits east-west movement, though marshy zones and dense forest slow penetration into Slavic borderlands.<br><br>
-__Climate Regime & Volatility:__ The Medieval Warm Period delivers relatively mild winters and reliable growing seasons; interannual variability remains moderate, and secular drift trends warm, widening the productive band without major stress.<br><br>
-__Hazard Regime & Exposure:__ Acute hazards are limited to periodic river flooding along the Rhine and Elbe; seismic and volcanic exposure is negligible, and settlement holds adequate margin against the flood regime.<br><br>
-__Resource & Energy Endowment:__ Timber remains abundant in extensive forests; arable land expands through clearance; iron ore in the Harz and salt at Luneburg provide extractive resources; the stock is lightly drawn and no depletion pressure is evident.<br><br>
-__Waste Absorption & Sink Capacity:__ Waste loads from dispersed agrarian settlement are negligible relative to the absorptive capacity of forests, rivers, and open land; no saturation or degradation is detectable.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases (dysentery, fevers) impose a steady background mortality, but no major epidemic sweeps the region during this window; the death rate is stable and well within renewal capacity.<br><br>
-__Nutrition & Physiological Vitality:__ Reliable harvests during the warm period sustain adequate nutrition for the peasant majority; stature and robustness are stable or slightly improving; no famine stress is recorded.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Church regulation of marriage (prohibitions on consanguinity, enforcement of monogamy) is consolidating; fertility is unimpaired and pairing patterns follow ecclesiastically sanctioned norms.<br><br>
-__Demographic Renewal & Density:__ Population is growing slowly from a low post-Carolingian base; birth rates exceed death rates; density remains modest, well below carrying capacity, with internal colonization absorbing surplus.<br><br>
-__Attrition & Dependency Overhang:__ Monastic and episcopal charity absorbs orphans and indigents; the dependency load is manageable and does not strain the productive cohort.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Three-field agriculture in the western lowlands and expanding clearance in the east provide adequate grain; households pool labor and buffer shortfalls through communal mechanisms; the population sits comfortably above the subsistence edge.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain the primary movers; water mills spread along rivers for grain grinding; wood fuel is abundant; per-capita work capacity is stable and sufficient for modest surplus.<br><br>
-__Labor Organization & Coercion:__ Serfdom predominates in manorial contexts, with corvee obligations to lords and tithes to the church; some free peasants on frontier clearances; coercion is routine but not intensifying.<br><br>
-__Production & Surplus Capacity:__ Agricultural output grows with land clearance; surplus flows to monasteries, episcopal estates, and nascent market towns; capacity expands steadily.<br><br>
-__Storage, Reserves & Buffering:__ Monastic granaries and lordly stores provide buffer stocks; reserves are adequate for single-year shortfalls; no systematic risk-pooling instruments exist beyond local reciprocity.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade is thin but growing; Rhineland towns (Cologne, Mainz) serve as nodes; river transport dominates; market infrastructure remains rudimentary.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Coin (silver denarii) circulates in towns and for royal transactions; the rural economy relies on in-kind exchange and deferred reciprocity; credit instruments are minimal; debasement is not yet a concern.<br><br>
-__Surplus Extraction & Redistribution:__ The imperial church system channels surplus through episcopal estates to crown needs; tithes, tolls, and manorial dues flow upward; extraction is moderate relative to output.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration in church and noble hands is high but stable; peasant holdings are heritable under customary tenure; no acute redistribution pressure.<br><br>
-__Byproducts & Waste Routing:__ Agricultural waste is recycled as manure; workshop effluent in towns is negligible; no toxic accumulation or routing crisis.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Village communities maintain strong reciprocity networks; trust extends to parish and manor; monastic charity supplements kin obligations; the radius is stable.<br><br>
-__Stratification, Status & Group Identity:__ Three-order ideology (oratores, bellatores, laboratores) is articulated; boundaries between noble, clerical, and peasant strata are relatively permeable through church careers; ethnic distinctions (Saxon, Franconian, Slavic) matter at frontiers.<br><br>
-__Kinship, Family & Inheritance:__ Partible inheritance among peasants fragments holdings; noble families practice primogeniture where possible; church marriage rules reshape kin networks by prohibiting close-cousin unions.<br><br>
-__Civic Association & Self-Organization:__ Parish structures, village moots, and early guild-like associations in Rhineland towns provide sub-state coordination; associational fabric is thickening slowly.<br><br>
-__Leisure, Play & Sociability:__ Church festivals structure communal recreation; feasting, local markets, and pilgrimage provide sociability beyond labor; no evidence of contraction.<br><br>
-__Grievance Channels & Social Discharge:__ Lordly courts, episcopal mediation, and monastic charity absorb grievances; mobility to frontier clearances drains some discontent; residual friction is low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Imperial authority is personal and itinerant; the emperor travels constantly, relying on bishops as local administrators; power is centralizing under strong emperors (Henry III) but fragments when succession falters or papal conflict erupts.<br><br>
-__Succession & Power Transfer:__ Hereditary succession within the Salian line is contested but achieved; Henry IV's minority (1056-1065) exposes the fragility of regency; succession remains a recurring stress point.<br><br>
-__Legitimacy & Political Narrative:__ Sacral kingship (rex et sacerdos) and renovatio imperii ideology underpin imperial claims; papal challenge to lay investiture after 1075 destabilizes this narrative; belief erodes among reform clergy.<br><br>
-__Administrative Capacity & Institutional Integrity:__ The imperial church provides literate administrators (bishops, royal chaplains); chancery output is modest but growing; record-keeping is adequate for the scale; corruption is limited by clerical discipline.<br><br>
-__Political Participation & Mobilization:__ Princes, bishops, and abbots participate in assemblies; peasant voice is negligible; noble factions mobilize during minority and civil war (1077 onward); channels are narrowing as conflict hardens.<br><br>
-__Geopolitical Position & External Relations:__ The empire dominates central Europe; relations with Poland, Bohemia, Hungary involve tribute and dynastic marriage; Viking pressure has receded; no external threat is existential.<br><br>
-__Coercive Apparatus & Means of Force:__ Heavy cavalry (milites) under episcopal and noble command constitutes the military core; castles proliferate; imperial command depends on feudal summoning; no standing army.<br><br>
-__Internal Order & Threat Environment:__ Baronial feuding and brigandage occur but are contained by Peace of God movements and episcopal enforcement; rebellion during the Investiture Controversy elevates disorder significantly after 1077.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels via mounted messenger on Roman roads and river routes; speed is days to weeks across the plain; reach is limited to literate elites and oral relay for the majority.<br><br>
-__Record, Storage & Persistence:__ Monastic scriptoria copy and preserve texts on parchment; episcopal archives retain charters; retrieval is possible but laborious; records survive fire and turnover unevenly.<br><br>
-__Framing, Censorship & Discourse Norms:__ Latin is the prestige language; church controls discourse norms; heresy is suppressed but rarely encountered; vernacular use is informal; the permitted band is narrow but stable.<br><br>
-__Reception, Attention & Amplification:__ Reception is elite and clerical; amplification occurs through preaching and liturgy; attention spans are structured by liturgical calendar and court assemblies.<br><br>
-__Signal Integrity & Noise Load:__ Verification relies on seals, witnesses, and institutional memory; forgery occurs (papal and imperial) but is detectable; noise is manageable; no information overload.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Christian morality, Germanic customary notions of honor and compensation, and emerging canonical principles constitute the shared conscience; consensus on basics is firm.<br><br>
-__Law, Codification & Regulatory Evolution:__ Customary law predominates; canon law expands through episcopal courts; royal law (capitularies) applies sporadically; codification is minimal; evolution is slow and accretive.<br><br>
-__Adjudication, Enforcement & Liability:__ Lordly courts, episcopal tribunals, and royal justice handle disputes; ordeal and compurgation remain in use; liability is personal and kin-based; throughput is adequate for the caseload.<br><br>
-__Rights, Protections & Compliance Burden:__ Peasant rights are customary and local; serfs have limited legal standing; compliance burden is light outside manorial obligations; rules are relatively predictable.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lords sometimes escape accountability; vendettas fill gaps; Peace of God movements address the deficit; residual impunity is moderate and not worsening.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Cathedral schools (Cologne, Magdeburg, Hildesheim) transmit Carolingian learning; theology, grammar, and computus dominate; the Ottonian Renaissance legacy fades but is not lost; inquiry is conservative, preserving rather than advancing.<br><br>
-__Applied Knowledge & Technical Method:__ Agricultural techniques (three-field rotation, heavy plow) spread; water-mill technology is standard; metallurgy in the Harz produces quality iron; method is practical and slowly improving.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy is clerical; monastic and cathedral schools train clergy; lay nobles are mostly illiterate; the stock is stable; distribution is narrow but not contracting.<br><br>
-__Obsolescence & Knowledge Decay:__ Some classical texts are lost through neglect; copying errors accumulate; however, the major repositories (Corvey, Fulda, Reichenau) maintain core holdings; decay is slow.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Saxon identity rooted in Carolingian conquest and Christianization; imperial ideology invokes Charlemagne and Roman continuity; monastic chronicles (Thietmar, Widukind) preserve and shape collective memory.<br><br>
-__Artistic Expression & Material Culture:__ Ottonian bronze-casting (Hildesheim doors), illuminated manuscripts, and Romanesque architecture (Speyer Cathedral begun) define the material aesthetic; forms are confident and mature.<br><br>
-__Collective Mood & Behavioral Disposition:__ The mood is cautiously optimistic during consolidation, darkening with civil war after 1077; millennial anxieties (1000 CE) dissipate without mass panic; risk perception is moderate.<br><br>
-__Form Exhaustion & Meaning Decay:__ Ottonian artistic forms remain vital; Carolingian liturgical models still carry meaning; no significant exhaustion or anomie is evident; symbolic renewal occurs through monastic reform movements.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Augustinian eschatology frames existence within salvation history; the balance tilts toward pious engagement rather than fatalism; doubt is rare and heterodox; secularism is absent.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Liturgy structures daily and annual life; monastic offices (Gorze, Hirsau reforms) standardize practice; pilgrimage, relic veneration, and saints' feasts are widespread.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The episcopal structure is strong; monasteries hold extensive lands; papal reform challenges imperial control after 1075; doctrinal orthodoxy is consolidated but authority over appointment is contested.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christianity is universal within the region; residual paganism survives at Slavic frontiers but is receding; no syncretic challenge; orthodoxy expands.<br><br>
-__Disenchantment & Sacred Discharge:__ No significant disenchantment; the sacred framework is robust; existential needs are met within Christian cosmology; the void is not yet opening.<br><br>
+# __1000 CE – 1100 CE — Ottonian Twilight and Salian Consolidation__
+
+__Summary:__ The North European Plain passes from the faltering Ottonian system to Salian dynastic consolidation, with the binding constraint being the unresolved tension between imperial claims to control the Church and ecclesiastical reformers demanding clerical independence — a tension that explodes in the Investiture Controversy and forces documentary culture to expand as both sides weaponize written records for legitimacy.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The plain stretches from the Rhine eastward through the Weser, Elbe, and Oder basins to the Vistula, offering low-gradient transit corridors that favor lateral movement but complicate north-south integration with Alpine and Mediterranean cores of imperial power; the emperor must constantly traverse this space to assert authority, and distance dilutes control.
+
+__Climate Regime & Volatility:__ The Medieval Warm Period is fully established, extending growing seasons and permitting agricultural expansion into previously marginal lands; interannual variability remains, but sustained warmth supports demographic growth and forest clearance.
+
+__Hazard Regime & Exposure:__ Flooding along major rivers poses recurrent risk; the North Sea coast requires dike maintenance; fire threatens timber-built towns; no catastrophic plague or famine disrupts the century.
+
+__Resource & Energy Endowment:__ Extensive forests provide timber, fuel, and pannage; arable expansion converts woodland to grain production; Harz silver mines yield monetary metal; Baltic amber and furs enter trade networks; iron ores support local smithing.
+
+__Waste Absorption & Sink Capacity:__ Population densities remain modest; agricultural waste recycles into manure; urban effluent accumulates only in larger centers; sinks absorb loads without evident saturation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic diseases — dysentery, typhoid, tuberculosis — persist, but no epidemic catastrophe occurs; background mortality is high by later standards but stable, permitting population growth.
+
+__Nutrition & Physiological Vitality:__ The three-field system sustains adequate caloric intake for most peasants in normal years; aristocratic and monastic diets are richer; nutritional status supports labor and reproduction.
+
+__Care, Healing & Recovery Capacity:__ Monastic infirmaries provide the most organized care; herbal remedies, wound-tending, and midwifery circulate orally; healing capacity meets routine demand but cannot halt epidemic outbreaks when they occur.
+
+__Reproductive Biology & Pairing Dynamics:__ Church regulation of marriage (consanguinity rules, indissolubility) shapes pairing; noble marriages are dynastic alliances sealed by written charters; peasant unions follow local custom with less documentation.
+
+__Demographic Renewal & Density:__ Population grows slowly but steadily, fed by climate amelioration and land clearance; density remains low east of the Elbe, higher in Rhenish and Thuringian cores.
+
+__Attrition & Dependency Overhang:__ Monasteries absorb some aged and infirm; widows and orphans rely on kin and manorial charity; dependency load is manageable within existing structures.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Peasant households cultivate strips in open fields under manorial supervision; the three-field rotation balances grain, fallow, and pasture; surplus is modest but real in good years.
+
+__Energy Capture & Conversion:__ Human and animal muscle dominates; oxen pull heavy plows; watermills multiply along rivers for grain milling; wind power is nascent; per-capita energy ceiling remains agrarian.
+
+__Labor Organization & Coercion:__ Serfdom binds most peasants to manorial lords through labor dues (corvée) and payments in kind; royal and ecclesiastical domains rely on similar arrangements; free towns are few but growing.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports a thin stratum of clergy, warriors, and artisans; craft production — metalwork, textiles, pottery — concentrates in episcopal and monastic centers; surplus extraction leaves peasants near subsistence.
+
+__Storage, Reserves & Buffering:__ Granaries on manors and monasteries hold reserves against bad harvests; treasuries accumulate silver and precious objects; the church tithe system pools risk regionally.
+
+__Exchange, Trade & Logistics:__ Long-distance trade is thin but present: Rhine traffic connects the plain to Italy; Baltic routes bring furs, amber, and slaves southward; Cologne emerges as a commercial node; markets multiply at episcopal seats.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver coinage circulates; regional mints produce pennies of varying fineness; credit is informal, relying on personal trust and written charters for larger obligations.
+
+__Surplus Extraction & Redistribution:__ Lords extract rents, tithes, and labor services; the Church collects tithes and receives donations; kings demand military service and occasional levies; extraction is heavy but not yet systematized through written surveys.
+
+__Wealth Distribution & Asset Defense:__ Land is the primary asset; noble families defend holdings through inheritance strategies, castle-building, and royal favor; ecclesiastical lands enjoy formal protection but attract secular encroachment.
+
+__Byproducts & Waste Routing:__ Agricultural waste fertilizes fields; urban waste accumulates in streets and middens; monetary imbalances are minor; no major financial dislocations occur.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Aristocratic families transmit land and title through primogeniture or partible inheritance depending on region; church reform pressures noble marriage practices; peasant inheritance follows local custom.
+
+__Association & Mutual Aid:__ Parish communities, manorial villages, and monastic lay associations provide mutual aid; guilds are embryonic; charity flows through church channels.
+
+__Leisure, Play & Sociability:__ Feast days punctuate the agricultural calendar; tournaments begin among the aristocracy; taverns and markets offer sociability in towns.
+
+__Stratification, Status & Group Structure:__ Society divides into those who pray (oratores), fight (bellatores), and work (laboratores); ministeriales — unfree knights in royal and episcopal service — rise in importance; urban burgher status is nascent.
+
+__Administrative Capacity & Institutional Integrity:__ Royal chanceries produce charters and diplomas; episcopal chanceries maintain records; no permanent bureaucracy exists — government is itinerant and personal; the Salians attempt to build a ministerialis corps loyal to the crown.
+
+__Coercive Apparatus & Means of Force:__ Cavalry dominates warfare; castles multiply as defensive and offensive bases; royal military strength depends on feudal levies and ministeriales; the peace movements (Peace and Truce of God) attempt to limit violence.
+
+__Discharge, Disorder & Decay:__ Feuding among nobles is endemic; the Investiture Controversy produces open war between emperor and pope; Saxon rebellions challenge Salian authority; disorder is contained but not eliminated.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Piety intensifies under reform influence; loyalty to lords remains personal and conditional; trust extends within kin and lordship networks but not far beyond.
+
+__Leadership & Personal Authority:__ The emperor's authority rests on sacral charisma and military success; Henry III (1039–1056) epitomizes confident Salian rule; Henry IV (1056–1106) loses charisma through excommunication and penance at Canossa (1077).
+
+__Legitimacy as Lived Allegiance:__ Imperial legitimacy is contested after Gregory VII challenges lay investiture; nobles and bishops waver between emperor and pope; allegiance fragments regionally.
+
+__Political Will & Collective Resolve:__ The Salians attempt centralization but face repeated noble rebellion; reforming clergy display collective resolve against simony and lay control; neither side achieves decisive victory.
+
+__External Relations & Posture:__ The empire claims supremacy in Christendom; relations with the papacy oscillate between alliance and confrontation; Poland and Hungary acknowledge nominal imperial overlordship; Denmark remains outside effective control.
+
+__Disaffection, Apathy & Spent Will:__ The prolonged Investiture struggle exhausts both parties; Henry IV dies in rebellion against his own son; cynicism about imperial and papal claims spreads among those caught between competing demands.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Latin remains the literate code; spoken German dialects fragment mutual intelligibility; literacy is confined to clergy and a few nobles; oral communication dominates daily life.
+
+__Channels & Transmission Velocity:__ Messengers carry letters and commands; travel times limit information velocity; news spreads slowly beyond major centers.
+
+__Record, Storage & Persistence:__ Charters and diplomas on parchment constitute the primary documentary form; monastic scriptoria copy texts; cathedral and abbey archives preserve records; papal and imperial registers systematize correspondence.
+
+__Framing, Censorship & Discourse Norms:__ The Investiture Controversy generates polemical treatises on both sides; propagandists frame the conflict as cosmic struggle between sacred and secular authority; censorship is informal but effective within institutional channels.
+
+__Reception, Attention & Amplification:__ Sermons and public rituals amplify messages to the illiterate; excommunication ceremonies dramatize papal condemnation; imperial pageantry asserts counter-claims.
+
+__Signal Integrity & Noise Load:__ Forgery becomes a weapon — both sides produce or discover convenient documents; the authenticity of key texts (e.g., the Donation of Constantine, though not yet exposed) is contested; noise rises as legitimacy is disputed.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Christendom shares a nominal moral framework grounded in scripture and patristic teaching; the reform movement appeals to purity and apostolic poverty; lay nobles value honor, loyalty, and martial prowess.
+
+__Law, Codification & Regulatory Evolution:__ Roman law is rediscovered at Bologna (late century); canon law compilation begins; customary law governs most disputes; written law codes are rare.
+
+__Adjudication, Liability & Sanction:__ Lords adjudicate disputes in manorial courts; bishops exercise jurisdiction over clerical and some lay matters; trial by ordeal and combat coexist with inquisitorial procedure; royal justice is weak.
+
+__Rights, Protections & Compliance Burden:__ Serfs have customary rights to land use but few protections against arbitrary lordship; clerical immunity from secular courts is asserted and contested; compliance burdens fall unevenly.
+
+__Impunity & Unredressed Wrong:__ Powerful lords act with impunity; the Church claims jurisdiction but cannot always enforce judgments; vendettas persist where formal justice fails.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Cathedral schools at Liège, Cologne, and Bamberg foster learning; the liberal arts curriculum structures education; theology dominates inquiry; Berengar of Tours' eucharistic controversy stirs dialectical debate.
+
+__Applied Knowledge & Technical Method:__ Agricultural technique improves incrementally; Romanesque architecture develops; metalworking supports weapon and tool production; applied knowledge is transmitted orally and by apprenticeship.
+
+__Education, Knowledge Stock & Skill Distribution:__ Literacy remains clerical; monastic and cathedral schools train clergy; knowledge stock concentrates in scriptoria and libraries; lay education is minimal.
+
+__Obsolescence & Knowledge Decay:__ Some Carolingian learning decays through neglect; texts are copied with errors; libraries are vulnerable to fire and plunder; the reform movement revives patristic texts.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Ottonian and Salian courts cultivate a renovatio imperii ideology linking Germany to Rome and Charlemagne; hagiography celebrates royal saints; the empire's Christian mission legitimates rule.
+
+__Legitimating Narrative & Ideology:__ Imperial apologists invoke divine appointment and Carolingian precedent; papal reformers counter with Petrine supremacy and the freedom of the Church; both narratives circulate in polemical texts.
+
+__Artistic Expression & Material Culture:__ Romanesque architecture rises in cathedrals at Speyer, Mainz, and Worms; illuminated manuscripts from scriptoria at Reichenau and Echternach display Ottonian artistic synthesis; liturgical objects in gold, ivory, and enamel affirm sacred kingship.
+
+__Form Exhaustion & Meaning Decay:__ Ottonian court culture persists but its sacral-royal imagery loses force as papal reform challenges the theology behind it; by century's end, older legitimating symbols require renewal.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ An ordered Christian cosmos prevails — heaven, earth, hell; divine providence governs history; the millennium's passing (1000 CE) stirs some anxiety but no mass panic.
+
+__Ritual, Devotion & Sacred Practice:__ Liturgy structures daily and annual rhythms; pilgrimage to Rome and local shrines intensifies; relics anchor sanctity in place; the reform movement demands priestly celibacy and sacramental purity.
+
+__Religious Institutions & Doctrinal Authority:__ The papacy under Gregory VII asserts supreme authority; Cluny and its network model reformed monasticism; bishops remain powerful but contested between pope and emperor; doctrinal orthodoxy is enforced through councils.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christendom expands eastward through mission and colonization; pagan Slavic and Baltic peoples are targets of conversion; no syncretic compromise is tolerated — baptism or war.
+
+__Disenchantment & Sacred Discharge:__ The Investiture Controversy does not produce secularization but rather competing sacralizations — pope and emperor each claim divine mandate; spiritual intensity remains high, though cynicism about clerical corruption spreads among those who witness simony and clerical concubinage.
+

@@ -1,5 +1,5 @@
 # __Broadcast Stage__
-__Description:__ One source reaches a multitude in the same instant: radio then television radiate to countless receivers who take it in together, wherever they are. A population can be addressed as one audience and held in step in real time, and public information life comes to run on the broadcast signal. Dominant until the digital substrate takes over.<br><br>
+__Description:__ One source reaches a multitude in the same instant: radio then television radiate to countless receivers who take it in together, wherever they are. A population can be addressed as one audience and held in step in real time, and public information life comes to run on the broadcast signal. Dominant until the digital substrate takes over.
 
 ### - [Broadcast Stage in The North American Coasts and Plains — 1930 CE – 2005 CE](broadcast-stage-in-north-american-coasts-and-plains/index.md)
 ### - [Broadcast Stage in The North European Plain and Mediterranean Peninsulas — 1930 CE – 2010 CE](broadcast-stage-in-north-european-plain-and-mediterranean-peninsulas/index.md)

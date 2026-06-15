@@ -1,69 +1,139 @@
-# __1815 CE – 1848 CE__ — Restoration and Vormarz Ferment
-__Summary:__ The Congress of Vienna establishes the German Confederation under Austrian presidency while the Metternich system suppresses liberal and nationalist agitation through systematic censorship and police surveillance; the binding constraint is the tension between conservative restoration and rising bourgeois-liberal demands for constitutional government, press freedom, and national unity; the system holds considerable coercive margin against open revolt but accumulates unmetabolized grievance as economic modernization outpaces political structures; direction moves from post-war settlement through repressive stability toward revolutionary crisis.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor remains the strategic arena; road networks improved during Napoleonic period persist; river navigation on Rhine and Elbe carries growing commercial traffic; spatial friction declining with infrastructure investment.<br><br>
-__Climate Regime & Volatility:__ Cool temperate conditions prevail; 1816 "year without summer" following Tambora eruption causes harvest failure and famine; subsequent decades see normal variability; climate shocks recede as system constraint after 1817.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along major rivers periodically realized; no seismic or volcanic exposure; Rhine floods 1830 cause regional damage; hazard exposure modest and margin adequate for recovery.<br><br>
-__Resource & Energy Endowment:__ Coal deposits in Ruhr, Silesia, and Saar increasingly recognized; iron ore accessible; timber remains abundant; resource endowment ample for nascent industrialization; drawdown beginning but stock vast.<br><br>
-__Waste Absorption & Sink Capacity:__ Early industrial sites generate localized pollution — coal smoke, mine drainage — but aggregate load trivial against absorptive capacity; urban waste accumulates faster but sinks nowhere near saturation.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Cholera arrives 1831-32 causing significant mortality in urban centers; endemic diseases persist; vaccination spreads reducing smallpox; mortality baseline elevated during epidemics but trending downward in peacetime.<br><br>
-__Nutrition & Physiological Vitality:__ Agricultural productivity improving through rationalization; potato cultivation provides subsistence buffer; 1846-47 potato blight and grain price spike causes hardship especially in Prussian east; nutritional status variable by region and class.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Post-war demographic recovery; marriage rates normalize; traditional pairing patterns persist with some regional variation; fertility unrestricted by deliberate control among most populations.<br><br>
-__Demographic Renewal & Density:__ Population growing steadily at roughly one percent annually; urbanization accelerating especially in industrial zones; emigration to Americas beginning as pressure relief; renewal robust and density increasing.<br><br>
-__Attrition & Dependency Overhang:__ War generation's widows and orphans aging out; peacetime dependency ratios normalize; poor relief systems strained in crisis years but productive cohort adequate; dependency overhang manageable.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural production generally adequate; subsistence crises localized to 1816-17 and 1846-47; household pooling and communal resources buffer hardship; floor stable with periodic shocks.<br><br>
-__Energy Capture & Conversion:__ Steam power diffusing from Britain; first German railways 1835; coal consumption rising; watermills still numerous; transition from organic to mineral energy regime beginning; per-capita work ceiling rising.<br><br>
-__Labor Organization & Coercion:__ Serfdom abolished across most territories though remnants persist in east; guild restrictions weakening; wage labor expanding in textile and mining sectors; free labor increasingly dominant though coercive elements remain in agriculture.<br><br>
-__Production & Surplus Capacity:__ Textile mechanization advancing in Rhineland and Saxony; mining output rising; traditional crafts under pressure; factory production emerging but handwork still dominant; surplus capacity growing unevenly.<br><br>
-__Storage, Reserves & Buffering:__ State finances stabilized post-war; commercial banking developing; grain storage networks adequate in normal years; buffer capacity improved but 1846-47 crisis reveals limits.<br><br>
-__Exchange, Trade & Logistics:__ Zollverein customs union 1834 integrates most German states; railway construction accelerates exchange; internal tariffs abolished; external trade expanding; logistics networks transforming through rail and improved roads.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Currency systems stabilized; private banking expanding; credit availability improving for commercial enterprise; capital formation accelerating; purchasing power relatively stable; deferred exchange instruments modernizing.<br><br>
-__Surplus Extraction & Redistribution:__ State taxation regularized; landed aristocracy retains tax privileges in many states; growing bourgeois wealth subject to extraction; redistribution serves conservative state apparatus and military; fiscal burden moderate.<br><br>
-__Wealth Distribution & Asset Defense:__ Landed aristocracy maintains predominance; bourgeois commercial and industrial wealth growing; property rights secure under conservative order; concentration high but composition shifting toward mobile capital.<br><br>
-__Byproducts & Waste Routing:__ Early industrial waste localized to factory and mining sites; urban sanitation poor but load below sink capacity; waste routing traditional — dispersal, dumping — with no systemic crisis.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius stable within communities; mutual aid societies and early worker associations forming; bourgeois civic culture strengthening; class tensions rising but not yet fracturing trust networks.<br><br>
-__Stratification, Status & Group Identity:__ Three-tier structure of aristocracy, bourgeoisie, and laboring classes crystallizing; legal equality incomplete; bourgeois identity and aspiration strengthening; class boundaries hardening though not impermeable.<br><br>
-__Kinship, Family & Inheritance:__ Patriarchal family structure normative; inheritance laws vary by territory — partible versus impartible; bourgeois family ideology emphasizing domestic sphere diffusing; kinship systems stable.<br><br>
-__Civic Association & Self-Organization:__ Reading societies, singing clubs, gymnastic associations proliferate; guild remnants persist; bourgeois associational life thickening despite official suspicion; civic fabric strengthening below state level.<br><br>
-__Leisure, Play & Sociability:__ Festival culture continues; Biedermeier domestic sociability among bourgeoisie; public gatherings watched by police; leisure spaces multiply but political expression constrained.<br><br>
-__Grievance Channels & Social Discharge:__ Official channels blocked by censorship and assembly restrictions; underground associations absorb activist energy; emigration provides individual escape; much grievance accumulates unmetabolized toward 1848 eruption.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ German Confederation loose structure with Austrian presidency; sovereignty fragmented across thirty-nine states; Prussia second power; constitutional governments in southern states, absolutism in north; power neither centralized nor effectively federated.<br><br>
-__Succession & Power Transfer:__ Dynastic succession normalized; Prussian succession 1840 raises reform hopes briefly; transfer mechanisms stable and routinized; no succession crises in major states.<br><br>
-__Legitimacy & Political Narrative:__ Conservative legitimism — divine right, historical continuity — dominates official discourse; liberal nationalism challenges with popular sovereignty and national unity; legitimacy contested in educated opinion though mass acceptance of conservative order persists.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Prussian bureaucracy efficient and expanding; Austrian administration adequate; smaller states variable; corruption modest; state capacity growing; information gathering increasingly systematic through police surveillance.<br><br>
-__Political Participation & Mobilization:__ Formal participation limited to narrow electorates where constitutions exist; student movements (Burschenschaften) suppressed after 1819; liberal opposition through press and association; mobilization channels restricted but pressure building.<br><br>
-__Geopolitical Position & External Relations:__ Concert of Europe maintains great power consensus; German Confederation militarily subordinate to Austria and Prussia; no major external threats; stability through balance; position secure but passive.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing armies maintained; police and gendarmerie expanded for internal control; Confederation has federal intervention authority; force monopoly secure; repressive capacity adequate against scattered opposition.<br><br>
-__Internal Order & Threat Environment:__ Order maintained through surveillance and censorship; Hambach Festival 1832 and scattered disturbances suppressed; Frankfurt putsch 1833 fails; threat environment low through repressive effectiveness; underlying instability deferred not resolved.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Newspaper circulation expanding despite censorship; railways accelerating news transmission; telegraph adoption beginning late in period; literate public growing; velocity increasing and reach broadening.<br><br>
-__Record, Storage & Persistence:__ State archives systematic; commercial and legal records well-maintained; libraries and universities preserve knowledge stock; print ensures persistence; record infrastructure robust.<br><br>
-__Framing, Censorship & Discourse Norms:__ Carlsbad Decrees 1819 impose prior censorship across Confederation; press suppression systematic; exile publishing in Switzerland, France, Belgium circumvents controls; permitted discourse narrow but underground channels active.<br><br>
-__Reception, Attention & Amplification:__ Reading public expanding through education and urbanization; banned works circulate clandestinely achieving amplification through prohibition mystique; attention channels bifurcating between official and underground.<br><br>
-__Signal Integrity & Noise Load:__ Official information propagandistic; underground information variable in reliability; competing versions coexist; educated readers develop critical reading practices; noise substantial but verification improving.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Liberal sense of justice spreading among educated classes — equality before law, individual rights, due process; conservative moral foundation persists in rural populations; moral foundations diverging by class.<br><br>
-__Law, Codification & Regulatory Evolution:__ Napoleonic codes persist in Rhineland; Prussian General Law Code normative in Prussia; legal particularism continues; reform proposals blocked; codification stalled under conservative reaction.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function but political cases subject to executive influence; enforcement effective for criminal and commercial matters; liability assignment regularized; judicial independence limited by political interference.<br><br>
-__Rights, Protections & Compliance Burden:__ Formal rights limited by police powers; assembly and press rights restricted; compliance burden elevated for political suspects; ordinary commerce and life proceed under predictable if restrictive rules.<br><br>
-__Impunity & Unredressed Wrong:__ State actions against liberals largely unaccountable; censorship violations prosecuted aggressively; ordinary crime addressed through courts; impunity concentrated in political sphere; justice gap widens for dissent.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ German philosophy continues with Hegel's dominance and emergence of Young Hegelians; historical school in law and economics; scientific research advancing in chemistry, physiology; discovery frontier active across disciplines.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering education institutionalized; polytechnic schools founded; agricultural science advancing; industrial technique transferred from Britain and adapted; applied knowledge systematically cultivated.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Elementary education expanding through state requirement; gymnasium system producing educated elite; university enrollment growing; literacy rates rising; knowledge stock and distribution both increasing.<br><br>
-__Obsolescence & Knowledge Decay:__ Romantic science declining as empirical method consolidates; outdated pedagogies reformed; accumulated knowledge largely preserved; decay minimal as institutionalization protects against loss.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ German national identity deepening through romantic elaboration — medieval past, folk culture, linguistic unity, liberation war memory; regional identities persist but national mythos strengthening; foundational narratives contested between liberal-national and conservative-dynastic.<br><br>
-__Artistic Expression & Material Culture:__ Biedermeier style dominates bourgeois material culture — comfortable domesticity, modest ornamentation; romantic painting and literature continue; architecture shifts toward historicism; cultural production flourishing within constraints.<br><br>
-__Collective Mood & Behavioral Disposition:__ Biedermeier retreat into private sphere reflects post-war settlement; underlying liberal frustration builds through 1840s; mood oscillates between resignation and gathering expectation; disposition toward collective action suppressed but accumulating.<br><br>
-__Form Exhaustion & Meaning Decay:__ Romantic forms mature and routinize without exhaustion; Biedermeier style vital within its scope; meaning systems intact; form renewal continuous through artistic innovation; no significant decay.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Christian cosmology remains normative for majority; Hegelian and romantic philosophies provide alternative frameworks for intellectuals; secularizing drift among urban educated; existential outlook diversifying without dominant shift.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance remains high in rural areas; urban observance declining among bourgeoisie; pietist and evangelical revival movements active; ritual practice class-stratified but largely continuous.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Protestant state churches under governmental control; Catholic Church regaining institutional strength after Napoleonic disruption; doctrinal authority stable but increasingly contested by liberal theology and secular philosophy.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Confessional geography stable; no significant syncretism; liberal theology spreads within Protestantism; nationalism continues developing quasi-spiritual dimension without displacing Christianity.<br><br>
-__Disenchantment & Sacred Discharge:__ Educated elite disenchantment continues slowly; aesthetic and nationalist meaning systems absorb spiritual energy; mass populations largely unaffected; disenchantment residue modest and partially redirected rather than accumulating.<br><br>
+# __1815 CE – 1848 CE — Restoration and Vormarz Ferment__
+
+__Summary:__ The Congress of Vienna imposes conservative order on the German lands through the German Confederation, while the Carlsbad Decrees (1819) suppress liberal and nationalist expression through systematic press censorship. The binding constraint is the censorship regime: state control of print drives political discourse underground and abroad, producing exile journalism, coded literary expression, and accumulated frustration that explodes in 1848. Meanwhile, economic integration (Zollverein), expanding literacy, and a growing reading public prepare the ground for mass politics.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The German Confederation comprises 39 states of wildly varying size, from Austria and Prussia to miniature principalities. Political fragmentation contrasts with geographic continuity. Rivers and emerging railways begin reducing spatial friction; the Zollverein (1834) removes internal customs barriers.
+
+__Climate Regime & Volatility:__ The 1816–1817 "Year Without a Summer" (Tambora volcanic aftermath) produces famine and emigration surge. Otherwise, climate remains within normal variation; agricultural crises (1846–1847) on the period's edge stem from potato blight and grain harvest failures.
+
+__Hazard Regime & Exposure:__ No major natural disasters. Cholera epidemics (1831, 1837) reach German cities via eastern Europe. Fire remains urban hazard; insurance mechanisms develop.
+
+__Resource & Energy Endowment:__ Coal mining expands in Ruhr, Silesia, and Saar basins. Iron production grows. Timber remains essential for construction and fuel. Agricultural land supports larger population through improved techniques.
+
+__Waste Absorption & Sink Capacity:__ Early industrial pollution localized to mining and proto-industrial zones. Urban sanitation primitive; waste accumulates in growing cities. No systemic environmental degradation yet visible.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Cholera arrives in 1831, killing tens of thousands. Endemic diseases persist. Urban mortality exceeds rural, especially among industrial workers. Infant mortality remains high (200–300 per 1,000) but begins declining.
+
+__Nutrition & Physiological Vitality:__ Potato cultivation expands dietary base but creates dependency. Nutritional status improves on average but industrial working-class conditions worsen. Height data suggests modest improvement.
+
+__Care, Healing & Recovery Capacity:__ Scientific medicine advances but practical application lags. Hospitals remain charitable institutions with high mortality. Midwifery professionalizes. Public health consciousness grows after cholera.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage age falls as guild restrictions on journeyman marriage weaken. Fertility remains high. Out-of-wedlock births rise in areas of loosened social control.
+
+__Demographic Renewal & Density:__ German Confederation population grows from ~30 million (1815) to ~45 million (1850). Growth exceeds economic absorption capacity, producing emigration pressure and rural proletarianization. Urban density increases; Berlin doubles.
+
+__Attrition & Dependency Overhang:__ War widows and orphans gradually absorbed. Poor relief remains local and inadequate. Factory system generates new dependencies—disabled workers, seasonal unemployment.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Most population remains agricultural; subsistence remains primary concern. Potato failure (1840s) threatens provisioning. Urban provisioning through markets generally adequate except in crisis years.
+
+__Energy Capture & Conversion:__ Coal use accelerates; steam engines multiply in mining and manufacturing. Water power remains important for milling and textiles. Energy transition underway but incomplete.
+
+__Labor Organization & Coercion:__ Guild system formally abolished or weakened across most states; free labor markets emerge. Factory discipline imposes new coercion. Wage labor spreads but agricultural labor (including residual servile obligations in east) persists.
+
+__Production & Surplus Capacity:__ Proto-industrial textile production (putting-out system) transitions toward factory production. Iron and machinery production grows. Agricultural surplus enables population growth but margins thin.
+
+__Storage, Reserves & Buffering:__ State granary systems reduced; market mechanisms expected to provision. Financial reserves limited; states borrow. Savings banks emerge for middle classes.
+
+__Exchange, Trade & Logistics:__ Zollverein (1834) unifies most German states in customs union, creating integrated market of 26 million. Railways begin transforming logistics: first German railway (Nuremberg-Furth, 1835); network expands rapidly. River shipping improves.
+
+__Value Storage, Credit & Deferred Exchange:__ Multiple currencies complicate exchange. Banking develops slowly; Frankfurt and Berlin as financial centers. Bills of exchange function for commercial credit. Mortgage lending expands.
+
+__Surplus Extraction & Redistribution:__ Tax systems modernize; direct taxation spreads. State budgets expand to fund administration, military, and infrastructure. Customs revenue from Zollverein shared among member states.
+
+__Wealth Distribution & Asset Defense:__ Bourgeoisie accumulates capital; landed aristocracy retains estates. Middle class expands. Industrial proletariat emerges in urban centers, landless rural laborers increase. Inequality persists but composition shifts.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates locally. Urban refuse and sewage problems worsen with population growth. Financial imbalances minor; commercial crises (1825, 1837, 1847) produce limited defaults.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Napoleonic inheritance laws persist in western regions; primogeniture continues in east. Marriage patterns shift with guild abolition. Nuclear family increasingly dominant; extended kin networks thin in urban areas.
+
+__Association & Mutual Aid:__ Guild decline weakens traditional mutual aid. New associations emerge: singing societies, gymnastics clubs (Turnvereine), reading clubs, early labor associations. These become vehicles for national and liberal sentiment under police surveillance.
+
+__Leisure, Play & Sociability:__ Coffeehouses, beer gardens, and clubs expand. Theater flourishes. Festivals (gymnastic, singing) serve associational and national-liberal purposes. Carnival traditions continue.
+
+__Stratification, Status & Group Structure:__ Estate boundaries blur but persist. Bildungsburgertum (educated middle class)—lawyers, professors, officials—emerges as distinct stratum with liberal orientation. Industrial bourgeoisie grows. Working class crystallizes. Aristocracy retains political privilege but loses economic dominance.
+
+__Administrative Capacity & Institutional Integrity:__ Napoleonic administrative reforms largely retained. Bureaucratic states expand capacity: tax collection, census, conscription, police. German Confederation (Bund) serves as instrument of repression more than governance, coordinating censorship and police surveillance.
+
+__Coercive Apparatus & Means of Force:__ Standing armies maintained; Prussian military prestige high. Police forces expand; political policing intensifies after 1819. No significant external threat; internal order primary concern.
+
+__Discharge, Disorder & Decay:__ Student unrest (Wartburg Festival 1817, assassinations 1819) triggers repression. Workers' unrest sporadic (Silesian weavers 1844). Emigration serves as safety valve—hundreds of thousands depart for America. Underground political organization persists despite surveillance.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Frustration accumulates among educated classes; liberalism and nationalism spread despite censorship. Working-class resentment grows but remains unfocused. General mood combines Biedermeier domesticity with underground ferment.
+
+__Leadership & Personal Authority:__ Metternich dominates German affairs as architect of repression. Prussian king Frederick William III cautiously conservative; Frederick William IV (from 1840) raises then disappoints liberal hopes. Intellectual leaders (Heine, Borne, Young Germany writers) articulate dissent from exile.
+
+__Legitimacy as Lived Allegiance:__ Restoration legitimacy rests on divine right and international concert. Popular legitimacy thin; consent manufactured through censorship and police control. National-liberal alternative legitimacy develops: sovereignty of the people, constitutional government.
+
+__Political Will & Collective Resolve:__ Liberal and nationalist movements lack institutional channels; will disperses into cultural activity, emigration, and conspiratorial organization. Regime will focused on repression rather than reform.
+
+__External Relations & Posture:__ Concert of Europe maintains peace. Austria and Prussia cooperate on repression, compete for German leadership. France (July Monarchy after 1830) represents liberal alternative. Britain distant.
+
+__Disaffection, Apathy & Spent Will:__ Biedermeier culture represents withdrawal from politics into private life. Underground politicization intensifies among students, artisans, and intellectuals. Accumulated disaffection erupts in 1830 (limited German repercussions) and builds toward 1848.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy expands dramatically; by 1850 perhaps 80% of German adults can read. Standard German consolidates through print. Regional dialects persist orally but High German dominates written discourse.
+
+__Channels & Transmission Velocity:__ Newspapers multiply within censorship constraints. Railways and postal reform accelerate delivery. Telegraphy emerges (1840s). Book trade centers on Leipzig; Frankfurt fair declines.
+
+__Record, Storage & Persistence:__ Archives systematize. Libraries expand. Printed matter accumulates; major newspapers and journals establish runs. Personal correspondence and diaries proliferate among literate classes.
+
+__Framing, Censorship & Discourse Norms:__ Carlsbad Decrees (1819) impose systematic prepublication censorship on periodicals under 20 pages across the Confederation. States enforce variably (Austria strictest, smaller states sometimes lax). Circumvention strategies: publishing abroad (Switzerland, Paris, London), coded language, literary rather than political framing, longer formats to escape page threshold. Political press severely constrained; literary and cultural press flourishes within limits.
+
+__Reception, Attention & Amplification:__ Reading clubs and lending libraries democratize access. Coffeehouses circulate papers. Subscription lists expand. Word-of-mouth amplifies banned content. Exile publications smuggled in despite police efforts.
+
+__Signal Integrity & Noise Load:__ Censorship creates artificial information scarcity; rumor fills gaps. Government gazettes propagandize. Underground press provides alternative framing. Verification difficult when news is controlled.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Liberal conception of rights (constitutional government, press freedom, equality before law) spreads among educated classes. Conservative thought (Burke, de Maistre, Haller) defends tradition, hierarchy, and religion. Social question (workers' conditions) emerges as moral concern.
+
+__Law, Codification & Regulatory Evolution:__ Napoleonic legal reforms largely retained; civil codes spread. Criminal law modernizes unevenly. Censorship regulations provide legal basis for press control. Constitutional movements seek fundamental law limiting state power.
+
+__Adjudication, Liability & Sanction:__ Regular courts function but political cases handled by special tribunals or administrative action. Press offenses prosecuted; editors imprisoned. Due process concepts spread but implementation varies.
+
+__Rights, Protections & Compliance Burden:__ Constitutional movements demand guaranteed rights. Some states grant limited constitutions (Baden, Bavaria, Wurttemberg). Press freedom absent across Confederation. Religious toleration generally maintained; Jewish rights vary.
+
+__Impunity & Unredressed Wrong:__ State actors face no accountability for censorship, exile, or political prosecution. Smugglers and underground publishers bear all risk. Justice gap between liberal ideals and conservative practice fuels grievance.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ German universities lead in historical scholarship (Ranke), philology, philosophy (Hegel, Schopenhauer), and natural sciences. Research university model spreads. Historicism and Romanticism shape humanistic inquiry.
+
+__Applied Knowledge & Technical Method:__ Engineering and technical education expand (polytechnic schools). Agricultural science improves yields. Industrial technology imported from Britain, gradually adapted.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary schooling nearly universal in Protestant states; expanding elsewhere. Gymnasium produces educated elite. Universities accessible to middle class. Literacy becomes mass phenomenon.
+
+__Obsolescence & Knowledge Decay:__ Classical education still dominates but vocational and technical tracks emerge. Traditional craft knowledge disrupted by factory production. Enlightenment rationalism superseded by Romantic and historicist approaches.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ German national identity consolidates through Romantic scholarship—Grimm brothers' fairy tales and dictionary, medieval revival. "Volk" as organic nation contrasts with French "citizen." Wars of Liberation commemorated as founding moment.
+
+__Legitimating Narrative & Ideology:__ Restoration ideology: divine-right monarchy, organic state, Christian order. Liberal counter-narrative: popular sovereignty, constitutional government, national self-determination. Socialist thought emerges (Marx, Engels by 1840s).
+
+__Artistic Expression & Material Culture:__ Romanticism transitions to Biedermeier domesticity in visual arts. Literature: Heine's ironic poetry, Young Germany's political prose. Music: Beethoven (d. 1827), Mendelssohn, Schumann. Architecture: late Neoclassicism, Gothic revival (Cologne Cathedral completion begins 1842).
+
+__Form Exhaustion & Meaning Decay:__ Biedermeier culture criticized as escapist withdrawal. Romantic motifs become conventional. Political art suppressed; innovation constrained to "safe" domains. Young Germany attacks literary establishment as dead.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Protestant Awakening (Erweckungsbewegung) revives pietist spirituality. Catholic ultramontanism strengthens papal authority against state churches. Secular philosophies (Hegelian, materialist) spread among intellectuals. Doubt and crisis of meaning among educated classes.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance remains normative. Sacramental practice continues. Revival meetings and mission movements energize Protestant piety. Catholic popular devotions flourish.
+
+__Religious Institutions & Doctrinal Authority:__ State churches (Protestant in Prussia, Catholic in Austria) retain establishment status. Church-state conflicts emerge (Cologne troubles 1837). Confessional identities remain politically significant.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Confessional boundaries stable. Jewish emancipation advances legally but social integration lags; Reform Judaism emerges. Rationalist theology gives way to confessional orthodoxy and pietist revival.
+
+__Disenchantment & Sacred Discharge:__ Secularization of educated classes continues. Hegelian philosophy offers secular substitutes for religious meaning. Young Hegelians (Feuerbach, Strauss) critique religion openly. Nationalism acquires quasi-religious character—Volk as sacred community. The void between Enlightenment critique and popular piety widens, filled partially by Romantic spirituality and national feeling.

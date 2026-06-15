@@ -1,69 +1,139 @@
-# __2014 CE – 2026 CE__ — Mexican Digital Transformation
-__Summary:__ Mexico across the smartphone era exhibits a political and social landscape reshaped by digital platforms, with WhatsApp and Facebook becoming primary communication infrastructure while cartel organizations weaponize social media for recruitment and intimidation, and AMLO's presidency pioneers direct digital communication bypassing traditional media; the binding constraint is the security environment, where digital tools serve both state transparency and criminal surveillance, leaving journalists and activists with minimal margin against targeted violence; the trajectory shows accelerating connectivity alongside persistent violence and emerging nearshoring-driven tech investment.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Mexico spans 2 million square kilometers from US border deserts through central highlands to tropical south; rugged Sierra Madre ranges fragment connectivity corridors; the Mexico City megalopolis concentrates 20% of population and digital infrastructure; border zones face unique cross-traffic dynamics.<br><br>
-__Climate Regime & Volatility:__ Semi-arid north, tropical south, temperate highlands; hurricane exposure on both coasts affects coastal connectivity periodically; drought in northern agricultural zones; climate variability imposes episodic rather than chronic friction on digital infrastructure.<br><br>
-__Hazard Regime & Exposure:__ High seismic exposure — 2017 earthquake kills 370 and disrupts Mexico City communications for days; volcanic activity from Popocatepetl creates localized risks; hurricanes damage Yucatan and Pacific coast infrastructure periodically; hazard regime significant but absorbed within replacement capacity.<br><br>
-__Resource & Energy Endowment:__ Oil production declining from Cantarell exhaustion; natural gas imports from US increasing; lithium deposits in Sonora position nearshoring potential; electrical grid reaches 99% of population though quality varies; energy endowment sufficient for digital infrastructure without binding constraint.<br><br>
-__Waste Absorption & Sink Capacity:__ E-waste management underdeveloped; informal recycling sectors handle smartphone and computer turnover with environmental externalities; data center loads minimal relative to available sinks; physical absorption capacity not stressed by digital infrastructure.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases minimal in highlands; COVID-19 officially kills 330,000 (likely undercounted by factor of two or more) and drives digital health misinformation spread; diabetes epidemic (14% prevalence) creates underlying vulnerability; mortality baseline elevated by violence rather than pathogen load.<br><br>
-__Nutrition & Physiological Vitality:__ Obesity epidemic (75% overweight) coexists with malnutrition in southern indigenous regions; ultra-processed food marketed through digital channels; physiological vitality declining among urban populations despite improving food availability.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility decline toward 1.8 children per woman; dating apps penetrate urban populations; traditional gender dynamics persist in rural areas while urban patterns diversify; digital mediation of partner selection growing but not dominant.<br><br>
-__Demographic Renewal & Density:__ Population of 130 million with median age 29; demographic dividend persists but beginning to close; emigration to US continues though net flow approaches zero; urban concentration exceeds 80%; population density adequate for platform-scale network effects.<br><br>
-__Attrition & Dependency Overhang:__ Violence creates orphan and widow populations; aging population grows; narco-violence disability survivors accumulate; dependency load rising but productive cohort still dominant; digital platforms mediate some support coordination but gaps persist.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic food security maintained through tortilla subsidies and informal work; remittances from US (exceeding $60 billion annually by 2024) provide crucial household buffers; digital transfer platforms reduce remittance costs; subsistence floor holds for most though southern indigenous regions remain precarious.<br><br>
-__Energy Capture & Conversion:__ Oil and gas dominance with AMLO's PEMEX and CFE focus delaying renewable transition; electrical grid reliable in urban areas, intermittent in rural south; per-capita energy consumption supports digital device operation without significant constraint.<br><br>
-__Labor Organization & Coercion:__ Formal sector employment around 55%; gig economy expands through Uber, Rappi, Didi; maquiladora sector employs millions under varying conditions; USMCA labor provisions begin improving formal sector rights; informal sector remains outside regulatory protection; platform-mediated work grows.<br><br>
-__Production & Surplus Capacity:__ Manufacturing for US market drives production; nearshoring boom post-2020 brings new investment; automotive and electronics assembly dominant; digital sector produces software services for US market; surplus generation adequate though concentrated in export sectors.<br><br>
-__Storage, Reserves & Buffering:__ Foreign reserves adequate; household savings limited; remittances serve as distributed reserve system; digital payment platforms improve access to formal financial reserves for previously unbanked populations.<br><br>
-__Exchange, Trade & Logistics:__ USMCA framework structures US-Mexico trade; MercadoLibre and Amazon Mexico expand e-commerce; logistics infrastructure develops though last-mile delivery in informal settlements remains improvised; cross-border digital commerce grows.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Peso relatively stable against dollar; digital banking expands (BBVA, Banorte apps, Nubank entry); cryptocurrency adoption reaches 10% of adults, partly for remittance purposes; CoDi instant payment system launches but adoption lags Brazil's PIX; credit expansion to previously unbanked segments accelerates.<br><br>
-__Surplus Extraction & Redistribution:__ Tax collection at 15% of GDP among lowest in OECD; AMLO's austerity programs redirect spending to direct transfers (Sembrando Vida, Jovenes Construyendo); digital platforms used for Bienestar program distribution; redistribution limited by collection constraints.<br><br>
-__Wealth Distribution & Asset Defense:__ Top 10% holds 65% of wealth; inequality severe but stable; remittances provide some wealth transfer from US labor to Mexican households; dollarization of savings common among upper strata; asset defense through real estate and US accounts prevalent among wealthy.<br><br>
-__Byproducts & Waste Routing:__ E-waste management informal and environmentally problematic; digital advertising waste accumulates; maquila waste routing to border zones creates localized degradation; waste management capacity lags production volume.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust low and declining; family networks remain primary mutual aid infrastructure; WhatsApp family groups coordinate support; community organizations persist in indigenous regions; cross-family trust contracts as violence and political polarization increase.<br><br>
-__Stratification, Status & Group Identity:__ Class and racial stratification rigid — lighter-skin advantage persists; indigenous populations (15-20%) face structural exclusion; regional identities strong (Norteño, Chilango, Oaxaqueño); digital platforms allow some identity expression but algorithmic segmentation reinforces divides.<br><br>
-__Kinship, Family & Inheritance:__ Extended family networks remain primary social unit; migration patterns create transnational families connected through digital communication; inheritance practices traditional; family WhatsApp groups bridge US-Mexico divide.<br><br>
-__Civic Association & Self-Organization:__ Civil society organizations active on human rights and environmental issues; autodefensa movements in some regions; neighborhood watch groups coordinate through WhatsApp; digital organizing capacity growing but state and cartel surveillance constrain it.<br><br>
-__Leisure, Play & Sociability:__ Social media consumption high; soccer culture digitally mediated through streaming and social platforms; gaming grows among youth; physical sociability (plazas, markets, fiestas) retains importance alongside digital socialization.<br><br>
-__Grievance Channels & Social Discharge:__ Protest permitted but often ineffective; femicide marches (#NiUnaMenos) achieve visibility without proportionate policy response; social media allows grievance expression but discharge incomplete; accumulated grievance manifests in periodic large-scale protests.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Presidential system with traditionally weak federalism; AMLO (2018–2024) consolidates executive power while rhetorically championing popular sovereignty; Morena party dominates at federal level; state-level variation persists; power concentrating in presidency while decentralizing rhetorically.<br><br>
-__Succession & Power Transfer:__ Electoral democracy functioning — 2018 transition to AMLO smooth, 2024 election to Claudia Sheinbaum maintains Morena power; opposition fragmented; transfer routinized at federal level though local elections sometimes violent; digital platforms integral to campaigning.<br><br>
-__Legitimacy & Political Narrative:__ AMLO's "Fourth Transformation" narrative dominates political discourse; daily morning press conferences (mananeras) livestreamed bypass traditional media; opposition narratives fragment across platforms; legitimacy concentrated in presidency while institutional trust low.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic capacity hollowed by AMLO's austerity measures; digitization of government services (Bienestar) proceeds unevenly; corruption persists though some transparency tools improve accountability; military assumes expanded administrative roles.<br><br>
-__Political Participation & Mobilization:__ Electoral participation moderate (60% turnout); digital organizing through WhatsApp and Facebook; bot networks active during elections; grassroots mobilization mixes physical networks with digital coordination; youth engagement increasingly platform-mediated.<br><br>
-__Geopolitical Position & External Relations:__ US economic dependence overwhelming (80% of exports); migration management central to US relationship; nearshoring creates new investment inflows; digital sovereignty not seriously pursued given structural dependence on US platforms and infrastructure.<br><br>
-__Coercive Apparatus & Means of Force:__ Military expanded under AMLO (National Guard, infrastructure projects, airport management); police forces unreliable and often compromised by cartels; force distribution fragmented between state, cartels, and autodefensas; coercive capacity decentralized and contested.<br><br>
-__Internal Order & Threat Environment:__ Homicide rate elevated (25,000-30,000 annually); cartel violence concentrated in specific zones but expanding; journalist murders highest in Western Hemisphere; violence against women epidemic (10 femicides daily); order maintained in most urban areas but collapsed in cartel-controlled zones; margin against violence shocks minimal in contested territories.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ WhatsApp reaches 90% of connected population; Facebook dominant social platform; Twitter/X used by political class and journalists; TikTok growing among youth; mobile internet penetration reaches 75%; transmission effectively instantaneous within connected populations; rural and indigenous zones less connected.<br><br>
-__Record, Storage & Persistence:__ Government digitization of records proceeds unevenly; platform archives vast but access limited; cartel violence documentation accumulates in journalist archives and NGO databases; WhatsApp encryption protects communications but complicates investigations.<br><br>
-__Framing, Censorship & Discourse Norms:__ AMLO's mananeras set daily news agenda; traditional media (Televisa, TV Azteca) declining but still influential; self-censorship endemic among journalists facing cartel threats; platform content moderation inconsistent; cartel social media presence shapes discourse in affected zones through intimidation.<br><br>
-__Reception, Attention & Amplification:__ Algorithmic amplification favors emotional content; mananeras clips circulate virally; cartel execution videos amplify through morbid attention; misinformation spreads rapidly through WhatsApp forwarding; attention fragmented across platforms with different demographic profiles.<br><br>
-__Signal Integrity & Noise Load:__ Misinformation on health, politics, and security proliferates; verification initiatives limited; cartel propaganda indistinguishable from news in some zones; government messaging contested by opposition media; noise load high and verification capacity insufficient; trust in sources declining.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Deep cynicism about justice system; impunity normalized; femicide and disappearances create acute sense of injustice among affected communities; moral outrage persists but expectation of redress low; digital platforms amplify visibility of injustice without enabling resolution.<br><br>
-__Law, Codification & Regulatory Evolution:__ Criminal justice reform (adversarial system) implementation continues; data protection law (LFPDPPP) in force but enforcement weak; platform regulation minimal; anti-corruption framework exists but enforcement selective; legal framework adequate on paper, implementation deficient.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system overwhelmed; 90%+ of crimes go unpunished; cartel-related cases rarely prosecuted; judicial capacity far below caseload; liability effectively unenforceable against powerful actors; digital evidence increasingly relevant but technical capacity limited.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights extensive on paper; protection in practice varies by region and class; journalist and activist protections exist but unenforced; compliance burden on business moderate; rights gap between law and reality severe.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity rate exceeds 90%; disappearances (100,000+ cumulative) largely uninvestigated; femicides prosecuted at minimal rates; cartel violence essentially unpunished; justice deficit massive and accumulating; digital documentation of wrongs exceeds capacity for redress by orders of magnitude.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ UNAM and other universities produce research despite budget cuts; brain drain to US continues; digital platform studies emerge; theoretical frameworks imported from US; AMLO's anti-intellectual rhetoric delegitimizes expertise; scientific institutions weakened but persist.<br><br>
-__Applied Knowledge & Technical Method:__ Software development capacity growing, concentrated in Guadalajara, Monterrey, Mexico City; nearshoring brings technology transfer; manufacturing process knowledge deep; digital marketing and platform optimization techniques spread rapidly.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ PISA scores below OECD average; digital literacy variable by class; smartphone use universal but critical evaluation of sources limited; STEM education expanding through industry demand; knowledge distribution highly unequal with class-based tracking.<br><br>
-__Obsolescence & Knowledge Decay:__ Traditional craft knowledge eroding; early digital skills (desktop, email) obsolete; platform-specific knowledge turns over rapidly; manufacturing knowledge vulnerable to automation; decay rate elevated but replacement in technical sectors keeps pace.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary mythology (1910) and indigenous heritage (Aztec, Maya) provide deep identity substrate; AMLO explicitly invokes Fourth Transformation narrative linking to Independence, Reform, Revolution; narco-culture provides counter-mythology in affected regions; national identity contested but coherent enough to sustain political mobilization.<br><br>
-__Artistic Expression & Material Culture:__ Digital aesthetic layered over traditional forms; meme culture vibrant; narco-aesthetic (narcocorridos, ostentatious display) circulates through YouTube and TikTok; traditional crafts persist alongside digital content creation; material culture diversifying rather than homogenizing.<br><br>
-__Collective Mood & Behavioral Disposition:__ Fatalism about violence coexists with political hope (AMLO's election); anxiety elevated in violence-affected zones; collective mood varies sharply by region and class; digital platforms concentrate emotional extremes while median disposition remains pragmatically adaptive.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary rhetoric increasingly hollow; some religious symbols commercialized (Santa Muerte, Virgen de Guadalupe merchandise); political slogans cycle rapidly through memetic mutation; meaning decay partial — traditional symbols retain potency for many while emptying for urbanized youth.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology (80% nominal) provides baseline framework; evangelical growth (10% and rising) offers alternative; Santa Muerte cult expands, particularly in violence-affected and marginalized populations; indigenous cosmologies persist in southern regions; spiritual landscape diversifying.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Catholic feast days (Virgen de Guadalupe, Day of the Dead) retain mass participation; evangelical worship expands through megachurches and digital streaming; devotional practices increasingly mediated through digital platforms (livestreamed masses, prayer request WhatsApp groups).<br><br>
-__Religious Institutions & Doctrinal Authority:__ Catholic hierarchy losing influence despite numerical dominance; evangelical churches gaining political voice; doctrinal authority fragmenting as charismatic leaders build personal followings through digital platforms; institutional religion weakening while popular religion persists.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Evangelical growth displaces Catholic practice particularly in south; Santa Muerte syncretic cult expands in narco-affected zones; New Age and indigenous-revival spiritualities reach niche populations; spiritual map diversifying rather than simplifying.<br><br>
-__Disenchantment & Sacred Discharge:__ Urban middle-class secularization advances; therapeutic culture substitutes for spiritual practice among some educated populations; existential anxiety about violence partially processed through religious frameworks; disenchantment accumulates among those outside functioning religious communities, manifesting as fatalism or substance use rather than articulated void.<br><br>
+# __2014 CE – 2026 CE — Mexican Digital Transformation__
+
+__Summary:__ Mexico's digital transformation proceeds through expanding smartphone connectivity and platform adoption alongside a political shift as AMLO's presidency (2018-2024) pioneers direct-to-public digital communication through daily morning press conferences, while cartel violence, journalist targeting, and the digital divide between urban and rural Mexico create a distinctively constrained information environment — state-platform-violence interactions shape the Mexican digital experience.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Mexico spans from the US border to Central America, with population concentrated in the Valley of Mexico (Mexico City metropolitan area, 22 million), Guadalajara, and Monterrey. The Sierra Madre ranges and the northern desert create connectivity challenges for rural communities and indigenous territories.
+
+__Climate Regime & Volatility:__ Variable climate from arid north to tropical south. Hurricane exposure on both coasts requires emergency communication systems increasingly reliant on digital networks. Climate events test infrastructure resilience and drive internal migration.
+
+__Hazard Regime & Exposure:__ Seismic vulnerability — 2017 earthquake (magnitude 7.1) kills hundreds, with social media coordinating immediate citizen rescue response faster than official channels. Digital tools prove critical for emergency coordination and victim location.
+
+__Resource & Energy Endowment:__ Oil (Pemex), though declining. AMLO's energy nationalism — prioritizing CFE (state electricity) and Pemex over private renewables — plays out through digital communication as the president defends policies in morning press conferences against criticism circulating on social media.
+
+__Waste Absorption & Sink Capacity:__ Air pollution in Mexico City documented and shared through digital monitoring apps. Environmental activism organized through platforms, though limited compared to scale of industrial and urban waste challenges.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ COVID-19 pandemic hits Mexico hard — over 330,000 official deaths by 2023, though excess mortality estimates suggest much higher tolls. AMLO initially downplays the virus, promotes unproven remedies, and resists lockdowns — positions communicated directly through his morning press conferences and amplified across platforms.
+
+__Nutrition & Physiological Vitality:__ High obesity and diabetes rates — among world's highest — create COVID-19 vulnerability. Digital campaigns around nutrition and exercise circulate but compete with food industry advertising on platforms.
+
+__Care, Healing & Recovery Capacity:__ Healthcare system strained, particularly during pandemic. Telemedicine expands through necessity. AMLO's IMSS-Bienestar system aims to extend coverage, with digital enrollment and coordination.
+
+__Reproductive Biology & Pairing Dynamics:__ Conservative social values persist in much of the country, though abortion decriminalization advances through Supreme Court decisions (2021-2023) and state-level reforms, with organizing happening significantly through digital feminist networks.
+
+__Demographic Renewal & Density:__ Population reaches approximately 135 million by 2026. Young median age creates large digitally native population. Migration to the US continues, with diaspora maintaining family connections through WhatsApp and video calling.
+
+__Attrition & Dependency Overhang:__ Pandemic mortality, cartel violence deaths (approximately 30,000+ homicides annually), and migration drain create demographic pressures documented but normalized through repeated social media exposure.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Poverty persistent — around 40% of population. AMLO's direct transfer programs (Pension for the Elderly, Sembrando Vida, Youth Building the Future) delivered increasingly through digital banking systems.
+
+__Energy Capture & Conversion:__ Mixed grid, hydroelectric and thermal. AMLO's defense of CFE monopoly against private renewable competition generates significant online debate, with critics arguing the policy slows green transition.
+
+__Labor Organization & Coercion:__ Nearshoring boom as US-China tensions drive manufacturing to Mexico. Tech sector growth in Guadalajara (Mexico's Silicon Valley), Monterrey, and Mexico City. Digital labor platforms expand for delivery and services.
+
+__Production & Surplus Capacity:__ Manufacturing strength, particularly automotive and electronics. Maquiladora sector persists along border. Nearshoring accelerates after 2020, with Mexico positioned as alternative to China for US supply chains.
+
+__Storage, Reserves & Buffering:__ Central bank maintains stability. Peso relatively stable compared to other Latin American currencies. Remittances from US (over $60 billion annually by 2023) flow increasingly through digital channels.
+
+__Exchange, Trade & Logistics:__ USMCA (2020) replaces NAFTA. E-commerce grows — MercadoLibre, Amazon Mexico. Last-mile delivery expands in cities. Cross-border digital commerce with US significant.
+
+__Value Storage, Credit & Deferred Exchange:__ Fintech Law (2018) creates regulatory framework. Digital banks and lending platforms expand — Clip, Konfio, Kueski. Financial inclusion remains challenge, with significant unbanked population.
+
+__Surplus Extraction & Redistribution:__ Tax collection modernized through digital systems. SAT (tax authority) uses electronic invoicing and data analytics. However, informal economy remains large and difficult to capture.
+
+__Wealth Distribution & Asset Defense:__ Inequality persistent. Carlos Slim (telecom billionaire, owner of America Movil/Telmex/Telcel) remains dominant economic figure. Digital economy creates new wealth concentrations alongside old ones.
+
+__Byproducts & Waste Routing:__ E-waste growing concern. Data center expansion creates new energy demands. Cryptocurrency mining operations appear in areas with cheap electricity.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Transnational families maintained through digital communication — WhatsApp video calls connect migrants in the US with relatives in Mexico. Remittances and emotional connection flow through platforms.
+
+__Association & Mutual Aid:__ Civil society digitally organized — earthquake response (2017) demonstrates citizen coordination capacity. Volunteer networks, neighborhood associations, and mutual aid groups coordinate through messaging apps.
+
+__Leisure, Play & Sociability:__ Platform consumption dominates urban leisure. TikTok adoption rapid among youth. Football (soccer) communities active online. Gaming significant among young Mexicans.
+
+__Stratification, Status & Group Structure:__ Urban-rural divide reinforced digitally. Indigenous communities face connectivity gaps and language barriers on Spanish-dominated platforms. Class mobility through education increasingly requires digital literacy.
+
+__Administrative Capacity & Institutional Integrity:__ AMLO's "Fourth Transformation" (4T) attempts to restructure state institutions, often using digital communication to bypass bureaucracy and traditional political intermediaries. Direct social program delivery through digital enrollment reduces corruption opportunities but also weakens institutional capacity.
+
+__Coercive Apparatus & Means of Force:__ Military role expands under AMLO — National Guard created, military given infrastructure projects (new airport, tourist train), military business interests grow. Cartel capacity remains formidable, with some cartels using social media for recruitment, intimidation, and propaganda.
+
+__Discharge, Disorder & Decay:__ Cartel violence persists at extreme levels. Journalists and activists targeted — Mexico among world's most dangerous countries for reporters. Digital threats complement physical violence. Disappearances continue (Ayotzinapa 43 in 2014 galvanizes digitally-organized protest movement). Violence normalized through repeated platform exposure, creating desensitization even as documentation accumulates.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ AMLO maintains high approval ratings through direct communication, using morning press conferences ("mananeras") to shape daily news agenda. Opposition frustration with inability to break through. Fear of violence coexists with fatalistic acceptance.
+
+__Leadership & Personal Authority:__ AMLO dominates Mexican politics through personal charisma and daily three-hour morning press conferences streamed live on YouTube and covered by all media. This direct-to-public communication bypasses intermediaries and allows him to respond immediately to any criticism.
+
+__Legitimacy as Lived Allegiance:__ Strong popular support for AMLO despite elite criticism. His framing — "the people" versus "the mafia of power" — resonates with base. Electoral legitimacy reinforced by 2018 landslide and 2024 continuation through Sheinbaum.
+
+__Political Will & Collective Resolve:__ Morena party consolidates power at federal and state levels. Opposition fragments and fails to develop effective digital communication strategy. Sheinbaum's 2024 victory continues Morena dominance.
+
+__External Relations & Posture:__ AMLO maintains non-intervention stance, refusing to pressure Cuba or Venezuela. Pragmatic relationship with US despite Trump and then Biden tensions over migration and drugs. Digital diplomacy minimal — AMLO focuses domestic attention on domestic issues.
+
+__Disaffection, Apathy & Spent Will:__ Opposition voters experience political despair as Morena dominance continues. Middle-class frustration expressed on Twitter/X but fails to translate into electoral success. Digital echo chambers reinforce existing alignments rather than changing minds.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Internet penetration reaches approximately 75-80% by 2026, with significant urban-rural divide. WhatsApp near-universal among smartphone users. Spanish dominance excludes some indigenous language speakers from digital discourse.
+
+__Channels & Transmission Velocity:__ AMLO's mananeras create daily information cycle — three-hour press conferences generate clips that circulate all day across platforms. YouTube primary distribution channel. WhatsApp forwards extend reach. Traditional media must respond to mananera agenda.
+
+__Record, Storage & Persistence:__ Mananeras archived and searchable, creating unprecedented record of presidential communication. However, this also enables opponents to compile contradictions and false claims for criticism videos.
+
+__Framing, Censorship & Discourse Norms:__ AMLO attacks critical media as "fifis" (elitists) and accuses journalists of corruption without evidence. Press freedom formally protected but hostile environment created. Self-censorship widespread regarding cartel coverage — publications avoid reporting that might draw violent retaliation.
+
+__Reception, Attention & Amplification:__ AMLO supporters share his clips enthusiastically. Critics compile counter-narratives. Two information ecosystems operate largely in parallel, with limited crossover or persuasion across divides.
+
+__Signal Integrity & Noise Load:__ Misinformation about cartels, politics, and public figures circulates widely. Verification difficult. Death threats delivered digitally to journalists create chilling effect. What is true about cartel activities often cannot be safely reported, creating systematic distortion of public understanding.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ AMLO's rhetoric emphasizes honesty, poverty reduction, and fighting corruption — resonating with populations exhausted by decades of scandal. "First the poor" (primero los pobres) as governing principle.
+
+__Law, Codification & Regulatory Evolution:__ Legal reforms under 4T include judicial changes, constitutional amendments, and Fintech Law (2018) for digital finance regulation. However, rule of law remains weak in areas of cartel control.
+
+__Adjudication, Liability & Sanction:__ Justice system overwhelmed and corrupt in many areas. High impunity rate — vast majority of crimes go unsolved. Digital documentation of crimes (cartel violence, police brutality) rarely leads to prosecution.
+
+__Rights, Protections & Compliance Burden:__ Journalists' rights theoretically protected but practically at risk. Press freedom organizations document attacks. Digital security increasingly necessary for reporters covering sensitive topics.
+
+__Impunity & Unredressed Wrong:__ Impunity near-total for cartel violence, political corruption of previous regimes (despite AMLO rhetoric), and ongoing disappearances. Ayotzinapa families still seeking justice a decade later. The gap between documented wrongs and actual accountability remains vast, with digital evidence accumulating but justice not following.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Mexican universities produce research on digital transformation, platform dynamics, and media. UNAM and Tecnologico de Monterrey strong in technical fields. Brain drain to US tech sector continues.
+
+__Applied Knowledge & Technical Method:__ Tech sector grows in Guadalajara ("Mexican Silicon Valley"), Monterrey, and Mexico City. Software development, IT services, fintech development. Nearshoring brings technical capacity building.
+
+__Education, Knowledge Stock & Skill Distribution:__ Educational quality variable — strong private universities, struggling public system. Digital literacy expands among youth but older generations lag. STEM education prioritized but access unequal.
+
+__Obsolescence & Knowledge Decay:__ Traditional journalism skills erode as business models collapse. Investigative reporting capacity declines as advertising revenue shifts to platforms. Knowledge of how to cover violence safely being developed in real-time through tragic trial and error.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ AMLO draws on Mexican historical narrative — Benito Juarez, Lazaro Cardenas, the Revolution — to legitimize the "Fourth Transformation." Indigenous heritage celebrated rhetorically while indigenous communities face ongoing marginalization.
+
+__Legitimating Narrative & Ideology:__ The 4T narrative — Mexico was governed by corrupt elites who sold out to foreign interests, and now the people are taking back their country — provides coherent ideological frame. Critics counter that AMLO undermines institutions and enables militarization.
+
+__Artistic Expression & Material Culture:__ Mexican creative industries produce content for streaming platforms — Netflix and Amazon invest in Mexican productions. Regional music (corridos tumbados, reggaeton) circulates through Spotify and YouTube. Visual arts active on Instagram.
+
+__Form Exhaustion & Meaning Decay:__ Revolutionary nationalism deployed by AMLO has long history but risks exhaustion if not matched by material improvement. Day of the Dead becomes global brand through Pixar's Coco, raising questions about cultural commodification.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic heritage persists though practice declines. Evangelical growth slower than in Brazil or Central America. Syncretic traditions (Santa Muerte, folk Catholicism) strong in some areas and present on social media through devotional pages and groups.
+
+__Ritual, Devotion & Sacred Practice:__ Pilgrimage to Basilica of Our Lady of Guadalupe continues — millions annually. Religious practice increasingly documented and shared digitally. Guadalupan devotion remains central cultural reference point.
+
+__Religious Institutions & Doctrinal Authority:__ Catholic Church loses some cultural authority but remains significant. No equivalent to Brazilian evangelical political mobilization — Mexican religious landscape more fragmented and less politically organized.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Santa Muerte devotion grows, with online communities and social media presence. Narco-saints and cartel spiritual practices exist in gray zone between religiosity and criminality. Traditional indigenous spirituality maintains presence in some communities.
+
+__Disenchantment & Sacred Discharge:__ Secular nationalism provides alternative meaning framework for educated middle class. Violence and impunity create spiritual crisis for those seeking meaning in suffering — why does Mexico endure such violence? Religious answers compete with political ones, but neither fully satisfies. The accumulation of death and the failure of justice leave spiritual questions unanswered even as digital documentation makes the scale of suffering impossible to ignore.

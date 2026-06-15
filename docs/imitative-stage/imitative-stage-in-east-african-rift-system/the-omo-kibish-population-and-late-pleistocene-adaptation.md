@@ -1,69 +1,139 @@
-# __195,000 BCE – 150,000 BCE__ — The Omo-Kibish Population and Late Pleistocene Adaptation
-__Summary:__ Anatomically modern Homo sapiens populations occupy the lower Omo Valley and adjacent Ethiopian Rift during this 45,000-year window, exploiting lacustrine and riverine resources with a fully developed Middle Stone Age toolkit; the binding constraint is the transmission of increasingly refined lithic technologies through imitative demonstration without linguistic encoding; the system holds moderate margin against climatic oscillation through mobility and territorial flexibility within the Rift refugium; the population stands at the anatomical threshold of modernity, with Omo I representing fully modern cranial morphology while Omo II retains more archaic features, indicating variation within a single biological population.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Lower Omo Valley forms a north-south corridor feeding into the Turkana Basin; the Ethiopian Rift provides elevated flanks with diverse ecological zones; transit friction moderate along river courses, higher across escarpments; the region functions as a refugium during arid phases elsewhere.<br><br>
-__Climate Regime & Volatility:__ Late Middle Pleistocene climate characterized by precessional-scale wet-dry oscillations; the window spans interglacial and early glacial conditions; lake levels fluctuate but maintain perennial water sources; overall trend toward increased variability without directional aridity.<br><br>
-__Hazard Regime & Exposure:__ Volcanic activity continues in the Ethiopian Rift; periodic ashfall and tectonic subsidence documented; drought cycles impose episodic stress; populations hold adequate margin through access to permanent water in the Omo-Turkana system.<br><br>
-__Resource & Energy Endowment:__ Local basalt and quartz available; obsidian accessible from highland sources at moderate transport distances; the Omo delta provides fish, molluscs, and waterfowl; mammalian fauna abundant; endowment adequate for low-density foraging populations.<br><br>
-__Waste Absorption & Sink Capacity:__ Lithic debris and faunal remains dispersed across fluvial terraces; absorptive capacity effectively unlimited; no saturation; environmental impact negligible.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic parasite load typical of tropical riverine environments; no direct paleopathological evidence from Omo-Kibish; mortality baseline elevated by trauma and predation rather than epidemic disease.<br><br>
-__Nutrition & Physiological Vitality:__ Omo I and II crania indicate robust, well-nourished individuals; stature and body mass within modern human range; no evidence of nutritional deficiency; aquatic resources may buffer against seasonal protein shortfalls.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Sexual dimorphism at modern human levels; pair-bonding inferred from demographic structure; reproductive biology identical to modern Homo sapiens; no direct evidence of selective pressures within the window.<br><br>
-__Demographic Renewal & Density:__ Population sparse, concentrated along watercourses; replacement rate adequate for persistence; no evidence of population crash or rapid expansion; density stable at well below carrying capacity.<br><br>
-__Attrition & Dependency Overhang:__ Small mobile groups absorb dependents through direct care; no archaeological evidence of extended support for aged or infirm; attrition managed through group flexibility; dependency load light.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed economy emphasizing lacustrine resources (fish, shellfish, hippo, crocodile) alongside terrestrial hunting and plant collection; provisioning secure given resource diversity; no evidence of chronic scarcity.<br><br>
-__Energy Capture & Conversion:__ Fire fully controlled; cooking routine; muscle power the sole mechanical source; energy throughput supports mobile foraging with seasonal concentration at resource-rich locations.<br><br>
-__Labor Organization & Coercion:__ Cooperative band-level organization; task allocation by age and skill; no coercive hierarchy; collective hunting and processing coordinated through observation and participation.<br><br>
-__Production & Surplus Capacity:__ Stone tool production adequate for immediate needs; MSA points and scrapers manufactured on site; no surplus stockpiling; production geared to replacement and situational demand.<br><br>
-__Storage, Reserves & Buffering:__ No durable food storage; fat reserves and territorial knowledge the primary buffers; dried fish or smoked meat possible but unattested; resilience maintained through resource diversity and mobility.<br><br>
-__Exchange, Trade & Logistics:__ Raw material transported moderate distances, indicating logistical planning; no formal exchange networks; material movement embedded in seasonal ranging; obsidian acquisition implies either direct access or inter-group transfer.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No medium of stored value; reciprocity immediate or kinship-embedded; no formalized debt; deferred exchange limited to implicit obligations within the band.<br><br>
-__Surplus Extraction & Redistribution:__ No extractive authority; game and gathered resources shared at band level; distribution follows immediate-return logic without formal reallocation mechanisms.<br><br>
-__Wealth Distribution & Asset Defense:__ No durable wealth; personal tool kits the only material holdings; no defensive behavior toward possessions evident; egalitarian distribution prevails.<br><br>
-__Byproducts & Waste Routing:__ Faunal remains and lithic debris left at processing sites; fully dispersed; no recycling or controlled disposal; load on environment negligible.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius extends to band and allied kin; cooperative foraging and childcare require high mutual confidence; reciprocity maintained through face-to-face interaction and shared labor.<br><br>
-__Stratification, Status & Group Identity:__ Minimal stratification; status linked to demonstrated hunting and knapping skill; group identity emerging along lines of technical tradition and territorial range but not symbolically marked in recoverable ways.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear families within larger band structure; inheritance of knowledge through imitative transmission from parent to child and senior to junior; marriage patterns unrecoverable but likely exogamous across neighboring bands.<br><br>
-__Civic Association & Self-Organization:__ Band the sole organizational unit; fission-fusion dynamics adjust group size to resource conditions; no supra-band association.<br><br>
-__Leisure, Play & Sociability:__ Non-work time spent in proximity to kin; play unrecoverable but inferred from primate baselines; sociability structured by the rhythms of foraging and camp life.<br><br>
-__Grievance Channels & Social Discharge:__ Conflict resolved through avoidance, fission, or direct confrontation; no mediation mechanisms; grievance load absorbed by spatial mobility and small group size.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ No formal authority; situational leadership emerges around hunting and group movement; consensus decision-making at band level; no apparatus of command.<br><br>
-__Succession & Power Transfer:__ Leadership task-specific and temporary; no succession mechanism; authority dissipates with the task that evokes it.<br><br>
-__Legitimacy & Political Narrative:__ No recoverable political narrative; legitimacy grounded in visible competence and demonstrated contribution to group welfare.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative capacity; coordination achieved through imitation and co-presence; no records, no delegation, no institutional persistence.<br><br>
-__Political Participation & Mobilization:__ All adults participate in band decisions; no exclusion; mobilization limited to immediate collective action.<br><br>
-__Geopolitical Position & External Relations:__ Inter-group relations structured by kinship and territorial proximity; competition possible during resource stress but not documented; no sustained conflict evident.<br><br>
-__Coercive Apparatus & Means of Force:__ No organized coercion; individual capacity for violence adequate for defense and hunting; MSA points lethal weapons but no specialized military technology.<br><br>
-__Internal Order & Threat Environment:__ Internal disorder limited to interpersonal conflict; external threats from large predators (lion, hyena, crocodile) and occasional intergroup competition; margins adequate through vigilance and group defense.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Knowledge transmitted through gestural demonstration and observational learning; transmission velocity limited to face-to-face contact within the band; no symbolic or acoustic encoding; reach bounded by physical co-presence.<br><br>
-__Record, Storage & Persistence:__ No external record; all knowledge held in embodied skill and living memory; persistence depends on unbroken imitative chains; loss occurs when skilled practitioners die before transmitting competence.<br><br>
-__Framing, Censorship & Discourse Norms:__ No symbolic discourse; communication confined to gesture, posture, and demonstration; no recoverable norms governing transmission content.<br><br>
-__Reception, Attention & Amplification:__ Attention focused on skilled demonstrators during toolmaking and foraging; amplification limited to the number of observers present; no broadcast mechanism.<br><br>
-__Signal Integrity & Noise Load:__ Integrity maintained through repeated practice and peer correction; noise accumulates with distance from source demonstrator; regional variation may reflect accumulated transmission error; verification through successful replication alone.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Basic fairness intuitions inferred from primate comparatives; sharing norm violations sanctioned informally; no recoverable moral philosophy.<br><br>
-__Law, Codification & Regulatory Evolution:__ No formal law; behavioral regulation entirely customary; binding taboos may exist but are archaeologically invisible.<br><br>
-__Adjudication, Enforcement & Liability:__ No third-party adjudication; disputes settled directly or through group pressure; liability assigned through reputation based on observed behavior.<br><br>
-__Rights, Protections & Compliance Burden:__ No formalized rights; protection through band membership; compliance burden minimal.<br><br>
-__Impunity & Unredressed Wrong:__ Wrongs redressed through immediate retaliation or social exclusion; persistent grievance resolved by fission; impunity possible for those who leave, at the cost of social standing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; practical knowledge of stone fracture, animal behavior, seasonal resources accumulated experientially and retained imitatively; no theoretical abstraction recoverable.<br><br>
-__Applied Knowledge & Technical Method:__ MSA prepared-core reduction fully developed; Levallois and discoidal methods produce standardized points and scrapers; hafting inferred from morphology; technical method represents the accumulated refinement of imitative chains over many generations.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Skills acquired through apprenticeship by observation; knowledge stock limited to what can be demonstrated; distribution uneven, concentrated in practiced individuals; no formal education.<br><br>
-__Obsolescence & Knowledge Decay:__ Techniques lost when chains break; no mechanism for preserving superseded methods; decay rate tied to demographic disruption; the persistence of MSA forms suggests adequate transmission continuity within the window.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Deep identity tied to territory and technical tradition; no symbolic markers recoverable; the morphological variation between Omo I and Omo II suggests a single population without culturally marked subdivisions.<br><br>
-__Artistic Expression & Material Culture:__ Pigment use documented regionally; no representational art; material culture dominated by functional stone tools; stylistic variation within MSA norms but no elaboration beyond technical requirements.<br><br>
-__Collective Mood & Behavioral Disposition:__ Temper unrecoverable; the persistence of occupation in the Omo region suggests adaptive confidence; no evidence of defensive contraction or expansive migration.<br><br>
-__Form Exhaustion & Meaning Decay:__ MSA forms remain productive and actively refined; no evidence of exhaustion or stagnation; innovation continues within imitative constraints; the technological repertoire shows no decay across the window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ No cosmological system recoverable; existential engagement embedded in practical life; metaphysical abstraction beyond imitative transmission capacity.<br><br>
-__Ritual, Devotion & Sacred Practice:__ No unambiguous ritual evidence at Omo-Kibish; pigment use may carry ceremonial dimensions but equally interpretable functionally; habitual sacred practice undetectable.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No institutional religion; no doctrinal authority; any spiritual specialists indistinguishable archaeologically from the general population.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ No recoverable diffusion of spiritual beliefs; transmission limited by the constraints of gestural demonstration; range and complexity therefore minimal.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment; the category presupposes prior enchantment that cannot be documented; spiritual residue, if present, leaves no material trace.<br><br>
+# __233,000 BCE – 150,000 BCE__ — The Omo-Kibish Population and Late Pleistocene Adaptation
+
+__Summary:__ A snapshot of the earliest anatomically modern human population documented in the East African Rift System, centered on the Omo-Kibish locality in the lower Omo River valley of southern Ethiopia, where individuals with fully modern cranial morphology inhabited fluctuating lake-margin environments during Marine Isotope Stages 7 and 6. The binding constraint remains the imitative transmission regime: these anatomically modern humans possess brains capable of language and complex culture, yet their technology and social organization show no qualitative leap beyond contemporary populations elsewhere in Africa, suggesting that the cognitive potential for symbolic culture has not yet been fully realized through accumulated cultural innovation, with knowledge still passing hand to hand and drifting in transmission.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Omo-Kibish formation occupies the lower Omo River valley where it drains into the northern margin of a greatly expanded paleo-Lake Turkana. The Omo River, fed by Ethiopian highland rainfall, provides a permanent water source cutting through an otherwise semi-arid basin. To the east rise the Ethiopian escarpments; to the south extends the Turkana Basin proper. Movement along the river corridor is relatively easy; perpendicular movement into the surrounding uplands requires ascending through increasingly difficult terrain. The locality sits at the junction of highland Ethiopian biomes and lowland rift valley ecosystems, creating an ecotonal position with access to varied resource zones within reasonable foraging radius.
+
+__Climate Regime & Volatility:__ The window spans the later portion of Marine Isotope Stage 7 through much of MIS 6, encompassing a full glacial cycle with associated lake-level and vegetation shifts. During MIS 7 interglacial conditions, Lake Turkana expands dramatically, with overflow potentially linking to the Nile drainage. The Omo River maintains flow even during arid phases, providing a reliable water source when the lake contracts. MIS 6 brings increased aridity and cooler temperatures globally, reducing lake levels and shifting vegetation toward more open formations. The 100-kyr glacial cycle now dominates climate forcing, producing high-amplitude oscillations that repeatedly reconfigure the habitable landscape.
+
+__Hazard Regime & Exposure:__ The active rift setting produces volcanic eruptions from centers in the Ethiopian sector, providing the tephras that date the Omo-Kibish deposits but also creating episodic ashfall hazards. The 2022 revised dating places the Omo I fossil below a tephra correlated to the 233 ka Nakali eruption. Flooding along the Omo River during high-rainfall periods represents a seasonal hazard. Lake transgressions during interglacials would inundate low-lying occupation sites. Drought during glacial maxima reduces both direct water availability and the prey populations dependent on it.
+
+__Resource & Energy Endowment:__ The Omo River corridor provides reliable freshwater and supports riparian vegetation and game concentrations. Hippopotamus, crocodile, and fish inhabit the river and lake margins. The surrounding basin supports antelope, zebra, and other grazing species during wetter periods. Lithic raw materials include locally available quartz, chert, and obsidian transported from highland volcanic sources. The ecotonal position allows exploitation of both lowland savanna and highland forest resources within extended foraging range.
+
+__Waste Absorption & Sink Capacity:__ Population densities remain extremely low. Human waste, lithic debitage, and food remains disperse without saturating any sink. Fluvial processes at the river margin rework and redeposit material, creating the fossiliferous sedimentary context but also indicating that the landscape readily absorbs the modest human impact.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The tropical lowland setting and permanent water body create conditions favorable to waterborne parasites and vector-borne diseases. Malaria, schistosomiasis, and intestinal parasites probably contribute to background morbidity. Low population density limits epidemic spread. Mortality concentrates in infancy and early childhood, with those surviving to adulthood having moderate life expectancy. The skeletal sample is too small to establish mortality patterns statistically, but comparison with later forager populations suggests life expectancy at birth below 30 years.
+
+__Nutrition & Physiological Vitality:__ The anatomically modern individuals represented by Omo I and Omo II show robust skeletal development, with Omo I exhibiting the high, globular cranial vault and reduced brow ridge characteristic of Homo sapiens. The stature and robusticity suggest adequate nutrition during development. The diverse resource base of the river-margin ecotone provides dietary breadth: fish, aquatic mammals, terrestrial game, and gathered plant foods combine to meet nutritional requirements. Seasonal variation in resource availability would impose periodic stress.
+
+__Care, Healing & Recovery Capacity:__ Care for the injured and ill depends on kin and band-mates providing direct support. Knowledge of wound treatment, medicinal plants, and midwifery passes through demonstration. No specialized healing apparatus exists; recovery depends on individual resilience and social support. The presence of adult fossils indicates that some individuals survive to maturity despite the hazards of this environment.
+
+__Reproductive Biology & Pairing Dynamics:__ The anatomically modern body plan includes the extended juvenile dependency and altricial birth pattern of Homo sapiens, requiring sustained parental investment and likely cooperative breeding. Pair-bonding and male provisioning of mothers and offspring would be functionally necessary. Female reproductive span and interbirth intervals follow modern human patterns, constrained by lactation and energetic balance.
+
+__Demographic Renewal & Density:__ Population at the Omo-Kibish locality probably numbered in the low hundreds at any time, with the broader Omo-Turkana region supporting perhaps a few thousand individuals distributed across habitable zones. Density is extremely low by later standards. Replacement-level reproduction maintains population under favorable conditions; contraction occurs during environmental stress. Over the 83,000-year window, population neither grows dramatically nor collapses permanently.
+
+__Attrition & Dependency Overhang:__ Dependents include infants, juveniles, the elderly who can no longer forage, and those incapacitated by illness or injury. The small group sizes limit the burden any one band can absorb. Individuals who cannot maintain mobility face abandonment. The demographic structure skews young, with few surviving past their fifth decade.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The river-margin environment supports a diversified foraging economy. Fishing using Middle Stone Age technologies (bone harpoons appear later, but simpler fish exploitation is likely), hunting of terrestrial and semi-aquatic game, and gathering of riverine and savanna plant foods combine to meet subsistence needs. The provisioning floor sits close to daily caloric requirements, with the permanent water source reducing the risk of total subsistence failure compared to more arid environments.
+
+__Energy Capture & Conversion:__ Human muscle provides the sole motive force. Fire use is routine, extending digestibility of foods, providing warmth during cool periods, and possibly used in landscape management through burning. The energy return on foraging must exceed investment; the diverse resource base of the ecotone provides multiple strategies to maintain positive returns.
+
+__Labor Organization & Coercion:__ Labor divides along age and likely sex lines through customary practice learned by observation. Cooperation within bands is voluntary, mediated by kinship and reciprocity. No coercive extraction of labor exists. Children learn by watching adults and gradually participating in appropriate tasks.
+
+__Production & Surplus Capacity:__ Production centers on stone tools, probably wooden implements and containers (not preserved), and processing of food for immediate consumption. Surplus production for storage or exchange is minimal. What is made is used; the production horizon is immediate rather than anticipatory.
+
+__Storage, Reserves & Buffering:__ Food storage is limited to short-term preservation. The reliable water source and year-round availability of some resources reduce the need for large reserves. Social reciprocity provides the primary buffer: successful acquisition is shared, creating obligations redeemable when fortune reverses.
+
+__Exchange, Trade & Logistics:__ Raw material transport indicates either direct procurement over extended ranges or exchange with neighboring groups. Obsidian from highland sources appears at the locality, documenting links across ecological zones. Exchange, where it occurs, follows personal encounter and reciprocal obligation rather than institutionalized trade networks.
+
+__Value Storage, Credit & Deferred Exchange:__ Value storage occurs through social relationships rather than material tokens. Gifts create obligations; favors require return. This system operates within the memory span of the participants and the reach of face-to-face interaction.
+
+__Surplus Extraction & Redistribution:__ No formal extraction exists. Redistribution occurs at the point of acquisition: meat from a successful hunt is shared according to customary patterns transmitted through demonstration. Those who share receive in turn.
+
+__Wealth Distribution & Asset Defense:__ Possessions are limited to what individuals can carry. Differences in skill produce differences in immediate resource access, but accumulated material wealth is impossible. Favored locations along the river margin may be defended through group presence, but permanent territorial boundaries are unlikely.
+
+__Byproducts & Waste Routing:__ Food remains, lithic debitage, and ash accumulate at occupation sites and are left behind when groups move. Fluvial processes redistribute this material. Waste routing is passive abandonment; the modest output is absorbed by the environment.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Band membership organizes around kinship. Individuals related by descent and marriage form the core social unit, with membership shifts occurring through birth, death, marriage, and voluntary affiliation changes. Inheritance is primarily behavioral: children inherit their parents' techniques and social standing by growing up within the system. Material inheritance is limited to portable items.
+
+__Association & Mutual Aid:__ The band provides the framework for mutual aid in subsistence, defense, and reproduction. Seasonal aggregations at resource concentrations create opportunities for wider interaction, exchange of partners, and renewal of inter-band relationships. These associations depend on personal relationships rather than formal structure.
+
+__Leisure, Play & Sociability:__ Camp life includes sociable interaction around hearths, play among children, and probably rhythmic vocalization and movement. These activities build social bonds and provide the context for observational learning of techniques and norms.
+
+__Stratification, Status & Group Structure:__ Status differences exist based on age, skill, and personal qualities. Material indicators of formal stratification are absent. Influence flows from demonstrated competence and generosity. The group structure is fluid; dissatisfied individuals can leave to join other groups.
+
+__Administrative Capacity & Institutional Integrity:__ No administrative apparatus exists. Coordination occurs through direct interaction and the influence of experienced individuals. Decisions emerge from discussion within the immediate group; no authority binds absent members or coordinates action across multiple bands.
+
+__Coercive Apparatus & Means of Force:__ Weapons for hunting serve also for defense and conflict. No specialized coercive apparatus exists. Intergroup violence likely occurs episodically. Force is personal and situational; conflict resolution depends on negotiation, flight, or combat.
+
+__Discharge, Disorder & Decay:__ Social tensions resolve through fission. The ability to leave and join other groups dissipates grievance before it accumulates. Disorder is episodic and localized. No institutional structure exists that could decay.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The affective life of these populations cannot be directly observed. The evidence of cooperative behavior, care for dependents, and maintenance of social groups over time indicates baseline levels of trust and prosocial sentiment. Mood probably tracks environmental conditions: abundance generating confidence, scarcity producing anxiety.
+
+__Leadership & Personal Authority:__ Leadership emerges from demonstrated competence in relevant domains. The best hunter, the most knowledgeable gatherer, the most experienced elder exercises influence in their area of expertise. Authority cannot be inherited or institutionalized; it must be continuously demonstrated.
+
+__Legitimacy as Lived Allegiance:__ Allegiance attaches to persons and bands. Those who provide benefits and treat others fairly retain followers; those who fail lose them to other groups. Legitimacy is personal and contingent.
+
+__Political Will & Collective Resolve:__ Collective action depends on voluntary participation inspired or persuaded by leaders. Will cannot be commanded. Groups can mobilize for specific purposes within the limits of direct communication and shared presence.
+
+__External Relations & Posture:__ Relations with other bands range from alliance and intermarriage to avoidance and hostility. Assessment of unknown others involves calculation of threat versus opportunity. The anatomical modernity of this population does not produce a qualitatively different external posture from contemporary populations elsewhere.
+
+__Disaffection, Apathy & Spent Will:__ Individual disaffection resolves through exit. The disaffected leave for other groups. Collective failure of will manifests as band dissolution rather than institutional decay.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ These anatomically modern humans possess the cranial architecture associated with language capacity. Whether fully modern language is in use remains debated; the archaeological record shows no symbolic revolution distinguishing them from other Middle Stone Age populations. Communication relies on gesture, vocalization, demonstration, and whatever degree of speech has developed. The critical point is that complex technical and social knowledge still transmits primarily through imitation: watching and copying, with verbal instruction playing at most a supplementary role. The binding constraint of the Imitative Stage persists.
+
+__Channels & Transmission Velocity:__ Information travels at walking speed through personal encounter. A technique known at Omo-Kibish reaches the Central Kenya Rift only if individuals carrying that knowledge travel there or if chains of transmission link intermediate groups. Transmission velocity is slow and transmission range limited to social network reach.
+
+__Record, Storage & Persistence:__ No durable records exist. Knowledge persists in living memory and embodied practice. When practitioners die without transmitting their skills, knowledge is lost. The archaeological signature of Middle Stone Age technology shows regional persistence of traditions, suggesting that innovation arises locally and remains localized because no mechanism carries it beyond personal transmission.
+
+__Framing, Censorship & Discourse Norms:__ Communication norms are set by face-to-face interaction. Social pressure shapes what is discussed and how. No institutional censorship exists, but communal judgment affects what is said in group settings.
+
+__Reception, Attention & Amplification:__ Reception requires presence. Amplification beyond the immediate audience requires re-telling, with each iteration subject to modification. No mechanism exists to maintain message integrity over multiple transmissions.
+
+__Signal Integrity & Noise Load:__ Imitative transmission introduces drift. Each copy diverges slightly from its model. Over generations, traditions drift without any external check. Signal integrity is impossible to maintain; the traditions that survive are those that continue to work adequately despite accumulated drift.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Moral intuitions around fairness, reciprocity, and care are present as evolved psychological features. Justice operates as proportional return: sharing generates obligation; taking without giving earns exclusion. These foundations are enacted rather than articulated.
+
+__Law, Codification & Regulatory Evolution:__ No codified law exists. Behavioral norms emerge from repeated practice and are transmitted by example. Modification occurs through the same process; there is no moment of deliberate legislation.
+
+__Adjudication, Liability & Sanction:__ Disputes are resolved informally by interested parties. Sanction ranges from gossip through ostracism to violence. There is no formal judiciary. Liability is personal; enforcement depends on those with stake in the outcome.
+
+__Rights, Protections & Compliance Burden:__ Rights as formal entitlements do not exist. Protection flows from group membership. Those within the circle of kinship and alliance receive support; those outside receive hostility or indifference.
+
+__Impunity & Unredressed Wrong:__ The powerful and essential may escape sanction that others would face. Wrongs against the weak or isolated may go unredressed if no one takes up their cause. The gap between justice owed and delivered varies with specific power relations.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Inquiry is practical: finding food, avoiding danger, solving immediate problems. Understanding aims at action. Regularities in nature are known through experience rather than formulated as explicit theories.
+
+__Applied Knowledge & Technical Method:__ The Middle Stone Age toolkit reflects accumulated practical knowledge: stone properties, flaking techniques, hafting methods. This knowledge is held in practice, not proposition. The Omo-Kibish population shows no technological advance over other MSA groups despite anatomical modernity, suggesting that the cognitive potential for innovation is not yet being realized through cumulative cultural evolution.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education occurs through apprenticeship and imitation. Children watch, attempt, receive correction through demonstration, and gradually achieve competence. The knowledge stock is distributed across living practitioners. Loss of practitioners means loss of knowledge.
+
+__Obsolescence & Knowledge Decay:__ Knowledge decays through broken transmission and drift. Techniques that practitioners fail to transmit disappear. There is no record to recover lost knowledge from. The rate of loss probably roughly matches the rate of innovation, producing technological stasis over long periods.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Collective memory extends a few generations back in living recall. Identity attaches to band, kinship network, and known landscape. Origin narratives, if they exist, are inaccessible through material evidence.
+
+__Legitimating Narrative & Ideology:__ Legitimation is embedded in tradition: this is how things are done because elders do them this way. Explicit ideology is absent; justification occurs through demonstration rather than argument.
+
+__Artistic Expression & Material Culture:__ Ochre processing appears in MSA contexts, suggesting symbolic or aesthetic applications. The standardized forms of prepared-core tools may carry aesthetic significance beyond function. Perishable expression is lost. Material culture is functional and portable, with forms transmitted through imitation.
+
+__Form Exhaustion & Meaning Decay:__ The long persistence of MSA forms indicates either successful adaptation or limits on innovation imposed by the transmission regime. Forms persist because there is no mechanism for rapid replacement. Whether this represents meaningful stability or stagnation is an open question.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Cosmological beliefs are unrecoverable. The modern cranial architecture suggests capacity for abstract thought, but its specific content is inaccessible. Existential orientation is likely absorbed in practical concerns and embedded in the rhythms of group life.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual behavior, if present, leaves no clear signature in this window. Ochre use might indicate ritual contexts, but functional explanations also apply. Mortuary practice becomes visible later at Herto but is not documented at Omo-Kibish.
+
+__Religious Institutions & Doctrinal Authority:__ No religious institutions exist. Specialist ritual practitioners, if present, leave no distinguishing material trace.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Spiritual beliefs, whatever their content, would spread through the same personal transmission channels as other knowledge. Regional isolation of traditions would limit diffusion.
+
+__Disenchantment & Sacred Discharge:__ Disenchantment presupposes prior enchantment that cannot be documented. Whatever spiritual orientation exists, its persistence or erosion is invisible in the material record. The residue, if any, cannot be tracked.

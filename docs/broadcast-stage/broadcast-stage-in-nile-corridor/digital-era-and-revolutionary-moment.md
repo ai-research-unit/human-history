@@ -1,69 +1,139 @@
-# __2005 CE – 2012 CE__ — Digital Era and Revolutionary Moment
-__Summary:__ Egypt's information regime fractures as digital media erodes the state broadcast monopoly; urban youth adopt blogging, Facebook, and Twitter while satellite channels multiply; the January 2011 revolution exposes state television's total credibility collapse; post-Mubarak transition sees media polarization between Islamist and secular camps; the binding constraint is the regime's inability to control information flows once digital channels bypass broadcast gatekeepers; margin against shock is exhausted by 2011; direction of change is rapid fragmentation and delegitimization of legacy broadcast authority.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Nile corridor and Delta concentrate population in narrow irrigated strips; Cairo's eighteen-million density amplifies any information cascade; Upper Egypt and Sinai remain peripherally connected to digital infrastructure.<br><br>
-__Climate Regime & Volatility:__ Semi-arid climate stable across the window; no major climatic disruptions affecting infrastructure or population movement; Nile flow managed by High Dam.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk low; flood risk engineered out; primary exposure is infrastructural — power grid and telecommunications vulnerable to deliberate disruption, as demonstrated in January 2011 internet shutdown.<br><br>
-__Resource & Energy Endowment:__ Egyptian natural gas production peaking then declining; petroleum reserves modest; Nile water allocation contested with upstream states; electricity demand outpacing supply by 2010.<br><br>
-__Waste Absorption & Sink Capacity:__ Cairo air pollution severe; Nile and Delta waterways heavily contaminated; industrial and municipal waste management overwhelmed; sink stress accumulating but not directly constraining information regime.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic hepatitis C affecting millions; avian influenza scares 2006–2009; urban sanitation poor in informal settlements; mortality baseline improving slowly; life expectancy around seventy years.<br><br>
-__Nutrition & Physiological Vitality:__ Bread subsidies maintain caloric floor; obesity rising among urban population; stunting persists in rural Upper Egypt; nutritional status bifurcated by class.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility declining toward replacement; marriage age rising due to housing costs and unemployment; urban youth frustrated by economic barriers to family formation.<br><br>
-__Demographic Renewal & Density:__ Population growing from seventy-four to eighty-four million across the window; youth bulge with sixty percent under thirty; unemployment concentrated in fifteen-to-twenty-nine cohort; Cairo density exceeding fifteen thousand per square kilometer in core.<br><br>
-__Attrition & Dependency Overhang:__ Youth dependency shifting to working-age unemployment burden; elderly care traditionally family-based; widows and orphans absorbed by kin networks; demographic pressure primarily manifests as job deficit not dependency overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Bread and fuel subsidies consume significant budget share; food price spikes 2007–2008 strain household budgets; approximately forty percent near poverty line; subsistence floor maintained but narrowing.<br><br>
-__Energy Capture & Conversion:__ Fossil fuel dominates; electricity generation struggling with demand; power cuts common by 2011–2012; conversion efficiency low in aging thermal plants.<br><br>
-__Labor Organization & Coercion:__ Informal sector employing majority; public sector bloated but wages eroded by inflation; labor strikes increasing 2006–2011 in textiles and public enterprises; coercion administrative rather than violent except during protests.<br><br>
-__Production & Surplus Capacity:__ Tourism, Suez Canal, and remittances primary foreign exchange sources; manufacturing weak; real GDP growth five to seven percent but jobless growth; surplus captured by connected elites.<br><br>
-__Storage, Reserves & Buffering:__ Foreign reserves adequate until 2011; grain reserves strategic concern; post-revolution reserves depleting rapidly; buffer against extended crisis thinning.<br><br>
-__Exchange, Trade & Logistics:__ Cairo as regional hub; Suez Canal chokepoint; logistics infrastructure adequate for import-dependent economy; trade deficit chronic.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Egyptian pound stable until 2011 then under pressure; banking sector concentrated; microfinance limited; informal credit networks among poor; inflation eroding purchasing power.<br><br>
-__Surplus Extraction & Redistribution:__ Tax base narrow; subsidies primary redistribution mechanism; corruption siphoning public resources; revolutionary grievance centers on inequality of extraction versus services received.<br><br>
-__Wealth Distribution & Asset Defense:__ Crony capitalism concentrating assets among regime-connected families; Gamal Mubarak circle symbolizes capture; land and real estate primary wealth stores; asset concentration fueling revolutionary anger.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent unregulated; electronic waste growing; plastic waste visible in canals and streets; routing predominantly to open dumping; municipal systems overwhelmed.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust low outside kin networks; neighborhood solidarity persists in popular quarters; revolutionary moment briefly expands trust radius then polarization contracts it again.<br><br>
-__Stratification, Status & Group Identity:__ Class division sharpening between gated communities and informal settlements; Coptic minority approximately ten percent; Muslim Brotherhood versus secular divide cross-cuts class; regional identity (Saidi, Alexandrian) persists.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance intact; marriage costs escalating barrier to family formation; extended family networks provide safety net; nuclear family ideal frustrated by economics.<br><br>
-__Civic Association & Self-Organization:__ NGO sector constrained by Law 84/2002; professional syndicates politicized; football ultras as proto-civic organization; Tahrir Square demonstrates latent self-organization capacity; post-revolution associational explosion then crackdown.<br><br>
-__Leisure, Play & Sociability:__ Football primary male leisure; coffeehouse (ahwa) sociability persistent; Ramadan television as shared ritual; youth sociability shifting to online spaces and malls.<br><br>
-__Grievance Channels & Social Discharge:__ Formal channels blocked by regime; strikes and protests rising 2006–2011; humor and political satire as discharge; January 2011 overwhelms all containment; post-revolution channels remain contested and unstable.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Mubarak presidency autocratic; NDP monopoly on formal politics; 2005 constitutional amendment allowing competitive presidential election a facade; emergency law since 1981; power concentrated until suddenly collapsed in February 2011; SCAF takes transitional control; Morsi elected June 2012.<br><br>
-__Succession & Power Transfer:__ Gamal Mubarak groomed for hereditary succession; regime unable to manage transition; military intervention breaks Mubarak line; first competitive presidential election 2012 transfers power to Muslim Brotherhood; transfer remains contested.<br><br>
-__Legitimacy & Political Narrative:__ Stability narrative eroded by unemployment and corruption; regime legitimacy collapsed by 2011; revolutionary narrative briefly ascendant then fragmented; no stable legitimating frame by window's end.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy large but inefficient; corruption endemic; security services extensive but intelligence failure in 2011; state capacity for services weak; capacity for coercion revealed then overwhelmed.<br><br>
-__Political Participation & Mobilization:__ Kefaya movement 2004; April 6 movement 2008; Muslim Brotherhood underground organizing; Facebook groups mobilizing youth; January 25 demonstration becomes revolution; participation explodes then channels contested.<br><br>
-__Geopolitical Position & External Relations:__ US ally receiving military aid; cold peace with Israel; Gulf states suspicious of instability; regional position shaken by revolution; external actors unable to control transition.<br><br>
-__Coercive Apparatus & Means of Force:__ Interior Ministry security forces primary repressive tool; Central Security Forces routed January 28 2011; military refuses to fire on protesters; coercive apparatus fractured then reconsolidating under SCAF.<br><br>
-__Internal Order & Threat Environment:__ Crime spike post-revolution; Sinai security deteriorating; sectarian incidents increasing; state capacity to maintain order compromised; instability elevated through window's end.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ State television reach universal but credibility collapsing; satellite channels (Al Jazeera, private Egyptian) offer alternatives; internet penetration rising to thirty percent by 2011; mobile phones ubiquitous; Facebook reaches five million Egyptians by 2011; Twitter among activist elite; January 25 organized via digital channels; internet shutdown January 28 fails to stop mobilization.<br><br>
-__Record, Storage & Persistence:__ Digital archives growing; regime documents seized post-revolution; social media creating unprecedented documentation of events; state records' reliability questioned; amateur video recording revolution in real time.<br><br>
-__Framing, Censorship & Discourse Norms:__ State media framing delegitimized by events; satellite channels frame revolution sympathetically; censorship collapses during eighteen days; post-revolution discourse norms contested; red lines around military persist; sectarian and political polarization shapes framing.<br><br>
-__Reception, Attention & Amplification:__ Al Jazeera viewership spikes during crisis; hashtags amplify events globally; attention economy fragmented across platforms; virality demonstrated by "We Are All Khaled Said" Facebook page reaching hundreds of thousands.<br><br>
-__Signal Integrity & Noise Load:__ Rumor and misinformation spike during revolution; state media loses verification credibility; social media noise high but self-correcting through crowdsourcing; post-revolution information environment highly contested and noisy.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Deep sense of injustice regarding corruption, police brutality, and inequality; Khaled Said case crystallizes moral outrage; revolutionary demand for dignity (karama) centers justice claims.<br><br>
-__Law, Codification & Regulatory Evolution:__ Emergency law suspending rights; constitutional amendments 2005 and 2007 manipulated; constitutional declaration March 2011; new constitution drafted 2012; legal framework in flux throughout transition.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts partially independent; constitutional court asserts power; Mubarak and associates tried; enforcement selective and politicized; transitional justice incomplete.<br><br>
-__Rights, Protections & Compliance Burden:__ Human rights systematically violated under Mubarak; torture endemic in detention; post-revolution rights contested; SCAF military trials of civilians; compliance burden shifts with political winds.<br><br>
-__Impunity & Unredressed Wrong:__ Police impunity primary grievance; post-revolution accountability limited; most security officials not prosecuted; victims' families unsatisfied; impunity gap fuels continued mobilization.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Universities under-resourced; brain drain to Gulf and West; social science analyzing authoritarian resilience proven wrong by events; paradigm crisis in understanding Egyptian politics.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering and medical training adequate; IT skills growing among youth; technical capacity for digital mobilization demonstrated; applied knowledge concentrated in professional classes.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Mass education producing credentials without skills; literacy around seventy-five percent; quality bifurcated between elite private and degraded public; skills mismatch with labor market.<br><br>
-__Obsolescence & Knowledge Decay:__ State media training obsolete; regime expertise in information control proven ineffective; old propaganda techniques discredited; knowledge decay concentrated in legacy institutions.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Pharaonic civilization as deep identity anchor; Arab and Islamic layers; 1952 revolution mythos challenged; 2011 positioned as new founding moment; competing narratives of Egyptian identity contested.<br><br>
-__Artistic Expression & Material Culture:__ Revolutionary street art and graffiti flourish; protest music emerges; cinema in decline; television drama continues Ramadan traditions; material culture reflects bifurcation between global consumer and popular local forms.<br><br>
-__Collective Mood & Behavioral Disposition:__ Pre-revolution apathy gives way to euphoria; fear barrier broken January 2011; eighteen days of collective effervescence; post-revolution mood oscillates between hope and anxiety; polarization darkening mood by 2012.<br><br>
-__Form Exhaustion & Meaning Decay:__ State television formats exhausted and discredited; regime symbols (NDP, Mubarak image) collapse; revolutionary symbols (Tahrir, raised fist) rapidly generated but also subject to co-optation and exhaustion; meaning-making unstable.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islamic framework dominant; fatalism challenged by revolutionary agency; providence invoked by all sides; secular minority exists but politically weak; existential questions opened by upheaval.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Friday prayers as gathering point; mosques as organizing space; Ramadan observance universal; Christian feast days observed by Copts; devotional practice continuous through upheaval.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Al-Azhar cautiously supportive of revolution then navigating transition; Coptic Church protective of community; Muslim Brotherhood's religious authority contested by Salafis; doctrinal pluralization under satellite-era conditions.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Salafi channels expanding reach; traditional Sufi practice declining in urban areas; Christian emigration accelerating; Islamic-secular polarization sharpening; no major syncretism but boundary disputes intensifying.<br><br>
-__Disenchantment & Sacred Discharge:__ Revolutionary moment carries quasi-sacred charge; martyrs venerated; Tahrir as sacred space; post-revolution political disappointment risks disenchantment; spiritual framework absorbs upheaval without fundamental crisis.<br><br>
+# __2005 CE – 2012 CE — Digital Era and Revolutionary Moment__
+
+__Summary:__ The final phase of broadcast-era Egypt witnesses the collision of entrenched state television control with emergent digital platforms, culminating in the January 25 Revolution that demonstrated both the limits of broadcast-era information monopoly and the mobilizing power of social media — with satellite television (Al Jazeera) amplifying what digital organizing ignited, while state broadcasting lost credibility by denying events visible to millions.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Cairo's eighteen-million-plus population concentrates in the Nile Valley and Delta, with Tahrir Square becoming the physical locus where digital organization translated into embodied presence; the square's proximity to state television headquarters on the Nile Corniche made it both symbolic target and broadcast backdrop.
+
+__Climate Regime & Volatility:__ The 2007–2008 global food price spike intensified pressure on Egypt's import-dependent grain supply, with bread prices becoming flashpoint for discontent that digital channels amplified.
+
+__Hazard Regime & Exposure:__ No major natural disasters; the hazard regime remained political — the eighteen-day occupation of public space in January–February 2011 tested urban infrastructure and security response rather than environmental resilience.
+
+__Resource & Energy Endowment:__ Declining oil production alongside rising domestic consumption eroded Egypt's energy cushion; natural gas exports faced competing claims from domestic power generation and fertilizer production, straining the subsidy regime that broadcast messaging defended.
+
+__Waste Absorption & Sink Capacity:__ Cairo's air and water quality continued degrading under population pressure and industrial output; the gap between official broadcast representations of development and lived environmental reality fed the credibility collapse state media suffered.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Avian influenza outbreaks (H5N1, 2006–2009) tested public health messaging, with state television serving as primary information channel while digital sources circulated alternative assessments of government response adequacy.
+
+__Nutrition & Physiological Vitality:__ The youth bulge — over sixty percent under thirty — combined robust physiological vitality with economic frustration; bodies capable of sustained protest action filled public spaces when digital calls mobilized them.
+
+__Care, Healing & Recovery Capacity:__ Public health infrastructure strained under population growth and budget constraints; field hospitals during the eighteen days of revolution revealed both civil-society capacity and the limits of state provision.
+
+__Reproductive Biology & Pairing Dynamics:__ High youth unemployment delayed marriage formation, creating demographic pressure that broadcast entertainment acknowledged in drama while state news ignored as political grievance.
+
+__Demographic Renewal & Density:__ Population approached eighty-five million by 2012, with annual additions exceeding one million; Cairo's density intensified the broadcast-digital interface as millions accessed both media in compressed urban space.
+
+__Attrition & Dependency Overhang:__ The youth bulge inverted traditional dependency concerns — the productive cohort swelled while employment lagged, creating underutilized human capacity that digital organizing channeled into political mobilization.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Bread subsidies remained politically untouchable; the 2008 Mahalla textile strike connected economic grievance to digital organization in the April 6 movement that prefigured 2011 mobilization.
+
+__Energy Capture & Conversion:__ Electricity blackouts increased as generation capacity failed to match demand growth; the gap between broadcast celebration of development achievements and lived infrastructure failure eroded state-media credibility.
+
+__Labor Organization & Coercion:__ Independent labor activism revived after 2006, with strikes at Mahalla and elsewhere organized through channels that bypassed state-controlled union structures and state television's silence.
+
+__Production & Surplus Capacity:__ Crony capitalism concentrated gains among regime-connected elites while official unemployment figures (around nine percent) masked far higher youth joblessness that state broadcasting avoided addressing.
+
+__Storage, Reserves & Buffering:__ Foreign reserves appeared adequate through 2010 but depleted rapidly during revolutionary uncertainty; the economic dimension's fragility became visible only when political crisis exposed it.
+
+__Exchange, Trade & Logistics:__ Tourism revenues — heavily promoted through state television imagery — collapsed during the revolution and remained volatile through the SCAF period and Morsi election, demonstrating economic dependence on the international perception state broadcasting had cultivated.
+
+__Value Storage, Credit & Deferred Exchange:__ The Egyptian pound remained stable through 2011 but the central bank burned reserves to defend it; the gap between broadcast economic optimism and underlying fragility widened.
+
+__Surplus Extraction & Redistribution:__ The subsidy system consumed roughly twenty-five percent of government spending; broadcast messaging defended subsidies as regime beneficence while digital critics exposed their capture by connected interests.
+
+__Wealth Distribution & Asset Defense:__ Privatization under Mubarak had transferred state assets to regime-connected businessmen; digital activists documented this concentration while state television celebrated economic liberalization.
+
+__Byproducts & Waste Routing:__ Economic grievance accumulated without institutional outlet until digital channels provided alternative routing for discontent that state broadcasting had suppressed.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended family networks remained primary social insurance, with youth frustration at inability to form independent households feeding revolutionary energy that digital platforms articulated.
+
+__Association & Mutual Aid:__ The Kefaya movement (2004–2005), April 6 Youth Movement (2008), and We Are All Khaled Said Facebook page (2010) demonstrated new associational forms that operated outside state-controlled civil society and beneath broadcast-media attention until critical mass forced coverage.
+
+__Leisure, Play & Sociability:__ Ramadan television drama continued dominating evening leisure, but daytime internet cafe culture and smartphone adoption created parallel social space where political discussion escaped state monitoring.
+
+__Stratification, Status & Group Structure:__ The educated urban youth who organized digitally occupied an ambiguous status position — credentialed but unemployed, connected but excluded from regime patronage networks that state television portrayed as meritocratic advancement.
+
+__Administrative Capacity & Institutional Integrity:__ The National Democratic Party's monopoly on political expression cracked under Kefaya's slogan "Enough" and the 2005 limited electoral opening; state capacity to co-opt opposition weakened as digital channels enabled coordination outside party structures.
+
+__Coercive Apparatus & Means of Force:__ State Security Investigations (SSI) maintained surveillance and intimidation capacity, but the digital sphere multiplied targets beyond manageable scope; the January 28, 2011 internet shutdown backfired by forcing protesters into streets without distraction and demonstrating regime desperation.
+
+__Discharge, Disorder & Decay:__ The Khaled Said case (June 2010) — a young man beaten to death by police, his disfigured face circulated on Facebook — crystallized accumulated grievance into mobilizing symbol; state television's silence while millions shared the image epitomized the credibility gap digital platforms exploited.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear of the security state eroded as collective action through digital coordination demonstrated safety in numbers; the "barrier of fear" Egyptians described breaking during the eighteen days marked an emotional phase transition that broadcast-era control had prevented.
+
+__Leadership & Personal Authority:__ Mubarak's authority hollowed over three decades; the February 1, 2011 speech promising not to seek reelection — broadcast on state television — failed to satisfy demands that had moved beyond what broadcast appeals could contain.
+
+__Legitimacy as Lived Allegiance:__ The gap between state television's portrayal of Mubarak as father-figure and lived experience of corruption and brutality widened until Al Jazeera's coverage of Tahrir provided the external validation that collapsed domestic broadcast credibility entirely.
+
+__Political Will & Collective Resolve:__ Digital organization crystallized diffuse frustration into coordinated action — the January 25 date (Police Day, commemorating resistance to British occupation) chosen deliberately, the assembly points circulated through social media, the collective resolve sustained through eighteen days of occupation.
+
+__External Relations & Posture:__ The Obama administration's evolving posture — from support for stability to calls for transition — played out through international broadcasts that Egyptian audiences accessed via satellite, undermining state television's framing of foreign interference.
+
+__Disaffection, Apathy & Spent Will:__ The revolutionary moment channeled accumulated disaffection into collective action, but the post-Mubarak period (SCAF rule, Morsi election) revealed how quickly revolutionary will could exhaust itself without institutional transformation — a dynamic the broadcast-era framework could neither prevent nor resolve.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Internet penetration reached roughly twenty-five percent by 2011, concentrated in urban areas and among youth; mobile phone penetration exceeded ninety percent, enabling SMS coordination when internet access was cut.
+
+__Channels & Transmission Velocity:__ Facebook reached five million Egyptian users by January 2011; Twitter remained smaller but crucial for real-time coordination and international attention; both operated at velocities that outpaced state television's news cycle.
+
+__Record, Storage & Persistence:__ Mobile phone cameras created citizen-journalist documentation that circumvented state media's editorial control; images of police violence persisted in digital archives while state television denied events.
+
+__Framing, Censorship & Discourse Norms:__ State television's framing of protesters as foreign agents and drug-fueled thugs collapsed against the visual evidence Al Jazeera and social media provided; the "We Are All Khaled Said" page's strategic framing of police brutality as universal threat rather than sectoral grievance broadened mobilization.
+
+__Reception, Attention & Amplification:__ The viral spread of the January 25 call to action demonstrated amplification dynamics that bypassed traditional broadcast gatekeeping; each share multiplied reach in ways state television could not counter.
+
+__Signal Integrity & Noise Load:__ State television's credibility collapse represented terminal noise corruption — when official channels contradicted visible reality, their information value inverted into negative signal, and audiences defected to Al Jazeera and social media.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The Khaled Said case crystallized moral outrage at police impunity; his ordinariness — a young man in an internet cafe — made his fate universally threatening rather than confined to activists or criminals.
+
+__Law, Codification & Regulatory Evolution:__ Emergency law, continuously renewed since 1981, provided legal cover for security-state practices that digital documentation exposed as systematic rather than exceptional.
+
+__Adjudication, Liability & Sanction:__ The acquittal of security officers in torture cases accumulated as documented impunity; state television's avoidance of such cases while social media circulated verdicts deepened the credibility gap.
+
+__Rights, Protections & Compliance Burden:__ The regime's claim to protect public order rang hollow as documentation of arbitrary detention, torture, and extrajudicial killing spread through channels state broadcasting could not suppress.
+
+__Impunity & Unredressed Wrong:__ The revolutionary demand for "bread, freedom, and social justice" placed moral claims at the center; post-Mubarak prosecutions of regime figures (and their reversals) demonstrated how incompletely the moral ledger could be cleared through institutional transition.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Social-movement theory and network analysis found live application in organizing strategies; activists explicitly studied Serbian Otpor and other color-revolution precedents, adapting techniques to Egyptian conditions through digital circulation.
+
+__Applied Knowledge & Technical Method:__ Technical knowledge of VPNs, proxy servers, and encryption spread among activists as state surveillance intensified; the January 28 internet shutdown was anticipated and partially circumvented through dial-up connections and international routing.
+
+__Education, Knowledge Stock & Skill Distribution:__ University graduates faced unemployment rates exceeding twenty-five percent, creating a pool of educated, digitally literate youth whose skills found no economic outlet but proved effective in organizing.
+
+__Obsolescence & Knowledge Decay:__ State television's broadcast-era assumption that controlling domestic channels controlled public information became obsolete as satellite and internet created alternative access; the regime's information-control techniques, effective for decades, failed catastrophically when tested.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The 1952 revolution's memory — officers liberating Egypt from monarchy and colonialism — both legitimated military rule and provided template for popular uprising; the January 25 date itself invoked anti-colonial resistance.
+
+__Legitimating Narrative & Ideology:__ State television's narrative of Mubarak as stability guarantor collapsed against footage of millions demanding his departure; the regime's cultural legitimation, built through decades of broadcast messaging, dissolved in eighteen days.
+
+__Artistic Expression & Material Culture:__ Revolutionary graffiti in Tahrir and surrounding streets created spontaneous material culture that circumvented broadcast-era production structures; images circulated globally through digital channels state television could not suppress.
+
+__Form Exhaustion & Meaning Decay:__ State television's genres — the sycophantic interview, the fabricated enthusiasm, the denied reality — had exhausted their persuasive capacity before the revolution; their continued deployment during the eighteen days accelerated rather than prevented regime collapse.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Friday prayers at Tahrir demonstrated religious practice's compatibility with revolutionary action; mosque networks provided organizational infrastructure that complemented digital coordination.
+
+__Ritual, Devotion & Sacred Practice:__ The Friday-after-prayer protest pattern established ritual rhythm for mobilization; shared prayer in public space sacralized political assembly in ways that complicated security-state responses.
+
+__Religious Institutions & Doctrinal Authority:__ Al-Azhar's initial caution gave way to support for transition; the Muslim Brotherhood's organized capacity, developed through decades of mosque-based organization, positioned it to benefit electorally from revolution it had not initiated.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The revolution's cross-confessional character — Muslims protecting Coptic worshippers, joint chanting — created temporary ecumenical solidarity that the post-revolutionary period failed to institutionalize.
+
+__Disenchantment & Sacred Discharge:__ The revolutionary moment carried quasi-sacred affect — the collective effervescence of Tahrir — that subsequent political disappointments (SCAF repression, Brotherhood governance, military return) could not sustain; the sacred charge of revolution discharged into the mundane frustrations of contested transition.

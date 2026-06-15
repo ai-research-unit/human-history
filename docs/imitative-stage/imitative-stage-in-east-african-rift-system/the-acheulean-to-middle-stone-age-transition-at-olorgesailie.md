@@ -1,69 +1,139 @@
 # __320,000 BCE – 295,000 BCE__ — The Acheulean-to-Middle Stone Age Transition at Olorgesailie
-__Summary:__ A rapid technological rupture in the southern Kenyan Rift where the million-year Acheulean tradition abruptly terminates and Middle Stone Age point technologies, obsidian procurement, and pigment use appear within roughly 25,000 years; the transition coincides with documented faunal turnover, tectonic activity, and intensified climatic oscillation, leaving the binding constraint as environmental disruption that breaks the prior foraging pattern and forces adoption of a new behavioral repertoire; absorptive capacity for further volatility remains uncertain given the apparent demographic thinning in the transition interval; direction of change is toward smaller, more specialized toolkits and longer-range raw-material networks.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Olorgesailie basin sits in the axial trough of the southern Kenyan Rift at roughly 900 m elevation, bounded by volcanic highlands on both flanks and drained by ephemeral streams feeding a fluctuating paleolake; transit along the rift axis is relatively open, but cross-rift movement requires ascent over dissected escarpments, imposing moderate spatial friction for groups accustomed to ranging across open floodplain terrain.<br><br>
-__Climate Regime & Volatility:__ The window spans a period of intensified hydroclimatic oscillation driven by precessional forcing, with evidence for repeated lake-level swings, alternating arid and humid phases, and vegetation shifts from open woodland to grassland and back; secular drift is toward greater amplitude of wet–dry cycles rather than a sustained directional trend, widening the band of conditions groups must absorb.<br><br>
-__Hazard Regime & Exposure:__ Renewed faulting and volcanism documented in basin sediments expose foraging bands to ground deformation, tephra fall, and ephemeral lake flooding; hazard frequency appears elevated relative to the stable Acheulean interval, with minimal buffering capacity given the absence of built infrastructure.<br><br>
-__Resource & Energy Endowment:__ Local lava cobbles that sustained Acheulean handaxe production remain available, but the diagnostic shift is the appearance of obsidian transported 25–50 km from sources in the Naivasha volcanic complex, indicating access to a broader raw-material field; standing stock is adequate but spatially dispersed.<br><br>
-__Waste Absorption & Sink Capacity:__ Knapping debris, butchery refuse, and ochre residues accumulate in discrete patches across deflated land surfaces; absorptive capacity of the open basin landscape is effectively unlimited relative to the load, leaving no saturation pressure.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Pathogen load is inferentially moderate for a tropical savanna setting with standing water during wet phases; skeletal evidence from the window is absent, so mortality baseline cannot be directly read and is inferred from later East African hunter-gatherer analogs.<br><br>
-__Nutrition & Physiological Vitality:__ The faunal assemblages indicate access to medium-bodied bovids, equids, and smaller mammals; nutritional status is inferentially adequate where game remains available, though reduced megafaunal diversity may narrow dietary breadth.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ No direct skeletal evidence; reproductive biology inferred to follow Middle Pleistocene hominin norms — extended developmental period, pair-bonding likely, reproductive rate low relative to ecological competitors.<br><br>
-__Demographic Renewal & Density:__ A stratigraphic gap in occupation debris suggests demographic thinning or abandonment during the transition interval itself, with population rebuilding after the MSA repertoire stabilizes; overall density is low and spatially discontinuous.<br><br>
-__Attrition & Dependency Overhang:__ Dependency load is small in absolute terms given low population size; the extended juvenile period of late Homo erectus and archaic Homo sapiens entails a standing dependency fraction, but absorptive capacity within small mobile bands appears adequate.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Subsistence rests on hunting and scavenging of medium-bodied fauna supplemented by plant gathering; the transition interval may represent a narrowed provisioning floor as megafauna disappear and prior foraging patterns become unviable.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the sole motor; fire is presumably maintained for cooking and warmth, though direct hearth evidence at Olorgesailie is sparse; energy throughput per capita is low and unchanged from earlier Acheulean norms.<br><br>
-__Labor Organization & Coercion:__ Labor is organized within small kin-based foraging bands with task differentiation by age and possibly sex; coercion is minimal and embedded in face-to-face reciprocity rather than institutional hierarchy.<br><br>
-__Production & Surplus Capacity:__ Production centers on lithic reduction and carcass processing; surplus is transient — portable tool blanks, dried meat, cached raw material — and accumulation beyond immediate consumption is negligible.<br><br>
-__Storage, Reserves & Buffering:__ No durable storage infrastructure; buffering against seasonal scarcity relies on mobility, dietary flexibility, and social sharing within the band; reserves are minimal and vulnerability to failed procurement is high.<br><br>
-__Exchange, Trade & Logistics:__ Obsidian transport across 25–50 km implies either direct procurement by mobile groups or incipient inter-band exchange; logistics are pedestrian with load limits set by human carrying capacity.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Value is stored only in durable tools and social obligation; deferred reciprocity governs sharing but leaves no material trace; no formal medium of account exists.<br><br>
-__Surplus Extraction & Redistribution:__ Surplus is pooled communally at the band scale, with meat and raw material shared according to proximity and kin ties; no authority extracts above the consumption unit.<br><br>
-__Wealth Distribution & Asset Defense:__ Material wealth is negligible and portable; status differentials, if present, are tied to skill and cannot be inherited; asset defense is moot at this scale.<br><br>
-__Byproducts & Waste Routing:__ Knapping debris, butchery bone, and ochre residues are left at occupation sites and dispersed by natural erosion; no routing decision is required given unlimited absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius is coterminous with the face-to-face band; mutual aid is enacted through food sharing and cooperative foraging; beyond immediate kin, trust extends only as far as repeated interaction permits.<br><br>
-__Stratification, Status & Group Identity:__ Stratification is minimal; status distinctions likely track age, skill, and physical condition; group identity is maintained through shared activity and co-residence rather than symbolic markers.<br><br>
-__Kinship, Family & Inheritance:__ Kinship is the organizing scaffold; pair-bonding and extended parental investment are inferred from developmental biology; inheritance is limited to imitated skill and perhaps cached raw material.<br><br>
-__Civic Association & Self-Organization:__ The band itself is the sole associational unit; self-organization is achieved through face-to-face consensus and imitative role assignment without formal offices.<br><br>
-__Leisure, Play & Sociability:__ Non-work time is spent in grooming, play, and rest within the camp; sociability is enacted through shared presence and joint attention rather than structured ritual.<br><br>
-__Grievance Channels & Social Discharge:__ Grievances are resolved through avoidance, fission, or direct confrontation mediated by senior individuals; no formal arbitration exists, and unresolved friction may drive band splitting.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Authority is informal, situational, and tied to demonstrated competence; no permanent leadership office exists; power is diffused across adults within the band.<br><br>
-__Succession & Power Transfer:__ Leadership, such as it is, passes by default to those who exhibit skill and initiative; no succession rule is formalized, and transfer is continuous rather than punctuated.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy rests on visible competence and reciprocal generosity; no narrative justification is articulated or transmitted.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative apparatus; coordination is achieved through direct observation and imitation without record-keeping or delegation.<br><br>
-__Political Participation & Mobilization:__ All adults participate in collective decisions through presence and action; mobilization for foraging or defense is spontaneous and consensus-driven.<br><br>
-__Geopolitical Position & External Relations:__ Inter-band relations are inferentially fluid, with fission, fusion, and occasional encounter; no evidence of territorial defense or alliance structures.<br><br>
-__Coercive Apparatus & Means of Force:__ Force is personal and improvised; MSA points may enhance hunting efficacy and interpersonal violence potential, but no organized coercive apparatus exists.<br><br>
-__Internal Order & Threat Environment:__ Internal order is maintained through social pressure and avoidance; external threats include carnivore predation and possibly hostile encounters with other hominin groups.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information passes through gesture, demonstration, and joint attention within line-of-sight range; transmission velocity is limited to the speed of physical encounter and imitative display.<br><br>
-__Record, Storage & Persistence:__ Knowledge persists solely in living memory and embodied skill; no external storage medium exists, and loss of skilled individuals entails loss of technique.<br><br>
-__Framing, Censorship & Discourse Norms:__ No linguistic framing or censorship; communicative norms are embedded in attention-directing behavior and postural display.<br><br>
-__Reception, Attention & Amplification:__ Reception is limited to co-present observers; amplification occurs only through iterated demonstration across overlapping generations.<br><br>
-__Signal Integrity & Noise Load:__ Signal integrity is high within face-to-face interaction; noise enters through incomplete observation or failed imitation; no verification mechanism beyond repeated practice.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ A baseline sense of fairness is inferentially present, grounded in reciprocity and kin preference; no articulated moral code exists.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; behavioral norms are enforced through social pressure and immediate consequence.<br><br>
-__Adjudication, Enforcement & Liability:__ Third-party adjudication is absent; disputes are settled interpersonally or through band fission; liability is not formally assigned.<br><br>
-__Rights, Protections & Compliance Burden:__ No formal rights regime; autonomy is de facto within the limits of band tolerance; compliance burden is negligible.<br><br>
-__Impunity & Unredressed Wrong:__ Wrongs may go unredressed where avoidance or departure substitutes for sanction; impunity for the stronger is possible but constrained by dependence on group cooperation.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry; practical knowledge of toolmaking, fauna, and terrain is accumulated through trial and observation without articulated theory.<br><br>
-__Applied Knowledge & Technical Method:__ The transition marks a shift in technical method from large bifacial reduction to prepared-core and point technologies, implying new reduction sequences transmitted through imitation; obsidian heat treatment and hafting may be emerging.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education is apprenticeship by proximity; knowledge stock is held collectively in skilled practitioners; skill distribution is likely uneven, with proficient knappers serving as focal models.<br><br>
-__Obsolescence & Knowledge Decay:__ Acheulean technique becomes obsolete within the window, replaced rather than refined; decay risk is high where skilled individuals die before transmitting knowledge.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ No recoverable mythos or articulated origin narrative; identity is situational and enacted through shared activity rather than symbolic representation.<br><br>
-__Artistic Expression & Material Culture:__ The appearance of red ochre at MSA Olorgesailie is the earliest material-culture marker beyond tools in this basin, suggesting nascent pigment use for body marking or hide treatment; aesthetic norms are not recoverable.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood is inferentially reactive to resource availability; the transition interval likely carries heightened uncertainty as prior foraging patterns fail.<br><br>
-__Form Exhaustion & Meaning Decay:__ The Acheulean handaxe form, stable for a million years, is abandoned rather than exhausted into cliche; whether this represents meaning decay or pragmatic replacement is unrecoverable.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ No articulated cosmology; existential orientation is embedded in immediate sensory experience and social presence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ No recoverable ritual beyond possible pigment application; sacred practice, if any, leaves no diagnostic trace.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Absent; no clerical role or doctrinal transmission is attested or inferrable.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Not applicable; no recoverable spiritual content to diffuse or displace.<br><br>
-__Disenchantment & Sacred Discharge:__ Not applicable in the absence of an articulated sacred framework.<br><br>
+
+__Summary:__ The Olorgesailie Basin in the central Kenya Rift witnesses a technological rupture during which populations abandon the Acheulean handaxe tradition that had persisted for over a million years, replacing it with Middle Stone Age prepared-core technologies, hafted points, long-distance raw material transport (25–95 km), and systematic pigment use. The binding constraint is imitative transmission: knowledge of these novel techniques passes solely through observation and guided practice, meaning the transition requires not merely innovation but the successful copying of complex, multi-stage operational sequences by sufficient learners to displace the older repertoire. Environmental instability—intensified wet-dry oscillations and landscape fragmentation—provides the selective pressure, but the rupture hinges on whether the new practices can propagate faster than the populations carrying them turn over.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Olorgesailie Basin sits within the southern Kenya Rift, a graben bounded by fault scarps that channel movement north-south while obstructing east-west transit. The basin floor, roughly 900 m elevation, contains seasonal lake beds, spring-fed wetlands, and volcanic tuff exposures that preserve a stratified archaeological sequence spanning 1.2 Ma to the present. Raw material sources for toolmaking—obsidian outcrops, phonolite ridges, chert nodules—lie distributed across distances of 25–95 km, requiring traverse of rough terrain including escarpments and seasonal drainages. The spatial friction imposed by this topography shapes the cost of material procurement and the viability of extended foraging ranges.
+
+__Climate Regime & Volatility:__ The transition window falls within a period of intensified climatic variability, with precessionally driven wet-dry oscillations at millennial to sub-millennial scales. Lake levels fluctuate sharply; the basin alternates between shallow standing water, marshland, and desiccated pan. Mean aridity trends upward over the window, but variance rather than mean shift defines the regime—conditions whipsaw between wet phases supporting woodland and dry phases favoring open grassland. This volatility destabilizes the resource base and imposes selective pressure favoring behavioral flexibility.
+
+__Hazard Regime & Exposure:__ Tectonic activity along the rift generates intermittent seismic events and occasional volcanic ashfalls from regional centers. Seasonal flooding of the basin floor creates localized drowning hazard for fauna and temporary barriers to movement. Drought frequency increases across the transition, posing desiccation risk for populations dependent on standing water. Fire, whether natural or anthropogenic, shapes vegetation mosaic and prey distribution.
+
+__Resource & Energy Endowment:__ The basin offers a patchwork of resources whose availability fluctuates with hydrological regime. During wet phases, lacustrine margins concentrate herbivore fauna at predictable water sources; during dry phases, resources disperse and water becomes limiting. Volcanic glass (obsidian) of high knapping quality occurs at Mount Eburru and other sources 25–50 km distant; coarser materials lie closer but produce inferior edges. The endowment rewards those able to range widely and plan procurement in advance.
+
+__Waste Absorption & Sink Capacity:__ Organic refuse from butchery and occupation disperses readily on the basin floor; no anthropogenic saturation of local sinks is detectable. Knapping debitage accumulates at workshop localities but does not degrade local habitability. The sink is effectively unlimited at prevailing population densities.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Standing water during wet phases harbors waterborne parasites and insect vectors; seasonal aggregation of fauna at shrinking water sources during drought concentrates zoonotic risk. Background mortality from infection, injury, and predation remains substantial but unquantifiable. Carnivore pressure—leopard, lion, hyena—represents a persistent threat, particularly to juveniles and isolated foragers.
+
+__Nutrition & Physiological Vitality:__ The populations are anatomically archaic Homo, possibly late H. heidelbergensis or transitional forms, with encephalization quotients requiring substantial caloric intake to sustain brain tissue. Access to animal fat and marrow remains critical; the transition correlates with intensified butchery of diverse fauna including smaller, faster prey whose exploitation demands improved projectile technology. Nutritional adequacy fluctuates with environmental oscillation; lean phases select for efficient foraging and broader dietary breadth.
+
+__Care, Healing & Recovery Capacity:__ No direct evidence of wound-tending or care for the infirm survives from this horizon, but survival to adulthood of individuals bearing healed fractures elsewhere in the Middle Pleistocene record implies some baseline of group-based care. Healing capacity is limited to immobilization and wound protection achievable without pharmacology.
+
+__Reproductive Biology & Pairing Dynamics:__ Sexual dimorphism remains pronounced though reduced relative to earlier Homo. Prolonged juvenile dependency characteristic of the genus continues, demanding sustained provisioning of mothers and offspring. Pair-bonding patterns are archaeologically invisible but inferred to involve multi-male, multi-female bands with some degree of paternal investment.
+
+__Demographic Renewal & Density:__ Population density is low—perhaps a few hundred individuals across the broader basin catchment at any given time, organized into bands of 20–50. Birth-to-death replacement is marginal; any demographic shock (drought, epidemic, local extirpation) risks local extinction. The transition may reflect population turnover as much as in-situ cultural change, with MSA-bearing groups replacing or absorbing Acheulean-bearing ones.
+
+__Attrition & Dependency Overhang:__ Aged and infirm individuals represent a dependency load the band cannot shed without abandonment, yet their experience may encode critical environmental knowledge transmissible only through imitation and demonstration. The attrition rate is high; few survive past the fourth decade.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The floor rests on hunting, scavenging, and plant gathering calibrated to seasonal availability. During the transition, faunal assemblages shift: fewer large-bodied prey, more medium and small game, suggesting either prey depletion or shifting hunting strategy. The MSA toolkit—hafted points capable of serving as projectiles—expands accessible prey by enabling ambush hunting of faster species.
+
+__Energy Capture & Conversion:__ Human muscle provides the sole motive power. Fire use is attested throughout the sequence, converting woody biomass into heat for cooking, warmth, and predator deterrence. The energetic return on hafted projectile hunting potentially exceeds that of close-range spear thrusting by reducing pursuit costs and injury risk.
+
+__Labor Organization & Coercion:__ Labor divides along age and likely sex lines, with prime adults conducting high-risk hunting and older individuals and juveniles contributing gathering and processing. No evidence of coerced labor; cooperation is voluntary and reciprocal within the band.
+
+__Production & Surplus Capacity:__ Production is subsistence-oriented with minimal surplus beyond immediate consumption needs. The capacity to stockpile is limited by absence of storage technology and the spoilage rate of organic materials. Any surplus is consumed, shared, or abandoned rather than accumulated.
+
+__Storage, Reserves & Buffering:__ The only durable storage medium is body fat; no evidence of constructed granaries, caches, or preserved foods. Buffering against shortage relies on dietary flexibility, mobility, and social sharing rather than physical reserves.
+
+__Exchange, Trade & Logistics:__ The diagnostic signature of the MSA transition at Olorgesailie is long-distance raw material transport: obsidian traveling 25–95 km from source to discard. This implies either extended individual foraging ranges, down-the-line exchange between groups, or deliberate procurement expeditions. The logistics represent a cognitive and organizational leap over the localized procurement typical of Acheulean assemblages.
+
+__Value Storage, Credit & Deferred Exchange:__ Deferred reciprocity within the band is the closest analogue to credit; obligations to share are remembered and enforced socially. No external medium of value exists; exchange is embedded in social relations.
+
+__Surplus Extraction & Redistribution:__ Meat from large kills is redistributed through the band via sharing norms enforced by observation and social sanction. No individual or subgroup extracts surplus coercively.
+
+__Wealth Distribution & Asset Defense:__ Material wealth is negligible—a few tools, ornaments, and carried possessions. Defensible territory may exist at the band level, but boundaries are permeable and contested through encounter rather than fortification.
+
+__Byproducts & Waste Routing:__ Butchery waste, knapping debitage, and ash accumulate at occupation sites and are abandoned in place. Organic refuse decays; lithic refuse persists as the archaeological record. No deliberate routing or management of waste.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship likely structures the band, with membership determined by birth, mating, and affiliation. Inheritance of material goods is trivial; what passes between generations is knowledge—knapping skill, foraging routes, hazard recognition—transmitted through imitation alone.
+
+__Association & Mutual Aid:__ The band is the primary unit of association; mutual aid in hunting, childcare, and defense is obligatory for survival. Reciprocity is immediate and visible; defection is punished by exclusion.
+
+__Leisure, Play & Sociability:__ Downtime at camp permits social grooming, play among juveniles, and the sustained observation through which skill transfer occurs. Sociability is the medium of imitative transmission.
+
+__Stratification, Status & Group Structure:__ Status distinctions are minimal and achievement-based; skilled hunters and experienced elders command deference without coercive power. Group structure is egalitarian by constraint—no surplus to accumulate, no means to enforce hierarchy.
+
+__Administrative Capacity & Institutional Integrity:__ No formal institutions exist; coordination is ad hoc, achieved through imitation of demonstrated leaders and consensus emerging from shared attention. Administrative capacity is limited to what living memory and present example can sustain.
+
+__Coercive Apparatus & Means of Force:__ Force resides in individual physical capacity and personal weaponry. No organized coercive apparatus; disputes are resolved through dominance display, avoidance, or fission of the group.
+
+__Discharge, Disorder & Decay:__ Social friction discharges through fission—disaffected individuals or subgroups split off to join other bands or found new ones. Disorder is self-limiting at this scale; decay of social bonds leads to dispersal rather than structural collapse.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ The band's mood is shaped by immediate circumstance: satiation or hunger, safety or threat, success or failure of the hunt. Trust within the band is high, calibrated by daily interaction; wariness toward strangers is the default. The volatility of the environment likely produces chronic low-level anxiety punctuated by episodes of acute stress during drought or predator encounter.
+
+__Leadership & Personal Authority:__ Leadership is situational and personal—an experienced hunter leads the hunt, an elder guides movement to remembered water sources. Authority inheres in demonstrated competence, not inherited office.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows to individuals who deliver results; legitimacy is proved daily through success in provisioning and protection. Failure erodes authority immediately; there is no institutional buffer.
+
+__Political Will & Collective Resolve:__ Collective resolve crystallizes around survival tasks—the coordinated hunt, the seasonal move. The transition itself may reflect a coalescence of will around the new technology among innovators and early adopters, whose success attracts imitators.
+
+__External Relations & Posture:__ Relations with other bands range from cautious avoidance to opportunistic intermarriage and information exchange. Hostility is possible but constrained by low population density and the difficulty of sustaining conflict without surplus.
+
+__Disaffection, Apathy & Spent Will:__ Spent will manifests as resignation or departure; the disaffected leave rather than agitate. The transition window may see bands clinging to Acheulean tradition despite declining returns, their conservatism a form of collective apathy cleared only by demographic replacement.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Communication relies on gesture, vocalization, facial expression, and demonstrated action. Speech, if present, is rudimentary—insufficient to carry abstract instruction or narrate absent referents. The shared code is narrow; mutual intelligibility depends on proximity and co-presence.
+
+__Channels & Transmission Velocity:__ Transmission is direct and slow: skill passes from hand to hand, requiring sustained observation and practice under guidance. Reach is limited to the band; velocity is generational at best. The MSA techniques require longer learning sequences than Acheulean bifaces, raising the transmission cost.
+
+__Record, Storage & Persistence:__ Living memory is the sole record; there is no external storage of information. Persistence depends on unbroken chains of imitation; a single failed transmission can extinguish a technique locally.
+
+__Framing, Censorship & Discourse Norms:__ Without articulate speech, framing is implicit—what is demonstrated is endorsed; what is ignored is deprecated. Censorship is structural: only those present can learn; access is controlled by social inclusion.
+
+__Reception, Attention & Amplification:__ Attention is governed by salience and prestige—successful hunters attract observers, their techniques amplified by imitation. The shift to MSA may reflect the amplification of novel methods demonstrated by individuals achieving superior returns.
+
+__Signal Integrity & Noise Load:__ Transmission error is endemic; each copy drifts. The noise load is high, and the only verification is functional success. Techniques that work persist; those that fail are abandoned or corrected through trial.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Fairness in sharing, reciprocity in aid, and loyalty to kin form the intuitive moral substrate. Violation—hoarding, cheating, cowardice—triggers emotional sanction: anger, contempt, ostracism.
+
+__Law, Codification & Regulatory Evolution:__ No codified law; norms are customary and enforced through social pressure. Regulation evolves by drift and selection—practices that sustain the group persist; those that destabilize it are suppressed.
+
+__Adjudication, Liability & Sanction:__ Adjudication is immediate and personal: the aggrieved party confronts the offender, with the group serving as audience and enforcer. Sanction ranges from ridicule to exclusion; lethal violence is possible but costly and avoided.
+
+__Rights, Protections & Compliance Burden:__ Rights inhere in membership; outsiders have none. Compliance is burdensome only for those whose impulses deviate from group norms—the selfish, the lazy, the unreliable.
+
+__Impunity & Unredressed Wrong:__ Impunity is limited by small scale—offenses are visible and retaliation swift. Unredressed wrong accumulates only when the offender is too powerful to sanction, a rare condition in an egalitarian band.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ There is no explicit theory; understanding is practical and procedural. The paradigm is empirical in the narrowest sense—what works is repeated; what fails is abandoned—but without articulation or abstraction.
+
+__Applied Knowledge & Technical Method:__ The transition marks a leap in technical method: prepared-core technology (Levallois and allied techniques) requires mental template-holding, sequential reduction planning, and precise platform preparation beyond Acheulean demands. Hafting—attaching stone points to wooden shafts—adds adhesive preparation (possibly tree resin or ochre-based mastic) and binding technique. These methods must be transmitted entirely through demonstration and supervised practice.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is apprenticeship by immersion; juveniles observe and imitate adults in daily tasks. The knowledge stock is distributed across the band's living members; loss of a skilled knapper can extinguish a technique locally. Skill distribution is uneven—some individuals master the new methods while others persist in older habits.
+
+__Obsolescence & Knowledge Decay:__ The transition is itself an obsolescence event: Acheulean technique decays as practitioners die without training successors. Knowledge decay is rapid where transmission is imitative and population turnover high; the window may represent a near-total replacement of the inherited repertoire.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Without language, mythos is inchoate—perhaps emotional associations with places, visceral memory of events, recognition of kin. Identity is immediate and embodied, not narrated.
+
+__Legitimating Narrative & Ideology:__ No articulate narrative legitimates the social order; legitimacy is performed and demonstrated rather than argued. The transition carries no ideological justification—only pragmatic adoption of what works.
+
+__Artistic Expression & Material Culture:__ The MSA layers at Olorgesailie yield the earliest systematic use of red and black pigments (ochre, manganese dioxide) in the region, suggesting body decoration, object marking, or symbolic signaling. Material culture shifts from large, generalized handaxes to smaller, specialized, hafted points—a change in the aesthetic and functional surface of the toolkit.
+
+__Form Exhaustion & Meaning Decay:__ The Acheulean biface, stable for over a million years, may represent form exhaustion—a technique so overlearned that it persists by inertia even as its utility declines. The MSA irruption clears this residue, replacing exhausted forms with novel ones.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Without articulate speech, explicit cosmology is inaccessible; whatever existential orientation these populations hold is embedded in affect and practice, not doctrine.
+
+__Ritual, Devotion & Sacred Practice:__ No unambiguous ritual structures survive from the Olorgesailie transition. Pigment use may indicate body decoration with ritual or social significance, but the evidence is circumstantial. If sacred practice exists, it is enacted rather than recorded.
+
+__Religious Institutions & Doctrinal Authority:__ Institutions and doctrines require articulate transmission; neither exists at this stage. Authority in any spiritual domain, if present, would rest on individual charisma and demonstrated efficacy.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Without language to carry belief, spiritual content neither diffuses nor syncretizes in recoverable form. Displacement, if it occurs, is invisible.
+
+__Disenchantment & Sacred Discharge:__ The concept of disenchantment presupposes an articulated enchantment to lose. At this stage, the sacred, if present, is embedded in the fabric of experience rather than set apart; its discharge leaves no identifiable residue.

@@ -1,69 +1,139 @@
-# __1955 CE – 1964 CE__ — Television Expansion and Economic Miracle
-__Summary:__ Japan's television system expands from urban novelty to near-universal household presence during the high-growth economic miracle; the binding constraint is manufacturing capacity racing to meet demand, with advertising revenue funding rapid commercial network build-out; margin against shock is widening as prosperity spreads; direction is toward mass media saturation and national unification through shared broadcast events, culminating in the 1964 Tokyo Olympics satellite transmission.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The mountainous archipelago fragments broadcast coverage into distinct valleys and basins requiring relay transmitters; the Kanto Plain centered on Tokyo provides the densest market, with secondary nodes at Osaka and Nagoya linked by improving rail and road corridors.<br><br>
-__Climate Regime & Volatility:__ Temperate monsoon climate with seasonal typhoons; interannual volatility manageable within existing infrastructure; no secular drift materially affecting broadcast operations during this window.<br><br>
-__Hazard Regime & Exposure:__ Seismic and typhoon exposure remains constant; transmitter and studio infrastructure built to contemporary standards holds adequate margin; no catastrophic broadcast disruption occurs within the window.<br><br>
-__Resource & Energy Endowment:__ Domestic coal and hydropower supplemented by growing oil imports; the energy endowment adequate for industrial expansion though import-dependent trajectory is set; no binding shortage during this high-growth phase.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial pollution rising rapidly with manufacturing expansion; air and water quality degrading in urban-industrial zones; absorptive capacity being consumed faster than regulation addresses, though broadcast-specific waste negligible.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden declining with improved sanitation, vaccination, and healthcare access; mortality rates falling toward developed-nation baselines; tuberculosis retreating; polio controlled by vaccination campaigns.<br><br>
-__Nutrition & Physiological Vitality:__ Nutritional status improving markedly as food supply stabilizes and diversifies; average stature increasing across cohorts; physical robustness trending upward with economic prosperity.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility declining from immediate postwar highs as family planning spreads; age at marriage stable; nuclear family household formation accelerating in urban areas.<br><br>
-__Demographic Renewal & Density:__ Population growing steadily with postwar baby boom cohorts entering workforce; urban density increasing through rural-to-urban migration; dependency ratio favorable as large working-age cohort enters productive years.<br><br>
-__Attrition & Dependency Overhang:__ War orphans and widows largely absorbed into extended families or remarriage; aged dependency modest as prewar cohorts still relatively small; productive cohort expanding faster than dependent load.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Basic subsistence secure for nearly all; rice supply adequate; housing construction booming; the floor rising steadily above survival into consumer comfort.<br><br>
-__Energy Capture & Conversion:__ Coal, hydroelectric, and increasingly imported oil converted through an expanding industrial plant; electrification nearly universal in urban areas and spreading rurally; per-capita energy consumption rising rapidly.<br><br>
-__Labor Organization & Coercion:__ Wage labor dominant in manufacturing and services; enterprise unionism established; lifetime employment norm crystallizing in large firms; coercion minimal as labor market tightens with growth.<br><br>
-__Production & Surplus Capacity:__ Industrial output expanding at double-digit annual rates; electronics manufacturing emerging as export sector; surplus capacity widening with each production cycle; television set production itself a growth industry.<br><br>
-__Storage, Reserves & Buffering:__ Corporate retained earnings accumulating; household savings rates rising; rice reserves adequate; foreign exchange reserves growing with export success; buffer depth increasing against cyclical shocks.<br><br>
-__Exchange, Trade & Logistics:__ Domestic distribution networks modernizing; advertising-funded commercial broadcasting creates new demand linkages; export logistics improving through port and shipping expansion; retail channels multiplying.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Yen stable under Bretton Woods fixed exchange; bank-centered credit system channeling savings to industry; consumer credit beginning for durable goods including television sets; inflation modest.<br><br>
-__Surplus Extraction & Redistribution:__ Tax revenues rising with economic growth; state investment in infrastructure, education, and technology; redistribution through public services expanding; broadcasting license fees funding NHK expansion.<br><br>
-__Wealth Distribution & Asset Defense:__ Postwar land reform and zaibatsu dissolution compressed prewar concentrations; new wealth forming in corporate sector and among salaried middle class; asset defense through savings and property acquisition.<br><br>
-__Byproducts & Waste Routing:__ Industrial effluent discharged with minimal treatment; consumer waste accumulating with mass production; electronic waste not yet a recognized category; routing largely to local dumps and waterways.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Interpersonal trust rebuilding after wartime disruption; neighborhood associations active; workplace as social unit strengthening; radius of trust extending beyond immediate kin into company and community.<br><br>
-__Stratification, Status & Group Identity:__ Class boundaries softening as middle-class identity spreads; education credentials becoming primary status marker; regional and occupational identities persisting but class consciousness muted by shared growth.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family household becoming normative in urban areas; eldest son inheritance weakening; marriage age stable; extended kin networks maintained but attenuated by geographic mobility.<br><br>
-__Civic Association & Self-Organization:__ Neighborhood associations, PTAs, and company unions providing associational framework; voluntary civic activity modest but growing; community organizations coordinating local affairs.<br><br>
-__Leisure, Play & Sociability:__ Television viewing becoming central household leisure activity; shared viewing of major events creates simultaneous national experience; bars and coffee shops provide secondary viewing venues; baseball and sumo broadcast widely.<br><br>
-__Grievance Channels & Social Discharge:__ Labor disputes channeled through enterprise unions with strike capacity; political protest present but contained; economic growth absorbing potential grievances; friction largely metabolized through prosperity.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Parliamentary democracy under 1947 constitution; Liberal Democratic Party achieving dominance from 1955; bureaucratic continuity from prewar period providing administrative coherence; authority centralized in Tokyo.<br><br>
-__Succession & Power Transfer:__ Electoral succession within LDP factions; prime ministerial rotation through intra-party negotiation; transfer routinized if opaque; no constitutional crisis during window.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy grounded in economic growth delivery and democratic institutions; peace constitution accepted across most of spectrum; Cold War alignment with United States providing security framework.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Ministry of Posts and Telecommunications regulating broadcasting; licensing and spectrum allocation managed competently; bureaucratic integrity high by comparative standards; corruption present but bounded.<br><br>
-__Political Participation & Mobilization:__ Universal suffrage exercised with moderate turnout; left opposition through Socialist and Communist parties; Anpo protests 1960 show mobilization capacity; channels for dissent open if outcomes constrained.<br><br>
-__Geopolitical Position & External Relations:__ Security alliance with United States; normalized relations with Western bloc; China and Korea relations incomplete; hosting 1964 Olympics marks international rehabilitation and prestige recovery.<br><br>
-__Coercive Apparatus & Means of Force:__ Self-Defense Forces established but constrained; police adequate for domestic order; American bases provide external security umbrella; force narrowly held under civilian control.<br><br>
-__Internal Order & Threat Environment:__ Crime rates low; political violence rare after Anpo subsides; organized crime present but contained; internal order maintained with substantial margin.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Television transmission expanding to national coverage through relay networks; simultaneous broadcast reaching millions; newspapers remain complementary but television becoming dominant mass medium; telephone penetration growing.<br><br>
-__Record, Storage & Persistence:__ Broadcast archives beginning at NHK and commercial networks; kinescope and early videotape preserving key programs; newspaper morgues comprehensive; institutional memory accumulating.<br><br>
-__Framing, Censorship & Discourse Norms:__ Self-censorship on war responsibility and imperial matters persists; commercial pressures favor entertainment over controversy; broadcasting law requires political balance; discourse norms permissive but bounded.<br><br>
-__Reception, Attention & Amplification:__ Television ownership rising from luxury to near-universal; Crown Prince wedding 1959 drives mass adoption; Olympics 1964 crystallizes national audience; attention increasingly structured around broadcast schedule.<br><br>
-__Signal Integrity & Noise Load:__ Professional journalism maintaining credibility; information quality high within constrained scope; rumor and misinformation low in broadcast environment; signal-to-noise ratio favorable.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Postwar democratic values absorbed alongside traditional norms of hierarchy and obligation; fairness understood as procedural regularity and social harmony; justice sense supports consensus over confrontation.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting Law 1950 provides regulatory framework; spectrum licensing through administrative process; copyright law adapting to broadcast medium; regulatory evolution incremental.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts functioning with adequate throughput; broadcasting disputes rare and administratively resolved; defamation law occasionally invoked; liability framework conventional and stable.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional speech protections established; broadcasting content subject to balance requirements; compliance burden on broadcasters moderate; audience rights implicit rather than explicit.<br><br>
-__Impunity & Unredressed Wrong:__ Elite accountability limited but not absent; war responsibility largely unaddressed through judicial mechanisms; broadcasting-specific impunity not a significant issue; backlog minimal.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Electronics and communications engineering advancing rapidly; Japanese research contributing to color television and transistor applications; social science studying mass media effects; paradigms imported and adapted from West.<br><br>
-__Applied Knowledge & Technical Method:__ Television manufacturing techniques mastered and improved; production engineering achieving quality and cost advantages; broadcast engineering competence high; applied methods diffusing through industry.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal compulsory education producing literate workforce; technical education expanding; university enrollment rising; knowledge stock accumulating rapidly; skill distribution broadening.<br><br>
-__Obsolescence & Knowledge Decay:__ Black-and-white technology approaching obsolescence as color emerges; vacuum tube skills giving way to transistor expertise; knowledge turnover rapid but managed through retraining; decay rate matched by renewal.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ War defeat and atomic bombing forming traumatic substrate; recovery and growth providing redemptive narrative; traditional cultural identity persisting beneath modernization; Olympics marking international return.<br><br>
-__Artistic Expression & Material Culture:__ Television developing distinctive programming forms; variety shows, drama, and documentary genres emerging; advertising aesthetics maturing; consumer product design achieving international recognition.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism rising with economic success; future orientation strong; work ethic valorized; risk perception low as growth appears assured; national confidence rebuilding through achievement.<br><br>
-__Form Exhaustion & Meaning Decay:__ Prewar imperial symbolism exhausted and discredited; new forms still generative; meaning production active through consumer culture and national achievement narratives; no significant form exhaustion in this growth phase.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular pragmatism dominant in public sphere; traditional Buddhist and Shinto observance continuing as cultural practice; existential questions subordinated to material progress; outlook this-worldly and practical.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Life-cycle rituals maintained through temple and shrine; annual festival calendar observed; workplace incorporating quasi-ritual bonding practices; devotion routinized rather than fervent.<br><br>
-__Religious Institutions & Doctrinal Authority:__ State Shinto dismantled; shrine and temple networks surviving on private support; new religious movements attracting adherents; doctrinal authority diffuse and non-coercive.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Christian presence small but stable; new religions spreading among displaced populations; traditional syncretism of Buddhist-Shinto practice undisturbed; no significant displacement during window.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularization advancing in practice while forms maintained; transcendence not actively sought in public discourse; spiritual need channeled into work, family, and national purpose; disenchantment present but not experienced as void during growth era.<br><br>
+# __1955 CE – 1964 CE — Television Expansion and Economic Miracle__
+
+__Summary:__ Japanese society undergoes simultaneous transformation in broadcast infrastructure and economic capacity, with television ownership rising from elite novelty to near-universal household fixture while GDP growth averages ten percent annually; the binding constraint is the feedback loop between consumer electronics production and domestic consumption, where rising wages fund television purchases that drive manufacturing scale that funds further wage growth, culminating in the 1964 Tokyo Olympics as both demonstration of national recovery and catalyst for color broadcasting infrastructure.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The archipelago's mountainous terrain necessitates extensive relay station networks to achieve national television coverage; by 1964 over two thousand relay transmitters supplement main stations, threading signals through valleys and around peaks that block direct transmission from urban centers.
+
+__Climate Regime & Volatility:__ The temperate monsoon climate with hot humid summers drives domestic architecture toward open ventilation, shaping the kotatsu-centered viewing arrangement that becomes the standard family television posture; typhoon season threatens transmission infrastructure but rarely causes prolonged outages.
+
+__Hazard Regime & Exposure:__ Seismic risk remains constant but does not materially disrupt broadcast infrastructure during this window; the 1959 Ise Bay typhoon killing over five thousand marks the era's worst natural disaster and demonstrates television's capacity for disaster coverage.
+
+__Resource & Energy Endowment:__ Japan lacks domestic petroleum and relies on imported coal and oil; electrification reaches near-universal urban coverage and extends rapidly into rural areas, the grid expansion enabling television reception across previously isolated communities.
+
+__Waste Absorption & Sink Capacity:__ Industrial expansion concentrates pollution in manufacturing zones; Minamata disease from mercury contamination becomes emblematic of unregulated industrial discharge, though television coverage of pollution remains limited until the following decade; the absorptive capacity of coastal waters and urban airsheds degrades measurably.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Postwar improvements in sanitation and nutrition reduce infectious disease mortality; tuberculosis declines sharply; life expectancy rises from sixty-three years in 1955 to seventy by 1964, approaching developed-world standards.
+
+__Nutrition & Physiological Vitality:__ Caloric intake and protein consumption increase substantially; average height of conscript-age males rises several centimeters from prewar baselines; the "three sacred treasures" consumption pattern includes refrigerators that transform food storage and nutrition.
+
+__Care, Healing & Recovery Capacity:__ Universal health insurance coverage expands through workplace and community schemes; hospital bed ratios improve; infant mortality drops to developed-world levels by decade's end.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage remains near-universal with median age at first marriage stable; the 1948 Eugenic Protection Law permits abortion, contributing to fertility decline from postwar baby boom levels.
+
+__Demographic Renewal & Density:__ Population grows from ninety million to ninety-seven million; the baby boom cohort enters working age, providing the labor force for industrial expansion; rural-to-urban migration accelerates, Tokyo exceeding ten million.
+
+__Attrition & Dependency Overhang:__ The elderly dependency ratio remains low with the wartime dead reducing the older cohort; the young dependency ratio declines as fertility falls; the demographic window is exceptionally favorable for economic growth.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Food security is achieved and surpassed; rice self-sufficiency maintained through protected agriculture; the era sees transition from subsistence concern to consumer aspiration.
+
+__Energy Capture & Conversion:__ Electrification proceeds rapidly; per-capita electricity consumption quadruples; the energy mix shifts from coal toward petroleum imports; nuclear power plants begin construction late in the period.
+
+__Labor Organization & Coercion:__ Enterprise unionism replaces prewar labor radicalism; lifetime employment and seniority wages become standard in large firms; labor relations stabilize after early postwar strikes; the dual economy persists between large and small enterprises.
+
+__Production & Surplus Capacity:__ Industrial production expands at double-digit rates; steel, shipbuilding, and consumer electronics lead growth; excess capacity is rare as investment continuously outpaces demand before being absorbed; the production ceiling rises continuously.
+
+__Storage, Reserves & Buffering:__ Corporate retained earnings fund expansion; household savings rates reach twenty percent of income; foreign exchange reserves grow but remain modest; the government budget maintains rough balance.
+
+__Exchange, Trade & Logistics:__ Export-led growth accelerates; transistor radios then televisions become export products; the trade balance moves toward surplus; infrastructure investment in roads, rail, and ports supports logistics.
+
+__Value Storage, Credit & Deferred Exchange:__ Bank-centered finance channels household savings to corporate investment; the yen remains fixed at three hundred sixty to the dollar under Bretton Woods; consumer credit for durable goods begins but remains limited.
+
+__Surplus Extraction & Redistribution:__ Tax revenues grow with the economy; government investment in infrastructure and Olympics preparation absorbs surplus; defense spending remains constitutionally limited.
+
+__Wealth Distribution & Asset Defense:__ Land reform has created a broad smallholder class; income distribution is relatively equal by international standards; the "hundred million middle class" ideology takes hold though disparities persist.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates in concentrated zones; household waste increases with consumption; recycling and waste treatment lag behind production growth; pollution externalities are deferred.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The postwar Civil Code abolishes primogeniture and grants equal inheritance; the nuclear family replaces the extended ie household as the primary unit; television viewing reinforces the nuclear family as social center.
+
+__Association & Mutual Aid:__ Neighborhood associations persist but weaken; company-based welfare and identity strengthen; the postwar education system creates cohort-based networks through entrance examination competition.
+
+__Leisure, Play & Sociability:__ Television transforms leisure; professional baseball and sumo gain mass audiences; the pachinko industry expands; domestic tourism grows with improved rail connections.
+
+__Stratification, Status & Group Structure:__ The prewar aristocracy is abolished; education credentials become the primary status marker; corporate rank replaces birth-based hierarchy; the burakumin remain stigmatized despite legal equality.
+
+__Administrative Capacity & Institutional Integrity:__ The postwar bureaucracy gains competence and influence; MITI guides industrial policy; the LDP establishes clientelist networks linking politicians, bureaucrats, and business; corruption exists but administrative capacity is high.
+
+__Coercive Apparatus & Means of Force:__ The Self-Defense Forces exist under constitutional ambiguity; the US security alliance provides external defense; police capacity is adequate for public order; crime rates are low and declining.
+
+__Discharge, Disorder & Decay:__ The 1960 Anpo protests against the US security treaty mark the era's largest civil disturbance; Prime Minister Kishi resigns; his successor Ikeda's Income Doubling Plan redirects energy toward economic growth; labor unrest subsides.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Postwar trauma gives way to economic optimism; the 1959 Crown Prince wedding draws fifteen million television viewers, the first mass broadcast event fostering collective national sentiment; confidence builds toward Olympic anticipation.
+
+__Leadership & Personal Authority:__ Ikeda Hayato's technocratic leadership emphasizes growth over ideology; his "low posture" style contrasts with Kishi's confrontational approach; Emperor Hirohito remains symbolically present but politically absent.
+
+__Legitimacy as Lived Allegiance:__ The postwar constitutional order gains acceptance; economic performance legitimates LDP rule; the security alliance remains contested but the 1960 crisis does not fundamentally challenge the system.
+
+__Political Will & Collective Resolve:__ The political elite achieves consensus on growth-first strategy; opposition parties retain support but cannot threaten LDP dominance; Olympic preparation mobilizes public and private resources toward a visible national goal.
+
+__External Relations & Posture:__ Japan remains firmly within the US alliance; war reparations to Southeast Asian nations proceed; normalized relations with South Korea achieved in 1965; China remains unrecognized; the posture is economic expansion within American strategic umbrella.
+
+__Disaffection, Apathy & Spent Will:__ Post-Anpo disillusionment among leftist intellectuals; some withdrawal from political engagement; economic prosperity absorbs potential discontent; radical student energy dissipates temporarily before resurging in the late 1960s.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Standard Japanese consolidates through broadcast; NHK language standards become authoritative; regional dialects persist but diminish; near-universal literacy enables print-broadcast complementarity.
+
+__Channels & Transmission Velocity:__ Television penetration rises from under five percent of households in 1955 to over ninety percent by 1964; NHK and commercial networks achieve national reach through relay networks; the 1964 Olympics feature live satellite relay to global audiences via Syncom 3.
+
+__Record, Storage & Persistence:__ Broadcast is ephemeral until videotape; NHK archives some programming; print media retain record function; the kisha club system structures information flow between government and media.
+
+__Framing, Censorship & Discourse Norms:__ Formal censorship absent but self-censorship operates; the Broadcast Law mandates fairness; NHK maintains editorial independence while avoiding confrontation with government; commercial networks prioritize entertainment over investigation.
+
+__Reception, Attention & Amplification:__ The television set becomes the household center; viewing is communal and scheduled; peak audiences reach ninety percent for major events; attention concentrates on a few channels with limited programming hours.
+
+__Signal Integrity & Noise Load:__ Technical transmission quality improves rapidly; content is professionally produced with high production values; the information environment is high-signal with limited noise compared to later fragmented media.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Postwar values emphasize peace, democracy, and economic progress; wartime militarism is officially repudiated though continuities persist; the constitution's Article Nine renouncing war becomes a contested moral touchstone.
+
+__Law, Codification & Regulatory Evolution:__ The Broadcast Law of 1950 establishes the dual system; NHK operates under special legislation requiring Diet approval of its budget; commercial broadcasting is licensed and regulated; content standards prohibit obscenity and require fairness.
+
+__Adjudication, Liability & Sanction:__ Broadcasting disputes are rare; license renewal provides regulatory leverage; the courts remain peripheral to broadcast governance; informal guidance from the Ministry of Posts and Telecommunications shapes industry behavior.
+
+__Rights, Protections & Compliance Burden:__ Broadcasters operate under licensing requirements; NHK's mandatory license fee creates compliance obligations for households; press freedom is constitutionally protected but the kisha club system limits access.
+
+__Impunity & Unredressed Wrong:__ Wartime responsibility remains largely unaddressed in broadcast content; Minamata victims receive minimal coverage; the gap between official democratic values and actual accountability persists; pollution victims lack effective redress.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Japanese universities rebuild; science and engineering education expands; the paradigm emphasizes applied research serving industrial development; basic research remains secondary to technology importation and improvement.
+
+__Applied Knowledge & Technical Method:__ Japanese manufacturers master and improve imported technologies; transistor and integrated circuit production advances; the Sony transistor radio and television exemplify the improvement cycle; quality control methods including Deming's techniques spread through industry.
+
+__Education, Knowledge Stock & Skill Distribution:__ Compulsory education extends to nine years with near-universal completion; high school attendance exceeds ninety percent; university enrollment expands; the examination system creates intense competition for credentials; technical skills diffuse through enterprise training.
+
+__Obsolescence & Knowledge Decay:__ Prewar technical knowledge persists where relevant; wartime isolation created gaps now filled by technology imports; traditional crafts decline but engineering knowledge accumulates continuously.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The war remains raw memory for adult generations; the atomic bombings shape pacifist identity; "Nihon" as peaceful economic power replaces militarist self-image; the 1964 Olympics symbolize national rehabilitation and acceptance into the international community.
+
+__Legitimating Narrative & Ideology:__ Economic growth becomes the legitimating ideology; catching up to the West provides purpose; the narrative emphasizes diligence, harmony, and national unity; the emperor system persists in symbolic form supporting continuity.
+
+__Artistic Expression & Material Culture:__ Television variety shows, professional wrestling, and period dramas define popular culture; the "three sacred treasures" (television, refrigerator, washing machine) become household aspirations; architecture modernizes for the Olympics; Western fashion influences accelerate.
+
+__Form Exhaustion & Meaning Decay:__ Traditional forms persist but lose centrality; prewar militarist symbols are discredited; mass consumer culture fills the meaning space; the transition generates neither acute anomie nor creative renewal but rather absorption in material progress.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Postwar secularization accelerates; State Shinto is dismantled; Buddhism and folk religion persist in domestic ritual but decline in public significance; the existential outlook emphasizes this-worldly material progress.
+
+__Ritual, Devotion & Sacred Practice:__ Shrine visits continue for New Year and life-cycle events; Buddhist funeral practice remains standard; the domestic altar persists in many households; active religious devotion declines among working-age urban populations.
+
+__Religious Institutions & Doctrinal Authority:__ Religious institutions lose wartime state support; new religions including Soka Gakkai expand into the spiritual vacuum; traditional Buddhist sects maintain institutional presence but declining influence; doctrinal authority weakens.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Christianity remains marginal at around one percent; new religions blend Buddhist, Shinto, and secular elements; consumer culture and corporate loyalty partially fill meaning functions; the sacred is diffused rather than displaced.
+
+__Disenchantment & Sacred Discharge:__ The sacred retreats to private observance and life-cycle ritual; public space is thoroughly secularized; economic purpose substitutes for transcendent meaning; the disenchantment is absorbed rather than experienced as void, material progress filling the space vacated by discredited state religion.

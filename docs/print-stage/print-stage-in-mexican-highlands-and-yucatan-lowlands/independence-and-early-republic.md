@@ -1,69 +1,139 @@
-# __1810 CE – 1855 CE__ — Independence and Early Republic
-__Summary:__ A forty-five-year trend spanning the collapse of Spanish colonial rule, the brief Iturbide empire, and four decades of chronic republican instability marked by federalist-centralist oscillation, territorial dismemberment, and foreign war; the binding constraint is the absence of a stable fiscal-military equilibrium capable of absorbing elite factionalism and external predation, leaving the central state perpetually underfunded, the army politicized, and the northern frontier exposed; margin against shock is negligible, and the direction of change is toward progressive territorial contraction and institutional fragility until mid-century liberal reform begins to consolidate.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The central plateau remains the demographic and political core, ringed by the Sierra Madre ranges that impose high transit friction on lateral communication; the Yucatan lowlands are semi-detached, connected to the center by sea more than overland; northern deserts separate the core from the thinly held frontier provinces now under pressure.<br><br>
-__Climate Regime & Volatility:__ Seasonal monsoon rainfall sustains highland maize agriculture, with periodic droughts triggering subsistence crises; interannual variability remains high, and no secular climatic shift dominates the window, though localized droughts in the 1840s stress provisioning.<br><br>
-__Hazard Regime & Exposure:__ Seismic and volcanic hazard persists across the Trans-Mexican Volcanic Belt; episodic earthquakes damage urban infrastructure; flood risk in the Valley of Mexico remains chronic given incomplete colonial drainage works; margin against acute hazard is thin given fiscal collapse.<br><br>
-__Resource & Energy Endowment:__ Silver deposits remain extensive but mining output collapses during the independence wars and recovers only partially; timber, water, and arable land are regionally abundant but unevenly distributed; no fossil fuel extraction yet; the endowment is underexploited relative to colonial peak.<br><br>
-__Waste Absorption & Sink Capacity:__ Urban sanitation in Mexico City remains rudimentary; organic waste accumulates in canals and streets; absorptive capacity is adequate given low industrial load, but localized saturation contributes to endemic disease; rural sinks remain largely unloaded.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic typhus, cholera, and smallpox episodically spike into epidemic outbreaks; the 1833 cholera pandemic kills tens of thousands; background mortality remains high by modern standards, with urban populations especially vulnerable; the trend is flat to worsening during wartime disruption.<br><br>
-__Nutrition & Physiological Vitality:__ Subsistence maize-bean diet sustains the majority; nutritional status is marginal for lower strata, with periodic famine during drought or war; stature and robustness are modest; no significant improvement across the window.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ High fertility offset by high infant mortality; Catholic marriage norms prevail formally, but consensual unions and mestizo illegitimacy rates remain high; no major shift in pairing patterns.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly from roughly six million at independence toward eight million by mid-century; growth is uneven, concentrated in the central plateau; migration is internal and modest; density remains low in the north and Yucatan.<br><br>
-__Attrition & Dependency Overhang:__ War, epidemic, and chronic poverty generate widows, orphans, and disabled veterans; communal and church charity absorb some load, but fiscal collapse limits institutional relief; dependency drag is significant but not yet system-breaking.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Maize, beans, and pulque remain dietary staples; subsistence is precarious for the rural majority, with hacienda peonage and smallholding coexisting; provisioning crises recur during drought and wartime disruption; margin above the survival floor is thin.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominate; water mills and animal traction power limited manufacturing; no steam engines of significance yet; per-capita work ceiling is low and unchanged from late colonial levels.<br><br>
-__Labor Organization & Coercion:__ Hacienda debt-peonage persists alongside free wage labor in mining and urban crafts; indigenous communal labor survives in some regions; corvée for public works continues; coercion remains high, though formal slavery is abolished early.<br><br>
-__Production & Surplus Capacity:__ Mining output collapses during the independence wars and recovers slowly; textile obrajes decline facing British imports; agricultural surplus is modest and locally consumed; overall productive capacity is below late colonial peak.<br><br>
-__Storage, Reserves & Buffering:__ Granaries are locally maintained but state reserves are negligible; church wealth, partially expropriated, no longer buffers crisis; treasury is chronically empty; buffering capacity is minimal.<br><br>
-__Exchange, Trade & Logistics:__ Internal trade is constrained by poor roads and banditry; the consulado system dissolves; customs revenues are the primary fiscal source but collection is erratic; external trade shifts from Spain to Britain and the United States; the mule remains the dominant freight vehicle.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver peso remains the unit of account but specie drains abroad; credit is scarce, dominated by merchant-lenders and the church; foreign loans are contracted and defaulted repeatedly; capital formation is negligible; purchasing power is volatile.<br><br>
-__Surplus Extraction & Redistribution:__ The state struggles to collect customs, internal taxes, and forced loans; military expenditures absorb most revenue; redistribution is minimal beyond army payrolls; fiscal load is low but collection is chaotic and coercive.<br><br>
-__Wealth Distribution & Asset Defense:__ Land concentration in haciendas and church hands persists; elite families defend holdings through legal maneuvering and political alignment; middle strata are thin; wealth inequality is extreme and stable.<br><br>
-__Byproducts & Waste Routing:__ Mining tailings accumulate locally; urban organic waste is dumped into waterways; industrial effluent is negligible; routing is dispersal by default given low volume.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius is narrow, confined to kin, village, and patron-client networks; intercommunal and interethnic suspicion persists; mutual aid operates through compadrazgo, cofradías, and village reciprocity; the radius is not expanding.<br><br>
-__Stratification, Status & Group Identity:__ Colonial casta hierarchy formally abolished but racial-economic stratification persists; creole elites dominate; mestizo middle strata grow slowly; indigenous communities retain corporate identity where land survives; boundaries are softening legally but hardening economically.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance prevails; extended family and compadrazgo networks structure alliance; partible inheritance fragments some holdings; no major structural shift.<br><br>
-__Civic Association & Self-Organization:__ Guilds weaken; village councils and indigenous republics persist; urban voluntary associations are elite and thin; associational fabric is fraying under economic stress and political instability.<br><br>
-__Leisure, Play & Sociability:__ Fiestas, religious festivals, bullfights, and cockfights structure communal leisure; pulquerías and plazas serve as male sociability spaces; elite tertulias and cafés host political discussion; no major shift in forms.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions, riots, and localized rebellion serve as discharge; banditry absorbs displaced men; church charity and village reciprocity buffer hardship; a significant residue of unredressed grievance accumulates, fueling later reform demands.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Sovereign authority is contested throughout; federalist and centralist constitutions alternate; the presidency is seized by pronunciamiento more often than transferred by election; Santa Anna dominates but does not stabilize; power is fragmented among regional caudillos and the politicized army.<br><br>
-__Succession & Power Transfer:__ No reliable succession mechanism; coups, revolts, and forced resignations are the norm; eleven presidents hold office in the 1840s alone; transfer is a perpetual flashpoint.<br><br>
-__Legitimacy & Political Narrative:__ Independence is justified by creole nationalism and liberal republicanism; federalists invoke local autonomy, centralists invoke order; neither narrative achieves hegemonic acceptance; legitimacy is chronically contested.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Colonial bureaucracy fragments; tax collection is erratic; record-keeping deteriorates; corruption is endemic; the state's reach beyond the capital is weak; capacity is declining.<br><br>
-__Political Participation & Mobilization:__ Elite factions dominate formal politics; popular mobilization is episodic and often co-opted; indigenous communities are largely excluded; channels are narrow and closing for non-elites.<br><br>
-__Geopolitical Position & External Relations:__ Spain does not recognize independence until 1836; Texas secedes in 1836; the United States invades in 1846 and extracts half the national territory by 1848; France and Britain intervene over debts; external position is catastrophically weak.<br><br>
-__Coercive Apparatus & Means of Force:__ The army is the dominant political actor but militarily ineffective; cavalry and infantry armed with smoothbore muskets; no navy of consequence; fortifications are neglected; command is dispersed among competing generals.<br><br>
-__Internal Order & Threat Environment:__ Banditry is endemic on roads; indigenous rebellions flare in Yucatan (Caste War from 1847) and elsewhere; regional revolts are constant; order breaks down repeatedly; enforcement capacity is far exceeded by disorder.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print is the dominant medium for political communication; newspapers multiply in the capital and provincial cities; pamphlets circulate among literate elites; oral transmission reaches the illiterate majority; velocity is slow, limited by roads and literacy.<br><br>
-__Record, Storage & Persistence:__ Colonial archives survive but are poorly maintained; government gazettes and newspaper runs are preserved unevenly; church registers continue; institutional memory is fragmenting; some records are lost to war and neglect.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press freedom is constitutionally proclaimed but episodically violated; partisan papers attack opponents viciously; censorship varies with regime; the permitted band widens and narrows unpredictably.<br><br>
-__Reception, Attention & Amplification:__ Elite readership is small; newspapers are read aloud in cafés and plazas, amplifying reach; attention is local and factional; no national public sphere yet exists.<br><br>
-__Signal Integrity & Noise Load:__ Partisan polemic generates high noise; rumor and misinformation circulate freely; verification is informal and unreliable; the signal-to-noise ratio is low and worsening during crisis.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Catholic natural law and liberal rights coexist uneasily; communal justice norms persist in indigenous villages; elite and popular notions of fairness diverge; no unified moral consensus.<br><br>
-__Law, Codification & Regulatory Evolution:__ Colonial law is nominally replaced by republican codes, but codification is incomplete and inconsistent across constitutions; Reform-era secularizing legislation begins only at window's end; legal instability is high.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts function erratically; church courts retain jurisdiction over marriage and morals until Reform; enforcement is weak outside the capital; liability assignment is slow and uncertain.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights are proclaimed but unenforced; indigenous communal rights are eroded; compliance burden is low because enforcement is weak; predictability is poor.<br><br>
-__Impunity & Unredressed Wrong:__ Military and elite impunity is extensive; banditry goes unpunished; indigenous grievances accumulate; the redress deficit is large and growing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Enlightenment liberalism and Catholic scholasticism compete; no active natural-science frontier; positivism not yet arrived; the dominant paradigm is political-constitutional debate among educated elites.<br><br>
-__Applied Knowledge & Technical Method:__ Mining techniques stagnate; European machinery is imported but not replicated; medical practice remains pre-germ-theory; no significant technical innovation occurs domestically.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy is perhaps ten percent, concentrated in urban elites; the university and colegios train clerics and lawyers; primary education is sparse; the knowledge stock is not expanding; skill distribution is narrow.<br><br>
-__Obsolescence & Knowledge Decay:__ Colonial technical knowledge in mining and agriculture decays as practitioners die or emigrate; institutional memory fragments; error and dogma are not systematically cleared; decay outpaces accumulation.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Creole nationalism constructs an Aztec-Hispanic synthesis; Hidalgo and Morelos become founding martyrs; the Virgin of Guadalupe anchors popular identity; regional identities (Yucatecan, northern) remain strong; the national mythos is contested and incomplete.<br><br>
-__Artistic Expression & Material Culture:__ Neoclassical architecture persists in elite buildings; religious art continues in popular forms; lithography enables political caricature; material culture is conservative, with slow absorption of European styles.<br><br>
-__Collective Mood & Behavioral Disposition:__ Elite mood oscillates between patriotic hope and despair at instability; popular mood is localist and survivalist; risk perception is high; confidence in the state is low and falling after 1848.<br><br>
-__Form Exhaustion & Meaning Decay:__ Colonial religious forms persist but lose some vitality under liberal attack; no new cultural synthesis emerges; anomie is localized in displaced populations; forms are neither renewed nor fully exhausted.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology dominates; fatalism coexists with providentialist hope; indigenous syncretic beliefs persist in rural areas; secularism is an elite minority position; the balance is stable.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Mass, confession, saints' days, and pilgrimage structure religious life; cofradías organize communal devotion; domestic altars are universal; practice is intense and little changed.<br><br>
-__Religious Institutions & Doctrinal Authority:__ The church retains vast wealth, land, and social influence; clerical privilege (fuero) protects the clergy; doctrinal authority is unchallenged among the faithful but increasingly contested by liberals; institutional power is eroding slowly.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism is unchallenged; Protestant presence is negligible; indigenous syncretism continues unabated; no significant diffusion or displacement occurs.<br><br>
-__Disenchantment & Sacred Discharge:__ Liberal anticlericalism is intellectual and elite; popular piety remains intense; disenchantment is minimal outside educated urban circles; the sacred still answers for the majority.
+# __1810 CE – 1855 CE — Independence and Early Republic__
+
+__Summary:__ The transition from colonial restriction to republican print culture unfolds under the binding constraint of chronic political instability, as forty-five years produce over fifty governments, draining the treasury, fragmenting the literate public, and preventing the consolidation of either state capacity or a stable commercial press.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The central plateau dominates political and print life, with Mexico City commanding the Valley of Mexico at 2,240 meters elevation; the Bajío corridor through Guanajuato and Querétaro links the capital to western and northern territories; mountain ranges isolate Yucatan, Oaxaca, and the Pacific slope; roads remain colonial-era mule tracks requiring weeks to connect provincial centers, so that news from Mérida reaches the capital in twenty to thirty days and provincial subscriptions remain economically unviable.
+
+__Climate Regime & Volatility:__ Temperate highland climate in the core zone permits year-round publishing activity without seasonal interruption; tropical lowlands at Veracruz and in Yucatan impose disease risks on travelers and limit population density; rainfall seasonality affects agricultural output and thus the purchasing power of provincial readerships; no secular climate shift disrupts the period, though localized droughts reduce rural incomes episodically.
+
+__Hazard Regime & Exposure:__ Earthquake risk in the Valley of Mexico and volcanic activity near Puebla pose latent threats to printing infrastructure, though no major seismic event destroys presses during this window; hurricanes periodically strike Yucatan and the Gulf coast, disrupting henequen harvests and regional commerce; the hazard regime remains background rather than acute.
+
+__Resource & Energy Endowment:__ Silver mining collapses after 1810 as mines flood and capital flees, recovering only partially by mid-century; timber for paper production exists in highland forests but paper remains largely imported from Europe and the United States; no domestic paper industry of significance develops; printing presses, type, and ink are imported through Veracruz at high cost; energy for presses is human muscle, as steam-powered printing does not arrive until the Porfiriato.
+
+__Waste Absorption & Sink Capacity:__ Urban pollution concentrates in Mexico City, where open sewage and refuse accumulate; the printing industry's physical footprint remains minimal, with ink and paper waste negligible against broader urban discharge; no saturation threshold is approached.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic typhus, smallpox outbreaks, and cholera epidemics (notably 1833, killing perhaps 10% of the urban population) impose periodic mortality shocks; yellow fever at Veracruz gates transit to and from the port; mortality baseline remains high, life expectancy under forty years; the literate urban class is not spared.
+
+__Nutrition & Physiological Vitality:__ Maize-and-bean subsistence sustains the majority population at marginal adequacy; urban elites consume wheat bread and imported goods; no significant nutritional improvement occurs; rural populations and urban poor remain physically stunted relative to elite standards; pellagra and other deficiency conditions persist.
+
+__Care, Healing & Recovery Capacity:__ Medical care is rudimentary, with hospitals concentrated in Mexico City and major towns; folk medicine, midwifery, and curanderos serve the majority; the medical profession is small and largely ineffective against epidemic disease; recovery capacity lags behind mortality load.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage and reproduction follow Catholic norms; clerical fees limit formal marriage among the poor; consensual unions and illegitimacy are common; no significant shift in reproductive patterns occurs.
+
+__Demographic Renewal & Density:__ Population grows slowly from approximately six million in 1810 to perhaps eight million by 1855, with independence-era warfare (1810–1821) causing significant losses, possibly 600,000 deaths; rural density remains low outside the central plateau; urban growth is modest, with Mexico City reaching perhaps 200,000 by mid-century.
+
+__Attrition & Dependency Overhang:__ High infant and child mortality limit dependency ratios; warfare removes adult males episodically; the dependent load is manageable within extended family and community structures; no demographic crisis of dependency emerges.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Maize cultivation sustains the majority, with production concentrated on haciendas and smallholdings; urban provisioning depends on regional markets reaching Mexico City via mule train; subsistence remains precarious for the rural poor, adequate for urban artisans and professionals; famine conditions are localized and episodic rather than systemic.
+
+__Energy Capture & Conversion:__ Human and animal muscle provide nearly all productive energy; water power drives some textile mills; no steam power is applied to printing during this period; the energy ceiling constrains all industrial activity, including press runs, to small scale.
+
+__Labor Organization & Coercion:__ Formal slavery is abolished, but debt peonage binds rural labor to haciendas; artisan guilds persist in urban trades, including printing, where journeymen printers work under master printers for wages; labor coercion is indirect but pervasive in the countryside; printing is a free-wage sector employing a few hundred skilled workers nationally.
+
+__Production & Surplus Capacity:__ Agricultural surplus is modest and largely absorbed by hacienda owners and urban consumption; mining recovery is slow; manufacturing is limited to textiles and artisan production; the surplus available to sustain newspapers is small, forcing reliance on political subsidy.
+
+__Storage, Reserves & Buffering:__ The national treasury is chronically empty, with revenues insufficient to service debts; multiple foreign loans (British, 1824) are defaulted; no buffer exists against military coups, which repeatedly loot the treasury; private reserves among hacendados and merchants are modest.
+
+__Exchange, Trade & Logistics:__ Internal trade is hampered by poor roads and banditry; external trade flows through Veracruz, controlled intermittently by foreign blockades (French Pastry War, 1838; American occupation, 1847); tariff revenues are the primary state income but fluctuate wildly; newspapers depend on these fragile circuits for paper, ink, and subscriber delivery.
+
+__Value Storage, Credit & Deferred Exchange:__ Coinage is silver-based but debased and unreliable; credit is scarce and interest rates high; the church functions as a credit institution until Reform confiscations; merchants and hacendados hold value in land and goods rather than paper instruments.
+
+__Surplus Extraction & Redistribution:__ The state extracts through tariffs, excise taxes, and forced loans from merchants and clergy; extraction is contested and resisted; redistribution is minimal beyond military payrolls and debt service; no systematic press subsidy exists, though governments purchase newspaper support episodically.
+
+__Wealth Distribution & Asset Defense:__ Land concentration intensifies as church and communal lands are privatized under Liberal reforms (Ley Lerdo, 1856, at period's end); wealth is held in land and urban property; merchants and hacendados invest in political protection; extreme inequality persists with no leveling mechanism.
+
+__Byproducts & Waste Routing:__ Economic waste is minimal at this scale; financial misallocation accumulates as defaulted debts and abandoned mines; no clearing mechanism addresses the inherited debt overhang.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Extended family networks structure elite and popular life; inheritance follows Spanish law, dividing estates among heirs, gradually fragmenting some fortunes; compadrazgo (godparent) ties extend networks of mutual obligation; the printing trade passes through family apprenticeship lines.
+
+__Association & Mutual Aid:__ Guilds persist in urban trades; confraternities (cofradías) provide mutual aid among communities; Masonic lodges (yorkinos, escoceses) organize political factions among elites; no formal journalistic associations exist; mutual aid remains kin-based and local.
+
+__Leisure, Play & Sociability:__ Bullfights, fiestas, and religious processions structure public sociability; cafés and tertulias gather the literate elite who constitute newspaper readerships; reading aloud extends print reach beyond literal literacy; public space is contested during political crises.
+
+__Stratification, Status & Group Structure:__ Colonial racial categories (peninsular, criollo, mestizo, indigenous, casta) lose legal force but persist socially; criollo and mestizo elites dominate politics and print; indigenous majorities are largely excluded from Spanish-language public sphere; hacendado, merchant, clerical, and military factions contest power; the literate stratum numbers perhaps 10–15% of the adult population.
+
+__Administrative Capacity & Institutional Integrity:__ State capacity is minimal; the federal system (1824) gives way to centralism (1836) and back repeatedly; no stable civil service exists; tax collection is erratic; record-keeping is rudimentary; corruption is pervasive; the state cannot reliably deliver mail, let alone sustain a postal system for newspaper distribution; over fifty governments in forty-five years preclude institutional consolidation.
+
+__Coercive Apparatus & Means of Force:__ The military is the dominant political actor, consuming most state revenues; caudillos command regional forces loyal to persons, not institutions; Santa Anna raises and loses armies repeatedly; no professional constabulary exists; banditry flourishes in the countryside; the state cannot monopolize legitimate violence.
+
+__Discharge, Disorder & Decay:__ Political violence is constant: the independence wars (1810–1821), pronunciamientos (military coups) every few years, the Texas rebellion (1836), the Pastry War (1838), the American invasion (1846–1848), and continuous banditry; print reflects and inflames partisan conflict without resolving it; excluded indigenous populations mount localized rebellions (Yucatan Caste War, 1847–1855); social friction is chronic and unmetabolized.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Uncertainty and volatility characterize public mood; hope for republican institutions is repeatedly disappointed; national humiliation after territorial losses to the United States (1848, losing half the national territory) produces despair and recrimination among elites; popular indifference or localism limits national sentiment; the radius of trust is narrow, extending little beyond kin and patron networks.
+
+__Leadership & Personal Authority:__ Caudillos dominate: Santa Anna holds power eleven times, his personal charisma and military reputation outweighing institutional legitimacy; regional caudillos (Juan Alvarez in the south) command local loyalties; no civilian leader sustains authority for a full term until Juárez (beyond this period).
+
+__Legitimacy as Lived Allegiance:__ Constitutional legitimacy is weak; governments claim legality but seize power by force; popular allegiance attaches to patrons and localities, not abstract republics; the church retains legitimacy among the devout, which Liberal attacks erode among their partisans; legitimacy is contested, never settled.
+
+__Political Will & Collective Resolve:__ Will fragments among factions—Liberals versus Conservatives, federalists versus centralists, yorkinos versus escoceses; no coalition sustains power long enough to implement a program; the collective will to resist American invasion (1846–1848) is insufficient; faction-fighting dissipates resolve.
+
+__External Relations & Posture:__ Weakness before foreign powers defines the period: Texas lost, California and the Southwest lost, French blockade submitted to, American occupation endured; Mexico is an object of European and American intervention, not an actor; diplomatic capacity is minimal; the leverage imbalance is total.
+
+__Disaffection, Apathy & Spent Will:__ Repeated failures exhaust civic hope; by 1855, many among the elite see reform or collapse as the only alternatives; popular disengagement from national politics is pervasive; apathy and disillusion settle where patriotic sentiment might have developed; the reservoir of civic will is nearly dry.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spanish literacy is the threshold; perhaps 10–15% of adults can read, concentrated in cities and among males; indigenous-language speakers (40% of the population) are largely excluded from print; oral networks and reading aloud partially extend print's reach; the shared code is narrow and urban.
+
+__Channels & Transmission Velocity:__ Print is the primary channel for political discourse, but circulation is tiny—major papers print a few thousand copies at most; distribution depends on mule post, reaching provincial subscribers weeks late; no telegraph until 1851 (limited lines); news travels at animal speed; the channel is slow and narrow.
+
+__Record, Storage & Persistence:__ Newspaper runs are ephemeral; libraries are few; archives are disordered and vulnerable to looting during regime changes; the record is fragile; much early republican print is lost.
+
+__Framing, Censorship & Discourse Norms:__ Press freedom fluctuates wildly; independence-era insurgent press (El Despertador Americano) is suppressed; early republic sees press explosions during liberal moments and suppressions during conservative ones; partisan invective is the norm; no settled discourse regime emerges; papers routinely attack opponents as traitors.
+
+__Reception, Attention & Amplification:__ The reading public is small—perhaps 100,000 regular newspaper readers nationally; cafés, tertulias, and public readings amplify reach; papers are shared and read aloud; amplification is social rather than mechanical; attention is concentrated in the capital.
+
+__Signal Integrity & Noise Load:__ Partisan distortion is pervasive; papers are organs of factions, not neutral recorders; contradictory accounts of events circulate simultaneously; verification is impossible for distant readers; noise load is high, signal integrity low.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Catholic moral foundations underlie popular conscience; elite Liberals adopt Enlightenment rationalism and anticlericalism; Conservatives defend church and tradition; competing moral frameworks fuel conflict; no consensus on justice underlies the legal order.
+
+__Law, Codification & Regulatory Evolution:__ Colonial law persists patchwork; successive constitutions (1824, 1836, 1843) are unstable; Reform laws (Ley Juárez, Ley Lerdo, Ley Iglesias) begin at period's end (1855–1857), confiscating church property and ending clerical privileges; codification is contested and incomplete.
+
+__Adjudication, Liability & Sanction:__ Courts are weak and corrupt; military fueros exempt soldiers from civil jurisdiction; clerical fueros do the same for priests until Liberal reforms; justice is slow, partial, and frequently purchased; sanction is arbitrary.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights are proclaimed but not enforced; press freedom is nominal, violated by suppression when convenient; property rights are insecure against government expropriation and bandit predation; compliance burden is low because enforcement is weak.
+
+__Impunity & Unredressed Wrong:__ Impunity is pervasive; caudillos and their clients escape accountability; crimes during regime changes are amnestied; injustice accumulates without redress; the gap between justice owed and delivered is vast.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ European Enlightenment ideas circulate among elites; Liberal and Conservative ideologies compete; positivism begins to influence late in the period; no significant original inquiry occurs; Mexican thought is derivative of European models.
+
+__Applied Knowledge & Technical Method:__ Printing technology remains unchanged from colonial times—hand-set type, manual presses; no innovation in press technology occurs during this period; the technique in use is early modern European, imported and maintained without development.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education is limited and contested; the Lancasterian system spreads rudimentary schooling; the university (suppressed and restored repeatedly) trains a small elite; literacy rises modestly from perhaps 10% to 15%; skill distribution is narrow; the knowledge stock is small and concentrated.
+
+__Obsolescence & Knowledge Decay:__ Colonial-era knowledge (scholasticism, colonial administration) becomes obsolete without replacement; the disruption of war and regime change interrupts transmission; libraries are looted and dispersed; knowledge decay exceeds accumulation.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Independence generates founding myths—Hidalgo as father of the nation, the Virgin of Guadalupe as national symbol; the Aztec past is invoked selectively as a criollo legitimating device (the eagle and serpent); regional identities remain strong; no unified national memory consolidates; the foundational narrative is contested between Liberal and Conservative versions.
+
+__Legitimating Narrative & Ideology:__ Liberals claim the mantle of progress, republicanism, and anti-colonialism; Conservatives invoke order, tradition, and Catholic civilization; neither narrative commands consensus; the legitimating contest is unresolved; print is the primary medium of ideological warfare.
+
+__Artistic Expression & Material Culture:__ Neoclassicism persists in elite taste; popular arts (folk pottery, textiles, religious imagery) continue colonial forms; José Joaquín Fernández de Lizardi's El Periquillo Sarniento (1816) is the first Mexican novel, satirizing colonial society; lithography introduces visual journalism; the material surface is provincial European with indigenous substrate.
+
+__Form Exhaustion & Meaning Decay:__ Colonial forms lose relevance without replacement; republican iconography is not yet consolidated; symbolic language is unstable; anomie accompanies the collapse of colonial certainties; meaning is contested, not exhausted.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Catholic cosmology remains dominant among the majority; elite Liberals embrace rationalism and anticlericalism; fatalism coexists with millenarian hopes (evident in popular insurgency under Hidalgo); the existential outlook is traditional for most, contested among elites.
+
+__Ritual, Devotion & Sacred Practice:__ Catholic ritual structures the calendar and life cycle; religious processions, pilgrimages (Guadalupe), and feast days organize popular piety; Liberal anticlericalism does not yet disrupt popular practice; devotion remains intense among the majority.
+
+__Religious Institutions & Doctrinal Authority:__ The church is the wealthiest and most institutionally coherent body in Mexico, holding perhaps half the productive land; the hierarchy is conservative and aligned with Conservative politics; clerical fueros (legal privileges) are contested; institutional power peaks before Reform confiscations (1855–1857) begin the assault.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism is universal; Guadalupan devotion synthesizes indigenous and Spanish elements; no Protestant presence exists legally; syncretic indigenous practices persist beneath Catholic forms; no displacement occurs during this period.
+
+__Disenchantment & Sacred Discharge:__ Elite Liberals experience disenchantment with traditional religion, embracing secular rationalism; popular piety is undiminished; the gap between elite secularism and popular devotion widens; no resolution is reached; disenchantment settles among the reforming elite as a badge of progress rather than a loss.

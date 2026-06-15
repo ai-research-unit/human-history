@@ -1,69 +1,139 @@
-# __1945 CE – 1955 CE__ — Occupation Broadcasting Reform
-__Summary:__ American occupation authorities (SCAP) dismantle Japan's wartime propaganda apparatus and restructure broadcasting along democratic lines, separating NHK from state control while licensing commercial competitors, culminating in the simultaneous 1953 launch of NHK and commercial television. The binding constraint is SCAP's monopoly on legitimate authority during occupation, which permits radical institutional redesign but also imposes American-style censorship on leftist and pro-Soviet content; the system transitions from reform under occupation to sovereign operation with a dual public-commercial structure unique in East Asia.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Archipelago geography unchanged; wartime destruction of urban infrastructure creates reconstruction challenge; transmitter networks require rebuilding; mountainous terrain continues to complicate coverage expansion.<br><br>
-__Climate Regime & Volatility:__ Monsoon climate stable within normal variation; no secular drift; typhoons continue seasonal disruption but manageable within reconstruction planning.<br><br>
-__Hazard Regime & Exposure:__ Seismic and volcanic baseline unchanged; anthropogenic destruction from bombing requires years of clearance and rebuilding; no major natural disasters dominate the period beyond normal seismic activity.<br><br>
-__Resource & Energy Endowment:__ Coal production resumes; no domestic oil; electrical infrastructure rebuilt with occupation assistance; resource scarcity eases as trade reopens but remains below pre-war peak.<br><br>
-__Waste Absorption & Sink Capacity:__ Reconstruction generates debris; industrial waste minimal due to reduced production; absorptive capacity adequate; urban sanitation gradually restored.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Immediate postwar disease surge from malnutrition and disruption; mortality elevated 1945–1947; public health measures under occupation reduce infectious disease; tuberculosis remains significant but declining.<br><br>
-__Nutrition & Physiological Vitality:__ Severe food shortage 1945–1948; American food aid prevents mass starvation; caloric adequacy gradually restored; vitality recovering by early 1950s; stature begins intergenerational recovery.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Postwar baby boom 1947–1949 as demobilized soldiers return; marriage rates surge; fertility elevated before family planning promotion reduces birth rates.<br><br>
-__Demographic Renewal & Density:__ Population recovers toward 90 million by 1955; repatriates from empire add millions; age structure normalizing; urban density increasing as reconstruction proceeds.<br><br>
-__Attrition & Dependency Overhang:__ War widows, orphans, disabled veterans constitute major dependency burden; pension systems inadequate; extended family absorbs much load; dependency ratio gradually normalizing.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Acute shortage 1945–1948; black markets essential for survival; rationing continues; stabilization by 1950; Korean War procurement boom lifts economy; subsistence secure by 1955.<br><br>
-__Energy Capture & Conversion:__ Coal and hydroelectric primary; oil imports resume; electrical supply rebuilt; per-capita energy consumption rising; broadcasting power needs met by grid restoration.<br><br>
-__Labor Organization & Coercion:__ Occupation legalizes unions; labor organizing surges then constrained by reverse course; coercion eliminated; wage labor dominant; labor surplus from demobilization.<br><br>
-__Production & Surplus Capacity:__ Industrial production collapsed 1945; reconstruction gradual; Korean War orders 1950–1953 stimulate manufacturing revival; surplus generation resuming by mid-decade.<br><br>
-__Storage, Reserves & Buffering:__ Reserves exhausted 1945; gradual rebuilding; foreign exchange scarce until Korean War earnings; buffering capacity thin until late in period.<br><br>
-__Exchange, Trade & Logistics:__ Trade reopens under occupation supervision; domestic rail network restored; distribution normalizing; yen stabilized 1949 Dodge Line reforms; logistics improving.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Inflation severe 1945–1949; currency reform stabilizes yen at 360 to dollar; credit systems rebuilding; savings culture reviving; banking restored.<br><br>
-__Surplus Extraction & Redistribution:__ Occupation-directed land reform redistributes rural wealth; tax system reformed; zaibatsu dissolution redistributes industrial control before reverse course reconcentration.<br><br>
-__Wealth Distribution & Asset Defense:__ Land reform levels rural distribution; urban destruction equalizes somewhat; new commercial broadcasters create wealth opportunities; asset recovery gradual.<br><br>
-__Byproducts & Waste Routing:__ Reconstruction debris managed; industrial waste minimal due to low production; routing capacity adequate; environmental concerns minimal priority.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Wartime surveillance structures dissolved; trust rebuilding slowly; neighborhood associations repurposed for mutual aid without coercive function; reciprocity networks restore.<br><br>
-__Stratification, Status & Group Identity:__ Occupation reforms formally eliminate aristocratic titles; new elites emerge from political and commercial success; ethnic Koreans remain marginalized; class structure in flux.<br><br>
-__Kinship, Family & Inheritance:__ Civil Code reform 1947 equalizes inheritance, raises women's legal status; ie system legally weakened though practically persistent; nuclear family increasingly normative.<br><br>
-__Civic Association & Self-Organization:__ Freedom of association restored; unions, clubs, civic groups proliferate; occupation permits then constrains leftist organization; associational life reviving.<br><br>
-__Leisure, Play & Sociability:__ Radio entertainment central to recovery; American cultural influence strong; film and music industries revive; leisure expanding as survival pressure eases.<br><br>
-__Grievance Channels & Social Discharge:__ Democratic channels opened; political participation encouraged then channeled; labor disputes permitted; social friction dischargeable through new legitimate means; residual grievance declining.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ SCAP holds supreme authority 1945–1952; Japanese government subordinate; sovereignty restored 1952 San Francisco Treaty; parliamentary democracy established; Emperor retained as symbol.<br><br>
-__Succession & Power Transfer:__ Democratic elections instituted; cabinet turnover regularized; imperial succession stable under Hirohito; power transfer routinized through electoral mechanism.<br><br>
-__Legitimacy & Political Narrative:__ Democratic legitimacy replaces imperial ideology; peace constitution narrative emerges; war responsibility debated but deflected; new national identity constructed around economic recovery and pacifism.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucracy largely retained for continuity; occupation oversight maintains integrity; corruption limited by external supervision; capacity adequate for broadcasting regulation.<br><br>
-__Political Participation & Mobilization:__ Universal suffrage including women; competitive elections; union and leftist mobilization then reverse course containment; participation genuine within Cold War constraints.<br><br>
-__Geopolitical Position & External Relations:__ Occupied 1945–1952; security alliance with US from 1951; Cold War positioning as American ally; rearmament begins; Korea War nearby but Japan not belligerent.<br><br>
-__Coercive Apparatus & Means of Force:__ Military abolished; occupation forces maintain order; National Police Reserve 1950, Self-Defense Forces 1954; coercive capacity minimal and externally supervised.<br><br>
-__Internal Order & Threat Environment:__ Order maintained by occupation then domestic police; crime elevated 1945–1948 then normalizing; no rebellion; communist activity monitored; disorder manageable.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Radio remains primary broadcast medium; NHK monopoly ended; commercial radio licensed 1951; NHK television and Nippon TV both launch August 1953; transmission velocity instantaneous within coverage.<br><br>
-__Record, Storage & Persistence:__ NHK archives preserved; occupation records extensive; print media free but monitored; television introduces new archival challenges; record persistence improving.<br><br>
-__Framing, Censorship & Discourse Norms:__ SCAP censorship replaces wartime censorship; militarism, ultra-nationalism prohibited; leftist content constrained by reverse course; discourse framing shifts to democracy and reconstruction; self-censorship persists.<br><br>
-__Reception, Attention & Amplification:__ Radio receiver saturation maintained; television receivers expensive, limited to urban affluent early; public television viewing common; attention shifting from radio toward television by period's end.<br><br>
-__Signal Integrity & Noise Load:__ Information quality improved by press freedom; propaganda replaced by journalism under constraints; verification capacity restored; noise reduced but Cold War framing introduces new distortions.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice redefined along democratic, rights-based lines; individual rights newly emphasized; war guilt and responsibility partially addressed through Tokyo Trials; sense of justice in transition.<br><br>
-__Law, Codification & Regulatory Evolution:__ New constitution 1947 enshrines rights; Broadcasting Law 1950 establishes regulatory framework; NHK reorganized as public corporation independent of government; commercial licensing framework created.<br><br>
-__Adjudication, Enforcement & Liability:__ Court system reformed; Tokyo Tribunal handles war crimes; civilian courts resume normal function; occupation authorities retain ultimate jurisdiction until 1952; enforcement regularizing.<br><br>
-__Rights, Protections & Compliance Burden:__ Constitutional rights extensive on paper; freedom of expression guaranteed; compliance burden reduced from wartime total; predictability increasing under rule of law.<br><br>
-__Impunity & Unredressed Wrong:__ War crimes selectively prosecuted; many perpetrators escape through Cold War expedience; victims' claims largely unaddressed; impunity for some balanced by punishment for others; redress deficit persists.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Scientific exchange with West restored; American paradigms dominant; wartime militarized science redirected to civilian applications; academic freedom restored; Marxist scholarship influential then constrained.<br><br>
-__Applied Knowledge & Technical Method:__ Broadcasting technology advancing; television engineering developed with American assistance; manufacturing methods improving; NHK technical research continues; technique adequate for television launch.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education system reformed along American lines; militaristic content removed; literacy universal; technical education expanding; skill distribution adequate for broadcast industry development.<br><br>
-__Obsolescence & Knowledge Decay:__ Wartime propaganda paradigms discarded; military technology knowledge deliberately suppressed; international exchange fills wartime gaps; knowledge stock rebuilding; decay halted.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ War mythology delegitimized; new narrative of peaceful democracy and economic recovery emerges; atomic victimhood becomes identity element; collective memory contested between victimhood and responsibility.<br><br>
-__Artistic Expression & Material Culture:__ American cultural influence pervasive; film industry revives with new freedom; radio entertainment Americanized then adapts; material culture transitioning from scarcity to early consumerism.<br><br>
-__Collective Mood & Behavioral Disposition:__ Defeat, shame, and survival mode 1945–1948; gradual recovery of confidence; optimism rising with Korean War boom; mood lightening toward reconstruction pride; risk perception normalizing.<br><br>
-__Form Exhaustion & Meaning Decay:__ Wartime forms completely discredited; meaning vacuum filled by American imports and domestically adapted entertainment; new forms emerging in radio drama, comedy, music; regeneration underway.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ State Shinto disestablished; Emperor's divinity renounced; cosmological vacuum filled by diverse responses—secular materialism, revived Buddhism, new religions, Christianity marginal; existential outlook pragmatic.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Shrine attendance voluntary; Yasukuni status contested; family Buddhism continues; ritual practice privatized; devotional infrastructure intact but authority reduced.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Religious freedom guaranteed; Shinto shrines lose state support; Buddhist institutions independent; new religions proliferate (Soka Gakkai, others); doctrinal authority dispersed.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ New religious movements spread rapidly; American Christianity minor influence; traditional practices persist alongside innovation; syncretism active; no single framework dominant.<br><br>
-__Disenchantment & Sacred Discharge:__ Wartime cosmology collapsed; reconstruction pragmatism fills functional space; transcendence available through diverse paths but not mandatory; disenchantment present but not paralyzing; sacred meaning reconstructed individually and through new movements.<br><br>
+# __1945 CE – 1955 CE — Occupation Broadcasting Reform__
+
+__Summary:__ American occupation (SCAP) dismantles the wartime state-radio apparatus, restructuring NHK as an independent public broadcaster and authorizing commercial competition — the dual public-commercial system that will define Japanese broadcasting, established here under external fiat and consolidated through the Korean War boom and sovereignty restoration.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The same archipelago of 3,000 km and 85% mountainous terrain; wartime destruction concentrated in urban plains — Tokyo, Osaka, Nagoya flattened — but the geographic stage unchanged; relay-station infrastructure damaged but reconstructable.
+
+__Climate Regime & Volatility:__ Temperate monsoon climate; typhoons disrupt reconstruction logistics but climate is not a binding constraint; the physical substrate permits rapid rebuilding.
+
+__Hazard Regime & Exposure:__ Acute war damage supersedes background seismic risk; Hiroshima and Nagasaki carry residual radiation; unexploded ordnance hazard persists in former target cities; the hazard regime shifts from bombing to reconstruction risk (unsafe structures, industrial accidents).
+
+__Resource & Energy Endowment:__ Coal production resumes; hydroelectric capacity intact; petroleum now supplied by occupation-managed imports; raw-material scarcity eases as trade routes reopen under American security umbrella; the resource constraint loosens.
+
+__Waste Absorption & Sink Capacity:__ Rubble clearance and urban reconstruction proceed; industrial pollution resumes as factories reopen; the immediate war residue is cleared but environmental regulation minimal — a new accumulation begins.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Tuberculosis remains endemic; DDT campaigns suppress malaria and typhus; American medical aid and LARA (Licensed Agencies for Relief in Asia) supplies reduce acute disease burden; mortality baseline falls toward prewar levels.
+
+__Nutrition & Physiological Vitality:__ Acute hunger 1945–1947 (caloric intake below 1,500 kcal/day in cities); American food aid (wheat, corn) and domestic recovery improve nutrition by 1950; physical vitality recovers, measurable in conscript-cohort stature by decade's end.
+
+__Care, Healing & Recovery Capacity:__ American medical assistance augments depleted system; penicillin and sulfa drugs introduced; public health infrastructure rebuilt; hibakusha (atomic-bomb survivors) receive ongoing care though radiation illness poorly understood.
+
+__Reproductive Biology & Pairing Dynamics:__ Birth rate spikes in postwar "baby boom" (1947–1949 peak); repatriated soldiers and reunited families drive fertility recovery; the demographic deficit of the war years is partially offset.
+
+__Demographic Renewal & Density:__ Population rises from approximately 72 million (1945) to 89 million (1955); repatriation of 6 million overseas Japanese strains housing and labor markets initially but provides labor pool for reconstruction.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans remain a significant dependent load; welfare systems nascent; the dependency overhang persists but is gradually absorbed by economic recovery.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rationing continues to 1950; black markets dominant 1945–1948; land reform (1946–1950) redistributes 38% of cultivated land to tenant farmers, raising rural incomes and food production; the provisioning floor rises.
+
+__Energy Capture & Conversion:__ Coal output recovers; electricity generation expands; petroleum imports secured through American supply chains; the energy constraint that strangled the war economy is lifted.
+
+__Labor Organization & Coercion:__ Occupation labor reforms empower unions; labor force expands with demobilization and repatriation; the coerced labor of wartime replaced by wage labor and union bargaining; industrial relations contentious (general strike averted 1947) but contractual.
+
+__Production & Surplus Capacity:__ Hyperinflation (1945–1949) disrupts recovery; Dodge Line stabilization (1949) imposes fiscal discipline and fixed exchange rate (360 yen/dollar); Korean War procurement boom (1950–1953) provides $3.5 billion in orders, reviving industrial capacity and generating surplus for reinvestment.
+
+__Storage, Reserves & Buffering:__ Inflation wipes out household savings; Dodge Line restores currency stability; Korean War earnings build reserves; by 1955 the treasury has fiscal room and households have begun saving again.
+
+__Exchange, Trade & Logistics:__ Trade initially occupation-controlled; GATT membership (1955) marks return to international trade system; export recovery begins with textiles, advances to light manufactures; logistics infrastructure rebuilt.
+
+__Value Storage, Credit & Deferred Exchange:__ Hyperinflation (1945–1949) destroys yen purchasing power; Dodge stabilization restores confidence; banking system reorganized; credit mechanisms recover; the monetary system is functional by 1950.
+
+__Surplus Extraction & Redistribution:__ Land reform transfers rural surplus from landlords to cultivators; Shoup tax mission (1949–1950) rationalizes the tax system; extraction capacity rebuilt on a reformed base; fiscal room exists by decade's end.
+
+__Wealth Distribution & Asset Defense:__ Zaibatsu dissolution (nominally) and land reform redistribute wealth; former elites lose landholdings and formal corporate control; actual concentration re-emerges through keiretsu networks but initial leveling is real.
+
+__Byproducts & Waste Routing:__ Industrial waste resumes with reconstruction; environmental regulation absent; urban pollution accumulates; financial mispricing of the hyperinflation period cleared by Dodge stabilization — the residue shifts from monetary to environmental.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ New Civil Code (1948) abolishes the legal ie (household) system; equal inheritance mandated; women gain legal equality in marriage and divorce; the patriarchal legal frame dismantled though practice evolves more slowly.
+
+__Association & Mutual Aid:__ Neighborhood associations (tonarigumi) dissolved as instruments of wartime control; new voluntary associations emerge; labor unions legalized and grow rapidly (6.7 million members by 1949); civic society rebuilds on a reformed foundation.
+
+__Leisure, Play & Sociability:__ Entertainment industry revives; cinema flourishes (Kurosawa, Ozu); baseball resumes (professional league 1950); radio entertainment expands; collective leisure returns in depoliticized forms.
+
+__Stratification, Status & Group Structure:__ Occupation reforms attack prewar elites: aristocracy abolished (1947), zaibatsu dissolved, landlords dispossessed; military caste eliminated; a more fluid class structure emerges, though bureaucratic and corporate elites reconstitute influence.
+
+__Administrative Capacity & Institutional Integrity:__ SCAP rules through existing bureaucracy, which remains competent; new Constitution (1947) establishes parliamentary democracy; administrative capacity intact but reoriented; local government strengthened; corruption moderate.
+
+__Coercive Apparatus & Means of Force:__ Imperial Army and Navy dissolved; war-renouncing Constitution Article 9 adopted; police decentralized; no domestic military force until National Police Reserve (1950) → Self-Defense Forces (1954), established under American pressure during Korean War; coercive capacity minimal and externally guaranteed.
+
+__Discharge, Disorder & Decay:__ Postwar disorder (crime, black markets, vagrancy) peaks 1945–1948 then declines; occupation authority provides external order; democratic institutions absorb discontent through electoral politics; the residue of structural disorder is cleared by recovery and reform.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Defeat trauma, humiliation, and disorientation 1945–1947; gradual recovery of confidence with economic stabilization; Korean War boom shifts mood toward pragmatic reconstruction; trust in institutions rebuilds slowly; the radius of interpersonal trust widened by shared hardship and recovery.
+
+__Leadership & Personal Authority:__ Emperor Hirohito retained but desacralized (renounces divinity, January 1, 1946); General Douglas MacArthur exercises supreme authority 1945–1951; Prime Minister Yoshida Shigeru (1948–1954) shapes postwar political consensus; personal authority shifts from military to civilian and external to domestic.
+
+__Legitimacy as Lived Allegiance:__ Occupation legitimacy rests on force and aid; new Constitution provides democratic legitimacy after 1947; imperial institution retained as symbol, allegiance depoliticized; LDP hegemony (from 1955) consolidates a new legitimacy based on growth and stability.
+
+__Political Will & Collective Resolve:__ Initial passivity under occupation; reverse course (1947–1950) and Korean War galvanize anti-communist consensus; peace treaty (San Francisco, 1951) and sovereignty restoration (1952) mobilize national will for recovery; collective resolve directed toward economic reconstruction rather than political contestation.
+
+__External Relations & Posture:__ Occupied status 1945–1952; San Francisco Treaty restores sovereignty but security treaty binds Japan to American alliance; Cold War alignment shapes external posture; relations with Asian neighbors (China, Korea) remain fraught; posture is subordinate alliance within American hegemony.
+
+__Disaffection, Apathy & Spent Will:__ Defeat exhaustion persists through 1947; political apathy among war-weary populace; radical left (Communist Party) and nationalist right represent disaffection but remain marginal; the spent will of 1945 refills through economic recovery — disaffection residue is cleared, not accreted.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Japanese literacy remains near-universal; standard Japanese consolidated by broadcast; communication accessibility widens as receivers multiply and programming diversifies.
+
+__Channels & Transmission Velocity:__ Radio remains dominant mass channel; NHK restructured as independent public broadcaster (Broadcast Law, 1950) funded by license fee; commercial radio authorized (1951), first commercial station (CBC) 1951; NHK television begins (February 1953), commercial television (NTV) follows (August 1953); the dual system is established.
+
+__Record, Storage & Persistence:__ Archives survive occupation intact; NHK recordings preserved; press freedom restored; the information record is no longer curated by wartime censorship — open press and broadcast create a plural record.
+
+__Framing, Censorship & Discourse Norms:__ Occupation censorship (Civil Censorship Detachment) suppresses criticism of SCAP, atomic-bomb imagery, and war-crimes discussion 1945–1949; censorship lifted 1949; postwar press norms emphasize objectivity; discourse space widens dramatically relative to wartime.
+
+__Reception, Attention & Amplification:__ Radio household penetration high and rising; television adoption begins slowly (866,000 sets by 1955); Crown Prince wedding (1959) and Tokyo Olympics (1964) will catalyze television adoption; audience attention fragmenting with commercial competition.
+
+__Signal Integrity & Noise Load:__ Press clubs (kisha clubs) institutionalize access journalism, limiting investigative depth; signal integrity higher than wartime (no systematic falsification) but access system creates blind spots; noise low as information scarcity of wartime gives way to commercial plurality.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Wartime moral frame discredited; new Constitution (1947) enshrines human rights, popular sovereignty, and pacifism; sense of justice reorients toward individual rights and rule of law, though Confucian hierarchy persists in practice.
+
+__Law, Codification & Regulatory Evolution:__ Meiji-era codes revised or replaced; new Constitution (1947), new Civil Code (1948), Broadcast Law (1950) establish the postwar legal frame; peace-preservation apparatus dismantled; regulatory evolution rapid and externally driven.
+
+__Adjudication, Liability & Sanction:__ Tokyo War Crimes Tribunal (IMTFE, 1946–1948) delivers victor's justice; domestic courts restored to independence; judicial review established; adjudication capacity adequate; sanctions rationalized.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights (speech, assembly, religion, gender equality) newly guaranteed; compliance burden reduced as wartime regulations repealed; individual autonomy expanded; the rights frame is revolutionary relative to prewar.
+
+__Impunity & Unredressed Wrong:__ War crimes trials (Class A, B, C) address some atrocities; Emperor Hirohito not prosecuted (American policy); many perpetrators escape justice; Korean forced laborers and comfort women unredressed; hibakusha receive medical care but no foreign redress; justice deficit persists as moral residue.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Academic freedom restored; Marxist and liberal scholarship revives; American social science methods imported; physics, engineering, and medicine advance; ideological constraint lifted; free inquiry resumes.
+
+__Applied Knowledge & Technical Method:__ Industrial technique rebuilds on prewar foundation plus American technology transfer; quality control methods (Deming) introduced; applied method improves, laying groundwork for manufacturing excellence.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education system reformed: 6-3-3 system (elementary-junior high-high school) plus four-year universities; democratic civics added; textbook screening debates begin; literacy and numeracy remain high; technical skill distributes broadly through expanded education.
+
+__Obsolescence & Knowledge Decay:__ Ultranationalist ideology and State Shintō doctrine become obsolete; wartime propaganda methods abandoned; some prewar social-science traditions lost; overall, knowledge stock expands and ideological residue is shed.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ War defeat trauma reconfigures identity; the imperial myth desacralized but not abolished; pacifism emerges as new foundational value; victim consciousness (atomic bombings) and perpetrator responsibility (war crimes) coexist in tension; identity in flux.
+
+__Legitimating Narrative & Ideology:__ Ultranationalist narrative discredited; democracy and peace as new legitimating ideology; American-occupation narrative of liberation and reform; counter-narratives (left: imperialism critique; right: occupied-nation resentment) marginal but present.
+
+__Artistic Expression & Material Culture:__ Cultural flowering: cinema golden age (Kurosawa's Rashomon, 1950; Ozu's Tokyo Story, 1953); literature (Kawabata, Mishima); graphic arts; material culture austere then recovering — Western styles (clothing, architecture) increasingly prevalent; American cultural influence pervasive.
+
+__Form Exhaustion & Meaning Decay:__ Wartime propaganda idiom exhausted and abandoned; prewar aesthetic forms (imperial iconography) emptied of sacred meaning or repurposed; new forms (democratic realism, American-influenced modernism) fill the vacuum; cultural residue cleared by deliberate repudiation and stylistic innovation.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Emperor's divinity renounced; State Shintō disestablished; existential outlook shifts from fatalistic imperial piety to pragmatic secular reconstruction; religious pluralism restored; nihilism and meaning-crisis among intellectuals (Dazai Osamu's No Longer Human, 1948).
+
+__Ritual, Devotion & Sacred Practice:__ State Shintō rites cease; shrine attendance voluntary; Buddhist and Christian observance continue without state interference; secular calendar replaces imperial ritual calendar; everyday devotional practice privatized.
+
+__Religious Institutions & Doctrinal Authority:__ Shrine Shintō separated from state; religious juridical persons law (1951) regulates all religions equally; Buddhist sects reorganize; new religions (Sōka Gakkai, Risshō Kōseikai) expand rapidly, filling the spiritual vacuum left by disestablished State Shintō.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ State Shintō displaced as civic religion; Christianity grows modestly under American influence; new religions syncretic (Buddhist-Shintō-folk elements); spiritual marketplace pluralizes.
+
+__Disenchantment & Sacred Discharge:__ The disenchantment of 1945 — the sacred emperor revealed as mortal, the national mission as catastrophe — remains as existential residue for the war generation; younger cohorts grow up in a secular frame where the question is less acute; the spiritual need re-anchors in privatized religion, new religions, or secular substitutes (work, consumption, nation-as-economic-project), but a standing disenchantment persists among those who lived through the rupture.

@@ -1,69 +1,140 @@
 # __900 BCE – 200 BCE__ — The Chavín Phenomenon
-__Summary:__ A seven-century trend in which the ceremonial center of Chavín de Huántar, positioned at the junction of eastern and western Andean drainages, becomes the hub of a pan-regional religious network spreading Staff God iconography, metallurgical and textile techniques, and pilgrimage traffic from Ecuador to the south coast; spatial bounds cover highland valleys and coastal plains from roughly 3°S to 16°S; the binding constraint is the ideological magnetism of the oracle-pilgrimage complex, which channels surplus, craft, and long-distance exchange toward a shared cosmological grammar without imposing direct political rule; absorptive capacity for regional diversity remains high so long as the cult retains prestige; the direction of change runs from localized Initial Period temple traditions toward a broadly shared stylistic and ritual horizon, then toward fragmentation as the center collapses by 200 BCE.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The Mosna Valley sits at 3180 m where eastern and western cordilleras converge, controlling cross-montane traffic; movement between coast, sierra, and eastern slopes funnels through a limited number of passes, giving the center locational advantage; the wider sphere extends from tropical Ecuadorian coast to hyper-arid southern Peru, imposing high transit friction that long-distance pilgrimage and shell exchange must overcome.<br><br>
-__Climate Regime & Volatility:__ Highland climate is seasonally wet-dry with moderate interannual variability; coastal desert depends on irrigation and fog moisture; no major secular shift documented within the window, though El Niño events periodically disrupt coastal agriculture; margins remain adequate for surplus production in most years.<br><br>
-__Hazard Regime & Exposure:__ Seismic activity endemic along Andean arc; evidence of earthquake damage at Chavín de Huántar during the window; landslides and flooding in highland valleys pose localized risk; coastal populations exposed to El Niño flooding and drought; system absorbs shocks without collapse until final-phase destruction.<br><br>
-__Resource & Energy Endowment:__ Highland zones supply camelid pasture, tuber soils, and lithic sources; coast provides marine protein and shell (Strombus, Spondylus); tropical slopes yield feathers, coca, hallucinogens; mineral deposits (gold, copper, cinnabar) distributed across cordillera; drawdown minimal relative to stock.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density and dispersed settlement keep organic and craft waste well within absorptive limits; landscape effectively undegraded; slack ample.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic intestinal parasites and respiratory infections present; no epidemic disease documented; mortality baseline moderate by pre-contact Andean standards; trend stable.<br><br>
-__Nutrition & Physiological Vitality:__ Mixed agropastoral and marine diets provide adequate protein and calories across zones; skeletal evidence shows moderate stature and generally robust health; localized nutritional stress possible during El Niño failures but not systemic.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Kinship-regulated mating within ayllu-like kin groups presumed; fertility adequate for slow population growth; no evidence of major selective pressures within window.<br><br>
-__Demographic Renewal & Density:__ Population expanding slowly across highland and coastal valleys; density low to moderate; carrying ceiling not approached; replacement ratios positive.<br><br>
-__Attrition & Dependency Overhang:__ Dependent populations absorbed within extended kin networks; no evidence of dependency crisis; load within capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Highland tuber-camelid-quinoa complex and coastal marine-maize-cotton regime provide secure provisioning floors in distinct ecological tiers; verticality strategies buffer localized failure; margin adequate.<br><br>
-__Energy Capture & Conversion:__ Human and camelid muscle remain sole power sources; efficiency gains from improved textile and metallurgical techniques marginal; per-capita work ceiling low but sufficient for monumental construction through labor mobilization.<br><br>
-__Labor Organization & Coercion:__ Corvée-like labor mobilization for temple construction and maintenance, likely organized through ritual obligation rather than coercive extraction; craft specialists (metallurgy, textiles, lithics) attached to ceremonial centers; reciprocity norms prevail.<br><br>
-__Production & Surplus Capacity:__ Agricultural and pastoral surplus supports non-food specialists, monument building, and long-distance exchange; output rising with irrigation expansion and camelid herding intensification; surplus adequate for cult requirements.<br><br>
-__Storage, Reserves & Buffering:__ Granary and storehouse evidence sparse but tuber storage (freeze-drying, pit storage) and camelid herds provide buffering; reserves sufficient for interannual smoothing.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance exchange networks move Strombus trumpets and Spondylus shell from Ecuadorian waters, obsidian from highland sources, cinnabar from Huancavelica, and tropical forest products across the sphere; camelid caravans and human porters traverse high passes; Chavín sits at network hub.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary medium; value stored in livestock, prestige goods, and reciprocity obligations; deferred exchange operates through ritual gift cycles and pilgrimage offerings; capital formation negligible.<br><br>
-__Surplus Extraction & Redistribution:__ Surplus channeled to ceremonial center through pilgrimage offerings and tribute-like contributions; redistribution occurs via feasting, ritual, and prestige-good circulation; load on productive base moderate and willingly borne while cult prestige holds.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentration evident in elite burials with gold, shell, and textiles; craft goods mark status differentiation; widening inequality within window as cult hierarchy consolidates; asset defense through sacral sanction.<br><br>
-__Byproducts & Waste Routing:__ Craft and subsistence waste dispersed locally; volume trivial relative to absorptive capacity; no accumulation pressure.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Kin-based reciprocity networks (ayllu precursors) sustain interpersonal trust; pilgrimage gatherings extend trust radius beyond local community; solidarity rising during cult expansion, contracting with fragmentation.<br><br>
-__Stratification, Status & Group Identity:__ Status hierarchy crystallizing around priestly elites controlling oracle and ritual knowledge; ethnic and regional identities subordinate to shared cult participation during Early Horizon; boundaries permeable through pilgrimage.<br><br>
-__Kinship, Family & Inheritance:__ Extended patrilineal or bilateral kin groups regulate marriage and land access; inheritance rules transmit herds, land rights, and craft knowledge within lineage; structure stable.<br><br>
-__Civic Association & Self-Organization:__ Local temple and ayllu structures coordinate collective labor and ritual below the pan-regional cult level; associational density moderate and stable.<br><br>
-__Leisure, Play & Sociability:__ Pilgrimage festivals, feasting, and ritual gatherings provide periodic sociability; hallucinogen-assisted ceremonies documented iconographically; festive life tied to cult calendar.<br><br>
-__Grievance Channels & Social Discharge:__ Ritual participation, pilgrimage mobility, and reciprocity obligations channel social friction; unabsorbed grievance low during cult florescence, rising with collapse.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ No centralized state; authority vested in priestly elites controlling Chavín oracle and regional temples; power dispersed among semi-autonomous polities linked by ideological allegiance rather than political subordination; structure polycentric.<br><br>
-__Succession & Power Transfer:__ Priestly succession mechanisms unattested but presumably lineage-based or initiatory; no evidence of violent succession struggles at Chavín itself; transfer routinized within cult hierarchy.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy derived from control of sacred knowledge, oracle pronouncements, and transformative ritual; Staff God iconography and jaguar-serpent-raptor imagery encode authority claims; narrative widely accepted during florescence.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Administrative capacity limited to ritual coordination and exchange management; no state bureaucracy; records absent; integrity maintained through sacral sanction rather than coercive enforcement.<br><br>
-__Political Participation & Mobilization:__ Participation channeled through pilgrimage and ritual obligation; elite mobilization of labor voluntary or semi-obligatory; dissent expressed through withdrawal from network rather than organized opposition.<br><br>
-__Geopolitical Position & External Relations:__ Chavín network exercises ideological hegemony without military conquest; relations with regional polities mediated by shared cult participation; no territorial boundaries enforced; sphere contracts as influence wanes.<br><br>
-__Coercive Apparatus & Means of Force:__ No standing military apparatus documented; weaponry (mace heads, spear points) present but not institutionalized for warfare; violence ritual rather than political; force capacity minimal.<br><br>
-__Internal Order & Threat Environment:__ Low-level raiding and intergroup violence presumed but not systemic; internal order maintained through sacral sanction; disorder rising with collapse and regional fragmentation.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels via foot messenger and caravan along exchange routes; pilgrimage gatherings accelerate transmission; velocity slow relative to distance but adequate for cult coordination; reach extends across sphere.<br><br>
-__Record, Storage & Persistence:__ No writing system; all institutional memory oral, lodged in priestly specialists and ritual performers; iconographic programs encode cosmological knowledge in durable stone and textile but require oral interpretation; persistence dependent on unbroken transmission chains; vulnerable to knowledge loss at collapse.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse framed by cosmological orthodoxy; esoteric knowledge restricted to initiated priests; public communication via iconography and ritual drama; taboos on profaning sacred content; band stable within florescence.<br><br>
-__Reception, Attention & Amplification:__ Pilgrimage festivals and ritual spectacles command mass attention; amplification through repetition of iconographic motifs across media (stone, ceramic, textile, metal); reception wide during florescence, fragmenting after collapse.<br><br>
-__Signal Integrity & Noise Load:__ Iconographic standardization maintains signal integrity across space; local variants introduce noise at margins; verification capacity adequate while center retains authority; degradation accelerates with fragmentation.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice rooted in reciprocity, ritual propriety, and cosmological balance; transgression framed as offense against sacred order; moral consensus broad within cult sphere.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; norms transmitted orally through ritual instruction; taboo and custom regulate conduct; evolution slow.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by kin elders and local authorities; priestly arbitration possible at ceremonial centers; enforcement through shaming, ritual sanction, and reciprocity withdrawal; throughput adequate for low-density society.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights embedded in kin and cult membership; protection contingent on group standing; compliance burden moderate, tied to ritual obligations.<br><br>
-__Impunity & Unredressed Wrong:__ Elite impunity presumed but unattested; unredressed wrong absorbed within kin-level vengeance or reciprocity withdrawal; gap modest during florescence.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Explanatory paradigm cosmological: jaguar transformation, celestial-chthonic mediation, and spirit-world contact frame understanding of nature and society; empirical inquiry embedded in craft and agricultural practice rather than abstract theory.<br><br>
-__Applied Knowledge & Technical Method:__ Metallurgical techniques (gold-silver alloys, repoussé, soldering) advancing; textile innovations (tapestry, embroidery) spreading; agricultural and hydraulic engineering improving irrigation; methods transmitted through apprenticeship.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Esoteric knowledge concentrated among priestly initiates; craft skills distributed more broadly through guild-like apprenticeship; general population holds subsistence and ritual knowledge orally; stock expanding during florescence.<br><br>
-__Obsolescence & Knowledge Decay:__ Older regional traditions partially subsumed into Chavín orthodoxy; knowledge loss at collapse as transmission chains break; decay accelerating after 200 BCE.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Staff God complex provides shared mythic framework; origin narratives local but converging on cult cosmology; identity formed through pilgrimage participation and iconographic recognition; memory oral and ritual-bound.<br><br>
-__Artistic Expression & Material Culture:__ Distinctive style: fanged deities, serpent hair, kenning-like visual substitutions (eye = mouth, limb = serpent); executed in stone sculpture, ceramics, textiles, goldwork; aesthetic vocabulary standardized across sphere.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood confident and expansive during florescence; ritual ecstasy (hallucinogen-assisted transformation) central to cult experience; anxiety and fragmentation rising with collapse.<br><br>
-__Form Exhaustion & Meaning Decay:__ Chavín iconography vital and generative during Early Horizon; exhaustion and hollowing evident as regional variants diverge and center loses authority; forms repurposed by successor traditions.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Cosmos structured around transformative mediation between celestial, terrestrial, and chthonic realms; shamanic journeying and jaguar transformation central; outlook participatory and ritually active; fatalism low.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Pilgrimage to Chavín de Huántar; hallucinogen ingestion (San Pedro cactus, vilca) inducing visionary states; offerings of Spondylus, Strombus, textiles, and precious metals; ritual calendar tied to agricultural and celestial cycles.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Priestly hierarchy controls oracle, ritual knowledge, and temple access; doctrinal authority centralized at Chavín but exercised through network of affiliated temples; orthodoxy enforced through initiation and esoteric restriction.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Chavín cult diffuses from highland center to coast and northern/southern peripheries, absorbing and transforming local traditions; syncretism high; displacement of earlier cults partial; reach contracting after 200 BCE.<br><br>
-__Disenchantment & Sacred Discharge:__ No disenchantment within florescence; sacred order fully operative; discharge begins with collapse as cult loses efficacy and regional traditions reassert autonomy.
+
+__Summary:__ A seven-century religious expansion radiating from the pilgrimage center at Chavín de Huántar unifies diverse Peruvian communities under a shared iconographic code and ritual practice, constituting the first "horizon" of Andean cultural integration; the binding constraint is that all doctrine, initiatory knowledge, and ceremonial coordination depend on oral transmission reinforced by hallucinogen-mediated experience and portable iconography — spoken, sung, and chanted or it ceases to bind.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Chavín de Huántar sits at 3,180 m in the Mosna River valley, at the junction of routes connecting the coast, the highlands, and the eastern montaña — a convergence point where vertical ecological zones meet and transit becomes negotiable in every direction; the site's centrality to trade and pilgrimage flows depends on this nodal geography rather than on political control of territory.
+
+__Climate Regime & Volatility:__ The Late Holocene climate brings increased ENSO variability, with periodic droughts and floods disrupting coastal and highland agriculture; the ritual system centered at Chavín offers cosmological explanation for these perturbations and draws pilgrims seeking intercession, channeling climate anxiety into religious participation.
+
+__Hazard Regime & Exposure:__ Seismic activity along the Andean cordillera periodically damages structures; Chavín's elaborate stone architecture incorporates drainage systems that also serve acoustic functions, but earthquakes leave evidence of rebuilding phases across the site's occupation.
+
+__Resource & Energy Endowment:__ The site commands access to tropical forest products from the east (hallucinogenic plants, feathers, medicinal herbs), highland camelid products (wool, dried meat), and coastal marine resources (Spondylus shell, dried fish); this multi-zonal access underwrites both ritual supplies and exchange wealth.
+
+__Waste Absorption & Sink Capacity:__ Waste from pilgrimage gatherings — food refuse, ceramic fragments, offering debris — accumulates in midden deposits around the ceremonial complex; the Mosna River carries organic waste downstream, and the highland setting disperses smoke and other ritual byproducts with little saturation pressure.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Highland populations carry lower pathogen loads than coastal dwellers, though pilgrimage gatherings concentrate people from diverse environments; gastrointestinal ailments and respiratory infections likely spike during major festivals but do not reach epidemic scale in the archaeological record.
+
+__Nutrition & Physiological Vitality:__ Skeletal evidence from the region shows adequate nutrition supported by mixed agropastoral subsistence; maize consumption increases during this period, and llama protein supplements highland diets; pilgrims bring food offerings that redistribute calories through the ritual economy.
+
+__Care, Healing & Recovery Capacity:__ Healing practice intertwines with religious ritual; the priests who administer San Pedro cactus (Echinopsis pachanoi) and other psychoactive substances likely also serve as curers, interpreting illness through the cosmological framework the center propagates; folk remedies for wounds and common ailments persist at the household level.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage patterns follow local community norms rather than center-directed rules; pilgrimage festivals may facilitate mate-finding across communities, but no evidence indicates Chavín priests regulate reproduction or kinship beyond their own lineages.
+
+__Demographic Renewal & Density:__ Population grows across the Peruvian highlands and coast during this period; the Chavín phenomenon correlates with but does not cause this expansion, which rests on agricultural intensification; the site itself supports a modest resident population supplemented by periodic pilgrim influxes.
+
+__Attrition & Dependency Overhang:__ The dependent load — children, elderly, infirm — remains distributed across constituent communities rather than concentrated at the center; Chavín does not accumulate a permanent dependent population, and local kinship networks absorb the life-cycle burden.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Local subsistence combines irrigation agriculture in valley bottoms with camelid pastoralism on higher slopes; the center itself depends on offerings and tribute-in-kind rather than direct food production; pilgrims provision themselves for journeys, creating demand along transit routes.
+
+__Energy Capture & Conversion:__ Human and llama muscle power the economy; llama caravans carry goods across vertical zones, enabling the long-distance exchange that brings Spondylus from Ecuador, obsidian from southern highlands, and tropical products from the montaña; the energy ceiling is that of a pack-animal economy without wheeled transport.
+
+__Labor Organization & Coercion:__ Construction of the monumental complex requires organized labor — likely recruited through ritual obligation rather than coercive corvée; communities send work parties as pilgrimage duty; specialist stoneworkers and priests form a differentiated elite sustained by offerings rather than direct surplus extraction.
+
+__Production & Surplus Capacity:__ Craft production — stone carving, textile weaving, ceramic manufacture, metallurgy (gold, copper) — reaches new levels of specialization; Chavín-style objects circulate as prestige goods, and the center's workshops produce iconic items for distribution; surplus flows through religious channels rather than market exchange.
+
+__Storage, Reserves & Buffering:__ The temple complex includes storage galleries; accumulated offerings of food, textiles, and valuables buffer the resident population and support pilgrim feeding; communities maintain their own granaries, and the center's reserves represent ritual wealth rather than fiscal reserves.
+
+__Exchange, Trade & Logistics:__ Long-distance exchange networks predate Chavín but intensify during this period; Spondylus shell from Ecuadorian waters, obsidian from Quispisisa, cinnabar from Huancavelica, and tropical feathers from the Amazon converge at the center; Chavín-style artifacts travel outward along the same routes, spreading the iconographic code.
+
+__Value Storage, Credit & Deferred Exchange:__ No monetary medium exists; Spondylus shell and textiles serve as stores of value and ritual currency; reciprocal obligations — pilgrimage duty, offering cycles, gift exchange — defer value across time; prestige accrues to generous donors, incentivizing conspicuous offering.
+
+__Surplus Extraction & Redistribution:__ The center extracts surplus through voluntary offering, obligatory pilgrimage contributions, and the social pressure of ritual participation; redistribution occurs through feasting, gift-giving, and the spread of sanctified objects; no tax apparatus exists, only ritual obligation.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates among Chavín priests and local elites who sponsor pilgrimages; exotic materials mark status; the center's galleries may secure sacred objects, but widespread fortification is absent — defense rests on the site's sacred inviolability rather than military capacity.
+
+__Byproducts & Waste Routing:__ Craft production generates stone chips, ceramic wasters, and metallurgical slag; these accumulate in workshop areas and are not systematically routed; organic waste from feasting and pilgrimage disperses through normal decay processes; no evidence of environmental degradation at the site scale.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Local kinship systems — bilateral or patrilineal depending on community — persist unchanged; the Chavín phenomenon overlays but does not restructure family organization; priestly roles may pass within elite lineages at the center, creating incipient hereditary specialization.
+
+__Association & Mutual Aid:__ Pilgrimage creates trans-community bonds; individuals who undergo initiation together form lasting associations; mutual aid networks extend along trade routes and pilgrimage paths, thickening the social fabric beyond immediate kin.
+
+__Leisure, Play & Sociability:__ Festival gatherings at Chavín combine religious observance with sociability — feasting, music, dance, and the shared experience of hallucinogenic ritual; these events mark the ceremonial calendar and reinforce collective identity among dispersed communities.
+
+__Stratification, Status & Group Structure:__ A priest-specialist stratum emerges, distinguished by esoteric knowledge, access to inner galleries, and control of psychoactive ritual; local elites sponsor pilgrimage and display Chavín-style prestige goods; commoners participate as pilgrims and laborers but lack initiatory access.
+
+__Administrative Capacity & Institutional Integrity:__ No bureaucracy, no writing, no formal state apparatus; coordination occurs through oral tradition, ritual calendar, and the personal authority of priests; the center's reach depends on ideological prestige rather than administrative capacity; institutional memory resides in trained specialists.
+
+__Coercive Apparatus & Means of Force:__ No standing military force; mace heads and trophy heads in iconography suggest warfare exists at the community level, but Chavín itself does not project coercive power; the center's influence rests on religious authority, not armed enforcement.
+
+__Discharge, Disorder & Decay:__ When religious prestige wanes — after 200 BCE — the pilgrimage network attenuates; local traditions reassert themselves; the center's galleries are partially blocked, and the site ceases to function as a unifying node; the phenomenon does not collapse violently but fades as constituent communities redirect their allegiance.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Awe and dread characterize the pilgrimage experience; the architecture — narrow galleries, sudden light changes, acoustic effects that make stone "roar" — induces disorientation and receptivity; hallucinogenic ritual intensifies emotional states, binding initiates to the cult through transformative experience.
+
+__Leadership & Personal Authority:__ Priests at Chavín de Huántar command authority through esoteric knowledge, ritual performance, and control of access to the Lanzón and inner sanctuaries; their authority is charismatic and initiatory rather than hereditary or bureaucratic; local leaders affiliate through pilgrimage and display of Chavín symbols.
+
+__Legitimacy as Lived Allegiance:__ Allegiance flows voluntarily from communities who accept the Chavín cosmology; no coercive enforcement exists; when belief wanes, communities simply cease pilgrimage; legitimacy is constantly renewed through successful ritual — agricultural fertility, healing, favorable weather attributed to the cult's efficacy.
+
+__Political Will & Collective Resolve:__ The center does not exercise political will in a governmental sense; collective resolve manifests as shared participation in pilgrimage and offering cycles; the will to build and maintain the complex reflects religious commitment, not state-directed mobilization.
+
+__External Relations & Posture:__ Chavín relates to distant communities as a religious center to affiliated populations, not as a state to tributaries; there is no expansion by conquest, only by ideological attraction; relations with non-participating groups are not hostile — the center simply does not reach them.
+
+__Disaffection, Apathy & Spent Will:__ The decline after 200 BCE reflects spent enthusiasm; the iconographic code loses freshness, competing local traditions reassert vitality, and the pilgrimage network thins; no violent disaffection, only gradual disengagement as the religious charge dissipates.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Oral language — Quechua precursors or related highland tongues — serves all communication; no writing exists; the shared communicative code includes the visual vocabulary of Chavín iconography, legible to initiates across linguistic boundaries but requiring oral interpretation.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of llama caravan and human foot; pilgrims carry news and doctrine; the annual ritual calendar synchronizes distant communities; transmission is slow but reliable across the pilgrimage network.
+
+__Record, Storage & Persistence:__ Doctrine, genealogy, and ritual procedure reside in trained memory; stone iconography encodes cosmological principles but cannot be "read" without oral instruction; persistence depends on unbroken chains of priestly transmission — if the lineage dies, the meaning is lost.
+
+__Framing, Censorship & Discourse Norms:__ Esoteric knowledge is restricted to initiates; outer galleries display public imagery while inner sanctuaries reserve deeper meanings for the priesthood; this graduated access constitutes a form of censorship, protecting sacred knowledge from the uninitiated.
+
+__Reception, Attention & Amplification:__ The architecture itself amplifies reception — acoustics that make chanting reverberate, water channels that roar, sudden transitions from dark to light — these sensory effects focus attention and imprint doctrine during hallucinogenic states of heightened receptivity.
+
+__Signal Integrity & Noise Load:__ The iconographic code maintains consistency across hundreds of kilometers and seven centuries — a remarkable signal integrity for an oral tradition; occasional local variations (Cupisnique, Janabarriu) represent dialect rather than corruption; when consistency breaks down after 200 BCE, the system fragments into regional styles.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The Chavín cosmology posits a universe of transformative power — human-animal hybrids, shamanic flight, predator-prey relationships — that frames moral order in terms of proper ritual observance rather than codified law; justice means maintaining cosmic balance through correct practice.
+
+__Law, Codification & Regulatory Evolution:__ No written law; behavioral norms transmitted orally within communities; taboos surrounding sacred spaces, ritual purity requirements, and offering obligations constitute the regulatory framework; violations bring supernatural sanction rather than codified punishment.
+
+__Adjudication, Liability & Sanction:__ Disputes are resolved through community consensus, elder mediation, or priestly divination; liability for ritual transgression falls on individuals or lineages; sanction ranges from exclusion from ceremonies to interpretation of misfortune as divine punishment.
+
+__Rights, Protections & Compliance Burden:__ Individual rights are embedded in kinship and community membership; the center imposes no burdens beyond voluntary pilgrimage and offering; compliance is a matter of social pressure and religious conviction, not legal enforcement.
+
+__Impunity & Unredressed Wrong:__ Wrongs within communities may go unredressed if perpetrators have sufficient power; the religious framework interprets persistent wrongdoing as inviting cosmic retribution, but no human enforcement mechanism guarantees justice; impunity for the powerful exists as in any pre-state society.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The reigning paradigm is shamanic-transformational: reality consists of multiple interpenetrating planes accessible through altered states; the priest-shaman mediates between worlds; natural phenomena — weather, fertility, disease — reflect cosmic forces manipulable through ritual; empirical observation exists but is subordinated to cosmological interpretation.
+
+__Applied Knowledge & Technical Method:__ Practical knowledge includes stoneworking techniques (precision carving, polish, joinery), metallurgy (gold hammering, copper smelting), textile production, and architecture (drainage engineering, acoustic design); these methods are transmitted through apprenticeship, not written manuals.
+
+__Education, Knowledge Stock & Skill Distribution:__ Priestly training concentrates esoteric knowledge; craft skills distribute through workshop lineages; common agricultural and pastoral knowledge passes through household instruction; literacy does not exist, so the knowledge stock is entirely embodied in living practitioners.
+
+__Obsolescence & Knowledge Decay:__ When the pilgrimage network declines, initiatory chains break; esoteric knowledge specific to Chavín ritual becomes inaccessible; the iconographic code loses legibility; later Andean cultures inherit some techniques and symbols but not the full doctrinal system — partial loss through transmission failure.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The Chavín mythos centers on transformation — humans becoming jaguars, raptors, serpents; the Staff God or principal deity integrates these animal powers; origin narratives and ancestral memory are local, but participation in the Chavín cult overlays a shared trans-community identity as initiates of the same mysteries.
+
+__Legitimating Narrative & Ideology:__ The priests' authority rests on their role as intermediaries with cosmic powers; the narrative justifies hierarchy through access to transformative knowledge; those who have undergone initiation possess insight unavailable to the uninitiated, legitimating their elevated status.
+
+__Artistic Expression & Material Culture:__ The Chavín style is unmistakable — curvilinear designs, interlocking fangs, snakes as hair, composite beings with feline, avian, and serpentine attributes rendered in low-relief stone carving, hammered gold ornaments, incised ceramics, and woven textiles; the visual vocabulary constitutes a pan-regional aesthetic code.
+
+__Form Exhaustion & Meaning Decay:__ By 200 BCE the style becomes formulaic; local variations (Cupisnique on the coast, regional highland variants) dilute coherence; the iconography persists in descendant traditions (Paracas, early Nazca) but detached from its original doctrinal context — form outlives meaning, becoming decorative rather than initiatory.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The cosmos comprises visible and invisible realms connected through axis mundi points — the temple itself, sacred mountains, water sources; human destiny involves negotiating relationships with powerful beings (animal spirits, ancestors, nature forces) through ritual mediation; existence is participatory and dangerous, requiring constant ceremonial maintenance.
+
+__Ritual, Devotion & Sacred Practice:__ Central practice involves hallucinogenic ingestion — San Pedro cactus (mescaline), possibly Anadenanthera snuff (DMT compounds) — administered in controlled settings within the temple galleries; fasting, pilgrimage, offering, and animal sacrifice accompany the visionary experience; devotion is enacted through bodily ordeal and sensory transformation.
+
+__Religious Institutions & Doctrinal Authority:__ The priesthood at Chavín de Huántar holds doctrinal authority for the network; local elites affiliate through initiation but do not challenge central doctrine; no written orthodoxy exists — authority resides in the persons of trained priests who can demonstrate access to the sacred through ritual performance.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The Chavín phenomenon represents diffusion without displacement — local beliefs persist beneath the overlay; communities adopt Chavín iconography and ritual elements while retaining ancestral practices; this syncretism allows rapid spread but also permits easy disengagement when the center's prestige fades.
+
+__Disenchantment & Sacred Discharge:__ The waning of Chavín after 200 BCE does not produce secularization but redirection; communities transfer sacred attention to local cults (Paracas, early Nazca, Recuay, early Lima); the void left by Chavín fills immediately with regional traditions that inherit techniques and some symbols while generating fresh cosmological vitality — no standing disenchantment, only reconfiguration.
+

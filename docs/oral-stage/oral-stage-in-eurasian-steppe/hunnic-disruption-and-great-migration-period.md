@@ -1,69 +1,140 @@
 # __200 CE – 600 CE__ — Hunnic Disruption and Great Migration Period
-__Summary:__ A four-century trend of cascading nomadic migrations westward across the Eurasian steppe, triggered by the collapse of the Xiongnu confederacy and culminating in the Hunnic irruption into Europe that destabilizes the Roman frontier and sets off the Great Migration; the binding constraint is the political instability on the eastern steppe that displaces populations westward in a domino sequence, compressing pastoral territories and forcing successive confederations against sedentary powers; the system holds little margin against this chain of displacement pressures, and empires rise and collapse within decades; the overall direction is one of violent flux, with power vacuums rapidly filled and emptied, and no stable hegemony consolidating until the Turkic period that follows.<br><br>
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The steppe corridor from Mongolia to Pannonia remains the primary axis of movement; river crossings (Volga, Don, Dnieper, Danube) present friction points but do not halt mounted migration; the Pannonian Basin provides the western terminus with rich pasture enclosed by the Carpathians.<br><br>
-__Climate Regime & Volatility:__ Continental climate persists with cold winters and warm summers; some evidence of increased aridity in the eastern steppe during the 3rd–4th centuries CE contributing to westward pressure; climate volatility elevated compared to preceding centuries.<br><br>
-__Hazard Regime & Exposure:__ Dzud conditions and drought remain the primary acute hazards; exposure heightened by compressed pastoral territories during westward migrations; margin against shock reduced by population displacement and competition for pasture.<br><br>
-__Resource & Energy Endowment:__ Grassland biomass remains the primary resource; western steppe and Pannonian pastures richer than arid eastern zones, making westward movement economically rational; metal resources accessed through trade and plunder from sedentary regions.<br><br>
-__Waste Absorption & Sink Capacity:__ Pastoral waste disperses across rangelands; concentrated encampments produce modest organic accumulation but no saturation; sink pressure negligible despite increased population movement.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Contact with sedentary populations exposes nomads to epidemic diseases unfamiliar on the steppe; mortality spikes during campaigns against Roman and Persian territories; endemic steppe diseases persist; overall mortality baseline elevated and volatile.<br><br>
-__Nutrition & Physiological Vitality:__ Diet continues meat- and dairy-based; plunder and tribute supplement nutrition; nutritional status adequate during successful raiding periods but vulnerable to supply disruptions during rapid migrations and defeats.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Polygyny prevalent among elite warriors; high fertility maintained; capture of women from sedentary populations supplements population; selective pressure favors mounted warrior characteristics.<br><br>
-__Demographic Renewal & Density:__ Population density fluctuates with migration waves; some groups expand dramatically through incorporation of subject peoples (Huns absorb Germanic warriors); others collapse after military defeats; renewal adequate but unstable.<br><br>
-__Attrition & Dependency Overhang:__ Warfare attrition extremely high given constant campaigning; casualties among young males substantial; dependency load increases during periods of defeat and displacement; system periodically strained but absorbs shocks through incorporation of new populations.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Pastoral herding continues as the subsistence base but supplemented heavily by plunder and tribute extraction from sedentary societies; Hunnic economy depends substantially on raiding Roman and Germanic territories; provisioning secure during successful campaigns, precarious otherwise.<br><br>
-__Energy Capture & Conversion:__ Horse and human muscle remain the motive power sources; dung fuel on the steppe; plundered grain and goods reduce direct production requirements; energy capture adequate for military campaigns but dependent on continued extraction.<br><br>
-__Labor Organization & Coercion:__ Labor organized through kinship and tribal structures; slavery expands through mass capture of sedentary populations; subject peoples (Goths, Gepids) contribute military labor under Hunnic overlordship; coercion levels high.<br><br>
-__Production & Surplus Capacity:__ Direct production limited; surplus derived primarily from tribute and plunder; Hunnic empire extracts massive tribute from Roman Empire (gold payments reaching 2,100 pounds annually by 443 CE); surplus capacity entirely dependent on extraction from sedentary neighbors.<br><br>
-__Storage, Reserves & Buffering:__ Gold and plunder constitute reserves; herds remain the pastoral buffer; buffering against supply shock limited by dependence on continued extraction; no deep reserves to survive prolonged isolation from sedentary tribute sources.<br><br>
-__Exchange, Trade & Logistics:__ Trade networks disrupted by migration and warfare; exchange occurs through tribute circuits and plunder redistribution rather than peaceful commerce; logistics strained by rapid long-distance movements; supply lines to sedentary goods precarious.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Roman gold serves as value store and tribute medium; no native coinage; deferred exchange through tribute obligations and alliance networks; credit absent in formal sense.<br><br>
-__Surplus Extraction & Redistribution:__ Extraction from Roman Empire and subject peoples constitutes the economic foundation; redistribution through warrior retinues and allied tribes maintains loyalty; extraction load crushing on tributaries; system collapses when extraction fails.<br><br>
-__Wealth Distribution & Asset Defense:__ Wealth concentrated in paramount leaders (Attila); warrior elite shares in plunder; common herders less wealthy; defense through overwhelming military force; wealth concentration extreme and unstable.<br><br>
-__Byproducts & Waste Routing:__ Pastoral and military waste dispersed; no routing pressure; devastation of sedentary lands creates externalized destruction but no internal waste accumulation.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust operates within tribal units and warrior bands; incorporation of heterogeneous subject peoples (Germanic, Sarmatian, Slavic) creates complex trust networks; mutual aid constrained by ethnic divisions; trust radius expanding under strong leaders, contracting rapidly after their deaths.<br><br>
-__Stratification, Status & Group Identity:__ Sharp stratification between Hunnic elite and subject peoples; status hierarchy fluid, based on military success; ethnic identities multiple and overlapping (Hunnic core, Germanic allies, Sarmatian remnants); boundaries permeable for successful warriors.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent dominant; polygyny extensive among elites (Attila's multiple wives); inheritance contested among numerous sons; kinship structures stressed by rapid political reconfiguration.<br><br>
-__Civic Association & Self-Organization:__ Tribal councils persist; warrior bands organized around successful leaders; no urban associations; self-organization at kinship and war-band level effective but fragile.<br><br>
-__Leisure, Play & Sociability:__ Feasting, hunting, and martial display constitute leisure; diplomatic feasts recorded by Roman envoys (Priscus); sociability centered on war-band camaraderie.<br><br>
-__Grievance Channels & Social Discharge:__ Blood feud and compensation persist; inter-tribal tensions discharged through warfare against external enemies; internal grievances spike during succession disputes; discharge capacity inadequate for post-Attila fragmentation.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Power concentrated in paramount rulers (Xiongnu chanyu, Rouran khagan, Attila); authority personal and charismatic; subject peoples governed through tribute obligations and hostage-taking; structure fragile and dependent on military success; centralizing under strong leaders, fragmenting rapidly after their deaths.<br><br>
-__Succession & Power Transfer:__ Succession violently contested; Attila's sons war among themselves; Rouran khaganate experiences repeated succession crises; no routinized transfer mechanism; succession the primary flashpoint for systemic collapse.<br><br>
-__Legitimacy & Political Narrative:__ Legitimacy grounded in military conquest and divine mandate (Attila's "Sword of Mars"); genealogical claims to Xiongnu heritage asserted; narrative emphasizes world-conquering destiny; legitimacy evaporates with military defeat.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Minimal bureaucratic apparatus; administration through personal retainers, hostages, and tribute collectors; record-keeping absent (oral only); institutional integrity entirely dependent on the paramount leader; no capacity surviving leadership transition.<br><br>
-__Political Participation & Mobilization:__ Warrior elite participates in councils; mobilization for war rapid and total; dissent expressed through defection (Gepid revolt post-Attila); participation channels narrow.<br><br>
-__Geopolitical Position & External Relations:__ Huns dominate Roman diplomatic attention; tribute negotiations, hostage exchanges, and threatened invasions define the relationship; Rouran compete with Northern Wei and later Göktürks; geopolitical position strong during peak but collapses rapidly; pressure on Roman Empire precipitates Germanic migrations that reshape Western Europe.<br><br>
-__Coercive Apparatus & Means of Force:__ Light cavalry with composite bow dominates; Germanic heavy infantry incorporated as auxiliaries; coercive capacity overwhelming on the battlefield; fortification absent; force concentrated in elite war-bands loyal to the paramount ruler.<br><br>
-__Internal Order & Threat Environment:__ Internal order maintained through fear and redistribution; rebellion constant among subject peoples; disorder spikes after strong leaders die; Gepid and Ostrogothic revolts destroy Hunnic power after 453 CE; threat environment chronically high.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication via mounted messengers; diplomatic envoys (Roman, Persian) provide cross-cultural information channels; transmission velocity high within the pastoral network; information exchange with sedentary powers occurs through embassies and hostages.<br><br>
-__Record, Storage & Persistence:__ Storage entirely oral among steppe peoples; literate neighbors (Roman, Byzantine, Chinese, Persian) record steppe affairs externally; oral tradition preserves genealogies and military exploits but vulnerable to rapid turnover of ruling lineages; persistence across this volatile period uncertain.<br><br>
-__Framing, Censorship & Discourse Norms:__ Elite control over oral narrative; diplomatic discourse governed by ritualized forms (Priscus describes Attila's court protocols); no formal censorship; discourse norms emphasize military prowess and submission to the paramount ruler.<br><br>
-__Reception, Attention & Amplification:__ Roman and Byzantine accounts amplify Hunnic threat for domestic political purposes; steppe oral tradition amplifies successful rulers; attention concentrated on warfare and tribute; amplification tied to military events.<br><br>
-__Signal Integrity & Noise Load:__ Rapid political turnover increases noise; genealogical claims contested and confused; Roman sources often misunderstand steppe politics; signal integrity low; verification difficult across cultural boundaries.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice grounded in kinship honor, blood-price, and submission to the paramount ruler; fairness understood as loyalty rewarded and betrayal punished; hospitality obligations sacred; moral foundations strained by heterogeneous subject populations.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; customary norms transmitted orally; regulation through precedent and paramount ruler's decree; evolution ad hoc and unstable.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated by tribal elders and the paramount ruler; enforcement through kinship obligation, hostage-holding, and exemplary punishment; liability collective within kinship units; third-party adjudication limited to ruler's court.<br><br>
-__Rights, Protections & Compliance Burden:__ Rights defined by status within the power structure; Hunnic elite enjoy autonomy; subject peoples lack protections; compliance burden heavy on tributaries and captives; light on inner-circle warriors.<br><br>
-__Impunity & Unredressed Wrong:__ Impunity for powerful leaders and their retinues; wrongdoing against subject peoples largely unredressed; blood feuds persist across generations; impunity gap wide and destabilizing.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ No formal inquiry tradition; practical knowledge (horse warfare, pastoral techniques) transmitted through apprenticeship; paradigm empirical and tradition-bound; discovery frontier limited to tactical and craft innovations.<br><br>
-__Applied Knowledge & Technical Method:__ Advanced cavalry tactics (feigned retreat, envelopment); composite bow technology maintained; siege techniques adopted from encounters with sedentary powers; techniques highly developed for mobile warfare but limited outside military domain.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education through oral instruction and practical training; knowledge stock focused on warfare and herding; literacy absent among steppe populations; skill distribution narrow and specialized.<br><br>
-__Obsolescence & Knowledge Decay:__ Sarmatian heavy cavalry techniques partly superseded by Hunnic light cavalry tactics; rapid political turnover causes loss of accumulated diplomatic and genealogical knowledge; decay rate elevated during this volatile period.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Origin myths claim descent from Xiongnu or divine ancestors; memory of great conquests (Attila's campaigns) transmitted orally; identity rooted in mounted warrior ethos and conquest destiny; foundational identity reconstructed repeatedly as ruling lineages change.<br><br>
-__Artistic Expression & Material Culture:__ Polychrome jewelry, gold diadems, and distinctive cauldrons mark Hunnic material culture; continuation and adaptation of animal-style traditions; portable wealth emphasized given mobility; aesthetic vocabulary combines steppe traditions with influences from sedentary contacts.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood oscillates between triumphant aggression during successful campaigns and desperation during defeats; behavioral disposition risk-tolerant and violent; confidence high under strong leaders, collapsing rapidly after their deaths.<br><br>
-__Form Exhaustion & Meaning Decay:__ Traditional forms (animal style, warrior burial) continue but under stress from rapid cultural mixing and political instability; some exhaustion evident in the fragmentation period; meaning challenged by incorporation of diverse subject peoples with their own traditions.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic and animistic cosmology; sky god worship attested; fatalism regarding warfare outcomes balanced by belief in divine favor for victorious rulers; existential outlook tied to conquest success.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Horse sacrifice continues; shamanic practices persist; royal burials elaborate but less attested than Scythian period due to rapid turnover; devotional intensity variable by group and period.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No priestly hierarchy; shamans hold spiritual authority; doctrinal authority diffuse; no enforcement of orthodoxy among heterogeneous subject populations.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Contact with Christianity (Gothic Arianism), Manichaeism, and Roman paganism creates syncretic possibilities; some elite conversion to Christianity among successor groups (Gepids, Lombards); steppe core traditions persisting but exposed to new influences; diffusion accelerating.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of disenchantment among steppe populations; sacred practices remain vital where lineages persist; spiritual discharge adequate within surviving communities; some residual disorientation as conquered peoples lose their traditional frameworks.<br><br>
+
+__Summary:__ A discrete macro-event in which the westward eruption of the Huns from the Central Asian steppe triggers a cascade of migrations that reshapes Europe and strains both Roman and Persian frontiers. The binding constraint is orality: Hunnic command, alliance, and law operate entirely through speech; no indigenous Hunnic script exists, and the empire Attila builds vanishes within a generation of his death because nothing is written down—succession, treaty, and organization all ride on personal memory and the living voice.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The steppe corridor from the Altai to the Pannonian plain provides the Hunnic avenue of advance. The Carpathians and Danube pose modest barriers; both are crossed. The Hungarian plain (Puszta) offers winter pasture and becomes the Hunnic center. River valleys (Danube, Tisza, Rhine) channel movement; forested zones slow but do not stop mounted advance.
+
+__Climate Regime & Volatility:__ The period spans the Roman Climatic Optimum's tail and the onset of the Late Antique Little Ice Age (c. 450–700 CE). Cooling and drought pulses in Central Asia may have driven westward migration; steppe carrying capacity contracted. European winters are cold but the Pannonian plain remains viable for pastoral nomadism.
+
+__Hazard Regime & Exposure:__ Drought on the Central Asian steppe triggers migration; dzud remains a threat on the Pannonian plain. Epidemics (the Plague of Cyprian, 249–262 CE; later the Justinianic Plague, 541 CE) weaken sedentary populations the Huns pressure.
+
+__Resource & Energy Endowment:__ The Huns exploit grassland for herding and raid sedentary populations for grain, metal, and slaves. Roman gold flows as tribute; the empire's accumulated wealth becomes a target. Timber is more available in the Pannonian region than on the open steppe.
+
+__Waste Absorption & Sink Capacity:__ Population density remains low on the steppe; waste absorption is not a constraint. Urban destruction in Roman territories (e.g., sack of Aquileia, 452 CE) leaves localized ruin, but cumulative sink saturation is negligible.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Epidemics ravage the Roman world; the Huns, mobile and dispersed, are less affected. Mortality in sacked cities is catastrophic but localized. The Justinianic Plague (541 CE) devastates the Byzantine and Persian empires after the Hunnic apogee.
+
+__Nutrition & Physiological Vitality:__ Hunnic diet mirrors earlier steppe nomads: meat, mare's milk, blood, and raided grain. Roman sources describe them as hardy and inured to cold. Sedentary populations under Hunnic pressure face famine and nutritional collapse during sieges and destruction.
+
+__Care, Healing & Recovery Capacity:__ Hunnic healing relies on shamanic practice and herbal remedy; no institutional medicine. Roman medical infrastructure declines with urban collapse. Recovery capacity contracts across the region.
+
+__Reproductive Biology & Pairing Dynamics:__ Hunnic polygyny concentrates reproduction among elite males. Capture of women from raided populations supplements Hunnic demography. Germanic and Slavic populations displaced into Roman territory show high mortality and disrupted family formation.
+
+__Demographic Renewal & Density:__ Hunnic core population is small—perhaps 100,000–200,000 at peak—augmented by subject peoples (Goths, Gepids, Alans). Roman population contracts under pressure; migration reshuffles demography across Europe. Overall renewal is negative in the disrupted zone.
+
+__Attrition & Dependency Overhang:__ Warfare culls adult males; refugees create dependency loads on receiving populations. The Roman state's capacity to absorb foederati (federated barbarian groups) strains and eventually fails. Dependency overhang contributes to systemic collapse in the western empire.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The Huns provision through herding and extraction from sedentary populations. Tribute from Rome (gold, grain, hostages) supplements raiding. Subsistence is precarious for displaced populations; famine accompanies warfare.
+
+__Energy Capture & Conversion:__ Animal muscle (horse, cattle) remains the energy base. Hunnic mobility depends on large horse herds; each warrior maintains multiple mounts. Roman infrastructure (mills, aqueducts) is destroyed or neglected in affected regions, reducing energy capture.
+
+__Labor Organization & Coercion:__ Slave-taking is endemic; captives labor in Hunnic camps and are sold to Roman and Persian markets. Coerced labor from subject Germanic tribes supplements Hunnic manpower. The labor regime is extractive and violent.
+
+__Production & Surplus Capacity:__ Hunnic surplus derives from raid and tribute rather than internal production. Roman surplus collapses as agricultural zones are depopulated. The period is one of extraction and destruction, not accumulation.
+
+__Storage, Reserves & Buffering:__ Hunnic reserves are mobile (livestock, portable gold). Roman reserves (granaries, treasuries) are depleted by tribute payments and sacked cities. Buffering capacity declines across the system.
+
+__Exchange, Trade & Logistics:__ Long-distance trade contracts as routes become unsafe. Hunnic camps serve as exchange points for slaves, livestock, and tribute goods. Logistics rely on horseback and wagon; Roman road network degrades but remains partially functional.
+
+__Value Storage, Credit & Deferred Exchange:__ Roman gold coinage flows to the Huns as tribute; it is stored as wealth, not circulated. No Hunnic coinage. Credit and deferred exchange collapse outside Roman administrative reach.
+
+__Surplus Extraction & Redistribution:__ Attila extracts massive tribute from the Eastern Roman Empire (2,100 lbs gold annually by 447 CE). Redistribution to Hunnic sub-chiefs maintains allegiance. The extraction rate is unsustainable; tribute demands escalate until Rome can no longer pay.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in the Hunnic ruling elite (Attila's court is famously austere, but gold accumulates). Subject peoples are impoverished. Asset defense relies on mobility and the threat of violence.
+
+__Byproducts & Waste Routing:__ Urban destruction leaves debris; corpses and refuse accumulate in sacked cities. Pastoral waste is negligible. No systemic waste routing problem; the issue is destruction, not pollution.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Hunnic kinship is patrilineal; the royal clan dominates. Succession is contested; Attila kills his brother Bleda to consolidate power. After Attila's death (453 CE), his sons fight over the inheritance, fragmenting the empire.
+
+__Association & Mutual Aid:__ The Hunnic confederation incorporates subject peoples (Ostrogoths, Gepids, Alans, Slavs) through conquest and alliance. Mutual aid operates within kin groups; subject peoples are bound by coercion and opportunism, not solidarity.
+
+__Leisure, Play & Sociability:__ Feasting at Attila's court is documented by the Roman envoy Priscus: meat, mead, songs praising the king's victories. Horse racing and archery contests continue steppe traditions. Sociability centers on the royal camp.
+
+__Stratification, Status & Group Structure:__ Hunnic elite at the apex; subject barbarian kings below; commoner warriors, herders, and slaves at the base. Status is marked by proximity to Attila, horse quality, and martial reputation. Boundaries are fluid; a successful warrior can rise.
+
+__Administrative Capacity & Institutional Integrity:__ No bureaucracy; administration is personal and oral. Attila commands through personal authority, kin loyalty, and fear. No institutional continuity; the empire depends entirely on the paramount leader. When Attila dies, the structure collapses.
+
+__Coercive Apparatus & Means of Force:__ Composite bow cavalry is the decisive military technology. Hunnic armies combine mobility, firepower, and terror. Subject Germanic heavy infantry supplements cavalry. Roman and Persian field armies are outmaneuvered and often defeated. Fortifications provide the only reliable defense.
+
+__Discharge, Disorder & Decay:__ The Great Migration is itself a cascade of disorder: Goths flee Huns into Roman territory (376 CE); the Visigothic sack of Rome (410 CE) and Vandal sack (455 CE) follow. After Attila's death, the Hunnic confederation fragments; successor peoples (Gepids, Ostrogoths) fill the vacuum. Disorder peaks in the mid-5th century and slowly subsides as new polities stabilize.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Terror dominates Roman and Persian responses to the Huns. Hunnic confidence is high under Attila; morale collapses after his death. Subject peoples oscillate between fear, opportunism, and revolt.
+
+__Leadership & Personal Authority:__ Attila concentrates authority through personal charisma, ruthlessness, and success in war. Roman sources describe him as austere, cunning, and terrifying. His authority is entirely personal; no institutional framework survives him.
+
+__Legitimacy as Lived Allegiance:__ Allegiance to Attila is personal, sustained by redistribution, fear, and the aura of invincibility. The moment he dies, allegiance fractures; his sons lack his prestige and cannot hold the confederation together.
+
+__Political Will & Collective Resolve:__ Hunnic will is unified under Attila; he can mobilize the confederation for sustained campaigns. After 453 CE, will fragments among rival heirs. Roman will to resist fluctuates; the Eastern Empire buys time with tribute, the Western Empire cannot muster effective defense.
+
+__External Relations & Posture:__ Aggressive expansion dominates: raids into Gaul (451 CE) and Italy (452 CE), pressure on Persia's Caucasian flank. Diplomacy is coercive—tribute or devastation. The Battle of the Catalaunian Plains (451 CE) marks the limit of Hunnic expansion; a coalition under Aetius checks Attila but does not destroy him.
+
+__Disaffection, Apathy & Spent Will:__ After Attila's death, subject peoples revolt (Battle of Nedao, 454 CE; Gepids and Ostrogoths defeat the Huns). Hunnic will is spent; survivors scatter eastward or are absorbed into successor populations. The empire evaporates within a generation.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Hunnic speech is the command language of the confederation, but subject peoples speak Gothic, Alanic, Slavic, and Latin. Interpreters are essential. No Hunnic script exists; all communication is oral.
+
+__Channels & Transmission Velocity:__ Mounted messengers transmit commands across the steppe and into Europe. Roman diplomatic embassies (Priscus, 448 CE) provide the only literate record of Attila's court. Transmission velocity is the speed of a horse relay.
+
+__Record, Storage & Persistence:__ The Huns leave no indigenous written record. What is known survives in Roman and Byzantine sources (Priscus, Jordanes, Ammianus Marcellinus). Oral memory within the Hunnic elite does not outlast the generation; after 453 CE, Hunnic history becomes archaeological and external.
+
+__Framing, Censorship & Discourse Norms:__ Hunnic oral tradition glorifies Attila; songs at his court (Priscus records) celebrate his victories. Roman sources frame Huns as barbarian scourge. No censorship apparatus; discourse norms are those of oral heroic culture.
+
+__Reception, Attention & Amplification:__ Attila's court feasts concentrate attention. Roman fear amplifies Hunnic reputation beyond their numbers. Rumor and terror propagate faster than accurate information.
+
+__Signal Integrity & Noise Load:__ Oral transmission degrades rapidly; details of Hunnic history are lost within decades. Roman sources are partial and hostile. Modern knowledge is fragmentary; the signal is mostly noise.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Hunnic morality centers on loyalty to the paramount leader, kinship honor, and martial prowess. Oath-breaking is punished; Attila's execution of oath-breakers is documented. Justice is personal and swift.
+
+__Law, Codification & Regulatory Evolution:__ No written law. Custom and oral precedent govern. Attila's word is law within the confederation. Subject peoples retain their own customary law under Hunnic overlordship.
+
+__Adjudication, Liability & Sanction:__ Attila adjudicates disputes personally; his judgments are final. Sanction is severe—execution, mutilation, enslavement. Liability is collective; kin groups bear responsibility for members' actions.
+
+__Rights, Protections & Compliance Burden:__ Rights inhere in kinship and martial status. Subject peoples have no rights against Hunnic overlords except what can be negotiated or enforced. Compliance burden is low for Huns, extractive for subjects.
+
+__Impunity & Unredressed Wrong:__ The Hunnic elite enjoy near-total impunity. Wrongs against subject peoples go unredressed. The gap between justice owed and delivered is vast but contained by fear. After Hunnic collapse, revenge follows (Battle of Nedao).
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ No Hunnic inquiry tradition survives or is documented. Explanation is mythological and shamanic. Roman and Greek observers (Priscus, Ammianus) record ethnographic observations but do not engage Hunnic knowledge systems.
+
+__Applied Knowledge & Technical Method:__ Sophisticated technique in composite bow construction, horse breeding, and mobile warfare. Leather, felt, and metalworking continue steppe traditions. Siege warfare is less developed; Huns struggle against fortified cities until they incorporate Roman and Gothic engineers.
+
+__Education, Knowledge Stock & Skill Distribution:__ Informal education within kin groups. Horsemanship and archery are universal male skills. Specialist craft knowledge (bow-making, metalwork) is narrowly held. No literate education; knowledge stock is entirely oral.
+
+__Obsolescence & Knowledge Decay:__ Hunnic technique does not outlast the people; after the confederation's collapse, successor populations (Avars, Bulgars) bring their own traditions. Knowledge decay is rapid and nearly total; archaeology recovers only fragments.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Hunnic identity is rooted in steppe warrior tradition; origin myths do not survive in Hunnic voice. Roman sources preserve fragments (divine ancestry claims, shamanistic elements). The memory of Attila persists in Germanic legend (Etzel in the Nibelungenlied) but filtered through non-Hunnic cultures.
+
+__Legitimating Narrative & Ideology:__ Attila's court narrative celebrates his invincibility, divine favor, and the "Sword of Mars" legend (a sacred sword legitimizing his rule). The narrative is oral and dies with the court.
+
+__Artistic Expression & Material Culture:__ Hunnic material culture is sparse: cauldrons, diadems, gold plaques in steppe animal style, deformed skulls (cranial binding). Dress includes layered robes, felt caps, and elaborate horse trappings. The aesthetic is functional and portable.
+
+__Form Exhaustion & Meaning Decay:__ Hunnic forms do not exhaust; they disappear. The culture is too brief and too poorly documented to show internal decay. What remains is archaeological residue, not living tradition.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Shamanic cosmology with sky-god worship (Tengri elements likely, though not directly attested). Belief in omens, spirits, and ancestor power. Fate is accepted; success in war confirms divine favor.
+
+__Ritual, Devotion & Sacred Practice:__ Animal sacrifice, blood oaths, and shamanic trance documented or inferred. Burial practices include horse sacrifice and grave goods, though Attila's tomb has never been found. Ritual binds warriors to leaders and marks transitions.
+
+__Religious Institutions & Doctrinal Authority:__ No priestly hierarchy survives documentation. Shamans hold sacred knowledge but lack institutional structure. Attila himself may have claimed sacral authority; the "Sword of Mars" functions as a sacred legitimating object.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Contact with Gothic Arian Christianity and Roman Nicene Christianity exposes the Huns to new cosmologies, but conversion is not documented for the ruling elite. After the Hunnic collapse, successor populations (Avars, Bulgars) bring and eventually convert to Christianity or Islam over subsequent centuries.
+
+__Disenchantment & Sacred Discharge:__ No evidence of disenchantment within the Hunnic period. The cosmology retains its grip until the confederation collapses. What follows is cultural replacement, not secularization; the sacred is not discharged but overwritten by successor traditions.
+

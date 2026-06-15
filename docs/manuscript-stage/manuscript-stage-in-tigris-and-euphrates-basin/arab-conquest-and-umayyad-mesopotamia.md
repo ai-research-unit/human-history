@@ -1,69 +1,139 @@
-# __651 CE – 750 CE__ — Arab Conquest and Umayyad Mesopotamia
-__Summary:__ The century-long transition from Sasanian imperial collapse to Umayyad provincial rule; the Tigris-Euphrates basin absorbed into the expanding Arab-Islamic polity following the decisive victories at Qadisiyya (636) and the fall of Ctesiphon. The binding constraint is administrative replacement — Arab garrison cities at Basra and Kufa become the new power centers while Damascus holds caliphal authority, leaving Iraq as a wealthy but restive province. Margin against internal unrest is thin; Shi'i and Kharijite opposition concentrates here. Direction of change runs toward Arabization of administration and gradual Islamization of population, though conversion remains incomplete and protected communities persist under dhimmi status.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The alluvial plain between Tigris and Euphrates remains the core; Ctesiphon-Seleucia ruins mark the old Sasanian center while new garrison cities at Basra (southern marshes) and Kufa (middle Euphrates) shift the settlement gravity; transit along rivers and caravan routes intact.<br><br>
-__Climate Regime & Volatility:__ Semi-arid subtropical regime continues; summer heat extreme; rainfall concentrated in winter months in northern reaches; no major climatic shift within the window; agricultural viability depends entirely on irrigation.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along both rivers during spring snowmelt; localized drought exposure; no major seismic or volcanic threat recorded; infrastructure margin adequate where canals maintained.<br><br>
-__Resource & Energy Endowment:__ Fertile alluvium when irrigated; date palms in the south; limited timber and stone requiring import; no significant mineral extraction; energy drawn from biomass and animal muscle.<br><br>
-__Waste Absorption & Sink Capacity:__ Low-density garrison cities and agrarian hinterland generate modest waste loads; salinization from irrigation accumulates slowly but absorptive capacity not yet critical; landscape not saturated.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic malaria in marshlands; periodic plague outbreaks continue post-Justinianic pattern; urban sanitation rudimentary; mortality elevated but not catastrophic; population recovering from late-Sasanian war exhaustion.<br><br>
-__Nutrition & Physiological Vitality:__ Grain, dates, and fish provide adequate caloric base where irrigation holds; nutritional status modest but stable; no widespread famine recorded in the window.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Arab settlers practice polygyny within Islamic law; local populations retain existing family structures; intermarriage gradual; no major disruption to reproductive capacity.<br><br>
-__Demographic Renewal & Density:__ Population recovering from Byzantine-Sasanian wars and conquest disruption; Arab migration into garrison cities adds population; overall density rising slowly; age structure skewed by military settlement.<br><br>
-__Attrition & Dependency Overhang:__ War casualties created widows and orphans absorbed into tribal and religious charitable structures; dependency load manageable; no systemic overhang dragging renewal.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Irrigated agriculture provides grain and dates; pastoral zones supply meat and dairy; subsistence floor secure where canal infrastructure maintained; garrison cities provisioned through taxation.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle dominant; water-lifting devices (shaduf, noria) for irrigation; wind negligible; no change in energy regime from Sasanian period; per-capita work ceiling low but adequate.<br><br>
-__Labor Organization & Coercion:__ Free peasant cultivators predominate; tenant farming widespread; slavery exists but not the primary labor mode; corvee for canal maintenance continues; coercion moderate.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus substantial in irrigated zones; textile production in cities; surplus extraction supports garrison and caliphal treasury; productive capacity stable.<br><br>
-__Storage, Reserves & Buffering:__ Granaries at garrison cities; treasury reserves held centrally in Damascus; local buffering modest; drought or canal failure would stress reserves quickly.<br><br>
-__Exchange, Trade & Logistics:__ Basra emerges as major port linking Persian Gulf trade to interior; Kufa controls caravan routes; commerce active; coinage transitions from Sasanian drachm to Arab-Sasanian and early Islamic dirhams.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver dirham becoming standard; gold dinar introduced under Abd al-Malik (696); credit networks developing among merchants; reciprocity obligations within tribal and religious communities.<br><br>
-__Surplus Extraction & Redistribution:__ Kharaj (land tax) and jizya (poll tax on non-Muslims) fund the state; stipends distributed to Arab warriors through diwan system; extraction load significant but productive base absorbs it.<br><br>
-__Wealth Distribution & Asset Defense:__ Arab warrior elite holds stipend rights and acquires land; local landowners retain holdings under new taxation; wealth concentrating among Arab settlers and early converts; asset defense through caliphal authority.<br><br>
-__Byproducts & Waste Routing:__ Agricultural and urban waste dispersed locally; no industrial-scale effluent; waste load trivial relative to landscape absorptive capacity.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Tribal solidarity (asabiyya) strong among Arab settlers; dhimmi communities maintain internal mutual aid; trust radius limited across ethno-religious boundaries; widening slowly through conversion and clientage (wala).<br><br>
-__Stratification, Status & Group Identity:__ Arab Muslims at apex; mawali (non-Arab converts) subordinate but rising; dhimmi Christians, Jews, Zoroastrians taxed but protected; stratification by religion and ethnicity hardening then gradually softening.<br><br>
-__Kinship, Family & Inheritance:__ Arab patrilineal kinship dominant among settlers; Islamic inheritance law applies to Muslims; local communities retain customary practices; household formation stable.<br><br>
-__Civic Association & Self-Organization:__ Tribal structures organize Arab society; religious communities (Christian bishops, Jewish exilarchs) retain internal governance; guild-like associations nascent; associational fabric thickening.<br><br>
-__Leisure, Play & Sociability:__ Markets and mosques as gathering spaces; poetry recitation central to Arab culture; religious festivals (Islamic, Christian, Jewish) structure communal time; sociability maintained.<br><br>
-__Grievance Channels & Social Discharge:__ Shi'i mourning rituals emerging; Kharijite exit to rebellion; tribal arbitration; religious charity (zakat, sadaqa); significant grievance remains unmetabolized, fueling opposition to Umayyads.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Umayyad caliph in Damascus holds ultimate authority; Iraq governed by appointed governors (wali); power centralized at caliphal level but delegated locally; authority contested by Shi'i and Kharijite movements.<br><br>
-__Succession & Power Transfer:__ Caliphal succession hereditary within Umayyad clan but contested; governorships appointive; transfer frequently violent or disputed; succession a persistent flashpoint.<br><br>
-__Legitimacy & Political Narrative:__ Umayyads claim leadership of umma through kinship to Prophet and conquest; legitimacy contested by Alid supporters who hold succession should follow Prophet's family; narrative increasingly fragile in Iraq.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Transition from Sasanian bureaucracy to Arab-Islamic administration gradual; diwan system organizes military stipends; record-keeping in Arabic replacing Persian; capacity adequate but evolving.<br><br>
-__Political Participation & Mobilization:__ Iraqi garrison cities hotbeds of opposition; Shi'i mobilization around Alid claimants (Husayn at Karbala 680); Kharijite revolts; participation through factional alignment; channels for dissent narrow but rebellion recurrent.<br><br>
-__Geopolitical Position & External Relations:__ Iraq central to caliphate but not seat of power; buffer against Byzantine incursions handled from Syria; eastern frontier toward Khurasan; diplomatic position subordinate to Damascus.<br><br>
-__Coercive Apparatus & Means of Force:__ Arab tribal armies based in garrison cities; Syrian troops deployed to suppress Iraqi revolts; weaponry conventional (sword, lance, bow); command held by governors and tribal chiefs.<br><br>
-__Internal Order & Threat Environment:__ Recurrent Shi'i and Kharijite revolts (Mukhtar 685-687, multiple Kharijite uprisings); banditry in hinterlands; disorder exceeds enforcement capacity periodically; margin thin.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral transmission dominant; couriers (barid system developing) carry official messages; Friday sermons broadcast caliphal authority; reach extends to garrison cities and major towns; rural areas slower.<br><br>
-__Record, Storage & Persistence:__ Transition from Sasanian Persian archives to Arabic records underway; papyrus and parchment in use; Quranic manuscripts proliferate; Syriac Christian and Jewish communities maintain their own records; persistence improving.<br><br>
-__Framing, Censorship & Discourse Norms:__ Islamic framing of governance and law dominant in official discourse; non-Muslim discourse tolerated within communities; open criticism of caliphate dangerous; discourse band narrowing for political speech.<br><br>
-__Reception, Attention & Amplification:__ Mosque sermons and market gatherings key amplification points; poetry circulates widely; attention focused on religious and political events; oral networks efficient within communities.<br><br>
-__Signal Integrity & Noise Load:__ Competing narratives (Umayyad, Alid, Kharijite) create ideological noise; verification limited; signal integrity depends on community trust; noise accumulating around succession and legitimacy.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Islamic justice norms spreading; emphasis on equality before God complicates Arab ethnic privilege; sense of justice invoked by Shi'i and Kharijite opposition; foundational tension between ideal and practice.<br><br>
-__Law, Codification & Regulatory Evolution:__ Islamic law (fiqh) developing but not yet codified; Quran and hadith as sources; qadis appointed in garrison cities; dhimmi communities retain internal legal autonomy; legal pluralism prevails.<br><br>
-__Adjudication, Enforcement & Liability:__ Qadi courts handle Muslim disputes; governors exercise executive justice; enforcement capacity adequate in cities; rural areas under tribal arbitration; throughput sufficient.<br><br>
-__Rights, Protections & Compliance Burden:__ Muslims enjoy full rights; dhimmis protected but subordinate (special dress, jizya); compliance burden moderate; predictability improving as Islamic legal norms stabilize.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful governors and tribal chiefs enjoy significant impunity; massacre at Karbala (680) emblematic of unredressed wrong becoming Shi'i grievance; deficit accumulates as political memory.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Early Islamic theological debates beginning (qadar, free will); Greek and Persian learning preserved in Syriac Christian and Persian scholarly circles; no systematic translation yet; inquiry nascent.<br><br>
-__Applied Knowledge & Technical Method:__ Sasanian agricultural and irrigation techniques continue; no major technical innovation; practical knowledge transmitted through craft apprenticeship; methods stable.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Quranic memorization and recitation taught in mosques; Syriac Christian schools (Nisibis tradition continues); Jewish academies at Sura and Pumbedita active; literacy limited to religious and administrative elites.<br><br>
-__Obsolescence & Knowledge Decay:__ Sasanian court culture fading; cuneiform long dead; some Persian administrative knowledge lost in transition; decay modest; new Arabic learning accumulating.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Arab tribal identity and Islamic religious identity fusing; memory of conquest as foundational triumph; local populations retain Sasanian, Christian, Jewish memory layers; identity plural and stratified.<br><br>
-__Artistic Expression & Material Culture:__ Early Islamic architecture emerging (mosques at Kufa, Basra); Arab poetry flourishes; Sasanian artistic motifs absorbed; no figurative religious art in Islamic contexts; material culture transitional.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence among Arab settlers; resentment among mawali seeking equality; dhimmi communities cautiously adaptive; mood mixed; tension beneath surface stability.<br><br>
-__Form Exhaustion & Meaning Decay:__ Sasanian imperial forms collapsing; Zoroastrian state ritual ended; new Islamic forms energetic and generative; no exhaustion in dominant cultural mode; old forms decaying, new forms vital.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Islamic monotheism ascendant; Day of Judgment and divine sovereignty central; Zoroastrian dualism fading; Christian and Jewish cosmologies persist in communities; existential outlook increasingly Islamic-framed.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Friday congregational worship, Ramadan fasting established; Shi'i mourning for Husayn emerging; Christian liturgy and Jewish practice continue; devotional infrastructure thickening.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Caliphate claims religious as well as political authority; ulama class nascent; Christian patriarchates and Jewish exilarchate retain internal authority; doctrinal orthodoxy not yet rigidly enforced; pluralism operative.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam spreading through conversion and clientage; Zoroastrianism declining sharply; Christianity stable; Judaism stable; direction of dominant cosmology expanding; syncretism limited by Islamic distinctiveness.<br><br>
-__Disenchantment & Sacred Discharge:__ No widespread disenchantment; sacred meaning robust across communities; spiritual need met by active religious traditions; discharge minimal; sacred order intact though contested regarding political authority.<br><br>
+# __651 CE – 750 CE — Arab Conquest and Umayyad Mesopotamia__
+
+__Summary:__ Arab armies conquer exhausted Sasanian Mesopotamia with startling speed, founding garrison cities at Kufa and Basra that become centers of Arabic literary and religious culture, while the Umayyad period establishes Arabic as administrative language and initiates the long conversion process — the region functioning as Iraq (the lowland) within a Syrian-centered caliphate, its manuscript infrastructure shifting from Pahlavi and Syriac toward Arabic script and Islamic learning.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The alluvial plain remains agriculturally productive where irrigation functions. New garrison cities — Kufa (founded 638 CE) and Basra (founded 636 CE) — occupy strategic positions: Kufa near the desert edge controlling routes to Arabia and Syria, Basra commanding access to the Persian Gulf and maritime trade. Ctesiphon, renamed al-Mada'in, gradually declines as administrative center.
+
+__Climate Regime & Volatility:__ Semi-arid conditions persist; irrigation remains essential for agriculture in the alluvial south. Seasonal flooding from spring snowmelt continues to govern agricultural rhythm. No significant climate shift marks this transition.
+
+__Hazard Regime & Exposure:__ Late Sasanian infrastructure damage from warfare and neglect leaves irrigation systems vulnerable. Flooding and salinization continue as chronic hazards. Plague persists as episodic threat.
+
+__Resource & Energy Endowment:__ Agricultural potential remains high where canals function. Date palms and grain cultivation continue. Reed marshes in the south provide refuge for dissenters and materials for construction.
+
+__Waste Absorption & Sink Capacity:__ Salinization of previously cultivated lands accelerates in areas where canal maintenance lapses. Abandoned fields mark the retreat of cultivation from degraded soils.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic disease patterns continue from Sasanian period. Plague outbreaks recur. Conquest warfare adds trauma mortality. Garrison cities concentrate populations in disease-prone conditions before sanitary infrastructure develops.
+
+__Nutrition & Physiological Vitality:__ Agricultural productivity sustains Arab garrison populations and existing cultivators where irrigation functions. Grain requisitions for armies and cities stress rural producers.
+
+__Care, Healing & Recovery Capacity:__ Christian physicians from Sasanian tradition continue practice. Medical knowledge persists through Syriac-speaking communities. Arab conquerors adopt local medical resources.
+
+__Reproductive Biology & Pairing Dynamics:__ Arab conquerors take local women as wives and concubines, initiating population mixing. Islamic marriage law applies to Muslims; dhimmi communities maintain traditional practices.
+
+__Demographic Renewal & Density:__ Arab migration into garrison cities and onto agricultural lands increases population in favored areas. Late Sasanian population losses from warfare and plague only partially recover. Rural population remains predominantly non-Arab.
+
+__Attrition & Dependency Overhang:__ War widows and orphans from conquest and subsequent civil wars (fitnas) burden communities. Islamic charitable institutions (waqf) begin developing to address dependent populations.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Irrigation agriculture continues where infrastructure maintained. Date palm cultivation provides reliable calories. Garrison cities depend on grain stipends (ata) from tax revenues distributed to Arab warriors.
+
+__Energy Capture & Conversion:__ Traditional energy sources persist — animal and human muscle, water-lifting devices. No significant technological change in energy capture during this period.
+
+__Labor Organization & Coercion:__ Existing peasant cultivators continue agricultural work under new overlords. Slavery from conquest and purchase supplies urban households and estates. Mawali (non-Arab converts) occupy intermediate status between Arab conquerors and dhimmi subjects.
+
+__Production & Surplus Capacity:__ Agricultural surplus supports garrison cities and Syrian-based caliphate. Craft production in Kufa and Basra develops to serve new urban populations. Textile and metalwork continue earlier traditions.
+
+__Storage, Reserves & Buffering:__ Granaries serve garrison cities. Caliphal treasury (bayt al-mal) accumulates tax revenues. Civil wars periodically disrupt fiscal accumulation.
+
+__Exchange, Trade & Logistics:__ Persian Gulf trade continues via Basra. Overland routes connect Iraq to Syria and Arabia. Kufa becomes commercial as well as garrison center. Internal trade serves new urban demands.
+
+__Value Storage, Credit & Deferred Exchange:__ Sasanian silver coinage initially continues; Umayyad coinage reform (696 CE) introduces standardized Arabic dinars and dirhams. Credit practices persist in commercial communities.
+
+__Surplus Extraction & Redistribution:__ Land tax (kharaj) and poll tax (jizya) from dhimmi populations fund warrior stipends. Arab landholders in some areas pay lower ushr (tithe). Tax burden redistributes wealth from cultivators to garrison populations.
+
+__Wealth Distribution & Asset Defense:__ Arab conquerors acquire former Sasanian crown and noble lands. Early distribution favors conquest generation; subsequent generations compete for diminishing shares. Dhimmi communities retain property under protection but face fiscal pressure.
+
+__Byproducts & Waste Routing:__ Agricultural waste patterns continue. Urban waste in rapidly growing garrison cities creates sanitation challenges addressed through emerging Islamic urban norms.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Arab tribal structures transplanted to garrison cities — clans and tribes maintain identity and competition. Islamic inheritance law applies to Muslims. Dhimmi communities retain internal family law. Intermarriage between Arabs and local women creates mixed lineages.
+
+__Association & Mutual Aid:__ Tribal solidarity (asabiyya) provides primary Arab association structure. Emerging Islamic institutions — mosques, early waqf — begin supplementing tribal networks. Dhimmi communities maintain religious-based associations.
+
+__Leisure, Play & Sociability:__ Friday mosque attendance structures Muslim sociability. Poetry recitation and tribal gatherings continue Arab traditions. Urban markets serve as public gathering spaces.
+
+__Stratification, Status & Group Structure:__ Arab conquerors form ruling elite; early converts (mawali) occupy ambiguous intermediate status claiming Islamic equality while experiencing Arab discrimination. Dhimmi populations (Christians, Jews, Zoroastrians) retain property and practice under protection but with subordinate legal status. Slaves occupy lowest rank.
+
+__Administrative Capacity & Institutional Integrity:__ Umayyad administration initially retains Sasanian bureaucratic structures and personnel. Arabic gradually replaces Pahlavi for administration under Abd al-Malik (696 CE). Governors (walis) represent caliphal authority. Local dihqan class mediates between Arab rulers and Persian cultivators.
+
+__Coercive Apparatus & Means of Force:__ Arab tribal armies constitute military force, supported by stipends from taxation. Garrison cities serve as military bases. Syrian troops loyal to Umayyads intervene in Iraqi conflicts. Civil wars (First Fitna 656–661 CE, Second Fitna 680–692 CE) repeatedly convulse the region.
+
+__Discharge, Disorder & Decay:__ Tribal factional conflicts between Qays and Yaman, between early and later migrants, generate continuous violence. Iraqi opposition to Syrian Umayyad rule fuels rebellions. Kharijite insurgency in southern marshes persists. Shii movements centered on Kufa repeatedly suppressed.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Arab conquerors maintain confidence in divine mandate. Dhimmi populations adapt to new order with resignation. Iraqi Arab resentment of Syrian Umayyad dominance builds throughout period. Religious enthusiasm channels into sectarian movements.
+
+__Leadership & Personal Authority:__ Caliph claims succession to Prophet's political authority. Umayyad legitimacy contested from conquest period; Alid claims generate Shii loyalty. Governors exercise local authority subject to caliphal appointment.
+
+__Legitimacy as Lived Allegiance:__ Umayyad legitimacy weakest in Iraq, where Alid sentiment runs strong. Massacres at Karbala (680 CE) and elsewhere generate Shii martyrology and delegitimize Umayyad rule for significant population. Mawali resentment of Arab privilege erodes caliphal support.
+
+__Political Will & Collective Resolve:__ Iraqi factions show capacity for repeated rebellion against Syrian Umayyad rule. Umayyad will to maintain control persists through military intervention. Final collapse (750 CE) results from coordinated Abbasid revolutionary movement originating in Khurasan.
+
+__External Relations & Posture:__ Iraq functions as province within Damascus-centered caliphate. Conquest expansion continues eastward into Iran and Central Asia. Byzantine frontier stabilizes in Anatolia. Indian Ocean trade connects Basra to wider world.
+
+__Disaffection, Apathy & Spent Will:__ Iraqi disaffection with Umayyad rule intensifies through period. Repeated failed rebellions generate cycles of hope and despair. Abbasid revolution channels accumulated grievance into successful overthrow.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Arabic spreads as language of rule, religion, and increasingly commerce. Aramaic/Syriac, Pahlavi, and Greek persist in religious communities. Hebrew continues for Jewish religious purposes. Multilingual administration gradually gives way to Arabic dominance.
+
+__Channels & Transmission Velocity:__ Caliphal post (barid) maintains administrative communication. Mosque networks circulate religious instruction. Tribal and commercial networks carry information.
+
+__Record, Storage & Persistence:__ Administrative transition to Arabic script under Abd al-Malik transforms record-keeping. Arabic manuscript culture begins developing — Quran copying, hadith collection, early Arabic poetry compilation. Christian and Jewish manuscript traditions continue in Syriac and Hebrew.
+
+__Framing, Censorship & Discourse Norms:__ Islamic discourse norms establish Quran as ultimate authority. Hadith collection begins distinguishing authentic from fabricated prophetic traditions. Political criticism of Umayyads dangerous but circulates in Iraqi opposition circles.
+
+__Reception, Attention & Amplification:__ Friday sermons (khutba) reach Muslim populations. Poetry recitation amplifies political messages. Oral transmission predominates for most of population.
+
+__Signal Integrity & Noise Load:__ Contested hadith traditions generate early concern for authentication (isnad chains). Sectarian claims and counterclaims multiply information requiring evaluation.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Islamic moral framework establishes divine law (sharia) as normative standard. Arab tribal honor codes persist in modified form. Dhimmi communities retain internal moral authorities.
+
+__Law, Codification & Regulatory Evolution:__ Quranic legal provisions and emerging fiqh (jurisprudence) gradually systematize Islamic law. Regional legal schools begin forming. Dhimmi communities retain internal legal autonomy under protection.
+
+__Adjudication, Liability & Sanction:__ Qadi courts emerge to adjudicate disputes under Islamic law. Governors retain administrative justice. Internal community courts serve dhimmi populations. Hudud punishments apply Quranic penalties.
+
+__Rights, Protections & Compliance Burden:__ Dhimmi status provides protection for person and property in exchange for jizya and acceptance of subordinate status. Dress codes and occupational restrictions begin developing. Muslims enjoy fuller rights but face Islamic behavioral obligations.
+
+__Impunity & Unredressed Wrong:__ Arab tribal violence often escapes full legal sanction. Kharijite and Shii grievances — Karbala massacre, Zubayrid suppression — generate unredressed wrongs that fuel ongoing opposition. Umayyad repression of Iraqi dissent leaves accumulated bitterness.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Early Islamic religious sciences begin developing — Quran reading (qira'at), hadith collection, early theological disputes (kalam). Translation of Greek and Persian learning not yet systematized but begins informally. Existing scholarly traditions in Syriac Christianity and Judaism continue.
+
+__Applied Knowledge & Technical Method:__ Practical knowledge — irrigation, construction, craft production — continues from Sasanian tradition. Arabic numerals and calculation methods begin entering from Indian sources. Medical practice continues in Syriac-speaking communities.
+
+__Education, Knowledge Stock & Skill Distribution:__ Mosque-based Quran instruction begins spreading. Hadith transmission through teacher-student chains. Christian schools continue in monasteries. Jewish academies at Sura and Pumbedita persist, completing Talmudic tradition.
+
+__Obsolescence & Knowledge Decay:__ Zoroastrian religious learning declines with conversion and emigration. Pahlavi literacy contracts. Cuneiform already extinct; Babylonian astronomical and mathematical knowledge survives only in earlier translations.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Islamic sacred history — Quran, prophetic biography, conquest narratives — establishes new foundational mythology. Arab tribal genealogies structure social identity. Shii counter-memory centers on Alid claims and Karbala martyrdom. Dhimmi communities maintain distinct sacred histories.
+
+__Legitimating Narrative & Ideology:__ Umayyad claim succession from Prophet through caliphal institution. Alid counter-narrative claims family right. Arab conquest justified as bringing divine guidance to benighted lands. Dhimmi communities tolerated as peoples of the book awaiting eventual enlightenment.
+
+__Artistic Expression & Material Culture:__ Early Islamic architecture develops — hypostyle mosques at Kufa and Basra, Dome of the Rock (691 CE) as model. Arabic calligraphy emerges as primary artistic medium. Umayyad court patronizes Arabic poetry. Material culture shows continuity with Sasanian traditions alongside Islamic innovations (aniconism, arabesque).
+
+__Form Exhaustion & Meaning Decay:__ Zoroastrian cultural forms decline with conversion pressure. Sasanian court culture partially absorbed into Umayyad practice. New Islamic forms remain generative and expanding.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Islamic monotheism establishes dominant cosmological framework for Muslims — one God, prophetic revelation, judgment, paradise and hell. Christian and Jewish cosmologies persist in protected communities. Zoroastrian dualism retreats with conversion and emigration.
+
+__Ritual, Devotion & Sacred Practice:__ Five daily prayers, Friday congregational worship, Ramadan fasting, zakat almsgiving, and hajj pilgrimage structure Muslim piety. Shii devotion adds Ashura mourning and shrine visitation. Christian liturgy continues in churches. Jewish practice persists in synagogues.
+
+__Religious Institutions & Doctrinal Authority:__ Caliphal authority claims religious as well as political legitimacy. Ulama (religious scholars) begin emerging as informal interpreters of tradition. Church of the East maintains hierarchical structure under reduced circumstances. Jewish geonim continue heading academies.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam spreads through conversion — initially limited, accelerating through Umayyad period. Mawali conversions motivated by tax relief, social advancement, and religious conviction. Zoroastrianism contracts sharply. Christianity and Judaism persist in reduced circumstances.
+
+__Disenchantment & Sacred Discharge:__ Zoroastrian sacred order collapses with Sasanian state — temples close, fire worship contracts, priestly class declines. Christian and Jewish communities maintain coherent spiritual life under new constraints. Islamic spiritual confidence remains high in expanding movement.

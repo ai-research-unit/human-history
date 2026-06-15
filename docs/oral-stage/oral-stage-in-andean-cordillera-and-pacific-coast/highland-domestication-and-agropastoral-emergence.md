@@ -1,69 +1,140 @@
-# __6000 BCE – 3000 BCE__ — Highland Domestication and Agropastoral Emergence
-__Summary:__ A three-millennium trend across the high Andes—from the Junín puna to the Lake Titicaca basin—during which human populations transition from mobile hunting-and-gathering to mixed agropastoral economies built on domesticated tubers (potato, oca, ulluco), chenopods (quinoa, cañihua), and camelids (llama and alpaca); the binding constraint is the narrow altitudinal band where frost-tolerant crops can mature and camelid pastures remain productive, forcing vertical mobility and limiting surplus accumulation; demographic growth is slow but positive, with seasonal transhumance patterns stabilizing by the window's close; directional drift toward sedentism in valley nodes while puna pastures remain the domain of mobile herders.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The high Andes above 3000 m: intermontane valleys, altiplano basins, and puna grasslands; vertical relief extreme, with cultivable land confined to frost-sheltered valleys and lake margins; movement is channeled by quebradas and passes, with east-west transit across the cordillera arduous.<br><br>
-__Climate Regime & Volatility:__ Cold, seasonally dry high-altitude climate; wet season (November–March) delivers most precipitation; frost risk year-round above 4000 m; Holocene conditions generally stable but interannual variability in rainfall significant; no major secular drift within this window.<br><br>
-__Hazard Regime & Exposure:__ Frost is the pervasive hazard—a single out-of-season freeze can destroy tuber crops; drought and hail episodically damage harvests; seismic risk present but secondary to climatic hazards; volcanic ash fall from distant eruptions possible but not dominant.<br><br>
-__Resource & Energy Endowment:__ Puna grasslands support wild and domesticating camelids; tuber wild progenitors (Solanum brevicaule complex) native to Lake Titicaca basin; obsidian and high-quality lithics available in highland sources; freshwater abundant from glacial melt, lakes, and seasonal streams.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population densities and dispersed settlement patterns; organic waste decomposes slowly in cold, dry conditions but accumulations are minor; sink capacity effectively unlimited against the load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ High-altitude cold limits vector-borne disease; respiratory infections and altitude-related hypoxia affect populations physiologically; skeletal evidence sparse but suggests moderate overall mortality; epidemic disease absent.<br><br>
-__Nutrition & Physiological Vitality:__ Transition to domesticated tubers and chenopods diversifies carbohydrate intake; camelid meat provides high-quality protein and fat critical at altitude; wild game and gathered plants supplement the diet; nutritional status improving over the window as domesticates become reliable.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Small kin-based groups with localized mating; hypoxia at extreme altitude may slightly reduce fertility; pairing patterns stable within band structures; no evidence of marked reproductive hierarchies.<br><br>
-__Demographic Renewal & Density:__ Population grows slowly; settlement density increases in favored valley locations (Guitarrero Cave environs, Lake Titicaca basin); replacement ratios appear modestly positive; migration between highland zones keeps population distributed across ecological tiers.<br><br>
-__Attrition & Dependency Overhang:__ Infant mortality elevated by altitude and cold; aged individuals dependent on kin support; the productive cohort absorbs the dependency load without evident strain; no documented crisis of dependency overhang.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Mixed economy: tuber cultivation in valley fields, camelid herding on puna pastures, continued hunting (deer, wild camelids) and gathering; subsistence floor rising as domesticates mature and yields become more predictable.<br><br>
-__Energy Capture & Conversion:__ Human muscle remains the primary power source; llamas emerging as transport animals by the window's end, extending logistical range; fire for warmth and cooking essential at altitude; no water or wind power harnessed.<br><br>
-__Labor Organization & Coercion:__ Household and kin-group labor; division of labor by age and sex—herding often assigned to younger males, field cultivation shared; no coercive labor institutions; cooperation organized through kinship reciprocity.<br><br>
-__Production & Surplus Capacity:__ Tuber and chenopod agriculture generates storable surplus once harvests stabilize; freeze-drying (chuño precursors) extends potato storage; surplus modest but sufficient to buffer against single-season failure.<br><br>
-__Storage, Reserves & Buffering:__ Cold, dry highland conditions favor natural preservation; freeze-dried tubers and dried meat storable for months; no ceramic containers; storage pits and rock shelters serve as granaries; buffering capacity adequate for normal variability.<br><br>
-__Exchange, Trade & Logistics:__ Exchange between puna herders and valley cultivators—meat and fiber for tubers and plant products; obsidian and pigments move through kin networks; llama caravans not yet formalized but llama transport emerging; logistics limited to what humans and early llamas can carry.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ No monetary instruments; value stored in camelid herds (the emerging form of mobile wealth), stored foods, and durable goods (lithic tools, fiber textiles); deferred reciprocity and kin obligations structure future claims.<br><br>
-__Surplus Extraction & Redistribution:__ Redistribution at household and band level; large kills or good harvests shared according to kinship norms; no institutionalized extraction; communal feasting likely accompanies seasonal aggregations.<br><br>
-__Wealth Distribution & Asset Defense:__ Camelid herd size may begin to differentiate households, but differentiation is incipient and fluid; no fortified stores or defended wealth accumulations; asset defense is mobility—herds move with their owners.<br><br>
-__Byproducts & Waste Routing:__ Camelid dung accumulates near corrals (becoming valuable as fuel and fertilizer); crop residues left in fields or fed to animals; waste volume negligible against available dispersal space.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High trust within residential kin groups; mutual aid networks essential for herding cooperation and labor-sharing during planting and harvest; trust radius extends to neighboring bands linked by kinship and exchange.<br><br>
-__Stratification, Status & Group Identity:__ Egalitarian or weakly ranked; status linked to herding success, hunting skill, and ritual knowledge; group identity tied to territory (specific valleys, puna zones) and kin affiliation; no rigid stratification.<br><br>
-__Kinship, Family & Inheritance:__ Bilateral or patrilineal kin organization; multi-family households or small hamlets; camelid herds inherited within families, marking the beginning of transmissible wealth; marriage alliances link neighboring groups.<br><br>
-__Civic Association & Self-Organization:__ Band-level organization; cooperation for communal hunts (chaco-style drives of wild camelids), construction of simple corrals, and ritual events; no institutions beyond kinship.<br><br>
-__Leisure, Play & Sociability:__ Seasonal aggregations for hunting, ritual, and exchange provide festive contexts; leisure integrated into pastoral routine; communal gatherings reinforce social bonds.<br><br>
-__Grievance Channels & Social Discharge:__ Disputes mediated by kin elders; fission (departure to join another group) available as an exit option; ritual and feasting absorb social tension; unmetabolized grievance appears minimal.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Acephalous; leadership situational—skilled hunters, experienced herders, ritual specialists exercise influence without formal office; authority personal and revocable; no hereditary positions.<br><br>
-__Succession & Power Transfer:__ No formal succession; influence shifts informally as individuals age or prove their competence; transfer is organic and uncontested at this organizational scale.<br><br>
-__Legitimacy & Political Narrative:__ Authority legitimated by demonstrated competence, generosity, and kinship seniority; no ideological apparatus; oral tradition embeds norms but does not justify centralized rule.<br><br>
-__Administrative Capacity & Institutional Integrity:__ No administrative capacity; coordination face-to-face; no records, registers, or bureaucratic functions; decisions immediate and collective.<br><br>
-__Political Participation & Mobilization:__ All adults participate in collective decisions; mobilization for hunts, construction, or ritual is voluntary; dissent expressed through voice or exit.<br><br>
-__Geopolitical Position & External Relations:__ Neighboring highland groups and occasional contact with coastal populations constitute the external field; relations are exchange-oriented; no organized warfare documented; raiding possible but not archaeologically visible.<br><br>
-__Coercive Apparatus & Means of Force:__ Weapons are hunting and herding tools (spears, clubs, bolas); no warrior class; fortifications absent; violence, if present, is small-scale and interpersonal.<br><br>
-__Internal Order & Threat Environment:__ Low internal disorder; kin norms maintain order; external predation by wild carnivores (puma, Andean fox) threatens herds but not social stability; banditry and organized crime absent.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Oral communication within and between bands; message reach limited to face-to-face contact or relay through travelers; transmission velocity is walking pace across difficult terrain.<br><br>
-__Record, Storage & Persistence:__ Living memory is the sole repository; no writing, notation, or durable external record; knowledge of herding techniques, planting cycles, and ritual practice persists only through oral transmission; loss of knowledgeable elders risks knowledge decay.<br><br>
-__Framing, Censorship & Discourse Norms:__ Discourse governed by social etiquette and respect for elders and ritual specialists; no centralized censorship; certain knowledge (ritual, medicinal) may be restricted by custom.<br><br>
-__Reception, Attention & Amplification:__ Attention focused on elders and skilled practitioners; stories, techniques, and norms amplified through repetition in family and communal contexts; no mass-audience mechanisms.<br><br>
-__Signal Integrity & Noise Load:__ Low information volume; oral correction and consensus maintain accuracy; drift accumulates slowly; no mechanisms for large-scale misinformation or noise overload.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Norms rooted in reciprocity, kinship obligation, and respect for shared resources (pastures, water, wild game); fairness understood as balanced exchange and proportional sharing.<br><br>
-__Law, Codification & Regulatory Evolution:__ No codified law; customary norms transmitted orally; rules governing pasture access, herd boundaries, and water use emergent and evolving through practice.<br><br>
-__Adjudication, Enforcement & Liability:__ Disputes adjudicated informally by kin elders or respected figures; enforcement through social pressure, reputation damage, or exclusion; no third-party judicial apparatus.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual autonomy within kin obligations; territorial and resource rights governed by group membership and customary use; compliance burden light; predictability high within small groups.<br><br>
-__Impunity & Unredressed Wrong:__ Small-scale society limits impunity; persistent offenders face ostracism or expulsion; unredressed grievances may lead to fission or departure; standing injustice does not accumulate.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical knowledge of plant cultivation, animal behavior, altitude adaptation, and seasonal cycles accumulated through observation and trial; no formal inquiry tradition; explanatory paradigm embedded in animist-cosmological narrative.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated agropastoral techniques developing: frost-resistant potato varieties selected, quinoa cultivated, camelid herding and breeding practices refined; freeze-drying of tubers (proto-chuño) an emergent preservation technology; textile production from camelid fiber beginning.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Apprenticeship within families; children learn herding and cultivation by participation; specialist knowledge (ritual, medicinal plants) held by elders; skill distribution broadening as domestication knowledge spreads.<br><br>
-__Obsolescence & Knowledge Decay:__ Hunting techniques for extinct megafauna already obsolete; older foraging knowledge gradually displaced by cultivation and herding expertise; decay mitigated by oral transmission but vulnerable to lineage extinction.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Collective identity rooted in highland landscape—specific mountains, lakes, and pastures carry sacred significance; ancestor veneration probable; origin narratives transmitted orally and now unrecoverable.<br><br>
-__Artistic Expression & Material Culture:__ Simple textiles from camelid fiber; decorated bone and stone tools; rock art in some highland shelters; no monumental architecture; material culture functional but increasingly differentiated from earlier foraging assemblages.<br><br>
-__Collective Mood & Behavioral Disposition:__ Evidence insufficient for mood reconstruction; the slow success of domestication suggests communal confidence and adaptive optimism; no signs of demoralization or crisis in the archaeological record.<br><br>
-__Form Exhaustion & Meaning Decay:__ Earlier Archaic traditions evolving rather than exhausting; new forms (herding, cultivation, proto-textile) emerging; renewal outpaces decay within this window.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Worldview presumably animist; mountains (apus), lakes, and camelids ensouled or inhabited by spirits; cyclical conception of time tied to seasons and herding cycles; specifics unrecoverable without written sources.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Offerings at prominent landscape features (mountain passes, springs, caves) probable; animal sacrifice likely as camelids become central to economy; ritual marking of planting and harvest cycles; communal ceremonies at seasonal aggregations.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No formal religious institutions; ritual knowledge held by elders or lineage specialists; doctrinal authority diffuse; practice localized to kin and band level.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Highland spiritual practices regionally bounded; no evidence of external religious influence or displacement during this window; local traditions stable and gradually elaborating as agropastoralism matures.<br><br>
-__Disenchantment & Sacred Discharge:__ No evidence of spiritual erosion; ritual practice appears to effectively integrate the emerging agropastoral economy into a coherent cosmological framework; the sacred remains vital and expanding.<br><br>
+# __6,000 BCE – 3,000 BCE__ — Highland Domestication and Agropastoral Emergence
+
+__Summary:__ Across three millennia in the high puna and intermontane valleys of the central Andes, scattered bands of hunter-gatherers incrementally domesticate the llama and alpaca from wild camelids, cultivate potato, quinoa, and other high-altitude crops, and forge a new mode of life — agropastoralism — that will underpin Andean civilization for the next five thousand years; the binding constraint is that every step of this transformation — the selection of breeding stock, the timing of planting, the rights to pasture and field — depends on orally transmitted knowledge, with no written record to stabilize technique or title.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The setting is the high puna grasslands (3,800–4,800 m) and the intermontane valleys (2,500–3,500 m) of the central Andes, from the Junín plateau in Peru through the Lake Titicaca basin to the Bolivian altiplano — a landscape of frost-prone basins, bunchgrass steppes, and steep valleys where altitude compresses ecological zones into short horizontal distances.
+
+__Climate Regime & Volatility:__ The mid-Holocene (~6,000–3,000 BCE) sees gradual warming and increased precipitation in the highlands relative to the preceding arid phase; glaciers retreat, lakes stabilize, and grassland productivity rises — conditions favorable to camelid herds and incipient agriculture, though frost risk remains ever-present above 3,500 m.
+
+__Hazard Regime & Exposure:__ Drought, frost, hail, and landslide are perennial hazards; volcanic activity and seismicity affect segments of the cordillera; interannual variability is high, with periodic multi-year droughts that stress both pasture and crops.
+
+__Resource & Energy Endowment:__ Wild camelids (guanaco, vicuna) graze the puna in abundance; tuber-bearing plants (wild potato, oca, ulluco) and chenopods (wild quinoa, canihua) grow at altitude; lithic material (obsidian, basalt, chert) is locally available; fuel is limited to dried dung and sparse woody shrubs.
+
+__Waste Absorption & Sink Capacity:__ Human impact is light; small populations leave modest refuse; soils are thin and easily eroded if disturbed, but no evidence of degradation within the window; the sink is capacious relative to the load.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ High altitude limits pathogen diversity; cold and UV radiation suppress many vectors; respiratory and enteric infections occur, but epidemic disease is absent; infant mortality is elevated due to hypoxia and nutritional stress.
+
+__Nutrition & Physiological Vitality:__ Diet shifts from hunted guanaco and gathered tubers toward a mix of herded camelid meat and blood, cultivated tubers and grains, and gathered wild foods; nutritional adequacy improves with domestication, supporting population growth.
+
+__Care, Healing & Recovery Capacity:__ Wound-tending, bone-setting, and plant-based remedies (coca, medicinal herbs) are transmitted orally within kin groups; no specialized healing institution exists; care capacity is adequate for the small, dispersed population.
+
+__Reproductive Biology & Pairing Dynamics:__ Physiological adaptation to high altitude (larger lung capacity, higher hemoglobin) is already present in these populations; pair-bonding and household formation follow flexible, kin-based patterns; fertility is moderate, constrained by workload and altitude.
+
+__Demographic Renewal & Density:__ Population grows slowly as domestication raises carrying capacity; densities remain low — perhaps a few persons per square kilometer across favorable zones; cemetery and habitation evidence shows gradual filling-in of the landscape over millennia.
+
+__Attrition & Dependency Overhang:__ The dependent load (children, elderly) is absorbed within extended kin households; camelid herding provides portable wealth that can buffer dependency; no evidence of abandonment or strain.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The subsistence base transitions from hunting and gathering to mixed agropastoralism: herded llamas and alpacas provide meat, blood, wool, and transport; cultivated potato, quinoa, oca, and ulluco supply carbohydrates; wild foods remain supplementary.
+
+__Energy Capture & Conversion:__ Human muscle remains the primary mover, now augmented by llama as pack animal — a critical energy gain allowing transport of goods across vertical zones; fire fueled by dung and woody shrubs powers cooking and heating.
+
+__Labor Organization & Coercion:__ Labor is organized by household and gender: men tend herds, hunt, and manage long-distance caravan movement; women cultivate, process food, and weave; children assist in herding; labor is familial, not coerced.
+
+__Production & Surplus Capacity:__ Surplus emerges with domestication: dried meat (charki), freeze-dried potatoes (chuno), and stored quinoa can be accumulated; herds themselves represent a renewable, mobile surplus; the production ceiling rises with each generation of selective breeding and crop improvement.
+
+__Storage, Reserves & Buffering:__ Freeze-drying (exploiting frost and sun) and dehydration allow indefinite storage of tubers and meat; qollqa (storage facilities) appear later, but informal pits and structures serve in this period; risk pooling occurs through kin-based herd-sharing and exchange.
+
+__Exchange, Trade & Logistics:__ Vertical exchange connects puna herders with valley farmers and coastal fishers: wool, meat, and obsidian move down; marine products, cotton, and tropical goods move up; llama caravans enable bulk transport over mountain passes; exchange is gift-based and reciprocal, terms remembered and recited.
+
+__Value Storage, Credit & Deferred Exchange:__ Llamas and alpacas serve as a proto-currency: countable, divisible (by birth), storable, and widely desired; deferred reciprocity ("I give animals now, you owe goods later") structures inter-zonal relations; no formal unit of account exists.
+
+__Surplus Extraction & Redistribution:__ No centralized extraction; surplus redistribution occurs through communal feasting, bride-wealth payments, and mortuary offerings; emerging differentiation allows some households to accumulate larger herds.
+
+__Wealth Distribution & Asset Defense:__ Differentiation increases as successful herders accumulate animals; wealth defense relies on kin alliances and physical dispersion; raiding and theft are risks, but the landscape's openness and low population density limit conflict.
+
+__Byproducts & Waste Routing:__ Camelid dung is recycled as fuel and fertilizer; butchery waste feeds dogs and scavengers; no evidence of pollution or resource degradation within the window.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Kinship is bilateral or patrilineal with local variation; the ayllu (a kin-based landholding group) may have roots in this period, though its formal structure crystallizes later; inheritance transmits herds, fields, and pasture rights within kin lines.
+
+__Association & Mutual Aid:__ Bands and hamlets cooperate in communal hunts (chacu), herd drives, and canal-digging; mutual aid extends through kin networks across vertical zones; reciprocity obligations (ayni) bind households.
+
+__Leisure, Play & Sociability:__ Seasonal gatherings for communal hunts, planting, and harvest provide sociability; music (bone flutes, drums) and feasting accompany ritual events; leisure is embedded in the agricultural and pastoral calendar.
+
+__Stratification, Status & Group Structure:__ Stratification is emergent: households with larger herds or more productive fields enjoy higher status; achieved prestige accrues to skilled herders, orators, and ritual specialists; hereditary rank is not yet consolidated.
+
+__Administrative Capacity & Institutional Integrity:__ No formal administration; coordination is achieved through kin leaders, oral consensus, and remembered precedent; disputes over pasture, water, and animals are settled by elders; the system is decentralized and flexible.
+
+__Coercive Apparatus & Means of Force:__ Weapons (slings, clubs, spears, atlatls) serve for hunting and defense; intergroup conflict over pasture and herds occurs but remains limited and localized; no fortifications or standing warriors; conflict resolution proceeds through negotiation, compensation, and fission.
+
+__Discharge, Disorder & Decay:__ Friction is absorbed through kin mediation, band fission, and seasonal mobility; no evidence of accumulated grievance, structural exclusion, or apparatus breakdown — the system remains small-scale and adaptive.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Trust extends through kin and exchange partners across vertical zones; the radius of confidence widens as long-distance caravan networks embed relationships; sentiment is cautious but cooperative.
+
+__Leadership & Personal Authority:__ Authority is achieved through skill, generosity, and oratorical ability; leaders of communal hunts, caravan expeditions, and ritual events command respect without coercive power; leadership rotates by context.
+
+__Legitimacy as Lived Allegiance:__ Allegiance runs to kin, herd, field, and ancestral place; legitimacy is grounded in oral genealogy and remembered precedent; the founding ancestors of pasture and field rights are invoked in disputes.
+
+__Political Will & Collective Resolve:__ Collective action is episodic — communal hunts, canal construction, ritual gatherings — and dissolves when the task is done; no standing mobilization or long-term political projects; will is local and immediate.
+
+__External Relations & Posture:__ Relations with coastal and valley communities are generally peaceable, structured by exchange; competition over pasture and herds creates tension among highland groups, but outright warfare is rare and localized.
+
+__Disaffection, Apathy & Spent Will:__ The small scale and kin intimacy of the band limit disaffection; individuals who fall out may relocate or fission off; no evidence of collective apathy or exhaustion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Spoken language is fully developed; regional dialects may diverge across the cordillera, but mutual intelligibility persists among adjacent groups; no script or notation exists — all knowledge rides on voice and memory.
+
+__Channels & Transmission Velocity:__ Information travels at the speed of a walking llama caravan or running messenger; vertical exchange routes double as communication channels; news, warnings, and invitations spread through kin visitation and trade contact.
+
+__Record, Storage & Persistence:__ Memory is the sole archive; genealogies, pasture boundaries, planting calendars, breeding histories, and ritual knowledge are retained in the heads of elders and specialists and transmitted orally; the landscape itself (rock cairns, boundary markers) serves as a mnemonic device.
+
+__Framing, Censorship & Discourse Norms:__ Ritual speech surrounding planting, herding, and sacrifice likely follows formulaic patterns; proprietary knowledge (breeding techniques, sacred sites) may be restricted to initiated adults; social sanction enforces norms.
+
+__Reception, Attention & Amplification:__ The audience is small and face-to-face; amplification occurs through repetition, song, and communal recitation; prestige accrues to skilled orators and memory-keepers.
+
+__Signal Integrity & Noise Load:__ Transmission fidelity depends on repetition, redundancy, and cross-checking among memory-holders; over generations, drift and loss are inevitable; no external verification mechanism exists.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The shared conscience centers on reciprocity (ayni), obligation to kin, and respect for ancestors and sacred places; fairness is measured by balance of exchange and fulfillment of duty; transgression invites social sanction and supernatural retribution.
+
+__Law, Codification & Regulatory Evolution:__ No written law; binding customs govern herd inheritance, pasture rights, marriage, and sacrifice; norms are transmitted orally and enforced by kin and community pressure.
+
+__Adjudication, Liability & Sanction:__ Disputes are settled within the kin group or by respected elders; sanctions include shaming, compensation (in animals or goods), and expulsion; no formal court or standing judiciary exists.
+
+__Rights, Protections & Compliance Burden:__ Rights attach to kinship status and ayllu membership; individual autonomy is high within the group; compliance burden is low — norms are internalized and socially enforced.
+
+__Impunity & Unredressed Wrong:__ The small scale of the community limits impunity; wrongs are remembered across generations and recited; persistent offenders face exclusion — the community is too intimate for unredressed grievance to accumulate long.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Understanding is practical and observational: reading weather signs, tracking animal health, timing planting by frost and rain, selecting breeding stock by conformation — empirical knowledge embedded in oral tradition rather than formal theory.
+
+__Applied Knowledge & Technical Method:__ Domestication technique reaches sophistication: controlled breeding isolates desirable traits in llamas and alpacas (wool quality, docility, size); cultivation technique develops: selecting tuber varieties, timing planting by altitude and frost, rotating fields; freeze-drying (chuno) and dehydration are perfected.
+
+__Education, Knowledge Stock & Skill Distribution:__ Children learn by observation and guided participation; specialized skills (breeding selection, ritual knowledge, textile production) pass within kin lines; the knowledge stock is narrow but deep in its agropastoral domain.
+
+__Obsolescence & Knowledge Decay:__ Loss occurs when a skilled practitioner dies without transmitting; domestication knowledge accumulates across generations, but variant techniques and wild-resource skills may atrophy as the new economy dominates.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Identity is anchored in lineage, herd, field, and mountain — the apus (mountain spirits) and pachamama (earth mother) likely figure in emerging cosmology; origin narratives (unrecorded) probably tie communities to founding ancestors and sacred places.
+
+__Legitimating Narrative & Ideology:__ The domestication achievement itself becomes a legitimating narrative: "our ancestors tamed the llama, planted the potato, claimed this pasture" — a story of founding acts that justifies kin claims to land and animals.
+
+__Artistic Expression & Material Culture:__ Expression appears in textiles (early woven and looped fabrics using camelid wool), pottery (where present), and rock art (painted and engraved camelid figures in caves and shelters); color palette is natural — white, brown, black, and ochre; geometric and zoomorphic motifs predominate.
+
+__Form Exhaustion & Meaning Decay:__ Within this window, forms are generative rather than exhausted; the new pastoral and agricultural economy calls forth new symbols (camelid imagery, planting motifs) that remain vital and expanding.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The emerging cosmology centers on reciprocity between humans, animals, earth, and mountains; the apus (mountain spirits) control weather and pasture; pachamama (earth mother) governs fertility; offerings ensure continued abundance.
+
+__Ritual, Devotion & Sacred Practice:__ Ritual accompanies planting, harvest, and herd increase: offerings of coca, chicha (maize beer, where maize is available), and sacrificed animals to earth and mountain; rock shelters and caves serve as sacred sites; the calendar is liturgical as well as agricultural.
+
+__Religious Institutions & Doctrinal Authority:__ No formal priesthood; ritual knowledge resides with lineage elders or specialists whose authority rests on skill and memory; doctrine is oral, passed through apprenticeship and recitation within kin lines.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ The agropastoral cosmology spreads with the economy across the highlands; no competing cosmology displaces it within the window; regional variation exists, but the core reciprocity framework is shared.
+
+__Disenchantment & Sacred Discharge:__ The sacred remains anchored in mountain, earth, and herd; no evidence of secularizing drift or disenchantment within the window — the cosmology deepens as the agropastoral economy expands and its rituals multiply.
+

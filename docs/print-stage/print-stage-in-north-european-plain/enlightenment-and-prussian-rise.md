@@ -1,69 +1,139 @@
-# __1740 CE – 1789 CE__ — Enlightenment and Prussian Rise
-__Summary:__ A long-term trend across the North European Plain as Enlightenment ideas spread through learned journals and reading societies while Prussia emerges as a major power under Frederick II; the binding constraint is the tension between reform aspirations of educated elites and the entrenched structures of absolutist territorial states; margin against shock remains moderate as demographic recovery nears completion; the trajectory moves toward administrative rationalization, expanding literacy, and the first stirrings of public opinion as a political force.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The lowland corridor remains the spatial arena; improved roads and postal networks reduce transit friction; river navigation enhanced; territorial fragmentation continues to impose toll barriers but movement accelerates compared to the previous era.<br><br>
-__Climate Regime & Volatility:__ Little Ice Age conditions persisting with cold winters; harvest volatility continues but agricultural improvements buffer impacts; no major secular drift; provisioning margins wider than the post-war period.<br><br>
-__Hazard Regime & Exposure:__ Flood risk along rivers persists; major floods on Oder and Vistula periodically disrupt; no seismic or volcanic hazards; war remains the primary hazard, with the Seven Years War causing significant regional damage.<br><br>
-__Resource & Energy Endowment:__ Silesian coal and iron resources under Prussian control after 1740; timber exploitation continues; peat in Netherlands; endowment adequate for proto-industrial expansion; no resource depletion pressure.<br><br>
-__Waste Absorption & Sink Capacity:__ Proto-industrial waste loads increasing but still trivial relative to absorptive capacity; urban sanitation improving in some capitals; no saturation of environmental sinks.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases persist but epidemic intensity declining; smallpox inoculation spreading among elites; mortality baseline trending downward; urban conditions improving with better sanitation awareness.<br><br>
-__Nutrition & Physiological Vitality:__ Potato cultivation spreading, improving caloric security; nutrition improving especially in Prussia and Netherlands; stature beginning to recover; vitality rising as famine frequency declines.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage age stable; fertility within marriage high; reproductive biology unchanged; pairing dynamics governed by property considerations and guild regulations.<br><br>
-__Demographic Renewal & Density:__ Population growth accelerating as mortality declines; density rising toward pre-Thirty Years War levels; renewal robust; some emigration to Russia and Americas providing outlet.<br><br>
-__Attrition & Dependency Overhang:__ War casualties from Silesian Wars and Seven Years War create new dependency cohorts; Poor Law provisions and charitable institutions absorb most; overhang manageable within institutional capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Agricultural improvement spreading; potato as famine buffer; subsistence floor rising above bare survival for most; crisis provisioning still necessary in bad years but less frequent.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle remain dominant; waterpower for proto-industrial mills; early coal use in some manufactures; per-capita work ceiling slowly rising with draft animal and waterpower expansion.<br><br>
-__Labor Organization & Coercion:__ Serfdom continues east of Elbe despite reform discussions; west sees freer labor markets; guild regulations persist but loosening; wage labor expanding in proto-industrial regions; coercion level high in east, moderate in west.<br><br>
-__Production & Surplus Capacity:__ Proto-industrial textile and metal production expanding; Prussian manufactures growing under state encouragement; Dutch commercial production mature; surplus capacity increasing with population and productivity.<br><br>
-__Storage, Reserves & Buffering:__ State granaries more systematic; treasury reserves for military purposes built up in Prussia; merchant capital providing buffering; reserves adequate for normal fluctuations though war strains capacity.<br><br>
-__Exchange, Trade & Logistics:__ Internal trade expanding; toll barriers remain but transit improving; Amsterdam and Hamburg as commercial centers; Leipzig fairs continue; logistics improving with road investment.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver and gold currency; Amsterdam capital market dominant; Prussian state credit developing; private banking expanding; credit networks more sophisticated; purchasing power relatively stable.<br><br>
-__Surplus Extraction & Redistribution:__ Cameral administration refined; Prussian efficiency becomes model; tax burden significant but regularized; seigneurial extraction continues in east; redistribution primarily military and court oriented.<br><br>
-__Wealth Distribution & Asset Defense:__ Noble landholding concentrated; bourgeois wealth accumulating in commerce and proto-industry; some social mobility through education and state service; asset defense through legal title and noble privilege.<br><br>
-__Byproducts & Waste Routing:__ Proto-industrial waste increasing but dispersed; urban waste managed through traditional channels; no pressure on sinks; routing decisions remain informal.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radius widening through reading societies and Masonic lodges; cross-confessional contacts increasing among educated; mutual aid through guilds, parishes, and voluntary associations; cosmopolitan ideals spreading among elites.<br><br>
-__Stratification, Status & Group Identity:__ Three-estate structure persists but educated bourgeoisie gaining cultural prestige; confessional identity softening among Enlightened; merit beginning to complement birth as status marker; boundaries slowly loosening.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal inheritance continues; family structures stable; marriage patterns class-differentiated; some reform discussion of inheritance law but little practical change.<br><br>
-__Civic Association & Self-Organization:__ Reading societies, Masonic lodges, learned academies proliferate; guilds retain economic role but cultural associations multiply; associational life thickening outside state supervision.<br><br>
-__Leisure, Play & Sociability:__ Coffeehouses and salons for educated; theater and concert life expanding; public gardens in capitals; carnival and traditional festivities continue; class-differentiated leisure patterns crystallizing.<br><br>
-__Grievance Channels & Social Discharge:__ Petitions to enlightened rulers; reform through journals and academies; emigration possible; Josephinist reforms attempt top-down discharge; social friction absorbed through channels but reform expectations building.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Enlightened absolutism in Prussia under Frederick II and Austria under Joseph II; territorial sovereignty intact; reform from above; power concentrated but legitimated through rational improvement rhetoric.<br><br>
-__Succession & Power Transfer:__ Dynastic succession continues; War of Austrian Succession and Bavarian Succession demonstrate succession disputes remain flashpoints; Prussian succession smooth; transfer mechanisms routinized within territories.<br><br>
-__Legitimacy & Political Narrative:__ Enlightened despotism justifies rule through rational improvement and public welfare; Frederick as philosopher-king ideal; older divine right giving way to utilitarian justification among elites.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Prussian bureaucracy becomes European model; Austrian reforms under Maria Theresa and Joseph II; record-keeping systematic; corruption controlled; administrative capacity high and expanding.<br><br>
-__Political Participation & Mobilization:__ No popular participation; estates consultative at best; reform debate confined to journals and academies; public opinion emerging as force rulers must consider; mobilization not yet on agenda.<br><br>
-__Geopolitical Position & External Relations:__ Prussia rises to great power status; Frederick's wars reshape European balance; Austria loses Silesia but retains great power rank; Poland weakening toward partition; Dutch declining from maritime peak.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing armies refined; Prussian army as model of discipline; linear tactics with musket and bayonet; fortification science mature; state monopoly on force consolidated.<br><br>
-__Internal Order & Threat Environment:__ Internal order well maintained; crime and banditry suppressed; no significant rebellion; disorder minimal; coercive capacity exceeds threat load with comfortable margin.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Postal networks expand and accelerate; learned journals multiply; weekly newspapers in major cities; book trade flourishes; velocity measured in days across the plain; reach extending to educated classes throughout.<br><br>
-__Record, Storage & Persistence:__ State archives systematic; library collections grow; learned journals provide durable record of scholarship; persistence high; administrative records comprehensive.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship varies by territory; Prussia relatively tolerant; Austria reforms then retracts; Enlightenment discourse establishes reason and evidence as norms among educated; religious controversy muted; reform debate permitted within limits.<br><br>
-__Reception, Attention & Amplification:__ Literate public expanding; reading societies distribute journals widely; lending libraries multiply; attention concentrated on moral weeklies and reform publications; amplification through correspondence networks.<br><br>
-__Signal Integrity & Noise Load:__ Scholarly peer review through journals; learned academies vet claims; noise load moderate; Enlightenment emphasis on verification improves signal quality among educated public.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Natural law secularizing; utilitarian considerations entering; punishment reform debates; justice understood increasingly in rational rather than divine terms among reformers.<br><br>
-__Law, Codification & Regulatory Evolution:__ Major codification projects: Prussian Allgemeines Landrecht drafted; Austrian Josephinist reforms; Roman law tradition continuing; codification advancing as Enlightenment project.<br><br>
-__Adjudication, Enforcement & Liability:__ State courts primary; seigneurial justice declining in west; torture abolition debated and partially implemented; enforcement capacity high; liability assignment increasingly systematic.<br><br>
-__Rights, Protections & Compliance Burden:__ Property rights strengthening; religious tolerance expanding under Joseph II then partly retracted; compliance burden regularized through codification; predictability improving.<br><br>
-__Impunity & Unredressed Wrong:__ Noble privilege persists but reformers criticizing; state courts reaching further; impunity gap narrowing as administrative justice expands; some unredressed wrong in peasant complaints against lords.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ German Enlightenment flourishing; Kant's critical philosophy transformative; scientific inquiry advancing in physics, chemistry, natural history; university reform beginning; paradigm shifting toward systematic rational inquiry.<br><br>
-__Applied Knowledge & Technical Method:__ Cameralist administrative science refined; agricultural improvement techniques spreading; mining engineering advancing; technical education expanding through specialized schools.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Literacy expanding; Volksschulen spreading in Prussia; university reform beginning at Gottingen; knowledge stock growing through journals and academies; skill distribution widening but still elite-concentrated.<br><br>
-__Obsolescence & Knowledge Decay:__ Scholastic methods obsolescing; Enlightenment critique clearing accumulated dogma; knowledge decay minimal as journal publication preserves findings; some craft knowledge lost as guild system erodes.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Enlightenment cosmopolitanism challenges traditional identities; German cultural identity crystallizing through language and literature; Lessing, Goethe, Schiller creating national literature; memory of wars fading; new cultural foundation forming.<br><br>
-__Artistic Expression & Material Culture:__ Baroque giving way to neoclassical; Weimar classicism in literature; music flourishing — Haydn, Mozart; architecture simplifying toward classical forms; material culture expressing rational order and refined taste.<br><br>
-__Collective Mood & Behavioral Disposition:__ Optimism among educated; belief in progress and improvement; confidence in reason; cautious reformism the prevailing temper; Sturm und Drang emotional reaction emerging but contained.<br><br>
-__Form Exhaustion & Meaning Decay:__ Baroque forms exhausting; rococo seen as frivolous; neoclassical renewal providing fresh forms; Enlightenment providing new meaning systems; form exhaustion driving stylistic transition rather than creating void.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Deism spreading among educated; mechanistic worldview challenging providence; traditional piety persists among masses; doubt and secularism emerging among elites; balance shifting toward rational religion.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Church attendance continues; Pietist devotional practices flourishing; Catholic baroque piety persisting but reformers criticizing excess; ritual observance declining slightly among urban educated.<br><br>
-__Religious Institutions & Doctrinal Authority:__ State churches under princely control; Josephinist reforms attack monastic orders and church privileges; doctrinal authority contested by rational theology; institutional power diminishing under Enlightened rulers.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Toleration edicts allow limited pluralism; Jewish emancipation beginning; Enlightenment rationalism spreading as quasi-spiritual worldview; displacement of traditional piety beginning among educated.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularizing drift accelerating among educated classes; Masonic and rationalist substitutes emerging; traditional sacred framework eroding at elite level while persisting among common folk; disenchantment accumulating as standing condition among philosophes.<br><br>
+# __1740 CE – 1789 CE — Enlightenment and Prussian Rise__
+
+__Summary:__ The North European Plain transforms under Enlightened Absolutism as Frederick the Great's Prussia becomes a European great power, print culture expands through periodicals and moral weeklies, and the Aufklarung produces a German reading public; the binding constraint is the tension between reforming monarchs who tolerate religious dissent and intellectual critique while suppressing political opposition, channeling print into cultural and philosophical discourse rather than public political debate.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The plain's river systems and improving roads accelerate exchange; Prussia's acquisition of Silesia (1740–1742) and participation in Polish partitions (1772) extend its territory across the northern plain from the Rhine to the Vistula.
+
+__Climate Regime & Volatility:__ The Little Ice Age moderates; agricultural productivity improves, though severe winters (1740, 1788–1789) and harvest failures (1770–1772) cause regional subsistence crises.
+
+__Hazard Regime & Exposure:__ No major seismic or volcanic hazards affect the region; epidemic disease recedes as plague disappears from the European repertoire, though typhus and smallpox persist.
+
+__Resource & Energy Endowment:__ Silesian coal and metal ores support proto-industrial expansion; Baltic timber and grain remain export staples; energy capture remains pre-industrial but intensifying.
+
+__Waste Absorption & Sink Capacity:__ Population growth increases pressure on urban sanitation; sink capacity remains adequate for the scale of activity, though urban effluent accumulates in rivers.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Smallpox remains endemic, claiming thousands annually; inoculation spreads among elites after mid-century; typhus and dysentery persist in garrison towns and among the poor.
+
+__Nutrition & Physiological Vitality:__ The potato's spread improves caloric security; average nutrition improves, reflected in rising heights among military recruits by the 1780s.
+
+__Care, Healing & Recovery Capacity:__ Medical faculties (Halle, Gottingen, Vienna) advance clinical training; charitable hospitals expand in major cities; midwifery training improves under state programs.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage remains regulated by guild membership and landholding; illegitimacy rises modestly in urban centers; fertility remains high within marriage.
+
+__Demographic Renewal & Density:__ Population grows steadily: Brandenburg-Prussia from ~2.5 million (1740) to ~5.5 million (1786); the German lands overall approach 24 million by 1789; migration to underpopulated eastern territories continues.
+
+__Attrition & Dependency Overhang:__ War casualties from the Seven Years' War (1756–1763) create a cohort of widows and orphans; state and communal resources absorb the load over the following decade.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The potato and improved crop rotations raise the subsistence floor; grain exports from Prussia and Poland integrate the region into European markets.
+
+__Energy Capture & Conversion:__ Water and wind power expand; horse-drawn haulage improves; coal use increases in Silesian metalwork; per-capita energy capture rises modestly.
+
+__Labor Organization & Coercion:__ Serfdom persists east of the Elbe but reforms begin (Austrian patents, Prussian domain reforms); guild regulation erodes under mercantilist competition; wage labor expands in proto-industrial regions (Rhineland textiles, Silesian linen).
+
+__Production & Surplus Capacity:__ Agricultural surplus supports population growth and urbanization; proto-industrial production (textiles, metalwares) expands; Prussian royal manufactories (porcelain, arms) represent state-led enterprise.
+
+__Storage, Reserves & Buffering:__ Prussian state granaries and a war chest accumulated through fiscal discipline provide resilience; the Seven Years' War depletes reserves but post-war recovery is rapid.
+
+__Exchange, Trade & Logistics:__ The Leipzig book fair reaches its apogee; inland trade routes improve; Prussian tariff policy protects domestic industry; Baltic grain trade sustains Dutch and British markets.
+
+__Value Storage, Credit & Deferred Exchange:__ Banking remains underdeveloped compared to Amsterdam and London; state borrowing finances war; currency stabilizes under Prussian monetary reform (1750–1755).
+
+__Surplus Extraction & Redistribution:__ Taxation is heavy but relatively equitable in Prussia; Austrian and Polish magnates resist fiscal reform; state revenues fund military expansion and mercantilist projects.
+
+__Wealth Distribution & Asset Defense:__ Junker estates and mercantile fortunes concentrate wealth; modest urban bourgeoisie accumulates through trade and professions; peasant holdings remain burdened by dues.
+
+__Byproducts & Waste Routing:__ Urban and proto-industrial waste accumulates; tanneries, dye works, and slaughterhouses pollute waterways; no systematic waste management.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal inheritance persists; noble entail protects estates; partible inheritance in some regions fragments peasant holdings; bourgeois families adopt nuclear patterns.
+
+__Association & Mutual Aid:__ Guilds decline under mercantilist pressure but persist in conservative trades; masonic lodges and reading societies (Lesegesellschaften) provide new associational forms for educated elites.
+
+__Leisure, Play & Sociability:__ Coffeehouses, salons, and reading circles multiply; court festivals continue but bourgeois sociability expands; public concerts and theaters open urban cultural life.
+
+__Stratification, Status & Group Structure:__ The Bildungsburgertum (educated bourgeoisie) emerges as a distinct stratum; state service provides social mobility for educated commoners; the Junker-officer nexus consolidates in Prussia.
+
+__Administrative Capacity & Institutional Integrity:__ Prussian bureaucracy becomes the European model; the General Directory coordinates policy; Austrian reforms (Maria Theresa, Joseph II) centralize Habsburg administration; Polish reform fails before partition.
+
+__Coercive Apparatus & Means of Force:__ The Prussian army, rebuilt after the Seven Years' War, reaches 190,000 by 1786; the canton system links peasant conscription to Junker officers; Austrian military reforms lag behind Prussian professionalization.
+
+__Discharge, Disorder & Decay:__ Banditry and rural disorder decline under improved policing; urban crime persists but is contained; no major rebellions disturb the German lands in this period.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Enlightened optimism spreads among the educated; trust in reason and improvement characterizes the reading public; popular sentiment remains deferential but responsive to war and harvest failure.
+
+__Leadership & Personal Authority:__ Frederick the Great embodies Enlightened Absolutism, cultivating a philosopher-king image; Maria Theresa and Joseph II represent reforming authority in Austria; lesser princes imitate Frederician style.
+
+__Legitimacy as Lived Allegiance:__ Dynastic loyalty remains the foundation; Enlightened reform enhances legitimacy by delivering order, prosperity, and cultural prestige; criticism remains theoretical.
+
+__Political Will & Collective Resolve:__ State-building will is strong among reforming monarchs; the Seven Years' War tests and confirms Prussian resolve; collective will remains channeled through dynastic loyalty rather than national sentiment.
+
+__External Relations & Posture:__ Prussia achieves great-power status; the balance of power in the German lands shifts from Austria to Austro-Prussian dualism; Polish partitions demonstrate the consequences of political dysfunction.
+
+__Disaffection, Apathy & Spent Will:__ Post-war weariness follows the Seven Years' War; disaffection remains latent among subjects excluded from reform; the political passivity of the reading public reflects censorship constraints.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ High German consolidates as the literary standard; dialects persist in speech; Latin declines as the language of learning; French remains the diplomatic and court language.
+
+__Channels & Transmission Velocity:__ Postal services expand and accelerate; periodicals (moral weeklies, learned journals) reach subscribers within days of publication; the Frankfurt and Leipzig fairs distribute books across the region.
+
+__Record, Storage & Persistence:__ State archives, university libraries, and private collections grow; the Allgemeine Deutsche Bibliothek reviews thousands of titles annually; knowledge accumulates in printed form.
+
+__Framing, Censorship & Discourse Norms:__ Frederick tolerates religious and philosophical debate but suppresses political criticism; Joseph II's brief press freedom (1781–1790) opens then closes; censorship varies by territory but channels discourse away from politics.
+
+__Reception, Attention & Amplification:__ The reading public expands: perhaps 300,000 regular book readers in the German lands by 1780; reading societies multiply access; periodicals shape opinion among the educated.
+
+__Signal Integrity & Noise Load:__ Print stabilizes texts; but the flood of periodicals and pamphlets produces information overload among the attentive; rumor and manuscript news supplement print.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Natural law and Enlightenment rationalism challenge revealed religion as the foundation of ethics; Kant's moral philosophy (1780s) offers a secular grounding.
+
+__Law, Codification & Regulatory Evolution:__ Codification projects advance: the Prussian Allgemeines Landrecht (drafted 1780s, enacted 1794) and Austrian reforms rationalize law; torture is abolished in Prussia (1740) and Austria (1776).
+
+__Adjudication, Liability & Sanction:__ Courts become more professional; judicial torture declines; capital punishment persists but is applied less frequently; prisons begin to supplement corporal punishment.
+
+__Rights, Protections & Compliance Burden:__ Subjects gain limited protections under Enlightened reform; religious toleration expands (Toleration Patent, 1781); compliance burdens ease for non-Catholics; serfdom remains a constraint on peasant rights.
+
+__Impunity & Unredressed Wrong:__ Noble privilege persists but is constrained by reforming states; judicial independence remains incomplete; impunity narrows but is not eliminated.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The German Enlightenment (Aufklarung) produces original philosophy (Kant, Lessing, Mendelssohn); universities (Gottingen, Halle) become research centers; the camera obscura of Wolffian rationalism gives way to critical philosophy.
+
+__Applied Knowledge & Technical Method:__ Cameralist statecraft applies knowledge to governance; agricultural improvement spreads through manuals and societies; mining and metallurgy advance in Saxony and Silesia.
+
+__Education, Knowledge Stock & Skill Distribution:__ Primary schooling expands under state mandate (Prussia: General School Regulation, 1763); literacy reaches perhaps 50% in Protestant regions; the Gymnasium and university educate the Bildungsburgertum.
+
+__Obsolescence & Knowledge Decay:__ Wolffian scholasticism declines under Kantian critique; classical learning persists but is supplemented by vernacular knowledge; practical obsolescence accelerates in improving trades.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ German cultural identity coalesces around language and literature rather than state; the Sturm und Drang movement (1770s) asserts emotional authenticity against French classicism.
+
+__Legitimating Narrative & Ideology:__ Enlightened Absolutism claims legitimacy through rational reform and benevolent governance; Frederick's Prussia is presented as a model state; dynastic continuity remains foundational.
+
+__Artistic Expression & Material Culture:__ Classicism and early Romanticism displace Baroque excess; Goethe and Schiller define literary German; Haydn and Mozart create the Viennese classical style; architecture turns to neo-classical restraint.
+
+__Form Exhaustion & Meaning Decay:__ Rococo refinement exhausts itself; Enlightenment rationalism begins to feel cold by the 1780s, preparing ground for Romantic reaction.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Deism and natural religion spread among the educated; the mechanistic cosmos of Newtonian physics coexists uneasily with providentiality; Kant's critiques delimit reason's reach while preserving moral faith.
+
+__Ritual, Devotion & Sacred Practice:__ Church attendance persists but pietist fervor wanes; Catholic reform (Josephinism) rationalizes liturgy and closes contemplative monasteries; popular devotion continues among the majority.
+
+__Religious Institutions & Doctrinal Authority:__ Territorial churches remain under state supervision; Joseph II's reforms subordinate the Catholic Church to state authority; Protestant orthodoxy loosens under Enlightenment critique.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Jewish communities gain limited toleration (Toleranzpatent); Enlightenment critique erodes clerical authority among elites; popular religion persists largely unchanged.
+
+__Disenchantment & Sacred Discharge:__ Secularizing drift accelerates among the Bildungsburgertum; Kant's critique of metaphysics marks a philosophical disenchantment; yet the void is not yet felt as existential crisis among the majority, who retain traditional faith.

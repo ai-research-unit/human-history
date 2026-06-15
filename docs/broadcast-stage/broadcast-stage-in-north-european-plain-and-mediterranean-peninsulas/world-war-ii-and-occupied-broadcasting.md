@@ -1,69 +1,139 @@
-# __1939 CE – 1945 CE__ — World War II and Occupied Broadcasting
-__Summary:__ Total war transforms European broadcasting into a weapon of occupation, resistance, and psychological warfare; Nazi Germany extends its propaganda apparatus across conquered territories while BBC European Service becomes the voice of resistance, creating an informational battlefront parallel to the military one; the binding constraint is physical control of transmitters and receivers, which shifts with military occupation and liberation; margins collapse entirely as broadcasting becomes a survival-critical resource for maintaining population morale and coordinating resistance, trending toward Allied informational dominance as military fortunes reverse.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Military operations destroy transmitter infrastructure across the continent; the English Channel protects BBC transmission facilities; Alpine and Pyrenean terrain shelters partisan radio operations; urban bombing devastates broadcast infrastructure in Germany and occupied cities.<br><br>
-__Climate Regime & Volatility:__ European climate unchanged; severe winters affect military operations and population survival but not broadcast technology directly; seasonal patterns continue with no climatic drift.<br><br>
-__Hazard Regime & Exposure:__ Bombing constitutes the primary hazard; Allied strategic bombing destroys German industrial and urban infrastructure; transmitter sites targeted; population exposure to acute destruction reaches unprecedented levels.<br><br>
-__Resource & Energy Endowment:__ Strategic bombing disrupts German energy supply; coal and electricity become scarce in occupied territories; copper and electronics components increasingly difficult to obtain; resource access contracts severely under blockade and bombardment.<br><br>
-__Waste Absorption & Sink Capacity:__ War debris, unexploded ordnance, and destruction overwhelm normal waste absorption; urban ruins accumulate; industrial pollution becomes secondary concern relative to physical destruction; sink capacity irrelevant amid catastrophe.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Combat deaths, Holocaust genocide, and civilian casualties raise mortality catastrophically; disease spreads in concentration camps and besieged cities; typhus and other wartime diseases reemerge; baseline mortality regime collapses.<br><br>
-__Nutrition & Physiological Vitality:__ Occupation and blockade cause widespread malnutrition; Dutch Hunger Winter kills thousands; caloric intake drops precipitously in occupied territories; physiological vitality degrades severely across affected populations.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ War separates couples; male mortality creates demographic imbalance; birth rates drop; reproductive biology intact but social conditions suppress family formation; selective pressure through differential mortality.<br><br>
-__Demographic Renewal & Density:__ Mass mortality and displacement create demographic catastrophe; Holocaust eliminates Jewish populations; military casualties concentrate among young males; population density fluctuates wildly with refugee flows and deportations.<br><br>
-__Attrition & Dependency Overhang:__ War creates massive orphan, widow, and disabled populations; dependency overhang accumulates faster than any absorption capacity; productive cohorts decimated; the load is not metabolized but deferred to postwar reconstruction.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Rationing systems struggle to maintain minimum caloric intake; black markets emerge; occupied populations face systematic extraction; subsistence floor breached for targeted populations and besieged areas.<br><br>
-__Energy Capture & Conversion:__ War economies maximize energy capture for military production; occupied territories stripped of fuel and power; civilian energy consumption restricted; per-capita energy for civilian use collapses.<br><br>
-__Labor Organization & Coercion:__ Forced labor deployed across Nazi-occupied Europe; millions conscripted for German war production; slave labor in concentration camps; coercion reaches maximum historical levels.<br><br>
-__Production & Surplus Capacity:__ War production dominates all economies; civilian production collapses; surplus directed entirely to military effort; by 1944 German production peaks even under bombing before collapsing in 1945.<br><br>
-__Storage, Reserves & Buffering:__ Strategic reserves depleted by war demands; no civilian buffer remains; household reserves exhausted; buffering capacity near zero by war end.<br><br>
-__Exchange, Trade & Logistics:__ Blockade and combat disrupt all normal trade; black markets and barter replace formal exchange; logistics systems repurposed for military supply; civilian distribution networks break down.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Currency loses meaning under occupation; Reichsmarks imposed across occupied Europe; inflation and requisition destroy savings; credit markets cease functioning for civilians.<br><br>
-__Surplus Extraction & Redistribution:__ Nazi occupation extracts maximum surplus from conquered territories; systematic looting of art, gold, and industrial equipment; redistribution serves German war effort exclusively; extraction approaches total.<br><br>
-__Wealth Distribution & Asset Defense:__ Jewish property systematically confiscated; occupation transfers wealth to Germany; no asset defense possible for targeted groups; wealth concentration by conquest rather than accumulation.<br><br>
-__Byproducts & Waste Routing:__ Normal waste concerns irrelevant amid destruction; war debris, human remains, and industrial wreckage accumulate; no systematic routing possible; waste simply accumulates uncleared.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust contracts to immediate survival networks; collaboration and resistance divide communities; denunciation culture under occupation destroys social fabric; mutual aid persists within resistance networks and immediate kin.<br><br>
-__Stratification, Status & Group Identity:__ Occupation imposes new stratification between collaborators and resisters; racial categories determine survival in Nazi system; Jewish populations marked for extermination; status hierarchies reorganized by occupation authority.<br><br>
-__Kinship, Family & Inheritance:__ Families separated by conscription, deportation, and death; inheritance disrupted by confiscation and displacement; kin networks shattered; family reconstitution deferred to postwar.<br><br>
-__Civic Association & Self-Organization:__ Independent associations suppressed under occupation; resistance networks form clandestinely; churches provide cover for some organization; civil society reduced to survival-oriented clusters.<br><br>
-__Leisure, Play & Sociability:__ Normal leisure suspended; radio listening becomes clandestine resistance activity in occupied zones; collective entertainment restricted or propagandized; sociability contracted to survival circles.<br><br>
-__Grievance Channels & Social Discharge:__ No legitimate grievance channels under occupation; resistance provides violent discharge; collaboration offers exit for some; massive unmetabolized grievance accumulates for postwar reckoning.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Nazi Germany exercises total authority across occupied Europe through military government and collaborationist regimes; Vichy France exemplifies partial autonomy under occupation; governments-in-exile maintain legal continuity from London; authority fragments between occupier, collaborator, and resistance.<br><br>
-__Succession & Power Transfer:__ No legitimate succession under occupation; collaborationist regimes exist at German pleasure; resistance movements prepare postwar transfer; power transfer achieved through military liberation not political process.<br><br>
-__Legitimacy & Political Narrative:__ Occupation regimes claim order and collaboration; resistance broadcasts counter-narratives via BBC; De Gaulle's broadcasts construct Free French legitimacy; narrative contest defines political battlefield.<br><br>
-__Administrative Capacity & Institutional Integrity:__ German occupation administration extends across continent; collaborationist bureaucracies administer daily control; resistance intelligence networks develop parallel capacity; corruption endemic under occupation pressures.<br><br>
-__Political Participation & Mobilization:__ Populations mobilized for war production and military service under coercion; resistance recruits volunteers; BBC broadcasts coordinate civilian resistance; participation forced or clandestine, never voluntary and open.<br><br>
-__Geopolitical Position & External Relations:__ Axis powers control continental Europe until 1943 reversal; Allied coalition builds toward invasion; neutral states navigate between powers; external relations determined by military front positions.<br><br>
-__Coercive Apparatus & Means of Force:__ Wehrmacht, SS, and Gestapo enforce occupation; collaborationist police assist; resistance develops armed capacity; Allied forces build toward invasion; coercive capacity determines territorial control.<br><br>
-__Internal Order & Threat Environment:__ Occupation enforces order through terror; resistance creates endemic threat; partisan warfare in southern and eastern Europe; disorder concentrated in active resistance zones; order maintained through violence not consent.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ BBC European Service reaches occupied populations via shortwave and medium wave; Nazi broadcasting maintains occupation channels; clandestine radio operated by resistance; transmission velocity remains real-time but channel access determines reach.<br><br>
-__Record, Storage & Persistence:__ War disrupts archives; broadcast recordings preserved selectively; resistance operates without documentation for security; historical record fragmentary; persistence of information compromised by conflict.<br><br>
-__Framing, Censorship & Discourse Norms:__ Total censorship under occupation; death penalty for listening to BBC in Nazi territories; resistance communication coded and secretive; discourse split between public propaganda and clandestine truth; permitted band maximally narrow under occupation.<br><br>
-__Reception, Attention & Amplification:__ Clandestine listening to BBC becomes resistance act; occupation populations develop covert reception practices; amplification through word-of-mouth after BBC broadcasts; attention intensified by scarcity and danger.<br><br>
-__Signal Integrity & Noise Load:__ Competing signals from BBC, Nazi broadcasting, and resistance create contested information environment; verification difficult under censorship; noise load high as propaganda and counter-propaganda clash; signal integrity depends on source trust.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ War crimes and Holocaust represent total collapse of moral foundations in perpetrator system; occupied populations maintain moral judgment against occupation; resistance claims moral legitimacy; sense of justice preserved in opposition, destroyed in perpetration.<br><br>
-__Law, Codification & Regulatory Evolution:__ Occupation law supersedes domestic law; emergency decrees govern daily life; Geneva Conventions nominally apply but are violated systematically; legal evolution suspended under military rule.<br><br>
-__Adjudication, Enforcement & Liability:__ Military tribunals and Gestapo replace normal courts; summary execution for resistance activity; no due process under occupation; liability determined by occupier discretion; enforcement absolute within occupied territory.<br><br>
-__Rights, Protections & Compliance Burden:__ No rights for occupied populations; Jews stripped of all protections and marked for extermination; compliance burden total; survival requires complete submission or total resistance.<br><br>
-__Impunity & Unredressed Wrong:__ War crimes proceed with complete impunity during occupation; Holocaust perpetrated without any contemporary accountability; wrong accumulates on scale unprecedented in history; redress deferred entirely to postwar tribunals.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ War mobilizes scientific inquiry for military application; radar, cryptography, and weapons development accelerate; nuclear physics advances toward the bomb; inquiry directed entirely by war requirements; theoretical work continues where resources permit.<br><br>
-__Applied Knowledge & Technical Method:__ Radio technology advances for military communication and propaganda; BBC develops sophisticated broadcast techniques for occupied Europe; resistance learns radio operation and cipher; applied knowledge focused on war-winning methods.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education disrupted by occupation and bombing; universities closed or nazified; technical skills redirected to war production; knowledge stock preserved in exile and underground; skill distribution narrowed by war demands.<br><br>
-__Obsolescence & Knowledge Decay:__ Normal knowledge obsolescence suspended; Holocaust destroys Jewish intellectual contribution to European knowledge; war disrupts generational knowledge transfer; decay concentrated in eliminated populations and destroyed institutions.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ War creates foundational trauma that will define postwar identity; resistance and collaboration divide national memories; occupation experience becomes central to subsequent identity construction; mythos forming through lived catastrophe.<br><br>
-__Artistic Expression & Material Culture:__ Cultural production suspended or propagandized under occupation; resistance culture develops in clandestine form; material culture determined by war economy; aesthetic concerns subordinated to survival.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood darkens progressively under occupation; hope revives with Allied advances; fear and survival dominate behavioral disposition; collective psychology marked by trauma, resistance, and adaptation to extremity.<br><br>
-__Form Exhaustion & Meaning Decay:__ Nazi cultural forms lose credibility as defeat approaches; occupation propaganda exhausts itself; resistance symbols gain potency; meaning production bifurcates between collapsing occupation narrative and rising liberation narrative.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ War tests all cosmologies; Holocaust raises theodicy questions that persist for generations; fatalism spreads under occupation; existential outlook varies between despair, resistance faith, and religious persistence.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Religious practice continues where churches survive; Nazi rituals hollow as defeat approaches; resistance develops its own commemorative practices; devotion maintained privately under occupation.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Churches navigate between accommodation and resistance; some clergy protect persecuted populations; Vatican diplomacy controversial; institutional authority compromised by collaboration or strengthened by resistance; doctrinal questions deferred.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Nazi political religion collapses with military defeat; traditional Christianity persists among populations; spiritual seeking suppressed under survival pressure; displacement patterns frozen until postwar resettlement.<br><br>
-__Disenchantment & Sacred Discharge:__ Holocaust produces permanent disenchantment for survivors and witnesses; sacred meaning evacuated from perpetrator culture; resistance provides transcendent purpose for participants; disenchantment and re-sacralization both accelerated by extremity.<br><br>
+# __1939 CE – 1945 CE — World War II and Occupied Broadcasting__
+
+__Summary:__ The Second World War transforms European broadcasting into an instrument of total war, with Nazi Germany imposing centralized propaganda control across occupied territories while resistance movements and the BBC's European Service wage an information counter-offensive — the binding constraint being military occupation, which determines whether populations receive only Axis propaganda or can access alternative sources through clandestine listening to foreign broadcasts.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Military fronts sweep across the North European Plain from Poland (1939) to the Atlantic coast (1940) and back to Berlin (1945); the Mediterranean peninsulas see combat in Italy (1943–1945) and continued occupation of Greece; transmitter geography becomes strategic — the BBC's high-power transmitters at Daventry and Droitwich reach occupied Europe, while German stations in occupied capitals serve propaganda and coordination functions.
+
+__Climate Regime & Volatility:__ Severe winters (1941–1942, 1944–1945) compound fuel shortages affecting both military operations and civilian survival; atmospheric conditions affect shortwave reception, with seasonal variation in signal quality for clandestine listeners.
+
+__Hazard Regime & Exposure:__ Strategic bombing destroys urban infrastructure across Germany and occupied territories; transmitter sites are targeted; firestorms (Hamburg 1943, Dresden 1945) devastate population centers; the human-made hazard regime overwhelms all natural risks.
+
+__Resource & Energy Endowment:__ Coal and oil shortages constrain both military and civilian activity; electricity becomes intermittent in bombed cities; listener access depends on power availability; battery receivers gain importance where grid power fails.
+
+__Waste Absorption & Sink Capacity:__ War damage creates rubble, unexploded ordnance, and corpses beyond absorption capacity; industrial and military pollution accumulates unchecked; the physical landscape bears catastrophic residue by 1945.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Mass death from combat, bombing, and genocide redefines mortality — the Holocaust, the siege of Leningrad, the bombing of cities — disease follows military movement and civilian displacement; typhus, tuberculosis, and malnutrition-related illness spread through camps and occupied populations.
+
+__Nutrition & Physiological Vitality:__ Starvation conditions in occupied Europe, especially the Netherlands (Hongerwinter 1944–1945), Greece (1941–1942 famine), and besieged cities; rationing imposes universal scarcity in non-occupied zones; caloric intake falls to crisis levels for millions.
+
+__Care, Healing & Recovery Capacity:__ Medical systems collapse under bombing and occupation; military medicine advances (penicillin, blood transfusion) but reaches civilians unevenly; care capacity fails catastrophically for camp inmates and occupied populations.
+
+__Reproductive Biology & Pairing Dynamics:__ War separates families; birth rates collapse; rape accompanies military advance and occupation; the demographic disruption is severe and lasting.
+
+__Demographic Renewal & Density:__ Military casualties, genocide, and civilian death from bombing and starvation produce population collapse in affected regions — Poland loses six million, Germany suffers millions of military and civilian dead, France loses hundreds of thousands; migration includes forced labor deportation to Germany and refugee flight.
+
+__Attrition & Dependency Overhang:__ Widows, orphans, disabled veterans, and survivors of atrocity constitute a dependency burden that will shape the postwar generation; the biological residue of war accumulates as permanent damage.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rationing, black markets, and local shortage define civilian life; occupied territories export food to Germany while local populations starve; the subsistence floor drops to survival margins across much of the continent.
+
+__Energy Capture & Conversion:__ War production absorbs industrial capacity; fuel shortages constrain civilian life; electricity for radio becomes a strategic asset — the ability to power a receiver determines access to information.
+
+__Labor Organization & Coercion:__ Forced labor (Zwangsarbeit) mobilizes millions of workers from occupied Europe to German war industry; coercion reaches industrial-scale organization through concentration camp labor systems.
+
+__Production & Surplus Capacity:__ War economy maximizes military production; civilian goods disappear; Allied bombing degrades German productive capacity from 1943; by 1945, German industrial output collapses.
+
+__Storage, Reserves & Buffering:__ Strategic reserves deplete as war lengthens; grain and fuel stockpiles fall; the German economy runs on diminishing margins; financial reserves become meaningless as the currency system disintegrates.
+
+__Exchange, Trade & Logistics:__ Continental economy organized for German war needs; blockade constrains neutral trade; black markets supplement official channels; logistics systems prioritize military supply over civilian needs.
+
+__Value Storage, Credit & Deferred Exchange:__ Currencies lose purchasing power; occupation currencies extract value from subject populations; barter and hoarding replace monetary exchange in crisis zones; the financial system loses meaning under catastrophic conditions.
+
+__Surplus Extraction & Redistribution:__ Occupation regimes extract food, labor, and materiel systematically; Wehrmacht requisitioning strips occupied territories; the extractive relationship is explicitly exploitative.
+
+__Wealth Distribution & Asset Defense:__ Expropriation of Jewish property, looting of art and gold, and general impoverishment redistribute wealth through violence; asset protection becomes impossible for targeted populations.
+
+__Byproducts & Waste Routing:__ War production generates industrial waste without environmental consideration; the economic residue includes depleted resources, destroyed capital stock, and accumulated debt that will constrain postwar recovery.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War scatters families; military conscription removes men; evacuation disperses children; death and displacement dissolve household units; inheritance becomes moot where property is destroyed or expropriated.
+
+__Association & Mutual Aid:__ Formal associations dissolved or co-opted under occupation; informal mutual aid networks sustain survival (sharing food, hiding fugitives); resistance networks create new forms of association under conditions of extreme danger.
+
+__Leisure, Play & Sociability:__ Radio listening becomes the primary leisure activity where receivers and power exist; clandestine listening to the BBC constitutes both information-seeking and an act of resistance; public sociability contracts under occupation, curfew, and fear.
+
+__Stratification, Status & Group Structure:__ Occupation creates new hierarchies — collaborators, resisters, and those who survive between; racial persecution inverts previous status (assimilated Jews, educated Roma); occupier-occupied relationship defines the fundamental stratification.
+
+__Administrative Capacity & Institutional Integrity:__ Nazi occupation administrations vary from direct rule (Poland) to supervised collaboration (Vichy France, Netherlands); broadcasting systems are co-opted or replaced; resistance movements develop parallel administrative capacity in liberated zones.
+
+__Coercive Apparatus & Means of Force:__ Wehrmacht, SS, Gestapo, and collaborationist police enforce occupation; resistance movements develop armed capacity; partisan warfare in Yugoslavia, Greece, and eastern France; coercive balance shifts as war turns against Germany (1943–1945).
+
+__Discharge, Disorder & Decay:__ Violence saturates occupied Europe — executions, reprisals, deportations, genocide; resistance sabotage and assassination; the social fabric tears under occupation; the disorder is structural, not marginal; liberation brings score-settling and renewed violence.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear pervades occupied populations — fear of deportation, denunciation, reprisal; hope attaches to Allied advance and BBC broadcasts; resignation, desperation, and rage coexist; the emotional terrain is extreme.
+
+__Leadership & Personal Authority:__ Churchill's radio presence (BBC) sustains British and occupied-Europe morale; de Gaulle broadcasts from London to Free France; Hitler's radio addresses become less frequent as war turns; resistance leaders operate anonymously or from exile.
+
+__Legitimacy as Lived Allegiance:__ Occupation regimes command compliance without allegiance; collaborationist governments (Vichy, Quisling Norway) claim legitimacy few accept; resistance claims future legitimacy; actual allegiance fragmentally divides populations.
+
+__Political Will & Collective Resolve:__ Allied will to victory consolidates after 1941 (Soviet and American entry); German will to fight persists despite reversals; occupied populations divide between collaboration, resistance, and survival-focused passivity; collective resolve manifests in both compliance and resistance.
+
+__External Relations & Posture:__ Broadcasting becomes a weapon of war — BBC European Service broadcasts in occupied languages; Nazi propaganda targets neutral and enemy populations; the information war parallels military operations.
+
+__Disaffection, Apathy & Spent Will:__ War-weariness accumulates as conflict lengthens; defeatism spreads in Germany from 1943; occupied populations endure through exhaustion rather than conviction; the emotional residue is trauma that will shape postwar generations.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Occupation restricts information access — newspapers censored, foreign broadcasts forbidden; radio becomes the critical information channel for occupied populations; the BBC reaches across the continent through shortwave and medium wave despite jamming.
+
+__Channels & Transmission Velocity:__ German-controlled stations dominate occupied airwaves; the BBC's European Service broadcasts in French, Dutch, Norwegian, Danish, and other languages; Radio Moscow reaches eastern Europe; transmission is real-time, enabling coordination with military events (D-Day instructions to resistance).
+
+__Record, Storage & Persistence:__ Broadcast remains largely ephemeral; clandestine newspapers (samizdat precursors) preserve and distribute information; German records document atrocity (later evidence at Nuremberg); the archive of occupation is fragmentary but damning.
+
+__Framing, Censorship & Discourse Norms:__ Total censorship under occupation — listening to foreign broadcasts punishable by death in some territories; Nazi propaganda frames all information; BBC practice of accurate reporting builds credibility that counters propaganda; the discourse norm becomes a weapon.
+
+__Reception, Attention & Amplification:__ Clandestine listening networks share BBC information through word of mouth; single receivers serve multiple listeners; attention to broadcast news is intense where access exists; the V-for-Victory campaign demonstrates amplification from broadcast to graffiti to resistance symbol.
+
+__Signal Integrity & Noise Load:__ Nazi jamming degrades BBC signal quality; propaganda noise saturates official channels; the gap between official information and experienced reality widens to absurdity by war's end; the informational residue is mass distrust of official sources that will shape postwar media.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ War crimes and genocide shatter moral frameworks; the Holocaust represents the collapse of civilization's moral floor; resistance claims moral legitimacy against legal authority; collaboration poses irresolvable moral questions.
+
+__Law, Codification & Regulatory Evolution:__ Occupation law supersedes national law; racial persecution proceeds through legal forms (Nazi occupation decrees); international law proves unenforceable during conflict; the Nuremberg principles emerge from the wreckage as attempted reconstruction.
+
+__Adjudication, Liability & Sanction:__ Summary justice under occupation — executions without trial, collective punishment; resistance tribunals judge collaborators in liberated zones; formal adjudication suspended for the duration.
+
+__Rights, Protections & Compliance Burden:__ Rights language loses meaning under occupation; civilian protections (Geneva Conventions) are violated systematically; the compliance burden falls entirely on the occupied, with no reciprocal obligation honored by occupiers.
+
+__Impunity & Unredressed Wrong:__ Genocide proceeds with complete impunity during the war; liberation brings partial reckoning (épuration, denazification) but vast crimes remain unpunished; the moral residue is a gap between wrong committed and justice delivered that will never fully close.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ War mobilizes science — radar, cryptography, nuclear physics (Manhattan Project), operations research; intellectual life under occupation continues in constrained form; universities function under ideological control; exile scholars contribute to Allied war effort.
+
+__Applied Knowledge & Technical Method:__ Radio technology advances — improved receivers, transmitter power, direction-finding (for resistance radio location); magnetic tape recording (German Magnetophon) enables delayed broadcast; television development halted.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education disrupted by mobilization, bombing, and occupation; school buildings requisitioned; teachers conscripted; the war generation loses years of formal education; practical survival skills replace academic learning.
+
+__Obsolescence & Knowledge Decay:__ Libraries and archives destroyed by bombing; intellectual traditions broken by persecution and exile; the knowledge stock suffers catastrophic loss in affected regions; the intellectual residue includes both destruction and the forced diffusion of exile.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ War generates myths that will shape postwar identity — the Resistance, the Blitz spirit, the suffering of occupation — and counter-myths of collaboration that must be suppressed; national identities are forged and contested through the experience.
+
+__Legitimating Narrative & Ideology:__ Nazi propaganda claims racial destiny and European new order; resistance broadcasts counter with liberation and democratic restoration; the legitimating contest plays out through broadcast as primary medium.
+
+__Artistic Expression & Material Culture:__ Cultural production under occupation continues in constrained form — cinema (French wartime production), music, literature — often encoding resistance or escapism; material culture contracts to necessities; uniforms and ration cards define visual environment.
+
+__Form Exhaustion & Meaning Decay:__ Nazi symbols and fascist aesthetics lose resonance as defeat approaches; resistance symbols (Cross of Lorraine, V-for-Victory) accumulate meaning; the cultural residue is the exhaustion of fascist forms and the construction of resistance memory.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ War tests every cosmology — where is God in Auschwitz?; theodicy fails before genocide; existential philosophy (Sartre under occupation) addresses meaninglessness; survival itself becomes existential achievement.
+
+__Ritual, Devotion & Sacred Practice:__ Religious observance continues under occupation where permitted; hidden practice (Jewish observance in hiding) acquires heightened meaning; chaplains accompany military forces; prayer becomes refuge.
+
+__Religious Institutions & Doctrinal Authority:__ Churches navigate occupation — Vatican diplomacy with all sides; Protestant churches divide between accommodation and witness (Bonhoeffer); institutional survival again takes precedence over prophetic voice for most hierarchies.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Population displacement carries religious practice across borders; genocide destroys Jewish communities and their traditions; the spiritual landscape of Europe is permanently altered.
+
+__Disenchantment & Sacred Discharge:__ The moral catastrophe of genocide produces lasting spiritual crisis; the failure of divine intervention raises unanswerable questions; the sacred invested in nation and civilization collapses; the residue is a wound that postwar reconstruction cannot heal, only cover.

@@ -1,69 +1,139 @@
-# __1975 CE – 1989 CE__ — Bubble Era Broadcasting
-__Summary:__ Japanese broadcasting reaches peak commercial prosperity during economic expansion, as satellite technology introduces new transmission capacity while terrestrial networks maximize advertising revenue and production values; the binding constraint shifts from spectrum scarcity toward audience attention competition; the system holds substantial financial margin against shocks but grows dependent on bubble-era advertising flows; broadcasting consolidates its cultural centrality while early satellite and cable channels begin fragmenting the mass audience.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The mountainous archipelago continues requiring dense transmitter networks for VHF/UHF coverage; urban concentration in Pacific corridor simplifies advertiser targeting while rural terrain sustains coverage gaps requiring relay infrastructure.<br><br>
-__Climate Regime & Volatility:__ Monsoonal climate with typhoon season remains stable; seasonal programming cycles align with weather patterns; no secular climate shift affects broadcasting infrastructure during the window.<br><br>
-__Hazard Regime & Exposure:__ Seismic risk continues as background constant; broadcasting infrastructure maintains earthquake-resistant standards; no major disasters during this window test the system severely, leaving emergency broadcasting capacity untested at scale.<br><br>
-__Resource & Energy Endowment:__ Japan remains resource-poor and import-dependent for hydrocarbons; post-oil-shock energy diversification toward nuclear and natural gas stabilizes power supply for continuous broadcasting operations.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste from rapid consumer equipment turnover beginning but not yet registering as environmental concern; broadcasting facilities generate modest industrial waste within industrial zones' absorptive capacity.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Advanced public health infrastructure maintains low endemic disease burden; life expectancy continues rising; broadcasting serves health education role through NHK programming.<br><br>
-__Nutrition & Physiological Vitality:__ Affluent nutrition with dietary westernization; population physically robust; lifestyle diseases beginning to emerge as concerns addressed through health programming.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Marriage age rising gradually; fertility declining; trendy drama depictions of urban romance influence courtship expectations and aspirations among young adults.<br><br>
-__Demographic Renewal & Density:__ Below-replacement fertility emerging; aging population beginning; baby boomer cohort entering middle age represents prime television demographic; youth cohort shrinking but intensely targeted by advertisers.<br><br>
-__Attrition & Dependency Overhang:__ Elderly population growing but still within family and pension system capacity; broadcasting addresses senior audiences as emerging demographic segment worth commercial attention.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Universal material security; consumer society fully developed; basic provisioning concerns absent from mainstream broadcasting discourse except in documentary contexts.<br><br>
-__Energy Capture & Conversion:__ Broadcasting relies on stable grid electricity; satellite uplinks and expanding transmitter networks increase energy consumption; efficiency gains offset growth; per-capita energy use plateaus at high level.<br><br>
-__Labor Organization & Coercion:__ Broadcasting employs salaried professionals, contract talent, and production company staff in competitive labor markets; talent agency control over performers creates quasi-monopolistic labor intermediation; lifetime employment norm applies to network core staff.<br><br>
-__Production & Surplus Capacity:__ Peak production values as bubble-era budgets enable elaborate sets, location shooting, and high talent fees; program production capacity exceeds domestic demand, enabling early export experiments.<br><br>
-__Storage, Reserves & Buffering:__ Networks accumulate substantial cash reserves and real estate during bubble; NHK maintains stable license-fee base; advertising revenue buffers appear deep but prove dependent on bubble conditions.<br><br>
-__Exchange, Trade & Logistics:__ Program distribution networks mature; regional affiliate relationships stabilize; international format licensing begins; advertising time sales through agencies highly organized.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Yen appreciation affects international rights transactions; networks invest surplus in real estate and securities; credit abundant for production financing; bubble valuations inflate network company assets.<br><br>
-__Surplus Extraction & Redistribution:__ Advertising revenue flows from manufacturers and retailers through agencies to networks; NHK license fees extracted universally; taxation captures corporate profits at standard rates.<br><br>
-__Wealth Distribution & Asset Defense:__ Broadcasting companies and talent agencies concentrate media-sector wealth; cross-ownership with newspapers and publishers creates media conglomerates; asset values inflate with bubble economy.<br><br>
-__Byproducts & Waste Routing:__ Production generates props, sets, and tape archives; obsolete equipment disposed through standard industrial channels; electronic waste emerging but not yet problematic; material waste easily absorbed.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ High social trust continues; broadcasting reinforces shared cultural references and common knowledge; television viewing remains largely household and communal activity.<br><br>
-__Stratification, Status & Group Identity:__ Broadcasting celebrities constitute visible aspirational class; urban-rural lifestyle gap emphasized in trendy drama depictions; class boundaries softening in perception while educational credentialism intensifies.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family normative in broadcasting depictions; three-generation households declining; inheritance law unchanged; family dramas explore changing household compositions.<br><br>
-__Civic Association & Self-Organization:__ Company-based social organization dominates; neighborhood associations weakening in urban areas; broadcasting serves as substitute for declining local community bonds.<br><br>
-__Leisure, Play & Sociability:__ Television viewing occupies substantial leisure time; karaoke and other broadcast-derived entertainment forms flourish; sports broadcasting creates shared spectating experiences across distance.<br><br>
-__Grievance Channels & Social Discharge:__ Consumer complaint mechanisms functional; labor disputes rare during growth period; social friction absorbed through prosperity; grievances around broadcasting largely limited to content controversies.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Liberal Democratic Party dominance continues through 1989; broadcasting policy set by Ministry of Posts and Telecommunications; NHK governance nominally independent but politically appointed; commercial broadcasters maintain close government relations.<br><br>
-__Succession & Power Transfer:__ Emperor Hirohito's declining health through 1980s makes succession topic of national attention; his death in January 1989 marks era transition broadcast extensively; LDP leadership transitions smooth.<br><br>
-__Legitimacy & Political Narrative:__ Economic success legitimates political order; broadcasting reinforces centrist consensus; war responsibility debates surface periodically in documentary programming but remain contained.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Ministry oversight of broadcasting technically competent; license renewal processes routine; corruption limited; regulatory capture by incumbents prevents new terrestrial entry.<br><br>
-__Political Participation & Mobilization:__ Voter turnout declining; protest movements quiescent; political broadcasting regulated for balance; election coverage formulaic and predictable.<br><br>
-__Geopolitical Position & External Relations:__ US alliance stable; trade frictions with America dominate news; Cold War context shapes international coverage; Japan's broadcasting technology exports build soft-power capacity.<br><br>
-__Coercive Apparatus & Means of Force:__ Self-Defense Forces maintain low domestic profile; police adequate for public order; broadcasting of security matters restrained and deferential to authority.<br><br>
-__Internal Order & Threat Environment:__ Crime rates low and declining; internal security threats minimal; occasional left-wing incidents contained; public order not a significant broadcasting concern beyond routine coverage.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Satellite broadcasting (BS-2 from 1984) adds new channels to terrestrial networks; cable television begins limited urban penetration; VCR ownership enables time-shifting; information velocity effectively instantaneous for broadcast content nationwide.<br><br>
-__Record, Storage & Persistence:__ Broadcast archives expand; videotape enables program preservation; NHK maintains comprehensive archive; commercial stations variable in archival practices; home recording creates distributed preservation.<br><br>
-__Framing, Censorship & Discourse Norms:__ Self-censorship through kisha club system shapes news; entertainment content subject to sponsor sensitivity; controversial topics avoided rather than formally censored; discourse band gradually widening for lifestyle topics.<br><br>
-__Reception, Attention & Amplification:__ Prime-time audiences reach peaks of over 30% shares for popular programs; mass simultaneous viewing creates next-day conversation topics; attention concentrated on key networks and time slots.<br><br>
-__Signal Integrity & Noise Load:__ Broadcast content professionally produced with low noise; verification through reporter conventions; misinformation limited; rumor contained by authoritative broadcast voice; signal integrity high.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Public morality gradually liberalizing; broadcasting content boundaries expanding for adult themes; fairness norms emphasize procedural equality and consumer protection.<br><br>
-__Law, Codification & Regulatory Evolution:__ Broadcasting Law stable; satellite regulations adapted for new technology; copyright law evolving for videotape era; regulatory framework adequate without major revision.<br><br>
-__Adjudication, Enforcement & Liability:__ Broadcasting disputes handled through administrative channels and BPO (Broadcasting Ethics and Program Improvement Organization) predecessor bodies; defamation cases occasionally reach courts; enforcement adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Broadcaster rights to spectrum stable; performer rights emerging concern; compliance burden moderate and routinized; no major regulatory surprises.<br><br>
-__Impunity & Unredressed Wrong:__ Occasional broadcast scandals handled through apology and personnel changes; victim redress limited but controversy contained; impunity gap narrow by international standards.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Media studies established in universities; audience research sophisticated; theoretical frameworks borrowed from American communication studies; critical theory present but marginal.<br><br>
-__Applied Knowledge & Technical Method:__ Satellite transmission technology mastered; high-definition television research advanced (MUSE/Hi-Vision); production techniques refined; Japanese engineering leadership in broadcast equipment.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal high school completion; university attendance expanding; technical training adequate; literacy universal; broadcasting workforce highly educated by global standards.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog technical knowledge stable but digital transition anticipated; live production skills maintained; archival practices prevent knowledge loss; obsolescence not yet pressing concern.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Postwar economic success narrative dominates; war memory contested but contained; national identity increasingly defined through consumer culture and technological achievement rather than martial tradition.<br><br>
-__Artistic Expression & Material Culture:__ Trendy drama establishes distinctive aesthetic of urban affluence; anime matures as art form; variety show formats crystallize; Japanese broadcasting develops recognizable visual language.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confident consumerism; upward mobility expectations; internationalization (kokusaika) discourse; mood buoyant through mid-1980s, peaking with bubble euphoria; early anxiety about bubble sustainability emerges by 1988-89.<br><br>
-__Form Exhaustion & Meaning Decay:__ Earlier postwar program formats show strain; variety shows increasingly formulaic; drama cycles through predictable patterns; renewal through trendy drama format innovation temporarily masks exhaustion.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Secular materialism dominant; religious observance ritualized and seasonal; existential questions subordinated to economic striving; broadcasting reflects and reinforces pragmatic worldliness.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Television schedules structure daily and annual rhythms; New Year programming creates secular ritual calendar; religious programming marginal; NHK maintains modest religious content.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Traditional religious institutions maintain ceremonial role; new religious movements occasionally controversial; broadcasting treats religion with respectful distance; no doctrinal authority over content.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Consumer culture continues displacing traditional spirituality; Western Christmas adopted commercially; syncretic folk practices persist in rural areas receiving less broadcast attention; secular displacement advancing.<br><br>
-__Disenchantment & Sacred Discharge:__ Material prosperity fills existential space; spiritual void masked by consumption; broadcasting offers entertainment rather than transcendence; disenchantment accumulates beneath confident surface, unacknowledged during boom years.<br><br>
+# __1975 CE – 1989 CE — Bubble Era Broadcasting__
+
+__Summary:__ Japanese broadcasting reaches its apogee as mass medium during the high-growth climax and bubble economy, with television achieving near-universal multi-set household penetration while advertising expenditure swells alongside asset inflation; the binding constraint is the commercial networks' dependence on advertising revenue tied to consumption growth, which drives programming toward entertainment spectacle and tarento-driven variety formats while NHK maintains its public-service counterweight through license-fee independence, creating a dual system that saturates domestic attention but remains enclosed within the archipelago's linguistic boundaries.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The four main islands and smaller archipelago components remain fully integrated by a dense terrestrial relay network; mountain topography that once challenged transmission is overcome through extensive repeater infrastructure built during the preceding decades, ensuring broadcast signals reach even remote valleys and coastal settlements with minimal shadow zones.
+
+__Climate Regime & Volatility:__ The monsoon climate with its typhoon season creates periodic transmission disruptions, but the redundancy built into the relay network and the emergence of early satellite backup (BS-2 experimental broadcasts from 1984) cushions these interruptions; seasonal programming adjusts to weather patterns, with New Year broadcasts and summer festival coverage becoming calendar anchors.
+
+__Hazard Regime & Exposure:__ Seismic hazards remain ever-present; major earthquakes such as the 1978 Miyagi quake and the 1983 Sea of Japan earthquake test emergency broadcasting protocols and reinforce NHK's role as disaster-information lifeline, with dedicated earthquake early-warning development accelerating through the period.
+
+__Resource & Energy Endowment:__ Japan imports virtually all petroleum and most energy feedstocks, making the economy vulnerable to supply disruptions; the 1979 second oil shock temporarily constrains industrial output and consumption, but by the mid-1980s the economy has adjusted through efficiency gains and nuclear expansion, with abundant electricity enabling 24-hour broadcasting by decade's end.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution peaks in the 1970s and begins to abate through stringent environmental regulation; air quality in major cities improves, while electronic waste from rapid consumer-electronics turnover begins its accumulation as households replace monochrome sets with color, then upgrade to larger screens and add second sets.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Life expectancy rises steadily, crossing 75 years for men and 80 for women by decade's end, placing Japan among the world's healthiest populations; infectious disease recedes as chronic and degenerative conditions become the primary mortality concern.
+
+__Nutrition & Physiological Vitality:__ Dietary protein intake reaches affluent-society levels; average stature increases compared to prewar generations, and obesity begins its slow rise from a very low baseline as Western fast food and convenience-store prepared meals supplement traditional diets.
+
+__Care, Healing & Recovery Capacity:__ Universal health insurance coverage, established in 1961, matures into a comprehensive system with high physician density and hospital bed availability; health-related broadcasting proliferates, including NHK's long-running medical programs educating audiences on prevention and treatment.
+
+__Reproductive Biology & Pairing Dynamics:__ Total fertility rate declines from approximately 2.0 to 1.57 by 1989 (the "1.57 shock" reported that year), with later marriage and smaller families becoming normative; television drama and advertising reflect and reinforce the nuclear-family-with-one-or-two-children model.
+
+__Demographic Renewal & Density:__ Population grows slowly from 112 million to 123 million, with urbanization intensifying; the Tokyo metropolitan region approaches 30 million, creating the most concentrated advertising market and viewer base in the broadcast system.
+
+__Attrition & Dependency Overhang:__ The aging society emerges as a policy concern by decade's end; the dependency ratio begins its long rise, though the working-age population remains large enough to sustain economic dynamism and the tax base funding NHK.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Material scarcity is a generational memory rather than a lived reality; consumer society reaches full maturation with department stores, supermarkets, and convenience chains providing abundant goods, while television advertising drives consumption aspirations upward.
+
+__Energy Capture & Conversion:__ The economy completes its post-oil-shock restructuring, achieving world-leading energy efficiency in manufacturing while electricity consumption grows to power the consumer-electronics-saturated household; per-capita energy use stabilizes at high-income-country levels.
+
+__Labor Organization & Coercion:__ Lifetime employment and enterprise unionism characterize large-firm labor relations; the sarariman (salaryman) becomes the iconic viewer demographic, his evening return home timed to the 7 PM and 9 PM news broadcasts, while housewives constitute the daytime audience for serial dramas and variety programs.
+
+__Production & Surplus Capacity:__ Manufacturing output expands across automobiles, electronics, and precision machinery, generating export surpluses that provoke trade friction with the United States and Europe; the 1985 Plaza Accord appreciation of the yen temporarily shocks exporters but prompts a domestic-demand-led growth phase fueled by easy money.
+
+__Storage, Reserves & Buffering:__ Corporate cash reserves accumulate; household savings rates remain among the world's highest, providing the deposit base for bank lending that inflates real estate and equity prices through the bubble years.
+
+__Exchange, Trade & Logistics:__ Japan runs persistent trade surpluses, importing raw materials and exporting finished goods; television sets, VCRs, and audio equipment manufactured domestically capture global market share while the same products saturate the home market, enabling universal broadcast reception.
+
+__Value Storage, Credit & Deferred Exchange:__ Asset prices decouple from fundamentals after 1986; the Nikkei index quadruples between 1984 and 1989 while Tokyo land prices reach levels where the Imperial Palace grounds are notionally worth more than California; credit flows into real estate and equity speculation while the bubble remains inflating.
+
+__Surplus Extraction & Redistribution:__ Tax revenues grow with the economy, funding expanded social programs and public broadcasting; NHK's license fee collection reaches near-universal compliance, generating stable revenue independent of advertising cycles.
+
+__Wealth Distribution & Asset Defense:__ Asset-price inflation creates paper wealth concentrated among landowners and equity holders; generational wealth gaps widen as younger households face elevated housing costs, while media coverage oscillates between celebrating prosperity and noting its distributional strains.
+
+__Byproducts & Waste Routing:__ Electronic waste volumes grow as households upgrade devices on shortening replacement cycles; the economic mispricing that will unwind after 1989 accumulates invisibly within balance sheets, unreported as dysfunction while asset prices climb.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The nuclear family household becomes the normative unit, displacing the multigenerational ie (household) system in practice while retaining its legal vestiges; television viewing centers on the living room, with the kotatsu (heated table) as the domestic focal point in winter months.
+
+__Association & Mutual Aid:__ Company-based social networks supplement neighborhood associations; the firm provides welfare functions (housing loans, recreation facilities, health checkups) that bind employees and families into corporate communities whose after-hours socializing is interrupted only for must-see broadcasts.
+
+__Leisure, Play & Sociability:__ Television consumption becomes the dominant leisure activity, with average daily viewing exceeding three hours per person; weekend programming, from Saturday-night variety shows to Sunday-morning children's anime, structures family time across the week.
+
+__Stratification, Status & Group Structure:__ The "100 million middle class" ideology reaches its peak expression; while real differentiation exists between large-firm employees and small-business workers, between urban and rural populations, broadcast culture creates a shared reference universe that papers over stratification through common consumption experiences.
+
+__Administrative Capacity & Institutional Integrity:__ LDP one-party dominance continues throughout the period despite scandals (Lockheed bribery conviction of former PM Tanaka in 1983, Recruit scandal breaking in 1988); bureaucratic guidance of the economy operates through close industry-ministry-party coordination, with broadcasting policy set by the Ministry of Posts and Telecommunications.
+
+__Coercive Apparatus & Means of Force:__ The Self-Defense Forces maintain low political salience; public order is stable, with the Red Army Faction reduced to scattered remnants, and police enjoy high public trust; broadcast coverage of crime remains restrained by comparison to later tabloid sensationalism.
+
+__Discharge, Disorder & Decay:__ Social friction is absorbed through the growth dividend; labor disputes decline to minimal levels, youth unemployment remains low, and public disorder is rare enough that a single incident (such as the 1985 fans' riot at a baseball game) generates extended media coverage.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Confidence and optimism characterize the public mood, particularly during the late-1980s bubble peak; Japan is celebrated internationally for its economic management, and domestic audiences absorb this external validation through broadcast coverage of Japan's rising global standing.
+
+__Leadership & Personal Authority:__ Prime ministers rotate through LDP factional bargaining (Miki, Fukuda, Ohira, Suzuki, Nakasone, Takeshita), with Nakasone (1982–1987) achieving the highest public profile through deliberate media engagement, including frequent television appearances and a Westernized personal style that plays well on screen.
+
+__Legitimacy as Lived Allegiance:__ The postwar constitutional order commands broad acceptance; the emperor remains a ceremonial figure of quiet reverence, with extended broadcast coverage of imperial events (such as Crown Prince Naruhito's coming-of-age in 1980) reinforcing continuity and stability.
+
+__Political Will & Collective Resolve:__ The system maintains sufficient cohesion to navigate external pressures (trade friction, yen appreciation) while sustaining growth; administrative reform under Nakasone privatizes Japan National Railways and Nippon Telegraph and Telephone (1985), demonstrating capacity for structural change broadcast live as political theatre.
+
+__External Relations & Posture:__ Japan consolidates its position as the second-largest free-world economy; the US alliance remains foundational despite trade tensions; broadcasts oscillate between celebrating Japanese success abroad and anxiously covering foreign criticism of trade surpluses and closed markets.
+
+__Disaffection, Apathy & Spent Will:__ Political apathy grows as prosperity makes politics feel distant; voter turnout declines modestly, and younger generations show less interest in ideological contestation than their 1960s predecessors, their attention absorbed by consumer culture and entertainment television rather than political mobilization.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Standard Japanese reaches near-universal mutual intelligibility through broadcast standardization; regional dialects persist but recede further as Tokyo-based broadcast speech becomes the unmarked norm; literacy is universal, enabling integrated text-and-image formats (telop, subtitles).
+
+__Channels & Transmission Velocity:__ Terrestrial television reaches every household capable of receiving a signal, supplemented by radio and, increasingly, satellite (BS-2 launched 1984, with regular service from 1989); VCRs (VHS victorious over Beta by mid-decade) enable time-shifting, altering but not replacing appointment viewing.
+
+__Record, Storage & Persistence:__ Television archives grow at NHK and commercial networks, though systematic preservation practices lag behind production volume; home recording on VHS cassettes begins to create private archives, while broadcast materials remain largely inaccessible to researchers and the public.
+
+__Framing, Censorship & Discourse Norms:__ The kisha club (press club) system continues to gate access to official sources, producing consensus-oriented coverage that avoids adversarial investigation; self-censorship operates around sensitive topics (imperial family, burakumin discrimination, certain corporate scandals) through tacit understanding rather than formal prohibition.
+
+__Reception, Attention & Amplification:__ Mass simultaneous viewership reaches its historical peak; a single hit variety show or drama episode can capture 40% or more of households, creating shared cultural reference points that pervade next-day conversation; the Kohaku Uta Gassen (New Year's Eve music program) routinely exceeds 70% household ratings.
+
+__Signal Integrity & Noise Load:__ Information environment remains relatively low-noise by later standards; the number of channels is finite (NHK General, NHK Educational, and four to five commercial networks in major markets), and gatekeeping by professional broadcasters filters content before transmission, maintaining signal coherence.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Postwar democratic values are consolidated through generational turnover; younger cohorts have no direct memory of wartime authoritarianism and take constitutional freedoms as given; broadcast content reflects broadly liberal-democratic assumptions while avoiding sharp ideological edges.
+
+__Law, Codification & Regulatory Evolution:__ The Broadcast Law of 1950 continues to govern the sector with minimal amendment; regulatory interpretation evolves through ministry guidance rather than statutory change; content standards emphasize fairness and accuracy without detailed prescription.
+
+__Adjudication, Liability & Sanction:__ The Broadcasting Ethics & Program Improvement Organization (BPO), a self-regulatory body, is not yet established (1997); disputes over broadcast content are handled through informal negotiation, court defamation suits, or regulatory warning from the ministry.
+
+__Rights, Protections & Compliance Burden:__ Press freedom is constitutionally guaranteed but circumscribed in practice by the kisha club system's exclusivity; independent journalists and foreign correspondents complain of access barriers, while mainstream broadcast organizations operate comfortably within established boundaries.
+
+__Impunity & Unredressed Wrong:__ Historical injustices (wartime conduct, colonial-era abuses, discrimination against ethnic minorities) receive limited broadcast examination; NHK documentaries occasionally address sensitive subjects, but commercial networks largely avoid controversy that might alienate advertisers or invite political pressure.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Japanese research institutions achieve world-class standing in electronics, materials science, and manufacturing engineering; the "Japanese management" model becomes an object of foreign study and admiration, broadcast domestically as validation of national achievement.
+
+__Applied Knowledge & Technical Method:__ Consumer electronics advances drive broadcast reception technology: larger screens, improved color fidelity, stereo sound (1978), and the beginnings of high-definition experimentation (NHK develops Hi-Vision/MUSE analog HDTV through the 1980s).
+
+__Education, Knowledge Stock & Skill Distribution:__ Near-universal secondary education and high tertiary enrollment create a literate, numerate audience capable of absorbing sophisticated content; NHK Educational Television serves formal and informal learning across age groups.
+
+__Obsolescence & Knowledge Decay:__ Rapid consumer-electronics turnover renders devices obsolete within years; the knowledge embedded in earlier formats (8-track, Betamax) decays as standards shift, while broadcast production techniques evolve from film to videotape to electronic editing.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The postwar narrative of peaceful recovery and economic success through diligence reaches its apotheosis; broadcast coverage of the 40th anniversary of the war's end (1985) reflects on the past while celebrating the transformed present; NHK taiga dramas continue to mine premodern history for national identity narratives.
+
+__Legitimating Narrative & Ideology:__ The ideology of harmonious growth, corporate loyalty, and gradual improvement legitimates the existing order; critics from left and right remain marginal, unable to gain sustained broadcast access beyond occasional debate programs.
+
+__Artistic Expression & Material Culture:__ Television drama achieves high production values and cultural prestige; trendy dramas (trendy dorama) depicting contemporary urban life emerge in the late 1980s; anime expands from children's programming toward teenage and adult audiences (Akira, 1988, demonstrates theatrical potential); variety shows define the visual culture of the era with their colorful sets, celebrity panels, and elaborate games.
+
+__Form Exhaustion & Meaning Decay:__ Some observers note a hollowing of content beneath the glossy surface, a predominance of tarento (television personalities) whose fame derives from omnipresence rather than specific talent; by decade's end, critics ask whether broadcast culture has become an endless circulation of familiar faces and formats, but high ratings suggest audiences remain engaged.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Practical secularism characterizes daily life, with religious observance concentrated in lifecycle rituals (Shinto birth blessings, Christian-style weddings, Buddhist funerals) and calendar festivals rather than regular devotion; broadcast coverage of shrine visits at New Year and Obon observances frames these as cultural tradition rather than living faith.
+
+__Ritual, Devotion & Sacred Practice:__ Television itself becomes a ritual medium: the Kohaku Uta Gassen on New Year's Eve, the emperor's New Year greeting broadcast, and annual coverage of high school baseball at Koshien stadium function as secular sacred events structuring collective time.
+
+__Religious Institutions & Doctrinal Authority:__ Established Buddhist and Shinto institutions maintain property and ceremonial roles but exercise little active influence on public discourse; new religious movements (shinshukyo) grow through the period, with Aum Shinrikyo's origins in 1984 passing unnoticed by mainstream media until the next decade.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Consumer materialism fills the space that organized religion might occupy; Christmas (without Christian content) becomes a commercial and romantic occasion, its imagery ubiquitous in December broadcast advertising.
+
+__Disenchantment & Sacred Discharge:__ The bubble's material exuberance masks any spiritual vacancy; existential questions are deferred by prosperity, leaving a latent disenchantment that will surface when economic confidence collapses, but within the window the void remains unfelt or unacknowledged.

@@ -1,69 +1,139 @@
-# __1922 CE – 1930 CE__ — Fascist Consolidation and Press Control
-__Summary:__ Mussolini's coalition government transforms into dictatorship through the Matteotti crisis and 1925 press laws, establishing single-party rule, corporatist labor organization, and systematic propaganda control while achieving Vatican reconciliation via the Lateran Pacts; the binding constraint is regime dependence on suppressing alternative information channels and manufacturing consent through print and nascent radio, with moderate margin against domestic opposition but narrowing tolerance for dissent as totalitarian ambitions expand.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Peninsula geography unchanged; improved road construction (Autostrada Milan-Lakes 1924) reduces transit friction; rail network maintained; Alpine frontier fortified against potential Austrian or Yugoslav threat; spatial integration advancing.<br><br>
-__Climate Regime & Volatility:__ Mediterranean climate regime stable; normal interannual variability in rainfall; no significant drought or anomaly disrupts agricultural output during window; climate not a binding constraint.<br><br>
-__Hazard Regime & Exposure:__ No major seismic or volcanic event during window; flood exposure along Po tributaries managed through existing infrastructure; regime invests in land reclamation (Pontine Marshes drainage begins 1928); hazard margin adequate.<br><br>
-__Resource & Energy Endowment:__ Domestic coal and iron ore remain scarce; hydroelectric development continues expanding capacity; petroleum imports necessary; regime pursues autarky rhetoric but endowment constraints persist; drawdown minimal against limited stock.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial activity concentrated in northern triangle produces localized air and water pollution; absorptive capacity adequate at national scale; urban sanitation improving; sink not yet saturated.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Influenza epidemic receded; malaria persists in southern and reclaimed marsh areas; public health campaigns reduce infant mortality; endemic disease burden declining; mortality baseline improving through window.<br><br>
-__Nutrition & Physiological Vitality:__ Postwar recovery raises caloric intake; wheat campaign ("Battle for Grain" 1925) prioritizes bread production over diverse diet; nutritional status improving for most but southern rural poverty persists; vitality trend positive.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Regime promotes natalism through marriage loans and family subsidies; birth rate stabilizes after postwar decline but does not rise dramatically; biological fertility unchanged; pronatalist policy impact limited.<br><br>
-__Demographic Renewal & Density:__ Population approximately 40 million; moderate growth after wartime losses; emigration restricted by U.S. quotas and regime discouragement; internal migration to cities continues; density rising in industrial north.<br><br>
-__Attrition & Dependency Overhang:__ War widows and disabled veterans (mutilati) continue drawing pensions; regime honors veteran claims rhetorically and fiscally; orphan cohort aging into workforce; dependency load stabilizing as wartime generation absorbed.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Inflation controlled by 1927 lira stabilization; food supply adequate; urban working class still vulnerable to price fluctuations; rural south remains poor; subsistence floor higher than wartime but unevenly distributed.<br><br>
-__Energy Capture & Conversion:__ Hydroelectric expansion continues; coal imports stable; industrial electrification advances; AGIP founded 1926 to develop petroleum resources; energy conversion improving but still dependent on imports.<br><br>
-__Labor Organization & Coercion:__ Independent unions abolished; Fascist syndicates become sole legal labor organizations; strikes prohibited; labor disputes routed through corporatist arbitration; coercion systematic but masked as cooperation.<br><br>
-__Production & Surplus Capacity:__ Industrial output recovers and grows; Fiat, Pirelli, Montecatini expand; Battle for Grain shifts agricultural priorities; IRI precursors form for state industrial intervention; production capacity rising through 1929.<br><br>
-__Storage, Reserves & Buffering:__ State finances stabilized by De Stefani reforms then Quota 90 deflation; foreign debt renegotiated (Volpi settlement 1926); gold reserves rebuilt; grain storage emphasized; buffer capacity improved from postwar nadir.<br><br>
-__Exchange, Trade & Logistics:__ Export competitiveness hurt by Quota 90 overvaluation; import substitution promoted; internal trade facilitated by infrastructure investment; logistics improving through road and port development.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Lira revalued to 90 per pound sterling (Quota 90) in 1927 causing deflationary pressure; banking sector consolidates; credit controlled through regime-aligned institutions; value storage stabilized for savers, costly for debtors and exporters.<br><br>
-__Surplus Extraction & Redistribution:__ Tax collection regularized; corporatist system channels surplus through state-supervised syndicates; social insurance expanded (INPS precursors); redistribution favors regime constituencies and industrial development.<br><br>
-__Wealth Distribution & Asset Defense:__ Industrial and landowning elites accommodate regime; property rights secure for compliant owners; confiscation limited to political enemies; wealth concentration persists; asset defense tied to political loyalty.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste continues routing to waterways and atmosphere; regime emphasizes reclamation and hygiene rhetorically; actual environmental regulation minimal; waste load growing with production but sinks not yet saturated.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Fascist organizations (Opera Nazionale Dopolavoro, Opera Nazionale Balilla) replace independent associations; regime-mediated solidarity substitutes for autonomous mutual aid; trust radius extends within party apparatus, contracts outside it.<br><br>
-__Stratification, Status & Group Identity:__ Fascist party membership becomes marker of status and access; class boundaries partially masked by corporatist rhetoric; regional identities subordinated to national identity; professional and industrial elites accommodate regime stratification.<br><br>
-__Kinship, Family & Inheritance:__ Regime promotes traditional family; legal framework unchanged; inheritance patterns stable; state intervention in family through natalist incentives and youth organizations (ONB, GIL) begins reshaping socialization.<br><br>
-__Civic Association & Self-Organization:__ Independent associations dissolved or absorbed into Fascist structures; Catholic Action permitted under Lateran Pacts as sole non-Fascist association; self-organization capacity collapsed; civic space monopolized by party.<br><br>
-__Leisure, Play & Sociability:__ Opera Nazionale Dopolavoro organizes worker leisure (sports, excursions, cinema); regime controls festive calendar; cinema and radio expand as leisure media; sociability increasingly channeled through party-supervised venues.<br><br>
-__Grievance Channels & Social Discharge:__ Corporatist arbitration absorbs labor grievances formally; petition and patronage through party channels; emigration outlet restricted; informal discharge through family and parish; standing frustration accumulates beneath surface compliance.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Mussolini as Duce holds supreme executive authority; Gran Consiglio del Fascismo (1928) institutionalizes party-state; parliament reduced to rubber stamp; authority concentrated and centralizing throughout window.<br><br>
-__Succession & Power Transfer:__ No formal succession mechanism beyond Duce's person; Gran Consiglio theoretically advises on succession; transfer untested; single-party system eliminates competitive succession; stability dependent on Mussolini's health and control.<br><br>
-__Legitimacy & Political Narrative:__ Fascist narrative of national regeneration, order restored, and imperial destiny legitimizes regime; "Third Rome" mythology; Matteotti crisis surmounted by doubling down on dictatorship; legitimacy accepted by majority through acquiescence or conviction.<br><br>
-__Administrative Capacity & Institutional Integrity:__ State bureaucracy subordinated to party but retains technical competence; prefects as regime agents; corruption channeled through patronage; record-keeping systematic; administrative capacity adequate for regime goals.<br><br>
-__Political Participation & Mobilization:__ Opposition parties dissolved (1926); elections become plebiscites; participation restricted to party membership and mobilization through mass rallies; genuine political participation suppressed; mobilization high but orchestrated.<br><br>
-__Geopolitical Position & External Relations:__ Locarno treaties (1925) integrate Italy into European security system; colonial consolidation in Libya; Corfu incident (1923) demonstrates willingness to use force; relations with Britain and France cooperative; revisionist ambitions latent.<br><br>
-__Coercive Apparatus & Means of Force:__ MVSN (Blackshirt militia) integrated with state; OVRA (secret police) established 1927; regular army and Carabinieri remain state instruments; command of force unified under regime; coercive capacity consolidated.<br><br>
-__Internal Order & Threat Environment:__ Squadrista violence subsides into institutional coercion; anti-Fascist opposition exiled, imprisoned, or silenced (Gramsci arrested 1926); internal order achieved through repression; threat environment minimal; margin for dissent near zero.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Print remains dominant; telegraph and telephone state-controlled; EIAR radio broadcasting begins 1924, expands through window reaching millions by 1930; newsreels in cinemas; velocity high for regime messaging; alternative channels closed.<br><br>
-__Record, Storage & Persistence:__ State archives expand; party records systematic; newspaper morgues continue; film archives begin; regime documentation extensive; opposition records suppressed or held in exile; persistence high for regime-approved information.<br><br>
-__Framing, Censorship & Discourse Norms:__ Press laws of 1925 establish prior censorship and journalist licensing; opposition papers closed (Avanti, Corriere della Sera editor replaced); Stefani agency monopolizes news distribution; discourse band severely narrowed; regime framing mandatory.<br><br>
-__Reception, Attention & Amplification:__ Mass literacy enables newspaper consumption; radio penetration growing; cinema attendance high; regime messages amplified through coordinated multimedia campaigns; audience reception shaped by monopoly; attention captured by spectacle.<br><br>
-__Signal Integrity & Noise Load:__ Competing voices eliminated; signal integrity high for regime narrative but artificial; noise from alternative sources suppressed; verification impossible for citizens; information environment controlled but brittle.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Regime claims to embody national justice above liberal legalism; public acceptance of order-over-rights trade-off; moral foundations shifting toward authoritarian paternalism; dissent moralized as treason.<br><br>
-__Law, Codification & Regulatory Evolution:__ Exceptional laws (leggi fascistissime 1925–1926) criminalize opposition; death penalty restored for political crimes; labor code subordinates workers to corporatist arbitration; regulatory framework serves regime control.<br><br>
-__Adjudication, Enforcement & Liability:__ Special Tribunal for Defense of the State (1926) handles political cases outside ordinary courts; regular judiciary accommodates regime; enforcement prioritizes political loyalty; liability shifted toward collective responsibility.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights subordinated to state; habeas corpus weakened by confino (internal exile); press freedom abolished; compliance burden high for suspected dissidents; protection contingent on political conformity.<br><br>
-__Impunity & Unredressed Wrong:__ Regime perpetrators of violence immune; Matteotti murderers lightly punished; opposition victims without recourse; historical grievances (mutilated victory) claimed as redressed by regime; impunity institutionalized for Fascists.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Gentile's actualist idealism becomes official philosophy; Croce maintains independent liberalism from distance; Fascist intellectuals develop corporatist theory; scientific research continues under Academy of Italy (1926); paradigm subordinated to regime ideology.<br><br>
-__Applied Knowledge & Technical Method:__ Engineering advances in infrastructure (roads, land reclamation, hydroelectric); industrial technology improves; aviation celebrated (Balbo flights); applied method serves regime prestige projects; practical competence maintained.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Gentile reform (1923) restructures education emphasizing humanities and elite formation; literacy continues rising; technical education for industrial workforce; knowledge distribution follows regime priorities; critical thinking discouraged.<br><br>
-__Obsolescence & Knowledge Decay:__ Liberal political theory marginalized; pluralist social science suppressed; historical scholarship bent to regime narrative; knowledge decay in suppressed fields; uncritical dogma accumulates in official discourse.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Fascist mythos of Roman Empire, Risorgimento completion, and wartime sacrifice; Duce cult as living embodiment; "mutilated victory" narrative resolved through dictatorship; foundational identity aggressively reconstructed around regime symbols.<br><br>
-__Artistic Expression & Material Culture:__ Rationalist and Novecento architecture compete; monumental building programs (Foro Mussolini begun 1928); Futurism absorbed into regime aesthetics; censorship limits artistic freedom; material culture celebrates modernity and romanita.<br><br>
-__Collective Mood & Behavioral Disposition:__ Initial relief at restored order; economic stabilization builds confidence; Lateran Pacts generate broad approval; collective mood cautiously optimistic to 1929; disposition conformist; anxiety suppressed but present beneath surface.<br><br>
-__Form Exhaustion & Meaning Decay:__ Liberal parliamentary forms discarded as exhausted; Fascist symbols fresh but increasingly ritualized; meaning infused through constant propaganda; exhaustion deferred by regime energy; anomie masked by orchestrated enthusiasm.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Catholic cosmology reinforced by Lateran settlement; Fascist political religion offers parallel transcendence through nation; secular alternatives (socialism) suppressed; existential outlook structured by Church-regime accommodation; doubt privatized.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Catholic sacraments and feast days continue; Fascist ritual calendar (March on Rome anniversary, Fascist Saturday) added; religious and political ritual coexist and partially merge; devotional practice intensified by institutional support.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Lateran Pacts (1929) resolve Roman Question; Vatican gains sovereignty, financial settlement, concordat privileging Catholic marriage and education; institutional authority of Church secured; doctrinal authority reinforced against modernism.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Catholicism unchallenged; Protestant and Jewish minorities tolerated but marginalized; Fascist civic religion spreads as supplement not replacement; no significant syncretism; diffusion limited to Catholic-Fascist accommodation.<br><br>
-__Disenchantment & Sacred Discharge:__ Postwar spiritual crisis addressed by both Church and regime; Lateran settlement re-sacralizes public sphere; Fascist ritual provides political transcendence; disenchantment re-anchored through dual sacred canopy; spiritual need absorbed by Church-state settlement.<br><br>
+# __1922 CE – 1930 CE — Fascist Consolidation and Press Control__
+
+The binding constraint is the regime's need to control printed discourse while maintaining the appearance of constitutional legality, resolved through the systematic subordination of the press to party and state; the Matteotti crisis (1924) accelerates the transition from violent intimidation to legal monopoly, as sequestration, ownership transfers, and the journalist registry (albo dei giornalisti) transform print from a contested public sphere into an instrument of regime propaganda.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The unified peninsula now includes Trentino-Alto Adige, Venezia Giulia, and Istria; the new borders enclose German and Slavic minorities. Rome becomes the unquestioned capital, its built environment reshaped by regime construction projects. The industrial triangle (Milan-Turin-Genoa) remains the economic core; the south remains peripheral.
+
+__Climate Regime & Volatility:__ Normal Mediterranean conditions prevail; no exceptional droughts or floods mark the period. The Battle for Grain (1925) responds to perceived import dependency rather than harvest failure.
+
+__Hazard Regime & Exposure:__ No major natural disasters occur. Industrial hazards persist in northern factories; the regime prioritizes production over worker safety.
+
+__Resource & Energy Endowment:__ Coal and oil imports remain essential; hydroelectric capacity expands under state direction. The regime pursues autarky rhetorically but remains dependent on foreign supplies. Libyan oil exploration begins but yields little.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution accumulates in northern cities; marsh drainage (bonifica) in the Pontine region is framed as reclamation but displaces existing ecosystems. The regime prioritizes transformation over conservation.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ The Spanish flu recedes; endemic diseases (malaria, tuberculosis) persist but mortality declines with improved sanitation and public health campaigns. The Opera Nazionale per la Maternita e l'Infanzia (ONMI, 1925) targets infant mortality.
+
+__Nutrition & Physiological Vitality:__ Nutritional standards improve in the north but remain poor in the south. The Battle for Grain elevates wheat at the expense of dietary diversity. Pellagra declines but is not eliminated.
+
+__Care, Healing & Recovery Capacity:__ The regime expands public health infrastructure; hospitals and clinics multiply. Medical professionalization continues; the state asserts control over health institutions.
+
+__Reproductive Biology & Pairing Dynamics:__ Pro-natalist policies begin: bachelor taxes (1927), marriage loans, and maternal awards. The regime frames reproduction as a demographic battle; large families receive state honors.
+
+__Demographic Renewal & Density:__ Population grows from approximately 38 million (1921) to 41 million (1931). Emigration is restricted as the regime seeks demographic mass for military and imperial ambitions. Internal migration from south to north intensifies.
+
+__Attrition & Dependency Overhang:__ War invalids and widows remain a charge on the state; the regime absorbs veterans' associations into party structures. The dependent load is managed through corporatist welfare.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ The postwar crisis eases; stabilization under Finance Minister De Stefani (1922–1925) restores confidence. The Battle for Grain raises domestic wheat production but at high cost, diverting resources from more efficient agriculture.
+
+__Energy Capture & Conversion:__ Hydroelectric expansion continues; the state-backed energy sector consolidates. Coal imports remain necessary; the regime rhetorically pursues energy independence.
+
+__Labor Organization & Coercion:__ Independent unions are destroyed; the Fascist syndicates (sindacati fascisti) monopolize labor representation. The Vidoni Palace Pact (1925) and Rocco laws (1926) abolish strikes and lockouts, subjecting labor to state arbitration.
+
+__Production & Surplus Capacity:__ Industrial production recovers and expands; Fiat, Pirelli, and Montecatini prosper under regime patronage. The state supports cartels and protectionism. Heavy industry receives preferential credit.
+
+__Storage, Reserves & Buffering:__ The treasury stabilizes after postwar chaos; the "Quota 90" revaluation (1926–1927) prioritizes lira strength over export competitiveness. Foreign reserves rebuild but at the cost of deflation.
+
+__Exchange, Trade & Logistics:__ Trade deficits persist; the regime pursues bilateral agreements and empire to secure raw materials. Transport infrastructure improves (trains famously run on time, though the claim is exaggerated).
+
+__Value Storage, Credit & Deferred Exchange:__ The lira is stabilized at 90 to the pound (1927), deflating the economy but restoring creditor confidence. Banks are consolidated under state supervision; the Istituto Mobiliare Italiano (IMI, 1931, anticipated) will formalize state direction of credit.
+
+__Surplus Extraction & Redistribution:__ Taxation is rationalized; the corporatist state claims to mediate between capital and labor while suppressing wage demands. Surplus flows to industrialists and the state apparatus.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentration continues; large landowners and industrialists benefit from regime protection. Workers' real wages stagnate or decline under corporatism. The middle class experiences mixed outcomes.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates; the regime prioritizes production over remediation. Financial cleanup of postwar bad debt is incomplete; the banking system remains fragile.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ The regime sacralizes the family as the cell of the nation; divorce remains illegal. Inheritance law is unchanged but demographic policy reinforces patriarchal authority.
+
+__Association & Mutual Aid:__ Independent associations are dissolved or absorbed into the party structure. The Opera Nazionale Dopolavoro (OND, 1925) organizes leisure; the Opera Nazionale Balilla (ONB, 1926) controls youth. Civil society is hollowed out.
+
+__Leisure, Play & Sociability:__ The Dopolavoro provides sports, excursions, and cultural activities under regime control. Public festivals are regimented around fascist commemorations: the March on Rome anniversary, the Founding of the Fasci.
+
+__Stratification, Status & Group Structure:__ The old elites (monarchy, aristocracy, industrialists) accommodate the regime in exchange for protection. The Fascist Party hierarchy creates a parallel status system. Workers and peasants are subordinated.
+
+__Administrative Capacity & Institutional Integrity:__ The state apparatus is rationalized but also corrupted by party interference. Prefects gain power over elected local governments (podesta replace mayors, 1926). The bureaucracy expands.
+
+__Coercive Apparatus & Means of Force:__ The MVSN (Milizia Volontaria per la Sicurezza Nazionale) institutionalizes squadrism; the OVRA (secret police) surveils dissent. The regular army and carabinieri remain under the crown but cooperate with the regime. Violence is normalized then bureaucratized.
+
+__Discharge, Disorder & Decay:__ Open disorder ceases as the regime monopolizes violence. Opposition is driven underground (Communists) or into exile (Aventine secession liberals and socialists). Surveillance and denunciation replace open conflict.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Initial relief at the end of chaos gives way to acquiescence or conformism. Active enthusiasm is cultivated through spectacle and propaganda; passive dissent is widespread but muted. Fear of the OVRA disciplines behavior.
+
+__Leadership & Personal Authority:__ Mussolini dominates as Duce, concentrating personal authority. The cult of the Duce saturates public discourse. Secondary leaders (Farinacci, Balbo, Federzoni) compete for influence but are subordinated.
+
+__Legitimacy as Lived Allegiance:__ The regime claims revolutionary legitimacy; the Matteotti crisis (1924) threatens but ultimately strengthens consolidation as the king refuses to dismiss Mussolini. Acquiescence substitutes for active consent.
+
+__Political Will & Collective Resolve:__ The regime demonstrates relentless will; opposition is fragmented and demoralized. The Communist Party survives underground; liberals and socialists are neutralized. The Church bargains for institutional survival.
+
+__External Relations & Posture:__ Italy pursues revisionism within the League of Nations framework initially; the Corfu incident (1923) and Albanian protectorate (1926) signal imperial ambition. Relations with Britain and France are cooperative but wary.
+
+__Disaffection, Apathy & Spent Will:__ Former opponents retreat into private life or exile. Apathy pervades those who neither embrace nor actively resist the regime. The spent will of the postwar left leaves no organized resistance.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Literacy continues to rise toward 75% by 1930; Italian spreads through compulsory education and military service. Dialects remain the vernacular but retreat in public space.
+
+__Channels & Transmission Velocity:__ The daily press remains the dominant medium; radio begins broadcasting (EIAR, 1924) but reaches only urban elites. Trains and telegraph ensure same-day distribution of major dailies. The regime controls transmission infrastructure.
+
+__Record, Storage & Persistence:__ Party and police archives expand; surveillance files multiply. The regime creates its own documentary record while suppressing opposition archives.
+
+__Framing, Censorship & Discourse Norms:__ Press control is the defining informational fact. The 1923 press decree requires prefectural approval for editors; the 1925 press law mandates "responsible directors" acceptable to the regime. Sequestration punishes deviance; ownership transfers concentrate the press in fascist hands. The journalist registry (albo, 1925) excludes non-conformists. Corriere della Sera's editor Albertini is forced out (1925); the paper is brought to heel.
+
+__Reception, Attention & Amplification:__ The regime dominates public attention through monopolized channels. Underground publications (L'Unita, clandestine) circulate but reach few. The population receives a filtered, uniform message.
+
+__Signal Integrity & Noise Load:__ Regime propaganda substitutes for independent information; verification is impossible for ordinary citizens. The signal is controlled; noise is whatever escapes censorship.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The regime claims to embody the nation's moral will, transcending liberal rights-talk. Sacrifice, discipline, and hierarchy replace liberal individualism as public values.
+
+__Law, Codification & Regulatory Evolution:__ The Rocco codes (criminal law, 1930, anticipated; implemented in the period) reconfigure the legal order. The Exceptional Laws (1925–1926) ban opposition parties, establish the Special Tribunal, and create the legal framework of dictatorship.
+
+__Adjudication, Liability & Sanction:__ The Special Tribunal for the Defense of the State (1926) prosecutes political crimes outside the ordinary judiciary. Sentences include death (rarely applied) and confino (internal exile). The judiciary is subordinated.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights are formally suspended or nullified. The population lives under discretionary authority; compliance is enforced through surveillance and sanction.
+
+__Impunity & Unredressed Wrong:__ Matteotti's murder (1924) epitomizes impunity; the killers receive minimal punishment. Fascist violence goes unpunished; victims have no recourse. The moral order of liberal legality is abolished.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ The regime claims Gentile's actualismo as its philosophy; Croce dissents but is tolerated as an ornament. The universities are brought under party control through loyalty oaths (1931, anticipated but pressure begins earlier).
+
+__Applied Knowledge & Technical Method:__ Engineering and applied science serve regime projects: the bonifica, infrastructure, and military preparation. The regime values technique subordinated to will.
+
+__Education, Knowledge Stock & Skill Distribution:__ The Gentile reform (1923) reorganizes education hierarchically, privileging classical culture for elites and vocational training for masses. Literacy spreads but critical thought is suppressed.
+
+__Obsolescence & Knowledge Decay:__ Liberal political thought is marginalized; democratic theory becomes obsolete in public discourse. The regime cultivates historical amnesia about the liberal past.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The regime constructs a new national mythology: Rome as model, the March on Rome as founding act, the Duce as incarnation of the nation. War commemorations are fascistized.
+
+__Legitimating Narrative & Ideology:__ Fascism claims to transcend liberalism and socialism, offering a "third way" of national corporatism. The ideology is deliberately vague, emphasizing action over doctrine.
+
+__Artistic Expression & Material Culture:__ Novecento movement in art, rationalist architecture (emerging), monumental Roman revival. The regime commissions public works: Foro Mussolini, Via dell'Impero (anticipated). Black shirts, Roman salutes, and fasces pervade visual culture.
+
+__Form Exhaustion & Meaning Decay:__ Liberal parliamentary rhetoric is dead; socialist revolutionary language is suppressed. Fascist rhetoric fills public space but its inflation risks hollowing; the regime constantly generates new spectacles to maintain symbolic force.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ The regime offers a sacralized nationalism as existential framework, demanding total commitment. Individual meaning is located in service to the nation and Duce.
+
+__Ritual, Devotion & Sacred Practice:__ Fascist ritual proliferates: rallies, marches, commemorations, the Roman salute, the oath. The regime creates a parallel liturgy to Catholic practice.
+
+__Religious Institutions & Doctrinal Authority:__ The Church is initially wary; the Lateran Pacts (1929) resolve the Roman Question, recognizing Vatican sovereignty and Catholicism as the state religion in exchange for Church withdrawal from politics and dissolution of the PPI. The Church gains institutional security at the cost of political independence.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Fascist civic religion absorbs Catholic symbols while subordinating the Church to state purposes. The regime claims compatibility with Catholicism but demands primary allegiance.
+
+__Disenchantment & Sacred Discharge:__ Liberal secularism is discredited; the regime fills the spiritual vacuum with nationalist sacrality. Whether this provides genuine meaning or merely simulates it remains contested; the demand for constant mobilization suggests the sacred is performed rather than inhabited.

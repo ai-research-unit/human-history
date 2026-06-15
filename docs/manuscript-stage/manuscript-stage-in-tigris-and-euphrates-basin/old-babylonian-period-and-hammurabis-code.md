@@ -1,69 +1,139 @@
-# __2000 BCE – 1600 BCE__ — Old Babylonian Period and Hammurabi's Code
-__Summary:__ The alluvial plain between the Tigris and Euphrates witnesses the consolidation of Amorite dynasties culminating in Hammurabi's Babylon (1792–1750 BCE), which unifies southern Mesopotamia and produces the era's defining legal codification. The binding constraint is the administrative capacity to enforce contracts and adjudicate disputes across a linguistically mixed population of settled Akkadians and assimilated Amorite rulers. The system holds moderate margin against harvest failure through temple and palace granaries but remains vulnerable to the geopolitical shock that ends the period — the Hittite raid of ~1595 BCE. Direction of change runs toward legal standardization, literary canonization, and scribal proliferation until the abrupt rupture.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Flat alluvial plain between the Tigris and Euphrates from the Persian Gulf to the piedmont; natural corridors run northwest-southeast along the rivers; overland movement impeded by seasonal marshes in the south and limited cross-desert routes to Syria; canals serve as both irrigation and transport arteries.<br><br>
-__Climate Regime & Volatility:__ Hot, arid summers; mild winters with modest rainfall (100–200 mm annually in the north, near zero in the south); agriculture wholly dependent on river flood and canal irrigation; interannual flood variability creates episodic crop stress but no secular drift detected in the window.<br><br>
-__Hazard Regime & Exposure:__ Periodic Tigris and Euphrates floods risk breaching levees and inundating fields; drought years reduce river flow below irrigation needs; no significant seismic or volcanic exposure; margin against flood is adequate where canal maintenance is sustained, thin where neglected.<br><br>
-__Resource & Energy Endowment:__ Rich alluvial soils replenished by flood silt; no local stone, metal, or timber — all imported from upland zones; bitumen from Hit available for waterproofing; clay superabundant for construction and tablets; date palms provide wood, fruit, and fiber.<br><br>
-__Waste Absorption & Sink Capacity:__ Low population density relative to floodplain area; organic waste recycled through fields; salinization from irrigation accumulates in some southern districts but absorptive capacity remains ample across the period; no saturation crisis evident.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic gastrointestinal and waterborne disease from canal proximity; malaria likely present in marshlands; infant and child mortality high by modern standards but stable within the window; no documented epidemic shock on the scale of later Bronze Age collapse.<br><br>
-__Nutrition & Physiological Vitality:__ Barley-based diet supplemented by dates, legumes, fish, and some meat; skeletal evidence indicates moderate stature; nutritional adequacy in normal years, stress markers appearing in drought sequences; physiological vitality sufficient for labor demands.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Monogamous marriage norm with concubinage legally regulated; bride-price and dowry systems documented in contracts; fertility adequate for population maintenance; no evidence of demographic crisis within the window.<br><br>
-__Demographic Renewal & Density:__ Modest population growth across the period; urban centers (Babylon, Sippar, Larsa, Ur) reach tens of thousands; rural density supports canal maintenance and agricultural surplus; age structure skews young due to mortality profile.<br><br>
-__Attrition & Dependency Overhang:__ Orphans and widows provided for through family obligation and some palace rations; elderly absorbed within extended households; dependency load manageable within kinship pooling; no structural overhang threatening productive capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Barley cultivation via canal irrigation provides caloric base; date orchards, vegetable gardens, fishing, and sheep-goat herding supplement; household pooling and neighborhood sharing buffer shortfalls; provisioning floor secure in normal years, stressed in drought.<br><br>
-__Energy Capture & Conversion:__ Human and animal muscle (oxen, donkeys) power agriculture and transport; no water or wind mills attested; firewood and dried dung for fuel; per-capita energy ceiling low but adequate for agrarian surplus and modest craft production.<br><br>
-__Labor Organization & Coercion:__ Mixed labor regime — free cultivators, debt bondage, chattel slavery, and corvee for state projects; Hammurabi's Code regulates wages, contracts, and conditions of servitude; coercion present but contractual wage labor also widespread; system stable.<br><br>
-__Production & Surplus Capacity:__ Irrigated barley yields of 10–20-fold seed return in good years; surplus extracted by palace and temple; textile production for export; surplus adequate for monumental construction, military campaigns, and scribal establishment.<br><br>
-__Storage, Reserves & Buffering:__ Palace and temple granaries hold multi-year reserves; private households store in sealed jars; silver and grain function as reserves; buffering sufficient to absorb single bad harvest, strained by consecutive failures.<br><br>
-__Exchange, Trade & Logistics:__ Long-distance trade for metals (tin from Afghanistan, copper from Oman), timber (Lebanon), and stone; silver-based exchange with standardized weights; donkey caravans and river boats; Sippar and Babylon as commercial hubs; supply chains extend to Anatolia and the Gulf.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Silver by weight serves as unit of account and store of value; barley as secondary standard; interest-bearing loans documented in thousands of contracts; temple and private lending; credit system sophisticated and legally enforceable.<br><br>
-__Surplus Extraction & Redistribution:__ Palace levies grain tax and labor corvee; temple collects tithes and manages estates; redistribution through rations to dependents, soldiers, and officials; extraction load sustainable given surplus capacity.<br><br>
-__Wealth Distribution & Asset Defense:__ Land ownership concentrated in palace, temple, and elite families; private ownership of fields and houses legally recognized and defended through contracts; debt leads to temporary bondage but redemption possible; inequality stable, not widening sharply.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residue recycled as fodder and fuel; urban waste disposed in streets and middens; no industrial effluent; waste load trivial relative to absorptive capacity of open landscape.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Neighborhood (babtu) and kinship networks provide mutual aid; contracts require witnesses, reinforcing trust through social accountability; trust radius extends beyond kin to commercial partners; radius stable within the window.<br><br>
-__Stratification, Status & Group Identity:__ Three-tier legal status — awilum (free citizen), mushkenum (dependent commoner), wardum (slave) — with distinct legal protections; Amorite rulers assimilated into Akkadian elite; ethnic boundaries softening through intermarriage and acculturation.<br><br>
-__Kinship, Family & Inheritance:__ Patrilineal descent; patrilocal marriage; inheritance divided among sons with eldest receiving preferential share; daughters receive dowry; adoption legally formalized; family structure stable and legally codified.<br><br>
-__Civic Association & Self-Organization:__ Guild-like organizations for merchants (karum) and craftsmen; neighborhood assemblies adjudicate minor disputes; temple communities provide associational framework; civic fabric robust and thickening with commercial growth.<br><br>
-__Leisure, Play & Sociability:__ Taverns (run by ale-wives) serve as social spaces; festivals for Marduk and other deities punctuate calendar; board games (Royal Game of Ur) widespread; leisure integrated into religious and commercial life.<br><br>
-__Grievance Channels & Social Discharge:__ Legal petitions to royal judges; debt release edicts (misharum) periodically proclaimed by kings to discharge accumulated grievance; temple charity; most friction metabolized through formal and informal channels; standing instability low.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Centralized monarchy at Babylon under Hammurabi; king holds legislative, judicial, and military authority; provincial governors (shakannu) administer regions; power consolidated after unification wars, stable during Hammurabi's reign, fragmenting under successors.<br><br>
-__Succession & Power Transfer:__ Hereditary succession from father to son; Hammurabi succeeded by Samsu-iluna; contested successions occur but dynasty persists until Hittite raid; transfer routinized within the window.<br><br>
-__Legitimacy & Political Narrative:__ King as shepherd appointed by gods (Marduk, Shamash) to establish justice; Hammurabi's stele presents law as divine mandate; narrative widely accepted; legitimacy strong during the period.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Extensive scribal bureaucracy; archives of correspondence, tax records, and judicial proceedings; corruption addressed in law code; administrative reach extends to village level; capacity adequate for territorial control.<br><br>
-__Political Participation & Mobilization:__ Elders and assemblies consulted on local matters; petitions reach the king; no mass mobilization outside military levy; participation channeled through hierarchical structures; dissent expressed through legal petition rather than open defiance.<br><br>
-__Geopolitical Position & External Relations:__ Babylon achieves regional hegemony after defeating Larsa, Eshnunna, and Mari; diplomacy with Elam and northern kingdoms; Hittite power distant until the raid of ~1595 BCE; external pressure low during Hammurabi's reign, rising thereafter.<br><br>
-__Coercive Apparatus & Means of Force:__ Standing army supplemented by conscription; bronze weaponry (spears, axes, bows); chariots present but infantry-dominant; fortified cities; force monopoly held by palace; distribution of weapons controlled.<br><br>
-__Internal Order & Threat Environment:__ Banditry suppressed on trade routes; crime addressed through legal system; rebellion rare during consolidation; internal order stable; enforcement capacity exceeds disorder load.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Royal messengers on foot and donkey; letters on clay tablets; transmission measured in days to weeks across the kingdom; reach extends to all administrative centers; information velocity adequate for governance.<br><br>
-__Record, Storage & Persistence:__ Clay tablets fired or sun-dried; palace and temple archives; private household records; durability excellent — tablets survive millennia; retrieval organized by archive location; persistence high.<br><br>
-__Framing, Censorship & Discourse Norms:__ Royal inscriptions frame king as just shepherd; no systematic censorship but speech conventions defer to authority; legal and commercial discourse formulaic; permitted band stable.<br><br>
-__Reception, Attention & Amplification:__ Public reading of royal edicts at city gates; scribes mediate for illiterate majority; amplification through repetition in legal and ritual contexts; attention concentrated on official and commercial information.<br><br>
-__Signal Integrity & Noise Load:__ Standardized scribal training ensures copy accuracy; lexical lists maintain terminological consistency; noise low within administrative system; verification through witness seals; integrity high.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice (kittum) and equity (misharu) as divine values; wrongdoing offends gods and destabilizes society; collective conscience supports legal order; moral foundations strong and articulated.<br><br>
-__Law, Codification & Regulatory Evolution:__ Code of Hammurabi (~1754 BCE) collects 282 case laws covering property, family, labor, injury, and commerce; builds on earlier codes (Ur-Nammu, Lipit-Ishtar); codification represents apex of Mesopotamian legal development; regulatory framework comprehensive.<br><br>
-__Adjudication, Enforcement & Liability:__ Royal judges (dayyanum) adjudicate disputes; temple oaths invoke divine sanction; written contracts with witnesses and seals; liability assigned through evidence and testimony; enforcement through palace authority; throughput adequate.<br><br>
-__Rights, Protections & Compliance Burden:__ Graduated protections by status (awilum, mushkenum, wardum); property rights defended; contractual autonomy high for free persons; compliance burden moderate — legal formalities required but accessible through scribes.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful families may escape full liability; debt bondage absorbs some injustice; royal misharum edicts attempt to clear accumulated wrongs; impunity limited but present; backlog low given judicial throughput.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Empirical observation in service of divination and administration; mathematical astronomy in early development; no separation of natural philosophy from religious explanation; paradigm integrates practical and cosmological knowledge.<br><br>
-__Applied Knowledge & Technical Method:__ Sophisticated irrigation engineering; bronze metallurgy imported and locally finished; mathematical problem-solving for surveying, construction, and commerce; Plimpton 322 tablet demonstrates algebraic understanding; technique mature and reproducible.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Edubba (scribal schools) train professional scribes in reading, writing, mathematics, and Sumerian classics; literacy confined to scribal class (~1–2% of population); knowledge stock accumulating; skill distribution narrow but deepening.<br><br>
-__Obsolescence & Knowledge Decay:__ Sumerian maintained as scholarly language though no longer spoken; older texts copied and preserved; no significant knowledge loss within the window; decay rate low; error cleared through copying conventions.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Babylonian identity coalesces around Marduk as supreme deity; Epic of Gilgamesh standardized; creation myth (Enuma Elish) in formation; Amorite heritage assimilated into Mesopotamian tradition; foundational identity strengthening.<br><br>
-__Artistic Expression & Material Culture:__ Cylinder seals, terracotta plaques, bronze figurines; monumental architecture in mudbrick with baked-brick facing; stele of Hammurabi as iconic artifact; aesthetic conventions continuous with earlier periods but Babylonian style emerging.<br><br>
-__Collective Mood & Behavioral Disposition:__ Confidence during Hammurabi's reign; pride in legal order and urban civilization; risk perception moderate; mood stable until late-period pressures; behavioral temper oriented toward commerce and legal formalism.<br><br>
-__Form Exhaustion & Meaning Decay:__ Literary and artistic forms vital and productive; no significant exhaustion; mythological symbols retain potency; renewal through codification and canonization rather than decay.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Polytheistic cosmos governed by divine assembly; human fate determined by gods; afterlife grim (dust and darkness); piety essential for favorable fortune; fatalism balanced by belief in efficacy of ritual and prayer.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Daily temple offerings; monthly festivals; New Year (Akitu) festival central to Babylonian identity; divination (extispicy, astrology) guides decisions; devotional practice pervasive and institutionalized.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Temple estates economically powerful; priesthoods organized hierarchically; Marduk's cult rising toward supremacy at Babylon; doctrinal authority held by temple scholars; orthodoxy consolidating around Babylonian synthesis.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Amorite deities absorbed into Mesopotamian pantheon; Marduk's elevation represents syncretism and centralization; no significant displacement of older gods, rather incorporation; diffusion outward to regions under Babylonian influence.<br><br>
-__Disenchantment & Sacred Discharge:__ No secularizing drift; sacred order intact; existential questions addressed through myth and ritual; disenchantment absent; spiritual need fully anchored in functioning religious system.<br><br>
+# __2000 BCE – 1600 BCE — Old Babylonian Period and Hammurabi's Code__
+
+__Summary:__ Amorite dynasties consolidate the southern alluvium under Babylon, producing in Hammurabi's reign (1792–1750 BCE) a territorial state whose authority is codified in monumental inscription and disseminated through a scribal apparatus that makes written law the public medium of justice; the binding constraint is the fragility of irrigation-dependent surplus in an environment of inter-city warfare, seasonal flooding, and endemic debt accumulation that periodically forces royal debt cancellations (misharum edicts) to prevent social collapse.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The southern Mesopotamian alluvium lies flat between Tigris and Euphrates, permitting canal construction but offering no natural defense; cities cluster along watercourses, separated by irrigated fields and date groves, with overland movement constrained by summer heat and absence of stone or timber.
+
+__Climate Regime & Volatility:__ Hot, arid summers and mild winters; rainfall negligible south of the 200mm isohyet, making agriculture entirely dependent on irrigation; spring floods from Anatolian snowmelt arrive later than optimal for barley harvest, requiring canal management.
+
+__Hazard Regime & Exposure:__ Unpredictable flood timing threatens crops; river course shifts abandon canals; salinization from over-irrigation accumulates in poorly drained fields; locust swarms and drought cycles periodically destroy harvests.
+
+__Resource & Energy Endowment:__ Alluvial clay abundant for bricks and tablets; date palms provide food, fiber, and timber substitute; reeds supply construction material; copper, tin, stone, and quality timber must be imported from highlands or traded through the Gulf.
+
+__Waste Absorption & Sink Capacity:__ Saline groundwater rises where drainage fails; tell accumulation buries earlier occupation layers; canal silting requires constant dredging; abandoned fields become unrecoverable salt pans.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Canal irrigation creates mosquito habitat; malaria likely endemic; gastrointestinal disease from water contamination; infant mortality high; epidemic outbreaks recorded in omen literature.
+
+__Nutrition & Physiological Vitality:__ Barley, dates, fish, and sheep/goat products form dietary base; nutritional adequacy depends on harvest success; skeletal evidence shows periodic nutritional stress; elite diet includes more meat and imported goods.
+
+__Care, Healing & Recovery Capacity:__ Healing practitioners (asu, physician; ashipu, exorcist) documented in texts; pharmacopoeias list plant and mineral remedies; Hammurabi's code regulates surgical fees and malpractice liability; temple and palace support some care infrastructure.
+
+__Reproductive Biology & Pairing Dynamics:__ Marriage contracts specify bride-price, dowry, and divorce terms; polygyny permitted but monogamy typical among commoners; wet-nursing contracts documented; fertility invocations in religious texts.
+
+__Demographic Renewal & Density:__ Urban populations estimated at 10,000–50,000 per major city; Babylon perhaps 60,000 at peak; total regional population possibly 1–1.5 million; Amorite immigration augments population base.
+
+__Attrition & Dependency Overhang:__ Widows and orphans protected in law codes; debt bondage absorbs some dependent population; temple institutions maintain the destitute; aged and infirm depend on family or institutional support.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Barley rations form the wage-unit (kurru system); date cultivation provides second staple; household gardens, fishing, and animal husbandry supplement; institutional households (temple, palace) distribute rations to dependents.
+
+__Energy Capture & Conversion:__ Human and animal muscle power predominates; donkeys for transport, oxen for plowing; irrigation lifts water through manual shaduf or gravity canals; fuel from dung, reed, and imported wood.
+
+__Labor Organization & Coercion:__ Free commoners (awilum), dependent workers (mushkenum), and slaves (wardum) form tripartite hierarchy; corvee labor for canal maintenance; debt bondage temporary under misharum cancellations; artisan specialization in palace and temple workshops.
+
+__Production & Surplus Capacity:__ Irrigated barley yields 20–30 fold in good years; wool textile production for export; date processing and beer brewing as secondary industries; surplus sufficient for monumental construction and military campaigns when uninterrupted.
+
+__Storage, Reserves & Buffering:__ Temple and palace granaries store multi-year reserves; private merchants (tamkarum) warehouse trade goods; grain loans bridge harvest gaps; debt accumulation during bad years creates systemic fragility requiring royal intervention.
+
+__Exchange, Trade & Logistics:__ Long-distance trade via Gulf (Dilmun, Magan) and overland to Syria and Anatolia; silver as primary value standard; merchant partnerships documented in contracts; royal trade monopolies coexist with private enterprise.
+
+__Value Storage, Credit & Deferred Exchange:__ Silver (shekel) and barley serve as units of account; interest rates regulated (20% on silver, 33% on grain); extensive credit networks documented in thousands of loan tablets; debt instruments circulate as quasi-currency.
+
+__Surplus Extraction & Redistribution:__ Temple receives offerings and manages agricultural estates; palace extracts tribute, tax, and corvee; redistribution through rations, feasting, and public works; misharum edicts periodically cancel consumer debts and release bondsmen.
+
+__Wealth Distribution & Asset Defense:__ Land held by palace, temple, and private owners; inheritance law codified in Hammurabi's code; merchants and bureaucrats accumulate movable wealth; property boundaries recorded and disputes adjudicated in courts.
+
+__Byproducts & Waste Routing:__ Organic waste recycled as fuel or fertilizer; broken pottery accumulates in middens; canal dredgings deposited on banks; debt overhang cleared by periodic royal edicts rather than bankruptcy proceedings.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal inheritance with protected widow's rights; division among sons documented in contracts; adoption contracts establish fictive kinship; marriage creates alliance between households.
+
+__Association & Mutual Aid:__ Neighborhood (babtu) provides mutual support; professional groups (scribes, merchants, craftsmen) share interests; elders (shibut alim) mediate disputes; temple communities integrate worshippers.
+
+__Leisure, Play & Sociability:__ Taverns (run by women) provide social space; festival calendars mark religious celebrations; board games, music, and storytelling documented; drinking and feasting mark contracts and alliances.
+
+__Stratification, Status & Group Structure:__ Three-tier legal status (awilum, mushkenum, wardum) codified in law; differential penalties reflect status hierarchy; scribal and priestly families form literate elite; Amorite tribal identity persists alongside urban residence.
+
+__Administrative Capacity & Institutional Integrity:__ Palace bureaucracy maintains tax rolls, labor registers, and correspondence; local mayors (rabianum) administer towns; judges (dayyanum) hear cases; archive-keeping systematic; Hammurabi's letters show direct royal intervention in provincial affairs.
+
+__Coercive Apparatus & Means of Force:__ Standing army small; militia levy (ilkum service) provides troops in exchange for land grants; city walls defensive; bronze weaponry standard; chariotry limited; control depends more on legitimacy than permanent garrison.
+
+__Discharge, Disorder & Decay:__ Inter-city warfare endemic before Hammurabi's unification; banditry in unpatrolled areas; private violence regulated through talion and compensation; debt bondage as social safety valve and source of friction; state apparatus fragments after Hammurabi's successors lose territory.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Religious piety assumed normative; fear of divine punishment for oath-breaking structures commercial relations; loyalty to city and king expressed in royal inscriptions; anxiety about debt documented in letters.
+
+__Leadership & Personal Authority:__ Hammurabi presents himself as shepherd chosen by gods; personal correspondence shows hands-on administration; legitimacy drawn from justice (misharu) and military success; royal charisma documented in hymns.
+
+__Legitimacy as Lived Allegiance:__ Law code's prologue claims divine mandate and beneficent rule; stela's public display invites appeal to royal justice; actual compliance depends on local enforcement; regional resistance after Hammurabi's death suggests limited penetration.
+
+__Political Will & Collective Resolve:__ Hammurabi's unification campaign (1764–1755 BCE) shows sustained military and diplomatic will; successors unable to maintain expansion; inter-city rivalries resume; will to collective action fragmentary.
+
+__External Relations & Posture:__ Diplomatic correspondence with Zimri-Lim of Mari, Shamshi-Adad of Assyria, and others; marriage alliances; tribute relationships; Babylon rises through shifting alliances before Hammurabi's conquests; Hittite raid (1595 BCE) finds weakened state.
+
+__Disaffection, Apathy & Spent Will:__ Debt-burdened population requires periodic relief; runaway slaves and absconding debtors documented; military settler (rediqu) desertion punishable by death; post-Hammurabi contraction suggests exhaustion of expansionist capacity.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Cuneiform script mastered by trained scribes (tupsharu); Akkadian now primary written language, Sumerian preserved for liturgical and learned use; literacy confined to perhaps 1–2% of population; oral proclamation mediates written law to illiterate majority.
+
+__Channels & Transmission Velocity:__ Royal messengers (mar shipri) carry letters; donkey caravans transport goods and correspondence; information travels at walking speed (15–25 km/day); relay stations on major routes.
+
+__Record, Storage & Persistence:__ Clay tablets survive indefinitely when baked or buried; palace and temple archives preserve administrative records; private households keep contracts; Hammurabi's stela designed for permanent public display.
+
+__Framing, Censorship & Discourse Norms:__ Royal inscriptions control political narrative; law code frames king as agent of divine justice; commercial contracts follow formulaic templates; letter-writing conventions standardized.
+
+__Reception, Attention & Amplification:__ Stela placed in temple for public access; law code read aloud to litigants; scribal education transmits standard texts; hymns and incantations performed; literary texts copied in schools.
+
+__Signal Integrity & Noise Load:__ Cylinder seals authenticate documents; witnesses required for contracts; oath-taking invokes divine sanction for truthfulness; forgery punished; archival organization prevents loss but retrieval labor-intensive.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Misharu (justice/equity) and kittum (truth/cosmic order) form ideological foundation; gods demand righteous conduct; protection of weak (widow, orphan) articulated as royal duty; reciprocity governs commercial relations.
+
+__Law, Codification & Regulatory Evolution:__ Hammurabi's code (c. 1754 BCE) compiles 282 provisions covering family, property, commerce, and injury; builds on earlier codes (Ur-Nammu, Lipit-Ishtar, Eshnunna); represents aspirational ideal and reference text rather than exhaustive statute.
+
+__Adjudication, Liability & Sanction:__ Royal judges and local assemblies adjudicate disputes; ordeal by river for unresolvable cases; talion principle (eye for eye) applies to injuries between equals; monetary compensation for injuries to lower-status persons; death penalty for serious offenses.
+
+__Rights, Protections & Compliance Burden:__ Differential rights by status encoded in law; women hold property and conduct business but under male guardianship; contract formalism protects parties; compliance with written terms enforceable.
+
+__Impunity & Unredressed Wrong:__ Powerful creditors accumulate defaulted pledges; debt bondage falls disproportionately on poor; misharum edicts acknowledge systemic injustice requiring periodic correction; royal justice accessible in theory, costly in practice.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Scribal schools (edubba) transmit mathematical, astronomical, and divinatory knowledge; base-60 mathematics inherited from Ur III; omen compendia systematize empirical observation; inquiry oriented toward practical and religious ends.
+
+__Applied Knowledge & Technical Method:__ Irrigation engineering, surveying, and calculation techniques refined; mathematical problem texts train surveyors and accountants; pharmacological lists compile medical knowledge; astronomical observation serves calendrical and divinatory purposes.
+
+__Education, Knowledge Stock & Skill Distribution:__ Scribal training requires years of apprenticeship; curriculum includes sign lists, model contracts, mathematical exercises, and Sumerian literary texts; knowledge concentrated in scribal families and institutional households; oral transmission predominates outside literate elite.
+
+__Obsolescence & Knowledge Decay:__ Sumerian becomes purely learned language; some Early Dynastic sign forms obsolete; knowledge preserved through copying but transmission chains vulnerable to disruption; post-Hammurabi contraction reduces scribal activity.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Sumerian literary tradition (Gilgamesh, Enuma Elish precursors) transmitted; city-god identities (Marduk of Babylon rising to prominence); Amorite tribal origins retained in personal names and genealogies; flood narrative links present to primordial past.
+
+__Legitimating Narrative & Ideology:__ Hammurabi's code prologue presents king as chosen by Anu and Enlil to bring justice; victory inscriptions celebrate conquests as divine will; royal ideology synthesizes Sumerian precedent with Amorite dynasty's claims.
+
+__Artistic Expression & Material Culture:__ Stela carving combines text and image (Hammurabi receiving law from Shamash); cylinder seals depict presentation scenes and divine symbols; temple architecture continues Sumerian patterns; textile arts documented but perishable; music and poetry performed at court and temple.
+
+__Form Exhaustion & Meaning Decay:__ Sumerian literary forms preserved but language no longer spoken; city-god traditions persist but Marduk's rise reflects new political reality; artistic conventions stable rather than innovative; formulaic repetition in administrative texts efficient but unoriginal.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Polytheistic cosmos with Anu (sky), Enlil (wind/authority), and Ea (wisdom) as senior gods; Marduk's ascent as Babylon's patron reflects political rise; humans created to serve gods; afterlife gloomy (netherworld); fate determined by divine will and readable through omens.
+
+__Ritual, Devotion & Sacred Practice:__ Daily temple offerings feed divine statues; New Year (Akitu) festival renews cosmic order; divination through extispicy (liver reading), astrology, and dream interpretation; personal piety expressed through votive offerings and prayer.
+
+__Religious Institutions & Doctrinal Authority:__ Temple households (e.g., Shamash temple at Sippar) control substantial land and labor; priesthoods hereditary in certain families; cultic calendar organizes ritual year; doctrinal variation between city traditions synthesized under Babylonian hegemony.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Sumerian-Akkadian syncretism complete; Amorite deities absorbed into Mesopotamian pantheon; Babylonian religious forms spread with political influence; Marduk theology elaborated.
+
+__Disenchantment & Sacred Discharge:__ Divine sanction permeates law and commerce; no secular sphere distinct from religious; anxieties about divine displeasure documented in omens and prayers; theodicy questions raised in wisdom literature but faith structure remains intact.

@@ -1,69 +1,139 @@
-# __771 BCE – 476 BCE__ — Spring and Autumn Period and Classical Learning
-__Summary:__ Eastern Zhou polity in which royal authority persists ritually but effective sovereignty fragments among hegemonic lordships competing through diplomacy, warfare, and shifting coalitions across the Yellow and Yangtze basins. Temporal bounds run from the 771 BCE sack of the western capital and relocation to Luoyang through the conventional 476 BCE transition to intensified Warring States warfare. The binding constraint is the contradiction between the Zhou king's ritual centrality and his military impotence, forcing interstate order onto alliance covenants, recorded oaths, and the emerging scribal apparatus that preserves them. The system holds moderate slack against external nomadic pressure but erodes internally as hegemonic cycles shorten and peripheral states strengthen. Direction of change runs toward multipolarity, bureaucratic formalization, and the textualization of ethical and ritual knowledge under masters like Confucius.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The North China Plain centered on the Yellow River provides the core arena, with loess highlands to the west, Shandong hills to the east, and the Huai and Yangtze watersheds extending southern reach; movement flows along river valleys and across relatively flat terrain, though mountain passes and river crossings remain chokepoints for armies and trade.<br><br>
-__Climate Regime & Volatility:__ Continental monsoon climate with cold dry winters and warm wet summers; interannual rainfall variability in the north produces periodic drought stress on millet and wheat cultivation, while the Yangtze region benefits from more reliable precipitation for emerging rice agriculture.<br><br>
-__Hazard Regime & Exposure:__ Yellow River flooding and channel shifts constitute the dominant hazard, periodically devastating downstream settlements; drought cycles compound agricultural stress in the loess regions, and seismic activity affects parts of the North China Plain, though state capacity to respond remains limited.<br><br>
-__Resource & Energy Endowment:__ Iron ore deposits become increasingly accessible as smelting technology advances, supplementing the bronze metallurgy inherited from the Shang; timber remains adequate in peripheral uplands though pressure mounts near population centers, and salt sources support both subsistence and state revenue.<br><br>
-__Waste Absorption & Sink Capacity:__ Agricultural and settlement wastes disperse into the landscape with negligible cumulative effect at current population densities; deforestation around major centers begins but sink capacity remains effectively unlimited for the period's metabolic load.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic diseases including malaria in southern wetlands and various parasitic infections impose a background mortality load, but no documented epidemic crises define the period; infant and childhood mortality remains high by later standards but stable.<br><br>
-__Nutrition & Physiological Vitality:__ Millet-based diet in the north and emerging rice cultivation in the south provide adequate caloric foundation for most years; elite diet includes meat and ritual provisions, while commoner nutrition fluctuates with harvest quality, leaving bodies generally functional but vulnerable to lean years.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Patrilineal clan structure governs marriage alliances, with elite unions carrying diplomatic weight among ruling houses; reproductive capacity remains biologically unconstrained, with clan continuity a paramount concern shaping pairing strategies.<br><br>
-__Demographic Renewal & Density:__ Population grows moderately across the period, with the North China Plain supporting denser settlement and southern regions remaining relatively sparse; replacement rates exceed mortality in most decades, feeding the manpower demands of competing states.<br><br>
-__Attrition & Dependency Overhang:__ Warfare produces casualties concentrated among military-age males, widows, and orphans absorbed by extended clan structures; aged dependents remain within household units, and the dependency burden stays within clan absorption capacity without systemic strain.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Peasant households cultivate millet, wheat, and increasingly rice, provisioning themselves at subsistence with surplus extracted by lords; drought or flood can press communities toward the carrying-capacity edge, but most years maintain an adequate buffer.<br><br>
-__Energy Capture & Conversion:__ Human and ox labor power grain agriculture, supplemented by bronze and emerging iron tools; waterpower remains unexploited at scale, and the energy ceiling stays defined by agrarian muscle output and the efficiency of metal implements.<br><br>
-__Labor Organization & Coercion:__ Peasants owe labor service and military duty to lords under a semi-feudal arrangement; slavery exists for war captives and debtors, but the primary extraction mechanism is corvee and tribute obligation rather than chattel ownership.<br><br>
-__Production & Surplus Capacity:__ Agricultural surplus supports increasingly dense elite consumption, bronze casting, and military mobilization; iron adoption begins raising productivity, though the surplus ceiling remains modest by later imperial standards.<br><br>
-__Storage, Reserves & Buffering:__ Granary systems exist at state and local levels to buffer harvest fluctuations; lords maintain reserves against siege and military campaign, though multi-year drought can exceed storage depth and destabilize populations.<br><br>
-__Exchange, Trade & Logistics:__ Interstate trade in salt, metals, textiles, and luxury goods flows along river routes and overland corridors; cowrie shells and early bronze tokens circulate as proto-currency, with merchant activity emerging but subordinate to aristocratic redistribution.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Wealth concentrates in bronze vessels, land, and grain stores; formal coinage remains nascent, and credit operates through kinship and patronage networks rather than impersonal instruments.<br><br>
-__Surplus Extraction & Redistribution:__ Lords extract grain tribute, labor corvee, and military service from dependent populations, redistributing through ritual feasting, client maintenance, and campaign provisioning; the extraction load varies by lord but remains sustainable in most states.<br><br>
-__Wealth Distribution & Asset Defense:__ Sharp stratification separates aristocratic lineages holding land and bronze wealth from commoner cultivators; elite position defends through hereditary succession, though hegemonic competition occasionally overturns ruling houses.<br><br>
-__Byproducts & Waste Routing:__ Agricultural residues return to fields or feed animals; metallurgical slag accumulates near foundries but at scales the environment absorbs without visible degradation; no systemic waste crisis emerges.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Trust radiates outward from kinship cores, with clan solidarity providing the primary mutual-aid framework; interstate covenants attempt to extend trust across polities through sworn oaths and recorded agreements, though violations remain common.<br><br>
-__Stratification, Status & Group Identity:__ Hereditary aristocracy dominates, with titled nobility (gong, hou, bo, zi, nan) ranked below the Zhou king; commoners occupy an undifferentiated mass beneath, and the boundary between noble and common remains rigid though military merit occasionally enables rise.<br><br>
-__Kinship, Family & Inheritance:__ The zongfa system of patrilineal descent governs inheritance, with the eldest son of the principal wife inheriting lordship and younger sons receiving subordinate domains; ancestral temples anchor clan identity and obligation.<br><br>
-__Civic Association & Self-Organization:__ Village communities and clan organizations provide local coordination beneath aristocratic oversight; merchant and artisan associations remain embryonic, and formal civic structures independent of kinship are minimal.<br><br>
-__Leisure, Play & Sociability:__ Aristocratic culture centers on ritual feasting, archery, chariot racing, and musical performance; seasonal festivals mark the agricultural calendar, and the Book of Poetry preserves songs reflecting both elite and commoner social occasions.<br><br>
-__Grievance Channels & Social Discharge:__ Lords adjudicate disputes among dependents, with no formal channel for commoner grievance against nobility; ritual propriety and shame mechanisms constrain aristocratic behavior, but unredressed wrongs accumulate among the powerless without systematic outlet.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ The Zhou king retains ritual supremacy and the right to legitimate hegemonic lords (ba) but commands no effective military force; actual power disperses among competing states (Qi, Jin, Chu, Qin, and others) whose lords exercise sovereign authority within their domains.<br><br>
-__Succession & Power Transfer:__ Hereditary succession within ruling houses follows zongfa principles, but contested successions, regicides, and usurpations punctuate the period; hegemonic position passes among states through military-diplomatic competition rather than fixed rules.<br><br>
-__Legitimacy & Political Narrative:__ The Mandate of Heaven concept inherited from Western Zhou continues to underwrite royal ritual centrality, while hegemonic lords justify dominance through claims to protect the Zhou order and punish transgressors; Confucius begins articulating ethical legitimacy grounded in ritual propriety and benevolent rule.<br><br>
-__Administrative Capacity & Institutional Integrity:__ States develop increasingly sophisticated scribal and bureaucratic apparatus; bamboo and silk records document treaties, appointments, and legal matters; administrative capacity varies by state, with Jin and Qi relatively advanced and smaller polities more rudimentary.<br><br>
-__Political Participation & Mobilization:__ Political agency concentrates among hereditary nobility, with commoners mobilized as infantry and laborers but excluded from counsel; ministerial lineages wield influence at court, and factional competition intensifies within states.<br><br>
-__Geopolitical Position & External Relations:__ The interstate system operates through shifting alliances, hegemonic conferences, and covenant diplomacy; peripheral states like Chu and Qin press inward, while Rong and Di peoples along the northern and western margins pose intermittent threat and opportunity.<br><br>
-__Coercive Apparatus & Means of Force:__ Chariot-mounted nobility remains the elite combat arm, supported by infantry levies; bronze weapons predominate with iron beginning to appear; state capacity to mobilize and sustain armies grows across the period.<br><br>
-__Internal Order & Threat Environment:__ Interstate warfare constitutes the primary disorder, with battles, sieges, and raids punctuating decades; internal banditry remains subordinate to military competition, and rebellions against lords occur but rarely overturn the aristocratic order.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Information travels at messenger speed along chariot roads and river routes; diplomatic envoys carry formal communications between courts, while merchants and travelers spread informal news; velocity constrains coordination across the interstate system.<br><br>
-__Record, Storage & Persistence:__ Bamboo strips and silk fabric bear brush-written records of treaties, appointments, ritual protocols, and historical chronicles; archival practices develop at major courts, and the Spring and Autumn Annals represent the emerging historiographical tradition that preserves state memory across generations.<br><br>
-__Framing, Censorship & Discourse Norms:__ Ritual propriety governs aristocratic discourse, with elaborate conventions shaping diplomatic speech; no systematic censorship exists, but court historians record selectively, and poetic indirection often substitutes for direct criticism of superiors.<br><br>
-__Reception, Attention & Amplification:__ Literacy remains confined to scribal specialists and educated aristocrats; oral transmission amplifies key narratives, songs, and teachings beyond the literate minority, with Confucius's disciples spreading his words through recitation and eventual written compilation.<br><br>
-__Signal Integrity & Noise Load:__ The limited volume of formal records keeps noise manageable; treaty texts and chronicle entries maintain relative clarity, though transmission errors and variant readings begin accumulating across copying generations.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Justice centers on ritual propriety (li), reciprocal obligation, and ancestral precedent; Confucian ethics emphasizes benevolence (ren) and rightness (yi) as the foundation for legitimate rule and proper conduct.<br><br>
-__Law, Codification & Regulatory Evolution:__ Written law codes begin emerging in some states, with punishments for crimes inscribed on bronze vessels; customary practice and lord's judgment predominate over codified statute, though the trend moves toward formalization.<br><br>
-__Adjudication, Enforcement & Liability:__ Lords and their appointed ministers adjudicate disputes among subjects; interstate conflicts invoke covenant terms and hegemonic arbitration, with military force the ultimate enforcement mechanism; liability follows collective as well as individual lines.<br><br>
-__Rights, Protections & Compliance Burden:__ Commoners possess no formal rights against nobility; compliance with corvee, tribute, and military duty constitutes the primary burden, while aristocrats enjoy protections of rank that shield them from summary punishment.<br><br>
-__Impunity & Unredressed Wrong:__ Powerful lords frequently escape consequences for treaty violations and internal abuses; the weak suffer wrongs with limited recourse, and the gap between normative expectation and actual redress constitutes a standing grievance absorbed into the social fabric.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Systematic ethical and political inquiry emerges with Confucius and his contemporaries, focusing on the principles of good governance, ritual propriety, and human virtue; cosmological speculation remains subordinate to practical moral philosophy.<br><br>
-__Applied Knowledge & Technical Method:__ Iron smelting techniques advance, agricultural methods improve through better tools and water management, and military technology evolves toward larger infantry forces; technical knowledge transmits through craft apprenticeship rather than written treatise.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Education occurs within aristocratic households and among disciples of masters like Confucius; literacy concentrates in the scribal class and educated nobility; the classical texts (Poetry, Documents, Rites) form the emerging curriculum, with knowledge stock beginning systematic accumulation.<br><br>
-__Obsolescence & Knowledge Decay:__ Older ritual forms and some bronze-casting techniques begin obsolescence as practices evolve; knowledge loss remains modest given the relatively small accumulated stock, though variant textual traditions already diverge.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ The Zhou conquest of Shang and the Mandate of Heaven doctrine provide the foundational narrative; ancestral veneration anchors lineage identity, and the sage-kings of antiquity (Yao, Shun, Yu) serve as ethical exemplars for Confucian teaching.<br><br>
-__Artistic Expression & Material Culture:__ Bronze ritual vessels continue as prestige objects though styles evolve; jade carving, lacquerware, and silk textiles mark elite status; the Book of Poetry preserves song traditions reflecting both aristocratic and folk aesthetics.<br><br>
-__Collective Mood & Behavioral Disposition:__ Aristocratic culture emphasizes ceremonial dignity, martial honor, and literary cultivation; anxiety about disorder and the decline from a golden age pervades elite discourse, with Confucius lamenting the corruption of ritual and the fracturing of the Zhou order.<br><br>
-__Form Exhaustion & Meaning Decay:__ Some ritual forms become hollow performances as the political order they sanctified fragments; the gap between inherited ceremony and actual power relations generates the sense of decline that motivates Confucian reform, though cultural production remains vital and renewing.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Heaven (Tian) functions as a moral-cosmic authority sanctioning legitimate rule; ancestor spirits require propitiation and provide protection to their descendants; the outlook combines fatalism about Heaven's will with active human responsibility for moral cultivation.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Ancestral sacrifice at clan temples constitutes the core devotional practice; seasonal rituals mark agricultural transitions; the ruler performs sacrifices to Heaven and Earth that legitimate his cosmic mediation role.<br><br>
-__Religious Institutions & Doctrinal Authority:__ No centralized religious institution exists; ritual specialists serve at courts and temples, with the scribal class increasingly responsible for preserving and interpreting canonical texts; doctrinal authority remains diffuse among lineage traditions.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Regional variation in cult practices persists beneath a shared ancestral-worship framework; southern Chu develops distinctive shamanic traditions, while the Zhou ritual synthesis spreads through hegemonic emulation; no major displacement occurs within the period.<br><br>
-__Disenchantment & Sacred Discharge:__ The gap between ritual expectation and political reality produces incipient rationalization in Confucian thought, which emphasizes human agency and ethical cultivation over spiritual intervention; sacred forms persist but their explanatory power begins yielding ground to ethical philosophy.<br><br>
+# __771 BCE – 476 BCE — Spring and Autumn Period and Classical Learning__
+
+The binding constraint is the collapse of Zhou royal authority, which fractures the fengjian order into competing hegemonies while freeing scholarly discourse from ritual monopoly, generating the earliest portable texts and the philosophical foundations that will shape Chinese civilization. The most causal factor is the decoupling of legitimate ritual authority from effective military-political power, which compels both rulers and wandering scholars to articulate, in writing, competing visions of order.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The Yellow River basin remains the political heartland, with Luoyang as the diminished Zhou royal seat and major states—Qi in Shandong, Jin in Shanxi, Qin in the Wei valley, Chu in the middle Yangtze—controlling distinct geographic compartments separated by mountains, marshes, and river courses. Movement between states requires negotiation of passes and fords; armies and diplomatic missions move slowly, giving regional powers time to consolidate.
+
+__Climate Regime & Volatility:__ The period experiences moderate continental monsoon climate in the north, with millet and wheat cultivation dependent on summer rains. The Yangtze region is wetter and warmer, supporting rice in paddies. Interannual variability in rainfall causes periodic harvest failures, but no catastrophic long-term shift is attested; climate remains broadly favorable for population growth.
+
+__Hazard Regime & Exposure:__ Yellow River flooding remains an endemic hazard, requiring constant dike maintenance that states increasingly organize. Earthquakes affect the Shanxi rift zone occasionally. Drought and locust plagues recur but are absorbed by the agrarian base.
+
+__Resource & Energy Endowment:__ Loess soils in the north remain fertile with minimal tillage. Iron ore becomes increasingly exploited, especially in Chu and Qi. Salt from coastal Qi and Yan constitutes a strategic resource. Timber from the forested uplands supplies construction and fuel. Copper and tin for bronze remain important but bronze's relative significance declines as iron spreads.
+
+__Waste Absorption & Sink Capacity:__ Population densities remain low enough that human waste, animal dung, and workshop debris are absorbed by soils without saturation. Deforestation begins in some areas but does not yet impose system-wide constraints.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Endemic malaria is significant in the southern reaches; respiratory and gastrointestinal illnesses take their toll. Epidemics are not recorded with precision, but the population grows, suggesting mortality rates are balanced by high fertility. Warfare adds periodic mortality spikes.
+
+__Nutrition & Physiological Vitality:__ The agrarian majority subsists on grain (millet in the north, rice in the south), supplemented by vegetables, some pork, and fish where available. Aristocratic diets include preserved meats and ritual feasts. Nutritional status supports population growth, though periodic famine affects the lower strata.
+
+__Care, Healing & Recovery Capacity:__ Healing practices combine ritual divination, herbal remedies, and acupuncture in early forms. Shamans (wu) perform healing rites. No institutionalized medical system exists; care is household- and clan-based. Recovery from battle wounds is limited.
+
+__Reproductive Biology & Pairing Dynamics:__ Patrilineal clan structures govern marriage, with exogamy between surname groups. Polygyny among aristocrats ensures succession disputes. Early marriage and high fertility are normative.
+
+__Demographic Renewal & Density:__ Population grows from perhaps 10-15 million toward 20 million by the period's end. Growth occurs through agricultural intensification, especially with the spread of iron tools and oxen plowing. Density remains modest but increasing.
+
+__Attrition & Dependency Overhang:__ High infant mortality is offset by high fertility. Warfare kills disproportionately young men of the aristocratic and conscript classes, but the population absorbs these losses. The aged and infirm remain household burdens without institutional relief.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Millet, wheat, and rice cultivation, supplemented by gardens and animal husbandry, supports the population. Peasant households pay taxes in grain and labor. Famine occurs regionally but is not system-wide. The provisioning floor rises with iron tools.
+
+__Energy Capture & Conversion:__ Human muscle remains primary, supplemented by draft animals (oxen, horses) increasingly used in agriculture and transport. Charcoal fuels bronze and iron smelting. Water mills are not yet attested; energy conversion remains pre-mechanical.
+
+__Labor Organization & Coercion:__ The fengjian system assigns peasant households to aristocratic landholders who exact labor services (corvée) and grain taxes. Slavery exists at margins. The bound relation between peasant and lord begins loosening as states centralize, offering rewards to attract settlers.
+
+__Production & Surplus Capacity:__ Iron tools—plowshares, hoes, sickles—increase agricultural productivity. Surplus grain supports growing aristocratic establishments, military campaigns, and urban artisan populations. Workshops produce bronze ritual vessels, iron implements, lacquerware, and textiles.
+
+__Storage, Reserves & Buffering:__ Granaries store state reserves against famine and military need. Aristocratic households maintain their own stores. No coinage circulates; cowrie shells and bolts of silk serve as value-media. Reserves are thin by later standards.
+
+__Exchange, Trade & Logistics:__ Trade occurs between states: salt, iron, metals, silk, and luxury goods move along river routes and overland roads. Merchants (shang) emerge as a distinct class, sometimes wealthy but socially marginal. Market towns grow at crossroads. No standard currency exists; barter and cowries predominate.
+
+__Value Storage, Credit & Deferred Exchange:__ Value is stored in grain, silk, bronze vessels, and land. Credit relations exist within kin networks and between merchant partners. Cowrie shells serve as proto-currency in some regions. Coinage begins to appear in the late period.
+
+__Surplus Extraction & Redistribution:__ Lords extract grain and corvée from peasants. States tax according to land and household registration, though systems remain crude. Surplus funds military campaigns and court establishments. Redistribution occurs through ritual feasting and patronage.
+
+__Wealth Distribution & Asset Defense:__ Wealth concentrates in aristocratic clans who control land and bronze ritual goods. Land tenure is hereditary but increasingly contested. Some states begin rewarding merit with land grants, disrupting hereditary patterns.
+
+__Byproducts & Waste Routing:__ Agricultural waste recycles as fuel and fertilizer. Workshop debris accumulates locally. The economic residue is minimal: underdeveloped credit and monetary systems limit accumulation but also prevent debt crises.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Patrilineal clans (shi) form the aristocratic structure, with elaborate genealogies maintained orally and increasingly in writing. Primogeniture is nominal; succession disputes are frequent. Commoner kinship follows similar patrilineal patterns at smaller scale.
+
+__Association & Mutual Aid:__ Village communities share labor for irrigation and harvest. Guilds of artisans begin forming in larger towns. Mutual aid within kin networks remains primary. Ritual commensality reinforces bonds.
+
+__Leisure, Play & Sociability:__ Aristocrats engage in hunting, archery, chariot racing, and ritual feasting. Music accompanies ceremonies. Wine drinking is ritualized. Commoners have festivals tied to agricultural cycles.
+
+__Stratification, Status & Group Structure:__ A rigid hierarchy descends from Zhou king through feudal lords (zhuhou), ministers (qing), officers (daifu), and scholars (shi), down to commoners and slaves. The shi stratum expands and becomes mobile, seeking employment across state boundaries. Status is signaled by ritual prerogatives, chariot ownership, and bronze vessels.
+
+__Administrative Capacity & Institutional Integrity:__ The Zhou court retains ritual authority but commands no effective administration. Individual states develop bureaucratic capacities unevenly. Qin begins systematic legal reforms. Qi under Guan Zhong demonstrates early administrative innovation. Record-keeping on bamboo strips increases. Corruption and patrimonial allocation of office remain common.
+
+__Coercive Apparatus & Means of Force:__ Armies shift from chariot-based aristocratic warfare to larger infantry forces. Bronze weapons predominate, with iron appearing. States maintain standing forces and conscript peasants for campaigns. Fortifications of rammed earth protect capitals. The balance of military force among the major states is roughly even, encouraging diplomacy alongside war.
+
+__Discharge, Disorder & Decay:__ The fengjian order decays as lords ignore Zhou ritual authority. Regicide and usurpation occur repeatedly. Civil wars within states and wars between them cause endemic disorder. Banditry afflicts border regions. The Zhou court's inability to adjudicate disputes leaves grievance to accumulate.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Commoners' sentiments go largely unrecorded. Among the literate, a sense of civilizational crisis pervades—the rites are not observed, the music is corrupted, the hierarchy is inverted. Anxiety about disorder coexists with competitive ambition among states.
+
+__Leadership & Personal Authority:__ The hegemon (ba) system places effective leadership outside the Zhou kingship. Successive hegemons—Duke Huan of Qi, Duke Wen of Jin—command allegiance through military success and ritual prestige. Rulers increasingly seek counsel from traveling scholars.
+
+__Legitimacy as Lived Allegiance:__ Zhou kingship retains formal legitimacy; no state openly claims the royal title. But allegiance has hollowed: lords pay ritual obeisance while ignoring royal commands. The Mandate of Heaven concept provides a framework for judging rulers but does not stabilize actual allegiance.
+
+__Political Will & Collective Resolve:__ States demonstrate strong will to survive and expand. Alliance systems (hui) coordinate action among states but shift constantly. Internal factionalism—between ministerial families, between rulers and powerful ministers—fragments will within states.
+
+__External Relations & Posture:__ Interstate relations mix warfare, diplomacy, marriage alliance, and ritual covenants (meng). The system resembles a multipolar balance of power. Northern and western "barbarian" peoples (Rong, Di) are sometimes allied with, sometimes fought. Chu's legitimacy is contested by northern states.
+
+__Disaffection, Apathy & Spent Will:__ Elite writings express disaffection with the prevailing disorder. Confucius's wanderings reflect repeated rejection; his melancholy is paradigmatic. Commoners' disaffection manifests in flight to less-taxed territories. No mass movements are recorded, but the texts bespeak moral exhaustion.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Classical Chinese, though not yet standardized, provides a shared literary language for elites across states. Spoken dialects vary. Literacy remains confined to aristocrats, scribes, and the scholar (shi) class, perhaps one or two percent of the population. Writing is taught through copying canonical texts.
+
+__Channels & Transmission Velocity:__ Information travels by messenger on foot, horseback, or chariot. Diplomatic missions carry documents. News of battles and political changes moves within weeks across the civilization. Wandering scholars serve as human information channels, carrying teachings and political intelligence.
+
+__Record, Storage & Persistence:__ Bamboo strips bound with cord constitute the standard writing medium. Silk is used for precious documents. Bronze inscriptions continue but less frequently than in Western Zhou. Archives exist in state courts; temples store ritual texts. The material is vulnerable to fire, rot, and war.
+
+__Framing, Censorship & Discourse Norms:__ No centralized censorship exists. Discourse norms emphasize ritual propriety and the authority of antiquity. Texts cite the sages and the Documents (Shu). Speech is expected to conform to one's station; remonstrance is an elite privilege.
+
+__Reception, Attention & Amplification:__ Teaching occurs through oral instruction with textual support. Students memorize and recite. A text's authority depends on attribution to ancient sages or successful transmission through a recognized lineage. Amplification is slow and personal, through master-disciple chains.
+
+__Signal Integrity & Noise Load:__ Textual transmission is imperfect; variant versions circulate. Attribution to ancient figures is often retrospective or spurious. The noise problem is corruption of texts through copying errors and deliberate interpolation. The signal is still relatively intact because literacy is small-scale and controlled.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ The rites (li) inherited from Zhou tradition define proper conduct for each station. Reciprocity (bao), loyalty (zhong), and filial piety (xiao) structure obligation. A sense that the moral order has decayed pervades elite writings. Different schools offer competing visions of restoration.
+
+__Law, Codification & Regulatory Evolution:__ Customary and ritual norms govern most conduct. Some states begin publishing legal codes on bronze—Zheng in 536 BCE. Legalist precursors appear. Law is not yet separated from moral exhortation; penal statutes coexist with ritual prescriptions.
+
+__Adjudication, Liability & Sanction:__ Lords adjudicate disputes among their dependents. The Zhou court theoretically arbitrates interstate disputes but lacks enforcement power. Punishments are severe: mutilation, execution. Talion and collective responsibility prevail. Adjudication is slow and often bypassed by power.
+
+__Rights, Protections & Compliance Burden:__ No concept of individual rights exists. Subjects have obligations, not entitlements. Ritual propriety defines what is permitted for each station. Compliance burden is heavy for commoners: labor service, military conscription, taxes.
+
+__Impunity & Unredressed Wrong:__ The powerful enjoy substantial impunity. Lords are killed by rivals, but that is political contest, not legal sanction. Commoners have no recourse against aristocratic predation. The moral residue is substantial: Confucius's lament for the decline of rites is a lament for unredressed structural wrong.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ This is the originary moment of Chinese philosophy. Confucius articulates the restoration of rites and the cultivation of virtue (ren). The Laozi (in some form) proposes naturalness (ziran) against artificial ritual. The Book of Changes is interpreted philosophically. Inquiry is ethical and political, not natural-scientific; the paradigm is the rectification of names and restoration of order.
+
+__Applied Knowledge & Technical Method:__ Iron smelting and casting techniques improve. Agricultural methods advance with iron tools. Hydraulic engineering (dikes, irrigation) is organized by states. Astronomical observation supports calendar-making. Military treatises (ancestors of the Art of War) codify tactical knowledge.
+
+__Education, Knowledge Stock & Skill Distribution:__ Education occurs in aristocratic households and at rulers' courts. Confucius pioneers private teaching, accepting students regardless of origin. Students learn the canonical texts: the Odes, Documents, Rites, Music, and Changes. Literacy remains elite; craft knowledge transmits through apprenticeship.
+
+__Obsolescence & Knowledge Decay:__ The texts themselves warn of lost knowledge—the Duke of Zhou's institutions, the sages' true teachings. Variant textual traditions proliferate; canonical texts diverge. Knowledge of the authentic past is contested; the very debate about lost originals becomes a generative intellectual mode.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ The founding memory is the Zhou conquest of Shang and the Duke of Zhou's establishment of the ritual order. The sage kings—Yao, Shun, Yu—provide a mythic Golden Age. The Odes and Documents encode these memories. Identity is civilizational (hua/xia) against barbarian (yi, di, rong, man).
+
+__Legitimating Narrative & Ideology:__ The Mandate of Heaven (tianming) legitimates dynastic rule by moral performance. The Zhou claim it by virtue; their descendants squander it. Confucius and his school construct a narrative of decline from the Duke of Zhou's order, restorable through moral effort. Competing schools offer alternative narratives.
+
+__Artistic Expression & Material Culture:__ Bronze ritual vessels decline in elaboration but continue. Lacquerware, jade carving, and silk textiles flourish. Architecture uses rammed earth and timber; palaces and temples follow hierarchical spatial codes. The Odes constitute literary art—political and ritual songs now canonized. Calligraphy on bamboo and silk begins its development as an art form.
+
+__Form Exhaustion & Meaning Decay:__ The rites (li) are performed, but their meaning is contested. Confucius complains that ritual without reverence is empty form. Music is corrupted by licentious southern styles. The cultural residue is this gap between inherited form and lived conviction, which the philosophers seek to close.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Heaven (tian) is the supreme power, impersonal yet responsive to moral conduct. The Mandate of Heaven links cosmic and political order. Ancestral spirits continue to receive sacrifice. The balance of yin and yang organizes natural phenomena. Fatalism and activism coexist: Heaven's will is inscrutable, yet humans must act rightly.
+
+__Ritual, Devotion & Sacred Practice:__ Ancestral sacrifice remains central to aristocratic identity. State sacrifices to Heaven and Earth, to mountains and rivers, mark political legitimacy. The Zhou ritual system (detailed in the Rites) prescribes ceremonies for all occasions. Divination shifts from oracle bones to milfoil stalks and the Changes.
+
+__Religious Institutions & Doctrinal Authority:__ No separate religious institution exists; priests are state officials or clan elders. The Zhou court holds nominal ritual supremacy. Shamans (wu) practice healing and ecstatic rites at the margins. Doctrinal authority is diffuse, contested by emerging philosophical schools.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Local cults coexist with the Zhou high god cult. Southern Chu has distinct shamanic traditions (later reflected in the Chuci). No foreign religion penetrates. The spiritual landscape is diverse but bounded by the civilizational sphere.
+
+__Disenchantment & Sacred Discharge:__ The philosophers, especially Confucius, begin rationalizing ritual. Heaven becomes more abstract, less intervening. The sacred does not vanish but shifts register: moral self-cultivation replaces divination as the primary mode of connecting to cosmic order. The residue is not secularization but the emergence of philosophical religion alongside older practices.

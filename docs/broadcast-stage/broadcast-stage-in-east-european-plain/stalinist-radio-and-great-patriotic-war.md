@@ -1,69 +1,139 @@
-# __1930 CE – 1945 CE__ — Stalinist Radio and Great Patriotic War
-__Summary:__ The Soviet state consolidates centralized radio broadcasting as its primary instrument of mass communication, deploying it through collectivization, terror, and total war. The binding constraint is informational monopoly under Party control, with radio functioning as both mobilization tool and terror amplifier. Margin against shock proves thin under German invasion but holds through wartime broadcast mobilization; the system moves toward tighter ideological integration and traumatic national consolidation.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The East European Plain's vast expanse and sparse infrastructure impose severe transmission challenges; wired radio networks partially circumvent distance, but wireless coverage remains uneven beyond major urban centers.<br><br>
-__Climate Regime & Volatility:__ Continental climate with harsh winters becomes strategically decisive during 1941–1942; seasonal extremes strain both military operations and civilian survival, with broadcast infrastructure vulnerable to winter damage and wartime destruction.<br><br>
-__Hazard Regime & Exposure:__ War devastation from 1941 constitutes the overwhelming hazard; siege, bombardment, and occupation destroy infrastructure across western territories, with Leningrad's 900-day blockade representing extreme exposure to combined military and environmental stress.<br><br>
-__Resource & Energy Endowment:__ Vast hydrocarbon, mineral, and timber reserves sustain industrialization; Ural and Siberian resources become critical as German occupation severs western industrial zones; endowment adequate but accessibility disrupted by war.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial expansion under forced collectivization and wartime production generates increasing pollution loads, but sink capacity across the vast territory remains largely unexhausted; environmental degradation localized around heavy industrial centers.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease burden declining through public health campaigns but wartime conditions reintroduce typhus, dysentery, and malnutrition-related illness; mortality spikes catastrophically during famine (1932–1933) and war (1941–1945).<br><br>
-__Nutrition & Physiological Vitality:__ Collectivization-induced famine kills millions in Ukraine and Kazakhstan; wartime rationing reduces caloric intake severely, particularly in besieged cities; physical vitality degraded across the population by 1945.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ War disrupts family formation massively; male mortality creates severe demographic imbalance; birth rates collapse during war years; state pronatalism intensifies to offset losses.<br><br>
-__Demographic Renewal & Density:__ Population growth reversed by famine and war; estimated 27 million Soviet deaths 1941–1945; age structure severely distorted by male combat losses; demographic shock shapes society for generations.<br><br>
-__Attrition & Dependency Overhang:__ War orphans, widows, and disabled veterans constitute enormous dependency burden by 1945; productive cohort depleted; state institutions absorb some load but capacity strained beyond sustainable levels.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Collectivization disrupts peasant subsistence, producing famine; wartime provisioning operates through strict rationing with urban populations near survival threshold; rural areas stripped for military supply.<br><br>
-__Energy Capture & Conversion:__ Coal, oil, and hydroelectric expansion support industrialization; wartime evacuation relocates 1,500 factories eastward; energy conversion capacity preserved through massive logistical effort but western infrastructure lost.<br><br>
-__Labor Organization & Coercion:__ Forced labor pervades the economy through Gulag system; wartime mobilization draws on corvee labor, prisoner battalions, and compulsory factory assignments; coercion ratio extremely high, compensation minimal.<br><br>
-__Production & Surplus Capacity:__ Five-Year Plans achieve rapid heavy industrial expansion; wartime production reaches extraordinary levels through total mobilization; surplus redirected entirely to military needs, civilian consumption suppressed.<br><br>
-__Storage, Reserves & Buffering:__ Strategic reserves inadequate for 1941 invasion; grain reserves depleted by collectivization exports; wartime improvisation substitutes for systematic buffering; Lend-Lease supplies provide critical external buffer.<br><br>
-__Exchange, Trade & Logistics:__ Command economy eliminates market exchange; logistics centralized through Gosplan; wartime rail network becomes critical chokepoint; black markets emerge despite severe penalties.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Ruble serves as unit of account under state control; inflation suppressed through rationing rather than monetary policy; savings effectively confiscated through wartime bond drives and price controls.<br><br>
-__Surplus Extraction & Redistribution:__ State extraction maximal under collectivization and war; agricultural surplus seized through procurement quotas regardless of harvest; redistribution prioritizes military and industrial workers over peasantry.<br><br>
-__Wealth Distribution & Asset Defense:__ Private property effectively abolished outside personal possessions; wealth concentration shifts to Party elite access to goods rather than formal ownership; asset defense impossible against state confiscation.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste dispersed without treatment; wartime production prioritizes output over environmental concerns; pollution loads increasing but absorbed by vast territory; no systematic waste management.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Terror atomizes society; denunciation culture destroys horizontal trust; wartime shared sacrifice partially rebuilds solidarity within units and communities but vertical distrust of state remains despite patriotic mobilization.<br><br>
-__Stratification, Status & Group Identity:__ Class categories officially abolished but Party membership creates new elite; national identities suppressed then partially mobilized during war; kulaks, nationalities, and suspect categories subject to persecution.<br><br>
-__Kinship, Family & Inheritance:__ War devastates family structures; millions of broken households; state claims children's loyalty over family; inheritance irrelevant given property abolition; kinship networks strained but remain survival resource.<br><br>
-__Civic Association & Self-Organization:__ Independent association prohibited; all organizations subordinated to Party control; trade unions, youth groups, and professional associations function as transmission belts for state directives.<br><br>
-__Leisure, Play & Sociability:__ Leisure channeled through state-organized activities; radio provides primary entertainment medium; wartime sociability constrained but communal listening to broadcasts creates shared experience.<br><br>
-__Grievance Channels & Social Discharge:__ Legitimate grievance channels closed; complaint mechanisms exist but risky; wartime provides limited discharge through patriotic mobilization; terror and war losses leave massive unmetabolized grief.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Stalin holds absolute power through Party, security services, and personal cult; authority hyper-centralized; wartime creates State Defense Committee concentrating all functions; no institutional constraints on command.<br><br>
-__Succession & Power Transfer:__ No legitimate succession mechanism; Stalin's mortality unmentionable; purges eliminate potential rivals; system dependent on single individual with no orderly transfer possible.<br><br>
-__Legitimacy & Political Narrative:__ Revolutionary legitimacy combined with nationalist mobilization during war; Party as vanguard; Stalin as vozhd; Great Patriotic War becomes central legitimating narrative by 1945.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Massive bureaucratic apparatus achieves industrial and military coordination; corruption endemic but controlled through terror; capacity sufficient for total war mobilization despite inefficiencies.<br><br>
-__Political Participation & Mobilization:__ Mass mobilization mandatory but participation rituals hollow; genuine enthusiasm exists for war effort; dissent impossible; population mobilized through combination of ideology, fear, and patriotism.<br><br>
-__Geopolitical Position & External Relations:__ Isolated through 1930s; Nazi-Soviet Pact 1939; invaded 1941; alliance with Western powers; emerges 1945 as superpower occupying Eastern Europe; external position transformed from vulnerability to dominance.<br><br>
-__Coercive Apparatus & Means of Force:__ NKVD maintains internal terror apparatus; Red Army rebuilt after purge losses; wartime military capacity reaches massive scale; force concentrated entirely under Party control.<br><br>
-__Internal Order & Threat Environment:__ Terror maintains order through fear; wartime disorder from invasion absorbed through military response; partisan warfare in occupied territories; collaboration suppressed through subsequent reprisals.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ All-Union Radio Committee controls centralized broadcasting; wired radio (radiotochka) reaches apartments throughout urban areas; Yuri Levitan's wartime broadcasts reach entire population simultaneously; transmission velocity instantaneous within coverage area.<br><br>
-__Record, Storage & Persistence:__ State archives preserve official record; alternative documentation destroyed or hidden; wartime broadcasts recorded; memory of trauma persists through oral transmission despite official silence on certain topics.<br><br>
-__Framing, Censorship & Discourse Norms:__ Total censorship under Glavlit; permitted discourse narrowly scripted; famine denied, purges justified, war narrated through heroic frame; information environment entirely controlled with no alternative sources.<br><br>
-__Reception, Attention & Amplification:__ Captive audience with no alternatives; communal listening in apartments and workplaces; wartime broadcasts command total attention; amplification through mandatory discussion meetings and wall newspapers.<br><br>
-__Signal Integrity & Noise Load:__ Official signal dominates but credibility eroded by obvious contradictions; noise from foreign radio limited by jamming and language barriers; verification impossible; population develops sophisticated reading between lines.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Revolutionary justice supersedes traditional morality; class enemies deserve no protection; wartime expands categories of betrayal; popular sense of justice distorted by terror but survival ethic provides baseline moral compass.<br><br>
-__Law, Codification & Regulatory Evolution:__ Legal codes exist but subordinate to Party decisions; Article 58 (counter-revolutionary crimes) elastic enough to criminalize any behavior; wartime military tribunals expand summary justice.<br><br>
-__Adjudication, Enforcement & Liability:__ Troikas conduct mass sentencing without trial; confessions extracted through torture; liability collective (family members punished); enforcement through Gulag system; judicial procedure largely theatrical.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual rights formally enumerated in 1936 constitution but entirely unenforceable; compliance burden total; any deviation potentially fatal; protective mechanisms nonexistent against state action.<br><br>
-__Impunity & Unredressed Wrong:__ State actors enjoy complete impunity; terror victims have no recourse; wrongful deaths numbered in millions; justice deficit absolute; redress impossible within system.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Marxism-Leninism established as official framework; sciences subordinated to ideology (Lysenko genetics); genuine inquiry continues in physics for military purposes; paradigm frozen except where state interest demands progress.<br><br>
-__Applied Knowledge & Technical Method:__ Technical education expanded massively; engineering methods effective for industrialization and military production; applied knowledge prioritized over theoretical exploration; Soviet technical capacity proved in wartime production.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Mass literacy campaigns successful; technical education expanded; knowledge stock grows in applied fields; skill distribution broader than pre-revolutionary period but ideologically constrained.<br><br>
-__Obsolescence & Knowledge Decay:__ Ideologically incorrect knowledge actively suppressed; foreign scientific literature restricted; Lysenkoist biology represents active knowledge decay; historical knowledge falsified through purges of archives and historians.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Revolutionary mythology overlays Russian national identity; war transforms identity into Great Patriotic War victimhood and triumph; trauma of famine, terror, and invasion shapes collective memory but cannot be openly processed.<br><br>
-__Artistic Expression & Material Culture:__ Socialist realism mandated; avant-garde suppressed; monumental architecture; wartime art serves mobilization; material culture austere, functional, and politically coded.<br><br>
-__Collective Mood & Behavioral Disposition:__ Terror produces pervasive fear and performative enthusiasm; wartime generates genuine patriotic mobilization alongside exhaustion; 1945 combines relief, grief, and pride; mood guarded, survival-focused.<br><br>
-__Form Exhaustion & Meaning Decay:__ Revolutionary symbols not yet exhausted but increasingly ritualized; socialist realist forms already formulaic by 1940s; war provides temporary renewal of meaning through genuine crisis; postwar triumphalism begins form ossification.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Scientific atheism official doctrine; dialectical materialism provides cosmological framework; fatalism and endurance characterize popular outlook; war intensifies existential confrontation with death on mass scale.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Orthodox Church suppressed but partially rehabilitated during war for mobilization purposes; private devotion persists despite persecution; Soviet rituals (parades, commemorations) substitute for religious calendar.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church institutions devastated by persecution; clergy imprisoned or killed; wartime concordat allows limited institutional survival under state supervision; doctrinal authority subordinate to Party.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Atheist ideology displaces public religion; folk practices persist in rural areas; cult of personality acquires quasi-religious functions; spiritual need redirected toward state and leader worship.<br><br>
-__Disenchantment & Sacred Discharge:__ Forced secularization creates spiritual void partially filled by revolutionary faith and wartime patriotism; transcendent meaning attached to socialist construction and war sacrifice; disenchantment deferred by crisis but accumulating beneath surface.<br><br>
+# __1930 CE – 1945 CE — Stalinist Radio and Great Patriotic War__
+
+__Summary:__ Soviet broadcasting under Stalin transforms radio into an instrument of totalitarian mobilization, with centralized state control as the binding constraint shaping every dimension of information life; the wired radio system eliminates listener choice while delivering party messaging to every apartment and collective farm, and wartime broadcasting under Yuri Levitan becomes the singular voice holding together a population facing existential threat.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ The East European Plain's vastness — Moscow to the Urals, Leningrad to the Caucasus, eleven time zones across the full USSR — presents the core challenge that wired radio addresses: how to synchronize a continental population in real time. The flat terrain permits radio wave propagation but distances strain infrastructure; Moscow becomes the sole broadcast center, with regional relays receiving and retransmitting rather than originating content.
+
+__Climate Regime & Volatility:__ Harsh continental winters complicate infrastructure deployment; the frozen months demand indoor listening spaces, making apartment loudspeakers central to reception. Seasonal agricultural rhythms shape programming schedules, with collective farm broadcasts timed to labor cycles.
+
+__Hazard Regime & Exposure:__ War exposure from 1941 displaces broadcast infrastructure westward; the German advance forces evacuation of equipment and personnel to emergency studios beyond the Urals. Aerial bombardment destroys transmission towers and relay stations across occupied territories.
+
+__Resource & Energy Endowment:__ Electrification under Stalin's industrialization programs powers the expanding radio network; the Dneprostroi dam and similar projects generate capacity for transmission infrastructure. Copper and other materials for wiring remain constrained by competing industrial and military demands.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution from electrification and heavy industry accumulates without remediation; the environmental costs of broadcast infrastructure deployment register nowhere in planning calculations. War damage adds rubble and contamination across the western territories.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Famine in Ukraine (1932–1933) kills millions; collectivization-induced starvation elevates mortality baseline catastrophically. The Great Terror (1937–1938) adds mass execution and gulag deaths. War losses reach 27 million — the biological catastrophe that wartime radio must somehow address without acknowledging.
+
+__Nutrition & Physiological Vitality:__ Chronic food shortages under collectivization leave the population weakened; rationing during war tightens further. Broadcasting promotes productivity campaigns while bodies deteriorate under impossible labor demands.
+
+__Care, Healing & Recovery Capacity:__ Medical infrastructure expands under Soviet industrialization but remains inadequate to war casualties; frontline medicine improvises while radio broadcasts celebrate medical heroism without addressing systemic shortfalls.
+
+__Reproductive Biology & Pairing Dynamics:__ War decimates the male cohort; sex ratio imbalances persist for decades. Family separation through evacuation, conscription, and labor mobilization disrupts reproductive patterns.
+
+__Demographic Renewal & Density:__ Population growth of the 1920s reverses through famine, terror, and war; the USSR loses a generation. Urbanization concentrates listeners in apartment blocks where wired radio reaches most efficiently.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and disabled veterans accumulate as a massive dependency burden that the postwar state must absorb; broadcasting cannot acknowledge the scale of loss while promoting continued sacrifice.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Collective farming under state extraction leaves peasants at bare subsistence; urban rationing distributes scarcity. Radio broadcasts demand production quotas while the population struggles to survive.
+
+__Energy Capture & Conversion:__ Electrification expands coal and hydroelectric generation; the energy base enables both industrialization and broadcast infrastructure. War disrupts western generation capacity, forcing reliance on eastern reserves.
+
+__Labor Organization & Coercion:__ Forced labor pervades: gulag prisoners, collective farm peasants bound to land, wartime labor conscription. Broadcasting glorifies "socialist labor" while concealing the coercion beneath it.
+
+__Production & Surplus Capacity:__ Five-Year Plans drive industrial output upward through human cost; surplus extraction funds military buildup and infrastructure including broadcasting. War economy redirects all capacity to military production.
+
+__Storage, Reserves & Buffering:__ State grain reserves extracted from peasants fund industrialization and buffer urban supply; war depletes reserves catastrophically. Broadcasting cannot acknowledge famine or shortage.
+
+__Exchange, Trade & Logistics:__ Command economy eliminates market exchange; state distribution replaces trade. Wartime logistics strain to move industry eastward and supply front lines.
+
+__Value Storage, Credit & Deferred Exchange:__ Ruble serves as accounting unit; inflation and shortage make money meaningless against ration cards and connections. State bonds extract "voluntary" contributions the populace cannot refuse.
+
+__Surplus Extraction & Redistribution:__ Total surplus extraction from agriculture funds industrialization and war; the peasantry bears the burden. Broadcasting frames extraction as collective contribution.
+
+__Wealth Distribution & Asset Defense:__ Property abolished in theory; nomenklatura privilege creates de facto elite. War equalizes through universal deprivation.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates without treatment; war debris fills cities. Economic dysfunction manifests as chronic shortage rather than financial imbalance.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War separates families across evacuation, conscription, and occupation; millions never reunite. Letters read over radio connect scattered kin; the state mediates family bonds.
+
+__Association & Mutual Aid:__ Party organizations, trade unions, and Komsomol structure association under state supervision; independent civil society eliminated. Wartime mutual aid emerges spontaneously but party channels claim credit.
+
+__Leisure, Play & Sociability:__ Radio provides approved entertainment: patriotic songs, approved literature, officially sanctioned humor. Wartime broadcasting creates shared emotional experience across the front and rear.
+
+__Stratification, Status & Group Structure:__ Classless ideology masks nomenklatura privilege; party membership gates access. Wartime heroism creates new status hierarchies: front veterans, decorated workers, party activists.
+
+__Administrative Capacity & Institutional Integrity:__ The party-state apparatus reaches into every collective farm and factory; terror ensures compliance through fear. Wartime administration concentrates authority absolutely in Stalin and his circle.
+
+__Coercive Apparatus & Means of Force:__ NKVD enforces internal control through arrest, execution, and gulag; Red Army fights the external war. Blocking detachments enforce discipline; Order 227 ("Not one step back") broadcast to all.
+
+__Discharge, Disorder & Decay:__ Terror eliminates opposition but also competent administrators and military officers; the purged command structure nearly loses the war's first months. Occupied populations face impossible choices between collaboration and resistance.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Fear pervades under terror; war transforms fear into patriotic mobilization. Levitan's voice — the only source of official news — becomes the emotional anchor of the population's shared experience.
+
+__Leadership & Personal Authority:__ Stalin's cult of personality reaches its apex; his rare broadcasts carry overwhelming authority. Party leaders below him remain interchangeable, their authority derived entirely from Stalin's favor.
+
+__Legitimacy as Lived Allegiance:__ Terror compels outward compliance; war generates genuine patriotic mobilization. The Great Patriotic War — broadcast as existential defense of the Motherland — creates legitimacy that decades of peacetime propaganda could not.
+
+__Political Will & Collective Resolve:__ The regime's will is Stalin's will, absolute and unchecked. Wartime mobilization demonstrates the capacity to direct the entire society toward a single purpose; victory validates the system in the eyes of survivors.
+
+__External Relations & Posture:__ Alliance with Western powers from 1941 enables Lend-Lease aid; broadcasting presents the alliance while maintaining ideological hostility. Victory makes the USSR a superpower; the Cold War posture emerges immediately.
+
+__Disaffection, Apathy & Spent Will:__ Terror suppresses visible disaffection; informers report any deviation. Wartime exhaustion accumulates in bodies but broadcasting permits only displays of resolve. The true cost registers only in private grief.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Russian dominates broadcasting; minority languages receive token programming from republic stations but Moscow's message prevails. Near-universal literacy enables supplementary print propaganda.
+
+__Channels & Transmission Velocity:__ Wired radio (radiofikatsiya) installs loudspeakers in every apartment and collective farm building; the single channel offers no choice. The system reaches an estimated 90% of the urban population by 1940. Wartime broadcasts transmit simultaneously to millions.
+
+__Record, Storage & Persistence:__ State archives preserve approved materials; censorship erases inconvenient facts. Wartime recordings preserve Levitan's broadcasts as the permanent record of the period.
+
+__Framing, Censorship & Discourse Norms:__ Glavlit censorship reviews all content before broadcast; nothing reaches the airwaves without approval. Wartime censorship tightens further; defeats go unmentioned until geography makes denial impossible.
+
+__Reception, Attention & Amplification:__ Captive audience of wired radio cannot tune away; collective listening in workplaces and communal apartments ensures reception. Amplification through repetition: the same message across all channels, all day.
+
+__Signal Integrity & Noise Load:__ Single-source broadcasting eliminates competing signals; foreign shortwave provides the only alternative, actively jammed. Noise is ideological: the gap between broadcast reality and lived experience.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Socialist ideology proclaims justice for workers and peasants; terror reveals power as the only operative principle. War grounds morality in collective survival.
+
+__Law, Codification & Regulatory Evolution:__ Soviet law serves the party; legality provides no protection. Wartime emergency regulations expand already unlimited state authority.
+
+__Adjudication, Liability & Sanction:__ NKVD tribunals dispense summary justice; the gulag awaits political offenders and quota-fillers alike. Military tribunals execute without appeal.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights exist on paper; no mechanism enforces them against the state. Compliance means survival; resistance means death or the camps.
+
+__Impunity & Unredressed Wrong:__ The state operates with total impunity; victims have no recourse. Millions die unnamed; their families cannot mourn publicly. This accumulated wrong shapes the postwar silence.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Marxism-Leninism provides the mandatory framework; deviation is political crime. Lysenko's biology demonstrates how ideology corrupts science. Military-industrial research advances weapons development.
+
+__Applied Knowledge & Technical Method:__ Radio engineering adapts to Soviet conditions; the wired system represents genuine technical innovation suited to state control. Wartime necessity drives rapid technical adaptation.
+
+__Education, Knowledge Stock & Skill Distribution:__ Mass literacy campaigns succeed; the educated population receives information efficiently. Technical education expands to serve industrialization; wartime training accelerates.
+
+__Obsolescence & Knowledge Decay:__ Purges eliminate competent experts; ideological constraints block scientific advance in affected fields. The losses in military and administrative capacity nearly prove fatal in 1941.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Revolutionary mythology legitimates the regime; the Great Patriotic War adds a second founding myth of collective sacrifice and victory. Broadcasting constructs both narratives for mass consumption.
+
+__Legitimating Narrative & Ideology:__ Socialist construction under party leadership justifies peacetime mobilization; wartime survival legitimates any measure. Stalin's leadership becomes inseparable from victory.
+
+__Artistic Expression & Material Culture:__ Socialist realism dominates approved expression; wartime songs and poetry achieve genuine resonance. Radio carries both official culture and the songs that soldiers actually sing.
+
+__Form Exhaustion & Meaning Decay:__ Propaganda fatigue sets in before war; the genuine crisis revives meaning. Postwar, the gap between victory narrative and lived hardship begins accumulating.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Materialist atheism is state doctrine; religion persists among the population despite persecution. War's mass death strains any framework; official commemoration provides secular ritual.
+
+__Ritual, Devotion & Sacred Practice:__ Party rituals replace religious observance officially; private devotion continues underground. Wartime permits limited Orthodox revival for morale.
+
+__Religious Institutions & Doctrinal Authority:__ The Orthodox Church, devastated by persecution, accepts state supervision in exchange for wartime toleration. Institutional religion survives diminished.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Atheist education displaces religious belief among the young; traditional practice persists among elderly and rural populations. War revives folk belief among soldiers facing death.
+
+__Disenchantment & Sacred Discharge:__ The socialist utopia promised by revolutionary ideology recedes into perpetual deferral; the sacred now attaches to Motherland and Victory, broadcast as the new transcendence.

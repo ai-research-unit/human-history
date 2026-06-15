@@ -1,69 +1,139 @@
-# __1945 CE – 1964 CE__ — Postwar Consolidation and Television Dawn
-__Summary:__ The Soviet system rebuilds from wartime devastation while extending broadcast infrastructure and introducing television as a supplementary mass medium. The binding constraint remains Party monopoly over information channels, now applied to Cold War mobilization and internal control during succession crisis. Stalin's death (1953) and Khrushchev's partial de-Stalinization create controlled instability; the system holds substantial margin through ideological flexibility while moving toward routinized propaganda and technological modernization symbolized by Sputnik and Gagarin.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ Reconstruction extends broadcast infrastructure across devastated western territories; television transmission limited to Moscow and major cities until late 1950s; vast distances continue to favor radio over television for national reach.<br><br>
-__Climate Regime & Volatility:__ Continental climate stable within normal parameters; agricultural vulnerability to drought persists but famine conditions not repeated; climate poses routine rather than crisis-level challenges to reconstruction.<br><br>
-__Hazard Regime & Exposure:__ Postwar hazard regime dominated by Cold War nuclear threat rather than natural disasters; civil defense infrastructure constructed; fallout from atmospheric testing (1949 onward) represents new environmental exposure category.<br><br>
-__Resource & Energy Endowment:__ Vast reserves support reconstruction; Siberian development expands accessible resource base; hydroelectric and fossil fuel capacity growing; endowment more than adequate for postwar industrial expansion.<br><br>
-__Waste Absorption & Sink Capacity:__ Industrial reconstruction and nuclear development introduce new pollutant categories; Mayak disaster (1957) represents severe localized contamination; overall sink capacity adequate but degradation accelerating around industrial centers.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Public health system rebuilt; endemic disease burden declining through vaccination and sanitation; mortality rates falling toward developed-country norms; life expectancy improving through 1960s.<br><br>
-__Nutrition & Physiological Vitality:__ Postwar recovery improves nutrition gradually; rationing ends 1947; Khrushchev's agricultural reforms (virgin lands) increase food supply; physical vitality recovering but diet remains limited compared to Western standards.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Postwar baby boom partially compensates for war losses; sex ratio imbalance persists (surplus women); family formation recovers but female workforce participation remains high from wartime necessity.<br><br>
-__Demographic Renewal & Density:__ Population growth resumes; immigration to devastated areas and new industrial zones; age structure slowly normalizing but war cohort gap visible; urbanization accelerating through internal migration.<br><br>
-__Attrition & Dependency Overhang:__ War invalids, orphans, and widows constitute declining but substantial dependency burden; state pension and welfare systems absorb some load; productive capacity recovering faster than dependency clearing.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Postwar reconstruction raises provisioning floor above wartime survival level; rationing ends; collective farm system continues to underperform but famine avoided; urban provisioning adequate if austere.<br><br>
-__Energy Capture & Conversion:__ Major hydroelectric projects (Kuibyshev, Stalingrad dams); coal and oil production expanding; nuclear power development begins; per-capita energy capture increasing substantially; electrification extends to rural areas.<br><br>
-__Labor Organization & Coercion:__ Gulag system continues but peaks and begins declining after Stalin's death; forced labor supplemented by wage incentives; coercion ratio decreasing through period; labor mobility slightly increased under Khrushchev.<br><br>
-__Production & Surplus Capacity:__ Heavy industry prioritized; consumer goods chronically undersupplied; production capacity growing but allocation inefficiencies persist; space and military programs absorb disproportionate surplus.<br><br>
-__Storage, Reserves & Buffering:__ Strategic reserves rebuilt; grain storage improved but distribution inefficient; buffer capacity adequate for normal fluctuations but system remains vulnerable to sustained agricultural failure.<br><br>
-__Exchange, Trade & Logistics:__ Command economy continues; Comecon coordinates bloc trade; internal logistics improve with reconstruction; black market persists at reduced scale; consumer goods distribution through state stores remains inefficient.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ 1947 currency reform confiscates wartime savings; ruble remains non-convertible; household savings channeled through state bank; credit allocation entirely administrative; deferred exchange through waiting lists and connections.<br><br>
-__Surplus Extraction & Redistribution:__ State extraction continues through procurement prices and taxation; surplus directed to military-industrial complex and space program; redistribution slightly more favorable to consumption under Khrushchev.<br><br>
-__Wealth Distribution & Asset Defense:__ Formal wealth differentiation minimal; real differentiation through access to goods, housing, and privileges; nomenklatura system concentrates advantages; asset defense through political position rather than legal ownership.<br><br>
-__Byproducts & Waste Routing:__ Industrial waste disposal unregulated; nuclear waste management primitive (Mayak); pollution loads increasing with industrial growth; routing decisions prioritize production over environmental protection.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Post-Stalin thaw slightly relaxes social atomization; trust radius remains narrow but terror reduced; mutual aid networks reconstitute cautiously; communal housing (kommunalki) forces cooperation within constrained social space.<br><br>
-__Stratification, Status & Group Identity:__ Party membership defines elite status; technical intelligentsia gains prestige; national identities suppressed but persist; rehabilitated prisoners and their families occupy ambiguous social position.<br><br>
-__Kinship, Family & Inheritance:__ Family structure stabilizing; housing shortage forces extended family cohabitation; inheritance relevant only for personal property; kinship networks important for access to goods and services.<br><br>
-__Civic Association & Self-Organization:__ All associations remain Party-controlled; Komsomol channels youth; trade unions administer benefits without independent voice; limited informal self-organization in workplace and housing collectives.<br><br>
-__Leisure, Play & Sociability:__ Radio remains primary home entertainment; television introduced in elite households; cinema widely accessible; sports and cultural activities organized through workplaces and unions; sociability channeled through approved venues.<br><br>
-__Grievance Channels & Social Discharge:__ Letters to newspapers provide limited complaint mechanism; Stalin's death allows partial historical reckoning; rehabilitation of some victims provides partial grievance discharge; substantial trauma remains unprocessed.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Stalin's death (1953) triggers succession struggle; Khrushchev emerges through coalition management; collective leadership rhetoric masks continued concentration; authority less absolute than under Stalin but still highly centralized.<br><br>
-__Succession & Power Transfer:__ Stalin's death exposes absence of succession mechanism; Beria eliminated; Malenkov sidelined; Khrushchev's 1957 victory over Anti-Party Group consolidates power; transfer remains contested and potentially violent.<br><br>
-__Legitimacy & Political Narrative:__ Secret Speech (1956) partially delegitimizes Stalinist terror while preserving Party legitimacy; space achievements (Sputnik, Gagarin) provide new legitimating triumphs; Cold War competition structures political narrative.<br><br>
-__Administrative Capacity & Institutional Integrity:__ Bureaucratic apparatus continues functioning; Khrushchev's regional reorganizations create instability; corruption reduced from wartime levels; capacity adequate for reconstruction and military competition.<br><br>
-__Political Participation & Mobilization:__ Electoral rituals continue as mobilization exercises; genuine participation in workplace and housing soviets minimal; de-Stalinization permits slightly expanded discussion within Party; dissent remains dangerous but no longer automatically fatal.<br><br>
-__Geopolitical Position & External Relations:__ Superpower status consolidated; Warsaw Pact (1955) formalizes Eastern bloc; Hungary (1956) demonstrates limits of satellite autonomy; Cuban crisis (1962) tests and confirms bipolar structure; space race provides prestige competition.<br><br>
-__Coercive Apparatus & Means of Force:__ MGB reorganized as KGB with reduced internal terror role; Gulag downsized; military maintains superpower capacity; nuclear arsenal established; coercive apparatus remains formidable but less arbitrarily deployed.<br><br>
-__Internal Order & Threat Environment:__ Post-Stalin disorder minimal; national movements suppressed (Hungary, limited internal); crime rates moderate; internal threat environment stabilized compared to terror years; order maintained through routine rather than exceptional coercion.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Radio broadcasting expands to near-universal coverage; television introduced in Moscow (experimental from 1938, regular service postwar) and spreads to major cities; wired radio remains primary domestic channel; transmission velocity instantaneous within broadcast range.<br><br>
-__Record, Storage & Persistence:__ State archives continue as primary record system; rehabilitation process reveals some suppressed information; television archives begin; unofficial memory of Stalin era preserved through oral transmission and emerging samizdat.<br><br>
-__Framing, Censorship & Discourse Norms:__ Censorship continues through Glavlit but Secret Speech creates temporary opening; historical narrative partially revised; permitted discourse band widens slightly then contracts; information environment remains controlled but less terroristically enforced.<br><br>
-__Reception, Attention & Amplification:__ Television introduces visual dimension; space broadcasts command massive attention; communal television viewing in workplaces and clubs; reception patterns shifting from pure radio to mixed media environment.<br><br>
-__Signal Integrity & Noise Load:__ Official signal credibility somewhat improved by de-Stalinization acknowledgment; foreign radio (BBC, VOA, Radio Liberty) provides alternative signal despite jamming; noise from conflicting historical narratives increasing; signal-to-noise ratio fluctuating.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ De-Stalinization acknowledges some injustices; rehabilitation of victims provides partial moral restoration; sense of justice recovering from total corruption but system legitimacy remains damaged; socialist legality rhetoric increases.<br><br>
-__Law, Codification & Regulatory Evolution:__ 1958 legal reforms reduce arbitrary punishment; Article 58 narrowed; criminal procedure somewhat regularized; law moves toward codified norms rather than pure Party discretion while remaining subordinate to political requirements.<br><br>
-__Adjudication, Enforcement & Liability:__ Special tribunals reduced; regular courts handle more cases; collective liability officially rejected; enforcement less arbitrary; judicial procedure more meaningful though still politically influenced in sensitive cases.<br><br>
-__Rights, Protections & Compliance Burden:__ Individual protections slightly strengthened through legal reform; compliance burden reduced from terror-era totalism; predictability improved; rights remain unenforceable against state interest but routine violations decrease.<br><br>
-__Impunity & Unredressed Wrong:__ Partial rehabilitation acknowledges some wrongs; perpetrators largely unpunished; Stalin-era victims receive limited restitution; massive justice deficit from terror period unresolved; impunity for system itself continues.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Marxism-Leninism continues as official framework; Lysenko's influence peaks then declines; physics and mathematics advance for military applications; space science flourishes; paradigm slightly loosened in natural sciences while social sciences remain frozen.<br><br>
-__Applied Knowledge & Technical Method:__ Space program demonstrates world-class applied capability; nuclear weapons development continues; engineering education produces skilled workforce; technical methods effective within system's priorities; consumer technology lags.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Universal education consolidated; technical training expanded; scientific literacy increases; knowledge stock growing in STEM fields; humanities constrained by ideology; skill distribution adequate for industrial society.<br><br>
-__Obsolescence & Knowledge Decay:__ Lysenkoism begins declining; some suppressed knowledge recovered through rehabilitation; foreign scientific contact slightly increased; knowledge decay slowing but ideological constraints prevent full correction; cybernetics rehabilitated.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ Great Patriotic War becomes central identity foundation; revolutionary mythology continues but supplemented by national pride; space achievements add to triumphalist narrative; Stalin's image complicated by Secret Speech.<br><br>
-__Artistic Expression & Material Culture:__ Socialist realism relaxes slightly during Thaw; Khrushchev-era architecture mass-produces standardized housing (khrushchevki); some avant-garde experimentation permitted then restricted; material culture gradually improving but austere.<br><br>
-__Collective Mood & Behavioral Disposition:__ Post-Stalin relief and cautious optimism; space achievements generate genuine enthusiasm; Thaw culture permits measured expression; mood lighter than terror years but guarded; conformity remains prudent.<br><br>
-__Form Exhaustion & Meaning Decay:__ Stalinist forms exhausted; Thaw provides temporary renewal; space-age aesthetics introduce new vocabulary; socialist realism increasingly hollow but still enforced; form exhaustion accumulating beneath official culture.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Scientific atheism continues as official cosmology; space achievements reinforce materialist worldview; Gagarin's flight celebrated as triumph of secular humanism; existential outlook cautiously optimistic during Thaw.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Khrushchev renews anti-religious campaign (1958–1964); churches closed; atheist rituals (civil weddings, Soviet holidays) promoted; private devotion persists despite renewed pressure; believer population declining but substantial.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Church institutions contracted by renewed persecution; clergy reduced; institutional survival dependent on state tolerance; doctrinal authority exercised only over diminishing active congregation; underground religion continues.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Atheism dominant in public sphere; folk practices persist rurally; communist ideology provides quasi-religious meaning structure; space-age utopianism offers transcendent narrative; religious practice increasingly generational marker.<br><br>
-__Disenchantment & Sacred Discharge:__ Khrushchev's reforms provide partial ideological renewal but fail to deliver promised abundance; sacred meaning attached to space achievements and communist future; disenchantment building beneath surface as ideological promises defer fulfillment.<br><br>
+# __1945 CE – 1964 CE — Postwar Consolidation and Television Dawn__
+
+__Summary:__ The Soviet broadcast system consolidates its wartime gains into a permanent apparatus of ideological control, with television emerging as the new prestige medium under conditions of absolute state monopoly; de-Stalinization under Khrushchev opens narrow space for cultural thaw while maintaining the binding constraint of party control over all channels, and the Cold War's ideological competition shapes broadcasting's defensive posture against foreign radio penetration.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Victory extends Soviet reach across Eastern Europe; the bloc now stretches from the Elbe to the Pacific. Television's limited transmission range initially confines it to Moscow and major cities; radio remains the medium for continental reach. The physical infrastructure of empire — railways, telegraph, broadcast relays — consolidates the center's control over vast distances.
+
+__Climate Regime & Volatility:__ Postwar reconstruction proceeds through harsh winters; indoor media consumption becomes central to Soviet leisure. Television's evening viewing patterns suit the long dark months of northern latitudes.
+
+__Hazard Regime & Exposure:__ Wartime destruction leaves the western territories devastated; reconstruction absorbs resources that might otherwise expand broadcasting. No major natural disasters punctuate the period, though nuclear testing contaminates remote regions.
+
+__Resource & Energy Endowment:__ Postwar industrialization exploits captured German technology and gulag labor; electrification reaches previously dark villages. The resource base for television manufacturing develops through the 1950s, enabling mass production by the Khrushchev era.
+
+__Waste Absorption & Sink Capacity:__ Industrial pollution accelerates without environmental regulation; the Aral Sea begins its decline from cotton irrigation. Broadcasting mentions none of this; environmental damage remains invisible to the information system.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Postwar famine (1946–1947) kills perhaps two million more; the regime conceals the crisis. Thereafter mortality stabilizes and declines; public health infrastructure expands. Stalin's death (1953) removes the biological keystone of terror.
+
+__Nutrition & Physiological Vitality:__ Food supply gradually improves through the 1950s; Khrushchev's agricultural reforms (Virgin Lands, corn campaigns) raise and then disappoint expectations. Television begins showing food abundance it cannot deliver.
+
+__Care, Healing & Recovery Capacity:__ Soviet medicine expands access; barefoot doctor equivalents reach rural areas. War invalids strain the system; their presence on streets contradicts victory narratives.
+
+__Reproductive Biology & Pairing Dynamics:__ The "missing men" generation forces women into workforce and heads-of-household roles; marriage patterns adapt to severe sex ratio imbalance. Pro-natalist policy encourages reproduction to replace war losses.
+
+__Demographic Renewal & Density:__ Population recovers but slowly; the demographic hole of the war years persists in age structure. Urbanization accelerates; Moscow grows toward its present size.
+
+__Attrition & Dependency Overhang:__ War widows, orphans, and invalids constitute a permanent dependent class; state benefits prove inadequate. Television eventually provides companionship for isolated elderly.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Rationing ends (1947); queues persist for most goods. Housing shortage leaves multiple families sharing kommunalka apartments — ideal for collective wired-radio reception, less suited to television's single-family viewing model.
+
+__Energy Capture & Conversion:__ Postwar electrification extends the grid; major hydroelectric projects (Volga cascades, Siberian dams) expand generating capacity. The energy base enables television manufacturing and transmission.
+
+__Labor Organization & Coercion:__ Gulag labor continues until Stalin's death; thereafter the camp system contracts. Wage labor predominates but remains coerced through internal passport restrictions binding workers to locations.
+
+__Production & Surplus Capacity:__ Heavy industry prioritizes military production; consumer goods remain scarce. Television sets (Rubin, Rekord, KVN-49) become available but queues and connections determine access. By 1960 perhaps 5 million sets exist.
+
+__Storage, Reserves & Buffering:__ State reserves rebuild after war depletion; grain storage improves. No financial markets exist to create debt imbalances.
+
+__Exchange, Trade & Logistics:__ Command economy coordinates production and distribution; foreign trade limited to bloc and selected partners. Consumer goods distribution remains chaotic.
+
+__Value Storage, Credit & Deferred Exchange:__ The 1947 currency reform wipes out wartime savings; thereafter inflation is suppressed by price controls and rationing. Personal savings accumulate without goods to purchase — the "monetary overhang."
+
+__Surplus Extraction & Redistribution:__ Agricultural surplus extraction continues to fund industry; collective farmers remain near-serfs until Khrushchev reforms (1958 abolishes MTS). State investment favors heavy industry and defense over consumer welfare.
+
+__Wealth Distribution & Asset Defense:__ Housing allocation through work units creates de facto property rights; dacha access marks elite status. Nomenklatura privilege consolidates but remains invisible to broadcasting.
+
+__Byproducts & Waste Routing:__ Industrial waste accumulates in rivers and soil; the Chelyabinsk-40 nuclear accident (1957) contaminates vast areas, unreported. Economic dysfunction manifests as permanent shortage rather than financial crisis.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ War-disrupted families rebuild where possible; many cannot. Single mothers head households; grandparents raise orphans. The kommunalka creates forced intimacy among unrelated families.
+
+__Association & Mutual Aid:__ Trade unions, Komsomol, and party organizations structure permitted association; informal networks (blat) enable survival through connection. Apartment-building communities form around shared television sets.
+
+__Leisure, Play & Sociability:__ Television gradually displaces collective entertainments; cinema attendance peaks then declines. Sports broadcasting creates mass spectatorship; the 1952 Olympics mark the USSR's return to international competition.
+
+__Stratification, Status & Group Structure:__ Nomenklatura privilege institutionalizes; educational credentials gate advancement. Intelligentsia status depends on regime favor; Khrushchev's thaw permits limited autonomy.
+
+__Administrative Capacity & Institutional Integrity:__ The Stalinist apparatus survives its creator; de-Stalinization reforms without restructuring. Party control over broadcasting remains absolute; Gosteleradio coordinates all transmission.
+
+__Coercive Apparatus & Means of Force:__ The gulag contracts; mass terror ends. KGB replaces NKVD but continues surveillance. The Hungarian intervention (1956) demonstrates willingness to use force against bloc defection.
+
+__Discharge, Disorder & Decay:__ The thaw permits limited criticism; samizdat begins circulating. Released prisoners return from camps, their presence uncomfortable. Youth hooliganism and stilyagi (style-hunters) signal generational friction.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ Stalin's death lifts terror's weight; the thaw permits cautious optimism. Sputnik (1957) and Gagarin (1961) generate genuine pride. Television brings leaders into living rooms, humanizing the previously terrifying state.
+
+__Leadership & Personal Authority:__ Khrushchev's earthy persona contrasts with Stalinist remoteness; his television appearances break the pattern of invisible leadership. The Secret Speech (1956) acknowledges crimes without fully accounting for them.
+
+__Legitimacy as Lived Allegiance:__ Victory legitimacy persists; de-Stalinization attempts reform legitimacy. Space achievements add technological legitimacy. The Berlin Wall (1961) and Cuban Missile Crisis (1962) test and confirm Cold War allegiance.
+
+__Political Will & Collective Resolve:__ Post-Stalin collective leadership eventually consolidates around Khrushchev; his removal (1964) demonstrates elite capacity to constrain the leader. Will to reform proves limited by apparatus resistance.
+
+__External Relations & Posture:__ Cold War defines external posture; the bloc must be held, the West confronted. Broadcasting serves ideological competition; foreign radio must be countered. Peaceful coexistence does not mean ideological truce.
+
+__Disaffection, Apathy & Spent Will:__ The thaw channels discontent into permitted criticism; unpermitted dissent remains dangerous. Emigration is impossible; internal exit takes the form of cynicism and private life.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Russian dominates broadcasting; republic stations continue in national languages. Universal literacy enables mixed media consumption. Television initially reaches urban elites; radio remains mass medium.
+
+__Channels & Transmission Velocity:__ Wired radio continues in apartments; wireless receivers become available. Television broadcasting begins from Moscow (1951), gradually extending to other cities. The First Program reaches most of the population by 1964.
+
+__Record, Storage & Persistence:__ Television initially broadcasts live; recording technology (kinescope, then videotape) enables delayed transmission to distant time zones. State archives preserve approved materials; inconvenient content vanishes.
+
+__Framing, Censorship & Discourse Norms:__ Glavlit continues pre-broadcast review; self-censorship pervades. The thaw widens permissible topics — Stalin's crimes can be mentioned, carefully. Television news frames all events within party interpretation.
+
+__Reception, Attention & Amplification:__ Collective viewing around scarce television sets creates shared experience; the entire building gathers for major broadcasts. Radio reaches those television cannot.
+
+__Signal Integrity & Noise Load:__ Foreign radio (VOA, BBC, Radio Liberty) provides alternative information; jamming attempts imperfectly block reception. The gap between official and experienced reality constitutes permanent noise.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Socialist ideology proclaims equality and justice; nomenklatura privilege contradicts it. De-Stalinization admits past crimes without establishing accountability.
+
+__Law, Codification & Regulatory Evolution:__ Socialist legality doctrine claims rule of law; practice shows party supremacy. Khrushchev reforms reduce arbitrary punishment; legal process becomes somewhat more predictable.
+
+__Adjudication, Liability & Sanction:__ Courts function within party oversight; political cases receive directed verdicts. Criminal justice remains harsh; camp sentences shorten but camps persist.
+
+__Rights, Protections & Compliance Burden:__ Constitutional rights expand on paper; enforcement remains absent. Internal passports restrict movement; the propiska system binds residence to permits.
+
+__Impunity & Unredressed Wrong:__ Stalin's crimes acknowledged but perpetrators unpunished. Victims rehabilitated posthumously; living victims return to indifference. The moral debt remains unpaid.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Marxism-Leninism remains mandatory; Lysenko finally falls (1964). Space science triumphs; nuclear physics advances. Social sciences remain ideologically constrained.
+
+__Applied Knowledge & Technical Method:__ Television technology imports and adapts Western developments; Soviet engineering achieves space supremacy. Consumer electronics lag but improve.
+
+__Education, Knowledge Stock & Skill Distribution:__ Mass higher education expands; technical training proliferates. The educated population grows, creating audiences capable of critical reception that broadcasting cannot satisfy.
+
+__Obsolescence & Knowledge Decay:__ Stalinist-era distortions (Lysenkoism, linguistic theories) gradually fade; ideological constraints continue blocking progress in affected fields.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ Victory Day becomes the central commemorative occasion; the Great Patriotic War provides shared identity across generations. Television brings war films and anniversary programming to every home.
+
+__Legitimating Narrative & Ideology:__ Building communism remains the stated goal; de-Stalinization adds reform narrative. Space achievements demonstrate socialist superiority; Khrushchev promises to "catch up and overtake" America.
+
+__Artistic Expression & Material Culture:__ The thaw permits previously forbidden works (One Day in the Life of Ivan Denisovich, 1962). Television broadcasts approved culture; film remains the prestige medium. Consumer goods design improves but remains utilitarian.
+
+__Form Exhaustion & Meaning Decay:__ Socialist realism ossifies into formula; thaw works provide temporary renewal. Official culture increasingly diverges from private taste; the gap feeds cynicism.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ Scientific materialism remains doctrine; Gagarin reportedly did not see God in space. Private belief persists among elderly and rural populations; youth atheism spreads through education.
+
+__Ritual, Devotion & Sacred Practice:__ Soviet civil religion provides secular rituals (Victory Day, Revolution anniversaries); television broadcasts ceremonies. Private religious observance continues discretely.
+
+__Religious Institutions & Doctrinal Authority:__ The Orthodox Church survives under state supervision; Khrushchev's antireligious campaign (1958–1964) closes thousands of churches. Institutional religion contracts.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Atheist education succeeds among urban youth; belief retreats to margins. Soviet rituals fail to provide transcendent meaning; the gap fills with private consumption and family life.
+
+__Disenchantment & Sacred Discharge:__ The communist future recedes; Khrushchev's promise of communism by 1980 already rings hollow. Television offers entertainment as substitute for transcendence; the drift toward private satisfactions accelerates.

@@ -1,69 +1,139 @@
-# __2001 CE – 2005 CE__ — Post-9/11 Broadcasting and Digital Transition
-__Summary:__ The September 11 attacks produce a brief broadcast-unity moment before the system fractures into partisan news streams covering the War on Terror; the binding constraint is credibility scarcity as audiences sort into Fox, CNN, and MSNBC camps with incompatible factual frames; economic reserves remain adequate but attention fragmentation accelerates alongside mandated digital-transition planning; direction of change tilts sharply toward polarization and platform multiplication as internet video emerges.
-## __P01. Physical Environment__
-__Geography & Spatial Friction:__ The eastern woodlands and Mississippi basin remain densely networked; fiber-optic and coaxial infrastructure mature; signal friction effectively eliminated across metropolitan areas, with rural gaps narrowing.<br><br>
-__Climate Regime & Volatility:__ Temperate baseline continues; Hurricane Katrina 2005 exposes Gulf Coast infrastructure vulnerability but falls at the window's edge; no secular climate shift alters broadcast operations during the period.<br><br>
-__Hazard Regime & Exposure:__ Hurricane, tornado, and winter-storm exposure persists; broadcast redundancy and emergency-broadcast-system protocols maintain margin against typical hazards; Katrina tests but does not break regional capacity.<br><br>
-__Resource & Energy Endowment:__ Fossil-fuel and grid-electricity supply abundant; energy costs rise modestly post-2003 but impose no binding constraint on broadcast operations; endowment drawdown negligible for this sector.<br><br>
-__Waste Absorption & Sink Capacity:__ Electronic waste grows as analog equipment phases out; recycling programs nascent; air and water sinks unaffected by broadcast-sector load, absorptive capacity effectively unlimited.<br><br>
-## __P02. Biological Environment__
-__Pathogen Load & Mortality Baseline:__ Endemic disease load low; SARS 2003 contained; anthrax-letter attacks 2001 create fear disproportionate to mortality; baseline death rate continues long decline.<br><br>
-__Nutrition & Physiological Vitality:__ Obesity epidemic deepens; screen time rises with cable and internet; physiological vitality erodes among sedentary populations while caloric abundance persists.<br><br>
-__Reproductive Biology & Pairing Dynamics:__ Fertility near replacement; marriage continues to delay; media portrayals of relationships diversify without altering underlying biological capacity.<br><br>
-__Demographic Renewal & Density:__ Population grows through immigration and modest natural increase; suburban expansion continues; density well below carrying ceiling with infrastructure slack adequate.<br><br>
-__Attrition & Dependency Overhang:__ Baby-boom cohort approaches retirement; dependency ratio rising but not yet binding; healthcare costs climb without yet overwhelming productive capacity.<br><br>
-## __P03. Economic Environment__
-__Subsistence & Provisioning Floor:__ Broad material security; 2001 recession mild; provisioning floor stable and distant from carrying-capacity edge for the majority.<br><br>
-__Energy Capture & Conversion:__ Fossil-fuel and nuclear conversion efficient; per-capita consumption high; broadcast and cable sector draws trivial share of energy budget, facing no ceiling.<br><br>
-__Labor Organization & Coercion:__ Wage and contract labor dominate media industries; union presence weak; freelance and project-based work spreads in production; coercion minimal, compensation market-set.<br><br>
-__Production & Surplus Capacity:__ 24-hour news cycle demands continuous production; cable and network news divisions expand post-9/11 budgets; advertising revenue recovers after 2001 dip, generating surplus.<br><br>
-__Storage, Reserves & Buffering:__ Media conglomerates hold substantial reserves; post-dot-com caution increases liquidity buffers; slack adequate against cyclical downturns.<br><br>
-__Exchange, Trade & Logistics:__ Content flows through cable, satellite, and emerging broadband; syndication and licensing markets clear efficiently; logistics bottlenecks negligible.<br><br>
-__Value Storage, Credit & Deferred Exchange:__ Dollar stable; low interest rates spur media-sector debt financing; value stored in content libraries, broadcast licenses, and cable-system assets.<br><br>
-__Surplus Extraction & Redistribution:__ Advertising extracts consumer attention; retransmission fees redistribute revenue from cable operators to networks; political advertising surges in 2004 election cycle.<br><br>
-__Wealth Distribution & Asset Defense:__ Consolidation continues—Comcast, News Corp, Viacom expand holdings; FCC relaxes ownership caps 2003, then courts partially reverse; concentration widens, antitrust dormant.<br><br>
-__Byproducts & Waste Routing:__ Analog-equipment disposal accelerates as digital transition approaches; e-waste recycling infrastructure lags; routing shifts toward landfill and export with minimal sink strain.<br><br>
-## __P04. Social Environment__
-__Social Trust & Mutual Aid:__ Brief post-9/11 trust surge fades by 2002; partisan media consumption erodes cross-cutting social trust; mutual aid localizes while national solidarity fragments.<br><br>
-__Stratification, Status & Group Identity:__ Class stratification stable; Muslim-American identity politicized post-9/11; red-state/blue-state framing hardens group boundaries through cable-news reinforcement.<br><br>
-__Kinship, Family & Inheritance:__ Nuclear family remains normative but diversifying; same-sex partnership debates intensify; inheritance patterns unchanged, media assets passing corporately.<br><br>
-__Civic Association & Self-Organization:__ Post-9/11 volunteerism spikes briefly; longer-term civic-association decline continues; internet forums begin substituting for local civic engagement.<br><br>
-__Leisure, Play & Sociability:__ Television hours remain high; DVR adoption allows time-shifting, fragmenting shared viewing; reality television dominates; sports and crisis events anchor collective sociability.<br><br>
-__Grievance Channels & Social Discharge:__ Partisan cable news channels absorb and amplify grievance; talk radio intensifies; Iraq War protests 2003 discharge antiwar sentiment but fail to shift policy; polarization residue accumulates.<br><br>
-## __P05. Political Environment__
-__Power Structure & Authority:__ Executive authority expands under war-on-terror framing; Patriot Act concentrates surveillance power; partisan polarization intensifies but governance proceeds.<br><br>
-__Succession & Power Transfer:__ Bush reelection 2004 orderly; contested 2000 election memory lingers; transfer mechanisms stable despite partisan rancor.<br><br>
-__Legitimacy & Political Narrative:__ War-on-terror narrative dominates post-9/11; Iraq War 2003 divides legitimacy claims; WMD absence erodes administration credibility among critics while supporters hold firm.<br><br>
-__Administrative Capacity & Institutional Integrity:__ FCC proceeds with digital-transition mandates; deregulatory posture continues; FEMA failures in Katrina 2005 expose capacity gaps at window's edge; corruption low, regulatory capture evident.<br><br>
-__Political Participation & Mobilization:__ 2004 turnout rises; partisan mobilization via cable and early internet intensifies; MoveOn and Swift Boat campaigns pioneer new-media tactics.<br><br>
-__Geopolitical Position & External Relations:__ Unipolar moment strains; Afghanistan and Iraq occupations broadcast continuously; coalition fractures over Iraq; soft-power credibility erodes internationally.<br><br>
-__Coercive Apparatus & Means of Force:__ Military deployed in two theaters; defense spending surges; embedded-journalist system controls war imagery; domestic security apparatus expands—DHS created 2002.<br><br>
-__Internal Order & Threat Environment:__ Terrorism threat elevated in perception; actual domestic attacks minimal post-anthrax; crime rates continue decline; order margin adequate despite heightened anxiety.<br><br>
-## __P06. Informational Environment__
-__Channels & Transmission Velocity:__ Cable and satellite dominate; broadband internet spreads—dial-up yields to DSL and cable modems; transmission velocity instantaneous for broadcast, accelerating for online; reach near-universal among middle class.<br><br>
-__Record, Storage & Persistence:__ Digital archiving expands; videotape gives way to server storage; retrieval improving; persistence strengthens as digital formats standardize, though format obsolescence looms.<br><br>
-__Framing, Censorship & Discourse Norms:__ FCC indecency enforcement tightens after Janet Jackson 2004; partisan framing hardens—Fox vs. CNN/MSNBC; discourse norms bifurcate along channel and online-community lines.<br><br>
-__Reception, Attention & Amplification:__ Attention polarizes; 9/11 achieves universal saturation, then audiences re-sort; Iraq War coverage amplified selectively by partisan outlets; blogs emerge as amplification vectors.<br><br>
-__Signal Integrity & Noise Load:__ Information volume explodes; WMD intelligence failures exemplify signal-integrity breakdown; partisan noise overwhelms verification capacity; audiences retreat to trusted-source silos.<br><br>
-## __P07. Judicial Environment__
-__Moral Foundations & Sense of Justice:__ Baseline justice notions stable but contested; torture debate (Abu Ghraib 2004) divides moral consensus; security-versus-liberty framing polarizes.<br><br>
-__Law, Codification & Regulatory Evolution:__ Patriot Act 2001 expands surveillance authority; FCC digital-transition deadlines codified; broadcast-ownership rules contested in courts; regulatory evolution accelerates.<br><br>
-__Adjudication, Enforcement & Liability:__ Courts process media and security disputes; Guantanamo habeas cases reach Supreme Court; throughput adequate; liability frameworks strained by war-on-terror exceptionalism.<br><br>
-__Rights, Protections & Compliance Burden:__ First Amendment protections tested by security concerns; broadcast licensees face compliance drag from indecency crackdown; cable and internet less regulated; predictability moderate.<br><br>
-__Impunity & Unredressed Wrong:__ Torture and detention abuses proceed with limited accountability; media consolidation continues despite court challenges; critics perceive unredressed wrongs accumulating.<br><br>
-## __P08. Intellectual Environment__
-__Inquiry, Theory & Paradigm:__ Media-convergence and network-society theories dominate scholarship; digital-transition engineering advances; terrorism and security studies expand rapidly post-9/11.<br><br>
-__Applied Knowledge & Technical Method:__ HDTV rollout proceeds; digital compression matures; streaming video (YouTube launches 2005) demonstrates new distribution method; DVR technology spreads.<br><br>
-__Education, Knowledge Stock & Skill Distribution:__ Media-literacy education lags audience fragmentation; journalism schools debate objectivity norms; technical skill in digital production concentrates among younger cohorts.<br><br>
-__Obsolescence & Knowledge Decay:__ Analog-broadcast expertise obsolesces as digital transition mandates near; VHS repair skills vanish; knowledge decay accelerates in legacy-technology domains.<br><br>
-## __P09. Cultural Environment__
-__Mythos, Memory & Foundational Identity:__ 9/11 enters foundational memory instantly; American identity reframes around victimhood and resilience; partisan interpretations diverge, fragmenting shared mythos.<br><br>
-__Artistic Expression & Material Culture:__ Television aesthetics mature—HBO prestige drama peaks; reality television saturates; visual culture oscillates between patriotic imagery and ironic detachment.<br><br>
-__Collective Mood & Behavioral Disposition:__ Mood anxious post-9/11, then bifurcates—security-focused vs. civil-liberties-focused; risk perception elevated for terrorism, lower for economic collapse; temper volatile and polarized.<br><br>
-__Form Exhaustion & Meaning Decay:__ Network-news authority continues fading; 24-hour-news cycle exhausts attention; patriotic symbols risk overuse and hollowing; new digital forms not yet stabilized, anomie accumulates.<br><br>
-## __P10. Spiritual Environment__
-__Cosmology & Existential Outlook:__ Post-9/11 religious attendance spikes briefly, then recedes; secularism advances in media content; existential outlook polarizes between evangelical certainty and secular anxiety.<br><br>
-__Ritual, Devotion & Sacred Practice:__ Memorial rituals (9/11 anniversaries) sacralized; megachurch attendance grows; televangelism persists on cable niches; devotional practice privatizes further.<br><br>
-__Religious Institutions & Doctrinal Authority:__ Evangelical political mobilization peaks (2004 election); Catholic abuse scandals continue; mainline Protestantism declines; doctrinal authority contested and politicized.<br><br>
-__Spiritual Diffusion, Syncretism & Displacement:__ Islam visibility rises through news coverage, often negatively framed; interfaith dialogue initiatives emerge; Christianity dominant but internally diversifying.<br><br>
-__Disenchantment & Sacred Discharge:__ Secularizing drift continues in educated urban strata; spiritual need redirected into therapeutic and self-help culture; 9/11 temporarily re-enchants public discourse, then disenchantment resumes as war costs mount.<br><br>
+# __2001 CE – 2005 CE — Post-9/11 Broadcasting and Digital Transition__
+
+__Summary:__ The September 11 attacks temporarily restore broadcast television's unifying function as the nation experiences collective trauma through simultaneous viewing, but this brief convergence masks accelerating structural transformation — DVR adoption, broadband expansion, and the 2005 emergence of YouTube signal that the broadcast regime's capacity to address the population as one audience is approaching its terminal phase, with the binding constraint being the irreversible fragmentation of attention that digital alternatives enable.
+
+## D01. Physical Domain
+
+__Geography & Spatial Friction:__ Broadcast infrastructure remains concentrated in New York and Los Angeles, with the World Trade Center attacks destroying transmission facilities atop the North Tower and requiring emergency reconstruction; the physical vulnerability of centralized infrastructure becomes briefly visible before attention moves elsewhere; continental cable and satellite distribution continues uninterrupted.
+
+__Climate Regime & Volatility:__ Hurricane Katrina (2005) devastates Gulf Coast broadcasting infrastructure and generates sustained national coverage that tests whether broadcast can still command unified attention; the storm's aftermath becomes a media event demonstrating both broadcast's remaining power and its emerging limitations as online alternatives supplement television coverage.
+
+__Hazard Regime & Exposure:__ The anthrax mail attacks (2001) following September 11 heighten anxiety about critical infrastructure vulnerability; broadcast facilities implement security upgrades; the Iraq War (2003) exposes correspondents to combat hazards while embedded journalist programs create new access arrangements.
+
+__Resource & Energy Endowment:__ Fiber optic buildout continues despite dot-com collapse; broadband penetration rises from approximately ten percent (2001) to over forty percent (2005) of households; the infrastructure for eventual video streaming matures even as broadcast television consumes its final years of dominance.
+
+__Waste Absorption & Sink Capacity:__ The mandated digital television transition (target date repeatedly extended, eventually 2009) approaches, promising massive obsolescence of analog equipment; early converter box programs begin; electronic waste concerns grow as household electronics multiply; media conglomerates write down dot-com-era acquisition premiums.
+
+## D02. Biological Domain
+
+__Pathogen Load & Mortality Baseline:__ Bioterrorism anxiety following the anthrax attacks generates health coverage spikes; SARS (2003) receives extensive coverage demonstrating global health story potential; prescription drug advertising saturates broadcast schedules following continued FDA relaxation; obesity coverage intensifies.
+
+__Nutrition & Physiological Vitality:__ Super Size Me (2004) exemplifies media attention to food industry practices; childhood obesity becomes a broadcast news staple; Morgan Spurlock demonstrates documentary's capacity to generate cultural conversation about health; the sedentary viewing lifestyle receives renewed criticism.
+
+__Care, Healing & Recovery Capacity:__ Healthcare costs become a political issue receiving regular broadcast attention; medical reality programming proliferates (Extreme Makeover, Nip/Tuck); pharmaceutical advertising revenues become essential to network economics; the prescription drug benefit debate (2003) demonstrates health policy's television presence.
+
+__Reproductive Biology & Pairing Dynamics:__ Reality dating shows multiply (The Bachelor, 2002); cable pushes content boundaries further; Janet Jackson's Super Bowl "wardrobe malfunction" (2004) triggers regulatory backlash demonstrating broadcast's remaining special status; the incident's disproportionate response reveals anxieties about content control in fragmented environment.
+
+__Demographic Renewal & Density:__ US population reaches 296 million (2005); Hispanic population growth continues driving Spanish-language media expansion; aging baby boomers represent the last generation formed by three-network broadcast culture; younger cohorts increasingly default to cable and internet.
+
+__Attrition & Dependency Overhang:__ Network news audiences continue aging and shrinking; the deaths of network era figures (Fred Rogers 2003, Johnny Carson 2005) mark generational transition; advertising demographics increasingly favor cable channels reaching younger viewers; local television newsrooms contract.
+
+## D03. Economic Domain
+
+__Subsistence & Provisioning Floor:__ Over-the-air broadcast television remains free at point of use, though the approaching digital transition threatens to orphan viewers without converter boxes or new sets; basic cable rates continue rising; the digital divide persists as broadband remains unavailable or unaffordable in many areas.
+
+__Energy Capture & Conversion:__ Digital transmission proves more spectrum-efficient than analog, freeing bandwidth for auction to wireless carriers; the economic value of recovered spectrum motivates government's digital transition mandate; broadband infrastructure investment recovers from dot-com collapse.
+
+__Labor Organization & Coercion:__ Post-bubble media industry sheds jobs; newsroom consolidation accelerates; reality television's low labor costs relative to scripted programming continue driving format adoption; production increasingly migrates to non-union environments and overseas locations for cost savings.
+
+__Production & Surplus Capacity:__ Reality programming dominates network prime time (American Idol, 2002; Survivor continues); scripted drama concentrates on premium cable (The Wire 2002, Deadwood 2004); production volume remains high but quality stratifies between prestige cable and cheap broadcast reality formats.
+
+__Storage, Reserves & Buffering:__ DVR penetration rises from near zero (2001) to approximately ten percent (2005), fundamentally threatening advertising-supported broadcast model by enabling commercial skipping; content libraries remain valuable but business models for digital distribution remain unsettled; Netflix DVD-by-mail service grows.
+
+__Exchange, Trade & Logistics:__ Retransmission consent negotiations intensify as broadcasters seek cable carriage fees to supplement declining advertising; iTunes Music Store (2003) demonstrates digital content sales viability; BitTorrent (2001) enables unauthorized distribution of video content; YouTube launches (2005), signaling coming disruption.
+
+__Value Storage, Credit & Deferred Exchange:__ Media company valuations recover partially from dot-com collapse but remain below 2000 peaks; Comcast's attempted hostile acquisition of Disney (2004) demonstrates continued consolidation pressure; private equity enters media sector seeking undervalued assets.
+
+__Surplus Extraction & Redistribution:__ Multi-platform rights become essential to content economics; cable networks demand increasing shares of advertising revenue; broadcasters extract retransmission fees approaching cable network levels; the advertising pie grows slowly while competitors multiply.
+
+__Wealth Distribution & Asset Defense:__ Media ownership concentration continues; FCC's 2003 attempt to further relax ownership limits faces unexpected public backlash and court reversal; Sinclair Broadcast Group controversy (2004) over requiring stations to air anti-Kerry documentary demonstrates politicization of broadcast ownership.
+
+__Byproducts & Waste Routing:__ Failed digital ventures continue generating writeoffs; AOL Time Warner reverses its name (2003), acknowledging merger failure; analog equipment approaches obsolescence; the financial residue of 1990s media bubble continues clearing through balance sheets.
+
+## D04. Social Domain
+
+__Kinship, Family & Inheritance:__ Family viewing continues fragmenting as personal screens multiply; children's media consumption increasingly individual; parental anxiety about media content drives V-chip adoption though actual usage remains low; the shared family television moment becomes an exception requiring deliberate coordination rather than default.
+
+__Association & Mutual Aid:__ September 11 temporarily restores broadcast's community-forming function; subsequent coverage of Iraq War divides rather than unites; online communities begin supplementing and supplanting broadcast-formed communities; water-cooler conversation increasingly assumes shared cable or internet experience rather than broadcast.
+
+__Leisure, Play & Sociability:__ DVR adoption transforms viewing into time-shifted, personalized experience; appointment television declines except for live events and reality competition finales; sports remain the reliable source of must-see live content; ESPN's influence continues growing.
+
+__Stratification, Status & Group Structure:__ HBO prestige programming (The Sopranos, Six Feet Under, The Wire) stratifies cultural conversation by subscription status; premium cable viewers and non-subscribers inhabit different cultural spaces; the broadcast commons continues fragmenting into parallel gated communities.
+
+__Administrative Capacity & Institutional Integrity:__ FCC under Michael Powell pursues deregulation and digital transition; the Janet Jackson incident triggers Congress to increase indecency fines tenfold (2006, outside window); cross-media ownership rules remain contested; administrative capacity focuses on spectrum management rather than content regulation.
+
+__Coercive Apparatus & Means of Force:__ Post-9/11 security state expansion receives limited critical broadcast coverage; embedded journalist programs during Iraq War raise access-for-cooperation concerns; government messaging capacity demonstrated through color-coded threat advisory coverage; broadcast generally supports rather than scrutinizes war effort.
+
+__Discharge, Disorder & Decay:__ CBS News's "Rathergate" scandal (2004) over disputed National Guard documents damages legacy network news credibility; bloggers' role in exposing document problems signals power shift; media polarization intensifies; broadcast news institutions' authority continues eroding.
+
+## D05. Emotional Domain
+
+__Public Sentiment & Behavioral Temper:__ September 11 generates fear, grief, and patriotic unity expressed through simultaneous broadcast viewing; this unity fragments as Iraq War debate (2003) polarizes public opinion; Fox News and MSNBC increasingly serve as partisan comfort zones rather than shared information sources; anxiety persists as baseline mood.
+
+__Leadership & Personal Authority:__ President Bush's post-9/11 addresses demonstrate broadcast's remaining capacity for national leadership moments; cable news personalities (O'Reilly, Hannity, Matthews) gain influence with committed partisan audiences; network anchors' authority diminishes as alternatives multiply.
+
+__Legitimacy as Lived Allegiance:__ Trust in media continues declining; partisan media environments reinforce preexisting beliefs rather than building shared understanding; the Iraq War WMD intelligence failure damages credibility of both government and news organizations that transmitted claims uncritically; CBS document scandal exemplifies institutional vulnerability.
+
+__Political Will & Collective Resolve:__ Post-9/11 national unity sufficient to support Afghanistan and Iraq War launches; this resolve fragments as Iraq occupation extends; broadcast's capacity to sustain collective will diminishes as audiences fragment into ideologically reinforcing channels; war weariness develops unevenly across media environments.
+
+__External Relations & Posture:__ American media exports continue but face growing criticism for cultural imperialism; Al Jazeera emerges as alternative perspective; international audiences increasingly available to American viewers through internet; Canadian media continues balancing proximity and distinctiveness.
+
+__Disaffection, Apathy & Spent Will:__ War coverage exhaustion sets in by 2004-2005; Abu Ghraib scandal (2004) further divides opinion rather than creating consensus; younger viewers' disengagement from broadcast news accelerates; political participation remains suppressed despite media saturation; distrust generalizes across institutions.
+
+## D06. Informational Domain
+
+__Communication Accessibility:__ Broadband reaches over forty percent of households by 2005; mobile phone penetration approaches saturation; the digital divide persists but narrows; those without internet access increasingly disadvantaged as essential information migrates online; broadcast remains accessible but decreasingly sufficient.
+
+__Channels & Transmission Velocity:__ September 11 demonstrates broadcast's remaining capacity for real-time crisis coverage; however, blogs and early social media increasingly compete on breaking news; the Iraq War generates parallel information streams as military, mainstream, and independent sources conflict; latency between event and awareness approaches zero for connected users.
+
+__Record, Storage & Persistence:__ DVR adoption makes personal archiving routine; YouTube (2005) begins enabling indefinite video availability; the ephemeral nature of broadcast gives way to persistent searchable archives; accountability for past statements increases as video evidence becomes retrievable.
+
+__Framing, Censorship & Discourse Norms:__ Post-9/11 patriotic framing constrains broadcast coverage; dissenting views marginalized; embedded journalism programs shape war coverage through access control; the Janet Jackson incident triggers content restriction backlash; cable and internet operate under looser constraints than broadcast.
+
+__Reception, Attention & Amplification:__ DVR time-shifting fundamentally changes reception patterns; commercial skipping threatens advertising model; attention fragments across proliferating screens; viral distribution (early YouTube, email forwards) begins competing with broadcast amplification for cultural penetration.
+
+__Signal Integrity & Noise Load:__ Iraq War information environment demonstrates signal corruption through competing claims; Swift Boat Veterans campaign (2004) illustrates coordinated amplification strategies; CBS document scandal shows verification failures under competitive pressure; noise load increases as source multiplication outpaces verification capacity.
+
+## D07. Moral Domain
+
+__Moral Foundations & Sense of Justice:__ Post-9/11 period sees heightened moral discourse around terrorism, torture, civil liberties, and just war; broadcast coverage generally defers to government framing; Abu Ghraib photographs (2004) force confrontation with torture questions; war supporters and critics operate from divergent moral frameworks.
+
+__Law, Codification & Regulatory Evolution:__ The USA PATRIOT Act expands government surveillance authority with broadcast implications; FCC indecency enforcement intensifies after Janet Jackson incident; broadcast license renewal remains near-automatic despite public interest obligations; digital transition rules finalize.
+
+__Adjudication, Liability & Sanction:__ CBS News faces internal investigation and personnel changes after document scandal; no individual held legally accountable for Iraq War intelligence failures; FCC fines increase but remain modest relative to broadcast revenues; the gap between theoretical accountability and actual sanction widens.
+
+__Rights, Protections & Compliance Burden:__ Press freedom faces post-9/11 pressure as national security claims expand; embedded journalism trades access for implicit content control; digital transition imposes technical compliance costs on broadcasters; children's television requirements continue with minimal enforcement.
+
+__Impunity & Unredressed Wrong:__ No accountability for pre-war coverage that transmitted flawed intelligence claims; media's failure to scrutinize WMD assertions acknowledged retrospectively without consequence; concentration-enabled conflicts of interest persist; the accountability deficit accumulates.
+
+## D08. Intellectual Domain
+
+__Inquiry, Theory & Paradigm:__ Media studies scholarship examines post-9/11 coverage and its failures; political communication research tracks partisan media effects; technological disruption literature proliferates; the assumption that broadcast's dominance will persist begins yielding to recognition of platform transition.
+
+__Applied Knowledge & Technical Method:__ Digital video production becomes accessible; HD broadcast standards implementation proceeds; internet video compression matures; BitTorrent and peer-to-peer distribution demonstrate technical alternatives to broadcast; mobile video capability approaches viability.
+
+__Education, Knowledge Stock & Skill Distribution:__ Media literacy receives renewed emphasis given information environment complexity; journalism education incorporates digital skills; technical expertise for converged media platforms commands premium; broadcast engineering skills' market value declines.
+
+__Obsolescence & Knowledge Decay:__ Analog broadcast expertise approaches obsolescence as digital transition nears; three-network era journalism conventions inadequate to fragmented environment; institutional knowledge of broadcast's unifying function fades as practitioners retire; the skills and assumptions of broadcast dominance become historical rather than operational.
+
+## D09. Cultural Domain
+
+__Mythos, Memory & Foundational Identity:__ September 11 enters American mythology through broadcast imagery — the second plane's impact, the towers' collapse, replayed to the point of traumatic saturation; this shared visual memory represents broadcast's final major contribution to unified national consciousness; subsequent events fragment rather than unite.
+
+__Legitimating Narrative & Ideology:__ War on Terror framing dominates broadcast discourse; freedom and security presented as complementary rather than in tension; market ideology continues justifying media consolidation; the public interest standard that once legitimated broadcast regulation becomes vestigial.
+
+__Artistic Expression & Material Culture:__ Post-9/11 cultural production struggles to process trauma; flag imagery proliferates; premium cable continues producing prestige drama while broadcast networks retreat to reality formats; The Daily Show (1999, gaining prominence in this window) emerges as significant cultural critique venue.
+
+__Form Exhaustion & Meaning Decay:__ Reality television format exhaustion approaches; network sitcom decline continues; late-night talk shows under new hosts (Conan, Kimmel) struggle to match predecessors; the forms broadcast developed for mass audience no longer fit fragmented viewership; cable and internet enable new forms broadcast cannot accommodate.
+
+## D10. Spiritual Domain
+
+__Cosmology & Existential Outlook:__ September 11 triggers theological reflection on evil, suffering, and American purpose; broadcast coverage generally frames events within civil religious framework of American exceptionalism; existential anxiety persists beneath surface confidence; apocalyptic speculation circulates in religious media.
+
+__Ritual, Devotion & Sacred Practice:__ September 11 commemorations acquire ritual character; the attacks' anniversaries become broadcast events; patriotic displays during sports events intensify; civil religion strengthens briefly before partisan polarization fragments even shared commemoration.
+
+__Religious Institutions & Doctrinal Authority:__ Evangelical media influence on Republican politics increases; televangelism continues serving committed audiences; interfaith dialogue receives attention immediately post-9/11 before subsiding; religious broadcasting remains segregated from mainstream.
+
+__Spiritual Diffusion, Syncretism & Displacement:__ Islam receives increased but often stereotyped coverage; American Muslims face surveillance and suspicion; religious pluralism rhetoric coexists with de facto Christian cultural dominance in broadcast content; spiritual seeking continues migrating to niche channels and internet.
+
+__Disenchantment & Sacred Discharge:__ Commercial media's secularity unchanged despite post-9/11 religious moment; the sacred appears primarily as civil religion attached to nation and military; transcendence rarely interrupts entertainment flow; religious and secular media environments increasingly separate, with broadcast occupying secular default position from which the sacred is functionally absent.
