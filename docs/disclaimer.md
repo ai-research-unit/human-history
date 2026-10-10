@@ -5,7 +5,7 @@ description: On the nature of this project, its accuracy, and appropriate use.
 
 # Disclaimer
 
-This project uses the advanced AI models to describe human history.
+This project uses advanced AI models to describe human history.
 
 The articles are written by AI and are provided as is, without any guarantee of accuracy. 
 
